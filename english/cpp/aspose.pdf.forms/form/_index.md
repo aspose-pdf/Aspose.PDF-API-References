@@ -28,14 +28,14 @@ class Form : public System::Collections::Generic::ICollection<System::SharedPtr<
 
 | Method | Description |
 | --- | --- |
-| [Add](./add/)(System::SharedPtr\<Field\>, int32_t) | Adds field on the form. |
+| [Add](./add/)(const System::SharedPtr\<Field\>\&, int32_t) | Adds field on the form. |
 | [Add](./add/)(const System::SharedPtr\<Field\>\&) | Adds field on the form. |
-| [Add](./add/)(System::SharedPtr\<Field\>, System::String, int32_t) | Adds new field to the form; If this field is already placed on other or this form, the copy of field is created. |
-| [AddFieldAppearance](./addfieldappearance/)(System::SharedPtr\<Field\>, int32_t, System::SharedPtr\<Rectangle\>) | Adds additional appearance of the field to specified page of the document in the specified location. |
-| [AssignXfa](./assignxfa/)(System::SharedPtr\<System::Xml::XmlDocument\>) | Sets [XFA](../xfa/) of the form to specified value. |
-| [CopyTo](./copyto/)(System::ArrayPtr\<System::SharedPtr\<Field\>\>, int32_t) | Copies fields placed on the form into array. |
-| [Delete](./delete/)(System::SharedPtr\<Field\>) | Delete field from the form. |
-| [Delete](./delete/)(System::String) | Deletes field from the form by its name. |
+| [Add](./add/)(System::SharedPtr\<Field\>, const System::String\&, int32_t) | Adds new field to the form; If this field is already placed on other or this form, the copy of field is created. |
+| [AddFieldAppearance](./addfieldappearance/)(const System::SharedPtr\<Field\>\&, int32_t, const System::SharedPtr\<Rectangle\>\&) | Adds additional appearance of the field to specified page of the document in the specified location. |
+| [AssignXfa](./assignxfa/)(const System::SharedPtr\<System::Xml::XmlDocument\>\&) | Sets [XFA](../xfa/) of the form to specified value. |
+| [CopyTo](./copyto/)(const System::ArrayPtr\<System::SharedPtr\<Field\>\>\&, int32_t) | Copies fields placed on the form into array. |
+| [Delete](./delete/)(const System::SharedPtr\<Field\>\&) | Delete field from the form. |
+| [Delete](./delete/)(const System::String\&) | Deletes field from the form by its name. |
 | [Flatten](./flatten/)() | Removes all form fields and place their values directly on the page. |
 | [get_AutoRecalculate](./get_autorecalculate/)() const | If set, all form fields will be recalculated when any field is changed. Default value is true. Set to false in order to increase performance when filling form with large amount of calculated fields. |
 | [get_AutoRestoreForm](./get_autorestoreform/)() const | If set, absent form fields will be automatically created if they present in annotations. |
@@ -55,18 +55,18 @@ class Form : public System::Collections::Generic::ICollection<System::SharedPtr<
 | [get_Type](./get_type/)() | Gets type of the form. Possible values are: Standard, Static, Dynamic. |
 | [get_XFA](./get_xfa/)() const | Gets [XFA](../xfa/) data of the form (if presents). |
 | [GetEnumerator](./getenumerator/)() override | Gets enumeration of form fields. |
-| [GetFieldsInRect](./getfieldsinrect/)(System::SharedPtr\<Rectangle\>) | Returns fields inside of specified rectangle. |
-| [HasField](./hasfield/)(System::SharedPtr\<Field\>) | Check if the form already has specified field. |
-| [HasField](./hasfield/)(System::String) | Determines if the field with specified name already added to the [Form](./). |
-| [HasField](./hasfield/)(System::String, bool) | Determines if the field with specified name already added to the [Form](./), with ability to look into children hierarchy of fields. |
-| [idx_get](./idx_get/)(System::String) | Gets field of the form by field name. Throws excpetion if the field was not found. |
+| [GetFieldsInRect](./getfieldsinrect/)(const System::SharedPtr\<Rectangle\>\&) | Returns fields inside of specified rectangle. |
+| [HasField](./hasfield/)(const System::SharedPtr\<Field\>\&) | Check if the form already has specified field. |
+| [HasField](./hasfield/)(const System::String\&) | Determines if the field with specified name already added to the [Form](./). |
+| [HasField](./hasfield/)(const System::String\&, bool) | Determines if the field with specified name already added to the [Form](./), with ability to look into children hierarchy of fields. |
+| [idx_get](./idx_get/)(const System::String\&) | Gets field of the form by field name. Throws excpetion if the field was not found. |
 | [idx_get](./idx_get/)(int32_t) | Gets field of the form by field index. |
-| [MakeFormAnnotationsIndependent](./makeformannotationsindependent/)(System::SharedPtr\<Page\>) | Makes form fields annotations independent. |
-| [RemoveFieldAppearance](./removefieldappearance/)(System::SharedPtr\<Field\>, int32_t) | Removes appearance of the field at specified index. If only one child appearance left, method embeds it into the field. |
+| [MakeFormAnnotationsIndependent](./makeformannotationsindependent/)(const System::SharedPtr\<Page\>\&) | Makes form fields annotations independent. |
+| [RemoveFieldAppearance](./removefieldappearance/)(const System::SharedPtr\<Field\>\&, int32_t) | Removes appearance of the field at specified index. If only one child appearance left, method embeds it into the field. |
 | [set_AutoRecalculate](./set_autorecalculate/)(bool) | If set, all form fields will be recalculated when any field is changed. Default value is true. Set to false in order to increase performance when filling form with large amount of calculated fields. |
 | [set_AutoRestoreForm](./set_autorestoreform/)(bool) | If set, absent form fields will be automatically created if they present in annotations. |
-| [set_CalculatedFields](./set_calculatedfields/)(System::SharedPtr\<System::Collections::Generic::IEnumerable\<System::SharedPtr\<Field\>\>\>) | Allows to set order of field calculation. |
-| [set_DefaultAppearance](./set_defaultappearance/)(System::SharedPtr\<Aspose::Pdf::Annotations::DefaultAppearance\>) | Sets default appearance of the form (object which describes default font, text size and color for fields on the form). |
+| [set_CalculatedFields](./set_calculatedfields/)(const System::SharedPtr\<System::Collections::Generic::IEnumerable\<System::SharedPtr\<Field\>\>\>\&) | Allows to set order of field calculation. |
+| [set_DefaultAppearance](./set_defaultappearance/)(const System::SharedPtr\<Aspose::Pdf::Annotations::DefaultAppearance\>\&) | Sets default appearance of the form (object which describes default font, text size and color for fields on the form). |
 | [set_EmulateRequierdGroups](./set_emulaterequierdgroups/)(bool) | If this property is true then additional red boundary rectangles will be drawn for required Xfa exclGroup elements containers This property was introduced because absences of analogues for the exclGroup during conversion Xfa representation of forms to standard. It is false by default. |
 | [set_IgnoreNeedsRendering](./set_ignoreneedsrendering/)(bool) | If this property is true the value of NeedsRendering key will be ignored during conversion [XFA](../xfa/) form to Standard form. It is false by default. |
 | [set_RemovePermission](./set_removepermission/)(bool) | If this property is true the "Perms" dictionary will be removed from the pdf document after conversion dynamic documents to standard. The "Perms" dictionary can contain a rules that disturb displaying selection of mandatory fields in Adobe Acrobat reader. It is false by default. |

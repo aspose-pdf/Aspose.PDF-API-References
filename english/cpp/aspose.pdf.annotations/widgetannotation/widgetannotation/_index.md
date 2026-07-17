@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/widgetannotation/widgetannotation/
 Create annotation (used for Generator)
 
 ```cpp
-Aspose::Pdf::Annotations::WidgetAnnotation::WidgetAnnotation(System::SharedPtr<Document> doc)
+Aspose::Pdf::Annotations::WidgetAnnotation::WidgetAnnotation(const System::SharedPtr<Document> &doc)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | System::SharedPtr\<Document\> | [Document](../../../aspose.pdf/document/) where annotation will be created. |
+| doc | const System::SharedPtr\<Document\>\& | [Document](../../../aspose.pdf/document/) where annotation will be created. |
 
 ## See Also
 

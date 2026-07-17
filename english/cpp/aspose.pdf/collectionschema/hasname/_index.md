@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/collectionschema/hasname/
 Determines whether the specified name exists in the schema.
 
 ```cpp
-bool Aspose::Pdf::CollectionSchema::HasName(System::String name)
+bool Aspose::Pdf::CollectionSchema::HasName(const System::String &name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | The name to check. |
+| name | const System::String\& | The name to check. |
 
 ### ReturnValue
 

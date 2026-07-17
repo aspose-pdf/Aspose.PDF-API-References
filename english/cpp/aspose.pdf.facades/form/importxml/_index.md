@@ -7,19 +7,19 @@ type: docs
 weight: 3600
 url: /cpp/aspose.pdf.facades/form/importxml/
 ---
-## Form::ImportXml(System::SharedPtr\<System::IO::Stream\>) method
+## Form::ImportXml(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Imports the content of the fields from the xml file and put them into the new pdf.
 
 ```cpp
-void Aspose::Pdf::Facades::Form::ImportXml(System::SharedPtr<System::IO::Stream> inputXmlStream)
+void Aspose::Pdf::Facades::Form::ImportXml(const System::SharedPtr<System::IO::Stream> &inputXmlStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputXmlStream | System::SharedPtr\<System::IO::Stream\> | Stream from which XML for import is read. |
+| inputXmlStream | const System::SharedPtr\<System::IO::Stream\>\& | Stream from which XML for import is read. |
 
 ## See Also
 
@@ -28,19 +28,19 @@ void Aspose::Pdf::Facades::Form::ImportXml(System::SharedPtr<System::IO::Stream>
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Form::ImportXml(System::SharedPtr\<System::IO::Stream\>, bool) method
+## Form::ImportXml(const System::SharedPtr\<System::IO::Stream\>\&, bool) method
 
 
 Imports the content of the fields from the xml file and put them into the new pdf.
 
 ```cpp
-void Aspose::Pdf::Facades::Form::ImportXml(System::SharedPtr<System::IO::Stream> inputXmlStream, bool IgnoreFormTemplateChanges)
+void Aspose::Pdf::Facades::Form::ImportXml(const System::SharedPtr<System::IO::Stream> &inputXmlStream, bool IgnoreFormTemplateChanges)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputXmlStream | System::SharedPtr\<System::IO::Stream\> | The input xml stream. |
+| inputXmlStream | const System::SharedPtr\<System::IO::Stream\>\& | The input xml stream. |
 | IgnoreFormTemplateChanges | bool | If this parameter is true then all changes of the XFA form template will not be saved |
 
 ## See Also

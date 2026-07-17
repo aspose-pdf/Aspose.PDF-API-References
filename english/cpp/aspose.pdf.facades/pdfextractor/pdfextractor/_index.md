@@ -21,19 +21,19 @@ Aspose::Pdf::Facades::PdfExtractor::PdfExtractor()
 * Class [PdfExtractor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfExtractor::PdfExtractor(System::SharedPtr\<Aspose::Pdf::Document\>) constructor
+## PdfExtractor::PdfExtractor(const System::SharedPtr\<Aspose::Pdf::Document\>\&) constructor
 
 
 Initializes new [PdfExtractor](../) object on base of the *document* .
 
 ```cpp
-Aspose::Pdf::Facades::PdfExtractor::PdfExtractor(System::SharedPtr<Aspose::Pdf::Document> document)
+Aspose::Pdf::Facades::PdfExtractor::PdfExtractor(const System::SharedPtr<Aspose::Pdf::Document> &document)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Aspose::Pdf::Document\> | [Pdf](../../../aspose.pdf/) document. |
+| document | const System::SharedPtr\<Aspose::Pdf::Document\>\& | [Pdf](../../../aspose.pdf/) document. |
 
 ## See Also
 

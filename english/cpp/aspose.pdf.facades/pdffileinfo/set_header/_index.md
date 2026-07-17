@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileinfo/set_header/
 Sets the customized information of PDF document.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileInfo::set_Header(System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::String>> value)
+void Aspose::Pdf::Facades::PdfFileInfo::set_Header(const System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::String>> &value)
 ```
 
 ## See Also

@@ -49,30 +49,30 @@ class PdfFormatConversionOptions : public System::Object
 | [get_SymbolicFontEncodingStrategy](./get_symbolicfontencodingstrategy/)() const | Strategy to copy encoding data for symbolic fonts if symbolic TrueType font has more than one encoding subtable. |
 | [get_TransparencyAction](./get_transparencyaction/)() const | Action for image masked objects. |
 | [get_UnicodeProcessingRules](./get_unicodeprocessingrules/)() const | Rules to solve problems with unicode mapping. Can be null. |
-| [PdfFormatConversionOptions](./pdfformatconversionoptions/)(System::String, PdfFormat, ConvertErrorAction) | Constructor. |
-| [PdfFormatConversionOptions](./pdfformatconversionoptions/)(System::String, PdfFormat) | Constructor. |
+| [PdfFormatConversionOptions](./pdfformatconversionoptions/)(const System::String\&, PdfFormat, ConvertErrorAction) | Constructor. |
+| [PdfFormatConversionOptions](./pdfformatconversionoptions/)(const System::String\&, PdfFormat) | Constructor. |
 | [PdfFormatConversionOptions](./pdfformatconversionoptions/)(PdfFormat) | Constructor. |
 | [PdfFormatConversionOptions](./pdfformatconversionoptions/)(PdfFormat, ConvertErrorAction) | Constructor. |
-| [PdfFormatConversionOptions](./pdfformatconversionoptions/)(System::String, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) | Constructor. |
-| [PdfFormatConversionOptions](./pdfformatconversionoptions/)(System::SharedPtr\<System::IO::Stream\>, PdfFormat, ConvertErrorAction) | Constructor. |
+| [PdfFormatConversionOptions](./pdfformatconversionoptions/)(const System::String\&, PdfFormat, ConvertErrorAction, ConvertTransparencyAction) | Constructor. |
+| [PdfFormatConversionOptions](./pdfformatconversionoptions/)(const System::SharedPtr\<System::IO::Stream\>\&, PdfFormat, ConvertErrorAction) | Constructor. |
 | [set_AlignText](./set_aligntext/)(bool) | This flag controls text alignment in converted document. By default document conversion doesn't affect text alignment and leave text as is. But in some cases font substitution causes text overlapping or extra spaces in converted document. When this flag is set special alignment operations will be performed. This flag should be set only for documents which have problems with overlapped text or extra text spaces cause using of this flag decrease performance and in some cases could corrupt text content. |
-| [set_AutoTaggingSettings](./set_autotaggingsettings/)(System::SharedPtr\<Aspose::Pdf::AutoTaggingSettings\>) | Sets the settings for automatic tagging during PDF format conversion. |
+| [set_AutoTaggingSettings](./set_autotaggingsettings/)(const System::SharedPtr\<Aspose::Pdf::AutoTaggingSettings\>\&) | Sets the settings for automatic tagging during PDF format conversion. |
 | [set_ConvertSoftMaskAction](./set_convertsoftmaskaction/)(Aspose::Pdf::ConvertSoftMaskAction) | Action for images with soft mask. |
 | [set_ErrorAction](./set_erroraction/)(ConvertErrorAction) | Action for objects that can not be converted. |
 | [set_ExcludeFontsStrategy](./set_excludefontsstrategy/)(PdfFormatConversionOptions::RemoveFontsStrategy) | Strategy(ies) to exclude superfluous fonts and reduce document file size. This parameter has sense only when flag [OptimizeFileSize](../) is set to true. By default combination of strategies [SubsetFonts](./removefontsstrategy/) and [RemoveDuplicatedFonts](./removefontsstrategy/) is used. |
 | [set_Format](./set_format/)(PdfFormat) | PDF format. |
-| [set_IccProfileFileName](./set_iccprofilefilename/)(System::String) | Sets the filename of icc profile name. In case of null the default icc profile used. |
+| [set_IccProfileFileName](./set_iccprofilefilename/)(const System::String\&) | Sets the filename of icc profile name. In case of null the default icc profile used. |
 | [set_IsAsyncImageStreamsConversionMode](./set_isasyncimagestreamsconversionmode/)(bool) | Gets/sets run of image streams in async mode. |
 | [set_IsLowMemoryMode](./set_islowmemorymode/)(bool) | Is low memory conversion mode enabled. |
 | [set_IsTransferInfo](./set_istransferinfo/)(bool) | Sets whether to pass data from Info to [Metadata](../metadata/) when converted to PDF 2.0. True by default. |
-| [set_LogFileName](./set_logfilename/)(System::String) | Path to file where comments will be stored. |
-| [set_LogStream](./set_logstream/)(System::SharedPtr\<System::IO::Stream\>) | Stream where comments will be stored. |
+| [set_LogFileName](./set_logfilename/)(const System::String\&) | Path to file where comments will be stored. |
+| [set_LogStream](./set_logstream/)(const System::SharedPtr\<System::IO::Stream\>\&) | Stream where comments will be stored. |
 | [set_OptimizeFileSize](./set_optimizefilesize/)(bool) | Sets a flag which enables/disables special conversion mode to get PDF/A document with reduced file size. Now this flag impacts on optimization of fonts used in PDF document, possibly, in future, this flag also will be used to switch on optimization for another data structures, such as graphic. Set of this flag and mode could significantly reduce file size but at the same time it could significantly decrease performance of conversion. |
-| [set_OutputIntent](./set_outputintent/)(System::SharedPtr\<Aspose::Pdf::OutputIntent\>) | Sets the [Aspose::Pdf::OutputIntent](../outputintent/) for the PDF format conversion. |
+| [set_OutputIntent](./set_outputintent/)(const System::SharedPtr\<Aspose::Pdf::OutputIntent\>\&) | Sets the [Aspose::Pdf::OutputIntent](../outputintent/) for the PDF format conversion. |
 | [set_PuaTextProcessingStrategy](./set_puatextprocessingstrategy/)(PdfFormatConversionOptions::PuaProcessingStrategy) | Strategy to process symbols from unicode Private Use Area (PUA). |
-| [set_SymbolicFontEncodingStrategy](./set_symbolicfontencodingstrategy/)(System::SharedPtr\<PdfASymbolicFontEncodingStrategy\>) | Strategy to copy encoding data for symbolic fonts if symbolic TrueType font has more than one encoding subtable. |
+| [set_SymbolicFontEncodingStrategy](./set_symbolicfontencodingstrategy/)(const System::SharedPtr\<PdfASymbolicFontEncodingStrategy\>\&) | Strategy to copy encoding data for symbolic fonts if symbolic TrueType font has more than one encoding subtable. |
 | [set_TransparencyAction](./set_transparencyaction/)(ConvertTransparencyAction) | Action for image masked objects. |
-| [set_UnicodeProcessingRules](./set_unicodeprocessingrules/)(System::SharedPtr\<ToUnicodeProcessingRules\>) | Rules to solve problems with unicode mapping. Can be null. |
+| [set_UnicodeProcessingRules](./set_unicodeprocessingrules/)(const System::SharedPtr\<ToUnicodeProcessingRules\>\&) | Rules to solve problems with unicode mapping. Can be null. |
 ## See Also
 
 * Class [Object](../../system/object/)

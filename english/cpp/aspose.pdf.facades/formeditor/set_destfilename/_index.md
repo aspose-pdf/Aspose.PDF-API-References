@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formeditor/set_destfilename/
 Sets destination file name.
 
 ```cpp
-void Aspose::Pdf::Facades::FormEditor::set_DestFileName(System::String value)
+void Aspose::Pdf::Facades::FormEditor::set_DestFileName(const System::String &value)
 ```
 
 

@@ -21,19 +21,19 @@ Aspose::Pdf::Comparison::HtmlDiffOutputGenerator::HtmlDiffOutputGenerator()
 * Class [HtmlDiffOutputGenerator](../)
 * Namespace [Aspose::Pdf::Comparison](../../)
 * Library [Aspose.PDF for C++](../../../)
-## HtmlDiffOutputGenerator::HtmlDiffOutputGenerator(System::SharedPtr\<OutputTextStyle\>) constructor
+## HtmlDiffOutputGenerator::HtmlDiffOutputGenerator(const System::SharedPtr\<OutputTextStyle\>\&) constructor
 
 
 Creates an instance of [HtmlDiffOutputGenerator](../) class.
 
 ```cpp
-Aspose::Pdf::Comparison::HtmlDiffOutputGenerator::HtmlDiffOutputGenerator(System::SharedPtr<OutputTextStyle> textStyle)
+Aspose::Pdf::Comparison::HtmlDiffOutputGenerator::HtmlDiffOutputGenerator(const System::SharedPtr<OutputTextStyle> &textStyle)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| textStyle | System::SharedPtr\<OutputTextStyle\> | The styles for the changed text. |
+| textStyle | const System::SharedPtr\<OutputTextStyle\>\& | The styles for the changed text. |
 
 ## See Also
 

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/pdfxmpmetadata/getprefixbynamespaceuri/
 Gets the prefix by namespace URI.
 
 ```cpp
-System::String Aspose::Pdf::Facades::PdfXmpMetadata::GetPrefixByNamespaceURI(System::String namespaceURI)
+System::String Aspose::Pdf::Facades::PdfXmpMetadata::GetPrefixByNamespaceURI(const System::String &namespaceURI)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| namespaceURI | System::String | Namespace URI. |
+| namespaceURI | const System::String\& | Namespace URI. |
 
 ### ReturnValue
 

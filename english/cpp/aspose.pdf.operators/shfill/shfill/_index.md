@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.operators/shfill/shfill/
 Initializes operator.
 
 ```cpp
-Aspose::Pdf::Operators::ShFill::ShFill(System::String shadingName)
+Aspose::Pdf::Operators::ShFill::ShFill(const System::String &shadingName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| shadingName | System::String | Shading name. |
+| shadingName | const System::String\& | Shading name. |
 
 ## See Also
 

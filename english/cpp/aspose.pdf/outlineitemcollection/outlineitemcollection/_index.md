@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/outlineitemcollection/outlineitemcollection/
 Initializes outline item instance using root hierarchy object.
 
 ```cpp
-Aspose::Pdf::OutlineItemCollection::OutlineItemCollection(System::SharedPtr<OutlineCollection> outlines)
+Aspose::Pdf::OutlineItemCollection::OutlineItemCollection(const System::SharedPtr<OutlineCollection> &outlines)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outlines | System::SharedPtr\<OutlineCollection\> | Outlune collection. |
+| outlines | const System::SharedPtr\<OutlineCollection\>\& | Outlune collection. |
 
 ## See Also
 

@@ -13,15 +13,15 @@ url: /cpp/aspose.pdf.annotations/polylineannotation/polylineannotation/
 Creates new Polyline annotation on the specified page.
 
 ```cpp
-Aspose::Pdf::Annotations::PolylineAnnotation::PolylineAnnotation(System::SharedPtr<Aspose::Pdf::Page> page, System::SharedPtr<Rectangle> rect, System::ArrayPtr<System::SharedPtr<Point>> vertices)
+Aspose::Pdf::Annotations::PolylineAnnotation::PolylineAnnotation(const System::SharedPtr<Aspose::Pdf::Page> &page, const System::SharedPtr<Rectangle> &rect, const System::ArrayPtr<System::SharedPtr<Point>> &vertices)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | The document's page where annotation should be created. |
-| rect | System::SharedPtr\<Rectangle\> | The annotation rectangle, defining the location of the annotation on the page. |
-| vertices | System::ArrayPtr\<System::SharedPtr\<Point\>\> | An array of polygon vertices points. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | The document's page where annotation should be created. |
+| rect | const System::SharedPtr\<Rectangle\>\& | The annotation rectangle, defining the location of the annotation on the page. |
+| vertices | const System::ArrayPtr\<System::SharedPtr\<Point\>\>\& | An array of polygon vertices points. |
 
 ## See Also
 

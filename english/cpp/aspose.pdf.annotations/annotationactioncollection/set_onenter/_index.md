@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotationactioncollection/set_onenter/
 Sets an action to be performed when the cursor enters the annotation's active area.
 
 ```cpp
-void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnEnter(System::SharedPtr<PdfAction> value)
+void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnEnter(const System::SharedPtr<PdfAction> &value)
 ```
 
 ## See Also

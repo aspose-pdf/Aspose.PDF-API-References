@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragment/set_segments/
 Gets text segments for current [TextFragment](../).
 
 ```cpp
-void Aspose::Pdf::Text::TextFragment::set_Segments(System::SharedPtr<TextSegmentCollection> value)
+void Aspose::Pdf::Text::TextFragment::set_Segments(const System::SharedPtr<TextSegmentCollection> &value)
 ```
 
 ## Remarks

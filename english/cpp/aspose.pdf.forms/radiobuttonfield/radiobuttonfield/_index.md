@@ -7,19 +7,19 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf.forms/radiobuttonfield/radiobuttonfield/
 ---
-## RadioButtonField::RadioButtonField(System::SharedPtr\<Aspose::Pdf::Page\>) constructor
+## RadioButtonField::RadioButtonField(const System::SharedPtr\<Aspose::Pdf::Page\>\&) constructor
 
 
 Constructor for RadiouttonField.
 
 ```cpp
-Aspose::Pdf::Forms::RadioButtonField::RadioButtonField(System::SharedPtr<Aspose::Pdf::Page> page)
+Aspose::Pdf::Forms::RadioButtonField::RadioButtonField(const System::SharedPtr<Aspose::Pdf::Page> &page)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | [Page](../../../aspose.pdf/page/) where radio button will be placed. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | [Page](../../../aspose.pdf/page/) where radio button will be placed. |
 
 ## See Also
 
@@ -28,19 +28,19 @@ Aspose::Pdf::Forms::RadioButtonField::RadioButtonField(System::SharedPtr<Aspose:
 * Class [RadioButtonField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## RadioButtonField::RadioButtonField(System::SharedPtr\<Document\>) constructor
+## RadioButtonField::RadioButtonField(const System::SharedPtr\<Document\>\&) constructor
 
 
 Constructor for [RadioButtonField](../).
 
 ```cpp
-Aspose::Pdf::Forms::RadioButtonField::RadioButtonField(System::SharedPtr<Document> doc)
+Aspose::Pdf::Forms::RadioButtonField::RadioButtonField(const System::SharedPtr<Document> &doc)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | System::SharedPtr\<Document\> | [Document](../../../aspose.pdf/document/) where radio button will be created. |
+| doc | const System::SharedPtr\<Document\>\& | [Document](../../../aspose.pdf/document/) where radio button will be created. |
 
 ## See Also
 

@@ -22,7 +22,7 @@ class StreamSaveTarget : public Aspose::Pdf::LowCode::ISaveTarget
 | --- | --- |
 | [get_Data](./get_data/)() const | Gets the stream of current save target. |
 | [get_SaveTarget](./get_savetarget/)() override | Type of the save target (stream). |
-| [StreamSaveTarget](./streamsavetarget/)(System::SharedPtr\<System::IO::Stream\>) | Initializes new stream save target. |
+| [StreamSaveTarget](./streamsavetarget/)(const System::SharedPtr\<System::IO::Stream\>\&) | Initializes new stream save target. |
 ## See Also
 
 * Class [ISaveTarget](../isavetarget/)

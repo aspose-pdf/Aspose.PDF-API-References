@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilestamp/set_attachmentname/
 Sets name of attachment when result of operation is stored into HttpResponse objects as attachment.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileStamp::set_AttachmentName(System::String value)
+void Aspose::Pdf::Facades::PdfFileStamp::set_AttachmentName(const System::String &value)
 ```
 
 ## See Also

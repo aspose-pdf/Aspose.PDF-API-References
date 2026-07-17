@@ -1,116 +1,98 @@
 ---
 title: Option
+linktitle: Option
 second_title: Aspose.PDF for Java API Reference
 description: Class represents option of choice field.
 type: docs
-weight: 236
+weight: 3240
 url: /java/com.aspose.pdf/option/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.Option
+
 ```
-public final class Option
+public final class Option extends Object
 ```
 
 Class represents option of choice field.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getValue()](#getValue--) | Gets option export value. |
-| [setValue(String value)](#setValue-java.lang.String-) | Sets option export value. |
-| [getName()](#getName--) | Gets name of option. |
-| [setName(String value)](#setName-java.lang.String-) | Sets name of option. |
-| [getSelected()](#getSelected--) | Gets selected status of option. |
-| [setSelected(boolean value)](#setSelected-boolean-) | Sets selected status of option. |
-| [getIndex()](#getIndex--) | Gets index of the option. |
-| [hasExportValue()](#hasExportValue--) | Return true if has Export Value |
-### getValue() {#getValue--}
+| [getIndex](#getIndex--) | Gets index of the option. |
+| [getName](#getName--) | Gets name of option. |
+| [getSelected](#getSelected--) | Gets selected status of option. Returns true if option is selected. |
+| [getValue](#getValue--) | Gets option export value. |
+| [hasExportValue](#hasExportValue--) | Return true if has Export Value |
+| [setName](#setName-java.lang.String-) | Sets name of option. |
+| [setSelected](#setSelected-boolean-) | Sets selected status of option. Returns true if option is selected. |
+| [setValue](#setValue-java.lang.String-) | Sets option export value. |
+
+### getIndex {#getIndex--}
 ```
-public String getValue()
+public int getIndex()
 ```
 
-
-Gets option export value.
+Gets index of the option.
 
 **Returns:**
-java.lang.String - String value
-### setValue(String value) {#setValue-java.lang.String-}
-```
-public void setValue(String value)
-```
+int value
 
-
-Sets option export value.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### getName() {#getName--}
+### getName {#getName--}
 ```
 public String getName()
 ```
 
-
 Gets name of option.
 
 **Returns:**
-java.lang.String - String value
-### setName(String value) {#setName-java.lang.String-}
-```
-public void setName(String value)
-```
+String value
 
-
-Sets name of option.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### getSelected() {#getSelected--}
+### getSelected {#getSelected--}
 ```
 public boolean getSelected()
 ```
 
-
 Gets selected status of option. Returns true if option is selected.
 
 **Returns:**
-boolean - boolean value
-### setSelected(boolean value) {#setSelected-boolean-}
+boolean value
+
+### getValue {#getValue--}
+```
+public String getValue()
+```
+
+Gets option export value.
+
+**Returns:**
+String value
+
+### hasExportValue {#hasExportValue--}
+```
+public boolean hasExportValue()
+```
+
+Return true if has Export Value
+
+**Returns:**
+boolean value
+
+### setName {#setName-java.lang.String-}
+Sets name of option.
+
+### setSelected {#setSelected-boolean-}
 ```
 public void setSelected(boolean value)
 ```
-
 
 Sets selected status of option. Returns true if option is selected.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | boolean | boolean value |
+| value |  | boolean value |
 
-### getIndex() {#getIndex--}
-```
-public int getIndex()
-```
-
-
-Gets index of the option.
-
-**Returns:**
-int - int value
-### hasExportValue() {#hasExportValue--}
-```
-public boolean hasExportValue()
-```
-
-
-Return true if has Export Value
-
-**Returns:**
-boolean - boolean value
+### setValue {#setValue-java.lang.String-}
+Sets option export value.

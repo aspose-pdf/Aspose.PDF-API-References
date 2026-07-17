@@ -4,7 +4,7 @@ linktitle: LINQ_OrderByDescending
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use LINQ_OrderByDescending method of System::Collections::Generic::IEnumerable class in C++.'
 type: docs
-weight: 2400
+weight: 2500
 url: /cpp/system.collections.generic/ienumerable/linq_orderbydescending/
 ---
 ## IEnumerable::LINQ_OrderByDescending(const Func\<Source, Key\>\&) method

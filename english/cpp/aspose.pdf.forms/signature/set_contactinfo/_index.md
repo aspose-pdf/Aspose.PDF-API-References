@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signature/set_contactinfo/
 Information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. a phone number.
 
 ```cpp
-void Aspose::Pdf::Forms::Signature::set_ContactInfo(System::String value)
+void Aspose::Pdf::Forms::Signature::set_ContactInfo(const System::String &value)
 ```
 
 ## See Also

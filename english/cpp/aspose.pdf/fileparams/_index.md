@@ -20,7 +20,7 @@ class FileParams : public System::Object
 
 | Method | Description |
 | --- | --- |
-| [FileParams](./fileparams/)(System::SharedPtr\<FileSpecification\>) | Constructor for [FileParams](./) class. |
+| [FileParams](./fileparams/)(const System::SharedPtr\<FileSpecification\>\&) | Constructor for [FileParams](./) class. |
 | [get_CheckSum](./get_checksum/)() | A 16-byte string that is the checksum of the bytes of the uncompressed embedded file. The checksum is calculated by applying the standard MD5 message-digest algorithm to the bytes of the embedded file stream. |
 | [get_CreationDate](./get_creationdate/)() | The date and time when the embedded file was created. |
 | [get_ModDate](./get_moddate/)() | The date and time when the embedded file was last modified. |

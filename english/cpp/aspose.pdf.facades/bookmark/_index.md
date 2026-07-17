@@ -39,23 +39,23 @@ class Bookmark : public System::Object
 | [get_RemoteFile](./get_remotefile/)() const | Gets the file (path) which is required for "GoToR" action of bookmark. |
 | [get_Title](./get_title/)() const | Gets bookmark's title. |
 | [get_TitleColor](./get_titlecolor/)() const | Gets the color of bookmark's title. |
-| [set_Action](./set_action/)(System::String) | Sets the action bound with the bookmark. If [PageNumber](../../aspose.pdf/pagenumber/) is presented the action can not be specified. The action type includes: "GoTo", "GoToR", "Launch", "Named". |
+| [set_Action](./set_action/)(const System::String\&) | Sets the action bound with the bookmark. If [PageNumber](../../aspose.pdf/pagenumber/) is presented the action can not be specified. The action type includes: "GoTo", "GoToR", "Launch", "Named". |
 | [set_BoldFlag](./set_boldflag/)(bool) | Sets the bold flag of bookmark's title. |
-| [set_ChildItem](./set_childitem/)(System::SharedPtr\<Bookmarks\>) | Sets bookmark's children. |
-| [set_ChildItems](./set_childitems/)(System::SharedPtr\<Bookmarks\>) | Sets bookmark's children. |
-| [set_Destination](./set_destination/)(System::String) | Sets bookmark's destination page. Required if action is set as string.Empty. |
+| [set_ChildItem](./set_childitem/)(const System::SharedPtr\<Bookmarks\>\&) | Sets bookmark's children. |
+| [set_ChildItems](./set_childitems/)(const System::SharedPtr\<Bookmarks\>\&) | Sets bookmark's children. |
+| [set_Destination](./set_destination/)(const System::String\&) | Sets bookmark's destination page. Required if action is set as string.Empty. |
 | [set_ItalicFlag](./set_italicflag/)(bool) | Sets the italic flag of bookmark's title. |
 | [set_Level](./set_level/)(int32_t) | Sets bookmark's hierarchy level. |
 | [set_Open](./set_open/)(bool) | Sets bookmark state (open, close). |
-| [set_PageDisplay](./set_pagedisplay/)(System::String) | Sets the type of display bookmark's destination page. |
+| [set_PageDisplay](./set_pagedisplay/)(const System::String\&) | Sets the type of display bookmark's destination page. |
 | [set_PageDisplay_Bottom](./set_pagedisplay_bottom/)(int32_t) | Sets the bottom coordinate of page display. |
 | [set_PageDisplay_Left](./set_pagedisplay_left/)(int32_t) | Sets the left coordinate of page display. |
 | [set_PageDisplay_Right](./set_pagedisplay_right/)(int32_t) | Sets the right coordinate of page display. |
 | [set_PageDisplay_Top](./set_pagedisplay_top/)(int32_t) | Sets the top coordinate of page display. |
 | [set_PageDisplay_Zoom](./set_pagedisplay_zoom/)(int32_t) | Sets the zoom factor of page display. |
 | [set_PageNumber](./set_pagenumber/)(int32_t) | Sets the number of bookmark's destination page. |
-| [set_RemoteFile](./set_remotefile/)(System::String) | Sets the file (path) which is required for "GoToR" action of bookmark. |
-| [set_Title](./set_title/)(System::String) | Sets bookmark's title. |
+| [set_RemoteFile](./set_remotefile/)(const System::String\&) | Sets the file (path) which is required for "GoToR" action of bookmark. |
+| [set_Title](./set_title/)(const System::String\&) | Sets bookmark's title. |
 | [set_TitleColor](./set_titlecolor/)(System::Drawing::Color) | Sets the color of bookmark's title. |
 ## See Also
 

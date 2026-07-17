@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signaturecustomappearance/set_locationlabel/
 Gets/sets location label. Default value: "Location".
 
 ```cpp
-void Aspose::Pdf::Forms::SignatureCustomAppearance::set_LocationLabel(System::String value)
+void Aspose::Pdf::Forms::SignatureCustomAppearance::set_LocationLabel(const System::String &value)
 ```
 
 ## See Also

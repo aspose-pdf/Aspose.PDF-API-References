@@ -24,7 +24,7 @@ class FontSourceCollection : public System::Collections::Generic::ICollection<Sy
 | [Clear](./clear/)() override | Clears the font source collection. |
 | [Contains](./contains/)(const System::SharedPtr\<FontSource\>\&) const override | Determines whether an element is in the collection. |
 | [CopyTo](./copyto/)(System::ArrayPtr\<System::SharedPtr\<FontSource\>\>, int32_t) override | Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array. |
-| [Delete](./delete/)(System::SharedPtr\<FontSource\>) | Deletes the font source element. |
+| [Delete](./delete/)(const System::SharedPtr\<FontSource\>\&) | Deletes the font source element. |
 | [get_Count](./get_count/)() const override | Gets the number of [Font](../font/) object elements actually contained in the collection. |
 | [get_IsSynchronized](./get_issynchronized/)() | Gets a value indicating whether access to the collection is synchronized (thread safe). |
 | [get_SyncRoot](./get_syncroot/)() const | Gets an object that can be used to synchronize access to the collection. |

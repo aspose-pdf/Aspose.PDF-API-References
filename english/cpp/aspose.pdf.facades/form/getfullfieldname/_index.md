@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/form/getfullfieldname/
 Gets the full field name according to its short field name.
 
 ```cpp
-System::String Aspose::Pdf::Facades::Form::GetFullFieldName(System::String fieldName)
+System::String Aspose::Pdf::Facades::Form::GetFullFieldName(const System::String &fieldName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | The fully qualified field name. |
+| fieldName | const System::String\& | The fully qualified field name. |
 
 ### ReturnValue
 

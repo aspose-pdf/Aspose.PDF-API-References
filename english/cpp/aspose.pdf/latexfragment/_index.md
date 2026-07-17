@@ -20,8 +20,8 @@ class LatexFragment : public Aspose::Pdf::TeXFragment
 
 | Method | Description |
 | --- | --- |
-| [LatexFragment](./latexfragment/)(System::String) | Initializes a new instance of the [HtmlFragment](../htmlfragment/) class. |
-| [LatexFragment](./latexfragment/)(System::String, bool) | Initializes a new instance of the [HtmlFragment](../htmlfragment/) class. |
+| [LatexFragment](./latexfragment/)(const System::String\&) | Initializes a new instance of the [HtmlFragment](../htmlfragment/) class. |
+| [LatexFragment](./latexfragment/)(const System::String\&, bool) | Initializes a new instance of the [HtmlFragment](../htmlfragment/) class. |
 
 ## Deprecated
 Please use TeXFragment instead 

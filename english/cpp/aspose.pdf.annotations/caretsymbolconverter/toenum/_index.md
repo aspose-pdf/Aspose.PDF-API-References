@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/caretsymbolconverter/toenum/
 
 
 ```cpp
-static CaretSymbol Aspose::Pdf::Annotations::CaretSymbolConverter::ToEnum(System::String value)
+static CaretSymbol Aspose::Pdf::Annotations::CaretSymbolConverter::ToEnum(const System::String &value)
 ```
 
 ## See Also

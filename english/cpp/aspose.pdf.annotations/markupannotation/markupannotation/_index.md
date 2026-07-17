@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/markupannotation/markupannotation/
 Constructor for markup annotation.
 
 ```cpp
-Aspose::Pdf::Annotations::MarkupAnnotation::MarkupAnnotation(System::SharedPtr<Document> document)
+Aspose::Pdf::Annotations::MarkupAnnotation::MarkupAnnotation(const System::SharedPtr<Document> &document)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Document\> | [Document](../../../aspose.pdf/document/) where annotation will be created. |
+| document | const System::SharedPtr\<Document\>\& | [Document](../../../aspose.pdf/document/) where annotation will be created. |
 
 ## See Also
 

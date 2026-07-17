@@ -23,7 +23,7 @@ class RenditionAction : public Aspose::Pdf::Annotations::PdfAction
 | [get_JavaScript](./get_javascript/)() | Gets JavaScript code associated with the action. |
 | [get_Rendition](./get_rendition/)() | Gets rendition associated with the action. |
 | [get_RenditionOperation](./get_renditionoperation/)() | The operation to perform when the action is triggered. |
-| [set_JavaScript](./set_javascript/)(System::String) | Sets JavaScript code associated with the action. |
+| [set_JavaScript](./set_javascript/)(const System::String\&) | Sets JavaScript code associated with the action. |
 | [set_RenditionOperation](./set_renditionoperation/)(Aspose::Pdf::Annotations::RenditionOperation) | The operation to perform when the action is triggered. |
 ## See Also
 

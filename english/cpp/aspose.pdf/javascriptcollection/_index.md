@@ -21,9 +21,9 @@ class JavaScriptCollection : public System::Object
 | Method | Description |
 | --- | --- |
 | [get_Keys](./get_keys/)() | List of keys in JavaScript collection. |
-| [idx_get](./idx_get/)(System::String) | Gets JavaScript from collection by its key. |
-| [idx_set](./idx_set/)(System::String, System::String) | Sets JavaScript from collection by its key. |
-| [Remove](./remove/)(System::String) | Removes JavaScript by its name. |
+| [idx_get](./idx_get/)(const System::String\&) | Gets JavaScript from collection by its key. |
+| [idx_set](./idx_set/)(const System::String\&, const System::String\&) | Sets JavaScript from collection by its key. |
+| [Remove](./remove/)(const System::String\&) | Removes JavaScript by its name. |
 ## See Also
 
 * Class [Object](../../system/object/)

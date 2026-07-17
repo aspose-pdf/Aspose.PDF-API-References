@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/form/extractxfadata/
 Extracts XFA data packet.
 
 ```cpp
-void Aspose::Pdf::Facades::Form::ExtractXfaData(System::SharedPtr<System::IO::Stream> outputXmlStream)
+void Aspose::Pdf::Facades::Form::ExtractXfaData(const System::SharedPtr<System::IO::Stream> &outputXmlStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputXmlStream | System::SharedPtr\<System::IO::Stream\> | Stream where XML data will be stored. |
+| outputXmlStream | const System::SharedPtr\<System::IO::Stream\>\& | Stream where XML data will be stored. |
 
 ## See Also
 

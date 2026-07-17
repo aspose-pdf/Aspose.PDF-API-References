@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilemend/set_inputfile/
 Sets the input file.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileMend::set_InputFile(System::String value)
+void Aspose::Pdf::Facades::PdfFileMend::set_InputFile(const System::String &value)
 ```
 
 

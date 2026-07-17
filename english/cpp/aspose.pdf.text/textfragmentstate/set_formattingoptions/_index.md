@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentstate/set_formattingoptions/
 Sets formatting options. Setting of the options will be effective in generator scenarios only.
 
 ```cpp
-void Aspose::Pdf::Text::TextFragmentState::set_FormattingOptions(System::SharedPtr<TextFormattingOptions> value)
+void Aspose::Pdf::Text::TextFragmentState::set_FormattingOptions(const System::SharedPtr<TextFormattingOptions> &value)
 ```
 
 ## See Also

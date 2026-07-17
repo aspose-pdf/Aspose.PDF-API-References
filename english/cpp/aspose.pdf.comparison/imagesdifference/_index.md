@@ -4,7 +4,7 @@ linktitle: ImagesDifference
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Comparison::ImagesDifference class. Represents the result class of comparing two PDF pages in C++.'
 type: docs
-weight: 800
+weight: 900
 url: /cpp/aspose.pdf.comparison/imagesdifference/
 ---
 ## ImagesDifference class
@@ -20,7 +20,7 @@ class ImagesDifference : public System::IDisposable
 
 | Method | Description |
 | --- | --- |
-| [DifferenceToImage](./differencetoimage/)(System::SharedPtr\<Color\>, System::SharedPtr\<Color\>) | Converts the difference array to a bitmap image using the specified colors. |
+| [DifferenceToImage](./differencetoimage/)(const System::SharedPtr\<Color\>\&, const System::SharedPtr\<Color\>\&) | Converts the difference array to a bitmap image using the specified colors. |
 | [Dispose](./dispose/)() override | Performs any necessary clean up operations before the object is destroyed. |
 | [get_Difference](./get_difference/)() const | Gets the difference array. This array is similar to the original image data array obtained as a result of the LockBits method. |
 | [get_Height](./get_height/)() const | The height of difference. |

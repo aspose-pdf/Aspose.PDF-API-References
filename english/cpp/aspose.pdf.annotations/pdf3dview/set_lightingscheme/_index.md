@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dview/set_lightingscheme/
 Sets the lighting scheme of view.
 
 ```cpp
-void Aspose::Pdf::Annotations::PDF3DView::set_LightingScheme(System::SharedPtr<PDF3DLightingScheme> value)
+void Aspose::Pdf::Annotations::PDF3DView::set_LightingScheme(const System::SharedPtr<PDF3DLightingScheme> &value)
 ```
 
 ## Remarks

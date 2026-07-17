@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/set_openaction/
 Sets action performed at document opening.
 
 ```cpp
-void Aspose::Pdf::Document::set_OpenAction(System::SharedPtr<Annotations::IAppointment> value)
+void Aspose::Pdf::Document::set_OpenAction(const System::SharedPtr<Annotations::IAppointment> &value)
 ```
 
 ## See Also

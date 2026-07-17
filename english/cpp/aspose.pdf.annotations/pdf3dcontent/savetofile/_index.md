@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/pdf3dcontent/savetofile/
 Saves 3D content to file.
 
 ```cpp
-void Aspose::Pdf::Annotations::PDF3DContent::SaveToFile(System::String filename)
+void Aspose::Pdf::Annotations::PDF3DContent::SaveToFile(const System::String &filename)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | System::String | The file name. |
+| filename | const System::String\& | The file name. |
 
 ## See Also
 

@@ -7,20 +7,20 @@ type: docs
 weight: 2600
 url: /cpp/aspose.pdf.facades/pdfcontenteditor/createweblink/
 ---
-## PdfContentEditor::CreateWebLink(System::Drawing::Rectangle, System::String, int32_t) method
+## PdfContentEditor::CreateWebLink(System::Drawing::Rectangle, const System::String\&, int32_t) method
 
 
 Creates a web link in PDF document.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfContentEditor::CreateWebLink(System::Drawing::Rectangle rect, System::String url, int32_t originalPage)
+void Aspose::Pdf::Facades::PdfContentEditor::CreateWebLink(System::Drawing::Rectangle rect, const System::String &url, int32_t originalPage)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rect | System::Drawing::Rectangle | The rectangle for active click. |
-| url | System::String | The web link destination. |
+| url | const System::String\& | The web link destination. |
 | originalPage | int32_t | The number of original page where rectangle bound with web link will be created. |
 
 ## See Also
@@ -30,20 +30,20 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreateWebLink(System::Drawing::Rect
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfContentEditor::CreateWebLink(System::Drawing::Rectangle, System::String, int32_t, System::Drawing::Color) method
+## PdfContentEditor::CreateWebLink(System::Drawing::Rectangle, const System::String\&, int32_t, System::Drawing::Color) method
 
 
 Creates a web link in PDF document.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfContentEditor::CreateWebLink(System::Drawing::Rectangle rect, System::String url, int32_t originalPage, System::Drawing::Color clr)
+void Aspose::Pdf::Facades::PdfContentEditor::CreateWebLink(System::Drawing::Rectangle rect, const System::String &url, int32_t originalPage, System::Drawing::Color clr)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rect | System::Drawing::Rectangle | The rectangle for active click. |
-| url | System::String | The web link destination. |
+| url | const System::String\& | The web link destination. |
 | originalPage | int32_t | The number of original page where rectangle bound with web link will be created. |
 | clr | System::Drawing::Color | The colour of rectangle for active click. |
 
@@ -55,23 +55,23 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreateWebLink(System::Drawing::Rect
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfContentEditor::CreateWebLink(System::Drawing::Rectangle, System::String, int32_t, System::Drawing::Color, System::ArrayPtr\<System::SharedPtr\<System::BoxedValueBase\>\>) method
+## PdfContentEditor::CreateWebLink(System::Drawing::Rectangle, const System::String\&, int32_t, System::Drawing::Color, const System::ArrayPtr\<System::SharedPtr\<System::BoxedValueBase\>\>\&) method
 
 
 Creates a web link in PDF document.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfContentEditor::CreateWebLink(System::Drawing::Rectangle rect, System::String url, int32_t originalPage, System::Drawing::Color clr, System::ArrayPtr<System::SharedPtr<System::BoxedValueBase>> actionName)
+void Aspose::Pdf::Facades::PdfContentEditor::CreateWebLink(System::Drawing::Rectangle rect, const System::String &url, int32_t originalPage, System::Drawing::Color clr, const System::ArrayPtr<System::SharedPtr<System::BoxedValueBase>> &actionName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rect | System::Drawing::Rectangle | The rectangle for active click. |
-| url | System::String | The web link destination. |
+| url | const System::String\& | The web link destination. |
 | originalPage | int32_t | The number of original page on which rectangle bound with web link will be created. |
 | clr | System::Drawing::Color | The colour of rectangle for active click. |
-| actionName | System::ArrayPtr\<System::SharedPtr\<System::BoxedValueBase\>\> | The array of actions (members of PredefinedAction enum) corresponding to executing menu items in Acrobat viewer. |
+| actionName | const System::ArrayPtr\<System::SharedPtr\<System::BoxedValueBase\>\>\& | The array of actions (members of PredefinedAction enum) corresponding to executing menu items in Acrobat viewer. |
 
 ## See Also
 

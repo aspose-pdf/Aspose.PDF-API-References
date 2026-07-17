@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.vector/graphicstate/set_matrix/
 Gets the current transformation matrix.
 
 ```cpp
-void Aspose::Pdf::Vector::GraphicState::set_Matrix(System::SharedPtr<Aspose::Pdf::Matrix> value)
+void Aspose::Pdf::Vector::GraphicState::set_Matrix(const System::SharedPtr<Aspose::Pdf::Matrix> &value)
 ```
 
 ## See Also

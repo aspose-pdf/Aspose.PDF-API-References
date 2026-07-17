@@ -7,20 +7,20 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf.logicalstructure/headerelement/addentrytotocpage/
 ---
-## HeaderElement::AddEntryToTocPage(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<ListLIElement\>) method
+## HeaderElement::AddEntryToTocPage(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<ListLIElement\>\&) method
 
 
 Creates a header on the specified [Table](../../../aspose.pdf/table/) of Contents (TOC) page and associates it with a TOCI element.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::HeaderElement::AddEntryToTocPage(System::SharedPtr<Aspose::Pdf::Page> tocPage, System::SharedPtr<ListLIElement> tocEntry)
+void Aspose::Pdf::LogicalStructure::HeaderElement::AddEntryToTocPage(const System::SharedPtr<Aspose::Pdf::Page> &tocPage, const System::SharedPtr<ListLIElement> &tocEntry)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| tocPage | System::SharedPtr\<Aspose::Pdf::Page\> | The [Page](../../../aspose.pdf/page/) object representing the TOC page where the header should be created. |
-| tocEntry | System::SharedPtr\<ListLIElement\> | The [ListLIElement](../../listlielement/) object acting as the TOCI entry to associate with the created header on the specified TOC page. |
+| tocPage | const System::SharedPtr\<Aspose::Pdf::Page\>\& | The [Page](../../../aspose.pdf/page/) object representing the TOC page where the header should be created. |
+| tocEntry | const System::SharedPtr\<ListLIElement\>\& | The [ListLIElement](../../listlielement/) object acting as the TOCI entry to associate with the created header on the specified TOC page. |
 ## Remarks
 
 
@@ -34,20 +34,20 @@ This overload addresses scenarios involving nested [Table](../../../aspose.pdf/t
 * Class [HeaderElement](../)
 * Namespace [Aspose::Pdf::LogicalStructure](../../)
 * Library [Aspose.PDF for C++](../../../)
-## HeaderElement::AddEntryToTocPage(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<TOCIElement\>) method
+## HeaderElement::AddEntryToTocPage(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<TOCIElement\>\&) method
 
 
 Creates a header on the specified [Table](../../../aspose.pdf/table/) of Contents (TOC) page and associates it with a TOCI element.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::HeaderElement::AddEntryToTocPage(System::SharedPtr<Aspose::Pdf::Page> tocPage, System::SharedPtr<TOCIElement> tocEntry)
+void Aspose::Pdf::LogicalStructure::HeaderElement::AddEntryToTocPage(const System::SharedPtr<Aspose::Pdf::Page> &tocPage, const System::SharedPtr<TOCIElement> &tocEntry)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| tocPage | System::SharedPtr\<Aspose::Pdf::Page\> | The [Page](../../../aspose.pdf/page/) object representing the TOC page where the header should be created. |
-| tocEntry | System::SharedPtr\<TOCIElement\> | The [TOCIElement](../../tocielement/) serving as the TOC entry to associate with the header being created. |
+| tocPage | const System::SharedPtr\<Aspose::Pdf::Page\>\& | The [Page](../../../aspose.pdf/page/) object representing the TOC page where the header should be created. |
+| tocEntry | const System::SharedPtr\<TOCIElement\>\& | The [TOCIElement](../../tocielement/) serving as the TOC entry to associate with the header being created. |
 ## Remarks
 
 

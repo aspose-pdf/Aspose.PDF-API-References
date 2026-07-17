@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/replytypeconverter/toenum/
 
 
 ```cpp
-static ReplyType Aspose::Pdf::Annotations::ReplyTypeConverter::ToEnum(System::String value)
+static ReplyType Aspose::Pdf::Annotations::ReplyTypeConverter::ToEnum(const System::String &value)
 ```
 
 ## See Also

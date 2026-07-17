@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/form/importxfdf/
 Imports the content of the fields from the xfdf(xml) file and put them into the new pdf.
 
 ```cpp
-void Aspose::Pdf::Facades::Form::ImportXfdf(System::SharedPtr<System::IO::Stream> inputXfdfStream)
+void Aspose::Pdf::Facades::Form::ImportXfdf(const System::SharedPtr<System::IO::Stream> &inputXfdfStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputXfdfStream | System::SharedPtr\<System::IO::Stream\> | The input xfdf(xml) stream. |
+| inputXfdfStream | const System::SharedPtr\<System::IO::Stream\>\& | The input xfdf(xml) stream. |
 
 ## See Also
 

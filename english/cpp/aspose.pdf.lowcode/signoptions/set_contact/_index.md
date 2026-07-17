@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/signoptions/set_contact/
 The contact of signature.
 
 ```cpp
-void Aspose::Pdf::LowCode::SignOptions::set_Contact(System::String value)
+void Aspose::Pdf::LowCode::SignOptions::set_Contact(const System::String &value)
 ```
 
 ## See Also

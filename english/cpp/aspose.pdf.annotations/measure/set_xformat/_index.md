@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/measure/set_xformat/
 A number format array for measurement of change along the xaxis and, if Y is not present, along the y axis as well.
 
 ```cpp
-void Aspose::Pdf::Annotations::Measure::set_XFormat(System::SharedPtr<Measure::NumberFormatList> value)
+void Aspose::Pdf::Annotations::Measure::set_XFormat(const System::SharedPtr<Measure::NumberFormatList> &value)
 ```
 
 ## See Also

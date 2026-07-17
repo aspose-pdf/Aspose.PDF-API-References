@@ -21,19 +21,19 @@ Aspose::Pdf::LocalHyperlink::LocalHyperlink()
 * Class [LocalHyperlink](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## LocalHyperlink::LocalHyperlink(System::SharedPtr\<BaseParagraph\>) constructor
+## LocalHyperlink::LocalHyperlink(const System::SharedPtr\<BaseParagraph\>\&) constructor
 
 
 Initializes a new instance of the [LocalHyperlink](../) class.
 
 ```cpp
-Aspose::Pdf::LocalHyperlink::LocalHyperlink(System::SharedPtr<BaseParagraph> target)
+Aspose::Pdf::LocalHyperlink::LocalHyperlink(const System::SharedPtr<BaseParagraph> &target)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| target | System::SharedPtr\<BaseParagraph\> | Target paragraph. |
+| target | const System::SharedPtr\<BaseParagraph\>\& | Target paragraph. |
 
 ## See Also
 

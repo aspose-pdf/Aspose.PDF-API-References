@@ -40,7 +40,7 @@ class SetColor : public Aspose::Pdf::Operators::BasicSetColorOperator
 | [SetColor](./setcolor/)(double) | Set color for stroking operators for DeviceGray, CalGray and Indexed color spaces. |
 | [SetColor](./setcolor/)(double, double, double) | Set color for stroking operator for DeviceRGB, CalRGB, and Lab color spaces. |
 | [SetColor](./setcolor/)(double, double, double, double) | Set color for non-stroking operator for CMYK color space. |
-| [SetColor](./setcolor/)(System::ArrayPtr\<double\>) | Constructor which allows to specify color components. |
+| [SetColor](./setcolor/)(const System::ArrayPtr\<double\>\&) | Constructor which allows to specify color components. |
 | [ToString](./tostring/)() const override | Returns string representation of color. |
 ## See Also
 

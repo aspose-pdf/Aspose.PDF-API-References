@@ -19,7 +19,7 @@ virtual TKey System::Collections::Generic::_KeyList<Dict>::idx_get(int index) co
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to get key from. |
+| index | int | [Index](../../../system/index/) to get key from. |
 
 ### ReturnValue
 

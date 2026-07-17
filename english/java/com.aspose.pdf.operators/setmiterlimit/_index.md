@@ -1,91 +1,68 @@
 ---
 title: SetMiterLimit
+linktitle: SetMiterLimit
 second_title: Aspose.PDF for Java API Reference
-description: Class representing M operator set miter limit.
+description: Class representing M operator (set miter limit).
 type: docs
-weight: 78
+weight: 700
 url: /java/com.aspose.pdf.operators/setmiterlimit/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.Operator](../../com.aspose.pdf/operator)
+java.lang.Object, com.aspose.pdf.Operator com.aspose.pdf.operators.SetMiterLimit, com.aspose.pdf.Operator, com.aspose.pdf.operators.SetMiterLimit
+
 ```
 public class SetMiterLimit extends Operator
 ```
 
 Class representing M operator (set miter limit).
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [SetMiterLimit(int index, ICommand command)](#SetMiterLimit-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
-| [SetMiterLimit(double miterLimit)](#SetMiterLimit-double-) | Initializes operator. |
+| [SetMiterLimit](#SetMiterLimit-double-) | Initializes operator. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getMiterLimit()](#getMiterLimit--) | Gets the miter limit. |
-| [setMiterLimit(double value)](#setMiterLimit-double-) | Sets the miter limit. |
-| [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
-### SetMiterLimit(int index, ICommand command) {#SetMiterLimit-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public SetMiterLimit(int index, ICommand command)
-```
+| [accept](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
+| [getMiterLimit](#getMiterLimit--) | Gets the miter limit. |
+| [setMiterLimit](#setMiterLimit-double-) | Sets the miter limit. |
 
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
-### SetMiterLimit(double miterLimit) {#SetMiterLimit-double-}
+### SetMiterLimit {#SetMiterLimit-double-}
 ```
 public SetMiterLimit(double miterLimit)
 ```
-
 
 Initializes operator.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| miterLimit | double | Mitel limit. |
+| miterLimit |  | Mitel limit. |
 
-### getMiterLimit() {#getMiterLimit--}
+### accept {#accept-com.aspose.pdf.IOperatorSelector-}
+Accepts visitor object to process operator.
+
+### getMiterLimit {#getMiterLimit--}
 ```
 public double getMiterLimit()
 ```
 
-
 Gets the miter limit.
 
 **Returns:**
-double - double value
-### setMiterLimit(double value) {#setMiterLimit-double-}
+double value
+
+### setMiterLimit {#setMiterLimit-double-}
 ```
 public void setMiterLimit(double value)
 ```
-
 
 Sets the miter limit.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | double | double value |
-
-### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
-```
-public void accept(IOperatorSelector visitor)
-```
-
-
-Accepts visitor object to process operator.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| visitor | [IOperatorSelector](../../com.aspose.pdf/ioperatorselector) | Visitor object. |
-
+| value |  | double value |

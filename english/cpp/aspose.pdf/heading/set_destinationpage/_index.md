@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/heading/set_destinationpage/
 Gets the destination page.
 
 ```cpp
-void Aspose::Pdf::Heading::set_DestinationPage(System::SharedPtr<Aspose::Pdf::Page> value)
+void Aspose::Pdf::Heading::set_DestinationPage(const System::SharedPtr<Aspose::Pdf::Page> &value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/headerfooter/set_paragraphs/
 Sets the end note paragraphs.
 
 ```cpp
-void Aspose::Pdf::HeaderFooter::set_Paragraphs(System::SharedPtr<Aspose::Pdf::Paragraphs> value)
+void Aspose::Pdf::HeaderFooter::set_Paragraphs(const System::SharedPtr<Aspose::Pdf::Paragraphs> &value)
 ```
 
 ## See Also

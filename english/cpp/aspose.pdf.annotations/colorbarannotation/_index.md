@@ -22,7 +22,7 @@ class ColorBarAnnotation : public Aspose::Pdf::Annotations::PrinterMarkAnnotatio
 | --- | --- |
 | [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Accepts visitor object to process the annotation. |
 | [ChangeAfterResize](./changeafterresize/)(System::SharedPtr\<Matrix\>) override | Update parameters and appearance, according to the matrix transform and moving outside of TrimBox if nesseary. |
-| [ColorBarAnnotation](./colorbarannotation/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>, ColorsOfCMYK) | Creates new ColorBar annotation on the specified page. |
+| [ColorBarAnnotation](./colorbarannotation/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&, ColorsOfCMYK) | Creates new ColorBar annotation on the specified page. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
 | [get_ColorOfCMYK](./get_colorofcmyk/)() const | Gets color (one of cyan, magenta, yellow, black) for which the annotation is drawing. |
 | [set_ColorOfCMYK](./set_colorofcmyk/)(ColorsOfCMYK) | Sets color (one of cyan, magenta, yellow, black) for which the annotation is drawing. |

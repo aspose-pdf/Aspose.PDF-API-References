@@ -25,7 +25,7 @@ class OutlineItemCollection : public Aspose::Pdf::Outlines
 | [Contains](./contains/)(const System::SharedPtr\<OutlineItemCollection\>\&) const override | Checks if collection contains given item. |
 | [CopyTo](./copyto/)(System::ArrayPtr\<System::SharedPtr\<OutlineItemCollection\>\>, int32_t) override | Copies the outline entries to an [System.Array](../../system/array/), starting at a particular [System.Array](../../system/array/) index. |
 | [Delete](./delete/)() | Deletes this outline item from the document outline hierarchy. |
-| [Delete](./delete/)(System::String) | Deletes outline entry with specified name from the document outline hierarchy. |
+| [Delete](./delete/)(const System::String\&) | Deletes outline entry with specified name from the document outline hierarchy. |
 | [get_Action](./get_action/)() | Gets the action for this outline item. |
 | [get_Bold](./get_bold/)() | Gets bold flag for the title text of this outline item. |
 | [get_Color](./get_color/)() | Gets the color for the title text of this outline item. |
@@ -47,17 +47,17 @@ class OutlineItemCollection : public Aspose::Pdf::Outlines
 | [get_VisibleCount](./get_visiblecount/)() override | Gets the total number of outline items at all levels in the document outline hierarchy. |
 | [GetEnumerator](./getenumerator/)() override | Returns an enumerator that iterates through the collection. |
 | [idx_get](./idx_get/)(int32_t) | Gets outline item from the collection using index. |
-| [Insert](./insert/)(int32_t, System::SharedPtr\<OutlineItemCollection\>) | Inserts the outline item into collection at the specified place. |
-| [OutlineItemCollection](./outlineitemcollection/)(System::SharedPtr\<OutlineCollection\>) | Initializes outline item instance using root hierarchy object. |
+| [Insert](./insert/)(int32_t, const System::SharedPtr\<OutlineItemCollection\>\&) | Inserts the outline item into collection at the specified place. |
+| [OutlineItemCollection](./outlineitemcollection/)(const System::SharedPtr\<OutlineCollection\>\&) | Initializes outline item instance using root hierarchy object. |
 | [Remove](./remove/)(const System::SharedPtr\<OutlineItemCollection\>\&) override | Remove outline collection item. |
 | [Remove](./remove/)(int32_t) | Remove item by index. |
-| [set_Action](./set_action/)(System::SharedPtr\<Annotations::PdfAction\>) | Sets the action for this outline item. |
+| [set_Action](./set_action/)(const System::SharedPtr\<Annotations::PdfAction\>\&) | Sets the action for this outline item. |
 | [set_Bold](./set_bold/)(bool) | Sets bold flag for the title text of this outline item. |
 | [set_Color](./set_color/)(System::Drawing::Color) | Sets the color for the title text of this outline item. |
-| [set_Destination](./set_destination/)(System::SharedPtr\<Annotations::IAppointment\>) | Sets the destination for this outline item. |
+| [set_Destination](./set_destination/)(const System::SharedPtr\<Annotations::IAppointment\>\&) | Sets the destination for this outline item. |
 | [set_Italic](./set_italic/)(bool) | Sets italic flag for the title text of this outline item. |
 | [set_Open](./set_open/)(bool) | Get or sets open status (true/false) for outline item. |
-| [set_Title](./set_title/)(System::String) | Sets the title for this outline item. |
+| [set_Title](./set_title/)(const System::String\&) | Sets the title for this outline item. |
 ## See Also
 
 * Class [Outlines](../outlines/)

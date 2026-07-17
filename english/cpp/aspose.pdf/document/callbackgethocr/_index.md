@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/callbackgethocr/
 The call back procedure for hocr recognize.
 
 ```cpp
-using Aspose::Pdf::Document::CallBackGetHocr =  System::MulticastDelegate<System::String(System::SharedPtr<System::Drawing::Image>)>
+using Aspose::Pdf::Document::CallBackGetHocr =  System::MulticastDelegate<System::String(const System::SharedPtr<System::Drawing::Image>&)>
 ```
 
 

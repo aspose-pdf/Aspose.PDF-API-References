@@ -20,7 +20,7 @@ class PolyIntentConverter : public System::Object
 
 | Method | Description |
 | --- | --- |
-| static [ToEnum](./toenum/)(System::String) |  |
+| static [ToEnum](./toenum/)(const System::String\&) |  |
 | static [ToString](./tostring/)(PolyIntent) |  |
 | static [ToXfdfString](./toxfdfstring/)(PolyIntent) |  |
 ## See Also

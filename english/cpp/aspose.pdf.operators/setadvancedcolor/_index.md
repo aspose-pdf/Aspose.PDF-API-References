@@ -23,12 +23,12 @@ class SetAdvancedColor : public Aspose::Pdf::Operators::BasicSetColorAndPatternO
 | [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [getColor](./getcolor/)() override | Returns color specified by operator. |
 | [SetAdvancedColor](./setadvancedcolor/)() | Initializes operator. |
-| [SetAdvancedColor](./setadvancedcolor/)(double, System::String) | Constructor for scn operator. |
+| [SetAdvancedColor](./setadvancedcolor/)(double, const System::String\&) | Constructor for scn operator. |
 | [SetAdvancedColor](./setadvancedcolor/)(double) | Constructor for scn operator. |
-| [SetAdvancedColor](./setadvancedcolor/)(double, double, double, System::String) | Constructor for scn operator. |
-| [SetAdvancedColor](./setadvancedcolor/)(double, double, double, double, System::String) | Constructor for scn operator. |
-| [SetAdvancedColor](./setadvancedcolor/)(System::String) | Constructor for scn operator. |
-| [SetAdvancedColor](./setadvancedcolor/)(System::ArrayPtr\<double\>, System::String) | Constructor for scn operator. |
+| [SetAdvancedColor](./setadvancedcolor/)(double, double, double, const System::String\&) | Constructor for scn operator. |
+| [SetAdvancedColor](./setadvancedcolor/)(double, double, double, double, const System::String\&) | Constructor for scn operator. |
+| [SetAdvancedColor](./setadvancedcolor/)(const System::String\&) | Constructor for scn operator. |
+| [SetAdvancedColor](./setadvancedcolor/)(const System::ArrayPtr\<double\>\&, const System::String\&) | Constructor for scn operator. |
 ## See Also
 
 * Class [BasicSetColorAndPatternOperator](../basicsetcolorandpatternoperator/)

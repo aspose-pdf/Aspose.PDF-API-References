@@ -7,19 +7,19 @@ type: docs
 weight: 200
 url: /cpp/aspose.pdf/comhelper/openstream/
 ---
-## ComHelper::OpenStream(System::SharedPtr\<System::IO::Stream\>) method
+## ComHelper::OpenStream(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Initialize and return new [Document](../../document/) instance from the *input*  stream.
 
 ```cpp
-System::SharedPtr<Document> Aspose::Pdf::ComHelper::OpenStream(System::SharedPtr<System::IO::Stream> input)
+System::SharedPtr<Document> Aspose::Pdf::ComHelper::OpenStream(const System::SharedPtr<System::IO::Stream> &input)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| input | System::SharedPtr\<System::IO::Stream\> | Stream with pdf document. |
+| input | const System::SharedPtr\<System::IO::Stream\>\& | Stream with pdf document. |
 
 ### ReturnValue
 
@@ -33,19 +33,19 @@ System::SharedPtr<Document> Aspose::Pdf::ComHelper::OpenStream(System::SharedPtr
 * Class [ComHelper](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## ComHelper::OpenStream(System::SharedPtr\<System::IO::Stream\>, bool) method
+## ComHelper::OpenStream(const System::SharedPtr\<System::IO::Stream\>\&, bool) method
 
 
 Initialize and return new [Document](../../document/) instance from the *input*  stream.
 
 ```cpp
-System::SharedPtr<Document> Aspose::Pdf::ComHelper::OpenStream(System::SharedPtr<System::IO::Stream> input, bool isManagedStream)
+System::SharedPtr<Document> Aspose::Pdf::ComHelper::OpenStream(const System::SharedPtr<System::IO::Stream> &input, bool isManagedStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| input | System::SharedPtr\<System::IO::Stream\> | Stream with pdf document. |
+| input | const System::SharedPtr\<System::IO::Stream\>\& | Stream with pdf document. |
 | isManagedStream | bool | if set to **true** inner stream is closed before exit; otherwise, is not. |
 
 ### ReturnValue
@@ -60,20 +60,20 @@ System::SharedPtr<Document> Aspose::Pdf::ComHelper::OpenStream(System::SharedPtr
 * Class [ComHelper](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## ComHelper::OpenStream(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<LoadOptions\>) method
+## ComHelper::OpenStream(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<LoadOptions\>\&) method
 
 
 Open and return an existing document from a stream providing necessary converting to get pdf document.
 
 ```cpp
-System::SharedPtr<Document> Aspose::Pdf::ComHelper::OpenStream(System::SharedPtr<System::IO::Stream> input, System::SharedPtr<LoadOptions> options)
+System::SharedPtr<Document> Aspose::Pdf::ComHelper::OpenStream(const System::SharedPtr<System::IO::Stream> &input, const System::SharedPtr<LoadOptions> &options)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| input | System::SharedPtr\<System::IO::Stream\> | Input stream to convert into pdf document. |
-| options | System::SharedPtr\<LoadOptions\> | Represents properties for converting *input*  into pdf document. |
+| input | const System::SharedPtr\<System::IO::Stream\>\& | Input stream to convert into pdf document. |
+| options | const System::SharedPtr\<LoadOptions\>\& | Represents properties for converting *input*  into pdf document. |
 
 ### ReturnValue
 
@@ -88,20 +88,20 @@ System::SharedPtr<Document> Aspose::Pdf::ComHelper::OpenStream(System::SharedPtr
 * Class [ComHelper](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## ComHelper::OpenStream(System::SharedPtr\<System::IO::Stream\>, System::String) method
+## ComHelper::OpenStream(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&) method
 
 
 Initialize and return new [Document](../../document/) instance from the *input*  stream.
 
 ```cpp
-System::SharedPtr<Document> Aspose::Pdf::ComHelper::OpenStream(System::SharedPtr<System::IO::Stream> input, System::String password)
+System::SharedPtr<Document> Aspose::Pdf::ComHelper::OpenStream(const System::SharedPtr<System::IO::Stream> &input, const System::String &password)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| input | System::SharedPtr\<System::IO::Stream\> | Input stream object, corresponding pdf is password protected. |
-| password | System::String | User or owner password. |
+| input | const System::SharedPtr\<System::IO::Stream\>\& | Input stream object, corresponding pdf is password protected. |
+| password | const System::String\& | User or owner password. |
 
 ### ReturnValue
 
@@ -116,20 +116,20 @@ System::SharedPtr<Document> Aspose::Pdf::ComHelper::OpenStream(System::SharedPtr
 * Class [ComHelper](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## ComHelper::OpenStream(System::SharedPtr\<System::IO::Stream\>, System::String, bool) method
+## ComHelper::OpenStream(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&, bool) method
 
 
 Initialize and return new [Document](../../document/) instance from the *input*  stream.
 
 ```cpp
-System::SharedPtr<Document> Aspose::Pdf::ComHelper::OpenStream(System::SharedPtr<System::IO::Stream> input, System::String password, bool isManagedStream)
+System::SharedPtr<Document> Aspose::Pdf::ComHelper::OpenStream(const System::SharedPtr<System::IO::Stream> &input, const System::String &password, bool isManagedStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| input | System::SharedPtr\<System::IO::Stream\> | Stream with pdf document. |
-| password | System::String | User or owner password. |
+| input | const System::SharedPtr\<System::IO::Stream\>\& | Stream with pdf document. |
+| password | const System::String\& | User or owner password. |
 | isManagedStream | bool | if set to **true** inner stream is closed before exit; otherwise, is not. |
 
 ### ReturnValue

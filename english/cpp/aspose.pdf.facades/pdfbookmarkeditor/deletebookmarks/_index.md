@@ -21,19 +21,19 @@ void Aspose::Pdf::Facades::PdfBookmarkEditor::DeleteBookmarks()
 * Class [PdfBookmarkEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfBookmarkEditor::DeleteBookmarks(System::String) method
+## PdfBookmarkEditor::DeleteBookmarks(const System::String\&) method
 
 
 Deletes the bookmark of the PDF document.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfBookmarkEditor::DeleteBookmarks(System::String title)
+void Aspose::Pdf::Facades::PdfBookmarkEditor::DeleteBookmarks(const System::String &title)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| title | System::String | The title of bookmark deleted. |
+| title | const System::String\& | The title of bookmark deleted. |
 
 ## See Also
 

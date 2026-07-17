@@ -27,7 +27,7 @@ class XpsSaveOptions : public Aspose::Pdf::UnifiedSaveOptions,
 | [get_UseEmbeddedTrueTypeFonts](./get_useembeddedtruetypefonts/)() const | Gets/sets the flag to use embedded TrueType fonts. Avoiding the use of embedded TrueType fonts can reduce conversion time. |
 | [get_UseNewImagingEngine](./get_usenewimagingengine/)() const | Gets UseNewImagingEngine option. |
 | [set_BatchSize](./set_batchsize/)(int32_t) override | Defines batch size if batched conversion is applicable to source and destination formats pair. |
-| [set_DefaultFont](./set_defaultfont/)(System::String) | Gets/sets the default font name. Used if the embedded font name is not found in the system. |
+| [set_DefaultFont](./set_defaultfont/)(const System::String\&) | Gets/sets the default font name. Used if the embedded font name is not found in the system. |
 | [set_SaveTransparentTexts](./set_savetransparenttexts/)(bool) | Indicates whether to preserve transparent (OCR'ed) text. |
 | [set_UseEmbeddedTrueTypeFonts](./set_useembeddedtruetypefonts/)(bool) | Gets/sets the flag to use embedded TrueType fonts. Avoiding the use of embedded TrueType fonts can reduce conversion time. |
 | [set_UseNewImagingEngine](./set_usenewimagingengine/)(bool) | Sets UseNewImagingEngine option. |

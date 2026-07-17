@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/documentactioncollection/set_afterprinting/
 Action that will be performed after document printing.
 
 ```cpp
-void Aspose::Pdf::Annotations::DocumentActionCollection::set_AfterPrinting(System::SharedPtr<PdfAction> value)
+void Aspose::Pdf::Annotations::DocumentActionCollection::set_AfterPrinting(const System::SharedPtr<PdfAction> &value)
 ```
 
 ## See Also

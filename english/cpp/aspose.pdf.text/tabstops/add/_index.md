@@ -28,6 +28,27 @@ The new [TabStop](../../tabstop/) object.
 * Class [TabStops](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
+## TabStops::Add(const System::SharedPtr\<TabStop\>\&) method
+
+
+Add instance of the [TabStop](../../tabstop/) class to the [TabStops](../) collection.
+
+```cpp
+void Aspose::Pdf::Text::TabStops::Add(const System::SharedPtr<TabStop> &tabStop)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| tabStop | const System::SharedPtr\<TabStop\>\& | The [TabStop](../../tabstop/) object. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [TabStop](../../tabstop/)
+* Class [TabStops](../)
+* Namespace [Aspose::Pdf::Text](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## TabStops::Add(float) method
 
 
@@ -77,27 +98,6 @@ The new [TabStop](../../tabstop/) object.
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [TabStop](../../tabstop/)
 * Enum [TabLeaderType](../../tableadertype/)
-* Class [TabStops](../)
-* Namespace [Aspose::Pdf::Text](../../)
-* Library [Aspose.PDF for C++](../../../)
-## TabStops::Add(System::SharedPtr\<TabStop\>) method
-
-
-Add instance of the [TabStop](../../tabstop/) class to the [TabStops](../) collection.
-
-```cpp
-void Aspose::Pdf::Text::TabStops::Add(System::SharedPtr<TabStop> tabStop)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| tabStop | System::SharedPtr\<TabStop\> | The [TabStop](../../tabstop/) object. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [TabStop](../../tabstop/)
 * Class [TabStops](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

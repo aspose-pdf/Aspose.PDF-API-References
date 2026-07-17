@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/formfieldoptions/set_contents/
 Gets/sets the value to determine property Contents for created/modified field (if will be set).
 
 ```cpp
-void Aspose::Pdf::LowCode::FormFieldOptions::set_Contents(System::String value)
+void Aspose::Pdf::LowCode::FormFieldOptions::set_Contents(const System::String &value)
 ```
 
 ## See Also

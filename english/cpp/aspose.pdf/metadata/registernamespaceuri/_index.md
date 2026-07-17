@@ -7,20 +7,20 @@ type: docs
 weight: 2000
 url: /cpp/aspose.pdf/metadata/registernamespaceuri/
 ---
-## Metadata::RegisterNamespaceUri(System::String, System::String) method
+## Metadata::RegisterNamespaceUri(const System::String\&, const System::String\&) method
 
 
 Registers namespace URI.
 
 ```cpp
-void Aspose::Pdf::Metadata::RegisterNamespaceUri(System::String prefix, System::String namespaceUri)
+void Aspose::Pdf::Metadata::RegisterNamespaceUri(const System::String &prefix, const System::String &namespaceUri)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| prefix | System::String | The value of prefix. |
-| namespaceUri | System::String | The value of namespace URI. |
+| prefix | const System::String\& | The value of prefix. |
+| namespaceUri | const System::String\& | The value of namespace URI. |
 
 ## See Also
 
@@ -28,21 +28,21 @@ void Aspose::Pdf::Metadata::RegisterNamespaceUri(System::String prefix, System::
 * Class [Metadata](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Metadata::RegisterNamespaceUri(System::String, System::String, System::String) method
+## Metadata::RegisterNamespaceUri(const System::String\&, const System::String\&, const System::String\&) method
 
 
 Registers namespace URI.
 
 ```cpp
-void Aspose::Pdf::Metadata::RegisterNamespaceUri(System::String prefix, System::String namespaceUri, System::String schemaDescription)
+void Aspose::Pdf::Metadata::RegisterNamespaceUri(const System::String &prefix, const System::String &namespaceUri, const System::String &schemaDescription)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| prefix | System::String | The value of prefix. |
-| namespaceUri | System::String | The value of namespace URI. |
-| schemaDescription | System::String | The value of schema description. |
+| prefix | const System::String\& | The value of prefix. |
+| namespaceUri | const System::String\& | The value of namespace URI. |
+| schemaDescription | const System::String\& | The value of schema description. |
 
 ## See Also
 

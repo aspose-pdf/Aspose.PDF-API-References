@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/javascriptcollection/idx_get/
 Gets JavaScript from collection by its key.
 
 ```cpp
-System::String Aspose::Pdf::JavaScriptCollection::idx_get(System::String key)
+System::String Aspose::Pdf::JavaScriptCollection::idx_get(const System::String &key)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | System::String | Key value. |
+| key | const System::String\& | Key value. |
 
 ### ReturnValue
 

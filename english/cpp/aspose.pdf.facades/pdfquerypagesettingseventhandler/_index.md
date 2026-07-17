@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfquerypagesettingseventhandler/
 Represents the method that handles the [PdfViewer::PdfQueryPageSettings](../) event of a [PdfViewer](../).
 
 ```cpp
-using Aspose::Pdf::Facades::PdfQueryPageSettingsEventHandler =  System::MulticastDelegate<void(System::SharedPtr<System::Object>, System::SharedPtr<Aspose::Pdf::Printing::PdfQueryPageSettingsEventArgs>, System::SharedPtr<Aspose::Pdf::Facades::PdfPrintPageInfo>)>
+using Aspose::Pdf::Facades::PdfQueryPageSettingsEventHandler =  System::MulticastDelegate<void(const System::SharedPtr<System::Object>&, const System::SharedPtr<Aspose::Pdf::Printing::PdfQueryPageSettingsEventArgs>&, const System::SharedPtr<Aspose::Pdf::Facades::PdfPrintPageInfo>&)>
 ```
 
 

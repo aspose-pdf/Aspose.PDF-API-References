@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/loadoptions/resourceloadingstrategy/
 Sometimes it's necessary to avoid usage of internal loader of external resources(like images or CSSes) and supply custom method, that will get requested resources from somewhere. For example during usage of [Aspose.Pdf](../../) in cloud direct access to referenced files impossible, and some custome code put into special method should be used. This delegate defines signature of such custom method.
 
 ```cpp
-using Aspose::Pdf::LoadOptions::ResourceLoadingStrategy =  System::MulticastDelegate<System::SharedPtr<Aspose::Pdf::LoadOptions::ResourceLoadingResult>(System::String)>
+using Aspose::Pdf::LoadOptions::ResourceLoadingStrategy =  System::MulticastDelegate<System::SharedPtr<Aspose::Pdf::LoadOptions::ResourceLoadingResult>(const System::String&)>
 ```
 
 

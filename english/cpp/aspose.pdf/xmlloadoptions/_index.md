@@ -22,8 +22,8 @@ class XmlLoadOptions : public Aspose::Pdf::LoadOptions
 | --- | --- |
 | [get_XslStream](./get_xslstream/)() const | Gets xsl data for converting xml into pdf document. |
 | [XmlLoadOptions](./xmlloadoptions/)() | Creates [XmlLoadOptions](./) object without xsl data. |
-| [XmlLoadOptions](./xmlloadoptions/)(System::String) | Creates [XmlLoadOptions](./) object with xsl data. |
-| [XmlLoadOptions](./xmlloadoptions/)(System::SharedPtr\<System::IO::Stream\>) | Creates [XmlLoadOptions](./) object with xsl data. |
+| [XmlLoadOptions](./xmlloadoptions/)(const System::String\&) | Creates [XmlLoadOptions](./) object with xsl data. |
+| [XmlLoadOptions](./xmlloadoptions/)(const System::SharedPtr\<System::IO::Stream\>\&) | Creates [XmlLoadOptions](./) object with xsl data. |
 | virtual [~XmlLoadOptions](./~xmlloadoptions/)() |  |
 ## See Also
 

@@ -7,21 +7,21 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf.annotations/pdf3dannotation/pdf3dannotation/
 ---
-## PDF3DAnnotation::PDF3DAnnotation(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>, System::SharedPtr\<PDF3DArtwork\>) constructor
+## PDF3DAnnotation::PDF3DAnnotation(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&, const System::SharedPtr\<PDF3DArtwork\>\&) constructor
 
 
 Initializes a new instance of the [PDF3DAnnotation](../) class.
 
 ```cpp
-Aspose::Pdf::Annotations::PDF3DAnnotation::PDF3DAnnotation(System::SharedPtr<Aspose::Pdf::Page> page, System::SharedPtr<Rectangle> rect, System::SharedPtr<PDF3DArtwork> pdf3DArtwork)
+Aspose::Pdf::Annotations::PDF3DAnnotation::PDF3DAnnotation(const System::SharedPtr<Aspose::Pdf::Page> &page, const System::SharedPtr<Rectangle> &rect, const System::SharedPtr<PDF3DArtwork> &pdf3DArtwork)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | The page. |
-| rect | System::SharedPtr\<Rectangle\> | The rectangle. |
-| pdf3DArtwork | System::SharedPtr\<PDF3DArtwork\> | The 3D Artwork. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | The page. |
+| rect | const System::SharedPtr\<Rectangle\>\& | The rectangle. |
+| pdf3DArtwork | const System::SharedPtr\<PDF3DArtwork\>\& | The 3D Artwork. |
 
 ## See Also
 
@@ -32,21 +32,21 @@ Aspose::Pdf::Annotations::PDF3DAnnotation::PDF3DAnnotation(System::SharedPtr<Asp
 * Class [PDF3DAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PDF3DAnnotation::PDF3DAnnotation(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>, System::SharedPtr\<PDF3DArtwork\>, PDF3DActivation) constructor
+## PDF3DAnnotation::PDF3DAnnotation(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&, const System::SharedPtr\<PDF3DArtwork\>\&, PDF3DActivation) constructor
 
 
 Initializes a new instance of the [PDF3DAnnotation](../) class.
 
 ```cpp
-Aspose::Pdf::Annotations::PDF3DAnnotation::PDF3DAnnotation(System::SharedPtr<Aspose::Pdf::Page> page, System::SharedPtr<Rectangle> rect, System::SharedPtr<PDF3DArtwork> pdf3DArtwork, PDF3DActivation activation)
+Aspose::Pdf::Annotations::PDF3DAnnotation::PDF3DAnnotation(const System::SharedPtr<Aspose::Pdf::Page> &page, const System::SharedPtr<Rectangle> &rect, const System::SharedPtr<PDF3DArtwork> &pdf3DArtwork, PDF3DActivation activation)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | The page. |
-| rect | System::SharedPtr\<Rectangle\> | The rectangle. |
-| pdf3DArtwork | System::SharedPtr\<PDF3DArtwork\> | The 3D Artwork. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | The page. |
+| rect | const System::SharedPtr\<Rectangle\>\& | The rectangle. |
+| pdf3DArtwork | const System::SharedPtr\<PDF3DArtwork\>\& | The 3D Artwork. |
 | activation | PDF3DActivation | The activation mode. |
 
 ## See Also

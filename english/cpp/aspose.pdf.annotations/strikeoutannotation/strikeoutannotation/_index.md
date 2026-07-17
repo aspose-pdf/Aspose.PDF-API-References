@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.annotations/strikeoutannotation/strikeoutannotation/
 Creates new StrikeOut annotation on the specified page.
 
 ```cpp
-Aspose::Pdf::Annotations::StrikeOutAnnotation::StrikeOutAnnotation(System::SharedPtr<Aspose::Pdf::Page> page, System::SharedPtr<Rectangle> rect)
+Aspose::Pdf::Annotations::StrikeOutAnnotation::StrikeOutAnnotation(const System::SharedPtr<Aspose::Pdf::Page> &page, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | The document's page where annotation should be created. |
-| rect | System::SharedPtr\<Rectangle\> | The annotation rectangle, defining the location of the annotation on the page. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | The document's page where annotation should be created. |
+| rect | const System::SharedPtr\<Rectangle\>\& | The annotation rectangle, defining the location of the annotation on the page. |
 
 ## See Also
 

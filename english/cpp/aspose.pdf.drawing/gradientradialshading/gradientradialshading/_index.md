@@ -21,20 +21,20 @@ Aspose::Pdf::Drawing::GradientRadialShading::GradientRadialShading()
 * Class [GradientRadialShading](../)
 * Namespace [Aspose::Pdf::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)
-## GradientRadialShading::GradientRadialShading(System::SharedPtr\<Color\>, System::SharedPtr\<Color\>) constructor
+## GradientRadialShading::GradientRadialShading(const System::SharedPtr\<Color\>\&, const System::SharedPtr\<Color\>\&) constructor
 
 
 Initializes a new instance of the [GradientRadialShading](../) class.
 
 ```cpp
-Aspose::Pdf::Drawing::GradientRadialShading::GradientRadialShading(System::SharedPtr<Color> startColor, System::SharedPtr<Color> endColor)
+Aspose::Pdf::Drawing::GradientRadialShading::GradientRadialShading(const System::SharedPtr<Color> &startColor, const System::SharedPtr<Color> &endColor)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| startColor | System::SharedPtr\<Color\> | The starting circle color. |
-| endColor | System::SharedPtr\<Color\> | The ending circle color. |
+| startColor | const System::SharedPtr\<Color\>\& | The starting circle color. |
+| endColor | const System::SharedPtr\<Color\>\& | The ending circle color. |
 
 ## See Also
 

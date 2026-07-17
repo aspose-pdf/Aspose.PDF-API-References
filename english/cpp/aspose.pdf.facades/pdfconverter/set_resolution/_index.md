@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfconverter/set_resolution/
 Sets resolution during convertting. The higher resolution, the slower convertting speed. The default value is 150.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfConverter::set_Resolution(System::SharedPtr<Aspose::Pdf::Devices::Resolution> value)
+void Aspose::Pdf::Facades::PdfConverter::set_Resolution(const System::SharedPtr<Aspose::Pdf::Devices::Resolution> &value)
 ```
 
 ## See Also

@@ -20,10 +20,10 @@ class PDF3DViewArray : public System::Object
 
 | Method | Description |
 | --- | --- |
-| [Add](./add/)(System::SharedPtr\<PDF3DView\>) | Adds the specified view. |
+| [Add](./add/)(const System::SharedPtr\<PDF3DView\>\&) | Adds the specified view. |
 | [get_Count](./get_count/)() | Gets the views count. |
 | [idx_get](./idx_get/)(int32_t) | Gets the [PDF3DView](../pdf3dview/) to view array at the specified index. |
-| [idx_set](./idx_set/)(int32_t, System::SharedPtr\<PDF3DView\>) | Sets the [PDF3DView](../pdf3dview/) to view array at the specified index. |
+| [idx_set](./idx_set/)(int32_t, const System::SharedPtr\<PDF3DView\>\&) | Sets the [PDF3DView](../pdf3dview/) to view array at the specified index. |
 | [RemoveAll](./removeall/)() | Removes all views. |
 | [RemoveAt](./removeat/)(int32_t) | Removes view from views array at specified index. |
 ## See Also

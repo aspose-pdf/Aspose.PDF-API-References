@@ -29,13 +29,13 @@ void Aspose::Pdf::Matrix::Scale(double x, double y, double &x1, double &y1)
 * Class [Matrix](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Matrix::Scale(double, double, System::SharedPtr\<Matrix\>) method
+## Matrix::Scale(double, double, const System::SharedPtr\<Matrix\>\&) method
 
 
 Applies scaling to the given matrix.
 
 ```cpp
-static System::SharedPtr<Matrix> Aspose::Pdf::Matrix::Scale(double sx, double sy, System::SharedPtr<Matrix> source)
+static System::SharedPtr<Matrix> Aspose::Pdf::Matrix::Scale(double sx, double sy, const System::SharedPtr<Matrix> &source)
 ```
 
 
@@ -43,7 +43,7 @@ static System::SharedPtr<Matrix> Aspose::Pdf::Matrix::Scale(double sx, double sy
 | --- | --- | --- |
 | sx | double | The scaling factor for the X-axis. |
 | sy | double | The scaling factor for the Y-axis. |
-| source | System::SharedPtr\<Matrix\> | The matrix to scale. |
+| source | const System::SharedPtr\<Matrix\>\& | The matrix to scale. |
 
 ### ReturnValue
 

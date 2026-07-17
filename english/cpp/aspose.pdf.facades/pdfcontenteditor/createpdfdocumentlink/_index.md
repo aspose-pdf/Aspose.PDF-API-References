@@ -7,20 +7,20 @@ type: docs
 weight: 1800
 url: /cpp/aspose.pdf.facades/pdfcontenteditor/createpdfdocumentlink/
 ---
-## PdfContentEditor::CreatePdfDocumentLink(System::Drawing::Rectangle, System::String, int32_t, int32_t) method
+## PdfContentEditor::CreatePdfDocumentLink(System::Drawing::Rectangle, const System::String\&, int32_t, int32_t) method
 
 
 Creates a link to another PDF document page.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfContentEditor::CreatePdfDocumentLink(System::Drawing::Rectangle rect, System::String remotePdf, int32_t originalPage, int32_t destinationPage)
+void Aspose::Pdf::Facades::PdfContentEditor::CreatePdfDocumentLink(System::Drawing::Rectangle rect, const System::String &remotePdf, int32_t originalPage, int32_t destinationPage)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rect | System::Drawing::Rectangle | The rectangle for active click. |
-| remotePdf | System::String | The PDF document which page will be opened. |
+| remotePdf | const System::String\& | The PDF document which page will be opened. |
 | originalPage | int32_t | The number of original page where rectangle bound with link will be created. |
 | destinationPage | int32_t | The destination page. |
 
@@ -31,20 +31,20 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreatePdfDocumentLink(System::Drawi
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfContentEditor::CreatePdfDocumentLink(System::Drawing::Rectangle, System::String, int32_t, int32_t, System::Drawing::Color) method
+## PdfContentEditor::CreatePdfDocumentLink(System::Drawing::Rectangle, const System::String\&, int32_t, int32_t, System::Drawing::Color) method
 
 
 Creates a link to another PDF document page.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfContentEditor::CreatePdfDocumentLink(System::Drawing::Rectangle rect, System::String remotePdf, int32_t originalPage, int32_t destinationPage, System::Drawing::Color clr)
+void Aspose::Pdf::Facades::PdfContentEditor::CreatePdfDocumentLink(System::Drawing::Rectangle rect, const System::String &remotePdf, int32_t originalPage, int32_t destinationPage, System::Drawing::Color clr)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rect | System::Drawing::Rectangle | The rectangle for active click. |
-| remotePdf | System::String | The PDF document which page will be opened. |
+| remotePdf | const System::String\& | The PDF document which page will be opened. |
 | originalPage | int32_t | The number of original page where rectangle bound with link will be created. |
 | destinationPage | int32_t | The destination page. |
 | clr | System::Drawing::Color | The colour of rectangle for active click. |
@@ -57,24 +57,24 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreatePdfDocumentLink(System::Drawi
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfContentEditor::CreatePdfDocumentLink(System::Drawing::Rectangle, System::String, int32_t, int32_t, System::Drawing::Color, System::ArrayPtr\<System::SharedPtr\<System::BoxedValueBase\>\>) method
+## PdfContentEditor::CreatePdfDocumentLink(System::Drawing::Rectangle, const System::String\&, int32_t, int32_t, System::Drawing::Color, const System::ArrayPtr\<System::SharedPtr\<System::BoxedValueBase\>\>\&) method
 
 
 Creates a link to another PDF document page.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfContentEditor::CreatePdfDocumentLink(System::Drawing::Rectangle rect, System::String remotePdf, int32_t originalPage, int32_t destinationPage, System::Drawing::Color clr, System::ArrayPtr<System::SharedPtr<System::BoxedValueBase>> actionName)
+void Aspose::Pdf::Facades::PdfContentEditor::CreatePdfDocumentLink(System::Drawing::Rectangle rect, const System::String &remotePdf, int32_t originalPage, int32_t destinationPage, System::Drawing::Color clr, const System::ArrayPtr<System::SharedPtr<System::BoxedValueBase>> &actionName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rect | System::Drawing::Rectangle | The rectangle for active click. |
-| remotePdf | System::String | The PDF document which page will be opened. |
+| remotePdf | const System::String\& | The PDF document which page will be opened. |
 | originalPage | int32_t | The number of original page where rectangle bound with link will be created. |
 | destinationPage | int32_t | The destination page. |
 | clr | System::Drawing::Color | The colour of rectangle for active click. |
-| actionName | System::ArrayPtr\<System::SharedPtr\<System::BoxedValueBase\>\> | The array of actions (members of PredefinedAction enum) corresponding to executing menu items in Acrobat viewer. |
+| actionName | const System::ArrayPtr\<System::SharedPtr\<System::BoxedValueBase\>\>\& | The array of actions (members of PredefinedAction enum) corresponding to executing menu items in Acrobat viewer. |
 
 ## See Also
 

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/form/getfieldtype/
 Returns type of field.
 
 ```cpp
-FieldType Aspose::Pdf::Facades::Form::GetFieldType(System::String fieldName)
+FieldType Aspose::Pdf::Facades::Form::GetFieldType(const System::String &fieldName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | Field name. |
+| fieldName | const System::String\& | Field name. |
 
 ### ReturnValue
 

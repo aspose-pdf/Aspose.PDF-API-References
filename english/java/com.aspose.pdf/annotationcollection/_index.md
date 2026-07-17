@@ -1,263 +1,166 @@
 ---
 title: AnnotationCollection
+linktitle: AnnotationCollection
 second_title: Aspose.PDF for Java API Reference
 description: Class representing annotation collection.
 type: docs
-weight: 16
+weight: 80
 url: /java/com.aspose.pdf/annotationcollection/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.AnnotationCollection
 
 **All Implemented Interfaces:**
-java.lang.Iterable
+Iterable < Annotation >
+
 ```
-public final class AnnotationCollection implements Iterable<Annotation>
+public final class AnnotationCollection extends Object implements Iterable < Annotation >
 ```
 
 Class representing annotation collection.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [AnnotationCollection(Page page)](#AnnotationCollection-com.aspose.pdf.Page-) | Constructor of AnnotationCollection. |
+| [AnnotationCollection](#AnnotationCollection-com.aspose.pdf.Page-) | Constructor of AnnotationCollection. Creates annotation collection for annotations on the given page. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [isSynchronized()](#isSynchronized--) | Gets a value indicating whether access to the com.aspose.pdf.AnnotationCollection is synchronized (thread safe). |
-| [getSyncRoot()](#getSyncRoot--) | Gets an object that can be used to synchronize access to com.aspose.pdf.AnnotationCollection. |
-| [size()](#size--) | Gets count of annotations in collection. |
-| [isReadOnly()](#isReadOnly--) | Gets a value indicating if collection is readonly. |
-| [add(Annotation annotation, boolean considerRotation)](#add-com.aspose.pdf.Annotation-boolean-) | Adds annotation to the collection. |
-| [add(Annotation annotation)](#add-com.aspose.pdf.Annotation-) | Adds annotation to the collection. |
-| [delete(int index)](#delete-int-) | Deletes annotation from the collection by index. |
-| [delete()](#delete--) | Deletes all annotations from the collection. |
-| [copyTo(Annotation[] array, int index)](#copyTo-com.aspose.pdf.Annotation---int-) | Copies array of annotations into collection. |
-| [iterator()](#iterator--) | Returns collection enumerator. |
-| [accept(AnnotationSelector visitor)](#accept-com.aspose.pdf.AnnotationSelector-) | Accepts visitor to process annotation. |
-| [delete(Annotation annotation)](#delete-com.aspose.pdf.Annotation-) | Deletes specified annotation from the collection. |
-| [clear()](#clear--) | Deletes all annotations from the collection. |
-| [contains(Annotation annotation)](#contains-com.aspose.pdf.Annotation-) | Checks if specified annotation belong to collection. |
-| [remove(Annotation annotation)](#remove-com.aspose.pdf.Annotation-) | Deletes specified annotation from the collection. |
-| [get_Item(int index)](#get-Item-int-) | The index of the element to get. |
-| [findByName(String name)](#findByName-java.lang.String-) | Returns annotation by its name. |
-### AnnotationCollection(Page page) {#AnnotationCollection-com.aspose.pdf.Page-}
-```
-public AnnotationCollection(Page page)
-```
+| [accept](#accept-com.aspose.pdf.AnnotationSelector-) | Accepts visitor to process annotation. |
+| [add](#add-com.aspose.pdf.Annotation-) | Adds annotation to the collection. |
+| [add](#add-com.aspose.pdf.Annotation-boolean-) | Adds annotation to the collection. If page is rotated then annotation rectangle will be recalculated accordingly. |
+| [clear](#clear--) | Deletes all annotations from the collection. |
+| [contains](#contains-com.aspose.pdf.Annotation-) | Checks if specified annotation belong to collection. |
+| [copyTo](#copyTo-com.aspose.pdf.Annotation:A-int-) | Copies array of annotations into collection. |
+| [delete](#delete--) | Deletes all annotations from the collection. |
+| [delete](#delete-com.aspose.pdf.Annotation-) | Deletes all annotations from the collection. |
+| [delete](#delete-int-) | Deletes annotation from the collection by index. |
+| [findByName](#findByName-java.lang.String-) | Returns annotation by its name. |
+| [get_Item](#get_Item-int-) | The index of the element to get. |
+| [getSyncRoot](#getSyncRoot--) | Gets an object that can be used to synchronize access to com.aspose.pdf.AnnotationCollection. |
+| [isReadOnly](#isReadOnly--) | Gets a value indicating if collection is readonly. |
+| [isSynchronized](#isSynchronized--) | Gets a value indicating whether access to the com.aspose.pdf.AnnotationCollection is synchronized (thread safe). |
+| [iterator](#iterator--) | Returns collection enumerator. |
+| [remove](#remove-com.aspose.pdf.Annotation-) | Deletes specified annotation from the collection. |
+| [size](#size--) | Gets count of annotations in collection. |
 
-
+### AnnotationCollection {#AnnotationCollection-com.aspose.pdf.Page-}
 Constructor of AnnotationCollection. Creates annotation collection for annotations on the given page.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | [Page](../../com.aspose.pdf/page) | Parent page of annotations. |
+### accept {#accept-com.aspose.pdf.AnnotationSelector-}
+Accepts visitor to process annotation.
 
-### isSynchronized() {#isSynchronized--}
-```
-public boolean isSynchronized()
-```
-
-
-Gets a value indicating whether access to the com.aspose.pdf.AnnotationCollection is synchronized (thread safe).
-
-**Returns:**
-boolean - boolean value
-### getSyncRoot() {#getSyncRoot--}
-```
-public Object getSyncRoot()
-```
-
-
-Gets an object that can be used to synchronize access to com.aspose.pdf.AnnotationCollection.
-
-**Returns:**
-java.lang.Object - Object for sinchronization
-### size() {#size--}
-```
-public int size()
-```
-
-
-Gets count of annotations in collection.
-
-**Returns:**
-int - int value
-### isReadOnly() {#isReadOnly--}
-```
-public boolean isReadOnly()
-```
-
-
-Gets a value indicating if collection is readonly.
-
-**Returns:**
-boolean - boolean value
-### add(Annotation annotation, boolean considerRotation) {#add-com.aspose.pdf.Annotation-boolean-}
-```
-public void add(Annotation annotation, boolean considerRotation)
-```
-
-
-Adds annotation to the collection. If page is rotated then annotation rectangle will be recalculated accordingly.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| annotation | [Annotation](../../com.aspose.pdf/annotation) | Annotation which shall be added. |
-| considerRotation | boolean | If true and if page is rotated then annotation position will be recaculated accroding to page rotation. |
-
-### add(Annotation annotation) {#add-com.aspose.pdf.Annotation-}
-```
-public void add(Annotation annotation)
-```
-
-
+### add {#add-com.aspose.pdf.Annotation-}
 Adds annotation to the collection.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| annotation | [Annotation](../../com.aspose.pdf/annotation) | Annotation which shall be added. |
+### add {#add-com.aspose.pdf.Annotation-boolean-}
+Adds annotation to the collection. If page is rotated then annotation rectangle will be recalculated accordingly.
 
-### delete(int index) {#delete-int-}
+### clear {#clear--}
+```
+public void clear()
+```
+
+Deletes all annotations from the collection.
+
+### contains {#contains-com.aspose.pdf.Annotation-}
+Checks if specified annotation belong to collection.
+
+### copyTo {#copyTo-com.aspose.pdf.Annotation:A-int-}
+Copies array of annotations into collection.
+
+### delete {#delete--}
+```
+public void delete()
+```
+
+Deletes all annotations from the collection.
+
+### delete {#delete-com.aspose.pdf.Annotation-}
+Deletes all annotations from the collection.
+
+### delete {#delete-int-}
 ```
 public void delete(int index)
 ```
-
 
 Deletes annotation from the collection by index.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index of annotation which shall be deleted. |
+| index |  | Index of annotation which shall be deleted. |
 
-### delete() {#delete--}
-```
-public void delete()
-```
+### findByName {#findByName-java.lang.String-}
+Returns annotation by its name.
 
-
-Deletes all annotations from the collection.
-
-### copyTo(Annotation[] array, int index) {#copyTo-com.aspose.pdf.Annotation---int-}
-```
-public void copyTo(Annotation[] array, int index)
-```
-
-
-Copies array of annotations into collection.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| array | [Annotation\[\]](../../com.aspose.pdf/annotation) | Array to copy into collection. |
-| index | int | Starting index where colleciton wil lbe copied. |
-
-### iterator() {#iterator--}
-```
-public System.Collections.IEnumerator<Annotation> iterator()
-```
-
-
-Returns collection enumerator.
-
-**Returns:**
-com.aspose.ms.System.Collections.IEnumerator<com.aspose.pdf.Annotation> - Enumerator object
-### accept(AnnotationSelector visitor) {#accept-com.aspose.pdf.AnnotationSelector-}
-```
-public void accept(AnnotationSelector visitor)
-```
-
-
-Accepts visitor to process annotation.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| visitor | [AnnotationSelector](../../com.aspose.pdf/annotationselector) | Annotation selector object. |
-
-### delete(Annotation annotation) {#delete-com.aspose.pdf.Annotation-}
-```
-public void delete(Annotation annotation)
-```
-
-
-Deletes specified annotation from the collection.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| annotation | [Annotation](../../com.aspose.pdf/annotation) | Annotation which shall be deleted. |
-
-### clear() {#clear--}
-```
-public void clear()
-```
-
-
-Deletes all annotations from the collection.
-
-### contains(Annotation annotation) {#contains-com.aspose.pdf.Annotation-}
-```
-public boolean contains(Annotation annotation)
-```
-
-
-Checks if specified annotation belong to collection.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| annotation | [Annotation](../../com.aspose.pdf/annotation) | Annotation to be searched. |
-
-**Returns:**
-boolean - boolean value True - if annotation found; otherwise, false.
-### remove(Annotation annotation) {#remove-com.aspose.pdf.Annotation-}
-```
-public boolean remove(Annotation annotation)
-```
-
-
-Deletes specified annotation from the collection.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| annotation | [Annotation](../../com.aspose.pdf/annotation) | Annotation which shall be deleted. |
-
-**Returns:**
-boolean - boolean value True - if annotation found; otherwise, false.
-### get_Item(int index) {#get-Item-int-}
+### get_Item {#get_Item-int-}
 ```
 public Annotation get_Item(int index)
 ```
-
 
 The index of the element to get.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | The index value started from one. |
+| index |  | The index value started from one. |
 
 **Returns:**
-[Annotation](../../com.aspose.pdf/annotation) - Annotation object
-### findByName(String name) {#findByName-java.lang.String-}
+Annotation object
+
+### getSyncRoot {#getSyncRoot--}
 ```
-public final Annotation findByName(String name)
+public Object getSyncRoot()
 ```
 
-
-Returns annotation by its name.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | java.lang.String | Name of the annotation |
+Gets an object that can be used to synchronize access to com.aspose.pdf.AnnotationCollection.
 
 **Returns:**
-[Annotation](../../com.aspose.pdf/annotation) - Annotation object if found; otherwise, null.
+Object for sinchronization
+
+### isReadOnly {#isReadOnly--}
+```
+public boolean isReadOnly()
+```
+
+Gets a value indicating if collection is readonly.
+
+**Returns:**
+boolean value
+
+### isSynchronized {#isSynchronized--}
+```
+public boolean isSynchronized()
+```
+
+Gets a value indicating whether access to the com.aspose.pdf.AnnotationCollection is synchronized (thread safe).
+
+**Returns:**
+boolean value
+
+### iterator {#iterator--}
+```
+public com.aspose.ms.System.Collections.IEnumerator< Annotation > iterator()
+```
+
+Returns collection enumerator.
+
+**Returns:**
+Enumerator object
+
+### remove {#remove-com.aspose.pdf.Annotation-}
+Deletes specified annotation from the collection.
+
+### size {#size--}
+```
+public int size()
+```
+
+Gets count of annotations in collection.
+
+**Returns:**
+int value

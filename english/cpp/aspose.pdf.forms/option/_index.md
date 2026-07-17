@@ -24,9 +24,9 @@ class Option : public System::Object
 | [get_Name](./get_name/)() | Gets name of option. |
 | [get_Selected](./get_selected/)() | Gets selected status of option. Returns true if option is selected. |
 | [get_Value](./get_value/)() | Gets option export value. |
-| [set_Name](./set_name/)(System::String) | Sets name of option. |
+| [set_Name](./set_name/)(const System::String\&) | Sets name of option. |
 | [set_Selected](./set_selected/)(bool) | Sets selected status of option. Returns true if option is selected. |
-| [set_Value](./set_value/)(System::String) | Sets option export value. |
+| [set_Value](./set_value/)(const System::String\&) | Sets option export value. |
 ## See Also
 
 * Class [Object](../../system/object/)

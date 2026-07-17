@@ -7,19 +7,19 @@ type: docs
 weight: 900
 url: /cpp/aspose.pdf.text/tableabsorber/visit/
 ---
-## TableAbsorber::Visit(System::SharedPtr\<Document\>) method
+## TableAbsorber::Visit(const System::SharedPtr\<Document\>\&) method
 
 
 Extracts tables in the specified document.
 
 ```cpp
-void Aspose::Pdf::Text::TableAbsorber::Visit(System::SharedPtr<Document> pdf)
+void Aspose::Pdf::Text::TableAbsorber::Visit(const System::SharedPtr<Document> &pdf)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pdf | System::SharedPtr\<Document\> | [Pdf](../../../aspose.pdf/) pocument object. |
+| pdf | const System::SharedPtr\<Document\>\& | [Pdf](../../../aspose.pdf/) pocument object. |
 
 ## See Also
 

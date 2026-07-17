@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/encryptionoptions/set_userpassword/
 User password.
 
 ```cpp
-void Aspose::Pdf::LowCode::EncryptionOptions::set_UserPassword(System::String value)
+void Aspose::Pdf::LowCode::EncryptionOptions::set_UserPassword(const System::String &value)
 ```
 
 ## See Also

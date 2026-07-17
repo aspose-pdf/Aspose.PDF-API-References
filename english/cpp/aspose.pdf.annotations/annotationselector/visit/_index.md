@@ -2,11 +2,116 @@
 title: Aspose::Pdf::Annotations::AnnotationSelector::Visit method
 linktitle: Visit
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Annotations::AnnotationSelector::Visit method. Selects the bleedMark  if the AnnotationSelector was initialized with a BleedMarkAnnotation object in C++.'
+description: 'Aspose::Pdf::Annotations::AnnotationSelector::Visit method. Select ColorBar annotation if AnnotationSelector was initialized with ColorBar object in C++.'
 type: docs
 weight: 300
 url: /cpp/aspose.pdf.annotations/annotationselector/visit/
 ---
+## AnnotationSelector::Visit(const System::SharedPtr\<ColorBarAnnotation\>\&) method
+
+
+Select ColorBar annotation if [AnnotationSelector](../) was initialized with ColorBar object.
+
+```cpp
+void Aspose::Pdf::Annotations::AnnotationSelector::Visit(const System::SharedPtr<ColorBarAnnotation> &colorBar)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| colorBar | const System::SharedPtr\<ColorBarAnnotation\>\& | [PDF3DAnnotation](../../pdf3dannotation/) object for selecting. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [ColorBarAnnotation](../../colorbarannotation/)
+* Class [AnnotationSelector](../)
+* Namespace [Aspose::Pdf::Annotations](../../)
+* Library [Aspose.PDF for C++](../../../)
+## AnnotationSelector::Visit(const System::SharedPtr\<PDF3DAnnotation\>\&) method
+
+
+Select PDF3D annotation if [AnnotationSelector](../) was initialized with [PDF3DAnnotation](../../pdf3dannotation/) object.
+
+```cpp
+void Aspose::Pdf::Annotations::AnnotationSelector::Visit(const System::SharedPtr<PDF3DAnnotation> &pdf3D)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pdf3D | const System::SharedPtr\<PDF3DAnnotation\>\& | [PDF3DAnnotation](../../pdf3dannotation/) object for selecting. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [PDF3DAnnotation](../../pdf3dannotation/)
+* Class [AnnotationSelector](../)
+* Namespace [Aspose::Pdf::Annotations](../../)
+* Library [Aspose.PDF for C++](../../../)
+## AnnotationSelector::Visit(const System::SharedPtr\<RedactionAnnotation\>\&) method
+
+
+Select redact annotation if [AnnotationSelector](../) was initialized with RedactAnnotation object.
+
+```cpp
+void Aspose::Pdf::Annotations::AnnotationSelector::Visit(const System::SharedPtr<RedactionAnnotation> &redact)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| redact | const System::SharedPtr\<RedactionAnnotation\>\& | RedactAnnotation object for selecting. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [RedactionAnnotation](../../redactionannotation/)
+* Class [AnnotationSelector](../)
+* Namespace [Aspose::Pdf::Annotations](../../)
+* Library [Aspose.PDF for C++](../../../)
+## AnnotationSelector::Visit(const System::SharedPtr\<RichMediaAnnotation\>\&) method
+
+
+Select movie annotation if [AnnotationSelector](../) was initialized with RichMedia annotation object.
+
+```cpp
+void Aspose::Pdf::Annotations::AnnotationSelector::Visit(const System::SharedPtr<RichMediaAnnotation> &richMedia)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| richMedia | const System::SharedPtr\<RichMediaAnnotation\>\& | RichMedia annotation. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [RichMediaAnnotation](../../richmediaannotation/)
+* Class [AnnotationSelector](../)
+* Namespace [Aspose::Pdf::Annotations](../../)
+* Library [Aspose.PDF for C++](../../../)
+## AnnotationSelector::Visit(const System::SharedPtr\<WatermarkAnnotation\>\&) method
+
+
+Select watermark annotation if [AnnotationSelector](../) was initialized with [WatermarkAnnotation](../../watermarkannotation/) object.
+
+```cpp
+void Aspose::Pdf::Annotations::AnnotationSelector::Visit(const System::SharedPtr<WatermarkAnnotation> &watermark)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| watermark | const System::SharedPtr\<WatermarkAnnotation\>\& | [WatermarkAnnotation](../../watermarkannotation/) for selecting. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [WatermarkAnnotation](../../watermarkannotation/)
+* Class [AnnotationSelector](../)
+* Namespace [Aspose::Pdf::Annotations](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## AnnotationSelector::Visit(System::SharedPtr\<BleedMarkAnnotation\>) method
 
 
@@ -67,27 +172,6 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<Circl
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [CircleAnnotation](../../circleannotation/)
-* Class [AnnotationSelector](../)
-* Namespace [Aspose::Pdf::Annotations](../../)
-* Library [Aspose.PDF for C++](../../../)
-## AnnotationSelector::Visit(System::SharedPtr\<ColorBarAnnotation\>) method
-
-
-Select ColorBar annotation if [AnnotationSelector](../) was initialized with ColorBar object.
-
-```cpp
-void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<ColorBarAnnotation> colorBar)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| colorBar | System::SharedPtr\<ColorBarAnnotation\> | [PDF3DAnnotation](../../pdf3dannotation/) object for selecting. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [ColorBarAnnotation](../../colorbarannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -259,27 +343,6 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<PageI
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## AnnotationSelector::Visit(System::SharedPtr\<PDF3DAnnotation\>) method
-
-
-Select PDF3D annotation if [AnnotationSelector](../) was initialized with [PDF3DAnnotation](../../pdf3dannotation/) object.
-
-```cpp
-void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<PDF3DAnnotation> pdf3D)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pdf3D | System::SharedPtr\<PDF3DAnnotation\> | [PDF3DAnnotation](../../pdf3dannotation/) object for selecting. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [PDF3DAnnotation](../../pdf3dannotation/)
-* Class [AnnotationSelector](../)
-* Namespace [Aspose::Pdf::Annotations](../../)
-* Library [Aspose.PDF for C++](../../../)
 ## AnnotationSelector::Visit(System::SharedPtr\<PolygonAnnotation\>) method
 
 
@@ -343,27 +406,6 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<Popup
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## AnnotationSelector::Visit(System::SharedPtr\<RedactionAnnotation\>) method
-
-
-Select redact annotation if [AnnotationSelector](../) was initialized with RedactAnnotation object.
-
-```cpp
-void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<RedactionAnnotation> redact)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| redact | System::SharedPtr\<RedactionAnnotation\> | RedactAnnotation object for selecting. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [RedactionAnnotation](../../redactionannotation/)
-* Class [AnnotationSelector](../)
-* Namespace [Aspose::Pdf::Annotations](../../)
-* Library [Aspose.PDF for C++](../../../)
 ## AnnotationSelector::Visit(System::SharedPtr\<RegistrationMarkAnnotation\>) method
 
 
@@ -382,27 +424,6 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<Regis
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [RegistrationMarkAnnotation](../../registrationmarkannotation/)
-* Class [AnnotationSelector](../)
-* Namespace [Aspose::Pdf::Annotations](../../)
-* Library [Aspose.PDF for C++](../../../)
-## AnnotationSelector::Visit(System::SharedPtr\<RichMediaAnnotation\>) method
-
-
-Select movie annotation if [AnnotationSelector](../) was initialized with RichMedia annotation object.
-
-```cpp
-void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<RichMediaAnnotation> richMedia)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| richMedia | System::SharedPtr\<RichMediaAnnotation\> | RichMedia annotation. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [RichMediaAnnotation](../../richmediaannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -571,27 +592,6 @@ void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<Under
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [UnderlineAnnotation](../../underlineannotation/)
-* Class [AnnotationSelector](../)
-* Namespace [Aspose::Pdf::Annotations](../../)
-* Library [Aspose.PDF for C++](../../../)
-## AnnotationSelector::Visit(System::SharedPtr\<WatermarkAnnotation\>) method
-
-
-Select watermark annotation if [AnnotationSelector](../) was initialized with [WatermarkAnnotation](../../watermarkannotation/) object.
-
-```cpp
-void Aspose::Pdf::Annotations::AnnotationSelector::Visit(System::SharedPtr<WatermarkAnnotation> watermark)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| watermark | System::SharedPtr\<WatermarkAnnotation\> | [WatermarkAnnotation](../../watermarkannotation/) for selecting. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [WatermarkAnnotation](../../watermarkannotation/)
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

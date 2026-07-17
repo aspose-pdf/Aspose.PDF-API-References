@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagenumber/set_totalnum/
 Sets the total number of pages component of the page number format. The formatted string will include a placeholder for the total number of pages.
 
 ```cpp
-void Aspose::Pdf::PageNumber::set_TotalNum(System::SharedPtr<PageNumber::PageTotalNum> value)
+void Aspose::Pdf::PageNumber::set_TotalNum(const System::SharedPtr<PageNumber::PageTotalNum> &value)
 ```
 
 ## See Also

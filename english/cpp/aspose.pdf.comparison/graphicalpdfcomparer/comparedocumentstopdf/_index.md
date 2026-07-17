@@ -13,15 +13,15 @@ url: /cpp/aspose.pdf.comparison/graphicalpdfcomparer/comparedocumentstopdf/
 Compares documents graphically. The comparison result is placed in a PDF document.
 
 ```cpp
-void Aspose::Pdf::Comparison::GraphicalPdfComparer::CompareDocumentsToPdf(System::SharedPtr<Document> document1, System::SharedPtr<Document> document2, System::String resultPdfPath)
+void Aspose::Pdf::Comparison::GraphicalPdfComparer::CompareDocumentsToPdf(const System::SharedPtr<Document> &document1, const System::SharedPtr<Document> &document2, const System::String &resultPdfPath)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document1 | System::SharedPtr\<Document\> | The first document to compare. |
-| document2 | System::SharedPtr\<Document\> | The second document to compare. |
-| resultPdfPath | System::String | The target pdf file path. |
+| document1 | const System::SharedPtr\<Document\>\& | The first document to compare. |
+| document2 | const System::SharedPtr\<Document\>\& | The second document to compare. |
+| resultPdfPath | const System::String\& | The target pdf file path. |
 
 ## See Also
 

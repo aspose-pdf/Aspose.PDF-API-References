@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/form/getbuttonoptionvalues/
 Gets the radio button option fields and related values based on the field name. This method has meaning for radio button groups.
 
 ```cpp
-System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::String>> Aspose::Pdf::Facades::Form::GetButtonOptionValues(System::String fieldName)
+System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::String>> Aspose::Pdf::Facades::Form::GetButtonOptionValues(const System::String &fieldName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | Field Name |
+| fieldName | const System::String\& | Field Name |
 
 ### ReturnValue
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/gradientaxialshading/set_endcolor/
 Sets end color.
 
 ```cpp
-void Aspose::Pdf::Drawing::GradientAxialShading::set_EndColor(System::SharedPtr<Color> value)
+void Aspose::Pdf::Drawing::GradientAxialShading::set_EndColor(const System::SharedPtr<Color> &value)
 ```
 
 ## See Also

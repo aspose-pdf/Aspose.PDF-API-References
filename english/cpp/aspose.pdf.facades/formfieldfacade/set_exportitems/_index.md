@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/set_exportitems/
 The options for adding a list/combo/radio box.
 
 ```cpp
-void Aspose::Pdf::Facades::FormFieldFacade::set_ExportItems(System::ArrayPtr<System::ArrayPtr<System::String>> value)
+void Aspose::Pdf::Facades::FormFieldFacade::set_ExportItems(const System::ArrayPtr<System::ArrayPtr<System::String>> &value)
 ```
 
 ## See Also

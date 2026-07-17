@@ -19,7 +19,7 @@ virtual void System::Collections::Generic::IKVCollection<T>::RemoveAt(int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to delete element from. |
+| index | int | [Index](../../../system/index/) to delete element from. |
 
 ## See Also
 

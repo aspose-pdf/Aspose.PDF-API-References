@@ -1,73 +1,77 @@
 ---
 title: GraphicsAbsorber
+linktitle: GraphicsAbsorber
 second_title: Aspose.PDF for Java API Reference
-description: Represents an absorber object of graphics elements.
+description: Represents an absorber object of graphics elements. Performs graphics search and provides access to search results via {@code GraphicsAbsorber.Elements}({@link.
 type: docs
-weight: 12
+weight: 30
 url: /java/com.aspose.pdf.vector/graphicsabsorber/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.vector.GraphicsAbsorber
+
+**All Implemented Interfaces:**
+com.aspose.ms.System.IDisposable
+
 ```
-public class GraphicsAbsorber
+public class GraphicsAbsorber extends Object implements com.aspose.ms.System.IDisposable
 ```
 
-Represents an absorber object of graphics elements. Performs graphics search and provides access to search results via  GraphicsAbsorber.Elements ([GraphicsAbsorber\#getElements](../../com.aspose.pdf.vector/graphicsabsorber\#getElements)) collection.
+Represents an absorber object of graphics elements. Performs graphics search and provides access to search results via {@code GraphicsAbsorber.Elements}({@link GraphicsAbsorber#getElements}) collection.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [GraphicsAbsorber()](#GraphicsAbsorber--) |  |
+| [GraphicsAbsorber](#GraphicsAbsorber--) |  |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getElements()](#getElements--) | Gets collection of search occurrences that are presented with [GraphicElement](../../com.aspose.pdf.engine.pagemodel/graphicelement) objects. |
-| [visit(Page page)](#visit-com.aspose.pdf.Page-) | Performs search on the specified page. |
-| [suppressUpdate()](#suppressUpdate--) | Suppresses update for Page\#getContents and all @link XForm\#getContents Was made for performance increase, see also. |
-| [resumeUpdate()](#resumeUpdate--) | Resume update forPage\#getContents and all @link XForm\#getContents Was made for performance increase, see also. |
-### GraphicsAbsorber() {#GraphicsAbsorber--}
+| [dispose](#dispose--) | Releases all resources used by the {@link GraphicsAbsorber} class. |
+| [getElements](#getElements--) | Gets collection of search occurrences that are presented with {@link GraphicElement} objects. |
+| [resumeUpdate](#resumeUpdate--) | Resume update forPage#getContents and all @link XForm#getContents Was made for performance increase, see also. |
+| [suppressUpdate](#suppressUpdate--) | Suppresses update for Page#getContents and all @link XForm#getContents Was made for performance increase, see also. |
+| [visit](#visit-com.aspose.pdf.Page-) | Performs search on the specified page. |
+
+### GraphicsAbsorber {#GraphicsAbsorber--}
 ```
 public GraphicsAbsorber()
 ```
 
 
-### getElements() {#getElements--}
+
+### dispose {#dispose--}
+```
+public final void dispose()
+```
+
+Releases all resources used by the {@link GraphicsAbsorber} class.
+
+### getElements {#getElements--}
 ```
 public final GraphicElementCollection getElements()
 ```
 
-
-Gets collection of search occurrences that are presented with [GraphicElement](../../com.aspose.pdf.engine.pagemodel/graphicelement) objects.
+Gets collection of search occurrences that are presented with {@link GraphicElement} objects.
 
 **Returns:**
-[GraphicElementCollection](../../com.aspose.pdf.vector/graphicelementcollection) - GraphicElementCollection instance
-### visit(Page page) {#visit-com.aspose.pdf.Page-}
-```
-public final void visit(Page page)
-```
+GraphicElementCollection instance
 
-
-Performs search on the specified page.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | [Page](../../com.aspose.pdf/page) | PDF document page object. |
-
-### suppressUpdate() {#suppressUpdate--}
-```
-public final void suppressUpdate()
-```
-
-
-Suppresses update for Page\#getContents and all @link XForm\#getContents Was made for performance increase, see also.
-
-### resumeUpdate() {#resumeUpdate--}
+### resumeUpdate {#resumeUpdate--}
 ```
 public final void resumeUpdate()
 ```
 
+Resume update forPage#getContents and all @link XForm#getContents Was made for performance increase, see also.
 
-Resume update forPage\#getContents and all @link XForm\#getContents Was made for performance increase, see also.
+### suppressUpdate {#suppressUpdate--}
+```
+public final void suppressUpdate()
+```
 
+Suppresses update for Page#getContents and all @link XForm#getContents Was made for performance increase, see also.
+
+### visit {#visit-com.aspose.pdf.Page-}
+Performs search on the specified page.

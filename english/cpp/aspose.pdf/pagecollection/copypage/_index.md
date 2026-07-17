@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/pagecollection/copypage/
 Adds page to collection.
 
 ```cpp
-System::SharedPtr<Page> Aspose::Pdf::PageCollection::CopyPage(System::SharedPtr<Page> entity)
+System::SharedPtr<Page> Aspose::Pdf::PageCollection::CopyPage(const System::SharedPtr<Page> &entity)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| entity | System::SharedPtr\<Page\> | [Page](../../page/) which should be added. |
+| entity | const System::SharedPtr\<Page\>\& | [Page](../../page/) which should be added. |
 
 ### ReturnValue
 

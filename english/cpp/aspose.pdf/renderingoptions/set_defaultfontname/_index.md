@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/renderingoptions/set_defaultfontname/
 Gets/sets the default name of font used to substitute of missing fonts.
 
 ```cpp
-void Aspose::Pdf::RenderingOptions::set_DefaultFontName(System::String value)
+void Aspose::Pdf::RenderingOptions::set_DefaultFontName(const System::String &value)
 ```
 
 ## See Also

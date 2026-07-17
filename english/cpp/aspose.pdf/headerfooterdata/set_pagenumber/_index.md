@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/headerfooterdata/set_pagenumber/
 Sets the page number settings.
 
 ```cpp
-void Aspose::Pdf::HeaderFooterData::set_PageNumber(System::SharedPtr<Aspose::Pdf::PageNumber> value)
+void Aspose::Pdf::HeaderFooterData::set_PageNumber(const System::SharedPtr<Aspose::Pdf::PageNumber> &value)
 ```
 
 ## See Also

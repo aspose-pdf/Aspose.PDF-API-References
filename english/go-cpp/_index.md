@@ -110,6 +110,7 @@ type Document struct {
 | [PageCrop](./organize/pagecrop/) | Crop page. |
 | [PageReplaceFont](./organize/pagereplacefont/) | Replace font in page. |
 | [PageMergeLayers](./organize/pagemergelayers/) | Merge all layers on the page into a single layer with the specified new layer name. |
+| [PageLayers](./organize/pagelayers/) | Gets layers' names on page. |
 
 
 ## Core PDF functions

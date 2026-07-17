@@ -1,23 +1,21 @@
 ---
 title: DuplexKind
+linktitle: DuplexKind
 second_title: Aspose.PDF for Java API Reference
-description: Specifies the printers duplex setting.
+description: Specifies the printer's duplex setting.
 type: docs
-weight: 11
+weight: 20
 url: /java/com.aspose.pdf.printing/duplexkind/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.printing.DuplexKind
+
 ```
-public class DuplexKind
+public class DuplexKind extends Object
 ```
 
 Specifies the printer's duplex setting.
-## Constructors
 
-| Constructor | Description |
-| --- | --- |
-| [DuplexKind()](#DuplexKind--) |  |
 ## Fields
 
 | Field | Description |
@@ -26,23 +24,24 @@ Specifies the printer's duplex setting.
 | [Horizontal](#Horizontal) | Double-sided, horizontal printing. |
 | [Simplex](#Simplex) | Single-sided printing. |
 | [Vertical](#Vertical) | Double-sided, vertical printing. |
+
+## Constructors
+
+| Constructor | Description |
+| --- | --- |
+| [DuplexKind](#DuplexKind--) |  |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [toString(int pdfPrintRange)](#toString-int-) | Duplex kind name |
-| [getNames()](#getNames--) | Array of Duplex kind names |
-### DuplexKind() {#DuplexKind--}
-```
-public DuplexKind()
-```
-
+| [getNames](#getNames--) | Array of Duplex kind names |
+| [toString](#toString-int-) | Duplex kind name |
 
 ### Default {#Default}
 ```
 public static final int Default
 ```
-
 
 The printer's default duplex setting.
 
@@ -51,14 +50,12 @@ The printer's default duplex setting.
 public static final int Horizontal
 ```
 
-
 Double-sided, horizontal printing.
 
 ### Simplex {#Simplex}
 ```
 public static final int Simplex
 ```
-
 
 Single-sided printing.
 
@@ -67,31 +64,36 @@ Single-sided printing.
 public static final int Vertical
 ```
 
-
 Double-sided, vertical printing.
 
-### toString(int pdfPrintRange) {#toString-int-}
+### DuplexKind {#DuplexKind--}
+```
+public DuplexKind()
+```
+
+
+
+### getNames {#getNames--}
+```
+public static String [] getNames()
+```
+
+Array of Duplex kind names
+
+**Returns:**
+String[] object
+
+### toString {#toString-int-}
 ```
 public static String toString(int pdfPrintRange)
 ```
-
 
 Duplex kind name
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pdfPrintRange | int | PaperKind element |
+| pdfPrintRange |  | PaperKind element |
 
 **Returns:**
-java.lang.String - Paper format name
-### getNames() {#getNames--}
-```
-public static String[] getNames()
-```
-
-
-Array of Duplex kind names
-
-**Returns:**
-java.lang.String[] - String[] object
+Paper format name

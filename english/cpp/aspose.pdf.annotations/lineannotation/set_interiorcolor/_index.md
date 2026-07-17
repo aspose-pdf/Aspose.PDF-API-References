@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/lineannotation/set_interiorcolor/
 Sets interior color of the annotation.
 
 ```cpp
-void Aspose::Pdf::Annotations::LineAnnotation::set_InteriorColor(System::SharedPtr<Aspose::Pdf::Color> value)
+void Aspose::Pdf::Annotations::LineAnnotation::set_InteriorColor(const System::SharedPtr<Aspose::Pdf::Color> &value)
 ```
 
 ## See Also

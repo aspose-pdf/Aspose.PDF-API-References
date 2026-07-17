@@ -7,19 +7,19 @@ type: docs
 weight: 7100
 url: /cpp/aspose.pdf/document/importannotationsfromxfdf/
 ---
-## Document::ImportAnnotationsFromXfdf(System::SharedPtr\<System::IO::Stream\>) method
+## Document::ImportAnnotationsFromXfdf(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Imports annotations from stream to document.
 
 ```cpp
-void Aspose::Pdf::Document::ImportAnnotationsFromXfdf(System::SharedPtr<System::IO::Stream> stream)
+void Aspose::Pdf::Document::ImportAnnotationsFromXfdf(const System::SharedPtr<System::IO::Stream> &stream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | System::SharedPtr\<System::IO::Stream\> | Stream contains XFDF data. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | Stream contains XFDF data. |
 
 ## See Also
 
@@ -28,19 +28,19 @@ void Aspose::Pdf::Document::ImportAnnotationsFromXfdf(System::SharedPtr<System::
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Document::ImportAnnotationsFromXfdf(System::String) method
+## Document::ImportAnnotationsFromXfdf(const System::String\&) method
 
 
 Imports annotations from XFDF file to document.
 
 ```cpp
-void Aspose::Pdf::Document::ImportAnnotationsFromXfdf(System::String fileName)
+void Aspose::Pdf::Document::ImportAnnotationsFromXfdf(const System::String &fileName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | System::String | XFDF file name |
+| fileName | const System::String\& | XFDF file name |
 
 ## See Also
 

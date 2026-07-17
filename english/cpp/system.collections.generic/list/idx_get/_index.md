@@ -19,7 +19,7 @@ T System::Collections::Generic::List<T>::idx_get(int index) const override
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to get element from. |
+| index | int | [Index](../../../system/index/) to get element from. |
 
 ### ReturnValue
 

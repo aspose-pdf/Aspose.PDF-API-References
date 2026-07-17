@@ -33,7 +33,7 @@ class PositionSettings : public System::Object
 | [set_IsInLineParagraph](./set_isinlineparagraph/)(bool) | Sets a paragraph is inline. Default is false. |
 | [set_IsInNewPage](./set_isinnewpage/)(bool) | Sets a bool value that force this paragraph generates at new page. Default is false. |
 | [set_IsKeptWithNext](./set_iskeptwithnext/)(bool) | Sets a bool value that indicates whether current paragraph remains in the same page along with next paragraph. Default is false. |
-| [set_Margin](./set_margin/)(System::SharedPtr\<MarginInfo\>) | Sets a outer margin for paragraph. |
+| [set_Margin](./set_margin/)(const System::SharedPtr\<MarginInfo\>\&) | Sets a outer margin for paragraph. |
 | [set_VerticalAlignment](./set_verticalalignment/)(Aspose::Pdf::VerticalAlignment) | Sets a vertical alignment of paragraph. |
 ## See Also
 

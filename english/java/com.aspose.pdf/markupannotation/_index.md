@@ -1,235 +1,229 @@
 ---
 title: MarkupAnnotation
+linktitle: MarkupAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Abstract class representing markup annotation.
 type: docs
-weight: 205
+weight: 2870
 url: /java/com.aspose.pdf/markupannotation/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.BaseParagraph](../../com.aspose.pdf/baseparagraph), [com.aspose.pdf.Annotation](../../com.aspose.pdf/annotation)
+java.lang.Object, com.aspose.pdf.BaseParagraph com.aspose.pdf.Annotation com.aspose.pdf.MarkupAnnotation, com.aspose.pdf.BaseParagraph, com.aspose.pdf.Annotation com.aspose.pdf.MarkupAnnotation, com.aspose.pdf.Annotation, com.aspose.pdf.MarkupAnnotation
 
 **All Implemented Interfaces:**
-[com.aspose.pdf.engine.ITitledAnnotation](../../com.aspose.pdf.engine/ititledannotation)
+com.aspose.ms.System.ICloneable, com.aspose.pdf.engine.ITitledAnnotation
+
 ```
-public abstract class MarkupAnnotation extends Annotation implements ITitledAnnotation
+public abstract class MarkupAnnotation extends Annotation implements com.aspose.pdf.engine.ITitledAnnotation
 ```
 
 Abstract class representing markup annotation.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [MarkupAnnotation(IDocument document)](#MarkupAnnotation-com.aspose.pdf.IDocument-) | Constructor for markup annotation. |
-| [MarkupAnnotation()](#MarkupAnnotation--) | Constructor |
+| [MarkupAnnotation](#MarkupAnnotation--) | Constructor |
+| [MarkupAnnotation](#MarkupAnnotation-com.aspose.pdf.IDocument-) | Constructor |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getTitle()](#getTitle--) | Gets a text that shall be displayed in title bar of annotation. |
-| [setTitle(String value)](#setTitle-java.lang.String-) | Sets a text that shall be displayed in title bar of annotation. |
-| [getRichText()](#getRichText--) | Gets a rich text string to be displayed in the pop-up window when the annotation is opened. |
-| [setRichText(String value)](#setRichText-java.lang.String-) | Sets a rich text string to be displayed in the pop-up window when the annotation is opened. |
-| [getCreationDate()](#getCreationDate--) | Gets date and time when annotation was created. |
-| [getSubject()](#getSubject--) | Gets text representing desciption of the object. |
-| [setSubject(String value)](#setSubject-java.lang.String-) | Sets text representing desciption of the object. |
-| [getPopup()](#getPopup--) | Pop-up annotation for entering or editing the text associated with this annotation. |
-| [setPopup(PopupAnnotation value)](#setPopup-com.aspose.pdf.PopupAnnotation-) | Pop-up annotation for entering or editing the text associated with this annotation. |
-| [getOpacity()](#getOpacity--) | Gets the constant opacity value to be used in painting the annotation. |
-| [setOpacity(double value)](#setOpacity-double-) | Sets the constant opacity value to be used in painting the annotation. |
-| [getInReplyTo()](#getInReplyTo--) | A reference to the annotation that this annotation is "in reply to". |
-| [setInReplyTo(Annotation value)](#setInReplyTo-com.aspose.pdf.Annotation-) | A reference to the annotation that this annotation is "in reply to". |
-| [getReplyType()](#getReplyType--) | A string specifying the relationship (the "reply type") between this annotation and one specified by InReplyTo. |
-| [setReplyType(int value)](#setReplyType-int-) | A string specifying the relationship (the "reply type") between this annotation and one specified by InReplyTo. |
-### MarkupAnnotation(IDocument document) {#MarkupAnnotation-com.aspose.pdf.IDocument-}
-```
-public MarkupAnnotation(IDocument document)
-```
+| [clearState](#clearState--) | Clears state and state model for the annotation. For example, clears the review status for an annotation. Note, the state stored in other text annotation which has state and statemodel keys. |
+| [getCreationDate](#getCreationDate--) | Gets date and time when annotation was created. |
+| [getInReplyTo](#getInReplyTo--) | A reference to the annotation that this annotation is "in reply to". Both annotations must be on the same page of the document. |
+| [getOpacity](#getOpacity--) | Gets the constant opacity value to be used in painting the annotation. |
+| [getPopup](#getPopup--) | Pop-up annotation for entering or editing the text associated with this annotation. |
+| [getReplyType](#getReplyType--) | A string specifying the relationship (the "reply type") between this annotation and one specified by InReplyTo. |
+| [getRichText](#getRichText--) | Gets a rich text string to be displayed in the pop-up window when the annotation is opened. |
+| [getRichText](#getRichText-com.aspose.pdf.engine.data.IPdfDictionary-) | Gets a rich text string to be displayed in the pop-up window when the annotation is opened. |
+| [getState](#getState--) | Gets the state of the annotation. Note, the state stored in other text annotation which has state and statemodel keys. |
+| [getStateModel](#getStateModel--) | Gets the state model of the annotation. Note, the state stored in other text annotation which has state and statemodel keys. |
+| [getSubject](#getSubject--) | Gets text representing description of the object. |
+| [getTitle](#getTitle--) | Gets a text label that shall be displayed in the title bar of the annotationпїЅs popup window when open and active. This entry shall identify the user who added the annotation. |
+| [setCreationDate](#setCreationDate-java.util.Date-) | Gets date and time when annotation was created. |
+| [setInReplyTo](#setInReplyTo-com.aspose.pdf.Annotation-) | A reference to the annotation that this annotation is "in reply to". Both annotations must be on the same page of the document. |
+| [setMarkedState](#setMarkedState-boolean-) | Sets Marked and Unmarked state for the annotation. Note, the state stored in other text annotation which has state and statemodel keys. |
+| [setOpacity](#setOpacity-double-) | Sets the constant opacity value to be used in painting the annotation. |
+| [setPopup](#setPopup-com.aspose.pdf.PopupAnnotation-) | Pop-up annotation for entering or editing the text associated with this annotation. |
+| [setReplyType](#setReplyType-com.aspose.pdf.ReplyType-) | A string specifying the relationship (the "reply type") between this annotation and one specified by InReplyTo. |
+| [setReviewState](#setReviewState-com.aspose.pdf.AnnotationState-) | Sets the review state for an annotation. Marked and Unmarked states are ignored as they do not belong to the Review StateModel. The state is set by the user who created the target annotation. The value is taken from the Title property of the target annotation. Note, the state stored in other text annotation which has state and statemodel keys. |
+| [setReviewState](#setReviewState-com.aspose.pdf.AnnotationState-java.lang.String-) | Sets the review state for an annotation. Marked and Unmarked states are ignored as they do not belong to the Review StateModel. Note, the state stored in other text annotation which has state and statemodel keys. |
+| [setRichText](#setRichText-java.lang.String-) | Sets a rich text string to be displayed in the pop-up window when the annotation is opened. |
+| [setSubject](#setSubject-java.lang.String-) | Sets text representing desciption of the object. |
+| [setTitle](#setTitle-java.lang.String-) | Sets a text label that shall be displayed in the title bar of the annotationпїЅs popup window when open and active. This entry shall identify the user who added the annotation. |
 
-
-Constructor for markup annotation.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | [IDocument](../../com.aspose.pdf/idocument) | Document where annotation will be created. |
-
-### MarkupAnnotation() {#MarkupAnnotation--}
+### MarkupAnnotation {#MarkupAnnotation--}
 ```
 public MarkupAnnotation()
 ```
 
-
 Constructor
 
-### getTitle() {#getTitle--}
-```
-public String getTitle()
-```
+### MarkupAnnotation {#MarkupAnnotation-com.aspose.pdf.IDocument-}
+Constructor
 
-
-Gets a text that shall be displayed in title bar of annotation.
-
-**Returns:**
-java.lang.String - String value
-### setTitle(String value) {#setTitle-java.lang.String-}
+### clearState {#clearState--}
 ```
-public void setTitle(String value)
+public final void clearState()
 ```
 
+Clears state and state model for the annotation. For example, clears the review status for an annotation. Note, the state stored in other text annotation which has state and statemodel keys.
 
-Sets a text that shall be displayed in title bar of annotation.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### getRichText() {#getRichText--}
-```
-public String getRichText()
-```
-
-
-Gets a rich text string to be displayed in the pop-up window when the annotation is opened.
-
-**Returns:**
-java.lang.String - String value
-### setRichText(String value) {#setRichText-java.lang.String-}
-```
-public void setRichText(String value)
-```
-
-
-Sets a rich text string to be displayed in the pop-up window when the annotation is opened.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### getCreationDate() {#getCreationDate--}
+### getCreationDate {#getCreationDate--}
 ```
 public Date getCreationDate()
 ```
 
-
 Gets date and time when annotation was created.
 
 **Returns:**
-[Date](../../java.util/date) - Date object
-### getSubject() {#getSubject--}
+Date object
+
+### getInReplyTo {#getInReplyTo--}
 ```
-public String getSubject()
+public Annotation getInReplyTo()
 ```
 
-
-Gets text representing desciption of the object.
+A reference to the annotation that this annotation is "in reply to". Both annotations must be on the same page of the document.
 
 **Returns:**
-java.lang.String - String value
-### setSubject(String value) {#setSubject-java.lang.String-}
-```
-public void setSubject(String value)
-```
+Annotation value
 
-
-Sets text representing desciption of the object.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### getPopup() {#getPopup--}
-```
-public PopupAnnotation getPopup()
-```
-
-
-Pop-up annotation for entering or editing the text associated with this annotation.
-
-**Returns:**
-[PopupAnnotation](../../com.aspose.pdf/popupannotation) - PopupAnnotation value
-### setPopup(PopupAnnotation value) {#setPopup-com.aspose.pdf.PopupAnnotation-}
-```
-public void setPopup(PopupAnnotation value)
-```
-
-
-Pop-up annotation for entering or editing the text associated with this annotation.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [PopupAnnotation](../../com.aspose.pdf/popupannotation) | PopupAnnotation value |
-
-### getOpacity() {#getOpacity--}
+### getOpacity {#getOpacity--}
 ```
 public double getOpacity()
 ```
 
-
 Gets the constant opacity value to be used in painting the annotation.
 
 **Returns:**
-double - double value
-### setOpacity(double value) {#setOpacity-double-}
+double value
+
+### getPopup {#getPopup--}
+```
+public PopupAnnotation getPopup()
+```
+
+Pop-up annotation for entering or editing the text associated with this annotation.
+
+**Returns:**
+PopupAnnotation value
+
+### getReplyType {#getReplyType--}
+```
+public ReplyType getReplyType()
+```
+
+A string specifying the relationship (the "reply type") between this annotation and one specified by InReplyTo.
+
+**Returns:**
+ReplyType value @see ReplyType
+
+### getRichText {#getRichText--}
+```
+public final String getRichText()
+```
+
+Gets a rich text string to be displayed in the pop-up window when the annotation is opened.
+
+**Returns:**
+String value
+
+### getRichText {#getRichText-com.aspose.pdf.engine.data.IPdfDictionary-}
+Gets a rich text string to be displayed in the pop-up window when the annotation is opened.
+
+**Returns:**
+String value
+
+### getState {#getState--}
+```
+public final AnnotationState getState()
+```
+
+Gets the state of the annotation. Note, the state stored in other text annotation which has state and statemodel keys.
+
+**Returns:**
+Annotation state.
+
+### getStateModel {#getStateModel--}
+```
+public final AnnotationStateModel getStateModel()
+```
+
+Gets the state model of the annotation. Note, the state stored in other text annotation which has state and statemodel keys.
+
+**Returns:**
+Annotation state model.
+
+### getSubject {#getSubject--}
+```
+public String getSubject()
+```
+
+Gets text representing description of the object.
+
+**Returns:**
+String value
+
+### getTitle {#getTitle--}
+```
+public String getTitle()
+```
+
+Gets a text label that shall be displayed in the title bar of the annotationпїЅs popup window when open and active. This entry shall identify the user who added the annotation.
+
+**Returns:**
+String value
+
+### setCreationDate {#setCreationDate-java.util.Date-}
+Gets date and time when annotation was created.
+
+### setInReplyTo {#setInReplyTo-com.aspose.pdf.Annotation-}
+A reference to the annotation that this annotation is "in reply to". Both annotations must be on the same page of the document.
+
+### setMarkedState {#setMarkedState-boolean-}
+```
+public final void setMarkedState(boolean marked)
+```
+
+Sets Marked and Unmarked state for the annotation. Note, the state stored in other text annotation which has state and statemodel keys.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| marked |  | True if sets Marked state, and false if sets Unmarked state. |
+
+### setOpacity {#setOpacity-double-}
 ```
 public void setOpacity(double value)
 ```
-
 
 Sets the constant opacity value to be used in painting the annotation.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | double | double value |
+| value |  | double value |
 
-### getInReplyTo() {#getInReplyTo--}
-```
-public Annotation getInReplyTo()
-```
+### setPopup {#setPopup-com.aspose.pdf.PopupAnnotation-}
+Pop-up annotation for entering or editing the text associated with this annotation.
 
-
-A reference to the annotation that this annotation is "in reply to". Both annotations must be on the same page of the document.
-
-**Returns:**
-[Annotation](../../com.aspose.pdf/annotation) - Annotation value
-### setInReplyTo(Annotation value) {#setInReplyTo-com.aspose.pdf.Annotation-}
-```
-public void setInReplyTo(Annotation value)
-```
-
-
-A reference to the annotation that this annotation is "in reply to". Both annotations must be on the same page of the document.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Annotation](../../com.aspose.pdf/annotation) | Annotation value |
-
-### getReplyType() {#getReplyType--}
-```
-public int getReplyType()
-```
-
-
+### setReplyType {#setReplyType-com.aspose.pdf.ReplyType-}
 A string specifying the relationship (the "reply type") between this annotation and one specified by InReplyTo.
 
-**Returns:**
-int - ReplyType value
-### setReplyType(int value) {#setReplyType-int-}
-```
-public void setReplyType(int value)
-```
+### setReviewState {#setReviewState-com.aspose.pdf.AnnotationState-}
+Sets the review state for an annotation. Marked and Unmarked states are ignored as they do not belong to the Review StateModel. The state is set by the user who created the target annotation. The value is taken from the Title property of the target annotation. Note, the state stored in other text annotation which has state and statemodel keys.
 
+### setReviewState {#setReviewState-com.aspose.pdf.AnnotationState-java.lang.String-}
+Sets the review state for an annotation. Marked and Unmarked states are ignored as they do not belong to the Review StateModel. Note, the state stored in other text annotation which has state and statemodel keys.
 
-A string specifying the relationship (the "reply type") between this annotation and one specified by InReplyTo.
+### setRichText {#setRichText-java.lang.String-}
+Sets a rich text string to be displayed in the pop-up window when the annotation is opened.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | ReplyType value |
+### setSubject {#setSubject-java.lang.String-}
+Sets text representing desciption of the object.
 
+### setTitle {#setTitle-java.lang.String-}
+Sets a text label that shall be displayed in the title bar of the annotationпїЅs popup window when open and active. This entry shall identify the user who added the annotation.

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/measure/set_areaformat/
 A number format array for measurement of area.
 
 ```cpp
-void Aspose::Pdf::Annotations::Measure::set_AreaFormat(System::SharedPtr<Measure::NumberFormatList> value)
+void Aspose::Pdf::Annotations::Measure::set_AreaFormat(const System::SharedPtr<Measure::NumberFormatList> &value)
 ```
 
 ## See Also

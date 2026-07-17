@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison/sidebysidecomparisonoptions/set_comparisonarea1/
 Get and set the comparison area. Used for the first page or document in the comparison method. This option can't be setted along with [ExcludeTables](../), [ExcludeAreas1](../) and [ExcludeAreas2](../) options.
 
 ```cpp
-void Aspose::Pdf::Comparison::SideBySideComparisonOptions::set_ComparisonArea1(System::SharedPtr<Rectangle> value)
+void Aspose::Pdf::Comparison::SideBySideComparisonOptions::set_ComparisonArea1(const System::SharedPtr<Rectangle> &value)
 ```
 
 ## See Also

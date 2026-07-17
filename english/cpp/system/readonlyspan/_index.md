@@ -4,7 +4,7 @@ linktitle: ReadOnlySpan
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::ReadOnlySpan class. Forward to use within Span class in C++.'
 type: docs
-weight: 5400
+weight: 5600
 url: /cpp/system/readonlyspan/
 ---
 ## ReadOnlySpan class

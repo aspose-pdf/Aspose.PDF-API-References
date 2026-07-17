@@ -4,7 +4,7 @@ linktitle: Is
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Is method. Top-level matching function. Applies a pattern to a value in C++.'
 type: docs
-weight: 22100
+weight: 22600
 url: /cpp/system/is/
 ---
 ## System::Is(const E\&, const A\&) method
@@ -57,7 +57,7 @@ template<class ExpressionT,class ConstantT> std::enable_if_t<!std::is_base_of<De
 
 ### ReturnValue
 
-true if type check is successfull, false otherwise.
+true if type check is successful, false otherwise.
 
 ## See Also
 
@@ -86,7 +86,7 @@ template<class PatternT,class ExpressionT,class ResultT> bool System::Is(const E
 
 ### ReturnValue
 
-true if type check is successfull, false otherwise.
+true if type check is successful, false otherwise.
 
 ## See Also
 

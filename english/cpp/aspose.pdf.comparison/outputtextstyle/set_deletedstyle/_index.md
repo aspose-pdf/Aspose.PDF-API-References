@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison/outputtextstyle/set_deletedstyle/
 Get and set a text style for deleted text.
 
 ```cpp
-void Aspose::Pdf::Comparison::OutputTextStyle::set_DeletedStyle(System::SharedPtr<TextStyle> value)
+void Aspose::Pdf::Comparison::OutputTextStyle::set_DeletedStyle(const System::SharedPtr<TextStyle> &value)
 ```
 
 ## See Also

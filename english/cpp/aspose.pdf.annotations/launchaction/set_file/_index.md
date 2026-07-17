@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/launchaction/set_file/
 Sets the application to be launched or the document to be opened or printed.
 
 ```cpp
-void Aspose::Pdf::Annotations::LaunchAction::set_File(System::String value)
+void Aspose::Pdf::Annotations::LaunchAction::set_File(const System::String &value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/psloadoptions/set_fontsfolders/
 Sets fonts folders paths.
 
 ```cpp
-void Aspose::Pdf::PsLoadOptions::set_FontsFolders(System::ArrayPtr<System::String> value)
+void Aspose::Pdf::PsLoadOptions::set_FontsFolders(const System::ArrayPtr<System::String> &value)
 ```
 
 ## See Also

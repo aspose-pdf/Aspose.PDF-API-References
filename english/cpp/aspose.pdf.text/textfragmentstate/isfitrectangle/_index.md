@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.text/textfragmentstate/isfitrectangle/
 Checks if input string could be placed inside defined rectangle.
 
 ```cpp
-bool Aspose::Pdf::Text::TextFragmentState::IsFitRectangle(System::String str, System::SharedPtr<Rectangle> rect)
+bool Aspose::Pdf::Text::TextFragmentState::IsFitRectangle(const System::String &str, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| str | System::String | String to check. |
-| rect | System::SharedPtr\<Rectangle\> | [Rectangle](../../../aspose.pdf/rectangle/) to check. |
+| str | const System::String\& | String to check. |
+| rect | const System::SharedPtr\<Rectangle\>\& | [Rectangle](../../../aspose.pdf/rectangle/) to check. |
 
 ### ReturnValue
 

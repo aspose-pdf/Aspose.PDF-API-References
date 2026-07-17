@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/curve/set_positionarray/
 Sets a float position array.
 
 ```cpp
-void Aspose::Pdf::Drawing::Curve::set_PositionArray(System::ArrayPtr<float> value)
+void Aspose::Pdf::Drawing::Curve::set_PositionArray(const System::ArrayPtr<float> &value)
 ```
 
 ## See Also

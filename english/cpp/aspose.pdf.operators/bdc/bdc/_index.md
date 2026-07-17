@@ -7,19 +7,19 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf.operators/bdc/bdc/
 ---
-## BDC::BDC(System::String) constructor
+## BDC::BDC(const System::String\&) constructor
 
 
 Initializes operator.
 
 ```cpp
-Aspose::Pdf::Operators::BDC::BDC(System::String tag)
+Aspose::Pdf::Operators::BDC::BDC(const System::String &tag)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| tag | System::String | Tag value. |
+| tag | const System::String\& | Tag value. |
 
 ## See Also
 
@@ -27,13 +27,13 @@ Aspose::Pdf::Operators::BDC::BDC(System::String tag)
 * Class [BDC](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)
-## BDC::BDC(System::String, System::SharedPtr\<Facades::BDCProperties\>) constructor
+## BDC::BDC(const System::String\&, const System::SharedPtr\<Facades::BDCProperties\>\&) constructor
 
 
 
 
 ```cpp
-Aspose::Pdf::Operators::BDC::BDC(System::String tag, System::SharedPtr<Facades::BDCProperties> properties)
+Aspose::Pdf::Operators::BDC::BDC(const System::String &tag, const System::SharedPtr<Facades::BDCProperties> &properties)
 ```
 
 ## See Also

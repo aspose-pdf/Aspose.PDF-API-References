@@ -80,13 +80,13 @@ Aspose::Pdf::Devices::TiffSettings::TiffSettings(CompressionType compressionType
 * Class [TiffSettings](../)
 * Namespace [Aspose::Pdf::Devices](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TiffSettings::TiffSettings(CompressionType, ColorDepth, System::SharedPtr\<Aspose::Pdf::Devices::Margins\>) constructor
+## TiffSettings::TiffSettings(CompressionType, ColorDepth, const System::SharedPtr\<Aspose::Pdf::Devices::Margins\>\&) constructor
 
 
 Initializes a new instance of the [TiffSettings](../) class.
 
 ```cpp
-Aspose::Pdf::Devices::TiffSettings::TiffSettings(CompressionType compressionType, ColorDepth colorDepth, System::SharedPtr<Aspose::Pdf::Devices::Margins> margins)
+Aspose::Pdf::Devices::TiffSettings::TiffSettings(CompressionType compressionType, ColorDepth colorDepth, const System::SharedPtr<Aspose::Pdf::Devices::Margins> &margins)
 ```
 
 
@@ -94,7 +94,7 @@ Aspose::Pdf::Devices::TiffSettings::TiffSettings(CompressionType compressionType
 | --- | --- | --- |
 | compressionType | CompressionType | Type of the compression. |
 | colorDepth | ColorDepth | The color depth. |
-| margins | System::SharedPtr\<Aspose::Pdf::Devices::Margins\> | The margins. |
+| margins | const System::SharedPtr\<Aspose::Pdf::Devices::Margins\>\& | The margins. |
 
 ## See Also
 
@@ -105,13 +105,13 @@ Aspose::Pdf::Devices::TiffSettings::TiffSettings(CompressionType compressionType
 * Class [TiffSettings](../)
 * Namespace [Aspose::Pdf::Devices](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TiffSettings::TiffSettings(CompressionType, ColorDepth, System::SharedPtr\<Aspose::Pdf::Devices::Margins\>, bool) constructor
+## TiffSettings::TiffSettings(CompressionType, ColorDepth, const System::SharedPtr\<Aspose::Pdf::Devices::Margins\>\&, bool) constructor
 
 
 Initializes a new instance of the [TiffSettings](../) class.
 
 ```cpp
-Aspose::Pdf::Devices::TiffSettings::TiffSettings(CompressionType compressionType, ColorDepth colorDepth, System::SharedPtr<Aspose::Pdf::Devices::Margins> margins, bool skipBlankPages)
+Aspose::Pdf::Devices::TiffSettings::TiffSettings(CompressionType compressionType, ColorDepth colorDepth, const System::SharedPtr<Aspose::Pdf::Devices::Margins> &margins, bool skipBlankPages)
 ```
 
 
@@ -119,7 +119,7 @@ Aspose::Pdf::Devices::TiffSettings::TiffSettings(CompressionType compressionType
 | --- | --- | --- |
 | compressionType | CompressionType | Type of the compression. |
 | colorDepth | ColorDepth | The color depth. |
-| margins | System::SharedPtr\<Aspose::Pdf::Devices::Margins\> | The margins. |
+| margins | const System::SharedPtr\<Aspose::Pdf::Devices::Margins\>\& | The margins. |
 | skipBlankPages | bool | if set to **true** need to skip blank pages. |
 
 ## See Also
@@ -131,13 +131,13 @@ Aspose::Pdf::Devices::TiffSettings::TiffSettings(CompressionType compressionType
 * Class [TiffSettings](../)
 * Namespace [Aspose::Pdf::Devices](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TiffSettings::TiffSettings(CompressionType, ColorDepth, System::SharedPtr\<Aspose::Pdf::Devices::Margins\>, bool, ShapeType) constructor
+## TiffSettings::TiffSettings(CompressionType, ColorDepth, const System::SharedPtr\<Aspose::Pdf::Devices::Margins\>\&, bool, ShapeType) constructor
 
 
 Initializes a new instance of the [TiffSettings](../) class.
 
 ```cpp
-Aspose::Pdf::Devices::TiffSettings::TiffSettings(CompressionType compressionType, ColorDepth colorDepth, System::SharedPtr<Aspose::Pdf::Devices::Margins> margins, bool skipBlankPages, ShapeType shapeType)
+Aspose::Pdf::Devices::TiffSettings::TiffSettings(CompressionType compressionType, ColorDepth colorDepth, const System::SharedPtr<Aspose::Pdf::Devices::Margins> &margins, bool skipBlankPages, ShapeType shapeType)
 ```
 
 
@@ -145,7 +145,7 @@ Aspose::Pdf::Devices::TiffSettings::TiffSettings(CompressionType compressionType
 | --- | --- | --- |
 | compressionType | CompressionType | Type of the compression. |
 | colorDepth | ColorDepth | The color depth. |
-| margins | System::SharedPtr\<Aspose::Pdf::Devices::Margins\> | The margins. |
+| margins | const System::SharedPtr\<Aspose::Pdf::Devices::Margins\>\& | The margins. |
 | skipBlankPages | bool | if set to **true** need to skip blank pages. |
 | shapeType | ShapeType | Type of the shape. |
 
@@ -156,6 +156,27 @@ Aspose::Pdf::Devices::TiffSettings::TiffSettings(CompressionType compressionType
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Margins](../../margins/)
 * Enum [ShapeType](../../shapetype/)
+* Class [TiffSettings](../)
+* Namespace [Aspose::Pdf::Devices](../../)
+* Library [Aspose.PDF for C++](../../../)
+## TiffSettings::TiffSettings(const System::SharedPtr\<Aspose::Pdf::Devices::Margins\>\&) constructor
+
+
+Initializes a new instance of the [TiffSettings](../) class.
+
+```cpp
+Aspose::Pdf::Devices::TiffSettings::TiffSettings(const System::SharedPtr<Aspose::Pdf::Devices::Margins> &margins)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| margins | const System::SharedPtr\<Aspose::Pdf::Devices::Margins\>\& | The margins. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Margins](../../margins/)
 * Class [TiffSettings](../)
 * Namespace [Aspose::Pdf::Devices](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -176,27 +197,6 @@ Aspose::Pdf::Devices::TiffSettings::TiffSettings(ShapeType shapeType)
 ## See Also
 
 * Enum [ShapeType](../../shapetype/)
-* Class [TiffSettings](../)
-* Namespace [Aspose::Pdf::Devices](../../)
-* Library [Aspose.PDF for C++](../../../)
-## TiffSettings::TiffSettings(System::SharedPtr\<Aspose::Pdf::Devices::Margins\>) constructor
-
-
-Initializes a new instance of the [TiffSettings](../) class.
-
-```cpp
-Aspose::Pdf::Devices::TiffSettings::TiffSettings(System::SharedPtr<Aspose::Pdf::Devices::Margins> margins)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| margins | System::SharedPtr\<Aspose::Pdf::Devices::Margins\> | The margins. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Margins](../../margins/)
 * Class [TiffSettings](../)
 * Namespace [Aspose::Pdf::Devices](../../)
 * Library [Aspose.PDF for C++](../../../)

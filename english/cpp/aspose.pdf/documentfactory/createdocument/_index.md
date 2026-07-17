@@ -28,19 +28,19 @@ Created document.
 * Class [DocumentFactory](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## DocumentFactory::CreateDocument(System::SharedPtr\<System::IO::Stream\>) method
+## DocumentFactory::CreateDocument(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Load document from a stream.
 
 ```cpp
-System::SharedPtr<Document> Aspose::Pdf::DocumentFactory::CreateDocument(System::SharedPtr<System::IO::Stream> input)
+System::SharedPtr<Document> Aspose::Pdf::DocumentFactory::CreateDocument(const System::SharedPtr<System::IO::Stream> &input)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| input | System::SharedPtr\<System::IO::Stream\> | Input stream. |
+| input | const System::SharedPtr\<System::IO::Stream\>\& | Input stream. |
 
 ### ReturnValue
 
@@ -54,20 +54,20 @@ Created document.
 * Class [DocumentFactory](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## DocumentFactory::CreateDocument(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<LoadOptions\>) method
+## DocumentFactory::CreateDocument(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<LoadOptions\>\&) method
 
 
 Create document.
 
 ```cpp
-System::SharedPtr<Document> Aspose::Pdf::DocumentFactory::CreateDocument(System::SharedPtr<System::IO::Stream> input, System::SharedPtr<LoadOptions> options)
+System::SharedPtr<Document> Aspose::Pdf::DocumentFactory::CreateDocument(const System::SharedPtr<System::IO::Stream> &input, const System::SharedPtr<LoadOptions> &options)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| input | System::SharedPtr\<System::IO::Stream\> | Input stream. |
-| options | System::SharedPtr\<LoadOptions\> | [Document](../../document/) load options. |
+| input | const System::SharedPtr\<System::IO::Stream\>\& | Input stream. |
+| options | const System::SharedPtr\<LoadOptions\>\& | [Document](../../document/) load options. |
 
 ### ReturnValue
 
@@ -82,20 +82,20 @@ Created document.
 * Class [DocumentFactory](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## DocumentFactory::CreateDocument(System::SharedPtr\<System::IO::Stream\>, System::String) method
+## DocumentFactory::CreateDocument(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&) method
 
 
 Load password protected document from a stream.
 
 ```cpp
-System::SharedPtr<Document> Aspose::Pdf::DocumentFactory::CreateDocument(System::SharedPtr<System::IO::Stream> input, System::String password)
+System::SharedPtr<Document> Aspose::Pdf::DocumentFactory::CreateDocument(const System::SharedPtr<System::IO::Stream> &input, const System::String &password)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| input | System::SharedPtr\<System::IO::Stream\> | Source stream. |
-| password | System::String | Passowrd for access to document. |
+| input | const System::SharedPtr\<System::IO::Stream\>\& | Source stream. |
+| password | const System::String\& | Passowrd for access to document. |
 
 ### ReturnValue
 
@@ -110,19 +110,19 @@ Created document.
 * Class [DocumentFactory](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## DocumentFactory::CreateDocument(System::String) method
+## DocumentFactory::CreateDocument(const System::String\&) method
 
 
 Load document from a file.
 
 ```cpp
-System::SharedPtr<Document> Aspose::Pdf::DocumentFactory::CreateDocument(System::String fileName)
+System::SharedPtr<Document> Aspose::Pdf::DocumentFactory::CreateDocument(const System::String &fileName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | System::String | Name of PDF file. |
+| fileName | const System::String\& | Name of PDF file. |
 
 ### ReturnValue
 

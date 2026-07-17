@@ -25,7 +25,7 @@ class AppearanceDictionary : public System::Collections::Generic::IDictionary<Sy
 | [Clear](./clear/)() override | Removes all elements from the dictionary. |
 | [Contains](./contains/)(const System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<XForm\>\>\&) const override | Checks does specified key-value pair is contained in the dictionary. |
 | [ContainsKey](./containskey/)(const System::String\&) const override | Determines does this dictionary contasins specified key. |
-| [CopyTo](./copyto/)(System::ArrayPtr\<System::SharedPtr\<XForm\>\>, int32_t) | Copies the elements of the dictionary to an Array, starting at a particular Array index. |
+| [CopyTo](./copyto/)(const System::ArrayPtr\<System::SharedPtr\<XForm\>\>\&, int32_t) | Copies the elements of the dictionary to an Array, starting at a particular Array index. |
 | [CopyTo](./copyto/)(System::ArrayPtr\<System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<XForm\>\>\>, int32_t) override | Copies the elements of the ICollection to an Array, starting at a particular Array index. |
 | [get_Count](./get_count/)() const override | Gets the number of elements contained in the dictionary. |
 | [get_IsFixedSize](./get_isfixedsize/)() const | Gets a value indicating whether dictionary has a fixed size. |

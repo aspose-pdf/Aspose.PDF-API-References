@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.forms/form/getfieldsinrect/
 Returns fields inside of specified rectangle.
 
 ```cpp
-System::ArrayPtr<System::SharedPtr<Field>> Aspose::Pdf::Forms::Form::GetFieldsInRect(System::SharedPtr<Rectangle> rect)
+System::ArrayPtr<System::SharedPtr<Field>> Aspose::Pdf::Forms::Form::GetFieldsInRect(const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rect | System::SharedPtr\<Rectangle\> | [Rectangle](../../../aspose.pdf/rectangle/) where fields should be found. |
+| rect | const System::SharedPtr\<Rectangle\>\& | [Rectangle](../../../aspose.pdf/rectangle/) where fields should be found. |
 
 ### ReturnValue
 

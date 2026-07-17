@@ -22,8 +22,8 @@ class HeaderFooterData : public System::Object
 | --- | --- |
 | [get_PageDate](./get_pagedate/)() const | Gets the date settings. |
 | [get_PageNumber](./get_pagenumber/)() const | Gets the page number settings. |
-| [set_PageDate](./set_pagedate/)(System::SharedPtr\<Aspose::Pdf::PageDate\>) | Sets the date settings. |
-| [set_PageNumber](./set_pagenumber/)(System::SharedPtr\<Aspose::Pdf::PageNumber\>) | Sets the page number settings. |
+| [set_PageDate](./set_pagedate/)(const System::SharedPtr\<Aspose::Pdf::PageDate\>\&) | Sets the date settings. |
+| [set_PageNumber](./set_pagenumber/)(const System::SharedPtr\<Aspose::Pdf::PageNumber\>\&) | Sets the page number settings. |
 ## See Also
 
 * Class [Object](../../system/object/)

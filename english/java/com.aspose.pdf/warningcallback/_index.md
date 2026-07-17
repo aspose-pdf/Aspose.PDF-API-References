@@ -1,46 +1,39 @@
 ---
 title: WarningCallback
+linktitle: WarningCallback
 second_title: Aspose.PDF for Java API Reference
-description: Interface for users callback mechanism support.
+description: Interface for user's callback mechanism support.
 type: docs
-weight: 399
+weight: 5460
 url: /java/com.aspose.pdf/warningcallback/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.WarningCallback
+
 ```
-public abstract class WarningCallback
+public abstract class WarningCallback extends Object
 ```
 
 Interface for user's callback mechanism support.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [WarningCallback()](#WarningCallback--) |  |
+| [WarningCallback](#WarningCallback--) |  |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [warning(WarningInfo warning)](#warning-com.aspose.pdf.WarningInfo-) | The callback method for some program notifications. |
-### WarningCallback() {#WarningCallback--}
+| [warning](#warning-com.aspose.pdf.WarningInfo-) | The callback method for some program notifications. |
+
+### WarningCallback {#WarningCallback--}
 ```
 public WarningCallback()
 ```
 
 
-### warning(WarningInfo warning) {#warning-com.aspose.pdf.WarningInfo-}
-```
-public abstract WarningCallback.ReturnAction warning(WarningInfo warning)
-```
 
-
+### warning {#warning-com.aspose.pdf.WarningInfo-}
 The callback method for some program notifications.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| warning | [WarningInfo](../../com.aspose.pdf/warninginfo) | the warning information for some happened warning |
-
-**Returns:**
-[ReturnAction](../../com.aspose.pdf/returnaction) - the result of further program workflow

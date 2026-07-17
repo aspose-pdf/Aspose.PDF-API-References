@@ -39,17 +39,17 @@ class Cell : public System::ICloneable
 | [get_VerticalAlignment](./get_verticalalignment/)() const | Gets the vertical alignment. |
 | [get_Width](./get_width/)() const | Gets the column width. |
 | [set_Alignment](./set_alignment/)(HorizontalAlignment) | Sets the alignment. |
-| [set_BackgroundColor](./set_backgroundcolor/)(System::SharedPtr\<Color\>) | Sets the background color. |
-| [set_BackgroundImage](./set_backgroundimage/)(System::SharedPtr\<Image\>) | Sets the background image. |
-| [set_BackgroundImageFile](./set_backgroundimagefile/)(System::String) | Sets the background image file. |
-| [set_Border](./set_border/)(System::SharedPtr\<BorderInfo\>) | Sets the border. |
+| [set_BackgroundColor](./set_backgroundcolor/)(const System::SharedPtr\<Color\>\&) | Sets the background color. |
+| [set_BackgroundImage](./set_backgroundimage/)(const System::SharedPtr\<Image\>\&) | Sets the background image. |
+| [set_BackgroundImageFile](./set_backgroundimagefile/)(const System::String\&) | Sets the background image file. |
+| [set_Border](./set_border/)(const System::SharedPtr\<BorderInfo\>\&) | Sets the border. |
 | [set_ColSpan](./set_colspan/)(int32_t) | Sets the column span. |
-| [set_DefaultCellTextState](./set_defaultcelltextstate/)(System::SharedPtr\<Text::TextState\>) | Sets the default cell text state. |
+| [set_DefaultCellTextState](./set_defaultcelltextstate/)(const System::SharedPtr\<Text::TextState\>\&) | Sets the default cell text state. |
 | [set_IsNoBorder](./set_isnoborder/)(bool) | Sets the cell have border. |
 | [set_IsOverrideByFragment](./set_isoverridebyfragment/)(bool) | Sets the cell's TextState property is overriden by TextFragment TextState property. |
 | [set_IsWordWrapped](./set_iswordwrapped/)(bool) | Sets the cell's text word wrapped. |
-| [set_Margin](./set_margin/)(System::SharedPtr\<MarginInfo\>) | Sets the padding. |
-| [set_Paragraphs](./set_paragraphs/)(System::SharedPtr\<Aspose::Pdf::Paragraphs\>) | Sets the cell's formatted text. |
+| [set_Margin](./set_margin/)(const System::SharedPtr\<MarginInfo\>\&) | Sets the padding. |
+| [set_Paragraphs](./set_paragraphs/)(const System::SharedPtr\<Aspose::Pdf::Paragraphs\>\&) | Sets the cell's formatted text. |
 | [set_RowSpan](./set_rowspan/)(int32_t) | Sets the row span. |
 | [set_VerticalAlignment](./set_verticalalignment/)(Aspose::Pdf::VerticalAlignment) | Sets the vertical alignment. |
 ## See Also

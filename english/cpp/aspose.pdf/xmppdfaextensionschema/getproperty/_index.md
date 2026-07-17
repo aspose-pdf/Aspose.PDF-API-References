@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/xmppdfaextensionschema/getproperty/
 Returns PDF/A property by its name.
 
 ```cpp
-System::SharedPtr<XmpPdfAExtensionProperty> Aspose::Pdf::XmpPdfAExtensionSchema::GetProperty(System::String name)
+System::SharedPtr<XmpPdfAExtensionProperty> Aspose::Pdf::XmpPdfAExtensionSchema::GetProperty(const System::String &name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | Property name. |
+| name | const System::String\& | Property name. |
 
 ### ReturnValue
 

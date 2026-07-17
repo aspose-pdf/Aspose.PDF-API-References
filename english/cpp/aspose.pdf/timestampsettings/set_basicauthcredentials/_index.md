@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/timestampsettings/set_basicauthcredentials/
 Gets/sets the basic authentication credentials, Username and password are combined into a string "username:password".
 
 ```cpp
-void Aspose::Pdf::TimestampSettings::set_BasicAuthCredentials(System::String value)
+void Aspose::Pdf::TimestampSettings::set_BasicAuthCredentials(const System::String &value)
 ```
 
 ## See Also

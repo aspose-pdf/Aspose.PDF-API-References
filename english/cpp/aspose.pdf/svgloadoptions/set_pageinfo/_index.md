@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/svgloadoptions/set_pageinfo/
 Sets page info that should be applied during loading of document.
 
 ```cpp
-void Aspose::Pdf::SvgLoadOptions::set_PageInfo(System::SharedPtr<Aspose::Pdf::PageInfo> value)
+void Aspose::Pdf::SvgLoadOptions::set_PageInfo(const System::SharedPtr<Aspose::Pdf::PageInfo> &value)
 ```
 
 ## See Also

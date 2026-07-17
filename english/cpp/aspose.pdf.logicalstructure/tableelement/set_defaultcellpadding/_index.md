@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tableelement/set_defaultcellpadding/
 Sets the default cell padding.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::TableElement::set_DefaultCellPadding(System::SharedPtr<MarginInfo> value)
+void Aspose::Pdf::LogicalStructure::TableElement::set_DefaultCellPadding(const System::SharedPtr<MarginInfo> &value)
 ```
 
 ## See Also

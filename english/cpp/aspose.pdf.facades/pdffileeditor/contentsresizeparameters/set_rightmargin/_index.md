@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileeditor/contentsresizeparameters/set_rightmar
 Sets right margin on the resultant page.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileEditor::ContentsResizeParameters::set_RightMargin(System::SharedPtr<PdfFileEditor::ContentsResizeValue> value)
+void Aspose::Pdf::Facades::PdfFileEditor::ContentsResizeParameters::set_RightMargin(const System::SharedPtr<PdfFileEditor::ContentsResizeValue> &value)
 ```
 
 ## See Also

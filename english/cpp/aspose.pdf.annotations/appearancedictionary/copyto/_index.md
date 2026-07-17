@@ -2,11 +2,34 @@
 title: Aspose::Pdf::Annotations::AppearanceDictionary::CopyTo method
 linktitle: CopyTo
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Annotations::AppearanceDictionary::CopyTo method. Copies the elements of the ICollection to an Array, starting at a particular Array index in C++.'
+description: 'Aspose::Pdf::Annotations::AppearanceDictionary::CopyTo method. Copies the elements of the dictionary to an Array, starting at a particular Array index in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.pdf.annotations/appearancedictionary/copyto/
 ---
+## AppearanceDictionary::CopyTo(const System::ArrayPtr\<System::SharedPtr\<XForm\>\>\&, int32_t) method
+
+
+Copies the elements of the dictionary to an Array, starting at a particular Array index.
+
+```cpp
+void Aspose::Pdf::Annotations::AppearanceDictionary::CopyTo(const System::ArrayPtr<System::SharedPtr<XForm>> &array, int32_t index)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| array | const System::ArrayPtr\<System::SharedPtr\<XForm\>\>\& | Array where items must be copied. |
+| index | int32_t | Index where items must be copied. |
+
+## See Also
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XForm](../../../aspose.pdf/xform/)
+* Class [AppearanceDictionary](../)
+* Namespace [Aspose::Pdf::Annotations](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## AppearanceDictionary::CopyTo(System::ArrayPtr\<System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<XForm\>\>\>, int32_t) method
 
 
@@ -31,29 +54,6 @@ No bounds checking is performed.
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [KeyValuePair](../../../system.collections.generic/keyvaluepair/)
 * Class [String](../../../system/string/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XForm](../../../aspose.pdf/xform/)
-* Class [AppearanceDictionary](../)
-* Namespace [Aspose::Pdf::Annotations](../../)
-* Library [Aspose.PDF for C++](../../../)
-## AppearanceDictionary::CopyTo(System::ArrayPtr\<System::SharedPtr\<XForm\>\>, int32_t) method
-
-
-Copies the elements of the dictionary to an Array, starting at a particular Array index.
-
-```cpp
-void Aspose::Pdf::Annotations::AppearanceDictionary::CopyTo(System::ArrayPtr<System::SharedPtr<XForm>> array, int32_t index)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| array | System::ArrayPtr\<System::SharedPtr\<XForm\>\> | Array where items must be copied. |
-| index | int32_t | Index where items must be copied. |
-
-## See Also
-
-* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XForm](../../../aspose.pdf/xform/)
 * Class [AppearanceDictionary](../)

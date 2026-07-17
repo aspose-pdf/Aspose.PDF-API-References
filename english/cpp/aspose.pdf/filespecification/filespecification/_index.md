@@ -21,20 +21,20 @@ Aspose::Pdf::FileSpecification::FileSpecification()
 * Class [FileSpecification](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## FileSpecification::FileSpecification(System::SharedPtr\<System::IO::Stream\>, System::String) constructor
+## FileSpecification::FileSpecification(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&) constructor
 
 
 Constructor for file specification.
 
 ```cpp
-Aspose::Pdf::FileSpecification::FileSpecification(System::SharedPtr<System::IO::Stream> stream, System::String name)
+Aspose::Pdf::FileSpecification::FileSpecification(const System::SharedPtr<System::IO::Stream> &stream, const System::String &name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | System::SharedPtr\<System::IO::Stream\> | Stream containing data file. |
-| name | System::String | File specification. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | Stream containing data file. |
+| name | const System::String\& | File specification. |
 
 ## See Also
 
@@ -44,21 +44,21 @@ Aspose::Pdf::FileSpecification::FileSpecification(System::SharedPtr<System::IO::
 * Class [FileSpecification](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## FileSpecification::FileSpecification(System::SharedPtr\<System::IO::Stream\>, System::String, System::String) constructor
+## FileSpecification::FileSpecification(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&, const System::String\&) constructor
 
 
 Constructor for [FileSpecification](../).
 
 ```cpp
-Aspose::Pdf::FileSpecification::FileSpecification(System::SharedPtr<System::IO::Stream> stream, System::String name, System::String description)
+Aspose::Pdf::FileSpecification::FileSpecification(const System::SharedPtr<System::IO::Stream> &stream, const System::String &name, const System::String &description)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | System::SharedPtr\<System::IO::Stream\> | Stream to be used in the document. |
-| name | System::String | A file specification string. |
-| description | System::String | File description. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | Stream to be used in the document. |
+| name | const System::String\& | A file specification string. |
+| description | const System::String\& | File description. |
 
 ## See Also
 
@@ -68,19 +68,19 @@ Aspose::Pdf::FileSpecification::FileSpecification(System::SharedPtr<System::IO::
 * Class [FileSpecification](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## FileSpecification::FileSpecification(System::String) constructor
+## FileSpecification::FileSpecification(const System::String\&) constructor
 
 
 Constructor for [FileSpecification](../).
 
 ```cpp
-Aspose::Pdf::FileSpecification::FileSpecification(System::String file)
+Aspose::Pdf::FileSpecification::FileSpecification(const System::String &file)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| file | System::String | File path. |
+| file | const System::String\& | File path. |
 
 ## See Also
 
@@ -88,20 +88,20 @@ Aspose::Pdf::FileSpecification::FileSpecification(System::String file)
 * Class [FileSpecification](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## FileSpecification::FileSpecification(System::String, System::String) constructor
+## FileSpecification::FileSpecification(const System::String\&, const System::String\&) constructor
 
 
 Constructor for [FileSpecification](../).
 
 ```cpp
-Aspose::Pdf::FileSpecification::FileSpecification(System::String file, System::String description)
+Aspose::Pdf::FileSpecification::FileSpecification(const System::String &file, const System::String &description)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| file | System::String | File path. |
-| description | System::String | File description. |
+| file | const System::String\& | File path. |
+| description | const System::String\& | File description. |
 
 ## See Also
 
@@ -109,20 +109,20 @@ Aspose::Pdf::FileSpecification::FileSpecification(System::String file, System::S
 * Class [FileSpecification](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## FileSpecification::FileSpecification(System::String, System::SharedPtr\<Annotations::Annotation\>) constructor
+## FileSpecification::FileSpecification(const System::String\&, const System::SharedPtr\<Annotations::Annotation\>\&) constructor
 
 
 Constructor for [FileSpecification](../).
 
 ```cpp
-Aspose::Pdf::FileSpecification::FileSpecification(System::String fileName, System::SharedPtr<Annotations::Annotation> annot)
+Aspose::Pdf::FileSpecification::FileSpecification(const System::String &fileName, const System::SharedPtr<Annotations::Annotation> &annot)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | System::String | File path. |
-| annot | System::SharedPtr\<Annotations::Annotation\> | The annotation. |
+| fileName | const System::String\& | File path. |
+| annot | const System::SharedPtr\<Annotations::Annotation\>\& | The annotation. |
 
 ## See Also
 

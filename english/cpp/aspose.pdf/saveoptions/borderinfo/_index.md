@@ -21,7 +21,7 @@ class BorderInfo : public System::Object
 | Method | Description |
 | --- | --- |
 | [BorderInfo](./borderinfo/)() | Creates instance of [BorderInfo](./) class. |
-| [BorderInfo](./borderinfo/)(System::SharedPtr\<SaveOptions::BorderPartStyle\>) | Creates instance of [BorderInfo](./) class and initializes all elements of border(Top, Left, Right, Bottom) with attributes copied from supplied border style. |
+| [BorderInfo](./borderinfo/)(const System::SharedPtr\<SaveOptions::BorderPartStyle\>\&) | Creates instance of [BorderInfo](./) class and initializes all elements of border(Top, Left, Right, Bottom) with attributes copied from supplied border style. |
 ## See Also
 
 * Class [Object](../../../system/object/)

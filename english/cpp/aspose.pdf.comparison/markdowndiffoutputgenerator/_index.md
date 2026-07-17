@@ -4,7 +4,7 @@ linktitle: MarkdownDiffOutputGenerator
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Comparison::MarkdownDiffOutputGenerator class. Represents a class for generating markdown representation of texts differences. Because of the markdown syntax, it is not possible to show changes to whitespace characters. Selection of changes makes adding whitespace characters around formatting, otherwise markdown viewer will not correctly display the text. Deleted line breaks are indicated by - paragraph mark in C++.'
 type: docs
-weight: 1000
+weight: 1100
 url: /cpp/aspose.pdf.comparison/markdowndiffoutputgenerator/
 ---
 ## MarkdownDiffOutputGenerator class

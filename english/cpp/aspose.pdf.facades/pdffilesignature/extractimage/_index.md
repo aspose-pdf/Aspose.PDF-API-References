@@ -7,19 +7,19 @@ type: docs
 weight: 900
 url: /cpp/aspose.pdf.facades/pdffilesignature/extractimage/
 ---
-## PdfFileSignature::ExtractImage(System::SharedPtr\<SignatureName\>) method
+## PdfFileSignature::ExtractImage(const System::SharedPtr\<SignatureName\>\&) method
 
 
 Extracts signature's image.
 
 ```cpp
-System::SharedPtr<System::IO::Stream> Aspose::Pdf::Facades::PdfFileSignature::ExtractImage(System::SharedPtr<SignatureName> signName)
+System::SharedPtr<System::IO::Stream> Aspose::Pdf::Facades::PdfFileSignature::ExtractImage(const System::SharedPtr<SignatureName> &signName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | System::SharedPtr\<SignatureName\> | The name of signature. |
+| signName | const System::SharedPtr\<SignatureName\>\& | The name of signature. |
 
 ### ReturnValue
 
@@ -33,19 +33,19 @@ If image was successfully found than returns stream object; otherwise, null.
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileSignature::ExtractImage(System::String) method
+## PdfFileSignature::ExtractImage(const System::String\&) method
 
 
 Extracts signature's image.
 
 ```cpp
-System::SharedPtr<System::IO::Stream> Aspose::Pdf::Facades::PdfFileSignature::ExtractImage(System::String signName)
+System::SharedPtr<System::IO::Stream> Aspose::Pdf::Facades::PdfFileSignature::ExtractImage(const System::String &signName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | System::String | The name of signature. |
+| signName | const System::String\& | The name of signature. |
 
 ### ReturnValue
 

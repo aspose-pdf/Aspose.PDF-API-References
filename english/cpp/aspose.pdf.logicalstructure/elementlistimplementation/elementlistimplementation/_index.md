@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/elementlistimplementation/elementlistimple
 
 
 ```cpp
-Aspose::Pdf::LogicalStructure::ElementListImplementation::ElementListImplementation(System::SharedPtr<Element> owner)
+Aspose::Pdf::LogicalStructure::ElementListImplementation::ElementListImplementation(const System::SharedPtr<Element> &owner)
 ```
 
 ## See Also

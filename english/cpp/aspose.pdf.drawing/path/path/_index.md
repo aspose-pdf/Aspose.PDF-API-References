@@ -21,19 +21,19 @@ Aspose::Pdf::Drawing::Path::Path()
 * Class [Path](../)
 * Namespace [Aspose::Pdf::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Path::Path(System::ArrayPtr\<System::SharedPtr\<Shape\>\>) constructor
+## Path::Path(const System::ArrayPtr\<System::SharedPtr\<Shape\>\>\&) constructor
 
 
 Initializes a new instance of the [Path](../) class.
 
 ```cpp
-Aspose::Pdf::Drawing::Path::Path(System::ArrayPtr<System::SharedPtr<Shape>> shapes)
+Aspose::Pdf::Drawing::Path::Path(const System::ArrayPtr<System::SharedPtr<Shape>> &shapes)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| shapes | System::ArrayPtr\<System::SharedPtr\<Shape\>\> | The shape array contains path segments set. |
+| shapes | const System::ArrayPtr\<System::SharedPtr\<Shape\>\>\& | The shape array contains path segments set. |
 
 ## See Also
 

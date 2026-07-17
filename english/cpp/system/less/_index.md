@@ -4,7 +4,7 @@ linktitle: Less
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Less method. Implements ''<'' relative pattern translation in C++.'
 type: docs
-weight: 24100
+weight: 24700
 url: /cpp/system/less/
 ---
 ## System::Less method
@@ -29,7 +29,7 @@ template<class ExpressionT,class ConstantT> bool System::Less(const ExpressionT 
 
 ### ReturnValue
 
-true if type check is successfull, false otherwise.
+true if type check is successful, false otherwise.
 
 ## See Also
 

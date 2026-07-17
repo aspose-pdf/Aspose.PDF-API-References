@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/pdffileinfo/getmetainfo/
 Gets customized information of PDF document with property name. If there is no property match the name it will return a blank string.
 
 ```cpp
-System::String Aspose::Pdf::Facades::PdfFileInfo::GetMetaInfo(System::String name)
+System::String Aspose::Pdf::Facades::PdfFileInfo::GetMetaInfo(const System::String &name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | Custom meta property key. |
+| name | const System::String\& | Custom meta property key. |
 
 ### ReturnValue
 

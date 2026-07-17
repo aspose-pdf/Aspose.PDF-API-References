@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.lowcode/formcomboboxfieldcreateoptions/formcomboboxfieldcre
 Initializes a new instance of the [FormComboBoxFieldCreateOptions](../) object, that containing parameters for created and added ComboBoxField.
 
 ```cpp
-Aspose::Pdf::LowCode::FormComboBoxFieldCreateOptions::FormComboBoxFieldCreateOptions(int32_t pageNum, System::SharedPtr<Rectangle> rect)
+Aspose::Pdf::LowCode::FormComboBoxFieldCreateOptions::FormComboBoxFieldCreateOptions(int32_t pageNum, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pageNum | int32_t | [Page](../../../aspose.pdf/page/) number on which the added ComboBoxField will be located. |
-| rect | System::SharedPtr\<Rectangle\> | Sets ComboBoxField rectangle. |
+| rect | const System::SharedPtr\<Rectangle\>\& | Sets ComboBoxField rectangle. |
 
 ## See Also
 

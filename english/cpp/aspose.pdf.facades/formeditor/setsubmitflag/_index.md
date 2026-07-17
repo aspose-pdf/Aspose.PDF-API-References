@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/formeditor/setsubmitflag/
 Set submit flag of submit button.
 
 ```cpp
-bool Aspose::Pdf::Facades::FormEditor::SetSubmitFlag(System::String fieldName, SubmitFormFlag submitFormFlag)
+bool Aspose::Pdf::Facades::FormEditor::SetSubmitFlag(const System::String &fieldName, SubmitFormFlag submitFormFlag)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | Name of submit button. |
+| fieldName | const System::String\& | Name of submit button. |
 | submitFormFlag | SubmitFormFlag | Submit flag. |
 
 ### ReturnValue

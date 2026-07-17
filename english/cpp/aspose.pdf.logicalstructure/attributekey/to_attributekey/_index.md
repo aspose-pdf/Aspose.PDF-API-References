@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.logicalstructure/attributekey/to_attributekey/
 Performs an explicit conversion from [System::String](../../../system/string/) to [Aspose::Pdf::LogicalStructure::AttributeKey](../).
 
 ```cpp
-static System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::to_AttributeKey(System::String key)
+static System::SharedPtr<AttributeKey> Aspose::Pdf::LogicalStructure::AttributeKey::to_AttributeKey(const System::String &key)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | System::String | The attribute key. |
+| key | const System::String\& | The attribute key. |
 
 ### ReturnValue
 

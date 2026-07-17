@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/operatorcollection/replace/
 Replace operators in collection with other operators.
 
 ```cpp
-void Aspose::Pdf::OperatorCollection::Replace(System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Operator>>> operators)
+void Aspose::Pdf::OperatorCollection::Replace(const System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Operator>>> &operators)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| operators | System::SharedPtr\<System::Collections::Generic::IList\<System::SharedPtr\<Operator\>\>\> | [Operators](../../../aspose.pdf.operators/) list which will replace operators currently contained in the collection. Eash operator from the list must have correct index in range [1..N] where N is count of operators in the collection |
+| operators | const System::SharedPtr\<System::Collections::Generic::IList\<System::SharedPtr\<Operator\>\>\>\& | [Operators](../../../aspose.pdf.operators/) list which will replace operators currently contained in the collection. Eash operator from the list must have correct index in range [1..N] where N is count of operators in the collection |
 
 ## See Also
 

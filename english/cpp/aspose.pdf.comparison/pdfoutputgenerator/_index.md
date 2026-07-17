@@ -4,7 +4,7 @@ linktitle: PdfOutputGenerator
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Comparison::PdfOutputGenerator class. Represents a class for generating PDF representation of texts differences in C++.'
 type: docs
-weight: 1200
+weight: 1300
 url: /cpp/aspose.pdf.comparison/pdfoutputgenerator/
 ---
 ## PdfOutputGenerator class
@@ -24,9 +24,9 @@ class PdfOutputGenerator : public Aspose::Pdf::Comparison::IFileOutputGenerator,
 | [GenerateOutput](./generateoutput/)(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>, System::String) override | Generates the output based on the differences between texts and saves it to a file. |
 | [GenerateOutput](./generateoutput/)(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\>\>, System::String) override | Generates the output based on the differences between texts and saves it to a file. |
 | [PdfOutputGenerator](./pdfoutputgenerator/)() | Cteates an instance of [PdfOutputGenerator](./) class. |
-| [PdfOutputGenerator](./pdfoutputgenerator/)(System::SharedPtr\<PageInfo\>) | Cteates an instance of [PdfOutputGenerator](./) class. |
-| [PdfOutputGenerator](./pdfoutputgenerator/)(System::SharedPtr\<OutputTextStyle\>) | Cteates an instance of [PdfOutputGenerator](./) class. |
-| [PdfOutputGenerator](./pdfoutputgenerator/)(System::SharedPtr\<OutputTextStyle\>, System::SharedPtr\<PageInfo\>) | Cteates an instance of [PdfOutputGenerator](./) class. |
+| [PdfOutputGenerator](./pdfoutputgenerator/)(const System::SharedPtr\<PageInfo\>\&) | Cteates an instance of [PdfOutputGenerator](./) class. |
+| [PdfOutputGenerator](./pdfoutputgenerator/)(const System::SharedPtr\<OutputTextStyle\>\&) | Cteates an instance of [PdfOutputGenerator](./) class. |
+| [PdfOutputGenerator](./pdfoutputgenerator/)(const System::SharedPtr\<OutputTextStyle\>\&, const System::SharedPtr\<PageInfo\>\&) | Cteates an instance of [PdfOutputGenerator](./) class. |
 ## See Also
 
 * Class [IFileOutputGenerator](../ifileoutputgenerator/)

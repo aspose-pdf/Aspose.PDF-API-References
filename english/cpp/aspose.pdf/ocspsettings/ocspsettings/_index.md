@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/ocspsettings/ocspsettings/
 Initializes a new instance of the [OcspSettings](../) class.
 
 ```cpp
-Aspose::Pdf::OcspSettings::OcspSettings(System::String serverUrl)
+Aspose::Pdf::OcspSettings::OcspSettings(const System::String &serverUrl)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| serverUrl | System::String | The ocsp server url. |
+| serverUrl | const System::String\& | The ocsp server url. |
 
 ## See Also
 

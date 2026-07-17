@@ -19,7 +19,7 @@ virtual System::SharedPtr<System::Object> System::Data::IDataRecord::idx_get(con
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | const int32_t | Index to get field value at. |
+| index | const int32_t | [Index](../../../system/index/) to get field value at. |
 
 ### ReturnValue
 

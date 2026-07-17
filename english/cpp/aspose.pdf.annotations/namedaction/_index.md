@@ -22,7 +22,7 @@ class NamedAction : public Aspose::Pdf::Annotations::PdfAction
 | --- | --- |
 | [get_Name](./get_name/)() | Gets the action to be performed. |
 | [NamedAction](./namedaction/)(PredefinedAction) | Constructor for Named Action class. |
-| [set_Name](./set_name/)(System::String) | Sets the action to be performed. |
+| [set_Name](./set_name/)(const System::String\&) | Sets the action to be performed. |
 ## See Also
 
 * Class [PdfAction](../pdfaction/)

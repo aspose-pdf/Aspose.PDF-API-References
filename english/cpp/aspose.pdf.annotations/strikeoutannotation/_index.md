@@ -22,7 +22,7 @@ class StrikeOutAnnotation : public Aspose::Pdf::Annotations::TextMarkupAnnotatio
 | --- | --- |
 | [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Accepts visitor object to process the annotation. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
-| [StrikeOutAnnotation](./strikeoutannotation/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) | Creates new StrikeOut annotation on the specified page. |
+| [StrikeOutAnnotation](./strikeoutannotation/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&) | Creates new StrikeOut annotation on the specified page. |
 ## See Also
 
 * Class [TextMarkupAnnotation](../textmarkupannotation/)

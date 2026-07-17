@@ -4,7 +4,7 @@ linktitle: LINQ_OrderBy
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use LINQ_OrderBy method of System::Collections::Generic::IEnumerable class in C++.'
 type: docs
-weight: 2300
+weight: 2400
 url: /cpp/system.collections.generic/ienumerable/linq_orderby/
 ---
 ## IEnumerable::LINQ_OrderBy(const Func\<Source, Key\>\&) method

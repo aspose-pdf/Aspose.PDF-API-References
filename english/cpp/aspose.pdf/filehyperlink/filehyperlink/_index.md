@@ -21,19 +21,19 @@ Aspose::Pdf::FileHyperlink::FileHyperlink()
 * Class [FileHyperlink](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## FileHyperlink::FileHyperlink(System::String) constructor
+## FileHyperlink::FileHyperlink(const System::String\&) constructor
 
 
 Initializes a new instance of the [FileHyperlink](../) class.
 
 ```cpp
-Aspose::Pdf::FileHyperlink::FileHyperlink(System::String path)
+Aspose::Pdf::FileHyperlink::FileHyperlink(const System::String &path)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| path | System::String | Path to file. |
+| path | const System::String\& | Path to file. |
 
 ## See Also
 

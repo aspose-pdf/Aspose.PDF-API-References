@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/freetextannotation/set_textstyle/
 Sets style of the text in appearance. when text style is changed, text appearance is updated.
 
 ```cpp
-void Aspose::Pdf::Annotations::FreeTextAnnotation::set_TextStyle(System::SharedPtr<Aspose::Pdf::Annotations::TextStyle> value)
+void Aspose::Pdf::Annotations::FreeTextAnnotation::set_TextStyle(const System::SharedPtr<Aspose::Pdf::Annotations::TextStyle> &value)
 ```
 
 ## See Also

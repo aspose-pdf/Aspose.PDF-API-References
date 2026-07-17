@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dview/set_cameraposition/
 Sets the camera position of view.
 
 ```cpp
-void Aspose::Pdf::Annotations::PDF3DView::set_CameraPosition(System::SharedPtr<Matrix3D> value)
+void Aspose::Pdf::Annotations::PDF3DView::set_CameraPosition(const System::SharedPtr<Matrix3D> &value)
 ```
 
 ## Remarks

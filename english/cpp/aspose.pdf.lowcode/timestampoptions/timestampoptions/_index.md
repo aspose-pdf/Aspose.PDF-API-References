@@ -21,20 +21,20 @@ Aspose::Pdf::LowCode::TimestampOptions::TimestampOptions()
 * Class [TimestampOptions](../)
 * Namespace [Aspose::Pdf::LowCode](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TimestampOptions::TimestampOptions(System::SharedPtr\<System::IO::Stream\>, System::String) constructor
+## TimestampOptions::TimestampOptions(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&) constructor
 
 
 Creates a new instance with a PFX stream and password.
 
 ```cpp
-Aspose::Pdf::LowCode::TimestampOptions::TimestampOptions(System::SharedPtr<System::IO::Stream> pfxStream, System::String password)
+Aspose::Pdf::LowCode::TimestampOptions::TimestampOptions(const System::SharedPtr<System::IO::Stream> &pfxStream, const System::String &password)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pfxStream | System::SharedPtr\<System::IO::Stream\> | Stream containing the PFX data. |
-| password | System::String | Password for the PFX. |
+| pfxStream | const System::SharedPtr\<System::IO::Stream\>\& | Stream containing the PFX data. |
+| password | const System::String\& | Password for the PFX. |
 
 ## See Also
 
@@ -44,20 +44,20 @@ Aspose::Pdf::LowCode::TimestampOptions::TimestampOptions(System::SharedPtr<Syste
 * Class [TimestampOptions](../)
 * Namespace [Aspose::Pdf::LowCode](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TimestampOptions::TimestampOptions(System::String, System::String) constructor
+## TimestampOptions::TimestampOptions(const System::String\&, const System::String\&) constructor
 
 
 Creates a new instance with a PFX file path and password.
 
 ```cpp
-Aspose::Pdf::LowCode::TimestampOptions::TimestampOptions(System::String pfxPath, System::String password)
+Aspose::Pdf::LowCode::TimestampOptions::TimestampOptions(const System::String &pfxPath, const System::String &password)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pfxPath | System::String | Path to the PFX file. |
-| password | System::String | Password for the PFX file. |
+| pfxPath | const System::String\& | Path to the PFX file. |
+| password | const System::String\& | Password for the PFX file. |
 
 ## See Also
 

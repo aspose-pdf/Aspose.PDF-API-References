@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/polyannotation/set_vertices/
 Sets an array of points representing the horizontal and vertical coordinates of each vertex.
 
 ```cpp
-void Aspose::Pdf::Annotations::PolyAnnotation::set_Vertices(System::ArrayPtr<System::SharedPtr<Point>> value)
+void Aspose::Pdf::Annotations::PolyAnnotation::set_Vertices(const System::ArrayPtr<System::SharedPtr<Point>> &value)
 ```
 
 ## See Also

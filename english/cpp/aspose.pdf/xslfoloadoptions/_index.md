@@ -27,11 +27,11 @@ class XslFoLoadOptions : public Aspose::Pdf::XmlLoadOptions
 | --- | --- |
 | [get_BasePath](./get_basepath/)() const | The base path/url from which are searched relative paths to external resources (if any) referenced in loaded SVG file. |
 | [get_XsltArgumentList](./get_xsltargumentlist/)() const | XsltArgumentList for inserting values into existing xls parameters. |
-| [set_BasePath](./set_basepath/)(System::String) | The base path/url from which are searched relative paths to external resources (if any) referenced in loaded SVG file. |
-| [set_XsltArgumentList](./set_xsltargumentlist/)(System::SharedPtr\<System::Xml::Xsl::XsltArgumentList\>) | XsltArgumentList for inserting values into existing xls parameters. |
+| [set_BasePath](./set_basepath/)(const System::String\&) | The base path/url from which are searched relative paths to external resources (if any) referenced in loaded SVG file. |
+| [set_XsltArgumentList](./set_xsltargumentlist/)(const System::SharedPtr\<System::Xml::Xsl::XsltArgumentList\>\&) | XsltArgumentList for inserting values into existing xls parameters. |
 | [XslFoLoadOptions](./xslfoloadoptions/)() | Creates [XslFoLoadOptions](./) object without xsl data. |
-| [XslFoLoadOptions](./xslfoloadoptions/)(System::String) | Creates [XslFoLoadOptions](./) object with xsl data. |
-| [XslFoLoadOptions](./xslfoloadoptions/)(System::SharedPtr\<System::IO::Stream\>) | Creates [XslFoLoadOptions](./) object with xsl data. |
+| [XslFoLoadOptions](./xslfoloadoptions/)(const System::String\&) | Creates [XslFoLoadOptions](./) object with xsl data. |
+| [XslFoLoadOptions](./xslfoloadoptions/)(const System::SharedPtr\<System::IO::Stream\>\&) | Creates [XslFoLoadOptions](./) object with xsl data. |
 ## See Also
 
 * Class [XmlLoadOptions](../xmlloadoptions/)

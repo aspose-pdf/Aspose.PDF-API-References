@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pageactioncollection/set_onopen/
 An action that shall be performed when the page is opened.
 
 ```cpp
-void Aspose::Pdf::PageActionCollection::set_OnOpen(System::SharedPtr<Annotations::PdfAction> value)
+void Aspose::Pdf::PageActionCollection::set_OnOpen(const System::SharedPtr<Annotations::PdfAction> &value)
 ```
 
 ## See Also

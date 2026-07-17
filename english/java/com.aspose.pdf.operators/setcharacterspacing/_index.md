@@ -1,91 +1,72 @@
 ---
 title: SetCharacterSpacing
+linktitle: SetCharacterSpacing
 second_title: Aspose.PDF for Java API Reference
-description: Class representing Tc operator set character spacing.
+description: Class representing Tc operator (set character spacing).
 type: docs
-weight: 62
+weight: 500
 url: /java/com.aspose.pdf.operators/setcharacterspacing/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.Operator](../../com.aspose.pdf/operator), [com.aspose.pdf.operators.TextOperator](../../com.aspose.pdf.operators/textoperator), [com.aspose.pdf.operators.TextStateOperator](../../com.aspose.pdf.operators/textstateoperator)
+java.lang.Object, com.aspose.pdf.Operator com.aspose.pdf.operators.TextOperator com.aspose.pdf.operators.TextStateOperator com.aspose.pdf.operators.SetCharacterSpacing, com.aspose.pdf.Operator, com.aspose.pdf.operators.TextOperator com.aspose.pdf.operators.TextStateOperator com.aspose.pdf.operators.SetCharacterSpacing, com.aspose.pdf.operators.TextOperator, com.aspose.pdf.operators.TextStateOperator com.aspose.pdf.operators.SetCharacterSpacing, com.aspose.pdf.operators.TextStateOperator, com.aspose.pdf.operators.SetCharacterSpacing
+
 ```
 public class SetCharacterSpacing extends TextStateOperator
 ```
 
 Class representing Tc operator (set character spacing).
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [SetCharacterSpacing(int index, ICommand command)](#SetCharacterSpacing-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
-| [SetCharacterSpacing(double charSpacing)](#SetCharacterSpacing-double-) | Initializes operator. |
+| [SetCharacterSpacing](#SetCharacterSpacing-double-) | Initializes operator. |
+| [SetCharacterSpacing](#SetCharacterSpacing-int-com.aspose.pdf.engine.commondata.pagecontent.operators.textstateoperators.SetCharacterSpacing-) | Constructor for operator class. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getCharSpacing()](#getCharSpacing--) | Gets the character spacing. |
-| [setCharSpacing(double value)](#setCharSpacing-double-) | Sets the character spacing. |
-| [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
-### SetCharacterSpacing(int index, ICommand command) {#SetCharacterSpacing-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public SetCharacterSpacing(int index, ICommand command)
-```
+| [accept](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
+| [getCharSpacing](#getCharSpacing--) | Gets the character spacing. |
+| [setCharSpacing](#setCharSpacing-double-) | Sets the character spacing. |
 
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
-### SetCharacterSpacing(double charSpacing) {#SetCharacterSpacing-double-}
+### SetCharacterSpacing {#SetCharacterSpacing-double-}
 ```
 public SetCharacterSpacing(double charSpacing)
 ```
-
 
 Initializes operator.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| charSpacing | double | Character spacing. |
+| charSpacing |  | Character spacing. |
 
-### getCharSpacing() {#getCharSpacing--}
+### SetCharacterSpacing {#SetCharacterSpacing-int-com.aspose.pdf.engine.commondata.pagecontent.operators.textstateoperators.SetCharacterSpacing-}
+Constructor for operator class.
+
+### accept {#accept-com.aspose.pdf.IOperatorSelector-}
+Accepts visitor object to process operator.
+
+### getCharSpacing {#getCharSpacing--}
 ```
 public double getCharSpacing()
 ```
 
-
 Gets the character spacing.
 
 **Returns:**
-double - character spacing.
-### setCharSpacing(double value) {#setCharSpacing-double-}
+character spacing.
+
+### setCharSpacing {#setCharSpacing-double-}
 ```
 public void setCharSpacing(double value)
 ```
-
 
 Sets the character spacing.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | double | character spacing. |
-
-### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
-```
-public void accept(IOperatorSelector visitor)
-```
-
-
-Accepts visitor object to process operator.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| visitor | [IOperatorSelector](../../com.aspose.pdf/ioperatorselector) | Visitor object. |
-
+| value |  | character spacing. |

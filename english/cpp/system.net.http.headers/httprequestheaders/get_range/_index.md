@@ -10,7 +10,7 @@ url: /cpp/system.net.http.headers/httprequestheaders/get_range/
 ## HttpRequestHeaders::get_Range method
 
 
-Gets a value of the 'Range' header.
+Gets a value of the '[Range](../../../system/range/)' header.
 
 ```cpp
 System::SharedPtr<RangeHeaderValue> System::Net::Http::Headers::HttpRequestHeaders::get_Range()
@@ -19,7 +19,7 @@ System::SharedPtr<RangeHeaderValue> System::Net::Http::Headers::HttpRequestHeade
 
 ### ReturnValue
 
-A value of the 'Range' header.
+A value of the '[Range](../../../system/range/)' header.
 
 ## See Also
 

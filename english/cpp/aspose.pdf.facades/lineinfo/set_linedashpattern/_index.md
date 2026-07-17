@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/lineinfo/set_linedashpattern/
 Sets the dash pattern of a line.
 
 ```cpp
-void Aspose::Pdf::Facades::LineInfo::set_LineDashPattern(System::ArrayPtr<int32_t> value)
+void Aspose::Pdf::Facades::LineInfo::set_LineDashPattern(const System::ArrayPtr<int32_t> &value)
 ```
 
 ## See Also

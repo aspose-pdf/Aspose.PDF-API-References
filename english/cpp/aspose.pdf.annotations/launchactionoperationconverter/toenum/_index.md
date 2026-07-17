@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/launchactionoperationconverter/toenum/
 
 
 ```cpp
-static LaunchActionOperation Aspose::Pdf::Annotations::LaunchActionOperationConverter::ToEnum(System::String value)
+static LaunchActionOperation Aspose::Pdf::Annotations::LaunchActionOperationConverter::ToEnum(const System::String &value)
 ```
 
 ## See Also

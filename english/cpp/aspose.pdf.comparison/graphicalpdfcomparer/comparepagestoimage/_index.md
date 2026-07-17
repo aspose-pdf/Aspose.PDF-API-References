@@ -13,15 +13,15 @@ url: /cpp/aspose.pdf.comparison/graphicalpdfcomparer/comparepagestoimage/
 Compares pages graphically. The comparison result is placed in a image.
 
 ```cpp
-void Aspose::Pdf::Comparison::GraphicalPdfComparer::ComparePagesToImage(System::SharedPtr<Page> page1, System::SharedPtr<Page> page2, System::String resultImagePath)
+void Aspose::Pdf::Comparison::GraphicalPdfComparer::ComparePagesToImage(const System::SharedPtr<Page> &page1, const System::SharedPtr<Page> &page2, const System::String &resultImagePath)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page1 | System::SharedPtr\<Page\> | The first page to compare. |
-| page2 | System::SharedPtr\<Page\> | The second page to compare. |
-| resultImagePath | System::String | The path to target image file. |
+| page1 | const System::SharedPtr\<Page\>\& | The first page to compare. |
+| page2 | const System::SharedPtr\<Page\>\& | The second page to compare. |
+| resultImagePath | const System::String\& | The path to target image file. |
 
 ## See Also
 

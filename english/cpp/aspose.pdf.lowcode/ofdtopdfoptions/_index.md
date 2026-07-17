@@ -23,7 +23,7 @@ class OfdToPdfOptions : public Aspose::Pdf::LowCode::PdfConverterOptions
 | [get_OfdLoadOptions](./get_ofdloadoptions/)() const | Gets the [OFD](../../aspose.pdf.ofd/) load options. |
 | [get_OperationName](./get_operationname/)() override | Gets the name of the operation. |
 | [OfdToPdfOptions](./ofdtopdfoptions/)() | Initializes a new instance of the [OfdToPdfOptions](./) class. |
-| [set_OfdLoadOptions](./set_ofdloadoptions/)(System::SharedPtr\<Aspose::Pdf::OfdLoadOptions\>) | Sets the [OFD](../../aspose.pdf.ofd/) load options. |
+| [set_OfdLoadOptions](./set_ofdloadoptions/)(const System::SharedPtr\<Aspose::Pdf::OfdLoadOptions\>\&) | Sets the [OFD](../../aspose.pdf.ofd/) load options. |
 ## See Also
 
 * Class [PdfConverterOptions](../pdfconverteroptions/)

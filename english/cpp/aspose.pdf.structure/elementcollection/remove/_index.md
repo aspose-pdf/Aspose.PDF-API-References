@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.structure/elementcollection/remove/
 Remove item from collection.
 
 ```cpp
-bool Aspose::Pdf::Structure::ElementCollection::Remove(System::SharedPtr<Element> item)
+bool Aspose::Pdf::Structure::ElementCollection::Remove(const System::SharedPtr<Element> &item)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | System::SharedPtr\<Element\> | Item to remove. |
+| item | const System::SharedPtr\<Element\>\& | Item to remove. |
 
 ### ReturnValue
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotationactioncollection/set_onmodifycharacte
 Sets an action to be performed when user modifies character of the field.
 
 ```cpp
-void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnModifyCharacter(System::SharedPtr<PdfAction> value)
+void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnModifyCharacter(const System::SharedPtr<PdfAction> &value)
 ```
 
 ## See Also

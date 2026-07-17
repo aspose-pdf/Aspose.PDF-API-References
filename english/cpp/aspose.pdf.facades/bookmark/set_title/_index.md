@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/bookmark/set_title/
 Sets bookmark's title.
 
 ```cpp
-void Aspose::Pdf::Facades::Bookmark::set_Title(System::String value)
+void Aspose::Pdf::Facades::Bookmark::set_Title(const System::String &value)
 ```
 
 ## See Also

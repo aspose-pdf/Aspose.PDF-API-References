@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.annotations/richmediaannotation/setcontent/
 Set content stream.
 
 ```cpp
-void Aspose::Pdf::Annotations::RichMediaAnnotation::SetContent(System::String fileName, System::SharedPtr<System::IO::Stream> audio)
+void Aspose::Pdf::Annotations::RichMediaAnnotation::SetContent(const System::String &fileName, const System::SharedPtr<System::IO::Stream> &audio)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | System::String | Name of the stream. |
-| audio | System::SharedPtr\<System::IO::Stream\> | Data stream. |
+| fileName | const System::String\& | Name of the stream. |
+| audio | const System::SharedPtr\<System::IO::Stream\>\& | Data stream. |
 
 ## See Also
 

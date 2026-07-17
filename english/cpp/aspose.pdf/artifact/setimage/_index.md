@@ -7,19 +7,19 @@ type: docs
 weight: 4400
 url: /cpp/aspose.pdf/artifact/setimage/
 ---
-## Artifact::SetImage(System::SharedPtr\<System::IO::Stream\>) method
+## Artifact::SetImage(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Sets image of the artifact.
 
 ```cpp
-void Aspose::Pdf::Artifact::SetImage(System::SharedPtr<System::IO::Stream> imageStream)
+void Aspose::Pdf::Artifact::SetImage(const System::SharedPtr<System::IO::Stream> &imageStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| imageStream | System::SharedPtr\<System::IO::Stream\> | Stream which contains image data. |
+| imageStream | const System::SharedPtr\<System::IO::Stream\>\& | Stream which contains image data. |
 
 ## See Also
 
@@ -28,19 +28,19 @@ void Aspose::Pdf::Artifact::SetImage(System::SharedPtr<System::IO::Stream> image
 * Class [Artifact](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Artifact::SetImage(System::String) method
+## Artifact::SetImage(const System::String\&) method
 
 
 Sets image of the artifact.
 
 ```cpp
-void Aspose::Pdf::Artifact::SetImage(System::String imageName)
+void Aspose::Pdf::Artifact::SetImage(const System::String &imageName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| imageName | System::String | Name of image file. |
+| imageName | const System::String\& | Name of image file. |
 
 ## See Also
 

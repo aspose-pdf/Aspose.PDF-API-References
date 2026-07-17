@@ -1,451 +1,227 @@
 ---
 title: TiffDevice
+linktitle: TiffDevice
 second_title: Aspose.PDF for Java API Reference
 description: This class helps to save pdf document page by page into the one tiff image.
 type: docs
-weight: 29
+weight: 210
 url: /java/com.aspose.pdf.devices/tiffdevice/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.devices.Device](../../com.aspose.pdf.devices/device), [com.aspose.pdf.devices.DocumentDevice](../../com.aspose.pdf.devices/documentdevice)
+java.lang.Object, com.aspose.pdf.devices.Device com.aspose.pdf.devices.PageDevice com.aspose.pdf.devices.DocumentDevice com.aspose.pdf.devices.TiffDevice, com.aspose.pdf.devices.Device, com.aspose.pdf.devices.PageDevice com.aspose.pdf.devices.DocumentDevice com.aspose.pdf.devices.TiffDevice, com.aspose.pdf.devices.PageDevice, com.aspose.pdf.devices.DocumentDevice com.aspose.pdf.devices.TiffDevice, com.aspose.pdf.devices.DocumentDevice, com.aspose.pdf.devices.TiffDevice
+
 ```
 public final class TiffDevice extends DocumentDevice
 ```
 
 This class helps to save pdf document page by page into the one tiff image.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [TiffDevice(Resolution resolution)](#TiffDevice-com.aspose.pdf.devices.Resolution-) | Initializes a new instance of the  TiffDevice  class. |
-| [TiffDevice(Resolution resolution, TiffSettings settings)](#TiffDevice-com.aspose.pdf.devices.Resolution-com.aspose.pdf.devices.TiffSettings-) | Initializes a new instance of the  TiffDevice  class. |
-| [TiffDevice(Resolution resolution, TiffSettings settings, IIndexBitmapConverter converter)](#TiffDevice-com.aspose.pdf.devices.Resolution-com.aspose.pdf.devices.TiffSettings-com.aspose.pdf.IIndexBitmapConverter-) | Initializes a new instance of the  TiffDevice  class. |
-| [TiffDevice(TiffSettings settings)](#TiffDevice-com.aspose.pdf.devices.TiffSettings-) | Initializes a new instance of the  TiffDevice  class. |
-| [TiffDevice(TiffSettings settings, IIndexBitmapConverter converter)](#TiffDevice-com.aspose.pdf.devices.TiffSettings-com.aspose.pdf.IIndexBitmapConverter-) | Initializes a new instance of the  TiffDevice  class. |
-| [TiffDevice()](#TiffDevice--) | Initializes a new instance of the  TiffDevice  class with default settings. |
-| [TiffDevice(int width, int height, Resolution resolution, TiffSettings settings)](#TiffDevice-int-int-com.aspose.pdf.devices.Resolution-com.aspose.pdf.devices.TiffSettings-) | Initializes a new instance of the  TiffDevice  class. |
-| [TiffDevice(int width, int height, Resolution resolution, TiffSettings settings, IIndexBitmapConverter converter)](#TiffDevice-int-int-com.aspose.pdf.devices.Resolution-com.aspose.pdf.devices.TiffSettings-com.aspose.pdf.IIndexBitmapConverter-) | Initializes a new instance of the  TiffDevice  class. |
-| [TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings settings)](#TiffDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.Resolution-com.aspose.pdf.devices.TiffSettings-) | Initializes a new instance of the  TiffDevice  class. |
-| [TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings settings, IIndexBitmapConverter converter)](#TiffDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.Resolution-com.aspose.pdf.devices.TiffSettings-com.aspose.pdf.IIndexBitmapConverter-) | Initializes a new instance of the  TiffDevice  class. |
-| [TiffDevice(int width, int height, Resolution resolution)](#TiffDevice-int-int-com.aspose.pdf.devices.Resolution-) | Initializes a new instance of the  TiffDevice  class. |
-| [TiffDevice(PageSize pageSize, Resolution resolution)](#TiffDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.Resolution-) | Initializes a new instance of the  TiffDevice  class. |
-| [TiffDevice(int width, int height, TiffSettings settings)](#TiffDevice-int-int-com.aspose.pdf.devices.TiffSettings-) | Initializes a new instance of the  TiffDevice  class. |
-| [TiffDevice(int width, int height, TiffSettings settings, IIndexBitmapConverter converter)](#TiffDevice-int-int-com.aspose.pdf.devices.TiffSettings-com.aspose.pdf.IIndexBitmapConverter-) | Initializes a new instance of the  TiffDevice  class. |
-| [TiffDevice(PageSize pageSize, TiffSettings settings, IIndexBitmapConverter converter)](#TiffDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.TiffSettings-com.aspose.pdf.IIndexBitmapConverter-) | Initializes a new instance of the  TiffDevice  class. |
-| [TiffDevice(PageSize pageSize, TiffSettings settings)](#TiffDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.TiffSettings-) | Initializes a new instance of the  TiffDevice  class. |
-| [TiffDevice(int width, int height)](#TiffDevice-int-int-) | Initializes a new instance of the  TiffDevice  class. |
-| [TiffDevice(PageSize pageSize)](#TiffDevice-com.aspose.pdf.PageSize-) | Initializes a new instance of the  TiffDevice  class. |
+| [TiffDevice](#TiffDevice--) | Initializes a new instance of the {@code TiffDevice} class with default settings. |
+| [TiffDevice](#TiffDevice-int-int-) | Initializes a new instance of the {@code TiffDevice} class. |
+| [TiffDevice](#TiffDevice-int-int-com.aspose.pdf.devices.Resolution-) | Initializes a new instance of the {@code TiffDevice} class with default settings. |
+| [TiffDevice](#TiffDevice-int-int-com.aspose.pdf.devices.Resolution-com.aspose.pdf.devices.TiffSettings-) | Initializes a new instance of the {@code TiffDevice} class with default settings. |
+| [TiffDevice](#TiffDevice-int-int-com.aspose.pdf.devices.Resolution-com.aspose.pdf.devices.TiffSettings-com.aspose.pdf.IIndexBitmapConverter-) | Initializes a new instance of the {@code TiffDevice} class with default settings. |
+| [TiffDevice](#TiffDevice-int-int-com.aspose.pdf.devices.TiffSettings-) | Initializes a new instance of the {@code TiffDevice} class with default settings. |
+| [TiffDevice](#TiffDevice-int-int-com.aspose.pdf.devices.TiffSettings-com.aspose.pdf.IIndexBitmapConverter-) | Initializes a new instance of the {@code TiffDevice} class with default settings. |
+| [TiffDevice](#TiffDevice-com.aspose.pdf.PageSize-) | Initializes a new instance of the {@code TiffDevice} class with default settings. |
+| [TiffDevice](#TiffDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.Resolution-) | Initializes a new instance of the {@code TiffDevice} class with default settings. |
+| [TiffDevice](#TiffDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.Resolution-com.aspose.pdf.devices.TiffSettings-) | Initializes a new instance of the {@code TiffDevice} class with default settings. |
+| [TiffDevice](#TiffDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.Resolution-com.aspose.pdf.devices.TiffSettings-com.aspose.pdf.IIndexBitmapConverter-) | Initializes a new instance of the {@code TiffDevice} class with default settings. |
+| [TiffDevice](#TiffDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.TiffSettings-) | Initializes a new instance of the {@code TiffDevice} class with default settings. |
+| [TiffDevice](#TiffDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.TiffSettings-com.aspose.pdf.IIndexBitmapConverter-) | Initializes a new instance of the {@code TiffDevice} class with default settings. |
+| [TiffDevice](#TiffDevice-com.aspose.pdf.devices.Resolution-) | Initializes a new instance of the {@code TiffDevice} class with default settings. |
+| [TiffDevice](#TiffDevice-com.aspose.pdf.devices.Resolution-com.aspose.pdf.devices.TiffSettings-) | Initializes a new instance of the {@code TiffDevice} class with default settings. |
+| [TiffDevice](#TiffDevice-com.aspose.pdf.devices.Resolution-com.aspose.pdf.devices.TiffSettings-com.aspose.pdf.IIndexBitmapConverter-) | Initializes a new instance of the {@code TiffDevice} class with default settings. |
+| [TiffDevice](#TiffDevice-com.aspose.pdf.devices.TiffSettings-) | Initializes a new instance of the {@code TiffDevice} class with default settings. |
+| [TiffDevice](#TiffDevice-com.aspose.pdf.devices.TiffSettings-com.aspose.pdf.IIndexBitmapConverter-) | Initializes a new instance of the {@code TiffDevice} class with default settings. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getRenderingOptions()](#getRenderingOptions--) | Gets rendering options. |
-| [setRenderingOptions(RenderingOptions value)](#setRenderingOptions-com.aspose.pdf.RenderingOptions-) | Sets rendering options. |
-| [getFormPresentationMode()](#getFormPresentationMode--) | Gets form presentation mode. |
-| [setFormPresentationMode(int value)](#setFormPresentationMode-int-) | Gets form presentation mode. |
-| [getSettings()](#getSettings--) | Gets settings for mapping pdf into tiff image. |
-| [getResolution()](#getResolution--) | Gets image resolution. |
-| [processInternal(IDocument document, int fromPage, int toPage, System.IO.Stream output)](#processInternal-com.aspose.pdf.IDocument-int-int-com.aspose.ms.System.IO.Stream-) | Converts certain document pages into tiff and save it in the output stream. |
-| [process(IDocument document, int fromPage, int toPage, OutputStream output)](#process-com.aspose.pdf.IDocument-int-int-java.io.OutputStream-) | Converts certain document pages into tiff and save it in the output stream. |
-| [getWidth()](#getWidth--) | Gets image output width. |
-| [getHeight()](#getHeight--) | Gets image output height. |
-| [getCropRectangle()](#getCropRectangle--) | Get rectangle that defines the area that will be converted into a picture. |
-| [setCropRectangle(Rectangle cropRectangle)](#setCropRectangle-com.aspose.pdf.Rectangle-) | Set rectangle that defines the area that will be converted into a picture. |
-### TiffDevice(Resolution resolution) {#TiffDevice-com.aspose.pdf.devices.Resolution-}
-```
-public TiffDevice(Resolution resolution)
-```
+| [binarizeBradley](#binarizeBradley-java.io.InputStream-java.io.OutputStream-double-) | Do Bradley binarization for input stream. |
+| [getCropRectangle](#getCropRectangle--) | Get rectangle that defines the area that will be converted into a picture. The default is null, in which case the all image is converted to a page |
+| [getFormPresentationMode](#getFormPresentationMode--) | Gets form presentation mode. |
+| [getHeight](#getHeight--) | Gets image output height. |
+| [getRenderingOptions](#getRenderingOptions--) | Gets rendering options. |
+| [getResolution](#getResolution--) | Gets image resolution. |
+| [getSettings](#getSettings--) | Gets settings for mapping pdf into tiff image. |
+| [getWidth](#getWidth--) | Gets image output width. |
+| [process](#process-com.aspose.pdf.IDocument-int-int-java.io.OutputStream-) | Converts certain document pages into tiff and save it in the output stream. |
+| [processInternal](#processInternal-com.aspose.pdf.IDocument-int-int-com.aspose.ms.System.IO.Stream-) | Converts certain document pages into tiff and save it in the output stream. |
+| [processInternal](#processInternal-com.aspose.pdf.Page-com.aspose.ms.System.IO.Stream-) | Performs some operation on the given page, e.g. |
+| [setCropRectangle](#setCropRectangle-com.aspose.pdf.Rectangle-) | Set rectangle that defines the area that will be converted into a picture. |
+| [setFormPresentationMode](#setFormPresentationMode-int-) | Gets form presentation mode. |
+| [setRenderingOptions](#setRenderingOptions-com.aspose.pdf.RenderingOptions-) | Sets rendering options. |
 
-
-Initializes a new instance of the  TiffDevice  class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| resolution | [Resolution](../../com.aspose.pdf.devices/resolution) | Resolution for the result image file. |
-
-### TiffDevice(Resolution resolution, TiffSettings settings) {#TiffDevice-com.aspose.pdf.devices.Resolution-com.aspose.pdf.devices.TiffSettings-}
-```
-public TiffDevice(Resolution resolution, TiffSettings settings)
-```
-
-
-Initializes a new instance of the  TiffDevice  class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| resolution | [Resolution](../../com.aspose.pdf.devices/resolution) | Resolution for the output image. |
-| settings | [TiffSettings](../../com.aspose.pdf.devices/tiffsettings) | Tiff settings, see  TiffSettings  class. |
-
-### TiffDevice(Resolution resolution, TiffSettings settings, IIndexBitmapConverter converter) {#TiffDevice-com.aspose.pdf.devices.Resolution-com.aspose.pdf.devices.TiffSettings-com.aspose.pdf.IIndexBitmapConverter-}
-```
-public TiffDevice(Resolution resolution, TiffSettings settings, IIndexBitmapConverter converter)
-```
-
-
-Initializes a new instance of the  TiffDevice  class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| resolution | [Resolution](../../com.aspose.pdf.devices/resolution) | Resolution for the output image. |
-| settings | [TiffSettings](../../com.aspose.pdf.devices/tiffsettings) | Tiff settings, see  TiffSettings  class. |
-| converter | [IIndexBitmapConverter](../../com.aspose.pdf/iindexbitmapconverter) | External converter |
-
-### TiffDevice(TiffSettings settings) {#TiffDevice-com.aspose.pdf.devices.TiffSettings-}
-```
-public TiffDevice(TiffSettings settings)
-```
-
-
-Initializes a new instance of the  TiffDevice  class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| settings | [TiffSettings](../../com.aspose.pdf.devices/tiffsettings) | Tiff settings, see  TiffSettings  class. |
-
-### TiffDevice(TiffSettings settings, IIndexBitmapConverter converter) {#TiffDevice-com.aspose.pdf.devices.TiffSettings-com.aspose.pdf.IIndexBitmapConverter-}
-```
-public TiffDevice(TiffSettings settings, IIndexBitmapConverter converter)
-```
-
-
-Initializes a new instance of the  TiffDevice  class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| settings | [TiffSettings](../../com.aspose.pdf.devices/tiffsettings) | Tiff settings, see  TiffSettings  class. |
-| converter | [IIndexBitmapConverter](../../com.aspose.pdf/iindexbitmapconverter) | External converter |
-
-### TiffDevice() {#TiffDevice--}
+### TiffDevice {#TiffDevice--}
 ```
 public TiffDevice()
 ```
 
+Initializes a new instance of the {@code TiffDevice} class with default settings.
 
-Initializes a new instance of the  TiffDevice  class with default settings.
-
-### TiffDevice(int width, int height, Resolution resolution, TiffSettings settings) {#TiffDevice-int-int-com.aspose.pdf.devices.Resolution-com.aspose.pdf.devices.TiffSettings-}
-```
-public TiffDevice(int width, int height, Resolution resolution, TiffSettings settings)
-```
-
-
-Initializes a new instance of the  TiffDevice  class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| width | int | Image output width. |
-| height | int | Image output height. |
-| resolution | [Resolution](../../com.aspose.pdf.devices/resolution) | Resolution for the output image. |
-| settings | [TiffSettings](../../com.aspose.pdf.devices/tiffsettings) | Tiff settings, see  TiffSettings  class. |
-
-### TiffDevice(int width, int height, Resolution resolution, TiffSettings settings, IIndexBitmapConverter converter) {#TiffDevice-int-int-com.aspose.pdf.devices.Resolution-com.aspose.pdf.devices.TiffSettings-com.aspose.pdf.IIndexBitmapConverter-}
-```
-public TiffDevice(int width, int height, Resolution resolution, TiffSettings settings, IIndexBitmapConverter converter)
-```
-
-
-Initializes a new instance of the  TiffDevice  class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| width | int | Image output width. |
-| height | int | Image output height. |
-| resolution | [Resolution](../../com.aspose.pdf.devices/resolution) | Resolution for the output image. |
-| settings | [TiffSettings](../../com.aspose.pdf.devices/tiffsettings) | Tiff settings, see  TiffSettings  class. |
-| converter | [IIndexBitmapConverter](../../com.aspose.pdf/iindexbitmapconverter) | External converter |
-
-### TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings settings) {#TiffDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.Resolution-com.aspose.pdf.devices.TiffSettings-}
-```
-public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings settings)
-```
-
-
-Initializes a new instance of the  TiffDevice  class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageSize | [PageSize](../../com.aspose.pdf/pagesize) | Page size of the output image. |
-| resolution | [Resolution](../../com.aspose.pdf.devices/resolution) | Resolution for the output image. |
-| settings | [TiffSettings](../../com.aspose.pdf.devices/tiffsettings) | Tiff settings, see  TiffSettings  class. |
-
-### TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings settings, IIndexBitmapConverter converter) {#TiffDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.Resolution-com.aspose.pdf.devices.TiffSettings-com.aspose.pdf.IIndexBitmapConverter-}
-```
-public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings settings, IIndexBitmapConverter converter)
-```
-
-
-Initializes a new instance of the  TiffDevice  class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageSize | [PageSize](../../com.aspose.pdf/pagesize) | Page size of the output image. |
-| resolution | [Resolution](../../com.aspose.pdf.devices/resolution) | Resolution for the output image. |
-| settings | [TiffSettings](../../com.aspose.pdf.devices/tiffsettings) | Tiff settings, see  TiffSettings  class. |
-| converter | [IIndexBitmapConverter](../../com.aspose.pdf/iindexbitmapconverter) | External converter |
-
-### TiffDevice(int width, int height, Resolution resolution) {#TiffDevice-int-int-com.aspose.pdf.devices.Resolution-}
-```
-public TiffDevice(int width, int height, Resolution resolution)
-```
-
-
-Initializes a new instance of the  TiffDevice  class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| width | int | Image output width. |
-| height | int | Image output height. |
-| resolution | [Resolution](../../com.aspose.pdf.devices/resolution) | Resolution for the output image. |
-
-### TiffDevice(PageSize pageSize, Resolution resolution) {#TiffDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.Resolution-}
-```
-public TiffDevice(PageSize pageSize, Resolution resolution)
-```
-
-
-Initializes a new instance of the  TiffDevice  class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageSize | [PageSize](../../com.aspose.pdf/pagesize) | Page size of the output image. |
-| resolution | [Resolution](../../com.aspose.pdf.devices/resolution) | Resolution for the output image. |
-
-### TiffDevice(int width, int height, TiffSettings settings) {#TiffDevice-int-int-com.aspose.pdf.devices.TiffSettings-}
-```
-public TiffDevice(int width, int height, TiffSettings settings)
-```
-
-
-Initializes a new instance of the  TiffDevice  class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| width | int | Image output width. |
-| height | int | Image output height. |
-| settings | [TiffSettings](../../com.aspose.pdf.devices/tiffsettings) | Tiff settings, see  TiffSettings  class. |
-
-### TiffDevice(int width, int height, TiffSettings settings, IIndexBitmapConverter converter) {#TiffDevice-int-int-com.aspose.pdf.devices.TiffSettings-com.aspose.pdf.IIndexBitmapConverter-}
-```
-public TiffDevice(int width, int height, TiffSettings settings, IIndexBitmapConverter converter)
-```
-
-
-Initializes a new instance of the  TiffDevice  class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| width | int | Image output width. |
-| height | int | Image output height. |
-| settings | [TiffSettings](../../com.aspose.pdf.devices/tiffsettings) | Tiff settings, see  TiffSettings  class. |
-| converter | [IIndexBitmapConverter](../../com.aspose.pdf/iindexbitmapconverter) | External converter |
-
-### TiffDevice(PageSize pageSize, TiffSettings settings, IIndexBitmapConverter converter) {#TiffDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.TiffSettings-com.aspose.pdf.IIndexBitmapConverter-}
-```
-public TiffDevice(PageSize pageSize, TiffSettings settings, IIndexBitmapConverter converter)
-```
-
-
-Initializes a new instance of the  TiffDevice  class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageSize | [PageSize](../../com.aspose.pdf/pagesize) | Page size of the output image. |
-| settings | [TiffSettings](../../com.aspose.pdf.devices/tiffsettings) | Tiff settings, see  TiffSettings  class. |
-| converter | [IIndexBitmapConverter](../../com.aspose.pdf/iindexbitmapconverter) | External converter |
-
-### TiffDevice(PageSize pageSize, TiffSettings settings) {#TiffDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.TiffSettings-}
-```
-public TiffDevice(PageSize pageSize, TiffSettings settings)
-```
-
-
-Initializes a new instance of the  TiffDevice  class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageSize | [PageSize](../../com.aspose.pdf/pagesize) | Page size of the output image. |
-| settings | [TiffSettings](../../com.aspose.pdf.devices/tiffsettings) | Tiff settings, see  TiffSettings  class. |
-
-### TiffDevice(int width, int height) {#TiffDevice-int-int-}
+### TiffDevice {#TiffDevice-int-int-}
 ```
 public TiffDevice(int width, int height)
 ```
 
-
-Initializes a new instance of the  TiffDevice  class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| width | int | Image output width. |
-| height | int | Image output height. |
-
-### TiffDevice(PageSize pageSize) {#TiffDevice-com.aspose.pdf.PageSize-}
-```
-public TiffDevice(PageSize pageSize)
-```
-
-
-Initializes a new instance of the  TiffDevice  class.
+Initializes a new instance of the {@code TiffDevice} class.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageSize | [PageSize](../../com.aspose.pdf/pagesize) | Page size of the output image. |
+| width |  | Image output width. |
+| height |  | Image output height. |
 
-### getRenderingOptions() {#getRenderingOptions--}
-```
-public RenderingOptions getRenderingOptions()
-```
+### TiffDevice {#TiffDevice-int-int-com.aspose.pdf.devices.Resolution-}
+Initializes a new instance of the {@code TiffDevice} class with default settings.
 
+### TiffDevice {#TiffDevice-int-int-com.aspose.pdf.devices.Resolution-com.aspose.pdf.devices.TiffSettings-}
+Initializes a new instance of the {@code TiffDevice} class with default settings.
 
-Gets rendering options.
+### TiffDevice {#TiffDevice-int-int-com.aspose.pdf.devices.Resolution-com.aspose.pdf.devices.TiffSettings-com.aspose.pdf.IIndexBitmapConverter-}
+Initializes a new instance of the {@code TiffDevice} class with default settings.
 
-**Returns:**
-[RenderingOptions](../../com.aspose.pdf/renderingoptions) - rendering options.
-### setRenderingOptions(RenderingOptions value) {#setRenderingOptions-com.aspose.pdf.RenderingOptions-}
-```
-public void setRenderingOptions(RenderingOptions value)
-```
+### TiffDevice {#TiffDevice-int-int-com.aspose.pdf.devices.TiffSettings-}
+Initializes a new instance of the {@code TiffDevice} class with default settings.
 
+### TiffDevice {#TiffDevice-int-int-com.aspose.pdf.devices.TiffSettings-com.aspose.pdf.IIndexBitmapConverter-}
+Initializes a new instance of the {@code TiffDevice} class with default settings.
 
-Sets rendering options.
+### TiffDevice {#TiffDevice-com.aspose.pdf.PageSize-}
+Initializes a new instance of the {@code TiffDevice} class with default settings.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [RenderingOptions](../../com.aspose.pdf/renderingoptions) | rendering options. |
+### TiffDevice {#TiffDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.Resolution-}
+Initializes a new instance of the {@code TiffDevice} class with default settings.
 
-### getFormPresentationMode() {#getFormPresentationMode--}
-```
-public int getFormPresentationMode()
-```
+### TiffDevice {#TiffDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.Resolution-com.aspose.pdf.devices.TiffSettings-}
+Initializes a new instance of the {@code TiffDevice} class with default settings.
 
+### TiffDevice {#TiffDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.Resolution-com.aspose.pdf.devices.TiffSettings-com.aspose.pdf.IIndexBitmapConverter-}
+Initializes a new instance of the {@code TiffDevice} class with default settings.
 
-Gets form presentation mode.
+### TiffDevice {#TiffDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.TiffSettings-}
+Initializes a new instance of the {@code TiffDevice} class with default settings.
 
-**Returns:**
-int - FormPresentationMode value
-### setFormPresentationMode(int value) {#setFormPresentationMode-int-}
-```
-public void setFormPresentationMode(int value)
-```
+### TiffDevice {#TiffDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.TiffSettings-com.aspose.pdf.IIndexBitmapConverter-}
+Initializes a new instance of the {@code TiffDevice} class with default settings.
 
+### TiffDevice {#TiffDevice-com.aspose.pdf.devices.Resolution-}
+Initializes a new instance of the {@code TiffDevice} class with default settings.
 
-Gets form presentation mode.
+### TiffDevice {#TiffDevice-com.aspose.pdf.devices.Resolution-com.aspose.pdf.devices.TiffSettings-}
+Initializes a new instance of the {@code TiffDevice} class with default settings.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | int value |
+### TiffDevice {#TiffDevice-com.aspose.pdf.devices.Resolution-com.aspose.pdf.devices.TiffSettings-com.aspose.pdf.IIndexBitmapConverter-}
+Initializes a new instance of the {@code TiffDevice} class with default settings.
 
-### getSettings() {#getSettings--}
-```
-public TiffSettings getSettings()
-```
+### TiffDevice {#TiffDevice-com.aspose.pdf.devices.TiffSettings-}
+Initializes a new instance of the {@code TiffDevice} class with default settings.
 
+### TiffDevice {#TiffDevice-com.aspose.pdf.devices.TiffSettings-com.aspose.pdf.IIndexBitmapConverter-}
+Initializes a new instance of the {@code TiffDevice} class with default settings.
 
-Gets settings for mapping pdf into tiff image.
+### binarizeBradley {#binarizeBradley-java.io.InputStream-java.io.OutputStream-double-}
+Do Bradley binarization for input stream.
 
-**Returns:**
-[TiffSettings](../../com.aspose.pdf.devices/tiffsettings) - TiffSettings element
-### getResolution() {#getResolution--}
-```
-public Resolution getResolution()
-```
-
-
-Gets image resolution.
-
-**Returns:**
-[Resolution](../../com.aspose.pdf.devices/resolution) - Resolution element
-### processInternal(IDocument document, int fromPage, int toPage, System.IO.Stream output) {#processInternal-com.aspose.pdf.IDocument-int-int-com.aspose.ms.System.IO.Stream-}
-```
-public void processInternal(IDocument document, int fromPage, int toPage, System.IO.Stream output)
-```
-
-
-Converts certain document pages into tiff and save it in the output stream.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | [IDocument](../../com.aspose.pdf/idocument) | The document to convert. |
-| fromPage | int | Defines page number from which converting will start. |
-| toPage | int | Defines page number which will end the converting. |
-| output | com.aspose.ms.System.IO.Stream | Output stream with tiff image. |
-
-### process(IDocument document, int fromPage, int toPage, OutputStream output) {#process-com.aspose.pdf.IDocument-int-int-java.io.OutputStream-}
-```
-public void process(IDocument document, int fromPage, int toPage, OutputStream output)
-```
-
-
-Converts certain document pages into tiff and save it in the output stream.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | [IDocument](../../com.aspose.pdf/idocument) | The document to convert. |
-| fromPage | int | Defines page number from which converting will start. |
-| toPage | int | Defines page number which will end the converting. |
-| output | java.io.OutputStream | Output stream with tiff image. |
-
-### getWidth() {#getWidth--}
-```
-public int getWidth()
-```
-
-
-Gets image output width.
-
-**Returns:**
-int - int value
-### getHeight() {#getHeight--}
-```
-public int getHeight()
-```
-
-
-Gets image output height.
-
-**Returns:**
-int - int value
-### getCropRectangle() {#getCropRectangle--}
+### getCropRectangle {#getCropRectangle--}
 ```
 public Rectangle getCropRectangle()
 ```
 
-
 Get rectangle that defines the area that will be converted into a picture. The default is null, in which case the all image is converted to a page
 
 **Returns:**
-[Rectangle](../../com.aspose.pdf/rectangle) - Rectangle object
-### setCropRectangle(Rectangle cropRectangle) {#setCropRectangle-com.aspose.pdf.Rectangle-}
+Rectangle object
+
+### getFormPresentationMode {#getFormPresentationMode--}
 ```
-public void setCropRectangle(Rectangle cropRectangle)
+public int getFormPresentationMode()
 ```
 
+Gets form presentation mode.
 
-Set rectangle that defines the area that will be converted into a picture. The default is null, in which case the all image is converted to a page
+**Returns:**
+FormPresentationMode value @see FormPresentationMode
+
+### getHeight {#getHeight--}
+```
+public int getHeight()
+```
+
+Gets image output height.
+
+**Returns:**
+int value
+
+### getRenderingOptions {#getRenderingOptions--}
+```
+public RenderingOptions getRenderingOptions()
+```
+
+Gets rendering options.
+
+**Returns:**
+rendering options.
+
+### getResolution {#getResolution--}
+```
+public Resolution getResolution()
+```
+
+Gets image resolution.
+
+**Returns:**
+Resolution element
+
+### getSettings {#getSettings--}
+```
+public TiffSettings getSettings()
+```
+
+Gets settings for mapping pdf into tiff image.
+
+**Returns:**
+TiffSettings element
+
+### getWidth {#getWidth--}
+```
+public int getWidth()
+```
+
+Gets image output width.
+
+**Returns:**
+int value
+
+### process {#process-com.aspose.pdf.IDocument-int-int-java.io.OutputStream-}
+Converts certain document pages into tiff and save it in the output stream.
+
+### processInternal {#processInternal-com.aspose.pdf.IDocument-int-int-com.aspose.ms.System.IO.Stream-}
+Converts certain document pages into tiff and save it in the output stream.
+
+### processInternal {#processInternal-com.aspose.pdf.Page-com.aspose.ms.System.IO.Stream-}
+Performs some operation on the given page, e.g.
+
+### setCropRectangle {#setCropRectangle-com.aspose.pdf.Rectangle-}
+Set rectangle that defines the area that will be converted into a picture.
+
+### setFormPresentationMode {#setFormPresentationMode-int-}
+```
+public void setFormPresentationMode(int value)
+```
+
+Gets form presentation mode.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| cropRectangle | [Rectangle](../../com.aspose.pdf/rectangle) | Rectangle object |
+| value |  | int value @see FormPresentationMode |
 
+### setRenderingOptions {#setRenderingOptions-com.aspose.pdf.RenderingOptions-}
+Sets rendering options.

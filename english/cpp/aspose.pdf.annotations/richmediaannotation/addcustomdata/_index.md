@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.annotations/richmediaannotation/addcustomdata/
 Add custom named data (for example required for flash script).
 
 ```cpp
-void Aspose::Pdf::Annotations::RichMediaAnnotation::AddCustomData(System::String name, System::SharedPtr<System::IO::Stream> data)
+void Aspose::Pdf::Annotations::RichMediaAnnotation::AddCustomData(const System::String &name, const System::SharedPtr<System::IO::Stream> &data)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | Name of the data. |
-| data | System::SharedPtr\<System::IO::Stream\> | Data. |
+| name | const System::String\& | Name of the data. |
+| data | const System::SharedPtr\<System::IO::Stream\>\& | Data. |
 
 ## See Also
 

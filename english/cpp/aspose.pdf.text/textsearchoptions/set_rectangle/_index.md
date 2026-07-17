@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textsearchoptions/set_rectangle/
 Sets rectangle that bounds the searched text.
 
 ```cpp
-void Aspose::Pdf::Text::TextSearchOptions::set_Rectangle(System::SharedPtr<Aspose::Pdf::Rectangle> value)
+void Aspose::Pdf::Text::TextSearchOptions::set_Rectangle(const System::SharedPtr<Aspose::Pdf::Rectangle> &value)
 ```
 
 ## Remarks

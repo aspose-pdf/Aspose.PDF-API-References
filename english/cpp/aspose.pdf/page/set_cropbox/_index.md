@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/set_cropbox/
 Sets crop box of the page.
 
 ```cpp
-void Aspose::Pdf::Page::set_CropBox(System::SharedPtr<Aspose::Pdf::Rectangle> value)
+void Aspose::Pdf::Page::set_CropBox(const System::SharedPtr<Aspose::Pdf::Rectangle> &value)
 ```
 
 ## See Also

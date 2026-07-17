@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textsegment/set_hyperlink/
 Sets the segment hyperlink(for pdf generator).
 
 ```cpp
-void Aspose::Pdf::Text::TextSegment::set_Hyperlink(System::SharedPtr<Aspose::Pdf::Hyperlink> value)
+void Aspose::Pdf::Text::TextSegment::set_Hyperlink(const System::SharedPtr<Aspose::Pdf::Hyperlink> &value)
 ```
 
 ## See Also

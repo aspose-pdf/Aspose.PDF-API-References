@@ -21,20 +21,20 @@ Aspose::Pdf::Forms::RadioButtonOptionField::RadioButtonOptionField()
 * Class [RadioButtonOptionField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## RadioButtonOptionField::RadioButtonOptionField(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) constructor
+## RadioButtonOptionField::RadioButtonOptionField(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&) constructor
 
 
 Creates radiobutton in the specified recangle on specified page.
 
 ```cpp
-Aspose::Pdf::Forms::RadioButtonOptionField::RadioButtonOptionField(System::SharedPtr<Aspose::Pdf::Page> page, System::SharedPtr<Rectangle> rect)
+Aspose::Pdf::Forms::RadioButtonOptionField::RadioButtonOptionField(const System::SharedPtr<Aspose::Pdf::Page> &page, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | [Page](../../../aspose.pdf/page/) where RadioButton will be placed; |
-| rect | System::SharedPtr\<Rectangle\> | Recangle of RadioButton. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | [Page](../../../aspose.pdf/page/) where RadioButton will be placed; |
+| rect | const System::SharedPtr\<Rectangle\>\& | Recangle of RadioButton. |
 
 ## See Also
 

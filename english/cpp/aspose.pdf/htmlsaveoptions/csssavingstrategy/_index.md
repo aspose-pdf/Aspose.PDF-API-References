@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/htmlsaveoptions/csssavingstrategy/
 You can assign to this property custom strategy that implements processing or/and saving of one CSS's part that was created during conversion of PDF to HTML . In such case processing (like saving to stream or disk) must be done in that custom code.
 
 ```cpp
-using Aspose::Pdf::HtmlSaveOptions::CssSavingStrategy =  System::MulticastDelegate<void(System::SharedPtr<Aspose::Pdf::HtmlSaveOptions::CssSavingInfo>)>
+using Aspose::Pdf::HtmlSaveOptions::CssSavingStrategy =  System::MulticastDelegate<void(const System::SharedPtr<Aspose::Pdf::HtmlSaveOptions::CssSavingInfo>&)>
 ```
 
 

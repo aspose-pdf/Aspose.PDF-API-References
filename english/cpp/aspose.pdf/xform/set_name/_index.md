@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xform/set_name/
 Sets form name. Form name is name which used to reference form in XObejct ductionary in page resources.
 
 ```cpp
-void Aspose::Pdf::XForm::set_Name(System::String value)
+void Aspose::Pdf::XForm::set_Name(const System::String &value)
 ```
 
 ## See Also

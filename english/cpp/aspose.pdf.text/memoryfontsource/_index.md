@@ -24,7 +24,7 @@ class MemoryFontSource : public Aspose::Pdf::Text::FontSource,
 | [Dispose](./dispose/)() override | Releases internal resources. |
 | [Equals](./equals/)(System::SharedPtr\<System::Object\>) override | Check if font file source objects are equal. |
 | [get_FontBytes](./get_fontbytes/)() const | [Font](../font/) file byte array. |
-| [MemoryFontSource](./memoryfontsource/)(System::ArrayPtr\<uint8_t\>) | Initializes a new instance of [MemoryFontSource](./) class. |
+| [MemoryFontSource](./memoryfontsource/)(const System::ArrayPtr\<uint8_t\>\&) | Initializes a new instance of [MemoryFontSource](./) class. |
 ## See Also
 
 * Class [FontSource](../fontsource/)

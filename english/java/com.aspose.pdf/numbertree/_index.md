@@ -1,62 +1,65 @@
 ---
 title: NumberTree
+linktitle: NumberTree
 second_title: Aspose.PDF for Java API Reference
-description: Class representing Number tree structure of PDF file.
+description: Class representing Number tree structure of PDF file. 7.9.7Number Trees
 type: docs
-weight: 228
+weight: 3150
 url: /java/com.aspose.pdf/numbertree/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.NumberTree
+
 ```
-public class NumberTree
+public class NumberTree extends Object
 ```
 
 Class representing Number tree structure of PDF file. 7.9.7Number Trees
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [remove(int key)](#remove-int-) | Remove key from number tree. |
-| [get(int key)](#get-int-) | Gets item by key. |
-| [getKeys()](#getKeys--) | Gets all keys in the tree. |
-### remove(int key) {#remove-int-}
+| [get](#get-int-) | Gets item by key. |
+| [getKeys](#getKeys--) | Gets all keys in the tree. |
+| [remove](#remove-int-) | Remove key from number tree. |
+
+### get {#get-int-}
 ```
-public boolean remove(int key)
+public com.aspose.pdf.engine.data.IPdfPrimitive get(int key)
 ```
-
-
-Remove key from number tree.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| key | int | int value |
-
-**Returns:**
-boolean - boolean value
-### get(int key) {#get-int-}
-```
-public IPdfPrimitive get(int key)
-```
-
 
 Gets item by key.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | int | int value |
+| key |  | int value |
 
 **Returns:**
-[IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) - IPdfPrimitive object
-### getKeys() {#getKeys--}
-```
-public System.Collections.Generic.List<Integer> getKeys()
-```
+IPdfPrimitive object
 
+### getKeys {#getKeys--}
+```
+public com.aspose.ms.System.Collections.Generic.List< Integer > getKeys()
+```
 
 Gets all keys in the tree.
 
 **Returns:**
-com.aspose.ms.System.Collections.Generic.List<java.lang.Integer> -  List object 
+{@code List<Integer> object}
+
+### remove {#remove-int-}
+```
+public boolean remove(int key)
+```
+
+Remove key from number tree.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| key |  | int value |
+
+**Returns:**
+boolean value

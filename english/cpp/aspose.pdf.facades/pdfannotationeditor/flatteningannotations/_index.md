@@ -21,13 +21,34 @@ void Aspose::Pdf::Facades::PdfAnnotationEditor::FlatteningAnnotations()
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfAnnotationEditor::FlatteningAnnotations(int32_t, int32_t, System::ArrayPtr\<Annotations::AnnotationType\>) method
+## PdfAnnotationEditor::FlatteningAnnotations(const System::SharedPtr\<Forms::Form::FlattenSettings\>\&) method
+
+
+Flattens all annotations in the document.
+
+```cpp
+void Aspose::Pdf::Facades::PdfAnnotationEditor::FlatteningAnnotations(const System::SharedPtr<Forms::Form::FlattenSettings> &flattenSettings)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| flattenSettings | const System::SharedPtr\<Forms::Form::FlattenSettings\>\& | Specifies modes of flattening. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [FlattenSettings](../../../aspose.pdf.forms/form/flattensettings/)
+* Class [PdfAnnotationEditor](../)
+* Namespace [Aspose::Pdf::Facades](../../)
+* Library [Aspose.PDF for C++](../../../)
+## PdfAnnotationEditor::FlatteningAnnotations(int32_t, int32_t, const System::ArrayPtr\<Annotations::AnnotationType\>\&) method
 
 
 Flattens the annotations of the specified types.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfAnnotationEditor::FlatteningAnnotations(int32_t start, int32_t end, System::ArrayPtr<Annotations::AnnotationType> annotType)
+void Aspose::Pdf::Facades::PdfAnnotationEditor::FlatteningAnnotations(int32_t start, int32_t end, const System::ArrayPtr<Annotations::AnnotationType> &annotType)
 ```
 
 
@@ -35,33 +56,12 @@ void Aspose::Pdf::Facades::PdfAnnotationEditor::FlatteningAnnotations(int32_t st
 | --- | --- | --- |
 | start | int32_t | The start page. |
 | end | int32_t | Then end page. |
-| annotType | System::ArrayPtr\<Annotations::AnnotationType\> | The annotation types should be flattened. |
+| annotType | const System::ArrayPtr\<Annotations::AnnotationType\>\& | The annotation types should be flattened. |
 
 ## See Also
 
 * Typedef [ArrayPtr](../../../system/arrayptr/)
 * Enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
-* Class [PdfAnnotationEditor](../)
-* Namespace [Aspose::Pdf::Facades](../../)
-* Library [Aspose.PDF for C++](../../../)
-## PdfAnnotationEditor::FlatteningAnnotations(System::SharedPtr\<Forms::Form::FlattenSettings\>) method
-
-
-Flattens all annotations in the document.
-
-```cpp
-void Aspose::Pdf::Facades::PdfAnnotationEditor::FlatteningAnnotations(System::SharedPtr<Forms::Form::FlattenSettings> flattenSettings)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| flattenSettings | System::SharedPtr\<Forms::Form::FlattenSettings\> | Specifies modes of flattening. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [FlattenSettings](../../../aspose.pdf.forms/form/flattensettings/)
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

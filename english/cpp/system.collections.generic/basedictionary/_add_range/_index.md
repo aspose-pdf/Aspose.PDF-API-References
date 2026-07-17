@@ -19,7 +19,7 @@ void System::Collections::Generic::BaseDictionary<Map>::_add_range(std::initiali
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| list | std::initializer_list\<typename Map::value_type\> | Range to insert into container. |
+| list | std::initializer_list\<typename Map::value_type\> | [Range](../../../system/range/) to insert into container. |
 
 ## See Also
 

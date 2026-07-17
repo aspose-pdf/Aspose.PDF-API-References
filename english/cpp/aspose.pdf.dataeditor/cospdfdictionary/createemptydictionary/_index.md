@@ -7,19 +7,19 @@ type: docs
 weight: 1800
 url: /cpp/aspose.pdf.dataeditor/cospdfdictionary/createemptydictionary/
 ---
-## CosPdfDictionary::CreateEmptyDictionary(System::SharedPtr\<Document\>) method
+## CosPdfDictionary::CreateEmptyDictionary(const System::SharedPtr\<Document\>\&) method
 
 
 Creates an empty dictionary that will be attached to the document.
 
 ```cpp
-static System::SharedPtr<CosPdfDictionary> Aspose::Pdf::DataEditor::CosPdfDictionary::CreateEmptyDictionary(System::SharedPtr<Document> document)
+static System::SharedPtr<CosPdfDictionary> Aspose::Pdf::DataEditor::CosPdfDictionary::CreateEmptyDictionary(const System::SharedPtr<Document> &document)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Document\> | Result dictionary will be attached to this document. |
+| document | const System::SharedPtr\<Document\>\& | Result dictionary will be attached to this document. |
 
 ### ReturnValue
 
@@ -33,19 +33,19 @@ An empty dictionary.
 * Class [CosPdfDictionary](../)
 * Namespace [Aspose::Pdf::DataEditor](../../)
 * Library [Aspose.PDF for C++](../../../)
-## CosPdfDictionary::CreateEmptyDictionary(System::SharedPtr\<Page\>) method
+## CosPdfDictionary::CreateEmptyDictionary(const System::SharedPtr\<Page\>\&) method
 
 
 Creates an empty dictionary that will be attached to the page.
 
 ```cpp
-static System::SharedPtr<CosPdfDictionary> Aspose::Pdf::DataEditor::CosPdfDictionary::CreateEmptyDictionary(System::SharedPtr<Page> page)
+static System::SharedPtr<CosPdfDictionary> Aspose::Pdf::DataEditor::CosPdfDictionary::CreateEmptyDictionary(const System::SharedPtr<Page> &page)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Page\> | Result dictionary will be attached to this page. |
+| page | const System::SharedPtr\<Page\>\& | Result dictionary will be attached to this page. |
 
 ### ReturnValue
 

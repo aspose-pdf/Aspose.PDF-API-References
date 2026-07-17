@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.drawing/line/line/
 Initializes a new instance of the [Line](../) class.
 
 ```cpp
-Aspose::Pdf::Drawing::Line::Line(System::ArrayPtr<float> positionArray)
+Aspose::Pdf::Drawing::Line::Line(const System::ArrayPtr<float> &positionArray)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| positionArray | System::ArrayPtr\<float\> | The line position array. |
+| positionArray | const System::ArrayPtr\<float\>\& | The line position array. |
 
 ## See Also
 

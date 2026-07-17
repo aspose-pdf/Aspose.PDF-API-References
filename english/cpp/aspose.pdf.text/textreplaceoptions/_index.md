@@ -39,7 +39,7 @@ class TextReplaceOptions : public Aspose::Pdf::Text::TextOptions
 | [set_FontSizeAdjustmentAction](./set_fontsizeadjustmentaction/)(TextReplaceOptions::FontSizeAdjustment) | Sets the policy for adjusting the font size to fit within the bounds defined by the [TextReplaceOptions::Rectangle](../). |
 | [set_IgnoreParagraphs](./set_ignoreparagraphs/)(bool) | Sets a value indicating whether to ignore distinct paragraphs when adjusting text on the page after text replacement. |
 | [set_LeftAdjustment](./set_leftadjustment/)(double) | Sets or gets left position adjustment for replaced text when using [TextReplaceOptions](./): |
-| [set_Rectangle](./set_rectangle/)(System::SharedPtr\<Aspose::Pdf::Rectangle\>) | Sets the rectangle to fit the text after replacement. |
+| [set_Rectangle](./set_rectangle/)(const System::SharedPtr\<Aspose::Pdf::Rectangle\>\&) | Sets the rectangle to fit the text after replacement. |
 | [set_ReplaceAdjustmentAction](./set_replaceadjustmentaction/)(TextReplaceOptions::ReplaceAdjustment) | Sets an action that will be done after replace of text fragment to more short. |
 | [set_ReplaceScope](./set_replacescope/)(TextReplaceOptions::Scope) | Sets a scope where replace text operation is applied. |
 | [set_RightAdjustment](./set_rightadjustment/)(double) | Sets or gets right position adjustment for replaced text when using [TextReplaceOptions](./): |

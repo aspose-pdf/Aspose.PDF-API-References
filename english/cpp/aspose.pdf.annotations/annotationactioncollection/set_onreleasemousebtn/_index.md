@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotationactioncollection/set_onreleasemousebt
 Sets an action to be performed when the mouse button is released inside the annotation's active area.
 
 ```cpp
-void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnReleaseMouseBtn(System::SharedPtr<PdfAction> value)
+void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnReleaseMouseBtn(const System::SharedPtr<PdfAction> &value)
 ```
 
 ## See Also

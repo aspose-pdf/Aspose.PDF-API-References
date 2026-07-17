@@ -20,7 +20,7 @@ class SignatureSubjectFormatter
 
 | Method | Description |
 | --- | --- |
-| static [FormatSubject](./formatsubject/)(System::String, System::ArrayPtr\<SubjectNameElements\>) |  |
+| static [FormatSubject](./formatsubject/)(const System::String\&, const System::ArrayPtr\<SubjectNameElements\>\&) |  |
 | [SignatureSubjectFormatter](./signaturesubjectformatter/)() |  |
 ## See Also
 

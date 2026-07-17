@@ -21,20 +21,20 @@ Aspose::Pdf::Forms::DateField::DateField()
 * Class [DateField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## DateField::DateField(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) constructor
+## DateField::DateField(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&) constructor
 
 
 Initializes a new instance of the [DateField](../)
 
 ```cpp
-Aspose::Pdf::Forms::DateField::DateField(System::SharedPtr<Aspose::Pdf::Page> page, System::SharedPtr<Rectangle> rect)
+Aspose::Pdf::Forms::DateField::DateField(const System::SharedPtr<Aspose::Pdf::Page> &page, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | [Page](../../../aspose.pdf/page/) needed for create. |
-| rect | System::SharedPtr\<Rectangle\> | [Rectangle](../../../aspose.pdf/rectangle/) where the text field will be placed on the page. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | [Page](../../../aspose.pdf/page/) needed for create. |
+| rect | const System::SharedPtr\<Rectangle\>\& | [Rectangle](../../../aspose.pdf/rectangle/) where the text field will be placed on the page. |
 
 ## See Also
 
@@ -44,19 +44,19 @@ Aspose::Pdf::Forms::DateField::DateField(System::SharedPtr<Aspose::Pdf::Page> pa
 * Class [DateField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## DateField::DateField(System::SharedPtr\<Document\>) constructor
+## DateField::DateField(const System::SharedPtr\<Document\>\&) constructor
 
 
 Constructor which should be used with Generator.
 
 ```cpp
-Aspose::Pdf::Forms::DateField::DateField(System::SharedPtr<Document> doc)
+Aspose::Pdf::Forms::DateField::DateField(const System::SharedPtr<Document> &doc)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | System::SharedPtr\<Document\> | [Document](../../../aspose.pdf/document/) where field will be created. |
+| doc | const System::SharedPtr\<Document\>\& | [Document](../../../aspose.pdf/document/) where field will be created. |
 
 ## See Also
 
@@ -65,20 +65,20 @@ Aspose::Pdf::Forms::DateField::DateField(System::SharedPtr<Document> doc)
 * Class [DateField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## DateField::DateField(System::SharedPtr\<Document\>, System::SharedPtr\<Rectangle\>) constructor
+## DateField::DateField(const System::SharedPtr\<Document\>\&, const System::SharedPtr\<Rectangle\>\&) constructor
 
 
 Initializes a new instance of the [DateField](../)
 
 ```cpp
-Aspose::Pdf::Forms::DateField::DateField(System::SharedPtr<Document> doc, System::SharedPtr<Rectangle> rect)
+Aspose::Pdf::Forms::DateField::DateField(const System::SharedPtr<Document> &doc, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | System::SharedPtr\<Document\> | [Document](../../../aspose.pdf/document/) where field will be created. |
-| rect | System::SharedPtr\<Rectangle\> | [Rectangle](../../../aspose.pdf/rectangle/) of the field. |
+| doc | const System::SharedPtr\<Document\>\& | [Document](../../../aspose.pdf/document/) where field will be created. |
+| rect | const System::SharedPtr\<Rectangle\>\& | [Rectangle](../../../aspose.pdf/rectangle/) of the field. |
 
 ## See Also
 

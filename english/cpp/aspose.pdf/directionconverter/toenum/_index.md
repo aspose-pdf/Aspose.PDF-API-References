@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/directionconverter/toenum/
 
 
 ```cpp
-static Direction Aspose::Pdf::DirectionConverter::ToEnum(System::String value)
+static Direction Aspose::Pdf::DirectionConverter::ToEnum(const System::String &value)
 ```
 
 ## See Also

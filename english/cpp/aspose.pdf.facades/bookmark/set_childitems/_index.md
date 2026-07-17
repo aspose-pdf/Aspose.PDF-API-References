@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/bookmark/set_childitems/
 Sets bookmark's children.
 
 ```cpp
-void Aspose::Pdf::Facades::Bookmark::set_ChildItems(System::SharedPtr<Bookmarks> value)
+void Aspose::Pdf::Facades::Bookmark::set_ChildItems(const System::SharedPtr<Bookmarks> &value)
 ```
 
 ## See Also

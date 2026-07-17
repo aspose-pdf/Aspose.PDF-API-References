@@ -1,85 +1,68 @@
 ---
 title: Watermark
+linktitle: Watermark
 second_title: Aspose.PDF for Java API Reference
 description: Represents a watermark of the page.
 type: docs
-weight: 402
+weight: 5500
 url: /java/com.aspose.pdf/watermark/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.Watermark
+
 ```
-public class Watermark
+public class Watermark extends Object
 ```
 
 Represents a watermark of the page.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [Watermark(BufferedImage nativeImage, Rectangle rect)](#Watermark-java.awt.image.BufferedImage-com.aspose.pdf.Rectangle-) | Initializes a watermark object with an image and it's position on a page. |
-| [Watermark(BufferedImage nativeImage)](#Watermark-java.awt.image.BufferedImage-) | Initializes a watermark structure with an image. |
+| [Watermark](#Watermark-java.awt.image.BufferedImage-) | Initializes a watermark structure with an image. |
+| [Watermark](#Watermark-java.awt.image.BufferedImage-com.aspose.pdf.Rectangle-) | Initializes a watermark object with an image and it's position on a page. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getImage()](#getImage--) | Gets an image of the watermark. |
-| [getPosition()](#getPosition--) | Gets a position of the watermark's image on a page. |
-| [getAvailable()](#getAvailable--) | Gets a flag the watermark is present. |
-### Watermark(BufferedImage nativeImage, Rectangle rect) {#Watermark-java.awt.image.BufferedImage-com.aspose.pdf.Rectangle-}
-```
-public Watermark(BufferedImage nativeImage, Rectangle rect)
-```
+| [getAvailable](#getAvailable--) | Gets a flag the watermark is present. |
+| [getImage](#getImage--) | Gets an image of the watermark. |
+| [getPosition](#getPosition--) | Gets a position of the watermark's image on a page. |
 
-
-Initializes a watermark object with an image and it's position on a page.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| nativeImage | java.awt.image.BufferedImage | image Image of the watermark. |
-| rect | [Rectangle](../../com.aspose.pdf/rectangle) | Position of the watermark on the page. |
-
-### Watermark(BufferedImage nativeImage) {#Watermark-java.awt.image.BufferedImage-}
-```
-public Watermark(BufferedImage nativeImage)
-```
-
-
+### Watermark {#Watermark-java.awt.image.BufferedImage-}
 Initializes a watermark structure with an image.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| nativeImage | java.awt.image.BufferedImage | image Image of the watermark. |
+### Watermark {#Watermark-java.awt.image.BufferedImage-com.aspose.pdf.Rectangle-}
+Initializes a watermark object with an image and it's position on a page.
 
-### getImage() {#getImage--}
-```
-public BufferedImage getImage()
-```
-
-
-Gets an image of the watermark.
-
-**Returns:**
-java.awt.image.BufferedImage - BufferedImage object
-### getPosition() {#getPosition--}
-```
-public Rectangle getPosition()
-```
-
-
-Gets a position of the watermark's image on a page.
-
-**Returns:**
-[Rectangle](../../com.aspose.pdf/rectangle) - Rectangle object
-### getAvailable() {#getAvailable--}
+### getAvailable {#getAvailable--}
 ```
 public boolean getAvailable()
 ```
 
-
 Gets a flag the watermark is present.
 
 **Returns:**
-boolean - boolean value
+boolean value
+
+### getImage {#getImage--}
+```
+public BufferedImage getImage()
+```
+
+Gets an image of the watermark.
+
+**Returns:**
+BufferedImage object
+
+### getPosition {#getPosition--}
+```
+public Rectangle getPosition()
+```
+
+Gets a position of the watermark's image on a page.
+
+**Returns:**
+Rectangle object

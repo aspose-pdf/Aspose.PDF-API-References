@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/colorspaceconverter/toenum/
 
 
 ```cpp
-static ColorSpace Aspose::Pdf::ColorSpaceConverter::ToEnum(System::String value)
+static ColorSpace Aspose::Pdf::ColorSpaceConverter::ToEnum(const System::String &value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/markupannotation/set_inreplyto/
 A reference to the annotation that this annotation is "in reply to". Both annotations must be on the same page of the document.
 
 ```cpp
-void Aspose::Pdf::Annotations::MarkupAnnotation::set_InReplyTo(System::SharedPtr<Annotation> value)
+void Aspose::Pdf::Annotations::MarkupAnnotation::set_InReplyTo(const System::SharedPtr<Annotation> &value)
 ```
 
 ## See Also

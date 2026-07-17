@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/polyannotation/set_interiorcolor/
 Sets the interior color with which to fill the annotation's line endings.
 
 ```cpp
-void Aspose::Pdf::Annotations::PolyAnnotation::set_InteriorColor(System::SharedPtr<Aspose::Pdf::Color> value)
+void Aspose::Pdf::Annotations::PolyAnnotation::set_InteriorColor(const System::SharedPtr<Aspose::Pdf::Color> &value)
 ```
 
 ## See Also

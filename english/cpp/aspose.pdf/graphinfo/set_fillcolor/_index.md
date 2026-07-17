@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/graphinfo/set_fillcolor/
 Sets a [Color](../../color/) object that indicates the fill color of the graph.
 
 ```cpp
-void Aspose::Pdf::GraphInfo::set_FillColor(System::SharedPtr<Aspose::Pdf::Color> value)
+void Aspose::Pdf::GraphInfo::set_FillColor(const System::SharedPtr<Aspose::Pdf::Color> &value)
 ```
 
 ## See Also

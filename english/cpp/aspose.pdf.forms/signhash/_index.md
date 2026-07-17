@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signhash/
 Delegate for custom sign the document hash.
 
 ```cpp
-using Aspose::Pdf::Forms::SignHash =  System::MulticastDelegate<System::ArrayPtr<uint8_t>(System::ArrayPtr<uint8_t>, Aspose::Pdf::DigestHashAlgorithm)>
+using Aspose::Pdf::Forms::SignHash =  System::MulticastDelegate<System::ArrayPtr<uint8_t>(const System::ArrayPtr<uint8_t>&, Aspose::Pdf::DigestHashAlgorithm)>
 ```
 
 ## Remarks

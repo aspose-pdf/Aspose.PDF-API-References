@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/xmpvalue/to_keyvaluepairarray/
 Converts XmlValue to named collection value.
 
 ```cpp
-static System::ArrayPtr<System::Collections::Generic::KeyValuePair<System::String, System::SharedPtr<XmpValue>>> Aspose::Pdf::XmpValue::to_KeyValuePairArray(System::SharedPtr<XmpValue> value)
+static System::ArrayPtr<System::Collections::Generic::KeyValuePair<System::String, System::SharedPtr<XmpValue>>> Aspose::Pdf::XmpValue::to_KeyValuePairArray(const System::SharedPtr<XmpValue> &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | System::SharedPtr\<XmpValue\> | Value to convert. |
+| value | const System::SharedPtr\<XmpValue\>\& | Value to convert. |
 
 ### ReturnValue
 

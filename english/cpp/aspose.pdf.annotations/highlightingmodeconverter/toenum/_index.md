@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/highlightingmodeconverter/toenum/
 
 
 ```cpp
-static HighlightingMode Aspose::Pdf::Annotations::HighlightingModeConverter::ToEnum(System::String value)
+static HighlightingMode Aspose::Pdf::Annotations::HighlightingModeConverter::ToEnum(const System::String &value)
 ```
 
 ## See Also

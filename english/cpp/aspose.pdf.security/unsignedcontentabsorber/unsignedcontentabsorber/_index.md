@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.security/unsignedcontentabsorber/unsignedcontentabsorber/
 Represents a class used for processing unsigned content.
 
 ```cpp
-Aspose::Pdf::Security::UnsignedContentAbsorber::UnsignedContentAbsorber(System::SharedPtr<Facades::PdfFileSignature> signature)
+Aspose::Pdf::Security::UnsignedContentAbsorber::UnsignedContentAbsorber(const System::SharedPtr<Facades::PdfFileSignature> &signature)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signature | System::SharedPtr\<Facades::PdfFileSignature\> | A [PdfFileSignature](../) object representing a digital signature. |
+| signature | const System::SharedPtr\<Facades::PdfFileSignature\>\& | A [PdfFileSignature](../) object representing a digital signature. |
 
 ## See Also
 

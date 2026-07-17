@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/trimmarkannotation/trimmarkannotation/
 Initializes a new instance of the [TrimMarkAnnotation](../) class.
 
 ```cpp
-Aspose::Pdf::Annotations::TrimMarkAnnotation::TrimMarkAnnotation(System::SharedPtr<Aspose::Pdf::Page> page, PrinterMarkCornerPosition position)
+Aspose::Pdf::Annotations::TrimMarkAnnotation::TrimMarkAnnotation(const System::SharedPtr<Aspose::Pdf::Page> &page, PrinterMarkCornerPosition position)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | The page where the annotation will be added. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | The page where the annotation will be added. |
 | position | PrinterMarkCornerPosition | The position of the trim mark on the page. |
 ## Remarks
 

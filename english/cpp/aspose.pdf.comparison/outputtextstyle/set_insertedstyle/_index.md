@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison/outputtextstyle/set_insertedstyle/
 Get and set a text style for inserted text.
 
 ```cpp
-void Aspose::Pdf::Comparison::OutputTextStyle::set_InsertedStyle(System::SharedPtr<TextStyle> value)
+void Aspose::Pdf::Comparison::OutputTextStyle::set_InsertedStyle(const System::SharedPtr<TextStyle> &value)
 ```
 
 ## See Also

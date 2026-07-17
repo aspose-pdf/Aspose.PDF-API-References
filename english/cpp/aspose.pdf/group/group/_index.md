@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/group/group/
 The constructor.
 
 ```cpp
-Aspose::Pdf::Group::Group(System::SharedPtr<Page> page)
+Aspose::Pdf::Group::Group(const System::SharedPtr<Page> &page)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Page\> | [Pdf](../../) page object. |
+| page | const System::SharedPtr\<Page\>\& | [Pdf](../../) page object. |
 
 ## See Also
 

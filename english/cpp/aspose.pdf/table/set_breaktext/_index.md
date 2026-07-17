@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/table/set_breaktext/
 Sets break text for table.
 
 ```cpp
-void Aspose::Pdf::Table::set_BreakText(System::SharedPtr<Text::TextFragment> value)
+void Aspose::Pdf::Table::set_BreakText(const System::SharedPtr<Text::TextFragment> &value)
 ```
 
 ## See Also

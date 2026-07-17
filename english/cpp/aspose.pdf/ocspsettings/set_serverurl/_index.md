@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/ocspsettings/set_serverurl/
 Gets and sets the ocsp server url.
 
 ```cpp
-void Aspose::Pdf::OcspSettings::set_ServerUrl(System::String value)
+void Aspose::Pdf::OcspSettings::set_ServerUrl(const System::String &value)
 ```
 
 ## See Also

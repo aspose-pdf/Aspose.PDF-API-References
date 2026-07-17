@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretextstate/set_font/
 Sets the font of text.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::StructureTextState::set_Font(System::SharedPtr<Aspose::Pdf::Text::Font> value)
+void Aspose::Pdf::LogicalStructure::StructureTextState::set_Font(const System::SharedPtr<Aspose::Pdf::Text::Font> &value)
 ```
 
 ## Remarks

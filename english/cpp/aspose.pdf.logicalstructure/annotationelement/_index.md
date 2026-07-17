@@ -21,7 +21,7 @@ class AnnotationElement : public Aspose::Pdf::LogicalStructure::ILSElement
 | Method | Description |
 | --- | --- |
 | [get_AlternateDescriptions](./get_alternatedescriptions/)() const | Gets or Sets the Alternate Descriptions for annotation. [Text](../../aspose.pdf.text/) that shall be displayed for the annotation or, if this type of annotation does not display text, an alternate description of the annotation's contents in human-readable form. |
-| [set_AlternateDescriptions](./set_alternatedescriptions/)(System::String) | Gets or Sets the Alternate Descriptions for annotation. [Text](../../aspose.pdf.text/) that shall be displayed for the annotation or, if this type of annotation does not display text, an alternate description of the annotation's contents in human-readable form. |
+| [set_AlternateDescriptions](./set_alternatedescriptions/)(const System::String\&) | Gets or Sets the Alternate Descriptions for annotation. [Text](../../aspose.pdf.text/) that shall be displayed for the annotation or, if this type of annotation does not display text, an alternate description of the annotation's contents in human-readable form. |
 ## See Also
 
 * Class [ILSElement](../ilselement/)

@@ -1,80 +1,47 @@
 ---
 title: XfdfReader
+linktitle: XfdfReader
 second_title: Aspose.PDF for Java API Reference
-description: Class which peroformes reading of XFDF format.
+description: <p> Class which performs reading of XFDF format. </p> <hr> <p> <code> Document doc = new Document(\"example.pdf\"); InputStream xfdfStream = new FileInputStream(\"filename\").
 type: docs
-weight: 414
+weight: 5570
 url: /java/com.aspose.pdf/xfdfreader/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.XfdfReader
+
 ```
-public final class XfdfReader
+public final class XfdfReader extends Object
 ```
 
-Class which peroformes reading of XFDF format.
+<p> Class which performs reading of XFDF format. </p> <hr> <p> <code> Document doc = new Document("example.pdf"); InputStream xfdfStream = new FileInputStream("filename"); XfdfReader.readAnnotations(xfdfStream, doc); xfdfStream.close(); doc.save("example_out.pdf"); </code> </p>
 
---------------------
-
-`Document doc = new Document("example.pdf"); InputStream xfdfStream = new FileInputStream("filename"); XfdfReader.readAnnotations(xfdfStream, doc); xfdfStream.close(); doc.save("example_out.pdf");`
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [XfdfReader()](#XfdfReader--) |  |
+| [XfdfReader](#XfdfReader--) |  |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [readAnnotations(InputStream stream, IDocument document)](#readAnnotations-java.io.InputStream-com.aspose.pdf.IDocument-) | Import annotations from XFDF file and put them into document. |
-| [readFields(InputStream stream, IDocument document)](#readFields-java.io.InputStream-com.aspose.pdf.IDocument-) | Import field values from XFDF file. |
-| [getElements(System.Xml.XmlReader reader)](#getElements-com.aspose.ms.System.Xml.XmlReader-) | Parses XFDF file and returns information as hashtable. |
-### XfdfReader() {#XfdfReader--}
+| [getElements](#getElements-com.aspose.ms.System.Xml.XmlReader-) | Parses XFDF file and returns information as hashtable. |
+| [readAnnotations](#readAnnotations-java.io.InputStream-com.aspose.pdf.IDocument-) | Import annotations from XFDF file and put them into document. |
+| [readFields](#readFields-java.io.InputStream-com.aspose.pdf.IDocument-) | Import field values from XFDF file. |
+
+### XfdfReader {#XfdfReader--}
 ```
 public XfdfReader()
 ```
 
 
-### readAnnotations(InputStream stream, IDocument document) {#readAnnotations-java.io.InputStream-com.aspose.pdf.IDocument-}
-```
-public static void readAnnotations(InputStream stream, IDocument document)
-```
 
-
-Import annotations from XFDF file and put them into document.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | java.io.InputStream | Source stream containing XFDF file. |
-| document | [IDocument](../../com.aspose.pdf/idocument) | Document where annotations will be added. |
-
-### readFields(InputStream stream, IDocument document) {#readFields-java.io.InputStream-com.aspose.pdf.IDocument-}
-```
-public static void readFields(InputStream stream, IDocument document)
-```
-
-
-Import field values from XFDF file.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| stream | java.io.InputStream | Stream containing XFDF data. |
-| document | [IDocument](../../com.aspose.pdf/idocument) | Document where fields data will be imported. |
-
-### getElements(System.Xml.XmlReader reader) {#getElements-com.aspose.ms.System.Xml.XmlReader-}
-```
-public static Map getElements(System.Xml.XmlReader reader)
-```
-
-
+### getElements {#getElements-com.aspose.ms.System.Xml.XmlReader-}
 Parses XFDF file and returns information as hashtable.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| reader | com.aspose.ms.System.Xml.XmlReader | XmlReader for the source file. |
+### readAnnotations {#readAnnotations-java.io.InputStream-com.aspose.pdf.IDocument-}
+Import annotations from XFDF file and put them into document.
 
-**Returns:**
-java.util.Map - Hashtable with information parsed from XFDF file.
+### readFields {#readFields-java.io.InputStream-com.aspose.pdf.IDocument-}
+Import field values from XFDF file.

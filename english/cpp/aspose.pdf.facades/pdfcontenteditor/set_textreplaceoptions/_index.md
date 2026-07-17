@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfcontenteditor/set_textreplaceoptions/
 Sets text replace options.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfContentEditor::set_TextReplaceOptions(System::SharedPtr<Aspose::Pdf::Text::TextReplaceOptions> value)
+void Aspose::Pdf::Facades::PdfContentEditor::set_TextReplaceOptions(const System::SharedPtr<Aspose::Pdf::Text::TextReplaceOptions> &value)
 ```
 
 ## See Also

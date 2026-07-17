@@ -23,7 +23,7 @@ int System::Collections::Generic::List<T>::BinarySearch(const T &item) const
 
 ### ReturnValue
 
-Index of the item in sorted list or complement of closest index.
+[Index](../../../system/index/) of the item in sorted list or complement of closest index.
 
 ## See Also
 
@@ -47,7 +47,7 @@ int System::Collections::Generic::List<T>::BinarySearch(const T &item, const Sha
 
 ### ReturnValue
 
-Index of the item in sorted list or complement of closest index.
+[Index](../../../system/index/) of the item in sorted list or complement of closest index.
 
 ## See Also
 
@@ -68,14 +68,14 @@ int System::Collections::Generic::List<T>::BinarySearch(int index, int count, co
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Range beginning. |
-| count | int | Range size. |
+| index | int | [Range](../../../system/range/) beginning. |
+| count | int | [Range](../../../system/range/) size. |
 | item | const T\& | Item to look for. |
 | comparer | const SharedPtr\<System::Collections::Generic::IComparer\<T\>\>\& | [Comparer](../../comparer/) to use. |
 
 ### ReturnValue
 
-Index of the item in sorted list or complement of closest index.
+[Index](../../../system/index/) of the item in sorted list or complement of closest index.
 
 ## See Also
 

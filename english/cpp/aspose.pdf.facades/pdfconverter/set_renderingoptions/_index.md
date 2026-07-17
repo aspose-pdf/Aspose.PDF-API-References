@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfconverter/set_renderingoptions/
 Sets rendering options.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfConverter::set_RenderingOptions(System::SharedPtr<Aspose::Pdf::RenderingOptions> value)
+void Aspose::Pdf::Facades::PdfConverter::set_RenderingOptions(const System::SharedPtr<Aspose::Pdf::RenderingOptions> &value)
 ```
 
 ## See Also

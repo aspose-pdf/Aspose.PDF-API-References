@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/optimizedmemorystream/writeto/
 Writes to the specified stream.
 
 ```cpp
-void Aspose::Pdf::OptimizedMemoryStream::WriteTo(System::SharedPtr<System::IO::Stream> stream)
+void Aspose::Pdf::OptimizedMemoryStream::WriteTo(const System::SharedPtr<System::IO::Stream> &stream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | System::SharedPtr\<System::IO::Stream\> | The stream. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | The stream. |
 
 ## See Also
 

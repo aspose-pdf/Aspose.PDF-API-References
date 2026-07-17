@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/autotaggingsettings/set_headinglevels/
 Sets the heading levels used for determining the structure of headings in a PDF document.
 
 ```cpp
-void Aspose::Pdf::AutoTaggingSettings::set_HeadingLevels(System::SharedPtr<Aspose::Pdf::HeadingLevels> value)
+void Aspose::Pdf::AutoTaggingSettings::set_HeadingLevels(const System::SharedPtr<Aspose::Pdf::HeadingLevels> &value)
 ```
 
 ## Remarks

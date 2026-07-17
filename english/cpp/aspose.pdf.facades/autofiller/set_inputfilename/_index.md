@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/autofiller/set_inputfilename/
 Sets the input template file. One of two input modes.
 
 ```cpp
-void Aspose::Pdf::Facades::AutoFiller::set_InputFileName(System::String value)
+void Aspose::Pdf::Facades::AutoFiller::set_InputFileName(const System::String &value)
 ```
 
 

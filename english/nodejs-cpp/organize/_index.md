@@ -55,6 +55,7 @@ url: /nodejs-cpp/organize/
 | [AsposePdfReplaceTextEx](./asposepdfreplacetextex/) | Replace multiple text fragments in a PDF-file with alignment control. |
 | [AsposePdfRecover](./asposepdfrecover/) | Recover a PDF-file structure and trims invalid data. |
 | [AsposePdfRebuildXrefAndTrailer](./asposepdfrebuildxrefandtrailer/) | Rebuild a PDF-file cross-reference table and trailer structures. |
+| [AsposePdfReversePages](./asposepdfreversepages/) | Reverse the page order of a PDF-file. |
 
 
 ## Detailed Description

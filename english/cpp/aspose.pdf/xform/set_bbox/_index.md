@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xform/set_bbox/
 Sets form bounding box.
 
 ```cpp
-void Aspose::Pdf::XForm::set_BBox(System::SharedPtr<Aspose::Pdf::Rectangle> value)
+void Aspose::Pdf::XForm::set_BBox(const System::SharedPtr<Aspose::Pdf::Rectangle> &value)
 ```
 
 ## See Also

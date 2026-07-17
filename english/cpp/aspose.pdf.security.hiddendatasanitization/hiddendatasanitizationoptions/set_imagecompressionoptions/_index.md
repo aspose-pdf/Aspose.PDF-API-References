@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizationoptio
 Sets the document image conversion option. The option must be enabled manually when using the [All](../all/) method if it is required.
 
 ```cpp
-void Aspose::Pdf::Security::HiddenDataSanitization::HiddenDataSanitizationOptions::set_ImageCompressionOptions(System::SharedPtr<Aspose::Pdf::Optimization::ImageCompressionOptions> value)
+void Aspose::Pdf::Security::HiddenDataSanitization::HiddenDataSanitizationOptions::set_ImageCompressionOptions(const System::SharedPtr<Aspose::Pdf::Optimization::ImageCompressionOptions> &value)
 ```
 
 ## See Also

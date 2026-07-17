@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/texfilesysteminputdirectory/texfilesysteminputdirectory/
 Creates new instance.
 
 ```cpp
-Aspose::Pdf::TeXFileSystemInputDirectory::TeXFileSystemInputDirectory(System::String basePath)
+Aspose::Pdf::TeXFileSystemInputDirectory::TeXFileSystemInputDirectory(const System::String &basePath)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| basePath | System::String | The base path of the directory. |
+| basePath | const System::String\& | The base path of the directory. |
 
 ## See Also
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/floatingbox/set_padding/
 Sets a [MarginInfo](../../margininfo/) object that indicates the padding of the floating box.
 
 ```cpp
-void Aspose::Pdf::FloatingBox::set_Padding(System::SharedPtr<MarginInfo> value)
+void Aspose::Pdf::FloatingBox::set_Padding(const System::SharedPtr<MarginInfo> &value)
 ```
 
 ## See Also

@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf/paragraphs/insert/
 Insert paragraph to collection.
 
 ```cpp
-void Aspose::Pdf::Paragraphs::Insert(int32_t index, System::SharedPtr<BaseParagraph> paragraph)
+void Aspose::Pdf::Paragraphs::Insert(int32_t index, const System::SharedPtr<BaseParagraph> &paragraph)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | index | int32_t | The index for paragraph. |
-| paragraph | System::SharedPtr\<BaseParagraph\> | The paragraph. |
+| paragraph | const System::SharedPtr\<BaseParagraph\>\& | The paragraph. |
 
 ## See Also
 

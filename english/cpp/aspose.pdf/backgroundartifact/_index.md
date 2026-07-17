@@ -23,8 +23,8 @@ class BackgroundArtifact : public Aspose::Pdf::Artifact
 | [BackgroundArtifact](./backgroundartifact/)() | Initializes [BackgroundArtifact](./) object. |
 | [get_BackgroundColor](./get_backgroundcolor/)() const | Gets bacground color of background artifact. |
 | [get_BackgroundImage](./get_backgroundimage/)() const | Gets bacground image of background artifact. |
-| [set_BackgroundColor](./set_backgroundcolor/)(System::SharedPtr\<Color\>) | Sets bacground color of background artifact. |
-| [set_BackgroundImage](./set_backgroundimage/)(System::SharedPtr\<System::IO::Stream\>) | Sets bacground image of background artifact. |
+| [set_BackgroundColor](./set_backgroundcolor/)(const System::SharedPtr\<Color\>\&) | Sets bacground color of background artifact. |
+| [set_BackgroundImage](./set_backgroundimage/)(const System::SharedPtr\<System::IO::Stream\>\&) | Sets bacground image of background artifact. |
 ## See Also
 
 * Class [Artifact](../artifact/)

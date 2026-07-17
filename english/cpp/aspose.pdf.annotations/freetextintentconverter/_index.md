@@ -20,7 +20,7 @@ class FreeTextIntentConverter : public System::Object
 
 | Method | Description |
 | --- | --- |
-| static [ToEnum](./toenum/)(System::String) |  |
+| static [ToEnum](./toenum/)(const System::String\&) |  |
 | static [ToString](./tostring/)(FreeTextIntent) |  |
 | static [ToXfdfString](./toxfdfstring/)(FreeTextIntent) |  |
 ## See Also

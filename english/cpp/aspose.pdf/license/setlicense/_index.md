@@ -7,19 +7,19 @@ type: docs
 weight: 600
 url: /cpp/aspose.pdf/license/setlicense/
 ---
-## License::SetLicense(System::SharedPtr\<System::IO::Stream\>) method
+## License::SetLicense(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Licenses the component.
 
 ```cpp
-void Aspose::Pdf::License::SetLicense(System::SharedPtr<System::IO::Stream> stream)
+void Aspose::Pdf::License::SetLicense(const System::SharedPtr<System::IO::Stream> &stream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | System::SharedPtr\<System::IO::Stream\> | A stream that contains the license. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | A stream that contains the license. |
 ## Remarks
 
 
@@ -34,19 +34,19 @@ Use this method to load a license from a stream.
 * Class [License](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## License::SetLicense(System::String) method
+## License::SetLicense(const System::String\&) method
 
 
 Licenses the component.
 
 ```cpp
-void Aspose::Pdf::License::SetLicense(System::String licenseName)
+void Aspose::Pdf::License::SetLicense(const System::String &licenseName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| licenseName | System::String | Can be a full or short file name or name of an embedded resource. Use an empty string to switch to evaluation mode. |
+| licenseName | const System::String\& | Can be a full or short file name or name of an embedded resource. Use an empty string to switch to evaluation mode. |
 ## Remarks
 
 

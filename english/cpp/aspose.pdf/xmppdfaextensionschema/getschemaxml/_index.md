@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/xmppdfaextensionschema/getschemaxml/
 Returns the xml element (tag - li) that represents schema in xml tree.
 
 ```cpp
-System::SharedPtr<System::Xml::XmlElement> Aspose::Pdf::XmpPdfAExtensionSchema::GetSchemaXml(System::SharedPtr<System::Xml::XmlDocument> xmlDocument)
+System::SharedPtr<System::Xml::XmlElement> Aspose::Pdf::XmpPdfAExtensionSchema::GetSchemaXml(const System::SharedPtr<System::Xml::XmlDocument> &xmlDocument)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xmlDocument | System::SharedPtr\<System::Xml::XmlDocument\> | The source xml document. |
+| xmlDocument | const System::SharedPtr\<System::Xml::XmlDocument\>\& | The source xml document. |
 
 ### ReturnValue
 

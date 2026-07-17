@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/freetextannotation/set_defaultstyle/
 Sets a default style string.
 
 ```cpp
-void Aspose::Pdf::Annotations::FreeTextAnnotation::set_DefaultStyle(System::String value)
+void Aspose::Pdf::Annotations::FreeTextAnnotation::set_DefaultStyle(const System::String &value)
 ```
 
 ## See Also

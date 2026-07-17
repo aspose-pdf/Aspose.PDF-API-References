@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dcrosssection/set_cuttingplanesintersection
 Sets the color of the cutting planes intersection.
 
 ```cpp
-void Aspose::Pdf::Annotations::PDF3DCrossSection::set_CuttingPlanesIntersectionColor(System::SharedPtr<Color> value)
+void Aspose::Pdf::Annotations::PDF3DCrossSection::set_CuttingPlanesIntersectionColor(const System::SharedPtr<Color> &value)
 ```
 
 ## Remarks

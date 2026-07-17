@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/pdfaoptionsbase/set_unicodeprocessingrules/
 Sets the rules for processing ToUnicode CMap tables and not linked to Unicode symbols during the PDF/A conversion process.
 
 ```cpp
-void Aspose::Pdf::LowCode::PdfAOptionsBase::set_UnicodeProcessingRules(System::SharedPtr<ToUnicodeProcessingRules> value)
+void Aspose::Pdf::LowCode::PdfAOptionsBase::set_UnicodeProcessingRules(const System::SharedPtr<ToUnicodeProcessingRules> &value)
 ```
 
 ## Remarks

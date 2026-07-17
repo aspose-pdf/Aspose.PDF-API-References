@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/commonfigureannotation/commonfigureannotation/
 Constructor for using in Generator.
 
 ```cpp
-Aspose::Pdf::Annotations::CommonFigureAnnotation::CommonFigureAnnotation(System::SharedPtr<Document> document)
+Aspose::Pdf::Annotations::CommonFigureAnnotation::CommonFigureAnnotation(const System::SharedPtr<Document> &document)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Document\> | [Document](../../../aspose.pdf/document/) where annotation will be placed. |
+| document | const System::SharedPtr\<Document\>\& | [Document](../../../aspose.pdf/document/) where annotation will be placed. |
 
 ## See Also
 

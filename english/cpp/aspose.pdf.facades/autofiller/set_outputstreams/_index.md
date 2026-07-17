@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/autofiller/set_outputstreams/
 Sets the many Output Streams. One of four output modes.
 
 ```cpp
-void Aspose::Pdf::Facades::AutoFiller::set_OutputStreams(System::ArrayPtr<System::SharedPtr<System::IO::Stream>> value)
+void Aspose::Pdf::Facades::AutoFiller::set_OutputStreams(const System::ArrayPtr<System::SharedPtr<System::IO::Stream>> &value)
 ```
 
 ## See Also

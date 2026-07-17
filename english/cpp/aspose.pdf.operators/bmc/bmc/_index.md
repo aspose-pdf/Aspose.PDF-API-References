@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.operators/bmc/bmc/
 Initializes operator.
 
 ```cpp
-Aspose::Pdf::Operators::BMC::BMC(System::String tag)
+Aspose::Pdf::Operators::BMC::BMC(const System::String &tag)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| tag | System::String | Marked content tag. |
+| tag | const System::String\& | Marked content tag. |
 
 ## See Also
 

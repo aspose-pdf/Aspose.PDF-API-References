@@ -21,11 +21,11 @@ class DicomDevice : public Aspose::Pdf::Devices::ImageDevice
 | Method | Description |
 | --- | --- |
 | [DicomDevice](./dicomdevice/)() | Initializes a new instance of the [DicomDevice](./) class with default resolution. |
-| [DicomDevice](./dicomdevice/)(System::SharedPtr\<Aspose::Pdf::Devices::Resolution\>) | Initializes a new instance of the [DicomDevice](./) class. |
-| [DicomDevice](./dicomdevice/)(System::SharedPtr\<PageSize\>) | Initializes a new instance of the [DicomDevice](./) class with provided page size, with default resolution (=150). |
+| [DicomDevice](./dicomdevice/)(const System::SharedPtr\<Aspose::Pdf::Devices::Resolution\>\&) | Initializes a new instance of the [DicomDevice](./) class. |
+| [DicomDevice](./dicomdevice/)(const System::SharedPtr\<PageSize\>\&) | Initializes a new instance of the [DicomDevice](./) class with provided page size, with default resolution (=150). |
 | [DicomDevice](./dicomdevice/)(int32_t, int32_t) | Initializes a new instance of the [DicomDevice](./) class with provided image dimensions, with default resolution (=150). |
-| [DicomDevice](./dicomdevice/)(System::SharedPtr\<PageSize\>, System::SharedPtr\<Aspose::Pdf::Devices::Resolution\>) | Initializes a new instance of the [DicomDevice](./) class with provided page size and resolution. |
-| [DicomDevice](./dicomdevice/)(int32_t, int32_t, System::SharedPtr\<Aspose::Pdf::Devices::Resolution\>) | Initializes a new instance of the [DicomDevice](./) class with provided image dimensions and resolution. |
+| [DicomDevice](./dicomdevice/)(const System::SharedPtr\<PageSize\>\&, const System::SharedPtr\<Aspose::Pdf::Devices::Resolution\>\&) | Initializes a new instance of the [DicomDevice](./) class with provided page size and resolution. |
+| [DicomDevice](./dicomdevice/)(int32_t, int32_t, const System::SharedPtr\<Aspose::Pdf::Devices::Resolution\>\&) | Initializes a new instance of the [DicomDevice](./) class with provided image dimensions and resolution. |
 | [Process](./process/)(System::SharedPtr\<Page\>, System::SharedPtr\<System::IO::Stream\>) override | Converts the page into Dicom and saves it in the output stream. |
 ## See Also
 

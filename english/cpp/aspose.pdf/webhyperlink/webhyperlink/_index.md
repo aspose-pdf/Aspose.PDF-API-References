@@ -21,19 +21,19 @@ Aspose::Pdf::WebHyperlink::WebHyperlink()
 * Class [WebHyperlink](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## WebHyperlink::WebHyperlink(System::String) constructor
+## WebHyperlink::WebHyperlink(const System::String\&) constructor
 
 
 Initializes a new instance of the [WebHyperlink](../) class.
 
 ```cpp
-Aspose::Pdf::WebHyperlink::WebHyperlink(System::String url)
+Aspose::Pdf::WebHyperlink::WebHyperlink(const System::String &url)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| url | System::String | Web url for hyperlink. |
+| url | const System::String\& | Web url for hyperlink. |
 
 ## See Also
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/ximageaddingparams/set_bitmapinfo/
 
 
 ```cpp
-void Aspose::Pdf::XImageAddingParams::set_BitmapInfo(System::SharedPtr<Aspose::Pdf::BitmapInfo> value)
+void Aspose::Pdf::XImageAddingParams::set_BitmapInfo(const System::SharedPtr<Aspose::Pdf::BitmapInfo> &value)
 ```
 
 ## See Also

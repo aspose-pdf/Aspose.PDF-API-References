@@ -20,8 +20,8 @@ class CosPdfString : public Aspose::Pdf::DataEditor::CosPdfPrimitive
 
 | Method | Description |
 | --- | --- |
-| [CosPdfString](./cospdfstring/)(System::String) | Initializes a new instance of the [CosPdfString](./) class. |
-| [CosPdfString](./cospdfstring/)(System::String, bool) | Initializes a new instance of the [CosPdfString](./) class. |
+| [CosPdfString](./cospdfstring/)(const System::String\&) | Initializes a new instance of the [CosPdfString](./) class. |
+| [CosPdfString](./cospdfstring/)(const System::String\&, bool) | Initializes a new instance of the [CosPdfString](./) class. |
 | [Equals](./equals/)(System::SharedPtr\<System::Object\>) override | Determines that the specified object is equal to the current object. |
 | [get_IsHexadecimal](./get_ishexadecimal/)() const | Gets a value indicating whether this instance is hexadecimal. |
 | [get_Value](./get_value/)() const | Gets the string (ANSII). |

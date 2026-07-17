@@ -1,420 +1,374 @@
 ---
 title: Signature
+linktitle: Signature
 second_title: Aspose.PDF for Java API Reference
-description: An abstract class which represents signature object in the pdf document.
+description: An abstract class which represents signature object in the pdf document. Signatures are fields with values of signature objects, the last contain data which is used to verify the.
 type: docs
-weight: 327
+weight: 4490
 url: /java/com.aspose.pdf/signature/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.Signature
+
 ```
-public abstract class Signature
+public abstract class Signature extends Object
 ```
 
 An abstract class which represents signature object in the pdf document. Signatures are fields with values of signature objects, the last contain data which is used to verify the document validity.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [Signature()](#Signature--) | Inititalizes new instance of the  Signature  class. |
-| [Signature(String pfx, String password)](#Signature-java.lang.String-java.lang.String-) | Inititalizes new instance of the  Signature  class. |
-| [Signature(InputStream pfx, String password)](#Signature-java.io.InputStream-java.lang.String-) | Inititalizes new instance of the  Signature  class. |
+| [Signature](#Signature--) | Initializes new instance of the {@code Signature} class. |
+| [Signature](#Signature-java.io.InputStream-java.lang.String-) | Initializes new instance of the {@code Signature} class. |
+| [Signature](#Signature-java.lang.String-java.lang.String-) | Initializes new instance of the {@code Signature} class. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getCustomAppearance()](#getCustomAppearance--) | Gets/sets the custom appearance. |
-| [setCustomAppearance(SignatureCustomAppearance value)](#setCustomAppearance-com.aspose.pdf.SignatureCustomAppearance-) | Gets/sets the custom appearance. |
-| [getAuthority()](#getAuthority--) | The name of the person or authority signing the document. |
-| [setAuthority(String value)](#setAuthority-java.lang.String-) | Sets the name of the person or authority signing the document. |
-| [getDate()](#getDate--) | Gets the time of signing. |
-| [setDate(Date value)](#setDate-java.util.Date-) | Set the time of signing. |
-| [getLocation()](#getLocation--) | Gets the CPU host name or physical location of the signing. |
-| [setLocation(String value)](#setLocation-java.lang.String-) | Sets the CPU host name or physical location of the signing. |
-| [getReason()](#getReason--) | Gets the reason for the signing, such as (I agreed!). |
-| [setReason(String value)](#setReason-java.lang.String-) | Sets the reason for the signing, such as (I agreed!). |
-| [getContactInfo()](#getContactInfo--) | Get information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. |
-| [setContactInfo(String value)](#setContactInfo-java.lang.String-) | Set information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. |
-| [getByteRange()](#getByteRange--) | Get array of pairs of integers (starting byte offset, length in bytes) that shall describe the exact byte range for the digest calculation. |
-| [getTimestampSettings()](#getTimestampSettings--) | Gets timestamp settings. |
-| [setTimestampSettings(TimestampSettings value)](#setTimestampSettings-com.aspose.pdf.TimestampSettings-) | Sets timestamp settings. |
-| [getOcspSettings()](#getOcspSettings--) | Gets/sets ocsp settings. |
-| [setOcspSettings(OcspSettings value)](#setOcspSettings-com.aspose.pdf.OcspSettings-) | Gets/sets ocsp settings. |
-| [getUseLtv()](#getUseLtv--) | Gets/sets ltv validation flag. |
-| [setUseLtv(boolean value)](#setUseLtv-boolean-) | Gets/sets ltv validation flag. |
-| [getImageInternal()](#getImageInternal--) | Gets image stream. |
-| [setImage(InputStream _signatureAppearanceStream)](#setImage-java.io.InputStream-) | Sets image stream. |
-| [setImageInternal(System.IO.Stream value)](#setImageInternal-com.aspose.ms.System.IO.Stream-) |  |
-| [getSignatureReferences()](#getSignatureReferences--) | get Signature References |
-| [getCustomSignHash()](#getCustomSignHash--) | The delegate for custom sign the document hash (Beta). |
-| [setCustomSignHash(Signature.SignHash value)](#setCustomSignHash-com.aspose.pdf.Signature.SignHash-) | The delegate for custom sign the document hash (Beta). |
-| [verify()](#verify--) | Verify the document regarding this signature and return true if document is valid or otherwise false. |
-| [isShowProperties()](#isShowProperties--) | Force to show/hide signature properties. |
-| [setShowProperties(boolean value)](#setShowProperties-boolean-) | Force to show/hide signature properties. |
-| [close()](#close--) | Destructor which closes temporary streams (if necessary). |
-### Signature() {#Signature--}
+| [close](#close--) | Destructor which closes temporary streams (if necessary). |
+| [getAuthority](#getAuthority--) | The name of the person or authority signing the document. |
+| [getByteRange](#getByteRange--) | Get array of pairs of integers (starting byte offset, length in bytes) that shall describe the exact byte range for the digest calculation. |
+| [getContactInfo](#getContactInfo--) | Get information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. a phone number. |
+| [getCustomAppearance](#getCustomAppearance--) | Gets/sets the custom appearance. |
+| [getCustomSign](#getCustomSign--) | The delegate for custom hash and sign the document (Beta). {@code The algorithm with which you hash and sign the document in the delegate must match the type of the certificate's private key.} |
+| [getCustomSignHash](#getCustomSignHash--) | The delegate for custom sign the document hash (Beta). {@code The algorithm with which you sign the hash in the delegate must match the type of the certificate's private key.} |
+| [getDate](#getDate--) | Gets the time of signing. |
+| [getDefaultSignatureLength](#getDefaultSignatureLength--) | Gets or sets the default length for the signature data in bytes. This is an estimation of the length of the signature in bytes. Used for signing via {@code CustomSignHash}({@code #getCustomSignHash}/{@code #setCustomSignHash(SignHash)}) if the {@code AvoidEstimatingSignatureLength}({@code #getAvoidEstimatingSignatureLength}/{@code #setAvoidEstimatingSignatureLength(boolean)}) parameter is set. The default value is 3000. |
+| [getImageInternal](#getImageInternal--) | Gets image stream. For internal only usage |
+| [getLocation](#getLocation--) | Gets the CPU host name or physical location of the signing. |
+| [getOcspSettings](#getOcspSettings--) | Gets/sets ocsp settings. |
+| [getReason](#getReason--) | Gets the reason for the signing, such as (I agreed!, Pip B.). |
+| [getSignatureAlgorithmInfo](#getSignatureAlgorithmInfo--) | Retrieves information about the signature algorithm used in the signature. |
+| [getSignatureReferences](#getSignatureReferences--) | get Signature References |
+| [getTimestampSettings](#getTimestampSettings--) | Gets timestamp settings. |
+| [getUseLtv](#getUseLtv--) | Gets/sets ltv validation flag. |
+| [isAvoidEstimatingSignatureLength](#isAvoidEstimatingSignatureLength--) | Gets and sets an option means whether to avoid estimating the length of a signature. Avoids to estimate signature length before a signing document. Used for signing via {@code CustomSignHash}({@code #getCustomSignHash}/{@code #setCustomSignHash(SignHash)}) an via {@code ExternalSignature}. If {@code CustomSignHash}({@code #getCustomSignHash}/{@code #setCustomSignHash(SignHash)}) returns a signature longer than {@code DefaultSignatureLength}({@code #getDefaultSignatureLength}/{@code #setDefaultSignatureLength(int)}), then {@code SignatureLengthMismatchException} will be thrown. The default value is {@code false}. |
+| [isShowProperties](#isShowProperties--) | Force to show/hide signature properties. In case ShowProperties is true signature field has predefined format of appearance (strings to represent): ------------------------------------------- Digitally signed by {certificate subject} Date: {signature.Date} Reason: {signature.Reason} Location: {signature.Location} ------------------------------------------- where {X} is placeholder for X value. Also signature can have image, in this case listed strings are placed over image. ShowProperties is true by default. |
+| [setAuthority](#setAuthority-java.lang.String-) | Sets the name of the person or authority signing the document. |
+| [setAvoidEstimatingSignatureLength](#setAvoidEstimatingSignatureLength-boolean-) | Gets and sets an option means whether to avoid estimating the length of a signature. Avoids to estimate signature length before a signing document. Used for signing via {@code CustomSignHash}({@code #getCustomSignHash}/{@code #setCustomSignHash(SignHash)}) an via {@code ExternalSignature}. If {@code CustomSignHash}({@code #getCustomSignHash}/{@code #setCustomSignHash(SignHash)}) returns a signature longer than {@code DefaultSignatureLength}({@code #getDefaultSignatureLength}/{@code #setDefaultSignatureLength(int)}), then {@code SignatureLengthMismatchException} will be thrown. The default value is {@code false}. |
+| [setContactInfo](#setContactInfo-java.lang.String-) | Set information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. a phone number. |
+| [setCustomAppearance](#setCustomAppearance-com.aspose.pdf.SignatureCustomAppearance-) | Gets/sets the custom appearance. |
+| [setCustomSign](#setCustomSign-com.aspose.pdf.CustomSign-) | The delegate for custom hash and sign the document (Beta). {@code The algorithm with which you hash and sign the document in the delegate must match the type of the certificate's private key.} |
+| [setCustomSignHash](#setCustomSignHash-com.aspose.pdf.SignHash-) | The delegate for custom sign the document hash (Beta). {@code The algorithm with which you sign the hash in the delegate must match the type of the certificate's private key.} |
+| [setDate](#setDate-java.util.Date-) | Set the time of signing. |
+| [setDefaultSignatureLength](#setDefaultSignatureLength-int-) | Gets or sets the default length for the signature data in bytes. This is an estimation of the length of the signature in bytes. Used for signing via {@code CustomSignHash}({@code #getCustomSignHash}/{@code #setCustomSignHash(SignHash)}) if the {@code AvoidEstimatingSignatureLength}({@code #getAvoidEstimatingSignatureLength}/{@code #setAvoidEstimatingSignatureLength(boolean)}) parameter is set. The default value is 3000. |
+| [setImage](#setImage-java.io.InputStream-) | Sets image stream. |
+| [setImageInternal](#setImageInternal-com.aspose.ms.System.IO.Stream-) |  |
+| [setLocation](#setLocation-java.lang.String-) | Sets the CPU host name or physical location of the signing. |
+| [setOcspSettings](#setOcspSettings-com.aspose.pdf.OcspSettings-) | Gets/sets ocsp settings. |
+| [setReason](#setReason-java.lang.String-) | Sets the reason for the signing, such as (I agreed!, Pip B.). |
+| [setShowProperties](#setShowProperties-boolean-) | Force to show/hide signature properties. In case ShowProperties is true signature field has predefined format of appearance (strings to represent): ------------------------------------------- Digitally signed by {certificate subject} Date: {signature.Date} Reason: {signature.Reason} Location: {signature.Location} ------------------------------------------- where {X} is placeholder for X value. Also signature can have image, in this case listed strings are placed over image. ShowProperties is true by default. |
+| [setTimestampSettings](#setTimestampSettings-com.aspose.pdf.TimestampSettings-) | Sets timestamp settings. |
+| [setUseLtv](#setUseLtv-boolean-) | Gets/sets ltv validation flag. |
+| [verify](#verify--) | Verify the document regarding this signature and return true if document is valid or otherwise false. |
+| [verify](#verify-com.aspose.pdf.security.certificatevalidation.ValidationOptions-com.aspose.pdf.security.certificatevalidation.ValidationResult:A-) | Verify the document regarding this signature and return true if document is valid or otherwise false. |
+| [verify](#verify-com.aspose.ms.System.Security.Cryptography.X509Certificates.X509Certificate2-com.aspose.pdf.security.certificatevalidation.ValidationOptions-com.aspose.pdf.security.certificatevalidation.ValidationResult:A-) | Verify the document regarding this signature and return true if document is valid or otherwise false. |
+
+### Signature {#Signature--}
 ```
 public Signature()
 ```
 
+Initializes new instance of the {@code Signature} class.
 
-Inititalizes new instance of the  Signature  class.
+### Signature {#Signature-java.io.InputStream-java.lang.String-}
+Initializes new instance of the {@code Signature} class.
 
-### Signature(String pfx, String password) {#Signature-java.lang.String-java.lang.String-}
-```
-public Signature(String pfx, String password)
-```
+### Signature {#Signature-java.lang.String-java.lang.String-}
+Initializes new instance of the {@code Signature} class.
 
-
-Inititalizes new instance of the  Signature  class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pfx | java.lang.String | Pfx file which contains certificate for signing. |
-| password | java.lang.String | Password to get access to the private key in the certificate. |
-
-### Signature(InputStream pfx, String password) {#Signature-java.io.InputStream-java.lang.String-}
-```
-public Signature(InputStream pfx, String password)
-```
-
-
-Inititalizes new instance of the  Signature  class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pfx | java.io.InputStream | Stream with certificate data organized as pfx. |
-| password | java.lang.String | Password to get access to the private key in the certificate. |
-
-### getCustomAppearance() {#getCustomAppearance--}
-```
-public final SignatureCustomAppearance getCustomAppearance()
-```
-
-
-Gets/sets the custom appearance.
-
-**Returns:**
-[SignatureCustomAppearance](../../com.aspose.pdf/signaturecustomappearance) - SignatureCustomAppearance instance
-### setCustomAppearance(SignatureCustomAppearance value) {#setCustomAppearance-com.aspose.pdf.SignatureCustomAppearance-}
-```
-public final void setCustomAppearance(SignatureCustomAppearance value)
-```
-
-
-Gets/sets the custom appearance.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [SignatureCustomAppearance](../../com.aspose.pdf/signaturecustomappearance) | SignatureCustomAppearance instance |
-
-### getAuthority() {#getAuthority--}
-```
-public final String getAuthority()
-```
-
-
-The name of the person or authority signing the document.
-
-**Returns:**
-java.lang.String - String value
-### setAuthority(String value) {#setAuthority-java.lang.String-}
-```
-public void setAuthority(String value)
-```
-
-
-Sets the name of the person or authority signing the document.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### getDate() {#getDate--}
-```
-public Date getDate()
-```
-
-
-Gets the time of signing.
-
-**Returns:**
-[Date](../../java.util/date) - Date value
-### setDate(Date value) {#setDate-java.util.Date-}
-```
-public void setDate(Date value)
-```
-
-
-Set the time of signing.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.util.Date | Date object |
-
-### getLocation() {#getLocation--}
-```
-public String getLocation()
-```
-
-
-Gets the CPU host name or physical location of the signing.
-
-**Returns:**
-java.lang.String - String value
-### setLocation(String value) {#setLocation-java.lang.String-}
-```
-public void setLocation(String value)
-```
-
-
-Sets the CPU host name or physical location of the signing.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### getReason() {#getReason--}
-```
-public String getReason()
-```
-
-
-Gets the reason for the signing, such as (I agreed!).
-
-**Returns:**
-java.lang.String - String value
-### setReason(String value) {#setReason-java.lang.String-}
-```
-public void setReason(String value)
-```
-
-
-Sets the reason for the signing, such as (I agreed!).
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### getContactInfo() {#getContactInfo--}
-```
-public String getContactInfo()
-```
-
-
-Get information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. a phone number.
-
-**Returns:**
-java.lang.String - String value
-### setContactInfo(String value) {#setContactInfo-java.lang.String-}
-```
-public void setContactInfo(String value)
-```
-
-
-Set information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. a phone number.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### getByteRange() {#getByteRange--}
-```
-public int[] getByteRange()
-```
-
-
-Get array of pairs of integers (starting byte offset, length in bytes) that shall describe the exact byte range for the digest calculation.
-
-**Returns:**
-int[] - array of int value
-### getTimestampSettings() {#getTimestampSettings--}
-```
-public TimestampSettings getTimestampSettings()
-```
-
-
-Gets timestamp settings.
-
-**Returns:**
-[TimestampSettings](../../com.aspose.pdf/timestampsettings) - TimestampSettings
-### setTimestampSettings(TimestampSettings value) {#setTimestampSettings-com.aspose.pdf.TimestampSettings-}
-```
-public void setTimestampSettings(TimestampSettings value)
-```
-
-
-Sets timestamp settings.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [TimestampSettings](../../com.aspose.pdf/timestampsettings) | TimestampSettings |
-
-### getOcspSettings() {#getOcspSettings--}
-```
-public OcspSettings getOcspSettings()
-```
-
-
-Gets/sets ocsp settings.
-
-**Returns:**
-[OcspSettings](../../com.aspose.pdf/ocspsettings) - OcspSettings instance
-### setOcspSettings(OcspSettings value) {#setOcspSettings-com.aspose.pdf.OcspSettings-}
-```
-public void setOcspSettings(OcspSettings value)
-```
-
-
-Gets/sets ocsp settings.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [OcspSettings](../../com.aspose.pdf/ocspsettings) | OcspSettings instance |
-
-### getUseLtv() {#getUseLtv--}
-```
-public final boolean getUseLtv()
-```
-
-
-Gets/sets ltv validation flag.
-
-**Returns:**
-boolean - boolean value
-### setUseLtv(boolean value) {#setUseLtv-boolean-}
-```
-public final void setUseLtv(boolean value)
-```
-
-
-Gets/sets ltv validation flag.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### getImageInternal() {#getImageInternal--}
-```
-public System.IO.Stream getImageInternal()
-```
-
-
-Gets image stream.
-
-For internal only usage
-
-**Returns:**
-com.aspose.ms.System.IO.Stream - Stream object
-### setImage(InputStream _signatureAppearanceStream) {#setImage-java.io.InputStream-}
-```
-public void setImage(InputStream _signatureAppearanceStream)
-```
-
-
-Sets image stream.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| _signatureAppearanceStream | java.io.InputStream | Steam object |
-
-### setImageInternal(System.IO.Stream value) {#setImageInternal-com.aspose.ms.System.IO.Stream-}
-```
-public void setImageInternal(System.IO.Stream value)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | com.aspose.ms.System.IO.Stream |  |
-
-### getSignatureReferences() {#getSignatureReferences--}
-```
-public List<SignatureReference> getSignatureReferences()
-```
-
-
-get Signature References
-
-**Returns:**
-java.util.List<com.aspose.pdf.engine.security.impl.signatures.SignatureReference> -  java.util.List object 
-### getCustomSignHash() {#getCustomSignHash--}
-```
-public final Signature.SignHash getCustomSignHash()
-```
-
-
-The delegate for custom sign the document hash (Beta).
-
-**Returns:**
-[SignHash](../../com.aspose.pdf/signhash) - SignHash instance
-### setCustomSignHash(Signature.SignHash value) {#setCustomSignHash-com.aspose.pdf.Signature.SignHash-}
-```
-public final void setCustomSignHash(Signature.SignHash value)
-```
-
-
-The delegate for custom sign the document hash (Beta).
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [SignHash](../../com.aspose.pdf/signhash) | SignHash instance |
-
-### verify() {#verify--}
-```
-public boolean verify()
-```
-
-
-Verify the document regarding this signature and return true if document is valid or otherwise false.
-
-**Returns:**
-boolean - true if document is valid.
-### isShowProperties() {#isShowProperties--}
-```
-public boolean isShowProperties()
-```
-
-
-Force to show/hide signature properties. In case ShowProperties is true signature field has predefined format of appearance (strings to represent): ------------------------------------------- Digitally signed by \{certificate subject\} Date: \{signature.Date\} Reason: \{signature.Reason\} Location: \{signature.Location\} ------------------------------------------- where \{X\} is placeholder for X value. Also signature can have image, in this case listed strings are placed over image. ShowProperties is true by default.
-
-**Returns:**
-boolean - boolean value
-### setShowProperties(boolean value) {#setShowProperties-boolean-}
-```
-public void setShowProperties(boolean value)
-```
-
-
-Force to show/hide signature properties. In case ShowProperties is true signature field has predefined format of appearance (strings to represent): ------------------------------------------- Digitally signed by \{certificate subject\} Date: \{signature.Date\} Reason: \{signature.Reason\} Location: \{signature.Location\} ------------------------------------------- where \{X\} is placeholder for X value. Also signature can have image, in this case listed strings are placed over image. ShowProperties is true by default.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### close() {#close--}
+### close {#close--}
 ```
 public void close()
 ```
 
-
 Destructor which closes temporary streams (if necessary).
 
+### getAuthority {#getAuthority--}
+```
+public final String getAuthority()
+```
+
+The name of the person or authority signing the document.
+
+**Returns:**
+String value
+
+### getByteRange {#getByteRange--}
+```
+public int[] getByteRange()
+```
+
+Get array of pairs of integers (starting byte offset, length in bytes) that shall describe the exact byte range for the digest calculation.
+
+**Returns:**
+array of int value
+
+### getContactInfo {#getContactInfo--}
+```
+public String getContactInfo()
+```
+
+Get information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. a phone number.
+
+**Returns:**
+String value
+
+### getCustomAppearance {#getCustomAppearance--}
+```
+public final SignatureCustomAppearance getCustomAppearance()
+```
+
+Gets/sets the custom appearance.
+
+**Returns:**
+SignatureCustomAppearance instance
+
+### getCustomSign {#getCustomSign--}
+```
+public final CustomSign getCustomSign()
+```
+
+The delegate for custom hash and sign the document (Beta). {@code The algorithm with which you hash and sign the document in the delegate must match the type of the certificate's private key.}
+
+**Returns:**
+SignHash instance
+
+### getCustomSignHash {#getCustomSignHash--}
+```
+public final SignHash getCustomSignHash()
+```
+
+The delegate for custom sign the document hash (Beta). {@code The algorithm with which you sign the hash in the delegate must match the type of the certificate's private key.}
+
+**Returns:**
+SignHash instance
+
+### getDate {#getDate--}
+```
+public Date getDate()
+```
+
+Gets the time of signing.
+
+**Returns:**
+Date value
+
+### getDefaultSignatureLength {#getDefaultSignatureLength--}
+```
+public final int getDefaultSignatureLength()
+```
+
+Gets or sets the default length for the signature data in bytes. This is an estimation of the length of the signature in bytes. Used for signing via {@code CustomSignHash}({@code #getCustomSignHash}/{@code #setCustomSignHash(SignHash)}) if the {@code AvoidEstimatingSignatureLength}({@code #getAvoidEstimatingSignatureLength}/{@code #setAvoidEstimatingSignatureLength(boolean)}) parameter is set. The default value is 3000.
+
+**Returns:**
+int value
+
+### getImageInternal {#getImageInternal--}
+```
+public com.aspose.ms.System.IO.Stream getImageInternal()
+```
+
+Gets image stream. For internal only usage
+
+**Returns:**
+Stream object
+
+### getLocation {#getLocation--}
+```
+public String getLocation()
+```
+
+Gets the CPU host name or physical location of the signing.
+
+**Returns:**
+String value
+
+### getOcspSettings {#getOcspSettings--}
+```
+public OcspSettings getOcspSettings()
+```
+
+Gets/sets ocsp settings.
+
+**Returns:**
+OcspSettings instance
+
+### getReason {#getReason--}
+```
+public String getReason()
+```
+
+Gets the reason for the signing, such as (I agreed!, Pip B.).
+
+**Returns:**
+String value
+
+### getSignatureAlgorithmInfo {#getSignatureAlgorithmInfo--}
+```
+public final com.aspose.pdf.engine.security.SignatureAlgorithmInfo getSignatureAlgorithmInfo()
+```
+
+Retrieves information about the signature algorithm used in the signature.
+
+**Returns:**
+An instance of { SignatureAlgorithmInfo} that contains details about the signature algorithm.
+
+### getSignatureReferences {#getSignatureReferences--}
+```
+public List <com.aspose.pdf.engine.security.impl.signatures.SignatureReference> getSignatureReferences()
+```
+
+get Signature References
+
+**Returns:**
+{@code java.util.List<SignatureReference> object}
+
+### getTimestampSettings {#getTimestampSettings--}
+```
+public TimestampSettings getTimestampSettings()
+```
+
+Gets timestamp settings.
+
+**Returns:**
+TimestampSettings
+
+### getUseLtv {#getUseLtv--}
+```
+public final boolean getUseLtv()
+```
+
+Gets/sets ltv validation flag.
+
+**Returns:**
+boolean value
+
+### isAvoidEstimatingSignatureLength {#isAvoidEstimatingSignatureLength--}
+```
+public final boolean isAvoidEstimatingSignatureLength()
+```
+
+Gets and sets an option means whether to avoid estimating the length of a signature. Avoids to estimate signature length before a signing document. Used for signing via {@code CustomSignHash}({@code #getCustomSignHash}/{@code #setCustomSignHash(SignHash)}) an via {@code ExternalSignature}. If {@code CustomSignHash}({@code #getCustomSignHash}/{@code #setCustomSignHash(SignHash)}) returns a signature longer than {@code DefaultSignatureLength}({@code #getDefaultSignatureLength}/{@code #setDefaultSignatureLength(int)}), then {@code SignatureLengthMismatchException} will be thrown. The default value is {@code false}.
+
+**Returns:**
+boolean value
+
+### isShowProperties {#isShowProperties--}
+```
+public boolean isShowProperties()
+```
+
+Force to show/hide signature properties. In case ShowProperties is true signature field has predefined format of appearance (strings to represent): ------------------------------------------- Digitally signed by {certificate subject} Date: {signature.Date} Reason: {signature.Reason} Location: {signature.Location} ------------------------------------------- where {X} is placeholder for X value. Also signature can have image, in this case listed strings are placed over image. ShowProperties is true by default.
+
+**Returns:**
+boolean value
+
+### setAuthority {#setAuthority-java.lang.String-}
+Sets the name of the person or authority signing the document.
+
+### setAvoidEstimatingSignatureLength {#setAvoidEstimatingSignatureLength-boolean-}
+```
+public final void setAvoidEstimatingSignatureLength(boolean value)
+```
+
+Gets and sets an option means whether to avoid estimating the length of a signature. Avoids to estimate signature length before a signing document. Used for signing via {@code CustomSignHash}({@code #getCustomSignHash}/{@code #setCustomSignHash(SignHash)}) an via {@code ExternalSignature}. If {@code CustomSignHash}({@code #getCustomSignHash}/{@code #setCustomSignHash(SignHash)}) returns a signature longer than {@code DefaultSignatureLength}({@code #getDefaultSignatureLength}/{@code #setDefaultSignatureLength(int)}), then {@code SignatureLengthMismatchException} will be thrown. The default value is {@code false}.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | boolean value |
+
+### setContactInfo {#setContactInfo-java.lang.String-}
+Set information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. a phone number.
+
+### setCustomAppearance {#setCustomAppearance-com.aspose.pdf.SignatureCustomAppearance-}
+Gets/sets the custom appearance.
+
+### setCustomSign {#setCustomSign-com.aspose.pdf.CustomSign-}
+The delegate for custom hash and sign the document (Beta). {@code The algorithm with which you hash and sign the document in the delegate must match the type of the certificate's private key.}
+
+### setCustomSignHash {#setCustomSignHash-com.aspose.pdf.SignHash-}
+The delegate for custom sign the document hash (Beta). {@code The algorithm with which you sign the hash in the delegate must match the type of the certificate's private key.}
+
+### setDate {#setDate-java.util.Date-}
+Set the time of signing.
+
+### setDefaultSignatureLength {#setDefaultSignatureLength-int-}
+```
+public final void setDefaultSignatureLength(int value)
+```
+
+Gets or sets the default length for the signature data in bytes. This is an estimation of the length of the signature in bytes. Used for signing via {@code CustomSignHash}({@code #getCustomSignHash}/{@code #setCustomSignHash(SignHash)}) if the {@code AvoidEstimatingSignatureLength}({@code #getAvoidEstimatingSignatureLength}/{@code #setAvoidEstimatingSignatureLength(boolean)}) parameter is set. The default value is 3000.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | int value |
+
+### setImage {#setImage-java.io.InputStream-}
+Sets image stream.
+
+### setImageInternal {#setImageInternal-com.aspose.ms.System.IO.Stream-}
+
+
+### setLocation {#setLocation-java.lang.String-}
+Sets the CPU host name or physical location of the signing.
+
+### setOcspSettings {#setOcspSettings-com.aspose.pdf.OcspSettings-}
+Gets/sets ocsp settings.
+
+### setReason {#setReason-java.lang.String-}
+Sets the reason for the signing, such as (I agreed!, Pip B.).
+
+### setShowProperties {#setShowProperties-boolean-}
+```
+public void setShowProperties(boolean value)
+```
+
+Force to show/hide signature properties. In case ShowProperties is true signature field has predefined format of appearance (strings to represent): ------------------------------------------- Digitally signed by {certificate subject} Date: {signature.Date} Reason: {signature.Reason} Location: {signature.Location} ------------------------------------------- where {X} is placeholder for X value. Also signature can have image, in this case listed strings are placed over image. ShowProperties is true by default.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | boolean value |
+
+### setTimestampSettings {#setTimestampSettings-com.aspose.pdf.TimestampSettings-}
+Sets timestamp settings.
+
+### setUseLtv {#setUseLtv-boolean-}
+```
+public final void setUseLtv(boolean value)
+```
+
+Gets/sets ltv validation flag.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | boolean value |
+
+### verify {#verify--}
+```
+public boolean verify()
+```
+
+Verify the document regarding this signature and return true if document is valid or otherwise false.
+
+**Returns:**
+true if document is valid.
+
+### verify {#verify-com.aspose.pdf.security.certificatevalidation.ValidationOptions-com.aspose.pdf.security.certificatevalidation.ValidationResult:A-}
+Verify the document regarding this signature and return true if document is valid or otherwise false.
+
+**Returns:**
+true if document is valid.
+
+### verify {#verify-com.aspose.ms.System.Security.Cryptography.X509Certificates.X509Certificate2-com.aspose.pdf.security.certificatevalidation.ValidationOptions-com.aspose.pdf.security.certificatevalidation.ValidationResult:A-}
+Verify the document regarding this signature and return true if document is valid or otherwise false.
+
+**Returns:**
+true if document is valid.

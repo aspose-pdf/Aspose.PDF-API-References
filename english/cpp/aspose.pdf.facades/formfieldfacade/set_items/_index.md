@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/set_items/
 An array of string, each representing an option of a combo box/list/radio box field.
 
 ```cpp
-void Aspose::Pdf::Facades::FormFieldFacade::set_Items(System::ArrayPtr<System::String> value)
+void Aspose::Pdf::Facades::FormFieldFacade::set_Items(const System::ArrayPtr<System::String> &value)
 ```
 
 ## See Also

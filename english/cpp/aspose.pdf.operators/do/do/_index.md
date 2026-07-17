@@ -21,19 +21,19 @@ Aspose::Pdf::Operators::Do::Do()
 * Class [Do](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Do::Do(System::String) constructor
+## Do::Do(const System::String\&) constructor
 
 
 Constructs new [Do](../) operator.
 
 ```cpp
-Aspose::Pdf::Operators::Do::Do(System::String name)
+Aspose::Pdf::Operators::Do::Do(const System::String &name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | Name of invoked XObject. |
+| name | const System::String\& | Name of invoked XObject. |
 
 ## See Also
 

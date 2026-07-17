@@ -27,15 +27,15 @@ class SignOptions : public Aspose::Pdf::LowCode::OrganizerBaseOptions
 | [get_Reason](./get_reason/)() const | The reason of signature. |
 | [get_Rectangle](./get_rectangle/)() const | The rect of signature. |
 | [get_Visible](./get_visible/)() const | The visiblity of signature. |
-| [set_Contact](./set_contact/)(System::String) | The contact of signature. |
-| [set_Location](./set_location/)(System::String) | The location of signature. |
-| [set_Name](./set_name/)(System::String) | The name of existing signature field. Null to create a new field. |
+| [set_Contact](./set_contact/)(const System::String\&) | The contact of signature. |
+| [set_Location](./set_location/)(const System::String\&) | The location of signature. |
+| [set_Name](./set_name/)(const System::String\&) | The name of existing signature field. Null to create a new field. |
 | [set_PageNumber](./set_pagenumber/)(int32_t) | The page number on which signature is made. |
-| [set_Reason](./set_reason/)(System::String) | The reason of signature. |
-| [set_Rectangle](./set_rectangle/)(System::SharedPtr\<Aspose::Pdf::Rectangle\>) | The rect of signature. |
+| [set_Reason](./set_reason/)(const System::String\&) | The reason of signature. |
+| [set_Rectangle](./set_rectangle/)(const System::SharedPtr\<Aspose::Pdf::Rectangle\>\&) | The rect of signature. |
 | [set_Visible](./set_visible/)(bool) | The visiblity of signature. |
-| [SignOptions](./signoptions/)(System::String, System::String) | Initializes new instance of the [SignOptions](./) object with default options. |
-| [SignOptions](./signoptions/)(System::SharedPtr\<System::IO::Stream\>, System::String) | Initializes new instance of the [SignOptions](./) object with default options. |
+| [SignOptions](./signoptions/)(const System::String\&, const System::String\&) | Initializes new instance of the [SignOptions](./) object with default options. |
+| [SignOptions](./signoptions/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&) | Initializes new instance of the [SignOptions](./) object with default options. |
 ## See Also
 
 * Class [OrganizerBaseOptions](../organizerbaseoptions/)

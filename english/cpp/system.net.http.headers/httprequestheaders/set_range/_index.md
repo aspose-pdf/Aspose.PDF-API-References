@@ -10,7 +10,7 @@ url: /cpp/system.net.http.headers/httprequestheaders/set_range/
 ## HttpRequestHeaders::set_Range method
 
 
-Sets a value of the 'Range' header.
+Sets a value of the '[Range](../../../system/range/)' header.
 
 ```cpp
 void System::Net::Http::Headers::HttpRequestHeaders::set_Range(System::SharedPtr<RangeHeaderValue> value)

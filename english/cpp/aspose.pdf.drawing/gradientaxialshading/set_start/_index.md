@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/gradientaxialshading/set_start/
 Sets start point.
 
 ```cpp
-void Aspose::Pdf::Drawing::GradientAxialShading::set_Start(System::SharedPtr<Point> value)
+void Aspose::Pdf::Drawing::GradientAxialShading::set_Start(const System::SharedPtr<Point> &value)
 ```
 
 ## See Also

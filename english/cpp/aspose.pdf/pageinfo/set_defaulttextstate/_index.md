@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pageinfo/set_defaulttextstate/
 Sets default font.
 
 ```cpp
-void Aspose::Pdf::PageInfo::set_DefaultTextState(System::SharedPtr<Text::TextState> value)
+void Aspose::Pdf::PageInfo::set_DefaultTextState(const System::SharedPtr<Text::TextState> &value)
 ```
 
 ## See Also

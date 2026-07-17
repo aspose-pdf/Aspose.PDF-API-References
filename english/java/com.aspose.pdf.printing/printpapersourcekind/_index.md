@@ -1,28 +1,26 @@
 ---
 title: PrintPaperSourceKind
+linktitle: PrintPaperSourceKind
 second_title: Aspose.PDF for Java API Reference
 description: Standard paper sources.
 type: docs
-weight: 20
+weight: 130
 url: /java/com.aspose.pdf.printing/printpapersourcekind/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.printing.PrintPaperSourceKind
+
 ```
-public class PrintPaperSourceKind
+public class PrintPaperSourceKind extends Object
 ```
 
 Standard paper sources.
-## Constructors
 
-| Constructor | Description |
-| --- | --- |
-| [PrintPaperSourceKind()](#PrintPaperSourceKind--) |  |
 ## Fields
 
 | Field | Description |
 | --- | --- |
-| [USStandardFanfold](#USStandardFanfold) | Standard PaperSource type |
+| [AutomaticFeed](#AutomaticFeed) | Standard PaperSource type |
 | [Cassette](#Cassette) | Standard PaperSource type |
 | [Custom](#Custom) | Standard PaperSource type |
 | [Envelope](#Envelope) | Standard PaperSource type |
@@ -36,23 +34,25 @@ Standard paper sources.
 | [SmallFormat](#SmallFormat) | Standard PaperSource type |
 | [TractorFeed](#TractorFeed) | Standard PaperSource type |
 | [Upper](#Upper) | Standard PaperSource type |
+| [USStandardFanfold](#USStandardFanfold) | Standard PaperSource type |
+
+## Constructors
+
+| Constructor | Description |
+| --- | --- |
+| [PrintPaperSourceKind](#PrintPaperSourceKind--) |  |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [toString(int pdfPrintRange)](#toString-int-) | PaperSourceKind name |
-| [getNames()](#getNames--) | Array of Paper format names |
-### PrintPaperSourceKind() {#PrintPaperSourceKind--}
-```
-public PrintPaperSourceKind()
-```
+| [getNames](#getNames--) | Array of Paper format names |
+| [toString](#toString-int-) | PaperSourceKind name |
 
-
-### USStandardFanfold {#USStandardFanfold}
+### AutomaticFeed {#AutomaticFeed}
 ```
-public static final int USStandardFanfold
+public static final int AutomaticFeed
 ```
-
 
 Standard PaperSource type
 
@@ -61,14 +61,12 @@ Standard PaperSource type
 public static final int Cassette
 ```
 
-
 Standard PaperSource type
 
 ### Custom {#Custom}
 ```
 public static final int Custom
 ```
-
 
 Standard PaperSource type
 
@@ -77,14 +75,12 @@ Standard PaperSource type
 public static final int Envelope
 ```
 
-
 Standard PaperSource type
 
 ### FormSource {#FormSource}
 ```
 public static final int FormSource
 ```
-
 
 Standard PaperSource type
 
@@ -93,14 +89,12 @@ Standard PaperSource type
 public static final int LargeCapacity
 ```
 
-
 Standard PaperSource type
 
 ### LargeFormat {#LargeFormat}
 ```
 public static final int LargeFormat
 ```
-
 
 Standard PaperSource type
 
@@ -109,14 +103,12 @@ Standard PaperSource type
 public static final int Lower
 ```
 
-
 Standard PaperSource type
 
 ### Manual {#Manual}
 ```
 public static final int Manual
 ```
-
 
 Standard PaperSource type
 
@@ -125,14 +117,12 @@ Standard PaperSource type
 public static final int ManualFeed
 ```
 
-
 Standard PaperSource type
 
 ### Middle {#Middle}
 ```
 public static final int Middle
 ```
-
 
 Standard PaperSource type
 
@@ -141,14 +131,12 @@ Standard PaperSource type
 public static final int SmallFormat
 ```
 
-
 Standard PaperSource type
 
 ### TractorFeed {#TractorFeed}
 ```
 public static final int TractorFeed
 ```
-
 
 Standard PaperSource type
 
@@ -157,31 +145,43 @@ Standard PaperSource type
 public static final int Upper
 ```
 
+Standard PaperSource type
+
+### USStandardFanfold {#USStandardFanfold}
+```
+public static final int USStandardFanfold
+```
 
 Standard PaperSource type
 
-### toString(int pdfPrintRange) {#toString-int-}
+### PrintPaperSourceKind {#PrintPaperSourceKind--}
+```
+public PrintPaperSourceKind()
+```
+
+
+
+### getNames {#getNames--}
+```
+public static String [] getNames()
+```
+
+Array of Paper format names
+
+**Returns:**
+String[] object
+
+### toString {#toString-int-}
 ```
 public static String toString(int pdfPrintRange)
 ```
-
 
 PaperSourceKind name
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pdfPrintRange | int | string object |
+| pdfPrintRange |  | string object |
 
 **Returns:**
-java.lang.String - String object
-### getNames() {#getNames--}
-```
-public static String[] getNames()
-```
-
-
-Array of Paper format names
-
-**Returns:**
-java.lang.String[] - String[] object
+String object @see PrinterPaperKind

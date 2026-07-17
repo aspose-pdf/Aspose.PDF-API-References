@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.text/folderfontsource/folderfontsource/
 Initializes a new instance of [FolderFontSource](../) class.
 
 ```cpp
-Aspose::Pdf::Text::FolderFontSource::FolderFontSource(System::String folderPath)
+Aspose::Pdf::Text::FolderFontSource::FolderFontSource(const System::String &folderPath)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| folderPath | System::String | Path to the folder. |
+| folderPath | const System::String\& | Path to the folder. |
 
 ## See Also
 

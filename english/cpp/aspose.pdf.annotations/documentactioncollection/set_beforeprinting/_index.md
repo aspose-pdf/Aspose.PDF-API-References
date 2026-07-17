@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/documentactioncollection/set_beforeprinting/
 Action that will be performed before document printing.
 
 ```cpp
-void Aspose::Pdf::Annotations::DocumentActionCollection::set_BeforePrinting(System::SharedPtr<PdfAction> value)
+void Aspose::Pdf::Annotations::DocumentActionCollection::set_BeforePrinting(const System::SharedPtr<PdfAction> &value)
 ```
 
 ## See Also

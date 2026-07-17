@@ -21,40 +21,19 @@ Aspose::Pdf::Operators::ShowText::ShowText()
 * Class [ShowText](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)
-## ShowText::ShowText(int32_t, System::String) constructor
-
-
-Initializes Tj opearor.
-
-```cpp
-Aspose::Pdf::Operators::ShowText::ShowText(int32_t index, System::String text)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int32_t | Index of operator in operators list. |
-| text | System::String | argument of the operator. |
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [ShowText](../)
-* Namespace [Aspose::Pdf::Operators](../../)
-* Library [Aspose.PDF for C++](../../../)
-## ShowText::ShowText(System::String) constructor
+## ShowText::ShowText(const System::String\&) constructor
 
 
 Initializes Tj operator.
 
 ```cpp
-Aspose::Pdf::Operators::ShowText::ShowText(System::String text)
+Aspose::Pdf::Operators::ShowText::ShowText(const System::String &text)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | System::String | argument of the operator. |
+| text | const System::String\& | argument of the operator. |
 
 ## See Also
 
@@ -62,26 +41,47 @@ Aspose::Pdf::Operators::ShowText::ShowText(System::String text)
 * Class [ShowText](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)
-## ShowText::ShowText(System::String, System::SharedPtr\<Text::Font\>) constructor
+## ShowText::ShowText(const System::String\&, const System::SharedPtr\<Text::Font\>\&) constructor
 
 
 Initializes Tj opearor.
 
 ```cpp
-Aspose::Pdf::Operators::ShowText::ShowText(System::String text, System::SharedPtr<Text::Font> font)
+Aspose::Pdf::Operators::ShowText::ShowText(const System::String &text, const System::SharedPtr<Text::Font> &font)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | System::String | text to add. |
-| font | System::SharedPtr\<Text::Font\> | font that is used to draw the text. |
+| text | const System::String\& | text to add. |
+| font | const System::SharedPtr\<Text::Font\>\& | font that is used to draw the text. |
 
 ## See Also
 
 * Class [String](../../../system/string/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Font](../../../aspose.pdf.text/font/)
+* Class [ShowText](../)
+* Namespace [Aspose::Pdf::Operators](../../)
+* Library [Aspose.PDF for C++](../../../)
+## ShowText::ShowText(int32_t, const System::String\&) constructor
+
+
+Initializes Tj opearor.
+
+```cpp
+Aspose::Pdf::Operators::ShowText::ShowText(int32_t index, const System::String &text)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| index | int32_t | Index of operator in operators list. |
+| text | const System::String\& | argument of the operator. |
+
+## See Also
+
+* Class [String](../../../system/string/)
 * Class [ShowText](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

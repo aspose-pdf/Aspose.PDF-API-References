@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/tocinfo/set_columninfo/
 Sets column info.
 
 ```cpp
-void Aspose::Pdf::TocInfo::set_ColumnInfo(System::SharedPtr<Aspose::Pdf::ColumnInfo> value)
+void Aspose::Pdf::TocInfo::set_ColumnInfo(const System::SharedPtr<Aspose::Pdf::ColumnInfo> &value)
 ```
 
 ## See Also

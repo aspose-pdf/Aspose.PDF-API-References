@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dartwork/set_lightingscheme/
 Sets the lighting scheme.
 
 ```cpp
-void Aspose::Pdf::Annotations::PDF3DArtwork::set_LightingScheme(System::SharedPtr<PDF3DLightingScheme> value)
+void Aspose::Pdf::Annotations::PDF3DArtwork::set_LightingScheme(const System::SharedPtr<PDF3DLightingScheme> &value)
 ```
 
 ## Remarks

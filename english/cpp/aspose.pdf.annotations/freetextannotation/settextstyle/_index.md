@@ -29,20 +29,20 @@ void Aspose::Pdf::Annotations::FreeTextAnnotation::SetTextStyle(int32_t fromInd,
 * Class [FreeTextAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## FreeTextAnnotation::SetTextStyle(RichTextFontStyles, System::String, double, System::Drawing::Color) method
+## FreeTextAnnotation::SetTextStyle(RichTextFontStyles, const System::String\&, double, System::Drawing::Color) method
 
 
 Sets the formatting determined by the parameter textStyle for all annotation text.
 
 ```cpp
-void Aspose::Pdf::Annotations::FreeTextAnnotation::SetTextStyle(RichTextFontStyles textStyles, System::String fontName, double fontSize, System::Drawing::Color fontColor)
+void Aspose::Pdf::Annotations::FreeTextAnnotation::SetTextStyle(RichTextFontStyles textStyles, const System::String &fontName, double fontSize, System::Drawing::Color fontColor)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | textStyles | RichTextFontStyles | Style(s) applied for annotation text. |
-| fontName | System::String | Font name applied for annotation text. |
+| fontName | const System::String\& | Font name applied for annotation text. |
 | fontSize | double | Font size applied for annotation text. |
 | fontColor | System::Drawing::Color | Font color applied for annotation text. |
 

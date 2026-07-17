@@ -7,20 +7,20 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf.forms/signaturefield/signaturefield/
 ---
-## SignatureField::SignatureField(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) constructor
+## SignatureField::SignatureField(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&) constructor
 
 
 Initializes new instance of the [SignatureField](../) class.
 
 ```cpp
-Aspose::Pdf::Forms::SignatureField::SignatureField(System::SharedPtr<Aspose::Pdf::Page> page, System::SharedPtr<Rectangle> rect)
+Aspose::Pdf::Forms::SignatureField::SignatureField(const System::SharedPtr<Aspose::Pdf::Page> &page, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | [Page](../../../aspose.pdf/page/) where signature field should be placed. |
-| rect | System::SharedPtr\<Rectangle\> | Position and size of signature field. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | [Page](../../../aspose.pdf/page/) where signature field should be placed. |
+| rect | const System::SharedPtr\<Rectangle\>\& | Position and size of signature field. |
 
 ## See Also
 
@@ -30,20 +30,20 @@ Aspose::Pdf::Forms::SignatureField::SignatureField(System::SharedPtr<Aspose::Pdf
 * Class [SignatureField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## SignatureField::SignatureField(System::SharedPtr\<Document\>, System::SharedPtr\<Rectangle\>) constructor
+## SignatureField::SignatureField(const System::SharedPtr\<Document\>\&, const System::SharedPtr\<Rectangle\>\&) constructor
 
 
 Initializes new instance of the [SignatureField](../) class.
 
 ```cpp
-Aspose::Pdf::Forms::SignatureField::SignatureField(System::SharedPtr<Document> doc, System::SharedPtr<Rectangle> rect)
+Aspose::Pdf::Forms::SignatureField::SignatureField(const System::SharedPtr<Document> &doc, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | System::SharedPtr\<Document\> | [Page](../../../aspose.pdf/page/) where signature field should be placed. |
-| rect | System::SharedPtr\<Rectangle\> | Position and size of signature field. |
+| doc | const System::SharedPtr\<Document\>\& | [Page](../../../aspose.pdf/page/) where signature field should be placed. |
+| rect | const System::SharedPtr\<Rectangle\>\& | Position and size of signature field. |
 
 ## See Also
 

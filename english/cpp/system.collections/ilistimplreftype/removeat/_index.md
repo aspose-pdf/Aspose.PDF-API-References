@@ -19,7 +19,7 @@ virtual void System::Collections::IListImplRefType<T>::RemoveAt(int index) overr
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to delete item at. |
+| index | int | [Index](../../../system/index/) to delete item at. |
 
 ## See Also
 

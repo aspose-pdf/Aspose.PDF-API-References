@@ -27,11 +27,11 @@ class XFA : public System::Object
 | [get_NamespaceManager](./get_namespacemanager/)() | Gets the namespace for the [XFA](./) form. The following namepsaces are defined: "data" for form data and "tpl" for form template. |
 | [get_Template](./get_template/)() | [XFA](./) Template component of an [XFA](./) form. |
 | [get_XDP](./get_xdp/)() | XML Data Package (all [XFA](./) form components within a surrounding XML container). |
-| [GetFieldTemplate](./getfieldtemplate/)(System::String) | Returns XML node of [XFA](./) field tempalte. |
+| [GetFieldTemplate](./getfieldtemplate/)(const System::String\&) | Returns XML node of [XFA](./) field tempalte. |
 | [GetFieldTemplates](./getfieldtemplates/)() | Returns list of all field templates on [XFA](./) form. |
-| [idx_get](./idx_get/)(System::String) | Gets of sets data node value according *path* . |
-| [idx_set](./idx_set/)(System::String, System::String) | Gets of sets data node value according *path* . |
-| [SetFieldImage](./setfieldimage/)(System::String, System::SharedPtr\<System::IO::Stream\>) | Sets image for [XFA](./) field. |
+| [idx_get](./idx_get/)(const System::String\&) | Gets of sets data node value according *path* . |
+| [idx_set](./idx_set/)(const System::String\&, const System::String\&) | Gets of sets data node value according *path* . |
+| [SetFieldImage](./setfieldimage/)(const System::String\&, const System::SharedPtr\<System::IO::Stream\>\&) | Sets image for [XFA](./) field. |
 ## See Also
 
 * Class [Object](../../system/object/)

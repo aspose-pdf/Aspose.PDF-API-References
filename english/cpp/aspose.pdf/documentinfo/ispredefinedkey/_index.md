@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/documentinfo/ispredefinedkey/
 Determines if the key is predefined (Title, Author, etc.), not custom.
 
 ```cpp
-static bool Aspose::Pdf::DocumentInfo::IsPredefinedKey(System::String key)
+static bool Aspose::Pdf::DocumentInfo::IsPredefinedKey(const System::String &key)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | System::String | Selected key |
+| key | const System::String\& | Selected key |
 
 ### ReturnValue
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/signoptions/set_name/
 The name of existing signature field. Null to create a new field.
 
 ```cpp
-void Aspose::Pdf::LowCode::SignOptions::set_Name(System::String value)
+void Aspose::Pdf::LowCode::SignOptions::set_Name(const System::String &value)
 ```
 
 ## See Also

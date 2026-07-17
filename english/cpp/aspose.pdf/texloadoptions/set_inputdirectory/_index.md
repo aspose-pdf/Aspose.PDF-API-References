@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/texloadoptions/set_inputdirectory/
 Gets/sets TeX input directory.
 
 ```cpp
-void Aspose::Pdf::TeXLoadOptions::set_InputDirectory(System::SharedPtr<ITeXInputDirectory> value)
+void Aspose::Pdf::TeXLoadOptions::set_InputDirectory(const System::SharedPtr<ITeXInputDirectory> &value)
 ```
 
 ## See Also

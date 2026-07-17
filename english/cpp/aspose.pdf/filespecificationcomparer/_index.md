@@ -21,7 +21,7 @@ class FileSpecificationComparer : public System::Collections::Generic::IComparer
 | Method | Description |
 | --- | --- |
 | [Compare](./compare/)(const System::SharedPtr\<FileSpecification\>\&, const System::SharedPtr\<FileSpecification\>\&) const override | Compares two file specifications according to the collection definition, using the specified sort. |
-| [FileSpecificationComparer](./filespecificationcomparer/)(System::SharedPtr\<CollectionSort\>) | Creates a file specification comparer. |
+| [FileSpecificationComparer](./filespecificationcomparer/)(const System::SharedPtr\<CollectionSort\>\&) | Creates a file specification comparer. |
 ## See Also
 
 * Class [IComparer](../../system.collections.generic/icomparer/)

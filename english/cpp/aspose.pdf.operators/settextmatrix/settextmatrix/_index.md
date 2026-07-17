@@ -2,11 +2,32 @@
 title: Aspose::Pdf::Operators::SetTextMatrix::SetTextMatrix constructor
 linktitle: SetTextMatrix
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Operators::SetTextMatrix::SetTextMatrix constructor. Initializes operator in C++.'
+description: 'Aspose::Pdf::Operators::SetTextMatrix::SetTextMatrix constructor. Initializes operator by matrix in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.pdf.operators/settextmatrix/settextmatrix/
 ---
+## SetTextMatrix::SetTextMatrix(const System::SharedPtr\<Aspose::Pdf::Matrix\>\&) constructor
+
+
+Initializes operator by matrix.
+
+```cpp
+Aspose::Pdf::Operators::SetTextMatrix::SetTextMatrix(const System::SharedPtr<Aspose::Pdf::Matrix> &m)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| m | const System::SharedPtr\<Aspose::Pdf::Matrix\>\& | Transfomation matrix. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Matrix](../../../aspose.pdf/matrix/)
+* Class [SetTextMatrix](../)
+* Namespace [Aspose::Pdf::Operators](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## SetTextMatrix::SetTextMatrix(double, double, double, double, double, double) constructor
 
 
@@ -28,27 +49,6 @@ Aspose::Pdf::Operators::SetTextMatrix::SetTextMatrix(double a, double b, double 
 
 ## See Also
 
-* Class [SetTextMatrix](../)
-* Namespace [Aspose::Pdf::Operators](../../)
-* Library [Aspose.PDF for C++](../../../)
-## SetTextMatrix::SetTextMatrix(System::SharedPtr\<Aspose::Pdf::Matrix\>) constructor
-
-
-Initializes operator by matrix.
-
-```cpp
-Aspose::Pdf::Operators::SetTextMatrix::SetTextMatrix(System::SharedPtr<Aspose::Pdf::Matrix> m)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| m | System::SharedPtr\<Aspose::Pdf::Matrix\> | Transfomation matrix. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Matrix](../../../aspose.pdf/matrix/)
 * Class [SetTextMatrix](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

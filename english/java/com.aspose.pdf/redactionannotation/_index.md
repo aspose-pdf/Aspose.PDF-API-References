@@ -1,331 +1,230 @@
 ---
 title: RedactionAnnotation
+linktitle: RedactionAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Represents Redact annotation.
 type: docs
-weight: 306
+weight: 4120
 url: /java/com.aspose.pdf/redactionannotation/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.BaseParagraph](../../com.aspose.pdf/baseparagraph), [com.aspose.pdf.Annotation](../../com.aspose.pdf/annotation), [com.aspose.pdf.MarkupAnnotation](../../com.aspose.pdf/markupannotation)
+java.lang.Object, com.aspose.pdf.BaseParagraph com.aspose.pdf.Annotation com.aspose.pdf.MarkupAnnotation com.aspose.pdf.RedactionAnnotation, com.aspose.pdf.BaseParagraph, com.aspose.pdf.Annotation com.aspose.pdf.MarkupAnnotation com.aspose.pdf.RedactionAnnotation, com.aspose.pdf.Annotation, com.aspose.pdf.MarkupAnnotation com.aspose.pdf.RedactionAnnotation, com.aspose.pdf.MarkupAnnotation, com.aspose.pdf.RedactionAnnotation
+
+**All Implemented Interfaces:**
+com.aspose.ms.System.ICloneable, com.aspose.pdf.engine.ITitledAnnotation
+
 ```
 public final class RedactionAnnotation extends MarkupAnnotation
 ```
 
 Represents Redact annotation.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [RedactionAnnotation(IDocument document)](#RedactionAnnotation-com.aspose.pdf.IDocument-) | Constructor for RedactionAnnotation. |
-| [RedactionAnnotation(Page page, Rectangle rect)](#RedactionAnnotation-com.aspose.pdf.Page-com.aspose.pdf.Rectangle-) | Constructor for RedactAnnotation. |
+| [RedactionAnnotation](#RedactionAnnotation-com.aspose.pdf.IDocument-) | Constructor for RedactionAnnotation. For using in Generator. |
+| [RedactionAnnotation](#RedactionAnnotation-com.aspose.pdf.Page-com.aspose.pdf.Rectangle-) | Constructor for RedactAnnotation. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [accept(AnnotationSelector visitor)](#accept-com.aspose.pdf.AnnotationSelector-) | Accepts visitor object to process the annotation. |
-| [getQuadPoint()](#getQuadPoint--) | An array of 8xN numbers specifying the coordinates of content region that is intended to be removed. |
-| [setQuadPoint(Point[] value)](#setQuadPoint-com.aspose.pdf.Point---) | An array of 8xN numbers specifying the coordinates of content region that is intended to be removed. |
-| [getQuadPoints()](#getQuadPoints--) | Gets an array of points specifying the coordinates of n quadrilaterals. |
-| [setQuadPoints(Point[] value)](#setQuadPoints-com.aspose.pdf.Point---) | Sets an array of points specifying the coordinates of n quadrilaterals. |
-| [getDefaultAppearance()](#getDefaultAppearance--) | Gets or sets the default appearance string to be used in formatting the text. |
-| [setDefaultAppearance(String value)](#setDefaultAppearance-java.lang.String-) | Gets or sets the default appearance string to be used in formatting the text. |
-| [getFillColor()](#getFillColor--) | Gets color to fill annotation. |
-| [setFillColor(Color value)](#setFillColor-com.aspose.pdf.Color-) | Sets color to fill annotation. |
-| [getBorderColor()](#getBorderColor--) | Gets color of border which is drawn when redaction is not active. |
-| [setBorderColor(Color value)](#setBorderColor-com.aspose.pdf.Color-) | Sets color of border which is drawn when redaction is not active. |
-| [getOverlayText()](#getOverlayText--) | Gets text to print on redact annotation. |
-| [setOverlayText(String value)](#setOverlayText-java.lang.String-) | Sets text to print on redact annotation. |
-| [getFontSize()](#getFontSize--) | Gets font size for OverlayText. |
-| [setFontSize(float fontSize)](#setFontSize-float-) | Sets font size for OverlayText. |
-| [isRepeat()](#isRepeat--) | If true overlay text will be repated on the annotation. |
-| [setRepeat(boolean value)](#setRepeat-boolean-) | If true overlay text will be repated on the annotation. |
-| [getTextAlignment()](#getTextAlignment--) | Gets alignment of Overlay Text. |
-| [setTextAlignment(HorizontalAlignment value)](#setTextAlignment-com.aspose.pdf.HorizontalAlignment-) | Sets alignment of Overlay Text. |
-| [flatten()](#flatten--) | Flattens annotation i.e. |
-| [redact()](#redact--) | Flattens annotation and redacts page contents (i.e. |
-| [redactExact()](#redactExact--) | Flattens annotation and redacts page contents (i.e. |
-| [getAnnotationType()](#getAnnotationType--) | Gets type of annotation. |
-### RedactionAnnotation(IDocument document) {#RedactionAnnotation-com.aspose.pdf.IDocument-}
-```
-public RedactionAnnotation(IDocument document)
-```
+| [accept](#accept-com.aspose.pdf.AnnotationSelector-) | Accepts visitor object to process the annotation. |
+| [flatten](#flatten--) | Flattens annotation i.e. removes annotation and adds its content |
+| [getAnnotationType](#getAnnotationType--) | Gets type of annotation. |
+| [getBorderColor](#getBorderColor--) | Gets color of border which is drawn when redaction is not active. |
+| [getDefaultAppearance](#getDefaultAppearance--) | Gets or sets the default appearance string to be used in formatting the text. |
+| [getFillColor](#getFillColor--) | Gets color to fill annotation. |
+| [getFontSize](#getFontSize--) | Gets font size for OverlayText. |
+| [getOverlayText](#getOverlayText--) | Gets text to print on redact annotation. |
+| [getQuadPoint](#getQuadPoint--) | An array of 8xN numbers specifying the coordinates of content region that is intended to be removed. |
+| [getQuadPoints](#getQuadPoints--) | Gets an array of points specifying the coordinates of n quadrilaterals. Each quadrilateral encompasses a word or group of contiguous words in the text underlying the annotation. |
+| [getTextAlignment](#getTextAlignment--) | Gets alignment of Overlay Text. |
+| [isRepeat](#isRepeat--) | If true overlay text will be repeated on the annotation. |
+| [redact](#redact--) | Flattens annotation and redacts page contents (i.e. removes text and image content under redacted annotation) |
+| [redactExact](#redactExact--) | Flattens annotation and redacts page contents (i.e. removes text and image content exactly under redacted annotation) |
+| [setBorderColor](#setBorderColor-com.aspose.pdf.Color-) | Sets color of border which is drawn when redaction is not active. |
+| [setDefaultAppearance](#setDefaultAppearance-java.lang.String-) | Gets or sets the default appearance string to be used in formatting the text. |
+| [setFillColor](#setFillColor-com.aspose.pdf.Color-) | Sets color to fill annotation. |
+| [setFontSize](#setFontSize-float-) | Sets font size for OverlayText. Default value is 10. |
+| [setOverlayText](#setOverlayText-java.lang.String-) | Sets text to print on redact annotation. |
+| [setQuadPoint](#setQuadPoint-com.aspose.pdf.Point:A-) | An array of 8xN numbers specifying the coordinates of content region that is intended to be removed. |
+| [setQuadPoints](#setQuadPoints-com.aspose.pdf.Point:A-) | Sets an array of points specifying the coordinates of n quadrilaterals. Each quadrilateral encompasses a word or group of contiguous words in the text underlying the annotation. |
+| [setRepeat](#setRepeat-boolean-) | If true overlay text will be repeated on the annotation. |
+| [setTextAlignment](#setTextAlignment-com.aspose.pdf.HorizontalAlignment-) | Sets alignment of Overlay Text. |
 
-
+### RedactionAnnotation {#RedactionAnnotation-com.aspose.pdf.IDocument-}
 Constructor for RedactionAnnotation. For using in Generator.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | [IDocument](../../com.aspose.pdf/idocument) | Document where new annotation will be created. |
-
-### RedactionAnnotation(Page page, Rectangle rect) {#RedactionAnnotation-com.aspose.pdf.Page-com.aspose.pdf.Rectangle-}
-```
-public RedactionAnnotation(Page page, Rectangle rect)
-```
-
-
+### RedactionAnnotation {#RedactionAnnotation-com.aspose.pdf.Page-com.aspose.pdf.Rectangle-}
 Constructor for RedactAnnotation.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | [Page](../../com.aspose.pdf/page) | Page where annotation will be placed. |
-| rect | [Rectangle](../../com.aspose.pdf/rectangle) | Annotation position on the page. |
-
-### accept(AnnotationSelector visitor) {#accept-com.aspose.pdf.AnnotationSelector-}
-```
-public void accept(AnnotationSelector visitor)
-```
-
-
+### accept {#accept-com.aspose.pdf.AnnotationSelector-}
 Accepts visitor object to process the annotation.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| visitor | [AnnotationSelector](../../com.aspose.pdf/annotationselector) | Visitor object. |
-
-### getQuadPoint() {#getQuadPoint--}
-```
-public Point[] getQuadPoint()
-```
-
-
-An array of 8xN numbers specifying the coordinates of content region that is intended to be removed.
-
-**Returns:**
-com.aspose.pdf.Point[] - array of point
-### setQuadPoint(Point[] value) {#setQuadPoint-com.aspose.pdf.Point---}
-```
-public void setQuadPoint(Point[] value)
-```
-
-
-An array of 8xN numbers specifying the coordinates of content region that is intended to be removed.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Point\[\]](../../com.aspose.pdf/point) | array of point |
-
-### getQuadPoints() {#getQuadPoints--}
-```
-public Point[] getQuadPoints()
-```
-
-
-Gets an array of points specifying the coordinates of n quadrilaterals. Each quadrilateral encompasses a word or group of contiguous words in the text underlying the annotation.
-
-**Returns:**
-com.aspose.pdf.Point[] - array of Point value
-### setQuadPoints(Point[] value) {#setQuadPoints-com.aspose.pdf.Point---}
-```
-public void setQuadPoints(Point[] value)
-```
-
-
-Sets an array of points specifying the coordinates of n quadrilaterals. Each quadrilateral encompasses a word or group of contiguous words in the text underlying the annotation.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Point\[\]](../../com.aspose.pdf/point) | array of Point value |
-
-### getDefaultAppearance() {#getDefaultAppearance--}
-```
-public final String getDefaultAppearance()
-```
-
-
-Gets or sets the default appearance string to be used in formatting the text.
-
-**Returns:**
-java.lang.String - String value
-### setDefaultAppearance(String value) {#setDefaultAppearance-java.lang.String-}
-```
-public final void setDefaultAppearance(String value)
-```
-
-
-Gets or sets the default appearance string to be used in formatting the text.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### getFillColor() {#getFillColor--}
-```
-public Color getFillColor()
-```
-
-
-Gets color to fill annotation.
-
-**Returns:**
-[Color](../../com.aspose.pdf/color) - color value
-### setFillColor(Color value) {#setFillColor-com.aspose.pdf.Color-}
-```
-public void setFillColor(Color value)
-```
-
-
-Sets color to fill annotation.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Color](../../com.aspose.pdf/color) | color value |
-
-### getBorderColor() {#getBorderColor--}
-```
-public Color getBorderColor()
-```
-
-
-Gets color of border which is drawn when redaction is not active.
-
-**Returns:**
-[Color](../../com.aspose.pdf/color) - Color value
-### setBorderColor(Color value) {#setBorderColor-com.aspose.pdf.Color-}
-```
-public void setBorderColor(Color value)
-```
-
-
-Sets color of border which is drawn when redaction is not active.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Color](../../com.aspose.pdf/color) | Color value |
-
-### getOverlayText() {#getOverlayText--}
-```
-public String getOverlayText()
-```
-
-
-Gets text to print on redact annotation.
-
-**Returns:**
-java.lang.String - string value
-### setOverlayText(String value) {#setOverlayText-java.lang.String-}
-```
-public void setOverlayText(String value)
-```
-
-
-Sets text to print on redact annotation.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | string object |
-
-### getFontSize() {#getFontSize--}
-```
-public final float getFontSize()
-```
-
-
-Gets font size for OverlayText.
-
-**Returns:**
-float - int value
-### setFontSize(float fontSize) {#setFontSize-float-}
-```
-public final void setFontSize(float fontSize)
-```
-
-
-Sets font size for OverlayText.
-
-Default value is 10.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fontSize | float | int value |
-
-### isRepeat() {#isRepeat--}
-```
-public boolean isRepeat()
-```
-
-
-If true overlay text will be repated on the annotation.
-
-**Returns:**
-boolean - boolean value
-### setRepeat(boolean value) {#setRepeat-boolean-}
-```
-public void setRepeat(boolean value)
-```
-
-
-If true overlay text will be repated on the annotation.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### getTextAlignment() {#getTextAlignment--}
-```
-public HorizontalAlignment getTextAlignment()
-```
-
-
-Gets alignment of Overlay Text.
-
-**Returns:**
-[HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) - HorizontalAlignment value
-### setTextAlignment(HorizontalAlignment value) {#setTextAlignment-com.aspose.pdf.HorizontalAlignment-}
-```
-public void setTextAlignment(HorizontalAlignment value)
-```
-
-
-Sets alignment of Overlay Text.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) | HorizontalAlignment value |
-
-### flatten() {#flatten--}
+### flatten {#flatten--}
 ```
 public void flatten()
 ```
 
-
 Flattens annotation i.e. removes annotation and adds its content
 
-### redact() {#redact--}
-```
-public void redact()
-```
-
-
-Flattens annotation and redacts page contents (i.e. removes text and image content under redacted annotation)
-
-### redactExact() {#redactExact--}
-```
-public void redactExact()
-```
-
-
-Flattens annotation and redacts page contents (i.e. removes text and image content exactly under redacted annotation)
-
-### getAnnotationType() {#getAnnotationType--}
+### getAnnotationType {#getAnnotationType--}
 ```
 public AnnotationType getAnnotationType()
 ```
 
-
 Gets type of annotation.
 
 **Returns:**
-[AnnotationType](../../com.aspose.pdf/annotationtype) - AnnotationType element
+AnnotationType element @see AnnotationType
+
+### getBorderColor {#getBorderColor--}
+```
+public Color getBorderColor()
+```
+
+Gets color of border which is drawn when redaction is not active.
+
+**Returns:**
+Color value
+
+### getDefaultAppearance {#getDefaultAppearance--}
+```
+public final String getDefaultAppearance()
+```
+
+Gets or sets the default appearance string to be used in formatting the text.
+
+**Returns:**
+String value
+
+### getFillColor {#getFillColor--}
+```
+public Color getFillColor()
+```
+
+Gets color to fill annotation.
+
+**Returns:**
+color value
+
+### getFontSize {#getFontSize--}
+```
+public final float getFontSize()
+```
+
+Gets font size for OverlayText.
+
+**Returns:**
+int value
+
+### getOverlayText {#getOverlayText--}
+```
+public String getOverlayText()
+```
+
+Gets text to print on redact annotation.
+
+**Returns:**
+string value
+
+### getQuadPoint {#getQuadPoint--}
+```
+public Point [] getQuadPoint()
+```
+
+An array of 8xN numbers specifying the coordinates of content region that is intended to be removed.
+
+**Returns:**
+array of point
+
+### getQuadPoints {#getQuadPoints--}
+```
+@Deprecated public Point [] getQuadPoints()
+```
+
+Gets an array of points specifying the coordinates of n quadrilaterals. Each quadrilateral encompasses a word or group of contiguous words in the text underlying the annotation.
+
+**Returns:**
+array of Point value
+
+### getTextAlignment {#getTextAlignment--}
+```
+public HorizontalAlignment getTextAlignment()
+```
+
+Gets alignment of Overlay Text.
+
+**Returns:**
+HorizontalAlignment value @see HorizontalAlignment
+
+### isRepeat {#isRepeat--}
+```
+public boolean isRepeat()
+```
+
+If true overlay text will be repeated on the annotation.
+
+**Returns:**
+boolean value
+
+### redact {#redact--}
+```
+public void redact()
+```
+
+Flattens annotation and redacts page contents (i.e. removes text and image content under redacted annotation)
+
+### redactExact {#redactExact--}
+```
+public void redactExact()
+```
+
+Flattens annotation and redacts page contents (i.e. removes text and image content exactly under redacted annotation)
+
+### setBorderColor {#setBorderColor-com.aspose.pdf.Color-}
+Sets color of border which is drawn when redaction is not active.
+
+### setDefaultAppearance {#setDefaultAppearance-java.lang.String-}
+Gets or sets the default appearance string to be used in formatting the text.
+
+### setFillColor {#setFillColor-com.aspose.pdf.Color-}
+Sets color to fill annotation.
+
+### setFontSize {#setFontSize-float-}
+```
+public final void setFontSize(float fontSize)
+```
+
+Sets font size for OverlayText. Default value is 10.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fontSize |  | int value |
+
+### setOverlayText {#setOverlayText-java.lang.String-}
+Sets text to print on redact annotation.
+
+### setQuadPoint {#setQuadPoint-com.aspose.pdf.Point:A-}
+An array of 8xN numbers specifying the coordinates of content region that is intended to be removed.
+
+### setQuadPoints {#setQuadPoints-com.aspose.pdf.Point:A-}
+Sets an array of points specifying the coordinates of n quadrilaterals. Each quadrilateral encompasses a word or group of contiguous words in the text underlying the annotation.
+
+### setRepeat {#setRepeat-boolean-}
+```
+public void setRepeat(boolean value)
+```
+
+If true overlay text will be repeated on the annotation.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | boolean value |
+
+### setTextAlignment {#setTextAlignment-com.aspose.pdf.HorizontalAlignment-}
+Sets alignment of Overlay Text.

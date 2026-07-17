@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileinfo/set_creator/
 Sets the Creator information of PDF document.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileInfo::set_Creator(System::String value)
+void Aspose::Pdf::Facades::PdfFileInfo::set_Creator(const System::String &value)
 ```
 
 ## See Also

@@ -7,19 +7,19 @@ type: docs
 weight: 1700
 url: /cpp/aspose.pdf.facades/pdffilesignature/getcontactinfo/
 ---
-## PdfFileSignature::GetContactInfo(System::SharedPtr\<SignatureName\>) method
+## PdfFileSignature::GetContactInfo(const System::SharedPtr\<SignatureName\>\&) method
 
 
 Gets the contact information of a signature.
 
 ```cpp
-System::String Aspose::Pdf::Facades::PdfFileSignature::GetContactInfo(System::SharedPtr<SignatureName> signName)
+System::String Aspose::Pdf::Facades::PdfFileSignature::GetContactInfo(const System::SharedPtr<SignatureName> &signName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | System::SharedPtr\<SignatureName\> | The name of signature. |
+| signName | const System::SharedPtr\<SignatureName\>\& | The name of signature. |
 
 ### ReturnValue
 
@@ -33,19 +33,19 @@ Returns a result of string type.
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileSignature::GetContactInfo(System::String) method
+## PdfFileSignature::GetContactInfo(const System::String\&) method
 
 
 Gets the contact information of a signature.
 
 ```cpp
-System::String Aspose::Pdf::Facades::PdfFileSignature::GetContactInfo(System::String signName)
+System::String Aspose::Pdf::Facades::PdfFileSignature::GetContactInfo(const System::String &signName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | System::String | The name of signature. |
+| signName | const System::String\& | The name of signature. |
 
 ### ReturnValue
 

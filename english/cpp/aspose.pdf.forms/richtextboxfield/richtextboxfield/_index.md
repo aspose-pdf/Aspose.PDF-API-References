@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.forms/richtextboxfield/richtextboxfield/
 Constructor for Rich [Text](../../../aspose.pdf.text/) Box field.
 
 ```cpp
-Aspose::Pdf::Forms::RichTextBoxField::RichTextBoxField(System::SharedPtr<Aspose::Pdf::Page> page, System::SharedPtr<Rectangle> rect)
+Aspose::Pdf::Forms::RichTextBoxField::RichTextBoxField(const System::SharedPtr<Aspose::Pdf::Page> &page, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | [Page](../../../aspose.pdf/page/) where field will be placed. |
-| rect | System::SharedPtr\<Rectangle\> | Position of the field on the page. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | [Page](../../../aspose.pdf/page/) where field will be placed. |
+| rect | const System::SharedPtr\<Rectangle\>\& | Position of the field on the page. |
 
 ## See Also
 

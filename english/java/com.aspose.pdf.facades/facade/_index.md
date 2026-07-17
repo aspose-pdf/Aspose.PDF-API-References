@@ -1,125 +1,72 @@
 ---
 title: Facade
+linktitle: Facade
 second_title: Aspose.PDF for Java API Reference
 description: Base facade class.
 type: docs
-weight: 20
+weight: 130
 url: /java/com.aspose.pdf.facades/facade/
 ---
 **Inheritance:**
-java.lang.Object, com.aspose.pdf.facades.IVentureLicenseTarget
+java.lang.Object, com.aspose.pdf.facades.Facade
 
 **All Implemented Interfaces:**
-[com.aspose.pdf.facades.IFacade](../../com.aspose.pdf.facades/ifacade), com.aspose.ms.System.IDisposable
+com.aspose.ms.System.IDisposable, IFacade, Closeable, AutoCloseable
+
 ```
-public abstract class Facade extends IVentureLicenseTarget implements IFacade, System.IDisposable
+public abstract class Facade extends Object implements IFacade , com.aspose.ms.System.IDisposable
 ```
 
 Base facade class.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getDocument()](#getDocument--) | Gets the document facade is working on. |
-| [bindPdf(String srcFile)](#bindPdf-java.lang.String-) | Initializes the facade. |
-| [bindPdf(InputStream srcStream)](#bindPdf-java.io.InputStream-) | Initializes the facade. |
-| [bindPdf(IDocument srcDoc)](#bindPdf-com.aspose.pdf.IDocument-) | Initializes the facade. |
-| [bindPdf(String srcFile, String password)](#bindPdf-java.lang.String-java.lang.String-) | Initializes the facade. |
-| [bindPdf(InputStream srcStream, String password)](#bindPdf-java.io.InputStream-java.lang.String-) | Initializes the facade. |
-| [close()](#close--) | Disposes Document bound with a facade. |
-| [dispose()](#dispose--) | Disposes the facade. |
-### getDocument() {#getDocument--}
-```
-public IDocument getDocument()
-```
+| [bindPdf](#bindPdf-com.aspose.pdf.IDocument-) | Initializes the facade. |
+| [bindPdf](#bindPdf-java.io.InputStream-) | Initializes the facade. |
+| [bindPdf](#bindPdf-java.io.InputStream-java.lang.String-) | Initializes the facade. |
+| [bindPdf](#bindPdf-java.lang.String-) | / * / * Initializes the facade. / * / * / * |
+| [bindPdf](#bindPdf-java.lang.String-java.lang.String-) | Initializes the facade. |
+| [close](#close--) | Disposes Document bound with a facade. |
+| [dispose](#dispose--) | Disposes the facade. This method is obsolete, use close() instead. |
+| [getDocument](#getDocument--) | Gets the document facade is working on. |
 
-
-Gets the document facade is working on.
-
-**Returns:**
-[IDocument](../../com.aspose.pdf/idocument) - IDocument element
-### bindPdf(String srcFile) {#bindPdf-java.lang.String-}
-```
-public void bindPdf(String srcFile)
-```
-
-
+### bindPdf {#bindPdf-com.aspose.pdf.IDocument-}
 Initializes the facade.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| srcFile | java.lang.String | The PDF file. |
-
-### bindPdf(InputStream srcStream) {#bindPdf-java.io.InputStream-}
-```
-public void bindPdf(InputStream srcStream)
-```
-
-
+### bindPdf {#bindPdf-java.io.InputStream-}
 Initializes the facade.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| srcStream | java.io.InputStream | The stream of PDF file. |
-
-### bindPdf(IDocument srcDoc) {#bindPdf-com.aspose.pdf.IDocument-}
-```
-public void bindPdf(IDocument srcDoc)
-```
-
-
+### bindPdf {#bindPdf-java.io.InputStream-java.lang.String-}
 Initializes the facade.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| srcDoc | [IDocument](../../com.aspose.pdf/idocument) | The Document object. |
+### bindPdf {#bindPdf-java.lang.String-}
+/ * / * Initializes the facade. / * / * / *
 
-### bindPdf(String srcFile, String password) {#bindPdf-java.lang.String-java.lang.String-}
-```
-public void bindPdf(String srcFile, String password)
-```
-
-
+### bindPdf {#bindPdf-java.lang.String-java.lang.String-}
 Initializes the facade.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| srcFile | java.lang.String | The PDF file |
-| password | java.lang.String | The password of the PDF document. |
-
-### bindPdf(InputStream srcStream, String password) {#bindPdf-java.io.InputStream-java.lang.String-}
-```
-public void bindPdf(InputStream srcStream, String password)
-```
-
-
-Initializes the facade.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| srcStream | java.io.InputStream | The stream of PDF file. |
-| password | java.lang.String | The password of the PDF document. |
-
-### close() {#close--}
+### close {#close--}
 ```
 public void close()
 ```
 
-
 Disposes Document bound with a facade.
 
-### dispose() {#dispose--}
+### dispose {#dispose--}
 ```
-public void dispose()
+@Deprecated public void dispose()
 ```
 
+Disposes the facade. This method is obsolete, use close() instead.
 
-Disposes the facade.
+### getDocument {#getDocument--}
+```
+public IDocument getDocument()
+```
 
-This method is obsolete, use close() instead.
+Gets the document facade is working on.
 
+**Returns:**
+IDocument element

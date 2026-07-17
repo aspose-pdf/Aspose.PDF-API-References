@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/gotouriaction/gotouriaction/
 Creates an instance of [GoToURIAction](../) class.
 
 ```cpp
-Aspose::Pdf::Annotations::GoToURIAction::GoToURIAction(System::String uri)
+Aspose::Pdf::Annotations::GoToURIAction::GoToURIAction(const System::String &uri)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| uri | System::String | The uniform resource identifier to resolve. |
+| uri | const System::String\& | The uniform resource identifier to resolve. |
 
 ## See Also
 

@@ -21,8 +21,8 @@ class FileChecker
 | Method | Description |
 | --- | --- |
 | [FileChecker](./filechecker/)() |  |
-| static [IsContentSafe](./iscontentsafe/)(System::SharedPtr\<System::IO::Stream\>) | Checks the content of files to identify dangerous content. By checking the content, we do not allow adding dangerous content from a text file via stream. |
-| static [IsFileExtensionSafe](./isfileextensionsafe/)(System::String) | Checks file extensions. |
+| static [IsContentSafe](./iscontentsafe/)(const System::SharedPtr\<System::IO::Stream\>\&) | Checks the content of files to identify dangerous content. By checking the content, we do not allow adding dangerous content from a text file via stream. |
+| static [IsFileExtensionSafe](./isfileextensionsafe/)(const System::String\&) | Checks file extensions. |
 ## See Also
 
 * Namespace [Aspose::Pdf](../)

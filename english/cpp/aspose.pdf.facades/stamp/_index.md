@@ -20,12 +20,12 @@ class Stamp : public System::Object
 
 | Method | Description |
 | --- | --- |
-| [BindImage](./bindimage/)(System::String) | Sets image as a stamp. |
-| [BindImage](./bindimage/)(System::SharedPtr\<System::IO::Stream\>) | Sets image which will be used as stamp. |
-| [BindLogo](./bindlogo/)(System::SharedPtr\<FormattedText\>) | Sets text as stamp. |
-| [BindPdf](./bindpdf/)(System::String, int32_t) | Sets PDF file and number of page which will be used as stamp. |
-| [BindPdf](./bindpdf/)(System::SharedPtr\<System::IO::Stream\>, int32_t) | Sets PDF file and number of page which will be used as stamp. |
-| [BindTextState](./bindtextstate/)(System::SharedPtr\<Text::TextState\>) | Sets text state of stamp text. |
+| [BindImage](./bindimage/)(const System::String\&) | Sets image as a stamp. |
+| [BindImage](./bindimage/)(const System::SharedPtr\<System::IO::Stream\>\&) | Sets image which will be used as stamp. |
+| [BindLogo](./bindlogo/)(const System::SharedPtr\<FormattedText\>\&) | Sets text as stamp. |
+| [BindPdf](./bindpdf/)(const System::String\&, int32_t) | Sets PDF file and number of page which will be used as stamp. |
+| [BindPdf](./bindpdf/)(const System::SharedPtr\<System::IO::Stream\>\&, int32_t) | Sets PDF file and number of page which will be used as stamp. |
+| [BindTextState](./bindtextstate/)(const System::SharedPtr\<Text::TextState\>\&) | Sets text state of stamp text. |
 | [get_BlendingSpace](./get_blendingspace/)() const | Gets a [BlendingColorSpace](../blendingcolorspace/) value that defines a color space that is used to perform transparency and blending operations on the page. |
 | [get_IsBackground](./get_isbackground/)() const | Gets background status. If true stamp will be placed as background of the spamped page. By default is set to false. |
 | [get_Opacity](./get_opacity/)() | Gets opacity of the stamp. |
@@ -38,7 +38,7 @@ class Stamp : public System::Object
 | [set_IsBackground](./set_isbackground/)(bool) | Sets background status. If true stamp will be placed as background of the spamped page. By default is set to false. |
 | [set_Opacity](./set_opacity/)(float) | Sets opacity of the stamp. |
 | [set_PageNumber](./set_pagenumber/)(int32_t) | Sets page number. |
-| [set_Pages](./set_pages/)(System::ArrayPtr\<int32_t\>) | Sets array with numbers of pages which will be affected by stamp. If Pages = null all pages of the document are affected. |
+| [set_Pages](./set_pages/)(const System::ArrayPtr\<int32_t\>\&) | Sets array with numbers of pages which will be affected by stamp. If Pages = null all pages of the document are affected. |
 | [set_Quality](./set_quality/)(int32_t) | Sets quality of image stamp in percent. Valiued values 0..100%. |
 | [set_Rotation](./set_rotation/)(float) | Sets rotation of the stamp in degrees. |
 | [set_StampId](./set_stampid/)(int32_t) | Sets identifier of stamp. |

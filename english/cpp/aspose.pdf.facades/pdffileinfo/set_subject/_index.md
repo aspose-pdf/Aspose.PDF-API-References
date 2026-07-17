@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileinfo/set_subject/
 Sets the Subject information of PDF document.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileInfo::set_Subject(System::String value)
+void Aspose::Pdf::Facades::PdfFileInfo::set_Subject(const System::String &value)
 ```
 
 ## See Also

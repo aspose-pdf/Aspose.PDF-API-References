@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilestamp/set_inputstream/
 Sets input stream.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileStamp::set_InputStream(System::SharedPtr<System::IO::Stream> value)
+void Aspose::Pdf::Facades::PdfFileStamp::set_InputStream(const System::SharedPtr<System::IO::Stream> &value)
 ```
 
 

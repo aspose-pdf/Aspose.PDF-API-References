@@ -25,7 +25,7 @@ class BitmapInfo : public System::Object
 
 | Method | Description |
 | --- | --- |
-| [BitmapInfo](./bitmapinfo/)(System::ArrayPtr\<uint8_t\>, int32_t, int32_t, BitmapInfo::PixelFormat) | Creates a new instance of the 
+| [BitmapInfo](./bitmapinfo/)(const System::ArrayPtr\<uint8_t\>\&, int32_t, int32_t, BitmapInfo::PixelFormat) | Creates a new instance of the 
 [BitmapInfo](./)
 
 

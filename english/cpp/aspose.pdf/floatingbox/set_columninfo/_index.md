@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/floatingbox/set_columninfo/
 Sets a column info.
 
 ```cpp
-void Aspose::Pdf::FloatingBox::set_ColumnInfo(System::SharedPtr<Aspose::Pdf::ColumnInfo> value)
+void Aspose::Pdf::FloatingBox::set_ColumnInfo(const System::SharedPtr<Aspose::Pdf::ColumnInfo> &value)
 ```
 
 ## See Also

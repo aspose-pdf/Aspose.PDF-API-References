@@ -22,8 +22,8 @@ class GlyphPosition : public System::Object
 | --- | --- |
 | [get_Position](./get_position/)() const | Position off the text in the operator. |
 | [get_Text](./get_text/)() const | [Text](../../aspose.pdf.text/) of operator. |
-| [GlyphPosition](./glyphposition/)(System::String, double) | Constructs glyph position. |
-| [GlyphPosition](./glyphposition/)(System::String) | Constructor for Glyph Position. |
+| [GlyphPosition](./glyphposition/)(const System::String\&, double) | Constructs glyph position. |
+| [GlyphPosition](./glyphposition/)(const System::String\&) | Constructor for Glyph Position. |
 ## See Also
 
 * Class [Object](../../system/object/)

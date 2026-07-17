@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.operators/setcolorspacestroke/setcolorspacestroke/
 Initializes operator.
 
 ```cpp
-Aspose::Pdf::Operators::SetColorSpaceStroke::SetColorSpaceStroke(System::String name)
+Aspose::Pdf::Operators::SetColorSpaceStroke::SetColorSpaceStroke(const System::String &name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | [Color](../../../aspose.pdf/color/) space name. |
+| name | const System::String\& | [Color](../../../aspose.pdf/color/) space name. |
 
 ## See Also
 

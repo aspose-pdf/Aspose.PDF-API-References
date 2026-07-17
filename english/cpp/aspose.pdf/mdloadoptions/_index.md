@@ -24,7 +24,7 @@ class MdLoadOptions : public Aspose::Pdf::LoadOptions
 | [get_PageInfo](./get_pageinfo/)() const | Gets document page info. |
 | [MdLoadOptions](./mdloadoptions/)() | Creates load options for converting markdown into pdf document. |
 | [set_IsPriorityCssPageRule](./set_isprioritycsspagerule/)(bool) |  |
-| [set_PageInfo](./set_pageinfo/)(System::SharedPtr\<Aspose::Pdf::PageInfo\>) | Sets document page info. |
+| [set_PageInfo](./set_pageinfo/)(const System::SharedPtr\<Aspose::Pdf::PageInfo\>\&) | Sets document page info. |
 ## See Also
 
 * Class [LoadOptions](../loadoptions/)

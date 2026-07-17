@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/redactionannotation/set_defaultappearance/
 Sets the default appearance string to be used in formatting the text.
 
 ```cpp
-void Aspose::Pdf::Annotations::RedactionAnnotation::set_DefaultAppearance(System::String value)
+void Aspose::Pdf::Annotations::RedactionAnnotation::set_DefaultAppearance(const System::String &value)
 ```
 
 ## See Also

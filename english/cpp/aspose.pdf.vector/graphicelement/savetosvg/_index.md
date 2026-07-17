@@ -27,19 +27,19 @@ The SVG-string.
 * Class [GraphicElement](../)
 * Namespace [Aspose::Pdf::Vector](../../)
 * Library [Aspose.PDF for C++](../../../)
-## GraphicElement::SaveToSvg(System::String) method
+## GraphicElement::SaveToSvg(const System::String\&) method
 
 
 Converts the element into a single SVG image file.
 
 ```cpp
-void Aspose::Pdf::Vector::GraphicElement::SaveToSvg(System::String svgFilePath)
+void Aspose::Pdf::Vector::GraphicElement::SaveToSvg(const System::String &svgFilePath)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| svgFilePath | System::String | The file path to save svg-image. |
+| svgFilePath | const System::String\& | The file path to save svg-image. |
 
 ## See Also
 

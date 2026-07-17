@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagedate/set_delimiter/
 Sets the delimiter used in the date format. The format of the date will be updated based on this delimiter.
 
 ```cpp
-void Aspose::Pdf::PageDate::set_Delimiter(System::String value)
+void Aspose::Pdf::PageDate::set_Delimiter(const System::String &value)
 ```
 
 ## See Also

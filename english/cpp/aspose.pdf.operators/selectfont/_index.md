@@ -23,7 +23,7 @@ class SelectFont : public Aspose::Pdf::Operators::TextStateOperator
 | [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_Name](./get_name/)() const | Name of font. |
 | [get_Size](./get_size/)() const | Size of text. |
-| [SelectFont](./selectfont/)(System::String, double) | Initializes operator. |
+| [SelectFont](./selectfont/)(const System::String\&, double) | Initializes operator. |
 | [ToString](./tostring/)() const override | Returns text representation of operator. |
 ## See Also
 

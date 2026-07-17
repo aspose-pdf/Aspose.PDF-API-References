@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/redactionannotation/set_bordercolor/
 Sets color of border which is drawn when redaction is not active.
 
 ```cpp
-void Aspose::Pdf::Annotations::RedactionAnnotation::set_BorderColor(System::SharedPtr<Aspose::Pdf::Color> value)
+void Aspose::Pdf::Annotations::RedactionAnnotation::set_BorderColor(const System::SharedPtr<Aspose::Pdf::Color> &value)
 ```
 
 ## See Also

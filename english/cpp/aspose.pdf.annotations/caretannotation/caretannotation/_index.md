@@ -7,20 +7,20 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf.annotations/caretannotation/caretannotation/
 ---
-## CaretAnnotation::CaretAnnotation(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) constructor
+## CaretAnnotation::CaretAnnotation(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&) constructor
 
 
 Creates new Caret annotation on the specified page.
 
 ```cpp
-Aspose::Pdf::Annotations::CaretAnnotation::CaretAnnotation(System::SharedPtr<Aspose::Pdf::Page> page, System::SharedPtr<Rectangle> rect)
+Aspose::Pdf::Annotations::CaretAnnotation::CaretAnnotation(const System::SharedPtr<Aspose::Pdf::Page> &page, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | [Document](../../../aspose.pdf/document/)'s page where annotation should be created. |
-| rect | System::SharedPtr\<Rectangle\> | Required rectangle that sets annotation's border. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | [Document](../../../aspose.pdf/document/)'s page where annotation should be created. |
+| rect | const System::SharedPtr\<Rectangle\>\& | Required rectangle that sets annotation's border. |
 
 ## See Also
 
@@ -30,19 +30,19 @@ Aspose::Pdf::Annotations::CaretAnnotation::CaretAnnotation(System::SharedPtr<Asp
 * Class [CaretAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## CaretAnnotation::CaretAnnotation(System::SharedPtr\<Document\>) constructor
+## CaretAnnotation::CaretAnnotation(const System::SharedPtr\<Document\>\&) constructor
 
 
 Constructor for usign in Generator.
 
 ```cpp
-Aspose::Pdf::Annotations::CaretAnnotation::CaretAnnotation(System::SharedPtr<Document> document)
+Aspose::Pdf::Annotations::CaretAnnotation::CaretAnnotation(const System::SharedPtr<Document> &document)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Document\> | [Document](../../../aspose.pdf/document/) where annotation will be created. |
+| document | const System::SharedPtr\<Document\>\& | [Document](../../../aspose.pdf/document/) where annotation will be created. |
 
 ## See Also
 

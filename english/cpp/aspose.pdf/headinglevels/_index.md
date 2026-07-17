@@ -20,7 +20,7 @@ class HeadingLevels : public System::Object
 
 | Method | Description |
 | --- | --- |
-| [AddLevels](./addlevels/)(System::SharedPtr\<System::Collections::Generic::ICollection\<double\>\>) | Adds heading levels. Font size collection should be sorted by decreasing size. |
+| [AddLevels](./addlevels/)(const System::SharedPtr\<System::Collections::Generic::ICollection\<double\>\>\&) | Adds heading levels. Font size collection should be sorted by decreasing size. |
 | [get_AllLevels](./get_alllevels/)() | Gets all heading levels. |
 | [HeadingLevels](./headinglevels/)() | Creates a new instance of the [HeadingLevels](./) class. |
 | [HeadingLevels](./headinglevels/)(double) | Creates a new instance of the [HeadingLevels](./) class. |

@@ -30,7 +30,7 @@ class GraphicElement : public System::IDisposable
 | [get_SourcePage](./get_sourcepage/)() const | Gets the page from which the graphic element is extracted. |
 | [Remove](./remove/)() | Removes current element from the page. If there are many elements to remove better use [Page::DeleteGraphics(GraphicElementCollection)](../). |
 | [SaveToSvg](./savetosvg/)() | Converts the element into a single SVG image. |
-| [SaveToSvg](./savetosvg/)(System::String) | Converts the element into a single SVG image file. |
+| [SaveToSvg](./savetosvg/)(const System::String\&) | Converts the element into a single SVG image file. |
 | virtual [set_Position](./set_position/)(System::SharedPtr\<Point\>) | Sets the position in the current coordinate space. If [Parent](../) is not [null](../) then the element have xForm coordinate space. |
 ## See Also
 

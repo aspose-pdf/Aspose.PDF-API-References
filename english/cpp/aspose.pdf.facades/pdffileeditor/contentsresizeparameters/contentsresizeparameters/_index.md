@@ -22,24 +22,24 @@ Aspose::Pdf::Facades::PdfFileEditor::ContentsResizeParameters::ContentsResizePar
 * Class [PdfFileEditor](../../)
 * Namespace [Aspose::Pdf::Facades](../../../)
 * Library [Aspose.PDF for C++](../../../../)
-## ContentsResizeParameters::ContentsResizeParameters(System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>, System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>, System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>, System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>, System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>, System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>) constructor
+## ContentsResizeParameters::ContentsResizeParameters(const System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>\&, const System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>\&, const System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>\&, const System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>\&, const System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>\&, const System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>\&) constructor
 
 
 Creates resize parameters with specified margin values and contents size.
 
 ```cpp
-Aspose::Pdf::Facades::PdfFileEditor::ContentsResizeParameters::ContentsResizeParameters(System::SharedPtr<PdfFileEditor::ContentsResizeValue> leftMargin, System::SharedPtr<PdfFileEditor::ContentsResizeValue> contentsWidth, System::SharedPtr<PdfFileEditor::ContentsResizeValue> rightMargin, System::SharedPtr<PdfFileEditor::ContentsResizeValue> topMargin, System::SharedPtr<PdfFileEditor::ContentsResizeValue> contentsHeight, System::SharedPtr<PdfFileEditor::ContentsResizeValue> bottomMargin)
+Aspose::Pdf::Facades::PdfFileEditor::ContentsResizeParameters::ContentsResizeParameters(const System::SharedPtr<PdfFileEditor::ContentsResizeValue> &leftMargin, const System::SharedPtr<PdfFileEditor::ContentsResizeValue> &contentsWidth, const System::SharedPtr<PdfFileEditor::ContentsResizeValue> &rightMargin, const System::SharedPtr<PdfFileEditor::ContentsResizeValue> &topMargin, const System::SharedPtr<PdfFileEditor::ContentsResizeValue> &contentsHeight, const System::SharedPtr<PdfFileEditor::ContentsResizeValue> &bottomMargin)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| leftMargin | System::SharedPtr\<PdfFileEditor::ContentsResizeValue\> | [Left](../../../../aspose.pdf/left/) margin value. |
-| contentsWidth | System::SharedPtr\<PdfFileEditor::ContentsResizeValue\> | Contents width. |
-| rightMargin | System::SharedPtr\<PdfFileEditor::ContentsResizeValue\> | [Right](../../../../aspose.pdf/right/) margin. |
-| topMargin | System::SharedPtr\<PdfFileEditor::ContentsResizeValue\> | Top margin. |
-| contentsHeight | System::SharedPtr\<PdfFileEditor::ContentsResizeValue\> | Contents height. |
-| bottomMargin | System::SharedPtr\<PdfFileEditor::ContentsResizeValue\> | Bottom margin. |
+| leftMargin | const System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>\& | [Left](../../../../aspose.pdf/left/) margin value. |
+| contentsWidth | const System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>\& | Contents width. |
+| rightMargin | const System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>\& | [Right](../../../../aspose.pdf/right/) margin. |
+| topMargin | const System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>\& | Top margin. |
+| contentsHeight | const System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>\& | Contents height. |
+| bottomMargin | const System::SharedPtr\<PdfFileEditor::ContentsResizeValue\>\& | Bottom margin. |
 ## Remarks
 
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/submitformaction/set_url/
 Destination URL.
 
 ```cpp
-void Aspose::Pdf::Annotations::SubmitFormAction::set_Url(System::SharedPtr<FileSpecification> value)
+void Aspose::Pdf::Annotations::SubmitFormAction::set_Url(const System::SharedPtr<FileSpecification> &value)
 ```
 
 ## See Also

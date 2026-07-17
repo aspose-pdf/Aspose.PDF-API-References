@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.text/font/measurestring/
 Measures the string.
 
 ```cpp
-double Aspose::Pdf::Text::Font::MeasureString(System::String str, float fontSize)
+double Aspose::Pdf::Text::Font::MeasureString(const System::String &str, float fontSize)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| str | System::String | The string. |
+| str | const System::String\& | The string. |
 | fontSize | float | [Font](../) size. |
 
 ### ReturnValue

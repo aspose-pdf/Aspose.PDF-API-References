@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison/graphicalpdfcomparer/set_resolution/
 Gets and sets the resolution of the resulting images. The default value is 150dpi.
 
 ```cpp
-void Aspose::Pdf::Comparison::GraphicalPdfComparer::set_Resolution(System::SharedPtr<Aspose::Pdf::Devices::Resolution> value)
+void Aspose::Pdf::Comparison::GraphicalPdfComparer::set_Resolution(const System::SharedPtr<Aspose::Pdf::Devices::Resolution> &value)
 ```
 
 ## See Also

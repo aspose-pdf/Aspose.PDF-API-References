@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/pagecollectionextensions/deletebatesnumbering/
 Deletes all Bates numbering artifacts from each page in the given page collection.
 
 ```cpp
-static void Aspose::Pdf::PageCollectionExtensions::DeleteBatesNumbering(System::SharedPtr<PageCollection> pageCollection)
+static void Aspose::Pdf::PageCollectionExtensions::DeleteBatesNumbering(const System::SharedPtr<PageCollection> &pageCollection)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageCollection | System::SharedPtr\<PageCollection\> | The collection of pages from which the Bates numbering will be deleted. |
+| pageCollection | const System::SharedPtr\<PageCollection\>\& | The collection of pages from which the Bates numbering will be deleted. |
 
 ## See Also
 

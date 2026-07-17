@@ -22,9 +22,9 @@ class SetTextMatrix : public Aspose::Pdf::Operators::TextPlaceOperator
 | --- | --- |
 | [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_Matrix](./get_matrix/)() const | [Matrix](../../aspose.pdf/matrix/) argument of the operator. |
-| [set_Matrix](./set_matrix/)(System::SharedPtr\<Aspose::Pdf::Matrix\>) | [Matrix](../../aspose.pdf/matrix/) argument of the operator. |
+| [set_Matrix](./set_matrix/)(const System::SharedPtr\<Aspose::Pdf::Matrix\>\&) | [Matrix](../../aspose.pdf/matrix/) argument of the operator. |
 | [SetTextMatrix](./settextmatrix/)(double, double, double, double, double, double) | Initializes operator. |
-| [SetTextMatrix](./settextmatrix/)(System::SharedPtr\<Aspose::Pdf::Matrix\>) | Initializes operator by matrix. |
+| [SetTextMatrix](./settextmatrix/)(const System::SharedPtr\<Aspose::Pdf::Matrix\>\&) | Initializes operator by matrix. |
 | [ToString](./tostring/)() const override | Returns text representation of operator. |
 ## See Also
 

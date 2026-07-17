@@ -20,8 +20,8 @@ class PrinterMarkAnnotation : public Aspose::Pdf::Annotations::Annotation
 
 | Method | Description |
 | --- | --- |
-| static [AddPrinterMarks](./addprintermarks/)(System::SharedPtr\<Document\>, PrinterMarksKind) | Adds printer's marks to all pages in the specified document. |
-| static [AddPrinterMarks](./addprintermarks/)(System::SharedPtr\<Aspose::Pdf::Page\>, PrinterMarksKind) | Adds printer's marks to the specified page. |
+| static [AddPrinterMarks](./addprintermarks/)(const System::SharedPtr\<Document\>\&, PrinterMarksKind) | Adds printer's marks to all pages in the specified document. |
+| static [AddPrinterMarks](./addprintermarks/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, PrinterMarksKind) | Adds printer's marks to the specified page. |
 ## See Also
 
 * Class [Annotation](../annotation/)

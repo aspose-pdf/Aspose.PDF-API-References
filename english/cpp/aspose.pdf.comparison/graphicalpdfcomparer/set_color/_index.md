@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison/graphicalpdfcomparer/set_color/
 Gets and sets the change flag color. The default color is red.
 
 ```cpp
-void Aspose::Pdf::Comparison::GraphicalPdfComparer::set_Color(System::SharedPtr<Aspose::Pdf::Color> value)
+void Aspose::Pdf::Comparison::GraphicalPdfComparer::set_Color(const System::SharedPtr<Aspose::Pdf::Color> &value)
 ```
 
 ## See Also

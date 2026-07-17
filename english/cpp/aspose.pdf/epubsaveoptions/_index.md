@@ -27,7 +27,7 @@ class EpubSaveOptions : public Aspose::Pdf::UnifiedSaveOptions
 | --- | --- |
 | [EpubSaveOptions](./epubsaveoptions/)() | Constructor. |
 | [get_Title](./get_title/)() const | Gets EPUB document title. |
-| [set_Title](./set_title/)(System::String) | Sets EPUB document title. |
+| [set_Title](./set_title/)(const System::String\&) | Sets EPUB document title. |
 ## See Also
 
 * Class [UnifiedSaveOptions](../unifiedsaveoptions/)

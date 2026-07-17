@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/artifact/set_customsubtype/
 Gets name of artifact subtype. May be used if artifact subtype is not standard subtype.
 
 ```cpp
-void Aspose::Pdf::Artifact::set_CustomSubtype(System::String value)
+void Aspose::Pdf::Artifact::set_CustomSubtype(const System::String &value)
 ```
 
 ## See Also

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/formeditor/movefield/
 Set new position of field.
 
 ```cpp
-bool Aspose::Pdf::Facades::FormEditor::MoveField(System::String fieldName, float llx, float lly, float urx, float ury)
+bool Aspose::Pdf::Facades::FormEditor::MoveField(const System::String &fieldName, float llx, float lly, float urx, float ury)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | Name of field which must be moved. |
+| fieldName | const System::String\& | Name of field which must be moved. |
 | llx | float | Abscissa of the lower-left corner of the field. |
 | lly | float | Ordinate of the lower-left coerner of the field. |
 | urx | float | Abscissa of the upper-right corner of the field. |

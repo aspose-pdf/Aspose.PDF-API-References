@@ -21,19 +21,19 @@ Aspose::Pdf::CollectionSort::CollectionSort()
 * Class [CollectionSort](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## CollectionSort::CollectionSort(System::SharedPtr\<Engine::Data::IPdfDictionary\>) constructor
+## CollectionSort::CollectionSort(const System::SharedPtr\<Engine::Data::IPdfDictionary\>\&) constructor
 
 
 Creates an instance of collection sort class.
 
 ```cpp
-Aspose::Pdf::CollectionSort::CollectionSort(System::SharedPtr<Engine::Data::IPdfDictionary> collectionSortDict)
+Aspose::Pdf::CollectionSort::CollectionSort(const System::SharedPtr<Engine::Data::IPdfDictionary> &collectionSortDict)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| collectionSortDict | System::SharedPtr\<Engine::Data::IPdfDictionary\> | The collection sort dictionary. |
+| collectionSortDict | const System::SharedPtr\<Engine::Data::IPdfDictionary\>\& | The collection sort dictionary. |
 
 ## See Also
 

@@ -22,7 +22,7 @@ class XmpPdfAExtensionProperty : public Aspose::Pdf::XmpPdfAExtensionField
 | --- | --- |
 | [get_Category](./get_category/)() const | Gets the property category. |
 | [GetXml](./getxml/)(System::SharedPtr\<System::Xml::XmlDocument\>) override | Returns the list of xml elements that represent property in xml tree. |
-| [XmpPdfAExtensionProperty](./xmppdfaextensionproperty/)(System::String, System::String, System::String, XmpPdfAExtensionCategoryType, System::String) | Initializes new object. |
+| [XmpPdfAExtensionProperty](./xmppdfaextensionproperty/)(const System::String\&, const System::String\&, const System::String\&, XmpPdfAExtensionCategoryType, const System::String\&) | Initializes new object. |
 ## See Also
 
 * Class [XmpPdfAExtensionField](../xmppdfaextensionfield/)

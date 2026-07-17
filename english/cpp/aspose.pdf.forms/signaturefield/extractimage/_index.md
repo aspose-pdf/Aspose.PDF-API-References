@@ -28,19 +28,19 @@ If image was successfully found than returns jpeg encoded stream object; otherwi
 * Class [SignatureField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## SignatureField::ExtractImage(System::SharedPtr\<System::Drawing::Imaging::ImageFormat\>) method
+## SignatureField::ExtractImage(const System::SharedPtr\<System::Drawing::Imaging::ImageFormat\>\&) method
 
 
 Extracts signature's image as encoded stream.
 
 ```cpp
-System::SharedPtr<System::IO::Stream> Aspose::Pdf::Forms::SignatureField::ExtractImage(System::SharedPtr<System::Drawing::Imaging::ImageFormat> format)
+System::SharedPtr<System::IO::Stream> Aspose::Pdf::Forms::SignatureField::ExtractImage(const System::SharedPtr<System::Drawing::Imaging::ImageFormat> &format)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| format | System::SharedPtr\<System::Drawing::Imaging::ImageFormat\> | [Image](../../../aspose.pdf/image/) format for encoding. |
+| format | const System::SharedPtr\<System::Drawing::Imaging::ImageFormat\>\& | [Image](../../../aspose.pdf/image/) format for encoding. |
 
 ### ReturnValue
 

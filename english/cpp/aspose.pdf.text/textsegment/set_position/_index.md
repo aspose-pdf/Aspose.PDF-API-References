@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textsegment/set_position/
 Gets text position for text, represented with [TextSegment](../) object.
 
 ```cpp
-void Aspose::Pdf::Text::TextSegment::set_Position(System::SharedPtr<Aspose::Pdf::Text::Position> value)
+void Aspose::Pdf::Text::TextSegment::set_Position(const System::SharedPtr<Aspose::Pdf::Text::Position> &value)
 ```
 
 ## See Also

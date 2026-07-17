@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/autofiller/set_unflattenfields/
 Sets the fields which will not be flattened. If this property is not set, all the fields will be flattened.
 
 ```cpp
-void Aspose::Pdf::Facades::AutoFiller::set_UnFlattenFields(System::ArrayPtr<System::String> value)
+void Aspose::Pdf::Facades::AutoFiller::set_UnFlattenFields(const System::ArrayPtr<System::String> &value)
 ```
 
 ## See Also

@@ -43,7 +43,7 @@ class TextFragmentState : public Aspose::Pdf::Text::TextState
 | [get_TabStops](./get_tabstops/)() const | Gets tabstops for the text. |
 | [get_Underline](./get_underline/)() override | Gets underline for the text, represented by the [TextFragment](../textfragment/) object. |
 | [get_WordSpacing](./get_wordspacing/)() override | Gets word spacing of the text. |
-| [IsFitRectangle](./isfitrectangle/)(System::String, System::SharedPtr\<Rectangle\>) | Checks if input string could be placed inside defined rectangle. |
+| [IsFitRectangle](./isfitrectangle/)(const System::String\&, const System::SharedPtr\<Rectangle\>\&) | Checks if input string could be placed inside defined rectangle. |
 | [MeasureHeight](./measureheight/)(char16_t) | Measures character height. |
 | [MeasureString](./measurestring/)(const System::String\&) override | Measures the string. |
 | [set_BackgroundColor](./set_backgroundcolor/)(System::SharedPtr\<Color\>) override | Sets background color of the text, represented by the [TextFragment](../textfragment/) object. |
@@ -54,7 +54,7 @@ class TextFragmentState : public Aspose::Pdf::Text::TextState
 | [set_FontSize](./set_fontsize/)(float) override | Sets font size of the text, represented by the [TextFragment](../textfragment/) object. |
 | [set_FontStyle](./set_fontstyle/)(FontStyles) override | Sets font style of the text, represented by the [TextFragment](../textfragment/) object. |
 | [set_ForegroundColor](./set_foregroundcolor/)(System::SharedPtr\<Color\>) override | Sets foreground color of the text, represented by the [TextFragment](../textfragment/) object. |
-| [set_FormattingOptions](./set_formattingoptions/)(System::SharedPtr\<TextFormattingOptions\>) | Sets formatting options. Setting of the options will be effective in generator scenarios only. |
+| [set_FormattingOptions](./set_formattingoptions/)(const System::SharedPtr\<TextFormattingOptions\>\&) | Sets formatting options. Setting of the options will be effective in generator scenarios only. |
 | [set_HorizontalAlignment](./set_horizontalalignment/)(Aspose::Pdf::HorizontalAlignment) override | Sets horizontal alignment for the text. |
 | [set_HorizontalScaling](./set_horizontalscaling/)(float) override | Sets horizontal scaling of the text, represented by the [TextFragment](../textfragment/) object. |
 | [set_Invisible](./set_invisible/)(bool) override | Sets invisibility of the text. |
@@ -67,7 +67,7 @@ class TextFragmentState : public Aspose::Pdf::Text::TextState
 | [set_Superscript](./set_superscript/)(bool) override | Sets superscript of the text, represented by the [TextFragment](../textfragment/) object. |
 | [set_Underline](./set_underline/)(bool) override | Sets underline for the text, represented by the [TextFragment](../textfragment/) object. |
 | [set_WordSpacing](./set_wordspacing/)(float) override | Sets word spacing of the text. |
-| [TextFragmentState](./textfragmentstate/)(System::SharedPtr\<TextFragment\>) | Initializes new instance of the [TextFragmentState](./) object with specified [TextFragment](../textfragment/) object. This [TextFragmentState](./) initialization is not supported. [TextFragmentState](./) is only available with [TextFragment::TextState](../) property. |
+| [TextFragmentState](./textfragmentstate/)(const System::SharedPtr\<TextFragment\>\&) | Initializes new instance of the [TextFragmentState](./) object with specified [TextFragment](../textfragment/) object. This [TextFragmentState](./) initialization is not supported. [TextFragmentState](./) is only available with [TextFragment::TextState](../) property. |
 ## Remarks
 
 

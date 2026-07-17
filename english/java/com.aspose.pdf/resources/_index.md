@@ -1,129 +1,125 @@
 ---
 title: Resources
+linktitle: Resources
 second_title: Aspose.PDF for Java API Reference
 description: Class representing page resources.
 type: docs
-weight: 314
+weight: 4220
 url: /java/com.aspose.pdf/resources/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.Resources
+
 ```
-public final class Resources
+public final class Resources extends Object
 ```
 
 Class representing page resources.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [clearImagesCache()](#clearImagesCache--) |  |
-| [getForms()](#getForms--) | Gets  Forms  forms collection |
-| [getImages()](#getImages--) | Gets  Images  images collection |
-| [getFonts(boolean createIfAbsent)](#getFonts-boolean-) | Returns fonts collection. |
-| [getFonts()](#getFonts--) | Gets  Fonts  resources collection |
-| [getExtGStates()](#getExtGStates--) | Gets all ExGStates from resources. |
-| [getResourcesFor(Form form)](#getResourcesFor-com.aspose.pdf.Form-) | Gets resources for |
-| [isCommonResource()](#isCommonResource--) | True if this resources are common i.e. |
-| [setResourceDictionary(IResourceDictionary resourceDictionary)](#setResourceDictionary-com.aspose.pdf.engine.commondata.pagecontent.IResourceDictionary-) | For internal usage only! |
-### clearImagesCache() {#clearImagesCache--}
+| [clearImagesCache](#clearImagesCache--) |  |
+| [freeMemory](#freeMemory--) | Clears cached data, frees memory etc. |
+| [getExtGStates](#getExtGStates--) | Gets all ExGStates from resources. |
+| [getFonts](#getFonts--) | Gets {@code Fonts} resources collection |
+| [getFonts](#getFonts-boolean-) | Returns fonts collection. If resources don't contain fonts entry it will be created in depends of CreateIfAbsent flag. |
+| [getForms](#getForms--) | Gets {@code Forms} forms collection |
+| [getImages](#getImages--) | Gets {@code Images} images collection |
+| [getResourceDictionary](#getResourceDictionary--) | Internal field |
+| [getResourcesFor](#getResourcesFor-com.aspose.pdf.Form-) | Gets resources for |
+| [isCommonResource](#isCommonResource--) | True if this resources are common i.e. are shared for several pages (placed in pages dictionary or in every page as object reference) Manipulation with common resources must be performed very carefully for example deleting object form common resources in one page may cause errors on other pages if deleted object was used for other pages. |
+| [setResourceDictionary](#setResourceDictionary-com.aspose.pdf.engine.commondata.pagecontent.IResourceDictionary-) | For internal usage only! |
+
+### clearImagesCache {#clearImagesCache--}
 ```
 public final void clearImagesCache()
 ```
 
 
 
-
-### getForms() {#getForms--}
+### freeMemory {#freeMemory--}
 ```
-public XFormCollection getForms()
+public final void freeMemory()
 ```
 
+Clears cached data, frees memory etc.
 
-Gets  Forms  forms collection
+### getExtGStates {#getExtGStates--}
+```
+public final com.aspose.ms.System.Collections.Generic.Dictionary< String , Resources.ExtGStateValue > getExtGStates()
+```
+
+Gets all ExGStates from resources.
 
 **Returns:**
-[XFormCollection](../../com.aspose.pdf/xformcollection) - XFormCollection object
-### getImages() {#getImages--}
+Returns dictionary with ExGStates names keys.
+
+### getFonts {#getFonts--}
 ```
-public XImageCollection getImages()
+public FontCollection getFonts()
 ```
 
-
-Gets  Images  images collection
+Gets {@code Fonts} resources collection
 
 **Returns:**
-[XImageCollection](../../com.aspose.pdf/ximagecollection) - XImageCollection object
-### getFonts(boolean createIfAbsent) {#getFonts-boolean-}
+FontCollection object
+
+### getFonts {#getFonts-boolean-}
 ```
 public FontCollection getFonts(boolean createIfAbsent)
 ```
-
 
 Returns fonts collection. If resources don't contain fonts entry it will be created in depends of CreateIfAbsent flag.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| createIfAbsent | boolean | If this flag is true then fonts will be created if this entry is absent. |
+| createIfAbsent |  | If this flag is true then fonts will be created if this entry is absent. |
 
 **Returns:**
-[FontCollection](../../com.aspose.pdf/fontcollection) - Fonts collection.
-### getFonts() {#getFonts--}
+Fonts collection.
+
+### getForms {#getForms--}
 ```
-public FontCollection getFonts()
+public XFormCollection getForms()
 ```
 
-
-Gets  Fonts  resources collection
+Gets {@code Forms} forms collection
 
 **Returns:**
-[FontCollection](../../com.aspose.pdf/fontcollection) - FontCollection object
-### getExtGStates() {#getExtGStates--}
+XFormCollection object
+
+### getImages {#getImages--}
 ```
-public final System.Collections.Generic.Dictionary<String,Resources.ExtGStateValue> getExtGStates()
+public XImageCollection getImages()
 ```
 
-
-Gets all ExGStates from resources.
+Gets {@code Images} images collection
 
 **Returns:**
-[Dictionary](../../com.aspose.ms.system.collections.generic/dictionary) - Returns dictionary with ExGStates names keys.
-### getResourcesFor(Form form) {#getResourcesFor-com.aspose.pdf.Form-}
+XImageCollection object
+
+### getResourceDictionary {#getResourceDictionary--}
 ```
-public static Resources getResourcesFor(Form form)
+public com.aspose.pdf.engine.commondata.pagecontent.IResourceDictionary getResourceDictionary()
 ```
 
+Internal field
 
+### getResourcesFor {#getResourcesFor-com.aspose.pdf.Form-}
 Gets resources for
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| form | [Form](../../com.aspose.pdf/form) | Form object |
-
-**Returns:**
-[Resources](../../com.aspose.pdf/resources) - Resources object
-### isCommonResource() {#isCommonResource--}
+### isCommonResource {#isCommonResource--}
 ```
 public boolean isCommonResource()
 ```
 
-
 True if this resources are common i.e. are shared for several pages (placed in pages dictionary or in every page as object reference) Manipulation with common resources must be performed very carefully for example deleting object form common resources in one page may cause errors on other pages if deleted object was used for other pages.
 
 **Returns:**
-boolean - boolean value
-### setResourceDictionary(IResourceDictionary resourceDictionary) {#setResourceDictionary-com.aspose.pdf.engine.commondata.pagecontent.IResourceDictionary-}
-```
-public void setResourceDictionary(IResourceDictionary resourceDictionary)
-```
+boolean value
 
-
+### setResourceDictionary {#setResourceDictionary-com.aspose.pdf.engine.commondata.pagecontent.IResourceDictionary-}
 For internal usage only!
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| resourceDictionary | [IResourceDictionary](../../com.aspose.pdf.engine.commondata.pagecontent/iresourcedictionary) | inernal instance |
-

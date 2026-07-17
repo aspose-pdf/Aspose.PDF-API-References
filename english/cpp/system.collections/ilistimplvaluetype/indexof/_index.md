@@ -23,7 +23,7 @@ virtual int System::Collections::IListImplValueType<T>::IndexOf(System::SharedPt
 
 ### ReturnValue
 
-Index of first appearance of item in container or -1 if not found.
+[Index](../../../system/index/) of first appearance of item in container or -1 if not found.
 
 ## See Also
 

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/measure/numberformatlist/numberformatlist/
 Constructor for [NumberFormatList](../).
 
 ```cpp
-Aspose::Pdf::Annotations::Measure::NumberFormatList::NumberFormatList(System::SharedPtr<Measure> measure)
+Aspose::Pdf::Annotations::Measure::NumberFormatList::NumberFormatList(const System::SharedPtr<Measure> &measure)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| measure | System::SharedPtr\<Measure\> | Parent measure object. |
+| measure | const System::SharedPtr\<Measure\>\& | Parent measure object. |
 
 ## See Also
 

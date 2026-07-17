@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/formfieldoptions/set_alternatename/
 Gets/sets the value to determine property AlternateName for created/modified field (if will be set).
 
 ```cpp
-void Aspose::Pdf::LowCode::FormFieldOptions::set_AlternateName(System::String value)
+void Aspose::Pdf::LowCode::FormFieldOptions::set_AlternateName(const System::String &value)
 ```
 
 ## See Also

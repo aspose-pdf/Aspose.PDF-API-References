@@ -1,94 +1,76 @@
 ---
 title: BX
+linktitle: BX
 second_title: Aspose.PDF for Java API Reference
-description: Class representing BX operator begin compatibility section.
+description: Class representing BX operator (begin compatibility section).
 type: docs
-weight: 14
+weight: 80
 url: /java/com.aspose.pdf.operators/bx/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.Operator](../../com.aspose.pdf/operator)
+java.lang.Object, com.aspose.pdf.Operator com.aspose.pdf.operators.BX, com.aspose.pdf.Operator, com.aspose.pdf.operators.BX
+
 ```
 public class BX extends Operator
 ```
 
 Class representing BX operator (begin compatibility section).
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [BX()](#BX--) | Initializes operator. |
-| [BX(int index, ICommand command)](#BX-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
+| [BX](#BX--) | Initializes operator. |
+| [BX](#BX-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Initializes operator. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
-| [toString()](#toString--) | Returns text representation of operator. |
-| [getCommandName()](#getCommandName--) | Returns text representation of command name. |
-| [toCommand()](#toCommand--) |  |
-### BX() {#BX--}
+| [accept](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
+| [getCommandName](#getCommandName--) | Returns text representation of command name. |
+| [toCommand](#toCommand--) | For internal usage only! |
+| [toString](#toString--) | Returns text representation of operator. |
+
+### BX {#BX--}
 ```
 public BX()
 ```
 
-
 Initializes operator.
 
-### BX(int index, ICommand command) {#BX-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public BX(int index, ICommand command)
-```
+### BX {#BX-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+Initializes operator.
 
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
-### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
-```
-public void accept(IOperatorSelector visitor)
-```
-
-
+### accept {#accept-com.aspose.pdf.IOperatorSelector-}
 Accepts visitor object to process operator.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| visitor | [IOperatorSelector](../../com.aspose.pdf/ioperatorselector) | Visitor object. |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-Returns text representation of operator.
-
-**Returns:**
-java.lang.String - Text representation of operator.
-### getCommandName() {#getCommandName--}
+### getCommandName {#getCommandName--}
 ```
 public String getCommandName()
 ```
 
-
 Returns text representation of command name.
 
 **Returns:**
-java.lang.String - String value
-### toCommand() {#toCommand--}
+String value
+
+### toCommand {#toCommand--}
 ```
-public ICommand toCommand()
+public com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand toCommand()
 ```
 
-
-
+For internal usage only!
 
 **Returns:**
-[ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand)
+ICommand value ICommand object
+
+### toString {#toString--}
+```
+public String toString()
+```
+
+Returns text representation of operator.
+
+**Returns:**
+Text representation of operator.

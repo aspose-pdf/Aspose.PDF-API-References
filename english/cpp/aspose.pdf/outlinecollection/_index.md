@@ -25,7 +25,7 @@ class OutlineCollection : public Aspose::Pdf::Outlines
 | [Contains](./contains/)(const System::SharedPtr\<OutlineItemCollection\>\&) const override | Checks does collection contains given item. |
 | [CopyTo](./copyto/)(System::ArrayPtr\<System::SharedPtr\<OutlineItemCollection\>\>, int32_t) override | Copies the outline items to an [System.Array](../../system/array/), starting at a particular [System.Array](../../system/array/) index. |
 | [Delete](./delete/)() | Deletes all outline items from the document outline. |
-| [Delete](./delete/)(System::String) | Deletes the outline item with specified title from the document outline. |
+| [Delete](./delete/)(const System::String\&) | Deletes the outline item with specified title from the document outline. |
 | [get_Count](./get_count/)() const override | Count of collection items. Please dont confuse with VisibleCount: VisibleCount gets number of visible outline item on all levels. |
 | [get_First](./get_first/)() const | Gets an outline item representing the first top-level item in the outline. |
 | [get_IsReadOnly](./get_isreadonly/)() const override | Gets a value indicating whether the collection is read-only. |

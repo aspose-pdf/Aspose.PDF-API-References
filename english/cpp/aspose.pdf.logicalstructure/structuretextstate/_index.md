@@ -34,15 +34,15 @@ class StructureTextState : public System::Object
 | [get_Superscript](./get_superscript/)() const | Gets superscript of the text. |
 | [get_Underline](./get_underline/)() const | Gets underline for the text. |
 | [get_WordSpacing](./get_wordspacing/)() const | Gets word spacing of the text. |
-| [set_BackgroundColor](./set_backgroundcolor/)(System::SharedPtr\<Color\>) | Sets background color of the text. |
+| [set_BackgroundColor](./set_backgroundcolor/)(const System::SharedPtr\<Color\>\&) | Sets background color of the text. |
 | [set_CharacterSpacing](./set_characterspacing/)(System::Nullable\<float\>) | Sets character spacing of the text. |
-| [set_Font](./set_font/)(System::SharedPtr\<Aspose::Pdf::Text::Font\>) | Sets the font of text. |
+| [set_Font](./set_font/)(const System::SharedPtr\<Aspose::Pdf::Text::Font\>\&) | Sets the font of text. |
 | [set_FontSize](./set_fontsize/)(System::Nullable\<float\>) | Sets font size of the text. |
 | [set_FontStyle](./set_fontstyle/)(System::Nullable\<Text::FontStyles\>) | Sets font style of the text. |
-| [set_ForegroundColor](./set_foregroundcolor/)(System::SharedPtr\<Color\>) | Sets foreground color of the text. |
+| [set_ForegroundColor](./set_foregroundcolor/)(const System::SharedPtr\<Color\>\&) | Sets foreground color of the text. |
 | [set_HorizontalScaling](./set_horizontalscaling/)(System::Nullable\<float\>) | Sets horizontal scaling of the text. |
 | [set_LineSpacing](./set_linespacing/)(System::Nullable\<float\>) | Sets line spacing of the text. |
-| [set_MarginInfo](./set_margininfo/)(System::SharedPtr\<Aspose::Pdf::MarginInfo\>) | Sets margin for block structure element. |
+| [set_MarginInfo](./set_margininfo/)(const System::SharedPtr\<Aspose::Pdf::MarginInfo\>\&) | Sets margin for block structure element. |
 | [set_StrikeOut](./set_strikeout/)(System::Nullable\<bool\>) | Sets strikeout for the text. |
 | [set_Subscript](./set_subscript/)(System::Nullable\<bool\>) | Sets subscript of the text. |
 | [set_Superscript](./set_superscript/)(System::Nullable\<bool\>) | Sets superscript of the text. |

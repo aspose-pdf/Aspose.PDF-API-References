@@ -19,7 +19,7 @@ virtual TValue System::Collections::Generic::_ValueList<Dict>::idx_get(int index
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to get value from. |
+| index | int | [Index](../../../system/index/) to get value from. |
 
 ### ReturnValue
 

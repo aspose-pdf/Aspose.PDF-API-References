@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/form/getsubmitflags/
 Returns the submit button's submission flags.
 
 ```cpp
-SubmitFormFlag Aspose::Pdf::Facades::Form::GetSubmitFlags(System::String fieldName)
+SubmitFormFlag Aspose::Pdf::Facades::Form::GetSubmitFlags(const System::String &fieldName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | The qualified field name. |
+| fieldName | const System::String\& | The qualified field name. |
 
 ### ReturnValue
 

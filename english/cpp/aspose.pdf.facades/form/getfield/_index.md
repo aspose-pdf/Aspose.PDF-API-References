@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/form/getfield/
 Gets the field's value according to its field name.
 
 ```cpp
-System::String Aspose::Pdf::Facades::Form::GetField(System::String fieldName)
+System::String Aspose::Pdf::Facades::Form::GetField(const System::String &fieldName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | The fully qualified field name. |
+| fieldName | const System::String\& | The fully qualified field name. |
 
 ### ReturnValue
 

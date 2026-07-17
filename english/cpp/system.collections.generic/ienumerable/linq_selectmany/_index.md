@@ -4,7 +4,7 @@ linktitle: LINQ_SelectMany
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use LINQ_SelectMany method of System::Collections::Generic::IEnumerable class in C++.'
 type: docs
-weight: 2700
+weight: 2800
 url: /cpp/system.collections.generic/ienumerable/linq_selectmany/
 ---
 ## IEnumerable::LINQ_SelectMany(const Func\<Source, SharedPtr\<IEnumerable\<Result\>\>\>\&) method

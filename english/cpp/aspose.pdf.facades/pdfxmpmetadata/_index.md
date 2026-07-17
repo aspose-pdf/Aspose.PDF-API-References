@@ -22,7 +22,7 @@ class PdfXmpMetadata : public Aspose::Pdf::Facades::SaveableFacade,
 | Method | Description |
 | --- | --- |
 | [Add](./add/)(const DefaultMetadataProperties\&, const System::SharedPtr\<XmpValue\>\&) | Adds value to XMP metadata. |
-| [Add](./add/)(System::SharedPtr\<XmpPdfAExtensionObject\>, System::String, System::String, System::String) | Adds extension field into metadata. |
+| [Add](./add/)(const System::SharedPtr\<XmpPdfAExtensionObject\>\&, const System::String\&, const System::String\&, const System::String\&) | Adds extension field into metadata. |
 | [Add](./add/)(const System::String\&, const System::SharedPtr\<XmpValue\>\&) override | Adds new element to the dictionary object. |
 | [Add](./add/)(const System::String\&, const System::SharedPtr\<System::Object\>\&) | Adds new element to the dictionary object. |
 | [Add](./add/)(const System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<XmpValue\>\>\&) override | Adds pair with key and value into the dictionary. |
@@ -40,17 +40,17 @@ class PdfXmpMetadata : public Aspose::Pdf::Facades::SaveableFacade,
 | [get_Keys](./get_keys/)() const override | Gets keys from the dictionary. |
 | [get_Values](./get_values/)() const override | Gets the collection of values in dictionary. |
 | [GetEnumerator](./getenumerator/)() override | Gets enumerator object of the dictionary. |
-| [GetNamespaceURIByPrefix](./getnamespaceuribyprefix/)(System::String) | Gets namespace URI by prefix. |
-| [GetPrefixByNamespaceURI](./getprefixbynamespaceuri/)(System::String) | Gets the prefix by namespace URI. |
+| [GetNamespaceURIByPrefix](./getnamespaceuribyprefix/)(const System::String\&) | Gets namespace URI by prefix. |
+| [GetPrefixByNamespaceURI](./getprefixbynamespaceuri/)(const System::String\&) | Gets the prefix by namespace URI. |
 | [GetXmpMetadata](./getxmpmetadata/)() | Get the XmpMetadata of the input pdf in a xml format. |
-| [GetXmpMetadata](./getxmpmetadata/)(System::String) | Get a part of the XmpMetadata of the input pdf according to a meta name. |
+| [GetXmpMetadata](./getxmpmetadata/)(const System::String\&) | Get a part of the XmpMetadata of the input pdf according to a meta name. |
 | [idx_get](./idx_get/)(const System::String\&) const override | Gets value by key. |
 | [idx_get](./idx_get/)(const DefaultMetadataProperties\&) const | Gets value of XMP metadata by key. |
 | [idx_set](./idx_set/)(const System::String\&, System::SharedPtr\<XmpValue\>) override | Sets value by key. |
-| [idx_set](./idx_set/)(const DefaultMetadataProperties\&, System::SharedPtr\<XmpValue\>) | Gets value of XMP metadata by key. |
+| [idx_set](./idx_set/)(const DefaultMetadataProperties\&, const System::SharedPtr\<XmpValue\>\&) | Gets value of XMP metadata by key. |
 | [PdfXmpMetadata](./pdfxmpmetadata/)() | Constructor for [PdfXmpMetadata](./). |
-| [PdfXmpMetadata](./pdfxmpmetadata/)(System::SharedPtr\<Aspose::Pdf::Document\>) | Initializes new [PdfXmpMetadata](./) object on base of the *document* . |
-| [RegisterNamespaceURI](./registernamespaceuri/)(System::String, System::String) | Registers the namespace URI. |
+| [PdfXmpMetadata](./pdfxmpmetadata/)(const System::SharedPtr\<Aspose::Pdf::Document\>\&) | Initializes new [PdfXmpMetadata](./) object on base of the *document* . |
+| [RegisterNamespaceURI](./registernamespaceuri/)(const System::String\&, const System::String\&) | Registers the namespace URI. |
 | [Remove](./remove/)(DefaultMetadataProperties) | Removes element with specified key. |
 | [Remove](./remove/)(const System::String\&) override | Removes key from the dictionary. |
 | [Remove](./remove/)(const System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<XmpValue\>\>\&) override | Removes key/value pair from the collection. |

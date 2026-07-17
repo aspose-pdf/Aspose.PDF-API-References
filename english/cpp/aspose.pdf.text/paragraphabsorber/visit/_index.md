@@ -7,19 +7,19 @@ type: docs
 weight: 1100
 url: /cpp/aspose.pdf.text/paragraphabsorber/visit/
 ---
-## ParagraphAbsorber::Visit(System::SharedPtr\<Document\>) method
+## ParagraphAbsorber::Visit(const System::SharedPtr\<Document\>\&) method
 
 
 Performs search for sections and paragraphs on the specified [Document](../../../aspose.pdf/document/).
 
 ```cpp
-void Aspose::Pdf::Text::ParagraphAbsorber::Visit(System::SharedPtr<Document> doc)
+void Aspose::Pdf::Text::ParagraphAbsorber::Visit(const System::SharedPtr<Document> &doc)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | System::SharedPtr\<Document\> | [Pdf](../../../aspose.pdf/) document object. |
+| doc | const System::SharedPtr\<Document\>\& | [Pdf](../../../aspose.pdf/) document object. |
 
 ## See Also
 
@@ -28,19 +28,19 @@ void Aspose::Pdf::Text::ParagraphAbsorber::Visit(System::SharedPtr<Document> doc
 * Class [ParagraphAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
-## ParagraphAbsorber::Visit(System::SharedPtr\<Page\>) method
+## ParagraphAbsorber::Visit(const System::SharedPtr\<Page\>\&) method
 
 
 Performs search on the specified [Page](../../../aspose.pdf/page/).
 
 ```cpp
-void Aspose::Pdf::Text::ParagraphAbsorber::Visit(System::SharedPtr<Page> page)
+void Aspose::Pdf::Text::ParagraphAbsorber::Visit(const System::SharedPtr<Page> &page)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Page\> | [Pdf](../../../aspose.pdf/) document page object. |
+| page | const System::SharedPtr\<Page\>\& | [Pdf](../../../aspose.pdf/) document page object. |
 
 ## See Also
 

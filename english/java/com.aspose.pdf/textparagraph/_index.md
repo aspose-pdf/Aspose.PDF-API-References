@@ -1,541 +1,325 @@
 ---
 title: TextParagraph
+linktitle: TextParagraph
 second_title: Aspose.PDF for Java API Reference
-description: Represents text paragraphs as multiline text object.
+description: <p> Represents text paragraphs as multiline text object. </p> <hr> <pre> The example demonstrates how to create text paragraph object and append it to the Pdf page. Document doc.
 type: docs
-weight: 382
+weight: 5200
 url: /java/com.aspose.pdf/textparagraph/
 ---
 **Inheritance:**
-java.lang.Object
-```
-public final class TextParagraph
-```
-
-Represents text paragraphs as multiline text object.
-
---------------------
+java.lang.Object, com.aspose.pdf.TextParagraph
 
 ```
-The example demonstrates how to create text paragraph object and append it to the Pdf page.
-
-
- Document doc = new Document(inFile);
- Page page = (Page)doc.getPages().get(1);
- // create text paragraph
- TextParagraph paragraph = new TextParagraph();
-
- // set the paragraph rectangle
- paragraph.setRectangle ( new Rectangle(100, 600, 200, 700));
- // set word wrapping options
- paragraph.getFormattingOptions().setWrapMode ( TextFormattingOptions.WordWrapMode.ByWords);
- // append string lines
- paragraph.appendLine("the quick brown fox jumps over the lazy dog");
- paragraph.appendLine("line2");
- paragraph.appendLine("line3");
- // append the paragraph to the Pdf page with the TextBuilder
- TextBuilder textBuilder = new TextBuilder(page);
- textBuilder.appendParagraph(paragraph);
- // save Pdf document
- doc.save(outFile);
+public final class TextParagraph extends Object
 ```
+
+<p> Represents text paragraphs as multiline text object. </p> <hr> <pre> The example demonstrates how to create text paragraph object and append it to the Pdf page. Document doc = new Document(inFile); Page page = (Page)doc.getPages().get(1); // create text paragraph TextParagraph paragraph = new TextParagraph(); // set the paragraph rectangle paragraph.setRectangle ( new Rectangle(100, 600, 200, 700)); // set word wrapping options paragraph.getFormattingOptions().setWrapMode ( TextFormattingOptions.WordWrapMode.ByWords); // append string lines paragraph.appendLine("the quick brown fox jumps over the lazy dog"); paragraph.appendLine("line2"); paragraph.appendLine("line3"); // append the paragraph to the Pdf page with the TextBuilder TextBuilder textBuilder = new TextBuilder(page); textBuilder.appendParagraph(paragraph); // save Pdf document doc.save(outFile); </pre>
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [TextParagraph()](#TextParagraph--) | Creates  TextParagraph  object. |
+| [TextParagraph](#TextParagraph--) | Creates {@code TextParagraph} object. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [setBackgroundColor(Color value)](#setBackgroundColor-com.aspose.pdf.Color-) | Sets background color for the text paragraph. |
-| [getVerticalAlignment()](#getVerticalAlignment--) | Gets vertical alignment for the text inside paragrph's  Rectangle . |
-| [setVerticalAlignment(VerticalAlignment value)](#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-) | Sets vertical alignment for the text inside paragrph's  Rectangle . |
-| [getSubsequentLinesIndent()](#getSubsequentLinesIndent--) | Gets subsequent lines indent value. |
-| [setSubsequentLinesIndent(float value)](#setSubsequentLinesIndent-float-) | Sets subsequent lines indent value. |
-| [getFirstLineIndent()](#getFirstLineIndent--) | Gets or sets subsequent lines indent value. |
-| [setFirstLineIndent(float value)](#setFirstLineIndent-float-) | Gets or sets subsequent lines indent value. |
-| [isJustify()](#isJustify--) | Gets value whether text is justified. |
-| [setJustify(boolean value)](#setJustify-boolean-) | Sets value whether text is justified. |
-| [getHorizontalAlignment()](#getHorizontalAlignment--) | Gets horizontal alignment for the text inside paragrph's Rectangle. |
-| [setHorizontalAlignment(HorizontalAlignment value)](#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-) | Sets horizontal alignment for the text inside paragrph's Rectangle. |
-| [getHyphenSymbol()](#getHyphenSymbol--) | Gets hyphen symbol that is used in hyphenation process. |
-| [setHyphenSymbol(String value)](#setHyphenSymbol-java.lang.String-) | Sets hyphen symbol that is used in hyphenation process. |
-| [getFormattingOptions()](#getFormattingOptions--) | Gets formatting options. |
-| [setFormattingOptions(TextFormattingOptions value)](#setFormattingOptions-com.aspose.pdf.TextFormattingOptions-) | Sets formatting options. |
-| [getPosition()](#getPosition--) | Gets position of the paragraph. |
-| [setPosition(Position value)](#setPosition-com.aspose.pdf.Position-) | Sets position of the paragraph. |
-| [getTextRectangle()](#getTextRectangle--) | Gets rectangle of the text placed to the paragraph. |
-| [getRectangle()](#getRectangle--) | Gets rectangle of the paragraph. |
-| [setRectangle(Rectangle value)](#setRectangle-com.aspose.pdf.Rectangle-) | Sets rectangle of the paragraph. |
-| [getMargin()](#getMargin--) | Gets the padding. |
-| [setMargin(MarginInfo value)](#setMargin-com.aspose.pdf.MarginInfo-) | Sets the padding. |
-| [getRotation()](#getRotation--) | Gets or sets rotation angle in degrees. |
-| [setRotation(double value)](#setRotation-double-) | Gets or sets rotation angle in degrees. |
-| [beginEdit()](#beginEdit--) | Begins the editing of the TextParagraph. |
-| [endEdit()](#endEdit--) | Ends the editing of the TextParagraph. |
-| [appendLine(String line)](#appendLine-java.lang.String-) | Appends text line |
-| [appendLine(String line, float lineSpacing)](#appendLine-java.lang.String-float-) | Appends text line. |
-| [appendLine(String line, TextState textState)](#appendLine-java.lang.String-com.aspose.pdf.TextState-) | Appends text line with text state parameters. |
-| [appendLine(String line, TextState textState, float lineSpacing)](#appendLine-java.lang.String-com.aspose.pdf.TextState-float-) | Appends text line with text state parameters |
-| [appendLine(TextFragment line)](#appendLine-com.aspose.pdf.TextFragment-) | Appends text line with text state parameters. |
-| [appendLine(TextFragment line, TextState textState)](#appendLine-com.aspose.pdf.TextFragment-com.aspose.pdf.TextState-) | Appends text line with text state parameters. |
-| [appendLine(TextFragment line, TextState textState, float lineSpacing)](#appendLine-com.aspose.pdf.TextFragment-com.aspose.pdf.TextState-float-) | Appends text line with text state parameters |
-| [setMatrix(Matrix value)](#setMatrix-com.aspose.pdf.Matrix-) | Sets Rotation of the paragraph. |
-| [setOldCodeCompatibilityMode(boolean value)](#setOldCodeCompatibilityMode-boolean-) | Set old code compatibility mode |
-| [setBackgroundMode(int value)](#setBackgroundMode-int-) | Set background mode for the text paragraph |
-### TextParagraph() {#TextParagraph--}
+| [appendLine](#appendLine-java.lang.String-) | Appends text line |
+| [appendLine](#appendLine-java.lang.String-float-) | Appends text line. |
+| [appendLine](#appendLine-java.lang.String-com.aspose.pdf.TextState-) | Appends text line with text state parameters. |
+| [appendLine](#appendLine-java.lang.String-com.aspose.pdf.TextState-float-) | Appends text line with text state parameters |
+| [appendLine](#appendLine-com.aspose.pdf.TextFragment-) | Appends text line with text state parameters. |
+| [appendLine](#appendLine-com.aspose.pdf.TextFragment-com.aspose.pdf.TextState-) | Appends text line with text state parameters. |
+| [appendLine](#appendLine-com.aspose.pdf.TextFragment-com.aspose.pdf.TextState-float-) | Appends text line with text state parameters |
+| [beginEdit](#beginEdit--) | Begins the editing of the TextParagraph. <p> Improves performance of TextParagraph population. Any layout calculation is suspended until EndEdit method is invoked. <p> Note that method invoke can't be nested. </p> |
+| [endEdit](#endEdit--) | Ends the editing of the TextParagraph. <p> Improves performance of TextParagraph population. Any layout calculation is suspended until EndEdit method is invoked. <p> Note that method invoke can't be nested. </p> |
+| [getFirstLineIndent](#getFirstLineIndent--) | Gets or sets subsequent lines indent value. If set to a non-zero value, it has an advantage over the FormattingOptions.SubsequentLinesIndent value. |
+| [getFormattingOptions](#getFormattingOptions--) | Gets formatting options. |
+| [getHorizontalAlignment](#getHorizontalAlignment--) | Gets horizontal alignment for the text inside paragrph's Rectangle. HorizontalAlignment.None is equal to HorizontalAlignment.Left. |
+| [getHyphenSymbol](#getHyphenSymbol--) | Gets hyphen symbol that is used in hyphenation process. The hyphenation symbol is "-" by default. To eliminate hyphen drawing (with wrapping procedure still in place) please set empty string string.Empty for HyphenSymbol. |
+| [getMargin](#getMargin--) | Gets the padding. |
+| [getPosition](#getPosition--) | Gets position of the paragraph. |
+| [getRectangle](#getRectangle--) | Gets rectangle of the paragraph. |
+| [getRotation](#getRotation--) | Gets or sets rotation angle in degrees. |
+| [getSubsequentLinesIndent](#getSubsequentLinesIndent--) | Gets subsequent lines indent value. |
+| [getTextRectangle](#getTextRectangle--) | Gets rectangle of the text placed to the paragraph. |
+| [getVerticalAlignment](#getVerticalAlignment--) | <p> Gets vertical alignment for the text inside paragrph's {@code Rectangle}. </p> |
+| [isJustify](#isJustify--) | Gets value whether text is justified. |
+| [setBackgroundColor](#setBackgroundColor-com.aspose.pdf.Color-) | Sets background color for the text paragraph. |
+| [setBackgroundMode](#setBackgroundMode-int-) | Set background mode for the text paragraph |
+| [setFirstLineIndent](#setFirstLineIndent-float-) | Gets or sets subsequent lines indent value. If set to a non-zero value, it has an advantage over the FormattingOptions.SubsequentLinesIndent value. |
+| [setFormattingOptions](#setFormattingOptions-com.aspose.pdf.TextFormattingOptions-) | Sets formatting options. |
+| [setHorizontalAlignment](#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-) | Sets horizontal alignment for the text inside paragrph's Rectangle. HorizontalAlignment.None is equal to HorizontalAlignment.Left. |
+| [setHyphenSymbol](#setHyphenSymbol-java.lang.String-) | Sets hyphen symbol that is used in hyphenation process. The hyphenation symbol is "-" by default. To eliminate hyphen drawing (with wrapping procedure still in place) please set empty string string.Empty for HyphenSymbol. |
+| [setJustify](#setJustify-boolean-) | Sets value whether text is justified. |
+| [setMargin](#setMargin-com.aspose.pdf.MarginInfo-) | Sets the padding. |
+| [setMatrix](#setMatrix-com.aspose.pdf.Matrix-) | Sets Rotation of the paragraph. |
+| [setOldCodeCompatibilityMode](#setOldCodeCompatibilityMode-boolean-) | Set old code compatibility mode |
+| [setPosition](#setPosition-com.aspose.pdf.Position-) | Sets position of the paragraph. |
+| [setRectangle](#setRectangle-com.aspose.pdf.Rectangle-) | Sets rectangle of the paragraph. |
+| [setRotation](#setRotation-double-) | Gets or sets rotation angle in degrees. |
+| [setSubsequentLinesIndent](#setSubsequentLinesIndent-float-) | Sets subsequent lines indent value. |
+| [setVerticalAlignment](#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-) | Sets vertical alignment for the text inside paragrph's {@code Rectangle}. VerticalAlignment.None is equal to VerticalAlignment.Bottom. |
+
+### TextParagraph {#TextParagraph--}
 ```
 public TextParagraph()
 ```
 
+Creates {@code TextParagraph} object.
 
-Creates  TextParagraph  object.
+### appendLine {#appendLine-java.lang.String-}
+Appends text line
 
-### setBackgroundColor(Color value) {#setBackgroundColor-com.aspose.pdf.Color-}
-```
-public void setBackgroundColor(Color value)
-```
+### appendLine {#appendLine-java.lang.String-float-}
+Appends text line.
 
+### appendLine {#appendLine-java.lang.String-com.aspose.pdf.TextState-}
+Appends text line with text state parameters.
 
-Sets background color for the text paragraph.
+### appendLine {#appendLine-java.lang.String-com.aspose.pdf.TextState-float-}
+Appends text line with text state parameters
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Color](../../com.aspose.pdf/color) | Color object |
+### appendLine {#appendLine-com.aspose.pdf.TextFragment-}
+Appends text line with text state parameters.
 
-### getVerticalAlignment() {#getVerticalAlignment--}
-```
-public VerticalAlignment getVerticalAlignment()
-```
+### appendLine {#appendLine-com.aspose.pdf.TextFragment-com.aspose.pdf.TextState-}
+Appends text line with text state parameters.
 
+### appendLine {#appendLine-com.aspose.pdf.TextFragment-com.aspose.pdf.TextState-float-}
+Appends text line with text state parameters
 
-Gets vertical alignment for the text inside paragrph's  Rectangle .
-
-**Returns:**
-[VerticalAlignment](../../com.aspose.pdf/verticalalignment) - VerticalAlignment value
-### setVerticalAlignment(VerticalAlignment value) {#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-}
-```
-public void setVerticalAlignment(VerticalAlignment value)
-```
-
-
-Sets vertical alignment for the text inside paragrph's  Rectangle .
-
-VerticalAlignment.None is equal to VerticalAlignment.Bottom.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [VerticalAlignment](../../com.aspose.pdf/verticalalignment) | VerticalAlignment value |
-
-### getSubsequentLinesIndent() {#getSubsequentLinesIndent--}
-```
-public float getSubsequentLinesIndent()
-```
-
-
-Gets subsequent lines indent value.
-
-**Returns:**
-float - float value
-### setSubsequentLinesIndent(float value) {#setSubsequentLinesIndent-float-}
-```
-public void setSubsequentLinesIndent(float value)
-```
-
-
-Sets subsequent lines indent value.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | float | float value |
-
-### getFirstLineIndent() {#getFirstLineIndent--}
-```
-public final float getFirstLineIndent()
-```
-
-
-Gets or sets subsequent lines indent value. If set to a non-zero value, it has an advantage over the FormattingOptions.SubsequentLinesIndent value.
-
-**Returns:**
-float - float value
-### setFirstLineIndent(float value) {#setFirstLineIndent-float-}
-```
-public final void setFirstLineIndent(float value)
-```
-
-
-Gets or sets subsequent lines indent value. If set to a non-zero value, it has an advantage over the FormattingOptions.SubsequentLinesIndent value.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | float | float value |
-
-### isJustify() {#isJustify--}
-```
-public boolean isJustify()
-```
-
-
-Gets value whether text is justified.
-
-**Returns:**
-boolean - boolean value
-### setJustify(boolean value) {#setJustify-boolean-}
-```
-public void setJustify(boolean value)
-```
-
-
-Sets value whether text is justified.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### getHorizontalAlignment() {#getHorizontalAlignment--}
-```
-public HorizontalAlignment getHorizontalAlignment()
-```
-
-
-Gets horizontal alignment for the text inside paragrph's Rectangle.
-
-HorizontalAlignment.None is equal to HorizontalAlignment.Left.
-
-**Returns:**
-[HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) - HorizontalAlignment value
-### setHorizontalAlignment(HorizontalAlignment value) {#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-}
-```
-public void setHorizontalAlignment(HorizontalAlignment value)
-```
-
-
-Sets horizontal alignment for the text inside paragrph's Rectangle.
-
-HorizontalAlignment.None is equal to HorizontalAlignment.Left.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [HorizontalAlignment](../../com.aspose.pdf/horizontalalignment) | HorizontalAlignment value |
-
-### getHyphenSymbol() {#getHyphenSymbol--}
-```
-public String getHyphenSymbol()
-```
-
-
-Gets hyphen symbol that is used in hyphenation process.
-
-The hyphenation symbol is "-" by default. To eliminate hyphen drawing (with wrapping procedure still in place) please set empty string string.Empty for HyphenSymbol.
-
-**Returns:**
-java.lang.String - String value
-### setHyphenSymbol(String value) {#setHyphenSymbol-java.lang.String-}
-```
-public void setHyphenSymbol(String value)
-```
-
-
-Sets hyphen symbol that is used in hyphenation process.
-
-The hyphenation symbol is "-" by default. To eliminate hyphen drawing (with wrapping procedure still in place) please set empty string string.Empty for HyphenSymbol.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-
-### getFormattingOptions() {#getFormattingOptions--}
-```
-public TextFormattingOptions getFormattingOptions()
-```
-
-
-Gets formatting options.
-
-**Returns:**
-[TextFormattingOptions](../../com.aspose.pdf/textformattingoptions) - TextFormattingOptions object
-### setFormattingOptions(TextFormattingOptions value) {#setFormattingOptions-com.aspose.pdf.TextFormattingOptions-}
-```
-public void setFormattingOptions(TextFormattingOptions value)
-```
-
-
-Sets formatting options.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [TextFormattingOptions](../../com.aspose.pdf/textformattingoptions) | TextFormattingOptions object |
-
-### getPosition() {#getPosition--}
-```
-public Position getPosition()
-```
-
-
-Gets position of the paragraph.
-
-**Returns:**
-[Position](../../com.aspose.pdf/position) - Position value
-### setPosition(Position value) {#setPosition-com.aspose.pdf.Position-}
-```
-public void setPosition(Position value)
-```
-
-
-Sets position of the paragraph.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Position](../../com.aspose.pdf/position) | Position value |
-
-### getTextRectangle() {#getTextRectangle--}
-```
-public Rectangle getTextRectangle()
-```
-
-
-Gets rectangle of the text placed to the paragraph.
-
-**Returns:**
-[Rectangle](../../com.aspose.pdf/rectangle) - Rectangle object
-### getRectangle() {#getRectangle--}
-```
-public Rectangle getRectangle()
-```
-
-
-Gets rectangle of the paragraph.
-
-**Returns:**
-[Rectangle](../../com.aspose.pdf/rectangle) - Rectangle object
-### setRectangle(Rectangle value) {#setRectangle-com.aspose.pdf.Rectangle-}
-```
-public void setRectangle(Rectangle value)
-```
-
-
-Sets rectangle of the paragraph.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Rectangle](../../com.aspose.pdf/rectangle) | Rectangle object |
-
-### getMargin() {#getMargin--}
-```
-public MarginInfo getMargin()
-```
-
-
-Gets the padding.
-
-**Returns:**
-[MarginInfo](../../com.aspose.pdf/margininfo) - MarginInfo value
-### setMargin(MarginInfo value) {#setMargin-com.aspose.pdf.MarginInfo-}
-```
-public void setMargin(MarginInfo value)
-```
-
-
-Sets the padding.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [MarginInfo](../../com.aspose.pdf/margininfo) | MarginInfo value |
-
-### getRotation() {#getRotation--}
-```
-public double getRotation()
-```
-
-
-Gets or sets rotation angle in degrees.
-
-**Returns:**
-double - double value
-### setRotation(double value) {#setRotation-double-}
-```
-public void setRotation(double value)
-```
-
-
-Gets or sets rotation angle in degrees.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | double value |
-
-### beginEdit() {#beginEdit--}
+### beginEdit {#beginEdit--}
 ```
 public void beginEdit()
 ```
 
+Begins the editing of the TextParagraph. <p> Improves performance of TextParagraph population. Any layout calculation is suspended until EndEdit method is invoked. <p> Note that method invoke can't be nested. </p>
 
-Begins the editing of the TextParagraph.
-
-Improves performance of TextParagraph population. Any layout calculation is suspended until EndEdit method is invoked.
-
-Note that method invoke can't be nested.
-
-### endEdit() {#endEdit--}
+### endEdit {#endEdit--}
 ```
 public void endEdit()
 ```
 
+Ends the editing of the TextParagraph. <p> Improves performance of TextParagraph population. Any layout calculation is suspended until EndEdit method is invoked. <p> Note that method invoke can't be nested. </p>
 
-Ends the editing of the TextParagraph.
-
-Improves performance of TextParagraph population. Any layout calculation is suspended until EndEdit method is invoked.
-
-Note that method invoke can't be nested.
-
-### appendLine(String line) {#appendLine-java.lang.String-}
+### getFirstLineIndent {#getFirstLineIndent--}
 ```
-public void appendLine(String line)
+public final float getFirstLineIndent()
 ```
 
+Gets or sets subsequent lines indent value. If set to a non-zero value, it has an advantage over the FormattingOptions.SubsequentLinesIndent value.
 
-Appends text line
+**Returns:**
+float value
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| line | java.lang.String | The new line's text. |
-
-### appendLine(String line, float lineSpacing) {#appendLine-java.lang.String-float-}
+### getFormattingOptions {#getFormattingOptions--}
 ```
-public void appendLine(String line, float lineSpacing)
+public TextFormattingOptions getFormattingOptions()
 ```
 
+Gets formatting options.
 
-Appends text line.
+**Returns:**
+TextFormattingOptions object
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| line | java.lang.String | The new line's text. |
-| lineSpacing | float | Additional spacing (0.0 is default and corresponds to default text line height). The spacing value is added to default line spacing for the particular line, so you may specify 12.0 to get empty row AFTER a text line drawn with 12pt font. |
-
-### appendLine(String line, TextState textState) {#appendLine-java.lang.String-com.aspose.pdf.TextState-}
+### getHorizontalAlignment {#getHorizontalAlignment--}
 ```
-public void appendLine(String line, TextState textState)
+public HorizontalAlignment getHorizontalAlignment()
 ```
 
+Gets horizontal alignment for the text inside paragrph's Rectangle. HorizontalAlignment.None is equal to HorizontalAlignment.Left.
 
-Appends text line with text state parameters.
+**Returns:**
+HorizontalAlignment value @see HorizontalAlignment
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| line | java.lang.String | The new line's text. |
-| textState | [TextState](../../com.aspose.pdf/textstate) | Text state of the new line. |
-
-### appendLine(String line, TextState textState, float lineSpacing) {#appendLine-java.lang.String-com.aspose.pdf.TextState-float-}
+### getHyphenSymbol {#getHyphenSymbol--}
 ```
-public void appendLine(String line, TextState textState, float lineSpacing)
+public String getHyphenSymbol()
 ```
 
+Gets hyphen symbol that is used in hyphenation process. The hyphenation symbol is "-" by default. To eliminate hyphen drawing (with wrapping procedure still in place) please set empty string string.Empty for HyphenSymbol.
 
-Appends text line with text state parameters
+**Returns:**
+String value
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| line | java.lang.String | The new line's text. |
-| textState | [TextState](../../com.aspose.pdf/textstate) | Text state of the new line. |
-| lineSpacing | float | Additional spacing (0.0 is default and corresponds to default text line height). The spacing value is added to default line spacing for the particular line, so you may specify 12.0 to get empty row AFTER a text line drawn with 12pt font. |
-
-### appendLine(TextFragment line) {#appendLine-com.aspose.pdf.TextFragment-}
+### getMargin {#getMargin--}
 ```
-public void appendLine(TextFragment line)
+public MarginInfo getMargin()
 ```
 
+Gets the padding.
 
-Appends text line with text state parameters.
+**Returns:**
+MarginInfo value
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| line | [TextFragment](../../com.aspose.pdf/textfragment) | The new line's text. |
-
-### appendLine(TextFragment line, TextState textState) {#appendLine-com.aspose.pdf.TextFragment-com.aspose.pdf.TextState-}
+### getPosition {#getPosition--}
 ```
-public void appendLine(TextFragment line, TextState textState)
+public Position getPosition()
 ```
 
+Gets position of the paragraph.
 
-Appends text line with text state parameters.
+**Returns:**
+Position value
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| line | [TextFragment](../../com.aspose.pdf/textfragment) | The new line's text. |
-| textState | [TextState](../../com.aspose.pdf/textstate) | Text state of the new line. |
-
-### appendLine(TextFragment line, TextState textState, float lineSpacing) {#appendLine-com.aspose.pdf.TextFragment-com.aspose.pdf.TextState-float-}
+### getRectangle {#getRectangle--}
 ```
-public void appendLine(TextFragment line, TextState textState, float lineSpacing)
+public Rectangle getRectangle()
 ```
 
+Gets rectangle of the paragraph.
 
-Appends text line with text state parameters
+**Returns:**
+Rectangle object
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| line | [TextFragment](../../com.aspose.pdf/textfragment) | The new line's text. |
-| textState | [TextState](../../com.aspose.pdf/textstate) | Text state of the new line. |
-| lineSpacing | float | Additional spacing (0.0 is default and corresponds to default text line height). The spacing value is added to default line spacing for the particular line, so you may specify 12.0 to get empty row AFTER a text line drawn with 12pt font. |
-
-### setMatrix(Matrix value) {#setMatrix-com.aspose.pdf.Matrix-}
+### getRotation {#getRotation--}
 ```
-public void setMatrix(Matrix value)
+public double getRotation()
 ```
 
+Gets or sets rotation angle in degrees.
 
-Sets Rotation of the paragraph.
+**Returns:**
+double value
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Matrix](../../com.aspose.pdf/matrix) | Matrix object |
-
-### setOldCodeCompatibilityMode(boolean value) {#setOldCodeCompatibilityMode-boolean-}
+### getSubsequentLinesIndent {#getSubsequentLinesIndent--}
 ```
-public void setOldCodeCompatibilityMode(boolean value)
+public float getSubsequentLinesIndent()
 ```
 
+Gets subsequent lines indent value.
 
-Set old code compatibility mode
+**Returns:**
+float value
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
+### getTextRectangle {#getTextRectangle--}
+```
+public Rectangle getTextRectangle()
+```
 
-### setBackgroundMode(int value) {#setBackgroundMode-int-}
+Gets rectangle of the text placed to the paragraph.
+
+**Returns:**
+Rectangle object
+
+### getVerticalAlignment {#getVerticalAlignment--}
+```
+public VerticalAlignment getVerticalAlignment()
+```
+
+<p> Gets vertical alignment for the text inside paragrph's {@code Rectangle}. </p>
+
+**Returns:**
+VerticalAlignment value @see VerticalAlignment <hr> <p> VerticalAlignment.None is equal to VerticalAlignment.Bottom. </p>
+
+### isJustify {#isJustify--}
+```
+public boolean isJustify()
+```
+
+Gets value whether text is justified.
+
+**Returns:**
+boolean value
+
+### setBackgroundColor {#setBackgroundColor-com.aspose.pdf.Color-}
+Sets background color for the text paragraph.
+
+### setBackgroundMode {#setBackgroundMode-int-}
 ```
 public void setBackgroundMode(int value)
 ```
-
 
 Set background mode for the text paragraph
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | int value |
+| value |  | int value @see TextBackgroundMode |
 
+### setFirstLineIndent {#setFirstLineIndent-float-}
+```
+public final void setFirstLineIndent(float value)
+```
+
+Gets or sets subsequent lines indent value. If set to a non-zero value, it has an advantage over the FormattingOptions.SubsequentLinesIndent value.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | float value |
+
+### setFormattingOptions {#setFormattingOptions-com.aspose.pdf.TextFormattingOptions-}
+Sets formatting options.
+
+### setHorizontalAlignment {#setHorizontalAlignment-com.aspose.pdf.HorizontalAlignment-}
+Sets horizontal alignment for the text inside paragrph's Rectangle. HorizontalAlignment.None is equal to HorizontalAlignment.Left.
+
+### setHyphenSymbol {#setHyphenSymbol-java.lang.String-}
+Sets hyphen symbol that is used in hyphenation process. The hyphenation symbol is "-" by default. To eliminate hyphen drawing (with wrapping procedure still in place) please set empty string string.Empty for HyphenSymbol.
+
+### setJustify {#setJustify-boolean-}
+```
+public void setJustify(boolean value)
+```
+
+Sets value whether text is justified.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | boolean value |
+
+### setMargin {#setMargin-com.aspose.pdf.MarginInfo-}
+Sets the padding.
+
+### setMatrix {#setMatrix-com.aspose.pdf.Matrix-}
+Sets Rotation of the paragraph.
+
+### setOldCodeCompatibilityMode {#setOldCodeCompatibilityMode-boolean-}
+```
+public void setOldCodeCompatibilityMode(boolean value)
+```
+
+Set old code compatibility mode
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | boolean value |
+
+### setPosition {#setPosition-com.aspose.pdf.Position-}
+Sets position of the paragraph.
+
+### setRectangle {#setRectangle-com.aspose.pdf.Rectangle-}
+Sets rectangle of the paragraph.
+
+### setRotation {#setRotation-double-}
+```
+public void setRotation(double value)
+```
+
+Gets or sets rotation angle in degrees.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | double value |
+
+### setSubsequentLinesIndent {#setSubsequentLinesIndent-float-}
+```
+public void setSubsequentLinesIndent(float value)
+```
+
+Sets subsequent lines indent value.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | float value |
+
+### setVerticalAlignment {#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-}
+Sets vertical alignment for the text inside paragrph's {@code Rectangle}. VerticalAlignment.None is equal to VerticalAlignment.Bottom.

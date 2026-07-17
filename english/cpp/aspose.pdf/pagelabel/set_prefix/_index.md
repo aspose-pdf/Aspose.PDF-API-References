@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagelabel/set_prefix/
 Sets page number prefix.
 
 ```cpp
-void Aspose::Pdf::PageLabel::set_Prefix(System::String value)
+void Aspose::Pdf::PageLabel::set_Prefix(const System::String &value)
 ```
 
 ## See Also

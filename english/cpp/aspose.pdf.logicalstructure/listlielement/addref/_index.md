@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.logicalstructure/listlielement/addref/
 Adds a reference to the specified [StructureElement](../../structureelement/) within this [Table](../../../aspose.pdf/table/) of Contents Item (TOCI) element. This is typically used when **[ListLIElement](../)** serves as a TOC header in nested tables of contents.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::ListLIElement::AddRef(System::SharedPtr<StructureElement> referencedStructureElement)
+void Aspose::Pdf::LogicalStructure::ListLIElement::AddRef(const System::SharedPtr<StructureElement> &referencedStructureElement)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| referencedStructureElement | System::SharedPtr\<StructureElement\> | The [StructureElement](../../structureelement/) to be referenced by this TOCI element. |
+| referencedStructureElement | const System::SharedPtr\<StructureElement\>\& | The [StructureElement](../../structureelement/) to be referenced by this TOCI element. |
 ## Remarks
 
 

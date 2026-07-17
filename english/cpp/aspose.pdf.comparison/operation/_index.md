@@ -4,7 +4,7 @@ linktitle: Operation
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Comparison::Operation enum. Represents a difference operation type in C++.'
 type: docs
-weight: 2000
+weight: 2300
 url: /cpp/aspose.pdf.comparison/operation/
 ---
 ## Operation enum

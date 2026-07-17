@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/formcomboboxfieldsetoptions/set_options/
 Gets/sets the value to determine property Options for modified field (if will be set).
 
 ```cpp
-void Aspose::Pdf::LowCode::FormComboBoxFieldSetOptions::set_Options(System::SharedPtr<System::Collections::Generic::List<System::String>> value)
+void Aspose::Pdf::LowCode::FormComboBoxFieldSetOptions::set_Options(const System::SharedPtr<System::Collections::Generic::List<System::String>> &value)
 ```
 
 ## See Also

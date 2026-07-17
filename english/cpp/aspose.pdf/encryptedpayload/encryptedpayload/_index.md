@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/encryptedpayload/encryptedpayload/
 Initialize Encrypted payload instance.
 
 ```cpp
-Aspose::Pdf::EncryptedPayload::EncryptedPayload(System::SharedPtr<FileSpecification> fileSpecification)
+Aspose::Pdf::EncryptedPayload::EncryptedPayload(const System::SharedPtr<FileSpecification> &fileSpecification)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileSpecification | System::SharedPtr\<FileSpecification\> | The file specification used for initialization. |
+| fileSpecification | const System::SharedPtr\<FileSpecification\>\& | The file specification used for initialization. |
 
 ## See Also
 

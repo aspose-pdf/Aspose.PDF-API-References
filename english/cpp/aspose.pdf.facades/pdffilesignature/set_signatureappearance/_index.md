@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilesignature/set_signatureappearance/
 Sets or gets a graphic appearance for the signature. Property value represents image file name.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileSignature::set_SignatureAppearance(System::String value)
+void Aspose::Pdf::Facades::PdfFileSignature::set_SignatureAppearance(const System::String &value)
 ```
 
 ## See Also

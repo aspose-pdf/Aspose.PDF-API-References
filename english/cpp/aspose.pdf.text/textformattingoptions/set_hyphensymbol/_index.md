@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textformattingoptions/set_hyphensymbol/
 Sets hyphen symbol that is used in hyphenation process.
 
 ```cpp
-void Aspose::Pdf::Text::TextFormattingOptions::set_HyphenSymbol(System::String value)
+void Aspose::Pdf::Text::TextFormattingOptions::set_HyphenSymbol(const System::String &value)
 ```
 
 ## Remarks

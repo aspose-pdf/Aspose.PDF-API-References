@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.facades/pdfbookmarkeditor/modifybookmarks/
 Modifys bookmark title according to the specified bookmark title.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfBookmarkEditor::ModifyBookmarks(System::String sTitle, System::String dTitle)
+void Aspose::Pdf::Facades::PdfBookmarkEditor::ModifyBookmarks(const System::String &sTitle, const System::String &dTitle)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| sTitle | System::String | Source bookmark title. |
-| dTitle | System::String | Modified bookmark title. |
+| sTitle | const System::String\& | Source bookmark title. |
+| dTitle | const System::String\& | Modified bookmark title. |
 
 ## See Also
 

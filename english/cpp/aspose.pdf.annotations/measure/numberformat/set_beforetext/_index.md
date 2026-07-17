@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/measure/numberformat/set_beforetext/
 [Text](../../../../aspose.pdf.text/) that shall be concatenated to the left of the label.
 
 ```cpp
-void Aspose::Pdf::Annotations::Measure::NumberFormat::set_BeforeText(System::String value)
+void Aspose::Pdf::Annotations::Measure::NumberFormat::set_BeforeText(const System::String &value)
 ```
 
 ## See Also

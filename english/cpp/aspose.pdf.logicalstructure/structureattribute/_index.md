@@ -27,14 +27,14 @@ class StructureAttribute : public System::Object
 | [GetNameValue](./getnamevalue/)() | Gets Value Name. |
 | [GetNumberValue](./getnumbervalue/)() | Gets Value Number. |
 | [GetStringValue](./getstringvalue/)() | Gets Value String. |
-| [SetArrayNumberValue](./setarraynumbervalue/)(System::ArrayPtr\<System::Nullable\<double\>\>) | Sets Value Number Array. |
-| [SetArrayValue](./setarrayvalue/)(System::ArrayPtr\<System::SharedPtr\<AttributeName\>\>) | Sets Value Name Array. |
-| [SetColorValue](./setcolorvalue/)(System::SharedPtr\<Color\>) | Sets Value [Color](../../aspose.pdf/color/). |
-| [SetNameValue](./setnamevalue/)(System::SharedPtr\<AttributeName\>) | Sets Value Name. |
+| [SetArrayNumberValue](./setarraynumbervalue/)(const System::ArrayPtr\<System::Nullable\<double\>\>\&) | Sets Value Number Array. |
+| [SetArrayValue](./setarrayvalue/)(const System::ArrayPtr\<System::SharedPtr\<AttributeName\>\>\&) | Sets Value Name Array. |
+| [SetColorValue](./setcolorvalue/)(const System::SharedPtr\<Color\>\&) | Sets Value [Color](../../aspose.pdf/color/). |
+| [SetNameValue](./setnamevalue/)(const System::SharedPtr\<AttributeName\>\&) | Sets Value Name. |
 | [SetNumberValue](./setnumbervalue/)(double) | Sets Value Number. |
-| [SetRectangleValue](./setrectanglevalue/)(System::SharedPtr\<Rectangle\>) | Sets Value [Rectangle](../../aspose.pdf/rectangle/). |
-| [SetStringValue](./setstringvalue/)(System::String) | Sets Value String. |
-| [StructureAttribute](./structureattribute/)(System::SharedPtr\<AttributeKey\>) | Initializes a new instance of the [StructureAttribute](./). |
+| [SetRectangleValue](./setrectanglevalue/)(const System::SharedPtr\<Rectangle\>\&) | Sets Value [Rectangle](../../aspose.pdf/rectangle/). |
+| [SetStringValue](./setstringvalue/)(const System::String\&) | Sets Value String. |
+| [StructureAttribute](./structureattribute/)(const System::SharedPtr\<AttributeKey\>\&) | Initializes a new instance of the [StructureAttribute](./). |
 | [ToString](./tostring/)() const override | Analog of C# Object.ToString() method. Enables converting custom objects to string. |
 ## See Also
 

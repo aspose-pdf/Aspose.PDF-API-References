@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/movieannotation/set_file/
 Sets a file specification identifying a self-describing movie file.
 
 ```cpp
-void Aspose::Pdf::Annotations::MovieAnnotation::set_File(System::SharedPtr<FileSpecification> value)
+void Aspose::Pdf::Annotations::MovieAnnotation::set_File(const System::SharedPtr<FileSpecification> &value)
 ```
 
 ## See Also

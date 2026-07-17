@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.facades/pdfpageeditor/getpageboxsize/
 Returns size of specified box in document.
 
 ```cpp
-System::Drawing::Rectangle Aspose::Pdf::Facades::PdfPageEditor::GetPageBoxSize(int32_t page, System::String pageBoxName)
+System::Drawing::Rectangle Aspose::Pdf::Facades::PdfPageEditor::GetPageBoxSize(int32_t page, const System::String &pageBoxName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | page | int32_t | [Page](../../../aspose.pdf/page/) index. [Document](../../../aspose.pdf/document/) pages are numbered from 1. |
-| pageBoxName | System::String | Box type name. Valid values are: "art", "bleed", "crop", "media", "trim". |
+| pageBoxName | const System::String\& | Box type name. Valid values are: "art", "bleed", "crop", "media", "trim". |
 
 ### ReturnValue
 

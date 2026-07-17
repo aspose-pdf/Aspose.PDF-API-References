@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf/artifactcollection/findbyvalue/
 Finds artifacts by custom value.
 
 ```cpp
-System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Artifact>>> Aspose::Pdf::ArtifactCollection::FindByValue(System::String name, System::String expectedValue)
+System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<Artifact>>> Aspose::Pdf::ArtifactCollection::FindByValue(const System::String &name, const System::String &expectedValue)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | Name of custom value. |
-| expectedValue | System::String | Value to find. |
+| name | const System::String\& | Name of custom value. |
+| expectedValue | const System::String\& | Value to find. |
 
 ### ReturnValue
 

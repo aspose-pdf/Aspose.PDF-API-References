@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/gradientradialshading/set_endcolor/
 Sets end color.
 
 ```cpp
-void Aspose::Pdf::Drawing::GradientRadialShading::set_EndColor(System::SharedPtr<Color> value)
+void Aspose::Pdf::Drawing::GradientRadialShading::set_EndColor(const System::SharedPtr<Color> &value)
 ```
 
 ## See Also

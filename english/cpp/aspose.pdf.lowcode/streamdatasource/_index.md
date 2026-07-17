@@ -22,7 +22,7 @@ class StreamDataSource : public Aspose::Pdf::LowCode::IDataSource
 | --- | --- |
 | [get_Data](./get_data/)() const | Gets the stream object of the current data source. |
 | [get_DataType](./get_datatype/)() override | Type of data source (stream). |
-| [StreamDataSource](./streamdatasource/)(System::SharedPtr\<System::IO::Stream\>) | Initializes new stream data source with the specified stream object. |
+| [StreamDataSource](./streamdatasource/)(const System::SharedPtr\<System::IO::Stream\>\&) | Initializes new stream data source with the specified stream object. |
 ## See Also
 
 * Class [IDataSource](../idatasource/)

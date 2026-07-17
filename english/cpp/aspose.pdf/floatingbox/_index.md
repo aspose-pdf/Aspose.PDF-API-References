@@ -35,15 +35,15 @@ class FloatingBox : public Aspose::Pdf::BaseParagraph
 | [get_PositioningMode](./get_positioningmode/)() const | Specifies variant for determining the location of the [FloatingBox](./) on the page. |
 | [get_Top](./get_top/)() const | Gets the table top coordinate. |
 | [get_Width](./get_width/)() const | Gets a float value that indicates the width of the floating box. |
-| [set_BackgroundColor](./set_backgroundcolor/)(System::SharedPtr\<Color\>) | Sets a [Aspose::Pdf::Color](../color/) object that indicates the background color of the floating box. |
-| [set_BackgroundImage](./set_backgroundimage/)(System::SharedPtr\<Image\>) | Sets background image for page (for generator only, not filled in when reading document). |
-| [set_Border](./set_border/)(System::SharedPtr\<BorderInfo\>) | Sets a [BorderInfo](../borderinfo/) object that indicates the border info of the floating box. |
-| [set_ColumnInfo](./set_columninfo/)(System::SharedPtr\<Aspose::Pdf::ColumnInfo\>) | Sets a column info. |
+| [set_BackgroundColor](./set_backgroundcolor/)(const System::SharedPtr\<Color\>\&) | Sets a [Aspose::Pdf::Color](../color/) object that indicates the background color of the floating box. |
+| [set_BackgroundImage](./set_backgroundimage/)(const System::SharedPtr\<Image\>\&) | Sets background image for page (for generator only, not filled in when reading document). |
+| [set_Border](./set_border/)(const System::SharedPtr\<BorderInfo\>\&) | Sets a [BorderInfo](../borderinfo/) object that indicates the border info of the floating box. |
+| [set_ColumnInfo](./set_columninfo/)(const System::SharedPtr\<Aspose::Pdf::ColumnInfo\>\&) | Sets a column info. |
 | [set_Height](./set_height/)(double) | Sets a float value that indicates the height of the floating box. |
 | [set_IsNeedRepeating](./set_isneedrepeating/)(bool) | Sets a bool value that indicates whether the paragraph need to be repeated on next page. Default value is false.The attribute is only valid when the paragraph itself and the object its ReferenceParagraphID referred to both are included in RepeatingRows. |
 | [set_Left](./set_left/)(double) | Sets the table left coordinate. |
-| [set_Padding](./set_padding/)(System::SharedPtr\<MarginInfo\>) | Sets a [MarginInfo](../margininfo/) object that indicates the padding of the floating box. |
-| [set_Paragraphs](./set_paragraphs/)(System::SharedPtr\<Aspose::Pdf::Paragraphs\>) | Sets a [Paragraphs](../paragraphs/) collection that indicates all paragraphs in the cell. |
+| [set_Padding](./set_padding/)(const System::SharedPtr\<MarginInfo\>\&) | Sets a [MarginInfo](../margininfo/) object that indicates the padding of the floating box. |
+| [set_Paragraphs](./set_paragraphs/)(const System::SharedPtr\<Aspose::Pdf::Paragraphs\>\&) | Sets a [Paragraphs](../paragraphs/) collection that indicates all paragraphs in the cell. |
 | [set_PositioningMode](./set_positioningmode/)(ParagraphPositioningMode) | Specifies variant for determining the location of the [FloatingBox](./) on the page. |
 | [set_Top](./set_top/)(double) | Sets the table top coordinate. |
 | [set_Width](./set_width/)(double) | Sets a float value that indicates the width of the floating box. |

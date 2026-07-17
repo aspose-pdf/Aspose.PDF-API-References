@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formeditor/set_exportitems/
 Sets options for combo box with export values.
 
 ```cpp
-void Aspose::Pdf::Facades::FormEditor::set_ExportItems(System::ArrayPtr<System::ArrayPtr<System::String>> value)
+void Aspose::Pdf::Facades::FormEditor::set_ExportItems(const System::ArrayPtr<System::ArrayPtr<System::String>> &value)
 ```
 
 ## See Also

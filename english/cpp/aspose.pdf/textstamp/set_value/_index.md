@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/textstamp/set_value/
 Sets string value which is used as stamp on the page.
 
 ```cpp
-void Aspose::Pdf::TextStamp::set_Value(System::String value)
+void Aspose::Pdf::TextStamp::set_Value(const System::String &value)
 ```
 
 ## See Also

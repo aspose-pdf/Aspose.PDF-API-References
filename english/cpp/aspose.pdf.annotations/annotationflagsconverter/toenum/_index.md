@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotationflagsconverter/toenum/
 
 
 ```cpp
-static AnnotationFlags Aspose::Pdf::Annotations::AnnotationFlagsConverter::ToEnum(System::String value)
+static AnnotationFlags Aspose::Pdf::Annotations::AnnotationFlagsConverter::ToEnum(const System::String &value)
 ```
 
 ## See Also

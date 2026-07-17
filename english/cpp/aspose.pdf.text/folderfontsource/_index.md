@@ -21,9 +21,9 @@ class FolderFontSource : public Aspose::Pdf::Text::FontSource
 | Method | Description |
 | --- | --- |
 | [Equals](./equals/)(System::SharedPtr\<System::Object\>) override | Check if folder font source objects are equal. |
-| [FolderFontSource](./folderfontsource/)(System::String) | Initializes a new instance of [FolderFontSource](./) class. |
+| [FolderFontSource](./folderfontsource/)(const System::String\&) | Initializes a new instance of [FolderFontSource](./) class. |
 | [get_FolderPath](./get_folderpath/)() const | Path to the folder that contains font files. |
-| [set_FolderPath](./set_folderpath/)(System::String) | Path to the folder that contains font files. |
+| [set_FolderPath](./set_folderpath/)(const System::String\&) | Path to the folder that contains font files. |
 ## See Also
 
 * Class [FontSource](../fontsource/)

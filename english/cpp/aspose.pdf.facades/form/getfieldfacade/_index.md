@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/form/getfieldfacade/
 Returns FrofmFieldFacade object containing all appearance attributes.
 
 ```cpp
-System::SharedPtr<FormFieldFacade> Aspose::Pdf::Facades::Form::GetFieldFacade(System::String fieldName)
+System::SharedPtr<FormFieldFacade> Aspose::Pdf::Facades::Form::GetFieldFacade(const System::String &fieldName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | Name of field to read. |
+| fieldName | const System::String\& | Name of field to read. |
 
 ### ReturnValue
 

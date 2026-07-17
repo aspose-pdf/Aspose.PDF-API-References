@@ -1,208 +1,182 @@
 ---
 title: IconFit
+linktitle: IconFit
 second_title: Aspose.PDF for Java API Reference
-description: Describes how the widget annotations icon shall be displayed within its annotation rectangle.
+description: Describes how the widget annotation's icon shall be displayed within its annotation rectangle.
 type: docs
-weight: 163
+weight: 2210
 url: /java/com.aspose.pdf/iconfit/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.IconFit
+
 ```
-public final class IconFit
+public final class IconFit extends Object
 ```
 
 Describes how the widget annotation's icon shall be displayed within its annotation rectangle.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getScalingReason()](#getScalingReason--) | Gets scaling reason. |
-| [setScalingReason(int value)](#setScalingReason-int-) | Sets scaling reason. |
-| [getScalingMode()](#getScalingMode--) | The type of scaling that shall be used. |
-| [setScalingMode(int value)](#setScalingMode-int-) | The type of scaling that shall be used. |
-| [getLeftoverLeft()](#getLeftoverLeft--) | Gets space to allocate at the left of the icon. |
-| [setLeftoverLeft(double value)](#setLeftoverLeft-double-) | Sets space to allocate at the left of the icon. |
-| [getLeftoverBottom()](#getLeftoverBottom--) | Gets space to allocate at the bottom of the icon. |
-| [setLeftoverBottom(double value)](#setLeftoverBottom-double-) | Sets space to allocate at the bottom of the icon. |
-| [isSpreadOnBorder()](#isSpreadOnBorder--) | If true, indicates that the button appearance shall be scaled to fit fully within the bounds of the annotation without taking into consideration the line width of the border. |
-| [setSpreadOnBorder(boolean value)](#setSpreadOnBorder-boolean-) | If true, indicates that the button appearance shall be scaled to fit fully within the bounds of the annotation without taking into consideration the line width of the border. |
-| [nameToScalingReason(String reason)](#nameToScalingReason-java.lang.String-) | Converts name of scaling reason into ScalingReason object. |
-| [scalingReasonToName(int reason)](#scalingReasonToName-int-) | Converts scaling reason obejct to name. |
-| [nameToScalingMode(String mode)](#nameToScalingMode-java.lang.String-) | Converts scaling mode name into ScalingMode object. |
-| [scalingModeToName(int mode)](#scalingModeToName-int-) | Converts scaling mode object into name. |
-### getScalingReason() {#getScalingReason--}
-```
-public int getScalingReason()
-```
+| [getLeftoverBottom](#getLeftoverBottom--) | Gets space to allocate at the bottom of the icon. |
+| [getLeftoverLeft](#getLeftoverLeft--) | Gets space to allocate at the left of the icon. |
+| [getScalingMode](#getScalingMode--) | The type of scaling that shall be used. |
+| [getScalingReason](#getScalingReason--) | Gets scaling reason. |
+| [isSpreadOnBorder](#isSpreadOnBorder--) | If true, indicates that the button appearance shall be scaled to fit fully within the bounds of the annotation without taking into consideration the line width of the border. |
+| [nameToScalingMode](#nameToScalingMode-java.lang.String-) | Converts scaling mode name into ScalingMode object. |
+| [nameToScalingReason](#nameToScalingReason-java.lang.String-) | Converts name of scaling reason into ScalingReason object. |
+| [scalingModeToName](#scalingModeToName-int-) | Converts scaling mode object into name. |
+| [scalingReasonToName](#scalingReasonToName-int-) | Converts scaling reason obejct to name. |
+| [setLeftoverBottom](#setLeftoverBottom-double-) | Sets space to allocate at the bottom of the icon. |
+| [setLeftoverLeft](#setLeftoverLeft-double-) | Sets space to allocate at the left of the icon. |
+| [setScalingMode](#setScalingMode-int-) | The type of scaling that shall be used. |
+| [setScalingReason](#setScalingReason-int-) | Sets scaling reason. |
+| [setSpreadOnBorder](#setSpreadOnBorder-boolean-) | If true, indicates that the button appearance shall be scaled to fit fully within the bounds of the annotation without taking into consideration the line width of the border. |
 
-
-Gets scaling reason.
-
-**Returns:**
-int - ScalingReason value
-### setScalingReason(int value) {#setScalingReason-int-}
-```
-public void setScalingReason(int value)
-```
-
-
-Sets scaling reason.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | ScalingReason value |
-
-### getScalingMode() {#getScalingMode--}
-```
-public int getScalingMode()
-```
-
-
-The type of scaling that shall be used.
-
-**Returns:**
-int - ScalingMode value
-### setScalingMode(int value) {#setScalingMode-int-}
-```
-public void setScalingMode(int value)
-```
-
-
-The type of scaling that shall be used.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | ScalingMode value |
-
-### getLeftoverLeft() {#getLeftoverLeft--}
-```
-public double getLeftoverLeft()
-```
-
-
-Gets space to allocate at the left of the icon.
-
-**Returns:**
-double - space to allocate at the left of the icon.
-### setLeftoverLeft(double value) {#setLeftoverLeft-double-}
-```
-public void setLeftoverLeft(double value)
-```
-
-
-Sets space to allocate at the left of the icon.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | space to allocate at the left of the icon. |
-
-### getLeftoverBottom() {#getLeftoverBottom--}
+### getLeftoverBottom {#getLeftoverBottom--}
 ```
 public double getLeftoverBottom()
 ```
 
-
 Gets space to allocate at the bottom of the icon.
 
 **Returns:**
-double - space to allocate at the bottom
-### setLeftoverBottom(double value) {#setLeftoverBottom-double-}
+space to allocate at the bottom
+
+### getLeftoverLeft {#getLeftoverLeft--}
 ```
-public void setLeftoverBottom(double value)
+public double getLeftoverLeft()
 ```
 
+Gets space to allocate at the left of the icon.
 
-Sets space to allocate at the bottom of the icon.
+**Returns:**
+space to allocate at the left of the icon.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | space to allocate at the bottom |
+### getScalingMode {#getScalingMode--}
+```
+public int getScalingMode()
+```
 
-### isSpreadOnBorder() {#isSpreadOnBorder--}
+The type of scaling that shall be used.
+
+**Returns:**
+ScalingMode value @see ScalingMode
+
+### getScalingReason {#getScalingReason--}
+```
+public int getScalingReason()
+```
+
+Gets scaling reason.
+
+**Returns:**
+ScalingReason value @see ScalingReason
+
+### isSpreadOnBorder {#isSpreadOnBorder--}
 ```
 public boolean isSpreadOnBorder()
 ```
 
-
 If true, indicates that the button appearance shall be scaled to fit fully within the bounds of the annotation without taking into consideration the line width of the border.
 
 **Returns:**
-boolean - boolean value
-### setSpreadOnBorder(boolean value) {#setSpreadOnBorder-boolean-}
-```
-public void setSpreadOnBorder(boolean value)
-```
+boolean value
 
-
-If true, indicates that the button appearance shall be scaled to fit fully within the bounds of the annotation without taking into consideration the line width of the border.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | boolean | boolean value |
-
-### nameToScalingReason(String reason) {#nameToScalingReason-java.lang.String-}
-```
-public static int nameToScalingReason(String reason)
-```
-
-
-Converts name of scaling reason into ScalingReason object.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| reason | java.lang.String | Name of scaling reason. |
-
-**Returns:**
-int - Scaling reason object.
-### scalingReasonToName(int reason) {#scalingReasonToName-int-}
-```
-public static String scalingReasonToName(int reason)
-```
-
-
-Converts scaling reason obejct to name.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| reason | int | Scaling reason object to be converted. |
-
-**Returns:**
-java.lang.String - Name of scaling reasong.
-### nameToScalingMode(String mode) {#nameToScalingMode-java.lang.String-}
-```
-public static int nameToScalingMode(String mode)
-```
-
-
+### nameToScalingMode {#nameToScalingMode-java.lang.String-}
 Converts scaling mode name into ScalingMode object.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| mode | java.lang.String | Scaling mode name. |
+### nameToScalingReason {#nameToScalingReason-java.lang.String-}
+Converts name of scaling reason into ScalingReason object.
 
-**Returns:**
-int - Scaling mode object.
-### scalingModeToName(int mode) {#scalingModeToName-int-}
+### scalingModeToName {#scalingModeToName-int-}
 ```
 public static String scalingModeToName(int mode)
 ```
-
 
 Converts scaling mode object into name.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| mode | int | Scaling mode object. |
+| mode |  | Scaling mode object. |
 
 **Returns:**
-java.lang.String - Scaling mode name.
+Scaling mode name.
+
+### scalingReasonToName {#scalingReasonToName-int-}
+```
+public static String scalingReasonToName(int reason)
+```
+
+Converts scaling reason obejct to name.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| reason |  | Scaling reason object to be converted. |
+
+**Returns:**
+Name of scaling reasong.
+
+### setLeftoverBottom {#setLeftoverBottom-double-}
+```
+public void setLeftoverBottom(double value)
+```
+
+Sets space to allocate at the bottom of the icon.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | space to allocate at the bottom |
+
+### setLeftoverLeft {#setLeftoverLeft-double-}
+```
+public void setLeftoverLeft(double value)
+```
+
+Sets space to allocate at the left of the icon.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | space to allocate at the left of the icon. |
+
+### setScalingMode {#setScalingMode-int-}
+```
+public void setScalingMode(int value)
+```
+
+The type of scaling that shall be used.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | ScalingMode value @see ScalingMode |
+
+### setScalingReason {#setScalingReason-int-}
+```
+public void setScalingReason(int value)
+```
+
+Sets scaling reason.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | ScalingReason value @see ScalingReason |
+
+### setSpreadOnBorder {#setSpreadOnBorder-boolean-}
+```
+public void setSpreadOnBorder(boolean value)
+```
+
+If true, indicates that the button appearance shall be scaled to fit fully within the bounds of the annotation without taking into consideration the line width of the border.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | boolean value |

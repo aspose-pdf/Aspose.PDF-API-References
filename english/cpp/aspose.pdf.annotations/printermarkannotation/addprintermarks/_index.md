@@ -7,19 +7,19 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf.annotations/printermarkannotation/addprintermarks/
 ---
-## PrinterMarkAnnotation::AddPrinterMarks(System::SharedPtr\<Aspose::Pdf::Page\>, PrinterMarksKind) method
+## PrinterMarkAnnotation::AddPrinterMarks(const System::SharedPtr\<Aspose::Pdf::Page\>\&, PrinterMarksKind) method
 
 
 Adds printer's marks to the specified page.
 
 ```cpp
-static void Aspose::Pdf::Annotations::PrinterMarkAnnotation::AddPrinterMarks(System::SharedPtr<Aspose::Pdf::Page> page, PrinterMarksKind marksKind)
+static void Aspose::Pdf::Annotations::PrinterMarkAnnotation::AddPrinterMarks(const System::SharedPtr<Aspose::Pdf::Page> &page, PrinterMarksKind marksKind)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | The page to which the printer's marks will be added. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | The page to which the printer's marks will be added. |
 | marksKind | PrinterMarksKind | The kind of printer's marks to add. |
 ## Remarks
 
@@ -34,19 +34,19 @@ This method adds various types of printer's marks based on the provided [Printer
 * Class [PrinterMarkAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PrinterMarkAnnotation::AddPrinterMarks(System::SharedPtr\<Document\>, PrinterMarksKind) method
+## PrinterMarkAnnotation::AddPrinterMarks(const System::SharedPtr\<Document\>\&, PrinterMarksKind) method
 
 
 Adds printer's marks to all pages in the specified document.
 
 ```cpp
-static void Aspose::Pdf::Annotations::PrinterMarkAnnotation::AddPrinterMarks(System::SharedPtr<Document> document, PrinterMarksKind marksKind)
+static void Aspose::Pdf::Annotations::PrinterMarkAnnotation::AddPrinterMarks(const System::SharedPtr<Document> &document, PrinterMarksKind marksKind)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Document\> | The document to which the printer's marks will be added. |
+| document | const System::SharedPtr\<Document\>\& | The document to which the printer's marks will be added. |
 | marksKind | PrinterMarksKind | The kind of printer's marks to add. |
 ## Remarks
 

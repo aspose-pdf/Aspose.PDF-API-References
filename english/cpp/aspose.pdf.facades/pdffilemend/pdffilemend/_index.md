@@ -21,19 +21,19 @@ Aspose::Pdf::Facades::PdfFileMend::PdfFileMend()
 * Class [PdfFileMend](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileMend::PdfFileMend(System::SharedPtr\<Aspose::Pdf::Document\>) constructor
+## PdfFileMend::PdfFileMend(const System::SharedPtr\<Aspose::Pdf::Document\>\&) constructor
 
 
 Initializes new [PdfFileMend](../) object on base of the *document* .
 
 ```cpp
-Aspose::Pdf::Facades::PdfFileMend::PdfFileMend(System::SharedPtr<Aspose::Pdf::Document> document)
+Aspose::Pdf::Facades::PdfFileMend::PdfFileMend(const System::SharedPtr<Aspose::Pdf::Document> &document)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Aspose::Pdf::Document\> | [Pdf](../../../aspose.pdf/) document. |
+| document | const System::SharedPtr\<Aspose::Pdf::Document\>\& | [Pdf](../../../aspose.pdf/) document. |
 
 ## See Also
 
@@ -42,20 +42,20 @@ Aspose::Pdf::Facades::PdfFileMend::PdfFileMend(System::SharedPtr<Aspose::Pdf::Do
 * Class [PdfFileMend](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileMend::PdfFileMend(System::SharedPtr\<Aspose::Pdf::Document\>, System::SharedPtr\<System::IO::Stream\>) constructor
+## PdfFileMend::PdfFileMend(const System::SharedPtr\<Aspose::Pdf::Document\>\&, const System::SharedPtr\<System::IO::Stream\>\&) constructor
 
 
 Initializes new [PdfFileMend](../) object on base of the *document* .
 
 ```cpp
-Aspose::Pdf::Facades::PdfFileMend::PdfFileMend(System::SharedPtr<Aspose::Pdf::Document> document, System::SharedPtr<System::IO::Stream> destStream)
+Aspose::Pdf::Facades::PdfFileMend::PdfFileMend(const System::SharedPtr<Aspose::Pdf::Document> &document, const System::SharedPtr<System::IO::Stream> &destStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Aspose::Pdf::Document\> | [Pdf](../../../aspose.pdf/) document. |
-| destStream | System::SharedPtr\<System::IO::Stream\> | Output PDF stream. |
+| document | const System::SharedPtr\<Aspose::Pdf::Document\>\& | [Pdf](../../../aspose.pdf/) document. |
+| destStream | const System::SharedPtr\<System::IO::Stream\>\& | Output PDF stream. |
 
 ## Deprecated
 Use constructor without destination. 
@@ -68,20 +68,20 @@ Use constructor without destination.
 * Class [PdfFileMend](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileMend::PdfFileMend(System::SharedPtr\<Aspose::Pdf::Document\>, System::String) constructor
+## PdfFileMend::PdfFileMend(const System::SharedPtr\<Aspose::Pdf::Document\>\&, const System::String\&) constructor
 
 
 Initializes new [PdfFileMend](../) object on base of the *document* .
 
 ```cpp
-Aspose::Pdf::Facades::PdfFileMend::PdfFileMend(System::SharedPtr<Aspose::Pdf::Document> document, System::String outputFileName)
+Aspose::Pdf::Facades::PdfFileMend::PdfFileMend(const System::SharedPtr<Aspose::Pdf::Document> &document, const System::String &outputFileName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Aspose::Pdf::Document\> | [Pdf](../../../aspose.pdf/) document. |
-| outputFileName | System::String | Output PDF file name. |
+| document | const System::SharedPtr\<Aspose::Pdf::Document\>\& | [Pdf](../../../aspose.pdf/) document. |
+| outputFileName | const System::String\& | Output PDF file name. |
 
 ## Deprecated
 Use constructor without destination. 
@@ -94,20 +94,20 @@ Use constructor without destination.
 * Class [PdfFileMend](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileMend::PdfFileMend(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::IO::Stream\>) constructor
+## PdfFileMend::PdfFileMend(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::IO::Stream\>\&) constructor
 
 
 Constructor.
 
 ```cpp
-Aspose::Pdf::Facades::PdfFileMend::PdfFileMend(System::SharedPtr<System::IO::Stream> inputStream, System::SharedPtr<System::IO::Stream> outputStream)
+Aspose::Pdf::Facades::PdfFileMend::PdfFileMend(const System::SharedPtr<System::IO::Stream> &inputStream, const System::SharedPtr<System::IO::Stream> &outputStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | System::SharedPtr\<System::IO::Stream\> | Input PDF stream. |
-| outputStream | System::SharedPtr\<System::IO::Stream\> | Output PDF stream. |
+| inputStream | const System::SharedPtr\<System::IO::Stream\>\& | Input PDF stream. |
+| outputStream | const System::SharedPtr\<System::IO::Stream\>\& | Output PDF stream. |
 
 ## Deprecated
 Use constructor without destination. 
@@ -119,20 +119,20 @@ Use constructor without destination.
 * Class [PdfFileMend](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileMend::PdfFileMend(System::String, System::String) constructor
+## PdfFileMend::PdfFileMend(const System::String\&, const System::String\&) constructor
 
 
 Constructor.
 
 ```cpp
-Aspose::Pdf::Facades::PdfFileMend::PdfFileMend(System::String inputFileName, System::String outputFileName)
+Aspose::Pdf::Facades::PdfFileMend::PdfFileMend(const System::String &inputFileName, const System::String &outputFileName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFileName | System::String | Input PDF file name. |
-| outputFileName | System::String | Output PDF file name. |
+| inputFileName | const System::String\& | Input PDF file name. |
+| outputFileName | const System::String\& | Output PDF file name. |
 
 ## Deprecated
 Use constructor without destination. 

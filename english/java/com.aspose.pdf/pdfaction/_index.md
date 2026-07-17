@@ -1,55 +1,60 @@
 ---
 title: PdfAction
+linktitle: PdfAction
 second_title: Aspose.PDF for Java API Reference
 description: Represents Action in PDF document
 type: docs
-weight: 276
+weight: 3670
 url: /java/com.aspose.pdf/pdfaction/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.PdfAction
 
 **All Implemented Interfaces:**
-[com.aspose.pdf.IAppointment](../../com.aspose.pdf/iappointment)
+IAppointment
+
 ```
-public abstract class PdfAction implements IAppointment
+public abstract class PdfAction extends Object implements IAppointment
 ```
 
 Represents Action in PDF document
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [PdfAction()](#PdfAction--) |  |
+| [PdfAction](#PdfAction--) |  |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getNext()](#getNext--) | Next actions in sequence. |
-| [getECMAScriptString()](#getECMAScriptString--) | Gets string for ECMAScript Action. |
-### PdfAction() {#PdfAction--}
+| [getECMAScriptString](#getECMAScriptString--) | Gets string for ECMAScript Action. |
+| [getNext](#getNext--) | Next actions in sequence. |
+
+### PdfAction {#PdfAction--}
 ```
 public PdfAction()
 ```
 
 
-### getNext() {#getNext--}
-```
-public ActionCollection getNext()
-```
 
-
-Next actions in sequence.
-
-**Returns:**
-[ActionCollection](../../com.aspose.pdf/actioncollection) - ActionCollection object
-### getECMAScriptString() {#getECMAScriptString--}
+### getECMAScriptString {#getECMAScriptString--}
 ```
 public final String getECMAScriptString()
 ```
 
-
 Gets string for ECMAScript Action.
 
 **Returns:**
-java.lang.String - Return string for JS entry for ECMAScript Action or null else.
+Return string for JS entry for ECMAScript Action or null else.
+
+### getNext {#getNext--}
+```
+public ActionCollection getNext()
+```
+
+Next actions in sequence.
+
+**Returns:**
+ActionCollection object

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/signoptions/set_rectangle/
 The rect of signature.
 
 ```cpp
-void Aspose::Pdf::LowCode::SignOptions::set_Rectangle(System::SharedPtr<Aspose::Pdf::Rectangle> value)
+void Aspose::Pdf::LowCode::SignOptions::set_Rectangle(const System::SharedPtr<Aspose::Pdf::Rectangle> &value)
 ```
 
 ## See Also

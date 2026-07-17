@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/annotationcollection/findbyname/
 Returns annotation by its name.
 
 ```cpp
-System::SharedPtr<Annotation> Aspose::Pdf::Annotations::AnnotationCollection::FindByName(System::String name)
+System::SharedPtr<Annotation> Aspose::Pdf::Annotations::AnnotationCollection::FindByName(const System::String &name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | Name of the annotation |
+| name | const System::String\& | Name of the annotation |
 
 ### ReturnValue
 

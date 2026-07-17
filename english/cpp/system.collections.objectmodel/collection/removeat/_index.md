@@ -19,7 +19,7 @@ void System::Collections::ObjectModel::Collection<T>::RemoveAt(int index) overri
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to remove item at. |
+| index | int | [Index](../../../system/index/) to remove item at. |
 
 ## See Also
 

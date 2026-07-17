@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotation/set_color/
 Sets annotation color.
 
 ```cpp
-void Aspose::Pdf::Annotations::Annotation::set_Color(System::SharedPtr<Aspose::Pdf::Color> value)
+void Aspose::Pdf::Annotations::Annotation::set_Color(const System::SharedPtr<Aspose::Pdf::Color> &value)
 ```
 
 ## See Also

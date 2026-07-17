@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/gotoremoteaction/set_file/
 Sets the specification of the file in which the destination is located.
 
 ```cpp
-void Aspose::Pdf::Annotations::GoToRemoteAction::set_File(System::SharedPtr<FileSpecification> value)
+void Aspose::Pdf::Annotations::GoToRemoteAction::set_File(const System::SharedPtr<FileSpecification> &value)
 ```
 
 ## See Also

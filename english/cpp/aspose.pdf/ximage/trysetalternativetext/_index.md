@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf/ximage/trysetalternativetext/
 Sets alternative text for an [XImage](../) on the page.
 
 ```cpp
-bool Aspose::Pdf::XImage::TrySetAlternativeText(System::String alternativeText, System::SharedPtr<Aspose::Pdf::Page> page)
+bool Aspose::Pdf::XImage::TrySetAlternativeText(const System::String &alternativeText, const System::SharedPtr<Aspose::Pdf::Page> &page)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| alternativeText | System::String | The alternative text to be specified. |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | [Page](../../page/) where [XImage](../) is located. |
+| alternativeText | const System::String\& | The alternative text to be specified. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | [Page](../../page/) where [XImage](../) is located. |
 
 ### ReturnValue
 

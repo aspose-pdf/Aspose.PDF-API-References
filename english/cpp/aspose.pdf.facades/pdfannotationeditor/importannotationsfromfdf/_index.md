@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/pdfannotationeditor/importannotationsfromfdf/
 Imports all annotations from FDF file.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfAnnotationEditor::ImportAnnotationsFromFdf(System::String fdfFile)
+void Aspose::Pdf::Facades::PdfAnnotationEditor::ImportAnnotationsFromFdf(const System::String &fdfFile)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fdfFile | System::String | The input FDF file. |
+| fdfFile | const System::String\& | The input FDF file. |
 
 ## See Also
 

@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.facades/pdffileinfo/setmetainfo/
 Sets customized information of PDF document.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileInfo::SetMetaInfo(System::String name, System::String value)
+void Aspose::Pdf::Facades::PdfFileInfo::SetMetaInfo(const System::String &name, const System::String &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | Custom meta property key. |
-| value | System::String | Custom meta property value. |
+| name | const System::String\& | Custom meta property key. |
+| value | const System::String\& | Custom meta property value. |
 
 ## See Also
 

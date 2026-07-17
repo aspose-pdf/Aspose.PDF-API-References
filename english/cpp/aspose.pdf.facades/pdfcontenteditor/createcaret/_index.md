@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfcontenteditor/createcaret/
 Creates caret annotation.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfContentEditor::CreateCaret(int32_t page, System::Drawing::Rectangle annotRect, System::Drawing::Rectangle caretRect, System::String symbol, System::String annotContents, System::Drawing::Color color)
+void Aspose::Pdf::Facades::PdfContentEditor::CreateCaret(int32_t page, System::Drawing::Rectangle annotRect, System::Drawing::Rectangle caretRect, const System::String &symbol, const System::String &annotContents, System::Drawing::Color color)
 ```
 
 
@@ -22,8 +22,8 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreateCaret(int32_t page, System::D
 | page | int32_t | The number of original page where the annotation will be created. |
 | annotRect | System::Drawing::Rectangle | The annotation rectangle defining the location of the annotation on the page. |
 | caretRect | System::Drawing::Rectangle | The actual boundaries of the underlying caret. |
-| symbol | System::String | A symbol will be associated with the caret. Value can be: "P" (Paragraph), "None". |
-| annotContents | System::String | The contents of the annotation. |
+| symbol | const System::String\& | A symbol will be associated with the caret. Value can be: "P" (Paragraph), "None". |
+| annotContents | const System::String\& | The contents of the annotation. |
 | color | System::Drawing::Color | The color of the annotation. |
 
 ## See Also

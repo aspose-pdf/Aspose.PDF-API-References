@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/bdc/set_tag/
 Sets marked content tag.
 
 ```cpp
-void Aspose::Pdf::Operators::BDC::set_Tag(System::String value)
+void Aspose::Pdf::Operators::BDC::set_Tag(const System::String &value)
 ```
 
 ## See Also

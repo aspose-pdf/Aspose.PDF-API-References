@@ -1,94 +1,114 @@
 ---
 title: PDF3DRenderMode
+linktitle: PDF3DRenderMode
 second_title: Aspose.PDF for Java API Reference
 description: Class PDF3DRenderMode.
 type: docs
-weight: 251
+weight: 3630
 url: /java/com.aspose.pdf/pdf3drendermode/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.PDF3DRenderMode
+
 ```
-public class PDF3DRenderMode
+public class PDF3DRenderMode extends Object
 ```
 
 Class PDF3DRenderMode.
-## Constructors
 
-| Constructor | Description |
-| --- | --- |
-| [PDF3DRenderMode(int subtype)](#PDF3DRenderMode-int-) | Initializes a new instance of the  PDF3DRenderMode  class. |
-| [PDF3DRenderMode(String typeName)](#PDF3DRenderMode-java.lang.String-) | Initializes a new instance of the  PDF3DRenderMode  class. |
 ## Fields
 
 | Field | Description |
 | --- | --- |
+| [BoundingBox](#BoundingBox) | The "BoundingBox" render mode. |
+| [Illustration](#Illustration) | The "Illustration" render mode. |
+| [ShadedIllustration](#ShadedIllustration) | The "ShadedIllustration" render mode. |
+| [ShadedVertices](#ShadedVertices) | The "ShadedVertices" render mode. |
+| [ShadedWireframe](#ShadedWireframe) | The "ShadedWireFrame" render mode. |
 | [Solid](#Solid) | The "Solid" render mode. |
+| [SolidOutline](#SolidOutline) | The "SolidOutline" render mode. |
 | [SolidWireframe](#SolidWireframe) | The "SolidWireFrame" render mode. |
 | [Transparent](#Transparent) | The "Transparent" render mode. |
-| [TransparentWareFrame](#TransparentWareFrame) | The "TransparentWareFrame" render mode. |
-| [BoundingBox](#BoundingBox) | The "BoundingBox" render mode. |
 | [TransparentBoundingBox](#TransparentBoundingBox) | The "TransparentBoundingBox" render mode. |
 | [TransparentBoundingBoxOutline](#TransparentBoundingBoxOutline) | The "TransparentBoundingBoxOutline" render mode. |
-| [Wireframe](#Wireframe) | The "WireFrame" render mode. |
-| [ShadedWireframe](#ShadedWireframe) | The "ShadedWireFrame" render mode. |
+| [TransparentWareFrame](#TransparentWareFrame) | The "TransparentWareFrame" render mode. |
 | [Vertices](#Vertices) | The "Vertices" render mode. |
-| [ShadedVertices](#ShadedVertices) | The "ShadedVertices" render mode. |
-| [Illustration](#Illustration) | The "Illustration" render mode. |
-| [SolidOutline](#SolidOutline) | The "SolidOutline" render mode. |
-| [ShadedIllustration](#ShadedIllustration) | The "ShadedIllustration" render mode. |
+| [Wireframe](#Wireframe) | The "WireFrame" render mode. |
+
+## Constructors
+
+| Constructor | Description |
+| --- | --- |
+| [PDF3DRenderMode](#PDF3DRenderMode-int-) | Initializes a new instance of the {@code PDF3DRenderMode} class. |
+| [PDF3DRenderMode](#PDF3DRenderMode-java.lang.String-) | Initializes a new instance of the {@code PDF3DRenderMode} class. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getAuxiliaryColour()](#getAuxiliaryColour--) | Gets the auxiliary colour. |
-| [setAuxiliaryColour(Color color)](#setAuxiliaryColour-com.aspose.pdf.Color-) | Sets the auxiliary colour. |
-| [getFaceColor()](#getFaceColor--) | Gets the color of the face. |
-| [setFaceColor(Color color)](#setFaceColor-com.aspose.pdf.Color-) | Sets the color of the face. |
-| [getOpacity()](#getOpacity--) | Gets the opacity. |
-| [setOpacity(double opacity)](#setOpacity-double-) | Sets the opacity. |
-| [setCreaseValue(double creaseValue)](#setCreaseValue-double-) | Sets the crease value. |
-| [getCreaseValue()](#getCreaseValue--) | Gets the crease value. |
-| [getType()](#getType--) | Gets the type. |
-### PDF3DRenderMode(int subtype) {#PDF3DRenderMode-int-}
+| [getAuxiliaryColour](#getAuxiliaryColour--) | Gets the auxiliary colour. |
+| [getCreaseValue](#getCreaseValue--) | Gets the crease value. |
+| [getFaceColor](#getFaceColor--) | Gets the color of the face. |
+| [getOpacity](#getOpacity--) | Gets the opacity. |
+| [getType](#getType--) | Gets the type. |
+| [setAuxiliaryColour](#setAuxiliaryColour-com.aspose.pdf.Color-) | Sets the auxiliary colour. |
+| [setCreaseValue](#setCreaseValue-double-) | Sets the crease value. |
+| [setFaceColor](#setFaceColor-com.aspose.pdf.Color-) | Sets the color of the face. |
+| [setOpacity](#setOpacity-double-) | Sets the opacity. |
+
+### BoundingBox {#BoundingBox}
 ```
-public PDF3DRenderMode(int subtype)
-```
-
-
-Initializes a new instance of the  PDF3DRenderMode  class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| subtype | int | The render mode type. |
-
-### PDF3DRenderMode(String typeName) {#PDF3DRenderMode-java.lang.String-}
-```
-public PDF3DRenderMode(String typeName)
+public static final PDF3DRenderMode BoundingBox
 ```
 
+The "BoundingBox" render mode.
 
-Initializes a new instance of the  PDF3DRenderMode  class.
+### Illustration {#Illustration}
+```
+public static final PDF3DRenderMode Illustration
+```
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| typeName | java.lang.String | Name of the type. |
+The "Illustration" render mode.
+
+### ShadedIllustration {#ShadedIllustration}
+```
+public static final PDF3DRenderMode ShadedIllustration
+```
+
+The "ShadedIllustration" render mode.
+
+### ShadedVertices {#ShadedVertices}
+```
+public static final PDF3DRenderMode ShadedVertices
+```
+
+The "ShadedVertices" render mode.
+
+### ShadedWireframe {#ShadedWireframe}
+```
+public static final PDF3DRenderMode ShadedWireframe
+```
+
+The "ShadedWireFrame" render mode.
 
 ### Solid {#Solid}
 ```
 public static final PDF3DRenderMode Solid
 ```
 
-
 The "Solid" render mode.
+
+### SolidOutline {#SolidOutline}
+```
+public static final PDF3DRenderMode SolidOutline
+```
+
+The "SolidOutline" render mode.
 
 ### SolidWireframe {#SolidWireframe}
 ```
 public static final PDF3DRenderMode SolidWireframe
 ```
-
 
 The "SolidWireFrame" render mode.
 
@@ -97,30 +117,12 @@ The "SolidWireFrame" render mode.
 public static final PDF3DRenderMode Transparent
 ```
 
-
 The "Transparent" render mode.
-
-### TransparentWareFrame {#TransparentWareFrame}
-```
-public static final PDF3DRenderMode TransparentWareFrame
-```
-
-
-The "TransparentWareFrame" render mode.
-
-### BoundingBox {#BoundingBox}
-```
-public static final PDF3DRenderMode BoundingBox
-```
-
-
-The "BoundingBox" render mode.
 
 ### TransparentBoundingBox {#TransparentBoundingBox}
 ```
 public static final PDF3DRenderMode TransparentBoundingBox
 ```
-
 
 The "TransparentBoundingBox" render mode.
 
@@ -129,172 +131,126 @@ The "TransparentBoundingBox" render mode.
 public static final PDF3DRenderMode TransparentBoundingBoxOutline
 ```
 
-
 The "TransparentBoundingBoxOutline" render mode.
 
-### Wireframe {#Wireframe}
+### TransparentWareFrame {#TransparentWareFrame}
 ```
-public static final PDF3DRenderMode Wireframe
-```
-
-
-The "WireFrame" render mode.
-
-### ShadedWireframe {#ShadedWireframe}
-```
-public static final PDF3DRenderMode ShadedWireframe
+public static final PDF3DRenderMode TransparentWareFrame
 ```
 
-
-The "ShadedWireFrame" render mode.
+The "TransparentWareFrame" render mode.
 
 ### Vertices {#Vertices}
 ```
 public static final PDF3DRenderMode Vertices
 ```
 
-
 The "Vertices" render mode.
 
-### ShadedVertices {#ShadedVertices}
+### Wireframe {#Wireframe}
 ```
-public static final PDF3DRenderMode ShadedVertices
-```
-
-
-The "ShadedVertices" render mode.
-
-### Illustration {#Illustration}
-```
-public static final PDF3DRenderMode Illustration
+public static final PDF3DRenderMode Wireframe
 ```
 
+The "WireFrame" render mode.
 
-The "Illustration" render mode.
-
-### SolidOutline {#SolidOutline}
+### PDF3DRenderMode {#PDF3DRenderMode-int-}
 ```
-public static final PDF3DRenderMode SolidOutline
-```
-
-
-The "SolidOutline" render mode.
-
-### ShadedIllustration {#ShadedIllustration}
-```
-public static final PDF3DRenderMode ShadedIllustration
+public PDF3DRenderMode(int subtype)
 ```
 
+Initializes a new instance of the {@code PDF3DRenderMode} class.
 
-The "ShadedIllustration" render mode.
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| subtype |  | The render mode type. |
 
-### getAuxiliaryColour() {#getAuxiliaryColour--}
+### PDF3DRenderMode {#PDF3DRenderMode-java.lang.String-}
+Initializes a new instance of the {@code PDF3DRenderMode} class.
+
+### getAuxiliaryColour {#getAuxiliaryColour--}
 ```
 public Color getAuxiliaryColour()
 ```
 
-
 Gets the auxiliary colour.
 
 **Returns:**
-[Color](../../com.aspose.pdf/color) - Color.
-### setAuxiliaryColour(Color color) {#setAuxiliaryColour-com.aspose.pdf.Color-}
+Color.
+
+### getCreaseValue {#getCreaseValue--}
 ```
-public PDF3DRenderMode setAuxiliaryColour(Color color)
+public double getCreaseValue()
 ```
 
-
-Sets the auxiliary colour.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| color | [Color](../../com.aspose.pdf/color) | The color. |
+Gets the crease value.
 
 **Returns:**
-[PDF3DRenderMode](../../com.aspose.pdf/pdf3drendermode) - PDF3DRenderMode.
-### getFaceColor() {#getFaceColor--}
+System.Double.
+
+### getFaceColor {#getFaceColor--}
 ```
 public Object getFaceColor()
 ```
 
-
 Gets the color of the face.
 
 **Returns:**
-java.lang.Object - Object.
-### setFaceColor(Color color) {#setFaceColor-com.aspose.pdf.Color-}
-```
-public PDF3DRenderMode setFaceColor(Color color)
-```
+Object.
 
-
-Sets the color of the face.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| color | [Color](../../com.aspose.pdf/color) | The color. |
-
-**Returns:**
-[PDF3DRenderMode](../../com.aspose.pdf/pdf3drendermode) - PDF3DRenderMode.
-### getOpacity() {#getOpacity--}
+### getOpacity {#getOpacity--}
 ```
 public double getOpacity()
 ```
 
-
 Gets the opacity.
 
 **Returns:**
-double - System.Double.
-### setOpacity(double opacity) {#setOpacity-double-}
+System.Double.
+
+### getType {#getType--}
 ```
-public PDF3DRenderMode setOpacity(double opacity)
+public int getType()
 ```
 
-
-Sets the opacity.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| opacity | double | The opacity. |
+Gets the type.
 
 **Returns:**
-[PDF3DRenderMode](../../com.aspose.pdf/pdf3drendermode) - PDF3DRenderMode.
-### setCreaseValue(double creaseValue) {#setCreaseValue-double-}
+RenderModeType Value: The type. @see RenderModeType
+
+### setAuxiliaryColour {#setAuxiliaryColour-com.aspose.pdf.Color-}
+Sets the auxiliary colour.
+
+### setCreaseValue {#setCreaseValue-double-}
 ```
 public PDF3DRenderMode setCreaseValue(double creaseValue)
 ```
-
 
 Sets the crease value.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| creaseValue | double | The crease value. |
+| creaseValue |  | The crease value. |
 
 **Returns:**
-[PDF3DRenderMode](../../com.aspose.pdf/pdf3drendermode) - PDF3DRenderMode.
-### getCreaseValue() {#getCreaseValue--}
+PDF3DRenderMode.
+
+### setFaceColor {#setFaceColor-com.aspose.pdf.Color-}
+Sets the color of the face.
+
+### setOpacity {#setOpacity-double-}
 ```
-public double getCreaseValue()
+public PDF3DRenderMode setOpacity(double opacity)
 ```
 
+Sets the opacity.
 
-Gets the crease value.
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| opacity |  | The opacity. |
 
 **Returns:**
-double - System.Double.
-### getType() {#getType--}
-```
-public int getType()
-```
-
-
-Gets the type.
-
-**Returns:**
-int - RenderModeType Value: The type.
+PDF3DRenderMode.

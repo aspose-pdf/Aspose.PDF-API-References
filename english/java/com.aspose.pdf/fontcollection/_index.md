@@ -1,284 +1,174 @@
 ---
 title: FontCollection
+linktitle: FontCollection
 second_title: Aspose.PDF for Java API Reference
-description: Represents font collection.
+description: <p> Represents font collection. </p> <hr> <pre> The example demonstrates how to make all font declared on page as embedded. // Open document Document doc = new.
 type: docs
-weight: 133
+weight: 1670
 url: /java/com.aspose.pdf/fontcollection/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.FontCollection
 
 **All Implemented Interfaces:**
-java.lang.Iterable
-```
-public final class FontCollection implements Iterable<Font>
-```
-
-Represents font collection.
-
---------------------
+Iterable < Font >
 
 ```
-The example demonstrates how to make all font declared on page as embedded.
-
-
- // Open document
- Document doc = new Document("D:\\Tests\\input.pdf");
- // ensure all fonts declared on page resources are embedded
- // note that if fonts are declared on form resources they are not accessible from page resources
- for(com.aspsoe.pdf.Font font : doc.getPages().get_Item(1).getResources().getFonts())
- {
-     if(!font.isEmbedded())
-         font.isEmbedded(true);
- }
- doc.save("D:\\Tests\\input.pdf");
+public final class FontCollection extends Object implements Iterable < Font >
 ```
 
---------------------
+<p> Represents font collection. </p> <hr> <pre> The example demonstrates how to make all font declared on page as embedded. // Open document Document doc = new Document("D:\\Tests\\input.pdf"); // ensure all fonts declared on page resources are embedded // note that if fonts are declared on form resources they are not accessible from page resources for(com.aspose.pdf.Font font : doc.getPages().get_Item(1).getResources().getFonts()) { if(!font.isEmbedded()) font.isEmbedded(true); } doc.save("D:\\Tests\\input.pdf"); </pre> <hr> <p> Font collections represented by {@code FontCollection} class are used in several scenarios. For example, in resources with {@code Resources.Fonts} property. </p>
 
-Font collections represented by  FontCollection  class are used in several scenarios. For example, in resources with  Resources.Fonts  property.
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [size()](#size--) | Gets the number of  Font  object elements actually contained in the collection. |
-| [getSyncRoot()](#getSyncRoot--) | Gets an object that can be used to synchronize access to the collection. |
-| [isSynchronized()](#isSynchronized--) | Gets a value indicating whether access to the collection is synchronized (thread safe). |
-| [isReadOnly()](#isReadOnly--) | Gets a value indicating whether collection is read-only |
-| [iterator_Rename_Namesake()](#iterator-Rename-Namesake--) | Returns an enumerator for the entire collection. |
-| [iterator()](#iterator--) | Returns an enumerator for the entire collection. |
-| [copyTo(Font[] array, int index)](#copyTo-com.aspose.pdf.Font---int-) | Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array |
-| [add(Font newFont, String[] resName)](#add-com.aspose.pdf.Font-java.lang.String---) | Adds new font to font resources and returns automatically assigned name of font resource. |
-| [add(Font fragment)](#add-com.aspose.pdf.Font-) | Adds Font into collection. |
-| [get_Item(int index)](#get-Item-int-) | Gets the font element at the specified index. |
-| [get_Item(String name)](#get-Item-java.lang.String-) | Gets font from the collection by font name. |
-| [contains(String name)](#contains-java.lang.String-) | Checks if font exists in font collection. |
-| [getHash()](#getHash--) |  |
-| [add(String resName, IPdfObject newFont)](#add-java.lang.String-com.aspose.pdf.engine.data.IPdfObject-) | Add new font to font collection. |
-| [add(String resName, String baseFontName)](#add-java.lang.String-java.lang.String-) | Adds to font resources new font entry with specified base font name. |
-| [clear_Rename_Namesake()](#clear-Rename-Namesake--) | Clears all items from the collection. |
-| [contains(Font item)](#contains-com.aspose.pdf.Font-) | Determines whether the collection contains a specific value. |
-| [remove(Font item)](#remove-com.aspose.pdf.Font-) | Deletes specified item from collection. |
-### size() {#size--}
-```
-public int size()
-```
+| [add](#add-com.aspose.pdf.Font-) | Adds Font into collection. |
+| [add](#add-com.aspose.pdf.Font-java.lang.String:A-) | Adds new font to font resources and returns automatically assigned name of font resource. |
+| [add](#add-java.lang.String-com.aspose.pdf.engine.data.IPdfObject-) | Add new font to font collection. |
+| [add](#add-java.lang.String-java.lang.String-) | Adds to font resources new font entry with specified base font name. |
+| [clear_Rename_Namesake](#clear_Rename_Namesake--) | / * / * Adds Font into collection. / * / * |
+| [contains](#contains-com.aspose.pdf.Font-) | Determines whether the collection contains a specific value. |
+| [contains](#contains-java.lang.String-) | Checks if font exists in font collection. |
+| [copyTo](#copyTo-com.aspose.pdf.Font:A-int-) | Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array |
+| [delete](#delete-java.lang.String-) | Deletes Font with resource name specified |
+| [get_Item](#get_Item-int-) | Gets the font element at the specified index. |
+| [get_Item](#get_Item-java.lang.String-) | Gets font from the collection by font name. Exception is thrown if font was not found. |
+| [getFontsDictionary](#getFontsDictionary--) | Get IPdfDictionary object |
+| [getHash](#getHash--) |  |
+| [getSyncRoot](#getSyncRoot--) | Gets an object that can be used to synchronize access to the collection. |
+| [isReadOnly](#isReadOnly--) | Gets a value indicating whether collection is read-only |
+| [isSynchronized](#isSynchronized--) | Gets a value indicating whether access to the collection is synchronized (thread safe). |
+| [iterator_Rename_Namesake](#iterator_Rename_Namesake--) | Returns an enumerator for the entire collection. |
+| [iterator](#iterator--) | Returns an enumerator for the entire collection. |
+| [remove](#remove-com.aspose.pdf.Font-) | Deletes specified item from collection. |
+| [size](#size--) | Gets the number of {@code Font} object elements actually contained in the collection. |
 
-
-Gets the number of  Font  object elements actually contained in the collection.
-
-**Returns:**
-int - int value
-### getSyncRoot() {#getSyncRoot--}
-```
-public Object getSyncRoot()
-```
-
-
-Gets an object that can be used to synchronize access to the collection.
-
-**Returns:**
-java.lang.Object - Object for synchronization
-### isSynchronized() {#isSynchronized--}
-```
-public boolean isSynchronized()
-```
-
-
-Gets a value indicating whether access to the collection is synchronized (thread safe).
-
-**Returns:**
-boolean - boolean value
-### isReadOnly() {#isReadOnly--}
-```
-public boolean isReadOnly()
-```
-
-
-Gets a value indicating whether collection is read-only
-
-**Returns:**
-boolean - boolean value
-### iterator_Rename_Namesake() {#iterator-Rename-Namesake--}
-```
-public System.Collections.IEnumerator iterator_Rename_Namesake()
-```
-
-
-Returns an enumerator for the entire collection.
-
-**Returns:**
-com.aspose.ms.System.Collections.IEnumerator - Enumerator object.
-### iterator() {#iterator--}
-```
-public Iterator<Font> iterator()
-```
-
-
-Returns an enumerator for the entire collection.
-
-**Returns:**
-java.util.Iterator<com.aspose.pdf.Font> - Enumerator object.
-### copyTo(Font[] array, int index) {#copyTo-com.aspose.pdf.Font---int-}
-```
-public void copyTo(Font[] array, int index)
-```
-
-
-Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| array | [Font\[\]](../../com.aspose.pdf/font) | Array of objects which will be copied. |
-| index | int | Starting index from which copying will be started. |
-
-### add(Font newFont, String[] resName) {#add-com.aspose.pdf.Font-java.lang.String---}
-```
-public void add(Font newFont, String[] resName)
-```
-
-
-Adds new font to font resources and returns automatically assigned name of font resource.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| newFont | [Font](../../com.aspose.pdf/font) | Font object. |
-| resName | java.lang.String[] | The automatically assigned resource item name. |
-
-### add(Font fragment) {#add-com.aspose.pdf.Font-}
-```
-public void add(Font fragment)
-```
-
-
+### add {#add-com.aspose.pdf.Font-}
 Adds Font into collection.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fragment | [Font](../../com.aspose.pdf/font) | Font object |
+### add {#add-com.aspose.pdf.Font-java.lang.String:A-}
+Adds new font to font resources and returns automatically assigned name of font resource.
 
-### get_Item(int index) {#get-Item-int-}
+### add {#add-java.lang.String-com.aspose.pdf.engine.data.IPdfObject-}
+Add new font to font collection.
+
+### add {#add-java.lang.String-java.lang.String-}
+Adds to font resources new font entry with specified base font name.
+
+### clear_Rename_Namesake {#clear_Rename_Namesake--}
+```
+public void clear_Rename_Namesake()
+```
+
+/ * / * Adds Font into collection. / * / *
+
+### contains {#contains-com.aspose.pdf.Font-}
+Determines whether the collection contains a specific value.
+
+### contains {#contains-java.lang.String-}
+Checks if font exists in font collection.
+
+### copyTo {#copyTo-com.aspose.pdf.Font:A-int-}
+Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array
+
+### delete {#delete-java.lang.String-}
+Deletes Font with resource name specified
+
+### get_Item {#get_Item-int-}
 ```
 public Font get_Item(int index)
 ```
-
 
 Gets the font element at the specified index.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index within the collection. |
+| index |  | Index within the collection. |
 
 **Returns:**
-[Font](../../com.aspose.pdf/font) - Font object.
-### get_Item(String name) {#get-Item-java.lang.String-}
-```
-public Font get_Item(String name)
-```
+Font object.
 
-
+### get_Item {#get_Item-java.lang.String-}
 Gets font from the collection by font name. Exception is thrown if font was not found.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | java.lang.String | Name of the font. |
+### getFontsDictionary {#getFontsDictionary--}
+```
+public com.aspose.pdf.engine.data.IPdfDictionary getFontsDictionary()
+```
+
+Get IPdfDictionary object
 
 **Returns:**
-[Font](../../com.aspose.pdf/font) - Found font.
-### contains(String name) {#contains-java.lang.String-}
+IPdfDictionary object
+
+### getHash {#getHash--}
 ```
-public boolean contains(String name)
+public com.aspose.pdf.engine.collections.HashDictionary< String , Font > getHash()
 ```
 
 
-Checks if font exists in font collection.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | java.lang.String | Font name. |
+### getSyncRoot {#getSyncRoot--}
+```
+public Object getSyncRoot()
+```
+
+Gets an object that can be used to synchronize access to the collection.
 
 **Returns:**
-boolean - True in case collection contains the font with specified name.
-### getHash() {#getHash--}
+Object for synchronization
+
+### isReadOnly {#isReadOnly--}
 ```
-public HashDictionary<String,Font> getHash()
+public boolean isReadOnly()
 ```
 
-
-
+Gets a value indicating whether collection is read-only
 
 **Returns:**
-[HashDictionary](../../com.aspose.pdf.engine.collections/hashdictionary)
-### add(String resName, IPdfObject newFont) {#add-java.lang.String-com.aspose.pdf.engine.data.IPdfObject-}
+boolean value
+
+### isSynchronized {#isSynchronized--}
 ```
-public void add(String resName, IPdfObject newFont)
-```
-
-
-Add new font to font collection.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| resName | java.lang.String | String object |
-| newFont | [IPdfObject](../../com.aspose.pdf.engine.data/ipdfobject) | IPdfObject object |
-
-### add(String resName, String baseFontName) {#add-java.lang.String-java.lang.String-}
-```
-public void add(String resName, String baseFontName)
+public boolean isSynchronized()
 ```
 
-
-Adds to font resources new font entry with specified base font name.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| resName | java.lang.String | String object |
-| baseFontName | java.lang.String | String object |
-
-### clear_Rename_Namesake() {#clear-Rename-Namesake--}
-```
-public void clear_Rename_Namesake()
-```
-
-
-Clears all items from the collection.
-
-### contains(Font item) {#contains-com.aspose.pdf.Font-}
-```
-public boolean contains(Font item)
-```
-
-
-Determines whether the collection contains a specific value.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| item | [Font](../../com.aspose.pdf/font) | The object to locate in the collection |
+Gets a value indicating whether access to the collection is synchronized (thread safe).
 
 **Returns:**
-boolean - true if item is found in the collection; otherwise, false.
-### remove(Font item) {#remove-com.aspose.pdf.Font-}
+boolean value
+
+### iterator_Rename_Namesake {#iterator_Rename_Namesake--}
 ```
-public boolean remove(Font item)
+public com.aspose.ms.System.Collections.IEnumerator iterator_Rename_Namesake()
 ```
 
+Returns an enumerator for the entire collection.
 
+**Returns:**
+Enumerator object.
+
+### iterator {#iterator--}
+```
+public Iterator < Font > iterator()
+```
+
+Returns an enumerator for the entire collection.
+
+**Returns:**
+Enumerator object.
+
+### remove {#remove-com.aspose.pdf.Font-}
 Deletes specified item from collection.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| item | [Font](../../com.aspose.pdf/font) | The object to delete |
+### size {#size--}
+```
+public int size()
+```
+
+Gets the number of {@code Font} object elements actually contained in the collection.
 
 **Returns:**
-boolean - true if item was deleted from collection; otherwise, false.
+int value

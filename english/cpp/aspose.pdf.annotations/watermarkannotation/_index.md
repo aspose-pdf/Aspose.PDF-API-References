@@ -26,9 +26,9 @@ class WatermarkAnnotation : public Aspose::Pdf::Annotations::Annotation
 | [get_FixedPrint](./get_fixedprint/)() | Fuxed print object of [Watermark](../../aspose.pdf/watermark/) annotation. |
 | [get_Opacity](./get_opacity/)() const | Gets opacity of the annotation. |
 | [set_Opacity](./set_opacity/)(double) | Sets opacity of the annotation. |
-| [SetText](./settext/)(System::SharedPtr\<Facades::FormattedText\>) | Set text of the annotation. |
-| [SetTextAndState](./settextandstate/)(System::ArrayPtr\<System::String\>, System::SharedPtr\<Text::TextState\>) | Set text of the annotation. |
-| [WatermarkAnnotation](./watermarkannotation/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) | Constructor for [Watermark](../../aspose.pdf/watermark/) annotation class. |
+| [SetText](./settext/)(const System::SharedPtr\<Facades::FormattedText\>\&) | Set text of the annotation. |
+| [SetTextAndState](./settextandstate/)(const System::ArrayPtr\<System::String\>\&, const System::SharedPtr\<Text::TextState\>\&) | Set text of the annotation. |
+| [WatermarkAnnotation](./watermarkannotation/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&) | Constructor for [Watermark](../../aspose.pdf/watermark/) annotation class. |
 ## See Also
 
 * Class [Annotation](../annotation/)

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.forms/datefield/init/
 Initializes the JS Action.
 
 ```cpp
-void Aspose::Pdf::Forms::DateField::Init(System::SharedPtr<Aspose::Pdf::Page> page)
+void Aspose::Pdf::Forms::DateField::Init(const System::SharedPtr<Aspose::Pdf::Page> &page)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | The page. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | The page. |
 
 ## See Also
 

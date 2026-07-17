@@ -1,32 +1,25 @@
 ---
 title: CaptionElement
+linktitle: CaptionElement
 second_title: Aspose.PDF for Java API Reference
 description: Represents Caption structure element in logical structure.
 type: docs
-weight: 12
+weight: 30
 url: /java/com.aspose.pdf.tagged.logicalstructure.elements.grouping/captionelement/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.tagged.logicalstructure.elements.Element](../../com.aspose.pdf.tagged.logicalstructure.elements/element), [com.aspose.pdf.tagged.logicalstructure.elements.StructureElement](../../com.aspose.pdf.tagged.logicalstructure.elements/structureelement), [com.aspose.pdf.tagged.logicalstructure.elements.grouping.GroupingElement](../../com.aspose.pdf.tagged.logicalstructure.elements.grouping/groupingelement)
+java.lang.Object, com.aspose.pdf.tagged.logicalstructure.elements.Element com.aspose.pdf.tagged.logicalstructure.elements.StructureElement com.aspose.pdf.tagged.logicalstructure.elements.grouping.GroupingElement com.aspose.pdf.tagged.logicalstructure.elements.grouping.CaptionElement, com.aspose.pdf.tagged.logicalstructure.elements.Element, com.aspose.pdf.tagged.logicalstructure.elements.StructureElement com.aspose.pdf.tagged.logicalstructure.elements.grouping.GroupingElement com.aspose.pdf.tagged.logicalstructure.elements.grouping.CaptionElement, com.aspose.pdf.tagged.logicalstructure.elements.StructureElement, com.aspose.pdf.tagged.logicalstructure.elements.grouping.GroupingElement com.aspose.pdf.tagged.logicalstructure.elements.grouping.CaptionElement, com.aspose.pdf.tagged.logicalstructure.elements.grouping.GroupingElement, com.aspose.pdf.tagged.logicalstructure.elements.grouping.CaptionElement
+
 ```
 public final class CaptionElement extends GroupingElement
 ```
 
 Represents Caption structure element in logical structure.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [CaptionElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)](#CaptionElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
-### CaptionElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity) {#CaptionElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public CaptionElement(TaggedContext taggedContext, IPdfPrimitive pdfEngineEntity)
-```
+| [CaptionElement](#CaptionElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-) |  |
 
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| taggedContext | [TaggedContext](../../com.aspose.pdf.tagged/taggedcontext) |  |
-| pdfEngineEntity | [IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) |  |
-
+### CaptionElement {#CaptionElement-com.aspose.pdf.tagged.TaggedContext-com.aspose.pdf.engine.data.IPdfPrimitive-}

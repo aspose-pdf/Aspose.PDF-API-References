@@ -4,7 +4,7 @@ linktitle: Get
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Get method. Function to get N-th element of tuple given. Overload for base object in C++.'
 type: docs
-weight: 20900
+weight: 21200
 url: /cpp/system/get/
 ---
 ## System::Get(const SharedPtr\<Object\>\&) method
@@ -116,5 +116,57 @@ value of N-th tuple element.
 ## See Also
 
 * Class [ValueTuple](../valuetuple/)
+* Namespace [System](../)
+* Library [Aspose.PDF for C++](../../)
+## System::Get(T\&, const Index\&) method
+
+
+Implementation for collection[index] expressions.
+
+```cpp
+template<typename T> auto & System::Get(T &collection, const Index &index)
+```
+
+
+| Parameter | Description |
+| --- | --- |
+| T | Collection type. |
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| collection | T\& | Collection object. |
+| index | const Index\& | Element index of type [System.Index](../index/). |
+
+### ReturnValue
+
+Collection element at the calculated offset.
+
+## See Also
+
+* Class [Index](../index/)
+* Namespace [System](../)
+* Library [Aspose.PDF for C++](../../)
+## System::Get(T\&, const Range\&) method
+
+
+Returns a slice of the specified collection defined by the provided range.
+
+```cpp
+template<typename T> auto System::Get(T &collection, const Range &range)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| collection | T\& | The collection to slice. |
+| range | const Range\& | The range specifying the slice boundaries. |
+
+### ReturnValue
+
+A view or slice of the collection from the computed start offset and length.
+
+## See Also
+
+* Class [Range](../range/)
 * Namespace [System](../)
 * Library [Aspose.PDF for C++](../../)

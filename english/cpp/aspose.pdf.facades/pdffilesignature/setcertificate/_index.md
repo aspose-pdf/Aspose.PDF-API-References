@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.facades/pdffilesignature/setcertificate/
 Set certificate file and password for signing routine.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileSignature::SetCertificate(System::String pfx, System::String pass)
+void Aspose::Pdf::Facades::PdfFileSignature::SetCertificate(const System::String &pfx, const System::String &pass)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pfx | System::String | PKCS #12 certificate file. |
-| pass | System::String | Password to get access for the certificate private key. |
+| pfx | const System::String\& | PKCS #12 certificate file. |
+| pass | const System::String\& | Password to get access for the certificate private key. |
 
 ## See Also
 

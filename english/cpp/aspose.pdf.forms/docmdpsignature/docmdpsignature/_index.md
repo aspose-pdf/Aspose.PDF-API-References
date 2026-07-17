@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.forms/docmdpsignature/docmdpsignature/
 Initializes a new instance of the [DocMDPSignature](../) class.
 
 ```cpp
-Aspose::Pdf::Forms::DocMDPSignature::DocMDPSignature(System::SharedPtr<Aspose::Pdf::Forms::Signature> signature, DocMDPAccessPermissions accessPermissions)
+Aspose::Pdf::Forms::DocMDPSignature::DocMDPSignature(const System::SharedPtr<Aspose::Pdf::Forms::Signature> &signature, DocMDPAccessPermissions accessPermissions)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signature | System::SharedPtr\<Aspose::Pdf::Forms::Signature\> | The signature object that used during signing. |
+| signature | const System::SharedPtr\<Aspose::Pdf::Forms::Signature\>\& | The signature object that used during signing. |
 | accessPermissions | DocMDPAccessPermissions | The access permissions granted for this document. |
 
 ## See Also

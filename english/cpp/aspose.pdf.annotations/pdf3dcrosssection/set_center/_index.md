@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dcrosssection/set_center/
 Sets the cross section rotation center.
 
 ```cpp
-void Aspose::Pdf::Annotations::PDF3DCrossSection::set_Center(System::SharedPtr<Point3D> value)
+void Aspose::Pdf::Annotations::PDF3DCrossSection::set_Center(const System::SharedPtr<Point3D> &value)
 ```
 
 ## Remarks

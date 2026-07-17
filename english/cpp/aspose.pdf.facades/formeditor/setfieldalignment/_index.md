@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/formeditor/setfieldalignment/
 Set the alignment style of a text field.
 
 ```cpp
-bool Aspose::Pdf::Facades::FormEditor::SetFieldAlignment(System::String fieldName, int32_t alignment)
+bool Aspose::Pdf::Facades::FormEditor::SetFieldAlignment(const System::String &fieldName, int32_t alignment)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | The qualified field name. |
+| fieldName | const System::String\& | The qualified field name. |
 | alignment | int32_t | The alignment style definition, including [FormFieldFacade.AlignLeft](../../formfieldfacade/alignleft/), [FormFieldFacade.AlignCenter](../../formfieldfacade/aligncenter/) and [FormFieldFacade.AlignRight](../../formfieldfacade/alignright/). |
 
 ### ReturnValue

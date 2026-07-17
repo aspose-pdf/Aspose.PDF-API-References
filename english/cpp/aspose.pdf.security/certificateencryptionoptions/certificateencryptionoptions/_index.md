@@ -7,21 +7,21 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf.security/certificateencryptionoptions/certificateencryptionoptions/
 ---
-## CertificateEncryptionOptions::CertificateEncryptionOptions(System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\>, System::String, System::String) constructor
+## CertificateEncryptionOptions::CertificateEncryptionOptions(const System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\>\&, const System::String\&, const System::String\&) constructor
 
 
 Creates an instance of [CertificateEncryptionOptions](../) class.
 
 ```cpp
-Aspose::Pdf::Security::CertificateEncryptionOptions::CertificateEncryptionOptions(System::SharedPtr<System::Security::Cryptography::X509Certificates::X509Certificate2> publicCertificate, System::String pfxPath, System::String pfxPassword)
+Aspose::Pdf::Security::CertificateEncryptionOptions::CertificateEncryptionOptions(const System::SharedPtr<System::Security::Cryptography::X509Certificates::X509Certificate2> &publicCertificate, const System::String &pfxPath, const System::String &pfxPassword)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| publicCertificate | System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\> | The public certificate. |
-| pfxPath | System::String | The p12 archive file path. |
-| pfxPassword | System::String | The p12 archive file password. |
+| publicCertificate | const System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\>\& | The public certificate. |
+| pfxPath | const System::String\& | The p12 archive file path. |
+| pfxPassword | const System::String\& | The p12 archive file password. |
 
 ## See Also
 
@@ -31,21 +31,21 @@ Aspose::Pdf::Security::CertificateEncryptionOptions::CertificateEncryptionOption
 * Class [CertificateEncryptionOptions](../)
 * Namespace [Aspose::Pdf::Security](../../)
 * Library [Aspose.PDF for C++](../../../)
-## CertificateEncryptionOptions::CertificateEncryptionOptions(System::String, System::String, System::String) constructor
+## CertificateEncryptionOptions::CertificateEncryptionOptions(const System::String\&, const System::String\&, const System::String\&) constructor
 
 
 Creates an instance of [CertificateEncryptionOptions](../) class.
 
 ```cpp
-Aspose::Pdf::Security::CertificateEncryptionOptions::CertificateEncryptionOptions(System::String publicCertificatePath, System::String pfxPath, System::String pfxPassword)
+Aspose::Pdf::Security::CertificateEncryptionOptions::CertificateEncryptionOptions(const System::String &publicCertificatePath, const System::String &pfxPath, const System::String &pfxPassword)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| publicCertificatePath | System::String | The public certificate file path. |
-| pfxPath | System::String | The p12 archive file path. |
-| pfxPassword | System::String | The p12 archive file password. |
+| publicCertificatePath | const System::String\& | The public certificate file path. |
+| pfxPath | const System::String\& | The p12 archive file path. |
+| pfxPassword | const System::String\& | The p12 archive file password. |
 
 ## See Also
 

@@ -7,21 +7,21 @@ type: docs
 weight: 200
 url: /cpp/aspose.pdf.vector/svgextractor/extract/
 ---
-## SvgExtractor::Extract(System::SharedPtr\<GraphicsAbsorber\>, System::Predicate\<System::SharedPtr\<GraphicElement\>\>, System::SharedPtr\<Page\>) method
+## SvgExtractor::Extract(const System::SharedPtr\<GraphicsAbsorber\>\&, System::Predicate\<System::SharedPtr\<GraphicElement\>\>, const System::SharedPtr\<Page\>\&) method
 
 
 Exracts svg image to string from graphic elements represents by [absorber](../) with a predicate filter.
 
 ```cpp
-System::String Aspose::Pdf::Vector::SvgExtractor::Extract(System::SharedPtr<GraphicsAbsorber> absorber, System::Predicate<System::SharedPtr<GraphicElement>> filter, System::SharedPtr<Page> page)
+System::String Aspose::Pdf::Vector::SvgExtractor::Extract(const System::SharedPtr<GraphicsAbsorber> &absorber, System::Predicate<System::SharedPtr<GraphicElement>> filter, const System::SharedPtr<Page> &page)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| absorber | System::SharedPtr\<GraphicsAbsorber\> | The [GraphicsAbsorber](../../graphicsabsorber/) object that contains the graphic elements. |
+| absorber | const System::SharedPtr\<GraphicsAbsorber\>\& | The [GraphicsAbsorber](../../graphicsabsorber/) object that contains the graphic elements. |
 | filter | System::Predicate\<System::SharedPtr\<GraphicElement\>\> | A predicate function used to filter the graphic elements. |
-| page | System::SharedPtr\<Page\> | The page where the absorber gets graphic elements. |
+| page | const System::SharedPtr\<Page\>\& | The page where the absorber gets graphic elements. |
 
 ### ReturnValue
 
@@ -38,22 +38,22 @@ The string with SVG content.
 * Class [SvgExtractor](../)
 * Namespace [Aspose::Pdf::Vector](../../)
 * Library [Aspose.PDF for C++](../../../)
-## SvgExtractor::Extract(System::SharedPtr\<GraphicsAbsorber\>, System::Predicate\<System::SharedPtr\<GraphicElement\>\>, System::SharedPtr\<Page\>, System::String) method
+## SvgExtractor::Extract(const System::SharedPtr\<GraphicsAbsorber\>\&, System::Predicate\<System::SharedPtr\<GraphicElement\>\>, const System::SharedPtr\<Page\>\&, const System::String\&) method
 
 
 Exracts svg image to file from graphic elements represents by [absorber](../) with a predicate filter.
 
 ```cpp
-void Aspose::Pdf::Vector::SvgExtractor::Extract(System::SharedPtr<GraphicsAbsorber> absorber, System::Predicate<System::SharedPtr<GraphicElement>> filter, System::SharedPtr<Page> page, System::String svgFilePath)
+void Aspose::Pdf::Vector::SvgExtractor::Extract(const System::SharedPtr<GraphicsAbsorber> &absorber, System::Predicate<System::SharedPtr<GraphicElement>> filter, const System::SharedPtr<Page> &page, const System::String &svgFilePath)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| absorber | System::SharedPtr\<GraphicsAbsorber\> | The [GraphicsAbsorber](../../graphicsabsorber/) object that contains the graphic elements. |
+| absorber | const System::SharedPtr\<GraphicsAbsorber\>\& | The [GraphicsAbsorber](../../graphicsabsorber/) object that contains the graphic elements. |
 | filter | System::Predicate\<System::SharedPtr\<GraphicElement\>\> | A predicate function used to filter the graphic elements. |
-| page | System::SharedPtr\<Page\> | The page where the absorber gets graphic elements. |
-| svgFilePath | System::String | The target SVG file path. |
+| page | const System::SharedPtr\<Page\>\& | The page where the absorber gets graphic elements. |
+| svgFilePath | const System::String\& | The target SVG file path. |
 
 ## See Also
 
@@ -66,19 +66,19 @@ void Aspose::Pdf::Vector::SvgExtractor::Extract(System::SharedPtr<GraphicsAbsorb
 * Class [SvgExtractor](../)
 * Namespace [Aspose::Pdf::Vector](../../)
 * Library [Aspose.PDF for C++](../../../)
-## SvgExtractor::Extract(System::SharedPtr\<Page\>) method
+## SvgExtractor::Extract(const System::SharedPtr\<Page\>\&) method
 
 
 Extracts Svg images from a page to strings.
 
 ```cpp
-System::SharedPtr<System::Collections::Generic::List<System::String>> Aspose::Pdf::Vector::SvgExtractor::Extract(System::SharedPtr<Page> page)
+System::SharedPtr<System::Collections::Generic::List<System::String>> Aspose::Pdf::Vector::SvgExtractor::Extract(const System::SharedPtr<Page> &page)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Page\> | The page to extract. |
+| page | const System::SharedPtr\<Page\>\& | The page to extract. |
 
 ### ReturnValue
 
@@ -93,20 +93,20 @@ The list of SVG content strings.
 * Class [SvgExtractor](../)
 * Namespace [Aspose::Pdf::Vector](../../)
 * Library [Aspose.PDF for C++](../../../)
-## SvgExtractor::Extract(System::SharedPtr\<Page\>, System::String) method
+## SvgExtractor::Extract(const System::SharedPtr\<Page\>\&, const System::String\&) method
 
 
 Extracts Svg images from a page to files.
 
 ```cpp
-void Aspose::Pdf::Vector::SvgExtractor::Extract(System::SharedPtr<Page> page, System::String directory)
+void Aspose::Pdf::Vector::SvgExtractor::Extract(const System::SharedPtr<Page> &page, const System::String &directory)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Page\> | The page to extract. |
-| directory | System::String | The target directory to place SVG images. |
+| page | const System::SharedPtr\<Page\>\& | The page to extract. |
+| directory | const System::String\& | The target directory to place SVG images. |
 
 ## See Also
 
@@ -116,20 +116,20 @@ void Aspose::Pdf::Vector::SvgExtractor::Extract(System::SharedPtr<Page> page, Sy
 * Class [SvgExtractor](../)
 * Namespace [Aspose::Pdf::Vector](../../)
 * Library [Aspose.PDF for C++](../../../)
-## SvgExtractor::Extract(System::SharedPtr\<System::Collections::Generic::IEnumerable\<System::SharedPtr\<GraphicElement\>\>\>, System::SharedPtr\<Page\>) method
+## SvgExtractor::Extract(const System::SharedPtr\<System::Collections::Generic::IEnumerable\<System::SharedPtr\<GraphicElement\>\>\>\&, const System::SharedPtr\<Page\>\&) method
 
 
 Extracts graphic elements into a SVG string. Options ignored - grouping, extracting from rectangle.
 
 ```cpp
-System::String Aspose::Pdf::Vector::SvgExtractor::Extract(System::SharedPtr<System::Collections::Generic::IEnumerable<System::SharedPtr<GraphicElement>>> elements, System::SharedPtr<Page> page)
+System::String Aspose::Pdf::Vector::SvgExtractor::Extract(const System::SharedPtr<System::Collections::Generic::IEnumerable<System::SharedPtr<GraphicElement>>> &elements, const System::SharedPtr<Page> &page)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| elements | System::SharedPtr\<System::Collections::Generic::IEnumerable\<System::SharedPtr\<GraphicElement\>\>\> | The graphic elements to convert. |
-| page | System::SharedPtr\<Page\> | The page where the absorber gets graphic elements. |
+| elements | const System::SharedPtr\<System::Collections::Generic::IEnumerable\<System::SharedPtr\<GraphicElement\>\>\>\& | The graphic elements to convert. |
+| page | const System::SharedPtr\<Page\>\& | The page where the absorber gets graphic elements. |
 
 ### ReturnValue
 
@@ -145,21 +145,21 @@ The string with SVG content.
 * Class [SvgExtractor](../)
 * Namespace [Aspose::Pdf::Vector](../../)
 * Library [Aspose.PDF for C++](../../../)
-## SvgExtractor::Extract(System::SharedPtr\<System::Collections::Generic::IEnumerable\<System::SharedPtr\<GraphicElement\>\>\>, System::SharedPtr\<Page\>, System::String) method
+## SvgExtractor::Extract(const System::SharedPtr\<System::Collections::Generic::IEnumerable\<System::SharedPtr\<GraphicElement\>\>\>\&, const System::SharedPtr\<Page\>\&, const System::String\&) method
 
 
 Extracts graphic elements into a single SVG file. Options ignored - grouping, extracting from rectangle.
 
 ```cpp
-void Aspose::Pdf::Vector::SvgExtractor::Extract(System::SharedPtr<System::Collections::Generic::IEnumerable<System::SharedPtr<GraphicElement>>> elements, System::SharedPtr<Page> page, System::String svgFilePath)
+void Aspose::Pdf::Vector::SvgExtractor::Extract(const System::SharedPtr<System::Collections::Generic::IEnumerable<System::SharedPtr<GraphicElement>>> &elements, const System::SharedPtr<Page> &page, const System::String &svgFilePath)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| elements | System::SharedPtr\<System::Collections::Generic::IEnumerable\<System::SharedPtr\<GraphicElement\>\>\> | The graphic elements to convert. |
-| page | System::SharedPtr\<Page\> | The page where the absorber gets graphic elements. |
-| svgFilePath | System::String | The target SVG file path. |
+| elements | const System::SharedPtr\<System::Collections::Generic::IEnumerable\<System::SharedPtr\<GraphicElement\>\>\>\& | The graphic elements to convert. |
+| page | const System::SharedPtr\<Page\>\& | The page where the absorber gets graphic elements. |
+| svgFilePath | const System::String\& | The target SVG file path. |
 
 ## See Also
 

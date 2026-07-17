@@ -13,15 +13,15 @@ url: /cpp/aspose.pdf.comparison/textpdfcomparer/comparepages/
 Compares document pages.
 
 ```cpp
-static System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<DiffOperation>>> Aspose::Pdf::Comparison::TextPdfComparer::ComparePages(System::SharedPtr<Page> page1, System::SharedPtr<Page> page2, System::SharedPtr<ComparisonOptions> options)
+static System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<DiffOperation>>> Aspose::Pdf::Comparison::TextPdfComparer::ComparePages(const System::SharedPtr<Page> &page1, const System::SharedPtr<Page> &page2, const System::SharedPtr<ComparisonOptions> &options)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page1 | System::SharedPtr\<Page\> | First page. |
-| page2 | System::SharedPtr\<Page\> | Second page. |
-| options | System::SharedPtr\<ComparisonOptions\> | [Comparison](../../) options. |
+| page1 | const System::SharedPtr\<Page\>\& | First page. |
+| page2 | const System::SharedPtr\<Page\>\& | Second page. |
+| options | const System::SharedPtr\<ComparisonOptions\>\& | [Comparison](../../) options. |
 
 ### ReturnValue
 

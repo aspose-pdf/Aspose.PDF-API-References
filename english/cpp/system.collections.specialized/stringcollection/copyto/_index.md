@@ -20,7 +20,7 @@ void System::Collections::Specialized::StringCollection::CopyTo(const ArrayPtr<S
 | Parameter | Type | Description |
 | --- | --- | --- |
 | arr | const ArrayPtr\<System::String\>\& | [Array](../../../system/array/) to copy data to. |
-| index | const int32_t | Index in destination array to start data copying at. |
+| index | const int32_t | [Index](../../../system/index/) in destination array to start data copying at. |
 
 ## See Also
 

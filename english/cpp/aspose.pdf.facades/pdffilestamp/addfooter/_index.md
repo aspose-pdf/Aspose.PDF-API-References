@@ -7,19 +7,19 @@ type: docs
 weight: 200
 url: /cpp/aspose.pdf.facades/pdffilestamp/addfooter/
 ---
-## PdfFileStamp::AddFooter(System::SharedPtr\<FormattedText\>, float) method
+## PdfFileStamp::AddFooter(const System::SharedPtr\<FormattedText\>\&, float) method
 
 
 Adds footer to the pages of the document.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileStamp::AddFooter(System::SharedPtr<FormattedText> formattedText, float bottomMargin)
+void Aspose::Pdf::Facades::PdfFileStamp::AddFooter(const System::SharedPtr<FormattedText> &formattedText, float bottomMargin)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| formattedText | System::SharedPtr\<FormattedText\> | [FormattedText](../../formattedtext/) object which contains text of the footer and text properties. |
+| formattedText | const System::SharedPtr\<FormattedText\>\& | [FormattedText](../../formattedtext/) object which contains text of the footer and text properties. |
 | bottomMargin | float | Margin at the top of page. |
 
 ## See Also
@@ -29,19 +29,19 @@ void Aspose::Pdf::Facades::PdfFileStamp::AddFooter(System::SharedPtr<FormattedTe
 * Class [PdfFileStamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileStamp::AddFooter(System::SharedPtr\<FormattedText\>, float, float, float) method
+## PdfFileStamp::AddFooter(const System::SharedPtr\<FormattedText\>\&, float, float, float) method
 
 
 Adds footer to the pages of the document.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileStamp::AddFooter(System::SharedPtr<FormattedText> formattedText, float bottomMargin, float leftMargin, float rightMargin)
+void Aspose::Pdf::Facades::PdfFileStamp::AddFooter(const System::SharedPtr<FormattedText> &formattedText, float bottomMargin, float leftMargin, float rightMargin)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| formattedText | System::SharedPtr\<FormattedText\> | [FormattedText](../../formattedtext/) object which contains footer text and text properties. |
+| formattedText | const System::SharedPtr\<FormattedText\>\& | [FormattedText](../../formattedtext/) object which contains footer text and text properties. |
 | bottomMargin | float | Margin at the bottom of the page. |
 | leftMargin | float | Margin at the left side of the page. |
 | rightMargin | float | Margin at the right side of the page. |
@@ -53,19 +53,19 @@ void Aspose::Pdf::Facades::PdfFileStamp::AddFooter(System::SharedPtr<FormattedTe
 * Class [PdfFileStamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileStamp::AddFooter(System::SharedPtr\<System::IO::Stream\>, float) method
+## PdfFileStamp::AddFooter(const System::SharedPtr\<System::IO::Stream\>\&, float) method
 
 
 Adds image as footer of the page.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileStamp::AddFooter(System::SharedPtr<System::IO::Stream> imageStream, float bottomMargin)
+void Aspose::Pdf::Facades::PdfFileStamp::AddFooter(const System::SharedPtr<System::IO::Stream> &imageStream, float bottomMargin)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| imageStream | System::SharedPtr\<System::IO::Stream\> | Stream contains image data. |
+| imageStream | const System::SharedPtr\<System::IO::Stream\>\& | Stream contains image data. |
 | bottomMargin | float | Margin at the bottom of the page. |
 
 ## See Also
@@ -75,19 +75,19 @@ void Aspose::Pdf::Facades::PdfFileStamp::AddFooter(System::SharedPtr<System::IO:
 * Class [PdfFileStamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileStamp::AddFooter(System::SharedPtr\<System::IO::Stream\>, float, float, float) method
+## PdfFileStamp::AddFooter(const System::SharedPtr\<System::IO::Stream\>\&, float, float, float) method
 
 
 Adds image as footer of the page.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileStamp::AddFooter(System::SharedPtr<System::IO::Stream> imageStream, float bottomMargin, float leftMargin, float rightMargin)
+void Aspose::Pdf::Facades::PdfFileStamp::AddFooter(const System::SharedPtr<System::IO::Stream> &imageStream, float bottomMargin, float leftMargin, float rightMargin)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| imageStream | System::SharedPtr\<System::IO::Stream\> | Stream contains image data. |
+| imageStream | const System::SharedPtr\<System::IO::Stream\>\& | Stream contains image data. |
 | bottomMargin | float | Margin at the bottom of the page. |
 | leftMargin | float | Margin at the left side of the page. |
 | rightMargin | float | Margin at the right side of the page. |
@@ -99,19 +99,19 @@ void Aspose::Pdf::Facades::PdfFileStamp::AddFooter(System::SharedPtr<System::IO:
 * Class [PdfFileStamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileStamp::AddFooter(System::String, float) method
+## PdfFileStamp::AddFooter(const System::String\&, float) method
 
 
 Adds image as footer to the pages of the document.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileStamp::AddFooter(System::String imageFile, float bottomMargin)
+void Aspose::Pdf::Facades::PdfFileStamp::AddFooter(const System::String &imageFile, float bottomMargin)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| imageFile | System::String | [Image](../../../aspose.pdf/image/) file name and path. |
+| imageFile | const System::String\& | [Image](../../../aspose.pdf/image/) file name and path. |
 | bottomMargin | float | Margin at the bottom of the page. |
 
 ## See Also
@@ -120,19 +120,19 @@ void Aspose::Pdf::Facades::PdfFileStamp::AddFooter(System::String imageFile, flo
 * Class [PdfFileStamp](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileStamp::AddFooter(System::String, float, float, float) method
+## PdfFileStamp::AddFooter(const System::String\&, float, float, float) method
 
 
 Adds image as footer of the pages.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileStamp::AddFooter(System::String imageFile, float bottomMargin, float leftMargin, float rightMargin)
+void Aspose::Pdf::Facades::PdfFileStamp::AddFooter(const System::String &imageFile, float bottomMargin, float leftMargin, float rightMargin)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| imageFile | System::String | Iamge file name and path. |
+| imageFile | const System::String\& | Iamge file name and path. |
 | bottomMargin | float | Margin at the bottom of the page. |
 | leftMargin | float | Margin at the left side of the page. |
 | rightMargin | float | Margin at the right side of the page. |

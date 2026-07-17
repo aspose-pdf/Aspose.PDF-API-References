@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formeditor/set_saveoptions/
 Sets save options when result is stored as HttpResponse. Default value: [PdfSaveOptions](../../../aspose.pdf/pdfsaveoptions/).
 
 ```cpp
-void Aspose::Pdf::Facades::FormEditor::set_SaveOptions(System::SharedPtr<Aspose::Pdf::SaveOptions> value)
+void Aspose::Pdf::Facades::FormEditor::set_SaveOptions(const System::SharedPtr<Aspose::Pdf::SaveOptions> &value)
 ```
 
 ## See Also

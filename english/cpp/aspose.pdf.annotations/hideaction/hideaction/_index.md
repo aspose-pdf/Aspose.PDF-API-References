@@ -7,19 +7,19 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf.annotations/hideaction/hideaction/
 ---
-## HideAction::HideAction(System::ArrayPtr\<System::SharedPtr\<Annotation\>\>) constructor
+## HideAction::HideAction(const System::ArrayPtr\<System::SharedPtr\<Annotation\>\>\&) constructor
 
 
 Initializes a new instance of the [HideAction](../) class for the specified annotations.
 
 ```cpp
-Aspose::Pdf::Annotations::HideAction::HideAction(System::ArrayPtr<System::SharedPtr<Annotation>> annotations)
+Aspose::Pdf::Annotations::HideAction::HideAction(const System::ArrayPtr<System::SharedPtr<Annotation>> &annotations)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| annotations | System::ArrayPtr\<System::SharedPtr\<Annotation\>\> | An array of annotations to be hidden. |
+| annotations | const System::ArrayPtr\<System::SharedPtr\<Annotation\>\>\& | An array of annotations to be hidden. |
 
 ## See Also
 
@@ -29,19 +29,19 @@ Aspose::Pdf::Annotations::HideAction::HideAction(System::ArrayPtr<System::Shared
 * Class [HideAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## HideAction::HideAction(System::ArrayPtr\<System::SharedPtr\<Annotation\>\>, bool) constructor
+## HideAction::HideAction(const System::ArrayPtr\<System::SharedPtr\<Annotation\>\>\&, bool) constructor
 
 
 Initializes a new instance of the [HideAction](../) class for the specified annotations and for invisibility flag.
 
 ```cpp
-Aspose::Pdf::Annotations::HideAction::HideAction(System::ArrayPtr<System::SharedPtr<Annotation>> annotations, bool isHidden)
+Aspose::Pdf::Annotations::HideAction::HideAction(const System::ArrayPtr<System::SharedPtr<Annotation>> &annotations, bool isHidden)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| annotations | System::ArrayPtr\<System::SharedPtr\<Annotation\>\> | An array of annotations to be hidden or shown. |
+| annotations | const System::ArrayPtr\<System::SharedPtr\<Annotation\>\>\& | An array of annotations to be hidden or shown. |
 | isHidden | bool | A flag indicating whether to hide the annotations (true) or show it (false). |
 
 ## See Also
@@ -52,19 +52,19 @@ Aspose::Pdf::Annotations::HideAction::HideAction(System::ArrayPtr<System::Shared
 * Class [HideAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## HideAction::HideAction(System::ArrayPtr\<System::String\>) constructor
+## HideAction::HideAction(const System::ArrayPtr\<System::String\>\&) constructor
 
 
 Initializes a new instance of the [HideAction](../) class for the specified field names.
 
 ```cpp
-Aspose::Pdf::Annotations::HideAction::HideAction(System::ArrayPtr<System::String> names)
+Aspose::Pdf::Annotations::HideAction::HideAction(const System::ArrayPtr<System::String> &names)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| names | System::ArrayPtr\<System::String\> | An array of strings giving the fully qualified field names of an interactive form fields. |
+| names | const System::ArrayPtr\<System::String\>\& | An array of strings giving the fully qualified field names of an interactive form fields. |
 
 ## See Also
 
@@ -73,19 +73,19 @@ Aspose::Pdf::Annotations::HideAction::HideAction(System::ArrayPtr<System::String
 * Class [HideAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## HideAction::HideAction(System::ArrayPtr\<System::String\>, bool) constructor
+## HideAction::HideAction(const System::ArrayPtr\<System::String\>\&, bool) constructor
 
 
 Initializes a new instance of the [HideAction](../) class for the specified field names and for invisibility flag.
 
 ```cpp
-Aspose::Pdf::Annotations::HideAction::HideAction(System::ArrayPtr<System::String> names, bool isHidden)
+Aspose::Pdf::Annotations::HideAction::HideAction(const System::ArrayPtr<System::String> &names, bool isHidden)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| names | System::ArrayPtr\<System::String\> | An array of strings giving the fully qualified field names of an interactive form fields. |
+| names | const System::ArrayPtr\<System::String\>\& | An array of strings giving the fully qualified field names of an interactive form fields. |
 | isHidden | bool | A flag indicating whether to hide the fields (true) or show it (false). |
 
 ## See Also
@@ -95,19 +95,19 @@ Aspose::Pdf::Annotations::HideAction::HideAction(System::ArrayPtr<System::String
 * Class [HideAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## HideAction::HideAction(System::SharedPtr\<Annotation\>) constructor
+## HideAction::HideAction(const System::SharedPtr\<Annotation\>\&) constructor
 
 
 Initializes a new instance of the [HideAction](../) class for the specified annotation.
 
 ```cpp
-Aspose::Pdf::Annotations::HideAction::HideAction(System::SharedPtr<Annotation> annotation)
+Aspose::Pdf::Annotations::HideAction::HideAction(const System::SharedPtr<Annotation> &annotation)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| annotation | System::SharedPtr\<Annotation\> | An annotation to be hidden. |
+| annotation | const System::SharedPtr\<Annotation\>\& | An annotation to be hidden. |
 
 ## See Also
 
@@ -116,19 +116,19 @@ Aspose::Pdf::Annotations::HideAction::HideAction(System::SharedPtr<Annotation> a
 * Class [HideAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## HideAction::HideAction(System::SharedPtr\<Annotation\>, bool) constructor
+## HideAction::HideAction(const System::SharedPtr\<Annotation\>\&, bool) constructor
 
 
 Initializes a new instance of the [HideAction](../) class for the specified annotation and invisibility flag.
 
 ```cpp
-Aspose::Pdf::Annotations::HideAction::HideAction(System::SharedPtr<Annotation> annotation, bool isHidden)
+Aspose::Pdf::Annotations::HideAction::HideAction(const System::SharedPtr<Annotation> &annotation, bool isHidden)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| annotation | System::SharedPtr\<Annotation\> | An annotation to be hidden or shown. |
+| annotation | const System::SharedPtr\<Annotation\>\& | An annotation to be hidden or shown. |
 | isHidden | bool | A flag indicating whether to hide the annotation (true) or show it (false). |
 
 ## See Also
@@ -138,19 +138,19 @@ Aspose::Pdf::Annotations::HideAction::HideAction(System::SharedPtr<Annotation> a
 * Class [HideAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## HideAction::HideAction(System::String) constructor
+## HideAction::HideAction(const System::String\&) constructor
 
 
 Initializes a new instance of the [HideAction](../) class for the specified field name.
 
 ```cpp
-Aspose::Pdf::Annotations::HideAction::HideAction(System::String fieldName)
+Aspose::Pdf::Annotations::HideAction::HideAction(const System::String &fieldName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | A text string giving the fully qualified field name of an interactive form field. |
+| fieldName | const System::String\& | A text string giving the fully qualified field name of an interactive form field. |
 
 ## See Also
 
@@ -158,19 +158,19 @@ Aspose::Pdf::Annotations::HideAction::HideAction(System::String fieldName)
 * Class [HideAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## HideAction::HideAction(System::String, bool) constructor
+## HideAction::HideAction(const System::String\&, bool) constructor
 
 
 Initializes a new instance of the [HideAction](../) class for the specified field name and invisibility flag.
 
 ```cpp
-Aspose::Pdf::Annotations::HideAction::HideAction(System::String fieldName, bool isHidden)
+Aspose::Pdf::Annotations::HideAction::HideAction(const System::String &fieldName, bool isHidden)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | A text string giving the fully qualified field name of an interactive form field. |
+| fieldName | const System::String\& | A text string giving the fully qualified field name of an interactive form field. |
 | isHidden | bool | A flag indicating whether to hide the field (true) or show it (false). |
 
 ## See Also

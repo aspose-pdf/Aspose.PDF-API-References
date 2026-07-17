@@ -29,58 +29,58 @@ class Document : public System::IDisposable,
 | Method | Description |
 | --- | --- |
 | [BindXml](./bindxml/)(System::String) | Bind xml to document. |
-| [BindXml](./bindxml/)(System::String, System::String) | Bind xml/xsl to document. |
-| [BindXml](./bindxml/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::IO::Stream\>) | Bind xml/xsl to document. |
-| [BindXml](./bindxml/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::Xml::XmlReaderSettings\>) | Bind xml/xsl to document. |
-| [BindXml](./bindxml/)(System::SharedPtr\<System::IO::Stream\>) | Bind xml to document. |
-| [ChangePasswords](./changepasswords/)(System::String, System::String, System::String) | Changes document passwords. This action can be done only using owner password. |
+| [BindXml](./bindxml/)(const System::String\&, const System::String\&) | Bind xml/xsl to document. |
+| [BindXml](./bindxml/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::IO::Stream\>\&) | Bind xml/xsl to document. |
+| [BindXml](./bindxml/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::Xml::XmlReaderSettings\>\&) | Bind xml/xsl to document. |
+| [BindXml](./bindxml/)(const System::SharedPtr\<System::IO::Stream\>\&) | Bind xml to document. |
+| [ChangePasswords](./changepasswords/)(const System::String\&, const System::String\&, const System::String\&) | Changes document passwords. This action can be done only using owner password. |
 | [Check](./check/)(bool) | Validates document. |
-| [Convert](./convert/)(System::String, Aspose::Pdf::PdfFormat, ConvertErrorAction, ConvertTransparencyAction) | Convert document and save errors into the specified file. |
-| [Convert](./convert/)(System::SharedPtr\<System::IO::Stream\>, Aspose::Pdf::PdfFormat, ConvertErrorAction, ConvertTransparencyAction) | Convert document and save errors into the specified file. |
-| [Convert](./convert/)(System::String, Aspose::Pdf::PdfFormat, ConvertErrorAction) | Convert document and save errors into the specified file. |
-| [Convert](./convert/)(System::SharedPtr\<PdfFormatConversionOptions\>) | Convert document using specified conversion options. |
+| [Convert](./convert/)(const System::String\&, Aspose::Pdf::PdfFormat, ConvertErrorAction, ConvertTransparencyAction) | Convert document and save errors into the specified file. |
+| [Convert](./convert/)(const System::SharedPtr\<System::IO::Stream\>\&, Aspose::Pdf::PdfFormat, ConvertErrorAction, ConvertTransparencyAction) | Convert document and save errors into the specified file. |
+| [Convert](./convert/)(const System::String\&, Aspose::Pdf::PdfFormat, ConvertErrorAction) | Convert document and save errors into the specified file. |
+| [Convert](./convert/)(const System::SharedPtr\<PdfFormatConversionOptions\>\&) | Convert document using specified conversion options. |
 | [Convert](./convert/)(Document::CallBackGetHocrWithPage, bool) | Recognize images inside the document and add hocr strings over it. |
 | [Convert](./convert/)(Document::CallBackGetHocr, bool) | Recognize images inside the document and add hocr strings over it. |
-| [Convert](./convert/)(System::SharedPtr\<System::IO::Stream\>, Aspose::Pdf::PdfFormat, ConvertErrorAction) | Convert document and save errors into the specified stream. |
-| [Convert](./convert/)(Fixup, System::SharedPtr\<System::IO::Stream\>, bool, System::ArrayPtr\<System::SharedPtr\<System::Object\>\>) | Convert document by applying the [Fixup](../fixup/). |
-| [Convert](./convert/)(Fixup, System::String, bool, System::ArrayPtr\<System::SharedPtr\<System::Object\>\>) | Convert document by applying the [Fixup](../fixup/). |
-| static [Convert](./convert/)(System::String, System::SharedPtr\<LoadOptions\>, System::String, System::SharedPtr\<SaveOptions\>) | Converts source file in source format into destination file in destination format. |
-| static [Convert](./convert/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<LoadOptions\>, System::String, System::SharedPtr\<SaveOptions\>) | Converts stream in source format into destination file in destination format. |
-| static [Convert](./convert/)(System::String, System::SharedPtr\<LoadOptions\>, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<SaveOptions\>) | Converts source file in source format into stream in destination format. |
-| static [Convert](./convert/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<LoadOptions\>, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<SaveOptions\>) | Converts stream in source format into stream in destination format. |
-| [ConvertPageToPNGMemoryStream](./convertpagetopngmemorystream/)(System::SharedPtr\<Page\>) | Convert page to PNG for DSR, OMR, OCR image stream. |
+| [Convert](./convert/)(const System::SharedPtr\<System::IO::Stream\>\&, Aspose::Pdf::PdfFormat, ConvertErrorAction) | Convert document and save errors into the specified stream. |
+| [Convert](./convert/)(Fixup, const System::SharedPtr\<System::IO::Stream\>\&, bool, const System::ArrayPtr\<System::SharedPtr\<System::Object\>\>\&) | Convert document by applying the [Fixup](../fixup/). |
+| [Convert](./convert/)(Fixup, const System::String\&, bool, const System::ArrayPtr\<System::SharedPtr\<System::Object\>\>\&) | Convert document by applying the [Fixup](../fixup/). |
+| static [Convert](./convert/)(const System::String\&, const System::SharedPtr\<LoadOptions\>\&, const System::String\&, System::SharedPtr\<SaveOptions\>) | Converts source file in source format into destination file in destination format. |
+| static [Convert](./convert/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<LoadOptions\>\&, const System::String\&, System::SharedPtr\<SaveOptions\>) | Converts stream in source format into destination file in destination format. |
+| static [Convert](./convert/)(const System::String\&, const System::SharedPtr\<LoadOptions\>\&, const System::SharedPtr\<System::IO::Stream\>\&, System::SharedPtr\<SaveOptions\>) | Converts source file in source format into stream in destination format. |
+| static [Convert](./convert/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<LoadOptions\>\&, const System::SharedPtr\<System::IO::Stream\>\&, System::SharedPtr\<SaveOptions\>) | Converts stream in source format into stream in destination format. |
+| [ConvertPageToPNGMemoryStream](./convertpagetopngmemorystream/)(const System::SharedPtr\<Page\>\&) | Convert page to PNG for DSR, OMR, OCR image stream. |
 | [Decrypt](./decrypt/)() | Decrypts the document. Call then Save to obtain decrypted version of the document. |
 | [Dispose](./dispose/)() override | Closes all resources used by this document. |
-| [Document](./document/)(System::SharedPtr\<System::IO::Stream\>) | Initialize new [Document](./) instance from the *input*  stream. |
-| [Document](./document/)(System::SharedPtr\<System::IO::Stream\>, bool) | Initialize new [Document](./) instance from the *input*  stream. |
-| [Document](./document/)(System::SharedPtr\<System::IO::Stream\>, System::String) | Initialize new [Document](./) instance from the *input*  stream. |
-| [Document](./document/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Security::CertificateEncryptionOptions\>) | Initialize new [Document](./) instance from the *input*  stream. |
-| [Document](./document/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Security::CertificateEncryptionOptions\>, bool) | Initialize new [Document](./) instance from the *input*  stream. |
-| [Document](./document/)(System::String, System::SharedPtr\<Security::CertificateEncryptionOptions\>) | Initializes new instance of the [Document](./) class for working with encrypted document. |
-| [Document](./document/)(System::String, System::SharedPtr\<Security::CertificateEncryptionOptions\>, bool) | Initializes new instance of the [Document](./) class for working with encrypted document. |
-| [Document](./document/)(System::SharedPtr\<System::IO::Stream\>, System::String, System::SharedPtr\<Security::ICustomSecurityHandler\>) | Initialize new [Document](./) instance from the *input*  stream. |
-| [Document](./document/)(System::SharedPtr\<System::IO::Stream\>, System::String, bool) | Initialize new [Document](./) instance from the *input*  stream. |
-| [Document](./document/)(System::SharedPtr\<System::IO::Stream\>, System::String, bool, System::SharedPtr\<Security::ICustomSecurityHandler\>) | Initialize new [Document](./) instance from the *input*  stream. |
-| [Document](./document/)(System::String) | Just init [Document](./) using *filename* . The same as [Document(Stream)](../). |
-| [Document](./document/)(System::String, bool) | Just init [Document](./) using *filename* . The same as [Document(Stream)](../). |
-| [Document](./document/)(System::String, System::String, System::SharedPtr\<Security::ICustomSecurityHandler\>) | Initializes new instance of the [Document](./) class for working with encrypted document. |
-| [Document](./document/)(System::String, System::String) | Initializes new instance of the [Document](./) class for working with encrypted document. |
-| [Document](./document/)(System::String, System::String, bool) | Initializes new instance of the [Document](./) class for working with encrypted document. |
-| [Document](./document/)(System::String, System::String, bool, System::SharedPtr\<Security::ICustomSecurityHandler\>) | Initializes new instance of the [Document](./) class for working with encrypted document. |
+| [Document](./document/)(const System::SharedPtr\<System::IO::Stream\>\&) | Initialize new [Document](./) instance from the *input*  stream. |
+| [Document](./document/)(const System::SharedPtr\<System::IO::Stream\>\&, bool) | Initialize new [Document](./) instance from the *input*  stream. |
+| [Document](./document/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&) | Initialize new [Document](./) instance from the *input*  stream. |
+| [Document](./document/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Security::CertificateEncryptionOptions\>\&) | Initialize new [Document](./) instance from the *input*  stream. |
+| [Document](./document/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Security::CertificateEncryptionOptions\>\&, bool) | Initialize new [Document](./) instance from the *input*  stream. |
+| [Document](./document/)(const System::String\&, const System::SharedPtr\<Security::CertificateEncryptionOptions\>\&) | Initializes new instance of the [Document](./) class for working with encrypted document. |
+| [Document](./document/)(const System::String\&, const System::SharedPtr\<Security::CertificateEncryptionOptions\>\&, bool) | Initializes new instance of the [Document](./) class for working with encrypted document. |
+| [Document](./document/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&, const System::SharedPtr\<Security::ICustomSecurityHandler\>\&) | Initialize new [Document](./) instance from the *input*  stream. |
+| [Document](./document/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&, bool) | Initialize new [Document](./) instance from the *input*  stream. |
+| [Document](./document/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&, bool, const System::SharedPtr\<Security::ICustomSecurityHandler\>\&) | Initialize new [Document](./) instance from the *input*  stream. |
+| [Document](./document/)(const System::String\&) | Just init [Document](./) using *filename* . The same as [Document(Stream)](../). |
+| [Document](./document/)(const System::String\&, bool) | Just init [Document](./) using *filename* . The same as [Document(Stream)](../). |
+| [Document](./document/)(const System::String\&, const System::String\&, const System::SharedPtr\<Security::ICustomSecurityHandler\>\&) | Initializes new instance of the [Document](./) class for working with encrypted document. |
+| [Document](./document/)(const System::String\&, const System::String\&) | Initializes new instance of the [Document](./) class for working with encrypted document. |
+| [Document](./document/)(const System::String\&, const System::String\&, bool) | Initializes new instance of the [Document](./) class for working with encrypted document. |
+| [Document](./document/)(const System::String\&, const System::String\&, bool, const System::SharedPtr\<Security::ICustomSecurityHandler\>\&) | Initializes new instance of the [Document](./) class for working with encrypted document. |
 | [Document](./document/)() | Initializes empty document. |
 | [Document](./document/)(PdfVersion) | Initializes empty document by version. |
-| [Document](./document/)(System::String, System::SharedPtr\<LoadOptions\>) | Opens an existing document from a file providing necessary converting options to get pdf document. |
-| [Document](./document/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<LoadOptions\>) | Opens an existing document from a stream providing necessary converting to get pdf document. |
-| [Encrypt](./encrypt/)(Aspose::Pdf::Permissions, Aspose::Pdf::CryptoAlgorithm, System::SharedPtr\<System::Collections::Generic::IList\<System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\>\>\>) | Encrypts the document. |
-| [Encrypt](./encrypt/)(System::String, System::String, System::SharedPtr\<Facades::DocumentPrivilege\>, System::SharedPtr\<Security::ICustomSecurityHandler\>) | Encrypts the document. |
-| [Encrypt](./encrypt/)(System::String, System::String, Aspose::Pdf::Permissions, System::SharedPtr\<Security::ICustomSecurityHandler\>) | Encrypts the document. |
-| [Encrypt](./encrypt/)(System::String, System::String, System::SharedPtr\<Facades::DocumentPrivilege\>, Aspose::Pdf::CryptoAlgorithm, bool) | Encrypts the document. |
-| [Encrypt](./encrypt/)(System::String, System::String, Aspose::Pdf::Permissions, Aspose::Pdf::CryptoAlgorithm) | Encrypts the document. |
-| [Encrypt](./encrypt/)(System::String, System::String, Aspose::Pdf::Permissions, Aspose::Pdf::CryptoAlgorithm, bool) | Encrypts the document. |
-| [ExportAnnotationsToXfdf](./exportannotationstoxfdf/)(System::String) | Exports all document annotations to XFDF file. |
-| [ExportAnnotationsToXfdf](./exportannotationstoxfdf/)(System::SharedPtr\<System::IO::Stream\>) | Export all document annotations into stream. |
+| [Document](./document/)(const System::String\&, const System::SharedPtr\<LoadOptions\>\&) | Opens an existing document from a file providing necessary converting options to get pdf document. |
+| [Document](./document/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<LoadOptions\>\&) | Opens an existing document from a stream providing necessary converting to get pdf document. |
+| [Encrypt](./encrypt/)(Aspose::Pdf::Permissions, Aspose::Pdf::CryptoAlgorithm, const System::SharedPtr\<System::Collections::Generic::IList\<System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\>\>\>\&) | Encrypts the document. |
+| [Encrypt](./encrypt/)(const System::String\&, const System::String\&, const System::SharedPtr\<Facades::DocumentPrivilege\>\&, const System::SharedPtr\<Security::ICustomSecurityHandler\>\&) | Encrypts the document. |
+| [Encrypt](./encrypt/)(const System::String\&, const System::String\&, Aspose::Pdf::Permissions, const System::SharedPtr\<Security::ICustomSecurityHandler\>\&) | Encrypts the document. |
+| [Encrypt](./encrypt/)(const System::String\&, const System::String\&, const System::SharedPtr\<Facades::DocumentPrivilege\>\&, Aspose::Pdf::CryptoAlgorithm, bool) | Encrypts the document. |
+| [Encrypt](./encrypt/)(const System::String\&, const System::String\&, Aspose::Pdf::Permissions, Aspose::Pdf::CryptoAlgorithm) | Encrypts the document. |
+| [Encrypt](./encrypt/)(const System::String\&, const System::String\&, Aspose::Pdf::Permissions, Aspose::Pdf::CryptoAlgorithm, bool) | Encrypts the document. |
+| [ExportAnnotationsToXfdf](./exportannotationstoxfdf/)(const System::String\&) | Exports all document annotations to XFDF file. |
+| [ExportAnnotationsToXfdf](./exportannotationstoxfdf/)(const System::SharedPtr\<System::IO::Stream\>\&) | Export all document annotations into stream. |
 | [Flatten](./flatten/)() | Removes all fields from the document and place their values instead. |
-| [Flatten](./flatten/)(System::SharedPtr\<Forms::Form::FlattenSettings\>) | Removes all fields (and annotations) from the document and place their values instead. |
+| [Flatten](./flatten/)(const System::SharedPtr\<Forms::Form::FlattenSettings\>\&) | Removes all fields (and annotations) from the document and place their values instead. |
 | [FlattenTransparency](./flattentransparency/)() | Replaces transparent content with non-transparent raster and vector graphics. |
 | [FreeMemory](./freememory/)() override | Clears memory. |
 | [get_Actions](./get_actions/)() | Gets document actions. This property is instance of DocumentActions class which allows to get/set BeforClosing, BeforSaving, etc. actions. |
@@ -138,49 +138,49 @@ class Document : public System::IDisposable,
 | [get_PrintScaling](./get_printscaling/)() | Gets the page scaling option that shall be selected when a print dialog is displayed for this document. |
 | [get_TaggedContent](./get_taggedcontent/)() |  |
 | [get_Version](./get_version/)() | Gets a version of [Pdf](../) from [Pdf](../) file header. |
-| [GetCatalogValue](./getcatalogvalue/)(System::String) | Returns item value from catalog dictionary. |
-| [GetObjectById](./getobjectbyid/)(System::String) | Gets a object with specified ID in the document. |
-| [GetXmpMetadata](./getxmpmetadata/)(System::SharedPtr\<System::IO::Stream\>) | Get XMP metadata from document. |
+| [GetCatalogValue](./getcatalogvalue/)(const System::String\&) | Returns item value from catalog dictionary. |
+| [GetObjectById](./getobjectbyid/)(const System::String\&) | Gets a object with specified ID in the document. |
+| [GetXmpMetadata](./getxmpmetadata/)(const System::SharedPtr\<System::IO::Stream\>\&) | Get XMP metadata from document. |
 | [HasIncrementalUpdate](./hasincrementalupdate/)() | Checks if the current PDF document has been saved with incremental updates. |
-| [ImportAnnotationsFromXfdf](./importannotationsfromxfdf/)(System::String) | Imports annotations from XFDF file to document. |
-| [ImportAnnotationsFromXfdf](./importannotationsfromxfdf/)(System::SharedPtr\<System::IO::Stream\>) | Imports annotations from stream to document. |
+| [ImportAnnotationsFromXfdf](./importannotationsfromxfdf/)(const System::String\&) | Imports annotations from XFDF file to document. |
+| [ImportAnnotationsFromXfdf](./importannotationsfromxfdf/)(const System::SharedPtr\<System::IO::Stream\>\&) | Imports annotations from stream to document. |
 | [IsRepairNeeded](./isrepairneeded/)(System::SharedPtr\<Document::RepairOptions\>\&) | Checks if document requires Repair method call. |
-| [LoadFrom](./loadfrom/)(System::String, System::SharedPtr\<LoadOptions\>) | Loads a file, converting it to PDF. |
-| [Merge](./merge/)(System::SharedPtr\<Document::MergeOptions\>, const System::ArrayPtr\<System::SharedPtr\<Document\>\>\&) | Merges documents. |
-| [Merge](./merge/)(System::SharedPtr\<Document::MergeOptions\>, const System::ArrayPtr\<System::String\>\&) | Merges documents. |
+| [LoadFrom](./loadfrom/)(const System::String\&, const System::SharedPtr\<LoadOptions\>\&) | Loads a file, converting it to PDF. |
+| [Merge](./merge/)(const System::SharedPtr\<Document::MergeOptions\>\&, const System::ArrayPtr\<System::SharedPtr\<Document\>\>\&) | Merges documents. |
+| [Merge](./merge/)(const System::SharedPtr\<Document::MergeOptions\>\&, const System::ArrayPtr\<System::String\>\&) | Merges documents. |
 | [Merge](./merge/)(const System::ArrayPtr\<System::SharedPtr\<Document\>\>\&) | Merges documents. |
 | [Merge](./merge/)(const System::ArrayPtr\<System::String\>\&) | Merges pdf files. |
-| static [MergeDocuments](./mergedocuments/)(System::SharedPtr\<Document::MergeOptions\>, const System::ArrayPtr\<System::String\>\&) | Merges documents. |
-| static [MergeDocuments](./mergedocuments/)(System::SharedPtr\<Document::MergeOptions\>, const System::ArrayPtr\<System::SharedPtr\<Document\>\>\&) | Merges documents. |
+| static [MergeDocuments](./mergedocuments/)(const System::SharedPtr\<Document::MergeOptions\>\&, const System::ArrayPtr\<System::String\>\&) | Merges documents. |
+| static [MergeDocuments](./mergedocuments/)(const System::SharedPtr\<Document::MergeOptions\>\&, const System::ArrayPtr\<System::SharedPtr\<Document\>\>\&) | Merges documents. |
 | static [MergeDocuments](./mergedocuments/)(const System::ArrayPtr\<System::String\>\&) | Merges pdf files. |
 | static [MergeDocuments](./mergedocuments/)(const System::ArrayPtr\<System::SharedPtr\<Document\>\>\&) | Merges documents. |
 | [Optimize](./optimize/)() | Linearize the document in order to. |
 | [OptimizeResources](./optimizeresources/)() | Optimize resources in the document: |
-| [OptimizeResources](./optimizeresources/)(System::SharedPtr\<Aspose::Pdf::Optimization::OptimizationOptions\>) | Optimize resources in the document according to defined optimization strategy. |
+| [OptimizeResources](./optimizeresources/)(const System::SharedPtr\<Aspose::Pdf::Optimization::OptimizationOptions\>\&) | Optimize resources in the document according to defined optimization strategy. |
 | [PageNodesToBalancedTree](./pagenodestobalancedtree/)(uint8_t) | Organizes page tree nodes in a document into a balanced tree. Only if the document has more than nodesNumInSubtrees page objects, otherwise it does nothing. Do not call this method while iterating over Pages elements, it may give unpredictable results. |
 | [ProcessParagraphs](./processparagraphs/)() | Process paragraphs for generator. |
 | [RemoveMetadata](./removemetadata/)() | Removes metadata from the document. |
 | [RemovePdfaCompliance](./removepdfacompliance/)() | Remove pdfa compliance from the document. |
 | [RemovePdfUaCompliance](./removepdfuacompliance/)() | Remove pdfUa compliance from the document. |
 | [Repair](./repair/)(System::SharedPtr\<Document::RepairOptions\>) | Repairs broken document. |
-| [Save](./save/)(System::SharedPtr\<System::IO::Stream\>) | Stores document into stream. |
-| [Save](./save/)(System::String) | Saves document into the specified file. |
+| [Save](./save/)(const System::SharedPtr\<System::IO::Stream\>\&) | Stores document into stream. |
+| [Save](./save/)(const System::String\&) | Saves document into the specified file. |
 | [Save](./save/)() | Save document incrementally (i.e. using incremental update technique). |
-| [Save](./save/)(System::SharedPtr\<SaveOptions\>) | Saves the document with save options. |
-| [Save](./save/)(System::String, SaveFormat) | Saves the document with a new name along with a file format. |
-| [Save](./save/)(System::SharedPtr\<System::IO::Stream\>, SaveFormat) | Saves the document with a new name along with a file format. |
-| [Save](./save/)(System::String, System::SharedPtr\<SaveOptions\>) | Saves the document with a new name setting its save options. |
-| [Save](./save/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<SaveOptions\>) | Saves the document to a stream with a save options. |
-| [Save](./save/)(System::SharedPtr\<System::Web::HttpResponse\>, System::String, ContentDisposition, System::SharedPtr\<SaveOptions\>) | Saves the document to a response stream with a save options. |
+| [Save](./save/)(const System::SharedPtr\<SaveOptions\>\&) | Saves the document with save options. |
+| [Save](./save/)(const System::String\&, SaveFormat) | Saves the document with a new name along with a file format. |
+| [Save](./save/)(const System::SharedPtr\<System::IO::Stream\>\&, SaveFormat) | Saves the document with a new name along with a file format. |
+| [Save](./save/)(const System::String\&, const System::SharedPtr\<SaveOptions\>\&) | Saves the document with a new name setting its save options. |
+| [Save](./save/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<SaveOptions\>\&) | Saves the document to a stream with a save options. |
+| [Save](./save/)(const System::SharedPtr\<System::Web::HttpResponse\>\&, const System::String\&, ContentDisposition, const System::SharedPtr\<SaveOptions\>\&) | Saves the document to a response stream with a save options. |
 | [SaveXml](./savexml/)(System::String) | Save document to XML. |
-| [SendTo](./sendto/)(System::SharedPtr\<Devices::DocumentDevice\>, System::SharedPtr\<System::IO::Stream\>) | Sends the whole document to the document device for processing. |
-| [SendTo](./sendto/)(System::SharedPtr\<Devices::DocumentDevice\>, int32_t, int32_t, System::SharedPtr\<System::IO::Stream\>) | Sends the certain pages of the document to the document device for processing. |
-| [SendTo](./sendto/)(System::SharedPtr\<Devices::DocumentDevice\>, System::String) | Sends the whole document to the document device for processing. |
-| [SendTo](./sendto/)(System::SharedPtr\<Devices::DocumentDevice\>, int32_t, int32_t, System::String) | Sends the whole document to the document device for processing. |
+| [SendTo](./sendto/)(const System::SharedPtr\<Devices::DocumentDevice\>\&, const System::SharedPtr\<System::IO::Stream\>\&) | Sends the whole document to the document device for processing. |
+| [SendTo](./sendto/)(const System::SharedPtr\<Devices::DocumentDevice\>\&, int32_t, int32_t, const System::SharedPtr\<System::IO::Stream\>\&) | Sends the certain pages of the document to the document device for processing. |
+| [SendTo](./sendto/)(const System::SharedPtr\<Devices::DocumentDevice\>\&, const System::String\&) | Sends the whole document to the document device for processing. |
+| [SendTo](./sendto/)(const System::SharedPtr\<Devices::DocumentDevice\>\&, int32_t, int32_t, const System::String\&) | Sends the whole document to the document device for processing. |
 | [set_AllowReusePageContent](./set_allowreusepagecontent/)(bool) | Allows to merge page contents to optimize docuement size. If used then differnet but duplicated pages may reference to the same content object. Please note that this mode may cause side effects like changing page content when other page is changed. |
-| [set_Background](./set_background/)(System::SharedPtr\<Color\>) | Sets the background color of the document. |
+| [set_Background](./set_background/)(const System::SharedPtr\<Color\>\&) | Sets the background color of the document. |
 | [set_CenterWindow](./set_centerwindow/)(bool) | Sets flag specifying whether position of the document's window will be centerd on the screen. |
-| [set_Collection](./set_collection/)(System::SharedPtr\<Aspose::Pdf::Collection\>) | Gets collection of document. |
+| [set_Collection](./set_collection/)(const System::SharedPtr\<Aspose::Pdf::Collection\>\&) | Gets collection of document. |
 | [set_Direction](./set_direction/)(Aspose::Pdf::Direction) | Sets reading order of text: L2R (left to right) or R2L (right to left). |
 | [set_DisableFontLicenseVerifications](./set_disablefontlicenseverifications/)(bool) | Many operations with font can't be executed if these operations are prohibited by license of this font. For example some font can't be embedded into PDF document if license rules disable embedding for this font. This flag is used to disable any license restrictions for all fonts in current PDF document. Be careful when using this flag. When it is set it means that person who sets this flag, takes all responsibility of possible license/law violations on himself. So He takes it on it's own risk. It's strongly recommended to use this flag only when you are fully confident that you are not breaking the copyright law. By default false. |
 | [set_DisplayDocTitle](./set_displaydoctitle/)(bool) | Sets flag specifying whether document's window title bar should display document title. |
@@ -199,19 +199,19 @@ class Document : public System::IDisposable,
 | [set_IsLinearized](./set_islinearized/)(bool) | Sets a value indicating whether document is linearized. |
 | [set_IsXrefGapsAllowed](./set_isxrefgapsallowed/)(bool) | Sets the is document pdfa compliant. |
 | [set_NonFullScreenPageMode](./set_nonfullscreenpagemode/)(Aspose::Pdf::PageMode) | Sets page mode, specifying how to display the document on exiting full-screen mode. |
-| [set_OpenAction](./set_openaction/)(System::SharedPtr\<Annotations::IAppointment\>) | Sets action performed at document opening. |
+| [set_OpenAction](./set_openaction/)(const System::SharedPtr\<Annotations::IAppointment\>\&) | Sets action performed at document opening. |
 | [set_OptimizeSize](./set_optimizesize/)(bool) | Sets optimization flag. When pages are added to document, equal resource streams in resultant file are merged into one PDF object if this flag set. This allows to decrease resultant file size but may cause slower execution and larger memory requirements. Default value: false. |
-| [set_PageInfo](./set_pageinfo/)(System::SharedPtr\<Aspose::Pdf::PageInfo\>) | Sets the page info.(for generator only, not filled in when reading document) |
+| [set_PageInfo](./set_pageinfo/)(const System::SharedPtr\<Aspose::Pdf::PageInfo\>\&) | Sets the page info.(for generator only, not filled in when reading document) |
 | [set_PageLayout](./set_pagelayout/)(Aspose::Pdf::PageLayout) | Sets page layout which shall be used when the document is opened. |
 | [set_PageMode](./set_pagemode/)(Aspose::Pdf::PageMode) | Sets page mode, specifying how document should be displayed when opened. |
 | [set_PickTrayByPdfSize](./set_picktraybypdfsize/)(bool) | Sets a flag specifying whether the PDF page size shall be used to select the input paper tray. |
 | [set_PrintScaling](./set_printscaling/)(Aspose::Pdf::PrintScaling) | Sets the page scaling option that shall be selected when a print dialog is displayed for this document. |
 | static [SetDefaultFileSizeLimitToMemoryLoading](./setdefaultfilesizelimittomemoryloading/)() | Sets the file size limit for loading an entire file into memory to default value equals 210 Mb. |
-| [SetTitle](./settitle/)(System::String) | Set Title for [Pdf](../)[Document](./). |
-| [SetXmpMetadata](./setxmpmetadata/)(System::SharedPtr\<System::IO::Stream\>) | Set XMP metadata of document. |
-| [Validate](./validate/)(System::String, Aspose::Pdf::PdfFormat) | Validate document into the specified file. |
-| [Validate](./validate/)(System::SharedPtr\<System::IO::Stream\>, Aspose::Pdf::PdfFormat) | Validate document into the specified file. |
-| [Validate](./validate/)(System::SharedPtr\<PdfFormatConversionOptions\>) | Validate document into the specified file. |
+| [SetTitle](./settitle/)(const System::String\&) | Set Title for [Pdf](../)[Document](./). |
+| [SetXmpMetadata](./setxmpmetadata/)(const System::SharedPtr\<System::IO::Stream\>\&) | Set XMP metadata of document. |
+| [Validate](./validate/)(const System::String\&, Aspose::Pdf::PdfFormat) | Validate document into the specified file. |
+| [Validate](./validate/)(const System::SharedPtr\<System::IO::Stream\>\&, Aspose::Pdf::PdfFormat) | Validate document into the specified file. |
+| [Validate](./validate/)(const System::SharedPtr\<PdfFormatConversionOptions\>\&) | Validate document into the specified file. |
 ## Fields
 
 | Field | Description |

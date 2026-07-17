@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/operatorcollection/accept/
 Accepts [IOperatorSelector](../../ioperatorselector/) visitor object to process operators.
 
 ```cpp
-void Aspose::Pdf::OperatorCollection::Accept(System::SharedPtr<IOperatorSelector> visitor)
+void Aspose::Pdf::OperatorCollection::Accept(const System::SharedPtr<IOperatorSelector> &visitor)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| visitor | System::SharedPtr\<IOperatorSelector\> | Visitor object |
+| visitor | const System::SharedPtr\<IOperatorSelector\>\& | Visitor object |
 
 ## See Also
 

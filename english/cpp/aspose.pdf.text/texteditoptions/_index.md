@@ -40,7 +40,7 @@ class TextEditOptions : public Aspose::Pdf::Text::TextOptions
 | [set_FontReplaceBehavior](./set_fontreplacebehavior/)(TextEditOptions::FontReplace) | Gets mode that defines behavior for fonts replacement scenarios. |
 | [set_LanguageTransformationBehavior](./set_languagetransformationbehavior/)(TextEditOptions::LanguageTransformation) | Gets mode that defines behavior for language transformation scenarios. |
 | [set_NoCharacterBehavior](./set_nocharacterbehavior/)(TextEditOptions::NoCharacterAction) | Sets mode that defines behavior in case fonts don't contain requested characters. |
-| [set_ReplacementFont](./set_replacementfont/)(System::SharedPtr\<Font\>) | Sets font used for replacing if user font does not contain required character. |
+| [set_ReplacementFont](./set_replacementfont/)(const System::SharedPtr\<Font\>\&) | Sets font used for replacing if user font does not contain required character. |
 | [set_ToAttemptGetUnderlineFromSource](./set_toattemptgetunderlinefromsource/)(bool) | Sets value that permits searching for text underlining on the page of source document. (Obsolete) Please use TextSearchOptions.SearchForTextRelatedGraphics instead this. |
 | [TextEditOptions](./texteditoptions/)(TextEditOptions::NoCharacterAction) | Initializes new instance of the [TextEditOptions](./) object for the specified no-character behavior mode. |
 | [TextEditOptions](./texteditoptions/)(TextEditOptions::FontReplace) | Initializes new instance of the [TextEditOptions](./) object for the specified font replacement behavior mode. |

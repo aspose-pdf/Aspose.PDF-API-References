@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison/outputtextstyle/set_equalstyle/
 Get and set a text style for non changed text.
 
 ```cpp
-void Aspose::Pdf::Comparison::OutputTextStyle::set_EqualStyle(System::SharedPtr<TextStyle> value)
+void Aspose::Pdf::Comparison::OutputTextStyle::set_EqualStyle(const System::SharedPtr<TextStyle> &value)
 ```
 
 ## See Also

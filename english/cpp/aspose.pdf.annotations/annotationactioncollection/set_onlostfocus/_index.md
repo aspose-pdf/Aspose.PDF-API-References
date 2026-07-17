@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotationactioncollection/set_onlostfocus/
 Sets an action to be performed when the annotation loses the input focus.
 
 ```cpp
-void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnLostFocus(System::SharedPtr<PdfAction> value)
+void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnLostFocus(const System::SharedPtr<PdfAction> &value)
 ```
 
 ## See Also

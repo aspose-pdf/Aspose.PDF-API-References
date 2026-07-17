@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/floatingbox/set_paragraphs/
 Sets a [Paragraphs](../../paragraphs/) collection that indicates all paragraphs in the cell.
 
 ```cpp
-void Aspose::Pdf::FloatingBox::set_Paragraphs(System::SharedPtr<Aspose::Pdf::Paragraphs> value)
+void Aspose::Pdf::FloatingBox::set_Paragraphs(const System::SharedPtr<Aspose::Pdf::Paragraphs> &value)
 ```
 
 ## See Also

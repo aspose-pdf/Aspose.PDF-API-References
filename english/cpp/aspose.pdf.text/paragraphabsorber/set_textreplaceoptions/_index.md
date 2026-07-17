@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/paragraphabsorber/set_textreplaceoptions/
 Sets the [TextReplaceOptions](../../textreplaceoptions/).
 
 ```cpp
-void Aspose::Pdf::Text::ParagraphAbsorber::set_TextReplaceOptions(System::SharedPtr<Aspose::Pdf::Text::TextReplaceOptions> value)
+void Aspose::Pdf::Text::ParagraphAbsorber::set_TextReplaceOptions(const System::SharedPtr<Aspose::Pdf::Text::TextReplaceOptions> &value)
 ```
 
 ## See Also

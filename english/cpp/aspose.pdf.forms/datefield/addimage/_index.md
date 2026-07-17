@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.forms/datefield/addimage/
 [Image](../../../aspose.pdf/image/) adding denied for this field.
 
 ```cpp
-void Aspose::Pdf::Forms::DateField::AddImage(System::SharedPtr<Image> image)
+void Aspose::Pdf::Forms::DateField::AddImage(const System::SharedPtr<Image> &image)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| image | System::SharedPtr\<Image\> | The image. |
+| image | const System::SharedPtr\<Image\>\& | The image. |
 
 ## See Also
 

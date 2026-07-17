@@ -23,7 +23,7 @@ class SubmitFormAction : public Aspose::Pdf::Annotations::PdfAction
 | [get_Flags](./get_flags/)() | Gets flagas of submit action. |
 | [get_Url](./get_url/)() | Destination URL. |
 | [set_Flags](./set_flags/)(int32_t) | Sets flagas of submit action. |
-| [set_Url](./set_url/)(System::SharedPtr\<FileSpecification\>) | Destination URL. |
+| [set_Url](./set_url/)(const System::SharedPtr\<FileSpecification\>\&) | Destination URL. |
 | [SubmitFormAction](./submitformaction/)() | Initializes [SubmitFormAction](./) object. |
 ## Fields
 

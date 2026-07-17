@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/documentactioncollection/set_beforeclosing/
 Sets action that will be performed before documetn closing.
 
 ```cpp
-void Aspose::Pdf::Annotations::DocumentActionCollection::set_BeforeClosing(System::SharedPtr<PdfAction> value)
+void Aspose::Pdf::Annotations::DocumentActionCollection::set_BeforeClosing(const System::SharedPtr<PdfAction> &value)
 ```
 
 ## See Also

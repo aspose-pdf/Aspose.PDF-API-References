@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/pdftoimageoptions/set_pagelist/
 Sets a list of pages for the process.
 
 ```cpp
-void Aspose::Pdf::LowCode::PdfToImageOptions::set_PageList(System::SharedPtr<System::Collections::Generic::List<int32_t>> value)
+void Aspose::Pdf::LowCode::PdfToImageOptions::set_PageList(const System::SharedPtr<System::Collections::Generic::List<int32_t>> &value)
 ```
 
 ## See Also

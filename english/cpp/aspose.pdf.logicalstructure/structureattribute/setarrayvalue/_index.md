@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.logicalstructure/structureattribute/setarrayvalue/
 Sets Value Name Array.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::StructureAttribute::SetArrayValue(System::ArrayPtr<System::SharedPtr<AttributeName>> array)
+void Aspose::Pdf::LogicalStructure::StructureAttribute::SetArrayValue(const System::ArrayPtr<System::SharedPtr<AttributeName>> &array)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| array | System::ArrayPtr\<System::SharedPtr\<AttributeName\>\> | Array of allowable Value Names. |
+| array | const System::ArrayPtr\<System::SharedPtr\<AttributeName\>\>\& | Array of allowable Value Names. |
 
 ## See Also
 

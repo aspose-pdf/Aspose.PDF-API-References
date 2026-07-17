@@ -1,36 +1,43 @@
 ---
 title: StampType
+linktitle: StampType
 second_title: Aspose.PDF for Java API Reference
 description: Describes stamp types.
 type: docs
-weight: 71
+weight: 720
 url: /java/com.aspose.pdf.facades/stamptype/
 ---
 **Inheritance:**
-java.lang.Object, java.lang.Enum
+java.lang.Object, java.lang.Enum < StampType > com.aspose.pdf.facades.StampType, java.lang.Enum < StampType >, com.aspose.pdf.facades.StampType
+
+**All Implemented Interfaces:**
+Serializable, Comparable < StampType >
+
 ```
-public enum StampType extends Enum<StampType>
+public enum StampType extends Enum < StampType >
 ```
 
 Describes stamp types.
+
 ## Fields
 
 | Field | Description |
 | --- | --- |
 | [Form](#Form) | Stamp if Form. |
 | [Image](#Image) | Stamp is image. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [values()](#values--) |  |
-| [valueOf(String name)](#valueOf-java.lang.String-) |  |
-| [getValue()](#getValue--) |  |
+| [getValue](#getValue--) |  |
+| [valueOf](#valueOf-java.lang.String-) | Returns the enum constant of this type with the specified name. |
+| [values](#values--) | Returns an array containing the constants of this enum type, in the order they are declared. |
+
 ### Form {#Form}
 ```
 public static final StampType Form
 ```
-
 
 Stamp if Form.
 
@@ -39,41 +46,24 @@ Stamp if Form.
 public static final StampType Image
 ```
 
-
 Stamp is image.
 
-### values() {#values--}
-```
-public static StampType[] values()
-```
-
-
-
-
-**Returns:**
-com.aspose.pdf.facades.StampType[]
-### valueOf(String name) {#valueOf-java.lang.String-}
-```
-public static StampType valueOf(String name)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | java.lang.String |  |
-
-**Returns:**
-[StampType](../../com.aspose.pdf.facades/stamptype)
-### getValue() {#getValue--}
+### getValue {#getValue--}
 ```
 public int getValue()
 ```
 
 
 
+### valueOf {#valueOf-java.lang.String-}
+Returns the enum constant of this type with the specified name.
+
+### values {#values--}
+```
+public static StampType [] values()
+```
+
+Returns an array containing the constants of this enum type, in the order they are declared.
 
 **Returns:**
-int
+an array containing the constants of this enum type, in the order they are declared

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structureelement/set_actualtext/
 Sets the actual text for structure element.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::StructureElement::set_ActualText(System::String value)
+void Aspose::Pdf::LogicalStructure::StructureElement::set_ActualText(const System::String &value)
 ```
 
 ## Remarks

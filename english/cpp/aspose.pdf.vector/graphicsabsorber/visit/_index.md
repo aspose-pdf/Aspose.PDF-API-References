@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.vector/graphicsabsorber/visit/
 Performs search on the specified page.
 
 ```cpp
-void Aspose::Pdf::Vector::GraphicsAbsorber::Visit(System::SharedPtr<Page> page)
+void Aspose::Pdf::Vector::GraphicsAbsorber::Visit(const System::SharedPtr<Page> &page)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Page\> | PDF document page object. |
+| page | const System::SharedPtr\<Page\>\& | PDF document page object. |
 
 ## See Also
 

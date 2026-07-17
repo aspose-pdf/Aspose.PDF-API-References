@@ -21,19 +21,19 @@ void Aspose::Pdf::EmbeddedFileCollection::Delete()
 * Class [EmbeddedFileCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## EmbeddedFileCollection::Delete(System::String) method
+## EmbeddedFileCollection::Delete(const System::String\&) method
 
 
 Delete embedded file by name.
 
 ```cpp
-void Aspose::Pdf::EmbeddedFileCollection::Delete(System::String name)
+void Aspose::Pdf::EmbeddedFileCollection::Delete(const System::String &name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | Name of the embedded file which should be deleted. |
+| name | const System::String\& | Name of the embedded file which should be deleted. |
 
 ## See Also
 

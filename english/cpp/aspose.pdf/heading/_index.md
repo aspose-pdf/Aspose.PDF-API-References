@@ -32,15 +32,15 @@ class Heading : public Aspose::Pdf::Text::TextFragment
 | [get_Top](./get_top/)() const | Gets the top Y of this headings. |
 | [get_UserLabel](./get_userlabel/)() const | Gets user label. |
 | [Heading](./heading/)(int32_t) | Initializes a new instance of the [Cell](../cell/) class. |
-| [set_DestinationPage](./set_destinationpage/)(System::SharedPtr\<Aspose::Pdf::Page\>) | Gets the destination page. |
+| [set_DestinationPage](./set_destinationpage/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&) | Gets the destination page. |
 | [set_IsAutoSequence](./set_isautosequence/)(bool) | Gets the heading should be numered automatically. |
 | [set_IsInList](./set_isinlist/)(bool) | Gets the heading should be in toc list. |
 | [set_Level](./set_level/)(int32_t) | Gets the level. |
 | [set_StartNumber](./set_startnumber/)(int32_t) | Gets the heading start number. |
 | [set_Style](./set_style/)(NumberingStyle) | Sets style. |
-| [set_TocPage](./set_tocpage/)(System::SharedPtr\<Aspose::Pdf::Page\>) | Gets the page that contains this heading. |
+| [set_TocPage](./set_tocpage/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&) | Gets the page that contains this heading. |
 | [set_Top](./set_top/)(double) | Gets the top Y of this headings. |
-| [set_UserLabel](./set_userlabel/)(System::SharedPtr\<Text::TextSegment\>) | Sets user label. |
+| [set_UserLabel](./set_userlabel/)(const System::SharedPtr\<Text::TextSegment\>\&) | Sets user label. |
 ## See Also
 
 * Class [TextFragment](../../aspose.pdf.text/textfragment/)

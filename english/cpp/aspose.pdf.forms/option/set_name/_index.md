@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/option/set_name/
 Sets name of option.
 
 ```cpp
-void Aspose::Pdf::Forms::Option::set_Name(System::String value)
+void Aspose::Pdf::Forms::Option::set_Name(const System::String &value)
 ```
 
 ## See Also

@@ -1,83 +1,65 @@
 ---
 title: ClosePathEOFillStroke
+linktitle: ClosePathEOFillStroke
 second_title: Aspose.PDF for Java API Reference
-description: Class representing b operator close fill and stroke path using even-odd rule.
+description: Class representing b* operator (close, fill and stroke path using even-odd rule).
 type: docs
-weight: 20
+weight: 110
 url: /java/com.aspose.pdf.operators/closepatheofillstroke/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.Operator](../../com.aspose.pdf/operator)
+java.lang.Object, com.aspose.pdf.Operator com.aspose.pdf.operators.ClosePathEOFillStroke, com.aspose.pdf.Operator, com.aspose.pdf.operators.ClosePathEOFillStroke
+
 ```
 public class ClosePathEOFillStroke extends Operator
 ```
 
-Class representing b\* operator (close, fill and stroke path using even-odd rule).
+Class representing b* operator (close, fill and stroke path using even-odd rule).
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [ClosePathEOFillStroke()](#ClosePathEOFillStroke--) | Initializes operator. |
-| [ClosePathEOFillStroke(int index, ICommand command)](#ClosePathEOFillStroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
+| [ClosePathEOFillStroke](#ClosePathEOFillStroke--) | Initializes operator. |
+| [ClosePathEOFillStroke](#ClosePathEOFillStroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Initializes operator. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
-| [toString()](#toString--) | Returns text representation of operator. |
-| [getCommandName()](#getCommandName--) | Returns text representation of operator. |
-### ClosePathEOFillStroke() {#ClosePathEOFillStroke--}
+| [accept](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
+| [getCommandName](#getCommandName--) | Returns text representation of operator. |
+| [toString](#toString--) | Returns text representation of operator. |
+
+### ClosePathEOFillStroke {#ClosePathEOFillStroke--}
 ```
 public ClosePathEOFillStroke()
 ```
 
-
 Initializes operator.
 
-### ClosePathEOFillStroke(int index, ICommand command) {#ClosePathEOFillStroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public ClosePathEOFillStroke(int index, ICommand command)
-```
+### ClosePathEOFillStroke {#ClosePathEOFillStroke-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+Initializes operator.
 
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
-### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
-```
-public void accept(IOperatorSelector visitor)
-```
-
-
+### accept {#accept-com.aspose.pdf.IOperatorSelector-}
 Accepts visitor object to process operator.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| visitor | [IOperatorSelector](../../com.aspose.pdf/ioperatorselector) | Visitor object. |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-Returns text representation of operator.
-
-**Returns:**
-java.lang.String - Text representation of operator.
-### getCommandName() {#getCommandName--}
+### getCommandName {#getCommandName--}
 ```
 public String getCommandName()
 ```
 
+Returns text representation of operator.
+
+**Returns:**
+Text representation of operator.
+
+### toString {#toString--}
+```
+public String toString()
+```
 
 Returns text representation of operator.
 
 **Returns:**
-java.lang.String - Text representation of operator.
+Text representation of operator.

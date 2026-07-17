@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/pdffilestamp/addstamp/
 Adds stamp to the file.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileStamp::AddStamp(System::SharedPtr<Stamp> stamp)
+void Aspose::Pdf::Facades::PdfFileStamp::AddStamp(const System::SharedPtr<Stamp> &stamp)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stamp | System::SharedPtr\<Stamp\> | [Stamp](../../stamp/) object which. |
+| stamp | const System::SharedPtr\<Stamp\>\& | [Stamp](../../stamp/) object which. |
 
 ## See Also
 

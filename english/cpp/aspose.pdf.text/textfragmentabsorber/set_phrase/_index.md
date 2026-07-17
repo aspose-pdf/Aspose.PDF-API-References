@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentabsorber/set_phrase/
 Sets phrase that the [TextFragmentAbsorber](../) searches on the PDF document or page.
 
 ```cpp
-void Aspose::Pdf::Text::TextFragmentAbsorber::set_Phrase(System::String value)
+void Aspose::Pdf::Text::TextFragmentAbsorber::set_Phrase(const System::String &value)
 ```
 
 ## See Also

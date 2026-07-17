@@ -1,109 +1,101 @@
 ---
 title: TextProperties
+linktitle: TextProperties
 second_title: Aspose.PDF for Java API Reference
-description: Represents text properties such as text size color style etc.
+description: 'Represents text properties such as: text size, color, style etc.'
 type: docs
-weight: 56
+weight: 740
 url: /java/com.aspose.pdf.facades/textproperties/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.facades.TextProperties
+
 ```
-public final class TextProperties
+public final class TextProperties extends Object
 ```
 
 Represents text properties such as: text size, color, style etc.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [TextProperties(double textSize)](#TextProperties-double-) | Creates  TextProperties  object for the specified text size |
+| [TextProperties](#TextProperties-double-) | Creates {@code TextProperties} object for the specified text size |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getColor()](#getColor--) | Gets text color. |
-| [setColor(Color value)](#setColor-java.awt.Color-) | Sets text color. |
-| [isColorSpecified()](#isColorSpecified--) | Gets a value that indicates whether the  Color  property is specified. |
-| [getTextSize()](#getTextSize--) | Gets text size. |
-| [setTextSize(double value)](#setTextSize-double-) | Sets text size. |
-| [isTextSizeSpecified()](#isTextSizeSpecified--) | Gets a value that indicates whether the  TextSize  property is specified. |
-### TextProperties(double textSize) {#TextProperties-double-}
+| [getColor](#getColor--) | Gets text color. |
+| [getTextSize](#getTextSize--) | Gets text size. |
+| [isColorSpecified](#isColorSpecified--) | Gets a value that indicates whether the {@code Color} property is specified. |
+| [isTextSizeSpecified](#isTextSizeSpecified--) | Gets a value that indicates whether the {@code TextSize} property is specified. |
+| [setColor](#setColor-java.awt.Color-) | Sets text color. |
+| [setTextSize](#setTextSize-double-) | Sets text size. |
+
+### TextProperties {#TextProperties-double-}
 ```
 public TextProperties(double textSize)
 ```
 
-
-Creates  TextProperties  object for the specified text size
+Creates {@code TextProperties} object for the specified text size
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| textSize | double | Text size value. |
+| textSize |  | Text size value. |
 
-### getColor() {#getColor--}
+### getColor {#getColor--}
 ```
 public Color getColor()
 ```
 
-
 Gets text color.
 
 **Returns:**
-[Color](../../java.awt/color) - Color object
-### setColor(Color value) {#setColor-java.awt.Color-}
-```
-public void setColor(Color value)
-```
+Color object
 
-
-Sets text color.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.awt.Color | Color object |
-
-### isColorSpecified() {#isColorSpecified--}
-```
-public boolean isColorSpecified()
-```
-
-
-Gets a value that indicates whether the  Color  property is specified.
-
-**Returns:**
-boolean - boolean value
-### getTextSize() {#getTextSize--}
+### getTextSize {#getTextSize--}
 ```
 public double getTextSize()
 ```
 
-
 Gets text size.
 
 **Returns:**
-double - double value
-### setTextSize(double value) {#setTextSize-double-}
+double value
+
+### isColorSpecified {#isColorSpecified--}
+```
+public boolean isColorSpecified()
+```
+
+Gets a value that indicates whether the {@code Color} property is specified.
+
+**Returns:**
+boolean value
+
+### isTextSizeSpecified {#isTextSizeSpecified--}
+```
+public boolean isTextSizeSpecified()
+```
+
+Gets a value that indicates whether the {@code TextSize} property is specified.
+
+**Returns:**
+boolean value
+
+### setColor {#setColor-java.awt.Color-}
+Sets text color.
+
+### setTextSize {#setTextSize-double-}
 ```
 public void setTextSize(double value)
 ```
-
 
 Sets text size.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | double | double value |
-
-### isTextSizeSpecified() {#isTextSizeSpecified--}
-```
-public boolean isTextSizeSpecified()
-```
-
-
-Gets a value that indicates whether the  TextSize  property is specified.
-
-**Returns:**
-boolean - boolean value
+| value |  | double value |

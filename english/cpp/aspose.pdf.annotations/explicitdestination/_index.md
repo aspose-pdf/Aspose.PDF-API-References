@@ -20,8 +20,8 @@ class ExplicitDestination : public Aspose::Pdf::Annotations::IAppointment
 
 | Method | Description |
 | --- | --- |
-| static [CreateDestination](./createdestination/)(System::SharedPtr\<Aspose::Pdf::Page\>, ExplicitDestinationType, const System::ArrayPtr\<double\>\&) | Creates instances of [ExplicitDestination](./) descendant classes. |
-| static [CreateDestination](./createdestination/)(System::SharedPtr\<Document\>, int32_t, ExplicitDestinationType, const System::ArrayPtr\<double\>\&) | Creates instances of [ExplicitDestination](./) descendant classes. |
+| static [CreateDestination](./createdestination/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, ExplicitDestinationType, const System::ArrayPtr\<double\>\&) | Creates instances of [ExplicitDestination](./) descendant classes. |
+| static [CreateDestination](./createdestination/)(const System::SharedPtr\<Document\>\&, int32_t, ExplicitDestinationType, const System::ArrayPtr\<double\>\&) | Creates instances of [ExplicitDestination](./) descendant classes. |
 | static [CreateDestination](./createdestination/)(int32_t, ExplicitDestinationType, const System::ArrayPtr\<double\>\&) | Creates instances of [ExplicitDestination](./) descendant classes. |
 | [get_Page](./get_page/)() const | Gets the destination page object. |
 | [get_PageNumber](./get_pagenumber/)() const | Gets the destination page number. |

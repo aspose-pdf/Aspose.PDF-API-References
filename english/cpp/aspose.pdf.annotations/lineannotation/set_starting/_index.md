@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/lineannotation/set_starting/
 Sets starting point of line.
 
 ```cpp
-void Aspose::Pdf::Annotations::LineAnnotation::set_Starting(System::SharedPtr<Point> value)
+void Aspose::Pdf::Annotations::LineAnnotation::set_Starting(const System::SharedPtr<Point> &value)
 ```
 
 ## See Also

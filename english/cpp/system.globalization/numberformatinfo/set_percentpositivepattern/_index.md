@@ -19,7 +19,7 @@ void System::Globalization::NumberFormatInfo::set_PercentPositivePattern(int val
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | Index of the pattern in array {"n %", "n%", "%n", "% n"}, where "n" is number and "%" is percent sign. |
+| value | int | [Index](../../../system/index/) of the pattern in array {"n %", "n%", "%n", "% n"}, where "n" is number and "%" is percent sign. |
 
 ## See Also
 

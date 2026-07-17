@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/backgroundartifact/set_backgroundcolor/
 Sets bacground color of background artifact.
 
 ```cpp
-void Aspose::Pdf::BackgroundArtifact::set_BackgroundColor(System::SharedPtr<Color> value)
+void Aspose::Pdf::BackgroundArtifact::set_BackgroundColor(const System::SharedPtr<Color> &value)
 ```
 
 ## See Also

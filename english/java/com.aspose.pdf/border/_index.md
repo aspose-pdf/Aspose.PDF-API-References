@@ -1,208 +1,159 @@
 ---
 title: Border
+linktitle: Border
 second_title: Aspose.PDF for Java API Reference
 description: Class representing characteristics of annotation border.
 type: docs
-weight: 33
+weight: 340
 url: /java/com.aspose.pdf/border/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.Border
+
 ```
-public final class Border
+public final class Border extends Object
 ```
 
 Class representing characteristics of annotation border.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [Border(Annotation parent)](#Border-com.aspose.pdf.Annotation-) | Constructor for border object. |
+| [Border](#Border-com.aspose.pdf.Annotation-) | Constructor for border object. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getHCornerRadius()](#getHCornerRadius--) | Not supported yet. |
-| [setHCornerRadius(double value)](#setHCornerRadius-double-) | Sets horizontal corner radius. |
-| [getVCornerRadius()](#getVCornerRadius--) | Gets vertical corner radius. |
-| [getWidth()](#getWidth--) | Gets border width. |
-| [setWidth(int value)](#setWidth-int-) | Sets border width. |
-| [getEffectIntensity()](#getEffectIntensity--) | Gets effect intencity. |
-| [setEffectIntensity(int value)](#setEffectIntensity-int-) | Sets effect intencity. |
-| [getStyle()](#getStyle--) | Gets border style. |
-| [setStyle(int value)](#setStyle-int-) | Sets border style. |
-| [getEffect()](#getEffect--) | Gets border effect. |
-| [setEffect(int value)](#setEffect-int-) | Sets border effect. |
-| [getDash()](#getDash--) | Gets dash pattern. |
-| [setDash(Dash value)](#setDash-com.aspose.pdf.Dash-) | Sets dash pattern. |
-### Border(Annotation parent) {#Border-com.aspose.pdf.Annotation-}
-```
-public Border(Annotation parent)
-```
+| [getDash](#getDash--) | Gets dash pattern. |
+| [getEffect](#getEffect--) | Gets border effect. {@code BorderEffect} |
+| [getEffectIntensity](#getEffectIntensity--) | Gets effect intencity. Valid range of value is [0..2]. |
+| [getHCornerRadius](#getHCornerRadius--) | Not supported yet. Gets horizontal corner radius. |
+| [getStyle](#getStyle--) | Gets border style. {@code BorderStyle} |
+| [getVCornerRadius](#getVCornerRadius--) | Gets vertical corner radius. |
+| [getWidth](#getWidth--) | Gets border width. |
+| [setDash](#setDash-com.aspose.pdf.Dash-) | Sets dash pattern. |
+| [setEffect](#setEffect-com.aspose.pdf.BorderEffect-) | Sets border effect. {@code BorderEffect} |
+| [setEffectIntensity](#setEffectIntensity-int-) | Sets effect intencity. Valid range of value is [0..2]. |
+| [setHCornerRadius](#setHCornerRadius-double-) | Sets horizontal corner radius. |
+| [setStyle](#setStyle-com.aspose.pdf.BorderStyle-) | Sets border style. {@code BorderStyle} |
+| [setWidth](#setWidth-int-) | Sets border width. |
 
-
+### Border {#Border-com.aspose.pdf.Annotation-}
 Constructor for border object.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| parent | [Annotation](../../com.aspose.pdf/annotation) | Parent annotation. |
-
-### getHCornerRadius() {#getHCornerRadius--}
+### getDash {#getDash--}
 ```
-public final double getHCornerRadius()
+public Dash getDash()
 ```
 
-
-Not supported yet.
-
-Gets horizontal corner radius.
+Gets dash pattern.
 
 **Returns:**
-double - double value
-### setHCornerRadius(double value) {#setHCornerRadius-double-}
+Dash object
+
+### getEffect {#getEffect--}
 ```
-public final void setHCornerRadius(double value)
-```
-
-
-Sets horizontal corner radius.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | double | double value |
-
-### getVCornerRadius() {#getVCornerRadius--}
-```
-public final double getVCornerRadius()
+public BorderEffect getEffect()
 ```
 
-
-Gets vertical corner radius.
+Gets border effect. {@code BorderEffect}
 
 **Returns:**
-double - vertical corner radius.
-### getWidth() {#getWidth--}
-```
-public int getWidth()
-```
+BorderEffect element
 
-
-Gets border width.
-
-**Returns:**
-int - int value
-### setWidth(int value) {#setWidth-int-}
-```
-public void setWidth(int value)
-```
-
-
-Sets border width.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | int value |
-
-### getEffectIntensity() {#getEffectIntensity--}
+### getEffectIntensity {#getEffectIntensity--}
 ```
 public int getEffectIntensity()
 ```
 
-
 Gets effect intencity. Valid range of value is [0..2].
 
 **Returns:**
-int - int value
-### setEffectIntensity(int value) {#setEffectIntensity-int-}
+int value
+
+### getHCornerRadius {#getHCornerRadius--}
+```
+public final double getHCornerRadius()
+```
+
+Not supported yet. Gets horizontal corner radius.
+
+**Returns:**
+double value
+
+### getStyle {#getStyle--}
+```
+public BorderStyle getStyle()
+```
+
+Gets border style. {@code BorderStyle}
+
+**Returns:**
+BorderStyle element @see BorderStyle
+
+### getVCornerRadius {#getVCornerRadius--}
+```
+public final double getVCornerRadius()
+```
+
+Gets vertical corner radius.
+
+**Returns:**
+vertical corner radius.
+
+### getWidth {#getWidth--}
+```
+public int getWidth()
+```
+
+Gets border width.
+
+**Returns:**
+int value
+
+### setDash {#setDash-com.aspose.pdf.Dash-}
+Sets dash pattern.
+
+### setEffect {#setEffect-com.aspose.pdf.BorderEffect-}
+Sets border effect. {@code BorderEffect}
+
+### setEffectIntensity {#setEffectIntensity-int-}
 ```
 public void setEffectIntensity(int value)
 ```
-
 
 Sets effect intencity. Valid range of value is [0..2].
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | int value |
+| value |  | int value |
 
-### getStyle() {#getStyle--}
+### setHCornerRadius {#setHCornerRadius-double-}
 ```
-public int getStyle()
-```
-
-
-Gets border style.
-
- BorderStyle 
-
-**Returns:**
-int - BorderStyle element
-### setStyle(int value) {#setStyle-int-}
-```
-public void setStyle(int value)
+public final void setHCornerRadius(double value)
 ```
 
-
-Sets border style.
-
- BorderStyle 
+Sets horizontal corner radius.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | BorderStyle element |
+| value |  | double value |
 
-### getEffect() {#getEffect--}
+### setStyle {#setStyle-com.aspose.pdf.BorderStyle-}
+Sets border style. {@code BorderStyle}
+
+### setWidth {#setWidth-int-}
 ```
-public int getEffect()
-```
-
-
-Gets border effect.
-
- BorderEffect 
-
-**Returns:**
-int - BorderEffect element
-### setEffect(int value) {#setEffect-int-}
-```
-public void setEffect(int value)
+public void setWidth(int value)
 ```
 
-
-Sets border effect.
-
- BorderEffect 
+Sets border width.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | BorderEffect element |
-
-### getDash() {#getDash--}
-```
-public Dash getDash()
-```
-
-
-Gets dash pattern.
-
-**Returns:**
-[Dash](../../com.aspose.pdf/dash) - Dash object
-### setDash(Dash value) {#setDash-com.aspose.pdf.Dash-}
-```
-public void setDash(Dash value)
-```
-
-
-Sets dash pattern.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [Dash](../../com.aspose.pdf/dash) | Dash object |
-
+| value |  | int value |

@@ -20,15 +20,15 @@ class XYZExplicitDestination : public Aspose::Pdf::Annotations::ExplicitDestinat
 
 | Method | Description |
 | --- | --- |
-| static [CreateDestination](./createdestination/)(System::SharedPtr\<Aspose::Pdf::Page\>, double, double, double, bool) | Create destintion to specified location of the page considering page rotation if required. |
-| static [CreateDestinationToUpperLeftCorner](./createdestinationtoupperleftcorner/)(System::SharedPtr\<Aspose::Pdf::Page\>, double) | Create destionation to upper left corner of the specifed page. |
-| static [CreateDestinationToUpperLeftCorner](./createdestinationtoupperleftcorner/)(System::SharedPtr\<Aspose::Pdf::Page\>) | Create destination to specified page. |
+| static [CreateDestination](./createdestination/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, double, double, double, bool) | Create destintion to specified location of the page considering page rotation if required. |
+| static [CreateDestinationToUpperLeftCorner](./createdestinationtoupperleftcorner/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, double) | Create destionation to upper left corner of the specifed page. |
+| static [CreateDestinationToUpperLeftCorner](./createdestinationtoupperleftcorner/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&) | Create destination to specified page. |
 | [get_Left](./get_left/)() | Gets left horizontal coordinate of the upper-left corner of the window. |
 | [get_Top](./get_top/)() | Gets top vertical coordinate of the upper-left corner of the window. |
 | [get_Zoom](./get_zoom/)() | Gets zoom factor. |
 | [ToString](./tostring/)() const override | Converts the object state into string value. Example: "1 XYZ 100 200 3". |
-| [XYZExplicitDestination](./xyzexplicitdestination/)(System::SharedPtr\<Aspose::Pdf::Page\>, double, double, double) | Creates local explicit destination. |
-| [XYZExplicitDestination](./xyzexplicitdestination/)(System::SharedPtr\<Document\>, int32_t, double, double, double) | Creates remote explicit destination. |
+| [XYZExplicitDestination](./xyzexplicitdestination/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, double, double, double) | Creates local explicit destination. |
+| [XYZExplicitDestination](./xyzexplicitdestination/)(const System::SharedPtr\<Document\>\&, int32_t, double, double, double) | Creates remote explicit destination. |
 | [XYZExplicitDestination](./xyzexplicitdestination/)(int32_t, double, double, double) | Creates remote explicit destination. |
 ## See Also
 

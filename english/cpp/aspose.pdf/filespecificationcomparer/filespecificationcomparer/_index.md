@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/filespecificationcomparer/filespecificationcomparer/
 Creates a file specification comparer.
 
 ```cpp
-Aspose::Pdf::FileSpecificationComparer::FileSpecificationComparer(System::SharedPtr<CollectionSort> sort)
+Aspose::Pdf::FileSpecificationComparer::FileSpecificationComparer(const System::SharedPtr<CollectionSort> &sort)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| sort | System::SharedPtr\<CollectionSort\> | The collection sort definition. |
+| sort | const System::SharedPtr\<CollectionSort\>\& | The collection sort definition. |
 
 ## See Also
 

@@ -21,19 +21,19 @@ void Aspose::Pdf::OutlineCollection::Delete()
 * Class [OutlineCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## OutlineCollection::Delete(System::String) method
+## OutlineCollection::Delete(const System::String\&) method
 
 
 Deletes the outline item with specified title from the document outline.
 
 ```cpp
-void Aspose::Pdf::OutlineCollection::Delete(System::String name)
+void Aspose::Pdf::OutlineCollection::Delete(const System::String &name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | The title of outline item to be deleted |
+| name | const System::String\& | The title of outline item to be deleted |
 
 ## See Also
 

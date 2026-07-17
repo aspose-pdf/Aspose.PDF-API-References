@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/texsaveoptions/set_outdirectorypath/
 Property for [_outDirectoryPath](../) parameter.
 
 ```cpp
-void Aspose::Pdf::TeXSaveOptions::set_OutDirectoryPath(System::String value)
+void Aspose::Pdf::TeXSaveOptions::set_OutDirectoryPath(const System::String &value)
 ```
 
 ## See Also

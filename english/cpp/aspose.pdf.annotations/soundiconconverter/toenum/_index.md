@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/soundiconconverter/toenum/
 
 
 ```cpp
-static SoundIcon Aspose::Pdf::Annotations::SoundIconConverter::ToEnum(System::String value)
+static SoundIcon Aspose::Pdf::Annotations::SoundIconConverter::ToEnum(const System::String &value)
 ```
 
 ## See Also

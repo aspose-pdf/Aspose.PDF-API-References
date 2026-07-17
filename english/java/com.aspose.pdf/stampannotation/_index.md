@@ -1,158 +1,95 @@
 ---
 title: StampAnnotation
+linktitle: StampAnnotation
 second_title: Aspose.PDF for Java API Reference
-description: Represents rubber stamp annotation.
+description: <p> Represents rubber stamp annotation. This type of annotation displays text or graphics intended to look as if they were stamped on the page with a rubber stamp. </p> <hr>.
 type: docs
-weight: 340
+weight: 4630
 url: /java/com.aspose.pdf/stampannotation/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.BaseParagraph](../../com.aspose.pdf/baseparagraph), [com.aspose.pdf.Annotation](../../com.aspose.pdf/annotation), [com.aspose.pdf.MarkupAnnotation](../../com.aspose.pdf/markupannotation)
+java.lang.Object, com.aspose.pdf.BaseParagraph com.aspose.pdf.Annotation com.aspose.pdf.MarkupAnnotation com.aspose.pdf.StampAnnotation, com.aspose.pdf.BaseParagraph, com.aspose.pdf.Annotation com.aspose.pdf.MarkupAnnotation com.aspose.pdf.StampAnnotation, com.aspose.pdf.Annotation, com.aspose.pdf.MarkupAnnotation com.aspose.pdf.StampAnnotation, com.aspose.pdf.MarkupAnnotation, com.aspose.pdf.StampAnnotation
+
+**All Implemented Interfaces:**
+com.aspose.ms.System.ICloneable, com.aspose.pdf.engine.ITitledAnnotation
+
 ```
 public final class StampAnnotation extends MarkupAnnotation
 ```
 
-Represents rubber stamp annotation. This type of annotation displays text or graphics intended to look as if they were stamped on the page with a rubber stamp.
+<p> Represents rubber stamp annotation. This type of annotation displays text or graphics intended to look as if they were stamped on the page with a rubber stamp. </p> <hr> <pre> Next code snippet demonstrates how to add 2 stamps into the first pdf document page. Input document comes from inFile and changes are saved into the outFile. The first stamp has icon NotForPublicRelease and the second comes with image from rubber.jpg. Document document = new Document(inFile); StampAnnotation stamp1 = new StampAnnotation(StampIcon.NotForPublicRelease); stamp1.setRect ( new Rectangle(100, 100, 120, 120)) document.getPages().get(1).getAnnotations().add(stamp1); StampAnnotation stamp2 = new StampAnnotation(new FileStream("rubber.jpg", FileMode.Open)); stamp2.setRect ( new Rectangle(200, 200, 220, 220)) document.getPages().get(1).getAnnotations().add(stamp2); document.save(outFile); </pre>
 
---------------------
-
-```
-Next code snippet demonstrates how to add 2 stamps into the first pdf document page.
-  Input document comes from inFile and changes are saved into the outFile.
-  The first stamp has icon NotForPublicRelease and the second comes with image from rubber.jpg.
-
-  Document document = new Document(inFile);
-  StampAnnotation stamp1 = new StampAnnotation(StampIcon.NotForPublicRelease);
- 	stamp1.setRect ( new Rectangle(100, 100, 120, 120))
- 	document.getPages().get(1).getAnnotations().add(stamp1);
-  StampAnnotation stamp2 = new StampAnnotation(new FileStream("rubber.jpg", FileMode.Open));
- 	stamp2.setRect ( new Rectangle(200, 200, 220, 220))
- 	document.getPages().get(1).getAnnotations().add(stamp2);
-  document.save(outFile);
-```
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [StampAnnotation(IDocument document)](#StampAnnotation-com.aspose.pdf.IDocument-) | Constructor |
-| [StampAnnotation(Page page, Rectangle rect)](#StampAnnotation-com.aspose.pdf.Page-com.aspose.pdf.Rectangle-) | Creates new Stamp annotation on the specified page. |
+| [StampAnnotation](#StampAnnotation-com.aspose.pdf.IDocument-) | Constructor |
+| [StampAnnotation](#StampAnnotation-com.aspose.pdf.Page-com.aspose.pdf.Rectangle-) | Creates new Stamp annotation on the specified page. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getIcon()](#getIcon--) | Gets icon for rubber stamp. |
-| [setIcon(int value)](#setIcon-int-) | Sets icon for rubber stamp. |
-| [getAnnotationType()](#getAnnotationType--) | Gets type of annotation. |
-| [accept(AnnotationSelector visitor)](#accept-com.aspose.pdf.AnnotationSelector-) | Acepts  AnnotationSelector  visitor when browsing annotation collection. |
-| [getImage()](#getImage--) | Gets image of the annotation. |
-| [setImage(InputStream value)](#setImage-java.io.InputStream-) | Sets image of the annotation. |
-| [setBase64SVGImage(String base64Svg)](#setBase64SVGImage-java.lang.String-) | Sets SVG image of the annotation in Base64 string. |
-### StampAnnotation(IDocument document) {#StampAnnotation-com.aspose.pdf.IDocument-}
-```
-public StampAnnotation(IDocument document)
-```
+| [accept](#accept-com.aspose.pdf.AnnotationSelector-) | Acepts {@code AnnotationSelector} visitor when browsing annotation collection. |
+| [clear](#clear--) | Clear static instances |
+| [getAnnotationType](#getAnnotationType--) | Gets type of annotation. |
+| [getIcon](#getIcon--) | Gets icon for rubber stamp. |
+| [getImage](#getImage--) | Gets image of the annotation. |
+| [setBase64SVGImage](#setBase64SVGImage-java.lang.String-) | Sets SVG image of the annotation in Base64 string. |
+| [setIcon](#setIcon-com.aspose.pdf.StampIcon-) | Sets icon for rubber stamp. |
+| [setImage](#setImage-java.io.InputStream-) | Sets image of the annotation. |
 
-
+### StampAnnotation {#StampAnnotation-com.aspose.pdf.IDocument-}
 Constructor
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| document | [IDocument](../../com.aspose.pdf/idocument) | Document where annotation will be created. |
-
-### StampAnnotation(Page page, Rectangle rect) {#StampAnnotation-com.aspose.pdf.Page-com.aspose.pdf.Rectangle-}
-```
-public StampAnnotation(Page page, Rectangle rect)
-```
-
-
+### StampAnnotation {#StampAnnotation-com.aspose.pdf.Page-com.aspose.pdf.Rectangle-}
 Creates new Stamp annotation on the specified page.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | [Page](../../com.aspose.pdf/page) | The document's page where annotation should be created. |
-| rect | [Rectangle](../../com.aspose.pdf/rectangle) | The annotation rectangle, defining the location of the annotation on the page. |
+### accept {#accept-com.aspose.pdf.AnnotationSelector-}
+Acepts {@code AnnotationSelector} visitor when browsing annotation collection.
 
-### getIcon() {#getIcon--}
+### clear {#clear--}
 ```
-public int getIcon()
+public static void clear()
 ```
 
+Clear static instances
 
-Gets icon for rubber stamp.
-
-**Returns:**
-int - StampIcon value
-### setIcon(int value) {#setIcon-int-}
-```
-public void setIcon(int value)
-```
-
-
-Sets icon for rubber stamp.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | StampIcon value |
-
-### getAnnotationType() {#getAnnotationType--}
+### getAnnotationType {#getAnnotationType--}
 ```
 public AnnotationType getAnnotationType()
 ```
 
-
 Gets type of annotation.
 
 **Returns:**
-[AnnotationType](../../com.aspose.pdf/annotationtype) - AnnotationType element
-### accept(AnnotationSelector visitor) {#accept-com.aspose.pdf.AnnotationSelector-}
+AnnotationType element @see AnnotationType
+
+### getIcon {#getIcon--}
 ```
-public void accept(AnnotationSelector visitor)
+public StampIcon getIcon()
 ```
 
+Gets icon for rubber stamp.
 
-Acepts  AnnotationSelector  visitor when browsing annotation collection.
+**Returns:**
+StampIcon value
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| visitor | [AnnotationSelector](../../com.aspose.pdf/annotationselector) | Visitor object. |
-
-### getImage() {#getImage--}
+### getImage {#getImage--}
 ```
 public InputStream getImage()
 ```
 
-
 Gets image of the annotation.
 
 **Returns:**
-java.io.InputStream - InputStream object
-### setImage(InputStream value) {#setImage-java.io.InputStream-}
-```
-public void setImage(InputStream value)
-```
+InputStream object
 
-
-Sets image of the annotation.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.io.InputStream | InputStream object |
-
-### setBase64SVGImage(String base64Svg) {#setBase64SVGImage-java.lang.String-}
-```
-public void setBase64SVGImage(String base64Svg)
-```
-
-
+### setBase64SVGImage {#setBase64SVGImage-java.lang.String-}
 Sets SVG image of the annotation in Base64 string.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| base64Svg | java.lang.String | String of base64 svg image |
+### setIcon {#setIcon-com.aspose.pdf.StampIcon-}
+Sets icon for rubber stamp.
 
+### setImage {#setImage-java.io.InputStream-}
+Sets image of the annotation.

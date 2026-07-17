@@ -7,19 +7,19 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf/textstamp/textstamp/
 ---
-## TextStamp::TextStamp(System::SharedPtr\<Facades::FormattedText\>) constructor
+## TextStamp::TextStamp(const System::SharedPtr\<Facades::FormattedText\>\&) constructor
 
 
 Initializes a new instance of the [TextStamp](../) class with formattedText object.
 
 ```cpp
-Aspose::Pdf::TextStamp::TextStamp(System::SharedPtr<Facades::FormattedText> formattedText)
+Aspose::Pdf::TextStamp::TextStamp(const System::SharedPtr<Facades::FormattedText> &formattedText)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| formattedText | System::SharedPtr\<Facades::FormattedText\> | FormattedText object which contains text of the stamp. |
+| formattedText | const System::SharedPtr\<Facades::FormattedText\>\& | FormattedText object which contains text of the stamp. |
 
 ## See Also
 
@@ -28,19 +28,19 @@ Aspose::Pdf::TextStamp::TextStamp(System::SharedPtr<Facades::FormattedText> form
 * Class [TextStamp](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TextStamp::TextStamp(System::String) constructor
+## TextStamp::TextStamp(const System::String\&) constructor
 
 
 Initializes a new instance of the [TextStamp](../) class.
 
 ```cpp
-Aspose::Pdf::TextStamp::TextStamp(System::String value)
+Aspose::Pdf::TextStamp::TextStamp(const System::String &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | System::String | [Stamp](../../stamp/) value. |
+| value | const System::String\& | [Stamp](../../stamp/) value. |
 
 ## See Also
 
@@ -48,20 +48,20 @@ Aspose::Pdf::TextStamp::TextStamp(System::String value)
 * Class [TextStamp](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TextStamp::TextStamp(System::String, System::SharedPtr\<Aspose::Pdf::Text::TextState\>) constructor
+## TextStamp::TextStamp(const System::String\&, const System::SharedPtr\<Aspose::Pdf::Text::TextState\>\&) constructor
 
 
 Initializes a new instance of the [TextStamp](../) class.
 
 ```cpp
-Aspose::Pdf::TextStamp::TextStamp(System::String value, System::SharedPtr<Aspose::Pdf::Text::TextState> textState)
+Aspose::Pdf::TextStamp::TextStamp(const System::String &value, const System::SharedPtr<Aspose::Pdf::Text::TextState> &textState)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | System::String | [Stamp](../../stamp/) value. |
-| textState | System::SharedPtr\<Aspose::Pdf::Text::TextState\> | [Stamp](../../stamp/) text state. |
+| value | const System::String\& | [Stamp](../../stamp/) value. |
+| textState | const System::SharedPtr\<Aspose::Pdf::Text::TextState\>\& | [Stamp](../../stamp/) text state. |
 
 ## See Also
 

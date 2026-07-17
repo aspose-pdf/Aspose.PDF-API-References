@@ -19,7 +19,7 @@ virtual void System::Collections::Generic::IKVCollection<T>::idx_set(int index, 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to set element at. |
+| index | int | [Index](../../../system/index/) to set element at. |
 | value | T | Value to set to specified element. |
 
 ## See Also

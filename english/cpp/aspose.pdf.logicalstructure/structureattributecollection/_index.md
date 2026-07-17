@@ -20,8 +20,8 @@ class StructureAttributeCollection : public System::Object
 
 | Method | Description |
 | --- | --- |
-| [CreateAttributes](./createattributes/)(System::SharedPtr\<AttributeOwnerStandard\>) | Create and return [Aspose::Pdf::LogicalStructure::StructureAttributes](../structureattributes/) of structure element by standard attribute owner. |
-| [GetAttributes](./getattributes/)(System::SharedPtr\<AttributeOwnerStandard\>) | Return [Aspose::Pdf::LogicalStructure::StructureAttributes](../structureattributes/) of structure element by standard attribute owner. |
+| [CreateAttributes](./createattributes/)(const System::SharedPtr\<AttributeOwnerStandard\>\&) | Create and return [Aspose::Pdf::LogicalStructure::StructureAttributes](../structureattributes/) of structure element by standard attribute owner. |
+| [GetAttributes](./getattributes/)(const System::SharedPtr\<AttributeOwnerStandard\>\&) | Return [Aspose::Pdf::LogicalStructure::StructureAttributes](../structureattributes/) of structure element by standard attribute owner. |
 ## See Also
 
 * Class [Object](../../system/object/)

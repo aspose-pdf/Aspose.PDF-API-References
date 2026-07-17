@@ -22,11 +22,11 @@ class GoToAction : public Aspose::Pdf::Annotations::PdfAction
 | --- | --- |
 | virtual [get_Destination](./get_destination/)() | Gets the destination to jump to. |
 | [GoToAction](./gotoaction/)(int32_t) | Constructor for [GoToAction](./) class. |
-| [GoToAction](./gotoaction/)(System::SharedPtr\<Page\>) | Constructor for [GoToAction](./) class. |
-| [GoToAction](./gotoaction/)(System::SharedPtr\<Page\>, ExplicitDestinationType, const System::ArrayPtr\<double\>\&) | Constructor for [GoToAction](./) class. |
-| [GoToAction](./gotoaction/)(System::SharedPtr\<ExplicitDestination\>) | Constructor. |
+| [GoToAction](./gotoaction/)(const System::SharedPtr\<Page\>\&) | Constructor for [GoToAction](./) class. |
+| [GoToAction](./gotoaction/)(const System::SharedPtr\<Page\>\&, ExplicitDestinationType, const System::ArrayPtr\<double\>\&) | Constructor for [GoToAction](./) class. |
+| [GoToAction](./gotoaction/)(const System::SharedPtr\<ExplicitDestination\>\&) | Constructor. |
 | [GoToAction](./gotoaction/)() | Constructor. |
-| [GoToAction](./gotoaction/)(System::SharedPtr\<Document\>, System::String) | Action which linked with Named Destination. |
+| [GoToAction](./gotoaction/)(const System::SharedPtr\<Document\>\&, const System::String\&) | Action which linked with Named Destination. |
 | virtual [set_Destination](./set_destination/)(System::SharedPtr\<IAppointment\>) | Sets the destination to jump to. |
 ## See Also
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/unifiedsaveoptions/conversionprogresseventhandler/
 Represents method that usually supplied by calling side and handles progress events that comes from converter. Usually such suplied customer's handler can be used to show total conversion progress on console or in progress bar.
 
 ```cpp
-using Aspose::Pdf::UnifiedSaveOptions::ConversionProgressEventHandler =  System::MulticastDelegate<void(System::SharedPtr<Aspose::Pdf::UnifiedSaveOptions::ProgressEventHandlerInfo>)>
+using Aspose::Pdf::UnifiedSaveOptions::ConversionProgressEventHandler =  System::MulticastDelegate<void(const System::SharedPtr<Aspose::Pdf::UnifiedSaveOptions::ProgressEventHandlerInfo>&)>
 ```
 
 ## See Also

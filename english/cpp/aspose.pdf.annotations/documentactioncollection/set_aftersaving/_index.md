@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/documentactioncollection/set_aftersaving/
 Sets action that will be performed after document saving.
 
 ```cpp
-void Aspose::Pdf::Annotations::DocumentActionCollection::set_AfterSaving(System::SharedPtr<PdfAction> value)
+void Aspose::Pdf::Annotations::DocumentActionCollection::set_AfterSaving(const System::SharedPtr<PdfAction> &value)
 ```
 
 ## See Also

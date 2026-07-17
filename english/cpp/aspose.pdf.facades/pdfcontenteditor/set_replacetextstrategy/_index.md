@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfcontenteditor/set_replacetextstrategy/
 A set of parameters for replace text operation.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfContentEditor::set_ReplaceTextStrategy(System::SharedPtr<Aspose::Pdf::Facades::ReplaceTextStrategy> value)
+void Aspose::Pdf::Facades::PdfContentEditor::set_ReplaceTextStrategy(const System::SharedPtr<Aspose::Pdf::Facades::ReplaceTextStrategy> &value)
 ```
 
 ## See Also

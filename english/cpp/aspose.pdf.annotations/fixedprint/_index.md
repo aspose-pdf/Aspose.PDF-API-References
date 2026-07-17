@@ -24,7 +24,7 @@ class FixedPrint : public System::Object
 | [get_Matrix](./get_matrix/)() | Gets matrix value. |
 | [get_VerticalTranslation](./get_verticaltranslation/)() const | Gets vertical translation. |
 | [set_HorizontalTranslation](./set_horizontaltranslation/)(double) | Sets horizontal translation. |
-| [set_Matrix](./set_matrix/)(System::SharedPtr\<Aspose::Pdf::Matrix\>) | Sets matrix value. |
+| [set_Matrix](./set_matrix/)(const System::SharedPtr\<Aspose::Pdf::Matrix\>\&) | Sets matrix value. |
 | [set_VerticalTranslation](./set_verticaltranslation/)(double) | Sets vertical translation. |
 ## See Also
 

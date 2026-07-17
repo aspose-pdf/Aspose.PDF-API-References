@@ -1,46 +1,38 @@
 ---
 title: ExtractedTextPostProcessor
+linktitle: ExtractedTextPostProcessor
 second_title: Aspose.PDF for Java API Reference
 description: Performs post processing of extrated text
 type: docs
-weight: 11
+weight: 30
 url: /java/com.aspose.pdf.text/extractedtextpostprocessor/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.text.ExtractedTextPostProcessor
+
 ```
-public class ExtractedTextPostProcessor
+public class ExtractedTextPostProcessor extends Object
 ```
 
 Performs post processing of extrated text
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [ExtractedTextPostProcessor()](#ExtractedTextPostProcessor--) |  |
+| [ExtractedTextPostProcessor](#ExtractedTextPostProcessor--) |  |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [process(String extractedText)](#process-java.lang.String-) |  |
-### ExtractedTextPostProcessor() {#ExtractedTextPostProcessor--}
+| [process](#process-java.lang.String-) |  |
+
+### ExtractedTextPostProcessor {#ExtractedTextPostProcessor--}
 ```
 public ExtractedTextPostProcessor()
 ```
 
 
-### process(String extractedText) {#process-java.lang.String-}
-```
-public static String process(String extractedText)
-```
 
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| extractedText | java.lang.String |  |
-
-**Returns:**
-java.lang.String
+### process {#process-java.lang.String-}

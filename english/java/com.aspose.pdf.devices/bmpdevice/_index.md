@@ -1,5 +1,6 @@
 ---
 title: BmpDevice
+linktitle: BmpDevice
 second_title: Aspose.PDF for Java API Reference
 description: Represents image device that helps to save pdf document pages into bmp.
 type: docs
@@ -7,147 +8,70 @@ weight: 10
 url: /java/com.aspose.pdf.devices/bmpdevice/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.devices.Device](../../com.aspose.pdf.devices/device), [com.aspose.pdf.devices.PageDevice](../../com.aspose.pdf.devices/pagedevice), [com.aspose.pdf.devices.ImageDevice](../../com.aspose.pdf.devices/imagedevice)
+java.lang.Object, com.aspose.pdf.devices.Device com.aspose.pdf.devices.PageDevice com.aspose.pdf.devices.ImageDevice com.aspose.pdf.devices.BmpDevice, com.aspose.pdf.devices.Device, com.aspose.pdf.devices.PageDevice com.aspose.pdf.devices.ImageDevice com.aspose.pdf.devices.BmpDevice, com.aspose.pdf.devices.PageDevice, com.aspose.pdf.devices.ImageDevice com.aspose.pdf.devices.BmpDevice, com.aspose.pdf.devices.ImageDevice, com.aspose.pdf.devices.BmpDevice
+
 ```
 public final class BmpDevice extends ImageDevice
 ```
 
 Represents image device that helps to save pdf document pages into bmp.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [BmpDevice()](#BmpDevice--) | Initializes a new instance of the  BmpDevice  class with default resolution. |
-| [BmpDevice(Resolution resolution)](#BmpDevice-com.aspose.pdf.devices.Resolution-) | Initializes a new instance of the  BmpDevice  class. |
-| [BmpDevice(int width, int height, Resolution resolution)](#BmpDevice-int-int-com.aspose.pdf.devices.Resolution-) | Initializes a new instance of the  BmpDevice  class with provided image dimensions and resolution. |
-| [BmpDevice(PageSize pageSize, Resolution resolution)](#BmpDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.Resolution-) | Initializes a new instance of the  BmpDevice  class with provided page size and resolution. |
-| [BmpDevice(int width, int height)](#BmpDevice-int-int-) | Initializes a new instance of the  BmpDevice  class with provided image dimensions, default resolution (=150). |
-| [BmpDevice(PageSize pageSize)](#BmpDevice-com.aspose.pdf.PageSize-) | Initializes a new instance of the  BmpDevice  class with provided page size, default resolution (=150). |
+| [BmpDevice](#BmpDevice--) | Initializes a new instance of the {@code BmpDevice} class with default resolution. |
+| [BmpDevice](#BmpDevice-int-int-) | Initializes a new instance of the {@code BmpDevice} class with provided image dimensions, default resolution (=150). |
+| [BmpDevice](#BmpDevice-int-int-com.aspose.pdf.devices.Resolution-) | Initializes a new instance of the {@code BmpDevice} class with default resolution. |
+| [BmpDevice](#BmpDevice-com.aspose.pdf.PageSize-) | Initializes a new instance of the {@code BmpDevice} class with default resolution. |
+| [BmpDevice](#BmpDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.Resolution-) | Initializes a new instance of the {@code BmpDevice} class with default resolution. |
+| [BmpDevice](#BmpDevice-com.aspose.pdf.devices.Resolution-) | Initializes a new instance of the {@code BmpDevice} class with default resolution. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [processInternal(Page page, System.IO.Stream output)](#processInternal-com.aspose.pdf.Page-com.aspose.ms.System.IO.Stream-) | For Internal usage only! |
-| [process(Page page, OutputStream output)](#process-com.aspose.pdf.Page-java.io.OutputStream-) | Converts the page into bmp and saves it in the output stream. |
-| [process(Page page, System.Drawing.Graphics gr)](#process-com.aspose.pdf.Page-com.aspose.ms.System.Drawing.Graphics-) | renders page on the graphics |
-### BmpDevice() {#BmpDevice--}
+| [process](#process-com.aspose.pdf.Page-com.aspose.ms.System.Drawing.Graphics-) | renders page on the graphics |
+| [process](#process-com.aspose.pdf.Page-java.io.OutputStream-) | Converts the page into bmp and saves it in the output stream. |
+| [processInternal](#processInternal-com.aspose.pdf.Page-com.aspose.ms.System.IO.Stream-) | For Internal usage only! |
+
+### BmpDevice {#BmpDevice--}
 ```
 public BmpDevice()
 ```
 
+Initializes a new instance of the {@code BmpDevice} class with default resolution.
 
-Initializes a new instance of the  BmpDevice  class with default resolution.
-
-### BmpDevice(Resolution resolution) {#BmpDevice-com.aspose.pdf.devices.Resolution-}
-```
-public BmpDevice(Resolution resolution)
-```
-
-
-Initializes a new instance of the  BmpDevice  class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| resolution | [Resolution](../../com.aspose.pdf.devices/resolution) | Resolution for the result image file, see  Resolution  class. |
-
-### BmpDevice(int width, int height, Resolution resolution) {#BmpDevice-int-int-com.aspose.pdf.devices.Resolution-}
-```
-public BmpDevice(int width, int height, Resolution resolution)
-```
-
-
-Initializes a new instance of the  BmpDevice  class with provided image dimensions and resolution.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| width | int | Image output width. |
-| height | int | Image output height. |
-| resolution | [Resolution](../../com.aspose.pdf.devices/resolution) | Resolution for the result image file, see  Resolution  class. |
-
-### BmpDevice(PageSize pageSize, Resolution resolution) {#BmpDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.Resolution-}
-```
-public BmpDevice(PageSize pageSize, Resolution resolution)
-```
-
-
-Initializes a new instance of the  BmpDevice  class with provided page size and resolution.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pageSize | [PageSize](../../com.aspose.pdf/pagesize) | Page size of the output image. |
-| resolution | [Resolution](../../com.aspose.pdf.devices/resolution) | Resolution for the result image file, see  Resolution  class. |
-
-### BmpDevice(int width, int height) {#BmpDevice-int-int-}
+### BmpDevice {#BmpDevice-int-int-}
 ```
 public BmpDevice(int width, int height)
 ```
 
-
-Initializes a new instance of the  BmpDevice  class with provided image dimensions, default resolution (=150).
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| width | int | Image output width. |
-| height | int | Image output height. |
-
-### BmpDevice(PageSize pageSize) {#BmpDevice-com.aspose.pdf.PageSize-}
-```
-public BmpDevice(PageSize pageSize)
-```
-
-
-Initializes a new instance of the  BmpDevice  class with provided page size, default resolution (=150).
+Initializes a new instance of the {@code BmpDevice} class with provided image dimensions, default resolution (=150).
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageSize | [PageSize](../../com.aspose.pdf/pagesize) | Page size of the output image. |
+| width |  | Image output width. |
+| height |  | Image output height. |
 
-### processInternal(Page page, System.IO.Stream output) {#processInternal-com.aspose.pdf.Page-com.aspose.ms.System.IO.Stream-}
-```
-public void processInternal(Page page, System.IO.Stream output)
-```
+### BmpDevice {#BmpDevice-int-int-com.aspose.pdf.devices.Resolution-}
+Initializes a new instance of the {@code BmpDevice} class with default resolution.
 
+### BmpDevice {#BmpDevice-com.aspose.pdf.PageSize-}
+Initializes a new instance of the {@code BmpDevice} class with default resolution.
 
-For Internal usage only!
+### BmpDevice {#BmpDevice-com.aspose.pdf.PageSize-com.aspose.pdf.devices.Resolution-}
+Initializes a new instance of the {@code BmpDevice} class with default resolution.
 
-Converts the page into bmp and saves it in the output stream.
+### BmpDevice {#BmpDevice-com.aspose.pdf.devices.Resolution-}
+Initializes a new instance of the {@code BmpDevice} class with default resolution.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | [Page](../../com.aspose.pdf/page) | The page to convert. |
-| output | com.aspose.ms.System.IO.Stream | Output stream with bmp image. |
-
-### process(Page page, OutputStream output) {#process-com.aspose.pdf.Page-java.io.OutputStream-}
-```
-public void process(Page page, OutputStream output)
-```
-
-
-Converts the page into bmp and saves it in the output stream.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | [Page](../../com.aspose.pdf/page) | The page to convert. |
-| output | java.io.OutputStream | Output stream with bmp image. |
-
-### process(Page page, System.Drawing.Graphics gr) {#process-com.aspose.pdf.Page-com.aspose.ms.System.Drawing.Graphics-}
-```
-public void process(Page page, System.Drawing.Graphics gr)
-```
-
-
+### process {#process-com.aspose.pdf.Page-com.aspose.ms.System.Drawing.Graphics-}
 renders page on the graphics
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | [Page](../../com.aspose.pdf/page) | Page object |
-| gr | com.aspose.ms.System.Drawing.Graphics | internal object |
+### process {#process-com.aspose.pdf.Page-java.io.OutputStream-}
+Converts the page into bmp and saves it in the output stream.
 
+### processInternal {#processInternal-com.aspose.pdf.Page-com.aspose.ms.System.IO.Stream-}
+For Internal usage only!

@@ -1,55 +1,50 @@
 ---
 title: DefaultDirectory
+linktitle: DefaultDirectory
 second_title: Aspose.PDF for Java API Reference
 description: Specifies default path for some purpose
 type: docs
-weight: 82
+weight: 940
 url: /java/com.aspose.pdf/defaultdirectory/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.DefaultDirectory
+
 ```
-public class DefaultDirectory
+public class DefaultDirectory extends Object
 ```
 
 Specifies default path for some purpose
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [DefaultDirectory()](#DefaultDirectory--) |  |
+| [DefaultDirectory](#DefaultDirectory--) |  |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getDefaultDirectory()](#getDefaultDirectory--) | Gets the current working directory for the internal processes. |
-| [setDefaultDirectory(String value)](#setDefaultDirectory-java.lang.String-) | Gets the current working directory for the internal processes. |
-### DefaultDirectory() {#DefaultDirectory--}
+| [getDefaultDirectory](#getDefaultDirectory--) | Gets the current working directory for the internal processes. |
+| [setDefaultDirectory](#setDefaultDirectory-java.lang.String-) | Gets the current working directory for the internal processes. The directory should be exist. |
+
+### DefaultDirectory {#DefaultDirectory--}
 ```
 public DefaultDirectory()
 ```
 
 
-### getDefaultDirectory() {#getDefaultDirectory--}
+
+### getDefaultDirectory {#getDefaultDirectory--}
 ```
 public static String getDefaultDirectory()
 ```
 
-
 Gets the current working directory for the internal processes.
 
 **Returns:**
-java.lang.String - String value
-### setDefaultDirectory(String value) {#setDefaultDirectory-java.lang.String-}
-```
-public static void setDefaultDirectory(String value)
-```
+String value
 
-
+### setDefaultDirectory {#setDefaultDirectory-java.lang.String-}
 Gets the current working directory for the internal processes. The directory should be exist.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-

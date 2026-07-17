@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf/javascriptcollection/idx_set/
 Sets JavaScript from collection by its key.
 
 ```cpp
-void Aspose::Pdf::JavaScriptCollection::idx_set(System::String key, System::String value)
+void Aspose::Pdf::JavaScriptCollection::idx_set(const System::String &key, const System::String &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | System::String | Key value. |
-| value | System::String | Javascript collection. |
+| key | const System::String\& | Key value. |
+| value | const System::String\& | Javascript collection. |
 
 ## See Also
 

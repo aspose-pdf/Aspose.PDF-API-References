@@ -21,6 +21,26 @@ void Aspose::Pdf::Facades::FormEditor::DecorateField()
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
+## FormEditor::DecorateField(const System::String\&) method
+
+
+Changes visual attributes of the specified field.
+
+```cpp
+void Aspose::Pdf::Facades::FormEditor::DecorateField(const System::String &fieldName)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fieldName | const System::String\& | The fully qualified field name. |
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [FormEditor](../)
+* Namespace [Aspose::Pdf::Facades](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## FormEditor::DecorateField(FieldType) method
 
 
@@ -38,26 +58,6 @@ void Aspose::Pdf::Facades::FormEditor::DecorateField(FieldType fieldType)
 ## See Also
 
 * Enum [FieldType](../../fieldtype/)
-* Class [FormEditor](../)
-* Namespace [Aspose::Pdf::Facades](../../)
-* Library [Aspose.PDF for C++](../../../)
-## FormEditor::DecorateField(System::String) method
-
-
-Changes visual attributes of the specified field.
-
-```cpp
-void Aspose::Pdf::Facades::FormEditor::DecorateField(System::String fieldName)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fieldName | System::String | The fully qualified field name. |
-
-## See Also
-
-* Class [String](../../../system/string/)
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

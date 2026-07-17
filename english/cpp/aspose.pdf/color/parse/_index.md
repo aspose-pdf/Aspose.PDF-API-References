@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/color/parse/
 Extracts color components from the string.
 
 ```cpp
-static System::SharedPtr<Color> Aspose::Pdf::Color::Parse(System::String value)
+static System::SharedPtr<Color> Aspose::Pdf::Color::Parse(const System::String &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | System::String | String value with color component values. |
+| value | const System::String\& | String value with color component values. |
 
 ### ReturnValue
 

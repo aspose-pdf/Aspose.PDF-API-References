@@ -59,7 +59,7 @@ enum class HttpStatusCode
 | RequestEntityTooLarge | 413 | The 'Request Entity Too Large' status code that equals to HTTP status 413. |
 | RequestUriTooLong | 414 | The 'Request-URI Too Long' status code that equals to HTTP status 414. |
 | UnsupportedMediaType | 415 | The 'Unsupported Media Type' status code that equals to HTTP status 415. |
-| RequestedRangeNotSatisfiable | 416 | The 'Requested Range Not Satisfiable' status code that equals to HTTP status 416. |
+| RequestedRangeNotSatisfiable | 416 | The 'Requested [Range](../../system/range/) Not Satisfiable' status code that equals to HTTP status 416. |
 | ExpectationFailed | 417 | The 'Expectation Failed' status code that equals to HTTP status 417. |
 | UpgradeRequired | 426 | The 'Upgrade Required' status code that equals to HTTP status 426. |
 | InternalServerError | 500 | The 'Internal Server Error' status code that equals to HTTP status 500. |

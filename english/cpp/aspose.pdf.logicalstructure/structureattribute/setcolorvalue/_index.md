@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.logicalstructure/structureattribute/setcolorvalue/
 Sets Value [Color](../../../aspose.pdf/color/).
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::StructureAttribute::SetColorValue(System::SharedPtr<Color> color)
+void Aspose::Pdf::LogicalStructure::StructureAttribute::SetColorValue(const System::SharedPtr<Color> &color)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| color | System::SharedPtr\<Color\> | [Color](../../../aspose.pdf/color/). |
+| color | const System::SharedPtr\<Color\>\& | [Color](../../../aspose.pdf/color/). |
 
 ## See Also
 

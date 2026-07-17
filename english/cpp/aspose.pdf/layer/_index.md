@@ -27,10 +27,10 @@ class Layer : public System::Object
 | [get_Id](./get_id/)() const | Gets the layer id. |
 | [get_Locked](./get_locked/)() | Gets a value indicating whether the layer is locked. |
 | [get_Name](./get_name/)() const | Gets the layer name. |
-| [Layer](./layer/)(System::String, System::String) | Initializes a new instance of the [Layer](./) class. |
+| [Layer](./layer/)(const System::String\&, const System::String\&) | Initializes a new instance of the [Layer](./) class. |
 | [Lock](./lock/)() | Locks the layer. |
-| [Save](./save/)(System::String) | Saves the current layer to a PDF document. |
-| [Save](./save/)(System::SharedPtr\<System::IO::Stream\>) | Saves the current layer to a PDF document. |
+| [Save](./save/)(const System::String\&) | Saves the current layer to a PDF document. |
+| [Save](./save/)(const System::SharedPtr\<System::IO::Stream\>\&) | Saves the current layer to a PDF document. |
 | [set_DefaultState](./set_defaultstate/)(Aspose::Pdf::DefaultState) | Sets the default state of the PDF layer. |
 | [Unlock](./unlock/)() | Unlocks the layer. |
 ## See Also

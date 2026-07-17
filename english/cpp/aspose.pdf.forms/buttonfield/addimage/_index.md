@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.forms/buttonfield/addimage/
 Adds image into the field resources and draws it.
 
 ```cpp
-void Aspose::Pdf::Forms::ButtonField::AddImage(System::SharedPtr<System::Drawing::Image> image)
+void Aspose::Pdf::Forms::ButtonField::AddImage(const System::SharedPtr<System::Drawing::Image> &image)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| image | System::SharedPtr\<System::Drawing::Image\> | [Image](../../../aspose.pdf/image/) ot add into text field. |
+| image | const System::SharedPtr\<System::Drawing::Image\>\& | [Image](../../../aspose.pdf/image/) ot add into text field. |
 
 ## See Also
 

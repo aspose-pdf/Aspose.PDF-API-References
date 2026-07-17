@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfformatconversionoptions/set_logstream/
 Stream where comments will be stored.
 
 ```cpp
-void Aspose::Pdf::PdfFormatConversionOptions::set_LogStream(System::SharedPtr<System::IO::Stream> value)
+void Aspose::Pdf::PdfFormatConversionOptions::set_LogStream(const System::SharedPtr<System::IO::Stream> &value)
 ```
 
 ## See Also

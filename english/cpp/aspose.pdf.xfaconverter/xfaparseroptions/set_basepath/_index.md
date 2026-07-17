@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.xfaconverter/xfaparseroptions/set_basepath/
 Sets the base path.
 
 ```cpp
-void Aspose::Pdf::XfaConverter::XfaParserOptions::set_BasePath(System::SharedPtr<System::Uri> value)
+void Aspose::Pdf::XfaConverter::XfaParserOptions::set_BasePath(const System::SharedPtr<System::Uri> &value)
 ```
 
 ## Remarks

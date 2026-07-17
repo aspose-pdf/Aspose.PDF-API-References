@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/fontsubstitutionhandler/
 Represents the method that will handle FontSubstitution event.
 
 ```cpp
-using Aspose::Pdf::Document::FontSubstitutionHandler =  System::MulticastDelegate<void(System::SharedPtr<Aspose::Pdf::Text::Font>, System::SharedPtr<Aspose::Pdf::Text::Font>)>
+using Aspose::Pdf::Document::FontSubstitutionHandler =  System::MulticastDelegate<void(const System::SharedPtr<Aspose::Pdf::Text::Font>&, const System::SharedPtr<Aspose::Pdf::Text::Font>&)>
 ```
 
 

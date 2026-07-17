@@ -24,10 +24,10 @@ class SetAdvancedColorStroke : public Aspose::Pdf::Operators::BasicSetColorAndPa
 | [getColor](./getcolor/)() override | Returns color specified by operator. |
 | [SetAdvancedColorStroke](./setadvancedcolorstroke/)() | Initializes operator. |
 | [SetAdvancedColorStroke](./setadvancedcolorstroke/)(double) | Constructor for scn operator. |
-| [SetAdvancedColorStroke](./setadvancedcolorstroke/)(double, System::String) | Constructor for scn operator. |
-| [SetAdvancedColorStroke](./setadvancedcolorstroke/)(double, double, double, System::String) | Constructor for scn operator. |
-| [SetAdvancedColorStroke](./setadvancedcolorstroke/)(double, double, double, double, System::String) | Constructor for scn operator. |
-| [SetAdvancedColorStroke](./setadvancedcolorstroke/)(System::ArrayPtr\<double\>, System::String) | Constructor for scn operator. |
+| [SetAdvancedColorStroke](./setadvancedcolorstroke/)(double, const System::String\&) | Constructor for scn operator. |
+| [SetAdvancedColorStroke](./setadvancedcolorstroke/)(double, double, double, const System::String\&) | Constructor for scn operator. |
+| [SetAdvancedColorStroke](./setadvancedcolorstroke/)(double, double, double, double, const System::String\&) | Constructor for scn operator. |
+| [SetAdvancedColorStroke](./setadvancedcolorstroke/)(const System::ArrayPtr\<double\>\&, const System::String\&) | Constructor for scn operator. |
 ## See Also
 
 * Class [BasicSetColorAndPatternOperator](../basicsetcolorandpatternoperator/)

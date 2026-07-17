@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structureelement/set_language/
 Sets the language for structure element.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::StructureElement::set_Language(System::String value)
+void Aspose::Pdf::LogicalStructure::StructureElement::set_Language(const System::String &value)
 ```
 
 ## Remarks

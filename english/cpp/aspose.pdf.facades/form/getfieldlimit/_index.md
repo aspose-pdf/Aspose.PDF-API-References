@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/form/getfieldlimit/
 Get the limitation of text field.
 
 ```cpp
-int32_t Aspose::Pdf::Facades::Form::GetFieldLimit(System::String fieldName)
+int32_t Aspose::Pdf::Facades::Form::GetFieldLimit(const System::String &fieldName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | The qualified field name. |
+| fieldName | const System::String\& | The qualified field name. |
 
 ### ReturnValue
 

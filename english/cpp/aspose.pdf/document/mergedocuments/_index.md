@@ -60,19 +60,19 @@ The merged document.
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Document::MergeDocuments(System::SharedPtr\<Document::MergeOptions\>, const System::ArrayPtr\<System::SharedPtr\<Document\>\>\&) method
+## Document::MergeDocuments(const System::SharedPtr\<Document::MergeOptions\>\&, const System::ArrayPtr\<System::SharedPtr\<Document\>\>\&) method
 
 
 Merges documents.
 
 ```cpp
-static System::SharedPtr<Document> Aspose::Pdf::Document::MergeDocuments(System::SharedPtr<Document::MergeOptions> mergeOptions, const System::ArrayPtr<System::SharedPtr<Document>> &files)
+static System::SharedPtr<Document> Aspose::Pdf::Document::MergeDocuments(const System::SharedPtr<Document::MergeOptions> &mergeOptions, const System::ArrayPtr<System::SharedPtr<Document>> &files)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| mergeOptions | System::SharedPtr\<Document::MergeOptions\> |  |
+| mergeOptions | const System::SharedPtr\<Document::MergeOptions\>\& |  |
 | files | const System::ArrayPtr\<System::SharedPtr\<Document\>\>\& | The documents to merge. |
 
 ### ReturnValue
@@ -88,19 +88,19 @@ The merged document.
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Document::MergeDocuments(System::SharedPtr\<Document::MergeOptions\>, const System::ArrayPtr\<System::String\>\&) method
+## Document::MergeDocuments(const System::SharedPtr\<Document::MergeOptions\>\&, const System::ArrayPtr\<System::String\>\&) method
 
 
 Merges documents.
 
 ```cpp
-static System::SharedPtr<Document> Aspose::Pdf::Document::MergeDocuments(System::SharedPtr<Document::MergeOptions> mergeOptions, const System::ArrayPtr<System::String> &files)
+static System::SharedPtr<Document> Aspose::Pdf::Document::MergeDocuments(const System::SharedPtr<Document::MergeOptions> &mergeOptions, const System::ArrayPtr<System::String> &files)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| mergeOptions | System::SharedPtr\<Document::MergeOptions\> | The merge options. |
+| mergeOptions | const System::SharedPtr\<Document::MergeOptions\>\& | The merge options. |
 | files | const System::ArrayPtr\<System::String\>\& | The pdf-files to merge. |
 
 ### ReturnValue

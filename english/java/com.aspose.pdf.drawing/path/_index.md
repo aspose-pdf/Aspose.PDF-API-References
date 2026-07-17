@@ -1,68 +1,81 @@
 ---
 title: Path
+linktitle: Path
 second_title: Aspose.PDF for Java API Reference
 description: Represents arc.
 type: docs
-weight: 18
+weight: 100
 url: /java/com.aspose.pdf.drawing/path/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.drawing.Shape](../../com.aspose.pdf.drawing/shape)
+java.lang.Object, com.aspose.pdf.drawing.Shape com.aspose.pdf.drawing.Path, com.aspose.pdf.drawing.Shape, com.aspose.pdf.drawing.Path
+
+**All Implemented Interfaces:**
+IBoundsCheckableItem
+
 ```
 public final class Path extends Shape
 ```
 
 Represents arc.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [Path(Shape[] shapes)](#Path-com.aspose.pdf.drawing.Shape---) | Initializes a new instance of the  Path  class. |
-| [Path()](#Path--) | Initializes a new instance of the  Path  class. |
+| [Path](#Path--) | Initializes a new instance of the {@code Path} class. |
+| [Path](#Path-com.aspose.pdf.drawing.Shape:A-) | Initializes a new instance of the {@code Path} class. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getShapesInternal()](#getShapesInternal--) | Gets or sets shapes collection. |
-| [getShapes()](#getShapes--) | Gets or sets shapes collection. |
-### Path(Shape[] shapes) {#Path-com.aspose.pdf.drawing.Shape---}
-```
-public Path(Shape[] shapes)
-```
+| [checkBounds](#checkBounds-double-double-) | Checks if the item fits within the given container dimensions (inclusive). |
+| [getShapes](#getShapes--) | <p> Gets or sets shapes collection. </p> |
+| [getShapesInternal](#getShapesInternal--) | Gets or sets shapes collection. |
 
-
-Initializes a new instance of the  Path  class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| shapes | [Shape\[\]](../../com.aspose.pdf.drawing/shape) | The shape array contains path segments set. |
-
-### Path() {#Path--}
+### Path {#Path--}
 ```
 public Path()
 ```
 
+Initializes a new instance of the {@code Path} class.
 
-Initializes a new instance of the  Path  class.
+### Path {#Path-com.aspose.pdf.drawing.Shape:A-}
+Initializes a new instance of the {@code Path} class.
 
-### getShapesInternal() {#getShapesInternal--}
+### checkBounds {#checkBounds-double-double-}
 ```
-public System.Collections.Generic.List<Shape> getShapesInternal()
+public boolean checkBounds(double containerWidth, double containerHeight)
 ```
 
+Checks if the item fits within the given container dimensions (inclusive).
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| containerWidth |  |  |
+| containerHeight |  |  |
+
+**Returns:**
+True if fits; otherwise, false.
+
+### getShapes {#getShapes--}
+```
+public List < Shape > getShapes()
+```
+
+<p> Gets or sets shapes collection. </p>
+
+**Returns:**
+{@code java.util.List<Shape> }object
+
+### getShapesInternal {#getShapesInternal--}
+```
+public com.aspose.ms.System.Collections.Generic.List< Shape > getShapesInternal()
+```
 
 Gets or sets shapes collection.
 
 **Returns:**
-com.aspose.ms.System.Collections.Generic.List<com.aspose.pdf.drawing.Shape> - internal object
-### getShapes() {#getShapes--}
-```
-public List<Shape> getShapes()
-```
-
-
-Gets or sets shapes collection.
-
-**Returns:**
-java.util.List<com.aspose.pdf.drawing.Shape> -  java.util.List object
+internal object

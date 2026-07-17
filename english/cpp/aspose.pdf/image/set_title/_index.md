@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/image/set_title/
 Sets a string value that indicates the title of the image.
 
 ```cpp
-void Aspose::Pdf::Image::set_Title(System::SharedPtr<Text::TextFragment> value)
+void Aspose::Pdf::Image::set_Title(const System::SharedPtr<Text::TextFragment> &value)
 ```
 
 ## See Also

@@ -29,19 +29,19 @@ void Aspose::Pdf::Document::OptimizeResources()
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Document::OptimizeResources(System::SharedPtr\<Aspose::Pdf::Optimization::OptimizationOptions\>) method
+## Document::OptimizeResources(const System::SharedPtr\<Aspose::Pdf::Optimization::OptimizationOptions\>\&) method
 
 
 Optimize resources in the document according to defined optimization strategy.
 
 ```cpp
-void Aspose::Pdf::Document::OptimizeResources(System::SharedPtr<Aspose::Pdf::Optimization::OptimizationOptions> strategy)
+void Aspose::Pdf::Document::OptimizeResources(const System::SharedPtr<Aspose::Pdf::Optimization::OptimizationOptions> &strategy)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| strategy | System::SharedPtr\<Aspose::Pdf::Optimization::OptimizationOptions\> | [Optimization](../../../aspose.pdf.optimization/) strategy. |
+| strategy | const System::SharedPtr\<Aspose::Pdf::Optimization::OptimizationOptions\>\& | [Optimization](../../../aspose.pdf.optimization/) strategy. |
 
 ## See Also
 

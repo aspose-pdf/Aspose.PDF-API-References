@@ -7,19 +7,19 @@ type: docs
 weight: 2900
 url: /cpp/aspose.pdf.facades/pdffilesignature/removesignature/
 ---
-## PdfFileSignature::RemoveSignature(System::SharedPtr\<SignatureName\>) method
+## PdfFileSignature::RemoveSignature(const System::SharedPtr\<SignatureName\>\&) method
 
 
 Remove the signature according to the name of the signature.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileSignature::RemoveSignature(System::SharedPtr<SignatureName> signName)
+void Aspose::Pdf::Facades::PdfFileSignature::RemoveSignature(const System::SharedPtr<SignatureName> &signName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | System::SharedPtr\<SignatureName\> | The name of signature. |
+| signName | const System::SharedPtr\<SignatureName\>\& | The name of signature. |
 
 ## See Also
 
@@ -28,19 +28,19 @@ void Aspose::Pdf::Facades::PdfFileSignature::RemoveSignature(System::SharedPtr<S
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileSignature::RemoveSignature(System::SharedPtr\<SignatureName\>, bool) method
+## PdfFileSignature::RemoveSignature(const System::SharedPtr\<SignatureName\>\&, bool) method
 
 
 Removes the signature according to the name of the signature.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileSignature::RemoveSignature(System::SharedPtr<SignatureName> signName, bool removeField)
+void Aspose::Pdf::Facades::PdfFileSignature::RemoveSignature(const System::SharedPtr<SignatureName> &signName, bool removeField)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | System::SharedPtr\<SignatureName\> | The name of signature. |
+| signName | const System::SharedPtr\<SignatureName\>\& | The name of signature. |
 | removeField | bool | If set to true, than removes both of signature and field from document; otherwise, signature only. |
 
 ## See Also
@@ -50,19 +50,19 @@ void Aspose::Pdf::Facades::PdfFileSignature::RemoveSignature(System::SharedPtr<S
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileSignature::RemoveSignature(System::String) method
+## PdfFileSignature::RemoveSignature(const System::String\&) method
 
 
 Remove the signature according to the name of the signature.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileSignature::RemoveSignature(System::String signName)
+void Aspose::Pdf::Facades::PdfFileSignature::RemoveSignature(const System::String &signName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | System::String | The name of signature. |
+| signName | const System::String\& | The name of signature. |
 
 ## Deprecated
 Use RemoveSignature(SignatureName) instead. 
@@ -73,19 +73,19 @@ Use RemoveSignature(SignatureName) instead.
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileSignature::RemoveSignature(System::String, bool) method
+## PdfFileSignature::RemoveSignature(const System::String\&, bool) method
 
 
 Removes the signature according to the name of the signature.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileSignature::RemoveSignature(System::String signName, bool removeField)
+void Aspose::Pdf::Facades::PdfFileSignature::RemoveSignature(const System::String &signName, bool removeField)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | System::String | The name of signature. |
+| signName | const System::String\& | The name of signature. |
 | removeField | bool | If set to true, than removes both of signature and field from document; otherwise, signature only. |
 
 ## Deprecated

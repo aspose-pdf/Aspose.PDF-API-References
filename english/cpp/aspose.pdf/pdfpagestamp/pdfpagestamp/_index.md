@@ -7,19 +7,19 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf/pdfpagestamp/pdfpagestamp/
 ---
-## PdfPageStamp::PdfPageStamp(System::SharedPtr\<Page\>) constructor
+## PdfPageStamp::PdfPageStamp(const System::SharedPtr\<Page\>\&) constructor
 
 
 Constructor of [PdfPageStamp](../).
 
 ```cpp
-Aspose::Pdf::PdfPageStamp::PdfPageStamp(System::SharedPtr<Page> pdfPage)
+Aspose::Pdf::PdfPageStamp::PdfPageStamp(const System::SharedPtr<Page> &pdfPage)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pdfPage | System::SharedPtr\<Page\> | [Page](../../page/) which is used for stamping. |
+| pdfPage | const System::SharedPtr\<Page\>\& | [Page](../../page/) which is used for stamping. |
 
 ## See Also
 
@@ -28,19 +28,19 @@ Aspose::Pdf::PdfPageStamp::PdfPageStamp(System::SharedPtr<Page> pdfPage)
 * Class [PdfPageStamp](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfPageStamp::PdfPageStamp(System::SharedPtr\<System::IO::Stream\>, int32_t) constructor
+## PdfPageStamp::PdfPageStamp(const System::SharedPtr\<System::IO::Stream\>\&, int32_t) constructor
 
 
 Creates [Pdf](../../) page stamp from specifed page in the document from the stream.
 
 ```cpp
-Aspose::Pdf::PdfPageStamp::PdfPageStamp(System::SharedPtr<System::IO::Stream> stream, int32_t pageIndex)
+Aspose::Pdf::PdfPageStamp::PdfPageStamp(const System::SharedPtr<System::IO::Stream> &stream, int32_t pageIndex)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | System::SharedPtr\<System::IO::Stream\> | Stream which contains PDF |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | Stream which contains PDF |
 | pageIndex | int32_t | Index of the page. |
 
 ## See Also
@@ -50,19 +50,19 @@ Aspose::Pdf::PdfPageStamp::PdfPageStamp(System::SharedPtr<System::IO::Stream> st
 * Class [PdfPageStamp](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfPageStamp::PdfPageStamp(System::String, int32_t) constructor
+## PdfPageStamp::PdfPageStamp(const System::String\&, int32_t) constructor
 
 
 Creates [Pdf](../../) page stamp from specifed page of the document in specified file.
 
 ```cpp
-Aspose::Pdf::PdfPageStamp::PdfPageStamp(System::String fileName, int32_t pageIndex)
+Aspose::Pdf::PdfPageStamp::PdfPageStamp(const System::String &fileName, int32_t pageIndex)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | System::String | Name and page of PDF file. |
+| fileName | const System::String\& | Name and page of PDF file. |
 | pageIndex | int32_t | Index of the page. |
 
 ## See Also

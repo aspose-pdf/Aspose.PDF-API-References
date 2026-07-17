@@ -7,20 +7,20 @@ type: docs
 weight: 1000
 url: /cpp/aspose.pdf.facades/form/fillimagefield/
 ---
-## Form::FillImageField(System::String, System::SharedPtr\<System::IO::Stream\>) method
+## Form::FillImageField(const System::String\&, const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Overloads function of FillImageField. The input is a image stream.
 
 ```cpp
-void Aspose::Pdf::Facades::Form::FillImageField(System::String fieldName, System::SharedPtr<System::IO::Stream> imageStream)
+void Aspose::Pdf::Facades::Form::FillImageField(const System::String &fieldName, const System::SharedPtr<System::IO::Stream> &imageStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | The fully qualified field name. |
-| imageStream | System::SharedPtr\<System::IO::Stream\> | The image's stream. |
+| fieldName | const System::String\& | The fully qualified field name. |
+| imageStream | const System::SharedPtr\<System::IO::Stream\>\& | The image's stream. |
 
 ## See Also
 
@@ -30,20 +30,20 @@ void Aspose::Pdf::Facades::Form::FillImageField(System::String fieldName, System
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Form::FillImageField(System::String, System::String) method
+## Form::FillImageField(const System::String\&, const System::String\&) method
 
 
 Pastes an image onto the existing button field as its appearance according to its fully qualified field name.
 
 ```cpp
-void Aspose::Pdf::Facades::Form::FillImageField(System::String fieldName, System::String imageFileName)
+void Aspose::Pdf::Facades::Form::FillImageField(const System::String &fieldName, const System::String &imageFileName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | The fully qualified field name of the image button field. |
-| imageFileName | System::String | The path of the image file, relative and absolute are both ok. |
+| fieldName | const System::String\& | The fully qualified field name of the image button field. |
+| imageFileName | const System::String\& | The path of the image file, relative and absolute are both ok. |
 
 ## See Also
 

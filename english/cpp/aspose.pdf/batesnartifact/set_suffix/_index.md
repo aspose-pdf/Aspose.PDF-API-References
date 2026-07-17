@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/batesnartifact/set_suffix/
 Sets the suffix to be added to the Bates number.
 
 ```cpp
-void Aspose::Pdf::BatesNArtifact::set_Suffix(System::String value)
+void Aspose::Pdf::BatesNArtifact::set_Suffix(const System::String &value)
 ```
 
 ## See Also

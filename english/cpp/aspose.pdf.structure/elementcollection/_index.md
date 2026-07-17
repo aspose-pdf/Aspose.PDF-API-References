@@ -29,7 +29,7 @@ class ElementCollection : public System::Collections::Generic::IEnumerable<Syste
 | [get_Count](./get_count/)() | Count of elements. |
 | [GetEnumerator](./getenumerator/)() override | Returns an enumerator that iterates through the collection. |
 | [idx_get](./idx_get/)(int32_t) | Gets [Element](../element/) by index. |
-| [Remove](./remove/)(System::SharedPtr\<Element\>) | Remove item from collection. |
+| [Remove](./remove/)(const System::SharedPtr\<Element\>\&) | Remove item from collection. |
 | [virtualizeBeginConstIterator](./virtualizebeginconstiterator/)() const override | Gets iterator pointing to the first element (if any)of the const-qualified instance of the collection. |
 | [virtualizeBeginIterator](./virtualizebeginiterator/)() override | Gets iterator pointing to the first element (if any) of the collection. |
 | [virtualizeEndConstIterator](./virtualizeendconstiterator/)() const override | Gets iterator pointing right after the last element (if any)of the const-qualified instance of the collection. |

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.xfaconverter/xfaparseroptions/set_uriresolver/
 Sets the URI resolver.
 
 ```cpp
-void Aspose::Pdf::XfaConverter::XfaParserOptions::set_UriResolver(System::SharedPtr<Aspose::Foundation::UriResolver::UriResolver> value)
+void Aspose::Pdf::XfaConverter::XfaParserOptions::set_UriResolver(const System::SharedPtr<Aspose::Foundation::UriResolver::UriResolver> &value)
 ```
 
 ## Remarks

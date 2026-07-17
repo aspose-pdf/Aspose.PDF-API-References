@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/htmlloadoptions/set_inputencoding/
 Sets the attribute specifying the encoding used for this document at the time of the parsing. If this attribute is null the encoding will determine from document character set atribute.
 
 ```cpp
-void Aspose::Pdf::HtmlLoadOptions::set_InputEncoding(System::String value)
+void Aspose::Pdf::HtmlLoadOptions::set_InputEncoding(const System::String &value)
 ```
 
 ## See Also

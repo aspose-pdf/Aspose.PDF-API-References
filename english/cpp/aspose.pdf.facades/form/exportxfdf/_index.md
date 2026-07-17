@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/form/exportxfdf/
 Exports the content of the fields of the pdf into the xml stream. The button field's value will not be exported.
 
 ```cpp
-void Aspose::Pdf::Facades::Form::ExportXfdf(System::SharedPtr<System::IO::Stream> outputXfdfStream)
+void Aspose::Pdf::Facades::Form::ExportXfdf(const System::SharedPtr<System::IO::Stream> &outputXfdfStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputXfdfStream | System::SharedPtr\<System::IO::Stream\> | The output xml stream. |
+| outputXfdfStream | const System::SharedPtr\<System::IO::Stream\>\& | The output xml stream. |
 
 ## See Also
 

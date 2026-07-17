@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/field/set_mappingname/
 Sets mapping name of the field that shall be used when exporting interactive form field data from the document.
 
 ```cpp
-void Aspose::Pdf::Forms::Field::set_MappingName(System::String value)
+void Aspose::Pdf::Forms::Field::set_MappingName(const System::String &value)
 ```
 
 ## See Also

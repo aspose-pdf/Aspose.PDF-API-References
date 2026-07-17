@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.forms/xfa/setfieldimage/
 Sets image for [XFA](../) field.
 
 ```cpp
-void Aspose::Pdf::Forms::XFA::SetFieldImage(System::String fieldName, System::SharedPtr<System::IO::Stream> image)
+void Aspose::Pdf::Forms::XFA::SetFieldImage(const System::String &fieldName, const System::SharedPtr<System::IO::Stream> &image)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | Name of the field. |
-| image | System::SharedPtr\<System::IO::Stream\> | Stream which contains image. |
+| fieldName | const System::String\& | Name of the field. |
+| image | const System::SharedPtr\<System::IO::Stream\>\& | Stream which contains image. |
 
 ## See Also
 

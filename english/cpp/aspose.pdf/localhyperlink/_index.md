@@ -23,8 +23,8 @@ class LocalHyperlink : public Aspose::Pdf::Hyperlink
 | [get_Target](./get_target/)() const | Gets the target paragraph. |
 | [get_TargetPageNumber](./get_targetpagenumber/)() const | Gets the target page number. |
 | [LocalHyperlink](./localhyperlink/)() | Initializes a new instance of the [LocalHyperlink](./) class. |
-| [LocalHyperlink](./localhyperlink/)(System::SharedPtr\<BaseParagraph\>) | Initializes a new instance of the [LocalHyperlink](./) class. |
-| [set_Target](./set_target/)(System::SharedPtr\<BaseParagraph\>) | Sets the target paragraph. |
+| [LocalHyperlink](./localhyperlink/)(const System::SharedPtr\<BaseParagraph\>\&) | Initializes a new instance of the [LocalHyperlink](./) class. |
+| [set_Target](./set_target/)(const System::SharedPtr\<BaseParagraph\>\&) | Sets the target paragraph. |
 | [set_TargetPageNumber](./set_targetpagenumber/)(int32_t) | Sets the target page number. |
 ## See Also
 

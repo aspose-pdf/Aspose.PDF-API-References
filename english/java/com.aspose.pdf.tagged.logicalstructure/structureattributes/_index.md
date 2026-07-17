@@ -1,89 +1,53 @@
 ---
 title: StructureAttributes
+linktitle: StructureAttributes
 second_title: Aspose.PDF for Java API Reference
 description: Represents attributes of structure element for standard attribute owners.
 type: docs
-weight: 17
+weight: 110
 url: /java/com.aspose.pdf.tagged.logicalstructure/structureattributes/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.tagged.logicalstructure.StructureAttributes
+
 ```
-public class StructureAttributes
+public class StructureAttributes extends Object
 ```
 
 Represents attributes of structure element for standard attribute owners.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getEngineAttributes()](#getEngineAttributes--) |  |
-| [getOwner()](#getOwner--) | Gets standard attribute owner. |
-| [getAttribute(AttributeKey key)](#getAttribute-com.aspose.pdf.tagged.logicalstructure.AttributeKey-) | Gets StructureAttribute by AttributeKey. |
-| [hasAttribute(AttributeKey key)](#hasAttribute-com.aspose.pdf.tagged.logicalstructure.AttributeKey-) |  |
-| [setAttribute(StructureAttribute attribute)](#setAttribute-com.aspose.pdf.tagged.logicalstructure.elements.StructureAttribute-) | Sets StructureAttribute into StructureAttributes. |
-### getEngineAttributes() {#getEngineAttributes--}
+| [getAttribute](#getAttribute-com.aspose.pdf.tagged.logicalstructure.AttributeKey-) | Gets StructureAttribute by AttributeKey. |
+| [getEngineAttributes](#getEngineAttributes--) |  |
+| [getOwner](#getOwner--) | Gets standard attribute owner. Value: Standard attribute owner. |
+| [hasAttribute](#hasAttribute-com.aspose.pdf.tagged.logicalstructure.AttributeKey-) |  |
+| [setAttribute](#setAttribute-com.aspose.pdf.tagged.logicalstructure.elements.StructureAttribute-) | Sets StructureAttribute into StructureAttributes. |
+
+### getAttribute {#getAttribute-com.aspose.pdf.tagged.logicalstructure.AttributeKey-}
+Gets StructureAttribute by AttributeKey.
+
+### getEngineAttributes {#getEngineAttributes--}
 ```
-public final IPdfDictionary getEngineAttributes()
+public final com.aspose.pdf.engine.data.IPdfDictionary getEngineAttributes()
 ```
 
 
 
-
-**Returns:**
-[IPdfDictionary](../../com.aspose.pdf.engine.data/ipdfdictionary)
-### getOwner() {#getOwner--}
+### getOwner {#getOwner--}
 ```
 public final AttributeOwnerStandard getOwner()
 ```
 
-
-Gets standard attribute owner.
-
-Value: Standard attribute owner.
+Gets standard attribute owner. Value: Standard attribute owner.
 
 **Returns:**
-[AttributeOwnerStandard](../../com.aspose.pdf.tagged.logicalstructure/attributeownerstandard) - AttributeOwnerStandard instance
-### getAttribute(AttributeKey key) {#getAttribute-com.aspose.pdf.tagged.logicalstructure.AttributeKey-}
-```
-public final StructureAttribute getAttribute(AttributeKey key)
-```
+AttributeOwnerStandard instance
+
+### hasAttribute {#hasAttribute-com.aspose.pdf.tagged.logicalstructure.AttributeKey-}
 
 
-Gets StructureAttribute by AttributeKey.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| key | [AttributeKey](../../com.aspose.pdf.tagged.logicalstructure/attributekey) | AttributeKey. |
-
-**Returns:**
-[StructureAttribute](../../com.aspose.pdf.tagged.logicalstructure.elements/structureattribute) - StructureAttribute instance
-### hasAttribute(AttributeKey key) {#hasAttribute-com.aspose.pdf.tagged.logicalstructure.AttributeKey-}
-```
-public final boolean hasAttribute(AttributeKey key)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| key | [AttributeKey](../../com.aspose.pdf.tagged.logicalstructure/attributekey) |  |
-
-**Returns:**
-boolean
-### setAttribute(StructureAttribute attribute) {#setAttribute-com.aspose.pdf.tagged.logicalstructure.elements.StructureAttribute-}
-```
-public final void setAttribute(StructureAttribute attribute)
-```
-
-
+### setAttribute {#setAttribute-com.aspose.pdf.tagged.logicalstructure.elements.StructureAttribute-}
 Sets StructureAttribute into StructureAttributes.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| attribute | [StructureAttribute](../../com.aspose.pdf.tagged.logicalstructure.elements/structureattribute) | StructureAttribute. |
-

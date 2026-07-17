@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/paragraphs/remove/
 Remove paragraph from collection.
 
 ```cpp
-void Aspose::Pdf::Paragraphs::Remove(System::SharedPtr<BaseParagraph> paragraph)
+void Aspose::Pdf::Paragraphs::Remove(const System::SharedPtr<BaseParagraph> &paragraph)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| paragraph | System::SharedPtr\<BaseParagraph\> | The paragraph. |
+| paragraph | const System::SharedPtr\<BaseParagraph\>\& | The paragraph. |
 
 ## See Also
 

@@ -25,9 +25,9 @@ template<typename SrcType,typename DstType> static void System::Array<T>::Constr
 | Parameter | Type | Description |
 | --- | --- | --- |
 | srcArray | const ArrayPtr\<SrcType\>\& | Source array |
-| srcIndex | int64_t | Index in the source array designating the beginning of the range of items to copy |
+| srcIndex | int64_t | [Index](../../index/) in the source array designating the beginning of the range of items to copy |
 | dstArray | const ArrayPtr\<DstType\>\& | Destination array |
-| dstIndex | int64_t | Index in destination array to start inserting copied items at |
+| dstIndex | int64_t | [Index](../../index/) in destination array to start inserting copied items at |
 | count | int64_t | The number of elements to copy |
 ## Remarks
 

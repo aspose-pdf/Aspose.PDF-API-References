@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.lowcode/streamdatasource/streamdatasource/
 Initializes new stream data source with the specified stream object.
 
 ```cpp
-Aspose::Pdf::LowCode::StreamDataSource::StreamDataSource(System::SharedPtr<System::IO::Stream> data)
+Aspose::Pdf::LowCode::StreamDataSource::StreamDataSource(const System::SharedPtr<System::IO::Stream> &data)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| data | System::SharedPtr\<System::IO::Stream\> | Stream object |
+| data | const System::SharedPtr\<System::IO::Stream\>\& | Stream object |
 
 ## See Also
 

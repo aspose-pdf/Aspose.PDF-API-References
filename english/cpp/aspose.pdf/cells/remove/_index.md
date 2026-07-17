@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/cells/remove/
 Remove cell set from collection.
 
 ```cpp
-void Aspose::Pdf::Cells::Remove(System::SharedPtr<Cell> cell)
+void Aspose::Pdf::Cells::Remove(const System::SharedPtr<Cell> &cell)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| cell | System::SharedPtr\<Cell\> | The cell object. |
+| cell | const System::SharedPtr\<Cell\>\& | The cell object. |
 
 ## See Also
 

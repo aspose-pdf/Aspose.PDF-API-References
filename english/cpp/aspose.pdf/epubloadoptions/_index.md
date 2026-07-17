@@ -25,8 +25,8 @@ class EpubLoadOptions : public Aspose::Pdf::LoadOptions
 | [get_CustomCss](./get_customcss/)() const | Gets the custom Css to apply when opening the Epub document. |
 | [get_Margin](./get_margin/)() const | Gets reference on object that represent marging info. |
 | [get_PageSize](./get_pagesize/)() const | Gets output page size for import. |
-| [set_CustomCss](./set_customcss/)(System::String) | Sets the custom Css to apply when opening the Epub document. |
-| [set_Margin](./set_margin/)(System::SharedPtr\<MarginInfo\>) | Gets reference on object that represent marging info. |
+| [set_CustomCss](./set_customcss/)(const System::String\&) | Sets the custom Css to apply when opening the Epub document. |
+| [set_Margin](./set_margin/)(const System::SharedPtr\<MarginInfo\>\&) | Gets reference on object that represent marging info. |
 ## See Also
 
 * Class [LoadOptions](../loadoptions/)

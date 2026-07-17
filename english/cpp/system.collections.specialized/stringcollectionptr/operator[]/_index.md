@@ -19,7 +19,7 @@ System::String & System::Collections::Specialized::StringCollectionPtr::operator
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| idx | int | Index to get element at. |
+| idx | int | [Index](../../../system/index/) to get element at. |
 
 ### ReturnValue
 

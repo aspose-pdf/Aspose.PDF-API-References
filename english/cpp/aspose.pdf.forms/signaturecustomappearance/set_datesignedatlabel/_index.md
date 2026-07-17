@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signaturecustomappearance/set_datesignedatlabel/
 Gets/sets date signed label. Default value: "Date".
 
 ```cpp
-void Aspose::Pdf::Forms::SignatureCustomAppearance::set_DateSignedAtLabel(System::String value)
+void Aspose::Pdf::Forms::SignatureCustomAppearance::set_DateSignedAtLabel(const System::String &value)
 ```
 
 ## See Also

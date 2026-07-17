@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/richmediaannotation/set_customplayer/
 Sets or gets custom flash player to play video/audio data.
 
 ```cpp
-void Aspose::Pdf::Annotations::RichMediaAnnotation::set_CustomPlayer(System::SharedPtr<System::IO::Stream> value)
+void Aspose::Pdf::Annotations::RichMediaAnnotation::set_CustomPlayer(const System::SharedPtr<System::IO::Stream> &value)
 ```
 
 ## See Also

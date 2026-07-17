@@ -7,23 +7,23 @@ type: docs
 weight: 6700
 url: /cpp/aspose.pdf.facades/pdffileeditor/trymakebooklet/
 ---
-## PdfFileEditor::TryMakeBooklet(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<PageSize\>, System::ArrayPtr\<int32_t\>, System::ArrayPtr\<int32_t\>, System::SharedPtr\<System::Web::HttpResponse\>) method
+## PdfFileEditor::TryMakeBooklet(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<PageSize\>\&, const System::ArrayPtr\<int32_t\>\&, const System::ArrayPtr\<int32_t\>\&, const System::SharedPtr\<System::Web::HttpResponse\>\&) method
 
 
 Make booklet from PDF file and stores it into HttpResponse.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::TryMakeBooklet(System::SharedPtr<System::IO::Stream> inputStream, System::SharedPtr<PageSize> pageSize, System::ArrayPtr<int32_t> leftPages, System::ArrayPtr<int32_t> rightPages, System::SharedPtr<System::Web::HttpResponse> response)
+bool Aspose::Pdf::Facades::PdfFileEditor::TryMakeBooklet(const System::SharedPtr<System::IO::Stream> &inputStream, const System::SharedPtr<PageSize> &pageSize, const System::ArrayPtr<int32_t> &leftPages, const System::ArrayPtr<int32_t> &rightPages, const System::SharedPtr<System::Web::HttpResponse> &response)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | System::SharedPtr\<System::IO::Stream\> | Input document stream. |
-| pageSize | System::SharedPtr\<PageSize\> | Desired page size. |
-| leftPages | System::ArrayPtr\<int32_t\> | Array of page numbers which will be placed in left. |
-| rightPages | System::ArrayPtr\<int32_t\> | Array of page numbers which will b eplaced in right. |
-| response | System::SharedPtr\<System::Web::HttpResponse\> | HttpResponse object. |
+| inputStream | const System::SharedPtr\<System::IO::Stream\>\& | Input document stream. |
+| pageSize | const System::SharedPtr\<PageSize\>\& | Desired page size. |
+| leftPages | const System::ArrayPtr\<int32_t\>\& | Array of page numbers which will be placed in left. |
+| rightPages | const System::ArrayPtr\<int32_t\>\& | Array of page numbers which will b eplaced in right. |
+| response | const System::SharedPtr\<System::Web::HttpResponse\>\& | HttpResponse object. |
 
 ### ReturnValue
 
@@ -43,21 +43,21 @@ The TryMakeBooklet method is like the MakeBooklet method, except the TryMakeBook
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::TryMakeBooklet(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<PageSize\>, System::SharedPtr\<System::Web::HttpResponse\>) method
+## PdfFileEditor::TryMakeBooklet(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<PageSize\>\&, const System::SharedPtr\<System::Web::HttpResponse\>\&) method
 
 
 Makes booklet from source file and stores result into HttpResponse.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::TryMakeBooklet(System::SharedPtr<System::IO::Stream> inputStream, System::SharedPtr<PageSize> pageSize, System::SharedPtr<System::Web::HttpResponse> response)
+bool Aspose::Pdf::Facades::PdfFileEditor::TryMakeBooklet(const System::SharedPtr<System::IO::Stream> &inputStream, const System::SharedPtr<PageSize> &pageSize, const System::SharedPtr<System::Web::HttpResponse> &response)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | System::SharedPtr\<System::IO::Stream\> | Input document stream. |
-| pageSize | System::SharedPtr\<PageSize\> | Desired page size in output file. |
-| response | System::SharedPtr\<System::Web::HttpResponse\> | Respose object where resut will be saved. |
+| inputStream | const System::SharedPtr\<System::IO::Stream\>\& | Input document stream. |
+| pageSize | const System::SharedPtr\<PageSize\>\& | Desired page size in output file. |
+| response | const System::SharedPtr\<System::Web::HttpResponse\>\& | Respose object where resut will be saved. |
 
 ### ReturnValue
 
@@ -76,20 +76,20 @@ The TryMakeBooklet method is like the MakeBooklet method, except the TryMakeBook
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::TryMakeBooklet(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::IO::Stream\>) method
+## PdfFileEditor::TryMakeBooklet(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Makes booklet from the InputStream to outputStream.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::TryMakeBooklet(System::SharedPtr<System::IO::Stream> inputStream, System::SharedPtr<System::IO::Stream> outputStream)
+bool Aspose::Pdf::Facades::PdfFileEditor::TryMakeBooklet(const System::SharedPtr<System::IO::Stream> &inputStream, const System::SharedPtr<System::IO::Stream> &outputStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | System::SharedPtr\<System::IO::Stream\> | Input pdf stream. |
-| outputStream | System::SharedPtr\<System::IO::Stream\> | output pdf stream. |
+| inputStream | const System::SharedPtr\<System::IO::Stream\>\& | Input pdf stream. |
+| outputStream | const System::SharedPtr\<System::IO::Stream\>\& | output pdf stream. |
 
 ### ReturnValue
 
@@ -106,22 +106,22 @@ The TryMakeBooklet method is like the MakeBooklet method, except the TryMakeBook
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::TryMakeBooklet(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::IO::Stream\>, System::ArrayPtr\<int32_t\>, System::ArrayPtr\<int32_t\>) method
+## PdfFileEditor::TryMakeBooklet(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::IO::Stream\>\&, const System::ArrayPtr\<int32_t\>\&, const System::ArrayPtr\<int32_t\>\&) method
 
 
 Makes customized booklet from the firstInputStream to outputStream.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::TryMakeBooklet(System::SharedPtr<System::IO::Stream> inputStream, System::SharedPtr<System::IO::Stream> outputStream, System::ArrayPtr<int32_t> leftPages, System::ArrayPtr<int32_t> rightPages)
+bool Aspose::Pdf::Facades::PdfFileEditor::TryMakeBooklet(const System::SharedPtr<System::IO::Stream> &inputStream, const System::SharedPtr<System::IO::Stream> &outputStream, const System::ArrayPtr<int32_t> &leftPages, const System::ArrayPtr<int32_t> &rightPages)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | System::SharedPtr\<System::IO::Stream\> | The input stream. |
-| outputStream | System::SharedPtr\<System::IO::Stream\> | output pdf stream. |
-| leftPages | System::ArrayPtr\<int32_t\> | The left pages. |
-| rightPages | System::ArrayPtr\<int32_t\> | The right pages. |
+| inputStream | const System::SharedPtr\<System::IO::Stream\>\& | The input stream. |
+| outputStream | const System::SharedPtr\<System::IO::Stream\>\& | output pdf stream. |
+| leftPages | const System::ArrayPtr\<int32_t\>\& | The left pages. |
+| rightPages | const System::ArrayPtr\<int32_t\>\& | The right pages. |
 
 ### ReturnValue
 
@@ -139,21 +139,21 @@ The TryMakeBooklet method is like the MakeBooklet method, except the TryMakeBook
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::TryMakeBooklet(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<PageSize\>) method
+## PdfFileEditor::TryMakeBooklet(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<PageSize\>\&) method
 
 
 Makes booklet from the input stream and save result into output stream.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::TryMakeBooklet(System::SharedPtr<System::IO::Stream> inputStream, System::SharedPtr<System::IO::Stream> outputStream, System::SharedPtr<PageSize> pageSize)
+bool Aspose::Pdf::Facades::PdfFileEditor::TryMakeBooklet(const System::SharedPtr<System::IO::Stream> &inputStream, const System::SharedPtr<System::IO::Stream> &outputStream, const System::SharedPtr<PageSize> &pageSize)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | System::SharedPtr\<System::IO::Stream\> | Input PDF stream. |
-| outputStream | System::SharedPtr\<System::IO::Stream\> | output pdf stream. |
-| pageSize | System::SharedPtr\<PageSize\> | The page size of the output pdf file. |
+| inputStream | const System::SharedPtr\<System::IO::Stream\>\& | Input PDF stream. |
+| outputStream | const System::SharedPtr\<System::IO::Stream\>\& | output pdf stream. |
+| pageSize | const System::SharedPtr\<PageSize\>\& | The page size of the output pdf file. |
 
 ### ReturnValue
 
@@ -171,23 +171,23 @@ The TryMakeBooklet method is like the MakeBooklet method, except the TryMakeBook
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::TryMakeBooklet(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<PageSize\>, System::ArrayPtr\<int32_t\>, System::ArrayPtr\<int32_t\>) method
+## PdfFileEditor::TryMakeBooklet(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<PageSize\>\&, const System::ArrayPtr\<int32_t\>\&, const System::ArrayPtr\<int32_t\>\&) method
 
 
 Makes booklet from the firstInputStream to outputStream.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::TryMakeBooklet(System::SharedPtr<System::IO::Stream> inputStream, System::SharedPtr<System::IO::Stream> outputStream, System::SharedPtr<PageSize> pageSize, System::ArrayPtr<int32_t> leftPages, System::ArrayPtr<int32_t> rightPages)
+bool Aspose::Pdf::Facades::PdfFileEditor::TryMakeBooklet(const System::SharedPtr<System::IO::Stream> &inputStream, const System::SharedPtr<System::IO::Stream> &outputStream, const System::SharedPtr<PageSize> &pageSize, const System::ArrayPtr<int32_t> &leftPages, const System::ArrayPtr<int32_t> &rightPages)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | System::SharedPtr\<System::IO::Stream\> | The input stream. |
-| outputStream | System::SharedPtr\<System::IO::Stream\> | output pdf stream. |
-| pageSize | System::SharedPtr\<PageSize\> | The page size of the output pdf file. |
-| leftPages | System::ArrayPtr\<int32_t\> | The left pages. |
-| rightPages | System::ArrayPtr\<int32_t\> | The right pages. |
+| inputStream | const System::SharedPtr\<System::IO::Stream\>\& | The input stream. |
+| outputStream | const System::SharedPtr\<System::IO::Stream\>\& | output pdf stream. |
+| pageSize | const System::SharedPtr\<PageSize\>\& | The page size of the output pdf file. |
+| leftPages | const System::ArrayPtr\<int32_t\>\& | The left pages. |
+| rightPages | const System::ArrayPtr\<int32_t\>\& | The right pages. |
 
 ### ReturnValue
 
@@ -206,23 +206,23 @@ The TryMakeBooklet method is like the MakeBooklet method, except the TryMakeBook
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::TryMakeBooklet(System::String, System::SharedPtr\<PageSize\>, System::ArrayPtr\<int32_t\>, System::ArrayPtr\<int32_t\>, System::SharedPtr\<System::Web::HttpResponse\>) method
+## PdfFileEditor::TryMakeBooklet(const System::String\&, const System::SharedPtr\<PageSize\>\&, const System::ArrayPtr\<int32_t\>\&, const System::ArrayPtr\<int32_t\>\&, const System::SharedPtr\<System::Web::HttpResponse\>\&) method
 
 
 Makes booklet from source file and stores result into HttpResponse objects.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::TryMakeBooklet(System::String inputFile, System::SharedPtr<PageSize> pageSize, System::ArrayPtr<int32_t> leftPages, System::ArrayPtr<int32_t> rightPages, System::SharedPtr<System::Web::HttpResponse> response)
+bool Aspose::Pdf::Facades::PdfFileEditor::TryMakeBooklet(const System::String &inputFile, const System::SharedPtr<PageSize> &pageSize, const System::ArrayPtr<int32_t> &leftPages, const System::ArrayPtr<int32_t> &rightPages, const System::SharedPtr<System::Web::HttpResponse> &response)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | System::String | Source file path. |
-| pageSize | System::SharedPtr\<PageSize\> | Desired page size. |
-| leftPages | System::ArrayPtr\<int32_t\> | Aray of page numbers to be placed in left. |
-| rightPages | System::ArrayPtr\<int32_t\> | Array of page numbers to be placed in right. |
-| response | System::SharedPtr\<System::Web::HttpResponse\> | HttpResponse object where result will be stored. |
+| inputFile | const System::String\& | Source file path. |
+| pageSize | const System::SharedPtr\<PageSize\>\& | Desired page size. |
+| leftPages | const System::ArrayPtr\<int32_t\>\& | Aray of page numbers to be placed in left. |
+| rightPages | const System::ArrayPtr\<int32_t\>\& | Array of page numbers to be placed in right. |
+| response | const System::SharedPtr\<System::Web::HttpResponse\>\& | HttpResponse object where result will be stored. |
 
 ### ReturnValue
 
@@ -242,21 +242,21 @@ The TryMakeBooklet method is like the MakeBooklet method, except the TryMakeBook
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::TryMakeBooklet(System::String, System::SharedPtr\<PageSize\>, System::SharedPtr\<System::Web::HttpResponse\>) method
+## PdfFileEditor::TryMakeBooklet(const System::String\&, const System::SharedPtr\<PageSize\>\&, const System::SharedPtr\<System::Web::HttpResponse\>\&) method
 
 
 Makes booklet from source file and stores result into HttpResponse objects.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::TryMakeBooklet(System::String inputFile, System::SharedPtr<PageSize> pageSize, System::SharedPtr<System::Web::HttpResponse> response)
+bool Aspose::Pdf::Facades::PdfFileEditor::TryMakeBooklet(const System::String &inputFile, const System::SharedPtr<PageSize> &pageSize, const System::SharedPtr<System::Web::HttpResponse> &response)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | System::String | Source file path. |
-| pageSize | System::SharedPtr\<PageSize\> | Desired page size in output file. |
-| response | System::SharedPtr\<System::Web::HttpResponse\> | HttpResponse object where result will be stored. |
+| inputFile | const System::String\& | Source file path. |
+| pageSize | const System::SharedPtr\<PageSize\>\& | Desired page size in output file. |
+| response | const System::SharedPtr\<System::Web::HttpResponse\>\& | HttpResponse object where result will be stored. |
 
 ### ReturnValue
 
@@ -275,20 +275,20 @@ The TryMakeBooklet method is like the MakeBooklet method, except the TryMakeBook
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::TryMakeBooklet(System::String, System::String) method
+## PdfFileEditor::TryMakeBooklet(const System::String\&, const System::String\&) method
 
 
 Makes booklet from the input file to output file.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::TryMakeBooklet(System::String inputFile, System::String outputFile)
+bool Aspose::Pdf::Facades::PdfFileEditor::TryMakeBooklet(const System::String &inputFile, const System::String &outputFile)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | System::String | Input pdf file path and name. |
-| outputFile | System::String | Output pdf file path and name. |
+| inputFile | const System::String\& | Input pdf file path and name. |
+| outputFile | const System::String\& | Output pdf file path and name. |
 
 ### ReturnValue
 
@@ -304,22 +304,22 @@ The TryMakeBooklet method is like the MakeBooklet method, except the TryMakeBook
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::TryMakeBooklet(System::String, System::String, System::ArrayPtr\<int32_t\>, System::ArrayPtr\<int32_t\>) method
+## PdfFileEditor::TryMakeBooklet(const System::String\&, const System::String\&, const System::ArrayPtr\<int32_t\>\&, const System::ArrayPtr\<int32_t\>\&) method
 
 
 Makes customized booklet from the firstInputFile to outputFile.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::TryMakeBooklet(System::String inputFile, System::String outputFile, System::ArrayPtr<int32_t> leftPages, System::ArrayPtr<int32_t> rightPages)
+bool Aspose::Pdf::Facades::PdfFileEditor::TryMakeBooklet(const System::String &inputFile, const System::String &outputFile, const System::ArrayPtr<int32_t> &leftPages, const System::ArrayPtr<int32_t> &rightPages)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | System::String | The input file. |
-| outputFile | System::String | Output pdf file path and name. |
-| leftPages | System::ArrayPtr\<int32_t\> | The left pages of the booklet. |
-| rightPages | System::ArrayPtr\<int32_t\> | The right pages of the booklet. |
+| inputFile | const System::String\& | The input file. |
+| outputFile | const System::String\& | Output pdf file path and name. |
+| leftPages | const System::ArrayPtr\<int32_t\>\& | The left pages of the booklet. |
+| rightPages | const System::ArrayPtr\<int32_t\>\& | The right pages of the booklet. |
 
 ### ReturnValue
 
@@ -336,21 +336,21 @@ The TryMakeBooklet method is like the MakeBooklet method, except the TryMakeBook
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::TryMakeBooklet(System::String, System::String, System::SharedPtr\<PageSize\>) method
+## PdfFileEditor::TryMakeBooklet(const System::String\&, const System::String\&, const System::SharedPtr\<PageSize\>\&) method
 
 
 Makes booklet from the inputFile to outputFile.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::TryMakeBooklet(System::String inputFile, System::String outputFile, System::SharedPtr<PageSize> pageSize)
+bool Aspose::Pdf::Facades::PdfFileEditor::TryMakeBooklet(const System::String &inputFile, const System::String &outputFile, const System::SharedPtr<PageSize> &pageSize)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | System::String | Input pdf file path and name. |
-| outputFile | System::String | Output pdf file path and name. |
-| pageSize | System::SharedPtr\<PageSize\> | The page size of the output pdf file. |
+| inputFile | const System::String\& | Input pdf file path and name. |
+| outputFile | const System::String\& | Output pdf file path and name. |
+| pageSize | const System::SharedPtr\<PageSize\>\& | The page size of the output pdf file. |
 
 ### ReturnValue
 
@@ -368,23 +368,23 @@ The TryMakeBooklet method is like the MakeBooklet method, except the TryMakeBook
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::TryMakeBooklet(System::String, System::String, System::SharedPtr\<PageSize\>, System::ArrayPtr\<int32_t\>, System::ArrayPtr\<int32_t\>) method
+## PdfFileEditor::TryMakeBooklet(const System::String\&, const System::String\&, const System::SharedPtr\<PageSize\>\&, const System::ArrayPtr\<int32_t\>\&, const System::ArrayPtr\<int32_t\>\&) method
 
 
 Makes customized booklet from the firstInputFile to outputFile.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::TryMakeBooklet(System::String inputFile, System::String outputFile, System::SharedPtr<PageSize> pageSize, System::ArrayPtr<int32_t> leftPages, System::ArrayPtr<int32_t> rightPages)
+bool Aspose::Pdf::Facades::PdfFileEditor::TryMakeBooklet(const System::String &inputFile, const System::String &outputFile, const System::SharedPtr<PageSize> &pageSize, const System::ArrayPtr<int32_t> &leftPages, const System::ArrayPtr<int32_t> &rightPages)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | System::String | The input file. |
-| outputFile | System::String | Output pdf file path and name. |
-| pageSize | System::SharedPtr\<PageSize\> | The page size of the output pdf file. |
-| leftPages | System::ArrayPtr\<int32_t\> | The left pages. |
-| rightPages | System::ArrayPtr\<int32_t\> | The right pages. |
+| inputFile | const System::String\& | The input file. |
+| outputFile | const System::String\& | Output pdf file path and name. |
+| pageSize | const System::SharedPtr\<PageSize\>\& | The page size of the output pdf file. |
+| leftPages | const System::ArrayPtr\<int32_t\>\& | The left pages. |
+| rightPages | const System::ArrayPtr\<int32_t\>\& | The right pages. |
 
 ### ReturnValue
 

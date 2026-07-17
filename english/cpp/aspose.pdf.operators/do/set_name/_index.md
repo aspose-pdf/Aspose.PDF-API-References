@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/do/set_name/
 Name of XObject argument of the operator.
 
 ```cpp
-void Aspose::Pdf::Operators::Do::set_Name(System::String value)
+void Aspose::Pdf::Operators::Do::set_Name(const System::String &value)
 ```
 
 ## See Also

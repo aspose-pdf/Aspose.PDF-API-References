@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragment/set_footnote/
 Sets the paragraph foot note.(for pdf generation only)
 
 ```cpp
-void Aspose::Pdf::Text::TextFragment::set_FootNote(System::SharedPtr<Note> value)
+void Aspose::Pdf::Text::TextFragment::set_FootNote(const System::SharedPtr<Note> &value)
 ```
 
 ## See Also

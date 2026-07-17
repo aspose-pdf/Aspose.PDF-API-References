@@ -20,7 +20,7 @@ class FileDataSource : public Aspose::Pdf::LowCode::IDataSource
 
 | Method | Description |
 | --- | --- |
-| [FileDataSource](./filedatasource/)(System::String) | Initializes new file data source with the specified path. |
+| [FileDataSource](./filedatasource/)(const System::String\&) | Initializes new file data source with the specified path. |
 | [get_DataType](./get_datatype/)() override | Type of data source (file). |
 | [get_Path](./get_path/)() const | Gets the path to the file of the current data source. |
 ## See Also

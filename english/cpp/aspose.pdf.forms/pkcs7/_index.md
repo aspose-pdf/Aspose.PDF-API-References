@@ -21,9 +21,9 @@ class PKCS7 : public Aspose::Pdf::Forms::Signature
 | Method | Description |
 | --- | --- |
 | [PKCS7](./pkcs7/)() | Initializes new instance of the [PKCS7](./) class. |
-| [PKCS7](./pkcs7/)(System::String, System::String) | Initializes new instance of the [PKCS7](./) class. |
-| [PKCS7](./pkcs7/)(System::SharedPtr\<System::IO::Stream\>, System::String) | Initializes new instance of the [PKCS7](./) class. |
-| [PKCS7](./pkcs7/)(System::SharedPtr\<Aspose::Pdf::TimestampSettings\>) | Inititalizes new instance of the [PKCS7](./) class. |
+| [PKCS7](./pkcs7/)(const System::String\&, const System::String\&) | Initializes new instance of the [PKCS7](./) class. |
+| [PKCS7](./pkcs7/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&) | Initializes new instance of the [PKCS7](./) class. |
+| [PKCS7](./pkcs7/)(const System::SharedPtr\<Aspose::Pdf::TimestampSettings\>\&) | Inititalizes new instance of the [PKCS7](./) class. |
 ## See Also
 
 * Class [Signature](../signature/)

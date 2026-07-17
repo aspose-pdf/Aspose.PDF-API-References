@@ -27,20 +27,20 @@ void Aspose::Pdf::Annotations::MarkupAnnotation::SetReviewState(AnnotationState 
 * Class [MarkupAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## MarkupAnnotation::SetReviewState(AnnotationState, System::String) method
+## MarkupAnnotation::SetReviewState(AnnotationState, const System::String\&) method
 
 
 Sets the review state for an annotation. Marked and Unmarked states are ignored as they do not belong to the Review StateModel. [Note](../../../aspose.pdf/note/), the state stored in other text annotation which has state and statemodel keys.
 
 ```cpp
-void Aspose::Pdf::Annotations::MarkupAnnotation::SetReviewState(AnnotationState state, System::String userName)
+void Aspose::Pdf::Annotations::MarkupAnnotation::SetReviewState(AnnotationState state, const System::String &userName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | state | AnnotationState | Status for assignment. |
-| userName | System::String | The username that appears in the comments header. The name can be the same as the name in the Title of the target annotation or different if the status is set by another user. |
+| userName | const System::String\& | The username that appears in the comments header. The name can be the same as the name in the Title of the target annotation or different if the status is set by another user. |
 
 ## See Also
 

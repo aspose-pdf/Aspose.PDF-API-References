@@ -20,7 +20,7 @@ class Border : public System::Object
 
 | Method | Description |
 | --- | --- |
-| [Border](./border/)(System::SharedPtr\<Annotation\>) | Constructor for border object. |
+| [Border](./border/)(const System::SharedPtr\<Annotation\>\&) | Constructor for border object. |
 | [get_Dash](./get_dash/)() | Gets dash pattern. |
 | [get_Effect](./get_effect/)() const | Gets border effect. |
 | [get_EffectIntensity](./get_effectintensity/)() const | Gets effect intencity. Valid range of value is [0..2]. |
@@ -28,7 +28,7 @@ class Border : public System::Object
 | [get_Style](./get_style/)() | Gets border style. |
 | [get_VCornerRadius](./get_vcornerradius/)() | Gets vertical corner radius. |
 | [get_Width](./get_width/)() | Gets border width. |
-| [set_Dash](./set_dash/)(System::SharedPtr\<Aspose::Pdf::Annotations::Dash\>) | Sets dash pattern. |
+| [set_Dash](./set_dash/)(const System::SharedPtr\<Aspose::Pdf::Annotations::Dash\>\&) | Sets dash pattern. |
 | [set_Effect](./set_effect/)(BorderEffect) | Sets border effect. |
 | [set_EffectIntensity](./set_effectintensity/)(int32_t) | Sets effect intencity. Valid range of value is [0..2]. |
 | [set_HCornerRadius](./set_hcornerradius/)(double) | Sets horizontal corner radius. |

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formeditor/set_response/
 Sets Response object where result of operation will be stored.
 
 ```cpp
-void Aspose::Pdf::Facades::FormEditor::set_Response(System::SharedPtr<System::Web::HttpResponse> value)
+void Aspose::Pdf::Facades::FormEditor::set_Response(const System::SharedPtr<System::Web::HttpResponse> &value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: ValueType
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use System::Collections::Generic::IEnumerable::ValueType typedef of System::Collections::Generic::IEnumerable class in C++.'
 type: docs
-weight: 3900
+weight: 4100
 url: /cpp/system.collections.generic/ienumerable/valuetype/
 ---
 ## ValueType typedef

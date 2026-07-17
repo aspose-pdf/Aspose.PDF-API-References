@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/row/set_cells/
 Gets the cells of the row.
 
 ```cpp
-void Aspose::Pdf::Row::set_Cells(System::SharedPtr<Aspose::Pdf::Cells> value)
+void Aspose::Pdf::Row::set_Cells(const System::SharedPtr<Aspose::Pdf::Cells> &value)
 ```
 
 ## See Also

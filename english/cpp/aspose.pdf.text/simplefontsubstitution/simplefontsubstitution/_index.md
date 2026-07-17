@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.text/simplefontsubstitution/simplefontsubstitution/
 Initializes a new instance of [SimpleFontSubstitution](../) class.
 
 ```cpp
-Aspose::Pdf::Text::SimpleFontSubstitution::SimpleFontSubstitution(System::String originalFontName, System::String substitutionFontName, bool isForcedBySaveOption=false)
+Aspose::Pdf::Text::SimpleFontSubstitution::SimpleFontSubstitution(const System::String &originalFontName, const System::String &substitutionFontName, bool isForcedBySaveOption=false)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| originalFontName | System::String | Original font name. |
-| substitutionFontName | System::String | Substitution font name. |
+| originalFontName | const System::String\& | Original font name. |
+| substitutionFontName | const System::String\& | Substitution font name. |
 | isForcedBySaveOption | bool | Substitution forced by DefaultFontName save option. |
 
 ## See Also

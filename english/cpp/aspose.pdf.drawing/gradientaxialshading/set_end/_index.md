@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/gradientaxialshading/set_end/
 Sets end point.
 
 ```cpp
-void Aspose::Pdf::Drawing::GradientAxialShading::set_End(System::SharedPtr<Point> value)
+void Aspose::Pdf::Drawing::GradientAxialShading::set_End(const System::SharedPtr<Point> &value)
 ```
 
 ## See Also

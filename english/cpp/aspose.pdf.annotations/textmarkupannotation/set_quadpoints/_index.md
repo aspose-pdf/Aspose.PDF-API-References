@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/textmarkupannotation/set_quadpoints/
 Sets an array of points specifying the coordinates of n quadrilaterals. Each quadrilateral encompasses a word or group of contiguous words in the text underlying the annotation.
 
 ```cpp
-void Aspose::Pdf::Annotations::TextMarkupAnnotation::set_QuadPoints(System::ArrayPtr<System::SharedPtr<Point>> value)
+void Aspose::Pdf::Annotations::TextMarkupAnnotation::set_QuadPoints(const System::ArrayPtr<System::SharedPtr<Point>> &value)
 ```
 
 ## See Also

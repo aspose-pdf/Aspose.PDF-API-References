@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/pdfaoptionsbase/set_symbolicfontencodingstrategy/
 Sets the strategy for encoding symbolic fonts when converting to PDF/A format.
 
 ```cpp
-void Aspose::Pdf::LowCode::PdfAOptionsBase::set_SymbolicFontEncodingStrategy(System::SharedPtr<PdfASymbolicFontEncodingStrategy> value)
+void Aspose::Pdf::LowCode::PdfAOptionsBase::set_SymbolicFontEncodingStrategy(const System::SharedPtr<PdfASymbolicFontEncodingStrategy> &value)
 ```
 
 ## Remarks

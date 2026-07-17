@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/registrationmarkannotation/registrationmarkanno
 Initializes a new instance of the [RegistrationMarkAnnotation](../) class on the given page in the given location.
 
 ```cpp
-Aspose::Pdf::Annotations::RegistrationMarkAnnotation::RegistrationMarkAnnotation(System::SharedPtr<Aspose::Pdf::Page> page, PrinterMarkSidePosition position)
+Aspose::Pdf::Annotations::RegistrationMarkAnnotation::RegistrationMarkAnnotation(const System::SharedPtr<Aspose::Pdf::Page> &page, PrinterMarkSidePosition position)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | The page with which the annotation will be associated. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | The page with which the annotation will be associated. |
 | position | PrinterMarkSidePosition | Position of the annotation on the page. |
 
 ## See Also

@@ -1,30 +1,33 @@
 ---
 title: ImportOptions
+linktitle: ImportOptions
 second_title: Aspose.PDF for Java API Reference
 description: ImportOptions type hold level of abstraction on individual import options.
 type: docs
-weight: 177
+weight: 2420
 url: /java/com.aspose.pdf/importoptions/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.ImportOptions
+
 ```
-public abstract class ImportOptions
+public abstract class ImportOptions extends Object
 ```
 
 ImportOptions type hold level of abstraction on individual import options.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getImportFormat()](#getImportFormat--) | Import format. |
-### getImportFormat() {#getImportFormat--}
-```
-public int getImportFormat()
-```
+| [getImportFormat](#getImportFormat--) | Import format. |
 
+### getImportFormat {#getImportFormat--}
+```
+public ImportFormat getImportFormat()
+```
 
 Import format.
 
 **Returns:**
-int - ImportFormat element
+ImportFormat element @see ImportFormat

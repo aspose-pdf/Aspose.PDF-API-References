@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf/paragraphs/insertrange/
 Inserts the elements of a collection into the list at the specified index.
 
 ```cpp
-void Aspose::Pdf::Paragraphs::InsertRange(int32_t index, System::SharedPtr<System::Collections::Generic::IEnumerable<System::SharedPtr<BaseParagraph>>> collection)
+void Aspose::Pdf::Paragraphs::InsertRange(int32_t index, const System::SharedPtr<System::Collections::Generic::IEnumerable<System::SharedPtr<BaseParagraph>>> &collection)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | index | int32_t | Index value. |
-| collection | System::SharedPtr\<System::Collections::Generic::IEnumerable\<System::SharedPtr\<BaseParagraph\>\>\> | [Collection](../../collection/). |
+| collection | const System::SharedPtr\<System::Collections::Generic::IEnumerable\<System::SharedPtr\<BaseParagraph\>\>\>\& | [Collection](../../collection/). |
 
 ## See Also
 

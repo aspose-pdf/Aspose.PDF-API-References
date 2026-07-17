@@ -20,15 +20,15 @@ class XmpPdfAExtensionSchema : public System::Object
 
 | Method | Description |
 | --- | --- |
-| [Add](./add/)(System::SharedPtr\<XmpPdfAExtensionObject\>) | Adds new object into schema. |
-| [Contains](./contains/)(System::SharedPtr\<XmpPdfAExtensionObject\>) | Determines whether obj exists in schema. |
+| [Add](./add/)(const System::SharedPtr\<XmpPdfAExtensionObject\>\&) | Adds new object into schema. |
+| [Contains](./contains/)(const System::SharedPtr\<XmpPdfAExtensionObject\>\&) | Determines whether obj exists in schema. |
 | [get_Description](./get_description/)() const | Gets the schema description. |
 | [get_Objects](./get_objects/)() const | Gets the list of objects (properties, value types). |
-| [GetProperty](./getproperty/)(System::String) | Returns PDF/A property by its name. |
-| [GetSchemaXml](./getschemaxml/)(System::SharedPtr\<System::Xml::XmlDocument\>) | Returns the xml element (tag - li) that represents schema in xml tree. |
-| [GetValuesXml](./getvaluesxml/)(System::SharedPtr\<System::Xml::XmlDocument\>, System::SharedPtr\<System::Xml::XmlElement\>) | Gets the values of properties as xml tree representation. |
-| [Remove](./remove/)(System::SharedPtr\<XmpPdfAExtensionObject\>) | Removes the object from schema. |
-| [XmpPdfAExtensionSchema](./xmppdfaextensionschema/)(System::SharedPtr\<XmpPdfAExtensionSchemaDescription\>) | Initializes new object. |
+| [GetProperty](./getproperty/)(const System::String\&) | Returns PDF/A property by its name. |
+| [GetSchemaXml](./getschemaxml/)(const System::SharedPtr\<System::Xml::XmlDocument\>\&) | Returns the xml element (tag - li) that represents schema in xml tree. |
+| [GetValuesXml](./getvaluesxml/)(const System::SharedPtr\<System::Xml::XmlDocument\>\&, const System::SharedPtr\<System::Xml::XmlElement\>\&) | Gets the values of properties as xml tree representation. |
+| [Remove](./remove/)(const System::SharedPtr\<XmpPdfAExtensionObject\>\&) | Removes the object from schema. |
+| [XmpPdfAExtensionSchema](./xmppdfaextensionschema/)(const System::SharedPtr\<XmpPdfAExtensionSchemaDescription\>\&) | Initializes new object. |
 ## Fields
 
 | Field | Description |

@@ -23,7 +23,7 @@ class MoveToNextLineShowText : public Aspose::Pdf::Operators::TextShowOperator
 | [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_Text](./get_text/)() override | Gets operator text. |
 | [MoveToNextLineShowText](./movetonextlineshowtext/)() | Initializes operator. |
-| [MoveToNextLineShowText](./movetonextlineshowtext/)(System::String) | Initializes operator. |
+| [MoveToNextLineShowText](./movetonextlineshowtext/)(const System::String\&) | Initializes operator. |
 ## See Also
 
 * Class [TextShowOperator](../textshowoperator/)

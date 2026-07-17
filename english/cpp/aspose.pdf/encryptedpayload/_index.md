@@ -20,7 +20,7 @@ class EncryptedPayload : public System::Object
 
 | Method | Description |
 | --- | --- |
-| [EncryptedPayload](./encryptedpayload/)(System::SharedPtr\<FileSpecification\>) | Initialize Encrypted payload instance. |
+| [EncryptedPayload](./encryptedpayload/)(const System::SharedPtr\<FileSpecification\>\&) | Initialize Encrypted payload instance. |
 | [get_Subtype](./get_subtype/)() | Gets subtype. |
 | [get_Type](./get_type/)() | Gets type. |
 | [get_Version](./get_version/)() | Gets version number. |

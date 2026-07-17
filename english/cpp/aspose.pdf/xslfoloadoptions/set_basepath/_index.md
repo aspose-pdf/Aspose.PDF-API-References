@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xslfoloadoptions/set_basepath/
 The base path/url from which are searched relative paths to external resources (if any) referenced in loaded SVG file.
 
 ```cpp
-void Aspose::Pdf::XslFoLoadOptions::set_BasePath(System::String value)
+void Aspose::Pdf::XslFoLoadOptions::set_BasePath(const System::String &value)
 ```
 
 ## See Also

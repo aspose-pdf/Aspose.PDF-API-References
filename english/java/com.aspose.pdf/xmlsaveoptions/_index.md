@@ -1,28 +1,30 @@
 ---
 title: XmlSaveOptions
+linktitle: XmlSaveOptions
 second_title: Aspose.PDF for Java API Reference
 description: Save options for export to Xml format
 type: docs
-weight: 417
+weight: 5650
 url: /java/com.aspose.pdf/xmlsaveoptions/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.SaveOptions](../../com.aspose.pdf/saveoptions)
+java.lang.Object, com.aspose.pdf.SaveOptions com.aspose.pdf.XmlSaveOptions, com.aspose.pdf.SaveOptions, com.aspose.pdf.XmlSaveOptions
+
 ```
 public class XmlSaveOptions extends SaveOptions
 ```
 
 Save options for export to Xml format
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [XmlSaveOptions()](#XmlSaveOptions--) | Constructor |
-### XmlSaveOptions() {#XmlSaveOptions--}
+| [XmlSaveOptions](#XmlSaveOptions--) | Constructor |
+
+### XmlSaveOptions {#XmlSaveOptions--}
 ```
 public XmlSaveOptions()
 ```
 
-
 Constructor
-

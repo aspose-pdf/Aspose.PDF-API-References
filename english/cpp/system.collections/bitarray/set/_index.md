@@ -19,7 +19,7 @@ void System::Collections::BitArray::Set(int index, bool value)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index of bit to set. |
+| index | int | [Index](../../../system/index/) of bit to set. |
 | value | bool | [Boolean](../../../system/boolean/) representation of value being set. |
 
 ## See Also

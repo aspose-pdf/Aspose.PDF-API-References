@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signature/set_reason/
 The reason for the signing, such as (I agree, Pip B.).
 
 ```cpp
-void Aspose::Pdf::Forms::Signature::set_Reason(System::String value)
+void Aspose::Pdf::Forms::Signature::set_Reason(const System::String &value)
 ```
 
 ## See Also

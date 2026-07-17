@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/artifact/set_customtype/
 Gets name of artifact type. May be used if artifact type is non standard.
 
 ```cpp
-void Aspose::Pdf::Artifact::set_CustomType(System::String value)
+void Aspose::Pdf::Artifact::set_CustomType(const System::String &value)
 ```
 
 ## See Also

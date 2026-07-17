@@ -21,7 +21,7 @@ class Rows : public System::Collections::Generic::IEnumerable<System::SharedPtr<
 | Method | Description |
 | --- | --- |
 | [Add](./add/)() | Add row to collection. |
-| [Add](./add/)(System::SharedPtr\<Row\>) | Add row to cellection. |
+| [Add](./add/)(const System::SharedPtr\<Row\>\&) | Add row to cellection. |
 | [begin](./begin/)() | Gets iterator pointing to the first element (if any) of the collection. |
 | [begin](./begin/)() const | Gets iterator pointing to the first element (if any) of the const-qualified instance of the collection. |
 | [cbegin](./cbegin/)() const | Gets iterator pointing to the first const-qualified element (if any) of the collection. |
@@ -32,9 +32,9 @@ class Rows : public System::Collections::Generic::IEnumerable<System::SharedPtr<
 | [get_Count](./get_count/)() | The items count. |
 | [GetEnumerator](./getenumerator/)() override | Gets collection's enumerator. |
 | [idx_get](./idx_get/)(int32_t) | Gets row. |
-| [idx_set](./idx_set/)(int32_t, System::SharedPtr\<Row\>) | Sets row. |
-| [IndexOf](./indexof/)(System::SharedPtr\<Row\>) | Returns index of row in collection. |
-| [Remove](./remove/)(System::SharedPtr\<Row\>) | Remove row from collection. |
+| [idx_set](./idx_set/)(int32_t, const System::SharedPtr\<Row\>\&) | Sets row. |
+| [IndexOf](./indexof/)(const System::SharedPtr\<Row\>\&) | Returns index of row in collection. |
+| [Remove](./remove/)(const System::SharedPtr\<Row\>\&) | Remove row from collection. |
 | [RemoveAt](./removeat/)(int32_t) | Remove row at position from collection. |
 | [RemoveRange](./removerange/)(int32_t, int32_t) | Remove row set from collection. |
 | [Rows](./rows/)() |  |

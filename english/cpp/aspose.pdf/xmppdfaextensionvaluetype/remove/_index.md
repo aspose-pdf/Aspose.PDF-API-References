@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/xmppdfaextensionvaluetype/remove/
 Removes the field from the list of fields.
 
 ```cpp
-void Aspose::Pdf::XmpPdfAExtensionValueType::Remove(System::SharedPtr<XmpPdfAExtensionField> field)
+void Aspose::Pdf::XmpPdfAExtensionValueType::Remove(const System::SharedPtr<XmpPdfAExtensionField> &field)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| field | System::SharedPtr\<XmpPdfAExtensionField\> | The field to remove. |
+| field | const System::SharedPtr\<XmpPdfAExtensionField\>\& | The field to remove. |
 
 ## See Also
 

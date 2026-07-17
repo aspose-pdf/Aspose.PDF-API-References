@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.facades/formeditor/renamefield/
 Change name of the field.
 
 ```cpp
-void Aspose::Pdf::Facades::FormEditor::RenameField(System::String fieldName, System::String newFieldName)
+void Aspose::Pdf::Facades::FormEditor::RenameField(const System::String &fieldName, const System::String &newFieldName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | Old name of the field. |
-| newFieldName | System::String | New name of the field. |
+| fieldName | const System::String\& | Old name of the field. |
+| newFieldName | const System::String\& | New name of the field. |
 
 ## See Also
 

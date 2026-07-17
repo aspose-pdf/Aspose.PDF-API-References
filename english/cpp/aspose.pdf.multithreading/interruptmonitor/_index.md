@@ -25,7 +25,7 @@ class InterruptMonitor : public Aspose::Pdf::Multithreading::IInterruptMonitor
 | static [get_ThreadLocalInstance](./get_threadlocalinstance/)() | Gets the [IInterruptMonitor](../iinterruptmonitor/) instance which is unique for each thread. |
 | [Interrupt](./interrupt/)() override | Sends a request to interrupt operations. |
 | [InterruptMonitor](./interruptmonitor/)() | Initializes a new instance of the [InterruptMonitor](./) class. |
-| static [set_ThreadLocalInstance](./set_threadlocalinstance/)(System::SharedPtr\<IInterruptMonitor\>) | Sets the [IInterruptMonitor](../iinterruptmonitor/) instance which is unique for each thread. |
+| static [set_ThreadLocalInstance](./set_threadlocalinstance/)(const System::SharedPtr\<IInterruptMonitor\>\&) | Sets the [IInterruptMonitor](../iinterruptmonitor/) instance which is unique for each thread. |
 ## See Also
 
 * Class [IInterruptMonitor](../iinterruptmonitor/)

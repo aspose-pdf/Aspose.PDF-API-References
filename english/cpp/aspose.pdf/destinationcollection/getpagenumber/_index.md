@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/destinationcollection/getpagenumber/
 Returns the page number of destination by the name.
 
 ```cpp
-int32_t Aspose::Pdf::DestinationCollection::GetPageNumber(System::String destinameName, bool useCache)
+int32_t Aspose::Pdf::DestinationCollection::GetPageNumber(const System::String &destinameName, bool useCache)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| destinameName | System::String | The name of destination. |
+| destinameName | const System::String\& | The name of destination. |
 | useCache | bool | Determines whether cached version of collection is used or not. |
 
 ### ReturnValue

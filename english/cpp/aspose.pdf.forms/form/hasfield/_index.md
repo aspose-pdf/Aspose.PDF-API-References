@@ -7,19 +7,19 @@ type: docs
 weight: 2600
 url: /cpp/aspose.pdf.forms/form/hasfield/
 ---
-## Form::HasField(System::SharedPtr\<Field\>) method
+## Form::HasField(const System::SharedPtr\<Field\>\&) method
 
 
 Check if the form already has specified field.
 
 ```cpp
-bool Aspose::Pdf::Forms::Form::HasField(System::SharedPtr<Field> field)
+bool Aspose::Pdf::Forms::Form::HasField(const System::SharedPtr<Field> &field)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| field | System::SharedPtr\<Field\> | [Field](../../field/) to check. |
+| field | const System::SharedPtr\<Field\>\& | [Field](../../field/) to check. |
 
 ### ReturnValue
 
@@ -32,19 +32,19 @@ bool Aspose::Pdf::Forms::Form::HasField(System::SharedPtr<Field> field)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Form::HasField(System::String) method
+## Form::HasField(const System::String\&) method
 
 
 Determines if the field with specified name already added to the [Form](../).
 
 ```cpp
-bool Aspose::Pdf::Forms::Form::HasField(System::String fieldName)
+bool Aspose::Pdf::Forms::Form::HasField(const System::String &fieldName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | [Field::PartialName](../) or [Annotation::FullName](../) of the field. |
+| fieldName | const System::String\& | [Field::PartialName](../) or [Annotation::FullName](../) of the field. |
 
 ### ReturnValue
 
@@ -62,19 +62,19 @@ if the specified field name added to [Form](../); otherwise, **false**
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Form::HasField(System::String, bool) method
+## Form::HasField(const System::String\&, bool) method
 
 
 Determines if the field with specified name already added to the [Form](../), with ability to look into children hierarchy of fields.
 
 ```cpp
-bool Aspose::Pdf::Forms::Form::HasField(System::String fieldName, bool searchChildren)
+bool Aspose::Pdf::Forms::Form::HasField(const System::String &fieldName, bool searchChildren)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | [Field::PartialName](../) or [Annotation::FullName](../) of the field. |
+| fieldName | const System::String\& | [Field::PartialName](../) or [Annotation::FullName](../) of the field. |
 | searchChildren | bool | When set to **true**
 
 the whole hierarchy of form fields would be searched for the requested *fieldName*  (note that in this case the [Annotation::FullName](../) of the required field should be passed as *fieldName* ). |

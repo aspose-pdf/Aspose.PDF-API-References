@@ -1,98 +1,77 @@
 ---
 title: SetLineJoin
+linktitle: SetLineJoin
 second_title: Aspose.PDF for Java API Reference
-description: Class representing j operator set line join style.
+description: Class representing j operator (set line join style). @see LineJoin
 type: docs
-weight: 76
+weight: 680
 url: /java/com.aspose.pdf.operators/setlinejoin/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.Operator](../../com.aspose.pdf/operator)
+java.lang.Object, com.aspose.pdf.Operator com.aspose.pdf.operators.SetLineJoin, com.aspose.pdf.Operator, com.aspose.pdf.operators.SetLineJoin
+
 ```
 public class SetLineJoin extends Operator
 ```
 
-Class representing j operator (set line join style).
+Class representing j operator (set line join style). @see LineJoin
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [SetLineJoin()](#SetLineJoin--) | Initializes operator. |
-| [SetLineJoin(int join)](#SetLineJoin-int-) |  |
-| [SetLineJoin(int index, ICommand command)](#SetLineJoin-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
+| [SetLineJoin](#SetLineJoin--) | Initializes operator. |
+| [SetLineJoin](#SetLineJoin-int-) |  |
+| [SetLineJoin](#SetLineJoin-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Initializes operator. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getJoin()](#getJoin--) |  |
-| [setJoin(int value)](#setJoin-int-) |  |
-| [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
-### SetLineJoin() {#SetLineJoin--}
+| [accept](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
+| [getJoin](#getJoin--) |  |
+| [setJoin](#setJoin-int-) |  |
+
+### SetLineJoin {#SetLineJoin--}
 ```
 public SetLineJoin()
 ```
 
-
 Initializes operator.
 
-### SetLineJoin(int join) {#SetLineJoin-int-}
+### SetLineJoin {#SetLineJoin-int-}
 ```
 public SetLineJoin(int join)
 ```
 
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| join | int |  |
-
-### SetLineJoin(int index, ICommand command) {#SetLineJoin-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public SetLineJoin(int index, ICommand command)
-```
-
-
-Constructor for operator class.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
+| join |  |  |
 
-### getJoin() {#getJoin--}
+### SetLineJoin {#SetLineJoin-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+Initializes operator.
+
+### accept {#accept-com.aspose.pdf.IOperatorSelector-}
+Accepts visitor object to process operator.
+
+### getJoin {#getJoin--}
 ```
 public final int getJoin()
 ```
 
 
 
-
-**Returns:**
-int
-### setJoin(int value) {#setJoin-int-}
+### setJoin {#setJoin-int-}
 ```
 public final void setJoin(int value)
 ```
 
 
 
-
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int |  |
-
-### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
-```
-public void accept(IOperatorSelector visitor)
-```
-
-
-Accepts visitor object to process operator.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| visitor | [IOperatorSelector](../../com.aspose.pdf/ioperatorselector) | Visitor object. |
-
+| value |  |  |

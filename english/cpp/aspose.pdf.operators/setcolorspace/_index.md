@@ -22,8 +22,8 @@ class SetColorSpace : public Aspose::Pdf::Operator
 | --- | --- |
 | [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_Name](./get_name/)() const | Gets color space name. |
-| [set_Name](./set_name/)(System::String) | Sets color space name. |
-| [SetColorSpace](./setcolorspace/)(System::String) | Initializes operator. |
+| [set_Name](./set_name/)(const System::String\&) | Sets color space name. |
+| [SetColorSpace](./setcolorspace/)(const System::String\&) | Initializes operator. |
 ## See Also
 
 * Class [Operator](../../aspose.pdf/operator/)

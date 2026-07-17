@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xpssaveoptions/set_defaultfont/
 Gets/sets the default font name. Used if the embedded font name is not found in the system.
 
 ```cpp
-void Aspose::Pdf::XpsSaveOptions::set_DefaultFont(System::String value)
+void Aspose::Pdf::XpsSaveOptions::set_DefaultFont(const System::String &value)
 ```
 
 ## See Also

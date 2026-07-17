@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/graph/set_border/
 Sets the border.
 
 ```cpp
-void Aspose::Pdf::Drawing::Graph::set_Border(System::SharedPtr<BorderInfo> value)
+void Aspose::Pdf::Drawing::Graph::set_Border(const System::SharedPtr<BorderInfo> &value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/bookmark/set_remotefile/
 Sets the file (path) which is required for "GoToR" action of bookmark.
 
 ```cpp
-void Aspose::Pdf::Facades::Bookmark::set_RemoteFile(System::String value)
+void Aspose::Pdf::Facades::Bookmark::set_RemoteFile(const System::String &value)
 ```
 
 ## See Also

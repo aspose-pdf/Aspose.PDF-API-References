@@ -22,7 +22,7 @@ class ResizeOptions : public Aspose::Pdf::LowCode::OrganizerBaseOptions
 | --- | --- |
 | [get_PageSize](./get_pagesize/)() const | Gets new page size. |
 | [ResizeOptions](./resizeoptions/)() | Initializes new instance of the [ResizeOptions](./) object with default options. |
-| [set_PageSize](./set_pagesize/)(System::SharedPtr\<Aspose::Pdf::PageSize\>) | Sets new page size. |
+| [set_PageSize](./set_pagesize/)(const System::SharedPtr\<Aspose::Pdf::PageSize\>\&) | Sets new page size. |
 ## See Also
 
 * Class [OrganizerBaseOptions](../organizerbaseoptions/)

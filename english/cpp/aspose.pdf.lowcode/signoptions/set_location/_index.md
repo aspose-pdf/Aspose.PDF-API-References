@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/signoptions/set_location/
 The location of signature.
 
 ```cpp
-void Aspose::Pdf::LowCode::SignOptions::set_Location(System::String value)
+void Aspose::Pdf::LowCode::SignOptions::set_Location(const System::String &value)
 ```
 
 ## See Also

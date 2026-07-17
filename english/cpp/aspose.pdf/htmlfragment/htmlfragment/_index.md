@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/htmlfragment/htmlfragment/
 Initializes a new instance of the [HtmlFragment](../) class.
 
 ```cpp
-Aspose::Pdf::HtmlFragment::HtmlFragment(System::String text)
+Aspose::Pdf::HtmlFragment::HtmlFragment(const System::String &text)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | System::String | The fragment text |
+| text | const System::String\& | The fragment text |
 
 ## See Also
 

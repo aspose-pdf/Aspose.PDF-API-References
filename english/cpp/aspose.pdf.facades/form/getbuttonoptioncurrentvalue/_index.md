@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/form/getbuttonoptioncurrentvalue/
 Returns the current value for radio button option fields.
 
 ```cpp
-System::String Aspose::Pdf::Facades::Form::GetButtonOptionCurrentValue(System::String fieldName)
+System::String Aspose::Pdf::Facades::Form::GetButtonOptionCurrentValue(const System::String &fieldName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | Field Name |
+| fieldName | const System::String\& | Field Name |
 
 ### ReturnValue
 

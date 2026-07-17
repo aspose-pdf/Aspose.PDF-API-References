@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textparagraph/set_position/
 Sets position of the paragraph.
 
 ```cpp
-void Aspose::Pdf::Text::TextParagraph::set_Position(System::SharedPtr<Aspose::Pdf::Text::Position> value)
+void Aspose::Pdf::Text::TextParagraph::set_Position(const System::SharedPtr<Aspose::Pdf::Text::Position> &value)
 ```
 
 ## See Also

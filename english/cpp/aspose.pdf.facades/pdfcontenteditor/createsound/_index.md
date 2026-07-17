@@ -13,17 +13,17 @@ url: /cpp/aspose.pdf.facades/pdfcontenteditor/createsound/
 Creates Sound [Annotations](../../../aspose.pdf.annotations/).
 
 ```cpp
-void Aspose::Pdf::Facades::PdfContentEditor::CreateSound(System::Drawing::Rectangle rect, System::String filePath, System::String name, int32_t page, System::String rate)
+void Aspose::Pdf::Facades::PdfContentEditor::CreateSound(System::Drawing::Rectangle rect, const System::String &filePath, const System::String &name, int32_t page, const System::String &rate)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rect | System::Drawing::Rectangle | The annotation rectangle defining the location of the annotation on the page. |
-| filePath | System::String | The file path of sound file. |
-| name | System::String | The name of an icon to be used in displaying the annotation,include:Speaker and Mic. |
+| filePath | const System::String\& | The file path of sound file. |
+| name | const System::String\& | The name of an icon to be used in displaying the annotation,include:Speaker and Mic. |
 | page | int32_t | The page in which the Sound annotation is created. |
-| rate | System::String | The sampling rate, in samples per second. |
+| rate | const System::String\& | The sampling rate, in samples per second. |
 
 ## See Also
 

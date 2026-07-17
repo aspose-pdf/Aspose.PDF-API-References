@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/javascriptaction/set_script/
 Sets javascript code.
 
 ```cpp
-void Aspose::Pdf::Annotations::JavascriptAction::set_Script(System::String value)
+void Aspose::Pdf::Annotations::JavascriptAction::set_Script(const System::String &value)
 ```
 
 ## See Also

@@ -28,19 +28,19 @@ The new cell
 * Class [Cells](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Cells::Add(System::SharedPtr\<Cell\>) method
+## Cells::Add(const System::SharedPtr\<Cell\>\&) method
 
 
 Add cell to collection.
 
 ```cpp
-void Aspose::Pdf::Cells::Add(System::SharedPtr<Cell> cell)
+void Aspose::Pdf::Cells::Add(const System::SharedPtr<Cell> &cell)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| cell | System::SharedPtr\<Cell\> | The cell to collection. |
+| cell | const System::SharedPtr\<Cell\>\& | The cell to collection. |
 
 ## See Also
 
@@ -49,19 +49,19 @@ void Aspose::Pdf::Cells::Add(System::SharedPtr<Cell> cell)
 * Class [Cells](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Cells::Add(System::SharedPtr\<Text::TextFragment\>) method
+## Cells::Add(const System::SharedPtr\<Text::TextFragment\>\&) method
 
 
 Add cell to collection.
 
 ```cpp
-System::SharedPtr<Cell> Aspose::Pdf::Cells::Add(System::SharedPtr<Text::TextFragment> textFragment)
+System::SharedPtr<Cell> Aspose::Pdf::Cells::Add(const System::SharedPtr<Text::TextFragment> &textFragment)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| textFragment | System::SharedPtr\<Text::TextFragment\> | The text fragment for cell. |
+| textFragment | const System::SharedPtr\<Text::TextFragment\>\& | The text fragment for cell. |
 
 ### ReturnValue
 
@@ -75,19 +75,19 @@ The new cell
 * Class [Cells](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Cells::Add(System::String) method
+## Cells::Add(const System::String\&) method
 
 
 Add cell to collection.
 
 ```cpp
-System::SharedPtr<Cell> Aspose::Pdf::Cells::Add(System::String text)
+System::SharedPtr<Cell> Aspose::Pdf::Cells::Add(const System::String &text)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | System::String | The text for cell. |
+| text | const System::String\& | The text for cell. |
 
 ### ReturnValue
 
@@ -101,20 +101,20 @@ The new cell
 * Class [Cells](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Cells::Add(System::String, System::SharedPtr\<Text::TextState\>) method
+## Cells::Add(const System::String\&, const System::SharedPtr\<Text::TextState\>\&) method
 
 
 Add cell to collection.
 
 ```cpp
-System::SharedPtr<Cell> Aspose::Pdf::Cells::Add(System::String text, System::SharedPtr<Text::TextState> ts)
+System::SharedPtr<Cell> Aspose::Pdf::Cells::Add(const System::String &text, const System::SharedPtr<Text::TextState> &ts)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | System::String | The text for cell. |
-| ts | System::SharedPtr\<Text::TextState\> | The text state. |
+| text | const System::String\& | The text for cell. |
+| ts | const System::SharedPtr\<Text::TextState\>\& | The text state. |
 
 ### ReturnValue
 

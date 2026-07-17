@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/xfdfreader/getelements/
 Parses XFDF file and returns information as hashtable.
 
 ```cpp
-static System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::String>> Aspose::Pdf::Annotations::XfdfReader::GetElements(System::SharedPtr<System::Xml::XmlReader> reader)
+static System::SharedPtr<System::Collections::Generic::Dictionary<System::String, System::String>> Aspose::Pdf::Annotations::XfdfReader::GetElements(const System::SharedPtr<System::Xml::XmlReader> &reader)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| reader | System::SharedPtr\<System::Xml::XmlReader\> | XmlReader for the source file. |
+| reader | const System::SharedPtr\<System::Xml::XmlReader\>\& | XmlReader for the source file. |
 
 ### ReturnValue
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/webhyperlink/set_url/
 Sets the web url.
 
 ```cpp
-void Aspose::Pdf::WebHyperlink::set_Url(System::String value)
+void Aspose::Pdf::WebHyperlink::set_Url(const System::String &value)
 ```
 
 ## See Also

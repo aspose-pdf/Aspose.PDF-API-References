@@ -21,7 +21,7 @@ class NamedDestination : public Aspose::Pdf::Annotations::IAppointment
 | Method | Description |
 | --- | --- |
 | [get_Name](./get_name/)() | Gets the name of named destination. |
-| [NamedDestination](./nameddestination/)(System::SharedPtr\<Document\>, System::String) | Create named destination. |
+| [NamedDestination](./nameddestination/)(const System::SharedPtr\<Document\>\&, const System::String\&) | Create named destination. |
 | [ToString](./tostring/)() const override | Converts destination to string value. |
 ## See Also
 

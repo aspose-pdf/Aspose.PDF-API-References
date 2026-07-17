@@ -20,11 +20,11 @@ class PDF3DCrossSectionArray : public System::Object
 
 | Method | Description |
 | --- | --- |
-| [Add](./add/)(System::SharedPtr\<PDF3DCrossSection\>) | Adds the specified cross section to views array . |
+| [Add](./add/)(const System::SharedPtr\<PDF3DCrossSection\>\&) | Adds the specified cross section to views array . |
 | [get_Count](./get_count/)() | Gets the cross section count. |
 | [idx_get](./idx_get/)(int32_t) | Gets the [PDF3DCrossSection](../pdf3dcrosssection/) at the specified index. |
-| [idx_set](./idx_set/)(int32_t, System::SharedPtr\<PDF3DCrossSection\>) | Sets the [PDF3DCrossSection](../pdf3dcrosssection/) at the specified index. |
-| [PDF3DCrossSectionArray](./pdf3dcrosssectionarray/)(System::SharedPtr\<Document\>) | Initializes a new instance of the [PDF3DCrossSectionArray](./) class. |
+| [idx_set](./idx_set/)(int32_t, const System::SharedPtr\<PDF3DCrossSection\>\&) | Sets the [PDF3DCrossSection](../pdf3dcrosssection/) at the specified index. |
+| [PDF3DCrossSectionArray](./pdf3dcrosssectionarray/)(const System::SharedPtr\<Document\>\&) | Initializes a new instance of the [PDF3DCrossSectionArray](./) class. |
 | [RemoveAll](./removeall/)() | Removes all cross section from array. |
 | [RemoveAt](./removeat/)(int32_t) | Removes cross section from array at specified index. |
 ## See Also

@@ -19,7 +19,7 @@ virtual T System::Array<T>::idx_get(int index) const override
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index of the item to be returned |
+| index | int | [Index](../../index/) of the item to be returned |
 
 ### ReturnValue
 

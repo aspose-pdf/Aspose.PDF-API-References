@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/xmpvalue/to_string/
 Converts [XmpValue](../) into string.
 
 ```cpp
-static System::String Aspose::Pdf::XmpValue::to_String(System::SharedPtr<XmpValue> value)
+static System::String Aspose::Pdf::XmpValue::to_String(const System::SharedPtr<XmpValue> &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | System::SharedPtr\<XmpValue\> | Value to convert. |
+| value | const System::SharedPtr\<XmpValue\>\& | Value to convert. |
 
 ### ReturnValue
 

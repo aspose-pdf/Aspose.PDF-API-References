@@ -4,7 +4,7 @@ linktitle: LINQ_Min
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use LINQ_Min method of System::Collections::Generic::IEnumerable class in C++.'
 type: docs
-weight: 2100
+weight: 2200
 url: /cpp/system.collections.generic/ienumerable/linq_min/
 ---
 ## IEnumerable::LINQ_Min(const Func\<Source, ResultType\>\&) method

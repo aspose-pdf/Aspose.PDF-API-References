@@ -21,7 +21,7 @@ class TextPlaceOperator : public Aspose::Pdf::Operators::TextOperator
 | Method | Description |
 | --- | --- |
 | [TextPlaceOperator](./textplaceoperator/)() | Initializes [TextPlaceOperator](./). |
-| [TextPlaceOperator](./textplaceoperator/)(System::SharedPtr\<Facades::TextProperties\>) | Initializes [TextPlaceOperator](./) which accepts TextProperties. |
+| [TextPlaceOperator](./textplaceoperator/)(const System::SharedPtr\<Facades::TextProperties\>\&) | Initializes [TextPlaceOperator](./) which accepts TextProperties. |
 ## See Also
 
 * Class [TextOperator](../textoperator/)

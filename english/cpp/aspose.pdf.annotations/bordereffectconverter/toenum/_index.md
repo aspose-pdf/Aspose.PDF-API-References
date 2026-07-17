@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/bordereffectconverter/toenum/
 
 
 ```cpp
-static BorderEffect Aspose::Pdf::Annotations::BorderEffectConverter::ToEnum(System::String value)
+static BorderEffect Aspose::Pdf::Annotations::BorderEffectConverter::ToEnum(const System::String &value)
 ```
 
 ## See Also

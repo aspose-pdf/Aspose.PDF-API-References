@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formeditor/set_srcfilename/
 Sets name of source file.
 
 ```cpp
-void Aspose::Pdf::Facades::FormEditor::set_SrcFileName(System::String value)
+void Aspose::Pdf::Facades::FormEditor::set_SrcFileName(const System::String &value)
 ```
 
 

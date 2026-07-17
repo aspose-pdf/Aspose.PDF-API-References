@@ -13,15 +13,15 @@ url: /cpp/aspose.pdf.lowcode/encryptionoptions/encryptionoptions/
 Initializes new instance of the [EncryptionOptions](../) object with default options.
 
 ```cpp
-Aspose::Pdf::LowCode::EncryptionOptions::EncryptionOptions(System::String ownerPassword, System::String userPassword, System::SharedPtr<Aspose::Pdf::Facades::DocumentPrivilege> documentPrivilege, Aspose::Pdf::CryptoAlgorithm cryptoAlgorithm=Aspose::Pdf::CryptoAlgorithm::AESx256)
+Aspose::Pdf::LowCode::EncryptionOptions::EncryptionOptions(const System::String &ownerPassword, const System::String &userPassword, const System::SharedPtr<Aspose::Pdf::Facades::DocumentPrivilege> &documentPrivilege, Aspose::Pdf::CryptoAlgorithm cryptoAlgorithm=Aspose::Pdf::CryptoAlgorithm::AESx256)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ownerPassword | System::String | Owner password. |
-| userPassword | System::String | User password. |
-| documentPrivilege | System::SharedPtr\<Aspose::Pdf::Facades::DocumentPrivilege\> | [Document](../../../aspose.pdf/document/) permissions. |
+| ownerPassword | const System::String\& | Owner password. |
+| userPassword | const System::String\& | User password. |
+| documentPrivilege | const System::SharedPtr\<Aspose::Pdf::Facades::DocumentPrivilege\>\& | [Document](../../../aspose.pdf/document/) permissions. |
 | cryptoAlgorithm | Aspose::Pdf::CryptoAlgorithm | Cryptographic algorithm. |
 
 ## See Also

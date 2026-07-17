@@ -63,6 +63,7 @@ url: /go-cpp/organize/
 | [PageCrop](./pagecrop/) | Crop page. |
 | [PageReplaceFont](./pagereplacefont/) | Replace font in page. |
 | [PageMergeLayers](./pagemergelayers/) | Merge all layers on the page into a single layer with the specified new layer name. |
+| [PageLayers](./pagelayers/) | Gets layers' names on page. |
 
 
 ## Detailed Description

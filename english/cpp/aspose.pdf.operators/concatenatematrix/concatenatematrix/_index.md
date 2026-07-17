@@ -2,11 +2,32 @@
 title: Aspose::Pdf::Operators::ConcatenateMatrix::ConcatenateMatrix constructor
 linktitle: ConcatenateMatrix
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Operators::ConcatenateMatrix::ConcatenateMatrix constructor. Initializes operator in C++.'
+description: 'Aspose::Pdf::Operators::ConcatenateMatrix::ConcatenateMatrix constructor. Initializes operator by matrix in C++.'
 type: docs
 weight: 100
 url: /cpp/aspose.pdf.operators/concatenatematrix/concatenatematrix/
 ---
+## ConcatenateMatrix::ConcatenateMatrix(const System::SharedPtr\<Aspose::Pdf::Matrix\>\&) constructor
+
+
+Initializes operator by matrix.
+
+```cpp
+Aspose::Pdf::Operators::ConcatenateMatrix::ConcatenateMatrix(const System::SharedPtr<Aspose::Pdf::Matrix> &m)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| m | const System::SharedPtr\<Aspose::Pdf::Matrix\>\& | Transfomation matrix. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Matrix](../../../aspose.pdf/matrix/)
+* Class [ConcatenateMatrix](../)
+* Namespace [Aspose::Pdf::Operators](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## ConcatenateMatrix::ConcatenateMatrix(double, double, double, double, double, double) constructor
 
 
@@ -28,27 +49,6 @@ Aspose::Pdf::Operators::ConcatenateMatrix::ConcatenateMatrix(double a, double b,
 
 ## See Also
 
-* Class [ConcatenateMatrix](../)
-* Namespace [Aspose::Pdf::Operators](../../)
-* Library [Aspose.PDF for C++](../../../)
-## ConcatenateMatrix::ConcatenateMatrix(System::SharedPtr\<Aspose::Pdf::Matrix\>) constructor
-
-
-Initializes operator by matrix.
-
-```cpp
-Aspose::Pdf::Operators::ConcatenateMatrix::ConcatenateMatrix(System::SharedPtr<Aspose::Pdf::Matrix> m)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| m | System::SharedPtr\<Aspose::Pdf::Matrix\> | Transfomation matrix. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Matrix](../../../aspose.pdf/matrix/)
 * Class [ConcatenateMatrix](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

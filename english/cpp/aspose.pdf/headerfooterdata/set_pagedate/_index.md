@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/headerfooterdata/set_pagedate/
 Sets the date settings.
 
 ```cpp
-void Aspose::Pdf::HeaderFooterData::set_PageDate(System::SharedPtr<Aspose::Pdf::PageDate> value)
+void Aspose::Pdf::HeaderFooterData::set_PageDate(const System::SharedPtr<Aspose::Pdf::PageDate> &value)
 ```
 
 ## See Also

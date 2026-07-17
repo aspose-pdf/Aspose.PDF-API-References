@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/matrix/translate/
 Translates a matrix by the specified amount in the x and y direction.
 
 ```cpp
-static System::SharedPtr<Matrix> Aspose::Pdf::Matrix::Translate(double dx, double dy, System::SharedPtr<Matrix> source)
+static System::SharedPtr<Matrix> Aspose::Pdf::Matrix::Translate(double dx, double dy, const System::SharedPtr<Matrix> &source)
 ```
 
 
@@ -21,7 +21,7 @@ static System::SharedPtr<Matrix> Aspose::Pdf::Matrix::Translate(double dx, doubl
 | --- | --- | --- |
 | dx | double | The amount to translate in the x direction. |
 | dy | double | The amount to translate in the y direction. |
-| source | System::SharedPtr\<Matrix\> | The matrix to translate. |
+| source | const System::SharedPtr\<Matrix\>\& | The matrix to translate. |
 
 ### ReturnValue
 

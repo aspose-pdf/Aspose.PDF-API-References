@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileinfo/set_creationdate/
 Sets the CreationDate information of PDF document.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileInfo::set_CreationDate(System::String value)
+void Aspose::Pdf::Facades::PdfFileInfo::set_CreationDate(const System::String &value)
 ```
 
 ## See Also

@@ -25,8 +25,8 @@ class ColumnInfo : public System::Object
 | [get_ColumnSpacing](./get_columnspacing/)() const | Gets a string that contains the spacing between columns. The value of each spacing should be separated by blank. The default unit is point, but cm and inch are also supported.For example,"120 2.5cm 1.5inch". |
 | [get_ColumnWidths](./get_columnwidths/)() const | Gets a string that contains the width of columns. The value of each column should be separated by blank.The default unit is point, but cm, inch and percentage of available width are also supported. For example,"120 2.5cm 1.5inch". |
 | [set_ColumnCount](./set_columncount/)(int32_t) | Sets a int value that indicates the number of columns. |
-| [set_ColumnSpacing](./set_columnspacing/)(System::String) | Sets a string that contains the spacing between columns. The value of each spacing should be separated by blank. The default unit is point, but cm and inch are also supported.For example,"120 2.5cm 1.5inch". |
-| [set_ColumnWidths](./set_columnwidths/)(System::String) | Sets a string that contains the width of columns. The value of each column should be separated by blank.The default unit is point, but cm, inch and percentage of available width are also supported. For example,"120 2.5cm 1.5inch". |
+| [set_ColumnSpacing](./set_columnspacing/)(const System::String\&) | Sets a string that contains the spacing between columns. The value of each spacing should be separated by blank. The default unit is point, but cm and inch are also supported.For example,"120 2.5cm 1.5inch". |
+| [set_ColumnWidths](./set_columnwidths/)(const System::String\&) | Sets a string that contains the width of columns. The value of each column should be separated by blank.The default unit is point, but cm, inch and percentage of available width are also supported. For example,"120 2.5cm 1.5inch". |
 ## See Also
 
 * Class [Object](../../system/object/)

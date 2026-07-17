@@ -20,7 +20,7 @@ class RtfConverter : public ApsToPdfConverter
 
 | Method | Description |
 | --- | --- |
-| static [ToPdf](./topdf/)(System::SharedPtr\<Aspose::Pdf::Document\>, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<RtfLoadOptions\>) | Method that converts RTF document to PDF. |
+| static [ToPdf](./topdf/)(const System::SharedPtr\<Aspose::Pdf::Document\>\&, const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<RtfLoadOptions\>\&) | Method that converts RTF document to PDF. |
 ## See Also
 
 * Namespace [Aspose::Pdf](../)

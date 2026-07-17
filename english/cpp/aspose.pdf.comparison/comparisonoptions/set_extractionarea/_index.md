@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison/comparisonoptions/set_extractionarea/
 Get and set the rectangular area in which the text of pages will be compared. This option can't be setted along with [ExcludeTables](../), [ExcludeAreas1](../) and [ExcludeAreas2](../) options.
 
 ```cpp
-void Aspose::Pdf::Comparison::ComparisonOptions::set_ExtractionArea(System::SharedPtr<Rectangle> value)
+void Aspose::Pdf::Comparison::ComparisonOptions::set_ExtractionArea(const System::SharedPtr<Rectangle> &value)
 ```
 
 ## See Also

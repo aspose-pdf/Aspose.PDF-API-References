@@ -20,7 +20,7 @@ class FontCollection : public System::Collections::Generic::ICollection<System::
 
 | Method | Description |
 | --- | --- |
-| [Add](./add/)(System::SharedPtr\<Font\>, System::String\&) | Adds new font to font resources and returns automatically assigned name of font resource. |
+| [Add](./add/)(const System::SharedPtr\<Font\>\&, System::String\&) | Adds new font to font resources and returns automatically assigned name of font resource. |
 | [Contains](./contains/)(const System::String\&) const | Checks if font exists in font collection. |
 | [Contains](./contains/)(const System::SharedPtr\<Font\>\&) const override | Determines whether the collection contains a specific value. |
 | [CopyTo](./copyto/)(System::ArrayPtr\<System::SharedPtr\<Font\>\>, int32_t) override | Copies the entire collection to a compatible one-dimensional Array, starting at the specified index of the target array. |
@@ -30,7 +30,7 @@ class FontCollection : public System::Collections::Generic::ICollection<System::
 | [get_SyncRoot](./get_syncroot/)() const | Gets an object that can be used to synchronize access to the collection. |
 | [GetEnumerator](./getenumerator/)() override | Returns an enumerator for the entire collection. |
 | [idx_get](./idx_get/)(int32_t) | Gets the font element at the specified index. |
-| [idx_get](./idx_get/)(System::String) | Gets font from the collection by font name. Exception is thrown if font was not found. |
+| [idx_get](./idx_get/)(const System::String\&) | Gets font from the collection by font name. Exception is thrown if font was not found. |
 | [Remove](./remove/)(const System::SharedPtr\<Font\>\&) override | Deletes specified item from collection. |
 ## Remarks
 

@@ -28,19 +28,19 @@ The new row
 * Class [Rows](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Rows::Add(System::SharedPtr\<Row\>) method
+## Rows::Add(const System::SharedPtr\<Row\>\&) method
 
 
 Add row to cellection.
 
 ```cpp
-void Aspose::Pdf::Rows::Add(System::SharedPtr<Row> row)
+void Aspose::Pdf::Rows::Add(const System::SharedPtr<Row> &row)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| row | System::SharedPtr\<Row\> | The new row. |
+| row | const System::SharedPtr\<Row\>\& | The new row. |
 
 ## See Also
 

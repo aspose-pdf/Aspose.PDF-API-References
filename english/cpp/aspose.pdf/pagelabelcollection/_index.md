@@ -23,7 +23,7 @@ class PageLabelCollection : public System::Object
 | [GetLabel](./getlabel/)(int32_t) | Gets page label by page index (page index is started from 0). |
 | [GetPages](./getpages/)() | Gets page indexes in collection. |
 | [RemoveLabel](./removelabel/)(int32_t) | Remove label by page index (page index is started from 0). |
-| [UpdateLabel](./updatelabel/)(int32_t, System::SharedPtr\<PageLabel\>) | Update label for given page index (page index is started from 0). |
+| [UpdateLabel](./updatelabel/)(int32_t, const System::SharedPtr\<PageLabel\>\&) | Update label for given page index (page index is started from 0). |
 ## See Also
 
 * Class [Object](../../system/object/)

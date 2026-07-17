@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signaturecustomappearance/set_contactinfolabel/
 Gets/sets contact info label. Default value: "Contact".
 
 ```cpp
-void Aspose::Pdf::Forms::SignatureCustomAppearance::set_ContactInfoLabel(System::String value)
+void Aspose::Pdf::Forms::SignatureCustomAppearance::set_ContactInfoLabel(const System::String &value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/set_paragraphs/
 Gets the paragraphs.
 
 ```cpp
-void Aspose::Pdf::Page::set_Paragraphs(System::SharedPtr<Aspose::Pdf::Paragraphs> value)
+void Aspose::Pdf::Page::set_Paragraphs(const System::SharedPtr<Aspose::Pdf::Paragraphs> &value)
 ```
 
 ## Remarks

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/gs/set_name/
 Sets name of graphic state resource.
 
 ```cpp
-void Aspose::Pdf::Operators::GS::set_Name(System::String value)
+void Aspose::Pdf::Operators::GS::set_Name(const System::String &value)
 ```
 
 ## See Also

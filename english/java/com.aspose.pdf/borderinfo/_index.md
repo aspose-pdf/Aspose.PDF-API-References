@@ -1,146 +1,172 @@
 ---
-title: SaveOptions.BorderInfo
+title: BorderInfo
+linktitle: BorderInfo
 second_title: Aspose.PDF for Java API Reference
-description: Instance of this class represents information about border That can be drown on some result document.
+description: This class represents border for graphics elements.
 type: docs
-weight: 10
-url: /java/com.aspose.pdf/saveoptions.borderinfo/
+weight: 370
+url: /java/com.aspose.pdf/borderinfo/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.BorderInfo
+
+**All Implemented Interfaces:**
+com.aspose.ms.System.ICloneable
+
 ```
-public static class SaveOptions.BorderInfo
+public final class BorderInfo extends Object implements com.aspose.ms.System.ICloneable
 ```
 
-Instance of this class represents information about border That can be drown on some result document.
+This class represents border for graphics elements.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [BorderInfo()](#BorderInfo--) | Creates instance of BorderInfo class |
-| [BorderInfo(SaveOptions.BorderPartStyle commonStyle)](#BorderInfo-com.aspose.pdf.SaveOptions.BorderPartStyle-) | Creates instance of BorderInfo class and initializes all elements of border(Top, Left, Right, Bottom) with attributes copied from supplied border style |
+| [BorderInfo](#BorderInfo--) | Initializes a new instance of the {@code BorderInfo} class. |
+| [BorderInfo](#BorderInfo-int-) | Initializes a new instance of the {@code BorderInfo} class. |
+| [BorderInfo](#BorderInfo-int-com.aspose.pdf.Color-) | Initializes a new instance of the {@code BorderInfo} class. |
+| [BorderInfo](#BorderInfo-int-float-) | Initializes a new instance of the {@code BorderInfo} class. |
+| [BorderInfo](#BorderInfo-int-float-com.aspose.pdf.Color-) | Initializes a new instance of the {@code BorderInfo} class. |
+| [BorderInfo](#BorderInfo-int-com.aspose.pdf.GraphInfo-) | Initializes a new instance of the {@code BorderInfo} class. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getTopStyleIfAny()](#getTopStyleIfAny--) | Represents top part(if any) of border |
-| [setTopStyleIfAny(SaveOptions.BorderPartStyle topStyleIfAny)](#setTopStyleIfAny-com.aspose.pdf.SaveOptions.BorderPartStyle-) | Represents top part(if any) of border |
-| [getLeftStyleIfAny()](#getLeftStyleIfAny--) | Represents left part(if any) of border |
-| [setLeftStyleIfAny(SaveOptions.BorderPartStyle leftStyleIfAny)](#setLeftStyleIfAny-com.aspose.pdf.SaveOptions.BorderPartStyle-) | Represents left part(if any) of border |
-| [getRightStyleIfAny()](#getRightStyleIfAny--) | Represents right part(if any) of border |
-| [setRightStyleIfAny(SaveOptions.BorderPartStyle rightStyleIfAny)](#setRightStyleIfAny-com.aspose.pdf.SaveOptions.BorderPartStyle-) | Represents right part(if any) of border |
-| [getBottomStyleIfAny()](#getBottomStyleIfAny--) | Represents bottom part(if any) of border |
-| [setBottomStyleIfAny(SaveOptions.BorderPartStyle bottomStyleIfAny)](#setBottomStyleIfAny-com.aspose.pdf.SaveOptions.BorderPartStyle-) | Represents bottom part(if any) of border |
-### BorderInfo() {#BorderInfo--}
+| [deepClone](#deepClone--) | Clones a new BorderInfo object. |
+| [getBottom](#getBottom--) | Gets object that indicates bottom of the border. |
+| [getLeft](#getLeft--) | Gets {@code GraphInfo} object that indicates left of the border. |
+| [getRight](#getRight--) | Gets {@code GraphInfo} object that indicates right of the border. |
+| [getRoundedBorderRadius](#getRoundedBorderRadius--) | Gets rounded border radius. |
+| [getTop](#getTop--) | Gets {@code GraphInfo} object that indicates the top border. |
+| [setBottom](#setBottom-com.aspose.pdf.GraphInfo-) | Sets object that indicates bottom of the border. |
+| [setLeft](#setLeft-com.aspose.pdf.GraphInfo-) | Sets {@code GraphInfo} object that indicates left of the border. |
+| [setRight](#setRight-com.aspose.pdf.GraphInfo-) | Sets {@code GraphInfo} object that indicates right of the border. |
+| [setRoundedBorderRadius](#setRoundedBorderRadius-double-) | Sets rounded border radius. |
+| [setTop](#setTop-com.aspose.pdf.GraphInfo-) | Sets {@code GraphInfo} object that indicates top of the border. |
+
+### BorderInfo {#BorderInfo--}
 ```
 public BorderInfo()
 ```
 
+Initializes a new instance of the {@code BorderInfo} class.
 
-Creates instance of BorderInfo class
-
-### BorderInfo(SaveOptions.BorderPartStyle commonStyle) {#BorderInfo-com.aspose.pdf.SaveOptions.BorderPartStyle-}
+### BorderInfo {#BorderInfo-int-}
 ```
-public BorderInfo(SaveOptions.BorderPartStyle commonStyle)
+public BorderInfo(int borderSide)
 ```
 
-
-Creates instance of BorderInfo class and initializes all elements of border(Top, Left, Right, Bottom) with attributes copied from supplied border style
+Initializes a new instance of the {@code BorderInfo} class.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| commonStyle | [BorderPartStyle](../../com.aspose.pdf/borderpartstyle) | style of border parts that will be used for all elements of border(left, right, top, bottom) |
+| borderSide |  | Indicates the border sides info. For example: (BorderSide.Left \| BorderSide.Top). |
 
-### getTopStyleIfAny() {#getTopStyleIfAny--}
+### BorderInfo {#BorderInfo-int-com.aspose.pdf.Color-}
+Initializes a new instance of the {@code BorderInfo} class.
+
+### BorderInfo {#BorderInfo-int-float-}
 ```
-public SaveOptions.BorderPartStyle getTopStyleIfAny()
+public BorderInfo(int borderSide, float borderWidth)
 ```
 
+Initializes a new instance of the {@code BorderInfo} class.
 
-Represents top part(if any) of border
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| borderSide |  | Indicates the border sides info. For example: (BorderSide.Left \| BorderSide.Top). |
+| borderWidth |  | The width of the border. |
+
+### BorderInfo {#BorderInfo-int-float-com.aspose.pdf.Color-}
+Initializes a new instance of the {@code BorderInfo} class.
+
+### BorderInfo {#BorderInfo-int-com.aspose.pdf.GraphInfo-}
+Initializes a new instance of the {@code BorderInfo} class.
+
+### deepClone {#deepClone--}
+```
+public Object deepClone()
+```
+
+Clones a new BorderInfo object.
 
 **Returns:**
-[BorderPartStyle](../../com.aspose.pdf/borderpartstyle) - BorderPartStyle instance
-### setTopStyleIfAny(SaveOptions.BorderPartStyle topStyleIfAny) {#setTopStyleIfAny-com.aspose.pdf.SaveOptions.BorderPartStyle-}
+The new BorderInfo object.
+
+### getBottom {#getBottom--}
 ```
-public void setTopStyleIfAny(SaveOptions.BorderPartStyle topStyleIfAny)
-```
-
-
-Represents top part(if any) of border
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| topStyleIfAny | [BorderPartStyle](../../com.aspose.pdf/borderpartstyle) | BorderPartStyle instance |
-
-### getLeftStyleIfAny() {#getLeftStyleIfAny--}
-```
-public SaveOptions.BorderPartStyle getLeftStyleIfAny()
+public GraphInfo getBottom()
 ```
 
-
-Represents left part(if any) of border
+Gets object that indicates bottom of the border.
 
 **Returns:**
-[BorderPartStyle](../../com.aspose.pdf/borderpartstyle) - BorderPartStyle instance
-### setLeftStyleIfAny(SaveOptions.BorderPartStyle leftStyleIfAny) {#setLeftStyleIfAny-com.aspose.pdf.SaveOptions.BorderPartStyle-}
+bottom
+
+### getLeft {#getLeft--}
 ```
-public void setLeftStyleIfAny(SaveOptions.BorderPartStyle leftStyleIfAny)
-```
-
-
-Represents left part(if any) of border
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| leftStyleIfAny | [BorderPartStyle](../../com.aspose.pdf/borderpartstyle) | BorderPartStyle instance |
-
-### getRightStyleIfAny() {#getRightStyleIfAny--}
-```
-public SaveOptions.BorderPartStyle getRightStyleIfAny()
+public GraphInfo getLeft()
 ```
 
-
-Represents right part(if any) of border
+Gets {@code GraphInfo} object that indicates left of the border.
 
 **Returns:**
-[BorderPartStyle](../../com.aspose.pdf/borderpartstyle) - BorderPartStyle instance
-### setRightStyleIfAny(SaveOptions.BorderPartStyle rightStyleIfAny) {#setRightStyleIfAny-com.aspose.pdf.SaveOptions.BorderPartStyle-}
+object that indicates left of the border.
+
+### getRight {#getRight--}
 ```
-public void setRightStyleIfAny(SaveOptions.BorderPartStyle rightStyleIfAny)
-```
-
-
-Represents right part(if any) of border
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| rightStyleIfAny | [BorderPartStyle](../../com.aspose.pdf/borderpartstyle) | BorderPartStyle instance |
-
-### getBottomStyleIfAny() {#getBottomStyleIfAny--}
-```
-public SaveOptions.BorderPartStyle getBottomStyleIfAny()
+public GraphInfo getRight()
 ```
 
-
-Represents bottom part(if any) of border
+Gets {@code GraphInfo} object that indicates right of the border.
 
 **Returns:**
-[BorderPartStyle](../../com.aspose.pdf/borderpartstyle) - BorderPartStyle instance
-### setBottomStyleIfAny(SaveOptions.BorderPartStyle bottomStyleIfAny) {#setBottomStyleIfAny-com.aspose.pdf.SaveOptions.BorderPartStyle-}
+object that indicates right of the border.
+
+### getRoundedBorderRadius {#getRoundedBorderRadius--}
 ```
-public void setBottomStyleIfAny(SaveOptions.BorderPartStyle bottomStyleIfAny)
+public double getRoundedBorderRadius()
 ```
 
+Gets rounded border radius.
 
-Represents bottom part(if any) of border
+**Returns:**
+value
+
+### getTop {#getTop--}
+```
+public GraphInfo getTop()
+```
+
+Gets {@code GraphInfo} object that indicates the top border.
+
+**Returns:**
+object that indicates the top border
+
+### setBottom {#setBottom-com.aspose.pdf.GraphInfo-}
+Sets object that indicates bottom of the border.
+
+### setLeft {#setLeft-com.aspose.pdf.GraphInfo-}
+Sets {@code GraphInfo} object that indicates left of the border.
+
+### setRight {#setRight-com.aspose.pdf.GraphInfo-}
+Sets {@code GraphInfo} object that indicates right of the border.
+
+### setRoundedBorderRadius {#setRoundedBorderRadius-double-}
+```
+public void setRoundedBorderRadius(double value)
+```
+
+Sets rounded border radius.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bottomStyleIfAny | [BorderPartStyle](../../com.aspose.pdf/borderpartstyle) | BorderPartStyle instance |
+| value |  | double value |
 
+### setTop {#setTop-com.aspose.pdf.GraphInfo-}
+Sets {@code GraphInfo} object that indicates top of the border.

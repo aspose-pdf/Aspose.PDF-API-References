@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/resources/extgstatevalue/extgstatevalue/
 
 
 ```cpp
-Aspose::Pdf::Resources::ExtGStateValue::ExtGStateValue(System::String name)
+Aspose::Pdf::Resources::ExtGStateValue::ExtGStateValue(const System::String &name)
 ```
 
 ## See Also

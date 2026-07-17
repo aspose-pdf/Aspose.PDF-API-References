@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/redactionannotation/set_overlaytext/
 Sets text to print on redact annotation.
 
 ```cpp
-void Aspose::Pdf::Annotations::RedactionAnnotation::set_OverlayText(System::String value)
+void Aspose::Pdf::Annotations::RedactionAnnotation::set_OverlayText(const System::String &value)
 ```
 
 ## See Also

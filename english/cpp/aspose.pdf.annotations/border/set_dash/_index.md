@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/border/set_dash/
 Sets dash pattern.
 
 ```cpp
-void Aspose::Pdf::Annotations::Border::set_Dash(System::SharedPtr<Aspose::Pdf::Annotations::Dash> value)
+void Aspose::Pdf::Annotations::Border::set_Dash(const System::SharedPtr<Aspose::Pdf::Annotations::Dash> &value)
 ```
 
 ## See Also

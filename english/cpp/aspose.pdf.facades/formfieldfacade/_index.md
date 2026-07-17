@@ -47,14 +47,14 @@ class FormFieldFacade : public System::Object
 | [set_BorderWidth](./set_borderwidth/)(float) | The width of a field border. |
 | [set_Box](./set_box/)(System::Drawing::Rectangle) | A rectangle object holding field's location. |
 | [set_ButtonStyle](./set_buttonstyle/)(int32_t) | The style of check box or radio box field, defined by FormFieldFacade.CheckBoxStyle*. |
-| [set_Caption](./set_caption/)(System::String) | The normal caption of form field. |
-| [set_CustomFont](./set_customfont/)(System::String) | Sets name of the font when this is non-standart (other then 14 standard fonts). |
-| [set_ExportItems](./set_exportitems/)(System::ArrayPtr\<System::ArrayPtr\<System::String\>\>) | The options for adding a list/combo/radio box. |
+| [set_Caption](./set_caption/)(const System::String\&) | The normal caption of form field. |
+| [set_CustomFont](./set_customfont/)(const System::String\&) | Sets name of the font when this is non-standart (other then 14 standard fonts). |
+| [set_ExportItems](./set_exportitems/)(const System::ArrayPtr\<System::ArrayPtr\<System::String\>\>\&) | The options for adding a list/combo/radio box. |
 | [set_Font](./set_font/)(FontStyle) | The font type of a field text. |
 | [set_FontSize](./set_fontsize/)(float) | The size of a field text. |
-| [set_Items](./set_items/)(System::ArrayPtr\<System::String\>) | An array of string, each representing an option of a combo box/list/radio box field. |
+| [set_Items](./set_items/)(const System::ArrayPtr\<System::String\>\&) | An array of string, each representing an option of a combo box/list/radio box field. |
 | [set_PageNumber](./set_pagenumber/)(int32_t) | An integer value holding the number of page on which field locates. |
-| [set_Position](./set_position/)(System::ArrayPtr\<float\>) | A rectangle object holding field's location. |
+| [set_Position](./set_position/)(const System::ArrayPtr\<float\>\&) | A rectangle object holding field's location. |
 | [set_Rotation](./set_rotation/)(int32_t) | The rotation of a field text. |
 | [set_TextColor](./set_textcolor/)(System::Drawing::Color) | The color of the field text. |
 | [set_TextEncoding](./set_textencoding/)(EncodingType) | The text encoding type of the field text. |

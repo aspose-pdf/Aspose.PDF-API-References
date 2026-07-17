@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/documentinfo/set_creator/
 Sets document creator.
 
 ```cpp
-void Aspose::Pdf::DocumentInfo::set_Creator(System::String value)
+void Aspose::Pdf::DocumentInfo::set_Creator(const System::String &value)
 ```
 
 ## See Also

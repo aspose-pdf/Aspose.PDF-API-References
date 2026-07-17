@@ -1,44 +1,38 @@
 ---
 title: Hyperlink
+linktitle: Hyperlink
 second_title: Aspose.PDF for Java API Reference
 description: Represents abstract hyperlink.
 type: docs
-weight: 161
+weight: 2160
 url: /java/com.aspose.pdf/hyperlink/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.Hyperlink
+
 ```
-public abstract class Hyperlink
+public abstract class Hyperlink extends Object
 ```
 
 Represents abstract hyperlink.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [Hyperlink()](#Hyperlink--) |  |
+| [Hyperlink](#Hyperlink--) |  |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [setLinkElement(LinkElement value)](#setLinkElement-com.aspose.pdf.tagged.logicalstructure.elements.ils.LinkElement-) |  |
-### Hyperlink() {#Hyperlink--}
+| [setLinkElement](#setLinkElement-com.aspose.pdf.tagged.logicalstructure.elements.ils.LinkElement-) |  |
+
+### Hyperlink {#Hyperlink--}
 ```
 public Hyperlink()
 ```
 
 
-### setLinkElement(LinkElement value) {#setLinkElement-com.aspose.pdf.tagged.logicalstructure.elements.ils.LinkElement-}
-```
-public final void setLinkElement(LinkElement value)
-```
 
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [LinkElement](../../com.aspose.pdf.tagged.logicalstructure.elements.ils/linkelement) |  |
-
+### setLinkElement {#setLinkElement-com.aspose.pdf.tagged.logicalstructure.elements.ils.LinkElement-}

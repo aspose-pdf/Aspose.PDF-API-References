@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf/table/setcolumntextstate/
 Set height.
 
 ```cpp
-void Aspose::Pdf::Table::SetColumnTextState(int32_t colNumber, System::SharedPtr<Text::TextState> textState)
+void Aspose::Pdf::Table::SetColumnTextState(int32_t colNumber, const System::SharedPtr<Text::TextState> &textState)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | colNumber | int32_t | The column number. |
-| textState | System::SharedPtr\<Text::TextState\> | The text state for column. |
+| textState | const System::SharedPtr\<Text::TextState\>\& | The text state for column. |
 
 ## See Also
 

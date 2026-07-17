@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.forms/xfa/idx_set/
 Gets of sets data node value according *path* .
 
 ```cpp
-void Aspose::Pdf::Forms::XFA::idx_set(System::String path, System::String value)
+void Aspose::Pdf::Forms::XFA::idx_set(const System::String &path, const System::String &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| path | System::String | Data node path, e.g. form1[0].Subform1[0].Subform2[0].Subform3[0].TextField[0]. Be sure to include indices even if data contains only single occurences of each nodes, i.e. write node1[0].node2[0]... instead of node1.node2... |
-| value | System::String | Data node value. |
+| path | const System::String\& | Data node path, e.g. form1[0].Subform1[0].Subform2[0].Subform3[0].TextField[0]. Be sure to include indices even if data contains only single occurences of each nodes, i.e. write node1[0].node2[0]... instead of node1.node2... |
+| value | const System::String\& | Data node value. |
 
 ## See Also
 

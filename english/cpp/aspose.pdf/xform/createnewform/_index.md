@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf/xform/createnewform/
 Creates [XForm](../) which duplicates contents of the page.
 
 ```cpp
-static System::SharedPtr<XForm> Aspose::Pdf::XForm::CreateNewForm(System::SharedPtr<Page> source, System::SharedPtr<Document> document)
+static System::SharedPtr<XForm> Aspose::Pdf::XForm::CreateNewForm(const System::SharedPtr<Page> &source, const System::SharedPtr<Document> &document)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| source | System::SharedPtr\<Page\> | Source page |
-| document | System::SharedPtr\<Document\> | [Document](../../document/) where new [XForm](../) will be added. |
+| source | const System::SharedPtr\<Page\>\& | Source page |
+| document | const System::SharedPtr\<Document\>\& | [Document](../../document/) where new [XForm](../) will be added. |
 
 ### ReturnValue
 

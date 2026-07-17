@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf/document/loadfrom/
 Loads a file, converting it to PDF.
 
 ```cpp
-void Aspose::Pdf::Document::LoadFrom(System::String filename, System::SharedPtr<LoadOptions> options)
+void Aspose::Pdf::Document::LoadFrom(const System::String &filename, const System::SharedPtr<LoadOptions> &options)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | System::String | The path to the file to open. |
-| options | System::SharedPtr\<LoadOptions\> | The load options. |
+| filename | const System::String\& | The path to the file to open. |
+| options | const System::SharedPtr\<LoadOptions\>\& | The load options. |
 
 ## See Also
 

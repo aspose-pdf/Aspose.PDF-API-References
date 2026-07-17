@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.logicalstructure/tocielement/addref/
 Adds a reference to the specified structure element within the [Table](../../../aspose.pdf/table/) of Contents Item (TOCI) element.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::TOCIElement::AddRef(System::SharedPtr<StructureElement> referencedStructureElement)
+void Aspose::Pdf::LogicalStructure::TOCIElement::AddRef(const System::SharedPtr<StructureElement> &referencedStructureElement)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| referencedStructureElement | System::SharedPtr\<StructureElement\> | The [StructureElement](../../structureelement/) to be referenced by this TOCI element. |
+| referencedStructureElement | const System::SharedPtr\<StructureElement\>\& | The [StructureElement](../../structureelement/) to be referenced by this TOCI element. |
 ## Remarks
 
 

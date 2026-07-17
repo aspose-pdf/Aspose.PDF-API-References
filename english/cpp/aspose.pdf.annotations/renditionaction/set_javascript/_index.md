@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/renditionaction/set_javascript/
 Sets JavaScript code associated with the action.
 
 ```cpp
-void Aspose::Pdf::Annotations::RenditionAction::set_JavaScript(System::String value)
+void Aspose::Pdf::Annotations::RenditionAction::set_JavaScript(const System::String &value)
 ```
 
 ## See Also

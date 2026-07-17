@@ -20,11 +20,11 @@ int System::String::IndexOfAny(char_t c, int startIndex=0) const
 | Parameter | Type | Description |
 | --- | --- | --- |
 | c | char_t | Character to look for. |
-| startIndex | int | Index to start lookup at. |
+| startIndex | int | [Index](../../index/) to start lookup at. |
 
 ### ReturnValue
 
-Index of first character position since startIndex or -1 if not found.
+[Index](../../index/) of first character position since startIndex or -1 if not found.
 
 ## See Also
 
@@ -47,7 +47,7 @@ int System::String::IndexOfAny(const ArrayPtr<char_t> &anyOf) const
 
 ### ReturnValue
 
-Index of the first matching character or -1 if not found.
+[Index](../../index/) of the first matching character or -1 if not found.
 
 ## See Also
 
@@ -68,11 +68,11 @@ int System::String::IndexOfAny(const ArrayPtr<char_t> &anyOf, int32_t startindex
 | Parameter | Type | Description |
 | --- | --- | --- |
 | anyOf | const ArrayPtr\<char_t\>\& | [Array](../../array/) of characters to look for. Order doesn't matter. |
-| startindex | int32_t | Index to start lookup from. |
+| startindex | int32_t | [Index](../../index/) to start lookup from. |
 
 ### ReturnValue
 
-Index of the first matching character or -1 if not found.
+[Index](../../index/) of the first matching character or -1 if not found.
 
 ## See Also
 
@@ -93,12 +93,12 @@ int System::String::IndexOfAny(const ArrayPtr<char_t> &anyOf, int32_t startindex
 | Parameter | Type | Description |
 | --- | --- | --- |
 | anyOf | const ArrayPtr\<char_t\>\& | [Array](../../array/) of characters to look for. Order doesn't matter. |
-| startindex | int32_t | Index to start lookup from. |
+| startindex | int32_t | [Index](../../index/) to start lookup from. |
 | count | int32_t | Number of characters to look through. |
 
 ### ReturnValue
 
-Index of the first matching character or -1 if not found.
+[Index](../../index/) of the first matching character or -1 if not found.
 
 ## See Also
 
@@ -123,7 +123,7 @@ int System::String::IndexOfAny(const String &str, int startIndex=0) const
 
 ### ReturnValue
 
-Index of first found character or -1 if none is found.
+[Index](../../index/) of first found character or -1 if none is found.
 
 ## See Also
 

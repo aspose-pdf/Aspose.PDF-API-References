@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.logicalstructure/structureattributes/setattribute/
 Sets [StructureAttribute](../../structureattribute/) into [StructureAttributes](../).
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::StructureAttributes::SetAttribute(System::SharedPtr<StructureAttribute> attribute)
+void Aspose::Pdf::LogicalStructure::StructureAttributes::SetAttribute(const System::SharedPtr<StructureAttribute> &attribute)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| attribute | System::SharedPtr\<StructureAttribute\> | [StructureAttribute](../../structureattribute/). |
+| attribute | const System::SharedPtr\<StructureAttribute\>\& | [StructureAttribute](../../structureattribute/). |
 
 ## See Also
 

@@ -7,19 +7,19 @@ type: docs
 weight: 5000
 url: /cpp/aspose.pdf/page/mergelayers/
 ---
-## Page::MergeLayers(System::String) method
+## Page::MergeLayers(const System::String\&) method
 
 
 Merges all layers on the page into a single layer with the specified new layer name.
 
 ```cpp
-void Aspose::Pdf::Page::MergeLayers(System::String newLayerName)
+void Aspose::Pdf::Page::MergeLayers(const System::String &newLayerName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| newLayerName | System::String | The name of the new layer after merging. |
+| newLayerName | const System::String\& | The name of the new layer after merging. |
 
 ## See Also
 
@@ -27,20 +27,20 @@ void Aspose::Pdf::Page::MergeLayers(System::String newLayerName)
 * Class [Page](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Page::MergeLayers(System::String, System::String) method
+## Page::MergeLayers(const System::String\&, const System::String\&) method
 
 
 Merges all layers on the page into a single layer with the specified new layer name and optional content group [Id](../../id/).
 
 ```cpp
-void Aspose::Pdf::Page::MergeLayers(System::String newLayerName, System::String newOptionalContentGroupId)
+void Aspose::Pdf::Page::MergeLayers(const System::String &newLayerName, const System::String &newOptionalContentGroupId)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| newLayerName | System::String | The name of the new layer after merging. |
-| newOptionalContentGroupId | System::String | The optional content group [Id](../../id/) for the merged layer. |
+| newLayerName | const System::String\& | The name of the new layer after merging. |
+| newOptionalContentGroupId | const System::String\& | The optional content group [Id](../../id/) for the merged layer. |
 
 ## See Also
 

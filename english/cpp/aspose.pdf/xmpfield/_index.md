@@ -31,9 +31,9 @@ class XmpField : public System::Object
 | [get_Prefix](./get_prefix/)() const | Gets the prefix. |
 | [get_Value](./get_value/)() const | Gets the value. |
 | [GetHashCode](./gethashcode/)() const override | Returns a hash code for this instance. |
-| [set_LocalName](./set_localname/)(System::String) | Sets the name of the local. |
-| [set_NamespaceUri](./set_namespaceuri/)(System::String) | Gets the namespace URI. |
-| [set_Prefix](./set_prefix/)(System::String) | Gets the prefix. |
+| [set_LocalName](./set_localname/)(const System::String\&) | Sets the name of the local. |
+| [set_NamespaceUri](./set_namespaceuri/)(const System::String\&) | Gets the namespace URI. |
+| [set_Prefix](./set_prefix/)(const System::String\&) | Gets the prefix. |
 | [ToArray](./toarray/)() | Gets value as an array. |
 | [ToStructure](./tostructure/)() | Gets value as a structure. |
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/set_caption/
 The normal caption of form field.
 
 ```cpp
-void Aspose::Pdf::Facades::FormFieldFacade::set_Caption(System::String value)
+void Aspose::Pdf::Facades::FormFieldFacade::set_Caption(const System::String &value)
 ```
 
 ## See Also

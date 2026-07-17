@@ -39,20 +39,20 @@ class SignatureCustomAppearance : public System::Object
 | [get_ShowLocation](./get_showlocation/)() const | Gets/sets location visibility. Default value: true. |
 | [get_ShowReason](./get_showreason/)() const | Gets/sets reason visibility. Default value: true. |
 | [get_UseDigitalSubjectFormat](./get_usedigitalsubjectformat/)() const | Gets/sets the usage state of the [DigitalSubjectFormat](../). |
-| [set_BackgroundColor](./set_backgroundcolor/)(System::SharedPtr\<Color\>) | Gets/sets background color. Default value: Transparent. |
-| [set_ContactInfoLabel](./set_contactinfolabel/)(System::String) | Gets/sets contact info label. Default value: "Contact". |
-| [set_Culture](./set_culture/)(System::SharedPtr\<System::Globalization::CultureInfo\>) | Gets/sets culture info value. Default value: InvariantCulture. |
-| [set_DateSignedAtLabel](./set_datesignedatlabel/)(System::String) | Gets/sets date signed label. Default value: "Date". |
-| [set_DateTimeFormat](./set_datetimeformat/)(System::String) | Gets/sets datetime format. Default value: "yyyy.MM.dd HH:mm:ss". |
-| [set_DateTimeLocalFormat](./set_datetimelocalformat/)(System::String) | Gets/sets datetime local format. Default value: "yyyy.MM.dd HH:mm:ss zzz". |
-| [set_DigitalSignedLabel](./set_digitalsignedlabel/)(System::String) | Gets/sets digital signed label. Default value: "Digitally signed by". |
-| [set_DigitalSubjectFormat](./set_digitalsubjectformat/)(System::ArrayPtr\<SubjectNameElements\>) | Gets/sets format for order of elements in Subject string. Result examples: C=UK, CN=Org, O=Organization or CN=Org, C=UK, O=Organization or O=Organization. |
-| [set_FontFamilyName](./set_fontfamilyname/)(System::String) | Gets/sets font family name. It should be existed in the document. Default value: Arial. |
+| [set_BackgroundColor](./set_backgroundcolor/)(const System::SharedPtr\<Color\>\&) | Gets/sets background color. Default value: Transparent. |
+| [set_ContactInfoLabel](./set_contactinfolabel/)(const System::String\&) | Gets/sets contact info label. Default value: "Contact". |
+| [set_Culture](./set_culture/)(const System::SharedPtr\<System::Globalization::CultureInfo\>\&) | Gets/sets culture info value. Default value: InvariantCulture. |
+| [set_DateSignedAtLabel](./set_datesignedatlabel/)(const System::String\&) | Gets/sets date signed label. Default value: "Date". |
+| [set_DateTimeFormat](./set_datetimeformat/)(const System::String\&) | Gets/sets datetime format. Default value: "yyyy.MM.dd HH:mm:ss". |
+| [set_DateTimeLocalFormat](./set_datetimelocalformat/)(const System::String\&) | Gets/sets datetime local format. Default value: "yyyy.MM.dd HH:mm:ss zzz". |
+| [set_DigitalSignedLabel](./set_digitalsignedlabel/)(const System::String\&) | Gets/sets digital signed label. Default value: "Digitally signed by". |
+| [set_DigitalSubjectFormat](./set_digitalsubjectformat/)(const System::ArrayPtr\<SubjectNameElements\>\&) | Gets/sets format for order of elements in Subject string. Result examples: C=UK, CN=Org, O=Organization or CN=Org, C=UK, O=Organization or O=Organization. |
+| [set_FontFamilyName](./set_fontfamilyname/)(const System::String\&) | Gets/sets font family name. It should be existed in the document. Default value: Arial. |
 | [set_FontSize](./set_fontsize/)(double) | Gets/sets font size. Default value: 10. |
-| [set_ForegroundColor](./set_foregroundcolor/)(System::SharedPtr\<Color\>) | Gets/sets foreground color (color of text). Default value: Blue. |
+| [set_ForegroundColor](./set_foregroundcolor/)(const System::SharedPtr\<Color\>\&) | Gets/sets foreground color (color of text). Default value: Blue. |
 | [set_IsForegroundImage](./set_isforegroundimage/)(bool) | Sets a value indicating whether the image in the signature appearance is drawn as a foreground image. Default value: false. |
-| [set_LocationLabel](./set_locationlabel/)(System::String) | Gets/sets location label. Default value: "Location". |
-| [set_ReasonLabel](./set_reasonlabel/)(System::String) | Gets/sets reason label. Default value: "Reason". |
+| [set_LocationLabel](./set_locationlabel/)(const System::String\&) | Gets/sets location label. Default value: "Location". |
+| [set_ReasonLabel](./set_reasonlabel/)(const System::String\&) | Gets/sets reason label. Default value: "Reason". |
 | [set_Rotation](./set_rotation/)(Aspose::Pdf::Rotation) | Sets signature rotation. |
 | [set_ShowContactInfo](./set_showcontactinfo/)(bool) | Gets/sets contact info visibility. Default value: true. |
 | [set_ShowLocation](./set_showlocation/)(bool) | Gets/sets location visibility. Default value: true. |

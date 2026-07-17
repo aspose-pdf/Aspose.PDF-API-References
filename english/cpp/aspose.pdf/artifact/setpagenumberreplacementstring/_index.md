@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/artifact/setpagenumberreplacementstring/
 Sets what string will be replaced with the page number. The default value is #.
 
 ```cpp
-void Aspose::Pdf::Artifact::SetPageNumberReplacementString(System::String value)
+void Aspose::Pdf::Artifact::SetPageNumberReplacementString(const System::String &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | System::String | String value that should be replaced with the page number. |
+| value | const System::String\& | String value that should be replaced with the page number. |
 
 ## See Also
 

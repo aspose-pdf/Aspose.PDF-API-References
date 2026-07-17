@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfsaveoptions/set_temppath/
 Path for temporary files.
 
 ```cpp
-void Aspose::Pdf::PdfSaveOptions::set_TempPath(System::String value)
+void Aspose::Pdf::PdfSaveOptions::set_TempPath(const System::String &value)
 ```
 
 ## See Also

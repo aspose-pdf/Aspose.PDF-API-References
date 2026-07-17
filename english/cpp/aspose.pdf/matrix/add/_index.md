@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/matrix/add/
 Adds matrix to other matrix.
 
 ```cpp
-System::SharedPtr<Matrix> Aspose::Pdf::Matrix::Add(System::SharedPtr<Matrix> other)
+System::SharedPtr<Matrix> Aspose::Pdf::Matrix::Add(const System::SharedPtr<Matrix> &other)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| other | System::SharedPtr\<Matrix\> | [Matrix](../) to be added. |
+| other | const System::SharedPtr\<Matrix\>\& | [Matrix](../) to be added. |
 
 ### ReturnValue
 

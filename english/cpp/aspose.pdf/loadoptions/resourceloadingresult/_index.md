@@ -21,7 +21,7 @@ class ResourceLoadingResult : public System::Object
 | Method | Description |
 | --- | --- |
 | [get_Data](./get_data/)() const | Bynary data that loaded with custom loader - it must be set after loading. |
-| [ResourceLoadingResult](./resourceloadingresult/)(System::ArrayPtr\<uint8_t\>) | Creates instance of loading result. |
+| [ResourceLoadingResult](./resourceloadingresult/)(const System::ArrayPtr\<uint8_t\>\&) | Creates instance of loading result. |
 ## See Also
 
 * Class [Object](../../../system/object/)

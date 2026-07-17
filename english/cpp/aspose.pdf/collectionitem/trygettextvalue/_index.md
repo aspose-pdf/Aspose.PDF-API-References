@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/collectionitem/trygettextvalue/
 Tries to get the text value with the specified name from the collection item.
 
 ```cpp
-bool Aspose::Pdf::CollectionItem::TryGetTextValue(System::String name, System::SharedPtr<CollectionItem::Value<System::String>> &value)
+bool Aspose::Pdf::CollectionItem::TryGetTextValue(const System::String &name, System::SharedPtr<CollectionItem::Value<System::String>> &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | The name of the text value. |
+| name | const System::String\& | The name of the text value. |
 | value | System::SharedPtr\<CollectionItem::Value\<System::String\>\>\& | When this method returns, contains the text value associated with the specified name, if the name is found; otherwise, null. |
 
 ### ReturnValue

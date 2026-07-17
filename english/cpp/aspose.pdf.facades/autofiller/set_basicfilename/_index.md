@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/autofiller/set_basicfilename/
 Sets the basic file name if many small files will be generated. The generated file will be like "BasicFileName0","BasicFileName1",... It works with another property [GeneratingPath](../)GeneratingPath.
 
 ```cpp
-void Aspose::Pdf::Facades::AutoFiller::set_BasicFileName(System::String value)
+void Aspose::Pdf::Facades::AutoFiller::set_BasicFileName(const System::String &value)
 ```
 
 ## See Also

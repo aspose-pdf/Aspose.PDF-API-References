@@ -20,7 +20,7 @@ class HighlightingModeConverter : public System::Object
 
 | Method | Description |
 | --- | --- |
-| static [ToEnum](./toenum/)(System::String) |  |
+| static [ToEnum](./toenum/)(const System::String\&) |  |
 | static [ToString](./tostring/)(HighlightingMode) |  |
 ## See Also
 

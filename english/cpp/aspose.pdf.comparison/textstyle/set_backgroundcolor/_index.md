@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison/textstyle/set_backgroundcolor/
 Gets and sets the background color.
 
 ```cpp
-void Aspose::Pdf::Comparison::TextStyle::set_BackgroundColor(System::SharedPtr<Aspose::Pdf::Color> value)
+void Aspose::Pdf::Comparison::TextStyle::set_BackgroundColor(const System::SharedPtr<Aspose::Pdf::Color> &value)
 ```
 
 ## See Also

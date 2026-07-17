@@ -20,7 +20,7 @@ class FormEditorSetOptions : public Aspose::Pdf::LowCode::FormEditorOptions
 
 | Method | Description |
 | --- | --- |
-| [FormEditorSetOptions](./formeditorsetoptions/)(SelectField, System::SharedPtr\<FormFieldSetOptions\>) | Initializes a new instance of the [FormEditorSetOptions](./) object, in which the values assigned to the properties of the field are specified. |
+| [FormEditorSetOptions](./formeditorsetoptions/)(SelectField, const System::SharedPtr\<FormFieldSetOptions\>\&) | Initializes a new instance of the [FormEditorSetOptions](./) object, in which the values assigned to the properties of the field are specified. |
 ## See Also
 
 * Class [FormEditorOptions](../formeditoroptions/)

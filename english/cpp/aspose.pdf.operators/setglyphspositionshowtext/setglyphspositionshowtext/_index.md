@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.operators/setglyphspositionshowtext/setglyphspositionshowte
 Constructor for TJ operator.
 
 ```cpp
-Aspose::Pdf::Operators::SetGlyphsPositionShowText::SetGlyphsPositionShowText(System::SharedPtr<System::Collections::Generic::IEnumerable<System::SharedPtr<GlyphPosition>>> glyphPositions)
+Aspose::Pdf::Operators::SetGlyphsPositionShowText::SetGlyphsPositionShowText(const System::SharedPtr<System::Collections::Generic::IEnumerable<System::SharedPtr<GlyphPosition>>> &glyphPositions)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| glyphPositions | System::SharedPtr\<System::Collections::Generic::IEnumerable\<System::SharedPtr\<GlyphPosition\>\>\> | List of Glyph Positions. |
+| glyphPositions | const System::SharedPtr\<System::Collections::Generic::IEnumerable\<System::SharedPtr\<GlyphPosition\>\>\>\& | List of Glyph Positions. |
 
 ## See Also
 

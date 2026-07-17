@@ -26,10 +26,10 @@ class PDF3DRenderMode : public System::Object
 | [GetFaceColor](./getfacecolor/)() | Gets the color of the face. |
 | [GetOpacity](./getopacity/)() | Gets the opacity. |
 | [PDF3DRenderMode](./pdf3drendermode/)(RenderModeType) | Initializes a new instance of the [PDF3DRenderMode](./) class. |
-| [PDF3DRenderMode](./pdf3drendermode/)(System::String) | Initializes a new instance of the [PDF3DRenderMode](./) class. |
-| [SetAuxiliaryColour](./setauxiliarycolour/)(System::SharedPtr\<Color\>) | Sets the auxiliary colour. |
+| [PDF3DRenderMode](./pdf3drendermode/)(const System::String\&) | Initializes a new instance of the [PDF3DRenderMode](./) class. |
+| [SetAuxiliaryColour](./setauxiliarycolour/)(const System::SharedPtr\<Color\>\&) | Sets the auxiliary colour. |
 | [SetCreaseValue](./setcreasevalue/)(double) | Sets the crease value. |
-| [SetFaceColor](./setfacecolor/)(System::SharedPtr\<Color\>) | Sets the color of the face. |
+| [SetFaceColor](./setfacecolor/)(const System::SharedPtr\<Color\>\&) | Sets the color of the face. |
 | [SetOpacity](./setopacity/)(double) | Sets the opacity. |
 ## Fields
 

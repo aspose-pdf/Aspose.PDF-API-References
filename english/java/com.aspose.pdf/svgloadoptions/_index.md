@@ -1,107 +1,98 @@
 ---
 title: SvgLoadOptions
+linktitle: SvgLoadOptions
 second_title: Aspose.PDF for Java API Reference
 description: Represents options for loading/importing SVG file into pdf document.
 type: docs
-weight: 347
+weight: 4700
 url: /java/com.aspose.pdf/svgloadoptions/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.LoadOptions](../../com.aspose.pdf/loadoptions)
+java.lang.Object, com.aspose.pdf.LoadOptions com.aspose.pdf.SvgLoadOptions, com.aspose.pdf.LoadOptions, com.aspose.pdf.SvgLoadOptions
+
 ```
 public final class SvgLoadOptions extends LoadOptions
 ```
 
 Represents options for loading/importing SVG file into pdf document.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [SvgLoadOptions()](#SvgLoadOptions--) | Creates  SvgLoadOptions  object. |
+| [SvgLoadOptions](#SvgLoadOptions--) | Creates {@code SvgLoadOptions} object. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getConversionEngine()](#getConversionEngine--) | Allows select conversion engine that will be in use during conversion. |
-| [setConversionEngine(int conversionEngine)](#setConversionEngine-int-) | Allows select conversion engine that will be in use during conversion. |
-| [getPageInfo()](#getPageInfo--) | Gets page info that should be applied during loading of document. |
-| [setPageInfo(PageInfo value)](#setPageInfo-com.aspose.pdf.PageInfo-) | Sets page info that should be applied during loading of document. |
-| [isAdjustPageSize()](#isAdjustPageSize--) | Adust pdf page size to svg size |
-| [setAdjustPageSize(boolean value)](#setAdjustPageSize-boolean-) | Adust pdf page size to svg size |
-### SvgLoadOptions() {#SvgLoadOptions--}
+| [getConversionEngine](#getConversionEngine--) | Allows select conversion engine that will be in use during conversion. Currently new engine is in B-testing stage, so this value by default set to ConversionEngines.LegacyEngine |
+| [getPageInfo](#getPageInfo--) | Gets page info that should be applied during loading of document. |
+| [isAdjustPageSize](#isAdjustPageSize--) | Adust pdf page size to svg size |
+| [setAdjustPageSize](#setAdjustPageSize-boolean-) | Adust pdf page size to svg size |
+| [setConversionEngine](#setConversionEngine-int-) | Allows select conversion engine that will be in use during conversion. Currently new engine is in B-testing stage, so this value by default set to ConversionEngines.LegacyEngine |
+| [setPageInfo](#setPageInfo-com.aspose.pdf.PageInfo-) | Sets page info that should be applied during loading of document. |
+
+### SvgLoadOptions {#SvgLoadOptions--}
 ```
 public SvgLoadOptions()
 ```
 
+Creates {@code SvgLoadOptions} object.
 
-Creates  SvgLoadOptions  object.
-
-### getConversionEngine() {#getConversionEngine--}
+### getConversionEngine {#getConversionEngine--}
 ```
 public int getConversionEngine()
 ```
 
-
 Allows select conversion engine that will be in use during conversion. Currently new engine is in B-testing stage, so this value by default set to ConversionEngines.LegacyEngine
 
 **Returns:**
-int - ConversionEngines element
-### setConversionEngine(int conversionEngine) {#setConversionEngine-int-}
-```
-public void setConversionEngine(int conversionEngine)
-```
+ConversionEngines element @see ConversionEngines
 
-
-Allows select conversion engine that will be in use during conversion. Currently new engine is in B-testing stage, so this value by default set to ConversionEngines.LegacyEngine
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| conversionEngine | int | ConversionEngines element |
-
-### getPageInfo() {#getPageInfo--}
+### getPageInfo {#getPageInfo--}
 ```
 public PageInfo getPageInfo()
 ```
 
-
-Gets page info that should be applied during loading of document. NOTE that this parameter only works when ConversionEngine == ConversionEngines.NewEngine
+Gets page info that should be applied during loading of document.
 
 **Returns:**
-[PageInfo](../../com.aspose.pdf/pageinfo) - PageInfo object
-### setPageInfo(PageInfo value) {#setPageInfo-com.aspose.pdf.PageInfo-}
-```
-public void setPageInfo(PageInfo value)
-```
+PageInfo object
 
-
-Sets page info that should be applied during loading of document. NOTE that this parameter only works when ConversionEngine == ConversionEngines.NewEngine
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | [PageInfo](../../com.aspose.pdf/pageinfo) | PageInfo object |
-
-### isAdjustPageSize() {#isAdjustPageSize--}
+### isAdjustPageSize {#isAdjustPageSize--}
 ```
 public boolean isAdjustPageSize()
 ```
 
-
 Adust pdf page size to svg size
 
 **Returns:**
-boolean - boolean value
-### setAdjustPageSize(boolean value) {#setAdjustPageSize-boolean-}
+boolean value
+
+### setAdjustPageSize {#setAdjustPageSize-boolean-}
 ```
 public void setAdjustPageSize(boolean value)
 ```
-
 
 Adust pdf page size to svg size
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | boolean | boolean value |
+| value |  | boolean value |
 
+### setConversionEngine {#setConversionEngine-int-}
+```
+public void setConversionEngine(int conversionEngine)
+```
+
+Allows select conversion engine that will be in use during conversion. Currently new engine is in B-testing stage, so this value by default set to ConversionEngines.LegacyEngine
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| conversionEngine |  | ConversionEngines element @see ConversionEngines |
+
+### setPageInfo {#setPageInfo-com.aspose.pdf.PageInfo-}
+Sets page info that should be applied during loading of document.

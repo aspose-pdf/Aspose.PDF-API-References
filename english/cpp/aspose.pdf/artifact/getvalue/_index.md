@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/artifact/getvalue/
 Gets custom value of artifact.
 
 ```cpp
-System::String Aspose::Pdf::Artifact::GetValue(System::String name)
+System::String Aspose::Pdf::Artifact::GetValue(const System::String &name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | Name of value. |
+| name | const System::String\& | Name of value. |
 
 ### ReturnValue
 

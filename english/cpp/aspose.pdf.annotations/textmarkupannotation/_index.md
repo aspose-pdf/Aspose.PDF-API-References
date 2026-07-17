@@ -24,7 +24,7 @@ class TextMarkupAnnotation : public Aspose::Pdf::Annotations::MarkupAnnotation
 | [get_QuadPoints](./get_quadpoints/)() | Gets an array of points specifying the coordinates of n quadrilaterals. Each quadrilateral encompasses a word or group of contiguous words in the text underlying the annotation. |
 | [GetMarkedText](./getmarkedtext/)() | Gets text under markup annotation as string. |
 | [GetMarkedTextFragments](./getmarkedtextfragments/)() | Gets text under markup annotation as [TextFragmentCollection](../). |
-| [set_QuadPoints](./set_quadpoints/)(System::ArrayPtr\<System::SharedPtr\<Point\>\>) | Sets an array of points specifying the coordinates of n quadrilaterals. Each quadrilateral encompasses a word or group of contiguous words in the text underlying the annotation. |
+| [set_QuadPoints](./set_quadpoints/)(const System::ArrayPtr\<System::SharedPtr\<Point\>\>\&) | Sets an array of points specifying the coordinates of n quadrilaterals. Each quadrilateral encompasses a word or group of contiguous words in the text underlying the annotation. |
 ## See Also
 
 * Class [MarkupAnnotation](../markupannotation/)

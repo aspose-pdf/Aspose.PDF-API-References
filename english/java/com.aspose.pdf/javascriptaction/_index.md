@@ -1,62 +1,48 @@
 ---
 title: JavascriptAction
+linktitle: JavascriptAction
 second_title: Aspose.PDF for Java API Reference
 description: Class representing javascript action.
 type: docs
-weight: 181
+weight: 2560
 url: /java/com.aspose.pdf/javascriptaction/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.PdfAction](../../com.aspose.pdf/pdfaction)
+java.lang.Object, com.aspose.pdf.PdfAction com.aspose.pdf.JavascriptAction, com.aspose.pdf.PdfAction, com.aspose.pdf.JavascriptAction
+
+**All Implemented Interfaces:**
+IAppointment
+
 ```
 public final class JavascriptAction extends PdfAction
 ```
 
 Class representing javascript action.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [JavascriptAction(String javaScript)](#JavascriptAction-java.lang.String-) | Constructor. |
+| [JavascriptAction](#JavascriptAction-java.lang.String-) | Constructor. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getScript()](#getScript--) | Gets javascript code. |
-| [setScript(String value)](#setScript-java.lang.String-) |  |
-### JavascriptAction(String javaScript) {#JavascriptAction-java.lang.String-}
-```
-public JavascriptAction(String javaScript)
-```
+| [getScript](#getScript--) | Gets javascript code. |
+| [setScript](#setScript-java.lang.String-) |  |
 
-
+### JavascriptAction {#JavascriptAction-java.lang.String-}
 Constructor.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| javaScript | java.lang.String | JavaScript code. |
-
-### getScript() {#getScript--}
+### getScript {#getScript--}
 ```
 public String getScript()
 ```
 
-
 Gets javascript code.
 
 **Returns:**
-java.lang.String - String value
-### setScript(String value) {#setScript-java.lang.String-}
-```
-public void setScript(String value)
-```
+String value
 
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String |  |
-
+### setScript {#setScript-java.lang.String-}

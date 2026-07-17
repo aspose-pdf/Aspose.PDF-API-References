@@ -21,20 +21,20 @@ void Aspose::Pdf::Facades::PdfContentEditor::DeleteImage()
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfContentEditor::DeleteImage(int32_t, System::ArrayPtr\<int32_t\>) method
+## PdfContentEditor::DeleteImage(int32_t, const System::ArrayPtr\<int32_t\>\&) method
 
 
 Deletes the specified images on the specified page.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfContentEditor::DeleteImage(int32_t pageNumber, System::ArrayPtr<int32_t> index)
+void Aspose::Pdf::Facades::PdfContentEditor::DeleteImage(int32_t pageNumber, const System::ArrayPtr<int32_t> &index)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pageNumber | int32_t | The number of page on which images must be deleted. |
-| index | System::ArrayPtr\<int32_t\> | An array repsents images' indexes. |
+| index | const System::ArrayPtr\<int32_t\>\& | An array repsents images' indexes. |
 
 ## See Also
 

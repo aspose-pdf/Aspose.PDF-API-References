@@ -21,9 +21,9 @@ class ComboBoxField : public Aspose::Pdf::Forms::ChoiceField
 | Method | Description |
 | --- | --- |
 | [ComboBoxField](./comboboxfield/)() | Constructor for [ComboBoxField](./) to be used in Generator. |
-| [ComboBoxField](./comboboxfield/)(System::SharedPtr\<Document\>) | Creates CombBox field to work with Generator. |
-| [ComboBoxField](./comboboxfield/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) | Constructor for Combobox [Field](../field/). |
-| [ComboBoxField](./comboboxfield/)(System::SharedPtr\<Document\>, System::SharedPtr\<Rectangle\>) | Constructor for Combobox field. |
+| [ComboBoxField](./comboboxfield/)(const System::SharedPtr\<Document\>\&) | Creates CombBox field to work with Generator. |
+| [ComboBoxField](./comboboxfield/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&) | Constructor for Combobox [Field](../field/). |
+| [ComboBoxField](./comboboxfield/)(const System::SharedPtr\<Document\>\&, const System::SharedPtr\<Rectangle\>\&) | Constructor for Combobox field. |
 | [get_Editable](./get_editable/)() | Gets editable status of the field. |
 | [get_SpellCheck](./get_spellcheck/)() | Gets spellchaeck activiity status. |
 | [set_Editable](./set_editable/)(bool) | Sets editable status of the field. |

@@ -21,19 +21,19 @@ Aspose::Pdf::Text::TextSegment::TextSegment()
 * Class [TextSegment](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TextSegment::TextSegment(System::String) constructor
+## TextSegment::TextSegment(const System::String\&) constructor
 
 
 Creates [TextSegment](../) object.
 
 ```cpp
-Aspose::Pdf::Text::TextSegment::TextSegment(System::String text)
+Aspose::Pdf::Text::TextSegment::TextSegment(const System::String &text)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | System::String | [Text](../../) segment's text. |
+| text | const System::String\& | [Text](../../) segment's text. |
 
 ## See Also
 

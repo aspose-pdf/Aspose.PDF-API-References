@@ -20,8 +20,8 @@ class FitBExplicitDestination : public Aspose::Pdf::Annotations::ExplicitDestina
 
 | Method | Description |
 | --- | --- |
-| [FitBExplicitDestination](./fitbexplicitdestination/)(System::SharedPtr\<Aspose::Pdf::Page\>) | Creates local explicit destination. |
-| [FitBExplicitDestination](./fitbexplicitdestination/)(System::SharedPtr\<Document\>, int32_t) | Creates remote explicit destination. |
+| [FitBExplicitDestination](./fitbexplicitdestination/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&) | Creates local explicit destination. |
+| [FitBExplicitDestination](./fitbexplicitdestination/)(const System::SharedPtr\<Document\>\&, int32_t) | Creates remote explicit destination. |
 | [FitBExplicitDestination](./fitbexplicitdestination/)(int32_t) | Creates remote explicit destination. |
 | [ToString](./tostring/)() const override | Converts the object state into string value. Example: "1 FitB". |
 ## See Also

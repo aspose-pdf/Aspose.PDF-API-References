@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signaturecustomappearance/set_datetimelocalformat/
 Gets/sets datetime local format. Default value: "yyyy.MM.dd HH:mm:ss zzz".
 
 ```cpp
-void Aspose::Pdf::Forms::SignatureCustomAppearance::set_DateTimeLocalFormat(System::String value)
+void Aspose::Pdf::Forms::SignatureCustomAppearance::set_DateTimeLocalFormat(const System::String &value)
 ```
 
 ## See Also

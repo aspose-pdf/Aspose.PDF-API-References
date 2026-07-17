@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison/comparisonoptions/set_excludeareas1/
 Get and set the exclude areas. Used for the first page or document in the comparison method. This option can be setted along with [ExcludeTables](../). This option can't be setted along with [ExtractionArea](../) option.
 
 ```cpp
-void Aspose::Pdf::Comparison::ComparisonOptions::set_ExcludeAreas1(System::ArrayPtr<System::SharedPtr<Rectangle>> value)
+void Aspose::Pdf::Comparison::ComparisonOptions::set_ExcludeAreas1(const System::ArrayPtr<System::SharedPtr<Rectangle>> &value)
 ```
 
 ## See Also

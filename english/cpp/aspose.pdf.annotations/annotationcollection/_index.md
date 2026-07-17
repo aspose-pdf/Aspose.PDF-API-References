@@ -20,16 +20,16 @@ class AnnotationCollection : public System::Collections::Generic::ICollection<Sy
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) | Accepts visitor to process annotation. |
-| [Add](./add/)(System::SharedPtr\<Annotation\>, bool) | Adds annotation to the collection. If page is rotated then annotation rectangle will be recalculated accordingly. |
+| [Accept](./accept/)(const System::SharedPtr\<AnnotationSelector\>\&) | Accepts visitor to process annotation. |
+| [Add](./add/)(const System::SharedPtr\<Annotation\>\&, bool) | Adds annotation to the collection. If page is rotated then annotation rectangle will be recalculated accordingly. |
 | [Add](./add/)(const System::SharedPtr\<Annotation\>\&) override | Adds annotation to the collection. |
 | [Clear](./clear/)() override | Deletes all annotations from the collection. |
 | [Contains](./contains/)(const System::SharedPtr\<Annotation\>\&) const override | Checks if specified annotation belong to collection. |
 | [CopyTo](./copyto/)(System::ArrayPtr\<System::SharedPtr\<Annotation\>\>, int32_t) override | Copies array of annotations into collection. |
 | [Delete](./delete/)(int32_t) | Deletes annotation from the collection by index. |
 | [Delete](./delete/)() | Deletes all annotations from the collection. |
-| [Delete](./delete/)(System::SharedPtr\<Annotation\>) | Deletes specified annotation from the collection. |
-| [FindByName](./findbyname/)(System::String) | Returns annotation by its name. |
+| [Delete](./delete/)(const System::SharedPtr\<Annotation\>\&) | Deletes specified annotation from the collection. |
+| [FindByName](./findbyname/)(const System::String\&) | Returns annotation by its name. |
 | [get_Count](./get_count/)() const override | Gets count of annotations in collection. |
 | [get_IsReadOnly](./get_isreadonly/)() const override | Gets a value indicating if collection is readonly. |
 | [get_IsSynchronized](./get_issynchronized/)() | Gets a value indicating whether access to the [Aspose.Pdf.Annotations.AnnotationCollection](./) is synchronized (thread safe). |

@@ -1,5 +1,6 @@
 ---
 title: Element
+linktitle: Element
 second_title: Aspose.PDF for Java API Reference
 description: Represents a base class for element in logical structure.
 type: docs
@@ -7,142 +8,155 @@ weight: 10
 url: /java/com.aspose.pdf.tagged.logicalstructure.elements/element/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.tagged.logicalstructure.elements.Element
+
 ```
-public abstract class Element
+public abstract class Element extends Object
 ```
 
 Represents a base class for element in logical structure.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getTrailer()](#getTrailer--) | Internam method |
-| [getTaggedContent()](#getTaggedContent--) |  |
-| [getElementEngine()](#getElementEngine--) | Get parent element. |
-| [getParentElement()](#getParentElement--) | Gets parent collection of  Element  objects. |
-| [getChildElements()](#getChildElements--) | Gets children collection of  Element  objects. |
-| [<T>findElements(Class<T> typeOfTboolean)](#-T-findElements-java.lang.Class-T--) | Find Elements of a given type |
-| [<T>findElements(Class<T> typeOfT, boolean recursiveSearch)](#-T-findElements-java.lang.Class-T--boolean-) | Find Elements of a given type |
-| [setParentElement(Element parentElement)](#setParentElement-com.aspose.pdf.tagged.logicalstructure.elements.Element-) |  |
-| [appendChild(Element element)](#appendChild-com.aspose.pdf.tagged.logicalstructure.elements.Element-) | Append  /Aspose.Pdf.LogicalStructure.Element  to collection of children. |
-| [toString()](#toString--) | Returns a string that represents the current object. |
-### getTrailer() {#getTrailer--}
+| [appendChild](#appendChild-com.aspose.pdf.tagged.logicalstructure.elements.Element-) | Append {@code /Aspose.Pdf.LogicalStructure.Element} to collection of children. |
+| [appendChild](#appendChild-com.aspose.pdf.tagged.logicalstructure.elements.Element-boolean-) | Append {@code /Aspose.Pdf.LogicalStructure.Element} to collection of children. |
+| [clearChilds](#clearChilds--) | Clear all childs. |
+| [findElements](#findElements-java.lang.Class-) | Find Elements of a given type |
+| [findElements](#findElements-java.lang.Class-boolean-) | Find Elements of a given type |
+| [getChildElements](#getChildElements--) | Gets children collection of {@code Element} objects. |
+| [getElementEngine](#getElementEngine--) | Get parent element. |
+| [getParentElement](#getParentElement--) | Gets parent collection of {@code Element} objects. |
+| [getTaggedContent](#getTaggedContent--) |  |
+| [getTrailer](#getTrailer--) | Internal method |
+| [insertChild](#insertChild-com.aspose.pdf.tagged.logicalstructure.elements.Element-int-) | Insert {@code /Aspose.Pdf.LogicalStructure.Element} to collection of children at specified index. |
+| [insertChild](#insertChild-com.aspose.pdf.tagged.logicalstructure.elements.Element-int-boolean-) | Insert {@code /Aspose.Pdf.LogicalStructure.Element} to collection of children at specified index. |
+| [preSave](#preSave--) |  |
+| [removeChild](#removeChild-int-) | Remove child at. |
+| [setParentElement](#setParentElement-com.aspose.pdf.tagged.logicalstructure.elements.Element-) |  |
+| [tag](#tag-com.aspose.pdf.Annotation-) | Bind a structure element to the Annotation. |
+| [tag](#tag-com.aspose.pdf.Artifact-) | Bind a structure element to the Artifact. |
+| [tag](#tag-com.aspose.pdf.operators.BDC-) | Bind a structure element to the content stream BDC operator. |
+| [tag](#tag-com.aspose.pdf.XForm-) | Bind a structure element to the content stream XForm. |
+| [tag](#tag-com.aspose.pdf.XImage-) | Bind a structure element to the XImage. |
+| [toString](#toString--) | Returns a string that represents the current object. |
+
+### appendChild {#appendChild-com.aspose.pdf.tagged.logicalstructure.elements.Element-}
+Append {@code /Aspose.Pdf.LogicalStructure.Element} to collection of children.
+
+### appendChild {#appendChild-com.aspose.pdf.tagged.logicalstructure.elements.Element-boolean-}
+Append {@code /Aspose.Pdf.LogicalStructure.Element} to collection of children.
+
+### clearChilds {#clearChilds--}
 ```
-public final ITrailerable getTrailer()
+public final void clearChilds()
 ```
 
+Clear all childs.
 
-Internam method
+### findElements {#findElements-java.lang.Class-}
+Find Elements of a given type
+
+### findElements {#findElements-java.lang.Class-boolean-}
+Find Elements of a given type
+
+### getChildElements {#getChildElements--}
+```
+public final ElementList getChildElements()
+```
+
+Gets children collection of {@code Element} objects.
 
 **Returns:**
-[ITrailerable](../../com.aspose.pdf.engine.data/itrailerable) - Internal element
-### getTaggedContent() {#getTaggedContent--}
+Value: Children collection of {@code Element} objects.
+
+### getElementEngine {#getElementEngine--}
+```
+public final ElementPdfEngine getElementEngine()
+```
+
+Get parent element.
+
+**Returns:**
+Value: Parent element.
+
+### getParentElement {#getParentElement--}
+```
+public final Element getParentElement()
+```
+
+Gets parent collection of {@code Element} objects.
+
+**Returns:**
+Value: Parent collection of {@code Element} objects.
+
+### getTaggedContent {#getTaggedContent--}
 ```
 public final ITaggedContent getTaggedContent()
 ```
 
 
 
+### getTrailer {#getTrailer--}
+```
+public final com.aspose.pdf.engine.data.ITrailerable getTrailer()
+```
+
+Internal method
 
 **Returns:**
-[ITaggedContent](../../com.aspose.pdf.tagged/itaggedcontent)
-### getElementEngine() {#getElementEngine--}
-```
-public final ElementPdfEngine getElementEngine()
-```
+Internal element
 
+### insertChild {#insertChild-com.aspose.pdf.tagged.logicalstructure.elements.Element-int-}
+Insert {@code /Aspose.Pdf.LogicalStructure.Element} to collection of children at specified index.
 
-Get parent element.
+### insertChild {#insertChild-com.aspose.pdf.tagged.logicalstructure.elements.Element-int-boolean-}
+Insert {@code /Aspose.Pdf.LogicalStructure.Element} to collection of children at specified index.
 
-**Returns:**
-[ElementPdfEngine](../../com.aspose.pdf.tagged.logicalstructure/elementpdfengine) - Value: Parent element.
-### getParentElement() {#getParentElement--}
+### preSave {#preSave--}
 ```
-public final Element getParentElement()
+public void preSave()
 ```
 
 
-Gets parent collection of  Element  objects.
 
-**Returns:**
-[Element](../../com.aspose.pdf.tagged.logicalstructure.elements/element) - Value: Parent collection of  Element  objects.
-### getChildElements() {#getChildElements--}
+### removeChild {#removeChild-int-}
 ```
-public final ElementList getChildElements()
+public final void removeChild(int index)
 ```
 
-
-Gets children collection of  Element  objects.
-
-**Returns:**
-[ElementList](../../com.aspose.pdf.tagged.logicalstructure/elementlist) - Value: Children collection of  Element  objects.
-### <T>findElements(Class<T> typeOfTboolean) {#-T-findElements-java.lang.Class-T--}
-```
-public List<T> <T>findElements(Class<T> typeOfTboolean)
-```
-
-
-Find Elements of a given type
+Remove child at.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| typeOfTboolean | java.lang.Class<T> | class instance |
+| index |  | Child element index. |
 
-**Returns:**
-java.util.List<T> - List of found Elements
-### <T>findElements(Class<T> typeOfT, boolean recursiveSearch) {#-T-findElements-java.lang.Class-T--boolean-}
-```
-public List<T> <T>findElements(Class<T> typeOfT, boolean recursiveSearch)
-```
+### setParentElement {#setParentElement-com.aspose.pdf.tagged.logicalstructure.elements.Element-}
 
 
-Find Elements of a given type
+### tag {#tag-com.aspose.pdf.Annotation-}
+Bind a structure element to the Annotation.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| typeOfT | java.lang.Class<T> | class instance |
-| recursiveSearch | boolean | (Optional) Recursive Search (default false, search only from direct children) |
+### tag {#tag-com.aspose.pdf.Artifact-}
+Bind a structure element to the Artifact.
 
-**Returns:**
-java.util.List<T> - List of found Elements
-### setParentElement(Element parentElement) {#setParentElement-com.aspose.pdf.tagged.logicalstructure.elements.Element-}
-```
-public void setParentElement(Element parentElement)
-```
+### tag {#tag-com.aspose.pdf.operators.BDC-}
+Bind a structure element to the content stream BDC operator.
 
+### tag {#tag-com.aspose.pdf.XForm-}
+Bind a structure element to the content stream XForm.
 
+### tag {#tag-com.aspose.pdf.XImage-}
+Bind a structure element to the XImage.
 
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| parentElement | [Element](../../com.aspose.pdf.tagged.logicalstructure.elements/element) |  |
-
-### appendChild(Element element) {#appendChild-com.aspose.pdf.tagged.logicalstructure.elements.Element-}
-```
-public final Element appendChild(Element element)
-```
-
-
-Append  /Aspose.Pdf.LogicalStructure.Element  to collection of children.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| element | [Element](../../com.aspose.pdf.tagged.logicalstructure.elements/element) |  /Aspose.Pdf.LogicalStructure.Element  object to add. |
-
-**Returns:**
-[Element](../../com.aspose.pdf.tagged.logicalstructure.elements/element) -  /Aspose.Pdf.LogicalStructure.Element  which has been added.
-### toString() {#toString--}
+### toString {#toString--}
 ```
 public String toString()
 ```
 
-
 Returns a string that represents the current object.
 
 **Returns:**
-java.lang.String - String that represents the current object.
+String that represents the current object.

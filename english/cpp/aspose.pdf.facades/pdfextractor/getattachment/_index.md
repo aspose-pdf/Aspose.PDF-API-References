@@ -29,19 +29,19 @@ The stream array of the attachment file in the pdf document.
 * Class [PdfExtractor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfExtractor::GetAttachment(System::String) method
+## PdfExtractor::GetAttachment(const System::String\&) method
 
 
 Stores attachment into file.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfExtractor::GetAttachment(System::String outputPath)
+void Aspose::Pdf::Facades::PdfExtractor::GetAttachment(const System::String &outputPath)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputPath | System::String | Directory path where attachment(s) will be stored. Null or empty string means attachment(s) will be placed in the application directory. |
+| outputPath | const System::String\& | Directory path where attachment(s) will be stored. Null or empty string means attachment(s) will be placed in the application directory. |
 
 ## See Also
 

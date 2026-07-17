@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.annotations/measure/numberformatlist/insert/
 Inserts number format into list.
 
 ```cpp
-void Aspose::Pdf::Annotations::Measure::NumberFormatList::Insert(int32_t index, System::SharedPtr<Measure::NumberFormat> value)
+void Aspose::Pdf::Annotations::Measure::NumberFormatList::Insert(int32_t index, const System::SharedPtr<Measure::NumberFormat> &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | index | int32_t | Index where new element will be added. |
-| value | System::SharedPtr\<Measure::NumberFormat\> | Value to be inserted. |
+| value | const System::SharedPtr\<Measure::NumberFormat\>\& | Value to be inserted. |
 
 ## See Also
 

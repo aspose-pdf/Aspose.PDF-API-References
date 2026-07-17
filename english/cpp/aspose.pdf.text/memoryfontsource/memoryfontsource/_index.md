@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.text/memoryfontsource/memoryfontsource/
 Initializes a new instance of [MemoryFontSource](../) class.
 
 ```cpp
-Aspose::Pdf::Text::MemoryFontSource::MemoryFontSource(System::ArrayPtr<uint8_t> fontBytes)
+Aspose::Pdf::Text::MemoryFontSource::MemoryFontSource(const System::ArrayPtr<uint8_t> &fontBytes)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontBytes | System::ArrayPtr\<uint8_t\> | [Font](../../font/) file byte array. |
+| fontBytes | const System::ArrayPtr\<uint8_t\>\& | [Font](../../font/) file byte array. |
 
 ## See Also
 

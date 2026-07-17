@@ -7,20 +7,20 @@ type: docs
 weight: 1900
 url: /cpp/aspose.pdf.facades/pdfxmpmetadata/idx_set/
 ---
-## PdfXmpMetadata::idx_set(const DefaultMetadataProperties\&, System::SharedPtr\<XmpValue\>) method
+## PdfXmpMetadata::idx_set(const DefaultMetadataProperties\&, const System::SharedPtr\<XmpValue\>\&) method
 
 
 Gets value of XMP metadata by key.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfXmpMetadata::idx_set(const DefaultMetadataProperties &key, System::SharedPtr<XmpValue> value)
+void Aspose::Pdf::Facades::PdfXmpMetadata::idx_set(const DefaultMetadataProperties &key, const System::SharedPtr<XmpValue> &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | key | const DefaultMetadataProperties\& | Key of the value. |
-| value | System::SharedPtr\<XmpValue\> | Value from XMP metadata. |
+| value | const System::SharedPtr\<XmpValue\>\& | Value from XMP metadata. |
 
 ## See Also
 

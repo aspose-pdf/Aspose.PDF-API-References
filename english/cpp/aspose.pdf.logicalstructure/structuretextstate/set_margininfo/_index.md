@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretextstate/set_margininfo/
 Sets margin for block structure element.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::StructureTextState::set_MarginInfo(System::SharedPtr<Aspose::Pdf::MarginInfo> value)
+void Aspose::Pdf::LogicalStructure::StructureTextState::set_MarginInfo(const System::SharedPtr<Aspose::Pdf::MarginInfo> &value)
 ```
 
 

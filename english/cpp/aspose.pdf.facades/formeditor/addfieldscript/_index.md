@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.facades/formeditor/addfieldscript/
 Add JavaScript for a PushButton field. If old event exists, new event is added after it.
 
 ```cpp
-bool Aspose::Pdf::Facades::FormEditor::AddFieldScript(System::String fieldName, System::String script)
+bool Aspose::Pdf::Facades::FormEditor::AddFieldScript(const System::String &fieldName, const System::String &script)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | The fully qualified field name. |
-| script | System::String | The Java script to be added/placed into a push button field. |
+| fieldName | const System::String\& | The fully qualified field name. |
+| script | const System::String\& | The Java script to be added/placed into a push button field. |
 
 ### ReturnValue
 

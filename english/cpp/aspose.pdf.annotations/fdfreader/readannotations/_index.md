@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.annotations/fdfreader/readannotations/
 Import annotations from FDF file and put them into document.
 
 ```cpp
-static void Aspose::Pdf::Annotations::FdfReader::ReadAnnotations(System::SharedPtr<System::IO::Stream> stream, System::SharedPtr<Document> document)
+static void Aspose::Pdf::Annotations::FdfReader::ReadAnnotations(const System::SharedPtr<System::IO::Stream> &stream, const System::SharedPtr<Document> &document)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | System::SharedPtr\<System::IO::Stream\> | Source stream containing FDF file. |
-| document | System::SharedPtr\<Document\> | [Document](../../../aspose.pdf/document/) where annotations will be added. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | Source stream containing FDF file. |
+| document | const System::SharedPtr\<Document\>\& | [Document](../../../aspose.pdf/document/) where annotations will be added. |
 
 ## See Also
 

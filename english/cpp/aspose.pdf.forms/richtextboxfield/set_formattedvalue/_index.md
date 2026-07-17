@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/richtextboxfield/set_formattedvalue/
 Sets formatted rich text value with markup.
 
 ```cpp
-void Aspose::Pdf::Forms::RichTextBoxField::set_FormattedValue(System::String value)
+void Aspose::Pdf::Forms::RichTextBoxField::set_FormattedValue(const System::String &value)
 ```
 
 ## See Also

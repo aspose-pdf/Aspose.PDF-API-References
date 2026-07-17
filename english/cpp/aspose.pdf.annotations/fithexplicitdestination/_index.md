@@ -20,8 +20,8 @@ class FitHExplicitDestination : public Aspose::Pdf::Annotations::ExplicitDestina
 
 | Method | Description |
 | --- | --- |
-| [FitHExplicitDestination](./fithexplicitdestination/)(System::SharedPtr\<Aspose::Pdf::Page\>, double) | Creates local explicit destination. |
-| [FitHExplicitDestination](./fithexplicitdestination/)(System::SharedPtr\<Document\>, int32_t, double) | Creates remote explicit destination. |
+| [FitHExplicitDestination](./fithexplicitdestination/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, double) | Creates local explicit destination. |
+| [FitHExplicitDestination](./fithexplicitdestination/)(const System::SharedPtr\<Document\>\&, int32_t, double) | Creates remote explicit destination. |
 | [FitHExplicitDestination](./fithexplicitdestination/)(int32_t, double) | Creates remote explicit destination. |
 | [get_Top](./get_top/)() | Gets the vertical coordinate top positioned at the top edge of the window. |
 | [ToString](./tostring/)() const override | Converts the object state into string value. Example: "1 FitH 100". |

@@ -22,8 +22,8 @@ class SetColorRenderingIntent : public Aspose::Pdf::Operator
 | --- | --- |
 | [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_IntentName](./get_intentname/)() const | Gets color rendering intent name. |
-| [set_IntentName](./set_intentname/)(System::String) | Sets color rendering intent name. |
-| [SetColorRenderingIntent](./setcolorrenderingintent/)(System::String) | Set [Color](../../aspose.pdf/color/) Rendering Intent operator constructor. |
+| [set_IntentName](./set_intentname/)(const System::String\&) | Sets color rendering intent name. |
+| [SetColorRenderingIntent](./setcolorrenderingintent/)(const System::String\&) | Set [Color](../../aspose.pdf/color/) Rendering Intent operator constructor. |
 ## See Also
 
 * Class [Operator](../../aspose.pdf/operator/)

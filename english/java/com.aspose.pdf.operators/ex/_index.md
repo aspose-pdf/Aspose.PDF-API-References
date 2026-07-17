@@ -1,61 +1,43 @@
 ---
 title: EX
+linktitle: EX
 second_title: Aspose.PDF for Java API Reference
-description: Class representing EX operator End of compatibility section.
+description: Class representing EX operator (End of compatibility section).
 type: docs
-weight: 35
+weight: 270
 url: /java/com.aspose.pdf.operators/ex/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.Operator](../../com.aspose.pdf/operator)
+java.lang.Object, com.aspose.pdf.Operator com.aspose.pdf.operators.EX, com.aspose.pdf.Operator, com.aspose.pdf.operators.EX
+
 ```
 public class EX extends Operator
 ```
 
 Class representing EX operator (End of compatibility section).
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [EX()](#EX--) | Initializes operator. |
-| [EX(int index, ICommand command)](#EX-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
+| [EX](#EX--) | Initializes operator. |
+| [EX](#EX-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Initializes operator. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
-### EX() {#EX--}
+| [accept](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
+
+### EX {#EX--}
 ```
 public EX()
 ```
 
-
 Initializes operator.
 
-### EX(int index, ICommand command) {#EX-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public EX(int index, ICommand command)
-```
+### EX {#EX-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+Initializes operator.
 
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
-### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
-```
-public void accept(IOperatorSelector visitor)
-```
-
-
+### accept {#accept-com.aspose.pdf.IOperatorSelector-}
 Accepts visitor object to process operator.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| visitor | [IOperatorSelector](../../com.aspose.pdf/ioperatorselector) | Visitor object. |
-

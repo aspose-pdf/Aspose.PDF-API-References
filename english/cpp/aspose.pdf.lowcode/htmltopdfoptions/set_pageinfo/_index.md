@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/htmltopdfoptions/set_pageinfo/
 Sets document page info.
 
 ```cpp
-void Aspose::Pdf::LowCode::HtmlToPdfOptions::set_PageInfo(System::SharedPtr<Aspose::Pdf::PageInfo> value)
+void Aspose::Pdf::LowCode::HtmlToPdfOptions::set_PageInfo(const System::SharedPtr<Aspose::Pdf::PageInfo> &value)
 ```
 
 ## See Also

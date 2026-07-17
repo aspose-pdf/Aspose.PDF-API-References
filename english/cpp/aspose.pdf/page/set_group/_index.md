@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/set_group/
 Sets a group attributes class specifying the attributes of the page's page group for use in the transparent imaging model.
 
 ```cpp
-void Aspose::Pdf::Page::set_Group(System::SharedPtr<Aspose::Pdf::Group> value)
+void Aspose::Pdf::Page::set_Group(const System::SharedPtr<Aspose::Pdf::Group> &value)
 ```
 
 ## See Also

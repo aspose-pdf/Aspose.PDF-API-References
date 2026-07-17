@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.facades/form/fillbarcodefield/
 Fill a barcode field according to its fully qualified field name.
 
 ```cpp
-bool Aspose::Pdf::Facades::Form::FillBarcodeField(System::String fieldName, System::String data)
+bool Aspose::Pdf::Facades::Form::FillBarcodeField(const System::String &fieldName, const System::String &data)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | The fully qualified field name. |
-| data | System::String | The new barcode value. |
+| fieldName | const System::String\& | The fully qualified field name. |
+| data | const System::String\& | The new barcode value. |
 
 ### ReturnValue
 

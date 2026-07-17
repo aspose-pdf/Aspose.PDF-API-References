@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfconverter/set_password/
 Sets document OwnerPassword.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfConverter::set_Password(System::String value)
+void Aspose::Pdf::Facades::PdfConverter::set_Password(const System::String &value)
 ```
 
 ## See Also

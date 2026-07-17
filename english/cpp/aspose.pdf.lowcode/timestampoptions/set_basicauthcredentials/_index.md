@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/timestampoptions/set_basicauthcredentials/
 Sets the basic authentication credentials, Username and password are combined into a string "username:password".
 
 ```cpp
-void Aspose::Pdf::LowCode::TimestampOptions::set_BasicAuthCredentials(System::String value)
+void Aspose::Pdf::LowCode::TimestampOptions::set_BasicAuthCredentials(const System::String &value)
 ```
 
 ## See Also

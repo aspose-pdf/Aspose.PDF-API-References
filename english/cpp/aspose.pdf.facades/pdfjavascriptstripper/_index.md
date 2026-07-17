@@ -20,8 +20,8 @@ class PdfJavaScriptStripper : public System::Object
 
 | Method | Description |
 | --- | --- |
-| [Strip](./strip/)(System::String, System::String) | Remove Java Script from document. |
-| [Strip](./strip/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::IO::Stream\>) | Remove Java Script from the document. |
+| [Strip](./strip/)(const System::String\&, const System::String\&) | Remove Java Script from document. |
+| [Strip](./strip/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::IO::Stream\>\&) | Remove Java Script from the document. |
 ## See Also
 
 * Class [Object](../../system/object/)

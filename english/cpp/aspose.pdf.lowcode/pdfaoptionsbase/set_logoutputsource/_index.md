@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/pdfaoptionsbase/set_logoutputsource/
 Sets the data source for the log output.
 
 ```cpp
-void Aspose::Pdf::LowCode::PdfAOptionsBase::set_LogOutputSource(System::SharedPtr<IDataSource> value)
+void Aspose::Pdf::LowCode::PdfAOptionsBase::set_LogOutputSource(const System::SharedPtr<IDataSource> &value)
 ```
 
 ## Remarks

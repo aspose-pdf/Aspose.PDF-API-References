@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/document/getcatalogvalue/
 Returns item value from catalog dictionary.
 
 ```cpp
-System::SharedPtr<System::Object> Aspose::Pdf::Document::GetCatalogValue(System::String key)
+System::SharedPtr<System::Object> Aspose::Pdf::Document::GetCatalogValue(const System::String &key)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | System::String | The key of item. |
+| key | const System::String\& | The key of item. |
 
 ### ReturnValue
 

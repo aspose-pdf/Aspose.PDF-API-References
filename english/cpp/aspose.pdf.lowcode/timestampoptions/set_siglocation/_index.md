@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/timestampoptions/set_siglocation/
 Location for the signature.
 
 ```cpp
-void Aspose::Pdf::LowCode::TimestampOptions::set_SigLocation(System::String value)
+void Aspose::Pdf::LowCode::TimestampOptions::set_SigLocation(const System::String &value)
 ```
 
 ## See Also

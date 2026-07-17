@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/pdf3drendermode/setfacecolor/
 Sets the color of the face.
 
 ```cpp
-System::SharedPtr<PDF3DRenderMode> Aspose::Pdf::Annotations::PDF3DRenderMode::SetFaceColor(System::SharedPtr<Color> color)
+System::SharedPtr<PDF3DRenderMode> Aspose::Pdf::Annotations::PDF3DRenderMode::SetFaceColor(const System::SharedPtr<Color> &color)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| color | System::SharedPtr\<Color\> | The color. |
+| color | const System::SharedPtr\<Color\>\& | The color. |
 
 ### ReturnValue
 

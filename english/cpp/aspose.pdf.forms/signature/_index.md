@@ -35,25 +35,28 @@ class Signature : public System::Object
 | [get_TimestampSettings](./get_timestampsettings/)() const | Gets/sets timestamp settings. |
 | [get_UseLtv](./get_useltv/)() const | Gets/sets ltv validation flag. |
 | [GetSignatureAlgorithmInfo](./getsignaturealgorithminfo/)() | Retrieves information about the signature algorithm used in the signature. |
-| [set_Authority](./set_authority/)(System::String) | The name of the person or authority signing the document. |
+| [set_Authority](./set_authority/)(const System::String\&) | The name of the person or authority signing the document. |
 | [set_AvoidEstimatingSignatureLength](./set_avoidestimatingsignaturelength/)(bool) | Gets and sets an option means whether to avoid estimating the length of a signature. |
-| [set_ContactInfo](./set_contactinfo/)(System::String) | Information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. a phone number. |
-| [set_CustomAppearance](./set_customappearance/)(System::SharedPtr\<SignatureCustomAppearance\>) | Gets/sets the custom appearance. |
+| [set_ContactInfo](./set_contactinfo/)(const System::String\&) | Information provided by the signer to enable a recipient to contact the signer to verify the signature, e.g. a phone number. |
+| [set_CustomAppearance](./set_customappearance/)(const System::SharedPtr\<SignatureCustomAppearance\>\&) | Gets/sets the custom appearance. |
 | [set_CustomSignHash](./set_customsignhash/)(SignHash) | The delegate for custom sign the document hash. |
 | [set_Date](./set_date/)(System::DateTime) | The time of signing. |
 | [set_DefaultSignatureLength](./set_defaultsignaturelength/)(int32_t) | Sets the default length for the signature data in bytes. |
-| [set_Location](./set_location/)(System::String) | The CPU host name or physical location of the signing. |
-| [set_OcspSettings](./set_ocspsettings/)(System::SharedPtr\<Aspose::Pdf::OcspSettings\>) | Gets/sets ocsp settings. |
-| [set_Reason](./set_reason/)(System::String) | The reason for the signing, such as (I agree, Pip B.). |
+| [set_Location](./set_location/)(const System::String\&) | The CPU host name or physical location of the signing. |
+| [set_OcspSettings](./set_ocspsettings/)(const System::SharedPtr\<Aspose::Pdf::OcspSettings\>\&) | Gets/sets ocsp settings. |
+| [set_Reason](./set_reason/)(const System::String\&) | The reason for the signing, such as (I agree, Pip B.). |
 | [set_ShowProperties](./set_showproperties/)(bool) | Force to show/hide signature properties. |
-| [set_TimestampSettings](./set_timestampsettings/)(System::SharedPtr\<Aspose::Pdf::TimestampSettings\>) | Gets/sets timestamp settings. |
+| [set_TimestampSettings](./set_timestampsettings/)(const System::SharedPtr\<Aspose::Pdf::TimestampSettings\>\&) | Gets/sets timestamp settings. |
 | [set_UseLtv](./set_useltv/)(bool) | Gets/sets ltv validation flag. |
 | [Signature](./signature/)() | Inititalizes new instance of the [Signature](./) class. |
-| [Signature](./signature/)(System::String, System::String) | Inititalizes new instance of the [Signature](./) class. |
-| [Signature](./signature/)(System::SharedPtr\<System::IO::Stream\>, System::String) | Inititalizes new instance of the [Signature](./) class. |
+| [Signature](./signature/)(const System::String\&, const System::String\&) | Inititalizes new instance of the [Signature](./) class. |
+| [Signature](./signature/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&) | Inititalizes new instance of the [Signature](./) class. |
+| [TryVerify](./tryverify/)(System::SharedPtr\<Security::VerificationResult\>\&) | Try to verify the document regarding this signature and return true if document is valid or otherwise false. |
+| [TryVerify](./tryverify/)(const System::SharedPtr\<Security::ValidationOptions\>\&, System::SharedPtr\<Security::ValidationResult\>\&, System::SharedPtr\<Security::VerificationResult\>\&) | Try to verify the document regarding this signature and return true if document is valid or otherwise false. |
+| [TryVerify](./tryverify/)(const System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\>\&, const System::SharedPtr\<Security::ValidationOptions\>\&, System::SharedPtr\<Security::ValidationResult\>\&, System::SharedPtr\<Security::VerificationResult\>\&) | Try to verify the document regarding this signature and return true if document is valid or otherwise false. Verification is performed using the external public key certificate. |
 | [Verify](./verify/)() | Verify the document regarding this signature and return true if document is valid or otherwise false. |
-| [Verify](./verify/)(System::SharedPtr\<Security::ValidationOptions\>, System::SharedPtr\<Security::ValidationResult\>\&) | Verify the document regarding this signature and return true if document is valid or otherwise false. |
-| [Verify](./verify/)(System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\>, System::SharedPtr\<Security::ValidationOptions\>, System::SharedPtr\<Security::ValidationResult\>\&) | Verify the document regarding this signature and return true if document is valid or otherwise false. Verification is performed using the external public key certificate. |
+| [Verify](./verify/)(const System::SharedPtr\<Security::ValidationOptions\>\&, System::SharedPtr\<Security::ValidationResult\>\&) | Verify the document regarding this signature and return true if document is valid or otherwise false. |
+| [Verify](./verify/)(const System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\>\&, const System::SharedPtr\<Security::ValidationOptions\>\&, System::SharedPtr\<Security::ValidationResult\>\&) | Verify the document regarding this signature and return true if document is valid or otherwise false. Verification is performed using the external public key certificate. |
 ## See Also
 
 * Class [Object](../../system/object/)

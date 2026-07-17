@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/bdcproperties/set_e/
 Gets/sets Expansion text value.
 
 ```cpp
-void Aspose::Pdf::Facades::BDCProperties::set_E(System::String value)
+void Aspose::Pdf::Facades::BDCProperties::set_E(const System::String &value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signaturecustomappearance/set_culture/
 Gets/sets culture info value. Default value: InvariantCulture.
 
 ```cpp
-void Aspose::Pdf::Forms::SignatureCustomAppearance::set_Culture(System::SharedPtr<System::Globalization::CultureInfo> value)
+void Aspose::Pdf::Forms::SignatureCustomAppearance::set_Culture(const System::SharedPtr<System::Globalization::CultureInfo> &value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pageactioncollection/set_onclose/
 An action that shall be performed when the page is closed.
 
 ```cpp
-void Aspose::Pdf::PageActionCollection::set_OnClose(System::SharedPtr<Annotations::PdfAction> value)
+void Aspose::Pdf::PageActionCollection::set_OnClose(const System::SharedPtr<Annotations::PdfAction> &value)
 ```
 
 ## See Also

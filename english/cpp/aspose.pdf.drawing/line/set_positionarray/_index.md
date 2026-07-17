@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/line/set_positionarray/
 Sets a [PositionArray](../) object that indicates the position array.The array is composed by coordinates of each control point of the line. directly.
 
 ```cpp
-void Aspose::Pdf::Drawing::Line::set_PositionArray(System::ArrayPtr<float> value)
+void Aspose::Pdf::Drawing::Line::set_PositionArray(const System::ArrayPtr<float> &value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison/sidebysidecomparisonoptions/set_excludeareas2/
 Get and set the exclude areas. Used for the second page or document in the comparison method. This option can be setted along with [ExcludeTables](../). This option can't be setted along with [ComparisonArea2](../) option.
 
 ```cpp
-void Aspose::Pdf::Comparison::SideBySideComparisonOptions::set_ExcludeAreas2(System::ArrayPtr<System::SharedPtr<Rectangle>> value)
+void Aspose::Pdf::Comparison::SideBySideComparisonOptions::set_ExcludeAreas2(const System::ArrayPtr<System::SharedPtr<Rectangle>> &value)
 ```
 
 ## See Also

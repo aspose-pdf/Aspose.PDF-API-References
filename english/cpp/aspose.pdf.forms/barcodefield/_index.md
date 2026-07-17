@@ -20,8 +20,8 @@ class BarcodeField : public Aspose::Pdf::Forms::TextBoxField
 
 | Method | Description |
 | --- | --- |
-| [BarcodeField](./barcodefield/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) | Initializes new instance of the [BarcodeField](./) class. |
-| [BarcodeField](./barcodefield/)(System::SharedPtr\<Document\>, System::SharedPtr\<Rectangle\>) | Initializes new instance of the [BarcodeField](./) class. |
+| [BarcodeField](./barcodefield/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&) | Initializes new instance of the [BarcodeField](./) class. |
+| [BarcodeField](./barcodefield/)(const System::SharedPtr\<Document\>\&, const System::SharedPtr\<Rectangle\>\&) | Initializes new instance of the [BarcodeField](./) class. |
 | [get_Caption](./get_caption/)() | Gets the caption of the barcode object. |
 | [get_ECC](./get_ecc/)() | Gets an integer value representing the error correction coefficient. For PDF417, shall be from 0 to 8. For QRCode, shall be from 0 to 3 (0 for 'L', 1 for 'M', 2 for 'Q', and 3 for 'H'). |
 | [get_Resolution](./get_resolution/)() | Gets the resolution, in dots-per-inch (dpi), at which the barcode object is rendered. |

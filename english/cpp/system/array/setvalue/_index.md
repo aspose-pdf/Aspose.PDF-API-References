@@ -20,7 +20,7 @@ void System::Array<T>::SetValue(const T &value, int index)
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | const T\& | A const reference to the value to set |
-| index | int | Index of the element |
+| index | int | [Index](../../index/) of the element |
 
 ## See Also
 

@@ -7,19 +7,19 @@ type: docs
 weight: 700
 url: /cpp/aspose.pdf.facades/pdffilesignature/coverswholedocument/
 ---
-## PdfFileSignature::CoversWholeDocument(System::SharedPtr\<SignatureName\>) method
+## PdfFileSignature::CoversWholeDocument(const System::SharedPtr\<SignatureName\>\&) method
 
 
 Checks if the signature covers the whole document.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileSignature::CoversWholeDocument(System::SharedPtr<SignatureName> signName)
+bool Aspose::Pdf::Facades::PdfFileSignature::CoversWholeDocument(const System::SharedPtr<SignatureName> &signName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | System::SharedPtr\<SignatureName\> | The name of signature. |
+| signName | const System::SharedPtr\<SignatureName\>\& | The name of signature. |
 
 ### ReturnValue
 
@@ -32,19 +32,19 @@ Return a result of bool type.
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileSignature::CoversWholeDocument(System::String) method
+## PdfFileSignature::CoversWholeDocument(const System::String\&) method
 
 
 Checks if the signature covers the whole document.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileSignature::CoversWholeDocument(System::String signName)
+bool Aspose::Pdf::Facades::PdfFileSignature::CoversWholeDocument(const System::String &signName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | System::String | The name of signature. |
+| signName | const System::String\& | The name of signature. |
 
 ### ReturnValue
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/field/set_partialname/
 Sets partial name of the field.
 
 ```cpp
-void Aspose::Pdf::Forms::Field::set_PartialName(System::String value)
+void Aspose::Pdf::Forms::Field::set_PartialName(const System::String &value)
 ```
 
 ## See Also

@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf/pagecollectionextensions/addpagination/
 Adds the specified pagination artifacts to each page in the given page collection.
 
 ```cpp
-static void Aspose::Pdf::PageCollectionExtensions::AddPagination(System::SharedPtr<PageCollection> pageCollection, System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<PaginationArtifact>>> artifacts)
+static void Aspose::Pdf::PageCollectionExtensions::AddPagination(const System::SharedPtr<PageCollection> &pageCollection, const System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<PaginationArtifact>>> &artifacts)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageCollection | System::SharedPtr\<PageCollection\> | The collection of pages to which the pagination artifacts will be added. |
-| artifacts | System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<PaginationArtifact\>\>\> | The list of pagination artifacts to add to each page. |
+| pageCollection | const System::SharedPtr\<PageCollection\>\& | The collection of pages to which the pagination artifacts will be added. |
+| artifacts | const System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<PaginationArtifact\>\>\>\& | The list of pagination artifacts to add to each page. |
 
 ## See Also
 

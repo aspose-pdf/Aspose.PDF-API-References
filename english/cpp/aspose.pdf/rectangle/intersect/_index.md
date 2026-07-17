@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/rectangle/intersect/
 Intersects to rectangles.
 
 ```cpp
-System::SharedPtr<Rectangle> Aspose::Pdf::Rectangle::Intersect(System::SharedPtr<Rectangle> otherRect)
+System::SharedPtr<Rectangle> Aspose::Pdf::Rectangle::Intersect(const System::SharedPtr<Rectangle> &otherRect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| otherRect | System::SharedPtr\<Rectangle\> | [Rectangle](../) to which this recatangle be intersected. |
+| otherRect | const System::SharedPtr\<Rectangle\>\& | [Rectangle](../) to which this recatangle be intersected. |
 
 ### ReturnValue
 

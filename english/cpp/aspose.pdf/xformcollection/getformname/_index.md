@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/xformcollection/getformname/
 Returns name of the form in this form collection.
 
 ```cpp
-System::String Aspose::Pdf::XFormCollection::GetFormName(System::SharedPtr<XForm> form)
+System::String Aspose::Pdf::XFormCollection::GetFormName(const System::SharedPtr<XForm> &form)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| form | System::SharedPtr\<XForm\> | Form which name is searched. |
+| form | const System::SharedPtr\<XForm\>\& | Form which name is searched. |
 
 ### ReturnValue
 

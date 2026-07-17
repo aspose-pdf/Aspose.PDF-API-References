@@ -25,9 +25,9 @@ class StampAnnotation : public Aspose::Pdf::Annotations::MarkupAnnotation
 | [get_Icon](./get_icon/)() | Gets icon for rubber stamp. |
 | [get_Image](./get_image/)() | Gets image of the annotation. |
 | [set_Icon](./set_icon/)(StampIcon) | Sets icon for rubber stamp. |
-| [set_Image](./set_image/)(System::SharedPtr\<System::IO::Stream\>) | Sets image of the annotation. |
-| [StampAnnotation](./stampannotation/)(System::SharedPtr\<Document\>) | Constructor. |
-| [StampAnnotation](./stampannotation/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) | Creates new [Stamp](../../aspose.pdf/stamp/) annotation on the specified page. |
+| [set_Image](./set_image/)(const System::SharedPtr\<System::IO::Stream\>\&) | Sets image of the annotation. |
+| [StampAnnotation](./stampannotation/)(const System::SharedPtr\<Document\>\&) | Constructor. |
+| [StampAnnotation](./stampannotation/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&) | Creates new [Stamp](../../aspose.pdf/stamp/) annotation on the specified page. |
 ## See Also
 
 * Class [MarkupAnnotation](../markupannotation/)

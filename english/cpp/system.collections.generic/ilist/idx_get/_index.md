@@ -19,7 +19,7 @@ virtual T System::Collections::Generic::IList<T>::idx_get(int index) const =0
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index of element to get. |
+| index | int | [Index](../../../system/index/) of element to get. |
 
 ### ReturnValue
 

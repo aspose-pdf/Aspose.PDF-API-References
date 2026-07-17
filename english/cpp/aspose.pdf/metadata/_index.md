@@ -39,12 +39,12 @@ class Metadata : public System::Collections::Generic::IDictionary<System::String
 | [get_SyncRoot](./get_syncroot/)() const | Gets collection synchronization object. |
 | [get_Values](./get_values/)() const override | Gets values in the metadata. |
 | [GetEnumerator](./getenumerator/)() override | Returns dictionary enumerator. |
-| [GetNamespaceUriByPrefix](./getnamespaceuribyprefix/)(System::String) | Returns namespace URI by prefix. |
-| [GetPrefixByNamespaceUri](./getprefixbynamespaceuri/)(System::String) | Returns prefix by namespace URI. |
+| [GetNamespaceUriByPrefix](./getnamespaceuribyprefix/)(const System::String\&) | Returns namespace URI by prefix. |
+| [GetPrefixByNamespaceUri](./getprefixbynamespaceuri/)(const System::String\&) | Returns prefix by namespace URI. |
 | [idx_get](./idx_get/)(const System::String\&) const override | Gets data from metadata. |
 | [idx_set](./idx_set/)(const System::String\&, System::SharedPtr\<XmpValue\>) override | Sets data from metadata. |
-| [RegisterNamespaceUri](./registernamespaceuri/)(System::String, System::String) | Registers namespace URI. |
-| [RegisterNamespaceUri](./registernamespaceuri/)(System::String, System::String, System::String) | Registers namespace URI. |
+| [RegisterNamespaceUri](./registernamespaceuri/)(const System::String\&, const System::String\&) | Registers namespace URI. |
+| [RegisterNamespaceUri](./registernamespaceuri/)(const System::String\&, const System::String\&, const System::String\&) | Registers namespace URI. |
 | [Remove](./remove/)(const System::String\&) override | Removes entry from metadata. |
 | [Remove](./remove/)(const System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<XmpValue\>\>\&) override | Removes key/value pair from the colleciton. |
 | [TryGetValue](./trygetvalue/)(const System::String\&, System::SharedPtr\<XmpValue\>\&) const override | Tries to find key in the dictionary and retreives value if found. |

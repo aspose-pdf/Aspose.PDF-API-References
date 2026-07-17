@@ -19,7 +19,7 @@ System::String & System::Collections::Specialized::StringCollection::operator[](
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to get element at. |
+| index | int | [Index](../../../system/index/) to get element at. |
 
 ### ReturnValue
 

@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf/point/distance/
 Calculates distance between two points.
 
 ```cpp
-static double Aspose::Pdf::Point::Distance(System::SharedPtr<Point> point1, System::SharedPtr<Point> point2)
+static double Aspose::Pdf::Point::Distance(const System::SharedPtr<Point> &point1, const System::SharedPtr<Point> &point2)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| point1 | System::SharedPtr\<Point\> | The first point. |
-| point2 | System::SharedPtr\<Point\> | The second point. |
+| point1 | const System::SharedPtr\<Point\>\& | The first point. |
+| point2 | const System::SharedPtr\<Point\>\& | The second point. |
 
 ### ReturnValue
 

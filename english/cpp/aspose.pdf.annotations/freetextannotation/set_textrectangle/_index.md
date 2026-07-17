@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/freetextannotation/set_textrectangle/
 [Rectangle](../../../aspose.pdf/rectangle/) describing the numerical differences between two rectangles: the Rect entry of the annotation and a rectangle contained within that rectangle. The inner rectangle is where the annotation's text should be displayed.
 
 ```cpp
-void Aspose::Pdf::Annotations::FreeTextAnnotation::set_TextRectangle(System::SharedPtr<Rectangle> value)
+void Aspose::Pdf::Annotations::FreeTextAnnotation::set_TextRectangle(const System::SharedPtr<Rectangle> &value)
 ```
 
 ## See Also

@@ -21,8 +21,8 @@ class JavascriptAction : public Aspose::Pdf::Annotations::PdfAction
 | Method | Description |
 | --- | --- |
 | [get_Script](./get_script/)() | Gets javascript code. |
-| [JavascriptAction](./javascriptaction/)(System::String) | Constructor. |
-| [set_Script](./set_script/)(System::String) | Sets javascript code. |
+| [JavascriptAction](./javascriptaction/)(const System::String\&) | Constructor. |
+| [set_Script](./set_script/)(const System::String\&) | Sets javascript code. |
 ## See Also
 
 * Class [PdfAction](../pdfaction/)

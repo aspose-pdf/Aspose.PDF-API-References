@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/ximage/isthesameobject/
 Returns true if both images references to the same object.
 
 ```cpp
-bool Aspose::Pdf::XImage::IsTheSameObject(System::SharedPtr<Aspose::Pdf::XImage> image)
+bool Aspose::Pdf::XImage::IsTheSameObject(const System::SharedPtr<Aspose::Pdf::XImage> &image)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| image | System::SharedPtr\<Aspose::Pdf::XImage\> | [Image](../../image/) to be compared with "this" image. |
+| image | const System::SharedPtr\<Aspose::Pdf::XImage\>\& | [Image](../../image/) to be compared with "this" image. |
 
 ### ReturnValue
 

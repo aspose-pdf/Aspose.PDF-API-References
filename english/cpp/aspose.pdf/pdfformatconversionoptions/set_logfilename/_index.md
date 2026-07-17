@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfformatconversionoptions/set_logfilename/
 Path to file where comments will be stored.
 
 ```cpp
-void Aspose::Pdf::PdfFormatConversionOptions::set_LogFileName(System::String value)
+void Aspose::Pdf::PdfFormatConversionOptions::set_LogFileName(const System::String &value)
 ```
 
 ## See Also

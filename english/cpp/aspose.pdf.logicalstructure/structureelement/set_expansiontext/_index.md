@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structureelement/set_expansiontext/
 Sets the expansion text for structure element.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::StructureElement::set_ExpansionText(System::String value)
+void Aspose::Pdf::LogicalStructure::StructureElement::set_ExpansionText(const System::String &value)
 ```
 
 ## Remarks

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/saveoptions/set_warninghandler/
 Callback to handle any warnings generated. The WarningHandler returns [ReturnAction](../../returnaction/) enum item specifying either Continue or Abort. Continue is the default action and the Save operation continues, however the user may also return Abort in which case the Save operation should cease.
 
 ```cpp
-void Aspose::Pdf::SaveOptions::set_WarningHandler(System::SharedPtr<IWarningCallback> value)
+void Aspose::Pdf::SaveOptions::set_WarningHandler(const System::SharedPtr<IWarningCallback> &value)
 ```
 
 ## See Also

@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.facades/form/renamefield/
 Renames a field. Either AcroForm field or XFA field is OK.
 
 ```cpp
-void Aspose::Pdf::Facades::Form::RenameField(System::String fieldName, System::String newFieldName)
+void Aspose::Pdf::Facades::Form::RenameField(const System::String &fieldName, const System::String &newFieldName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | the old field name |
-| newFieldName | System::String | the new field name |
+| fieldName | const System::String\& | the old field name |
+| newFieldName | const System::String\& | the new field name |
 
 ## See Also
 

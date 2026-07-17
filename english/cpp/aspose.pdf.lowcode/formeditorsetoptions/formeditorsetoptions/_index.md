@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.lowcode/formeditorsetoptions/formeditorsetoptions/
 Initializes a new instance of the [FormEditorSetOptions](../) object, in which the values assigned to the properties of the field are specified.
 
 ```cpp
-Aspose::Pdf::LowCode::FormEditorSetOptions::FormEditorSetOptions(SelectField selectField, System::SharedPtr<FormFieldSetOptions> settedOptions)
+Aspose::Pdf::LowCode::FormEditorSetOptions::FormEditorSetOptions(SelectField selectField, const System::SharedPtr<FormFieldSetOptions> &settedOptions)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | selectField | SelectField | Delegate that determines the properties of which field(s) to set values. |
-| settedOptions | System::SharedPtr\<FormFieldSetOptions\> | An object containing the values assigned to the properties of the field(s). May be an object of a derived class, corresponding to a particular field type. |
+| settedOptions | const System::SharedPtr\<FormFieldSetOptions\>\& | An object containing the values assigned to the properties of the field(s). May be an object of a derived class, corresponding to a particular field type. |
 
 ## See Also
 

@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.facades/pdfxmpmetadata/registernamespaceuri/
 Registers the namespace URI.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfXmpMetadata::RegisterNamespaceURI(System::String prefix, System::String namespaceURI)
+void Aspose::Pdf::Facades::PdfXmpMetadata::RegisterNamespaceURI(const System::String &prefix, const System::String &namespaceURI)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| prefix | System::String | The prefix. |
-| namespaceURI | System::String | The namespace URI. |
+| prefix | const System::String\& | The prefix. |
+| namespaceURI | const System::String\& | The namespace URI. |
 
 ## See Also
 

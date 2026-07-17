@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/texteditoptions/set_replacementfont/
 Sets font used for replacing if user font does not contain required character.
 
 ```cpp
-void Aspose::Pdf::Text::TextEditOptions::set_ReplacementFont(System::SharedPtr<Font> value)
+void Aspose::Pdf::Text::TextEditOptions::set_ReplacementFont(const System::SharedPtr<Font> &value)
 ```
 
 ## See Also

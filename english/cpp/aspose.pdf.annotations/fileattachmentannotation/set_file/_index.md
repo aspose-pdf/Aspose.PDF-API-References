@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/fileattachmentannotation/set_file/
 The specification of the file associated with this annotation.
 
 ```cpp
-void Aspose::Pdf::Annotations::FileAttachmentAnnotation::set_File(System::SharedPtr<FileSpecification> value)
+void Aspose::Pdf::Annotations::FileAttachmentAnnotation::set_File(const System::SharedPtr<FileSpecification> &value)
 ```
 
 ## See Also

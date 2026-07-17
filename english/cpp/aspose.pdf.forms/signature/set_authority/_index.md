@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signature/set_authority/
 The name of the person or authority signing the document.
 
 ```cpp
-void Aspose::Pdf::Forms::Signature::set_Authority(System::String value)
+void Aspose::Pdf::Forms::Signature::set_Authority(const System::String &value)
 ```
 
 ## See Also

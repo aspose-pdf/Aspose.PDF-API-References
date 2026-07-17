@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/redactionannotation/set_fillcolor/
 Sets color to fill annotation.
 
 ```cpp
-void Aspose::Pdf::Annotations::RedactionAnnotation::set_FillColor(System::SharedPtr<Aspose::Pdf::Color> value)
+void Aspose::Pdf::Annotations::RedactionAnnotation::set_FillColor(const System::SharedPtr<Aspose::Pdf::Color> &value)
 ```
 
 ## See Also

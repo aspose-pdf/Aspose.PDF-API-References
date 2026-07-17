@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.annotations/pdf3dviewarray/idx_set/
 Sets the [PDF3DView](../../pdf3dview/) to view array at the specified index.
 
 ```cpp
-void Aspose::Pdf::Annotations::PDF3DViewArray::idx_set(int32_t index, System::SharedPtr<PDF3DView> value)
+void Aspose::Pdf::Annotations::PDF3DViewArray::idx_set(int32_t index, const System::SharedPtr<PDF3DView> &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | index | int32_t | The index. |
-| value | System::SharedPtr\<PDF3DView\> | [PDF3DView](../../pdf3dview/). |
+| value | const System::SharedPtr\<PDF3DView\>\& | [PDF3DView](../../pdf3dview/). |
 
 ## See Also
 

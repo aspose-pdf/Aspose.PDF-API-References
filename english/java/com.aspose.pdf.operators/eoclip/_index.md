@@ -1,61 +1,43 @@
 ---
 title: EOClip
+linktitle: EOClip
 second_title: Aspose.PDF for Java API Reference
-description: Class representing W operator set clipping path using even-odd rule.
+description: Class representing W* operator (set clipping path using even-odd rule).
 type: docs
-weight: 31
+weight: 230
 url: /java/com.aspose.pdf.operators/eoclip/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.Operator](../../com.aspose.pdf/operator)
+java.lang.Object, com.aspose.pdf.Operator com.aspose.pdf.operators.EOClip, com.aspose.pdf.Operator, com.aspose.pdf.operators.EOClip
+
 ```
 public class EOClip extends Operator
 ```
 
-Class representing W\* operator (set clipping path using even-odd rule).
+Class representing W* operator (set clipping path using even-odd rule).
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [EOClip()](#EOClip--) | Initializes operator. |
-| [EOClip(int index, ICommand command)](#EOClip-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Constructor for operator class. |
+| [EOClip](#EOClip--) | Initializes operator. |
+| [EOClip](#EOClip-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) | Initializes operator. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
-### EOClip() {#EOClip--}
+| [accept](#accept-com.aspose.pdf.IOperatorSelector-) | Accepts visitor object to process operator. |
+
+### EOClip {#EOClip--}
 ```
 public EOClip()
 ```
 
-
 Initializes operator.
 
-### EOClip(int index, ICommand command) {#EOClip-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
-```
-public EOClip(int index, ICommand command)
-```
+### EOClip {#EOClip-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+Initializes operator.
 
-
-Constructor for operator class.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of operator. |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) | Operator command. |
-
-### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
-```
-public void accept(IOperatorSelector visitor)
-```
-
-
+### accept {#accept-com.aspose.pdf.IOperatorSelector-}
 Accepts visitor object to process operator.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| visitor | [IOperatorSelector](../../com.aspose.pdf/ioperatorselector) | Visitor object. |
-

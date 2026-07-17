@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/artifact/set_text/
 Gets text of the artifact.
 
 ```cpp
-void Aspose::Pdf::Artifact::set_Text(System::String value)
+void Aspose::Pdf::Artifact::set_Text(const System::String &value)
 ```
 
 ## See Also

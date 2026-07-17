@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/artifact/setpdfpage/
 Sets PDF page which is placed on the document page as artifact.
 
 ```cpp
-void Aspose::Pdf::Artifact::SetPdfPage(System::SharedPtr<Page> page)
+void Aspose::Pdf::Artifact::SetPdfPage(const System::SharedPtr<Page> &page)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Page\> | [Page](../../page/) which is placed as Artifcact. |
+| page | const System::SharedPtr\<Page\>\& | [Page](../../page/) which is placed as Artifcact. |
 
 ## See Also
 

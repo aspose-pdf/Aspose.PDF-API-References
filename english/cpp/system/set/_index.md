@@ -4,7 +4,7 @@ linktitle: Set
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Set method. Implements ''var'' pattern translation in C++.'
 type: docs
-weight: 37200
+weight: 37800
 url: /cpp/system/set/
 ---
 ## System::Set method

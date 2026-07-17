@@ -21,7 +21,7 @@ class DocumentExtensions
 | Method | Description |
 | --- | --- |
 | [DocumentExtensions](./documentextensions/)() |  |
-| static [SplitSharedImages](./splitsharedimages/)(System::SharedPtr\<Document\>, System::SharedPtr\<Page\>, System::SharedPtr\<Page\>) | For Images in [Resources](../resources/) if two pages checks for common XImages and for similar cases splits them, by creating duplicate XImages. |
+| static [SplitSharedImages](./splitsharedimages/)(const System::SharedPtr\<Document\>\&, const System::SharedPtr\<Page\>\&, const System::SharedPtr\<Page\>\&) | For Images in [Resources](../resources/) if two pages checks for common XImages and for similar cases splits them, by creating duplicate XImages. |
 ## See Also
 
 * Namespace [Aspose::Pdf](../)

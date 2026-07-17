@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.forms/form/copyto/
 Copies fields placed on the form into array.
 
 ```cpp
-void Aspose::Pdf::Forms::Form::CopyTo(System::ArrayPtr<System::SharedPtr<Field>> array, int32_t index)
+void Aspose::Pdf::Forms::Form::CopyTo(const System::ArrayPtr<System::SharedPtr<Field>> &array, int32_t index)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| array | System::ArrayPtr\<System::SharedPtr\<Field\>\> | Array where fields must be placed. |
+| array | const System::ArrayPtr\<System::SharedPtr\<Field\>\>\& | Array where fields must be placed. |
 | index | int32_t | Starting index. |
 
 ## See Also

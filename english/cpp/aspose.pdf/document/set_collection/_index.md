@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/document/set_collection/
 Gets collection of document.
 
 ```cpp
-void Aspose::Pdf::Document::set_Collection(System::SharedPtr<Aspose::Pdf::Collection> value)
+void Aspose::Pdf::Document::set_Collection(const System::SharedPtr<Aspose::Pdf::Collection> &value)
 ```
 
 ## See Also

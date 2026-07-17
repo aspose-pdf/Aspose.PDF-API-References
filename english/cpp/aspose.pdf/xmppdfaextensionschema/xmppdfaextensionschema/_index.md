@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/xmppdfaextensionschema/xmppdfaextensionschema/
 Initializes new object.
 
 ```cpp
-Aspose::Pdf::XmpPdfAExtensionSchema::XmpPdfAExtensionSchema(System::SharedPtr<XmpPdfAExtensionSchemaDescription> description)
+Aspose::Pdf::XmpPdfAExtensionSchema::XmpPdfAExtensionSchema(const System::SharedPtr<XmpPdfAExtensionSchemaDescription> &description)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| description | System::SharedPtr\<XmpPdfAExtensionSchemaDescription\> | The schema description. |
+| description | const System::SharedPtr\<XmpPdfAExtensionSchemaDescription\>\& | The schema description. |
 
 ## See Also
 

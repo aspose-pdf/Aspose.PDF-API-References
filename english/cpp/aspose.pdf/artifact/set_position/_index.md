@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/artifact/set_position/
 Sets artifact position. If this property is specified, then margins and alignments are ignored.
 
 ```cpp
-void Aspose::Pdf::Artifact::set_Position(System::SharedPtr<Point> value)
+void Aspose::Pdf::Artifact::set_Position(const System::SharedPtr<Point> &value)
 ```
 
 ## See Also

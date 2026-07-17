@@ -7,19 +7,19 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf.operators/glyphposition/glyphposition/
 ---
-## GlyphPosition::GlyphPosition(System::String) constructor
+## GlyphPosition::GlyphPosition(const System::String\&) constructor
 
 
 Constructor for Glyph Position.
 
 ```cpp
-Aspose::Pdf::Operators::GlyphPosition::GlyphPosition(System::String text)
+Aspose::Pdf::Operators::GlyphPosition::GlyphPosition(const System::String &text)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | System::String | [Text](../../../aspose.pdf.text/) calue. |
+| text | const System::String\& | [Text](../../../aspose.pdf.text/) calue. |
 
 ## See Also
 
@@ -27,19 +27,19 @@ Aspose::Pdf::Operators::GlyphPosition::GlyphPosition(System::String text)
 * Class [GlyphPosition](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)
-## GlyphPosition::GlyphPosition(System::String, double) constructor
+## GlyphPosition::GlyphPosition(const System::String\&, double) constructor
 
 
 Constructs glyph position.
 
 ```cpp
-Aspose::Pdf::Operators::GlyphPosition::GlyphPosition(System::String text, double position)
+Aspose::Pdf::Operators::GlyphPosition::GlyphPosition(const System::String &text, double position)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | System::String | [Text](../../../aspose.pdf.text/) value. |
+| text | const System::String\& | [Text](../../../aspose.pdf.text/) value. |
 | position | double | Position value. |
 
 ## See Also

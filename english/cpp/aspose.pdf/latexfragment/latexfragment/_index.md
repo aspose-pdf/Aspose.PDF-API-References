@@ -7,19 +7,19 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf/latexfragment/latexfragment/
 ---
-## LatexFragment::LatexFragment(System::String) constructor
+## LatexFragment::LatexFragment(const System::String\&) constructor
 
 
 Initializes a new instance of the [HtmlFragment](../../htmlfragment/) class.
 
 ```cpp
-Aspose::Pdf::LatexFragment::LatexFragment(System::String text)
+Aspose::Pdf::LatexFragment::LatexFragment(const System::String &text)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | System::String | The fragment text |
+| text | const System::String\& | The fragment text |
 
 ## See Also
 
@@ -27,19 +27,19 @@ Aspose::Pdf::LatexFragment::LatexFragment(System::String text)
 * Class [LatexFragment](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## LatexFragment::LatexFragment(System::String, bool) constructor
+## LatexFragment::LatexFragment(const System::String\&, bool) constructor
 
 
 Initializes a new instance of the [HtmlFragment](../../htmlfragment/) class.
 
 ```cpp
-Aspose::Pdf::LatexFragment::LatexFragment(System::String text, bool removeIndents)
+Aspose::Pdf::LatexFragment::LatexFragment(const System::String &text, bool removeIndents)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | System::String | The fragment text |
+| text | const System::String\& | The fragment text |
 | removeIndents | bool | Determines whether not to make indents while typesetting LaTeX fragment |
 
 ## See Also

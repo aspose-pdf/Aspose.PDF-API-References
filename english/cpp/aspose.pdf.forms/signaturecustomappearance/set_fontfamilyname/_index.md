@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signaturecustomappearance/set_fontfamilyname/
 Gets/sets font family name. It should be existed in the document. Default value: Arial.
 
 ```cpp
-void Aspose::Pdf::Forms::SignatureCustomAppearance::set_FontFamilyName(System::String value)
+void Aspose::Pdf::Forms::SignatureCustomAppearance::set_FontFamilyName(const System::String &value)
 ```
 
 ## See Also

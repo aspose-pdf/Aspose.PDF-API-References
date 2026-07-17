@@ -37,10 +37,10 @@ class TiffSettings : public System::Object
 | [TiffSettings](./tiffsettings/)(ShapeType) | Initializes a new instance of the [TiffSettings](./) class. |
 | [TiffSettings](./tiffsettings/)(CompressionType) | Initializes a new instance of the [TiffSettings](./) class. |
 | [TiffSettings](./tiffsettings/)(ColorDepth) | Initializes a new instance of the [TiffSettings](./) class. |
-| [TiffSettings](./tiffsettings/)(System::SharedPtr\<Aspose::Pdf::Devices::Margins\>) | Initializes a new instance of the [TiffSettings](./) class. |
-| [TiffSettings](./tiffsettings/)(CompressionType, ColorDepth, System::SharedPtr\<Aspose::Pdf::Devices::Margins\>) | Initializes a new instance of the [TiffSettings](./) class. |
-| [TiffSettings](./tiffsettings/)(CompressionType, ColorDepth, System::SharedPtr\<Aspose::Pdf::Devices::Margins\>, bool) | Initializes a new instance of the [TiffSettings](./) class. |
-| [TiffSettings](./tiffsettings/)(CompressionType, ColorDepth, System::SharedPtr\<Aspose::Pdf::Devices::Margins\>, bool, ShapeType) | Initializes a new instance of the [TiffSettings](./) class. |
+| [TiffSettings](./tiffsettings/)(const System::SharedPtr\<Aspose::Pdf::Devices::Margins\>\&) | Initializes a new instance of the [TiffSettings](./) class. |
+| [TiffSettings](./tiffsettings/)(CompressionType, ColorDepth, const System::SharedPtr\<Aspose::Pdf::Devices::Margins\>\&) | Initializes a new instance of the [TiffSettings](./) class. |
+| [TiffSettings](./tiffsettings/)(CompressionType, ColorDepth, const System::SharedPtr\<Aspose::Pdf::Devices::Margins\>\&, bool) | Initializes a new instance of the [TiffSettings](./) class. |
+| [TiffSettings](./tiffsettings/)(CompressionType, ColorDepth, const System::SharedPtr\<Aspose::Pdf::Devices::Margins\>\&, bool, ShapeType) | Initializes a new instance of the [TiffSettings](./) class. |
 | [TiffSettings](./tiffsettings/)(bool) | Initializes a new instance of the [TiffSettings](./) class. |
 ## See Also
 

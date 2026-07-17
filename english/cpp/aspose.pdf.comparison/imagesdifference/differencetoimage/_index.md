@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.comparison/imagesdifference/differencetoimage/
 Converts the difference array to a bitmap image using the specified colors.
 
 ```cpp
-System::SharedPtr<System::Drawing::Bitmap> Aspose::Pdf::Comparison::ImagesDifference::DifferenceToImage(System::SharedPtr<Color> color, System::SharedPtr<Color> backgroundColor)
+System::SharedPtr<System::Drawing::Bitmap> Aspose::Pdf::Comparison::ImagesDifference::DifferenceToImage(const System::SharedPtr<Color> &color, const System::SharedPtr<Color> &backgroundColor)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| color | System::SharedPtr\<Color\> | The color for non-zero differences. |
-| backgroundColor | System::SharedPtr\<Color\> | The background color for zero differences. |
+| color | const System::SharedPtr\<Color\>\& | The color for non-zero differences. |
+| backgroundColor | const System::SharedPtr\<Color\>\& | The background color for zero differences. |
 
 ### ReturnValue
 

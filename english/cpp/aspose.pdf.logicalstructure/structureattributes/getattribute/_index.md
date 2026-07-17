@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.logicalstructure/structureattributes/getattribute/
 Gets [StructureAttribute](../../structureattribute/) by [AttributeKey](../../attributekey/).
 
 ```cpp
-System::SharedPtr<StructureAttribute> Aspose::Pdf::LogicalStructure::StructureAttributes::GetAttribute(System::SharedPtr<AttributeKey> key)
+System::SharedPtr<StructureAttribute> Aspose::Pdf::LogicalStructure::StructureAttributes::GetAttribute(const System::SharedPtr<AttributeKey> &key)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | System::SharedPtr\<AttributeKey\> | [AttributeKey](../../attributekey/). |
+| key | const System::SharedPtr\<AttributeKey\>\& | [AttributeKey](../../attributekey/). |
 
 ### ReturnValue
 

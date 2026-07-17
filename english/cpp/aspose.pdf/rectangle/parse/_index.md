@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/rectangle/parse/
 Try to parse string and extract from it rectangle components llx, lly, urx, ury.
 
 ```cpp
-static System::SharedPtr<Rectangle> Aspose::Pdf::Rectangle::Parse(System::String value)
+static System::SharedPtr<Rectangle> Aspose::Pdf::Rectangle::Parse(const System::String &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | System::String | String to parse. |
+| value | const System::String\& | String to parse. |
 
 ### ReturnValue
 

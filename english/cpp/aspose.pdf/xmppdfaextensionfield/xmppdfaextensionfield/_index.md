@@ -13,16 +13,16 @@ url: /cpp/aspose.pdf/xmppdfaextensionfield/xmppdfaextensionfield/
 Initializes object.
 
 ```cpp
-Aspose::Pdf::XmpPdfAExtensionField::XmpPdfAExtensionField(System::String name, System::String value, System::String valueType, System::String description)
+Aspose::Pdf::XmpPdfAExtensionField::XmpPdfAExtensionField(const System::String &name, const System::String &value, const System::String &valueType, const System::String &description)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | The field name. |
-| value | System::String | The field value. |
-| valueType | System::String | The field value type. |
-| description | System::String | The field description. |
+| name | const System::String\& | The field name. |
+| value | const System::String\& | The field value. |
+| valueType | const System::String\& | The field value type. |
+| description | const System::String\& | The field description. |
 
 ## See Also
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/levelformat/set_textstate/
 Sets a list level text state.
 
 ```cpp
-void Aspose::Pdf::LevelFormat::set_TextState(System::SharedPtr<Aspose::Pdf::Text::TextState> value)
+void Aspose::Pdf::LevelFormat::set_TextState(const System::SharedPtr<Aspose::Pdf::Text::TextState> &value)
 ```
 
 ## See Also

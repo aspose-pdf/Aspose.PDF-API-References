@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/rectangle/isintersect/
 Determines whether this rectangle intersects with other rectangle.
 
 ```cpp
-bool Aspose::Pdf::Rectangle::IsIntersect(System::SharedPtr<Rectangle> otherRect)
+bool Aspose::Pdf::Rectangle::IsIntersect(const System::SharedPtr<Rectangle> &otherRect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| otherRect | System::SharedPtr\<Rectangle\> | Intersection will be tested with specified rectangle. |
+| otherRect | const System::SharedPtr\<Rectangle\>\& | Intersection will be tested with specified rectangle. |
 
 ### ReturnValue
 

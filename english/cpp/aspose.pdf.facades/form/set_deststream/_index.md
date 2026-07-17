@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/form/set_deststream/
 Sets destination stream.
 
 ```cpp
-void Aspose::Pdf::Facades::Form::set_DestStream(System::SharedPtr<System::IO::Stream> value)
+void Aspose::Pdf::Facades::Form::set_DestStream(const System::SharedPtr<System::IO::Stream> &value)
 ```
 
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragment/set_endnote/
 Sets the paragraph end note.(for pdf generation only)
 
 ```cpp
-void Aspose::Pdf::Text::TextFragment::set_EndNote(System::SharedPtr<Note> value)
+void Aspose::Pdf::Text::TextFragment::set_EndNote(const System::SharedPtr<Note> &value)
 ```
 
 ## See Also

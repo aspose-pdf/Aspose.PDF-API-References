@@ -7,19 +7,19 @@ type: docs
 weight: 1400
 url: /cpp/aspose.pdf.facades/pdffilesecurity/setprivilege/
 ---
-## PdfFileSecurity::SetPrivilege(System::SharedPtr\<DocumentPrivilege\>) method
+## PdfFileSecurity::SetPrivilege(const System::SharedPtr\<DocumentPrivilege\>\&) method
 
 
 Sets [Pdf](../../../aspose.pdf/) file security with empty user/owner passwords. The owner password will be added by a random string. Throws an exception if process failed.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileSecurity::SetPrivilege(System::SharedPtr<DocumentPrivilege> privilege)
+bool Aspose::Pdf::Facades::PdfFileSecurity::SetPrivilege(const System::SharedPtr<DocumentPrivilege> &privilege)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| privilege | System::SharedPtr\<DocumentPrivilege\> | Set privilege. |
+| privilege | const System::SharedPtr\<DocumentPrivilege\>\& | Set privilege. |
 
 ### ReturnValue
 
@@ -32,21 +32,21 @@ True for success.
 * Class [PdfFileSecurity](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileSecurity::SetPrivilege(System::String, System::String, System::SharedPtr\<DocumentPrivilege\>) method
+## PdfFileSecurity::SetPrivilege(const System::String\&, const System::String\&, const System::SharedPtr\<DocumentPrivilege\>\&) method
 
 
 Sets [Pdf](../../../aspose.pdf/) file security with original password. Throws an exception if process failed.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileSecurity::SetPrivilege(System::String userPassword, System::String ownerPassword, System::SharedPtr<DocumentPrivilege> privilege)
+bool Aspose::Pdf::Facades::PdfFileSecurity::SetPrivilege(const System::String &userPassword, const System::String &ownerPassword, const System::SharedPtr<DocumentPrivilege> &privilege)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| userPassword | System::String | Original user password. |
-| ownerPassword | System::String | Original owner password. |
-| privilege | System::SharedPtr\<DocumentPrivilege\> | Set privilege. |
+| userPassword | const System::String\& | Original user password. |
+| ownerPassword | const System::String\& | Original owner password. |
+| privilege | const System::SharedPtr\<DocumentPrivilege\>\& | Set privilege. |
 
 ### ReturnValue
 

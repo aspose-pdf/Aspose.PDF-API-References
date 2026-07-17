@@ -7,19 +7,19 @@ type: docs
 weight: 600
 url: /cpp/aspose.pdf.facades/pdffileeditor/concatenate/
 ---
-## PdfFileEditor::Concatenate(System::ArrayPtr\<System::SharedPtr\<Document\>\>, System::SharedPtr\<Document\>) method
+## PdfFileEditor::Concatenate(const System::ArrayPtr\<System::SharedPtr\<Document\>\>\&, System::SharedPtr\<Document\>) method
 
 
 Concatenates documents.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::Concatenate(System::ArrayPtr<System::SharedPtr<Document>> src, System::SharedPtr<Document> dest)
+bool Aspose::Pdf::Facades::PdfFileEditor::Concatenate(const System::ArrayPtr<System::SharedPtr<Document>> &src, System::SharedPtr<Document> dest)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| src | System::ArrayPtr\<System::SharedPtr\<Document\>\> | Array of source documents. |
+| src | const System::ArrayPtr\<System::SharedPtr\<Document\>\>\& | Array of source documents. |
 | dest | System::SharedPtr\<Document\> | Destination document. |
 
 ### ReturnValue
@@ -34,20 +34,20 @@ True if concatenation is successful.
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::Concatenate(System::ArrayPtr\<System::SharedPtr\<System::IO::Stream\>\>, System::SharedPtr\<System::IO::Stream\>) method
+## PdfFileEditor::Concatenate(const System::ArrayPtr\<System::SharedPtr\<System::IO::Stream\>\>\&, const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Concatenates files.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::Concatenate(System::ArrayPtr<System::SharedPtr<System::IO::Stream>> inputStream, System::SharedPtr<System::IO::Stream> outputStream)
+bool Aspose::Pdf::Facades::PdfFileEditor::Concatenate(const System::ArrayPtr<System::SharedPtr<System::IO::Stream>> &inputStream, const System::SharedPtr<System::IO::Stream> &outputStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | System::ArrayPtr\<System::SharedPtr\<System::IO::Stream\>\> | Array of streams to be concatenated. |
-| outputStream | System::SharedPtr\<System::IO::Stream\> | Stream where result file will be stored. |
+| inputStream | const System::ArrayPtr\<System::SharedPtr\<System::IO::Stream\>\>\& | Array of streams to be concatenated. |
+| outputStream | const System::SharedPtr\<System::IO::Stream\>\& | Stream where result file will be stored. |
 
 ### ReturnValue
 
@@ -61,20 +61,20 @@ True if operation was succeeded.
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::Concatenate(System::ArrayPtr\<System::SharedPtr\<System::IO::Stream\>\>, System::SharedPtr\<System::Web::HttpResponse\>) method
+## PdfFileEditor::Concatenate(const System::ArrayPtr\<System::SharedPtr\<System::IO::Stream\>\>\&, const System::SharedPtr\<System::Web::HttpResponse\>\&) method
 
 
 Concatenates files and stores result into HttpResponse object.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::Concatenate(System::ArrayPtr<System::SharedPtr<System::IO::Stream>> inputStream, System::SharedPtr<System::Web::HttpResponse> response)
+bool Aspose::Pdf::Facades::PdfFileEditor::Concatenate(const System::ArrayPtr<System::SharedPtr<System::IO::Stream>> &inputStream, const System::SharedPtr<System::Web::HttpResponse> &response)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | System::ArrayPtr\<System::SharedPtr\<System::IO::Stream\>\> | Streams array which contain files to concatenate. |
-| response | System::SharedPtr\<System::Web::HttpResponse\> | Response object/ |
+| inputStream | const System::ArrayPtr\<System::SharedPtr\<System::IO::Stream\>\>\& | Streams array which contain files to concatenate. |
+| response | const System::SharedPtr\<System::Web::HttpResponse\>\& | Response object/ |
 
 ### ReturnValue
 
@@ -89,20 +89,20 @@ true if operation was succeeded.
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::Concatenate(System::ArrayPtr\<System::String\>, System::SharedPtr\<System::Web::HttpResponse\>) method
+## PdfFileEditor::Concatenate(const System::ArrayPtr\<System::String\>\&, const System::SharedPtr\<System::Web::HttpResponse\>\&) method
 
 
 Concatenates files and saves reslt into HttpResposnse object.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::Concatenate(System::ArrayPtr<System::String> inputFiles, System::SharedPtr<System::Web::HttpResponse> response)
+bool Aspose::Pdf::Facades::PdfFileEditor::Concatenate(const System::ArrayPtr<System::String> &inputFiles, const System::SharedPtr<System::Web::HttpResponse> &response)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFiles | System::ArrayPtr\<System::String\> | Array of files to concatenate. |
-| response | System::SharedPtr\<System::Web::HttpResponse\> | Response object. |
+| inputFiles | const System::ArrayPtr\<System::String\>\& | Array of files to concatenate. |
+| response | const System::SharedPtr\<System::Web::HttpResponse\>\& | Response object. |
 
 ### ReturnValue
 
@@ -117,20 +117,20 @@ true if concatenation was successful.
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::Concatenate(System::ArrayPtr\<System::String\>, System::String) method
+## PdfFileEditor::Concatenate(const System::ArrayPtr\<System::String\>\&, const System::String\&) method
 
 
 Concatenates files into one file.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::Concatenate(System::ArrayPtr<System::String> inputFiles, System::String outputFile)
+bool Aspose::Pdf::Facades::PdfFileEditor::Concatenate(const System::ArrayPtr<System::String> &inputFiles, const System::String &outputFile)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFiles | System::ArrayPtr\<System::String\> | Array of files to concatenate. |
-| outputFile | System::String | Name of output file. |
+| inputFiles | const System::ArrayPtr\<System::String\>\& | Array of files to concatenate. |
+| outputFile | const System::String\& | Name of output file. |
 
 ### ReturnValue
 
@@ -143,22 +143,22 @@ True if operation was succeeded.
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::Concatenate(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::IO::Stream\>) method
+## PdfFileEditor::Concatenate(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Merges two [Pdf](../../../aspose.pdf/) documents into a new [Pdf](../../../aspose.pdf/) document with pages in alternate ways and fill the blank places with blank pages. e.g.: document1 has 5 pages: p1, p2, p3, p4, p5. document2 has 3 pages: p1', p2', p3'. Merging the two [Pdf](../../../aspose.pdf/) document will produce the result document with pages:p1, p1', p2, p2', p3, p3', p4, blankpage, p5, blankpage.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::Concatenate(System::SharedPtr<System::IO::Stream> firstInputStream, System::SharedPtr<System::IO::Stream> secInputStream, System::SharedPtr<System::IO::Stream> blankPageStream, System::SharedPtr<System::IO::Stream> outputStream)
+bool Aspose::Pdf::Facades::PdfFileEditor::Concatenate(const System::SharedPtr<System::IO::Stream> &firstInputStream, const System::SharedPtr<System::IO::Stream> &secInputStream, const System::SharedPtr<System::IO::Stream> &blankPageStream, const System::SharedPtr<System::IO::Stream> &outputStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| firstInputStream | System::SharedPtr\<System::IO::Stream\> | The first [Pdf](../../../aspose.pdf/) Stream. |
-| secInputStream | System::SharedPtr\<System::IO::Stream\> | The second [Pdf](../../../aspose.pdf/) Stream. |
-| blankPageStream | System::SharedPtr\<System::IO::Stream\> | The [Pdf](../../../aspose.pdf/) Stream with blank page. |
-| outputStream | System::SharedPtr\<System::IO::Stream\> | Output [Pdf](../../../aspose.pdf/) Stream. |
+| firstInputStream | const System::SharedPtr\<System::IO::Stream\>\& | The first [Pdf](../../../aspose.pdf/) Stream. |
+| secInputStream | const System::SharedPtr\<System::IO::Stream\>\& | The second [Pdf](../../../aspose.pdf/) Stream. |
+| blankPageStream | const System::SharedPtr\<System::IO::Stream\>\& | The [Pdf](../../../aspose.pdf/) Stream with blank page. |
+| outputStream | const System::SharedPtr\<System::IO::Stream\>\& | Output [Pdf](../../../aspose.pdf/) Stream. |
 
 ### ReturnValue
 
@@ -171,21 +171,21 @@ True if operation was succeeded.
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::Concatenate(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::IO::Stream\>) method
+## PdfFileEditor::Concatenate(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Concatenates two files.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::Concatenate(System::SharedPtr<System::IO::Stream> firstInputStream, System::SharedPtr<System::IO::Stream> secInputStream, System::SharedPtr<System::IO::Stream> outputStream)
+bool Aspose::Pdf::Facades::PdfFileEditor::Concatenate(const System::SharedPtr<System::IO::Stream> &firstInputStream, const System::SharedPtr<System::IO::Stream> &secInputStream, const System::SharedPtr<System::IO::Stream> &outputStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| firstInputStream | System::SharedPtr\<System::IO::Stream\> | Stream of first file. |
-| secInputStream | System::SharedPtr\<System::IO::Stream\> | Stream of second file. |
-| outputStream | System::SharedPtr\<System::IO::Stream\> | Stream where result file will be stored. |
+| firstInputStream | const System::SharedPtr\<System::IO::Stream\>\& | Stream of first file. |
+| secInputStream | const System::SharedPtr\<System::IO::Stream\>\& | Stream of second file. |
+| outputStream | const System::SharedPtr\<System::IO::Stream\>\& | Stream where result file will be stored. |
 
 ### ReturnValue
 
@@ -199,22 +199,22 @@ True if operation was succeeded.
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::Concatenate(System::String, System::String, System::String, System::String) method
+## PdfFileEditor::Concatenate(const System::String\&, const System::String\&, const System::String\&, const System::String\&) method
 
 
 Merges two [Pdf](../../../aspose.pdf/) documents into a new [Pdf](../../../aspose.pdf/) document with pages in alternate ways and fill the blank places with blank pages. e.g.: document1 has 5 pages: p1, p2, p3, p4, p5. document2 has 3 pages: p1', p2', p3'. Merging the two [Pdf](../../../aspose.pdf/) document will produce the result document with pages:p1, p1', p2, p2', p3, p3', p4, blankpage, p5, blankpage.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::Concatenate(System::String firstInputFile, System::String secInputFile, System::String blankPageFile, System::String outputFile)
+bool Aspose::Pdf::Facades::PdfFileEditor::Concatenate(const System::String &firstInputFile, const System::String &secInputFile, const System::String &blankPageFile, const System::String &outputFile)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| firstInputFile | System::String | First file. |
-| secInputFile | System::String | Second file. |
-| blankPageFile | System::String | PDF file with blank page. |
-| outputFile | System::String | Result file. |
+| firstInputFile | const System::String\& | First file. |
+| secInputFile | const System::String\& | Second file. |
+| blankPageFile | const System::String\& | PDF file with blank page. |
+| outputFile | const System::String\& | Result file. |
 
 ### ReturnValue
 
@@ -226,21 +226,21 @@ True if operation was succeeded.
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::Concatenate(System::String, System::String, System::String) method
+## PdfFileEditor::Concatenate(const System::String\&, const System::String\&, const System::String\&) method
 
 
 Concatenates two files.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::Concatenate(System::String firstInputFile, System::String secInputFile, System::String outputFile)
+bool Aspose::Pdf::Facades::PdfFileEditor::Concatenate(const System::String &firstInputFile, const System::String &secInputFile, const System::String &outputFile)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| firstInputFile | System::String | First file to concatenate. |
-| secInputFile | System::String | Second file to concatenate. |
-| outputFile | System::String | Output file. |
+| firstInputFile | const System::String\& | First file to concatenate. |
+| secInputFile | const System::String\& | Second file to concatenate. |
+| outputFile | const System::String\& | Output file. |
 
 ### ReturnValue
 

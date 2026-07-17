@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/documentinfo/remove/
 Removes the element with the specified key from the collection.
 
 ```cpp
-void Aspose::Pdf::DocumentInfo::Remove(System::String key)
+bool Aspose::Pdf::DocumentInfo::Remove(const System::String &key) override
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | System::String | The key of the element to remove. |
+| key | const System::String\& | The key of the element to remove. |
 
 ## See Also
 

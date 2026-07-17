@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotationactioncollection/set_onexit/
 Sets an action to be performed when the cursor exits the annotation's active area.
 
 ```cpp
-void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnExit(System::SharedPtr<PdfAction> value)
+void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnExit(const System::SharedPtr<PdfAction> &value)
 ```
 
 ## See Also

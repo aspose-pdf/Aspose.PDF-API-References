@@ -25,7 +25,7 @@ class PageLabel : public System::Object
 | [get_StartingValue](./get_startingvalue/)() | Gets starting value of the page numbering range. |
 | [PageLabel](./pagelabel/)() | Constructor for page label. |
 | [set_NumberingStyle](./set_numberingstyle/)(Aspose::Pdf::NumberingStyle) | Sets numbering style. |
-| [set_Prefix](./set_prefix/)(System::String) | Sets page number prefix. |
+| [set_Prefix](./set_prefix/)(const System::String\&) | Sets page number prefix. |
 | [set_StartingValue](./set_startingvalue/)(int32_t) | Sets starting value of the page numbering range. |
 ## See Also
 

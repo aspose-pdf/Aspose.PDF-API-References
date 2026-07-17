@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.logicalstructure/structuretypecategory/to_structuretypecate
 Performs an explicit conversion from [System::String](../../../system/string/) to [Aspose::Pdf::LogicalStructure::StructureTypeCategory](../).
 
 ```cpp
-static System::SharedPtr<StructureTypeCategory> Aspose::Pdf::LogicalStructure::StructureTypeCategory::to_StructureTypeCategory(System::String name)
+static System::SharedPtr<StructureTypeCategory> Aspose::Pdf::LogicalStructure::StructureTypeCategory::to_StructureTypeCategory(const System::String &name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | The name. |
+| name | const System::String\& | The name. |
 
 ### ReturnValue
 

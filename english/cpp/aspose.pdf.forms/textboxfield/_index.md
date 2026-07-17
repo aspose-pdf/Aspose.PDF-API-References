@@ -20,8 +20,8 @@ class TextBoxField : public Aspose::Pdf::Forms::Field
 
 | Method | Description |
 | --- | --- |
-| [AddBarcode](./addbarcode/)(System::String) | Adds barcode 128 into the field. [Field](../field/) value will be changed onto the code and field become read only. |
-| [AddImage](./addimage/)(System::SharedPtr\<System::Drawing::Image\>) | Adds image into the field resources and draws it. |
+| [AddBarcode](./addbarcode/)(const System::String\&) | Adds barcode 128 into the field. [Field](../field/) value will be changed onto the code and field become read only. |
+| [AddImage](./addimage/)(const System::SharedPtr\<System::Drawing::Image\>\&) | Adds image into the field resources and draws it. |
 | [get_ForceCombs](./get_forcecombs/)() | Gets flag which indicates is field divided into spaced positions. |
 | [get_MaxLen](./get_maxlen/)() | Gets maximum length of text in the field. |
 | [get_Multiline](./get_multiline/)() | Gets multiline flag of the field. If Multiline is true field can contain multiple lines of text. |
@@ -36,11 +36,11 @@ class TextBoxField : public Aspose::Pdf::Forms::Field
 | [set_SpellCheck](./set_spellcheck/)(bool) | Sets spellcheck flag for field. If true field shall be spell checked. |
 | [set_TextVerticalAlignment](./set_textverticalalignment/)(Aspose::Pdf::VerticalAlignment) | Sets text vertical alignment for annotation. |
 | [set_Value](./set_value/)(System::String) override | Sets value of the field. |
-| [TextBoxField](./textboxfield/)(System::SharedPtr\<Document\>) | Constructor which should be used with Generator. |
+| [TextBoxField](./textboxfield/)(const System::SharedPtr\<Document\>\&) | Constructor which should be used with Generator. |
 | [TextBoxField](./textboxfield/)() | Create instance of [TextBoxField](./). |
-| [TextBoxField](./textboxfield/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) | Constructor of TextBox field. |
-| [TextBoxField](./textboxfield/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::ArrayPtr\<System::SharedPtr\<Rectangle\>\>) | Constructor of TextBox field. |
-| [TextBoxField](./textboxfield/)(System::SharedPtr\<Document\>, System::SharedPtr\<Rectangle\>) | Constructor of TextBox field. |
+| [TextBoxField](./textboxfield/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&) | Constructor of TextBox field. |
+| [TextBoxField](./textboxfield/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::ArrayPtr\<System::SharedPtr\<Rectangle\>\>\&) | Constructor of TextBox field. |
+| [TextBoxField](./textboxfield/)(const System::SharedPtr\<Document\>\&, const System::SharedPtr\<Rectangle\>\&) | Constructor of TextBox field. |
 ## See Also
 
 * Class [Field](../field/)

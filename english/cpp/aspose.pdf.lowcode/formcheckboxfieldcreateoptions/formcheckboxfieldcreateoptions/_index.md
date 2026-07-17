@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.lowcode/formcheckboxfieldcreateoptions/formcheckboxfieldcre
 Initializes a new instance of the [FormCheckBoxFieldCreateOptions](../) object, that containing parameters for created and added CheckBoxField.
 
 ```cpp
-Aspose::Pdf::LowCode::FormCheckBoxFieldCreateOptions::FormCheckBoxFieldCreateOptions(int32_t pageNum, System::SharedPtr<Rectangle> rect)
+Aspose::Pdf::LowCode::FormCheckBoxFieldCreateOptions::FormCheckBoxFieldCreateOptions(int32_t pageNum, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pageNum | int32_t | [Page](../../../aspose.pdf/page/) number on which the added CheckBoxField will be located. |
-| rect | System::SharedPtr\<Rectangle\> | Sets CheckBoxField rectangle. |
+| rect | const System::SharedPtr\<Rectangle\>\& | Sets CheckBoxField rectangle. |
 
 ## See Also
 

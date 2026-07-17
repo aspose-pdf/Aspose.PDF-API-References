@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizer/hiddend
 Provides functionality to sanitize hidden data from a PDF document, ensuring that sensitive or unnecessary information such as metadata, annotations, JavaScripts, or private content is removed or transformed.
 
 ```cpp
-Aspose::Pdf::Security::HiddenDataSanitization::HiddenDataSanitizer::HiddenDataSanitizer(System::SharedPtr<HiddenDataSanitizationOptions> options)
+Aspose::Pdf::Security::HiddenDataSanitization::HiddenDataSanitizer::HiddenDataSanitizer(const System::SharedPtr<HiddenDataSanitizationOptions> &options)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | System::SharedPtr\<HiddenDataSanitizationOptions\> | The options to use for sanitization. |
+| options | const System::SharedPtr\<HiddenDataSanitizationOptions\>\& | The options to use for sanitization. |
 
 ## See Also
 

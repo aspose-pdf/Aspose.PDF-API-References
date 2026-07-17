@@ -1,142 +1,96 @@
 ---
 title: WatermarkAnnotation
+linktitle: WatermarkAnnotation
 second_title: Aspose.PDF for Java API Reference
 description: Class describes Watermark annotation object.
 type: docs
-weight: 403
+weight: 5510
 url: /java/com.aspose.pdf/watermarkannotation/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.BaseParagraph](../../com.aspose.pdf/baseparagraph), [com.aspose.pdf.Annotation](../../com.aspose.pdf/annotation)
+java.lang.Object, com.aspose.pdf.BaseParagraph com.aspose.pdf.Annotation com.aspose.pdf.WatermarkAnnotation, com.aspose.pdf.BaseParagraph, com.aspose.pdf.Annotation com.aspose.pdf.WatermarkAnnotation, com.aspose.pdf.Annotation, com.aspose.pdf.WatermarkAnnotation
+
+**All Implemented Interfaces:**
+com.aspose.ms.System.ICloneable
+
 ```
 public class WatermarkAnnotation extends Annotation
 ```
 
 Class describes Watermark annotation object.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [WatermarkAnnotation(Page page, Rectangle rect)](#WatermarkAnnotation-com.aspose.pdf.Page-com.aspose.pdf.Rectangle-) | Constructor for Watermark annotation class. |
+| [WatermarkAnnotation](#WatermarkAnnotation-com.aspose.pdf.Page-com.aspose.pdf.Rectangle-) | Constructor for Watermark annotation class. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [setText(FormattedText text)](#setText-com.aspose.pdf.facades.FormattedText-) | Set text of the annotation. |
-| [setTextAndState(String[] text, TextState textState)](#setTextAndState-java.lang.String---com.aspose.pdf.TextState-) | Set text of the annotation. |
-| [getFixedPrint()](#getFixedPrint--) | Fixed print object of Watermark annotation. |
-| [getAnnotationType()](#getAnnotationType--) | Gets annotation type. |
-| [accept(AnnotationSelector visitor)](#accept-com.aspose.pdf.AnnotationSelector-) | Apply visitor for annotation. |
-| [getOpacity()](#getOpacity--) | Gets or sets opacity of the annotation. |
-| [setOpacity(double value)](#setOpacity-double-) | Gets or sets opacity of the annotation. |
-| [changeAfterResize(Matrix transform)](#changeAfterResize-com.aspose.pdf.Matrix-) | Overrides the definition in the base class with an empty body. |
-### WatermarkAnnotation(Page page, Rectangle rect) {#WatermarkAnnotation-com.aspose.pdf.Page-com.aspose.pdf.Rectangle-}
-```
-public WatermarkAnnotation(Page page, Rectangle rect)
-```
+| [accept](#accept-com.aspose.pdf.AnnotationSelector-) | Apply visitor for annotation. |
+| [changeAfterResize](#changeAfterResize-com.aspose.pdf.Matrix-) | Overrides the definition in the base class with an empty body. |
+| [getAnnotationType](#getAnnotationType--) | Gets annotation type. |
+| [getFixedPrint](#getFixedPrint--) | Fixed print object of Watermark annotation. |
+| [getOpacity](#getOpacity--) | Gets or sets opacity of the annotation. |
+| [setOpacity](#setOpacity-double-) | Gets or sets opacity of the annotation. |
+| [setText](#setText-com.aspose.pdf.facades.FormattedText-) | Set text of the annotation. |
+| [setTextAndState](#setTextAndState-java.lang.String:A-com.aspose.pdf.TextState-) | Set text of the annotation. |
 
-
+### WatermarkAnnotation {#WatermarkAnnotation-com.aspose.pdf.Page-com.aspose.pdf.Rectangle-}
 Constructor for Watermark annotation class.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| page | [Page](../../com.aspose.pdf/page) | Page where annotation should be placed. |
-| rect | [Rectangle](../../com.aspose.pdf/rectangle) | Position of the annotation. |
+### accept {#accept-com.aspose.pdf.AnnotationSelector-}
+Apply visitor for annotation.
 
-### setText(FormattedText text) {#setText-com.aspose.pdf.facades.FormattedText-}
-```
-public void setText(FormattedText text)
-```
+### changeAfterResize {#changeAfterResize-com.aspose.pdf.Matrix-}
+Overrides the definition in the base class with an empty body.
 
-
-Set text of the annotation.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| text | [FormattedText](../../com.aspose.pdf.facades/formattedtext) | FormattedText Text value. |
-
-### setTextAndState(String[] text, TextState textState) {#setTextAndState-java.lang.String---com.aspose.pdf.TextState-}
-```
-public void setTextAndState(String[] text, TextState textState)
-```
-
-
-Set text of the annotation.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| text | java.lang.String[] | String array (Text value) |
-| textState | [TextState](../../com.aspose.pdf/textstate) | TextState object |
-
-### getFixedPrint() {#getFixedPrint--}
-```
-public FixedPrint getFixedPrint()
-```
-
-
-Fixed print object of Watermark annotation.
-
-**Returns:**
-[FixedPrint](../../com.aspose.pdf/fixedprint) - FixedPrint object
-### getAnnotationType() {#getAnnotationType--}
+### getAnnotationType {#getAnnotationType--}
 ```
 public AnnotationType getAnnotationType()
 ```
 
-
 Gets annotation type.
 
 **Returns:**
-[AnnotationType](../../com.aspose.pdf/annotationtype) - AnnotationType element
-### accept(AnnotationSelector visitor) {#accept-com.aspose.pdf.AnnotationSelector-}
+AnnotationType element
+
+### getFixedPrint {#getFixedPrint--}
 ```
-public void accept(AnnotationSelector visitor)
+public FixedPrint getFixedPrint()
 ```
 
+Fixed print object of Watermark annotation.
 
-Apply visitor for annotation.
+**Returns:**
+FixedPrint object
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| visitor | [AnnotationSelector](../../com.aspose.pdf/annotationselector) | Visitor object. |
-
-### getOpacity() {#getOpacity--}
+### getOpacity {#getOpacity--}
 ```
 public double getOpacity()
 ```
 
-
 Gets or sets opacity of the annotation.
 
 **Returns:**
-double - double value
-### setOpacity(double value) {#setOpacity-double-}
+double value
+
+### setOpacity {#setOpacity-double-}
 ```
 public void setOpacity(double value)
 ```
 
-
 Gets or sets opacity of the annotation.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | double | double value |
+| value |  | double value |
 
-### changeAfterResize(Matrix transform) {#changeAfterResize-com.aspose.pdf.Matrix-}
-```
-public void changeAfterResize(Matrix transform)
-```
+### setText {#setText-com.aspose.pdf.facades.FormattedText-}
+Set text of the annotation.
 
-
-Overrides the definition in the base class with an empty body.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| transform | [Matrix](../../com.aspose.pdf/matrix) | Matrix specifying the transformation. |
-
+### setTextAndState {#setTextAndState-java.lang.String:A-com.aspose.pdf.TextState-}
+Set text of the annotation.

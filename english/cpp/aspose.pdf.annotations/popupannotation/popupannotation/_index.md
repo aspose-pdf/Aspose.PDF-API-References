@@ -7,20 +7,20 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf.annotations/popupannotation/popupannotation/
 ---
-## PopupAnnotation::PopupAnnotation(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) constructor
+## PopupAnnotation::PopupAnnotation(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&) constructor
 
 
 Creates new Popup annotation on the specified page.
 
 ```cpp
-Aspose::Pdf::Annotations::PopupAnnotation::PopupAnnotation(System::SharedPtr<Aspose::Pdf::Page> page, System::SharedPtr<Rectangle> rect)
+Aspose::Pdf::Annotations::PopupAnnotation::PopupAnnotation(const System::SharedPtr<Aspose::Pdf::Page> &page, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | The document's page where annotation should be created. |
-| rect | System::SharedPtr\<Rectangle\> | The annotation rectangle, defining the location of the annotation on the page. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | The document's page where annotation should be created. |
+| rect | const System::SharedPtr\<Rectangle\>\& | The annotation rectangle, defining the location of the annotation on the page. |
 
 ## See Also
 
@@ -30,19 +30,19 @@ Aspose::Pdf::Annotations::PopupAnnotation::PopupAnnotation(System::SharedPtr<Asp
 * Class [PopupAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PopupAnnotation::PopupAnnotation(System::SharedPtr\<Document\>) constructor
+## PopupAnnotation::PopupAnnotation(const System::SharedPtr\<Document\>\&) constructor
 
 
 Constructor. for using in Generator.
 
 ```cpp
-Aspose::Pdf::Annotations::PopupAnnotation::PopupAnnotation(System::SharedPtr<Document> document)
+Aspose::Pdf::Annotations::PopupAnnotation::PopupAnnotation(const System::SharedPtr<Document> &document)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Document\> | [Document](../../../aspose.pdf/document/) where new popup annotation will be created. |
+| document | const System::SharedPtr\<Document\>\& | [Document](../../../aspose.pdf/document/) where new popup annotation will be created. |
 
 ## See Also
 

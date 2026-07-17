@@ -13,15 +13,15 @@ url: /cpp/aspose.pdf.facades/pdffilesecurity/tryencryptfile/
 Encrypts [Pdf](../../../aspose.pdf/) file with userpassword and ownerpassword and sets the document's privileges to access. The user password and the owner password can be null or empty. The owner password will be replaced with a random string if the input owner password is null or empty. Does not throw an exception if process failed.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileSecurity::TryEncryptFile(System::String userPassword, System::String ownerPassword, System::SharedPtr<DocumentPrivilege> privilege, KeySize keySize)
+bool Aspose::Pdf::Facades::PdfFileSecurity::TryEncryptFile(const System::String &userPassword, const System::String &ownerPassword, const System::SharedPtr<DocumentPrivilege> &privilege, KeySize keySize)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| userPassword | System::String | User password. |
-| ownerPassword | System::String | Owner password. |
-| privilege | System::SharedPtr\<DocumentPrivilege\> | Set privilege. |
+| userPassword | const System::String\& | User password. |
+| ownerPassword | const System::String\& | Owner password. |
+| privilege | const System::SharedPtr\<DocumentPrivilege\>\& | Set privilege. |
 | keySize | KeySize | [KeySize.x40](../../keysize/) for 40 bits encryption, [KeySize.x128](../../keysize/) for 128 bits encryption and [KeySize.x256](../../keysize/) for 256 bits encryption. |
 
 ### ReturnValue

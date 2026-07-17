@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileinfo/set_title/
 Sets the Title information of PDF document.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileInfo::set_Title(System::String value)
+void Aspose::Pdf::Facades::PdfFileInfo::set_Title(const System::String &value)
 ```
 
 ## See Also

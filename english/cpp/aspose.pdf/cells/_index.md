@@ -21,10 +21,10 @@ class Cells : public System::Collections::Generic::IEnumerable<System::SharedPtr
 | Method | Description |
 | --- | --- |
 | [Add](./add/)() | Add cell to collection. |
-| [Add](./add/)(System::String, System::SharedPtr\<Text::TextState\>) | Add cell to collection. |
-| [Add](./add/)(System::String) | Add cell to collection. |
-| [Add](./add/)(System::SharedPtr\<Text::TextFragment\>) | Add cell to collection. |
-| [Add](./add/)(System::SharedPtr\<Cell\>) | Add cell to collection. |
+| [Add](./add/)(const System::String\&, const System::SharedPtr\<Text::TextState\>\&) | Add cell to collection. |
+| [Add](./add/)(const System::String\&) | Add cell to collection. |
+| [Add](./add/)(const System::SharedPtr\<Text::TextFragment\>\&) | Add cell to collection. |
+| [Add](./add/)(const System::SharedPtr\<Cell\>\&) | Add cell to collection. |
 | [begin](./begin/)() | Gets iterator pointing to the first element (if any) of the collection. |
 | [begin](./begin/)() const | Gets iterator pointing to the first element (if any) of the const-qualified instance of the collection. |
 | [cbegin](./cbegin/)() const | Gets iterator pointing to the first const-qualified element (if any) of the collection. |
@@ -36,9 +36,9 @@ class Cells : public System::Collections::Generic::IEnumerable<System::SharedPtr
 | [get_Count](./get_count/)() | The items count. |
 | [GetEnumerator](./getenumerator/)() override | Gets collection's enumerator. |
 | [idx_get](./idx_get/)(int32_t) | Gets cells. |
-| [idx_set](./idx_set/)(int32_t, System::SharedPtr\<Cell\>) | Sets cells. |
-| [Insert](./insert/)(int32_t, System::SharedPtr\<Cell\>) | Insert cell to collection. |
-| [Remove](./remove/)(System::SharedPtr\<Cell\>) | Remove cell set from collection. |
+| [idx_set](./idx_set/)(int32_t, const System::SharedPtr\<Cell\>\&) | Sets cells. |
+| [Insert](./insert/)(int32_t, const System::SharedPtr\<Cell\>\&) | Insert cell to collection. |
+| [Remove](./remove/)(const System::SharedPtr\<Cell\>\&) | Remove cell set from collection. |
 | [RemoveRange](./removerange/)(int32_t, int32_t) | Remove cell set from collection. |
 | [virtualizeBeginConstIterator](./virtualizebeginconstiterator/)() const override | Gets iterator pointing to the first element (if any)of the const-qualified instance of the collection. |
 | [virtualizeBeginIterator](./virtualizebeginiterator/)() override | Gets iterator pointing to the first element (if any) of the collection. |

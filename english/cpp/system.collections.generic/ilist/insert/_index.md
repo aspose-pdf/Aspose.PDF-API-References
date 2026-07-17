@@ -19,7 +19,7 @@ virtual void System::Collections::Generic::IList<T>::Insert(int index, const T &
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to insert elements onto. |
+| index | int | [Index](../../../system/index/) to insert elements onto. |
 | item | const T\& | Item to insert at specified index. |
 
 ## See Also

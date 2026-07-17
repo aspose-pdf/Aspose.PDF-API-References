@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.facades/pdfcontenteditor/adddocumentadditionalaction/
 Adds additional action for document event.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfContentEditor::AddDocumentAdditionalAction(System::String eventType, System::String code)
+void Aspose::Pdf::Facades::PdfContentEditor::AddDocumentAdditionalAction(const System::String &eventType, const System::String &code)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| eventType | System::String | The document event types. |
-| code | System::String | The code of JavaScript. |
+| eventType | const System::String\& | The document event types. |
+| code | const System::String\& | The code of JavaScript. |
 
 ## See Also
 

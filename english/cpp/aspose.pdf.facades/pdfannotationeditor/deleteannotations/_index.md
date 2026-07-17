@@ -21,19 +21,19 @@ void Aspose::Pdf::Facades::PdfAnnotationEditor::DeleteAnnotations()
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfAnnotationEditor::DeleteAnnotations(System::String) method
+## PdfAnnotationEditor::DeleteAnnotations(const System::String\&) method
 
 
 Deletes all annotations of the specified type in the document.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfAnnotationEditor::DeleteAnnotations(System::String annotType)
+void Aspose::Pdf::Facades::PdfAnnotationEditor::DeleteAnnotations(const System::String &annotType)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| annotType | System::String | The type of annotation will be deleted. |
+| annotType | const System::String\& | The type of annotation will be deleted. |
 
 ## See Also
 

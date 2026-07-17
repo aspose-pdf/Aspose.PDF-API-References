@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.forms/form/assignxfa/
 Sets [XFA](../../xfa/) of the form to specified value.
 
 ```cpp
-void Aspose::Pdf::Forms::Form::AssignXfa(System::SharedPtr<System::Xml::XmlDocument> xml)
+void Aspose::Pdf::Forms::Form::AssignXfa(const System::SharedPtr<System::Xml::XmlDocument> &xml)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xml | System::SharedPtr\<System::Xml::XmlDocument\> | Xml document which concains new [XFA](../../xfa/) data. |
+| xml | const System::SharedPtr\<System::Xml::XmlDocument\>\& | Xml document which concains new [XFA](../../xfa/) data. |
 
 ## See Also
 

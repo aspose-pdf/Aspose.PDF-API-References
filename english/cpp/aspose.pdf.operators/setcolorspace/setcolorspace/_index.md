@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.operators/setcolorspace/setcolorspace/
 Initializes operator.
 
 ```cpp
-Aspose::Pdf::Operators::SetColorSpace::SetColorSpace(System::String name)
+Aspose::Pdf::Operators::SetColorSpace::SetColorSpace(const System::String &name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | [Color](../../../aspose.pdf/color/) space name. |
+| name | const System::String\& | [Color](../../../aspose.pdf/color/) space name. |
 
 ## See Also
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dview/set_rendermode/
 Sets the render mode of view.
 
 ```cpp
-void Aspose::Pdf::Annotations::PDF3DView::set_RenderMode(System::SharedPtr<PDF3DRenderMode> value)
+void Aspose::Pdf::Annotations::PDF3DView::set_RenderMode(const System::SharedPtr<PDF3DRenderMode> &value)
 ```
 
 ## Remarks

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/headinglevels/addlevels/
 Adds heading levels. Font size collection should be sorted by decreasing size.
 
 ```cpp
-void Aspose::Pdf::HeadingLevels::AddLevels(System::SharedPtr<System::Collections::Generic::ICollection<double>> fontSizes)
+void Aspose::Pdf::HeadingLevels::AddLevels(const System::SharedPtr<System::Collections::Generic::ICollection<double>> &fontSizes)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontSizes | System::SharedPtr\<System::Collections::Generic::ICollection\<double\>\> | Values should be sorted in decreasing order. |
+| fontSizes | const System::SharedPtr\<System::Collections::Generic::ICollection\<double\>\>\& | Values should be sorted in decreasing order. |
 
 ## See Also
 

@@ -28,19 +28,19 @@ void Aspose::Pdf::Annotations::AnnotationCollection::Add(const System::SharedPtr
 * Class [AnnotationCollection](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## AnnotationCollection::Add(System::SharedPtr\<Annotation\>, bool) method
+## AnnotationCollection::Add(const System::SharedPtr\<Annotation\>\&, bool) method
 
 
 Adds annotation to the collection. If page is rotated then annotation rectangle will be recalculated accordingly.
 
 ```cpp
-void Aspose::Pdf::Annotations::AnnotationCollection::Add(System::SharedPtr<Annotation> annotation, bool considerRotation)
+void Aspose::Pdf::Annotations::AnnotationCollection::Add(const System::SharedPtr<Annotation> &annotation, bool considerRotation)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| annotation | System::SharedPtr\<Annotation\> | [Annotation](../../annotation/) which shall be added. |
+| annotation | const System::SharedPtr\<Annotation\>\& | [Annotation](../../annotation/) which shall be added. |
 | considerRotation | bool | If true and if page is rotated then annotation position will be recaculated accroding to page rotation. |
 
 ## See Also

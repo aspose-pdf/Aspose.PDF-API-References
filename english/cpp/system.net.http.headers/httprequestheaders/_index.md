@@ -43,7 +43,7 @@ class HttpRequestHeaders : public System::Net::Http::Headers::HttpHeaders
 | [get_MaxForwards](./get_maxforwards/)() | Gets a value of the 'Max-Forwards' header. |
 | [get_Pragma](./get_pragma/)() | Returns a value of the 'Pragma' header. |
 | [get_ProxyAuthorization](./get_proxyauthorization/)() | Gets a value of the 'Proxy-Authorization' header. |
-| [get_Range](./get_range/)() | Gets a value of the 'Range' header. |
+| [get_Range](./get_range/)() | Gets a value of the '[Range](../../system/range/)' header. |
 | [get_Referrer](./get_referrer/)() | Gets a value of the 'Referer' header. |
 | [get_TE](./get_te/)() | Returns a value of the 'TE' header. |
 | [get_Trailer](./get_trailer/)() | Returns a value of the 'Trailer' header. |
@@ -66,7 +66,7 @@ class HttpRequestHeaders : public System::Net::Http::Headers::HttpHeaders
 | [set_IfUnmodifiedSince](./set_ifunmodifiedsince/)(Nullable\<DateTimeOffset\>) | Sets a value of the 'If-Unmodified-Since' header. |
 | [set_MaxForwards](./set_maxforwards/)(Nullable\<int32_t\>) | Sets a value of the 'Max-Forwards' header. |
 | [set_ProxyAuthorization](./set_proxyauthorization/)(System::SharedPtr\<AuthenticationHeaderValue\>) | Sets a value of the 'Proxy-Authorization' header. |
-| [set_Range](./set_range/)(System::SharedPtr\<RangeHeaderValue\>) | Sets a value of the 'Range' header. |
+| [set_Range](./set_range/)(System::SharedPtr\<RangeHeaderValue\>) | Sets a value of the '[Range](../../system/range/)' header. |
 | [set_Referrer](./set_referrer/)(System::SharedPtr\<Uri\>) | Sets a value of the 'Referer' header. |
 | [set_TransferEncodingChunked](./set_transferencodingchunked/)(Nullable\<bool\>) | Sets a value that indicates if the 'Transfer-Encoding' header value contains 'Chunked'. |
 ## See Also

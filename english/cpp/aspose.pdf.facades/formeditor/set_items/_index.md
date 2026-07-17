@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formeditor/set_items/
 Sets items which will be added t onewly created list box or combo box.
 
 ```cpp
-void Aspose::Pdf::Facades::FormEditor::set_Items(System::ArrayPtr<System::String> value)
+void Aspose::Pdf::Facades::FormEditor::set_Items(const System::ArrayPtr<System::String> &value)
 ```
 
 ## See Also

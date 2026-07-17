@@ -21,6 +21,9 @@ class AssemblyConstants : public System::Object
 | Field | Description |
 | --- | --- |
 | static [Family](./family/) |  |
+| static [MicrosoftExtensionsDataIngestionMarkdigVersion](./microsoftextensionsdataingestionmarkdigversion/) |  |
+| static [MicrosoftExtensionsDataIngestionVersion](./microsoftextensionsdataingestionversion/) |  |
+| static [MicrosoftMLTokenizersDataCl100kBaseVersion](./microsoftmltokenizersdatacl100kbaseversion/) |  |
 | static [Platform](./platform/) |  |
 | static [Producer](./producer/) | The producer of the [Pdf](../) file. |
 | static [PRODUCT](./product/) |  |

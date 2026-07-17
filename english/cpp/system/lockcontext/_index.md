@@ -4,7 +4,7 @@ linktitle: LockContext
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::LockContext class. Guard object implementing C# lock() statement in C++.'
 type: docs
-weight: 4400
+weight: 4500
 url: /cpp/system/lockcontext/
 ---
 ## LockContext class

@@ -7,21 +7,21 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf.annotations/freetextannotation/freetextannotation/
 ---
-## FreeTextAnnotation::FreeTextAnnotation(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>, System::SharedPtr\<Aspose::Pdf::Annotations::DefaultAppearance\>) constructor
+## FreeTextAnnotation::FreeTextAnnotation(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&, const System::SharedPtr\<Aspose::Pdf::Annotations::DefaultAppearance\>\&) constructor
 
 
 Creates new FreeText annotation on the specified page.
 
 ```cpp
-Aspose::Pdf::Annotations::FreeTextAnnotation::FreeTextAnnotation(System::SharedPtr<Aspose::Pdf::Page> page, System::SharedPtr<Rectangle> rect, System::SharedPtr<Aspose::Pdf::Annotations::DefaultAppearance> appearance)
+Aspose::Pdf::Annotations::FreeTextAnnotation::FreeTextAnnotation(const System::SharedPtr<Aspose::Pdf::Page> &page, const System::SharedPtr<Rectangle> &rect, const System::SharedPtr<Aspose::Pdf::Annotations::DefaultAppearance> &appearance)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | The document's page where annotation should be created. |
-| rect | System::SharedPtr\<Rectangle\> | The annotation rectangle, defining the location of the annotation on the page. |
-| appearance | System::SharedPtr\<Aspose::Pdf::Annotations::DefaultAppearance\> | The default appearance to be used in formatting the text. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | The document's page where annotation should be created. |
+| rect | const System::SharedPtr\<Rectangle\>\& | The annotation rectangle, defining the location of the annotation on the page. |
+| appearance | const System::SharedPtr\<Aspose::Pdf::Annotations::DefaultAppearance\>\& | The default appearance to be used in formatting the text. |
 
 ## See Also
 
@@ -32,20 +32,20 @@ Aspose::Pdf::Annotations::FreeTextAnnotation::FreeTextAnnotation(System::SharedP
 * Class [FreeTextAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## FreeTextAnnotation::FreeTextAnnotation(System::SharedPtr\<Document\>, System::SharedPtr\<Aspose::Pdf::Annotations::DefaultAppearance\>) constructor
+## FreeTextAnnotation::FreeTextAnnotation(const System::SharedPtr\<Document\>\&, const System::SharedPtr\<Aspose::Pdf::Annotations::DefaultAppearance\>\&) constructor
 
 
 Constructor to use with Generator.
 
 ```cpp
-Aspose::Pdf::Annotations::FreeTextAnnotation::FreeTextAnnotation(System::SharedPtr<Document> document, System::SharedPtr<Aspose::Pdf::Annotations::DefaultAppearance> appearance)
+Aspose::Pdf::Annotations::FreeTextAnnotation::FreeTextAnnotation(const System::SharedPtr<Document> &document, const System::SharedPtr<Aspose::Pdf::Annotations::DefaultAppearance> &appearance)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Document\> | [Document](../../../aspose.pdf/document/) where annotation will be created. |
-| appearance | System::SharedPtr\<Aspose::Pdf::Annotations::DefaultAppearance\> | Default Appearance |
+| document | const System::SharedPtr\<Document\>\& | [Document](../../../aspose.pdf/document/) where annotation will be created. |
+| appearance | const System::SharedPtr\<Aspose::Pdf::Annotations::DefaultAppearance\>\& | Default Appearance |
 
 ## See Also
 

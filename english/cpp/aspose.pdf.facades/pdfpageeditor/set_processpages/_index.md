@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfpageeditor/set_processpages/
 Sets the page numbers to be edited. By default, each page would be edited.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfPageEditor::set_ProcessPages(System::ArrayPtr<int32_t> value)
+void Aspose::Pdf::Facades::PdfPageEditor::set_ProcessPages(const System::ArrayPtr<int32_t> &value)
 ```
 
 ## See Also

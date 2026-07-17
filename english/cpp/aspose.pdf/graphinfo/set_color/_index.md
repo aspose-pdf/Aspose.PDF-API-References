@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/graphinfo/set_color/
 Sets a [Color](../../color/) object that indicates the color of the graph.
 
 ```cpp
-void Aspose::Pdf::GraphInfo::set_Color(System::SharedPtr<Aspose::Pdf::Color> value)
+void Aspose::Pdf::GraphInfo::set_Color(const System::SharedPtr<Aspose::Pdf::Color> &value)
 ```
 
 ## See Also

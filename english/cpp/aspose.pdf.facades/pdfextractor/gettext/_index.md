@@ -7,19 +7,19 @@ type: docs
 weight: 1900
 url: /cpp/aspose.pdf.facades/pdfextractor/gettext/
 ---
-## PdfExtractor::GetText(System::SharedPtr\<System::IO::Stream\>) method
+## PdfExtractor::GetText(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Saves text to stream. see also:[ExtractText](../extracttext/)
 
 ```cpp
-void Aspose::Pdf::Facades::PdfExtractor::GetText(System::SharedPtr<System::IO::Stream> outputStream)
+void Aspose::Pdf::Facades::PdfExtractor::GetText(const System::SharedPtr<System::IO::Stream> &outputStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStream | System::SharedPtr\<System::IO::Stream\> | The stream to save the text. |
+| outputStream | const System::SharedPtr\<System::IO::Stream\>\& | The stream to save the text. |
 
 ## See Also
 
@@ -28,19 +28,19 @@ void Aspose::Pdf::Facades::PdfExtractor::GetText(System::SharedPtr<System::IO::S
 * Class [PdfExtractor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfExtractor::GetText(System::SharedPtr\<System::IO::Stream\>, bool) method
+## PdfExtractor::GetText(const System::SharedPtr\<System::IO::Stream\>\&, bool) method
 
 
 Saves text to stream. see also:[ExtractText](../extracttext/)
 
 ```cpp
-void Aspose::Pdf::Facades::PdfExtractor::GetText(System::SharedPtr<System::IO::Stream> outputStream, bool filterNotAscii)
+void Aspose::Pdf::Facades::PdfExtractor::GetText(const System::SharedPtr<System::IO::Stream> &outputStream, bool filterNotAscii)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStream | System::SharedPtr\<System::IO::Stream\> | The stream to save the text. |
+| outputStream | const System::SharedPtr\<System::IO::Stream\>\& | The stream to save the text. |
 | filterNotAscii | bool | If this parameter is true all Not ASCII symbols will be removed |
 
 ## See Also
@@ -50,19 +50,19 @@ void Aspose::Pdf::Facades::PdfExtractor::GetText(System::SharedPtr<System::IO::S
 * Class [PdfExtractor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfExtractor::GetText(System::String) method
+## PdfExtractor::GetText(const System::String\&) method
 
 
 Saves text to file. see also:[ExtractText](../extracttext/)
 
 ```cpp
-void Aspose::Pdf::Facades::PdfExtractor::GetText(System::String outputFile)
+void Aspose::Pdf::Facades::PdfExtractor::GetText(const System::String &outputFile)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | System::String | The file path and name to save the text. |
+| outputFile | const System::String\& | The file path and name to save the text. |
 
 ## See Also
 

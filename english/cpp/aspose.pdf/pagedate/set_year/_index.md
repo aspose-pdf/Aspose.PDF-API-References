@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagedate/set_year/
 Sets the year component of the date. The format of the date will be updated based on this component.
 
 ```cpp
-void Aspose::Pdf::PageDate::set_Year(System::SharedPtr<PageDate::YearComponent> value)
+void Aspose::Pdf::PageDate::set_Year(const System::SharedPtr<PageDate::YearComponent> &value)
 ```
 
 ## See Also

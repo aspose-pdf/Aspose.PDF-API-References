@@ -22,10 +22,10 @@ class Rectangle : public System::ICloneable
 | --- | --- |
 | [Center](./center/)() | Returncs coordinates of center of the rectangle. |
 | [Clone](./clone/)() override | Clones the [Rectangle](./) object. |
-| [Contains](./contains/)(System::SharedPtr\<Point\>, bool) | Determinces whether given point is inside of the rectangle. |
+| [Contains](./contains/)(const System::SharedPtr\<Point\>\&, bool) | Determinces whether given point is inside of the rectangle. |
 | [ContainsLine](./containsline/)(double, double, double, double) | Determines whether the rectangle contains a line represented by two points. |
 | [ContainsPoint](./containspoint/)(double, double) | Determines whether the given point is contained within the rectangle. |
-| [Equals](./equals/)(System::SharedPtr\<Rectangle\>) | Check if rectangles are equal i.e. have same position and sizes. |
+| [Equals](./equals/)(const System::SharedPtr\<Rectangle\>\&) | Check if rectangles are equal i.e. have same position and sizes. |
 | static [FromRect](./fromrect/)(System::Drawing::Rectangle) | Initializes new rectangle from given instance of [System.Drawing.Rectangle](../../system.drawing/rectangle/). |
 | static [FromRect](./fromrect/)(System::Drawing::RectangleF) | Initializes new rectangle from given instance of [System.Drawing.Rectangle](../../system.drawing/rectangle/). |
 | static [get_Empty](./get_empty/)() | Empty rectangle. |
@@ -39,12 +39,12 @@ class Rectangle : public System::ICloneable
 | [get_URX](./get_urx/)() const | X - coordinate of upper-right corner. |
 | [get_URY](./get_ury/)() const | Y - coordinate of upper-right corner. |
 | [get_Width](./get_width/)() | Width of rectangle. |
-| [Intersect](./intersect/)(System::SharedPtr\<Rectangle\>) | Intersects to rectangles. |
-| [IsIntersect](./isintersect/)(System::SharedPtr\<Rectangle\>) | Determines whether this rectangle intersects with other rectangle. |
-| [Join](./join/)(System::SharedPtr\<Rectangle\>) | Joins rectangles. |
+| [Intersect](./intersect/)(const System::SharedPtr\<Rectangle\>\&) | Intersects to rectangles. |
+| [IsIntersect](./isintersect/)(const System::SharedPtr\<Rectangle\>\&) | Determines whether this rectangle intersects with other rectangle. |
+| [Join](./join/)(const System::SharedPtr\<Rectangle\>\&) | Joins rectangles. |
 | [MoveBy](./moveby/)(double, double) | Shift rectangle by the specified deltas. |
-| [NearEquals](./nearequals/)(System::SharedPtr\<Rectangle\>, double) | Check if rectangles are near equal i.e. have near same (up to delta) position and sizes. |
-| static [Parse](./parse/)(System::String) | Try to parse string and extract from it rectangle components llx, lly, urx, ury. |
+| [NearEquals](./nearequals/)(const System::SharedPtr\<Rectangle\>\&, double) | Check if rectangles are near equal i.e. have near same (up to delta) position and sizes. |
+| static [Parse](./parse/)(const System::String\&) | Try to parse string and extract from it rectangle components llx, lly, urx, ury. |
 | [Rectangle](./rectangle/)(double, double, double, double, bool) | Constructor of [Rectangle](./). |
 | [Rotate](./rotate/)(Rotation) | Rotate rectangle by the specified angle. |
 | [Rotate](./rotate/)(int32_t) | Rotate rectangle by the specified angle. |

@@ -26,9 +26,9 @@ class LevelFormat : public System::Object
 | [get_TextState](./get_textstate/)() const | Gets a list level text state. |
 | [LevelFormat](./levelformat/)() |  |
 | [set_LineDash](./set_linedash/)(Text::TabLeaderType) | Sets TOC line dash. |
-| [set_Margin](./set_margin/)(System::SharedPtr\<MarginInfo\>) | Sets a list level margin. |
+| [set_Margin](./set_margin/)(const System::SharedPtr\<MarginInfo\>\&) | Sets a list level margin. |
 | [set_SubsequentLinesIndent](./set_subsequentlinesindent/)(float) | Sets a subsequent lines indent. |
-| [set_TextState](./set_textstate/)(System::SharedPtr\<Aspose::Pdf::Text::TextState\>) | Sets a list level text state. |
+| [set_TextState](./set_textstate/)(const System::SharedPtr\<Aspose::Pdf::Text::TextState\>\&) | Sets a list level text state. |
 ## See Also
 
 * Class [Object](../../system/object/)

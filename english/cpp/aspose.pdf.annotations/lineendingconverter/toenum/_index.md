@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/lineendingconverter/toenum/
 
 
 ```cpp
-static LineEnding Aspose::Pdf::Annotations::LineEndingConverter::ToEnum(System::String value)
+static LineEnding Aspose::Pdf::Annotations::LineEndingConverter::ToEnum(const System::String &value)
 ```
 
 ## See Also

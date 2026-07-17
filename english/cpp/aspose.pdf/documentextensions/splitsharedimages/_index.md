@@ -13,15 +13,15 @@ url: /cpp/aspose.pdf/documentextensions/splitsharedimages/
 For Images in [Resources](../../resources/) if two pages checks for common XImages and for similar cases splits them, by creating duplicate XImages.
 
 ```cpp
-static void Aspose::Pdf::DocumentExtensions::SplitSharedImages(System::SharedPtr<Document> doc, System::SharedPtr<Page> page_1, System::SharedPtr<Page> page_2)
+static void Aspose::Pdf::DocumentExtensions::SplitSharedImages(const System::SharedPtr<Document> &doc, const System::SharedPtr<Page> &page_1, const System::SharedPtr<Page> &page_2)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | System::SharedPtr\<Document\> | The document containing both collections. |
-| page_1 | System::SharedPtr\<Page\> | First page for compare. |
-| page_2 | System::SharedPtr\<Page\> | Second page for compare/ |
+| doc | const System::SharedPtr\<Document\>\& | The document containing both collections. |
+| page_1 | const System::SharedPtr\<Page\>\& | First page for compare. |
+| page_2 | const System::SharedPtr\<Page\>\& | Second page for compare/ |
 
 ## See Also
 

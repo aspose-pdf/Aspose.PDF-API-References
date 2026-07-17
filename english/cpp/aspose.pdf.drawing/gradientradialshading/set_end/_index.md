@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/gradientradialshading/set_end/
 Sets ending circle center point.
 
 ```cpp
-void Aspose::Pdf::Drawing::GradientRadialShading::set_End(System::SharedPtr<Point> value)
+void Aspose::Pdf::Drawing::GradientRadialShading::set_End(const System::SharedPtr<Point> &value)
 ```
 
 ## See Also

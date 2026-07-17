@@ -1,62 +1,49 @@
 ---
 title: NamedAction
+linktitle: NamedAction
 second_title: Aspose.PDF for Java API Reference
 description: Represents named actions that PDF viewer applications are expected to support.
 type: docs
-weight: 224
+weight: 3100
 url: /java/com.aspose.pdf/namedaction/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.PdfAction](../../com.aspose.pdf/pdfaction)
+java.lang.Object, com.aspose.pdf.PdfAction com.aspose.pdf.NamedAction, com.aspose.pdf.PdfAction, com.aspose.pdf.NamedAction
+
+**All Implemented Interfaces:**
+IAppointment
+
 ```
 public final class NamedAction extends PdfAction
 ```
 
 Represents named actions that PDF viewer applications are expected to support.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [NamedAction(int action)](#NamedAction-int-) | Constructor for Named Action class. |
+| [NamedAction](#NamedAction-com.aspose.pdf.PredefinedAction-) | Constructor for Named Action class. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getName()](#getName--) | Gets the action to be performed. |
-| [setName(String value)](#setName-java.lang.String-) | Sets the action to be performed. |
-### NamedAction(int action) {#NamedAction-int-}
-```
-public NamedAction(int action)
-```
+| [getName](#getName--) | Gets the action to be performed. |
+| [setName](#setName-java.lang.String-) | Sets the action to be performed. |
 
-
+### NamedAction {#NamedAction-com.aspose.pdf.PredefinedAction-}
 Constructor for Named Action class.
 
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| action | int | Action for which this object is created. |
-
-### getName() {#getName--}
+### getName {#getName--}
 ```
 public String getName()
 ```
 
-
 Gets the action to be performed.
 
 **Returns:**
-java.lang.String - String value
-### setName(String value) {#setName-java.lang.String-}
-```
-public void setName(String value)
-```
+String value
 
-
+### setName {#setName-java.lang.String-}
 Sets the action to be performed.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String value |
-

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/cell/set_paragraphs/
 Sets the cell's formatted text.
 
 ```cpp
-void Aspose::Pdf::Cell::set_Paragraphs(System::SharedPtr<Aspose::Pdf::Paragraphs> value)
+void Aspose::Pdf::Cell::set_Paragraphs(const System::SharedPtr<Aspose::Pdf::Paragraphs> &value)
 ```
 
 ## See Also

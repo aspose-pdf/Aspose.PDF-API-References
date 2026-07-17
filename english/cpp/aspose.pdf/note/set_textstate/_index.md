@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/note/set_textstate/
 Sets a note text state.
 
 ```cpp
-void Aspose::Pdf::Note::set_TextState(System::SharedPtr<Aspose::Pdf::Text::TextState> value)
+void Aspose::Pdf::Note::set_TextState(const System::SharedPtr<Aspose::Pdf::Text::TextState> &value)
 ```
 
 ## See Also

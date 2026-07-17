@@ -21,19 +21,19 @@ void Aspose::Pdf::Document::Flatten()
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Document::Flatten(System::SharedPtr\<Forms::Form::FlattenSettings\>) method
+## Document::Flatten(const System::SharedPtr\<Forms::Form::FlattenSettings\>\&) method
 
 
 Removes all fields (and annotations) from the document and place their values instead.
 
 ```cpp
-void Aspose::Pdf::Document::Flatten(System::SharedPtr<Forms::Form::FlattenSettings> flattenSettings)
+void Aspose::Pdf::Document::Flatten(const System::SharedPtr<Forms::Form::FlattenSettings> &flattenSettings)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| flattenSettings | System::SharedPtr\<Forms::Form::FlattenSettings\> | Settings for flattening process. |
+| flattenSettings | const System::SharedPtr\<Forms::Form::FlattenSettings\>\& | Settings for flattening process. |
 
 ## See Also
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/headerfootersettings/horizontalalignment/set_center/
 Sets the center alignment settings.
 
 ```cpp
-void Aspose::Pdf::HeaderFooterSettings::HorizontalAlignment::set_Center(System::SharedPtr<Aspose::Pdf::Center> value)
+void Aspose::Pdf::HeaderFooterSettings::HorizontalAlignment::set_Center(const System::SharedPtr<Aspose::Pdf::Center> &value)
 ```
 
 ## See Also

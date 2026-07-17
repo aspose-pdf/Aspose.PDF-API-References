@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotationactioncollection/set_onclosepage/
 Sets an action to be performed when the page containing the annotation is closed.
 
 ```cpp
-void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnClosePage(System::SharedPtr<PdfAction> value)
+void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnClosePage(const System::SharedPtr<PdfAction> &value)
 ```
 
 ## See Also

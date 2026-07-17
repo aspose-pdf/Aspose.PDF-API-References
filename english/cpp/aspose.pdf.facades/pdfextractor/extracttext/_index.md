@@ -21,19 +21,19 @@ void Aspose::Pdf::Facades::PdfExtractor::ExtractText()
 * Class [PdfExtractor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfExtractor::ExtractText(System::SharedPtr\<System::Text::Encoding\>) method
+## PdfExtractor::ExtractText(const System::SharedPtr\<System::Text::Encoding\>\&) method
 
 
 Extracts text from a [Pdf](../../../aspose.pdf/) document using specified encoding.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfExtractor::ExtractText(System::SharedPtr<System::Text::Encoding> encoding)
+void Aspose::Pdf::Facades::PdfExtractor::ExtractText(const System::SharedPtr<System::Text::Encoding> &encoding)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| encoding | System::SharedPtr\<System::Text::Encoding\> | The encoding of the extracted text. |
+| encoding | const System::SharedPtr\<System::Text::Encoding\>\& | The encoding of the extracted text. |
 
 ## See Also
 

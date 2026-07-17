@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.annotations/pageinformationannotation/pageinformationannota
 Initializes a new instance of the [PageInformationAnnotation](../) class on the given page in the given location.
 
 ```cpp
-Aspose::Pdf::Annotations::PageInformationAnnotation::PageInformationAnnotation(System::SharedPtr<Aspose::Pdf::Page> page, System::SharedPtr<Rectangle> rect)
+Aspose::Pdf::Annotations::PageInformationAnnotation::PageInformationAnnotation(const System::SharedPtr<Aspose::Pdf::Page> &page, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | The page with which the annotation will be associated. |
-| rect | System::SharedPtr\<Rectangle\> | The annotation rectangle, defining the location of the annotation on the page. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | The page with which the annotation will be associated. |
+| rect | const System::SharedPtr\<Rectangle\>\& | The annotation rectangle, defining the location of the annotation on the page. |
 
 ## See Also
 

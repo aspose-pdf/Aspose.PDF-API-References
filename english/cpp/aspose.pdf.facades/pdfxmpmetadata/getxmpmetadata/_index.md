@@ -27,19 +27,19 @@ The bytes of the XmpMetadata.
 * Class [PdfXmpMetadata](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfXmpMetadata::GetXmpMetadata(System::String) method
+## PdfXmpMetadata::GetXmpMetadata(const System::String\&) method
 
 
 Get a part of the XmpMetadata of the input pdf according to a meta name.
 
 ```cpp
-System::ArrayPtr<uint8_t> Aspose::Pdf::Facades::PdfXmpMetadata::GetXmpMetadata(System::String name)
+System::ArrayPtr<uint8_t> Aspose::Pdf::Facades::PdfXmpMetadata::GetXmpMetadata(const System::String &name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | [Metadata](../../../aspose.pdf/metadata/) name. |
+| name | const System::String\& | [Metadata](../../../aspose.pdf/metadata/) name. |
 
 ### ReturnValue
 

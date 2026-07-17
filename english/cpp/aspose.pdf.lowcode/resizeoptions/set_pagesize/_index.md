@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/resizeoptions/set_pagesize/
 Sets new page size.
 
 ```cpp
-void Aspose::Pdf::LowCode::ResizeOptions::set_PageSize(System::SharedPtr<Aspose::Pdf::PageSize> value)
+void Aspose::Pdf::LowCode::ResizeOptions::set_PageSize(const System::SharedPtr<Aspose::Pdf::PageSize> &value)
 ```
 
 ## See Also

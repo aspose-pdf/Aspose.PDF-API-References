@@ -21,7 +21,7 @@ class MarginInfo : public System::Object
 | Method | Description |
 | --- | --- |
 | [MarginInfo](./margininfo/)() | Creates instance of [MarginInfo](./). |
-| [MarginInfo](./margininfo/)(System::SharedPtr\<SaveOptions::MarginPartStyle\>) | Creates instance of [MarginInfo](./) class and initializes all elements of page margin(Top, Left, Right, Bottom) with attributes copied from supplied margin style. |
+| [MarginInfo](./margininfo/)(const System::SharedPtr\<SaveOptions::MarginPartStyle\>\&) | Creates instance of [MarginInfo](./) class and initializes all elements of page margin(Top, Left, Right, Bottom) with attributes copied from supplied margin style. |
 ## See Also
 
 * Class [Object](../../../system/object/)

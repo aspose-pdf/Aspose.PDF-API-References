@@ -20,8 +20,8 @@ class CollectionFieldSubtypeConverter : public System::Object
 
 | Method | Description |
 | --- | --- |
-| static [Convert](./convert/)(System::SharedPtr\<Engine::Data::IPdfName\>) | Converts a PdfName value to its corresponding [CollectionFieldSubtype](../collectionfieldsubtype/) enumeration value. |
-| static [Convert](./convert/)(System::String) | Converts a string value to its corresponding [CollectionFieldSubtype](../collectionfieldsubtype/) enumeration value. |
+| static [Convert](./convert/)(const System::SharedPtr\<Engine::Data::IPdfName\>\&) | Converts a PdfName value to its corresponding [CollectionFieldSubtype](../collectionfieldsubtype/) enumeration value. |
+| static [Convert](./convert/)(const System::String\&) | Converts a string value to its corresponding [CollectionFieldSubtype](../collectionfieldsubtype/) enumeration value. |
 | static [Convert](./convert/)(CollectionFieldSubtype) | Converts a [CollectionFieldSubtype](../collectionfieldsubtype/) value to its string representation. |
 | static [ConvertToFieldType](./converttofieldtype/)(CollectionFieldSubtype) | Converts a [CollectionFieldSubtype](../collectionfieldsubtype/) enumeration value to its corresponding [FieldValueType](../fieldvaluetype/) enumeration value. |
 ## See Also

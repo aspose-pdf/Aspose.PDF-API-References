@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/captionpositionconverter/toenum/
 
 
 ```cpp
-static CaptionPosition Aspose::Pdf::Annotations::CaptionPositionConverter::ToEnum(System::String value)
+static CaptionPosition Aspose::Pdf::Annotations::CaptionPositionConverter::ToEnum(const System::String &value)
 ```
 
 ## See Also

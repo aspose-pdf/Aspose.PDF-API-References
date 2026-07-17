@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/image/set_bitmapinfo/
 Sets uncompressed image bytes.
 
 ```cpp
-void Aspose::Pdf::Image::set_BitmapInfo(System::SharedPtr<Aspose::Pdf::BitmapInfo> value)
+void Aspose::Pdf::Image::set_BitmapInfo(const System::SharedPtr<Aspose::Pdf::BitmapInfo> &value)
 ```
 
 ## See Also

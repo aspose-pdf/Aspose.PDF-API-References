@@ -21,7 +21,7 @@ class ElementListImplementation : public Aspose::Pdf::LogicalStructure::ElementL
 | Method | Description |
 | --- | --- |
 | [AddElement](./addelement/)(System::SharedPtr\<Element\>, bool) override | Add element to list. |
-| [ElementListImplementation](./elementlistimplementation/)(System::SharedPtr\<Element\>) |  |
+| [ElementListImplementation](./elementlistimplementation/)(const System::SharedPtr\<Element\>\&) |  |
 | [get_Count](./get_count/)() override | Gets the number of elements in the [ElementList](../elementlist/). |
 | [GetEnumerator](./getenumerator/)() override | Gets an enumerator that iterates through the collection of elements. |
 | [InsertElement](./insertelement/)(System::SharedPtr\<Element\>, int32_t, bool) override | Insert element to list. |

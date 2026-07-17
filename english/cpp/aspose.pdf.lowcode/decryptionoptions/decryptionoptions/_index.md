@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.lowcode/decryptionoptions/decryptionoptions/
 Initializes new instance of the [DecryptionOptions](../) object with default options.
 
 ```cpp
-Aspose::Pdf::LowCode::DecryptionOptions::DecryptionOptions(System::String ownerPassword)
+Aspose::Pdf::LowCode::DecryptionOptions::DecryptionOptions(const System::String &ownerPassword)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ownerPassword | System::String | Owner password. |
+| ownerPassword | const System::String\& | Owner password. |
 
 ## See Also
 

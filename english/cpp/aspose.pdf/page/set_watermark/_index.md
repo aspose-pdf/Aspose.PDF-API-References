@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/set_watermark/
 Sets the watermark of the page.
 
 ```cpp
-void Aspose::Pdf::Page::set_Watermark(System::SharedPtr<Aspose::Pdf::Watermark> value)
+void Aspose::Pdf::Page::set_Watermark(const System::SharedPtr<Aspose::Pdf::Watermark> &value)
 ```
 
 ## See Also

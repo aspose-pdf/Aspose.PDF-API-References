@@ -1,5 +1,6 @@
 ---
 title: CustomFontSubstitutionBase
+linktitle: CustomFontSubstitutionBase
 second_title: Aspose.PDF for Java API Reference
 description: Represents a base class for custom font substitution strategy.
 type: docs
@@ -7,45 +8,32 @@ weight: 10
 url: /java/com.aspose.pdf.text/customfontsubstitutionbase/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.text.FontSubstitution](../../com.aspose.pdf.text/fontsubstitution)
+java.lang.Object, com.aspose.pdf.text.FontSubstitution com.aspose.pdf.text.CustomFontSubstitutionBase, com.aspose.pdf.text.FontSubstitution, com.aspose.pdf.text.CustomFontSubstitutionBase
+
 ```
 public class CustomFontSubstitutionBase extends FontSubstitution
 ```
 
 Represents a base class for custom font substitution strategy.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [CustomFontSubstitutionBase()](#CustomFontSubstitutionBase--) |  |
+| [CustomFontSubstitutionBase](#CustomFontSubstitutionBase--) |  |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [trySubstitute(CustomFontSubstitutionBase.OriginalFontSpecification originalFontSpecification, Font[] substitutionFont)](#trySubstitute-com.aspose.pdf.text.CustomFontSubstitutionBase.OriginalFontSpecification-com.aspose.pdf.Font---) | Substitutes original font with another font. |
-### CustomFontSubstitutionBase() {#CustomFontSubstitutionBase--}
+| [trySubstitute](#trySubstitute-com.aspose.pdf.text.CustomFontSubstitutionBase.OriginalFontSpecification-com.aspose.pdf.Font:A-) | Substitutes original font with another font. |
+
+### CustomFontSubstitutionBase {#CustomFontSubstitutionBase--}
 ```
 public CustomFontSubstitutionBase()
 ```
 
 
-### trySubstitute(CustomFontSubstitutionBase.OriginalFontSpecification originalFontSpecification, Font[] substitutionFont) {#trySubstitute-com.aspose.pdf.text.CustomFontSubstitutionBase.OriginalFontSpecification-com.aspose.pdf.Font---}
-```
-public boolean trySubstitute(CustomFontSubstitutionBase.OriginalFontSpecification originalFontSpecification, Font[] substitutionFont)
-```
 
-
+### trySubstitute {#trySubstitute-com.aspose.pdf.text.CustomFontSubstitutionBase.OriginalFontSpecification-com.aspose.pdf.Font:A-}
 Substitutes original font with another font.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| originalFontSpecification | [OriginalFontSpecification](../../com.aspose.pdf.text/originalfontspecification) | Original font specification. |
-| substitutionFont | [Font\[\]](../../com.aspose.pdf/font) | Substitution font.
-
---------------------
-
-The class CustomFontSubstitutionBase should be inherited to implement custom font substitution logic. TrySubstitute method should be overridden properly: Must return true in case substitution is required. substitutionFont must be set to valid Font object. Must return false in case no substitution is required. substitutionFont may be set to null. |
-
-**Returns:**
-boolean - True in case substitution was successful.

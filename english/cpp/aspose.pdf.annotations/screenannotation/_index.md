@@ -25,7 +25,7 @@ class ScreenAnnotation : public Aspose::Pdf::Annotations::Annotation,
 | [get_Action](./get_action/)() | Gets an action to be performed when the annotation is activated. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
 | [get_Title](./get_title/)() override | Gets the title of the screen annotation. |
-| [ScreenAnnotation](./screenannotation/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>, System::String) | Creates new Screen annotation on the specified page. |
+| [ScreenAnnotation](./screenannotation/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&, const System::String\&) | Creates new Screen annotation on the specified page. |
 | [set_Title](./set_title/)(System::String) override | Sets the title of the screen annotation. |
 ## See Also
 

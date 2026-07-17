@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/stamp/set_pages/
 Sets array with numbers of pages which will be affected by stamp. If Pages = null all pages of the document are affected.
 
 ```cpp
-void Aspose::Pdf::Facades::Stamp::set_Pages(System::ArrayPtr<int32_t> value)
+void Aspose::Pdf::Facades::Stamp::set_Pages(const System::ArrayPtr<int32_t> &value)
 ```
 
 ## See Also

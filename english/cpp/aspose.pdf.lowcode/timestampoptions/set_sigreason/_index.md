@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/timestampoptions/set_sigreason/
 Reason for the signature.
 
 ```cpp
-void Aspose::Pdf::LowCode::TimestampOptions::set_SigReason(System::String value)
+void Aspose::Pdf::LowCode::TimestampOptions::set_SigReason(const System::String &value)
 ```
 
 ## See Also

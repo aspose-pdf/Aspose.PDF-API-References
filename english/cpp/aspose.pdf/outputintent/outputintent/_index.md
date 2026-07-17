@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/outputintent/outputintent/
 Initializes a new instance of the [OutputIntent](../) class with the specified output condition identifier.
 
 ```cpp
-Aspose::Pdf::OutputIntent::OutputIntent(System::String outputConditionIdentifier)
+Aspose::Pdf::OutputIntent::OutputIntent(const System::String &outputConditionIdentifier)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputConditionIdentifier | System::String | The text that identifies the intended output device or production condition in human- or machine-readable form. |
+| outputConditionIdentifier | const System::String\& | The text that identifies the intended output device or production condition in human- or machine-readable form. |
 
 ## See Also
 

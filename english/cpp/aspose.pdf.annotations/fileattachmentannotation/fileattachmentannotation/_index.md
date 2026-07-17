@@ -13,15 +13,15 @@ url: /cpp/aspose.pdf.annotations/fileattachmentannotation/fileattachmentannotati
 Creates new FileAttachment annotation on the specified page.
 
 ```cpp
-Aspose::Pdf::Annotations::FileAttachmentAnnotation::FileAttachmentAnnotation(System::SharedPtr<Aspose::Pdf::Page> page, System::SharedPtr<Rectangle> rect, System::SharedPtr<FileSpecification> fileSpec)
+Aspose::Pdf::Annotations::FileAttachmentAnnotation::FileAttachmentAnnotation(const System::SharedPtr<Aspose::Pdf::Page> &page, const System::SharedPtr<Rectangle> &rect, const System::SharedPtr<FileSpecification> &fileSpec)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | [Document](../../../aspose.pdf/document/)'s page where annotation should be created. |
-| rect | System::SharedPtr\<Rectangle\> | Required rectangle that sets annotation's border. |
-| fileSpec | System::SharedPtr\<FileSpecification\> | Describes the file that shoud be bound with the annotation. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | [Document](../../../aspose.pdf/document/)'s page where annotation should be created. |
+| rect | const System::SharedPtr\<Rectangle\>\& | Required rectangle that sets annotation's border. |
+| fileSpec | const System::SharedPtr\<FileSpecification\>\& | Describes the file that shoud be bound with the annotation. |
 
 ## See Also
 

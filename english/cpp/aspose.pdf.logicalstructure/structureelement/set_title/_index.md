@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structureelement/set_title/
 Sets the title for structure element.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::StructureElement::set_Title(System::String value)
+void Aspose::Pdf::LogicalStructure::StructureElement::set_Title(const System::String &value)
 ```
 
 ## Remarks

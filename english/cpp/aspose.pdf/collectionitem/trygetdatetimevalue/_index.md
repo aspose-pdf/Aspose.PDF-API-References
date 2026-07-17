@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/collectionitem/trygetdatetimevalue/
 Tries to get the value of type DateTime from the collection item by the specified name.
 
 ```cpp
-bool Aspose::Pdf::CollectionItem::TryGetDateTimeValue(System::String name, System::SharedPtr<CollectionItem::Value<System::DateTime>> &value)
+bool Aspose::Pdf::CollectionItem::TryGetDateTimeValue(const System::String &name, System::SharedPtr<CollectionItem::Value<System::DateTime>> &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | The name of the value to retrieve. |
+| name | const System::String\& | The name of the value to retrieve. |
 | value | System::SharedPtr\<CollectionItem::Value\<System::DateTime\>\>\& | When this method returns, contains the value associated with the specified name, if the name is found; otherwise, null. This parameter is passed uninitialized. |
 
 ### ReturnValue

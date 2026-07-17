@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/lineannotation/set_captionoffset/
 Sets caption text offset from its normal position.
 
 ```cpp
-void Aspose::Pdf::Annotations::LineAnnotation::set_CaptionOffset(System::SharedPtr<Point> value)
+void Aspose::Pdf::Annotations::LineAnnotation::set_CaptionOffset(const System::SharedPtr<Point> &value)
 ```
 
 ## See Also

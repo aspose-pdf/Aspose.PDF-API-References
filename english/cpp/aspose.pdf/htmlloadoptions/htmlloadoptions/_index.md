@@ -21,19 +21,19 @@ Aspose::Pdf::HtmlLoadOptions::HtmlLoadOptions()
 * Class [HtmlLoadOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## HtmlLoadOptions::HtmlLoadOptions(System::String) constructor
+## HtmlLoadOptions::HtmlLoadOptions(const System::String\&) constructor
 
 
 Creates load options for converting html into pdf document with defined base path.
 
 ```cpp
-Aspose::Pdf::HtmlLoadOptions::HtmlLoadOptions(System::String basePath)
+Aspose::Pdf::HtmlLoadOptions::HtmlLoadOptions(const System::String &basePath)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| basePath | System::String | The base path/url for the html file. |
+| basePath | const System::String\& | The base path/url for the html file. |
 
 ## See Also
 

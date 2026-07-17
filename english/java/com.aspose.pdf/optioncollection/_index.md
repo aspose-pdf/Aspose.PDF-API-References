@@ -1,227 +1,155 @@
 ---
 title: OptionCollection
+linktitle: OptionCollection
 second_title: Aspose.PDF for Java API Reference
 description: Class representing collection of options of the choice field.
 type: docs
-weight: 237
+weight: 3250
 url: /java/com.aspose.pdf/optioncollection/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.OptionCollection
 
 **All Implemented Interfaces:**
-java.lang.Iterable
+Iterable < Option >
+
 ```
-public final class OptionCollection implements Iterable<Option>
+public final class OptionCollection extends Object implements Iterable < Option >
 ```
 
 Class representing collection of options of the choice field.
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [isSynchronized()](#isSynchronized--) | Returns true of object is synchronized. |
-| [isReadOnly()](#isReadOnly--) | Gets a value indicating if collection is readonly. |
-| [getSyncRoot()](#getSyncRoot--) | Synchronization object of the collection. |
-| [size()](#size--) | Gets number of options. |
-| [iterator_Rename_Namesake()](#iterator-Rename-Namesake--) | Returns enumerator for options in collection. |
-| [iterator()](#iterator--) | Returns enumerator for options in collection. |
-| [get(int index)](#get-int-) | Gets option by index. |
-| [get(String name)](#get-java.lang.String-) | Gets option from colleciton by option name. |
-| [get_Item(int index)](#get-Item-int-) | Gets option by index. |
-| [get_Item(String name)](#get-Item-java.lang.String-) | Gets option by its name. |
-| [deleteOption(String name)](#deleteOption-java.lang.String-) | Deletes option by its name. |
-| [add(Option item)](#add-com.aspose.pdf.Option-) | Adds item in collection, throws . |
-| [clear()](#clear--) | Removes all items from collection. |
-| [contains(Option item)](#contains-com.aspose.pdf.Option-) | Checks if item exists in collection, throws . |
-| [remove(Option item)](#remove-com.aspose.pdf.Option-) | Removes item from collection, throws . |
-### isSynchronized() {#isSynchronized--}
-```
-public boolean isSynchronized()
-```
+| [add](#add-com.aspose.pdf.Option-) | Adds item in collection, throws . Not implemented yet. |
+| [clear](#clear--) | Removes all items from collection. |
+| [contains](#contains-com.aspose.pdf.Option-) | Checks if item exists in collection, throws . Not implemented yet. |
+| [deleteOption](#deleteOption-java.lang.String-) | Deletes option by its name. |
+| [get_Item](#get_Item-int-) | Gets option by index. |
+| [get_Item](#get_Item-java.lang.String-) | Gets option by its name. |
+| [get](#get-int-) | Gets option by index. |
+| [get](#get-java.lang.String-) | Gets option from collection by option name. |
+| [getSyncRoot](#getSyncRoot--) | Synchronization object of the collection. |
+| [isReadOnly](#isReadOnly--) | Gets a value indicating if collection is readonly. |
+| [isSynchronized](#isSynchronized--) | Returns true of object is synchronized. |
+| [iterator_Rename_Namesake](#iterator_Rename_Namesake--) | Returns enumerator for options in collection. |
+| [iterator](#iterator--) | Returns enumerator for options in collection. |
+| [remove](#remove-com.aspose.pdf.Option-) | Removes item from collection, throws . Not implemented yet. |
+| [size](#size--) | Gets number of options. |
 
+### add {#add-com.aspose.pdf.Option-}
+Adds item in collection, throws . Not implemented yet.
 
-Returns true of object is synchronized.
-
-**Returns:**
-boolean - boolean value
-### isReadOnly() {#isReadOnly--}
-```
-public boolean isReadOnly()
-```
-
-
-Gets a value indicating if collection is readonly.
-
-**Returns:**
-boolean - boolean value
-### getSyncRoot() {#getSyncRoot--}
-```
-public Object getSyncRoot()
-```
-
-
-Synchronization object of the collection.
-
-**Returns:**
-java.lang.Object - Object element
-### size() {#size--}
-```
-public int size()
-```
-
-
-Gets number of options.
-
-**Returns:**
-int - int value
-### iterator_Rename_Namesake() {#iterator-Rename-Namesake--}
-```
-public System.Collections.IEnumerator iterator_Rename_Namesake()
-```
-
-
-Returns enumerator for options in collection.
-
-**Returns:**
-com.aspose.ms.System.Collections.IEnumerator - Options enumerator.
-### iterator() {#iterator--}
-```
-public System.Collections.IEnumerator<Option> iterator()
-```
-
-
-Returns enumerator for options in collection.
-
-**Returns:**
-com.aspose.ms.System.Collections.IEnumerator<com.aspose.pdf.Option> - Options enumerator.
-### get(int index) {#get-int-}
-```
-public Option get(int index)
-```
-
-
-Gets option by index.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Option index. Index should be in range [1..n] where n is options count. |
-
-**Returns:**
-[Option](../../com.aspose.pdf/option) - Retreived option.
-### get(String name) {#get-java.lang.String-}
-```
-public Option get(String name)
-```
-
-
-Gets option from colleciton by option name.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | java.lang.String | Option name. |
-
-**Returns:**
-[Option](../../com.aspose.pdf/option) - Retreived option.
-### get_Item(int index) {#get-Item-int-}
-```
-public Option get_Item(int index)
-```
-
-
-Gets option by index.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| index | int | Index of the option. |
-
-**Returns:**
-[Option](../../com.aspose.pdf/option) - Option on the specified index.
-### get_Item(String name) {#get-Item-java.lang.String-}
-```
-public Option get_Item(String name)
-```
-
-
-Gets option by its name.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | java.lang.String | Name of the option. |
-
-**Returns:**
-[Option](../../com.aspose.pdf/option) - Found option.
-### deleteOption(String name) {#deleteOption-java.lang.String-}
-```
-public void deleteOption(String name)
-```
-
-
-Deletes option by its name.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | java.lang.String | Name of the option to delete. |
-
-### add(Option item) {#add-com.aspose.pdf.Option-}
-```
-public void add(Option item)
-```
-
-
-Adds item in collection, throws .
-
-Not implemented yet.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| item | [Option](../../com.aspose.pdf/option) | Option instance |
-
-### clear() {#clear--}
+### clear {#clear--}
 ```
 public void clear()
 ```
 
-
 Removes all items from collection.
 
-### contains(Option item) {#contains-com.aspose.pdf.Option-}
+### contains {#contains-com.aspose.pdf.Option-}
+Checks if item exists in collection, throws . Not implemented yet.
+
+### deleteOption {#deleteOption-java.lang.String-}
+Deletes option by its name.
+
+### get_Item {#get_Item-int-}
 ```
-public boolean contains(Option item)
+public Option get_Item(int index)
 ```
 
-
-Checks if item exists in collection, throws .
-
-Not implemented yet.
+Gets option by index.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | [Option](../../com.aspose.pdf/option) | Option instance |
+| index |  | Index of the option. |
 
 **Returns:**
-boolean - boolean value
-### remove(Option item) {#remove-com.aspose.pdf.Option-}
+Option on the specified index.
+
+### get_Item {#get_Item-java.lang.String-}
+Gets option by its name.
+
+### get {#get-int-}
 ```
-public boolean remove(Option item)
+public Option get(int index)
 ```
 
-
-Removes item from collection, throws .
-
-Not implemented yet.
+Gets option by index.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| item | [Option](../../com.aspose.pdf/option) | Option instance |
+| index |  | Option index. Index should be in range [1..n] where n is options count. |
 
 **Returns:**
-boolean - boolean value
+Retrieved option.
+
+### get {#get-java.lang.String-}
+Gets option from collection by option name.
+
+### getSyncRoot {#getSyncRoot--}
+```
+public Object getSyncRoot()
+```
+
+Synchronization object of the collection.
+
+**Returns:**
+Object element
+
+### isReadOnly {#isReadOnly--}
+```
+public boolean isReadOnly()
+```
+
+Gets a value indicating if collection is readonly.
+
+**Returns:**
+boolean value
+
+### isSynchronized {#isSynchronized--}
+```
+public boolean isSynchronized()
+```
+
+Returns true of object is synchronized.
+
+**Returns:**
+boolean value
+
+### iterator_Rename_Namesake {#iterator_Rename_Namesake--}
+```
+public com.aspose.ms.System.Collections.IEnumerator iterator_Rename_Namesake()
+```
+
+Returns enumerator for options in collection.
+
+**Returns:**
+Options enumerator.
+
+### iterator {#iterator--}
+```
+public com.aspose.ms.System.Collections.IEnumerator< Option > iterator()
+```
+
+Returns enumerator for options in collection.
+
+**Returns:**
+Options enumerator.
+
+### remove {#remove-com.aspose.pdf.Option-}
+Removes item from collection, throws . Not implemented yet.
+
+### size {#size--}
+```
+public int size()
+```
+
+Gets number of options.
+
+**Returns:**
+int value

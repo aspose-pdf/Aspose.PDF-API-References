@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/formeditor/single2multiple/
 Change a single-lined text field to a multiple-lined one.
 
 ```cpp
-bool Aspose::Pdf::Facades::FormEditor::Single2Multiple(System::String fieldName)
+bool Aspose::Pdf::Facades::FormEditor::Single2Multiple(const System::String &fieldName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | The qualified field name. |
+| fieldName | const System::String\& | The qualified field name. |
 
 ### ReturnValue
 

@@ -21,6 +21,167 @@ Aspose::Pdf::Forms::PKCS7Detached::PKCS7Detached()
 * Class [PKCS7Detached](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
+## PKCS7Detached::PKCS7Detached(const System::SharedPtr\<Aspose::Pdf::TimestampSettings\>\&) constructor
+
+
+Inititalizes new instance of the [PKCS7Detached](../) class.
+
+```cpp
+Aspose::Pdf::Forms::PKCS7Detached::PKCS7Detached(const System::SharedPtr<Aspose::Pdf::TimestampSettings> &timestampSettings)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| timestampSettings | const System::SharedPtr\<Aspose::Pdf::TimestampSettings\>\& | The timestamp settings for the signature. |
+## Remarks
+
+
+
+The timestamp settings are used to create the timestamp signature without the need to provide a certificate. You can set the timestamp for a document as a separate signature. 
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [TimestampSettings](../../../aspose.pdf/timestampsettings/)
+* Class [PKCS7Detached](../)
+* Namespace [Aspose::Pdf::Forms](../../)
+* Library [Aspose.PDF for C++](../../../)
+## PKCS7Detached::PKCS7Detached(const System::SharedPtr\<System::IO::Stream\>\&) constructor
+
+
+Initializes new instance of the [PKCS7Detached](../) class.
+
+```cpp
+Aspose::Pdf::Forms::PKCS7Detached::PKCS7Detached(const System::SharedPtr<System::IO::Stream> &image)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| image | const System::SharedPtr\<System::IO::Stream\>\& | This image will define signature appearance on the page. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [PKCS7Detached](../)
+* Namespace [Aspose::Pdf::Forms](../../)
+* Library [Aspose.PDF for C++](../../../)
+## PKCS7Detached::PKCS7Detached(const System::SharedPtr\<System::IO::Stream\>\&, DigestHashAlgorithm) constructor
+
+
+Initializes new instance of the [PKCS7Detached](../) class.
+
+```cpp
+Aspose::Pdf::Forms::PKCS7Detached::PKCS7Detached(const System::SharedPtr<System::IO::Stream> &image, DigestHashAlgorithm digestHashAlgorithm)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| image | const System::SharedPtr\<System::IO::Stream\>\& | This image will define signature appearance on the page. |
+| digestHashAlgorithm | DigestHashAlgorithm | The digest algorithm to sign a document. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
+* Class [PKCS7Detached](../)
+* Namespace [Aspose::Pdf::Forms](../../)
+* Library [Aspose.PDF for C++](../../../)
+## PKCS7Detached::PKCS7Detached(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&) constructor
+
+
+Inititalizes new instance of the [PKCS7Detached](../) class.
+
+```cpp
+Aspose::Pdf::Forms::PKCS7Detached::PKCS7Detached(const System::SharedPtr<System::IO::Stream> &pfx, const System::String &password)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pfx | const System::SharedPtr\<System::IO::Stream\>\& | Stream with certificate data organized as pfx. |
+| password | const System::String\& | Password to get access to the private key in the certificate. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
+* Class [PKCS7Detached](../)
+* Namespace [Aspose::Pdf::Forms](../../)
+* Library [Aspose.PDF for C++](../../../)
+## PKCS7Detached::PKCS7Detached(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&, DigestHashAlgorithm) constructor
+
+
+Inititalizes new instance of the [PKCS7Detached](../) class.
+
+```cpp
+Aspose::Pdf::Forms::PKCS7Detached::PKCS7Detached(const System::SharedPtr<System::IO::Stream> &pfx, const System::String &password, DigestHashAlgorithm digestHashAlgorithm)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pfx | const System::SharedPtr\<System::IO::Stream\>\& | Stream with certificate data organized as pfx. |
+| password | const System::String\& | Password to get access to the private key in the certificate. |
+| digestHashAlgorithm | DigestHashAlgorithm | The digest algorithm to sign a document. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [String](../../../system/string/)
+* Enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
+* Class [PKCS7Detached](../)
+* Namespace [Aspose::Pdf::Forms](../../)
+* Library [Aspose.PDF for C++](../../../)
+## PKCS7Detached::PKCS7Detached(const System::String\&, const System::String\&) constructor
+
+
+Inititalizes new instance of the [PKCS7Detached](../) class.
+
+```cpp
+Aspose::Pdf::Forms::PKCS7Detached::PKCS7Detached(const System::String &pfx, const System::String &password)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pfx | const System::String\& | Pfx file which contains certificate for signing. |
+| password | const System::String\& | Password to get access to the private key in the certificate. |
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [PKCS7Detached](../)
+* Namespace [Aspose::Pdf::Forms](../../)
+* Library [Aspose.PDF for C++](../../../)
+## PKCS7Detached::PKCS7Detached(const System::String\&, const System::String\&, DigestHashAlgorithm) constructor
+
+
+Inititalizes new instance of the [PKCS7Detached](../) class.
+
+```cpp
+Aspose::Pdf::Forms::PKCS7Detached::PKCS7Detached(const System::String &pfx, const System::String &password, DigestHashAlgorithm digestHashAlgorithm)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pfx | const System::String\& | Pfx file which contains certificate for signing. |
+| password | const System::String\& | Password to get access to the private key in the certificate. |
+| digestHashAlgorithm | DigestHashAlgorithm | The digest algorithm to sign a document. |
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
+* Class [PKCS7Detached](../)
+* Namespace [Aspose::Pdf::Forms](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## PKCS7Detached::PKCS7Detached(DigestHashAlgorithm) constructor
 
 
@@ -37,167 +198,6 @@ Aspose::Pdf::Forms::PKCS7Detached::PKCS7Detached(DigestHashAlgorithm digestHashA
 
 ## See Also
 
-* Enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
-* Class [PKCS7Detached](../)
-* Namespace [Aspose::Pdf::Forms](../../)
-* Library [Aspose.PDF for C++](../../../)
-## PKCS7Detached::PKCS7Detached(System::SharedPtr\<Aspose::Pdf::TimestampSettings\>) constructor
-
-
-Inititalizes new instance of the [PKCS7Detached](../) class.
-
-```cpp
-Aspose::Pdf::Forms::PKCS7Detached::PKCS7Detached(System::SharedPtr<Aspose::Pdf::TimestampSettings> timestampSettings)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| timestampSettings | System::SharedPtr\<Aspose::Pdf::TimestampSettings\> | The timestamp settings for the signature. |
-## Remarks
-
-
-
-The timestamp settings are used to create the timestamp signature without the need to provide a certificate. You can set the timestamp for a document as a separate signature. 
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [TimestampSettings](../../../aspose.pdf/timestampsettings/)
-* Class [PKCS7Detached](../)
-* Namespace [Aspose::Pdf::Forms](../../)
-* Library [Aspose.PDF for C++](../../../)
-## PKCS7Detached::PKCS7Detached(System::SharedPtr\<System::IO::Stream\>) constructor
-
-
-Initializes new instance of the [PKCS7Detached](../) class.
-
-```cpp
-Aspose::Pdf::Forms::PKCS7Detached::PKCS7Detached(System::SharedPtr<System::IO::Stream> image)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| image | System::SharedPtr\<System::IO::Stream\> | This image will define signature appearance on the page. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Stream](../../../system.io/stream/)
-* Class [PKCS7Detached](../)
-* Namespace [Aspose::Pdf::Forms](../../)
-* Library [Aspose.PDF for C++](../../../)
-## PKCS7Detached::PKCS7Detached(System::SharedPtr\<System::IO::Stream\>, DigestHashAlgorithm) constructor
-
-
-Initializes new instance of the [PKCS7Detached](../) class.
-
-```cpp
-Aspose::Pdf::Forms::PKCS7Detached::PKCS7Detached(System::SharedPtr<System::IO::Stream> image, DigestHashAlgorithm digestHashAlgorithm)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| image | System::SharedPtr\<System::IO::Stream\> | This image will define signature appearance on the page. |
-| digestHashAlgorithm | DigestHashAlgorithm | The digest algorithm to sign a document. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Stream](../../../system.io/stream/)
-* Enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
-* Class [PKCS7Detached](../)
-* Namespace [Aspose::Pdf::Forms](../../)
-* Library [Aspose.PDF for C++](../../../)
-## PKCS7Detached::PKCS7Detached(System::SharedPtr\<System::IO::Stream\>, System::String) constructor
-
-
-Inititalizes new instance of the [PKCS7Detached](../) class.
-
-```cpp
-Aspose::Pdf::Forms::PKCS7Detached::PKCS7Detached(System::SharedPtr<System::IO::Stream> pfx, System::String password)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pfx | System::SharedPtr\<System::IO::Stream\> | Stream with certificate data organized as pfx. |
-| password | System::String | Password to get access to the private key in the certificate. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Stream](../../../system.io/stream/)
-* Class [String](../../../system/string/)
-* Class [PKCS7Detached](../)
-* Namespace [Aspose::Pdf::Forms](../../)
-* Library [Aspose.PDF for C++](../../../)
-## PKCS7Detached::PKCS7Detached(System::SharedPtr\<System::IO::Stream\>, System::String, DigestHashAlgorithm) constructor
-
-
-Inititalizes new instance of the [PKCS7Detached](../) class.
-
-```cpp
-Aspose::Pdf::Forms::PKCS7Detached::PKCS7Detached(System::SharedPtr<System::IO::Stream> pfx, System::String password, DigestHashAlgorithm digestHashAlgorithm)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pfx | System::SharedPtr\<System::IO::Stream\> | Stream with certificate data organized as pfx. |
-| password | System::String | Password to get access to the private key in the certificate. |
-| digestHashAlgorithm | DigestHashAlgorithm | The digest algorithm to sign a document. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Stream](../../../system.io/stream/)
-* Class [String](../../../system/string/)
-* Enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
-* Class [PKCS7Detached](../)
-* Namespace [Aspose::Pdf::Forms](../../)
-* Library [Aspose.PDF for C++](../../../)
-## PKCS7Detached::PKCS7Detached(System::String, System::String) constructor
-
-
-Inititalizes new instance of the [PKCS7Detached](../) class.
-
-```cpp
-Aspose::Pdf::Forms::PKCS7Detached::PKCS7Detached(System::String pfx, System::String password)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pfx | System::String | Pfx file which contains certificate for signing. |
-| password | System::String | Password to get access to the private key in the certificate. |
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [PKCS7Detached](../)
-* Namespace [Aspose::Pdf::Forms](../../)
-* Library [Aspose.PDF for C++](../../../)
-## PKCS7Detached::PKCS7Detached(System::String, System::String, DigestHashAlgorithm) constructor
-
-
-Inititalizes new instance of the [PKCS7Detached](../) class.
-
-```cpp
-Aspose::Pdf::Forms::PKCS7Detached::PKCS7Detached(System::String pfx, System::String password, DigestHashAlgorithm digestHashAlgorithm)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pfx | System::String | Pfx file which contains certificate for signing. |
-| password | System::String | Password to get access to the private key in the certificate. |
-| digestHashAlgorithm | DigestHashAlgorithm | The digest algorithm to sign a document. |
-
-## See Also
-
-* Class [String](../../../system/string/)
 * Enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
 * Class [PKCS7Detached](../)
 * Namespace [Aspose::Pdf::Forms](../../)

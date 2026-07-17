@@ -21,9 +21,9 @@ class Curve : public Aspose::Pdf::Drawing::Shape
 | Method | Description |
 | --- | --- |
 | [CheckBounds](./checkbounds/)(double, double) override | Checks if the item fits within the given container dimensions (inclusive). |
-| [Curve](./curve/)(System::ArrayPtr\<float\>) | Initializes a new instance of the [Curve](./) class. |
+| [Curve](./curve/)(const System::ArrayPtr\<float\>\&) | Initializes a new instance of the [Curve](./) class. |
 | [get_PositionArray](./get_positionarray/)() const | Gets a float position array. |
-| [set_PositionArray](./set_positionarray/)(System::ArrayPtr\<float\>) | Sets a float position array. |
+| [set_PositionArray](./set_positionarray/)(const System::ArrayPtr\<float\>\&) | Sets a float position array. |
 ## See Also
 
 * Class [Shape](../shape/)

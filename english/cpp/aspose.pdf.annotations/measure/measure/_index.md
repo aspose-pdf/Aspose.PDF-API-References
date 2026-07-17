@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/measure/measure/
 Creates [Measure](../) object for measure annotations.
 
 ```cpp
-Aspose::Pdf::Annotations::Measure::Measure(System::SharedPtr<Annotation> annotation)
+Aspose::Pdf::Annotations::Measure::Measure(const System::SharedPtr<Annotation> &annotation)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| annotation | System::SharedPtr\<Annotation\> | [Annotation](../../annotation/) for which measure will be bound. |
+| annotation | const System::SharedPtr\<Annotation\>\& | [Annotation](../../annotation/) for which measure will be bound. |
 
 ## See Also
 

@@ -1,132 +1,101 @@
 ---
 title: TextDefaults
+linktitle: TextDefaults
 second_title: Aspose.PDF for Java API Reference
 description: Defines text subsystem defaults
 type: docs
-weight: 367
+weight: 4950
 url: /java/com.aspose.pdf/textdefaults/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.TextDefaults
+
 ```
-public class TextDefaults
+public class TextDefaults extends Object
 ```
 
 Defines text subsystem defaults
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [TextDefaults()](#TextDefaults--) |  |
+| [TextDefaults](#TextDefaults--) |  |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getDefaultFontStrategy()](#getDefaultFontStrategy--) | Default font Strategy type |
-| [setDefaultFontStrategy(int value)](#setDefaultFontStrategy-int-) | Default font Strategy type |
-| [getDefaultFont()](#getDefaultFont--) | Default font |
-| [getPredefinedFont()](#getPredefinedFont--) |  |
-| [setPredefinedFont(Font value)](#setPredefinedFont-com.aspose.pdf.Font-) |  |
-| [setDefaultFonts(List<Font> fonts)](#setDefaultFonts-java.util.List-com.aspose.pdf.Font--) |  |
-| [getDefaultFonts()](#getDefaultFonts--) |  |
-| [getDefaultFontForText(String text)](#getDefaultFontForText-java.lang.String-) | Default font |
-### TextDefaults() {#TextDefaults--}
+| [getDefaultFont](#getDefaultFont--) | Default font |
+| [getDefaultFontForText](#getDefaultFontForText-java.lang.String-) | Default font |
+| [getDefaultFonts](#getDefaultFonts--) |  |
+| [getDefaultFontStrategy](#getDefaultFontStrategy--) | Default font Strategy type |
+| [getPredefinedFont](#getPredefinedFont--) | The parameter specifies the font that has been pre-selected |
+| [setDefaultFonts](#setDefaultFonts-java.util.List-) | Add list of Default fonts to included in the system fonts list for Aspose.PDF library |
+| [setDefaultFontStrategy](#setDefaultFontStrategy-int-) | Default font Strategy type |
+| [setPredefinedFont](#setPredefinedFont-com.aspose.pdf.Font-) | The parameter specifies the font that has been pre-selected |
+
+### TextDefaults {#TextDefaults--}
 ```
 public TextDefaults()
 ```
 
 
-### getDefaultFontStrategy() {#getDefaultFontStrategy--}
-```
-public static int getDefaultFontStrategy()
-```
 
-
-Default font Strategy type
-
-**Returns:**
-int - DefaultFontStrategy element
-### setDefaultFontStrategy(int value) {#setDefaultFontStrategy-int-}
-```
-public static void setDefaultFontStrategy(int value)
-```
-
-
-Default font Strategy type
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | DefaultFontStrategy element |
-
-### getDefaultFont() {#getDefaultFont--}
+### getDefaultFont {#getDefaultFont--}
 ```
 public static Font getDefaultFont()
 ```
 
-
 Default font
 
 **Returns:**
-[Font](../../com.aspose.pdf/font) - Font instance
-### getPredefinedFont() {#getPredefinedFont--}
+Font instance
+
+### getDefaultFontForText {#getDefaultFontForText-java.lang.String-}
+Default font
+
+### getDefaultFonts {#getDefaultFonts--}
+```
+public static List < Font > getDefaultFonts()
+```
+
+
+
+### getDefaultFontStrategy {#getDefaultFontStrategy--}
+```
+public static int getDefaultFontStrategy()
+```
+
+Default font Strategy type
+
+**Returns:**
+DefaultFontStrategy element @see DefaultFontStrategy
+
+### getPredefinedFont {#getPredefinedFont--}
 ```
 public static Font getPredefinedFont()
 ```
 
-
-
+The parameter specifies the font that has been pre-selected
 
 **Returns:**
-[Font](../../com.aspose.pdf/font)
-### setPredefinedFont(Font value) {#setPredefinedFont-com.aspose.pdf.Font-}
+Font instance
+
+### setDefaultFonts {#setDefaultFonts-java.util.List-}
+Add list of Default fonts to included in the system fonts list for Aspose.PDF library
+
+### setDefaultFontStrategy {#setDefaultFontStrategy-int-}
 ```
-public static void setPredefinedFont(Font value)
+public static void setDefaultFontStrategy(int value)
 ```
 
-
-
+Default font Strategy type
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | [Font](../../com.aspose.pdf/font) |  |
+| value |  | DefaultFontStrategy element @see DefaultFontStrategy |
 
-### setDefaultFonts(List<Font> fonts) {#setDefaultFonts-java.util.List-com.aspose.pdf.Font--}
-```
-public static void setDefaultFonts(List<Font> fonts)
-```
-
-
-
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fonts | java.util.List<com.aspose.pdf.Font> |  |
-
-### getDefaultFonts() {#getDefaultFonts--}
-```
-public static List<Font> getDefaultFonts()
-```
-
-
-
-
-**Returns:**
-java.util.List<com.aspose.pdf.Font>
-### getDefaultFontForText(String text) {#getDefaultFontForText-java.lang.String-}
-```
-public static Font getDefaultFontForText(String text)
-```
-
-
-Default font
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| text | java.lang.String | String value |
-
-**Returns:**
-[Font](../../com.aspose.pdf/font) - Font instance
+### setPredefinedFont {#setPredefinedFont-com.aspose.pdf.Font-}
+The parameter specifies the font that has been pre-selected

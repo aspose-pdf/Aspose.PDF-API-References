@@ -29,9 +29,9 @@ class LineInfo : public System::Object
 | [LineInfo](./lineinfo/)() |  |
 | [set_BorderStyle](./set_borderstyle/)(int32_t) | Sets the border style of a line, 0 represents solid, 1 represents dashed, 2 represents beleved, 3 represents insert, 4 represents underline. |
 | [set_LineColor](./set_linecolor/)(System::Drawing::Color) | Sets the color of a line. |
-| [set_LineDashPattern](./set_linedashpattern/)(System::ArrayPtr\<int32_t\>) | Sets the dash pattern of a line. |
+| [set_LineDashPattern](./set_linedashpattern/)(const System::ArrayPtr\<int32_t\>\&) | Sets the dash pattern of a line. |
 | [set_LineWidth](./set_linewidth/)(int32_t) | Sets the width of a line. |
-| [set_VerticeCoordinate](./set_verticecoordinate/)(System::ArrayPtr\<float\>) | Sets an array of numbers representing the alternating horizontal and vertical,coordinates, respectively, of each vertex. |
+| [set_VerticeCoordinate](./set_verticecoordinate/)(const System::ArrayPtr\<float\>\&) | Sets an array of numbers representing the alternating horizontal and vertical,coordinates, respectively, of each vertex. |
 | [set_Visibility](./set_visibility/)(bool) | Sets the visibility of a line. |
 ## See Also
 

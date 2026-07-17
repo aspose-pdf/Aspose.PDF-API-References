@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.operators/mp/mp/
 Initializes operator.
 
 ```cpp
-Aspose::Pdf::Operators::MP::MP(System::String tag)
+Aspose::Pdf::Operators::MP::MP(const System::String &tag)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| tag | System::String | Marked content tag. |
+| tag | const System::String\& | Marked content tag. |
 
 ## See Also
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setcolorrenderingintent/set_intentname/
 Sets color rendering intent name.
 
 ```cpp
-void Aspose::Pdf::Operators::SetColorRenderingIntent::set_IntentName(System::String value)
+void Aspose::Pdf::Operators::SetColorRenderingIntent::set_IntentName(const System::String &value)
 ```
 
 ## See Also

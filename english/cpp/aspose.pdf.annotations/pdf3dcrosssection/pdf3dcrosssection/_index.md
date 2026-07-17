@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/pdf3dcrosssection/pdf3dcrosssection/
 Initializes a new instance of the [PDF3DCrossSection](../) class.
 
 ```cpp
-Aspose::Pdf::Annotations::PDF3DCrossSection::PDF3DCrossSection(System::SharedPtr<Document> doc)
+Aspose::Pdf::Annotations::PDF3DCrossSection::PDF3DCrossSection(const System::SharedPtr<Document> &doc)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | System::SharedPtr\<Document\> | The document. |
+| doc | const System::SharedPtr\<Document\>\& | The document. |
 
 ## See Also
 

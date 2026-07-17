@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/documentinfo/set_subject/
 Sets the subject of the document.
 
 ```cpp
-void Aspose::Pdf::DocumentInfo::set_Subject(System::String value)
+void Aspose::Pdf::DocumentInfo::set_Subject(const System::String &value)
 ```
 
 ## See Also

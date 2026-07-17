@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentabsorber/set_textfragments/
 Gets collection of search occurrences that are presented with [TextFragment](../../textfragment/) objects.
 
 ```cpp
-void Aspose::Pdf::Text::TextFragmentAbsorber::set_TextFragments(System::SharedPtr<TextFragmentCollection> value)
+void Aspose::Pdf::Text::TextFragmentAbsorber::set_TextFragments(const System::SharedPtr<TextFragmentCollection> &value)
 ```
 
 ## See Also

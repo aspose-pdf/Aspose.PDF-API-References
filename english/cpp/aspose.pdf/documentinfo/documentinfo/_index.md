@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/documentinfo/documentinfo/
 Initialize [DocumentInfo](../) instance.
 
 ```cpp
-Aspose::Pdf::DocumentInfo::DocumentInfo(System::SharedPtr<Document> document)
+Aspose::Pdf::DocumentInfo::DocumentInfo(const System::SharedPtr<Document> &document)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Document\> | The info of this document will be used for initialization. |
+| document | const System::SharedPtr\<Document\>\& | The info of this document will be used for initialization. |
 
 ## See Also
 

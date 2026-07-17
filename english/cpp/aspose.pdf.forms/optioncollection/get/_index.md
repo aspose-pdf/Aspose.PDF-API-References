@@ -2,11 +2,37 @@
 title: Aspose::Pdf::Forms::OptionCollection::get method
 linktitle: get
 second_title: Aspose.PDF for C++ API Reference
-description: 'Aspose::Pdf::Forms::OptionCollection::get method. Gets option by index in C++.'
+description: 'Aspose::Pdf::Forms::OptionCollection::get method. Gets option from colleciton by option name in C++.'
 type: docs
 weight: 500
 url: /cpp/aspose.pdf.forms/optioncollection/get/
 ---
+## OptionCollection::get(const System::String\&) method
+
+
+Gets option from colleciton by option name.
+
+```cpp
+System::SharedPtr<Option> Aspose::Pdf::Forms::OptionCollection::get(const System::String &name)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | const System::String\& | [Option](../../option/) name. |
+
+### ReturnValue
+
+Retreived option.
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Option](../../option/)
+* Class [String](../../../system/string/)
+* Class [OptionCollection](../)
+* Namespace [Aspose::Pdf::Forms](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## OptionCollection::get(int32_t) method
 
 
@@ -29,32 +55,6 @@ Retreived option.
 
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Option](../../option/)
-* Class [OptionCollection](../)
-* Namespace [Aspose::Pdf::Forms](../../)
-* Library [Aspose.PDF for C++](../../../)
-## OptionCollection::get(System::String) method
-
-
-Gets option from colleciton by option name.
-
-```cpp
-System::SharedPtr<Option> Aspose::Pdf::Forms::OptionCollection::get(System::String name)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | System::String | [Option](../../option/) name. |
-
-### ReturnValue
-
-Retreived option.
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Option](../../option/)
-* Class [String](../../../system/string/)
 * Class [OptionCollection](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.facades/pdfcontenteditor/createfreetext/
 Creates free text annotation in PDF document.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfContentEditor::CreateFreeText(System::Drawing::Rectangle rect, System::String contents, int32_t page)
+void Aspose::Pdf::Facades::PdfContentEditor::CreateFreeText(System::Drawing::Rectangle rect, const System::String &contents, int32_t page)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rect | System::Drawing::Rectangle | The annotation rectangle defining the location of the annotation on the page. |
-| contents | System::String | The contents of the annotation. |
+| contents | const System::String\& | The contents of the annotation. |
 | page | int32_t | The number of original page where the text annotation will be created. |
 
 ## See Also

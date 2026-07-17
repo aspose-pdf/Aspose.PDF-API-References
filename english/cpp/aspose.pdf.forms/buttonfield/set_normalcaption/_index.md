@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/buttonfield/set_normalcaption/
 Sets normal caption.
 
 ```cpp
-void Aspose::Pdf::Forms::ButtonField::set_NormalCaption(System::String value)
+void Aspose::Pdf::Forms::ButtonField::set_NormalCaption(const System::String &value)
 ```
 
 ## See Also

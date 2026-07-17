@@ -4,7 +4,7 @@ linktitle: ComparisonMode
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Comparison::ComparisonMode enum. The comparison mode enumeration in C++.'
 type: docs
-weight: 1800
+weight: 2100
 url: /cpp/aspose.pdf.comparison/comparisonmode/
 ---
 ## ComparisonMode enum

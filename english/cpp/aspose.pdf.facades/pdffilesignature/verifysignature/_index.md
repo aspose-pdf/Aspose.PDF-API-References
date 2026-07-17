@@ -4,22 +4,22 @@ linktitle: VerifySignature
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Facades::PdfFileSignature::VerifySignature method. Checks the validity of a signature in C++.'
 type: docs
-weight: 3800
+weight: 3900
 url: /cpp/aspose.pdf.facades/pdffilesignature/verifysignature/
 ---
-## PdfFileSignature::VerifySignature(System::SharedPtr\<SignatureName\>) method
+## PdfFileSignature::VerifySignature(const System::SharedPtr\<SignatureName\>\&) method
 
 
 Checks the validity of a signature.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileSignature::VerifySignature(System::SharedPtr<SignatureName> signName)
+bool Aspose::Pdf::Facades::PdfFileSignature::VerifySignature(const System::SharedPtr<SignatureName> &signName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | System::SharedPtr\<SignatureName\> | The name of signature. |
+| signName | const System::SharedPtr\<SignatureName\>\& | The name of signature. |
 
 ### ReturnValue
 
@@ -32,20 +32,20 @@ Return a result of bool type.
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileSignature::VerifySignature(System::SharedPtr\<SignatureName\>, System::SharedPtr\<Security::ValidationOptions\>, System::SharedPtr\<Security::ValidationResult\>\&) method
+## PdfFileSignature::VerifySignature(const System::SharedPtr\<SignatureName\>\&, const System::SharedPtr\<Security::ValidationOptions\>\&, System::SharedPtr\<Security::ValidationResult\>\&) method
 
 
 Checks the validity of a signature.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileSignature::VerifySignature(System::SharedPtr<SignatureName> signName, System::SharedPtr<Security::ValidationOptions> options, System::SharedPtr<Security::ValidationResult> &validationResult)
+bool Aspose::Pdf::Facades::PdfFileSignature::VerifySignature(const System::SharedPtr<SignatureName> &signName, const System::SharedPtr<Security::ValidationOptions> &options, System::SharedPtr<Security::ValidationResult> &validationResult)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | System::SharedPtr\<SignatureName\> | The name of signature. |
-| options | System::SharedPtr\<Security::ValidationOptions\> | The verification options. |
+| signName | const System::SharedPtr\<SignatureName\>\& | The name of signature. |
+| options | const System::SharedPtr\<Security::ValidationOptions\>\& | The verification options. |
 | validationResult | System::SharedPtr\<Security::ValidationResult\>\& | The certificate validation result. |
 
 ### ReturnValue
@@ -65,20 +65,20 @@ This method allows you to check the signing certificate using OCSP and/or CRL (c
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileSignature::VerifySignature(System::SharedPtr\<SignatureName\>, System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\>) method
+## PdfFileSignature::VerifySignature(const System::SharedPtr\<SignatureName\>\&, const System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\>\&) method
 
 
 Checks the validity of a signature. Verification is performed using the external public key certificate.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileSignature::VerifySignature(System::SharedPtr<SignatureName> signName, System::SharedPtr<System::Security::Cryptography::X509Certificates::X509Certificate2> publicKeyCertificate)
+bool Aspose::Pdf::Facades::PdfFileSignature::VerifySignature(const System::SharedPtr<SignatureName> &signName, const System::SharedPtr<System::Security::Cryptography::X509Certificates::X509Certificate2> &publicKeyCertificate)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | System::SharedPtr\<SignatureName\> | The name of signature. |
-| publicKeyCertificate | System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\> | The public key certificate for verification. |
+| signName | const System::SharedPtr\<SignatureName\>\& | The name of signature. |
+| publicKeyCertificate | const System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\>\& | The public key certificate for verification. |
 
 ### ReturnValue
 
@@ -92,21 +92,21 @@ Return a result of bool type.
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileSignature::VerifySignature(System::SharedPtr\<SignatureName\>, System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\>, System::SharedPtr\<Security::ValidationOptions\>, System::SharedPtr\<Security::ValidationResult\>\&) method
+## PdfFileSignature::VerifySignature(const System::SharedPtr\<SignatureName\>\&, const System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\>\&, const System::SharedPtr\<Security::ValidationOptions\>\&, System::SharedPtr\<Security::ValidationResult\>\&) method
 
 
 Checks the validity of a signature. Verification is performed using the external public key certificate.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileSignature::VerifySignature(System::SharedPtr<SignatureName> signName, System::SharedPtr<System::Security::Cryptography::X509Certificates::X509Certificate2> publicKeyCertificate, System::SharedPtr<Security::ValidationOptions> options, System::SharedPtr<Security::ValidationResult> &validationResult)
+bool Aspose::Pdf::Facades::PdfFileSignature::VerifySignature(const System::SharedPtr<SignatureName> &signName, const System::SharedPtr<System::Security::Cryptography::X509Certificates::X509Certificate2> &publicKeyCertificate, const System::SharedPtr<Security::ValidationOptions> &options, System::SharedPtr<Security::ValidationResult> &validationResult)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | System::SharedPtr\<SignatureName\> | The name of signature. |
-| publicKeyCertificate | System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\> | The public key certificate for verification. |
-| options | System::SharedPtr\<Security::ValidationOptions\> | The verification options. |
+| signName | const System::SharedPtr\<SignatureName\>\& | The name of signature. |
+| publicKeyCertificate | const System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\>\& | The public key certificate for verification. |
+| options | const System::SharedPtr\<Security::ValidationOptions\>\& | The verification options. |
 | validationResult | System::SharedPtr\<Security::ValidationResult\>\& | The certificate validation result. |
 
 ### ReturnValue
@@ -127,19 +127,19 @@ This method allows you to check the signing certificate using OCSP and/or CRL (c
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileSignature::VerifySignature(System::String) method
+## PdfFileSignature::VerifySignature(const System::String\&) method
 
 
 Checks the validity of a signature.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileSignature::VerifySignature(System::String signName)
+bool Aspose::Pdf::Facades::PdfFileSignature::VerifySignature(const System::String &signName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | System::String | The name of signature. |
+| signName | const System::String\& | The name of signature. |
 
 ### ReturnValue
 
@@ -154,20 +154,20 @@ Use VerifySignature(SignatureName) method instead.
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileSignature::VerifySignature(System::String, System::SharedPtr\<Security::ValidationOptions\>, System::SharedPtr\<Security::ValidationResult\>\&) method
+## PdfFileSignature::VerifySignature(const System::String\&, const System::SharedPtr\<Security::ValidationOptions\>\&, System::SharedPtr\<Security::ValidationResult\>\&) method
 
 
 Checks the validity of a signature.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileSignature::VerifySignature(System::String signName, System::SharedPtr<Security::ValidationOptions> options, System::SharedPtr<Security::ValidationResult> &validationResult)
+bool Aspose::Pdf::Facades::PdfFileSignature::VerifySignature(const System::String &signName, const System::SharedPtr<Security::ValidationOptions> &options, System::SharedPtr<Security::ValidationResult> &validationResult)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | System::String | The name of signature. |
-| options | System::SharedPtr\<Security::ValidationOptions\> | The verification options. |
+| signName | const System::String\& | The name of signature. |
+| options | const System::SharedPtr\<Security::ValidationOptions\>\& | The verification options. |
 | validationResult | System::SharedPtr\<Security::ValidationResult\>\& | The certificate validation result. |
 
 ### ReturnValue

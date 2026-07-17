@@ -19,7 +19,7 @@ T & System::Collections::ObjectModel::Collection<T>::operator[](int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to get value from. |
+| index | int | [Index](../../../system/index/) to get value from. |
 
 ### ReturnValue
 
@@ -42,7 +42,7 @@ const T & System::Collections::ObjectModel::Collection<T>::operator[](int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to get value from. |
+| index | int | [Index](../../../system/index/) to get value from. |
 
 ### ReturnValue
 

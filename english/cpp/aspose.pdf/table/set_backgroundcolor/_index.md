@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/table/set_backgroundcolor/
 Sets table background color.
 
 ```cpp
-void Aspose::Pdf::Table::set_BackgroundColor(System::SharedPtr<Color> value)
+void Aspose::Pdf::Table::set_BackgroundColor(const System::SharedPtr<Color> &value)
 ```
 
 ## See Also

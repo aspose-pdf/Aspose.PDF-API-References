@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfformatconversionoptions/set_outputintent/
 Sets the [Aspose::Pdf::OutputIntent](../../outputintent/) for the PDF format conversion.
 
 ```cpp
-void Aspose::Pdf::PdfFormatConversionOptions::set_OutputIntent(System::SharedPtr<Aspose::Pdf::OutputIntent> value)
+void Aspose::Pdf::PdfFormatConversionOptions::set_OutputIntent(const System::SharedPtr<Aspose::Pdf::OutputIntent> &value)
 ```
 
 ## Remarks

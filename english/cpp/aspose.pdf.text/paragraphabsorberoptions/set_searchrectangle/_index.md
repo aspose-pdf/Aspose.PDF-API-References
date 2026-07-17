@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/paragraphabsorberoptions/set_searchrectangle/
 Sets paragraph search rectangle.
 
 ```cpp
-void Aspose::Pdf::Text::ParagraphAbsorberOptions::set_SearchRectangle(System::SharedPtr<Rectangle> value)
+void Aspose::Pdf::Text::ParagraphAbsorberOptions::set_SearchRectangle(const System::SharedPtr<Rectangle> &value)
 ```
 
 ## See Also

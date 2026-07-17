@@ -1,62 +1,55 @@
 ---
 title: TextIconConverter
+linktitle: TextIconConverter
 second_title: Aspose.PDF for Java API Reference
 description: Represents TextIconConverter class
 type: docs
-weight: 379
+weight: 5170
 url: /java/com.aspose.pdf/texticonconverter/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.TextIconConverter
+
 ```
-public class TextIconConverter
+public class TextIconConverter extends Object
 ```
 
 Represents TextIconConverter class
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [TextIconConverter()](#TextIconConverter--) |  |
+| [TextIconConverter](#TextIconConverter--) |  |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [toString(int value)](#toString-int-) | Returns name for TextIcon element |
-| [toEnum(String value)](#toEnum-java.lang.String-) | Returns TextIcon element for the string equivalent |
-### TextIconConverter() {#TextIconConverter--}
+| [toEnum](#toEnum-java.lang.String-) | Returns TextIcon element for the string equivalent |
+| [toString](#toString-int-) | Returns name for TextIcon element |
+
+### TextIconConverter {#TextIconConverter--}
 ```
 public TextIconConverter()
 ```
 
 
-### toString(int value) {#toString-int-}
+
+### toEnum {#toEnum-java.lang.String-}
+Returns TextIcon element for the string equivalent
+
+### toString {#toString-int-}
 ```
 public static String toString(int value)
 ```
-
 
 Returns name for TextIcon element
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | TextIcon element |
+| value |  | TextIcon element |
 
 **Returns:**
-java.lang.String - string object
-### toEnum(String value) {#toEnum-java.lang.String-}
-```
-public static int toEnum(String value)
-```
-
-
-Returns TextIcon element for the string equivalent
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | java.lang.String | String object |
-
-**Returns:**
-int - TextIcon element
+string object @see TextIcon

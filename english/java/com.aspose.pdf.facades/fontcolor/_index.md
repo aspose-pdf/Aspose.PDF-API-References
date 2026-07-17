@@ -1,123 +1,122 @@
 ---
 title: FontColor
+linktitle: FontColor
 second_title: Aspose.PDF for Java API Reference
 description: Class representing color of the text.
 type: docs
-weight: 21
+weight: 150
 url: /java/com.aspose.pdf.facades/fontcolor/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.facades.FontColor
+
 ```
-public final class FontColor
+public final class FontColor extends Object
 ```
 
 Class representing color of the text.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [FontColor(int r, int g, int b)](#FontColor-int-int-int-) | Initializes color with specified color components. |
-| [FontColor()](#FontColor--) | Initializes color. |
+| [FontColor](#FontColor--) | Initializes color. |
+| [FontColor](#FontColor-int-int-int-) | Initializes color with specified color components. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getGreen()](#getGreen--) | Gets green component of color. |
-| [setGreen(int value)](#setGreen-int-) | Sets green component of color. |
-| [getRed()](#getRed--) | Gets red component of color. |
-| [setRed(int value)](#setRed-int-) | Sets red component of color. |
-| [getBlue()](#getBlue--) | Gets blue component of color. |
-| [setBlue(int value)](#setBlue-int-) | Sets blue component of color. |
-### FontColor(int r, int g, int b) {#FontColor-int-int-int-}
+| [getBlue](#getBlue--) | Gets blue component of color. |
+| [getGreen](#getGreen--) | Gets green component of color. |
+| [getRed](#getRed--) | Gets red component of color. |
+| [setBlue](#setBlue-int-) | Sets blue component of color. |
+| [setGreen](#setGreen-int-) | Sets green component of color. |
+| [setRed](#setRed-int-) | Sets red component of color. |
+
+### FontColor {#FontColor--}
+```
+public FontColor()
+```
+
+Initializes color.
+
+### FontColor {#FontColor-int-int-int-}
 ```
 public FontColor(int r, int g, int b)
 ```
-
 
 Initializes color with specified color components.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| r | int | Red component. |
-| g | int | Green component. |
-| b | int | Blue component. |
+| r |  | Red component. |
+| g |  | Green component. |
+| b |  | Blue component. |
 
-### FontColor() {#FontColor--}
-```
-public FontColor()
-```
-
-
-Initializes color.
-
-### getGreen() {#getGreen--}
-```
-public int getGreen()
-```
-
-
-Gets green component of color.
-
-**Returns:**
-int - green component of color.
-### setGreen(int value) {#setGreen-int-}
-```
-public void setGreen(int value)
-```
-
-
-Sets green component of color.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | green component of color. |
-
-### getRed() {#getRed--}
-```
-public int getRed()
-```
-
-
-Gets red component of color.
-
-**Returns:**
-int - red component of color.
-### setRed(int value) {#setRed-int-}
-```
-public void setRed(int value)
-```
-
-
-Sets red component of color.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| value | int | red component of color. |
-
-### getBlue() {#getBlue--}
+### getBlue {#getBlue--}
 ```
 public int getBlue()
 ```
 
-
 Gets blue component of color.
 
 **Returns:**
-int - blue component of color.
-### setBlue(int value) {#setBlue-int-}
+blue component of color.
+
+### getGreen {#getGreen--}
+```
+public int getGreen()
+```
+
+Gets green component of color.
+
+**Returns:**
+green component of color.
+
+### getRed {#getRed--}
+```
+public int getRed()
+```
+
+Gets red component of color.
+
+**Returns:**
+red component of color.
+
+### setBlue {#setBlue-int-}
 ```
 public void setBlue(int value)
 ```
-
 
 Sets blue component of color.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | blue component of color. |
+| value |  | blue component of color. |
 
+### setGreen {#setGreen-int-}
+```
+public void setGreen(int value)
+```
+
+Sets green component of color.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | green component of color. |
+
+### setRed {#setRed-int-}
+```
+public void setRed(int value)
+```
+
+Sets red component of color.
+
+**Parameters:**
+| Parameter | Type | Description |
+| --- | --- | --- |
+| value |  | red component of color. |

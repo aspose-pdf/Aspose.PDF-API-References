@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/set_pageinfo/
 Sets the page info (for generator only, not filled in when reading document).
 
 ```cpp
-void Aspose::Pdf::Page::set_PageInfo(System::SharedPtr<Aspose::Pdf::PageInfo> value)
+void Aspose::Pdf::Page::set_PageInfo(const System::SharedPtr<Aspose::Pdf::PageInfo> &value)
 ```
 
 ## Remarks

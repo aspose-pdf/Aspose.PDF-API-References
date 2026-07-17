@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.facades/pdfcontenteditor/createpopup/
 Creates popup annotation in PDF document.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfContentEditor::CreatePopup(System::Drawing::Rectangle rect, System::String contents, bool open, int32_t page)
+void Aspose::Pdf::Facades::PdfContentEditor::CreatePopup(System::Drawing::Rectangle rect, const System::String &contents, bool open, int32_t page)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rect | System::Drawing::Rectangle | The annotation rectangle defining the location of the annotation on the page. |
-| contents | System::String | The contents of the annotation. |
+| contents | const System::String\& | The contents of the annotation. |
 | open | bool | A flag specifying whether the pop-up annotation should initially be displayed open. |
 | page | int32_t | The number of original page where the annotation will be created. |
 

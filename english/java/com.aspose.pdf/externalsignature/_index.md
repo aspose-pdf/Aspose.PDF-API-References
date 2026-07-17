@@ -1,48 +1,63 @@
 ---
 title: ExternalSignature
+linktitle: ExternalSignature
 second_title: Aspose.PDF for Java API Reference
-description: Creates a detached PKCS7Detached signature using a X509Certificate2.
+description: Creates a detached PKCS#7Detached signature using a X509Certificate2. It supports usb smartcards, tokens without exportable private keys.
 type: docs
-weight: 106
+weight: 1350
 url: /java/com.aspose.pdf/externalsignature/
 ---
 **Inheritance:**
-java.lang.Object, [com.aspose.pdf.Signature](../../com.aspose.pdf/signature)
+java.lang.Object, com.aspose.pdf.Signature com.aspose.pdf.ExternalSignature, com.aspose.pdf.Signature, com.aspose.pdf.ExternalSignature
+
 ```
 public class ExternalSignature extends Signature
 ```
 
-Creates a detached PKCS\#7Detached signature using a X509Certificate2. It supports usb smartcards, tokens without exportable private keys.
+Creates a detached PKCS#7Detached signature using a X509Certificate2. It supports usb smartcards, tokens without exportable private keys.
+
+## Fields
+
+| Field | Description |
+| --- | --- |
+| [Certificate](#Certificate) | The certificate with the private key. |
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [ExternalSignature(System.Security.Cryptography.X509Certificates.X509Certificate2 certificate)](#ExternalSignature-com.aspose.ms.System.Security.Cryptography.X509Certificates.X509Certificate2-) | Creates a detached PKCS\#7Detached signature using a X509Certificate2. |
-## Methods
+| [ExternalSignature](#ExternalSignature-java.lang.String-boolean-) | Creates a PKCS#7 (detached) signature using a X509Certificate2 as base64 string. |
+| [ExternalSignature](#ExternalSignature-java.lang.String-com.aspose.pdf.DigestHashAlgorithm-) | Creates a PKCS#7 {@code (detached)} signature using a X509Certificate2 as base64 string. |
+| [ExternalSignature](#ExternalSignature-com.aspose.ms.System.Security.Cryptography.X509Certificates.X509Certificate2-) | Deprecated. |
+| [ExternalSignature](#ExternalSignature-com.aspose.ms.System.Security.Cryptography.X509Certificates.X509Certificate2-boolean-) | Creates a detached PKCS#7Detached signature using a X509Certificate2. |
+| [ExternalSignature](#ExternalSignature-com.aspose.ms.System.Security.Cryptography.X509Certificates.X509Certificate2-com.aspose.pdf.DigestHashAlgorithm-) | Creates a detached PKCS#7 (detached) signature using a X509Certificate2. |
+| [ExternalSignature](#ExternalSignature-java.security.cert.X509Certificate-java.security.PrivateKey-) | Deprecated. |
+| [ExternalSignature](#ExternalSignature-java.security.cert.X509Certificate-java.security.PrivateKey-com.aspose.pdf.DigestHashAlgorithm-) | Creates a detached PKCS#7 (detached) signature using a java.security.cert.X509Certificate and java.security.PrivateKey. |
 
-| Method | Description |
-| --- | --- |
-| [getCertificate()](#getCertificate--) | The certificate with the private key. |
-### ExternalSignature(System.Security.Cryptography.X509Certificates.X509Certificate2 certificate) {#ExternalSignature-com.aspose.ms.System.Security.Cryptography.X509Certificates.X509Certificate2-}
+### Certificate {#Certificate}
 ```
-public ExternalSignature(System.Security.Cryptography.X509Certificates.X509Certificate2 certificate)
+public com.aspose.ms.System.Security.Cryptography.X509Certificates.X509Certificate2 Certificate
 ```
-
-
-Creates a detached PKCS\#7Detached signature using a X509Certificate2. It supports usb smartcards, tokens without exportable private keys.
-
-**Parameters:**
-| Parameter | Type | Description |
-| --- | --- | --- |
-| certificate | com.aspose.ms.System.Security.Cryptography.X509Certificates.X509Certificate2 | The certificate with the private key |
-
-### getCertificate() {#getCertificate--}
-```
-public final System.Security.Cryptography.X509Certificates.X509Certificate2 getCertificate()
-```
-
 
 The certificate with the private key.
 
-**Returns:**
-com.aspose.ms.System.Security.Cryptography.X509Certificates.X509Certificate2 - X509Certificate2 instance with the private key
+### ExternalSignature {#ExternalSignature-java.lang.String-boolean-}
+Creates a PKCS#7 (detached) signature using a X509Certificate2 as base64 string.
+
+### ExternalSignature {#ExternalSignature-java.lang.String-com.aspose.pdf.DigestHashAlgorithm-}
+Creates a PKCS#7 {@code (detached)} signature using a X509Certificate2 as base64 string.
+
+### ExternalSignature {#ExternalSignature-com.aspose.ms.System.Security.Cryptography.X509Certificates.X509Certificate2-}
+Deprecated.
+
+### ExternalSignature {#ExternalSignature-com.aspose.ms.System.Security.Cryptography.X509Certificates.X509Certificate2-boolean-}
+Creates a detached PKCS#7Detached signature using a X509Certificate2.
+
+### ExternalSignature {#ExternalSignature-com.aspose.ms.System.Security.Cryptography.X509Certificates.X509Certificate2-com.aspose.pdf.DigestHashAlgorithm-}
+Creates a detached PKCS#7 (detached) signature using a X509Certificate2.
+
+### ExternalSignature {#ExternalSignature-java.security.cert.X509Certificate-java.security.PrivateKey-}
+Deprecated.
+
+### ExternalSignature {#ExternalSignature-java.security.cert.X509Certificate-java.security.PrivateKey-com.aspose.pdf.DigestHashAlgorithm-}
+Creates a detached PKCS#7 (detached) signature using a java.security.cert.X509Certificate and java.security.PrivateKey.

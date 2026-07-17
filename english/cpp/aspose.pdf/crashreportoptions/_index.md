@@ -28,9 +28,9 @@ class CrashReportOptions : public System::Object
 | [get_CustomMessage](./get_custommessage/)() const | Custom message to include into the report. It can be something like value of variables or other details you want to send. |
 | [get_Exception](./get_exception/)() const | Exception that crash report will be based on. |
 | [get_LibraryVersion](./get_libraryversion/)() const | Version of library used. |
-| [set_CrashReportDirectory](./set_crashreportdirectory/)(System::String) | Output directory for crash report. By default is set to current directory. |
-| [set_CrashReportFilename](./set_crashreportfilename/)(System::String) | Filename for crash report. By default is auto-generated in format CrashReport_<date>_<ticks>.html". |
-| [set_CustomMessage](./set_custommessage/)(System::String) | Custom message to include into the report. It can be something like value of variables or other details you want to send. |
+| [set_CrashReportDirectory](./set_crashreportdirectory/)(const System::String\&) | Output directory for crash report. By default is set to current directory. |
+| [set_CrashReportFilename](./set_crashreportfilename/)(const System::String\&) | Filename for crash report. By default is auto-generated in format CrashReport_<date>_<ticks>.html". |
+| [set_CustomMessage](./set_custommessage/)(const System::String\&) | Custom message to include into the report. It can be something like value of variables or other details you want to send. |
 ## See Also
 
 * Class [Object](../../system/object/)

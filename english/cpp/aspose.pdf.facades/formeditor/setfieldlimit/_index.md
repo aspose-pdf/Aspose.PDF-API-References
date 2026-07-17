@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/formeditor/setfieldlimit/
 Sets maximum character count of the text field.
 
 ```cpp
-bool Aspose::Pdf::Facades::FormEditor::SetFieldLimit(System::String fieldName, int32_t fieldLimit)
+bool Aspose::Pdf::Facades::FormEditor::SetFieldLimit(const System::String &fieldName, int32_t fieldLimit)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | Name of the text field. |
+| fieldName | const System::String\& | Name of the text field. |
 | fieldLimit | int32_t | New value of limit for the field. |
 
 ### ReturnValue

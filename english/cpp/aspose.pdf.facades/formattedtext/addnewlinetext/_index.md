@@ -7,19 +7,19 @@ type: docs
 weight: 200
 url: /cpp/aspose.pdf.facades/formattedtext/addnewlinetext/
 ---
-## FormattedText::AddNewLineText(System::String) method
+## FormattedText::AddNewLineText(const System::String\&) method
 
 
 Adds a new line to the [FormattedText](../) object and sets the newLineText to the next line's text.
 
 ```cpp
-void Aspose::Pdf::Facades::FormattedText::AddNewLineText(System::String newLineText)
+void Aspose::Pdf::Facades::FormattedText::AddNewLineText(const System::String &newLineText)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| newLineText | System::String | [Text](../../../aspose.pdf.text/) of new added line. |
+| newLineText | const System::String\& | [Text](../../../aspose.pdf.text/) of new added line. |
 
 ## See Also
 
@@ -27,19 +27,19 @@ void Aspose::Pdf::Facades::FormattedText::AddNewLineText(System::String newLineT
 * Class [FormattedText](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## FormattedText::AddNewLineText(System::String, float) method
+## FormattedText::AddNewLineText(const System::String\&, float) method
 
 
 Adds a new line to the [FormattedText](../) object and sets the newLineText to the next line's text.
 
 ```cpp
-void Aspose::Pdf::Facades::FormattedText::AddNewLineText(System::String newLineText, float lineSpacing)
+void Aspose::Pdf::Facades::FormattedText::AddNewLineText(const System::String &newLineText, float lineSpacing)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| newLineText | System::String | [Text](../../../aspose.pdf.text/) of new added line. |
+| newLineText | const System::String\& | [Text](../../../aspose.pdf.text/) of new added line. |
 | lineSpacing | float | Spacing of the line. |
 
 ## See Also

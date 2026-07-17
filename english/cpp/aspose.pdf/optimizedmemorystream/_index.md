@@ -29,9 +29,9 @@ class OptimizedMemoryStream : public System::IO::Stream
 | [get_Length](./get_length/)() const override | When overridden in a derived class, gets the length in bytes of the stream. |
 | [get_Position](./get_position/)() const override | When overridden in a derived class, gets or sets the position within the current stream. |
 | [OptimizedMemoryStream](./optimizedmemorystream/)() | Initializes a new instance of the [OptimizedMemoryStream](./) class. |
-| [OptimizedMemoryStream](./optimizedmemorystream/)(int32_t, System::ArrayPtr\<uint8_t\>) | Initializes a new instance of the [OptimizedMemoryStream](./) class based on the specified byte array. |
+| [OptimizedMemoryStream](./optimizedmemorystream/)(int32_t, const System::ArrayPtr\<uint8_t\>\&) | Initializes a new instance of the [OptimizedMemoryStream](./) class based on the specified byte array. |
 | [OptimizedMemoryStream](./optimizedmemorystream/)(int32_t) | Initializes a new instance of the [OptimizedMemoryStream](./) class. |
-| [OptimizedMemoryStream](./optimizedmemorystream/)(System::ArrayPtr\<uint8_t\>) | Initializes a new instance of the [OptimizedMemoryStream](./) class based on the specified byte array. |
+| [OptimizedMemoryStream](./optimizedmemorystream/)(const System::ArrayPtr\<uint8_t\>\&) | Initializes a new instance of the [OptimizedMemoryStream](./) class based on the specified byte array. |
 | [Read](./read/)(const System::ArrayPtr\<uint8_t\>\&, int32_t, int32_t) override | When overridden in a derived class, reads a sequence of bytes from the current stream and advances the position within the stream by the number of bytes read. |
 | [ReadByte](./readbyte/)() override | Reads a byte from the stream and advances the position within the stream by one byte, or returns -1 if at the end of the stream. |
 | [Seek](./seek/)(int64_t, System::IO::SeekOrigin) override | When overridden in a derived class, sets the position within the current stream. |
@@ -42,7 +42,7 @@ class OptimizedMemoryStream : public System::IO::Stream
 | [ToArray](./toarray/)() | Converts the current stream to a byte array. |
 | [Write](./write/)(const System::ArrayPtr\<uint8_t\>\&, int32_t, int32_t) override | When overridden in a derived class, writes a sequence of bytes to the current stream and advances the current position within this stream by the number of bytes written. |
 | [WriteByte](./writebyte/)(uint8_t) override | Writes a byte to the current position in the stream and advances the position within the stream by one byte. |
-| [WriteTo](./writeto/)(System::SharedPtr\<System::IO::Stream\>) | Writes to the specified stream. |
+| [WriteTo](./writeto/)(const System::SharedPtr\<System::IO::Stream\>\&) | Writes to the specified stream. |
 ## Fields
 
 | Field | Description |

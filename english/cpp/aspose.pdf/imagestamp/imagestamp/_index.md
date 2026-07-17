@@ -7,19 +7,19 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf/imagestamp/imagestamp/
 ---
-## ImageStamp::ImageStamp(System::SharedPtr\<System::IO::Stream\>) constructor
+## ImageStamp::ImageStamp(const System::SharedPtr\<System::IO::Stream\>\&) constructor
 
 
 Initializes a new instance of the [ImageStamp](../) class.
 
 ```cpp
-Aspose::Pdf::ImageStamp::ImageStamp(System::SharedPtr<System::IO::Stream> image)
+Aspose::Pdf::ImageStamp::ImageStamp(const System::SharedPtr<System::IO::Stream> &image)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| image | System::SharedPtr\<System::IO::Stream\> | Stream which contains image data. |
+| image | const System::SharedPtr\<System::IO::Stream\>\& | Stream which contains image data. |
 
 ## See Also
 
@@ -28,19 +28,19 @@ Aspose::Pdf::ImageStamp::ImageStamp(System::SharedPtr<System::IO::Stream> image)
 * Class [ImageStamp](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## ImageStamp::ImageStamp(System::String) constructor
+## ImageStamp::ImageStamp(const System::String\&) constructor
 
 
 Creates image stamp by image in the specified file.
 
 ```cpp
-Aspose::Pdf::ImageStamp::ImageStamp(System::String fileName)
+Aspose::Pdf::ImageStamp::ImageStamp(const System::String &fileName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | System::String | Name of the file which contains image. |
+| fileName | const System::String\& | Name of the file which contains image. |
 
 ## See Also
 

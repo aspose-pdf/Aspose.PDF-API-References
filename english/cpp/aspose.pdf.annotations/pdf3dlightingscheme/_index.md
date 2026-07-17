@@ -22,7 +22,7 @@ class PDF3DLightingScheme : public System::Object
 | --- | --- |
 | [get_Type](./get_type/)() const | Gets the lighting scheme type. |
 | [PDF3DLightingScheme](./pdf3dlightingscheme/)(LightingSchemeType) | Initializes a new instance of the [PDF3DLightingScheme](./) class. |
-| [PDF3DLightingScheme](./pdf3dlightingscheme/)(System::String) | Initializes a new instance of the [PDF3DLightingScheme](./) class. |
+| [PDF3DLightingScheme](./pdf3dlightingscheme/)(const System::String\&) | Initializes a new instance of the [PDF3DLightingScheme](./) class. |
 ## Fields
 
 | Field | Description |

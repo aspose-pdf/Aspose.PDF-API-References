@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/filespecification/set_unicodename/
 Sets file specification unicode name.
 
 ```cpp
-void Aspose::Pdf::FileSpecification::set_UnicodeName(System::String value)
+void Aspose::Pdf::FileSpecification::set_UnicodeName(const System::String &value)
 ```
 
 ## See Also

@@ -42,7 +42,7 @@ class LoadOptions : public virtual System::Object
 , allows to execute operations with font that are prohibited by a license of this font, for example allows to embed a font into a PDF document even if license rules disable embedding for this font. By default **false**
 
 . |
-| [set_WarningHandler](./set_warninghandler/)(System::SharedPtr\<IWarningCallback\>) | Callback to handle any warnings generated. The WarningHandler returns [ReturnAction](../returnaction/) enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
+| [set_WarningHandler](./set_warninghandler/)(const System::SharedPtr\<IWarningCallback\>\&) | Callback to handle any warnings generated. The WarningHandler returns [ReturnAction](../returnaction/) enum item specifying either Continue or Abort. Continue is the default action and the Load operation continues, however the user may also return Abort in which case the Load operation should cease. |
 ## Typedefs
 
 | Typedef | Description |

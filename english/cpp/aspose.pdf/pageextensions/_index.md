@@ -20,7 +20,7 @@ class PageExtensions
 
 | Method | Description |
 | --- | --- |
-| static [DuplicateIntersectingGraphics](./duplicateintersectinggraphics/)(System::SharedPtr\<Page\>, System::SharedPtr\<Rectangle\>, double, double) | Finds all vector graphic elements that intersect with the specified region and creates their copies with offset from original positions. |
+| static [DuplicateIntersectingGraphics](./duplicateintersectinggraphics/)(const System::SharedPtr\<Page\>\&, const System::SharedPtr\<Rectangle\>\&, double, double) | Finds all vector graphic elements that intersect with the specified region and creates their copies with offset from original positions. |
 | [PageExtensions](./pageextensions/)() |  |
 ## See Also
 

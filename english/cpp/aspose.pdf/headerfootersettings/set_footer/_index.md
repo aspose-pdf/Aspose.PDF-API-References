@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/headerfootersettings/set_footer/
 Sets the footer settings.
 
 ```cpp
-void Aspose::Pdf::HeaderFooterSettings::set_Footer(System::SharedPtr<Aspose::Pdf::Footer> value)
+void Aspose::Pdf::HeaderFooterSettings::set_Footer(const System::SharedPtr<Aspose::Pdf::Footer> &value)
 ```
 
 ## See Also

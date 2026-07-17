@@ -38,15 +38,15 @@ class TextFragment : public Aspose::Pdf::BaseParagraph
 | [get_VerticalAlignment](./get_verticalalignment/)() override | Gets a vertical alignment of text fragment. |
 | [get_WrapLinesCount](./get_wraplinescount/)() const | Gets wrap lines count for this paragraph(for pdf generation only) |
 | [IsolateTextSegments](./isolatetextsegments/)(int32_t, int32_t) | Gets [TextSegment](../textsegment/)(s) representing specified part of the [TextFragment](./) text. |
-| [set_BaselinePosition](./set_baselineposition/)(System::SharedPtr\<Aspose::Pdf::Text::Position\>) | Gets text position for text, represented with [TextFragment](./) object. The YIndent of the [Position](../position/) structure represents baseline coordinate of the text fragment. |
-| [set_EndNote](./set_endnote/)(System::SharedPtr\<Note\>) | Sets the paragraph end note.(for pdf generation only) |
-| [set_FootNote](./set_footnote/)(System::SharedPtr\<Note\>) | Sets the paragraph foot note.(for pdf generation only) |
+| [set_BaselinePosition](./set_baselineposition/)(const System::SharedPtr\<Aspose::Pdf::Text::Position\>\&) | Gets text position for text, represented with [TextFragment](./) object. The YIndent of the [Position](../position/) structure represents baseline coordinate of the text fragment. |
+| [set_EndNote](./set_endnote/)(const System::SharedPtr\<Note\>\&) | Sets the paragraph end note.(for pdf generation only) |
+| [set_FootNote](./set_footnote/)(const System::SharedPtr\<Note\>\&) | Sets the paragraph foot note.(for pdf generation only) |
 | [set_HorizontalAlignment](./set_horizontalalignment/)(Aspose::Pdf::HorizontalAlignment) override | Sets a horizontal alignment of text fragment. |
 | [set_Hyperlink](./set_hyperlink/)(System::SharedPtr\<Aspose::Pdf::Hyperlink\>) override | Sets the fragment hyperlink. |
-| [set_Position](./set_position/)(System::SharedPtr\<Aspose::Pdf::Text::Position\>) | Sets text position for text, represented with [TextFragment](./) object. |
-| [set_Segments](./set_segments/)(System::SharedPtr\<TextSegmentCollection\>) | Gets text segments for current [TextFragment](./). |
-| [set_Text](./set_text/)(System::String) | Sets [System::String](../../system/string/) text object that the [TextFragment](./) object represents. |
-| [set_TextEditOptions](./set_texteditoptions/)(System::SharedPtr\<Aspose::Pdf::Text::TextEditOptions\>) | Sets text edit options. The options define special behavior when requested symbol cannot be written with font. |
+| [set_Position](./set_position/)(const System::SharedPtr\<Aspose::Pdf::Text::Position\>\&) | Sets text position for text, represented with [TextFragment](./) object. |
+| [set_Segments](./set_segments/)(const System::SharedPtr\<TextSegmentCollection\>\&) | Gets text segments for current [TextFragment](./). |
+| [set_Text](./set_text/)(const System::String\&) | Sets [System::String](../../system/string/) text object that the [TextFragment](./) object represents. |
+| [set_TextEditOptions](./set_texteditoptions/)(const System::SharedPtr\<Aspose::Pdf::Text::TextEditOptions\>\&) | Sets text edit options. The options define special behavior when requested symbol cannot be written with font. |
 | [set_VerticalAlignment](./set_verticalalignment/)(Aspose::Pdf::VerticalAlignment) override | Sets a vertical alignment of text fragment. |
 | [set_WrapLinesCount](./set_wraplinescount/)(int32_t) | Sets wrap lines count for this paragraph(for pdf generation only) |
 | [TextFragment](./textfragment/)() | Initializes new instance of the [TextFragment](./) object. |

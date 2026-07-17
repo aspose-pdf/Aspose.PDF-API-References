@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/bleedmarkannotation/bleedmarkannotation/
 Initializes a new instance of the [BleedMarkAnnotation](../) class.
 
 ```cpp
-Aspose::Pdf::Annotations::BleedMarkAnnotation::BleedMarkAnnotation(System::SharedPtr<Aspose::Pdf::Page> page, PrinterMarkCornerPosition position)
+Aspose::Pdf::Annotations::BleedMarkAnnotation::BleedMarkAnnotation(const System::SharedPtr<Aspose::Pdf::Page> &page, PrinterMarkCornerPosition position)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | The page where the annotation will be added. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | The page where the annotation will be added. |
 | position | PrinterMarkCornerPosition | The position of the bleed mark on the page. |
 ## Remarks
 

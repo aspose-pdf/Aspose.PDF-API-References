@@ -20,7 +20,7 @@ class FileDownloader
 
 | Method | Description |
 | --- | --- |
-| static [DownloadData](./downloaddata/)(System::String, int32_t) | Downloads data from the specified URL using the provided timeout. |
+| static [DownloadData](./downloaddata/)(const System::String\&, int32_t) | Downloads data from the specified URL using the provided timeout. |
 | [FileDownloader](./filedownloader/)() |  |
 ## See Also
 

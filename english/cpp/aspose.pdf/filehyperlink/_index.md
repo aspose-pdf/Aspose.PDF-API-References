@@ -21,11 +21,11 @@ class FileHyperlink : public Aspose::Pdf::Hyperlink
 | Method | Description |
 | --- | --- |
 | [FileHyperlink](./filehyperlink/)() | Initializes a new instance of the [FileHyperlink](./) class. |
-| [FileHyperlink](./filehyperlink/)(System::String) | Initializes a new instance of the [FileHyperlink](./) class. |
+| [FileHyperlink](./filehyperlink/)(const System::String\&) | Initializes a new instance of the [FileHyperlink](./) class. |
 | [get_NewWindow](./get_newwindow/)() const | Gets a flag specifying whether to open the destination document in a new window (affect PDF documents only). |
 | [get_Path](./get_path/)() const | Gets the path to file. |
 | [set_NewWindow](./set_newwindow/)(ExtendedBoolean) | Sets a flag specifying whether to open the destination document in a new window (affect PDF documents only). |
-| [set_Path](./set_path/)(System::String) | Sets the path to file. |
+| [set_Path](./set_path/)(const System::String\&) | Sets the path to file. |
 ## See Also
 
 * Class [Hyperlink](../hyperlink/)

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/pdf3drendermode/setauxiliarycolour/
 Sets the auxiliary colour.
 
 ```cpp
-System::SharedPtr<PDF3DRenderMode> Aspose::Pdf::Annotations::PDF3DRenderMode::SetAuxiliaryColour(System::SharedPtr<Color> color)
+System::SharedPtr<PDF3DRenderMode> Aspose::Pdf::Annotations::PDF3DRenderMode::SetAuxiliaryColour(const System::SharedPtr<Color> &color)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| color | System::SharedPtr\<Color\> | The color. |
+| color | const System::SharedPtr\<Color\>\& | The color. |
 
 ### ReturnValue
 

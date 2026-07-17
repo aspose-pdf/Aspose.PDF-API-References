@@ -24,7 +24,7 @@ class TableBuilder : public System::Object
 | [AddTable](./addtable/)() | Add new table to document. |
 | [InsertPageAfter](./insertpageafter/)(int32_t) | Insert page after specified page. |
 | [InsertPageBefore](./insertpagebefore/)(int32_t) | Insert page before specified page. |
-| static [to_TableOptions](./to_tableoptions/)(System::SharedPtr\<TableBuilder\>) | Converts builder [TableBuilder](./) to options [TableOptions](../tableoptions/) |
+| static [to_TableOptions](./to_tableoptions/)(const System::SharedPtr\<TableBuilder\>\&) | Converts builder [TableBuilder](./) to options [TableOptions](../tableoptions/) |
 ## See Also
 
 * Class [Object](../../system/object/)

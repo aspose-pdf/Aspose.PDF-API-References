@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/measure/set_yformat/
 A number format array for measurement of change along the y axis.
 
 ```cpp
-void Aspose::Pdf::Annotations::Measure::set_YFormat(System::SharedPtr<Measure::NumberFormatList> value)
+void Aspose::Pdf::Annotations::Measure::set_YFormat(const System::SharedPtr<Measure::NumberFormatList> &value)
 ```
 
 ## See Also

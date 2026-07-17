@@ -1,102 +1,102 @@
 ---
 title: Resolution
+linktitle: Resolution
 second_title: Aspose.PDF for Java API Reference
 description: Represents class for holding image resolution.
 type: docs
-weight: 25
+weight: 170
 url: /java/com.aspose.pdf.devices/resolution/
 ---
 **Inheritance:**
-java.lang.Object
+java.lang.Object, com.aspose.pdf.devices.Resolution
+
 ```
-public final class Resolution
+public final class Resolution extends Object
 ```
 
 Represents class for holding image resolution.
+
 ## Constructors
 
 | Constructor | Description |
 | --- | --- |
-| [Resolution(int value)](#Resolution-int-) | Initializes a new instance of the  Resolution  class. |
-| [Resolution(int valueX, int valueY)](#Resolution-int-int-) | Initializes a new instance of the  Resolution  class. |
+| [Resolution](#Resolution-int-) | Initializes a new instance of the {@code Resolution} class. |
+| [Resolution](#Resolution-int-int-) | Initializes a new instance of the {@code Resolution} class. |
+
 ## Methods
 
 | Method | Description |
 | --- | --- |
-| [getX()](#getX--) | Gets horizontal image resolution. |
-| [setX(int value)](#setX-int-) | Sets horizontal image resolution. |
-| [getY()](#getY--) | Gets vertical image resolution. |
-| [setY(int value)](#setY-int-) | Sets vertical image resolution. |
-### Resolution(int value) {#Resolution-int-}
+| [getX](#getX--) | Gets horizontal image resolution. |
+| [getY](#getY--) | Gets vertical image resolution. |
+| [setX](#setX-int-) | Sets horizontal image resolution. |
+| [setY](#setY-int-) | Sets vertical image resolution. |
+
+### Resolution {#Resolution-int-}
 ```
 public Resolution(int value)
 ```
 
-
-Initializes a new instance of the  Resolution  class.
+Initializes a new instance of the {@code Resolution} class.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | Value which represents the horizontal and vertical resolution. |
+| value |  | Value which represents the horizontal and vertical resolution. |
 
-### Resolution(int valueX, int valueY) {#Resolution-int-int-}
+### Resolution {#Resolution-int-int-}
 ```
 public Resolution(int valueX, int valueY)
 ```
 
-
-Initializes a new instance of the  Resolution  class.
+Initializes a new instance of the {@code Resolution} class.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| valueX | int | Horizontal resolution. |
-| valueY | int | Vertical resolution. |
+| valueX |  | Horizontal resolution. |
+| valueY |  | Vertical resolution. |
 
-### getX() {#getX--}
+### getX {#getX--}
 ```
 public int getX()
 ```
 
-
 Gets horizontal image resolution.
 
 **Returns:**
-int - int value
-### setX(int value) {#setX-int-}
+int value
+
+### getY {#getY--}
+```
+public int getY()
+```
+
+Gets vertical image resolution.
+
+**Returns:**
+int value
+
+### setX {#setX-int-}
 ```
 public void setX(int value)
 ```
-
 
 Sets horizontal image resolution.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | int value |
+| value |  | int value |
 
-### getY() {#getY--}
-```
-public int getY()
-```
-
-
-Gets vertical image resolution.
-
-**Returns:**
-int - int value
-### setY(int value) {#setY-int-}
+### setY {#setY-int-}
 ```
 public void setY(int value)
 ```
-
 
 Sets vertical image resolution.
 
 **Parameters:**
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | int value |
-
+| value |  | int value |

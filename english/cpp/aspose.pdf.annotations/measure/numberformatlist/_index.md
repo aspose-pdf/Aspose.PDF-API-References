@@ -20,12 +20,12 @@ class NumberFormatList : public System::Object
 
 | Method | Description |
 | --- | --- |
-| [Add](./add/)(System::SharedPtr\<Measure::NumberFormat\>) | Adds number format to list. |
+| [Add](./add/)(const System::SharedPtr\<Measure::NumberFormat\>\&) | Adds number format to list. |
 | [get_Count](./get_count/)() | Count if items in the list. |
 | [idx_get](./idx_get/)(int32_t) | Gets number format in list by its index. |
-| [idx_set](./idx_set/)(int32_t, System::SharedPtr\<Measure::NumberFormat\>) | Sets number format in list by its index. |
-| [Insert](./insert/)(int32_t, System::SharedPtr\<Measure::NumberFormat\>) | Inserts number format into list. |
-| [NumberFormatList](./numberformatlist/)(System::SharedPtr\<Measure\>) | Constructor for [NumberFormatList](./). |
+| [idx_set](./idx_set/)(int32_t, const System::SharedPtr\<Measure::NumberFormat\>\&) | Sets number format in list by its index. |
+| [Insert](./insert/)(int32_t, const System::SharedPtr\<Measure::NumberFormat\>\&) | Inserts number format into list. |
+| [NumberFormatList](./numberformatlist/)(const System::SharedPtr\<Measure\>\&) | Constructor for [NumberFormatList](./). |
 | [RemoveAt](./removeat/)(int32_t) | Removes number format from list. |
 ## See Also
 

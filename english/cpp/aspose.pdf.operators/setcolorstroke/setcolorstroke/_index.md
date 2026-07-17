@@ -21,6 +21,26 @@ Aspose::Pdf::Operators::SetColorStroke::SetColorStroke()
 * Class [SetColorStroke](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)
+## SetColorStroke::SetColorStroke(const System::ArrayPtr\<double\>\&) constructor
+
+
+Constructor which allows to set color components.
+
+```cpp
+Aspose::Pdf::Operators::SetColorStroke::SetColorStroke(const System::ArrayPtr<double> &color)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| color | const System::ArrayPtr\<double\>\& | Array of color components. |
+
+## See Also
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [SetColorStroke](../)
+* Namespace [Aspose::Pdf::Operators](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## SetColorStroke::SetColorStroke(double, double, double, double) constructor
 
 
@@ -80,26 +100,6 @@ Aspose::Pdf::Operators::SetColorStroke::SetColorStroke(double r, double g, doubl
 
 ## See Also
 
-* Class [SetColorStroke](../)
-* Namespace [Aspose::Pdf::Operators](../../)
-* Library [Aspose.PDF for C++](../../../)
-## SetColorStroke::SetColorStroke(System::ArrayPtr\<double\>) constructor
-
-
-Constructor which allows to set color components.
-
-```cpp
-Aspose::Pdf::Operators::SetColorStroke::SetColorStroke(System::ArrayPtr<double> color)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| color | System::ArrayPtr\<double\> | Array of color components. |
-
-## See Also
-
-* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [SetColorStroke](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

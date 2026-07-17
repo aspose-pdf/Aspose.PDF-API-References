@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.annotations/pdf3dstream/pdf3dstream/
 Initializes a new instance of the [PDF3DStream](../) class.
 
 ```cpp
-Aspose::Pdf::Annotations::PDF3DStream::PDF3DStream(System::SharedPtr<Document> doc, System::SharedPtr<PDF3DArtwork> pdf3DArtwork)
+Aspose::Pdf::Annotations::PDF3DStream::PDF3DStream(const System::SharedPtr<Document> &doc, const System::SharedPtr<PDF3DArtwork> &pdf3DArtwork)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | System::SharedPtr\<Document\> | The document. |
-| pdf3DArtwork | System::SharedPtr\<PDF3DArtwork\> | The 3D Artwork. |
+| doc | const System::SharedPtr\<Document\>\& | The document. |
+| pdf3DArtwork | const System::SharedPtr\<PDF3DArtwork\>\& | The 3D Artwork. |
 
 ## See Also
 

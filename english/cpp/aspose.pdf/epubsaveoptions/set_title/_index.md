@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/epubsaveoptions/set_title/
 Sets EPUB document title.
 
 ```cpp
-void Aspose::Pdf::EpubSaveOptions::set_Title(System::String value)
+void Aspose::Pdf::EpubSaveOptions::set_Title(const System::String &value)
 ```
 
 ## See Also

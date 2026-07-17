@@ -21,19 +21,19 @@ Aspose::Pdf::Facades::PdfContentEditor::PdfContentEditor()
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfContentEditor::PdfContentEditor(System::SharedPtr\<Aspose::Pdf::Document\>) constructor
+## PdfContentEditor::PdfContentEditor(const System::SharedPtr\<Aspose::Pdf::Document\>\&) constructor
 
 
 Initializes new [PdfContentEditor](../) object on base of the *document* .
 
 ```cpp
-Aspose::Pdf::Facades::PdfContentEditor::PdfContentEditor(System::SharedPtr<Aspose::Pdf::Document> document)
+Aspose::Pdf::Facades::PdfContentEditor::PdfContentEditor(const System::SharedPtr<Aspose::Pdf::Document> &document)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Aspose::Pdf::Document\> | [Pdf](../../../aspose.pdf/) document. |
+| document | const System::SharedPtr\<Aspose::Pdf::Document\>\& | [Pdf](../../../aspose.pdf/) document. |
 
 ## See Also
 

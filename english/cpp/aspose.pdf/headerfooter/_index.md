@@ -26,8 +26,8 @@ class HeaderFooter : public System::ICloneable
 | [get_Paragraphs](./get_paragraphs/)() const | Gets the end note paragraphs. |
 | [HeaderFooter](./headerfooter/)() | Default ctor. |
 | [set_IsClipExtraContent](./set_isclipextracontent/)(bool) | Sets is clip extra content. |
-| [set_Margin](./set_margin/)(System::SharedPtr\<MarginInfo\>) | Sets the margin info. |
-| [set_Paragraphs](./set_paragraphs/)(System::SharedPtr\<Aspose::Pdf::Paragraphs\>) | Sets the end note paragraphs. |
+| [set_Margin](./set_margin/)(const System::SharedPtr\<MarginInfo\>\&) | Sets the margin info. |
+| [set_Paragraphs](./set_paragraphs/)(const System::SharedPtr\<Aspose::Pdf::Paragraphs\>\&) | Sets the end note paragraphs. |
 ## See Also
 
 * Class [ICloneable](../../system/icloneable/)

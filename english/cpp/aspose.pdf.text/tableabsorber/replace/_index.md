@@ -13,15 +13,15 @@ url: /cpp/aspose.pdf.text/tableabsorber/replace/
 Replaces an [AbsorbedTable](../../absorbedtable/) with [Table](../../../aspose.pdf/table/) on the page.
 
 ```cpp
-void Aspose::Pdf::Text::TableAbsorber::Replace(System::SharedPtr<Page> page, System::SharedPtr<AbsorbedTable> oldTable, System::SharedPtr<Table> newTable)
+void Aspose::Pdf::Text::TableAbsorber::Replace(const System::SharedPtr<Page> &page, const System::SharedPtr<AbsorbedTable> &oldTable, const System::SharedPtr<Table> &newTable)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Page\> | [Pdf](../../../aspose.pdf/) pocument page object. |
-| oldTable | System::SharedPtr\<AbsorbedTable\> | [AbsorbedTable](../../absorbedtable/) to be replaced. |
-| newTable | System::SharedPtr\<Table\> | [Table](../../../aspose.pdf/table/) to replace old table. |
+| page | const System::SharedPtr\<Page\>\& | [Pdf](../../../aspose.pdf/) pocument page object. |
+| oldTable | const System::SharedPtr\<AbsorbedTable\>\& | [AbsorbedTable](../../absorbedtable/) to be replaced. |
+| newTable | const System::SharedPtr\<Table\>\& | [Table](../../../aspose.pdf/table/) to replace old table. |
 ## Remarks
 
 

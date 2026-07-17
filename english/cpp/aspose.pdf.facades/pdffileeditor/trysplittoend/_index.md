@@ -7,21 +7,21 @@ type: docs
 weight: 7100
 url: /cpp/aspose.pdf.facades/pdffileeditor/trysplittoend/
 ---
-## PdfFileEditor::TrySplitToEnd(System::SharedPtr\<System::IO::Stream\>, int32_t, System::SharedPtr\<System::IO::Stream\>) method
+## PdfFileEditor::TrySplitToEnd(const System::SharedPtr\<System::IO::Stream\>\&, int32_t, const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Splits from specified location, and saves the rear part as a new file Stream.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::TrySplitToEnd(System::SharedPtr<System::IO::Stream> inputStream, int32_t location, System::SharedPtr<System::IO::Stream> outputStream)
+bool Aspose::Pdf::Facades::PdfFileEditor::TrySplitToEnd(const System::SharedPtr<System::IO::Stream> &inputStream, int32_t location, const System::SharedPtr<System::IO::Stream> &outputStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | System::SharedPtr\<System::IO::Stream\> | Source [Pdf](../../../aspose.pdf/) file Stream. |
+| inputStream | const System::SharedPtr\<System::IO::Stream\>\& | Source [Pdf](../../../aspose.pdf/) file Stream. |
 | location | int32_t | The splitting position. |
-| outputStream | System::SharedPtr\<System::IO::Stream\> | Output [Pdf](../../../aspose.pdf/) file Stream. |
+| outputStream | const System::SharedPtr\<System::IO::Stream\>\& | Output [Pdf](../../../aspose.pdf/) file Stream. |
 
 ### ReturnValue
 
@@ -38,21 +38,21 @@ The streams are NOT closed after this operation unless CloseConcatedStreams is s
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::TrySplitToEnd(System::SharedPtr\<System::IO::Stream\>, int32_t, System::SharedPtr\<System::Web::HttpResponse\>) method
+## PdfFileEditor::TrySplitToEnd(const System::SharedPtr\<System::IO::Stream\>\&, int32_t, const System::SharedPtr\<System::Web::HttpResponse\>\&) method
 
 
 Splits from specified location, and saves the rear part into HttpResponse object.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::TrySplitToEnd(System::SharedPtr<System::IO::Stream> inputStream, int32_t location, System::SharedPtr<System::Web::HttpResponse> response)
+bool Aspose::Pdf::Facades::PdfFileEditor::TrySplitToEnd(const System::SharedPtr<System::IO::Stream> &inputStream, int32_t location, const System::SharedPtr<System::Web::HttpResponse> &response)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | System::SharedPtr\<System::IO::Stream\> | Source document stream. |
+| inputStream | const System::SharedPtr\<System::IO::Stream\>\& | Source document stream. |
 | location | int32_t | Split point. |
-| response | System::SharedPtr\<System::Web::HttpResponse\> | HttpResponse object. |
+| response | const System::SharedPtr\<System::Web::HttpResponse\>\& | HttpResponse object. |
 
 ### ReturnValue
 
@@ -70,21 +70,21 @@ The TrySplitToEnd method is like the SplitToEnd method, except the TrySplitToEnd
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::TrySplitToEnd(System::String, int32_t, System::SharedPtr\<System::Web::HttpResponse\>) method
+## PdfFileEditor::TrySplitToEnd(const System::String\&, int32_t, const System::SharedPtr\<System::Web::HttpResponse\>\&) method
 
 
 Splits from specified location, and saves the rear part into HttpResponse object.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::TrySplitToEnd(System::String inputFile, int32_t location, System::SharedPtr<System::Web::HttpResponse> response)
+bool Aspose::Pdf::Facades::PdfFileEditor::TrySplitToEnd(const System::String &inputFile, int32_t location, const System::SharedPtr<System::Web::HttpResponse> &response)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | System::String | source file name. |
+| inputFile | const System::String\& | source file name. |
 | location | int32_t | Split point. |
-| response | System::SharedPtr\<System::Web::HttpResponse\> | HttpResponse objects. |
+| response | const System::SharedPtr\<System::Web::HttpResponse\>\& | HttpResponse objects. |
 
 ### ReturnValue
 
@@ -102,21 +102,21 @@ The TrySplitToEnd method is like the SplitToEnd method, except the TrySplitToEnd
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::TrySplitToEnd(System::String, int32_t, System::String) method
+## PdfFileEditor::TrySplitToEnd(const System::String\&, int32_t, const System::String\&) method
 
 
 Splits from location, and saves the rear part as a new file.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::TrySplitToEnd(System::String inputFile, int32_t location, System::String outputFile)
+bool Aspose::Pdf::Facades::PdfFileEditor::TrySplitToEnd(const System::String &inputFile, int32_t location, const System::String &outputFile)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | System::String | Source [Pdf](../../../aspose.pdf/) file. |
+| inputFile | const System::String\& | Source [Pdf](../../../aspose.pdf/) file. |
 | location | int32_t | The splitting position. |
-| outputFile | System::String | Output [Pdf](../../../aspose.pdf/) file path. |
+| outputFile | const System::String\& | Output [Pdf](../../../aspose.pdf/) file path. |
 
 ### ReturnValue
 

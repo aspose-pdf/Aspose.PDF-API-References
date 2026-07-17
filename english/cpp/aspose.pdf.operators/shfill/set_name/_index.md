@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/shfill/set_name/
 Sets the shading name.
 
 ```cpp
-void Aspose::Pdf::Operators::ShFill::set_Name(System::String value)
+void Aspose::Pdf::Operators::ShFill::set_Name(const System::String &value)
 ```
 
 ## See Also
