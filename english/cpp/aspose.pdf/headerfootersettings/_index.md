@@ -26,9 +26,9 @@ class HeaderFooterSettings : public System::Object
 | [get_Footer](./get_footer/)() const | Gets the footer settings. |
 | [get_Header](./get_header/)() const | Gets the header settings. |
 | [get_PageRange](./get_pagerange/)() const | Gets the range of pages for the header and footer settings. |
-| [set_Footer](./set_footer/)(System::SharedPtr\<Aspose::Pdf::Footer\>) | Sets the footer settings. |
-| [set_Header](./set_header/)(System::SharedPtr\<Aspose::Pdf::Header\>) | Sets the header settings. |
-| [set_PageRange](./set_pagerange/)(System::SharedPtr\<Aspose::Pdf::PageRange\>) | Sets the range of pages for the header and footer settings. |
+| [set_Footer](./set_footer/)(const System::SharedPtr\<Aspose::Pdf::Footer\>\&) | Sets the footer settings. |
+| [set_Header](./set_header/)(const System::SharedPtr\<Aspose::Pdf::Header\>\&) | Sets the header settings. |
+| [set_PageRange](./set_pagerange/)(const System::SharedPtr\<Aspose::Pdf::PageRange\>\&) | Sets the range of pages for the header and footer settings. |
 ## See Also
 
 * Class [Object](../../system/object/)

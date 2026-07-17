@@ -7,19 +7,19 @@ type: docs
 weight: 1000
 url: /cpp/aspose.pdf/layer/save/
 ---
-## Layer::Save(System::SharedPtr\<System::IO::Stream\>) method
+## Layer::Save(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Saves the current layer to a PDF document.
 
 ```cpp
-void Aspose::Pdf::Layer::Save(System::SharedPtr<System::IO::Stream> outputStream)
+void Aspose::Pdf::Layer::Save(const System::SharedPtr<System::IO::Stream> &outputStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStream | System::SharedPtr\<System::IO::Stream\> | The stream where the PDF document will be saved. |
+| outputStream | const System::SharedPtr\<System::IO::Stream\>\& | The stream where the PDF document will be saved. |
 
 ## See Also
 
@@ -28,19 +28,19 @@ void Aspose::Pdf::Layer::Save(System::SharedPtr<System::IO::Stream> outputStream
 * Class [Layer](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Layer::Save(System::String) method
+## Layer::Save(const System::String\&) method
 
 
 Saves the current layer to a PDF document.
 
 ```cpp
-void Aspose::Pdf::Layer::Save(System::String outputPath)
+void Aspose::Pdf::Layer::Save(const System::String &outputPath)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputPath | System::String | The file path where the PDF document will be saved. |
+| outputPath | const System::String\& | The file path where the PDF document will be saved. |
 
 ## See Also
 

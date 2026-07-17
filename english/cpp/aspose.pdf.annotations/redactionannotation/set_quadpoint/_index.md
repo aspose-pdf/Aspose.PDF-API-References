@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/redactionannotation/set_quadpoint/
 An array of 8xN numbers specifying the coordinates of content region that is intended to be removed.
 
 ```cpp
-void Aspose::Pdf::Annotations::RedactionAnnotation::set_QuadPoint(System::ArrayPtr<System::SharedPtr<Point>> value)
+void Aspose::Pdf::Annotations::RedactionAnnotation::set_QuadPoint(const System::ArrayPtr<System::SharedPtr<Point>> &value)
 ```
 
 ## See Also

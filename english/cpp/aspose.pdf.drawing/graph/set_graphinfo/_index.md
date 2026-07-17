@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/graph/set_graphinfo/
 Sets a [GraphInfo](../../../aspose.pdf/graphinfo/) object that indicates the graph info,such as color, line width,etc.
 
 ```cpp
-void Aspose::Pdf::Drawing::Graph::set_GraphInfo(System::SharedPtr<Aspose::Pdf::GraphInfo> value)
+void Aspose::Pdf::Drawing::Graph::set_GraphInfo(const System::SharedPtr<Aspose::Pdf::GraphInfo> &value)
 ```
 
 ## See Also

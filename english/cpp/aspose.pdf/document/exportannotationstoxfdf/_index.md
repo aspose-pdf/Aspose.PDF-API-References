@@ -7,19 +7,19 @@ type: docs
 weight: 1000
 url: /cpp/aspose.pdf/document/exportannotationstoxfdf/
 ---
-## Document::ExportAnnotationsToXfdf(System::SharedPtr\<System::IO::Stream\>) method
+## Document::ExportAnnotationsToXfdf(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Export all document annotations into stream.
 
 ```cpp
-void Aspose::Pdf::Document::ExportAnnotationsToXfdf(System::SharedPtr<System::IO::Stream> stream)
+void Aspose::Pdf::Document::ExportAnnotationsToXfdf(const System::SharedPtr<System::IO::Stream> &stream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | System::SharedPtr\<System::IO::Stream\> | Stream where store XFDF. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | Stream where store XFDF. |
 
 ## See Also
 
@@ -28,19 +28,19 @@ void Aspose::Pdf::Document::ExportAnnotationsToXfdf(System::SharedPtr<System::IO
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Document::ExportAnnotationsToXfdf(System::String) method
+## Document::ExportAnnotationsToXfdf(const System::String\&) method
 
 
 Exports all document annotations to XFDF file.
 
 ```cpp
-void Aspose::Pdf::Document::ExportAnnotationsToXfdf(System::String fileName)
+void Aspose::Pdf::Document::ExportAnnotationsToXfdf(const System::String &fileName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileName | System::String | XFDF file name |
+| fileName | const System::String\& | XFDF file name |
 
 ## See Also
 

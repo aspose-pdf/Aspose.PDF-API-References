@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotationstatemodelconverter/toenum/
 
 
 ```cpp
-static AnnotationStateModel Aspose::Pdf::Annotations::AnnotationStateModelConverter::ToEnum(System::String value)
+static AnnotationStateModel Aspose::Pdf::Annotations::AnnotationStateModelConverter::ToEnum(const System::String &value)
 ```
 
 ## See Also

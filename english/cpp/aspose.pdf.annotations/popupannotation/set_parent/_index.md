@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/popupannotation/set_parent/
 Sets the parent annotation with which this pop-up annotation shall be associated. If this entry is present, the parent annotation's Contents, M, C, and T entries shall override those of the pop-up annotation itself.
 
 ```cpp
-void Aspose::Pdf::Annotations::PopupAnnotation::set_Parent(System::SharedPtr<Annotation> value)
+void Aspose::Pdf::Annotations::PopupAnnotation::set_Parent(const System::SharedPtr<Annotation> &value)
 ```
 
 ## See Also

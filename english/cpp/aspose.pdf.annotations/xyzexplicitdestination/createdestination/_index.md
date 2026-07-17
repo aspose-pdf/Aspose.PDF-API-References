@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/xyzexplicitdestination/createdestination/
 Create destintion to specified location of the page considering page rotation if required.
 
 ```cpp
-static System::SharedPtr<XYZExplicitDestination> Aspose::Pdf::Annotations::XYZExplicitDestination::CreateDestination(System::SharedPtr<Aspose::Pdf::Page> page, double left, double top, double zoom, bool considerRotation)
+static System::SharedPtr<XYZExplicitDestination> Aspose::Pdf::Annotations::XYZExplicitDestination::CreateDestination(const System::SharedPtr<Aspose::Pdf::Page> &page, double left, double top, double zoom, bool considerRotation)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | Destination page. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | Destination page. |
 | left | double | [Left](../../../aspose.pdf/left/) position on the page. |
 | top | double | Top position on the page. |
 | zoom | double | Zoom factor (0 for default). |

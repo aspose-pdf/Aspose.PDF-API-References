@@ -7,19 +7,19 @@ type: docs
 weight: 600
 url: /cpp/aspose.pdf.annotations/pdf3dcontent/loadasprc/
 ---
-## PDF3DContent::LoadAsPRC(System::ArrayPtr\<uint8_t\>) method
+## PDF3DContent::LoadAsPRC(const System::ArrayPtr\<uint8_t\>\&) method
 
 
 Loads 3D content from byte array as PRC format.
 
 ```cpp
-void Aspose::Pdf::Annotations::PDF3DContent::LoadAsPRC(System::ArrayPtr<uint8_t> stream)
+void Aspose::Pdf::Annotations::PDF3DContent::LoadAsPRC(const System::ArrayPtr<uint8_t> &stream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | System::ArrayPtr\<uint8_t\> | The stream. |
+| stream | const System::ArrayPtr\<uint8_t\>\& | The stream. |
 
 ## See Also
 
@@ -27,19 +27,19 @@ void Aspose::Pdf::Annotations::PDF3DContent::LoadAsPRC(System::ArrayPtr<uint8_t>
 * Class [PDF3DContent](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PDF3DContent::LoadAsPRC(System::SharedPtr\<System::IO::Stream\>) method
+## PDF3DContent::LoadAsPRC(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Loads 3D content from stream as PRC format.
 
 ```cpp
-void Aspose::Pdf::Annotations::PDF3DContent::LoadAsPRC(System::SharedPtr<System::IO::Stream> stream)
+void Aspose::Pdf::Annotations::PDF3DContent::LoadAsPRC(const System::SharedPtr<System::IO::Stream> &stream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | System::SharedPtr\<System::IO::Stream\> | The 3D content stream. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | The 3D content stream. |
 
 ## See Also
 
@@ -48,19 +48,19 @@ void Aspose::Pdf::Annotations::PDF3DContent::LoadAsPRC(System::SharedPtr<System:
 * Class [PDF3DContent](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PDF3DContent::LoadAsPRC(System::String) method
+## PDF3DContent::LoadAsPRC(const System::String\&) method
 
 
 Loads 3D content with the specified filename as PRC format.
 
 ```cpp
-void Aspose::Pdf::Annotations::PDF3DContent::LoadAsPRC(System::String filename)
+void Aspose::Pdf::Annotations::PDF3DContent::LoadAsPRC(const System::String &filename)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | System::String | The filename. |
+| filename | const System::String\& | The filename. |
 
 ## See Also
 

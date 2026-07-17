@@ -19,7 +19,7 @@ String System::String::Insert(int startIndex, const String &value) const
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| startIndex | int | Index in this string to start inserting from. |
+| startIndex | int | [Index](../../index/) in this string to start inserting from. |
 | value | const String\& | Insertion string. |
 
 ### ReturnValue

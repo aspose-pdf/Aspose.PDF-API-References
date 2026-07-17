@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/formfieldoptions/set_name/
 Gets/sets the value to determine property Name for created/modified field (if will be set).
 
 ```cpp
-void Aspose::Pdf::LowCode::FormFieldOptions::set_Name(System::String value)
+void Aspose::Pdf::LowCode::FormFieldOptions::set_Name(const System::String &value)
 ```
 
 ## See Also

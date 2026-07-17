@@ -7,20 +7,20 @@ type: docs
 weight: 3400
 url: /cpp/aspose.pdf.facades/pdffileeditor/makenup/
 ---
-## PdfFileEditor::MakeNUp(System::ArrayPtr\<System::SharedPtr\<System::IO::Stream\>\>, System::SharedPtr\<System::IO::Stream\>, bool) method
+## PdfFileEditor::MakeNUp(const System::ArrayPtr\<System::SharedPtr\<System::IO::Stream\>\>\&, const System::SharedPtr\<System::IO::Stream\>\&, bool) method
 
 
 Makes N-Up document from the multi input PDF streams to outputStream. Each page of outputStream will contain multi pages, which are combination with pages in the input streams of the same page number. The multi-pages piled up horizontally if isSidewise is true and piled up vertically if isSidewise is false.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::MakeNUp(System::ArrayPtr<System::SharedPtr<System::IO::Stream>> inputStreams, System::SharedPtr<System::IO::Stream> outputStream, bool isSidewise)
+bool Aspose::Pdf::Facades::PdfFileEditor::MakeNUp(const System::ArrayPtr<System::SharedPtr<System::IO::Stream>> &inputStreams, const System::SharedPtr<System::IO::Stream> &outputStream, bool isSidewise)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputStreams | System::ArrayPtr\<System::SharedPtr\<System::IO::Stream\>\> | Input [Pdf](../../../aspose.pdf/) streams. |
-| outputStream | System::SharedPtr\<System::IO::Stream\> | Output pdf stream. |
+| inputStreams | const System::ArrayPtr\<System::SharedPtr\<System::IO::Stream\>\>\& | Input [Pdf](../../../aspose.pdf/) streams. |
+| outputStream | const System::SharedPtr\<System::IO::Stream\>\& | Output pdf stream. |
 | isSidewise | bool | Piled up way, true for horizontally and false for vertically. |
 
 ### ReturnValue
@@ -35,20 +35,20 @@ boolean - True for success, or false.
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::MakeNUp(System::ArrayPtr\<System::String\>, System::String, bool) method
+## PdfFileEditor::MakeNUp(const System::ArrayPtr\<System::String\>\&, const System::String\&, bool) method
 
 
 Makes N-Up document from the multi input PDF files to outputFile. Each page of outputFile will contain multi pages, which are combination with pages in the input files of the same page number. The multi pages piled up horizontally if isSidewise is true and piled up vertically if isSidewise is false.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::MakeNUp(System::ArrayPtr<System::String> inputFiles, System::String outputFile, bool isSidewise)
+bool Aspose::Pdf::Facades::PdfFileEditor::MakeNUp(const System::ArrayPtr<System::String> &inputFiles, const System::String &outputFile, bool isSidewise)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFiles | System::ArrayPtr\<System::String\> | Input [Pdf](../../../aspose.pdf/) files. |
-| outputFile | System::String | Output pdf file path and name. |
+| inputFiles | const System::ArrayPtr\<System::String\>\& | Input [Pdf](../../../aspose.pdf/) files. |
+| outputFile | const System::String\& | Output pdf file path and name. |
 | isSidewise | bool | Piled up way, true for horizontally and false for vertically. |
 
 ### ReturnValue
@@ -62,21 +62,21 @@ boolean - True for success, or false.
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::MakeNUp(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::IO::Stream\>) method
+## PdfFileEditor::MakeNUp(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Makes N-Up document from the two input PDF streams to outputStream.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::MakeNUp(System::SharedPtr<System::IO::Stream> firstInputStream, System::SharedPtr<System::IO::Stream> secondInputStream, System::SharedPtr<System::IO::Stream> outputStream)
+bool Aspose::Pdf::Facades::PdfFileEditor::MakeNUp(const System::SharedPtr<System::IO::Stream> &firstInputStream, const System::SharedPtr<System::IO::Stream> &secondInputStream, const System::SharedPtr<System::IO::Stream> &outputStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| firstInputStream | System::SharedPtr\<System::IO::Stream\> | first input stream. |
-| secondInputStream | System::SharedPtr\<System::IO::Stream\> | second input stream. |
-| outputStream | System::SharedPtr\<System::IO::Stream\> | Output pdf stream. |
+| firstInputStream | const System::SharedPtr\<System::IO::Stream\>\& | first input stream. |
+| secondInputStream | const System::SharedPtr\<System::IO::Stream\>\& | second input stream. |
+| outputStream | const System::SharedPtr\<System::IO::Stream\>\& | Output pdf stream. |
 
 ### ReturnValue
 
@@ -89,80 +89,20 @@ boolean - True for success, or false.
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::MakeNUp(System::SharedPtr\<System::IO::Stream\>, int32_t, int32_t, System::SharedPtr\<PageSize\>, System::SharedPtr\<System::Web::HttpResponse\>) method
-
-
-Makes N-up document and stores result into HttpResponse object.
-
-```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::MakeNUp(System::SharedPtr<System::IO::Stream> inputStream, int32_t x, int32_t y, System::SharedPtr<PageSize> pageSize, System::SharedPtr<System::Web::HttpResponse> response)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputStream | System::SharedPtr\<System::IO::Stream\> | Stream of source document. |
-| x | int32_t | Number of columns. |
-| y | int32_t | Number of rows. |
-| pageSize | System::SharedPtr\<PageSize\> | [Page](../../../aspose.pdf/page/) size in result file. |
-| response | System::SharedPtr\<System::Web::HttpResponse\> | HttpResponse object where result will be stored. |
-
-### ReturnValue
-
-True if operation was succeeded.
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Stream](../../../system.io/stream/)
-* Class [PageSize](../../../aspose.pdf/pagesize/)
-* Class [HttpResponse](../../../system.web/httpresponse/)
-* Class [PdfFileEditor](../)
-* Namespace [Aspose::Pdf::Facades](../../)
-* Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::MakeNUp(System::SharedPtr\<System::IO::Stream\>, int32_t, int32_t, System::SharedPtr\<System::Web::HttpResponse\>) method
-
-
-Makes N-up document and stores result into HttpResponse.
-
-```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::MakeNUp(System::SharedPtr<System::IO::Stream> inputStream, int32_t x, int32_t y, System::SharedPtr<System::Web::HttpResponse> response)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| inputStream | System::SharedPtr\<System::IO::Stream\> | Stream of input document. |
-| x | int32_t | Number of columns. |
-| y | int32_t | Number of rows. |
-| response | System::SharedPtr\<System::Web::HttpResponse\> | HttpResponse where result will be stored. |
-
-### ReturnValue
-
-True if operation was succeeded.
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Stream](../../../system.io/stream/)
-* Class [HttpResponse](../../../system.web/httpresponse/)
-* Class [PdfFileEditor](../)
-* Namespace [Aspose::Pdf::Facades](../../)
-* Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::MakeNUp(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::IO::Stream\>, int32_t, int32_t) method
+## PdfFileEditor::MakeNUp(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::IO::Stream\>\&, int32_t, int32_t) method
 
 
 Makes N-Up document from the input stream and saves result into output stream.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::MakeNUp(System::SharedPtr<System::IO::Stream> inputStream, System::SharedPtr<System::IO::Stream> outputStream, int32_t x, int32_t y)
+bool Aspose::Pdf::Facades::PdfFileEditor::MakeNUp(const System::SharedPtr<System::IO::Stream> &inputStream, const System::SharedPtr<System::IO::Stream> &outputStream, int32_t x, int32_t y)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | System::SharedPtr\<System::IO::Stream\> | Input pdf stream. |
-| outputStream | System::SharedPtr\<System::IO::Stream\> | Output pdf stream. |
+| inputStream | const System::SharedPtr\<System::IO::Stream\>\& | Input pdf stream. |
+| outputStream | const System::SharedPtr\<System::IO::Stream\>\& | Output pdf stream. |
 | x | int32_t | Number of columns. |
 | y | int32_t | Number of rows. |
 
@@ -177,23 +117,23 @@ boolean - True for success, or false.
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::MakeNUp(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::IO::Stream\>, int32_t, int32_t, System::SharedPtr\<PageSize\>) method
+## PdfFileEditor::MakeNUp(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::IO::Stream\>\&, int32_t, int32_t, const System::SharedPtr\<PageSize\>\&) method
 
 
 Makes N-Up document from the first input stream to output stream.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::MakeNUp(System::SharedPtr<System::IO::Stream> inputStream, System::SharedPtr<System::IO::Stream> outputStream, int32_t x, int32_t y, System::SharedPtr<PageSize> pageSize)
+bool Aspose::Pdf::Facades::PdfFileEditor::MakeNUp(const System::SharedPtr<System::IO::Stream> &inputStream, const System::SharedPtr<System::IO::Stream> &outputStream, int32_t x, int32_t y, const System::SharedPtr<PageSize> &pageSize)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | System::SharedPtr\<System::IO::Stream\> | Input pdf stream. |
-| outputStream | System::SharedPtr\<System::IO::Stream\> | Output pdf stream. |
+| inputStream | const System::SharedPtr\<System::IO::Stream\>\& | Input pdf stream. |
+| outputStream | const System::SharedPtr\<System::IO::Stream\>\& | Output pdf stream. |
 | x | int32_t | Number of columns. |
 | y | int32_t | Number of rows. |
-| pageSize | System::SharedPtr\<PageSize\> | The page size of the output pdf file. |
+| pageSize | const System::SharedPtr\<PageSize\>\& | The page size of the output pdf file. |
 
 ### ReturnValue
 
@@ -207,49 +147,23 @@ True if operation was succeeded.
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::MakeNUp(System::String, System::String, System::String) method
-
-
-Makes N-Up document from the two input PDF files to outputFile. Each page of outputFile will contain two pages, one page is from the first input file and another is from the second input file. The two pages are piled up horizontally.
-
-```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::MakeNUp(System::String firstInputFile, System::String secondInputFile, System::String outputFile)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| firstInputFile | System::String | first input file. |
-| secondInputFile | System::String | second input file. |
-| outputFile | System::String | Output pdf file path and name. |
-
-### ReturnValue
-
-boolean - True for success, or false.
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [PdfFileEditor](../)
-* Namespace [Aspose::Pdf::Facades](../../)
-* Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::MakeNUp(System::String, int32_t, int32_t, System::SharedPtr\<PageSize\>, System::SharedPtr\<System::Web::HttpResponse\>) method
+## PdfFileEditor::MakeNUp(const System::SharedPtr\<System::IO::Stream\>\&, int32_t, int32_t, const System::SharedPtr\<PageSize\>\&, const System::SharedPtr\<System::Web::HttpResponse\>\&) method
 
 
 Makes N-up document and stores result into HttpResponse object.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::MakeNUp(System::String inputFile, int32_t x, int32_t y, System::SharedPtr<PageSize> pageSize, System::SharedPtr<System::Web::HttpResponse> response)
+bool Aspose::Pdf::Facades::PdfFileEditor::MakeNUp(const System::SharedPtr<System::IO::Stream> &inputStream, int32_t x, int32_t y, const System::SharedPtr<PageSize> &pageSize, const System::SharedPtr<System::Web::HttpResponse> &response)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | System::String | Path to source file. |
+| inputStream | const System::SharedPtr\<System::IO::Stream\>\& | Stream of source document. |
 | x | int32_t | Number of columns. |
 | y | int32_t | Number of rows. |
-| pageSize | System::SharedPtr\<PageSize\> | [Page](../../../aspose.pdf/page/) size in result file. |
-| response | System::SharedPtr\<System::Web::HttpResponse\> | HttpResponse object where result will be stored. |
+| pageSize | const System::SharedPtr\<PageSize\>\& | [Page](../../../aspose.pdf/page/) size in result file. |
+| response | const System::SharedPtr\<System::Web::HttpResponse\>\& | HttpResponse object where result will be stored. |
 
 ### ReturnValue
 
@@ -257,29 +171,29 @@ True if operation was succeeded.
 
 ## See Also
 
-* Class [String](../../../system/string/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [PageSize](../../../aspose.pdf/pagesize/)
 * Class [HttpResponse](../../../system.web/httpresponse/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::MakeNUp(System::String, int32_t, int32_t, System::SharedPtr\<System::Web::HttpResponse\>) method
+## PdfFileEditor::MakeNUp(const System::SharedPtr\<System::IO::Stream\>\&, int32_t, int32_t, const System::SharedPtr\<System::Web::HttpResponse\>\&) method
 
 
 Makes N-up document and stores result into HttpResponse.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::MakeNUp(System::String inputFile, int32_t x, int32_t y, System::SharedPtr<System::Web::HttpResponse> response)
+bool Aspose::Pdf::Facades::PdfFileEditor::MakeNUp(const System::SharedPtr<System::IO::Stream> &inputStream, int32_t x, int32_t y, const System::SharedPtr<System::Web::HttpResponse> &response)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | System::String | Source file name. |
+| inputStream | const System::SharedPtr\<System::IO::Stream\>\& | Stream of input document. |
 | x | int32_t | Number of columns. |
 | y | int32_t | Number of rows. |
-| response | System::SharedPtr\<System::Web::HttpResponse\> | HttpResponse object where result will be stored. |
+| response | const System::SharedPtr\<System::Web::HttpResponse\>\& | HttpResponse where result will be stored. |
 
 ### ReturnValue
 
@@ -287,26 +201,52 @@ True if operation was succeeded.
 
 ## See Also
 
-* Class [String](../../../system/string/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
 * Class [HttpResponse](../../../system.web/httpresponse/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::MakeNUp(System::String, System::String, int32_t, int32_t) method
+## PdfFileEditor::MakeNUp(const System::String\&, const System::String\&, const System::String\&) method
 
 
-Makes N-Up document from the firstInputFile to outputFile.
+Makes N-Up document from the two input PDF files to outputFile. Each page of outputFile will contain two pages, one page is from the first input file and another is from the second input file. The two pages are piled up horizontally.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::MakeNUp(System::String inputFile, System::String outputFile, int32_t x, int32_t y)
+bool Aspose::Pdf::Facades::PdfFileEditor::MakeNUp(const System::String &firstInputFile, const System::String &secondInputFile, const System::String &outputFile)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | System::String | Input pdf file path and name. |
-| outputFile | System::String | Output pdf file path and name. |
+| firstInputFile | const System::String\& | first input file. |
+| secondInputFile | const System::String\& | second input file. |
+| outputFile | const System::String\& | Output pdf file path and name. |
+
+### ReturnValue
+
+boolean - True for success, or false.
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [PdfFileEditor](../)
+* Namespace [Aspose::Pdf::Facades](../../)
+* Library [Aspose.PDF for C++](../../../)
+## PdfFileEditor::MakeNUp(const System::String\&, const System::String\&, int32_t, int32_t) method
+
+
+Makes N-Up document from the firstInputFile to outputFile.
+
+```cpp
+bool Aspose::Pdf::Facades::PdfFileEditor::MakeNUp(const System::String &inputFile, const System::String &outputFile, int32_t x, int32_t y)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputFile | const System::String\& | Input pdf file path and name. |
+| outputFile | const System::String\& | Output pdf file path and name. |
 | x | int32_t | Number of columns. |
 | y | int32_t | Number of rows. |
 
@@ -320,23 +260,23 @@ boolean - True for success, or false.
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::MakeNUp(System::String, System::String, int32_t, int32_t, System::SharedPtr\<PageSize\>) method
+## PdfFileEditor::MakeNUp(const System::String\&, const System::String\&, int32_t, int32_t, const System::SharedPtr\<PageSize\>\&) method
 
 
 Makes N-Up document from the input file to outputFile.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileEditor::MakeNUp(System::String inputFile, System::String outputFile, int32_t x, int32_t y, System::SharedPtr<PageSize> pageSize)
+bool Aspose::Pdf::Facades::PdfFileEditor::MakeNUp(const System::String &inputFile, const System::String &outputFile, int32_t x, int32_t y, const System::SharedPtr<PageSize> &pageSize)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | System::String | Input pdf file path and name. |
-| outputFile | System::String | Output pdf file path and name. |
+| inputFile | const System::String\& | Input pdf file path and name. |
+| outputFile | const System::String\& | Output pdf file path and name. |
 | x | int32_t | Number of columns. |
 | y | int32_t | Number of rows. |
-| pageSize | System::SharedPtr\<PageSize\> | The page size of the output pdf file. |
+| pageSize | const System::SharedPtr\<PageSize\>\& | The page size of the output pdf file. |
 
 ### ReturnValue
 
@@ -347,6 +287,66 @@ boolean - True for success, or false.
 * Class [String](../../../system/string/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [PageSize](../../../aspose.pdf/pagesize/)
+* Class [PdfFileEditor](../)
+* Namespace [Aspose::Pdf::Facades](../../)
+* Library [Aspose.PDF for C++](../../../)
+## PdfFileEditor::MakeNUp(const System::String\&, int32_t, int32_t, const System::SharedPtr\<PageSize\>\&, const System::SharedPtr\<System::Web::HttpResponse\>\&) method
+
+
+Makes N-up document and stores result into HttpResponse object.
+
+```cpp
+bool Aspose::Pdf::Facades::PdfFileEditor::MakeNUp(const System::String &inputFile, int32_t x, int32_t y, const System::SharedPtr<PageSize> &pageSize, const System::SharedPtr<System::Web::HttpResponse> &response)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputFile | const System::String\& | Path to source file. |
+| x | int32_t | Number of columns. |
+| y | int32_t | Number of rows. |
+| pageSize | const System::SharedPtr\<PageSize\>\& | [Page](../../../aspose.pdf/page/) size in result file. |
+| response | const System::SharedPtr\<System::Web::HttpResponse\>\& | HttpResponse object where result will be stored. |
+
+### ReturnValue
+
+True if operation was succeeded.
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [PageSize](../../../aspose.pdf/pagesize/)
+* Class [HttpResponse](../../../system.web/httpresponse/)
+* Class [PdfFileEditor](../)
+* Namespace [Aspose::Pdf::Facades](../../)
+* Library [Aspose.PDF for C++](../../../)
+## PdfFileEditor::MakeNUp(const System::String\&, int32_t, int32_t, const System::SharedPtr\<System::Web::HttpResponse\>\&) method
+
+
+Makes N-up document and stores result into HttpResponse.
+
+```cpp
+bool Aspose::Pdf::Facades::PdfFileEditor::MakeNUp(const System::String &inputFile, int32_t x, int32_t y, const System::SharedPtr<System::Web::HttpResponse> &response)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| inputFile | const System::String\& | Source file name. |
+| x | int32_t | Number of columns. |
+| y | int32_t | Number of rows. |
+| response | const System::SharedPtr\<System::Web::HttpResponse\>\& | HttpResponse object where result will be stored. |
+
+### ReturnValue
+
+True if operation was succeeded.
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [HttpResponse](../../../system.web/httpresponse/)
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

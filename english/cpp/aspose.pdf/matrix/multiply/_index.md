@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/matrix/multiply/
 Multiplies the matrix by other matrix.
 
 ```cpp
-System::SharedPtr<Matrix> Aspose::Pdf::Matrix::Multiply(System::SharedPtr<Matrix> other)
+System::SharedPtr<Matrix> Aspose::Pdf::Matrix::Multiply(const System::SharedPtr<Matrix> &other)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| other | System::SharedPtr\<Matrix\> | Multiplier matrix. |
+| other | const System::SharedPtr\<Matrix\>\& | Multiplier matrix. |
 
 ### ReturnValue
 

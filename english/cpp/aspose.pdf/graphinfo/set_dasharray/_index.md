@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/graphinfo/set_dasharray/
 Sets a dash array.
 
 ```cpp
-void Aspose::Pdf::GraphInfo::set_DashArray(System::ArrayPtr<int32_t> value)
+void Aspose::Pdf::GraphInfo::set_DashArray(const System::ArrayPtr<int32_t> &value)
 ```
 
 ## See Also

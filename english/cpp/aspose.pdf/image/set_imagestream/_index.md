@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/image/set_imagestream/
 Sets the image stream.
 
 ```cpp
-void Aspose::Pdf::Image::set_ImageStream(System::SharedPtr<System::IO::Stream> value)
+void Aspose::Pdf::Image::set_ImageStream(const System::SharedPtr<System::IO::Stream> &value)
 ```
 
 ## See Also

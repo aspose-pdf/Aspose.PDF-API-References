@@ -20,11 +20,11 @@ class DocumentFactory : public Aspose::Pdf::LicenseManagement::IVentureLicenseTa
 
 | Method | Description |
 | --- | --- |
-| [CreateDocument](./createdocument/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<LoadOptions\>) | Create document. |
+| [CreateDocument](./createdocument/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<LoadOptions\>\&) | Create document. |
 | [CreateDocument](./createdocument/)() | Create empty document. |
-| [CreateDocument](./createdocument/)(System::SharedPtr\<System::IO::Stream\>) | Load document from a stream. |
-| [CreateDocument](./createdocument/)(System::SharedPtr\<System::IO::Stream\>, System::String) | Load password protected document from a stream. |
-| [CreateDocument](./createdocument/)(System::String) | Load document from a file. |
+| [CreateDocument](./createdocument/)(const System::SharedPtr\<System::IO::Stream\>\&) | Load document from a stream. |
+| [CreateDocument](./createdocument/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&) | Load password protected document from a stream. |
+| [CreateDocument](./createdocument/)(const System::String\&) | Load document from a file. |
 | [DocumentFactory](./documentfactory/)() |  |
 ## See Also
 

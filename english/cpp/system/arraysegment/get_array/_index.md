@@ -13,7 +13,7 @@ url: /cpp/system/arraysegment/get_array/
 
 
 ```cpp
-System::ArrayPtr<T> System::ArraySegment<T>::get_Array()
+System::ArrayPtr<T> System::ArraySegment<T>::get_Array() const
 ```
 
 ## See Also

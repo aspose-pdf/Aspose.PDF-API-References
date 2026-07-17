@@ -7,19 +7,19 @@ type: docs
 weight: 1700
 url: /cpp/aspose.pdf.facades/pdfextractor/getnextimage/
 ---
-## PdfExtractor::GetNextImage(System::SharedPtr\<System::IO::Stream\>) method
+## PdfExtractor::GetNextImage(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Retrieve next image from PDF file and stores it into stream.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfExtractor::GetNextImage(System::SharedPtr<System::IO::Stream> outputStream)
+bool Aspose::Pdf::Facades::PdfExtractor::GetNextImage(const System::SharedPtr<System::IO::Stream> &outputStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStream | System::SharedPtr\<System::IO::Stream\> | Stream where image data will be saved |
+| outputStream | const System::SharedPtr\<System::IO::Stream\>\& | Stream where image data will be saved |
 
 ### ReturnValue
 
@@ -32,20 +32,20 @@ True in case the image is successfully extracted.
 * Class [PdfExtractor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfExtractor::GetNextImage(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::Drawing::Imaging::ImageFormat\>) method
+## PdfExtractor::GetNextImage(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::Drawing::Imaging::ImageFormat\>\&) method
 
 
 Retrieve next image from PDF file and stores it into stream with given image format.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfExtractor::GetNextImage(System::SharedPtr<System::IO::Stream> outputStream, System::SharedPtr<System::Drawing::Imaging::ImageFormat> format)
+bool Aspose::Pdf::Facades::PdfExtractor::GetNextImage(const System::SharedPtr<System::IO::Stream> &outputStream, const System::SharedPtr<System::Drawing::Imaging::ImageFormat> &format)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStream | System::SharedPtr\<System::IO::Stream\> | Stream where image data will be saved |
-| format | System::SharedPtr\<System::Drawing::Imaging::ImageFormat\> | The format of the image. |
+| outputStream | const System::SharedPtr\<System::IO::Stream\>\& | Stream where image data will be saved |
+| format | const System::SharedPtr\<System::Drawing::Imaging::ImageFormat\>\& | The format of the image. |
 
 ### ReturnValue
 
@@ -59,19 +59,19 @@ True in case the image is successfully extracted.
 * Class [PdfExtractor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfExtractor::GetNextImage(System::String) method
+## PdfExtractor::GetNextImage(const System::String\&) method
 
 
 Retrieves next image from PDF document. [Note](../../../aspose.pdf/note/): ExtractImage must be called before using of this method.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfExtractor::GetNextImage(System::String outputFile)
+bool Aspose::Pdf::Facades::PdfExtractor::GetNextImage(const System::String &outputFile)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | System::String | File where image will be stored |
+| outputFile | const System::String\& | File where image will be stored |
 
 ### ReturnValue
 
@@ -83,20 +83,20 @@ True is image is successfully extracted
 * Class [PdfExtractor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfExtractor::GetNextImage(System::String, System::SharedPtr\<System::Drawing::Imaging::ImageFormat\>) method
+## PdfExtractor::GetNextImage(const System::String\&, const System::SharedPtr\<System::Drawing::Imaging::ImageFormat\>\&) method
 
 
 Retrieves next image from PDF document with given image format. [Note](../../../aspose.pdf/note/): ExtractImage must be called before using of this method.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfExtractor::GetNextImage(System::String outputFile, System::SharedPtr<System::Drawing::Imaging::ImageFormat> format)
+bool Aspose::Pdf::Facades::PdfExtractor::GetNextImage(const System::String &outputFile, const System::SharedPtr<System::Drawing::Imaging::ImageFormat> &format)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | System::String | File where image will be stored |
-| format | System::SharedPtr\<System::Drawing::Imaging::ImageFormat\> | The format of the image. |
+| outputFile | const System::String\& | File where image will be stored |
+| format | const System::SharedPtr\<System::Drawing::Imaging::ImageFormat\>\& | The format of the image. |
 
 ### ReturnValue
 

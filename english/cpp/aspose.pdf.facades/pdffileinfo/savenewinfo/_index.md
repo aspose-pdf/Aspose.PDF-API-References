@@ -7,19 +7,19 @@ type: docs
 weight: 3300
 url: /cpp/aspose.pdf.facades/pdffileinfo/savenewinfo/
 ---
-## PdfFileInfo::SaveNewInfo(System::SharedPtr\<System::IO::Stream\>) method
+## PdfFileInfo::SaveNewInfo(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Save updated PDF document into specified stream.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileInfo::SaveNewInfo(System::SharedPtr<System::IO::Stream> outputStream)
+bool Aspose::Pdf::Facades::PdfFileInfo::SaveNewInfo(const System::SharedPtr<System::IO::Stream> &outputStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStream | System::SharedPtr\<System::IO::Stream\> | Output stream. |
+| outputStream | const System::SharedPtr\<System::IO::Stream\>\& | Output stream. |
 
 ### ReturnValue
 
@@ -35,19 +35,19 @@ Use Save(destination) method for saving facade results.
 * Class [PdfFileInfo](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileInfo::SaveNewInfo(System::String) method
+## PdfFileInfo::SaveNewInfo(const System::String\&) method
 
 
 Save updated PDF document into specified file.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileInfo::SaveNewInfo(System::String outputFile)
+bool Aspose::Pdf::Facades::PdfFileInfo::SaveNewInfo(const System::String &outputFile)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | System::String | Output file. |
+| outputFile | const System::String\& | Output file. |
 
 ### ReturnValue
 

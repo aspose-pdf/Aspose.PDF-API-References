@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.security.hiddendatasanitization/hiddendatasanitizer/sanitiz
 Sanitizes a given PDF document by removing or transforming hidden data.
 
 ```cpp
-void Aspose::Pdf::Security::HiddenDataSanitization::HiddenDataSanitizer::Sanitize(System::SharedPtr<Document> document)
+void Aspose::Pdf::Security::HiddenDataSanitization::HiddenDataSanitizer::Sanitize(const System::SharedPtr<Document> &document)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Document\> | The PDF document to be sanitized. |
+| document | const System::SharedPtr\<Document\>\& | The PDF document to be sanitized. |
 
 ## See Also
 

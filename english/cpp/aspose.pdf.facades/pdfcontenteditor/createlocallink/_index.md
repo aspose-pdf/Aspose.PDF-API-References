@@ -53,13 +53,13 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreateLocalLink(System::Drawing::Re
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfContentEditor::CreateLocalLink(System::Drawing::Rectangle, int32_t, int32_t, System::Drawing::Color, System::ArrayPtr\<System::SharedPtr\<System::BoxedValueBase\>\>) method
+## PdfContentEditor::CreateLocalLink(System::Drawing::Rectangle, int32_t, int32_t, System::Drawing::Color, const System::ArrayPtr\<System::SharedPtr\<System::BoxedValueBase\>\>\&) method
 
 
 Creates a local link in PDF document.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfContentEditor::CreateLocalLink(System::Drawing::Rectangle rect, int32_t desPage, int32_t originalPage, System::Drawing::Color clr, System::ArrayPtr<System::SharedPtr<System::BoxedValueBase>> actionName)
+void Aspose::Pdf::Facades::PdfContentEditor::CreateLocalLink(System::Drawing::Rectangle rect, int32_t desPage, int32_t originalPage, System::Drawing::Color clr, const System::ArrayPtr<System::SharedPtr<System::BoxedValueBase>> &actionName)
 ```
 
 
@@ -69,7 +69,7 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreateLocalLink(System::Drawing::Re
 | desPage | int32_t | The destination page. |
 | originalPage | int32_t | The number of original page where rectangle bound with local link will be created. |
 | clr | System::Drawing::Color | The colour of rectangle for active click. |
-| actionName | System::ArrayPtr\<System::SharedPtr\<System::BoxedValueBase\>\> | The array of actions (members of PredefinedAction enum) corresponding to executing menu items in Acrobat viewer. |
+| actionName | const System::ArrayPtr\<System::SharedPtr\<System::BoxedValueBase\>\>\& | The array of actions (members of PredefinedAction enum) corresponding to executing menu items in Acrobat viewer. |
 
 ## See Also
 

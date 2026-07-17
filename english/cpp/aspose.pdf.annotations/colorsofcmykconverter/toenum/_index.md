@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/colorsofcmykconverter/toenum/
 
 
 ```cpp
-static ColorsOfCMYK Aspose::Pdf::Annotations::ColorsOfCMYKConverter::ToEnum(System::String color)
+static ColorsOfCMYK Aspose::Pdf::Annotations::ColorsOfCMYKConverter::ToEnum(const System::String &color)
 ```
 
 ## See Also

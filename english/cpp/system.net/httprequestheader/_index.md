@@ -57,7 +57,7 @@ enum class HttpRequestHeader
 | MaxForwards | 34 | The 'Max-Forwards' header. |
 | ProxyAuthorization | 35 | The 'Proxy-Authorization' header. |
 | Referer | 36 | The 'Referer' header. |
-| Range | 37 | The 'Range' header. |
+| Range | 37 | The '[Range](../../system/range/)' header. |
 | Te | 38 | The 'TE' header. |
 | Translate | 39 | The 'Translate' header. |
 | UserAgent | 40 | The 'User-Agent' header. |

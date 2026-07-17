@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmpfield/set_localname/
 Sets the name of the local.
 
 ```cpp
-void Aspose::Pdf::XmpField::set_LocalName(System::String value)
+void Aspose::Pdf::XmpField::set_LocalName(const System::String &value)
 ```
 
 ## Remarks

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.forms/form/makeformannotationsindependent/
 Makes form fields annotations independent.
 
 ```cpp
-void Aspose::Pdf::Forms::Form::MakeFormAnnotationsIndependent(System::SharedPtr<Page> page)
+void Aspose::Pdf::Forms::Form::MakeFormAnnotationsIndependent(const System::SharedPtr<Page> &page)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Page\> | The target page. |
+| page | const System::SharedPtr\<Page\>\& | The target page. |
 
 ## See Also
 

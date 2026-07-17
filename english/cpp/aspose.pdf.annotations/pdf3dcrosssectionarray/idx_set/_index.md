@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.annotations/pdf3dcrosssectionarray/idx_set/
 Sets the [PDF3DCrossSection](../../pdf3dcrosssection/) at the specified index.
 
 ```cpp
-void Aspose::Pdf::Annotations::PDF3DCrossSectionArray::idx_set(int32_t index, System::SharedPtr<PDF3DCrossSection> value)
+void Aspose::Pdf::Annotations::PDF3DCrossSectionArray::idx_set(int32_t index, const System::SharedPtr<PDF3DCrossSection> &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | index | int32_t | The index. |
-| value | System::SharedPtr\<PDF3DCrossSection\> | Cross section. |
+| value | const System::SharedPtr\<PDF3DCrossSection\>\& | Cross section. |
 
 ## See Also
 

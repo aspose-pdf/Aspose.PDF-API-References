@@ -19,7 +19,7 @@ bool System::Collections::BitArray::Get(int index) const
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index of bit to get. |
+| index | int | [Index](../../../system/index/) of bit to get. |
 
 ### ReturnValue
 

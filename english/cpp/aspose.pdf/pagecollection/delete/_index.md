@@ -21,6 +21,26 @@ void Aspose::Pdf::PageCollection::Delete()
 * Class [PageCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
+## PageCollection::Delete(const System::ArrayPtr\<int32_t\>\&) method
+
+
+Delete pages specified which numbers are specified in array.
+
+```cpp
+void Aspose::Pdf::PageCollection::Delete(const System::ArrayPtr<int32_t> &pages)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| pages | const System::ArrayPtr\<int32_t\>\& | Array of pages to be deleted. |
+
+## See Also
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [PageCollection](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## PageCollection::Delete(int32_t) method
 
 
@@ -37,26 +57,6 @@ void Aspose::Pdf::PageCollection::Delete(int32_t index)
 
 ## See Also
 
-* Class [PageCollection](../)
-* Namespace [Aspose::Pdf](../../)
-* Library [Aspose.PDF for C++](../../../)
-## PageCollection::Delete(System::ArrayPtr\<int32_t\>) method
-
-
-Delete pages specified which numbers are specified in array.
-
-```cpp
-void Aspose::Pdf::PageCollection::Delete(System::ArrayPtr<int32_t> pages)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| pages | System::ArrayPtr\<int32_t\> | Array of pages to be deleted. |
-
-## See Also
-
-* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [PageCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

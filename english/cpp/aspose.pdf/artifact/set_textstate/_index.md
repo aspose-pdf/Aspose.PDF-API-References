@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/artifact/set_textstate/
 [Text](../../../aspose.pdf.text/) state for artifact text.
 
 ```cpp
-void Aspose::Pdf::Artifact::set_TextState(System::SharedPtr<Aspose::Pdf::Text::TextState> value)
+void Aspose::Pdf::Artifact::set_TextState(const System::SharedPtr<Aspose::Pdf::Text::TextState> &value)
 ```
 
 ## See Also

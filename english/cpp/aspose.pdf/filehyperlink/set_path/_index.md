@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/filehyperlink/set_path/
 Sets the path to file.
 
 ```cpp
-void Aspose::Pdf::FileHyperlink::set_Path(System::String value)
+void Aspose::Pdf::FileHyperlink::set_Path(const System::String &value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/autofiller/set_generatingpath/
 Sets the Generating Path of the small pdf files if many small pdf files to be generated. It works with another property [BasicFileName](../)BasicFileName. One of the four output modes.
 
 ```cpp
-void Aspose::Pdf::Facades::AutoFiller::set_GeneratingPath(System::String value)
+void Aspose::Pdf::Facades::AutoFiller::set_GeneratingPath(const System::String &value)
 ```
 
 ## See Also

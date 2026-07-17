@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfcontenteditor/set_texteditoptions/
 Sets text edit options.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfContentEditor::set_TextEditOptions(System::SharedPtr<Aspose::Pdf::Text::TextEditOptions> value)
+void Aspose::Pdf::Facades::PdfContentEditor::set_TextEditOptions(const System::SharedPtr<Aspose::Pdf::Text::TextEditOptions> &value)
 ```
 
 ## See Also

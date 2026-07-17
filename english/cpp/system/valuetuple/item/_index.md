@@ -23,6 +23,7 @@ template<std::size_t> std::tuple_element_t<Index, tuple_t> & System::ValueTuple<
 
 ## See Also
 
+* Class [Index](../../index/)
 * Class [ValueTuple](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -42,6 +43,7 @@ template<std::size_t> const std::tuple_element_t<Index, tuple_t> & System::Value
 
 ## See Also
 
+* Class [Index](../../index/)
 * Class [ValueTuple](../)
 * Namespace [System](../../)
 * Library [Aspose.PDF for C++](../../../)

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilestamp/set_outputstream/
 Sets output stream.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileStamp::set_OutputStream(System::SharedPtr<System::IO::Stream> value)
+void Aspose::Pdf::Facades::PdfFileStamp::set_OutputStream(const System::SharedPtr<System::IO::Stream> &value)
 ```
 
 

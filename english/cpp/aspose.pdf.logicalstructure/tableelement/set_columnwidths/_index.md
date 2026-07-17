@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tableelement/set_columnwidths/
 Gets the column widths of the table.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::TableElement::set_ColumnWidths(System::String value)
+void Aspose::Pdf::LogicalStructure::TableElement::set_ColumnWidths(const System::String &value)
 ```
 
 ## See Also

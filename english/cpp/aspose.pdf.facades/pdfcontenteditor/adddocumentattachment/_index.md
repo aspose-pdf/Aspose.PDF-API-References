@@ -7,21 +7,21 @@ type: docs
 weight: 300
 url: /cpp/aspose.pdf.facades/pdfcontenteditor/adddocumentattachment/
 ---
-## PdfContentEditor::AddDocumentAttachment(System::SharedPtr\<System::IO::Stream\>, System::String, System::String) method
+## PdfContentEditor::AddDocumentAttachment(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&, const System::String\&) method
 
 
 Adds document attachment with no annotation.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfContentEditor::AddDocumentAttachment(System::SharedPtr<System::IO::Stream> fileAttachmentStream, System::String fileAttachmentName, System::String description)
+void Aspose::Pdf::Facades::PdfContentEditor::AddDocumentAttachment(const System::SharedPtr<System::IO::Stream> &fileAttachmentStream, const System::String &fileAttachmentName, const System::String &description)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileAttachmentStream | System::SharedPtr\<System::IO::Stream\> | The stream of the file will be attached. |
-| fileAttachmentName | System::String | The attachment name. |
-| description | System::String | The description information. |
+| fileAttachmentStream | const System::SharedPtr\<System::IO::Stream\>\& | The stream of the file will be attached. |
+| fileAttachmentName | const System::String\& | The attachment name. |
+| description | const System::String\& | The description information. |
 
 ## See Also
 
@@ -31,20 +31,20 @@ void Aspose::Pdf::Facades::PdfContentEditor::AddDocumentAttachment(System::Share
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfContentEditor::AddDocumentAttachment(System::String, System::String) method
+## PdfContentEditor::AddDocumentAttachment(const System::String\&, const System::String\&) method
 
 
 Adds document attachment with no annotation.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfContentEditor::AddDocumentAttachment(System::String fileAttachmentPath, System::String description)
+void Aspose::Pdf::Facades::PdfContentEditor::AddDocumentAttachment(const System::String &fileAttachmentPath, const System::String &description)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fileAttachmentPath | System::String | The path of the file will be attached. |
-| description | System::String | The description information. |
+| fileAttachmentPath | const System::String\& | The path of the file will be attached. |
+| description | const System::String\& | The description information. |
 
 ## See Also
 

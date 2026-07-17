@@ -25,7 +25,7 @@ class PsSaveOptions : public Aspose::Pdf::UnifiedSaveOptions
 | [PsSaveOptions](./pssaveoptions/)() | Constructor. |
 | [PsSaveOptions](./pssaveoptions/)(Aspose::Pdf::SaveFormat) | Constructor. |
 | [set_EmbedFont](./set_embedfont/)(bool) | Gets/sets flag that indicates if fonts must be embedded in resulting PS document. |
-| [set_EmbedFontAs](./set_embedfontas/)(System::String) | Gets/sets type in which fonts must be embedded in resulting PS document. |
+| [set_EmbedFontAs](./set_embedfontas/)(const System::String\&) | Gets/sets type in which fonts must be embedded in resulting PS document. |
 ## See Also
 
 * Class [UnifiedSaveOptions](../unifiedsaveoptions/)

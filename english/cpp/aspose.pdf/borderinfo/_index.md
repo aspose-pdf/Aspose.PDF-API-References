@@ -20,23 +20,23 @@ class BorderInfo : public System::ICloneable
 
 | Method | Description |
 | --- | --- |
-| [BorderInfo](./borderinfo/)(BorderSide, System::SharedPtr\<Color\>) | Initializes a new instance of the [BorderInfo](./) class. |
+| [BorderInfo](./borderinfo/)(BorderSide, const System::SharedPtr\<Color\>\&) | Initializes a new instance of the [BorderInfo](./) class. |
 | [BorderInfo](./borderinfo/)() | Initializes a new instance of the [BorderInfo](./) class. |
 | [BorderInfo](./borderinfo/)(BorderSide) | Initializes a new instance of the [BorderInfo](./) class. |
 | [BorderInfo](./borderinfo/)(BorderSide, float) | Initializes a new instance of the [BorderInfo](./) class. |
-| [BorderInfo](./borderinfo/)(BorderSide, float, System::SharedPtr\<Color\>) | Initializes a new instance of the [BorderInfo](./) class. |
-| [BorderInfo](./borderinfo/)(BorderSide, System::SharedPtr\<GraphInfo\>) | Initializes a new instance of the [BorderInfo](./) class. |
+| [BorderInfo](./borderinfo/)(BorderSide, float, const System::SharedPtr\<Color\>\&) | Initializes a new instance of the [BorderInfo](./) class. |
+| [BorderInfo](./borderinfo/)(BorderSide, const System::SharedPtr\<GraphInfo\>\&) | Initializes a new instance of the [BorderInfo](./) class. |
 | [Clone](./clone/)() override | Clones a new [BorderInfo](./) object. |
 | [get_Bottom](./get_bottom/)() const | Gets a object that indicates bottom of the border. |
 | [get_Left](./get_left/)() const | Gets a object that indicates left of the border. |
 | [get_Right](./get_right/)() const | Gets a object that indicates right of the border. |
 | [get_RoundedBorderRadius](./get_roundedborderradius/)() const | Gets a rouded border radius. |
 | [get_Top](./get_top/)() const | Gets a object that indicates the top border. |
-| [set_Bottom](./set_bottom/)(System::SharedPtr\<GraphInfo\>) | Sets a object that indicates bottom of the border. |
-| [set_Left](./set_left/)(System::SharedPtr\<GraphInfo\>) | Sets a object that indicates left of the border. |
-| [set_Right](./set_right/)(System::SharedPtr\<GraphInfo\>) | Sets a object that indicates right of the border. |
+| [set_Bottom](./set_bottom/)(const System::SharedPtr\<GraphInfo\>\&) | Sets a object that indicates bottom of the border. |
+| [set_Left](./set_left/)(const System::SharedPtr\<GraphInfo\>\&) | Sets a object that indicates left of the border. |
+| [set_Right](./set_right/)(const System::SharedPtr\<GraphInfo\>\&) | Sets a object that indicates right of the border. |
 | [set_RoundedBorderRadius](./set_roundedborderradius/)(double) | Sets a rouded border radius. |
-| [set_Top](./set_top/)(System::SharedPtr\<GraphInfo\>) | Sets a object that indicates the top border. |
+| [set_Top](./set_top/)(const System::SharedPtr\<GraphInfo\>\&) | Sets a object that indicates the top border. |
 ## See Also
 
 * Class [ICloneable](../../system/icloneable/)

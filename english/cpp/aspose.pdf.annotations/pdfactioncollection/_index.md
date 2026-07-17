@@ -20,7 +20,7 @@ class PdfActionCollection : public System::Collections::Generic::IEnumerable<Sys
 
 | Method | Description |
 | --- | --- |
-| [Add](./add/)(System::SharedPtr\<PdfAction\>) | Add action to action list. |
+| [Add](./add/)(const System::SharedPtr\<PdfAction\>\&) | Add action to action list. |
 | [Delete](./delete/)(int32_t) | Remove action by index. |
 | [get_Count](./get_count/)() | Gets count of actions. |
 | [GetEnumerator](./getenumerator/)() override | Gets enumerator. |

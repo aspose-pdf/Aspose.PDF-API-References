@@ -19,7 +19,7 @@ virtual void System::Object::SetTemplateWeakPtr(uint32_t argument)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| argument | uint32_t | Index of template argument to treat as weak poiner. |
+| argument | uint32_t | [Index](../../index/) of template argument to treat as weak poiner. |
 
 ## See Also
 

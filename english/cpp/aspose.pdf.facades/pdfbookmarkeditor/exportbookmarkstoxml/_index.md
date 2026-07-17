@@ -7,19 +7,19 @@ type: docs
 weight: 500
 url: /cpp/aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstoxml/
 ---
-## PdfBookmarkEditor::ExportBookmarksToXML(System::SharedPtr\<System::IO::Stream\>) method
+## PdfBookmarkEditor::ExportBookmarksToXML(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Exports bookmarks to XML stream.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfBookmarkEditor::ExportBookmarksToXML(System::SharedPtr<System::IO::Stream> stream)
+void Aspose::Pdf::Facades::PdfBookmarkEditor::ExportBookmarksToXML(const System::SharedPtr<System::IO::Stream> &stream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | System::SharedPtr\<System::IO::Stream\> | Output stream where data will be stored. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | Output stream where data will be stored. |
 
 ## See Also
 
@@ -28,19 +28,19 @@ void Aspose::Pdf::Facades::PdfBookmarkEditor::ExportBookmarksToXML(System::Share
 * Class [PdfBookmarkEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfBookmarkEditor::ExportBookmarksToXML(System::String) method
+## PdfBookmarkEditor::ExportBookmarksToXML(const System::String\&) method
 
 
 Exports bookmarks to XML file.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfBookmarkEditor::ExportBookmarksToXML(System::String xmlFile)
+void Aspose::Pdf::Facades::PdfBookmarkEditor::ExportBookmarksToXML(const System::String &xmlFile)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xmlFile | System::String | The output XML file. |
+| xmlFile | const System::String\& | The output XML file. |
 
 ## See Also
 

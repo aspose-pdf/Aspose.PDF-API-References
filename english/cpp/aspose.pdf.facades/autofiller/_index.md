@@ -36,14 +36,14 @@ class AutoFiller : public Aspose::Pdf::Facades::ISaveableFacade
 | [Save](./save/)() | Saves all the pdfs. |
 | [Save](./save/)(System::String) override | Saves all the pdfs. |
 | [Save](./save/)(System::SharedPtr\<System::IO::Stream\>) override | Saves all the pdfs. |
-| [set_BasicFileName](./set_basicfilename/)(System::String) | Sets the basic file name if many small files will be generated. The generated file will be like "BasicFileName0","BasicFileName1",... It works with another property [GeneratingPath](../)GeneratingPath. |
-| [set_GeneratingPath](./set_generatingpath/)(System::String) | Sets the Generating Path of the small pdf files if many small pdf files to be generated. It works with another property [BasicFileName](../)BasicFileName. One of the four output modes. |
-| [set_InputFileName](./set_inputfilename/)(System::String) | Sets the input template file. One of two input modes. |
-| [set_InputStream](./set_inputstream/)(System::SharedPtr\<System::IO::Stream\>) | Sets the input template stream. One of two input modes. |
-| [set_OutputFileName](./set_outputfilename/)(System::String) | Sets the one big merged output file. One of the four output modes. |
-| [set_OutputStream](./set_outputstream/)(System::SharedPtr\<System::IO::Stream\>) | Sets the OutputStream. One of four output modes. Its classical use case is Response.OutputStream. Please refer to the online demo. |
-| [set_OutputStreams](./set_outputstreams/)(System::ArrayPtr\<System::SharedPtr\<System::IO::Stream\>\>) | Sets the many Output Streams. One of four output modes. |
-| [set_UnFlattenFields](./set_unflattenfields/)(System::ArrayPtr\<System::String\>) | Sets the fields which will not be flattened. If this property is not set, all the fields will be flattened. |
+| [set_BasicFileName](./set_basicfilename/)(const System::String\&) | Sets the basic file name if many small files will be generated. The generated file will be like "BasicFileName0","BasicFileName1",... It works with another property [GeneratingPath](../)GeneratingPath. |
+| [set_GeneratingPath](./set_generatingpath/)(const System::String\&) | Sets the Generating Path of the small pdf files if many small pdf files to be generated. It works with another property [BasicFileName](../)BasicFileName. One of the four output modes. |
+| [set_InputFileName](./set_inputfilename/)(const System::String\&) | Sets the input template file. One of two input modes. |
+| [set_InputStream](./set_inputstream/)(const System::SharedPtr\<System::IO::Stream\>\&) | Sets the input template stream. One of two input modes. |
+| [set_OutputFileName](./set_outputfilename/)(const System::String\&) | Sets the one big merged output file. One of the four output modes. |
+| [set_OutputStream](./set_outputstream/)(const System::SharedPtr\<System::IO::Stream\>\&) | Sets the OutputStream. One of four output modes. Its classical use case is Response.OutputStream. Please refer to the online demo. |
+| [set_OutputStreams](./set_outputstreams/)(const System::ArrayPtr\<System::SharedPtr\<System::IO::Stream\>\>\&) | Sets the many Output Streams. One of four output modes. |
+| [set_UnFlattenFields](./set_unflattenfields/)(const System::ArrayPtr\<System::String\>\&) | Sets the fields which will not be flattened. If this property is not set, all the fields will be flattened. |
 ## See Also
 
 * Class [ISaveableFacade](../isaveablefacade/)

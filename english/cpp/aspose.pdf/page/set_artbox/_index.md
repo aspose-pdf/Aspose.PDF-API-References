@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/set_artbox/
 Sets art box of the page.
 
 ```cpp
-void Aspose::Pdf::Page::set_ArtBox(System::SharedPtr<Aspose::Pdf::Rectangle> value)
+void Aspose::Pdf::Page::set_ArtBox(const System::SharedPtr<Aspose::Pdf::Rectangle> &value)
 ```
 
 ## See Also

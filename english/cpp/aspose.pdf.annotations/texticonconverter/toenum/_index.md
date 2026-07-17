@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/texticonconverter/toenum/
 
 
 ```cpp
-static TextIcon Aspose::Pdf::Annotations::TextIconConverter::ToEnum(System::String value)
+static TextIcon Aspose::Pdf::Annotations::TextIconConverter::ToEnum(const System::String &value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmppdfaextensionobject/set_value/
 Sets the value.
 
 ```cpp
-void Aspose::Pdf::XmpPdfAExtensionObject::set_Value(System::String value)
+void Aspose::Pdf::XmpPdfAExtensionObject::set_Value(const System::String &value)
 ```
 
 ## See Also

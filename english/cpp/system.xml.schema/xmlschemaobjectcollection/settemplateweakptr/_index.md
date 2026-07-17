@@ -19,7 +19,7 @@ void System::Xml::Schema::XmlSchemaObjectCollection::SetTemplateWeakPtr(uint32_t
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| argument | uint32_t | Index of template argument to treat as weak poiner. |
+| argument | uint32_t | [Index](../../../system/index/) of template argument to treat as weak poiner. |
 
 ## See Also
 

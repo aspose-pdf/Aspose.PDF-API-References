@@ -19,7 +19,7 @@ std::vector<T>::reference System::Collections::Generic::ListPtr<T>::operator[](i
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| idx | int | Index to access element from. |
+| idx | int | [Index](../../../system/index/) to access element from. |
 
 ### ReturnValue
 
@@ -42,7 +42,7 @@ std::vector<T>::const_reference System::Collections::Generic::ListPtr<T>::operat
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| idx | int | Index to access element from. |
+| idx | int | [Index](../../../system/index/) to access element from. |
 
 ### ReturnValue
 

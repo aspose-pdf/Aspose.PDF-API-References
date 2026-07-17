@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/measure/numberformat/numberformat/
 Constructor for [NumberFormat](../) class.
 
 ```cpp
-Aspose::Pdf::Annotations::Measure::NumberFormat::NumberFormat(System::SharedPtr<Measure> measure)
+Aspose::Pdf::Annotations::Measure::NumberFormat::NumberFormat(const System::SharedPtr<Measure> &measure)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| measure | System::SharedPtr\<Measure\> | [Measure](../../) object which contains this number format. |
+| measure | const System::SharedPtr\<Measure\>\& | [Measure](../../) object which contains this number format. |
 
 ## See Also
 

@@ -7,19 +7,19 @@ type: docs
 weight: 200
 url: /cpp/aspose.pdf.forms/checkboxfield/addoption/
 ---
-## CheckboxField::AddOption(System::String) method
+## CheckboxField::AddOption(const System::String\&) method
 
 
 Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time. The new checkbox is added to the bottom of the group.
 
 ```cpp
-void Aspose::Pdf::Forms::CheckboxField::AddOption(System::String optionName)
+void Aspose::Pdf::Forms::CheckboxField::AddOption(const System::String &optionName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| optionName | System::String | Value of the option represented by added checkbox. |
+| optionName | const System::String\& | Value of the option represented by added checkbox. |
 
 ## See Also
 
@@ -27,21 +27,20 @@ void Aspose::Pdf::Forms::CheckboxField::AddOption(System::String optionName)
 * Class [CheckboxField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## CheckboxField::AddOption(System::String, int32_t, System::SharedPtr\<Rectangle\>) method
+## CheckboxField::AddOption(const System::String\&, const System::SharedPtr\<Rectangle\>\&) method
 
 
 Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time.
 
 ```cpp
-void Aspose::Pdf::Forms::CheckboxField::AddOption(System::String optionName, int32_t page, System::SharedPtr<Rectangle> rect)
+void Aspose::Pdf::Forms::CheckboxField::AddOption(const System::String &optionName, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| optionName | System::String | Value of the option represented by added checkbox. |
-| page | int32_t | Number of the page where the added checkbox should be placed. |
-| rect | System::SharedPtr\<Rectangle\> | [Rectangle](../../../aspose.pdf/rectangle/) of the added checkbox on the page. |
+| optionName | const System::String\& | Value of the option represented by added checkbox. |
+| rect | const System::SharedPtr\<Rectangle\>\& | [Rectangle](../../../aspose.pdf/rectangle/) of the added checkbox. |
 
 ## See Also
 
@@ -51,20 +50,21 @@ void Aspose::Pdf::Forms::CheckboxField::AddOption(System::String optionName, int
 * Class [CheckboxField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## CheckboxField::AddOption(System::String, System::SharedPtr\<Rectangle\>) method
+## CheckboxField::AddOption(const System::String\&, int32_t, const System::SharedPtr\<Rectangle\>\&) method
 
 
 Adds new checkbox into a checkbox group, in which at most one of the checkboxes may be checked at any time.
 
 ```cpp
-void Aspose::Pdf::Forms::CheckboxField::AddOption(System::String optionName, System::SharedPtr<Rectangle> rect)
+void Aspose::Pdf::Forms::CheckboxField::AddOption(const System::String &optionName, int32_t page, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| optionName | System::String | Value of the option represented by added checkbox. |
-| rect | System::SharedPtr\<Rectangle\> | [Rectangle](../../../aspose.pdf/rectangle/) of the added checkbox. |
+| optionName | const System::String\& | Value of the option represented by added checkbox. |
+| page | int32_t | Number of the page where the added checkbox should be placed. |
+| rect | const System::SharedPtr\<Rectangle\>\& | [Rectangle](../../../aspose.pdf/rectangle/) of the added checkbox on the page. |
 
 ## See Also
 

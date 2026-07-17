@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/xmppdfaextensionvaluetype/add/
 Add new field.
 
 ```cpp
-void Aspose::Pdf::XmpPdfAExtensionValueType::Add(System::SharedPtr<XmpPdfAExtensionField> field)
+void Aspose::Pdf::XmpPdfAExtensionValueType::Add(const System::SharedPtr<XmpPdfAExtensionField> &field)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| field | System::SharedPtr\<XmpPdfAExtensionField\> | The field to add. |
+| field | const System::SharedPtr\<XmpPdfAExtensionField\>\& | The field to add. |
 
 ## See Also
 

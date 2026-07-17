@@ -22,19 +22,19 @@ Aspose::Pdf::SaveOptions::MarginInfo::MarginInfo()
 * Class [SaveOptions](../../)
 * Namespace [Aspose::Pdf](../../../)
 * Library [Aspose.PDF for C++](../../../../)
-## MarginInfo::MarginInfo(System::SharedPtr\<SaveOptions::MarginPartStyle\>) constructor
+## MarginInfo::MarginInfo(const System::SharedPtr\<SaveOptions::MarginPartStyle\>\&) constructor
 
 
 Creates instance of [MarginInfo](../) class and initializes all elements of page margin(Top, Left, Right, Bottom) with attributes copied from supplied margin style.
 
 ```cpp
-Aspose::Pdf::SaveOptions::MarginInfo::MarginInfo(System::SharedPtr<SaveOptions::MarginPartStyle> commonMargin)
+Aspose::Pdf::SaveOptions::MarginInfo::MarginInfo(const System::SharedPtr<SaveOptions::MarginPartStyle> &commonMargin)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| commonMargin | System::SharedPtr\<SaveOptions::MarginPartStyle\> | style of margin parts that will be used for all elements of margin(left, right, top, bottom) |
+| commonMargin | const System::SharedPtr\<SaveOptions::MarginPartStyle\>\& | style of margin parts that will be used for all elements of margin(left, right, top, bottom) |
 
 ## See Also
 

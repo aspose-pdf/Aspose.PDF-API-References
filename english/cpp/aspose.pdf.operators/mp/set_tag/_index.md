@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/mp/set_tag/
 Sets marked content tag.
 
 ```cpp
-void Aspose::Pdf::Operators::MP::set_Tag(System::String value)
+void Aspose::Pdf::Operators::MP::set_Tag(const System::String &value)
 ```
 
 ## See Also

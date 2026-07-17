@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf/artifact/setlinesandstate/
 Set text and text properties of the artifact. Allows to specify multiple lines.
 
 ```cpp
-void Aspose::Pdf::Artifact::SetLinesAndState(System::ArrayPtr<System::String> text, System::SharedPtr<Aspose::Pdf::Text::TextState> textState)
+void Aspose::Pdf::Artifact::SetLinesAndState(const System::ArrayPtr<System::String> &text, const System::SharedPtr<Aspose::Pdf::Text::TextState> &textState)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | System::ArrayPtr\<System::String\> | Array of text string. |
-| textState | System::SharedPtr\<Aspose::Pdf::Text::TextState\> | [Text](../../../aspose.pdf.text/) properties. |
+| text | const System::ArrayPtr\<System::String\>\& | Array of text string. |
+| textState | const System::SharedPtr\<Aspose::Pdf::Text::TextState\>\& | [Text](../../../aspose.pdf.text/) properties. |
 
 ## See Also
 

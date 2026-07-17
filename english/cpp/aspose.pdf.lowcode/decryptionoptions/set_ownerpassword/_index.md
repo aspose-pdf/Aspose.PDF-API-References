@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/decryptionoptions/set_ownerpassword/
 Owner password.
 
 ```cpp
-void Aspose::Pdf::LowCode::DecryptionOptions::set_OwnerPassword(System::String value)
+void Aspose::Pdf::LowCode::DecryptionOptions::set_OwnerPassword(const System::String &value)
 ```
 
 ## See Also

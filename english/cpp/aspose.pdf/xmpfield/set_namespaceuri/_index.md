@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmpfield/set_namespaceuri/
 Gets the namespace URI.
 
 ```cpp
-void Aspose::Pdf::XmpField::set_NamespaceUri(System::String value)
+void Aspose::Pdf::XmpField::set_NamespaceUri(const System::String &value)
 ```
 
 ## Remarks

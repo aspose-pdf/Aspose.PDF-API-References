@@ -35,6 +35,9 @@ template<typename T>class IEnumerable : public virtual System::Object
 | [LINQ_All](./linq_all/)(std::function\<bool(T)>) | Determines whether all elements of a sequence satisfy a condition. |
 | [LINQ_Any](./linq_any/)() | Determines whether a sequence contains any elements. |
 | [LINQ_Any](./linq_any/)(std::function\<bool(T)>) | Determines whether any element of a sequence exists or satisfies a condition. |
+| [LINQ_Average](./linq_average/)() | Computes the average of a sequence of numeric values. |
+| [LINQ_Average](./linq_average/)(const Func\<T, ResultType\>\&) | Computes the average of a sequence of values that are obtained by invoking a transform function on each element of the input sequence. |
+| [LINQ_Average](./linq_average/)(const Func\<Source, ResultType\>\&) |  |
 | [LINQ_Cast](./linq_cast/)() | Casts the elements to the specified type. |
 | [LINQ_Cast](./linq_cast/)() |  |
 | [LINQ_Concat](./linq_concat/)(SharedPtr\<IEnumerable\<T\>\>) | Concatenates two sequences. |
@@ -70,6 +73,7 @@ template<typename T>class IEnumerable : public virtual System::Object
 | [LINQ_Select](./linq_select/)(const Func\<Source, int32_t, Result\>\&) |  |
 | [LINQ_SelectMany](./linq_selectmany/)(const Func\<T, SharedPtr\<IEnumerable\<ResultType\>\>\>\&) | Projects each element of a sequence and combines the resulting sequences into one sequence. |
 | [LINQ_SelectMany](./linq_selectmany/)(const Func\<Source, SharedPtr\<IEnumerable\<Result\>\>\>\&) |  |
+| [LINQ_Skip](./linq_skip/)(int32_t) | Skip a specified number of contiguous elements from the start of a sequence and returns rest. |
 | [LINQ_Take](./linq_take/)(int32_t) | Returns a specified number of contiguous elements from the start of a sequence. |
 | [LINQ_ToArray](./linq_toarray/)() | Creates an array from a sequence. |
 | [LINQ_ToList](./linq_tolist/)() | Creates a [List<T>](../list/) from a sequence. |

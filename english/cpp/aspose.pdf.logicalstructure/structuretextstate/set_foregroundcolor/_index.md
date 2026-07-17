@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structuretextstate/set_foregroundcolor/
 Sets foreground color of the text.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::StructureTextState::set_ForegroundColor(System::SharedPtr<Color> value)
+void Aspose::Pdf::LogicalStructure::StructureTextState::set_ForegroundColor(const System::SharedPtr<Color> &value)
 ```
 
 ## Remarks

@@ -20,8 +20,8 @@ class CertificateEncryptionOptions : public System::Object
 
 | Method | Description |
 | --- | --- |
-| [CertificateEncryptionOptions](./certificateencryptionoptions/)(System::String, System::String, System::String) | Creates an instance of [CertificateEncryptionOptions](./) class. |
-| [CertificateEncryptionOptions](./certificateencryptionoptions/)(System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\>, System::String, System::String) | Creates an instance of [CertificateEncryptionOptions](./) class. |
+| [CertificateEncryptionOptions](./certificateencryptionoptions/)(const System::String\&, const System::String\&, const System::String\&) | Creates an instance of [CertificateEncryptionOptions](./) class. |
+| [CertificateEncryptionOptions](./certificateencryptionoptions/)(const System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\>\&, const System::String\&, const System::String\&) | Creates an instance of [CertificateEncryptionOptions](./) class. |
 ## See Also
 
 * Class [Object](../../system/object/)

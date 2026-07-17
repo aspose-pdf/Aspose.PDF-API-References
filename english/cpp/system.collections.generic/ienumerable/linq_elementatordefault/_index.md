@@ -4,7 +4,7 @@ linktitle: LINQ_ElementAtOrDefault
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IEnumerable::LINQ_ElementAtOrDefault method. Returns the element at a specified index in a sequence in C++.'
 type: docs
-weight: 1400
+weight: 1500
 url: /cpp/system.collections.generic/ienumerable/linq_elementatordefault/
 ---
 ## IEnumerable::LINQ_ElementAtOrDefault method
@@ -19,7 +19,7 @@ T System::Collections::Generic::IEnumerable<T>::LINQ_ElementAtOrDefault(int inde
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to get element at. |
+| index | int | [Index](../../../system/index/) to get element at. |
 
 ### ReturnValue
 

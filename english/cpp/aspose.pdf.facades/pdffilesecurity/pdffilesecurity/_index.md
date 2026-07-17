@@ -21,19 +21,19 @@ Aspose::Pdf::Facades::PdfFileSecurity::PdfFileSecurity()
 * Class [PdfFileSecurity](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileSecurity::PdfFileSecurity(System::SharedPtr\<Aspose::Pdf::Document\>) constructor
+## PdfFileSecurity::PdfFileSecurity(const System::SharedPtr\<Aspose::Pdf::Document\>\&) constructor
 
 
 Initializes new [PdfFileSecurity](../) object on base of the *document* .
 
 ```cpp
-Aspose::Pdf::Facades::PdfFileSecurity::PdfFileSecurity(System::SharedPtr<Aspose::Pdf::Document> document)
+Aspose::Pdf::Facades::PdfFileSecurity::PdfFileSecurity(const System::SharedPtr<Aspose::Pdf::Document> &document)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Aspose::Pdf::Document\> | [Pdf](../../../aspose.pdf/) document. |
+| document | const System::SharedPtr\<Aspose::Pdf::Document\>\& | [Pdf](../../../aspose.pdf/) document. |
 
 ## See Also
 
@@ -42,20 +42,20 @@ Aspose::Pdf::Facades::PdfFileSecurity::PdfFileSecurity(System::SharedPtr<Aspose:
 * Class [PdfFileSecurity](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileSecurity::PdfFileSecurity(System::SharedPtr\<Aspose::Pdf::Document\>, System::SharedPtr\<System::IO::Stream\>) constructor
+## PdfFileSecurity::PdfFileSecurity(const System::SharedPtr\<Aspose::Pdf::Document\>\&, const System::SharedPtr\<System::IO::Stream\>\&) constructor
 
 
 Initializes new [PdfFileSecurity](../) object on base of the *document* .
 
 ```cpp
-Aspose::Pdf::Facades::PdfFileSecurity::PdfFileSecurity(System::SharedPtr<Aspose::Pdf::Document> document, System::SharedPtr<System::IO::Stream> outputStream)
+Aspose::Pdf::Facades::PdfFileSecurity::PdfFileSecurity(const System::SharedPtr<Aspose::Pdf::Document> &document, const System::SharedPtr<System::IO::Stream> &outputStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Aspose::Pdf::Document\> | [Pdf](../../../aspose.pdf/) document. |
-| outputStream | System::SharedPtr\<System::IO::Stream\> | Output [Pdf](../../../aspose.pdf/) Stream. |
+| document | const System::SharedPtr\<Aspose::Pdf::Document\>\& | [Pdf](../../../aspose.pdf/) document. |
+| outputStream | const System::SharedPtr\<System::IO::Stream\>\& | Output [Pdf](../../../aspose.pdf/) Stream. |
 
 ## Deprecated
 Use constructor without destination. 
@@ -68,20 +68,20 @@ Use constructor without destination.
 * Class [PdfFileSecurity](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileSecurity::PdfFileSecurity(System::SharedPtr\<Aspose::Pdf::Document\>, System::String) constructor
+## PdfFileSecurity::PdfFileSecurity(const System::SharedPtr\<Aspose::Pdf::Document\>\&, const System::String\&) constructor
 
 
 Initializes new [PdfFileSecurity](../) object on base of the *document* .
 
 ```cpp
-Aspose::Pdf::Facades::PdfFileSecurity::PdfFileSecurity(System::SharedPtr<Aspose::Pdf::Document> document, System::String outputFile)
+Aspose::Pdf::Facades::PdfFileSecurity::PdfFileSecurity(const System::SharedPtr<Aspose::Pdf::Document> &document, const System::String &outputFile)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Aspose::Pdf::Document\> | [Pdf](../../../aspose.pdf/) document. |
-| outputFile | System::String | Output [Pdf](../../../aspose.pdf/) file. |
+| document | const System::SharedPtr\<Aspose::Pdf::Document\>\& | [Pdf](../../../aspose.pdf/) document. |
+| outputFile | const System::String\& | Output [Pdf](../../../aspose.pdf/) file. |
 
 ## Deprecated
 Use constructor without destination. 
@@ -94,20 +94,20 @@ Use constructor without destination.
 * Class [PdfFileSecurity](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileSecurity::PdfFileSecurity(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::IO::Stream\>) constructor
+## PdfFileSecurity::PdfFileSecurity(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::IO::Stream\>\&) constructor
 
 
 Initialize the object of [PdfFileSecurity](../) with input and output stream.
 
 ```cpp
-Aspose::Pdf::Facades::PdfFileSecurity::PdfFileSecurity(System::SharedPtr<System::IO::Stream> inputStream, System::SharedPtr<System::IO::Stream> outputStream)
+Aspose::Pdf::Facades::PdfFileSecurity::PdfFileSecurity(const System::SharedPtr<System::IO::Stream> &inputStream, const System::SharedPtr<System::IO::Stream> &outputStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | System::SharedPtr\<System::IO::Stream\> | Input [Pdf](../../../aspose.pdf/) Stream. |
-| outputStream | System::SharedPtr\<System::IO::Stream\> | Output [Pdf](../../../aspose.pdf/) Stream. |
+| inputStream | const System::SharedPtr\<System::IO::Stream\>\& | Input [Pdf](../../../aspose.pdf/) Stream. |
+| outputStream | const System::SharedPtr\<System::IO::Stream\>\& | Output [Pdf](../../../aspose.pdf/) Stream. |
 
 ## Deprecated
 Use constructor without destination. 
@@ -119,20 +119,20 @@ Use constructor without destination.
 * Class [PdfFileSecurity](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileSecurity::PdfFileSecurity(System::String, System::String) constructor
+## PdfFileSecurity::PdfFileSecurity(const System::String\&, const System::String\&) constructor
 
 
 Initializes the object of [PdfFileSecurity](../) with input and output file.
 
 ```cpp
-Aspose::Pdf::Facades::PdfFileSecurity::PdfFileSecurity(System::String inputFile, System::String outputFile)
+Aspose::Pdf::Facades::PdfFileSecurity::PdfFileSecurity(const System::String &inputFile, const System::String &outputFile)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | System::String | Source input [Pdf](../../../aspose.pdf/) file. |
-| outputFile | System::String | Output [Pdf](../../../aspose.pdf/) file. |
+| inputFile | const System::String\& | Source input [Pdf](../../../aspose.pdf/) file. |
+| outputFile | const System::String\& | Output [Pdf](../../../aspose.pdf/) file. |
 
 ## Deprecated
 Use constructor without destination. 

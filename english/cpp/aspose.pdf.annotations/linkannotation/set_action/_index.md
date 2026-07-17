@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/linkannotation/set_action/
 An action to be performed when the link annotation is activated.
 
 ```cpp
-void Aspose::Pdf::Annotations::LinkAnnotation::set_Action(System::SharedPtr<PdfAction> value)
+void Aspose::Pdf::Annotations::LinkAnnotation::set_Action(const System::SharedPtr<PdfAction> &value)
 ```
 
 ## See Also

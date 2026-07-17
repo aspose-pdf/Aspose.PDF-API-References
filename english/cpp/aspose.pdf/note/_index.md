@@ -24,10 +24,10 @@ class Note : public System::Object
 | [get_Text](./get_text/)() const | Gets a note text. |
 | [get_TextState](./get_textstate/)() const | Gets a note text state. |
 | [Note](./note/)() | Initializes a new instance of the [Note](./) class. |
-| [Note](./note/)(System::String) | Initializes a new instance of the [Note](./) class. |
-| [set_Paragraphs](./set_paragraphs/)(System::SharedPtr\<Aspose::Pdf::Paragraphs\>) | Sets a collection that indicates all paragraphs in the FootNote. |
-| [set_Text](./set_text/)(System::String) | Sets a note text. |
-| [set_TextState](./set_textstate/)(System::SharedPtr\<Aspose::Pdf::Text::TextState\>) | Sets a note text state. |
+| [Note](./note/)(const System::String\&) | Initializes a new instance of the [Note](./) class. |
+| [set_Paragraphs](./set_paragraphs/)(const System::SharedPtr\<Aspose::Pdf::Paragraphs\>\&) | Sets a collection that indicates all paragraphs in the FootNote. |
+| [set_Text](./set_text/)(const System::String\&) | Sets a note text. |
+| [set_TextState](./set_textstate/)(const System::SharedPtr\<Aspose::Pdf::Text::TextState\>\&) | Sets a note text state. |
 ## See Also
 
 * Class [Object](../../system/object/)

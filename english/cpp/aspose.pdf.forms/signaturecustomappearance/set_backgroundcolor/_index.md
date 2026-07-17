@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signaturecustomappearance/set_backgroundcolor/
 Gets/sets background color. Default value: Transparent.
 
 ```cpp
-void Aspose::Pdf::Forms::SignatureCustomAppearance::set_BackgroundColor(System::SharedPtr<Color> value)
+void Aspose::Pdf::Forms::SignatureCustomAppearance::set_BackgroundColor(const System::SharedPtr<Color> &value)
 ```
 
 ## See Also

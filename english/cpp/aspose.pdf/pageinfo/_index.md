@@ -29,11 +29,11 @@ class PageInfo : public System::ICloneable
 | [get_PureHeight](./get_pureheight/)() | Gets page pure height without margins. |
 | [get_Width](./get_width/)() const | Gets page width. |
 | [PageInfo](./pageinfo/)() |  |
-| [set_AnyMargin](./set_anymargin/)(System::SharedPtr\<MarginInfo\>) | Sets page margin for any page except first. |
-| [set_DefaultTextState](./set_defaulttextstate/)(System::SharedPtr\<Text::TextState\>) | Sets default font. |
+| [set_AnyMargin](./set_anymargin/)(const System::SharedPtr\<MarginInfo\>\&) | Sets page margin for any page except first. |
+| [set_DefaultTextState](./set_defaulttextstate/)(const System::SharedPtr\<Text::TextState\>\&) | Sets default font. |
 | [set_Height](./set_height/)(double) | Sets page height. |
 | [set_IsLandscape](./set_islandscape/)(bool) | Sets is page landscaped. |
-| [set_Margin](./set_margin/)(System::SharedPtr\<MarginInfo\>) | Sets page margin. |
+| [set_Margin](./set_margin/)(const System::SharedPtr\<MarginInfo\>\&) | Sets page margin. |
 | [set_Width](./set_width/)(double) | Sets page width. |
 ## See Also
 

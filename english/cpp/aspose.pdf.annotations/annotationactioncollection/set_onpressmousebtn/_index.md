@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotationactioncollection/set_onpressmousebtn/
 Sets an action to be performed when the mouse button is pressed inside the annotation's active area.
 
 ```cpp
-void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnPressMouseBtn(System::SharedPtr<PdfAction> value)
+void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnPressMouseBtn(const System::SharedPtr<PdfAction> &value)
 ```
 
 ## See Also

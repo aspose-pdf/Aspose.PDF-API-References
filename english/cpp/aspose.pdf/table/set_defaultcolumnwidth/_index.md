@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/table/set_defaultcolumnwidth/
 Gets default cell border;.
 
 ```cpp
-void Aspose::Pdf::Table::set_DefaultColumnWidth(System::String value)
+void Aspose::Pdf::Table::set_DefaultColumnWidth(const System::String &value)
 ```
 
 ## See Also

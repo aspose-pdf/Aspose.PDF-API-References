@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentabsorber/set_texteditoptions/
 Sets text edit options. The options define special behavior when requested symbol cannot be written with font.
 
 ```cpp
-void Aspose::Pdf::Text::TextFragmentAbsorber::set_TextEditOptions(System::SharedPtr<Aspose::Pdf::Text::TextEditOptions> value)
+void Aspose::Pdf::Text::TextFragmentAbsorber::set_TextEditOptions(const System::SharedPtr<Aspose::Pdf::Text::TextEditOptions> &value)
 ```
 
 ## See Also

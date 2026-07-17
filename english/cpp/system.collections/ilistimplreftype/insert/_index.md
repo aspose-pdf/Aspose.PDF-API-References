@@ -19,7 +19,7 @@ virtual void System::Collections::IListImplRefType<T>::Insert(int index, System:
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to insert elements onto. |
+| index | int | [Index](../../../system/index/) to insert elements onto. |
 | value | System::SharedPtr\<System::Object\> | Item to insert at specified index. |
 
 ## See Also

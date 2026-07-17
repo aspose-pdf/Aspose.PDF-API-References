@@ -25,19 +25,19 @@ Performs text extraction and provides access to the extracted text via [TextAbso
 * Class [TextAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TextAbsorber::TextAbsorber(System::SharedPtr\<Aspose::Pdf::Text::TextSearchOptions\>) constructor
+## TextAbsorber::TextAbsorber(const System::SharedPtr\<Aspose::Pdf::Text::TextSearchOptions\>\&) constructor
 
 
 Initializes a new instance of the [TextAbsorber](../) with text search options.
 
 ```cpp
-Aspose::Pdf::Text::TextAbsorber::TextAbsorber(System::SharedPtr<Aspose::Pdf::Text::TextSearchOptions> textSearchOptions)
+Aspose::Pdf::Text::TextAbsorber::TextAbsorber(const System::SharedPtr<Aspose::Pdf::Text::TextSearchOptions> &textSearchOptions)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| textSearchOptions | System::SharedPtr\<Aspose::Pdf::Text::TextSearchOptions\> | [Text](../../) search options |
+| textSearchOptions | const System::SharedPtr\<Aspose::Pdf::Text::TextSearchOptions\>\& | [Text](../../) search options |
 ## Remarks
 
 
@@ -50,19 +50,19 @@ Performs text extraction and provides access to the extracted text via [TextAbso
 * Class [TextAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TextAbsorber::TextAbsorber(System::SharedPtr\<TextExtractionOptions\>) constructor
+## TextAbsorber::TextAbsorber(const System::SharedPtr\<TextExtractionOptions\>\&) constructor
 
 
 Initializes a new instance of the [TextAbsorber](../) with extraction options.
 
 ```cpp
-Aspose::Pdf::Text::TextAbsorber::TextAbsorber(System::SharedPtr<TextExtractionOptions> extractionOptions)
+Aspose::Pdf::Text::TextAbsorber::TextAbsorber(const System::SharedPtr<TextExtractionOptions> &extractionOptions)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| extractionOptions | System::SharedPtr\<TextExtractionOptions\> | [Text](../../) extraction options |
+| extractionOptions | const System::SharedPtr\<TextExtractionOptions\>\& | [Text](../../) extraction options |
 ## Remarks
 
 
@@ -75,20 +75,20 @@ Performs text extraction and provides access to the extracted text via [TextAbso
 * Class [TextAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TextAbsorber::TextAbsorber(System::SharedPtr\<TextExtractionOptions\>, System::SharedPtr\<Aspose::Pdf::Text::TextSearchOptions\>) constructor
+## TextAbsorber::TextAbsorber(const System::SharedPtr\<TextExtractionOptions\>\&, const System::SharedPtr\<Aspose::Pdf::Text::TextSearchOptions\>\&) constructor
 
 
 Initializes a new instance of the [TextAbsorber](../) with extraction and text search options.
 
 ```cpp
-Aspose::Pdf::Text::TextAbsorber::TextAbsorber(System::SharedPtr<TextExtractionOptions> extractionOptions, System::SharedPtr<Aspose::Pdf::Text::TextSearchOptions> textSearchOptions)
+Aspose::Pdf::Text::TextAbsorber::TextAbsorber(const System::SharedPtr<TextExtractionOptions> &extractionOptions, const System::SharedPtr<Aspose::Pdf::Text::TextSearchOptions> &textSearchOptions)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| extractionOptions | System::SharedPtr\<TextExtractionOptions\> | [Text](../../) extraction options |
-| textSearchOptions | System::SharedPtr\<Aspose::Pdf::Text::TextSearchOptions\> | [Text](../../) search options |
+| extractionOptions | const System::SharedPtr\<TextExtractionOptions\>\& | [Text](../../) extraction options |
+| textSearchOptions | const System::SharedPtr\<Aspose::Pdf::Text::TextSearchOptions\>\& | [Text](../../) search options |
 ## Remarks
 
 

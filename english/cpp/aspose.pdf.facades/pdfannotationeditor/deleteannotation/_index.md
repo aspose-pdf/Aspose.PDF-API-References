@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/pdfannotationeditor/deleteannotation/
 Deletes the annotation with specified annotation name.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfAnnotationEditor::DeleteAnnotation(System::String annotName)
+void Aspose::Pdf::Facades::PdfAnnotationEditor::DeleteAnnotation(const System::String &annotName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| annotName | System::String | The annotation name |
+| annotName | const System::String\& | The annotation name |
 
 ## See Also
 

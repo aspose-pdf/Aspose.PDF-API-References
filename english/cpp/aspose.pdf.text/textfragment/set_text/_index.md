@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragment/set_text/
 Sets [System::String](../../../system/string/) text object that the [TextFragment](../) object represents.
 
 ```cpp
-void Aspose::Pdf::Text::TextFragment::set_Text(System::String value)
+void Aspose::Pdf::Text::TextFragment::set_Text(const System::String &value)
 ```
 
 

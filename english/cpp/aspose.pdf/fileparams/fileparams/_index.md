@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/fileparams/fileparams/
 Constructor for [FileParams](../) class.
 
 ```cpp
-Aspose::Pdf::FileParams::FileParams(System::SharedPtr<FileSpecification> spec)
+Aspose::Pdf::FileParams::FileParams(const System::SharedPtr<FileSpecification> &spec)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| spec | System::SharedPtr\<FileSpecification\> | File specification. |
+| spec | const System::SharedPtr\<FileSpecification\>\& | File specification. |
 
 ## See Also
 

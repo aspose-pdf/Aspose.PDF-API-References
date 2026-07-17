@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/cell/set_border/
 Sets the border.
 
 ```cpp
-void Aspose::Pdf::Cell::set_Border(System::SharedPtr<BorderInfo> value)
+void Aspose::Pdf::Cell::set_Border(const System::SharedPtr<BorderInfo> &value)
 ```
 
 ## See Also

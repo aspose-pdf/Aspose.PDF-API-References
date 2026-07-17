@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.comparison/textpdfcomparer/assemblydestinationpagetext/
 Restores changed text from the list of changes.
 
 ```cpp
-static System::String Aspose::Pdf::Comparison::TextPdfComparer::AssemblyDestinationPageText(System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<DiffOperation>>> diffs)
+static System::String Aspose::Pdf::Comparison::TextPdfComparer::AssemblyDestinationPageText(const System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<DiffOperation>>> &diffs)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| diffs | System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\> | The list of changes. |
+| diffs | const System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<DiffOperation\>\>\>\& | The list of changes. |
 
 ### ReturnValue
 

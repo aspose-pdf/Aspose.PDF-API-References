@@ -32,7 +32,7 @@ class TextFormattingOptions : public Aspose::Pdf::Text::TextOptions
 | [get_SubsequentLinesIndent](./get_subsequentlinesindent/)() const | Gets subsequent lines indent value. |
 | [get_WrapMode](./get_wrapmode/)() const | Gets word wrap mode. Default value is [WordWrapMode.NoWrap](./wordwrapmode/). |
 | [set_FirstLineIndent](./set_firstlineindent/)(float) | Sets first line indent value. |
-| [set_HyphenSymbol](./set_hyphensymbol/)(System::String) | Sets hyphen symbol that is used in hyphenation process. |
+| [set_HyphenSymbol](./set_hyphensymbol/)(const System::String\&) | Sets hyphen symbol that is used in hyphenation process. |
 | [set_LineSpacing](./set_linespacing/)(TextFormattingOptions::LineSpacingMode) | Sets line spacing mode. Default value is [LineSpacingMode.FontSize](./linespacingmode/). |
 | [set_SubsequentLinesIndent](./set_subsequentlinesindent/)(float) | Sets subsequent lines indent value. |
 | [set_WrapMode](./set_wrapmode/)(TextFormattingOptions::WordWrapMode) | Sets word wrap mode. Default value is [WordWrapMode.NoWrap](./wordwrapmode/). |

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/inkannotation/set_inklist/
 Sets list of gestures that are independent lines which are represented by [Point](../../../aspose.pdf/point/)[] arrays.
 
 ```cpp
-void Aspose::Pdf::Annotations::InkAnnotation::set_InkList(System::SharedPtr<System::Collections::Generic::IList<System::ArrayPtr<System::SharedPtr<Point>>>> value)
+void Aspose::Pdf::Annotations::InkAnnotation::set_InkList(const System::SharedPtr<System::Collections::Generic::IList<System::ArrayPtr<System::SharedPtr<Point>>>> &value)
 ```
 
 ## See Also

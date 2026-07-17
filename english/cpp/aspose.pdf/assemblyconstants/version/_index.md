@@ -4,7 +4,7 @@ linktitle: VERSION
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use VERSION field of Aspose::Pdf::AssemblyConstants class in C++.'
 type: docs
-weight: 800
+weight: 1100
 url: /cpp/aspose.pdf/assemblyconstants/version/
 ---
 ## VERSION field
@@ -31,7 +31,7 @@ linktitle: Version
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::AssemblyConstants::Version field. The version of the assembly in C++.'
 type: docs
-weight: 900
+weight: 1200
 url: /cpp/aspose.pdf/assemblyconstants/version/
 ---
 ## Version field

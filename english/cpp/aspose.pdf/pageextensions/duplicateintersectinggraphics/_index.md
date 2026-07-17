@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf/pageextensions/duplicateintersectinggraphics/
 Finds all vector graphic elements that intersect with the specified region and creates their copies with offset from original positions.
 
 ```cpp
-static void Aspose::Pdf::PageExtensions::DuplicateIntersectingGraphics(System::SharedPtr<Page> page, System::SharedPtr<Rectangle> region, double deltaX, double deltaY)
+static void Aspose::Pdf::PageExtensions::DuplicateIntersectingGraphics(const System::SharedPtr<Page> &page, const System::SharedPtr<Rectangle> &region, double deltaX, double deltaY)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Page\> | The page where graphic elements are searched and copied to. |
-| region | System::SharedPtr\<Rectangle\> | The rectangular region to search for intersecting elements. |
+| page | const System::SharedPtr\<Page\>\& | The page where graphic elements are searched and copied to. |
+| region | const System::SharedPtr\<Rectangle\>\& | The rectangular region to search for intersecting elements. |
 | deltaX | double | Offset along the X axis for copied elements. |
 | deltaY | double | Offset along the Y axis for copied elements. |
 ## Remarks

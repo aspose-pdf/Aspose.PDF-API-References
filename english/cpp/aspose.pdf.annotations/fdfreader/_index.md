@@ -20,7 +20,7 @@ class FdfReader : public System::Object
 
 | Method | Description |
 | --- | --- |
-| static [ReadAnnotations](./readannotations/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Document\>) | Import annotations from FDF file and put them into document. |
+| static [ReadAnnotations](./readannotations/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Document\>\&) | Import annotations from FDF file and put them into document. |
 ## See Also
 
 * Class [Object](../../system/object/)

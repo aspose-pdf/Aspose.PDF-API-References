@@ -21,6 +21,69 @@ Aspose::Pdf::Text::TextState::TextState()
 * Class [TextState](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
+## TextState::TextState(const System::String\&) constructor
+
+
+Creates text state object with font family specification.
+
+```cpp
+Aspose::Pdf::Text::TextState::TextState(const System::String &fontFamily)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fontFamily | const System::String\& | [Font](../../font/) family. |
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [TextState](../)
+* Namespace [Aspose::Pdf::Text](../../)
+* Library [Aspose.PDF for C++](../../../)
+## TextState::TextState(const System::String\&, bool, bool) constructor
+
+
+Creates text state object with font family and font style specification.
+
+```cpp
+Aspose::Pdf::Text::TextState::TextState(const System::String &fontFamily, bool bold, bool italic)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fontFamily | const System::String\& | [Font](../../font/) family. |
+| bold | bool | Bold font style. |
+| italic | bool | Italic font style. |
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [TextState](../)
+* Namespace [Aspose::Pdf::Text](../../)
+* Library [Aspose.PDF for C++](../../../)
+## TextState::TextState(const System::String\&, double) constructor
+
+
+Creates text state object with font family and font size specification.
+
+```cpp
+Aspose::Pdf::Text::TextState::TextState(const System::String &fontFamily, double fontSize)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| fontFamily | const System::String\& | [Font](../../font/) family. |
+| fontSize | double | [Font](../../font/) size. |
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [TextState](../)
+* Namespace [Aspose::Pdf::Text](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## TextState::TextState(double) constructor
 
 
@@ -78,69 +141,6 @@ Aspose::Pdf::Text::TextState::TextState(System::Drawing::Color foregroundColor, 
 ## See Also
 
 * Class [Color](../../../system.drawing/color/)
-* Class [TextState](../)
-* Namespace [Aspose::Pdf::Text](../../)
-* Library [Aspose.PDF for C++](../../../)
-## TextState::TextState(System::String) constructor
-
-
-Creates text state object with font family specification.
-
-```cpp
-Aspose::Pdf::Text::TextState::TextState(System::String fontFamily)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fontFamily | System::String | [Font](../../font/) family. |
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [TextState](../)
-* Namespace [Aspose::Pdf::Text](../../)
-* Library [Aspose.PDF for C++](../../../)
-## TextState::TextState(System::String, bool, bool) constructor
-
-
-Creates text state object with font family and font style specification.
-
-```cpp
-Aspose::Pdf::Text::TextState::TextState(System::String fontFamily, bool bold, bool italic)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fontFamily | System::String | [Font](../../font/) family. |
-| bold | bool | Bold font style. |
-| italic | bool | Italic font style. |
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [TextState](../)
-* Namespace [Aspose::Pdf::Text](../../)
-* Library [Aspose.PDF for C++](../../../)
-## TextState::TextState(System::String, double) constructor
-
-
-Creates text state object with font family and font size specification.
-
-```cpp
-Aspose::Pdf::Text::TextState::TextState(System::String fontFamily, double fontSize)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| fontFamily | System::String | [Font](../../font/) family. |
-| fontSize | double | [Font](../../font/) size. |
-
-## See Also
-
-* Class [String](../../../system/string/)
 * Class [TextState](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)

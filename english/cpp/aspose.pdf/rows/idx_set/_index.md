@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/rows/idx_set/
 Sets row.
 
 ```cpp
-void Aspose::Pdf::Rows::idx_set(int32_t index, System::SharedPtr<Row> value)
+void Aspose::Pdf::Rows::idx_set(int32_t index, const System::SharedPtr<Row> &value)
 ```
 
 

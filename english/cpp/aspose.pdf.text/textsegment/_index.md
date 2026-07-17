@@ -30,15 +30,15 @@ class TextSegment : public System::Object
 | [get_Text](./get_text/)() const | Gets [System::String](../../system/string/) text object that the [TextSegment](./) object represents. |
 | [get_TextEditOptions](./get_texteditoptions/)() const | Gets text edit options. The options define special behavior when requested symbol cannot be written with font. |
 | [get_TextState](./get_textstate/)() const | Gets text state for the text that [TextSegment](./) object represents. |
-| static [MyHtmlEncode](./myhtmlencode/)(System::String) | Encodes string as html. |
-| [set_BaselinePosition](./set_baselineposition/)(System::SharedPtr\<Aspose::Pdf::Text::Position\>) | Gets text position for text, represented with [TextSegment](./) object. The YIndent of the [Position](../position/) structure represents baseline coordinate of the text segment. |
-| [set_Hyperlink](./set_hyperlink/)(System::SharedPtr\<Aspose::Pdf::Hyperlink\>) | Sets the segment hyperlink(for pdf generator). |
-| [set_Position](./set_position/)(System::SharedPtr\<Aspose::Pdf::Text::Position\>) | Gets text position for text, represented with [TextSegment](./) object. |
-| [set_Text](./set_text/)(System::String) | Sets [System::String](../../system/string/) text object that the [TextSegment](./) object represents. |
-| [set_TextEditOptions](./set_texteditoptions/)(System::SharedPtr\<Aspose::Pdf::Text::TextEditOptions\>) | Sets text edit options. The options define special behavior when requested symbol cannot be written with font. |
-| [set_TextState](./set_textstate/)(System::SharedPtr\<Aspose::Pdf::Text::TextState\>) | Sets text state for the text that [TextSegment](./) object represents. |
+| static [MyHtmlEncode](./myhtmlencode/)(const System::String\&) | Encodes string as html. |
+| [set_BaselinePosition](./set_baselineposition/)(const System::SharedPtr\<Aspose::Pdf::Text::Position\>\&) | Gets text position for text, represented with [TextSegment](./) object. The YIndent of the [Position](../position/) structure represents baseline coordinate of the text segment. |
+| [set_Hyperlink](./set_hyperlink/)(const System::SharedPtr\<Aspose::Pdf::Hyperlink\>\&) | Sets the segment hyperlink(for pdf generator). |
+| [set_Position](./set_position/)(const System::SharedPtr\<Aspose::Pdf::Text::Position\>\&) | Gets text position for text, represented with [TextSegment](./) object. |
+| [set_Text](./set_text/)(const System::String\&) | Sets [System::String](../../system/string/) text object that the [TextSegment](./) object represents. |
+| [set_TextEditOptions](./set_texteditoptions/)(const System::SharedPtr\<Aspose::Pdf::Text::TextEditOptions\>\&) | Sets text edit options. The options define special behavior when requested symbol cannot be written with font. |
+| [set_TextState](./set_textstate/)(const System::SharedPtr\<Aspose::Pdf::Text::TextState\>\&) | Sets text state for the text that [TextSegment](./) object represents. |
 | [TextSegment](./textsegment/)() | Creates [TextSegment](./) object. |
-| [TextSegment](./textsegment/)(System::String) | Creates [TextSegment](./) object. |
+| [TextSegment](./textsegment/)(const System::String\&) | Creates [TextSegment](./) object. |
 ## Remarks
 
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/floatingbox/set_border/
 Sets a [BorderInfo](../../borderinfo/) object that indicates the border info of the floating box.
 
 ```cpp
-void Aspose::Pdf::FloatingBox::set_Border(System::SharedPtr<BorderInfo> value)
+void Aspose::Pdf::FloatingBox::set_Border(const System::SharedPtr<BorderInfo> &value)
 ```
 
 ## See Also

@@ -13,15 +13,15 @@ url: /cpp/aspose.pdf.annotations/screenannotation/screenannotation/
 Creates new Screen annotation on the specified page.
 
 ```cpp
-Aspose::Pdf::Annotations::ScreenAnnotation::ScreenAnnotation(System::SharedPtr<Aspose::Pdf::Page> page, System::SharedPtr<Rectangle> rect, System::String mediaFile)
+Aspose::Pdf::Annotations::ScreenAnnotation::ScreenAnnotation(const System::SharedPtr<Aspose::Pdf::Page> &page, const System::SharedPtr<Rectangle> &rect, const System::String &mediaFile)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | The document's page where annotation should be created. |
-| rect | System::SharedPtr\<Rectangle\> | The annotation rectangle, defining the location of the annotation on the page. |
-| mediaFile | System::String | The path to multimedia file. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | The document's page where annotation should be created. |
+| rect | const System::SharedPtr\<Rectangle\>\& | The annotation rectangle, defining the location of the annotation on the page. |
+| mediaFile | const System::String\& | The path to multimedia file. |
 
 ## See Also
 

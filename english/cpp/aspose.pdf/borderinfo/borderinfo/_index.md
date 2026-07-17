@@ -41,6 +41,52 @@ Aspose::Pdf::BorderInfo::BorderInfo(BorderSide borderSide)
 * Class [BorderInfo](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
+## BorderInfo::BorderInfo(BorderSide, const System::SharedPtr\<Color\>\&) constructor
+
+
+Initializes a new instance of the [BorderInfo](../) class.
+
+```cpp
+Aspose::Pdf::BorderInfo::BorderInfo(BorderSide borderSide, const System::SharedPtr<Color> &borderColor)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| borderSide | BorderSide | Indicates the border sides info. For example: (int)([BorderSide.Left](../../borderside/) | [BorderSide.Top](../../borderside/)). |
+| borderColor | const System::SharedPtr\<Color\>\& | The border color. |
+
+## See Also
+
+* Enum [BorderSide](../../borderside/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Color](../../color/)
+* Class [BorderInfo](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
+## BorderInfo::BorderInfo(BorderSide, const System::SharedPtr\<GraphInfo\>\&) constructor
+
+
+Initializes a new instance of the [BorderInfo](../) class.
+
+```cpp
+Aspose::Pdf::BorderInfo::BorderInfo(BorderSide borderSide, const System::SharedPtr<GraphInfo> &info)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| borderSide | BorderSide | Indicates the border sides info. For example: ([BorderSide.Left](../../borderside/) | [BorderSide.Top](../../borderside/)). |
+| info | const System::SharedPtr\<GraphInfo\>\& | The border info. |
+
+## See Also
+
+* Enum [BorderSide](../../borderside/)
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [GraphInfo](../../graphinfo/)
+* Class [BorderInfo](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## BorderInfo::BorderInfo(BorderSide, float) constructor
 
 
@@ -62,13 +108,13 @@ Aspose::Pdf::BorderInfo::BorderInfo(BorderSide borderSide, float borderWidth)
 * Class [BorderInfo](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## BorderInfo::BorderInfo(BorderSide, float, System::SharedPtr\<Color\>) constructor
+## BorderInfo::BorderInfo(BorderSide, float, const System::SharedPtr\<Color\>\&) constructor
 
 
 Initializes a new instance of the [BorderInfo](../) class.
 
 ```cpp
-Aspose::Pdf::BorderInfo::BorderInfo(BorderSide borderSide, float borderWidth, System::SharedPtr<Color> borderColor)
+Aspose::Pdf::BorderInfo::BorderInfo(BorderSide borderSide, float borderWidth, const System::SharedPtr<Color> &borderColor)
 ```
 
 
@@ -76,59 +122,13 @@ Aspose::Pdf::BorderInfo::BorderInfo(BorderSide borderSide, float borderWidth, Sy
 | --- | --- | --- |
 | borderSide | BorderSide | Indicates the border sides info. For example: ([BorderSide.Left](../../borderside/) | [BorderSide.Top](../../borderside/)). |
 | borderWidth | float | The width of the border. |
-| borderColor | System::SharedPtr\<Color\> | The border color. |
+| borderColor | const System::SharedPtr\<Color\>\& | The border color. |
 
 ## See Also
 
 * Enum [BorderSide](../../borderside/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [Color](../../color/)
-* Class [BorderInfo](../)
-* Namespace [Aspose::Pdf](../../)
-* Library [Aspose.PDF for C++](../../../)
-## BorderInfo::BorderInfo(BorderSide, System::SharedPtr\<Color\>) constructor
-
-
-Initializes a new instance of the [BorderInfo](../) class.
-
-```cpp
-Aspose::Pdf::BorderInfo::BorderInfo(BorderSide borderSide, System::SharedPtr<Color> borderColor)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| borderSide | BorderSide | Indicates the border sides info. For example: (int)([BorderSide.Left](../../borderside/) | [BorderSide.Top](../../borderside/)). |
-| borderColor | System::SharedPtr\<Color\> | The border color. |
-
-## See Also
-
-* Enum [BorderSide](../../borderside/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Color](../../color/)
-* Class [BorderInfo](../)
-* Namespace [Aspose::Pdf](../../)
-* Library [Aspose.PDF for C++](../../../)
-## BorderInfo::BorderInfo(BorderSide, System::SharedPtr\<GraphInfo\>) constructor
-
-
-Initializes a new instance of the [BorderInfo](../) class.
-
-```cpp
-Aspose::Pdf::BorderInfo::BorderInfo(BorderSide borderSide, System::SharedPtr<GraphInfo> info)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| borderSide | BorderSide | Indicates the border sides info. For example: ([BorderSide.Left](../../borderside/) | [BorderSide.Top](../../borderside/)). |
-| info | System::SharedPtr\<GraphInfo\> | The border info. |
-
-## See Also
-
-* Enum [BorderSide](../../borderside/)
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [GraphInfo](../../graphinfo/)
 * Class [BorderInfo](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

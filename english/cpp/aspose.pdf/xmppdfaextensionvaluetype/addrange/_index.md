@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/xmppdfaextensionvaluetype/addrange/
 Adds the range of fields.
 
 ```cpp
-void Aspose::Pdf::XmpPdfAExtensionValueType::AddRange(System::ArrayPtr<System::SharedPtr<XmpPdfAExtensionField>> fields)
+void Aspose::Pdf::XmpPdfAExtensionValueType::AddRange(const System::ArrayPtr<System::SharedPtr<XmpPdfAExtensionField>> &fields)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fields | System::ArrayPtr\<System::SharedPtr\<XmpPdfAExtensionField\>\> | The fields to add. |
+| fields | const System::ArrayPtr\<System::SharedPtr\<XmpPdfAExtensionField\>\>\& | The fields to add. |
 
 ## See Also
 

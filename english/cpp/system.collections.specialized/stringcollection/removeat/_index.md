@@ -19,7 +19,7 @@ void System::Collections::Specialized::StringCollection::RemoveAt(int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to remove element at. |
+| index | int | [Index](../../../system/index/) to remove element at. |
 
 ## See Also
 

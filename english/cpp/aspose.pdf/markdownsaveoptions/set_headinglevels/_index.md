@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/markdownsaveoptions/set_headinglevels/
 Defines expected heading levels to use in FontSize recognition headers strategy. If this property value is set, then header recognition [HeadingRecognitionStrategy::Heuristic](../../headingrecognitionstrategy/) strategy will be selected when set [PdfToMarkdown::HeadingRecognitionStrategy::Auto](../) strategies even if the document contains bookmarks.
 
 ```cpp
-void Aspose::Pdf::MarkdownSaveOptions::set_HeadingLevels(System::SharedPtr<Aspose::Pdf::HeadingLevels> value)
+void Aspose::Pdf::MarkdownSaveOptions::set_HeadingLevels(const System::SharedPtr<Aspose::Pdf::HeadingLevels> &value)
 ```
 
 ## See Also

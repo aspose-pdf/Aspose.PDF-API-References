@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/folderfontsource/set_folderpath/
 Path to the folder that contains font files.
 
 ```cpp
-void Aspose::Pdf::Text::FolderFontSource::set_FolderPath(System::String value)
+void Aspose::Pdf::Text::FolderFontSource::set_FolderPath(const System::String &value)
 ```
 
 ## See Also

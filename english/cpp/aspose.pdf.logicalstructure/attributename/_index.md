@@ -20,7 +20,7 @@ class AttributeName : public System::Object
 
 | Method | Description |
 | --- | --- |
-| static [FromNameAttributeKey](./fromnameattributekey/)(System::String, System::SharedPtr\<Aspose::Pdf::LogicalStructure::AttributeKey\>) | Gets attribute name for attribute key. |
+| static [FromNameAttributeKey](./fromnameattributekey/)(const System::String\&, const System::SharedPtr\<Aspose::Pdf::LogicalStructure::AttributeKey\>\&) | Gets attribute name for attribute key. |
 | [get_AttributeKey](./get_attributekey/)() const | Gets attribute key. |
 | [get_Name](./get_name/)() const | Gets name value of attribute. |
 | [ToString](./tostring/)() const override | Returns a string that represents the current object. |

@@ -18,6 +18,7 @@ The **[Aspose.Pdf.Comparison](./)** namespace provides classes for the PDF compa
 | [ComparisonStatisticsBuilder](./comparisonstatisticsbuilder/) | Represents a class for building comparison statistics. |
 | [DiffOperation](./diffoperation/) | Represents a class of diff operation. |
 | [DocumentComparisonStatistics](./documentcomparisonstatistics/) | Represents a document comparison statistics class. |
+| [EditContainer](./editcontainer/) | Represents a change container class. |
 | [GraphicalPdfComparer](./graphicalpdfcomparer/) | Represents a class for graphically comparing PDF documents. Should be used to search for small changes, mainly of a graphical nature. To compare text content changes, use other PDF comparison classes. |
 | [HtmlDiffOutputGenerator](./htmldiffoutputgenerator/) | Represents a class for generating html representation of texts differences. Deleted line breaks are indicated by paragraph mark. |
 | [IFileOutputGenerator](./ifileoutputgenerator/) | Represents an interface for generating output to a file of differences between texts. |
@@ -27,6 +28,8 @@ The **[Aspose.Pdf.Comparison](./)** namespace provides classes for the PDF compa
 | [OutputTextStyle](./outputtextstyle/) | Represents a style set class for marking text changes. |
 | [PdfOutputGenerator](./pdfoutputgenerator/) | Represents a class for generating PDF representation of texts differences. |
 | [SideBySideComparisonOptions](./sidebysidecomparisonoptions/) | Represents an options class for comparing documents with side-by-side output. |
+| [SideBySideDocsComparisonResult](./sidebysidedocscomparisonresult/) | Represents the class of the result of a side-by-side comparison operation performed on two documents. |
+| [SideBySidePagesComparisonResult](./sidebysidepagescomparisonresult/) | Represents the class of the result of a side-by-side comparison operation performed on two pages. |
 | [SideBySidePdfComparer](./sidebysidepdfcomparer/) |  |
 | [TextItemComparisonStatistics](./textitemcomparisonstatistics/) | Represents a text comparison ststistics class. |
 | [TextPdfComparer](./textpdfcomparer/) | Represents a class to comparison two PDF pages or PDF documents. |

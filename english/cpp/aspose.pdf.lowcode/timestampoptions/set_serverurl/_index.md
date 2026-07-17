@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/timestampoptions/set_serverurl/
 URL of the timestamp server.
 
 ```cpp
-void Aspose::Pdf::LowCode::TimestampOptions::set_ServerUrl(System::String value)
+void Aspose::Pdf::LowCode::TimestampOptions::set_ServerUrl(const System::String &value)
 ```
 
 ## See Also

@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.devices/tiffdevice/binarizebradley/
 Do Bradley binarization for input stream.
 
 ```cpp
-void Aspose::Pdf::Devices::TiffDevice::BinarizeBradley(System::SharedPtr<System::IO::Stream> inputImageStream, System::SharedPtr<System::IO::Stream> outputImageStream, double threshold)
+void Aspose::Pdf::Devices::TiffDevice::BinarizeBradley(const System::SharedPtr<System::IO::Stream> &inputImageStream, const System::SharedPtr<System::IO::Stream> &outputImageStream, double threshold)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputImageStream | System::SharedPtr\<System::IO::Stream\> | The input image stream. |
-| outputImageStream | System::SharedPtr\<System::IO::Stream\> | The output image stream. |
+| inputImageStream | const System::SharedPtr\<System::IO::Stream\>\& | The input image stream. |
+| outputImageStream | const System::SharedPtr\<System::IO::Stream\>\& | The output image stream. |
 | threshold | double | The threshold value between 0.0 and 1.0. |
 
 ## See Also

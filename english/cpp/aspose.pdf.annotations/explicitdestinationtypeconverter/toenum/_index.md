@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/explicitdestinationtypeconverter/toenum/
 
 
 ```cpp
-static ExplicitDestinationType Aspose::Pdf::Annotations::ExplicitDestinationTypeConverter::ToEnum(System::String value)
+static ExplicitDestinationType Aspose::Pdf::Annotations::ExplicitDestinationTypeConverter::ToEnum(const System::String &value)
 ```
 
 ## See Also

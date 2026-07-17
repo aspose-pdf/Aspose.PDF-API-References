@@ -25,7 +25,7 @@ class LinkElement : public Aspose::Pdf::LogicalStructure::AnnotationElement,
 | [AdjustPosition](./adjustposition/)(System::SharedPtr\<Tagged::PositionSettings\>) override |  |
 | [get_Hyperlink](./get_hyperlink/)() const | Gets or Sets [Hyperlink](../../aspose.pdf/hyperlink/) for Link [Element](../element/). |
 | [get_StructureTextState](./get_structuretextstate/)() override | Gets [T:/Aspose::Pdf::LogicalStructure::StructureTextState](../) object for current element. |
-| [set_Hyperlink](./set_hyperlink/)(System::SharedPtr\<Aspose::Pdf::Hyperlink\>) | Gets or Sets [Hyperlink](../../aspose.pdf/hyperlink/) for Link [Element](../element/). |
+| [set_Hyperlink](./set_hyperlink/)(const System::SharedPtr\<Aspose::Pdf::Hyperlink\>\&) | Gets or Sets [Hyperlink](../../aspose.pdf/hyperlink/) for Link [Element](../element/). |
 | [SetText](./settext/)(System::String) override | Appends text content to current text element. |
 ## See Also
 

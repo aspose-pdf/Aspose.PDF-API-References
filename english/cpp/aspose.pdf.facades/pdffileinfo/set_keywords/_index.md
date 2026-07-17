@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileinfo/set_keywords/
 Sets the Keywords information of PDF document.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileInfo::set_Keywords(System::String value)
+void Aspose::Pdf::Facades::PdfFileInfo::set_Keywords(const System::String &value)
 ```
 
 ## See Also

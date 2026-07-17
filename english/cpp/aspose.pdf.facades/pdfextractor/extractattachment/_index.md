@@ -21,19 +21,19 @@ void Aspose::Pdf::Facades::PdfExtractor::ExtractAttachment()
 * Class [PdfExtractor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfExtractor::ExtractAttachment(System::String) method
+## PdfExtractor::ExtractAttachment(const System::String\&) method
 
 
 Extracts attachment to PDF file by attachment name.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfExtractor::ExtractAttachment(System::String attachmentFileName)
+void Aspose::Pdf::Facades::PdfExtractor::ExtractAttachment(const System::String &attachmentFileName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| attachmentFileName | System::String | Name of attachment to extract |
+| attachmentFileName | const System::String\& | Name of attachment to extract |
 
 ## See Also
 

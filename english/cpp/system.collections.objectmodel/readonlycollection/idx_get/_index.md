@@ -19,7 +19,7 @@ virtual T System::Collections::ObjectModel::ReadOnlyCollection<T>::idx_get(int i
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to get element from. |
+| index | int | [Index](../../../system/index/) to get element from. |
 
 ### ReturnValue
 

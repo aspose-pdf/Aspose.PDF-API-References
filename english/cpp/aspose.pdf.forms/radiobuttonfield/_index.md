@@ -21,7 +21,7 @@ class RadioButtonField : public Aspose::Pdf::Forms::ChoiceField
 | Method | Description |
 | --- | --- |
 | [Add](./add/)(const System::SharedPtr\<RadioButtonOptionField\>\&) | Adds new option field to RadioButton field. |
-| [AddOption](./addoption/)(System::String, System::SharedPtr\<Rectangle\>) | Add to radio button option with specifed rectangle. |
+| [AddOption](./addoption/)(const System::String\&, const System::SharedPtr\<Rectangle\>\&) | Add to radio button option with specifed rectangle. |
 | [AddOption](./addoption/)(System::String) override | Add option to radion button. |
 | [get_NoToggleToOff](./get_notoggletooff/)() | Get or sets the flag that allows the radiobutton to have no selected value. If **true**
 
@@ -33,8 +33,8 @@ class RadioButtonField : public Aspose::Pdf::Forms::ChoiceField
 | [get_Selected](./get_selected/)() override | Gets index of selected item. Numbering of items is started from 1. |
 | [get_Style](./get_style/)() | Style of field box. |
 | [get_Value](./get_value/)() override | Gets value of field. |
-| [RadioButtonField](./radiobuttonfield/)(System::SharedPtr\<Aspose::Pdf::Page\>) | Constructor for RadiouttonField. |
-| [RadioButtonField](./radiobuttonfield/)(System::SharedPtr\<Document\>) | Constructor for [RadioButtonField](./). |
+| [RadioButtonField](./radiobuttonfield/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&) | Constructor for RadiouttonField. |
+| [RadioButtonField](./radiobuttonfield/)(const System::SharedPtr\<Document\>\&) | Constructor for [RadioButtonField](./). |
 | [set_NoToggleToOff](./set_notoggletooff/)(bool) | Get or sets the flag that allows the radiobutton to have no selected value. If **true**
 
 , exactly one radio button shall be selected at all times; selecting the currently selected button has no effect. If **false**

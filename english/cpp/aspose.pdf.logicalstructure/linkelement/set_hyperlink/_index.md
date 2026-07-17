@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/linkelement/set_hyperlink/
 Gets or Sets [Hyperlink](../../../aspose.pdf/hyperlink/) for Link [Element](../../element/).
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::LinkElement::set_Hyperlink(System::SharedPtr<Aspose::Pdf::Hyperlink> value)
+void Aspose::Pdf::LogicalStructure::LinkElement::set_Hyperlink(const System::SharedPtr<Aspose::Pdf::Hyperlink> &value)
 ```
 
 ## See Also

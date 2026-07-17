@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/set_position/
 A rectangle object holding field's location.
 
 ```cpp
-void Aspose::Pdf::Facades::FormFieldFacade::set_Position(System::ArrayPtr<float> value)
+void Aspose::Pdf::Facades::FormFieldFacade::set_Position(const System::ArrayPtr<float> &value)
 ```
 
 ## See Also

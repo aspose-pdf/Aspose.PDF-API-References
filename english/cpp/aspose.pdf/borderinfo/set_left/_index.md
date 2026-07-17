@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/borderinfo/set_left/
 Sets a object that indicates left of the border.
 
 ```cpp
-void Aspose::Pdf::BorderInfo::set_Left(System::SharedPtr<GraphInfo> value)
+void Aspose::Pdf::BorderInfo::set_Left(const System::SharedPtr<GraphInfo> &value)
 ```
 
 ## See Also

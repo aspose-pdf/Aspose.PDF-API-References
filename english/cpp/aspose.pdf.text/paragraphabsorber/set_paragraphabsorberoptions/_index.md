@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/paragraphabsorber/set_paragraphabsorberoptions/
 Sets the [ParagraphAbsorberOptions](../../paragraphabsorberoptions/).
 
 ```cpp
-void Aspose::Pdf::Text::ParagraphAbsorber::set_ParagraphAbsorberOptions(System::SharedPtr<Aspose::Pdf::Text::ParagraphAbsorberOptions> value)
+void Aspose::Pdf::Text::ParagraphAbsorber::set_ParagraphAbsorberOptions(const System::SharedPtr<Aspose::Pdf::Text::ParagraphAbsorberOptions> &value)
 ```
 
 ## See Also

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/pdffileinfo/savenewinfowithxmp/
 Changes the properties specified explicitly by setting file information, other properties remain.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileInfo::SaveNewInfoWithXmp(System::String outputFileName)
+bool Aspose::Pdf::Facades::PdfFileInfo::SaveNewInfoWithXmp(const System::String &outputFileName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFileName | System::String | Output file. |
+| outputFileName | const System::String\& | Output file. |
 
 ### ReturnValue
 

@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.facades/formeditor/dellistitem/
 Delete item from the list field.
 
 ```cpp
-void Aspose::Pdf::Facades::FormEditor::DelListItem(System::String fieldName, System::String itemName)
+void Aspose::Pdf::Facades::FormEditor::DelListItem(const System::String &fieldName, const System::String &itemName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | Name of the field. |
-| itemName | System::String | Name of the item which must be deleted. |
+| fieldName | const System::String\& | Name of the field. |
+| itemName | const System::String\& | Name of the item which must be deleted. |
 
 ## See Also
 

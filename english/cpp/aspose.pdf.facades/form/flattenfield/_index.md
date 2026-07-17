@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/form/flattenfield/
 Flattens a specified field with the fully qualified field name. Any other field will remain unchangable. If the fieldName is invalid, all the fields will remain unchangable.
 
 ```cpp
-void Aspose::Pdf::Facades::Form::FlattenField(System::String fieldName)
+void Aspose::Pdf::Facades::Form::FlattenField(const System::String &fieldName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | The name of the field to be flattened. |
+| fieldName | const System::String\& | The name of the field to be flattened. |
 
 ## See Also
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/localhyperlink/set_target/
 Sets the target paragraph.
 
 ```cpp
-void Aspose::Pdf::LocalHyperlink::set_Target(System::SharedPtr<BaseParagraph> value)
+void Aspose::Pdf::LocalHyperlink::set_Target(const System::SharedPtr<BaseParagraph> &value)
 ```
 
 ## See Also

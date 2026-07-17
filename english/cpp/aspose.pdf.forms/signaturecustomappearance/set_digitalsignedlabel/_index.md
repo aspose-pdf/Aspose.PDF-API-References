@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signaturecustomappearance/set_digitalsignedlabel/
 Gets/sets digital signed label. Default value: "Digitally signed by".
 
 ```cpp
-void Aspose::Pdf::Forms::SignatureCustomAppearance::set_DigitalSignedLabel(System::String value)
+void Aspose::Pdf::Forms::SignatureCustomAppearance::set_DigitalSignedLabel(const System::String &value)
 ```
 
 ## See Also

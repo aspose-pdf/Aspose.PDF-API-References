@@ -7,19 +7,19 @@ type: docs
 weight: 1800
 url: /cpp/aspose.pdf.facades/pdfextractor/getnextpagetext/
 ---
-## PdfExtractor::GetNextPageText(System::SharedPtr\<System::IO::Stream\>) method
+## PdfExtractor::GetNextPageText(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Saves one page's text to stream.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfExtractor::GetNextPageText(System::SharedPtr<System::IO::Stream> outputStream)
+void Aspose::Pdf::Facades::PdfExtractor::GetNextPageText(const System::SharedPtr<System::IO::Stream> &outputStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStream | System::SharedPtr\<System::IO::Stream\> | The stream to save the text. |
+| outputStream | const System::SharedPtr\<System::IO::Stream\>\& | The stream to save the text. |
 
 ## See Also
 
@@ -28,19 +28,19 @@ void Aspose::Pdf::Facades::PdfExtractor::GetNextPageText(System::SharedPtr<Syste
 * Class [PdfExtractor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfExtractor::GetNextPageText(System::String) method
+## PdfExtractor::GetNextPageText(const System::String\&) method
 
 
 Saves one page's text to file.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfExtractor::GetNextPageText(System::String outputFile)
+void Aspose::Pdf::Facades::PdfExtractor::GetNextPageText(const System::String &outputFile)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFile | System::String | The file path and name to save the text. |
+| outputFile | const System::String\& | The file path and name to save the text. |
 
 ## See Also
 

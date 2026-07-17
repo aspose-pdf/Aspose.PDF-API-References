@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotationactioncollection/set_onshowpage/
 Sets an action to be performed when the page containing the annotation becomes visible in the viewer application's user interface.
 
 ```cpp
-void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnShowPage(System::SharedPtr<PdfAction> value)
+void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnShowPage(const System::SharedPtr<PdfAction> &value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragmentabsorber/set_textreplaceoptions/
 Sets text replace options. The options define behavior when fragment text is replaced to more short/long.
 
 ```cpp
-void Aspose::Pdf::Text::TextFragmentAbsorber::set_TextReplaceOptions(System::SharedPtr<Aspose::Pdf::Text::TextReplaceOptions> value)
+void Aspose::Pdf::Text::TextFragmentAbsorber::set_TextReplaceOptions(const System::SharedPtr<Aspose::Pdf::Text::TextReplaceOptions> &value)
 ```
 
 ## See Also

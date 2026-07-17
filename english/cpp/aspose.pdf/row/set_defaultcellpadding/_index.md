@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/row/set_defaultcellpadding/
 Sets default margin for row cells.
 
 ```cpp
-void Aspose::Pdf::Row::set_DefaultCellPadding(System::SharedPtr<MarginInfo> value)
+void Aspose::Pdf::Row::set_DefaultCellPadding(const System::SharedPtr<MarginInfo> &value)
 ```
 
 ## See Also

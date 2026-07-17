@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/document/getobjectbyid/
 Gets a object with specified ID in the document.
 
 ```cpp
-System::SharedPtr<System::Object> Aspose::Pdf::Document::GetObjectById(System::String id)
+System::SharedPtr<System::Object> Aspose::Pdf::Document::GetObjectById(const System::String &id)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| id | System::String | The object id. |
+| id | const System::String\& | The object id. |
 
 ### ReturnValue
 

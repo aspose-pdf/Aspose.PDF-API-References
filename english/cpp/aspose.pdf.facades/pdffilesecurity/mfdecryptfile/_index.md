@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/pdffilesecurity/mfdecryptfile/
 Decrypts an encrypted [Pdf](../../../aspose.pdf/) document by owner password. If the document hasn't owner password, it is allow to use user password. Throws an exception if process failed.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileSecurity::MfDecryptFile(System::String ownerPassword)
+bool Aspose::Pdf::Facades::PdfFileSecurity::MfDecryptFile(const System::String &ownerPassword)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ownerPassword | System::String | Owner password. |
+| ownerPassword | const System::String\& | Owner password. |
 
 ### ReturnValue
 

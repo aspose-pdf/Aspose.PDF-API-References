@@ -21,19 +21,19 @@ Aspose::Pdf::Note::Note()
 * Class [Note](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Note::Note(System::String) constructor
+## Note::Note(const System::String\&) constructor
 
 
 Initializes a new instance of the [Note](../) class.
 
 ```cpp
-Aspose::Pdf::Note::Note(System::String content)
+Aspose::Pdf::Note::Note(const System::String &content)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| content | System::String | The note content. |
+| content | const System::String\& | The note content. |
 
 ## See Also
 

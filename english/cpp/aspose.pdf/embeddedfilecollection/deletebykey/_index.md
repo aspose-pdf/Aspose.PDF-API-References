@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/embeddedfilecollection/deletebykey/
 Deletes file from the collection by its key in the collection.
 
 ```cpp
-void Aspose::Pdf::EmbeddedFileCollection::DeleteByKey(System::String key)
+void Aspose::Pdf::EmbeddedFileCollection::DeleteByKey(const System::String &key)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | System::String | Key name. |
+| key | const System::String\& | Key name. |
 
 ## See Also
 

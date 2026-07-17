@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/epubloadoptions/set_margin/
 Gets reference on object that represent marging info.
 
 ```cpp
-void Aspose::Pdf::EpubLoadOptions::set_Margin(System::SharedPtr<MarginInfo> value)
+void Aspose::Pdf::EpubLoadOptions::set_Margin(const System::SharedPtr<MarginInfo> &value)
 ```
 
 ## See Also

@@ -13,15 +13,15 @@ url: /cpp/aspose.pdf/document/changepasswords/
 Changes document passwords. This action can be done only using owner password.
 
 ```cpp
-void Aspose::Pdf::Document::ChangePasswords(System::String ownerPassword, System::String newUserPassword, System::String newOwnerPassword)
+void Aspose::Pdf::Document::ChangePasswords(const System::String &ownerPassword, const System::String &newUserPassword, const System::String &newOwnerPassword)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ownerPassword | System::String | Owner password. |
-| newUserPassword | System::String | New user password. |
-| newOwnerPassword | System::String | New owner password. |
+| ownerPassword | const System::String\& | Owner password. |
+| newUserPassword | const System::String\& | New user password. |
+| newOwnerPassword | const System::String\& | New owner password. |
 
 ## See Also
 

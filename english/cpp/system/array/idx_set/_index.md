@@ -19,7 +19,7 @@ virtual void System::Array<T>::idx_set(int index, T value) override
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to set value at |
+| index | int | [Index](../../index/) to set value at |
 | value | T | Value to set at specified index |
 
 ## See Also

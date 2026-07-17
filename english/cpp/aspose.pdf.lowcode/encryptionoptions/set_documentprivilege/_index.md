@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/encryptionoptions/set_documentprivilege/
 [Document](../../../aspose.pdf/document/) permissions, see [Permissions](../../../aspose.pdf/permissions/) for details.
 
 ```cpp
-void Aspose::Pdf::LowCode::EncryptionOptions::set_DocumentPrivilege(System::SharedPtr<Aspose::Pdf::Facades::DocumentPrivilege> value)
+void Aspose::Pdf::LowCode::EncryptionOptions::set_DocumentPrivilege(const System::SharedPtr<Aspose::Pdf::Facades::DocumentPrivilege> &value)
 ```
 
 ## See Also

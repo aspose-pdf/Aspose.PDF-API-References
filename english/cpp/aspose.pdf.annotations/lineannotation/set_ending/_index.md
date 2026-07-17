@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/lineannotation/set_ending/
 Sets line ending point.
 
 ```cpp
-void Aspose::Pdf::Annotations::LineAnnotation::set_Ending(System::SharedPtr<Point> value)
+void Aspose::Pdf::Annotations::LineAnnotation::set_Ending(const System::SharedPtr<Point> &value)
 ```
 
 ## See Also

@@ -13,17 +13,17 @@ url: /cpp/aspose.pdf/xmppdfaextensionproperty/xmppdfaextensionproperty/
 Initializes new object.
 
 ```cpp
-Aspose::Pdf::XmpPdfAExtensionProperty::XmpPdfAExtensionProperty(System::String name, System::String value, System::String valueType, XmpPdfAExtensionCategoryType category, System::String description)
+Aspose::Pdf::XmpPdfAExtensionProperty::XmpPdfAExtensionProperty(const System::String &name, const System::String &value, const System::String &valueType, XmpPdfAExtensionCategoryType category, const System::String &description)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | The property name. |
-| value | System::String | The property value. |
-| valueType | System::String | The property value type. |
+| name | const System::String\& | The property name. |
+| value | const System::String\& | The property value. |
+| valueType | const System::String\& | The property value type. |
 | category | XmpPdfAExtensionCategoryType | The property category. |
-| description | System::String | The property description. |
+| description | const System::String\& | The property description. |
 
 ## See Also
 

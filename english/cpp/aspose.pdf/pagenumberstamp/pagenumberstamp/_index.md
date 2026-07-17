@@ -21,19 +21,19 @@ Aspose::Pdf::PageNumberStamp::PageNumberStamp()
 * Class [PageNumberStamp](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PageNumberStamp::PageNumberStamp(System::SharedPtr\<Facades::FormattedText\>) constructor
+## PageNumberStamp::PageNumberStamp(const System::SharedPtr\<Facades::FormattedText\>\&) constructor
 
 
 Creates [PageNumberStamp](../) by formatted text.
 
 ```cpp
-Aspose::Pdf::PageNumberStamp::PageNumberStamp(System::SharedPtr<Facades::FormattedText> formattedText)
+Aspose::Pdf::PageNumberStamp::PageNumberStamp(const System::SharedPtr<Facades::FormattedText> &formattedText)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| formattedText | System::SharedPtr\<Facades::FormattedText\> | Formatted text which used to create [Page](../../page/) Number [Stamp](../../stamp/). |
+| formattedText | const System::SharedPtr\<Facades::FormattedText\>\& | Formatted text which used to create [Page](../../page/) Number [Stamp](../../stamp/). |
 
 ## See Also
 
@@ -42,19 +42,19 @@ Aspose::Pdf::PageNumberStamp::PageNumberStamp(System::SharedPtr<Facades::Formatt
 * Class [PageNumberStamp](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PageNumberStamp::PageNumberStamp(System::String) constructor
+## PageNumberStamp::PageNumberStamp(const System::String\&) constructor
 
 
 Initializes a new instance of the [PageNumberStamp](../) class.
 
 ```cpp
-Aspose::Pdf::PageNumberStamp::PageNumberStamp(System::String format)
+Aspose::Pdf::PageNumberStamp::PageNumberStamp(const System::String &format)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| format | System::String | String value used for stamping. See [Format](../) property for details. |
+| format | const System::String\& | String value used for stamping. See [Format](../) property for details. |
 
 ## See Also
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/formfieldoptions/set_color/
 Gets/sets the value to determine property [Color](../../../aspose.pdf/color/) for created/modified field (if will be set).
 
 ```cpp
-void Aspose::Pdf::LowCode::FormFieldOptions::set_Color(System::SharedPtr<Aspose::Pdf::Color> value)
+void Aspose::Pdf::LowCode::FormFieldOptions::set_Color(const System::SharedPtr<Aspose::Pdf::Color> &value)
 ```
 
 ## See Also

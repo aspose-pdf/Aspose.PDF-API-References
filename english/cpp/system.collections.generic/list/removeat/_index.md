@@ -19,7 +19,7 @@ void System::Collections::Generic::List<T>::RemoveAt(int index) override
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to delete item at. |
+| index | int | [Index](../../../system/index/) to delete item at. |
 
 ## See Also
 

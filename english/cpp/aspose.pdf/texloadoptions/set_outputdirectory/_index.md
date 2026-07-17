@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/texloadoptions/set_outputdirectory/
 Gets/sets TeX output directory.
 
 ```cpp
-void Aspose::Pdf::TeXLoadOptions::set_OutputDirectory(System::SharedPtr<ITeXOutputDirectory> value)
+void Aspose::Pdf::TeXLoadOptions::set_OutputDirectory(const System::SharedPtr<ITeXOutputDirectory> &value)
 ```
 
 ## See Also

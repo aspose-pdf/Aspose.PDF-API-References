@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/symbologyconverter/toenum/
 
 
 ```cpp
-static Symbology Aspose::Pdf::Forms::SymbologyConverter::ToEnum(System::String value)
+static Symbology Aspose::Pdf::Forms::SymbologyConverter::ToEnum(const System::String &value)
 ```
 
 ## See Also

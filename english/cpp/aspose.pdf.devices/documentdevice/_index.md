@@ -22,9 +22,9 @@ class DocumentDevice : public Aspose::Pdf::Devices::PageDevice
 | --- | --- |
 | [DocumentDevice](./documentdevice/)() |  |
 | virtual [Process](./process/)(System::SharedPtr\<Aspose::Pdf::Document\>, int32_t, int32_t, System::SharedPtr\<System::IO::Stream\>) | Each device represents some operation on the document, e.g. we can convert pdf document into another format. |
-| [Process](./process/)(System::SharedPtr\<Aspose::Pdf::Document\>, System::SharedPtr\<System::IO::Stream\>) | Processes the whole document and saves results into stream. |
-| [Process](./process/)(System::SharedPtr\<Aspose::Pdf::Document\>, System::String) | Processes the whole document and saves results into file. |
-| [Process](./process/)(System::SharedPtr\<Aspose::Pdf::Document\>, int32_t, int32_t, System::String) | Processes certain pages of the document and saves results into file. |
+| [Process](./process/)(const System::SharedPtr\<Aspose::Pdf::Document\>\&, const System::SharedPtr\<System::IO::Stream\>\&) | Processes the whole document and saves results into stream. |
+| [Process](./process/)(const System::SharedPtr\<Aspose::Pdf::Document\>\&, const System::String\&) | Processes the whole document and saves results into file. |
+| [Process](./process/)(const System::SharedPtr\<Aspose::Pdf::Document\>\&, int32_t, int32_t, const System::String\&) | Processes certain pages of the document and saves results into file. |
 ## See Also
 
 * Class [PageDevice](../pagedevice/)

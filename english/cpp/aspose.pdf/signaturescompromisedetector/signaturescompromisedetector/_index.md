@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/signaturescompromisedetector/signaturescompromisedetector/
 Creates an instance of [SignaturesCompromiseDetector](../) class.
 
 ```cpp
-Aspose::Pdf::SignaturesCompromiseDetector::SignaturesCompromiseDetector(System::SharedPtr<Document> document)
+Aspose::Pdf::SignaturesCompromiseDetector::SignaturesCompromiseDetector(const System::SharedPtr<Document> &document)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Document\> |  |
+| document | const System::SharedPtr\<Document\>\& |  |
 
 ## See Also
 

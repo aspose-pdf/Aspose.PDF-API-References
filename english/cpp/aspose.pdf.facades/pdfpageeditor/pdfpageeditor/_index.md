@@ -21,19 +21,19 @@ Aspose::Pdf::Facades::PdfPageEditor::PdfPageEditor()
 * Class [PdfPageEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfPageEditor::PdfPageEditor(System::SharedPtr\<Aspose::Pdf::Document\>) constructor
+## PdfPageEditor::PdfPageEditor(const System::SharedPtr\<Aspose::Pdf::Document\>\&) constructor
 
 
 Constructor for [PdfPageEditor](../) class.
 
 ```cpp
-Aspose::Pdf::Facades::PdfPageEditor::PdfPageEditor(System::SharedPtr<Aspose::Pdf::Document> document)
+Aspose::Pdf::Facades::PdfPageEditor::PdfPageEditor(const System::SharedPtr<Aspose::Pdf::Document> &document)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Aspose::Pdf::Document\> | [Document](../../../aspose.pdf/document/) object which should be processed. |
+| document | const System::SharedPtr\<Aspose::Pdf::Document\>\& | [Document](../../../aspose.pdf/document/) object which should be processed. |
 
 ## See Also
 

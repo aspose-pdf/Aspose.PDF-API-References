@@ -26,7 +26,7 @@ class MarkupParagraph : public System::Object
 | [get_Points](./get_points/)() | Points of polygon that describes paragraph. Starting point is lower left corner of the paragraph. And next points are in anti-clockwise sequence. |
 | [get_SecondaryPoints](./get_secondarypoints/)() const | Points of secondary polygon describes paragraph continuation. It will not be null if the paragraph is continued in the next column or page. Starting point is lower left corner of the paragraph. And next points are in anti-clockwise sequence. |
 | [get_Text](./get_text/)() | Gets the paragraph text. |
-| [set_Text](./set_text/)(System::String) | Sets the paragraph text. |
+| [set_Text](./set_text/)(const System::String\&) | Sets the paragraph text. |
 ## See Also
 
 * Class [Object](../../system/object/)

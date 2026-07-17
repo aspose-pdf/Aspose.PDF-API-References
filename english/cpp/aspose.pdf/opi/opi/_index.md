@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/opi/opi/
 The constructor.
 
 ```cpp
-Aspose::Pdf::Opi::Opi(System::SharedPtr<XForm> xform)
+Aspose::Pdf::Opi::Opi(const System::SharedPtr<XForm> &xform)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xform | System::SharedPtr\<XForm\> | Xform object. |
+| xform | const System::SharedPtr\<XForm\>\& | Xform object. |
 
 ## See Also
 

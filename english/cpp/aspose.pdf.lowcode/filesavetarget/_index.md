@@ -20,7 +20,7 @@ class FileSaveTarget : public Aspose::Pdf::LowCode::ISaveTarget
 
 | Method | Description |
 | --- | --- |
-| [FileSaveTarget](./filesavetarget/)(System::String) | Initializes new file save target with specified path. |
+| [FileSaveTarget](./filesavetarget/)(const System::String\&) | Initializes new file save target with specified path. |
 | [get_Path](./get_path/)() const | Gets the path to the file of current save target. |
 | [get_SaveTarget](./get_savetarget/)() override | Type of the save target (file). |
 ## See Also

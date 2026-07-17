@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/collectionitem/trygetintvalue/
 Tries to get the integer value for a specified name from the collection item.
 
 ```cpp
-bool Aspose::Pdf::CollectionItem::TryGetIntValue(System::String name, System::SharedPtr<CollectionItem::Value<int32_t>> &value)
+bool Aspose::Pdf::CollectionItem::TryGetIntValue(const System::String &name, System::SharedPtr<CollectionItem::Value<int32_t>> &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | The name of the value to retrieve. |
+| name | const System::String\& | The name of the value to retrieve. |
 | value | System::SharedPtr\<CollectionItem::Value\<int32_t\>\>\& | When this method returns, contains the value associated with the specified name, if the name is found; otherwise, null. |
 
 ### ReturnValue

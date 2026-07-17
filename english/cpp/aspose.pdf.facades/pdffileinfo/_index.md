@@ -43,7 +43,7 @@ class PdfFileInfo : public Aspose::Pdf::Facades::SaveableFacade
 | [get_Title](./get_title/)() | Gets the Title information of PDF document. |
 | [get_UseStrictValidation](./get_usestrictvalidation/)() const | Uses strict validation rules via using [IsPdfFile](../) property. |
 | [GetDocumentPrivilege](./getdocumentprivilege/)() | Gets the PDF document privilege settings. |
-| [GetMetaInfo](./getmetainfo/)(System::String) | Gets customized information of PDF document with property name. If there is no property match the name it will return a blank string. |
+| [GetMetaInfo](./getmetainfo/)(const System::String\&) | Gets customized information of PDF document with property name. If there is no property match the name it will return a blank string. |
 | [GetPageHeight](./getpageheight/)(int32_t) | Gets the height of the specified page. |
 | [GetPageRotation](./getpagerotation/)(int32_t) | Gets the rotation of the specified page. |
 | [GetPageWidth](./getpagewidth/)(int32_t) | Gets the width of the specified page. |
@@ -51,30 +51,30 @@ class PdfFileInfo : public Aspose::Pdf::Facades::SaveableFacade
 | [GetPageYOffset](./getpageyoffset/)(int32_t) | Gets the vertical offset of the specified page display area. |
 | [GetPdfVersion](./getpdfversion/)() | Gets the version info of PDF document. |
 | [PdfFileInfo](./pdffileinfo/)() | Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](./) class with default values. |
-| [PdfFileInfo](./pdffileinfo/)(System::SharedPtr\<System::IO::Stream\>) | Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](./) class. |
-| [PdfFileInfo](./pdffileinfo/)(System::SharedPtr\<System::IO::Stream\>, System::String) | Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](./) class. |
-| [PdfFileInfo](./pdffileinfo/)(System::SharedPtr\<System::IO::Stream\>, System::String, System::SharedPtr\<Security::ICustomSecurityHandler\>) | Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](./) class. |
-| [PdfFileInfo](./pdffileinfo/)(System::String) | Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](./) class. |
-| [PdfFileInfo](./pdffileinfo/)(System::String, System::String) | Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](./) class. |
-| [PdfFileInfo](./pdffileinfo/)(System::String, System::String, System::SharedPtr\<Security::ICustomSecurityHandler\>) | Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](./) class. |
-| [PdfFileInfo](./pdffileinfo/)(System::SharedPtr\<Aspose::Pdf::Document\>) | Initializes new [PdfFileInfo](./) object on base of the *document* . |
+| [PdfFileInfo](./pdffileinfo/)(const System::SharedPtr\<System::IO::Stream\>\&) | Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](./) class. |
+| [PdfFileInfo](./pdffileinfo/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&) | Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](./) class. |
+| [PdfFileInfo](./pdffileinfo/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&, const System::SharedPtr\<Security::ICustomSecurityHandler\>\&) | Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](./) class. |
+| [PdfFileInfo](./pdffileinfo/)(const System::String\&) | Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](./) class. |
+| [PdfFileInfo](./pdffileinfo/)(const System::String\&, const System::String\&) | Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](./) class. |
+| [PdfFileInfo](./pdffileinfo/)(const System::String\&, const System::String\&, const System::SharedPtr\<Security::ICustomSecurityHandler\>\&) | Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](./) class. |
+| [PdfFileInfo](./pdffileinfo/)(const System::SharedPtr\<Aspose::Pdf::Document\>\&) | Initializes new [PdfFileInfo](./) object on base of the *document* . |
 | [Save](./save/)(System::SharedPtr\<System::IO::Stream\>) override | Saves the PDF document to the specified file. |
 | [Save](./save/)(System::String) override | Saves the PDF document to the specified file. |
-| [SaveNewInfo](./savenewinfo/)(System::SharedPtr\<System::IO::Stream\>) | Save updated PDF document into specified stream. |
-| [SaveNewInfo](./savenewinfo/)(System::String) | Save updated PDF document into specified file. |
-| [SaveNewInfoWithXmp](./savenewinfowithxmp/)(System::String) | Changes the properties specified explicitly by setting file information, other properties remain. |
-| [set_Author](./set_author/)(System::String) | Sets the Author information of PDF document. |
-| [set_CreationDate](./set_creationdate/)(System::String) | Sets the CreationDate information of PDF document. |
-| [set_Creator](./set_creator/)(System::String) | Sets the Creator information of PDF document. |
-| [set_Header](./set_header/)(System::SharedPtr\<System::Collections::Generic::Dictionary\<System::String, System::String\>\>) | Sets the customized information of PDF document. |
-| [set_InputFile](./set_inputfile/)(System::String) | Sets the input file. |
-| [set_InputStream](./set_inputstream/)(System::SharedPtr\<System::IO::Stream\>) | Sets the input stream. |
-| [set_Keywords](./set_keywords/)(System::String) | Sets the Keywords information of PDF document. |
-| [set_ModDate](./set_moddate/)(System::String) | Sets the ModDate date information of PDF document. |
-| [set_Subject](./set_subject/)(System::String) | Sets the Subject information of PDF document. |
-| [set_Title](./set_title/)(System::String) | Sets the Title information of PDF document. |
+| [SaveNewInfo](./savenewinfo/)(const System::SharedPtr\<System::IO::Stream\>\&) | Save updated PDF document into specified stream. |
+| [SaveNewInfo](./savenewinfo/)(const System::String\&) | Save updated PDF document into specified file. |
+| [SaveNewInfoWithXmp](./savenewinfowithxmp/)(const System::String\&) | Changes the properties specified explicitly by setting file information, other properties remain. |
+| [set_Author](./set_author/)(const System::String\&) | Sets the Author information of PDF document. |
+| [set_CreationDate](./set_creationdate/)(const System::String\&) | Sets the CreationDate information of PDF document. |
+| [set_Creator](./set_creator/)(const System::String\&) | Sets the Creator information of PDF document. |
+| [set_Header](./set_header/)(const System::SharedPtr\<System::Collections::Generic::Dictionary\<System::String, System::String\>\>\&) | Sets the customized information of PDF document. |
+| [set_InputFile](./set_inputfile/)(const System::String\&) | Sets the input file. |
+| [set_InputStream](./set_inputstream/)(const System::SharedPtr\<System::IO::Stream\>\&) | Sets the input stream. |
+| [set_Keywords](./set_keywords/)(const System::String\&) | Sets the Keywords information of PDF document. |
+| [set_ModDate](./set_moddate/)(const System::String\&) | Sets the ModDate date information of PDF document. |
+| [set_Subject](./set_subject/)(const System::String\&) | Sets the Subject information of PDF document. |
+| [set_Title](./set_title/)(const System::String\&) | Sets the Title information of PDF document. |
 | [set_UseStrictValidation](./set_usestrictvalidation/)(bool) | Uses strict validation rules via using [IsPdfFile](../) property. |
-| [SetMetaInfo](./setmetainfo/)(System::String, System::String) | Sets customized information of PDF document. |
+| [SetMetaInfo](./setmetainfo/)(const System::String\&, const System::String\&) | Sets customized information of PDF document. |
 ## See Also
 
 * Class [SaveableFacade](../saveablefacade/)

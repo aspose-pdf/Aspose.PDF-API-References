@@ -24,7 +24,7 @@ class SetSpacingMoveToNextLineShowText : public Aspose::Pdf::Operators::TextShow
 | [get_Ac](./get_ac/)() const | Get character spacing. |
 | [get_Aw](./get_aw/)() const | Gets word spacing. |
 | [get_Text](./get_text/)() override | Gets text of operator. |
-| [SetSpacingMoveToNextLineShowText](./setspacingmovetonextlineshowtext/)(double, double, System::String) | Initializes operator. |
+| [SetSpacingMoveToNextLineShowText](./setspacingmovetonextlineshowtext/)(double, double, const System::String\&) | Initializes operator. |
 ## See Also
 
 * Class [TextShowOperator](../textshowoperator/)

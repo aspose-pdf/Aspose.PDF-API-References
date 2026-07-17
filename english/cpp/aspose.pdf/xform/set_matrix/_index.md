@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xform/set_matrix/
 Sets matrix of the form.
 
 ```cpp
-void Aspose::Pdf::XForm::set_Matrix(System::SharedPtr<Aspose::Pdf::Matrix> value)
+void Aspose::Pdf::XForm::set_Matrix(const System::SharedPtr<Aspose::Pdf::Matrix> &value)
 ```
 
 ## See Also

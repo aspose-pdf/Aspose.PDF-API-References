@@ -64,9 +64,9 @@ class TextState : public System::Object
 | [TextState](./textstate/)(double) | Creates text state object with font size specification. |
 | [TextState](./textstate/)(System::Drawing::Color) | Creates text state object with foreground color specification. |
 | [TextState](./textstate/)(System::Drawing::Color, double) | Creates text state object with foreground color and font size specification. |
-| [TextState](./textstate/)(System::String) | Creates text state object with font family specification. |
-| [TextState](./textstate/)(System::String, bool, bool) | Creates text state object with font family and font style specification. |
-| [TextState](./textstate/)(System::String, double) | Creates text state object with font family and font size specification. |
+| [TextState](./textstate/)(const System::String\&) | Creates text state object with font family specification. |
+| [TextState](./textstate/)(const System::String\&, bool, bool) | Creates text state object with font family and font style specification. |
+| [TextState](./textstate/)(const System::String\&, double) | Creates text state object with font family and font size specification. |
 ## See Also
 
 * Class [Object](../../system/object/)

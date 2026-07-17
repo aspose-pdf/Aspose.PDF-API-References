@@ -21,6 +21,48 @@ void Aspose::Pdf::XImageCollection::Delete()
 * Class [XImageCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
+## XImageCollection::Delete(const System::String\&) method
+
+
+Removes item from collection by name.
+
+```cpp
+void Aspose::Pdf::XImageCollection::Delete(const System::String &name)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | const System::String\& | Name of image which must to be deleted. |
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [XImageCollection](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
+## XImageCollection::Delete(const System::String\&, Aspose::Pdf::ImageDeleteAction) method
+
+
+Removes item from collection by name.
+
+```cpp
+void Aspose::Pdf::XImageCollection::Delete(const System::String &name, Aspose::Pdf::ImageDeleteAction action)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | const System::String\& | Name of image which must to be deleted. |
+| action | Aspose::Pdf::ImageDeleteAction | Action to be performed with image object. |
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Enum [ImageDeleteAction](../../imagedeleteaction/)
+* Class [XImageCollection](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## XImageCollection::Delete(int32_t) method
 
 
@@ -57,48 +99,6 @@ void Aspose::Pdf::XImageCollection::Delete(int32_t index, Aspose::Pdf::ImageDele
 
 ## See Also
 
-* Enum [ImageDeleteAction](../../imagedeleteaction/)
-* Class [XImageCollection](../)
-* Namespace [Aspose::Pdf](../../)
-* Library [Aspose.PDF for C++](../../../)
-## XImageCollection::Delete(System::String) method
-
-
-Removes item from collection by name.
-
-```cpp
-void Aspose::Pdf::XImageCollection::Delete(System::String name)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | System::String | Name of image which must to be deleted. |
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [XImageCollection](../)
-* Namespace [Aspose::Pdf](../../)
-* Library [Aspose.PDF for C++](../../../)
-## XImageCollection::Delete(System::String, Aspose::Pdf::ImageDeleteAction) method
-
-
-Removes item from collection by name.
-
-```cpp
-void Aspose::Pdf::XImageCollection::Delete(System::String name, Aspose::Pdf::ImageDeleteAction action)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | System::String | Name of image which must to be deleted. |
-| action | Aspose::Pdf::ImageDeleteAction | Action to be performed with image object. |
-
-## See Also
-
-* Class [String](../../../system/string/)
 * Enum [ImageDeleteAction](../../imagedeleteaction/)
 * Class [XImageCollection](../)
 * Namespace [Aspose::Pdf](../../)

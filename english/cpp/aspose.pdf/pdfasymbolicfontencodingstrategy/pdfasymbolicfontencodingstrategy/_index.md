@@ -21,6 +21,28 @@ Aspose::Pdf::PdfASymbolicFontEncodingStrategy::PdfASymbolicFontEncodingStrategy(
 * Class [PdfASymbolicFontEncodingStrategy](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
+## PdfASymbolicFontEncodingStrategy::PdfASymbolicFontEncodingStrategy(const System::SharedPtr\<System::Collections::Generic::Queue\<System::SharedPtr\<PdfASymbolicFontEncodingStrategy::QueueItem\>\>\>\&) constructor
+
+
+Constructor.
+
+```cpp
+Aspose::Pdf::PdfASymbolicFontEncodingStrategy::PdfASymbolicFontEncodingStrategy(const System::SharedPtr<System::Collections::Generic::Queue<System::SharedPtr<PdfASymbolicFontEncodingStrategy::QueueItem>>> &priorityQueue)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| priorityQueue | const System::SharedPtr\<System::Collections::Generic::Queue\<System::SharedPtr\<PdfASymbolicFontEncodingStrategy::QueueItem\>\>\>\& | queue of encoding subtables to iterate |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Queue](../../../system.collections.generic/queue/)
+* Class [QueueItem](../queueitem/)
+* Class [PdfASymbolicFontEncodingStrategy](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## PdfASymbolicFontEncodingStrategy::PdfASymbolicFontEncodingStrategy(PdfASymbolicFontEncodingStrategy::QueueItem::CMapEncodingTableType) constructor
 
 
@@ -38,28 +60,6 @@ Aspose::Pdf::PdfASymbolicFontEncodingStrategy::PdfASymbolicFontEncodingStrategy(
 ## See Also
 
 * Enum [CMapEncodingTableType](../queueitem/cmapencodingtabletype/)
-* Class [PdfASymbolicFontEncodingStrategy](../)
-* Namespace [Aspose::Pdf](../../)
-* Library [Aspose.PDF for C++](../../../)
-## PdfASymbolicFontEncodingStrategy::PdfASymbolicFontEncodingStrategy(System::SharedPtr\<System::Collections::Generic::Queue\<System::SharedPtr\<PdfASymbolicFontEncodingStrategy::QueueItem\>\>\>) constructor
-
-
-Constructor.
-
-```cpp
-Aspose::Pdf::PdfASymbolicFontEncodingStrategy::PdfASymbolicFontEncodingStrategy(System::SharedPtr<System::Collections::Generic::Queue<System::SharedPtr<PdfASymbolicFontEncodingStrategy::QueueItem>>> priorityQueue)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| priorityQueue | System::SharedPtr\<System::Collections::Generic::Queue\<System::SharedPtr\<PdfASymbolicFontEncodingStrategy::QueueItem\>\>\> | queue of encoding subtables to iterate |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Queue](../../../system.collections.generic/queue/)
-* Class [QueueItem](../queueitem/)
 * Class [PdfASymbolicFontEncodingStrategy](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

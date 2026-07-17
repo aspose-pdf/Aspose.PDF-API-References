@@ -19,7 +19,7 @@ bool System::Collections::BitArray::idx_get(int index) const
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index of bit to extract. |
+| index | int | [Index](../../../system/index/) of bit to extract. |
 
 ### ReturnValue
 

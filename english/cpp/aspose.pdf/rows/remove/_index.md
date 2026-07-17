@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/rows/remove/
 Remove row from collection.
 
 ```cpp
-void Aspose::Pdf::Rows::Remove(System::SharedPtr<Row> row)
+void Aspose::Pdf::Rows::Remove(const System::SharedPtr<Row> &row)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| row | System::SharedPtr\<Row\> | The existing row. |
+| row | const System::SharedPtr\<Row\>\& | The existing row. |
 
 ## See Also
 

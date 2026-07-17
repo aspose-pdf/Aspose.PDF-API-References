@@ -13,16 +13,16 @@ url: /cpp/aspose.pdf/xmppdfaextensionvaluetype/xmppdfaextensionvaluetype/
 Initializes new object.
 
 ```cpp
-Aspose::Pdf::XmpPdfAExtensionValueType::XmpPdfAExtensionValueType(System::String type, System::String namespaceUri, System::String prefix, System::String description)
+Aspose::Pdf::XmpPdfAExtensionValueType::XmpPdfAExtensionValueType(const System::String &type, const System::String &namespaceUri, const System::String &prefix, const System::String &description)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| type | System::String | The value type. |
-| namespaceUri | System::String | The namespace URI. |
-| prefix | System::String | The prefix. |
-| description | System::String | The description. |
+| type | const System::String\& | The value type. |
+| namespaceUri | const System::String\& | The namespace URI. |
+| prefix | const System::String\& | The prefix. |
+| description | const System::String\& | The description. |
 
 ## See Also
 

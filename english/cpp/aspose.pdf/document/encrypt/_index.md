@@ -7,13 +7,13 @@ type: docs
 weight: 900
 url: /cpp/aspose.pdf/document/encrypt/
 ---
-## Document::Encrypt(Aspose::Pdf::Permissions, Aspose::Pdf::CryptoAlgorithm, System::SharedPtr\<System::Collections::Generic::IList\<System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\>\>\>) method
+## Document::Encrypt(Aspose::Pdf::Permissions, Aspose::Pdf::CryptoAlgorithm, const System::SharedPtr\<System::Collections::Generic::IList\<System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\>\>\>\&) method
 
 
 Encrypts the document.
 
 ```cpp
-void Aspose::Pdf::Document::Encrypt(Aspose::Pdf::Permissions permissions, Aspose::Pdf::CryptoAlgorithm cryptoAlgorithm, System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<System::Security::Cryptography::X509Certificates::X509Certificate2>>> publicCertificates)
+void Aspose::Pdf::Document::Encrypt(Aspose::Pdf::Permissions permissions, Aspose::Pdf::CryptoAlgorithm cryptoAlgorithm, const System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<System::Security::Cryptography::X509Certificates::X509Certificate2>>> &publicCertificates)
 ```
 
 
@@ -21,7 +21,7 @@ void Aspose::Pdf::Document::Encrypt(Aspose::Pdf::Permissions permissions, Aspose
 | --- | --- | --- |
 | permissions | Aspose::Pdf::Permissions | [Document](../) permissions, see [Permissions](../../permissions/) for details. |
 | cryptoAlgorithm | Aspose::Pdf::CryptoAlgorithm | Cryptographic algorithm, see [CryptoAlgorithm](../../cryptoalgorithm/) for details. |
-| publicCertificates | System::SharedPtr\<System::Collections::Generic::IList\<System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\>\>\> | The public certificates used for encryption — one per recipient. |
+| publicCertificates | const System::SharedPtr\<System::Collections::Generic::IList\<System::SharedPtr\<System::Security::Cryptography::X509Certificates::X509Certificate2\>\>\>\& | The public certificates used for encryption — one per recipient. |
 ## Remarks
 
 
@@ -37,20 +37,20 @@ This method prepares for encryption. To encrypt a document, you need to call the
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Document::Encrypt(System::String, System::String, Aspose::Pdf::Permissions, Aspose::Pdf::CryptoAlgorithm) method
+## Document::Encrypt(const System::String\&, const System::String\&, Aspose::Pdf::Permissions, Aspose::Pdf::CryptoAlgorithm) method
 
 
 Encrypts the document.
 
 ```cpp
-void Aspose::Pdf::Document::Encrypt(System::String userPassword, System::String ownerPassword, Aspose::Pdf::Permissions permissions, Aspose::Pdf::CryptoAlgorithm cryptoAlgorithm)
+void Aspose::Pdf::Document::Encrypt(const System::String &userPassword, const System::String &ownerPassword, Aspose::Pdf::Permissions permissions, Aspose::Pdf::CryptoAlgorithm cryptoAlgorithm)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| userPassword | System::String | User password. |
-| ownerPassword | System::String | Owner password. |
+| userPassword | const System::String\& | User password. |
+| ownerPassword | const System::String\& | Owner password. |
 | permissions | Aspose::Pdf::Permissions | [Document](../) permissions, see [Permissions](../../permissions/) for details. |
 | cryptoAlgorithm | Aspose::Pdf::CryptoAlgorithm | Cryptographic algorithm, see [CryptoAlgorithm](../../cryptoalgorithm/) for details. |
 ## Remarks
@@ -66,20 +66,20 @@ This method prepares for encryption. To encrypt a document, you need to call the
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Document::Encrypt(System::String, System::String, Aspose::Pdf::Permissions, Aspose::Pdf::CryptoAlgorithm, bool) method
+## Document::Encrypt(const System::String\&, const System::String\&, Aspose::Pdf::Permissions, Aspose::Pdf::CryptoAlgorithm, bool) method
 
 
 Encrypts the document.
 
 ```cpp
-void Aspose::Pdf::Document::Encrypt(System::String userPassword, System::String ownerPassword, Aspose::Pdf::Permissions permissions, Aspose::Pdf::CryptoAlgorithm cryptoAlgorithm, bool usePdf20)
+void Aspose::Pdf::Document::Encrypt(const System::String &userPassword, const System::String &ownerPassword, Aspose::Pdf::Permissions permissions, Aspose::Pdf::CryptoAlgorithm cryptoAlgorithm, bool usePdf20)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| userPassword | System::String | User password. |
-| ownerPassword | System::String | Owner password. |
+| userPassword | const System::String\& | User password. |
+| ownerPassword | const System::String\& | Owner password. |
 | permissions | Aspose::Pdf::Permissions | [Document](../) permissions, see [Permissions](../../permissions/) for details. |
 | cryptoAlgorithm | Aspose::Pdf::CryptoAlgorithm | Cryptographic algorithm, see [CryptoAlgorithm](../../cryptoalgorithm/) for details. |
 | usePdf20 | bool | Support for revision 6 (Extension 8). |
@@ -96,22 +96,22 @@ This method prepares for encryption. To encrypt a document, you need to call the
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Document::Encrypt(System::String, System::String, Aspose::Pdf::Permissions, System::SharedPtr\<Security::ICustomSecurityHandler\>) method
+## Document::Encrypt(const System::String\&, const System::String\&, Aspose::Pdf::Permissions, const System::SharedPtr\<Security::ICustomSecurityHandler\>\&) method
 
 
 Encrypts the document.
 
 ```cpp
-void Aspose::Pdf::Document::Encrypt(System::String userPassword, System::String ownerPassword, Aspose::Pdf::Permissions permissions, System::SharedPtr<Security::ICustomSecurityHandler> customHandler)
+void Aspose::Pdf::Document::Encrypt(const System::String &userPassword, const System::String &ownerPassword, Aspose::Pdf::Permissions permissions, const System::SharedPtr<Security::ICustomSecurityHandler> &customHandler)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| userPassword | System::String | User password. |
-| ownerPassword | System::String | Owner password. |
+| userPassword | const System::String\& | User password. |
+| ownerPassword | const System::String\& | Owner password. |
 | permissions | Aspose::Pdf::Permissions | [Document](../) permissions, see [Permissions](../../permissions/) for details. |
-| customHandler | System::SharedPtr\<Security::ICustomSecurityHandler\> | The custom security handler. |
+| customHandler | const System::SharedPtr\<Security::ICustomSecurityHandler\>\& | The custom security handler. |
 ## Remarks
 
 
@@ -126,21 +126,21 @@ This method prepares for encryption. To encrypt a document, you need to call the
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Document::Encrypt(System::String, System::String, System::SharedPtr\<Facades::DocumentPrivilege\>, Aspose::Pdf::CryptoAlgorithm, bool) method
+## Document::Encrypt(const System::String\&, const System::String\&, const System::SharedPtr\<Facades::DocumentPrivilege\>\&, Aspose::Pdf::CryptoAlgorithm, bool) method
 
 
 Encrypts the document.
 
 ```cpp
-void Aspose::Pdf::Document::Encrypt(System::String userPassword, System::String ownerPassword, System::SharedPtr<Facades::DocumentPrivilege> privileges, Aspose::Pdf::CryptoAlgorithm cryptoAlgorithm, bool usePdf20)
+void Aspose::Pdf::Document::Encrypt(const System::String &userPassword, const System::String &ownerPassword, const System::SharedPtr<Facades::DocumentPrivilege> &privileges, Aspose::Pdf::CryptoAlgorithm cryptoAlgorithm, bool usePdf20)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| userPassword | System::String | User password. |
-| ownerPassword | System::String | Owner password. |
-| privileges | System::SharedPtr\<Facades::DocumentPrivilege\> | [Document](../) permissions, see [Permissions](../../permissions/) for details. |
+| userPassword | const System::String\& | User password. |
+| ownerPassword | const System::String\& | Owner password. |
+| privileges | const System::SharedPtr\<Facades::DocumentPrivilege\>\& | [Document](../) permissions, see [Permissions](../../permissions/) for details. |
 | cryptoAlgorithm | Aspose::Pdf::CryptoAlgorithm | Cryptographic algorithm, see [CryptoAlgorithm](../../cryptoalgorithm/) for details. |
 | usePdf20 | bool | Support for revision 6 (Extension 8). |
 ## Remarks
@@ -157,22 +157,22 @@ This method prepares for encryption. To encrypt a document, you need to call the
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Document::Encrypt(System::String, System::String, System::SharedPtr\<Facades::DocumentPrivilege\>, System::SharedPtr\<Security::ICustomSecurityHandler\>) method
+## Document::Encrypt(const System::String\&, const System::String\&, const System::SharedPtr\<Facades::DocumentPrivilege\>\&, const System::SharedPtr\<Security::ICustomSecurityHandler\>\&) method
 
 
 Encrypts the document.
 
 ```cpp
-void Aspose::Pdf::Document::Encrypt(System::String userPassword, System::String ownerPassword, System::SharedPtr<Facades::DocumentPrivilege> privileges, System::SharedPtr<Security::ICustomSecurityHandler> customHandler)
+void Aspose::Pdf::Document::Encrypt(const System::String &userPassword, const System::String &ownerPassword, const System::SharedPtr<Facades::DocumentPrivilege> &privileges, const System::SharedPtr<Security::ICustomSecurityHandler> &customHandler)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| userPassword | System::String | User password. |
-| ownerPassword | System::String | Owner password. |
-| privileges | System::SharedPtr\<Facades::DocumentPrivilege\> | [Document](../) permissions, see [Permissions](../../permissions/) for details. |
-| customHandler | System::SharedPtr\<Security::ICustomSecurityHandler\> | The custom security handler. |
+| userPassword | const System::String\& | User password. |
+| ownerPassword | const System::String\& | Owner password. |
+| privileges | const System::SharedPtr\<Facades::DocumentPrivilege\>\& | [Document](../) permissions, see [Permissions](../../permissions/) for details. |
+| customHandler | const System::SharedPtr\<Security::ICustomSecurityHandler\>\& | The custom security handler. |
 ## Remarks
 
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragment/set_baselineposition/
 Gets text position for text, represented with [TextFragment](../) object. The YIndent of the [Position](../../position/) structure represents baseline coordinate of the text fragment.
 
 ```cpp
-void Aspose::Pdf::Text::TextFragment::set_BaselinePosition(System::SharedPtr<Aspose::Pdf::Text::Position> value)
+void Aspose::Pdf::Text::TextFragment::set_BaselinePosition(const System::SharedPtr<Aspose::Pdf::Text::Position> &value)
 ```
 
 ## See Also

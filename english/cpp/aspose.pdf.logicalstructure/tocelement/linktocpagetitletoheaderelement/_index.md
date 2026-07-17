@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.logicalstructure/tocelement/linktocpagetitletoheaderelement
 Links the [Table](../../../aspose.pdf/table/) of Contents (TOC) page title to a header element for document structure.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::TOCElement::LinkTocPageTitleToHeaderElement(System::SharedPtr<Aspose::Pdf::Page> tocPage, System::SharedPtr<HeaderElement> tocTitleHeader)
+void Aspose::Pdf::LogicalStructure::TOCElement::LinkTocPageTitleToHeaderElement(const System::SharedPtr<Aspose::Pdf::Page> &tocPage, const System::SharedPtr<HeaderElement> &tocTitleHeader)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| tocPage | System::SharedPtr\<Aspose::Pdf::Page\> | The TOC page containing the title to which the header will be linked. |
-| tocTitleHeader | System::SharedPtr\<HeaderElement\> | The header element that will be linked to the title of the TOC page. |
+| tocPage | const System::SharedPtr\<Aspose::Pdf::Page\>\& | The TOC page containing the title to which the header will be linked. |
+| tocTitleHeader | const System::SharedPtr\<HeaderElement\>\& | The header element that will be linked to the title of the TOC page. |
 
 ## See Also
 

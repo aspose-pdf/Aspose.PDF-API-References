@@ -21,8 +21,8 @@ class HttpWebRequest : public System::Net::WebRequest
 | Method | Description |
 | --- | --- |
 | [Abort](./abort/)() override | Aborts the current request. |
-| virtual [AddRange](./addrange/)(int32_t) | Adds the 'Range' header to the current request. |
-| virtual [AddRange](./addrange/)(System::String, int32_t, int32_t) | Adds the 'Range' header to the current request. |
+| virtual [AddRange](./addrange/)(int32_t) | Adds the '[Range](../../system/range/)' header to the current request. |
+| virtual [AddRange](./addrange/)(System::String, int32_t, int32_t) | Adds the '[Range](../../system/range/)' header to the current request. |
 | [BeginGetRequestStream](./begingetrequeststream/)(AsyncCallback, System::SharedPtr\<Object\>) override | Initiates an asynchronous operation to get a stream for writing data to the resource. |
 | [BeginGetResponse](./begingetresponse/)(AsyncCallback, System::SharedPtr\<Object\>) override | Initiates an asynchronous request for the resource. |
 | [EndGetRequestStream](./endgetrequeststream/)(System::SharedPtr\<IAsyncResult\>) override | Waits until the specified asynchronous operation to get a stream completes. |

@@ -7,20 +7,20 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf.annotations/stampannotation/stampannotation/
 ---
-## StampAnnotation::StampAnnotation(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) constructor
+## StampAnnotation::StampAnnotation(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&) constructor
 
 
 Creates new [Stamp](../../../aspose.pdf/stamp/) annotation on the specified page.
 
 ```cpp
-Aspose::Pdf::Annotations::StampAnnotation::StampAnnotation(System::SharedPtr<Aspose::Pdf::Page> page, System::SharedPtr<Rectangle> rect)
+Aspose::Pdf::Annotations::StampAnnotation::StampAnnotation(const System::SharedPtr<Aspose::Pdf::Page> &page, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | The document's page where annotation should be created. |
-| rect | System::SharedPtr\<Rectangle\> | The annotation rectangle, defining the location of the annotation on the page. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | The document's page where annotation should be created. |
+| rect | const System::SharedPtr\<Rectangle\>\& | The annotation rectangle, defining the location of the annotation on the page. |
 
 ## See Also
 
@@ -30,19 +30,19 @@ Aspose::Pdf::Annotations::StampAnnotation::StampAnnotation(System::SharedPtr<Asp
 * Class [StampAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## StampAnnotation::StampAnnotation(System::SharedPtr\<Document\>) constructor
+## StampAnnotation::StampAnnotation(const System::SharedPtr\<Document\>\&) constructor
 
 
 Constructor.
 
 ```cpp
-Aspose::Pdf::Annotations::StampAnnotation::StampAnnotation(System::SharedPtr<Document> document)
+Aspose::Pdf::Annotations::StampAnnotation::StampAnnotation(const System::SharedPtr<Document> &document)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Document\> | [Document](../../../aspose.pdf/document/) where annotation will be created. |
+| document | const System::SharedPtr\<Document\>\& | [Document](../../../aspose.pdf/document/) where annotation will be created. |
 
 ## See Also
 

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.drawing/curve/curve/
 Initializes a new instance of the [Curve](../) class.
 
 ```cpp
-Aspose::Pdf::Drawing::Curve::Curve(System::ArrayPtr<float> positionArray)
+Aspose::Pdf::Drawing::Curve::Curve(const System::ArrayPtr<float> &positionArray)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| positionArray | System::ArrayPtr\<float\> | The position array of the control points of the curve.There should be four control points,so the length of the array should be eight. |
+| positionArray | const System::ArrayPtr\<float\>\& | The position array of the control points of the curve.There should be four control points,so the length of the array should be eight. |
 
 ## See Also
 

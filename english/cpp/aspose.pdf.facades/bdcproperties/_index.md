@@ -20,13 +20,13 @@ class BDCProperties : public System::Object
 
 | Method | Description |
 | --- | --- |
-| [BDCProperties](./bdcproperties/)(System::String, System::String) | Constructor for properties of BDC operator. |
-| [BDCProperties](./bdcproperties/)(System::Nullable\<int32_t\>, System::String, System::String) | Constructor for properties of BDC operator. |
+| [BDCProperties](./bdcproperties/)(const System::String\&, const System::String\&) | Constructor for properties of BDC operator. |
+| [BDCProperties](./bdcproperties/)(System::Nullable\<int32_t\>, const System::String\&, const System::String\&) | Constructor for properties of BDC operator. |
 | [get_E](./get_e/)() | Gets/sets Expansion text value. |
 | [get_Lang](./get_lang/)() | Gets/sets Language value. |
 | [get_MCID](./get_mcid/)() | Gets/sets MCID value. |
-| [set_E](./set_e/)(System::String) | Gets/sets Expansion text value. |
-| [set_Lang](./set_lang/)(System::String) | Gets/sets Language value. |
+| [set_E](./set_e/)(const System::String\&) | Gets/sets Expansion text value. |
+| [set_Lang](./set_lang/)(const System::String\&) | Gets/sets Language value. |
 ## See Also
 
 * Class [Object](../../system/object/)

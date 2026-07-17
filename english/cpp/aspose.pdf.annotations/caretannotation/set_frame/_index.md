@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/caretannotation/set_frame/
 Sets caret rectangle.
 
 ```cpp
-void Aspose::Pdf::Annotations::CaretAnnotation::set_Frame(System::SharedPtr<Rectangle> value)
+void Aspose::Pdf::Annotations::CaretAnnotation::set_Frame(const System::SharedPtr<Rectangle> &value)
 ```
 
 ## See Also

@@ -22,7 +22,7 @@ class PolylineAnnotation : public Aspose::Pdf::Annotations::PolyAnnotation
 | --- | --- |
 | [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Accepts visitor object to process the annotation. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
-| [PolylineAnnotation](./polylineannotation/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>, System::ArrayPtr\<System::SharedPtr\<Point\>\>) | Creates new Polyline annotation on the specified page. |
+| [PolylineAnnotation](./polylineannotation/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&, const System::ArrayPtr\<System::SharedPtr\<Point\>\>\&) | Creates new Polyline annotation on the specified page. |
 ## See Also
 
 * Class [PolyAnnotation](../polyannotation/)

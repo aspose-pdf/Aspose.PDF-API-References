@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/lineinfo/set_verticecoordinate/
 Sets an array of numbers representing the alternating horizontal and vertical,coordinates, respectively, of each vertex.
 
 ```cpp
-void Aspose::Pdf::Facades::LineInfo::set_VerticeCoordinate(System::ArrayPtr<float> value)
+void Aspose::Pdf::Facades::LineInfo::set_VerticeCoordinate(const System::ArrayPtr<float> &value)
 ```
 
 ## See Also

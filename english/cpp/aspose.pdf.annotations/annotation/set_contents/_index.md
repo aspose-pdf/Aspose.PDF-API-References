@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotation/set_contents/
 Sets annotation text.
 
 ```cpp
-void Aspose::Pdf::Annotations::Annotation::set_Contents(System::String value)
+void Aspose::Pdf::Annotations::Annotation::set_Contents(const System::String &value)
 ```
 
 ## See Also

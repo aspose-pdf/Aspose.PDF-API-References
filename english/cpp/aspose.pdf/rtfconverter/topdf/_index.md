@@ -13,15 +13,15 @@ url: /cpp/aspose.pdf/rtfconverter/topdf/
 Method that converts RTF document to PDF.
 
 ```cpp
-static void Aspose::Pdf::RtfConverter::ToPdf(System::SharedPtr<Aspose::Pdf::Document> doc, System::SharedPtr<System::IO::Stream> stream, System::SharedPtr<RtfLoadOptions> options)
+static void Aspose::Pdf::RtfConverter::ToPdf(const System::SharedPtr<Aspose::Pdf::Document> &doc, const System::SharedPtr<System::IO::Stream> &stream, const System::SharedPtr<RtfLoadOptions> &options)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Aspose::Pdf::Document\> | PDF document. |
-| stream | System::SharedPtr\<System::IO::Stream\> | RTF document stream. |
-| options | System::SharedPtr\<RtfLoadOptions\> | RTF loading options. |
+| document | const System::SharedPtr\<Aspose::Pdf::Document\>\& | PDF document. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | RTF document stream. |
+| options | const System::SharedPtr\<RtfLoadOptions\>\& | RTF loading options. |
 
 ## See Also
 

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/table/getheight/
 Get height.
 
 ```cpp
-double Aspose::Pdf::Table::GetHeight(System::SharedPtr<Page> parentPage=nullptr)
+double Aspose::Pdf::Table::GetHeight(const System::SharedPtr<Page> &parentPage=nullptr)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| parentPage | System::SharedPtr\<Page\> | The table's parent page (optional). |
+| parentPage | const System::SharedPtr\<Page\>\& | The table's parent page (optional). |
 
 ### ReturnValue
 

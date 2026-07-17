@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/filespecification/set_mimetype/
 Gets subtype of the embedded file.
 
 ```cpp
-void Aspose::Pdf::FileSpecification::set_MIMEType(System::String value)
+void Aspose::Pdf::FileSpecification::set_MIMEType(const System::String &value)
 ```
 
 ## See Also

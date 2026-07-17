@@ -20,7 +20,7 @@ virtual bool System::Text::DecoderFallbackBuffer::Fallback(ArrayPtr<uint8_t> byt
 | Parameter | Type | Description |
 | --- | --- | --- |
 | bytesUnknown | ArrayPtr\<uint8_t\> | [Array](../../../system/array/) of bytes including the one decoder fails to decode. |
-| index | int | Index of byte that triggered error. |
+| index | int | [Index](../../../system/index/) of byte that triggered error. |
 
 ### ReturnValue
 

@@ -53,19 +53,19 @@ List of extracted bookmarks.
 * Class [PdfBookmarkEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfBookmarkEditor::ExtractBookmarks(System::SharedPtr\<Bookmark\>) method
+## PdfBookmarkEditor::ExtractBookmarks(const System::SharedPtr\<Bookmark\>\&) method
 
 
 Extracts the children of a bookmark with a title like in specified bookamrk.
 
 ```cpp
-System::SharedPtr<Bookmarks> Aspose::Pdf::Facades::PdfBookmarkEditor::ExtractBookmarks(System::SharedPtr<Bookmark> bookmark)
+System::SharedPtr<Bookmarks> Aspose::Pdf::Facades::PdfBookmarkEditor::ExtractBookmarks(const System::SharedPtr<Bookmark> &bookmark)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bookmark | System::SharedPtr\<Bookmark\> | The specified bookamrk. |
+| bookmark | const System::SharedPtr\<Bookmark\>\& | The specified bookamrk. |
 
 ### ReturnValue
 
@@ -79,19 +79,19 @@ System::SharedPtr<Bookmarks> Aspose::Pdf::Facades::PdfBookmarkEditor::ExtractBoo
 * Class [PdfBookmarkEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfBookmarkEditor::ExtractBookmarks(System::String) method
+## PdfBookmarkEditor::ExtractBookmarks(const System::String\&) method
 
 
 Extracts the bookmarks with the specified title.
 
 ```cpp
-System::SharedPtr<Bookmarks> Aspose::Pdf::Facades::PdfBookmarkEditor::ExtractBookmarks(System::String title)
+System::SharedPtr<Bookmarks> Aspose::Pdf::Facades::PdfBookmarkEditor::ExtractBookmarks(const System::String &title)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| title | System::String | Extracted item title. |
+| title | const System::String\& | Extracted item title. |
 
 ### ReturnValue
 

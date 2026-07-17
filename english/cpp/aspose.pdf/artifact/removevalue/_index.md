@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/artifact/removevalue/
 Remove custom value from the artifact.
 
 ```cpp
-void Aspose::Pdf::Artifact::RemoveValue(System::String name)
+void Aspose::Pdf::Artifact::RemoveValue(const System::String &name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | Name of custom value to be removed. |
+| name | const System::String\& | Name of custom value to be removed. |
 
 ## See Also
 

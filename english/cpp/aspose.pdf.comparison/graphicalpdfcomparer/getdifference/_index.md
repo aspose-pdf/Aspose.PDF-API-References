@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.comparison/graphicalpdfcomparer/getdifference/
 Gets differences between pages images. The result contains an image of the first page compared and an array of differences.
 
 ```cpp
-System::SharedPtr<ImagesDifference> Aspose::Pdf::Comparison::GraphicalPdfComparer::GetDifference(System::SharedPtr<Page> page1, System::SharedPtr<Page> page2)
+System::SharedPtr<ImagesDifference> Aspose::Pdf::Comparison::GraphicalPdfComparer::GetDifference(const System::SharedPtr<Page> &page1, const System::SharedPtr<Page> &page2)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page1 | System::SharedPtr\<Page\> | The first page. |
-| page2 | System::SharedPtr\<Page\> | The second page. |
+| page1 | const System::SharedPtr\<Page\>\& | The first page. |
+| page2 | const System::SharedPtr\<Page\>\& | The second page. |
 
 ### ReturnValue
 

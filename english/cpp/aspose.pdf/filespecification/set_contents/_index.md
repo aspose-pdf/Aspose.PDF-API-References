@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/filespecification/set_contents/
 Sets contents file. This property returns data loaded in memory which may cause Out of memory exception for large data. To decrease memory usage please use StreamContents.
 
 ```cpp
-void Aspose::Pdf::FileSpecification::set_Contents(System::SharedPtr<System::IO::Stream> value)
+void Aspose::Pdf::FileSpecification::set_Contents(const System::SharedPtr<System::IO::Stream> &value)
 ```
 
 ## See Also

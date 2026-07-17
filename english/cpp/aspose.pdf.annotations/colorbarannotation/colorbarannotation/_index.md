@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.annotations/colorbarannotation/colorbarannotation/
 Creates new ColorBar annotation on the specified page.
 
 ```cpp
-Aspose::Pdf::Annotations::ColorBarAnnotation::ColorBarAnnotation(System::SharedPtr<Aspose::Pdf::Page> page, System::SharedPtr<Rectangle> rect, ColorsOfCMYK colorOfCMYK=Aspose::Pdf::Annotations::ColorsOfCMYK::Black)
+Aspose::Pdf::Annotations::ColorBarAnnotation::ColorBarAnnotation(const System::SharedPtr<Aspose::Pdf::Page> &page, const System::SharedPtr<Rectangle> &rect, ColorsOfCMYK colorOfCMYK=Aspose::Pdf::Annotations::ColorsOfCMYK::Black)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | [Document](../../../aspose.pdf/document/)'s page where annotation should be created. |
-| rect | System::SharedPtr\<Rectangle\> | Required rectangle that sets annotation's drawing area. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | [Document](../../../aspose.pdf/document/)'s page where annotation should be created. |
+| rect | const System::SharedPtr\<Rectangle\>\& | Required rectangle that sets annotation's drawing area. |
 | colorOfCMYK | ColorsOfCMYK | [Color](../../../aspose.pdf/color/) for which annotation drawing. |
 
 ## See Also

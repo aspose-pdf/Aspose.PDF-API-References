@@ -20,7 +20,7 @@ class Matrix3D : public System::Object
 
 | Method | Description |
 | --- | --- |
-| [Add](./add/)(System::SharedPtr\<Matrix3D\>) | Adds matrix to other matrix. |
+| [Add](./add/)(const System::SharedPtr\<Matrix3D\>\&) | Adds matrix to other matrix. |
 | [Equals](./equals/)(System::SharedPtr\<System::Object\>) override | Compares matrix against other object. |
 | [get_A](./get_a/)() | A member of the transformation matrix. |
 | [get_B](./get_b/)() | B member of the transformation matrix. |
@@ -37,8 +37,8 @@ class Matrix3D : public System::Object
 | static [GetAngle](./getangle/)(Rotation) | Translates rotation into angle (degrees) |
 | [GetHashCode](./gethashcode/)() const override | Hash-code for object. |
 | [Matrix3D](./matrix3d/)() | Constructor creates standard 1 to 1 matrix: [ A B C D E F G H I Tx Ty Tz] = [ 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0 , 0]. |
-| [Matrix3D](./matrix3d/)(System::ArrayPtr\<double\>) | Constructor accepts a matrix with following array representation: [ A B C D E F G H I Tx Ty Tz]. |
-| [Matrix3D](./matrix3d/)(System::SharedPtr\<Matrix3D\>) | Constructor accepts a matrix to create a copy. |
+| [Matrix3D](./matrix3d/)(const System::ArrayPtr\<double\>\&) | Constructor accepts a matrix with following array representation: [ A B C D E F G H I Tx Ty Tz]. |
+| [Matrix3D](./matrix3d/)(const System::SharedPtr\<Matrix3D\>\&) | Constructor accepts a matrix to create a copy. |
 | [Matrix3D](./matrix3d/)(double, double, double, double, double, double, double, double, double, double, double, double) | Initializes transformation matrix with specified coefficients. |
 | [set_A](./set_a/)(double) | A member of the transformation matrix. |
 | [set_B](./set_b/)(double) | B member of the transformation matrix. |

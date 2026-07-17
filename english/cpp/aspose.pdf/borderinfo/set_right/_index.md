@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/borderinfo/set_right/
 Sets a object that indicates right of the border.
 
 ```cpp
-void Aspose::Pdf::BorderInfo::set_Right(System::SharedPtr<GraphInfo> value)
+void Aspose::Pdf::BorderInfo::set_Right(const System::SharedPtr<GraphInfo> &value)
 ```
 
 ## See Also

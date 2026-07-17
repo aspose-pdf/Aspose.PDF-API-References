@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/defaultappearance/set_fontname/
 Gets font name in the default appearance.
 
 ```cpp
-void Aspose::Pdf::Annotations::DefaultAppearance::set_FontName(System::String value)
+void Aspose::Pdf::Annotations::DefaultAppearance::set_FontName(const System::String &value)
 ```
 
 ## See Also

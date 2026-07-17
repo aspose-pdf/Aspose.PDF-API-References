@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/lineannotation/set_measure/
 [Measure](../../measure/) units specifed for this annotation.
 
 ```cpp
-void Aspose::Pdf::Annotations::LineAnnotation::set_Measure(System::SharedPtr<Aspose::Pdf::Annotations::Measure> value)
+void Aspose::Pdf::Annotations::LineAnnotation::set_Measure(const System::SharedPtr<Aspose::Pdf::Annotations::Measure> &value)
 ```
 
 ## See Also

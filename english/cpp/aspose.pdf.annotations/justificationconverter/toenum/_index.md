@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/justificationconverter/toenum/
 
 
 ```cpp
-static Justification Aspose::Pdf::Annotations::JustificationConverter::ToEnum(System::String value)
+static Justification Aspose::Pdf::Annotations::JustificationConverter::ToEnum(const System::String &value)
 ```
 
 ## See Also

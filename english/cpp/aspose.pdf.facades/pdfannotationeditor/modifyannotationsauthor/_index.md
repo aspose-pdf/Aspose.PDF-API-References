@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfannotationeditor/modifyannotationsauthor/
 Modifies the author of annotations on the specified page range.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfAnnotationEditor::ModifyAnnotationsAuthor(int32_t start, int32_t end, System::String srcAuthor, System::String desAuthor)
+void Aspose::Pdf::Facades::PdfAnnotationEditor::ModifyAnnotationsAuthor(int32_t start, int32_t end, const System::String &srcAuthor, const System::String &desAuthor)
 ```
 
 
@@ -21,8 +21,8 @@ void Aspose::Pdf::Facades::PdfAnnotationEditor::ModifyAnnotationsAuthor(int32_t 
 | --- | --- | --- |
 | start | int32_t | The start page number. |
 | end | int32_t | The end page number. |
-| srcAuthor | System::String | The author that must be modified. |
-| desAuthor | System::String | The new author. |
+| srcAuthor | const System::String\& | The author that must be modified. |
+| desAuthor | const System::String\& | The new author. |
 
 ## See Also
 

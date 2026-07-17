@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.operators/dp/dp/
 Initializes operator.
 
 ```cpp
-Aspose::Pdf::Operators::DP::DP(System::String tag)
+Aspose::Pdf::Operators::DP::DP(const System::String &tag)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| tag | System::String | Tag value. |
+| tag | const System::String\& | Tag value. |
 
 ## See Also
 

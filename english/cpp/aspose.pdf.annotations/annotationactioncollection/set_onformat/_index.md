@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotationactioncollection/set_onformat/
 Sets an action to be performed to format field value.
 
 ```cpp
-void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnFormat(System::SharedPtr<PdfAction> value)
+void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnFormat(const System::SharedPtr<PdfAction> &value)
 ```
 
 ## See Also

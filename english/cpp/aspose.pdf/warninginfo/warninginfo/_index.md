@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf/warninginfo/warninginfo/
 Constructs instance for gathering information.
 
 ```cpp
-Aspose::Pdf::WarningInfo::WarningInfo(WarningType type, System::String message)
+Aspose::Pdf::WarningInfo::WarningInfo(WarningType type, const System::String &message)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | type | WarningType | the warning type to set |
-| message | System::String | the warning message to set |
+| message | const System::String\& | the warning message to set |
 
 ## See Also
 

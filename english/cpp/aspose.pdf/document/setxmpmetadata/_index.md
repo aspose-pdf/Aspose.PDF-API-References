@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/document/setxmpmetadata/
 Set XMP metadata of document.
 
 ```cpp
-void Aspose::Pdf::Document::SetXmpMetadata(System::SharedPtr<System::IO::Stream> stream)
+void Aspose::Pdf::Document::SetXmpMetadata(const System::SharedPtr<System::IO::Stream> &stream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | System::SharedPtr\<System::IO::Stream\> | Stream which contains XMP metadata. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | Stream which contains XMP metadata. |
 
 ## See Also
 

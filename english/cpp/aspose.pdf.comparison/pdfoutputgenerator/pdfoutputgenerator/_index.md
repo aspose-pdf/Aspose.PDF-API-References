@@ -21,19 +21,19 @@ Aspose::Pdf::Comparison::PdfOutputGenerator::PdfOutputGenerator()
 * Class [PdfOutputGenerator](../)
 * Namespace [Aspose::Pdf::Comparison](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfOutputGenerator::PdfOutputGenerator(System::SharedPtr\<OutputTextStyle\>) constructor
+## PdfOutputGenerator::PdfOutputGenerator(const System::SharedPtr\<OutputTextStyle\>\&) constructor
 
 
 Cteates an instance of [PdfOutputGenerator](../) class.
 
 ```cpp
-Aspose::Pdf::Comparison::PdfOutputGenerator::PdfOutputGenerator(System::SharedPtr<OutputTextStyle> textStyle)
+Aspose::Pdf::Comparison::PdfOutputGenerator::PdfOutputGenerator(const System::SharedPtr<OutputTextStyle> &textStyle)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| textStyle | System::SharedPtr\<OutputTextStyle\> | The styles for the changed text. |
+| textStyle | const System::SharedPtr\<OutputTextStyle\>\& | The styles for the changed text. |
 
 ## See Also
 
@@ -42,20 +42,20 @@ Aspose::Pdf::Comparison::PdfOutputGenerator::PdfOutputGenerator(System::SharedPt
 * Class [PdfOutputGenerator](../)
 * Namespace [Aspose::Pdf::Comparison](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfOutputGenerator::PdfOutputGenerator(System::SharedPtr\<OutputTextStyle\>, System::SharedPtr\<PageInfo\>) constructor
+## PdfOutputGenerator::PdfOutputGenerator(const System::SharedPtr\<OutputTextStyle\>\&, const System::SharedPtr\<PageInfo\>\&) constructor
 
 
 Cteates an instance of [PdfOutputGenerator](../) class.
 
 ```cpp
-Aspose::Pdf::Comparison::PdfOutputGenerator::PdfOutputGenerator(System::SharedPtr<OutputTextStyle> textStyle, System::SharedPtr<PageInfo> pageInfo)
+Aspose::Pdf::Comparison::PdfOutputGenerator::PdfOutputGenerator(const System::SharedPtr<OutputTextStyle> &textStyle, const System::SharedPtr<PageInfo> &pageInfo)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| textStyle | System::SharedPtr\<OutputTextStyle\> | The styles for the changed text. |
-| pageInfo | System::SharedPtr\<PageInfo\> | The page size and margins settings. |
+| textStyle | const System::SharedPtr\<OutputTextStyle\>\& | The styles for the changed text. |
+| pageInfo | const System::SharedPtr\<PageInfo\>\& | The page size and margins settings. |
 
 ## See Also
 
@@ -65,19 +65,19 @@ Aspose::Pdf::Comparison::PdfOutputGenerator::PdfOutputGenerator(System::SharedPt
 * Class [PdfOutputGenerator](../)
 * Namespace [Aspose::Pdf::Comparison](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfOutputGenerator::PdfOutputGenerator(System::SharedPtr\<PageInfo\>) constructor
+## PdfOutputGenerator::PdfOutputGenerator(const System::SharedPtr\<PageInfo\>\&) constructor
 
 
 Cteates an instance of [PdfOutputGenerator](../) class.
 
 ```cpp
-Aspose::Pdf::Comparison::PdfOutputGenerator::PdfOutputGenerator(System::SharedPtr<PageInfo> pageInfo)
+Aspose::Pdf::Comparison::PdfOutputGenerator::PdfOutputGenerator(const System::SharedPtr<PageInfo> &pageInfo)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pageInfo | System::SharedPtr\<PageInfo\> | The page size and margins settings. |
+| pageInfo | const System::SharedPtr\<PageInfo\>\& | The page size and margins settings. |
 
 ## See Also
 

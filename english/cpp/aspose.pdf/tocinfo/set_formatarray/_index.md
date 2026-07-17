@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/tocinfo/set_formatarray/
 Sets format array for table of contents.
 
 ```cpp
-void Aspose::Pdf::TocInfo::set_FormatArray(System::ArrayPtr<System::SharedPtr<LevelFormat>> value)
+void Aspose::Pdf::TocInfo::set_FormatArray(const System::ArrayPtr<System::SharedPtr<LevelFormat>> &value)
 ```
 
 ## See Also

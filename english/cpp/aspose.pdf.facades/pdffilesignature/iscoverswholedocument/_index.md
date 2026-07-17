@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/pdffilesignature/iscoverswholedocument/
 Checks if the signature covers the whole document.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileSignature::IsCoversWholeDocument(System::String signName)
+bool Aspose::Pdf::Facades::PdfFileSignature::IsCoversWholeDocument(const System::String &signName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | System::String | The name of signature. |
+| signName | const System::String\& | The name of signature. |
 
 ### ReturnValue
 

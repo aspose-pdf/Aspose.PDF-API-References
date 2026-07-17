@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/markdownsaveoptions/set_areatoextract/
 Get or set an rectangle area to extract content to markdown.
 
 ```cpp
-void Aspose::Pdf::MarkdownSaveOptions::set_AreaToExtract(System::SharedPtr<Rectangle> value)
+void Aspose::Pdf::MarkdownSaveOptions::set_AreaToExtract(const System::SharedPtr<Rectangle> &value)
 ```
 
 ## See Also

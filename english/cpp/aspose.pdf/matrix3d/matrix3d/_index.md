@@ -21,6 +21,47 @@ Aspose::Pdf::Matrix3D::Matrix3D()
 * Class [Matrix3D](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
+## Matrix3D::Matrix3D(const System::ArrayPtr\<double\>\&) constructor
+
+
+Constructor accepts a matrix with following array representation: [ A B C D E F G H I Tx Ty Tz].
+
+```cpp
+Aspose::Pdf::Matrix3D::Matrix3D(const System::ArrayPtr<double> &matrix3DArray)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| matrix3DArray | const System::ArrayPtr\<double\>\& | [Matrix](../../matrix/) data array. |
+
+## See Also
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Matrix3D](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
+## Matrix3D::Matrix3D(const System::SharedPtr\<Matrix3D\>\&) constructor
+
+
+Constructor accepts a matrix to create a copy.
+
+```cpp
+Aspose::Pdf::Matrix3D::Matrix3D(const System::SharedPtr<Matrix3D> &matrix)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| matrix | const System::SharedPtr\<Matrix3D\>\& | [Matrix3D](../) object. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Matrix3D](../)
+* Class [Matrix3D](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## Matrix3D::Matrix3D(double, double, double, double, double, double, double, double, double, double, double, double) constructor
 
 
@@ -48,47 +89,6 @@ Aspose::Pdf::Matrix3D::Matrix3D(double a, double b, double c, double d, double e
 
 ## See Also
 
-* Class [Matrix3D](../)
-* Namespace [Aspose::Pdf](../../)
-* Library [Aspose.PDF for C++](../../../)
-## Matrix3D::Matrix3D(System::ArrayPtr\<double\>) constructor
-
-
-Constructor accepts a matrix with following array representation: [ A B C D E F G H I Tx Ty Tz].
-
-```cpp
-Aspose::Pdf::Matrix3D::Matrix3D(System::ArrayPtr<double> matrix3DArray)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| matrix3DArray | System::ArrayPtr\<double\> | [Matrix](../../matrix/) data array. |
-
-## See Also
-
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [Matrix3D](../)
-* Namespace [Aspose::Pdf](../../)
-* Library [Aspose.PDF for C++](../../../)
-## Matrix3D::Matrix3D(System::SharedPtr\<Matrix3D\>) constructor
-
-
-Constructor accepts a matrix to create a copy.
-
-```cpp
-Aspose::Pdf::Matrix3D::Matrix3D(System::SharedPtr<Matrix3D> matrix)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| matrix | System::SharedPtr\<Matrix3D\> | [Matrix3D](../) object. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Matrix3D](../)
 * Class [Matrix3D](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

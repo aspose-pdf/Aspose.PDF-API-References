@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/markupannotation/set_popup/
 Pop-up annotation for entering or editing the text associated with this annotation.
 
 ```cpp
-void Aspose::Pdf::Annotations::MarkupAnnotation::set_Popup(System::SharedPtr<PopupAnnotation> value)
+void Aspose::Pdf::Annotations::MarkupAnnotation::set_Popup(const System::SharedPtr<PopupAnnotation> &value)
 ```
 
 ## See Also

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.forms/field/copyto/
 Copies subfields of this field into array starting from specified index.
 
 ```cpp
-void Aspose::Pdf::Forms::Field::CopyTo(System::ArrayPtr<System::SharedPtr<Field>> array, int32_t index)
+void Aspose::Pdf::Forms::Field::CopyTo(const System::ArrayPtr<System::SharedPtr<Field>> &array, int32_t index)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| array | System::ArrayPtr\<System::SharedPtr\<Field\>\> | Array where field must be copied. |
+| array | const System::ArrayPtr\<System::SharedPtr\<Field\>\>\& | Array where field must be copied. |
 | index | int32_t | Starting index where fields will be copied. |
 
 ## Deprecated

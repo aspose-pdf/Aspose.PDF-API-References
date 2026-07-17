@@ -20,7 +20,7 @@ class Point : public System::Object
 
 | Method | Description |
 | --- | --- |
-| static [Distance](./distance/)(System::SharedPtr\<Point\>, System::SharedPtr\<Point\>) | Calculates distance between two points. |
+| static [Distance](./distance/)(const System::SharedPtr\<Point\>\&, const System::SharedPtr\<Point\>\&) | Calculates distance between two points. |
 | static [get_Trivial](./get_trivial/)() | Gets point with zero coordinates. |
 | [get_X](./get_x/)() const | X coordinate value. |
 | [get_Y](./get_y/)() const | Y coordinate value. |

@@ -20,7 +20,7 @@ class CaretSymbolConverter : public System::Object
 
 | Method | Description |
 | --- | --- |
-| static [ToEnum](./toenum/)(System::String) |  |
+| static [ToEnum](./toenum/)(const System::String\&) |  |
 | static [ToString](./tostring/)(CaretSymbol) |  |
 | static [ToXfdfString](./toxfdfstring/)(CaretSymbol) |  |
 ## See Also

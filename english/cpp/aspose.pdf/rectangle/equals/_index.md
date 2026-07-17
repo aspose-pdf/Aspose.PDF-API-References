@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/rectangle/equals/
 Check if rectangles are equal i.e. have same position and sizes.
 
 ```cpp
-bool Aspose::Pdf::Rectangle::Equals(System::SharedPtr<Rectangle> other)
+bool Aspose::Pdf::Rectangle::Equals(const System::SharedPtr<Rectangle> &other)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| other | System::SharedPtr\<Rectangle\> | [Rectangle](../) which will be compared. |
+| other | const System::SharedPtr\<Rectangle\>\& | [Rectangle](../) which will be compared. |
 
 ### ReturnValue
 

@@ -26,19 +26,19 @@ Aspose::Pdf::Text::TextSearchOptions::TextSearchOptions(bool isRegularExpression
 * Class [TextSearchOptions](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TextSearchOptions::TextSearchOptions(System::SharedPtr\<Aspose::Pdf::Rectangle\>) constructor
+## TextSearchOptions::TextSearchOptions(const System::SharedPtr\<Aspose::Pdf::Rectangle\>\&) constructor
 
 
 Initializes new instance of the [TextSearchOptions](../) object. Specifies rectangle that delimits the searched text.
 
 ```cpp
-Aspose::Pdf::Text::TextSearchOptions::TextSearchOptions(System::SharedPtr<Aspose::Pdf::Rectangle> rectangle)
+Aspose::Pdf::Text::TextSearchOptions::TextSearchOptions(const System::SharedPtr<Aspose::Pdf::Rectangle> &rectangle)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rectangle | System::SharedPtr\<Aspose::Pdf::Rectangle\> | [Rectangle](../../../aspose.pdf/rectangle/) that includes the extracted text. |
+| rectangle | const System::SharedPtr\<Aspose::Pdf::Rectangle\>\& | [Rectangle](../../../aspose.pdf/rectangle/) that includes the extracted text. |
 
 ## See Also
 
@@ -47,19 +47,19 @@ Aspose::Pdf::Text::TextSearchOptions::TextSearchOptions(System::SharedPtr<Aspose
 * Class [TextSearchOptions](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TextSearchOptions::TextSearchOptions(System::SharedPtr\<Aspose::Pdf::Rectangle\>, bool) constructor
+## TextSearchOptions::TextSearchOptions(const System::SharedPtr\<Aspose::Pdf::Rectangle\>\&, bool) constructor
 
 
 Initializes new instance of the [TextSearchOptions](../) object. Specifies rectangle that delimits the searched text and regular expression usage mode.
 
 ```cpp
-Aspose::Pdf::Text::TextSearchOptions::TextSearchOptions(System::SharedPtr<Aspose::Pdf::Rectangle> rectangle, bool isRegularExpressionUsed)
+Aspose::Pdf::Text::TextSearchOptions::TextSearchOptions(const System::SharedPtr<Aspose::Pdf::Rectangle> &rectangle, bool isRegularExpressionUsed)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| rectangle | System::SharedPtr\<Aspose::Pdf::Rectangle\> | [Rectangle](../../../aspose.pdf/rectangle/) that includes the extracted text. |
+| rectangle | const System::SharedPtr\<Aspose::Pdf::Rectangle\>\& | [Rectangle](../../../aspose.pdf/rectangle/) that includes the extracted text. |
 | isRegularExpressionUsed | bool | Value that indicates that regularexpression is used. |
 
 ## See Also

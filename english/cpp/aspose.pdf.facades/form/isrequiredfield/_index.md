@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/form/isrequiredfield/
 Determines whether field is required or not.
 
 ```cpp
-bool Aspose::Pdf::Facades::Form::IsRequiredField(System::String fieldName)
+bool Aspose::Pdf::Facades::Form::IsRequiredField(const System::String &fieldName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | The name of field. |
+| fieldName | const System::String\& | The name of field. |
 
 ### ReturnValue
 

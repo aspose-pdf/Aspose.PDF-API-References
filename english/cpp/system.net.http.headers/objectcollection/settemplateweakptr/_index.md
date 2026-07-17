@@ -19,7 +19,7 @@ void System::Net::Http::Headers::ObjectCollection<T>::SetTemplateWeakPtr(uint32_
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| argument | uint32_t | Index of template argument to treat as weak poiner. |
+| argument | uint32_t | [Index](../../../system/index/) of template argument to treat as weak poiner. |
 
 ## See Also
 

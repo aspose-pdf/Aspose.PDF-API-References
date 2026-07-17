@@ -20,7 +20,7 @@ class TOCElement : public Aspose::Pdf::LogicalStructure::GroupingElement
 
 | Method | Description |
 | --- | --- |
-| [LinkTocPageTitleToHeaderElement](./linktocpagetitletoheaderelement/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<HeaderElement\>) | Links the [Table](../../aspose.pdf/table/) of Contents (TOC) page title to a header element for document structure. |
+| [LinkTocPageTitleToHeaderElement](./linktocpagetitletoheaderelement/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<HeaderElement\>\&) | Links the [Table](../../aspose.pdf/table/) of Contents (TOC) page title to a header element for document structure. |
 ## See Also
 
 * Class [GroupingElement](../groupingelement/)

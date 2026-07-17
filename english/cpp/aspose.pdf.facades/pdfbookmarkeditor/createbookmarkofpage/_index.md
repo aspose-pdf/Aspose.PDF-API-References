@@ -7,20 +7,20 @@ type: docs
 weight: 200
 url: /cpp/aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage/
 ---
-## PdfBookmarkEditor::CreateBookmarkOfPage(System::ArrayPtr\<System::String\>, System::ArrayPtr\<int32_t\>) method
+## PdfBookmarkEditor::CreateBookmarkOfPage(const System::ArrayPtr\<System::String\>\&, const System::ArrayPtr\<int32_t\>\&) method
 
 
 Creates bookmarks for the specified pages.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfBookmarkEditor::CreateBookmarkOfPage(System::ArrayPtr<System::String> bookmarkName, System::ArrayPtr<int32_t> pageNumber)
+void Aspose::Pdf::Facades::PdfBookmarkEditor::CreateBookmarkOfPage(const System::ArrayPtr<System::String> &bookmarkName, const System::ArrayPtr<int32_t> &pageNumber)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bookmarkName | System::ArrayPtr\<System::String\> | [Bookmarks](../../bookmarks/) title array. |
-| pageNumber | System::ArrayPtr\<int32_t\> | [Bookmarks](../../bookmarks/) desination page array. |
+| bookmarkName | const System::ArrayPtr\<System::String\>\& | [Bookmarks](../../bookmarks/) title array. |
+| pageNumber | const System::ArrayPtr\<int32_t\>\& | [Bookmarks](../../bookmarks/) desination page array. |
 
 ## See Also
 
@@ -29,19 +29,19 @@ void Aspose::Pdf::Facades::PdfBookmarkEditor::CreateBookmarkOfPage(System::Array
 * Class [PdfBookmarkEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfBookmarkEditor::CreateBookmarkOfPage(System::String, int32_t) method
+## PdfBookmarkEditor::CreateBookmarkOfPage(const System::String\&, int32_t) method
 
 
 Creates bookmark for the specified page.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfBookmarkEditor::CreateBookmarkOfPage(System::String bookmarkName, int32_t pageNumber)
+void Aspose::Pdf::Facades::PdfBookmarkEditor::CreateBookmarkOfPage(const System::String &bookmarkName, int32_t pageNumber)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| bookmarkName | System::String | The specified bookmark name. |
+| bookmarkName | const System::String\& | The specified bookmark name. |
 | pageNumber | int32_t | The specified desination page. |
 
 ## See Also

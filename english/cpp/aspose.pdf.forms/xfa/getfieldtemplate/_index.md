@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.forms/xfa/getfieldtemplate/
 Returns XML node of [XFA](../) field tempalte.
 
 ```cpp
-System::SharedPtr<System::Xml::XmlNode> Aspose::Pdf::Forms::XFA::GetFieldTemplate(System::String fieldName)
+System::SharedPtr<System::Xml::XmlNode> Aspose::Pdf::Forms::XFA::GetFieldTemplate(const System::String &fieldName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | Path of the field which template must be found. |
+| fieldName | const System::String\& | Path of the field which template must be found. |
 
 ### ReturnValue
 

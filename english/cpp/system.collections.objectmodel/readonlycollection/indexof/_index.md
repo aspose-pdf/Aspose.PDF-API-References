@@ -23,7 +23,7 @@ virtual int System::Collections::ObjectModel::ReadOnlyCollection<T>::IndexOf(con
 
 ### ReturnValue
 
-Index of the first occurrence of specified item or negative value if not found.
+[Index](../../../system/index/) of the first occurrence of specified item or negative value if not found.
 
 ## See Also
 

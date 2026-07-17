@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/bookmark/set_action/
 Sets the action bound with the bookmark. If [PageNumber](../../../aspose.pdf/pagenumber/) is presented the action can not be specified. The action type includes: "GoTo", "GoToR", "Launch", "Named".
 
 ```cpp
-void Aspose::Pdf::Facades::Bookmark::set_Action(System::String value)
+void Aspose::Pdf::Facades::Bookmark::set_Action(const System::String &value)
 ```
 
 ## See Also

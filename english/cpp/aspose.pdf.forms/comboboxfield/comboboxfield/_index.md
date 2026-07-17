@@ -21,20 +21,20 @@ Aspose::Pdf::Forms::ComboBoxField::ComboBoxField()
 * Class [ComboBoxField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## ComboBoxField::ComboBoxField(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) constructor
+## ComboBoxField::ComboBoxField(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&) constructor
 
 
 Constructor for Combobox [Field](../../field/).
 
 ```cpp
-Aspose::Pdf::Forms::ComboBoxField::ComboBoxField(System::SharedPtr<Aspose::Pdf::Page> page, System::SharedPtr<Rectangle> rect)
+Aspose::Pdf::Forms::ComboBoxField::ComboBoxField(const System::SharedPtr<Aspose::Pdf::Page> &page, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | [Page](../../../aspose.pdf/page/) where field will be placed. |
-| rect | System::SharedPtr\<Rectangle\> | [Rectangle](../../../aspose.pdf/rectangle/) which defines size and position of the field on the page. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | [Page](../../../aspose.pdf/page/) where field will be placed. |
+| rect | const System::SharedPtr\<Rectangle\>\& | [Rectangle](../../../aspose.pdf/rectangle/) which defines size and position of the field on the page. |
 
 ## See Also
 
@@ -44,19 +44,19 @@ Aspose::Pdf::Forms::ComboBoxField::ComboBoxField(System::SharedPtr<Aspose::Pdf::
 * Class [ComboBoxField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## ComboBoxField::ComboBoxField(System::SharedPtr\<Document\>) constructor
+## ComboBoxField::ComboBoxField(const System::SharedPtr\<Document\>\&) constructor
 
 
 Creates CombBox field to work with Generator.
 
 ```cpp
-Aspose::Pdf::Forms::ComboBoxField::ComboBoxField(System::SharedPtr<Document> doc)
+Aspose::Pdf::Forms::ComboBoxField::ComboBoxField(const System::SharedPtr<Document> &doc)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | System::SharedPtr\<Document\> | [Document](../../../aspose.pdf/document/) where field will be created. |
+| doc | const System::SharedPtr\<Document\>\& | [Document](../../../aspose.pdf/document/) where field will be created. |
 
 ## See Also
 
@@ -65,20 +65,20 @@ Aspose::Pdf::Forms::ComboBoxField::ComboBoxField(System::SharedPtr<Document> doc
 * Class [ComboBoxField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## ComboBoxField::ComboBoxField(System::SharedPtr\<Document\>, System::SharedPtr\<Rectangle\>) constructor
+## ComboBoxField::ComboBoxField(const System::SharedPtr\<Document\>\&, const System::SharedPtr\<Rectangle\>\&) constructor
 
 
 Constructor for Combobox field.
 
 ```cpp
-Aspose::Pdf::Forms::ComboBoxField::ComboBoxField(System::SharedPtr<Document> doc, System::SharedPtr<Rectangle> rect)
+Aspose::Pdf::Forms::ComboBoxField::ComboBoxField(const System::SharedPtr<Document> &doc, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | System::SharedPtr\<Document\> | [Document](../../../aspose.pdf/document/) where field should be created. |
-| rect | System::SharedPtr\<Rectangle\> | [Rectangle](../../../aspose.pdf/rectangle/) which defines size and position of the field. |
+| doc | const System::SharedPtr\<Document\>\& | [Document](../../../aspose.pdf/document/) where field should be created. |
+| rect | const System::SharedPtr\<Rectangle\>\& | [Rectangle](../../../aspose.pdf/rectangle/) which defines size and position of the field. |
 
 ## See Also
 

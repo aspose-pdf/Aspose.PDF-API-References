@@ -25,7 +25,7 @@ class UnsignedContentAbsorber : public System::Object
 | Method | Description |
 | --- | --- |
 | [TryGetContent](./trygetcontent/)() | Attempt to retrieve the unsigned content from the associated document. |
-| [UnsignedContentAbsorber](./unsignedcontentabsorber/)(System::SharedPtr\<Facades::PdfFileSignature\>) | Represents a class used for processing unsigned content. |
+| [UnsignedContentAbsorber](./unsignedcontentabsorber/)(const System::SharedPtr\<Facades::PdfFileSignature\>\&) | Represents a class used for processing unsigned content. |
 ## See Also
 
 * Class [Object](../../system/object/)

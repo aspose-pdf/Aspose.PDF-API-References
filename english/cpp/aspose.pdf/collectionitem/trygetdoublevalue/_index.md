@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/collectionitem/trygetdoublevalue/
 Tries to get the double value for the specified name from the collection item.
 
 ```cpp
-bool Aspose::Pdf::CollectionItem::TryGetDoubleValue(System::String name, System::SharedPtr<CollectionItem::Value<double>> &value)
+bool Aspose::Pdf::CollectionItem::TryGetDoubleValue(const System::String &name, System::SharedPtr<CollectionItem::Value<double>> &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | The name of the value to retrieve. |
+| name | const System::String\& | The name of the value to retrieve. |
 | value | System::SharedPtr\<CollectionItem::Value\<double\>\>\& | When this method returns, contains the double value associated with the specified name, if the name is found; otherwise, null. This parameter is passed uninitialized. |
 
 ### ReturnValue

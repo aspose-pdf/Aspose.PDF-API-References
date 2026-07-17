@@ -20,7 +20,7 @@ class LineIntentConverter : public System::Object
 
 | Method | Description |
 | --- | --- |
-| static [ToEnum](./toenum/)(System::String) |  |
+| static [ToEnum](./toenum/)(const System::String\&) |  |
 | static [ToString](./tostring/)(LineIntent) |  |
 | static [ToXfdfString](./toxfdfstring/)(LineIntent) |  |
 ## See Also

@@ -21,8 +21,8 @@ class PDF3DStream : public System::Object
 | Method | Description |
 | --- | --- |
 | [get_Content](./get_content/)() const | Gets the content. |
-| [PDF3DStream](./pdf3dstream/)(System::SharedPtr\<Document\>, System::SharedPtr\<PDF3DArtwork\>) | Initializes a new instance of the [PDF3DStream](./) class. |
-| [set_Content](./set_content/)(System::SharedPtr\<PDF3DContent\>) | Sets the content. |
+| [PDF3DStream](./pdf3dstream/)(const System::SharedPtr\<Document\>\&, const System::SharedPtr\<PDF3DArtwork\>\&) | Initializes a new instance of the [PDF3DStream](./) class. |
+| [set_Content](./set_content/)(const System::SharedPtr\<PDF3DContent\>\&) | Sets the content. |
 ## See Also
 
 * Class [Object](../../system/object/)

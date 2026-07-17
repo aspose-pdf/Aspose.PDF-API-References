@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/filechecker/iscontentsafe/
 Checks the content of files to identify dangerous content. By checking the content, we do not allow adding dangerous content from a text file via stream.
 
 ```cpp
-static bool Aspose::Pdf::FileChecker::IsContentSafe(System::SharedPtr<System::IO::Stream> stream)
+static bool Aspose::Pdf::FileChecker::IsContentSafe(const System::SharedPtr<System::IO::Stream> &stream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | System::SharedPtr\<System::IO::Stream\> | The content stream. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | The content stream. |
 
 ### ReturnValue
 

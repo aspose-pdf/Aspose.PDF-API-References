@@ -19,7 +19,7 @@ SharedPtr<X509Certificate2> & System::Security::Cryptography::X509Certificates::
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| idx | size_t | Index of certificate to get. |
+| idx | size_t | [Index](../../../system/index/) of certificate to get. |
 
 ### ReturnValue
 

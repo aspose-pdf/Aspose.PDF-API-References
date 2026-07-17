@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.text/textsegment/myhtmlencode/
 Encodes string as html.
 
 ```cpp
-static System::String Aspose::Pdf::Text::TextSegment::MyHtmlEncode(System::String value)
+static System::String Aspose::Pdf::Text::TextSegment::MyHtmlEncode(const System::String &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | System::String | String value to encode. |
+| value | const System::String\& | String value to encode. |
 
 ### ReturnValue
 

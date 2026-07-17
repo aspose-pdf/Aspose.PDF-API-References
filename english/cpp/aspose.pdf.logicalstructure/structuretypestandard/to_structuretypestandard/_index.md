@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.logicalstructure/structuretypestandard/to_structuretypestan
 Performs an explicit conversion from [System::String](../../../system/string/) to [Aspose::Pdf::LogicalStructure::StructureTypeStandard](../).
 
 ```cpp
-static System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::StructureTypeStandard::to_StructureTypeStandard(System::String tag)
+static System::SharedPtr<StructureTypeStandard> Aspose::Pdf::LogicalStructure::StructureTypeStandard::to_StructureTypeStandard(const System::String &tag)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| tag | System::String | The tag name. |
+| tag | const System::String\& | The tag name. |
 
 ### ReturnValue
 

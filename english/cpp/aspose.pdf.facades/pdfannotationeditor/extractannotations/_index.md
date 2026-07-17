@@ -7,13 +7,13 @@ type: docs
 weight: 600
 url: /cpp/aspose.pdf.facades/pdfannotationeditor/extractannotations/
 ---
-## PdfAnnotationEditor::ExtractAnnotations(int32_t, int32_t, System::ArrayPtr\<Annotations::AnnotationType\>) method
+## PdfAnnotationEditor::ExtractAnnotations(int32_t, int32_t, const System::ArrayPtr\<Annotations::AnnotationType\>\&) method
 
 
 Gets the list of annotations of the specified types.
 
 ```cpp
-System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Annotations::Annotation>>> Aspose::Pdf::Facades::PdfAnnotationEditor::ExtractAnnotations(int32_t start, int32_t end, System::ArrayPtr<Annotations::AnnotationType> annotTypes)
+System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Annotations::Annotation>>> Aspose::Pdf::Facades::PdfAnnotationEditor::ExtractAnnotations(int32_t start, int32_t end, const System::ArrayPtr<Annotations::AnnotationType> &annotTypes)
 ```
 
 
@@ -21,7 +21,7 @@ System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Annotati
 | --- | --- | --- |
 | start | int32_t | Start page from which the annotations will be selected. |
 | end | int32_t | End page to which the annotations will be selected. |
-| annotTypes | System::ArrayPtr\<Annotations::AnnotationType\> | The array of needed annotation types. |
+| annotTypes | const System::ArrayPtr\<Annotations::AnnotationType\>\& | The array of needed annotation types. |
 
 ### ReturnValue
 
@@ -37,13 +37,13 @@ System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Annotati
 * Class [PdfAnnotationEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfAnnotationEditor::ExtractAnnotations(int32_t, int32_t, System::ArrayPtr\<System::String\>) method
+## PdfAnnotationEditor::ExtractAnnotations(int32_t, int32_t, const System::ArrayPtr\<System::String\>\&) method
 
 
 Gets the list of annotations of the specified types.
 
 ```cpp
-System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Annotations::Annotation>>> Aspose::Pdf::Facades::PdfAnnotationEditor::ExtractAnnotations(int32_t start, int32_t end, System::ArrayPtr<System::String> annotTypes)
+System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Annotations::Annotation>>> Aspose::Pdf::Facades::PdfAnnotationEditor::ExtractAnnotations(int32_t start, int32_t end, const System::ArrayPtr<System::String> &annotTypes)
 ```
 
 
@@ -51,7 +51,7 @@ System::SharedPtr<System::Collections::Generic::IList<System::SharedPtr<Annotati
 | --- | --- | --- |
 | start | int32_t | Start page from which the annotations will be selected. |
 | end | int32_t | End page to which the annotations will be selected. |
-| annotTypes | System::ArrayPtr\<System::String\> | The array of needed annotation types. |
+| annotTypes | const System::ArrayPtr\<System::String\>\& | The array of needed annotation types. |
 
 ### ReturnValue
 

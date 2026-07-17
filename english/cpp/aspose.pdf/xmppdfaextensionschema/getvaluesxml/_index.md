@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf/xmppdfaextensionschema/getvaluesxml/
 Gets the values of properties as xml tree representation.
 
 ```cpp
-void Aspose::Pdf::XmpPdfAExtensionSchema::GetValuesXml(System::SharedPtr<System::Xml::XmlDocument> xmlDocument, System::SharedPtr<System::Xml::XmlElement> rootElement)
+void Aspose::Pdf::XmpPdfAExtensionSchema::GetValuesXml(const System::SharedPtr<System::Xml::XmlDocument> &xmlDocument, const System::SharedPtr<System::Xml::XmlElement> &rootElement)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xmlDocument | System::SharedPtr\<System::Xml::XmlDocument\> | The source xml document. |
-| rootElement | System::SharedPtr\<System::Xml::XmlElement\> | The root node of properties values list. |
+| xmlDocument | const System::SharedPtr\<System::Xml::XmlDocument\>\& | The source xml document. |
+| rootElement | const System::SharedPtr\<System::Xml::XmlElement\>\& | The root node of properties values list. |
 
 ## See Also
 

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/ximagecollection/addwithname/
 Adds new image to [Image](../../image/) list. This method adds image as reference to the same PdfObject (which allows to decrease file size)
 
 ```cpp
-System::String Aspose::Pdf::XImageCollection::AddWithName(System::SharedPtr<Aspose::Pdf::XImage> image)
+System::String Aspose::Pdf::XImageCollection::AddWithName(const System::SharedPtr<Aspose::Pdf::XImage> &image)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| image | System::SharedPtr\<Aspose::Pdf::XImage\> | [XImage](../../ximage/) to be added. |
+| image | const System::SharedPtr\<Aspose::Pdf::XImage\>\& | [XImage](../../ximage/) to be added. |
 
 ### ReturnValue
 

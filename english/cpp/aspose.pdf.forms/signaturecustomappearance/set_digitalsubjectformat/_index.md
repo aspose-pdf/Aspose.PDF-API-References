@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signaturecustomappearance/set_digitalsubjectformat/
 Gets/sets format for order of elements in Subject string. Result examples: C=UK, CN=Org, O=Organization or CN=Org, C=UK, O=Organization or O=Organization.
 
 ```cpp
-void Aspose::Pdf::Forms::SignatureCustomAppearance::set_DigitalSubjectFormat(System::ArrayPtr<SubjectNameElements> value)
+void Aspose::Pdf::Forms::SignatureCustomAppearance::set_DigitalSubjectFormat(const System::ArrayPtr<SubjectNameElements> &value)
 ```
 
 ## See Also

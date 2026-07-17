@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signature/set_timestampsettings/
 Gets/sets timestamp settings.
 
 ```cpp
-void Aspose::Pdf::Forms::Signature::set_TimestampSettings(System::SharedPtr<Aspose::Pdf::TimestampSettings> value)
+void Aspose::Pdf::Forms::Signature::set_TimestampSettings(const System::SharedPtr<Aspose::Pdf::TimestampSettings> &value)
 ```
 
 ## Remarks

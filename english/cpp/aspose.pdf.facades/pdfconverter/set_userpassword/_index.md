@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfconverter/set_userpassword/
 Sets document UserPassword.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfConverter::set_UserPassword(System::String value)
+void Aspose::Pdf::Facades::PdfConverter::set_UserPassword(const System::String &value)
 ```
 
 ## See Also

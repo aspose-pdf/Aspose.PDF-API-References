@@ -36,11 +36,11 @@ class XImageAddingParams : public System::Object
 | [get_IsStencilMasked](./get_isstencilmasked/)() const |  |
 | [get_Quality](./get_quality/)() const |  |
 | [get_Type](./get_type/)() const |  |
-| [set_BitmapInfo](./set_bitmapinfo/)(System::SharedPtr\<Aspose::Pdf::BitmapInfo\>) |  |
+| [set_BitmapInfo](./set_bitmapinfo/)(const System::SharedPtr\<Aspose::Pdf::BitmapInfo\>\&) |  |
 | [set_BitMask](./set_bitmask/)(uint8_t) |  |
 | [set_FilterType](./set_filtertype/)(Aspose::Pdf::ImageFilterType) |  |
-| [set_Image](./set_image/)(System::SharedPtr\<System::Drawing::Image\>) |  |
-| [set_ImageStream](./set_imagestream/)(System::SharedPtr\<System::IO::Stream\>) |  |
+| [set_Image](./set_image/)(const System::SharedPtr\<System::Drawing::Image\>\&) |  |
+| [set_ImageStream](./set_imagestream/)(const System::SharedPtr\<System::IO::Stream\>\&) |  |
 | [set_IsBlackWhite](./set_isblackwhite/)(bool) |  |
 | [set_IsGrayScaled](./set_isgrayscaled/)(bool) |  |
 | [set_IsGrayScaleSoftMasked](./set_isgrayscalesoftmasked/)(bool) |  |

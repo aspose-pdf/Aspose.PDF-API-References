@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileeditor/contentsresizeparameters/set_contents
 Sets width of the content of the source page on the resultant page.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileEditor::ContentsResizeParameters::set_ContentsWidth(System::SharedPtr<PdfFileEditor::ContentsResizeValue> value)
+void Aspose::Pdf::Facades::PdfFileEditor::ContentsResizeParameters::set_ContentsWidth(const System::SharedPtr<PdfFileEditor::ContentsResizeValue> &value)
 ```
 
 ## See Also

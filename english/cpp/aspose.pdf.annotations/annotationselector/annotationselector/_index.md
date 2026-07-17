@@ -21,19 +21,19 @@ Aspose::Pdf::Annotations::AnnotationSelector::AnnotationSelector()
 * Class [AnnotationSelector](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## AnnotationSelector::AnnotationSelector(System::SharedPtr\<Annotation\>) constructor
+## AnnotationSelector::AnnotationSelector(const System::SharedPtr\<Annotation\>\&) constructor
 
 
 Initializes new [AnnotationSelector](../) object.
 
 ```cpp
-Aspose::Pdf::Annotations::AnnotationSelector::AnnotationSelector(System::SharedPtr<Annotation> annotation)
+Aspose::Pdf::Annotations::AnnotationSelector::AnnotationSelector(const System::SharedPtr<Annotation> &annotation)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| annotation | System::SharedPtr\<Annotation\> | [Annotation](../../annotation/) to be selected. This object only describes some characteristics we want found annotations to have, e.g. the type of annotation. |
+| annotation | const System::SharedPtr\<Annotation\>\& | [Annotation](../../annotation/) to be selected. This object only describes some characteristics we want found annotations to have, e.g. the type of annotation. |
 
 ## See Also
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/image/set_file/
 Sets the image file.
 
 ```cpp
-void Aspose::Pdf::Image::set_File(System::String value)
+void Aspose::Pdf::Image::set_File(const System::String &value)
 ```
 
 ## See Also

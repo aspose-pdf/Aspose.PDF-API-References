@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/baseparagraph/set_margin/
 Sets a outer margin for paragraph (for pdf generation)
 
 ```cpp
-void Aspose::Pdf::BaseParagraph::set_Margin(System::SharedPtr<MarginInfo> value)
+void Aspose::Pdf::BaseParagraph::set_Margin(const System::SharedPtr<MarginInfo> &value)
 ```
 
 ## See Also

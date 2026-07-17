@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/documentinfo/set_title/
 Sets document title.
 
 ```cpp
-void Aspose::Pdf::DocumentInfo::set_Title(System::String value)
+void Aspose::Pdf::DocumentInfo::set_Title(const System::String &value)
 ```
 
 ## See Also

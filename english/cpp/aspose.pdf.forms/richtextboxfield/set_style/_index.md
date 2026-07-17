@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/richtextboxfield/set_style/
 Sets default style string of the rich text field.
 
 ```cpp
-void Aspose::Pdf::Forms::RichTextBoxField::set_Style(System::String value)
+void Aspose::Pdf::Forms::RichTextBoxField::set_Style(const System::String &value)
 ```
 
 ## See Also

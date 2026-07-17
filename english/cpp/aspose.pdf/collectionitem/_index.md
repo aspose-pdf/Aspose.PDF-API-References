@@ -25,11 +25,11 @@ class CollectionItem : public System::Object
 | --- | --- |
 | [get_AllNames](./get_allnames/)() | Gets a collection of all the names of collection item values. |
 | [get_IsEmpty](./get_isempty/)() | Gets a value indicating whether the collection item is empty. |
-| [HasName](./hasname/)(System::String) | Checks if the given name exists in the collection item. |
-| [TryGetDateTimeValue](./trygetdatetimevalue/)(System::String, System::SharedPtr\<CollectionItem::Value\<System::DateTime\>\>\&) | Tries to get the value of type DateTime from the collection item by the specified name. |
-| [TryGetDoubleValue](./trygetdoublevalue/)(System::String, System::SharedPtr\<CollectionItem::Value\<double\>\>\&) | Tries to get the double value for the specified name from the collection item. |
-| [TryGetIntValue](./trygetintvalue/)(System::String, System::SharedPtr\<CollectionItem::Value\<int32_t\>\>\&) | Tries to get the integer value for a specified name from the collection item. |
-| [TryGetTextValue](./trygettextvalue/)(System::String, System::SharedPtr\<CollectionItem::Value\<System::String\>\>\&) | Tries to get the text value with the specified name from the collection item. |
+| [HasName](./hasname/)(const System::String\&) | Checks if the given name exists in the collection item. |
+| [TryGetDateTimeValue](./trygetdatetimevalue/)(const System::String\&, System::SharedPtr\<CollectionItem::Value\<System::DateTime\>\>\&) | Tries to get the value of type DateTime from the collection item by the specified name. |
+| [TryGetDoubleValue](./trygetdoublevalue/)(const System::String\&, System::SharedPtr\<CollectionItem::Value\<double\>\>\&) | Tries to get the double value for the specified name from the collection item. |
+| [TryGetIntValue](./trygetintvalue/)(const System::String\&, System::SharedPtr\<CollectionItem::Value\<int32_t\>\>\&) | Tries to get the integer value for a specified name from the collection item. |
+| [TryGetTextValue](./trygettextvalue/)(const System::String\&, System::SharedPtr\<CollectionItem::Value\<System::String\>\>\&) | Tries to get the text value with the specified name from the collection item. |
 ## See Also
 
 * Class [Object](../../system/object/)

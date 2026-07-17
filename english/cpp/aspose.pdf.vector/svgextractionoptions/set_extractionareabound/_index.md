@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.vector/svgextractionoptions/set_extractionareabound/
 Gets and sets the bounding rectangle that defines the extraction area for SVG extraction.
 
 ```cpp
-void Aspose::Pdf::Vector::SvgExtractionOptions::set_ExtractionAreaBound(System::SharedPtr<Rectangle> value)
+void Aspose::Pdf::Vector::SvgExtractionOptions::set_ExtractionAreaBound(const System::SharedPtr<Rectangle> &value)
 ```
 
 ## See Also

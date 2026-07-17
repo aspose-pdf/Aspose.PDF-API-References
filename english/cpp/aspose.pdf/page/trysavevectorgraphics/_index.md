@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/page/trysavevectorgraphics/
 Tries to save vector graphics if they are present on the page. The save format is SVG.
 
 ```cpp
-bool Aspose::Pdf::Page::TrySaveVectorGraphics(System::String pathToSave)
+bool Aspose::Pdf::Page::TrySaveVectorGraphics(const System::String &pathToSave)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pathToSave | System::String | Output file |
+| pathToSave | const System::String\& | Output file |
 
 ### ReturnValue
 

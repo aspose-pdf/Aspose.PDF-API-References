@@ -19,7 +19,7 @@ virtual void System::Collections::Generic::IList<T>::RemoveAt(int index)=0
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to remove element at. |
+| index | int | [Index](../../../system/index/) to remove element at. |
 
 ## See Also
 

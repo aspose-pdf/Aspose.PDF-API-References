@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/form/setxfadata/
 Replaces XFA data with specified data packet. Data packet may be extracted using ExtractXfaData.
 
 ```cpp
-void Aspose::Pdf::Facades::Form::SetXfaData(System::SharedPtr<System::IO::Stream> inputXmlStream)
+void Aspose::Pdf::Facades::Form::SetXfaData(const System::SharedPtr<System::IO::Stream> &inputXmlStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputXmlStream | System::SharedPtr\<System::IO::Stream\> | Stream where XML is stored. |
+| inputXmlStream | const System::SharedPtr\<System::IO::Stream\>\& | Stream where XML is stored. |
 
 ## See Also
 

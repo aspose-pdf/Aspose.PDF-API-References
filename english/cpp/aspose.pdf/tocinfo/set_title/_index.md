@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/tocinfo/set_title/
 Sets table of contents title.
 
 ```cpp
-void Aspose::Pdf::TocInfo::set_Title(System::SharedPtr<Text::TextFragment> value)
+void Aspose::Pdf::TocInfo::set_Title(const System::SharedPtr<Text::TextFragment> &value)
 ```
 
 ## See Also

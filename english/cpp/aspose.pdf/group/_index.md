@@ -21,7 +21,7 @@ class Group : public System::Object
 | Method | Description |
 | --- | --- |
 | [get_ColorSpace](./get_colorspace/)() | The group color space. |
-| [Group](./group/)(System::SharedPtr\<Page\>) | The constructor. |
+| [Group](./group/)(const System::SharedPtr\<Page\>\&) | The constructor. |
 | [set_ColorSpace](./set_colorspace/)(Aspose::Pdf::ColorSpace) | The group color space. |
 ## See Also
 

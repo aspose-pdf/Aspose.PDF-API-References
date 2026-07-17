@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/border/border/
 Constructor for border object.
 
 ```cpp
-Aspose::Pdf::Annotations::Border::Border(System::SharedPtr<Annotation> parent)
+Aspose::Pdf::Annotations::Border::Border(const System::SharedPtr<Annotation> &parent)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| parent | System::SharedPtr\<Annotation\> | Parent annotation. |
+| parent | const System::SharedPtr\<Annotation\>\& | Parent annotation. |
 
 ## See Also
 

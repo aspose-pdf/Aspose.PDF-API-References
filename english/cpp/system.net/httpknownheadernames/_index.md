@@ -66,7 +66,7 @@ class HttpKnownHeaderNames
 | static [ProxyAuthenticate](./proxyauthenticate/) | The 'Proxy-Authenticate' header name. |
 | static [ProxyAuthorization](./proxyauthorization/) | The 'Proxy-Authorization' header name. |
 | static [ProxyConnection](./proxyconnection/) | The 'Proxy-Connection' header name. |
-| static [Range](./range/) | The 'Range' header name. |
+| static [Range](./range/) | The '[Range](../../system/range/)' header name. |
 | static [Referer](./referer/) | The 'Referer' header name. |
 | static [RetryAfter](./retryafter/) | The 'Retry-After' header name. |
 | static [SecWebSocketAccept](./secwebsocketaccept/) | The 'Sec-WebSocket-Accept' header name. |

@@ -33,7 +33,7 @@ class GraphicsAbsorber : public System::IDisposable
 
 
 . |
-| [Visit](./visit/)(System::SharedPtr\<Page\>) | Performs search on the specified page. |
+| [Visit](./visit/)(const System::SharedPtr\<Page\>\&) | Performs search on the specified page. |
 ## See Also
 
 * Class [IDisposable](../../system/idisposable/)

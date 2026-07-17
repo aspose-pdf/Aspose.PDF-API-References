@@ -7,13 +7,13 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf.dataeditor/dictionaryeditor/dictionaryeditor/
 ---
-## DictionaryEditor::DictionaryEditor(System::SharedPtr\<Document\>) constructor
+## DictionaryEditor::DictionaryEditor(const System::SharedPtr\<Document\>\&) constructor
 
 
 ArgumentNullException
 
 ```cpp
-Aspose::Pdf::DataEditor::DictionaryEditor::DictionaryEditor(System::SharedPtr<Document> document)
+Aspose::Pdf::DataEditor::DictionaryEditor::DictionaryEditor(const System::SharedPtr<Document> &document)
 ```
 
 ## See Also
@@ -23,13 +23,13 @@ Aspose::Pdf::DataEditor::DictionaryEditor::DictionaryEditor(System::SharedPtr<Do
 * Class [DictionaryEditor](../)
 * Namespace [Aspose::Pdf::DataEditor](../../)
 * Library [Aspose.PDF for C++](../../../)
-## DictionaryEditor::DictionaryEditor(System::SharedPtr\<Page\>) constructor
+## DictionaryEditor::DictionaryEditor(const System::SharedPtr\<Page\>\&) constructor
 
 
 ArgumentNullException
 
 ```cpp
-Aspose::Pdf::DataEditor::DictionaryEditor::DictionaryEditor(System::SharedPtr<Page> page)
+Aspose::Pdf::DataEditor::DictionaryEditor::DictionaryEditor(const System::SharedPtr<Page> &page)
 ```
 
 ## See Also
@@ -39,13 +39,13 @@ Aspose::Pdf::DataEditor::DictionaryEditor::DictionaryEditor(System::SharedPtr<Pa
 * Class [DictionaryEditor](../)
 * Namespace [Aspose::Pdf::DataEditor](../../)
 * Library [Aspose.PDF for C++](../../../)
-## DictionaryEditor::DictionaryEditor(System::SharedPtr\<Resources\>) constructor
+## DictionaryEditor::DictionaryEditor(const System::SharedPtr\<Resources\>\&) constructor
 
 
 ArgumentNullException
 
 ```cpp
-Aspose::Pdf::DataEditor::DictionaryEditor::DictionaryEditor(System::SharedPtr<Resources> resources)
+Aspose::Pdf::DataEditor::DictionaryEditor::DictionaryEditor(const System::SharedPtr<Resources> &resources)
 ```
 
 ## See Also

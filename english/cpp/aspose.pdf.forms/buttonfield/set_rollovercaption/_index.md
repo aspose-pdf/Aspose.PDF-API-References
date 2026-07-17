@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/buttonfield/set_rollovercaption/
 Sets rollover caption of button which shall be displayed when the user rolls the cursor into its active area without pressing the mouse button.
 
 ```cpp
-void Aspose::Pdf::Forms::ButtonField::set_RolloverCaption(System::String value)
+void Aspose::Pdf::Forms::ButtonField::set_RolloverCaption(const System::String &value)
 ```
 
 ## See Also

@@ -22,7 +22,7 @@ class SimpleFontSubstitution : public Aspose::Pdf::Text::FontSubstitution
 | --- | --- |
 | [get_OriginalFontName](./get_originalfontname/)() const | Gets original font name that should be substituted with [SubstitutionFontName](../) |
 | [get_SubstitutionFontName](./get_substitutionfontname/)() const | Gets font name that should substitute the [OriginalFontName](../) |
-| [SimpleFontSubstitution](./simplefontsubstitution/)(System::String, System::String, bool) | Initializes a new instance of [SimpleFontSubstitution](./) class. |
+| [SimpleFontSubstitution](./simplefontsubstitution/)(const System::String\&, const System::String\&, bool) | Initializes a new instance of [SimpleFontSubstitution](./) class. |
 ## See Also
 
 * Class [FontSubstitution](../fontsubstitution/)

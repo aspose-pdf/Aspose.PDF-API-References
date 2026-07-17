@@ -19,7 +19,7 @@ System::String System::Collections::Specialized::StringCollection::idx_get(int i
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to get string from. |
+| index | int | [Index](../../../system/index/) to get string from. |
 
 ### ReturnValue
 

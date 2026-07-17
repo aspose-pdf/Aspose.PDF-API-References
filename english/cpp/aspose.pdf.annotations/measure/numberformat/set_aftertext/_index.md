@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/measure/numberformat/set_aftertext/
 [Text](../../../../aspose.pdf.text/) that shall be concatenated after the label.
 
 ```cpp
-void Aspose::Pdf::Annotations::Measure::NumberFormat::set_AfterText(System::String value)
+void Aspose::Pdf::Annotations::Measure::NumberFormat::set_AfterText(const System::String &value)
 ```
 
 ## See Also

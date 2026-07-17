@@ -23,7 +23,7 @@ int System::Collections::ObjectModel::Collection<T>::IndexOf(const T &item) cons
 
 ### ReturnValue
 
-Index of first occurrence of specified item or -1 if not found.
+[Index](../../../system/index/) of first occurrence of specified item or -1 if not found.
 
 ## See Also
 

@@ -32,18 +32,18 @@ class Image : public Aspose::Pdf::BaseParagraph
 | [get_IsApplyResolution](./get_isapplyresolution/)() const | Gets a bool value that indicates whether the image use resolution during generation. |
 | [get_IsBlackWhite](./get_isblackwhite/)() const | Gets a bool value that indicates whether the image is forced to be black-and-white. If TIFF image of CCITT subformat is used, this property must be set to true. |
 | [get_Title](./get_title/)() const | Gets a string value that indicates the title of the image. |
-| static [GetMimeType](./getmimetype/)(System::SharedPtr\<System::Drawing::Image\>) | Returns mime type for image. |
+| static [GetMimeType](./getmimetype/)(const System::SharedPtr\<System::Drawing::Image\>\&) | Returns mime type for image. |
 | [Image](./image/)() |  |
-| [set_BitmapInfo](./set_bitmapinfo/)(System::SharedPtr\<Aspose::Pdf::BitmapInfo\>) | Sets uncompressed image bytes. |
-| [set_File](./set_file/)(System::String) | Sets the image file. |
+| [set_BitmapInfo](./set_bitmapinfo/)(const System::SharedPtr\<Aspose::Pdf::BitmapInfo\>\&) | Sets uncompressed image bytes. |
+| [set_File](./set_file/)(const System::String\&) | Sets the image file. |
 | [set_FileType](./set_filetype/)(ImageFileType) | Sets the image file type. |
 | [set_FixHeight](./set_fixheight/)(double) | Sets the image height. |
 | [set_FixWidth](./set_fixwidth/)(double) | Sets the image width. |
 | [set_ImageScale](./set_imagescale/)(double) | Sets the image scale. |
-| [set_ImageStream](./set_imagestream/)(System::SharedPtr\<System::IO::Stream\>) | Sets the image stream. |
+| [set_ImageStream](./set_imagestream/)(const System::SharedPtr\<System::IO::Stream\>\&) | Sets the image stream. |
 | [set_IsApplyResolution](./set_isapplyresolution/)(bool) | Sets a bool value that indicates whether the image use resolution during generation. |
 | [set_IsBlackWhite](./set_isblackwhite/)(bool) | Sets a bool value that indicates whether the image is forced to be black-and-white. If TIFF image of CCITT subformat is used, this property must be set to true. |
-| [set_Title](./set_title/)(System::SharedPtr\<Text::TextFragment\>) | Sets a string value that indicates the title of the image. |
+| [set_Title](./set_title/)(const System::SharedPtr\<Text::TextFragment\>\&) | Sets a string value that indicates the title of the image. |
 ## See Also
 
 * Class [BaseParagraph](../baseparagraph/)

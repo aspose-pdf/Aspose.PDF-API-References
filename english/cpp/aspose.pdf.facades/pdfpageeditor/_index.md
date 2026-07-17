@@ -31,20 +31,20 @@ class PdfPageEditor : public Aspose::Pdf::Facades::SaveableFacade
 | [get_TransitionType](./get_transitiontype/)() | Gets transition style to use when moving to this page from another during a presentation. |
 | [get_VerticalAlignmentType](./get_verticalalignmenttype/)() | Gets or Sets the vertical alignment of the original PDF content on the result page, default is VerticalAlignmentType.Bottom. |
 | [get_Zoom](./get_zoom/)() | Get or sets zoom coefficient. Value 1.0 corresponds to 100%. Default value is 1.0. |
-| [GetPageBoxSize](./getpageboxsize/)(int32_t, System::String) | Returns size of specified box in document. |
+| [GetPageBoxSize](./getpageboxsize/)(int32_t, const System::String\&) | Returns size of specified box in document. |
 | [GetPageRotation](./getpagerotation/)(int32_t) | Returns the rotation of specified page. |
 | [GetPages](./getpages/)() | Returns total number of pages. |
 | [GetPageSize](./getpagesize/)(int32_t) | Returns the page size of the specified page. |
 | [MovePosition](./moveposition/)(float, float) | Moves the origin from (0, 0) to the point that appointted. The origin is left-bottom and the unit is point(1 inch = 72 points). |
 | [PdfPageEditor](./pdfpageeditor/)() | Constructor for [PdfPageEditor](./) class. |
-| [PdfPageEditor](./pdfpageeditor/)(System::SharedPtr\<Aspose::Pdf::Document\>) | Constructor for [PdfPageEditor](./) class. |
+| [PdfPageEditor](./pdfpageeditor/)(const System::SharedPtr\<Aspose::Pdf::Document\>\&) | Constructor for [PdfPageEditor](./) class. |
 | [Save](./save/)(System::String) override | Saves changed document into file. |
 | [Save](./save/)(System::SharedPtr\<System::IO::Stream\>) override | Saves changed document into stream. |
 | [set_DisplayDuration](./set_displayduration/)(int32_t) | Sets display duration for pages. |
 | [set_HorizontalAlignment](./set_horizontalalignment/)(Aspose::Pdf::HorizontalAlignment) | Sets the horizontal alignment of the original PDF content on the result page, default is AlignmentType.Left. |
-| [set_PageRotations](./set_pagerotations/)(System::SharedPtr\<System::Collections::Generic::Dictionary\<int32_t, int32_t\>\>) | A hashtable contains the page number and rotation degree, the key represents the page number, the value of key represents the rotation in degrees. |
-| [set_PageSize](./set_pagesize/)(System::SharedPtr\<Aspose::Pdf::PageSize\>) | Sets the output file's page size. |
-| [set_ProcessPages](./set_processpages/)(System::ArrayPtr\<int32_t\>) | Sets the page numbers to be edited. By default, each page would be edited. |
+| [set_PageRotations](./set_pagerotations/)(const System::SharedPtr\<System::Collections::Generic::Dictionary\<int32_t, int32_t\>\>\&) | A hashtable contains the page number and rotation degree, the key represents the page number, the value of key represents the rotation in degrees. |
+| [set_PageSize](./set_pagesize/)(const System::SharedPtr\<Aspose::Pdf::PageSize\>\&) | Sets the output file's page size. |
+| [set_ProcessPages](./set_processpages/)(const System::ArrayPtr\<int32_t\>\&) | Sets the page numbers to be edited. By default, each page would be edited. |
 | [set_Rotation](./set_rotation/)(int32_t) | Sets the rotation of the pages, the rotation must be 0, 90, 180 or 270. Default value is 0. |
 | [set_TransitionDuration](./set_transitionduration/)(int32_t) | Sets duration of the transition effect. |
 | [set_TransitionType](./set_transitiontype/)(int32_t) | Sets transition style to use when moving to this page from another during a presentation. |

@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.annotations/nameddestination/nameddestination/
 Create named destination.
 
 ```cpp
-Aspose::Pdf::Annotations::NamedDestination::NamedDestination(System::SharedPtr<Document> doc, System::String name)
+Aspose::Pdf::Annotations::NamedDestination::NamedDestination(const System::SharedPtr<Document> &doc, const System::String &name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | System::SharedPtr\<Document\> | [Document](../../../aspose.pdf/document/) where named destination should be created. |
-| name | System::String | Name to which destination refers. |
+| doc | const System::SharedPtr\<Document\>\& | [Document](../../../aspose.pdf/document/) where named destination should be created. |
+| name | const System::String\& | Name to which destination refers. |
 
 ## See Also
 

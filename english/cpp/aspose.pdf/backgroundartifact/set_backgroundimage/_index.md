@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/backgroundartifact/set_backgroundimage/
 Sets bacground image of background artifact.
 
 ```cpp
-void Aspose::Pdf::BackgroundArtifact::set_BackgroundImage(System::SharedPtr<System::IO::Stream> value)
+void Aspose::Pdf::BackgroundArtifact::set_BackgroundImage(const System::SharedPtr<System::IO::Stream> &value)
 ```
 
 ## See Also

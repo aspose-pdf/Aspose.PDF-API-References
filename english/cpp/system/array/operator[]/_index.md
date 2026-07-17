@@ -19,7 +19,7 @@ UnderlyingType & System::Array<T>::operator[](int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index of the item to return |
+| index | int | [Index](../../index/) of the item to return |
 
 ### ReturnValue
 
@@ -43,7 +43,7 @@ UnderlyingType const  & System::Array<T>::operator[](int index) const
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index of the item to return |
+| index | int | [Index](../../index/) of the item to return |
 
 ### ReturnValue
 

@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf/pagelabelcollection/updatelabel/
 Update label for given page index (page index is started from 0).
 
 ```cpp
-void Aspose::Pdf::PageLabelCollection::UpdateLabel(int32_t pageIndex, System::SharedPtr<PageLabel> pageLabel)
+void Aspose::Pdf::PageLabelCollection::UpdateLabel(int32_t pageIndex, const System::SharedPtr<PageLabel> &pageLabel)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pageIndex | int32_t | Index of page to change lable of the page. |
-| pageLabel | System::SharedPtr\<PageLabel\> | New label of the page. |
+| pageLabel | const System::SharedPtr\<PageLabel\>\& | New label of the page. |
 
 ## See Also
 

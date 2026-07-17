@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileeditor/set_ownerpassword/
 Sets owner's password if the source input [Pdf](../../../aspose.pdf/) file is encrypted. This property is not implemented yet.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileEditor::set_OwnerPassword(System::String value)
+void Aspose::Pdf::Facades::PdfFileEditor::set_OwnerPassword(const System::String &value)
 ```
 
 ## See Also

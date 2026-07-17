@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/autofiller/set_inputstream/
 Sets the input template stream. One of two input modes.
 
 ```cpp
-void Aspose::Pdf::Facades::AutoFiller::set_InputStream(System::SharedPtr<System::IO::Stream> value)
+void Aspose::Pdf::Facades::AutoFiller::set_InputStream(const System::SharedPtr<System::IO::Stream> &value)
 ```
 
 

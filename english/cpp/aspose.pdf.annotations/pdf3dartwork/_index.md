@@ -25,10 +25,10 @@ class PDF3DArtwork : public System::Object
 | [get_ViewArray](./get_viewarray/)() | Gets the view array. |
 | [GetViewsArray](./getviewsarray/)() | Gets the views array. |
 | [GetViewsList](./getviewslist/)() | Get the views as list. |
-| [PDF3DArtwork](./pdf3dartwork/)(System::SharedPtr\<Document\>, System::SharedPtr\<PDF3DContent\>, System::SharedPtr\<PDF3DLightingScheme\>, System::SharedPtr\<PDF3DRenderMode\>) | Initializes a new instance of the [PDF3DArtwork](./) class. |
-| [PDF3DArtwork](./pdf3dartwork/)(System::SharedPtr\<Document\>, System::SharedPtr\<PDF3DContent\>) | Initializes a new instance of the [PDF3DArtwork](./) class. |
-| [set_LightingScheme](./set_lightingscheme/)(System::SharedPtr\<PDF3DLightingScheme\>) | Sets the lighting scheme. |
-| [set_RenderMode](./set_rendermode/)(System::SharedPtr\<PDF3DRenderMode\>) | Sets the render mode. |
+| [PDF3DArtwork](./pdf3dartwork/)(const System::SharedPtr\<Document\>\&, const System::SharedPtr\<PDF3DContent\>\&, const System::SharedPtr\<PDF3DLightingScheme\>\&, const System::SharedPtr\<PDF3DRenderMode\>\&) | Initializes a new instance of the [PDF3DArtwork](./) class. |
+| [PDF3DArtwork](./pdf3dartwork/)(const System::SharedPtr\<Document\>\&, const System::SharedPtr\<PDF3DContent\>\&) | Initializes a new instance of the [PDF3DArtwork](./) class. |
+| [set_LightingScheme](./set_lightingscheme/)(const System::SharedPtr\<PDF3DLightingScheme\>\&) | Sets the lighting scheme. |
+| [set_RenderMode](./set_rendermode/)(const System::SharedPtr\<PDF3DRenderMode\>\&) | Sets the render mode. |
 ## See Also
 
 * Class [Object](../../system/object/)

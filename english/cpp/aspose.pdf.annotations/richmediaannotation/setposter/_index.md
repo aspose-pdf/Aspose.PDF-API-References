@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/richmediaannotation/setposter/
 Set poster of the annotation.
 
 ```cpp
-void Aspose::Pdf::Annotations::RichMediaAnnotation::SetPoster(System::SharedPtr<System::IO::Stream> imageStream)
+void Aspose::Pdf::Annotations::RichMediaAnnotation::SetPoster(const System::SharedPtr<System::IO::Stream> &imageStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| imageStream | System::SharedPtr\<System::IO::Stream\> | Stream containing poster image. |
+| imageStream | const System::SharedPtr\<System::IO::Stream\>\& | Stream containing poster image. |
 
 ## See Also
 

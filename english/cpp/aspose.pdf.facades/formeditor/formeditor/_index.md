@@ -21,19 +21,19 @@ Aspose::Pdf::Facades::FormEditor::FormEditor()
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## FormEditor::FormEditor(System::SharedPtr\<Aspose::Pdf::Document\>) constructor
+## FormEditor::FormEditor(const System::SharedPtr\<Aspose::Pdf::Document\>\&) constructor
 
 
 Initializes new [FormEditor](../) object on base of the *document* .
 
 ```cpp
-Aspose::Pdf::Facades::FormEditor::FormEditor(System::SharedPtr<Aspose::Pdf::Document> document)
+Aspose::Pdf::Facades::FormEditor::FormEditor(const System::SharedPtr<Aspose::Pdf::Document> &document)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Aspose::Pdf::Document\> | [Pdf](../../../aspose.pdf/) document. |
+| document | const System::SharedPtr\<Aspose::Pdf::Document\>\& | [Pdf](../../../aspose.pdf/) document. |
 
 ## See Also
 
@@ -42,20 +42,20 @@ Aspose::Pdf::Facades::FormEditor::FormEditor(System::SharedPtr<Aspose::Pdf::Docu
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## FormEditor::FormEditor(System::SharedPtr\<Aspose::Pdf::Document\>, System::SharedPtr\<System::IO::Stream\>) constructor
+## FormEditor::FormEditor(const System::SharedPtr\<Aspose::Pdf::Document\>\&, const System::SharedPtr\<System::IO::Stream\>\&) constructor
 
 
 Initializes new [FormEditor](../) object on base of the *document* .
 
 ```cpp
-Aspose::Pdf::Facades::FormEditor::FormEditor(System::SharedPtr<Aspose::Pdf::Document> document, System::SharedPtr<System::IO::Stream> destStream)
+Aspose::Pdf::Facades::FormEditor::FormEditor(const System::SharedPtr<Aspose::Pdf::Document> &document, const System::SharedPtr<System::IO::Stream> &destStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Aspose::Pdf::Document\> | [Pdf](../../../aspose.pdf/) document. |
-| destStream | System::SharedPtr\<System::IO::Stream\> | Destination stream. |
+| document | const System::SharedPtr\<Aspose::Pdf::Document\>\& | [Pdf](../../../aspose.pdf/) document. |
+| destStream | const System::SharedPtr\<System::IO::Stream\>\& | Destination stream. |
 
 ## Deprecated
 Use constructor without destination. 
@@ -68,20 +68,20 @@ Use constructor without destination.
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## FormEditor::FormEditor(System::SharedPtr\<Aspose::Pdf::Document\>, System::String) constructor
+## FormEditor::FormEditor(const System::SharedPtr\<Aspose::Pdf::Document\>\&, const System::String\&) constructor
 
 
 Initializes new [FormEditor](../) object on base of the *document* .
 
 ```cpp
-Aspose::Pdf::Facades::FormEditor::FormEditor(System::SharedPtr<Aspose::Pdf::Document> document, System::String destFileName)
+Aspose::Pdf::Facades::FormEditor::FormEditor(const System::SharedPtr<Aspose::Pdf::Document> &document, const System::String &destFileName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Aspose::Pdf::Document\> | [Pdf](../../../aspose.pdf/) document. |
-| destFileName | System::String | Path of the destination file. |
+| document | const System::SharedPtr\<Aspose::Pdf::Document\>\& | [Pdf](../../../aspose.pdf/) document. |
+| destFileName | const System::String\& | Path of the destination file. |
 
 ## Deprecated
 Use constructor without destination. 
@@ -94,20 +94,20 @@ Use constructor without destination.
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## FormEditor::FormEditor(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::Web::HttpResponse\>) constructor
+## FormEditor::FormEditor(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::Web::HttpResponse\>\&) constructor
 
 
 Creates [FormEditor](../) which will save result into HttpResponse object.
 
 ```cpp
-Aspose::Pdf::Facades::FormEditor::FormEditor(System::SharedPtr<System::IO::Stream> inputStream, System::SharedPtr<System::Web::HttpResponse> response)
+Aspose::Pdf::Facades::FormEditor::FormEditor(const System::SharedPtr<System::IO::Stream> &inputStream, const System::SharedPtr<System::Web::HttpResponse> &response)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | System::SharedPtr\<System::IO::Stream\> | Source stream. |
-| response | System::SharedPtr\<System::Web::HttpResponse\> | HttpResponse object where result will be saved. |
+| inputStream | const System::SharedPtr\<System::IO::Stream\>\& | Source stream. |
+| response | const System::SharedPtr\<System::Web::HttpResponse\>\& | HttpResponse object where result will be saved. |
 
 ## Deprecated
 Use constructor without destination. 
@@ -120,20 +120,20 @@ Use constructor without destination.
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## FormEditor::FormEditor(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::IO::Stream\>) constructor
+## FormEditor::FormEditor(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::IO::Stream\>\&) constructor
 
 
 Constructor for [FormEditor](../).
 
 ```cpp
-Aspose::Pdf::Facades::FormEditor::FormEditor(System::SharedPtr<System::IO::Stream> srcStream, System::SharedPtr<System::IO::Stream> destStream)
+Aspose::Pdf::Facades::FormEditor::FormEditor(const System::SharedPtr<System::IO::Stream> &srcStream, const System::SharedPtr<System::IO::Stream> &destStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcStream | System::SharedPtr\<System::IO::Stream\> | Source stream. |
-| destStream | System::SharedPtr\<System::IO::Stream\> | Destination stream. |
+| srcStream | const System::SharedPtr\<System::IO::Stream\>\& | Source stream. |
+| destStream | const System::SharedPtr\<System::IO::Stream\>\& | Destination stream. |
 
 ## Deprecated
 Use constructor without destination. 
@@ -145,20 +145,20 @@ Use constructor without destination.
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## FormEditor::FormEditor(System::String, System::SharedPtr\<System::Web::HttpResponse\>) constructor
+## FormEditor::FormEditor(const System::String\&, const System::SharedPtr\<System::Web::HttpResponse\>\&) constructor
 
 
 Creates [FormEditor](../) which will save result into HttpResponse object.
 
 ```cpp
-Aspose::Pdf::Facades::FormEditor::FormEditor(System::String inputFile, System::SharedPtr<System::Web::HttpResponse> response)
+Aspose::Pdf::Facades::FormEditor::FormEditor(const System::String &inputFile, const System::SharedPtr<System::Web::HttpResponse> &response)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | System::String | Source file name. |
-| response | System::SharedPtr\<System::Web::HttpResponse\> | HttpResponse objects where result be saved. |
+| inputFile | const System::String\& | Source file name. |
+| response | const System::SharedPtr\<System::Web::HttpResponse\>\& | HttpResponse objects where result be saved. |
 
 ## Deprecated
 Use constructor without destination. 
@@ -171,20 +171,20 @@ Use constructor without destination.
 * Class [FormEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## FormEditor::FormEditor(System::String, System::String) constructor
+## FormEditor::FormEditor(const System::String\&, const System::String\&) constructor
 
 
 Constructor for [FormEditor](../).
 
 ```cpp
-Aspose::Pdf::Facades::FormEditor::FormEditor(System::String srcFileName, System::String destFileName)
+Aspose::Pdf::Facades::FormEditor::FormEditor(const System::String &srcFileName, const System::String &destFileName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| srcFileName | System::String | Name of source file. |
-| destFileName | System::String | Name of destination file. |
+| srcFileName | const System::String\& | Name of source file. |
+| destFileName | const System::String\& | Name of destination file. |
 
 ## Deprecated
 Use constructor without destination. 

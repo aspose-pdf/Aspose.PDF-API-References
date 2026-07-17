@@ -19,9 +19,9 @@ void System::Text::StringBuilder::CopyTo(int sourceIndex, System::ArrayPtr<char_
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| sourceIndex | int | Index in builder to start copying from. |
+| sourceIndex | int | [Index](../../../system/index/) in builder to start copying from. |
 | destination | System::ArrayPtr\<char_t\> const\& | Destination array. |
-| destinationIndex | int | Index in destination array to start insertion at. |
+| destinationIndex | int | [Index](../../../system/index/) in destination array to start insertion at. |
 | count | int | Number of characters to copy. |
 
 ## See Also

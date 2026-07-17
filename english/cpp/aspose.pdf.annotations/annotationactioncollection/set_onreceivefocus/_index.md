@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotationactioncollection/set_onreceivefocus/
 Sets an action to be performed when the annotation receives the input focus.
 
 ```cpp
-void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnReceiveFocus(System::SharedPtr<PdfAction> value)
+void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnReceiveFocus(const System::SharedPtr<PdfAction> &value)
 ```
 
 ## See Also

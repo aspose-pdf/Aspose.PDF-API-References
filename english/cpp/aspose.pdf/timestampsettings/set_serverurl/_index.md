@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/timestampsettings/set_serverurl/
 Gets/sets the timestamp server url.
 
 ```cpp
-void Aspose::Pdf::TimestampSettings::set_ServerUrl(System::String value)
+void Aspose::Pdf::TimestampSettings::set_ServerUrl(const System::String &value)
 ```
 
 ## See Also

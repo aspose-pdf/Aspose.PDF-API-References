@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfpageeditor/set_pagesize/
 Sets the output file's page size.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfPageEditor::set_PageSize(System::SharedPtr<Aspose::Pdf::PageSize> value)
+void Aspose::Pdf::Facades::PdfPageEditor::set_PageSize(const System::SharedPtr<Aspose::Pdf::PageSize> &value)
 ```
 
 ## See Also

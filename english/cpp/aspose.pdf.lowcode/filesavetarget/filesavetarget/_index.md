@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.lowcode/filesavetarget/filesavetarget/
 Initializes new file save target with specified path.
 
 ```cpp
-Aspose::Pdf::LowCode::FileSaveTarget::FileSaveTarget(System::String path)
+Aspose::Pdf::LowCode::FileSaveTarget::FileSaveTarget(const System::String &path)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| path | System::String | A string representing the path to the output file. |
+| path | const System::String\& | A string representing the path to the output file. |
 
 ## See Also
 

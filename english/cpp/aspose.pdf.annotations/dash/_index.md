@@ -21,7 +21,7 @@ class Dash : public System::Object
 | Method | Description |
 | --- | --- |
 | [Dash](./dash/)(int32_t, int32_t) | Constructor for [Dash](./). Defines dashed border with specified dash and gap, which are unchanged for the entire dashed border. |
-| [Dash](./dash/)(System::ArrayPtr\<int32_t\>) | Constructor for [Dash](./). Defines a pattern of dashes and gaps that shall be used in drawing a dashed border. |
+| [Dash](./dash/)(const System::ArrayPtr\<int32_t\>\&) | Constructor for [Dash](./). Defines a pattern of dashes and gaps that shall be used in drawing a dashed border. |
 | [get_Off](./get_off/)() | Gets length of first gap between dashes. |
 | [get_On](./get_on/)() | Gets length of first dash. |
 | [get_Pattern](./get_pattern/)() const | Gets dash array defining a pattern of dashes and gaps that shall be used in drawing a dashed border. |

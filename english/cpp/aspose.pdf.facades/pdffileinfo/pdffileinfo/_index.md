@@ -21,19 +21,19 @@ Aspose::Pdf::Facades::PdfFileInfo::PdfFileInfo()
 * Class [PdfFileInfo](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileInfo::PdfFileInfo(System::SharedPtr\<Aspose::Pdf::Document\>) constructor
+## PdfFileInfo::PdfFileInfo(const System::SharedPtr\<Aspose::Pdf::Document\>\&) constructor
 
 
 Initializes new [PdfFileInfo](../) object on base of the *document* .
 
 ```cpp
-Aspose::Pdf::Facades::PdfFileInfo::PdfFileInfo(System::SharedPtr<Aspose::Pdf::Document> document)
+Aspose::Pdf::Facades::PdfFileInfo::PdfFileInfo(const System::SharedPtr<Aspose::Pdf::Document> &document)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Aspose::Pdf::Document\> | [Pdf](../../../aspose.pdf/) document. |
+| document | const System::SharedPtr\<Aspose::Pdf::Document\>\& | [Pdf](../../../aspose.pdf/) document. |
 
 ## See Also
 
@@ -42,19 +42,19 @@ Aspose::Pdf::Facades::PdfFileInfo::PdfFileInfo(System::SharedPtr<Aspose::Pdf::Do
 * Class [PdfFileInfo](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileInfo::PdfFileInfo(System::SharedPtr\<System::IO::Stream\>) constructor
+## PdfFileInfo::PdfFileInfo(const System::SharedPtr\<System::IO::Stream\>\&) constructor
 
 
 Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](../) class.
 
 ```cpp
-Aspose::Pdf::Facades::PdfFileInfo::PdfFileInfo(System::SharedPtr<System::IO::Stream> inputStream)
+Aspose::Pdf::Facades::PdfFileInfo::PdfFileInfo(const System::SharedPtr<System::IO::Stream> &inputStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | System::SharedPtr\<System::IO::Stream\> | Stream where input file is placed. |
+| inputStream | const System::SharedPtr\<System::IO::Stream\>\& | Stream where input file is placed. |
 
 ## See Also
 
@@ -63,20 +63,20 @@ Aspose::Pdf::Facades::PdfFileInfo::PdfFileInfo(System::SharedPtr<System::IO::Str
 * Class [PdfFileInfo](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileInfo::PdfFileInfo(System::SharedPtr\<System::IO::Stream\>, System::String) constructor
+## PdfFileInfo::PdfFileInfo(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&) constructor
 
 
 Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](../) class.
 
 ```cpp
-Aspose::Pdf::Facades::PdfFileInfo::PdfFileInfo(System::SharedPtr<System::IO::Stream> inputStream, System::String password)
+Aspose::Pdf::Facades::PdfFileInfo::PdfFileInfo(const System::SharedPtr<System::IO::Stream> &inputStream, const System::String &password)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | System::SharedPtr\<System::IO::Stream\> | Stream where input file is placed. |
-| password | System::String | Password for access to file. |
+| inputStream | const System::SharedPtr\<System::IO::Stream\>\& | Stream where input file is placed. |
+| password | const System::String\& | Password for access to file. |
 
 ## See Also
 
@@ -86,21 +86,21 @@ Aspose::Pdf::Facades::PdfFileInfo::PdfFileInfo(System::SharedPtr<System::IO::Str
 * Class [PdfFileInfo](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileInfo::PdfFileInfo(System::SharedPtr\<System::IO::Stream\>, System::String, System::SharedPtr\<Security::ICustomSecurityHandler\>) constructor
+## PdfFileInfo::PdfFileInfo(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&, const System::SharedPtr\<Security::ICustomSecurityHandler\>\&) constructor
 
 
 Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](../) class.
 
 ```cpp
-Aspose::Pdf::Facades::PdfFileInfo::PdfFileInfo(System::SharedPtr<System::IO::Stream> inputStream, System::String password, System::SharedPtr<Security::ICustomSecurityHandler> customSecurityHandler)
+Aspose::Pdf::Facades::PdfFileInfo::PdfFileInfo(const System::SharedPtr<System::IO::Stream> &inputStream, const System::String &password, const System::SharedPtr<Security::ICustomSecurityHandler> &customSecurityHandler)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | System::SharedPtr\<System::IO::Stream\> | Stream where input file is placed. |
-| password | System::String | Password for access to file. |
-| customSecurityHandler | System::SharedPtr\<Security::ICustomSecurityHandler\> | The custom security handler. |
+| inputStream | const System::SharedPtr\<System::IO::Stream\>\& | Stream where input file is placed. |
+| password | const System::String\& | Password for access to file. |
+| customSecurityHandler | const System::SharedPtr\<Security::ICustomSecurityHandler\>\& | The custom security handler. |
 
 ## See Also
 
@@ -111,19 +111,19 @@ Aspose::Pdf::Facades::PdfFileInfo::PdfFileInfo(System::SharedPtr<System::IO::Str
 * Class [PdfFileInfo](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileInfo::PdfFileInfo(System::String) constructor
+## PdfFileInfo::PdfFileInfo(const System::String\&) constructor
 
 
 Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](../) class.
 
 ```cpp
-Aspose::Pdf::Facades::PdfFileInfo::PdfFileInfo(System::String inputFile)
+Aspose::Pdf::Facades::PdfFileInfo::PdfFileInfo(const System::String &inputFile)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | System::String | Name of file containing input file. |
+| inputFile | const System::String\& | Name of file containing input file. |
 
 ## See Also
 
@@ -131,20 +131,20 @@ Aspose::Pdf::Facades::PdfFileInfo::PdfFileInfo(System::String inputFile)
 * Class [PdfFileInfo](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileInfo::PdfFileInfo(System::String, System::String) constructor
+## PdfFileInfo::PdfFileInfo(const System::String\&, const System::String\&) constructor
 
 
 Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](../) class.
 
 ```cpp
-Aspose::Pdf::Facades::PdfFileInfo::PdfFileInfo(System::String inputFile, System::String password)
+Aspose::Pdf::Facades::PdfFileInfo::PdfFileInfo(const System::String &inputFile, const System::String &password)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | System::String | Name of file containing input file. |
-| password | System::String | Password for access to file. |
+| inputFile | const System::String\& | Name of file containing input file. |
+| password | const System::String\& | Password for access to file. |
 
 ## See Also
 
@@ -152,21 +152,21 @@ Aspose::Pdf::Facades::PdfFileInfo::PdfFileInfo(System::String inputFile, System:
 * Class [PdfFileInfo](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileInfo::PdfFileInfo(System::String, System::String, System::SharedPtr\<Security::ICustomSecurityHandler\>) constructor
+## PdfFileInfo::PdfFileInfo(const System::String\&, const System::String\&, const System::SharedPtr\<Security::ICustomSecurityHandler\>\&) constructor
 
 
 Initializes a new instance of the [Aspose.Pdf.Facades.PdfFileInfo](../) class.
 
 ```cpp
-Aspose::Pdf::Facades::PdfFileInfo::PdfFileInfo(System::String inputFile, System::String password, System::SharedPtr<Security::ICustomSecurityHandler> customSecurityHandler)
+Aspose::Pdf::Facades::PdfFileInfo::PdfFileInfo(const System::String &inputFile, const System::String &password, const System::SharedPtr<Security::ICustomSecurityHandler> &customSecurityHandler)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | System::String | Name of file containing input file. |
-| password | System::String | Password for access to file. |
-| customSecurityHandler | System::SharedPtr\<Security::ICustomSecurityHandler\> | The custom security handler. |
+| inputFile | const System::String\& | Name of file containing input file. |
+| password | const System::String\& | Password for access to file. |
+| customSecurityHandler | const System::SharedPtr\<Security::ICustomSecurityHandler\>\& | The custom security handler. |
 
 ## See Also
 

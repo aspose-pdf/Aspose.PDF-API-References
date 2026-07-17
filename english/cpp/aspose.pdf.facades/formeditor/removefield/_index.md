@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/formeditor/removefield/
 Remove field from the form.
 
 ```cpp
-void Aspose::Pdf::Facades::FormEditor::RemoveField(System::String fieldName)
+void Aspose::Pdf::Facades::FormEditor::RemoveField(const System::String &fieldName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | Name of the field which must be removed. |
+| fieldName | const System::String\& | Name of the field which must be removed. |
 
 ## See Also
 

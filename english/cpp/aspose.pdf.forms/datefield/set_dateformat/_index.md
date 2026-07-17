@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/datefield/set_dateformat/
 Sets the date format.
 
 ```cpp
-void Aspose::Pdf::Forms::DateField::set_DateFormat(System::String value)
+void Aspose::Pdf::Forms::DateField::set_DateFormat(const System::String &value)
 ```
 
 ## Remarks

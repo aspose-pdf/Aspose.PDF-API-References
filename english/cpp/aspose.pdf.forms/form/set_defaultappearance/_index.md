@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/form/set_defaultappearance/
 Sets default appearance of the form (object which describes default font, text size and color for fields on the form).
 
 ```cpp
-void Aspose::Pdf::Forms::Form::set_DefaultAppearance(System::SharedPtr<Aspose::Pdf::Annotations::DefaultAppearance> value)
+void Aspose::Pdf::Forms::Form::set_DefaultAppearance(const System::SharedPtr<Aspose::Pdf::Annotations::DefaultAppearance> &value)
 ```
 
 ## See Also

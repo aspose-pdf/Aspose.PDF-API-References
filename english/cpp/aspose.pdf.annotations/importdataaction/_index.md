@@ -21,7 +21,7 @@ class ImportDataAction : public Aspose::Pdf::Annotations::PdfAction
 | Method | Description |
 | --- | --- |
 | [get_Data](./get_data/)() | The FDF file from which to import the data. |
-| [set_Data](./set_data/)(System::SharedPtr\<FileSpecification\>) | The FDF file from which to import the data. |
+| [set_Data](./set_data/)(const System::SharedPtr\<FileSpecification\>\&) | The FDF file from which to import the data. |
 ## See Also
 
 * Class [PdfAction](../pdfaction/)

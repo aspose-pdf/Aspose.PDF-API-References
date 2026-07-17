@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/option/set_value/
 Sets option export value.
 
 ```cpp
-void Aspose::Pdf::Forms::Option::set_Value(System::String value)
+void Aspose::Pdf::Forms::Option::set_Value(const System::String &value)
 ```
 
 ## See Also

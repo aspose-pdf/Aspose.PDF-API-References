@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/rows/indexof/
 Returns index of row in collection.
 
 ```cpp
-int32_t Aspose::Pdf::Rows::IndexOf(System::SharedPtr<Row> row)
+int32_t Aspose::Pdf::Rows::IndexOf(const System::SharedPtr<Row> &row)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| row | System::SharedPtr\<Row\> | The existing row. |
+| row | const System::SharedPtr\<Row\>\& | The existing row. |
 
 ### ReturnValue
 

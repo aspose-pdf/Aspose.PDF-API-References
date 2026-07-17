@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/levelformat/set_margin/
 Sets a list level margin.
 
 ```cpp
-void Aspose::Pdf::LevelFormat::set_Margin(System::SharedPtr<MarginInfo> value)
+void Aspose::Pdf::LevelFormat::set_Margin(const System::SharedPtr<MarginInfo> &value)
 ```
 
 ## See Also

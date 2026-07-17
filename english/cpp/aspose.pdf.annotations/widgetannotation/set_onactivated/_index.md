@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/widgetannotation/set_onactivated/
 An action which shall be performed when the annotation is activated.
 
 ```cpp
-void Aspose::Pdf::Annotations::WidgetAnnotation::set_OnActivated(System::SharedPtr<PdfAction> value)
+void Aspose::Pdf::Annotations::WidgetAnnotation::set_OnActivated(const System::SharedPtr<PdfAction> &value)
 ```
 
 ## See Also

@@ -21,7 +21,7 @@ class FormFieldSetOptions : public Aspose::Pdf::LowCode::FormFieldOptions
 | Method | Description |
 | --- | --- |
 | [get_Rect](./get_rect/)() const | [Rectangle](../../aspose.pdf/rectangle/) that be setted to field(s). |
-| [set_Rect](./set_rect/)(System::SharedPtr\<Rectangle\>) | [Rectangle](../../aspose.pdf/rectangle/) that be setted to field(s). |
+| [set_Rect](./set_rect/)(const System::SharedPtr\<Rectangle\>\&) | [Rectangle](../../aspose.pdf/rectangle/) that be setted to field(s). |
 ## See Also
 
 * Class [FormFieldOptions](../formfieldoptions/)

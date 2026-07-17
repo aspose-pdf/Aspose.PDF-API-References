@@ -21,14 +21,14 @@ class HideAction : public Aspose::Pdf::Annotations::PdfAction
 | Method | Description |
 | --- | --- |
 | [get_IsHidden](./get_ishidden/)() | Gets status of the annotation(s) to hide/display. |
-| [HideAction](./hideaction/)(System::SharedPtr\<Annotation\>) | Initializes a new instance of the [HideAction](./) class for the specified annotation. |
-| [HideAction](./hideaction/)(System::SharedPtr\<Annotation\>, bool) | Initializes a new instance of the [HideAction](./) class for the specified annotation and invisibility flag. |
-| [HideAction](./hideaction/)(System::String) | Initializes a new instance of the [HideAction](./) class for the specified field name. |
-| [HideAction](./hideaction/)(System::String, bool) | Initializes a new instance of the [HideAction](./) class for the specified field name and invisibility flag. |
-| [HideAction](./hideaction/)(System::ArrayPtr\<System::SharedPtr\<Annotation\>\>) | Initializes a new instance of the [HideAction](./) class for the specified annotations. |
-| [HideAction](./hideaction/)(System::ArrayPtr\<System::SharedPtr\<Annotation\>\>, bool) | Initializes a new instance of the [HideAction](./) class for the specified annotations and for invisibility flag. |
-| [HideAction](./hideaction/)(System::ArrayPtr\<System::String\>) | Initializes a new instance of the [HideAction](./) class for the specified field names. |
-| [HideAction](./hideaction/)(System::ArrayPtr\<System::String\>, bool) | Initializes a new instance of the [HideAction](./) class for the specified field names and for invisibility flag. |
+| [HideAction](./hideaction/)(const System::SharedPtr\<Annotation\>\&) | Initializes a new instance of the [HideAction](./) class for the specified annotation. |
+| [HideAction](./hideaction/)(const System::SharedPtr\<Annotation\>\&, bool) | Initializes a new instance of the [HideAction](./) class for the specified annotation and invisibility flag. |
+| [HideAction](./hideaction/)(const System::String\&) | Initializes a new instance of the [HideAction](./) class for the specified field name. |
+| [HideAction](./hideaction/)(const System::String\&, bool) | Initializes a new instance of the [HideAction](./) class for the specified field name and invisibility flag. |
+| [HideAction](./hideaction/)(const System::ArrayPtr\<System::SharedPtr\<Annotation\>\>\&) | Initializes a new instance of the [HideAction](./) class for the specified annotations. |
+| [HideAction](./hideaction/)(const System::ArrayPtr\<System::SharedPtr\<Annotation\>\>\&, bool) | Initializes a new instance of the [HideAction](./) class for the specified annotations and for invisibility flag. |
+| [HideAction](./hideaction/)(const System::ArrayPtr\<System::String\>\&) | Initializes a new instance of the [HideAction](./) class for the specified field names. |
+| [HideAction](./hideaction/)(const System::ArrayPtr\<System::String\>\&, bool) | Initializes a new instance of the [HideAction](./) class for the specified field names and for invisibility flag. |
 | [set_IsHidden](./set_ishidden/)(bool) | Sets status of the annotation(s) to hide/display. |
 ## See Also
 

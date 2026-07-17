@@ -19,7 +19,7 @@ void System::Collections::Generic::List<T>::_add_range(std::initializer_list<T> 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| list | std::initializer_list\<T\> | Range to insert into container. |
+| list | std::initializer_list\<T\> | [Range](../../../system/range/) to insert into container. |
 
 ## See Also
 

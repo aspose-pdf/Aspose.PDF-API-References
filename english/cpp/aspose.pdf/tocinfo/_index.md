@@ -29,15 +29,15 @@ class TocInfo : public System::Object
 | [get_LineDash](./get_linedash/)() const | Gets TOC line dash. |
 | [get_PageNumbersPrefix](./get_pagenumbersprefix/)() const | Gets is prefix before page number. |
 | [get_Title](./get_title/)() const | Gets table of contents title. |
-| [set_ColumnInfo](./set_columninfo/)(System::SharedPtr\<Aspose::Pdf::ColumnInfo\>) | Sets column info. |
+| [set_ColumnInfo](./set_columninfo/)(const System::SharedPtr\<Aspose::Pdf::ColumnInfo\>\&) | Sets column info. |
 | [set_CopyToOutlines](./set_copytooutlines/)(bool) | Sets is TOC copied to outlines. |
-| [set_FormatArray](./set_formatarray/)(System::ArrayPtr\<System::SharedPtr\<LevelFormat\>\>) | Sets format array for table of contents. |
+| [set_FormatArray](./set_formatarray/)(const System::ArrayPtr\<System::SharedPtr\<LevelFormat\>\>\&) | Sets format array for table of contents. |
 | [set_FormatArrayLength](./set_formatarraylength/)(int32_t) | Sets format array length. |
 | [set_IsCountTocPages](./set_iscounttocpages/)(bool) | Sets is count or passed toc pages. |
 | [set_IsShowPageNumbers](./set_isshowpagenumbers/)(bool) | Sets is show page numbers at Toc. |
 | [set_LineDash](./set_linedash/)(Text::TabLeaderType) | Sets TOC line dash. |
-| [set_PageNumbersPrefix](./set_pagenumbersprefix/)(System::String) | Sets is prefix before page number. |
-| [set_Title](./set_title/)(System::SharedPtr\<Text::TextFragment\>) | Sets table of contents title. |
+| [set_PageNumbersPrefix](./set_pagenumbersprefix/)(const System::String\&) | Sets is prefix before page number. |
+| [set_Title](./set_title/)(const System::SharedPtr\<Text::TextFragment\>\&) | Sets table of contents title. |
 | [TocInfo](./tocinfo/)() | Initializes a new instance of the [TocInfo](./) class. |
 ## See Also
 

@@ -10,7 +10,7 @@ url: /cpp/system.net/httpwebrequest/addrange/
 ## HttpWebRequest::AddRange(int32_t) method
 
 
-Adds the 'Range' header to the current request.
+Adds the '[Range](../../../system/range/)' header to the current request.
 
 ```cpp
 virtual void System::Net::HttpWebRequest::AddRange(int32_t range)
@@ -29,7 +29,7 @@ virtual void System::Net::HttpWebRequest::AddRange(int32_t range)
 ## HttpWebRequest::AddRange(System::String, int32_t, int32_t) method
 
 
-Adds the 'Range' header to the current request.
+Adds the '[Range](../../../system/range/)' header to the current request.
 
 ```cpp
 virtual void System::Net::HttpWebRequest::AddRange(System::String rangeSpecifier, int32_t from, int32_t to)

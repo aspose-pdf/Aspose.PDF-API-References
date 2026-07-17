@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textsegment/set_textstate/
 Sets text state for the text that [TextSegment](../) object represents.
 
 ```cpp
-void Aspose::Pdf::Text::TextSegment::set_TextState(System::SharedPtr<Aspose::Pdf::Text::TextState> value)
+void Aspose::Pdf::Text::TextSegment::set_TextState(const System::SharedPtr<Aspose::Pdf::Text::TextState> &value)
 ```
 
 ## Remarks

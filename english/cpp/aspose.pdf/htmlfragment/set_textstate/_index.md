@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/htmlfragment/set_textstate/
 Sets font.
 
 ```cpp
-void Aspose::Pdf::HtmlFragment::set_TextState(System::SharedPtr<Aspose::Pdf::Text::TextState> value)
+void Aspose::Pdf::HtmlFragment::set_TextState(const System::SharedPtr<Aspose::Pdf::Text::TextState> &value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setcolorspace/set_name/
 Sets color space name.
 
 ```cpp
-void Aspose::Pdf::Operators::SetColorSpace::set_Name(System::String value)
+void Aspose::Pdf::Operators::SetColorSpace::set_Name(const System::String &value)
 ```
 
 ## See Also

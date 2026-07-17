@@ -25,9 +25,9 @@ class LinkAnnotation : public Aspose::Pdf::Annotations::Annotation
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
 | [get_Destination](./get_destination/)() | A destination to be displayed when the annotation is activated. |
 | [get_Highlighting](./get_highlighting/)() | The visual effect to be used when the mouse button is pressed or held down inside its active area. |
-| [LinkAnnotation](./linkannotation/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) | Creates new Link annotation on the specified page. |
-| [set_Action](./set_action/)(System::SharedPtr\<PdfAction\>) | An action to be performed when the link annotation is activated. |
-| [set_Destination](./set_destination/)(System::SharedPtr\<IAppointment\>) | A destination to be displayed when the annotation is activated. |
+| [LinkAnnotation](./linkannotation/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&) | Creates new Link annotation on the specified page. |
+| [set_Action](./set_action/)(const System::SharedPtr\<PdfAction\>\&) | An action to be performed when the link annotation is activated. |
+| [set_Destination](./set_destination/)(const System::SharedPtr\<IAppointment\>\&) | A destination to be displayed when the annotation is activated. |
 | [set_Highlighting](./set_highlighting/)(HighlightingMode) | The visual effect to be used when the mouse button is pressed or held down inside its active area. |
 ## See Also
 

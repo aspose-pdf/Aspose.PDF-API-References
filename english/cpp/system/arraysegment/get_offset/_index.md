@@ -13,7 +13,7 @@ url: /cpp/system/arraysegment/get_offset/
 
 
 ```cpp
-int32_t System::ArraySegment<T>::get_Offset()
+int32_t System::ArraySegment<T>::get_Offset() const
 ```
 
 ## See Also

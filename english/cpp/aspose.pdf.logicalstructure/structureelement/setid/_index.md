@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.logicalstructure/structureelement/setid/
 Sets ID for structure element.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::StructureElement::SetId(System::String id)
+void Aspose::Pdf::LogicalStructure::StructureElement::SetId(const System::String &id)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| id | System::String | ID value for structure element |
+| id | const System::String\& | ID value for structure element |
 
 ## See Also
 

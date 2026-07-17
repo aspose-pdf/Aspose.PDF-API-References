@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/markupannotation/set_subject/
 Gets text representing desciption of the object.
 
 ```cpp
-void Aspose::Pdf::Annotations::MarkupAnnotation::set_Subject(System::String value)
+void Aspose::Pdf::Annotations::MarkupAnnotation::set_Subject(const System::String &value)
 ```
 
 ## See Also

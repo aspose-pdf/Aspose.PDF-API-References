@@ -22,9 +22,9 @@ class NumberField : public Aspose::Pdf::Forms::TextBoxField
 | --- | --- |
 | [get_AllowedChars](./get_allowedchars/)() const | Gets the allowed chars. |
 | [NumberField](./numberfield/)() | Initializes a new instance of the [NumberField](./) class. |
-| [NumberField](./numberfield/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) | Initializes a new instance of the [NumberField](./) class. |
-| [NumberField](./numberfield/)(System::SharedPtr\<Document\>, System::SharedPtr\<Rectangle\>) | Initializes a new instance of the [NumberField](./) class. |
-| [set_AllowedChars](./set_allowedchars/)(System::String) | Sets the allowed chars. |
+| [NumberField](./numberfield/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&) | Initializes a new instance of the [NumberField](./) class. |
+| [NumberField](./numberfield/)(const System::SharedPtr\<Document\>\&, const System::SharedPtr\<Rectangle\>\&) | Initializes a new instance of the [NumberField](./) class. |
+| [set_AllowedChars](./set_allowedchars/)(const System::String\&) | Sets the allowed chars. |
 
 ## See Also
 

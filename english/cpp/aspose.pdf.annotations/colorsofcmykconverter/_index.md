@@ -20,7 +20,7 @@ class ColorsOfCMYKConverter : public System::Object
 
 | Method | Description |
 | --- | --- |
-| static [ToEnum](./toenum/)(System::String) |  |
+| static [ToEnum](./toenum/)(const System::String\&) |  |
 | static [ToXfdfString](./toxfdfstring/)(ColorsOfCMYK) |  |
 ## See Also
 

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/collectionitem/hasname/
 Checks if the given name exists in the collection item.
 
 ```cpp
-bool Aspose::Pdf::CollectionItem::HasName(System::String name)
+bool Aspose::Pdf::CollectionItem::HasName(const System::String &name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | The name to check. |
+| name | const System::String\& | The name to check. |
 
 ### ReturnValue
 

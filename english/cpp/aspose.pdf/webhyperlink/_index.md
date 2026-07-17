@@ -21,9 +21,9 @@ class WebHyperlink : public Aspose::Pdf::Hyperlink
 | Method | Description |
 | --- | --- |
 | [get_Url](./get_url/)() const | Gets the web url. |
-| [set_Url](./set_url/)(System::String) | Sets the web url. |
+| [set_Url](./set_url/)(const System::String\&) | Sets the web url. |
 | [WebHyperlink](./webhyperlink/)() | Initializes a new instance of the [WebHyperlink](./) class. |
-| [WebHyperlink](./webhyperlink/)(System::String) | Initializes a new instance of the [WebHyperlink](./) class. |
+| [WebHyperlink](./webhyperlink/)(const System::String\&) | Initializes a new instance of the [WebHyperlink](./) class. |
 ## See Also
 
 * Class [Hyperlink](../hyperlink/)

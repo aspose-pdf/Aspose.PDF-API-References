@@ -21,19 +21,19 @@ Aspose::Pdf::Facades::PdfFileSignature::PdfFileSignature()
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileSignature::PdfFileSignature(System::SharedPtr\<Aspose::Pdf::Document\>) constructor
+## PdfFileSignature::PdfFileSignature(const System::SharedPtr\<Aspose::Pdf::Document\>\&) constructor
 
 
 Initializes new [PdfFileSignature](../) object on base of the *document* .
 
 ```cpp
-Aspose::Pdf::Facades::PdfFileSignature::PdfFileSignature(System::SharedPtr<Aspose::Pdf::Document> document)
+Aspose::Pdf::Facades::PdfFileSignature::PdfFileSignature(const System::SharedPtr<Aspose::Pdf::Document> &document)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Aspose::Pdf::Document\> | [Pdf](../../../aspose.pdf/) document. |
+| document | const System::SharedPtr\<Aspose::Pdf::Document\>\& | [Pdf](../../../aspose.pdf/) document. |
 
 ## See Also
 
@@ -42,20 +42,20 @@ Aspose::Pdf::Facades::PdfFileSignature::PdfFileSignature(System::SharedPtr<Aspos
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileSignature::PdfFileSignature(System::SharedPtr\<Aspose::Pdf::Document\>, System::String) constructor
+## PdfFileSignature::PdfFileSignature(const System::SharedPtr\<Aspose::Pdf::Document\>\&, const System::String\&) constructor
 
 
 Initializes new [PdfFileSignature](../) object on base of the *document* .
 
 ```cpp
-Aspose::Pdf::Facades::PdfFileSignature::PdfFileSignature(System::SharedPtr<Aspose::Pdf::Document> document, System::String outputFile)
+Aspose::Pdf::Facades::PdfFileSignature::PdfFileSignature(const System::SharedPtr<Aspose::Pdf::Document> &document, const System::String &outputFile)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Aspose::Pdf::Document\> | [Pdf](../../../aspose.pdf/) document. |
-| outputFile | System::String | The output file. |
+| document | const System::SharedPtr\<Aspose::Pdf::Document\>\& | [Pdf](../../../aspose.pdf/) document. |
+| outputFile | const System::String\& | The output file. |
 
 ## Deprecated
 Use another constructor for instance initialization. 
@@ -68,19 +68,19 @@ Use another constructor for instance initialization.
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileSignature::PdfFileSignature(System::String) constructor
+## PdfFileSignature::PdfFileSignature(const System::String\&) constructor
 
 
 The constructor of [PdfFileSignature](../) class.
 
 ```cpp
-Aspose::Pdf::Facades::PdfFileSignature::PdfFileSignature(System::String inputFile)
+Aspose::Pdf::Facades::PdfFileSignature::PdfFileSignature(const System::String &inputFile)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | System::String | The input file for signature. |
+| inputFile | const System::String\& | The input file for signature. |
 
 ## Deprecated
 Use another constructor for instance initialization. 
@@ -91,20 +91,20 @@ Use another constructor for instance initialization.
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileSignature::PdfFileSignature(System::String, System::String) constructor
+## PdfFileSignature::PdfFileSignature(const System::String\&, const System::String\&) constructor
 
 
 The constructor of [PdfFileSignature](../) class.
 
 ```cpp
-Aspose::Pdf::Facades::PdfFileSignature::PdfFileSignature(System::String inputFile, System::String outputFile)
+Aspose::Pdf::Facades::PdfFileSignature::PdfFileSignature(const System::String &inputFile, const System::String &outputFile)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | System::String | The input file for signature. |
-| outputFile | System::String | The output file. |
+| inputFile | const System::String\& | The input file for signature. |
+| outputFile | const System::String\& | The output file. |
 
 ## Deprecated
 Use another constructor for instance initialization. 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/autofiller/set_outputfilename/
 Sets the one big merged output file. One of the four output modes.
 
 ```cpp
-void Aspose::Pdf::Facades::AutoFiller::set_OutputFileName(System::String value)
+void Aspose::Pdf::Facades::AutoFiller::set_OutputFileName(const System::String &value)
 ```
 
 

@@ -20,7 +20,7 @@ class FormEditorAddOptions : public Aspose::Pdf::LowCode::FormEditorOptions
 
 | Method | Description |
 | --- | --- |
-| [FormEditorAddOptions](./formeditoraddoptions/)(System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<FormFieldCreateOptions\>\>\>) | Initializes a new instance of the [PdfFormAddFieldsOptions](../) object. |
+| [FormEditorAddOptions](./formeditoraddoptions/)(const System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<FormFieldCreateOptions\>\>\>\&) | Initializes a new instance of the [PdfFormAddFieldsOptions](../) object. |
 ## See Also
 
 * Class [FormEditorOptions](../formeditoroptions/)

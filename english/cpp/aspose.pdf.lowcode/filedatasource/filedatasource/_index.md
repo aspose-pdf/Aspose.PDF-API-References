@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.lowcode/filedatasource/filedatasource/
 Initializes new file data source with the specified path.
 
 ```cpp
-Aspose::Pdf::LowCode::FileDataSource::FileDataSource(System::String path)
+Aspose::Pdf::LowCode::FileDataSource::FileDataSource(const System::String &path)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| path | System::String | A string representing the path to the source file. |
+| path | const System::String\& | A string representing the path to the source file. |
 
 ## See Also
 

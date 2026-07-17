@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/xmppdfaextensionschema/contains/
 Determines whether obj exists in schema.
 
 ```cpp
-bool Aspose::Pdf::XmpPdfAExtensionSchema::Contains(System::SharedPtr<XmpPdfAExtensionObject> obj)
+bool Aspose::Pdf::XmpPdfAExtensionSchema::Contains(const System::SharedPtr<XmpPdfAExtensionObject> &obj)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | System::SharedPtr\<XmpPdfAExtensionObject\> | The obj to find. |
+| obj | const System::SharedPtr\<XmpPdfAExtensionObject\>\& | The obj to find. |
 
 ### ReturnValue
 

@@ -26,9 +26,9 @@ class PdfASymbolicFontEncodingStrategy : public System::Object
 | [get_CmapEncodingTablesPriorityQueue](./get_cmapencodingtablespriorityqueue/)() const | Specifies queue of encoding subtables to process. |
 | [get_PreferredCmapEncodingTable](./get_preferredcmapencodingtable/)() const | Specifies subtable which will be used in precedence to mac subtable(1,0). Value 'MacTable' from enumeration [QueueItem::CMapEncodingTableType](./queueitem/cmapencodingtabletype/) has no sense in this case. |
 | [PdfASymbolicFontEncodingStrategy](./pdfasymbolicfontencodingstrategy/)() | Constructor. Sets default subtable (mac 1,0) |
-| [PdfASymbolicFontEncodingStrategy](./pdfasymbolicfontencodingstrategy/)(System::SharedPtr\<System::Collections::Generic::Queue\<System::SharedPtr\<PdfASymbolicFontEncodingStrategy::QueueItem\>\>\>) | Constructor. |
+| [PdfASymbolicFontEncodingStrategy](./pdfasymbolicfontencodingstrategy/)(const System::SharedPtr\<System::Collections::Generic::Queue\<System::SharedPtr\<PdfASymbolicFontEncodingStrategy::QueueItem\>\>\>\&) | Constructor. |
 | [PdfASymbolicFontEncodingStrategy](./pdfasymbolicfontencodingstrategy/)(PdfASymbolicFontEncodingStrategy::QueueItem::CMapEncodingTableType) | Constructor. |
-| [set_CmapEncodingTablesPriorityQueue](./set_cmapencodingtablespriorityqueue/)(System::SharedPtr\<System::Collections::Generic::Queue\<System::SharedPtr\<PdfASymbolicFontEncodingStrategy::QueueItem\>\>\>) | Specifies queue of encoding subtables to process. |
+| [set_CmapEncodingTablesPriorityQueue](./set_cmapencodingtablespriorityqueue/)(const System::SharedPtr\<System::Collections::Generic::Queue\<System::SharedPtr\<PdfASymbolicFontEncodingStrategy::QueueItem\>\>\>\&) | Specifies queue of encoding subtables to process. |
 | [set_PreferredCmapEncodingTable](./set_preferredcmapencodingtable/)(PdfASymbolicFontEncodingStrategy::QueueItem::CMapEncodingTableType) | Specifies subtable which will be used in precedence to mac subtable(1,0). Value 'MacTable' from enumeration [QueueItem::CMapEncodingTableType](./queueitem/cmapencodingtabletype/) has no sense in this case. |
 ## See Also
 

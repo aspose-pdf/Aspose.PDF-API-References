@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/fixedprint/set_matrix/
 Sets matrix value.
 
 ```cpp
-void Aspose::Pdf::Annotations::FixedPrint::set_Matrix(System::SharedPtr<Aspose::Pdf::Matrix> value)
+void Aspose::Pdf::Annotations::FixedPrint::set_Matrix(const System::SharedPtr<Aspose::Pdf::Matrix> &value)
 ```
 
 ## See Also

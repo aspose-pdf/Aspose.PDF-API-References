@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/documentactioncollection/documentactioncollecti
 Constructor for [DocumentActionCollection](../). Constructs [DocumentActionCollection](../) objects from Pdf.Kit.Engine [Document](../../../aspose.pdf/document/) object.
 
 ```cpp
-Aspose::Pdf::Annotations::DocumentActionCollection::DocumentActionCollection(System::SharedPtr<Document> document)
+Aspose::Pdf::Annotations::DocumentActionCollection::DocumentActionCollection(const System::SharedPtr<Document> &document)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Document\> | [Document](../../../aspose.pdf/document/) for which action colleciton is created. |
+| document | const System::SharedPtr\<Document\>\& | [Document](../../../aspose.pdf/document/) for which action colleciton is created. |
 
 ## See Also
 

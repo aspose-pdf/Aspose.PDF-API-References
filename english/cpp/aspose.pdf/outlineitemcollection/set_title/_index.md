@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/outlineitemcollection/set_title/
 Sets the title for this outline item.
 
 ```cpp
-void Aspose::Pdf::OutlineItemCollection::set_Title(System::String value)
+void Aspose::Pdf::OutlineItemCollection::set_Title(const System::String &value)
 ```
 
 ## See Also

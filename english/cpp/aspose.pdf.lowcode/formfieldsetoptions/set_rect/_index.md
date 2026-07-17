@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/formfieldsetoptions/set_rect/
 [Rectangle](../../../aspose.pdf/rectangle/) that be setted to field(s).
 
 ```cpp
-void Aspose::Pdf::LowCode::FormFieldSetOptions::set_Rect(System::SharedPtr<Rectangle> value)
+void Aspose::Pdf::LowCode::FormFieldSetOptions::set_Rect(const System::SharedPtr<Rectangle> &value)
 ```
 
 ## See Also

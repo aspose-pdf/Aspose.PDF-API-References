@@ -22,7 +22,7 @@ class XForm : public System::IDisposable,
 
 | Method | Description |
 | --- | --- |
-| static [CreateNewForm](./createnewform/)(System::SharedPtr\<Page\>, System::SharedPtr\<Document\>) | Creates [XForm](./) which duplicates contents of the page. |
+| static [CreateNewForm](./createnewform/)(const System::SharedPtr\<Page\>\&, const System::SharedPtr\<Document\>\&) | Creates [XForm](./) which duplicates contents of the page. |
 | [Dispose](./dispose/)() override | Frees up memory. |
 | [FreeMemory](./freememory/)() override | Clears cached data. |
 | [get_BBox](./get_bbox/)() | Gets form bounding box. |
@@ -36,9 +36,9 @@ class XForm : public System::IDisposable,
 | [get_Subtype](./get_subtype/)() | Gets form Subtype. |
 | [GetResources](./getresources/)(bool) | Returns resources of Form X-Object. |
 | [GetResources](./getresources/)() override | Returns resources of Form X-Object. If For does not have resources and allowCreate is true, [Resources](../resources/) will be automatically created for the form. |
-| [set_BBox](./set_bbox/)(System::SharedPtr\<Aspose::Pdf::Rectangle\>) | Sets form bounding box. |
-| [set_Matrix](./set_matrix/)(System::SharedPtr\<Aspose::Pdf::Matrix\>) | Sets matrix of the form. |
-| [set_Name](./set_name/)(System::String) | Sets form name. Form name is name which used to reference form in XObejct ductionary in page resources. |
+| [set_BBox](./set_bbox/)(const System::SharedPtr\<Aspose::Pdf::Rectangle\>\&) | Sets form bounding box. |
+| [set_Matrix](./set_matrix/)(const System::SharedPtr\<Aspose::Pdf::Matrix\>\&) | Sets matrix of the form. |
+| [set_Name](./set_name/)(const System::String\&) | Sets form name. Form name is name which used to reference form in XObejct ductionary in page resources. |
 ## See Also
 
 * Class [IDisposable](../../system/idisposable/)

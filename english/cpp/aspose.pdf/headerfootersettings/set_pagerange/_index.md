@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/headerfootersettings/set_pagerange/
 Sets the range of pages for the header and footer settings.
 
 ```cpp
-void Aspose::Pdf::HeaderFooterSettings::set_PageRange(System::SharedPtr<Aspose::Pdf::PageRange> value)
+void Aspose::Pdf::HeaderFooterSettings::set_PageRange(const System::SharedPtr<Aspose::Pdf::PageRange> &value)
 ```
 
 ## See Also

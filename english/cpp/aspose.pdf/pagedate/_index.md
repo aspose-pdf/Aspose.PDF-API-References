@@ -30,10 +30,10 @@ class PageDate : public System::Object
 | [get_Month](./get_month/)() const | Gets the month component of the date. The format of the date will be updated based on this component. |
 | [get_Year](./get_year/)() const | Gets the year component of the date. The format of the date will be updated based on this component. |
 | [GetFormattedDate](./getformatteddate/)() | Returns the formatted date string based on the current date format. |
-| [set_Day](./set_day/)(System::SharedPtr\<PageDate::DayComponent\>) | Sets the day component of the date. The format of the date will be updated based on this component. |
-| [set_Delimiter](./set_delimiter/)(System::String) | Sets the delimiter used in the date format. The format of the date will be updated based on this delimiter. |
-| [set_Month](./set_month/)(System::SharedPtr\<PageDate::MonthComponent\>) | Sets the month component of the date. The format of the date will be updated based on this component. |
-| [set_Year](./set_year/)(System::SharedPtr\<PageDate::YearComponent\>) | Sets the year component of the date. The format of the date will be updated based on this component. |
+| [set_Day](./set_day/)(const System::SharedPtr\<PageDate::DayComponent\>\&) | Sets the day component of the date. The format of the date will be updated based on this component. |
+| [set_Delimiter](./set_delimiter/)(const System::String\&) | Sets the delimiter used in the date format. The format of the date will be updated based on this delimiter. |
+| [set_Month](./set_month/)(const System::SharedPtr\<PageDate::MonthComponent\>\&) | Sets the month component of the date. The format of the date will be updated based on this component. |
+| [set_Year](./set_year/)(const System::SharedPtr\<PageDate::YearComponent\>\&) | Sets the year component of the date. The format of the date will be updated based on this component. |
 ## See Also
 
 * Class [Object](../../system/object/)

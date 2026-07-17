@@ -7,19 +7,19 @@ type: docs
 weight: 700
 url: /cpp/aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner/
 ---
-## XYZExplicitDestination::CreateDestinationToUpperLeftCorner(System::SharedPtr\<Aspose::Pdf::Page\>) method
+## XYZExplicitDestination::CreateDestinationToUpperLeftCorner(const System::SharedPtr\<Aspose::Pdf::Page\>\&) method
 
 
 Create destination to specified page.
 
 ```cpp
-static System::SharedPtr<XYZExplicitDestination> Aspose::Pdf::Annotations::XYZExplicitDestination::CreateDestinationToUpperLeftCorner(System::SharedPtr<Aspose::Pdf::Page> page)
+static System::SharedPtr<XYZExplicitDestination> Aspose::Pdf::Annotations::XYZExplicitDestination::CreateDestinationToUpperLeftCorner(const System::SharedPtr<Aspose::Pdf::Page> &page)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | Destination page. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | Destination page. |
 
 ### ReturnValue
 
@@ -33,19 +33,19 @@ Destination object.
 * Class [XYZExplicitDestination](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## XYZExplicitDestination::CreateDestinationToUpperLeftCorner(System::SharedPtr\<Aspose::Pdf::Page\>, double) method
+## XYZExplicitDestination::CreateDestinationToUpperLeftCorner(const System::SharedPtr\<Aspose::Pdf::Page\>\&, double) method
 
 
 Create destionation to upper left corner of the specifed page.
 
 ```cpp
-static System::SharedPtr<XYZExplicitDestination> Aspose::Pdf::Annotations::XYZExplicitDestination::CreateDestinationToUpperLeftCorner(System::SharedPtr<Aspose::Pdf::Page> page, double zoom)
+static System::SharedPtr<XYZExplicitDestination> Aspose::Pdf::Annotations::XYZExplicitDestination::CreateDestinationToUpperLeftCorner(const System::SharedPtr<Aspose::Pdf::Page> &page, double zoom)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | Destination page. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | Destination page. |
 | zoom | double | Zoom factor. |
 
 ### ReturnValue

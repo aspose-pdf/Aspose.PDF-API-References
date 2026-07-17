@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.operators/setdash/setdash/
 Creates set dash pattern operator.
 
 ```cpp
-Aspose::Pdf::Operators::SetDash::SetDash(System::ArrayPtr<int32_t> pattern, int32_t phase)
+Aspose::Pdf::Operators::SetDash::SetDash(const System::ArrayPtr<int32_t> &pattern, int32_t phase)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pattern | System::ArrayPtr\<int32_t\> | Array which defines dash pattern. |
+| pattern | const System::ArrayPtr\<int32_t\>\& | Array which defines dash pattern. |
 | phase | int32_t | Dash phase. |
 
 ## See Also

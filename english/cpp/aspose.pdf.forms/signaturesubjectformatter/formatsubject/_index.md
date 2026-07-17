@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signaturesubjectformatter/formatsubject/
 
 
 ```cpp
-static System::String Aspose::Pdf::Forms::SignatureSubjectFormatter::FormatSubject(System::String subject, System::ArrayPtr<SubjectNameElements> format)
+static System::String Aspose::Pdf::Forms::SignatureSubjectFormatter::FormatSubject(const System::String &subject, const System::ArrayPtr<SubjectNameElements> &format)
 ```
 
 ## See Also

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/form/getrichtext/
 Get a Rich [Text](../../../aspose.pdf.text/) field's value, including the formattinf information of every character.
 
 ```cpp
-System::String Aspose::Pdf::Facades::Form::GetRichText(System::String fieldName)
+System::String Aspose::Pdf::Facades::Form::GetRichText(const System::String &fieldName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | The fully qualified field name of the Rich [Text](../../../aspose.pdf.text/) field. |
+| fieldName | const System::String\& | The fully qualified field name of the Rich [Text](../../../aspose.pdf.text/) field. |
 
 ### ReturnValue
 

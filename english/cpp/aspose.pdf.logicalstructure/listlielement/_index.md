@@ -21,7 +21,7 @@ class ListLIElement : public Aspose::Pdf::LogicalStructure::ListChildElement,
 
 | Method | Description |
 | --- | --- |
-| [AddRef](./addref/)(System::SharedPtr\<StructureElement\>) | Adds a reference to the specified [StructureElement](../structureelement/) within this [Table](../../aspose.pdf/table/) of Contents Item (TOCI) element. This is typically used when **[ListLIElement](./)** serves as a TOC header in nested tables of contents. |
+| [AddRef](./addref/)(const System::SharedPtr\<StructureElement\>\&) | Adds a reference to the specified [StructureElement](../structureelement/) within this [Table](../../aspose.pdf/table/) of Contents Item (TOCI) element. This is typically used when **[ListLIElement](./)** serves as a TOC header in nested tables of contents. |
 ## See Also
 
 * Class [ListChildElement](../listchildelement/)

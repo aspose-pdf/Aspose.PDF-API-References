@@ -7,19 +7,19 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf.dataeditor/cospdfstring/cospdfstring/
 ---
-## CosPdfString::CosPdfString(System::String) constructor
+## CosPdfString::CosPdfString(const System::String\&) constructor
 
 
 Initializes a new instance of the [CosPdfString](../) class.
 
 ```cpp
-Aspose::Pdf::DataEditor::CosPdfString::CosPdfString(System::String value)
+Aspose::Pdf::DataEditor::CosPdfString::CosPdfString(const System::String &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | System::String | The value. |
+| value | const System::String\& | The value. |
 
 ## See Also
 
@@ -27,19 +27,19 @@ Aspose::Pdf::DataEditor::CosPdfString::CosPdfString(System::String value)
 * Class [CosPdfString](../)
 * Namespace [Aspose::Pdf::DataEditor](../../)
 * Library [Aspose.PDF for C++](../../../)
-## CosPdfString::CosPdfString(System::String, bool) constructor
+## CosPdfString::CosPdfString(const System::String\&, bool) constructor
 
 
 Initializes a new instance of the [CosPdfString](../) class.
 
 ```cpp
-Aspose::Pdf::DataEditor::CosPdfString::CosPdfString(System::String value, bool isHexadecimal)
+Aspose::Pdf::DataEditor::CosPdfString::CosPdfString(const System::String &value, bool isHexadecimal)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | System::String | The string. |
+| value | const System::String\& | The string. |
 | isHexadecimal | bool | if set to **true** [is hexadecimal]. |
 
 ## See Also

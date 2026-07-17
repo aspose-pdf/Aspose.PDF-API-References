@@ -37,7 +37,7 @@ class BaseParagraph : public System::ICloneable
 | [set_IsInLineParagraph](./set_isinlineparagraph/)(bool) | Sets a paragraph is inline. Default is false.(for pdf generation) |
 | [set_IsInNewPage](./set_isinnewpage/)(bool) | Sets a bool value that force this paragraph generates at new page. Default is false.(for pdf generation) |
 | [set_IsKeptWithNext](./set_iskeptwithnext/)(bool) | Sets a bool value that indicates whether current paragraph remains in the same page along with next paragraph. Default is false.(for pdf generation) |
-| [set_Margin](./set_margin/)(System::SharedPtr\<MarginInfo\>) | Sets a outer margin for paragraph (for pdf generation) |
+| [set_Margin](./set_margin/)(const System::SharedPtr\<MarginInfo\>\&) | Sets a outer margin for paragraph (for pdf generation) |
 | virtual [set_VerticalAlignment](./set_verticalalignment/)(Aspose::Pdf::VerticalAlignment) | Sets a vertical alignment of paragraph. |
 | [set_ZIndex](./set_zindex/)(int32_t) | Sets a int value that indicates the Z-order of the graph. A graph with larger ZIndex will be placed over the graph with smaller ZIndex. ZIndex can be negative. Graph with negative ZIndex will be placed behind the text in the page. |
 ## See Also

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.forms/field/field/
 Creates field for use in Generator.
 
 ```cpp
-Aspose::Pdf::Forms::Field::Field(System::SharedPtr<Document> doc)
+Aspose::Pdf::Forms::Field::Field(const System::SharedPtr<Document> &doc)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | System::SharedPtr\<Document\> | [Document](../../../aspose.pdf/document/) where field will be created. |
+| doc | const System::SharedPtr\<Document\>\& | [Document](../../../aspose.pdf/document/) where field will be created. |
 
 ## See Also
 

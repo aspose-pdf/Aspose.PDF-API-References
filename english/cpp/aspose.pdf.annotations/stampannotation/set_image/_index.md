@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/stampannotation/set_image/
 Sets image of the annotation.
 
 ```cpp
-void Aspose::Pdf::Annotations::StampAnnotation::set_Image(System::SharedPtr<System::IO::Stream> value)
+void Aspose::Pdf::Annotations::StampAnnotation::set_Image(const System::SharedPtr<System::IO::Stream> &value)
 ```
 
 ## See Also

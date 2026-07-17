@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/ximage/getalternativetext/
 Returns a list of strings with Alternative [Text](../../../aspose.pdf.text/) for an [XImage](../).
 
 ```cpp
-System::SharedPtr<System::Collections::Generic::List<System::String>> Aspose::Pdf::XImage::GetAlternativeText(System::SharedPtr<Aspose::Pdf::Page> page)
+System::SharedPtr<System::Collections::Generic::List<System::String>> Aspose::Pdf::XImage::GetAlternativeText(const System::SharedPtr<Aspose::Pdf::Page> &page)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | The page where [XImage](../) is located. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | The page where [XImage](../) is located. |
 
 ### ReturnValue
 

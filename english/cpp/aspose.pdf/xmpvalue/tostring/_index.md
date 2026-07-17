@@ -27,19 +27,19 @@ String representation.
 * Class [XmpValue](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## XmpValue::ToString(System::SharedPtr\<System::IFormatProvider\>) method
+## XmpValue::ToString(const System::SharedPtr\<System::IFormatProvider\>\&) method
 
 
 Returns string representation.
 
 ```cpp
-System::String Aspose::Pdf::XmpValue::ToString(System::SharedPtr<System::IFormatProvider> formatProvider)
+System::String Aspose::Pdf::XmpValue::ToString(const System::SharedPtr<System::IFormatProvider> &formatProvider)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| formatProvider | System::SharedPtr\<System::IFormatProvider\> | Format provider. |
+| formatProvider | const System::SharedPtr\<System::IFormatProvider\>\& | Format provider. |
 
 ### ReturnValue
 

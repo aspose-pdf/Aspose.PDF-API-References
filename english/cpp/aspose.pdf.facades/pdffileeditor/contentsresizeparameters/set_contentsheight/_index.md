@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileeditor/contentsresizeparameters/set_contents
 Sets height of the content of the source page on the resultant page.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileEditor::ContentsResizeParameters::set_ContentsHeight(System::SharedPtr<PdfFileEditor::ContentsResizeValue> value)
+void Aspose::Pdf::Facades::PdfFileEditor::ContentsResizeParameters::set_ContentsHeight(const System::SharedPtr<PdfFileEditor::ContentsResizeValue> &value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfformatconversionoptions/set_symbolicfontencodingstrategy
 Strategy to copy encoding data for symbolic fonts if symbolic TrueType font has more than one encoding subtable.
 
 ```cpp
-void Aspose::Pdf::PdfFormatConversionOptions::set_SymbolicFontEncodingStrategy(System::SharedPtr<PdfASymbolicFontEncodingStrategy> value)
+void Aspose::Pdf::PdfFormatConversionOptions::set_SymbolicFontEncodingStrategy(const System::SharedPtr<PdfASymbolicFontEncodingStrategy> &value)
 ```
 
 ## See Also

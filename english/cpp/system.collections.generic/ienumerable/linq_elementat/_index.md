@@ -4,7 +4,7 @@ linktitle: LINQ_ElementAt
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IEnumerable::LINQ_ElementAt method. Returns the element at a specified index in a sequence in C++.'
 type: docs
-weight: 1300
+weight: 1400
 url: /cpp/system.collections.generic/ienumerable/linq_elementat/
 ---
 ## IEnumerable::LINQ_ElementAt method
@@ -19,7 +19,7 @@ T System::Collections::Generic::IEnumerable<T>::LINQ_ElementAt(int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to get element at. |
+| index | int | [Index](../../../system/index/) to get element at. |
 
 ### ReturnValue
 

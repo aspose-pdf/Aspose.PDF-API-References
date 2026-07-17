@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilemend/set_outputfile/
 Sets the output file.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileMend::set_OutputFile(System::String value)
+void Aspose::Pdf::Facades::PdfFileMend::set_OutputFile(const System::String &value)
 ```
 
 

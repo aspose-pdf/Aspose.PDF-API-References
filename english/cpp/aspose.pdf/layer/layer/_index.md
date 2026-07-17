@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf/layer/layer/
 Initializes a new instance of the [Layer](../) class.
 
 ```cpp
-Aspose::Pdf::Layer::Layer(System::String id, System::String name)
+Aspose::Pdf::Layer::Layer(const System::String &id, const System::String &name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| id | System::String | The layer id |
-| name | System::String | The layer name |
+| id | const System::String\& | The layer id |
+| name | const System::String\& | The layer name |
 
 ## See Also
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/printduplexconverter/toenum/
 
 
 ```cpp
-static PrintDuplex Aspose::Pdf::PrintDuplexConverter::ToEnum(System::String value)
+static PrintDuplex Aspose::Pdf::PrintDuplexConverter::ToEnum(const System::String &value)
 ```
 
 ## See Also

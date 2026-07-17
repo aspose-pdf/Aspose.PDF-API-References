@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.logicalstructure/attributename/fromnameattributekey/
 Gets attribute name for attribute key.
 
 ```cpp
-static System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::FromNameAttributeKey(System::String name, System::SharedPtr<Aspose::Pdf::LogicalStructure::AttributeKey> attributeKey)
+static System::SharedPtr<AttributeName> Aspose::Pdf::LogicalStructure::AttributeName::FromNameAttributeKey(const System::String &name, const System::SharedPtr<Aspose::Pdf::LogicalStructure::AttributeKey> &attributeKey)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | Attribute name |
-| attributeKey | System::SharedPtr\<Aspose::Pdf::LogicalStructure::AttributeKey\> | Attribute key |
+| name | const System::String\& | Attribute name |
+| attributeKey | const System::SharedPtr\<Aspose::Pdf::LogicalStructure::AttributeKey\>\& | Attribute key |
 
 ### ReturnValue
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/ximageaddingparams/set_imagestream/
 
 
 ```cpp
-void Aspose::Pdf::XImageAddingParams::set_ImageStream(System::SharedPtr<System::IO::Stream> value)
+void Aspose::Pdf::XImageAddingParams::set_ImageStream(const System::SharedPtr<System::IO::Stream> &value)
 ```
 
 ## See Also

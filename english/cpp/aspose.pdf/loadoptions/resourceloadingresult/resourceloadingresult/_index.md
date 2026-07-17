@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/loadoptions/resourceloadingresult/resourceloadingresult/
 Creates instance of loading result.
 
 ```cpp
-Aspose::Pdf::LoadOptions::ResourceLoadingResult::ResourceLoadingResult(System::ArrayPtr<uint8_t> data)
+Aspose::Pdf::LoadOptions::ResourceLoadingResult::ResourceLoadingResult(const System::ArrayPtr<uint8_t> &data)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| data | System::ArrayPtr\<uint8_t\> | reult of custom loading must be allways provided, it can be zero-length array if it's impossible to get any result |
+| data | const System::ArrayPtr\<uint8_t\>\& | reult of custom loading must be allways provided, it can be zero-length array if it's impossible to get any result |
 
 ## See Also
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pageinfo/set_margin/
 Sets page margin.
 
 ```cpp
-void Aspose::Pdf::PageInfo::set_Margin(System::SharedPtr<MarginInfo> value)
+void Aspose::Pdf::PageInfo::set_Margin(const System::SharedPtr<MarginInfo> &value)
 ```
 
 ## See Also

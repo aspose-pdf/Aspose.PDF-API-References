@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/form/getfieldflag/
 Returns flags of the field.
 
 ```cpp
-PropertyFlag Aspose::Pdf::Facades::Form::GetFieldFlag(System::String fieldName)
+PropertyFlag Aspose::Pdf::Facades::Form::GetFieldFlag(const System::String &fieldName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | Field name |
+| fieldName | const System::String\& | Field name |
 
 ### ReturnValue
 

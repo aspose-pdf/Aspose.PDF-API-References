@@ -19,7 +19,7 @@ char_t System::String::operator[](int index) const
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to get character from. |
+| index | int | [Index](../../index/) to get character from. |
 
 ### ReturnValue
 

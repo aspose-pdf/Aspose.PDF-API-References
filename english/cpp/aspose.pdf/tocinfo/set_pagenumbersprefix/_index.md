@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/tocinfo/set_pagenumbersprefix/
 Sets is prefix before page number.
 
 ```cpp
-void Aspose::Pdf::TocInfo::set_PageNumbersPrefix(System::String value)
+void Aspose::Pdf::TocInfo::set_PageNumbersPrefix(const System::String &value)
 ```
 
 ## See Also

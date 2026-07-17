@@ -21,19 +21,19 @@ Aspose::Pdf::Forms::PKCS1::PKCS1()
 * Class [PKCS1](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PKCS1::PKCS1(System::SharedPtr\<System::IO::Stream\>) constructor
+## PKCS1::PKCS1(const System::SharedPtr\<System::IO::Stream\>\&) constructor
 
 
 Initializes new instance of the [PKCS1](../) class.
 
 ```cpp
-Aspose::Pdf::Forms::PKCS1::PKCS1(System::SharedPtr<System::IO::Stream> image)
+Aspose::Pdf::Forms::PKCS1::PKCS1(const System::SharedPtr<System::IO::Stream> &image)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| image | System::SharedPtr\<System::IO::Stream\> | This image will define signature appearance on the page. |
+| image | const System::SharedPtr\<System::IO::Stream\>\& | This image will define signature appearance on the page. |
 
 ## See Also
 
@@ -42,20 +42,20 @@ Aspose::Pdf::Forms::PKCS1::PKCS1(System::SharedPtr<System::IO::Stream> image)
 * Class [PKCS1](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PKCS1::PKCS1(System::SharedPtr\<System::IO::Stream\>, System::String) constructor
+## PKCS1::PKCS1(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&) constructor
 
 
 Inititalizes new instance of the [PKCS1](../) class.
 
 ```cpp
-Aspose::Pdf::Forms::PKCS1::PKCS1(System::SharedPtr<System::IO::Stream> pfx, System::String password)
+Aspose::Pdf::Forms::PKCS1::PKCS1(const System::SharedPtr<System::IO::Stream> &pfx, const System::String &password)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pfx | System::SharedPtr\<System::IO::Stream\> | Stream with certificate data organized as pfx. |
-| password | System::String | Password to get access to the private key in the certificate. |
+| pfx | const System::SharedPtr\<System::IO::Stream\>\& | Stream with certificate data organized as pfx. |
+| password | const System::String\& | Password to get access to the private key in the certificate. |
 
 ## See Also
 
@@ -65,20 +65,20 @@ Aspose::Pdf::Forms::PKCS1::PKCS1(System::SharedPtr<System::IO::Stream> pfx, Syst
 * Class [PKCS1](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PKCS1::PKCS1(System::String, System::String) constructor
+## PKCS1::PKCS1(const System::String\&, const System::String\&) constructor
 
 
 Inititalizes new instance of the [PKCS1](../) class.
 
 ```cpp
-Aspose::Pdf::Forms::PKCS1::PKCS1(System::String pfx, System::String password)
+Aspose::Pdf::Forms::PKCS1::PKCS1(const System::String &pfx, const System::String &password)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pfx | System::String | Pfx file which contains certificate for signing. |
-| password | System::String | Password for certificate. |
+| pfx | const System::String\& | Pfx file which contains certificate for signing. |
+| password | const System::String\& | Password for certificate. |
 ## Remarks
 
 

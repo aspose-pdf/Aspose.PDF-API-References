@@ -17,13 +17,13 @@ Creates a new instance of the
 class.
 
 ```cpp
-Aspose::Pdf::BitmapInfo::BitmapInfo(System::ArrayPtr<uint8_t> pixelBytes, int32_t width, int32_t height, BitmapInfo::PixelFormat format)
+Aspose::Pdf::BitmapInfo::BitmapInfo(const System::ArrayPtr<uint8_t> &pixelBytes, int32_t width, int32_t height, BitmapInfo::PixelFormat format)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pixelBytes | System::ArrayPtr\<uint8_t\> | Array of pixels. |
+| pixelBytes | const System::ArrayPtr\<uint8_t\>\& | Array of pixels. |
 | width | int32_t | Width of the bitmap. |
 | height | int32_t | Height of the bitmap. |
 | format | BitmapInfo::PixelFormat | Pixel format of the bitmap. |

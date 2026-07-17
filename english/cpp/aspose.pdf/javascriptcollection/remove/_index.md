@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/javascriptcollection/remove/
 Removes JavaScript by its name.
 
 ```cpp
-bool Aspose::Pdf::JavaScriptCollection::Remove(System::String key)
+bool Aspose::Pdf::JavaScriptCollection::Remove(const System::String &key)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | System::String | Key value. |
+| key | const System::String\& | Key value. |
 
 ### ReturnValue
 

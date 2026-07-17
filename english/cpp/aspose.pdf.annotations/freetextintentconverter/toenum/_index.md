@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/freetextintentconverter/toenum/
 
 
 ```cpp
-static FreeTextIntent Aspose::Pdf::Annotations::FreeTextIntentConverter::ToEnum(System::String value)
+static FreeTextIntent Aspose::Pdf::Annotations::FreeTextIntentConverter::ToEnum(const System::String &value)
 ```
 
 ## See Also

@@ -39,7 +39,7 @@ class SetColorStroke : public Aspose::Pdf::Operators::BasicSetColorOperator
 | [SetColorStroke](./setcolorstroke/)() | Initializes operator. |
 | [SetColorStroke](./setcolorstroke/)(double) | Set color for stroking operators for DeviceGray, CalGray and Indexed color spaces. |
 | [SetColorStroke](./setcolorstroke/)(double, double, double) | Set color for stroking operator for DeviceRGB, CalRGB, and Lab color spaces. |
-| [SetColorStroke](./setcolorstroke/)(System::ArrayPtr\<double\>) | Constructor which allows to set color components. |
+| [SetColorStroke](./setcolorstroke/)(const System::ArrayPtr\<double\>\&) | Constructor which allows to set color components. |
 | [SetColorStroke](./setcolorstroke/)(double, double, double, double) | Set color for stroking operator for CMYK color space. |
 ## See Also
 

@@ -27,14 +27,14 @@ class ParagraphAbsorber : public System::Object
 | [get_TextReplaceOptions](./get_textreplaceoptions/)() const | Gets the [TextReplaceOptions](../textreplaceoptions/). |
 | [ParagraphAbsorber](./paragraphabsorber/)() | Initializes a new instance of the [ParagraphAbsorber](./) that performs search for sections/paragraphs of the document or page. |
 | [ParagraphAbsorber](./paragraphabsorber/)(int32_t) | Initializes a new instance of the [ParagraphAbsorber](./) that performs search for sections/paragraphs of the document or page. |
-| [ParagraphAbsorber](./paragraphabsorber/)(System::SharedPtr\<Aspose::Pdf::Text::ParagraphAbsorberOptions\>) | Initializes a new instance of the [ParagraphAbsorber](./) that performs search for sections/paragraphs of the document or page with the specified parameters. |
-| [ParagraphAbsorber](./paragraphabsorber/)(int32_t, System::SharedPtr\<Aspose::Pdf::Text::ParagraphAbsorberOptions\>) | Initializes a new instance of the [ParagraphAbsorber](./) that performs search for sections/paragraphs of the document or page with the specified parameters. |
+| [ParagraphAbsorber](./paragraphabsorber/)(const System::SharedPtr\<Aspose::Pdf::Text::ParagraphAbsorberOptions\>\&) | Initializes a new instance of the [ParagraphAbsorber](./) that performs search for sections/paragraphs of the document or page with the specified parameters. |
+| [ParagraphAbsorber](./paragraphabsorber/)(int32_t, const System::SharedPtr\<Aspose::Pdf::Text::ParagraphAbsorberOptions\>\&) | Initializes a new instance of the [ParagraphAbsorber](./) that performs search for sections/paragraphs of the document or page with the specified parameters. |
 | [set_IsMulticolumnParagraphsAllowed](./set_ismulticolumnparagraphsallowed/)(bool) | Sets value that indicates whether starting text lines of a next section may be treated as continuation of the last paragraph of a previous section. |
-| [set_ParagraphAbsorberOptions](./set_paragraphabsorberoptions/)(System::SharedPtr\<Aspose::Pdf::Text::ParagraphAbsorberOptions\>) | Sets the [ParagraphAbsorberOptions](../paragraphabsorberoptions/). |
+| [set_ParagraphAbsorberOptions](./set_paragraphabsorberoptions/)(const System::SharedPtr\<Aspose::Pdf::Text::ParagraphAbsorberOptions\>\&) | Sets the [ParagraphAbsorberOptions](../paragraphabsorberoptions/). |
 | [set_SectionsSearchDepth](./set_sectionssearchdepth/)(int32_t) | Sets value that instructs how many times sequential searches for more fine elements of structure will be performed. Default search depth is 3. It means three searches for horizontally divided sections (headers, paragraphs etc) and three searches for vertically divided ones (columns). |
-| [set_TextReplaceOptions](./set_textreplaceoptions/)(System::SharedPtr\<Aspose::Pdf::Text::TextReplaceOptions\>) | Sets the [TextReplaceOptions](../textreplaceoptions/). |
-| [Visit](./visit/)(System::SharedPtr\<Document\>) | Performs search for sections and paragraphs on the specified [Document](../../aspose.pdf/document/). |
-| [Visit](./visit/)(System::SharedPtr\<Page\>) | Performs search on the specified [Page](../../aspose.pdf/page/). |
+| [set_TextReplaceOptions](./set_textreplaceoptions/)(const System::SharedPtr\<Aspose::Pdf::Text::TextReplaceOptions\>\&) | Sets the [TextReplaceOptions](../textreplaceoptions/). |
+| [Visit](./visit/)(const System::SharedPtr\<Document\>\&) | Performs search for sections and paragraphs on the specified [Document](../../aspose.pdf/document/). |
+| [Visit](./visit/)(const System::SharedPtr\<Page\>\&) | Performs search on the specified [Page](../../aspose.pdf/page/). |
 ## Remarks
 
 

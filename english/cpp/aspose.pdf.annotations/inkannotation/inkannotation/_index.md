@@ -7,21 +7,21 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf.annotations/inkannotation/inkannotation/
 ---
-## InkAnnotation::InkAnnotation(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>, System::SharedPtr\<System::Collections::Generic::IList\<System::ArrayPtr\<System::SharedPtr\<Point\>\>\>\>) constructor
+## InkAnnotation::InkAnnotation(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&, const System::SharedPtr\<System::Collections::Generic::IList\<System::ArrayPtr\<System::SharedPtr\<Point\>\>\>\>\&) constructor
 
 
 Creates new Ink annotation on the specified page.
 
 ```cpp
-Aspose::Pdf::Annotations::InkAnnotation::InkAnnotation(System::SharedPtr<Aspose::Pdf::Page> page, System::SharedPtr<Rectangle> rect, System::SharedPtr<System::Collections::Generic::IList<System::ArrayPtr<System::SharedPtr<Point>>>> inkList)
+Aspose::Pdf::Annotations::InkAnnotation::InkAnnotation(const System::SharedPtr<Aspose::Pdf::Page> &page, const System::SharedPtr<Rectangle> &rect, const System::SharedPtr<System::Collections::Generic::IList<System::ArrayPtr<System::SharedPtr<Point>>>> &inkList)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | The document's page where annotation should be created. |
-| rect | System::SharedPtr\<Rectangle\> | The annotation rectangle, defining the location of the annotation on the page. |
-| inkList | System::SharedPtr\<System::Collections::Generic::IList\<System::ArrayPtr\<System::SharedPtr\<Point\>\>\>\> | An array of [Point](../../../aspose.pdf/point/)[] arrays, each representing a stroked path. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | The document's page where annotation should be created. |
+| rect | const System::SharedPtr\<Rectangle\>\& | The annotation rectangle, defining the location of the annotation on the page. |
+| inkList | const System::SharedPtr\<System::Collections::Generic::IList\<System::ArrayPtr\<System::SharedPtr\<Point\>\>\>\>\& | An array of [Point](../../../aspose.pdf/point/)[] arrays, each representing a stroked path. |
 
 ## See Also
 
@@ -34,20 +34,20 @@ Aspose::Pdf::Annotations::InkAnnotation::InkAnnotation(System::SharedPtr<Aspose:
 * Class [InkAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## InkAnnotation::InkAnnotation(System::SharedPtr\<Document\>, System::SharedPtr\<System::Collections::Generic::IList\<System::ArrayPtr\<System::SharedPtr\<Point\>\>\>\>) constructor
+## InkAnnotation::InkAnnotation(const System::SharedPtr\<Document\>\&, const System::SharedPtr\<System::Collections::Generic::IList\<System::ArrayPtr\<System::SharedPtr\<Point\>\>\>\>\&) constructor
 
 
 Constructor for Ink annotation for Generator.
 
 ```cpp
-Aspose::Pdf::Annotations::InkAnnotation::InkAnnotation(System::SharedPtr<Document> document, System::SharedPtr<System::Collections::Generic::IList<System::ArrayPtr<System::SharedPtr<Point>>>> inkList)
+Aspose::Pdf::Annotations::InkAnnotation::InkAnnotation(const System::SharedPtr<Document> &document, const System::SharedPtr<System::Collections::Generic::IList<System::ArrayPtr<System::SharedPtr<Point>>>> &inkList)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Document\> | [Document](../../../aspose.pdf/document/) where ink annotation will be created. |
-| inkList | System::SharedPtr\<System::Collections::Generic::IList\<System::ArrayPtr\<System::SharedPtr\<Point\>\>\>\> | An array of [Point](../../../aspose.pdf/point/)[] arrays, each representing a stroked path. |
+| document | const System::SharedPtr\<Document\>\& | [Document](../../../aspose.pdf/document/) where ink annotation will be created. |
+| inkList | const System::SharedPtr\<System::Collections::Generic::IList\<System::ArrayPtr\<System::SharedPtr\<Point\>\>\>\>\& | An array of [Point](../../../aspose.pdf/point/)[] arrays, each representing a stroked path. |
 
 ## See Also
 

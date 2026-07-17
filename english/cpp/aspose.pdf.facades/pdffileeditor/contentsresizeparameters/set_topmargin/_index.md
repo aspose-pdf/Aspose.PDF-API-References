@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileeditor/contentsresizeparameters/set_topmargi
 Sets top margin on the resultant page.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileEditor::ContentsResizeParameters::set_TopMargin(System::SharedPtr<PdfFileEditor::ContentsResizeValue> value)
+void Aspose::Pdf::Facades::PdfFileEditor::ContentsResizeParameters::set_TopMargin(const System::SharedPtr<PdfFileEditor::ContentsResizeValue> &value)
 ```
 
 ## See Also

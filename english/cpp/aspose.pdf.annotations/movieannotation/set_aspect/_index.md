@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/movieannotation/set_aspect/
 Sets the width and height of the movie's bounding box, in pixels.
 
 ```cpp
-void Aspose::Pdf::Annotations::MovieAnnotation::set_Aspect(System::SharedPtr<Point> value)
+void Aspose::Pdf::Annotations::MovieAnnotation::set_Aspect(const System::SharedPtr<Point> &value)
 ```
 
 ## See Also

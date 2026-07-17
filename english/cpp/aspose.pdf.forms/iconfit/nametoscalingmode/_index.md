@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.forms/iconfit/nametoscalingmode/
 Converts scaling mode name into [ScalingMode](../../scalingmode/) object.
 
 ```cpp
-static Aspose::Pdf::Forms::ScalingMode Aspose::Pdf::Forms::IconFit::NameToScalingMode(System::String mode)
+static Aspose::Pdf::Forms::ScalingMode Aspose::Pdf::Forms::IconFit::NameToScalingMode(const System::String &mode)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| mode | System::String | Scaling mode name. |
+| mode | const System::String\& | Scaling mode name. |
 
 ### ReturnValue
 

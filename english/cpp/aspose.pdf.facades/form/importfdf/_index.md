@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/form/importfdf/
 Imports the content of the fields from the fdf file and put them into the new pdf.
 
 ```cpp
-void Aspose::Pdf::Facades::Form::ImportFdf(System::SharedPtr<System::IO::Stream> inputFdfStream)
+void Aspose::Pdf::Facades::Form::ImportFdf(const System::SharedPtr<System::IO::Stream> &inputFdfStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFdfStream | System::SharedPtr\<System::IO::Stream\> | The input fdf stream. |
+| inputFdfStream | const System::SharedPtr\<System::IO::Stream\>\& | The input fdf stream. |
 
 ## See Also
 

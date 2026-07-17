@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textfragment/set_position/
 Sets text position for text, represented with [TextFragment](../) object.
 
 ```cpp
-void Aspose::Pdf::Text::TextFragment::set_Position(System::SharedPtr<Aspose::Pdf::Text::Position> value)
+void Aspose::Pdf::Text::TextFragment::set_Position(const System::SharedPtr<Aspose::Pdf::Text::Position> &value)
 ```
 
 

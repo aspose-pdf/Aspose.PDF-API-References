@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/htmlsaveoptions/set_title/
 Sets HTML page title.
 
 ```cpp
-void Aspose::Pdf::HtmlSaveOptions::set_Title(System::String value)
+void Aspose::Pdf::HtmlSaveOptions::set_Title(const System::String &value)
 ```
 
 ## See Also

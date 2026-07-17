@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotationactioncollection/set_onvalidate/
 Sets an action to be performed when user changes contents of the field.
 
 ```cpp
-void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnValidate(System::SharedPtr<PdfAction> value)
+void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnValidate(const System::SharedPtr<PdfAction> &value)
 ```
 
 ## See Also

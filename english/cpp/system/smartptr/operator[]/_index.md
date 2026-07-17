@@ -23,7 +23,7 @@ template<typename IdxType> decltype(System::Details::GetByIndex(std::declval<con
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| idx | IdxType | Index in array. |
+| idx | IdxType | [Index](../../index/) in array. |
 
 ### ReturnValue
 

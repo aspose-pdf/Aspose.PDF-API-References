@@ -20,7 +20,7 @@ class StructureTextStateExtensions
 
 | Method | Description |
 | --- | --- |
-| static [SetPositionSettings](./setpositionsettings/)(System::SharedPtr\<StructureTextState\>, System::SharedPtr\<Tagged::PositionSettings\>) |  |
+| static [SetPositionSettings](./setpositionsettings/)(const System::SharedPtr\<StructureTextState\>\&, const System::SharedPtr\<Tagged::PositionSettings\>\&) |  |
 | [StructureTextStateExtensions](./structuretextstateextensions/)() |  |
 ## See Also
 

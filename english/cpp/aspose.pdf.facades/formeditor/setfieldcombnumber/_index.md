@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/formeditor/setfieldcombnumber/
 Sets number of combs for a regular single-line text field (the field is automatically divided into as many equally spaced positions, or combs, as the value of combNumber parameter).
 
 ```cpp
-bool Aspose::Pdf::Facades::FormEditor::SetFieldCombNumber(System::String fieldName, int32_t combNumber)
+bool Aspose::Pdf::Facades::FormEditor::SetFieldCombNumber(const System::String &fieldName, int32_t combNumber)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | The qualified field name. |
+| fieldName | const System::String\& | The qualified field name. |
 | combNumber | int32_t | The number of combs to divide the field into. |
 
 ### ReturnValue

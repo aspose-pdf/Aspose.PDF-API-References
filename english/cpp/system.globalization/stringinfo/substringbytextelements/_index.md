@@ -19,7 +19,7 @@ String System::Globalization::StringInfo::SubstringByTextElements(int starting_t
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| starting_text_element | int | Index of a text element. |
+| starting_text_element | int | [Index](../../../system/index/) of a text element. |
 
 ### ReturnValue
 
@@ -43,7 +43,7 @@ String System::Globalization::StringInfo::SubstringByTextElements(int starting_t
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| starting_text_element | int | Index of a text element. |
+| starting_text_element | int | [Index](../../../system/index/) of a text element. |
 | length_in_text_elements | int | Number of text elements. |
 
 ### ReturnValue

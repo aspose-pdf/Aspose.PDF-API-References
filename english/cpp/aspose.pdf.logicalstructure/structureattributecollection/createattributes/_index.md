@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.logicalstructure/structureattributecollection/createattribu
 Create and return [Aspose::Pdf::LogicalStructure::StructureAttributes](../../structureattributes/) of structure element by standard attribute owner.
 
 ```cpp
-System::SharedPtr<StructureAttributes> Aspose::Pdf::LogicalStructure::StructureAttributeCollection::CreateAttributes(System::SharedPtr<AttributeOwnerStandard> ownerStandard)
+System::SharedPtr<StructureAttributes> Aspose::Pdf::LogicalStructure::StructureAttributeCollection::CreateAttributes(const System::SharedPtr<AttributeOwnerStandard> &ownerStandard)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ownerStandard | System::SharedPtr\<AttributeOwnerStandard\> | Standard attribute owner. |
+| ownerStandard | const System::SharedPtr\<AttributeOwnerStandard\>\& | Standard attribute owner. |
 
 ### ReturnValue
 

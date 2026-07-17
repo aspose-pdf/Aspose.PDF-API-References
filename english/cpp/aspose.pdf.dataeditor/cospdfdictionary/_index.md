@@ -27,9 +27,9 @@ class CosPdfDictionary : public Aspose::Pdf::DataEditor::CosPdfPrimitive,
 | [Contains](./contains/)(const System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<ICosPdfPrimitive\>\>\&) const override | Determines whether the [CosPdfDictionary](./) contains a specific value. |
 | [ContainsKey](./containskey/)(const System::String\&) const override | Determines whether the [CosPdfDictionary](./) contains an element with the specified key. |
 | [CopyTo](./copyto/)(System::ArrayPtr\<System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<ICosPdfPrimitive\>\>\>, int32_t) override | Copies the elements of the [CosPdfDictionary](./) to an [Array](../../aspose.pdf/xmpfieldtype/), starting at a particular [Array](../../aspose.pdf/xmpfieldtype/) index. |
-| [CosPdfDictionary](./cospdfdictionary/)(System::SharedPtr\<Resources\>) | Creates a dictionary from resources. |
-| static [CreateEmptyDictionary](./createemptydictionary/)(System::SharedPtr\<Page\>) | Creates an empty dictionary that will be attached to the page. |
-| static [CreateEmptyDictionary](./createemptydictionary/)(System::SharedPtr\<Document\>) | Creates an empty dictionary that will be attached to the document. |
+| [CosPdfDictionary](./cospdfdictionary/)(const System::SharedPtr\<Resources\>\&) | Creates a dictionary from resources. |
+| static [CreateEmptyDictionary](./createemptydictionary/)(const System::SharedPtr\<Page\>\&) | Creates an empty dictionary that will be attached to the page. |
+| static [CreateEmptyDictionary](./createemptydictionary/)(const System::SharedPtr\<Document\>\&) | Creates an empty dictionary that will be attached to the document. |
 | [get_AllKeys](./get_allkeys/)() const | Full collection of keys. Contains editable and not editable keys. |
 | [get_Count](./get_count/)() const override | Gets the number of elements contained in the [CosPdfDictionary](./). |
 | [get_IsReadOnly](./get_isreadonly/)() const override | Gets a value indicating whether the [CosPdfDictionary](./) is read-only. |

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.logicalstructure/structureattribute/setnamevalue/
 Sets Value Name.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::StructureAttribute::SetNameValue(System::SharedPtr<AttributeName> name)
+void Aspose::Pdf::LogicalStructure::StructureAttribute::SetNameValue(const System::SharedPtr<AttributeName> &name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::SharedPtr\<AttributeName\> | Allowable Value Name. |
+| name | const System::SharedPtr\<AttributeName\>\& | Allowable Value Name. |
 
 ## See Also
 

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/pdfactioncollection/add/
 Add action to action list.
 
 ```cpp
-void Aspose::Pdf::Annotations::PdfActionCollection::Add(System::SharedPtr<PdfAction> action)
+void Aspose::Pdf::Annotations::PdfActionCollection::Add(const System::SharedPtr<PdfAction> &action)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| action | System::SharedPtr\<PdfAction\> | Action to be added. |
+| action | const System::SharedPtr\<PdfAction\>\& | Action to be added. |
 
 ## See Also
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/settextmatrix/set_matrix/
 [Matrix](../../../aspose.pdf/matrix/) argument of the operator.
 
 ```cpp
-void Aspose::Pdf::Operators::SetTextMatrix::set_Matrix(System::SharedPtr<Aspose::Pdf::Matrix> value)
+void Aspose::Pdf::Operators::SetTextMatrix::set_Matrix(const System::SharedPtr<Aspose::Pdf::Matrix> &value)
 ```
 
 ## See Also

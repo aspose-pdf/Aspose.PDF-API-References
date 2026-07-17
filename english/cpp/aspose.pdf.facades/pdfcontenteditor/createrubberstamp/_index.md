@@ -7,13 +7,13 @@ type: docs
 weight: 2200
 url: /cpp/aspose.pdf.facades/pdfcontenteditor/createrubberstamp/
 ---
-## PdfContentEditor::CreateRubberStamp(int32_t, System::Drawing::Rectangle, System::String, System::Drawing::Color, System::SharedPtr\<System::IO::Stream\>) method
+## PdfContentEditor::CreateRubberStamp(int32_t, System::Drawing::Rectangle, const System::String\&, System::Drawing::Color, const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Creates a rubber stamp annotation.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfContentEditor::CreateRubberStamp(int32_t page, System::Drawing::Rectangle annotRect, System::String annotContents, System::Drawing::Color color, System::SharedPtr<System::IO::Stream> appearanceStream)
+void Aspose::Pdf::Facades::PdfContentEditor::CreateRubberStamp(int32_t page, System::Drawing::Rectangle annotRect, const System::String &annotContents, System::Drawing::Color color, const System::SharedPtr<System::IO::Stream> &appearanceStream)
 ```
 
 
@@ -21,9 +21,9 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreateRubberStamp(int32_t page, Sys
 | --- | --- | --- |
 | page | int32_t | The number of original page where the annotation will be created. |
 | annotRect | System::Drawing::Rectangle | The annotation rectangle defining the location of the annotation on the page. |
-| annotContents | System::String | The contents of the annotation. |
+| annotContents | const System::String\& | The contents of the annotation. |
 | color | System::Drawing::Color | The colour of the annotation. |
-| appearanceStream | System::SharedPtr\<System::IO::Stream\> | The stream of appearance file. |
+| appearanceStream | const System::SharedPtr\<System::IO::Stream\>\& | The stream of appearance file. |
 
 ## See Also
 
@@ -35,13 +35,13 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreateRubberStamp(int32_t page, Sys
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfContentEditor::CreateRubberStamp(int32_t, System::Drawing::Rectangle, System::String, System::Drawing::Color, System::String) method
+## PdfContentEditor::CreateRubberStamp(int32_t, System::Drawing::Rectangle, const System::String\&, System::Drawing::Color, const System::String\&) method
 
 
 Creates a rubber stamp annotation.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfContentEditor::CreateRubberStamp(int32_t page, System::Drawing::Rectangle annotRect, System::String annotContents, System::Drawing::Color color, System::String appearanceFile)
+void Aspose::Pdf::Facades::PdfContentEditor::CreateRubberStamp(int32_t page, System::Drawing::Rectangle annotRect, const System::String &annotContents, System::Drawing::Color color, const System::String &appearanceFile)
 ```
 
 
@@ -49,9 +49,9 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreateRubberStamp(int32_t page, Sys
 | --- | --- | --- |
 | page | int32_t | The number of original page where the annotation will be created. |
 | annotRect | System::Drawing::Rectangle | The annotation rectangle defining the location of the annotation on the page. |
-| annotContents | System::String | The contents of the annotation. |
+| annotContents | const System::String\& | The contents of the annotation. |
 | color | System::Drawing::Color | The colour of the annotation. |
-| appearanceFile | System::String | The path of appearance file. |
+| appearanceFile | const System::String\& | The path of appearance file. |
 
 ## See Also
 
@@ -61,13 +61,13 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreateRubberStamp(int32_t page, Sys
 * Class [PdfContentEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfContentEditor::CreateRubberStamp(int32_t, System::Drawing::Rectangle, System::String, System::String, System::Drawing::Color) method
+## PdfContentEditor::CreateRubberStamp(int32_t, System::Drawing::Rectangle, const System::String\&, const System::String\&, System::Drawing::Color) method
 
 
 Creates a rubber stamp annotation.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfContentEditor::CreateRubberStamp(int32_t page, System::Drawing::Rectangle annotRect, System::String icon, System::String annotContents, System::Drawing::Color color)
+void Aspose::Pdf::Facades::PdfContentEditor::CreateRubberStamp(int32_t page, System::Drawing::Rectangle annotRect, const System::String &icon, const System::String &annotContents, System::Drawing::Color color)
 ```
 
 
@@ -75,8 +75,8 @@ void Aspose::Pdf::Facades::PdfContentEditor::CreateRubberStamp(int32_t page, Sys
 | --- | --- | --- |
 | page | int32_t | The number of original page where the annotation will be created. |
 | annotRect | System::Drawing::Rectangle | The annotation rectangle defining the location of the annotation on the page. |
-| icon | System::String | An icon is to be used in displaying the annotation. Default value: 'Draft'. |
-| annotContents | System::String | The contents of the annotation. |
+| icon | const System::String\& | An icon is to be used in displaying the annotation. Default value: 'Draft'. |
+| annotContents | const System::String\& | The contents of the annotation. |
 | color | System::Drawing::Color | The color of the annotation. |
 
 ## See Also

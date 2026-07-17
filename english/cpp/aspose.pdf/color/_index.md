@@ -173,8 +173,8 @@ class Color : public System::Object
 | static [get_WhiteSmoke](./get_whitesmoke/)() | Gets a system-defined color that has an ARGB value of **#FFF5F5F5**. |
 | static [get_Yellow](./get_yellow/)() | Gets a system-defined color that has an ARGB value of **#FFFFFF00**. |
 | static [get_YellowGreen](./get_yellowgreen/)() | Gets a system-defined color that has an ARGB value of **#FF9ACD32**. |
-| static [Parse](./parse/)(System::String) | Extracts color components from the string. |
-| [set_PatternColorSpace](./set_patterncolorspace/)(System::SharedPtr\<Aspose::Pdf::Drawing::PatternColorSpace\>) | Represents a object that indicates the pattern colorspace. |
+| static [Parse](./parse/)(const System::String\&) | Extracts color components from the string. |
+| [set_PatternColorSpace](./set_patterncolorspace/)(const System::SharedPtr\<Aspose::Pdf::Drawing::PatternColorSpace\>\&) | Represents a object that indicates the pattern colorspace. |
 | [ToRgb](./torgb/)() | Converts color into rgb. |
 | [ToString](./tostring/)() const override | Converts to string. |
 ## Fields

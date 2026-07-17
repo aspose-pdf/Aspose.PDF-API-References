@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison/htmldiffoutputgenerator/set_deletestyle/
 Gets and sets the CSS-style string for Delete operation. Example: **color: &#35;003300; background-color: &#35;ccff66;**
 
 ```cpp
-void Aspose::Pdf::Comparison::HtmlDiffOutputGenerator::set_DeleteStyle(System::String value)
+void Aspose::Pdf::Comparison::HtmlDiffOutputGenerator::set_DeleteStyle(const System::String &value)
 ```
 
 ## See Also

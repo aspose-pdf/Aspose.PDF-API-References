@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signature/set_ocspsettings/
 Gets/sets ocsp settings.
 
 ```cpp
-void Aspose::Pdf::Forms::Signature::set_OcspSettings(System::SharedPtr<Aspose::Pdf::OcspSettings> value)
+void Aspose::Pdf::Forms::Signature::set_OcspSettings(const System::SharedPtr<Aspose::Pdf::OcspSettings> &value)
 ```
 
 ## See Also

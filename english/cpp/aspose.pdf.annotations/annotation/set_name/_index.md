@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotation/set_name/
 Sets annotation name on the page.
 
 ```cpp
-void Aspose::Pdf::Annotations::Annotation::set_Name(System::String value)
+void Aspose::Pdf::Annotations::Annotation::set_Name(const System::String &value)
 ```
 
 ## See Also

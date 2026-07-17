@@ -27,10 +27,10 @@ class HtmlToPdfOptions : public Aspose::Pdf::LowCode::PdfConverterOptions
 | [get_PageInfo](./get_pageinfo/)() const | Gets document page info. |
 | [get_PageLayoutOption](./get_pagelayoutoption/)() const | Gets layout option. |
 | [HtmlToPdfOptions](./htmltopdfoptions/)() | Initializes new instance of the [HtmlToPdfOptions](./) object. |
-| [set_BasePath](./set_basepath/)(System::String) | The base path/url for the html file. |
+| [set_BasePath](./set_basepath/)(const System::String\&) | The base path/url for the html file. |
 | [set_HtmlMediaType](./set_htmlmediatype/)(Aspose::Pdf::HtmlMediaType) | Sets possible media types used during rendering. |
 | [set_IsRenderToSinglePage](./set_isrendertosinglepage/)(bool) | Sets rendering all document to single page. |
-| [set_PageInfo](./set_pageinfo/)(System::SharedPtr\<Aspose::Pdf::PageInfo\>) | Sets document page info. |
+| [set_PageInfo](./set_pageinfo/)(const System::SharedPtr\<Aspose::Pdf::PageInfo\>\&) | Sets document page info. |
 | [set_PageLayoutOption](./set_pagelayoutoption/)(HtmlPageLayoutOption) | Sets layout option. |
 ## See Also
 

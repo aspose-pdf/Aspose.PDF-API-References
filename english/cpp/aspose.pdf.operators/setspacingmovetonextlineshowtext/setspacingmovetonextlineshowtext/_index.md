@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setspacingmovetonextlineshowtext/setspacingmoveto
 Initializes operator.
 
 ```cpp
-Aspose::Pdf::Operators::SetSpacingMoveToNextLineShowText::SetSpacingMoveToNextLineShowText(double aw, double ac, System::String text)
+Aspose::Pdf::Operators::SetSpacingMoveToNextLineShowText::SetSpacingMoveToNextLineShowText(double aw, double ac, const System::String &text)
 ```
 
 
@@ -21,7 +21,7 @@ Aspose::Pdf::Operators::SetSpacingMoveToNextLineShowText::SetSpacingMoveToNextLi
 | --- | --- | --- |
 | aw | double | Word spacing. |
 | ac | double | Character spacing. |
-| text | System::String | [Text](../../../aspose.pdf.text/) value. |
+| text | const System::String\& | [Text](../../../aspose.pdf.text/) value. |
 
 ## See Also
 

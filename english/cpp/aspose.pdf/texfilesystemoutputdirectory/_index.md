@@ -22,7 +22,7 @@ class TeXFileSystemOutputDirectory : public Aspose::Pdf::TeXFileSystemInputDirec
 | Method | Description |
 | --- | --- |
 | [GetOutputFile](./getoutputfile/)(System::String, System::String\&) override | Returns the stream to write to. |
-| [TeXFileSystemOutputDirectory](./texfilesystemoutputdirectory/)(System::String) | Creates new instance. |
+| [TeXFileSystemOutputDirectory](./texfilesystemoutputdirectory/)(const System::String\&) | Creates new instance. |
 ## See Also
 
 * Class [TeXFileSystemInputDirectory](../texfilesysteminputdirectory/)

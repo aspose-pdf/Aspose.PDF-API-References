@@ -22,7 +22,7 @@ class OperatorSelector : public Aspose::Pdf::IOperatorSelector
 | --- | --- |
 | [get_Selected](./get_selected/)() const | The list of selected objects. |
 | [OperatorSelector](./operatorselector/)() | Initializes new instance of the [Selector](../) class. |
-| [OperatorSelector](./operatorselector/)(System::SharedPtr\<Operator\>) | Initializes new [OperatorSelector](./). |
+| [OperatorSelector](./operatorselector/)(const System::SharedPtr\<Operator\>\&) | Initializes new [OperatorSelector](./). |
 | [Visit](./visit/)(const System::SharedPtr\<Operators::SetLineJoin\>\&) override | Visit/select j operator. |
 | [Visit](./visit/)(const System::SharedPtr\<Operators::EX\>\&) override | Visit/select EX operator. |
 | [Visit](./visit/)(const System::SharedPtr\<Operators::ET\>\&) override | Visit/select ET operator. |

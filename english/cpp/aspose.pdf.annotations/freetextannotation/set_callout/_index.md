@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/freetextannotation/set_callout/
 Array of point specifying callout line.
 
 ```cpp
-void Aspose::Pdf::Annotations::FreeTextAnnotation::set_Callout(System::ArrayPtr<System::SharedPtr<Point>> value)
+void Aspose::Pdf::Annotations::FreeTextAnnotation::set_Callout(const System::ArrayPtr<System::SharedPtr<Point>> &value)
 ```
 
 ## See Also

@@ -35,10 +35,10 @@ class GraphInfo : public System::ICloneable
 | [get_X](./get_x/)() const | Retrieve the X coordinate of a vertical border when using TableAbsorber, and return "-1" for a horizontal border. |
 | [get_Y](./get_y/)() const | Retrieve the Y coordinate of a horizontal border when using TableAbsorber, and return "-1" for a vertical border. |
 | [GraphInfo](./graphinfo/)() |  |
-| [set_Color](./set_color/)(System::SharedPtr\<Aspose::Pdf::Color\>) | Sets a [Color](../color/) object that indicates the color of the graph. |
-| [set_DashArray](./set_dasharray/)(System::ArrayPtr\<int32_t\>) | Sets a dash array. |
+| [set_Color](./set_color/)(const System::SharedPtr\<Aspose::Pdf::Color\>\&) | Sets a [Color](../color/) object that indicates the color of the graph. |
+| [set_DashArray](./set_dasharray/)(const System::ArrayPtr\<int32_t\>\&) | Sets a dash array. |
 | [set_DashPhase](./set_dashphase/)(int32_t) | Sets a dash phase. |
-| [set_FillColor](./set_fillcolor/)(System::SharedPtr\<Aspose::Pdf::Color\>) | Sets a [Color](../color/) object that indicates the fill color of the graph. |
+| [set_FillColor](./set_fillcolor/)(const System::SharedPtr\<Aspose::Pdf::Color\>\&) | Sets a [Color](../color/) object that indicates the fill color of the graph. |
 | [set_IsDoubled](./set_isdoubled/)(bool) | Sets is border doubled. |
 | [set_LineWidth](./set_linewidth/)(float) | Sets a float value that indicates the line width of the graph. |
 | [set_RotationAngle](./set_rotationangle/)(double) | Sets a float value that indicates the rotation angle of the coordinate system when transforming a coordinate system. |

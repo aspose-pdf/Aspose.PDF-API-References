@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tableelement/set_backgroundcolor/
 Sets the table background color.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::TableElement::set_BackgroundColor(System::SharedPtr<Color> value)
+void Aspose::Pdf::LogicalStructure::TableElement::set_BackgroundColor(const System::SharedPtr<Color> &value)
 ```
 
 ## See Also

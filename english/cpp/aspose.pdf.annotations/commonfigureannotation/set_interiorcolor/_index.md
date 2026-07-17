@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/commonfigureannotation/set_interiorcolor/
 Interior color with which to fill the annotation's rectangle or ellipse.
 
 ```cpp
-void Aspose::Pdf::Annotations::CommonFigureAnnotation::set_InteriorColor(System::SharedPtr<Aspose::Pdf::Color> value)
+void Aspose::Pdf::Annotations::CommonFigureAnnotation::set_InteriorColor(const System::SharedPtr<Aspose::Pdf::Color> &value)
 ```
 
 ## See Also

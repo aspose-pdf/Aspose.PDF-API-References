@@ -26,12 +26,12 @@ class PDF3DCrossSection : public System::Object
 | [get_CuttingPlaneOrientation](./get_cuttingplaneorientation/)() const | Gets the cutting plane orientation. |
 | [get_CuttingPlanesIntersectionColor](./get_cuttingplanesintersectioncolor/)() const | Gets the color of the cutting planes intersection. |
 | [get_Visibility](./get_visibility/)() const | Gets a value indicating visibility of the cutting planes intersection. |
-| [PDF3DCrossSection](./pdf3dcrosssection/)(System::SharedPtr\<Document\>) | Initializes a new instance of the [PDF3DCrossSection](./) class. |
-| [set_Center](./set_center/)(System::SharedPtr\<Point3D\>) | Sets the cross section rotation center. |
-| [set_CuttingPlaneColor](./set_cuttingplanecolor/)(System::SharedPtr\<Color\>) | Sets the color of the cutting plane. |
+| [PDF3DCrossSection](./pdf3dcrosssection/)(const System::SharedPtr\<Document\>\&) | Initializes a new instance of the [PDF3DCrossSection](./) class. |
+| [set_Center](./set_center/)(const System::SharedPtr\<Point3D\>\&) | Sets the cross section rotation center. |
+| [set_CuttingPlaneColor](./set_cuttingplanecolor/)(const System::SharedPtr\<Color\>\&) | Sets the color of the cutting plane. |
 | [set_CuttingPlaneOpacity](./set_cuttingplaneopacity/)(double) | Sets the cutting plane opacity. |
-| [set_CuttingPlaneOrientation](./set_cuttingplaneorientation/)(System::SharedPtr\<PDF3DCuttingPlaneOrientation\>) | Sets the cutting plane orientation. |
-| [set_CuttingPlanesIntersectionColor](./set_cuttingplanesintersectioncolor/)(System::SharedPtr\<Color\>) | Sets the color of the cutting planes intersection. |
+| [set_CuttingPlaneOrientation](./set_cuttingplaneorientation/)(const System::SharedPtr\<PDF3DCuttingPlaneOrientation\>\&) | Sets the cutting plane orientation. |
+| [set_CuttingPlanesIntersectionColor](./set_cuttingplanesintersectioncolor/)(const System::SharedPtr\<Color\>\&) | Sets the color of the cutting planes intersection. |
 | [set_Visibility](./set_visibility/)(bool) | Sets a value indicating visibility of the cutting planes intersection. |
 ## See Also
 

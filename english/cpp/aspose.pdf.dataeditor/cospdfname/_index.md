@@ -20,7 +20,7 @@ class CosPdfName : public Aspose::Pdf::DataEditor::CosPdfPrimitive
 
 | Method | Description |
 | --- | --- |
-| [CosPdfName](./cospdfname/)(System::String) | Initializes a new instance of the [CosPdfName](./) class. |
+| [CosPdfName](./cospdfname/)(const System::String\&) | Initializes a new instance of the [CosPdfName](./) class. |
 | [Equals](./equals/)(System::SharedPtr\<System::Object\>) override | Determines that the specified object is equal to the current object. |
 | [get_Value](./get_value/)() const | Gets the value. |
 | [GetHashCode](./gethashcode/)() const override | Get hashcode for current object. |

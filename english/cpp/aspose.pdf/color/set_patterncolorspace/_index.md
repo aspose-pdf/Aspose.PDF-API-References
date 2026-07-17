@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/color/set_patterncolorspace/
 Represents a object that indicates the pattern colorspace.
 
 ```cpp
-void Aspose::Pdf::Color::set_PatternColorSpace(System::SharedPtr<Aspose::Pdf::Drawing::PatternColorSpace> value)
+void Aspose::Pdf::Color::set_PatternColorSpace(const System::SharedPtr<Aspose::Pdf::Drawing::PatternColorSpace> &value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfformatconversionoptions/set_unicodeprocessingrules/
 Rules to solve problems with unicode mapping. Can be null.
 
 ```cpp
-void Aspose::Pdf::PdfFormatConversionOptions::set_UnicodeProcessingRules(System::SharedPtr<ToUnicodeProcessingRules> value)
+void Aspose::Pdf::PdfFormatConversionOptions::set_UnicodeProcessingRules(const System::SharedPtr<ToUnicodeProcessingRules> &value)
 ```
 
 ## See Also

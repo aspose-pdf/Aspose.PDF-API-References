@@ -13,17 +13,17 @@ url: /cpp/aspose.pdf.comparison/graphicalpdfcomparer/comparedocumentstoimages/
 Compares documents graphically. The comparison result is placed in images.
 
 ```cpp
-void Aspose::Pdf::Comparison::GraphicalPdfComparer::CompareDocumentsToImages(System::SharedPtr<Document> document1, System::SharedPtr<Document> document2, System::String targetDirectory, System::String fileNamePrefix, System::SharedPtr<System::Drawing::Imaging::ImageFormat> imageFormat)
+void Aspose::Pdf::Comparison::GraphicalPdfComparer::CompareDocumentsToImages(const System::SharedPtr<Document> &document1, const System::SharedPtr<Document> &document2, const System::String &targetDirectory, const System::String &fileNamePrefix, const System::SharedPtr<System::Drawing::Imaging::ImageFormat> &imageFormat)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document1 | System::SharedPtr\<Document\> | The first document to compare. |
-| document2 | System::SharedPtr\<Document\> | The second document to compare. |
-| targetDirectory | System::String | The directory to save a comparison results. |
-| fileNamePrefix | System::String | The images name prefix. |
-| imageFormat | System::SharedPtr\<System::Drawing::Imaging::ImageFormat\> | The image format to save. |
+| document1 | const System::SharedPtr\<Document\>\& | The first document to compare. |
+| document2 | const System::SharedPtr\<Document\>\& | The second document to compare. |
+| targetDirectory | const System::String\& | The directory to save a comparison results. |
+| fileNamePrefix | const System::String\& | The images name prefix. |
+| imageFormat | const System::SharedPtr\<System::Drawing::Imaging::ImageFormat\>\& | The image format to save. |
 
 ## See Also
 

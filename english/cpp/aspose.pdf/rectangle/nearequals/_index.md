@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/rectangle/nearequals/
 Check if rectangles are near equal i.e. have near same (up to delta) position and sizes.
 
 ```cpp
-bool Aspose::Pdf::Rectangle::NearEquals(System::SharedPtr<Rectangle> other, double delta)
+bool Aspose::Pdf::Rectangle::NearEquals(const System::SharedPtr<Rectangle> &other, double delta)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| other | System::SharedPtr\<Rectangle\> | [Rectangle](../) which will be compared. |
+| other | const System::SharedPtr\<Rectangle\>\& | [Rectangle](../) which will be compared. |
 | delta | double | Value of comparation tollerance. |
 
 ### ReturnValue

@@ -25,8 +25,8 @@ class License : public System::Object
 | [get_LicenseInfo](./get_licenseinfo/)() const | Gets the current license information. |
 | [License](./license/)() | Initializes a new instance of this class. |
 | [set_Embedded](./set_embedded/)(bool) | [License](./) number was added as embedded resource. |
-| [SetLicense](./setlicense/)(System::String) | Licenses the component. |
-| [SetLicense](./setlicense/)(System::SharedPtr\<System::IO::Stream\>) | Licenses the component. |
+| [SetLicense](./setlicense/)(const System::String\&) | Licenses the component. |
+| [SetLicense](./setlicense/)(const System::SharedPtr\<System::IO::Stream\>\&) | Licenses the component. |
 ## See Also
 
 * Class [Object](../../system/object/)

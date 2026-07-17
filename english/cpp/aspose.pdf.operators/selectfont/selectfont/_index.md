@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.operators/selectfont/selectfont/
 Initializes operator.
 
 ```cpp
-Aspose::Pdf::Operators::SelectFont::SelectFont(System::String resName, double size)
+Aspose::Pdf::Operators::SelectFont::SelectFont(const System::String &resName, double size)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| resName | System::String | The name of font resource, e.g. F1, F2 etc. |
+| resName | const System::String\& | The name of font resource, e.g. F1, F2 etc. |
 | size | double | Size of the font. |
 
 ## See Also

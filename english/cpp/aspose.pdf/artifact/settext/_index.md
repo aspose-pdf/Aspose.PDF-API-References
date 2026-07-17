@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/artifact/settext/
 Sets text of the artifact.
 
 ```cpp
-void Aspose::Pdf::Artifact::SetText(System::SharedPtr<Facades::FormattedText> formattedText)
+void Aspose::Pdf::Artifact::SetText(const System::SharedPtr<Facades::FormattedText> &formattedText)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| formattedText | System::SharedPtr\<Facades::FormattedText\> | FormattedText object which contains artifact text. |
+| formattedText | const System::SharedPtr\<Facades::FormattedText\>\& | FormattedText object which contains artifact text. |
 
 ## See Also
 

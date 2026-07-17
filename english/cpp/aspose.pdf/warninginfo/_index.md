@@ -22,7 +22,7 @@ class WarningInfo : public System::Object
 | --- | --- |
 | [get_WarningMessage](./get_warningmessage/)() const | Returns string representation of warning message. |
 | [get_WarningTypeProperty](./get_warningtypeproperty/)() const | Returns warning type. |
-| [WarningInfo](./warninginfo/)(WarningType, System::String) | Constructs instance for gathering information. |
+| [WarningInfo](./warninginfo/)(WarningType, const System::String\&) | Constructs instance for gathering information. |
 ## See Also
 
 * Class [Object](../../system/object/)

@@ -7,19 +7,19 @@ type: docs
 weight: 500
 url: /cpp/aspose.pdf.forms/form/delete/
 ---
-## Form::Delete(System::SharedPtr\<Field\>) method
+## Form::Delete(const System::SharedPtr\<Field\>\&) method
 
 
 Delete field from the form.
 
 ```cpp
-void Aspose::Pdf::Forms::Form::Delete(System::SharedPtr<Field> field)
+void Aspose::Pdf::Forms::Form::Delete(const System::SharedPtr<Field> &field)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| field | System::SharedPtr\<Field\> | [Field](../../field/) which must be deleted. |
+| field | const System::SharedPtr\<Field\>\& | [Field](../../field/) which must be deleted. |
 
 ## See Also
 
@@ -28,19 +28,19 @@ void Aspose::Pdf::Forms::Form::Delete(System::SharedPtr<Field> field)
 * Class [Form](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Form::Delete(System::String) method
+## Form::Delete(const System::String\&) method
 
 
 Deletes field from the form by its name.
 
 ```cpp
-void Aspose::Pdf::Forms::Form::Delete(System::String fieldName)
+void Aspose::Pdf::Forms::Form::Delete(const System::String &fieldName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | Name of the filed which must be deleted. |
+| fieldName | const System::String\& | Name of the filed which must be deleted. |
 
 ## See Also
 

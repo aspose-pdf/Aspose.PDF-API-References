@@ -25,19 +25,19 @@ Performs searching for tables and provides access to the tables via [TableList](
 * Class [TableAbsorber](../)
 * Namespace [Aspose::Pdf::Text](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TableAbsorber::TableAbsorber(System::SharedPtr\<Aspose::Pdf::Text::TextSearchOptions\>) constructor
+## TableAbsorber::TableAbsorber(const System::SharedPtr\<Aspose::Pdf::Text::TextSearchOptions\>\&) constructor
 
 
 Initializes a new instance of the [TableAbsorber](../) with text search options.
 
 ```cpp
-Aspose::Pdf::Text::TableAbsorber::TableAbsorber(System::SharedPtr<Aspose::Pdf::Text::TextSearchOptions> textSearchOptions)
+Aspose::Pdf::Text::TableAbsorber::TableAbsorber(const System::SharedPtr<Aspose::Pdf::Text::TextSearchOptions> &textSearchOptions)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| textSearchOptions | System::SharedPtr\<Aspose::Pdf::Text::TextSearchOptions\> | [Text](../../) search options |
+| textSearchOptions | const System::SharedPtr\<Aspose::Pdf::Text::TextSearchOptions\>\& | [Text](../../) search options |
 ## Remarks
 
 

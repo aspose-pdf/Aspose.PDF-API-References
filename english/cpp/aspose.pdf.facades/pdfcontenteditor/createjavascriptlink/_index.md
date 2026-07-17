@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/pdfcontenteditor/createjavascriptlink/
 Creates a link to JavaScript in PDF document.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfContentEditor::CreateJavaScriptLink(System::String code, System::Drawing::Rectangle rect, int32_t originalPage, System::Drawing::Color color)
+void Aspose::Pdf::Facades::PdfContentEditor::CreateJavaScriptLink(const System::String &code, System::Drawing::Rectangle rect, int32_t originalPage, System::Drawing::Color color)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| code | System::String | The JavaScript code. |
+| code | const System::String\& | The JavaScript code. |
 | rect | System::Drawing::Rectangle | The rectangle for active click. |
 | originalPage | int32_t | The number of original page where rectangle bound with link will be created. |
 | color | System::Drawing::Color | The colour of rectangle for active click. |

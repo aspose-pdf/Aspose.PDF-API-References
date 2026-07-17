@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/collectionschema/getcollectionfield/
 Gets a collection field by name.
 
 ```cpp
-System::SharedPtr<CollectionField> Aspose::Pdf::CollectionSchema::GetCollectionField(System::String name)
+System::SharedPtr<CollectionField> Aspose::Pdf::CollectionSchema::GetCollectionField(const System::String &name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | The field name |
+| name | const System::String\& | The field name |
 
 ### ReturnValue
 

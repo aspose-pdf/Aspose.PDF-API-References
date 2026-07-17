@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tableelement/set_defaultcolumnwidth/
 Sets default column width.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::TableElement::set_DefaultColumnWidth(System::String value)
+void Aspose::Pdf::LogicalStructure::TableElement::set_DefaultColumnWidth(const System::String &value)
 ```
 
 ## See Also

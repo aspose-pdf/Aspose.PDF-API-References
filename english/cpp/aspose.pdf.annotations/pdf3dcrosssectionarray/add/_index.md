@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/pdf3dcrosssectionarray/add/
 Adds the specified cross section to views array .
 
 ```cpp
-void Aspose::Pdf::Annotations::PDF3DCrossSectionArray::Add(System::SharedPtr<PDF3DCrossSection> crossSection)
+void Aspose::Pdf::Annotations::PDF3DCrossSectionArray::Add(const System::SharedPtr<PDF3DCrossSection> &crossSection)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| crossSection | System::SharedPtr\<PDF3DCrossSection\> | The cross section. |
+| crossSection | const System::SharedPtr\<PDF3DCrossSection\>\& | The cross section. |
 
 ## See Also
 

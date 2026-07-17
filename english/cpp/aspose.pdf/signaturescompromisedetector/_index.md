@@ -21,7 +21,7 @@ class SignaturesCompromiseDetector : public System::Object
 | Method | Description |
 | --- | --- |
 | [Check](./check/)(System::SharedPtr\<Signatures::CompromiseCheckResult\>\&) | Check the digital signatures of the document for compromise. |
-| [SignaturesCompromiseDetector](./signaturescompromisedetector/)(System::SharedPtr\<Document\>) | Creates an instance of [SignaturesCompromiseDetector](./) class. |
+| [SignaturesCompromiseDetector](./signaturescompromisedetector/)(const System::SharedPtr\<Document\>\&) | Creates an instance of [SignaturesCompromiseDetector](./) class. |
 ## Remarks
 
 

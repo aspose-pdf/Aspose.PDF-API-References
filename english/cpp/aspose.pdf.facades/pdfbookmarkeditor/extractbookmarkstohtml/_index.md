@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.facades/pdfbookmarkeditor/extractbookmarkstohtml/
 Exports bookmarks to HTML file.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfBookmarkEditor::ExtractBookmarksToHTML(System::String pdfFile, System::String cssFile)
+void Aspose::Pdf::Facades::PdfBookmarkEditor::ExtractBookmarksToHTML(const System::String &pdfFile, const System::String &cssFile)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pdfFile | System::String | The PDF file which bookmarks will be exported. |
-| cssFile | System::String | The CSS file to display HTML file, can be null. |
+| pdfFile | const System::String\& | The PDF file which bookmarks will be exported. |
+| cssFile | const System::String\& | The CSS file to display HTML file, can be null. |
 
 ## Deprecated
 Use PdfBookmarkEditor.ExportBookmarksToHtml instead. 

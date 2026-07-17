@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/documentinfo/set_producer/
 Sets the document producer.
 
 ```cpp
-void Aspose::Pdf::DocumentInfo::set_Producer(System::String value)
+void Aspose::Pdf::DocumentInfo::set_Producer(const System::String &value)
 ```
 
 ## See Also

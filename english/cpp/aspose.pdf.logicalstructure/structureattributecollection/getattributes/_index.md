@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.logicalstructure/structureattributecollection/getattributes
 Return [Aspose::Pdf::LogicalStructure::StructureAttributes](../../structureattributes/) of structure element by standard attribute owner.
 
 ```cpp
-System::SharedPtr<StructureAttributes> Aspose::Pdf::LogicalStructure::StructureAttributeCollection::GetAttributes(System::SharedPtr<AttributeOwnerStandard> ownerStandard)
+System::SharedPtr<StructureAttributes> Aspose::Pdf::LogicalStructure::StructureAttributeCollection::GetAttributes(const System::SharedPtr<AttributeOwnerStandard> &ownerStandard)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| ownerStandard | System::SharedPtr\<AttributeOwnerStandard\> | Standard attribute owner. |
+| ownerStandard | const System::SharedPtr\<AttributeOwnerStandard\>\& | Standard attribute owner. |
 
 ### ReturnValue
 

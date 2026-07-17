@@ -4,7 +4,7 @@ linktitle: OutputTextStyle
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Comparison::OutputTextStyle class. Represents a style set class for marking text changes in C++.'
 type: docs
-weight: 1100
+weight: 1200
 url: /cpp/aspose.pdf.comparison/outputtextstyle/
 ---
 ## OutputTextStyle class
@@ -25,9 +25,9 @@ class OutputTextStyle : public System::Object
 | [get_InsertedStyle](./get_insertedstyle/)() const | Get and set a text style for inserted text. |
 | [get_StrikethroughDeleted](./get_strikethroughdeleted/)() const | Get or set text-decoration: line-through style for the delete operation. Default value is **False**. |
 | [OutputTextStyle](./outputtextstyle/)() |  |
-| [set_DeletedStyle](./set_deletedstyle/)(System::SharedPtr\<TextStyle\>) | Get and set a text style for deleted text. |
-| [set_EqualStyle](./set_equalstyle/)(System::SharedPtr\<TextStyle\>) | Get and set a text style for non changed text. |
-| [set_InsertedStyle](./set_insertedstyle/)(System::SharedPtr\<TextStyle\>) | Get and set a text style for inserted text. |
+| [set_DeletedStyle](./set_deletedstyle/)(const System::SharedPtr\<TextStyle\>\&) | Get and set a text style for deleted text. |
+| [set_EqualStyle](./set_equalstyle/)(const System::SharedPtr\<TextStyle\>\&) | Get and set a text style for non changed text. |
+| [set_InsertedStyle](./set_insertedstyle/)(const System::SharedPtr\<TextStyle\>\&) | Get and set a text style for inserted text. |
 | [set_StrikethroughDeleted](./set_strikethroughdeleted/)(bool) | Get or set text-decoration: line-through style for the delete operation. Default value is **False**. |
 ## See Also
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textparagraph/set_formattingoptions/
 Sets formatting options.
 
 ```cpp
-void Aspose::Pdf::Text::TextParagraph::set_FormattingOptions(System::SharedPtr<TextFormattingOptions> value)
+void Aspose::Pdf::Text::TextParagraph::set_FormattingOptions(const System::SharedPtr<TextFormattingOptions> &value)
 ```
 
 ## See Also

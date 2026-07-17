@@ -32,19 +32,19 @@ The string representation of the [CollectionFieldSubtype](../../collectionfields
 * Class [CollectionFieldSubtypeConverter](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## CollectionFieldSubtypeConverter::Convert(System::SharedPtr\<Engine::Data::IPdfName\>) method
+## CollectionFieldSubtypeConverter::Convert(const System::SharedPtr\<Engine::Data::IPdfName\>\&) method
 
 
 Converts a PdfName value to its corresponding [CollectionFieldSubtype](../../collectionfieldsubtype/) enumeration value.
 
 ```cpp
-static CollectionFieldSubtype Aspose::Pdf::CollectionFieldSubtypeConverter::Convert(System::SharedPtr<Engine::Data::IPdfName> pdfName)
+static CollectionFieldSubtype Aspose::Pdf::CollectionFieldSubtypeConverter::Convert(const System::SharedPtr<Engine::Data::IPdfName> &pdfName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pdfName | System::SharedPtr\<Engine::Data::IPdfName\> | The PdfName value to be converted. |
+| pdfName | const System::SharedPtr\<Engine::Data::IPdfName\>\& | The PdfName value to be converted. |
 
 ### ReturnValue
 
@@ -57,19 +57,19 @@ The [CollectionFieldSubtype](../../collectionfieldsubtype/) enumeration value th
 * Class [CollectionFieldSubtypeConverter](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## CollectionFieldSubtypeConverter::Convert(System::String) method
+## CollectionFieldSubtypeConverter::Convert(const System::String\&) method
 
 
 Converts a string value to its corresponding [CollectionFieldSubtype](../../collectionfieldsubtype/) enumeration value.
 
 ```cpp
-static CollectionFieldSubtype Aspose::Pdf::CollectionFieldSubtypeConverter::Convert(System::String name)
+static CollectionFieldSubtype Aspose::Pdf::CollectionFieldSubtypeConverter::Convert(const System::String &name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | The string value to be converted. |
+| name | const System::String\& | The string value to be converted. |
 
 ### ReturnValue
 

@@ -19,7 +19,7 @@ int System::Globalization::NumberFormatInfo::get_CurrencyNegativePattern() const
 
 ### ReturnValue
 
-Index of the pattern in array {"($n)", "-$n", "$-n", "$n-", "(n$)", "-n$", "n-$", "n$-", "-n $", "-$ n", "n $-", "$ n-", "$ -n", "n- $", "($ n)", "(n $)"}, where "n" is number, "-" is minus sign and "$" is currency symbol.
+[Index](../../../system/index/) of the pattern in array {"($n)", "-$n", "$-n", "$n-", "(n$)", "-n$", "n-$", "n$-", "-n $", "-$ n", "n $-", "$ n-", "$ -n", "n- $", "($ n)", "(n $)"}, where "n" is number, "-" is minus sign and "$" is currency symbol.
 
 ## See Also
 

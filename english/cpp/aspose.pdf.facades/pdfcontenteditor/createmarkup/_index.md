@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.facades/pdfcontenteditor/createmarkup/
 Creates markup annotation it PDF document.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfContentEditor::CreateMarkup(System::Drawing::Rectangle rect, System::String contents, int32_t type, int32_t page, System::Drawing::Color clr)
+void Aspose::Pdf::Facades::PdfContentEditor::CreateMarkup(System::Drawing::Rectangle rect, const System::String &contents, int32_t type, int32_t page, System::Drawing::Color clr)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | rect | System::Drawing::Rectangle | The rectangle defining the location of the annotation on the page. |
-| contents | System::String | The contents of the annotation. |
+| contents | const System::String\& | The contents of the annotation. |
 | type | int32_t | The type of markup annotation. Can be 0 (Highlight), 1 (Underline), 2 (StrikeOut), 3 (Squiggly). |
 | page | int32_t | The number of original page where the annotation will be created. |
 | clr | System::Drawing::Color | The color of markup. |

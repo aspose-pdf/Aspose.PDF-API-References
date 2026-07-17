@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/textstyle/set_fontname/
 Name of the font.
 
 ```cpp
-void Aspose::Pdf::Annotations::TextStyle::set_FontName(System::String value)
+void Aspose::Pdf::Annotations::TextStyle::set_FontName(const System::String &value)
 ```
 
 ## See Also

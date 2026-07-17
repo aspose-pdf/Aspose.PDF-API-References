@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/texloadoptions/set_requiredinputdirectory/
 Gets/sets TeX requires input directory. Required input is the files that are somehow included into the main .tex file, e.g., packages for which there's no built-in support.
 
 ```cpp
-void Aspose::Pdf::TeXLoadOptions::set_RequiredInputDirectory(System::SharedPtr<ITeXInputDirectory> value)
+void Aspose::Pdf::TeXLoadOptions::set_RequiredInputDirectory(const System::SharedPtr<ITeXInputDirectory> &value)
 ```
 
 ## See Also

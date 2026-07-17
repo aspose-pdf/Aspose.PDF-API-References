@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/borderinfo/set_bottom/
 Sets a object that indicates bottom of the border.
 
 ```cpp
-void Aspose::Pdf::BorderInfo::set_Bottom(System::SharedPtr<GraphInfo> value)
+void Aspose::Pdf::BorderInfo::set_Bottom(const System::SharedPtr<GraphInfo> &value)
 ```
 
 ## See Also

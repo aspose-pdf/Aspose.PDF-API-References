@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/batesnartifact/set_prefix/
 Sets the prefix to be added to the Bates number.
 
 ```cpp
-void Aspose::Pdf::BatesNArtifact::set_Prefix(System::String value)
+void Aspose::Pdf::BatesNArtifact::set_Prefix(const System::String &value)
 ```
 
 ## See Also

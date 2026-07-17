@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf/filespecification/setvalue/
 Sets application-specific parameter.
 
 ```cpp
-void Aspose::Pdf::FileSpecification::SetValue(System::String key, System::String value)
+void Aspose::Pdf::FileSpecification::SetValue(const System::String &key, const System::String &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | System::String | Parameter name. |
-| value | System::String | New parameter value. |
+| key | const System::String\& | Parameter name. |
+| value | const System::String\& | New parameter value. |
 
 ## See Also
 

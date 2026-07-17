@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signature/set_customappearance/
 Gets/sets the custom appearance.
 
 ```cpp
-void Aspose::Pdf::Forms::Signature::set_CustomAppearance(System::SharedPtr<SignatureCustomAppearance> value)
+void Aspose::Pdf::Forms::Signature::set_CustomAppearance(const System::SharedPtr<SignatureCustomAppearance> &value)
 ```
 
 ## See Also

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.text/textfragmentstate/textfragmentstate/
 Initializes new instance of the [TextFragmentState](../) object with specified [TextFragment](../../textfragment/) object. This [TextFragmentState](../) initialization is not supported. [TextFragmentState](../) is only available with [TextFragment::TextState](../) property.
 
 ```cpp
-Aspose::Pdf::Text::TextFragmentState::TextFragmentState(System::SharedPtr<TextFragment> fragment)
+Aspose::Pdf::Text::TextFragmentState::TextFragmentState(const System::SharedPtr<TextFragment> &fragment)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fragment | System::SharedPtr\<TextFragment\> | [Text](../../) fragment object. |
+| fragment | const System::SharedPtr\<TextFragment\>\& | [Text](../../) fragment object. |
 
 ## See Also
 

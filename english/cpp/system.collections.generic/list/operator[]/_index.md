@@ -19,7 +19,7 @@ vector_t::reference System::Collections::Generic::List<T>::operator[](int index)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to get element from. |
+| index | int | [Index](../../../system/index/) to get element from. |
 
 ### ReturnValue
 
@@ -42,7 +42,7 @@ vector_t::const_reference System::Collections::Generic::List<T>::operator[](int 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to get element from. |
+| index | int | [Index](../../../system/index/) to get element from. |
 
 ### ReturnValue
 

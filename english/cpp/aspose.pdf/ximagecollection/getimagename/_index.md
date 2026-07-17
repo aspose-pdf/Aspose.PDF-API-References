@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/ximagecollection/getimagename/
 Returns name in images list which is key of the given image.
 
 ```cpp
-System::String Aspose::Pdf::XImageCollection::GetImageName(System::SharedPtr<Aspose::Pdf::XImage> image)
+System::String Aspose::Pdf::XImageCollection::GetImageName(const System::SharedPtr<Aspose::Pdf::XImage> &image)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| image | System::SharedPtr\<Aspose::Pdf::XImage\> | [Image](../../image/) to search. |
+| image | const System::SharedPtr\<Aspose::Pdf::XImage\>\& | [Image](../../image/) to search. |
 
 ### ReturnValue
 

@@ -7,19 +7,19 @@ type: docs
 weight: 1800
 url: /cpp/aspose.pdf.facades/pdffilesignature/getdatetime/
 ---
-## PdfFileSignature::GetDateTime(System::SharedPtr\<SignatureName\>) method
+## PdfFileSignature::GetDateTime(const System::SharedPtr\<SignatureName\>\&) method
 
 
 Gets the signature's datetime.
 
 ```cpp
-System::DateTime Aspose::Pdf::Facades::PdfFileSignature::GetDateTime(System::SharedPtr<SignatureName> signName)
+System::DateTime Aspose::Pdf::Facades::PdfFileSignature::GetDateTime(const System::SharedPtr<SignatureName> &signName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | System::SharedPtr\<SignatureName\> | The name of signature. |
+| signName | const System::SharedPtr\<SignatureName\>\& | The name of signature. |
 
 ### ReturnValue
 
@@ -33,19 +33,19 @@ Return the result of DateTime type.
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileSignature::GetDateTime(System::String) method
+## PdfFileSignature::GetDateTime(const System::String\&) method
 
 
 Gets the signature's datetime.
 
 ```cpp
-System::DateTime Aspose::Pdf::Facades::PdfFileSignature::GetDateTime(System::String signName)
+System::DateTime Aspose::Pdf::Facades::PdfFileSignature::GetDateTime(const System::String &signName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | System::String | The name of signature. |
+| signName | const System::String\& | The name of signature. |
 
 ### ReturnValue
 

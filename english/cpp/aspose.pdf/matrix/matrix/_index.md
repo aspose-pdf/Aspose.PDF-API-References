@@ -21,6 +21,26 @@ Aspose::Pdf::Matrix::Matrix()
 * Class [Matrix](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
+## Matrix::Matrix(const System::ArrayPtr\<double\>\&) constructor
+
+
+Constructor accepts a matrix with following array representation: [ A B C D E F ].
+
+```cpp
+Aspose::Pdf::Matrix::Matrix(const System::ArrayPtr<double> &matrixArray)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| matrixArray | const System::ArrayPtr\<double\>\& | [Matrix](../) data array. |
+
+## See Also
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [Matrix](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## Matrix::Matrix(const System::Details::ArrayView\<float\>\&) constructor
 
 
@@ -37,6 +57,27 @@ Aspose::Pdf::Matrix::Matrix(const System::Details::ArrayView<float> &matrixArray
 
 ## See Also
 
+* Class [Matrix](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
+## Matrix::Matrix(const System::SharedPtr\<Matrix\>\&) constructor
+
+
+Constructor accepts a matrix to create a copy.
+
+```cpp
+Aspose::Pdf::Matrix::Matrix(const System::SharedPtr<Matrix> &matrix)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| matrix | const System::SharedPtr\<Matrix\>\& | [Matrix](../) object. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Matrix](../)
 * Class [Matrix](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
@@ -61,47 +102,6 @@ Aspose::Pdf::Matrix::Matrix(double a, double b, double c, double d, double e, do
 
 ## See Also
 
-* Class [Matrix](../)
-* Namespace [Aspose::Pdf](../../)
-* Library [Aspose.PDF for C++](../../../)
-## Matrix::Matrix(System::ArrayPtr\<double\>) constructor
-
-
-Constructor accepts a matrix with following array representation: [ A B C D E F ].
-
-```cpp
-Aspose::Pdf::Matrix::Matrix(System::ArrayPtr<double> matrixArray)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| matrixArray | System::ArrayPtr\<double\> | [Matrix](../) data array. |
-
-## See Also
-
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [Matrix](../)
-* Namespace [Aspose::Pdf](../../)
-* Library [Aspose.PDF for C++](../../../)
-## Matrix::Matrix(System::SharedPtr\<Matrix\>) constructor
-
-
-Constructor accepts a matrix to create a copy.
-
-```cpp
-Aspose::Pdf::Matrix::Matrix(System::SharedPtr<Matrix> matrix)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| matrix | System::SharedPtr\<Matrix\> | [Matrix](../) object. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Matrix](../)
 * Class [Matrix](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

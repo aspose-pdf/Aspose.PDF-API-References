@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/formeditor/setfieldattribute/
 Set attributes of field.
 
 ```cpp
-bool Aspose::Pdf::Facades::FormEditor::SetFieldAttribute(System::String fieldName, PropertyFlag flag)
+bool Aspose::Pdf::Facades::FormEditor::SetFieldAttribute(const System::String &fieldName, PropertyFlag flag)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | Name of field which attributes should be set. |
+| fieldName | const System::String\& | Name of field which attributes should be set. |
 | flag | PropertyFlag | Flag (NoExport/ReadOnly/Required) |
 
 ### ReturnValue

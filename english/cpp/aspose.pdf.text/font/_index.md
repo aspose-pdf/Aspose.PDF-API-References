@@ -29,8 +29,8 @@ class Font : public System::Object
 | [get_IsEmbedded](./get_isembedded/)() const | Gets a value that indicates whether the font is embedded. [Font](./) based on IFont will automatically be subset and embedded. |
 | [get_IsSubset](./get_issubset/)() | Gets a value that indicates whether the font is a subset. [Font](./) based on IFont will automatically be subset and embedded. |
 | [GetLastFontEmbeddingError](./getlastfontembeddingerror/)() | An objective of this method - to return description of error if an attempt to embed font was failed. If there are no error cases it returns empty string. |
-| [MeasureString](./measurestring/)(System::String, float) | Measures the string. |
-| [Save](./save/)(System::SharedPtr\<System::IO::Stream\>) | Saves the font into the stream. [Note](../../aspose.pdf/note/) that the font is saved to intermediate TTF format intended to be used in a converted copy of the original document only. The font file is not intended to be used outside the original document context. |
+| [MeasureString](./measurestring/)(const System::String\&, float) | Measures the string. |
+| [Save](./save/)(const System::SharedPtr\<System::IO::Stream\>\&) | Saves the font into the stream. [Note](../../aspose.pdf/note/) that the font is saved to intermediate TTF format intended to be used in a converted copy of the original document only. The font file is not intended to be used outside the original document context. |
 | [set_IsEmbedded](./set_isembedded/)(bool) | Sets a value that indicates whether the font is embedded. [Font](./) based on IFont will automatically be subset and embedded. |
 | [set_IsSubset](./set_issubset/)(bool) | Sets a value that indicates whether the font is a subset. [Font](./) based on IFont will automatically be subset and embedded. |
 

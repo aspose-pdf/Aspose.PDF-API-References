@@ -20,7 +20,7 @@ class ExtGStateValue : public System::Object
 
 | Method | Description |
 | --- | --- |
-| [ExtGStateValue](./extgstatevalue/)(System::String) |  |
+| [ExtGStateValue](./extgstatevalue/)(const System::String\&) |  |
 | [get_CA](./get_ca/)() const |  |
 | [get_ca](./get_ca/)() const |  |
 | [get_Name](./get_name/)() const |  |

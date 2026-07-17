@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.devices/textdevice/set_encoding/
 Sets encoding of extracted text.
 
 ```cpp
-void Aspose::Pdf::Devices::TextDevice::set_Encoding(System::SharedPtr<System::Text::Encoding> value)
+void Aspose::Pdf::Devices::TextDevice::set_Encoding(const System::SharedPtr<System::Text::Encoding> &value)
 ```
 
 ## See Also

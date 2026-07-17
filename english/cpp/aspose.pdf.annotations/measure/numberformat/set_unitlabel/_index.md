@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/measure/numberformat/set_unitlabel/
 A text string specifying a label for displaying the units.
 
 ```cpp
-void Aspose::Pdf::Annotations::Measure::NumberFormat::set_UnitLabel(System::String value)
+void Aspose::Pdf::Annotations::Measure::NumberFormat::set_UnitLabel(const System::String &value)
 ```
 
 ## See Also

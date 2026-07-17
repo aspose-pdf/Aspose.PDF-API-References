@@ -21,19 +21,19 @@ Aspose::Pdf::Operators::BlockTextOperator::BlockTextOperator()
 * Class [BlockTextOperator](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)
-## BlockTextOperator::BlockTextOperator(System::SharedPtr\<Facades::TextProperties\>) constructor
+## BlockTextOperator::BlockTextOperator(const System::SharedPtr\<Facades::TextProperties\>\&) constructor
 
 
 Initializes [BlockTextOperator](../) which accepts TextProperties.
 
 ```cpp
-Aspose::Pdf::Operators::BlockTextOperator::BlockTextOperator(System::SharedPtr<Facades::TextProperties> textProperties)
+Aspose::Pdf::Operators::BlockTextOperator::BlockTextOperator(const System::SharedPtr<Facades::TextProperties> &textProperties)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| textProperties | System::SharedPtr\<Facades::TextProperties\> | [Text](../../../aspose.pdf.text/) properties. |
+| textProperties | const System::SharedPtr\<Facades::TextProperties\>\& | [Text](../../../aspose.pdf.text/) properties. |
 
 ## See Also
 

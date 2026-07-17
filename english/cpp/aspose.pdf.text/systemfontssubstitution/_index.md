@@ -22,7 +22,7 @@ class SystemFontsSubstitution : public Aspose::Pdf::Text::FontSubstitution
 | --- | --- |
 | [get_DefaultFont](./get_defaultfont/)() | Gets default substitution font. The font is used when no other valid substitution were found but initial font belongs to target substitution category ([FontCategories](../)). |
 | [get_FontCategories](./get_fontcategories/)() const | Gets substitution font categories that should be substituted with system fonts. |
-| [set_DefaultFont](./set_defaultfont/)(System::SharedPtr\<Font\>) | Sets default substitution font. The font is used when no other valid substitution were found but initial font belongs to target substitution category ([FontCategories](../)). |
+| [set_DefaultFont](./set_defaultfont/)(const System::SharedPtr\<Font\>\&) | Sets default substitution font. The font is used when no other valid substitution were found but initial font belongs to target substitution category ([FontCategories](../)). |
 | [set_FontCategories](./set_fontcategories/)(SubstitutionFontCategories) | Sets substitution font categories that should be substituted with system fonts. |
 | [SystemFontsSubstitution](./systemfontssubstitution/)(SubstitutionFontCategories) | Initializes a new instance of [SystemFontsSubstitution](./) class. |
 ## See Also

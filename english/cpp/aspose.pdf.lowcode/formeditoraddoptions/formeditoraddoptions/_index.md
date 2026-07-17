@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.lowcode/formeditoraddoptions/formeditoraddoptions/
 Initializes a new instance of the [PdfFormAddFieldsOptions](../) object.
 
 ```cpp
-Aspose::Pdf::LowCode::FormEditorAddOptions::FormEditorAddOptions(System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<FormFieldCreateOptions>>> fieldsCreateOptions)
+Aspose::Pdf::LowCode::FormEditorAddOptions::FormEditorAddOptions(const System::SharedPtr<System::Collections::Generic::List<System::SharedPtr<FormFieldCreateOptions>>> &fieldsCreateOptions)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldsCreateOptions | System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<FormFieldCreateOptions\>\>\> | List of [FormFieldCreateOptions](../../formfieldcreateoptions/) children that set the options for each added field. Each element of the list corresponds to one field to be added. |
+| fieldsCreateOptions | const System::SharedPtr\<System::Collections::Generic::List\<System::SharedPtr\<FormFieldCreateOptions\>\>\>\& | List of [FormFieldCreateOptions](../../formfieldcreateoptions/) children that set the options for each added field. Each element of the list corresponds to one field to be added. |
 
 ## See Also
 

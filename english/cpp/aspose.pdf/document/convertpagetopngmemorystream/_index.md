@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/document/convertpagetopngmemorystream/
 Convert page to PNG for DSR, OMR, OCR image stream.
 
 ```cpp
-System::SharedPtr<System::IO::MemoryStream> Aspose::Pdf::Document::ConvertPageToPNGMemoryStream(System::SharedPtr<Page> page)
+System::SharedPtr<System::IO::MemoryStream> Aspose::Pdf::Document::ConvertPageToPNGMemoryStream(const System::SharedPtr<Page> &page)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Page\> | [Page](../../page/) to convert. |
+| page | const System::SharedPtr\<Page\>\& | [Page](../../page/) to convert. |
 
 ### ReturnValue
 

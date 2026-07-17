@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tablecellelement/set_margin/
 Sets the padding.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::TableCellElement::set_Margin(System::SharedPtr<MarginInfo> value)
+void Aspose::Pdf::LogicalStructure::TableCellElement::set_Margin(const System::SharedPtr<MarginInfo> &value)
 ```
 
 ## See Also

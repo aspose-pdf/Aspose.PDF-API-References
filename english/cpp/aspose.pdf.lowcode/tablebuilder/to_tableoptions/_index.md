@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.lowcode/tablebuilder/to_tableoptions/
 Converts builder [TableBuilder](../) to options [TableOptions](../../tableoptions/)
 
 ```cpp
-static System::SharedPtr<TableOptions> Aspose::Pdf::LowCode::TableBuilder::to_TableOptions(System::SharedPtr<TableBuilder> builder)
+static System::SharedPtr<TableOptions> Aspose::Pdf::LowCode::TableBuilder::to_TableOptions(const System::SharedPtr<TableBuilder> &builder)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| builder | System::SharedPtr\<TableBuilder\> | Instance of current [TableBuilder](../). |
+| builder | const System::SharedPtr\<TableBuilder\>\& | Instance of current [TableBuilder](../). |
 
 ### ReturnValue
 

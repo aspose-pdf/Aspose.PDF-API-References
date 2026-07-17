@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.logicalstructure/structureattribute/setstringvalue/
 Sets Value String.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::StructureAttribute::SetStringValue(System::String value)
+void Aspose::Pdf::LogicalStructure::StructureAttribute::SetStringValue(const System::String &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | System::String | Value String. |
+| value | const System::String\& | Value String. |
 
 ## See Also
 

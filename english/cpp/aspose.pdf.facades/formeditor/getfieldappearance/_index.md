@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/formeditor/getfieldappearance/
 Get field flags.
 
 ```cpp
-Annotations::AnnotationFlags Aspose::Pdf::Facades::FormEditor::GetFieldAppearance(System::String fieldName)
+Annotations::AnnotationFlags Aspose::Pdf::Facades::FormEditor::GetFieldAppearance(const System::String &fieldName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | Name of the field. |
+| fieldName | const System::String\& | Name of the field. |
 
 ### ReturnValue
 

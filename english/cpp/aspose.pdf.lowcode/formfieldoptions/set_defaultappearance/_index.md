@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/formfieldoptions/set_defaultappearance/
 Gets/sets the value to determine property DefaultAppearance for created/modified field (if will be set).
 
 ```cpp
-void Aspose::Pdf::LowCode::FormFieldOptions::set_DefaultAppearance(System::SharedPtr<Aspose::Pdf::Annotations::DefaultAppearance> value)
+void Aspose::Pdf::LowCode::FormFieldOptions::set_DefaultAppearance(const System::SharedPtr<Aspose::Pdf::Annotations::DefaultAppearance> &value)
 ```
 
 ## See Also

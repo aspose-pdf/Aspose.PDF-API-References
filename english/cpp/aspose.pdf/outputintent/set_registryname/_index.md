@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/outputintent/set_registryname/
 Sets a text that identifies the registry in which the condition designated by [OutputConditionIdentifier](../) is defined.
 
 ```cpp
-void Aspose::Pdf::OutputIntent::set_RegistryName(System::String value)
+void Aspose::Pdf::OutputIntent::set_RegistryName(const System::String &value)
 ```
 
 ## See Also

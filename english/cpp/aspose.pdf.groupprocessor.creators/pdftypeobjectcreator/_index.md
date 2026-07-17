@@ -20,10 +20,10 @@ class PdfTypeObjectCreator : public System::Object
 
 | Method | Description |
 | --- | --- |
-| [CreateExtractor](./createextractor/)(System::String, int32_t, bool) | Creates [IPdfTypeExtractor](../../aspose.pdf.groupprocessor/ipdftypeextractor/) object. |
-| [CreateExtractor](./createextractor/)(System::SharedPtr\<System::IO::Stream\>, int32_t, bool) | Creates [IPdfTypeExtractor](../../aspose.pdf.groupprocessor/ipdftypeextractor/) object. |
-| [CreateExtractor](./createextractor/)(System::String, System::String, int32_t, bool) | Creates [IPdfTypeExtractor](../../aspose.pdf.groupprocessor/ipdftypeextractor/) object. |
-| [CreateExtractor](./createextractor/)(System::SharedPtr\<System::IO::Stream\>, System::String, int32_t, bool) | Creates [IPdfTypeExtractor](../../aspose.pdf.groupprocessor/ipdftypeextractor/) object. |
+| [CreateExtractor](./createextractor/)(const System::String\&, int32_t, bool) | Creates [IPdfTypeExtractor](../../aspose.pdf.groupprocessor/ipdftypeextractor/) object. |
+| [CreateExtractor](./createextractor/)(const System::SharedPtr\<System::IO::Stream\>\&, int32_t, bool) | Creates [IPdfTypeExtractor](../../aspose.pdf.groupprocessor/ipdftypeextractor/) object. |
+| [CreateExtractor](./createextractor/)(const System::String\&, const System::String\&, int32_t, bool) | Creates [IPdfTypeExtractor](../../aspose.pdf.groupprocessor/ipdftypeextractor/) object. |
+| [CreateExtractor](./createextractor/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&, int32_t, bool) | Creates [IPdfTypeExtractor](../../aspose.pdf.groupprocessor/ipdftypeextractor/) object. |
 ## See Also
 
 * Class [Object](../../system/object/)

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/buttonfield/set_normalicon/
 Sets normal icon of the button which shall be displayed when it is not interacting with the user.
 
 ```cpp
-void Aspose::Pdf::Forms::ButtonField::set_NormalIcon(System::SharedPtr<XForm> value)
+void Aspose::Pdf::Forms::ButtonField::set_NormalIcon(const System::SharedPtr<XForm> &value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/documentinfo/set_author/
 Sets document author.
 
 ```cpp
-void Aspose::Pdf::DocumentInfo::set_Author(System::String value)
+void Aspose::Pdf::DocumentInfo::set_Author(const System::String &value)
 ```
 
 ## See Also

@@ -25,19 +25,19 @@ In order to save document incrementally we should open the document file for wri
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Document::Save(System::SharedPtr\<SaveOptions\>) method
+## Document::Save(const System::SharedPtr\<SaveOptions\>\&) method
 
 
 Saves the document with save options.
 
 ```cpp
-void Aspose::Pdf::Document::Save(System::SharedPtr<SaveOptions> options)
+void Aspose::Pdf::Document::Save(const System::SharedPtr<SaveOptions> &options)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | System::SharedPtr\<SaveOptions\> | Save options. |
+| options | const System::SharedPtr\<SaveOptions\>\& | Save options. |
 
 ## See Also
 
@@ -46,19 +46,19 @@ void Aspose::Pdf::Document::Save(System::SharedPtr<SaveOptions> options)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Document::Save(System::SharedPtr\<System::IO::Stream\>) method
+## Document::Save(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Stores document into stream.
 
 ```cpp
-void Aspose::Pdf::Document::Save(System::SharedPtr<System::IO::Stream> output)
+void Aspose::Pdf::Document::Save(const System::SharedPtr<System::IO::Stream> &output)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| output | System::SharedPtr\<System::IO::Stream\> | Stream where document shell be stored. |
+| output | const System::SharedPtr\<System::IO::Stream\>\& | Stream where document shell be stored. |
 
 ## See Also
 
@@ -67,19 +67,42 @@ void Aspose::Pdf::Document::Save(System::SharedPtr<System::IO::Stream> output)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Document::Save(System::SharedPtr\<System::IO::Stream\>, SaveFormat) method
+## Document::Save(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<SaveOptions\>\&) method
 
 
-Saves the document with a new name along with a file format.
+Saves the document to a stream with a save options.
 
 ```cpp
-void Aspose::Pdf::Document::Save(System::SharedPtr<System::IO::Stream> outputStream, SaveFormat format)
+void Aspose::Pdf::Document::Save(const System::SharedPtr<System::IO::Stream> &outputStream, const System::SharedPtr<SaveOptions> &options)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputStream | System::SharedPtr\<System::IO::Stream\> | Stream where the document will be stored. |
+| outputStream | const System::SharedPtr\<System::IO::Stream\>\& | Stream where the document will be stored. |
+| options | const System::SharedPtr\<SaveOptions\>\& | Save options. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Stream](../../../system.io/stream/)
+* Class [SaveOptions](../../saveoptions/)
+* Class [Document](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
+## Document::Save(const System::SharedPtr\<System::IO::Stream\>\&, SaveFormat) method
+
+
+Saves the document with a new name along with a file format.
+
+```cpp
+void Aspose::Pdf::Document::Save(const System::SharedPtr<System::IO::Stream> &outputStream, SaveFormat format)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outputStream | const System::SharedPtr\<System::IO::Stream\>\& | Stream where the document will be stored. |
 | format | SaveFormat | Format options. |
 
 ## See Also
@@ -90,45 +113,22 @@ void Aspose::Pdf::Document::Save(System::SharedPtr<System::IO::Stream> outputStr
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Document::Save(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<SaveOptions\>) method
-
-
-Saves the document to a stream with a save options.
-
-```cpp
-void Aspose::Pdf::Document::Save(System::SharedPtr<System::IO::Stream> outputStream, System::SharedPtr<SaveOptions> options)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outputStream | System::SharedPtr\<System::IO::Stream\> | Stream where the document will be stored. |
-| options | System::SharedPtr\<SaveOptions\> | Save options. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Stream](../../../system.io/stream/)
-* Class [SaveOptions](../../saveoptions/)
-* Class [Document](../)
-* Namespace [Aspose::Pdf](../../)
-* Library [Aspose.PDF for C++](../../../)
-## Document::Save(System::SharedPtr\<System::Web::HttpResponse\>, System::String, ContentDisposition, System::SharedPtr\<SaveOptions\>) method
+## Document::Save(const System::SharedPtr\<System::Web::HttpResponse\>\&, const System::String\&, ContentDisposition, const System::SharedPtr\<SaveOptions\>\&) method
 
 
 Saves the document to a response stream with a save options.
 
 ```cpp
-void Aspose::Pdf::Document::Save(System::SharedPtr<System::Web::HttpResponse> response, System::String outputFileName, ContentDisposition disposition, System::SharedPtr<SaveOptions> options)
+void Aspose::Pdf::Document::Save(const System::SharedPtr<System::Web::HttpResponse> &response, const System::String &outputFileName, ContentDisposition disposition, const System::SharedPtr<SaveOptions> &options)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| response | System::SharedPtr\<System::Web::HttpResponse\> | Encapsulates HTTP-response information. |
-| outputFileName | System::String | Simple file name, i.e. without path. |
+| response | const System::SharedPtr\<System::Web::HttpResponse\>\& | Encapsulates HTTP-response information. |
+| outputFileName | const System::String\& | Simple file name, i.e. without path. |
 | disposition | ContentDisposition | Represents a MIME protocol Content-Disposition header. |
-| options | System::SharedPtr\<SaveOptions\> | Save options. |
+| options | const System::SharedPtr\<SaveOptions\>\& | Save options. |
 
 ## See Also
 
@@ -140,19 +140,19 @@ void Aspose::Pdf::Document::Save(System::SharedPtr<System::Web::HttpResponse> re
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Document::Save(System::String) method
+## Document::Save(const System::String\&) method
 
 
 Saves document into the specified file.
 
 ```cpp
-void Aspose::Pdf::Document::Save(System::String outputFileName)
+void Aspose::Pdf::Document::Save(const System::String &outputFileName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFileName | System::String | Path to file where the document will be stored. |
+| outputFileName | const System::String\& | Path to file where the document will be stored. |
 
 ## See Also
 
@@ -160,48 +160,48 @@ void Aspose::Pdf::Document::Save(System::String outputFileName)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Document::Save(System::String, SaveFormat) method
-
-
-Saves the document with a new name along with a file format.
-
-```cpp
-void Aspose::Pdf::Document::Save(System::String outputFileName, SaveFormat format)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| outputFileName | System::String | Path to file where the document will be stored. |
-| format | SaveFormat | Format options. |
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Enum [SaveFormat](../../saveformat/)
-* Class [Document](../)
-* Namespace [Aspose::Pdf](../../)
-* Library [Aspose.PDF for C++](../../../)
-## Document::Save(System::String, System::SharedPtr\<SaveOptions\>) method
+## Document::Save(const System::String\&, const System::SharedPtr\<SaveOptions\>\&) method
 
 
 Saves the document with a new name setting its save options.
 
 ```cpp
-void Aspose::Pdf::Document::Save(System::String outputFileName, System::SharedPtr<SaveOptions> options)
+void Aspose::Pdf::Document::Save(const System::String &outputFileName, const System::SharedPtr<SaveOptions> &options)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFileName | System::String | Path to file where the document will be stored. |
-| options | System::SharedPtr\<SaveOptions\> | Save options. |
+| outputFileName | const System::String\& | Path to file where the document will be stored. |
+| options | const System::SharedPtr\<SaveOptions\>\& | Save options. |
 
 ## See Also
 
 * Class [String](../../../system/string/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [SaveOptions](../../saveoptions/)
+* Class [Document](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
+## Document::Save(const System::String\&, SaveFormat) method
+
+
+Saves the document with a new name along with a file format.
+
+```cpp
+void Aspose::Pdf::Document::Save(const System::String &outputFileName, SaveFormat format)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| outputFileName | const System::String\& | Path to file where the document will be stored. |
+| format | SaveFormat | Format options. |
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Enum [SaveFormat](../../saveformat/)
 * Class [Document](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

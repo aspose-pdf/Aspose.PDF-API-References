@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/outlineitemcollection/set_action/
 Sets the action for this outline item.
 
 ```cpp
-void Aspose::Pdf::OutlineItemCollection::set_Action(System::SharedPtr<Annotations::PdfAction> value)
+void Aspose::Pdf::OutlineItemCollection::set_Action(const System::SharedPtr<Annotations::PdfAction> &value)
 ```
 
 ## See Also

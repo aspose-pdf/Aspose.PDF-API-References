@@ -25,20 +25,20 @@ For full field functionality, a binding to the document is required - use TextBo
 * Class [TextBoxField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TextBoxField::TextBoxField(System::SharedPtr\<Aspose::Pdf::Page\>, System::ArrayPtr\<System::SharedPtr\<Rectangle\>\>) constructor
+## TextBoxField::TextBoxField(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::ArrayPtr\<System::SharedPtr\<Rectangle\>\>\&) constructor
 
 
 Constructor of TextBox field.
 
 ```cpp
-Aspose::Pdf::Forms::TextBoxField::TextBoxField(System::SharedPtr<Aspose::Pdf::Page> page, System::ArrayPtr<System::SharedPtr<Rectangle>> rects)
+Aspose::Pdf::Forms::TextBoxField::TextBoxField(const System::SharedPtr<Aspose::Pdf::Page> &page, const System::ArrayPtr<System::SharedPtr<Rectangle>> &rects)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | [Page](../../../aspose.pdf/page/) where text field is placed. |
-| rects | System::ArrayPtr\<System::SharedPtr\<Rectangle\>\> | Rectangles defining the placement of [TextBoxField](../) widget annotations on the page. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | [Page](../../../aspose.pdf/page/) where text field is placed. |
+| rects | const System::ArrayPtr\<System::SharedPtr\<Rectangle\>\>\& | Rectangles defining the placement of [TextBoxField](../) widget annotations on the page. |
 
 ## See Also
 
@@ -49,20 +49,20 @@ Aspose::Pdf::Forms::TextBoxField::TextBoxField(System::SharedPtr<Aspose::Pdf::Pa
 * Class [TextBoxField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TextBoxField::TextBoxField(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) constructor
+## TextBoxField::TextBoxField(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&) constructor
 
 
 Constructor of TextBox field.
 
 ```cpp
-Aspose::Pdf::Forms::TextBoxField::TextBoxField(System::SharedPtr<Aspose::Pdf::Page> page, System::SharedPtr<Rectangle> rect)
+Aspose::Pdf::Forms::TextBoxField::TextBoxField(const System::SharedPtr<Aspose::Pdf::Page> &page, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | [Page](../../../aspose.pdf/page/) where text field is placed. |
-| rect | System::SharedPtr\<Rectangle\> | [Rectangle](../../../aspose.pdf/rectangle/) where the text field will be placed on the page. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | [Page](../../../aspose.pdf/page/) where text field is placed. |
+| rect | const System::SharedPtr\<Rectangle\>\& | [Rectangle](../../../aspose.pdf/rectangle/) where the text field will be placed on the page. |
 
 ## See Also
 
@@ -72,19 +72,19 @@ Aspose::Pdf::Forms::TextBoxField::TextBoxField(System::SharedPtr<Aspose::Pdf::Pa
 * Class [TextBoxField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TextBoxField::TextBoxField(System::SharedPtr\<Document\>) constructor
+## TextBoxField::TextBoxField(const System::SharedPtr\<Document\>\&) constructor
 
 
 Constructor which should be used with Generator.
 
 ```cpp
-Aspose::Pdf::Forms::TextBoxField::TextBoxField(System::SharedPtr<Document> doc)
+Aspose::Pdf::Forms::TextBoxField::TextBoxField(const System::SharedPtr<Document> &doc)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | System::SharedPtr\<Document\> | [Document](../../../aspose.pdf/document/) where field will be created. |
+| doc | const System::SharedPtr\<Document\>\& | [Document](../../../aspose.pdf/document/) where field will be created. |
 
 ## See Also
 
@@ -93,20 +93,20 @@ Aspose::Pdf::Forms::TextBoxField::TextBoxField(System::SharedPtr<Document> doc)
 * Class [TextBoxField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## TextBoxField::TextBoxField(System::SharedPtr\<Document\>, System::SharedPtr\<Rectangle\>) constructor
+## TextBoxField::TextBoxField(const System::SharedPtr\<Document\>\&, const System::SharedPtr\<Rectangle\>\&) constructor
 
 
 Constructor of TextBox field.
 
 ```cpp
-Aspose::Pdf::Forms::TextBoxField::TextBoxField(System::SharedPtr<Document> doc, System::SharedPtr<Rectangle> rect)
+Aspose::Pdf::Forms::TextBoxField::TextBoxField(const System::SharedPtr<Document> &doc, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | System::SharedPtr\<Document\> | [Document](../../../aspose.pdf/document/) where field will be created. |
-| rect | System::SharedPtr\<Rectangle\> | [Rectangle](../../../aspose.pdf/rectangle/) of the field. |
+| doc | const System::SharedPtr\<Document\>\& | [Document](../../../aspose.pdf/document/) where field will be created. |
+| rect | const System::SharedPtr\<Rectangle\>\& | [Rectangle](../../../aspose.pdf/rectangle/) of the field. |
 
 ## See Also
 

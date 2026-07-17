@@ -19,7 +19,7 @@ SharedPtr<X509Extension> & System::Security::Cryptography::X509Certificates::X50
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| idx | int32_t | Index of certificate to get. |
+| idx | int32_t | [Index](../../../system/index/) of certificate to get. |
 
 ### ReturnValue
 

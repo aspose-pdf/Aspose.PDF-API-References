@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/pdfannotationeditor/exportannotationstoxfdf/
 Exports annotations to stream.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfAnnotationEditor::ExportAnnotationsToXfdf(System::SharedPtr<System::IO::Stream> xmlOutputStream)
+void Aspose::Pdf::Facades::PdfAnnotationEditor::ExportAnnotationsToXfdf(const System::SharedPtr<System::IO::Stream> &xmlOutputStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xmlOutputStream | System::SharedPtr\<System::IO::Stream\> | Output stream. |
+| xmlOutputStream | const System::SharedPtr\<System::IO::Stream\>\& | Output stream. |
 
 ## See Also
 

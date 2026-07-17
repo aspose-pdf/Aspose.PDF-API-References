@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/document/settitle/
 Set Title for [Pdf](../../)[Document](../).
 
 ```cpp
-void Aspose::Pdf::Document::SetTitle(System::String title)
+void Aspose::Pdf::Document::SetTitle(const System::String &title)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| title | System::String | [Document](../)'s title |
+| title | const System::String\& | [Document](../)'s title |
 
 ## See Also
 

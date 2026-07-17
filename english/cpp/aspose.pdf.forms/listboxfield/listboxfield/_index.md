@@ -21,20 +21,20 @@ Aspose::Pdf::Forms::ListBoxField::ListBoxField()
 * Class [ListBoxField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## ListBoxField::ListBoxField(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) constructor
+## ListBoxField::ListBoxField(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&) constructor
 
 
 Creates new ListBox field.
 
 ```cpp
-Aspose::Pdf::Forms::ListBoxField::ListBoxField(System::SharedPtr<Aspose::Pdf::Page> page, System::SharedPtr<Rectangle> rect)
+Aspose::Pdf::Forms::ListBoxField::ListBoxField(const System::SharedPtr<Aspose::Pdf::Page> &page, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | [Page](../../../aspose.pdf/page/) where list box will be placed. |
-| rect | System::SharedPtr\<Rectangle\> | [Rectangle](../../../aspose.pdf/rectangle/) where list box will be placed on the page. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | [Page](../../../aspose.pdf/page/) where list box will be placed. |
+| rect | const System::SharedPtr\<Rectangle\>\& | [Rectangle](../../../aspose.pdf/rectangle/) where list box will be placed on the page. |
 
 ## See Also
 
@@ -44,20 +44,20 @@ Aspose::Pdf::Forms::ListBoxField::ListBoxField(System::SharedPtr<Aspose::Pdf::Pa
 * Class [ListBoxField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## ListBoxField::ListBoxField(System::SharedPtr\<Document\>, System::SharedPtr\<Rectangle\>) constructor
+## ListBoxField::ListBoxField(const System::SharedPtr\<Document\>\&, const System::SharedPtr\<Rectangle\>\&) constructor
 
 
 Constructor for ListBox field.
 
 ```cpp
-Aspose::Pdf::Forms::ListBoxField::ListBoxField(System::SharedPtr<Document> doc, System::SharedPtr<Rectangle> rect)
+Aspose::Pdf::Forms::ListBoxField::ListBoxField(const System::SharedPtr<Document> &doc, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | System::SharedPtr\<Document\> | [Document](../../../aspose.pdf/document/) to which this field will belong. |
-| rect | System::SharedPtr\<Rectangle\> | [Rectangle](../../../aspose.pdf/rectangle/) where list box will be placed. |
+| doc | const System::SharedPtr\<Document\>\& | [Document](../../../aspose.pdf/document/) to which this field will belong. |
+| rect | const System::SharedPtr\<Rectangle\>\& | [Rectangle](../../../aspose.pdf/rectangle/) where list box will be placed. |
 
 ## See Also
 

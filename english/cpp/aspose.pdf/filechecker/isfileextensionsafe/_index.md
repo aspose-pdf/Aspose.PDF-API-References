@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/filechecker/isfileextensionsafe/
 Checks file extensions.
 
 ```cpp
-static bool Aspose::Pdf::FileChecker::IsFileExtensionSafe(System::String file)
+static bool Aspose::Pdf::FileChecker::IsFileExtensionSafe(const System::String &file)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| file | System::String | The target file. |
+| file | const System::String\& | The target file. |
 
 ### ReturnValue
 

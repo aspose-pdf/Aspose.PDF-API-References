@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.forms/form/removefieldappearance/
 Removes appearance of the field at specified index. If only one child appearance left, method embeds it into the field.
 
 ```cpp
-void Aspose::Pdf::Forms::Form::RemoveFieldAppearance(System::SharedPtr<Field> field, int32_t appearanceIndex)
+void Aspose::Pdf::Forms::Form::RemoveFieldAppearance(const System::SharedPtr<Field> &field, int32_t appearanceIndex)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| field | System::SharedPtr\<Field\> | [Field](../../field/) with appearances. |
+| field | const System::SharedPtr\<Field\>\& | [Field](../../field/) with appearances. |
 | appearanceIndex | int32_t | Appearances index. |
 
 ## See Also

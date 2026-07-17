@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf/cells/insert/
 Insert cell to collection.
 
 ```cpp
-void Aspose::Pdf::Cells::Insert(int32_t index, System::SharedPtr<Cell> cell)
+void Aspose::Pdf::Cells::Insert(int32_t index, const System::SharedPtr<Cell> &cell)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | index | int32_t | The selected index. |
-| cell | System::SharedPtr\<Cell\> | The selected cell. |
+| cell | const System::SharedPtr\<Cell\>\& | The selected cell. |
 
 ## See Also
 

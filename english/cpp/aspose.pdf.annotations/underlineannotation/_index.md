@@ -22,7 +22,7 @@ class UnderlineAnnotation : public Aspose::Pdf::Annotations::TextMarkupAnnotatio
 | --- | --- |
 | [Accept](./accept/)(System::SharedPtr\<AnnotationSelector\>) override | Accepts visitor object to process the annotation. |
 | [get_AnnotationType](./get_annotationtype/)() override | Gets type of annotation. |
-| [UnderlineAnnotation](./underlineannotation/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) | Creates new Underline annotation on the specified page. |
+| [UnderlineAnnotation](./underlineannotation/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&) | Creates new Underline annotation on the specified page. |
 ## See Also
 
 * Class [TextMarkupAnnotation](../textmarkupannotation/)

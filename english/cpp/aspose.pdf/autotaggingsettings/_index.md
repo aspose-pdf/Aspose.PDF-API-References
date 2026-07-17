@@ -26,7 +26,7 @@ class AutoTaggingSettings : public System::Object
 | [get_HeadingLevels](./get_headinglevels/)() const | Gets the heading levels used for determining the structure of headings in a PDF document. |
 | [get_HeadingRecognitionStrategy](./get_headingrecognitionstrategy/)() const | Gets the strategy used for recognizing headings in the document during auto-tagging. |
 | [set_EnableAutoTagging](./set_enableautotagging/)(bool) | Sets a value indicating whether the auto-tagging functionality is enabled. |
-| [set_HeadingLevels](./set_headinglevels/)(System::SharedPtr\<Aspose::Pdf::HeadingLevels\>) | Sets the heading levels used for determining the structure of headings in a PDF document. |
+| [set_HeadingLevels](./set_headinglevels/)(const System::SharedPtr\<Aspose::Pdf::HeadingLevels\>\&) | Sets the heading levels used for determining the structure of headings in a PDF document. |
 | [set_HeadingRecognitionStrategy](./set_headingrecognitionstrategy/)(Aspose::Pdf::HeadingRecognitionStrategy) | Sets the strategy used for recognizing headings in the document during auto-tagging. |
 ## Remarks
 

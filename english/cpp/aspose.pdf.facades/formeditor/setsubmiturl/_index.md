@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.facades/formeditor/setsubmiturl/
 Sets URL of the button.
 
 ```cpp
-bool Aspose::Pdf::Facades::FormEditor::SetSubmitUrl(System::String fieldName, System::String url)
+bool Aspose::Pdf::Facades::FormEditor::SetSubmitUrl(const System::String &fieldName, const System::String &url)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | Submit button name. |
-| url | System::String | Fully qualified URL. |
+| fieldName | const System::String\& | Submit button name. |
+| url | const System::String\& | Fully qualified URL. |
 
 ### ReturnValue
 

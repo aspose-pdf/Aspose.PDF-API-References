@@ -29,10 +29,10 @@ class PolyAnnotation : public Aspose::Pdf::Annotations::MarkupAnnotation
 | [get_Vertices](./get_vertices/)() | Gets an array of points representing the horizontal and vertical coordinates of each vertex. |
 | [set_EndingStyle](./set_endingstyle/)(LineEnding) | Sets the style of second line ending. |
 | [set_Intent](./set_intent/)(PolyIntent) | Sets the intent of the polygon or polyline annotation. |
-| [set_InteriorColor](./set_interiorcolor/)(System::SharedPtr\<Aspose::Pdf::Color\>) | Sets the interior color with which to fill the annotation's line endings. |
-| [set_Measure](./set_measure/)(System::SharedPtr\<Aspose::Pdf::Annotations::Measure\>) | [Measure](../measure/) units specifed for this annotation. |
+| [set_InteriorColor](./set_interiorcolor/)(const System::SharedPtr\<Aspose::Pdf::Color\>\&) | Sets the interior color with which to fill the annotation's line endings. |
+| [set_Measure](./set_measure/)(const System::SharedPtr\<Aspose::Pdf::Annotations::Measure\>\&) | [Measure](../measure/) units specifed for this annotation. |
 | [set_StartingStyle](./set_startingstyle/)(LineEnding) | Sets the style of first line ending. |
-| [set_Vertices](./set_vertices/)(System::ArrayPtr\<System::SharedPtr\<Point\>\>) | Sets an array of points representing the horizontal and vertical coordinates of each vertex. |
+| [set_Vertices](./set_vertices/)(const System::ArrayPtr\<System::SharedPtr\<Point\>\>\&) | Sets an array of points representing the horizontal and vertical coordinates of each vertex. |
 ## See Also
 
 * Class [MarkupAnnotation](../markupannotation/)

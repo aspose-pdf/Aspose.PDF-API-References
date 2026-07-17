@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/bookmark/set_destination/
 Sets bookmark's destination page. Required if action is set as string.Empty.
 
 ```cpp
-void Aspose::Pdf::Facades::Bookmark::set_Destination(System::String value)
+void Aspose::Pdf::Facades::Bookmark::set_Destination(const System::String &value)
 ```
 
 ## See Also

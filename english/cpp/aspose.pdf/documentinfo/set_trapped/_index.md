@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/documentinfo/set_trapped/
 Sets the trapped flag.
 
 ```cpp
-void Aspose::Pdf::DocumentInfo::set_Trapped(System::String value)
+void Aspose::Pdf::DocumentInfo::set_Trapped(const System::String &value)
 ```
 
 ## See Also

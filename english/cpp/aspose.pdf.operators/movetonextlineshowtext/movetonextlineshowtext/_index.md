@@ -21,19 +21,19 @@ Aspose::Pdf::Operators::MoveToNextLineShowText::MoveToNextLineShowText()
 * Class [MoveToNextLineShowText](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)
-## MoveToNextLineShowText::MoveToNextLineShowText(System::String) constructor
+## MoveToNextLineShowText::MoveToNextLineShowText(const System::String\&) constructor
 
 
 Initializes operator.
 
 ```cpp
-Aspose::Pdf::Operators::MoveToNextLineShowText::MoveToNextLineShowText(System::String text)
+Aspose::Pdf::Operators::MoveToNextLineShowText::MoveToNextLineShowText(const System::String &text)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| text | System::String | The text. |
+| text | const System::String\& | The text. |
 
 ## See Also
 

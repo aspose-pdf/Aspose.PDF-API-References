@@ -21,19 +21,19 @@ Aspose::Pdf::Annotations::PDF3DContent::PDF3DContent()
 * Class [PDF3DContent](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PDF3DContent::PDF3DContent(System::String) constructor
+## PDF3DContent::PDF3DContent(const System::String\&) constructor
 
 
 Initializes a new instance of the [PDF3DContent](../) class.
 
 ```cpp
-Aspose::Pdf::Annotations::PDF3DContent::PDF3DContent(System::String filename)
+Aspose::Pdf::Annotations::PDF3DContent::PDF3DContent(const System::String &filename)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | System::String | The filename. |
+| filename | const System::String\& | The filename. |
 
 ## See Also
 

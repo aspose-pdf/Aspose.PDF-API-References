@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilesecurity/set_outputfile/
 Sets the output file.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileSecurity::set_OutputFile(System::String value)
+void Aspose::Pdf::Facades::PdfFileSecurity::set_OutputFile(const System::String &value)
 ```
 
 

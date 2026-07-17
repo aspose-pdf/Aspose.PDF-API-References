@@ -4,7 +4,7 @@ linktitle: LINQ_ToList
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IEnumerable::LINQ_ToList method. Creates a List<T> from a sequence in C++.'
 type: docs
-weight: 3000
+weight: 3200
 url: /cpp/system.collections.generic/ienumerable/linq_tolist/
 ---
 ## IEnumerable::LINQ_ToList method

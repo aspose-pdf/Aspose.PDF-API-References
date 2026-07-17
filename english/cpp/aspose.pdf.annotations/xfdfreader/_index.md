@@ -20,9 +20,9 @@ class XfdfReader : public System::Object
 
 | Method | Description |
 | --- | --- |
-| static [GetElements](./getelements/)(System::SharedPtr\<System::Xml::XmlReader\>) | Parses XFDF file and returns information as hashtable. |
-| static [ReadAnnotations](./readannotations/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Document\>) | Import annotations from XFDF file and put them into document. |
-| static [ReadFields](./readfields/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<Document\>) | Import field values from XFDF file. |
+| static [GetElements](./getelements/)(const System::SharedPtr\<System::Xml::XmlReader\>\&) | Parses XFDF file and returns information as hashtable. |
+| static [ReadAnnotations](./readannotations/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Document\>\&) | Import annotations from XFDF file and put them into document. |
+| static [ReadFields](./readfields/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<Document\>\&) | Import field values from XFDF file. |
 ## See Also
 
 * Class [Object](../../system/object/)

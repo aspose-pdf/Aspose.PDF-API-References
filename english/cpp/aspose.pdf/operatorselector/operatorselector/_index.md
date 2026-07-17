@@ -21,19 +21,19 @@ Aspose::Pdf::OperatorSelector::OperatorSelector()
 * Class [OperatorSelector](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## OperatorSelector::OperatorSelector(System::SharedPtr\<Operator\>) constructor
+## OperatorSelector::OperatorSelector(const System::SharedPtr\<Operator\>\&) constructor
 
 
 Initializes new [OperatorSelector](../).
 
 ```cpp
-Aspose::Pdf::OperatorSelector::OperatorSelector(System::SharedPtr<Operator> op)
+Aspose::Pdf::OperatorSelector::OperatorSelector(const System::SharedPtr<Operator> &op)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| op | System::SharedPtr\<Operator\> | The operator to visit/select. |
+| op | const System::SharedPtr\<Operator\>\& | The operator to visit/select. |
 
 ## See Also
 

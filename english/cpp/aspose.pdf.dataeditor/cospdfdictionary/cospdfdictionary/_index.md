@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.dataeditor/cospdfdictionary/cospdfdictionary/
 Creates a dictionary from resources.
 
 ```cpp
-Aspose::Pdf::DataEditor::CosPdfDictionary::CosPdfDictionary(System::SharedPtr<Resources> resources)
+Aspose::Pdf::DataEditor::CosPdfDictionary::CosPdfDictionary(const System::SharedPtr<Resources> &resources)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| resources | System::SharedPtr\<Resources\> | [Resources](../../../aspose.pdf/resources/) with a dictionary for work. |
+| resources | const System::SharedPtr\<Resources\>\& | [Resources](../../../aspose.pdf/resources/) with a dictionary for work. |
 
 ## See Also
 

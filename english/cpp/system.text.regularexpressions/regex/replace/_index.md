@@ -100,7 +100,7 @@ String System::Text::RegularExpressions::Regex::Replace(const String &input, con
 | input | const String\& | Input string. |
 | evaluator | const MatchEvaluator\& | Delegate to generate replacement strings based on matches. |
 | count | int | Number of replacements limit. |
-| startat | int | Index in input string to start replacement at. |
+| startat | int | [Index](../../../system/index/) in input string to start replacement at. |
 
 ### ReturnValue
 

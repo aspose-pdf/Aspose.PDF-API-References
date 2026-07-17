@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/set_bleedbox/
 Sets bleed box of the page.
 
 ```cpp
-void Aspose::Pdf::Page::set_BleedBox(System::SharedPtr<Aspose::Pdf::Rectangle> value)
+void Aspose::Pdf::Page::set_BleedBox(const System::SharedPtr<Aspose::Pdf::Rectangle> &value)
 ```
 
 ## See Also

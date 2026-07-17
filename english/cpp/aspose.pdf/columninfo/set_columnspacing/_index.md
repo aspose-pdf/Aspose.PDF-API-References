@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/columninfo/set_columnspacing/
 Sets a string that contains the spacing between columns. The value of each spacing should be separated by blank. The default unit is point, but cm and inch are also supported.For example,"120 2.5cm 1.5inch".
 
 ```cpp
-void Aspose::Pdf::ColumnInfo::set_ColumnSpacing(System::String value)
+void Aspose::Pdf::ColumnInfo::set_ColumnSpacing(const System::String &value)
 ```
 
 ## Remarks

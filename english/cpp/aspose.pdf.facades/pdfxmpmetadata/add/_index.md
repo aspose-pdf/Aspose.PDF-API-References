@@ -53,6 +53,31 @@ void Aspose::Pdf::Facades::PdfXmpMetadata::Add(const System::Collections::Generi
 * Class [PdfXmpMetadata](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
+## PdfXmpMetadata::Add(const System::SharedPtr\<XmpPdfAExtensionObject\>\&, const System::String\&, const System::String\&, const System::String\&) method
+
+
+Adds extension field into metadata.
+
+```cpp
+void Aspose::Pdf::Facades::PdfXmpMetadata::Add(const System::SharedPtr<XmpPdfAExtensionObject> &xmpPdfAExtensionObject, const System::String &namespacePrefix, const System::String &namespaceUri, const System::String &schemaDescription)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| xmpPdfAExtensionObject | const System::SharedPtr\<XmpPdfAExtensionObject\>\& | The pdf extension object to add. |
+| namespacePrefix | const System::String\& | The prefix of schema. |
+| namespaceUri | const System::String\& | The namespace uri of schema. |
+| schemaDescription | const System::String\& | The optional description of schema. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject/)
+* Class [String](../../../system/string/)
+* Class [PdfXmpMetadata](../)
+* Namespace [Aspose::Pdf::Facades](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## PdfXmpMetadata::Add(const System::String\&, const System::SharedPtr\<System::Object\>\&) method
 
 
@@ -96,31 +121,6 @@ void Aspose::Pdf::Facades::PdfXmpMetadata::Add(const System::String &key, const 
 * Class [String](../../../system/string/)
 * Typedef [SharedPtr](../../../system/sharedptr/)
 * Class [XmpValue](../../../aspose.pdf/xmpvalue/)
-* Class [PdfXmpMetadata](../)
-* Namespace [Aspose::Pdf::Facades](../../)
-* Library [Aspose.PDF for C++](../../../)
-## PdfXmpMetadata::Add(System::SharedPtr\<XmpPdfAExtensionObject\>, System::String, System::String, System::String) method
-
-
-Adds extension field into metadata.
-
-```cpp
-void Aspose::Pdf::Facades::PdfXmpMetadata::Add(System::SharedPtr<XmpPdfAExtensionObject> xmpPdfAExtensionObject, System::String namespacePrefix, System::String namespaceUri, System::String schemaDescription)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| xmpPdfAExtensionObject | System::SharedPtr\<XmpPdfAExtensionObject\> | The pdf extension object to add. |
-| namespacePrefix | System::String | The prefix of schema. |
-| namespaceUri | System::String | The namespace uri of schema. |
-| schemaDescription | System::String | The optional description of schema. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [XmpPdfAExtensionObject](../../../aspose.pdf/xmppdfaextensionobject/)
-* Class [String](../../../system/string/)
 * Class [PdfXmpMetadata](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)

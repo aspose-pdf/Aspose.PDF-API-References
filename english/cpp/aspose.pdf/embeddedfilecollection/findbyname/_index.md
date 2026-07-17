@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/embeddedfilecollection/findbyname/
 Returns embedded file by its name.
 
 ```cpp
-System::SharedPtr<FileSpecification> Aspose::Pdf::EmbeddedFileCollection::FindByName(System::String name)
+System::SharedPtr<FileSpecification> Aspose::Pdf::EmbeddedFileCollection::FindByName(const System::String &name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | Name of the file. |
+| name | const System::String\& | Name of the file. |
 
 ### ReturnValue
 

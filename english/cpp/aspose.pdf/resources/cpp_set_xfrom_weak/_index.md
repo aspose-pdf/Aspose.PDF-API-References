@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/resources/cpp_set_xfrom_weak/
 
 
 ```cpp
-void Aspose::Pdf::Resources::cpp_set_xfrom_weak(System::SharedPtr<XForm> from)
+void Aspose::Pdf::Resources::cpp_set_xfrom_weak(const System::SharedPtr<XForm> &from)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/richmediaannotation/set_customflashvariables/
 Sets or gets flash variables which passed to player.
 
 ```cpp
-void Aspose::Pdf::Annotations::RichMediaAnnotation::set_CustomFlashVariables(System::String value)
+void Aspose::Pdf::Annotations::RichMediaAnnotation::set_CustomFlashVariables(const System::String &value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/buttonfield/set_alternatecaption/
 Sets alternate caption of the button which shall be displayed when the mouse button is pressed within its active area.
 
 ```cpp
-void Aspose::Pdf::Forms::ButtonField::set_AlternateCaption(System::String value)
+void Aspose::Pdf::Forms::ButtonField::set_AlternateCaption(const System::String &value)
 ```
 
 ## See Also

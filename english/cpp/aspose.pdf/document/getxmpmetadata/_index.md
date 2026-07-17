@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/document/getxmpmetadata/
 Get XMP metadata from document.
 
 ```cpp
-void Aspose::Pdf::Document::GetXmpMetadata(System::SharedPtr<System::IO::Stream> stream)
+void Aspose::Pdf::Document::GetXmpMetadata(const System::SharedPtr<System::IO::Stream> &stream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | System::SharedPtr\<System::IO::Stream\> | Stream where metadata will be stored. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | Stream where metadata will be stored. |
 
 ## See Also
 

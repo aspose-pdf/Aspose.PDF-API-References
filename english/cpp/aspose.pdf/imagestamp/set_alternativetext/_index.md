@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/imagestamp/set_alternativetext/
 Sets Alternative [Text](../../../aspose.pdf.text/) for image stamp.
 
 ```cpp
-void Aspose::Pdf::ImageStamp::set_AlternativeText(System::String value)
+void Aspose::Pdf::ImageStamp::set_AlternativeText(const System::String &value)
 ```
 
 ## See Also

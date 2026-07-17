@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/xmppdfaextensionschema/add/
 Adds new object into schema.
 
 ```cpp
-void Aspose::Pdf::XmpPdfAExtensionSchema::Add(System::SharedPtr<XmpPdfAExtensionObject> obj)
+void Aspose::Pdf::XmpPdfAExtensionSchema::Add(const System::SharedPtr<XmpPdfAExtensionObject> &obj)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | System::SharedPtr\<XmpPdfAExtensionObject\> | The new object. |
+| obj | const System::SharedPtr\<XmpPdfAExtensionObject\>\& | The new object. |
 
 ## See Also
 

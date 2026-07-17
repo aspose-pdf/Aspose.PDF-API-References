@@ -23,7 +23,7 @@ int System::String::LastIndexOfAny(const ArrayPtr<char_t> &anyOf) const
 
 ### ReturnValue
 
-Index of the last matching character or -1 if not found.
+[Index](../../index/) of the last matching character or -1 if not found.
 
 ## See Also
 
@@ -44,11 +44,11 @@ int System::String::LastIndexOfAny(const ArrayPtr<char_t> &anyOf, int32_t starti
 | Parameter | Type | Description |
 | --- | --- | --- |
 | anyOf | const ArrayPtr\<char_t\>\& | [Array](../../array/) of characters to look for. Order doesn't matter. |
-| startindex | int32_t | Index to start lookup from. |
+| startindex | int32_t | [Index](../../index/) to start lookup from. |
 
 ### ReturnValue
 
-Index of the last matching character or -1 if not found.
+[Index](../../index/) of the last matching character or -1 if not found.
 
 ## See Also
 
@@ -69,12 +69,12 @@ int System::String::LastIndexOfAny(const ArrayPtr<char_t> &anyOf, int32_t starti
 | Parameter | Type | Description |
 | --- | --- | --- |
 | anyOf | const ArrayPtr\<char_t\>\& | [Array](../../array/) of characters to look for. Order doesn't matter. |
-| startindex | int32_t | Index to start lookup from. |
+| startindex | int32_t | [Index](../../index/) to start lookup from. |
 | count | int32_t | Number of characters to look through. |
 
 ### ReturnValue
 
-Index of the last matching character or -1 if not found.
+[Index](../../index/) of the last matching character or -1 if not found.
 
 ## See Also
 

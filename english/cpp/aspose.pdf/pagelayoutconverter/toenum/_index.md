@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagelayoutconverter/toenum/
 
 
 ```cpp
-static PageLayout Aspose::Pdf::PageLayoutConverter::ToEnum(System::String value)
+static PageLayout Aspose::Pdf::PageLayoutConverter::ToEnum(const System::String &value)
 ```
 
 ## See Also

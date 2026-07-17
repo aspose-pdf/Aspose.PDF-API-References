@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfpagestamp/set_pdfpage/
 Sets page which will be used as stamp.
 
 ```cpp
-void Aspose::Pdf::PdfPageStamp::set_PdfPage(System::SharedPtr<Page> value)
+void Aspose::Pdf::PdfPageStamp::set_PdfPage(const System::SharedPtr<Page> &value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/namedaction/set_name/
 Sets the action to be performed.
 
 ```cpp
-void Aspose::Pdf::Annotations::NamedAction::set_Name(System::String value)
+void Aspose::Pdf::Annotations::NamedAction::set_Name(const System::String &value)
 ```
 
 ## See Also

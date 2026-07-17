@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfcontenteditor/replaceimage/
 Replaces the specified image on the specified page of PDF document with another image.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfContentEditor::ReplaceImage(int32_t pageNumber, int32_t index, System::String imageFile)
+void Aspose::Pdf::Facades::PdfContentEditor::ReplaceImage(int32_t pageNumber, int32_t index, const System::String &imageFile)
 ```
 
 
@@ -21,7 +21,7 @@ void Aspose::Pdf::Facades::PdfContentEditor::ReplaceImage(int32_t pageNumber, in
 | --- | --- | --- |
 | pageNumber | int32_t | The number of page on which the image is replaced. |
 | index | int32_t | The index of the image object must be replaced. |
-| imageFile | System::String | The image file will be used for replacing. |
+| imageFile | const System::String\& | The image file will be used for replacing. |
 
 ## See Also
 

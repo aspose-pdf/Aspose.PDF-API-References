@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/measure/set_angleformat/
 A number format array for measurement of angles.
 
 ```cpp
-void Aspose::Pdf::Annotations::Measure::set_AngleFormat(System::SharedPtr<Measure::NumberFormatList> value)
+void Aspose::Pdf::Annotations::Measure::set_AngleFormat(const System::SharedPtr<Measure::NumberFormatList> &value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: LINQ_Max
 second_title: Aspose.PDF for C++ API Reference
 description: 'How to use LINQ_Max method of System::Collections::Generic::IEnumerable class in C++.'
 type: docs
-weight: 2000
+weight: 2100
 url: /cpp/system.collections.generic/ienumerable/linq_max/
 ---
 ## IEnumerable::LINQ_Max(const Func\<Source, ResultType\>\&) method

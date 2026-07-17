@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagedate/set_month/
 Sets the month component of the date. The format of the date will be updated based on this component.
 
 ```cpp
-void Aspose::Pdf::PageDate::set_Month(System::SharedPtr<PageDate::MonthComponent> value)
+void Aspose::Pdf::PageDate::set_Month(const System::SharedPtr<PageDate::MonthComponent> &value)
 ```
 
 ## See Also

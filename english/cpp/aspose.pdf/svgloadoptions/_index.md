@@ -28,7 +28,7 @@ class SvgLoadOptions : public Aspose::Pdf::LoadOptions
 | [get_AdjustPageSize](./get_adjustpagesize/)() const | Adust pdf page size to svg size. |
 | [get_PageInfo](./get_pageinfo/)() const | Gets page info that should be applied during loading of document. |
 | [set_AdjustPageSize](./set_adjustpagesize/)(bool) | Adust pdf page size to svg size. |
-| [set_PageInfo](./set_pageinfo/)(System::SharedPtr\<Aspose::Pdf::PageInfo\>) | Sets page info that should be applied during loading of document. |
+| [set_PageInfo](./set_pageinfo/)(const System::SharedPtr\<Aspose::Pdf::PageInfo\>\&) | Sets page info that should be applied during loading of document. |
 | [SvgLoadOptions](./svgloadoptions/)() | Creates [SvgLoadOptions](./) object. |
 ## See Also
 

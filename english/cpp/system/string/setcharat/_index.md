@@ -19,7 +19,7 @@ String & System::String::SetCharAt(int index, char_t ch)
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to set character at. |
+| index | int | [Index](../../index/) to set character at. |
 | ch | char_t | Character to put at specified position. |
 
 ### ReturnValue

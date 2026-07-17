@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/crashreportoptions/set_custommessage/
 Custom message to include into the report. It can be something like value of variables or other details you want to send.
 
 ```cpp
-void Aspose::Pdf::CrashReportOptions::set_CustomMessage(System::String value)
+void Aspose::Pdf::CrashReportOptions::set_CustomMessage(const System::String &value)
 ```
 
 ## See Also

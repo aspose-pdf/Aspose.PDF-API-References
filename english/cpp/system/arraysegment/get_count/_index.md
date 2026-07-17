@@ -13,7 +13,7 @@ url: /cpp/system/arraysegment/get_count/
 
 
 ```cpp
-int32_t System::ArraySegment<T>::get_Count()
+int32_t System::ArraySegment<T>::get_Count() const
 ```
 
 ## See Also

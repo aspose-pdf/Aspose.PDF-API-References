@@ -7,20 +7,20 @@ type: docs
 weight: 5900
 url: /cpp/aspose.pdf.facades/pdffileeditor/splittobulks/
 ---
-## PdfFileEditor::SplitToBulks(System::SharedPtr\<System::IO::Stream\>, System::ArrayPtr\<System::ArrayPtr\<int32_t\>\>) method
+## PdfFileEditor::SplitToBulks(const System::SharedPtr\<System::IO::Stream\>\&, const System::ArrayPtr\<System::ArrayPtr\<int32_t\>\>\&) method
 
 
 Splits the [Pdf](../../../aspose.pdf/) file into several documents.The documents can be single-page or multi-pages.
 
 ```cpp
-System::ArrayPtr<System::SharedPtr<System::IO::MemoryStream>> Aspose::Pdf::Facades::PdfFileEditor::SplitToBulks(System::SharedPtr<System::IO::Stream> inputStream, System::ArrayPtr<System::ArrayPtr<int32_t>> numberOfPage)
+System::ArrayPtr<System::SharedPtr<System::IO::MemoryStream>> Aspose::Pdf::Facades::PdfFileEditor::SplitToBulks(const System::SharedPtr<System::IO::Stream> &inputStream, const System::ArrayPtr<System::ArrayPtr<int32_t>> &numberOfPage)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputStream | System::SharedPtr\<System::IO::Stream\> | Input PDF stream. |
-| numberOfPage | System::ArrayPtr\<System::ArrayPtr\<int32_t\>\> | The start page and the end page of each document. |
+| inputStream | const System::SharedPtr\<System::IO::Stream\>\& | Input PDF stream. |
+| numberOfPage | const System::ArrayPtr\<System::ArrayPtr\<int32_t\>\>\& | The start page and the end page of each document. |
 
 ### ReturnValue
 
@@ -35,20 +35,20 @@ Output PDF streams, each stream buffers a PDF document.
 * Class [PdfFileEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileEditor::SplitToBulks(System::String, System::ArrayPtr\<System::ArrayPtr\<int32_t\>\>) method
+## PdfFileEditor::SplitToBulks(const System::String\&, const System::ArrayPtr\<System::ArrayPtr\<int32_t\>\>\&) method
 
 
 Splits the [Pdf](../../../aspose.pdf/) file into several documents.The documents can be single-page or multi-pages.
 
 ```cpp
-System::ArrayPtr<System::SharedPtr<System::IO::MemoryStream>> Aspose::Pdf::Facades::PdfFileEditor::SplitToBulks(System::String inputFile, System::ArrayPtr<System::ArrayPtr<int32_t>> numberOfPage)
+System::ArrayPtr<System::SharedPtr<System::IO::MemoryStream>> Aspose::Pdf::Facades::PdfFileEditor::SplitToBulks(const System::String &inputFile, const System::ArrayPtr<System::ArrayPtr<int32_t>> &numberOfPage)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | System::String | Input PDF file. |
-| numberOfPage | System::ArrayPtr\<System::ArrayPtr\<int32_t\>\> | Array which contains array of double elements, which is start and end pages of document. |
+| inputFile | const System::String\& | Input PDF file. |
+| numberOfPage | const System::ArrayPtr\<System::ArrayPtr\<int32_t\>\>\& | Array which contains array of double elements, which is start and end pages of document. |
 
 ### ReturnValue
 

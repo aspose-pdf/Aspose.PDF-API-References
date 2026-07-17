@@ -21,7 +21,7 @@ class Paragraphs : public System::Collections::Generic::IEnumerable<System::Shar
 
 | Method | Description |
 | --- | --- |
-| [Add](./add/)(System::SharedPtr\<BaseParagraph\>) | Add paragraph to collection. |
+| [Add](./add/)(const System::SharedPtr\<BaseParagraph\>\&) | Add paragraph to collection. |
 | [begin](./begin/)() | Gets iterator pointing to the first element (if any) of the collection. |
 | [begin](./begin/)() const | Gets iterator pointing to the first element (if any) of the const-qualified instance of the collection. |
 | [cbegin](./cbegin/)() const | Gets iterator pointing to the first const-qualified element (if any) of the collection. |
@@ -35,11 +35,11 @@ class Paragraphs : public System::Collections::Generic::IEnumerable<System::Shar
 | [GetEnumerator](./getenumerator/)() override | Gets the enumerator. |
 | [GetRange](./getrange/)(int32_t, int32_t) | Remove paragraphs range. |
 | [idx_get](./idx_get/)(int32_t) | Gets paragraph from or to collection. |
-| [idx_set](./idx_set/)(int32_t, System::SharedPtr\<BaseParagraph\>) | Sets paragraph from or to collection. |
-| [Insert](./insert/)(int32_t, System::SharedPtr\<BaseParagraph\>) | Insert paragraph to collection. |
-| [InsertRange](./insertrange/)(int32_t, System::SharedPtr\<System::Collections::Generic::IEnumerable\<System::SharedPtr\<BaseParagraph\>\>\>) | Inserts the elements of a collection into the list at the specified index. |
+| [idx_set](./idx_set/)(int32_t, const System::SharedPtr\<BaseParagraph\>\&) | Sets paragraph from or to collection. |
+| [Insert](./insert/)(int32_t, const System::SharedPtr\<BaseParagraph\>\&) | Insert paragraph to collection. |
+| [InsertRange](./insertrange/)(int32_t, const System::SharedPtr\<System::Collections::Generic::IEnumerable\<System::SharedPtr\<BaseParagraph\>\>\>\&) | Inserts the elements of a collection into the list at the specified index. |
 | [Paragraphs](./paragraphs/)() |  |
-| [Remove](./remove/)(System::SharedPtr\<BaseParagraph\>) | Remove paragraph from collection. |
+| [Remove](./remove/)(const System::SharedPtr\<BaseParagraph\>\&) | Remove paragraph from collection. |
 | [RemoveRange](./removerange/)(int32_t, int32_t) | Remove paragraphs range. |
 | [virtualizeBeginConstIterator](./virtualizebeginconstiterator/)() const override | Gets iterator pointing to the first element (if any)of the const-qualified instance of the collection. |
 | [virtualizeBeginIterator](./virtualizebeginiterator/)() override | Gets iterator pointing to the first element (if any) of the collection. |

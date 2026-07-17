@@ -21,6 +21,26 @@ Aspose::Pdf::Operators::SetColor::SetColor()
 * Class [SetColor](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)
+## SetColor::SetColor(const System::ArrayPtr\<double\>\&) constructor
+
+
+Constructor which allows to specify color components.
+
+```cpp
+Aspose::Pdf::Operators::SetColor::SetColor(const System::ArrayPtr<double> &color)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| color | const System::ArrayPtr\<double\>\& | Array of color components. |
+
+## See Also
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [SetColor](../)
+* Namespace [Aspose::Pdf::Operators](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## SetColor::SetColor(double, double, double, double) constructor
 
 
@@ -80,26 +100,6 @@ Aspose::Pdf::Operators::SetColor::SetColor(double r, double g, double b)
 
 ## See Also
 
-* Class [SetColor](../)
-* Namespace [Aspose::Pdf::Operators](../../)
-* Library [Aspose.PDF for C++](../../../)
-## SetColor::SetColor(System::ArrayPtr\<double\>) constructor
-
-
-Constructor which allows to specify color components.
-
-```cpp
-Aspose::Pdf::Operators::SetColor::SetColor(System::ArrayPtr<double> color)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| color | System::ArrayPtr\<double\> | Array of color components. |
-
-## See Also
-
-* Typedef [ArrayPtr](../../../system/arrayptr/)
 * Class [SetColor](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)

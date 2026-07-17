@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.text/tabstops/idx_set/
 Sets a [TabStop](../../tabstop/) object from the collection according to [TabStop](../../tabstop/) index.
 
 ```cpp
-void Aspose::Pdf::Text::TabStops::idx_set(int32_t index, System::SharedPtr<TabStop> value)
+void Aspose::Pdf::Text::TabStops::idx_set(int32_t index, const System::SharedPtr<TabStop> &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | index | int32_t | Zero-based index of element in [TabStops](../) collection. |
-| value | System::SharedPtr\<TabStop\> | [TabStop](../../tabstop/) object. |
+| value | const System::SharedPtr\<TabStop\>\& | [TabStop](../../tabstop/) object. |
 
 ## See Also
 

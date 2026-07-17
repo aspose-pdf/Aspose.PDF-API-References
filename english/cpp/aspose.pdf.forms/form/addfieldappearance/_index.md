@@ -13,15 +13,15 @@ url: /cpp/aspose.pdf.forms/form/addfieldappearance/
 Adds additional appearance of the field to specified page of the document in the specified location.
 
 ```cpp
-void Aspose::Pdf::Forms::Form::AddFieldAppearance(System::SharedPtr<Field> field, int32_t pageNumber, System::SharedPtr<Rectangle> rect)
+void Aspose::Pdf::Forms::Form::AddFieldAppearance(const System::SharedPtr<Field> &field, int32_t pageNumber, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| field | System::SharedPtr\<Field\> | [Field](../../field/) which appearance should be added on form. |
+| field | const System::SharedPtr\<Field\>\& | [Field](../../field/) which appearance should be added on form. |
 | pageNumber | int32_t | Number of the page where field must be placed. |
-| rect | System::SharedPtr\<Rectangle\> | [Rectangle](../../../aspose.pdf/rectangle/) where field will be placed. |
+| rect | const System::SharedPtr\<Rectangle\>\& | [Rectangle](../../../aspose.pdf/rectangle/) where field will be placed. |
 
 ## See Also
 

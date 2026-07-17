@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf/artifact/setvalue/
 Sets custom value of artifact.
 
 ```cpp
-void Aspose::Pdf::Artifact::SetValue(System::String name, System::String value)
+void Aspose::Pdf::Artifact::SetValue(const System::String &name, const System::String &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | Name of custom value. |
-| value | System::String | Custom value in the artifact. |
+| name | const System::String\& | Name of custom value. |
+| value | const System::String\& | Custom value in the artifact. |
 
 ## See Also
 

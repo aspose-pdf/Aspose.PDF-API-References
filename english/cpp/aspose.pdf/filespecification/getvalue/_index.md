@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/filespecification/getvalue/
 Gets application-specific parameter.
 
 ```cpp
-System::String Aspose::Pdf::FileSpecification::GetValue(System::String key)
+System::String Aspose::Pdf::FileSpecification::GetValue(const System::String &key)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | System::String | Parameter name. |
+| key | const System::String\& | Parameter name. |
 
 ### ReturnValue
 

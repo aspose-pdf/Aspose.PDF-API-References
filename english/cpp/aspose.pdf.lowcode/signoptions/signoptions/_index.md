@@ -7,20 +7,20 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf.lowcode/signoptions/signoptions/
 ---
-## SignOptions::SignOptions(System::SharedPtr\<System::IO::Stream\>, System::String) constructor
+## SignOptions::SignOptions(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&) constructor
 
 
 Initializes new instance of the [SignOptions](../) object with default options.
 
 ```cpp
-Aspose::Pdf::LowCode::SignOptions::SignOptions(System::SharedPtr<System::IO::Stream> pfx, System::String password)
+Aspose::Pdf::LowCode::SignOptions::SignOptions(const System::SharedPtr<System::IO::Stream> &pfx, const System::String &password)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pfx | System::SharedPtr\<System::IO::Stream\> | The stream with the pfx file. |
-| password | System::String | The password to the pfx file. |
+| pfx | const System::SharedPtr\<System::IO::Stream\>\& | The stream with the pfx file. |
+| password | const System::String\& | The password to the pfx file. |
 
 ## See Also
 
@@ -30,20 +30,20 @@ Aspose::Pdf::LowCode::SignOptions::SignOptions(System::SharedPtr<System::IO::Str
 * Class [SignOptions](../)
 * Namespace [Aspose::Pdf::LowCode](../../)
 * Library [Aspose.PDF for C++](../../../)
-## SignOptions::SignOptions(System::String, System::String) constructor
+## SignOptions::SignOptions(const System::String\&, const System::String\&) constructor
 
 
 Initializes new instance of the [SignOptions](../) object with default options.
 
 ```cpp
-Aspose::Pdf::LowCode::SignOptions::SignOptions(System::String pfx, System::String password)
+Aspose::Pdf::LowCode::SignOptions::SignOptions(const System::String &pfx, const System::String &password)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pfx | System::String | The path to the pfx file. |
-| password | System::String | The password to the pfx file. |
+| pfx | const System::String\& | The path to the pfx file. |
+| password | const System::String\& | The password to the pfx file. |
 
 ## See Also
 

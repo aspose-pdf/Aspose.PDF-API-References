@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/lineintentconverter/toenum/
 
 
 ```cpp
-static LineIntent Aspose::Pdf::Annotations::LineIntentConverter::ToEnum(System::String value)
+static LineIntent Aspose::Pdf::Annotations::LineIntentConverter::ToEnum(const System::String &value)
 ```
 
 ## See Also

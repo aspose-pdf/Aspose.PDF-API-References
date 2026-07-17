@@ -21,7 +21,7 @@ class PrintScalingConverter
 | Method | Description |
 | --- | --- |
 | [PrintScalingConverter](./printscalingconverter/)() |  |
-| static [ToEnum](./toenum/)(System::String) | Converts string representation of the value to the corresponding [PrintScaling](../printscaling/) value. |
+| static [ToEnum](./toenum/)(const System::String\&) | Converts string representation of the value to the corresponding [PrintScaling](../printscaling/) value. |
 | static [ToString](./tostring/)(PrintScaling) | Converts [PrintScaling](../printscaling/) value to the corresponding string representation. |
 ## See Also
 

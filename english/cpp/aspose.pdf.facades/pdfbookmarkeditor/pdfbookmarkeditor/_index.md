@@ -21,19 +21,19 @@ Aspose::Pdf::Facades::PdfBookmarkEditor::PdfBookmarkEditor()
 * Class [PdfBookmarkEditor](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfBookmarkEditor::PdfBookmarkEditor(System::SharedPtr\<Aspose::Pdf::Document\>) constructor
+## PdfBookmarkEditor::PdfBookmarkEditor(const System::SharedPtr\<Aspose::Pdf::Document\>\&) constructor
 
 
 Initializes new [PdfBookmarkEditor](../) object on base of the *document* .
 
 ```cpp
-Aspose::Pdf::Facades::PdfBookmarkEditor::PdfBookmarkEditor(System::SharedPtr<Aspose::Pdf::Document> document)
+Aspose::Pdf::Facades::PdfBookmarkEditor::PdfBookmarkEditor(const System::SharedPtr<Aspose::Pdf::Document> &document)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Aspose::Pdf::Document\> | [Pdf](../../../aspose.pdf/) document. |
+| document | const System::SharedPtr\<Aspose::Pdf::Document\>\& | [Pdf](../../../aspose.pdf/) document. |
 
 ## See Also
 

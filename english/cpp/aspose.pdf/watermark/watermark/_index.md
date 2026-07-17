@@ -7,19 +7,19 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf/watermark/watermark/
 ---
-## Watermark::Watermark(System::SharedPtr\<System::Drawing::Image\>) constructor
+## Watermark::Watermark(const System::SharedPtr\<System::Drawing::Image\>\&) constructor
 
 
 Initializes a watermark object with an image.
 
 ```cpp
-Aspose::Pdf::Watermark::Watermark(System::SharedPtr<System::Drawing::Image> image)
+Aspose::Pdf::Watermark::Watermark(const System::SharedPtr<System::Drawing::Image> &image)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| image | System::SharedPtr\<System::Drawing::Image\> | [Image](../../image/) of the watermark. |
+| image | const System::SharedPtr\<System::Drawing::Image\>\& | [Image](../../image/) of the watermark. |
 
 ## See Also
 
@@ -28,20 +28,20 @@ Aspose::Pdf::Watermark::Watermark(System::SharedPtr<System::Drawing::Image> imag
 * Class [Watermark](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Watermark::Watermark(System::SharedPtr\<System::Drawing::Image\>, System::SharedPtr\<Rectangle\>) constructor
+## Watermark::Watermark(const System::SharedPtr\<System::Drawing::Image\>\&, const System::SharedPtr\<Rectangle\>\&) constructor
 
 
 Initializes a watermark object with an image and it's position on a page.
 
 ```cpp
-Aspose::Pdf::Watermark::Watermark(System::SharedPtr<System::Drawing::Image> image, System::SharedPtr<Rectangle> rect)
+Aspose::Pdf::Watermark::Watermark(const System::SharedPtr<System::Drawing::Image> &image, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| image | System::SharedPtr\<System::Drawing::Image\> | [Image](../../image/) of the watermark. |
-| rect | System::SharedPtr\<Rectangle\> | Position of the watermark on the page. |
+| image | const System::SharedPtr\<System::Drawing::Image\>\& | [Image](../../image/) of the watermark. |
+| rect | const System::SharedPtr\<Rectangle\>\& | Position of the watermark on the page. |
 
 ## See Also
 

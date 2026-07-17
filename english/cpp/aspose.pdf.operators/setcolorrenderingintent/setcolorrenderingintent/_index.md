@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.operators/setcolorrenderingintent/setcolorrenderingintent/
 Set [Color](../../../aspose.pdf/color/) Rendering Intent operator constructor.
 
 ```cpp
-Aspose::Pdf::Operators::SetColorRenderingIntent::SetColorRenderingIntent(System::String intentName)
+Aspose::Pdf::Operators::SetColorRenderingIntent::SetColorRenderingIntent(const System::String &intentName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| intentName | System::String | [Color](../../../aspose.pdf/color/) Rendering Intent. |
+| intentName | const System::String\& | [Color](../../../aspose.pdf/color/) Rendering Intent. |
 
 ## See Also
 

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/metadata/getprefixbynamespaceuri/
 Returns prefix by namespace URI.
 
 ```cpp
-System::String Aspose::Pdf::Metadata::GetPrefixByNamespaceUri(System::String namespaceUri)
+System::String Aspose::Pdf::Metadata::GetPrefixByNamespaceUri(const System::String &namespaceUri)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| namespaceUri | System::String | Namespace URI. |
+| namespaceUri | const System::String\& | Namespace URI. |
 
 ### ReturnValue
 

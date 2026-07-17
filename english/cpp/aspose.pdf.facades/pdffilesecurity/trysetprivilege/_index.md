@@ -13,15 +13,15 @@ url: /cpp/aspose.pdf.facades/pdffilesecurity/trysetprivilege/
 Sets [Pdf](../../../aspose.pdf/) file security with original password. Does not throw an exception if process failed.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfFileSecurity::TrySetPrivilege(System::String userPassword, System::String ownerPassword, System::SharedPtr<DocumentPrivilege> privilege)
+bool Aspose::Pdf::Facades::PdfFileSecurity::TrySetPrivilege(const System::String &userPassword, const System::String &ownerPassword, const System::SharedPtr<DocumentPrivilege> &privilege)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| userPassword | System::String | Original user password. |
-| ownerPassword | System::String | Original owner password. |
-| privilege | System::SharedPtr\<DocumentPrivilege\> | Set privilege. |
+| userPassword | const System::String\& | Original user password. |
+| ownerPassword | const System::String\& | Original owner password. |
+| privilege | const System::SharedPtr\<DocumentPrivilege\>\& | Set privilege. |
 
 ### ReturnValue
 

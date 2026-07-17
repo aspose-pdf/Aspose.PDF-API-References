@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pageinfo/set_anymargin/
 Sets page margin for any page except first.
 
 ```cpp
-void Aspose::Pdf::PageInfo::set_AnyMargin(System::SharedPtr<MarginInfo> value)
+void Aspose::Pdf::PageInfo::set_AnyMargin(const System::SharedPtr<MarginInfo> &value)
 ```
 
 ## See Also

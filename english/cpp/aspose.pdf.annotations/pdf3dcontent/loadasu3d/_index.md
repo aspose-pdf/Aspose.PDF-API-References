@@ -7,19 +7,19 @@ type: docs
 weight: 700
 url: /cpp/aspose.pdf.annotations/pdf3dcontent/loadasu3d/
 ---
-## PDF3DContent::LoadAsU3D(System::ArrayPtr\<uint8_t\>) method
+## PDF3DContent::LoadAsU3D(const System::ArrayPtr\<uint8_t\>\&) method
 
 
 Loads 3D content from byte array as U3D format.
 
 ```cpp
-void Aspose::Pdf::Annotations::PDF3DContent::LoadAsU3D(System::ArrayPtr<uint8_t> stream)
+void Aspose::Pdf::Annotations::PDF3DContent::LoadAsU3D(const System::ArrayPtr<uint8_t> &stream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | System::ArrayPtr\<uint8_t\> | The stream. |
+| stream | const System::ArrayPtr\<uint8_t\>\& | The stream. |
 
 ## See Also
 
@@ -27,19 +27,19 @@ void Aspose::Pdf::Annotations::PDF3DContent::LoadAsU3D(System::ArrayPtr<uint8_t>
 * Class [PDF3DContent](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PDF3DContent::LoadAsU3D(System::SharedPtr\<System::IO::Stream\>) method
+## PDF3DContent::LoadAsU3D(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Loads 3D content from stream as U3D format.
 
 ```cpp
-void Aspose::Pdf::Annotations::PDF3DContent::LoadAsU3D(System::SharedPtr<System::IO::Stream> stream)
+void Aspose::Pdf::Annotations::PDF3DContent::LoadAsU3D(const System::SharedPtr<System::IO::Stream> &stream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | System::SharedPtr\<System::IO::Stream\> | The 3D content stream. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | The 3D content stream. |
 
 ## See Also
 
@@ -48,19 +48,19 @@ void Aspose::Pdf::Annotations::PDF3DContent::LoadAsU3D(System::SharedPtr<System:
 * Class [PDF3DContent](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PDF3DContent::LoadAsU3D(System::String) method
+## PDF3DContent::LoadAsU3D(const System::String\&) method
 
 
 Loads 3D content with the specified filename as U3D format.
 
 ```cpp
-void Aspose::Pdf::Annotations::PDF3DContent::LoadAsU3D(System::String filename)
+void Aspose::Pdf::Annotations::PDF3DContent::LoadAsU3D(const System::String &filename)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | System::String | The filename. |
+| filename | const System::String\& | The filename. |
 
 ## See Also
 

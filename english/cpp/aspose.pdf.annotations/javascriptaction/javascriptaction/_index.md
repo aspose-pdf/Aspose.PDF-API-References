@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/javascriptaction/javascriptaction/
 Constructor.
 
 ```cpp
-Aspose::Pdf::Annotations::JavascriptAction::JavascriptAction(System::String javaScript)
+Aspose::Pdf::Annotations::JavascriptAction::JavascriptAction(const System::String &javaScript)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| javaScript | System::String | JavaScript code. |
+| javaScript | const System::String\& | JavaScript code. |
 
 ## See Also
 

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.text/fontsourcecollection/delete/
 Deletes the font source element.
 
 ```cpp
-void Aspose::Pdf::Text::FontSourceCollection::Delete(System::SharedPtr<FontSource> fontSource)
+void Aspose::Pdf::Text::FontSourceCollection::Delete(const System::SharedPtr<FontSource> &fontSource)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontSource | System::SharedPtr\<FontSource\> | [FontSource](../../fontsource/) object that will be deleted. |
+| fontSource | const System::SharedPtr\<FontSource\>\& | [FontSource](../../fontsource/) object that will be deleted. |
 
 ## See Also
 

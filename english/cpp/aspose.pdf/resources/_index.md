@@ -23,7 +23,7 @@ class Resources : public Aspose::Pdf::ISupportsMemoryCleanup
 
 | Method | Description |
 | --- | --- |
-| [cpp_set_xfrom_weak](./cpp_set_xfrom_weak/)(System::SharedPtr\<XForm\>) |  |
+| [cpp_set_xfrom_weak](./cpp_set_xfrom_weak/)(const System::SharedPtr\<XForm\>\&) |  |
 | [FreeMemory](./freememory/)() override | Clears cached data, frees memory etc. |
 | [get_Fonts](./get_fonts/)() | Gets [Fonts](../) resources collection. |
 | [get_Forms](./get_forms/)() | Gets [Forms](../../aspose.pdf.forms/) forms collection. |

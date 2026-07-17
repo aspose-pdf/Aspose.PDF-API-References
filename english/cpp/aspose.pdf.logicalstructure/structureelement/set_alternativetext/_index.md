@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/structureelement/set_alternativetext/
 Sets the alternative text for structure element.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::StructureElement::set_AlternativeText(System::String value)
+void Aspose::Pdf::LogicalStructure::StructureElement::set_AlternativeText(const System::String &value)
 ```
 
 ## Remarks

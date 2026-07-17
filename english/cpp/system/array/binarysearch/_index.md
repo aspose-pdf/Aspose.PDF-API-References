@@ -24,7 +24,7 @@ static int System::Array<T>::BinarySearch(System::ArrayPtr<T> arr, const T &item
 
 ### ReturnValue
 
-Index of the searched item if one is found, otherwise, a negative integer that is the bitwise complement of the index of the next item greater than searched item or, if there is no greater item, the bitwise complement of the number of elements in the array.
+[Index](../../index/) of the searched item if one is found, otherwise, a negative integer that is the bitwise complement of the index of the next item greater than searched item or, if there is no greater item, the bitwise complement of the number of elements in the array.
 
 ## See Also
 

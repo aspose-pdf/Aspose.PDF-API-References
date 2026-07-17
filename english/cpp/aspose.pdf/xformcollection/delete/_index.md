@@ -21,6 +21,26 @@ void Aspose::Pdf::XFormCollection::Delete()
 * Class [XFormCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
+## XFormCollection::Delete(const System::String\&) method
+
+
+Deletes [XForm](../../xform/) from collection by form name.
+
+```cpp
+void Aspose::Pdf::XFormCollection::Delete(const System::String &name)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| name | const System::String\& | Name of [XForm](../../xform/) to be deleted. |
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [XFormCollection](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## XFormCollection::Delete(int32_t) method
 
 
@@ -37,26 +57,6 @@ void Aspose::Pdf::XFormCollection::Delete(int32_t index)
 
 ## See Also
 
-* Class [XFormCollection](../)
-* Namespace [Aspose::Pdf](../../)
-* Library [Aspose.PDF for C++](../../../)
-## XFormCollection::Delete(System::String) method
-
-
-Deletes [XForm](../../xform/) from collection by form name.
-
-```cpp
-void Aspose::Pdf::XFormCollection::Delete(System::String name)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| name | System::String | Name of [XForm](../../xform/) to be deleted. |
-
-## See Also
-
-* Class [String](../../../system/string/)
 * Class [XFormCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)

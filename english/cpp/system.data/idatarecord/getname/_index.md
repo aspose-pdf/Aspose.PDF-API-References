@@ -19,7 +19,7 @@ virtual System::String System::Data::IDataRecord::GetName(const int32_t index)=0
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | const int32_t | Index to get name of field at. |
+| index | const int32_t | [Index](../../../system/index/) to get name of field at. |
 
 ### ReturnValue
 

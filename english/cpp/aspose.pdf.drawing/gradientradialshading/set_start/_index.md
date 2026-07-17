@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/gradientradialshading/set_start/
 Sets starting circle center point.
 
 ```cpp
-void Aspose::Pdf::Drawing::GradientRadialShading::set_Start(System::SharedPtr<Point> value)
+void Aspose::Pdf::Drawing::GradientRadialShading::set_Start(const System::SharedPtr<Point> &value)
 ```
 
 ## See Also

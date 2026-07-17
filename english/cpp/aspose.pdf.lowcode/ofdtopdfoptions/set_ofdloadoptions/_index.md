@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/ofdtopdfoptions/set_ofdloadoptions/
 Sets the [OFD](../../../aspose.pdf.ofd/) load options.
 
 ```cpp
-void Aspose::Pdf::LowCode::OfdToPdfOptions::set_OfdLoadOptions(System::SharedPtr<Aspose::Pdf::OfdLoadOptions> value)
+void Aspose::Pdf::LowCode::OfdToPdfOptions::set_OfdLoadOptions(const System::SharedPtr<Aspose::Pdf::OfdLoadOptions> &value)
 ```
 
 ## See Also

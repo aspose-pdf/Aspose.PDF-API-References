@@ -28,20 +28,20 @@ void Aspose::Pdf::EmbeddedFileCollection::Add(const System::SharedPtr<FileSpecif
 * Class [EmbeddedFileCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## EmbeddedFileCollection::Add(System::String, System::SharedPtr\<FileSpecification\>) method
+## EmbeddedFileCollection::Add(const System::String\&, const System::SharedPtr\<FileSpecification\>\&) method
 
 
 Adds file to embedded files with the specified key.
 
 ```cpp
-void Aspose::Pdf::EmbeddedFileCollection::Add(System::String key, System::SharedPtr<FileSpecification> file)
+void Aspose::Pdf::EmbeddedFileCollection::Add(const System::String &key, const System::SharedPtr<FileSpecification> &file)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| key | System::String | Key in the embedded files. |
-| file | System::SharedPtr\<FileSpecification\> | File specification. |
+| key | const System::String\& | Key in the embedded files. |
+| file | const System::SharedPtr\<FileSpecification\>\& | File specification. |
 
 ## See Also
 

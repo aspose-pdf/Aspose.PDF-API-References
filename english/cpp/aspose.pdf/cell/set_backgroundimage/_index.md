@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/cell/set_backgroundimage/
 Sets the background image.
 
 ```cpp
-void Aspose::Pdf::Cell::set_BackgroundImage(System::SharedPtr<Image> value)
+void Aspose::Pdf::Cell::set_BackgroundImage(const System::SharedPtr<Image> &value)
 ```
 
 ## See Also

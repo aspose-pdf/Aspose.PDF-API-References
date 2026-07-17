@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/table/set_defaultcelltextstate/
 Sets the default cell text state.
 
 ```cpp
-void Aspose::Pdf::Table::set_DefaultCellTextState(System::SharedPtr<Text::TextState> value)
+void Aspose::Pdf::Table::set_DefaultCellTextState(const System::SharedPtr<Text::TextState> &value)
 ```
 
 ## See Also

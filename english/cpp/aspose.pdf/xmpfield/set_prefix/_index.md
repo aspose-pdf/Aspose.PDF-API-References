@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/xmpfield/set_prefix/
 Gets the prefix.
 
 ```cpp
-void Aspose::Pdf::XmpField::set_Prefix(System::String value)
+void Aspose::Pdf::XmpField::set_Prefix(const System::String &value)
 ```
 
 ## Remarks

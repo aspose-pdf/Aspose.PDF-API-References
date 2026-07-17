@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotationactioncollection/set_oncalculate/
 Sets an action to calculate field value.
 
 ```cpp
-void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnCalculate(System::SharedPtr<PdfAction> value)
+void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnCalculate(const System::SharedPtr<PdfAction> &value)
 ```
 
 ## See Also

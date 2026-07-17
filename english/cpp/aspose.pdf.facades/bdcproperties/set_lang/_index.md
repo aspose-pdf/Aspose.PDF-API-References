@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/bdcproperties/set_lang/
 Gets/sets Language value.
 
 ```cpp
-void Aspose::Pdf::Facades::BDCProperties::set_Lang(System::String value)
+void Aspose::Pdf::Facades::BDCProperties::set_Lang(const System::String &value)
 ```
 
 ## See Also

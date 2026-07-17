@@ -20,14 +20,14 @@ class PdfProducer : public System::Object
 
 | Method | Description |
 | --- | --- |
-| static [Produce](./produce/)(System::SharedPtr\<System::IO::Stream\>, ImportFormat, System::SharedPtr\<System::IO::Stream\>) | Produce the PDF stream using specified import format. |
-| static [Produce](./produce/)(System::String, ImportFormat, System::SharedPtr\<System::IO::Stream\>) | Produce the PDF stream using specified import format. |
-| static [Produce](./produce/)(System::SharedPtr\<System::IO::Stream\>, ImportFormat, System::String) | Produce the PDF file using specified import format. |
+| static [Produce](./produce/)(const System::SharedPtr\<System::IO::Stream\>\&, ImportFormat, const System::SharedPtr\<System::IO::Stream\>\&) | Produce the PDF stream using specified import format. |
+| static [Produce](./produce/)(System::String, ImportFormat, const System::SharedPtr\<System::IO::Stream\>\&) | Produce the PDF stream using specified import format. |
+| static [Produce](./produce/)(const System::SharedPtr\<System::IO::Stream\>\&, ImportFormat, System::String) | Produce the PDF file using specified import format. |
 | static [Produce](./produce/)(System::String, ImportFormat, System::String) | Produce the PDF file using specified import format. |
-| static [Produce](./produce/)(System::String, System::SharedPtr\<ImportOptions\>, System::SharedPtr\<System::IO::Stream\>) | Produce the PDF stream using specified import option. |
-| static [Produce](./produce/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<ImportOptions\>, System::String) | Produce the PDF file using specified import option. |
-| static [Produce](./produce/)(System::String, System::SharedPtr\<ImportOptions\>, System::String) | Produce the PDF file using specified import option. |
-| static [Produce](./produce/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<ImportOptions\>, System::SharedPtr\<System::IO::Stream\>) | Produce the PDF file using specified import option. |
+| static [Produce](./produce/)(const System::String\&, const System::SharedPtr\<ImportOptions\>\&, const System::SharedPtr\<System::IO::Stream\>\&) | Produce the PDF stream using specified import option. |
+| static [Produce](./produce/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<ImportOptions\>\&, const System::String\&) | Produce the PDF file using specified import option. |
+| static [Produce](./produce/)(const System::String\&, const System::SharedPtr\<ImportOptions\>\&, const System::String\&) | Produce the PDF file using specified import option. |
+| static [Produce](./produce/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<ImportOptions\>\&, const System::SharedPtr\<System::IO::Stream\>\&) | Produce the PDF file using specified import option. |
 ## See Also
 
 * Class [Object](../../system/object/)

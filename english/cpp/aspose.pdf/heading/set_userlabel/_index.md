@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/heading/set_userlabel/
 Sets user label.
 
 ```cpp
-void Aspose::Pdf::Heading::set_UserLabel(System::SharedPtr<Text::TextSegment> value)
+void Aspose::Pdf::Heading::set_UserLabel(const System::SharedPtr<Text::TextSegment> &value)
 ```
 
 ## See Also

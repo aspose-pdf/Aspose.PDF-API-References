@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilesecurity/set_outputstream/
 Sets the output stream.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileSecurity::set_OutputStream(System::SharedPtr<System::IO::Stream> value)
+void Aspose::Pdf::Facades::PdfFileSecurity::set_OutputStream(const System::SharedPtr<System::IO::Stream> &value)
 ```
 
 

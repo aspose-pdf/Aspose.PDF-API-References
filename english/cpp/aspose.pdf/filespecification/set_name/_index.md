@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/filespecification/set_name/
 Sets file specification name.
 
 ```cpp
-void Aspose::Pdf::FileSpecification::set_Name(System::String value)
+void Aspose::Pdf::FileSpecification::set_Name(const System::String &value)
 ```
 
 ## See Also

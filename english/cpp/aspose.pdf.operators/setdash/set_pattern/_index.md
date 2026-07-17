@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.operators/setdash/set_pattern/
 Dash pattern. Array's elements shall be numbers that specify the lengths of alternating dashes and gaps. In case of one element array dash and gap lengths are equal.
 
 ```cpp
-void Aspose::Pdf::Operators::SetDash::set_Pattern(System::ArrayPtr<int32_t> value)
+void Aspose::Pdf::Operators::SetDash::set_Pattern(const System::ArrayPtr<int32_t> &value)
 ```
 
 ## See Also

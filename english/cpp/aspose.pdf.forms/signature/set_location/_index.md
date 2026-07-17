@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signature/set_location/
 The CPU host name or physical location of the signing.
 
 ```cpp
-void Aspose::Pdf::Forms::Signature::set_Location(System::String value)
+void Aspose::Pdf::Forms::Signature::set_Location(const System::String &value)
 ```
 
 ## See Also

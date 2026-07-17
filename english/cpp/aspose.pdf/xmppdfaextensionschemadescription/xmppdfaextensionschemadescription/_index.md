@@ -13,15 +13,15 @@ url: /cpp/aspose.pdf/xmppdfaextensionschemadescription/xmppdfaextensionschemades
 Initializes new object.
 
 ```cpp
-Aspose::Pdf::XmpPdfAExtensionSchemaDescription::XmpPdfAExtensionSchemaDescription(System::String prefix, System::String namespaceURI, System::String description)
+Aspose::Pdf::XmpPdfAExtensionSchemaDescription::XmpPdfAExtensionSchemaDescription(const System::String &prefix, const System::String &namespaceURI, const System::String &description)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| prefix | System::String | The prefix. |
-| namespaceURI | System::String | The namespace URI. |
-| description | System::String | The optional desciption. |
+| prefix | const System::String\& | The prefix. |
+| namespaceURI | const System::String\& | The namespace URI. |
+| description | const System::String\& | The optional desciption. |
 
 ## See Also
 

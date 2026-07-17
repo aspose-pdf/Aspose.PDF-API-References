@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.forms/iconfit/nametoscalingreason/
 Converts name of scaling reason into [ScalingReason](../../scalingreason/) object.
 
 ```cpp
-static Aspose::Pdf::Forms::ScalingReason Aspose::Pdf::Forms::IconFit::NameToScalingReason(System::String reason)
+static Aspose::Pdf::Forms::ScalingReason Aspose::Pdf::Forms::IconFit::NameToScalingReason(const System::String &reason)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| reason | System::String | Name of scaling reason. |
+| reason | const System::String\& | Name of scaling reason. |
 
 ### ReturnValue
 

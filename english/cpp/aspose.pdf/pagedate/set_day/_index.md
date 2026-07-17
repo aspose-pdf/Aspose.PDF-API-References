@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagedate/set_day/
 Sets the day component of the date. The format of the date will be updated based on this component.
 
 ```cpp
-void Aspose::Pdf::PageDate::set_Day(System::SharedPtr<PageDate::DayComponent> value)
+void Aspose::Pdf::PageDate::set_Day(const System::SharedPtr<PageDate::DayComponent> &value)
 ```
 
 ## See Also

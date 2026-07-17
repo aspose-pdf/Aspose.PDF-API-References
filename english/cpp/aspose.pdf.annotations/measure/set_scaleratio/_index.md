@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/measure/set_scaleratio/
 A text string expressing the scale ratio of the drawing.
 
 ```cpp
-void Aspose::Pdf::Annotations::Measure::set_ScaleRatio(System::String value)
+void Aspose::Pdf::Annotations::Measure::set_ScaleRatio(const System::String &value)
 ```
 
 ## See Also

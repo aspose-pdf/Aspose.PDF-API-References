@@ -36,20 +36,20 @@ class LineAnnotation : public Aspose::Pdf::Annotations::MarkupAnnotation
 | [get_ShowCaption](./get_showcaption/)() | Gets boolean flag which determinies is contents must be shown as caption. |
 | [get_Starting](./get_starting/)() | Gets starting point of line. |
 | [get_StartingStyle](./get_startingstyle/)() | Gets line ending style for line starting point. |
-| [LineAnnotation](./lineannotation/)(System::SharedPtr\<Document\>, System::SharedPtr\<Point\>, System::SharedPtr\<Point\>) | Constructor for using with Generator. |
-| [LineAnnotation](./lineannotation/)(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>, System::SharedPtr\<Point\>, System::SharedPtr\<Point\>) | Creates new Line annotation on the specified page. |
-| [set_CaptionOffset](./set_captionoffset/)(System::SharedPtr\<Point\>) | Sets caption text offset from its normal position. |
+| [LineAnnotation](./lineannotation/)(const System::SharedPtr\<Document\>\&, const System::SharedPtr\<Point\>\&, const System::SharedPtr\<Point\>\&) | Constructor for using with Generator. |
+| [LineAnnotation](./lineannotation/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&, const System::SharedPtr\<Point\>\&, const System::SharedPtr\<Point\>\&) | Creates new Line annotation on the specified page. |
+| [set_CaptionOffset](./set_captionoffset/)(const System::SharedPtr\<Point\>\&) | Sets caption text offset from its normal position. |
 | [set_CaptionPosition](./set_captionposition/)(Aspose::Pdf::Annotations::CaptionPosition) | Sets annotation caption position. |
-| [set_Ending](./set_ending/)(System::SharedPtr\<Point\>) | Sets line ending point. |
+| [set_Ending](./set_ending/)(const System::SharedPtr\<Point\>\&) | Sets line ending point. |
 | [set_EndingStyle](./set_endingstyle/)(LineEnding) | Sets ending style for end point of line. |
 | [set_Intent](./set_intent/)(LineIntent) | Sets the intent of the line annotation. |
-| [set_InteriorColor](./set_interiorcolor/)(System::SharedPtr\<Aspose::Pdf::Color\>) | Sets interior color of the annotation. |
+| [set_InteriorColor](./set_interiorcolor/)(const System::SharedPtr\<Aspose::Pdf::Color\>\&) | Sets interior color of the annotation. |
 | [set_LeaderLine](./set_leaderline/)(double) | Sets leader line length. |
 | [set_LeaderLineExtension](./set_leaderlineextension/)(double) | Sets length of leader line extension. |
 | [set_LeaderLineOffset](./set_leaderlineoffset/)(double) | Sets leader line offset. |
-| [set_Measure](./set_measure/)(System::SharedPtr\<Aspose::Pdf::Annotations::Measure\>) | [Measure](../measure/) units specifed for this annotation. |
+| [set_Measure](./set_measure/)(const System::SharedPtr\<Aspose::Pdf::Annotations::Measure\>\&) | [Measure](../measure/) units specifed for this annotation. |
 | [set_ShowCaption](./set_showcaption/)(bool) | Sets boolean flag which determinies is contents must be shown as caption. |
-| [set_Starting](./set_starting/)(System::SharedPtr\<Point\>) | Sets starting point of line. |
+| [set_Starting](./set_starting/)(const System::SharedPtr\<Point\>\&) | Sets starting point of line. |
 | [set_StartingStyle](./set_startingstyle/)(LineEnding) | Sets line ending style for line starting point. |
 ## See Also
 

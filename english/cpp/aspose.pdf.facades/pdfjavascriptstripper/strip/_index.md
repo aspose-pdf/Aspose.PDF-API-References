@@ -7,20 +7,20 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf.facades/pdfjavascriptstripper/strip/
 ---
-## PdfJavaScriptStripper::Strip(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<System::IO::Stream\>) method
+## PdfJavaScriptStripper::Strip(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Remove Java Script from the document.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfJavaScriptStripper::Strip(System::SharedPtr<System::IO::Stream> inStream, System::SharedPtr<System::IO::Stream> outStream)
+bool Aspose::Pdf::Facades::PdfJavaScriptStripper::Strip(const System::SharedPtr<System::IO::Stream> &inStream, const System::SharedPtr<System::IO::Stream> &outStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inStream | System::SharedPtr\<System::IO::Stream\> | Stream containing document. |
-| outStream | System::SharedPtr\<System::IO::Stream\> | Stream where the document will be stored. |
+| inStream | const System::SharedPtr\<System::IO::Stream\>\& | Stream containing document. |
+| outStream | const System::SharedPtr\<System::IO::Stream\>\& | Stream where the document will be stored. |
 
 ### ReturnValue
 
@@ -33,20 +33,20 @@ true if JavaScript was stripped successfully.
 * Class [PdfJavaScriptStripper](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfJavaScriptStripper::Strip(System::String, System::String) method
+## PdfJavaScriptStripper::Strip(const System::String\&, const System::String\&) method
 
 
 Remove Java Script from document.
 
 ```cpp
-bool Aspose::Pdf::Facades::PdfJavaScriptStripper::Strip(System::String inputFile, System::String outputFile)
+bool Aspose::Pdf::Facades::PdfJavaScriptStripper::Strip(const System::String &inputFile, const System::String &outputFile)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| inputFile | System::String | File containig the document. |
-| outputFile | System::String | File where document will be stored. |
+| inputFile | const System::String\& | File containig the document. |
+| outputFile | const System::String\& | File where document will be stored. |
 
 ### ReturnValue
 

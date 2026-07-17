@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/timestampoptions/set_sigcontact/
 Contact information for the signature.
 
 ```cpp
-void Aspose::Pdf::LowCode::TimestampOptions::set_SigContact(System::String value)
+void Aspose::Pdf::LowCode::TimestampOptions::set_SigContact(const System::String &value)
 ```
 
 ## See Also

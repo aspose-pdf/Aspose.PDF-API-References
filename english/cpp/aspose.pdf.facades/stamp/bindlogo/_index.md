@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/stamp/bindlogo/
 Sets text as stamp.
 
 ```cpp
-void Aspose::Pdf::Facades::Stamp::BindLogo(System::SharedPtr<FormattedText> formattedText)
+void Aspose::Pdf::Facades::Stamp::BindLogo(const System::SharedPtr<FormattedText> &formattedText)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| formattedText | System::SharedPtr\<FormattedText\> | [FormattedText](../../formattedtext/) object which specifies text and text properties. |
+| formattedText | const System::SharedPtr\<FormattedText\>\& | [FormattedText](../../formattedtext/) object which specifies text and text properties. |
 
 ## See Also
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/filespecification/set_filesystem/
 Sets name of the file system.
 
 ```cpp
-void Aspose::Pdf::FileSpecification::set_FileSystem(System::String value)
+void Aspose::Pdf::FileSpecification::set_FileSystem(const System::String &value)
 ```
 
 ## See Also

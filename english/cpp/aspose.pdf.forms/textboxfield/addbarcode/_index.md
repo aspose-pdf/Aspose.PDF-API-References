@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.forms/textboxfield/addbarcode/
 Adds barcode 128 into the field. [Field](../../field/) value will be changed onto the code and field become read only.
 
 ```cpp
-void Aspose::Pdf::Forms::TextBoxField::AddBarcode(System::String code)
+void Aspose::Pdf::Forms::TextBoxField::AddBarcode(const System::String &code)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| code | System::String | The text to generate barcode 128. |
+| code | const System::String\& | The text to generate barcode 128. |
 
 ## See Also
 

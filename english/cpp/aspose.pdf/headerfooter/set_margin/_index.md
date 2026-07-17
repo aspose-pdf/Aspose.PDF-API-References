@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/headerfooter/set_margin/
 Sets the margin info.
 
 ```cpp
-void Aspose::Pdf::HeaderFooter::set_Margin(System::SharedPtr<MarginInfo> value)
+void Aspose::Pdf::HeaderFooter::set_Margin(const System::SharedPtr<MarginInfo> &value)
 ```
 
 ## See Also

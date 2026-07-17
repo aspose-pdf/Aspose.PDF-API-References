@@ -20,13 +20,13 @@ class TextParagraph : public System::Object
 
 | Method | Description |
 | --- | --- |
-| [AppendLine](./appendline/)(System::String) | Appends text line. |
-| [AppendLine](./appendline/)(System::String, float) | Appends text line. |
-| [AppendLine](./appendline/)(System::String, System::SharedPtr\<TextState\>) | Appends text line with text state parameters. |
-| [AppendLine](./appendline/)(System::String, System::SharedPtr\<TextState\>, float) | Appends text line with text state parameters. |
-| [AppendLine](./appendline/)(System::SharedPtr\<TextFragment\>) | Appends text line with text state parameters. |
-| [AppendLine](./appendline/)(System::SharedPtr\<TextFragment\>, System::SharedPtr\<TextState\>) | Appends text line with text state parameters. |
-| [AppendLine](./appendline/)(System::SharedPtr\<TextFragment\>, System::SharedPtr\<TextState\>, float) | Appends text line with text state parameters. |
+| [AppendLine](./appendline/)(const System::String\&) | Appends text line. |
+| [AppendLine](./appendline/)(const System::String\&, float) | Appends text line. |
+| [AppendLine](./appendline/)(const System::String\&, const System::SharedPtr\<TextState\>\&) | Appends text line with text state parameters. |
+| [AppendLine](./appendline/)(const System::String\&, const System::SharedPtr\<TextState\>\&, float) | Appends text line with text state parameters. |
+| [AppendLine](./appendline/)(const System::SharedPtr\<TextFragment\>\&) | Appends text line with text state parameters. |
+| [AppendLine](./appendline/)(const System::SharedPtr\<TextFragment\>\&, const System::SharedPtr\<TextState\>\&) | Appends text line with text state parameters. |
+| [AppendLine](./appendline/)(const System::SharedPtr\<TextFragment\>\&, const System::SharedPtr\<TextState\>\&, float) | Appends text line with text state parameters. |
 | [BeginEdit](./beginedit/)() | Begins the editing of the [TextParagraph](./). |
 | [EndEdit](./endedit/)() | Ends the editing of the [TextParagraph](./). |
 | [get_FirstLineIndent](./get_firstlineindent/)() const | Gets subsequent lines indent value. If set to a non-zero value, it has an advantage over the FormattingOptions.SubsequentLinesIndent value. |
@@ -41,12 +41,12 @@ class TextParagraph : public System::Object
 | [get_TextRectangle](./get_textrectangle/)() | Gets rectangle of the text placed to the paragraph. |
 | [get_VerticalAlignment](./get_verticalalignment/)() const | Gets vertical alignment for the text inside paragrph's [Rectangle](../../aspose.pdf/rectangle/). |
 | [set_FirstLineIndent](./set_firstlineindent/)(float) | Sets subsequent lines indent value. If set to a non-zero value, it has an advantage over the FormattingOptions.SubsequentLinesIndent value. |
-| [set_FormattingOptions](./set_formattingoptions/)(System::SharedPtr\<TextFormattingOptions\>) | Sets formatting options. |
+| [set_FormattingOptions](./set_formattingoptions/)(const System::SharedPtr\<TextFormattingOptions\>\&) | Sets formatting options. |
 | [set_HorizontalAlignment](./set_horizontalalignment/)(Aspose::Pdf::HorizontalAlignment) | Sets horizontal alignment for the text inside paragrph's [Rectangle](../../aspose.pdf/rectangle/). |
 | [set_Justify](./set_justify/)(bool) | Sets value whether text is justified. |
-| [set_Margin](./set_margin/)(System::SharedPtr\<MarginInfo\>) | Sets the padding. |
-| [set_Position](./set_position/)(System::SharedPtr\<Aspose::Pdf::Text::Position\>) | Sets position of the paragraph. |
-| [set_Rectangle](./set_rectangle/)(System::SharedPtr\<Aspose::Pdf::Rectangle\>) | Sets rectangle of the paragraph. |
+| [set_Margin](./set_margin/)(const System::SharedPtr\<MarginInfo\>\&) | Sets the padding. |
+| [set_Position](./set_position/)(const System::SharedPtr\<Aspose::Pdf::Text::Position\>\&) | Sets position of the paragraph. |
+| [set_Rectangle](./set_rectangle/)(const System::SharedPtr\<Aspose::Pdf::Rectangle\>\&) | Sets rectangle of the paragraph. |
 | [set_Rotation](./set_rotation/)(double) | Sets rotation angle in degrees. |
 | [set_SubsequentLinesIndent](./set_subsequentlinesindent/)(float) | Sets subsequent lines indent value. If set to a non-zero value, it has an advantage over the FormattingOptions.SubsequentLinesIndent value. |
 | [set_VerticalAlignment](./set_verticalalignment/)(Aspose::Pdf::VerticalAlignment) | Sets vertical alignment for the text inside paragrph's [Rectangle](../../aspose.pdf/rectangle/). |

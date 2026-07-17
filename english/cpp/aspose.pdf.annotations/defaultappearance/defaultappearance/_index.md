@@ -21,19 +21,19 @@ Aspose::Pdf::Annotations::DefaultAppearance::DefaultAppearance()
 * Class [DefaultAppearance](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## DefaultAppearance::DefaultAppearance(System::SharedPtr\<Aspose::Pdf::Text::Font\>, double, System::Drawing::Color) constructor
+## DefaultAppearance::DefaultAppearance(const System::SharedPtr\<Aspose::Pdf::Text::Font\>\&, double, System::Drawing::Color) constructor
 
 
 Constructor of Default Appearance. Previously created font may be specified as default font.
 
 ```cpp
-Aspose::Pdf::Annotations::DefaultAppearance::DefaultAppearance(System::SharedPtr<Aspose::Pdf::Text::Font> font, double fontSize, System::Drawing::Color textColor)
+Aspose::Pdf::Annotations::DefaultAppearance::DefaultAppearance(const System::SharedPtr<Aspose::Pdf::Text::Font> &font, double fontSize, System::Drawing::Color textColor)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| font | System::SharedPtr\<Aspose::Pdf::Text::Font\> | Font which will be used as default. |
+| font | const System::SharedPtr\<Aspose::Pdf::Text::Font\>\& | Font which will be used as default. |
 | fontSize | double | Font size. |
 | textColor | System::Drawing::Color | [Color](../../../aspose.pdf/color/) of text. |
 
@@ -45,19 +45,19 @@ Aspose::Pdf::Annotations::DefaultAppearance::DefaultAppearance(System::SharedPtr
 * Class [DefaultAppearance](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## DefaultAppearance::DefaultAppearance(System::String, double, System::Drawing::Color) constructor
+## DefaultAppearance::DefaultAppearance(const System::String\&, double, System::Drawing::Color) constructor
 
 
 Constructor of [DefaultAppearance](../).
 
 ```cpp
-Aspose::Pdf::Annotations::DefaultAppearance::DefaultAppearance(System::String fontName, double fontSize, System::Drawing::Color textColor)
+Aspose::Pdf::Annotations::DefaultAppearance::DefaultAppearance(const System::String &fontName, double fontSize, System::Drawing::Color textColor)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fontName | System::String | Font name. |
+| fontName | const System::String\& | Font name. |
 | fontSize | double | Font size. |
 | textColor | System::Drawing::Color | [Color](../../../aspose.pdf/color/) of text. |
 

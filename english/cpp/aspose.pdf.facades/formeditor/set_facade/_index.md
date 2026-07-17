@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formeditor/set_facade/
 Sets visual attributes of the field.
 
 ```cpp
-void Aspose::Pdf::Facades::FormEditor::set_Facade(System::SharedPtr<FormFieldFacade> value)
+void Aspose::Pdf::Facades::FormEditor::set_Facade(const System::SharedPtr<FormFieldFacade> &value)
 ```
 
 ## See Also

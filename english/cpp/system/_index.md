@@ -54,6 +54,7 @@ url: /cpp/system/
 | [IEquatable](./iequatable/) | Defines a method that determines the equality of two objects. Objects of this class should only be allocated using [System::MakeObject()](./makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](./smartptr/) pointer and use this pointer to pass it to functions as argument. |
 | [IFormatProvider](./iformatprovider/) | Defines a method that provides formatting information. Objects of this class should only be allocated using [System::MakeObject()](./makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](./smartptr/) pointer and use this pointer to pass it to functions as argument. |
 | [IFormattable](./iformattable/) | Defines a method that formats the value of the current object using the specified format string and format provider. |
+| [Index](./index/) | Represents an index into a collection. The index can be from the start or from the end. This type should be allocated on stack and passed to functions by value or by reference. Never use [System::SmartPtr](./smartptr/) class to manage objects of this type. |
 | [Int16](./int16/) | Contains methods to work with the 16-bit integer. |
 | [Int32](./int32/) | Contains methods to work with the 32-bit integer. |
 | [Int64](./int64/) | Contains methods to work with the 64-bit integer. |
@@ -67,6 +68,7 @@ url: /cpp/system/
 | [ObjectType](./objecttype/) | Provides static methods that implement object type getters. This is a static type with no instance services. You should never create instances of it by any means. |
 | [OperatingSystem](./operatingsystem/) | Represents a particular operating system and provides information about it. Objects of this class should only be allocated using [System::MakeObject()](./makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](./smartptr/) pointer and use this pointer to pass it to functions as argument. |
 | [Random](./random/) | Represents a pseudo-random number generator. Objects of this class should only be allocated using [System::MakeObject()](./makeobject/) function. Never create instance of this type on stack or using operator new, as it will result in runtime errors and/or assertion faults. Always wrap this class into [System::SmartPtr](./smartptr/) pointer and use this pointer to pass it to functions as argument. |
+| [Range](./range/) | Represents a range with a start and end index. This type should be allocated on stack and passed to functions by value or by reference. Never use [System::SmartPtr](./smartptr/) class to manage objects of this type. |
 | [ReadOnlySpan](./readonlyspan/) | Forward to use within [Span](./span/) class. |
 | [ScopedCulture](./scopedculture/) | Represents a culture used within the scope. |
 | [SmartPtr](./smartptr/) | Pointer class to wrap types being allocated on heap. Use it to manage memory for classes inheriting [Object](./object/). This pointer type follows intrusive pointer semantics. Reference counter is stored either in [Object](./object/) itself or in counter structure which is tied to [Object](./object/) instance tightly. In any case, all [SmartPtr](./smartptr/) instances form single ownership group regardless how they were created which is unlike how std::shared_ptr class behaves. Converting raw pointer to [SmartPtr](./smartptr/) is safe given there are other [SmartPtr](./smartptr/) instances holding shared references to the same object. [SmartPtr](./smartptr/) class instance can be in one of two states: shared pointer and weak pointer. To keep object alive, one should have count of shared references to it positive. Both weak and shared pointers can be used to access pointed object (to call methods, read or write fields, etc.), but weak pointers do not participate to shared pointer reference counting. [Object](./object/) is being deleted when the last 'shared' [SmartPtr](./smartptr/) pointer to it is being destroyed. So, make sure that this doesn't happen when no other shared [SmartPtr](./smartptr/) pointers to object exist, e. g. during object construction or destruction. Use System::Object::ThisProtector sentry objects (in C++ code) or CppCTORSelfReference or CppSelfReference attribute (in C# code being translated) to fix this issue. Similarily, make sure to break loop references by using [System::WeakPtr](./weakptr/) pointer class or [System::SmartPtrMode::Weak](./smartptrmode/) pointer mode (in C++ code) or CppWeakPtr attribute (in C# code being translated). If two or more objects reference each other using 'shared' pointers, they will never be deleted. If pointer type (weak or shared) should be switched in runtime, use [System::SmartPtr<T>::set_Mode()](./smartptr/set_mode/) method or [System::DynamicWeakPtr](./dynamicweakptr/) class. [SmartPtr](./smartptr/) class doesn't contain any virtual methods. You should only inherit it if you're creating a memory management strategy of your own. This type is a pointer to manage other object's deletion. It should be allocated on stack and passed to functions either by value or by const reference. |
@@ -155,6 +157,7 @@ url: /cpp/system/
 | [StreamReaderPtr](./streamreaderptr/) | An alias for a smart pointer that points to an instance of [System::IO::StreamReader](../system.io/streamreader/) class. |
 | [StreamWriterPtr](./streamwriterptr/) | An alias for a smart pointer that points to an instance of [System::IO::StreamWriter](../system.io/streamwriter/) class. |
 | [StringComparerPtr](./stringcomparerptr/) | An alias for a shared pointer to an instance of [StringComparer](./stringcomparer/) class. |
+| [SystemException](./systemexception/) |  |
 | [TaskPtr](./taskptr/) | An alias for a smart pointer that points to an instance of [System::Threading::Tasks::Task](../system.threading.tasks/task/) class. |
 | [TimeZoneInfoPtr](./timezoneinfoptr/) | Alias for shared pointer to an instance of [TimeZoneInfo](./timezoneinfo/) class. |
 | [TimeZonePtr](./timezoneptr/) | Shared pointer to an instance of [TimeZone](./timezone/) class. |
@@ -238,6 +241,8 @@ url: /cpp/system/
 | Get | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | Get | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | Get | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| Get | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| Get | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | get_pointer | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | GetHashCode | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | GetHashCode | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
@@ -256,6 +261,7 @@ url: /cpp/system/
 | IsInfinity | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | IsNaN | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | IsNegativeInfinity | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
+| IsNull | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | IsPositiveInfinity | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | IsTuple | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |
 | IterateOver | System.Collections.Generic.List`1[Doxygen2HugoConverter.Markup.SimpleMarkupEntry] |

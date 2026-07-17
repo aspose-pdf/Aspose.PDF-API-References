@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.drawing/gradientaxialshading/set_startcolor/
 Sets start color.
 
 ```cpp
-void Aspose::Pdf::Drawing::GradientAxialShading::set_StartColor(System::SharedPtr<Color> value)
+void Aspose::Pdf::Drawing::GradientAxialShading::set_StartColor(const System::SharedPtr<Color> &value)
 ```
 
 ## See Also

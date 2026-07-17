@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/measure/set_slopeformat/
 A number format array for measurement of the slope of a line.
 
 ```cpp
-void Aspose::Pdf::Annotations::Measure::set_SlopeFormat(System::SharedPtr<Measure::NumberFormatList> value)
+void Aspose::Pdf::Annotations::Measure::set_SlopeFormat(const System::SharedPtr<Measure::NumberFormatList> &value)
 ```
 
 ## See Also

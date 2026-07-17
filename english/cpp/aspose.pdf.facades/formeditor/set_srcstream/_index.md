@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formeditor/set_srcstream/
 Sets source stream.
 
 ```cpp
-void Aspose::Pdf::Facades::FormEditor::set_SrcStream(System::SharedPtr<System::IO::Stream> value)
+void Aspose::Pdf::Facades::FormEditor::set_SrcStream(const System::SharedPtr<System::IO::Stream> &value)
 ```
 
 

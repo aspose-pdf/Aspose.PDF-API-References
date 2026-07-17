@@ -47,7 +47,7 @@ static String System::BitConverter::ToString(const ArrayPtr<uint8_t> &value, int
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | const ArrayPtr\<uint8_t\>\& | [Array](../../array/) that contains bytes to convert |
-| startIndex | int | Index in the specified array at which to start converting |
+| startIndex | int | [Index](../../index/) in the specified array at which to start converting |
 
 ### ReturnValue
 
@@ -73,7 +73,7 @@ static String System::BitConverter::ToString(const ArrayPtr<uint8_t> &value, int
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | const ArrayPtr\<uint8_t\>\& | [Array](../../array/) that contains bytes to convert |
-| startIndex | int | Index in the specified array at which the range of the byte array elements to convert begins |
+| startIndex | int | [Index](../../index/) in the specified array at which the range of the byte array elements to convert begins |
 | length | int | The length of the range the byte array elements to convert |
 
 ### ReturnValue

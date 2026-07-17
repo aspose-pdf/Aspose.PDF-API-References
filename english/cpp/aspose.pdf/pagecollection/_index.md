@@ -21,21 +21,21 @@ class PageCollection : public System::Collections::Generic::ICollection<System::
 
 | Method | Description |
 | --- | --- |
-| [Accept](./accept/)(System::SharedPtr\<Annotations::AnnotationSelector\>) | Accepts [AnnotationSelector](../) visitor object that provides functionality to work with annotations. |
-| [Accept](./accept/)(System::SharedPtr\<ImagePlacementAbsorber\>) | Accepts [ImagePlacementAbsorber](../imageplacementabsorber/) visitor object that provides functionality to work with image placement objects. |
-| [Accept](./accept/)(System::SharedPtr\<Text::TextFragmentAbsorber\>) | Accepts [TextFragmentAbsorber](../) visitor object that provides functionality to work with text objects. |
-| [Accept](./accept/)(System::SharedPtr\<Text::TextAbsorber\>) | Accepts [TextAbsorber](../) visitor object that provides functionality to work with text objects. |
+| [Accept](./accept/)(const System::SharedPtr\<Annotations::AnnotationSelector\>\&) | Accepts [AnnotationSelector](../) visitor object that provides functionality to work with annotations. |
+| [Accept](./accept/)(const System::SharedPtr\<ImagePlacementAbsorber\>\&) | Accepts [ImagePlacementAbsorber](../imageplacementabsorber/) visitor object that provides functionality to work with image placement objects. |
+| [Accept](./accept/)(const System::SharedPtr\<Text::TextFragmentAbsorber\>\&) | Accepts [TextFragmentAbsorber](../) visitor object that provides functionality to work with text objects. |
+| [Accept](./accept/)(const System::SharedPtr\<Text::TextAbsorber\>\&) | Accepts [TextAbsorber](../) visitor object that provides functionality to work with text objects. |
 | [Add](./add/)() | Adds an empty page. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used. |
 | [Add](./add/)(const System::SharedPtr\<System::Collections::Generic::ICollection\<System::SharedPtr\<Page\>\>\>\&) | Adds to collection all pages from list. |
 | [Add](./add/)(const System::ArrayPtr\<System::SharedPtr\<Page\>\>\&) | Adds to collection all pages from array. |
 | [BeginUpdate](./beginupdate/)() | Updates when group changes begin. Stops page cache recalculation on each operation. We recommend calling the BeginUpdate/EndUpdate methods in a try-finally block. |
 | [Clear](./clear/)() override | Clear page collection. |
 | [Contains](./contains/)(const System::SharedPtr\<Page\>\&) const override | Determines whether this instance contains the object. |
-| [CopyPage](./copypage/)(System::SharedPtr\<Page\>) | Adds page to collection. |
+| [CopyPage](./copypage/)(const System::SharedPtr\<Page\>\&) | Adds page to collection. |
 | [CopyTo](./copyto/)(System::ArrayPtr\<System::SharedPtr\<Page\>\>, int32_t) override | Copyies pages into document. |
 | [Delete](./delete/)(int32_t) | Delete specified page. |
 | [Delete](./delete/)() | Deletes all pages from collection. |
-| [Delete](./delete/)(System::ArrayPtr\<int32_t\>) | Delete pages specified which numbers are specified in array. |
+| [Delete](./delete/)(const System::ArrayPtr\<int32_t\>\&) | Delete pages specified which numbers are specified in array. |
 | [EndUpdate](./endupdate/)() | Updates when group changes are complete. Restores page cache recalculations on each operation. We recommend calling the BeginUpdate/EndUpdate methods in a try-finally block. |
 | [Flatten](./flatten/)() | Removes all fields located on the pages and place their values instead. |
 | [FreeMemory](./freememory/)() override | Clears cached data. |
@@ -45,11 +45,11 @@ class PageCollection : public System::Collections::Generic::ICollection<System::
 | [get_SyncRoot](./get_syncroot/)() const | Gets synchronization object of the collection. |
 | [GetEnumerator](./getenumerator/)() override | Returns enumerator of pages. |
 | [idx_get](./idx_get/)(int32_t) | Gets page by index. |
-| [IndexOf](./indexof/)(System::SharedPtr\<Page\>) const | Returns index of the specified page. |
+| [IndexOf](./indexof/)(const System::SharedPtr\<Page\>\&) const | Returns index of the specified page. |
 | [Insert](./insert/)(int32_t) | Insert an empty page into the collection at the specified position. If the document already contains pages with varying sizes, the size of the most frequently occurring page will be selected. In the case there are only two different pages, the size of the first page will be used. |
-| [Insert](./insert/)(int32_t, System::SharedPtr\<Page\>) | Inserts page into page collection at specified place. |
-| [Insert](./insert/)(int32_t, System::SharedPtr\<System::Collections::Generic::ICollection\<System::SharedPtr\<Page\>\>\>) | Inserts pages from the collection into document. |
-| [Insert](./insert/)(int32_t, System::ArrayPtr\<System::SharedPtr\<Page\>\>) | Inserts pages of the array into document. |
+| [Insert](./insert/)(int32_t, const System::SharedPtr\<Page\>\&) | Inserts page into page collection at specified place. |
+| [Insert](./insert/)(int32_t, const System::SharedPtr\<System::Collections::Generic::ICollection\<System::SharedPtr\<Page\>\>\>\&) | Inserts pages from the collection into document. |
+| [Insert](./insert/)(int32_t, const System::ArrayPtr\<System::SharedPtr\<Page\>\>\&) | Inserts pages of the array into document. |
 | [Remove](./remove/)(const System::SharedPtr\<Page\>\&) override | Removes the specified item, throws NotSupportedException
 . |
 ## See Also

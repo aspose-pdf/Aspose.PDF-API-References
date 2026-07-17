@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.devices/imagedevice/getbitmap/
 Converts the page into [Bitmap](../).
 
 ```cpp
-System::SharedPtr<System::Drawing::Bitmap> Aspose::Pdf::Devices::ImageDevice::GetBitmap(System::SharedPtr<Page> page)
+System::SharedPtr<System::Drawing::Bitmap> Aspose::Pdf::Devices::ImageDevice::GetBitmap(const System::SharedPtr<Page> &page)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Page\> | The page to convert. |
+| page | const System::SharedPtr\<Page\>\& | The page to convert. |
 
 ### ReturnValue
 

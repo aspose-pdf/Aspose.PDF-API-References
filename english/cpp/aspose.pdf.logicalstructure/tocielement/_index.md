@@ -21,7 +21,7 @@ class TOCIElement : public Aspose::Pdf::LogicalStructure::GroupingElement,
 
 | Method | Description |
 | --- | --- |
-| [AddRef](./addref/)(System::SharedPtr\<StructureElement\>) | Adds a reference to the specified structure element within the [Table](../../aspose.pdf/table/) of Contents Item (TOCI) element. |
+| [AddRef](./addref/)(const System::SharedPtr\<StructureElement\>\&) | Adds a reference to the specified structure element within the [Table](../../aspose.pdf/table/) of Contents Item (TOCI) element. |
 ## See Also
 
 * Class [GroupingElement](../groupingelement/)

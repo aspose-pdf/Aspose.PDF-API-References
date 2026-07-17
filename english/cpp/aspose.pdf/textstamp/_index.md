@@ -50,17 +50,17 @@ class TextStamp : public Aspose::Pdf::Stamp
 | [set_Justify](./set_justify/)(bool) | Defines text justification. If this property is set to true, both left and right edges of the text are aligned. Default value: false. |
 | [set_MaxRowWidth](./set_maxrowwidth/)(double) | Max row height for WordWrap option. |
 | [set_NoCharacterBehavior](./set_nocharacterbehavior/)(TextStamp::NoCharacterAction) | Sets mode that defines behavior in case fonts don't contain requested characters. |
-| [set_ReplacementFont](./set_replacementfont/)(System::SharedPtr\<Text::Font\>) | Sets font used for replacing if user font does not contain required character. |
+| [set_ReplacementFont](./set_replacementfont/)(const System::SharedPtr\<Text::Font\>\&) | Sets font used for replacing if user font does not contain required character. |
 | [set_Scale](./set_scale/)(bool) | Defines scaling of the text. If this property is set to true and Width value specified, text will be scaled in order to fit to specified width. |
 | [set_TextAlignment](./set_textalignment/)(Aspose::Pdf::HorizontalAlignment) | Alignment of the text inside the stamp. |
 | [set_TreatYIndentAsBaseLine](./set_treatyindentasbaseline/)(bool) | Defines coordinate origin for placing text. If TreatYIndentAsBaseLine = true (default when Draw = true) YIndent value will be treated as text base line. If TreatYIndentAsBaseLine = false (default when Draw = false) YIndent value will be treated as bottom (descent line) of text. |
-| [set_Value](./set_value/)(System::String) | Sets string value which is used as stamp on the page. |
+| [set_Value](./set_value/)(const System::String\&) | Sets string value which is used as stamp on the page. |
 | [set_Width](./set_width/)(double) override | Desired width of the stamp on the page. |
 | [set_WordWrap](./set_wordwrap/)(bool) | Defines word wrap. If this property set to true and Width value specified, text will be broken in the several lines to fit into specified width. Default value: false. |
 | [set_WordWrapMode](./set_wordwrapmode/)(Aspose::Pdf::Text::TextFormattingOptions::WordWrapMode) | Sets the word wrap mode for text rendering. |
-| [TextStamp](./textstamp/)(System::String) | Initializes a new instance of the [TextStamp](./) class. |
-| [TextStamp](./textstamp/)(System::String, System::SharedPtr\<Aspose::Pdf::Text::TextState\>) | Initializes a new instance of the [TextStamp](./) class. |
-| [TextStamp](./textstamp/)(System::SharedPtr\<Facades::FormattedText\>) | Initializes a new instance of the [TextStamp](./) class with formattedText object. |
+| [TextStamp](./textstamp/)(const System::String\&) | Initializes a new instance of the [TextStamp](./) class. |
+| [TextStamp](./textstamp/)(const System::String\&, const System::SharedPtr\<Aspose::Pdf::Text::TextState\>\&) | Initializes a new instance of the [TextStamp](./) class. |
+| [TextStamp](./textstamp/)(const System::SharedPtr\<Facades::FormattedText\>\&) | Initializes a new instance of the [TextStamp](./) class with formattedText object. |
 ## See Also
 
 * Class [Stamp](../stamp/)

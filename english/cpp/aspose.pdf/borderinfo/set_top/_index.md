@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/borderinfo/set_top/
 Sets a object that indicates the top border.
 
 ```cpp
-void Aspose::Pdf::BorderInfo::set_Top(System::SharedPtr<GraphInfo> value)
+void Aspose::Pdf::BorderInfo::set_Top(const System::SharedPtr<GraphInfo> &value)
 ```
 
 ## See Also

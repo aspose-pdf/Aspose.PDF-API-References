@@ -7,19 +7,19 @@ type: docs
 weight: 1300
 url: /cpp/aspose.pdf.annotations/pdf3dannotation/setimagepreview/
 ---
-## PDF3DAnnotation::SetImagePreview(System::SharedPtr\<System::IO::Stream\>) method
+## PDF3DAnnotation::SetImagePreview(const System::SharedPtr\<System::IO::Stream\>\&) method
 
 
 Sets the image preview.
 
 ```cpp
-void Aspose::Pdf::Annotations::PDF3DAnnotation::SetImagePreview(System::SharedPtr<System::IO::Stream> image)
+void Aspose::Pdf::Annotations::PDF3DAnnotation::SetImagePreview(const System::SharedPtr<System::IO::Stream> &image)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| image | System::SharedPtr\<System::IO::Stream\> | The image stream. |
+| image | const System::SharedPtr\<System::IO::Stream\>\& | The image stream. |
 
 ## See Also
 
@@ -28,19 +28,19 @@ void Aspose::Pdf::Annotations::PDF3DAnnotation::SetImagePreview(System::SharedPt
 * Class [PDF3DAnnotation](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PDF3DAnnotation::SetImagePreview(System::String) method
+## PDF3DAnnotation::SetImagePreview(const System::String\&) method
 
 
 Sets the image preview.
 
 ```cpp
-void Aspose::Pdf::Annotations::PDF3DAnnotation::SetImagePreview(System::String filename)
+void Aspose::Pdf::Annotations::PDF3DAnnotation::SetImagePreview(const System::String &filename)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | System::String | The image preview filename. |
+| filename | const System::String\& | The image preview filename. |
 
 ## See Also
 

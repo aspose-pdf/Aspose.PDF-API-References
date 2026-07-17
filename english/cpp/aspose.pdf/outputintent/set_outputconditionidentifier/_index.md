@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/outputintent/set_outputconditionidentifier/
 Sets a text that identifies the intended output device or production condition in human- or machine-readable form.
 
 ```cpp
-void Aspose::Pdf::OutputIntent::set_OutputConditionIdentifier(System::String value)
+void Aspose::Pdf::OutputIntent::set_OutputConditionIdentifier(const System::String &value)
 ```
 
 ## See Also

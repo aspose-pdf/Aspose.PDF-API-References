@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.multithreading/interruptmonitor/set_threadlocalinstance/
 Sets the [IInterruptMonitor](../../iinterruptmonitor/) instance which is unique for each thread.
 
 ```cpp
-static void Aspose::Pdf::Multithreading::InterruptMonitor::set_ThreadLocalInstance(System::SharedPtr<IInterruptMonitor> value)
+static void Aspose::Pdf::Multithreading::InterruptMonitor::set_ThreadLocalInstance(const System::SharedPtr<IInterruptMonitor> &value)
 ```
 
 ## See Also

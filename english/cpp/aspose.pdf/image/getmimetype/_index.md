@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/image/getmimetype/
 Returns mime type for image.
 
 ```cpp
-static System::String Aspose::Pdf::Image::GetMimeType(System::SharedPtr<System::Drawing::Image> i)
+static System::String Aspose::Pdf::Image::GetMimeType(const System::SharedPtr<System::Drawing::Image> &i)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| i | System::SharedPtr\<System::Drawing::Image\> | [Image](../) object. |
+| i | const System::SharedPtr\<System::Drawing::Image\>\& | [Image](../) object. |
 
 ### ReturnValue
 

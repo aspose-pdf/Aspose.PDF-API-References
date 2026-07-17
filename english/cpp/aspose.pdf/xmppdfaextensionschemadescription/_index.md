@@ -23,8 +23,8 @@ class XmpPdfAExtensionSchemaDescription : public System::Object
 | [get_Description](./get_description/)() const | Gets the optional description. |
 | [get_NamespaceURI](./get_namespaceuri/)() const | Gets the namespace URI. |
 | [get_Prefix](./get_prefix/)() const | Gets the prefix. |
-| [GetXml](./getxml/)(System::SharedPtr\<System::Xml::XmlDocument\>) | Returns the list of xml elements that represent schema description in xml tree. |
-| [XmpPdfAExtensionSchemaDescription](./xmppdfaextensionschemadescription/)(System::String, System::String, System::String) | Initializes new object. |
+| [GetXml](./getxml/)(const System::SharedPtr\<System::Xml::XmlDocument\>\&) | Returns the list of xml elements that represent schema description in xml tree. |
+| [XmpPdfAExtensionSchemaDescription](./xmppdfaextensionschemadescription/)(const System::String\&, const System::String\&, const System::String\&) | Initializes new object. |
 ## See Also
 
 * Class [Object](../../system/object/)

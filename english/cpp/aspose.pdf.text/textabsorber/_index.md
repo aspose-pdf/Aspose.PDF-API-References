@@ -28,9 +28,9 @@ class TextAbsorber : public System::Object
 | virtual [set_ExtractionOptions](./set_extractionoptions/)(System::SharedPtr\<TextExtractionOptions\>) | Sets text extraction options. |
 | virtual [set_TextSearchOptions](./set_textsearchoptions/)(System::SharedPtr\<Aspose::Pdf::Text::TextSearchOptions\>) | Sets text search options. |
 | [TextAbsorber](./textabsorber/)() | Initializes a new instance of the [TextAbsorber](./). |
-| [TextAbsorber](./textabsorber/)(System::SharedPtr\<TextExtractionOptions\>) | Initializes a new instance of the [TextAbsorber](./) with extraction options. |
-| [TextAbsorber](./textabsorber/)(System::SharedPtr\<TextExtractionOptions\>, System::SharedPtr\<Aspose::Pdf::Text::TextSearchOptions\>) | Initializes a new instance of the [TextAbsorber](./) with extraction and text search options. |
-| [TextAbsorber](./textabsorber/)(System::SharedPtr\<Aspose::Pdf::Text::TextSearchOptions\>) | Initializes a new instance of the [TextAbsorber](./) with text search options. |
+| [TextAbsorber](./textabsorber/)(const System::SharedPtr\<TextExtractionOptions\>\&) | Initializes a new instance of the [TextAbsorber](./) with extraction options. |
+| [TextAbsorber](./textabsorber/)(const System::SharedPtr\<TextExtractionOptions\>\&, const System::SharedPtr\<Aspose::Pdf::Text::TextSearchOptions\>\&) | Initializes a new instance of the [TextAbsorber](./) with extraction and text search options. |
+| [TextAbsorber](./textabsorber/)(const System::SharedPtr\<Aspose::Pdf::Text::TextSearchOptions\>\&) | Initializes a new instance of the [TextAbsorber](./) with text search options. |
 | virtual [Visit](./visit/)(System::SharedPtr\<Page\>) | Extracts text on the specified page. |
 | virtual [Visit](./visit/)(System::SharedPtr\<XForm\>) | Extracts text on the specified [XForm](../../aspose.pdf/xform/). |
 | virtual [Visit](./visit/)(System::SharedPtr\<Document\>) | Extracts text on the specified document. |

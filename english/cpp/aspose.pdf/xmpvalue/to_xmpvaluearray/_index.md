@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/xmpvalue/to_xmpvaluearray/
 Converts [XmpValue](../) to array.
 
 ```cpp
-static System::ArrayPtr<System::SharedPtr<XmpValue>> Aspose::Pdf::XmpValue::to_XmpValueArray(System::SharedPtr<XmpValue> value)
+static System::ArrayPtr<System::SharedPtr<XmpValue>> Aspose::Pdf::XmpValue::to_XmpValueArray(const System::SharedPtr<XmpValue> &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | System::SharedPtr\<XmpValue\> | Value to convert. |
+| value | const System::SharedPtr\<XmpValue\>\& | Value to convert. |
 
 ### ReturnValue
 

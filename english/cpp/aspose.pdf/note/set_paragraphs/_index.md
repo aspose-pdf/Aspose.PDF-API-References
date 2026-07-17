@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/note/set_paragraphs/
 Sets a collection that indicates all paragraphs in the FootNote.
 
 ```cpp
-void Aspose::Pdf::Note::set_Paragraphs(System::SharedPtr<Aspose::Pdf::Paragraphs> value)
+void Aspose::Pdf::Note::set_Paragraphs(const System::SharedPtr<Aspose::Pdf::Paragraphs> &value)
 ```
 
 ## See Also

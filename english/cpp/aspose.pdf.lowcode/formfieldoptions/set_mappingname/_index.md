@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/formfieldoptions/set_mappingname/
 Gets/sets the value to determine property MappingName for created/modified field (if will be set).
 
 ```cpp
-void Aspose::Pdf::LowCode::FormFieldOptions::set_MappingName(System::String value)
+void Aspose::Pdf::LowCode::FormFieldOptions::set_MappingName(const System::String &value)
 ```
 
 ## See Also

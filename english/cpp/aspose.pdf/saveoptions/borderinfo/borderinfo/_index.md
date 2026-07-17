@@ -22,19 +22,19 @@ Aspose::Pdf::SaveOptions::BorderInfo::BorderInfo()
 * Class [SaveOptions](../../)
 * Namespace [Aspose::Pdf](../../../)
 * Library [Aspose.PDF for C++](../../../../)
-## BorderInfo::BorderInfo(System::SharedPtr\<SaveOptions::BorderPartStyle\>) constructor
+## BorderInfo::BorderInfo(const System::SharedPtr\<SaveOptions::BorderPartStyle\>\&) constructor
 
 
 Creates instance of [BorderInfo](../) class and initializes all elements of border(Top, Left, Right, Bottom) with attributes copied from supplied border style.
 
 ```cpp
-Aspose::Pdf::SaveOptions::BorderInfo::BorderInfo(System::SharedPtr<SaveOptions::BorderPartStyle> commonStyle)
+Aspose::Pdf::SaveOptions::BorderInfo::BorderInfo(const System::SharedPtr<SaveOptions::BorderPartStyle> &commonStyle)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| commonStyle | System::SharedPtr\<SaveOptions::BorderPartStyle\> | style of border parts that will be used for all elements of border(left, right, top, bottom) |
+| commonStyle | const System::SharedPtr\<SaveOptions::BorderPartStyle\>\& | style of border parts that will be used for all elements of border(left, right, top, bottom) |
 
 ## See Also
 

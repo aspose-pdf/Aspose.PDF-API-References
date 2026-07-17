@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf/outlineitemcollection/insert/
 Inserts the outline item into collection at the specified place.
 
 ```cpp
-void Aspose::Pdf::OutlineItemCollection::Insert(int32_t index, System::SharedPtr<OutlineItemCollection> outline)
+void Aspose::Pdf::OutlineItemCollection::Insert(int32_t index, const System::SharedPtr<OutlineItemCollection> &outline)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | index | int32_t | The index specifying place for inserting. |
-| outline | System::SharedPtr\<OutlineItemCollection\> | The outline item should be inserted. |
+| outline | const System::SharedPtr\<OutlineItemCollection\>\& | The outline item should be inserted. |
 
 ## See Also
 

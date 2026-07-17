@@ -23,10 +23,10 @@ class GoToRemoteAction : public Aspose::Pdf::Annotations::GoToAction
 | [get_Destination](./get_destination/)() override | Gets the destination to jump to. |
 | [get_File](./get_file/)() | Gets the specification of the file in which the destination is located. |
 | [get_NewWindow](./get_newwindow/)() | Gets a flag specifying whether to open the destination document in a new window. |
-| [GoToRemoteAction](./gotoremoteaction/)(System::String, int32_t) | Initializes [GoToRemoteAction](./) object. |
-| [GoToRemoteAction](./gotoremoteaction/)(System::String, System::SharedPtr\<ExplicitDestination\>) | Initializes [GoToRemoteAction](./) object. |
+| [GoToRemoteAction](./gotoremoteaction/)(const System::String\&, int32_t) | Initializes [GoToRemoteAction](./) object. |
+| [GoToRemoteAction](./gotoremoteaction/)(const System::String\&, const System::SharedPtr\<ExplicitDestination\>\&) | Initializes [GoToRemoteAction](./) object. |
 | [set_Destination](./set_destination/)(System::SharedPtr\<IAppointment\>) override | Sets the destination to jump to. |
-| [set_File](./set_file/)(System::SharedPtr\<FileSpecification\>) | Sets the specification of the file in which the destination is located. |
+| [set_File](./set_file/)(const System::SharedPtr\<FileSpecification\>\&) | Sets the specification of the file in which the destination is located. |
 | [set_NewWindow](./set_newwindow/)(ExtendedBoolean) | Sets a flag specifying whether to open the destination document in a new window. |
 ## See Also
 

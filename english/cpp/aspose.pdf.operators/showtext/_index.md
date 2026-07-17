@@ -23,9 +23,9 @@ class ShowText : public Aspose::Pdf::Operators::TextShowOperator
 | [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_Text](./get_text/)() override | [Text](../../aspose.pdf.text/) of operator. |
 | [set_Text](./set_text/)(System::String) override | [Text](../../aspose.pdf.text/) of operator. |
-| [ShowText](./showtext/)(int32_t, System::String) | Initializes Tj opearor. |
-| [ShowText](./showtext/)(System::String) | Initializes Tj operator. |
-| [ShowText](./showtext/)(System::String, System::SharedPtr\<Text::Font\>) | Initializes Tj opearor. |
+| [ShowText](./showtext/)(int32_t, const System::String\&) | Initializes Tj opearor. |
+| [ShowText](./showtext/)(const System::String\&) | Initializes Tj operator. |
+| [ShowText](./showtext/)(const System::String\&, const System::SharedPtr\<Text::Font\>\&) | Initializes Tj opearor. |
 | [ShowText](./showtext/)() | Initializes Tj operator. |
 | [ToString](./tostring/)() const override | Produces text code of operator. |
 ## See Also

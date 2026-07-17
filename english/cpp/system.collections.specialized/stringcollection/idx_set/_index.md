@@ -19,7 +19,7 @@ void System::Collections::Specialized::StringCollection::idx_set(int index, cons
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to set string at. |
+| index | int | [Index](../../../system/index/) to set string at. |
 | value | const System::String\& | [String](../../../system/string/) value to set at specified index. |
 
 ## See Also

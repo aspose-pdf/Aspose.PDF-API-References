@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/xmpvalue/to_keyvaluepair/
 Converts [XmpValue](../) to named value.
 
 ```cpp
-static System::Collections::Generic::KeyValuePair<System::String, System::SharedPtr<XmpValue>> Aspose::Pdf::XmpValue::to_KeyValuePair(System::SharedPtr<XmpValue> value)
+static System::Collections::Generic::KeyValuePair<System::String, System::SharedPtr<XmpValue>> Aspose::Pdf::XmpValue::to_KeyValuePair(const System::SharedPtr<XmpValue> &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | System::SharedPtr\<XmpValue\> | Value to convert. |
+| value | const System::SharedPtr\<XmpValue\>\& | Value to convert. |
 
 ### ReturnValue
 

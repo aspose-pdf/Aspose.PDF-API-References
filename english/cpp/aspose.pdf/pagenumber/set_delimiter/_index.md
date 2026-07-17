@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pagenumber/set_delimiter/
 Sets the delimiter used in the page number format. The formatted string will be updated based on the specified delimiter.
 
 ```cpp
-void Aspose::Pdf::PageNumber::set_Delimiter(System::String value)
+void Aspose::Pdf::PageNumber::set_Delimiter(const System::String &value)
 ```
 
 ## See Also

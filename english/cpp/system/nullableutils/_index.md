@@ -4,7 +4,7 @@ linktitle: NullableUtils
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::NullableUtils class. Represents C# System.Nullable (with no type arguments) static class. Unable to use original name due inability to overload class templates in C++. Supports a value type that can be assigned null. This class cannot be inherited in C++.'
 type: docs
-weight: 4800
+weight: 4900
 url: /cpp/system/nullableutils/
 ---
 ## NullableUtils class

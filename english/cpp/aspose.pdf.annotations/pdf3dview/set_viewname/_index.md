@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dview/set_viewname/
 Sets the name of the view.
 
 ```cpp
-void Aspose::Pdf::Annotations::PDF3DView::set_ViewName(System::String value)
+void Aspose::Pdf::Annotations::PDF3DView::set_ViewName(const System::String &value)
 ```
 
 ## Remarks

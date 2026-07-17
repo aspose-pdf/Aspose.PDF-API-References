@@ -21,19 +21,19 @@ Aspose::Pdf::XslFoLoadOptions::XslFoLoadOptions()
 * Class [XslFoLoadOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## XslFoLoadOptions::XslFoLoadOptions(System::SharedPtr\<System::IO::Stream\>) constructor
+## XslFoLoadOptions::XslFoLoadOptions(const System::SharedPtr\<System::IO::Stream\>\&) constructor
 
 
 Creates [XslFoLoadOptions](../) object with xsl data.
 
 ```cpp
-Aspose::Pdf::XslFoLoadOptions::XslFoLoadOptions(System::SharedPtr<System::IO::Stream> xslStream)
+Aspose::Pdf::XslFoLoadOptions::XslFoLoadOptions(const System::SharedPtr<System::IO::Stream> &xslStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xslStream | System::SharedPtr\<System::IO::Stream\> | Xsl stream to convert XSL-FO document into pdf document. |
+| xslStream | const System::SharedPtr\<System::IO::Stream\>\& | Xsl stream to convert XSL-FO document into pdf document. |
 
 ## See Also
 
@@ -42,19 +42,19 @@ Aspose::Pdf::XslFoLoadOptions::XslFoLoadOptions(System::SharedPtr<System::IO::St
 * Class [XslFoLoadOptions](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## XslFoLoadOptions::XslFoLoadOptions(System::String) constructor
+## XslFoLoadOptions::XslFoLoadOptions(const System::String\&) constructor
 
 
 Creates [XslFoLoadOptions](../) object with xsl data.
 
 ```cpp
-Aspose::Pdf::XslFoLoadOptions::XslFoLoadOptions(System::String xslFile)
+Aspose::Pdf::XslFoLoadOptions::XslFoLoadOptions(const System::String &xslFile)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| xslFile | System::String | Xsl file to convert XSL-FO document into pdf document. |
+| xslFile | const System::String\& | Xsl file to convert XSL-FO document into pdf document. |
 
 ## See Also
 

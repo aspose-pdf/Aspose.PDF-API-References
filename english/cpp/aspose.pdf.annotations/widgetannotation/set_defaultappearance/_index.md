@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/widgetannotation/set_defaultappearance/
 Sets default appearance of the field.
 
 ```cpp
-void Aspose::Pdf::Annotations::WidgetAnnotation::set_DefaultAppearance(System::SharedPtr<Aspose::Pdf::Annotations::DefaultAppearance> value)
+void Aspose::Pdf::Annotations::WidgetAnnotation::set_DefaultAppearance(const System::SharedPtr<Aspose::Pdf::Annotations::DefaultAppearance> &value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/note/set_text/
 Sets a note text.
 
 ```cpp
-void Aspose::Pdf::Note::set_Text(System::String value)
+void Aspose::Pdf::Note::set_Text(const System::String &value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.comparison/sidebysidecomparisonoptions/set_insertcolor/
 Sets the color used to mark inserted content during a side-by-side comparison. This property defines the visual representation for insertion in the comparison result.
 
 ```cpp
-void Aspose::Pdf::Comparison::SideBySideComparisonOptions::set_InsertColor(System::SharedPtr<Color> value)
+void Aspose::Pdf::Comparison::SideBySideComparisonOptions::set_InsertColor(const System::SharedPtr<Color> &value)
 ```
 
 ## See Also

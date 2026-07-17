@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/form/set_calculatedfields/
 Allows to set order of field calculation.
 
 ```cpp
-void Aspose::Pdf::Forms::Form::set_CalculatedFields(System::SharedPtr<System::Collections::Generic::IEnumerable<System::SharedPtr<Field>>> value)
+void Aspose::Pdf::Forms::Form::set_CalculatedFields(const System::SharedPtr<System::Collections::Generic::IEnumerable<System::SharedPtr<Field>>> &value)
 ```
 
 ## See Also

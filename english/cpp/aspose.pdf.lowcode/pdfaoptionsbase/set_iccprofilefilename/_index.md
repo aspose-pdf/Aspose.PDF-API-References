@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/pdfaoptionsbase/set_iccprofilefilename/
 Sets the filename of the ICC (International [Color](../../../aspose.pdf/color/) Consortium) profile to be used for the PDF/A conversion in place of the default one.
 
 ```cpp
-void Aspose::Pdf::LowCode::PdfAOptionsBase::set_IccProfileFileName(System::String value)
+void Aspose::Pdf::LowCode::PdfAOptionsBase::set_IccProfileFileName(const System::String &value)
 ```
 
 ## Remarks

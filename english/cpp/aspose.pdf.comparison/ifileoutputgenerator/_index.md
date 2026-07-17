@@ -4,7 +4,7 @@ linktitle: IFileOutputGenerator
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Comparison::IFileOutputGenerator class. Represents an interface for generating output to a file of differences between texts in C++.'
 type: docs
-weight: 700
+weight: 800
 url: /cpp/aspose.pdf.comparison/ifileoutputgenerator/
 ---
 ## IFileOutputGenerator class

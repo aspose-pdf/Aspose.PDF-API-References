@@ -19,7 +19,7 @@ void System::Collections::CollectionBase<T>::SetTemplateWeakPtr(uint32_t argumen
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| argument | uint32_t | Index of template argument to treat as weak poiner. |
+| argument | uint32_t | [Index](../../../system/index/) of template argument to treat as weak poiner. |
 
 ## See Also
 

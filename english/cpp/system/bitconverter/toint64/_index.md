@@ -20,7 +20,7 @@ static int64_t System::BitConverter::ToInt64(const System::ArrayPtr<uint8_t> &va
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | const System::ArrayPtr\<uint8_t\>\& | [Array](../../array/) that contains bytes to convert |
-| startIndex | int | Index in the array at which to start taking bytes for conversion |
+| startIndex | int | [Index](../../index/) in the array at which to start taking bytes for conversion |
 
 ### ReturnValue
 
@@ -45,7 +45,7 @@ static int64_t System::BitConverter::ToInt64(const System::Details::ArrayView<ui
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | const System::Details::ArrayView\<uint8_t\>\& | ArrayView that contains bytes to convert |
-| startIndex | int | Index in the array at which to start taking bytes for conversion |
+| startIndex | int | [Index](../../index/) in the array at which to start taking bytes for conversion |
 
 ### ReturnValue
 

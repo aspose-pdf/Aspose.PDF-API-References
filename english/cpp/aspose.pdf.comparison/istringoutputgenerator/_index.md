@@ -4,7 +4,7 @@ linktitle: IStringOutputGenerator
 second_title: Aspose.PDF for C++ API Reference
 description: 'Aspose::Pdf::Comparison::IStringOutputGenerator class. Represents an interface for generating output to a string of differences between texts in C++.'
 type: docs
-weight: 900
+weight: 1000
 url: /cpp/aspose.pdf.comparison/istringoutputgenerator/
 ---
 ## IStringOutputGenerator class

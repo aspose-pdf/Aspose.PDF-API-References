@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.logicalstructure/element/insertchild/
 Insert [T:/Aspose::Pdf::LogicalStructure::Element](../) to collection of children at specified index.
 
 ```cpp
-System::SharedPtr<Element> Aspose::Pdf::LogicalStructure::Element::InsertChild(System::SharedPtr<Element> element, int32_t index, bool checkIfCanBeInserted=true)
+System::SharedPtr<Element> Aspose::Pdf::LogicalStructure::Element::InsertChild(const System::SharedPtr<Element> &element, int32_t index, bool checkIfCanBeInserted=true)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| element | System::SharedPtr\<Element\> | [T:/Aspose::Pdf::LogicalStructure::Element](../) object to add. |
+| element | const System::SharedPtr\<Element\>\& | [T:/Aspose::Pdf::LogicalStructure::Element](../) object to add. |
 | index | int32_t | [Element](../) index. |
 | checkIfCanBeInserted | bool | Check if can be inserted. |
 

@@ -19,7 +19,7 @@ virtual void System::Collections::ObjectModel::Collection<T>::idx_set(int index,
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to set value at. |
+| index | int | [Index](../../../system/index/) to set value at. |
 | value | T | Value to set at specified index. |
 
 ## See Also

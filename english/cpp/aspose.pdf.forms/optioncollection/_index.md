@@ -27,14 +27,14 @@ class OptionCollection : public System::Collections::Generic::ICollection<System
 . |
 | [CopyTo](./copyto/)(System::ArrayPtr\<System::SharedPtr\<Option\>\>, int32_t) override | Copies options into array. |
 | [get](./get/)(int32_t) | Gets option by index. |
-| [get](./get/)(System::String) | Gets option from colleciton by option name. |
+| [get](./get/)(const System::String\&) | Gets option from colleciton by option name. |
 | [get_Count](./get_count/)() const override | Gets number of options. |
 | [get_IsReadOnly](./get_isreadonly/)() const override | Gets a value indicating if collection is readonly. |
 | [get_IsSynchronized](./get_issynchronized/)() | Returns true of object is synchronized. |
 | [get_SyncRoot](./get_syncroot/)() const | Synchronization object of the collection. |
 | [GetEnumerator](./getenumerator/)() override | Returns enumerator for options in collection. |
 | [idx_get](./idx_get/)(int32_t) | Gets option by index. |
-| [idx_get](./idx_get/)(System::String) | Gets option by its name. |
+| [idx_get](./idx_get/)(const System::String\&) | Gets option by its name. |
 | [Remove](./remove/)(const System::SharedPtr\<Option\>\&) override | Removes item from collection, throws NotImplementedException
 . |
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tabletrelement/set_defaultcellborder/
 Gets default cell border.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::TableTRElement::set_DefaultCellBorder(System::SharedPtr<BorderInfo> value)
+void Aspose::Pdf::LogicalStructure::TableTRElement::set_DefaultCellBorder(const System::SharedPtr<BorderInfo> &value)
 ```
 
 ## See Also

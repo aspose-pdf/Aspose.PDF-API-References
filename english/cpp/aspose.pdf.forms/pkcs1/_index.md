@@ -20,10 +20,10 @@ class PKCS1 : public Aspose::Pdf::Forms::Signature
 
 | Method | Description |
 | --- | --- |
-| [PKCS1](./pkcs1/)(System::SharedPtr\<System::IO::Stream\>) | Initializes new instance of the [PKCS1](./) class. |
+| [PKCS1](./pkcs1/)(const System::SharedPtr\<System::IO::Stream\>\&) | Initializes new instance of the [PKCS1](./) class. |
 | [PKCS1](./pkcs1/)() | Inititalizes new instance of the [PKCS1](./) class. |
-| [PKCS1](./pkcs1/)(System::String, System::String) | Inititalizes new instance of the [PKCS1](./) class. |
-| [PKCS1](./pkcs1/)(System::SharedPtr\<System::IO::Stream\>, System::String) | Inititalizes new instance of the [PKCS1](./) class. |
+| [PKCS1](./pkcs1/)(const System::String\&, const System::String\&) | Inititalizes new instance of the [PKCS1](./) class. |
+| [PKCS1](./pkcs1/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&) | Inititalizes new instance of the [PKCS1](./) class. |
 ## See Also
 
 * Class [Signature](../signature/)

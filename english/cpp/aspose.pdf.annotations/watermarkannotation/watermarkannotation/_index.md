@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.annotations/watermarkannotation/watermarkannotation/
 Constructor for [Watermark](../../../aspose.pdf/watermark/) annotation class.
 
 ```cpp
-Aspose::Pdf::Annotations::WatermarkAnnotation::WatermarkAnnotation(System::SharedPtr<Aspose::Pdf::Page> page, System::SharedPtr<Rectangle> rect)
+Aspose::Pdf::Annotations::WatermarkAnnotation::WatermarkAnnotation(const System::SharedPtr<Aspose::Pdf::Page> &page, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | [Page](../../../aspose.pdf/page/) where annotation should be placed. |
-| rect | System::SharedPtr\<Rectangle\> | Position of the annotation. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | [Page](../../../aspose.pdf/page/) where annotation should be placed. |
+| rect | const System::SharedPtr\<Rectangle\>\& | Position of the annotation. |
 
 ## See Also
 

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/pdf3dcontent/load/
 Loads 3D content with the specified filename.
 
 ```cpp
-void Aspose::Pdf::Annotations::PDF3DContent::Load(System::String filename)
+void Aspose::Pdf::Annotations::PDF3DContent::Load(const System::String &filename)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| filename | System::String | The filename. |
+| filename | const System::String\& | The filename. |
 
 ## See Also
 

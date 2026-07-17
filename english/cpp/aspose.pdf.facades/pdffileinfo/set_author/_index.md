@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileinfo/set_author/
 Sets the Author information of PDF document.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileInfo::set_Author(System::String value)
+void Aspose::Pdf::Facades::PdfFileInfo::set_Author(const System::String &value)
 ```
 
 ## See Also

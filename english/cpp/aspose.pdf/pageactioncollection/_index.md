@@ -22,8 +22,8 @@ class PageActionCollection : public Aspose::Pdf::BaseActionCollection
 | --- | --- |
 | [get_OnClose](./get_onclose/)() | An action that shall be performed when the page is closed. |
 | [get_OnOpen](./get_onopen/)() | An action that shall be performed when the page is opened. |
-| [set_OnClose](./set_onclose/)(System::SharedPtr\<Annotations::PdfAction\>) | An action that shall be performed when the page is closed. |
-| [set_OnOpen](./set_onopen/)(System::SharedPtr\<Annotations::PdfAction\>) | An action that shall be performed when the page is opened. |
+| [set_OnClose](./set_onclose/)(const System::SharedPtr\<Annotations::PdfAction\>\&) | An action that shall be performed when the page is closed. |
+| [set_OnOpen](./set_onopen/)(const System::SharedPtr\<Annotations::PdfAction\>\&) | An action that shall be performed when the page is opened. |
 ## See Also
 
 * Class [BaseActionCollection](../baseactioncollection/)

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/measure/numberformat/set_thousandsseparator/
 [Text](../../../../aspose.pdf.text/) that shall be used between orders of thousands in display of numerical values. An empty string indicates that no text shall be added. Default is comma.
 
 ```cpp
-void Aspose::Pdf::Annotations::Measure::NumberFormat::set_ThousandsSeparator(System::String value)
+void Aspose::Pdf::Annotations::Measure::NumberFormat::set_ThousandsSeparator(const System::String &value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/formfieldfacade/set_customfont/
 Sets name of the font when this is non-standart (other then 14 standard fonts).
 
 ```cpp
-void Aspose::Pdf::Facades::FormFieldFacade::set_CustomFont(System::String value)
+void Aspose::Pdf::Facades::FormFieldFacade::set_CustomFont(const System::String &value)
 ```
 
 ## See Also

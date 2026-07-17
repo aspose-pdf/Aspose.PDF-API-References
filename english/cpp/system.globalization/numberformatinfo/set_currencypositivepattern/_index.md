@@ -19,7 +19,7 @@ void System::Globalization::NumberFormatInfo::set_CurrencyPositivePattern(int va
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | int | Index of the pattern in array {"$n", "n$", "$ n", "n $"}, where "n" is number and "$" is currency symbol. |
+| value | int | [Index](../../../system/index/) of the pattern in array {"$n", "n$", "$ n", "n $"}, where "n" is number and "$" is currency symbol. |
 
 ## See Also
 

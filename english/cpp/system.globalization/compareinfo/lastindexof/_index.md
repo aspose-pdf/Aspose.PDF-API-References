@@ -24,7 +24,7 @@ virtual int System::Globalization::CompareInfo::LastIndexOf(const String &source
 
 ### ReturnValue
 
-Index of lookup value in source string or -1 if not found.
+[Index](../../../system/index/) of lookup value in source string or -1 if not found.
 
 ## See Also
 
@@ -50,7 +50,7 @@ virtual int System::Globalization::CompareInfo::LastIndexOf(const String &source
 
 ### ReturnValue
 
-Index of lookup value in source string or -1 if not found.
+[Index](../../../system/index/) of lookup value in source string or -1 if not found.
 
 ## See Also
 
@@ -77,7 +77,7 @@ virtual int System::Globalization::CompareInfo::LastIndexOf(const String &source
 
 ### ReturnValue
 
-Index of lookup value in source string or -1 if not found.
+[Index](../../../system/index/) of lookup value in source string or -1 if not found.
 
 ## See Also
 
@@ -104,7 +104,7 @@ virtual int System::Globalization::CompareInfo::LastIndexOf(const String &source
 
 ### ReturnValue
 
-Index of lookup value in source string or -1 if not found.
+[Index](../../../system/index/) of lookup value in source string or -1 if not found.
 
 ## See Also
 
@@ -132,7 +132,7 @@ virtual int System::Globalization::CompareInfo::LastIndexOf(const String &source
 
 ### ReturnValue
 
-Index of lookup value in source string or -1 if not found.
+[Index](../../../system/index/) of lookup value in source string or -1 if not found.
 
 ## See Also
 
@@ -160,7 +160,7 @@ virtual int System::Globalization::CompareInfo::LastIndexOf(const String &source
 
 ### ReturnValue
 
-Index of lookup value in source string or -1 if not found.
+[Index](../../../system/index/) of lookup value in source string or -1 if not found.
 
 ## See Also
 
@@ -186,7 +186,7 @@ virtual int System::Globalization::CompareInfo::LastIndexOf(const String &source
 
 ### ReturnValue
 
-Index of lookup value in source string or -1 if not found.
+[Index](../../../system/index/) of lookup value in source string or -1 if not found.
 
 ## See Also
 
@@ -212,7 +212,7 @@ virtual int System::Globalization::CompareInfo::LastIndexOf(const String &source
 
 ### ReturnValue
 
-Index of lookup value in source string or -1 if not found.
+[Index](../../../system/index/) of lookup value in source string or -1 if not found.
 
 ## See Also
 
@@ -239,7 +239,7 @@ virtual int System::Globalization::CompareInfo::LastIndexOf(const String &source
 
 ### ReturnValue
 
-Index of lookup value in source string or -1 if not found.
+[Index](../../../system/index/) of lookup value in source string or -1 if not found.
 
 ## See Also
 
@@ -266,7 +266,7 @@ virtual int System::Globalization::CompareInfo::LastIndexOf(const String &source
 
 ### ReturnValue
 
-Index of lookup value in source string or -1 if not found.
+[Index](../../../system/index/) of lookup value in source string or -1 if not found.
 
 ## See Also
 
@@ -294,7 +294,7 @@ virtual int System::Globalization::CompareInfo::LastIndexOf(const String &source
 
 ### ReturnValue
 
-Index of lookup value in source string or -1 if not found.
+[Index](../../../system/index/) of lookup value in source string or -1 if not found.
 
 ## See Also
 
@@ -322,7 +322,7 @@ virtual int System::Globalization::CompareInfo::LastIndexOf(const String &source
 
 ### ReturnValue
 
-Index of lookup value in source string or -1 if not found.
+[Index](../../../system/index/) of lookup value in source string or -1 if not found.
 
 ## See Also
 

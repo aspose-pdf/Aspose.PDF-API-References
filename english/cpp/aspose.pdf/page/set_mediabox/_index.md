@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/set_mediabox/
 Sets media box of the page.
 
 ```cpp
-void Aspose::Pdf::Page::set_MediaBox(System::SharedPtr<Aspose::Pdf::Rectangle> value)
+void Aspose::Pdf::Page::set_MediaBox(const System::SharedPtr<Aspose::Pdf::Rectangle> &value)
 ```
 
 ## See Also

@@ -4,7 +4,7 @@ linktitle: virtualizeBeginIterator
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IEnumerable::virtualizeBeginIterator method. Gets the implementation of begin iterator for the current container in C++.'
 type: docs
-weight: 3300
+weight: 3500
 url: /cpp/system.collections.generic/ienumerable/virtualizebeginiterator/
 ---
 ## IEnumerable::virtualizeBeginIterator method

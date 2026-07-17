@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.logicalstructure/structureelement/settag/
 Sets custom tag for structure element.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::StructureElement::SetTag(System::String newTag)
+void Aspose::Pdf::LogicalStructure::StructureElement::SetTag(const System::String &newTag)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| newTag | System::String | Tag name |
+| newTag | const System::String\& | Tag name |
 
 ## See Also
 

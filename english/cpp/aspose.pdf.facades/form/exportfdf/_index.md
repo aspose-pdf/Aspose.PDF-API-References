@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/form/exportfdf/
 Exports the content of the fields of the pdf into the fdf stream.
 
 ```cpp
-void Aspose::Pdf::Facades::Form::ExportFdf(System::SharedPtr<System::IO::Stream> outputFdfStream)
+void Aspose::Pdf::Facades::Form::ExportFdf(const System::SharedPtr<System::IO::Stream> &outputFdfStream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| outputFdfStream | System::SharedPtr\<System::IO::Stream\> | The output fdf stream. |
+| outputFdfStream | const System::SharedPtr\<System::IO::Stream\>\& | The output fdf stream. |
 
 ## See Also
 

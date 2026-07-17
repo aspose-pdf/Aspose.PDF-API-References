@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf/cells/idx_set/
 Sets cells.
 
 ```cpp
-void Aspose::Pdf::Cells::idx_set(int32_t index, System::SharedPtr<Cell> value)
+void Aspose::Pdf::Cells::idx_set(int32_t index, const System::SharedPtr<Cell> &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | value | int32_t |  |
-| index | System::SharedPtr\<Cell\> | The cell index. |
+| index | const System::SharedPtr\<Cell\>\& | The cell index. |
 
 ## See Also
 

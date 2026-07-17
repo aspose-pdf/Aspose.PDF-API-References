@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/richtextboxfield/set_richtextvalue/
 Sets rich text value.
 
 ```cpp
-void Aspose::Pdf::Forms::RichTextBoxField::set_RichTextValue(System::String value)
+void Aspose::Pdf::Forms::RichTextBoxField::set_RichTextValue(const System::String &value)
 ```
 
 ## See Also

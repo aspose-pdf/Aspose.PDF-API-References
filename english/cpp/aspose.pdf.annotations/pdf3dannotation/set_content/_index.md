@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dannotation/set_content/
 Sets the content.
 
 ```cpp
-void Aspose::Pdf::Annotations::PDF3DAnnotation::set_Content(System::SharedPtr<PDF3DContent> value)
+void Aspose::Pdf::Annotations::PDF3DAnnotation::set_Content(const System::SharedPtr<PDF3DContent> &value)
 ```
 
 ## Remarks

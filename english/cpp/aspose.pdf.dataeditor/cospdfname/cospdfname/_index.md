@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.dataeditor/cospdfname/cospdfname/
 Initializes a new instance of the [CosPdfName](../) class.
 
 ```cpp
-Aspose::Pdf::DataEditor::CosPdfName::CosPdfName(System::String value)
+Aspose::Pdf::DataEditor::CosPdfName::CosPdfName(const System::String &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | System::String | The name. |
+| value | const System::String\& | The name. |
 
 ## See Also
 

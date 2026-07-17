@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/texloadoptions/set_jobname/
 Gets/set the name of the job.
 
 ```cpp
-void Aspose::Pdf::TeXLoadOptions::set_JobName(System::String value)
+void Aspose::Pdf::TeXLoadOptions::set_JobName(const System::String &value)
 ```
 
 ## See Also

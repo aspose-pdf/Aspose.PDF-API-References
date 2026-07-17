@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/outputintent/set_info/
 Sets a human-readable text that contains additional information or comments about the intended target device or production condition.
 
 ```cpp
-void Aspose::Pdf::OutputIntent::set_Info(System::String value)
+void Aspose::Pdf::OutputIntent::set_Info(const System::String &value)
 ```
 
 ## See Also

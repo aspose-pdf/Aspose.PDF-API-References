@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/documentactioncollection/set_beforesaving/
 Sets action performed before document saving.
 
 ```cpp
-void Aspose::Pdf::Annotations::DocumentActionCollection::set_BeforeSaving(System::SharedPtr<PdfAction> value)
+void Aspose::Pdf::Annotations::DocumentActionCollection::set_BeforeSaving(const System::SharedPtr<PdfAction> &value)
 ```
 
 ## See Also

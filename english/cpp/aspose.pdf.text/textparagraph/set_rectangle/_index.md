@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textparagraph/set_rectangle/
 Sets rectangle of the paragraph.
 
 ```cpp
-void Aspose::Pdf::Text::TextParagraph::set_Rectangle(System::SharedPtr<Aspose::Pdf::Rectangle> value)
+void Aspose::Pdf::Text::TextParagraph::set_Rectangle(const System::SharedPtr<Aspose::Pdf::Rectangle> &value)
 ```
 
 ## See Also

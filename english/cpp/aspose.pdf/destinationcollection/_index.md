@@ -27,8 +27,8 @@ class DestinationCollection : public System::Collections::Generic::ICollection<S
 | [get_Count](./get_count/)() const override | Gets the number of elements contained in the collection. |
 | [get_IsReadOnly](./get_isreadonly/)() const override | Gets a value indicating whether the collection is read-only. |
 | [GetEnumerator](./getenumerator/)() override | Returns the enumerator. |
-| [GetExplicitDestination](./getexplicitdestination/)(System::String, bool) | Returns the explicit destination by the name. |
-| [GetPageNumber](./getpagenumber/)(System::String, bool) | Returns the page number of destination by the name. |
+| [GetExplicitDestination](./getexplicitdestination/)(const System::String\&, bool) | Returns the explicit destination by the name. |
+| [GetPageNumber](./getpagenumber/)(const System::String\&, bool) | Returns the page number of destination by the name. |
 | [idx_get](./idx_get/)(int32_t) | Gets the destination object by index. |
 | [IndexOf](./indexof/)(System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<System::Object\>\>) const | Returns the index of destination in collection. |
 | [Remove](./remove/)(const System::Collections::Generic::KeyValuePair\<System::String, System::SharedPtr\<System::Object\>\>\&) override | Removes the specified item. [Collection](../collection/) is read-only. Always throws NotSupportedException exception. |

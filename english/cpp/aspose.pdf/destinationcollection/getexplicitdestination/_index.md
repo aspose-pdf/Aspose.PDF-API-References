@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/destinationcollection/getexplicitdestination/
 Returns the explicit destination by the name.
 
 ```cpp
-System::SharedPtr<Annotations::ExplicitDestination> Aspose::Pdf::DestinationCollection::GetExplicitDestination(System::String destinameName, bool useCache)
+System::SharedPtr<Annotations::ExplicitDestination> Aspose::Pdf::DestinationCollection::GetExplicitDestination(const System::String &destinameName, bool useCache)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| destinameName | System::String | The name of destination. |
+| destinameName | const System::String\& | The name of destination. |
 | useCache | bool | Determines whether cached version of collection is used or not. |
 
 ### ReturnValue

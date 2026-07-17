@@ -39,7 +39,7 @@ class RenderingOptions : public System::Object
 | [set_AnalyzeFonts](./set_analyzefonts/)(bool) | Replaces fonts as necessary to ensure all characters in the text can be displayed. The font substitution algorithm follows these steps: |
 | [set_BarcodeOptimization](./set_barcodeoptimization/)(bool) | Sets barcode optimization mode. |
 | [set_ConvertFontsToUnicodeTTF](./set_convertfontstounicodettf/)(bool) | Indicates that all fonts will be converted to TTF unicode versions. That is useful for compatibility reasons and to optimize font usage, cause every new TTF font will have not all the symbols from source font, but only symbols which are used in text. |
-| [set_DefaultFontName](./set_defaultfontname/)(System::String) | Gets/sets the default name of font used to substitute of missing fonts. |
+| [set_DefaultFontName](./set_defaultfontname/)(const System::String\&) | Gets/sets the default name of font used to substitute of missing fonts. |
 | [set_HeightExtraUnits](./set_heightextraunits/)(float) | Sets a value used to increase or decrease the width of rectangle for AppendRectangle operator. |
 | [set_IgnoreResourceFontErrors](./set_ignoreresourcefonterrors/)(bool) | Sets indication that errors related to absence of font will be ignored. true - means that errors of absence of font will be ignored. [Text](../../aspose.pdf.text/) segments that refer to incorrect resources will be skipped during processing. false by default. |
 | [set_InterpolationHighQuality](./set_interpolationhighquality/)(bool) | Sets hiqh quality mode for interpolation. |

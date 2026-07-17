@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.operators/gs/gs/
 Initializes gs operator.
 
 ```cpp
-Aspose::Pdf::Operators::GS::GS(System::String name)
+Aspose::Pdf::Operators::GS::GS(const System::String &name)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| name | System::String | Name of graphic state. |
+| name | const System::String\& | Name of graphic state. |
 
 ## See Also
 

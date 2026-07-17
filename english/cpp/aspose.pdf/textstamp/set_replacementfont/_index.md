@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/textstamp/set_replacementfont/
 Sets font used for replacing if user font does not contain required character.
 
 ```cpp
-void Aspose::Pdf::TextStamp::set_ReplacementFont(System::SharedPtr<Text::Font> value)
+void Aspose::Pdf::TextStamp::set_ReplacementFont(const System::SharedPtr<Text::Font> &value)
 ```
 
 ## See Also

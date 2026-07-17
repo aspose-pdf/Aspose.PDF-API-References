@@ -21,19 +21,19 @@ Aspose::Pdf::Forms::PKCS7::PKCS7()
 * Class [PKCS7](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PKCS7::PKCS7(System::SharedPtr\<Aspose::Pdf::TimestampSettings\>) constructor
+## PKCS7::PKCS7(const System::SharedPtr\<Aspose::Pdf::TimestampSettings\>\&) constructor
 
 
 Inititalizes new instance of the [PKCS7](../) class.
 
 ```cpp
-Aspose::Pdf::Forms::PKCS7::PKCS7(System::SharedPtr<Aspose::Pdf::TimestampSettings> timestampSettings)
+Aspose::Pdf::Forms::PKCS7::PKCS7(const System::SharedPtr<Aspose::Pdf::TimestampSettings> &timestampSettings)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| timestampSettings | System::SharedPtr\<Aspose::Pdf::TimestampSettings\> | The timestamp settings for the signature. |
+| timestampSettings | const System::SharedPtr\<Aspose::Pdf::TimestampSettings\>\& | The timestamp settings for the signature. |
 ## Remarks
 
 
@@ -46,20 +46,20 @@ The timestamp settings are used to create the timestamp signature without the ne
 * Class [PKCS7](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PKCS7::PKCS7(System::SharedPtr\<System::IO::Stream\>, System::String) constructor
+## PKCS7::PKCS7(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&) constructor
 
 
 Initializes new instance of the [PKCS7](../) class.
 
 ```cpp
-Aspose::Pdf::Forms::PKCS7::PKCS7(System::SharedPtr<System::IO::Stream> pfx, System::String password)
+Aspose::Pdf::Forms::PKCS7::PKCS7(const System::SharedPtr<System::IO::Stream> &pfx, const System::String &password)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pfx | System::SharedPtr\<System::IO::Stream\> | Stream with certificate data organized as pfx. |
-| password | System::String | Password to get access to the private key in the certificate. |
+| pfx | const System::SharedPtr\<System::IO::Stream\>\& | Stream with certificate data organized as pfx. |
+| password | const System::String\& | Password to get access to the private key in the certificate. |
 
 ## See Also
 
@@ -69,20 +69,20 @@ Aspose::Pdf::Forms::PKCS7::PKCS7(System::SharedPtr<System::IO::Stream> pfx, Syst
 * Class [PKCS7](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PKCS7::PKCS7(System::String, System::String) constructor
+## PKCS7::PKCS7(const System::String\&, const System::String\&) constructor
 
 
 Initializes new instance of the [PKCS7](../) class.
 
 ```cpp
-Aspose::Pdf::Forms::PKCS7::PKCS7(System::String pfx, System::String password)
+Aspose::Pdf::Forms::PKCS7::PKCS7(const System::String &pfx, const System::String &password)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| pfx | System::String | Pfx file which contains certificate for signing. |
-| password | System::String | Password for certificate. |
+| pfx | const System::String\& | Pfx file which contains certificate for signing. |
+| password | const System::String\& | Password for certificate. |
 ## Remarks
 
 

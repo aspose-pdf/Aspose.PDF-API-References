@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.lowcode/streamsavetarget/streamsavetarget/
 Initializes new stream save target.
 
 ```cpp
-Aspose::Pdf::LowCode::StreamSaveTarget::StreamSaveTarget(System::SharedPtr<System::IO::Stream> stream)
+Aspose::Pdf::LowCode::StreamSaveTarget::StreamSaveTarget(const System::SharedPtr<System::IO::Stream> &stream)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | System::SharedPtr\<System::IO::Stream\> | Stream for save target. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | Stream for save target. |
 
 ## See Also
 

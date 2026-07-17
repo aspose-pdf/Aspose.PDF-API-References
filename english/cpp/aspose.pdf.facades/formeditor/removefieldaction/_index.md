@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.facades/formeditor/removefieldaction/
 Remove submit action of the field.
 
 ```cpp
-void Aspose::Pdf::Facades::FormEditor::RemoveFieldAction(System::String fieldName)
+void Aspose::Pdf::Facades::FormEditor::RemoveFieldAction(const System::String &fieldName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| fieldName | System::String | Name of the field. |
+| fieldName | const System::String\& | Name of the field. |
 
 ## See Also
 

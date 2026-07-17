@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/markupannotation/set_richtext/
 Sets a rich text string to be displayed in the pop-up window when the annotation is opened.
 
 ```cpp
-void Aspose::Pdf::Annotations::MarkupAnnotation::set_RichText(System::String value)
+void Aspose::Pdf::Annotations::MarkupAnnotation::set_RichText(const System::String &value)
 ```
 
 ## See Also

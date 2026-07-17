@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.logicalstructure/attributeownerstandard/to_attributeownerst
 Performs an explicit conversion from [System::String](../../../system/string/) to [Aspose::Pdf::LogicalStructure::AttributeOwnerStandard](../).
 
 ```cpp
-static System::SharedPtr<AttributeOwnerStandard> Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::to_AttributeOwnerStandard(System::String owner)
+static System::SharedPtr<AttributeOwnerStandard> Aspose::Pdf::LogicalStructure::AttributeOwnerStandard::to_AttributeOwnerStandard(const System::String &owner)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| owner | System::String | The owner. |
+| owner | const System::String\& | The owner. |
 
 ### ReturnValue
 

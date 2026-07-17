@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/annotationactioncollection/set_onhidepage/
 Sets an action to be performed when the page containing the annotation is no longer visible in the viewer application's user interface.
 
 ```cpp
-void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnHidePage(System::SharedPtr<PdfAction> value)
+void Aspose::Pdf::Annotations::AnnotationActionCollection::set_OnHidePage(const System::SharedPtr<PdfAction> &value)
 ```
 
 ## See Also

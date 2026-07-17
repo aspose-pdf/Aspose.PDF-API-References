@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dview/set_backgroundcolor/
 Sets the color of the back ground of view.
 
 ```cpp
-void Aspose::Pdf::Annotations::PDF3DView::set_BackGroundColor(System::SharedPtr<Color> value)
+void Aspose::Pdf::Annotations::PDF3DView::set_BackGroundColor(const System::SharedPtr<Color> &value)
 ```
 
 ## Remarks

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/checkboxfield/set_exportvalue/
 Sets export value of CheckBox field.
 
 ```cpp
-void Aspose::Pdf::Forms::CheckboxField::set_ExportValue(System::String value)
+void Aspose::Pdf::Forms::CheckboxField::set_ExportValue(const System::String &value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/headerfootersettings/horizontalalignment/set_left/
 Sets the left alignment settings.
 
 ```cpp
-void Aspose::Pdf::HeaderFooterSettings::HorizontalAlignment::set_Left(System::SharedPtr<Aspose::Pdf::Left> value)
+void Aspose::Pdf::HeaderFooterSettings::HorizontalAlignment::set_Left(const System::SharedPtr<Aspose::Pdf::Left> &value)
 ```
 
 ## See Also

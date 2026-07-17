@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/set_tocinfo/
 Sets table of contents info.
 
 ```cpp
-void Aspose::Pdf::Page::set_TocInfo(System::SharedPtr<Aspose::Pdf::TocInfo> value)
+void Aspose::Pdf::Page::set_TocInfo(const System::SharedPtr<Aspose::Pdf::TocInfo> &value)
 ```
 
 ## Remarks

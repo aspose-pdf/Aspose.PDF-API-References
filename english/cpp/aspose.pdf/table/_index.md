@@ -41,28 +41,28 @@ class Table : public Aspose::Pdf::BaseParagraph
 | [get_RepeatingRowsStyle](./get_repeatingrowsstyle/)() const | Gets the style for repeating rows. |
 | [get_Rows](./get_rows/)() const | Gets the rows of the table. |
 | [get_Top](./get_top/)() const | Gets the table top coordinate. |
-| [GetHeight](./getheight/)(System::SharedPtr\<Page\>) | Get height. |
+| [GetHeight](./getheight/)(const System::SharedPtr\<Page\>\&) | Get height. |
 | [GetWidth](./getwidth/)() | Get width. |
 | [set_Alignment](./set_alignment/)(Aspose::Pdf::HorizontalAlignment) | Sets the table alignment. |
-| [set_BackgroundColor](./set_backgroundcolor/)(System::SharedPtr\<Color\>) | Sets table background color. |
-| [set_Border](./set_border/)(System::SharedPtr\<BorderInfo\>) | Sets the border. |
-| [set_BreakText](./set_breaktext/)(System::SharedPtr\<Text::TextFragment\>) | Sets break text for table. |
+| [set_BackgroundColor](./set_backgroundcolor/)(const System::SharedPtr\<Color\>\&) | Sets table background color. |
+| [set_Border](./set_border/)(const System::SharedPtr\<BorderInfo\>\&) | Sets the border. |
+| [set_BreakText](./set_breaktext/)(const System::SharedPtr\<Text::TextFragment\>\&) | Sets break text for table. |
 | [set_Broken](./set_broken/)(TableBroken) | Sets table vertial broken;. |
 | [set_ColumnAdjustment](./set_columnadjustment/)(Aspose::Pdf::ColumnAdjustment) | Sets the table column adjustment. |
-| [set_ColumnWidths](./set_columnwidths/)(System::String) | Gets the column widths of the table. |
+| [set_ColumnWidths](./set_columnwidths/)(const System::String\&) | Gets the column widths of the table. |
 | [set_CornerStyle](./set_cornerstyle/)(BorderCornerStyle) | Sets the styles of the border corners. |
-| [set_DefaultCellBorder](./set_defaultcellborder/)(System::SharedPtr\<BorderInfo\>) | Gets default cell border;. |
-| [set_DefaultCellPadding](./set_defaultcellpadding/)(System::SharedPtr\<MarginInfo\>) | Sets the default cell padding. |
-| [set_DefaultCellTextState](./set_defaultcelltextstate/)(System::SharedPtr\<Text::TextState\>) | Sets the default cell text state. |
-| [set_DefaultColumnWidth](./set_defaultcolumnwidth/)(System::String) | Gets default cell border;. |
+| [set_DefaultCellBorder](./set_defaultcellborder/)(const System::SharedPtr\<BorderInfo\>\&) | Gets default cell border;. |
+| [set_DefaultCellPadding](./set_defaultcellpadding/)(const System::SharedPtr\<MarginInfo\>\&) | Sets the default cell padding. |
+| [set_DefaultCellTextState](./set_defaultcelltextstate/)(const System::SharedPtr\<Text::TextState\>\&) | Sets the default cell text state. |
+| [set_DefaultColumnWidth](./set_defaultcolumnwidth/)(const System::String\&) | Gets default cell border;. |
 | [set_IsBordersIncluded](./set_isbordersincluded/)(bool) | Sets border included in column widhts. |
 | [set_IsBroken](./set_isbroken/)(bool) | Sets the table is broken - will be truncated for next page. |
 | [set_Left](./set_left/)(float) | Sets the table left coordinate. |
 | [set_RepeatingColumnsCount](./set_repeatingcolumnscount/)(int32_t) | Sets the maximum columns count for table. |
 | [set_RepeatingRowsCount](./set_repeatingrowscount/)(int32_t) | Gets the first rows count repeated for several pages. |
-| [set_RepeatingRowsStyle](./set_repeatingrowsstyle/)(System::SharedPtr\<Text::TextState\>) | Gets the style for repeating rows. |
+| [set_RepeatingRowsStyle](./set_repeatingrowsstyle/)(const System::SharedPtr\<Text::TextState\>\&) | Gets the style for repeating rows. |
 | [set_Top](./set_top/)(float) | Sets the table top coordinate. |
-| [SetColumnTextState](./setcolumntextstate/)(int32_t, System::SharedPtr\<Text::TextState\>) | Set height. |
+| [SetColumnTextState](./setcolumntextstate/)(int32_t, const System::SharedPtr\<Text::TextState\>\&) | Set height. |
 | [Table](./table/)() | Default ctor. |
 ## See Also
 

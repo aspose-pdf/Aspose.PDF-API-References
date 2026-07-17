@@ -19,7 +19,7 @@ void System::Collections::Generic::List<T>::Insert(int index, const T &item) ove
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to insert item into. |
+| index | int | [Index](../../../system/index/) to insert item into. |
 | item | const T\& | Item to insert. |
 
 ## See Also

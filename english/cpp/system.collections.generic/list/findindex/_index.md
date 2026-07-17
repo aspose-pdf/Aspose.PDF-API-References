@@ -19,13 +19,13 @@ int System::Collections::Generic::List<T>::FindIndex(int startIndex, int count, 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| startIndex | int | Index to start search from. |
+| startIndex | int | [Index](../../../system/index/) to start search from. |
 | count | int | Number of elements to look through. |
 | match | System::Predicate\<T\> | [Predicate](../../../system/predicate/) to check elements with. |
 
 ### ReturnValue
 
-Index of matching element or -1 if not found.
+[Index](../../../system/index/) of matching element or -1 if not found.
 
 ## See Also
 
@@ -45,12 +45,12 @@ int System::Collections::Generic::List<T>::FindIndex(int startIndex, System::Pre
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| startIndex | int | Index to start search from. |
+| startIndex | int | [Index](../../../system/index/) to start search from. |
 | match | System::Predicate\<T\> | [Predicate](../../../system/predicate/) to check elements with. |
 
 ### ReturnValue
 
-Index of matching element or -1 if not found.
+[Index](../../../system/index/) of matching element or -1 if not found.
 
 ## See Also
 
@@ -74,7 +74,7 @@ int System::Collections::Generic::List<T>::FindIndex(System::Predicate<T> match)
 
 ### ReturnValue
 
-Index of matching element or -1 if not found.
+[Index](../../../system/index/) of matching element or -1 if not found.
 
 ## See Also
 

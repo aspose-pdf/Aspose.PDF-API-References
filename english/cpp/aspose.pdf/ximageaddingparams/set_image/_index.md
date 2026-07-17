@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/ximageaddingparams/set_image/
 
 
 ```cpp
-void Aspose::Pdf::XImageAddingParams::set_Image(System::SharedPtr<System::Drawing::Image> value)
+void Aspose::Pdf::XImageAddingParams::set_Image(const System::SharedPtr<System::Drawing::Image> &value)
 ```
 
 ## See Also

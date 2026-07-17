@@ -27,6 +27,7 @@ The **[Aspose.Pdf.Security](./)** namespace contains classes used for encryption
 | [UnsignedContentAbsorber](./unsignedcontentabsorber/) | Represents a class for extracting unsigned content from a PDF file managed by digital signatures. |
 | [ValidationOptions](./validationoptions/) | Represents options for validating a digital signature in a PDF document. |
 | [ValidationResult](./validationresult/) | Represents the result of a validation process for a certificate. |
+| [VerificationResult](./verificationresult/) | Represents the result of verifying a digital signature in a PDF file. |
 ## Enums
 
 | Enum | Description |
@@ -36,6 +37,7 @@ The **[Aspose.Pdf.Security](./)** namespace contains classes used for encryption
 | [ValidationMethod](./validationmethod/) | Represents an enum defined the method used for certificate validation. |
 | [ValidationMode](./validationmode/) | Specifies the validation mode for PDF signature validation processes. |
 | [ValidationStatus](./validationstatus/) | Represents the validation status of a certificate validation. |
+| [VerificationState](./verificationstate/) | Specifies the state of a digital signature verification process in a PDF document. |
 ## Typedefs
 
 | Typedef | Description |

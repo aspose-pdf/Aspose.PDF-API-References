@@ -7,19 +7,19 @@ type: docs
 weight: 800
 url: /cpp/aspose.pdf.facades/pdffilesignature/extractcertificate/
 ---
-## PdfFileSignature::ExtractCertificate(System::SharedPtr\<SignatureName\>) method
+## PdfFileSignature::ExtractCertificate(const System::SharedPtr\<SignatureName\>\&) method
 
 
 Extracts signature's single X.509 certificate as a stream.
 
 ```cpp
-System::SharedPtr<System::IO::Stream> Aspose::Pdf::Facades::PdfFileSignature::ExtractCertificate(System::SharedPtr<SignatureName> signName)
+System::SharedPtr<System::IO::Stream> Aspose::Pdf::Facades::PdfFileSignature::ExtractCertificate(const System::SharedPtr<SignatureName> &signName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | System::SharedPtr\<SignatureName\> | The name of signature. |
+| signName | const System::SharedPtr\<SignatureName\>\& | The name of signature. |
 
 ### ReturnValue
 
@@ -33,19 +33,19 @@ If a certificate was found returns X.509 single certificate; otherwise, null.
 * Class [PdfFileSignature](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfFileSignature::ExtractCertificate(System::String) method
+## PdfFileSignature::ExtractCertificate(const System::String\&) method
 
 
 Extracts signature's single X.509 certificate as a stream.
 
 ```cpp
-System::SharedPtr<System::IO::Stream> Aspose::Pdf::Facades::PdfFileSignature::ExtractCertificate(System::String signName)
+System::SharedPtr<System::IO::Stream> Aspose::Pdf::Facades::PdfFileSignature::ExtractCertificate(const System::String &signName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| signName | System::String | The name of signature. |
+| signName | const System::String\& | The name of signature. |
 
 ### ReturnValue
 

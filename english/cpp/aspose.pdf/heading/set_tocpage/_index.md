@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/heading/set_tocpage/
 Gets the page that contains this heading.
 
 ```cpp
-void Aspose::Pdf::Heading::set_TocPage(System::SharedPtr<Aspose::Pdf::Page> value)
+void Aspose::Pdf::Heading::set_TocPage(const System::SharedPtr<Aspose::Pdf::Page> &value)
 ```
 
 ## See Also

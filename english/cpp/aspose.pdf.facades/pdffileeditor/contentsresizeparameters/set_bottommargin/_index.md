@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileeditor/contentsresizeparameters/set_bottomma
 Sets bottom margin on the resultant page.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileEditor::ContentsResizeParameters::set_BottomMargin(System::SharedPtr<PdfFileEditor::ContentsResizeValue> value)
+void Aspose::Pdf::Facades::PdfFileEditor::ContentsResizeParameters::set_BottomMargin(const System::SharedPtr<PdfFileEditor::ContentsResizeValue> &value)
 ```
 
 ## See Also

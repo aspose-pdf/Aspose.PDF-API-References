@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.lowcode/formtextboxfieldcreateoptions/formtextboxfieldcreat
 Initializes a new instance of the [FormTextBoxFieldCreateOptions](../) object, that containing parameters for created and added TextBoxField.
 
 ```cpp
-Aspose::Pdf::LowCode::FormTextBoxFieldCreateOptions::FormTextBoxFieldCreateOptions(int32_t pageNum, System::SharedPtr<Rectangle> rect)
+Aspose::Pdf::LowCode::FormTextBoxFieldCreateOptions::FormTextBoxFieldCreateOptions(int32_t pageNum, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pageNum | int32_t | [Page](../../../aspose.pdf/page/) number on which the added TextBoxField will be located. |
-| rect | System::SharedPtr\<Rectangle\> | Sets TextBoxField rectangle. |
+| rect | const System::SharedPtr\<Rectangle\>\& | Sets TextBoxField rectangle. |
 
 ## See Also
 

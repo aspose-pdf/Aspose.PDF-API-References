@@ -13,14 +13,14 @@ url: /cpp/aspose.pdf.annotations/xfdfreader/readfields/
 Import field values from XFDF file.
 
 ```cpp
-static void Aspose::Pdf::Annotations::XfdfReader::ReadFields(System::SharedPtr<System::IO::Stream> stream, System::SharedPtr<Document> document)
+static void Aspose::Pdf::Annotations::XfdfReader::ReadFields(const System::SharedPtr<System::IO::Stream> &stream, const System::SharedPtr<Document> &document)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| stream | System::SharedPtr\<System::IO::Stream\> | Stream containing XFDF data. |
-| document | System::SharedPtr\<Document\> | [Document](../../../aspose.pdf/document/) where fields data will be imported. |
+| stream | const System::SharedPtr\<System::IO::Stream\>\& | Stream containing XFDF data. |
+| document | const System::SharedPtr\<Document\>\& | [Document](../../../aspose.pdf/document/) where fields data will be imported. |
 
 ## See Also
 

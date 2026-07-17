@@ -21,8 +21,8 @@ class StructureAttributes : public System::Object
 | Method | Description |
 | --- | --- |
 | [get_Owner](./get_owner/)() | Gets standard attribute owner. |
-| [GetAttribute](./getattribute/)(System::SharedPtr\<AttributeKey\>) | Gets [StructureAttribute](../structureattribute/) by [AttributeKey](../attributekey/). |
-| [SetAttribute](./setattribute/)(System::SharedPtr\<StructureAttribute\>) | Sets [StructureAttribute](../structureattribute/) into [StructureAttributes](./). |
+| [GetAttribute](./getattribute/)(const System::SharedPtr\<AttributeKey\>\&) | Gets [StructureAttribute](../structureattribute/) by [AttributeKey](../attributekey/). |
+| [SetAttribute](./setattribute/)(const System::SharedPtr\<StructureAttribute\>\&) | Sets [StructureAttribute](../structureattribute/) into [StructureAttributes](./). |
 ## See Also
 
 * Class [Object](../../system/object/)

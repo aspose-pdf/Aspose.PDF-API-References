@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/buttonfield/set_rollovericon/
 Sets rollover icon of the button which shall be displayed when the user rolls the cursor into its active area without pressing the mouse button.
 
 ```cpp
-void Aspose::Pdf::Forms::ButtonField::set_RolloverIcon(System::SharedPtr<XForm> value)
+void Aspose::Pdf::Forms::ButtonField::set_RolloverIcon(const System::SharedPtr<XForm> &value)
 ```
 
 ## See Also

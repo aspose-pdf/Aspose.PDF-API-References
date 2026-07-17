@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilestamp/set_outputfile/
 Sets name and path of output file.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileStamp::set_OutputFile(System::String value)
+void Aspose::Pdf::Facades::PdfFileStamp::set_OutputFile(const System::String &value)
 ```
 
 

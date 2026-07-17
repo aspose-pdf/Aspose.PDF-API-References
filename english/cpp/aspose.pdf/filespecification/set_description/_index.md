@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/filespecification/set_description/
 Sets text associated with the file specification.
 
 ```cpp
-void Aspose::Pdf::FileSpecification::set_Description(System::String value)
+void Aspose::Pdf::FileSpecification::set_Description(const System::String &value)
 ```
 
 ## See Also

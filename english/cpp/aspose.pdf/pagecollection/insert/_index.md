@@ -32,20 +32,20 @@ Inserted page.
 * Class [PageCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PageCollection::Insert(int32_t, System::ArrayPtr\<System::SharedPtr\<Page\>\>) method
+## PageCollection::Insert(int32_t, const System::ArrayPtr\<System::SharedPtr\<Page\>\>\&) method
 
 
 Inserts pages of the array into document.
 
 ```cpp
-void Aspose::Pdf::PageCollection::Insert(int32_t pageNumber, System::ArrayPtr<System::SharedPtr<Page>> pages)
+void Aspose::Pdf::PageCollection::Insert(int32_t pageNumber, const System::ArrayPtr<System::SharedPtr<Page>> &pages)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pageNumber | int32_t | Starting number of the new pages. |
-| pages | System::ArrayPtr\<System::SharedPtr\<Page\>\> | Array of pages which will be inserted. |
+| pages | const System::ArrayPtr\<System::SharedPtr\<Page\>\>\& | Array of pages which will be inserted. |
 
 ## See Also
 
@@ -55,20 +55,20 @@ void Aspose::Pdf::PageCollection::Insert(int32_t pageNumber, System::ArrayPtr<Sy
 * Class [PageCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PageCollection::Insert(int32_t, System::SharedPtr\<Page\>) method
+## PageCollection::Insert(int32_t, const System::SharedPtr\<Page\>\&) method
 
 
 Inserts page into page collection at specified place.
 
 ```cpp
-System::SharedPtr<Page> Aspose::Pdf::PageCollection::Insert(int32_t pageNumber, System::SharedPtr<Page> entity)
+System::SharedPtr<Page> Aspose::Pdf::PageCollection::Insert(int32_t pageNumber, const System::SharedPtr<Page> &entity)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pageNumber | int32_t | Required page index in collection. |
-| entity | System::SharedPtr\<Page\> | [Page](../../page/) to be inserted. |
+| entity | const System::SharedPtr\<Page\>\& | [Page](../../page/) to be inserted. |
 
 ### ReturnValue
 
@@ -81,20 +81,20 @@ Inserted page.
 * Class [PageCollection](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PageCollection::Insert(int32_t, System::SharedPtr\<System::Collections::Generic::ICollection\<System::SharedPtr\<Page\>\>\>) method
+## PageCollection::Insert(int32_t, const System::SharedPtr\<System::Collections::Generic::ICollection\<System::SharedPtr\<Page\>\>\>\&) method
 
 
 Inserts pages from the collection into document.
 
 ```cpp
-void Aspose::Pdf::PageCollection::Insert(int32_t pageNumber, System::SharedPtr<System::Collections::Generic::ICollection<System::SharedPtr<Page>>> pages)
+void Aspose::Pdf::PageCollection::Insert(int32_t pageNumber, const System::SharedPtr<System::Collections::Generic::ICollection<System::SharedPtr<Page>>> &pages)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | pageNumber | int32_t | Starting position of the new pages. |
-| pages | System::SharedPtr\<System::Collections::Generic::ICollection\<System::SharedPtr\<Page\>\>\> | Pages collection. |
+| pages | const System::SharedPtr\<System::Collections::Generic::ICollection\<System::SharedPtr\<Page\>\>\>\& | Pages collection. |
 
 ## See Also
 

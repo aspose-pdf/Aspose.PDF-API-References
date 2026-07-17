@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.logicalstructure/tabletrelement/set_border/
 Sets the row border.
 
 ```cpp
-void Aspose::Pdf::LogicalStructure::TableTRElement::set_Border(System::SharedPtr<BorderInfo> value)
+void Aspose::Pdf::LogicalStructure::TableTRElement::set_Border(const System::SharedPtr<BorderInfo> &value)
 ```
 
 ## See Also

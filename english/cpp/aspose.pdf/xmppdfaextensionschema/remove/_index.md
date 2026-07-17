@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/xmppdfaextensionschema/remove/
 Removes the object from schema.
 
 ```cpp
-void Aspose::Pdf::XmpPdfAExtensionSchema::Remove(System::SharedPtr<XmpPdfAExtensionObject> obj)
+void Aspose::Pdf::XmpPdfAExtensionSchema::Remove(const System::SharedPtr<XmpPdfAExtensionObject> &obj)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| obj | System::SharedPtr\<XmpPdfAExtensionObject\> | The object to remove. |
+| obj | const System::SharedPtr\<XmpPdfAExtensionObject\>\& | The object to remove. |
 
 ## See Also
 

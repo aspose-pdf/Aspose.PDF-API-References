@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/printscalingconverter/toenum/
 Converts string representation of the value to the corresponding [PrintScaling](../../printscaling/) value.
 
 ```cpp
-static PrintScaling Aspose::Pdf::PrintScalingConverter::ToEnum(System::String value)
+static PrintScaling Aspose::Pdf::PrintScalingConverter::ToEnum(const System::String &value)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| value | System::String | String value to convert. |
+| value | const System::String\& | String value to convert. |
 
 ### ReturnValue
 

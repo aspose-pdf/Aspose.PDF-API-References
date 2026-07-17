@@ -30,10 +30,10 @@ class PageNumber : public System::Object
 | [get_TotalNum](./get_totalnum/)() const | Gets the total number of pages component of the page number format. The formatted string will include a placeholder for the total number of pages. |
 | [GetPageNumberString](./getpagenumberstring/)(int32_t, int32_t) | Returns a formatted string representing the page number based on the current settings. |
 | [PageNumber](./pagenumber/)() |  |
-| [set_Delimiter](./set_delimiter/)(System::String) | Sets the delimiter used in the page number format. The formatted string will be updated based on the specified delimiter. |
-| [set_Index](./set_index/)(System::SharedPtr\<PageNumber::PageIndex\>) | Sets the page index component of the page number format. The formatted string will include a placeholder for the page index. |
+| [set_Delimiter](./set_delimiter/)(const System::String\&) | Sets the delimiter used in the page number format. The formatted string will be updated based on the specified delimiter. |
+| [set_Index](./set_index/)(const System::SharedPtr\<PageNumber::PageIndex\>\&) | Sets the page index component of the page number format. The formatted string will include a placeholder for the page index. |
 | [set_Offset](./set_offset/)(int32_t) | Sets the offset to be added to the page index. |
-| [set_TotalNum](./set_totalnum/)(System::SharedPtr\<PageNumber::PageTotalNum\>) | Sets the total number of pages component of the page number format. The formatted string will include a placeholder for the total number of pages. |
+| [set_TotalNum](./set_totalnum/)(const System::SharedPtr\<PageNumber::PageTotalNum\>\&) | Sets the total number of pages component of the page number format. The formatted string will include a placeholder for the total number of pages. |
 ## See Also
 
 * Class [Object](../../system/object/)

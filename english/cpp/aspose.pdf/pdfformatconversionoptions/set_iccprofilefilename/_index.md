@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfformatconversionoptions/set_iccprofilefilename/
 Sets the filename of icc profile name. In case of null the default icc profile used.
 
 ```cpp
-void Aspose::Pdf::PdfFormatConversionOptions::set_IccProfileFileName(System::String value)
+void Aspose::Pdf::PdfFormatConversionOptions::set_IccProfileFileName(const System::String &value)
 ```
 
 ## See Also

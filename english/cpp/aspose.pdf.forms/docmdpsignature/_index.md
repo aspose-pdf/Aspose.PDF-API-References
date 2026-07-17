@@ -20,7 +20,7 @@ class DocMDPSignature : public System::Object
 
 | Method | Description |
 | --- | --- |
-| [DocMDPSignature](./docmdpsignature/)(System::SharedPtr\<Aspose::Pdf::Forms::Signature\>, DocMDPAccessPermissions) | Initializes a new instance of the [DocMDPSignature](./) class. |
+| [DocMDPSignature](./docmdpsignature/)(const System::SharedPtr\<Aspose::Pdf::Forms::Signature\>\&, DocMDPAccessPermissions) | Initializes a new instance of the [DocMDPSignature](./) class. |
 | [get_AccessPermissions](./get_accesspermissions/)() const | Returns the access permissions granted for this document. |
 ## See Also
 

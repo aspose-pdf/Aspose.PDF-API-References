@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/filespecification/set_params/
 Gets file paramteres.
 
 ```cpp
-void Aspose::Pdf::FileSpecification::set_Params(System::SharedPtr<FileParams> value)
+void Aspose::Pdf::FileSpecification::set_Params(const System::SharedPtr<FileParams> &value)
 ```
 
 ## See Also

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/floatingbox/set_backgroundimage/
 Sets background image for page (for generator only, not filled in when reading document).
 
 ```cpp
-void Aspose::Pdf::FloatingBox::set_BackgroundImage(System::SharedPtr<Image> value)
+void Aspose::Pdf::FloatingBox::set_BackgroundImage(const System::SharedPtr<Image> &value)
 ```
 
 ## See Also

@@ -34,20 +34,20 @@ class AnnotationActionCollection : public Aspose::Pdf::BaseActionCollection
 | [get_OnReleaseMouseBtn](./get_onreleasemousebtn/)() | Gets an action to be performed when the mouse button is released inside the annotation's active area. |
 | [get_OnShowPage](./get_onshowpage/)() | Gets an action to be performed when the page containing the annotation becomes visible in the viewer application's user interface. |
 | [get_OnValidate](./get_onvalidate/)() | Gets an action to be performed when user changes contents of the field. |
-| [set_OnCalculate](./set_oncalculate/)(System::SharedPtr\<PdfAction\>) | Sets an action to calculate field value. |
-| [set_OnClosePage](./set_onclosepage/)(System::SharedPtr\<PdfAction\>) | Sets an action to be performed when the page containing the annotation is closed. |
-| [set_OnEnter](./set_onenter/)(System::SharedPtr\<PdfAction\>) | Sets an action to be performed when the cursor enters the annotation's active area. |
-| [set_OnExit](./set_onexit/)(System::SharedPtr\<PdfAction\>) | Sets an action to be performed when the cursor exits the annotation's active area. |
-| [set_OnFormat](./set_onformat/)(System::SharedPtr\<PdfAction\>) | Sets an action to be performed to format field value. |
-| [set_OnHidePage](./set_onhidepage/)(System::SharedPtr\<PdfAction\>) | Sets an action to be performed when the page containing the annotation is no longer visible in the viewer application's user interface. |
-| [set_OnLostFocus](./set_onlostfocus/)(System::SharedPtr\<PdfAction\>) | Sets an action to be performed when the annotation loses the input focus. |
-| [set_OnModifyCharacter](./set_onmodifycharacter/)(System::SharedPtr\<PdfAction\>) | Sets an action to be performed when user modifies character of the field. |
-| [set_OnOpenPage](./set_onopenpage/)(System::SharedPtr\<PdfAction\>) | Sets an action to be performed when the page containing the annotation is opened. |
-| [set_OnPressMouseBtn](./set_onpressmousebtn/)(System::SharedPtr\<PdfAction\>) | Sets an action to be performed when the mouse button is pressed inside the annotation's active area. |
-| [set_OnReceiveFocus](./set_onreceivefocus/)(System::SharedPtr\<PdfAction\>) | Sets an action to be performed when the annotation receives the input focus. |
-| [set_OnReleaseMouseBtn](./set_onreleasemousebtn/)(System::SharedPtr\<PdfAction\>) | Sets an action to be performed when the mouse button is released inside the annotation's active area. |
-| [set_OnShowPage](./set_onshowpage/)(System::SharedPtr\<PdfAction\>) | Sets an action to be performed when the page containing the annotation becomes visible in the viewer application's user interface. |
-| [set_OnValidate](./set_onvalidate/)(System::SharedPtr\<PdfAction\>) | Sets an action to be performed when user changes contents of the field. |
+| [set_OnCalculate](./set_oncalculate/)(const System::SharedPtr\<PdfAction\>\&) | Sets an action to calculate field value. |
+| [set_OnClosePage](./set_onclosepage/)(const System::SharedPtr\<PdfAction\>\&) | Sets an action to be performed when the page containing the annotation is closed. |
+| [set_OnEnter](./set_onenter/)(const System::SharedPtr\<PdfAction\>\&) | Sets an action to be performed when the cursor enters the annotation's active area. |
+| [set_OnExit](./set_onexit/)(const System::SharedPtr\<PdfAction\>\&) | Sets an action to be performed when the cursor exits the annotation's active area. |
+| [set_OnFormat](./set_onformat/)(const System::SharedPtr\<PdfAction\>\&) | Sets an action to be performed to format field value. |
+| [set_OnHidePage](./set_onhidepage/)(const System::SharedPtr\<PdfAction\>\&) | Sets an action to be performed when the page containing the annotation is no longer visible in the viewer application's user interface. |
+| [set_OnLostFocus](./set_onlostfocus/)(const System::SharedPtr\<PdfAction\>\&) | Sets an action to be performed when the annotation loses the input focus. |
+| [set_OnModifyCharacter](./set_onmodifycharacter/)(const System::SharedPtr\<PdfAction\>\&) | Sets an action to be performed when user modifies character of the field. |
+| [set_OnOpenPage](./set_onopenpage/)(const System::SharedPtr\<PdfAction\>\&) | Sets an action to be performed when the page containing the annotation is opened. |
+| [set_OnPressMouseBtn](./set_onpressmousebtn/)(const System::SharedPtr\<PdfAction\>\&) | Sets an action to be performed when the mouse button is pressed inside the annotation's active area. |
+| [set_OnReceiveFocus](./set_onreceivefocus/)(const System::SharedPtr\<PdfAction\>\&) | Sets an action to be performed when the annotation receives the input focus. |
+| [set_OnReleaseMouseBtn](./set_onreleasemousebtn/)(const System::SharedPtr\<PdfAction\>\&) | Sets an action to be performed when the mouse button is released inside the annotation's active area. |
+| [set_OnShowPage](./set_onshowpage/)(const System::SharedPtr\<PdfAction\>\&) | Sets an action to be performed when the page containing the annotation becomes visible in the viewer application's user interface. |
+| [set_OnValidate](./set_onvalidate/)(const System::SharedPtr\<PdfAction\>\&) | Sets an action to be performed when user changes contents of the field. |
 ## See Also
 
 * Class [BaseActionCollection](../../aspose.pdf/baseactioncollection/)

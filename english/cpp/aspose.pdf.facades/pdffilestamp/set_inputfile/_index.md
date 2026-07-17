@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilestamp/set_inputfile/
 Sets name and path of input file.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileStamp::set_InputFile(System::String value)
+void Aspose::Pdf::Facades::PdfFileStamp::set_InputFile(const System::String &value)
 ```
 
 

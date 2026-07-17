@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/numberfield/set_allowedchars/
 Sets the allowed chars.
 
 ```cpp
-void Aspose::Pdf::Forms::NumberField::set_AllowedChars(System::String value)
+void Aspose::Pdf::Forms::NumberField::set_AllowedChars(const System::String &value)
 ```
 
 ## Remarks

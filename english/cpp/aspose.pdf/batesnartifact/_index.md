@@ -26,9 +26,9 @@ class BatesNArtifact : public Aspose::Pdf::PaginationArtifact
 | [get_StartNumber](./get_startnumber/)() const | Gets the starting number for Bates numbering. The value must be greater than or equal to 1. If a value less than 1 is set, it will be adjusted to 1. |
 | [get_Suffix](./get_suffix/)() const | Gets the suffix to be added to the Bates number. |
 | [set_NumberOfDigits](./set_numberofdigits/)(int32_t) | Sets the number of digits for Bates numbering. The value must be between 3 and 15 inclusive. If a value less than 3 is set, it will be adjusted to 3. If a value greater than 15 is set, it will be adjusted to 15. The default value is 6. |
-| [set_Prefix](./set_prefix/)(System::String) | Sets the prefix to be added to the Bates number. |
+| [set_Prefix](./set_prefix/)(const System::String\&) | Sets the prefix to be added to the Bates number. |
 | [set_StartNumber](./set_startnumber/)(int32_t) | Sets the starting number for Bates numbering. The value must be greater than or equal to 1. If a value less than 1 is set, it will be adjusted to 1. |
-| [set_Suffix](./set_suffix/)(System::String) | Sets the suffix to be added to the Bates number. |
+| [set_Suffix](./set_suffix/)(const System::String\&) | Sets the suffix to be added to the Bates number. |
 ## See Also
 
 * Class [PaginationArtifact](../paginationartifact/)

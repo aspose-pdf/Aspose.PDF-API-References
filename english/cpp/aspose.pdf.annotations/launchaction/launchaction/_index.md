@@ -7,20 +7,20 @@ type: docs
 weight: 100
 url: /cpp/aspose.pdf.annotations/launchaction/launchaction/
 ---
-## LaunchAction::LaunchAction(System::SharedPtr\<Document\>, System::String) constructor
+## LaunchAction::LaunchAction(const System::SharedPtr\<Document\>\&, const System::String\&) constructor
 
 
 Creates a launch action.
 
 ```cpp
-Aspose::Pdf::Annotations::LaunchAction::LaunchAction(System::SharedPtr<Document> document, System::String file)
+Aspose::Pdf::Annotations::LaunchAction::LaunchAction(const System::SharedPtr<Document> &document, const System::String &file)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Document\> | [Document](../../../aspose.pdf/document/) where action will be created. |
-| file | System::String | The file to be launched. |
+| document | const System::SharedPtr\<Document\>\& | [Document](../../../aspose.pdf/document/) where action will be created. |
+| file | const System::String\& | The file to be launched. |
 
 ## See Also
 
@@ -30,19 +30,19 @@ Aspose::Pdf::Annotations::LaunchAction::LaunchAction(System::SharedPtr<Document>
 * Class [LaunchAction](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
-## LaunchAction::LaunchAction(System::String) constructor
+## LaunchAction::LaunchAction(const System::String\&) constructor
 
 
 Creates a launch action.
 
 ```cpp
-Aspose::Pdf::Annotations::LaunchAction::LaunchAction(System::String file)
+Aspose::Pdf::Annotations::LaunchAction::LaunchAction(const System::String &file)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| file | System::String | The file to be launched. |
+| file | const System::String\& | The file to be launched. |
 
 ## See Also
 

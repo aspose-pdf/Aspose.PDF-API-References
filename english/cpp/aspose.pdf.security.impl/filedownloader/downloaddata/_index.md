@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.security.impl/filedownloader/downloaddata/
 Downloads data from the specified URL using the provided timeout.
 
 ```cpp
-static System::ArrayPtr<uint8_t> Aspose::Pdf::Security::Impl::FileDownloader::DownloadData(System::String url, int32_t timeout)
+static System::ArrayPtr<uint8_t> Aspose::Pdf::Security::Impl::FileDownloader::DownloadData(const System::String &url, int32_t timeout)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| url | System::String | The URL to download data from. |
+| url | const System::String\& | The URL to download data from. |
 | timeout | int32_t | The timeout value in milliseconds for the download operation. |
 
 ### ReturnValue

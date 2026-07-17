@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.text/fontcollection/add/
 Adds new font to font resources and returns automatically assigned name of font resource.
 
 ```cpp
-void Aspose::Pdf::Text::FontCollection::Add(System::SharedPtr<Font> newFont, System::String &resName)
+void Aspose::Pdf::Text::FontCollection::Add(const System::SharedPtr<Font> &newFont, System::String &resName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| newFont | System::SharedPtr\<Font\> | [Font](../../font/) object. |
+| newFont | const System::SharedPtr\<Font\>\& | [Font](../../font/) object. |
 | resName | System::String\& | The automatically assigned resource item name. |
 
 ## See Also

@@ -21,20 +21,20 @@ Aspose::Pdf::Forms::ButtonField::ButtonField()
 * Class [ButtonField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## ButtonField::ButtonField(System::SharedPtr\<Aspose::Pdf::Page\>, System::SharedPtr\<Rectangle\>) constructor
+## ButtonField::ButtonField(const System::SharedPtr\<Aspose::Pdf::Page\>\&, const System::SharedPtr\<Rectangle\>\&) constructor
 
 
 [ButtonField](../) constructor.
 
 ```cpp
-Aspose::Pdf::Forms::ButtonField::ButtonField(System::SharedPtr<Aspose::Pdf::Page> page, System::SharedPtr<Rectangle> rect)
+Aspose::Pdf::Forms::ButtonField::ButtonField(const System::SharedPtr<Aspose::Pdf::Page> &page, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| page | System::SharedPtr\<Aspose::Pdf::Page\> | [Page](../../../aspose.pdf/page/) where button will be placed. |
-| rect | System::SharedPtr\<Rectangle\> | [Rectangle](../../../aspose.pdf/rectangle/) where button is placed on the page. |
+| page | const System::SharedPtr\<Aspose::Pdf::Page\>\& | [Page](../../../aspose.pdf/page/) where button will be placed. |
+| rect | const System::SharedPtr\<Rectangle\>\& | [Rectangle](../../../aspose.pdf/rectangle/) where button is placed on the page. |
 
 ## See Also
 
@@ -44,20 +44,20 @@ Aspose::Pdf::Forms::ButtonField::ButtonField(System::SharedPtr<Aspose::Pdf::Page
 * Class [ButtonField](../)
 * Namespace [Aspose::Pdf::Forms](../../)
 * Library [Aspose.PDF for C++](../../../)
-## ButtonField::ButtonField(System::SharedPtr\<Document\>, System::SharedPtr\<Rectangle\>) constructor
+## ButtonField::ButtonField(const System::SharedPtr\<Document\>\&, const System::SharedPtr\<Rectangle\>\&) constructor
 
 
 [ButtonField](../) constructore.
 
 ```cpp
-Aspose::Pdf::Forms::ButtonField::ButtonField(System::SharedPtr<Document> doc, System::SharedPtr<Rectangle> rect)
+Aspose::Pdf::Forms::ButtonField::ButtonField(const System::SharedPtr<Document> &doc, const System::SharedPtr<Rectangle> &rect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| doc | System::SharedPtr\<Document\> | Docuemtn where new field will be created. |
-| rect | System::SharedPtr\<Rectangle\> | [Rectangle](../../../aspose.pdf/rectangle/) hwere button is placed on the page. |
+| doc | const System::SharedPtr\<Document\>\& | Docuemtn where new field will be created. |
+| rect | const System::SharedPtr\<Rectangle\>\& | [Rectangle](../../../aspose.pdf/rectangle/) hwere button is placed on the page. |
 
 ## See Also
 

@@ -30,17 +30,17 @@ class TimestampOptions : public Aspose::Pdf::LowCode::PdfConverterOptions
 | [get_SigLocation](./get_siglocation/)() const | Location for the signature. |
 | [get_SigReason](./get_sigreason/)() const | Reason for the signature. |
 | [get_Visible](./get_visible/)() const | Visibility flag – false for a pure timestamp (no visible annotation). |
-| [set_BasicAuthCredentials](./set_basicauthcredentials/)(System::String) | Sets the basic authentication credentials, Username and password are combined into a string "username:password". |
+| [set_BasicAuthCredentials](./set_basicauthcredentials/)(const System::String\&) | Sets the basic authentication credentials, Username and password are combined into a string "username:password". |
 | [set_DigestHashAlgorithm](./set_digesthashalgorithm/)(Aspose::Pdf::DigestHashAlgorithm) | Digest hash algorithm to use for the timestamp. Defaults to Sha256. |
 | [set_PageNumber](./set_pagenumber/)(int32_t) | [Page](../../aspose.pdf/page/) number on which the timestamped signature will be applied. |
 | [set_Rectangle](./set_rectangle/)(System::Drawing::Rectangle) | [Rectangle](../../aspose.pdf/rectangle/) defining the annotation area (ignored when Visible is false). |
-| [set_ServerUrl](./set_serverurl/)(System::String) | URL of the timestamp server. |
-| [set_SigContact](./set_sigcontact/)(System::String) | Contact information for the signature. |
-| [set_SigLocation](./set_siglocation/)(System::String) | Location for the signature. |
-| [set_SigReason](./set_sigreason/)(System::String) | Reason for the signature. |
+| [set_ServerUrl](./set_serverurl/)(const System::String\&) | URL of the timestamp server. |
+| [set_SigContact](./set_sigcontact/)(const System::String\&) | Contact information for the signature. |
+| [set_SigLocation](./set_siglocation/)(const System::String\&) | Location for the signature. |
+| [set_SigReason](./set_sigreason/)(const System::String\&) | Reason for the signature. |
 | [set_Visible](./set_visible/)(bool) | Visibility flag – false for a pure timestamp (no visible annotation). |
-| [TimestampOptions](./timestampoptions/)(System::String, System::String) | Creates a new instance with a PFX file path and password. |
-| [TimestampOptions](./timestampoptions/)(System::SharedPtr\<System::IO::Stream\>, System::String) | Creates a new instance with a PFX stream and password. |
+| [TimestampOptions](./timestampoptions/)(const System::String\&, const System::String\&) | Creates a new instance with a PFX file path and password. |
+| [TimestampOptions](./timestampoptions/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&) | Creates a new instance with a PFX stream and password. |
 | [TimestampOptions](./timestampoptions/)() | Creates a new instance with default values. Used to sing TSA with a PFX file. |
 ## See Also
 

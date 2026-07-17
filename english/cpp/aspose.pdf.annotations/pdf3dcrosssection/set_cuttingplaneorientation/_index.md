@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/pdf3dcrosssection/set_cuttingplaneorientation/
 Sets the cutting plane orientation.
 
 ```cpp
-void Aspose::Pdf::Annotations::PDF3DCrossSection::set_CuttingPlaneOrientation(System::SharedPtr<PDF3DCuttingPlaneOrientation> value)
+void Aspose::Pdf::Annotations::PDF3DCrossSection::set_CuttingPlaneOrientation(const System::SharedPtr<PDF3DCuttingPlaneOrientation> &value)
 ```
 
 ## Remarks

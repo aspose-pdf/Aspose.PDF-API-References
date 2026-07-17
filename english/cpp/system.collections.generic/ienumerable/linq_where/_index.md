@@ -4,7 +4,7 @@ linktitle: LINQ_Where
 second_title: Aspose.PDF for C++ API Reference
 description: 'System::Collections::Generic::IEnumerable::LINQ_Where method. Filters a sequence based on the specified predicate in C++.'
 type: docs
-weight: 3100
+weight: 3300
 url: /cpp/system.collections.generic/ienumerable/linq_where/
 ---
 ## IEnumerable::LINQ_Where method

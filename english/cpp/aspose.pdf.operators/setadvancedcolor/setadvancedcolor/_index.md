@@ -21,13 +21,55 @@ Aspose::Pdf::Operators::SetAdvancedColor::SetAdvancedColor()
 * Class [SetAdvancedColor](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)
-## SetAdvancedColor::SetAdvancedColor(double, double, double, double, System::String) constructor
+## SetAdvancedColor::SetAdvancedColor(const System::ArrayPtr\<double\>\&, const System::String\&) constructor
 
 
 Constructor for scn operator.
 
 ```cpp
-Aspose::Pdf::Operators::SetAdvancedColor::SetAdvancedColor(double c, double m, double y, double k, System::String patternName)
+Aspose::Pdf::Operators::SetAdvancedColor::SetAdvancedColor(const System::ArrayPtr<double> &colors, const System::String &patternName)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| patternName | const System::ArrayPtr\<double\>\& | Pattern name. |
+| colors | const System::String\& | [Color](../../../aspose.pdf/color/) array. |
+
+## See Also
+
+* Typedef [ArrayPtr](../../../system/arrayptr/)
+* Class [String](../../../system/string/)
+* Class [SetAdvancedColor](../)
+* Namespace [Aspose::Pdf::Operators](../../)
+* Library [Aspose.PDF for C++](../../../)
+## SetAdvancedColor::SetAdvancedColor(const System::String\&) constructor
+
+
+Constructor for scn operator.
+
+```cpp
+Aspose::Pdf::Operators::SetAdvancedColor::SetAdvancedColor(const System::String &patternName)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| patternName | const System::String\& | Pattern name. |
+
+## See Also
+
+* Class [String](../../../system/string/)
+* Class [SetAdvancedColor](../)
+* Namespace [Aspose::Pdf::Operators](../../)
+* Library [Aspose.PDF for C++](../../../)
+## SetAdvancedColor::SetAdvancedColor(double, double, double, double, const System::String\&) constructor
+
+
+Constructor for scn operator.
+
+```cpp
+Aspose::Pdf::Operators::SetAdvancedColor::SetAdvancedColor(double c, double m, double y, double k, const System::String &patternName)
 ```
 
 
@@ -37,7 +79,7 @@ Aspose::Pdf::Operators::SetAdvancedColor::SetAdvancedColor(double c, double m, d
 | m | double | Magenta component of the color. |
 | y | double | Yellow component of the color. |
 | k | double | Black component of the color. |
-| patternName | System::String | Pattern name. |
+| patternName | const System::String\& | Pattern name. |
 
 ## See Also
 
@@ -64,20 +106,20 @@ Aspose::Pdf::Operators::SetAdvancedColor::SetAdvancedColor(double g)
 * Class [SetAdvancedColor](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)
-## SetAdvancedColor::SetAdvancedColor(double, System::String) constructor
+## SetAdvancedColor::SetAdvancedColor(double, const System::String\&) constructor
 
 
 Constructor for scn operator.
 
 ```cpp
-Aspose::Pdf::Operators::SetAdvancedColor::SetAdvancedColor(double g, System::String patternName)
+Aspose::Pdf::Operators::SetAdvancedColor::SetAdvancedColor(double g, const System::String &patternName)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
 | g | double | [Color](../../../aspose.pdf/color/) value. |
-| patternName | System::String | Pattern name. |
+| patternName | const System::String\& | Pattern name. |
 
 ## See Also
 
@@ -85,13 +127,13 @@ Aspose::Pdf::Operators::SetAdvancedColor::SetAdvancedColor(double g, System::Str
 * Class [SetAdvancedColor](../)
 * Namespace [Aspose::Pdf::Operators](../../)
 * Library [Aspose.PDF for C++](../../../)
-## SetAdvancedColor::SetAdvancedColor(double, double, double, System::String) constructor
+## SetAdvancedColor::SetAdvancedColor(double, double, double, const System::String\&) constructor
 
 
 Constructor for scn operator.
 
 ```cpp
-Aspose::Pdf::Operators::SetAdvancedColor::SetAdvancedColor(double r, double g, double b, System::String patternName)
+Aspose::Pdf::Operators::SetAdvancedColor::SetAdvancedColor(double r, double g, double b, const System::String &patternName)
 ```
 
 
@@ -100,49 +142,7 @@ Aspose::Pdf::Operators::SetAdvancedColor::SetAdvancedColor(double r, double g, d
 | r | double | Red component of the color. |
 | g | double | Green component of the color. |
 | b | double | Blue component of the color. |
-| patternName | System::String | Pattern name. |
-
-## See Also
-
-* Class [String](../../../system/string/)
-* Class [SetAdvancedColor](../)
-* Namespace [Aspose::Pdf::Operators](../../)
-* Library [Aspose.PDF for C++](../../../)
-## SetAdvancedColor::SetAdvancedColor(System::ArrayPtr\<double\>, System::String) constructor
-
-
-Constructor for scn operator.
-
-```cpp
-Aspose::Pdf::Operators::SetAdvancedColor::SetAdvancedColor(System::ArrayPtr<double> colors, System::String patternName)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| patternName | System::ArrayPtr\<double\> | Pattern name. |
-| colors | System::String | [Color](../../../aspose.pdf/color/) array. |
-
-## See Also
-
-* Typedef [ArrayPtr](../../../system/arrayptr/)
-* Class [String](../../../system/string/)
-* Class [SetAdvancedColor](../)
-* Namespace [Aspose::Pdf::Operators](../../)
-* Library [Aspose.PDF for C++](../../../)
-## SetAdvancedColor::SetAdvancedColor(System::String) constructor
-
-
-Constructor for scn operator.
-
-```cpp
-Aspose::Pdf::Operators::SetAdvancedColor::SetAdvancedColor(System::String patternName)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| patternName | System::String | Pattern name. |
+| patternName | const System::String\& | Pattern name. |
 
 ## See Also
 

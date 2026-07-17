@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.annotations/gotouriaction/set_uri/
 Sets the uniform resource identifier to resolve.
 
 ```cpp
-void Aspose::Pdf::Annotations::GoToURIAction::set_URI(System::String value)
+void Aspose::Pdf::Annotations::GoToURIAction::set_URI(const System::String &value)
 ```
 
 ## See Also

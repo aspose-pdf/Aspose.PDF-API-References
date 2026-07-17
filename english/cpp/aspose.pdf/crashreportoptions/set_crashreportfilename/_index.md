@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/crashreportoptions/set_crashreportfilename/
 Filename for crash report. By default is auto-generated in format CrashReport_<date>_<ticks>.html".
 
 ```cpp
-void Aspose::Pdf::CrashReportOptions::set_CrashReportFilename(System::String value)
+void Aspose::Pdf::CrashReportOptions::set_CrashReportFilename(const System::String &value)
 ```
 
 ## See Also

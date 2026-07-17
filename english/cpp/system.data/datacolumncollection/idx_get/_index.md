@@ -19,7 +19,7 @@ System::SharedPtr<DataColumn> System::Data::DataColumnCollection::idx_get(const 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | const int32_t | Index of column to retrieve. |
+| index | const int32_t | [Index](../../../system/index/) of column to retrieve. |
 
 ### ReturnValue
 

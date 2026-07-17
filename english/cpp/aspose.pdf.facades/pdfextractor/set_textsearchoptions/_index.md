@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfextractor/set_textsearchoptions/
 Sets text search options.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfExtractor::set_TextSearchOptions(System::SharedPtr<Aspose::Pdf::Text::TextSearchOptions> value)
+void Aspose::Pdf::Facades::PdfExtractor::set_TextSearchOptions(const System::SharedPtr<Aspose::Pdf::Text::TextSearchOptions> &value)
 ```
 
 ## See Also

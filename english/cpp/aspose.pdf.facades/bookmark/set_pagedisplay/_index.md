@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/bookmark/set_pagedisplay/
 Sets the type of display bookmark's destination page.
 
 ```cpp
-void Aspose::Pdf::Facades::Bookmark::set_PageDisplay(System::String value)
+void Aspose::Pdf::Facades::Bookmark::set_PageDisplay(const System::String &value)
 ```
 
 ## See Also

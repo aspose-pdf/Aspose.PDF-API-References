@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/page/set_trimbox/
 Sets trim box of the page.
 
 ```cpp
-void Aspose::Pdf::Page::set_TrimBox(System::SharedPtr<Aspose::Pdf::Rectangle> value)
+void Aspose::Pdf::Page::set_TrimBox(const System::SharedPtr<Aspose::Pdf::Rectangle> &value)
 ```
 
 ## See Also

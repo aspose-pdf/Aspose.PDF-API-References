@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/rectangle/join/
 Joins rectangles.
 
 ```cpp
-System::SharedPtr<Rectangle> Aspose::Pdf::Rectangle::Join(System::SharedPtr<Rectangle> otherRect)
+System::SharedPtr<Rectangle> Aspose::Pdf::Rectangle::Join(const System::SharedPtr<Rectangle> &otherRect)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| otherRect | System::SharedPtr\<Rectangle\> | [Rectangle](../) to which this recatangle be joined. |
+| otherRect | const System::SharedPtr\<Rectangle\>\& | [Rectangle](../) to which this recatangle be joined. |
 
 ### ReturnValue
 

@@ -48,14 +48,14 @@ class Annotation : public Aspose::Pdf::BaseParagraph
 | [GetRectangle](./getrectangle/)(bool) | Returns rectangle of annotation taking into consideration page rotation. |
 | virtual [set_ActiveState](./set_activestate/)(System::String) | Sets current annotation appearance state. |
 | [set_Alignment](./set_alignment/)(TextAlignment) | [Annotation](./) alignment. This property is obsolete. Use HorizontalAligment instead. |
-| [set_Border](./set_border/)(System::SharedPtr\<Aspose::Pdf::Annotations::Border\>) | Sets annotation border characteristics. [Border](../border/) |
-| [set_Color](./set_color/)(System::SharedPtr\<Aspose::Pdf::Color\>) | Sets annotation color. |
-| [set_Contents](./set_contents/)(System::String) | Sets annotation text. |
+| [set_Border](./set_border/)(const System::SharedPtr\<Aspose::Pdf::Annotations::Border\>\&) | Sets annotation border characteristics. [Border](../border/) |
+| [set_Color](./set_color/)(const System::SharedPtr\<Aspose::Pdf::Color\>\&) | Sets annotation color. |
+| [set_Contents](./set_contents/)(const System::String\&) | Sets annotation text. |
 | [set_Flags](./set_flags/)(AnnotationFlags) | Flags of the annotation. |
 | virtual [set_Height](./set_height/)(double) | Sets height of the annotation. |
 | [set_HorizontalAlignment](./set_horizontalalignment/)(Aspose::Pdf::HorizontalAlignment) override | Sets text alignment for annotation. |
 | [set_Modified](./set_modified/)(System::DateTime) | Sets date and time when annotation was recently modified. |
-| [set_Name](./set_name/)(System::String) | Sets annotation name on the page. |
+| [set_Name](./set_name/)(const System::String\&) | Sets annotation name on the page. |
 | virtual [set_Rect](./set_rect/)(System::SharedPtr\<Rectangle\>) | Sets annotation rectangle. |
 | [set_TextHorizontalAlignment](./set_texthorizontalalignment/)(Aspose::Pdf::HorizontalAlignment) | Sets text alignment for annotation. |
 | static [set_UpdateAppearanceOnConvert](./set_updateappearanceonconvert/)(bool) | If true, annotation appearance will be updated before converting PF document into image. This allows convert fields correctly but probably demand more time. |

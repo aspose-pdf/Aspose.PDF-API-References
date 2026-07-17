@@ -20,7 +20,7 @@ class FormTextBoxFieldCreateOptions : public Aspose::Pdf::LowCode::FormFieldCrea
 
 | Method | Description |
 | --- | --- |
-| [FormTextBoxFieldCreateOptions](./formtextboxfieldcreateoptions/)(int32_t, System::SharedPtr\<Rectangle\>) | Initializes a new instance of the [FormTextBoxFieldCreateOptions](./) object, that containing parameters for created and added TextBoxField. |
+| [FormTextBoxFieldCreateOptions](./formtextboxfieldcreateoptions/)(int32_t, const System::SharedPtr\<Rectangle\>\&) | Initializes a new instance of the [FormTextBoxFieldCreateOptions](./) object, that containing parameters for created and added TextBoxField. |
 | [get_ForceCombs](./get_forcecombs/)() const | Gets/sets the value to determine whether created TextBoxField is forcecombs or not (if will be set). |
 | [get_MaxLen](./get_maxlen/)() const | Gets/sets the value to determine property MaxLen for created TextBoxField (if will be set). |
 | [get_Multiline](./get_multiline/)() const | Gets/sets the value to determine whether created TextBoxField is multiline or not (if will be set). |

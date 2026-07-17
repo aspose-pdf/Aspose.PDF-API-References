@@ -20,8 +20,8 @@ class FitRExplicitDestination : public Aspose::Pdf::Annotations::ExplicitDestina
 
 | Method | Description |
 | --- | --- |
-| [FitRExplicitDestination](./fitrexplicitdestination/)(System::SharedPtr\<Aspose::Pdf::Page\>, double, double, double, double) | Creates local explicit destination. |
-| [FitRExplicitDestination](./fitrexplicitdestination/)(System::SharedPtr\<Document\>, int32_t, double, double, double, double) | Creates remote explicit destination. |
+| [FitRExplicitDestination](./fitrexplicitdestination/)(const System::SharedPtr\<Aspose::Pdf::Page\>\&, double, double, double, double) | Creates local explicit destination. |
+| [FitRExplicitDestination](./fitrexplicitdestination/)(const System::SharedPtr\<Document\>\&, int32_t, double, double, double, double) | Creates remote explicit destination. |
 | [FitRExplicitDestination](./fitrexplicitdestination/)(int32_t, double, double, double, double) | Creates remote explicit destination. |
 | [get_Bottom](./get_bottom/)() | Gets bottom vertical coordinate of visible rectangle. |
 | [get_Left](./get_left/)() | Gets left horizontal coordinate of visible rectangle. |

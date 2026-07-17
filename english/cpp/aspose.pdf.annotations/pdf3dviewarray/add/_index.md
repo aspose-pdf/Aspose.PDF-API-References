@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.annotations/pdf3dviewarray/add/
 Adds the specified view.
 
 ```cpp
-void Aspose::Pdf::Annotations::PDF3DViewArray::Add(System::SharedPtr<PDF3DView> view)
+void Aspose::Pdf::Annotations::PDF3DViewArray::Add(const System::SharedPtr<PDF3DView> &view)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| view | System::SharedPtr\<PDF3DView\> | The view. |
+| view | const System::SharedPtr\<PDF3DView\>\& | The view. |
 
 ## See Also
 

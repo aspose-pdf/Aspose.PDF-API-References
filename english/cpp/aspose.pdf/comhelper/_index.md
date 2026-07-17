@@ -20,15 +20,15 @@ class ComHelper : public System::Object
 
 | Method | Description |
 | --- | --- |
-| [OpenFile](./openfile/)(System::String) | Just create and return [Document](../document/) using *filename* . The same as [Document(Stream)](../). |
-| [OpenFile](./openfile/)(System::String, System::String) | Initialize and return new instance of the [Document](../document/) class for working with encrypted document. |
-| [OpenFile](./openfile/)(System::String, System::String, bool) | Initialize new instance of the [Document](../document/) class for working with encrypted document. |
-| [OpenFile](./openfile/)(System::String, System::SharedPtr\<LoadOptions\>) | Open an existing document from a file providing necessary converting oprions to get pdf document. |
-| [OpenStream](./openstream/)(System::SharedPtr\<System::IO::Stream\>) | Initialize and return new [Document](../document/) instance from the *input*  stream. |
-| [OpenStream](./openstream/)(System::SharedPtr\<System::IO::Stream\>, System::String) | Initialize and return new [Document](../document/) instance from the *input*  stream. |
-| [OpenStream](./openstream/)(System::SharedPtr\<System::IO::Stream\>, bool) | Initialize and return new [Document](../document/) instance from the *input*  stream. |
-| [OpenStream](./openstream/)(System::SharedPtr\<System::IO::Stream\>, System::String, bool) | Initialize and return new [Document](../document/) instance from the *input*  stream. |
-| [OpenStream](./openstream/)(System::SharedPtr\<System::IO::Stream\>, System::SharedPtr\<LoadOptions\>) | Open and return an existing document from a stream providing necessary converting to get pdf document. |
+| [OpenFile](./openfile/)(const System::String\&) | Just create and return [Document](../document/) using *filename* . The same as [Document(Stream)](../). |
+| [OpenFile](./openfile/)(const System::String\&, const System::String\&) | Initialize and return new instance of the [Document](../document/) class for working with encrypted document. |
+| [OpenFile](./openfile/)(const System::String\&, const System::String\&, bool) | Initialize new instance of the [Document](../document/) class for working with encrypted document. |
+| [OpenFile](./openfile/)(const System::String\&, const System::SharedPtr\<LoadOptions\>\&) | Open an existing document from a file providing necessary converting oprions to get pdf document. |
+| [OpenStream](./openstream/)(const System::SharedPtr\<System::IO::Stream\>\&) | Initialize and return new [Document](../document/) instance from the *input*  stream. |
+| [OpenStream](./openstream/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&) | Initialize and return new [Document](../document/) instance from the *input*  stream. |
+| [OpenStream](./openstream/)(const System::SharedPtr\<System::IO::Stream\>\&, bool) | Initialize and return new [Document](../document/) instance from the *input*  stream. |
+| [OpenStream](./openstream/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::String\&, bool) | Initialize and return new [Document](../document/) instance from the *input*  stream. |
+| [OpenStream](./openstream/)(const System::SharedPtr\<System::IO::Stream\>\&, const System::SharedPtr\<LoadOptions\>\&) | Open and return an existing document from a stream providing necessary converting to get pdf document. |
 ## Remarks
 
 

@@ -29,20 +29,20 @@ Aspose::Pdf::Artifact::Artifact(Artifact::ArtifactType type, Artifact::ArtifactS
 * Class [Artifact](../)
 * Namespace [Aspose::Pdf](../../)
 * Library [Aspose.PDF for C++](../../../)
-## Artifact::Artifact(System::String, System::String) constructor
+## Artifact::Artifact(const System::String\&, const System::String\&) constructor
 
 
 Constructor of artifact with specified type and subtype.
 
 ```cpp
-Aspose::Pdf::Artifact::Artifact(System::String type, System::String subType)
+Aspose::Pdf::Artifact::Artifact(const System::String &type, const System::String &subType)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| type | System::String | Name of artifact type. |
-| subType | System::String | NAme of artifact subtype. |
+| type | const System::String\& | Name of artifact type. |
+| subType | const System::String\& | NAme of artifact subtype. |
 
 ## See Also
 

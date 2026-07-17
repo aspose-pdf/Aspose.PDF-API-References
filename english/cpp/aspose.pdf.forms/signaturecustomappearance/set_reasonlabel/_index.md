@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.forms/signaturecustomappearance/set_reasonlabel/
 Gets/sets reason label. Default value: "Reason".
 
 ```cpp
-void Aspose::Pdf::Forms::SignatureCustomAppearance::set_ReasonLabel(System::String value)
+void Aspose::Pdf::Forms::SignatureCustomAppearance::set_ReasonLabel(const System::String &value)
 ```
 
 ## See Also

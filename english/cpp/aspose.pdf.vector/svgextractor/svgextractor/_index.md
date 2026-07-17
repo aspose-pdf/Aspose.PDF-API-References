@@ -21,19 +21,19 @@ Aspose::Pdf::Vector::SvgExtractor::SvgExtractor()
 * Class [SvgExtractor](../)
 * Namespace [Aspose::Pdf::Vector](../../)
 * Library [Aspose.PDF for C++](../../../)
-## SvgExtractor::SvgExtractor(System::SharedPtr\<SvgExtractionOptions\>) constructor
+## SvgExtractor::SvgExtractor(const System::SharedPtr\<SvgExtractionOptions\>\&) constructor
 
 
 Represents a class to extract SVG images from a page.
 
 ```cpp
-Aspose::Pdf::Vector::SvgExtractor::SvgExtractor(System::SharedPtr<SvgExtractionOptions> options)
+Aspose::Pdf::Vector::SvgExtractor::SvgExtractor(const System::SharedPtr<SvgExtractionOptions> &options)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| options | System::SharedPtr\<SvgExtractionOptions\> | The extraction options. |
+| options | const System::SharedPtr\<SvgExtractionOptions\>\& | The extraction options. |
 
 ## See Also
 

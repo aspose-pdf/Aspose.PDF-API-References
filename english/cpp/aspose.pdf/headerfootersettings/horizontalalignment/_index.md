@@ -23,9 +23,9 @@ class HorizontalAlignment : public System::Object
 | [get_Center](./get_center/)() const | Gets the center alignment settings. |
 | [get_Left](./get_left/)() const | Gets the left alignment settings. |
 | [get_Right](./get_right/)() const | Gets the right alignment settings. |
-| [set_Center](./set_center/)(System::SharedPtr\<Aspose::Pdf::Center\>) | Sets the center alignment settings. |
-| [set_Left](./set_left/)(System::SharedPtr\<Aspose::Pdf::Left\>) | Sets the left alignment settings. |
-| [set_Right](./set_right/)(System::SharedPtr\<Aspose::Pdf::Right\>) | Sets the right alignment settings. |
+| [set_Center](./set_center/)(const System::SharedPtr\<Aspose::Pdf::Center\>\&) | Sets the center alignment settings. |
+| [set_Left](./set_left/)(const System::SharedPtr\<Aspose::Pdf::Left\>\&) | Sets the left alignment settings. |
+| [set_Right](./set_right/)(const System::SharedPtr\<Aspose::Pdf::Right\>\&) | Sets the right alignment settings. |
 ## See Also
 
 * Class [Object](../../../system/object/)

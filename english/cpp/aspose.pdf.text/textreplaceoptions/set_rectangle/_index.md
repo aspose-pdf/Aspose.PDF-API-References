@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.text/textreplaceoptions/set_rectangle/
 Sets the rectangle to fit the text after replacement.
 
 ```cpp
-void Aspose::Pdf::Text::TextReplaceOptions::set_Rectangle(System::SharedPtr<Aspose::Pdf::Rectangle> value)
+void Aspose::Pdf::Text::TextReplaceOptions::set_Rectangle(const System::SharedPtr<Aspose::Pdf::Rectangle> &value)
 ```
 
 ## See Also

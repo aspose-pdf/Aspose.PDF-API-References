@@ -19,7 +19,7 @@ void System::Collections::Generic::List<T>::InsertRange(int index, IEnumerablePt
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to insert data at. |
+| index | int | [Index](../../../system/index/) to insert data at. |
 | collection | IEnumerablePtr | Collection of elements to insert. |
 
 ## See Also

@@ -22,8 +22,8 @@ class ShFill : public Aspose::Pdf::Operator
 | --- | --- |
 | [Accept](./accept/)(const System::SharedPtr\<IOperatorSelector\>\&) override | Accepts visitor object to process operator. |
 | [get_Name](./get_name/)() const | Gets the shading name. |
-| [set_Name](./set_name/)(System::String) | Sets the shading name. |
-| [ShFill](./shfill/)(System::String) | Initializes operator. |
+| [set_Name](./set_name/)(const System::String\&) | Sets the shading name. |
+| [ShFill](./shfill/)(const System::String\&) | Initializes operator. |
 ## See Also
 
 * Class [Operator](../../aspose.pdf/operator/)

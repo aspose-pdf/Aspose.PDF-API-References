@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.text/tableabsorber/remove/
 Removes an [AbsorbedTable](../../absorbedtable/) from the page.
 
 ```cpp
-void Aspose::Pdf::Text::TableAbsorber::Remove(System::SharedPtr<AbsorbedTable> table)
+void Aspose::Pdf::Text::TableAbsorber::Remove(const System::SharedPtr<AbsorbedTable> &table)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| table | System::SharedPtr\<AbsorbedTable\> | [AbsorbedTable](../../absorbedtable/) to remove. |
+| table | const System::SharedPtr\<AbsorbedTable\>\& | [AbsorbedTable](../../absorbedtable/) to remove. |
 ## Remarks
 
 

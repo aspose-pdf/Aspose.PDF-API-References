@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf/pdfformatconversionoptions/set_autotaggingsettings/
 Sets the settings for automatic tagging during PDF format conversion.
 
 ```cpp
-void Aspose::Pdf::PdfFormatConversionOptions::set_AutoTaggingSettings(System::SharedPtr<Aspose::Pdf::AutoTaggingSettings> value)
+void Aspose::Pdf::PdfFormatConversionOptions::set_AutoTaggingSettings(const System::SharedPtr<Aspose::Pdf::AutoTaggingSettings> &value)
 ```
 
 ## Remarks

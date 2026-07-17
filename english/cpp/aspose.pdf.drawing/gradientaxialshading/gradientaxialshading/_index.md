@@ -21,20 +21,20 @@ Aspose::Pdf::Drawing::GradientAxialShading::GradientAxialShading()
 * Class [GradientAxialShading](../)
 * Namespace [Aspose::Pdf::Drawing](../../)
 * Library [Aspose.PDF for C++](../../../)
-## GradientAxialShading::GradientAxialShading(System::SharedPtr\<Color\>, System::SharedPtr\<Color\>) constructor
+## GradientAxialShading::GradientAxialShading(const System::SharedPtr\<Color\>\&, const System::SharedPtr\<Color\>\&) constructor
 
 
 Initializes a new instance of the [GradientAxialShading](../) class.
 
 ```cpp
-Aspose::Pdf::Drawing::GradientAxialShading::GradientAxialShading(System::SharedPtr<Color> startColor, System::SharedPtr<Color> endColor)
+Aspose::Pdf::Drawing::GradientAxialShading::GradientAxialShading(const System::SharedPtr<Color> &startColor, const System::SharedPtr<Color> &endColor)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| startColor | System::SharedPtr\<Color\> | The start point. |
-| endColor | System::SharedPtr\<Color\> | The end point. |
+| startColor | const System::SharedPtr\<Color\>\& | The start point. |
+| endColor | const System::SharedPtr\<Color\>\& | The end point. |
 
 ## See Also
 

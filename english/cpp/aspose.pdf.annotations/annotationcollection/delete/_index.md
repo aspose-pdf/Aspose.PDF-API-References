@@ -21,6 +21,27 @@ void Aspose::Pdf::Annotations::AnnotationCollection::Delete()
 * Class [AnnotationCollection](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)
+## AnnotationCollection::Delete(const System::SharedPtr\<Annotation\>\&) method
+
+
+Deletes specified annotation from the collection.
+
+```cpp
+void Aspose::Pdf::Annotations::AnnotationCollection::Delete(const System::SharedPtr<Annotation> &annotation)
+```
+
+
+| Parameter | Type | Description |
+| --- | --- | --- |
+| annotation | const System::SharedPtr\<Annotation\>\& | [Annotation](../../annotation/) which shall be deleted. |
+
+## See Also
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [Annotation](../../annotation/)
+* Class [AnnotationCollection](../)
+* Namespace [Aspose::Pdf::Annotations](../../)
+* Library [Aspose.PDF for C++](../../../)
 ## AnnotationCollection::Delete(int32_t) method
 
 
@@ -37,27 +58,6 @@ void Aspose::Pdf::Annotations::AnnotationCollection::Delete(int32_t index)
 
 ## See Also
 
-* Class [AnnotationCollection](../)
-* Namespace [Aspose::Pdf::Annotations](../../)
-* Library [Aspose.PDF for C++](../../../)
-## AnnotationCollection::Delete(System::SharedPtr\<Annotation\>) method
-
-
-Deletes specified annotation from the collection.
-
-```cpp
-void Aspose::Pdf::Annotations::AnnotationCollection::Delete(System::SharedPtr<Annotation> annotation)
-```
-
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| annotation | System::SharedPtr\<Annotation\> | [Annotation](../../annotation/) which shall be deleted. |
-
-## See Also
-
-* Typedef [SharedPtr](../../../system/sharedptr/)
-* Class [Annotation](../../annotation/)
 * Class [AnnotationCollection](../)
 * Namespace [Aspose::Pdf::Annotations](../../)
 * Library [Aspose.PDF for C++](../../../)

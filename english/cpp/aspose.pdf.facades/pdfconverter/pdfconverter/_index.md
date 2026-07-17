@@ -21,19 +21,19 @@ Aspose::Pdf::Facades::PdfConverter::PdfConverter()
 * Class [PdfConverter](../)
 * Namespace [Aspose::Pdf::Facades](../../)
 * Library [Aspose.PDF for C++](../../../)
-## PdfConverter::PdfConverter(System::SharedPtr\<Aspose::Pdf::Document\>) constructor
+## PdfConverter::PdfConverter(const System::SharedPtr\<Aspose::Pdf::Document\>\&) constructor
 
 
 Initializes new [PdfConverter](../) object on base of the *document* .
 
 ```cpp
-Aspose::Pdf::Facades::PdfConverter::PdfConverter(System::SharedPtr<Aspose::Pdf::Document> document)
+Aspose::Pdf::Facades::PdfConverter::PdfConverter(const System::SharedPtr<Aspose::Pdf::Document> &document)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| document | System::SharedPtr\<Aspose::Pdf::Document\> | [Pdf](../../../aspose.pdf/) document. |
+| document | const System::SharedPtr\<Aspose::Pdf::Document\>\& | [Pdf](../../../aspose.pdf/) document. |
 
 ## See Also
 

@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.lowcode/htmltopdfoptions/set_basepath/
 The base path/url for the html file.
 
 ```cpp
-void Aspose::Pdf::LowCode::HtmlToPdfOptions::set_BasePath(System::String value)
+void Aspose::Pdf::LowCode::HtmlToPdfOptions::set_BasePath(const System::String &value)
 ```
 
 ## See Also

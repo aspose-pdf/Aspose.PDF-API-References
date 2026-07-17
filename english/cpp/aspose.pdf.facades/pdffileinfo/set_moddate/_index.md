@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffileinfo/set_moddate/
 Sets the ModDate date information of PDF document.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileInfo::set_ModDate(System::String value)
+void Aspose::Pdf::Facades::PdfFileInfo::set_ModDate(const System::String &value)
 ```
 
 ## See Also

@@ -19,7 +19,7 @@ virtual T System::Collections::Generic::IKVCollection<T>::idx_get(int index) con
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| index | int | Index to get element from. |
+| index | int | [Index](../../../system/index/) to get element from. |
 
 ### ReturnValue
 

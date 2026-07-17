@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf/artifactcollection/update/
 Update artifact inside the collection.
 
 ```cpp
-void Aspose::Pdf::ArtifactCollection::Update(System::SharedPtr<Artifact> artifact)
+void Aspose::Pdf::ArtifactCollection::Update(const System::SharedPtr<Artifact> &artifact)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| artifact | System::SharedPtr\<Artifact\> | [Artifact](../../artifact/) to be updated. |
+| artifact | const System::SharedPtr\<Artifact\>\& | [Artifact](../../artifact/) to be updated. |
 
 ## See Also
 

@@ -13,13 +13,13 @@ url: /cpp/aspose.pdf.logicalstructure/structureattribute/structureattribute/
 Initializes a new instance of the [StructureAttribute](../).
 
 ```cpp
-Aspose::Pdf::LogicalStructure::StructureAttribute::StructureAttribute(System::SharedPtr<AttributeKey> attributeKey)
+Aspose::Pdf::LogicalStructure::StructureAttribute::StructureAttribute(const System::SharedPtr<AttributeKey> &attributeKey)
 ```
 
 
 | Parameter | Type | Description |
 | --- | --- | --- |
-| attributeKey | System::SharedPtr\<AttributeKey\> | Attribute Key |
+| attributeKey | const System::SharedPtr\<AttributeKey\>\& | Attribute Key |
 
 ## See Also
 

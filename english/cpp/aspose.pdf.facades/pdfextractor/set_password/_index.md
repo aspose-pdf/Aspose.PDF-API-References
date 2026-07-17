@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdfextractor/set_password/
 Sets input file's password.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfExtractor::set_Password(System::String value)
+void Aspose::Pdf::Facades::PdfExtractor::set_Password(const System::String &value)
 ```
 
 ## See Also

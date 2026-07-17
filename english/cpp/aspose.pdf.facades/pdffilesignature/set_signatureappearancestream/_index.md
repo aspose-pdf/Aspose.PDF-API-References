@@ -13,7 +13,7 @@ url: /cpp/aspose.pdf.facades/pdffilesignature/set_signatureappearancestream/
 Sets or gets a graphic appearance for the signature. Property value represents image stream.
 
 ```cpp
-void Aspose::Pdf::Facades::PdfFileSignature::set_SignatureAppearanceStream(System::SharedPtr<System::IO::Stream> value)
+void Aspose::Pdf::Facades::PdfFileSignature::set_SignatureAppearanceStream(const System::SharedPtr<System::IO::Stream> &value)
 ```
 
 ## See Also
