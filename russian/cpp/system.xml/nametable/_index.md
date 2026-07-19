@@ -1,0 +1,43 @@
+---
+title: "Класс System::Xml::NameTable"
+linktitle: "NameTable"
+second_title: "Справочник API Aspose.PDF для C++"
+description: "Класс System::Xml::NameTable. Реализует однопоточный XmlNameTable в C++."
+type: docs
+weight: 500
+url: /ru/cpp/system.xml/nametable/
+---
+## NameTable class
+
+
+Реализует однопоточный [XmlNameTable](../xmlnametable/).
+
+```cpp
+class NameTable : public System::Xml::XmlNameTable
+```
+
+## Методы
+
+| Метод | Описание |
+| --- | --- |
+| [Add](./add/)(const String\&) override | Атомизирует указанную строку и добавляет её в [NameTable](./). |
+| [Add](./add/)(const ArrayPtr\<char16_t\>\&, int32_t, int32_t) override | Атомизирует указанную строку и добавляет её в [NameTable](./). |
+| [Get](./get/)(const String\&) override | Возвращает атомизированную строку с указанным значением. |
+| [Get](./get/)(const ArrayPtr\<char16_t\>\&, int32_t, int32_t) override | Возвращает атомизированную строку, содержащую те же символы, что и указанный диапазон символов в данном массиве. |
+| [NameTable](./nametable/)() | Инициализирует новый экземпляр класса [NameTable](./). |
+## Typedefs
+
+| Типовое определение | Описание |
+| --- | --- |
+| [Ptr](./ptr/) | Псевдоним для shared pointer к экземпляру этого класса. |
+## Примечания
+
+
+
+Объекты этого класса должны выделяться только с помощью функции [System::MakeObject()](../../system/makeobject/). Никогда не создавайте экземпляры этого типа в стеке или с помощью оператора new, так как это приведёт к ошибкам выполнения и/или сбоям утверждений. Всегда оборачивайте этот класс в указатель [System::SmartPtr](../../system/smartptr/) и используйте этот указатель для передачи его в функции в качестве аргумента.
+
+## См. также
+
+* Class [XmlNameTable](../xmlnametable/)
+* Namespace [System::Xml](../)
+* Library [Aspose.PDF for C++](../../)

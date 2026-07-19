@@ -1,0 +1,23 @@
+---
+title: "Aspose::Pdf::PageCollection::get_IsSynchronized метод"
+linktitle: "get_IsSynchronized"
+second_title: "Справочник API Aspose.PDF для C++"
+description: "Aspose::Pdf::PageCollection::get_IsSynchronized метод. Возвращает true, если объект синхронизирован в C++."
+type: docs
+weight: 1400
+url: /ru/cpp/aspose.pdf/pagecollection/get_issynchronized/
+---
+## PageCollection::get_IsSynchronized method
+
+
+Возвращает true, если объект синхронизирован.
+
+```cpp
+bool Aspose::Pdf::PageCollection::get_IsSynchronized()
+```
+
+## См. также
+
+* Class [PageCollection](../)
+* Namespace [Aspose::Pdf](../../)
+* Library [Aspose.PDF for C++](../../../)
