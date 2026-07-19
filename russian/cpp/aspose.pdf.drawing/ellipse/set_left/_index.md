@@ -1,0 +1,23 @@
+---
+title: "метод Aspose::Pdf::Drawing::Ellipse::set_Left"
+linktitle: "set_Left"
+second_title: "Справочник API Aspose.PDF для C++"
+description: "Метод Aspose::Pdf::Drawing::Ellipse::set_Left. Устанавливает значение типа float, которое указывает левую позицию эллипса в C++."
+type: docs
+weight: 900
+url: /ru/cpp/aspose.pdf.drawing/ellipse/set_left/
+---
+## Ellipse::set_Left method
+
+
+Устанавливает значение типа float, указывающее левую позицию эллипса.
+
+```cpp
+void Aspose::Pdf::Drawing::Ellipse::set_Left(double value)
+```
+
+## См. также
+
+* Class [Ellipse](../)
+* Namespace [Aspose::Pdf::Drawing](../../)
+* Library [Aspose.PDF for C++](../../../)

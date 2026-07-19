@@ -1,0 +1,24 @@
+---
+title: "Aspose::Pdf::Operators::DP::get_Tag метод"
+linktitle: "get_Tag"
+second_title: "Справочник API Aspose.PDF для C++"
+description: "Aspose::Pdf::Operators::DP::get_Tag метод. Получает тег помеченного контента в C++."
+type: docs
+weight: 300
+url: /ru/cpp/aspose.pdf.operators/dp/get_tag/
+---
+## DP::get_Tag method
+
+
+Получает тег помеченного контента.
+
+```cpp
+System::String Aspose::Pdf::Operators::DP::get_Tag() const
+```
+
+## См. также
+
+* Class [String](../../../system/string/)
+* Class [DP](../)
+* Namespace [Aspose::Pdf::Operators](../../)
+* Library [Aspose.PDF for C++](../../../)
