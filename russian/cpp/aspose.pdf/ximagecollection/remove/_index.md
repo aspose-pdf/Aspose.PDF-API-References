@@ -2,8 +2,7 @@
 title: "Aspose::Pdf::XImageCollection::Remove метод"
 linktitle: "Remove"
 second_title: "Справочник API Aspose.PDF для C++"
-description: "'Aspose::Pdf::XImageCollection::Remove метод. Удаляет элемент из коллекции, бросает NotImplementedException"
- in C++.'
+description: "Aspose::Pdf::XImageCollection::Remove метод. Удаляет элемент из коллекции, бросает NotImplementedException in C++."
 type: docs
 weight: 1500
 url: /ru/cpp/aspose.pdf/ximagecollection/remove/

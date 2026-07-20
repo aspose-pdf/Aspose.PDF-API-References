@@ -2,8 +2,7 @@
 title: "Aspose::Pdf::Forms::OptionCollection::Remove метод"
 linktitle: "Remove"
 second_title: "Справочник API Aspose.PDF для C++"
-description: "'Aspose::Pdf::Forms::OptionCollection::Remove метод. Удаляет элемент из коллекции, бросает NotImplementedException"
- in C++.'
+description: "Aspose::Pdf::Forms::OptionCollection::Remove метод. Удаляет элемент из коллекции, бросает NotImplementedException in C++."
 type: docs
 weight: 1200
 url: /ru/cpp/aspose.pdf.forms/optioncollection/remove/

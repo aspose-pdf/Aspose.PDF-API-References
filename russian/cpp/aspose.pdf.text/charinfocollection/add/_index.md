@@ -2,8 +2,7 @@
 title: "Метод Aspose::Pdf::Text::CharInfoCollection::Add"
 linktitle: "Add"
 second_title: "Справочник API Aspose.PDF для C++"
-description: "'Aspose::Pdf::Text::CharInfoCollection::Add method. Коллекция только для чтения, бросает NotImplementedException"
- in C++.'
+description: "Aspose::Pdf::Text::CharInfoCollection::Add method. Коллекция только для чтения, бросает NotImplementedException in C++."
 type: docs
 weight: 100
 url: /ru/cpp/aspose.pdf.text/charinfocollection/add/

@@ -2,8 +2,7 @@
 title: "Aspose::Pdf::Forms::OptionCollection::Contains метод"
 linktitle: "Contains"
 second_title: "Справочник API Aspose.PDF для C++"
-description: "'Aspose::Pdf::Forms::OptionCollection::Contains метод. Проверяет, существует ли элемент в коллекции, бросает NotImplementedException"
- in C++.'
+description: "Aspose::Pdf::Forms::OptionCollection::Contains метод. Проверяет, существует ли элемент в коллекции, бросает NotImplementedException in C++."
 type: docs
 weight: 300
 url: /ru/cpp/aspose.pdf.forms/optioncollection/contains/

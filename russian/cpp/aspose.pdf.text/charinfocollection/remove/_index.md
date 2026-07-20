@@ -2,8 +2,7 @@
 title: "Aspose::Pdf::Text::CharInfoCollection::Remove method"
 linktitle: "Remove"
 second_title: "Справочник API Aspose.PDF для C++"
-description: "'Aspose::Pdf::Text::CharInfoCollection::Remove method. Коллекция только для чтения, бросает NotImplementedException"
- in C++.'
+description: "Aspose::Pdf::Text::CharInfoCollection::Remove method. Коллекция только для чтения, бросает NotImplementedException in C++."
 type: docs
 weight: 1100
 url: /ru/cpp/aspose.pdf.text/charinfocollection/remove/
