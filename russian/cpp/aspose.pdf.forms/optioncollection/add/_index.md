@@ -2,8 +2,7 @@
 title: "Метод Aspose::Pdf::Forms::OptionCollection::Add"
 linktitle: "Add"
 second_title: "Справочник API Aspose.PDF для C++"
-description: "'Метод Aspose::Pdf::Forms::OptionCollection::Add. Добавляет элемент в коллекцию, бросает NotImplementedException"
- in C++.'
+description: "Метод Aspose::Pdf::Forms::OptionCollection::Add. Добавляет элемент в коллекцию, генерирует NotImplementedException в C++."
 type: docs
 weight: 100
 url: /ru/cpp/aspose.pdf.forms/optioncollection/add/
