@@ -1,0 +1,107 @@
+---
+title: "Aspose::Pdf::HtmlSaveOptions class"
+linktitle: "HtmlSaveOptions"
+second_title: "Referencia de API de Aspose.PDF para C++"
+description: "Clase Aspose::Pdf::HtmlSaveOptions. Opciones de guardado para exportar al formato Html en C++."
+type: docs
+weight: 7300
+url: /es/cpp/aspose.pdf/htmlsaveoptions/
+---
+## HtmlSaveOptions class
+
+
+Opciones de guardado para exportar al formato HTML.
+
+```cpp
+class HtmlSaveOptions : public Aspose::Pdf::UnifiedSaveOptions,
+                        public Aspose::Pdf::IPageSetOptions,
+                        public Aspose::Pdf::IPipelineOptions
+```
+
+## Nested classes
+
+* Class [CssSavingInfo](./csssavinginfo/)
+* Class [CssUrlRequestInfo](./cssurlrequestinfo/)
+* Class [HtmlImageSavingInfo](./htmlimagesavinginfo/)
+* Class [HtmlPageMarkupSavingInfo](./htmlpagemarkupsavinginfo/)
+## Enums
+
+| Enumeración | Descripción |
+| --- | --- |
+| [AntialiasingProcessingType](./antialiasingprocessingtype/) | Este enum describe posibles medidas de antialiasing durante la conversión. |
+| [FontEncodingRules](./fontencodingrules/) | Esta enumeración define reglas que afinan la lógica de codificación. |
+| [FontSavingModes](./fontsavingmodes/) | Enumera los modos que pueden usarse para guardar fuentes referenciadas en el PDF guardado. |
+| [HtmlImageType](./htmlimagetype/) | Enumera los tipos posibles de archivos de imagen que pueden guardarse como recursos externos durante la conversión de [Pdf](../) a Html. |
+| [HtmlMarkupGenerationModes](./htmlmarkupgenerationmodes/) | A veces existen requisitos específicos para el HTML creado. Este enum define los modos de preparación de HTML que pueden usarse durante la conversión de PDF a HTML para cumplir con dichos requisitos específicos. |
+| [ImageParentTypes](./imageparenttypes/) | Enumera los tipos posibles de padres de imágenes que [Image](../image/) puede pertenecer a una página HTML o a una imagen padre SVG. |
+| [LettersPositioningMethods](./letterspositioningmethods/) | Enumera los modos posibles de posicionamiento de letras en palabras en el HTML resultante. |
+| [PartsEmbeddingModes](./partsembeddingmodes/) | Este enum enumera los modos posibles de incrustación de archivos referenciados en HTML. Permite controlar si los archivos referenciados (HTML, fuentes, imágenes, CSS) se incrustarán en el archivo HTML principal o se generarán como entidades binarias separadas. |
+| [RasterImagesSavingModes](./rasterimagessavingmodes/) | El PDF convertido puede contener imágenes raster (.png, *.jpeg, etc.). Este enum define los métodos de cómo pueden manejarse las imágenes raster durante la conversión de PDF a HTML. |
+## Métodos
+
+| Método | Descripción |
+| --- | --- |
+| [get_AdditionalMarginWidthInPoints](./get_additionalmarginwidthinpoints/)() const | Si el atributo 'SplitOnPages=false', entonces todo el HTML que representa todas las páginas PDF de entrada no se dividirá en diferentes páginas HTML, sino que se colocará en un único archivo HTML resultante grande. Pero cada página PDF origen se representará con su propia área rectangular en HTML (si es necesario, esas áreas pueden estar delimitadas para mostrar los bordes del papel de la página con el atributo especial 'PageBorderIfAny'). Este parámetro define el ancho del margen que se dejará obligatoriamente alrededor de esas áreas HTML de salida que representan las páginas del documento PDF origen. En esencia, define el intervalo garantizado entre las representaciones HTML de las páginas "paper" del PDF en dicho modo de conversión. |
+| [get_BatchSize](./get_batchsize/)() override | Define el tamaño del lote si la conversión por lotes es aplicable al par de formatos de origen y destino. |
+| [get_CompressSvgGraphicsIfAny](./get_compresssvggraphicsifany/)() const | Obtiene la bandera que indica si los gráficos SVG encontrados (si los hay) se comprimirán (en zip) al formato SVGZ durante el guardado. |
+| [get_ConvertMarkedContentToLayers](./get_convertmarkedcontenttolayers/)() const | Si el atributo ConvertMarkedContentToLayers está configurado a true, entonces todos los elementos dentro de un contenido marcado PDF (capa) se colocarán en un div HTML con el atributo "data-pdflayer" que especifica un nombre de capa. Este nombre de capa se extraerá de las propiedades opcionales del contenido marcado PDF. Si este atributo es false (por defecto), entonces no se crearán capas a partir del contenido marcado PDF. |
+| [get_DefaultFontName](./get_defaultfontname/)() const | Especifica el nombre de una fuente instalada que se usa para sustituir cualquier fuente del documento que no esté incrustada y no esté instalada en el sistema. Si es null, se usará la fuente de sustitución predeterminada. |
+| [get_DocumentType](./get_documenttype/)() const | Obtiene el [HtmlDocumentType](../htmldocumenttype/). |
+| [get_ExplicitListOfSavedPages](./get_explicitlistofsavedpages/)() override | Con esta propiedad puedes definir explícitamente qué páginas del documento deben convertirse. Las páginas en esta lista deben tener números basados en 1. Es decir, los números válidos de páginas deben tomarse del rango (1...[NumberOfPagesInConvertedDocument]). El orden de aparición de las páginas en esta lista no afecta su orden en la(s) página(s) HTML resultante(s); en las páginas resultantes siempre se mantendrá el orden en que aparecen en el PDF de origen. Si esta lista es nula (como es por defecto), se convertirán todas las páginas. Si algún número de página de esta lista está fuera del rango de páginas presentes (1-[amountOfPagesInDocument]) se lanzará una excepción. |
+| [get_FixedLayout](./get_fixedlayout/)() const | Obtiene un valor que indica si ese HTML se crea como diseño fijo. |
+| [get_FlowLayoutParagraphFullWidth](./get_flowlayoutparagraphfullwidth/)() const | Este atributo especifica texto de párrafo de ancho completo para el modo [Flow](../../aspose.pdf.flow/), FixedLayout = false. |
+| [get_FontSources](./get_fontsources/)() const | Fuentes de origen de fuentes preguardadas. |
+| [get_IgnoredTextFontSize](./get_ignoredtextfontsize/)() const | [Text](../../aspose.pdf.text/) con el tamaño especificado o menor será ignorado durante la conversión. No eliminamos este texto, lo ignoramos y no lo transferimos al archivo de salida. |
+| [get_IgnoreResourceFontErrors](./get_ignoreresourcefonterrors/)() const | Obtiene la indicación de que los errores relacionados con la ausencia de fuentes serán ignorados. true - significa que los errores de ausencia de fuentes serán ignorados. Los segmentos de [Text](../../aspose.pdf.text/) que hacen referencia a recursos incorrectos se omitirán durante el procesamiento. false por defecto. |
+| [get_ImageResolution](./get_imageresolution/)() const | Obtiene la resolución para la renderización de imágenes. |
+| [get_MinimalLineWidth](./get_minimallinewidth/)() const | Este atributo establece el ancho mínimo de la línea de la ruta gráfica. Si el grosor de la línea es inferior a 1 px, Adobe Acrobat lo redondea a este valor. Por lo tanto, este atributo puede usarse para emular este comportamiento en navegadores HTML. |
+| [get_PreventGlyphsGrouping](./get_preventglyphsgrouping/)() const | Este atributo activa el modo en el que los glifos de texto no se agruparán en palabras y cadenas. Este modo permite mantener la máxima precisión al posicionar los glifos en la página y puede usarse para convertir documentos con notas musicales o glifos que deben colocarse por separado. Este parámetro se aplicará al documento solo cuando el valor del atributo FixedLayout sea true. |
+| [get_RenderTextAsImage](./get_rendertextasimage/)() const | Si el atributo RenderTextAsImage se establece en true, el texto de origen se convierte en una imagen en HTML. Puede ser útil para hacer que el texto no sea seleccionable o cuando el texto HTML no se renderiza correctamente. |
+| [get_SaveFullFont](./get_savefullfont/)() const | Indica que se guardará la fuente completa, solo admite fuentes True Type. Por defecto, SaveFullFont = false y el convertidor guarda el subconjunto de la fuente inicial necesario para mostrar el texto del documento. |
+| [get_SimpleTextboxModeGrouping](./get_simpletextboxmodegrouping/)() const | Este atributo especifica una agrupación secuencial de glifos y palabras en cadenas. Por ejemplo, las etiquetas y las palabras tienen un orden diferente en el HTML convertido y deseas que coincidan. Este parámetro se aplicará al documento solo cuando el valor del atributo FixedLayout sea true. |
+| [get_SplitCssIntoPages](./get_splitcssintopages/)() const | Cuando se selecciona el modo multipágina (es decir, 'SplitIntoPages' es 'true'), este atributo define si se debe crear un archivo CSS separado para cada página HTML resultante. Por defecto, este atributo es false, por lo que se crea un único CSS común para todas las páginas creadas. El tamaño total de todos los CSS generados en este modo (un CSS por página) suele ser mucho mayor que el tamaño de un único CSS grande, porque en el primer caso las clases CSS se duplican en varios archivos CSS para cada página. Por lo tanto, esta configuración solo debería usarse cuando estés interesado en procesar cada página HTML de forma independiente en el futuro, y por consiguiente el tamaño del CSS de cada página individual sea el factor más crítico. |
+| [get_SplitIntoPages](./get_splitintopages/)() const | Obtiene la bandera que indica si cada página del documento fuente se convertirá en su propio documento HTML de destino, es decir, si el HTML resultante se dividirá en varias páginas HTML. |
+| [get_Title](./get_title/)() const | Obtiene el título de la página HTML. |
+| [get_TryMergeFragments](./get_trymergefragments/)() const | La bandera para combinar fragmentos de imagen en una sola imagen. |
+| [get_UseZOrder](./get_usezorder/)() const | Si el atributo UseZORder se establece en true, los gráficos y el texto se añaden al documento HTML resultante de acuerdo con el orden Z del documento PDF original. Si este atributo es false, todos los gráficos se colocan en una sola capa, lo que puede causar efectos innecesarios en objetos superpuestos. |
+| [HtmlSaveOptions](./htmlsaveoptions/)() | Inicializa una nueva instancia de la clase [HtmlSaveOptions](./). |
+| [HtmlSaveOptions](./htmlsaveoptions/)(HtmlDocumentType) | Inicializa una nueva instancia de la clase [HtmlSaveOptions](./). |
+| [HtmlSaveOptions](./htmlsaveoptions/)(bool) | Inicializa una nueva instancia de la clase [HtmlSaveOptions](./). |
+| [HtmlSaveOptions](./htmlsaveoptions/)(HtmlDocumentType, bool) | Inicializa una nueva instancia de la clase [HtmlSaveOptions](./). |
+| [set_AdditionalMarginWidthInPoints](./set_additionalmarginwidthinpoints/)(int32_t) | Si el atributo 'SplitOnPages=false', entonces todo el HTML que representa todas las páginas PDF de entrada no se dividirá en diferentes páginas HTML, sino que se colocará en un único archivo HTML resultante grande. Pero cada página PDF origen se representará con su propia área rectangular en HTML (si es necesario, esas áreas pueden estar delimitadas para mostrar los bordes del papel de la página con el atributo especial 'PageBorderIfAny'). Este parámetro define el ancho del margen que se dejará obligatoriamente alrededor de esas áreas HTML de salida que representan las páginas del documento PDF origen. En esencia, define el intervalo garantizado entre las representaciones HTML de las páginas "paper" del PDF en dicho modo de conversión. |
+| [set_BatchSize](./set_batchsize/)(int32_t) override | Define el tamaño del lote si la conversión por lotes es aplicable al par de formatos de origen y destino. |
+| [set_CompressSvgGraphicsIfAny](./set_compresssvggraphicsifany/)(bool) | Establece la bandera que indica si los gráficos SVG encontrados (si los hay) se comprimirán (zipped) en formato SVGZ durante el guardado. |
+| [set_ConvertMarkedContentToLayers](./set_convertmarkedcontenttolayers/)(bool) | Si el atributo ConvertMarkedContentToLayers está configurado a true, entonces todos los elementos dentro de un contenido marcado PDF (capa) se colocarán en un div HTML con el atributo "data-pdflayer" que especifica un nombre de capa. Este nombre de capa se extraerá de las propiedades opcionales del contenido marcado PDF. Si este atributo es false (por defecto), entonces no se crearán capas a partir del contenido marcado PDF. |
+| [set_DefaultFontName](./set_defaultfontname/)(const System::String\&) | Especifica el nombre de una fuente instalada que se usa para sustituir cualquier fuente del documento que no esté incrustada y no esté instalada en el sistema. Si es null, se usará la fuente de sustitución predeterminada. |
+| [set_DocumentType](./set_documenttype/)(HtmlDocumentType) | Establece el [HtmlDocumentType](../htmldocumenttype/). |
+| [set_ExplicitListOfSavedPages](./set_explicitlistofsavedpages/)(System::ArrayPtr\<int32_t\>) override | Con esta propiedad puedes definir explícitamente qué páginas del documento deben convertirse. Las páginas en esta lista deben tener números basados en 1. Es decir, los números válidos de páginas deben tomarse del rango (1...[NumberOfPagesInConvertedDocument]). El orden de aparición de las páginas en esta lista no afecta su orden en la(s) página(s) HTML resultante(s); en las páginas resultantes siempre se mantendrá el orden en que aparecen en el PDF de origen. Si esta lista es nula (como es por defecto), se convertirán todas las páginas. Si algún número de página de esta lista está fuera del rango de páginas presentes (1-[amountOfPagesInDocument]) se lanzará una excepción. |
+| [set_FixedLayout](./set_fixedlayout/)(bool) | Establece un valor que indica si ese HTML se crea como diseño fijo. |
+| [set_FlowLayoutParagraphFullWidth](./set_flowlayoutparagraphfullwidth/)(bool) | Este atributo especifica texto de párrafo de ancho completo para el modo [Flow](../../aspose.pdf.flow/), FixedLayout = false. |
+| [set_IgnoredTextFontSize](./set_ignoredtextfontsize/)(System::Nullable\<float\>) | [Text](../../aspose.pdf.text/) con el tamaño especificado o menor será ignorado durante la conversión. No eliminamos este texto, lo ignoramos y no lo transferimos al archivo de salida. |
+| [set_IgnoreResourceFontErrors](./set_ignoreresourcefonterrors/)(bool) | Establece la indicación de que los errores relacionados con la ausencia de fuentes serán ignorados. true - significa que los errores de ausencia de fuentes serán ignorados. Los segmentos de [Text](../../aspose.pdf.text/) que hacen referencia a recursos incorrectos se omitirán durante el procesamiento. false por defecto. |
+| [set_ImageResolution](./set_imageresolution/)(int32_t) | Establece la resolución para la renderización de imágenes. |
+| [set_MinimalLineWidth](./set_minimallinewidth/)(float) | Este atributo establece el ancho mínimo de la línea de la ruta gráfica. Si el grosor de la línea es inferior a 1 px, Adobe Acrobat lo redondea a este valor. Por lo tanto, este atributo puede usarse para emular este comportamiento en navegadores HTML. |
+| [set_PreventGlyphsGrouping](./set_preventglyphsgrouping/)(bool) | Este atributo activa el modo en el que los glifos de texto no se agruparán en palabras y cadenas. Este modo permite mantener la máxima precisión al posicionar los glifos en la página y puede usarse para convertir documentos con notas musicales o glifos que deben colocarse por separado. Este parámetro se aplicará al documento solo cuando el valor del atributo FixedLayout sea true. |
+| [set_RenderTextAsImage](./set_rendertextasimage/)(bool) | Si el atributo RenderTextAsImage se establece en true, el texto de origen se convierte en una imagen en HTML. Puede ser útil para hacer que el texto no sea seleccionable o cuando el texto HTML no se renderiza correctamente. |
+| [set_SaveFullFont](./set_savefullfont/)(bool) | Indica que se guardará la fuente completa, solo admite fuentes True Type. Por defecto, SaveFullFont = false y el convertidor guarda el subconjunto de la fuente inicial necesario para mostrar el texto del documento. |
+| [set_SimpleTextboxModeGrouping](./set_simpletextboxmodegrouping/)(bool) | Este atributo especifica una agrupación secuencial de glifos y palabras en cadenas. Por ejemplo, las etiquetas y las palabras tienen un orden diferente en el HTML convertido y deseas que coincidan. Este parámetro se aplicará al documento solo cuando el valor del atributo FixedLayout sea true. |
+| [set_SplitCssIntoPages](./set_splitcssintopages/)(bool) | Cuando se selecciona el modo multipágina (es decir, 'SplitIntoPages' es 'true'), este atributo define si se debe crear un archivo CSS separado para cada página HTML resultante. Por defecto, este atributo es false, por lo que se crea un único CSS común para todas las páginas creadas. El tamaño total de todos los CSS generados en este modo (un CSS por página) suele ser mucho mayor que el tamaño de un único CSS grande, porque en el primer caso las clases CSS se duplican en varios archivos CSS para cada página. Por lo tanto, esta configuración solo debería usarse cuando estés interesado en procesar cada página HTML de forma independiente en el futuro, y por consiguiente el tamaño del CSS de cada página individual sea el factor más crítico. |
+| [set_SplitIntoPages](./set_splitintopages/)(bool) | Establece la bandera que indica si cada página del documento fuente se convertirá en su propio documento HTML de destino, es decir, si el HTML resultante se dividirá en varias páginas HTML. |
+| [set_Title](./set_title/)(const System::String\&) | Establece el título de la página HTML. |
+| [set_TryMergeFragments](./set_trymergefragments/)(bool) | La bandera para combinar fragmentos de imagen en una sola imagen. |
+| [set_UseZOrder](./set_usezorder/)(bool) | Si el atributo UseZORder se establece en true, los gráficos y el texto se añaden al documento HTML resultante de acuerdo con el orden Z del documento PDF original. Si este atributo es false, todos los gráficos se colocan en una sola capa, lo que puede causar efectos innecesarios en objetos superpuestos. |
+## Typedefs
+
+| Typedef | Descripción |
+| --- | --- |
+| [CssSavingStrategy](./csssavingstrategy/) | Puede asignar a esta propiedad una estrategia personalizada que implemente el procesamiento y/o guardado de una parte de CSS que se creó durante la conversión de PDF a HTML. En tal caso, el procesamiento (como guardar en un flujo o en disco) debe realizarse en ese código personalizado. |
+| [CssUrlMakingStrategy](./cssurlmakingstrategy/) | Puede asignar a esta propiedad un delegado creado a partir de un método personalizado que implemente la creación de la URL del CSS referenciado en el documento HTML generado. Por ejemplo, si desea que el CSS sea referenciado en HTML, por ejemplo como "otherPage.ASPX?CssID=zjjkklj", entonces dicha estrategia personalizada debe devolver "otherPage.ASPX?CssID=zjjkklj". |
+| [HtmlPageMarkupSavingStrategy](./htmlpagemarkupsavingstrategy/) | El resultado de la conversión puede contener una o varias páginas HTML (que también pueden referenciar archivos externos como imágenes o fuentes). Puede asignar a esta propiedad un delegado creado a partir de un método personalizado que implemente el procesamiento de la página HTML obtenida (el propio HTML) que se creó durante la conversión. En tal caso, el procesamiento (como guardar en un flujo o en disco) puede realizarse en ese código personalizado. En tal caso, todas las acciones necesarias para guardar el marcado de la página HTML deben llevarse a cabo en el código del método suministrado, porque el guardado del resultado en el código del convertidor no se utilizará. Si el procesamiento para este u otro caso, por alguna razón, debe ser realizado por el código del convertidor mismo, no en el código personalizado, establezca en el código personalizado la bandera 'CustomProcessingCancelled' de la variable del parámetro 'htmlSavingInfo': indica al convertidor que todos los pasos necesarios para procesar ese recurso deben realizarse en el propio convertidor de la misma manera que si no hubiera ningún código de guardado externo personalizado. |
+| [ResourceSavingStrategy](./resourcesavingstrategy/) | A esta propiedad puede asignar un delegado creado a partir de un método personalizado que implemente el procesamiento de un recurso externo (fuente o imagen) que se extrajo del PDF y debe guardarse como recurso externo durante la conversión de PDF a HTML. En tal caso, el procesamiento (como guardar en un flujo o en disco) puede realizarse en ese código personalizado y dicho código debe devolver la ruta (u otra cadena sin comillas) que posteriormente se incorporará al HTML generado en lugar de la ruta original supuesta del recurso de imagen. En tal caso, todas las acciones necesarias para guardar la imagen deben llevarse a cabo en el código del método suministrado, porque el guardado del resultado en el código del convertidor no se utilizará. Si el procesamiento para este u otro archivo, por alguna razón, debe ser realizado por el código del convertidor mismo, no en el código personalizado, establezca en el código personalizado la bandera 'CustomProcessingCancelled' de la variable del parámetro 'resourceSavingInfo'. Indica al convertidor que todos los pasos necesarios para procesar ese recurso deben realizarse en el propio convertidor como si no hubiera ningún código externo personalizado. |
+## Ver también
+
+* Class [UnifiedSaveOptions](../unifiedsaveoptions/)
+* Class [IPageSetOptions](../ipagesetoptions/)
+* Class [IPipelineOptions](../ipipelineoptions/)
+* Namespace [Aspose::Pdf](../)
+* Library [Aspose.PDF for C++](../../)
