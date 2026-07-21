@@ -1,0 +1,29 @@
+---
+title: "Aspose::Pdf::Annotations::PDF3DView::set_LightingScheme method"
+linktitle: "set_LightingScheme"
+second_title: "Referencia de API de Aspose.PDF para C++"
+description: "Aspose::Pdf::Annotations::PDF3DView::set_LightingScheme method. Establece el esquema de iluminación de la vista en C++."
+type: docs
+weight: 1200
+url: /es/cpp/aspose.pdf.annotations/pdf3dview/set_lightingscheme/
+---
+## PDF3DView::set_LightingScheme method
+
+
+Establece el esquema de iluminación de la vista.
+
+```cpp
+void Aspose::Pdf::Annotations::PDF3DView::set_LightingScheme(const System::SharedPtr<PDF3DLightingScheme> &value)
+```
+
+## Observaciones
+
+
+El esquema de iluminación de la vista.
+## Ver también
+
+* Typedef [SharedPtr](../../../system/sharedptr/)
+* Class [PDF3DLightingScheme](../../pdf3dlightingscheme/)
+* Class [PDF3DView](../)
+* Namespace [Aspose::Pdf::Annotations](../../)
+* Library [Aspose.PDF for C++](../../../)

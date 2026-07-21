@@ -1,0 +1,44 @@
+---
+title: "Aspose::Pdf::Text::CharInfoCollection clase"
+linktitle: "CharInfoCollection"
+second_title: "Referencia de API de Aspose.PDF para C++"
+description: "Aspose::Pdf::Text::CharInfoCollection clase. Representa una colección de objetos CharInfo en C++."
+type: docs
+weight: 500
+url: /es/cpp/aspose.pdf.text/charinfocollection/
+---
+## CharInfoCollection class
+
+
+Representa una colección de objetos [CharInfo](../charinfo/).
+
+```cpp
+class CharInfoCollection : public System::Collections::Generic::ICollection<System::SharedPtr<CharInfo>>
+```
+
+## Métodos
+
+| Método | Descripción |
+| --- | --- |
+|  | [Add](./add/)(const System::SharedPtr\<CharInfo\>\&) override | La [Collection](../../aspose.pdf/collection/) es de solo lectura, lanza NotImplementedException |
+. |
+| [Clear](./clear/)() override | La [Collection](../../aspose.pdf/collection/) es de solo lectura. Siempre lanza NotImplementedException. |
+| [Contains](./contains/)(const System::SharedPtr\<CharInfo\>\&) const override | Determina si la colección contiene un valor específico. |
+| [CopyTo](./copyto/)(System::ArrayPtr\<System::SharedPtr\<CharInfo\>\>, int32_t) override | Copia toda la colección a una Matriz unidimensional compatible, comenzando en el índice especificado de la matriz de destino. |
+| [get_Count](./get_count/)() const override | Obtiene el número de elementos de objeto [CharInfo](../charinfo/) realmente contenidos en la colección. |
+| [get_IsReadOnly](./get_isreadonly/)() const override | Obtiene un valor que indica si la colección es de solo lectura. |
+| [get_IsSynchronized](./get_issynchronized/)() | Obtiene un valor que indica si el acceso a la colección está sincronizado (seguro para subprocesos). |
+| [get_SyncRoot](./get_syncroot/)() const | Obtiene un objeto que puede usarse para sincronizar el acceso a la colección. |
+| [GetEnumerator](./getenumerator/)() override | Devuelve un enumerador para toda la colección. |
+| [idx_get](./idx_get/)(int32_t) | Obtiene el elemento [CharInfo](../charinfo/) en el índice especificado. |
+|  | [Remove](./remove/)(const System::SharedPtr\<CharInfo\>\&) override | La [Collection](../../aspose.pdf/collection/) es de solo lectura, lanza NotImplementedException |
+. |
+## Observaciones
+
+
+Proporciona acceso a la información de posicionamiento de los caracteres del segmento de texto.
+## Ver también
+
+* Class [ICollection](../../system.collections.generic/icollection/)
+* Namespace [Aspose::Pdf::Text](../)
+* Library [Aspose.PDF for C++](../../)
