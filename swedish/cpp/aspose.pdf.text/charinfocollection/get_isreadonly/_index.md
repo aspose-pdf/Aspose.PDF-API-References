@@ -1,0 +1,23 @@
+---
+title: "Aspose::Pdf::Text::CharInfoCollection::get_IsReadOnly metod"
+linktitle: "get_IsReadOnly"
+second_title: "Aspose.PDF för C++ API-referens"
+description: "Aspose::Pdf::Text::CharInfoCollection::get_IsReadOnly‑metod. Hämtar ett värde som indikerar om samlingen är skrivskyddad i C++."
+type: docs
+weight: 600
+url: /sv/cpp/aspose.pdf.text/charinfocollection/get_isreadonly/
+---
+## CharInfoCollection::get_IsReadOnly method
+
+
+Hämtar ett värde som indikerar om samlingen är skrivskyddad.
+
+```cpp
+bool Aspose::Pdf::Text::CharInfoCollection::get_IsReadOnly() const override
+```
+
+## Se även
+
+* Class [CharInfoCollection](../)
+* Namespace [Aspose::Pdf::Text](../../)
+* Library [Aspose.PDF for C++](../../../)

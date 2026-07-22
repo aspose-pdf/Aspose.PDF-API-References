@@ -1,0 +1,34 @@
+---
+title: "System::Drawing::Point::Ceiling metod"
+linktitle: "Ceiling"
+second_title: "Aspose.PDF för C++ API-referens"
+description: "System::Drawing::Point::Ceiling metod. Skapar ett Point‑objekt från det angivna PointF‑objektet genom att avrunda PointF‑objektets X‑ och Y‑koordinatvärden till nästa högre heltalsvärde i C++."
+type: docs
+weight: 1600
+url: /sv/cpp/system.drawing/point/ceiling/
+---
+## Point::Ceiling method
+
+
+Skapar ett [Point](../)‑objekt från det angivna [PointF](../../pointf/)‑objektet genom att avrunda [PointF](../../pointf/)‑objektets X‑ och Y‑koordinatvärden till nästa högre heltalsvärde.
+
+```cpp
+static Point System::Drawing::Point::Ceiling(const PointF &point)
+```
+
+
+| Parameter | Typ | Beskrivning |
+| --- | --- | --- |
+| point | const PointF\& | Det [PointF](../../pointf/)‑objekt som ett [Point](../)‑objekt ska konstrueras från |
+
+### ReturnValue
+
+Ett [Point](../)‑objekt konstruerat från **point**
+
+## Se även
+
+* Class [Point](../)
+* Class [PointF](../../pointf/)
+* Class [Point](../)
+* Namespace [System::Drawing](../../)
+* Library [Aspose.PDF for C++](../../../)
