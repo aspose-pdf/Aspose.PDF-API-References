@@ -1,1177 +1,634 @@
 ---
-title: PredefinedAction
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 定义可从 PDF 文件触发的不同操作。
+title: "PredefinedAction"
+linktitle: "PredefinedAction"
+second_title: "Aspose.PDF for Java API 参考"
+description: "定义可以从 PDF 文件触发的不同操作。"
 type: docs
-weight: 293
+weight: 3960
 url: /zh/java/com.aspose.pdf/predefinedaction/
 ---
-**遗产：**
-java.lang.Object, com.aspose.ms.System.ValueType, com.aspose.ms.System.Enum
+**Inheritance:**
+java.lang.Object, java.lang.Enum < PredefinedAction > com.aspose.pdf.PredefinedAction, java.lang.Enum < PredefinedAction >, com.aspose.pdf.PredefinedAction
+
+**All Implemented Interfaces:**
+Serializable, Comparable < PredefinedAction >
+
 ```
-public final class PredefinedAction extends System.Enum
+public enum PredefinedAction extends Enum < PredefinedAction >
 ```
 
-定义可从 PDF 文件触发的不同操作。
-## 领域
+定义可以从 PDF 文件触发的不同操作。
 
-| 场地 | 描述 |
+## 字段
+
+| 字段 | 描述 |
 | --- | --- |
-| [Bookmarks_ExpanCurrentBookmark](#Bookmarks-ExpanCurrentBookmark) | 查找当前书签的命名操作。 |
-| [Bookmarks_HightlightCurrentBookmark](#Bookmarks-HightlightCurrentBookmark) | 用于突出显示当前书签的命名操作。 |
-| [Document_AttachFile](#Document-AttachFile) | 添加文件附件的命名操作。 |
-| [Document_CropPages](#Document-CropPages) | 裁剪文档页面的命名操作。 |
-| [Document_DeletePages](#Document-DeletePages) | 删除文档页面的命名操作。 |
-| [Document_ExtractPages](#Document-ExtractPages) | 提取文档页面的命名操作。 |
-| [Document_InsertPages](#Document-InsertPages) | 从文档中插入页面的命名操作。 |
-| [Document_ReplacePages](#Document-ReplacePages) | 替换文档页面的命名操作。 |
-| [Document_RotatePages](#Document-RotatePages) | 旋转文档页面的命名操作。 |
-| [Edit_CheckSpelling_InComFieldEdit](#Edit-CheckSpelling-InComFieldEdit) | 检查评论中拼写的命名操作。 |
-| [Edit_Find](#Edit-Find) | 要查找的命名操作。 |
-| [Edit_Preferences](#Edit-Preferences) | 用于编辑首选项的命名操作。 |
-| [Edit_Search](#Edit-Search) | 用于搜索的命名操作。 |
-| [EnumSeparatorCharArray](#EnumSeparatorCharArray) |  |
-| [File_AttachToEmail](#File-AttachToEmail) | 将当前 pdf 文档附加到电子邮件中的命名操作。 |
-| [File_Close](#File-Close) | 关闭文档的命名操作。 |
-| [File_CreatePDF_FromScanner](#File-CreatePDF-FromScanner) | 从扫描仪创建 pdf 文档的命名操作。 |
-| [File_CreatePDF_FromWebPage](#File-CreatePDF-FromWebPage) | 从网页创建 pdf 文档的命名操作。 |
-| [File_Exit](#File-Exit) | 退出 pdf 阅读器的命名操作。 |
-| [File_Organizer_OpenOrganizer](#File-Organizer-OpenOrganizer) | 打开管理器的命名操作。 |
-| [File_Print](#File-Print) | 打印文档的命名操作。 |
-| [File_Properties](#File-Properties) | 打开文档属性的命名操作。 |
-| [File_SaveAs](#File-SaveAs) | 用另一个名称保存文档的命名操作。 |
-| [FirstPage](#FirstPage) | 转到第一页的命名操作。 |
-| [LastPage](#LastPage) | 转到最后一页的命名操作。 |
-| [Miscellaneous_ZoomIn](#Miscellaneous-ZoomIn) | 用于放大文档的命名操作。 |
-| [Miscellaneous_ZoomOut](#Miscellaneous-ZoomOut) | 缩小文档的命名操作。 |
-| [NextPage](#NextPage) | 转到下一页的命名操作。 |
-| [PageImages_PrintPages](#PageImages-PrintPages) | 打印文档页面的命名操作。 |
-| [PrevPage](#PrevPage) | 转到上一页的命名操作。 |
-| [Print](#Print) | 打开打印对话框的命名操作。 |
-| [PrintDialog](#PrintDialog) | 打开打印对话框的命名操作 (JavaScript)。 |
-| [View_GoTo_NextView](#View-GoTo-NextView) | 转到下一个视图的命名操作。 |
-| [View_GoTo_Page](#View-GoTo-Page) | 转到特定页面的命名操作。 |
-| [View_GoTo_PreDocument](#View-GoTo-PreDocument) | 转到上一个文档的命名操作。 |
-| [View_GoTo_PreView](#View-GoTo-PreView) | 转到上一个视图的命名操作。 |
-| [View_NavigationPanels_Articles](#View-NavigationPanels-Articles) | 显示/隐藏文章面板的命名操作。 |
-| [View_NavigationPanels_Attachments](#View-NavigationPanels-Attachments) | 显示/隐藏附件面板的命名操作。 |
-| [View_NavigationPanels_Boomarks](#View-NavigationPanels-Boomarks) | 显示/隐藏书签面板的命名操作。 |
-| [View_NavigationPanels_Comments](#View-NavigationPanels-Comments) | 显示/隐藏评论面板的命名操作。 |
-| [View_NavigationPanels_Fields](#View-NavigationPanels-Fields) | 显示/隐藏字段面板的命名操作。 |
-| [View_NavigationPanels_Layers](#View-NavigationPanels-Layers) | 显示/隐藏图层面板的命名操作。 |
-| [View_NavigationPanels_ModelTree](#View-NavigationPanels-ModelTree) | 显示/隐藏模型树面板的命名操作。 |
-| [View_NavigationPanels_Pages](#View-NavigationPanels-Pages) | 显示/隐藏页面面板的命名操作。 |
-| [View_NavigationPanels_Signatures](#View-NavigationPanels-Signatures) | 显示/隐藏签名面板的命名操作。 |
-| [View_PageDisplay_SinglePage](#View-PageDisplay-SinglePage) | 显示单个页面的命名操作。 |
-| [View_PageDisplay_SinglePageContinuous](#View-PageDisplay-SinglePageContinuous) | 显示单个连续页面的命名操作。 |
-| [View_PageDisplay_TwoUp](#View-PageDisplay-TwoUp) | 将页面显示为 Two-Up 的命名操作。 |
-| [View_PageDisplay_TwoUpContinuous](#View-PageDisplay-TwoUpContinuous) | 将页面显示为连续两页的命名操作。 |
-| [View_Toolbars_AdvanceEditing](#View-Toolbars-AdvanceEditing) | 显示/隐藏高级编辑工具栏的命名操作。 |
-| [View_Toolbars_CommentMarkup](#View-Toolbars-CommentMarkup) | 显示/隐藏评论工具栏的命名操作。 |
-| [View_Toolbars_Edit](#View-Toolbars-Edit) | 显示/隐藏编辑工具栏的命名操作。 |
-| [View_Toolbars_File](#View-Toolbars-File) | 显示/隐藏文件工具栏的命名操作。 |
-| [View_Toolbars_Find](#View-Toolbars-Find) | 显示/隐藏查找工具栏的命名操作。 |
-| [View_Toolbars_Forms](#View-Toolbars-Forms) | 显示/隐藏表单工具栏的命名操作。 |
-| [View_Toolbars_Measuring](#View-Toolbars-Measuring) | 显示/隐藏测量工具栏的命名操作。 |
-| [View_Toolbars_ObjectData](#View-Toolbars-ObjectData) | 显示/隐藏对象数据工具栏的命名操作。 |
-| [View_Toolbars_PageDisplay](#View-Toolbars-PageDisplay) | 显示/隐藏页面显示工具栏的命名操作。 |
-| [View_Toolbars_PageNavigation](#View-Toolbars-PageNavigation) | 显示/隐藏导航工具栏的命名操作。 |
-| [View_Toolbars_PrintProduction](#View-Toolbars-PrintProduction) | 显示/隐藏打印制作工具栏的命名操作。 |
-| [View_Toolbars_PropertiesBar](#View-Toolbars-PropertiesBar) | 显示/隐藏属性工具栏的命名操作。 |
-| [View_Toolbars_Redaction](#View-Toolbars-Redaction) | 显示/隐藏密文工具栏的命名操作。 |
-| [View_Toolbars_SelectZoom](#View-Toolbars-SelectZoom) | 显示/隐藏选择和缩放工具栏的命名操作。 |
-| [View_Toolbars_Tasks](#View-Toolbars-Tasks) | 显示/隐藏任务工具栏的命名操作。 |
-| [View_Toolbars_Typewriter](#View-Toolbars-Typewriter) | 显示/隐藏打字机工具栏的命名操作。 |
-| [View_Zoom_ActualSize](#View-Zoom-ActualSize) | 以实际大小查看页面的命名操作。 |
-| [View_Zoom_FitHeight](#View-Zoom-FitHeight) | 使页面适合高度的命名操作。 |
-| [View_Zoom_FitPage](#View-Zoom-FitPage) | 适合页面的命名操作。 |
-| [View_Zoom_FitVisible](#View-Zoom-FitVisible) | 适合页面可见性的命名操作。 |
-| [View_Zoom_FitWidth](#View-Zoom-FitWidth) | 使页面适合宽度的命名操作。 |
-| [View_Zoom_ZoomTo](#View-Zoom-ZoomTo) | 进行缩放的命名操作。 |
-| [Window_FullScreenMode](#Window-FullScreenMode) | 以全屏模式查看文档的命名操作。 |
+| [Bookmarks_ExpanCurrentBookmark](#Bookmarks_ExpanCurrentBookmark) | 用于查找当前书签的命名操作。 |
+| [Bookmarks_HightlightCurrentBookmark](#Bookmarks_HightlightCurrentBookmark) | 用于突出显示当前书签的命名操作。 |
+| [Document_AttachFile](#Document_AttachFile) | 用于添加文件附件的命名操作。 |
+| [Document_CropPages](#Document_CropPages) | 一个用于裁剪文档页面的命名操作。 |
+| [Document_DeletePages](#Document_DeletePages) | 一个用于删除文档页面的命名操作。 |
+| [Document_ExtractPages](#Document_ExtractPages) | 一个用于提取文档页面的命名操作。 |
+| [Document_InsertPages](#Document_InsertPages) | 一个用于从文档中插入页面的命名操作。 |
+| [Document_ReplacePages](#Document_ReplacePages) | 一个用于替换文档页面的命名操作。 |
+| [Document_RotatePages](#Document_RotatePages) | 一个用于旋转文档页面的命名操作。 |
+| [Edit_CheckSpelling_InComFieldEdit](#Edit_CheckSpelling_InComFieldEdit) | 一个用于检查注释中拼写的命名操作。 |
+| [Edit_Find](#Edit_Find) | 一个用于查找的命名操作。 |
+| [Edit_Preferences](#Edit_Preferences) | 一个用于编辑首选项的命名操作。 |
+| [Edit_Search](#Edit_Search) | 一个用于搜索的命名操作。 |
+| [File_AttachToEmail](#File_AttachToEmail) | 一个用于将当前 PDF 文档附加到电子邮件的命名操作。 |
+| [File_Close](#File_Close) | 一个用于关闭文档的命名操作。 |
+| [File_CreatePDF_FromScanner](#File_CreatePDF_FromScanner) | 一个用于从扫描仪创建 PDF 文档的命名操作。 |
+| [File_CreatePDF_FromWebPage](#File_CreatePDF_FromWebPage) | 一个用于从网页创建 PDF 文档的命名操作。 |
+| [File_Exit](#File_Exit) | 一个用于退出 PDF 阅读器的命名操作。 |
+| [File_Organizer_OpenOrganizer](#File_Organizer_OpenOrganizer) | 一个用于打开组织器的命名操作。 |
+| [File_Print](#File_Print) | 一个用于打印文档的命名操作。 |
+| [File_Properties](#File_Properties) | 一个用于打开文档属性的命名操作。 |
+| [File_SaveAs](#File_SaveAs) | 一个用于以其他名称保存文档的命名操作。 |
+| [FirstPage](#FirstPage) | 一个用于转到首页的命名操作。 |
+| [LastPage](#LastPage) | 一个用于转到末页的命名操作。 |
+| [Miscellaneous_ZoomIn](#Miscellaneous_ZoomIn) | 一个用于放大文档的命名操作。 |
+| [Miscellaneous_ZoomOut](#Miscellaneous_ZoomOut) | 一个用于缩小文档的命名操作。 |
+| [NextPage](#NextPage) | 一个用于转到下一页的命名操作。 |
+| [PageImages_PrintPages](#PageImages_PrintPages) | 一个用于打印文档页面的命名操作。 |
+| [PrevPage](#PrevPage) | 一个命名操作用于转到上一页。 |
+| [Print](#Print) | 一个命名操作用于打开打印对话框。 |
+| [PrintDialog](#PrintDialog) | 一个命名操作用于打开打印对话框（JavaScript）。 |
+| [View_GoTo_NextView](#View_GoTo_NextView) | 一个命名操作用于转到下一个视图。 |
+| [View_GoTo_Page](#View_GoTo_Page) | 一个命名操作用于转到特定页面。 |
+| [View_GoTo_PreDocument](#View_GoTo_PreDocument) | 一个命名操作用于转到上一个文档。 |
+| [View_GoTo_PreView](#View_GoTo_PreView) | 一个命名操作用于转到上一个视图。 |
+| [View_NavigationPanels_Articles](#View_NavigationPanels_Articles) | 一个命名操作用于显示/隐藏文章面板。 |
+| [View_NavigationPanels_Attachments](#View_NavigationPanels_Attachments) | 一个命名操作用于显示/隐藏附件面板。 |
+| [View_NavigationPanels_Boomarks](#View_NavigationPanels_Boomarks) | 一个命名操作用于显示/隐藏书签面板。 |
+| [View_NavigationPanels_Comments](#View_NavigationPanels_Comments) | 一个命名操作用于显示/隐藏评论面板。 |
+| [View_NavigationPanels_Fields](#View_NavigationPanels_Fields) | 一个命名操作用于显示/隐藏字段面板。 |
+| [View_NavigationPanels_Layers](#View_NavigationPanels_Layers) | 一个命名操作用于显示/隐藏图层面板。 |
+| [View_NavigationPanels_ModelTree](#View_NavigationPanels_ModelTree) | 一个命名操作用于显示/隐藏模型树面板。 |
+| [View_NavigationPanels_Pages](#View_NavigationPanels_Pages) | 一个命名操作用于显示/隐藏页面面板。 |
+| [View_NavigationPanels_Signatures](#View_NavigationPanels_Signatures) | 一个命名操作用于显示/隐藏签名面板。 |
+| [View_PageDisplay_SinglePage](#View_PageDisplay_SinglePage) | 一个命名操作用于显示单页。 |
+| [View_PageDisplay_SinglePageContinuous](#View_PageDisplay_SinglePageContinuous) | 一个命名操作用于显示单个连续页面。 |
+| [View_PageDisplay_TwoUp](#View_PageDisplay_TwoUp) | 一个命名操作用于将页面显示为双页。 |
+| [View_PageDisplay_TwoUpContinuous](#View_PageDisplay_TwoUpContinuous) | 一个命名操作用于将页面连续显示为双页。 |
+| [View_Toolbars_AdvanceEditing](#View_Toolbars_AdvanceEditing) | 一个命名操作用于显示/隐藏高级编辑工具栏。 |
+| [View_Toolbars_CommentMarkup](#View_Toolbars_CommentMarkup) | 一个命名操作用于显示/隐藏评论工具栏。 |
+| [View_Toolbars_Edit](#View_Toolbars_Edit) | 一个命名操作用于显示/隐藏编辑工具栏。 |
+| [View_Toolbars_File](#View_Toolbars_File) | 一个命名操作用于显示/隐藏文件工具栏。 |
+| [View_Toolbars_Find](#View_Toolbars_Find) | 一个命名操作用于显示/隐藏查找工具栏。 |
+| [View_Toolbars_Forms](#View_Toolbars_Forms) | 一个用于显示/隐藏表单工具栏的命名操作。 |
+| [View_Toolbars_Measuring](#View_Toolbars_Measuring) | 一个用于显示/隐藏测量工具栏的命名操作。 |
+| [View_Toolbars_ObjectData](#View_Toolbars_ObjectData) | 一个用于显示/隐藏对象数据工具栏的命名操作。 |
+| [View_Toolbars_PageDisplay](#View_Toolbars_PageDisplay) | 一个用于显示/隐藏页面显示工具栏的命名操作。 |
+| [View_Toolbars_PageNavigation](#View_Toolbars_PageNavigation) | 一个用于显示/隐藏导航工具栏的命名操作。 |
+| [View_Toolbars_PrintProduction](#View_Toolbars_PrintProduction) | 一个用于显示/隐藏打印生产工具栏的命名操作。 |
+| [View_Toolbars_PropertiesBar](#View_Toolbars_PropertiesBar) | 一个用于显示/隐藏属性工具栏的命名操作。 |
+| [View_Toolbars_Redaction](#View_Toolbars_Redaction) | 一个用于显示/隐藏编辑工具栏的命名操作。 |
+| [View_Toolbars_SelectZoom](#View_Toolbars_SelectZoom) | 一个用于显示/隐藏选择与缩放工具栏的命名操作。 |
+| [View_Toolbars_Tasks](#View_Toolbars_Tasks) | 一个用于显示/隐藏任务工具栏的命名操作。 |
+| [View_Toolbars_Typewriter](#View_Toolbars_Typewriter) | 一个用于显示/隐藏打字机工具栏的命名操作。 |
+| [View_Zoom_ActualSize](#View_Zoom_ActualSize) | 一个用于以实际大小查看页面的命名操作。 |
+| [View_Zoom_FitHeight](#View_Zoom_FitHeight) | 一个用于按高度适配页面的命名操作。 |
+| [View_Zoom_FitPage](#View_Zoom_FitPage) | 一个用于适配页面的命名操作。 |
+| [View_Zoom_FitVisible](#View_Zoom_FitVisible) | 一个用于适配页面可见性的命名操作。 |
+| [View_Zoom_FitWidth](#View_Zoom_FitWidth) | 一个用于按宽度适配页面的命名操作。 |
+| [View_Zoom_ZoomTo](#View_Zoom_ZoomTo) | 一个用于进行缩放的命名操作。 |
+| [Window_FullScreenMode](#Window_FullScreenMode) | 一个用于在全屏模式下查看文档的命名操作。 |
+
 ## 方法
 
-| Method | Description |
+| 方法 | 描述 |
 | --- | --- |
-| [Clone()](#Clone--) |  |
-| [CloneTo(T arg0)](#CloneTo-T-) |  |
-| [CloneTo(System.Enum arg0)](#CloneTo-com.aspose.ms.System.Enum-) |  |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [format(System.Type arg0, Object arg1, String arg2)](#format-com.aspose.ms.System.Type-java.lang.Object-java.lang.String-) |  |
-| [format(Class<?> arg0, long arg1, String arg2)](#format-java.lang.Class----long-java.lang.String-) |  |
-| [getClass()](#getClass--) |  |
-| [getName(Class<?> arg0, long arg1)](#getName-java.lang.Class----long-) |  |
-| [getNames(System.Type arg0)](#getNames-com.aspose.ms.System.Type-) |  |
-| [getNames(Class<?> arg0)](#getNames-java.lang.Class----) |  |
-| [getUnderlyingType(System.Type arg0)](#getUnderlyingType-com.aspose.ms.System.Type-) |  |
-| [getUnderlyingType(Class<?> arg0)](#getUnderlyingType-java.lang.Class----) |  |
-| [getValue(Class<?> arg0, String arg1)](#getValue-java.lang.Class----java.lang.String-) |  |
-| [getValues(System.Type arg0)](#getValues-com.aspose.ms.System.Type-) |  |
-| [get_Caption()](#get-Caption--) |  |
-| [get_Value()](#get-Value--) |  |
-| [hashCode()](#hashCode--) |  |
-| [isDefined(System.Type arg0, Object arg1)](#isDefined-com.aspose.ms.System.Type-java.lang.Object-) |  |
-| [isDefined(System.Type arg0, String arg1)](#isDefined-com.aspose.ms.System.Type-java.lang.String-) |  |
-| [isDefined(System.Type arg0, long arg1)](#isDefined-com.aspose.ms.System.Type-long-) |  |
-| [isDefined(Class<?> arg0, long arg1)](#isDefined-java.lang.Class----long-) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [parse(System.Type arg0, String arg1)](#parse-com.aspose.ms.System.Type-java.lang.String-) |  |
-| [parse(System.Type arg0, String arg1, Boolean arg2)](#parse-com.aspose.ms.System.Type-java.lang.String-java.lang.Boolean-) |  |
-| [parse(Class<?> arg0, String arg1)](#parse-java.lang.Class----java.lang.String-) |  |
-| [parse(Class<?> arg0, String arg1, Boolean arg2)](#parse-java.lang.Class----java.lang.String-java.lang.Boolean-) |  |
-| [register(System.Enum.AbstractEnum arg0)](#register-com.aspose.ms.System.Enum.AbstractEnum-) |  |
-| [toObject(System.Type arg0, Object arg1)](#toObject-com.aspose.ms.System.Type-java.lang.Object-) |  |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### Bookmarks_ExpanCurrentBookmark {#Bookmarks-ExpanCurrentBookmark}
+| [getByValue](#getByValue-int-) |  |
+| [getValue](#getValue--) |  |
+| [valueOf](#valueOf-java.lang.String-) | 返回此类型中具有指定名称的枚举常量。 |
+| [values](#values--) | 返回一个数组，包含此枚举类型的常量，按声明顺序排列。 |
+
+### Bookmarks_ExpanCurrentBookmark {#Bookmarks_ExpanCurrentBookmark}
 ```
-public static final int Bookmarks_ExpanCurrentBookmark
+public static final PredefinedAction Bookmarks_ExpanCurrentBookmark
 ```
 
+用于查找当前书签的命名操作。
 
-查找当前书签的命名操作。
-
-### Bookmarks_HightlightCurrentBookmark {#Bookmarks-HightlightCurrentBookmark}
+### Bookmarks_HightlightCurrentBookmark {#Bookmarks_HightlightCurrentBookmark}
 ```
-public static final int Bookmarks_HightlightCurrentBookmark
+public static final PredefinedAction Bookmarks_HightlightCurrentBookmark
 ```
-
 
 用于突出显示当前书签的命名操作。
 
-### Document_AttachFile {#Document-AttachFile}
+### Document_AttachFile {#Document_AttachFile}
 ```
-public static final int Document_AttachFile
-```
-
-
-添加文件附件的命名操作。
-
-### Document_CropPages {#Document-CropPages}
-```
-public static final int Document_CropPages
+public static final PredefinedAction Document_AttachFile
 ```
 
+用于添加文件附件的命名操作。
 
-裁剪文档页面的命名操作。
-
-### Document_DeletePages {#Document-DeletePages}
+### Document_CropPages {#Document_CropPages}
 ```
-public static final int Document_DeletePages
-```
-
-
-删除文档页面的命名操作。
-
-### Document_ExtractPages {#Document-ExtractPages}
-```
-public static final int Document_ExtractPages
+public static final PredefinedAction Document_CropPages
 ```
 
+一个用于裁剪文档页面的命名操作。
 
-提取文档页面的命名操作。
-
-### Document_InsertPages {#Document-InsertPages}
+### Document_DeletePages {#Document_DeletePages}
 ```
-public static final int Document_InsertPages
-```
-
-
-从文档中插入页面的命名操作。
-
-### Document_ReplacePages {#Document-ReplacePages}
-```
-public static final int Document_ReplacePages
+public static final PredefinedAction Document_DeletePages
 ```
 
+一个用于删除文档页面的命名操作。
 
-替换文档页面的命名操作。
-
-### Document_RotatePages {#Document-RotatePages}
+### Document_ExtractPages {#Document_ExtractPages}
 ```
-public static final int Document_RotatePages
-```
-
-
-旋转文档页面的命名操作。
-
-### Edit_CheckSpelling_InComFieldEdit {#Edit-CheckSpelling-InComFieldEdit}
-```
-public static final int Edit_CheckSpelling_InComFieldEdit
+public static final PredefinedAction Document_ExtractPages
 ```
 
+一个用于提取文档页面的命名操作。
 
-检查评论中拼写的命名操作。
-
-### Edit_Find {#Edit-Find}
+### Document_InsertPages {#Document_InsertPages}
 ```
-public static final int Edit_Find
-```
-
-
-要查找的命名操作。
-
-### Edit_Preferences {#Edit-Preferences}
-```
-public static final int Edit_Preferences
+public static final PredefinedAction Document_InsertPages
 ```
 
+一个用于从文档中插入页面的命名操作。
 
-用于编辑首选项的命名操作。
-
-### Edit_Search {#Edit-Search}
+### Document_ReplacePages {#Document_ReplacePages}
 ```
-public static final int Edit_Search
-```
-
-
-用于搜索的命名操作。
-
-### EnumSeparatorCharArray {#EnumSeparatorCharArray}
-```
-public static final char[] EnumSeparatorCharArray
+public static final PredefinedAction Document_ReplacePages
 ```
 
+一个用于替换文档页面的命名操作。
 
-### File_AttachToEmail {#File-AttachToEmail}
+### Document_RotatePages {#Document_RotatePages}
 ```
-public static final int File_AttachToEmail
-```
-
-
-将当前 pdf 文档附加到电子邮件中的命名操作。
-
-### File_Close {#File-Close}
-```
-public static final int File_Close
+public static final PredefinedAction Document_RotatePages
 ```
 
+一个用于旋转文档页面的命名操作。
 
-关闭文档的命名操作。
-
-### File_CreatePDF_FromScanner {#File-CreatePDF-FromScanner}
+### Edit_CheckSpelling_InComFieldEdit {#Edit_CheckSpelling_InComFieldEdit}
 ```
-public static final int File_CreatePDF_FromScanner
-```
-
-
-从扫描仪创建 pdf 文档的命名操作。
-
-### File_CreatePDF_FromWebPage {#File-CreatePDF-FromWebPage}
-```
-public static final int File_CreatePDF_FromWebPage
+public static final PredefinedAction Edit_CheckSpelling_InComFieldEdit
 ```
 
+一个用于检查注释中拼写的命名操作。
 
-从网页创建 pdf 文档的命名操作。
-
-### File_Exit {#File-Exit}
+### Edit_Find {#Edit_Find}
 ```
-public static final int File_Exit
-```
-
-
-退出 pdf 阅读器的命名操作。
-
-### File_Organizer_OpenOrganizer {#File-Organizer-OpenOrganizer}
-```
-public static final int File_Organizer_OpenOrganizer
+public static final PredefinedAction Edit_Find
 ```
 
+一个用于查找的命名操作。
 
-打开管理器的命名操作。
-
-### File_Print {#File-Print}
+### Edit_Preferences {#Edit_Preferences}
 ```
-public static final int File_Print
-```
-
-
-打印文档的命名操作。
-
-### File_Properties {#File-Properties}
-```
-public static final int File_Properties
+public static final PredefinedAction Edit_Preferences
 ```
 
+一个用于编辑首选项的命名操作。
 
-打开文档属性的命名操作。
-
-### File_SaveAs {#File-SaveAs}
+### Edit_Search {#Edit_Search}
 ```
-public static final int File_SaveAs
+public static final PredefinedAction Edit_Search
 ```
 
+一个用于搜索的命名操作。
 
-用另一个名称保存文档的命名操作。
+### File_AttachToEmail {#File_AttachToEmail}
+```
+public static final PredefinedAction File_AttachToEmail
+```
+
+一个用于将当前 PDF 文档附加到电子邮件的命名操作。
+
+### File_Close {#File_Close}
+```
+public static final PredefinedAction File_Close
+```
+
+一个用于关闭文档的命名操作。
+
+### File_CreatePDF_FromScanner {#File_CreatePDF_FromScanner}
+```
+public static final PredefinedAction File_CreatePDF_FromScanner
+```
+
+一个用于从扫描仪创建 PDF 文档的命名操作。
+
+### File_CreatePDF_FromWebPage {#File_CreatePDF_FromWebPage}
+```
+public static final PredefinedAction File_CreatePDF_FromWebPage
+```
+
+一个用于从网页创建 PDF 文档的命名操作。
+
+### File_Exit {#File_Exit}
+```
+public static final PredefinedAction File_Exit
+```
+
+一个用于退出 PDF 阅读器的命名操作。
+
+### File_Organizer_OpenOrganizer {#File_Organizer_OpenOrganizer}
+```
+public static final PredefinedAction File_Organizer_OpenOrganizer
+```
+
+一个用于打开组织器的命名操作。
+
+### File_Print {#File_Print}
+```
+public static final PredefinedAction File_Print
+```
+
+一个用于打印文档的命名操作。
+
+### File_Properties {#File_Properties}
+```
+public static final PredefinedAction File_Properties
+```
+
+一个用于打开文档属性的命名操作。
+
+### File_SaveAs {#File_SaveAs}
+```
+public static final PredefinedAction File_SaveAs
+```
+
+一个用于以其他名称保存文档的命名操作。
 
 ### FirstPage {#FirstPage}
 ```
-public static final int FirstPage
+public static final PredefinedAction FirstPage
 ```
 
-
-转到第一页的命名操作。
+一个用于转到首页的命名操作。
 
 ### LastPage {#LastPage}
 ```
-public static final int LastPage
+public static final PredefinedAction LastPage
 ```
 
+一个用于转到末页的命名操作。
 
-转到最后一页的命名操作。
-
-### Miscellaneous_ZoomIn {#Miscellaneous-ZoomIn}
+### Miscellaneous_ZoomIn {#Miscellaneous_ZoomIn}
 ```
-public static final int Miscellaneous_ZoomIn
-```
-
-
-用于放大文档的命名操作。
-
-### Miscellaneous_ZoomOut {#Miscellaneous-ZoomOut}
-```
-public static final int Miscellaneous_ZoomOut
+public static final PredefinedAction Miscellaneous_ZoomIn
 ```
 
+一个用于放大文档的命名操作。
 
-缩小文档的命名操作。
+### Miscellaneous_ZoomOut {#Miscellaneous_ZoomOut}
+```
+public static final PredefinedAction Miscellaneous_ZoomOut
+```
+
+一个用于缩小文档的命名操作。
 
 ### NextPage {#NextPage}
 ```
-public static final int NextPage
+public static final PredefinedAction NextPage
 ```
 
+一个用于转到下一页的命名操作。
 
-转到下一页的命名操作。
-
-### PageImages_PrintPages {#PageImages-PrintPages}
+### PageImages_PrintPages {#PageImages_PrintPages}
 ```
-public static final int PageImages_PrintPages
+public static final PredefinedAction PageImages_PrintPages
 ```
 
-
-打印文档页面的命名操作。
+一个用于打印文档页面的命名操作。
 
 ### PrevPage {#PrevPage}
 ```
-public static final int PrevPage
+public static final PredefinedAction PrevPage
 ```
 
-
-转到上一页的命名操作。
+一个命名操作用于转到上一页。
 
 ### Print {#Print}
 ```
-public static final int Print
+public static final PredefinedAction Print
 ```
 
-
-打开打印对话框的命名操作。
+一个命名操作用于打开打印对话框。
 
 ### PrintDialog {#PrintDialog}
 ```
-public static final int PrintDialog
+public static final PredefinedAction PrintDialog
 ```
 
+一个命名操作用于打开打印对话框（JavaScript）。
 
-打开打印对话框的命名操作 (JavaScript)。
-
-### View_GoTo_NextView {#View-GoTo-NextView}
-```
-public static final int View_GoTo_NextView
-```
-
-
-转到下一个视图的命名操作。
-
-### View_GoTo_Page {#View-GoTo-Page}
+### View_GoTo_NextView {#View_GoTo_NextView}
 ```
-public static final int View_GoTo_Page
+public static final PredefinedAction View_GoTo_NextView
 ```
 
+一个命名操作用于转到下一个视图。
 
-转到特定页面的命名操作。
-
-### View_GoTo_PreDocument {#View-GoTo-PreDocument}
+### View_GoTo_Page {#View_GoTo_Page}
 ```
-public static final int View_GoTo_PreDocument
+public static final PredefinedAction View_GoTo_Page
 ```
 
+一个命名操作用于转到特定页面。
 
-转到上一个文档的命名操作。
-
-### View_GoTo_PreView {#View-GoTo-PreView}
+### View_GoTo_PreDocument {#View_GoTo_PreDocument}
 ```
-public static final int View_GoTo_PreView
+public static final PredefinedAction View_GoTo_PreDocument
 ```
-
 
-转到上一个视图的命名操作。
+一个命名操作用于转到上一个文档。
 
-### View_NavigationPanels_Articles {#View-NavigationPanels-Articles}
+### View_GoTo_PreView {#View_GoTo_PreView}
 ```
-public static final int View_NavigationPanels_Articles
+public static final PredefinedAction View_GoTo_PreView
 ```
 
+一个命名操作用于转到上一个视图。
 
-显示/隐藏文章面板的命名操作。
-
-### View_NavigationPanels_Attachments {#View-NavigationPanels-Attachments}
+### View_NavigationPanels_Articles {#View_NavigationPanels_Articles}
 ```
-public static final int View_NavigationPanels_Attachments
+public static final PredefinedAction View_NavigationPanels_Articles
 ```
 
+一个命名操作用于显示/隐藏文章面板。
 
-显示/隐藏附件面板的命名操作。
-
-### View_NavigationPanels_Boomarks {#View-NavigationPanels-Boomarks}
+### View_NavigationPanels_Attachments {#View_NavigationPanels_Attachments}
 ```
-public static final int View_NavigationPanels_Boomarks
+public static final PredefinedAction View_NavigationPanels_Attachments
 ```
-
 
-显示/隐藏书签面板的命名操作。
+一个命名操作用于显示/隐藏附件面板。
 
-### View_NavigationPanels_Comments {#View-NavigationPanels-Comments}
+### View_NavigationPanels_Boomarks {#View_NavigationPanels_Boomarks}
 ```
-public static final int View_NavigationPanels_Comments
+public static final PredefinedAction View_NavigationPanels_Boomarks
 ```
 
+一个命名操作用于显示/隐藏书签面板。
 
-显示/隐藏评论面板的命名操作。
-
-### View_NavigationPanels_Fields {#View-NavigationPanels-Fields}
+### View_NavigationPanels_Comments {#View_NavigationPanels_Comments}
 ```
-public static final int View_NavigationPanels_Fields
+public static final PredefinedAction View_NavigationPanels_Comments
 ```
 
+一个命名操作用于显示/隐藏评论面板。
 
-显示/隐藏字段面板的命名操作。
-
-### View_NavigationPanels_Layers {#View-NavigationPanels-Layers}
+### View_NavigationPanels_Fields {#View_NavigationPanels_Fields}
 ```
-public static final int View_NavigationPanels_Layers
+public static final PredefinedAction View_NavigationPanels_Fields
 ```
-
 
-显示/隐藏图层面板的命名操作。
+一个命名操作用于显示/隐藏字段面板。
 
-### View_NavigationPanels_ModelTree {#View-NavigationPanels-ModelTree}
+### View_NavigationPanels_Layers {#View_NavigationPanels_Layers}
 ```
-public static final int View_NavigationPanels_ModelTree
+public static final PredefinedAction View_NavigationPanels_Layers
 ```
 
+一个命名操作用于显示/隐藏图层面板。
 
-显示/隐藏模型树面板的命名操作。
-
-### View_NavigationPanels_Pages {#View-NavigationPanels-Pages}
+### View_NavigationPanels_ModelTree {#View_NavigationPanels_ModelTree}
 ```
-public static final int View_NavigationPanels_Pages
+public static final PredefinedAction View_NavigationPanels_ModelTree
 ```
 
+一个命名操作用于显示/隐藏模型树面板。
 
-显示/隐藏页面面板的命名操作。
-
-### View_NavigationPanels_Signatures {#View-NavigationPanels-Signatures}
+### View_NavigationPanels_Pages {#View_NavigationPanels_Pages}
 ```
-public static final int View_NavigationPanels_Signatures
+public static final PredefinedAction View_NavigationPanels_Pages
 ```
-
 
-显示/隐藏签名面板的命名操作。
+一个命名操作用于显示/隐藏页面面板。
 
-### View_PageDisplay_SinglePage {#View-PageDisplay-SinglePage}
+### View_NavigationPanels_Signatures {#View_NavigationPanels_Signatures}
 ```
-public static final int View_PageDisplay_SinglePage
+public static final PredefinedAction View_NavigationPanels_Signatures
 ```
 
+一个命名操作用于显示/隐藏签名面板。
 
-显示单个页面的命名操作。
-
-### View_PageDisplay_SinglePageContinuous {#View-PageDisplay-SinglePageContinuous}
+### View_PageDisplay_SinglePage {#View_PageDisplay_SinglePage}
 ```
-public static final int View_PageDisplay_SinglePageContinuous
+public static final PredefinedAction View_PageDisplay_SinglePage
 ```
 
+一个命名操作用于显示单页。
 
-显示单个连续页面的命名操作。
-
-### View_PageDisplay_TwoUp {#View-PageDisplay-TwoUp}
+### View_PageDisplay_SinglePageContinuous {#View_PageDisplay_SinglePageContinuous}
 ```
-public static final int View_PageDisplay_TwoUp
+public static final PredefinedAction View_PageDisplay_SinglePageContinuous
 ```
-
 
-将页面显示为 Two-Up 的命名操作。
+一个命名操作用于显示单个连续页面。
 
-### View_PageDisplay_TwoUpContinuous {#View-PageDisplay-TwoUpContinuous}
+### View_PageDisplay_TwoUp {#View_PageDisplay_TwoUp}
 ```
-public static final int View_PageDisplay_TwoUpContinuous
+public static final PredefinedAction View_PageDisplay_TwoUp
 ```
 
+一个命名操作用于将页面显示为双页。
 
-将页面显示为连续两页的命名操作。
-
-### View_Toolbars_AdvanceEditing {#View-Toolbars-AdvanceEditing}
+### View_PageDisplay_TwoUpContinuous {#View_PageDisplay_TwoUpContinuous}
 ```
-public static final int View_Toolbars_AdvanceEditing
+public static final PredefinedAction View_PageDisplay_TwoUpContinuous
 ```
 
+一个命名操作用于将页面连续显示为双页。
 
-显示/隐藏高级编辑工具栏的命名操作。
-
-### View_Toolbars_CommentMarkup {#View-Toolbars-CommentMarkup}
+### View_Toolbars_AdvanceEditing {#View_Toolbars_AdvanceEditing}
 ```
-public static final int View_Toolbars_CommentMarkup
+public static final PredefinedAction View_Toolbars_AdvanceEditing
 ```
-
 
-显示/隐藏评论工具栏的命名操作。
+一个命名操作用于显示/隐藏高级编辑工具栏。
 
-### View_Toolbars_Edit {#View-Toolbars-Edit}
+### View_Toolbars_CommentMarkup {#View_Toolbars_CommentMarkup}
 ```
-public static final int View_Toolbars_Edit
+public static final PredefinedAction View_Toolbars_CommentMarkup
 ```
 
+一个命名操作用于显示/隐藏评论工具栏。
 
-显示/隐藏编辑工具栏的命名操作。
-
-### View_Toolbars_File {#View-Toolbars-File}
+### View_Toolbars_Edit {#View_Toolbars_Edit}
 ```
-public static final int View_Toolbars_File
+public static final PredefinedAction View_Toolbars_Edit
 ```
 
+一个命名操作用于显示/隐藏编辑工具栏。
 
-显示/隐藏文件工具栏的命名操作。
-
-### View_Toolbars_Find {#View-Toolbars-Find}
+### View_Toolbars_File {#View_Toolbars_File}
 ```
-public static final int View_Toolbars_Find
+public static final PredefinedAction View_Toolbars_File
 ```
-
 
-显示/隐藏查找工具栏的命名操作。
+一个命名操作用于显示/隐藏文件工具栏。
 
-### View_Toolbars_Forms {#View-Toolbars-Forms}
+### View_Toolbars_Find {#View_Toolbars_Find}
 ```
-public static final int View_Toolbars_Forms
+public static final PredefinedAction View_Toolbars_Find
 ```
 
+一个命名操作用于显示/隐藏查找工具栏。
 
-显示/隐藏表单工具栏的命名操作。
-
-### View_Toolbars_Measuring {#View-Toolbars-Measuring}
+### View_Toolbars_Forms {#View_Toolbars_Forms}
 ```
-public static final int View_Toolbars_Measuring
+public static final PredefinedAction View_Toolbars_Forms
 ```
 
+一个用于显示/隐藏表单工具栏的命名操作。
 
-显示/隐藏测量工具栏的命名操作。
-
-### View_Toolbars_ObjectData {#View-Toolbars-ObjectData}
+### View_Toolbars_Measuring {#View_Toolbars_Measuring}
 ```
-public static final int View_Toolbars_ObjectData
+public static final PredefinedAction View_Toolbars_Measuring
 ```
-
 
-显示/隐藏对象数据工具栏的命名操作。
+一个用于显示/隐藏测量工具栏的命名操作。
 
-### View_Toolbars_PageDisplay {#View-Toolbars-PageDisplay}
+### View_Toolbars_ObjectData {#View_Toolbars_ObjectData}
 ```
-public static final int View_Toolbars_PageDisplay
+public static final PredefinedAction View_Toolbars_ObjectData
 ```
 
+一个用于显示/隐藏对象数据工具栏的命名操作。
 
-显示/隐藏页面显示工具栏的命名操作。
-
-### View_Toolbars_PageNavigation {#View-Toolbars-PageNavigation}
+### View_Toolbars_PageDisplay {#View_Toolbars_PageDisplay}
 ```
-public static final int View_Toolbars_PageNavigation
+public static final PredefinedAction View_Toolbars_PageDisplay
 ```
 
+一个用于显示/隐藏页面显示工具栏的命名操作。
 
-显示/隐藏导航工具栏的命名操作。
-
-### View_Toolbars_PrintProduction {#View-Toolbars-PrintProduction}
+### View_Toolbars_PageNavigation {#View_Toolbars_PageNavigation}
 ```
-public static final int View_Toolbars_PrintProduction
+public static final PredefinedAction View_Toolbars_PageNavigation
 ```
-
 
-显示/隐藏打印制作工具栏的命名操作。
+一个用于显示/隐藏导航工具栏的命名操作。
 
-### View_Toolbars_PropertiesBar {#View-Toolbars-PropertiesBar}
+### View_Toolbars_PrintProduction {#View_Toolbars_PrintProduction}
 ```
-public static final int View_Toolbars_PropertiesBar
+public static final PredefinedAction View_Toolbars_PrintProduction
 ```
 
+一个用于显示/隐藏打印生产工具栏的命名操作。
 
-显示/隐藏属性工具栏的命名操作。
-
-### View_Toolbars_Redaction {#View-Toolbars-Redaction}
+### View_Toolbars_PropertiesBar {#View_Toolbars_PropertiesBar}
 ```
-public static final int View_Toolbars_Redaction
+public static final PredefinedAction View_Toolbars_PropertiesBar
 ```
 
+一个用于显示/隐藏属性工具栏的命名操作。
 
-显示/隐藏密文工具栏的命名操作。
-
-### View_Toolbars_SelectZoom {#View-Toolbars-SelectZoom}
+### View_Toolbars_Redaction {#View_Toolbars_Redaction}
 ```
-public static final int View_Toolbars_SelectZoom
+public static final PredefinedAction View_Toolbars_Redaction
 ```
-
 
-显示/隐藏选择和缩放工具栏的命名操作。
+一个用于显示/隐藏编辑工具栏的命名操作。
 
-### View_Toolbars_Tasks {#View-Toolbars-Tasks}
+### View_Toolbars_SelectZoom {#View_Toolbars_SelectZoom}
 ```
-public static final int View_Toolbars_Tasks
+public static final PredefinedAction View_Toolbars_SelectZoom
 ```
 
+一个用于显示/隐藏选择与缩放工具栏的命名操作。
 
-显示/隐藏任务工具栏的命名操作。
-
-### View_Toolbars_Typewriter {#View-Toolbars-Typewriter}
+### View_Toolbars_Tasks {#View_Toolbars_Tasks}
 ```
-public static final int View_Toolbars_Typewriter
+public static final PredefinedAction View_Toolbars_Tasks
 ```
 
+一个用于显示/隐藏任务工具栏的命名操作。
 
-显示/隐藏打字机工具栏的命名操作。
-
-### View_Zoom_ActualSize {#View-Zoom-ActualSize}
+### View_Toolbars_Typewriter {#View_Toolbars_Typewriter}
 ```
-public static final int View_Zoom_ActualSize
+public static final PredefinedAction View_Toolbars_Typewriter
 ```
-
 
-以实际大小查看页面的命名操作。
+一个用于显示/隐藏打字机工具栏的命名操作。
 
-### View_Zoom_FitHeight {#View-Zoom-FitHeight}
+### View_Zoom_ActualSize {#View_Zoom_ActualSize}
 ```
-public static final int View_Zoom_FitHeight
+public static final PredefinedAction View_Zoom_ActualSize
 ```
 
+一个用于以实际大小查看页面的命名操作。
 
-使页面适合高度的命名操作。
-
-### View_Zoom_FitPage {#View-Zoom-FitPage}
+### View_Zoom_FitHeight {#View_Zoom_FitHeight}
 ```
-public static final int View_Zoom_FitPage
+public static final PredefinedAction View_Zoom_FitHeight
 ```
 
+一个用于按高度适配页面的命名操作。
 
-适合页面的命名操作。
-
-### View_Zoom_FitVisible {#View-Zoom-FitVisible}
+### View_Zoom_FitPage {#View_Zoom_FitPage}
 ```
-public static final int View_Zoom_FitVisible
+public static final PredefinedAction View_Zoom_FitPage
 ```
-
 
-适合页面可见性的命名操作。
+一个用于适配页面的命名操作。
 
-### View_Zoom_FitWidth {#View-Zoom-FitWidth}
+### View_Zoom_FitVisible {#View_Zoom_FitVisible}
 ```
-public static final int View_Zoom_FitWidth
+public static final PredefinedAction View_Zoom_FitVisible
 ```
 
+一个用于适配页面可见性的命名操作。
 
-使页面适合宽度的命名操作。
-
-### View_Zoom_ZoomTo {#View-Zoom-ZoomTo}
+### View_Zoom_FitWidth {#View_Zoom_FitWidth}
 ```
-public static final int View_Zoom_ZoomTo
+public static final PredefinedAction View_Zoom_FitWidth
 ```
 
+一个用于按宽度适配页面的命名操作。
 
-进行缩放的命名操作。
-
-### Window_FullScreenMode {#Window-FullScreenMode}
+### View_Zoom_ZoomTo {#View_Zoom_ZoomTo}
 ```
-public static final int Window_FullScreenMode
+public static final PredefinedAction View_Zoom_ZoomTo
 ```
-
 
-以全屏模式查看文档的命名操作。
+一个用于进行缩放的命名操作。
 
-### Clone() {#Clone--}
+### Window_FullScreenMode {#Window_FullScreenMode}
 ```
-public System.Enum Clone()
+public static final PredefinedAction Window_FullScreenMode
 ```
 
+一个用于在全屏模式下查看文档的命名操作。
 
-
-
-**退货：**
-com.aspose.ms.System.枚举
-### CloneTo(T arg0) {#CloneTo-T-}
+### getByValue {#getByValue-int-}
 ```
-public abstract void CloneTo(T arg0)
+public static PredefinedAction getByValue(int value)
 ```
-
-
 
 
-**参数：**
 
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| arg0 | T |  |
+| 值 |  |  |
 
-### CloneTo(System.Enum arg0) {#CloneTo-com.aspose.ms.System.Enum-}
+### getValue {#getValue--}
 ```
-public void CloneTo(System.Enum arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.Enum |  |
-
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
+public int getValue()
 ```
 
 
 
+### valueOf {#valueOf-java.lang.String-}
+返回此类型中具有指定名称的枚举常量。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### format(System.Type arg0, Object arg1, String arg2) {#format-com.aspose.ms.System.Type-java.lang.Object-java.lang.String-}
+### values {#values--}
 ```
-public static String format(System.Type arg0, Object arg1, String arg2)
+public static PredefinedAction [] values()
 ```
 
+返回一个数组，包含此枚举类型的常量，按声明顺序排列。
 
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.Type |  |
-| arg1 | java.lang.Object |  |
-| arg2 | java.lang.String |  |
-
-**退货：**
-java.lang.字符串
-### format(Class<?> arg0, long arg1, String arg2) {#format-java.lang.Class----long-java.lang.String-}
-```
-public static String format(Class<?> arg0, long arg1, String arg2)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Class<?> |  |
-| arg1 | long |  |
-| arg2 | java.lang.String |  |
-
-**退货：**
-java.lang.字符串
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getName(Class<?> arg0, long arg1) {#getName-java.lang.Class----long-}
-```
-public static String getName(Class<?> arg0, long arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Class<?> |  |
-| arg1 | long |  |
-
-**退货：**
-java.lang.字符串
-### getNames(System.Type arg0) {#getNames-com.aspose.ms.System.Type-}
-```
-public static String[] getNames(System.Type arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.Type |  |
-
-**退货：**
-java.lang.字符串[]
-### getNames(Class<?> arg0) {#getNames-java.lang.Class----}
-```
-public static Collection<String> getNames(Class<?> arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Class<?> |  |
-
-**退货：**
-[Collection](../../java.util/collection)
-### getUnderlyingType(System.Type arg0) {#getUnderlyingType-com.aspose.ms.System.Type-}
-```
-public static System.Type getUnderlyingType(System.Type arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.Type |  |
-
-**退货：**
-com.aspose.ms.System.类型
-### getUnderlyingType(Class<?> arg0) {#getUnderlyingType-java.lang.Class----}
-```
-public static Class<? extends Number> getUnderlyingType(Class<?> arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Class<?> |  |
-
-**退货：**
-java.lang.Class<?扩展 java.lang.Number>
-### getValue(Class<?> arg0, String arg1) {#getValue-java.lang.Class----java.lang.String-}
-```
-public static long getValue(Class<?> arg0, String arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Class<?> |  |
-| arg1 | java.lang.String |  |
-
-**退货：**
-长
-### getValues(System.Type arg0) {#getValues-com.aspose.ms.System.Type-}
-```
-public static System.Array getValues(System.Type arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.Type |  |
-
-**退货：**
-com.aspose.ms.System.数组
-### get_Caption() {#get-Caption--}
-```
-public String get_Caption()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### get_Value() {#get-Value--}
-```
-public long get_Value()
-```
-
-
-
-
-**退货：**
-长
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### isDefined(System.Type arg0, Object arg1) {#isDefined-com.aspose.ms.System.Type-java.lang.Object-}
-```
-public static boolean isDefined(System.Type arg0, Object arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.Type |  |
-| arg1 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### isDefined(System.Type arg0, String arg1) {#isDefined-com.aspose.ms.System.Type-java.lang.String-}
-```
-public static boolean isDefined(System.Type arg0, String arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.Type |  |
-| arg1 | java.lang.String |  |
-
-**退货：**
-布尔值
-### isDefined(System.Type arg0, long arg1) {#isDefined-com.aspose.ms.System.Type-long-}
-```
-public static boolean isDefined(System.Type arg0, long arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.Type |  |
-| arg1 | long |  |
-
-**退货：**
-布尔值
-### isDefined(Class<?> arg0, long arg1) {#isDefined-java.lang.Class----long-}
-```
-public static boolean isDefined(Class<?> arg0, long arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Class<?> |  |
-| arg1 | long |  |
-
-**退货：**
-布尔值
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### parse(System.Type arg0, String arg1) {#parse-com.aspose.ms.System.Type-java.lang.String-}
-```
-public static long parse(System.Type arg0, String arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.Type |  |
-| arg1 | java.lang.String |  |
-
-**退货：**
-长
-### parse(System.Type arg0, String arg1, Boolean arg2) {#parse-com.aspose.ms.System.Type-java.lang.String-java.lang.Boolean-}
-```
-public static long parse(System.Type arg0, String arg1, Boolean arg2)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.Type |  |
-| arg1 | java.lang.String |  |
-| arg2 | java.lang.Boolean |  |
-
-**退货：**
-长
-### parse(Class<?> arg0, String arg1) {#parse-java.lang.Class----java.lang.String-}
-```
-public static long parse(Class<?> arg0, String arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Class<?> |  |
-| arg1 | java.lang.String |  |
-
-**退货：**
-长
-### parse(Class<?> arg0, String arg1, Boolean arg2) {#parse-java.lang.Class----java.lang.String-java.lang.Boolean-}
-```
-public static long parse(Class<?> arg0, String arg1, Boolean arg2)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Class<?> |  |
-| arg1 | java.lang.String |  |
-| arg2 | java.lang.Boolean |  |
-
-**退货：**
-长
-### register(System.Enum.AbstractEnum arg0) {#register-com.aspose.ms.System.Enum.AbstractEnum-}
-```
-public static void register(System.Enum.AbstractEnum arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.Enum.AbstractEnum |  |
-
-### toObject(System.Type arg0, Object arg1) {#toObject-com.aspose.ms.System.Type-java.lang.Object-}
-```
-public static Object toObject(System.Type arg0, Object arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.Type |  |
-| arg1 | java.lang.Object |  |
-
-**退货：**
-java.lang.Object
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+**Returns:**
+一个数组，包含此枚举类型的常量，按声明顺序排列

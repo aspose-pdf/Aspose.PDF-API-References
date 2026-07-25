@@ -1,558 +1,332 @@
 ---
-title: Cell
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 代表表格行的单元格。
+title: "单元格"
+linktitle: "单元格"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示表格行的单元格。"
 type: docs
-weight: 52
+weight: 510
 url: /zh/java/com.aspose.pdf/cell/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.Cell
 
-**所有已实现的接口：**
+**All Implemented Interfaces:**
 com.aspose.ms.System.ICloneable
+
 ```
-public final class Cell implements System.ICloneable
+public final class Cell extends Object implements com.aspose.ms.System.ICloneable
 ```
 
-代表表格行的一个单元格。
+表示表格行的单元格。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [Cell(Rectangle rect)](#Cell-com.aspose.pdf.Rectangle-) | 初始化 Cell 类的新实例。 |
-| [Cell()](#Cell--) | 初始化 Cell 类的新实例。 |
+| [Cell](#Cell--) | 初始化 Cell 类的新实例。 |
+| [Cell](#Cell-com.aspose.pdf.Rectangle-) | 初始化 Cell 类的新实例。 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [deepClone()](#deepClone--) | 克隆细胞。 |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getAlignment()](#getAlignment--) | 获取对齐方式。 |
-| [getBackgroundColor()](#getBackgroundColor--) | 获取背景颜色。 |
-| [getBackgroundImage()](#getBackgroundImage--) | 获取或设置背景图片 |
-| [getBackgroundImageFile()](#getBackgroundImageFile--) | 获取背景图像文件。 |
-| [getBorder()](#getBorder--) | 获取边框。 |
-| [getClass()](#getClass--) |  |
-| [getColSpan()](#getColSpan--) | 获取或设置列跨度。 |
-| [getDefaultCellTextState()](#getDefaultCellTextState--) | 获取默认的单元格文本状态。 |
-| [getMargin()](#getMargin--) | 获取填充。 |
-| [getParagraphs()](#getParagraphs--) | 获取单元格的格式化文本。 |
-| [getRowSpan()](#getRowSpan--) | 获取行跨度。 |
-| [getVerticalAlignment()](#getVerticalAlignment--) | 获取垂直对齐方式。 |
-| [getWidth()](#getWidth--) | 获取列宽。 |
-| [hashCode()](#hashCode--) |  |
-| [isNoBorder()](#isNoBorder--) | 获取有边框的单元格。 |
-| [isOverrideByFragment()](#isOverrideByFragment--) | 设置单元格的 TextState 属性被 TextFragment 的 TextState 属性覆盖。 |
-| [isWordWrapped()](#isWordWrapped--) | 获取单元格的文本单词换行。 |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setAlignment(int value)](#setAlignment-int-) | 设置对齐方式。 |
-| [setBackgroundColor(Color value)](#setBackgroundColor-com.aspose.pdf.Color-) | 获取或设置背景颜色。 |
-| [setBackgroundImage(Image value)](#setBackgroundImage-com.aspose.pdf.Image-) | 获取或设置背景图片 |
-| [setBackgroundImageFile(String value)](#setBackgroundImageFile-java.lang.String-) | 设置背景图像文件。 |
-| [setBorder(BorderInfo value)](#setBorder-com.aspose.pdf.BorderInfo-) | 设置边框。 |
-| [setColSpan(int value)](#setColSpan-int-) | 设置列跨度。 |
-| [setDefaultCellTextState(TextState value)](#setDefaultCellTextState-com.aspose.pdf.TextState-) | 设置默认单元格文本状态。 |
-| [setMargin(MarginInfo value)](#setMargin-com.aspose.pdf.MarginInfo-) | 设置填充。 |
-| [setNoBorder(boolean value)](#setNoBorder-boolean-) | 设置单元格有边框。 |
-| [setOverrideByFragment(boolean value)](#setOverrideByFragment-boolean-) | 设置单元格的 TextState 属性被 TextFragment 的 TextState 属性覆盖。 |
-| [setParagraphs(Paragraphs value)](#setParagraphs-com.aspose.pdf.Paragraphs-) | 设置单元格的格式化文本。 |
-| [setRowSpan(int value)](#setRowSpan-int-) | 设置行跨度。 |
-| [setVerticalAlignment(int value)](#setVerticalAlignment-int-) | 设置垂直对齐方式。 |
-| [setWidth(double value)](#setWidth-double-) | 设置列宽。 |
-| [setWordWrapped(boolean value)](#setWordWrapped-boolean-) | 设置单元格的文本字换行。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### Cell(Rectangle rect) {#Cell-com.aspose.pdf.Rectangle-}
-```
-public Cell(Rectangle rect)
-```
+| [deepClone](#deepClone--) | 克隆单元格。 |
+| [getAlignment](#getAlignment--) | 获取对齐方式。 |
+| [getBackgroundColor](#getBackgroundColor--) | 获取背景颜色。 |
+| [getBackgroundImage](#getBackgroundImage--) | 获取或设置背景图像 |
+| [getBackgroundImageFile](#getBackgroundImageFile--) | 获取背景图像文件。 |
+| [getBorder](#getBorder--) | 获取边框。 |
+| [getColSpan](#getColSpan--) | 获取或设置列跨度。 |
+| [getDefaultCellTextState](#getDefaultCellTextState--) | 获取默认单元格文本状态。 |
+| [getMargin](#getMargin--) | 获取内边距。 |
+| [getParagraphs](#getParagraphs--) | 获取单元格的格式化文本。 |
+| [getRowSpan](#getRowSpan--) | 获取行跨度。 |
+| [getVerticalAlignment](#getVerticalAlignment--) | 获取垂直对齐方式。 |
+| [getWidth](#getWidth--) | 获取列宽。 |
+| [isNoBorder](#isNoBorder--) | 获取单元格是否具有边框。 |
+| [isOverrideByFragment](#isOverrideByFragment--) | 设置单元格的 TextState 属性被 TextFragment TextState 属性覆盖。 |
+| [isWordWrapped](#isWordWrapped--) | 获取单元格的文本自动换行。 |
+| [setAlignment](#setAlignment-com.aspose.pdf.HorizontalAlignment-) | 设置对齐方式。 |
+| [setBackgroundColor](#setBackgroundColor-com.aspose.pdf.Color-) | 获取或设置背景颜色。 |
+| [setBackgroundImage](#setBackgroundImage-com.aspose.pdf.Image-) | 获取或设置背景图像 |
+| [setBackgroundImageFile](#setBackgroundImageFile-java.lang.String-) | 设置背景图像文件。 |
+| [setBorder](#setBorder-com.aspose.pdf.BorderInfo-) | 设置边框。 |
+| [setColSpan](#setColSpan-int-) | 设置列跨度。 |
+| [setDefaultCellTextState](#setDefaultCellTextState-com.aspose.pdf.TextState-) | 设置默认单元格文本状态。 |
+| [setMargin](#setMargin-com.aspose.pdf.MarginInfo-) | 设置内边距。 |
+| [setNoBorder](#setNoBorder-boolean-) | 设置单元格是否具有边框。 |
+| [setOverrideByFragment](#setOverrideByFragment-boolean-) | 设置单元格的 TextState 属性被 TextFragment TextState 属性覆盖。 |
+| [setParagraphs](#setParagraphs-com.aspose.pdf.Paragraphs-) | 设置单元格的格式化文本。 |
+| [setRowSpan](#setRowSpan-int-) | 设置行跨度。 |
+| [setVerticalAlignment](#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-) | 设置垂直对齐方式。 |
+| [setWidth](#setWidth-double-) | 设置列宽。 |
+| [setWordWrapped](#setWordWrapped-boolean-) | 设置单元格文本自动换行。 |
 
-
-初始化 Cell 类的新实例。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| rect | [Rectangle](../../com.aspose.pdf/rectangle) | 页面坐标中单元格的矩形。 |
-
-### Cell() {#Cell--}
+### Cell {#Cell--}
 ```
 public Cell()
 ```
 
-
 初始化 Cell 类的新实例。
 
-### deepClone() {#deepClone--}
+### Cell {#Cell-com.aspose.pdf.Rectangle-}
+初始化 Cell 类的新实例。
+
+### deepClone {#deepClone--}
 ```
 public Object deepClone()
 ```
 
+克隆单元格。
 
-克隆细胞。
+**Returns:**
+克隆的对象。
 
-**退货：**
-java.lang.Object - 克隆的对象
-### equals(Object arg0) {#equals-java.lang.Object-}
+### getAlignment {#getAlignment--}
 ```
-public boolean equals(Object arg0)
+public HorizontalAlignment getAlignment()
 ```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getAlignment() {#getAlignment--}
-```
-public int getAlignment()
-```
-
 
 获取对齐方式。
 
-**退货：**
-int - HorizontalAlignment 元素
-### getBackgroundColor() {#getBackgroundColor--}
+**Returns:**
+HorizontalAlignment 元素 @see HorizontalAlignment
+
+### getBackgroundColor {#getBackgroundColor--}
 ```
 public Color getBackgroundColor()
 ```
 
-
 获取背景颜色。
 
-**退货：**
-[Color](../../com.aspose.pdf/color) 颜色对象
-### getBackgroundImage() {#getBackgroundImage--}
+**Returns:**
+Color 对象
+
+### getBackgroundImage {#getBackgroundImage--}
 ```
 public final Image getBackgroundImage()
 ```
 
+获取或设置背景图像
 
-获取或设置背景图片
+**Returns:**
+图像实例
 
-**退货：**
-[Image](../../com.aspose.pdf/image) 图片实例
-### getBackgroundImageFile() {#getBackgroundImageFile--}
+### getBackgroundImageFile {#getBackgroundImageFile--}
 ```
-public String getBackgroundImageFile()
+@Deprecated public String getBackgroundImageFile()
 ```
-
 
 获取背景图像文件。
 
-**退货：**
-java.lang.String - 字符串值
-### getBorder() {#getBorder--}
+**Returns:**
+字符串值 @deprecated 属性已扩展，请使用 BackgroundImage
+
+### getBorder {#getBorder--}
 ```
 public BorderInfo getBorder()
 ```
 
-
 获取边框。
 
-**退货：**
-[BorderInfo](../../com.aspose.pdf/borderinfo) BorderInfo 对象
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
+**Returns:**
+BorderInfo 对象
 
-
-
-
-**退货：**
-java.lang.Class<?>
-### getColSpan() {#getColSpan--}
+### getColSpan {#getColSpan--}
 ```
 public int getColSpan()
 ```
 
-
 获取或设置列跨度。
 
-**退货：**
-int - 整数值
-### getDefaultCellTextState() {#getDefaultCellTextState--}
+**Returns:**
+int 值
+
+### getDefaultCellTextState {#getDefaultCellTextState--}
 ```
 public TextState getDefaultCellTextState()
 ```
 
+获取默认单元格文本状态。
 
-获取默认的单元格文本状态。
+**Returns:**
+TextState 对象
 
-**退货：**
-[TextState](../../com.aspose.pdf/textstate) 文本状态对象
-### getMargin() {#getMargin--}
+### getMargin {#getMargin--}
 ```
 public MarginInfo getMargin()
 ```
 
+获取内边距。
 
-获取填充。
+**Returns:**
+MarginInfo 对象
 
-**退货：**
-[MarginInfo](../../com.aspose.pdf/margininfo) MarginInfo 对象
-### getParagraphs() {#getParagraphs--}
+### getParagraphs {#getParagraphs--}
 ```
 public Paragraphs getParagraphs()
 ```
 
-
 获取单元格的格式化文本。
 
-**退货：**
-[Paragraphs](../../com.aspose.pdf/paragraphs) 段落对象
-### getRowSpan() {#getRowSpan--}
+**Returns:**
+Paragraphs 对象
+
+### getRowSpan {#getRowSpan--}
 ```
 public int getRowSpan()
 ```
 
-
 获取行跨度。
 
-**退货：**
-int - 整数值
-### getVerticalAlignment() {#getVerticalAlignment--}
-```
-public int getVerticalAlignment()
-```
+**Returns:**
+int 值
 
+### getVerticalAlignment {#getVerticalAlignment--}
+```
+public VerticalAlignment getVerticalAlignment()
+```
 
 获取垂直对齐方式。
 
-**退货：**
-int - VerticalAlignment 元素
-### getWidth() {#getWidth--}
+**Returns:**
+VerticalAlignment 元素 @see VerticalAlignment
+
+### getWidth {#getWidth--}
 ```
 public double getWidth()
 ```
 
-
 获取列宽。
 
-**退货：**
-双倍价值
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
+**Returns:**
+double 值
 
-
-
-
-**退货：**
-整数
-### isNoBorder() {#isNoBorder--}
+### isNoBorder {#isNoBorder--}
 ```
 public boolean isNoBorder()
 ```
 
+获取单元格是否具有边框。
 
-获取有边框的单元格。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### isOverrideByFragment() {#isOverrideByFragment--}
+### isOverrideByFragment {#isOverrideByFragment--}
 ```
 public final boolean isOverrideByFragment()
 ```
 
+设置单元格的 TextState 属性被 TextFragment TextState 属性覆盖。
 
-设置单元格的 TextState 属性被 TextFragment 的 TextState 属性覆盖。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### isWordWrapped() {#isWordWrapped--}
+### isWordWrapped {#isWordWrapped--}
 ```
 public boolean isWordWrapped()
 ```
 
+获取单元格的文本自动换行。
 
-获取单元格的文本单词换行。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setAlignment(int value) {#setAlignment-int-}
-```
-public void setAlignment(int value)
-```
-
-
+### setAlignment {#setAlignment-com.aspose.pdf.HorizontalAlignment-}
 设置对齐方式。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | int | HorizontalAlignment 元素 |
-
-### setBackgroundColor(Color value) {#setBackgroundColor-com.aspose.pdf.Color-}
-```
-public void setBackgroundColor(Color value)
-```
-
-
+### setBackgroundColor {#setBackgroundColor-com.aspose.pdf.Color-}
 获取或设置背景颜色。
 
-**参数：**
+### setBackgroundImage {#setBackgroundImage-com.aspose.pdf.Image-}
+获取或设置背景图像
 
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [Color](../../com.aspose.pdf/color) | 颜色对象 |
-
-### setBackgroundImage(Image value) {#setBackgroundImage-com.aspose.pdf.Image-}
-```
-public final void setBackgroundImage(Image value)
-```
-
-
-获取或设置背景图片
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [Image](../../com.aspose.pdf/image) | 图片实例 |
-
-### setBackgroundImageFile(String value) {#setBackgroundImageFile-java.lang.String-}
-```
-public void setBackgroundImageFile(String value)
-```
-
-
+### setBackgroundImageFile {#setBackgroundImageFile-java.lang.String-}
 设置背景图像文件。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.String | 颜色对象 |
-
-### setBorder(BorderInfo value) {#setBorder-com.aspose.pdf.BorderInfo-}
-```
-public void setBorder(BorderInfo value)
-```
-
-
+### setBorder {#setBorder-com.aspose.pdf.BorderInfo-}
 设置边框。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [BorderInfo](../../com.aspose.pdf/borderinfo) | BorderInfo 对象 |
-
-### setColSpan(int value) {#setColSpan-int-}
+### setColSpan {#setColSpan-int-}
 ```
 public void setColSpan(int value)
 ```
 
-
 设置列跨度。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 整数值 |
+| 值 |  | int 值 |
 
-### setDefaultCellTextState(TextState value) {#setDefaultCellTextState-com.aspose.pdf.TextState-}
-```
-public void setDefaultCellTextState(TextState value)
-```
-
-
+### setDefaultCellTextState {#setDefaultCellTextState-com.aspose.pdf.TextState-}
 设置默认单元格文本状态。
 
-**参数：**
+### setMargin {#setMargin-com.aspose.pdf.MarginInfo-}
+设置内边距。
 
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [TextState](../../com.aspose.pdf/textstate) | 文本状态对象 |
-
-### setMargin(MarginInfo value) {#setMargin-com.aspose.pdf.MarginInfo-}
-```
-public void setMargin(MarginInfo value)
-```
-
-
-设置填充。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [MarginInfo](../../com.aspose.pdf/margininfo) | MarginInfo 对象 |
-
-### setNoBorder(boolean value) {#setNoBorder-boolean-}
+### setNoBorder {#setNoBorder-boolean-}
 ```
 public void setNoBorder(boolean value)
 ```
 
+设置单元格是否具有边框。
 
-设置单元格有边框。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setOverrideByFragment(boolean value) {#setOverrideByFragment-boolean-}
+### setOverrideByFragment {#setOverrideByFragment-boolean-}
 ```
 public final void setOverrideByFragment(boolean value)
 ```
 
+设置单元格的 TextState 属性被 TextFragment TextState 属性覆盖。
 
-设置单元格的 TextState 属性被 TextFragment 的 TextState 属性覆盖。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setParagraphs(Paragraphs value) {#setParagraphs-com.aspose.pdf.Paragraphs-}
-```
-public void setParagraphs(Paragraphs value)
-```
-
-
+### setParagraphs {#setParagraphs-com.aspose.pdf.Paragraphs-}
 设置单元格的格式化文本。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [Paragraphs](../../com.aspose.pdf/paragraphs) | 段落对象 |
-
-### setRowSpan(int value) {#setRowSpan-int-}
+### setRowSpan {#setRowSpan-int-}
 ```
 public void setRowSpan(int value)
 ```
 
-
 设置行跨度。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 整数值 |
+| 值 |  | int 值 |
 
-### setVerticalAlignment(int value) {#setVerticalAlignment-int-}
-```
-public void setVerticalAlignment(int value)
-```
-
-
+### setVerticalAlignment {#setVerticalAlignment-com.aspose.pdf.VerticalAlignment-}
 设置垂直对齐方式。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | int | VerticalAlignment 元素 |
-
-### setWidth(double value) {#setWidth-double-}
+### setWidth {#setWidth-double-}
 ```
 public void setWidth(double value)
 ```
 
-
 设置列宽。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 双倍价值 |
+| 值 |  | double 值 |
 
-### setWordWrapped(boolean value) {#setWordWrapped-boolean-}
+### setWordWrapped {#setWordWrapped-boolean-}
 ```
 public void setWordWrapped(boolean value)
 ```
 
+设置单元格文本自动换行。
 
-设置单元格的文本字换行。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| 值 |  | 布尔值 |

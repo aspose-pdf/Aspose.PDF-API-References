@@ -1,171 +1,65 @@
 ---
-title: NumberTree
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 表示 PDF 文件的数字树结构的类。 7.9.7 数字树
+title: "NumberTree"
+linktitle: "NumberTree"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示 PDF 文件的 Number 树结构的类。7.9.7Number Trees"
 type: docs
-weight: 229
+weight: 3150
 url: /zh/java/com.aspose.pdf/numbertree/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.NumberTree
+
 ```
-public class NumberTree
+public class NumberTree extends Object
 ```
 
-表示 PDF 文件的数字树结构的类。 7.9.7 数字树
+表示 PDF 文件的 Number 树结构的类。7.9.7Number Trees
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [get(int key)](#get-int-) | 按键获取项目。 |
-| [getClass()](#getClass--) |  |
-| [getKeys()](#getKeys--) | 获取树中的所有键。 |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [remove(int key)](#remove-int-) | 从数字树中删除密钥。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### equals(Object arg0) {#equals-java.lang.Object-}
+| [get](#get-int-) | 根据键获取项。 |
+| [getKeys](#getKeys--) | 获取树中的所有键。 |
+| [remove](#remove-int-) | 从数字树中移除键。 |
+
+### get {#get-int-}
 ```
-public boolean equals(Object arg0)
+public com.aspose.pdf.engine.data.IPdfPrimitive get(int key)
 ```
 
+根据键获取项。
 
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| arg0 | java.lang.Object |  |
+| 键 |  | int 值 |
 
-**退货：**
-布尔值
-### get(int key) {#get-int-}
+**Returns:**
+IPdfPrimitive 对象
+
+### getKeys {#getKeys--}
 ```
-public IPdfPrimitive get(int key)
+public com.aspose.ms.System.Collections.Generic.List< Integer > getKeys()
 ```
-
-
-按键获取项目。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| key | int | 整数值 |
-
-**退货：**
-[IPdfPrimitive](../../com.aspose.pdf.engine.data/ipdfprimitive) IPdfPrimitive 对象
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getKeys() {#getKeys--}
-```
-public System.Collections.Generic.List<Integer> getKeys()
-```
-
 
 获取树中的所有键。
 
-**退货：**
-com.aspose.ms.System.Collections.Generic.List<java.lang.Integer> - 列表对象 
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
+**Returns:**
+{@code List<Integer> object}
 
-
-
-
-**退货：**
-整数
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### remove(int key) {#remove-int-}
+### remove {#remove-int-}
 ```
 public boolean remove(int key)
 ```
 
+从数字树中移除键。
 
-从数字树中删除密钥。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| key | int | 整数值 |
+| 键 |  | int 值 |
 
-**退货：**
-boolean - 布尔值
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+**Returns:**
+布尔值

@@ -1,293 +1,194 @@
 ---
-title: MemoryExtender
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 表示 MemoryExtender 类 Using large files on a system with limited heap memory 可以启用将磁盘空间用作临时交换内存。
+title: "MemoryExtender"
+linktitle: "MemoryExtender"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示 MemoryExtender 类。在堆内存受限的系统上使用大文件时，可以启用它使用磁盘空间作为临时交换内存。"
 type: docs
-weight: 218
+weight: 3020
 url: /zh/java/com.aspose.pdf/memoryextender/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.MemoryExtender
+
 ```
-public class MemoryExtender
+public class MemoryExtender extends Object
 ```
 
-表示 MemoryExtender 类 在堆内存有限的系统上使用大文件，可以启用将磁盘空间用作临时交换内存。
+表示 MemoryExtender 类。在堆内存受限的系统上使用大文件时，可以启用它使用磁盘空间作为临时交换内存。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [MemoryExtender()](#MemoryExtender--) |  |
+| [MemoryExtender](#MemoryExtender--) |  |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getCallBackPageImage()](#getCallBackPageImage--) | 获取自定义缓存分析器。 |
-| [getClass()](#getClass--) |  |
-| [getElementRenderingTimeout()](#getElementRenderingTimeout--) | 渲染页面到图像转换中使用的单个元素的最长时间。 |
-| [hashCode()](#hashCode--) |  |
-| [isEnabledMultiPageImageCache()](#isEnabledMultiPageImageCache--) | 获取 EnabledMultiPageImageCache 字段的状态 |
-| [isOptimizedMemoryStreamByDefault()](#isOptimizedMemoryStreamByDefault--) | 启用以使用 OptimizedMemoryStream 作为默认内存存储。 |
-| [isOptimizedMemoryStreamByDefault(boolean value)](#isOptimizedMemoryStreamByDefault-boolean-) | 启用以使用 OptimizedMemoryStream 作为默认内存存储。 |
-| [isSkipHeavyContentEnabled()](#isSkipHeavyContentEnabled--) | 启用以在缺少堆内存的情况下跳过渲染中内存消耗高的对象。 |
-| [isSwapEnabled()](#isSwapEnabled--) | 启用以将磁盘空间用作临时交换内存。 |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setCallBackPageImage(MemoryExtender.CallBackPageImage callBackPageImage_)](#setCallBackPageImage-com.aspose.pdf.MemoryExtender.CallBackPageImage-) | 应用新的自定义缓存分析器。 |
-| [setElementRenderingTimeout(int value)](#setElementRenderingTimeout-int-) | 渲染页面到图像转换中使用的单个元素的最长时间。 |
-| [setEnableMultiPageCache(boolean enableMultiPageImageCache_)](#setEnableMultiPageCache-boolean-) | 为 EnabledMultiPageImageCache 字段设置新状态 |
-| [setSkipHeavyContentEnabled(boolean value)](#setSkipHeavyContentEnabled-boolean-) | 设置标志以启用在缺少堆内存的情况下跳过渲染中内存消耗高的对象。 |
-| [setSwapEnabled(boolean value)](#setSwapEnabled-boolean-) | 设置标志是否启用磁盘空间以用作临时交换内存。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### MemoryExtender() {#MemoryExtender--}
+| [getCallBackPageImage](#getCallBackPageImage--) | 获取自定义缓存分析器。 |
+| [getElementRenderingTimeout](#getElementRenderingTimeout--) | 用于页面转图像转换的单个元素渲染的最大时间。默认值 10000 毫秒。仅在 isSkipHeavyContentEnabled() == true 时使用。 |
+| [isEnabledMultiPageImageCache](#isEnabledMultiPageImageCache--) | 获取 EnabledMultiPageImageCache 字段的状态 |
+| [isOptimizedMemoryStreamByDefault](#isOptimizedMemoryStreamByDefault--) | 是否启用 OptimizedMemoryStream 作为默认内存存储。处理超过 2 GB 的大文档时需要。默认值为 FALSE。 |
+| [isOptimizedMemoryStreamByDefault](#isOptimizedMemoryStreamByDefault-boolean-) | 是否启用 OptimizedMemoryStream 作为默认内存存储。处理超过 2 GB 的大文档时需要。默认值为 FALSE。 |
+| [isSkipHeavyContentEnabled](#isSkipHeavyContentEnabled--) | 是否启用在堆内存不足的渲染中跳过高内存消耗的对象。默认值为 FALSE。 |
+| [isSwapEnabled](#isSwapEnabled--) | 是否启用使用磁盘空间作为临时交换内存。默认值为 FALSE。 |
+| [isTryToCreateFolderIfAbsent](#isTryToCreateFolderIfAbsent--) | 获取一个值，指示是否应自动创建缺失的文件夹。<p>If set to {@code true}, Aspose 按路径保存的方法将在目标文件夹结构不存在时尝试创建它。<p>默认值为 {@code false}. |
+| [setCallBackPageImage](#setCallBackPageImage-com.aspose.pdf.MemoryExtender.CallBackPageImage-) | 应用新的自定义缓存分析器。 |
+| [setElementRenderingTimeout](#setElementRenderingTimeout-int-) | 用于页面转图像转换的单个元素渲染的最大时间。默认值 10000 毫秒，仅在 isSkipHeavyContentEnabled() == true 时使用。 |
+| [setEnableMultiPageCache](#setEnableMultiPageCache-boolean-) | 设置 EnabledMultiPageImageCache 字段的新状态 |
+| [setSkipHeavyContentEnabled](#setSkipHeavyContentEnabled-boolean-) | 设置标志以在堆内存不足的渲染中跳过高内存消耗的对象。 |
+| [setSwapEnabled](#setSwapEnabled-boolean-) | 设置标志以启用使用磁盘空间作为临时交换内存。 |
+| [setTryToCreateFolderIfAbsent](#setTryToCreateFolderIfAbsent-boolean-) | 设置一个值，指示是否应自动创建缺失的文件夹。<p>If set to {@code true}, Aspose 按路径保存的方法将在目标文件夹结构不存在时尝试创建它。<p>默认值为 {@code false}. |
+
+### MemoryExtender {#MemoryExtender--}
 ```
 public MemoryExtender()
 ```
 
 
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
 
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getCallBackPageImage() {#getCallBackPageImage--}
+### getCallBackPageImage {#getCallBackPageImage--}
 ```
 public static MemoryExtender.CallBackPageImage getCallBackPageImage()
 ```
 
-
 获取自定义缓存分析器。
 
-**退货：**
-[CallBackPageImage](../../com.aspose.pdf/callbackpageimage) - CallBackPageImage 对象
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
+**Returns:**
+CallBackPageImage 对象
 
-
-
-
-**退货：**
-java.lang.Class<?>
-### getElementRenderingTimeout() {#getElementRenderingTimeout--}
+### getElementRenderingTimeout {#getElementRenderingTimeout--}
 ```
 public static int getElementRenderingTimeout()
 ```
 
+用于页面转图像转换的单个元素渲染的最大时间。默认值 10000 毫秒。仅在 isSkipHeavyContentEnabled() == true 时使用。
 
-渲染页面到图像转换中使用的单个元素的最长时间。默认值 10000 毫秒。仅在 isSkipHeavyContentEnabled() == true 时使用
+**Returns:**
+int 值 毫秒数
 
-**退货：**
-int - int 值 毫秒数
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### isEnabledMultiPageImageCache() {#isEnabledMultiPageImageCache--}
+### isEnabledMultiPageImageCache {#isEnabledMultiPageImageCache--}
 ```
 public static boolean isEnabledMultiPageImageCache()
 ```
 
-
 获取 EnabledMultiPageImageCache 字段的状态
 
-**退货：**
-boolean - 布尔值
-### isOptimizedMemoryStreamByDefault() {#isOptimizedMemoryStreamByDefault--}
+**Returns:**
+布尔值
+
+### isOptimizedMemoryStreamByDefault {#isOptimizedMemoryStreamByDefault--}
 ```
 public static boolean isOptimizedMemoryStreamByDefault()
 ```
 
+是否启用 OptimizedMemoryStream 作为默认内存存储。处理超过 2 GB 的大文档时需要。默认值为 FALSE。
 
-启用以使用 OptimizedMemoryStream 作为默认内存存储。处理超过 2 Gb 的大型文档时需要。默认值为 FALSE
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### isOptimizedMemoryStreamByDefault(boolean value) {#isOptimizedMemoryStreamByDefault-boolean-}
+### isOptimizedMemoryStreamByDefault {#isOptimizedMemoryStreamByDefault-boolean-}
 ```
 public static void isOptimizedMemoryStreamByDefault(boolean value)
 ```
 
+是否启用 OptimizedMemoryStream 作为默认内存存储。处理超过 2 GB 的大文档时需要。默认值为 FALSE。
 
-启用以使用 OptimizedMemoryStream 作为默认内存存储。处理超过 2 Gb 的大型文档时需要。默认值为 FALSE
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### isSkipHeavyContentEnabled() {#isSkipHeavyContentEnabled--}
+### isSkipHeavyContentEnabled {#isSkipHeavyContentEnabled--}
 ```
 public static boolean isSkipHeavyContentEnabled()
 ```
 
+是否启用在堆内存不足的渲染中跳过高内存消耗的对象。默认值为 FALSE。
 
-启用以在缺少堆内存的情况下跳过渲染中内存消耗高的对象。默认值为 FALSE
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### isSwapEnabled() {#isSwapEnabled--}
+### isSwapEnabled {#isSwapEnabled--}
 ```
 public static boolean isSwapEnabled()
 ```
 
+是否启用使用磁盘空间作为临时交换内存。默认值为 FALSE。
 
-启用以将磁盘空间用作临时交换内存。默认值为 FALSE
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### notify() {#notify--}
+### isTryToCreateFolderIfAbsent {#isTryToCreateFolderIfAbsent--}
 ```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
+public static boolean isTryToCreateFolderIfAbsent()
 ```
 
+获取一个值，指示是否应自动创建缺失的文件夹。<p>If set to {@code true}, Aspose 按路径保存的方法将在目标文件夹结构不存在时尝试创建它。<p>默认值为 {@code false}.
 
+**Returns:**
+布尔值
 
-
-### setCallBackPageImage(MemoryExtender.CallBackPageImage callBackPageImage_) {#setCallBackPageImage-com.aspose.pdf.MemoryExtender.CallBackPageImage-}
-```
-public static void setCallBackPageImage(MemoryExtender.CallBackPageImage callBackPageImage_)
-```
-
-
+### setCallBackPageImage {#setCallBackPageImage-com.aspose.pdf.MemoryExtender.CallBackPageImage-}
 应用新的自定义缓存分析器。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| callBackPageImage_ | [CallBackPageImage](../../com.aspose.pdf/callbackpageimage) | CallBackPageImage 对象 |
-
-### setElementRenderingTimeout(int value) {#setElementRenderingTimeout-int-}
+### setElementRenderingTimeout {#setElementRenderingTimeout-int-}
 ```
 public static void setElementRenderingTimeout(int value)
 ```
 
+用于页面转图像转换的单个元素渲染的最大时间。默认值 10000 毫秒，仅在 isSkipHeavyContentEnabled() == true 时使用。
 
-渲染页面到图像转换中使用的单个元素的最长时间。默认值 10000 毫秒仅在 isSkipHeavyContentEnabled() == true 时使用
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | int 值 毫秒数 |
+| 值 |  | int 值 毫秒数 |
 
-### setEnableMultiPageCache(boolean enableMultiPageImageCache_) {#setEnableMultiPageCache-boolean-}
+### setEnableMultiPageCache {#setEnableMultiPageCache-boolean-}
 ```
 public static void setEnableMultiPageCache(boolean enableMultiPageImageCache_)
 ```
 
+设置 EnabledMultiPageImageCache 字段的新状态
 
-为 EnabledMultiPageImageCache 字段设置新状态
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| enableMultiPageImageCache_ | 布尔值 | 布尔值 |
+| enableMultiPageImageCache_ |  | 布尔值 |
 
-### setSkipHeavyContentEnabled(boolean value) {#setSkipHeavyContentEnabled-boolean-}
+### setSkipHeavyContentEnabled {#setSkipHeavyContentEnabled-boolean-}
 ```
 public static void setSkipHeavyContentEnabled(boolean value)
 ```
 
+设置标志以在堆内存不足的渲染中跳过高内存消耗的对象。
 
-设置标志以启用在缺少堆内存的情况下跳过渲染中内存消耗高的对象。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setSwapEnabled(boolean value) {#setSwapEnabled-boolean-}
+### setSwapEnabled {#setSwapEnabled-boolean-}
 ```
 public static void setSwapEnabled(boolean value)
 ```
 
+设置标志以启用使用磁盘空间作为临时交换内存。
 
-设置标志是否启用磁盘空间以用作临时交换内存。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### toString() {#toString--}
+### setTryToCreateFolderIfAbsent {#setTryToCreateFolderIfAbsent-boolean-}
 ```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
+public static void setTryToCreateFolderIfAbsent(boolean value)
 ```
 
+设置一个值，指示是否应自动创建缺失的文件夹。<p>If set to {@code true}, Aspose 按路径保存的方法将在目标文件夹结构不存在时尝试创建它。<p>默认值为 {@code false}.
 
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| 值 |  | 布尔值 |

@@ -1,221 +1,91 @@
 ---
-title: PdfASymbolicFontEncodingStrategy
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 此类描述了在 TrueType 符号字体具有多种编码的情况下可用于调整复制编码数据过程的规则。
+title: "PdfASymbolicFontEncodingStrategy"
+linktitle: "PdfASymbolicFontEncodingStrategy"
+second_title: "Aspose.PDF for Java API 参考"
+description: "此类描述了可用于调优复制编码数据过程的规则，适用于 TrueType 符号字体具有多个编码的情况。某些 PDF 文档之后。"
 type: docs
-weight: 274
+weight: 3690
 url: /zh/java/com.aspose.pdf/pdfasymbolicfontencodingstrategy/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.PdfASymbolicFontEncodingStrategy
+
 ```
-public class PdfASymbolicFontEncodingStrategy
+public class PdfASymbolicFontEncodingStrategy extends Object
 ```
 
-此类描述了在 TrueType 符号字体具有多种编码的情况下可用于调整复制编码数据过程的规则。某些 PDF 文档在转换为 PDF/A 格式后可能会出现错误“符号 TrueType 字体的 cmap 中有不止一种编码”。这个错误的原因是什么？所有 TrueType 符号字体在其内部数据中都有特殊的表“cmap”。该表将字符代码映射到字形索引。并且该表可以包含不同的编码子表，这些子表描述了所使用的编码。请参阅有关 cmap 表的高级信息，网址为https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6cmap.html.通常cmap表包含多个编码子表，但PDF/A标准要求PDF/A文档中该字体只能留一个编码子表(3,0)。这里的关键问题 - 必须从另一个子表中获取哪些数据才能复制到目标编码表 (3,0) 中？大多数字体都有“格式良好”的 cmap 表，其中每个编码子表都与另一个子表完全一致。但是有些字体的 cmap 表存在冲突——例如，一个子表的 unicode 100 的字形索引为 100，而另一个子表的 unicode 100 的字形索引为 200。要解决这个问题，需要特殊的策略。默认使用以下策略：查找 mac subtable(1,0)。如果找到此表，则仅此数据用于填充目标表 (3,0)。如果没有找到 mac 子表，则迭代除 (3,0) 之外的所有子表并用于将数据复制到目标 (3,0) 子表中。此外，仅当目标表当前没有此 unicode 时，才会将每个 unicode(unicode, glyph index) 的映射复制到目标表中。因此，例如，如果第一个子表的 unicode 100 的字形索引为 100，而下一个子表的相同 unicode 100 的字形索引为 200，则仅复制第一个子表（unicode = 100，字形索引 = 100）中的数据。因此，之前的每个子表都优先于下一个。此类 PdfASymbolicFontEncodingStrategy 的属性有助于调整默认行为。如果设置了 QueueItem.CMapEncodingTableType 类型的属性 PreferredCmapEncodingTable，则相关子表将优先于 mac subtable(1,0) 使用。枚举 QueueItem.CMapEncodingTableType 中的值“MacTable”在这种情况下没有意义，因为它指向默认使用的同一个 mac 子表 (1,0)。属性 CmapEncodingTablesPriorityQueue 丢弃任何子表的所有优先级。如果设置了此属性，则只会按指定顺序使用已声明队列中的子表。如果未找到指定的子表，则将使用上述所有子表的默认迭代和复制策略。对象 QueueItem 指定使用的编码子表。该子表可以通过成员组合（PlatformID、PlatformSpecificID）或通过 QueueItem.CMapEncodingTableType 枚举来设置。
+此类描述可用于调节在 TrueType 符号字体拥有多个编码时复制编码数据过程的规则。某些 PDF 文档在转换为 PDF/A 格式后可能会出现错误 "More than one encoding in symbolic TrueType font's cmap"。导致此错误的原因是什么？所有 TrueType 符号字体在其内部数据中都有特殊的 "cmap" 表。该表将字符代码映射到字形索引。该表还可能包含描述所使用编码的不同编码子表。有关 cmap 表的高级信息，请参阅 https://developer.apple.com/fonts/TrueType-Reference-Manual/RM06/Chap6cmap.html。通常 cmap 表包含多个编码子表，但 PDF/A 标准要求在 PDF/A 文档中该字体只能保留一个编码子表，或者在该字体的子表中必须包含一个 (3,0) 编码子表。关键问题是——必须从其他子表中获取哪些数据复制到目标编码表 (3,0)？大多数字体拥有“良好构造”的 cmap 表，其中每个编码子表都与其他子表完全一致。但有些字体的 cmap 表存在冲突——例如，一个子表为 Unicode 100 提供字形索引 100，而另一个子表为相同的 Unicode 100 提供字形索引 200。为解决此问题需要特殊策略。默认使用以下策略：查找 mac 子表 (1,0)。如果找到该表，则仅使用此数据填充目标表 (3,0)。如果未找到 mac 子表，则遍历除 (3,0) 之外的所有子表，并将数据复制到目标 (3,0) 子表。此外，仅当目标表当前不包含某个 unicode 时，才会将每个 unicode（unicode，字形索引）的映射复制到目标表中。因此，例如如果第一个子表为 Unicode 100 提供字形索引 100，而下一个子表为相同的 Unicode 100 提供字形索引 200，则仅会复制第一个子表（unicode=100，字形索引=100）的数据。因此，每个前面的子表优先于后面的子表。此类的属性 { PdfASymbolicFontEncodingStrategy} 有助于调节默认行为。如果设置了类型为 { PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType} 的属性 {PreferredCmapEncodingTable}({ PdfASymbolicFontEncodingStrategy#getPreferredCmapEncodingTable}/ { PdfASymbolicFontEncodingStrategy#setPreferredCmapEncodingTable})，则相关子表将在优先级上高于 mac 子表 (1,0)。枚举 {PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType} 中的值 'MacTable' 在此情况下没有意义，因为它指向同一个默认使用的 mac 子表 (1,0)。属性 {CmapEncodingTablesPriorityQueue}({ PdfASymbolicFontEncodingStrategy#getCmapEncodingTablesPriorityQueue}/ {PdfASymbolicFontEncodingStrategy#setCmapEncodingTablesPriorityQueue}) 会丢弃所有子表的优先级。如果设置了此属性，则仅按指定顺序使用声明队列中的子表。如果未找到指定的子表，则会使用所有子表的默认遍历以及上述复制策略。对象 { PdfASymbolicFontEncodingStrategy.QueueItem} 指定使用的编码子表。可以通过成员组合（PlatformID、PlatformSpecificId）或通过枚举 { PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType} 来设置此子表。如果字体没有 (3,0) 子表，则会使用其他子表以保持 PDF/A 兼容性。所使用的子表选择遵循前述相同规则，即使用 {@code PreferredCmapEncodingTable}({ PdfASymbolicFontEncodingStrategy#getPreferredCmapEncodingTable}/ {PdfASymbolicFontEncodingStrategy#setPreferredCmapEncodingTable}) 和 {@code CmapEncodingTablesPriorityQueue}({ PdfASymbolicFontEncodingStrategy#getCmapEncodingTablesPriorityQueue}/ { PdfASymbolicFontEncodingStrategy#setCmapEncodingTablesPriorityQueue}) 属性来确定最终子表；如果字体也没有请求的子表，则会使用任何现有的子表。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [PdfASymbolicFontEncodingStrategy()](#PdfASymbolicFontEncodingStrategy--) | 构造函数。 |
-| [PdfASymbolicFontEncodingStrategy(System.Collections.Generic.Queue<PdfASymbolicFontEncodingStrategy.QueueItem> priorityQueue)](#PdfASymbolicFontEncodingStrategy-com.aspose.ms.System.Collections.Generic.Queue-com.aspose.pdf.PdfASymbolicFontEncodingStrategy.QueueItem--) | 构造函数 |
-| [PdfASymbolicFontEncodingStrategy(short preferredEncodingTable)](#PdfASymbolicFontEncodingStrategy-short-) | 构造函数 |
+| [PdfASymbolicFontEncodingStrategy](#PdfASymbolicFontEncodingStrategy--) | 构造函数。设置默认子表 (mac 1,0) |
+| [PdfASymbolicFontEncodingStrategy](#PdfASymbolicFontEncodingStrategy-com.aspose.ms.System.Collections.Generic.Queue-) | 构造函数。设置默认子表 (mac 1,0) |
+| [PdfASymbolicFontEncodingStrategy](#PdfASymbolicFontEncodingStrategy-short-) | 构造函数 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getCmapEncodingTablesPriorityQueue()](#getCmapEncodingTablesPriorityQueue--) | 指定要处理的编码子表队列。 |
-| [getPreferredCmapEncodingTable()](#getPreferredCmapEncodingTable--) | 指定优先于 mac subtable(1,0) 使用的子表。 |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setCmapEncodingTablesPriorityQueue(System.Collections.Generic.Queue<PdfASymbolicFontEncodingStrategy.QueueItem> value)](#setCmapEncodingTablesPriorityQueue-com.aspose.ms.System.Collections.Generic.Queue-com.aspose.pdf.PdfASymbolicFontEncodingStrategy.QueueItem--) | 指定要处理的编码子表队列。 |
-| [setPreferredCmapEncodingTable(short value)](#setPreferredCmapEncodingTable-short-) | 指定优先于 mac subtable(1,0) 使用的子表。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### PdfASymbolicFontEncodingStrategy() {#PdfASymbolicFontEncodingStrategy--}
+| [getCmapEncodingTablesPriorityQueue](#getCmapEncodingTablesPriorityQueue--) | 指定要处理的编码子表队列。 |
+| [getPreferredCmapEncodingTable](#getPreferredCmapEncodingTable--) | 指定将在优先于 mac 子表 (1,0) 时使用的子表。在此情况下，枚举 {@code QueueItem.CMapEncodingTableType} 中的值 'MacTable' 没有意义。 |
+| [setCmapEncodingTablesPriorityQueue](#setCmapEncodingTablesPriorityQueue-com.aspose.ms.System.Collections.Generic.Queue-) | 指定要处理的编码子表队列。 |
+| [setPreferredCmapEncodingTable](#setPreferredCmapEncodingTable-short-) | 指定将在优先于 mac 子表 (1,0) 时使用的子表。在此情况下，枚举 {@code QueueItem.CMapEncodingTableType} 中的值 'MacTable' 没有意义。 |
+
+### PdfASymbolicFontEncodingStrategy {#PdfASymbolicFontEncodingStrategy--}
 ```
 public PdfASymbolicFontEncodingStrategy()
 ```
 
-
 构造函数。设置默认子表 (mac 1,0)
 
-### PdfASymbolicFontEncodingStrategy(System.Collections.Generic.Queue<PdfASymbolicFontEncodingStrategy.QueueItem> priorityQueue) {#PdfASymbolicFontEncodingStrategy-com.aspose.ms.System.Collections.Generic.Queue-com.aspose.pdf.PdfASymbolicFontEncodingStrategy.QueueItem--}
-```
-public PdfASymbolicFontEncodingStrategy(System.Collections.Generic.Queue<PdfASymbolicFontEncodingStrategy.QueueItem> priorityQueue)
-```
+### PdfASymbolicFontEncodingStrategy {#PdfASymbolicFontEncodingStrategy-com.aspose.ms.System.Collections.Generic.Queue-}
+构造函数。设置默认子表 (mac 1,0)
 
-
-构造函数
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| priorityQueue | com.aspose.ms.System.Collections.Generic.Queue<com.aspose.pdf.PdfASymbolicFontEncodingStrategy.QueueItem> | 要迭代的编码子表队列 |
-
-### PdfASymbolicFontEncodingStrategy(short preferredEncodingTable) {#PdfASymbolicFontEncodingStrategy-short-}
+### PdfASymbolicFontEncodingStrategy {#PdfASymbolicFontEncodingStrategy-short-}
 ```
 public PdfASymbolicFontEncodingStrategy(short preferredEncodingTable)
 ```
 
-
 构造函数
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| preferredEncodingTable | short | 优先于 mac subtable(1,0) 使用的编码子表 |
+| preferredEncodingTable |  | 将在优先于 mac 子表 (1,0) 时使用的编码子表 @see PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType |
 
-### equals(Object arg0) {#equals-java.lang.Object-}
+### getCmapEncodingTablesPriorityQueue {#getCmapEncodingTablesPriorityQueue--}
 ```
-public boolean equals(Object arg0)
+public com.aspose.ms.System.Collections.Generic.Queue< PdfASymbolicFontEncodingStrategy.QueueItem > getCmapEncodingTablesPriorityQueue()
 ```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getCmapEncodingTablesPriorityQueue() {#getCmapEncodingTablesPriorityQueue--}
-```
-public System.Collections.Generic.Queue<PdfASymbolicFontEncodingStrategy.QueueItem> getCmapEncodingTablesPriorityQueue()
-```
-
 
 指定要处理的编码子表队列。
 
-**退货：**
-com.aspose.ms.System.Collections.Generic.Queue<com.aspose.pdf.PdfASymbolicFontEncodingStrategy.QueueItem> - QueueItem 的队列
-### getPreferredCmapEncodingTable() {#getPreferredCmapEncodingTable--}
+**Returns:**
+QueueItem 的队列
+
+### getPreferredCmapEncodingTable {#getPreferredCmapEncodingTable--}
 ```
 public short getPreferredCmapEncodingTable()
 ```
 
+指定将在优先于 mac 子表 (1,0) 时使用的子表。在此情况下，枚举 {@code QueueItem.CMapEncodingTableType} 中的值 'MacTable' 没有意义。
 
-指定优先于 mac subtable(1,0) 使用的子表。在这种情况下，枚举 QueueItem.CMapEncodingTableType 中的值“MacTable”没有任何意义。
+**Returns:**
+CMapEncodingTableType 元素 @see PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType
 
-**退货：**
-short - CMapEncodingTableType 元素
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setCmapEncodingTablesPriorityQueue(System.Collections.Generic.Queue<PdfASymbolicFontEncodingStrategy.QueueItem> value) {#setCmapEncodingTablesPriorityQueue-com.aspose.ms.System.Collections.Generic.Queue-com.aspose.pdf.PdfASymbolicFontEncodingStrategy.QueueItem--}
-```
-public void setCmapEncodingTablesPriorityQueue(System.Collections.Generic.Queue<PdfASymbolicFontEncodingStrategy.QueueItem> value)
-```
-
-
+### setCmapEncodingTablesPriorityQueue {#setCmapEncodingTablesPriorityQueue-com.aspose.ms.System.Collections.Generic.Queue-}
 指定要处理的编码子表队列。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | com.aspose.ms.System.Collections.Generic.Queue<com.aspose.pdf.PdfASymbolicFontEncodingStrategy.QueueItem> | QueueItem 的队列 |
-
-### setPreferredCmapEncodingTable(short value) {#setPreferredCmapEncodingTable-short-}
+### setPreferredCmapEncodingTable {#setPreferredCmapEncodingTable-short-}
 ```
 public void setPreferredCmapEncodingTable(short value)
 ```
 
+指定将在优先于 mac 子表 (1,0) 时使用的子表。在此情况下，枚举 {@code QueueItem.CMapEncodingTableType} 中的值 'MacTable' 没有意义。
 
-指定优先于 mac subtable(1,0) 使用的子表。在这种情况下，枚举 QueueItem.CMapEncodingTableType 中的值“MacTable”没有任何意义。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | short | preferredEncodingTable 编码子表将优先于 mac 子表（1,0）使用 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| 值 |  | preferredEncodingTable 编码子表，将在优先于 mac 子表 (1,0) 时使用 @see PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType |

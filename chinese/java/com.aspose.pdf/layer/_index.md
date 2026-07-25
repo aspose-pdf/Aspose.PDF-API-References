@@ -1,179 +1,135 @@
 ---
-title: Layer
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 表示页面层。
+title: "Layer"
+linktitle: "Layer"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示 PDF 页面中的图层。"
 type: docs
-weight: 189
+weight: 2640
 url: /zh/java/com.aspose.pdf/layer/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.Layer
+
 ```
-public class Layer
+public class Layer extends Object
 ```
 
-表示页面层。
+表示 PDF 页面中的图层。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [Layer(String id, String name)](#Layer-java.lang.String-java.lang.String-) | 初始化 Layer 类的新实例。 |
+| [Layer](#Layer-java.lang.String-java.lang.String-) | 初始化 {@code Layer} 类的新实例。 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getContents()](#getContents--) | 获取图层内容。 |
-| [getId()](#getId--) | 获取图层 ID。 |
-| [getName()](#getName--) | 获取图层名称。 |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### Layer(String id, String name) {#Layer-java.lang.String-java.lang.String-}
+| [delete](#delete--) | 从 PDF 文档中删除当前图层。 |
+| [flatten](#flatten-boolean-) | 将指定的图层展平。 |
+| [getContents](#getContents--) | <p> 获取图层内容。 </p> |
+| [getDefaultState](#getDefaultState--) | 获取 PDF 图层的默认状态。 |
+| [getId](#getId--) | 获取图层 ID。 |
+| [getLocked](#getLocked--) | 获取指示图层是否被锁定的值。 |
+| [getName](#getName--) | 获取图层名称。 |
+| [lock](#lock--) | 锁定图层。 |
+| [save](#save-java.io.OutputStream-) | 将当前图层保存到 PDF 文档。 |
+| [save](#save-java.lang.String-) | 将当前图层保存到 PDF 文档。 |
+| [setDefaultState](#setDefaultState-com.aspose.pdf.DefaultState-) | 设置 PDF 图层的默认状态。 |
+| [unlock](#unlock--) | 解锁图层。 |
+
+### Layer {#Layer-java.lang.String-java.lang.String-}
+初始化 {@code Layer} 类的新实例。
+
+### delete {#delete--}
 ```
-public Layer(String id, String name)
+public final void delete()
 ```
 
+从 PDF 文档中删除当前图层。
 
-初始化 Layer 类的新实例。
+### flatten {#flatten-boolean-}
+```
+public final void flatten(boolean cleanupContentStream)
+```
 
-**参数：**
+将指定的图层展平。
 
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| id | java.lang.String | 图层编号 |
-| name | java.lang.String | 图层名称 |
+| cleanupContentStream |  | 指定是否从内容流中移除可选内容组标记。将 {@code cleanupContentStream} 参数设置为 false 可加快展平过程。 |
 
-### equals(Object arg0) {#equals-java.lang.Object-}
+### getContents {#getContents--}
 ```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
+public List < Operator > getContents()
 ```
 
+<p> 获取图层内容。 </p>
 
+**Returns:**
+{@code List<Operator>} 对象
 
-
-**退货：**
-java.lang.Class<?>
-### getContents() {#getContents--}
+### getDefaultState {#getDefaultState--}
 ```
-public List<Operator> getContents()
+public final DefaultState getDefaultState()
 ```
 
+获取 PDF 图层的默认状态。
 
-获取图层内容。
+**Returns:**
+PDF 图层的默认状态。
 
-**退货：**
-java.util.List<com.aspose.pdf.Operator> - 列表对象
-### getId() {#getId--}
+### getId {#getId--}
 ```
 public String getId()
 ```
 
-
 获取图层 ID。
 
-**退货：**
-java.lang.String - 字符串值
-### getName() {#getName--}
+**Returns:**
+字符串值
+
+### getLocked {#getLocked--}
+```
+public final boolean getLocked()
+```
+
+获取指示图层是否被锁定的值。
+
+**Returns:**
+布尔值
+
+### getName {#getName--}
 ```
 public String getName()
 ```
 
-
 获取图层名称。
 
-**退货：**
-java.lang.String - 字符串值
-### hashCode() {#hashCode--}
+**Returns:**
+字符串值
+
+### lock {#lock--}
 ```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### notify() {#notify--}
-```
-public final native void notify()
+public final void lock()
 ```
 
+锁定图层。
 
+### save {#save-java.io.OutputStream-}
+将当前图层保存到 PDF 文档。
 
+### save {#save-java.lang.String-}
+将当前图层保存到 PDF 文档。
 
-### notifyAll() {#notifyAll--}
+### setDefaultState {#setDefaultState-com.aspose.pdf.DefaultState-}
+设置 PDF 图层的默认状态。
+
+### unlock {#unlock--}
 ```
-public final native void notifyAll()
-```
-
-
-
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
+public final void unlock()
 ```
 
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+解锁图层。

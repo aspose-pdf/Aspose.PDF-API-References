@@ -1,243 +1,101 @@
 ---
-title: TextDefaults
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 定义文本子系统默认值
+title: "TextDefaults"
+linktitle: "TextDefaults"
+second_title: "Aspose.PDF for Java API 参考"
+description: "定义文本子系统默认值"
 type: docs
-weight: 365
+weight: 4950
 url: /zh/java/com.aspose.pdf/textdefaults/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.TextDefaults
+
 ```
-public class TextDefaults
+public class TextDefaults extends Object
 ```
 
 定义文本子系统默认值
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [TextDefaults()](#TextDefaults--) |  |
+| [TextDefaults](#TextDefaults--) |  |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getDefaultFont()](#getDefaultFont--) | 默认字体 |
-| [getDefaultFontForText(String text)](#getDefaultFontForText-java.lang.String-) | 默认字体 |
-| [getDefaultFontStrategy()](#getDefaultFontStrategy--) | 默认字体策略类型 |
-| [getDefaultFonts()](#getDefaultFonts--) |  |
-| [getPredefinedFont()](#getPredefinedFont--) |  |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setDefaultFontStrategy(int value)](#setDefaultFontStrategy-int-) | 默认字体策略类型 |
-| [setDefaultFonts(List<Font> fonts)](#setDefaultFonts-java.util.List-com.aspose.pdf.Font--) |  |
-| [setPredefinedFont(Font value)](#setPredefinedFont-com.aspose.pdf.Font-) |  |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### TextDefaults() {#TextDefaults--}
+| [getDefaultFont](#getDefaultFont--) | 默认字体 |
+| [getDefaultFontForText](#getDefaultFontForText-java.lang.String-) | 默认字体 |
+| [getDefaultFonts](#getDefaultFonts--) |  |
+| [getDefaultFontStrategy](#getDefaultFontStrategy--) | 默认字体策略类型 |
+| [getPredefinedFont](#getPredefinedFont--) | 参数指定已预先选择的字体 |
+| [setDefaultFonts](#setDefaultFonts-java.util.List-) | 将默认字体列表添加到 Aspose.PDF 库的系统字体列表中 |
+| [setDefaultFontStrategy](#setDefaultFontStrategy-int-) | 默认字体策略类型 |
+| [setPredefinedFont](#setPredefinedFont-com.aspose.pdf.Font-) | 参数指定已预先选择的字体 |
+
+### TextDefaults {#TextDefaults--}
 ```
 public TextDefaults()
 ```
 
 
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
 
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getDefaultFont() {#getDefaultFont--}
+### getDefaultFont {#getDefaultFont--}
 ```
 public static Font getDefaultFont()
 ```
 
-
 默认字体
 
-**退货：**
-[Font](../../com.aspose.pdf/font) 字体实例
-### getDefaultFontForText(String text) {#getDefaultFontForText-java.lang.String-}
-```
-public static Font getDefaultFontForText(String text)
-```
+**Returns:**
+字体实例
 
-
+### getDefaultFontForText {#getDefaultFontForText-java.lang.String-}
 默认字体
 
-**参数：**
+### getDefaultFonts {#getDefaultFonts--}
+```
+public static List < Font > getDefaultFonts()
+```
 
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| text | java.lang.String | 字符串值 |
 
-**退货：**
-[Font](../../com.aspose.pdf/font) 字体实例
-### getDefaultFontStrategy() {#getDefaultFontStrategy--}
+
+### getDefaultFontStrategy {#getDefaultFontStrategy--}
 ```
 public static int getDefaultFontStrategy()
 ```
 
-
 默认字体策略类型
 
-**退货：**
-int - DefaultFontStrategy 元素
-### getDefaultFonts() {#getDefaultFonts--}
-```
-public static List<Font> getDefaultFonts()
-```
+**Returns:**
+DefaultFontStrategy 元素 @see DefaultFontStrategy
 
-
-
-
-**退货：**
-java.util.List<com.aspose.pdf.Font>
-### getPredefinedFont() {#getPredefinedFont--}
+### getPredefinedFont {#getPredefinedFont--}
 ```
 public static Font getPredefinedFont()
 ```
 
+参数指定已预先选择的字体
 
+**Returns:**
+字体实例
 
+### setDefaultFonts {#setDefaultFonts-java.util.List-}
+将默认字体列表添加到 Aspose.PDF 库的系统字体列表中
 
-**退货：**
-[Font](../../com.aspose.pdf/font)
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setDefaultFontStrategy(int value) {#setDefaultFontStrategy-int-}
+### setDefaultFontStrategy {#setDefaultFontStrategy-int-}
 ```
 public static void setDefaultFontStrategy(int value)
 ```
 
-
 默认字体策略类型
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | DefaultFontStrategy 元素 |
+| 值 |  | DefaultFontStrategy 元素 @see DefaultFontStrategy |
 
-### setDefaultFonts(List<Font> fonts) {#setDefaultFonts-java.util.List-com.aspose.pdf.Font--}
-```
-public static void setDefaultFonts(List<Font> fonts)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| fonts | java.util.List<com.aspose.pdf.Font> |  |
-
-### setPredefinedFont(Font value) {#setPredefinedFont-com.aspose.pdf.Font-}
-```
-public static void setPredefinedFont(Font value)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [Font](../../com.aspose.pdf/font) |  |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+### setPredefinedFont {#setPredefinedFont-com.aspose.pdf.Font-}
+参数指定已预先选择的字体

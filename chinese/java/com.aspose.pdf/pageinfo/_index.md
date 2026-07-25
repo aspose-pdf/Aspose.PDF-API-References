@@ -1,320 +1,177 @@
 ---
-title: PageInfo
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 表示 pdf 生成器的页面信息。
+title: "PageInfo"
+linktitle: "PageInfo"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示 pdf 生成器的页面信息。"
 type: docs
-weight: 261
+weight: 3370
 url: /zh/java/com.aspose.pdf/pageinfo/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.PageInfo
 
-**所有已实现的接口：**
+**All Implemented Interfaces:**
 com.aspose.ms.System.ICloneable
+
 ```
-public class PageInfo implements System.ICloneable
+public class PageInfo extends Object implements com.aspose.ms.System.ICloneable
 ```
 
 表示 pdf 生成器的页面信息。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [PageInfo()](#PageInfo--) | 默认构造函数 |
+| [PageInfo](#PageInfo--) | 默认构造函数 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [deepClone()](#deepClone--) | 克隆页面信息。 |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getAnyMargin()](#getAnyMargin--) | 获取或设置除第一页以外的任何页面的页边距。 |
-| [getClass()](#getClass--) |  |
-| [getDefaultTextState()](#getDefaultTextState--) | 获取默认字体。 |
-| [getHeight()](#getHeight--) | 获取页面高度。 |
-| [getMargin()](#getMargin--) | 获取页边距。 |
-| [getPureHeight()](#getPureHeight--) | 获取没有边距的页面纯高。 |
-| [getWidth()](#getWidth--) | 获取页面宽度。 |
-| [hashCode()](#hashCode--) |  |
-| [isLandscape()](#isLandscape--) | 得到的是页面美化。 |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setAnyMargin(MarginInfo value)](#setAnyMargin-com.aspose.pdf.MarginInfo-) | 获取或设置除第一页以外的任何页面的页边距。 |
-| [setDefaultTextState(TextState value)](#setDefaultTextState-com.aspose.pdf.TextState-) | 设置默认字体。 |
-| [setHeight(double value)](#setHeight-double-) | 设置页面高度。 |
-| [setLandscape(boolean value)](#setLandscape-boolean-) | 设置页面美化。 |
-| [setMargin(MarginInfo value)](#setMargin-com.aspose.pdf.MarginInfo-) | 设置页边距。 |
-| [setWidth(double value)](#setWidth-double-) | 设置页面宽度。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### PageInfo() {#PageInfo--}
+| [deepClone](#deepClone--) | 克隆页面信息。 |
+| [getAnyMargin](#getAnyMargin--) | 获取或设置除第一页之外的任何页面的页边距。 |
+| [getDefaultTextState](#getDefaultTextState--) | 获取默认字体。 |
+| [getHeight](#getHeight--) | 获取页面高度。 |
+| [getMargin](#getMargin--) | 获取页面边距。 |
+| [getPureHeight](#getPureHeight--) | 获取不含边距的页面纯高度。 |
+| [getWidth](#getWidth--) | 获取页面宽度。 |
+| [isLandscape](#isLandscape--) | 获取页面是否为横向。 |
+| [setAnyMargin](#setAnyMargin-com.aspose.pdf.MarginInfo-) | 获取或设置除第一页之外的任何页面的页边距。 |
+| [setDefaultTextState](#setDefaultTextState-com.aspose.pdf.TextState-) | 设置默认字体。 |
+| [setHeight](#setHeight-double-) | 设置页面高度。 |
+| [setLandscape](#setLandscape-boolean-) | 设置页面是否为横向。 |
+| [setMargin](#setMargin-com.aspose.pdf.MarginInfo-) | 设置页面边距。 |
+| [setWidth](#setWidth-double-) | 设置页面宽度。 |
+
+### PageInfo {#PageInfo--}
 ```
 public PageInfo()
 ```
 
-
 默认构造函数
 
-### deepClone() {#deepClone--}
+### deepClone {#deepClone--}
 ```
 public Object deepClone()
 ```
 
-
 克隆页面信息。
 
-**退货：**
-java.lang.Object - 克隆的对象
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
+**Returns:**
+克隆的对象。
 
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getAnyMargin() {#getAnyMargin--}
+### getAnyMargin {#getAnyMargin--}
 ```
 public final MarginInfo getAnyMargin()
 ```
 
+获取或设置除第一页之外的任何页面的页边距。
 
-获取或设置除第一页以外的任何页面的页边距。
+**Returns:**
+MarginInfo 实例
 
-**退货：**
-[MarginInfo](../../com.aspose.pdf/margininfo) MarginInfo 实例
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getDefaultTextState() {#getDefaultTextState--}
+### getDefaultTextState {#getDefaultTextState--}
 ```
 public TextState getDefaultTextState()
 ```
 
-
 获取默认字体。
 
-**退货：**
-[TextState](../../com.aspose.pdf/textstate) - 文本状态实例
-### getHeight() {#getHeight--}
+**Returns:**
+TextState 实例
+
+### getHeight {#getHeight--}
 ```
 public double getHeight()
 ```
 
-
 获取页面高度。
 
-**退货：**
-双倍价值
-### getMargin() {#getMargin--}
+**Returns:**
+double 值
+
+### getMargin {#getMargin--}
 ```
 public MarginInfo getMargin()
 ```
 
+获取页面边距。
 
-获取页边距。
+**Returns:**
+MarginInfo 值
 
-**退货：**
-[MarginInfo](../../com.aspose.pdf/margininfo) - 保证金信息值
-### getPureHeight() {#getPureHeight--}
+### getPureHeight {#getPureHeight--}
 ```
 public double getPureHeight()
 ```
 
+获取不含边距的页面纯高度。
 
-获取没有边距的页面纯高。
+**Returns:**
+double 值
 
-**退货：**
-双倍价值
-### getWidth() {#getWidth--}
+### getWidth {#getWidth--}
 ```
 public double getWidth()
 ```
 
-
 获取页面宽度。
 
-**退货：**
-双倍价值
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
+**Returns:**
+double 值
 
-
-
-
-**退货：**
-整数
-### isLandscape() {#isLandscape--}
+### isLandscape {#isLandscape--}
 ```
 public boolean isLandscape()
 ```
 
+获取页面是否为横向。
 
-得到的是页面美化。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### notify() {#notify--}
-```
-public final native void notify()
-```
+### setAnyMargin {#setAnyMargin-com.aspose.pdf.MarginInfo-}
+获取或设置除第一页之外的任何页面的页边距。
 
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setAnyMargin(MarginInfo value) {#setAnyMargin-com.aspose.pdf.MarginInfo-}
-```
-public final void setAnyMargin(MarginInfo value)
-```
-
-
-获取或设置除第一页以外的任何页面的页边距。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [MarginInfo](../../com.aspose.pdf/margininfo) | MarginInfo 实例 |
-
-### setDefaultTextState(TextState value) {#setDefaultTextState-com.aspose.pdf.TextState-}
-```
-public void setDefaultTextState(TextState value)
-```
-
-
+### setDefaultTextState {#setDefaultTextState-com.aspose.pdf.TextState-}
 设置默认字体。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [TextState](../../com.aspose.pdf/textstate) | 文本状态实例 |
-
-### setHeight(double value) {#setHeight-double-}
+### setHeight {#setHeight-double-}
 ```
 public final void setHeight(double value)
 ```
 
-
 设置页面高度。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 双倍价值 |
+| 值 |  | double 值 |
 
-### setLandscape(boolean value) {#setLandscape-boolean-}
+### setLandscape {#setLandscape-boolean-}
 ```
 public void setLandscape(boolean value)
 ```
 
+设置页面是否为横向。
 
-设置页面美化。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setMargin(MarginInfo value) {#setMargin-com.aspose.pdf.MarginInfo-}
-```
-public void setMargin(MarginInfo value)
-```
+### setMargin {#setMargin-com.aspose.pdf.MarginInfo-}
+设置页面边距。
 
-
-设置页边距。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [MarginInfo](../../com.aspose.pdf/margininfo) | MarginInfo 值 |
-
-### setWidth(double value) {#setWidth-double-}
+### setWidth {#setWidth-double-}
 ```
 public void setWidth(double value)
 ```
 
-
 设置页面宽度。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 双倍价值 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| 值 |  | double 值 |

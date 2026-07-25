@@ -1,343 +1,149 @@
 ---
-title: XpsSaveOptions
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 导出为 Xps 格式的保存选项
+title: "XpsSaveOptions"
+linktitle: "XpsSaveOptions"
+second_title: "Aspose.PDF for Java API 参考"
+description: "导出为 Xps 格式的保存选项"
 type: docs
-weight: 428
+weight: 5770
 url: /zh/java/com.aspose.pdf/xpssaveoptions/
 ---
-**遗产：**
-java.lang.Object, [com.aspose.pdf.SaveOptions](../../com.aspose.pdf/saveoptions), [com.aspose.pdf.UnifiedSaveOptions](../../com.aspose.pdf/unifiedsaveoptions)
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.SaveOptions com.aspose.pdf.UnifiedSaveOptions com.aspose.pdf.XpsSaveOptions, com.aspose.pdf.SaveOptions, com.aspose.pdf.UnifiedSaveOptions com.aspose.pdf.XpsSaveOptions, com.aspose.pdf.UnifiedSaveOptions, com.aspose.pdf.XpsSaveOptions
 
-**所有已实现的接口：**
-[com.aspose.pdf.IPipelineOptions](../../com.aspose.pdf/ipipelineoptions)
+**All Implemented Interfaces:**
+IPipelineOptions
+
 ```
 public class XpsSaveOptions extends UnifiedSaveOptions implements IPipelineOptions
 ```
 
 导出为 Xps 格式的保存选项
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [XpsSaveOptions()](#XpsSaveOptions--) | 构造函数 |
+| [XpsSaveOptions](#XpsSaveOptions--) | 构造函数 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getBatchSize()](#getBatchSize--) | 如果批量转换适用于源格式和目标格式对，则定义批量大小。 |
-| [getClass()](#getClass--) |  |
-| [getProgressEventsRetranslator()](#getProgressEventsRetranslator--) | 表示在转换期间工作的内部进度事件处理器，并将内部转换阶段的转换事件转换为外部总进度事件此外，类广播允许释放不再需要的资源的事件该内部类处理 PDF 到 APS 和 APS 到[Other format] progress 计算总进度并通知客户代码关于总进度事件此类使用两种类型的事件：ApsTo外部模型转换和事件转换Pdf到APS以生成总进度事件导出有三个阶段：1）Pdf到Aps 2）aps识别3\_ Aps 导出到目标格式 构造器允许调整转换了多少页面以及这个或那个阶段在总进度中的近似部分 |
-| [getSaveFormat()](#getSaveFormat--) | 数据保存格式。 |
-| [getSaveTransparentTexts()](#getSaveTransparentTexts--) | 指示是否保留透明（OCR'ed）文本。 |
-| [getWarningHandler()](#getWarningHandler--) | 回调以处理生成的任何警告。 |
-| [hashCode()](#hashCode--) |  |
-| [isCloseResponse()](#isCloseResponse--) | 获取布尔值，该值指示在文档保存到响应后将关闭响应对象。 |
-| [isExtractOcrSublayerOnly()](#isExtractOcrSublayerOnly--) | 此属性打开了使用 OCR 子层为 PDF 文档提取图像或文本的功能。 |
-| [isTryMergeAdjacentSameBackgroundImages()](#isTryMergeAdjacentSameBackgroundImages--) | 有时 PDF 包含（页面或表格单元格的）背景图像，这些背景图像由多个相同的平铺背景图像构成，并且彼此相邻。 |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setBatchSize(int value)](#setBatchSize-int-) | 如果批量转换适用于源格式和目标格式对，则定义批量大小。 |
-| [setCloseResponse(boolean value)](#setCloseResponse-boolean-) | 设置布尔值，指示在文档保存到响应后将关闭响应对象。 |
-| [setExtractOcrSublayerOnly(boolean value)](#setExtractOcrSublayerOnly-boolean-) | 此属性打开了使用 OCR 子层为 PDF 文档提取图像或文本的功能。 |
-| [setProgressEventsRetranslator(ConversionProgressEventsTranslator progressEventsRetranslator)](#setProgressEventsRetranslator-com.aspose.pdf.ConversionProgressEventsTranslator-) | 表示在转换期间工作的内部进度事件处理器，并将内部转换阶段的转换事件转换为外部总进度事件此外，类广播允许释放不再需要的资源的事件该内部类处理 PDF 到 APS 和 APS 到[Other format] progress 计算总进度并通知客户代码关于总进度事件此类使用两种类型的事件：ApsTo外部模型转换和事件转换Pdf到APS以生成总进度事件导出有三个阶段：1）Pdf到Aps 2）aps识别3\_ Aps 导出到目标格式 构造器允许调整转换了多少页面以及这个或那个阶段在总进度中的近似部分 |
-| [setSaveTransparentTexts(boolean value)](#setSaveTransparentTexts-boolean-) | 指示是否保留透明（OCR'ed）文本。 |
-| [setTryMergeAdjacentSameBackgroundImages(boolean tryMergeAdjacentSameBackgroundImages)](#setTryMergeAdjacentSameBackgroundImages-boolean-) | 有时 PDF 包含（页面或表格单元格的）背景图像，这些背景图像由多个相同的平铺背景图像构成，并且彼此相邻。 |
-| [setWarningHandler(WarningCallback value)](#setWarningHandler-com.aspose.pdf.WarningCallback-) | 回调以处理生成的任何警告。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### XpsSaveOptions() {#XpsSaveOptions--}
+| [getBatchSize](#getBatchSize--) | 如果批量转换适用于源格式和目标格式的配对，则定义批处理大小。 |
+| [getDefaultFont](#getDefaultFont--) | 获取/设置默认字体名称。如果系统中未找到嵌入的字体名称，则使用它。 |
+| [getSaveTransparentTexts](#getSaveTransparentTexts--) | 指示是否保留透明（OCR）文本。 |
+| [getUseEmbeddedTrueTypeFonts](#getUseEmbeddedTrueTypeFonts--) | 获取/设置使用嵌入式 TrueType 字体的标志。避免使用嵌入式 TrueType 字体可以减少转换时间。 |
+| [isUseNewImagingEngine](#isUseNewImagingEngine--) | 获取或设置 UseNewImagingEngine 选项。 |
+| [setBatchSize](#setBatchSize-int-) | 如果批量转换适用于源格式和目标格式的配对，则定义批处理大小。 |
+| [setDefaultFont](#setDefaultFont-java.lang.String-) | 获取/设置默认字体名称。如果系统中未找到嵌入的字体名称，则使用它。 |
+| [setSaveTransparentTexts](#setSaveTransparentTexts-boolean-) | 指示是否保留透明（OCR）文本。 |
+| [setUseEmbeddedTrueTypeFonts](#setUseEmbeddedTrueTypeFonts-boolean-) | 获取/设置使用嵌入式 TrueType 字体的标志。避免使用嵌入式 TrueType 字体可以减少转换时间。 |
+| [setUseNewImagingEngine](#setUseNewImagingEngine-boolean-) | 获取或设置 UseNewImagingEngine 选项。 |
+
+### XpsSaveOptions {#XpsSaveOptions--}
 ```
 public XpsSaveOptions()
 ```
 
-
 构造函数
 
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getBatchSize() {#getBatchSize--}
+### getBatchSize {#getBatchSize--}
 ```
 public final int getBatchSize()
 ```
 
+如果批量转换适用于源格式和目标格式的配对，则定义批处理大小。
 
-如果批量转换适用于源格式和目标格式对，则定义批量大小。
+**Returns:**
+int 值
 
-**退货：**
-int - 整数值
-### getClass() {#getClass--}
+### getDefaultFont {#getDefaultFont--}
 ```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getProgressEventsRetranslator() {#getProgressEventsRetranslator--}
-```
-public ConversionProgressEventsTranslator getProgressEventsRetranslator()
+public final String getDefaultFont()
 ```
 
+获取/设置默认字体名称。如果系统中未找到嵌入的字体名称，则使用它。
 
-表示在转换期间工作的内部进度事件处理器，并将内部转换阶段的转换事件转换为外部总进度事件此外，类广播允许释放不再需要的资源的事件该内部类处理 PDF 到 APS 和 APS 到[Other format] progress 计算总进度并通知客户代码关于总进度事件此类使用两种类型的事件：ApsTo外部模型转换和事件转换Pdf到APS以生成总进度事件导出有三个阶段：1）Pdf到Aps 2）aps识别3\_ Aps 导出到目标格式 构造器允许调整转换了多少页面以及这个或那个阶段在总进度中的近似部分
+**Returns:**
+字符串值
 
-**退货：**
-com.aspose.pdf.ConversionProgressEventsTranslator - ConversionProgressEventsTranslator 实例
-### getSaveFormat() {#getSaveFormat--}
-```
-public SaveFormat getSaveFormat()
-```
-
-
-数据保存格式。
-
-**退货：**
-[SaveFormat](../../com.aspose.pdf/saveformat) 保存格式值
-### getSaveTransparentTexts() {#getSaveTransparentTexts--}
+### getSaveTransparentTexts {#getSaveTransparentTexts--}
 ```
 public final boolean getSaveTransparentTexts()
 ```
 
+指示是否保留透明（OCR）文本。
 
-指示是否保留透明（OCR'ed）文本。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### getWarningHandler() {#getWarningHandler--}
+### getUseEmbeddedTrueTypeFonts {#getUseEmbeddedTrueTypeFonts--}
 ```
-public WarningCallback getWarningHandler()
-```
-
-
-回调以处理生成的任何警告。 WarningHandler 返回指定 Continue 或 Abort 的 ReturnAction 枚举项。 Continue 是默认操作，Save 操作继续，但是用户也可以返回 Abort，在这种情况下 Save 操作应该停止。
-
-**退货：**
-[WarningCallback](../../com.aspose.pdf/warningcallback) - IWarningCallback 值
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
+public final boolean getUseEmbeddedTrueTypeFonts()
 ```
 
+获取/设置使用嵌入式 TrueType 字体的标志。避免使用嵌入式 TrueType 字体可以减少转换时间。
 
+**Returns:**
+布尔值
 
-
-**退货：**
-整数
-### isCloseResponse() {#isCloseResponse--}
+### isUseNewImagingEngine {#isUseNewImagingEngine--}
 ```
-public boolean isCloseResponse()
-```
-
-
-获取布尔值，该值指示在文档保存到响应后将关闭响应对象。
-
-**退货：**
-boolean - 布尔值
-### isExtractOcrSublayerOnly() {#isExtractOcrSublayerOnly--}
-```
-public boolean isExtractOcrSublayerOnly()
+@Deprecated public final boolean isUseNewImagingEngine()
 ```
 
+获取或设置 UseNewImagingEngine 选项。
 
-此属性打开了使用 OCR 子层为 PDF 文档提取图像或文本的功能。
+**Returns:**
+布尔值 @deprecated UseNewImagingEngine 已弃用
 
-Value：结果文档中将提取真实的文本；否则，假的。
-
-**退货：**
-boolean - 布尔值
-### isTryMergeAdjacentSameBackgroundImages() {#isTryMergeAdjacentSameBackgroundImages--}
-```
-public boolean isTryMergeAdjacentSameBackgroundImages()
-```
-
-
-有时 PDF 包含（页面或表格单元格的）背景图像，这些背景图像由多个相同的平铺背景图像构成，并且彼此相邻。在这种情况下，目标格式的渲染器（DOCS 格式的 fe MsWord）有时会在背景图像的各个部分之间生成可见边界，因为它们的图像边缘平滑（抗锯齿）技术与 Acrobat Reader 不同。如果看起来导出的文档包含相同背景图像部分之间的可见边界，请尝试使用此设置来消除这种不需要的效果。注意力！这种质量优化通常会减慢转换速度，因此请仅在确实需要时才使用此选项。
-
-**退货：**
-boolean - 布尔值
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setBatchSize(int value) {#setBatchSize-int-}
+### setBatchSize {#setBatchSize-int-}
 ```
 public final void setBatchSize(int value)
 ```
 
+如果批量转换适用于源格式和目标格式的配对，则定义批处理大小。
 
-如果批量转换适用于源格式和目标格式对，则定义批量大小。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 整数值 |
+| 值 |  | int 值 |
 
-### setCloseResponse(boolean value) {#setCloseResponse-boolean-}
-```
-public void setCloseResponse(boolean value)
-```
+### setDefaultFont {#setDefaultFont-java.lang.String-}
+获取/设置默认字体名称。如果系统中未找到嵌入的字体名称，则使用它。
 
-
-设置布尔值，指示在文档保存到响应后将关闭响应对象。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | boolean | 布尔值 |
-
-### setExtractOcrSublayerOnly(boolean value) {#setExtractOcrSublayerOnly-boolean-}
-```
-public void setExtractOcrSublayerOnly(boolean value)
-```
-
-
-此属性打开了使用 OCR 子层为 PDF 文档提取图像或文本的功能。
-
-Value：结果文档中将提取真实的文本；否则，假的。
-
---------------------
-
-默认值 == 假
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | boolean | 布尔值 |
-
-### setProgressEventsRetranslator(ConversionProgressEventsTranslator progressEventsRetranslator) {#setProgressEventsRetranslator-com.aspose.pdf.ConversionProgressEventsTranslator-}
-```
-public void setProgressEventsRetranslator(ConversionProgressEventsTranslator progressEventsRetranslator)
-```
-
-
-表示在转换期间工作的内部进度事件处理器，并将内部转换阶段的转换事件转换为外部总进度事件此外，类广播允许释放不再需要的资源的事件该内部类处理 PDF 到 APS 和 APS 到[Other format] progress 计算总进度并通知客户代码关于总进度事件此类使用两种类型的事件：ApsTo外部模型转换和事件转换Pdf到APS以生成总进度事件导出有三个阶段：1）Pdf到Aps 2）aps识别3\_ Aps 导出到目标格式 构造器允许调整转换了多少页面以及这个或那个阶段在总进度中的近似部分
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| progressEventsRetranslator | com.aspose.pdf.ConversionProgressEventsTranslator | ConversionProgressEventsTranslator 实例 |
-
-### setSaveTransparentTexts(boolean value) {#setSaveTransparentTexts-boolean-}
+### setSaveTransparentTexts {#setSaveTransparentTexts-boolean-}
 ```
 public final void setSaveTransparentTexts(boolean value)
 ```
 
+指示是否保留透明（OCR）文本。
 
-指示是否保留透明（OCR'ed）文本。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setTryMergeAdjacentSameBackgroundImages(boolean tryMergeAdjacentSameBackgroundImages) {#setTryMergeAdjacentSameBackgroundImages-boolean-}
+### setUseEmbeddedTrueTypeFonts {#setUseEmbeddedTrueTypeFonts-boolean-}
 ```
-public void setTryMergeAdjacentSameBackgroundImages(boolean tryMergeAdjacentSameBackgroundImages)
+public final void setUseEmbeddedTrueTypeFonts(boolean value)
 ```
 
+获取/设置使用嵌入式 TrueType 字体的标志。避免使用嵌入式 TrueType 字体可以减少转换时间。
 
-有时 PDF 包含（页面或表格单元格的）背景图像，这些背景图像由多个相同的平铺背景图像构成，并且彼此相邻。在这种情况下，目标格式的渲染器（DOCS 格式的 fe MsWord）有时会在背景图像的各个部分之间生成可见边界，因为它们的图像边缘平滑（抗锯齿）技术与 Acrobat Reader 不同。如果看起来导出的文档包含相同背景图像部分之间的可见边界，请尝试使用此设置来消除这种不需要的效果。注意力！这种质量优化通常会减慢转换速度，因此请仅在确实需要时才使用此选项。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| tryMergeAdjacentSameBackgroundImages | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setWarningHandler(WarningCallback value) {#setWarningHandler-com.aspose.pdf.WarningCallback-}
+### setUseNewImagingEngine {#setUseNewImagingEngine-boolean-}
 ```
-public void setWarningHandler(WarningCallback value)
+@Deprecated public final void setUseNewImagingEngine(boolean value)
 ```
 
+获取或设置 UseNewImagingEngine 选项。
 
-回调以处理生成的任何警告。 WarningHandler 返回指定 Continue 或 Abort 的 ReturnAction 枚举项。 Continue 是默认操作，Save 操作继续，但是用户也可以返回 Abort，在这种情况下 Save 操作应该停止。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | [WarningCallback](../../com.aspose.pdf/warningcallback) | IWarningCallback 值 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| 值 |  | 布尔值 @deprecated UseNewImagingEngine 已弃用 |

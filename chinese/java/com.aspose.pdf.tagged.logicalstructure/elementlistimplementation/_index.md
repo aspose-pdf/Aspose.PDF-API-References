@@ -1,103 +1,76 @@
 ---
-title: ElementListImplementation
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 
+title: "ElementListImplementation"
+linktitle: "ElementListImplementation"
+second_title: "Aspose.PDF for Java API 参考"
+description:
 type: docs
-weight: 14
+weight: 50
 url: /zh/java/com.aspose.pdf.tagged.logicalstructure/elementlistimplementation/
 ---
-**遗产：**
-java.lang.Object, [com.aspose.pdf.tagged.logicalstructure.ElementList](../../com.aspose.pdf.tagged.logicalstructure/elementlist)
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.tagged.logicalstructure.ElementList com.aspose.pdf.tagged.logicalstructure.ElementListImplementation, com.aspose.pdf.tagged.logicalstructure.ElementList, com.aspose.pdf.tagged.logicalstructure.ElementListImplementation
+
+**All Implemented Interfaces:**
+com.aspose.ms.System.Collections.Generic.IGenericEnumerable< Element >, com.aspose.ms.System.Collections.IEnumerable< Element >, Iterable < Element >
+
 ```
 public class ElementListImplementation extends ElementList
 ```
+
+
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [ElementListImplementation(Element owner)](#ElementListImplementation-com.aspose.pdf.tagged.logicalstructure.elements.Element-) |  |
+| [ElementListImplementation](#ElementListImplementation-com.aspose.pdf.tagged.logicalstructure.elements.Element-) |  |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [getCount()](#getCount--) |  |
-| [item(int index)](#item-int-) |  |
-| [iterator()](#iterator--) |  |
-| [addElement(Element element, boolean updatePdfDictionary)](#addElement-com.aspose.pdf.tagged.logicalstructure.elements.Element-boolean-) |  |
-| [removeElement(Element element)](#removeElement-com.aspose.pdf.tagged.logicalstructure.elements.Element-) |  |
-### ElementListImplementation(Element owner) {#ElementListImplementation-com.aspose.pdf.tagged.logicalstructure.elements.Element-}
-```
-public ElementListImplementation(Element owner)
-```
+| [addElement](#addElement-com.aspose.pdf.tagged.logicalstructure.elements.Element-boolean-) | 向列表添加元素。 |
+| [getCount](#getCount--) | 获取 ElementList 中的元素数量。 |
+| [item](#item-int-) | 检索给定索引处的元素。 |
+| [iterator](#iterator--) | 获取遍历元素集合的枚举器。 |
+
+### ElementListImplementation {#ElementListImplementation-com.aspose.pdf.tagged.logicalstructure.elements.Element-}
 
 
-**参数：**
+### addElement {#addElement-com.aspose.pdf.tagged.logicalstructure.elements.Element-boolean-}
+向列表添加元素。
 
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| owner | [Element](../../com.aspose.pdf.tagged.logicalstructure.elements/element) |  |
-
-### getCount() {#getCount--}
+### getCount {#getCount--}
 ```
 public int getCount()
 ```
 
+获取 ElementList 中的元素数量。
 
-获取 ElementList 中的元素数。
+**Returns:**
+int 值
 
-**退货：**
-整数
-### item(int index) {#item-int-}
+### item {#item-int-}
 ```
 public Element item(int index)
 ```
 
-
 检索给定索引处的元素。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| index | int |  |
+| 索引 |  |  |
 
-**退货：**
-[Element](../../com.aspose.pdf.tagged.logicalstructure.elements/element)
-### iterator() {#iterator--}
+**Returns:**
+集合中具有指定索引的 /Aspose.Pdf.LogicalStructure.Element。如果索引大于或等于列表中的元素数量，则返回 null。
+
+### iterator {#iterator--}
 ```
-public System.Collections.Generic.IGenericEnumerator<Element> iterator()
-```
-
-
-获取循环访问元素集合的枚举器。
-
-**退货：**
-com.aspose.ms.System.Collections.Generic.IGenericEnumerator<com.aspose.pdf.tagged.logicalstructure.elements.Element>
-### addElement(Element element, boolean updatePdfDictionary) {#addElement-com.aspose.pdf.tagged.logicalstructure.elements.Element-boolean-}
-```
-public void addElement(Element element, boolean updatePdfDictionary)
+public com.aspose.ms.System.Collections.Generic.IGenericEnumerator< Element > iterator()
 ```
 
+获取遍历元素集合的枚举器。
 
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| element | [Element](../../com.aspose.pdf.tagged.logicalstructure.elements/element) |  |
-| updatePdfDictionary | boolean |  |
-
-### removeElement(Element element) {#removeElement-com.aspose.pdf.tagged.logicalstructure.elements.Element-}
-```
-public void removeElement(Element element)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| element | [Element](../../com.aspose.pdf.tagged.logicalstructure.elements/element) |  |
+**Returns:**
+用于遍历元素集合的枚举器。

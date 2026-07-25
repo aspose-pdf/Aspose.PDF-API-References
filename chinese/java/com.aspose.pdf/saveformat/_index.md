@@ -1,385 +1,210 @@
 ---
-title: SaveFormat
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 指定格式
+title: "SaveFormat"
+linktitle: "SaveFormat"
+second_title: "Aspose.PDF for Java API 参考"
+description: "指定格式"
 type: docs
-weight: 445
+weight: 4360
 url: /zh/java/com.aspose.pdf/saveformat/
 ---
-**遗产：**
-java.lang.Object, java.lang.Enum
+**Inheritance:**
+java.lang.Object, java.lang.Enum < SaveFormat > com.aspose.pdf.SaveFormat, java.lang.Enum < SaveFormat >, com.aspose.pdf.SaveFormat
+
+**All Implemented Interfaces:**
+Serializable, Comparable < SaveFormat >
+
 ```
-public enum SaveFormat extends Enum<SaveFormat>
+public enum SaveFormat extends Enum < SaveFormat >
 ```
 
 指定格式
-## 领域
 
-| 场地 | 描述 |
+## 字段
+
+| 字段 | 描述 |
 | --- | --- |
-| [Aps](#Aps) | 另存为 APS XML 文件。 |
-| [Doc](#Doc) | 表示以DOC格式保存 |
-| [DocX](#DocX) | 表示以DOCX格式保存 |
-| [Epub](#Epub) | 表示以EPUB格式保存（电子书的特殊格式） |
-| [Excel](#Excel) | 表示保存为 MsExcel 格式 |
+| [Aps](#Aps) | 保存为 APS XML 文件。 |
+| [Doc](#Doc) | 表示以 DOC 格式保存 |
+| [DocX](#DocX) | 表示以 DOCX 格式保存 |
+| [Eps](#Eps) | 表示以封装的 PostScript 格式保存。 |
+| [Epub](#Epub) | 表示以 EPUB 格式（电子书的特殊格式）保存 |
+| [Excel](#Excel) | 表示以 MsExcel 格式保存 |
 | [Html](#Html) | 表示以 HTML 格式保存 |
-| [MobiXml](#MobiXml) | 表示保存为MobiXML格式（电子书专用格式） |
-| [None](#None) | 表示不改变格式保存，即保存为 PDF 已过时，最终将被删除，请改用 'SaveFormat.Pdf' |
-| [Pdf](#Pdf) | 意味着保存而不改变格式，即作为 PDF 请使用它而不是 'SaveFormat.None'，这是过时的 |
-| [PdfXml](#PdfXml) | XML 格式的内部 PDF 文档结构 |
-| [Plugin](#Plugin) | 意味着借助插件进行保存 |
-| [Pptx](#Pptx) | 表示保存在 MHT(WebArchieve) /// |
-| [Svg](#Svg) | 表示以SVG格式保存 |
-| [TeX](#TeX) | 表示以 TEX 格式保存，即适合 Latex 文本编辑器的格式 |
-| [Xml](#Xml) | 表示以XML格式保存 |
+| [Markdown](#Markdown) | 表示以 Markdown 格式保存。 |
+| [MobiXml](#MobiXml) | 表示以 MobiXML 格式（电子书的特殊格式）保存 |
+| [None](#None) | 已弃用。 |
+| [Pdf](#Pdf) | 表示在不更改格式的情况下保存，即 |
+| [PdfXml](#PdfXml) | 内部 PDF 文档结构的 XML 格式 |
+| [Pptx](#Pptx) | 表示以 MHT（Web 存档）格式保存 /// |
+| [Ps](#Ps) | 表示以 PostScript 格式保存。 |
+| [Svg](#Svg) | 表示以 SVG 格式保存 |
+| [TeX](#TeX) | 表示以 TEX 格式保存，即 |
+| [Xml](#Xml) | 表示以 XML 格式保存 |
 | [Xps](#Xps) | 表示以 XPS 格式保存 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [<T>valueOf(Class<T> arg0, String arg1)](#-T-valueOf-java.lang.Class-T--java.lang.String-) |  |
-| [compareTo(E arg0)](#compareTo-E-) |  |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getDeclaringClass()](#getDeclaringClass--) |  |
-| [getValue()](#getValue--) |  |
-| [hashCode()](#hashCode--) |  |
-| [name()](#name--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [ordinal()](#ordinal--) |  |
-| [toString()](#toString--) |  |
-| [valueOf(String name)](#valueOf-java.lang.String-) |  |
-| [values()](#values--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
+| [getByValue](#getByValue-int-) |  |
+| [getValue](#getValue--) |  |
+| [valueOf](#valueOf-java.lang.String-) | 返回此类型中具有指定名称的枚举常量。 |
+| [values](#values--) | 返回一个数组，包含此枚举类型的常量，按声明顺序排列。 |
+
 ### Aps {#Aps}
 ```
 public static final SaveFormat Aps
 ```
 
-
-另存为 APS XML 文件。
+保存为 APS XML 文件。
 
 ### Doc {#Doc}
 ```
 public static final SaveFormat Doc
 ```
 
-
-表示以DOC格式保存
+表示以 DOC 格式保存
 
 ### DocX {#DocX}
 ```
 public static final SaveFormat DocX
 ```
 
+表示以 DOCX 格式保存
 
-表示以DOCX格式保存
+### Eps {#Eps}
+```
+public static final SaveFormat Eps
+```
+
+表示以封装的 PostScript 格式保存。
 
 ### Epub {#Epub}
 ```
 public static final SaveFormat Epub
 ```
 
-
-表示以EPUB格式保存（电子书的特殊格式）
+表示以 EPUB 格式（电子书的特殊格式）保存
 
 ### Excel {#Excel}
 ```
 public static final SaveFormat Excel
 ```
 
-
-表示保存为 MsExcel 格式
+表示以 MsExcel 格式保存
 
 ### Html {#Html}
 ```
 public static final SaveFormat Html
 ```
 
-
 表示以 HTML 格式保存
+
+### Markdown {#Markdown}
+```
+public static final SaveFormat Markdown
+```
+
+表示以 Markdown 格式保存。
 
 ### MobiXml {#MobiXml}
 ```
 public static final SaveFormat MobiXml
 ```
 
-
-表示保存为MobiXML格式（电子书专用格式）
+表示以 MobiXML 格式（电子书的特殊格式）保存
 
 ### None {#None}
 ```
-public static final SaveFormat None
+@Deprecated public static final SaveFormat None
 ```
 
-
-表示不改变格式保存，即保存为 PDF 已过时，最终将被删除，请改用 'SaveFormat.Pdf'
+已弃用。
 
 ### Pdf {#Pdf}
 ```
 public static final SaveFormat Pdf
 ```
 
-
-意味着保存而不改变格式，即作为 PDF 请使用它而不是 'SaveFormat.None'，这是过时的
+表示在不更改格式的情况下保存，即
 
 ### PdfXml {#PdfXml}
 ```
 public static final SaveFormat PdfXml
 ```
 
-
-XML 格式的内部 PDF 文档结构
-
-### Plugin {#Plugin}
-```
-public static final SaveFormat Plugin
-```
-
-
-意味着借助插件进行保存
+内部 PDF 文档结构的 XML 格式
 
 ### Pptx {#Pptx}
 ```
 public static final SaveFormat Pptx
 ```
 
+表示以 MHT（Web 存档）格式保存 ///
 
-表示保存在 MHT(WebArchieve) ///
+### Ps {#Ps}
+```
+public static final SaveFormat Ps
+```
 
-将文档转换为 Mht 格式。此代码是在与相关工作期间使用的实验性代码https://pdf.aspose.com/jira/browse/PDFNEWNET-36340不会投入生产，因为创建的 MHT 存在跨浏览器问题 - 因此，如果最终有必要创建 MHT 本身，它可以在将来使用。 PDFNEWNET-36340 已通过使用 DataSceme URL（将数据嵌入 HTMLhttp://en.wikipedia.org/wiki/Data\_URI\_scheme) 所以，这个转换现在真的没有用过。
-
-表示保存为PPTX格式
+表示以 PostScript 格式保存。
 
 ### Svg {#Svg}
 ```
 public static final SaveFormat Svg
 ```
 
-
-表示以SVG格式保存
+表示以 SVG 格式保存
 
 ### TeX {#TeX}
 ```
 public static final SaveFormat TeX
 ```
 
-
-表示以 TEX 格式保存，即适合 Latex 文本编辑器的格式
+表示以 TEX 格式保存，即
 
 ### Xml {#Xml}
 ```
 public static final SaveFormat Xml
 ```
 
-
-表示以XML格式保存
+表示以 XML 格式保存
 
 ### Xps {#Xps}
 ```
 public static final SaveFormat Xps
 ```
 
-
 表示以 XPS 格式保存
 
-### <T>valueOf(Class<T> arg0, String arg1) {#-T-valueOf-java.lang.Class-T--java.lang.String-}
+### getByValue {#getByValue-int-}
 ```
-public static T <T>valueOf(Class<T> arg0, String arg1)
+public static SaveFormat getByValue(int value)
 ```
 
 
 
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| arg0 | java.lang.Class<T> |  |
-| arg1 | java.lang.String |  |
+| 值 |  |  |
 
-**退货：**
-吨
-### compareTo(E arg0) {#compareTo-E-}
-```
-public final int compareTo(E arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | E |  |
-
-**退货：**
-整数
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public final boolean equals(Object arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getDeclaringClass() {#getDeclaringClass--}
-```
-public final Class<E> getDeclaringClass()
-```
-
-
-
-
-**退货：**
-java.lang.类<E>
-### getValue() {#getValue--}
+### getValue {#getValue--}
 ```
 public int getValue()
 ```
 
 
 
+### valueOf {#valueOf-java.lang.String-}
+返回此类型中具有指定名称的枚举常量。
 
-**退货：**
-整数
-### hashCode() {#hashCode--}
+### values {#values--}
 ```
-public final int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### name() {#name--}
-```
-public final String name()
+public static SaveFormat [] values()
 ```
 
+返回一个数组，包含此枚举类型的常量，按声明顺序排列。
 
-
-
-**退货：**
-java.lang.字符串
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### ordinal() {#ordinal--}
-```
-public final int ordinal()
-```
-
-
-
-
-**退货：**
-整数
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### valueOf(String name) {#valueOf-java.lang.String-}
-```
-public static SaveFormat valueOf(String name)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| name | java.lang.String |  |
-
-**退货：**
-[SaveFormat](../../com.aspose.pdf/saveformat)
-### values() {#values--}
-```
-public static SaveFormat[] values()
-```
-
-
-
-
-**退货：**
-com.aspose.pdf.保存格式[]
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+**Returns:**
+一个数组，包含此枚举类型的常量，按声明顺序排列

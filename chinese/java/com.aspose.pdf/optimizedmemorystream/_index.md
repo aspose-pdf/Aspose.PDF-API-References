@@ -1,722 +1,321 @@
 ---
-title: OptimizedMemoryStream
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 定义一个可以包含更多标准容量的 MemoryStream
+title: "OptimizedMemoryStream"
+linktitle: "OptimizedMemoryStream"
+second_title: "Aspose.PDF for Java API 参考"
+description: "定义一个可以容纳更大标准容量的 MemoryStream。"
 type: docs
-weight: 236
+weight: 3220
 url: /zh/java/com.aspose.pdf/optimizedmemorystream/
 ---
-**遗产：**
-java.lang.Object, com.aspose.ms.System.IO.Stream
+**Inheritance:**
+java.lang.Object, com.aspose.ms.System.IO.Stream com.aspose.pdf.OptimizedMemoryStream, com.aspose.ms.System.IO.Stream, com.aspose.pdf.OptimizedMemoryStream
+
+**All Implemented Interfaces:**
+com.aspose.ms.System.IDisposable
+
 ```
-public class OptimizedMemoryStream extends System.IO.Stream
+public class OptimizedMemoryStream extends com.aspose.ms.System.IO.Stream
 ```
 
-定义一个可以包含更多标准容量的 MemoryStream
+定义一个可以容纳更大标准容量的 MemoryStream。
+
+## 字段
+
+| 字段 | 描述 |
+| --- | --- |
+| [DefaultBufferSize](#DefaultBufferSize) | 默认缓冲区大小（字节）值。 |
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [OptimizedMemoryStream()](#OptimizedMemoryStream--) | 初始化一个新的实例[OptimizedMemoryStream](../../com.aspose.pdf/optimizedmemorystream)班级。 |
-| [OptimizedMemoryStream(int bufferSize, byte[] buffer)](#OptimizedMemoryStream-int-byte---) | 初始化一个新的实例[OptimizedMemoryStream](../../com.aspose.pdf/optimizedmemorystream)基于指定字节数组的类。 |
-| [OptimizedMemoryStream(int bufferSize)](#OptimizedMemoryStream-int-) | 初始化一个新的实例[OptimizedMemoryStream](../../com.aspose.pdf/optimizedmemorystream)班级。 |
-| [OptimizedMemoryStream(byte[] buffer)](#OptimizedMemoryStream-byte---) | 初始化一个新的实例[OptimizedMemoryStream](../../com.aspose.pdf/optimizedmemorystream)基于指定字节数组的类。 |
-## 领域
+| [OptimizedMemoryStream](#OptimizedMemoryStream--) | 初始化 {@link OptimizedMemoryStream} 类的新实例。 |
+| [OptimizedMemoryStream](#OptimizedMemoryStream-byte:A-) | 基于指定的字节数组，初始化 {@link OptimizedMemoryStream} 类的新实例。 |
+| [OptimizedMemoryStream](#OptimizedMemoryStream-int-) | 初始化 {@link OptimizedMemoryStream} 类的新实例。 |
+| [OptimizedMemoryStream](#OptimizedMemoryStream-int-byte:A-) | 基于指定的字节数组，初始化 {@link OptimizedMemoryStream} 类的新实例。 |
 
-| 场地 | 描述 |
-| --- | --- |
-| [DefaultBufferSize](#DefaultBufferSize) | 默认缓冲区大小值（以字节为单位）。 |
-| [Null](#Null) |  |
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [_synchronized(System.IO.Stream arg0)](#-synchronized-com.aspose.ms.System.IO.Stream-) |  |
-| [beginRead(byte[] arg0, int arg1, int arg2, System.AsyncCallback arg3, Object arg4)](#beginRead-byte---int-int-com.aspose.ms.System.AsyncCallback-java.lang.Object-) |  |
-| [beginWrite(byte[] arg0, int arg1, int arg2, System.AsyncCallback arg3, Object arg4)](#beginWrite-byte---int-int-com.aspose.ms.System.AsyncCallback-java.lang.Object-) |  |
-| [canRead()](#canRead--) | 当在派生类中重写时，获取一个值，该值指示当前流是否支持读取。 |
-| [canSeek()](#canSeek--) | 当在派生类中重写时，获取一个值，该值指示当前流是否支持查找。 |
-| [canTimeout()](#canTimeout--) |  |
-| [canWrite()](#canWrite--) | 当在派生类中重写时，获取一个值，该值指示当前流是否支持写入。 |
-| [close()](#close--) |  |
-| [copyTo(System.IO.Stream arg0)](#copyTo-com.aspose.ms.System.IO.Stream-) |  |
-| [copyTo(System.IO.Stream arg0, int arg1)](#copyTo-com.aspose.ms.System.IO.Stream-int-) |  |
-| [dispose()](#dispose--) |  |
-| [endRead(System.IAsyncResult arg0)](#endRead-com.aspose.ms.System.IAsyncResult-) |  |
-| [endWrite(System.IAsyncResult arg0)](#endWrite-com.aspose.ms.System.IAsyncResult-) |  |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [flush()](#flush--) | 函数被覆盖。 |
-| [fromJava(InputStream arg0)](#fromJava-java.io.InputStream-) |  |
-| [getBufferSize()](#getBufferSize--) | 获取或设置基础缓冲区的大小。 |
-| [getClass()](#getClass--) |  |
-| [getFreeOnDispose()](#getFreeOnDispose--) | 获取或设置一个值，该值指示是否在处置时释放基础缓冲区。 |
-| [getLength()](#getLength--) | 在派生类中重写时，获取流的字节长度。 |
-| [getPosition()](#getPosition--) | 在派生类中重写时，获取或设置当前流中的位置。 |
-| [getReadTimeout()](#getReadTimeout--) |  |
-| [getWriteTimeout()](#getWriteTimeout--) |  |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [read(byte[] buffer, int offset, int count)](#read-byte---int-int-) | 当在派生类中重写时，从当前流中读取字节序列，并按读取的字节数推进流中的位置。 |
-| [readByte()](#readByte--) | 从流中读取一个字节并将流中的位置前进一个字节，如果在流的末尾则返回 -1。 |
-| [seek(long offset, int origin)](#seek-long-int-) | 在派生类中重写时，设置当前流中的位置。 |
-| [setBufferSize(int value)](#setBufferSize-int-) | 获取或设置基础缓冲区的大小。 |
-| [setFreeOnDispose(boolean value)](#setFreeOnDispose-boolean-) | 获取或设置一个值，该值指示是否在处置时释放基础缓冲区。 |
-| [setLength(long value)](#setLength-long-) | 在派生类中重写时，设置当前流的长度。 |
-| [setPosition(long value)](#setPosition-long-) | 在派生类中重写时，获取或设置当前流中的位置。 |
-| [setReadTimeout(int arg0)](#setReadTimeout-int-) |  |
-| [setWriteTimeout(int arg0)](#setWriteTimeout-int-) |  |
-| [toArray()](#toArray--) | 将当前流转换为字节数组。 |
-| [toInputStream()](#toInputStream--) |  |
-| [toJava(System.IO.Stream arg0)](#toJava-com.aspose.ms.System.IO.Stream-) |  |
-| [toOutputStream()](#toOutputStream--) |  |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-| [write(byte[] buffer, int offset, int count)](#write-byte---int-int-) | 当在派生类中重写时，将一个字节序列写入当前流，并将该流中的当前位置推进写入的字节数。 |
-| [writeByte(byte value)](#writeByte-byte-) | 将一个字节写入流中的当前位置，并将流中的位置前进一个字节。 |
-| [writeTo(System.IO.Stream stream)](#writeTo-com.aspose.ms.System.IO.Stream-) | 写入指定的流。 |
-### OptimizedMemoryStream() {#OptimizedMemoryStream--}
-```
-public OptimizedMemoryStream()
-```
-
-
-初始化一个新的实例[OptimizedMemoryStream](../../com.aspose.pdf/optimizedmemorystream)班级。
-
-### OptimizedMemoryStream(int bufferSize, byte[] buffer) {#OptimizedMemoryStream-int-byte---}
-```
-public OptimizedMemoryStream(int bufferSize, byte[] buffer)
-```
-
-
-初始化一个新的实例[OptimizedMemoryStream](../../com.aspose.pdf/optimizedmemorystream)基于指定字节数组的类。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| bufferSize | int | 底层缓冲区的大小。 |
-| buffer | byte[] | 从中创建当前流的无符号字节数组。 |
-
-### OptimizedMemoryStream(int bufferSize) {#OptimizedMemoryStream-int-}
-```
-public OptimizedMemoryStream(int bufferSize)
-```
-
-
-初始化一个新的实例[OptimizedMemoryStream](../../com.aspose.pdf/optimizedmemorystream)班级。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| bufferSize | int | 底层缓冲区的大小。 |
-
-### OptimizedMemoryStream(byte[] buffer) {#OptimizedMemoryStream-byte---}
-```
-public OptimizedMemoryStream(byte[] buffer)
-```
-
-
-初始化一个新的实例[OptimizedMemoryStream](../../com.aspose.pdf/optimizedmemorystream)基于指定字节数组的类。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| buffer | byte[] | 从中创建当前流的无符号字节数组。 |
+| [canRead](#canRead--) | 在派生类中重写时，获取一个值，指示当前流是否支持读取。 |
+| [canSeek](#canSeek--) | 在派生类中重写时，获取一个值，指示当前流是否支持定位。 |
+| [canWrite](#canWrite--) | 在派生类中重写时，获取一个值，指示当前流是否支持写入。 |
+| [flush](#flush--) | 该函数已被重写。 |
+| [getBufferSize](#getBufferSize--) | 获取或设置底层缓冲区的大小。值：缓冲区大小。 |
+| [getFreeOnDispose](#getFreeOnDispose--) | 获取或设置一个值，指示在释放时是否释放底层缓冲区。 |
+| [getLength](#getLength--) | 在派生类中重写时，获取流的字节长度。 |
+| [getPosition](#getPosition--) | 在派生类中重写时，获取或设置当前流中的位置。 |
+| [read](#read-byte:A-int-int-) | 在派生类中重写时，从当前流读取一系列字节，并根据读取的字节数前移流中的位置。 |
+| [readByte](#readByte--) | 从流中读取一个字节，并将流中的位置前移一个字节；如果已到达流末尾，则返回 -1。 |
+| [seek](#seek-long-int-) | 在派生类中重写时，设置当前流中的位置。 |
+| [seek](#seek-long-com.aspose.pdf.OptimizedMemoryStream.SeekOrigin-) | 在派生类中重写时，设置当前流中的位置。 |
+| [setBufferSize](#setBufferSize-int-) | 获取或设置底层缓冲区的大小。值：缓冲区大小。 |
+| [setFreeOnDispose](#setFreeOnDispose-boolean-) | 获取或设置一个值，指示在释放时是否释放底层缓冲区。 |
+| [setLength](#setLength-long-) | 在派生类中重写时，设置当前流的长度。 |
+| [setPosition](#setPosition-long-) | 在派生类中重写时，获取或设置当前流中的位置。流中的当前位置信息。值： |
+| [toArray](#toArray--) | 将当前流转换为字节数组。 |
+| [write](#write-byte:A-int-int-) | 在派生类中重写时，将一系列字节写入当前流，并根据写入的字节数前移该流中的当前位置。 |
+| [writeByte](#writeByte-byte-) | 在流的当前位写入一个字节，并将流中的位置前移一个字节。 |
+| [writeTo](#writeTo-com.aspose.ms.System.IO.Stream-) | 写入指定的流。 |
 
 ### DefaultBufferSize {#DefaultBufferSize}
 ```
 public static final int DefaultBufferSize
 ```
 
+默认缓冲区大小（字节）值。
 
-默认缓冲区大小值（以字节为单位）。
-
-### Null {#Null}
+### OptimizedMemoryStream {#OptimizedMemoryStream--}
 ```
-public static System.IO.Stream Null
-```
-
-
-### _synchronized(System.IO.Stream arg0) {#-synchronized-com.aspose.ms.System.IO.Stream-}
-```
-public static System.IO.Stream _synchronized(System.IO.Stream arg0)
+public OptimizedMemoryStream()
 ```
 
+初始化 {@link OptimizedMemoryStream} 类的新实例。
 
+### OptimizedMemoryStream {#OptimizedMemoryStream-byte:A-}
+```
+public OptimizedMemoryStream(byte[] buffer)
+```
 
+基于指定的字节数组，初始化 {@link OptimizedMemoryStream} 类的新实例。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| arg0 | com.aspose.ms.System.IO.Stream |  |
+| 缓冲区 |  | 用于创建当前流的无符号字节数组。 |
 
-**退货：**
-com.aspose.ms.System.IO.Stream
-### beginRead(byte[] arg0, int arg1, int arg2, System.AsyncCallback arg3, Object arg4) {#beginRead-byte---int-int-com.aspose.ms.System.AsyncCallback-java.lang.Object-}
+### OptimizedMemoryStream {#OptimizedMemoryStream-int-}
 ```
-public System.IAsyncResult beginRead(byte[] arg0, int arg1, int arg2, System.AsyncCallback arg3, Object arg4)
+public OptimizedMemoryStream(int bufferSize)
 ```
 
+初始化 {@link OptimizedMemoryStream} 类的新实例。
 
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| arg0 | byte[] |  |
-| arg1 | int |  |
-| arg2 | int |  |
-| arg3 | com.aspose.ms.System.AsyncCallback |  |
-| arg4 | java.lang.Object |  |
+| 缓冲区大小 |  | 底层缓冲区的大小。 |
 
-**退货：**
-com.aspose.ms.System.IAsyncResult
-### beginWrite(byte[] arg0, int arg1, int arg2, System.AsyncCallback arg3, Object arg4) {#beginWrite-byte---int-int-com.aspose.ms.System.AsyncCallback-java.lang.Object-}
+### OptimizedMemoryStream {#OptimizedMemoryStream-int-byte:A-}
 ```
-public System.IAsyncResult beginWrite(byte[] arg0, int arg1, int arg2, System.AsyncCallback arg3, Object arg4)
+public OptimizedMemoryStream(int bufferSize, byte[] buffer)
 ```
 
+基于指定的字节数组，初始化 {@link OptimizedMemoryStream} 类的新实例。
 
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| arg0 | byte[] |  |
-| arg1 | int |  |
-| arg2 | int |  |
-| arg3 | com.aspose.ms.System.AsyncCallback |  |
-| arg4 | java.lang.Object |  |
+| 缓冲区大小 |  | 底层缓冲区的大小。 |
+| 缓冲区 |  | 用于创建当前流的无符号字节数组。 |
 
-**退货：**
-com.aspose.ms.System.IAsyncResult
-### canRead() {#canRead--}
+### canRead {#canRead--}
 ```
 public boolean canRead()
 ```
 
+在派生类中重写时，获取一个值，指示当前流是否支持读取。
 
-当在派生类中重写时，获取一个值，该值指示当前流是否支持读取。
+**Returns:**
+如果流支持读取则为 true；否则为 false。值：
 
-**退货：**
-boolean - 如果流支持读取则为 true；否则，假的。价值：
-### canSeek() {#canSeek--}
+### canSeek {#canSeek--}
 ```
 public boolean canSeek()
 ```
 
+在派生类中重写时，获取一个值，指示当前流是否支持定位。
 
-当在派生类中重写时，获取一个值，该值指示当前流是否支持查找。
+**Returns:**
+如果流支持定位则为 true；否则为 false。值：
 
-**退货：**
-boolean - 如果流支持搜索则为 true；否则，假的。价值：
-### canTimeout() {#canTimeout--}
-```
-public boolean canTimeout()
-```
-
-
-
-
-**退货：**
-布尔值
-### canWrite() {#canWrite--}
+### canWrite {#canWrite--}
 ```
 public boolean canWrite()
 ```
 
+在派生类中重写时，获取一个值，指示当前流是否支持写入。
 
-当在派生类中重写时，获取一个值，该值指示当前流是否支持写入。
+**Returns:**
+如果流支持写入则为 true；否则为 false。值：
 
-**退货：**
-boolean - 如果流支持写入则为 true；否则，假的。价值：
-### close() {#close--}
-```
-public void close()
-```
-
-
-
-
-### copyTo(System.IO.Stream arg0) {#copyTo-com.aspose.ms.System.IO.Stream-}
-```
-public void copyTo(System.IO.Stream arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.IO.Stream |  |
-
-### copyTo(System.IO.Stream arg0, int arg1) {#copyTo-com.aspose.ms.System.IO.Stream-int-}
-```
-public void copyTo(System.IO.Stream arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.IO.Stream |  |
-| arg1 | int |  |
-
-### dispose() {#dispose--}
-```
-public void dispose()
-```
-
-
-
-
-### endRead(System.IAsyncResult arg0) {#endRead-com.aspose.ms.System.IAsyncResult-}
-```
-public int endRead(System.IAsyncResult arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.IAsyncResult |  |
-
-**退货：**
-整数
-### endWrite(System.IAsyncResult arg0) {#endWrite-com.aspose.ms.System.IAsyncResult-}
-```
-public void endWrite(System.IAsyncResult arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.IAsyncResult |  |
-
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### flush() {#flush--}
+### flush {#flush--}
 ```
 public void flush()
 ```
 
+该函数已被重写。
 
-函数被覆盖。
-
-### fromJava(InputStream arg0) {#fromJava-java.io.InputStream-}
-```
-public static System.IO.Stream fromJava(InputStream arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.io.InputStream |  |
-
-**退货：**
-com.aspose.ms.System.IO.Stream
-### getBufferSize() {#getBufferSize--}
+### getBufferSize {#getBufferSize--}
 ```
 public final int getBufferSize()
 ```
 
+获取或设置底层缓冲区的大小。值：缓冲区大小。
 
-获取或设置基础缓冲区的大小。
+**Returns:**
+int 值
 
-值：缓冲区大小。
-
-**退货：**
-int - 整数值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getFreeOnDispose() {#getFreeOnDispose--}
+### getFreeOnDispose {#getFreeOnDispose--}
 ```
 public final boolean getFreeOnDispose()
 ```
 
+获取或设置一个值，指示在释放时是否释放底层缓冲区。
 
-获取或设置一个值，该值指示是否在处置时释放基础缓冲区。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### getLength() {#getLength--}
+### getLength {#getLength--}
 ```
 public long getLength()
 ```
 
-
 在派生类中重写时，获取流的字节长度。
 
-**退货：**
-long - 一个 long 值，表示流的长度（以字节为单位）。价值：
-### getPosition() {#getPosition--}
+**Returns:**
+表示流长度（以字节为单位）的 long 值。值：
+
+### getPosition {#getPosition--}
 ```
 public long getPosition()
 ```
 
-
 在派生类中重写时，获取或设置当前流中的位置。
 
-**退货：**
-long - 流中的当前位置。价值：
-### getReadTimeout() {#getReadTimeout--}
-```
-public int getReadTimeout()
-```
+**Returns:**
+流中的当前位置。值：
 
-
-
-
-**退货：**
-整数
-### getWriteTimeout() {#getWriteTimeout--}
-```
-public int getWriteTimeout()
-```
-
-
-
-
-**退货：**
-整数
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### read(byte[] buffer, int offset, int count) {#read-byte---int-int-}
+### read {#read-byte:A-int-int-}
 ```
 public int read(byte[] buffer, int offset, int count)
 ```
 
+在派生类中重写时，从当前流读取一系列字节，并根据读取的字节数前移流中的位置。
 
-当在派生类中重写时，从当前流中读取字节序列，并按读取的字节数推进流中的位置。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| buffer | byte[] | 字节数组。当此方法返回时，缓冲区包含具有值的指定字节数组 |
-| offset | int | 开始存储从当前流读取的数据的从零开始的字节偏移量。 |
-| count | int | 要从当前流中读取的最大字节数。 |
+| 缓冲区 |  | 字节数组。当此方法返回时，缓冲区包含具有这些值的指定字节数组 |
+| 偏移量 |  | 从当前流读取的数据开始存储的基于零的字节偏移量。 |
+| 计数 |  | 从当前流读取的最大字节数。 |
 
-**退货：**
-int - 读入缓冲区的总字节数。如果当前没有那么多字节可用，则这可能小于请求的字节数，或者如果已到达流的末尾，则为零 (0)。
-### readByte() {#readByte--}
+**Returns:**
+读取到缓冲区的字节总数。如果当前可用字节不足请求的字节数，则可能少于请求的字节数；如果已到达流的末尾，则为零 (0)。
+
+### readByte {#readByte--}
 ```
 public int readByte()
 ```
 
+从流中读取一个字节，并将流中的位置前移一个字节；如果已到达流末尾，则返回 -1。
 
-从流中读取一个字节并将流中的位置前进一个字节，如果在流的末尾则返回 -1。
+**Returns:**
+字节，或在流末尾时为 -1。
 
-**退货：**
-int - 字节或 -1 如果在流的末尾。
-### seek(long offset, int origin) {#seek-long-int-}
+### seek {#seek-long-int-}
 ```
 public long seek(long offset, int origin)
 ```
 
-
 在派生类中重写时，设置当前流中的位置。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| offset | long | 相对于 origin 参数的字节偏移量。 |
-| origin | int | 类型值[SeekOrigin](../../com.aspose.pdf/seekorigin)指示用于获取新位置的参考点。 |
+| 偏移量 |  | 相对于 {@code origin} 参数的字节偏移量。 |
+| origin |  | 类型为 {@link SeekOrigin} 的值，指示用于获取新位置的参考点。 |
 
-**退货：**
-long - 当前流中的新位置。
-### setBufferSize(int value) {#setBufferSize-int-}
+**Returns:**
+当前流中的新位置。
+
+### seek {#seek-long-com.aspose.pdf.OptimizedMemoryStream.SeekOrigin-}
+在派生类中重写时，设置当前流中的位置。
+
+### setBufferSize {#setBufferSize-int-}
 ```
 public final void setBufferSize(int value)
 ```
 
+获取或设置底层缓冲区的大小。值：缓冲区大小。
 
-获取或设置基础缓冲区的大小。
-
-值：缓冲区大小。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 整数值 |
+| 值 |  | int 值 |
 
-### setFreeOnDispose(boolean value) {#setFreeOnDispose-boolean-}
+### setFreeOnDispose {#setFreeOnDispose-boolean-}
 ```
 public final void setFreeOnDispose(boolean value)
 ```
 
+获取或设置一个值，指示在释放时是否释放底层缓冲区。
 
-获取或设置一个值，该值指示是否在处置时释放基础缓冲区。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setLength(long value) {#setLength-long-}
+### setLength {#setLength-long-}
 ```
 public void setLength(long value)
 ```
 
-
 在派生类中重写时，设置当前流的长度。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | long | 当前流的所需长度（以字节为单位）。 |
+| 值 |  | 当前流所需的字节长度。 |
 
-### setPosition(long value) {#setPosition-long-}
+### setPosition {#setPosition-long-}
 ```
 public void setPosition(long value)
 ```
 
+在派生类中重写时，获取或设置当前流中的位置。流中的当前位置信息。值：
 
-在派生类中重写时，获取或设置当前流中的位置。
-
-流中的当前位置。价值：
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | long |  |
+| 值 |  |  |
 
-### setReadTimeout(int arg0) {#setReadTimeout-int-}
-```
-public void setReadTimeout(int arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | int |  |
-
-### setWriteTimeout(int arg0) {#setWriteTimeout-int-}
-```
-public void setWriteTimeout(int arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | int |  |
-
-### toArray() {#toArray--}
+### toArray {#toArray--}
 ```
 public final byte[] toArray()
 ```
 
-
 将当前流转换为字节数组。
 
-**退货：**
-字节[] - 字节数组
-### toInputStream() {#toInputStream--}
-```
-public InputStream toInputStream()
-```
+**Returns:**
+字节数组
 
-
-
-
-**退货：**
-java.io.InputStream
-### toJava(System.IO.Stream arg0) {#toJava-com.aspose.ms.System.IO.Stream-}
-```
-public static InputStream toJava(System.IO.Stream arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | com.aspose.ms.System.IO.Stream |  |
-
-**退货：**
-java.io.InputStream
-### toOutputStream() {#toOutputStream--}
-```
-public OutputStream toOutputStream()
-```
-
-
-
-
-**退货：**
-java.io.OutputStream
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
-
-### write(byte[] buffer, int offset, int count) {#write-byte---int-int-}
+### write {#write-byte:A-int-int-}
 ```
 public void write(byte[] buffer, int offset, int count)
 ```
 
+在派生类中重写时，将一系列字节写入当前流，并根据写入的字节数前移该流中的当前位置。
 
-当在派生类中重写时，将一个字节序列写入当前流，并将该流中的当前位置推进写入的字节数。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| buffer | byte[] | 字节数组。此方法将计数字节从缓冲区复制到当前流。 |
-| offset | int | 缓冲区中从零开始的字节偏移量，从该偏移量开始将字节复制到当前流。 |
-| count | int | 要写入当前流的字节数。 |
+| 缓冲区 |  | 字节数组。此方法将 {@code count} 字节从 {@code buffer} 复制到当前流。 |
+| 偏移量 |  | 在 {@code buffer} 中开始将字节复制到当前流的基于零的字节偏移量。 |
+| 计数 |  | 要写入当前流的字节数。 |
 
-### writeByte(byte value) {#writeByte-byte-}
+### writeByte {#writeByte-byte-}
 ```
 public void writeByte(byte value)
 ```
 
+在流的当前位写入一个字节，并将流中的位置前移一个字节。
 
-将一个字节写入流中的当前位置，并将流中的位置前进一个字节。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | byte | 要写入流的字节。 |
+| 值 |  | 要写入流的字节。 |
 
-### writeTo(System.IO.Stream stream) {#writeTo-com.aspose.ms.System.IO.Stream-}
-```
-public final void writeTo(System.IO.Stream stream)
-```
-
-
+### writeTo {#writeTo-com.aspose.ms.System.IO.Stream-}
 写入指定的流。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| stream | com.aspose.ms.System.IO.Stream | 流。 |

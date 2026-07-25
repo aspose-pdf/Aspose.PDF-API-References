@@ -1,179 +1,61 @@
 ---
-title: FileFontSource
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 表示单个字体文件源。
+title: "FileFontSource"
+linktitle: "FileFontSource"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示单个字体文件来源。"
 type: docs
-weight: 112
+weight: 1450
 url: /zh/java/com.aspose.pdf/filefontsource/
 ---
-**遗产：**
-java.lang.Object, [com.aspose.pdf.FontSource](../../com.aspose.pdf/fontsource)
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.FontSource com.aspose.pdf.FileFontSource, com.aspose.pdf.FontSource, com.aspose.pdf.FileFontSource
+
 ```
 public final class FileFontSource extends FontSource
 ```
 
-表示单个字体文件源。
+表示单个字体文件来源。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [FileFontSource(String filePath)](#FileFontSource-java.lang.String-) | 初始化 FileFontSource 类的新实例。 |
+| [FileFontSource](#FileFontSource-java.lang.String-) | 初始化 {@code FileFontSource} 类的新实例。 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object obj)](#equals-java.lang.Object-) | 检查字体文件源对象是否相等。 |
-| [getClass()](#getClass--) |  |
-| [getFilePath()](#getFilePath--) | 字体文件的路径。 |
-| [hashCode()](#hashCode--) | 返回对象的哈希码值。 |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setFilePath(String value)](#setFilePath-java.lang.String-) | 字体文件的路径。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### FileFontSource(String filePath) {#FileFontSource-java.lang.String-}
-```
-public FileFontSource(String filePath)
-```
+| [equals](#equals-java.lang.Object-) | 检查字体文件源对象是否相等。 |
+| [getFilePath](#getFilePath--) | 字体文件的路径。 |
+| [hashCode](#hashCode--) | 返回对象的哈希码值。此方法支持用于诸如 {@link java.util.HashMap} 提供的哈希表。 <p> {@code hashCode} 的一般约定是： <ul> <li>当在同一对象上在一次 Java 应用程序执行期间多次调用时，{@code hashCode} 方法必须始终返回相同的整数，前提是用于 {@code equals} 比较的对象信息未被修改。该整数在一次执行与另一执行之间不必保持一致。 <li>如果两个对象根据 {@code equals(Object)} 方法相等，则对这两个对象调用 {@code hashCode} 方法必须产生相同的整数结果。 <li>如果两个对象根据 {@link java.lang.Object#equals(java.lang.Object)} 方法不相等，则不要求 {@code hashCode} 方法对这两个对象返回不同的整数结果。不过，程序员应注意，为不相等的对象产生不同的整数结果可能会提升哈希表的性能。 </ul> <p> 在合理可行的范围内，类 {@code Object} 定义的 hashCode 方法确实会为不同的对象返回不同的整数。（这通常通过将对象的内部地址转换为整数实现，但 Java <span style=\"font-size:70%\"><sup>TM</sup></span> 编程语言并未强制要求此实现技术。） |
+| [setFilePath](#setFilePath-java.lang.String-) | 字体文件的路径。 |
 
+### FileFontSource {#FileFontSource-java.lang.String-}
+初始化 {@code FileFontSource} 类的新实例。
 
-初始化 FileFontSource 类的新实例。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| filePath | java.lang.String | 字体文件的路径。 |
-
-### equals(Object obj) {#equals-java.lang.Object-}
-```
-public boolean equals(Object obj)
-```
-
-
+### equals {#equals-java.lang.Object-}
 检查字体文件源对象是否相等。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| obj | java.lang.Object | 将进行比较的字体文件源对象。 |
-
-**退货：**
-boolean - 如果两个对象都是针对同一文件的字体文件源，则为真。
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getFilePath() {#getFilePath--}
+### getFilePath {#getFilePath--}
 ```
 public String getFilePath()
 ```
 
-
 字体文件的路径。
 
-**退货：**
-java.lang.String - 字符串值
-### hashCode() {#hashCode--}
+**Returns:**
+字符串值
+
+### hashCode {#hashCode--}
 ```
 public int hashCode()
 ```
 
+返回对象的哈希码值。此方法支持用于诸如 {@link java.util.HashMap} 提供的哈希表。 <p> {@code hashCode} 的一般约定是： <ul> <li>当在同一对象上在一次 Java 应用程序执行期间多次调用时，{@code hashCode} 方法必须始终返回相同的整数，前提是用于 {@code equals} 比较的对象信息未被修改。该整数在一次执行与另一执行之间不必保持一致。 <li>如果两个对象根据 {@code equals(Object)} 方法相等，则对这两个对象调用 {@code hashCode} 方法必须产生相同的整数结果。 <li>如果两个对象根据 {@link java.lang.Object#equals(java.lang.Object)} 方法不相等，则不要求 {@code hashCode} 方法对这两个对象返回不同的整数结果。不过，程序员应注意，为不相等的对象产生不同的整数结果可能会提升哈希表的性能。 </ul> <p> 在合理可行的范围内，类 {@code Object} 定义的 hashCode 方法确实会为不同的对象返回不同的整数。（这通常通过将对象的内部地址转换为整数实现，但 Java <span style=\"font-size:70%\"><sup>TM</sup></span> 编程语言并未强制要求此实现技术。）
 
-返回对象的哈希码值。支持此方法是为了散列表的好处，例如 java.util.HashMap 提供的散列表。
+**Returns:**
+此对象的哈希码值。 @see java.lang.Object#equals(java.lang.Object) @see java.lang.System#identityHashCode
 
-hashCode的一般契约是：
-
- *  每当在 Java 应用程序的执行期间对同一对象多次调用它时，hashCode 方法必须一致地返回相同的整数，前提是在对象的 equals 比较中使用的信息没有被修改。从一个应用程序的一次执行到同一应用程序的另一次执行，该整数不需要保持一致。
- *  如果根据 equals(Object) 方法两个对象相等，则对这两个对象中的每一个调用 hashCode 方法必须产生相同的整数结果。
- *  这是*not*要求如果两个对象根据 java.lang.Object 不相等\#equals(java.lang.Object).equals(java.lang.Object) 方法，然后在两个对象中的每一个上调用 hashCode 方法必须产生不同的整数结果。但是，程序员应该知道，为不相等的对象生成不同的整数结果可能会提高哈希表的性能。
-
-在相当实用的情况下，类 Object 定义的 hashCode 方法确实会为不同的对象返回不同的整数。 （这通常是通过将对象的内部地址转换为整数来实现的，但 Java TM 编程语言不需要这种实现技术。）
-
-**退货：**
-int - 此对象的哈希码值。
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setFilePath(String value) {#setFilePath-java.lang.String-}
-```
-public void setFilePath(String value)
-```
-
-
+### setFilePath {#setFilePath-java.lang.String-}
 字体文件的路径。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.String | 字符串值 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
