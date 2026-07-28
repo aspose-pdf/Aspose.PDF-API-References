@@ -1,0 +1,116 @@
+---
+title: "AsposePdfReplaceTextEx"
+second_title: "Aspose.PDF لـ JavaScript عبر C++"
+description: "استبدال عدة مقاطع نصية في ملف PDF مع التحكم في المحاذاة."
+type: docs
+url: /ar/javascript-cpp/organize/asposepdfreplacetextex/
+---
+
+_استبدال عدة مقاطع نصية في ملف PDF مع التحكم في المحاذاة._
+
+```js
+function AsposePdfReplaceTextEx(
+    fileBlob,
+    fileName,
+    findReplaceSpec,
+    options,
+    fileNameResult
+)
+```
+
+**Parameters**: 
+
+* **fileBlob** Blob object
+* **fileName** file name
+* **findReplaceSpec** Array, replacement specification:
+  * Array of objects describing replacements:
+    ```js
+    [
+      { findText: "text1", replaceText: "value1" },
+      { findText: "text2", replaceText: "value2" }
+    ]
+    ```
+  * Each object must contain `findText` and `replaceText` string properties
+* **options** object, settings for text replacement:
+  * `alignment` (string), text alignment (e.g., "left", "right", "auto")
+    * When `"auto"` is used, text direction is detected automatically.
+يمكن أيضًا فرض الاتجاه صراحةً عن طريق إضافة بادئة `replaceText`
+مع أحرف يونيكود الخاصة:
+`\u200F` (من اليمين إلى اليسار) أو `\u200E` (من اليسار إلى اليمين)، ويفضل أن يكون كأول حرف
+  * `numPages` (string|number|Array), target pages to process:
+    * number, page number as 2
+    * string, include page numbers with intervals as "7, 20, 22, 30-32, 33, 36-40, 46"
+    * Array, array of page numbers, such as [1,3]
+  * empty object `{}` for default behavior
+* **fileNameResult** result file name
+
+**Return**: 
+
+كائن JSON
+
+* **errorCode** - code error (0 no error)
+* **errorText** - text error ("" no error)
+* **fileNameResult** - result file name
+
+
+**Web Worker example**:
+```js
+  /*Create Web Worker*/
+  const AsposePDFWebWorker = new Worker("AsposePDFforJS.js");
+  AsposePDFWebWorker.onerror = evt => console.log(`Error from Web Worker: ${evt.message}`);
+  AsposePDFWebWorker.onmessage = evt => document.getElementById('output').textContent = 
+    (evt.data == 'ready') ? 'loaded!' :
+      (evt.data.json.errorCode == 0) ? `Result:\n${DownloadFile(evt.data.json.fileNameResult, "application/pdf", evt.data.params[0])}` : `Error: ${evt.data.json.errorText}`;
+
+  /*Event handler*/
+  const ffileReplaceTextEx = e => {
+    const file_reader = new FileReader();
+    file_reader.onload = event => {
+      const findReplaceSpec = [
+            {
+            findText: 'Aspose',
+            replaceText: 'ASPOSE'
+            },
+            {
+            findText: 'Node',
+            replaceText: 'NODE'
+            },
+            {
+            findText: 'ECMAScript',
+            replaceText: '\u200FScript'
+            }
+      ];
+      const optionsText = {numPages: 1, alignment: "auto"};
+      /*Replace multiple text fragments in a PDF-file with alignment control and save the "ResultReplaceTextEx.pdf" - Ask Web Worker*/
+      AsposePDFWebWorker.postMessage({ "operation": 'AsposePdfReplaceTextEx', "params": [event.target.result, e.target.files[0].name, findReplaceSpec, optionsText, "ResultReplaceTextEx.pdf"] }, [event.target.result]);
+    };
+    file_reader.readAsArrayBuffer(e.target.files[0]);
+  };
+
+  /*Make a link to download the result file*/
+  const DownloadFile = (filename, mime, content) => {
+      mime = mime || "application/octet-stream";
+      var link = document.createElement("a"); 
+      link.href = URL.createObjectURL(new Blob([content], {type: mime}));
+      link.download = filename;
+      link.innerHTML = "Click here to download the file " + filename;
+      document.body.appendChild(link); 
+      document.body.appendChild(document.createElement("br"));
+      return filename;
+    }
+```
+**Simple example**:
+```js
+  var ffileReplaceTextEx = function (e) {
+    const file_reader = new FileReader();
+    file_reader.onload = (event) => {
+      /*Replace multiple text fragments in a PDF-file with alignment control and save the "ResultReplaceTextEx.pdf"*/
+      const json = AsposePdfReplaceTextEx(event.target.result, e.target.files[0].name, [{findText: 'Aspose',replaceText: 'ASPOSE'}], {alignment: "left"}, "ResultReplaceTextEx.pdf");
+      if (json.errorCode == 0) document.getElementById('output').textContent = json.fileNameResult
+      else document.getElementById('output').textContent = json.errorText;
+      /*Make a link to download the result file*/
+      DownloadFile(json.fileNameResult, "application/pdf");
+    };
+    file_reader.readAsArrayBuffer(e.target.files[0]);
+  };
+```
