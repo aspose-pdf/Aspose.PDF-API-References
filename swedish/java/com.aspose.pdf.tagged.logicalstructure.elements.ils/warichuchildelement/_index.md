@@ -1,0 +1,17 @@
+---
+title: "WarichuChildElement"
+linktitle: "WarichuChildElement"
+second_title: "Aspose.PDF för Java API-referens"
+description: "Representerar en basklass för underordnade element till Warichu i logisk struktur."
+type: docs
+weight: 170
+url: /sv/java/com.aspose.pdf.tagged.logicalstructure.elements.ils/warichuchildelement/
+---
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.tagged.logicalstructure.elements.Element com.aspose.pdf.tagged.logicalstructure.elements.StructureElement com.aspose.pdf.tagged.logicalstructure.elements.ils.WarichuChildElement, com.aspose.pdf.tagged.logicalstructure.elements.Element, com.aspose.pdf.tagged.logicalstructure.elements.StructureElement com.aspose.pdf.tagged.logicalstructure.elements.ils.WarichuChildElement, com.aspose.pdf.tagged.logicalstructure.elements.StructureElement, com.aspose.pdf.tagged.logicalstructure.elements.ils.WarichuChildElement
+
+```
+public abstract class WarichuChildElement extends StructureElement
+```
+
+Representerar en basklass för underordnade element till Warichu i logisk struktur.
