@@ -1,14 +1,14 @@
 ---
-title: Position.YIndent
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Position. تحصل على إحداثي Y للكائن
+title: "Position.YIndent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Position. يحصل على إحداثي Y للكائن"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.text/position/yindent/
 ---
-## خاصية Position.YIndent
+## Position.YIndent property
 
-تحصل على إحداثي Y للكائن
+يحصل على إحداثي Y للكائن
 
 ```csharp
 public double YIndent { get; set; }
@@ -19,3 +19,5 @@ public double YIndent { get; set; }
 * class [Position](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

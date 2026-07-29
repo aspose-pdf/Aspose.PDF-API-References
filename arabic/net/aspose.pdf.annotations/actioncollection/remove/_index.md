@@ -1,26 +1,26 @@
 ---
-title: ActionCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ActionCollection. يزيل عنصر من المجموعة
+title: "ActionCollection.Remove"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ActionCollection. تُزيل العنصر من المجموعة"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.annotations/actioncollection/remove/
 ---
-## طريقة ActionCollection.Remove
+## ActionCollection.Remove method
 
-يزيل عنصر من المجموعة.
+يزيل العنصر من المجموعة.
 
 ```csharp
 public bool Remove(PdfAction item)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | item | PdfAction | العنصر المراد حذفه. |
 
 ### قيمة الإرجاع
 
-لم يتم تنفيذها.
+غير مُنفّذ.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public bool Remove(PdfAction item)
 * class [ActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

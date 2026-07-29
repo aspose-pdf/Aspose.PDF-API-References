@@ -1,14 +1,14 @@
 ---
-title: Color.ColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على مساحة اللون التي يمثلها اللون
+title: "Color.ColorSpace"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. يسترجع مساحة اللون التي يمثلها اللون"
 type: docs
 weight: 1500
 url: /ar/net/aspose.pdf/color/colorspace/
 ---
-## خاصية Color.ColorSpace
+## Color.ColorSpace property
 
-تحصل على مساحة اللون التي يمثلها اللون.
+يحصل على مساحة اللون التي يمثلها اللون.
 
 ```csharp
 public ColorSpace ColorSpace { get; }
@@ -20,3 +20,5 @@ public ColorSpace ColorSpace { get; }
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

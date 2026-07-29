@@ -1,14 +1,14 @@
 ---
-title: Matrix.F
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية المصفوفة. عضو F في مصفوفة التحويل
+title: "Matrix.F"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Matrix. العنصر F في مصفوفة التحويل"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf/matrix/f/
 ---
-## خاصية Matrix.F
+## Matrix.F property
 
-عضو F في مصفوفة التحويل.
+العنصر F في مصفوفة التحويل.
 
 ```csharp
 public double F { get; set; }
@@ -19,3 +19,5 @@ public double F { get; set; }
 * class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

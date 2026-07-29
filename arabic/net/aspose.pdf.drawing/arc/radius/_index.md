@@ -1,14 +1,14 @@
 ---
-title: Arc.Radius
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية القوس. تحصل أو تعين قيمة عائمة تشير إلى نصف قطر القوس
+title: "Arc.Radius"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Arc. يحصل أو يضبط قيمة عائمة تشير إلى نصف قطر القوس"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.drawing/arc/radius/
 ---
-## خاصية Arc.Radius
+## Arc.Radius property
 
-تحصل أو تعين قيمة عائمة تشير إلى نصف قطر القوس.
+يحصل أو يعيّن قيمة float تُشير إلى نصف قطر القوس.
 
 ```csharp
 public double Radius { get; set; }
@@ -19,3 +19,5 @@ public double Radius { get; set; }
 * class [Arc](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

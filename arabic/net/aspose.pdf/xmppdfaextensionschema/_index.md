@@ -1,61 +1,63 @@
 ---
-title: Class XmpPdfAExtensionSchema
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.XmpPdfAExtensionSchema. تصف مخطط امتداد XMP المقدم من PDF/A1
+title: "فئة XmpPdfAExtensionSchema"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.XmpPdfAExtensionSchema. تصف مخطط امتداد XMP الذي توفره PDF/A1"
 type: docs
-weight: 11470
+weight: 11660
 url: /ar/net/aspose.pdf/xmppdfaextensionschema/
 ---
 ## XmpPdfAExtensionSchema class
 
-تصف مخطط امتداد XMP المقدم من PDF/A-1.
+يصف مخطط امتداد XMP المقدم من PDF/A-1.
 
 ```csharp
 public class XmpPdfAExtensionSchema
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [XmpPdfAExtensionSchema](xmppdfaextensionschema/)(XmpPdfAExtensionSchemaDescription) | Initializes new object. |
+| [XmpPdfAExtensionSchema](xmppdfaextensionschema/)(XmpPdfAExtensionSchemaDescription) | يُهيئ كائنًا جديدًا. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [Description](../../aspose.pdf/xmppdfaextensionschema/description/) { get; } | يحصل على وصف المخطط. |
 | [Objects](../../aspose.pdf/xmppdfaextensionschema/objects/) { get; } | يحصل على قائمة الكائنات (الخصائص، أنواع القيم). |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [Add](../../aspose.pdf/xmppdfaextensionschema/add/)(XmpPdfAExtensionObject) | يضيف كائنًا جديدًا إلى المخطط. |
-| [Contains](../../aspose.pdf/xmppdfaextensionschema/contains/)(XmpPdfAExtensionObject) | يحدد ما إذا كان الكائن موجودًا في المخطط. |
-| [GetProperty](../../aspose.pdf/xmppdfaextensionschema/getproperty/)(string) | يعيد خاصية PDF/A حسب اسمها. |
-| [GetSchemaXml](../../aspose.pdf/xmppdfaextensionschema/getschemaxml/)(XmlDocument) | يعيد عنصر xml (علامة - li) التي تمثل المخطط في شجرة xml. |
-| [GetValuesXml](../../aspose.pdf/xmppdfaextensionschema/getvaluesxml/)(XmlDocument, XmlElement) | يحصل على قيم الخصائص كممثل لشجرة xml. |
+| [Contains](../../aspose.pdf/xmppdfaextensionschema/contains/)(XmpPdfAExtensionObject) | يحدد ما إذا كان obj موجودًا في المخطط. |
+| [GetProperty](../../aspose.pdf/xmppdfaextensionschema/getproperty/)(string) | يرجع خاصية PDF/A بحسب اسمها. |
+| [GetSchemaXml](../../aspose.pdf/xmppdfaextensionschema/getschemaxml/)(XmlDocument) | يرجع عنصر xml (الوسم - li) الذي يمثل المخطط في شجرة xml. |
+| [GetValuesXml](../../aspose.pdf/xmppdfaextensionschema/getvaluesxml/)(XmlDocument, XmlElement) | يحصل على قيم الخصائص كتمثيل شجرة xml. |
 | [Remove](../../aspose.pdf/xmppdfaextensionschema/remove/)(XmpPdfAExtensionObject) | يزيل الكائن من المخطط. |
 
-## Fields
+## الحقول
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| const [DefaultExtensionNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultextensionnamespaceprefix/) | بادئة مساحة الاسم الافتراضية للامتداد. |
-| const [DefaultExtensionNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultextensionnamespaceuri/) | URI مساحة الاسم الافتراضية للامتداد. |
-| const [DefaultFieldNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultfieldnamespaceprefix/) | بادئة مساحة الاسم الافتراضية للحقل. |
-| const [DefaultFieldNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultfieldnamespaceuri/) | URI مساحة الاسم الافتراضية للحقل. |
-| const [DefaultPropertyNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultpropertynamespaceprefix/) | بادئة مساحة الاسم الافتراضية للخاصية. |
-| const [DefaultPropertyNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultpropertynamespaceuri/) | URI مساحة الاسم الافتراضية للخاصية. |
-| const [DefaultSchemaNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultschemanamespaceprefix/) | بادئة مساحة الاسم الافتراضية للمخطط. |
-| const [DefaultSchemaNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultschemanamespaceuri/) | URI مساحة الاسم الافتراضية للمخطط. |
-| const [DefaultValueNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultvaluenamespaceuri/) | URI مساحة الاسم الافتراضية للقيمة. |
-| const [DefaultValueTypeNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultvaluetypenamespaceprefix/) | بادئة مساحة الاسم الافتراضية لنوع القيمة. |
-| const [RdfNamespaceURI](../../aspose.pdf/xmppdfaextensionschema/rdfnamespaceuri/) | URI مساحة الاسم الافتراضية لـ rdf. |
-| const [RdfPrefix](../../aspose.pdf/xmppdfaextensionschema/rdfprefix/) | بادئة مساحة الاسم الافتراضية لـ rdf. |
+| const [DefaultExtensionNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultextensionnamespaceprefix/) | بادئة مساحة الاسم الامتدادية الافتراضية. |
+| const [DefaultExtensionNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultextensionnamespaceuri/) | معرف مساحة الاسم للامتداد الافتراضي. |
+| const [DefaultFieldNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultfieldnamespaceprefix/) | بادئة مساحة الاسم للحقل الافتراضي. |
+| const [DefaultFieldNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultfieldnamespaceuri/) | معرف مساحة الاسم للامتداد الافتراضي. |
+| const [DefaultPropertyNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultpropertynamespaceprefix/) | بادئة مساحة الاسم للخاصية الافتراضية. |
+| const [DefaultPropertyNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultpropertynamespaceuri/) | معرف مساحة الاسم للخاصية الافتراضية. |
+| const [DefaultSchemaNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultschemanamespaceprefix/) | بادئة مساحة الاسم للمخطط الافتراضي. |
+| const [DefaultSchemaNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultschemanamespaceuri/) | معرف مساحة الاسم للمخطط الافتراضي. |
+| const [DefaultValueNamespaceUri](../../aspose.pdf/xmppdfaextensionschema/defaultvaluenamespaceuri/) | معرف مساحة الاسم للقيمة الافتراضية. |
+| const [DefaultValueTypeNamespacePrefix](../../aspose.pdf/xmppdfaextensionschema/defaultvaluetypenamespaceprefix/) | بادئة مساحة الاسم لنوع القيمة الافتراضية. |
+| const [RdfNamespaceURI](../../aspose.pdf/xmppdfaextensionschema/rdfnamespaceuri/) | معرف مساحة الاسم لـ rdf الافتراضي. |
+| const [RdfPrefix](../../aspose.pdf/xmppdfaextensionschema/rdfprefix/) | بادئة مساحة الاسم لـ rdf الافتراضية. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

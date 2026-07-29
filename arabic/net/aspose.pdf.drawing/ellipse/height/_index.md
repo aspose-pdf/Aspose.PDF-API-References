@@ -1,14 +1,14 @@
 ---
-title: Ellipse.Height
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Ellipse. تحصل أو تعين قيمة عائمة تشير إلى ارتفاع الشكل البيضاوي
+title: "Ellipse.Height"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية القطع الناقص. يحصل أو يضبط قيمة float تشير إلى ارتفاع القطع الناقص"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.drawing/ellipse/height/
 ---
-## خاصية Ellipse.Height
+## Ellipse.Height property
 
-تحصل أو تعين قيمة عائمة تشير إلى ارتفاع الشكل البيضاوي.
+يحصل أو يعيّن قيمة عائمة تشير إلى ارتفاع الإهليلج.
 
 ```csharp
 public double Height { get; set; }
@@ -19,3 +19,5 @@ public double Height { get; set; }
 * class [Ellipse](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

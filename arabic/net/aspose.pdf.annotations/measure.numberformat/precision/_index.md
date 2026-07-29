@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormat.Precision
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية NumberFormat. إذا كان FractionDisplayment هو ShowAsDecimal، فإن هذه القيمة هي دقة القيمة الكسرية. يجب أن تكون مضاعفًا لـ 10. القيمة الافتراضية هي 100
+title: "Measure.NumberFormat.Precision"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية NumberFormat. إذا كان FractionDisplayment هو ShowAsDecimal فإن هذه القيمة هي دقة القيمة الكسرية. يجب أن تكون مضاعفًا للعدد 10. الافتراضي هو 100"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.annotations/measure.numberformat/precision/
 ---
-## خاصية Measure.NumberFormat.Precision
+## Measure.NumberFormat.Precision property
 
-إذا كان FractionDisplayment هو ShowAsDecimal، فإن هذه القيمة هي دقة القيمة الكسرية؛ يجب أن تكون مضاعفًا لـ 10. القيمة الافتراضية هي 100.
+إذا كان FractionDisplayment هو ShowAsDecimal، فإن هذه القيمة هي دقة القيمة الكسرية؛ يجب أن تكون مضاعفًا للعدد 10. القيمة الافتراضية هي 100.
 
 ```csharp
 public int Precision { get; set; }
@@ -19,3 +19,5 @@ public int Precision { get; set; }
 * class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

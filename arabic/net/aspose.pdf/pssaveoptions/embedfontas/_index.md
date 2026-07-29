@@ -1,14 +1,14 @@
 ---
-title: PsSaveOptions.EmbedFontAs
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PsSaveOptions. تحصل/تحدد النوع الذي يجب تضمين الخطوط به في مستند PS الناتج
+title: "PsSaveOptions.EmbedFontAs"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PsSaveOptions. يحصل/يضبط النوع الذي يجب تضمين الخطوط فيه في مستند PS الناتج"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/pssaveoptions/embedfontas/
 ---
-## خاصية PsSaveOptions.EmbedFontAs
+## PsSaveOptions.EmbedFontAs property
 
-تحصل/تحدد النوع الذي يجب تضمين الخطوط به في مستند PS الناتج.
+يحصل/يضبط النوع الذي يجب تضمين الخطوط فيه في مستند PS الناتج.
 
 ```csharp
 public string EmbedFontAs { get; set; }
@@ -19,3 +19,5 @@ public string EmbedFontAs { get; set; }
 * class [PsSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

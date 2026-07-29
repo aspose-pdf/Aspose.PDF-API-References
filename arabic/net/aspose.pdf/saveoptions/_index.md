@@ -1,14 +1,14 @@
 ---
-title: Class SaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.SaveOptions. نوع SaveOptions يحمل مستوى من التجريد حول خيارات الحفظ الفردية
+title: "الفئة SaveOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.SaveOptions الفئة. نوع SaveOptions يحتفظ بمستوى التجريد على خيارات الحفظ الفردية"
 type: docs
-weight: 9870
+weight: 10020
 url: /ar/net/aspose.pdf/saveoptions/
 ---
-## فئة SaveOptions
+## SaveOptions class
 
-نوع SaveOptions يحمل مستوى من التجريد حول خيارات الحفظ الفردية
+نوع SaveOptions يحمل مستوى التجريد على خيارات الحفظ الفردية
 
 ```csharp
 public abstract class SaveOptions
@@ -18,12 +18,14 @@ public abstract class SaveOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | يحصل أو يحدد قيمة منطقية تشير إلى ما إذا كان سيتم تخزين رموز الخطوط أثناء إعداد صفحات aps. يحسن أداء تحويل PDF إلى تنسيقات أخرى ولكنه يزيد من استهلاك الذاكرة. |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | يحصل أو يحدد قيمة منطقية تشير إلى ما إذا كان سيتم إغلاق كائن الاستجابة بعد حفظ المستند في الاستجابة. |
-| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | تنسيق بيانات الحفظ. |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | رد نداء للتعامل مع أي تحذيرات تم إنشاؤها. يعيد WarningHandler عنصر تعداد ReturnAction الذي يحدد إما الاستمرار أو الإلغاء. الاستمرار هو الإجراء الافتراضي وتستمر عملية الحفظ، ومع ذلك يمكن للمستخدم أيضًا إرجاع الإلغاء وفي هذه الحالة يجب أن تتوقف عملية الحفظ. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | يحصل أو يعيّن قيمة منطقية تشير إلى ما إذا سيتم تخزين رموز الخط في الذاكرة المؤقتة أثناء إعداد صفحات aps. يحسن أداء تحويل PDF إلى صيغ أخرى لكنه يزيد من استهلاك الذاكرة. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | يحصل أو يعيّن قيمة منطقية تشير إلى ما إذا سيتم إغلاق كائن Response بعد حفظ المستند في الاستجابة. |
+| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | تنسيق حفظ البيانات. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | استدعاء رد نداء لمعالجة أي تحذيرات تم إنشاؤها. يُعيد WarningHandler عنصر تعداد ReturnAction يحدد إما Continue أو Abort. Continue هو الإجراء الافتراضي وتستمر عملية الحفظ، ومع ذلك قد يُعيد المستخدم Abort وفي هذه الحالة يجب إيقاف عملية الحفظ. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

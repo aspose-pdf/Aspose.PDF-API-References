@@ -1,14 +1,14 @@
 ---
-title: Document.LogicalStructure
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. تحصل على الهيكل المنطقي للوثيقة
+title: "Document.LogicalStructure"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. يحصل على البنية المنطقية للمستند"
 type: docs
-weight: 350
+weight: 370
 url: /ar/net/aspose.pdf/document/logicalstructure/
 ---
-## خاصية Document.LogicalStructure
+## Document.LogicalStructure property
 
-تحصل على الهيكل المنطقي للوثيقة.
+يحصل على البنية المنطقية للمستند.
 
 ```csharp
 public RootElement LogicalStructure { get; }
@@ -20,3 +20,5 @@ public RootElement LogicalStructure { get; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

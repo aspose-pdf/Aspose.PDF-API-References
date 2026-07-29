@@ -1,12 +1,12 @@
 ---
-title: Rows.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Rows. يحصل على عداد المجموعات
+title: "Rows.GetEnumerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Rows. الحصول على مُعدِّد المجموعة"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/rows/getenumerator/
 ---
-## طريقة Rows.GetEnumerator
+## Rows.GetEnumerator method
 
 يحصل على عداد المجموعة
 
@@ -16,7 +16,7 @@ public IEnumerator<Row> GetEnumerator()
 
 ### قيمة الإرجاع
 
-كائن العداد.
+Enumerator object.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public IEnumerator<Row> GetEnumerator()
 * class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

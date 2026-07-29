@@ -1,45 +1,47 @@
 ---
-title: Class ShowText
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.ShowText. فئة تمثل مشغل Tj لعرض النص
+title: "فئة ShowText"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Operators.ShowText. تمثّل الفئة المشغّل Tj لعرض النص."
 type: docs
-weight: 7880
+weight: 8020
 url: /ar/net/aspose.pdf.operators/showtext/
 ---
 ## ShowText class
 
-فئة تمثل مشغل Tj (عرض النص).
+الفئة التي تمثل عامل Tj (عرض النص).
 
 ```csharp
 public class ShowText : TextShowOperator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ShowText](showtext/#constructor)() | يقوم بتهيئة مشغل Tj. |
-| [ShowText](showtext/#constructor_2)(string) | يقوم بتهيئة مشغل Tj. |
-| [ShowText](showtext/#constructor_1)(int, string) | يقوم بتهيئة مشغل Tj. |
-| [ShowText](showtext/#constructor_3)(string, Font) | يقوم بتهيئة مشغل Tj. |
+| [ShowText](showtext/#constructor)() | يُهيئ المشغّل Tj. |
+| [ShowText](showtext/#constructor_2)(string) | يُهيئ المشغّل Tj. |
+| [ShowText](showtext/#constructor_1)(int, string) | يُهيئ المشغّل Tj. |
+| [ShowText](showtext/#constructor_3)(string, Font) | يُهيئ المشغّل Tj. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
-| override [Text](../../aspose.pdf.operators/showtext/text/) { get; set; } | نص المشغل. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
+| override [Text](../../aspose.pdf.operators/showtext/text/) { get; set; } | نص المشغّل. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/showtext/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf.operators/showtext/tostring/)() | ينتج كود نص المشغل. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/showtext/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf.operators/showtext/tostring/)() | ينتج رمز النص للمشغّل. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextShowOperator](../textshowoperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

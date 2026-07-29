@@ -1,14 +1,14 @@
 ---
-title: TocInfo.IsShowPageNumbers
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TocInfo. تحصل أو تعين ما إذا كان سيتم عرض أرقام الصفحات في جدول المحتويات
+title: "TocInfo.IsShowPageNumbers"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TocInfo. يحصل أو يضبط إظهار أرقام الصفحات في الفهرس"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/tocinfo/isshowpagenumbers/
 ---
-## خاصية TocInfo.IsShowPageNumbers
+## TocInfo.IsShowPageNumbers property
 
-تحصل أو تعين ما إذا كان سيتم عرض أرقام الصفحات في جدول المحتويات.
+يحصل أو يعيّن ما إذا كان عرض أرقام الصفحات في Toc.
 
 ```csharp
 public bool IsShowPageNumbers { get; set; }
@@ -19,3 +19,5 @@ public bool IsShowPageNumbers { get; set; }
 * class [TocInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

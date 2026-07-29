@@ -1,14 +1,14 @@
 ---
-title: WidgetAnnotation.Parent
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية WidgetAnnotation. تحصل على الوالد الخاص بالتعليق
+title: "WidgetAnnotation.Parent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية WidgetAnnotation. تحصل على أصل التعليق التوضيحي"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.annotations/widgetannotation/parent/
 ---
-## خاصية WidgetAnnotation.Parent
+## WidgetAnnotation.Parent property
 
-تحصل على الوالد الخاص بالتعليق.
+يحصل على الأصل للتعليق.
 
 ```csharp
 public Field Parent { get; }
@@ -20,3 +20,5 @@ public Field Parent { get; }
 * class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

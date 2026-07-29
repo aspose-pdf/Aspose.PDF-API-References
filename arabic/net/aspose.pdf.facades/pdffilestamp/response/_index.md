@@ -1,12 +1,12 @@
 ---
-title: PdfFileStamp.Response
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileStamp. تحصل أو تعين كائن Response حيث سيتم تخزين نتيجة العملية
+title: "PdfFileStamp.Response"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileStamp. تحصل أو تعين كائن Response حيث سيتم تخزين نتيجة العملية"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.facades/pdffilestamp/response/
 ---
-## خاصية PdfFileStamp.Response
+## PdfFileStamp.Response property
 
 تحصل أو تعين كائن Response حيث سيتم تخزين نتيجة العملية.
 
@@ -19,3 +19,5 @@ public HttpResponse Response { get; set; }
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

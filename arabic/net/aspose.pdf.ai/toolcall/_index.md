@@ -1,34 +1,36 @@
 ---
-title: Class ToolCall
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.ToolCall. تمثل استدعاء أداة ضمن رسالة
+title: "الفئة ToolCall"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.AI.ToolCall. تمثل استدعاء أداة داخل رسالة"
 type: docs
-weight: 1200
+weight: 1290
 url: /ar/net/aspose.pdf.ai/toolcall/
 ---
 ## ToolCall class
 
-تمثل استدعاء أداة ضمن رسالة.
+يمثل استدعاء أداة داخل رسالة.
 
 ```csharp
 public class ToolCall
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ToolCall](toolcall/)() | المُنشئ الافتراضي. |
+| [ToolCall](toolcall/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Function](../../aspose.pdf.ai/toolcall/function/) { get; set; } | يحصل أو يحدد الوظيفة التي تم استدعاؤها بواسطة النموذج. |
-| [Id](../../aspose.pdf.ai/toolcall/id/) { get; set; } | يحصل أو يحدد معرف استدعاء الأداة. |
-| [ToolType](../../aspose.pdf.ai/toolcall/tooltype/) { get; set; } | يحصل أو يحدد نوع الأداة. حاليًا، يتم دعم الوظيفة فقط. |
+| [Function](../../aspose.pdf.ai/toolcall/function/) { get; set; } | يحصل أو يعيّن الدالة التي استدعاها النموذج. |
+| [Id](../../aspose.pdf.ai/toolcall/id/) { get; set; } | يحصل أو يعيّن معرف استدعاء الأداة. |
+| [ToolType](../../aspose.pdf.ai/toolcall/tooltype/) { get; set; } | يحصل أو يعيّن نوع الأداة. حالياً، يتم دعم الدالة فقط. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

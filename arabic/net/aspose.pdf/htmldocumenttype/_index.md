@@ -1,12 +1,12 @@
 ---
-title: Enum HtmlDocumentType
-second_title: Aspose.PDF for .NET API Reference
-description: تعداد Aspose.Pdf.HtmlDocumentType. يمثل تعداد أنواع مستندات Html
+title: "تعداد HtmlDocumentType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.HtmlDocumentType. يمثل تعداد أنواع مستندات Html"
 type: docs
-weight: 5510
+weight: 5640
 url: /ar/net/aspose.pdf/htmldocumenttype/
 ---
-## تعداد HtmlDocumentType
+## HtmlDocumentType enumeration
 
 يمثل تعداد أنواع مستندات Html.
 
@@ -23,5 +23,7 @@ public enum HtmlDocumentType
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

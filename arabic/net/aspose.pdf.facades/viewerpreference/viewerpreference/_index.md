@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.ViewerPreference
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ViewerPreference. المُنشئ الافتراضي
+title: "ViewerPreference.ViewerPreference"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ViewerPreference. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.facades/viewerpreference/viewerpreference/
 ---
-## مُنشئ ViewerPreference
+## ViewerPreference constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public ViewerPreference()
@@ -19,3 +19,5 @@ public ViewerPreference()
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

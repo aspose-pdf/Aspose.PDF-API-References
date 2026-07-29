@@ -1,31 +1,31 @@
 ---
-title: PdfExtractor.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfExtractor. ربط ملف PDF المدخل
+title: "PdfExtractor.BindPdf"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfExtractor. ربط ملف PDF الإدخال"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.facades/pdfextractor/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-ربط ملف PDF المدخل.
+ربط ملف PDF الإدخال.
 
 ```csharp
 public override void BindPdf(string inputFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | inputFile | String | ملف PDF للربط |
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfExtractor ext = new PdfExtractor();
 ext.BindPdf("sample.pdf");
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -41,11 +41,11 @@ ext.BindPdf("sample.pdf");
 public override void BindPdf(Stream inputStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | inputStream | Stream | دفق يحتوي على بيانات مستند PDF |
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfExtractor ext = new PdfExtractor();
@@ -53,8 +53,10 @@ Stream stream = new FileStream("sample.pdf", FileMode.Open, FileAccess.Read);
 ext.BindPdf(stream);
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextSegmentCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextSegmentCollection. تحصل على قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط
+title: "TextSegmentCollection.IsReadOnly"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextSegmentCollection. يحصل على قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.text/textsegmentcollection/isreadonly/
 ---
-## خاصية TextSegmentCollection.IsReadOnly
+## TextSegmentCollection.IsReadOnly property
 
-تحصل على قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط
+يحصل على قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط
 
 ```csharp
 public bool IsReadOnly { get; }
@@ -19,3 +19,5 @@ public bool IsReadOnly { get; }
 * class [TextSegmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

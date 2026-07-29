@@ -1,14 +1,14 @@
 ---
-title: Resolution.X
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الدقة. تحصل أو تعين دقة الصورة الأفقية
+title: "Resolution.X"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Resolution. تحصل أو تعيين دقة الصورة الأفقية"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.devices/resolution/x/
 ---
-## خاصية Resolution.X
+## Resolution.X property
 
-تحصل أو تعين دقة الصورة الأفقية.
+يحصل أو يضبط دقة الصورة الأفقية.
 
 ```csharp
 public int X { get; set; }
@@ -19,3 +19,5 @@ public int X { get; set; }
 * class [Resolution](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

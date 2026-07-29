@@ -1,34 +1,36 @@
 ---
-title: Class CgmImportOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.CgmImportOptions. خيار الاستيراد من تنسيق ملف الرسومات الحاسوبية CGM
+title: "الفئة CgmImportOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.CgmImportOptions. خيار الاستيراد للاستيراد من تنسيق Computer Graphics MetafileCGM"
 type: docs
-weight: 3000
+weight: 3110
 url: /ar/net/aspose.pdf/cgmimportoptions/
 ---
 ## CgmImportOptions class
 
-خيار الاستيراد من تنسيق ملف الرسومات الحاسوبية (CGM).
+خيار استيراد للاستيراد من تنسيق Computer Graphics Metafile (CGM).
 
 ```csharp
 public class CgmImportOptions : ImportOptions
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [CgmImportOptions](cgmimportoptions/)() | المُنشئ الافتراضي. |
+| [CgmImportOptions](cgmimportoptions/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [ImportFormat](../../aspose.pdf/importoptions/importformat/) { get; } | تنسيق الاستيراد. |
-| [PageSize](../../aspose.pdf/cgmimportoptions/pagesize/) { get; set; } | يحصل أو يحدد حجم الصفحة الناتجة للاستيراد. حجم الصفحة الافتراضي - A4 300dpi 2480 X 3508. |
+| [PageSize](../../aspose.pdf/cgmimportoptions/pagesize/) { get; set; } | يحصل أو يعيّن حجم صفحة الإخراج للاستيراد. حجم الصفحة الافتراضي - A4 300dpi 2480 × 3508. |
 
-### See Also
+### انظر أيضًا
 
 * class [ImportOptions](../importoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

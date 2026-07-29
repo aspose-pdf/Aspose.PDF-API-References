@@ -1,14 +1,14 @@
 ---
-title: BitmapInfo.Format
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BitmapInfo. تحصل على تنسيق بكسل الصورة
+title: "BitmapInfo.Format"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BitmapInfo. تسترجع تنسيق البكسل للصورة النقطية"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/bitmapinfo/format/
 ---
-## خاصية BitmapInfo.Format
+## BitmapInfo.Format property
 
-تحصل على تنسيق بكسل الصورة.
+يحصل على تنسيق البكسل للبت ماب.
 
 ```csharp
 public PixelFormat Format { get; }
@@ -20,3 +20,5 @@ public PixelFormat Format { get; }
 * class [BitmapInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CrashReportOptions.ApplicationTitle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CrashReportOptions. اسم المكتبة التي حدثت فيها الاستثناء
+title: "CrashReportOptions.ApplicationTitle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CrashReportOptions. اسم المكتبة حيث حدث الاستثناء"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/crashreportoptions/applicationtitle/
 ---
-## خاصية CrashReportOptions.ApplicationTitle
+## CrashReportOptions.ApplicationTitle property
 
-اسم المكتبة التي حدثت فيها الاستثناء.
+اسم المكتبة حيث حدث الاستثناء.
 
 ```csharp
 public string ApplicationTitle { get; }
@@ -19,3 +19,5 @@ public string ApplicationTitle { get; }
 * class [CrashReportOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

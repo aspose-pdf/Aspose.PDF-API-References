@@ -1,24 +1,24 @@
 ---
-title: PdfConverter.SaveAsTIFF
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfConverter. تقوم بتحويل كل صفحات مستند PDF إلى صور وتخزين الصور في ملف TIFF واحد
+title: "PdfConverter.SaveAsTIFF"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfConverter. تحول كل صفحات مستند pdf إلى صور وتحفظ الصور في ملف TIFF واحد"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.facades/pdfconverter/saveastiff/
 ---
 ## SaveAsTIFF(string) {#saveastiff_10}
 
-تقوم بتحويل كل صفحات مستند PDF إلى صور وتخزين الصور في ملف TIFF واحد.
+يحوّل كل صفحة من مستند pdf إلى صور ويحفظ الصور إلى ملف TIFF واحد.
 
 ```csharp
 public void SaveAsTIFF(string outputFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFile | String | الملف الذي سيتم حفظ صورة TIFF فيه. |
+| outputFile | String | الملف لحفظ صورة TIFF. |
 
-## Examples
+## أمثلة
 
 ```csharp
 [C#]
@@ -34,7 +34,7 @@ converter.DoConvert()
 converter.SaveAsTIFF(@"D:\Test\test.tiff")
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -44,18 +44,18 @@ converter.SaveAsTIFF(@"D:\Test\test.tiff")
 
 ## SaveAsTIFF(string, CompressionType) {#saveastiff_11}
 
-تقوم بتحويل كل صفحات مستند PDF إلى صور وتخزين الصور في ملف TIFF واحد.
+يحوّل كل صفحة من مستند pdf إلى صور ويحفظ الصور إلى ملف TIFF واحد.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, CompressionType compressionType)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | outputFile | String | ملف الإخراج. |
 | compressionType | CompressionType | نوع الضغط. |
 
-## Examples
+## أمثلة
 
 ```csharp
 [C#]
@@ -70,7 +70,7 @@ converter.DoConvert()
 converter.SaveAsTIFF(@"D:\Test\test.tiff")
 ```
 
-### See Also
+### انظر أيضًا
 
 * enum [CompressionType](../../../aspose.pdf.devices/compressiontype/)
 * class [PdfConverter](../)
@@ -81,19 +81,19 @@ converter.SaveAsTIFF(@"D:\Test\test.tiff")
 
 ## SaveAsTIFF(string, int, int) {#saveastiff_16}
 
-تقوم بتحويل كل صفحات مستند PDF إلى صور بأبعاد، وتخزين الصور في ملف TIFF واحد.
+يحوّل كل صفحة من مستند pdf إلى صور بالأبعاد، ويحفظ الصور إلى ملف TIFF واحد.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | outputFile | String | اسم الملف لحفظ صورة TIFF |
-| imageWidth | Int32 | عرض الصورة، الوحدة هي بكسل. |
-| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي بكسل. |
+| imageWidth | Int32 | عرض الصورة، الوحدة هي pixel. |
+| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي pixel. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -103,18 +103,18 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight)
 
 ## SaveAsTIFF(string, PageSize) {#saveastiff_14}
 
-تقوم بتحويل كل صفحات مستند PDF إلى صور بحجم الصفحة وتخزين الصور في ملف TIFF واحد.
+يحوّل كل صفحة من مستند pdf إلى صور مع حجم الصفحة ويحفظ الصور إلى ملف TIFF واحد.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, PageSize pageSize)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | outputFile | String | اسم الملف لحفظ صورة TIFF |
 | pageSize | PageSize | حجم الصفحة للصورة. |
 
-### See Also
+### انظر أيضًا
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfConverter](../)
@@ -125,19 +125,19 @@ public void SaveAsTIFF(string outputFile, PageSize pageSize)
 
 ## SaveAsTIFF(string, PageSize, TiffSettings) {#saveastiff_15}
 
-تقوم بتحويل كل صفحات مستند PDF إلى صور بحجم الصفحة وتخزين الصور في ملف TIFF واحد.
+يحوّل كل صفحة من مستند pdf إلى صور مع حجم الصفحة ويحفظ الصور إلى ملف TIFF واحد.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, PageSize pageSize, TiffSettings settings)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | outputFile | String | اسم الملف لحفظ صورة TIFF |
 | pageSize | PageSize | حجم الصفحة للصورة. |
-| settings | TiffSettings | كائن الإعدادات الذي يحدد معلمات TIFF. |
+| الإعدادات | TiffSettings | كائن الإعدادات الذي يحدد معلمات TIFF. |
 
-### See Also
+### انظر أيضًا
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
@@ -149,21 +149,21 @@ public void SaveAsTIFF(string outputFile, PageSize pageSize, TiffSettings settin
 
 ## SaveAsTIFF(string, int, int, CompressionType) {#saveastiff_17}
 
-تقوم بتحويل كل صفحات مستند PDF إلى صور بأبعاد، وتخزين الصور في ملف TIFF واحد.
+يحوّل كل صفحة من مستند pdf إلى صور بالأبعاد، ويحفظ الصور إلى ملف TIFF واحد.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, 
     CompressionType compressionType)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | outputFile | String | اسم الملف لحفظ صورة TIFF |
-| imageWidth | Int32 | عرض الصورة، الوحدة هي بكسل. |
-| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي بكسل. |
+| imageWidth | Int32 | عرض الصورة، الوحدة هي pixel. |
+| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي pixel. |
 | compressionType | CompressionType | نوع الضغط. |
 
-### See Also
+### انظر أيضًا
 
 * enum [CompressionType](../../../aspose.pdf.devices/compressiontype/)
 * class [PdfConverter](../)
@@ -174,20 +174,20 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight,
 
 ## SaveAsTIFF(string, int, int, TiffSettings) {#saveastiff_18}
 
-تقوم بتحويل كل صفحات مستند PDF إلى صور بأبعاد، وتخزين الصور في ملف TIFF واحد.
+يحوّل كل صفحة من مستند pdf إلى صور بالأبعاد، ويحفظ الصور إلى ملف TIFF واحد.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffSettings settings)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | outputFile | String | اسم الملف لحفظ صورة TIFF |
-| imageWidth | Int32 | عرض الصورة، الوحدة هي بكسل. |
-| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي بكسل. |
-| settings | TiffSettings | كائن الإعدادات الذي يحدد معلمات TIFF. |
+| imageWidth | Int32 | عرض الصورة، الوحدة هي pixel. |
+| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي pixel. |
+| الإعدادات | TiffSettings | كائن الإعدادات الذي يحدد معلمات TIFF. |
 
-### See Also
+### انظر أيضًا
 
 * class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * class [PdfConverter](../)
@@ -198,22 +198,22 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffS
 
 ## SaveAsTIFF(string, int, int, TiffSettings, IIndexBitmapConverter) {#saveastiff_19}
 
-تقوم بتحويل كل صفحات مستند PDF إلى صور بأبعاد، وتخزين الصور في ملف TIFF واحد.
+يحوّل كل صفحة من مستند pdf إلى صور بالأبعاد، ويحفظ الصور إلى ملف TIFF واحد.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffSettings settings, 
     IIndexBitmapConverter converter)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | outputFile | String | اسم الملف لحفظ صورة TIFF |
-| imageWidth | Int32 | عرض الصورة، الوحدة هي بكسل. |
-| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي بكسل. |
-| settings | TiffSettings | كائن الإعدادات الذي يحدد معلمات TIFF. |
-| converter | IIndexBitmapConverter | محول خارجي |
+| imageWidth | Int32 | عرض الصورة، الوحدة هي pixel. |
+| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي pixel. |
+| الإعدادات | TiffSettings | كائن الإعدادات الذي يحدد معلمات TIFF. |
+| محول | IIndexBitmapConverter | محول خارجي |
 
-### See Also
+### انظر أيضًا
 
 * class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
@@ -225,17 +225,17 @@ public void SaveAsTIFF(string outputFile, int imageWidth, int imageHeight, TiffS
 
 ## SaveAsTIFF(Stream) {#saveastiff}
 
-تقوم بتحويل كل صفحات مستند PDF إلى صور وتخزين الصور في تيار TIFF واحد.
+يحوّل كل صفحة من مستند pdf إلى صور ويحفظ الصور إلى تدفق TIFF واحد.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | التيار لحفظ صورة TIFF. |
+| outputStream | Stream | التدفق لحفظ صورة TIFF. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -245,18 +245,18 @@ public void SaveAsTIFF(Stream outputStream)
 
 ## SaveAsTIFF(Stream, CompressionType) {#saveastiff_1}
 
-تقوم بتحويل كل صفحات مستند PDF إلى صور وتخزين الصور في ملف TIFF واحد.
+يحوّل كل صفحة من مستند pdf إلى صور ويحفظ الصور إلى ملف TIFF واحد.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, CompressionType compressionType)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | تيار الإخراج. |
+| outputStream | Stream | تدفق الإخراج. |
 | compressionType | CompressionType | نوع الضغط. |
 
-### See Also
+### انظر أيضًا
 
 * enum [CompressionType](../../../aspose.pdf.devices/compressiontype/)
 * class [PdfConverter](../)
@@ -267,18 +267,18 @@ public void SaveAsTIFF(Stream outputStream, CompressionType compressionType)
 
 ## SaveAsTIFF(Stream, PageSize) {#saveastiff_4}
 
-تقوم بتحويل كل صفحات مستند PDF إلى صور بحجم الصفحة وتخزين الصور في تيار TIFF واحد.
+يحوّل كل صفحة من مستند pdf إلى صور مع حجم الصفحة ويحفظ الصور إلى تدفق TIFF واحد.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, PageSize pageSize)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | التيار لحفظ صورة TIFF. |
+| outputStream | Stream | التدفق لحفظ صورة TIFF. |
 | pageSize | PageSize | حجم الصفحة للصورة. |
 
-### See Also
+### انظر أيضًا
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [PdfConverter](../)
@@ -289,19 +289,19 @@ public void SaveAsTIFF(Stream outputStream, PageSize pageSize)
 
 ## SaveAsTIFF(Stream, PageSize, TiffSettings) {#saveastiff_5}
 
-تقوم بتحويل كل صفحات مستند PDF إلى صور بحجم الصفحة وتخزين الصور في تيار TIFF واحد.
+يحوّل كل صفحة من مستند pdf إلى صور مع حجم الصفحة ويحفظ الصور إلى تدفق TIFF واحد.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, PageSize pageSize, TiffSettings settings)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | التيار لحفظ صورة TIFF. |
+| outputStream | Stream | التدفق لحفظ صورة TIFF. |
 | pageSize | PageSize | حجم الصفحة للصورة. |
-| settings | TiffSettings | كائن الإعدادات الذي يحدد معلمات TIFF. |
+| الإعدادات | TiffSettings | كائن الإعدادات الذي يحدد معلمات TIFF. |
 
-### See Also
+### انظر أيضًا
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
@@ -313,19 +313,19 @@ public void SaveAsTIFF(Stream outputStream, PageSize pageSize, TiffSettings sett
 
 ## SaveAsTIFF(Stream, int, int) {#saveastiff_6}
 
-تقوم بتحويل كل صفحات مستند PDF إلى صور بأبعاد، وتخزين الصور في تيار TIFF واحد.
+يحوّل كل صفحة من مستند pdf إلى صور بالأبعاد، ويحفظ الصور إلى تدفق TIFF واحد.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | التيار لحفظ صورة TIFF. |
-| imageWidth | Int32 | عرض الصورة، الوحدة هي بكسل. |
-| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي بكسل. |
+| outputStream | Stream | التدفق لحفظ صورة TIFF. |
+| imageWidth | Int32 | عرض الصورة، الوحدة هي pixel. |
+| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي pixel. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -335,21 +335,21 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight)
 
 ## SaveAsTIFF(Stream, int, int, CompressionType) {#saveastiff_7}
 
-تقوم بتحويل كل صفحات مستند PDF إلى صور بأبعاد، وتخزين الصور في تيار TIFF واحد.
+يحوّل كل صفحة من مستند pdf إلى صور بالأبعاد، ويحفظ الصور إلى تدفق TIFF واحد.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, 
     CompressionType compressionType)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | التيار لحفظ صورة TIFF. |
-| imageWidth | Int32 | عرض الصورة، الوحدة هي بكسل. |
-| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي بكسل. |
+| outputStream | Stream | التدفق لحفظ صورة TIFF. |
+| imageWidth | Int32 | عرض الصورة، الوحدة هي pixel. |
+| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي pixel. |
 | compressionType | CompressionType | نوع الضغط. |
 
-### See Also
+### انظر أيضًا
 
 * enum [CompressionType](../../../aspose.pdf.devices/compressiontype/)
 * class [PdfConverter](../)
@@ -360,20 +360,20 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight,
 
 ## SaveAsTIFF(Stream, int, int, TiffSettings) {#saveastiff_8}
 
-تقوم بتحويل كل صفحات مستند PDF إلى صور بأبعاد، وتخزين الصور في تيار TIFF واحد.
+يحوّل كل صفحة من مستند pdf إلى صور بالأبعاد، ويحفظ الصور إلى تدفق TIFF واحد.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, TiffSettings settings)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | التيار لحفظ صورة TIFF. |
-| imageWidth | Int32 | عرض الصورة، الوحدة هي بكسل. |
-| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي بكسل. |
-| settings | TiffSettings | كائن الإعدادات الذي يحدد معلمات TIFF. |
+| outputStream | Stream | التدفق لحفظ صورة TIFF. |
+| imageWidth | Int32 | عرض الصورة، الوحدة هي pixel. |
+| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي pixel. |
+| الإعدادات | TiffSettings | كائن الإعدادات الذي يحدد معلمات TIFF. |
 
-### See Also
+### انظر أيضًا
 
 * class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * class [PdfConverter](../)
@@ -384,22 +384,22 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, Tif
 
 ## SaveAsTIFF(Stream, int, int, TiffSettings, IIndexBitmapConverter) {#saveastiff_9}
 
-تقوم بتحويل كل صفحات مستند PDF إلى صور بأبعاد، وتخزين الصور في تيار TIFF واحد.
+يحوّل كل صفحة من مستند pdf إلى صور بالأبعاد، ويحفظ الصور إلى تدفق TIFF واحد.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, TiffSettings settings, 
     IIndexBitmapConverter converter)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | التيار لحفظ صورة TIFF. |
-| imageWidth | Int32 | عرض الصورة، الوحدة هي بكسل. |
-| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي بكسل. |
-| settings | TiffSettings | كائن الإعدادات الذي يحدد معلمات TIFF. |
-| converter | IIndexBitmapConverter | محول خارجي |
+| outputStream | Stream | التدفق لحفظ صورة TIFF. |
+| imageWidth | Int32 | عرض الصورة، الوحدة هي pixel. |
+| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي pixel. |
+| الإعدادات | TiffSettings | كائن الإعدادات الذي يحدد معلمات TIFF. |
+| محول | IIndexBitmapConverter | محول خارجي |
 
-### See Also
+### انظر أيضًا
 
 * class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
@@ -411,18 +411,18 @@ public void SaveAsTIFF(Stream outputStream, int imageWidth, int imageHeight, Tif
 
 ## SaveAsTIFF(string, TiffSettings) {#saveastiff_12}
 
-تقوم بتحويل كل صفحات مستند PDF إلى صور وتخزين الصور في ملف TIFF واحد.
+يحوّل كل صفحة من مستند pdf إلى صور ويحفظ الصور إلى ملف TIFF واحد.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, TiffSettings settings)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | outputFile | String | اسم الملف لحفظ صورة TIFF |
-| settings | TiffSettings | كائن الإعدادات الذي يحدد معلمات TIFF. |
+| الإعدادات | TiffSettings | كائن الإعدادات الذي يحدد معلمات TIFF. |
 
-### See Also
+### انظر أيضًا
 
 * class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * class [PdfConverter](../)
@@ -433,19 +433,19 @@ public void SaveAsTIFF(string outputFile, TiffSettings settings)
 
 ## SaveAsTIFF(string, TiffSettings, IIndexBitmapConverter) {#saveastiff_13}
 
-تقوم بتحويل كل صفحات مستند PDF إلى صور وتخزين الصور في ملف TIFF واحد.
+يحوّل كل صفحة من مستند pdf إلى صور ويحفظ الصور إلى ملف TIFF واحد.
 
 ```csharp
 public void SaveAsTIFF(string outputFile, TiffSettings settings, IIndexBitmapConverter converter)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | outputFile | String | اسم الملف لحفظ صورة TIFF |
-| settings | TiffSettings | كائن الإعدادات الذي يحدد معلمات TIFF. |
-| converter | IIndexBitmapConverter | محول خارجي |
+| الإعدادات | TiffSettings | كائن الإعدادات الذي يحدد معلمات TIFF. |
+| محول | IIndexBitmapConverter | محول خارجي |
 
-### See Also
+### انظر أيضًا
 
 * class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
@@ -457,18 +457,18 @@ public void SaveAsTIFF(string outputFile, TiffSettings settings, IIndexBitmapCon
 
 ## SaveAsTIFF(Stream, TiffSettings) {#saveastiff_2}
 
-تقوم بتحويل كل صفحات مستند PDF إلى صور وتخزين الصور في تيار TIFF واحد.
+يحوّل كل صفحة من مستند pdf إلى صور ويحفظ الصور إلى تدفق TIFF واحد.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, TiffSettings settings)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | التيار لحفظ صورة TIFF. |
-| settings | TiffSettings | كائن الإعدادات الذي يحدد معلمات TIFF. |
+| outputStream | Stream | التدفق لحفظ صورة TIFF. |
+| الإعدادات | TiffSettings | كائن الإعدادات الذي يحدد معلمات TIFF. |
 
-### See Also
+### انظر أيضًا
 
 * class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * class [PdfConverter](../)
@@ -479,22 +479,24 @@ public void SaveAsTIFF(Stream outputStream, TiffSettings settings)
 
 ## SaveAsTIFF(Stream, TiffSettings, IIndexBitmapConverter) {#saveastiff_3}
 
-تقوم بتحويل كل صفحات مستند PDF إلى صور وتخزين الصور في تيار TIFF واحد.
+يحوّل كل صفحة من مستند pdf إلى صور ويحفظ الصور إلى تدفق TIFF واحد.
 
 ```csharp
 public void SaveAsTIFF(Stream outputStream, TiffSettings settings, IIndexBitmapConverter converter)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | التيار لحفظ صورة TIFF. |
-| settings | TiffSettings | كائن الإعدادات الذي يحدد معلمات TIFF. |
-| converter | IIndexBitmapConverter | محول خارجي |
+| outputStream | Stream | التدفق لحفظ صورة TIFF. |
+| الإعدادات | TiffSettings | كائن الإعدادات الذي يحدد معلمات TIFF. |
+| محول | IIndexBitmapConverter | محول خارجي |
 
-### See Also
+### انظر أيضًا
 
 * class [TiffSettings](../../../aspose.pdf.devices/tiffsettings/)
 * interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

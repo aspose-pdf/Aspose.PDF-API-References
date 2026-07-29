@@ -1,14 +1,14 @@
 ---
-title: AttributeName.RubyPosition_Before
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. خاصية RubyPosition قبل. يجب محاذاة محتوى RT على طول الحافة الأمامية للعنصر
+title: "AttributeName.RubyPosition_Before"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. السمة RubyPosition Before  يجب أن يتم محاذاة محتوى RT على طول الحافة قبل للعنصر"
 type: docs
 weight: 490
 url: /ar/net/aspose.pdf.logicalstructure/attributename/rubyposition_before/
 ---
-## حقل AttributeName.RubyPosition_Before
+## AttributeName.RubyPosition_Before field
 
-خاصية RubyPosition: قبل - يجب محاذاة محتوى RT على طول الحافة الأمامية للعنصر.
+السمة RubyPosition: Before - يجب محاذاة محتوى RT على الحافة السابقة للعنصر.
 
 ```csharp
 public static readonly AttributeName RubyPosition_Before;
@@ -19,3 +19,5 @@ public static readonly AttributeName RubyPosition_Before;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

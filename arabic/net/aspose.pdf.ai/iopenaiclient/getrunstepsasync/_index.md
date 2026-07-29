@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetRunStepsAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IOpenAIClient. تسترجع قائمة بالخطوات لتشغيل محدد ضمن سلسلة بشكل غير متزامن
+title: "IOpenAIClient.GetRunStepsAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IOpenAIClient. تسترجع قائمة بالخطوات لتشغيل محدد داخل خيط بشكل غير متزامن"
 type: docs
 weight: 260
 url: /ar/net/aspose.pdf.ai/iopenaiclient/getrunstepsasync/
 ---
 ## IOpenAIClient.GetRunStepsAsync method
 
-تسترجع قائمة بالخطوات لتشغيل محدد ضمن سلسلة بشكل غير متزامن.
+يسترجع قائمة بالخطوات لتشغيل محدد داخل خيط بشكل غير متزامن.
 
 ```csharp
 public Task<RunStepListResponse> GetRunStepsAsync(string threadId, string runId, 
@@ -16,28 +16,30 @@ public Task<RunStepListResponse> GetRunStepsAsync(string threadId, string runId,
     CancellationToken? cancellationToken = default)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| threadId | String | معرف السلسلة التي تحتوي على التشغيل. |
-| runId | String | معرف التشغيل لاسترجاع الخطوات منه. |
+| threadId | String | معرّف الخيط الذي يحتوي على التشغيل. |
+| runId | String | معرّف التشغيل لاسترجاع الخطوات منه. |
 | queryParameters | RunStepListQueryParameters | معلمات استعلام اختيارية لتصفية قائمة خطوات التشغيل. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
-### Return Value
+### قيمة الإرجاع
 
 مهمة تمثل العملية غير المتزامنة. تحتوي نتيجة المهمة على قائمة خطوات التشغيل.
 
-### Exceptions
+### الاستثناءات
 
-| exception | condition |
+| استثناء | شرط |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | يتم طرحها عندما يكون معرف السلسلة فارغًا أو null. |
-| [AIClientException](../../aiclientexception/) | يتم طرحها عندما يكون معرف التشغيل فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرّف الخيط فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يتم رمي الاستثناء عندما يكون معرّف التشغيل null أو فارغ. |
 
-### See Also
+### انظر أيضًا
 
 * class [RunStepListResponse](../../runsteplistresponse/)
 * class [RunStepListQueryParameters](../../runsteplistqueryparameters/)
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

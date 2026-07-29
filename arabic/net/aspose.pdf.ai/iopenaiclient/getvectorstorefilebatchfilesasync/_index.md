@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetVectorStoreFileBatchFilesAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IOpenAIClient. تسترجع قائمة بالملفات ضمن دفعة ملفات مخزن المتجهات المحدد بشكل غير متزامن
+title: "IOpenAIClient.GetVectorStoreFileBatchFilesAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IOpenAIClient. تسترجع قائمة بالملفات داخل دفعة ملفات مخزن المتجهات المحددة بشكل غير متزامن"
 type: docs
 weight: 330
 url: /ar/net/aspose.pdf.ai/iopenaiclient/getvectorstorefilebatchfilesasync/
 ---
 ## IOpenAIClient.GetVectorStoreFileBatchFilesAsync method
 
-تسترجع قائمة بالملفات ضمن دفعة ملفات مخزن المتجهات المحدد بشكل غير متزامن.
+يسترجع قائمة بالملفات داخل دفعة ملفات مخزن المتجه المحددة بشكل غير متزامن.
 
 ```csharp
 public Task<VectorStoreFileListResponse> GetVectorStoreFileBatchFilesAsync(string vectorStoreId, 
@@ -16,28 +16,30 @@ public Task<VectorStoreFileListResponse> GetVectorStoreFileBatchFilesAsync(strin
     CancellationToken? cancellationToken = default)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| vectorStoreId | String | معرف مخزن المتجهات الذي يحتوي على دفعة الملفات. |
-| fileBatchId | String | معرف دفعة الملفات لاسترجاع الملفات منها. |
+| vectorStoreId | String | معرّف مخزن المتجه الذي يحتوي على دفعة الملفات. |
+| fileBatchId | String | معرّف مجموعة الملفات لاسترجاع الملفات منها. |
 | queryParameters | VectorStoreFileBatchFileListQueryParameters | معلمات استعلام اختيارية لتصفية قائمة الملفات. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
-### Return Value
+### قيمة الإرجاع
 
-مهمة تمثل العملية غير المتزامنة. تحتوي نتيجة المهمة على قائمة بالملفات ضمن دفعة الملفات.
+مهمة تمثل العملية غير المتزامنة. يحتوي نتيجة المهمة على قائمة بالملفات داخل مجموعة الملفات.
 
-### Exceptions
+### الاستثناءات
 
-| exception | condition |
+| استثناء | شرط |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | يتم طرحها عندما يكون معرف مخزن المتجهات فارغًا أو غير موجود. |
-| [AIClientException](../../aiclientexception/) | يتم طرحها عندما يكون معرف دفعة ملفات مخزن المتجهات فارغًا أو غير موجود. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرّف مخزن المتجهات فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يتم إلقاؤها عندما يكون معرّف دفعة ملفات مخزن المتجه فارغًا أو null. |
 
-### See Also
+### انظر أيضًا
 
 * class [VectorStoreFileListResponse](../../vectorstorefilelistresponse/)
 * class [VectorStoreFileBatchFileListQueryParameters](../../vectorstorefilebatchfilelistqueryparameters/)
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

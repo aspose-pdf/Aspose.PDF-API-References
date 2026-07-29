@@ -1,14 +1,14 @@
 ---
-title: PositionSettings.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PositionSettings. تحصل أو تعين محاذاة عمودية للفقرة
+title: "PositionSettings.VerticalAlignment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PositionSettings. يحصل أو يضبط محاذاة رأسية للفقرة"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.tagged/positionsettings/verticalalignment/
 ---
-## خاصية PositionSettings.VerticalAlignment
+## PositionSettings.VerticalAlignment property
 
-تحصل أو تعين محاذاة عمودية للفقرة.
+يحصل أو يضبط محاذاة رأسية للفقرة.
 
 ```csharp
 public VerticalAlignment VerticalAlignment { get; set; }
@@ -20,3 +20,5 @@ public VerticalAlignment VerticalAlignment { get; set; }
 * class [PositionSettings](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

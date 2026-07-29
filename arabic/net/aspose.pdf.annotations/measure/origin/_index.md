@@ -1,14 +1,14 @@
 ---
-title: Measure.Origin
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية القياس. نقطة يجب أن تحدد أصل نظام إحداثيات القياس في إحداثيات مساحة المستخدم الافتراضية
+title: "Measure.Origin"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Measure. النقطة التي تحدد أصل نظام إحداثيات القياس في إحداثيات مساحة المستخدم الافتراضية"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.annotations/measure/origin/
 ---
-## خاصية Measure.Origin
+## Measure.Origin property
 
-نقطة يجب أن تحدد أصل نظام إحداثيات القياس في إحداثيات مساحة المستخدم الافتراضية.
+نقطة تحدد أصل نظام إحداثيات القياس في إحداثيات مساحة المستخدم الافتراضية.
 
 ```csharp
 public Point Origin { get; set; }
@@ -20,3 +20,5 @@ public Point Origin { get; set; }
 * class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

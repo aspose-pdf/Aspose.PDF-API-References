@@ -1,40 +1,42 @@
 ---
-title: Class TextPdfComparer
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.TextPdfComparer class. تمثل فئة لمقارنة صفحتين PDF أو مستندات PDF
+title: "الفئة TextPdfComparer"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Comparison.TextPdfComparer الفئة. تمثل فئة لمقارنة صفحتين من PDF أو مستندات PDF"
 type: docs
-weight: 3320
+weight: 3430
 url: /ar/net/aspose.pdf.comparison/textpdfcomparer/
 ---
 ## TextPdfComparer class
 
-تمثل فئة لمقارنة صفحتين PDF أو مستندات PDF.
+يمثّل فئة لمقارنة PDF pages أو PDF documents.
 
 ```csharp
 public class TextPdfComparer
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [TextPdfComparer](textpdfcomparer/)() | المُنشئ الافتراضي. |
+| [TextPdfComparer](textpdfcomparer/)() | البناء الافتراضي. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| static [AssemblyDestinationPageText](../../aspose.pdf.comparison/textpdfcomparer/assemblydestinationpagetext/)(List&lt;DiffOperation&gt;) | يستعيد النص المتغير من قائمة التغييرات. |
+| static [AssemblyDestinationPageText](../../aspose.pdf.comparison/textpdfcomparer/assemblydestinationpagetext/)(List&lt;DiffOperation&gt;) | يستعيد النص المعدل من قائمة التغييرات. |
 | static [AssemblySourcePageText](../../aspose.pdf.comparison/textpdfcomparer/assemblysourcepagetext/)(List&lt;DiffOperation&gt;) | يستعيد النص الأصلي من قائمة التغييرات. |
-| static [CompareDocumentsPageByPage](../../aspose.pdf.comparison/textpdfcomparer/comparedocumentspagebypage/#comparedocumentspagebypage)(Document, Document, ComparisonOptions) | يقارن بين مستندين صفحة بصفحة. |
-| static [CompareDocumentsPageByPage](../../aspose.pdf.comparison/textpdfcomparer/comparedocumentspagebypage/#comparedocumentspagebypage_1)(Document, Document, ComparisonOptions, string) | يقارن بين مستندين صفحة بصفحة. يتم حفظ النتيجة في ملف PDF. |
-| static [CompareFlatDocuments](../../aspose.pdf.comparison/textpdfcomparer/compareflatdocuments/#compareflatdocuments)(Document, Document, ComparisonOptions) | يقارن بين مستندين صفحة بصفحة. يتم مقارنة المستندات ككل. قبل مقارنة النصوص، يتم دمج نصوص صفحات المستند في نص واحد. |
-| static [CompareFlatDocuments](../../aspose.pdf.comparison/textpdfcomparer/compareflatdocuments/#compareflatdocuments_1)(Document, Document, ComparisonOptions, string) | يقارن بين مستندين صفحة بصفحة. يتم حفظ النتيجة في ملف PDF. يتم مقارنة المستندات ككل. قبل مقارنة النصوص، يتم دمج نصوص صفحات المستند في نص واحد. |
-| static [ComparePages](../../aspose.pdf.comparison/textpdfcomparer/comparepages/)(Page, Page, ComparisonOptions) | يقارن بين صفحات المستند. |
+| static [CompareDocumentsPageByPage](../../aspose.pdf.comparison/textpdfcomparer/comparedocumentspagebypage/#comparedocumentspagebypage)(Document, Document, ComparisonOptions) | يقارن مستندين صفحة بصفحة. |
+| static [CompareDocumentsPageByPage](../../aspose.pdf.comparison/textpdfcomparer/comparedocumentspagebypage/#comparedocumentspagebypage_1)(Document, Document, ComparisonOptions, string) | يقارن مستندين صفحة بصفحة. يتم حفظ النتيجة في ملف PDF. |
+| static [CompareFlatDocuments](../../aspose.pdf.comparison/textpdfcomparer/compareflatdocuments/#compareflatdocuments)(Document, Document, ComparisonOptions) | يقارن مستندين صفحة بصفحة. يتم مقارنة المستندات ككل. قبل مقارنة النص، يتم دمج نصوص صفحات المستند في نص واحد. |
+| static [CompareFlatDocuments](../../aspose.pdf.comparison/textpdfcomparer/compareflatdocuments/#compareflatdocuments_1)(Document, Document, ComparisonOptions, string) | يقارن مستندين صفحة بصفحة. يتم حفظ النتيجة في ملف PDF. يتم مقارنة المستندات ككل. قبل مقارنة النص، يتم دمج نصوص صفحات المستند في نص واحد. |
+| static [ComparePages](../../aspose.pdf.comparison/textpdfcomparer/comparepages/)(Page, Page, ComparisonOptions) | يقارن صفحات المستند. |
 | static [CreateComparisonStatistics](../../aspose.pdf.comparison/textpdfcomparer/createcomparisonstatistics/#createcomparisonstatistics_1)(List&lt;DiffOperation&gt;) | يحصل على إحصائيات المقارنة. |
 | static [CreateComparisonStatistics](../../aspose.pdf.comparison/textpdfcomparer/createcomparisonstatistics/#createcomparisonstatistics)(List&lt;List&lt;DiffOperation&gt;&gt;) | يحصل على إحصائيات مقارنة المستندات. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: ITaggedContent.RootElement
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ITaggedContent. تحصل على عنصر الهيكل الجذري للهيكل المنطقي لوثيقة PDF
+title: "ITaggedContent.RootElement"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ITaggedContent. تحصل على العنصر الجذري StructureElement للهيكل المنطقي لمستند PDF"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.tagged/itaggedcontent/rootelement/
 ---
-## خاصية ITaggedContent.RootElement
+## ITaggedContent.RootElement property
 
-تحصل على الجذر [`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement/) للهيكل المنطقي لوثيقة PDF.
+يحصل على العنصر الجذري [`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement/) للهيكل المنطقي لمستند PDF.
 
 ```csharp
 public StructureElement RootElement { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-الجذر [`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement/) للهيكل المنطقي لوثيقة PDF.
+العنصر الجذري [`StructureElement`](../../../aspose.pdf.logicalstructure/structureelement/) للهيكل المنطقي لمستند PDF.
 
 ### انظر أيضًا
 
-* الفئة [StructureElement](../../../aspose.pdf.logicalstructure/structureelement/)
-* الواجهة [ITaggedContent](../)
-* مساحة الاسم [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* التجميع [Aspose.PDF](../../../)
+* class [StructureElement](../../../aspose.pdf.logicalstructure/structureelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

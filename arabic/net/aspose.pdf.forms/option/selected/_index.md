@@ -1,14 +1,14 @@
 ---
-title: Option.Selected
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الخيار. تحصل أو تعين حالة التحديد للخيار. تعيد true إذا كان الخيار محددًا
+title: "Option.Selected"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Option. تحصل أو تعين حالة الاختيار للخيار. تُرجع true إذا كان الخيار مختارًا"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.forms/option/selected/
 ---
-## خاصية Option.Selected
+## Option.Selected property
 
-تحصل أو تعين حالة التحديد للخيار. تعيد true إذا كان الخيار محددًا.
+يحصل أو يعيّن حالة الاختيار للخيار. يُعيد true إذا كان الخيار مُختارًا.
 
 ```csharp
 public bool Selected { get; set; }
@@ -19,3 +19,5 @@ public bool Selected { get; set; }
 * class [Option](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

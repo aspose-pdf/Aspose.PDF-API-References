@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.HtmlImageSavingInfo.PdfHostPageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: حقل HtmlImageSavingInfo. يخبر الكود المخصص عن الصفحة التي تتعلق بها الصورة المحفوظة من مستند PDF الأصلي. نظرًا لأنه من الممكن عدم حفظ جميع صفحات المستند الأصلي، فإن هذه القيمة تخبرنا عن رقم الصفحة المضيفة في PDF الأصلي. إذا كان رقم الصفحة الأصلي لسبب ما غير معروف، فإنه دائمًا ما يرجع '1'
+title: "HtmlSaveOptions.HtmlImageSavingInfo.PdfHostPageNumber"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل HtmlImageSavingInfo. يخبر الكود المخصص إلى أي صفحة من مستند PDF الأصلي تتعلق الصورة المحفوظة. نظرًا لأنه من الممكن ألا يتم حفظ جميع صفحات المستند الأصلي، فإن هذه القيمة تخبرنا برقم الصفحة المضيفة في PDF الأصلي. إذا كان رقم الصفحة الأصلي غير معروف لأي سبب، فإنها دائمًا تُعيد 1."
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/htmlsaveoptions.htmlimagesavinginfo/pdfhostpagenumber/
 ---
 ## HtmlSaveOptions.HtmlImageSavingInfo.PdfHostPageNumber field
 
-يخبر الكود المخصص عن الصفحة التي تتعلق بها الصورة المحفوظة من مستند PDF الأصلي. نظرًا لأنه من الممكن عدم حفظ جميع صفحات المستند الأصلي، فإن هذه القيمة تخبرنا عن رقم الصفحة المضيفة في PDF الأصلي. إذا كان رقم الصفحة الأصلي لسبب ما غير معروف، فإنه دائمًا ما يرجع '1'
+يخبر الكود المخصص إلى أي صفحة من مستند PDF الأصلي تنتمي الصورة المحفوظة. نظرًا لأنه قد لا يتم حفظ جميع صفحات المستند الأصلي، فإن هذه القيمة تُظهر رقم الصفحة المضيفة في PDF الأصلي. إذا كان رقم الصفحة الأصلية غير معروف لسبب ما، فإنها دائمًا تُعيد '1'.
 
 ```csharp
 public int PdfHostPageNumber;
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [HtmlImageSavingInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

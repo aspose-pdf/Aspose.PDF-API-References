@@ -1,12 +1,12 @@
 ---
-title: PdfFormatConversionOptions.FontEmbeddingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFormatConversionOptions. خيارات للحالات التي لا يمكن فيها تضمين بعض الخطوط في مستند PDF
+title: "PdfFormatConversionOptions.FontEmbeddingOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFormatConversionOptions. خيارات للحالات التي لا يمكن فيها تضمين بعض الخطوط في مستند PDF"
 type: docs
-weight: 70
+weight: 80
 url: /ar/net/aspose.pdf/pdfformatconversionoptions/fontembeddingoptions/
 ---
-## خاصية PdfFormatConversionOptions.FontEmbeddingOptions
+## PdfFormatConversionOptions.FontEmbeddingOptions property
 
 خيارات للحالات التي لا يمكن فيها تضمين بعض الخطوط في مستند PDF.
 
@@ -20,3 +20,5 @@ public FontEmbeddingOptions FontEmbeddingOptions { get; }
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

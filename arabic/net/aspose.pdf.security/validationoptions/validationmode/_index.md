@@ -1,14 +1,14 @@
 ---
-title: ValidationOptions.ValidationMode
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ValidationOptions. تحصل أو تعين وضع التحقق من التوقيعات الرقمية في مستند PDF. تحدد خاصية ValidationMode مدى صرامة عملية التحقق
+title: "ValidationOptions.ValidationMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ValidationOptions. تحصل أو تعيين وضع التحقق للتوقيعات الرقمية في مستند PDF. تحدد خاصية ValidationMode صرامة عملية التحقق"
 type: docs
-weight: 40
+weight: 50
 url: /ar/net/aspose.pdf.security/validationoptions/validationmode/
 ---
-## خاصية ValidationOptions.ValidationMode
+## ValidationOptions.ValidationMode property
 
-تحصل أو تعين وضع التحقق من التوقيعات الرقمية في مستند PDF. تحدد خاصية ValidationMode مدى صرامة عملية التحقق.
+يحصل أو يضبط وضع التحقق من التوقيعات الرقمية في مستند PDF. تحدد خاصية ValidationMode صرامة عملية التحقق.
 
 ```csharp
 public ValidationMode ValidationMode { get; set; }
@@ -20,3 +20,5 @@ public ValidationMode ValidationMode { get; set; }
 * class [ValidationOptions](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

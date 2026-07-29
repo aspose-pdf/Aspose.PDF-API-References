@@ -1,14 +1,14 @@
 ---
-title: Class PclLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.PclLoadOptions. تمثل الخيارات لتحميل ملف PCL إلى مستند PDF
+title: "الفئة PclLoadOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.PclLoadOptions. تمثل خيارات تحميل ملف PCL إلى مستند PDF"
 type: docs
-weight: 8300
+weight: 8440
 url: /ar/net/aspose.pdf/pclloadoptions/
 ---
-## فئة PclLoadOptions
+## PclLoadOptions class
 
-تمثل الخيارات لتحميل (استيراد) ملف PCL إلى مستند PDF.
+يمثل خيارات تحميل (استيراد) ملف PCL إلى مستند PDF.
 
 ```csharp
 public sealed class PclLoadOptions : LoadOptions, IPipelineOptions
@@ -18,24 +18,24 @@ public sealed class PclLoadOptions : LoadOptions, IPipelineOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [PclLoadOptions](pclloadoptions/)() | المنشئ الافتراضي. |
+| [PclLoadOptions](pclloadoptions/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [BatchSize](../../aspose.pdf/pclloadoptions/batchsize/) { get; set; } | يحدد حجم الدفعة إذا كان التحويل المجمع قابلاً للتطبيق على زوج تنسيقات المصدر والوجهة. |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | يحصل أو يحدد علامة لتعطيل أي قيود ترخيص لجميع الخطوط أثناء تحميل الملف. عندما تكون القيمة `true`، يسمح بتنفيذ العمليات مع الخطوط التي يحظرها ترخيص هذا الخط، على سبيل المثال يسمح بإدراج خط في مستند PDF حتى لو كانت قواعد الترخيص تعطل الإدراج لهذا الخط. بشكل افتراضي `false`. |
+| [BatchSize](../../aspose.pdf/pclloadoptions/batchsize/) { get; set; } | يحدد حجم الدفعة إذا كان التحويل المجمع قابلًا للتطبيق على زوج صيغ المصدر والوجهة. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | يحصل أو يعيّن العلامة لتعطيل أي قيود ترخيص على جميع الخطوط أثناء تحميل الملف. عندما تكون `true`، يسمح بتنفيذ عمليات باستخدام خط محظور بموجب ترخيص هذا الخط، على سبيل المثال يسمح بتضمين خط في مستند PDF حتى إذا كانت قواعد الترخيص تمنع التضمين لهذا الخط. القيمة الافتراضية هي `false`. |
 | [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | يمثل تنسيق الملف الذي تصفه [`LoadOptions`](../loadoptions/). |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | رد نداء لمعالجة أي تحذيرات تم إنشاؤها. يعيد WarningHandler عنصر تعداد ReturnAction يحدد إما Continue أو Abort. Continue هو الإجراء الافتراضي وتستمر عملية التحميل، ومع ذلك يمكن للمستخدم أيضًا إرجاع Abort وفي هذه الحالة يجب أن تتوقف عملية التحميل. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | استدعاء رد نداء للتعامل مع أي تحذيرات تم إنشاؤها. يُعيد WarningHandler عنصر من تعداد ReturnAction يحدد إما Continue أو Abort. Continue هو الإجراء الافتراضي وتستمر عملية التحميل، ومع ذلك قد يُعيد المستخدم Abort في هذه الحالة يجب أن تتوقف عملية التحميل. |
 
 ## الحقول
 
 | الاسم | الوصف |
 | --- | --- |
-| [ConversionEngine](../../aspose.pdf/pclloadoptions/conversionengine/) | يحدد محرك التحويل الذي سيتم استخدامه للتحويل |
+| [ConversionEngine](../../aspose.pdf/pclloadoptions/conversionengine/) | يحدد محرك التحويل الذي سيُستخدم في التحويل |
 | [Exceptions](../../aspose.pdf/pclloadoptions/exceptions/) | قائمة بأخطاء التحويل. |
-| [SupressErrors](../../aspose.pdf/pclloadoptions/supresserrors/) | يحصل أو يحدد قيمة منطقية تشير إلى ما إذا كانت أخطاء تحويل PCL يجب أن يتم كتمها. |
+| [SupressErrors](../../aspose.pdf/pclloadoptions/supresserrors/) | يحصل أو يضبط قيمة منطقية تشير إلى ما إذا كان يجب قمع أخطاء تحويل PCL. |
 
 ## أمثلة
 
@@ -43,13 +43,13 @@ public sealed class PclLoadOptions : LoadOptions, IPipelineOptions
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// المسار إلى دليل المستندات.
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your PCL File.
+	// المسار إلى ملف PCL الخاص بك.
 	string pclFile = Path.Combine(dataDir, "PCL-to-PDF.pcl");
 
-	// The path to output PDF File.
+	// المسار إلى ملف PDF الناتج.
 	string pdfFile = Path.Combine(dataDir, "PCL-to-PDF.pdf");
 
 	// Initialize PclLoadOptions	
@@ -58,7 +58,7 @@ public sealed class PclLoadOptions : LoadOptions, IPipelineOptions
 	using (Document pdfDocument = new Document(pclFile, pclLoadOptions))
 	{
 	 
-		// Save PDF file
+		// حفظ ملف PDF
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -87,7 +87,9 @@ public sealed class PclLoadOptions : LoadOptions, IPipelineOptions
 
 ### انظر أيضًا
 
-* فئة [LoadOptions](../loadoptions/)
-* واجهة [IPipelineOptions](../ipipelineoptions/)
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* class [LoadOptions](../loadoptions/)
+* interface [IPipelineOptions](../ipipelineoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

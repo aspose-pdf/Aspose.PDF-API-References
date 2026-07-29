@@ -1,14 +1,14 @@
 ---
-title: GraphicsAbsorber.SuppressUpdate
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة GraphicsAbsorber. تمنع التحديث لـ Contents وجميع Contents تم إنشاؤها لزيادة الأداء انظر أيضًا
+title: "GraphicsAbsorber.SuppressUpdate"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة GraphicsAbsorber. يمنع التحديث لـ Contents وجميع Contents تم لزيادة الأداء، انظر أيضًا"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.vector/graphicsabsorber/suppressupdate/
 ---
-## طريقة GraphicsAbsorber.SuppressUpdate
+## GraphicsAbsorber.SuppressUpdate method
 
-تمنع التحديث لـ [`Contents`](../../../aspose.pdf/page/contents/) وجميع [`Contents`](../../../aspose.pdf/xform/contents/) تم إنشاؤها لزيادة الأداء، انظر أيضًا .
+يمنع التحديث لـ [`Contents`](../../../aspose.pdf/page/contents/) وجميع [`Contents`](../../../aspose.pdf/xform/contents/) تم لزيادة الأداء، انظر أيضًا.
 
 ```csharp
 public void SuppressUpdate()
@@ -31,3 +31,5 @@ va.ResumeUpdate();
 * class [GraphicsAbsorber](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,67 +1,68 @@
 ---
-title: Class BmpDevice
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Devices.BmpDevice. تمثل جهاز الصورة الذي يساعد في حفظ صفحات مستند PDF في BMP
+title: "الفئة BmpDevice"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Devices.BmpDevice. تمثل جهاز صورة يساعد على حفظ صفحات مستند pdf كملفات bmp"
 type: docs
-weight: 3520
+weight: 3640
 url: /ar/net/aspose.pdf.devices/bmpdevice/
 ---
 ## BmpDevice class
 
-تمثل جهاز الصورة الذي يساعد في حفظ صفحات مستند PDF في BMP.
+يمثل جهاز صورة يساعد على حفظ صفحات مستند pdf بصيغة bmp.
 
 ```csharp
 public sealed class BmpDevice : ImageDevice
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [BmpDevice](bmpdevice/#constructor)() | يقوم بتهيئة مثيل جديد من فئة `BmpDevice` بدقة افتراضية. |
-| [BmpDevice](bmpdevice/#constructor_2)(PageSize) | يقوم بتهيئة مثيل جديد من فئة `BmpDevice` بحجم الصفحة المقدم، بدقة افتراضية (=150). |
-| [BmpDevice](bmpdevice/#constructor_1)(Resolution) | يقوم بتهيئة مثيل جديد من فئة `BmpDevice`. دقة ملف الصورة الناتج، انظر فئة [`Resolution`](../resolution/). |
-| [BmpDevice](bmpdevice/#constructor_4)(int, int) | يقوم بتهيئة مثيل جديد من فئة `BmpDevice` بأبعاد الصورة المقدمة، بدقة افتراضية (=150). |
-| [BmpDevice](bmpdevice/#constructor_3)(PageSize, Resolution) | يقوم بتهيئة مثيل جديد من فئة `BmpDevice` بحجم الصفحة المقدم والدقة. |
-| [BmpDevice](bmpdevice/#constructor_5)(int, int, Resolution) | يقوم بتهيئة مثيل جديد من فئة `BmpDevice` بأبعاد الصورة المقدمة والدقة. |
+| [BmpDevice](bmpdevice/#constructor)() | يُنشئ مثيلاً جديدًا لفئة `BmpDevice` باستخدام الدقة الافتراضية. |
+| [BmpDevice](bmpdevice/#constructor_2)(PageSize) | يُنشئ مثيلاً جديدًا لفئة `BmpDevice` بحجم الصفحة المقدم، والدقة الافتراضية (=150). |
+| [BmpDevice](bmpdevice/#constructor_1)(Resolution) | يُنشئ مثيلاً جديدًا لفئة `BmpDevice`. الدقة لملف الصورة الناتج، راجع فئة [`Resolution`](../resolution/). |
+| [BmpDevice](bmpdevice/#constructor_4)(int, int) | يُنشئ مثيلاً جديدًا لفئة `BmpDevice` بأبعاد الصورة المقدمة، والدقة الافتراضية (=150). |
+| [BmpDevice](bmpdevice/#constructor_3)(PageSize, Resolution) | يُنشئ مثيلاً جديدًا لفئة `BmpDevice` بحجم الصفحة والدقة المقدمة. |
+| [BmpDevice](bmpdevice/#constructor_5)(int, int, Resolution) | يُنشئ مثيلاً جديدًا لفئة `BmpDevice` بأبعاد الصورة والدقة المقدمة. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | يحصل أو يحدد نوع إحداثيات الصفحة (صناديق الوسائط/القص). يتم استخدام قيمة CropBox بشكل افتراضي. |
-| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | يحصل أو يحدد وضع تقديم النموذج. |
+| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | يحصل أو يعيّن نوع إحداثيات الصفحة (صناديق Media/Crop). تُستخدم قيمة CropBox كإعداد افتراضي. |
+| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | يحصل أو يعيّن وضع عرض النموذج. |
 | [Height](../../aspose.pdf.devices/imagedevice/height/) { get; } | يحصل على ارتفاع مخرجات الصورة. |
-| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions/) { get; set; } | يحصل أو يحدد خيارات العرض. |
+| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions/) { get; set; } | يحصل أو يعيّن خيارات العرض. |
 | [Resolution](../../aspose.pdf.devices/imagedevice/resolution/) { get; } | يحصل على دقة الصورة. |
 | [Width](../../aspose.pdf.devices/imagedevice/width/) { get; } | يحصل على عرض مخرجات الصورة. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Process](../../aspose.pdf.devices/bmpdevice/process/#process)(Page, Stream) | يقوم بتحويل الصفحة إلى BMP ويحفظها في تدفق المخرجات. |
-| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | يقوم بإجراء بعض العمليات على الصفحة المعطاة ويحفظ النتائج في الملف. |
+| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | يحوّل الصفحة إلى Bitmap. |
+| override [Process](../../aspose.pdf.devices/bmpdevice/process/#process)(Page, Stream) | يحوِّل الصفحة إلى bmp ويحفظها في تدفق الإخراج. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | ينفّذ بعض العمليات على الصفحة المعطاة ويحفظ النتائج في الملف. |
 
-## Examples
+## أمثلة
 
 يوضح المثال التالي كيفية تحويل ملف PDF إلى صور BMP.
 
 ```csharp
 [C#]
-	// The path to your PDF Directory
+	// المسار إلى دليل PDF الخاص بك
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The file name of the PDF
+	// اسم ملف PDF
 	string pdfFile = @"YOUR_PDF_FILE";
 
-	// initialize instance of Document class
+	// تهيئة مثيل لفئة Document
 	using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
 	{
-		// Create Resolution object 	
+		// إنشاء كائن Resolution \t
 		Resolution resolution = new Resolution(300);
 
-		// initialize BmpDevice	
+		// تهيئة BmpDevice\t
 		BmpDevice bmpDevice = new BmpDevice(resolution);
 
 		for (int pageCount = 1; pageCount <= pdfDocument.Pages.Count; pageCount++)
@@ -70,10 +71,10 @@ public sealed class BmpDevice : ImageDevice
 			new FileStream($"{dataDir}image{pageCount}_out.bmp",
 			FileMode.Create))
 			{
-				// Convert a particular page and save the image to stream
+				// تحويل صفحة معينة وحفظ الصورة إلى التدفق
 				bmpDevice.Process(pdfDocument.Pages[pageCount], bmpStream);
 
-				// Close stream
+				// إغلاق التدفق
 				bmpStream.Close();
 			}
 		}
@@ -110,8 +111,10 @@ public sealed class BmpDevice : ImageDevice
 	End Using
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [ImageDevice](../imagedevice/)
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

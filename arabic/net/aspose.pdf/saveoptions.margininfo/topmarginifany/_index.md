@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.MarginInfo.TopMarginIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: حقل MarginInfo. يمثل الهامش العلوي للصفحة إذا كان موجودًا
+title: "SaveOptions.MarginInfo.TopMarginIfAny"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل MarginInfo. يمثل هامش الصفحة العلوي إذا كان موجودًا"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/saveoptions.margininfo/topmarginifany/
 ---
-## حقل SaveOptions.MarginInfo.TopMarginIfAny
+## SaveOptions.MarginInfo.TopMarginIfAny field
 
-يمثل الهامش العلوي للصفحة (إذا كان موجودًا)
+يمثّل هامش الصفحة العلوي (إن وجد)
 
 ```csharp
 public MarginPartStyle TopMarginIfAny;
@@ -20,3 +20,5 @@ public MarginPartStyle TopMarginIfAny;
 * class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

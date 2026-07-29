@@ -1,14 +1,14 @@
 ---
-title: BorderInfo.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BorderInfo. تحصل أو تعين كائنًا يشير إلى أسفل الحدود
+title: "BorderInfo.Bottom"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BorderInfo. يحصل أو يضبط كائنًا يشير إلى أسفل الحد"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/borderinfo/bottom/
 ---
-## خاصية BorderInfo.Bottom
+## BorderInfo.Bottom property
 
-تحصل أو تعين كائنًا يشير إلى أسفل الحدود.
+يحصل أو يعيّن كائنًا يشير إلى الجزء السفلي من الحد.
 
 ```csharp
 public GraphInfo Bottom { get; set; }
@@ -20,3 +20,5 @@ public GraphInfo Bottom { get; set; }
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

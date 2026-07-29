@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.PrcEnvelopeNumber3Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. 3 ظرف مائل 176 مم × 125 مم
+title: "PaperSizes.PrcEnvelopeNumber3Rotated"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PaperSizes. ظرف 3 مدور 176 مم × 125 مم"
 type: docs
 weight: 930
 url: /ar/net/aspose.pdf.printing/papersizes/prcenvelopenumber3rotated/
 ---
-## حقل PaperSizes.PrcEnvelopeNumber3Rotated
+## PaperSizes.PrcEnvelopeNumber3Rotated field
 
-#3 ظرف مائل (176 مم × 125 مم).
+مغلف #3 مدور (176 مم × 125 مم).
 
 ```csharp
 public static readonly PaperSize PrcEnvelopeNumber3Rotated;
@@ -20,3 +20,5 @@ public static readonly PaperSize PrcEnvelopeNumber3Rotated;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

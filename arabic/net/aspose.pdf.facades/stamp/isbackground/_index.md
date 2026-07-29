@@ -1,14 +1,14 @@
 ---
-title: Stamp.IsBackground
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Stamp. تحصل أو تعين حالة الخلفية. إذا كانت صحيحة، سيتم وضع الطابع كخلفية للصفحة المطبوع عليها. بشكل افتراضي، يتم تعيينها على خطأ.
+title: "Stamp.IsBackground"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Stamp. يحصل أو يحدد حالة الخلفية. إذا كان true سيتم وضع الختم كخلفية للصفحة المختومة. بشكل افتراضي يتم تعيينه إلى false"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.facades/stamp/isbackground/
 ---
-## خاصية Stamp.IsBackground
+## Stamp.IsBackground property
 
-تحصل أو تعين حالة الخلفية. إذا كانت صحيحة، سيتم وضع الطابع كخلفية للصفحة المطبوع عليها. بشكل افتراضي، يتم تعيينها على خطأ.
+يحصل أو يعيّن حالة الخلفية. إذا كانت true سيتم وضع الطابع كخلفية للصفحة المختومة. بشكل افتراضي يتم تعيينها إلى false.
 
 ```csharp
 public bool IsBackground { get; set; }
@@ -30,3 +30,5 @@ fileStamp.Close();
 * class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

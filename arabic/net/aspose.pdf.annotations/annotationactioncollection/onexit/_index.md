@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection.OnExit
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AnnotationActionCollection. تحصل أو تعين إجراءً يتم تنفيذه عندما يخرج المؤشر من منطقة التعليقات النشطة
+title: "AnnotationActionCollection.OnExit"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AnnotationActionCollection. يحصل أو يحدد الإجراء الذي يتم تنفيذه عندما يخرج المؤشر من المنطقة النشطة للتعليقات"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/annotationactioncollection/onexit/
 ---
-## خاصية AnnotationActionCollection.OnExit
+## AnnotationActionCollection.OnExit property
 
-تحصل أو تعين إجراءً يتم تنفيذه عندما يخرج المؤشر من منطقة التعليق النشطة.
+يحصل أو يعيّن إجراءً يتم تنفيذه عندما يخرج المؤشر من منطقة النشاط للتعليق.
 
 ```csharp
 public PdfAction OnExit { get; set; }
@@ -20,3 +20,5 @@ public PdfAction OnExit { get; set; }
 * class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

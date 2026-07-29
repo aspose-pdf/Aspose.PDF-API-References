@@ -1,14 +1,14 @@
 ---
-title: TocInfo.IsCountTocPages
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TocInfo. يحصل أو يحدد ما إذا كان يتم عد صفحات جدول المحتويات أو تمريرها
+title: "TocInfo.IsCountTocPages"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TocInfo. تحصل أو تعين ما إذا كان يتم عد صفحات TOC أو تم تمريرها"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/tocinfo/iscounttocpages/
 ---
-## خاصية TocInfo.IsCountTocPages
+## TocInfo.IsCountTocPages property
 
-يحصل أو يحدد ما إذا كان يتم عد صفحات جدول المحتويات أو تمريرها.
+يحصل أو يعيّن ما إذا كان عدد صفحات toc الممررة.
 
 ```csharp
 public bool IsCountTocPages { get; set; }
@@ -19,3 +19,5 @@ public bool IsCountTocPages { get; set; }
 * class [TocInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

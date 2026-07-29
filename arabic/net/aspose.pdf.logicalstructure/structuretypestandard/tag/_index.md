@@ -1,25 +1,27 @@
 ---
-title: StructureTypeStandard.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StructureTypeStandard. تحصل على اسم علامة StructureElement
+title: "StructureTypeStandard.Tag"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StructureTypeStandard. تحصل على اسم العلامة لـ StructureElement"
 type: docs
 weight: 510
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/tag/
 ---
-## خاصية StructureTypeStandard.Tag
+## StructureTypeStandard.Tag property
 
-تحصل على اسم علامة [`StructureElement`](../../structureelement/).
+يحصل على اسم العلامة لـ [`StructureElement`](../../structureelement/).
 
 ```csharp
 public string Tag { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-اسم علامة [`StructureElement`](../../structureelement/).
+اسم العلامة لـ [`StructureElement`](../../structureelement/).
 
 ### انظر أيضًا
 
-* فئة [StructureTypeStandard](../)
-* مساحة الاسم [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* التجميع [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

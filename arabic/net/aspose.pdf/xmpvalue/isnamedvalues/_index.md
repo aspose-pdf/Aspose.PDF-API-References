@@ -1,14 +1,14 @@
 ---
-title: XmpValue.IsNamedValues
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XmpValue. تعيد true إذا كانت XmpValue تمثل قيم مسماة
+title: "XmpValue.IsNamedValues"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XmpValue. تُرجع true إذا كان XmpValue يمثل قيمًا مسماة"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/xmpvalue/isnamedvalues/
 ---
-## خاصية XmpValue.IsNamedValues
+## XmpValue.IsNamedValues property
 
-تعيد true إذا كانت XmpValue تمثل قيم مسماة.
+يعيد true إذا كان XmpValue يمثل قيمًا مسماة.
 
 ```csharp
 public bool IsNamedValues { get; }
@@ -19,3 +19,5 @@ public bool IsNamedValues { get; }
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

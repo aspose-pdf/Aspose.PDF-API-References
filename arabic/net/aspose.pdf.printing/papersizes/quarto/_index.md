@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Quarto
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ورق كواترو 215 مم × 275 مم
+title: "PaperSizes.Quarto"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ورق Quarto 215 مم × 275 مم"
 type: docs
 weight: 1060
 url: /ar/net/aspose.pdf.printing/papersizes/quarto/
 ---
-## حقل PaperSizes.Quarto
+## PaperSizes.Quarto field
 
-ورق كواترو (215 مم × 275 مم).
+ورق كوارتر (215 مم × 275 مم).
 
 ```csharp
 public static readonly PaperSize Quarto;
@@ -20,3 +20,5 @@ public static readonly PaperSize Quarto;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

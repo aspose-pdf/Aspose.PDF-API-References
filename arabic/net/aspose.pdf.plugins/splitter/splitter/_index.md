@@ -1,14 +1,14 @@
 ---
-title: Splitter.Splitter
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ Splitter. المُنشئ الافتراضي
+title: "Splitter.Splitter"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Splitter. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/splitter/splitter/
 ---
-## مُنشئ Splitter
+## Splitter constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public Splitter()
@@ -19,3 +19,5 @@ public Splitter()
 * class [Splitter](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

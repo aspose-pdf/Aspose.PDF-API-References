@@ -1,24 +1,24 @@
 ---
-title: AutoFiller.Save
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة AutoFiller. تحفظ جميع ملفات pdf
+title: "AutoFiller.Save"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة AutoFiller. تحفظ جميع ملفات pdf."
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.facades/autofiller/save/
 ---
 ## Save(string) {#save_2}
 
-تحفظ جميع ملفات pdf.
+يحفظ جميع ملفات PDF.
 
 ```csharp
 public void Save(string destFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | destFile | String | اسم ملف الإخراج. |
 
-### See Also
+### انظر أيضًا
 
 * class [AutoFiller](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -28,18 +28,20 @@ public void Save(string destFile)
 
 ## Save(Stream) {#save_1}
 
-تحفظ جميع ملفات pdf.
+يحفظ جميع ملفات PDF.
 
 ```csharp
 public void Save(Stream destStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| destStream | Stream | تدفق الإخراج. |
+| destStream | Stream | دفق الإخراج. |
 
-### See Also
+### انظر أيضًا
 
 * class [AutoFiller](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

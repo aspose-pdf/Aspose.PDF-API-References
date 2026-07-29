@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionRequest.LlamaChatCompletionRequest
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ LlamaChatCompletionRequest. المُنشئ الافتراضي
+title: "LlamaChatCompletionRequest.LlamaChatCompletionRequest"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ LlamaChatCompletionRequest. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/llamachatcompletionrequest/llamachatcompletionrequest/
 ---
-## مُنشئ LlamaChatCompletionRequest
+## LlamaChatCompletionRequest constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public LlamaChatCompletionRequest()
@@ -19,3 +19,5 @@ public LlamaChatCompletionRequest()
 * class [LlamaChatCompletionRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

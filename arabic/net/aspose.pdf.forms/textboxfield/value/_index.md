@@ -1,14 +1,14 @@
 ---
-title: TextBoxField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextBoxField. تحصل على أو تعين قيمة الحقل
+title: "TextBoxField.Value"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextBoxField. يحصل أو يضبط قيمة الحقل"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.forms/textboxfield/value/
 ---
-## خاصية TextBoxField.Value
+## TextBoxField.Value property
 
-تحصل على أو تعين قيمة الحقل.
+يحصل أو يعيّن قيمة الحقل.
 
 ```csharp
 public override string Value { get; set; }
@@ -19,3 +19,5 @@ public override string Value { get; set; }
 * class [TextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

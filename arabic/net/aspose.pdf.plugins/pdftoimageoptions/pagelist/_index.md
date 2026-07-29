@@ -1,14 +1,14 @@
 ---
-title: PdfToImageOptions.PageList
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfToImageOptions. تحصل أو تعين قائمة الصفحات للعملية
+title: "PdfToImageOptions.PageList"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfToImageOptions. يحصل أو يضبط قائمة الصفحات للعملية"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.plugins/pdftoimageoptions/pagelist/
 ---
-## خاصية PdfToImageOptions.PageList
+## PdfToImageOptions.PageList property
 
-تحصل أو تعين قائمة الصفحات للعملية.
+يحصل أو يعيّن قائمة الصفحات للعملية.
 
 ```csharp
 public List<int> PageList { get; set; }
@@ -19,3 +19,5 @@ public List<int> PageList { get; set; }
 * class [PdfToImageOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

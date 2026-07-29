@@ -1,14 +1,14 @@
 ---
-title: TableCellElement.Alignment
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TableCellElement. تحصل أو تعين محاذاة الخلية
+title: "TableCellElement.Alignment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TableCellElement. يحصل أو يضبط محاذاة الخلية"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.logicalstructure/tablecellelement/alignment/
 ---
-## خاصية TableCellElement.Alignment
+## TableCellElement.Alignment property
 
-تحصل أو تعين محاذاة الخلية.
+يحصل أو يحدد محاذاة الخلية.
 
 ```csharp
 public HorizontalAlignment Alignment { get; set; }
@@ -20,3 +20,5 @@ public HorizontalAlignment Alignment { get; set; }
 * class [TableCellElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

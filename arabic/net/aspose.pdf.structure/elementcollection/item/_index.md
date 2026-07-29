@@ -1,22 +1,22 @@
 ---
-title: ElementCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ElementCollection. يحصل على العنصر بواسطة الفهرس
+title: "ElementCollection.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ElementCollection. يحصل على العنصر حسب الفهرس"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.structure/elementcollection/item/
 ---
-## فهرس ElementCollection
+## ElementCollection indexer
 
-يحصل على العنصر بواسطة الفهرس.
+يحصل على العنصر حسب الفهرس.
 
 ```csharp
 public Element this[int index] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| الفهرس | فهرس العنصر. |
+| index | فهرس العنصر. |
 
 ### قيمة الإرجاع
 
@@ -28,3 +28,5 @@ public Element this[int index] { get; }
 * class [ElementCollection](../)
 * namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../../)
+
+

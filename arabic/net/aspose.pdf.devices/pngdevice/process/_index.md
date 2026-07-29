@@ -1,23 +1,23 @@
 ---
-title: PngDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PngDevice. تقوم بتحويل الصفحة إلى png وتخزينها في تدفق الإخراج
+title: "PngDevice.Process"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PngDevice. تقوم بتحويل الصفحة إلى png وتُحفظ في تدفق الإخراج"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.devices/pngdevice/process/
 ---
-## طريقة PngDevice.Process
+## PngDevice.Process method
 
-تقوم بتحويل الصفحة إلى png وتخزينها في تدفق الإخراج.
+يقوم بتحويل الصفحة إلى PNG ويحفظها في تدفق الإخراج.
 
 ```csharp
 public override void Process(Page page, Stream output)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة التي سيتم تحويلها. |
-| output | Stream | تدفق الإخراج مع صورة png. |
+| صفحة | صفحة | الصفحة للتحويل. |
+| الإخراج | Stream | تدفق الإخراج مع صورة png. |
 
 ### انظر أيضًا
 
@@ -25,3 +25,5 @@ public override void Process(Page page, Stream output)
 * class [PngDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

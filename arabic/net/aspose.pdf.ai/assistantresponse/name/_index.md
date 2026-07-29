@@ -1,14 +1,14 @@
 ---
-title: AssistantResponse.Name
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AssistantResponse. تحصل أو تعين اسم المساعد. الحد الأقصى للطول هو 256 حرفًا
+title: "AssistantResponse.Name"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AssistantResponse. تحصل أو تعين اسم المساعد. الحد الأقصى للطول هو 256 حرفًا"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.ai/assistantresponse/name/
 ---
-## خاصية AssistantResponse.Name
+## AssistantResponse.Name property
 
-تحصل أو تعين اسم المساعد. الحد الأقصى للطول هو 256 حرفًا.
+يحصل أو يعيّن اسم المساعد. الحد الأقصى للطول هو 256 حرفًا.
 
 ```csharp
 public string Name { get; set; }
@@ -19,3 +19,5 @@ public string Name { get; set; }
 * class [AssistantResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

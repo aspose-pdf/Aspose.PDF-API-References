@@ -1,14 +1,14 @@
 ---
-title: BitmapInfo.Height
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BitmapInfo. تحصل على ارتفاع الصورة النقطية
+title: "BitmapInfo.Height"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BitmapInfo. تسترجع ارتفاع الصورة النقطية"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/bitmapinfo/height/
 ---
-## خاصية BitmapInfo.Height
+## BitmapInfo.Height property
 
-تحصل على ارتفاع الصورة النقطية.
+يحصل على ارتفاع البت ماب.
 
 ```csharp
 public int Height { get; }
@@ -19,3 +19,5 @@ public int Height { get; }
 * class [BitmapInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

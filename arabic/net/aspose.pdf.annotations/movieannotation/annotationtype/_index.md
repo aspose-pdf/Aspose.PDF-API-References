@@ -1,14 +1,14 @@
 ---
-title: MovieAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MovieAnnotation. تحصل على نوع التعليق
+title: "MovieAnnotation.AnnotationType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MovieAnnotation. تحصل على نوع التوضيح"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/movieannotation/annotationtype/
 ---
-## خاصية MovieAnnotation.AnnotationType
+## MovieAnnotation.AnnotationType property
 
-تحصل على نوع التعليق.
+الحصول على نوع التعليقة.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [MovieAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

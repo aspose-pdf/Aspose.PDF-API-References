@@ -1,20 +1,20 @@
 ---
-title: TeXFileSystemOutputDirectory.TeXFileSystemOutputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TeXFileSystemOutputDirectory. ينشئ مثيلًا جديدًا
+title: "TeXFileSystemOutputDirectory.TeXFileSystemOutputDirectory"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TeXFileSystemOutputDirectory. ينشئ مثيلاً جديداً"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/texfilesystemoutputdirectory/texfilesystemoutputdirectory/
 ---
-## مُنشئ TeXFileSystemOutputDirectory
+## TeXFileSystemOutputDirectory constructor
 
-ينشئ مثيلًا جديدًا.
+ينشئ مثيلاً جديداً.
 
 ```csharp
 public TeXFileSystemOutputDirectory(string basePath)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | basePath | String | المسار الأساسي للدليل. |
 
@@ -23,3 +23,5 @@ public TeXFileSystemOutputDirectory(string basePath)
 * class [TeXFileSystemOutputDirectory](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

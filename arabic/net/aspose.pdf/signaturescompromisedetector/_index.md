@@ -1,36 +1,38 @@
 ---
-title: Class SignaturesCompromiseDetector
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.SignaturesCompromiseDetector. تمثل فئة للتحقق من التوقيعات المهددة في الوثيقة
+title: "الفئة SignaturesCompromiseDetector"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.SignaturesCompromiseDetector. تمثل فئة لفحص التوقيعات المخترقة للمستند."
 type: docs
-weight: 10120
+weight: 10300
 url: /ar/net/aspose.pdf/signaturescompromisedetector/
 ---
 ## SignaturesCompromiseDetector class
 
-تمثل فئة للتحقق من التوقيعات المهددة في الوثيقة.
+يمثل فئة للتحقق من التوقيعات المخترقة للمستند.
 
 ```csharp
 public sealed class SignaturesCompromiseDetector
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [SignaturesCompromiseDetector](signaturescompromisedetector/)(Document) | ينشئ مثيلًا من فئة `SignaturesCompromiseDetector`. |
+| [SignaturesCompromiseDetector](signaturescompromisedetector/)(Document) | ينشئ مثلاً من الفئة `SignaturesCompromiseDetector`. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Check](../../aspose.pdf/signaturescompromisedetector/check/)(out CompromiseCheckResult) | تحقق من التوقيعات الرقمية للوثيقة من أجل التهديد. |
+| [Check](../../aspose.pdf/signaturescompromisedetector/check/)(out CompromiseCheckResult) | تحقق من التوقيعات الرقمية للمستند للبحث عن اختراق. |
 
-## Remarks
+## ملاحظات
 
-يتحقق الكاشف فقط من الطرق المعروفة لتهديد التوقيعات. لا يمكن أن توفر عملية التحقق ضمانًا بنسبة 100% لعدم وجود تهديد للتوقيع وقد تؤدي إلى نتيجة سلبية خاطئة لطرق التهديد الجديدة وغير المعروفة المختلفة عن تلك التي يتم اختبارها.
+يفحص الكاشف فقط الطرق المعروفة لاختراق التوقيعات. لا يمكن للتحقق أن يضمن بنسبة 100٪ عدم وجود اختراق للتوقيع وقد ينتج عنه نتيجة سلبية كاذبة للطرق الجديدة غير المعروفة التي تختلف عن تلك التي تم اختبارها.
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

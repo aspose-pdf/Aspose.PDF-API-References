@@ -1,14 +1,14 @@
 ---
-title: RichTextBoxField.RichTextValue
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RichTextBoxField. تحصل أو تعين قيمة النص الغني
+title: "RichTextBoxField.RichTextValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RichTextBoxField. يحصل أو يعيّن قيمة النص الغني"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.forms/richtextboxfield/richtextvalue/
 ---
-## خاصية RichTextBoxField.RichTextValue
+## RichTextBoxField.RichTextValue property
 
-تحصل أو تعين قيمة النص الغني.
+يحصل أو يعيّن قيمة النص الغني.
 
 ```csharp
 public string RichTextValue { get; set; }
@@ -19,3 +19,5 @@ public string RichTextValue { get; set; }
 * class [RichTextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

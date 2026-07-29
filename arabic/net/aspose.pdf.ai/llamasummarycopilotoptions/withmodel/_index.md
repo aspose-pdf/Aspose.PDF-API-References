@@ -1,29 +1,31 @@
 ---
-title: LlamaSummaryCopilotOptions.WithModel
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة LlamaSummaryCopilotOptions. تعيين النموذج لخيارات مساعد الملخص
+title: "LlamaSummaryCopilotOptions.WithModel"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة LlamaSummaryCopilotOptions. تعيّن النموذج لخيارات مساعد الملخص."
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.ai/llamasummarycopilotoptions/withmodel/
 ---
-## طريقة LlamaSummaryCopilotOptions.WithModel
+## LlamaSummaryCopilotOptions.WithModel method
 
-تعيين النموذج لخيارات مساعد الملخص.
+يضبط النموذج لخيارات المساعد الملخص.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithModel(string model)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| model | String | النموذج الذي سيتم تعيينه. |
+| النموذج | String | النموذج المراد تحديده. |
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`LlamaSummaryCopilotOptions`](../).
+المثيل الحالي من [`LlamaSummaryCopilotOptions`](../).
 
 ### انظر أيضًا
 
 * class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

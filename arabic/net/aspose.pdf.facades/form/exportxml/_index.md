@@ -1,20 +1,20 @@
 ---
-title: Form.ExportXml
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. تصدر محتوى حقول pdf إلى تدفق xml. لن يتم تصدير قيمة حقول الأزرار
+title: "Form.ExportXml"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. تصدر محتوى حقول الـ pdf إلى تدفق xml. لن يتم تصدير قيمة حقول الأزرار"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.facades/form/exportxml/
 ---
-## طريقة Form.ExportXml
+## Form.ExportXml method
 
-تصدر محتوى حقول pdf إلى تدفق xml. لن يتم تصدير قيمة حقل الزر.
+يصدّر محتوى حقول الـ pdf إلى تدفق XML. لن يتم تصدير قيمة حقل الزر.
 
 ```csharp
 public void ExportXml(Stream outputXmlStream)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | outputXmlStream | Stream | تدفق Xml الناتج. |
 
@@ -32,3 +32,5 @@ fs.Close();
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

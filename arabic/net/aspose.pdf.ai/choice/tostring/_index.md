@@ -1,14 +1,14 @@
 ---
-title: Choice.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Choice. تعيد محتوى الخيار كسلسلة نصية
+title: "Choice.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Choice. تُرجع محتوى الاختيار كسلسلة نصية"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.ai/choice/tostring/
 ---
-## طريقة Choice.ToString
+## Choice.ToString method
 
-تعيد محتوى الخيار كسلسلة نصية.
+يرجع محتوى الخيار كسلسلة نصية.
 
 ```csharp
 public override string ToString()
@@ -19,3 +19,5 @@ public override string ToString()
 * class [Choice](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,28 +1,28 @@
 ---
-title: PDF3DViewArray.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PDF3DViewArray. تضيف العرض المحدد
+title: "PDF3DViewArray.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PDF3DViewArray. تضيف العرض المحدد"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/pdf3dviewarray/add/
 ---
-## طريقة PDF3DViewArray.Add
+## PDF3DViewArray.Add method
 
-تضيف العرض المحدد.
+يضيف العرض المحدد.
 
 ```csharp
 public void Add(PDF3DView view)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | view | PDF3DView | العرض. |
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | يُسمح بإدخال واحد فقط من عرض 3D |
+| ArgumentException | يسمح بإدخال عرض ثلاثي الأبعاد واحد فقط |
 
 ### انظر أيضًا
 
@@ -30,3 +30,5 @@ public void Add(PDF3DView view)
 * class [PDF3DViewArray](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

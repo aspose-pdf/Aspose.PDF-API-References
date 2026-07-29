@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Headers
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeKey. خاصية Headers مالك خاصية الجدول
+title: "AttributeKey.Headers"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "AttributeKey حقل. Headers سمة Table سمة المالك"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/headers/
 ---
-## حقل AttributeKey.Headers
+## AttributeKey.Headers field
 
-خاصية Headers (مالك خاصية الجدول).
+خاصية Headers (مالك خاصية Table).
 
 ```csharp
 public static readonly AttributeKey Headers;
@@ -19,3 +19,5 @@ public static readonly AttributeKey Headers;
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

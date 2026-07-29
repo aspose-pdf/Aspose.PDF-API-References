@@ -1,20 +1,20 @@
 ---
-title: PdfViewer.PrintDocumentWithSettings
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfViewer. تطبع مستند Pdf مع الإعدادات. إذا كان حجم المستند لا يتوافق مع حجم الصفحة، فسيتم تمديده ليتناسب مع حجم الصفحة
+title: "PdfViewer.PrintDocumentWithSettings"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfViewer. تطبع مستند Pdf مع الإعدادات. إذا لم يتطابق حجم المستند مع حجم الصفحة فسيتم تمديده ليتناسب مع حجم الصفحة"
 type: docs
 weight: 330
 url: /ar/net/aspose.pdf.facades/pdfviewer/printdocumentwithsettings/
 ---
 ## PrintDocumentWithSettings(PageSettings, PrinterSettings) {#printdocumentwithsettings}
 
-تطبع مستند Pdf مع الإعدادات. إذا كان حجم المستند لا يتوافق مع حجم الصفحة، فسيتم تمديده ليتناسب مع حجم الصفحة.
+يطبع مستند Pdf باستخدام الإعدادات. إذا لم يتطابق حجم المستند مع حجم Page، سيتم توسيعه ليتناسب مع حجم Page.
 
 ```csharp
 public void PrintDocumentWithSettings(PageSettings pageSettings, PrinterSettings printerSettings)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | pageSettings | PageSettings | إعداد الصفحة للمستند المطبوع. |
 | printerSettings | PrinterSettings | إعداد الطابعة للمستند المطبوع. |
@@ -67,13 +67,13 @@ iewer.Close()
 
 ## PrintDocumentWithSettings(PrinterSettings) {#printdocumentwithsettings_1}
 
-تطبع مستند Pdf مع إعدادات الطابعة. سيكون حجم الصفحة الناتجة متناسبًا مع حجم الصفحة الأولى من المستند.
+يطبع مستند Pdf باستخدام إعدادات الطابعة. سيتناسب حجم صفحة الإخراج مع حجم الصفحة الأولى للمستند.
 
 ```csharp
 public void PrintDocumentWithSettings(PrinterSettings printerSettings)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | printerSettings | PrinterSettings | إعداد الطابعة للمستند المطبوع. |
 
@@ -111,3 +111,5 @@ iewer.ClosePdfFile()
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

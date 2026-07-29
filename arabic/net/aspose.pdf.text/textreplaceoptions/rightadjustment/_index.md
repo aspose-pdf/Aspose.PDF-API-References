@@ -1,14 +1,14 @@
 ---
-title: TextReplaceOptions.RightAdjustment
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية خيارات استبدال النص. تضبط أو تحصل على تعديل الموضع الأيمن للنص المستبدل عند استخدام خيارات استبدال النص  ReplaceAdjustmentAction  Hyphenation الكلمات الكاملة  ReplaceAdjustmentAction  IsFormFillingMode
+title: "TextReplaceOptions.RightAdjustment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextReplaceOptions. يضبط أو يحصل على تعديل موضع اليمين للنص المستبدل عند استخدام TextReplaceOptions  ReplaceAdjustmentAction  WholeWordsHyphenation  ReplaceAdjustmentAction  IsFormFillingMode"
 type: docs
-weight: 70
+weight: 90
 url: /ar/net/aspose.pdf.text/textreplaceoptions/rightadjustment/
 ---
-## خاصية خيارات استبدال النص. تعديل الموضع الأيمن
+## TextReplaceOptions.RightAdjustment property
 
-تضبط أو تحصل على تعديل الموضع الأيمن للنص المستبدل عند استخدام خيارات استبدال النص: - ReplaceAdjustmentAction = Hyphenation الكلمات الكاملة; - ReplaceAdjustmentAction = IsFormFillingMode;
+يعيّن أو يحصل على تعديل الموضع الأيمن للنص المستبدل عند استخدام TextReplaceOptions: - ReplaceAdjustmentAction = WholeWordsHyphenation; - ReplaceAdjustmentAction = IsFormFillingMode;
 
 ```csharp
 public double RightAdjustment { get; set; }
@@ -19,3 +19,5 @@ public double RightAdjustment { get; set; }
 * class [TextReplaceOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

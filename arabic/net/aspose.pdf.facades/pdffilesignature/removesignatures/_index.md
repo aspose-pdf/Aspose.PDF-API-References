@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.RemoveSignatures
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileSignature. تزيل جميع التوقيعات
+title: "PdfFileSignature.RemoveSignatures"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileSignature. يزيل جميع التوقيعات."
 type: docs
 weight: 260
 url: /ar/net/aspose.pdf.facades/pdffilesignature/removesignatures/
 ---
 ## PdfFileSignature.RemoveSignatures method
 
-يتم إزالة جميع التوقيعات.
+يزيل جميع التوقيعات.
 
 ```csharp
 public void RemoveSignatures()
@@ -35,3 +35,5 @@ pdfSign.Save(TestPath + "signed_removed.pdf")
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

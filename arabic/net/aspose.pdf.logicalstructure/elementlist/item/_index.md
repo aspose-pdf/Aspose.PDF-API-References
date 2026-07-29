@@ -1,26 +1,26 @@
 ---
-title: ElementList.Item
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ElementList. تسترجع عنصرًا في الفهرس المحدد
+title: "ElementList.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ElementList. تسترجع عنصرًا في الفهرس المحدد"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.logicalstructure/elementlist/item/
 ---
-## طريقة ElementList.Item
+## ElementList.Item method
 
-تسترجع عنصرًا في الفهرس المحدد.
+يسترجع عنصرًا في الفهرس المحدد.
 
 ```csharp
 public abstract Element Item(int index)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | الفهرس في قائمة العناصر. |
+| index | Int32 | الفهرس داخل قائمة العناصر. |
 
 ### قيمة الإرجاع
 
-العنصر الذي يحمل الفهرس المحدد في المجموعة. إذا كان *index* أكبر من أو يساوي عدد العناصر في القائمة، فإن هذا يُرجع null.
+العنصر مع الفهرس المحدد في المجموعة. إذا كان *index* أكبر من أو يساوي عدد العناصر في القائمة، فإن هذا يُعيد null.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public abstract Element Item(int index)
 * class [ElementList](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

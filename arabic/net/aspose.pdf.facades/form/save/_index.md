@@ -1,22 +1,22 @@
 ---
-title: Form.Save
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. تحفظ المستند في الملف المحدد
+title: "Form.Save"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. تحفظ المستند في الملف المحدد"
 type: docs
 weight: 340
 url: /ar/net/aspose.pdf.facades/form/save/
 ---
 ## Save(string) {#save_2}
 
-تحفظ المستند في الملف المحدد.
+يحفظ المستند في الملف المحدد.
 
 ```csharp
 public override void Save(string destFile)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| destFile | String | الملف الذي سيتم حفظ المستند فيه. |
+| destFile | String | الملف حيث سيتم حفظ المستند. |
 
 ### انظر أيضًا
 
@@ -28,18 +28,20 @@ public override void Save(string destFile)
 
 ## Save(Stream) {#save_1}
 
-تحفظ المستند في الدفق المحدد.
+يحفظ المستند في التدفق المحدد.
 
 ```csharp
 public override void Save(Stream destStream)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| destStream | Stream | الدفق الذي سيتم حفظ المستند فيه. |
+| destStream | Stream | التدفق حيث سيتم حفظ المستند. |
 
 ### انظر أيضًا
 
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

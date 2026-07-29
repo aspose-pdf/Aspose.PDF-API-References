@@ -1,22 +1,22 @@
 ---
-title: Rectangle.Parse
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Rectangle. حاول تحليل السلسلة واستخراج مكوناتها المستطيلة llx lly urx ury
+title: "Rectangle.Parse"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Rectangle. محاولة تحليل السلسلة واستخراج مكوّنات المستطيل llx lly urx ury منها"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/rectangle/parse/
 ---
-## طريقة Rectangle.Parse
+## Rectangle.Parse method
 
-حاول تحليل السلسلة واستخراج مكوناتها المستطيلة llx، lly، urx، ury.
+حاول تحليل السلسلة واستخراج مكوّنات المستطيل llx و lly و urx و ury منها.
 
 ```csharp
 public static Rectangle Parse(string value)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | String | السلسلة لتحليلها. |
+| القيمة | String | السلسلة للتحليل. |
 
 ### قيمة الإرجاع
 
@@ -27,3 +27,5 @@ public static Rectangle Parse(string value)
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

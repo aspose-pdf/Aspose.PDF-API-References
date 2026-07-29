@@ -1,25 +1,27 @@
 ---
-title: PageDate.DayComponent.GetFormat
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة DayComponent. تحصل على سلسلة التنسيق لعنصر اليوم
+title: "PageDate.DayComponent.GetFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "DayComponent الطريقة. يحصل على سلسلة التنسيق للمكوّن اليومي"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/pagedate.daycomponent/getformat/
 ---
 ## PageDate.DayComponent.GetFormat method
 
-تحصل على سلسلة التنسيق لعنصر اليوم.
+الحصول على سلسلة التنسيق لمكوّن اليوم.
 
 ```csharp
 public string GetFormat()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
 سلسلة تمثل تنسيق اليوم.
 
-### See Also
+### انظر أيضًا
 
 * class [DayComponent](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

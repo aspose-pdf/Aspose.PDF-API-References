@@ -1,14 +1,14 @@
 ---
-title: OptimizationOptions.All
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة خيارات التحسين. تنشئ استراتيجية تحسين مع تفعيل جميع الخيارات. يرجى ملاحظة أنه يتم تفعيل الخيارات التي لا تغير أي وظيفة من وظائف المستند فقط. أي أن ضغط الصور وإلغاء تضمين الخطوط لن يتم تفعيله.
+title: "OptimizationOptions.All"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OptimizationOptions. تنشئ استراتيجية تحسين مع تفعيل جميع الخيارات. يرجى ملاحظة أن يتم تفعيل الخيارات فقط التي لا تغير أي وظيفة في المستند. على سبيل المثال، ضغط الصور وإلغاء تضمين الخطوط لن يتم تمكينهما ويمكن تضمينهما يدويًا."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.optimization/optimizationoptions/all/
 ---
-## طريقة خيارات التحسين.الكل
+## OptimizationOptions.All method
 
-تنشئ استراتيجية تحسين مع تفعيل جميع الخيارات. يرجى ملاحظة أنه يتم تفعيل الخيارات التي لا تغير أي وظيفة من وظائف المستند فقط. أي أن ضغط الصور وإلغاء تضمين الخطوط لن يتم تفعيله (ويمكن تضمينه يدويًا).
+ينشئ استراتيجية تحسين مع تفعيل جميع الخيارات. يرجى ملاحظة أن يتم تفعيل الخيارات التي لا تغير أي وظيفة في المستند فقط. على سبيل المثال، ضغط image وإلغاء تضمين الخطوط لن يتم تفعيلهما (ويمكن تضمينهما يدويًا).
 
 ```csharp
 public static OptimizationOptions All()
@@ -16,10 +16,12 @@ public static OptimizationOptions All()
 
 ### قيمة الإرجاع
 
-كائن خيارات التحسين.
+كائن OptimizationOptions.
 
 ### انظر أيضًا
 
-* class [خيارات التحسين](../)
+* class [OptimizationOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: AttributeKey.op_Explicit
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة AttributeKey. تقوم بإجراء تحويل صريح من String إلى AttributeKey
+title: "AttributeKey.op_Explicit"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة AttributeKey. ينفّذ تحويلًا صريحًا من String إلى AttributeKey"
 type: docs
 weight: 450
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/op_explicit/
 ---
-## مشغل AttributeKey الصريح
+## AttributeKey Explicit operator
 
-يقوم بإجراء تحويل صريح من String إلى [`AttributeKey`](../).
+ينفّذ تحويلًا صريحًا من String إلى [`AttributeKey`](../).
 
 ```csharp
 public static explicit operator AttributeKey(string key)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| key | String | مفتاح السمة. |
+| المفتاح | String | مفتاح السمة. |
 
 ### قيمة الإرجاع
 
@@ -27,3 +27,5 @@ public static explicit operator AttributeKey(string key)
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,26 @@
 ---
-title: PDF3DContent.Load
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PDF3DContent. تحميل محتوى ثلاثي الأبعاد بالاسم المحدد
+title: "PDF3DContent.Load"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PDF3DContent. تقوم بتحميل محتوى ثلاثي الأبعاد باستخدام اسم الملف المحدد"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.annotations/pdf3dcontent/load/
 ---
-## طريقة PDF3DContent.Load
+## PDF3DContent.Load method
 
-تحميل محتوى ثلاثي الأبعاد بالاسم المحدد.
+يقوم بتحميل محتوى 3D بالاسم المحدد.
 
 ```csharp
 public void Load(string filename)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | filename | String | اسم الملف. |
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentException | نوع محتوى ثلاثي الأبعاد غير معروف |
 
@@ -29,3 +29,5 @@ public void Load(string filename)
 * class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

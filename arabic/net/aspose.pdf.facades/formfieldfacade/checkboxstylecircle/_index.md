@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.CheckBoxStyleCircle
-second_title: Aspose.PDF for .NET API Reference
-description: حقل FormFieldFacade. يحدد نمط مربع اختيار دائري
+title: "FormFieldFacade.CheckBoxStyleCircle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FormFieldFacade field. يحدد نمط مربع اختيار دائري"
 type: docs
 weight: 400
 url: /ar/net/aspose.pdf.facades/formfieldfacade/checkboxstylecircle/
 ---
-## حقل FormFieldFacade.CheckBoxStyleCircle
+## FormFieldFacade.CheckBoxStyleCircle field
 
-يحدد نمط مربع اختيار دائري.
+يحدد نمط خانة اختيار دائرية.
 
 ```csharp
 public const int CheckBoxStyleCircle;
@@ -19,3 +19,5 @@ public const int CheckBoxStyleCircle;
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

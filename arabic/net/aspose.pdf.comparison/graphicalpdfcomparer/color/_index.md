@@ -1,14 +1,14 @@
 ---
-title: GraphicalPdfComparer.Color
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية GraphicalPdfComparer. تحصل على وتضبط لون علامة التغيير. اللون الافتراضي هو الأحمر
+title: "GraphicalPdfComparer.Color"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية GraphicalPdfComparer. تحصّل أو تعيين لون علم التغيير. اللون الافتراضي هو الأحمر"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.comparison/graphicalpdfcomparer/color/
 ---
-## خاصية GraphicalPdfComparer.Color
+## GraphicalPdfComparer.Color property
 
-تحصل على وتضبط لون علامة التغيير. اللون الافتراضي هو الأحمر.
+يحصل على ويضبط لون علم التغيير. اللون الافتراضي هو الأحمر.
 
 ```csharp
 public Color Color { get; set; }
@@ -20,3 +20,5 @@ public Color Color { get; set; }
 * class [GraphicalPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

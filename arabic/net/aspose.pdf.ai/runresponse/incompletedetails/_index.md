@@ -1,14 +1,14 @@
 ---
-title: RunResponse.IncompleteDetails
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunResponse. تحصل أو تعين التفاصيل حول سبب عدم اكتمال التشغيل. ستكون null إذا لم يكن التشغيل غير مكتمل
+title: "RunResponse.IncompleteDetails"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RunResponse. تحصل أو تعين التفاصيل التي توضح سبب عدم اكتمال التنفيذ. ستكون null إذا لم يكن التنفيذ غير مكتمل"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.ai/runresponse/incompletedetails/
 ---
-## خاصية RunResponse.IncompleteDetails
+## RunResponse.IncompleteDetails property
 
-تحصل أو تعين التفاصيل حول سبب عدم اكتمال التشغيل. ستكون null إذا لم يكن التشغيل غير مكتمل.
+يحصل أو يعيّن التفاصيل حول سبب عدم اكتمال التشغيل. سيكون فارغًا (null) إذا لم يكن التشغيل غير مكتمل.
 
 ```csharp
 public IncompleteDetails IncompleteDetails { get; set; }
@@ -20,3 +20,5 @@ public IncompleteDetails IncompleteDetails { get; set; }
 * class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,26 @@
 ---
-title: CharInfoCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة CharInfoCollection. تحدد ما إذا كانت المجموعة تحتوي على قيمة معينة
+title: "CharInfoCollection.Contains"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "CharInfoCollection method. Determines whether the collection contains a specific value"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.text/charinfocollection/contains/
 ---
-## طريقة CharInfoCollection.Contains
+## CharInfoCollection.Contains method
 
-تحدد ما إذا كانت المجموعة تحتوي على قيمة معينة.
+يحدد ما إذا كانت المجموعة تحتوي على قيمة محددة.
 
 ```csharp
 public bool Contains(CharInfo item)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| item | CharInfo | الكائن الذي سيتم تحديد موقعه في المجموعة |
+| item | CharInfo | The object to locate in the collection |
 
 ### قيمة الإرجاع
 
-true إذا تم العثور على item في المجموعة؛ خلاف ذلك، false.
+true if item is found in the collection; otherwise, false.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ true إذا تم العثور على item في المجموعة؛ خلاف ذل�
 * class [CharInfoCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

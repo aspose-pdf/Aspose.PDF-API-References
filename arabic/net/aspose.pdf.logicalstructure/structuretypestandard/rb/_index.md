@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.RB
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeStandard. نص قاعدة روبي النص الكامل الذي يتم تطبيق تعليق روبي عليه. قد يحتوي RB على نص، عناصر مضمنة أخرى، أو مزيج من كليهما. قد يحتوي على خاصية RubyAlign.
+title: "StructureTypeStandard.RB"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "StructureTypeStandard field. نص أساسي للروبي النص الكامل الذي تُطبق عليه تعليقة الروبي. قد يحتوي RB على نص أو عناصر مضمنة أخرى أو مزيج من كليهما. قد يحتوي على خاصية RubyAlignattribute"
 type: docs
 weight: 310
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/rb/
 ---
-## حقل StructureTypeStandard.RB
+## StructureTypeStandard.RB field
 
-(نص قاعدة روبي) النص الكامل الذي يتم تطبيق تعليق روبي عليه. قد يحتوي RB على نص، عناصر مضمنة أخرى، أو مزيج من كليهما. قد يحتوي على خاصية RubyAlign.
+(نص أساسي للروبي) النص بالحجم الكامل الذي تُطبق عليه تعليقة الروبي. قد يحتوي RB على نص، أو عناصر مضمنة أخرى، أو مزيج من كليهما. قد يحتوي على خاصية RubyAlignattribute.
 
 ```csharp
 public static readonly StructureTypeStandard RB;
@@ -19,3 +19,5 @@ public static readonly StructureTypeStandard RB;
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum Duplex
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.Duplex enum. يحدد إعدادات الطباعة المزدوجة للطابعة
+title: "تعداد Duplex"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Printing.Duplex enum. يحدد إعداد الطباعة مزدوجة الوجه للطابعات"
 type: docs
-weight: 9530
+weight: 9680
 url: /ar/net/aspose.pdf.printing/duplex/
 ---
-## تعداد الطباعة المزدوجة
+## Duplex enumeration
 
-يحدد إعدادات الطباعة المزدوجة للطابعة.
+يحدد إعداد الطباعة المزدوجة للطابعة.
 
 ```csharp
 public enum Duplex
@@ -18,12 +18,14 @@ public enum Duplex
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Default | `-1` | إعداد الطباعة المزدوجة الافتراضي للطابعة. |
-| Simplex | `1` | الطباعة على جانب واحد. |
-| Horizontal | `3` | الطباعة المزدوجة، الطباعة الأفقية. |
-| Vertical | `2` | الطباعة المزدوجة، الطباعة الرأسية. |
+| Default | `-1` | الإعداد الافتراضي للطباعة المزدوجة للطابعة. |
+| Simplex | `1` | طباعة على جانب واحد. |
+| Horizontal | `3` | طباعة مزدوجة، أفقية. |
+| Vertical | `2` | طباعة مزدوجة، عمودية. |
 
 ### انظر أيضًا
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

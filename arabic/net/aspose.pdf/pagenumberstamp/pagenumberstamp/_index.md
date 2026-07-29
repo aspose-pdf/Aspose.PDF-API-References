@@ -1,34 +1,34 @@
 ---
-title: PageNumberStamp.PageNumberStamp
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PageNumberStamp. يقوم بتهيئة مثيل جديد من فئة PageNumberStamp
+title: "PageNumberStamp.PageNumberStamp"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PageNumberStamp. يهيئ نسخة جديدة من فئة PageNumberStamp"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/pagenumberstamp/pagenumberstamp/
 ---
 ## PageNumberStamp(string) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد من فئة [`PageNumberStamp`](../).
+يُهيئ نسخة جديدة من الفئة [`PageNumberStamp`](../).
 
 ```csharp
 public PageNumberStamp(string format)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| format | String | قيمة سلسلة تستخدم للطباعة. انظر خاصية [`Format`](../format/) للحصول على التفاصيل. |
+| format | String | قيمة السلسلة المستخدمة للطباعة. راجع خاصية [`Format`](../format/) للحصول على التفاصيل. |
 
 ### انظر أيضًا
 
-* فئة [PageNumberStamp](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [PageNumberStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PageNumberStamp() {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`PageNumberStamp`](../). يتم تعيين التنسيق إلى "#".
+ينشئ مثلاً جديداً من الفئة [`PageNumberStamp`](../). تم تعيين الخاصية Format إلى "#".
 
 ```csharp
 public PageNumberStamp()
@@ -36,27 +36,29 @@ public PageNumberStamp()
 
 ### انظر أيضًا
 
-* فئة [PageNumberStamp](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [PageNumberStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PageNumberStamp(FormattedText) {#constructor_1}
 
-ينشئ PageNumberStamp بواسطة نص منسق.
+ينشئ PageNumberStamp باستخدام نص مُنسق.
 
 ```csharp
 public PageNumberStamp(FormattedText formattedText)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| formattedText | FormattedText | نص منسق يُستخدم لإنشاء طابع رقم الصفحة. |
+| formattedText | FormattedText | النص المنسق المستخدم لإنشاء ختم رقم الصفحة. |
 
 ### انظر أيضًا
 
-* فئة [FormattedText](../../../aspose.pdf.facades/formattedtext/)
-* فئة [PageNumberStamp](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
+* class [PageNumberStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

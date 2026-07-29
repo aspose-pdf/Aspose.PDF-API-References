@@ -1,24 +1,24 @@
 ---
-title: HideAction.HideAction
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ HideAction. يقوم بتهيئة مثيل جديد من فئة HideAction للتعليق المحدد
+title: "HideAction.HideAction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ HideAction. يقوم بإنشاء نسخة جديدة من الفئة HideAction للشرح المحدد"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/hideaction/hideaction/
 ---
 ## HideAction(Annotation) {#constructor}
 
-يهيئ مثيلًا جديدًا من فئة [`HideAction`](../) للتعليق المحدد.
+يقوم بإنشاء نسخة جديدة من الفئة [`HideAction`](../) للشرح المحدد.
 
 ```csharp
 public HideAction(Annotation annotation)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| annotation | Annotation | تعليق يجب إخفاؤه. |
+| annotation | Annotation | شرح ليتم إخفاؤه. |
 
-### See Also
+### انظر أيضًا
 
 * class [Annotation](../../annotation/)
 * class [HideAction](../)
@@ -29,18 +29,18 @@ public HideAction(Annotation annotation)
 
 ## HideAction(Annotation, bool) {#constructor_1}
 
-يهيئ مثيلًا جديدًا من فئة [`HideAction`](../) للتعليق المحدد وعلم عدم الظهور.
+يقوم بإنشاء نسخة جديدة من الفئة [`HideAction`](../) للشرح المحدد وعلامة عدم الظهور.
 
 ```csharp
 public HideAction(Annotation annotation, bool isHidden)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| annotation | Annotation | تعليق يجب إخفاؤه أو إظهاره. |
-| isHidden | Boolean | علم يشير إلى ما إذا كان يجب إخفاء التعليق (true) أو إظهاره (false). |
+| annotation | Annotation | شرح ليتم إخفاؤه أو إظهاره. |
+| isHidden | Boolean | علامة تشير إلى ما إذا كان يجب إخفاء الشرح (true) أو إظهاره (false). |
 
-### See Also
+### انظر أيضًا
 
 * class [Annotation](../../annotation/)
 * class [HideAction](../)
@@ -51,17 +51,17 @@ public HideAction(Annotation annotation, bool isHidden)
 
 ## HideAction(string) {#constructor_4}
 
-يهيئ مثيلًا جديدًا من فئة [`HideAction`](../) لاسم الحقل المحدد.
+يقوم بإنشاء نسخة جديدة من الفئة [`HideAction`](../) لاسم الحقل المحدد.
 
 ```csharp
 public HideAction(string fieldName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fieldName | String | سلسلة نصية تعطي الاسم المؤهل بالكامل لحقل نموذج تفاعلي. |
+| fieldName | String | سلسلة نصية تُعطي الاسم المؤهل بالكامل لحقل نموذج تفاعلي. |
 
-### See Also
+### انظر أيضًا
 
 * class [HideAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
@@ -71,18 +71,18 @@ public HideAction(string fieldName)
 
 ## HideAction(string, bool) {#constructor_5}
 
-يهيئ مثيلًا جديدًا من فئة [`HideAction`](../) لاسم الحقل المحدد وعلم عدم الظهور.
+يُنشئ مثيلاً جديداً من الفئة [`HideAction`](../) للاسم المحدد للحقل وعلم الإخفاء.
 
 ```csharp
 public HideAction(string fieldName, bool isHidden)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fieldName | String | سلسلة نصية تعطي الاسم المؤهل بالكامل لحقل نموذج تفاعلي. |
-| isHidden | Boolean | علم يشير إلى ما إذا كان يجب إخفاء الحقل (true) أو إظهاره (false). |
+| fieldName | String | سلسلة نصية تُعطي الاسم المؤهل بالكامل لحقل نموذج تفاعلي. |
+| isHidden | Boolean | علامة تُشير إلى ما إذا كان يجب إخفاء الحقل (true) أو إظهاره (false). |
 
-### See Also
+### انظر أيضًا
 
 * class [HideAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
@@ -92,17 +92,17 @@ public HideAction(string fieldName, bool isHidden)
 
 ## HideAction(Annotation[]) {#constructor_2}
 
-يهيئ مثيلًا جديدًا من فئة [`HideAction`](../) للتعليقات المحددة.
+يُنشئ مثيلاً جديداً من الفئة [`HideAction`](../) للتعليقات التوضيحية المحددة.
 
 ```csharp
 public HideAction(Annotation[] annotations)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| annotations | Annotation[] | مصفوفة من التعليقات التي يجب إخفاؤها. |
+| التعليقات التوضيحية | Annotation[] | مصفوفة من التعليقات التوضيحية التي سيتم إخفاؤها. |
 
-### See Also
+### انظر أيضًا
 
 * class [Annotation](../../annotation/)
 * class [HideAction](../)
@@ -113,18 +113,18 @@ public HideAction(Annotation[] annotations)
 
 ## HideAction(Annotation[], bool) {#constructor_3}
 
-يهيئ مثيلًا جديدًا من فئة [`HideAction`](../) للتعليقات المحددة وعلم عدم الظهور.
+يُنشئ مثيلاً جديداً من الفئة [`HideAction`](../) للتعليقات التوضيحية المحددة وعلم الإخفاء.
 
 ```csharp
 public HideAction(Annotation[] annotations, bool isHidden)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| annotations | Annotation[] | مصفوفة من التعليقات التي يجب إخفاؤها أو إظهارها. |
-| isHidden | Boolean | علم يشير إلى ما إذا كان يجب إخفاء التعليقات (true) أو إظهارها (false). |
+| التعليقات التوضيحية | Annotation[] | مصفوفة من التعليقات التوضيحية التي سيتم إخفاؤها أو إظهارها. |
+| isHidden | Boolean | علامة تُشير إلى ما إذا كان يجب إخفاء التعليقات التوضيحية (true) أو إظهارها (false). |
 
-### See Also
+### انظر أيضًا
 
 * class [Annotation](../../annotation/)
 * class [HideAction](../)
@@ -135,17 +135,17 @@ public HideAction(Annotation[] annotations, bool isHidden)
 
 ## HideAction(string[]) {#constructor_6}
 
-يهيئ مثيلًا جديدًا من فئة [`HideAction`](../) لأسماء الحقول المحددة.
+يُنشئ مثيلاً جديداً من الفئة [`HideAction`](../) لأسماء الحقول المحددة.
 
 ```csharp
 public HideAction(string[] names)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| names | String[] | مصفوفة من السلاسل النصية التي تعطي الأسماء المؤهلة بالكامل لحقول نموذج تفاعلي. |
+| الأسماء | String[] | مصفوفة من السلاسل النصية تُعطي الأسماء المؤهلة بالكامل لحقول نموذج تفاعلية. |
 
-### See Also
+### انظر أيضًا
 
 * class [HideAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
@@ -155,19 +155,21 @@ public HideAction(string[] names)
 
 ## HideAction(string[], bool) {#constructor_7}
 
-يهيئ مثيلًا جديدًا من فئة [`HideAction`](../) لأسماء الحقول المحددة وعلم عدم الظهور.
+يُنشئ مثيلاً جديداً من الفئة [`HideAction`](../) لأسماء الحقول المحددة وعلم الإخفاء.
 
 ```csharp
 public HideAction(string[] names, bool isHidden)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| names | String[] | مصفوفة من السلاسل النصية التي تعطي الأسماء المؤهلة بالكامل لحقول نموذج تفاعلي. |
-| isHidden | Boolean | علم يشير إلى ما إذا كان يجب إخفاء الحقول (true) أو إظهارها (false). |
+| الأسماء | String[] | مصفوفة من السلاسل النصية تُعطي الأسماء المؤهلة بالكامل لحقول نموذج تفاعلية. |
+| isHidden | Boolean | علامة تُشير إلى ما إذا كان يجب إخفاء الحقول (true) أو إظهارها (false). |
 
-### See Also
+### انظر أيضًا
 
 * class [HideAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

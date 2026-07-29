@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.KeepFieldsUnique
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileEditor. إذا كانت صحيحة، فسيتم جعل أسماء الحقول فريدة عند دمج النماذج. سيتم إضافة لواحق إلى أسماء الحقول، ويمكن تحديد قالب اللواحق في خاصية UniqueSuffix
+title: "PdfFileEditor.KeepFieldsUnique"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileEditor. إذا كان صحيحًا فسيتم جعل أسماء الحقول فريدة عند دمج النماذج. ستُضاف لاحقات إلى أسماء الحقول ويمكن تحديد قالب اللاحقة في خاصية UniqueSuffix."
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.facades/pdffileeditor/keepfieldsunique/
 ---
-## خاصية PdfFileEditor.KeepFieldsUnique
+## PdfFileEditor.KeepFieldsUnique property
 
-إذا كانت صحيحة، فسيتم جعل أسماء الحقول فريدة عند دمج النماذج. سيتم إضافة لواحق إلى أسماء الحقول، ويمكن تحديد قالب اللواحق في خاصية UniqueSuffix.
+إذا كان صحيحًا فستصبح أسماء الحقول فريدة عند دمج النماذج. ستُضاف لاحقات إلى أسماء الحقول، ويمكن تحديد قالب اللاحقة في الخاصية UniqueSuffix.
 
 ```csharp
 public bool KeepFieldsUnique { get; set; }
@@ -19,3 +19,5 @@ public bool KeepFieldsUnique { get; set; }
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

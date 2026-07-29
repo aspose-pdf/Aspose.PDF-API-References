@@ -1,14 +1,14 @@
 ---
-title: Dash.Off
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Dash. تحصل أو تعين طول الفجوة الأولى بين الشرطات
+title: "Dash.Off"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Dash. يحصل على أو يضبط طول الفاصل الأول بين الشرط"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/dash/off/
 ---
-## خاصية Dash.Off
+## Dash.Off property
 
-تحصل أو تعين طول الفجوة الأولى بين الشرطات.
+يحصل أو يعيّن طول الفاصل الأول بين الشرطات.
 
 ```csharp
 public int Off { get; set; }
@@ -19,3 +19,5 @@ public int Off { get; set; }
 * class [Dash](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

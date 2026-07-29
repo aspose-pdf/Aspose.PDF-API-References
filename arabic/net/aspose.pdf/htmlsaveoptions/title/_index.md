@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.Title
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية HtmlSaveOptions. تحصل أو تعين عنوان صفحة HTML
+title: "HtmlSaveOptions.Title"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية HtmlSaveOptions. تحصل أو تعين عنوان صفحة HTML."
 type: docs
 weight: 210
 url: /ar/net/aspose.pdf/htmlsaveoptions/title/
 ---
-## خاصية HtmlSaveOptions.Title
+## HtmlSaveOptions.Title property
 
-تحصل أو تعين عنوان صفحة HTML.
+يحصل أو يضبط عنوان صفحة HTML.
 
 ```csharp
 public string Title { get; set; }
@@ -19,3 +19,5 @@ public string Title { get; set; }
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: GraphicElement.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية GraphicElement. تحصل على المستطيل المحيط بـ GraphicElement
+title: "GraphicElement.Rectangle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية GraphicElement. تُرجِع المستطيل الحدودي للـ GraphicElement"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.vector/graphicelement/rectangle/
 ---
-## خاصية GraphicElement.Rectangle
+## GraphicElement.Rectangle property
 
-تحصل على المستطيل المحيط بـ [`GraphicElement`](../).
+يحصل على المستطيل المحيط بـ [`GraphicElement`](../).
 
 ```csharp
 public abstract Rectangle Rectangle { get; }
@@ -20,3 +20,5 @@ public abstract Rectangle Rectangle { get; }
 * class [GraphicElement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

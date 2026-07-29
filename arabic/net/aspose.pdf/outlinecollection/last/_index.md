@@ -1,14 +1,14 @@
 ---
-title: OutlineCollection.Last
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OutlineCollection. تحصل على عنصر مخطط يمثل آخر عنصر في المستوى الأعلى في المخطط
+title: "OutlineCollection.Last"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OutlineCollection. تُعيد عنصر مخطط يمثل آخر عنصر من المستوى الأعلى في المخطط"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/outlinecollection/last/
 ---
-## خاصية OutlineCollection.Last
+## OutlineCollection.Last property
 
-تحصل على عنصر مخطط يمثل آخر عنصر في المستوى الأعلى في المخطط.
+يحصل على عنصر مخطط يمثل العنصر الأخير من المستوى الأعلى في المخطط.
 
 ```csharp
 public OutlineItemCollection Last { get; }
@@ -20,3 +20,5 @@ public OutlineItemCollection Last { get; }
 * class [OutlineCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

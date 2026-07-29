@@ -1,24 +1,24 @@
 ---
-title: SquareAnnotation.SquareAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SquareAnnotation. مُنشئ للاستخدام مع Generator
+title: "SquareAnnotation.SquareAnnotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SquareAnnotation. منشئ للاستخدام مع Generator"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/squareannotation/squareannotation/
 ---
 ## SquareAnnotation(Document) {#constructor}
 
-مُنشئ للاستخدام مع Generator.
+منشئ للاستخدام مع Generator.
 
 ```csharp
 public SquareAnnotation(Document document)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| document | Document | المستند الذي سيتم إنشاء التعليق فيه. |
+| document | Document | المستند حيث سيتم إنشاء التعليق التوضيحي. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [SquareAnnotation](../)
@@ -29,21 +29,23 @@ public SquareAnnotation(Document document)
 
 ## SquareAnnotation(Page, Rectangle) {#constructor_1}
 
-ينشئ تعليق مربع جديد على الصفحة المحددة.
+ينشئ تعليقا جديدا من نوع Square على الصفحة المحددة.
 
 ```csharp
 public SquareAnnotation(Page page, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | صفحة المستند حيث يجب إنشاء التعليق. |
-| rect | Rectangle | مستطيل التعليق، الذي يحدد موقع التعليق على الصفحة. |
+| صفحة | صفحة | صفحة المستند حيث يجب إنشاء التعليق التوضيحي. |
+| rect | Rectangle | مستطيل التعليق التوضيحي، يحدد موقع التعليق التوضيحي على الصفحة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [SquareAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

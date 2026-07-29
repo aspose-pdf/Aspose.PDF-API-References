@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.GetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAISummaryCopilotOptions. تحصل على خيارات OpenAISummaryCopilotOptions الحالية
+title: "OpenAISummaryCopilotOptions.GetOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAISummaryCopilotOptions. الحصول على OpenAISummaryCopilotOptions الحالي"
 type: docs
-weight: 40
+weight: 50
 url: /ar/net/aspose.pdf.ai/openaisummarycopilotoptions/getoptions/
 ---
-## طريقة OpenAISummaryCopilotOptions.GetOptions
+## OpenAISummaryCopilotOptions.GetOptions method
 
-تحصل على [`OpenAISummaryCopilotOptions`](../) الحالية.
+الحصول على [`OpenAISummaryCopilotOptions`](../) الحالي.
 
 ```csharp
 public OpenAISummaryCopilotOptions GetOptions()
@@ -16,10 +16,12 @@ public OpenAISummaryCopilotOptions GetOptions()
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAISummaryCopilotOptions`](../).
+العنصر الحالي من [`OpenAISummaryCopilotOptions`](../).
 
 ### انظر أيضًا
 
-* فئة [OpenAISummaryCopilotOptions](../)
-* مساحة الأسماء [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

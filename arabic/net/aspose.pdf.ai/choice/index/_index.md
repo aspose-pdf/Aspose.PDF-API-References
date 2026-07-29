@@ -1,14 +1,14 @@
 ---
-title: Choice.Index
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Choice. تحصل أو تعين فهرس الخيار في قائمة الخيارات
+title: "Choice.Index"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Choice. تحصل أو تُعيّن فهرس الاختيار في قائمة الاختيارات"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/choice/index/
 ---
-## خاصية Choice.Index
+## Choice.Index property
 
-تحصل أو تعين فهرس الخيار في قائمة الخيارات.
+يسترجع أو يعيّن فهرس الخيار في قائمة الخيارات.
 
 ```csharp
 public int Index { get; set; }
@@ -19,3 +19,5 @@ public int Index { get; set; }
 * class [Choice](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

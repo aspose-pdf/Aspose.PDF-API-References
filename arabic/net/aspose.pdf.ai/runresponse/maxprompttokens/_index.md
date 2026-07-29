@@ -1,14 +1,14 @@
 ---
-title: RunResponse.MaxPromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunResponse. تحصل أو تعين الحد الأقصى لعدد رموز المطالبة المحددة التي يُفترض استخدامها خلال فترة التشغيل
+title: "RunResponse.MaxPromptTokens"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RunResponse. تحصل أو تعين الحد الأقصى لعدد رموز المطالبة المحددة التي تم استخدامها خلال مسار التنفيذ"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.ai/runresponse/maxprompttokens/
 ---
-## خاصية RunResponse.MaxPromptTokens
+## RunResponse.MaxPromptTokens property
 
-تحصل أو تعين الحد الأقصى لعدد رموز المطالبة المحددة التي يُفترض استخدامها خلال فترة التشغيل.
+يحصل أو يعيّن الحد الأقصى لعدد رموز المطالبة المحددة التي تم استخدامها خلال تشغيل العملية.
 
 ```csharp
 public int? MaxPromptTokens { get; set; }
@@ -19,3 +19,5 @@ public int? MaxPromptTokens { get; set; }
 * class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,26 @@
 ---
-title: AppearanceDictionary.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة AppearanceDictionary. تتحقق مما إذا كانت زوج المفتاح والقيمة المحدد موجودًا في القاموس
+title: "AppearanceDictionary.Contains"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة AppearanceDictionary. تتحقق مما إذا كان زوج المفتاح والقيمة المحدد موجودًا في القاموس."
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.annotations/appearancedictionary/contains/
 ---
-## طريقة AppearanceDictionary.Contains
+## AppearanceDictionary.Contains method
 
-تتحقق مما إذا كانت زوج المفتاح والقيمة المحدد موجودًا في القاموس.
+يتحقق مما إذا كان زوج المفتاح-القيمة المحدد موجودًا في القاموس.
 
 ```csharp
 public bool Contains(KeyValuePair<string, XForm> item)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | item | KeyValuePair`2 | زوج المفتاح والقيمة. |
 
 ### قيمة الإرجاع
 
-true إذا تم العثور على هذا الزوج.
+صحيح إذا تم العثور على هذا الزوج.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ true إذا تم العثور على هذا الزوج.
 * class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

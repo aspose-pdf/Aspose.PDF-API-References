@@ -1,26 +1,28 @@
 ---
-title: Cells.RemoveRange
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Cells. إزالة مجموعة خلايا من المجموعة
+title: "Cells.RemoveRange"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Cells. إزالة مجموعة الخلايا من التجميع"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/cells/removerange/
 ---
-## طريقة Cells.RemoveRange
+## Cells.RemoveRange method
 
-إزالة مجموعة خلايا من المجموعة.
+إزالة مجموعة الخلايا من المجموعة.
 
 ```csharp
 public void RemoveRange(int index, int count)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | فهرس المجموعة. |
-| count | Int32 | عدد الصفوف. |
+| index | Int32 | فهرس التجميع. |
+| عدد | Int32 | عدد الصفوف. |
 
 ### انظر أيضًا
 
 * class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

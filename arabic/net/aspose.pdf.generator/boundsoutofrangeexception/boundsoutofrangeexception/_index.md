@@ -1,14 +1,14 @@
 ---
-title: BoundsOutOfRangeException.BoundsOutOfRangeException
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ BoundsOutOfRangeException. يقوم بتهيئة مثيل جديد من فئة BoundsOutOfRangeException
+title: "BoundsOutOfRangeException.BoundsOutOfRangeException"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ BoundsOutOfRangeException. يهيئ مثيلًا جديدًا من الفئة BoundsOutOfRangeException"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.generator/boundsoutofrangeexception/boundsoutofrangeexception/
 ---
 ## BoundsOutOfRangeException() {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`BoundsOutOfRangeException`](../).
+يهيئ مثيلًا جديدًا من الفئة [`BoundsOutOfRangeException`](../).
 
 ```csharp
 public BoundsOutOfRangeException()
@@ -24,15 +24,15 @@ public BoundsOutOfRangeException()
 
 ## BoundsOutOfRangeException(string) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة [`BoundsOutOfRangeException`](../) مع رسالة خطأ محددة.
+يُنشئ مثيلاً جديدًا من الفئة [`BoundsOutOfRangeException`](../) برسالة خطأ محددة.
 
 ```csharp
 public BoundsOutOfRangeException(string message)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| message | String | رسالة الخطأ التي تشرح سبب الاستثناء. |
+| رسالة | String | رسالة الخطأ التي توضح سبب الاستثناء. |
 
 ### انظر أيضًا
 
@@ -44,15 +44,15 @@ public BoundsOutOfRangeException(string message)
 
 ## BoundsOutOfRangeException(string, double, double) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد من فئة [`BoundsOutOfRangeException`](../) مع رسالة خطأ محددة وأبعاد العنصر.
+يُنشئ مثيلاً جديدًا من الفئة [`BoundsOutOfRangeException`](../) برسالة خطأ محددة وأبعاد العنصر.
 
 ```csharp
 public BoundsOutOfRangeException(string message, double containerWidth, double containerHeight)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| message | String | رسالة الخطأ التي تشرح سبب الاستثناء. |
+| رسالة | String | رسالة الخطأ التي توضح سبب الاستثناء. |
 | containerWidth | Double | عرض الحاوية. |
 | containerHeight | Double | ارتفاع الحاوية. |
 
@@ -61,3 +61,5 @@ public BoundsOutOfRangeException(string message, double containerWidth, double c
 * class [BoundsOutOfRangeException](../)
 * namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../../)
+
+

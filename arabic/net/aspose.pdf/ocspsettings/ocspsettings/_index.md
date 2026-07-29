@@ -1,25 +1,27 @@
 ---
-title: OcspSettings.OcspSettings
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ OcspSettings. يُهيئ مثيلًا جديدًا من فئة OcspSettings
+title: "OcspSettings.OcspSettings"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ OcspSettings. يهيئ مثيلاً جديداً لفئة OcspSettings"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/ocspsettings/ocspsettings/
 ---
-## مُنشئ OcspSettings
+## OcspSettings constructor
 
-يُهيئ مثيلًا جديدًا من فئة [`OcspSettings`](../).
+يهيئ مثيلاً جديداً للفئة [`OcspSettings`](../).
 
 ```csharp
 public OcspSettings(string serverUrl)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| serverUrl | String | عنوان URL لخادم ocsp. |
+| serverUrl | String | عنوان خادم OCSP. |
 
 ### انظر أيضًا
 
-* الفئة [OcspSettings](../)
-* مساحة الاسم [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [OcspSettings](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

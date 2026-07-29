@@ -1,12 +1,12 @@
 ---
-title: Measure.NumberFormat.UnitLabel
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية NumberFormat. سلسلة نصية تحدد تسمية لعرض الوحدات
+title: "Measure.NumberFormat.UnitLabel"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية NumberFormat. سلسلة نصية تحدد تسمية لعرض الوحدات"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.annotations/measure.numberformat/unitlabel/
 ---
-## خاصية Measure.NumberFormat.UnitLabel
+## Measure.NumberFormat.UnitLabel property
 
 سلسلة نصية تحدد تسمية لعرض الوحدات.
 
@@ -19,3 +19,5 @@ public string UnitLabel { get; set; }
 * class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

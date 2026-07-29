@@ -1,14 +1,14 @@
 ---
-title: Class Dash
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.Dash. فئة تمثل نمط خط متقطع
+title: "الفئة Dash"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Annotations.Dash. تمثل الفئة نمط الخط المتقطع."
 type: docs
-weight: 1650
+weight: 1740
 url: /ar/net/aspose.pdf.annotations/dash/
 ---
-## فئة داش
+## Dash class
 
-فئة تمثل نمط خط متقطع.
+فئة تمثل نمط الخط المتقطع.
 
 ```csharp
 public sealed class Dash
@@ -18,18 +18,20 @@ public sealed class Dash
 
 | الاسم | الوصف |
 | --- | --- |
-| [Dash](dash/#constructor_1)(int[]) | منشئ لفئة داش. يحدد نمطًا من الخطوط المتقطعة والفجوات التي سيتم استخدامها في رسم حدود متقطعة. |
-| [Dash](dash/#constructor)(int, int) | منشئ لفئة داش. يحدد حدودًا متقطعة مع خط وفجوة محددين، والتي تظل ثابتة طوال الحدود المتقطعة. |
+| [Dash](dash/#constructor_1)(int[]) | منشئ لفئة Dash. يحدد نمطًا من الشرطات والفواصل سيُستخدم في رسم حد متقطع. |
+| [Dash](dash/#constructor)(int, int) | منشئ لفئة Dash. يحدد حدًا متقطعًا بالشرطة والفاصل المحددين، واللذان يبقيان ثابتين لكامل الحد المتقطع. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Off](../../aspose.pdf.annotations/dash/off/) { get; set; } | يحصل أو يحدد طول الفجوة الأولى بين الخطوط المتقطعة. |
-| [On](../../aspose.pdf.annotations/dash/on/) { get; set; } | يحصل أو يحدد طول الخط المتقطع الأول. |
-| [Pattern](../../aspose.pdf.annotations/dash/pattern/) { get; } | يحصل على مصفوفة الخطوط المتقطعة التي تحدد نمط الخطوط المتقطعة والفجوات التي سيتم استخدامها في رسم حدود متقطعة. |
+| [Off](../../aspose.pdf.annotations/dash/off/) { get; set; } | يحصل أو يعيّن طول الفاصل الأول بين الشرطات. |
+| [On](../../aspose.pdf.annotations/dash/on/) { get; set; } | يحصل أو يعيّن طول الشَرطَة الأولى. |
+| [Pattern](../../aspose.pdf.annotations/dash/pattern/) { get; } | يحصل على مصفوفة الشرطات التي تحدد نمطًا من الشرطات والفواصل سيُستخدم في رسم حد متقطع. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

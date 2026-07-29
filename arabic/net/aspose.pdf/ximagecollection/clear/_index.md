@@ -1,14 +1,14 @@
 ---
-title: XImageCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XImageCollection. تقوم بمسح جميع العناصر من المجموعة
+title: "XImageCollection.Clear"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XImageCollection. تمسح جميع العناصر من المجموعة."
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/ximagecollection/clear/
 ---
-## طريقة XImageCollection.Clear
+## XImageCollection.Clear method
 
-تقوم بمسح جميع العناصر من المجموعة.
+يمسح جميع العناصر من المجموعة.
 
 ```csharp
 public void Clear()
@@ -19,3 +19,5 @@ public void Clear()
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

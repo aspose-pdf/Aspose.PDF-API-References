@@ -1,14 +1,14 @@
 ---
-title: RunResponse.AssistantId
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunResponse. تحصل أو تعين معرف المساعد المستخدم لتنفيذ هذا التشغيل
+title: "RunResponse.AssistantId"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RunResponse. تحصل أو تعين معرّف المساعد المستخدم في تنفيذ هذا التنفيذ"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/runresponse/assistantid/
 ---
-## خاصية RunResponse.AssistantId
+## RunResponse.AssistantId property
 
-تحصل أو تعين معرف المساعد المستخدم لتنفيذ هذا التشغيل.
+يحصل أو يعيّن معرّف المساعد المستخدم لتنفيذ هذا التشغيل.
 
 ```csharp
 public string AssistantId { get; set; }
@@ -19,3 +19,5 @@ public string AssistantId { get; set; }
 * class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

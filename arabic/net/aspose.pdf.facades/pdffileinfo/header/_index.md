@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.Header
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileInfo. تحصل أو تعين المعلومات المخصصة لوثيقة PDF
+title: "PdfFileInfo.Header"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileInfo. تحصل أو تعين المعلومات المخصصة لوثيقة PDF"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.facades/pdffileinfo/header/
 ---
-## خاصية PdfFileInfo.Header
+## PdfFileInfo.Header property
 
-تحصل أو تعين المعلومات المخصصة لوثيقة PDF.
+Gets or sets the customized information of PDF document.
 
 ```csharp
 public Dictionary<string, string> Header { get; set; }
@@ -19,3 +19,5 @@ public Dictionary<string, string> Header { get; set; }
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

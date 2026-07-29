@@ -1,14 +1,14 @@
 ---
-title: TextSearchOptions.SearchInAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextSearchOptions. تحصل أو تعين قيمة تسمح بالبحث عن النص في التعليقات. true - سيتم البحث عن النص في التعليقات. false - لن يتم تحليل النص في التعليقات بواسطة TextFragmentAbsorber
+title: "TextSearchOptions.SearchInAnnotations"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextSearchOptions. يحصل أو يضبط القيمة التي تسمح بالبحث عن النص في التعليقات التوضيحية. true  سيتم البحث عن النص في التعليقات التوضيحية. false  النص في التعليقات التوضيحية لن يتم تحليله بواسطة TextFragmentAbsorber"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.text/textsearchoptions/searchinannotations/
 ---
-## خاصية TextSearchOptions.SearchInAnnotations
+## TextSearchOptions.SearchInAnnotations property
 
-تحصل أو تعين قيمة تسمح بالبحث عن النص في التعليقات. true - سيتم البحث عن النص في التعليقات. false - لن يتم تحليل النص في التعليقات بواسطة TextFragmentAbsorber.
+الحصول أو الضبط قيمة تسمح بالبحث عن النص في Annotations. true - سيُبحث النص في Annotations. false - لن يتم تحليل النص في Annotations بواسطة TextFragmentAbsorber.
 
 ```csharp
 public bool SearchInAnnotations { get; set; }
@@ -19,3 +19,5 @@ public bool SearchInAnnotations { get; set; }
 * class [TextSearchOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

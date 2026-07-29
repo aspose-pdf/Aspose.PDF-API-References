@@ -1,32 +1,32 @@
 ---
-title: FormEditor.AddListItem
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormEditor. تضيف عنصرًا جديدًا إلى مربع القائمة
+title: "FormEditor.AddListItem"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FormEditor. إضافة عنصر جديد إلى صندوق القائمة"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.facades/formeditor/addlistitem/
 ---
 ## AddListItem(string, string) {#addlistitem}
 
-تضيف عنصرًا جديدًا إلى مربع القائمة.
+يضيف عنصرًا جديدًا إلى صندوق القائمة.
 
 ```csharp
 public void AddListItem(string fieldName, string itemName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fieldName | String | اسم الحقل الذي سيتم إضافة عنصر جديد إليه. |
+| fieldName | String | اسم الحقل الذي سيُضاف إليه العنصر الجديد. |
 | itemName | String | اسم العنصر الجديد. |
 
-## Examples
+## أمثلة
 
 ```csharp
 FormEditor formEditor = new FormEditor("PdfForm.pdf", PdfForm_out.pdf");
 formEditor.AddListItem("listBoxField", "Item 4 (New Item)");
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -36,26 +36,28 @@ formEditor.AddListItem("listBoxField", "Item 4 (New Item)");
 
 ## AddListItem(string, string[]) {#addlistitem_1}
 
-أضف عنصرًا جديدًا بقيمة تصدير إلى حقل مربع القائمة الموجود، فقط لحقل مربع الجمع في AcroForm.
+إضافة عنصر جديد بقيمة تصدير إلى حقل صندوق القائمة الموجود، فقط لحقل صندوق القائمة المنسدلة في AcroForm.
 
 ```csharp
 public void AddListItem(string fieldName, string[] exportName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fieldName | String | اسم الحقل الذي ستتم إضافة العناصر إليه. |
-| exportName | String[] | مصفوفة سلسلة تشير إلى عنصر قائمة جديد مع قيمة تصدير، أي (تسمية العنصر، قيمة التصدير). |
+| fieldName | String | اسم الحقل الذي ستُضاف إليه العناصر. |
+| exportName | String[] | مصفوفة سلاسل تمثل عنصر قائمة جديد مع قيمة التصدير، أي (تسمية العنصر، قيمة التصدير). |
 
-## Examples
+## أمثلة
 
 ```csharp
 FormEditor fe = new FormEditor("PdfForm.pdf", "FormEditor_AddListItem2.pdf");
 fe.AddListItem("listboxField", new string[] { "4", "Item4(Added)" });
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

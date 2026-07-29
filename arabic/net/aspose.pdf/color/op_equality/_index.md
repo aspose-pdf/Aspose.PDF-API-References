@@ -1,30 +1,32 @@
 ---
-title: Color.op_Equality
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Color. ترجع true إذا كانت الألوان متساوية
+title: "Color.op_Equality"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Color. تُعيد true إذا كان اللونان متساويين"
 type: docs
 weight: 1560
 url: /ar/net/aspose.pdf/color/op_equality/
 ---
-## عامل المساواة للألوان
+## Color Equality operator
 
-ترجع true إذا كانت الألوان متساوية.
+يرجع true إذا كان اللونان متساويين.
 
 ```csharp
 public static bool operator ==(Color x, Color y)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| x | Color | كائن اللون الأول. |
-| y | Color | كائن اللون الثاني. |
+| x | Color | الكائن Color الأول. |
+| y | Color | الكائن Color الثاني. |
 
 ### قيمة الإرجاع
 
-True في حالة تساوي كائنات اللون.
+True في حالة تساوي كائنات Color.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

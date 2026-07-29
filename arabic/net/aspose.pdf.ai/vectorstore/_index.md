@@ -1,33 +1,35 @@
 ---
-title: Class VectorStore
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.VectorStore. مساعد لإنشاء متجر متجه مع file_ids وإرفاقه بهذه الخيط. يمكن أن يكون هناك حد أقصى لمتجر متجه واحد مرتبط بالخيط.
+title: "الفئة VectorStore"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.AI.VectorStore. أداة مساعدة لإنشاء مخزن متجهات باستخدام file_ids وإرفاقه بهذا الخيط. يمكن أن يكون هناك حد أقصى لمخزن متجه واحد مرفق بالخيط"
 type: docs
-weight: 1260
+weight: 1350
 url: /ar/net/aspose.pdf.ai/vectorstore/
 ---
 ## VectorStore class
 
-مساعد لإنشاء متجر متجه مع file_ids وإرفاقه بهذه الخيط. يمكن أن يكون هناك حد أقصى لمتجر متجه واحد مرتبط بالخيط.
+مساعد لإنشاء مخزن متجهات باستخدام file_ids وإرفاقه بهذه السلسلة. يمكن أن يكون هناك حد أقصى لمخزن متجه واحد مرفق بالسلسلة.
 
 ```csharp
 public class VectorStore
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [VectorStore](vectorstore/)() | المُنشئ الافتراضي. |
+| [VectorStore](vectorstore/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [FileIds](../../aspose.pdf.ai/vectorstore/fileids/) { get; set; } | يحصل أو يحدد قائمة من معرفات الملفات لإضافتها إلى متجر المتجه. يمكن أن يكون هناك حد أقصى لـ 10000 ملف في متجر المتجه. |
-| [Metadata](../../aspose.pdf.ai/vectorstore/metadata/) { get; set; } | يحصل أو يحدد مجموعة من 16 زوج مفتاح-قيمة يمكن إرفاقها بمتجر المتجه. يمكن أن يكون هذا مفيدًا لتخزين معلومات إضافية حول متجر المتجه بتنسيق منظم. يمكن أن تكون المفاتيح بطول أقصى 64 حرفًا والقيم بطول أقصى 512 حرفًا. |
+| [FileIds](../../aspose.pdf.ai/vectorstore/fileids/) { get; set; } | يحصل أو يعيّن قائمة بمعرفات الملفات لإضافتها إلى مخزن المتجهات. يمكن أن يكون هناك حد أقصى قدره 10000 ملف في مخزن المتجهات. |
+| [Metadata](../../aspose.pdf.ai/vectorstore/metadata/) { get; set; } | يحصل أو يعيّن مجموعة من 16 زوجًا من المفتاح والقيمة يمكن إرفاقها بمخزن المتجهات. يمكن أن يكون ذلك مفيدًا لتخزين معلومات إضافية حول مخزن المتجهات بتنسيق منظم. يمكن أن تكون المفاتيح بطول أقصى 64 حرفًا والقيم بطول أقصى 512 حرفًا. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

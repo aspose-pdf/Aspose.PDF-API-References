@@ -1,14 +1,14 @@
 ---
-title: BT.BT
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ BT. يقوم بتهيئة المشغل
+title: "BT.BT"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ BT. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/bt/bt/
 ---
-## مُنشئ BT
+## BT constructor
 
-يقوم بتهيئة المشغل.
+يُهيئ العامل.
 
 ```csharp
 public BT()
@@ -19,3 +19,5 @@ public BT()
 * class [BT](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

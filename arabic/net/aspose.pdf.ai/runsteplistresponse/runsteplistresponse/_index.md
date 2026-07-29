@@ -1,14 +1,14 @@
 ---
-title: RunStepListResponse.RunStepListResponse
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ RunStepListResponse. المُنشئ الافتراضي
+title: "RunStepListResponse.RunStepListResponse"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ RunStepListResponse. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/runsteplistresponse/runsteplistresponse/
 ---
-## مُنشئ RunStepListResponse
+## RunStepListResponse constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public RunStepListResponse()
@@ -19,3 +19,5 @@ public RunStepListResponse()
 * class [RunStepListResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

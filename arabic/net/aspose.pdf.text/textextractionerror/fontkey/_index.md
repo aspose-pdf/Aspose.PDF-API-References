@@ -1,14 +1,14 @@
 ---
-title: TextExtractionError.FontKey
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextExtractionError. اسم PDF الرئيسي لكائن الخط الذي يُستخدم لعرض النص الذي يسبب خطأ في الاستخراج
+title: "TextExtractionError.FontKey"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextExtractionError. اسم PDF المفتاح لكائن Font المستخدم لعرض النص الذي يسبب خطأ الاستخراج"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.text/textextractionerror/fontkey/
 ---
-## خاصية TextExtractionError.FontKey
+## TextExtractionError.FontKey property
 
-المفتاح (اسم PDF) لكائن الخط الذي يُستخدم لعرض النص الذي يسبب خطأ في الاستخراج.
+المفتاح (اسم PDF) لكائن Font المستخدم لعرض النص الذي يسبب خطأ الاستخراج.
 
 ```csharp
 public string FontKey { get; }
@@ -19,3 +19,5 @@ public string FontKey { get; }
 * class [TextExtractionError](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

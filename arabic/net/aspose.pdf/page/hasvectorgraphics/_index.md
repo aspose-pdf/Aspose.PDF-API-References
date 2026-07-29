@@ -1,14 +1,14 @@
 ---
-title: Page.HasVectorGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الصفحة. الكشف عن وجود الرسومات المتجهة إذا كانت موجودة على الصفحة
+title: "Page.HasVectorGraphics"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Page. اكتشاف وجود الرسومات المتجهية إذا كانت موجودة على الصفحة"
 type: docs
 weight: 480
 url: /ar/net/aspose.pdf/page/hasvectorgraphics/
 ---
-## طريقة Page.HasVectorGraphics
+## Page.HasVectorGraphics method
 
-الكشف عن وجود الرسومات المتجهة، إذا كانت موجودة على الصفحة.
+يكشف عن وجود الرسومات المتجهية إذا كانت موجودة في الصفحة.
 
 ```csharp
 public bool HasVectorGraphics()
@@ -16,10 +16,12 @@ public bool HasVectorGraphics()
 
 ### قيمة الإرجاع
 
-True إذا كانت الصفحة تحتوي على مشغلات بناء المسار؛ خلاف ذلك، False.
+صحيح إذا كانت الصفحة تحتوي على عوامل بناء المسار؛ وإلا، خاطئ.
 
 ### انظر أيضًا
 
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

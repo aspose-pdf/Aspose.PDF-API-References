@@ -1,14 +1,14 @@
 ---
-title: BackgroundArtifact.BackgroundImage
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BackgroundArtifact. تحصل أو تعين صورة الخلفية لعنصر الخلفية
+title: "BackgroundArtifact.BackgroundImage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BackgroundArtifact. يحصل أو يضبط صورة الخلفية للعنصر الخلفي"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/backgroundartifact/backgroundimage/
 ---
-## خاصية BackgroundArtifact.BackgroundImage
+## BackgroundArtifact.BackgroundImage property
 
-تحصل أو تعين صورة الخلفية لعنصر الخلفية
+يحصل أو يحدد صورة الخلفية لقطعة BackgroundArtifact.
 
 ```csharp
 public Stream BackgroundImage { get; set; }
@@ -19,3 +19,5 @@ public Stream BackgroundImage { get; set; }
 * class [BackgroundArtifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

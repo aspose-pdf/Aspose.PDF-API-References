@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection.OnShowPage
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AnnotationActionCollection. تحصل أو تعين إجراءً يجب تنفيذه عندما تصبح الصفحة التي تحتوي على التعليق مرئية في واجهة مستخدم تطبيقات العرض
+title: "AnnotationActionCollection.OnShowPage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AnnotationActionCollection. يحصل أو يحدد الإجراء الذي يتم تنفيذه عندما تصبح الصفحة التي تحتوي على التعليقة مرئية في واجهة مستخدم تطبيقات العارض"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.annotations/annotationactioncollection/onshowpage/
 ---
-## خاصية AnnotationActionCollection.OnShowPage
+## AnnotationActionCollection.OnShowPage property
 
-تحصل أو تعين إجراءً يجب تنفيذه عندما تصبح الصفحة التي تحتوي على التعليق مرئية في واجهة مستخدم تطبيق العرض.
+يحصل أو يعيّن إجراءً يتم تنفيذه عندما تصبح الصفحة التي تحتوي على التعليق مرئية في واجهة مستخدم تطبيق العارض.
 
 ```csharp
 public PdfAction OnShowPage { get; set; }
@@ -20,3 +20,5 @@ public PdfAction OnShowPage { get; set; }
 * class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

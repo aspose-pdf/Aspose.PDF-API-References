@@ -1,14 +1,14 @@
 ---
-title: TextItemComparisonStatistics.TextItemComparisonStatistics
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TextItemComparisonStatistics. المُنشئ الافتراضي
+title: "TextItemComparisonStatistics.TextItemComparisonStatistics"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TextItemComparisonStatistics. المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.comparison/textitemcomparisonstatistics/textitemcomparisonstatistics/
 ---
-## مُنشئ TextItemComparisonStatistics
+## TextItemComparisonStatistics constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public TextItemComparisonStatistics()
@@ -19,3 +19,5 @@ public TextItemComparisonStatistics()
 * class [TextItemComparisonStatistics](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,30 +1,32 @@
 ---
-title: Class SoundData
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.SoundData. تمثل بيانات الصوت التي تحدد الصوت الذي سيتم تشغيله عند تفعيل التعليق
+title: "الفئة SoundData"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Annotations.SoundData. تمثل بيانات صوتية تحدد الصوت الذي سيُشغل عندما يتم تنشيط التعليق التوضيحي"
 type: docs
-weight: 2540
+weight: 2640
 url: /ar/net/aspose.pdf.annotations/sounddata/
 ---
 ## SoundData class
 
-تمثل بيانات الصوت التي تحدد الصوت الذي سيتم تشغيله عند تفعيل التعليق.
+يمثل بيانات صوتية تحدد الصوت الذي سيُشغل عند تفعيل التعليق التوضيحي.
 
 ```csharp
 public sealed class SoundData
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Bits](../../aspose.pdf.annotations/sounddata/bits/) { get; set; } | يحصل أو يحدد عدد البتات لكل قيمة عينة لكل قناة. |
-| [Channels](../../aspose.pdf.annotations/sounddata/channels/) { get; set; } | يحصل أو يحدد عدد قنوات الصوت. |
-| [Contents](../../aspose.pdf.annotations/sounddata/contents/) { get; } | يحصل على تدفق الصوت الذي سيتم تشغيله عند تفعيل التعليق. |
-| [Encoding](../../aspose.pdf.annotations/sounddata/encoding/) { get; set; } | يحصل أو يحدد تنسيق الترميز لبيانات العينة. |
-| [Rate](../../aspose.pdf.annotations/sounddata/rate/) { get; set; } | يحصل أو يحدد معدل العينة، بالعينات في الثانية. |
+| [Bits](../../aspose.pdf.annotations/sounddata/bits/) { get; set; } | يحصل أو يضبط عدد البتات لكل قيمة عينة لكل قناة. |
+| [Channels](../../aspose.pdf.annotations/sounddata/channels/) { get; set; } | يحصل أو يضبط عدد قنوات الصوت. |
+| [Contents](../../aspose.pdf.annotations/sounddata/contents/) { get; } | يحصل على تدفق الصوت الذي سيُشغل عندما يتم تنشيط التعليق التوضيحي. |
+| [Encoding](../../aspose.pdf.annotations/sounddata/encoding/) { get; set; } | يحصل أو يضبط تنسيق الترميز لبيانات العينة. |
+| [Rate](../../aspose.pdf.annotations/sounddata/rate/) { get; set; } | يحصل أو يضبط معدل العينة، بالعينات في الثانية. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

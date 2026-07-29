@@ -1,14 +1,14 @@
 ---
-title: FileResponse.Purpose
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FileResponse. تحصل أو تعين الغرض المقصود من الملف. القيم المدعومة هي assistants assistants_output batch batch_output finetune finetuneresults و vision
+title: "FileResponse.Purpose"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FileResponse. تحصل أو تعين الغرض المقصود من الملف. القيم المدعومة هي assistants assistants_output batch batch_output finetune finetuneresults و vision"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.ai/fileresponse/purpose/
 ---
-## خاصية FileResponse.Purpose
+## FileResponse.Purpose property
 
-تحصل أو تعين الغرض المقصود من الملف. القيم المدعومة هي assistants، assistants_output، batch، batch_output، fine-tune، fine-tune-results و vision.
+يحصل أو يضبط الغرض المقصود من الملف. القيم المدعومة هي assistants، assistants_output، batch، batch_output، fine-tune، fine-tune-results و vision.
 
 ```csharp
 public string Purpose { get; set; }
@@ -19,3 +19,5 @@ public string Purpose { get; set; }
 * class [FileResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

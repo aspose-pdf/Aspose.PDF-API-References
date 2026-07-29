@@ -1,7 +1,7 @@
 ---
-title: PdfFileSecurity.PdfFileSecurity
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PdfFileSecurity. تهيئة كائن PdfFileSecurity
+title: "PdfFileSecurity.PdfFileSecurity"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PdfFileSecurity. يهيئ كائن PdfFileSecurity"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.facades/pdffilesecurity/pdffilesecurity/
@@ -24,13 +24,13 @@ public PdfFileSecurity()
 
 ## PdfFileSecurity(Document) {#constructor_1}
 
-تهيئة كائن جديد من [`PdfFileSecurity`](../) بناءً على *المستند*.
+يُهيئ كائنًا جديدًا [`PdfFileSecurity`](../) على أساس *المستند*.
 
 ```csharp
 public PdfFileSecurity(Document document)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | document | Document | مستند Pdf. |
 
@@ -40,3 +40,5 @@ public PdfFileSecurity(Document document)
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,20 +1,20 @@
 ---
-title: HtmlSaveOptions.CompressSvgGraphicsIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية HtmlSaveOptions. تحصل أو تعين العلامة التي تشير إلى ما إذا كانت الرسومات SVG الموجودة ستتم ضغطها إلى تنسيق SVGZ أثناء الحفظ
+title: "HtmlSaveOptions.CompressSvgGraphicsIfAny"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية HtmlSaveOptions. يحصل أو يضبط العلامة التي تشير إلى ما إذا كانت رسومات SVG المكتشفة، إن وجدت، سيتم ضغطها/تغليفها بصيغة SVGZ أثناء الحفظ"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/htmlsaveoptions/compresssvggraphicsifany/
 ---
-## خاصية HtmlSaveOptions.CompressSvgGraphicsIfAny
+## HtmlSaveOptions.CompressSvgGraphicsIfAny property
 
-تحصل أو تعين العلامة التي تشير إلى ما إذا كانت الرسومات SVG الموجودة (إن وجدت) ستتم ضغطها (تشفيرها) إلى تنسيق SVGZ أثناء الحفظ
+يحصل أو يعيّن العلامة التي تشير إلى ما إذا كانت رسومات SVG المكتشفة (إن وجدت) سيتم ضغطها (تضغط) إلى تنسيق SVGZ أثناء الحفظ.
 
 ```csharp
 public bool CompressSvgGraphicsIfAny { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 الـ [`HtmlDocumentType`](../../htmldocumenttype/).
 
@@ -23,3 +23,5 @@ public bool CompressSvgGraphicsIfAny { get; set; }
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

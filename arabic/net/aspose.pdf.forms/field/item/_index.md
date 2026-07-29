@@ -1,26 +1,26 @@
 ---
-title: Field.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الحقل. يحصل على الحقل الفرعي الموجود في هذا الحقل بواسطة اسم الحقل الفرعي
+title: "Field.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Field. تحصل على الحقل الفرعي المحتوى في هذا الحقل باسم الحقل الفرعي"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.forms/field/item/
 ---
-## فهرس الحقل (1 من 2)
+## Field indexer (1 of 2)
 
-يحصل على الحقل الفرعي الموجود في هذا الحقل بواسطة اسم الحقل الفرعي.
+تحصل على الحقل الفرعي المحتوى في هذا الحقل باسم الحقل الفرعي.
 
 ```csharp
 public WidgetAnnotation this[string name] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| name | اسم الحقل الفرعي المحتوى. |
+| الاسم | اسم الحقل الفرعي المحتوى. |
 
 ### قيمة الإرجاع
 
-مثيل الحقل.
+مثيل Field.
 
 ### انظر أيضًا
 
@@ -31,21 +31,21 @@ public WidgetAnnotation this[string name] { get; }
 
 ---
 
-## فهرس الحقل (2 من 2)
+## Field indexer (2 of 2)
 
-يحصل على الحقل الفرعي الموجود في هذا الحقل بواسطة الفهرس.
+تحصل على الحقل الفرعي المحتوى في هذا الحقل حسب الفهرس.
 
 ```csharp
 public WidgetAnnotation this[int index] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
 | index | فهرس الحقل الفرعي المطلوب. |
 
 ### قيمة الإرجاع
 
-مثيل الحقل.
+مثيل Field.
 
 ### انظر أيضًا
 
@@ -53,3 +53,5 @@ public WidgetAnnotation this[int index] { get; }
 * class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

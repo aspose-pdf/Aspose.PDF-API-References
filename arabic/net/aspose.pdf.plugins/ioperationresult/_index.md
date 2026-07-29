@@ -1,14 +1,14 @@
 ---
-title: Interface IOperationResult
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.Plugins.IOperationResult. واجهة نتيجة العملية العامة التي تحدد الطرق الشائعة التي يجب أن تنفذها نتيجة عملية المكون الإضافي المحددة
+title: "واجهة IOperationResult"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "واجهة Aspose.Pdf.Plugins.IOperationResult. واجهة نتيجة العملية العامة التي تحدد الأساليب المشتركة التي يجب أن تنفذها نتيجة عملية الإضافة الملموسة."
 type: docs
-weight: 8850
+weight: 8980
 url: /ar/net/aspose.pdf.plugins/ioperationresult/
 ---
-## واجهة IOperationResult
+## IOperationResult interface
 
-واجهة نتيجة العملية العامة التي تحدد الطرق الشائعة التي يجب أن تنفذها نتيجة عملية المكون الإضافي المحددة.
+واجهة نتيجة العملية العامة التي تحدد الأساليب المشتركة التي يجب على نتيجة عملية الملحق الفعلية تنفيذها.
 
 ```csharp
 public interface IOperationResult
@@ -19,9 +19,9 @@ public interface IOperationResult
 | الاسم | الوصف |
 | --- | --- |
 | [Data](../../aspose.pdf.plugins/ioperationresult/data/) { get; } | يحصل على البيانات الخام. |
-| [IsFile](../../aspose.pdf.plugins/ioperationresult/isfile/) { get; } | يشير إلى ما إذا كانت النتيجة هي مسار إلى ملف الإخراج. |
-| [IsStream](../../aspose.pdf.plugins/ioperationresult/isstream/) { get; } | يشير إلى ما إذا كانت النتيجة هي تدفق الإخراج. |
-| [IsString](../../aspose.pdf.plugins/ioperationresult/isstring/) { get; } | يشير إلى ما إذا كانت النتيجة هي سلسلة نصية. |
+| [IsFile](../../aspose.pdf.plugins/ioperationresult/isfile/) { get; } | يشير إلى ما إذا كانت النتيجة مساراً إلى ملف إخراج. |
+| [IsStream](../../aspose.pdf.plugins/ioperationresult/isstream/) { get; } | يشير إلى ما إذا كانت النتيجة تدفق إخراج. |
+| [IsString](../../aspose.pdf.plugins/ioperationresult/isstring/) { get; } | يشير إلى ما إذا كانت النتيجة سلسلة نصية. |
 
 ## الطرق
 
@@ -32,5 +32,7 @@ public interface IOperationResult
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

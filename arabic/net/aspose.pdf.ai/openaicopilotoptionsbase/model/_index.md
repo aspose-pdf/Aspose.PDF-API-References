@@ -1,17 +1,17 @@
 ---
-title: OpenAICopilotOptionsBase.Model
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OpenAICopilotOptionsBase. تحصل أو تعين النموذج المستخدم للمساعد
+title: "OpenAICopilotOptionsBase.Model"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "OpenAICopilotOptionsBase property. يحصل أو يعيّن النموذج المستخدم للمساعد"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/openaicopilotoptionsbase/model/
 ---
-## خاصية OpenAICopilotOptionsBase.Model
+## OpenAICopilotOptionsBase.Model property
 
-تحصل أو تعين النموذج المستخدم للمساعد.
+يحصل أو يضبط النموذج المستخدم للمساعد.
 
 ```csharp
-public virtual string Model { get; set; }
+public string Model { get; set; }
 ```
 
 ### انظر أيضًا
@@ -19,3 +19,5 @@ public virtual string Model { get; set; }
 * class [OpenAICopilotOptionsBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

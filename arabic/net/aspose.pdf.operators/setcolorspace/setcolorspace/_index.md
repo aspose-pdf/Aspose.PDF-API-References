@@ -1,25 +1,27 @@
 ---
-title: SetColorSpace.SetColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SetColorSpace. يُهيئ المُشغل
+title: "SetColorSpace.SetColorSpace"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SetColorSpace. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/setcolorspace/setcolorspace/
 ---
-## مُنشئ SetColorSpace
+## SetColorSpace constructor
 
-يُهيئ المُشغل.
+يُهيئ العامل.
 
 ```csharp
 public SetColorSpace(string name)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الاسم | سلسلة | اسم مساحة اللون. |
+| الاسم | String | اسم مساحة اللون. |
 
 ### انظر أيضًا
 
-* الفئة [SetColorSpace](../)
-* مساحة الأسماء [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* التجميع [Aspose.PDF](../../../)
+* class [SetColorSpace](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

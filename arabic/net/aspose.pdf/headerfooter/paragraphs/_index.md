@@ -1,14 +1,14 @@
 ---
-title: HeaderFooter.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية HeaderFooter. تحصل أو تعين فقرات الملاحظات النهائية
+title: "HeaderFooter.Paragraphs"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية HeaderFooter. يحصل أو يضبط فقرات الملاحظة النهائية"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/headerfooter/paragraphs/
 ---
-## خاصية HeaderFooter.Paragraphs
+## HeaderFooter.Paragraphs property
 
-تحصل أو تعين فقرات الملاحظات النهائية.
+يحصل أو يعيّن فقرات الحاشية النهائية.
 
 ```csharp
 public Paragraphs Paragraphs { get; set; }
@@ -20,3 +20,5 @@ public Paragraphs Paragraphs { get; set; }
 * class [HeaderFooter](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

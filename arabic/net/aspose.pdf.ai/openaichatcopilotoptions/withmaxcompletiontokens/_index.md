@@ -1,29 +1,31 @@
 ---
-title: OpenAIChatCopilotOptions.WithMaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIChatCopilotOptions. تعيين الحد الأقصى لرموز الإكمال لخيارات مساعد الدردشة
+title: "OpenAIChatCopilotOptions.WithMaxCompletionTokens"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIChatCopilotOptions. تحدد الحد الأقصى لرموز الإكمال لخيارات مساعد الدردشة"
 type: docs
-weight: 130
+weight: 140
 url: /ar/net/aspose.pdf.ai/openaichatcopilotoptions/withmaxcompletiontokens/
 ---
-## طريقة OpenAIChatCopilotOptions.WithMaxCompletionTokens
+## OpenAIChatCopilotOptions.WithMaxCompletionTokens method
 
-تعيين الحد الأقصى لرموز الإكمال لخيارات مساعد الدردشة.
+يضبط الحد الأقصى لرموز الإكمال لخيارات مساعد الدردشة.
 
 ```csharp
 public OpenAIChatCopilotOptions WithMaxCompletionTokens(int? maxCompletionTokens)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| maxCompletionTokens | Nullable`1 | الحد الأقصى لرموز الإكمال للتعيين. |
+| maxCompletionTokens | Nullable`1 | الحد الأقصى لعدد الرموز المكتملة لتعيينه. |
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAIChatCopilotOptions`](../).
+النموذج الحالي لـ [`OpenAIChatCopilotOptions`](../).
 
 ### انظر أيضًا
 
 * class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

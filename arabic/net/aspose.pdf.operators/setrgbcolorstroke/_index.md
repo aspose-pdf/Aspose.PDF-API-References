@@ -1,46 +1,48 @@
 ---
-title: Class SetRGBColorStroke
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.SetRGBColorStroke. فئة تمثل عامل RG لتعيين لون RGB لعوامل التظليل
+title: "الفئة SetRGBColorStroke"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Operators.SetRGBColorStroke الفئة. الفئة التي تمثل عامل RG لتعيين لون RGB لعمليات الخط"
 type: docs
-weight: 7800
+weight: 7940
 url: /ar/net/aspose.pdf.operators/setrgbcolorstroke/
 ---
 ## SetRGBColorStroke class
 
-فئة تمثل عامل RG (تعيين لون RGB لعوامل التظليل).
+الفئة التي تمثل المشغل RG (تعيين لون RGB للمشغلات المتسلسلة).
 
 ```csharp
 public class SetRGBColorStroke : SetColorOperator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [SetRGBColorStroke](setrgbcolorstroke/#constructor_1)(Color) | يقوم بتهيئة العامل باللون. |
-| [SetRGBColorStroke](setrgbcolorstroke/#constructor)(double, double, double) | يقوم بتهيئة العامل. |
+| [SetRGBColorStroke](setrgbcolorstroke/#constructor_1)(Color) | يُهيئ العامل باللون. |
+| [SetRGBColorStroke](setrgbcolorstroke/#constructor)(double, double, double) | يُهيئ العامل. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [B](../../aspose.pdf.operators/setrgbcolorstroke/b/) { get; set; } | يحصل على أو يحدد المكون الأزرق. |
-| [G](../../aspose.pdf.operators/setrgbcolorstroke/g/) { get; set; } | يحصل على أو يحدد المكون الأخضر. |
+| [B](../../aspose.pdf.operators/setrgbcolorstroke/b/) { get; set; } | يحصل أو يضبط المكوّن الأزرق. |
+| [G](../../aspose.pdf.operators/setrgbcolorstroke/g/) { get; set; } | يحصل أو يضبط المكوّن الأخضر. |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
-| [R](../../aspose.pdf.operators/setrgbcolorstroke/r/) { get; set; } | يحصل على أو يحدد المكون الأحمر. |
+| [R](../../aspose.pdf.operators/setrgbcolorstroke/r/) { get; set; } | يحصل أو يضبط المكوّن الأحمر. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/setrgbcolorstroke/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
-| override [getColor](../../aspose.pdf.operators/setrgbcolorstroke/getcolor/)() | يعيد اللون المحدد بواسطة العامل. |
-| override [ToString](../../aspose.pdf.operators/setrgbcolorstroke/tostring/)() | يعيد التمثيل النصي للعامل. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [getColor](../../aspose.pdf.operators/setrgbcolorstroke/getcolor/)() | يرجع اللون المحدد بواسطة المعامل. |
+| override [ToString](../../aspose.pdf.operators/setrgbcolorstroke/tostring/)() | يرجع تمثيل النص للمشغّل. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [SetColorOperator](../setcoloroperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

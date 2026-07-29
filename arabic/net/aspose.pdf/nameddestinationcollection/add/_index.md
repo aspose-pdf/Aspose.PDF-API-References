@@ -1,7 +1,7 @@
 ---
-title: NamedDestinationCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة NamedDestinationCollection. إضافة وجهة مسماة جديدة
+title: "NamedDestinationCollection.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة NamedDestinationCollection. أضف وجهة مسماة جديدة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/nameddestinationcollection/add/
@@ -14,14 +14,16 @@ url: /ar/net/aspose.pdf/nameddestinationcollection/add/
 public void Add(string name, IAppointment appointment)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم الوجهة. |
-| appointment | IAppointment | الموعد الذي سيتم إضافته. |
+| الاسم | String | اسم الوجهة. |
+| موعد | IAppointment | الموعد للإضافة. |
 
-### See Also
+### انظر أيضًا
 
 * interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
 * class [NamedDestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

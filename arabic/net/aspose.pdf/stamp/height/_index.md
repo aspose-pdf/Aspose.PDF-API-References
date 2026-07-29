@@ -1,14 +1,14 @@
 ---
-title: Stamp.Height
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الختم. الارتفاع المرغوب للختم على الصفحة
+title: "Stamp.Height"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Stamp. الارتفاع المطلوب للطابع على الصفحة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/stamp/height/
 ---
-## خاصية Stamp.Height
+## Stamp.Height property
 
-الارتفاع المرغوب للختم على الصفحة.
+الارتفاع المطلوب للطابع على الصفحة.
 
 ```csharp
 public virtual double Height { get; set; }
@@ -19,3 +19,5 @@ public virtual double Height { get; set; }
 * class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

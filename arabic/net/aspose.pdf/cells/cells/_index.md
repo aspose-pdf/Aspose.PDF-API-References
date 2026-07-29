@@ -1,14 +1,14 @@
 ---
-title: Cells.Cells
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ Cells. المُنشئ الافتراضي
+title: "Cells.Cells"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Cells. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/cells/cells/
 ---
-## مُنشئ Cells
+## Cells constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public Cells()
@@ -19,3 +19,5 @@ public Cells()
 * class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

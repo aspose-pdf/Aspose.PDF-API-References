@@ -1,14 +1,14 @@
 ---
-title: WidgetAnnotation.OnActivated
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية WidgetAnnotation. إجراء سيتم تنفيذه عند تفعيل التعليق
+title: "WidgetAnnotation.OnActivated"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية WidgetAnnotation. إجراء سيتم تنفيذه عندما يتم تنشيط التعليق التوضيحي"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.annotations/widgetannotation/onactivated/
 ---
-## خاصية WidgetAnnotation.OnActivated
+## WidgetAnnotation.OnActivated property
 
-إجراء سيتم تنفيذه عند تفعيل التعليق.
+إجراء يُنفّذ عندما يتم تنشيط التعليق.
 
 ```csharp
 public PdfAction OnActivated { get; set; }
@@ -20,3 +20,5 @@ public PdfAction OnActivated { get; set; }
 * class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

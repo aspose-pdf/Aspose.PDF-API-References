@@ -1,14 +1,14 @@
 ---
-title: Class Merger
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.Merger. تمثل مكون الدمج
+title: "الفئة Merger"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Plugins.Merger. تمثّل مكوّن Merger"
 type: docs
-weight: 8940
+weight: 9070
 url: /ar/net/aspose.pdf.plugins/merger/
 ---
-## فئة الدمج
+## Merger class
 
-تمثل مكون `Merger`.
+تمثّل مكوّن `Merger`.
 
 ```csharp
 public sealed class Merger : IPlugin
@@ -18,34 +18,36 @@ public sealed class Merger : IPlugin
 
 | الاسم | الوصف |
 | --- | --- |
-| [Merger](merger/)() | المنشئ الافتراضي. |
+| [Merger](merger/)() | البناء الافتراضي. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/merger/process/)(IPluginOptions) | يبدأ معالجة `Merger` مع المعلمات المحددة. |
+| [Process](../../aspose.pdf.plugins/merger/process/)(IPluginOptions) | يبدأ معالجة `Merger` بالمعلمات المحددة. |
 
 ## أمثلة
 
-توضح المثال كيفية دمج مستندين PDF.
+يوضح المثال كيفية دمج مستندين PDF.
 
 ```csharp
-// create Merger
+// إنشاء Merger
 var merger = new Merger();
-// create MergeOptions object to set instructions
+// إنشاء كائن MergeOptions لتحديد التعليمات
 var opt = new MergeOptions();
-// add input file paths
+// إضافة مسارات ملفات الإدخال
 opt.AddInput(new FileDataSource(inputPath1));
 opt.AddInput(new FileDataSource(inputPath2));
-// set output file path
+// تعيين مسار ملف الإخراج
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// تنفيذ العملية
 merger.Process(opt);
 ```
 
 ### انظر أيضًا
 
-* واجهة [IPlugin](../iplugin/)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

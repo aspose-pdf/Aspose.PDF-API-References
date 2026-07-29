@@ -1,14 +1,14 @@
 ---
-title: HeaderFooterData.HeaderFooterData
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ HeaderFooterData. المُنشئ الافتراضي
+title: "HeaderFooterData.HeaderFooterData"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ HeaderFooterData. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/headerfooterdata/headerfooterdata/
 ---
-## مُنشئ HeaderFooterData
+## HeaderFooterData constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public HeaderFooterData()
@@ -19,3 +19,5 @@ public HeaderFooterData()
 * class [HeaderFooterData](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

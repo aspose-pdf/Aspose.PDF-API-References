@@ -1,14 +1,14 @@
 ---
-title: PrinterSettings.PrinterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PrinterSettings. المُنشئ الافتراضي
+title: "PrinterSettings.PrinterSettings"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PrinterSettings. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.printing/printersettings/printersettings/
 ---
-## مُنشئ PrinterSettings
+## PrinterSettings constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public PrinterSettings()
@@ -19,3 +19,5 @@ public PrinterSettings()
 * class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

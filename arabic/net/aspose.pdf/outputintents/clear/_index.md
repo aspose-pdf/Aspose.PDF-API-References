@@ -1,14 +1,14 @@
 ---
-title: OutputIntents.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OutputIntents. تزيل جميع نوايا الإخراج من المجموعة
+title: "OutputIntents.Clear"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OutputIntents. يزيل جميع نوايا الإخراج من المجموعة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/outputintents/clear/
 ---
-## طريقة OutputIntents.Clear
+## OutputIntents.Clear method
 
-تزيل جميع نوايا الإخراج من المجموعة.
+يزيل جميع نوايا الإخراج من المجموعة.
 
 ```csharp
 public void Clear()
@@ -19,3 +19,5 @@ public void Clear()
 * class [OutputIntents](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

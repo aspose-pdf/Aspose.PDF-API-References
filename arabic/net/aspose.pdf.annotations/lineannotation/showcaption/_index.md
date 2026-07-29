@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.ShowCaption
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LineAnnotation. تحصل أو تعين علامة منطقية تحدد ما إذا كان يجب عرض المحتويات كعنوان
+title: "LineAnnotation.ShowCaption"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LineAnnotation. يحصل أو يضبط علامة منطقية تحدد ما إذا كان يجب عرض المحتوى كتوضيح"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.annotations/lineannotation/showcaption/
 ---
-## خاصية LineAnnotation.ShowCaption
+## LineAnnotation.ShowCaption property
 
-تحصل أو تعين علامة منطقية تحدد ما إذا كان يجب عرض المحتويات كعنوان.
+يحصل أو يضبط علمًا منطقيًا يحدد ما إذا كان يجب عرض المحتويات كتسمية.
 
 ```csharp
 public bool ShowCaption { get; set; }
@@ -19,3 +19,5 @@ public bool ShowCaption { get; set; }
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

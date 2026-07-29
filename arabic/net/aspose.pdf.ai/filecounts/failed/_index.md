@@ -1,14 +1,14 @@
 ---
-title: FileCounts.Failed
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FileCounts. تحصل أو تعين عدد الملفات التي فشلت في المعالجة
+title: "FileCounts.Failed"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FileCounts property. يحصل أو يعيّن عدد الملفات التي فشلت في المعالجة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.ai/filecounts/failed/
 ---
-## خاصية FileCounts.Failed
+## FileCounts.Failed property
 
-تحصل أو تعين عدد الملفات التي فشلت في المعالجة.
+يحصل أو يعيّن عدد الملفات التي فشل معالجتها.
 
 ```csharp
 public int Failed { get; set; }
@@ -19,3 +19,5 @@ public int Failed { get; set; }
 * class [FileCounts](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

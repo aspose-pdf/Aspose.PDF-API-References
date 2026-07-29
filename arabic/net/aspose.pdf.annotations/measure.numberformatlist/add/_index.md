@@ -1,22 +1,22 @@
 ---
-title: Measure.NumberFormatList.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة NumberFormatList. تضيف تنسيق الرقم إلى القائمة
+title: "Measure.NumberFormatList.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة NumberFormatList. تضيف تنسيق رقم إلى القائمة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/measure.numberformatlist/add/
 ---
-## طريقة Measure.NumberFormatList.Add
+## Measure.NumberFormatList.Add method
 
-تضيف تنسيق الرقم إلى القائمة.
+يضيف تنسيق الرقم إلى القائمة.
 
 ```csharp
 public void Add(NumberFormat value)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | NumberFormat | القيمة التي ستضاف إلى القائمة. |
+| القيمة | NumberFormat | القيمة التي سيتم إضافتها إلى القائمة. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public void Add(NumberFormat value)
 * class [NumberFormatList](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

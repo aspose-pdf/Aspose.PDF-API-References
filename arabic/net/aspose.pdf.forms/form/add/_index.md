@@ -1,25 +1,25 @@
 ---
-title: Form.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. تضيف حقلًا إلى النموذج
+title: "Form.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. تضيف حقلًا إلى النموذج."
 type: docs
-weight: 190
+weight: 210
 url: /ar/net/aspose.pdf.forms/form/add/
 ---
 ## Add(Field, int) {#add_2}
 
-تضيف حقلًا إلى النموذج.
+يضيف حقلًا إلى النموذج.
 
 ```csharp
 public void Add(Field field, int pageNumber)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| field | Field | الحقل الذي يجب إضافته. |
-| pageNumber | Int32 | فهرس الصفحة التي سيتم وضع الحقل المضاف عليها. |
+| حقل | حقل | الحقل الذي يجب إضافته. |
+| pageNumber | Int32 | فهرس الصفحة التي سيتم وضع الحقل المضاف فيها. |
 
-### See Also
+### انظر أيضًا
 
 * class [Field](../../field/)
 * class [Form](../)
@@ -30,17 +30,17 @@ public void Add(Field field, int pageNumber)
 
 ## Add(Field) {#add_1}
 
-تضيف حقلًا إلى النموذج.
+يضيف حقلًا إلى النموذج.
 
 ```csharp
 public void Add(Field field)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| field | Field | الحقل الذي يجب إضافته. |
+| حقل | حقل | الحقل الذي يجب إضافته. |
 
-### See Also
+### انظر أيضًا
 
 * class [Field](../../field/)
 * class [Form](../)
@@ -51,25 +51,27 @@ public void Add(Field field)
 
 ## Add(Field, string, int) {#add}
 
-تضيف حقلًا جديدًا إلى النموذج؛ إذا كان هذا الحقل موجودًا بالفعل في نموذج آخر أو هذا النموذج، سيتم إنشاء نسخة من الحقل.
+يضيف حقلًا جديدًا إلى النموذج؛ إذا كان هذا الحقل موجودًا بالفعل على نموذج آخر أو هذا النموذج، يتم إنشاء نسخة من الحقل.
 
 ```csharp
 public Field Add(Field field, string partialName, int pageNumber)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| field | Field | اسم الحقل. |
-| partialName | String | اسم الحقل على النموذج. |
-| pageNumber | Int32 | رقم الصفحة التي سيتم إضافة الحقل عليها. |
+| حقل | حقل | اسم الحقل. |
+| partialName | String | اسم الحقل في النموذج. |
+| pageNumber | Int32 | رقم الصفحة حيث سيتم إضافة الحقل. |
 
-### Return Value
+### قيمة الإرجاع
 
-تمت إعادة الحقل المضاف. إذا تم إنشاء نسخة من الحقل، فسيتم إرجاعها.
+تم إرجاع الحقل المضاف. إذا تم إنشاء نسخة من الحقل فسيتم إرجاعها.
 
-### See Also
+### انظر أيضًا
 
 * class [Field](../../field/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Paragraphs. تمثل هذه الفئة مجموعة الفقرات
+title: "فئة Paragraphs"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Paragraphs. هذه الفئة تمثل مجموعة الفقرات."
 type: docs
-weight: 8280
+weight: 8420
 url: /ar/net/aspose.pdf/paragraphs/
 ---
-## فئة الفقرات
+## Paragraphs class
 
-تمثل هذه الفئة مجموعة الفقرات.
+هذه الفئة تمثل مجموعة الفقرات.
 
 ```csharp
 public class Paragraphs : ICloneable, IEnumerable<BaseParagraph>
@@ -18,31 +18,33 @@ public class Paragraphs : ICloneable, IEnumerable<BaseParagraph>
 
 | الاسم | الوصف |
 | --- | --- |
-| [Paragraphs](paragraphs/)() | المنشئ الافتراضي. |
+| [Paragraphs](paragraphs/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Count](../../aspose.pdf/paragraphs/count/) { get; } | الحصول على عدد الفقرات. |
-| [Item](../../aspose.pdf/paragraphs/item/) { get; set; } | الحصول على فقرة من المجموعة أو تعيينها. |
+| [Count](../../aspose.pdf/paragraphs/count/) { get; } | احصل على عدد الفقرات. |
+| [Item](../../aspose.pdf/paragraphs/item/) { get; set; } | يحصل أو يضبط الفقرة من أو إلى المجموعة. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [Add](../../aspose.pdf/paragraphs/add/)(BaseParagraph) | إضافة فقرة إلى المجموعة. |
-| [Clear](../../aspose.pdf/paragraphs/clear/)() | مسح الفقرات. |
-| [Clone](../../aspose.pdf/paragraphs/clone/)() | استنساخ كائن [`Clone`](./clone/). |
-| [GetEnumerator](../../aspose.pdf/paragraphs/getenumerator/)() | الحصول على العدّاد. |
-| [GetRange](../../aspose.pdf/paragraphs/getrange/)(int, int) | إزالة نطاق الفقرات. |
-| [Insert](../../aspose.pdf/paragraphs/insert/)(int, BaseParagraph) | إدراج فقرة في المجموعة. |
-| [InsertRange](../../aspose.pdf/paragraphs/insertrange/)(int, IEnumerable&lt;BaseParagraph&gt;) | إدراج عناصر مجموعة في القائمة عند الفهرس المحدد. |
-| [Remove](../../aspose.pdf/paragraphs/remove/)(BaseParagraph) | إزالة فقرة من المجموعة. |
-| [RemoveRange](../../aspose.pdf/paragraphs/removerange/)(int, int) | إزالة نطاق الفقرات. |
+| [Add](../../aspose.pdf/paragraphs/add/)(BaseParagraph) | أضف فقرة إلى المجموعة. |
+| [Clear](../../aspose.pdf/paragraphs/clear/)() | امسح الفقرات. |
+| [Clone](../../aspose.pdf/paragraphs/clone/)() | ينسخ كائنًا جديدًا [`Clone`](./clone/). |
+| [GetEnumerator](../../aspose.pdf/paragraphs/getenumerator/)() | يحصل على المُعدِّد. |
+| [GetRange](../../aspose.pdf/paragraphs/getrange/)(int, int) | أزل نطاق الفقرات. |
+| [Insert](../../aspose.pdf/paragraphs/insert/)(int, BaseParagraph) | أدرج فقرة إلى المجموعة. |
+| [InsertRange](../../aspose.pdf/paragraphs/insertrange/)(int, IEnumerable&lt;BaseParagraph&gt;) | يدرج عناصر مجموعة في القائمة عند الفهرس المحدد. |
+| [Remove](../../aspose.pdf/paragraphs/remove/)(BaseParagraph) | أزل الفقرة من المجموعة. |
+| [RemoveRange](../../aspose.pdf/paragraphs/removerange/)(int, int) | أزل نطاق الفقرات. |
 
 ### انظر أيضًا
 
-* فئة [BaseParagraph](../baseparagraph/)
-* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* class [BaseParagraph](../baseparagraph/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

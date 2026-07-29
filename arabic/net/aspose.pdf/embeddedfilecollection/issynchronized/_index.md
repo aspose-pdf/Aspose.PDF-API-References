@@ -1,14 +1,14 @@
 ---
-title: EmbeddedFileCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية EmbeddedFileCollection. تحصل على قيمة تشير إلى ما إذا كان الوصول إلى هذه المجموعة متزامن 
+title: "EmbeddedFileCollection.IsSynchronized"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية EmbeddedFileCollection. الحصول على قيمة تشير إلى ما إذا كان الوصول إلى هذه المجموعة متزامنًا وآمنًا من تعارض الخيوط"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/embeddedfilecollection/issynchronized/
 ---
-## خاصية EmbeddedFileCollection.IsSynchronized
+## EmbeddedFileCollection.IsSynchronized property
 
-تحصل على قيمة تشير إلى ما إذا كان الوصول إلى هذه المجموعة متزامن (آمن للخيوط).
+يحصل على قيمة تشير إلى ما إذا كان الوصول إلى هذه المجموعة متزامنًا (آمن للخيوط).
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -19,3 +19,5 @@ public bool IsSynchronized { get; }
 * class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

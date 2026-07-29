@@ -1,14 +1,14 @@
 ---
-title: VectorStore.VectorStore
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ VectorStore. المُنشئ الافتراضي
+title: "VectorStore.VectorStore"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ VectorStore. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/vectorstore/vectorstore/
 ---
-## مُنشئ VectorStore
+## VectorStore constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public VectorStore()
@@ -19,3 +19,5 @@ public VectorStore()
 * class [VectorStore](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextState.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextState. تحصل أو تعين حجم خط النص
+title: "TextState.FontSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextState. تحصل أو تعين حجم الخط للنص"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.text/textstate/fontsize/
 ---
-## خاصية TextState.FontSize
+## TextState.FontSize property
 
-تحصل أو تعين حجم خط النص.
+يحصل أو يضبط حجم خط النص.
 
 ```csharp
 public virtual float FontSize { get; set; }
@@ -19,3 +19,5 @@ public virtual float FontSize { get; set; }
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

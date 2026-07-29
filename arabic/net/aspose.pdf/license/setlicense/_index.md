@@ -1,46 +1,46 @@
 ---
-title: License.SetLicense
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الترخيص. ترخص المكون
+title: "License.SetLicense"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة License. تقوم بترخيص المكوّن"
 type: docs
-weight: 20
+weight: 40
 url: /ar/net/aspose.pdf/license/setlicense/
 ---
 ## SetLicense(string) {#setlicense_1}
 
-ترخص المكون.
+يرخص المكوّن.
 
 ```csharp
 public void SetLicense(string licenseName)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| licenseName | String | يمكن أن يكون اسم ملف كامل أو قصير أو اسم مورد مضمن. استخدم سلسلة فارغة للتبديل إلى وضع التقييم. |
+| licenseName | String | يمكن أن يكون اسم ملف كامل أو قصير أو اسم مورد مضمّن. استخدم سلسلة فارغة للتبديل إلى وضع التقييم. |
 
 ## ملاحظات
 
 يحاول العثور على الترخيص في المواقع التالية:
 
-1. المسار الصريح.
+1. مسار صريح.
 
-2. المجلد الذي يحتوي على تجميع مكون Aspose.
+2. المجلد الذي يحتوي على تجميع مكوّن Aspose.
 
 3. المجلد الذي يحتوي على تجميع استدعاء العميل.
 
-4. المجلد الذي يحتوي على تجميع الإدخال (بدء التشغيل).
+4. المجلد الذي يحتوي على تجميع الدخول (بدء التشغيل).
 
-5. مورد مضمن في تجميع استدعاء العميل.
+5. مورد مضمّن في تجميع استدعاء العميل.
 
-**ملاحظة:** في إطار عمل .NET Compact، يحاول العثور على الترخيص فقط في هذه المواقع:
+**Note:**On the .NET Compact Framework, tries to find the license only in these locations:
 
-1. المسار الصريح.
+1. مسار صريح.
 
-2. مورد مضمن في تجميع استدعاء العميل.
+2. مورد مضمّن في تجميع استدعاء العميل.
 
 [Java]
 
-2. المجلد الذي يحتوي على ملف JAR لمكون Aspose.
+2. المجلد الذي يحتوي على ملف JAR لمكوّن Aspose.
 
 3. المجلد الذي يحتوي على ملف JAR لاستدعاء العميل.
 
@@ -54,15 +54,15 @@ public void SetLicense(string licenseName)
 
 ## SetLicense(Stream) {#setlicense}
 
-ترخص المكون.
+يرخص المكوّن.
 
 ```csharp
 public void SetLicense(Stream stream)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | تدفق يحتوي على الترخيص. |
+| stream | Stream | دفق يحتوي على الترخيص. |
 
 ## ملاحظات
 
@@ -73,3 +73,5 @@ public void SetLicense(Stream stream)
 * class [License](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

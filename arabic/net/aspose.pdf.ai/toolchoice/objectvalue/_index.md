@@ -1,14 +1,14 @@
 ---
-title: ToolChoice.ObjectValue
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ToolChoice. تحصل أو تعين قيمة الكائن لـ ToolChoice
+title: "ToolChoice.ObjectValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ToolChoice. تحصل أو تعين قيمة الكائن لـ ToolChoice"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.ai/toolchoice/objectvalue/
 ---
-## خاصية ToolChoice.ObjectValue
+## ToolChoice.ObjectValue property
 
-تحصل أو تعين قيمة الكائن لـ ToolChoice.
+يحصل أو يضبط قيمة الكائن لـ ToolChoice.
 
 ```csharp
 public ObjectType ObjectValue { get; set; }
@@ -20,3 +20,5 @@ public ObjectType ObjectValue { get; set; }
 * class [ToolChoice](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

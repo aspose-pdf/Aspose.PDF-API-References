@@ -1,29 +1,31 @@
 ---
-title: Class IncorrectFontUsageException
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.IncorrectFontUsageException. الاستثناء الذي يتم رميه عندما يكون استخدام الخط غير صحيح
+title: "الفئة IncorrectFontUsageException"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.IncorrectFontUsageException. الاستثناء الذي يُرمى عندما يكون استخدام الخط غير صحيح"
 type: docs
-weight: 5970
+weight: 6100
 url: /ar/net/aspose.pdf/incorrectfontusageexception/
 ---
 ## IncorrectFontUsageException class
 
-الاستثناء الذي يتم رميه عندما يكون استخدام الخط غير صحيح.
+الاستثناء الذي يُرمى عندما يكون استخدام الخط غير صحيح.
 
 ```csharp
 public sealed class IncorrectFontUsageException : InvalidFileFormatException
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [IncorrectFontUsageException](incorrectfontusageexception/#constructor)(Exception) | يقوم بتهيئة مثيل جديد من فئة `IncorrectFontUsageException` مع مرجع إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء. |
-| [IncorrectFontUsageException](incorrectfontusageexception/#constructor_1)(string) | يقوم بتهيئة مثيل جديد من فئة `IncorrectFontUsageException`. |
-| [IncorrectFontUsageException](incorrectfontusageexception/#constructor_2)(string, Exception) | يقوم بتهيئة مثيل جديد من فئة `IncorrectFontUsageException` مع رسالة خطأ محددة ومرجع إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء. |
+| [IncorrectFontUsageException](incorrectfontusageexception/#constructor)(Exception) | ينشئ مثيلاً جديداً من الفئة `IncorrectFontUsageException` مع إشارة إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء. |
+| [IncorrectFontUsageException](incorrectfontusageexception/#constructor_1)(string) | ينشئ مثيلاً جديداً من الفئة `IncorrectFontUsageException`. |
+| [IncorrectFontUsageException](incorrectfontusageexception/#constructor_2)(string, Exception) | ينشئ مثيلاً جديداً من الفئة `IncorrectFontUsageException` برسالة خطأ محددة وإشارة إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء. |
 
-### See Also
+### انظر أيضًا
 
 * class [InvalidFileFormatException](../invalidfileformatexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

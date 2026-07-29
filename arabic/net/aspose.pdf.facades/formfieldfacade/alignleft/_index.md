@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.AlignLeft
-second_title: Aspose.PDF for .NET API Reference
-description: حقل FormFieldFacade. يحدد المحاذاة إلى اليسار
+title: "FormFieldFacade.AlignLeft"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FormFieldFacade field. يحدد المحاذاة إلى اليسار"
 type: docs
 weight: 240
 url: /ar/net/aspose.pdf.facades/formfieldfacade/alignleft/
 ---
-## حقل FormFieldFacade.AlignLeft
+## FormFieldFacade.AlignLeft field
 
-يحدد المحاذاة إلى اليسار.
+يحدد المحاذاة إلى نمط اليسار.
 
 ```csharp
 public const int AlignLeft;
@@ -19,3 +19,5 @@ public const int AlignLeft;
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

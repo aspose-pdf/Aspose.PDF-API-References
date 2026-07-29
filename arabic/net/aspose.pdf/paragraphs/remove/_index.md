@@ -1,22 +1,22 @@
 ---
-title: Paragraphs.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الفقرات. إزالة فقرة من المجموعة
+title: "Paragraphs.Remove"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Paragraphs. إزالة الفقرة من المجموعة"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf/paragraphs/remove/
 ---
-## طريقة الفقرات.Remove
+## Paragraphs.Remove method
 
-إزالة فقرة من المجموعة.
+أزل الفقرة من المجموعة.
 
 ```csharp
 public void Remove(BaseParagraph paragraph)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| paragraph | BaseParagraph | الفقرة. |
+| فقرة | BaseParagraph | الفقرة. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public void Remove(BaseParagraph paragraph)
 * class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

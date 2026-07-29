@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.IsInitializedValue
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StructureAttribute. تحصل على حالة قيمة خاصية الهيكل. صحيح إذا تم تعيين القيمة
+title: "StructureAttribute.IsInitializedValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StructureAttribute. تحصل على حالة قيمة سمة البنية. صحيح إذا تم تعيين القيمة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.logicalstructure/structureattribute/isinitializedvalue/
 ---
-## خاصية StructureAttribute.IsInitializedValue
+## StructureAttribute.IsInitializedValue property
 
-تحصل على حالة قيمة خاصية الهيكل. صحيح إذا تم تعيين القيمة.
+يحصل على حالة قيمة سمة البنية. True إذا تم تعيين القيمة.
 
 ```csharp
 public bool IsInitializedValue { get; }
@@ -19,3 +19,5 @@ public bool IsInitializedValue { get; }
 * class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

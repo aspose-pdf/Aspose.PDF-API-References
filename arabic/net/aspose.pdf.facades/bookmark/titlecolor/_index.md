@@ -1,14 +1,14 @@
 ---
-title: Bookmark.TitleColor
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الإشارة المرجعية. تحصل أو تعين لون عنوان الإشارات المرجعية
+title: "Bookmark.TitleColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Bookmark. تحصل أو تعيين لون عنوان الإشارات"
 type: docs
 weight: 190
 url: /ar/net/aspose.pdf.facades/bookmark/titlecolor/
 ---
-## خاصية Bookmark.TitleColor
+## Bookmark.TitleColor property
 
-تحصل أو تعين لون عنوان الإشارة المرجعية.
+يحصل أو يعيّن لون عنوان العلامة المرجعية.
 
 ```csharp
 public Color TitleColor { get; set; }
@@ -19,3 +19,5 @@ public Color TitleColor { get; set; }
 * class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

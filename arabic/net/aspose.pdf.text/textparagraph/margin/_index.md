@@ -1,14 +1,14 @@
 ---
-title: TextParagraph.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextParagraph. تحصل أو تعين الحشو
+title: "TextParagraph.Margin"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextParagraph. يحصل أو يضبط الحشو"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.text/textparagraph/margin/
 ---
-## خاصية TextParagraph.Margin
+## TextParagraph.Margin property
 
-تحصل أو تعين الحشو.
+يحصل أو يعيّن الحشو.
 
 ```csharp
 public MarginInfo Margin { get; set; }
@@ -20,3 +20,5 @@ public MarginInfo Margin { get; set; }
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

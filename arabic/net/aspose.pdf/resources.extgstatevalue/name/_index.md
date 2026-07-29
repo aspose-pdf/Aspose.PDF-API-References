@@ -1,12 +1,12 @@
 ---
-title: Resources.ExtGStateValue.Name
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ExtGStateValue.
+title: "Resources.ExtGStateValue.Name"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ExtGStateValue."
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/resources.extgstatevalue/name/
 ---
-## خاصية Resources.ExtGStateValue.Name
+## Resources.ExtGStateValue.Name property
 
 ```csharp
 public string Name { get; }
@@ -17,3 +17,5 @@ public string Name { get; }
 * class [ExtGStateValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

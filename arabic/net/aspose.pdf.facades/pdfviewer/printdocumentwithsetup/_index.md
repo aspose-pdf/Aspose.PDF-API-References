@@ -1,20 +1,20 @@
 ---
-title: PdfViewer.PrintDocumentWithSetup
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfViewer. تطبع مستند Pdf مع مربع حوار الإعداد. اختر طابعة باستخدام مربع الحوار
+title: "PdfViewer.PrintDocumentWithSetup"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfViewer. تطبع مستند Pdf مع حوار الإعداد. اختر طابعة باستخدام الحوار."
 type: docs
 weight: 340
 url: /ar/net/aspose.pdf.facades/pdfviewer/printdocumentwithsetup/
 ---
 ## PdfViewer.PrintDocumentWithSetup method
 
-تطبع مستند Pdf مع مربع حوار الإعداد. اختر طابعة باستخدام مربع الحوار.
+يطبع مستند Pdf باستخدام حوار الإعداد. اختر طابعة باستخدام الحوار.
 
 ```csharp
 public void PrintDocumentWithSetup()
 ```
 
-## Examples
+## أمثلة
 
 ```csharp
 [C#]
@@ -36,8 +36,10 @@ iewer.PrintDocumentWithSetup()
 iewer.Close()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,23 +1,23 @@
 ---
-title: FormCheckBoxFieldCreateOptions.FormCheckBoxFieldCreateOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FormCheckBoxFieldCreateOptions. يُهيئ مثيلًا جديدًا من كائن FormCheckBoxFieldCreateOptions الذي يحتوي على معلمات لإنشاء وإضافة CheckBoxField
+title: "FormCheckBoxFieldCreateOptions.FormCheckBoxFieldCreateOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FormCheckBoxFieldCreateOptions. يهيئ نسخة جديدة من كائن FormCheckBoxFieldCreateOptions الذي يحتوي على معلمات للـ CheckBoxField المُنشأ والمضاف"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/formcheckboxfieldcreateoptions/formcheckboxfieldcreateoptions/
 ---
-## مُنشئ FormCheckBoxFieldCreateOptions
+## FormCheckBoxFieldCreateOptions constructor
 
-يُهيئ مثيلًا جديدًا من كائن [`FormCheckBoxFieldCreateOptions`](../) الذي يحتوي على معلمات لإنشاء وإضافة CheckBoxField.
+يهيئ نسخة جديدة من كائن [`FormCheckBoxFieldCreateOptions`](../)، الذي يحتوي على معلمات للـ CheckBoxField المُنشأ والمضاف.
 
 ```csharp
 public FormCheckBoxFieldCreateOptions(int pageNum, Rectangle rect)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pageNum | Int32 | رقم الصفحة التي سيتم وضع CheckBoxField المضاف عليها. |
-| rect | Rectangle | يحدد مستطيل CheckBoxField. |
+| pageNum | Int32 | رقم الصفحة التي سيُوضَع فيها الـ CheckBoxField المضاف. |
+| rect | Rectangle | يضبط مستطيل CheckBoxField. |
 
 ### انظر أيضًا
 
@@ -25,3 +25,5 @@ public FormCheckBoxFieldCreateOptions(int pageNum, Rectangle rect)
 * class [FormCheckBoxFieldCreateOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

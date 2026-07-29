@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.Exportable
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormFieldOptions. تحصل/تعيين القيمة لتحديد ما إذا كان الحقل الذي تم إنشاؤه/تعديله قابلًا للتصدير أم لا .
+title: "FormFieldOptions.Exportable"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormFieldOptions. يحصل/يضبط القيمة لتحديد ما إذا كان الحقل الذي تم إنشاؤه/تعديله قابلًا للتصدير أم لا إذا تم تعيينه"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.plugins/formfieldoptions/exportable/
 ---
-## خاصية FormFieldOptions.Exportable
+## FormFieldOptions.Exportable property
 
-تحصل/تعيين القيمة لتحديد ما إذا كان الحقل الذي تم إنشاؤه/تعديله قابلًا للتصدير أم لا (إذا تم تعيينه).
+الحصول/التعيين للقيمة لتحديد ما إذا كان الحقل المُنشأ/المعدل قابلًا للتصدير أم لا (إذا سيتم تعيينها).
 
 ```csharp
 public bool? Exportable { get; set; }
@@ -19,3 +19,5 @@ public bool? Exportable { get; set; }
 * class [FormFieldOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

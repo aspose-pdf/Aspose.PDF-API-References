@@ -1,14 +1,14 @@
 ---
-title: Signature.CustomAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية التوقيع. يحصل/يحدد المظهر المخصص
+title: "Signature.CustomAppearance"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Signature. يحصل/يحدد المظهر المخصص"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.forms/signature/customappearance/
 ---
-## خاصية Signature.CustomAppearance
+## Signature.CustomAppearance property
 
-يحصل/يحدد المظهر المخصص.
+يحصل أو يعيّن المظهر المخصص.
 
 ```csharp
 public SignatureCustomAppearance CustomAppearance { get; set; }
@@ -20,3 +20,5 @@ public SignatureCustomAppearance CustomAppearance { get; set; }
 * class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

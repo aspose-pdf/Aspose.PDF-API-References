@@ -1,31 +1,33 @@
 ---
-title: TextFragmentState.IsFitRectangle
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TextFragmentState. تتحقق مما إذا كان يمكن وضع سلسلة الإدخال داخل المستطيل المحدد
+title: "TextFragmentState.IsFitRectangle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TextFragmentState. تتحقق مما إذا كان يمكن وضع String المدخلة داخل المستطيل المحدد"
 type: docs
 weight: 250
 url: /ar/net/aspose.pdf.text/textfragmentstate/isfitrectangle/
 ---
-## طريقة TextFragmentState.IsFitRectangle
+## TextFragmentState.IsFitRectangle method
 
-تتحقق مما إذا كان يمكن وضع سلسلة الإدخال داخل المستطيل المحدد.
+يتحقق مما إذا كان يمكن وضع سلسلة الإدخال داخل المستطيل المحدد.
 
 ```csharp
 public bool IsFitRectangle(string str, Rectangle rect)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| str | سلسلة | السلسلة للتحقق. |
-| rect | مستطيل | المستطيل للتحقق. |
+| str | String | String للتحقق منها. |
+| rect | Rectangle | Rectangle للتحقق منها. |
 
 ### قيمة الإرجاع
 
-صحيح إذا كانت السلسلة تناسب المستطيل؛ خلاف ذلك خطأ.
+True إذا كان string يناسب المستطيل؛ وإلا false.
 
 ### انظر أيضًا
 
-* الفئة [Rectangle](../../../aspose.pdf/rectangle/)
-* الفئة [TextFragmentState](../)
-* مساحة الاسم [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

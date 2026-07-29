@@ -1,29 +1,31 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithModel
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIImageDescriptionCopilotOptions. تعيين النموذج لخيارات مساعد وصف الصورة
+title: "OpenAIImageDescriptionCopilotOptions.WithModel"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIImageDescriptionCopilotOptions. تحدد النموذج لخيارات مساعد وصف الصورة"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withmodel/
 ---
-## طريقة OpenAIImageDescriptionCopilotOptions.WithModel
+## OpenAIImageDescriptionCopilotOptions.WithModel method
 
-تعيين النموذج لخيارات مساعد وصف الصورة.
+يضبط النموذج لخيارات مساعد وصف الصورة.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithModel(string model)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| model | String | النموذج الذي سيتم تعيينه. |
+| النموذج | String | النموذج المراد تحديده. |
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAIImageDescriptionCopilotOptions`](../).
+الحالة الحالية لـ [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### انظر أيضًا
 
 * class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

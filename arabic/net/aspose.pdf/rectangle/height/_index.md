@@ -1,12 +1,12 @@
 ---
-title: Rectangle.Height
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية المستطيل. ارتفاع المستطيل
+title: "Rectangle.Height"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Rectangle. ارتفاع المستطيل."
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/rectangle/height/
 ---
-## خاصية Rectangle.Height
+## Rectangle.Height property
 
 ارتفاع المستطيل.
 
@@ -19,3 +19,5 @@ public double Height { get; }
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

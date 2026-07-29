@@ -1,14 +1,14 @@
 ---
-title: SetCMYKColor.M
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SetCMYKColor. تحصل أو تعين مكون الماجنتا
+title: "SetCMYKColor.M"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SetCMYKColor. تحصل أو تعين المكوّن الأرجواني"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.operators/setcmykcolor/m/
 ---
-## خاصية SetCMYKColor.M
+## SetCMYKColor.M property
 
-تحصل أو تعين مكون الماجنتا.
+يحصل أو يضبط المكوّن الأرجواني.
 
 ```csharp
 public double M { get; set; }
@@ -19,3 +19,5 @@ public double M { get; set; }
 * class [SetCMYKColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

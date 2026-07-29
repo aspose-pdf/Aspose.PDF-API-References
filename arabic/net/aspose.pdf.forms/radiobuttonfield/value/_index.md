@@ -1,14 +1,14 @@
 ---
-title: RadioButtonField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RadioButtonField. تحصل أو تعين قيمة الحقل
+title: "RadioButtonField.Value"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RadioButtonField. يحصل أو يضبط قيمة الحقل"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.forms/radiobuttonfield/value/
 ---
-## خاصية RadioButtonField.Value
+## RadioButtonField.Value property
 
-تحصل أو تعين قيمة الحقل.
+يحصل أو يعيّن قيمة الحقل.
 
 ```csharp
 public override string Value { get; set; }
@@ -19,3 +19,5 @@ public override string Value { get; set; }
 * class [RadioButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

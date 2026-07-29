@@ -1,29 +1,31 @@
 ---
-title: CosPdfDictionary.ContainsKey
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة CosPdfDictionary. تحدد ما إذا كانت CosPdfDictionary تحتوي على عنصر بالمفتاح المحدد
+title: "CosPdfDictionary.ContainsKey"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة CosPdfDictionary. تحدد ما إذا كان CosPdfDictionary يحتوي على عنصر بالمفتاح المحدد"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.dataeditor/cospdfdictionary/containskey/
 ---
 ## CosPdfDictionary.ContainsKey method
 
-تحدد ما إذا كانت [`CosPdfDictionary`](../) تحتوي على عنصر بالمفتاح المحدد.
+تحدد ما إذا كان [`CosPdfDictionary`](../) يحتوي على عنصر بالمفتاح المحدد.
 
 ```csharp
 public bool ContainsKey(string key)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| key | String | المفتاح الذي سيتم تحديد موقعه في [`CosPdfDictionary`](../). |
+| key | String | المفتاح لتحديد موقعه في [`CosPdfDictionary`](../). |
 
-### Return Value
+### قيمة الإرجاع
 
-true إذا كانت [`CosPdfDictionary`](../) تحتوي على عنصر قابل للتعديل بالمفتاح؛ خلاف ذلك، false.
+true إذا كان [`CosPdfDictionary`](../) يحتوي على عنصر قابل للتحرير بالمفتاح؛ وإلا false.
 
-### See Also
+### انظر أيضًا
 
 * class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

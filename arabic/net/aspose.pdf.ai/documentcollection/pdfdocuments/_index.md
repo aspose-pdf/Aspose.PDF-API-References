@@ -1,14 +1,14 @@
 ---
-title: DocumentCollection.PdfDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocumentCollection. تحصل على أو تعين مجموعة من مستندات PDF ليتم معالجتها
+title: "DocumentCollection.PdfDocuments"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocumentCollection. يحصل أو يضبط مجموعة مستندات PDF التي سيتم معالجتها"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/documentcollection/pdfdocuments/
 ---
-## خاصية DocumentCollection.PdfDocuments
+## DocumentCollection.PdfDocuments property
 
-تحصل على أو تعين مجموعة من مستندات PDF ليتم معالجتها.
+يحصل أو يعيّن مجموعة مستندات PDF التي سيتم معالجتها.
 
 ```csharp
 public List<PdfDocument> PdfDocuments { get; set; }
@@ -20,3 +20,5 @@ public List<PdfDocument> PdfDocuments { get; set; }
 * class [DocumentCollection](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

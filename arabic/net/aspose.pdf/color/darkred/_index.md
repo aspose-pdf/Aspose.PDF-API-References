@@ -1,14 +1,14 @@
 ---
-title: Color.DarkRed
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على لون محدد من النظام له قيمة ARGB تساوي c FF8B0000
+title: "Color.DarkRed"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. تحصل على لون معرف بالنظام له قيمة ARGB c FF8B0000"
 type: docs
 weight: 330
 url: /ar/net/aspose.pdf/color/darkred/
 ---
-## خاصية Color.DarkRed
+## Color.DarkRed property
 
-تحصل على لون محدد من النظام له قيمة ARGB تساوي \c \#FF8B0000.
+يحصل على لون معرف من النظام له قيمة ARGB \c \#FF8B0000.
 
 ```csharp
 public static Color DarkRed { get; }
@@ -16,10 +16,12 @@ public static Color DarkRed { get; }
 
 ### قيمة الإرجاع
 
-يمثل لونًا محددًا من النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CodeInterpreter.CodeInterpreter
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ CodeInterpreter. المُنشئ الافتراضي
+title: "CodeInterpreter.CodeInterpreter"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ CodeInterpreter. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/codeinterpreter/codeinterpreter/
 ---
-## مُنشئ CodeInterpreter
+## CodeInterpreter constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public CodeInterpreter()
@@ -19,3 +19,5 @@ public CodeInterpreter()
 * class [CodeInterpreter](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

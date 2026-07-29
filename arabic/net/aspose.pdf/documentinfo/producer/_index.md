@@ -1,14 +1,14 @@
 ---
-title: DocumentInfo.Producer
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocumentInfo. تحصل أو تعين منتج الوثيقة
+title: "DocumentInfo.Producer"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocumentInfo. يحصل أو يضبط منتج المستند"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf/documentinfo/producer/
 ---
-## خاصية DocumentInfo.Producer
+## DocumentInfo.Producer property
 
-تحصل أو تعين منتج الوثيقة.
+يحصل أو يعيّن منتج المستند.
 
 ```csharp
 public string Producer { get; set; }
@@ -19,3 +19,5 @@ public string Producer { get; set; }
 * class [DocumentInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.H
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeStandard. عنوان A تسمية لتقسيم محتوى المستند. يجب أن يكون أول طفل من القسم الذي يرأسه
+title: "StructureTypeStandard.H"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل StructureTypeStandard. Heading عنوان تسمية لتقسيم فرعي من محتوى المستند. يجب أن يكون أول طفل من القسم الذي يعلّنه."
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/h/
 ---
-## حقل StructureTypeStandard.H
+## StructureTypeStandard.H field
 
-(عنوان) تسمية لتقسيم محتوى المستند. يجب أن يكون أول طفل من القسم الذي يرأسه.
+(Heading) تسمية لتقسيم فرعي من محتوى المستند. يجب أن تكون العنصر الأول للdivision التي تُعنوها.
 
 ```csharp
 public static readonly StructureTypeStandard H;
@@ -19,3 +19,5 @@ public static readonly StructureTypeStandard H;
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

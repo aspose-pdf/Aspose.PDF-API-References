@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetAssistantsAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIClient. تسترجع قائمة بالمساعدين بشكل غير متزامن
+title: "OpenAIClient.GetAssistantsAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIClient. تسترجع قائمة بالمساعدين بشكل غير متزامن"
 type: docs
 weight: 200
 url: /ar/net/aspose.pdf.ai/openaiclient/getassistantsasync/
 ---
-## طريقة OpenAIClient.GetAssistantsAsync
+## OpenAIClient.GetAssistantsAsync method
 
-تسترجع قائمة بالمساعدين بشكل غير متزامن.
+يسترجع قائمة بالمساعدين بشكل غير متزامن.
 
 ```csharp
 public Task<AssistantListResponse> GetAssistantsAsync(
@@ -16,7 +16,7 @@ public Task<AssistantListResponse> GetAssistantsAsync(
     CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | queryParameters | AssistantListQueryParameters | معلمات استعلام اختيارية لتصفية قائمة المساعدين. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
@@ -32,3 +32,5 @@ public Task<AssistantListResponse> GetAssistantsAsync(
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

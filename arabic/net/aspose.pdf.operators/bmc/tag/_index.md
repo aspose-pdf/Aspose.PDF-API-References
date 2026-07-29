@@ -1,14 +1,14 @@
 ---
-title: BMC.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BMC. يحصل أو يحدد علامة المحتوى المميز
+title: "BMC.Tag"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BMC. تحصل أو تعين علامة المحتوى المعلَّم"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/bmc/tag/
 ---
-## خاصية BMC.Tag
+## BMC.Tag property
 
-يحصل أو يحدد علامة المحتوى المميز
+يحصل أو يضبط علامة المحتوى المعلَّم
 
 ```csharp
 public string Tag { get; set; }
@@ -19,3 +19,5 @@ public string Tag { get; set; }
 * class [BMC](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

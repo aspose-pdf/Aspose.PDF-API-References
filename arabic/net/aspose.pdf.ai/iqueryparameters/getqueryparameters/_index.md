@@ -1,14 +1,14 @@
 ---
-title: IQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IQueryParameters. تحصل على معلمات الاستعلام كسلسلة
+title: "IQueryParameters.GetQueryParameters"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IQueryParameters. تحصل على معلمات الاستعلام كسلسلة نصية"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/iqueryparameters/getqueryparameters/
 ---
-## طريقة IQueryParameters.GetQueryParameters
+## IQueryParameters.GetQueryParameters method
 
-تحصل على معلمات الاستعلام كسلسلة.
+يحصل على معلمات الاستعلام كسلسلة نصية.
 
 ```csharp
 public string GetQueryParameters()
@@ -16,10 +16,12 @@ public string GetQueryParameters()
 
 ### قيمة الإرجاع
 
-معلمات الاستعلام كسلسلة.
+معلمات الاستعلام كسلسلة نصية.
 
 ### انظر أيضًا
 
-* الواجهة [IQueryParameters](../)
-* مساحة الأسماء [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

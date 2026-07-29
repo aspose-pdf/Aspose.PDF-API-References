@@ -1,14 +1,14 @@
 ---
-title: Interface IEntityId
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.AI.IEntityId. تمثل كيانًا له معرف
+title: "الواجهة IEntityId"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "واجهة Aspose.Pdf.AI.IEntityId. تمثّل كيانًا بمعرف."
 type: docs
-weight: 490
+weight: 510
 url: /ar/net/aspose.pdf.ai/ientityid/
 ---
-## واجهة IEntityId
+## IEntityId interface
 
-تمثل كيانًا له معرف.
+يمثل كيانًا بمعرف.
 
 ```csharp
 public interface IEntityId
@@ -18,9 +18,11 @@ public interface IEntityId
 
 | الاسم | الوصف |
 | --- | --- |
-| [Id](../../aspose.pdf.ai/ientityid/id/) { get; set; } | يحصل أو يحدد معرف الكيان. |
+| [Id](../../aspose.pdf.ai/ientityid/id/) { get; set; } | يحصل أو يعيّن معرف الكيان. |
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Stamp.getStampId
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Stamp. تعيد معرف الطابع
+title: "Stamp.getStampId"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Stamp. تُرجع معرف الطابع"
 type: docs
 weight: 200
 url: /ar/net/aspose.pdf/stamp/getstampid/
 ---
-## طريقة Stamp.getStampId
+## Stamp.getStampId method
 
-تعيد معرف الطابع.
+يعيد معرف الطابع.
 
 ```csharp
 public int getStampId()
@@ -23,3 +23,5 @@ public int getStampId()
 * class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

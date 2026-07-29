@@ -1,22 +1,22 @@
 ---
-title: Rows.IndexOf
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Rows. تعيد فهرس الصف في المجموعة
+title: "Rows.IndexOf"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Rows. إرجاع فهرس الصف في المجموعة"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/rows/indexof/
 ---
-## طريقة Rows.IndexOf
+## Rows.IndexOf method
 
-تعيد فهرس الصف في المجموعة.
+يرجع فهرس الصف في المجموعة.
 
 ```csharp
 public int IndexOf(Row row)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| row | Row | الصف الموجود. |
+| row | Row | الصف الحالي. |
 
 ### قيمة الإرجاع
 
@@ -28,3 +28,5 @@ public int IndexOf(Row row)
 * class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

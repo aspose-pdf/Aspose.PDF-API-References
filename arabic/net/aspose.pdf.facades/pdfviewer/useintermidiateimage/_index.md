@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.UseIntermidiateImage
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfViewer. تحصل/تحدد استخدام تحويل صفحة pdf إلى ملف png وسيط أثناء الطباعة في وضع الملف. استخدمها عندما يكون حجم الملف الناتج مهمًا
+title: "PdfViewer.UseIntermidiateImage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfViewer. تحصل/تضبط استخدام تحويل صفحة pdf إلى ملف png وسيط أثناء الطباعة في وضع الملف. استخدمها عندما يكون حجم ملف الإخراج مهمًا"
 type: docs
 weight: 180
 url: /ar/net/aspose.pdf.facades/pdfviewer/useintermidiateimage/
 ---
-## خاصية PdfViewer.UseIntermidiateImage
+## PdfViewer.UseIntermidiateImage property
 
-تحصل/تحدد استخدام تحويل صفحة pdf إلى ملف png وسيط أثناء الطباعة في وضع الملف. استخدمها عندما يكون حجم الملف الناتج مهمًا.
+يحصل/يعيّن استخدام تحويل صفحة pdf إلى ملف png وسيط أثناء الطباعة في وضع الملف. استخدمه عندما يكون حجم ملف الإخراج مهمًا.
 
 ```csharp
 public bool UseIntermidiateImage { get; set; }
@@ -19,3 +19,5 @@ public bool UseIntermidiateImage { get; set; }
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

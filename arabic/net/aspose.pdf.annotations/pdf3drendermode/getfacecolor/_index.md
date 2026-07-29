@@ -1,14 +1,14 @@
 ---
-title: PDF3DRenderMode.GetFaceColor
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PDF3DRenderMode. تحصل على لون الوجه
+title: "PDF3DRenderMode.GetFaceColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PDF3DRenderMode. يحصل على لون الوجه"
 type: docs
 weight: 190
 url: /ar/net/aspose.pdf.annotations/pdf3drendermode/getfacecolor/
 ---
-## طريقة PDF3DRenderMode.GetFaceColor
+## PDF3DRenderMode.GetFaceColor method
 
-تحصل على لون الوجه.
+يحصل على لون الوجه.
 
 ```csharp
 public object GetFaceColor()
@@ -16,10 +16,12 @@ public object GetFaceColor()
 
 ### قيمة الإرجاع
 
-كائن.
+Object.
 
 ### انظر أيضًا
 
 * class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

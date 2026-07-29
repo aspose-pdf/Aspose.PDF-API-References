@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionRequest.PresencePenalty
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LlamaChatCompletionRequest. تعيين أو الحصول على عقوبة الوجود لاستخدامها أثناء أخذ العينات
+title: "LlamaChatCompletionRequest.PresencePenalty"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LlamaChatCompletionRequest. تعين أو تحصل على عقوبة الوجود لاستخدامها أثناء العينة"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.ai/llamachatcompletionrequest/presencepenalty/
 ---
-## خاصية LlamaChatCompletionRequest.PresencePenalty
+## LlamaChatCompletionRequest.PresencePenalty property
 
-تعيين أو الحصول على عقوبة الوجود لاستخدامها أثناء أخذ العينات.
+يضبط أو يحصل على عقوبة الوجود لاستخدامها أثناء العينة.
 
 ```csharp
 public float? PresencePenalty { get; set; }
@@ -19,3 +19,5 @@ public float? PresencePenalty { get; set; }
 * class [LlamaChatCompletionRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

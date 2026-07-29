@@ -1,14 +1,14 @@
 ---
-title: MoveToNextLine.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة MoveToNextLine. تعيد نص المشغل
+title: "MoveToNextLine.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة MoveToNextLine. تُرجع نص المشغل"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.operators/movetonextline/tostring/
 ---
-## طريقة MoveToNextLine.ToString
+## MoveToNextLine.ToString method
 
-تعيد نص المشغل.
+يرجع نص المشغّل.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-تمثيل نصي للمشغل.
+تمثيل النص للعامل.
 
 ### انظر أيضًا
 
 * class [MoveToNextLine](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

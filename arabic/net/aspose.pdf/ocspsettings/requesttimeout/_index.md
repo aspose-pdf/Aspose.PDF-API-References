@@ -1,14 +1,14 @@
 ---
-title: OcspSettings.RequestTimeout
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OcspSettings. تحصل أو تعين مدة انتهاء مهلة الطلب بالمللي ثانية لطلب OCSP
+title: "OcspSettings.RequestTimeout"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OcspSettings. يحصل أو يضبط مدة مهلة الطلب بالمللي ثانية لطلب OCSP"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/ocspsettings/requesttimeout/
 ---
-## خاصية OcspSettings.RequestTimeout
+## OcspSettings.RequestTimeout property
 
-تحصل أو تعين مدة انتهاء مهلة الطلب بالمللي ثانية لطلب OCSP.
+يحصل أو يعيّن مدة مهلة الطلب بالمللي ثانية لطلب OCSP.
 
 ```csharp
 public int RequestTimeout { get; set; }
@@ -19,3 +19,5 @@ public int RequestTimeout { get; set; }
 * class [OcspSettings](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Field.MaxFontSize
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الحقل. الحد الأقصى لحجم الخط الذي يمكن استخدامه لمحتويات الحقل. 1 لعدم التحقق من الحجم
+title: "Field.MaxFontSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Field. الحد الأقصى لحجم الخط الذي يمكن استخدامه لمحتويات الحقل. 1 لتجاهل فحص الحجم"
 type: docs
 weight: 250
 url: /ar/net/aspose.pdf.forms/field/maxfontsize/
 ---
-## خاصية Field.MaxFontSize
+## Field.MaxFontSize property
 
 الحد الأقصى لحجم الخط الذي يمكن استخدامه لمحتويات الحقل. -1 لعدم التحقق من الحجم.
 
@@ -19,3 +19,5 @@ public static double MaxFontSize { get; set; }
 * class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CosPdfPrimitive.ToCosPdfNumber
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة CosPdfPrimitive. تحاول تحويل هذه الحالة إلى CosPdfNumber
+title: "CosPdfPrimitive.ToCosPdfNumber"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة CosPdfPrimitive. تحاول تحويل هذا الكائن إلى CosPdfNumber"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.dataeditor/cospdfprimitive/tocospdfnumber/
 ---
-## طريقة CosPdfPrimitive.ToCosPdfNumber
+## CosPdfPrimitive.ToCosPdfNumber method
 
-تحاول تحويل هذه الحالة إلى [`CosPdfNumber`](../../cospdfnumber/).
+يحاول تحويل هذا الكائن إلى [`CosPdfNumber`](../../cospdfnumber/).
 
 ```csharp
 public virtual CosPdfNumber ToCosPdfNumber()
@@ -16,7 +16,7 @@ public virtual CosPdfNumber ToCosPdfNumber()
 
 ### قيمة الإرجاع
 
-null إذا لم تكن الحالة [`CosPdfNumber`](../../cospdfnumber/) وإلا [`CosPdfNumber`](../../cospdfnumber/).
+null إذا لم يكن الكائن من نوع [`CosPdfNumber`](../../cospdfnumber/) وإلا [`CosPdfNumber`](../../cospdfnumber/).
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ null إذا لم تكن الحالة [`CosPdfNumber`](../../cospdfnumber/) وإ�
 * class [CosPdfPrimitive](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: PdfAOptionsBase.PuaSymbolsProcessingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfAOptionsBase. تحصل أو تعين الاستراتيجية لمعالجة رموز منطقة الاستخدام الخاصة PUA في مستند PDF
+title: "PdfAOptionsBase.PuaSymbolsProcessingStrategy"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfAOptionsBase. تحصل أو تعين الإستراتيجية لمعالجة رموز المنطقة الخاصة للاستخدام (PUA) في مستند PDF"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.plugins/pdfaoptionsbase/puasymbolsprocessingstrategy/
 ---
-## خاصية PdfAOptionsBase.PuaSymbolsProcessingStrategy
+## PdfAOptionsBase.PuaSymbolsProcessingStrategy property
 
-تحصل أو تعين الاستراتيجية لمعالجة رموز منطقة الاستخدام الخاصة (PUA) في مستند PDF.
+يحصل أو يعيّن الاستراتيجية لمعالجة رموز منطقة الاستخدام الخاص (PUA) في مستند PDF.
 
 ```csharp
 public PuaProcessingStrategy PuaSymbolsProcessingStrategy { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-الاستراتيجية لمعالجة رموز PUA. القيمة الافتراضية هي None لمستندات المطابقة من المستوى B، وSurroundPuaTextWithEmptyActualText لمستندات المطابقة من المستوى A.
+الإستراتيجية لمعالجة رموز PUA. الافتراضي هو None للمستندات المتوافقة مع المستوى B، وSurroundPuaTextWithEmptyActualText للمستندات المتوافقة مع المستوى A.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public PuaProcessingStrategy PuaSymbolsProcessingStrategy { get; set; }
 * class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfBookmarkEditor.CreateBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfBookmarkEditor. تنشئ إشارات مرجعية لجميع الصفحات
+title: "PdfBookmarkEditor.CreateBookmarks"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfBookmarkEditor. تنشئ إشارات مرجعية لجميع الصفحات"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarks/
 ---
 ## CreateBookmarks() {#createbookmarks}
 
-تنشئ إشارات مرجعية لجميع الصفحات.
+ينشئ إشارات مرجعية لجميع الصفحات.
 
 ```csharp
 public void CreateBookmarks()
@@ -33,15 +33,15 @@ editor.Save("example_out.pdf");
 
 ## CreateBookmarks(Bookmark) {#createbookmarks_1}
 
-تنشئ الإشارة المرجعية المحددة في المستند. يمكن استخدام الطريقة لتشكيل تسلسل هرمي للإشارات المرجعية المتداخلة.
+ينشئ الإشارة المرجعية المحددة في PDF Document. يمكن استخدام الطريقة لتكوين تسلسل هرمي للإشارات المرجعية المتداخلة.
 
 ```csharp
 public void CreateBookmarks(Bookmark bookmark)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| bookmark | Bookmark | ستتم إضافة الإشارة المرجعية إلى المستند. |
+| علامة مرجعية | علامة مرجعية | سيتم إضافة الإشارة المرجعية إلى المستند. |
 
 ## أمثلة
 
@@ -77,17 +77,17 @@ editor.Save("example_out.pdf");
 
 ## CreateBookmarks(Color, bool, bool) {#createbookmarks_2}
 
-إنشاء إشارات مرجعية لجميع الصفحات مع اللون والنمط المحددين (عريض، مائل).
+إنشاء إشارات مرجعية لجميع الصفحات باللون والنمط المحددين (عريض، مائل).
 
 ```csharp
 public void CreateBookmarks(Color color, bool boldFlag, bool italicFlag)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | color | Color | لون العنوان. |
-| boldFlag | Boolean | علامة نسبة العريض. |
-| italicFlag | Boolean | علامة نسبة المائل. |
+| boldFlag | Boolean | علامة الخط العريض. |
+| italicFlag | Boolean | علامة الخط المائل. |
 
 ## أمثلة
 
@@ -103,3 +103,5 @@ editor.Save("example_out.pdf");
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

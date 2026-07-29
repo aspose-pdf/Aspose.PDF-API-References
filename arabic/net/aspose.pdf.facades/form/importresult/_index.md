@@ -1,12 +1,12 @@
 ---
-title: Form.ImportResult
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية النموذج. نتيجة آخر عملية استيراد. مصفوفة من الكائنات التي تصف نتيجة الاستيراد لكل حقل
+title: "Form.ImportResult"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Form. نتيجة آخر عملية استيراد. مصفوفة من الكائنات التي تصف نتيجة الاستيراد لكل حقل."
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.facades/form/importresult/
 ---
-## خاصية Form.ImportResult
+## Form.ImportResult property
 
 نتيجة آخر عملية استيراد. مصفوفة من الكائنات التي تصف نتيجة الاستيراد لكل حقل.
 
@@ -20,3 +20,5 @@ public FormImportResult[] ImportResult { get; }
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

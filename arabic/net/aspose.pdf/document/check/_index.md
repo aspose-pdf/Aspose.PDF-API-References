@@ -1,29 +1,31 @@
 ---
-title: Document.Check
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الوثيقة. تتحقق من الوثيقة
+title: "Document.Check"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Document method. يتحقق من صحة المستند"
 type: docs
-weight: 570
+weight: 590
 url: /ar/net/aspose.pdf/document/check/
 ---
 ## Document.Check method
 
-تتحقق من الوثيقة.
+يتحقق من صحة المستند.
 
 ```csharp
 public bool Check(bool doRepair)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| doRepair | Boolean | إذا كانت صحيحة، سيتم إصلاح المشكلات الموجودة. |
+| doRepair | Boolean | إذا كان true، سيتم إصلاح المشكلات المكتشفة. |
 
-### Return Value
+### قيمة الإرجاع
 
-صحيح - إذا تم إصلاح الوثيقة؛ خلاف ذلك، خطأ.
+True - إذا تم إصلاح المستند؛ وإلا false.
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

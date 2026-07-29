@@ -1,14 +1,14 @@
 ---
-title: CreateEmbeddingRequest.CreateEmbeddingRequest
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ CreateEmbeddingRequest. المُنشئ الافتراضي
+title: "CreateEmbeddingRequest.CreateEmbeddingRequest"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ CreateEmbeddingRequest. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/createembeddingrequest/createembeddingrequest/
 ---
-## مُنشئ CreateEmbeddingRequest
+## CreateEmbeddingRequest constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public CreateEmbeddingRequest()
@@ -19,3 +19,5 @@ public CreateEmbeddingRequest()
 * class [CreateEmbeddingRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

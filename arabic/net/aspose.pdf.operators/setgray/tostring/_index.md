@@ -1,14 +1,14 @@
 ---
-title: SetGray.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة SetGray. تعيد تمثيل السلسلة للمعامل
+title: "SetGray.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة SetGray. تُرجع تمثيلًا نصيًا للمشغل"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.operators/setgray/tostring/
 ---
-## طريقة SetGray.ToString
+## SetGray.ToString method
 
-تعيد تمثيل السلسلة للمعامل.
+يرجع تمثيل النص للعامل.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-تمثيل سلسلة للمعامل.
+تمثيل نصي للمشغل.
 
 ### انظر أيضًا
 
 * class [SetGray](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

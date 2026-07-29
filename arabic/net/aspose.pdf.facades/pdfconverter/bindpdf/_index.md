@@ -1,24 +1,24 @@
 ---
-title: PdfConverter.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfConverter. تربط ملف Pdf للتحويل
+title: "PdfConverter.BindPdf"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfConverter. تربط ملف Pdf للتحويل"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.facades/pdfconverter/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-تربط ملف Pdf للتحويل.
+يربط ملف Pdf للتحويل.
 
 ```csharp
 public override void BindPdf(string inputFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | inputFile | String | ملف pdf. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -28,18 +28,45 @@ public override void BindPdf(string inputFile)
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-تربط تدفق Pdf للتحويل.
+يربط تدفق Pdf للتحويل.
 
 ```csharp
 public override void BindPdf(Stream inputStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | inputStream | Stream | تدفق pdf. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+---
+
+## BindPdf(Document) {#bindpdf}
+
+يربط مستند PDF بـمثيل [`PdfConverter`](../) لمزيد من المعالجة.
+
+```csharp
+public override void BindPdf(Document srcDoc)
+```
+
+| معامل | النوع | الوصف |
+| --- | --- | --- |
+| srcDoc | Document | الكائن [`Document`](../../../aspose.pdf/document/) الذي يمثل ملف PDF المصدر الذي سيتم ربطه. |
+
+## ملاحظات
+
+تقوم هذه الطريقة بتهيئة [`PdfConverter`](../) باستخدام مستند PDF المحدد. كما أنها تعالج نماذج XFA الديناميكية داخل المستند، إذا كانت موجودة.
+
+### انظر أيضًا
+
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

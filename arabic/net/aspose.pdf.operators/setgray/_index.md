@@ -1,43 +1,45 @@
 ---
-title: Class SetGray
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetGray class. تعيين مستوى الرمادي للعمليات غير الخطية
+title: "الفئة SetGray"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Operators.SetGray الفئة. تعيين مستوى الرمادي للعمليات غير المتعلقة بالخط"
 type: docs
-weight: 7720
+weight: 7860
 url: /ar/net/aspose.pdf.operators/setgray/
 ---
 ## SetGray class
 
-تعيين مستوى الرمادي للعمليات غير الخطية.
+تعيين مستوى الرمادي للعمليات غير المتسلسلة.
 
 ```csharp
 public class SetGray : SetColorOperator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [SetGray](setgray/)(double) | Initializes operator. |
+| [SetGray](setgray/)(double) | يُهيئ العامل. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Gray](../../aspose.pdf.operators/setgray/gray/) { get; set; } | يحصل على أو يحدد مستوى قيمة الرمادي. |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
+| [Gray](../../aspose.pdf.operators/setgray/gray/) { get; set; } | يحصل أو يعيّن مستوى قيمة الرمادي. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setgray/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [getColor](../../aspose.pdf.operators/setgray/getcolor/)() | يعيد اللون المحدد بواسطة المشغل. |
-| override [ToString](../../aspose.pdf.operators/setgray/tostring/)() | يعيد تمثيل سلسلة للمشغل. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/setgray/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [getColor](../../aspose.pdf.operators/setgray/getcolor/)() | يرجع اللون المحدد بواسطة المعامل. |
+| override [ToString](../../aspose.pdf.operators/setgray/tostring/)() | يرجع تمثيل النص للعامل. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [SetColorOperator](../setcoloroperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

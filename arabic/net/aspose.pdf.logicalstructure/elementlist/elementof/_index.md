@@ -1,26 +1,26 @@
 ---
-title: ElementList.ElementOf
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ElementList. تحصل على عنصر في الفهرس المعطى
+title: "ElementList.ElementOf"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ElementList. تحصل على عنصر في الفهرس المحدد"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.logicalstructure/elementlist/elementof/
 ---
-## فهرس ElementList
+## ElementList indexer
 
-تحصل على عنصر في الفهرس المعطى.
+يحصل على عنصر في الفهرس المحدد.
 
 ```csharp
 public virtual Element ElementOf[int index] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| index | الفهرس في قائمة العناصر. |
+| index | الفهرس داخل قائمة العناصر. |
 
 ### قيمة الإرجاع
 
-العنصر بالرقم المحدد في المجموعة. إذا كان الفهرس أكبر من أو يساوي عدد العناصر في القائمة، فإن هذا يُرجع null.
+العنصر بالفهارس المحدد في المجموعة. إذا كان الفهرس أكبر من أو يساوي عدد العناصر في القائمة، فإن هذا يعيد null.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public virtual Element ElementOf[int index] { get; }
 * class [ElementList](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

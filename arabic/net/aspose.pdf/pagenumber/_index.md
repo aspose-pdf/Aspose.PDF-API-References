@@ -1,48 +1,50 @@
 ---
-title: Class PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.PageNumber. تمثل تنسيق رقم الصفحة الذي يتضمن فهرس العدد الإجمالي للصفحات وفاصل
+title: "الفئة PageNumber"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.PageNumber. تمثّل تنسيق رقم الصفحة الذي يتضمن فهرسًا وإجمالي عدد الصفحات وفاصلًا"
 type: docs
-weight: 8200
+weight: 8340
 url: /ar/net/aspose.pdf/pagenumber/
 ---
 ## PageNumber class
 
-تمثل تنسيق رقم الصفحة الذي يتضمن فهرس، العدد الإجمالي للصفحات، وفاصل.
+يمثل تنسيق رقم الصفحة الذي يتضمن فهرسًا، وإجمالي عدد الصفحات، وفاصلًا.
 
 ```csharp
 public sealed class PageNumber
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [PageNumber](pagenumber/)() | المُنشئ الافتراضي. |
+| [PageNumber](pagenumber/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Delimiter](../../aspose.pdf/pagenumber/delimiter/) { get; set; } | يحصل أو يحدد الفاصل المستخدم في تنسيق رقم الصفحة. سيتم تحديث السلسلة المنسقة بناءً على الفاصل المحدد. |
-| [Index](../../aspose.pdf/pagenumber/index/) { get; set; } | يحصل أو يحدد مكون فهرس الصفحة في تنسيق رقم الصفحة. ستتضمن السلسلة المنسقة عنصر نائب لفهرس الصفحة. |
-| [Offset](../../aspose.pdf/pagenumber/offset/) { get; set; } | يحصل أو يحدد الإزاحة التي ستضاف إلى فهرس الصفحة. |
-| [TotalNum](../../aspose.pdf/pagenumber/totalnum/) { get; set; } | يحصل أو يحدد مكون العدد الإجمالي للصفحات في تنسيق رقم الصفحة. ستتضمن السلسلة المنسقة عنصر نائب للعدد الإجمالي للصفحات. |
+| [Delimiter](../../aspose.pdf/pagenumber/delimiter/) { get; set; } | يحصل أو يعيّن الفاصل المستخدم في تنسيق رقم الصفحة. سيتم تحديث السلسلة المنسقة بناءً على الفاصل المحدد. |
+| [Index](../../aspose.pdf/pagenumber/index/) { get; set; } | يحصل أو يعيّن مكوّن فهرس الصفحة في تنسيق رقم الصفحة. ستتضمن السلسلة المنسقة عنصرًا نائبًا لفهرس الصفحة. |
+| [Offset](../../aspose.pdf/pagenumber/offset/) { get; set; } | يحصل أو يعيّن الإزاحة التي ستُضاف إلى فهرس الصفحة. |
+| [TotalNum](../../aspose.pdf/pagenumber/totalnum/) { get; set; } | يحصل أو يعيّن مكوّن إجمالي عدد الصفحات في تنسيق رقم الصفحة. ستتضمن السلسلة المنسقة عنصرًا نائبًا لإجمالي عدد الصفحات. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [GetPageNumberString](../../aspose.pdf/pagenumber/getpagenumberstring/)(int, int) | يُرجع سلسلة منسقة تمثل رقم الصفحة بناءً على الإعدادات الحالية. |
+| [GetPageNumberString](../../aspose.pdf/pagenumber/getpagenumberstring/)(int, int) | يعيد سلسلة منسقة تمثّل رقم الصفحة بناءً على الإعدادات الحالية. |
 
-## Other Members
+## الأعضاء الآخرين
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| class [PageIndex](../../aspose.pdf/pagenumber.pageindex) | تمثل مكون فهرس الصفحة في تنسيق رقم الصفحة. |
-| class [PageTotalNum](../../aspose.pdf/pagenumber.pagetotalnum) | تمثل مكون العدد الإجمالي للصفحات في تنسيق رقم الصفحة. |
+| class [PageIndex](../../aspose.pdf/pagenumber.pageindex) | تمثل مكوّن فهرس الصفحة في تنسيق رقم الصفحة. |
+| class [PageTotalNum](../../aspose.pdf/pagenumber.pagetotalnum) | يمثّل مكوّن إجمالي عدد الصفحات في تنسيق رقم الصفحة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

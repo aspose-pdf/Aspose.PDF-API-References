@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection.OnHidePage
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AnnotationActionCollection. تحصل أو تعين إجراءً يتم تنفيذه عندما لا تكون الصفحة التي تحتوي على التعليق مرئية بعد في واجهة مستخدم تطبيقات العرض
+title: "AnnotationActionCollection.OnHidePage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AnnotationActionCollection. يحصل أو يحدد الإجراء الذي يتم تنفيذه عندما لا تعود الصفحة التي تحتوي على التعليقة مرئية في واجهة مستخدم تطبيقات العارض"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.annotations/annotationactioncollection/onhidepage/
 ---
-## خاصية AnnotationActionCollection.OnHidePage
+## AnnotationActionCollection.OnHidePage property
 
-تحصل أو تعين إجراءً يتم تنفيذه عندما لا تكون الصفحة التي تحتوي على التعليق مرئية بعد في واجهة مستخدم تطبيق العرض.
+يحصل أو يعيّن إجراءً يتم تنفيذه عندما تصبح الصفحة التي تحتوي على التعليق غير مرئية في واجهة مستخدم تطبيق العارض.
 
 ```csharp
 public PdfAction OnHidePage { get; set; }
@@ -20,3 +20,5 @@ public PdfAction OnHidePage { get; set; }
 * class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

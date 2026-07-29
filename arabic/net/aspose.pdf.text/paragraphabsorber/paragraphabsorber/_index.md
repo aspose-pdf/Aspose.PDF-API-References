@@ -1,14 +1,14 @@
 ---
-title: ParagraphAbsorber.ParagraphAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ParagraphAbsorber. يقوم بتهيئة مثيل جديد من ParagraphAbsorber الذي يقوم بالبحث عن الأقسام/الفقرات في الوثيقة أو الصفحة
+title: "ParagraphAbsorber.ParagraphAbsorber"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ParagraphAbsorber. يهيئ نسخة جديدة من ParagraphAbsorber التي تقوم بالبحث عن الأقسام/الفقرات في المستند أو الصفحة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/paragraphabsorber/paragraphabsorber/
 ---
 ## ParagraphAbsorber() {#constructor}
 
-يقوم بتهيئة مثيل جديد من [`ParagraphAbsorber`](../) الذي يقوم بالبحث عن الأقسام/الفقرات في الوثيقة أو الصفحة.
+تهيئ نسخة جديدة من [`ParagraphAbsorber`](../) التي تقوم بالبحث عن الأقسام/الفقرات في المستند أو الصفحة.
 
 ```csharp
 public ParagraphAbsorber()
@@ -24,19 +24,19 @@ public ParagraphAbsorber()
 
 ## ParagraphAbsorber(int) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد من [`ParagraphAbsorber`](../) الذي يقوم بالبحث عن الأقسام/الفقرات في الوثيقة أو الصفحة.
+تهيئ نسخة جديدة من [`ParagraphAbsorber`](../) التي تقوم بالبحث عن الأقسام/الفقرات في المستند أو الصفحة.
 
 ```csharp
 public ParagraphAbsorber(int sectionsSearchDepth)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| sectionsSearchDepth | Int32 | عدد عمليات البحث المتتالية عن عناصر هيكلية أكثر دقة سيتم تنفيذها. |
+| sectionsSearchDepth | Int32 | عدد عمليات البحث المتسلسلة للعناصر الدقيقة في البنية التي سيتم تنفيذها. |
 
 ## ملاحظات
 
-انظر إلى خاصية [`SectionsSearchDepth`](../sectionssearchdepth/) للحصول على مزيد من التلميحات حول المعامل.
+انظر خاصية [`SectionsSearchDepth`](../sectionssearchdepth/) للمزيد من الإرشادات حول المعامل.
 
 ### انظر أيضًا
 
@@ -48,15 +48,15 @@ public ParagraphAbsorber(int sectionsSearchDepth)
 
 ## ParagraphAbsorber(ParagraphAbsorberOptions) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من [`ParagraphAbsorber`](../) الذي يقوم بالبحث عن الأقسام/الفقرات في الوثيقة أو الصفحة مع المعاملات المحددة.
+تهيئ نسخة جديدة من [`ParagraphAbsorber`](../) التي تقوم بالبحث عن الأقسام/الفقرات في المستند أو الصفحة باستخدام المعلمات المحددة.
 
 ```csharp
 public ParagraphAbsorber(ParagraphAbsorberOptions paragraphAbsorberOptions)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| paragraphAbsorberOptions | ParagraphAbsorberOptions | خيارات ParagraphAbsorber. |
+| paragraphAbsorberOptions | ParagraphAbsorberOptions | الـ ParagraphAbsorberOptions. |
 
 ### انظر أيضًا
 
@@ -69,16 +69,16 @@ public ParagraphAbsorber(ParagraphAbsorberOptions paragraphAbsorberOptions)
 
 ## ParagraphAbsorber(int, ParagraphAbsorberOptions) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد من [`ParagraphAbsorber`](../) الذي يقوم بالبحث عن الأقسام/الفقرات في الوثيقة أو الصفحة مع المعاملات المحددة.
+تهيئ نسخة جديدة من [`ParagraphAbsorber`](../) التي تقوم بالبحث عن الأقسام/الفقرات في المستند أو الصفحة باستخدام المعلمات المحددة.
 
 ```csharp
 public ParagraphAbsorber(int sectionsSearchDepth, ParagraphAbsorberOptions paragraphAbsorberOptions)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| sectionsSearchDepth | Int32 | عدد عمليات البحث المتتالية عن عناصر هيكلية أكثر دقة سيتم تنفيذها. |
-| paragraphAbsorberOptions | ParagraphAbsorberOptions | خيارات ParagraphAbsorber. |
+| sectionsSearchDepth | Int32 | عدد عمليات البحث المتسلسلة للعناصر الدقيقة في البنية التي سيتم تنفيذها. |
+| paragraphAbsorberOptions | ParagraphAbsorberOptions | الـ ParagraphAbsorberOptions. |
 
 ### انظر أيضًا
 
@@ -86,3 +86,5 @@ public ParagraphAbsorber(int sectionsSearchDepth, ParagraphAbsorberOptions parag
 * class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

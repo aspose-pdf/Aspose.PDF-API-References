@@ -1,14 +1,14 @@
 ---
-title: SetGlyphsPositionShowText.Text
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SetGlyphsPositionShowText. تحصل على النص من وسيط المشغل 
+title: "SetGlyphsPositionShowText.Text"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SetGlyphsPositionShowText. تسترجع النص من معامل المشغل؛ يتم تجاهل موضع الحروف"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.operators/setglyphspositionshowtext/text/
 ---
-## خاصية SetGlyphsPositionShowText.Text
+## SetGlyphsPositionShowText.Text property
 
-تحصل على النص من وسيط المشغل (يتم تجاهل موضع الرموز).
+يحصل على النص من وسيط العامل (يتم تجاهل تموضع الحروف).
 
 ```csharp
 public override string Text { get; }
@@ -19,3 +19,5 @@ public override string Text { get; }
 * class [SetGlyphsPositionShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

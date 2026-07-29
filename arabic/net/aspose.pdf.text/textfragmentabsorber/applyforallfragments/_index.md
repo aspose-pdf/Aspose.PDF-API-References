@@ -1,24 +1,24 @@
 ---
-title: TextFragmentAbsorber.ApplyForAllFragments
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TextFragmentAbsorber. تطبق الخط لجميع أجزاء النص التي تم امتصاصها. تعمل بشكل أسرع من التكرار عبر الأجزاء إذا تم امتصاص جميع الأجزاء في الصفحات. خلاف ذلك، تعمل بشكل مشابه مع التكرار.
+title: "TextFragmentAbsorber.ApplyForAllFragments"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TextFragmentAbsorber. تطبق الخط على جميع قطع النص التي تم امتصاصها. يعمل أسرع من التكرار عبر القطع إذا تم امتصاص جميع القطع على الصفحات. وإلا يعمل بشكل مشابه للتكرار."
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.text/textfragmentabsorber/applyforallfragments/
 ---
 ## ApplyForAllFragments(Font) {#applyforallfragments}
 
-تطبق الخط لجميع أجزاء النص التي تم امتصاصها. تعمل بشكل أسرع من التكرار عبر الأجزاء إذا تم امتصاص جميع الأجزاء في الصفحة(الصفحات). خلاف ذلك، تعمل بشكل مشابه مع التكرار.
+يطبق الخط لجميع أجزاء النص التي تم امتصاصها. يعمل أسرع من التكرار عبر الأجزاء إذا تم امتصاص جميع الأجزاء على الصفحة(الصفحات). وإلا يعمل بشكل مشابه مع التكرار.
 
 ```csharp
 public void ApplyForAllFragments(Font font)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | font | Font | [`Font`](../../font/) للنص. |
 
-### See Also
+### انظر أيضًا
 
 * class [Font](../../font/)
 * class [TextFragmentAbsorber](../)
@@ -29,17 +29,17 @@ public void ApplyForAllFragments(Font font)
 
 ## ApplyForAllFragments(float) {#applyforallfragments_2}
 
-تطبق حجم الخط لجميع أجزاء النص التي تم امتصاصها. تعمل بشكل أسرع من التكرار عبر الأجزاء إذا تم امتصاص جميع الأجزاء في الصفحة(الصفحات). خلاف ذلك، تعمل بشكل مشابه مع التكرار.
+يطبق حجم الخط لجميع أجزاء النص التي تم امتصاصها. يعمل أسرع من التكرار عبر الأجزاء إذا تم امتصاص جميع الأجزاء على الصفحة(الصفحات). وإلا يعمل بشكل مشابه مع التكرار.
 
 ```csharp
 public void ApplyForAllFragments(float fontSize)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fontSize | Single | حجم خط النص. |
+| fontSize | Single | حجم الخط للنص. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -49,20 +49,22 @@ public void ApplyForAllFragments(float fontSize)
 
 ## ApplyForAllFragments(Font, float) {#applyforallfragments_1}
 
-تطبق الخط والحجم لجميع أجزاء النص التي تم امتصاصها. تعمل بشكل أسرع من التكرار عبر الأجزاء إذا تم امتصاص جميع الأجزاء في الصفحة(الصفحات). خلاف ذلك، تعمل بشكل مشابه مع التكرار.
+يطبق الخط والحجم لجميع أجزاء النص التي تم امتصاصها. يعمل أسرع من التكرار عبر الأجزاء إذا تم امتصاص جميع الأجزاء على الصفحة(الصفحات). وإلا يعمل بشكل مشابه مع التكرار.
 
 ```csharp
 public void ApplyForAllFragments(Font font, float fontSize)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | font | Font | [`Font`](../../font/) للنص. |
-| fontSize | Single | حجم خط النص. |
+| fontSize | Single | حجم الخط للنص. |
 
-### See Also
+### انظر أيضًا
 
 * class [Font](../../font/)
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

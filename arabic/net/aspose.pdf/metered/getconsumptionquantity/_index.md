@@ -1,14 +1,14 @@
 ---
-title: Metered.GetConsumptionQuantity
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Metered. تحصل على حجم ملف الاستهلاك
+title: "Metered.GetConsumptionQuantity"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Metered. يحصل على حجم ملف الاستهلاك"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/metered/getconsumptionquantity/
 ---
-## طريقة Metered.GetConsumptionQuantity
+## Metered.GetConsumptionQuantity method
 
-تحصل على حجم ملف الاستهلاك.
+يحصل على حجم ملف الاستهلاك.
 
 ```csharp
 public static decimal GetConsumptionQuantity()
@@ -23,3 +23,5 @@ public static decimal GetConsumptionQuantity()
 * class [Metered](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

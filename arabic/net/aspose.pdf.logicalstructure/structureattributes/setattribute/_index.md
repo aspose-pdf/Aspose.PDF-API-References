@@ -1,22 +1,22 @@
 ---
-title: StructureAttributes.SetAttribute
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة StructureAttributes. تضبط StructureAttribute في StructureAttributes
+title: "StructureAttributes.SetAttribute"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة StructureAttributes. تقوم بتعيين StructureAttribute إلى StructureAttributes"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.logicalstructure/structureattributes/setattribute/
 ---
-## طريقة StructureAttributes.SetAttribute
+## StructureAttributes.SetAttribute method
 
-تضبط StructureAttribute في StructureAttributes.
+يضبط StructureAttribute في StructureAttributes.
 
 ```csharp
 public void SetAttribute(StructureAttribute attribute)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| attribute | StructureAttribute | StructureAttribute. |
+| السمة | StructureAttribute | StructureAttribute. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public void SetAttribute(StructureAttribute attribute)
 * class [StructureAttributes](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

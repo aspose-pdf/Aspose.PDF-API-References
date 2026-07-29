@@ -1,24 +1,24 @@
 ---
-title: ParagraphAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ParagraphAbsorber. تقوم بالبحث عن الأقسام والفقرات في المستند المحدد
+title: "ParagraphAbsorber.Visit"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ParagraphAbsorber. تقوم بالبحث عن الأقسام والفقرات في الـ Document المحدد"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.text/paragraphabsorber/visit/
 ---
 ## Visit(Document) {#visit}
 
-تقوم بالبحث عن الأقسام والفقرات في [`Document`](../../../aspose.pdf/document/) المحدد.
+تقوم بالبحث عن الأقسام والفقرات في الـ [`Document`](../../../aspose.pdf/document/).
 
 ```csharp
 public void Visit(Document doc)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| doc | Document | كائن مستند PDF. |
+| doc | Document | كائن مستند Pdf. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [ParagraphAbsorber](../)
@@ -29,19 +29,21 @@ public void Visit(Document doc)
 
 ## Visit(Page) {#visit_1}
 
-تقوم بالبحث في [`Page`](../../../aspose.pdf/page/) المحددة.
+تقوم بالبحث في الـ [`Page`](../../../aspose.pdf/page/).
 
 ```csharp
 public void Visit(Page page)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | كائن صفحة مستند PDF. |
+| صفحة | صفحة | كائن صفحة مستند Pdf. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

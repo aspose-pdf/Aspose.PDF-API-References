@@ -1,14 +1,14 @@
 ---
-title: Option.Index
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الخيار. تحصل على فهرس الخيار
+title: "Option.Index"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Option. تحصل على فهرس الخيار"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.forms/option/index/
 ---
-## خاصية Option.Index
+## Option.Index property
 
-تحصل على فهرس الخيار.
+يحصل على فهرس الخيار.
 
 ```csharp
 public int Index { get; }
@@ -19,3 +19,5 @@ public int Index { get; }
 * class [Option](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

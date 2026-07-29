@@ -1,14 +1,14 @@
 ---
-title: FormTextBoxFieldSetOptions.Multiline
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormTextBoxFieldSetOptions. تحصل/تعيين القيمة لتحديد خاصية Multiline للحقل المعدل إذا سيتم تعيينها
+title: "FormTextBoxFieldSetOptions.Multiline"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormTextBoxFieldSetOptions. يحصل/يضبط القيمة لتحديد الخاصية Multiline للحقل المعدل إذا سيتم تعيينها"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.plugins/formtextboxfieldsetoptions/multiline/
 ---
-## خاصية FormTextBoxFieldSetOptions.Multiline
+## FormTextBoxFieldSetOptions.Multiline property
 
-تحصل/تعيين القيمة لتحديد خاصية Multiline للحقل المعدل (إذا سيتم تعيينها).
+يحصل/يضبط القيمة لتحديد الخاصية Multiline للحقل المعدل (إذا سيتم ضبطها).
 
 ```csharp
 public bool? Multiline { get; set; }
@@ -19,3 +19,5 @@ public bool? Multiline { get; set; }
 * class [FormTextBoxFieldSetOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

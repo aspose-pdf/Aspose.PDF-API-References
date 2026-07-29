@@ -1,24 +1,24 @@
 ---
-title: PageCollectionExtensions.AddPagination
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PageCollectionExtensions. تضيف العناصر المحددة للترقيم إلى كل صفحة في مجموعة الصفحات المعطاة
+title: "PageCollectionExtensions.AddPagination"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PageCollectionExtensions. تضيف قطع ترقيم محددة إلى كل صفحة في مجموعة الصفحات المحددة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/pagecollectionextensions/addpagination/
 ---
-## طريقة PageCollectionExtensions.AddPagination
+## PageCollectionExtensions.AddPagination method
 
-تضيف العناصر المحددة للترقيم إلى كل صفحة في مجموعة الصفحات المعطاة.
+يضيف العناصر المحددة للترقيم إلى كل صفحة في مجموعة الصفحات المحددة.
 
 ```csharp
 public static void AddPagination(this PageCollection pageCollection, 
     List<PaginationArtifact> artifacts)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pageCollection | PageCollection | مجموعة الصفحات التي ستضاف إليها عناصر الترقيم. |
-| artifacts | List`1 | قائمة عناصر الترقيم التي ستضاف إلى كل صفحة. |
+| pageCollection | PageCollection | مجموعة الصفحات التي ستُضاف إليها قطع ترقيم. |
+| قطع | List`1 | قائمة قطع ترقيم لإضافتها إلى كل صفحة. |
 
 ### انظر أيضًا
 
@@ -27,3 +27,5 @@ public static void AddPagination(this PageCollection pageCollection,
 * class [PageCollectionExtensions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

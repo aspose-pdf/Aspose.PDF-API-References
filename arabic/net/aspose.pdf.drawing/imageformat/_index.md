@@ -1,35 +1,37 @@
 ---
-title: Enum ImageFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.ImageFormat enum. هذا التعداد يمثل تنسيقات الصور
+title: "تعداد ImageFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Drawing.ImageFormat التعداد. يمثل هذا التعداد صيغ الصور"
 type: docs
-weight: 3950
+weight: 4070
 url: /ar/net/aspose.pdf.drawing/imageformat/
 ---
 ## ImageFormat enumeration
 
-هذا التعداد يمثل تنسيقات الصور.
+يمثل هذا التعداد صيغ الصور.
 
 ```csharp
 public enum ImageFormat
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Bmp | `0` | تنسيق BMP. |
-| Jpeg | `1` | تنسيق JPEG. |
-| Gif | `2` | تنسيق GIF. |
-| Png | `3` | تنسيق PNG. |
-| Tiff | `4` | تنسيق TIFF. |
-| Emf | `5` | تنسيق EMF. |
-| Dicom | `6` | تنسيق DICOM. |
-| MemoryBmp | `7` | تنسيق MemoryBmp. |
-| Wmf | `8` | تنسيق Wmf. |
-| Exif | `9` | تنسيق Exif. |
+| Bmp | `0` | صيغة BMP. |
+| Jpeg | `1` | صيغة JPEG. |
+| Gif | `2` | صيغة GIF. |
+| Png | `3` | صيغة PNG. |
+| Tiff | `4` | صيغة TIFF. |
+| Emf | `5` | صيغة EMF. |
+| Dicom | `6` | صيغة DICOM. |
+| MemoryBmp | `7` | صيغة MemoryBmp. |
+| Wmf | `8` | صيغة Wmf. |
+| Exif | `9` | صيغة Exif. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
+
+

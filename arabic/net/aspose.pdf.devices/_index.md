@@ -1,38 +1,40 @@
 ---
-title: Aspose.Pdf.Devices
-second_title: Aspose.PDF for .NET API Reference
-description: يوفر مساحة أسماء Aspose.Pdf.Devices فئات تُستخدم لتمثيل المستند كصور أو نص عادي. لذا يمكن إرسال المستند إلى أجهزة نصية أو رسومية مختلفة مما يعني أننا نريد الحصول على تمثيل نصي أو رسومي له.
+title: "Aspose.Pdf.Devices"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "توفر مساحة الاسم Aspose.Pdf.Devices فئات تُستخدم لتمثيل المستند كصور أو نص عادي. وبالتالي يمكن إرسال المستند إلى أجهزة نصية أو رسومية مختلفة، مما يعني أننا نريد الحصول على تمثيل نصي أو رسومي."
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.devices/
 ---
-تقدم مساحة أسماء **Aspose.Pdf.Devices** فئات تُستخدم لتمثيل المستند كصورة أو نص عادي. لذا يمكن إرسال المستند إلى أجهزة نصية أو رسومية مختلفة مما يعني أننا نريد الحصول على تمثيل نصي أو رسومي له.
+توفر مساحة الاسم **Aspose.Pdf.Devices** فئات تُستخدم لتمثيل المستند كصورة أو نص عادي. وبالتالي يمكن إرسال المستند إلى أجهزة نصية أو رسومية مختلفة، مما يعني أننا نريد الحصول على تمثيل نصي أو رسومي.
 
 ## الفئات
 
-| الفئة | الوصف |
+| فئة | الوصف |
 | --- | --- |
-| [BmpDevice](./bmpdevice/) | تمثل جهاز الصورة الذي يساعد في حفظ صفحات مستند PDF في صيغة BMP. |
-| [Device](./device/) | فئة مجردة لجميع أنواع الأجهزة. تُستخدم Device لتمثيل مستند PDF في بعض الصيغ. على سبيل المثال، يمكن تمثيل صفحة المستند كصورة أو نص. |
-| [DicomDevice](./dicomdevice/) | تمثل جهاز الصورة الذي يساعد في حفظ صفحات مستند PDF في صيغة Dicom. |
-| [DocumentDevice](./documentdevice/) | فئة مجردة لجميع الأجهزة التي تُستخدم لمعالجة مستند PDF بالكامل. |
-| [EmfDevice](./emfdevice/) | تمثل جهاز الصورة الذي يساعد في حفظ صفحات مستند PDF في صيغة EMF. |
-| [GifDevice](./gifdevice/) | تمثل جهاز الصورة الذي يساعد في حفظ صفحات مستند PDF في صيغة GIF. |
-| [ImageDevice](./imagedevice/) | فئة مجردة لأجهزة الصور. |
-| [JpegDevice](./jpegdevice/) | تمثل جهاز الصورة الذي يساعد في حفظ صفحات مستند PDF في صيغة JPEG. |
-| [Margins](./margins/) | تمثل هذه الفئة الهوامش لصورة. |
-| [PageDevice](./pagedevice/) | فئة مجردة لجميع الأجهزة التي تُستخدم لمعالجة صفحة معينة من مستند PDF. |
-| [PngDevice](./pngdevice/) | تمثل جهاز الصورة الذي يساعد في حفظ صفحات مستند PDF في صيغة PNG. |
-| [Resolution](./resolution/) | تمثل فئة للاحتفاظ بدقة الصورة. |
-| [TextDevice](./textdevice/) | تمثل فئة لتحويل صفحات مستند PDF إلى نص. |
-| [ThumbnailDevice](./thumbnaildevice/) | تمثل جهاز الصورة الذي يحفظ صفحات مستند PDF في صورة مصغرة. |
-| [TiffDevice](./tiffdevice/) | تساعد هذه الفئة في حفظ صفحات مستند PDF صفحة بصفحة في صورة TIFF واحدة. |
-| [TiffSettings](./tiffsettings/) | تمثل هذه الفئة إعدادات استيراد PDF إلى TIFF. |
-## التعداد
+| [BmpDevice](./bmpdevice/) | يمثل جهاز صورة يساعد على حفظ صفحات مستند pdf بصيغة bmp. |
+| [Device](./device/) | فئة مجردة لجميع أنواع الأجهزة. يُستخدم الجهاز لتمثيل مستند pdf بصيغة معينة. على سبيل المثال، يمكن تمثيل صفحة المستند كصورة أو نص. |
+| [DicomDevice](./dicomdevice/) | يمثل جهاز صورة يساعد على حفظ صفحات مستند pdf بصيغة Dicom. |
+| [DocumentDevice](./documentdevice/) | فئة مجردة لجميع الأجهزة تُستخدم لمعالجة مستند pdf بالكامل. |
+| [EmfDevice](./emfdevice/) | يمثل جهاز صورة يساعد على حفظ صفحات مستند pdf بصيغة emf. |
+| [GifDevice](./gifdevice/) | يمثل جهاز صورة يساعد على حفظ صفحات مستند pdf بصيغة gif. |
+| [ImageDevice](./imagedevice/) | فئة مجردة لأجهزة الصورة. |
+| [JpegDevice](./jpegdevice/) | يمثل جهاز صورة يساعد على حفظ صفحات مستند pdf بصيغة jpeg. |
+| [Margins](./margins/) | تمثل هذه الفئة هوامش الصورة. |
+| [PageDevice](./pagedevice/) | فئة مجردة لجميع الأجهزة تُستخدم لمعالجة صفحة معينة من مستند pdf. |
+| [PngDevice](./pngdevice/) | يمثل جهاز صورة يساعد على حفظ صفحات مستند pdf بصيغة png. |
+| [Resolution](./resolution/) | يمثل فئة لحفظ دقة الصورة. |
+| [TextDevice](./textdevice/) | يمثل فئة لتحويل صفحات مستند pdf إلى نص. |
+| [ThumbnailDevice](./thumbnaildevice/) | يمثل جهاز صورة يحفظ صفحات مستند pdf كصورة مصغرة Thumbnail. |
+| [TiffDevice](./tiffdevice/) | تساعد هذه الفئة على حفظ صفحات مستند pdf صفحةً بصفحة في صورة tiff واحدة. |
+| [TiffSettings](./tiffsettings/) | تمثل هذه الفئة إعدادات استيراد pdf إلى Tiff. |
+## تعداد
 
-| التعداد | الوصف |
+| تعداد | الوصف |
 | --- | --- |
-| [ColorDepth](./colordepth/) | تُستخدم لتحديد قيمة المعامل الممررة إلى جهاز صورة TIFF. |
-| [CompressionType](./compressiontype/) | تُستخدم لتحديد قيمة المعامل الممررة إلى جهاز صورة TIFF. |
-| [FormPresentationMode](./formpresentationmode/) | تُستخدم لتحديد وضع تقديم النموذج عند الطباعة أو التحويل إلى صور لمستندات PDF. |
+| [ColorDepth](./colordepth/) | يُستخدم لتحديد قيمة المعامل الممررة إلى جهاز صورة Tiff. |
+| [CompressionType](./compressiontype/) | يُستخدم لتحديد قيمة المعامل الممررة إلى جهاز صورة Tiff. |
+| [FormPresentationMode](./formpresentationmode/) | يُستخدم لتحديد وضع عرض النموذج عند الطباعة أو التحويل إلى مستندات pdf صورة. |
 | [ShapeType](./shapetype/) | يمثل هذا التعداد نوع الشكل للصور المستخرجة. |
+
+

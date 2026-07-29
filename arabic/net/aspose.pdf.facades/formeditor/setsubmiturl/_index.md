@@ -1,27 +1,27 @@
 ---
-title: FormEditor.SetSubmitUrl
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormEditor. تعيين عنوان URL للزر
+title: "FormEditor.SetSubmitUrl"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FormEditor. تعيين عنوان URL للزر"
 type: docs
 weight: 340
 url: /ar/net/aspose.pdf.facades/formeditor/setsubmiturl/
 ---
-## طريقة FormEditor.SetSubmitUrl
+## FormEditor.SetSubmitUrl method
 
-تعيين عنوان URL للزر.
+يضبط URL للزر.
 
 ```csharp
 public bool SetSubmitUrl(string fieldName, string url)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fieldName | سلسلة | اسم زر الإرسال. |
-| url | سلسلة | عنوان URL مؤهل بالكامل. |
+| fieldName | String | اسم زر الإرسال. |
+| عنوان URL | String | عنوان URL مؤهل بالكامل. |
 
 ### قيمة الإرجاع
 
-true إذا تم تعيين عنوان URL للزر بنجاح.
+صحيح إذا تم تعيين عنوان URL للزر بنجاح.
 
 ## أمثلة
 
@@ -35,3 +35,5 @@ formEditor.SetSubmitUrl("btnSubmit", "www.mysite.com");
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

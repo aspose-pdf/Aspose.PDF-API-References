@@ -1,14 +1,14 @@
 ---
-title: Signature.Reason
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية التوقيع. سبب التوقيع مثل أوافق Pip B
+title: "Signature.Reason"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Signature. السبب للتوقيع مثل I agree Pip B"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.forms/signature/reason/
 ---
-## خاصية Signature.Reason
+## Signature.Reason property
 
-سبب التوقيع، مثل (أوافق، Pip B.).
+سبب التوقيع، مثل (I agree, Pip B.).
 
 ```csharp
 public string Reason { get; set; }
@@ -19,3 +19,5 @@ public string Reason { get; set; }
 * class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

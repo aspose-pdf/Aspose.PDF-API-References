@@ -1,14 +1,14 @@
 ---
-title: FormEditor.SubmitFlag
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormEditor. تعيين علامات تقديم أزرار الإرسال
+title: "FormEditor.SubmitFlag"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormEditor. اضبط علامات إرسال أزرار الإرسال"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.facades/formeditor/submitflag/
 ---
-## خاصية FormEditor.SubmitFlag
+## FormEditor.SubmitFlag property
 
-تعيين علامات تقديم زر الإرسال
+ضبط أعلام الإرسال لزر الإرسال.
 
 ```csharp
 public SubmitFormFlag SubmitFlag { get; set; }
@@ -20,3 +20,5 @@ public SubmitFormFlag SubmitFlag { get; set; }
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

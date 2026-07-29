@@ -1,14 +1,14 @@
 ---
-title: Color.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Color. تحويل إلى سلسلة
+title: "Color.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Color. يحول إلى سلسلة"
 type: docs
 weight: 1550
 url: /ar/net/aspose.pdf/color/tostring/
 ---
-## طريقة Color.ToString
+## Color.ToString method
 
-تحويل إلى سلسلة.
+يحوّل إلى سلسلة.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-تمثيل سلسلة لكائن Color.
+تمثيل النص لكائن Color.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

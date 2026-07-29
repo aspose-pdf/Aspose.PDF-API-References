@@ -1,14 +1,14 @@
 ---
-title: SetColor.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة SetColor. تعيد اللون المحدد بواسطة المشغل
+title: "SetColor.getColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة SetColor. تُرجع اللون المحدد بواسطة المشغل"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.operators/setcolor/getcolor/
 ---
-## طريقة SetColor.getColor
+## SetColor.getColor method
 
-تعيد اللون المحدد بواسطة المشغل.
+يعيد اللون المحدد بواسطة المشغل.
 
 ```csharp
 public override Color getColor()
@@ -23,3 +23,5 @@ public override Color getColor()
 * class [SetColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,29 +1,31 @@
 ---
-title: PdfFileEditor.ContentsResizeValue.Percents
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ContentsResizeValue. تهيئة القيمة بالنسب
+title: "PdfFileEditor.ContentsResizeValue.Percents"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ContentsResizeValue. تُهيئ القيمة بالنسب المئوية"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/percents/
 ---
-## طريقة PdfFileEditor.ContentsResizeValue.Percents
+## PdfFileEditor.ContentsResizeValue.Percents method
 
-تهيئة القيمة بالنسب.
+يُهيئ القيمة بالنسبة المئوية.
 
 ```csharp
 public static ContentsResizeValue Percents(double value)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | Double | القيمة بالنسب. |
+| القيمة | Double | القيمة بالنسب المئوية. |
 
 ### قيمة الإرجاع
 
-مثيل جديد للقيمة.
+كائن قيمة جديد.
 
 ### انظر أيضًا
 
 * class [ContentsResizeValue](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

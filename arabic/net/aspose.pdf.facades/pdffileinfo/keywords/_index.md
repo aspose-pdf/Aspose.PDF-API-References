@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.Keywords
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileInfo. تحصل أو تعين معلومات الكلمات الرئيسية لوثيقة PDF
+title: "PdfFileInfo.Keywords"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileInfo. تحصل أو تعين معلومات الكلمات المفتاحية لوثيقة PDF"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.facades/pdffileinfo/keywords/
 ---
-## خاصية PdfFileInfo.Keywords
+## PdfFileInfo.Keywords property
 
-تحصل أو تعين معلومات الكلمات الرئيسية لوثيقة PDF.
+Gets or sets the Keywords information of PDF document.
 
 ```csharp
 public string Keywords { get; set; }
@@ -19,3 +19,5 @@ public string Keywords { get; set; }
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

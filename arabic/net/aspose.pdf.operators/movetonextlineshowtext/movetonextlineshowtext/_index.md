@@ -1,20 +1,20 @@
 ---
-title: MoveToNextLineShowText.MoveToNextLineShowText
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ MoveToNextLineShowText. يُهيئ المُشغل
+title: "MoveToNextLineShowText.MoveToNextLineShowText"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ MoveToNextLineShowText. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/movetonextlineshowtext/movetonextlineshowtext/
 ---
 ## MoveToNextLineShowText() {#constructor}
 
-يُهيئ المُشغل.
+يُهيئ العامل.
 
 ```csharp
 public MoveToNextLineShowText()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [MoveToNextLineShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -24,18 +24,20 @@ public MoveToNextLineShowText()
 
 ## MoveToNextLineShowText(string) {#constructor_1}
 
-يُهيئ المُشغل.
+يُهيئ العامل.
 
 ```csharp
 public MoveToNextLineShowText(string text)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| text | String | النص. |
+| نص | String | النص. |
 
-### See Also
+### انظر أيضًا
 
 * class [MoveToNextLineShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

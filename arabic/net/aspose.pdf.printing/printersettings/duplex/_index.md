@@ -1,14 +1,14 @@
 ---
-title: PrinterSettings.Duplex
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية إعدادات الطابعة. تحصل أو تعين إعداد الطباعة المزدوجة للطابعات
+title: "PrinterSettings.Duplex"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PrinterSettings. تحصل أو تعين إعداد الطباعة مزدوج الوجه للطابعة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.printing/printersettings/duplex/
 ---
-## خاصية إعدادات الطابعة.الطباعة المزدوجة
+## PrinterSettings.Duplex property
 
-تحصل أو تعين إعداد الطباعة المزدوجة للطابعة.
+يحصل أو يعيّن إعداد الطباعة المزدوجة للطابعة.
 
 ```csharp
 public Duplex Duplex { get; set; }
@@ -16,7 +16,9 @@ public Duplex Duplex { get; set; }
 
 ### انظر أيضًا
 
-* enum [الطباعة المزدوجة](../../duplex/)
-* class [إعدادات الطابعة](../)
+* enum [Duplex](../../duplex/)
+* class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

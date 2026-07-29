@@ -1,22 +1,22 @@
 ---
-title: PdfConverter.GetNextImage
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfConverter. تحفظ الصورة في ملف بتنسيق الصورة الافتراضي - jpeg
+title: "PdfConverter.GetNextImage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfConverter. تحفظ الصورة إلى ملف بصيغة الصورة الافتراضية jpeg"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.facades/pdfconverter/getnextimage/
 ---
 ## GetNextImage(string) {#getnextimage_9}
 
-تحفظ الصورة في ملف بتنسيق الصورة الافتراضي - jpeg.
+يحفظ الصورة إلى ملف بصيغة الصورة الافتراضية - jpeg.
 
 ```csharp
 public void GetNextImage(string outputFile)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFile | String | مسار الملف واسم الملف لحفظ الصورة. |
+| outputFile | String | مسار الملف والاسم لحفظ الصورة. |
 
 ### انظر أيضًا
 
@@ -28,15 +28,15 @@ public void GetNextImage(string outputFile)
 
 ## GetNextImage(string, PageSize) {#getnextimage_10}
 
-تحفظ الصورة في ملف بحجم الصفحة المعطى وتنسيق الصورة الافتراضي - jpeg.
+يحفظ الصورة إلى ملف بحجم صفحة محدد وصيغة الصورة الافتراضية - jpeg.
 
 ```csharp
 public void GetNextImage(string outputFile, PageSize pageSize)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFile | String | مسار الملف واسم الملف لحفظ الصورة. |
+| outputFile | String | مسار الملف والاسم لحفظ الصورة. |
 | pageSize | PageSize | حجم الصفحة للصورة. |
 
 ### انظر أيضًا
@@ -50,15 +50,15 @@ public void GetNextImage(string outputFile, PageSize pageSize)
 
 ## GetNextImage(string, ImageFormat) {#getnextimage_13}
 
-تحفظ الصورة في ملف بالتنسيق المعطى للصورة.
+يحفظ الصورة إلى ملف بصيغة صورة محددة.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFile | String | مسار الملف واسم الملف لحفظ الصورة. |
+| outputFile | String | مسار الملف والاسم لحفظ الصورة. |
 | format | ImageFormat | تنسيق الصورة. |
 
 ## أمثلة
@@ -100,15 +100,15 @@ End While
 
 ## GetNextImage(string, PageSize, ImageFormat) {#getnextimage_11}
 
-تحفظ الصورة في ملف بحجم الصفحة المعطى وتنسيق الصورة.
+يحفظ الصورة إلى ملف باستخدام حجم الصفحة المحدد وتنسيق الصورة.
 
 ```csharp
 public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat format)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFile | String | مسار الملف واسم الملف لحفظ الصورة. |
+| outputFile | String | مسار الملف والاسم لحفظ الصورة. |
 | pageSize | PageSize | حجم الصفحة للصورة. |
 | format | ImageFormat | تنسيق الصورة. |
 
@@ -123,15 +123,15 @@ public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat forma
 
 ## GetNextImage(Stream) {#getnextimage}
 
-تحفظ الصورة في دفق بتنسيق الصورة الافتراضي - jpeg.
+يحفظ الصورة إلى تدفق بصيغة الصورة الافتراضية - jpeg.
 
 ```csharp
 public void GetNextImage(Stream outputStream)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | الدفق لحفظ الصورة. |
+| outputStream | Stream | دفق البيانات لحفظ الصورة. |
 
 ### انظر أيضًا
 
@@ -143,15 +143,15 @@ public void GetNextImage(Stream outputStream)
 
 ## GetNextImage(Stream, PageSize) {#getnextimage_1}
 
-تحفظ الصورة في دفق بحجم الصفحة المعطى.
+يحفظ الصورة إلى تدفق بحجم صفحة محدد.
 
 ```csharp
 public void GetNextImage(Stream outputStream, PageSize pageSize)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | الدفق لحفظ الصورة. |
+| outputStream | Stream | دفق البيانات لحفظ الصورة. |
 | pageSize | PageSize | حجم الصفحة للصورة. |
 
 ### انظر أيضًا
@@ -165,15 +165,15 @@ public void GetNextImage(Stream outputStream, PageSize pageSize)
 
 ## GetNextImage(Stream, ImageFormat) {#getnextimage_4}
 
-تحفظ الصورة في دفق بالتنسيق المعطى للصورة.
+يحفظ الصورة إلى تدفق بصيغة صورة محددة.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | الدفق لحفظ الصورة. |
+| outputStream | Stream | دفق البيانات لحفظ الصورة. |
 | format | ImageFormat | تنسيق الصورة. |
 
 ### انظر أيضًا
@@ -186,15 +186,15 @@ public void GetNextImage(Stream outputStream, ImageFormat format)
 
 ## GetNextImage(Stream, PageSize, ImageFormat) {#getnextimage_2}
 
-تحفظ الصورة في دفق بحجم الصفحة المعطى.
+يحفظ الصورة إلى تدفق بحجم صفحة محدد.
 
 ```csharp
 public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat format)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | الدفق لحفظ الصورة. |
+| outputStream | Stream | دفق البيانات لحفظ الصورة. |
 | pageSize | PageSize | حجم الصفحة للصورة. |
 | format | ImageFormat | تنسيق الصورة. |
 
@@ -209,20 +209,20 @@ public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat for
 
 ## GetNextImage(string, ImageFormat, int, int, int) {#getnextimage_17}
 
-تحفظ الصورة في ملف بالتنسيق المعطى للصورة، والأبعاد والجودة.
+يحفظ الصورة إلى ملف باستخدام تنسيق الصورة المحدد، الأبعاد والجودة.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, int imageHeight, 
     int quality)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFile | String | مسار الملف واسم الملف لحفظ الصورة. |
+| outputFile | String | مسار الملف والاسم لحفظ الصورة. |
 | format | ImageFormat | تنسيق الصورة. |
-| imageWidth | Int32 | عرض الصورة، الوحدة هي بكسل. |
-| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي بكسل. |
-| quality | Int32 | جودة ملف Jpeg (0~100)، 0 هو الأدنى و100 هو الأعلى |
+| imageWidth | Int32 | عرض الصورة، الوحدة هي pixel. |
+| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي pixel. |
+| quality | Int32 | جودة ملف Jpeg (0~100)، 0 هي الأدنى و 100 هي الأعلى |
 
 ## أمثلة
 
@@ -263,20 +263,20 @@ End While
 
 ## GetNextImage(Stream, ImageFormat, int, int, int) {#getnextimage_8}
 
-تحفظ الصورة في دفق بالتنسيق المعطى للصورة، والأبعاد والجودة.
+يحفظ الصورة إلى تدفق باستخدام تنسيق الصورة المعطى، الأبعاد والجودة.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth, int imageHeight, 
     int quality)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | الدفق لحفظ الصورة. |
+| outputStream | Stream | دفق البيانات لحفظ الصورة. |
 | format | ImageFormat | تنسيق الصورة. |
-| imageWidth | Int32 | عرض الصورة، الوحدة هي بكسل. |
-| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي بكسل. |
-| quality | Int32 | جودة ملف Jpeg (0~100)، 0 هو الأدنى و100 هو الأعلى |
+| imageWidth | Int32 | عرض الصورة، الوحدة هي pixel. |
+| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي pixel. |
+| quality | Int32 | جودة ملف Jpeg (0~100)، 0 هي الأدنى و 100 هي الأعلى |
 
 ### انظر أيضًا
 
@@ -288,20 +288,20 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth
 
 ## GetNextImage(string, ImageFormat, double, double, int) {#getnextimage_14}
 
-تحفظ الصورة في ملف بالتنسيق المعطى للصورة، وحجم الصورة، والجودة.
+يحفظ الصورة إلى ملف باستخدام تنسيق الصورة المعطى، حجم الصورة، والجودة.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format, double imageWidth, 
     double imageHeight, int quality)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFile | String | مسار الملف واسم الملف لحفظ الصورة. |
+| outputFile | String | مسار الملف والاسم لحفظ الصورة. |
 | format | ImageFormat | تنسيق الصورة. |
-| imageWidth | Double | عرض الصورة، الوحدة هي بكسل. |
-| imageHeight | Double | ارتفاع الصورة، الوحدة هي بكسل. |
-| quality | Int32 | جودة ملف Jpeg (0~100)، 0 هو الأدنى و100 هو الأعلى |
+| imageWidth | Double | عرض الصورة، الوحدة هي pixels. |
+| imageHeight | Double | ارتفاع الصورة، الوحدة هي pixels.. |
+| quality | Int32 | جودة ملف Jpeg (0~100)، 0 هي الأدنى و 100 هي الأعلى |
 
 ## أمثلة
 
@@ -346,20 +346,20 @@ End While
 
 ## GetNextImage(Stream, ImageFormat, double, double, int) {#getnextimage_5}
 
-تحفظ الصورة في دفق بالتنسيق المعطى للصورة، والحجم والجودة.
+يحفظ الصورة إلى تدفق باستخدام تنسيق الصورة المعطى، الحجم والجودة.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, double imageWidth, 
     double imageHeight, int quality)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | الدفق لحفظ الصورة. |
+| outputStream | Stream | دفق البيانات لحفظ الصورة. |
 | format | ImageFormat | تنسيق الصورة. |
-| imageWidth | Double | عرض الصورة، الوحدة هي بكسل. |
-| imageHeight | Double | ارتفاع الصورة، الوحدة هي بكسل. |
-| quality | Int32 | جودة ملف Jpeg (0~100)، 0 هو الأدنى و100 هو الأعلى |
+| imageWidth | Double | عرض الصورة، الوحدة هي pixel. |
+| imageHeight | Double | ارتفاع الصورة، الوحدة هي pixel. |
+| quality | Int32 | جودة ملف Jpeg (0~100)، 0 هي الأدنى و 100 هي الأعلى |
 
 ### انظر أيضًا
 
@@ -371,18 +371,18 @@ public void GetNextImage(Stream outputStream, ImageFormat format, double imageWi
 
 ## GetNextImage(string, ImageFormat, int, int) {#getnextimage_16}
 
-تحفظ الصورة في ملف بالتنسيق المعطى للصورة والأبعاد.
+يحفظ الصورة إلى ملف باستخدام تنسيق الصورة المحدد والأبعاد.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, int imageHeight)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFile | String | مسار الملف واسم الملف لحفظ الصورة. |
+| outputFile | String | مسار الملف والاسم لحفظ الصورة. |
 | format | ImageFormat | تنسيق الصورة. |
-| imageWidth | Int32 | عرض الصورة، الوحدة هي بكسل. |
-| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي بكسل. |
+| imageWidth | Int32 | عرض الصورة، الوحدة هي pixel. |
+| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي pixel. |
 
 ## أمثلة
 
@@ -423,18 +423,18 @@ End While
 
 ## GetNextImage(Stream, ImageFormat, int, int) {#getnextimage_7}
 
-تحفظ الصورة في دفق بالتنسيق المعطى للصورة، والحجم والجودة.
+يحفظ الصورة إلى تدفق باستخدام تنسيق الصورة المعطى، الحجم والجودة.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth, int imageHeight)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | الدفق لحفظ الصورة. |
+| outputStream | Stream | دفق البيانات لحفظ الصورة. |
 | format | ImageFormat | تنسيق الصورة. |
-| imageWidth | Int32 | عرض الصورة، الوحدة هي بكسل. |
-| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي بكسل. |
+| imageWidth | Int32 | عرض الصورة، الوحدة هي pixel. |
+| imageHeight | Int32 | ارتفاع الصورة، الوحدة هي pixel. |
 
 ### انظر أيضًا
 
@@ -446,17 +446,17 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth
 
 ## GetNextImage(Stream, ImageFormat, int) {#getnextimage_6}
 
-تحفظ الصورة في دفق بالتنسيق المعطى للصورة والجودة.
+يحفظ الصورة إلى تدفق باستخدام تنسيق الصورة المحدد والجودة.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, int quality)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | الدفق لحفظ الصورة. |
+| outputStream | Stream | دفق البيانات لحفظ الصورة. |
 | format | ImageFormat | تنسيق الصورة. |
-| quality | Int32 | جودة ملف Jpeg (0~100)، 0 هو الأدنى و100 هو الأعلى |
+| quality | Int32 | جودة ملف Jpeg (0~100)، 0 هي الأدنى و 100 هي الأعلى |
 
 ### انظر أيضًا
 
@@ -468,18 +468,18 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int quality)
 
 ## GetNextImage(Stream, PageSize, ImageFormat, int) {#getnextimage_3}
 
-تحفظ الصورة في دفق بحجم الصفحة المعطى، وتنسيق الصورة والجودة.
+يحفظ الصورة إلى تدفق باستخدام حجم الصفحة المحدد، تنسيق الصورة والجودة.
 
 ```csharp
 public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat format, int quality)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputStream | Stream | الدفق لحفظ الصورة. |
+| outputStream | Stream | دفق البيانات لحفظ الصورة. |
 | pageSize | PageSize | حجم الصفحة للصورة. |
 | format | ImageFormat | تنسيق الصورة. |
-| quality | Int32 | جودة ملف Jpeg (0~100)، 0 هو الأدنى و100 هو الأعلى |
+| quality | Int32 | جودة ملف Jpeg (0~100)، 0 هي الأدنى و 100 هي الأعلى |
 
 ### انظر أيضًا
 
@@ -492,17 +492,17 @@ public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat for
 
 ## GetNextImage(string, ImageFormat, int) {#getnextimage_15}
 
-تحفظ الصورة في ملف بالتنسيق المعطى للصورة والجودة.
+يحفظ الصورة إلى ملف باستخدام تنسيق الصورة المحدد والجودة.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format, int quality)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFile | String | مسار الملف واسم الملف لحفظ الصورة. |
+| outputFile | String | مسار الملف والاسم لحفظ الصورة. |
 | format | ImageFormat | تنسيق الصورة. |
-| quality | Int32 | جودة ملف Jpeg (0~100)، 0 هو الأدنى و100 هو الأعلى |
+| quality | Int32 | جودة ملف Jpeg (0~100)، 0 هي الأدنى و 100 هي الأعلى |
 
 ### انظر أيضًا
 
@@ -514,18 +514,18 @@ public void GetNextImage(string outputFile, ImageFormat format, int quality)
 
 ## GetNextImage(string, PageSize, ImageFormat, int) {#getnextimage_12}
 
-تحفظ الصورة في ملف بحجم الصفحة المعطى، وتنسيق الصورة والجودة.
+يحفظ الصورة إلى ملف باستخدام حجم الصفحة المحدد، تنسيق الصورة والجودة.
 
 ```csharp
 public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat format, int quality)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFile | String | مسار الملف واسم الملف لحفظ الصورة. |
+| outputFile | String | مسار الملف والاسم لحفظ الصورة. |
 | pageSize | PageSize | حجم الصفحة للصورة. |
 | format | ImageFormat | تنسيق الصورة. |
-| quality | Int32 | جودة ملف Jpeg (0~100)، 0 هو الأدنى و100 هو الأعلى |
+| quality | Int32 | جودة ملف Jpeg (0~100)، 0 هي الأدنى و 100 هي الأعلى |
 
 ### انظر أيضًا
 
@@ -533,3 +533,5 @@ public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat forma
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

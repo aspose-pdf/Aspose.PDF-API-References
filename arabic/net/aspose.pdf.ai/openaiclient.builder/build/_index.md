@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.Builder.Build
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة البناء. تبني وتعيد مثيلًا من OpenAIClient مع الخيارات المكونة
+title: "OpenAIClient.Builder.Build"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Builder. تنشئ وتعيد مثالًا من OpenAIClient مع الخيارات المكوّنة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/openaiclient.builder/build/
 ---
-## طريقة OpenAIClient.Builder.Build
+## OpenAIClient.Builder.Build method
 
-تبني وتعيد مثيلًا من [`OpenAIClient`](../../openaiclient/) مع الخيارات المكونة.
+تنشئ وتعيد مثالًا من [`OpenAIClient`](../../openaiclient/) مع الخيارات المكوّنة.
 
 ```csharp
 public OpenAIClient Build()
@@ -16,11 +16,13 @@ public OpenAIClient Build()
 
 ### قيمة الإرجاع
 
-مثيل من [`OpenAIClient`](../../openaiclient/).
+مثال من [`OpenAIClient`](../../openaiclient/).
 
 ### انظر أيضًا
 
-* فئة [OpenAIClient](../../openaiclient/)
-* فئة [Builder](../)
-* مساحة الأسماء [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [OpenAIClient](../../openaiclient/)
+* class [Builder](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: DocumentCollection.DocumentPaths
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocumentCollection. تحصل أو تعين مجموعة من مسارات الوثائق ليتم معالجتها
+title: "DocumentCollection.DocumentPaths"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocumentCollection. يحصل أو يضبط مجموعة مسارات المستندات التي سيتم معالجتها"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/documentcollection/documentpaths/
 ---
-## خاصية DocumentCollection.DocumentPaths
+## DocumentCollection.DocumentPaths property
 
-تحصل أو تعين مجموعة من مسارات الوثائق ليتم معالجتها.
+يحصل أو يعيّن مجموعة مسارات المستندات التي سيتم معالجتها.
 
 ```csharp
 public List<string> DocumentPaths { get; set; }
@@ -19,3 +19,5 @@ public List<string> DocumentPaths { get; set; }
 * class [DocumentCollection](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

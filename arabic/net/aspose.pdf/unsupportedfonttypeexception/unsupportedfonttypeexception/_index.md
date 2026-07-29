@@ -1,24 +1,24 @@
 ---
-title: UnsupportedFontTypeException.UnsupportedFontTypeException
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ UnsupportedFontTypeException. يقوم بتهيئة مثيل جديد من فئة UnsupportedFontTypeException
+title: "UnsupportedFontTypeException.UnsupportedFontTypeException"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ UnsupportedFontTypeException. يهيئ مثيلاً جديدًا لفئة UnsupportedFontTypeException"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/unsupportedfonttypeexception/unsupportedfonttypeexception/
 ---
 ## UnsupportedFontTypeException(string) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة [`UnsupportedFontTypeException`](../).
+يهيئ مثيلاً جديدًا للفئة [`UnsupportedFontTypeException`](../).
 
 ```csharp
 public UnsupportedFontTypeException(string message)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| message | String | الرسالة. |
+| رسالة | String | الرسالة. |
 
-### See Also
+### انظر أيضًا
 
 * class [UnsupportedFontTypeException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -28,18 +28,18 @@ public UnsupportedFontTypeException(string message)
 
 ## UnsupportedFontTypeException(string, Exception) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد من فئة [`UnsupportedFontTypeException`](../) مع رسالة خطأ محددة ومرجع للاستثناء الداخلي الذي هو سبب هذا الاستثناء.
+يهيئ مثيلاً جديدًا للفئة [`UnsupportedFontTypeException`](../) مع رسالة خطأ محددة ومرجع إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء.
 
 ```csharp
 public UnsupportedFontTypeException(string message, Exception innerException)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| message | String | رسالة الخطأ التي تشرح سبب الاستثناء. |
-| innerException | Exception | الاستثناء الذي هو سبب الاستثناء الحالي، أو مرجع فارغ (Nothing في Visual Basic) إذا لم يتم تحديد استثناء داخلي. |
+| رسالة | String | رسالة الخطأ التي توضح سبب الاستثناء. |
+| innerException | Exception | الاستثناء الذي هو سبب الاستثناء الحالي، أو إشارة فارغة (Nothing في Visual Basic) إذا لم يتم تحديد استثناء داخلي. |
 
-### See Also
+### انظر أيضًا
 
 * class [UnsupportedFontTypeException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -49,18 +49,20 @@ public UnsupportedFontTypeException(string message, Exception innerException)
 
 ## UnsupportedFontTypeException(Exception) {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`UnsupportedFontTypeException`](../) مع مرجع للاستثناء الداخلي الذي هو سبب هذا الاستثناء.
+يهيئ مثيلاً جديدًا للفئة [`UnsupportedFontTypeException`](../) مع مرجع إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء.
 
 ```csharp
 public UnsupportedFontTypeException(Exception innerException)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| innerException | Exception | الاستثناء الذي هو سبب الاستثناء الحالي، أو مرجع فارغ (Nothing في Visual Basic) إذا لم يتم تحديد استثناء داخلي. |
+| innerException | Exception | الاستثناء الذي هو سبب الاستثناء الحالي، أو إشارة فارغة (Nothing في Visual Basic) إذا لم يتم تحديد استثناء داخلي. |
 
-### See Also
+### انظر أيضًا
 
 * class [UnsupportedFontTypeException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

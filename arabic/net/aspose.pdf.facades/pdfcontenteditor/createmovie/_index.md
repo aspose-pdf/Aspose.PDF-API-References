@@ -1,27 +1,29 @@
 ---
-title: PdfContentEditor.CreateMovie
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfContentEditor. تنشئ تعليقات الأفلام
+title: "PdfContentEditor.CreateMovie"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfContentEditor. تنشئ تعليقات توضيحية للفيديو"
 type: docs
 weight: 210
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/createmovie/
 ---
-## طريقة PdfContentEditor.CreateMovie
+## PdfContentEditor.CreateMovie method
 
-تنشئ تعليقات الأفلام.
+ينشئ تعليقات Movie.
 
 ```csharp
 public void CreateMovie(Rectangle rect, string filePath, int page)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| rect | Rectangle | المستطيل الخاص بالتعليق الذي يحدد موقع التعليق على الصفحة. |
-| filePath | String | مسار ملف الفيلم الذي سيتم تشغيله. |
-| page | Int32 | الصفحة التي يتم فيها إنشاء تعليق الخط. |
+| rect | Rectangle | مستطيل التعليق يحدد موقع التعليق على الصفحة. |
+| filePath | String | مسار ملف الفيديو الذي سيتم تشغيله. |
+| صفحة | Int32 | الصفحة التي يتم فيها إنشاء تعليق توضيحي للخط. |
 
 ### انظر أيضًا
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

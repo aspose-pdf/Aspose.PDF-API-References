@@ -1,25 +1,27 @@
 ---
-title: MP.MP
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ MP. يقوم بتهيئة المشغل
+title: "MP.MP"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ MP. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/mp/mp/
 ---
-## مُنشئ MP
+## MP constructor
 
-يقوم بتهيئة المشغل.
+يُهيئ العامل.
 
 ```csharp
 public MP(string tag)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| tag | سلسلة | علامة المحتوى المميز. |
+| علامة | String | علامة المحتوى المميز. |
 
 ### انظر أيضًا
 
-* الفئة [MP](../)
-* مساحة الاسم [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* التجميع [Aspose.PDF](../../../)
+* class [MP](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

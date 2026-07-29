@@ -1,22 +1,22 @@
 ---
-title: FormEditor.RemoveFieldAction
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormEditor. إزالة إجراء الإرسال للحقل
+title: "FormEditor.RemoveFieldAction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FormEditor. إزالة إجراء الإرسال للحقل"
 type: docs
 weight: 220
 url: /ar/net/aspose.pdf.facades/formeditor/removefieldaction/
 ---
-## طريقة FormEditor.RemoveFieldAction
+## FormEditor.RemoveFieldAction method
 
-إزالة إجراء الإرسال للحقل.
+أزل إجراء الإرسال للحقول.
 
 ```csharp
 public void RemoveFieldAction(string fieldName)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fieldName | سلسلة | اسم الحقل. |
+| fieldName | String | اسم الحقل. |
 
 ## أمثلة
 
@@ -30,3 +30,5 @@ formEditor.RemoveFieldAction("btnSubmit");
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

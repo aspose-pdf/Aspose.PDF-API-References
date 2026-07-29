@@ -1,28 +1,30 @@
 ---
-title: Enum FreeTextIntent
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.FreeTextIntent enum. يعدد نوايا تعليق النص الحر
+title: "تعداد FreeTextIntent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Annotations.FreeTextIntent enum. يعدّد نوايا التعليق النصي الحر"
 type: docs
-weight: 1820
+weight: 1910
 url: /ar/net/aspose.pdf.annotations/freetextintent/
 ---
 ## FreeTextIntent enumeration
 
-يعدد نوايا تعليق النص الحر.
+يعدّ نوايا التوضيح النص الحر.
 
 ```csharp
 public enum FreeTextIntent
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Undefined | `0` | حالة غير محددة. |
-| FreeTextCallout | `1` | يعني أن التعليق يهدف إلى العمل كتعليق توضيحي. |
-| FreeTextTypeWriter | `2` | يعني أن التعليق يهدف إلى العمل ككائن للكتابة عند النقر أو كآلة كاتبة. |
+| Undefined | `0` | حالة غير معرفة. |
+| FreeTextCallout | `1` | يعني أن التعليق مُصمم للعمل كإشارة توضيحية. |
+| FreeTextTypeWriter | `2` | يعني أن التعليق مُصمم للعمل ككائن قابل للنقر للكتابة أو كآلة كاتبة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

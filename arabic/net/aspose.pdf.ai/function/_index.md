@@ -1,14 +1,14 @@
 ---
-title: Class Function
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.Function. تمثل وظيفة يمكن استدعاؤها بواسطة النموذج
+title: "الفئة Function"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.AI.Function. تمثل دالة يمكن أن يستدعيها النموذج."
 type: docs
-weight: 420
+weight: 440
 url: /ar/net/aspose.pdf.ai/function/
 ---
-## فئة الوظيفة
+## Function class
 
-تمثل وظيفة يمكن استدعاؤها بواسطة النموذج.
+يمثل دالة يمكن للنموذج استدعاؤها.
 
 ```csharp
 public class Function
@@ -18,17 +18,19 @@ public class Function
 
 | الاسم | الوصف |
 | --- | --- |
-| [Function](function/)() | المنشئ الافتراضي. |
+| [Function](function/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Description](../../aspose.pdf.ai/function/description/) { get; set; } | يحصل أو يحدد وصفًا لما تفعله الوظيفة، يستخدمه النموذج لاختيار متى وكيف يتم استدعاء الوظيفة. |
-| [Name](../../aspose.pdf.ai/function/name/) { get; set; } | يحصل أو يحدد اسم الوظيفة التي سيتم استدعاؤها. |
-| [Parameters](../../aspose.pdf.ai/function/parameters/) { get; set; } | يحصل أو يحدد المعلمات التي تقبلها الوظائف، موصوفة ككائن مخطط JSON. |
+| [Description](../../aspose.pdf.ai/function/description/) { get; set; } | يحصل أو يضبط وصف ما تفعله الدالة، يستخدمه النموذج لاختيار متى وكيفية استدعاء الدالة. |
+| [Name](../../aspose.pdf.ai/function/name/) { get; set; } | يحصل أو يعيّن اسم الدالة التي سيتم استدعاؤها. |
+| [Parameters](../../aspose.pdf.ai/function/parameters/) { get; set; } | يحصل أو يضبط المعلمات التي تقبلها الدوال، موصوفة ككائن مخطط JSON. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

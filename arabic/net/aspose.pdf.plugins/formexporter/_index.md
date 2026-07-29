@@ -1,33 +1,35 @@
 ---
-title: Class FormExporter
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.FormExporter. تمثل مكون FormExporter
+title: "الفئة FormExporter"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Plugins.FormExporter class. يمثّل إضافة FormExporter plugin"
 type: docs
-weight: 8670
+weight: 8800
 url: /ar/net/aspose.pdf.plugins/formexporter/
 ---
 ## FormExporter class
 
-تمثل مكون FormExporter.
+يمثل plugin FormExporter.
 
 ```csharp
 public sealed class FormExporter : IPlugin
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [FormExporter](formexporter/)() | المُنشئ الافتراضي. |
+| [FormExporter](formexporter/)() | البناء الافتراضي. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/formexporter/process/)(IPluginOptions) | يبدأ معالجة FormExporter مع المعلمات المحددة. |
+| [Process](../../aspose.pdf.plugins/formexporter/process/)(IPluginOptions) | يبدأ معالجة FormExporter بالمعلمات المحددة. |
 
-### See Also
+### انظر أيضًا
 
 * interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Artifact.RightMargin
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الأرتيفكت. الهامش الأيمن للأرتيفكت. إذا تم تحديد الموضع بشكل صريح في خاصية الموضع، يتم تجاهل هذه القيمة
+title: "Artifact.RightMargin"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Artifact. الهامش الأيمن للقطعة. إذا تم تحديد الموضع صراحةً في خاصية Position، يتم تجاهل هذه القيمة."
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf/artifact/rightmargin/
 ---
-## خاصية Artifact.RightMargin
+## Artifact.RightMargin property
 
-الهامش الأيمن للأرتيفكت. إذا تم تحديد الموضع بشكل صريح (في خاصية الموضع) يتم تجاهل هذه القيمة.
+الهامش الأيمن للقطعة. إذا تم تحديد الموضع صراحةً (في خاصية Position) يتم تجاهل هذه القيمة.
 
 ```csharp
 public double RightMargin { get; set; }
@@ -19,3 +19,5 @@ public double RightMargin { get; set; }
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

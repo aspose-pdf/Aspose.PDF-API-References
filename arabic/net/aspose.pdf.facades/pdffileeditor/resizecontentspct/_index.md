@@ -1,50 +1,50 @@
 ---
-title: PdfFileEditor.ResizeContentsPct
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileEditor. تعيد حجم محتويات صفحات الوثيقة. تقلص محتويات الصفحة وتضيف هوامش. يتم تحديد حجم المحتويات الجديدة كنسبة مئوية
+title: "PdfFileEditor.ResizeContentsPct"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileEditor. تعيد تحجيم محتويات صفحات Document. تصغر محتوى Page وتضيف هوامش. يتم تحديد حجم المحتوى الجديد بالنسبة المئوية."
 type: docs
 weight: 330
 url: /ar/net/aspose.pdf.facades/pdffileeditor/resizecontentspct/
 ---
 ## ResizeContentsPct(Stream, Stream, int[], double, double) {#resizecontentspct}
 
-تعيد حجم محتويات صفحات الوثيقة. تقلص محتويات الصفحة وتضيف هوامش. يتم تحديد حجم المحتويات الجديدة كنسبة مئوية.
+يعيد تحجيم محتويات صفحات المستند. يقلص محتويات الصفحة ويضيف هوامش. يُحدد حجم المحتويات الجديد بالنسبة المئوية.
 
 ```csharp
 public bool ResizeContentsPct(Stream source, Stream destination, int[] pages, double newWidth, 
     double newHeight)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| source | Stream | التدفق الذي يحتوي على الوثيقة المصدر. |
-| destination | Stream | التدفق الذي سيتم حفظ الوثيقة الناتجة فيه. |
-| pages | Int32[] | مصفوفة من فهارس الصفحات. إذا كانت null، فسيتم معالجة جميع صفحات الوثيقة. |
-| newWidth | Double | العرض الجديد لمحتويات الصفحة كنسبة مئوية. |
-| newHeight | Double | الارتفاع الجديد لمحتويات الصفحة كنسبة مئوية. |
+| المصدر | Stream | تدفق يحتوي على المستند المصدر. |
+| destination | Stream | دفق حيث سيتم حفظ document الناتج. |
+| صفحات | Int32[] | مصفوفة من فهارس page. إذا كانت null فسيتم معالجة جميع pages document. |
+| newWidth | Double | العرض الجديد لمحتويات Page بالنسبة المئوية. |
+| newHeight | Double | الارتفاع الجديد لمحتويات Page بالنسبة المئوية. |
 
-### Return Value
+### قيمة الإرجاع
 
-true إذا تم تغيير الحجم بنجاح.
+صحيح إذا تم إعادة التحجيم بنجاح.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.ResizePct(src, dest, 
-//resize all pages of document
+//إعادة تحجيم جميع صفحات المستند
 null, 
-//new contents width = 60% of initial size
+//عرض المحتويات الجديد = 60% من الحجم الأصلي
 60, 
-//new contents height = 60% of initial size
+//ارتفاع المحتويات الجديد = 60% من الحجم الأصلي
 60);
-// Rest area of page will be empty (page margins).  Size of left and right margins is (100% - 60%) / 2 = 20%
-// The same for top and bottom margins.
+// المنطقة المتبقية من Page ستكون فارغة (هوامش Page). حجم الهوامش اليسرى واليمنى هو (100% - 60%) / 2 = 20%
+// نفس الشيء للهوامش العليا والسفلى.
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -54,42 +54,44 @@ null,
 
 ## ResizeContentsPct(string, string, int[], double, double) {#resizecontentspct_1}
 
-تعيد حجم محتويات صفحات الوثيقة. تقلص محتويات الصفحة وتضيف هوامش. يتم تحديد حجم المحتويات الجديدة كنسبة مئوية.
+يعيد تحجيم محتويات صفحات المستند. يقلص محتويات الصفحة ويضيف هوامش. يُحدد حجم المحتويات الجديد بالنسبة المئوية.
 
 ```csharp
 public bool ResizeContentsPct(string source, string destination, int[] pages, double newWidth, 
     double newHeight)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| source | String | المسار إلى الوثيقة المصدر. |
-| destination | String | المسار الذي سيتم حفظ الوثيقة الناتجة فيه. |
-| pages | Int32[] | مصفوفة من فهارس الصفحات. إذا كانت null، فسيتم معالجة جميع صفحات الوثيقة. |
-| newWidth | Double | العرض الجديد لمحتويات الصفحة كنسبة مئوية. |
-| newHeight | Double | الارتفاع الجديد لمحتويات الصفحة كنسبة مئوية. |
+| المصدر | String | المسار إلى source document. |
+| destination | String | المسار حيث سيتم حفظ document الناتج. |
+| صفحات | Int32[] | مصفوفة من فهارس page. إذا كانت null فسيتم معالجة جميع pages document. |
+| newWidth | Double | العرض الجديد لمحتويات Page بالنسبة المئوية. |
+| newHeight | Double | الارتفاع الجديد لمحتويات Page بالنسبة المئوية. |
 
-### Return Value
+### قيمة الإرجاع
 
-true إذا كان تغيير الحجم ناجحًا.
+صحيح إذا نجح تغيير الحجم.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.ResizePct("input.pdf", "output.pdf",
-//resize all pages of document
+//إعادة تحجيم جميع صفحات المستند
 null, 
-//new contents width = 60% of initial size
+//عرض المحتويات الجديد = 60% من الحجم الأصلي
 60, 
-//new contents height = 60% of initial size
+//ارتفاع المحتويات الجديد = 60% من الحجم الأصلي
 60);
-// Rest area of page will be empty (page margins).  Size of left and right margins is (100% - 60%) / 2 = 20%
-// The same for top and bottom margins.
+// المنطقة المتبقية من Page ستكون فارغة (هوامش Page). حجم الهوامش اليسرى واليمنى هو (100% - 60%) / 2 = 20%
+// نفس الشيء للهوامش العليا والسفلى.
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

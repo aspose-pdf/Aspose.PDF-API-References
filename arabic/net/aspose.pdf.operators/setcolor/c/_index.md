@@ -1,14 +1,14 @@
 ---
-title: SetColor.C
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SetColor. تحصل أو تعين مكون السيان
+title: "SetColor.C"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SetColor. تحصل أو تعين المكوّن السماوي"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.operators/setcolor/c/
 ---
-## خاصية SetColor.C
+## SetColor.C property
 
-تحصل أو تعين مكون السيان.
+يحصل أو يضبط المكوّن السماوي.
 
 ```csharp
 public double C { get; set; }
@@ -19,3 +19,5 @@ public double C { get; set; }
 * class [SetColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

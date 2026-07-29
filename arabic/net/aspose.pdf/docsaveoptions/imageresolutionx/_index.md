@@ -1,14 +1,14 @@
 ---
-title: DocSaveOptions.ImageResolutionX
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocSaveOptions. دقة الصور المحولة في الاتجاه X
+title: "DocSaveOptions.ImageResolutionX"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocSaveOptions. دقة الصور المحوَّلة على المحور X"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/docsaveoptions/imageresolutionx/
 ---
-## خاصية DocSaveOptions.ImageResolutionX
+## DocSaveOptions.ImageResolutionX property
 
-دقة الصور المحولة في الاتجاه X.
+دقة الصور المحوّلة X.
 
 ```csharp
 public int ImageResolutionX { get; set; }
@@ -19,3 +19,5 @@ public int ImageResolutionX { get; set; }
 * class [DocSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

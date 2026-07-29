@@ -1,12 +1,12 @@
 ---
-title: ObsoleteFill.ObsoleteFill
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ObsoleteFill. يُهيئ العامل
+title: "ObsoleteFill.ObsoleteFill"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ObsoleteFill. يهيئ المشغّل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/obsoletefill/obsoletefill/
 ---
-## مُنشئ ObsoleteFill
+## ObsoleteFill constructor
 
 يُهيئ العامل.
 
@@ -19,3 +19,5 @@ public ObsoleteFill()
 * class [ObsoleteFill](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Matrix.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ المصفوفة. يُنشئ المُنشئ مصفوفة قياسية 1 إلى 1  A B C D E F    1 0 0 1 0 0
+title: "Matrix.Matrix"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Matrix. المنشئ ينشئ مصفوفة قياسية 1 إلى 1  A B C D E F    1 0 0 1 0 0"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/matrix/matrix/
 ---
 ## Matrix() {#constructor}
 
-يُنشئ المُنشئ مصفوفة قياسية 1 إلى 1: [ A B C D E F ] = [ 1, 0, 0, 1, 0, 0]
+المنشئ ينشئ مصفوفة قياسية 1 إلى 1: [ A B C D E F ] = [ 1, 0, 0, 1, 0, 0]
 
 ```csharp
 public Matrix()
@@ -30,15 +30,15 @@ Matrix m = new Matrix();
 
 ## Matrix(double[]) {#constructor_3}
 
-يقبل المُنشئ مصفوفة بالتمثيل التالي: [ A B C D E F ]
+المنشئ يقبل مصفوفة بالتمثيل الصفيفي التالي: [ A B C D E F ]
 
 ```csharp
 public Matrix(double[] matrixArray)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| matrixArray | Double[] | مصفوفة بيانات المصفوفة. |
+| matrixArray | Double[] | مصفوفة بيانات Matrix. |
 
 ## أمثلة
 
@@ -57,15 +57,15 @@ Matrix m = new Matrix(c);
 
 ## Matrix(float[]) {#constructor_4}
 
-يقبل المُنشئ مصفوفة بالتمثيل التالي: [ A B C D E F ]
+المنشئ يقبل مصفوفة بالتمثيل الصفيفي التالي: [ A B C D E F ]
 
 ```csharp
 public Matrix(float[] matrixArray)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| matrixArray | Single[] | مصفوفة بيانات المصفوفة. |
+| matrixArray | Single[] | مصفوفة بيانات Matrix. |
 
 ### انظر أيضًا
 
@@ -77,15 +77,15 @@ public Matrix(float[] matrixArray)
 
 ## Matrix(Matrix) {#constructor_1}
 
-يقبل المُنشئ مصفوفة لإنشاء نسخة
+المنشئ يقبل مصفوفة لإنشاء نسخة
 
 ```csharp
 public Matrix(Matrix matrix)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| matrix | Matrix | كائن المصفوفة. |
+| matrix | Matrix | كائن Matrix. |
 
 ### انظر أيضًا
 
@@ -103,13 +103,13 @@ public Matrix(Matrix matrix)
 public Matrix(double a, double b, double c, double d, double e, double f)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| a | Double | قيمة المصفوفة A. |
-| b | Double | قيمة المصفوفة B. |
-| c | Double | قيمة المصفوفة C. |
-| d | Double | قيمة المصفوفة D. |
-| e | Double | قيمة المصفوفة E. |
+| a | Double | قيمة مصفوفة. |
+| b | Double | قيمة مصفوفة B. |
+| c | Double | قيمة مصفوفة C. |
+| d | Double | قيمة مصفوفة D. |
+| e | Double | قيمة مصفوفة E. |
 | f | Double | قيمة المصفوفة F. |
 
 ## أمثلة
@@ -123,3 +123,5 @@ Matrix m = new Matrix(1, 0, 0, 1, 3, 3);
 * class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

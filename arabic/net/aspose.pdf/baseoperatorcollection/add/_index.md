@@ -1,22 +1,22 @@
 ---
-title: BaseOperatorCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة BaseOperatorCollection. تضيف مشغلًا جديدًا إلى المجموعة
+title: "BaseOperatorCollection.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة BaseOperatorCollection. تُضيف مشغلًا جديدًا إلى المجموعة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/baseoperatorcollection/add/
 ---
-## طريقة BaseOperatorCollection.Add
+## BaseOperatorCollection.Add method
 
-تضيف مشغلًا جديدًا إلى المجموعة.
+يضيف مشغلًا جديدًا إلى المجموعة.
 
 ```csharp
 public abstract void Add(Operator op)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| op | Operator | المشغل الذي يجب إضافته |
+| op | Operator | العامل الذي يجب إضافته. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public abstract void Add(Operator op)
 * class [BaseOperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

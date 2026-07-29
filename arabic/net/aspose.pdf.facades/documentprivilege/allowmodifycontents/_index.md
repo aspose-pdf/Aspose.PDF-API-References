@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.AllowModifyContents
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocumentPrivilege. تحدد الإذن الذي يسمح بتعديل المحتويات أم لا. true يسمح و false ممنوع
+title: "DocumentPrivilege.AllowModifyContents"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocumentPrivilege. تحدد الإذن الذي يسمح بتعديل المحتوى أو لا. true يعني مسموح و false يعني ممنوع"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.facades/documentprivilege/allowmodifycontents/
 ---
-## خاصية DocumentPrivilege.AllowModifyContents
+## DocumentPrivilege.AllowModifyContents property
 
-تحدد الإذن الذي يسمح بتعديل المحتويات أم لا. true يسمح و false ممنوع.
+يضبط الإذن الذي يسمح بتعديل المحتويات أو لا. true يعني مسموح و false يعني ممنوع.
 
 ```csharp
 public bool AllowModifyContents { get; set; }
@@ -19,3 +19,5 @@ public bool AllowModifyContents { get; set; }
 * class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

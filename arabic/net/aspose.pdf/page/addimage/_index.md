@@ -1,25 +1,25 @@
 ---
-title: Page.AddImage
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الصفحة. تضيف صورة إلى الصفحة وتحدد موقعها في وسط المستطيل المحدد مع الحفاظ على نسبة الصور
+title: "Page.AddImage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Page. تضيف صورة إلى الصفحة وتضعها في وسط المستطيل المحدد مع الحفاظ على نسبة أبعاد الصورة."
 type: docs
 weight: 350
 url: /ar/net/aspose.pdf/page/addimage/
 ---
 ## AddImage(Stream, Rectangle, Rectangle, bool) {#addimage}
 
-تضيف صورة إلى الصفحة وتحدد موقعها في وسط المستطيل المحدد مع الحفاظ على نسبة الصورة.
+يضيف صورة إلى الصفحة ويضعها في وسط المستطيل المحدد مع الحفاظ على نسبة الصورة.
 
 ```csharp
 public void AddImage(Stream imageStream, Rectangle imageRect, Rectangle bbox = null, 
     bool autoAdjustRectangle = true)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| imageStream | Stream | تدفق الصورة. |
-| imageRect | Rectangle | موقع الصورة. |
-| bbox | Rectangle | bbox للصورة. |
+| imageStream | Stream | دفق الصورة. |
+| imageRect | Rectangle | موضع الصورة. |
+| bbox | Rectangle | Bbox للصورة. |
 | autoAdjustRectangle | Boolean | ضبط الصورة في مركز المستطيل المدخل. |
 
 ### انظر أيضًا
@@ -33,18 +33,18 @@ public void AddImage(Stream imageStream, Rectangle imageRect, Rectangle bbox = n
 
 ## AddImage(string, Stream, Rectangle, Rectangle) {#addimage_3}
 
-تضيف صورة قابلة للبحث إلى الصفحة وتحدد موقعها في وسط المستطيل المحدد مع الحفاظ على نسبة الصورة.
+يضيف صورة قابلة للبحث إلى الصفحة ويضعها في وسط المستطيل المحدد مع الحفاظ على نسبة الصورة.
 
 ```csharp
 public void AddImage(string hocr, Stream imageStream, Rectangle imageRect, Rectangle bbox = null)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | hocr | String | hocr للصورة. |
-| imageStream | Stream | تدفق الصورة. |
-| imageRect | Rectangle | موقع الصورة. |
-| bbox | Rectangle | bbox للصورة. |
+| imageStream | Stream | دفق الصورة. |
+| imageRect | Rectangle | موضع الصورة. |
+| bbox | Rectangle | Bbox للصورة. |
 
 ### انظر أيضًا
 
@@ -57,21 +57,21 @@ public void AddImage(string hocr, Stream imageStream, Rectangle imageRect, Recta
 
 ## AddImage(Stream, Rectangle, int, int, bool, Rectangle) {#addimage_1}
 
-تضيف صورة إلى الصفحة وتضعها بناءً على موقع مستطيل الصورة.
+يضيف صورة إلى الصفحة ويضعها اعتمادًا على موضع مستطيل الصورة.
 
 ```csharp
 public void AddImage(Stream imageStream, Rectangle imageRect, int imageWidth, int imageHeight, 
     bool saveImageProportions, Rectangle bbox = null)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| imageStream | Stream | تدفق الصورة. |
-| imageRect | Rectangle | الموقع الافتراضي للصورة على الصفحة. |
+| imageStream | Stream | دفق الصورة. |
+| imageRect | Rectangle | الموضع الافتراضي للصورة على الصفحة. |
 | imageWidth | Int32 | عرض الصورة. |
 | imageHeight | Int32 | ارتفاع الصورة. |
-| saveImageProportions | Boolean | إذا تم تعيين العلامة على true، يتم وضع الصورة في موقع المستطيل؛ خلاف ذلك، يصبح حجم المستطيل مساوياً لحجم الصورة. |
-| bbox | Rectangle | bbox للصورة. |
+| saveImageProportions | Boolean | إذا تم تعيين العلامة إلى true فإن الصورة توضع في موضع المستطيل؛ وإلا يصبح حجم المستطيل مساويًا لحجم الصورة. |
+| bbox | Rectangle | Bbox للصورة. |
 
 ### انظر أيضًا
 
@@ -84,16 +84,16 @@ public void AddImage(Stream imageStream, Rectangle imageRect, int imageWidth, in
 
 ## AddImage(string, Rectangle) {#addimage_2}
 
-تضيف صورة إلى الصفحة وتحدد موقعها في وسط المستطيل المحدد مع الحفاظ على نسبة الصورة.
+يضيف صورة إلى الصفحة ويضعها في وسط المستطيل المحدد مع الحفاظ على نسبة الصورة.
 
 ```csharp
 public void AddImage(string imagePath, Rectangle rectangle)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | imagePath | String | المسار إلى الصورة. |
-| rectangle | Rectangle | موقع الصورة. |
+| مستطيل | Rectangle | موضع الصورة. |
 
 ### انظر أيضًا
 
@@ -101,3 +101,5 @@ public void AddImage(string imagePath, Rectangle rectangle)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

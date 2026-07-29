@@ -1,14 +1,14 @@
 ---
-title: ImagesDifference.Stride
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ImagesDifference. خطوة بيانات صورة الفرق
+title: "ImagesDifference.Stride"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ImagesDifference. خطوة بيانات صورة الفرق"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.comparison/imagesdifference/stride/
 ---
-## خاصية ImagesDifference.Stride
+## ImagesDifference.Stride property
 
-خطوة بيانات صورة الفرق.
+خطوة (stride) بيانات صورة الفارق.
 
 ```csharp
 public int Stride { get; }
@@ -19,3 +19,5 @@ public int Stride { get; }
 * class [ImagesDifference](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

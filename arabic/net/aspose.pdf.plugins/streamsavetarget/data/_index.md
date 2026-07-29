@@ -1,14 +1,14 @@
 ---
-title: StreamSaveTarget.Data
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StreamSaveTarget. تحصل على تدفق هدف الحفظ الحالي
+title: "StreamSaveTarget.Data"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StreamSaveTarget. يحصل على تدفق هدف الحفظ الحالي"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/streamsavetarget/data/
 ---
-## خاصية StreamSaveTarget.Data
+## StreamSaveTarget.Data property
 
-تحصل على تدفق هدف الحفظ الحالي.
+يحصل على تدفق هدف الحفظ الحالي.
 
 ```csharp
 public Stream Data { get; }
@@ -23,3 +23,5 @@ public Stream Data { get; }
 * class [StreamSaveTarget](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

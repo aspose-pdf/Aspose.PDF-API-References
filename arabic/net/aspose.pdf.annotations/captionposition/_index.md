@@ -1,27 +1,29 @@
 ---
-title: Enum CaptionPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.CaptionPosition enum. تعداد موضع العنوانات التوضيحية
+title: "تعداد CaptionPosition"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Annotations.CaptionPosition عدد. تعداد تموضع تسمية التعليقات."
 type: docs
-weight: 1550
+weight: 1640
 url: /ar/net/aspose.pdf.annotations/captionposition/
 ---
 ## CaptionPosition enumeration
 
-تعداد موضع العنوان التوضيحي.
+تعداد موضع تسمية التوضيح.
 
 ```csharp
 public enum CaptionPosition
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Inline | `0` | سيتم توسيط العنوان داخل السطر (القيمة الافتراضية). |
-| Top | `1` | سيكون العنوان في أعلى السطر. |
+| Inline | `0` | ستكون التسمية مركزة داخل الخط (القيمة الافتراضية). |
+| Top | `1` | ستكون التسمية أعلى الخط. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

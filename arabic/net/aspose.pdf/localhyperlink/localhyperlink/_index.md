@@ -1,14 +1,14 @@
 ---
-title: LocalHyperlink.LocalHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ LocalHyperlink. يقوم بتهيئة مثيل جديد من فئة LocalHyperlink
+title: "LocalHyperlink.LocalHyperlink"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ LocalHyperlink. يهيئ مثيلًا جديدًا من الفئة LocalHyperlink"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/localhyperlink/localhyperlink/
 ---
 ## LocalHyperlink() {#constructor}
 
-يُهيئ مثيلًا جديدًا من فئة [`LocalHyperlink`](../).
+يهيئ مثيلًا جديدًا من الفئة [`LocalHyperlink`](../).
 
 ```csharp
 public LocalHyperlink()
@@ -16,27 +16,29 @@ public LocalHyperlink()
 
 ### انظر أيضًا
 
-* فئة [LocalHyperlink](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [LocalHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## LocalHyperlink(BaseParagraph) {#constructor_1}
 
-يُهيئ مثيلًا جديدًا من فئة [`LocalHyperlink`](../).
+يهيئ مثيلًا جديدًا من الفئة [`LocalHyperlink`](../).
 
 ```csharp
 public LocalHyperlink(BaseParagraph target)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| target | BaseParagraph | الفقرة المستهدفة. |
+| الهدف | BaseParagraph | الفقرة المستهدفة. |
 
 ### انظر أيضًا
 
-* فئة [BaseParagraph](../../baseparagraph/)
-* فئة [LocalHyperlink](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [BaseParagraph](../../baseparagraph/)
+* class [LocalHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

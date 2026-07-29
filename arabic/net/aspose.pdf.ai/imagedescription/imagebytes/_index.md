@@ -1,14 +1,14 @@
 ---
-title: ImageDescription.ImageBytes
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ImageDescription. تحصل على أو تعين مصفوفة البايت التي تمثل الصورة
+title: "ImageDescription.ImageBytes"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ImageDescription. تحصل أو تعين مصفوفة البايت التي تمثل الصورة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/imagedescription/imagebytes/
 ---
-## خاصية ImageDescription.ImageBytes
+## ImageDescription.ImageBytes property
 
-تحصل على أو تعين مصفوفة البايت التي تمثل الصورة.
+يحصل أو يعيّن مصفوفة البايت التي تمثل الصورة.
 
 ```csharp
 public byte[] ImageBytes { get; set; }
@@ -19,3 +19,5 @@ public byte[] ImageBytes { get; set; }
 * class [ImageDescription](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

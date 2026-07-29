@@ -1,14 +1,14 @@
 ---
-title: ListBoxField.TopIndex
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ListBoxField. تحصل أو تعين فهرس العنصر المرئي العلوي في القائمة
+title: "ListBoxField.TopIndex"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ListBoxField. تحصل أو تعيين فهرس العنصر العلوي المرئي في القائمة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.forms/listboxfield/topindex/
 ---
-## خاصية ListBoxField.TopIndex
+## ListBoxField.TopIndex property
 
-تحصل أو تعين فهرس العنصر المرئي العلوي في القائمة.
+يحصل أو يعيّن فهرس العنصر العلوي المرئي في القائمة.
 
 ```csharp
 public int TopIndex { get; set; }
@@ -19,3 +19,5 @@ public int TopIndex { get; set; }
 * class [ListBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

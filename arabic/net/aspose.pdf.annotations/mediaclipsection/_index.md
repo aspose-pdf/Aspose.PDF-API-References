@@ -1,21 +1,23 @@
 ---
-title: Class MediaClipSection
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.MediaClipSection. تصف هذه الفئة قسم مقطع الوسائط
+title: "الفئة MediaClipSection"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Annotations.MediaClipSection class. تصف هذه الفئة قسم مقطع الوسائط"
 type: docs
-weight: 2090
+weight: 2180
 url: /ar/net/aspose.pdf.annotations/mediaclipsection/
 ---
 ## MediaClipSection class
 
-تصف هذه الفئة قسم مقطع الوسائط.
+هذه الفئة تصف قسم مقطع الوسائط.
 
 ```csharp
 public class MediaClipSection : MediaClip
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [MediaClip](../mediaclip/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

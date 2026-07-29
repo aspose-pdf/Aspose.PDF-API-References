@@ -1,28 +1,28 @@
 ---
-title: WidgetAnnotation.ExportToJson
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة WidgetAnnotation. تصدر حقل نموذج PDF المحدد إلى تنسيق JSON وتكتب النتيجة إلى الدفق المقدم
+title: "WidgetAnnotation.ExportToJson"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة WidgetAnnotation. تُصدّر حقل نموذج PDF المحدد إلى تنسيق JSON وتكتب النتيجة إلى الدفق المقدم."
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.annotations/widgetannotation/exporttojson/
 ---
 ## ExportToJson(Stream, ExportFieldsToJsonOptions) {#exporttojson}
 
-تصدر حقل نموذج PDF المحدد إلى تنسيق JSON وتكتب النتيجة إلى الدفق المقدم.
+يصدّر حقل نموذج PDF المحدد إلى تنسيق JSON ويكتب النتيجة إلى الدفق المقدم.
 
 ```csharp
 public IEnumerable<FieldSerializationResult> ExportToJson(Stream stream, 
     ExportFieldsToJsonOptions options = null)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | الدفق الذي سيتم كتابة مخرجات JSON فيه. |
+| stream | Stream | الدفق لكتابة مخرجات JSON إليه. |
 | options | ExportFieldsToJsonOptions | إعدادات اختيارية لتصدير حقل النموذج إلى JSON. |
 
 ### قيمة الإرجاع
 
-مجموعة من [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) تشير إلى نتيجة عملية التصدير للحقل المحدد وعناصره الفرعية، إذا كانت موجودة.
+مجموعة من [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) تشير إلى نتيجة عملية التصدير للحقل النموذج المحدد وعناصره الفرعية، إذا كانت موجودة.
 
 ## أمثلة
 
@@ -46,21 +46,21 @@ fs.Close();
 
 ## ExportToJson(string, ExportFieldsToJsonOptions) {#exporttojson_1}
 
-تصدر حقل نموذج PDF المحدد إلى تنسيق JSON وتكتب النتيجة إلى الملف المحدد.
+يصدّر حقل نموذج PDF المحدد إلى تنسيق JSON ويكتب النتيجة إلى الملف المحدد.
 
 ```csharp
 public IEnumerable<FieldSerializationResult> ExportToJson(string fileName, 
     ExportFieldsToJsonOptions options = null)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fileName | String | اسم الملف الذي سيتم كتابة مخرجات JSON فيه. |
+| fileName | String | اسم الملف الذي سيتم كتابة مخرجات JSON إليه. |
 | options | ExportFieldsToJsonOptions | إعدادات اختيارية لتصدير حقل النموذج إلى JSON. |
 
 ### قيمة الإرجاع
 
-مجموعة من [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) تشير إلى نتيجة عملية التصدير للحقل المحدد وعناصره الفرعية، إذا كانت موجودة.
+مجموعة من [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) تشير إلى نتيجة عملية التصدير للحقل النموذج المحدد وعناصره الفرعية، إذا كانت موجودة.
 
 ## أمثلة
 
@@ -78,3 +78,5 @@ annotation.ExportToJson(jsonPath);
 * class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

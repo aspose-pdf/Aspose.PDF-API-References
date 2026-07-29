@@ -1,31 +1,31 @@
 ---
-title: Element.AppendChild
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة العنصر. إضافة عنصر إلى مجموعة الأطفال
+title: "Element.AppendChild"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Element. إلحاق Element إلى مجموعة الأطفال"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.logicalstructure/element/appendchild/
 ---
-## طريقة Element.AppendChild
+## Element.AppendChild method
 
-إضافة عنصر إلى مجموعة الأطفال.
+إلحاق Element إلى مجموعة الأطفال.
 
 ```csharp
 public Element AppendChild(Element element, bool checkIfCanBeAppended = true)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| element | عنصر | كائن العنصر المراد إضافته. |
-| checkIfCanBeAppended | Boolean | تحقق مما إذا كان يمكن إضافته. |
+| العنصر | Element | كائن Element للإضافة. |
+| checkIfCanBeAppended | Boolean | تحقق مما إذا كان يمكن إلحاقه. |
 
 ### قيمة الإرجاع
 
-العنصر الذي تم إضافته.
+Element الذي تم إضافته.
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
 | [TaggedException](../../../aspose.pdf.tagged/taggedexception/) |  |
 
@@ -34,3 +34,5 @@ public Element AppendChild(Element element, bool checkIfCanBeAppended = true)
 * class [Element](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

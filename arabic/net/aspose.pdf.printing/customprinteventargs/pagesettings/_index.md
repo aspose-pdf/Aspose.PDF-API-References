@@ -1,14 +1,14 @@
 ---
-title: CustomPrintEventArgs.PageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: حقل CustomPrintEventArgs. يحصل على الإعدادات التي يجب تطبيقها على كل صفحة من صفحات المستند
+title: "CustomPrintEventArgs.PageSettings"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "CustomPrintEventArgs حقل. يحصل على الإعدادات التي يجب تطبيقها على كل صفحة من المستند"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.printing/customprinteventargs/pagesettings/
 ---
-## حقل CustomPrintEventArgs.PageSettings
+## CustomPrintEventArgs.PageSettings field
 
-يحصل على الإعدادات التي يجب تطبيقها على كل صفحة من صفحات المستند.
+يحصل على الإعدادات التي يجب تطبيقها على كل صفحة من المستند.
 
 ```csharp
 public readonly PageSettings PageSettings;
@@ -20,3 +20,5 @@ public readonly PageSettings PageSettings;
 * class [CustomPrintEventArgs](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

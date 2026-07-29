@@ -1,14 +1,14 @@
 ---
-title: RunResponse.ExpiresAt
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunResponse. تحصل أو تعين الطابع الزمني Unix بالثواني لتاريخ انتهاء التشغيل
+title: "RunResponse.ExpiresAt"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RunResponse. يحصل على أو يعيّن الطابع الزمني Unix بالثواني للوقت الذي سينتهي فيه التشغيل"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.ai/runresponse/expiresat/
 ---
-## خاصية RunResponse.ExpiresAt
+## RunResponse.ExpiresAt property
 
-تحصل أو تعين الطابع الزمني Unix (بالثواني) لتاريخ انتهاء التشغيل.
+يحصل أو يعيّن الطابع الزمني يونيكس (بالثواني) للوقت الذي سينتهي فيه صلاحية التشغيل.
 
 ```csharp
 public long? ExpiresAt { get; set; }
@@ -19,3 +19,5 @@ public long? ExpiresAt { get; set; }
 * class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

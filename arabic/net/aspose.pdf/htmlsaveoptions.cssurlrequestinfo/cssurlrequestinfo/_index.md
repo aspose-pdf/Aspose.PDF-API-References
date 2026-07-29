@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.CssUrlRequestInfo.CssUrlRequestInfo
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ CssUrlRequestInfo. المُنشئ الافتراضي
+title: "HtmlSaveOptions.CssUrlRequestInfo.CssUrlRequestInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ CssUrlRequestInfo. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/htmlsaveoptions.cssurlrequestinfo/cssurlrequestinfo/
 ---
-## مُنشئ HtmlSaveOptions.CssUrlRequestInfo
+## HtmlSaveOptions.CssUrlRequestInfo constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public CssUrlRequestInfo()
@@ -19,3 +19,5 @@ public CssUrlRequestInfo()
 * class [CssUrlRequestInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

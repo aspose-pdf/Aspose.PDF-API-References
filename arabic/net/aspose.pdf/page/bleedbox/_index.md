@@ -1,14 +1,14 @@
 ---
-title: Page.BleedBox
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصفحة. تحصل أو تعين صندوق النزيف للصفحة
+title: "Page.BleedBox"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Page. تحصل أو تعيين صندوق النزيف للصفحة."
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/page/bleedbox/
 ---
-## خاصية Page.BleedBox
+## Page.BleedBox property
 
-تحصل أو تعين صندوق النزيف للصفحة.
+يحصل أو يضبط صندوق النزف للصفحة.
 
 ```csharp
 public Rectangle BleedBox { get; set; }
@@ -16,7 +16,7 @@ public Rectangle BleedBox { get; set; }
 
 ## أمثلة
 
-المثال يوضح كيفية الحصول على صندوق النزيف للصفحة:
+مثال يوضح كيفية الحصول على صندوق النزيف للصفحة:
 
 ```csharp
 Document document = new Document("sample.pdf");
@@ -29,3 +29,5 @@ Rectangle bleedBox = document.Pages[1].BleedBox;
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

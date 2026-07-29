@@ -1,14 +1,14 @@
 ---
-title: FileCitation.FileId
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FileCitation. تحصل أو تعين معرف الملف المحدد الذي تأتي منه الاقتباسات
+title: "FileCitation.FileId"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FileCitation. تحصل أو تعين معرّف الـ File المحدد الذي تُستند إليه الاقتباس"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/filecitation/fileid/
 ---
-## خاصية FileCitation.FileId
+## FileCitation.FileId property
 
-تحصل أو تعين معرف الملف المحدد الذي تأتي منه الاقتباسات.
+يحصل أو يضبط معرف الملف المحدد الذي يأتي منه الاستشهاد.
 
 ```csharp
 public string FileId { get; set; }
@@ -19,3 +19,5 @@ public string FileId { get; set; }
 * class [FileCitation](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

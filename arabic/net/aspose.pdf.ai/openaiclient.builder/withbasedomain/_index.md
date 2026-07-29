@@ -1,29 +1,31 @@
 ---
-title: OpenAIClient.Builder.WithBaseDomain
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة البناء. تعيين المجال الأساسي للعميل
+title: "OpenAIClient.Builder.WithBaseDomain"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Builder. يضبط النطاق الأساسي للعميل"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.ai/openaiclient.builder/withbasedomain/
 ---
-## طريقة OpenAIClient.Builder.WithBaseDomain
+## OpenAIClient.Builder.WithBaseDomain method
 
-تعيين المجال الأساسي للعميل.
+يضبط النطاق الأساسي للعميل.
 
 ```csharp
 public Builder WithBaseDomain(string baseDomain)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| baseDomain | String | المجال الأساسي الذي سيتم تعيينه. |
+| baseDomain | String | النطاق الأساسي لتعيينه. |
 
 ### قيمة الإرجاع
 
-النسخة الحالية من [`Builder`](../).
+العنصر الحالي من [`Builder`](../).
 
 ### انظر أيضًا
 
-* الفئة [Builder](../)
-* مساحة الاسم [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [Builder](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

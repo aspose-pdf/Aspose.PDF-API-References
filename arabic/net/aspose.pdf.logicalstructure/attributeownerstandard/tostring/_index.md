@@ -1,14 +1,14 @@
 ---
-title: AttributeOwnerStandard.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة AttributeOwnerStandard. تعيد سلسلة تمثل الكائن الحالي
+title: "AttributeOwnerStandard.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة AttributeOwnerStandard. تُرجع سلسلة تمثل الكائن الحالي"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.logicalstructure/attributeownerstandard/tostring/
 ---
-## طريقة AttributeOwnerStandard.ToString
+## AttributeOwnerStandard.ToString method
 
-تعيد سلسلة تمثل الكائن الحالي.
+يرجع سلسلة تمثل الكائن الحالي.
 
 ```csharp
 public override string ToString()
@@ -23,3 +23,5 @@ public override string ToString()
 * class [AttributeOwnerStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

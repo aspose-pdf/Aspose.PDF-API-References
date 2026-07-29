@@ -1,12 +1,12 @@
 ---
-title: TableOptions.AddTable
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TableOptions. إضافة جدول إلى المستند
+title: "TableOptions.AddTable"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TableOptions. إضافة جدول إلى المستند"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.plugins/tableoptions/addtable/
 ---
-## طريقة TableOptions.AddTable
+## TableOptions.AddTable method
 
 إضافة جدول إلى المستند.
 
@@ -16,11 +16,13 @@ public TableBuilder AddTable()
 
 ### قيمة الإرجاع
 
-مثيل جديد من [`TableBuilder`](../../tablebuilder/).
+مثال جديد من [`TableBuilder`](../../tablebuilder/).
 
 ### انظر أيضًا
 
-* فئة [TableBuilder](../../tablebuilder/)
-* فئة [TableOptions](../)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../../)
+* class [TableBuilder](../../tablebuilder/)
+* class [TableOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

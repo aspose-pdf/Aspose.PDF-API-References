@@ -1,14 +1,14 @@
 ---
-title: SignatureName.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة SignatureName. تُرجع تمثيل نصي لنسخة SignatureName باستخدام اسمها بشكل أساسي
+title: "SignatureName.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة SignatureName. تُرجع تمثيلًا نصيًا لكائن SignatureName باستخدام اسمه أساسًا"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.facades/signaturename/tostring/
 ---
-## طريقة SignatureName.ToString
+## SignatureName.ToString method
 
-ترجع تمثيل نصي لنسخة [`SignatureName`](../) ، باستخدام اسمها بشكل أساسي.
+تُرجع تمثيلًا نصيًا لكائن [`SignatureName`](../)، باستخدام اسمه أساسًا.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-سلسلة تمثل اسم التوقيع.
+نص يمثل اسم التوقيع.
 
 ### انظر أيضًا
 
-* فئة [SignatureName](../)
-* مساحة الأسماء [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* التجميع [Aspose.PDF](../../../)
+* class [SignatureName](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

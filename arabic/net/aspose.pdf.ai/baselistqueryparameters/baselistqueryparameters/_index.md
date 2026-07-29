@@ -1,14 +1,14 @@
 ---
-title: BaseListQueryParameters.BaseListQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ BaseListQueryParameters. المُنشئ الافتراضي
+title: "BaseListQueryParameters.BaseListQueryParameters"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ BaseListQueryParameters. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/baselistqueryparameters/baselistqueryparameters/
 ---
-## مُنشئ BaseListQueryParameters
+## BaseListQueryParameters constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public BaseListQueryParameters()
@@ -19,3 +19,5 @@ public BaseListQueryParameters()
 * class [BaseListQueryParameters](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

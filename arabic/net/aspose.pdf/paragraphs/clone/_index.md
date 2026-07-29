@@ -1,14 +1,14 @@
 ---
-title: Paragraphs.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الفقرات. تنسخ كائن Clone جديد
+title: "Paragraphs.Clone"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Paragraphs. تنسخ كائن Clone جديد."
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/paragraphs/clone/
 ---
-## طريقة الفقرات.Clone
+## Paragraphs.Clone method
 
-تنسخ كائن `Clone` جديد.
+ينسخ كائن `Clone` جديد.
 
 ```csharp
 public object Clone()
@@ -16,10 +16,12 @@ public object Clone()
 
 ### قيمة الإرجاع
 
-كائن `Clone` الجديد.
+الكائن `Clone` الجديد.
 
 ### انظر أيضًا
 
 * class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,9 +1,9 @@
 ---
-title: Class BDCProperties
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Facades.BDCProperties. خصائص عامل BDC
+title: "الفئة BDCProperties"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Facades.BDCProperties. خصائص مشغل BDC"
 type: docs
-weight: 4170
+weight: 4290
 url: /ar/net/aspose.pdf.facades/bdcproperties/
 ---
 ## BDCProperties class
@@ -14,22 +14,24 @@ url: /ar/net/aspose.pdf.facades/bdcproperties/
 public class BDCProperties
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [BDCProperties](bdcproperties/#constructor_1)(string, string) | مُنشئ لخصائص عامل BDC. |
-| [BDCProperties](bdcproperties/#constructor)(int?, string, string) | مُنشئ لخصائص عامل BDC. |
+| [BDCProperties](bdcproperties/#constructor_1)(string, string) | منشئ لخصائص مشغل BDC. |
+| [BDCProperties](bdcproperties/#constructor)(int?, string, string) | منشئ لخصائص مشغل BDC. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [E](../../aspose.pdf.facades/bdcproperties/e/) { get; set; } | يحصل/يحدد قيمة نص التوسع. |
-| [Lang](../../aspose.pdf.facades/bdcproperties/lang/) { get; set; } | يحصل/يحدد قيمة اللغة. |
-| [MCID](../../aspose.pdf.facades/bdcproperties/mcid/) { get; } | يحصل/يحدد قيمة MCID. |
+| [E](../../aspose.pdf.facades/bdcproperties/e/) { get; set; } | يحصل/يضبط قيمة نص التوسيع. |
+| [Lang](../../aspose.pdf.facades/bdcproperties/lang/) { get; set; } | يحصل/يضبط قيمة اللغة. |
+| [MCID](../../aspose.pdf.facades/bdcproperties/mcid/) { get; } | يحصل/يضبط قيمة MCID. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TeXFragment.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TeXFragment. تستنسخ الجزء
+title: "TeXFragment.Clone"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TeXFragment. تستنسخ المقطع"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/texfragment/clone/
 ---
-## طريقة TeXFragment.Clone
+## TeXFragment.Clone method
 
-تستنسخ الجزء.
+ينسخ الشظية.
 
 ```csharp
 public override object Clone()
@@ -16,10 +16,12 @@ public override object Clone()
 
 ### قيمة الإرجاع
 
-الجزء المستنسخ.
+المقطع المستنسخ.
 
 ### انظر أيضًا
 
-* الفئة [TeXFragment](../)
-* مساحة الاسم [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [TeXFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

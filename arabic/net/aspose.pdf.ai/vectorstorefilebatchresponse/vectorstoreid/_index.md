@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileBatchResponse.VectorStoreId
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية VectorStoreFileBatchResponse. تحصل أو تعين معرف مخزن المتجهات الذي يرتبط به الملف
+title: "VectorStoreFileBatchResponse.VectorStoreId"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "VectorStoreFileBatchResponse خاصية. يحصل أو يعيّن معرف مخزن المتجهات الذي تم إرفاق الملف به."
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.ai/vectorstorefilebatchresponse/vectorstoreid/
 ---
-## خاصية VectorStoreFileBatchResponse.VectorStoreId
+## VectorStoreFileBatchResponse.VectorStoreId property
 
-تحصل أو تعين معرف مخزن المتجهات الذي يرتبط به الملف.
+يسترجع أو يعيّن معرف مخزن المتجهات الذي تم إرفاق الملف به.
 
 ```csharp
 public string VectorStoreId { get; set; }
@@ -19,3 +19,5 @@ public string VectorStoreId { get; set; }
 * class [VectorStoreFileBatchResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

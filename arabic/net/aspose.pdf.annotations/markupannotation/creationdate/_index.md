@@ -1,17 +1,17 @@
 ---
-title: MarkupAnnotation.CreationDate
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MarkupAnnotation. تحصل على التاريخ والوقت الذي تم فيه إنشاء التعليق
+title: "MarkupAnnotation.CreationDate"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MarkupAnnotation. تحصل على التاريخ والوقت عندما تم إنشاء التعليق"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/markupannotation/creationdate/
 ---
-## خاصية MarkupAnnotation.CreationDate
+## MarkupAnnotation.CreationDate property
 
-تحصل على التاريخ والوقت الذي تم فيه إنشاء التعليق.
+يحصل على التاريخ والوقت عندما تم إنشاء التعليق.
 
 ```csharp
-public DateTime CreationDate { get; }
+public DateTime CreationDate { get; set; }
 ```
 
 ### انظر أيضًا
@@ -19,3 +19,5 @@ public DateTime CreationDate { get; }
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

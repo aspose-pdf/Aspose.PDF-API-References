@@ -1,28 +1,30 @@
 ---
-title: Class InvalidValueFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.InvalidValueFormatException. استثناء يتم رميه عندما يكون تنسيق القيمة المطلوبة غير صحيح
+title: "الفئة InvalidValueFormatException"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.InvalidValueFormatException. الاستثناء الذي يُرمى عندما تكون القيمة المطلوبة ذات تنسيق غير صحيح."
 type: docs
-weight: 6030
+weight: 6160
 url: /ar/net/aspose.pdf/invalidvalueformatexception/
 ---
 ## InvalidValueFormatException class
 
-استثناء يتم رميه عندما يكون تنسيق القيمة المطلوبة غير صحيح.
+الاستثناء الذي يُرمى عندما تكون القيمة المطلوبة ذات تنسيق غير صحيح.
 
 ```csharp
 public class InvalidValueFormatException : PdfException
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [InvalidValueFormatException](invalidvalueformatexception/#constructor)() | Initializes a new instance of the `InvalidValueFormatException` class. |
-| [InvalidValueFormatException](invalidvalueformatexception/#constructor_1)(string) | Constructor. |
+| [InvalidValueFormatException](invalidvalueformatexception/#constructor)() | يُهيئ مثيلاً جديداً للفئة `InvalidValueFormatException`. |
+| [InvalidValueFormatException](invalidvalueformatexception/#constructor_1)(string) | منشئ. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfException](../pdfexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

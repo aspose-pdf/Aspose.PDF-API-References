@@ -1,26 +1,28 @@
 ---
-title: ITaggedContent.CreateNoteElement
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ITaggedContent. تنشئ NoteElement
+title: "ITaggedContent.CreateNoteElement"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ITaggedContent. ينشئ NoteElement"
 type: docs
-weight: 190
+weight: 220
 url: /ar/net/aspose.pdf.tagged/itaggedcontent/createnoteelement/
 ---
 ## ITaggedContent.CreateNoteElement method
 
-تنشئ [`NoteElement`](../../../aspose.pdf.logicalstructure/noteelement/).
+ينشئ [`NoteElement`](../../../aspose.pdf.logicalstructure/noteelement/).
 
 ```csharp
 public NoteElement CreateNoteElement()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-عنصر الهيكل الذي تم إنشاؤه.
+تم إنشاء عنصر بنية.
 
-### See Also
+### انظر أيضًا
 
 * class [NoteElement](../../../aspose.pdf.logicalstructure/noteelement/)
 * interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

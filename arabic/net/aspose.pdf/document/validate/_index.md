@@ -1,29 +1,29 @@
 ---
-title: Document.Validate
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الوثيقة. تحقق من الوثيقة في الملف المحدد
+title: "Document.Validate"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Document. تحقق من صحة المستند في الملف المحدد"
 type: docs
-weight: 890
+weight: 910
 url: /ar/net/aspose.pdf/document/validate/
 ---
 ## Validate(string, PdfFormat) {#validate_2}
 
-تحقق من الوثيقة في الملف المحدد.
+تحقق من صحة المستند في الملف المحدد.
 
 ```csharp
 public bool Validate(string outputLogFileName, PdfFormat format)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputLogFileName | String | مسار الملف حيث سيتم تخزين التعليقات. |
+| outputLogFileName | String | المسار إلى الملف حيث سيتم تخزين التعليقات. |
 | format | PdfFormat | تنسيق pdf. |
 
-### Return Value
+### قيمة الإرجاع
 
 نتيجة العملية
 
-### See Also
+### انظر أيضًا
 
 * enum [PdfFormat](../../pdfformat/)
 * class [Document](../)
@@ -34,22 +34,22 @@ public bool Validate(string outputLogFileName, PdfFormat format)
 
 ## Validate(Stream, PdfFormat) {#validate_1}
 
-تحقق من الوثيقة في الملف المحدد.
+تحقق من صحة المستند في الملف المحدد.
 
 ```csharp
 public bool Validate(Stream outputLogStream, PdfFormat format)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputLogStream | Stream | التدفق حيث سيتم تخزين التعليقات. |
+| outputLogStream | Stream | المجري حيث سيتم تخزين التعليقات. |
 | format | PdfFormat | تنسيق pdf. |
 
-### Return Value
+### قيمة الإرجاع
 
 نتيجة العملية
 
-### See Also
+### انظر أيضًا
 
 * enum [PdfFormat](../../pdfformat/)
 * class [Document](../)
@@ -60,23 +60,25 @@ public bool Validate(Stream outputLogStream, PdfFormat format)
 
 ## Validate(PdfFormatConversionOptions) {#validate}
 
-تحقق من الوثيقة في الملف المحدد.
+تحقق من صحة المستند في الملف المحدد.
 
 ```csharp
 public bool Validate(PdfFormatConversionOptions options)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| options | PdfFormatConversionOptions | مجموعة من الخيارات لتحويل وثيقة PDF |
+| options | PdfFormatConversionOptions | مجموعة من الخيارات لتحويل مستند PDF |
 
-### Return Value
+### قيمة الإرجاع
 
 نتيجة العملية
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFormatConversionOptions](../../pdfformatconversionoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

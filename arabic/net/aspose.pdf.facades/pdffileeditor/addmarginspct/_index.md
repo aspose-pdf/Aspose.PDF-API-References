@@ -1,55 +1,55 @@
 ---
-title: PdfFileEditor.AddMarginsPct
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileEditor. تعيد حجم محتويات الصفحة وتضيف الهوامش المحددة. يتم تحديد الهوامش كنسب مئوية من حجم الصفحة الأولي
+title: "PdfFileEditor.AddMarginsPct"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileEditor. تُعيد تحجيم محتويات الصفحة وتضيف الهوامش المحددة. تُحدد الهوامش كنسب مئوية من حجم الصفحة الأولي"
 type: docs
 weight: 230
 url: /ar/net/aspose.pdf.facades/pdffileeditor/addmarginspct/
 ---
 ## AddMarginsPct(Stream, Stream, int[], double, double, double, double) {#addmarginspct}
 
-تعيد حجم محتويات الصفحة وتضيف الهوامش المحددة. يتم تحديد الهوامش كنسب مئوية من حجم الصفحة الأولي.
+يعيد تحجيم محتويات الصفحة ويضيف هوامش محددة. تُحدد الهوامش بالنسبة المئوية لحجم الصفحة الأولي.
 
 ```csharp
 public bool AddMarginsPct(Stream source, Stream destination, int[] pages, double leftMargin, 
     double rightMargin, double topMargin, double bottomMargin)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| source | Stream | التدفق الذي يحتوي على الوثيقة المصدر. |
-| destination | Stream | التدفق الذي سيتم حفظ الوثيقة الناتجة فيه. |
-| pages | Int32[] | مصفوفة من فهارس الصفحات. إذا كانت null، فسيتم معالجة جميع صفحات الوثيقة. |
+| المصدر | Stream | تدفق يحتوي على المستند المصدر. |
+| destination | Stream | دفق حيث سيتم حفظ document الناتج. |
+| صفحات | Int32[] | مصفوفة من فهارس page. إذا كانت null فسيتم معالجة جميع pages document. |
 | leftMargin | Double | الهامش الأيسر كنسبة مئوية من حجم الصفحة الأولي. |
 | rightMargin | Double | الهامش الأيمن كنسبة مئوية من حجم الصفحة الأولي. |
 | topMargin | Double | الهامش العلوي كنسبة مئوية من حجم الصفحة الأولي. |
 | bottomMargin | Double | الهامش السفلي كنسبة مئوية من حجم الصفحة الأولي. |
 
-### Return Value
+### قيمة الإرجاع
 
 true إذا تم تنفيذ الإجراء بنجاح.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.AddMarginsPct(src, dest, 
-    //process pages 1, 2, 3
+    //معالجة pages 1، 2، 3
     new int[] { 1, 2, 3}, 
-    //left margin is 15% of page width 
+    //الهامش الأيسر هو 15% من عرض الصفحة
     15, 
-    //right margin is 10% of page width
+    //الهامش الأيمن هو 10% من عرض الصفحة
     10, 
-    //top margin is 20% of page width
+    //الهامش العلوي هو 20% من عرض الصفحة
     20, 
-    //bottom margin is 5% of page width
+    //الهامش السفلي هو 5% من عرض الصفحة
     5);
     dest.Close();
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -59,46 +59,48 @@ fileEditor.AddMarginsPct(src, dest,
 
 ## AddMarginsPct(string, string, int[], double, double, double, double) {#addmarginspct_1}
 
-تعيد حجم محتويات الصفحة وتضيف الهوامش المحددة. يتم تحديد الهوامش كنسب مئوية من حجم الصفحة الأولي.
+يعيد تحجيم محتويات الصفحة ويضيف هوامش محددة. تُحدد الهوامش بالنسبة المئوية لحجم الصفحة الأولي.
 
 ```csharp
 public bool AddMarginsPct(string source, string destination, int[] pages, double leftMargin, 
     double rightMargin, double topMargin, double bottomMargin)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| source | String | المسار إلى الوثيقة المصدر. |
-| destination | String | المسار الذي سيتم حفظ الوثيقة الناتجة فيه. |
-| pages | Int32[] | مصفوفة من فهارس الصفحات. إذا كانت null، فسيتم معالجة جميع صفحات الوثيقة. |
+| المصدر | String | المسار إلى source document. |
+| destination | String | المسار حيث سيتم حفظ document الناتج. |
+| صفحات | Int32[] | مصفوفة من فهارس page. إذا كانت null فسيتم معالجة جميع pages document. |
 | leftMargin | Double | الهامش الأيسر كنسبة مئوية من حجم الصفحة الأولي. |
 | rightMargin | Double | الهامش الأيمن كنسبة مئوية من حجم الصفحة الأولي. |
 | topMargin | Double | الهامش العلوي كنسبة مئوية من حجم الصفحة الأولي. |
 | bottomMargin | Double | الهامش السفلي كنسبة مئوية من حجم الصفحة الأولي. |
 
-### Return Value
+### قيمة الإرجاع
 
-true إذا كان تغيير الحجم ناجحاً
+true إذا كان التحجيم ناجحًا
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.AddMarginsPct("input.pdf", "output.pdf", 
-    //process pages 1, 2, 3
+    //معالجة pages 1، 2، 3
     new int[] { 1, 2, 3}, 
-    //left margin is 15% of page width 
+    //الهامش الأيسر هو 15% من عرض الصفحة
     15, 
-    //right margin is 10% of page width
+    //الهامش الأيمن هو 10% من عرض الصفحة
     10, 
-    //top margin is 20% of page width
+    //الهامش العلوي هو 20% من عرض الصفحة
     20, 
-    //bottom margin is 5% of page width
+    //الهامش السفلي هو 5% من عرض الصفحة
     5);
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

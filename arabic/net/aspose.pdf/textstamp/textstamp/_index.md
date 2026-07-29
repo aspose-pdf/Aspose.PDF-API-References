@@ -1,24 +1,24 @@
 ---
-title: TextStamp.TextStamp
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TextStamp. يقوم بتهيئة مثيل جديد من فئة TextStamp
+title: "TextStamp.TextStamp"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TextStamp. يهيئ نسخة جديدة من الفئة TextStamp"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/textstamp/textstamp/
 ---
 ## TextStamp(string) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة [`TextStamp`](../).
+يهيئ نسخة جديدة من الفئة [`TextStamp`](../).
 
 ```csharp
 public TextStamp(string value)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | String | قيمة الطابع. |
+| القيمة | String | قيمة الختم. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -28,18 +28,18 @@ public TextStamp(string value)
 
 ## TextStamp(string, TextState) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد من فئة [`TextStamp`](../).
+يهيئ نسخة جديدة من الفئة [`TextStamp`](../).
 
 ```csharp
 public TextStamp(string value, TextState textState)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | String | قيمة الطابع. |
-| textState | TextState | حالة نص الطابع. |
+| القيمة | String | قيمة الختم. |
+| textState | TextState | حالة نص الختم. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextState](../../../aspose.pdf.text/textstate/)
 * class [TextStamp](../)
@@ -50,19 +50,21 @@ public TextStamp(string value, TextState textState)
 
 ## TextStamp(FormattedText) {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`TextStamp`](../) باستخدام كائن formattedText
+يهيئ نسخة جديدة من الفئة [`TextStamp`](../) مع كائن formattedText
 
 ```csharp
 public TextStamp(FormattedText formattedText)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | formattedText | FormattedText | كائن FormattedText الذي يحتوي على نص الطابع. |
 
-### See Also
+### انظر أيضًا
 
 * class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

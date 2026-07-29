@@ -1,14 +1,14 @@
 ---
-title: GS.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة GS. تعيد تمثيل السلسلة للمشغل
+title: "GS.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة GS. تُرجع تمثيل النص للمشغل"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.operators/gs/tostring/
 ---
-## طريقة GS.ToString
+## GS.ToString method
 
-تعيد تمثيل السلسلة للمشغل.
+يرجع تمثيل النص للعامل.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-تمثيل السلسلة للمشغل.
+تمثيل نصي للمشغل.
 
 ### انظر أيضًا
 
 * class [GS](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Field.FitIntoRectangle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الحقل. إذا كانت صحيحة، فسيتم تقليل حجم الخط ليتناسب النص مع المستطيل المحدد
+title: "Field.FitIntoRectangle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Field. إذا كانت true فسيتم تقليل حجم الخط لتناسب النص داخل المستطيل المحدد"
 type: docs
 weight: 240
 url: /ar/net/aspose.pdf.forms/field/fitintorectangle/
 ---
-## خاصية Field.FitIntoRectangle
+## Field.FitIntoRectangle property
 
-إذا كانت صحيحة، فسيتم تقليل حجم الخط ليتناسب النص مع المستطيل المحدد.
+إذا كان صحيحًا فسيتم تقليل حجم الخط لتناسب النص مع المستطيل المحدد.
 
 ```csharp
 public static bool FitIntoRectangle { get; set; }
@@ -19,3 +19,5 @@ public static bool FitIntoRectangle { get; set; }
 * class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

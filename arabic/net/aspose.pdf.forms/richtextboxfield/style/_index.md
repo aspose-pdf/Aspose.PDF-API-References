@@ -1,14 +1,14 @@
 ---
-title: RichTextBoxField.Style
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RichTextBoxField. تحصل أو تعين سلسلة النمط الافتراضية لحقل النص الغني
+title: "RichTextBoxField.Style"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RichTextBoxField. يحصل أو يعيّن سلسلة النمط الافتراضية لحقل النص الغني"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.forms/richtextboxfield/style/
 ---
-## خاصية RichTextBoxField.Style
+## RichTextBoxField.Style property
 
-تحصل أو تعين سلسلة النمط الافتراضية لحقل النص الغني.
+يحصل أو يعيّن سلسلة النمط الافتراضية لحقل النص المنسق.
 
 ```csharp
 public string Style { get; set; }
@@ -19,3 +19,5 @@ public string Style { get; set; }
 * class [RichTextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.PartsEmbeddingMode
-second_title: Aspose.PDF for .NET API Reference
-description: حقل HtmlSaveOptions. يحدد ما إذا كانت الملفات المرجعية ستُدرج في ملف HTML الرئيسي أو ستُولد ككيانات ثنائية منفصلة
+title: "HtmlSaveOptions.PartsEmbeddingMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل HtmlSaveOptions. يحدد ما إذا كانت الملفات المشار إليها (HTML، FontsImages، CSSes) سيتم تضمينها في ملف HTML الرئيسي أم سيتم إنشاؤها ككيانات ثنائية منفصلة."
 type: docs
 weight: 390
 url: /ar/net/aspose.pdf/htmlsaveoptions/partsembeddingmode/
 ---
-## حقل HtmlSaveOptions.PartsEmbeddingMode
+## HtmlSaveOptions.PartsEmbeddingMode field
 
-يحدد ما إذا كانت الملفات المرجعية (HTML، الخطوط، الصور، CSS) ستُدرج في ملف HTML الرئيسي أو ستُولد ككيانات ثنائية منفصلة
+It defines whether referenced files (HTML, Fonts,Images, CSSes) will be embedded into main HTML file or will be generated as apart binary entities
 
 ```csharp
 public PartsEmbeddingModes PartsEmbeddingMode;
@@ -20,3 +20,5 @@ public PartsEmbeddingModes PartsEmbeddingMode;
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

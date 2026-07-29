@@ -1,52 +1,54 @@
 ---
-title: Class TocGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.TocGenerator. تمثل مكون Aspose.PDF TocGenerator
+title: "الفئة TocGenerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Plugins.TocGenerator. تمثل مكوّن Aspose.PDF TocGenerator"
 type: docs
-weight: 9430
+weight: 9580
 url: /ar/net/aspose.pdf.plugins/tocgenerator/
 ---
 ## TocGenerator class
 
-تمثل مكون Aspose.PDF TocGenerator.
+يمثل ملحق Aspose.PDF TocGenerator.
 
 ```csharp
 public sealed class TocGenerator : IDisposable, IPlugin
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [TocGenerator](tocgenerator/)() | المُنشئ الافتراضي. |
+| [TocGenerator](tocgenerator/)() | البناء الافتراضي. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/tocgenerator/dispose/)() | تنفيذ IDisposable. في الواقع، ليس من الضروري لـ TocGenerator. |
-| [Process](../../aspose.pdf.plugins/tocgenerator/process/)(IPluginOptions) | يبدأ معالجة PdfGenerator مع المعلمات المحددة. |
+| [Dispose](../../aspose.pdf.plugins/tocgenerator/dispose/)() | تنفيذ IDisposable. في الواقع، ليس ضرورياً لـ TocGenerator. |
+| [Process](../../aspose.pdf.plugins/tocgenerator/process/)(IPluginOptions) | يبدأ معالجة PdfGenerator باستخدام المعلمات المحددة. |
 
-## Examples
+## أمثلة
 
-المثال يوضح كيفية إضافة جدول المحتويات إلى ملف PDF.
+يوضح المثال كيفية إضافة فهرس (TOC) إلى ملف PDF.
 
 ```csharp
-// create TocGenerator
+// إنشاء TocGenerator
 var generator = new TocGenerator();
-// create TocOptions object to set instructions
+// إنشاء كائن TocOptions لتعيين التعليمات
 var opt = new TocOptions();
-// add input file paths
+// إضافة مسارات ملفات الإدخال
 opt.AddInput(new FileDataSource(inputPath1));
 opt.AddInput(new FileDataSource(inputPath2));
-// set output file path
+// تعيين مسار ملف الإخراج
 opt.AddOutput(new FileDataSource(outputPath));
-// perform extraction process
+// تنفيذ عملية الاستخراج
 generator.Process(opt);
 ```
 
-### See Also
+### انظر أيضًا
 
 * interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

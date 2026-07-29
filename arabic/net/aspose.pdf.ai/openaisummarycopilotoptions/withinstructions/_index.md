@@ -1,29 +1,31 @@
 ---
-title: OpenAISummaryCopilotOptions.WithInstructions
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAISummaryCopilotOptions. تعيين التعليمات لخيارات مساعد الملخص
+title: "OpenAISummaryCopilotOptions.WithInstructions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAISummaryCopilotOptions. تحدد التعليمات لخيارات المساعد الملخص."
 type: docs
-weight: 80
+weight: 90
 url: /ar/net/aspose.pdf.ai/openaisummarycopilotoptions/withinstructions/
 ---
-## طريقة OpenAISummaryCopilotOptions.WithInstructions
+## OpenAISummaryCopilotOptions.WithInstructions method
 
-تعيين التعليمات لخيارات مساعد الملخص.
+يعيّن التعليمات لخيارات ملخص المساعد.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithInstructions(string instructions)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| التعليمات | سلسلة | التعليمات التي سيتم تعيينها. |
+| instructions | String | التعليمات التي سيتم ضبطها. |
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAISummaryCopilotOptions`](../).
+العنصر الحالي من [`OpenAISummaryCopilotOptions`](../).
 
 ### انظر أيضًا
 
-* الفئة [OpenAISummaryCopilotOptions](../)
-* مساحة الاسم [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

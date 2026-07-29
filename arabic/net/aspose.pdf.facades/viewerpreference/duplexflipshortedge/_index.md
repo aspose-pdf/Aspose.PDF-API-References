@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.DuplexFlipShortEdge
-second_title: Aspose.PDF for .NET API Reference
-description: حقل ViewerPreference. الطباعة المزدوجة والانعكاس على الحافة القصيرة للورقة
+title: "ViewerPreference.DuplexFlipShortEdge"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل ViewerPreference. Duplex وتدوير على الحافة القصيرة للصفحة"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.facades/viewerpreference/duplexflipshortedge/
 ---
-## حقل ViewerPreference.DuplexFlipShortEdge
+## ViewerPreference.DuplexFlipShortEdge field
 
-الطباعة المزدوجة والانعكاس على الحافة القصيرة للورقة.
+طباعة مزدوجة وقلب على الحافة القصيرة للصفحة.
 
 ```csharp
 public const int DuplexFlipShortEdge;
@@ -19,3 +19,5 @@ public const int DuplexFlipShortEdge;
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

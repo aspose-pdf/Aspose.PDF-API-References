@@ -1,14 +1,14 @@
 ---
-title: PdfFileMend.TextPositioningMode
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileMend. تعيين أو الحصول على استراتيجية وضع النص. وضعية الوضع الافتراضية هي Legacy
+title: "PdfFileMend.TextPositioningMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileMend. تحدد أو تسترجع استراتيجية تموضع النص. PositioningMode الوضع الافتراضي هو Legacy"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.facades/pdffilemend/textpositioningmode/
 ---
-## خاصية PdfFileMend.TextPositioningMode
+## PdfFileMend.TextPositioningMode property
 
-تعيين أو الحصول على استراتيجية وضع النص. [`PositioningMode`](../../positioningmode/) وضعية الوضع الافتراضية هي Legacy.
+تحدد أو تسترجع استراتيجية تموضع النص. [`PositioningMode`](../../positioningmode/) الوضع الافتراضي هو Legacy.
 
 ```csharp
 public PositioningMode TextPositioningMode { get; set; }
@@ -20,3 +20,5 @@ public PositioningMode TextPositioningMode { get; set; }
 * class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

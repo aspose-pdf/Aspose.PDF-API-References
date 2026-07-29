@@ -1,20 +1,20 @@
 ---
-title: TiffSettings.Compression
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TiffSettings. تحصل أو تعين نوع الضغط
+title: "TiffSettings.Compression"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TiffSettings. تحصل أو تعين نوع الضغط"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.devices/tiffsettings/compression/
 ---
-## خاصية TiffSettings.Compression
+## TiffSettings.Compression property
 
-تحصل أو تعين نوع الضغط.
+احصل أو عيّن نوع الضغط.
 
 ```csharp
 public CompressionType Compression { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 نوع الضغط.
 
@@ -28,3 +28,5 @@ public CompressionType Compression { get; set; }
 * class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

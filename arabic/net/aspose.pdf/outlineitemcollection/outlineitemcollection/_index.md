@@ -1,22 +1,22 @@
 ---
-title: OutlineItemCollection.OutlineItemCollection
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ OutlineItemCollection. يقوم بتهيئة مثيل عنصر المخطط باستخدام كائن التسلسل الهرمي الجذري
+title: "OutlineItemCollection.OutlineItemCollection"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "OutlineItemCollection مُنشئ. يهيئ نسخة عنصر المخطط باستخدام كائن التسلسل الجذري"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/outlineitemcollection/outlineitemcollection/
 ---
-## مُنشئ OutlineItemCollection
+## OutlineItemCollection constructor
 
-يقوم بتهيئة مثيل عنصر المخطط باستخدام كائن التسلسل الهرمي الجذري.
+يُهيئ نسخة عنصر المخطط باستخدام كائن التسلسل الجذري.
 
 ```csharp
 public OutlineItemCollection(OutlineCollection outlines)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outlines | OutlineCollection | مجموعة العناصر المخططة. |
+| المخططات | OutlineCollection | Outlune مجموعة. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public OutlineItemCollection(OutlineCollection outlines)
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: DefaultAppearance.TextColor
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DefaultAppearance. تحصل أو تعين لون النص في المظهر الافتراضي
+title: "DefaultAppearance.TextColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DefaultAppearance. يحصل على أو يضبط لون النص في المظهر الافتراضي"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.annotations/defaultappearance/textcolor/
 ---
-## خاصية DefaultAppearance.TextColor
+## DefaultAppearance.TextColor property
 
-تحصل أو تعين لون النص في المظهر الافتراضي.
+يحصل أو يعيّن لون النص في المظهر الافتراضي.
 
 ```csharp
 public Color TextColor { get; set; }
@@ -19,3 +19,5 @@ public Color TextColor { get; set; }
 * class [DefaultAppearance](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

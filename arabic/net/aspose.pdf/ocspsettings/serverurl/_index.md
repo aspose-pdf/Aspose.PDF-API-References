@@ -1,14 +1,14 @@
 ---
-title: OcspSettings.ServerUrl
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OcspSettings. تحصل على وتضبط عنوان خادم ocsp
+title: "OcspSettings.ServerUrl"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OcspSettings. يحصل ويضبط عنوان خادم OCSP URL"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/ocspsettings/serverurl/
 ---
-## خاصية OcspSettings.ServerUrl
+## OcspSettings.ServerUrl property
 
-تحصل على وتضبط عنوان خادم ocsp.
+يحصل ويعيّن عنوان URL لخادم ocsp.
 
 ```csharp
 public string ServerUrl { get; set; }
@@ -19,3 +19,5 @@ public string ServerUrl { get; set; }
 * class [OcspSettings](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,58 +1,58 @@
 ---
-title: TextBuilder.AppendText
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TextBuilder. تضيف جزء نصي إلى صفحة Pdf
+title: "TextBuilder.AppendText"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TextBuilder. تُضيف جزء النص إلى صفحة Pdf"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.text/textbuilder/appendtext/
 ---
 ## AppendText(TextFragment) {#appendtext}
 
-تضيف جزء نصي إلى صفحة Pdf
+يُضيف مقطع نص إلى صفحة Pdf
 
 ```csharp
 public void AppendText(TextFragment textFragment)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| textFragment | TextFragment | كائن جزء النص. |
+| textFragment | TextFragment | كائن Text fragment. |
 
-## Examples
+## أمثلة
 
-توضح هذه المثال كيفية إنشاء كائن جزء نصي، وتخصيص مقاطع النص الخاصة به وإضافته إلى صفحة Pdf.
+يوضح المثال كيفية إنشاء كائن Text fragment، وتخصيص مقاطع النص الخاصة به وإضافته إلى صفحة Pdf.
 
 ```csharp
 Document doc = new Document(inFile);
 Page page = (Page)doc.Pages[1];
 
-// create text fragment
+// إنشاء Text fragment
 TextFragment tf = new TextFragment("main text");
 tf.Position = new Position(100, 600);
 
-// set it's text properties
+// تعيين خصائص النص الخاصة به
 tf.TextState.FontSize = 5;
 tf.TextState.Font = FontRepository.FindFont("TimesNewRoman");
 tf.TextState.BackgroundColor = Color.LightGray;
 tf.TextState.ForegroundColor = Color.Red;
 
-// add one more segment to text fragment's Segments collection
+// إضافة مقطع آخر إلى مجموعة Segments الخاصة بـ Text fragment
 TextSegment segment2 = new TextSegment();
 segment2.Text = "another segment";
 
 tf.Segments.Add(segment2);
 
-// create TextBuilder object
+// إنشاء كائن TextBuilder
 TextBuilder builder = new TextBuilder(page);
 
-// append the text fragment to the Pdf page
+// إضافة Text fragment إلى صفحة Pdf
 builder.AppendText(tf);
 
-//save document
+//حفظ المستند
 doc.Save(outFile);
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [TextFragment](../../textfragment/)
 * class [TextBuilder](../)
@@ -63,19 +63,21 @@ doc.Save(outFile);
 
 ## AppendText(List&lt;TextFragment&gt;) {#appendtext_1}
 
-تضيف قائمة من أجزاء النص إلى صفحة Pdf.
+يُضيف قائمة من مقاطع النص إلى صفحة Pdf.
 
 ```csharp
 public void AppendText(List<TextFragment> textFragments)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| textFragments | List`1 | مجموعة من أجزاء النص |
+| textFragments | List`1 | مجموعة من Text fragments |
 
-### See Also
+### انظر أيضًا
 
 * class [TextFragment](../../textfragment/)
 * class [TextBuilder](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

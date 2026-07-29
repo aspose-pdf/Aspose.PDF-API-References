@@ -1,14 +1,14 @@
 ---
-title: PaperSources.Middle
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSources. يمثل السلة الوسطى للطابعة
+title: "PaperSources.Middle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSources حقل. يمثل الحاوية المتوسطة للطابعة"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.printing/papersources/middle/
 ---
-## حقل PaperSources.Middle
+## PaperSources.Middle field
 
-يمثل السلة الوسطى للطابعة.
+يمثل صينية الورق المتوسطة للطابعة.
 
 ```csharp
 public static readonly PaperSource Middle;
@@ -20,3 +20,5 @@ public static readonly PaperSource Middle;
 * class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

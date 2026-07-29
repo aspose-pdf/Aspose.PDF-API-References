@@ -1,14 +1,14 @@
 ---
-title: Logprobs.TokenLogprobs
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Logprobs. تحصل أو تعين قائمة من احتمالات سجل الرموز
+title: "Logprobs.TokenLogprobs"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Logprobs. تحصل أو تعين قائمة باحتمالات اللوغاريتم للرموز"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/logprobs/tokenlogprobs/
 ---
-## خاصية Logprobs.TokenLogprobs
+## Logprobs.TokenLogprobs property
 
-تحصل أو تعين قائمة من احتمالات سجل الرموز.
+يحصل أو يعيّن قائمة من احتمالات اللوغاريتم للرموز.
 
 ```csharp
 public List<double?> TokenLogprobs { get; set; }
@@ -19,3 +19,5 @@ public List<double?> TokenLogprobs { get; set; }
 * class [Logprobs](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

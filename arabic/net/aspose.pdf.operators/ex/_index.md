@@ -1,14 +1,14 @@
 ---
-title: Class EX
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.EX. فئة تمثل مشغل EX - نهاية قسم التوافق
+title: "الفئة EX"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Operators.EX الفئة. الفئة التي تمثل معامل EX نهاية قسم التوافق."
 type: docs
-weight: 7350
+weight: 7490
 url: /ar/net/aspose.pdf.operators/ex/
 ---
-## فئة EX
+## EX class
 
-فئة تمثل مشغل EX (نهاية قسم التوافق).
+الفئة التي تمثل المشغل EX (نهاية قسم التوافق).
 
 ```csharp
 public class EX : Operator
@@ -18,24 +18,26 @@ public class EX : Operator
 
 | الاسم | الوصف |
 | --- | --- |
-| [EX](ex/)() | يقوم بتهيئة المشغل. |
+| [EX](ex/)() | يُهيئ العامل. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/ex/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | يعيد نص المشغل ومعاييره. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/ex/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | يرجع نص العامل ومعامِله. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
 ### انظر أيضًا
 
-* فئة [Operator](../../aspose.pdf/operator/)
-* مساحة الأسماء [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* التجميع [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

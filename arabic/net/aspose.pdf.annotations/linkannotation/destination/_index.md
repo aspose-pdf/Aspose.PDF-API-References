@@ -1,14 +1,14 @@
 ---
-title: LinkAnnotation.Destination
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LinkAnnotation. وجهة سيتم عرضها عند تفعيل التعليق
+title: "LinkAnnotation.Destination"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LinkAnnotation. وجهة تُعرض عندما يتم تنشيط التعليق التوضيحي"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/linkannotation/destination/
 ---
-## خاصية LinkAnnotation.Destination
+## LinkAnnotation.Destination property
 
-وجهة سيتم عرضها عند تفعيل التعليق.
+وجهة تُعرض عندما يتم تنشيط التعليق التوضيحي.
 
 ```csharp
 public IAppointment Destination { get; set; }
@@ -16,7 +16,9 @@ public IAppointment Destination { get; set; }
 
 ### انظر أيضًا
 
-* واجهة [IAppointment](../../iappointment/)
-* فئة [LinkAnnotation](../)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IAppointment](../../iappointment/)
+* class [LinkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

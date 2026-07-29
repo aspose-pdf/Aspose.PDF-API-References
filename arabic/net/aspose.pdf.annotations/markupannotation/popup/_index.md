@@ -1,12 +1,12 @@
 ---
-title: MarkupAnnotation.Popup
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MarkupAnnotation. تعليق منبثق لإدخال أو تعديل النص المرتبط بهذا التعليق
+title: "MarkupAnnotation.Popup"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MarkupAnnotation. تعليق منبثق لإدخال أو تعديل النص المرتبط بهذا التعليق"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.annotations/markupannotation/popup/
 ---
-## خاصية MarkupAnnotation.Popup
+## MarkupAnnotation.Popup property
 
 تعليق منبثق لإدخال أو تعديل النص المرتبط بهذا التعليق.
 
@@ -20,3 +20,5 @@ public PopupAnnotation Popup { get; set; }
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

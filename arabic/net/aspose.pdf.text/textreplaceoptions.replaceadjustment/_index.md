@@ -1,32 +1,34 @@
 ---
-title: Enum TextReplaceOptions.ReplaceAdjustment
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextReplaceOptionsReplaceAdjustment enum. يحدد الإجراء الذي سيتم اتخاذه بعد استبدال جزء النص بأكثر اختصارًا. None - لا يوجد إجراء، النص المستبدل قد يتداخل مع بقية السطر؛ AdjustSpaceWidth - يحاول ضبط المسافات بين الكلمات للحفاظ على طول السطر؛ WholeWordsHyphenation - يحاول توزيع الكلمات بين أسطر الفقرة للحفاظ على الحقل الصحيح للفقرة؛ ShiftRestOfLine - يحرك بقية السطر وفقًا لتغيير طول النص، قد يتغير طول السطر؛ القيمة الافتراضية هي ShiftRestOfLine.
+title: "التعداد TextReplaceOptions.ReplaceAdjustment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.Text.TextReplaceOptionsReplaceAdjustment. يحدد الإجراء الذي سيُجرى بعد استبدال جزء من النص بجزء أقصر. None لا إجراء، قد يتداخل النص المستبدل مع باقي السطر. AdjustSpaceWidth يحاول تعديل المسافات بين الكلمات للحفاظ على طول السطر. WholeWordsHyphenation يحاول توزيع الكلمات بين أسطر الفقرة للحفاظ على حقل الفقرة الأيمن. ShiftRestOfLine ي shift باقي السطر وفقًا لتغيير طول النص؛ قد يتغير طول السطر. القيمة الافتراضية هي ShiftRestOfLine."
 type: docs
-weight: 11020
+weight: 11210
 url: /ar/net/aspose.pdf.text/textreplaceoptions.replaceadjustment/
 ---
 ## TextReplaceOptions.ReplaceAdjustment enumeration
 
-يحدد الإجراء الذي سيتم اتخاذه بعد استبدال جزء النص بأكثر اختصارًا. None - لا يوجد إجراء، النص المستبدل قد يتداخل مع بقية السطر؛ AdjustSpaceWidth - يحاول ضبط المسافات بين الكلمات للحفاظ على طول السطر؛ WholeWordsHyphenation - يحاول توزيع الكلمات بين أسطر الفقرة للحفاظ على الحقل الصحيح للفقرة؛ ShiftRestOfLine - يحرك بقية السطر وفقًا لتغيير طول النص، قد يتغير طول السطر؛ القيمة الافتراضية هي ShiftRestOfLine.
+يحدد الإجراء الذي سيُجرى بعد استبدال جزء من النص بجزء أقصر. None - لا إجراء، قد يتداخل النص المستبدل مع باقي السطر؛ AdjustSpaceWidth - يحاول تعديل المسافات بين الكلمات للحفاظ على طول السطر؛ WholeWordsHyphenation - يحاول توزيع الكلمات بين أسطر الفقرة للحفاظ على الحقل الأيمن للفقرة؛ ShiftRestOfLine - يحرك باقي السطر وفقًا لتغيير طول النص، قد يتغير طول السطر؛ القيمة الافتراضية هي ShiftRestOfLine.
 
 ```csharp
 [Flags]
 public enum ReplaceAdjustment
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| None | `0` | لا يوجد إجراء، النص المستبدل قد يتداخل مع بقية السطر |
-| AdjustSpaceWidth | `1` | يحاول ضبط المسافات بين الكلمات للحفاظ على طول السطر |
-| WholeWordsHyphenation | `2` | يحاول توزيع الكلمات بين أسطر الفقرة للحفاظ على الحقل الصحيح للفقرة |
-| IsFormFillingMode | `4` | يحاول نشر الكلمات في المساحة البيضاء المتاحة باستخدام عرض الفقرة. إذا تجاوز النص، سيتم إخفاؤه. |
-| ShiftRestOfLine | `8` | (افتراضي) يحرك بقية السطر وفقًا لتغيير طول النص، قد يتغير طول السطر |
+| None | `0` | لا إجراء، قد يتداخل النص المستبدل مع باقي السطر |
+| AdjustSpaceWidth | `1` | يحاول تعديل الفراغات بين الكلمات للحفاظ على طول السطر |
+| WholeWordsHyphenation | `2` | يحاول توزيع الكلمات بين أسطر الفقرة للحفاظ على الحقل الأيمن للفقرة |
+| IsFormFillingMode | `4` | يحاول توزيع الكلمات في المساحة البيضاء المتاحة باستخدام عرض الفقرة. إذا تجاوز النص، سيتم إخفاؤه. |
+| ShiftRestOfLine | `8` | (افتراضي) ينقل باقي السطر وفقًا لتغير طول النص، قد يتغير طول السطر |
 
-### See Also
+### انظر أيضًا
 
 * class [TextReplaceOptions](../textreplaceoptions/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

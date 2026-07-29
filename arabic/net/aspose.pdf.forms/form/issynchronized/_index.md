@@ -1,14 +1,14 @@
 ---
-title: Form.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية النموذج. تعيد true إذا كان الكائن آمنًا للخيوط
+title: "Form.IsSynchronized"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Form. تُعيد true إذا كان الكائن thread‑safe."
 type: docs
-weight: 100
+weight: 110
 url: /ar/net/aspose.pdf.forms/form/issynchronized/
 ---
-## خاصية Form.IsSynchronized
+## Form.IsSynchronized property
 
-تعيد true إذا كان الكائن آمنًا للخيوط.
+يرجع true إذا كان الكائن thread-safe.
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -19,3 +19,5 @@ public bool IsSynchronized { get; }
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

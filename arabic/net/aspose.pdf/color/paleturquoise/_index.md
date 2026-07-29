@@ -1,14 +1,14 @@
 ---
-title: Color.PaleTurquoise
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. يحصل على لون معرف من النظام له قيمة ARGB تساوي c FFAFEEEE
+title: "Color.PaleTurquoise"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. يسترجع لونًا معرفًا بالنظام له قيمة ARGB بقيمة c FFAFEEEE"
 type: docs
 weight: 1060
 url: /ar/net/aspose.pdf/color/paleturquoise/
 ---
-## خاصية Color.PaleTurquoise
+## Color.PaleTurquoise property
 
-يحصل على لون معرف من النظام له قيمة ARGB تساوي \c \#FFAFEEEE.
+يسترجع لونًا معرفًا من النظام له قيمة ARGB \c \#FFAFEEEE.
 
 ```csharp
 public static Color PaleTurquoise { get; }
@@ -16,10 +16,12 @@ public static Color PaleTurquoise { get; }
 
 ### قيمة الإرجاع
 
-يمثل لونًا معرفًا من النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

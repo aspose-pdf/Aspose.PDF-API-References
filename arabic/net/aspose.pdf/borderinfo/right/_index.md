@@ -1,14 +1,14 @@
 ---
-title: BorderInfo.Right
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BorderInfo. تحصل أو تعين كائنًا يشير إلى الجانب الأيمن من الحدود
+title: "BorderInfo.Right"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BorderInfo. يحصل أو يضبط كائنًا يشير إلى يمين الحد"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/borderinfo/right/
 ---
-## خاصية BorderInfo.Right
+## BorderInfo.Right property
 
-تحصل أو تعين كائنًا يشير إلى الجانب الأيمن من الحدود.
+يحصل أو يعيّن كائنًا يشير إلى الجانب الأيمن من الحد.
 
 ```csharp
 public GraphInfo Right { get; set; }
@@ -20,3 +20,5 @@ public GraphInfo Right { get; set; }
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

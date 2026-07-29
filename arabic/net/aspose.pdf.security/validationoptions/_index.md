@@ -1,14 +1,14 @@
 ---
-title: Class ValidationOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Security.ValidationOptions. تمثل الخيارات للتحقق من صحة التوقيع الرقمي في مستند PDF
+title: "فئة ValidationOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Security.ValidationOptions فئة. تمثل خيارات للتحقق من صحة توقيع رقمي في مستند PDF."
 type: docs
-weight: 10070
+weight: 10250
 url: /ar/net/aspose.pdf.security/validationoptions/
 ---
-## فئة ValidationOptions
+## ValidationOptions class
 
-تمثل الخيارات للتحقق من صحة التوقيع الرقمي في مستند PDF.
+تمثل خيارات للتحقق من صحة توقيع رقمي في مستند PDF
 
 ```csharp
 public sealed class ValidationOptions
@@ -18,17 +18,20 @@ public sealed class ValidationOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [ValidationOptions](validationoptions/)() | المنشئ الافتراضي. |
+| [ValidationOptions](validationoptions/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [RequestTimeout](../../aspose.pdf.security/validationoptions/requesttimeout/) { get; set; } | يحصل على أو يحدد مدة المهلة، بالمللي ثانية، للعمليات المتعلقة بالشبكة أثناء عملية التحقق. تحدد خاصية RequestTimeout الحد الأقصى للوقت الذي يجب أن ينتظره النظام للحصول على استجابة الشبكة عند الوصول إلى الموارد عبر الإنترنت، مثل حالة الإلغاء أو خوادم OCSP. |
-| [ValidationMethod](../../aspose.pdf.security/validationoptions/validationmethod/) { get; set; } | يحصل على أو يحدد الطريقة المستخدمة للتحقق من صحة الشهادة. |
-| [ValidationMode](../../aspose.pdf.security/validationoptions/validationmode/) { get; set; } | يحصل على أو يحدد وضع التحقق من صحة التوقيعات الرقمية في مستند PDF. تحدد خاصية ValidationMode مدى صرامة عملية التحقق. |
+| [CheckCertificateChain](../../aspose.pdf.security/validationoptions/checkcertificatechain/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى ما إذا كان ينبغي فحص سلسلة الشهادات أثناء عملية التحقق. |
+| [RequestTimeout](../../aspose.pdf.security/validationoptions/requesttimeout/) { get; set; } | يحصل أو يعيّن مدة المهلة، بالميليثانية، للعمليات المتعلقة بالشبكة أثناء عملية التحقق. تحدد خاصية RequestTimeout الحد الأقصى للوقت الذي يجب أن ينتظره النظام لاستجابة الشبكة عند الوصول إلى الموارد عبر الإنترنت، مثل حالة الإلغاء أو خوادم OCSP. |
+| [ValidationMethod](../../aspose.pdf.security/validationoptions/validationmethod/) { get; set; } | يحصل أو يضبط الطريقة المستخدمة للتحقق من صحة شهادة. |
+| [ValidationMode](../../aspose.pdf.security/validationoptions/validationmode/) { get; set; } | يحصل أو يضبط وضع التحقق من التوقيعات الرقمية في مستند PDF. تحدد خاصية ValidationMode صرامة عملية التحقق. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Security](../../aspose.pdf.security/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
+* assembly [Aspose.PDF](../../)
+
+

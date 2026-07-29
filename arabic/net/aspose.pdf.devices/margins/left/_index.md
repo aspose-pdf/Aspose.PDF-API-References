@@ -1,20 +1,20 @@
 ---
-title: Margins.Left
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الهوامش. تحصل أو تعين اليسار
+title: "Margins.Left"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Margins. تحصل أو تعيين اليسار"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.devices/margins/left/
 ---
-## خاصية Margins.Left
+## Margins.Left property
 
-تحصل أو تعين اليسار.
+يحصل أو يعيّن الجانب الأيسر.
 
 ```csharp
 public int Left { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 اليسار.
 
@@ -23,3 +23,5 @@ public int Left { get; set; }
 * class [Margins](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

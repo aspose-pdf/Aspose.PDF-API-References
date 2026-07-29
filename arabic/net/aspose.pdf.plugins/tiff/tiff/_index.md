@@ -1,14 +1,14 @@
 ---
-title: Tiff.Tiff
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ Tiff. المُنشئ الافتراضي
+title: "Tiff.Tiff"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Tiff. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/tiff/tiff/
 ---
-## مُنشئ Tiff
+## Tiff constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public Tiff()
@@ -19,3 +19,5 @@ public Tiff()
 * class [Tiff](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

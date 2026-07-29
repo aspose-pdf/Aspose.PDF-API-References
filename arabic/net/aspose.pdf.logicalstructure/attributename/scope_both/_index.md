@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Scope_Both
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. نطاق السمة كلاهما
+title: "AttributeName.Scope_Both"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. السمة Scope Both"
 type: docs
 weight: 520
 url: /ar/net/aspose.pdf.logicalstructure/attributename/scope_both/
 ---
-## حقل AttributeName.Scope_Both
+## AttributeName.Scope_Both field
 
-نطاق السمة: كلاهما.
+السمة Scope: كلاهما.
 
 ```csharp
 public static readonly AttributeName Scope_Both;
@@ -19,3 +19,5 @@ public static readonly AttributeName Scope_Both;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

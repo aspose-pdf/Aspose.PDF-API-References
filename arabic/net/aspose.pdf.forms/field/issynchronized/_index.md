@@ -1,14 +1,14 @@
 ---
-title: Field.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الحقل. تعيد true إذا كان القاموس متزامنًا
+title: "Field.IsSynchronized"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Field. تُعيد true إذا كان القاموس مُتزامنًا"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.forms/field/issynchronized/
 ---
-## خاصية Field.IsSynchronized
+## Field.IsSynchronized property
 
-تعيد true إذا كان القاموس متزامنًا.
+إرجاع true إذا كان القاموس متزامناً.
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -19,3 +19,5 @@ public bool IsSynchronized { get; }
 * class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

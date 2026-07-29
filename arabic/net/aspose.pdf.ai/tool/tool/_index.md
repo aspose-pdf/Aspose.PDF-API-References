@@ -1,14 +1,14 @@
 ---
-title: Tool.Tool
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ الأداة. يقوم بتهيئة مثيل جديد من فئة الأداة
+title: "Tool.Tool"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Tool. يهيئ مثيلًا جديدًا لفئة Tool"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/tool/tool/
 ---
 ## Tool() {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`Tool`](../).
+يهيئ مثيلًا جديدًا لفئة [`Tool`](../).
 
 ```csharp
 public Tool()
@@ -16,47 +16,49 @@ public Tool()
 
 ### انظر أيضًا
 
-* فئة [Tool](../)
-* مساحة الأسماء [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Tool(string) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد من فئة [`Tool`](../) مع نوع الأداة المحدد.
+يهيئ مثيلًا جديدًا لفئة [`Tool`](../) بالنوع المحدد للأداة.
 
 ```csharp
 public Tool(string toolType)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| toolType | سلسلة | نوع الأداة. |
+| toolType | String | نوع الأداة. |
 
 ### انظر أيضًا
 
-* فئة [Tool](../)
-* مساحة الأسماء [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Tool(Function) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة [`Tool`](../) مع الوظيفة المحددة.
+يهيئ مثيلًا جديدًا لفئة [`Tool`](../) بالدالة المحددة.
 
 ```csharp
 public Tool(Function function)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| function | وظيفة | الوظيفة التي يمكن للنموذج استدعاؤها. |
+| دالة | دالة | الدالة التي يمكن للنموذج استدعاؤها. |
 
 ### انظر أيضًا
 
-* فئة [Function](../../function/)
-* فئة [Tool](../)
-* مساحة الأسماء [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [Function](../../function/)
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

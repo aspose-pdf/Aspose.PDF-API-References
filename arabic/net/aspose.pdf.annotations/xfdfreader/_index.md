@@ -1,34 +1,34 @@
 ---
-title: Class XfdfReader
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.XfdfReader. فئة تقوم بقراءة تنسيق XFDF
+title: "الفئة XfdfReader"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Annotations.XfdfReader. الفئة التي تقوم بقراءة تنسيق XFDF"
 type: docs
-weight: 2740
+weight: 2840
 url: /ar/net/aspose.pdf.annotations/xfdfreader/
 ---
 ## XfdfReader class
 
-فئة تقوم بقراءة تنسيق XFDF.
+الفئة التي تقوم بقراءة تنسيق XFDF.
 
 ```csharp
 public sealed class XfdfReader
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [XfdfReader](xfdfreader/)() | المُنشئ الافتراضي. |
+| [XfdfReader](xfdfreader/)() | البناء الافتراضي. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | static [GetElements](../../aspose.pdf.annotations/xfdfreader/getelements/)(XmlReader) | يقوم بتحليل ملف XFDF ويعيد المعلومات كجدول تجزئة. |
-| static [ReadAnnotations](../../aspose.pdf.annotations/xfdfreader/readannotations/)(Stream, Document) | يستورد التعليقات التوضيحية من ملف XFDF ويضعها في المستند. |
-| static [ReadFields](../../aspose.pdf.annotations/xfdfreader/readfields/)(Stream, Document) | يستورد قيم الحقول من ملف XFDF. |
+| static [ReadAnnotations](../../aspose.pdf.annotations/xfdfreader/readannotations/)(Stream, Document) | استيراد التعليقات التوضيحية من ملف XFDF ووضعها في المستند. |
+| static [ReadFields](../../aspose.pdf.annotations/xfdfreader/readfields/)(Stream, Document) | استيراد قيم الحقول من ملف XFDF. |
 
-## Examples
+## أمثلة
 
 ```csharp
 Document doc = new Document("example.pdf");
@@ -38,7 +38,9 @@ xfdfStream.Close();
 doc.Save("example_out.pdf");
 ```
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

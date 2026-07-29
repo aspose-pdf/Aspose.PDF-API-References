@@ -1,14 +1,14 @@
 ---
-title: Class FormComboBoxFieldCreateOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.FormComboBoxFieldCreateOptions. تمثل الخيارات لإنشاء ComboBoxField بواسطة مكون FormEditor
+title: "الفئة FormComboBoxFieldCreateOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Plugins.FormComboBoxFieldCreateOptions. تمثل خيارات لإنشاء ComboBoxField بواسطة ملحق FormEditor"
 type: docs
-weight: 8600
+weight: 8730
 url: /ar/net/aspose.pdf.plugins/formcomboboxfieldcreateoptions/
 ---
-## فئة FormComboBoxFieldCreateOptions
+## FormComboBoxFieldCreateOptions class
 
-تمثل الخيارات لإنشاء ComboBoxField بواسطة [`FormEditor`](../formeditor/) مكون.
+تمثل خيارات لإنشاء ComboBoxField بواسطة ملحق [`FormEditor`](../formeditor/).
 
 ```csharp
 public class FormComboBoxFieldCreateOptions : FormFieldCreateOptions
@@ -18,43 +18,45 @@ public class FormComboBoxFieldCreateOptions : FormFieldCreateOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [FormComboBoxFieldCreateOptions](formcomboboxfieldcreateoptions/)(int, Rectangle) | يقوم بتهيئة مثيل جديد من كائن `FormComboBoxFieldCreateOptions`، الذي يحتوي على معلمات لحقل ComboBoxField الذي تم إنشاؤه وإضافته. |
+| [FormComboBoxFieldCreateOptions](formcomboboxfieldcreateoptions/)(int, Rectangle) | يُنشئ مثيلاً جديدًا لكائن `FormComboBoxFieldCreateOptions`، الذي يحتوي على معلمات لإنشاء وإضافة ComboBoxField. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [AlternateName](../../aspose.pdf.plugins/formfieldoptions/alternatename/) { get; set; } | يحصل/يحدد القيمة لتحديد خاصية AlternateName للحقل الذي تم إنشاؤه/تعديله (إذا تم تعيينه). |
-| [Color](../../aspose.pdf.plugins/formfieldoptions/color/) { get; set; } | يحصل/يحدد القيمة لتحديد خاصية Color للحقل الذي تم إنشاؤه/تعديله (إذا تم تعيينه). |
-| [Contents](../../aspose.pdf.plugins/formfieldoptions/contents/) { get; set; } | يحصل/يحدد القيمة لتحديد خاصية Contents للحقل الذي تم إنشاؤه/تعديله (إذا تم تعيينه). |
-| [DefaultAppearance](../../aspose.pdf.plugins/formfieldoptions/defaultappearance/) { get; set; } | يحصل/يحدد القيمة لتحديد خاصية DefaultAppearance للحقل الذي تم إنشاؤه/تعديله (إذا تم تعيينه). |
-| [Editable](../../aspose.pdf.plugins/formcomboboxfieldcreateoptions/editable/) { get; set; } | يحصل/يحدد القيمة لتحديد ما إذا كان حقل ComboBoxField الذي تم إنشاؤه قابل للتعديل أم لا (إذا تم تعيينه). |
-| [Exportable](../../aspose.pdf.plugins/formfieldoptions/exportable/) { get; set; } | يحصل/يحدد القيمة لتحديد ما إذا كان الحقل الذي تم إنشاؤه/تعديله قابلاً للتصدير أم لا (إذا تم تعيينه). |
-| [FitIntoRectangle](../../aspose.pdf.plugins/formfieldoptions/fitintorectangle/) { get; set; } | يحصل/يحدد القيمة لتحديد ما إذا كان الحقل الذي تم إنشاؤه/تعديله يتناسب مع المستطيل أم لا (إذا تم تعيينه). |
-| [Flags](../../aspose.pdf.plugins/formfieldoptions/flags/) { get; set; } | يحصل/يحدد القيمة لتحديد خاصية Flags للحقل الذي تم إنشاؤه/تعديله (إذا تم تعيينه). |
-| [IsSharedField](../../aspose.pdf.plugins/formfieldoptions/issharedfield/) { get; set; } | يحصل/يحدد القيمة لتحديد ما إذا كان الحقل الذي تم إنشاؤه/تعديله حقلًا مشتركًا أم لا (إذا تم تعيينه). |
-| [MappingName](../../aspose.pdf.plugins/formfieldoptions/mappingname/) { get; set; } | يحصل/يحدد القيمة لتحديد خاصية MappingName للحقل الذي تم إنشاؤه/تعديله (إذا تم تعيينه). |
-| [MaxFontSize](../../aspose.pdf.plugins/formfieldoptions/maxfontsize/) { get; set; } | يحصل/يحدد القيمة لتحديد خاصية MaxFontSize للحقل الذي تم إنشاؤه/تعديله (إذا تم تعيينه). |
-| [MinFontSize](../../aspose.pdf.plugins/formfieldoptions/minfontsize/) { get; set; } | يحصل/يحدد القيمة لتحديد خاصية MinFontSize للحقل الذي تم إنشاؤه/تعديله (إذا تم تعيينه). |
-| [Name](../../aspose.pdf.plugins/formfieldoptions/name/) { get; set; } | يحصل/يحدد القيمة لتحديد خاصية Name للحقل الذي تم إنشاؤه/تعديله (إذا تم تعيينه). |
-| [Options](../../aspose.pdf.plugins/formcomboboxfieldcreateoptions/options/) { get; set; } | يحصل/يحدد القيمة لتحديد خاصية Options لحقل ComboBoxField الذي تم إنشاؤه (إذا تم تعيينه). |
-| [PartialName](../../aspose.pdf.plugins/formfieldoptions/partialname/) { get; set; } | يحصل/يحدد القيمة لتحديد خاصية PartialName للحقل الذي تم إنشاؤه/تعديله (إذا تم تعيينه). |
-| [ReadOnly](../../aspose.pdf.plugins/formfieldoptions/readonly/) { get; set; } | يحصل/يحدد القيمة لتحديد ما إذا كان الحقل الذي تم إنشاؤه/تعديله للقراءة فقط أم لا (إذا تم تعيينه). |
-| [Required](../../aspose.pdf.plugins/formfieldoptions/required/) { get; set; } | يحصل/يحدد القيمة لتحديد ما إذا كان الحقل الذي تم إنشاؤه/تعديله مطلوبًا أم لا (إذا تم تعيينه). |
-| [Selected](../../aspose.pdf.plugins/formcomboboxfieldcreateoptions/selected/) { get; set; } | يحصل/يحدد القيمة لتحديد خاصية Selected لحقل ComboBoxField الذي تم إنشاؤه (إذا تم تعيينه). |
-| [TextHorizontalAlignment](../../aspose.pdf.plugins/formfieldoptions/texthorizontalalignment/) { get; set; } | يحصل/يحدد القيمة لتحديد خاصية TextHorizontalAlignment للحقل الذي تم إنشاؤه/تعديله (إذا تم تعيينه). |
-| [UpdateAppearanceOnConvert](../../aspose.pdf.plugins/formfieldoptions/updateappearanceonconvert/) { get; set; } | يحصل/يحدد القيمة لتحديد ما إذا كان الحقل الذي تم إنشاؤه/تعديله يقوم بتحديث المظهر عند التحويل أم لا (إذا تم تعيينه). |
-| [UseFontSubset](../../aspose.pdf.plugins/formfieldoptions/usefontsubset/) { get; set; } | يحصل/يحدد القيمة لتحديد ما إذا كان الحقل الذي تم إنشاؤه/تعديله يستخدم مجموعة خطوط أم لا (إذا تم تعيينه). |
-| [Value](../../aspose.pdf.plugins/formfieldoptions/value/) { get; set; } | يحصل/يحدد القيمة لتحديد خاصية Value للحقل الذي تم إنشاؤه/تعديله (إذا تم تعيينه). |
+| [AlternateName](../../aspose.pdf.plugins/formfieldoptions/alternatename/) { get; set; } | يحصل/يضبط القيمة لتحديد الخاصية AlternateName للحقل المُنشأ/المعدَّل (إذا سيتم تعيينها). |
+| [Color](../../aspose.pdf.plugins/formfieldoptions/color/) { get; set; } | الحصول/التعيين للقيمة لتحديد الخاصية Color للحقل المُنشأ/المعدل (إذا سيتم تعيينها). |
+| [Contents](../../aspose.pdf.plugins/formfieldoptions/contents/) { get; set; } | الحصول/التعيين للقيمة لتحديد الخاصية Contents للحقل المُنشأ/المعدل (إذا سيتم تعيينها). |
+| [DefaultAppearance](../../aspose.pdf.plugins/formfieldoptions/defaultappearance/) { get; set; } | الحصول/التعيين للقيمة لتحديد الخاصية DefaultAppearance للحقل المُنشأ/المعدل (إذا سيتم تعيينها). |
+| [Editable](../../aspose.pdf.plugins/formcomboboxfieldcreateoptions/editable/) { get; set; } | يحصل/يضبط القيمة لتحديد ما إذا كان ComboBoxField المُنشأ قابلًا للتحرير أم لا (إذا تم ضبطه). |
+| [Exportable](../../aspose.pdf.plugins/formfieldoptions/exportable/) { get; set; } | الحصول/التعيين للقيمة لتحديد ما إذا كان الحقل المُنشأ/المعدل قابلًا للتصدير أم لا (إذا سيتم تعيينها). |
+| [FitIntoRectangle](../../aspose.pdf.plugins/formfieldoptions/fitintorectangle/) { get; set; } | الحصول/التعيين للقيمة لتحديد ما إذا كان الحقل المُنشأ/المعدل يتناسب مع المستطيل أم لا (إذا سيتم تعيينها). |
+| [Flags](../../aspose.pdf.plugins/formfieldoptions/flags/) { get; set; } | الحصول/التعيين للقيمة لتحديد الخاصية Flags للحقل المُنشأ/المعدل (إذا سيتم تعيينها). |
+| [IsSharedField](../../aspose.pdf.plugins/formfieldoptions/issharedfield/) { get; set; } | الحصول/التعيين للقيمة لتحديد ما إذا كان الحقل المُنشأ/المعدل حقلًا مشتركًا أم لا (إذا سيتم تعيينها). |
+| [MappingName](../../aspose.pdf.plugins/formfieldoptions/mappingname/) { get; set; } | الحصول/التعيين للقيمة لتحديد الخاصية MappingName للحقل المُنشأ/المعدل (إذا سيتم تعيينها). |
+| [MaxFontSize](../../aspose.pdf.plugins/formfieldoptions/maxfontsize/) { get; set; } | الحصول/التعيين للقيمة لتحديد الخاصية MaxFontSize للحقل المُنشأ/المعدل (إذا سيتم تعيينها). |
+| [MinFontSize](../../aspose.pdf.plugins/formfieldoptions/minfontsize/) { get; set; } | الحصول/التعيين للقيمة لتحديد الخاصية MinFontSize للحقل المُنشأ/المعدل (إذا سيتم تعيينها). |
+| [Name](../../aspose.pdf.plugins/formfieldoptions/name/) { get; set; } | الحصول/التعيين للقيمة لتحديد الخاصية Name للحقل المُنشأ/المعدل (إذا سيتم تعيينها). |
+| [Options](../../aspose.pdf.plugins/formcomboboxfieldcreateoptions/options/) { get; set; } | يحصل/يضبط القيمة لتحديد خاصية Options للـ ComboBoxField المُنشأ (إذا تم ضبطها). |
+| [PartialName](../../aspose.pdf.plugins/formfieldoptions/partialname/) { get; set; } | الحصول/التعيين للقيمة لتحديد الخاصية PartialName للحقل المُنشأ/المعدل (إذا سيتم تعيينها). |
+| [ReadOnly](../../aspose.pdf.plugins/formfieldoptions/readonly/) { get; set; } | الحصول/التعيين للقيمة لتحديد ما إذا كان الحقل المُنشأ/المعدل للقراءة فقط أم لا (إذا سيتم تعيينها). |
+| [Required](../../aspose.pdf.plugins/formfieldoptions/required/) { get; set; } | الحصول/التعيين للقيمة لتحديد ما إذا كان الحقل المُنشأ/المعدل مطلوبًا أم لا (إذا سيتم تعيينها). |
+| [Selected](../../aspose.pdf.plugins/formcomboboxfieldcreateoptions/selected/) { get; set; } | يحصل/يضبط القيمة لتحديد خاصية Selected للـ ComboBoxField المُنشأ (إذا تم ضبطها). |
+| [TextHorizontalAlignment](../../aspose.pdf.plugins/formfieldoptions/texthorizontalalignment/) { get; set; } | الحصول/التعيين للقيمة لتحديد الخاصية TextHorizontalAlignment للحقل المُنشأ/المعدل (إذا سيتم تعيينها). |
+| [UpdateAppearanceOnConvert](../../aspose.pdf.plugins/formfieldoptions/updateappearanceonconvert/) { get; set; } | الحصول/التعيين للقيمة لتحديد ما إذا كان الحقل المُنشأ/المعدل يُحدّث المظهر عند التحويل أم لا (إذا سيتم تعيينها). |
+| [UseFontSubset](../../aspose.pdf.plugins/formfieldoptions/usefontsubset/) { get; set; } | الحصول/التعيين للقيمة لتحديد ما إذا كان الحقل المُنشأ/المعدل يستخدم مجموعة فرعية من الخطوط أم لا (إذا سيتم تعيينها). |
+| [Value](../../aspose.pdf.plugins/formfieldoptions/value/) { get; set; } | الحصول/التعيين للقيمة لتحديد الخاصية Value للحقل المُنشأ/المعدل (إذا سيتم تعيينها). |
 
 ## الحقول
 
 | الاسم | الوصف |
 | --- | --- |
-| [Highlighting](../../aspose.pdf.plugins/formfieldoptions/highlighting/) | يحصل/يحدد القيمة لتحديد خاصية Highlighting للحقل الذي تم إنشاؤه/تعديله (إذا تم تعيينه). |
+| [Highlighting](../../aspose.pdf.plugins/formfieldoptions/highlighting/) | الحصول/التعيين للقيمة لتحديد الخاصية Highlighting للحقل المُنشأ/المعدل (إذا سيتم تعيينها). |
 
 ### انظر أيضًا
 
-* فئة [FormFieldCreateOptions](../formfieldcreateoptions/)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../)
+* class [FormFieldCreateOptions](../formfieldcreateoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

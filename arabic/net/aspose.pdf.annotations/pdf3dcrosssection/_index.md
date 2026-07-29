@@ -1,37 +1,39 @@
 ---
-title: Class PDF3DCrossSection
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.PDF3DCrossSection. فئة PDF3DCrossSection
+title: "فئة PDF3DCrossSection"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Annotations.PDF3DCrossSection. فئة PDF3DCrossSection"
 type: docs
-weight: 2180
+weight: 2270
 url: /ar/net/aspose.pdf.annotations/pdf3dcrosssection/
 ---
 ## PDF3DCrossSection class
 
-Class PDF3DCrossSection.
+فئة PDF3DCrossSection.
 
 ```csharp
 public class PDF3DCrossSection
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [PDF3DCrossSection](pdf3dcrosssection/)(Document) | Initializes a new instance of the `PDF3DCrossSection` class. |
+| [PDF3DCrossSection](pdf3dcrosssection/)(Document) | يُنشئ مثيلًا جديدًا للفئة `PDF3DCrossSection`. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Center](../../aspose.pdf.annotations/pdf3dcrosssection/center/) { get; set; } | يحصل أو يحدد مركز دوران المقطع العرضي. |
-| [CuttingPlaneColor](../../aspose.pdf.annotations/pdf3dcrosssection/cuttingplanecolor/) { get; set; } | يحصل أو يحدد لون مستوى القطع. |
-| [CuttingPlaneOpacity](../../aspose.pdf.annotations/pdf3dcrosssection/cuttingplaneopacity/) { get; set; } | يحصل أو يحدد شفافية مستوى القطع. |
-| [CuttingPlaneOrientation](../../aspose.pdf.annotations/pdf3dcrosssection/cuttingplaneorientation/) { get; set; } | يحصل أو يحدد اتجاه مستوى القطع. |
-| [CuttingPlanesIntersectionColor](../../aspose.pdf.annotations/pdf3dcrosssection/cuttingplanesintersectioncolor/) { get; set; } | يحصل أو يحدد لون تقاطع مستويات القطع. |
-| [Visibility](../../aspose.pdf.annotations/pdf3dcrosssection/visibility/) { get; set; } | يحصل أو يحدد قيمة تشير إلى رؤية تقاطع مستويات القطع. |
+| [Center](../../aspose.pdf.annotations/pdf3dcrosssection/center/) { get; set; } | يحصل أو يعيّن مركز دوران المقطع العرضي. |
+| [CuttingPlaneColor](../../aspose.pdf.annotations/pdf3dcrosssection/cuttingplanecolor/) { get; set; } | يحصل أو يعيّن لون سطح القطع. |
+| [CuttingPlaneOpacity](../../aspose.pdf.annotations/pdf3dcrosssection/cuttingplaneopacity/) { get; set; } | يحصل أو يعيّن شفافية سطح القطع. |
+| [CuttingPlaneOrientation](../../aspose.pdf.annotations/pdf3dcrosssection/cuttingplaneorientation/) { get; set; } | يحصل أو يعيّن توجيه سطح القطع. |
+| [CuttingPlanesIntersectionColor](../../aspose.pdf.annotations/pdf3dcrosssection/cuttingplanesintersectioncolor/) { get; set; } | يحصل أو يعيّن لون تقاطع أسطح القطع. |
+| [Visibility](../../aspose.pdf.annotations/pdf3dcrosssection/visibility/) { get; set; } | يحصل أو يعيّن قيمة تشير إلى رؤية تقاطع أسطح القطع. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

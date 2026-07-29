@@ -1,7 +1,7 @@
 ---
-title: PageCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PageCollection. احذف الصفحة المحددة
+title: "PageCollection.Delete"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PageCollection. حذف الصفحة المحددة"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf/pagecollection/delete/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.pdf/pagecollection/delete/
 public void Delete(int index)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | رقم الصفحة التي سيتم حذفها. تبدأ أرقام الصفحات من 1. |
+| index | Int32 | عدد الصفحة التي سيتم حذفها. أرقام الصفحات تبدأ من 1. |
 
-### See Also
+### انظر أيضًا
 
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -34,7 +34,7 @@ public void Delete(int index)
 public void Delete()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -50,12 +50,14 @@ public void Delete()
 public void Delete(int[] pages)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pages | Int32[] | مصفوفة الصفحات التي سيتم حذفها. |
+| صفحات | Int32[] | مصفوفة من الصفحات التي سيتم حذفها. |
 
-### See Also
+### انظر أيضًا
 
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ThreadModifyRequest.ThreadModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ThreadModifyRequest. المُنشئ الافتراضي
+title: "ThreadModifyRequest.ThreadModifyRequest"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ThreadModifyRequest. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/threadmodifyrequest/threadmodifyrequest/
 ---
-## مُنشئ ThreadModifyRequest
+## ThreadModifyRequest constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public ThreadModifyRequest()
@@ -19,3 +19,5 @@ public ThreadModifyRequest()
 * class [ThreadModifyRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CheckboxField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CheckboxField. تحصل أو تعين قيمة حقل مربع الاختيار
+title: "CheckboxField.Value"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CheckboxField. تحصل أو تعيين قيمة حقل خانة الاختيار"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.forms/checkboxfield/value/
 ---
-## خاصية CheckboxField.Value
+## CheckboxField.Value property
 
-تحصل أو تعين قيمة حقل مربع الاختيار.
+يحصل أو يحدد قيمة حقل خانة الاختيار.
 
 ```csharp
 public override string Value { get; set; }
@@ -16,7 +16,7 @@ public override string Value { get; set; }
 
 ## أمثلة
 
-المثال يوضح كيفية الحصول على قيمة مربع اختيار متعدد القيم وتعيينها.
+يوضح المثال كيفية الحصول على قيمة وتعيينها لخانة اختيار متعددة القيم.
 
 ```csharp
 using (Document doc = new Document("example.pdf"))
@@ -24,18 +24,18 @@ using (Document doc = new Document("example.pdf"))
 Form form = doc.Form;
 CheckboxField checkbox = form.Fields[0] as CheckboxField;
 
-// Allowed values may be retrieved from the AllowedStates collection
-// Set the checkbox value using Value property
+// يمكن استرجاع القيم المسموح بها من مجموعة AllowedStates
+// قم بتعيين قيمة خانة الاختيار باستخدام خاصية Value
 checkbox.Value = checkbox.AllowedStates[0];
 checkboxValue = checkbox.Value; // the previously set value, e.g. "option 1"
 
-// The value should be any element of AllowedStates
+// يجب أن تكون القيمة أي عنصر من AllowedStates
 checkbox.Value = "option 2";
 checkboxValue = checkbox.Value; // option 2
 
-// Uncheck boxes by either setting Value to "Off" or setting Checked to false
+// إلغاء تحديد الصناديق إما بتعيين Value إلى "Off" أو تعيين Checked إلى false
 checkbox.Value = "Off";
-// or, alternately:
+// أو، بدلاً من ذلك:
 // checkbox.Checked = false;
 checkboxValue = checkbox.Value; // Off
 }
@@ -46,3 +46,5 @@ checkboxValue = checkbox.Value; // Off
 * class [CheckboxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

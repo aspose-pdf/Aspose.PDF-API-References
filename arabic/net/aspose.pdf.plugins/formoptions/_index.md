@@ -1,14 +1,14 @@
 ---
-title: Class FormOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.FormOptions. تمثل خيارات لعائلة Form.... الإضافات
+title: "فئة FormOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Plugins.FormOptions. يمثل خيارات لعائلة Form.... ملحقات"
 type: docs
-weight: 8770
+weight: 8900
 url: /ar/net/aspose.pdf.plugins/formoptions/
 ---
-## فئة FormOptions
+## FormOptions class
 
-تمثل خيارات لعائلة Form.... الإضافات.
+يمثل خيارات لعائلة Form.... المكوّنات الإضافية.
 
 ```csharp
 public abstract class FormOptions : IPluginOptions
@@ -18,18 +18,20 @@ public abstract class FormOptions : IPluginOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | تعيد مجموعة بيانات الإضافات Form.... |
-| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | تحصل على مجموعة من الأهداف المضافة لنتائج عملية الحفظ. |
+| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | يرجع مجموعة بيانات مكوّن Form.... |
+| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | يحصل على مجموعة الأهداف المضافة لحفظ نتائج العملية. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات الإضافات Form... |
-| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات الإضافات Form... |
+| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات مكوّن Form.... |
+| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات مكوّن Form.... |
 
 ### انظر أيضًا
 
-* الواجهة [IPluginOptions](../ipluginoptions/)
-* مساحة الاسم [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../)
+* interface [IPluginOptions](../ipluginoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextFragment.Text
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragment. تحصل أو تعين كائن نص من نوع String الذي تمثله كائن TextFragment
+title: "TextFragment.Text"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragment. يحصل على أو يعيّن كائن نص من نوع String الذي يمثله كائن TextFragment"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.text/textfragment/text/
 ---
-## خاصية TextFragment.Text
+## TextFragment.Text property
 
-تحصل أو تعين كائن نص من نوع String الذي يمثله كائن [`TextFragment`](../).
+يحصل على أو يعيّن كائن نص من نوع String الذي يمثله كائن [`TextFragment`](../).
 
 ```csharp
 public string Text { get; set; }
@@ -16,22 +16,22 @@ public string Text { get; set; }
 
 ## أمثلة
 
-توضح المثال كيفية البحث عن نص واستبدال أول ظهور ممثل بكائن [`TextFragment`](../).
+يوضح المثال كيفية البحث عن نص واستبدال أول ظهور ممثل بكائن [`TextFragment`](../).
 
 ```csharp
-// Open document
+// فتح المستند
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// إنشاء كائن TextFragmentAbsorber للعثور على جميع تكرارات النص "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// قبول الماص للصفحة الأولى
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurrence
+// تغيير خط أول ظهور للنص
 absorber.TextFragments[1].Text = "hi world";
 
-// Save document
+// حفظ المستند
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
@@ -42,3 +42,5 @@ doc.Save(@"D:\Tests\output.pdf");
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

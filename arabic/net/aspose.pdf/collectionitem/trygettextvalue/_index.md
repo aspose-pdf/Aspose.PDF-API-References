@@ -1,12 +1,12 @@
 ---
-title: CollectionItem.TryGetTextValue
-second_title: Aspose.PDF for .NET API Reference
-description: CollectionItem method.
+title: "CollectionItem.TryGetTextValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة CollectionItem."
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/collectionitem/trygettextvalue/
 ---
-## طريقة CollectionItem.TryGetTextValue
+## CollectionItem.TryGetTextValue method
 
 ```csharp
 public bool TryGetTextValue(string name, out Value<string> value)
@@ -18,3 +18,5 @@ public bool TryGetTextValue(string name, out Value<string> value)
 * class [CollectionItem](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

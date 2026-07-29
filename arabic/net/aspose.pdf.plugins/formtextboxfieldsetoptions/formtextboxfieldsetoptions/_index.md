@@ -1,14 +1,14 @@
 ---
-title: FormTextBoxFieldSetOptions.FormTextBoxFieldSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FormTextBoxFieldSetOptions. المُنشئ الافتراضي
+title: "FormTextBoxFieldSetOptions.FormTextBoxFieldSetOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FormTextBoxFieldSetOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/formtextboxfieldsetoptions/formtextboxfieldsetoptions/
 ---
-## مُنشئ FormTextBoxFieldSetOptions
+## FormTextBoxFieldSetOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public FormTextBoxFieldSetOptions()
@@ -19,3 +19,5 @@ public FormTextBoxFieldSetOptions()
 * class [FormTextBoxFieldSetOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

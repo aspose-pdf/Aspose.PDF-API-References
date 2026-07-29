@@ -1,23 +1,23 @@
 ---
-title: Paragraphs.GetRange
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الفقرات. إزالة نطاق الفقرات
+title: "Paragraphs.GetRange"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Paragraphs. إزالة نطاق الفقرات"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/paragraphs/getrange/
 ---
-## طريقة الفقرات.GetRange
+## Paragraphs.GetRange method
 
-إزالة نطاق الفقرات.
+أزل نطاق الفقرات.
 
 ```csharp
 public Paragraphs GetRange(int index, int count)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | index | Int32 | فهرس الفقرة الأولى. |
-| count | Int32 | عدد الفقرات. |
+| عدد | Int32 | عدد الفقرات. |
 
 ### قيمة الإرجاع
 
@@ -28,3 +28,5 @@ public Paragraphs GetRange(int index, int count)
 * class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

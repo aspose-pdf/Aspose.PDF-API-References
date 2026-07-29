@@ -1,14 +1,14 @@
 ---
-title: Form.DefaultResources
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية النموذج. تحصل على الموارد الافتراضية الموضوعة على هذا النموذج
+title: "Form.DefaultResources"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Form. يحصل على الموارد الافتراضية الموضوعة على هذا النموذج."
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.forms/form/defaultresources/
 ---
-## خاصية Form.DefaultResources
+## Form.DefaultResources property
 
-تحصل على الموارد الافتراضية الموضوعة على هذا النموذج.
+يحصل على الموارد الافتراضية الموجودة في هذا النموذج.
 
 ```csharp
 public Resources DefaultResources { get; }
@@ -20,3 +20,5 @@ public Resources DefaultResources { get; }
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

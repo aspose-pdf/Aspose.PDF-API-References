@@ -1,14 +1,14 @@
 ---
-title: LineInfo.BorderStyle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LineInfo. تحصل أو تعين نمط الحدود لخط، 0 يمثل صلب، 1 يمثل متقطع، 2 يمثل مائل، 3 يمثل إدراج، 4 يمثل خط تحت.
+title: "LineInfo.BorderStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LineInfo. يحصل على نمط حدود الخط أو يضبطه 0 يمثل صلبًا 1 يمثل متقطعًا 2 يمثل مقوَّسًا 3 يمثل مدخلًا 4 يمثل تحتيًا"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.facades/lineinfo/borderstyle/
 ---
-## خاصية LineInfo.BorderStyle
+## LineInfo.BorderStyle property
 
-تحصل أو تعين نمط الحدود لخط، 0 يمثل صلب، 1 يمثل متقطع، 2 يمثل مائل، 3 يمثل إدراج، 4 يمثل خط تحت.
+يحصل أو يعيّن نمط حد الخط، 0 يمثل صلبًا، 1 يمثل متقطعًا، 2 يمثل محدبًا، 3 يمثل مدخلًا، 4 يمثل تحت الخط.
 
 ```csharp
 public int BorderStyle { get; set; }
@@ -19,3 +19,5 @@ public int BorderStyle { get; set; }
 * class [LineInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

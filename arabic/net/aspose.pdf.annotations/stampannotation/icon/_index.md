@@ -1,14 +1,14 @@
 ---
-title: StampAnnotation.Icon
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StampAnnotation. يحصل أو يحدد الرمز لختم المطاط
+title: "StampAnnotation.Icon"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StampAnnotation. تحصل أو تعيين أيقونة للختام المطاطي"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/stampannotation/icon/
 ---
-## خاصية StampAnnotation.Icon
+## StampAnnotation.Icon property
 
-يحصل أو يحدد الرمز لختم المطاط.
+يحصل أو يعيّن الأيقونة للختم المطاطي.
 
 ```csharp
 public StampIcon Icon { get; set; }
@@ -20,3 +20,5 @@ public StampIcon Icon { get; set; }
 * class [StampAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

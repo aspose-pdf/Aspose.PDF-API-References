@@ -1,47 +1,49 @@
 ---
-title: Class SetCharWidthBoundingBox
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.SetCharWidthBoundingBox. فئة تمثل مشغل d1 لتعيين الشكل وحدود الصندوق
+title: "الفئة SetCharWidthBoundingBox"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Operators.SetCharWidthBoundingBox. فئة تمثل عامل d1 لتعيين الرمز ومربع الحد."
 type: docs
-weight: 7610
+weight: 7750
 url: /ar/net/aspose.pdf.operators/setcharwidthboundingbox/
 ---
 ## SetCharWidthBoundingBox class
 
-فئة تمثل مشغل d1 (تعيين الشكل وحدود الصندوق).
+الفئة التي تمثل المشغل d1 (تعيين الحرف ومربع الحد).
 
 ```csharp
 public class SetCharWidthBoundingBox : Operator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [SetCharWidthBoundingBox](setcharwidthboundingbox/)(double, double, double, double, double, double) | Initializes SetCharWidthBoundingBox operator. |
+| [SetCharWidthBoundingBox](setcharwidthboundingbox/)(double, double, double, double, double, double) | يُهيئ عامل SetCharWidthBoundingBox. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
-| [Llx](../../aspose.pdf.operators/setcharwidthboundingbox/llx/) { get; } | الإحداثي الأفقي السفلي الأيسر لمستطيل الحدود. |
-| [Lly](../../aspose.pdf.operators/setcharwidthboundingbox/lly/) { get; } | الإحداثي العمودي السفلي الأيسر لمستطيل الحدود. |
-| [Urx](../../aspose.pdf.operators/setcharwidthboundingbox/urx/) { get; } | الإحداثي الأفقي العلوي الأيمن لمستطيل الحدود. |
-| [Ury](../../aspose.pdf.operators/setcharwidthboundingbox/ury/) { get; } | الإحداثي العمودي العلوي الأيمن لمستطيل الحدود. |
-| [Wx](../../aspose.pdf.operators/setcharwidthboundingbox/wx/) { get; } | الإزاحة الأفقية للشكل. |
-| [Wy](../../aspose.pdf.operators/setcharwidthboundingbox/wy/) { get; } | الإزاحة العمودية للشكل. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
+| [Llx](../../aspose.pdf.operators/setcharwidthboundingbox/llx/) { get; } | الإحداثي الأفقي للزاوية السفلية اليسرى لمستطيل الحد. |
+| [Lly](../../aspose.pdf.operators/setcharwidthboundingbox/lly/) { get; } | الإحداثي العمودي للزاوية السفلية اليسرى لمستطيل الحد. |
+| [Urx](../../aspose.pdf.operators/setcharwidthboundingbox/urx/) { get; } | الإحداثي الأفقي للزاوية العلوية اليمنى لمستطيل الحد. |
+| [Ury](../../aspose.pdf.operators/setcharwidthboundingbox/ury/) { get; } | الإحداثي العمودي للزاوية العلوية اليمنى لمستطيل الحد. |
+| [Wx](../../aspose.pdf.operators/setcharwidthboundingbox/wx/) { get; } | الإزاحة الأفقية للرمز. |
+| [Wy](../../aspose.pdf.operators/setcharwidthboundingbox/wy/) { get; } | الإزاحة العمودية للرمز. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcharwidthboundingbox/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf.operators/setcharwidthboundingbox/tostring/)() | يعيد تمثيل نصي للمشغل. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/setcharwidthboundingbox/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf.operators/setcharwidthboundingbox/tostring/)() | يرجع تمثيل النص للمشغّل. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

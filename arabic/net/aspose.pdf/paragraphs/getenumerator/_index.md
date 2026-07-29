@@ -1,14 +1,14 @@
 ---
-title: Paragraphs.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الفقرات. يحصل على العداد
+title: "Paragraphs.GetEnumerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Paragraphs. الحصول على المكرّر"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/paragraphs/getenumerator/
 ---
-## طريقة Paragraphs.GetEnumerator
+## Paragraphs.GetEnumerator method
 
-يحصل على العداد.
+يحصل على المُعدِّد.
 
 ```csharp
 public IEnumerator<BaseParagraph> GetEnumerator()
@@ -16,7 +16,7 @@ public IEnumerator<BaseParagraph> GetEnumerator()
 
 ### قيمة الإرجاع
 
-كائن العداد.
+Enumerator object.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public IEnumerator<BaseParagraph> GetEnumerator()
 * class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

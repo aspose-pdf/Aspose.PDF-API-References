@@ -1,14 +1,14 @@
 ---
-title: ShowText.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ShowText. تنتج كود نصي للمشغل
+title: "ShowText.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ShowText. تنتج شفرة النص للمشغل"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.operators/showtext/tostring/
 ---
-## طريقة ShowText.ToString
+## ShowText.ToString method
 
-تنتج كود نصي للمشغل.
+ينتج رمز النص للمشغّل.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-تمثيل نصي للمشغل.
+تمثيل النص للعامل.
 
 ### انظر أيضًا
 
 * class [ShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

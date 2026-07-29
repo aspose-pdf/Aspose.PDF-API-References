@@ -1,29 +1,31 @@
 ---
-title: CollectionItem.HasName
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة CollectionItem. تتحقق مما إذا كان الاسم المعطى موجودًا في عنصر المجموعة
+title: "CollectionItem.HasName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة CollectionItem. تتحقق مما إذا كان الاسم المعطى موجودًا في عنصر المجموعة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/collectionitem/hasname/
 ---
-## طريقة CollectionItem.HasName
+## CollectionItem.HasName method
 
-تتحقق مما إذا كان الاسم المعطى موجودًا في عنصر المجموعة.
+يتحقق مما إذا كان الاسم المعطى موجودًا في عنصر المجموعة.
 
 ```csharp
 public bool HasName(string name)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| name | String | الاسم الذي سيتم التحقق منه. |
+| الاسم | String | الاسم للتحقق منه. |
 
 ### قيمة الإرجاع
 
-صحيح إذا كان الاسم موجودًا في عنصر المجموعة، وإلا فهو خطأ.
+صحيح إذا كان الاسم موجودًا في عنصر المجموعة، وإلا خطأ.
 
 ### انظر أيضًا
 
 * class [CollectionItem](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

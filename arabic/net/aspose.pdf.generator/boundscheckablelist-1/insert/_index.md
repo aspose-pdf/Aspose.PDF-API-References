@@ -1,32 +1,34 @@
 ---
-title: BoundsCheckableList1.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة BoundsCheckableList. تُدرج عنصرًا في System.Collections.Generic.List عند الفهرس المحدد
+title: "BoundsCheckableList1.Insert"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة BoundsCheckableList. تُدرج عنصرًا في System.Collections.Generic.List عند الفهرس المحدد."
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.generator/boundscheckablelist-1/insert/
 ---
 ## BoundsCheckableList&lt;T&gt;.Insert method
 
-تُدرج عنصرًا في System.Collections.Generic.List عند الفهرس المحدد.
+يدرج عنصرًا في System.Collections.Generic.List عند الفهرس المحدد.
 
 ```csharp
 public void Insert(int index, T item)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | الفهرس الذي يبدأ من الصفر والذي يجب إدراج العنصر فيه. |
-| item | T | الكائن الذي سيتم إدراجه. يمكن أن تكون القيمة null لأنواع المرجع. |
+| index | Int32 | الفهرس الصفري الذي يجب إدراج العنصر عنده. |
+| item | T | الكائن المراد إدراجه. يمكن أن تكون القيمة `null` لأنواع المراجع. |
 
-### Exceptions
+### الاستثناءات
 
-| exception | condition |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentOutOfRangeException | *index* أقل من 0. -أو- *index* أكبر من Count. |
+| ArgumentOutOfRangeException | *index* أصغر من 0. -أو- *index* أكبر من Count. |
 
-### See Also
+### انظر أيضًا
 
 * class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../../)
+
+

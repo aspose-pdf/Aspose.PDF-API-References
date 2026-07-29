@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.MarginInfo.BottomMarginIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: حقل MarginInfo. يمثل الهامش السفلي للصفحة إذا كان موجودًا
+title: "SaveOptions.MarginInfo.BottomMarginIfAny"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل MarginInfo. يمثل الهامش السفلي للصفحة إذا كان موجودًا"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/saveoptions.margininfo/bottommarginifany/
 ---
-## حقل SaveOptions.MarginInfo.BottomMarginIfAny
+## SaveOptions.MarginInfo.BottomMarginIfAny field
 
-يمثل الهامش السفلي للصفحة (إذا كان موجودًا)
+يمثّل هامش الصفحة السفلي (إن وجد)
 
 ```csharp
 public MarginPartStyle BottomMarginIfAny;
@@ -20,3 +20,5 @@ public MarginPartStyle BottomMarginIfAny;
 * class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

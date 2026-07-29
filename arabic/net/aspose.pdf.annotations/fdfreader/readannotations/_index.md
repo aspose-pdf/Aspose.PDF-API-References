@@ -1,7 +1,7 @@
 ---
-title: FdfReader.ReadAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FdfReader. استيراد التعليقات التوضيحية من ملف FDF ووضعها في المستند
+title: "FdfReader.ReadAnnotations"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FdfReader طريقة. استيراد التعليقات التوضيحية من ملف FDF ووضعها في المستند"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/fdfreader/readannotations/
@@ -14,14 +14,16 @@ url: /ar/net/aspose.pdf.annotations/fdfreader/readannotations/
 public static void ReadAnnotations(Stream stream, Document document)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | تدفق المصدر الذي يحتوي على ملف FDF. |
-| document | Document | المستند الذي ستضاف إليه التعليقات التوضيحية. |
+| stream | Stream | دفق المصدر الذي يحتوي على ملف FDF. |
+| document | Document | المستند الذي ستُضاف إليه التعليقات التوضيحية. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [FdfReader](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

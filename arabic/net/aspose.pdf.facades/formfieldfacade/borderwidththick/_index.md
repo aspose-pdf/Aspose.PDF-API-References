@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.BorderWidthThick
-second_title: Aspose.PDF for .NET API Reference
-description: حقل FormFieldFacade. يحدد عرض الحدود السميكة
+title: "FormFieldFacade.BorderWidthThick"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FormFieldFacade field. يحدد عرض حد سميك"
 type: docs
 weight: 360
 url: /ar/net/aspose.pdf.facades/formfieldfacade/borderwidththick/
 ---
-## حقل FormFieldFacade.BorderWidthThick
+## FormFieldFacade.BorderWidthThick field
 
-يحدد عرض الحدود السميكة.
+يحدد عرض حد سميك.
 
 ```csharp
 public const float BorderWidthThick;
@@ -19,3 +19,5 @@ public const float BorderWidthThick;
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SetAdvancedColor.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة SetAdvancedColor. تعيد اللون المحدد بواسطة المشغل
+title: "SetAdvancedColor.getColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة SetAdvancedColor. تُرجع اللون المحدد بواسطة المشغل"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.operators/setadvancedcolor/getcolor/
 ---
-## طريقة SetAdvancedColor.getColor
+## SetAdvancedColor.getColor method
 
-تعيد اللون المحدد بواسطة المشغل.
+يرجع اللون المحدد بواسطة المعامل.
 
 ```csharp
 public override Color getColor()
@@ -23,3 +23,5 @@ public override Color getColor()
 * class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

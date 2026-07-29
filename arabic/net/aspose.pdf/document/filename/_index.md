@@ -1,14 +1,14 @@
 ---
-title: Document.FileName
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. اسم ملف PDF الذي تسبب في هذه الوثيقة
+title: "Document.FileName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. اسم ملف PDF الذي تسبب في هذا المستند"
 type: docs
-weight: 180
+weight: 200
 url: /ar/net/aspose.pdf/document/filename/
 ---
-## خاصية Document.FileName
+## Document.FileName property
 
-اسم ملف PDF الذي تسبب في هذه الوثيقة
+اسم ملف PDF الذي تسبب في هذا المستند
 
 ```csharp
 public string FileName { get; }
@@ -19,3 +19,5 @@ public string FileName { get; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

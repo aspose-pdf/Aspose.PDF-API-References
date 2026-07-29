@@ -1,14 +1,14 @@
 ---
-title: RadioButtonField.Selected
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RadioButtonField. تحصل أو تعين فهرس العنصر المحدد. يبدأ ترقيم العناصر من 1
+title: "RadioButtonField.Selected"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RadioButtonField. يحصل أو يعيّن فهرس العنصر المحدد. يبدأ ترقيم العناصر من 1."
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.forms/radiobuttonfield/selected/
 ---
-## خاصية RadioButtonField.Selected
+## RadioButtonField.Selected property
 
-تحصل أو تعين فهرس العنصر المحدد. يبدأ ترقيم العناصر من 1.
+يحصل أو يعيّن فهرس العنصر المحدد. يبدأ ترقيم العناصر من 1.
 
 ```csharp
 public override int Selected { get; set; }
@@ -19,3 +19,5 @@ public override int Selected { get; set; }
 * class [RadioButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

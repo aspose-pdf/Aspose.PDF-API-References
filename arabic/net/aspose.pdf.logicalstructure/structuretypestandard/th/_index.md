@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.TH
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeStandard. خلية رأس الجدول خلية جدول تحتوي على نص رأس يصف صفًا أو أكثر أو أعمدة الجدول
+title: "StructureTypeStandard.TH"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "StructureTypeStandard field. خلية رأس جدول خلية جدول تحتوي على نص رأس يصف صفًا أو أكثر أو أعمدة الجدول."
 type: docs
 weight: 420
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/th/
 ---
-## حقل StructureTypeStandard.TH
+## StructureTypeStandard.TH field
 
-(خلية رأس الجدول) خلية جدول تحتوي على نص رأس يصف صفًا أو أكثر أو أعمدة الجدول.
+(خلية رأس جدول) خلية جدول تحتوي على نص رأس يصف صفاً أو أكثر أو عموداً أو أكثر من الجدول.
 
 ```csharp
 public static readonly StructureTypeStandard TH;
@@ -19,3 +19,5 @@ public static readonly StructureTypeStandard TH;
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

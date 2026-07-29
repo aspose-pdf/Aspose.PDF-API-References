@@ -1,34 +1,36 @@
 ---
-title: Class AbsorbedRow
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Text.AbsorbedRow. تمثل صفًا من الجدول الموجود على الصفحة
+title: "الفئة AbsorbedRow"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Text.AbsorbedRow. تمثل صفًا من الجدول الموجود على الصفحة."
 type: docs
-weight: 10420
+weight: 10600
 url: /ar/net/aspose.pdf.text/absorbedrow/
 ---
 ## AbsorbedRow class
 
-تمثل صفًا من الجدول الموجود على الصفحة
+يمثل صف جدول موجود في الصفحة.
 
 ```csharp
 public class AbsorbedRow : IComparable<AbsorbedRow>, ITableElement
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [CellList](../../aspose.pdf.text/absorbedrow/celllist/) { get; } | يحصل على IList للقراءة فقط تحتوي على خلايا الصف |
-| [Rectangle](../../aspose.pdf.text/absorbedrow/rectangle/) { get; } | يحصل على مستطيل يصف موقع الصف على الصفحة |
+| [CellList](../../aspose.pdf.text/absorbedrow/celllist/) { get; } | يحصل على IList للقراءة فقط يحتوي على خلايا الصف |
+| [Rectangle](../../aspose.pdf.text/absorbedrow/rectangle/) { get; } | يحصل على المستطيل الذي يصف موضع الصف على الصفحة |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [CompareTo](../../aspose.pdf.text/absorbedrow/compareto/)(AbsorbedRow) | يقارن كائن AbsorbedRow الحالي مع كائن AbsorbedRow آخر ويعيد عددًا صحيحًا يشير إلى ما إذا كان الكائن الحالي يسبق أو يتبع أو يحدث في نفس الموضع في ترتيب الفرز مثل الكائن الآخر. |
+| [CompareTo](../../aspose.pdf.text/absorbedrow/compareto/)(AbsorbedRow) | يقارن كائن AbsorbedRow الحالي بكائن AbsorbedRow آخر ويعيد عددًا صحيحًا يوضح ما إذا كان الكائن الحالي يسبق أو يتبع أو يقع في نفس الموضع في ترتيب الفرز مقارنةً بالكائن الآخر. |
 
-### See Also
+### انظر أيضًا
 
 * interface [ITableElement](../itableelement/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

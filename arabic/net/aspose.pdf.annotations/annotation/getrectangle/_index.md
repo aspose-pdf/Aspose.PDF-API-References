@@ -1,26 +1,26 @@
 ---
-title: Annotation.GetRectangle
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة التعليق. تعيد مستطيل التعليق مع الأخذ في الاعتبار دوران الصفحة
+title: "Annotation.GetRectangle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Annotation. تُعيد مستطيل التعليق مع أخذ دوران الصفحة في الاعتبار"
 type: docs
 weight: 220
 url: /ar/net/aspose.pdf.annotations/annotation/getrectangle/
 ---
-## طريقة Annotation.GetRectangle
+## Annotation.GetRectangle method
 
-تعيد مستطيل التعليق مع الأخذ في الاعتبار دوران الصفحة.
+يعيد مستطيل التعليق مع مراعاة دوران الصفحة.
 
 ```csharp
 public Rectangle GetRectangle(bool considerRotation)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| considerRotation | Boolean | إذا كانت صحيحة، يتم أخذ دوران الصفحة في الاعتبار. |
+| considerRotation | Boolean | إذا كان true، يتم أخذ دوران الصفحة في الاعتبار. |
 
 ### قيمة الإرجاع
 
-صحيح - إذا تم العثور على المستطيل؛ خلاف ذلك، خطأ.
+True - إذا تم العثور على المستطيل؛ وإلا false.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public Rectangle GetRectangle(bool considerRotation)
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

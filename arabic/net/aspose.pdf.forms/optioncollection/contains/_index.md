@@ -1,26 +1,26 @@
 ---
-title: OptionCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OptionCollection. تتحقق مما إذا كان العنصر موجودًا في المجموعة وترمي NotImplementedException
+title: "OptionCollection.Contains"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OptionCollection. تتحقق مما إذا كان العنصر موجودًا في المجموعة وتطرح استثناء NotImplementedException"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.forms/optioncollection/contains/
 ---
-## طريقة OptionCollection.Contains
+## OptionCollection.Contains method
 
-تتحقق مما إذا كان العنصر موجودًا في المجموعة، وترمي NotImplementedException.
+يتحقق مما إذا كان العنصر موجودًا في المجموعة، يرمي NotImplementedException.
 
 ```csharp
 public bool Contains(Option item)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| item | Option | عنصر المشغل للبحث عنه. |
+| item | الخيار | العنصر المشغل للبحث. |
 
 ### قيمة الإرجاع
 
-ترمي NotImplementedException
+تطرح NotImplementedException
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public bool Contains(Option item)
 * class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

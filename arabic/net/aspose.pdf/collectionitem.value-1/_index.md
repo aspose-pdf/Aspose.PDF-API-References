@@ -1,32 +1,34 @@
 ---
-title: Class CollectionItem.ValueT
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.CollectionItemValue1T. تمثل فئة لقيمة عنصر المجموعة
+title: "الفئة CollectionItem.ValueT"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.CollectionItemValue1T. تمثل فئة لقيمة عنصر التجميع"
 type: docs
-weight: 3060
+weight: 3170
 url: /ar/net/aspose.pdf/collectionitem.value-1/
 ---
 ## CollectionItem.Value&lt;T&gt; class
 
-تمثل فئة لقيمة عنصر المجموعة.
+تمثل فئة لقيمة عنصر التجميع.
 
 ```csharp
 public class Value<T>
 ```
 
-| Parameter | Description |
+| معامل | الوصف |
 | --- | --- |
 | T |  |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Data](../../aspose.pdf/collectionitem.value-1/data) { get; } | يحصل على قيمة عنصر المجموعة. |
-| [Prefix](../../aspose.pdf/collectionitem.value-1/prefix) { get; } | يحصل على سلسلة بادئة يجب دمجها مع سلسلة النص المقدمة للمستخدم. يتم تجاهل هذا الإدخال عندما يقوم معالج PDF التفاعلي بفرز العناصر في المجموعة. الافتراضي: لا شيء |
+| [Data](../../aspose.pdf/collectionitem.value-1/data) { get; } | يحصل على قيمة عنصر التجميع. |
+| [Prefix](../../aspose.pdf/collectionitem.value-1/prefix) { get; } | يحصل على سلسلة بادئة سيتم ربطها بسلسلة النص المعروضة للمستخدم. يتم تجاهل هذا الإدخال عندما يقوم معالج PDF التفاعلي بترتيب العناصر في التجميع. الافتراضي: لا شيء |
 
-### See Also
+### انظر أيضًا
 
 * class [CollectionItem](../collectionitem/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

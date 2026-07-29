@@ -1,37 +1,39 @@
 ---
-title: Class ImagesDifference
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.ImagesDifference class. تمثل فئة النتيجة لمقارنة صفحتين PDF
+title: "الفئة ImagesDifference"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Comparison.ImagesDifference. تمثل فئة النتيجة لمقارنة صفحتي PDF."
 type: docs
-weight: 3230
+weight: 3340
 url: /ar/net/aspose.pdf.comparison/imagesdifference/
 ---
 ## ImagesDifference class
 
-تمثل فئة النتيجة لمقارنة صفحتين PDF.
+يمثّل فئة نتيجة مقارنة PDF pages.
 
 ```csharp
 public sealed class ImagesDifference : IDisposable
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Difference](../../aspose.pdf.comparison/imagesdifference/difference/) { get; } | يحصل على مصفوفة الفرق. هذه المصفوفة مشابهة لمصفوفة بيانات الصورة الأصلية التي تم الحصول عليها نتيجة لطريقة LockBits. |
-| [Height](../../aspose.pdf.comparison/imagesdifference/height/) { get; } | ارتفاع الفرق. |
-| [SourceImage](../../aspose.pdf.comparison/imagesdifference/sourceimage/) { get; } | يحصل على صورة الصفحة الأولى المقارنة. الصورة لها تنسيق بكسل 24bpp. |
-| [Stride](../../aspose.pdf.comparison/imagesdifference/stride/) { get; } | خطوة بيانات صورة الفرق. |
+| [Difference](../../aspose.pdf.comparison/imagesdifference/difference/) { get; } | يحصل على مصفوفة الفروق. هذه المصفوفة مشابهة لمصفوفة بيانات الصورة الأصلية التي تم الحصول عليها نتيجةً لطريقة LockBits. |
+| [Height](../../aspose.pdf.comparison/imagesdifference/height/) { get; } | ارتفاع الفارق. |
+| [SourceImage](../../aspose.pdf.comparison/imagesdifference/sourceimage/) { get; } | يحصل على صورة الصفحة الأولى التي تم مقارنتها. تنسيق البكسل للصورة هو 24bpp. |
+| [Stride](../../aspose.pdf.comparison/imagesdifference/stride/) { get; } | خطوة (stride) بيانات صورة الفارق. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [DifferenceToImage](../../aspose.pdf.comparison/imagesdifference/differencetoimage/)(Color, Color) | يحول مصفوفة الفرق إلى صورة بت ماب باستخدام الألوان المحددة. |
-| [Dispose](../../aspose.pdf.comparison/imagesdifference/dispose/)() | ينفذ أي عمليات تنظيف ضرورية قبل تدمير الكائن. |
-| [GetDestinationImage](../../aspose.pdf.comparison/imagesdifference/getdestinationimage/)() | يعيد بت ماب جديدة تمثل الصورة الوجهة من خلال تطبيق مصفوفة الفرق على الصورة المصدر. |
+| [DifferenceToImage](../../aspose.pdf.comparison/imagesdifference/differencetoimage/)(Color, Color) | يحوّل مصفوفة الفروق إلى صورة bitmap باستخدام الألوان المحددة. |
+| [Dispose](../../aspose.pdf.comparison/imagesdifference/dispose/)() | ينفّذ أي عمليات تنظيف ضرورية قبل تدمير الكائن. |
+| [GetDestinationImage](../../aspose.pdf.comparison/imagesdifference/getdestinationimage/)() | يعيد صورة bitmap جديدة تمثل الصورة الهدف عبر تطبيق مصفوفة الفروق على صورة المصدر. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

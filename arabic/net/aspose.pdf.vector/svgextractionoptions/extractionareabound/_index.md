@@ -1,14 +1,14 @@
 ---
-title: SvgExtractionOptions.ExtractionAreaBound
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SvgExtractionOptions. تحصل على وتضبط المستطيل المحيط الذي يحدد منطقة الاستخراج لاستخراج SVG
+title: "SvgExtractionOptions.ExtractionAreaBound"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SvgExtractionOptions. يحصل ويضبط المستطيل الحدودي الذي يحدد منطقة الاستخراج لـ ExtractionAreaBound"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.vector/svgextractionoptions/extractionareabound/
 ---
-## خاصية SvgExtractionOptions.ExtractionAreaBound
+## SvgExtractionOptions.ExtractionAreaBound property
 
-تحصل على وتضبط المستطيل المحيط الذي يحدد منطقة الاستخراج لاستخراج SVG.
+يحصل أو يعيّن المستطيل المحيط الذي يحدد منطقة الاستخراج لاستخراج SVG.
 
 ```csharp
 public Rectangle ExtractionAreaBound { get; set; }
@@ -20,3 +20,5 @@ public Rectangle ExtractionAreaBound { get; set; }
 * class [SvgExtractionOptions](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

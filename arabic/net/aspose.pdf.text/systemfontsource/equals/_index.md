@@ -1,29 +1,31 @@
 ---
-title: SystemFontSource.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة SystemFontSource. تحقق مما إذا كانت كائنات مصدر الخط النظام متساوية
+title: "SystemFontSource.Equals"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة SystemFontSource. تحقق مما إذا كانت كائنات مصدر الخط النظامي متساوية"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.text/systemfontsource/equals/
 ---
-## طريقة SystemFontSource.Equals
+## SystemFontSource.Equals method
 
-تحقق مما إذا كانت كائنات مصدر الخط النظام متساوية.
+تحقق مما إذا كانت كائنات مصدر الخط النظامية متساوية.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| obj | كائن | كائن مصدر الخط النظام الذي سيتم مقارنته. |
+| obj | كائن | كائن مصدر الخط النظامي الذي سيُقارن. |
 
 ### قيمة الإرجاع
 
-صحيح إذا كانت الكائنات كلاهما مصادر خطوط نظام، خطأ خلاف ذلك.
+صحيح إذا كان كلا الكائنين مصدرين للخط النظامي، وإلا خطأ.
 
 ### انظر أيضًا
 
-* الفئة [SystemFontSource](../)
-* مساحة الاسم [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../../)
+* class [SystemFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

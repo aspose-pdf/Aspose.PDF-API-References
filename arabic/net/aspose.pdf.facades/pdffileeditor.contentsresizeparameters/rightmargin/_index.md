@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.RightMargin
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ContentsResizeParameters. تحصل أو تعين الهامش الأيمن في الصفحة الناتجة
+title: "PdfFileEditor.ContentsResizeParameters.RightMargin"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ContentsResizeParameters. يحصل أو يضبط الهامش الأيمن على الصفحة الناتجة"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/rightmargin/
 ---
-## خاصية PdfFileEditor.ContentsResizeParameters.RightMargin
+## PdfFileEditor.ContentsResizeParameters.RightMargin property
 
-تحصل أو تعين الهامش الأيمن في الصفحة الناتجة.
+يحصل أو يضبط الهامش الأيمن على الصفحة الناتجة.
 
 ```csharp
 public ContentsResizeValue RightMargin { get; set; }
@@ -20,3 +20,5 @@ public ContentsResizeValue RightMargin { get; set; }
 * class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

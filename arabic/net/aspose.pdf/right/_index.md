@@ -1,34 +1,36 @@
 ---
-title: Class Right
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Right. تمثل إعدادات المحاذاة اليمنى لبيانات الرأس والتذييل
+title: "الفئة Right"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Right. تمثل إعدادات المحاذاة اليمنى لبيانات الرأس والتذييل"
 type: docs
-weight: 9810
+weight: 9960
 url: /ar/net/aspose.pdf/right/
 ---
 ## Right class
 
-تمثل إعدادات المحاذاة اليمنى لبيانات الرأس والتذييل.
+يمثل إعدادات المحاذاة اليمنى لبيانات الرأس والتذييل.
 
 ```csharp
 public sealed class Right : HeaderFooterData
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Right](right/)() | المُنشئ الافتراضي. |
+| [Right](right/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | يحصل أو يحدد إعدادات التاريخ. |
-| [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | يحصل أو يحدد إعدادات رقم الصفحة. |
+| [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | يحصل أو يضبط إعدادات التاريخ. |
+| [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | يحصل أو يضبط إعدادات رقم الصفحة. |
 
-### See Also
+### انظر أيضًا
 
 * class [HeaderFooterData](../headerfooterdata/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

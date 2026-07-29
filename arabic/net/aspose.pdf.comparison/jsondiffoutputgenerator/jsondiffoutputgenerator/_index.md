@@ -1,14 +1,14 @@
 ---
-title: JsonDiffOutputGenerator.JsonDiffOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ JsonDiffOutputGenerator. المُنشئ الافتراضي
+title: "JsonDiffOutputGenerator.JsonDiffOutputGenerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ JsonDiffOutputGenerator. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.comparison/jsondiffoutputgenerator/jsondiffoutputgenerator/
 ---
-## مُنشئ JsonDiffOutputGenerator
+## JsonDiffOutputGenerator constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public JsonDiffOutputGenerator()
@@ -19,3 +19,5 @@ public JsonDiffOutputGenerator()
 * class [JsonDiffOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

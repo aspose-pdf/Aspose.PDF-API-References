@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.MappingName
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormFieldOptions. تحصل/تضبط القيمة لتحديد خاصية MappingName للحقل الذي تم إنشاؤه/تعديله إذا تم تعيينه
+title: "FormFieldOptions.MappingName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormFieldOptions. يحصل/يضبط القيمة لتحديد خاصية MappingName للحقل الذي تم إنشاؤه/تعديله إذا تم تعيينها"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.plugins/formfieldoptions/mappingname/
 ---
-## خاصية FormFieldOptions.MappingName
+## FormFieldOptions.MappingName property
 
-تحصل/تضبط القيمة لتحديد خاصية MappingName للحقل الذي تم إنشاؤه/تعديله (إذا تم تعيينه).
+الحصول/التعيين للقيمة لتحديد الخاصية MappingName للحقل المُنشأ/المعدل (إذا سيتم تعيينها).
 
 ```csharp
 public string MappingName { get; set; }
@@ -19,3 +19,5 @@ public string MappingName { get; set; }
 * class [FormFieldOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

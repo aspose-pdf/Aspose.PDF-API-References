@@ -1,14 +1,14 @@
 ---
-title: ParagraphAbsorberOptions.SearchRectangle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ParagraphAbsorberOptions. تحصل أو تعين مستطيل البحث عن الفقرة
+title: "ParagraphAbsorberOptions.SearchRectangle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ParagraphAbsorberOptions. تحصل أو تعيّن مستطيل البحث للفقرة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.text/paragraphabsorberoptions/searchrectangle/
 ---
-## خاصية ParagraphAbsorberOptions.SearchRectangle
+## ParagraphAbsorberOptions.SearchRectangle property
 
-تحصل أو تعين مستطيل البحث عن الفقرة.
+يحصل أو يعيّن مستطيل البحث للفقرة.
 
 ```csharp
 public Rectangle SearchRectangle { get; set; }
@@ -20,3 +20,5 @@ public Rectangle SearchRectangle { get; set; }
 * class [ParagraphAbsorberOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.DLEnvelope
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ظرف DL 110 مم × 220 مم
+title: "PaperSizes.DLEnvelope"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ظرف DL 110 مم × 220 مم"
 type: docs
 weight: 380
 url: /ar/net/aspose.pdf.printing/papersizes/dlenvelope/
 ---
-## حقل PaperSizes.DLEnvelope
+## PaperSizes.DLEnvelope field
 
-ظرف DL (110 مم × 220 مم).
+مغلف DL (110 مم × 220 مم).
 
 ```csharp
 public static readonly PaperSize DLEnvelope;
@@ -20,3 +20,5 @@ public static readonly PaperSize DLEnvelope;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

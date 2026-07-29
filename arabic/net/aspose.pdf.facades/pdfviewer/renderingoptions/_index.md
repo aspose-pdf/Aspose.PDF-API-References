@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.RenderingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfViewer. تحصل على أو تعين خيارات العرض
+title: "PdfViewer.RenderingOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfViewer. تحصل أو تعين خيارات العرض"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf.facades/pdfviewer/renderingoptions/
 ---
-## خاصية PdfViewer.RenderingOptions
+## PdfViewer.RenderingOptions property
 
-تحصل على أو تعين خيارات العرض.
+يحصل أو يعيّن خيارات العرض.
 
 ```csharp
 public RenderingOptions RenderingOptions { get; set; }
@@ -20,3 +20,5 @@ public RenderingOptions RenderingOptions { get; set; }
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

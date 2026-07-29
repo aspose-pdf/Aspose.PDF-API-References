@@ -1,41 +1,43 @@
 ---
-title: Class PDF3DCrossSectionArray
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.PDF3DCrossSectionArray. فئة PDF3DCrossSectionArray
+title: "الفئة PDF3DCrossSectionArray"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Annotations.PDF3DCrossSectionArray. الفئة PDF3DCrossSectionArray"
 type: docs
-weight: 2190
+weight: 2280
 url: /ar/net/aspose.pdf.annotations/pdf3dcrosssectionarray/
 ---
 ## PDF3DCrossSectionArray class
 
-Class PDF3DCrossSectionArray.
+فئة PDF3DCrossSectionArray.
 
 ```csharp
 public class PDF3DCrossSectionArray
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [PDF3DCrossSectionArray](pdf3dcrosssectionarray/)(Document) | Initializes a new instance of the `PDF3DCrossSectionArray` class. |
+| [PDF3DCrossSectionArray](pdf3dcrosssectionarray/)(Document) | يُنشئ مثلاً جديداً من الفئة `PDF3DCrossSectionArray`. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Count](../../aspose.pdf.annotations/pdf3dcrosssectionarray/count/) { get; } | يحصل على عدد مقاطع العرض. |
-| [Item](../../aspose.pdf.annotations/pdf3dcrosssectionarray/item/) { get; set; } | يحصل أو يحدد [`PDF3DCrossSection`](../pdf3dcrosssection/) في الفهرس المحدد. |
+| [Count](../../aspose.pdf.annotations/pdf3dcrosssectionarray/count/) { get; } | يحصل على عدد المقاطع العرضية. |
+| [Item](../../aspose.pdf.annotations/pdf3dcrosssectionarray/item/) { get; set; } | يحصل أو يضبط الـ [`PDF3DCrossSection`](../pdf3dcrosssection/) في الفهرس المحدد. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Add](../../aspose.pdf.annotations/pdf3dcrosssectionarray/add/)(PDF3DCrossSection) | يضيف مقطع العرض المحدد إلى مصفوفة العرض. |
-| [RemoveAll](../../aspose.pdf.annotations/pdf3dcrosssectionarray/removeall/)() | يزيل جميع مقاطع العرض من المصفوفة. |
-| [RemoveAt](../../aspose.pdf.annotations/pdf3dcrosssectionarray/removeat/)(int) | يزيل مقطع العرض من المصفوفة في الفهرس المحدد. |
+| [Add](../../aspose.pdf.annotations/pdf3dcrosssectionarray/add/)(PDF3DCrossSection) | يضيف المقطع العرضي المحدد إلى مصفوفة العروض. |
+| [RemoveAll](../../aspose.pdf.annotations/pdf3dcrosssectionarray/removeall/)() | يزيل جميع المقاطع العرضية من المصفوفة. |
+| [RemoveAt](../../aspose.pdf.annotations/pdf3dcrosssectionarray/removeat/)(int) | يزيل المقطع العرضي من المصفوفة في الفهرس المحدد. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

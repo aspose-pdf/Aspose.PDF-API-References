@@ -1,14 +1,14 @@
 ---
-title: Color.Goldenrod
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على لون معرف من النظام له قيمة ARGB تساوي c FFDAA520
+title: "Color.Goldenrod"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. يحصل على لون معرف بالنظام له قيمة ARGB هي c FFDAA520"
 type: docs
 weight: 510
 url: /ar/net/aspose.pdf/color/goldenrod/
 ---
-## خاصية Color.Goldenrod
+## Color.Goldenrod property
 
-تحصل على لون معرف من النظام له قيمة ARGB تساوي \c \#FFDAA520.
+يحصل على لون معرف من النظام له قيمة ARGB \c \#FFDAA520.
 
 ```csharp
 public static Color Goldenrod { get; }
@@ -16,10 +16,12 @@ public static Color Goldenrod { get; }
 
 ### قيمة الإرجاع
 
-تمثيل للون معرف من النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,26 @@
 ---
-title: PaperSizeExtensions.ToAsposePaperSize
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PaperSizeExtensions. تحويل System.Drawing.Printing.PaperSize الخاص بنظام Windows إلى PaperSize
+title: "PaperSizeExtensions.ToAsposePaperSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PaperSizeExtensions. تقوم بتحويل System.Drawing.Printing.PaperSize الخاص بـ Windows إلى PaperSize"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.printing/papersizeextensions/toasposepapersize/
 ---
-## طريقة PaperSizeExtensions.ToAsposePaperSize
+## PaperSizeExtensions.ToAsposePaperSize method
 
-تحول System.Drawing.Printing.PaperSize الخاص بنظام Windows إلى [`PaperSize`](../../papersize/).
+يقوم بتحويل System.Drawing.Printing.PaperSize الخاص بـ Windows إلى [`PaperSize`](../../papersize/).
 
 ```csharp
 public static PaperSize ToAsposePaperSize(this PaperSize nativeSize)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| nativeSize | PaperSize | حجم الورق الخاص بنظام Windows للتحويل. |
+| nativeSize | PaperSize | حجم الورق الخاص بـ Windows للتحويل. |
 
 ### قيمة الإرجاع
 
-حجم الورق المحول.
+حجم الورق المحوّل.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public static PaperSize ToAsposePaperSize(this PaperSize nativeSize)
 * class [PaperSizeExtensions](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

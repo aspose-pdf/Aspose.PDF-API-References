@@ -1,14 +1,14 @@
 ---
-title: Class BuildVersionInfo
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.BuildVersionInfo. توفر هذه الفئة معلومات حول بناء المنتج الحالي
+title: "فئة BuildVersionInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.BuildVersionInfo. توفر هذه الفئة معلومات حول نسخة المنتج الحالية"
 type: docs
-weight: 2950
+weight: 3060
 url: /ar/net/aspose.pdf/buildversioninfo/
 ---
-## فئة BuildVersionInfo
+## BuildVersionInfo class
 
-توفر هذه الفئة معلومات حول بناء المنتج الحالي.
+هذه الفئة توفر معلومات حول بناء المنتج الحالي.
 
 ```csharp
 public sealed class BuildVersionInfo
@@ -18,7 +18,7 @@ public sealed class BuildVersionInfo
 
 | الاسم | الوصف |
 | --- | --- |
-| [BuildVersionInfo](buildversioninfo/)() | المنشئ الافتراضي. |
+| [BuildVersionInfo](buildversioninfo/)() | البناء الافتراضي. |
 
 ## الحقول
 
@@ -30,5 +30,7 @@ public sealed class BuildVersionInfo
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

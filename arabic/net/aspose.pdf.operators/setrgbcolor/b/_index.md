@@ -1,20 +1,20 @@
 ---
-title: SetRGBColor.B
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SetRGBColor. تحصل أو تعين مكون اللون الأزرق
+title: "SetRGBColor.B"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SetRGBColor. تحصل أو تعين المكوّن الأزرق"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/setrgbcolor/b/
 ---
-## خاصية SetRGBColor.B
+## SetRGBColor.B property
 
-تحصل أو تعين مكون اللون الأزرق.
+يحصل أو يضبط المكوّن الأزرق.
 
 ```csharp
 public double B { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 مستوى اللون الأزرق من 0.0 إلى 1.0
 
@@ -23,3 +23,5 @@ public double B { get; set; }
 * class [SetRGBColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Table.GetWidth
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الجدول. الحصول على العرض
+title: "Table.GetWidth"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Table. الحصول على العرض"
 type: docs
 weight: 240
 url: /ar/net/aspose.pdf/table/getwidth/
 ---
-## طريقة Table.GetWidth
+## Table.GetWidth method
 
-الحصول على العرض.
+احصل على العرض.
 
 ```csharp
 public double GetWidth()
@@ -23,3 +23,5 @@ public double GetWidth()
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SignatureCustomAppearance. تحصل/تضبط لون الخلفية. القيمة الافتراضية شفافة
+title: "SignatureCustomAppearance.BackgroundColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SignatureCustomAppearance. يحصل/يضبط لون الخلفية. القيمة الافتراضية Transparent"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.forms/signaturecustomappearance/backgroundcolor/
 ---
-## خاصية SignatureCustomAppearance.BackgroundColor
+## SignatureCustomAppearance.BackgroundColor property
 
-تحصل/تضبط لون الخلفية. القيمة الافتراضية: شفافة.
+يحصل/يعيّن لون الخلفية. القيمة الافتراضية: Transparent.
 
 ```csharp
 public Color BackgroundColor { get; set; }
@@ -20,3 +20,5 @@ public Color BackgroundColor { get; set; }
 * class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

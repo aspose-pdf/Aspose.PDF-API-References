@@ -1,14 +1,14 @@
 ---
-title: TextState.Invisible
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextState. تحصل أو تضبط عدم وضوح النص. هذا يعكس أساسًا حالة RenderingMode باستثناء بعض الحالات الخاصة مثل القص
+title: "TextState.Invisible"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextState. تحصل أو تعين عدم ظهور النص. هذا أساسًا يعكس حالة RenderingMode باستثناء بعض الحالات الخاصة مثل القص."
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.text/textstate/invisible/
 ---
-## خاصية TextState.Invisible
+## TextState.Invisible property
 
-تحصل أو تضبط عدم وضوح النص. هذا يعكس أساسًا حالة [`RenderingMode`](../renderingmode/) ، باستثناء بعض الحالات الخاصة (مثل القص).
+تحصل أو تعين عدم ظهور النص. هذا أساسًا يعكس حالة [`RenderingMode`](../renderingmode/) ، باستثناء بعض الحالات الخاصة (مثل القص).
 
 ```csharp
 public virtual bool Invisible { get; set; }
@@ -19,3 +19,5 @@ public virtual bool Invisible { get; set; }
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

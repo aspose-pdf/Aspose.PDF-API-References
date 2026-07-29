@@ -1,12 +1,12 @@
 ---
-title: LineTo.LineTo
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ LineTo. يُهيئ عامل الخط
+title: "LineTo.LineTo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ LineTo. يهيئ مشغل الخط"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/lineto/lineto/
 ---
-## مُنشئ LineTo
+## LineTo constructor
 
 يُهيئ عامل الخط.
 
@@ -14,13 +14,15 @@ url: /ar/net/aspose.pdf.operators/lineto/lineto/
 public LineTo(double x, double y)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| x | Double | إحداثي X. |
-| y | Double | إحداثي Y. |
+| x | Double | الإحداثي X. |
+| y | Double | الإحداثي Y. |
 
 ### انظر أيضًا
 
 * class [LineTo](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class XmlLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.XmlLoadOptions. تمثل الخيارات لتحميل/استيراد ملف XML إلى مستند PDF
+title: "الفئة XmlLoadOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.XmlLoadOptions. تمثل الخيارات لتحميل/استيراد ملف XML إلى مستند pdf"
 type: docs
-weight: 11390
+weight: 11580
 url: /ar/net/aspose.pdf/xmlloadoptions/
 ---
-## فئة XmlLoadOptions
+## XmlLoadOptions class
 
-تمثل الخيارات لتحميل/استيراد ملف XML إلى مستند PDF.
+يمثل خيارات تحميل/استيراد ملف XML إلى مستند pdf.
 
 ```csharp
 public class XmlLoadOptions : LoadOptions
@@ -19,34 +19,34 @@ public class XmlLoadOptions : LoadOptions
 | الاسم | الوصف |
 | --- | --- |
 | [XmlLoadOptions](xmlloadoptions/#constructor)() | ينشئ كائن `XmlLoadOptions` بدون بيانات xsl. |
-| [XmlLoadOptions](xmlloadoptions/#constructor_1)(Stream) | ينشئ كائن `XmlLoadOptions` مع بيانات xsl. |
-| [XmlLoadOptions](xmlloadoptions/#constructor_2)(string) | ينشئ كائن `XmlLoadOptions` مع بيانات xsl. |
+| [XmlLoadOptions](xmlloadoptions/#constructor_1)(Stream) | ينشئ كائن `XmlLoadOptions` ببيانات xsl. |
+| [XmlLoadOptions](xmlloadoptions/#constructor_2)(string) | ينشئ كائن `XmlLoadOptions` ببيانات xsl. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | يحصل أو يحدد علامة لتعطيل أي قيود ترخيص لجميع الخطوط أثناء تحميل الملف. عندما تكون `true`، يسمح بتنفيذ العمليات مع الخطوط التي يحظرها ترخيص هذا الخط، على سبيل المثال يسمح بإدراج خط في مستند PDF حتى لو كانت قواعد الترخيص تعطل الإدراج لهذا الخط. بشكل افتراضي `false`. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | يحصل أو يعيّن العلامة لتعطيل أي قيود ترخيص على جميع الخطوط أثناء تحميل الملف. عندما تكون `true`، يسمح بتنفيذ عمليات باستخدام خط محظور بموجب ترخيص هذا الخط، على سبيل المثال يسمح بتضمين خط في مستند PDF حتى إذا كانت قواعد الترخيص تمنع التضمين لهذا الخط. القيمة الافتراضية هي `false`. |
 | [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | يمثل تنسيق الملف الذي تصفه [`LoadOptions`](../loadoptions/). |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | رد نداء لمعالجة أي تحذيرات تم إنشاؤها. يعيد WarningHandler عنصر تعداد ReturnAction يحدد إما Continue أو Abort. Continue هو الإجراء الافتراضي وتستمر عملية التحميل، ومع ذلك يمكن للمستخدم أيضًا إرجاع Abort وفي هذه الحالة يجب أن تتوقف عملية التحميل. |
-| [XslStream](../../aspose.pdf/xmlloadoptions/xslstream/) { get; } | يحصل على بيانات xsl لتحويل xml إلى مستند PDF. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | استدعاء رد نداء للتعامل مع أي تحذيرات تم إنشاؤها. يُعيد WarningHandler عنصر من تعداد ReturnAction يحدد إما Continue أو Abort. Continue هو الإجراء الافتراضي وتستمر عملية التحميل، ومع ذلك قد يُعيد المستخدم Abort في هذه الحالة يجب أن تتوقف عملية التحميل. |
+| [XslStream](../../aspose.pdf/xmlloadoptions/xslstream/) { get; } | يحصل على بيانات xsl لتحويل xml إلى مستند pdf. |
 
 ## أمثلة
 
-يوضح المثال التالي كيفية تحويل ملف XML إلى ملف PDF
+المثال التالي يوضح كيفية تحويل ملف XML إلى ملف PDF
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// المسار إلى دليل المستندات.
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your XML File.
+	// المسار إلى ملف XML الخاص بك.
 	string xmlFile = Path.Combine(dataDir, "XML-to-PDF.xml");
 
-	// The path to output PDF File.
+	// المسار إلى ملف PDF الناتج.
 	string pdfFile = Path.Combine(dataDir, "XML-to-PDF.pdf");
 
-	// Initialize XmlLoadOptions	
+	// تهيئة XmlLoadOptions	
 	XmlLoadOptions xmlLoadOptions = new XmlLoadOptions();
 		
 	using (Document pdfDocument = new Document(xmlFile, xmlLoadOptions))
@@ -81,6 +81,8 @@ public class XmlLoadOptions : LoadOptions
 
 ### انظر أيضًا
 
-* فئة [LoadOptions](../loadoptions/)
-* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

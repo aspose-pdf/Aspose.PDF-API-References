@@ -1,26 +1,26 @@
 ---
-title: FontAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FontAbsorber. تقوم بإجراء بحث في النطاق المحدد من صفحات الوثيقة
+title: "FontAbsorber.Visit"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FontAbsorber. تقوم بالبحث في النطاق المحدد من صفحات المستند"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.text/fontabsorber/visit/
 ---
 ## Visit(Document, int, int) {#visit_1}
 
-تقوم بإجراء بحث في النطاق المحدد من صفحات الوثيقة.
+يقوم بالبحث في النطاق المحدد من صفحات المستند.
 
 ```csharp
 public virtual void Visit(Document pdf, int startPage, int pageCount)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pdf | Document | كائن وثيقة PDF. |
-| startPage | Int32 | الصفحة الأولى لوثيقة PDF. |
-| pageCount | Int32 | عدد صفحات وثيقة PDF |
+| pdf | Document | كائن Pdf pocument. |
+| startPage | Int32 | صفحة بدء Pdf pocument. |
+| pageCount | Int32 | عدد صفحات مستند PDF |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [FontAbsorber](../)
@@ -31,19 +31,21 @@ public virtual void Visit(Document pdf, int startPage, int pageCount)
 
 ## Visit(Document) {#visit}
 
-تقوم بإجراء بحث على الوثيقة المحددة.
+ينفّذ البحث على المستند المحدد.
 
 ```csharp
 public virtual void Visit(Document pdf)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pdf | Document | كائن وثيقة PDF. |
+| pdf | Document | كائن Pdf pocument. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [FontAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

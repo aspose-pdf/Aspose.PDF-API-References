@@ -1,23 +1,23 @@
 ---
-title: FormComboBoxFieldCreateOptions.FormComboBoxFieldCreateOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FormComboBoxFieldCreateOptions. يقوم بتهيئة مثيل جديد من كائن FormComboBoxFieldCreateOptions الذي يحتوي على معلمات لـ ComboBoxField المُنشأ والمضاف
+title: "FormComboBoxFieldCreateOptions.FormComboBoxFieldCreateOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FormComboBoxFieldCreateOptions. يهيئ نسخة جديدة من كائن FormComboBoxFieldCreateOptions الذي يحتوي على معلمات للـ ComboBoxField المُنشأ والمضاف."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/formcomboboxfieldcreateoptions/formcomboboxfieldcreateoptions/
 ---
-## مُنشئ FormComboBoxFieldCreateOptions
+## FormComboBoxFieldCreateOptions constructor
 
-يقوم بتهيئة مثيل جديد من كائن [`FormComboBoxFieldCreateOptions`](../) الذي يحتوي على معلمات لـ ComboBoxField المُنشأ والمضاف.
+يهيئ نسخة جديدة من الكائن [`FormComboBoxFieldCreateOptions`](../)، الذي يحتوي على معلمات للـ ComboBoxField المُنشأ والمضاف.
 
 ```csharp
 public FormComboBoxFieldCreateOptions(int pageNum, Rectangle rect)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pageNum | Int32 | رقم الصفحة التي سيتم وضع ComboBoxField المضاف عليها. |
-| rect | Rectangle | يحدد مستطيل ComboBoxField. |
+| pageNum | Int32 | رقم الصفحة التي سيُوضَع فيها الـ ComboBoxField المضاف. |
+| rect | Rectangle | يضبط مستطيل الـ ComboBoxField. |
 
 ### انظر أيضًا
 
@@ -25,3 +25,5 @@ public FormComboBoxFieldCreateOptions(int pageNum, Rectangle rect)
 * class [FormComboBoxFieldCreateOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

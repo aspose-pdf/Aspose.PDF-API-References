@@ -1,14 +1,14 @@
 ---
-title: Opi.FileSpecification
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Opi. تحصل على الملف الخارجي الذي يحتوي على صورة الوكيل منخفضة الدقة
+title: "Opi.FileSpecification"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Opi. تحصل على الملف الخارجي الذي يحتوي على صورة الوكيل منخفضة الدقة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/opi/filespecification/
 ---
-## خاصية Opi.FileSpecification
+## Opi.FileSpecification property
 
-تحصل على الملف الخارجي الذي يحتوي على صورة الوكيل منخفضة الدقة.
+يحصل على الملف الخارجي الذي يحتوي على صورة الوكيل منخفضة الدقة.
 
 ```csharp
 public string FileSpecification { get; }
@@ -19,3 +19,5 @@ public string FileSpecification { get; }
 * class [Opi](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

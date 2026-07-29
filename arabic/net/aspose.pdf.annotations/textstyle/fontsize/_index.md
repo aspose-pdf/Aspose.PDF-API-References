@@ -1,12 +1,12 @@
 ---
-title: TextStyle.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextStyle. حجم الخط
+title: "TextStyle.FontSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextStyle. حجم الخط"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/textstyle/fontsize/
 ---
-## خاصية TextStyle.FontSize
+## TextStyle.FontSize property
 
 حجم الخط.
 
@@ -19,3 +19,5 @@ public double FontSize { get; set; }
 * class [TextStyle](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

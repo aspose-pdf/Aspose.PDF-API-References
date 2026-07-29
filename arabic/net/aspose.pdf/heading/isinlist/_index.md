@@ -1,14 +1,14 @@
 ---
-title: Heading.IsInList
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية العنوان. يحصل على العنوان الذي يجب أن يكون في قائمة جدول المحتويات
+title: "Heading.IsInList"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Heading. تحصل على ما إذا كان العنوان يجب أن يكون في قائمة الفهرس"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/heading/isinlist/
 ---
-## خاصية Heading.IsInList
+## Heading.IsInList property
 
-يحصل على العنوان الذي يجب أن يكون في قائمة جدول المحتويات.
+يحصل على ما إذا كان العنوان يجب أن يكون في قائمة الفهرس.
 
 ```csharp
 public bool IsInList { get; set; }
@@ -19,3 +19,5 @@ public bool IsInList { get; set; }
 * class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: WatermarkAnnotation.Opacity
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية WatermarkAnnotation. تحصل أو تعين شفافية التعليق
+title: "WatermarkAnnotation.Opacity"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية WatermarkAnnotation. تحصل أو تعين شفافية التعليق التوضيحي"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/watermarkannotation/opacity/
 ---
-## خاصية WatermarkAnnotation.Opacity
+## WatermarkAnnotation.Opacity property
 
-تحصل أو تعين شفافية التعليق.
+يحصل أو يضبط شفافية التوضيح.
 
 ```csharp
 public double Opacity { get; set; }
@@ -19,3 +19,5 @@ public double Opacity { get; set; }
 * class [WatermarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: Class ResultContainer
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.ResultContainer. تمثل الحاوية التي تحتوي على مجموعة النتائج الناتجة عن معالجة الإضافة
+title: "الفئة ResultContainer"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Plugins.ResultContainer. تمثل الحاوية التي تحتوي على مجموعة النتائج لمعالجة الملحق."
 type: docs
-weight: 9200
+weight: 9350
 url: /ar/net/aspose.pdf.plugins/resultcontainer/
 ---
 ## ResultContainer class
 
-تمثل الحاوية التي تحتوي على مجموعة النتائج الناتجة عن معالجة الإضافة.
+يمثل الحاوية التي تحتوي على مجموعة النتائج لمعالجة الملحق.
 
 ```csharp
 public class ResultContainer
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [ResultCollection](../../aspose.pdf.plugins/resultcontainer/resultcollection/) { get; } | يحصل على مجموعة نتائج العملية |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

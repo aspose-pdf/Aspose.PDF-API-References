@@ -1,22 +1,22 @@
 ---
-title: ComHelper.OpenFile
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ComHelper. فقط قم بإنشاء وإرجاع مستند باستخدام اسم الملف. نفس الشيء مثل Document
+title: "ComHelper.OpenFile"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ComHelper. فقط إنشاء وإرجاع Document باستخدام اسم الملف. نفس Document."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/comhelper/openfile/
 ---
 ## OpenFile(string) {#openfile}
 
-فقط قم بإنشاء وإرجاع مستند باستخدام *اسم الملف*. نفس الشيء مثل [`Document`](../../document/document/).
+فقط إنشاء وإرجاع Document باستخدام *filename*. نفس [`Document`](../../document/document/).
 
 ```csharp
 public Document OpenFile(string filename)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| filename | String | اسم ملف مستند PDF. |
+| filename | String | اسم ملف مستند pdf. |
 
 ### قيمة الإرجاع
 
@@ -33,15 +33,15 @@ public Document OpenFile(string filename)
 
 ## OpenFile(string, string) {#openfile_2}
 
-تهيئة وإرجاع مثيل جديد من فئة [`Document`](../../document/) للعمل مع مستند مشفر.
+تهيئة وإرجاع نسخة جديدة من فئة [`Document`](../../document/) للعمل مع مستند مشفر.
 
 ```csharp
 public Document OpenFile(string filename, string password)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| filename | String | اسم ملف المستند. |
+| filename | String | اسم ملف Document. |
 | password | String | كلمة مرور المستخدم أو المالك. |
 
 ### قيمة الإرجاع
@@ -59,17 +59,17 @@ public Document OpenFile(string filename, string password)
 
 ## OpenFile(string, string, bool) {#openfile_3}
 
-تهيئة مثيل جديد من فئة [`Document`](../../document/) للعمل مع مستند مشفر.
+تهيئة نسخة جديدة من فئة [`Document`](../../document/) للعمل مع مستند مشفر.
 
 ```csharp
 public Document OpenFile(string filename, string password, bool isManagedStream)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| filename | String | اسم ملف المستند. |
+| filename | String | اسم ملف Document. |
 | password | String | كلمة مرور المستخدم أو المالك. |
-| isManagedStream | Boolean | إذا تم تعيينه إلى `true` يتم إغلاق التدفق الداخلي قبل الخروج؛ خلاف ذلك، لا يتم ذلك. |
+| isManagedStream | Boolean | إذا تم تعيينه إلى `true` يتم إغلاق الدفق الداخلي قبل الخروج؛ وإلا، لا يتم ذلك. |
 
 ### قيمة الإرجاع
 
@@ -86,16 +86,16 @@ public Document OpenFile(string filename, string password, bool isManagedStream)
 
 ## OpenFile(string, LoadOptions) {#openfile_1}
 
-فتح مستند موجود من ملف مع توفير خيارات التحويل اللازمة للحصول على مستند PDF.
+افتح مستندًا موجودًا من ملف مع توفير خيارات التحويل اللازمة للحصول على مستند pdf.
 
 ```csharp
 public Document OpenFile(string filename, LoadOptions options)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| filename | String | ملف الإدخال للتحويل إلى مستند PDF. |
-| options | LoadOptions | تمثل الخصائص لتحويل *اسم الملف* إلى مستند PDF. |
+| filename | String | ملف الإدخال للتحويل إلى مستند pdf. |
+| options | LoadOptions | يمثل الخصائص لتحويل *filename* إلى مستند pdf. |
 
 ### قيمة الإرجاع
 
@@ -108,3 +108,5 @@ public Document OpenFile(string filename, LoadOptions options)
 * class [ComHelper](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,29 +1,31 @@
 ---
-title: Rectangle.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Rectangle. تحقق مما إذا كانت المستطيلات متساوية أي لها نفس الموضع والأحجام
+title: "Rectangle.Equals"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Rectangle. تحقق مما إذا كانت المستطيلات متساوية أي لها نفس الموقع والأحجام."
 type: docs
 weight: 200
 url: /ar/net/aspose.pdf/rectangle/equals/
 ---
-## طريقة Rectangle.Equals
+## Rectangle.Equals method
 
-تحقق مما إذا كانت المستطيلات متساوية أي لها نفس الموضع والأحجام.
+تحقق مما إذا كان المستطيلان متساويين أي لهما نفس الموضع والحجم.
 
 ```csharp
 public bool Equals(Rectangle other)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| other | Rectangle | المستطيل الذي سيتم مقارنته. |
+| آخر | Rectangle | المستطيل الذي سيُقارن. |
 
 ### قيمة الإرجاع
 
-صحيح إذا كانت المستطيلات متساوية، خاطئ خلاف ذلك.
+صحيح إذا كانت المستطيلات متساوية، خطأ غير ذلك.
 
 ### انظر أيضًا
 
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Color.Orchid
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على لون معرف من النظام له قيمة ARGB تساوي c FFDA70D6
+title: "Color.Orchid"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. يسترجع لونًا معرفًا بالنظام له قيمة ARGB بقيمة c FFDA70D6"
 type: docs
 weight: 1030
 url: /ar/net/aspose.pdf/color/orchid/
 ---
-## خاصية Color.Orchid
+## Color.Orchid property
 
-تحصل على لون معرف من النظام له قيمة ARGB تساوي \c \#FFDA70D6.
+يسترجع لونًا معرفًا من النظام له قيمة ARGB \c \#FFDA70D6.
 
 ```csharp
 public static Color Orchid { get; }
@@ -16,10 +16,12 @@ public static Color Orchid { get; }
 
 ### قيمة الإرجاع
 
-تمثل لونًا معرفًا من النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

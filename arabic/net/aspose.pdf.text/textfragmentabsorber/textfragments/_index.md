@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.TextFragments
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragmentAbsorber. تحصل على مجموعة من حالات البحث التي يتم تقديمها مع كائنات TextFragment
+title: "TextFragmentAbsorber.TextFragments"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragmentAbsorber. تحصل على مجموعة حدوث عمليات البحث التي يتم تمثيلها بكائنات TextFragment"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.text/textfragmentabsorber/textfragments/
 ---
-## خاصية TextFragmentAbsorber.TextFragments
+## TextFragmentAbsorber.TextFragments property
 
-تحصل على مجموعة من حالات البحث التي يتم تقديمها مع [`TextFragment`](../../textfragment/) كائنات.
+تحصل على مجموعة حدوث عمليات البحث التي يتم تمثيلها بكائنات [`TextFragment`](../../textfragment/).
 
 ```csharp
 public TextFragmentCollection TextFragments { get; set; }
@@ -16,28 +16,28 @@ public TextFragmentCollection TextFragments { get; set; }
 
 ## أمثلة
 
-المثال يوضح كيفية العثور على نص في الصفحة الأولى من مستند PDF واستبدال جميع حالات البحث بنص جديد.
+يوضح المثال كيفية العثور على النص في الصفحة الأولى من مستند PDF واستبدال جميع حدوث عمليات البحث بنص جديد.
 
 ```csharp
-// Open document
+// فتح المستند
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Find font that will be used to change document text font
+// العثور على الخط الذي سيُستخدم لتغيير خط نص المستند
 Aspose.Pdf.Txt.Font font = FontRepository.FindFont("Arial");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// إنشاء كائن TextFragmentAbsorber للعثور على جميع تكرارات النص "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// قبول الماص للصفحة الأولى
 doc.Pages[1].Accept(absorber);
 
-// Change text of all search occurrences
+// غيّر نص جميع حالات البحث
 foreach (TextFragment textFragment in absorber.TextFragments)
 {
     textFragment.Text = "hi world";
 }
 
-// Save document
+// حفظ المستند
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
@@ -47,3 +47,5 @@ doc.Save(@"D:\Tests\output.pdf");
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

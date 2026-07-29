@@ -1,20 +1,20 @@
 ---
-title: ListBoxField.ListBoxField
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ListBoxField. مُنشئ لـ ListBoxField لاستخدامه في Generator
+title: "ListBoxField.ListBoxField"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ListBoxField. منشئ ListBoxField لاستخدامه في Generator"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.forms/listboxfield/listboxfield/
 ---
 ## ListBoxField() {#constructor}
 
-مُنشئ لـ ListBoxField لاستخدامه في Generator.
+منشئ ListBoxField لاستخدامه في Generator.
 
 ```csharp
 public ListBoxField()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [ListBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -24,18 +24,18 @@ public ListBoxField()
 
 ## ListBoxField(Page, Rectangle) {#constructor_2}
 
-يُنشئ حقل ListBox جديد.
+ينشئ حقل ListBox جديد.
 
 ```csharp
 public ListBoxField(Page page, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة التي سيتم وضع مربع القائمة عليها. |
-| rect | Rectangle | المستطيل الذي سيتم وضع مربع القائمة عليه في الصفحة. |
+| صفحة | صفحة | الصفحة التي سيتم وضع صندوق القائمة فيها. |
+| rect | Rectangle | المستطيل الذي سيتم وضع صندوق القائمة فيه على الصفحة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -47,21 +47,23 @@ public ListBoxField(Page page, Rectangle rect)
 
 ## ListBoxField(Document, Rectangle) {#constructor_1}
 
-مُنشئ لحقل ListBox.
+منشئ حقل ListBox.
 
 ```csharp
 public ListBoxField(Document doc, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| doc | Document | المستند الذي سيعود له هذا الحقل. |
-| rect | Rectangle | المستطيل الذي سيتم وضع مربع القائمة عليه. |
+| doc | Document | المستند الذي سيعود إليه هذا الحقل. |
+| rect | Rectangle | المستطيل الذي سيتم وضع صندوق القائمة فيه. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [ListBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

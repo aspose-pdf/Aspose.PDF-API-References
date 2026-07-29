@@ -1,30 +1,32 @@
 ---
-title: MessageContentRequest.CreateImageFileContent
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة MessageContentRequest. تنشئ محتوى ملف صورة لرسالة
+title: "MessageContentRequest.CreateImageFileContent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة MessageContentRequest. تنشئ محتوى ملف صورة لرسالة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/messagecontentrequest/createimagefilecontent/
 ---
-## طريقة MessageContentRequest.CreateImageFileContent
+## MessageContentRequest.CreateImageFileContent method
 
-تنشئ محتوى ملف صورة لرسالة.
+ينشئ محتوى ملف صورة لرسالة.
 
 ```csharp
 public static MessageContentRequest CreateImageFileContent(string fileId, string detail = "auto")
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fileId | String | معرف ملف الصورة. |
-| detail | String | تفاصيل ملف الصورة. يحدد مستوى التفاصيل للصورة إذا تم تحديده من قبل المستخدم. "منخفض" يستخدم عدد أقل من الرموز، يمكنك اختيار دقة عالية باستخدام "عالي". القيمة الافتراضية هي "تلقائي". |
+| fileId | String | معرّف ملف الصورة. |
+| التفصيل | String | تفاصيل ملف الصورة. يحدد مستوى التفاصيل للصورة إذا حدده المستخدم. \"low\" يستخدم عددًا أقل من الرموز، ويمكنك اختيار الدقة العالية باستخدام \"high\". الافتراضي هو \"auto\". |
 
 ### قيمة الإرجاع
 
-مثيل جديد من MessageContentRequest بمحتوى ImageFile.
+مثال جديد من MessageContentRequest بمحتوى ImageFile.
 
 ### انظر أيضًا
 
 * class [MessageContentRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

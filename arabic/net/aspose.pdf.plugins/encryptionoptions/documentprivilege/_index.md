@@ -1,14 +1,14 @@
 ---
-title: EncryptionOptions.DocumentPrivilege
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية خيارات التشفير. أذونات الوثيقة انظر الأذونات للحصول على التفاصيل
+title: "EncryptionOptions.DocumentPrivilege"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية EncryptionOptions. أذونات المستند، راجع Permissions للتفاصيل"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.plugins/encryptionoptions/documentprivilege/
 ---
-## خاصية خيارات التشفير.امتياز الوثيقة
+## EncryptionOptions.DocumentPrivilege property
 
-أذونات الوثيقة، انظر [`الأذونات`](../../../aspose.pdf/permissions/) للحصول على التفاصيل.
+أذونات المستند، راجع [`Permissions`](../../../aspose.pdf/permissions/) للتفاصيل.
 
 ```csharp
 public DocumentPrivilege DocumentPrivilege { get; set; }
@@ -16,7 +16,9 @@ public DocumentPrivilege DocumentPrivilege { get; set; }
 
 ### انظر أيضًا
 
-* class [امتياز الوثيقة](../../../aspose.pdf.facades/documentprivilege/)
-* class [خيارات التشفير](../)
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* class [EncryptionOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

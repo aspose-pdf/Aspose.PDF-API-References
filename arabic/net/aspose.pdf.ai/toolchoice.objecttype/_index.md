@@ -1,9 +1,9 @@
 ---
-title: Class ToolChoice.ObjectType
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.ToolChoiceObjectType. تمثل قيمة كائن في ToolChoice
+title: "الفئة ToolChoice.ObjectType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.AI.ToolChoiceObjectType. تمثل قيمة كائن في ToolChoice."
 type: docs
-weight: 1220
+weight: 1310
 url: /ar/net/aspose.pdf.ai/toolchoice.objecttype/
 ---
 ## ToolChoice.ObjectType class
@@ -14,21 +14,23 @@ url: /ar/net/aspose.pdf.ai/toolchoice.objecttype/
 public class ObjectType
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ObjectType](../../aspose.pdf.ai/toolchoice.objecttype/.ctor)() | المُنشئ الافتراضي. |
+| [ObjectType](../../aspose.pdf.ai/toolchoice.objecttype/.ctor)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Function](../../aspose.pdf.ai/toolchoice.objecttype/function) { get; set; } | يحصل أو يحدد الوظيفة التي سيتم استدعاؤها. |
-| [ToolType](../../aspose.pdf.ai/toolchoice.objecttype/tooltype) { get; set; } | يحصل أو يحدد نوع الأداة. حالياً، يتم دعم الوظيفة فقط. |
+| [Function](../../aspose.pdf.ai/toolchoice.objecttype/function) { get; set; } | يحصل أو يعيّن الدالة التي سيتم استدعاؤها. |
+| [ToolType](../../aspose.pdf.ai/toolchoice.objecttype/tooltype) { get; set; } | يحصل أو يعيّن نوع الأداة. حالياً، يتم دعم الدالة فقط. |
 
-### See Also
+### انظر أيضًا
 
 * class [ToolChoice](../toolchoice/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

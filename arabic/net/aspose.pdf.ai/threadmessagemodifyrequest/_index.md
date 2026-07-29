@@ -1,32 +1,34 @@
 ---
-title: Class ThreadMessageModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.ThreadMessageModifyRequest. تمثل طلبًا لتعديل رسالة ضمن سلسلة
+title: "الفئة ThreadMessageModifyRequest"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.AI.ThreadMessageModifyRequest. تمثّل طلبًا لتعديل رسالة داخل سلسلة."
 type: docs
-weight: 1150
+weight: 1240
 url: /ar/net/aspose.pdf.ai/threadmessagemodifyrequest/
 ---
 ## ThreadMessageModifyRequest class
 
-تمثل طلبًا لتعديل رسالة ضمن سلسلة.
+يمثل طلبًا لتعديل رسالة داخل سلسلة.
 
 ```csharp
 public class ThreadMessageModifyRequest
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ThreadMessageModifyRequest](threadmessagemodifyrequest/)() | المُنشئ الافتراضي. |
+| [ThreadMessageModifyRequest](threadmessagemodifyrequest/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Metadata](../../aspose.pdf.ai/threadmessagemodifyrequest/metadata/) { get; set; } | يحصل أو يحدد مجموعة من 16 زوجًا من المفاتيح والقيم يمكن إرفاقها بكائن. يمكن أن يكون هذا مفيدًا لتخزين معلومات إضافية حول الكائن بتنسيق منظم. يمكن أن تكون المفاتيح بطول أقصى 64 حرفًا والقيم بطول أقصى 512 حرفًا. |
+| [Metadata](../../aspose.pdf.ai/threadmessagemodifyrequest/metadata/) { get; set; } | يتم الحصول على أو تعيين مجموعة من 16 زوجًا من المفتاح والقيمة يمكن إرفاقها بكائن. يمكن أن يكون ذلك مفيدًا لتخزين معلومات إضافية حول الكائن بتنسيق منظم. يمكن أن تكون المفاتيح بحد أقصى 64 حرفًا والقيم بحد أقصى 512 حرفًا. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

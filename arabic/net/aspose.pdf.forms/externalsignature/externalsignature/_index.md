@@ -1,28 +1,28 @@
 ---
-title: ExternalSignature.ExternalSignature
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ExternalSignature. ينشئ توقيع PKCS7 مفصول باستخدام X509Certificate2. يدعم بطاقات USB الذكية بدون مفاتيح خاصة قابلة للتصدير
+title: "ExternalSignature.ExternalSignature"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ExternalSignature. ينشئ توقيع PKCS7 منفصل باستخدام X509Certificate2. يدعم بطاقات ذكية USB دون مفاتيح خاصة قابلة للتصدير"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.forms/externalsignature/externalsignature/
 ---
 ## ExternalSignature(X509Certificate2) {#constructor}
 
-ينشئ توقيع PKCS#7 `(مفصول)` باستخدام X509Certificate2. يدعم بطاقات USB الذكية، الرموز بدون مفاتيح خاصة قابلة للتصدير.
+يُنشئ توقيع PKCS#7 منفصل `(detached)` باستخدام X509Certificate2. يدعم بطاقات usb الذكية، والرموز دون مفاتيح خاصة قابلة للتصدير.
 
 ```csharp
 public ExternalSignature(X509Certificate2 certificate)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| certificate | X509Certificate2 | الشهادة مع المفتاح الخاص. |
+| شهادة | X509Certificate2 | الشهادة مع المفتاح الخاص. |
 
-## Remarks
+## ملاحظات
 
 سيتم اختيار خوارزمية التجزئة تلقائيًا بناءً على بيانات مفتاح الشهادة.
 
-### See Also
+### انظر أيضًا
 
 * class [ExternalSignature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -32,18 +32,18 @@ public ExternalSignature(X509Certificate2 certificate)
 
 ## ExternalSignature(X509Certificate2, DigestHashAlgorithm) {#constructor_1}
 
-ينشئ توقيع PKCS#7 `(مفصول)` باستخدام X509Certificate2. يدعم بطاقات USB الذكية، الرموز بدون مفاتيح خاصة قابلة للتصدير.
+يُنشئ توقيع PKCS#7 منفصل `(detached)` باستخدام X509Certificate2. يدعم بطاقات usb الذكية، والرموز دون مفاتيح خاصة قابلة للتصدير.
 
 ```csharp
 public ExternalSignature(X509Certificate2 certificate, DigestHashAlgorithm digestHashAlgorithm)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| certificate | X509Certificate2 | الشهادة مع المفتاح الخاص. |
+| شهادة | X509Certificate2 | الشهادة مع المفتاح الخاص. |
 | digestHashAlgorithm | DigestHashAlgorithm | خوارزمية التجزئة لتوقيع مستند. |
 
-### See Also
+### انظر أيضًا
 
 * enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
 * class [ExternalSignature](../)
@@ -54,22 +54,22 @@ public ExternalSignature(X509Certificate2 certificate, DigestHashAlgorithm diges
 
 ## ExternalSignature(X509Certificate2, bool) {#constructor_2}
 
-ينشئ توقيع PKCS#7 باستخدام X509Certificate2. يدعم بطاقات USB الذكية، الرموز بدون مفاتيح خاصة قابلة للتصدير.
+ينشئ توقيع PKCS#7 منفصل باستخدام X509Certificate2. يدعم بطاقات ذكية USB، ورموز بدون مفاتيح خاصة قابلة للتصدير.
 
 ```csharp
 public ExternalSignature(X509Certificate2 certificate, bool detached)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| certificate | X509Certificate2 | الشهادة مع المفتاح الخاص. |
-| detached | Boolean | صحيح إذا كان يجب أن يكون التوقيع مفصولًا، خلاف ذلك خطأ. |
+| شهادة | X509Certificate2 | الشهادة مع المفتاح الخاص. |
+| منفصل | Boolean | صحيح إذا كان يجب أن يكون التوقيع منفصلاً، وإلا خطأ. |
 
-## Remarks
+## ملاحظات
 
-إذا تم تعيين المفصول إلى خطأ، ستظل خوارزمية التجزئة دائمًا `SHA1`. خلاف ذلك، سيتم اختيار خوارزمية التجزئة تلقائيًا بناءً على بيانات مفتاح الشهادة (انظر تلقائي).
+عند ضبط منفصل إلى false، ستكون خوارزمية التجزئة دائمًا `SHA1`. وإلا، سيتم اختيار خوارزمية التجزئة تلقائيًا بناءً على بيانات مفتاح الشهادة (انظر Auto).
 
-### See Also
+### انظر أيضًا
 
 * class [ExternalSignature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -79,22 +79,22 @@ public ExternalSignature(X509Certificate2 certificate, bool detached)
 
 ## ExternalSignature(string, bool) {#constructor_4}
 
-ينشئ توقيع PKCS#7 باستخدام X509Certificate2 كسلسلة base64.
+يُنشئ توقيع PKCS#7 باستخدام X509Certificate2 كسلسلة base64.
 
 ```csharp
 public ExternalSignature(string base64, bool detached)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | base64 | String | X509Certificate2 كسلسلة base64. |
-| detached | Boolean | صحيح إذا كان يجب أن يكون التوقيع مفصولًا، خلاف ذلك خطأ. |
+| منفصل | Boolean | صحيح إذا كان يجب أن يكون التوقيع منفصلاً، وإلا خطأ. |
 
-## Remarks
+## ملاحظات
 
-إذا تم تعيين المفصول إلى خطأ، ستظل خوارزمية التجزئة دائمًا `SHA1`. خلاف ذلك، سيتم اختيار خوارزمية التجزئة تلقائيًا بناءً على بيانات مفتاح الشهادة (انظر تلقائي).
+عند ضبط منفصل إلى false، ستكون خوارزمية التجزئة دائمًا `SHA1`. وإلا، سيتم اختيار خوارزمية التجزئة تلقائيًا بناءً على بيانات مفتاح الشهادة (انظر Auto).
 
-### See Also
+### انظر أيضًا
 
 * class [ExternalSignature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -104,20 +104,22 @@ public ExternalSignature(string base64, bool detached)
 
 ## ExternalSignature(string, DigestHashAlgorithm) {#constructor_3}
 
-ينشئ توقيع PKCS#7 `(مفصول)` باستخدام X509Certificate2 كسلسلة base64.
+يُنشئ توقيع PKCS#7 `(detached)` باستخدام X509Certificate2 كسلسلة base64.
 
 ```csharp
 public ExternalSignature(string base64, DigestHashAlgorithm digestHashAlgorithm)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | base64 | String | X509Certificate2 كسلسلة base64. |
 | digestHashAlgorithm | DigestHashAlgorithm | خوارزمية التجزئة لتوقيع مستند. |
 
-### See Also
+### انظر أيضًا
 
 * enum [DigestHashAlgorithm](../../../aspose.pdf/digesthashalgorithm/)
 * class [ExternalSignature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

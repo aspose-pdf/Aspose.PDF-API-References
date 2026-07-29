@@ -1,14 +1,14 @@
 ---
-title: Document.NonFullScreenPageMode
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. تحصل أو تعين وضع الصفحة الذي يحدد كيفية عرض الوثيقة عند الخروج من وضع الشاشة الكاملة
+title: "Document.NonFullScreenPageMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Document property. يحصل أو يضبط وضع الصفحة الذي يحدد كيفية عرض المستند عند الخروج من وضع ملء الشاشة"
 type: docs
-weight: 380
+weight: 400
 url: /ar/net/aspose.pdf/document/nonfullscreenpagemode/
 ---
-## خاصية Document.NonFullScreenPageMode
+## Document.NonFullScreenPageMode property
 
-تحصل أو تعين وضع الصفحة، الذي يحدد كيفية عرض الوثيقة عند الخروج من وضع الشاشة الكاملة.
+يحصل أو يضبط وضع الصفحة، محددًا كيفية عرض المستند عند الخروج من وضع ملء الشاشة.
 
 ```csharp
 public PageMode NonFullScreenPageMode { get; set; }
@@ -20,3 +20,5 @@ public PageMode NonFullScreenPageMode { get; set; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

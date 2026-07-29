@@ -1,14 +1,14 @@
 ---
-title: RunResponse.ThreadId
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunResponse. تحصل أو تعين معرف الخيط الذي تم تنفيذه كجزء من هذا التشغيل
+title: "RunResponse.ThreadId"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RunResponse. يحصل على أو يعيّن معرّف الخيط الذي تم تنفيذ العملية عليه كجزء من هذا التشغيل"
 type: docs
 weight: 220
 url: /ar/net/aspose.pdf.ai/runresponse/threadid/
 ---
-## خاصية RunResponse.ThreadId
+## RunResponse.ThreadId property
 
-تحصل أو تعين معرف الخيط الذي تم تنفيذه كجزء من هذا التشغيل.
+يحصل أو يعيّن معرّف الخيط الذي تم تنفيذ العملية عليه كجزء من هذا التشغيل.
 
 ```csharp
 public string ThreadId { get; set; }
@@ -19,3 +19,5 @@ public string ThreadId { get; set; }
 * class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

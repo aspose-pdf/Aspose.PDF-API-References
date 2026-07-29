@@ -1,12 +1,12 @@
 ---
-title: SignOptions.Name
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SignOptions. اسم حقل التوقيع الموجود. Null لإنشاء حقل جديد
+title: "SignOptions.Name"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SignOptions. اسم حقل التوقيع الموجود. Null لإنشاء حقل جديد"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.plugins/signoptions/name/
 ---
-## خاصية SignOptions.Name
+## SignOptions.Name property
 
 اسم حقل التوقيع الموجود. Null لإنشاء حقل جديد.
 
@@ -19,3 +19,5 @@ public string Name { get; set; }
 * class [SignOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

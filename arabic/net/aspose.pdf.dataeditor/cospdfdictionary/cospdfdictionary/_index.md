@@ -1,12 +1,12 @@
 ---
-title: CosPdfDictionary.CosPdfDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ CosPdfDictionary. ينشئ قاموسًا من الموارد
+title: "CosPdfDictionary.CosPdfDictionary"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ CosPdfDictionary. ينشئ قاموسًا من الموارد"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.dataeditor/cospdfdictionary/cospdfdictionary/
 ---
-## مُنشئ CosPdfDictionary
+## CosPdfDictionary constructor
 
 ينشئ قاموسًا من الموارد.
 
@@ -14,13 +14,13 @@ url: /ar/net/aspose.pdf.dataeditor/cospdfdictionary/cospdfdictionary/
 public CosPdfDictionary(Resources resources)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| resources | Resources | الموارد التي تحتوي على قاموس للعمل. |
+| resources | الموارد | الموارد مع قاموس للعمل. |
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | الموارد فارغة. |
 
@@ -30,3 +30,5 @@ public CosPdfDictionary(Resources resources)
 * class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

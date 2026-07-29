@@ -1,26 +1,26 @@
 ---
-title: OpenAIClient.CreateWithApiKey
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIClient. تنشئ مثيلًا جديدًا من Builder باستخدام مفتاح API المقدم
+title: "OpenAIClient.CreateWithApiKey"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIClient. تنشئ نسخة جديدة من Builder باستخدام مفتاح API المقدم"
 type: docs
-weight: 510
+weight: 520
 url: /ar/net/aspose.pdf.ai/openaiclient/createwithapikey/
 ---
-## طريقة OpenAIClient.CreateWithApiKey
+## OpenAIClient.CreateWithApiKey method
 
-تنشئ مثيلًا جديدًا من [`Builder`](../../openaiclient.builder/) باستخدام مفتاح API المقدم.
+ينشئ نسخة جديدة من [`Builder`](../../openaiclient.builder/) باستخدام مفتاح API المقدم.
 
 ```csharp
 public static Builder CreateWithApiKey(string apiKey)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| apiKey | String | مفتاح API الذي سيتم استخدامه للعميل. |
+| apiKey | String | مفتاح API لاستخدامه مع العميل. |
 
 ### قيمة الإرجاع
 
-مثيل من [`Builder`](../../openaiclient.builder/).
+نسخة من [`Builder`](../../openaiclient.builder/).
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public static Builder CreateWithApiKey(string apiKey)
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

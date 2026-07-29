@@ -1,14 +1,14 @@
 ---
-title: Table.RepeatingRowsStyle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الجدول. تحصل على النمط للصفوف المتكررة
+title: "Table.RepeatingRowsStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Table. يحصل على النمط للصفوف المتكررة"
 type: docs
 weight: 190
 url: /ar/net/aspose.pdf/table/repeatingrowsstyle/
 ---
-## خاصية Table.RepeatingRowsStyle
+## Table.RepeatingRowsStyle property
 
-تحصل على النمط للصفوف المتكررة
+يحصل على النمط للصفوف المتكررة
 
 ```csharp
 public TextState RepeatingRowsStyle { get; set; }
@@ -20,3 +20,5 @@ public TextState RepeatingRowsStyle { get; set; }
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

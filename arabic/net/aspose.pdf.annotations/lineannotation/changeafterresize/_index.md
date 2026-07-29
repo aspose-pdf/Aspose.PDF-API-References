@@ -1,22 +1,22 @@
 ---
-title: LineAnnotation.ChangeAfterResize
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة LineAnnotation. تقوم بتحديث النقاط الابتدائية والنهائية وفقًا لتحويل المصفوفة
+title: "LineAnnotation.ChangeAfterResize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة LineAnnotation. تُحدّث نقطتي البداية والنهاية وفقًا لتحويل المصفوفة"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf.annotations/lineannotation/changeafterresize/
 ---
-## طريقة LineAnnotation.ChangeAfterResize
+## LineAnnotation.ChangeAfterResize method
 
-تقوم بتحديث النقاط الابتدائية والنهائية، وفقًا لتحويل المصفوفة.
+يقوم بتحديث نقطتي البدء والنهاية وفقًا لتحويل المصفوفة.
 
 ```csharp
 public override void ChangeAfterResize(Matrix transform)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| transform | Matrix | مصفوفة تحدد التحويل. |
+| تحويل | Matrix | المصفوفة التي تحدد التحويل. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public override void ChangeAfterResize(Matrix transform)
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

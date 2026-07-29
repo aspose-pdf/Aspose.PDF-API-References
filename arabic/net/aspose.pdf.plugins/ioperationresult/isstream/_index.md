@@ -1,14 +1,14 @@
 ---
-title: IOperationResult.IsStream
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية IOperationResult. تشير إلى ما إذا كانت النتيجة هي دفق إخراج
+title: "IOperationResult.IsStream"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية IOperationResult. تشير إلى ما إذا كانت النتيجة تدفق إخراج"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.plugins/ioperationresult/isstream/
 ---
-## خاصية IOperationResult.IsStream
+## IOperationResult.IsStream property
 
-تشير إلى ما إذا كانت النتيجة هي دفق إخراج.
+يشير إلى ما إذا كانت النتيجة تدفق إخراج.
 
 ```csharp
 public bool IsStream { get; }
@@ -16,10 +16,12 @@ public bool IsStream { get; }
 
 ### قيمة الإرجاع
 
-`true` إذا كانت النتيجة كائن دفق؛ خلاف ذلك `false`.
+`true` إذا كانت النتيجة كائن تدفق؛ وإلا `false`.
 
 ### انظر أيضًا
 
-* واجهة [IOperationResult](../)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IOperationResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

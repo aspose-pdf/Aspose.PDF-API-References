@@ -1,20 +1,20 @@
 ---
-title: Interface IChatClientTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.AI.IChatClient1TOptions. تمثل واجهة لعميل دردشة مع خيارات محددة
+title: "الواجهة IChatClientTOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "واجهة Aspose.Pdf.AI.IChatClient1TOptions. تمثّل واجهة لعميل محادثة مع خيارات محددة."
 type: docs
-weight: 460
+weight: 480
 url: /ar/net/aspose.pdf.ai/ichatclient-1/
 ---
-## واجهة IChatClient&lt;TOptions&gt;
+## IChatClient&lt;TOptions&gt; interface
 
-تمثل واجهة لعميل دردشة مع خيارات محددة.
+يمثل واجهة لعميل الدردشة مع خيارات محددة.
 
 ```csharp
 public interface IChatClient<in TOptions> : IAIClient
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
 | TOptions | نوع الخيارات لعميل الدردشة. |
 
@@ -22,10 +22,12 @@ public interface IChatClient<in TOptions> : IAIClient
 
 | الاسم | الوصف |
 | --- | --- |
-| [GetChatCopilot](../../aspose.pdf.ai/ichatclient-1/getchatcopilot/)(IChatCopilotOptions&lt;TOptions&gt;) | يحصل على مثيل من [`IChatCopilot`](../ichatcopilot/) مع الخيارات المحددة. |
+| [GetChatCopilot](../../aspose.pdf.ai/ichatclient-1/getchatcopilot/)(IChatCopilotOptions&lt;TOptions&gt;) | يحصل على نسخة من [`IChatCopilot`](../ichatcopilot/) بالخيارات المحددة. |
 
 ### انظر أيضًا
 
-* واجهة [IAIClient](../iaiclient/)
-* مساحة الأسماء [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../)
+* interface [IAIClient](../iaiclient/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AttributeName.ListNumbering_LowerAlpha
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. قائمة Attribute ListNumbering LowerAlpha  أحرف صغيرة a b c
+title: "AttributeName.ListNumbering_LowerAlpha"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. سمة ListNumbering LowerAlpha  أحرف صغيرة a b c"
 type: docs
 weight: 280
 url: /ar/net/aspose.pdf.logicalstructure/attributename/listnumbering_loweralpha/
 ---
-## حقل AttributeName.ListNumbering_LowerAlpha
+## AttributeName.ListNumbering_LowerAlpha field
 
-قائمة Attribute ListNumbering: LowerAlpha - أحرف صغيرة (a, b, c, ...).
+السمة ListNumbering: LowerAlpha - أحرف صغيرة (a, b, c, ...).
 
 ```csharp
 public static readonly AttributeName ListNumbering_LowerAlpha;
@@ -19,3 +19,5 @@ public static readonly AttributeName ListNumbering_LowerAlpha;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

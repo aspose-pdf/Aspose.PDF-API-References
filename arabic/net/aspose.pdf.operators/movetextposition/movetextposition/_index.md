@@ -1,26 +1,28 @@
 ---
-title: MoveTextPosition.MoveTextPosition
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ MoveTextPosition. يُهيئ المُشغل
+title: "MoveTextPosition.MoveTextPosition"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ MoveTextPosition. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/movetextposition/movetextposition/
 ---
-## مُنشئ MoveTextPosition
+## MoveTextPosition constructor
 
-يُهيئ المُشغل.
+يُهيئ العامل.
 
 ```csharp
 public MoveTextPosition(double x, double y)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| x | Double | إحداثي X لموقع النص. |
-| y | Double | إحداثي Y لموقع النص. |
+| x | Double | الإحداثي X لموضع النص. |
+| y | Double | الإحداثي Y لموضع النص. |
 
 ### انظر أيضًا
 
 * class [MoveTextPosition](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

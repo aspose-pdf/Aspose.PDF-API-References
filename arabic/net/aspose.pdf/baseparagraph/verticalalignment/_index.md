@@ -1,14 +1,14 @@
 ---
-title: BaseParagraph.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BaseParagraph. تحصل أو تعين محاذاة عمودية للفقرة
+title: "BaseParagraph.VerticalAlignment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BaseParagraph. يحصل أو يعيّن محاذاة رأسية للفقرة."
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/baseparagraph/verticalalignment/
 ---
-## خاصية BaseParagraph.VerticalAlignment
+## BaseParagraph.VerticalAlignment property
 
-تحصل أو تعين محاذاة عمودية للفقرة
+يحصل أو يعيّن محاذاة عمودية للفقرة
 
 ```csharp
 public virtual VerticalAlignment VerticalAlignment { get; set; }
@@ -20,3 +20,5 @@ public virtual VerticalAlignment VerticalAlignment { get; set; }
 * class [BaseParagraph](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

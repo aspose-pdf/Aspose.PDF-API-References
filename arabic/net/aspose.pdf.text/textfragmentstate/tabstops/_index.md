@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.TabStops
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragmentState. تحصل على نقاط التوقف للنص
+title: "TextFragmentState.TabStops"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragmentState. يحصل على نقاط التبويب للنص"
 type: docs
 weight: 210
 url: /ar/net/aspose.pdf.text/textfragmentstate/tabstops/
 ---
-## خاصية TextFragmentState.TabStops
+## TextFragmentState.TabStops property
 
-تحصل على نقاط التوقف للنص.
+الحصول على إيقافات التبويب للنص.
 
 ```csharp
 public TabStops TabStops { get; }
@@ -16,7 +16,7 @@ public TabStops TabStops { get; }
 
 ## ملاحظات
 
-لاحظ أن خاصية نقاط التوقف تعمل فقط في سيناريوهات إنشاء مستندات جديدة. يمكن إضافة نقاط التوقف أثناء تهيئة [`TextFragment`](../../textfragment/). يجب إنشاء نقاط التوقف قبل النص.
+لاحظ أن خاصية Tabstops تعمل فقط في سيناريوهات إنشاء المستندات الجديدة. قد تتم إضافة Tabstops أثناء تهيئة [`TextFragment`](../../textfragment/). يجب إنشاء Tabstops قبل النص.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public TabStops TabStops { get; }
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

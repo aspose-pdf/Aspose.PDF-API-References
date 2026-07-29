@@ -1,14 +1,14 @@
 ---
-title: SetLineWidth.Width
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SetLineWidth. تحصل أو تعين عرض الخط
+title: "SetLineWidth.Width"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SetLineWidth. تحصل أو تعين عرض الخط"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/setlinewidth/width/
 ---
-## خاصية SetLineWidth.Width
+## SetLineWidth.Width property
 
-تحصل أو تعين عرض الخط.
+يحصل أو يعيّن عرض الخط.
 
 ```csharp
 public double Width { get; set; }
@@ -19,3 +19,5 @@ public double Width { get; set; }
 * class [SetLineWidth](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

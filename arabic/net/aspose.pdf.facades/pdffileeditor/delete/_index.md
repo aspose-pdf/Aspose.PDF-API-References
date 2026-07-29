@@ -1,37 +1,37 @@
 ---
-title: PdfFileEditor.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileEditor. تحذف الصفحات المحددة بواسطة مصفوفة الأرقام من ملف الإدخال وتحفظ كملف Pdf جديد
+title: "PdfFileEditor.Delete"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileEditor. تحذف الصفحات المحددة بمصفوفة الأرقام من ملف الإدخال وتحفظها كملف Pdf جديد."
 type: docs
 weight: 270
 url: /ar/net/aspose.pdf.facades/pdffileeditor/delete/
 ---
 ## Delete(string, int[], string) {#delete_1}
 
-تحذف الصفحات المحددة بواسطة مصفوفة الأرقام من ملف الإدخال، وتحفظ كملف Pdf جديد.
+يحذف الصفحات المحددة بمصفوفة الأرقام من ملف الإدخال، ويحفظها كملف Pdf جديد.
 
 ```csharp
 public bool Delete(string inputFile, int[] pageNumber, string outputFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | inputFile | String | مسار ملف الإدخال. |
-| pageNumber | Int32[] | فهرس الصفحة من ملف الإدخال. |
+| pageNumber | Int32[] | فهرس الصفحة خارج ملف الإدخال. |
 | outputFile | String | مسار ملف الإخراج. |
 
-### Return Value
+### قيمة الإرجاع
 
-True إذا كانت العملية ناجحة.
+True إذا نجحت العملية.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.Delete("input.pdf", new int[] { 2, 3 }, "out.pdf");
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -41,23 +41,23 @@ pfe.Delete("input.pdf", new int[] { 2, 3 }, "out.pdf");
 
 ## Delete(Stream, int[], Stream) {#delete}
 
-تحذف الصفحات المحددة بواسطة مصفوفة الأرقام من ملف الإدخال، وتحفظ كملف Pdf جديد.
+يحذف الصفحات المحددة بمصفوفة الأرقام من ملف الإدخال، ويحفظها كملف Pdf جديد.
 
 ```csharp
 public bool Delete(Stream inputStream, int[] pageNumber, Stream outputStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputStream | Stream | تدفق ملف الإدخال. |
-| pageNumber | Int32[] | فهرس الصفحة من ملف الإدخال. |
-| outputStream | Stream | تدفق ملف الإخراج. |
+| inputStream | Stream | دفق ملف الإدخال. |
+| pageNumber | Int32[] | فهرس الصفحة خارج ملف الإدخال. |
+| outputStream | Stream | دفق ملف الإخراج. |
 
-### Return Value
+### قيمة الإرجاع
 
-True للنجاح، أو false.
+صحيح إذا نجح، أو خطأ.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -66,8 +66,10 @@ Stream outputStream = new FileStream("output.pdf", FileMode.Create, FileAccess.W
 pfe.Delete(inputStream, new int[] { 2, 3 }, outputStream);
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

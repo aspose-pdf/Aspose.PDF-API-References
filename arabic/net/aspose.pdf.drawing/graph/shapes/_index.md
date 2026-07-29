@@ -1,14 +1,14 @@
 ---
-title: Graph.Shapes
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الرسم البياني. تحصل أو تعين مجموعة الأشكال التي تشير إلى جميع الأشكال في الرسم البياني
+title: "Graph.Shapes"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Graph. يحصل أو يضبط مجموعة Shapes التي تشير إلى جميع الأشكال في الرسم البياني"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.drawing/graph/shapes/
 ---
-## خاصية Graph.Shapes
+## Graph.Shapes property
 
-تحصل أو تعين مجموعة `Shapes` التي تشير إلى جميع الأشكال في الرسم البياني.
+يحصل أو يضبط مجموعة `Shapes` التي تشير إلى جميع الأشكال في الرسم البياني.
 
 ```csharp
 public BoundsCheckableList<Shape> Shapes { get; set; }
@@ -21,3 +21,5 @@ public BoundsCheckableList<Shape> Shapes { get; set; }
 * class [Graph](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

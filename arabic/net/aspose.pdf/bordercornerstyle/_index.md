@@ -1,27 +1,29 @@
 ---
-title: Enum BorderCornerStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BorderCornerStyle enum. تعدد أنماط زوايا الحدود للحدود
+title: "تعداد BorderCornerStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.BorderCornerStyle. يعدد أنماط زوايا الحدود للحد."
 type: docs
-weight: 2890
+weight: 3000
 url: /ar/net/aspose.pdf/bordercornerstyle/
 ---
 ## BorderCornerStyle enumeration
 
-تعدد أنماط زوايا الحدود للحدود.
+يعدّ أنماط زوايا الحدود.
 
 ```csharp
 public enum BorderCornerStyle
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| None | `0` | نمط حدود بدون. |
-| Round | `1` | نمط حدود دائري. |
+| None | `0` | نمط حد لا شيء. |
+| Round | `1` | نمط حد دائري. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

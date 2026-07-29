@@ -1,25 +1,25 @@
 ---
-title: SignOptions.SignOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SignOptions. يُهيئ مثيلًا جديدًا من كائن SignOptions مع خيارات افتراضية
+title: "SignOptions.SignOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SignOptions. يهيئ مثيلاً جديدًا لكائن SignOptions مع الخيارات الافتراضية"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/signoptions/signoptions/
 ---
 ## SignOptions(string, string) {#constructor_1}
 
-يُهيئ مثيلًا جديدًا من كائن [`SignOptions`](../) مع خيارات افتراضية.
+يهيئ مثيلاً جديدًا لكائن [`SignOptions`](../) مع الخيارات الافتراضية.
 
 ```csharp
 public SignOptions(string pfx, string password)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | pfx | String | المسار إلى ملف pfx. |
 | password | String | كلمة المرور لملف pfx. |
 
-### See Also
+### انظر أيضًا
 
 * class [SignOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
@@ -29,19 +29,21 @@ public SignOptions(string pfx, string password)
 
 ## SignOptions(Stream, string) {#constructor}
 
-يُهيئ مثيلًا جديدًا من كائن [`SignOptions`](../) مع خيارات افتراضية.
+يهيئ مثيلاً جديدًا لكائن [`SignOptions`](../) مع الخيارات الافتراضية.
 
 ```csharp
 public SignOptions(Stream pfx, string password)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pfx | Stream | الدفق مع ملف pfx. |
+| pfx | Stream | الدفق الذي يحتوي على ملف pfx. |
 | password | String | كلمة المرور لملف pfx. |
 
-### See Also
+### انظر أيضًا
 
 * class [SignOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

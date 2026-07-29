@@ -1,14 +1,14 @@
 ---
-title: Signature.Signature
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ التوقيع. المُنشئ الافتراضي
+title: "Signature.Signature"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Signature. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/signature/signature/
 ---
-## مُنشئ التوقيع
+## Signature constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public Signature()
@@ -19,3 +19,5 @@ public Signature()
 * class [Signature](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Metadata.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية البيانات الوصفية. تحصل على كائن مزامنة المجموعة
+title: "Metadata.SyncRoot"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Metadata. تحصل على كائن مزامنة المجموعة."
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/metadata/syncroot/
 ---
-## خاصية Metadata.SyncRoot
+## Metadata.SyncRoot property
 
-تحصل على كائن مزامنة المجموعة.
+يسترجع كائن مزامنة المجموعة.
 
 ```csharp
 public object SyncRoot { get; }
@@ -19,3 +19,5 @@ public object SyncRoot { get; }
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

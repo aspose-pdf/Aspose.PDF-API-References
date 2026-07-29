@@ -1,14 +1,14 @@
 ---
-title: RadioButtonOptionField.OptionName
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RadioButtonOptionField. تحصل أو تعين اسم الخيار
+title: "RadioButtonOptionField.OptionName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RadioButtonOptionField. يحصل أو يضبط اسم الخيار"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.forms/radiobuttonoptionfield/optionname/
 ---
-## خاصية RadioButtonOptionField.OptionName
+## RadioButtonOptionField.OptionName property
 
-تحصل أو تعين اسم الخيار.
+يحصل أو يعيّن اسم الخيار.
 
 ```csharp
 public string OptionName { get; set; }
@@ -19,3 +19,5 @@ public string OptionName { get; set; }
 * class [RadioButtonOptionField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.AlignRight
-second_title: Aspose.PDF for .NET API Reference
-description: حقل FormFieldFacade. يحدد المحاذاة إلى اليمين
+title: "FormFieldFacade.AlignRight"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FormFieldFacade حقل. يحدد نمط محاذاة إلى اليمين"
 type: docs
 weight: 260
 url: /ar/net/aspose.pdf.facades/formfieldfacade/alignright/
 ---
-## حقل FormFieldFacade.AlignRight
+## FormFieldFacade.AlignRight field
 
-يحدد المحاذاة إلى اليمين.
+يحدد المحاذاة إلى نمط اليمين.
 
 ```csharp
 public const int AlignRight;
@@ -19,3 +19,5 @@ public const int AlignRight;
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

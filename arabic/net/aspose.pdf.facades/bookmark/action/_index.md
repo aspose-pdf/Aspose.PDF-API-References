@@ -1,14 +1,14 @@
 ---
-title: Bookmark.Action
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الإشارة المرجعية. تحصل أو تعين الإجراء المرتبط بالإشارة المرجعية. إذا تم تقديم رقم الصفحة، لا يمكن تحديد الإجراء. نوع الإجراء يشمل "GoTo"، "GoToR"، "Launch"، "Named".
+title: "Bookmark.Action"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Bookmark. تحصل أو تعيين الإجراء المرتبط بالإشارة. إذا تم تقديم PageNumber لا يمكن تحديد الإجراء. نوع الإجراء يشمل GoTo و GoToR و Launch و Named"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.facades/bookmark/action/
 ---
-## خاصية Bookmark.Action
+## Bookmark.Action property
 
-تحصل أو تعين الإجراء المرتبط بالإشارة المرجعية. إذا تم تقديم رقم الصفحة، لا يمكن تحديد الإجراء. نوع الإجراء يشمل: "GoTo"، "GoToR"، "Launch"، "Named".
+يحصل أو يضبط الإجراء المرتبط بالإشارة المرجعية. إذا تم تقديم PageNumber لا يمكن تحديد الإجراء. نوع الإجراء يشمل: "GoTo", "GoToR", "Launch", "Named".
 
 ```csharp
 public string Action { get; set; }
@@ -19,3 +19,5 @@ public string Action { get; set; }
 * class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

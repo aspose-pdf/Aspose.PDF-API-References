@@ -1,14 +1,14 @@
 ---
-title: TextFragment.ReplaceOptions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragment. تحصل على خيارات استبدال النص. تحدد الخيارات السلوك عند استبدال نص الجزء إلى نص أقصر/أطول
+title: "TextFragment.ReplaceOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "TextFragment خاصية. يحصل على خيارات استبدال النص. الخيارات تحدد السلوك عندما يتم استبدال نص الجزء إلى أقصر/أطول"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.text/textfragment/replaceoptions/
 ---
-## خاصية TextFragment.ReplaceOptions
+## TextFragment.ReplaceOptions property
 
-تحصل على خيارات استبدال النص. تحدد الخيارات السلوك عند استبدال نص الجزء إلى نص أقصر/أطول.
+يحصل على خيارات استبدال النص. تحدد الخيارات السلوك عندما يتم استبدال نص الجزء إلى أقصر أو أطول.
 
 ```csharp
 public TextReplaceOptions ReplaceOptions { get; }
@@ -20,3 +20,5 @@ public TextReplaceOptions ReplaceOptions { get; }
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

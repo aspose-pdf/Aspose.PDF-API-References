@@ -1,14 +1,14 @@
 ---
-title: TableAbsorber.TableList
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TableAbsorber. تعيد IList للقراءة فقط تحتوي على الجداول التي تم العثور عليها
+title: "TableAbsorber.TableList"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TableAbsorber. تُرجِع IList للقراءة فقط يحتوي على الجداول التي تم العثور عليها"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.text/tableabsorber/tablelist/
 ---
-## خاصية TableAbsorber.TableList
+## TableAbsorber.TableList property
 
-تعيد IList للقراءة فقط تحتوي على الجداول التي تم العثور عليها
+يرجع IList للقراءة فقط يحتوي على الجداول التي تم العثور عليها
 
 ```csharp
 public virtual IList<AbsorbedTable> TableList { get; }
@@ -20,3 +20,5 @@ public virtual IList<AbsorbedTable> TableList { get; }
 * class [TableAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

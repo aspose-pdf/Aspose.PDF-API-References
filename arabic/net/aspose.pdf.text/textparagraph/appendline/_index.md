@@ -1,7 +1,7 @@
 ---
-title: TextParagraph.AppendLine
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TextParagraph. يضيف سطر نص
+title: "TextParagraph.AppendLine"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TextParagraph. يضيف سطر نص"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.text/textparagraph/appendline/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.pdf.text/textparagraph/appendline/
 public void AppendLine(string line)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| line | String | نص السطر الجديد. |
+| سطر | String | نص السطر الجديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -34,12 +34,12 @@ public void AppendLine(string line)
 public void AppendLine(string line, float lineSpacing)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| line | String | نص السطر الجديد. |
-| lineSpacing | Single | تباعد إضافي (0.0 هو الافتراضي ويتوافق مع ارتفاع سطر النص الافتراضي). يتم إضافة قيمة التباعد إلى تباعد السطر الافتراضي للسطر المحدد، لذا يمكنك تحديد 12.0 للحصول على صف فارغ بعد سطر نص مرسوم بخط 12pt. |
+| سطر | String | نص السطر الجديد. |
+| lineSpacing | Single | مسافة إضافية (0.0 هي القيمة الافتراضية وتطابق ارتفاع سطر النص الافتراضي). يتم إضافة قيمة المسافة إلى تباعد الأسطر الافتراضي للسطر المحدد، لذا يمكنك تحديد 12.0 للحصول على صف فارغ بعد سطر نص مرسوم بخط 12pt. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -55,12 +55,12 @@ public void AppendLine(string line, float lineSpacing)
 public void AppendLine(string line, TextState textState)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| line | String | نص السطر الجديد. |
+| سطر | String | نص السطر الجديد. |
 | textState | TextState | حالة النص للسطر الجديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextState](../../textstate/)
 * class [TextParagraph](../)
@@ -77,13 +77,13 @@ public void AppendLine(string line, TextState textState)
 public void AppendLine(string line, TextState textState, float lineSpacing)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| line | String | نص السطر الجديد. |
+| سطر | String | نص السطر الجديد. |
 | textState | TextState | حالة النص للسطر الجديد. |
-| lineSpacing | Single | تباعد إضافي (0.0 هو الافتراضي ويتوافق مع ارتفاع سطر النص الافتراضي). يتم إضافة قيمة التباعد إلى تباعد السطر الافتراضي للسطر المحدد، لذا يمكنك تحديد 12.0 للحصول على صف فارغ بعد سطر نص مرسوم بخط 12pt. |
+| lineSpacing | Single | مسافة إضافية (0.0 هي القيمة الافتراضية وتطابق ارتفاع سطر النص الافتراضي). يتم إضافة قيمة المسافة إلى تباعد الأسطر الافتراضي للسطر المحدد، لذا يمكنك تحديد 12.0 للحصول على صف فارغ بعد سطر نص مرسوم بخط 12pt. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextState](../../textstate/)
 * class [TextParagraph](../)
@@ -100,11 +100,11 @@ public void AppendLine(string line, TextState textState, float lineSpacing)
 public void AppendLine(TextFragment line)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| line | TextFragment | نص السطر الجديد. |
+| سطر | TextFragment | نص السطر الجديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextFragment](../../textfragment/)
 * class [TextParagraph](../)
@@ -121,12 +121,12 @@ public void AppendLine(TextFragment line)
 public void AppendLine(TextFragment line, TextState textState)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| line | TextFragment | نص السطر الجديد. |
+| سطر | TextFragment | نص السطر الجديد. |
 | textState | TextState | حالة النص للسطر الجديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextFragment](../../textfragment/)
 * class [TextState](../../textstate/)
@@ -144,16 +144,18 @@ public void AppendLine(TextFragment line, TextState textState)
 public void AppendLine(TextFragment line, TextState textState, float lineSpacing)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| line | TextFragment | نص السطر الجديد. |
+| سطر | TextFragment | نص السطر الجديد. |
 | textState | TextState | حالة النص للسطر الجديد. |
-| lineSpacing | Single | تباعد إضافي (0.0 هو الافتراضي ويتوافق مع ارتفاع سطر النص الافتراضي). يتم إضافة قيمة التباعد إلى تباعد السطر الافتراضي للسطر المحدد، لذا يمكنك تحديد 12.0 للحصول على صف فارغ بعد سطر نص مرسوم بخط 12pt. |
+| lineSpacing | Single | مسافة إضافية (0.0 هي القيمة الافتراضية وتطابق ارتفاع سطر النص الافتراضي). يتم إضافة قيمة المسافة إلى تباعد الأسطر الافتراضي للسطر المحدد، لذا يمكنك تحديد 12.0 للحصول على صف فارغ بعد سطر نص مرسوم بخط 12pt. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextFragment](../../textfragment/)
 * class [TextState](../../textstate/)
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CompromiseCheckResult.HasCompromisedSignatures
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CompromiseCheckResult. تشير إلى ما إذا كانت هناك أي توقيعات رقمية مخترقة في الوثيقة. تعيد true إذا كانت هناك على الأقل توقيعة واحدة مخترقة، وإلا false
+title: "CompromiseCheckResult.HasCompromisedSignatures"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CompromiseCheckResult. تشير إلى ما إذا كان هناك أي توقيعات رقمية مخترقة في document. تُرجع true إذا كان هناك توقيع واحد على الأقل مخترق وإلا false"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.signatures/compromisecheckresult/hascompromisedsignatures/
 ---
-## خاصية CompromiseCheckResult.HasCompromisedSignatures
+## CompromiseCheckResult.HasCompromisedSignatures property
 
-تشير إلى ما إذا كانت هناك أي توقيعات رقمية مخترقة في الوثيقة. تعيد true إذا كانت هناك على الأقل توقيعة واحدة مخترقة؛ وإلا، false.
+يشير ما إذا كان هناك أي توقيعات رقمية مخترقة في المستند. يرجع true إذا كان هناك توقيع واحد على الأقل مخترق؛ وإلا false.
 
 ```csharp
 public bool HasCompromisedSignatures { get; }
@@ -19,3 +19,5 @@ public bool HasCompromisedSignatures { get; }
 * class [CompromiseCheckResult](../)
 * namespace [Aspose.Pdf.Signatures](../../../aspose.pdf.signatures/)
 * assembly [Aspose.PDF](../../../)
+
+

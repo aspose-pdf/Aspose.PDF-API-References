@@ -1,7 +1,7 @@
 ---
-title: TextState.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TextState. ينشئ كائن حالة النص
+title: "TextState.TextState"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "TextState منشئ. ينشئ كائن حالة النص"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/textstate/textstate/
@@ -30,7 +30,7 @@ public TextState()
 public TextState(double fontSize)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fontSize | Double | حجم الخط. |
 
@@ -50,7 +50,7 @@ public TextState(double fontSize)
 public TextState(Color foregroundColor)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | foregroundColor | Color | لون المقدمة. |
 
@@ -70,7 +70,7 @@ public TextState(Color foregroundColor)
 public TextState(Color foregroundColor, double fontSize)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | foregroundColor | Color | لون المقدمة. |
 | fontSize | Double | حجم الخط. |
@@ -91,7 +91,7 @@ public TextState(Color foregroundColor, double fontSize)
 public TextState(string fontFamily)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fontFamily | String | عائلة الخط. |
 
@@ -105,17 +105,17 @@ public TextState(string fontFamily)
 
 ## TextState(string, bool, bool) {#constructor_5}
 
-ينشئ كائن حالة النص مع تحديد عائلة الخط وأسلوب الخط.
+ينشئ كائن حالة النص مع تحديد عائلة الخط ونمط الخط.
 
 ```csharp
 public TextState(string fontFamily, bool bold, bool italic)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fontFamily | String | عائلة الخط. |
-| bold | Boolean | أسلوب خط عريض. |
-| italic | Boolean | أسلوب خط مائل. |
+| غامق | Boolean | نمط الخط الغامق. |
+| مائل | Boolean | نمط الخط المائل. |
 
 ### انظر أيضًا
 
@@ -133,7 +133,7 @@ public TextState(string fontFamily, bool bold, bool italic)
 public TextState(string fontFamily, double fontSize)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fontFamily | String | عائلة الخط. |
 | fontSize | Double | حجم الخط. |
@@ -143,3 +143,5 @@ public TextState(string fontFamily, double fontSize)
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

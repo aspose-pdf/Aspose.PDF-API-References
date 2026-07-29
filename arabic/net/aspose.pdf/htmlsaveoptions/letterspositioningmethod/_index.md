@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.LettersPositioningMethod
-second_title: Aspose.PDF for .NET API Reference
-description: حقل HtmlSaveOptions. يحدد وضعية حروف الكلمات في HTML الناتج
+title: "HtmlSaveOptions.LettersPositioningMethod"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل HtmlSaveOptions. يحدد وضعية تموضع الأحرف داخل الكلمات في HTML الناتج."
 type: docs
 weight: 350
 url: /ar/net/aspose.pdf/htmlsaveoptions/letterspositioningmethod/
 ---
-## حقل HtmlSaveOptions.LettersPositioningMethod
+## HtmlSaveOptions.LettersPositioningMethod field
 
-يحدد وضعية حروف الكلمات في HTML الناتج
+يضبط وضعية تموضع الحروف في الكلمات في HTML الناتج
 
 ```csharp
 public LettersPositioningMethods LettersPositioningMethod;
@@ -20,3 +20,5 @@ public LettersPositioningMethods LettersPositioningMethod;
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

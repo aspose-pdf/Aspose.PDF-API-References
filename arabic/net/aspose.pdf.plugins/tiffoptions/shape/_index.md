@@ -1,20 +1,20 @@
 ---
-title: TiffOptions.Shape
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TiffOptions. تحصل أو تعين نوع الشكل
+title: "TiffOptions.Shape"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TiffOptions. تحصل أو تعين نوع الشكل"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.plugins/tiffoptions/shape/
 ---
-## خاصية TiffOptions.Shape
+## TiffOptions.Shape property
 
-تحصل أو تعين نوع الشكل.
+احصل أو عيّن نوع الشكل.
 
 ```csharp
 public ShapeType Shape { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 نوع الشكل.
 
@@ -28,3 +28,5 @@ public ShapeType Shape { get; set; }
 * class [TiffOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

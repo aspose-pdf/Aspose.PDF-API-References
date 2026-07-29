@@ -1,14 +1,14 @@
 ---
-title: TextReplaceOptions.AdjustmentNewLineSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextReplaceOptions. تحصل أو تعين قيمة تباعد الأسطر المستخدمة إذا تم إجبار تعديل الاستبدال على إنشاء سطر جديد من النص. القيمة المتوقعة هي مضاعف لحجم خط النص المستبدل. القيمة الافتراضية هي 1.2
+title: "TextReplaceOptions.AdjustmentNewLineSpacing"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextReplaceOptions. يحصل أو يضبط قيمة تباعد الأسطر التي تُستخدم إذا تم إجبار تعديل الاستبدال على إنشاء سطر جديد من النص. القيمة المتوقعة هي مضاعف حجم الخط للنص المستبدل. القيمة الافتراضية هي 1.2"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.text/textreplaceoptions/adjustmentnewlinespacing/
 ---
-## خاصية TextReplaceOptions.AdjustmentNewLineSpacing
+## TextReplaceOptions.AdjustmentNewLineSpacing property
 
-تحصل أو تعين قيمة تباعد الأسطر المستخدمة إذا تم إجبار تعديل الاستبدال على إنشاء سطر جديد من النص. القيمة المتوقعة هي مضاعف لحجم خط النص المستبدل. القيمة الافتراضية هي 1.2.
+يحصل أو يعيّن قيمة تباعد الأسطر المستخدمة إذا تم إجبار تعديل الاستبدال على إنشاء سطر نص جديد. القيمة المتوقعة هي مضاعف حجم الخط للنص المستبدل. القيمة الافتراضية هي 1.2.
 
 ```csharp
 public double AdjustmentNewLineSpacing { get; set; }
@@ -19,3 +19,5 @@ public double AdjustmentNewLineSpacing { get; set; }
 * class [TextReplaceOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

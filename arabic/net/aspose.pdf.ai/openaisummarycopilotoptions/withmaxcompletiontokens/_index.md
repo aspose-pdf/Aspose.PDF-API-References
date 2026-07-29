@@ -1,29 +1,31 @@
 ---
-title: OpenAISummaryCopilotOptions.WithMaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAISummaryCopilotOptions. تعيين الحد الأقصى لرموز الإكمال لخيارات مساعد الملخص
+title: "OpenAISummaryCopilotOptions.WithMaxCompletionTokens"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAISummaryCopilotOptions. تحدد الحد الأقصى لرموز الإكمال لخيارات المساعد الملخص."
 type: docs
-weight: 90
+weight: 100
 url: /ar/net/aspose.pdf.ai/openaisummarycopilotoptions/withmaxcompletiontokens/
 ---
-## طريقة OpenAISummaryCopilotOptions.WithMaxCompletionTokens
+## OpenAISummaryCopilotOptions.WithMaxCompletionTokens method
 
-تعيين الحد الأقصى لرموز الإكمال لخيارات مساعد الملخص.
+يضبط الحد الأقصى لرموز الإكمال لخيارات المساعد الملخص.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithMaxCompletionTokens(int? maxCompletionTokens)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| maxCompletionTokens | Nullable`1 | الحد الأقصى لرموز الإكمال للتعيين. |
+| maxCompletionTokens | Nullable`1 | الحد الأقصى لعدد الرموز المكتملة لتعيينه. |
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAISummaryCopilotOptions`](../).
+العنصر الحالي من [`OpenAISummaryCopilotOptions`](../).
 
 ### انظر أيضًا
 
-* الفئة [OpenAISummaryCopilotOptions](../)
-* مساحة الأسماء [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.Permissions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. تحصل على أذونات الوثيقة
+title: "Document.Permissions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Document property. يحصل على أذونات المستند"
 type: docs
-weight: 490
+weight: 510
 url: /ar/net/aspose.pdf/document/permissions/
 ---
-## خاصية Document.Permissions
+## Document.Permissions property
 
-تحصل على أذونات الوثيقة.
+يحصل على أذونات المستند.
 
 ```csharp
 public int Permissions { get; }
@@ -19,3 +19,5 @@ public int Permissions { get; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

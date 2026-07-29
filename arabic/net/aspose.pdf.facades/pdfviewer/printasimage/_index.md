@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PrintAsImage
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfViewer. تعيين أو الحصول على وضع لـ PdfViewer للطباعة كصورة
+title: "PdfViewer.PrintAsImage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfViewer. تعين أو تحصل على وضع لطباعة PdfViewer كصورة"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.facades/pdfviewer/printasimage/
 ---
-## خاصية PdfViewer.PrintAsImage
+## PdfViewer.PrintAsImage property
 
-تعيين أو الحصول على وضع لـ PdfViewer للطباعة كصورة.
+يعيّن أو يحصل على وضع لطباعة PdfViewer كصورة.
 
 ```csharp
 public bool PrintAsImage { get; set; }
@@ -16,10 +16,12 @@ public bool PrintAsImage { get; set; }
 
 ## ملاحظات
 
-إذا كانت القيمة صحيحة، يتم الطباعة دائمًا كصورة (يتم إنشاء صورة يتم طباعتها). إذا كانت القيمة خاطئة، يتم الطباعة مباشرة إلى الجهاز إذا كانت جميع الميزات مدعومة. في حالة احتواء المستند على ميزات غير مدعومة، قد يقرر النظام تلقائيًا الطباعة كصورة. القيمة الافتراضية هي خاطئة.
+إذا كان true يتم الطباعة دائمًا كصورة (يولد صورة تُطبع) إذا كان false يتم الطباعة مباشرة إلى الجهاز إذا كانت جميع الميزات مدعومة. في حالة احتواء المستند على ميزات غير مدعومة قد يقرر النظام تلقائيًا الطباعة كصورة. القيمة الافتراضية هي false.
 
 ### انظر أيضًا
 
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

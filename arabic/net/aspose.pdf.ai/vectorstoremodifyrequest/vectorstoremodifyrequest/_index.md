@@ -1,14 +1,14 @@
 ---
-title: VectorStoreModifyRequest.VectorStoreModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ VectorStoreModifyRequest. المُنشئ الافتراضي
+title: "VectorStoreModifyRequest.VectorStoreModifyRequest"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ VectorStoreModifyRequest. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/vectorstoremodifyrequest/vectorstoremodifyrequest/
 ---
-## مُنشئ VectorStoreModifyRequest
+## VectorStoreModifyRequest constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public VectorStoreModifyRequest()
@@ -19,3 +19,5 @@ public VectorStoreModifyRequest()
 * class [VectorStoreModifyRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

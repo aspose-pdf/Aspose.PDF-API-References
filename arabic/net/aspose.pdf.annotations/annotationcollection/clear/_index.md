@@ -1,14 +1,14 @@
 ---
-title: AnnotationCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة AnnotationCollection. تحذف جميع التعليقات التوضيحية من المجموعة
+title: "AnnotationCollection.Clear"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة AnnotationCollection. تحذف جميع annotations من المجموعة."
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.annotations/annotationcollection/clear/
 ---
-## طريقة AnnotationCollection.Clear
+## AnnotationCollection.Clear method
 
-تحذف جميع التعليقات التوضيحية من المجموعة.
+يحذف جميع التعليقات من المجموعة.
 
 ```csharp
 public void Clear()
@@ -19,3 +19,5 @@ public void Clear()
 * class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ResponseFormat.IsObjectValue
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ResponseFormat. تحصل على قيمة تشير إلى ما إذا كان تنسيق الاستجابة هو قيمة كائن
+title: "ResponseFormat.IsObjectValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ResponseFormat. تحصل على قيمة تشير إلى ما إذا كان تنسيق الاستجابة قيمة كائن"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/responseformat/isobjectvalue/
 ---
-## خاصية ResponseFormat.IsObjectValue
+## ResponseFormat.IsObjectValue property
 
-تحصل على قيمة تشير إلى ما إذا كان تنسيق الاستجابة هو قيمة كائن.
+يحصل على قيمة تشير إلى ما إذا كان تنسيق الاستجابة قيمة كائن.
 
 ```csharp
 public bool IsObjectValue { get; }
@@ -19,3 +19,5 @@ public bool IsObjectValue { get; }
 * class [ResponseFormat](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class IncompleteDetails
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.IncompleteDetails. تفاصيل حول سبب عدم اكتمال التشغيل. ستكون null إذا لم يكن التشغيل غير مكتمل
+title: "الفئة IncompleteDetails"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.AI.IncompleteDetails. تفاصيل سبب عدم اكتمال العملية. ستكون Null إذا لم تكن العملية غير مكتملة."
 type: docs
-weight: 650
+weight: 700
 url: /ar/net/aspose.pdf.ai/incompletedetails/
 ---
-## فئة IncompleteDetails
+## IncompleteDetails class
 
-تفاصيل حول سبب عدم اكتمال التشغيل. ستكون null إذا لم يكن التشغيل غير مكتمل.
+تفاصيل حول سبب عدم اكتمال العملية. ستكون فارغة إذا لم تكن العملية غير مكتملة.
 
 ```csharp
 public class IncompleteDetails
@@ -18,15 +18,17 @@ public class IncompleteDetails
 
 | الاسم | الوصف |
 | --- | --- |
-| [IncompleteDetails](incompletedetails/)() | المنشئ الافتراضي. |
+| [IncompleteDetails](incompletedetails/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Reason](../../aspose.pdf.ai/incompletedetails/reason/) { get; set; } | يحصل أو يحدد السبب في عدم اكتمال الرسالة. |
+| [Reason](../../aspose.pdf.ai/incompletedetails/reason/) { get; set; } | يحصل أو يعيّن السبب وراء عدم اكتمال الرسالة. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

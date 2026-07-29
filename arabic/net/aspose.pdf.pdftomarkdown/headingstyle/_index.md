@@ -1,27 +1,29 @@
 ---
-title: Enum HeadingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfToMarkdown.HeadingStyle enum. يحدد أنماط التسلسل المتاحة للعناوين. لمزيد من التفاصيل، انظر CommonMark - ATX headings و CommonMark - Setext headings
+title: "عدد HeadingStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.PdfToMarkdown.HeadingStyle عدد. يحدد أنماط التسلسل المتاحة للعناوين. للمواصفات راجع عناوين CommonMark ATX وعناوين CommonMark Setext."
 type: docs
 weight: 8390
 url: /ar/net/aspose.pdf.pdftomarkdown/headingstyle/
 ---
 ## HeadingStyle enumeration
 
-يحدد أنماط التسلسل المتاحة للعناوين. لمزيد من التفاصيل، انظر CommonMark - ATX headings و CommonMark - Setext headings.
+يحدد أنماط التسلسل المتاحة للعناوين. للمواصفات راجع CommonMark - ATX headings، أو CommonMark - Setext headings.
 
 ```csharp
 public enum HeadingStyle
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Atx | `0` | بادئة العناوين بـ '#' |
-| Setext | `1` | وضع خط تحت العناوين من المستوى 1 و 2 بـ "======" و "------" على التوالي |
+| Atx | `0` | أضف بادئة للعناوين باستخدام '#' |
+| Setext | `1` | ضع خطًا سفليًا لعناوين المستوى 1 و2 باستخدام "======" و "------" على التوالي |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.PdfToMarkdown](../../aspose.pdf.pdftomarkdown/)
 * assembly [Aspose.PDF](../../)
+
+

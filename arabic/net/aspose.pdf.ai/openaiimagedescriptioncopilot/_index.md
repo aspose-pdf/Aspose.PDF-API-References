@@ -1,27 +1,27 @@
 ---
-title: Class OpenAIImageDescriptionCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.OpenAIImageDescriptionCopilot. توفر وظائف معالجة الصور لفئة OpenAICopilot. مثال على استخدام إنشاء تكوين عميل OpenAI لخيارات ImageDescriptionCopilot واستخدام المساعد لتوليد أوصاف الصور وإضافة أوصاف إلى المستندات المرفقة
+title: "الفئة OpenAIImageDescriptionCopilot"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.AI.OpenAIImageDescriptionCopilot. توفر وظائف معالجة الصور لفئة OpenAICopilot. مثال على استخدام إنشاء تكوين عميل OpenAI لخيارات ImageDescriptionCopilot واستخدام المساعد لتوليد أوصاف الصور وإضافة الأوصاف إلى المستندات المرفقة."
 type: docs
-weight: 880
+weight: 940
 url: /ar/net/aspose.pdf.ai/openaiimagedescriptioncopilot/
 ---
 ## OpenAIImageDescriptionCopilot class
 
-توفر وظائف معالجة الصور لفئة OpenAICopilot. مثال على استخدام إنشاء عميل OpenAI، وتكوين خيارات ImageDescriptionCopilot، واستخدام المساعد لتوليد أوصاف الصور وإضافة أوصاف إلى المستندات المرفقة.
+يوفر وظائف معالجة الصور لفئة OpenAICopilot. مثال على الاستخدام لإنشاء عميل OpenAI، وتكوين خيارات ImageDescriptionCopilot، واستخدام المساعد لتوليد أوصاف الصور وإضافة أوصاف إلى المستندات المرفقة.
 
 ```csharp
-// Create AI client.
+// إنشاء عميل الذكاء الاصطناعي.
 var openAiClient = OpenAIClient
     .CreateWithApiKey(ApiKey) // Create OpenAI client with the API key.
     .WithProject("proj_RoywW1DLqDC89GoAW5ngoVN8") // Configure optional parameters.
     .WithOrganization("org_123")
     .Build(); // Build.
 
-// Create copilot options.
+// إنشاء خيارات المساعد.
 var options = OpenAIImageDescriptionCopilotOptions
     .Create() // Create options like this, or...
-    //.Create(options => { options.Model = OpenAIModels.Gpt35Turbo; }) // ...create using delegate.
+    //.Create(options => { options.Model = OpenAIModels.Gpt35Turbo; }) // ...إنشاء باستخدام المُفوض.
     .WithModel(OpenAIModels.Gpt35Turbo) // Configure other optional parameters.
     .WithTemperature(0.5)
     .WithTopP(1)
@@ -33,13 +33,13 @@ var options = OpenAIImageDescriptionCopilotOptions
     .WithDocument(GetInputPath("Mona_liza.jpg")) // Attach images
     .WithDocument(GetInputPath("Pdf_with_images.pdf")); // Attach document paths.
 
-// Create copilot.
+// إنشاء المساعد.
 var copilot = AICopilotFactory.CreateImageDescriptionCopilot(openAiClient, options);
 
-// Get Image descriptions.
+// احصل على أوصاف الصور.
 List<ImageDescriptionResult> imageDescriptions = await copilot.GetImageDescriptionsAsync();
 
-// Use extension method to add image descriptions to attached documents.
+// استخدم طريقة الامتداد لإضافة أوصاف الصور إلى المستندات المرفقة.
 await copilot.AddPdfImageDescriptionsAsync("DocumentsOutputDirectory");
 ```
 
@@ -47,26 +47,28 @@ await copilot.AddPdfImageDescriptionsAsync("DocumentsOutputDirectory");
 public class OpenAIImageDescriptionCopilot : IImageDescriptionCopilot
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [OpenAIImageDescriptionCopilot](openaiimagedescriptioncopilot/)(IOpenAIClient, IImageDescriptionCopilotOptions&lt;OpenAIImageDescriptionCopilotOptions&gt;) | يقوم بتهيئة مثيل جديد من فئة `OpenAIImageDescriptionCopilot`. |
+| [OpenAIImageDescriptionCopilot](openaiimagedescriptioncopilot/)(IOpenAIClient, IImageDescriptionCopilotOptions&lt;OpenAIImageDescriptionCopilotOptions&gt;) | يُهيئ مثيلاً جديداً من الفئة `OpenAIImageDescriptionCopilot`. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [HasContext](../../aspose.pdf.ai/openaiimagedescriptioncopilot/hascontext/) { get; } |  |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [GetImageDescriptionsAsync](../../aspose.pdf.ai/openaiimagedescriptioncopilot/getimagedescriptionsasync/)(CancellationToken?) |  |
 
-### See Also
+### انظر أيضًا
 
 * interface [IImageDescriptionCopilot](../iimagedescriptioncopilot/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

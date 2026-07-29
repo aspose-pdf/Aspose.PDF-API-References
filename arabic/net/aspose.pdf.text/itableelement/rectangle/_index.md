@@ -1,14 +1,14 @@
 ---
-title: ITableElement.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ITableElement. تحصل على المستطيل الذي يصف موقع عنصر الجدول على الصفحة
+title: "ITableElement.Rectangle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ITableElement. يحصل على Rectangle الذي يصف موضع عنصر الجدول على الصفحة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/itableelement/rectangle/
 ---
-## خاصية ITableElement.Rectangle
+## ITableElement.Rectangle property
 
-تحصل على المستطيل الذي يصف موقع عنصر الجدول على الصفحة
+يحصل على المستطيل الذي يصف موضع عنصر الجدول على الصفحة
 
 ```csharp
 public Rectangle Rectangle { get; }
@@ -20,3 +20,5 @@ public Rectangle Rectangle { get; }
 * interface [ITableElement](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

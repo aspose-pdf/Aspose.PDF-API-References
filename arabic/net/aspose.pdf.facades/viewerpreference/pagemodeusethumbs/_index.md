@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.PageModeUseThumbs
-second_title: Aspose.PDF for .NET API Reference
-description: حقل ViewerPreference. صور مصغرة مرئية
+title: "ViewerPreference.PageModeUseThumbs"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل ViewerPreference. صور المصغرات مرئية"
 type: docs
 weight: 250
 url: /ar/net/aspose.pdf.facades/viewerpreference/pagemodeusethumbs/
 ---
-## حقل ViewerPreference.PageModeUseThumbs
+## ViewerPreference.PageModeUseThumbs field
 
-صور مصغرة مرئية.
+صور المصغرات مرئية.
 
 ```csharp
 public const int PageModeUseThumbs;
@@ -19,3 +19,5 @@ public const int PageModeUseThumbs;
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

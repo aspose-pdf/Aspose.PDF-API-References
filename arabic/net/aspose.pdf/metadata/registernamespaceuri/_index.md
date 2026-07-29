@@ -1,25 +1,25 @@
 ---
-title: Metadata.RegisterNamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة التعريف بالبيانات. تسجل URI المساحة الاسمية
+title: "Metadata.RegisterNamespaceUri"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Metadata. تسجل مساحة الاسم URI"
 type: docs
 weight: 190
 url: /ar/net/aspose.pdf/metadata/registernamespaceuri/
 ---
 ## RegisterNamespaceUri(string, string) {#registernamespaceuri}
 
-تسجل URI المساحة الاسمية.
+يسجل URI مساحة الاسم.
 
 ```csharp
 public void RegisterNamespaceUri(string prefix, string namespaceUri)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | prefix | String | قيمة البادئة. |
-| namespaceUri | String | قيمة URI المساحة الاسمية. |
+| namespaceUri | String | قيمة مساحة الاسم URI. |
 
-### See Also
+### انظر أيضًا
 
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -29,20 +29,22 @@ public void RegisterNamespaceUri(string prefix, string namespaceUri)
 
 ## RegisterNamespaceUri(string, string, string) {#registernamespaceuri_1}
 
-تسجل URI المساحة الاسمية.
+يسجل URI مساحة الاسم.
 
 ```csharp
 public void RegisterNamespaceUri(string prefix, string namespaceUri, string schemaDescription)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | prefix | String | قيمة البادئة. |
-| namespaceUri | String | قيمة URI المساحة الاسمية. |
+| namespaceUri | String | قيمة مساحة الاسم URI. |
 | schemaDescription | String | قيمة وصف المخطط. |
 
-### See Also
+### انظر أيضًا
 
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

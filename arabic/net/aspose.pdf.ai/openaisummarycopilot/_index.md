@@ -1,46 +1,46 @@
 ---
-title: Class OpenAISummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.OpenAISummaryCopilot. توفر وظائف للحصول على ملخصات الوثائق باستخدام نماذج الذكاء الاصطناعي. مثال على استخدام إنشاء عميل OpenAI وتكوين الخيارات واستخدام مساعد الملخص
+title: "الفئة OpenAISummaryCopilot"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.AI.OpenAISummaryCopilot. توفر وظائف للحصول على ملخصات المستندات باستخدام نماذج الذكاء الاصطناعي. مثال على استخدام إنشاء عميل OpenAI وتكوين الخيارات واستخدام المساعد الملخص."
 type: docs
-weight: 920
+weight: 1000
 url: /ar/net/aspose.pdf.ai/openaisummarycopilot/
 ---
 ## OpenAISummaryCopilot class
 
-توفر وظائف للحصول على ملخصات الوثائق باستخدام نماذج الذكاء الاصطناعي. مثال على استخدام إنشاء عميل OpenAI، وتكوين الخيارات، واستخدام مساعد الملخص.
+يوفر وظائف للحصول على ملخصات المستندات باستخدام نماذج الذكاء الاصطناعي. مثال على الاستخدام لإنشاء عميل OpenAI، وتكوين الخيارات، واستخدام مساعد الملخص.
 
 ```csharp
-// Create AI client.
+// إنشاء عميل الذكاء الاصطناعي.
 var openAiClient = OpenAIClient
     .CreateWithApiKey(ApiKey) // Create OpenAI client with the API key.
     .WithProject("proj_RoywW1DLqDC89GoAW5ngoVN8") // Configure optional parameters.
     .Build();
 
-// Create copilot options.
+// إنشاء خيارات المساعد.
 var options = OpenAISummaryCopilotOptions
     .Create() // Create options like this, or...
-    //.Create(options => { options.Model = OpenAIModels.Gpt35Turbo; }) // ...create using delegate.
+    //.Create(options => { options.Model = OpenAIModels.Gpt35Turbo; }) // ...إنشاء باستخدام المُفوض.
     .WithTemperature(0.5) // Configure other optional parameters.
     .WithDocument("DocumentInputPath") // .WithDocument methods allows to add text, pdf and paths to documents.
     .WithDocuments(new List<TextDocument>()); // .WithDocuments methods allows to add text, pdf and path collections.
 
-// Create summary copilot.
+// إنشاء مساعد الملخص.
 var summaryCopilot = AICopilotFactory.CreateSummaryCopilot(openAiClient, options);
 
-// Get summary text.
+// الحصول على نص الملخص.
 string summaryText = await summaryCopilot.GetSummaryAsync();
 
-// Get summary document.
+// الحصول على مستند الملخص.
 Document summaryDocument = await summaryCopilot.GetSummaryDocumentAsync();
 
-// Get summary document with page info.
+// الحصول على مستند الملخص مع معلومات الصفحة.
 Document summaryDocumentWithPageInfo = await summaryCopilot.GetSummaryDocumentAsync(new PageInfo());
 
-// Save summary as PDF document.
+// حفظ الملخص كملف PDF.
 await summaryCopilot.SaveSummaryAsync("outputPath");
 
-// Save summary with specified format.
+// حفظ الملخص بالتنسيق المحدد.
 await summaryCopilot.SaveSummaryAsync("outputPath", SaveFormat.DocX);
 ```
 
@@ -48,21 +48,21 @@ await summaryCopilot.SaveSummaryAsync("outputPath", SaveFormat.DocX);
 public class OpenAISummaryCopilot : ISummaryCopilot
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [OpenAISummaryCopilot](openaisummarycopilot/)(IOpenAIClient, ISummaryCopilotOptions&lt;OpenAISummaryCopilotOptions&gt;) | يقوم بتهيئة مثيل جديد من فئة `OpenAISummaryCopilot`. |
+| [OpenAISummaryCopilot](openaisummarycopilot/)(IOpenAIClient, ISummaryCopilotOptions&lt;OpenAISummaryCopilotOptions&gt;) | يُهيئ مثيلاً جديداً من الفئة `OpenAISummaryCopilot`. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [HasContext](../../aspose.pdf.ai/openaisummarycopilot/hascontext/) { get; } |  |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [GetSummaryAsync](../../aspose.pdf.ai/openaisummarycopilot/getsummaryasync/)(CancellationToken?) |  |
 | [GetSummaryDocumentAsync](../../aspose.pdf.ai/openaisummarycopilot/getsummarydocumentasync/#getsummarydocumentasync_1)(CancellationToken?) |  |
@@ -70,8 +70,10 @@ public class OpenAISummaryCopilot : ISummaryCopilot
 | [SaveSummaryAsync](../../aspose.pdf.ai/openaisummarycopilot/savesummaryasync/#savesummaryasync_1)(string, CancellationToken?) |  |
 | [SaveSummaryAsync](../../aspose.pdf.ai/openaisummarycopilot/savesummaryasync/#savesummaryasync)(string, SaveFormat, CancellationToken?) |  |
 
-### See Also
+### انظر أيضًا
 
 * interface [ISummaryCopilot](../isummarycopilot/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

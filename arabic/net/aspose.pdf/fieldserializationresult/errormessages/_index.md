@@ -1,20 +1,20 @@
 ---
-title: FieldSerializationResult.ErrorMessages
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FieldSerializationResult. تحصل على رسائل الخطأ المرتبطة بعملية التسلسل
+title: "FieldSerializationResult.ErrorMessages"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FieldSerializationResult. يحصل على رسائل الخطأ المرتبطة بعملية التسلسل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/fieldserializationresult/errormessages/
 ---
-## خاصية FieldSerializationResult.ErrorMessages
+## FieldSerializationResult.ErrorMessages property
 
-تحصل على رسائل الخطأ المرتبطة بعملية التسلسل.
+يحصل على رسائل الخطأ المرتبطة بعملية التسلسل.
 
 ```csharp
 public HashSet<string> ErrorMessages { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 مجموعة من رسائل الخطأ.
 
@@ -23,3 +23,5 @@ public HashSet<string> ErrorMessages { get; }
 * class [FieldSerializationResult](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OfdLoadOptions.OfdLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ OfdLoadOptions. المُنشئ الافتراضي
+title: "OfdLoadOptions.OfdLoadOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ OfdLoadOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/ofdloadoptions/ofdloadoptions/
 ---
-## مُنشئ OfdLoadOptions
+## OfdLoadOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public OfdLoadOptions()
@@ -19,3 +19,5 @@ public OfdLoadOptions()
 * class [OfdLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

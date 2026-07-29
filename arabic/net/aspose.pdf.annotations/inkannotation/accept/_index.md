@@ -1,22 +1,22 @@
 ---
-title: InkAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة InkAnnotation. تقبل كائن الزائر لمعالجة التعليق
+title: "InkAnnotation.Accept"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة InkAnnotation. تقبل كائن الزائر لمعالجة التعليق التوضيحي"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.annotations/inkannotation/accept/
 ---
-## طريقة InkAnnotation.Accept
+## InkAnnotation.Accept method
 
-تقبل كائن الزائر لمعالجة التعليق.
+يقبل كائن الزائر لمعالجة التعليق.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الزائر | AnnotationSelector | كائن الزائر. |
+| زائر | AnnotationSelector | كائن Visitor. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public override void Accept(AnnotationSelector visitor)
 * class [InkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

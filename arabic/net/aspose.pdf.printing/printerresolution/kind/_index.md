@@ -1,14 +1,14 @@
 ---
-title: PrinterResolution.Kind
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PrinterResolution. تحصل على قيمة تشير إلى نوع دقة الطابعة
+title: "PrinterResolution.Kind"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PrinterResolution. تحصل على قيمة تشير إلى نوع دقة الطابعة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.printing/printerresolution/kind/
 ---
-## خاصية PrinterResolution.Kind
+## PrinterResolution.Kind property
 
-تحصل على قيمة تشير إلى نوع دقة الطابعة.
+يحصل على قيمة تشير إلى نوع دقة الطابعة.
 
 ```csharp
 public PrinterResolutionKind Kind { get; set; }
@@ -20,3 +20,5 @@ public PrinterResolutionKind Kind { get; set; }
 * class [PrinterResolution](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

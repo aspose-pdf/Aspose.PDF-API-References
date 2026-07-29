@@ -1,12 +1,12 @@
 ---
-title: StructureAttribute.SetArrayNumberValue
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttribute method.
+title: "StructureAttribute.SetArrayNumberValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة StructureAttribute."
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.logicalstructure/structureattribute/setarraynumbervalue/
 ---
-## طريقة StructureAttribute.SetArrayNumberValue
+## StructureAttribute.SetArrayNumberValue method
 
 ```csharp
 public void SetArrayNumberValue(double?[] arrayNumber)
@@ -14,6 +14,8 @@ public void SetArrayNumberValue(double?[] arrayNumber)
 
 ### انظر أيضًا
 
-* فئة [StructureAttribute](../)
-* مساحة الاسم [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* التجميع [Aspose.PDF](../../../)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

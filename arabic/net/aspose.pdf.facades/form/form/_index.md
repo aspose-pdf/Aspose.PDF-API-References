@@ -1,14 +1,14 @@
 ---
-title: Form.Form
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ النموذج. مُنشئ النموذج بدون معلمات
+title: "Form.Form"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Form. مُنشئ Form بدون معلمات"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.facades/form/form/
 ---
 ## Form() {#constructor}
 
-مُنشئ النموذج بدون معلمات.
+منشئ Form بدون معلمات.
 
 ```csharp
 Form form = new Aspose.Pdf.Facades.Form();
@@ -29,13 +29,13 @@ public Form()
 
 ## Form(string) {#constructor_7}
 
-مُنشئ النموذج.
+منشئ Form.
 
 ```csharp
 public Form(string srcFileName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | srcFileName | String | مسار ملف المصدر. |
 
@@ -55,15 +55,15 @@ Form form = new Form("PdfForm.pdf");
 
 ## Form(Stream) {#constructor_4}
 
-مُنشئ للنموذج.
+منشئ للنموذج.
 
 ```csharp
 public Form(Stream srcStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| srcStream | Stream | تدفق المصدر. |
+| srcStream | Stream | دفق المصدر. |
 
 ## أمثلة
 
@@ -81,15 +81,15 @@ Form form = new Form(new FileStream("PdfForm.pdf", FileMode.Open, FileAccess.Rea
 
 ## Form(Document) {#constructor_1}
 
-يُهيئ كائن [`Form`](../) جديد بناءً على *المستند*.
+يُهيئ كائن [`Form`](../) جديد على أساس *المستند*.
 
 ```csharp
 public Form(Document document)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| document | Document | مستند PDF. |
+| document | Document | مستند Pdf. |
 
 ### انظر أيضًا
 
@@ -97,3 +97,5 @@ public Form(Document document)
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

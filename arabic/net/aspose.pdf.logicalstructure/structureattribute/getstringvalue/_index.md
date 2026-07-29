@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.GetStringValue
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة StructureAttribute. تحصل على قيمة السلسلة
+title: "StructureAttribute.GetStringValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة StructureAttribute. تحصل على قيمة السلسلة"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.logicalstructure/structureattribute/getstringvalue/
 ---
-## طريقة StructureAttribute.GetStringValue
+## StructureAttribute.GetStringValue method
 
-تحصل على قيمة السلسلة.
+يحصل على سلسلة القيمة.
 
 ```csharp
 public string GetStringValue()
@@ -23,3 +23,5 @@ public string GetStringValue()
 * class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

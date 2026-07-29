@@ -1,14 +1,14 @@
 ---
-title: StampInfo.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StampInfo. تحصل على المستطيل الذي يتم وضع الختم فيه
+title: "StampInfo.Rectangle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StampInfo. تحصل على المستطيل الذي وُضع فيه الطابع"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.facades/stampinfo/rectangle/
 ---
-## خاصية StampInfo.Rectangle
+## StampInfo.Rectangle property
 
-تحصل على المستطيل الذي يتم وضع الختم فيه.
+يحصل على المستطيل حيث تم وضع الطابع.
 
 ```csharp
 public Rectangle Rectangle { get; }
@@ -20,3 +20,5 @@ public Rectangle Rectangle { get; }
 * class [StampInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: Page.NoteLineStyle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصفحة. تحصل أو تعين نمط الخط للملحوظات.
+title: "Page.NoteLineStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Page. تحصل أو تعيين نمط الخط للملاحظات. للمولد فقط غير مملوء عند قراءة المستند"
 type: docs
 weight: 190
 url: /ar/net/aspose.pdf/page/notelinestyle/
 ---
-## خاصية Page.NoteLineStyle
+## Page.NoteLineStyle property
 
-تحصل أو تعين نمط الخط للملحوظات. (للمولد فقط، غير مملوء عند قراءة الوثيقة)
+يحصل أو يضبط نمط الخط للملاحظات. (للمولد فقط، لا يتم ملؤه عند قراءة المستند)
 
 ```csharp
 public GraphInfo NoteLineStyle { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-نمط الملحوظة.
+نمط الملاحظة.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public GraphInfo NoteLineStyle { get; set; }
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

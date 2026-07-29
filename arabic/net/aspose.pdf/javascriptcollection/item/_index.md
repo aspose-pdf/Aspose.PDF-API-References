@@ -1,29 +1,31 @@
 ---
-title: JavaScriptCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية JavaScriptCollection. يحصل أو يحدد JavaScript من المجموعة بواسطة مفتاحه
+title: "JavaScriptCollection.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية JavaScriptCollection. تحصل أو تعين JavaScript من المجموعة بحسب مفتاحه"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/javascriptcollection/item/
 ---
-## فهرس JavaScriptCollection
+## JavaScriptCollection indexer
 
-يحصل أو يحدد JavaScript من المجموعة بواسطة مفتاحه.
+يحصل أو يعيّن JavaScript من المجموعة باستخدام المفتاح الخاص به.
 
 ```csharp
 public string this[string key] { get; set; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| key | قيمة المفتاح. |
+| المفتاح | قيمة المفتاح. |
 
 ### قيمة الإرجاع
 
-مجموعة JavaScript.
+مجموعة Javascript.
 
 ### انظر أيضًا
 
 * class [JavaScriptCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

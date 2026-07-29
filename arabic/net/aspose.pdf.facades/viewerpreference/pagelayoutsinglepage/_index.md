@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.PageLayoutSinglePage
-second_title: Aspose.PDF for .NET API Reference
-description: حقل ViewerPreference. عرض صفحة واحدة في كل مرة
+title: "ViewerPreference.PageLayoutSinglePage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل ViewerPreference. عرض صفحة واحدة في كل مرة"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf.facades/viewerpreference/pagelayoutsinglepage/
 ---
-## حقل ViewerPreference.PageLayoutSinglePage
+## ViewerPreference.PageLayoutSinglePage field
 
-عرض صفحة واحدة في كل مرة.
+اعرض صفحة واحدة في كل مرة.
 
 ```csharp
 public const int PageLayoutSinglePage;
@@ -19,3 +19,5 @@ public const int PageLayoutSinglePage;
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

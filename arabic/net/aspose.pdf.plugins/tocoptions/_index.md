@@ -1,14 +1,14 @@
 ---
-title: Class TocOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.TocOptions. تمثل الخيارات لإضافة جدول محتويات إلى الوثيقة بواسطة مكون TocGenerator
+title: "الفئة TocOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Plugins.TocOptions. تمثل خيارات لإضافة جدول المحتويات إلى المستند عبر ملحق TocGenerator"
 type: docs
-weight: 9440
+weight: 9590
 url: /ar/net/aspose.pdf.plugins/tocoptions/
 ---
-## فئة TocOptions
+## TocOptions class
 
-تمثل الخيارات لإضافة جدول محتويات إلى الوثيقة بواسطة [`TocGenerator`](../tocgenerator/) مكون.
+تمثل خيارات لإضافة جدول المحتويات إلى المستند عبر ملحق [`TocGenerator`](../tocgenerator/)
 
 ```csharp
 public sealed class TocOptions : PdfGeneratorOptions
@@ -18,24 +18,26 @@ public sealed class TocOptions : PdfGeneratorOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [TocOptions](tocoptions/)() | المنشئ الافتراضي. |
+| [TocOptions](tocoptions/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/pdfgeneratoroptions/inputs/) { get; } | تُرجع مجموعة بيانات مكون PdfGenerator. |
-| [Outputs](../../aspose.pdf.plugins/pdfgeneratoroptions/outputs/) { get; } | تحصل على مجموعة الأهداف المضافة لنتائج عملية الحفظ. |
+| [Inputs](../../aspose.pdf.plugins/pdfgeneratoroptions/inputs/) { get; } | يرجع مجموعة بيانات مكوّن PdfGenerator. |
+| [Outputs](../../aspose.pdf.plugins/pdfgeneratoroptions/outputs/) { get; } | يحصل على مجموعة الأهداف المضافة لحفظ نتائج العملية. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/pdfgeneratoroptions/addinput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات مكون PdfGenerator. |
-| [AddOutput](../../aspose.pdf.plugins/pdfgeneratoroptions/addoutput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات مكون PdfGenerator. |
+| [AddInput](../../aspose.pdf.plugins/pdfgeneratoroptions/addinput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات مكوّن PdfGenerator. |
+| [AddOutput](../../aspose.pdf.plugins/pdfgeneratoroptions/addoutput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات مكوّن PdfGenerator. |
 
 ### انظر أيضًا
 
-* فئة [PdfGeneratorOptions](../pdfgeneratoroptions/)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../)
+* class [PdfGeneratorOptions](../pdfgeneratoroptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

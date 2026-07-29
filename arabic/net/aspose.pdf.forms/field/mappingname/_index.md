@@ -1,14 +1,14 @@
 ---
-title: Field.MappingName
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الحقل. تحصل أو تعين اسم التعيين للحقل الذي سيتم استخدامه عند تصدير بيانات حقل النموذج التفاعلي من الوثيقة
+title: "Field.MappingName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Field. تحصل أو تعيّن اسم التخطيط للحقل الذي سيُستخدم عند تصدير بيانات حقول النموذج التفاعلية من المستند"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.forms/field/mappingname/
 ---
-## خاصية Field.MappingName
+## Field.MappingName property
 
-تحصل أو تعين اسم التعيين للحقل الذي سيتم استخدامه عند تصدير بيانات حقل النموذج التفاعلي من الوثيقة.
+الحصول على أو تعيين اسم التخطيط للحقول الذي سيُستخدم عند تصدير بيانات نماذج الحقول التفاعلية من المستند.
 
 ```csharp
 public string MappingName { get; set; }
@@ -19,3 +19,5 @@ public string MappingName { get; set; }
 * class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,9 +1,9 @@
 ---
-title: Enum CryptographicStandard
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.CryptographicStandard enum. يمثل المعايير التشفيرية المتاحة لتأمين مستندات PDF
+title: "تعداد CryptographicStandard"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.Security.CryptographicStandard. يمثل المعايير التشفيرية المتاحة لتأمين مستندات PDF."
 type: docs
-weight: 9950
+weight: 10110
 url: /ar/net/aspose.pdf.security/cryptographicstandard/
 ---
 ## CryptographicStandard enumeration
@@ -14,15 +14,17 @@ url: /ar/net/aspose.pdf.security/cryptographicstandard/
 public enum CryptographicStandard
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Pkcs1 | `0` | معايير تشفير المفتاح العام (PKCS) #1 |
-| Pkcs7 | `1` | معايير تشفير المفتاح العام (PKCS) #7 |
-| Rfc3161 | `2` | بروتوكول توقيع الوقت للبنية التحتية للمفتاح العام (TSP, rfc3161). |
+| Pkcs1 | `0` | معايير التشفير بالمفتاح العام (PKCS) #1 |
+| Pkcs7 | `1` | معايير التشفير بالمفتاح العام (PKCS) #7 |
+| Rfc3161 | `2` | بروتوكول طابع الوقت لبنية المفتاح العام (TSP، rfc3161). |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../)
+
+

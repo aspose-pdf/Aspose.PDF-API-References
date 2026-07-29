@@ -1,14 +1,14 @@
 ---
-title: SignatureAlgorithmInfo.SignatureName
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SignatureAlgorithmInfo. تحصل على اسم حقل التوقيع
+title: "SignatureAlgorithmInfo.SignatureName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SignatureAlgorithmInfo. تحصل على اسم حقل التوقيع"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.security/signaturealgorithminfo/signaturename/
 ---
-## خاصية SignatureAlgorithmInfo.SignatureName
+## SignatureAlgorithmInfo.SignatureName property
 
-تحصل على اسم حقل التوقيع.
+يحصل على اسم حقل التوقيع.
 
 ```csharp
 public string SignatureName { get; }
@@ -19,3 +19,5 @@ public string SignatureName { get; }
 * class [SignatureAlgorithmInfo](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

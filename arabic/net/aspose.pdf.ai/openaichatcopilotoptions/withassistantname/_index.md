@@ -1,29 +1,31 @@
 ---
-title: OpenAIChatCopilotOptions.WithAssistantName
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIChatCopilotOptions. تعيين اسم المساعد لخيارات مساعد الدردشة
+title: "OpenAIChatCopilotOptions.WithAssistantName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIChatCopilotOptions. تحدد اسم المساعد لخيارات مساعد الدردشة"
 type: docs
-weight: 80
+weight: 90
 url: /ar/net/aspose.pdf.ai/openaichatcopilotoptions/withassistantname/
 ---
-## طريقة OpenAIChatCopilotOptions.WithAssistantName
+## OpenAIChatCopilotOptions.WithAssistantName method
 
-تعيين اسم المساعد لخيارات مساعد الدردشة.
+يضبط اسم المساعد لخيارات مساعد الدردشة.
 
 ```csharp
 public OpenAIChatCopilotOptions WithAssistantName(string assistantName)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| assistantName | String | اسم المساعد الذي سيتم تعيينه. |
+| assistantName | String | اسم المساعد لتعيينه. |
 
 ### قيمة الإرجاع
 
-النسخة الحالية من [`OpenAIChatCopilotOptions`](../).
+النموذج الحالي لـ [`OpenAIChatCopilotOptions`](../).
 
 ### انظر أيضًا
 
 * class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

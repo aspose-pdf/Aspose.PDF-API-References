@@ -1,20 +1,20 @@
 ---
-title: PDF3DView.BackGroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PDF3DView. تحصل أو تعين لون خلفية العرض
+title: "PDF3DView.BackGroundColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PDF3DView. يحصل أو يضبط لون خلفية العرض"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/pdf3dview/backgroundcolor/
 ---
-## خاصية PDF3DView.BackGroundColor
+## PDF3DView.BackGroundColor property
 
-تحصل أو تعين لون خلفية العرض.
+يحصل أو يضبط لون خلفية العرض.
 
 ```csharp
 public Color BackGroundColor { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 لون خلفية العرض.
 
@@ -24,3 +24,5 @@ public Color BackGroundColor { get; set; }
 * class [PDF3DView](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Bookmarks.Bookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ العلامات المرجعية. المُنشئ الافتراضي
+title: "Bookmarks.Bookmarks"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Bookmarks. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.facades/bookmarks/bookmarks/
 ---
-## مُنشئ العلامات المرجعية
+## Bookmarks constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public Bookmarks()
@@ -19,3 +19,5 @@ public Bookmarks()
 * class [Bookmarks](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PclLoadOptions.Exceptions
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PclLoadOptions. قائمة أخطاء التحويل
+title: "PclLoadOptions.Exceptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PclLoadOptions. قائمة بأخطاء التحويل"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/pclloadoptions/exceptions/
 ---
-## حقل PclLoadOptions.Exceptions
+## PclLoadOptions.Exceptions field
 
-قائمة أخطاء التحويل.
+قائمة بأخطاء التحويل.
 
 ```csharp
 public IList<Exception> Exceptions;
@@ -19,3 +19,5 @@ public IList<Exception> Exceptions;
 * class [PclLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

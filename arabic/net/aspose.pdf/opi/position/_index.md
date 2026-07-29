@@ -1,14 +1,14 @@
 ---
-title: Opi.Position
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Opi. تحصل على مصفوفة من ثمانية أرقام من الشكل تحدد الموقع على الصفحة للصورة المقتطعة
+title: "Opi.Position"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Opi. يحصل على مصفوفة من ثمانية أرقام تحدد موقع الصورة المقصوصة على الصفحة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/opi/position/
 ---
-## خاصية Opi.Position
+## Opi.Position property
 
-تحصل على مصفوفة من ثمانية أرقام من الشكل تحدد الموقع على الصفحة للصورة المقتطعة.
+يحصل على مصفوفة مكوّنة من ثمانية أعداد تحدد موقع الصورة المقصوصة على الصفحة.
 
 ```csharp
 public double[] Position { get; }
@@ -19,3 +19,5 @@ public double[] Position { get; }
 * class [Opi](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

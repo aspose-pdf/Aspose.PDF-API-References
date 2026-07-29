@@ -1,14 +1,14 @@
 ---
-title: BuildVersionInfo.BuildVersionInfo
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ BuildVersionInfo. المُنشئ الافتراضي
+title: "BuildVersionInfo.BuildVersionInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ BuildVersionInfo. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/buildversioninfo/buildversioninfo/
 ---
-## مُنشئ BuildVersionInfo
+## BuildVersionInfo constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public BuildVersionInfo()
@@ -19,3 +19,5 @@ public BuildVersionInfo()
 * class [BuildVersionInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

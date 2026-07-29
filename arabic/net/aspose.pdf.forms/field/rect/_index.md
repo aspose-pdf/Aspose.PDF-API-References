@@ -1,14 +1,14 @@
 ---
-title: Field.Rect
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الحقل. تحصل أو تعين مستطيل الحقل
+title: "Field.Rect"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Field. يحصل على أو يعيّن مستطيل الحقل"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.forms/field/rect/
 ---
-## خاصية Field.Rect
+## Field.Rect property
 
-تحصل أو تعين مستطيل الحقل.
+يحصل أو يعيّن مستطيل الحقل.
 
 ```csharp
 public override Rectangle Rect { get; set; }
@@ -20,3 +20,5 @@ public override Rectangle Rect { get; set; }
 * class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

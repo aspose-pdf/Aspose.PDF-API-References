@@ -1,14 +1,14 @@
 ---
-title: WatermarkAnnotation.FixedPrint
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية WatermarkAnnotation. كائن الطباعة الثابتة لتعليق العلامة المائية
+title: "WatermarkAnnotation.FixedPrint"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية WatermarkAnnotation. كائن الطباعة الثابتة للتعليق التوضيحي للعلامة المائية"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/watermarkannotation/fixedprint/
 ---
-## خاصية WatermarkAnnotation.FixedPrint
+## WatermarkAnnotation.FixedPrint property
 
-كائن الطباعة الثابتة لتعليق العلامة المائية.
+كائن الطباعة الثابت لتوضيح العلامة المائية.
 
 ```csharp
 public FixedPrint FixedPrint { get; }
@@ -20,3 +20,5 @@ public FixedPrint FixedPrint { get; }
 * class [WatermarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

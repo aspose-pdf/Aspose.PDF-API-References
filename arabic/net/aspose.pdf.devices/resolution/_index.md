@@ -1,14 +1,14 @@
 ---
-title: Class Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Devices.Resolution. تمثل فئة للاحتفاظ بدقة الصورة
+title: "الفئة Resolution"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Devices.Resolution class. تمثل فئة لتخزين دقة الصورة"
 type: docs
-weight: 3660
+weight: 3780
 url: /ar/net/aspose.pdf.devices/resolution/
 ---
-## فئة Resolution
+## Resolution class
 
-تمثل فئة للاحتفاظ بدقة الصورة.
+يمثل فئة لحفظ دقة الصورة.
 
 ```csharp
 public sealed class Resolution
@@ -18,17 +18,19 @@ public sealed class Resolution
 
 | الاسم | الوصف |
 | --- | --- |
-| [Resolution](resolution/#constructor)(int) | يقوم بتهيئة مثيل جديد من فئة `Resolution`. |
-| [Resolution](resolution/#constructor_1)(int, int) | يقوم بتهيئة مثيل جديد من فئة `Resolution`. |
+| [Resolution](resolution/#constructor)(int) | يُنشئ نسخة جديدة من الفئة `Resolution`. |
+| [Resolution](resolution/#constructor_1)(int, int) | يُنشئ نسخة جديدة من الفئة `Resolution`. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [X](../../aspose.pdf.devices/resolution/x/) { get; set; } | يحصل على أو يحدد دقة الصورة الأفقية. |
-| [Y](../../aspose.pdf.devices/resolution/y/) { get; set; } | يحصل على أو يحدد دقة الصورة الرأسية. |
+| [X](../../aspose.pdf.devices/resolution/x/) { get; set; } | يحصل أو يضبط دقة الصورة الأفقية. |
+| [Y](../../aspose.pdf.devices/resolution/y/) { get; set; } | يحصل أو يضبط دقة الصورة العمودية. |
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

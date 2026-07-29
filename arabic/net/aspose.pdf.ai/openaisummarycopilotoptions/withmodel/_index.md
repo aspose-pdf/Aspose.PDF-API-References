@@ -1,29 +1,31 @@
 ---
-title: OpenAISummaryCopilotOptions.WithModel
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAISummaryCopilotOptions. تعيين النموذج لخيارات مساعد الملخص
+title: "OpenAISummaryCopilotOptions.WithModel"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAISummaryCopilotOptions. تعيين النموذج لخيارات المساعد الملخص"
 type: docs
-weight: 110
+weight: 120
 url: /ar/net/aspose.pdf.ai/openaisummarycopilotoptions/withmodel/
 ---
-## طريقة OpenAISummaryCopilotOptions.WithModel
+## OpenAISummaryCopilotOptions.WithModel method
 
-تعيين النموذج لخيارات مساعد الملخص.
+يضبط النموذج لخيارات المساعد الملخص.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithModel(string model)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| model | String | النموذج الذي سيتم تعيينه. |
+| النموذج | String | النموذج المراد تحديده. |
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAISummaryCopilotOptions`](../).
+العنصر الحالي من [`OpenAISummaryCopilotOptions`](../).
 
 ### انظر أيضًا
 
 * class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

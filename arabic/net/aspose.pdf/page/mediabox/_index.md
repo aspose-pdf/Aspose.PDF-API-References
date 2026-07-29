@@ -1,14 +1,14 @@
 ---
-title: Page.MediaBox
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصفحة. تحصل أو تعين صندوق الوسائط للصفحة
+title: "Page.MediaBox"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Page. تحصل أو تعيّن صندوق الوسائط للصفحة"
 type: docs
 weight: 180
 url: /ar/net/aspose.pdf/page/mediabox/
 ---
-## خاصية Page.MediaBox
+## Page.MediaBox property
 
-تحصل أو تعين صندوق الوسائط للصفحة.
+يحصل أو يضبط صندوق الوسائط للصفحة.
 
 ```csharp
 public Rectangle MediaBox { get; set; }
@@ -29,3 +29,5 @@ Rectangle mediaBox = document.Pages[1].MediaBox;
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

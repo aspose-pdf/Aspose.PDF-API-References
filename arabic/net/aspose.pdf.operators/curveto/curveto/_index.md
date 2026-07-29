@@ -1,20 +1,20 @@
 ---
-title: CurveTo.CurveTo
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ CurveTo. يُهيئ مُشغل المنحنى
+title: "CurveTo.CurveTo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ CurveTo. يهيئ مشغل المنحنى"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/curveto/curveto/
 ---
-## مُنشئ CurveTo
+## CurveTo constructor
 
-يُهيئ مُشغل المنحنى.
+يُهيئ المشغّل curve.
 
 ```csharp
 public CurveTo(double x1, double y1, double x2, double y2, double x3, double y3)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | x1 | Double | الإحداثي السيني للنقطة الأولى. |
 | y1 | Double | الإحداثي الصادي للنقطة الأولى. |
@@ -28,3 +28,5 @@ public CurveTo(double x1, double y1, double x2, double y2, double x3, double y3)
 * class [CurveTo](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

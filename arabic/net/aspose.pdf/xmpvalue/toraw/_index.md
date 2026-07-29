@@ -1,25 +1,27 @@
 ---
-title: XmpValue.ToRaw
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XmpValue. كود XML خام للقيم غير المعروفة/غير المدعومة
+title: "XmpValue.ToRaw"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XmpValue. شفرة XML خام للقيم غير المعروفة/غير المدعومة"
 type: docs
 weight: 200
 url: /ar/net/aspose.pdf/xmpvalue/toraw/
 ---
 ## XmpValue.ToRaw method
 
-كود XML خام للقيم غير المعروفة/غير المدعومة.
+كود XML الخام للقيم غير المعروفة/غير المدعومة.
 
 ```csharp
 public XmlNode ToRaw()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
 عقدة XML لهذه القيمة.
 
-### See Also
+### انظر أيضًا
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

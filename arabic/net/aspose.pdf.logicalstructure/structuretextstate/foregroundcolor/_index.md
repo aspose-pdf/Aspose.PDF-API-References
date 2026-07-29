@@ -1,14 +1,14 @@
 ---
-title: StructureTextState.ForegroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StructureTextState. تحصل أو تعين لون المقدمة للنص
+title: "StructureTextState.ForegroundColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StructureTextState. تحصل أو تعيّن لون المقدمة للنص"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.logicalstructure/structuretextstate/foregroundcolor/
 ---
-## خاصية StructureTextState.ForegroundColor
+## StructureTextState.ForegroundColor property
 
-تحصل أو تعين لون المقدمة للنص.
+يحصل أو يضبط لون المقدمة للنص.
 
 ```csharp
 public Color ForegroundColor { get; set; }
@@ -16,7 +16,7 @@ public Color ForegroundColor { get; set; }
 
 ## ملاحظات
 
-يمكن أن تكون null. استخدم null لوراثة خاصية `ForegroundColor` من عنصر الهيكل الأب.
+يمكن أن تكون null. استخدم null لتوريث خاصية `ForegroundColor` من عنصر البنية الأصل.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public Color ForegroundColor { get; set; }
 * class [StructureTextState](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

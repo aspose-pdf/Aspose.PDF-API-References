@@ -1,14 +1,14 @@
 ---
-title: PDF3DArtwork.GetViewsArray
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PDF3DArtwork. تحصل على مصفوفة العرض
+title: "PDF3DArtwork.GetViewsArray"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PDF3DArtwork. يسترجع مصفوفة العروض"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.annotations/pdf3dartwork/getviewsarray/
 ---
-## طريقة PDF3DArtwork.GetViewsArray
+## PDF3DArtwork.GetViewsArray method
 
-تحصل على مصفوفة العرض.
+يحصل على مصفوفة العروض.
 
 ```csharp
 public PDF3DView[] GetViewsArray()
@@ -24,3 +24,5 @@ public PDF3DView[] GetViewsArray()
 * class [PDF3DArtwork](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

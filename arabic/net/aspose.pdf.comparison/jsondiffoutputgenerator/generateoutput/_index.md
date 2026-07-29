@@ -1,28 +1,28 @@
 ---
-title: JsonDiffOutputGenerator.GenerateOutput
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة JsonDiffOutputGenerator. تولد مخرجات الفروقات بين النصوص وتقوم بحفظها في ملف
+title: "JsonDiffOutputGenerator.GenerateOutput"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة JsonDiffOutputGenerator. تُولّد مخرجات الفروقات بين النصوص وتحفظها في ملف"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.comparison/jsondiffoutputgenerator/generateoutput/
 ---
 ## GenerateOutput(List&lt;DiffOperation&gt;) {#generateoutput}
 
-تولد مخرجات الفروقات بين النصوص وتقوم بحفظها في ملف.
+ينشئ مخرجات الفروقات بين النصوص ويحفظها في ملف.
 
 ```csharp
 public string GenerateOutput(List<DiffOperation> diffrences)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| diffrences | List`1 | قائمة الفروقات بين النصوص. |
+| الاختلافات | List`1 | قائمة الاختلافات بين النصوص. |
 
-### Return Value
+### قيمة الإرجاع
 
 نص JSON.
 
-### See Also
+### انظر أيضًا
 
 * class [DiffOperation](../../diffoperation/)
 * class [JsonDiffOutputGenerator](../)
@@ -33,21 +33,21 @@ public string GenerateOutput(List<DiffOperation> diffrences)
 
 ## GenerateOutput(List&lt;List&lt;DiffOperation&gt;&gt;) {#generateoutput_1}
 
-تولد مخرجات الفروقات بين النصوص وتقوم بحفظها في ملف.
+ينشئ مخرجات الفروقات بين النصوص ويحفظها في ملف.
 
 ```csharp
 public string GenerateOutput(List<List<DiffOperation>> diffrences)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| diffrences | List`1 | قائمة الفروقات بين النصوص. |
+| الاختلافات | List`1 | قائمة الاختلافات بين النصوص. |
 
-### Return Value
+### قيمة الإرجاع
 
 نص JSON.
 
-### See Also
+### انظر أيضًا
 
 * class [DiffOperation](../../diffoperation/)
 * class [JsonDiffOutputGenerator](../)
@@ -58,18 +58,18 @@ public string GenerateOutput(List<List<DiffOperation>> diffrences)
 
 ## GenerateOutput(List&lt;DiffOperation&gt;, string) {#generateoutput_2}
 
-تولد مخرجات الفروقات بين النصوص وتقوم بحفظها في ملف.
+ينشئ مخرجات الفروقات بين النصوص ويحفظها في ملف.
 
 ```csharp
 public void GenerateOutput(List<DiffOperation> diffrences, string targetFilePath)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| diffrences | List`1 | قائمة الفروقات بين النصوص. |
-| targetFilePath | String | مسار الملف المستهدف لحفظ المخرجات. |
+| الاختلافات | List`1 | قائمة الاختلافات بين النصوص. |
+| targetFilePath | String | مسار الملف الهدف لحفظ الناتج. |
 
-### See Also
+### انظر أيضًا
 
 * class [DiffOperation](../../diffoperation/)
 * class [JsonDiffOutputGenerator](../)
@@ -80,20 +80,22 @@ public void GenerateOutput(List<DiffOperation> diffrences, string targetFilePath
 
 ## GenerateOutput(List&lt;List&lt;DiffOperation&gt;&gt;, string) {#generateoutput_3}
 
-تولد مخرجات الفروقات بين النصوص وتقوم بحفظها في ملف.
+ينشئ مخرجات الفروقات بين النصوص ويحفظها في ملف.
 
 ```csharp
 public void GenerateOutput(List<List<DiffOperation>> diffrences, string targetFilePath)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| diffrences | List`1 | قائمة الفروقات بين النصوص. |
-| targetFilePath | String | مسار الملف المستهدف لحفظ المخرجات. |
+| الاختلافات | List`1 | قائمة الاختلافات بين النصوص. |
+| targetFilePath | String | مسار الملف الهدف لحفظ الناتج. |
 
-### See Also
+### انظر أيضًا
 
 * class [DiffOperation](../../diffoperation/)
 * class [JsonDiffOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

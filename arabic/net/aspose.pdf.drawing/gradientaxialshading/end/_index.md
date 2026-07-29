@@ -1,14 +1,14 @@
 ---
-title: GradientAxialShading.End
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية GradientAxialShading. تحصل أو تعين نقطة النهاية
+title: "GradientAxialShading.End"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية GradientAxialShading. تحصل أو تعيين نقطة النهاية"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.drawing/gradientaxialshading/end/
 ---
-## خاصية GradientAxialShading.End
+## GradientAxialShading.End property
 
-تحصل أو تعين نقطة النهاية.
+يحصل أو يعيّن نقطة النهاية.
 
 ```csharp
 public Point End { get; set; }
@@ -20,3 +20,5 @@ public Point End { get; set; }
 * class [GradientAxialShading](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,29 +1,31 @@
 ---
-title: Enum XslFoLoadOptions.ParsingErrorsHandlingTypes
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XslFoLoadOptionsParsingErrorsHandlingTypes enum. يمكن أن يحتوي مستند XSLFO المصدر على أخطاء في التنسيق. يقوم هذا التعداد بإدراج استراتيجيات ممكنة للتعامل مع مثل هذه الأخطاء في التنسيق
+title: "التعداد XslFoLoadOptions.ParsingErrorsHandlingTypes"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.XslFoLoadOptionsParsingErrorsHandlingTypes. قد يحتوي مستند XSLFO المصدر على أخطاء تنسيق. يعدد هذا التعداد الاستراتيجيات الممكنة للتعامل مع مثل هذه الأخطاء التنسيقية"
 type: docs
-weight: 11540
+weight: 11730
 url: /ar/net/aspose.pdf/xslfoloadoptions.parsingerrorshandlingtypes/
 ---
 ## XslFoLoadOptions.ParsingErrorsHandlingTypes enumeration
 
-يمكن أن يحتوي مستند XSLFO المصدر على أخطاء في التنسيق. يقوم هذا التعداد بإدراج استراتيجيات ممكنة للتعامل مع مثل هذه الأخطاء في التنسيق
+قد يحتوي مستند XSLFO المصدر على أخطاء تنسيق. يعدد هذا التعداد الاستراتيجيات الممكنة للتعامل مع مثل هذه الأخطاء التنسيقية.
 
 ```csharp
 public enum ParsingErrorsHandlingTypes
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| TryIgnore | `0` | في هذه الحالة، سيتم توجيه المحول لمحاولة المتابعة مع التحويل وتجاهل الأخطاء في التنسيق التي تم العثور عليها. في هذه الحالة، النجاح غير مضمون، ويمكن أن تحدث مشاكل خطيرة لاحقًا في المحول، وفي هذه الحالة سيتم طرح استثناء مع قائمة بالأخطاء في التنسيق التي تم العثور عليها. |
-| ThrowExceptionImmediately | `1` | في هذه الحالة، سيتم إيقاف التحويل على الفور وسيتم طرح استثناء على الفور بعد اكتشاف أول خطأ في التنسيق |
-| InvokeCustomHandler | `2` | هذه هي الطريقة الأكثر مرونة - يجب أن يوفر الكود المخصص (في خاصية WarningCallback) معالجًا خاصًا سيتم استدعاؤه عند اكتشاف خطأ في التنسيق. يمكن أن يقوم هذا المعالج، على سبيل المثال، بتسجيل الأخطاء أو عدها وما إلى ذلك، وسيوفر قرارًا بشأن ما إذا كان يمكن متابعة المعالجة لهذا الخطأ أو ذاك. |
+| TryIgnore | `0` | في هذه الحالة سيُطلب من المحول محاولة المتابعة مع التحويل وتجاهل أخطاء التنسيق المكتشفة. في هذه الحالة لا يُضمن النجاح، وقد تحدث مشاكل خطيرة لاحقًا في المحول، وفي مثل هذه الحالة سيتم رمي استثناء يحتوي على قائمة بأخطاء التنسيق المكتشفة. |
+| ThrowExceptionImmediately | `1` | في هذه الحالة سيتوقف التحويل فورًا وسيُرمى استثناء فور اكتشاف أول خطأ تنسيق. |
+| InvokeCustomHandler | `2` | هذه هي الطريقة الأكثر مرونة - يجب على الشيفرة المخصصة توفير (في خاصية WarningCallback) معالج خاص سيتم استدعاؤه عند اكتشاف خطأ في التنسيق. يمكن لهذا المعالج، على سبيل المثال، تسجيل الأخطاء أو عدّها وما إلى ذلك، وسيحدد ما إذا كان يمكن متابعة المعالجة لهذا الخطأ أو ذاك. |
 
-### See Also
+### انظر أيضًا
 
 * class [XslFoLoadOptions](../xslfoloadoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

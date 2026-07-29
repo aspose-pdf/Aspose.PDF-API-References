@@ -1,22 +1,22 @@
 ---
-title: PdfAOptionsBase.NonSpecificationFlags
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfAOptionsBase. تحصل على العلامات التي تتحكم في تحويل PDF/A للحالات التي لا يتوافق فيها مستند PDF المصدر مع مواصفات PDF
+title: "PdfAOptionsBase.NonSpecificationFlags"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfAOptionsBase. تحصل على العلامات التي تتحكم في تحويل PDF/A للحالات التي لا يتطابق فيها مستند PDF المصدر مع مواصفات PDF"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.plugins/pdfaoptionsbase/nonspecificationflags/
 ---
-## خاصية PdfAOptionsBase.NonSpecificationFlags
+## PdfAOptionsBase.NonSpecificationFlags property
 
-تحصل على العلامات التي تتحكم في تحويل PDF/A للحالات التي لا يتوافق فيها مستند PDF المصدر مع مواصفات PDF.
+يحصل على العلامات التي تتحكم في تحويل PDF/A للحالات التي لا يتطابق فيها مستند PDF المصدر مع مواصفة PDF.
 
 ```csharp
 public PdfANonSpecificationFlags NonSpecificationFlags { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-العلامات للحالات غير المحددة أثناء تحويل PDF/A.
+العلامات للحالات غير المتطابقة مع المواصفات أثناء تحويل PDF/A.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public PdfANonSpecificationFlags NonSpecificationFlags { get; }
 * class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

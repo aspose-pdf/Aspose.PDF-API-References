@@ -1,14 +1,14 @@
 ---
-title: WatermarkAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية WatermarkAnnotation. تحصل على نوع التعليق
+title: "WatermarkAnnotation.AnnotationType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية WatermarkAnnotation. تحصل على نوع التعليق التوضيحي"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/watermarkannotation/annotationtype/
 ---
-## خاصية WatermarkAnnotation.AnnotationType
+## WatermarkAnnotation.AnnotationType property
 
-تحصل على نوع التعليق.
+يحصل على نوع التوضيح.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [WatermarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

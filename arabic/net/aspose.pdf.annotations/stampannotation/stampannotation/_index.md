@@ -1,24 +1,24 @@
 ---
-title: StampAnnotation.StampAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ StampAnnotation. مُنشئ
+title: "StampAnnotation.StampAnnotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ StampAnnotation. منشئ"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/stampannotation/stampannotation/
 ---
 ## StampAnnotation(Document) {#constructor}
 
-مُنشئ
+منشئ
 
 ```csharp
 public StampAnnotation(Document document)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| document | Document | المستند الذي سيتم إنشاء التعليق فيه. |
+| document | Document | Document حيث سيتم إنشاء التعليق التوضيحي. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [StampAnnotation](../)
@@ -29,21 +29,23 @@ public StampAnnotation(Document document)
 
 ## StampAnnotation(Page, Rectangle) {#constructor_1}
 
-ينشئ تعليق ختم جديد على الصفحة المحددة.
+ينشئ تعليقا جديدًا من نوع Stamp على الصفحة المحددة.
 
 ```csharp
 public StampAnnotation(Page page, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | صفحة المستند حيث يجب إنشاء التعليق. |
-| rect | Rectangle | مستطيل التعليق، الذي يحدد موقع التعليق على الصفحة. |
+| صفحة | صفحة | صفحة المستند حيث يجب إنشاء التعليق التوضيحي. |
+| rect | Rectangle | مستطيل التعليق التوضيحي، يحدد موقع التعليق التوضيحي على الصفحة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [StampAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

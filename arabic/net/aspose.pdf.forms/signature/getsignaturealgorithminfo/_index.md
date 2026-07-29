@@ -1,14 +1,14 @@
 ---
-title: Signature.GetSignatureAlgorithmInfo
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة التوقيع. تسترجع معلومات حول خوارزمية التوقيع المستخدمة في التوقيع
+title: "Signature.GetSignatureAlgorithmInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Signature. تسترجع معلومات حول خوارزمية التوقيع المستخدمة في التوقيع"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.forms/signature/getsignaturealgorithminfo/
 ---
-## طريقة Signature.GetSignatureAlgorithmInfo
+## Signature.GetSignatureAlgorithmInfo method
 
-تسترجع معلومات حول خوارزمية التوقيع المستخدمة في التوقيع.
+يسترجع معلومات حول خوارزمية التوقيع المستخدمة في التوقيع.
 
 ```csharp
 public SignatureAlgorithmInfo GetSignatureAlgorithmInfo()
@@ -16,11 +16,13 @@ public SignatureAlgorithmInfo GetSignatureAlgorithmInfo()
 
 ### قيمة الإرجاع
 
-مثال من [`SignatureAlgorithmInfo`](../../../aspose.pdf.security/signaturealgorithminfo/) يحتوي على تفاصيل حول خوارزمية التوقيع.
+مثيل من [`SignatureAlgorithmInfo`](../../../aspose.pdf.security/signaturealgorithminfo/) يحتوي على تفاصيل حول خوارزمية التوقيع.
 
 ### انظر أيضًا
 
-* فئة [SignatureAlgorithmInfo](../../../aspose.pdf.security/signaturealgorithminfo/)
-* فئة [Signature](../)
-* مساحة الأسماء [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* التجميع [Aspose.PDF](../../../)
+* class [SignatureAlgorithmInfo](../../../aspose.pdf.security/signaturealgorithminfo/)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

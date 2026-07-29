@@ -1,14 +1,14 @@
 ---
-title: IAICopilot.HasContext
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية IAICopilot. تحصل على قيمة تشير إلى ما إذا كان المساعد لديه سياق
+title: "IAICopilot.HasContext"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "IAICopilot خاصية. يحصل على قيمة تشير إلى ما إذا كان المساعد لديه سياق"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/iaicopilot/hascontext/
 ---
-## خاصية IAICopilot.HasContext
+## IAICopilot.HasContext property
 
-تحصل على قيمة تشير إلى ما إذا كان المساعد لديه سياق.
+يحصل على قيمة تشير إلى ما إذا كان المساعد يمتلك سياقًا.
 
 ```csharp
 public bool HasContext { get; }
@@ -16,6 +16,8 @@ public bool HasContext { get; }
 
 ### انظر أيضًا
 
-* واجهة [IAICopilot](../)
-* مساحة الاسم [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IAICopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

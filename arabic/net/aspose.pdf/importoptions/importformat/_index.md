@@ -1,12 +1,12 @@
 ---
-title: ImportOptions.ImportFormat
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ImportOptions. تنسيق الاستيراد
+title: "ImportOptions.ImportFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ImportOptions. تنسيق الاستيراد"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/importoptions/importformat/
 ---
-## خاصية ImportOptions.ImportFormat
+## ImportOptions.ImportFormat property
 
 تنسيق الاستيراد.
 
@@ -20,3 +20,5 @@ public ImportFormat ImportFormat { get; }
 * class [ImportOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Outlines.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Outlines. تقوم بإزالة جميع العناصر من المجموعة
+title: "Outlines.Clear"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Outlines. تمسح جميع العناصر من المجموعة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/outlines/clear/
 ---
-## طريقة Outlines.Clear
+## Outlines.Clear method
 
-تقوم بإزالة جميع العناصر من المجموعة.
+يمسح جميع العناصر من المجموعة.
 
 ```csharp
 public abstract void Clear()
@@ -19,3 +19,5 @@ public abstract void Clear()
 * class [Outlines](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

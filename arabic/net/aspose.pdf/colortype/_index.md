@@ -1,9 +1,9 @@
 ---
-title: Enum ColorType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ColorType enum. يحدد نوع اللون للعناصر على الصفحة
+title: "تعداد ColorType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.ColorType. يحدد نوع اللون للعناصر على الصفحة."
 type: docs
-weight: 3100
+weight: 3210
 url: /ar/net/aspose.pdf/colortype/
 ---
 ## ColorType enumeration
@@ -14,16 +14,18 @@ url: /ar/net/aspose.pdf/colortype/
 public enum ColorType
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Rgb | `0` | نوع لون RGB. |
-| Grayscale | `1` | نوع لون رمادي. |
-| BlackAndWhite | `2` | نوع لون أبيض وأسود. |
-| Undefined | `3` | قيمة نوع لون غير محددة. |
+| Rgb | `0` | نوع اللون RGB. |
+| Grayscale | `1` | نوع اللون تدرج الرمادي. |
+| BlackAndWhite | `2` | نوع اللون أبيض وأسود. |
+| Undefined | `3` | قيمة نوع اللون غير معرفة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

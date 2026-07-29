@@ -1,29 +1,31 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithMaxPromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIImageDescriptionCopilotOptions. تعيين الحد الأقصى من رموز المطالبة لخيارات مساعد وصف الصورة
+title: "OpenAIImageDescriptionCopilotOptions.WithMaxPromptTokens"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIImageDescriptionCopilotOptions. تعيين الحد الأقصى لرموز الموجه لخيارات مساعد وصف الصورة"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withmaxprompttokens/
 ---
-## طريقة OpenAIImageDescriptionCopilotOptions.WithMaxPromptTokens
+## OpenAIImageDescriptionCopilotOptions.WithMaxPromptTokens method
 
-تعيين الحد الأقصى من رموز المطالبة لخيارات مساعد وصف الصورة.
+يعيّن الحد الأقصى لرموز الموجه لخيارات مساعد وصف الصورة.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithMaxPromptTokens(int? maxPromptTokens)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| maxPromptTokens | Nullable`1 | الحد الأقصى من رموز المطالبة للتعيين. |
+| maxPromptTokens | Nullable`1 | الحد الأقصى لرموز المطالبة لتعيينه. |
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAIImageDescriptionCopilotOptions`](../).
+الحالة الحالية لـ [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### انظر أيضًا
 
-* الفئة [OpenAIImageDescriptionCopilotOptions](../)
-* مساحة الأسماء [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

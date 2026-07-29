@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.ModifyVectorStoreAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IOpenAIClient. تعدل مخزن المتجهات الموجود بشكل غير متزامن
+title: "IOpenAIClient.ModifyVectorStoreAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IOpenAIClient. تعدل مخزنًا متجهًا موجودًا بشكل غير متزامن"
 type: docs
 weight: 400
 url: /ar/net/aspose.pdf.ai/iopenaiclient/modifyvectorstoreasync/
 ---
-## طريقة IOpenAIClient.ModifyVectorStoreAsync
+## IOpenAIClient.ModifyVectorStoreAsync method
 
-تعدل مخزن المتجهات الموجود بشكل غير متزامن.
+يعدل مخزن متجه موجود بشكل غير متزامن.
 
 ```csharp
 public Task<VectorStoreResponse> ModifyVectorStoreAsync(string vectorStoreId, 
@@ -16,9 +16,9 @@ public Task<VectorStoreResponse> ModifyVectorStoreAsync(string vectorStoreId,
     CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| vectorStoreId | String | معرف مخزن المتجهات الذي سيتم تعديله. |
+| vectorStoreId | String | معرّف مخزن المتجهات المراد تعديله. |
 | vectorStoreModifyRequest | VectorStoreModifyRequest | كائن الطلب الذي يحتوي على تفاصيل التعديل. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
@@ -28,9 +28,9 @@ public Task<VectorStoreResponse> ModifyVectorStoreAsync(string vectorStoreId,
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف مخزن المتجهات فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرّف مخزن المتجهات فارغًا أو null. |
 
 ### انظر أيضًا
 
@@ -39,3 +39,5 @@ public Task<VectorStoreResponse> ModifyVectorStoreAsync(string vectorStoreId,
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ToUnicodeProcessingRules.MapNonLinkedSymbolsOnSpace
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ToUnicodeProcessingRules. بعض الخطوط لا توفر معلومات حول اليونيكود لبعض رموز النص. هذه الفجوة في المعلومات تسبب خطأ "لا يمكن تعيين النص إلى اليونيكود". استخدم هذه العلامة لتعيين الرموز غير المرتبطة على اليونيكود "مسافة" 
+title: "ToUnicodeProcessingRules.MapNonLinkedSymbolsOnSpace"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ToUnicodeProcessingRules. بعض الخطوط لا توفر معلومات حول Unicode لبعض رموز النص. هذا النقص في المعلومات يسبب خطأ لا يمكن تحويل النص إلى Unicode. استخدم هذه العلامة لتعيين الرموز غير المرتبطة إلى مساحة Unicode برمز 32."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/tounicodeprocessingrules/mapnonlinkedsymbolsonspace/
 ---
-## خاصية ToUnicodeProcessingRules.MapNonLinkedSymbolsOnSpace
+## ToUnicodeProcessingRules.MapNonLinkedSymbolsOnSpace property
 
-بعض الخطوط لا توفر معلومات حول اليونيكود لبعض رموز النص. هذه الفجوة في المعلومات تسبب خطأ "لا يمكن تعيين النص إلى اليونيكود". استخدم هذه العلامة لتعيين الرموز غير المرتبطة على اليونيكود "مسافة" (الرمز 32).
+بعض الخطوط لا توفر معلومات عن اليونيكود لبعض رموز النص. هذا النقص في المعلومات يسبب خطأ "Text cannot be mapped to Unicode". استخدم هذه العلامة لتعيين الرموز غير المرتبطة إلى "space" (الرمز 32) في اليونيكود.
 
 ```csharp
 public bool MapNonLinkedSymbolsOnSpace { get; set; }
@@ -19,3 +19,5 @@ public bool MapNonLinkedSymbolsOnSpace { get; set; }
 * class [ToUnicodeProcessingRules](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

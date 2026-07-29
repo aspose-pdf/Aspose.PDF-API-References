@@ -1,14 +1,14 @@
 ---
-title: GraphicsAbsorber.ResumeUpdate
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة GraphicsAbsorber. استئناف التحديث للمحتويات وجميع المحتويات تم إنشاؤه لزيادة الأداء انظر أيضًا
+title: "GraphicsAbsorber.ResumeUpdate"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة GraphicsAbsorber. استئناف التحديث لـ Contents وجميع Contents تم لزيادة الأداء، انظر أيضًا"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.vector/graphicsabsorber/resumeupdate/
 ---
-## طريقة GraphicsAbsorber.ResumeUpdate
+## GraphicsAbsorber.ResumeUpdate method
 
-استئناف التحديث لـ [`Contents`](../../../aspose.pdf/page/contents/) وجميع [`Contents`](../../../aspose.pdf/xform/contents/) تم إنشاؤه لزيادة الأداء، انظر أيضًا .
+استئناف التحديث لـ [`Contents`](../../../aspose.pdf/page/contents/) وجميع [`Contents`](../../../aspose.pdf/xform/contents/) تم لزيادة الأداء، انظر أيضًا.
 
 ```csharp
 public void ResumeUpdate()
@@ -31,3 +31,5 @@ va.ResumeUpdate();
 * class [GraphicsAbsorber](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

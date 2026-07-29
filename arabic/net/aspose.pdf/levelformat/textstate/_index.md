@@ -1,14 +1,14 @@
 ---
-title: LevelFormat.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LevelFormat. تحصل أو تعين حالة نص مستوى القائمة
+title: "LevelFormat.TextState"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LevelFormat. يحصل أو يحدد حالة نص مستوى القائمة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/levelformat/textstate/
 ---
-## خاصية LevelFormat.TextState
+## LevelFormat.TextState property
 
-تحصل أو تعين حالة نص مستوى القائمة
+يحصل أو يعيّن حالة نص مستوى القائمة
 
 ```csharp
 public TextState TextState { get; set; }
@@ -20,3 +20,5 @@ public TextState TextState { get; set; }
 * class [LevelFormat](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

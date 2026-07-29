@@ -1,29 +1,31 @@
 ---
-title: PdfViewer.DecodePage
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfViewer. تقوم بفك تشفير صفحة من ملف Pdf
+title: "PdfViewer.DecodePage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfViewer. تقوم بفك تشفير صفحة من ملف Pdf واحد"
 type: docs
 weight: 280
 url: /ar/net/aspose.pdf.facades/pdfviewer/decodepage/
 ---
-## طريقة PdfViewer.DecodePage
+## PdfViewer.DecodePage method
 
-تقوم بفك تشفير صفحة من ملف Pdf.
+يفكّ شفرة صفحة من ملف Pdf واحد.
 
 ```csharp
 public Bitmap DecodePage(int pageNumber)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pageNumber | Int32 | رقم الصفحة من ملف Pdf الذي يجب أن يكون بين 1 و PageCount. |
+| pageNumber | Int32 | رقم الصفحة في ملف Pdf واحد والذي يجب أن يكون بين 1 و PageCount. |
 
 ### قيمة الإرجاع
 
-ترجع صورة صفحة Pdf.
+إرجاع صورة صفحة Pdf.
 
 ### انظر أيضًا
 
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

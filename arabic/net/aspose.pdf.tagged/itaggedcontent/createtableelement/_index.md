@@ -1,26 +1,28 @@
 ---
-title: ITaggedContent.CreateTableElement
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ITaggedContent. تنشئ TableElement
+title: "ITaggedContent.CreateTableElement"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ITaggedContent. ينشئ TableElement"
 type: docs
-weight: 280
+weight: 310
 url: /ar/net/aspose.pdf.tagged/itaggedcontent/createtableelement/
 ---
 ## ITaggedContent.CreateTableElement method
 
-تنشئ [`TableElement`](../../../aspose.pdf.logicalstructure/tableelement/).
+ينشئ [`TableElement`](../../../aspose.pdf.logicalstructure/tableelement/).
 
 ```csharp
 public TableElement CreateTableElement()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-عنصر الهيكل الذي تم إنشاؤه.
+تم إنشاء عنصر بنية.
 
-### See Also
+### انظر أيضًا
 
 * class [TableElement](../../../aspose.pdf.logicalstructure/tableelement/)
 * interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

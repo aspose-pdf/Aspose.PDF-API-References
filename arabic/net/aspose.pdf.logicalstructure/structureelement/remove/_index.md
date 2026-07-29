@@ -1,14 +1,14 @@
 ---
-title: StructureElement.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة StructureElement. تزيل عنصرًا من الهيكل، ومرجعًا له من الكائن الأب، والمراجع له من الكائنات الفرعية، والكائن المقابل من الوثيقة.
+title: "StructureElement.Remove"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة StructureElement. يزيل عنصرًا من البنية، وإزالة الإشارة إليه من كائن الأصل، والإشارات إليه من كائنات الأطفال، والكائن المقابل من المستند"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.logicalstructure/structureelement/remove/
 ---
-## طريقة StructureElement.Remove
+## StructureElement.Remove method
 
-تزيل: عنصرًا من الهيكل، ومرجعًا له من الكائن الأب، والمراجع له من الكائنات الفرعية، والكائن المقابل من الوثيقة.
+يزيل: عنصرًا من البنية، وإشارة إليه من الكائن الأب، وإشارات إليه من الكائنات الفرعية، والكائن المقابل من المستند.
 
 ```csharp
 public void Remove()
@@ -19,3 +19,5 @@ public void Remove()
 * class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

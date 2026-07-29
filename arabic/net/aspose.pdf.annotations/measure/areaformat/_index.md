@@ -1,14 +1,14 @@
 ---
-title: Measure.AreaFormat
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية القياس. مصفوفة تنسيق الأرقام لقياس المساحة
+title: "Measure.AreaFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Measure. مصفوفة تنسيق أرقام لقياس المساحة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/measure/areaformat/
 ---
-## خاصية Measure.AreaFormat
+## Measure.AreaFormat property
 
-مصفوفة تنسيق الأرقام لقياس المساحة.
+مصفوفة تنسيق أعداد لقياس المساحة.
 
 ```csharp
 public NumberFormatList AreaFormat { get; set; }
@@ -20,3 +20,5 @@ public NumberFormatList AreaFormat { get; set; }
 * class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

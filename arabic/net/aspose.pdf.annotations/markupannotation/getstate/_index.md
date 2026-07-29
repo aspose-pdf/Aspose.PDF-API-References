@@ -1,14 +1,14 @@
 ---
-title: MarkupAnnotation.GetState
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة MarkupAnnotation. تحصل على حالة التعليق. لاحظ الحالة المخزنة في تعليق نصي آخر الذي يحتوي على مفاتيح الحالة ونموذج الحالة
+title: "MarkupAnnotation.GetState"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة MarkupAnnotation. تحصل على حالة التعليق. ملاحظة: الحالة مخزنة في تعليقات نصية أخرى تحتوي على مفاتيح state و statemodel"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.annotations/markupannotation/getstate/
 ---
-## طريقة MarkupAnnotation.GetState
+## MarkupAnnotation.GetState method
 
-تحصل على حالة التعليق. لاحظ، الحالة المخزنة في تعليق نصي آخر الذي يحتوي على مفاتيح الحالة ونموذج الحالة.
+يحصل على حالة التعليق. ملاحظة، يتم تخزين الحالة في تعليقات نصية أخرى تحتوي على مفاتيح state و statemodel.
 
 ```csharp
 public AnnotationState GetState()
@@ -24,3 +24,5 @@ public AnnotationState GetState()
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

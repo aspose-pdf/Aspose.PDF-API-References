@@ -1,14 +1,14 @@
 ---
-title: FreeTextAnnotation.Callout
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FreeTextAnnotation. مصفوفة من النقاط تحدد خط الاستدعاء
+title: "FreeTextAnnotation.Callout"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FreeTextAnnotation. مصفوفة من النقاط التي تحدد خط التعليق."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/freetextannotation/callout/
 ---
-## خاصية FreeTextAnnotation.Callout
+## FreeTextAnnotation.Callout property
 
-مصفوفة من النقاط تحدد خط الاستدعاء.
+مصفوفة من النقاط تحدد خط الإشارة.
 
 ```csharp
 public Point[] Callout { get; set; }
@@ -20,3 +20,5 @@ public Point[] Callout { get; set; }
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.UseStrictValidation
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileInfo. تستخدم قواعد التحقق الصارمة عبر استخدام خاصية IsPdfFile
+title: "PdfFileInfo.UseStrictValidation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileInfo. تستخدم قواعد تحقق صارمة عبر استخدام خاصية IsPdfFile"
 type: docs
 weight: 180
 url: /ar/net/aspose.pdf.facades/pdffileinfo/usestrictvalidation/
 ---
-## خاصية PdfFileInfo.UseStrictValidation
+## PdfFileInfo.UseStrictValidation property
 
-تستخدم قواعد التحقق الصارمة عبر استخدام خاصية [`IsPdfFile`](../ispdffile/) .
+يستخدم قواعد تحقق صارمة عبر استخدام خاصية [`IsPdfFile`](../ispdffile/).
 
 ```csharp
 public bool UseStrictValidation { get; set; }
@@ -19,3 +19,5 @@ public bool UseStrictValidation { get; set; }
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

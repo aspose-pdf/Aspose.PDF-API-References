@@ -1,14 +1,14 @@
 ---
-title: HeaderFooterData.PageDate
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية HeaderFooterData. تحصل أو تعين إعدادات التاريخ
+title: "HeaderFooterData.PageDate"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية HeaderFooterData. تحصل أو تضبط إعدادات التاريخ"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/headerfooterdata/pagedate/
 ---
-## خاصية HeaderFooterData.PageDate
+## HeaderFooterData.PageDate property
 
-تحصل أو تعين إعدادات التاريخ.
+يحصل أو يضبط إعدادات التاريخ.
 
 ```csharp
 public PageDate PageDate { get; set; }
@@ -20,3 +20,5 @@ public PageDate PageDate { get; set; }
 * class [HeaderFooterData](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

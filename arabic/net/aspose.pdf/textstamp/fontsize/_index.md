@@ -1,14 +1,14 @@
 ---
-title: TextStamp.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextStamp. حجم الخط الفعلي بعد وضع الختم. قد يختلف عن حجم الخط الأولي المقدم من خلال المُنشئ إذا كانت خيار 'AutoAdjustFontSizeToFitStampRectangle' مفعلًا
+title: "TextStamp.FontSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextStamp. حجم الخط الفعلي بعد وضع الختم. قد يختلف عن حجم الخط الأولي المقدم عبر المُنشئ إذا تم تمكين خيار AutoAdjustFontSizeToFitStampRectangle"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/textstamp/fontsize/
 ---
-## خاصية TextStamp.FontSize
+## TextStamp.FontSize property
 
-حجم الخط الفعلي بعد وضع الختم. (قد يختلف عن حجم الخط الأولي المقدم من خلال المُنشئ إذا كانت خيار 'AutoAdjustFontSizeToFitStampRectangle' مفعلًا.)
+حجم الخط الفعلي بعد وضع الختم. (قد يختلف عن حجم الخط الأولي المقدم عبر المُنشئ إذا تم تمكين خيار 'AutoAdjustFontSizeToFitStampRectangle'.)
 
 ```csharp
 public float FontSize { get; }
@@ -19,3 +19,5 @@ public float FontSize { get; }
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

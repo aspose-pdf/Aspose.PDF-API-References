@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.TransparentBoundingBoxOutline
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PDF3DRenderMode. وضع العرض TransparentBoundingBoxOutline
+title: "PDF3DRenderMode.TransparentBoundingBoxOutline"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PDF3DRenderMode. وضع العرض TransparentBoundingBoxOutline"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.annotations/pdf3drendermode/transparentboundingboxoutline/
 ---
-## حقل PDF3DRenderMode.TransparentBoundingBoxOutline
+## PDF3DRenderMode.TransparentBoundingBoxOutline field
 
 وضع العرض "TransparentBoundingBoxOutline".
 
@@ -19,3 +19,5 @@ public static PDF3DRenderMode TransparentBoundingBoxOutline;
 * class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

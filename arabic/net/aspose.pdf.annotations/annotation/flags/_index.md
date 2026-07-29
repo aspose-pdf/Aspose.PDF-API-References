@@ -1,14 +1,14 @@
 ---
-title: Annotation.Flags
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية التعليق. أعلام التعليق
+title: "Annotation.Flags"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Annotation. أعلام التعليق"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.annotations/annotation/flags/
 ---
-## خاصية Annotation.Flags
+## Annotation.Flags property
 
-أعلام التعليق.
+علامات التعليقة.
 
 ```csharp
 public AnnotationFlags Flags { get; set; }
@@ -20,3 +20,5 @@ public AnnotationFlags Flags { get; set; }
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

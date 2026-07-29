@@ -1,20 +1,20 @@
 ---
-title: PageSize.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PageSize. مُنشئ لـ PageSize
+title: "PageSize.PageSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PageSize. منشئ لـ PageSize"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/pagesize/pagesize/
 ---
-## مُنشئ PageSize
+## PageSize constructor
 
-مُنشئ لـ PageSize.
+منشئ لفئة PageSize.
 
 ```csharp
 public PageSize(float x, float y)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | x | Single | عرض الصفحة. |
 | y | Single | ارتفاع الصفحة. |
@@ -24,3 +24,5 @@ public PageSize(float x, float y)
 * class [PageSize](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,34 +1,36 @@
 ---
-title: Class DocumentCollection
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.DocumentCollection. تمثل مجموعة من الوثائق ليتم معالجتها
+title: "الفئة DocumentCollection"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.AI.DocumentCollection. تمثل مجموعة من المستندات التي سيتم معالجتها"
 type: docs
-weight: 320
+weight: 340
 url: /ar/net/aspose.pdf.ai/documentcollection/
 ---
 ## DocumentCollection class
 
-تمثل مجموعة من الوثائق ليتم معالجتها.
+يمثل مجموعة من المستندات التي سيتم معالجتها.
 
 ```csharp
 public class DocumentCollection
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [DocumentCollection](documentcollection/)() | المُنشئ الافتراضي. |
+| [DocumentCollection](documentcollection/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [DocumentPaths](../../aspose.pdf.ai/documentcollection/documentpaths/) { get; set; } | يحصل أو يحدد مجموعة من مسارات الوثائق ليتم معالجتها. |
-| [PdfDocuments](../../aspose.pdf.ai/documentcollection/pdfdocuments/) { get; set; } | يحصل أو يحدد مجموعة من وثائق PDF ليتم معالجتها. |
-| [TextDocuments](../../aspose.pdf.ai/documentcollection/textdocuments/) { get; set; } | يحصل أو يحدد مجموعة من الوثائق النصية ليتم معالجتها. |
+| [DocumentPaths](../../aspose.pdf.ai/documentcollection/documentpaths/) { get; set; } | يحصل أو يعيّن مجموعة مسارات المستندات التي سيتم معالجتها. |
+| [PdfDocuments](../../aspose.pdf.ai/documentcollection/pdfdocuments/) { get; set; } | يحصل أو يعيّن مجموعة مستندات PDF التي سيتم معالجتها. |
+| [TextDocuments](../../aspose.pdf.ai/documentcollection/textdocuments/) { get; set; } | يحصل أو يعيّن مجموعة مستندات النص التي سيتم معالجتها. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

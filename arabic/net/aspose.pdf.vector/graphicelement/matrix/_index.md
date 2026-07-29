@@ -1,14 +1,14 @@
 ---
-title: GraphicElement.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية GraphicElement. تحصل على مصفوفة العنصر الرسومي. يتم تعيين المصفوفة عند إنشاء العنصر. تتغير عند استدعاء SetPosition
+title: "GraphicElement.Matrix"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية GraphicElement. يحصل على مصفوفة العنصر الرسومي. تُحدد المصفوفة عند إنشاء العنصر. تتغير عندما يتم استدعاء SetPosition"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.vector/graphicelement/matrix/
 ---
-## خاصية GraphicElement.Matrix
+## GraphicElement.Matrix property
 
-تحصل على مصفوفة العنصر الرسومي. يتم تعيين المصفوفة عند إنشاء العنصر. تتغير عند استدعاء SetPosition().
+يحصل على مصفوفة العنصر الرسومي. تُحدد المصفوفة عند إنشاء العنصر. تتغير عندما يتم استدعاء SetPosition().
 
 ```csharp
 public Matrix Matrix { get; }
@@ -20,3 +20,5 @@ public Matrix Matrix { get; }
 * class [GraphicElement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

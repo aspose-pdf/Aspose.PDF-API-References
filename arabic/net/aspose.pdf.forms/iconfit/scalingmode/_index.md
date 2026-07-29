@@ -1,14 +1,14 @@
 ---
-title: IconFit.ScalingMode
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية IconFit. نوع التحجيم الذي يجب استخدامه. ///
+title: "IconFit.ScalingMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية IconFit. نوع التحجيم الذي سيُستخدم. ///"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.forms/iconfit/scalingmode/
 ---
-## خاصية IconFit.ScalingMode
+## IconFit.ScalingMode property
 
-نوع التحجيم الذي يجب استخدامه. ///
+نوع التحجيم الذي سيُستخدم. ///
 
 ```csharp
 public ScalingMode ScalingMode { get; set; }
@@ -20,3 +20,5 @@ public ScalingMode ScalingMode { get; set; }
 * class [IconFit](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

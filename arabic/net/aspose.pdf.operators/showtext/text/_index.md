@@ -1,14 +1,14 @@
 ---
-title: ShowText.Text
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ShowText. نص العامل
+title: "ShowText.Text"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ShowText. نص المشغل"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/showtext/text/
 ---
-## خاصية ShowText.Text
+## ShowText.Text property
 
-نص العامل.
+نص المشغّل.
 
 ```csharp
 public override string Text { get; set; }
@@ -19,3 +19,5 @@ public override string Text { get; set; }
 * class [ShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

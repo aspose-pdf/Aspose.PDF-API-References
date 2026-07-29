@@ -1,14 +1,14 @@
 ---
-title: Document.HandleSignatureChange
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. إلقاء استثناء إذا كانت الوثيقة ستُحفظ مع تغييرات ولديها توقيع
+title: "Document.HandleSignatureChange"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. يرمي استثناء إذا تم حفظ المستند مع تغييرات وكان يحتوي على توقيع."
 type: docs
-weight: 220
+weight: 240
 url: /ar/net/aspose.pdf/document/handlesignaturechange/
 ---
-## خاصية Document.HandleSignatureChange
+## Document.HandleSignatureChange property
 
-إلقاء استثناء إذا كانت الوثيقة ستُحفظ مع تغييرات ولديها توقيع
+ارمِ استثناءً إذا كان المستند سيُحفظ مع تغييرات ويحتوي على توقيع
 
 ```csharp
 public bool HandleSignatureChange { get; set; }
@@ -19,3 +19,5 @@ public bool HandleSignatureChange { get; set; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

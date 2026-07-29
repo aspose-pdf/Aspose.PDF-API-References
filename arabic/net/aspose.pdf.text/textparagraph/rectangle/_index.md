@@ -1,14 +1,14 @@
 ---
-title: TextParagraph.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextParagraph. تحصل أو تعين مستطيل الفقرة
+title: "TextParagraph.Rectangle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextParagraph. يحصل أو يضبط مستطيل الفقرة"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.text/textparagraph/rectangle/
 ---
-## خاصية TextParagraph.Rectangle
+## TextParagraph.Rectangle property
 
-تحصل أو تعين مستطيل الفقرة.
+يحصل أو يعيّن مستطيل الفقرة.
 
 ```csharp
 public Rectangle Rectangle { get; set; }
@@ -20,3 +20,5 @@ public Rectangle Rectangle { get; set; }
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

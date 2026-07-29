@@ -1,20 +1,20 @@
 ---
-title: Form.ExportFdf
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. تصدر محتوى حقول pdf إلى تدفق fdf
+title: "Form.ExportFdf"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. تصدر محتوى حقول الـ pdf إلى تدفق fdf"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.facades/form/exportfdf/
 ---
-## طريقة Form.ExportFdf
+## Form.ExportFdf method
 
-تصدر محتوى حقول pdf إلى تدفق fdf.
+يصدّر محتوى حقول الـ pdf إلى تدفق fdf.
 
 ```csharp
 public void ExportFdf(Stream outputFdfStream)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | outputFdfStream | Stream | تدفق fdf الناتج. |
 
@@ -32,3 +32,5 @@ stream.Close();
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Heading.TocPage
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية العنوان. يحصل على الصفحة التي تحتوي على هذا العنوان
+title: "Heading.TocPage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Heading. تحصل على الصفحة التي تحتوي على هذا العنوان"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/heading/tocpage/
 ---
-## خاصية Heading.TocPage
+## Heading.TocPage property
 
 يحصل على الصفحة التي تحتوي على هذا العنوان.
 
@@ -20,3 +20,5 @@ public Page TocPage { get; set; }
 * class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

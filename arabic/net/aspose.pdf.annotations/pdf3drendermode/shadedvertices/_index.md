@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.ShadedVertices
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PDF3DRenderMode. وضع العرض ShadedVertices
+title: "PDF3DRenderMode.ShadedVertices"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PDF3DRenderMode. وضع العرض ShadedVertices"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.annotations/pdf3drendermode/shadedvertices/
 ---
-## حقل PDF3DRenderMode.ShadedVertices
+## PDF3DRenderMode.ShadedVertices field
 
 وضع العرض "ShadedVertices".
 
@@ -19,3 +19,5 @@ public static PDF3DRenderMode ShadedVertices;
 * class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

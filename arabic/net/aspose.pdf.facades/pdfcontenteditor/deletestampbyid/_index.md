@@ -1,25 +1,25 @@
 ---
-title: PdfContentEditor.DeleteStampById
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfContentEditor. تحذف الختم في الصفحة المحددة بواسطة معرف الختم
+title: "PdfContentEditor.DeleteStampById"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfContentEditor. تحذف الختم في الصفحة المحددة بواسطة معرف الختم"
 type: docs
 weight: 340
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/deletestampbyid/
 ---
 ## DeleteStampById(int, int) {#deletestampbyid_1}
 
-تحذف الختم في الصفحة المحددة بواسطة معرف الختم.
+يحذف الطابع في الصفحة المحددة حسب معرف الطابع.
 
 ```csharp
 public void DeleteStampById(int pageNumber, int stampId)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | pageNumber | Int32 | رقم الصفحة التي سيتم حذف الختم منها. |
-| stampId | Int32 | معرف الختم الذي يجب حذفه. |
+| stampId | Int32 | معرف الطابع الذي يجب حذفه. |
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfContentEditor contentEditor = new PdfContentEditor();
@@ -28,7 +28,7 @@ contentEditor.DeleteStampById(1, 100);
 contentEditor.Save("outfile.pdf");
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -38,17 +38,17 @@ contentEditor.Save("outfile.pdf");
 
 ## DeleteStampById(int) {#deletestampbyid}
 
-احذف الختم بواسطة المعرف من جميع صفحات المستند.
+احذف الطابع حسب المعرف من جميع صفحات المستند.
 
 ```csharp
 public void DeleteStampById(int stampId)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | stampId | Int32 | معرف الختم الذي يجب حذفه. |
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfContentEditor contentEditor = new PdfContentEditor();
@@ -57,8 +57,10 @@ contentEditor.DeleteStampById(100);
 contentEditor.Save("outfile.pdf");
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

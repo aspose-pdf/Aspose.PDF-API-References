@@ -1,14 +1,14 @@
 ---
-title: Annotation.Text
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية التعليق. تحصل أو تعين النص في محتوى الرسالة الذي يحتاج إلى الاستبدال
+title: "Annotation.Text"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Annotation. تحصل أو تعين النص في محتوى الرسالة الذي يحتاج إلى الاستبدال"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.ai/annotation/text/
 ---
-## خاصية Annotation.Text
+## Annotation.Text property
 
-تحصل أو تعين النص في محتوى الرسالة الذي يحتاج إلى الاستبدال.
+يتم الحصول على أو تعيين النص في محتوى الرسالة الذي يحتاج إلى استبداله.
 
 ```csharp
 public string Text { get; set; }
@@ -19,3 +19,5 @@ public string Text { get; set; }
 * class [Annotation](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,9 +1,9 @@
 ---
-title: Class LineInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.LineInfo class. يمثل معلومات الخط
+title: "الفئة LineInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Facades.LineInfo. تمثّل معلومات الخط"
 type: docs
-weight: 4400
+weight: 4520
 url: /ar/net/aspose.pdf.facades/lineinfo/
 ---
 ## LineInfo class
@@ -14,24 +14,26 @@ url: /ar/net/aspose.pdf.facades/lineinfo/
 public sealed class LineInfo
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [LineInfo](lineinfo/)() | المُنشئ الافتراضي. |
+| [LineInfo](lineinfo/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [BorderStyle](../../aspose.pdf.facades/lineinfo/borderstyle/) { get; set; } | يحصل أو يحدد نمط حدود الخط، 0 يمثل خطًا مستمرًا، 1 يمثل خطًا متقطعًا، 2 يمثل خطًا مائلًا، 3 يمثل إدراجًا، 4 يمثل خطًا تحت النص. |
-| [LineColor](../../aspose.pdf.facades/lineinfo/linecolor/) { get; set; } | يحصل أو يحدد لون الخط. |
-| [LineDashPattern](../../aspose.pdf.facades/lineinfo/linedashpattern/) { get; set; } | يحصل أو يحدد نمط الخط المتقطع. |
-| [LineWidth](../../aspose.pdf.facades/lineinfo/linewidth/) { get; set; } | يحصل أو يحدد عرض الخط. |
-| [VerticeCoordinate](../../aspose.pdf.facades/lineinfo/verticecoordinate/) { get; set; } | يحصل أو يحدد مصفوفة من الأرقام تمثل الإحداثيات الأفقية والعمودية بالتناوب، على التوالي، لكل رأس. |
-| [Visibility](../../aspose.pdf.facades/lineinfo/visibility/) { get; set; } | يحصل أو يحدد رؤية الخط. |
+| [BorderStyle](../../aspose.pdf.facades/lineinfo/borderstyle/) { get; set; } | يحصل أو يعيّن نمط حد الخط، 0 يمثل صلبًا، 1 يمثل متقطعًا، 2 يمثل محدبًا، 3 يمثل مدخلًا، 4 يمثل تحت الخط. |
+| [LineColor](../../aspose.pdf.facades/lineinfo/linecolor/) { get; set; } | يحصل أو يعيّن لون الخط. |
+| [LineDashPattern](../../aspose.pdf.facades/lineinfo/linedashpattern/) { get; set; } | يحصل أو يعيّن نمط الشرط للخط. |
+| [LineWidth](../../aspose.pdf.facades/lineinfo/linewidth/) { get; set; } | يحصل أو يعيّن عرض الخط. |
+| [VerticeCoordinate](../../aspose.pdf.facades/lineinfo/verticecoordinate/) { get; set; } | يحصل أو يعيّن مصفوفة من الأعداد التي تمثل الإحداثيات الأفقية والعمودية المتناوبة، على التوالي، لكل رأس. |
+| [Visibility](../../aspose.pdf.facades/lineinfo/visibility/) { get; set; } | يحصل أو يعيّن رؤية الخط. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

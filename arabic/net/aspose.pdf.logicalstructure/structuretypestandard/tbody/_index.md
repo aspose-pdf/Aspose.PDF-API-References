@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.TBody
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeStandard. مجموعة صفوف جسم الجدول PDF 1.5 مجموعة من الصفوف التي تشكل الجزء الرئيسي من جسم الجدول. إذا تم تقسيم الجدول عبر صفحات متعددة، قد يتم كسر منطقة الجسم عند حدود الصف. قد يحتوي الجدول على عناصر TBody متعددة للسماح برسم حدود أو خلفية لمجموعة من الصفوف.
+title: "StructureTypeStandard.TBody"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "StructureTypeStandard field. Table body row group PDF 1.5 مجموعة من الصفوف التي تشكل الجزء الرئيسي من جسم الجدول. إذا تم تقسيم الجدول عبر صفحات متعددة قد يتم تقسيم منطقة الجسم عند حد الصف. قد يحتوي الجدول على عناصر TBody متعددة للسماح برسم حد أو خلفية لمجموعة من الصفوف"
 type: docs
 weight: 390
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/tbody/
 ---
-## حقل StructureTypeStandard.TBody
+## StructureTypeStandard.TBody field
 
-(مجموعة صفوف جسم الجدول؛ PDF 1.5) مجموعة من الصفوف التي تشكل الجزء الرئيسي من جسم الجدول. إذا تم تقسيم الجدول عبر صفحات متعددة، قد يتم كسر منطقة الجسم عند حدود الصف. قد يحتوي الجدول على عناصر TBody متعددة للسماح برسم حدود أو خلفية لمجموعة من الصفوف.
+(مجموعة صفوف جسم الجدول؛ PDF 1.5) مجموعة من الصفوف التي تشكل الجزء الرئيسي من جسم الجدول. إذا تم تقسيم الجدول عبر صفحات متعددة، قد يتم تقسيم منطقة الجسم عند حد الصف. قد يحتوي الجدول على عناصر TBody متعددة للسماح برسم حد أو خلفية لمجموعة من الصفوف.
 
 ```csharp
 public static readonly StructureTypeStandard TBody;
@@ -19,3 +19,5 @@ public static readonly StructureTypeStandard TBody;
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

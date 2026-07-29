@@ -1,14 +1,14 @@
 ---
-title: DjvuLoadOptions.DjvuLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ DjvuLoadOptions. المُنشئ الافتراضي
+title: "DjvuLoadOptions.DjvuLoadOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ DjvuLoadOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/djvuloadoptions/djvuloadoptions/
 ---
-## مُنشئ DjvuLoadOptions
+## DjvuLoadOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public DjvuLoadOptions()
@@ -19,3 +19,5 @@ public DjvuLoadOptions()
 * class [DjvuLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

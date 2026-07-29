@@ -1,14 +1,14 @@
 ---
-title: XslFoLoadOptions.BasePath
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XslFoLoadOptions. المسار الأساسي/الرابط الذي يتم البحث من خلاله عن المسارات النسبية للموارد الخارجية إذا تم الإشارة إليها في ملف SVG المحمل
+title: "XslFoLoadOptions.BasePath"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XslFoLoadOptions. المسار/الرابط الأساسي الذي تُبحث منه المسارات النسبية للموارد الخارجية إذا تم الإشارة إليها في ملف SVG المحمَّل"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/xslfoloadoptions/basepath/
 ---
-## خاصية XslFoLoadOptions.BasePath
+## XslFoLoadOptions.BasePath property
 
-المسار الأساسي/الرابط الذي يتم البحث من خلاله عن المسارات النسبية للموارد الخارجية (إذا كانت موجودة) المشار إليها في ملف SVG المحمل.
+مسار/عنوان URL الأساسي الذي يتم البحث من خلاله عن المسارات النسبية للموارد الخارجية (إن وجدت) المشار إليها في ملف SVG المحمَّل.
 
 ```csharp
 public string BasePath { get; set; }
@@ -19,3 +19,5 @@ public string BasePath { get; set; }
 * class [XslFoLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

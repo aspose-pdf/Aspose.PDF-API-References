@@ -1,26 +1,28 @@
 ---
-title: ITaggedContent.CreateNonStructElement
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ITaggedContent. تنشئ NonStructElement
+title: "ITaggedContent.CreateNonStructElement"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ITaggedContent. تُنشئ NonStructElement"
 type: docs
-weight: 180
+weight: 210
 url: /ar/net/aspose.pdf.tagged/itaggedcontent/createnonstructelement/
 ---
 ## ITaggedContent.CreateNonStructElement method
 
-تنشئ [`NonStructElement`](../../../aspose.pdf.logicalstructure/nonstructelement/).
+ينشئ [`NonStructElement`](../../../aspose.pdf.logicalstructure/nonstructelement/).
 
 ```csharp
 public NonStructElement CreateNonStructElement()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-عنصر الهيكل الذي تم إنشاؤه.
+تم إنشاء عنصر بنية.
 
-### See Also
+### انظر أيضًا
 
 * class [NonStructElement](../../../aspose.pdf.logicalstructure/nonstructelement/)
 * interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

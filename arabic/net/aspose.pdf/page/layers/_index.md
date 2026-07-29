@@ -1,20 +1,20 @@
 ---
-title: Page.Layers
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصفحة. تحصل أو تعين مجموعة الطبقات
+title: "Page.Layers"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Page property. يحصل أو يعيّن مجموعة الطبقات"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf/page/layers/
 ---
-## خاصية Page.Layers
+## Page.Layers property
 
-تحصل أو تعين مجموعة الطبقات.
+يحصل أو يضبط مجموعة الطبقات.
 
 ```csharp
 public List<Layer> Layers { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 مجموعة الطبقات.
 
@@ -24,3 +24,5 @@ public List<Layer> Layers { get; set; }
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

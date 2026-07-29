@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.CustomStrategyOfCssUrlCreation
-second_title: Aspose.PDF for .NET API Reference
-description: حقل HtmlSaveOptions. يمكن أن يحتوي هذا الحقل على طريقة مخصصة تعيد URL أو قالب URL إذا كانت عملية التوليد متعددة الصفحات مفعلة - انظر التفاصيل أدناه لموضوع CSS كما يجب أن يتم وضعه في HTML الناتج. على سبيل المثال، إذا كنت تريد من المحول وضع URL محدد بدلاً من اسم ملف CSS القياسي في CSS الناتج، فيجب عليك فقط إنشاء ووضع في هذه الخاصية طريقة تولد URL المرغوب. إذا تم تعيين علامة 'SplitCssIntoPages'، فيجب أن تعيد هذه الاستراتيجية المخصصة إن وجدت ليس URL دقيق لـ CSS ولكن بدلاً من ذلك سلسلة قالب يمكن بعد استبدال العنصر النائب برقم الصفحة باستخدام دالة string.Format داخل المحول أن يتم حلها إلى URL لـ CSS لهذه الصفحة أو تلك. أمثلة على سلسلة الإرجاع المتوقعة في هذه الحالة هي
+title: "HtmlSaveOptions.CustomStrategyOfCssUrlCreation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل HtmlSaveOptions. يمكن لهذا الحقل أن يحتوي على طريقة مخصصة تُعيد URL أو قالب URL إذا كان توليد الصفحات المتعددة مفعلاً؛ راجع التفاصيل أدناه حول CSS المطلوب وضعه في HTML الناتج. على سبيل المثال، إذا كنت تريد أن يضع المحول URL محدد بدلاً من اسم ملف CSS القياسي في CSS المُولد، فيجب عليك إنشاء وإدراج طريقة في هذه الخاصية تُولّد URL المطلوب. إذا تم تعيين العلامة SplitCssIntoPages، يجب على هذه الاستراتيجية المخصصة، إن وجدت، أن تُعيد ليس URL محدد للـ CSS بل قالب نص يُستبدل فيه العنصر النائب برقم الصفحة باستخدام دالة string.Format داخل المحول لتتحول إلى URL لملف CSS الخاص بهذه الصفحة أو تلك الصفحة. أمثلة على النص المتوقع إرجاعه في مثل هذه الحالة هي SomeTargetLocationpage_0.css../PartHandlers/GetCss.aspxDocumentId45654CssPage0"
 type: docs
 weight: 300
 url: /ar/net/aspose.pdf/htmlsaveoptions/customstrategyofcssurlcreation/
 ---
-## حقل HtmlSaveOptions.CustomStrategyOfCssUrlCreation
+## HtmlSaveOptions.CustomStrategyOfCssUrlCreation field
 
-يمكن أن يحتوي هذا الحقل على طريقة مخصصة تعيد URL (أو قالب URL إذا كانت عملية التوليد متعددة الصفحات مفعلة - انظر التفاصيل أدناه) لموضوع CSS كما يجب أن يتم وضعه في HTML الناتج. على سبيل المثال، إذا كنت تريد من المحول وضع URL محدد بدلاً من اسم ملف CSS القياسي في CSS الناتج، فيجب عليك فقط إنشاء ووضع في هذه الخاصية طريقة تولد URL المرغوب. إذا تم تعيين علامة 'SplitCssIntoPages'، فيجب أن تعيد هذه الاستراتيجية المخصصة (إن وجدت) ليس URL دقيق لـ CSS ولكن بدلاً من ذلك سلسلة قالب يمكن (بعد استبدال العنصر النائب برقم الصفحة باستخدام دالة string.Format() داخل المحول) أن يتم حلها إلى URL لـ CSS لهذه الصفحة أو تلك. أمثلة على سلسلة الإرجاع المتوقعة في هذه الحالة هي: 'SomeTargetLocation-page_{0}.css','../PartHandlers/GetCss.aspx?DocumentId=45654&amp;CssPage={0}'
+يمكن لهذا الحقل أن يحتوي على طريقة مخصصة تُعيد عنوان URL (أو قالب URL إذا كان توليد متعدد الصفحات مفعَّلًا - راجع التفاصيل أدناه) لملف CSS المستهدف كما يجب وضعه في HTML الناتج المُولَّد. على سبيل المثال، إذا كنت تريد أن يضع المحول عنوان URL محدد بدلاً من اسم ملف CSS القياسي في CSS المُولَّد، فيجب عليك إنشاء ووضع في هذا الخاصية طريقة تُولِّد عنوان URL المرغوب. إذا تم تعيين العلامة 'SplitCssIntoPages'، يجب على هذه الاستراتيجية المخصصة (إن وجدت) أن تُعيد ليس عنوان URL دقيق للـ CSS بل قالب سلسلة يُستبدل فيه العنصر النائب برقم الصفحة باستخدام دالة string.Format() داخل المحول، بحيث يمكن تحويله إلى عنوان URL لملف CSS الخاص بهذه الصفحة أو تلك الصفحة. أمثلة على سلسلة الإرجاع المتوقعة في هذه الحالة هي: 'SomeTargetLocation-page_{0}.css','../PartHandlers/GetCss.aspx?DocumentId=45654&amp;CssPage={0}')
 
 ```csharp
 public CssUrlMakingStrategy CustomStrategyOfCssUrlCreation;
@@ -20,3 +20,5 @@ public CssUrlMakingStrategy CustomStrategyOfCssUrlCreation;
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.WT
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeStandard. نص واريتشو النص الأصغر لحقل تعليق واريتشو الذي يتم تنسيقه في سطرين ويوضع بين عناصر WP المحيطة
+title: "StructureTypeStandard.WT"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل StructureTypeStandard. Warichu text النص الأصغر حجمًا لتعليق warichu الذي يتم تنسيقه إلى سطرين ويوضع بين عناصر WP المحيطة"
 type: docs
 weight: 490
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/wt/
 ---
-## حقل StructureTypeStandard.WT
+## StructureTypeStandard.WT field
 
-(نص واريتشو) النص الأصغر لحقل تعليق واريتشو الذي يتم تنسيقه في سطرين ويوضع بين عناصر WP المحيطة.
+(Warichu text) النص الأصغر حجمًا لتعليق warichu الذي يُنسَّق على سطرين ويوضع بين عناصر WP المحيطة.
 
 ```csharp
 public static readonly StructureTypeStandard WT;
@@ -19,3 +19,5 @@ public static readonly StructureTypeStandard WT;
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

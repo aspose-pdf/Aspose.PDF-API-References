@@ -1,25 +1,25 @@
 ---
-title: FloatingBox.FloatingBox
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FloatingBox. يقوم بتهيئة مثيل جديد من فئة FloatingBox مع عرض وارتفاع محددين
+title: "FloatingBox.FloatingBox"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FloatingBox. يهيئ نسخة جديدة من فئة FloatingBox بالعرض والارتفاع المحددين"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/floatingbox/floatingbox/
 ---
 ## FloatingBox(float, float) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة [`FloatingBox`](../) مع عرض وارتفاع محددين.
+يهيئ نسخة جديدة من الفئة [`FloatingBox`](../) بالعرض والارتفاع المحددين.
 
 ```csharp
 public FloatingBox(float width, float height)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| width | Single | عرض الصندوق. |
-| height | Single | ارتفاع الصندوق. |
+| العرض | Single | عرض الصندوق. |
+| الارتفاع | Single | ارتفاع الصندوق. |
 
-### See Also
+### انظر أيضًا
 
 * class [FloatingBox](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -29,14 +29,16 @@ public FloatingBox(float width, float height)
 
 ## FloatingBox() {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`FloatingBox`](../).
+يهيئ نسخة جديدة من الفئة [`FloatingBox`](../).
 
 ```csharp
 public FloatingBox()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [FloatingBox](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

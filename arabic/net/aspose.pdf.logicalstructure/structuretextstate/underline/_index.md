@@ -1,14 +1,14 @@
 ---
-title: StructureTextState.Underline
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StructureTextState. تحصل أو تعين خط تحت النص
+title: "StructureTextState.Underline"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StructureTextState. تحصل أو تعيّن التسطير للنص"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.logicalstructure/structuretextstate/underline/
 ---
-## خاصية StructureTextState.Underline
+## StructureTextState.Underline property
 
-تحصل أو تعين خط تحت النص.
+يحصل أو يضبط تسطير النص.
 
 ```csharp
 public bool? Underline { get; set; }
@@ -16,10 +16,12 @@ public bool? Underline { get; set; }
 
 ## ملاحظات
 
-يمكن أن تكون فارغة. استخدم فارغًا لوراثة خاصية `Underline` من عنصر الهيكل الأب.
+يمكن أن تكون null. استخدم null لتوريث خاصية `Underline` من عنصر البنية الأصل.
 
 ### انظر أيضًا
 
 * class [StructureTextState](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

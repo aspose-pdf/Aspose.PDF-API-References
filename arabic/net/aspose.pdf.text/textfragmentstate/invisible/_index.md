@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.Invisible
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragmentState. تحصل أو تعين عدم وضوح النص
+title: "TextFragmentState.Invisible"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragmentState. تحصل أو تعين إخفاء النص"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.text/textfragmentstate/invisible/
 ---
-## خاصية TextFragmentState.Invisible
+## TextFragmentState.Invisible property
 
-تحصل أو تعين عدم وضوح النص.
+الحصول أو تعيين عدم ظهور النص.
 
 ```csharp
 public override bool Invisible { get; set; }
@@ -19,3 +19,5 @@ public override bool Invisible { get; set; }
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

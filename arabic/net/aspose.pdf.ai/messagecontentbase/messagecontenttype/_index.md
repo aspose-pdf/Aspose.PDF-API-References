@@ -1,14 +1,14 @@
 ---
-title: MessageContentBase.MessageContentType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MessageContentBase. تحصل أو تعين نوع المحتوى
+title: "MessageContentBase.MessageContentType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MessageContentBase. تحصل أو تعين نوع المحتوى"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/messagecontentbase/messagecontenttype/
 ---
-## خاصية MessageContentBase.MessageContentType
+## MessageContentBase.MessageContentType property
 
-تحصل أو تعين نوع المحتوى.
+يحصل أو يعيّن نوع المحتوى.
 
 ```csharp
 public string MessageContentType { get; set; }
@@ -19,3 +19,5 @@ public string MessageContentType { get; set; }
 * class [MessageContentBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

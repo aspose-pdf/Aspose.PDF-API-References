@@ -1,14 +1,14 @@
 ---
-title: Field.TabOrder
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الحقل. تحصل أو تعين ترتيب التبويب للحقل
+title: "Field.TabOrder"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Field. يحصل على أو يضبط ترتيب التبويب للحقول"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.forms/field/taborder/
 ---
-## خاصية Field.TabOrder
+## Field.TabOrder property
 
-تحصل أو تعين ترتيب التبويب للحقل.
+يحصل أو يعيّن ترتيب التبويب للحقل.
 
 ```csharp
 public int TabOrder { get; set; }
@@ -19,3 +19,5 @@ public int TabOrder { get; set; }
 * class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

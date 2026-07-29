@@ -1,28 +1,30 @@
 ---
-title: Enum SvgLoadOptions.ConversionEngines
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.SvgLoadOptionsConversionEngines enum. تعدد محركات التحويل التي يمكن استخدامها للتحويل
+title: "تعداد SvgLoadOptions.ConversionEngines"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.SvgLoadOptionsConversionEngines. يعدد محركات التحويل التي يمكن استخدامها للتحويل"
 type: docs
-weight: 10220
+weight: 10400
 url: /ar/net/aspose.pdf/svgloadoptions.conversionengines/
 ---
 ## SvgLoadOptions.ConversionEngines enumeration
 
-تعدد محركات التحويل التي يمكن استخدامها للتحويل
+يعدد محركات التحويل التي يمكن استخدامها في التحويل
 
 ```csharp
 public enum ConversionEngines
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | LegacyEngine | `0` | يمثل محرك تحويل SVG إلى PDF القديم. |
 | NewEngine | `1` | يمثل محرك تحويل SVG إلى PDF الجديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [SvgLoadOptions](../svgloadoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

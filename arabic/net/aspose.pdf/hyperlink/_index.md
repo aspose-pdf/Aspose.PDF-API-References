@@ -1,14 +1,14 @@
 ---
-title: Class Hyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Hyperlink. تمثل ارتباطًا تشعبيًا مجردًا
+title: "الفئة Hyperlink"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Hyperlink. تمثل ارتباطًا تشعبيًا مجردًا."
 type: docs
-weight: 5740
+weight: 5870
 url: /ar/net/aspose.pdf/hyperlink/
 ---
-## فئة الارتباط التشعبي
+## Hyperlink class
 
-تمثل ارتباطًا تشعبيًا مجردًا.
+يمثل ارتباطًا تشعبيًا مجردًا.
 
 ```csharp
 public abstract class Hyperlink
@@ -16,5 +16,7 @@ public abstract class Hyperlink
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

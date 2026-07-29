@@ -1,14 +1,14 @@
 ---
-title: Optimizer.Optimizer
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ المحسن. المُنشئ الافتراضي
+title: "Optimizer.Optimizer"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Optimizer constructor. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/optimizer/optimizer/
 ---
-## مُنشئ المحسن
+## Optimizer constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public Optimizer()
@@ -19,3 +19,5 @@ public Optimizer()
 * class [Optimizer](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

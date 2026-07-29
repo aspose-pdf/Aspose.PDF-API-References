@@ -1,14 +1,14 @@
 ---
-title: Interface IImageDescriptionCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.AI.IImageDescriptionCopilot. تمثل مساعد وصف الصورة لاستخراج أوصاف الصور باستخدام نماذج الذكاء الاصطناعي
+title: "الواجهة IImageDescriptionCopilot"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الواجهة Aspose.Pdf.AI.IImageDescriptionCopilot. تمثل مساعد وصف الصورة لاستخراج أوصاف الصور باستخدام نماذج الذكاء الاصطناعي"
 type: docs
-weight: 510
+weight: 530
 url: /ar/net/aspose.pdf.ai/iimagedescriptioncopilot/
 ---
-## واجهة IImageDescriptionCopilot
+## IImageDescriptionCopilot interface
 
-تمثل مساعد وصف الصورة لاستخراج أوصاف الصور باستخدام نماذج الذكاء الاصطناعي.
+يمثل مساعد وصف الصورة لاستخراج أوصاف الصور باستخدام نماذج الذكاء الاصطناعي.
 
 ```csharp
 public interface IImageDescriptionCopilot : IAICopilot
@@ -22,6 +22,8 @@ public interface IImageDescriptionCopilot : IAICopilot
 
 ### انظر أيضًا
 
-* واجهة [IAICopilot](../iaicopilot/)
-* مساحة الأسماء [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../)
+* interface [IAICopilot](../iaicopilot/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

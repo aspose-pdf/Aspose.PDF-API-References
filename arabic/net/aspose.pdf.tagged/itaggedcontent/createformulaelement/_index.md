@@ -1,14 +1,14 @@
 ---
-title: ITaggedContent.CreateFormulaElement
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ITaggedContent. تنشئ FormulaElement
+title: "ITaggedContent.CreateFormulaElement"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ITaggedContent. ينشئ FormulaElement"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.tagged/itaggedcontent/createformulaelement/
 ---
-## طريقة ITaggedContent.CreateFormulaElement
+## ITaggedContent.CreateFormulaElement method
 
-تنشئ [`FormulaElement`](../../../aspose.pdf.logicalstructure/formulaelement/).
+ينشئ [`FormulaElement`](../../../aspose.pdf.logicalstructure/formulaelement/).
 
 ```csharp
 public FormulaElement CreateFormulaElement()
@@ -16,7 +16,7 @@ public FormulaElement CreateFormulaElement()
 
 ### قيمة الإرجاع
 
-عنصر هيكل تم إنشاؤه.
+تم إنشاء عنصر بنية.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public FormulaElement CreateFormulaElement()
 * interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.EndPage
-second_title: Aspose.PDF for .NET API Reference
-description: حدث PdfViewer. يحدث عندما تنتهي طباعة صفحة في PdfViewer
+title: "PdfViewer.EndPage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حدث PdfViewer. يحدث عندما تنتهي طباعة صفحة في PdfViewer"
 type: docs
 weight: 210
 url: /ar/net/aspose.pdf.facades/pdfviewer/endpage/
 ---
-## حدث PdfViewer.EndPage
+## PdfViewer.EndPage event
 
 يحدث عندما تنتهي طباعة صفحة في PdfViewer.
 
@@ -16,7 +16,7 @@ public event EventHandler<StartEndPageEventArgs> EndPage;
 
 ## ملاحظات
 
-يتم تفعيل هذا الحدث بعد معالجة صفحة في PdfViewer. يمكن استخدامه لتنفيذ إجراءات أو تحديثات بعد طباعة صفحة.
+يتم تشغيل هذا الحدث بعد معالجة صفحة في PdfViewer. يمكن استخدامه لتنفيذ إجراءات أو تحديثات بعد طباعة الصفحة.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public event EventHandler<StartEndPageEventArgs> EndPage;
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

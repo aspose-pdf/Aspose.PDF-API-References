@@ -1,14 +1,14 @@
 ---
-title: OptionCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OptionCollection. تعيد true إذا كان الكائن متزامنًا
+title: "OptionCollection.IsSynchronized"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OptionCollection. تُرجع true إذا كان الكائن متزامنًا"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.forms/optioncollection/issynchronized/
 ---
-## خاصية OptionCollection.IsSynchronized
+## OptionCollection.IsSynchronized property
 
-تعيد true إذا كان الكائن متزامنًا.
+يعيد true إذا كان الكائن متزامنًا.
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -19,3 +19,5 @@ public bool IsSynchronized { get; }
 * class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

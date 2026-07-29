@@ -1,14 +1,14 @@
 ---
-title: Page.FreeMemory
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الصفحة. يمسح البيانات المخزنة مؤقتًا
+title: "Page.FreeMemory"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Page method. يمسح البيانات المخزنة مؤقتًا"
 type: docs
 weight: 440
 url: /ar/net/aspose.pdf/page/freememory/
 ---
-## طريقة Page.FreeMemory
+## Page.FreeMemory method
 
-Clears cached data
+يمسح البيانات المخزنة مؤقتًا
 
 ```csharp
 public void FreeMemory()
@@ -19,3 +19,5 @@ public void FreeMemory()
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

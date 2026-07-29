@@ -1,14 +1,14 @@
 ---
-title: Font.IsSubset
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الخط. تحصل أو تعين قيمة تشير إلى ما إذا كان الخط مجموعة فرعية. الخط المستند إلى IFont سيتم تلقائيًا أن يكون مجموعة فرعية ومدمجة
+title: "Font.IsSubset"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Font. تحصل أو تعين قيمة تشير إلى ما إذا كان الخط مجموعة فرعية. الخط المستند إلى IFont سيتم تقليصه وتضمينه تلقائيًا"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.text/font/issubset/
 ---
-## خاصية Font.IsSubset
+## Font.IsSubset property
 
-تحصل أو تعين قيمة تشير إلى ما إذا كان الخط مجموعة فرعية. الخط المستند إلى IFont سيتم تلقائيًا أن يكون مجموعة فرعية ومدمجة
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان الخط مجموعة فرعية. الخط المستند إلى IFont سيُقسم تلقائيًا ويُضمّن.
 
 ```csharp
 public bool IsSubset { get; set; }
@@ -16,19 +16,19 @@ public bool IsSubset { get; set; }
 
 ## أمثلة
 
-المثال يوضح كيفية البحث عن نص في الصفحة الأولى والحصول على القيمة التي تشير إلى ما إذا كان الخط مجموعة فرعية.
+يوضح المثال كيفية البحث عن النص في الصفحة الأولى والحصول على القيمة التي تشير إلى ما إذا كان الخط مجموعة فرعية.
 
 ```csharp
-// Open document
+// فتح المستند
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// إنشاء كائن TextFragmentAbsorber للعثور على جميع تكرارات النص "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// قبول الماص للصفحة الأولى
 doc.Pages[1].Accept(absorber);
 
-// View font's IsSubset value of first text occurrence
+// عرض قيمة IsSubset للخط في أول ظهور للنص
 if(absorber.TextFragments[1].TextState.Font.IsSubset)
    Console.Out.WriteLine("the font is a subset");
 ```
@@ -40,3 +40,5 @@ if(absorber.TextFragments[1].TextState.Font.IsSubset)
 * class [Font](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

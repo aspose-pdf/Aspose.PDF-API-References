@@ -1,28 +1,28 @@
 ---
-title: Form.ImportFromJson
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. تستورد حقول نموذج PDF من تنسيق JSON المقدم في الدفق
+title: "Form.ImportFromJson"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. تستورد حقول نموذج PDF من تنسيق JSON المقدم في الدفق."
 type: docs
-weight: 290
+weight: 310
 url: /ar/net/aspose.pdf.forms/form/importfromjson/
 ---
 ## ImportFromJson(Stream) {#importfromjson}
 
-تستورد حقول نموذج PDF من تنسيق JSON المقدم في الدفق.
+يستورد حقول نموذج PDF من تنسيق JSON المقدم في الدفق.
 
 ```csharp
 public IEnumerable<FieldSerializationResult> ImportFromJson(Stream stream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | stream | Stream | الدفق لقراءة مدخلات JSON منه. |
 
-### Return Value
+### قيمة الإرجاع
 
 مجموعة من [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) تشير إلى نتيجة عملية الاستيراد لكل حقل نموذج.
 
-## Examples
+## أمثلة
 
 ```csharp
 Document document = new Document("PdfDoc.pdf");
@@ -32,7 +32,7 @@ fs.Close();
 document.Save();
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
 * class [Form](../)
@@ -43,21 +43,21 @@ document.Save();
 
 ## ImportFromJson(string) {#importfromjson_1}
 
-تستورد حقول نموذج PDF من تنسيق JSON المقدم في الملف المحدد.
+يستورد حقول نموذج PDF من تنسيق JSON المقدم في الملف المحدد.
 
 ```csharp
 public IEnumerable<FieldSerializationResult> ImportFromJson(string fileName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fileName | String | اسم الملف لقراءة مدخلات JSON منه. |
 
-### Return Value
+### قيمة الإرجاع
 
 مجموعة من [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) تشير إلى نتيجة عملية الاستيراد لكل حقل نموذج.
 
-## Examples
+## أمثلة
 
 ```csharp
 Document document = new Document("PdfDoc.pdf");
@@ -66,9 +66,11 @@ document.Form.ImportFormFieldsFromJson(jsonPath);
 document.Save();
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

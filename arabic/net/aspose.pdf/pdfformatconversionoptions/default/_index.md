@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.Default
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFormatConversionOptions. تحصل على كائن PdfFormatConversionOptions مع المعلمات الافتراضية
+title: "PdfFormatConversionOptions.Default"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFormatConversionOptions. تحصل على كائن PdfFormatConversionOptions بمعلمات افتراضية"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/pdfformatconversionoptions/default/
 ---
-## خاصية PdfFormatConversionOptions.Default
+## PdfFormatConversionOptions.Default property
 
-تحصل على كائن PdfFormatConversionOptions مع المعلمات الافتراضية
+يحصل على كائن PdfFormatConversionOptions مع المعلمات الافتراضية
 
 ```csharp
 public static PdfFormatConversionOptions Default { get; }
@@ -19,3 +19,5 @@ public static PdfFormatConversionOptions Default { get; }
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

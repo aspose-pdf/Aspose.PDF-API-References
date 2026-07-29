@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.P
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeStandard. فقرة تقسيم نص منخفض المستوى
+title: "StructureTypeStandard.P"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "StructureTypeStandard field. فقرة تقسيم منخفض المستوى للنص."
 type: docs
 weight: 270
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/p/
 ---
-## حقل StructureTypeStandard.P
+## StructureTypeStandard.P field
 
-(فقرة) تقسيم نص منخفض المستوى.
+(فقرة) تقسيم منخفض المستوى للنص.
 
 ```csharp
 public static readonly StructureTypeStandard P;
@@ -19,3 +19,5 @@ public static readonly StructureTypeStandard P;
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

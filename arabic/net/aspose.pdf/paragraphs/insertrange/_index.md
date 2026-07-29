@@ -1,23 +1,23 @@
 ---
-title: Paragraphs.InsertRange
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الفقرات. تُدرج عناصر مجموعة في القائمة عند الفهرس المحدد
+title: "Paragraphs.InsertRange"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Paragraphs. تُدرج عناصر مجموعة في القائمة عند الفهرس المحدد."
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf/paragraphs/insertrange/
 ---
-## طريقة الفقرات.InsertRange
+## Paragraphs.InsertRange method
 
-تُدرج عناصر مجموعة في القائمة عند الفهرس المحدد.
+يدرج عناصر مجموعة في القائمة عند الفهرس المحدد.
 
 ```csharp
 public void InsertRange(int index, IEnumerable<BaseParagraph> collection)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | index | Int32 | قيمة الفهرس. |
-| collection | IEnumerable`1 | مجموعة. |
+| مجموعة | IEnumerable`1 | مجموعة. |
 
 ### انظر أيضًا
 
@@ -25,3 +25,5 @@ public void InsertRange(int index, IEnumerable<BaseParagraph> collection)
 * class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

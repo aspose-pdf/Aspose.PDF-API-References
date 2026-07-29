@@ -1,14 +1,14 @@
 ---
-title: BaseParagraph.ZIndex
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BaseParagraph. تحصل أو تعين قيمة int تشير إلى ترتيب Z للرسوم البيانية. سيتم وضع الرسم البياني ذو ZIndex الأكبر فوق الرسم البياني ذو ZIndex الأصغر. يمكن أن تكون ZIndex سالبة. سيتم وضع الرسم البياني ذو ZIndex السالب خلف النص في الصفحة.
+title: "BaseParagraph.ZIndex"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BaseParagraph. يحصل أو يعيّن قيمة int تُشير إلى ترتيب Z للرسمة. الرسمة ذات ZIndex أكبر ستُوضع فوق الرسمة ذات ZIndex أصغر. يمكن أن يكون ZIndex سالبًا. الرسمة ذات ZIndex سالب ستُوضع خلف النص في الصفحة."
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/baseparagraph/zindex/
 ---
-## خاصية BaseParagraph.ZIndex
+## BaseParagraph.ZIndex property
 
-تحصل أو تعين قيمة int تشير إلى ترتيب Z للرسوم البيانية. سيتم وضع الرسم البياني ذو ZIndex الأكبر فوق الرسم البياني ذو ZIndex الأصغر. يمكن أن تكون ZIndex سالبة. سيتم وضع الرسم البياني ذو ZIndex السالب خلف النص في الصفحة.
+يحصل أو يعيّن قيمة عددية تشير إلى ترتيب Z للرسم البياني. الرسم البياني ذو ZIndex أكبر سيُوضع فوق الرسم البياني ذو ZIndex أصغر. يمكن أن يكون ZIndex سالبًا. الرسم البياني ذو ZIndex سالب سيُوضع خلف النص في الصفحة.
 
 ```csharp
 public int ZIndex { get; set; }
@@ -19,3 +19,5 @@ public int ZIndex { get; set; }
 * class [BaseParagraph](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

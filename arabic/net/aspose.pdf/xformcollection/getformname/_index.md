@@ -1,22 +1,22 @@
 ---
-title: XFormCollection.GetFormName
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XFormCollection. تعيد اسم النموذج في مجموعة النماذج هذه
+title: "XFormCollection.GetFormName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XFormCollection. إرجاع اسم النموذج في مجموعة النماذج هذه"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf/xformcollection/getformname/
 ---
-## طريقة XFormCollection.GetFormName
+## XFormCollection.GetFormName method
 
-تعيد اسم النموذج في مجموعة النماذج هذه.
+يرجع اسم النموذج في هذه المجموعة.
 
 ```csharp
 public string GetFormName(XForm form)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| form | XForm | النموذج الذي يتم البحث عن اسمه. |
+| نموذج | XForm | النموذج الذي يُبحث عن اسمه. |
 
 ### قيمة الإرجاع
 
@@ -28,3 +28,5 @@ public string GetFormName(XForm form)
 * class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

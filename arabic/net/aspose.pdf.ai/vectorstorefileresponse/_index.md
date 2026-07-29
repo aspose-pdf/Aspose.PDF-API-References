@@ -1,9 +1,9 @@
 ---
-title: Class VectorStoreFileResponse
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.VectorStoreFileResponse. استجابة ملف مخزن المتجهات
+title: "فئة VectorStoreFileResponse"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.AI.VectorStoreFileResponse. استجابة ملف مخزن المتجهات"
 type: docs
-weight: 1350
+weight: 1440
 url: /ar/net/aspose.pdf.ai/vectorstorefileresponse/
 ---
 ## VectorStoreFileResponse class
@@ -14,34 +14,36 @@ url: /ar/net/aspose.pdf.ai/vectorstorefileresponse/
 public class VectorStoreFileResponse : BaseResponse, IStatus
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [VectorStoreFileResponse](vectorstorefileresponse/)() | المُنشئ الافتراضي. |
+| [VectorStoreFileResponse](vectorstorefileresponse/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [CreatedAt](../../aspose.pdf.ai/vectorstorefileresponse/createdat/) { get; set; } | يحصل أو يحدد الطابع الزمني لنظام Unix (بالثواني) عند إنشاء ملف مخزن المتجهات. |
-| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | يحصل أو يحدد تفاصيل الاستجابة. |
-| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | يحصل أو يحدد خطأ استجابة HTTP. |
-| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | يحصل أو يحدد معلومات الخطأ. |
-| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | يحصل أو يحدد رؤوس استجابة HTTP. |
-| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | يحصل أو يحدد رمز حالة HTTP. |
-| [Id](../../aspose.pdf.ai/vectorstorefileresponse/id/) { get; set; } | يحصل أو يحدد المعرف، الذي يمكن الإشارة إليه في نقاط نهاية API. /// |
+| [CreatedAt](../../aspose.pdf.ai/vectorstorefileresponse/createdat/) { get; set; } | يحصل أو يعيّن طابع الوقت Unix (بالثواني) للوقت الذي تم فيه إنشاء ملف مخزن المتجهات. |
+| [Detail](../../aspose.pdf.ai/baseresponse/detail/) { get; set; } | يتم الحصول على أو تعيين تفاصيل الاستجابة. |
+| [Error](../../aspose.pdf.ai/baseresponse/error/) { get; set; } | يتم الحصول على أو تعيين خطأ استجابة HTTP. |
+| [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | يتم الحصول على أو تعيين معلومات الخطأ. |
+| [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | يتم الحصول على أو تعيين رؤوس استجابة HTTP. |
+| [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | يتم الحصول على أو تعيين رمز حالة HTTP. |
+| [Id](../../aspose.pdf.ai/vectorstorefileresponse/id/) { get; set; } | يحصل أو يعيّن المعرف، والذي يمكن الإشارة إليه في نقاط النهاية API. /// |
 | [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | يشير إلى ما إذا كانت الاستجابة ناجحة. |
-| [LastError](../../aspose.pdf.ai/vectorstorefileresponse/lasterror/) { get; set; } | يحصل أو يحدد آخر خطأ مرتبط بهذا الملف المخزن للمتجهات. سيكون فارغًا إذا لم يكن هناك أخطاء. |
-| [Object](../../aspose.pdf.ai/vectorstorefileresponse/object/) { get; set; } | يحصل أو يحدد نوع الكائن، الذي يكون دائمًا vector_store.file. |
-| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | يحصل على عبارة سبب الخطأ. |
-| [Status](../../aspose.pdf.ai/vectorstorefileresponse/status/) { get; set; } | يحصل أو يحدد حالة ملف مخزن المتجهات، والتي يمكن أن تكون إما قيد المعالجة، مكتملة، ملغاة، أو فاشلة. تشير الحالة المكتملة إلى أن ملف مخزن المتجهات جاهز للاستخدام. |
-| [UsageBytes](../../aspose.pdf.ai/vectorstorefileresponse/usagebytes/) { get; set; } | يحصل أو يحدد إجمالي استخدام مخزن المتجهات بالبايت. لاحظ أن هذا قد يختلف عن حجم الملف الأصلي. |
-| [VectorStoreId](../../aspose.pdf.ai/vectorstorefileresponse/vectorstoreid/) { get; set; } | يحصل أو يحدد معرف مخزن المتجهات الذي يرتبط به الملف. |
+| [LastError](../../aspose.pdf.ai/vectorstorefileresponse/lasterror/) { get; set; } | يحصل أو يعيّن الخطأ الأخير المرتبط بهذا ملف مخزن المتجهات. سيكون null إذا لم يكن هناك أخطاء. |
+| [Object](../../aspose.pdf.ai/vectorstorefileresponse/object/) { get; set; } | يحصل أو يعيّن نوع الكائن، والذي يكون دائمًا vector_store.file. |
+| [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | يتم الحصول على عبارة سبب الخطأ. |
+| [Status](../../aspose.pdf.ai/vectorstorefileresponse/status/) { get; set; } | يحصل أو يعيّن حالة ملف مخزن المتجهات، والتي يمكن أن تكون إما in_progress، completed، cancelled، أو failed. تشير الحالة completed إلى أن ملف مخزن المتجهات جاهز للاستخدام. |
+| [UsageBytes](../../aspose.pdf.ai/vectorstorefileresponse/usagebytes/) { get; set; } | يحصل أو يعيّن إجمالي استخدام مخزن المتجهات بالبايت. لاحظ أن هذا قد يختلف عن حجم الملف الأصلي. |
+| [VectorStoreId](../../aspose.pdf.ai/vectorstorefileresponse/vectorstoreid/) { get; set; } | يسترجع أو يعيّن معرف مخزن المتجهات الذي تم إرفاق الملف به. |
 
-### See Also
+### انظر أيضًا
 
 * class [BaseResponse](../baseresponse/)
 * interface [IStatus](../istatus/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

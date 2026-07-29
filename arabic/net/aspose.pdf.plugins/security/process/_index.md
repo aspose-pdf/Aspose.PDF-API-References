@@ -1,7 +1,7 @@
 ---
-title: Security.Process
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الأمان. تبدأ معالجة الأمان بالمعلمات المحددة
+title: "Security.Process"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Security. تبدأ معالجة Security بالمعلمات المحددة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/security/process/
@@ -14,24 +14,26 @@ url: /ar/net/aspose.pdf.plugins/security/process/
 public ResultContainer Process(IPluginOptions options)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | options | IPluginOptions | كائن خيارات يحتوي على تعليمات لـ [`Security`](../). |
 
-### Return Value
+### قيمة الإرجاع
 
 كائن ResultContainer يحتوي على نتيجة العملية.
 
-### Exceptions
+### الاستثناءات
 
-| exception | condition |
+| استثناء | شرط |
 | --- | --- |
 | InvalidOperationException |  |
 
-### See Also
+### انظر أيضًا
 
 * class [ResultContainer](../../resultcontainer/)
 * interface [IPluginOptions](../../ipluginoptions/)
 * class [Security](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

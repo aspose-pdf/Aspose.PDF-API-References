@@ -1,22 +1,22 @@
 ---
-title: OptionCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية مجموعة الخيارات. الحصول على الخيار حسب الفهرس
+title: "OptionCollection.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OptionCollection. تحصل على الخيار حسب الفهرس"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.forms/optioncollection/item/
 ---
-## فهرس مجموعة الخيارات (1 من 2)
+## OptionCollection indexer (1 of 2)
 
-الحصول على الخيار حسب الفهرس.
+يحصل على الخيار حسب الفهرس.
 
 ```csharp
 public Option this[int index] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| الفهرس | فهرس الخيار. |
+| index | فهرس الخيار. |
 
 ### قيمة الإرجاع
 
@@ -31,21 +31,21 @@ public Option this[int index] { get; }
 
 ---
 
-## فهرس مجموعة الخيارات (2 من 2)
+## OptionCollection indexer (2 of 2)
 
-الحصول على الخيار حسب اسمه.
+يحصل على الخيار باسمه.
 
 ```csharp
 public Option this[string name] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
 | الاسم | اسم الخيار. |
 
 ### قيمة الإرجاع
 
-الخيار الموجود.
+تم العثور على الخيار.
 
 ### انظر أيضًا
 
@@ -53,3 +53,5 @@ public Option this[string name] { get; }
 * class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

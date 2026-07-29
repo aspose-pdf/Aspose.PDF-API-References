@@ -1,14 +1,14 @@
 ---
-title: XFormCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XFormCollection. تعيد true إذا كان الكائن متزامنًا
+title: "XFormCollection.IsSynchronized"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XFormCollection. تُرجع true إذا كان الكائن متزامنًا"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/xformcollection/issynchronized/
 ---
-## خاصية XFormCollection.IsSynchronized
+## XFormCollection.IsSynchronized property
 
-تعيد true إذا كان الكائن متزامنًا.
+يرجع true إذا كان الكائن متزامنًا.
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -19,3 +19,5 @@ public bool IsSynchronized { get; }
 * class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

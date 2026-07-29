@@ -1,14 +1,14 @@
 ---
-title: EI.EI
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ EI. يقوم بتهيئة المشغل
+title: "EI.EI"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "EI منشئ. يُهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/ei/ei/
 ---
-## مُنشئ EI
+## EI constructor
 
-يقوم بتهيئة المشغل.
+يُهيئ العامل.
 
 ```csharp
 public EI()
@@ -19,3 +19,5 @@ public EI()
 * class [EI](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

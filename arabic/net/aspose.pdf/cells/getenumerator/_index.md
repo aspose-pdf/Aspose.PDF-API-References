@@ -1,14 +1,14 @@
 ---
-title: Cells.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Cells. تحصل على عداد المجموعات
+title: "Cells.GetEnumerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Cells. يحصل على مُعدِّد التجميعات"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/cells/getenumerator/
 ---
-## طريقة Cells.GetEnumerator
+## Cells.GetEnumerator method
 
-تحصل على عداد المجموعة.
+يحصل على عداد المجموعة.
 
 ```csharp
 public IEnumerator<Cell> GetEnumerator()
@@ -16,7 +16,7 @@ public IEnumerator<Cell> GetEnumerator()
 
 ### قيمة الإرجاع
 
-كائن العداد.
+Enumerator object.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public IEnumerator<Cell> GetEnumerator()
 * class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

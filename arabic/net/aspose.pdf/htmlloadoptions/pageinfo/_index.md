@@ -1,14 +1,14 @@
 ---
-title: HtmlLoadOptions.PageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية HtmlLoadOptions. تحصل أو تعين معلومات صفحة المستند
+title: "HtmlLoadOptions.PageInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "HtmlLoadOptions خاصية. يحصل أو يضبط معلومات صفحة المستند"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/htmlloadoptions/pageinfo/
 ---
-## خاصية HtmlLoadOptions.PageInfo
+## HtmlLoadOptions.PageInfo property
 
-تحصل أو تعين معلومات صفحة المستند
+يحصل أو يضبط معلومات صفحة المستند
 
 ```csharp
 public PageInfo PageInfo { get; set; }
@@ -20,3 +20,5 @@ public PageInfo PageInfo { get; set; }
 * class [HtmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

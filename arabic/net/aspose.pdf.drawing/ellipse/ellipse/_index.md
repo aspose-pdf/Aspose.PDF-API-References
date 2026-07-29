@@ -1,28 +1,30 @@
 ---
-title: Ellipse.Ellipse
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ Ellipse. يقوم بتهيئة مثيل جديد من فئة Ellipse
+title: "Ellipse.Ellipse"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Ellipse. يهيئ نسخة جديدة من الفئة Ellipse"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.drawing/ellipse/ellipse/
 ---
-## مُنشئ Ellipse
+## Ellipse constructor
 
-يقوم بتهيئة مثيل جديد من فئة [`Ellipse`](../).
+يهيئ نسخة جديدة من الفئة [`Ellipse`](../).
 
 ```csharp
 public Ellipse(double left, double bottom, double width, double height)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| left | Double | الموضع الأيسر من الشكل البيضاوي. |
-| bottom | Double | الموضع السفلي من الشكل البيضاوي. |
-| width | Double | عرض الشكل البيضاوي. |
-| height | Double | ارتفاع الشكل البيضاوي. |
+| يسار | Double | الموضع الأيسر للإهليلج. |
+| أسفل | Double | الموضع السفلي للإهليلج. |
+| العرض | Double | عرض الإهليلج. |
+| الارتفاع | Double | ارتفاع الإهليلج. |
 
 ### انظر أيضًا
 
-* فئة [Ellipse](../)
-* مساحة الاسم [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* التجميع [Aspose.PDF](../../../)
+* class [Ellipse](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextAnnotation.Icon
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextAnnotation. تحصل أو تعين أيقونة لاستخدامها في عرض التعليق
+title: "TextAnnotation.Icon"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextAnnotation. تحصل أو تعيين أيقونة لاستخدامها في عرض التعليق التوضيحي"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/textannotation/icon/
 ---
-## خاصية TextAnnotation.Icon
+## TextAnnotation.Icon property
 
-تحصل أو تعين أيقونة لاستخدامها في عرض التعليق.
+يحصل أو يعيّن أيقونة لاستخدامها في عرض التعليق التوضيحي.
 
 ```csharp
 public TextIcon Icon { get; set; }
@@ -20,3 +20,5 @@ public TextIcon Icon { get; set; }
 * class [TextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

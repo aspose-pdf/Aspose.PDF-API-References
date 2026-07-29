@@ -1,14 +1,14 @@
 ---
-title: AssistantModifyRequest.AssistantModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ AssistantModifyRequest. المُنشئ الافتراضي
+title: "AssistantModifyRequest.AssistantModifyRequest"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ AssistantModifyRequest. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/assistantmodifyrequest/assistantmodifyrequest/
 ---
-## مُنشئ AssistantModifyRequest
+## AssistantModifyRequest constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public AssistantModifyRequest()
@@ -19,3 +19,5 @@ public AssistantModifyRequest()
 * class [AssistantModifyRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

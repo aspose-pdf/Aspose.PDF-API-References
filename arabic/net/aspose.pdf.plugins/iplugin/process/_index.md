@@ -1,22 +1,22 @@
 ---
-title: IPlugin.Process
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IPlugin. تقوم بتحميل مكون إضافي للمعالجة مع خيارات محددة
+title: "IPlugin.Process"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IPlugin. تكلف المكوّن الإضافي بالمعالجة باستخدام الخيارات المحددة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/iplugin/process/
 ---
-## طريقة IPlugin.Process
+## IPlugin.Process method
 
-تقوم بتحميل مكون إضافي للمعالجة مع خيارات محددة
+يفرض رسومًا على المكوّن الإضافي للمعالجة باستخدام الخيارات المحددة.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| options | IPluginOptions | كائن خيارات يحتوي على تعليمات للمكون الإضافي |
+| options | IPluginOptions | كائن خيارات يحتوي على تعليمات للمكوّن الإضافي |
 
 ### قيمة الإرجاع
 
@@ -29,3 +29,5 @@ public ResultContainer Process(IPluginOptions options)
 * interface [IPlugin](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

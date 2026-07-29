@@ -1,14 +1,14 @@
 ---
-title: XmpValue.ToNamedValue
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XmpValue. تعيد قيمة XMP كقيمة مسماة
+title: "XmpValue.ToNamedValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XmpValue. تُرجع قيمة XMP كقيمة مسماة"
 type: docs
 weight: 180
 url: /ar/net/aspose.pdf/xmpvalue/tonamedvalue/
 ---
-## طريقة XmpValue.ToNamedValue
+## XmpValue.ToNamedValue method
 
-تعيد قيمة XMP كقيمة مسماة.
+يعيد قيمة XMP كقيمة مسماة.
 
 ```csharp
 public KeyValuePair<string, XmpValue> ToNamedValue()
@@ -23,3 +23,5 @@ public KeyValuePair<string, XmpValue> ToNamedValue()
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

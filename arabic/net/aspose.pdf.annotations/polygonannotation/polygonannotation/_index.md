@@ -1,25 +1,25 @@
 ---
-title: PolygonAnnotation.PolygonAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PolygonAnnotation. مُنشئ للاستخدام مع Generator
+title: "PolygonAnnotation.PolygonAnnotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PolygonAnnotation. مُنشئ للاستخدام مع Generator."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/polygonannotation/polygonannotation/
 ---
 ## PolygonAnnotation(Document, Point[]) {#constructor}
 
-مُنشئ للاستخدام مع Generator.
+منشئ للاستخدام مع Generator.
 
 ```csharp
 public PolygonAnnotation(Document document, Point[] vertices)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| document | Document | المستند الذي ستتم إضافة التعليق عليه. |
-| vertices | Point[] | مصفوفة من النقاط. |
+| document | Document | Document حيث سيتم إضافة التعليق. |
+| الرؤوس | Point[] | مصفوفة من النقاط. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Point](../../../aspose.pdf/point/)
@@ -31,19 +31,19 @@ public PolygonAnnotation(Document document, Point[] vertices)
 
 ## PolygonAnnotation(Page, Rectangle, Point[]) {#constructor_1}
 
-يُنشئ تعليق بوليغون جديد على الصفحة المحددة.
+ينشئ تعليقا مضلعًا جديدًا على الصفحة المحددة.
 
 ```csharp
 public PolygonAnnotation(Page page, Rectangle rect, Point[] vertices)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | صفحة المستند حيث يجب إنشاء التعليق. |
-| rect | Rectangle | مستطيل التعليق، الذي يحدد موقع التعليق على الصفحة. |
-| vertices | Point[] | مصفوفة من نقاط رؤوس البوليغون. |
+| صفحة | صفحة | صفحة المستند حيث يجب إنشاء التعليق التوضيحي. |
+| rect | Rectangle | مستطيل التعليق التوضيحي، يحدد موقع التعليق التوضيحي على الصفحة. |
+| الرؤوس | Point[] | مصفوفة من نقاط رؤوس المضلع. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -51,3 +51,5 @@ public PolygonAnnotation(Page page, Rectangle rect, Point[] vertices)
 * class [PolygonAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Signature.ContactInfo
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية التوقيع. المعلومات المقدمة من قبل الموقّع لتمكين المستلم من الاتصال بالموقّع للتحقق من التوقيع، مثل رقم الهاتف
+title: "Signature.ContactInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Signature. معلومات يقدمها الموقع لتمكين المستلم من التواصل مع الموقع للتحقق من التوقيع مثل رقم هاتف"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.forms/signature/contactinfo/
 ---
-## خاصية Signature.ContactInfo
+## Signature.ContactInfo property
 
-المعلومات المقدمة من قبل الموقّع لتمكين المستلم من الاتصال بالموقّع للتحقق من التوقيع، مثل رقم الهاتف.
+معلومات يقدمها الموقع لتمكين المستلم من الاتصال بالموقع للتحقق من التوقيع، مثل رقم هاتف.
 
 ```csharp
 public string ContactInfo { get; set; }
@@ -19,3 +19,5 @@ public string ContactInfo { get; set; }
 * class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

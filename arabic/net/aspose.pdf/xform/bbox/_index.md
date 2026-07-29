@@ -1,14 +1,14 @@
 ---
-title: XForm.BBox
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XForm. تحصل أو تعين صندوق الحدود للنموذج
+title: "XForm.BBox"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XForm. يحصل على أو يضبط صندوق حدود النموذج"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/xform/bbox/
 ---
-## خاصية XForm.BBox
+## XForm.BBox property
 
-تحصل أو تعين صندوق الحدود للنموذج.
+يحصل أو يعيّن صندوق حدود النموذج.
 
 ```csharp
 public Rectangle BBox { get; set; }
@@ -20,3 +20,5 @@ public Rectangle BBox { get; set; }
 * class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

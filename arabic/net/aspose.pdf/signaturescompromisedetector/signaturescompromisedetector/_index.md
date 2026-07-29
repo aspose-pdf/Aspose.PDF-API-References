@@ -1,26 +1,28 @@
 ---
-title: SignaturesCompromiseDetector.SignaturesCompromiseDetector
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SignaturesCompromiseDetector. ينشئ مثيلًا من فئة SignaturesCompromiseDetector
+title: "SignaturesCompromiseDetector.SignaturesCompromiseDetector"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SignaturesCompromiseDetector. ينشئ مثيلاً من فئة SignaturesCompromiseDetector"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/signaturescompromisedetector/signaturescompromisedetector/
 ---
-## مُنشئ SignaturesCompromiseDetector
+## SignaturesCompromiseDetector constructor
 
-ينشئ مثيلًا من فئة [`SignaturesCompromiseDetector`](../).
+ينشئ مثيلاً من الفئة [`SignaturesCompromiseDetector`](../).
 
 ```csharp
 public SignaturesCompromiseDetector(Document document)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | document | Document |  |
 
 ### انظر أيضًا
 
-* فئة [Document](../../document/)
-* فئة [SignaturesCompromiseDetector](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [Document](../../document/)
+* class [SignaturesCompromiseDetector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

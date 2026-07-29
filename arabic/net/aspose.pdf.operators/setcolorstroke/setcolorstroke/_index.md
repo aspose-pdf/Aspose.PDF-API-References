@@ -1,14 +1,14 @@
 ---
-title: SetColorStroke.SetColorStroke
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SetColorStroke. يُهيئ المُشغل
+title: "SetColorStroke.SetColorStroke"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SetColorStroke. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/setcolorstroke/setcolorstroke/
 ---
 ## SetColorStroke() {#constructor}
 
-يُهيئ المُشغل.
+يُهيئ العامل.
 
 ```csharp
 public SetColorStroke()
@@ -24,13 +24,13 @@ public SetColorStroke()
 
 ## SetColorStroke(double) {#constructor_1}
 
-تعيين اللون لمشغلات التظليل لمساحات الألوان DeviceGray و CalGray و Indexed.
+تعيين اللون لمعاملات الخط لألوان DeviceGray و CalGray والمساحات اللونية المفهرسة.
 
 ```csharp
 public SetColorStroke(double g)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | g | Double | قيمة اللون. |
 
@@ -44,17 +44,17 @@ public SetColorStroke(double g)
 
 ## SetColorStroke(double, double, double) {#constructor_2}
 
-تعيين اللون لمشغل التظليل لمساحات الألوان DeviceRGB و CalRGB و Lab.
+تعيين اللون لمعامل الخط لألوان DeviceRGB و CalRGB و مساحات اللون Lab
 
 ```csharp
 public SetColorStroke(double r, double g, double b)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| r | Double | مكون الأحمر. |
-| g | Double | مكون الأخضر. |
-| b | Double | مكون الأزرق. |
+| r | Double | المكوّن الأحمر. |
+| g | Double | المكوّن الأخضر. |
+| b | Double | المكوّن الأزرق. |
 
 ### انظر أيضًا
 
@@ -66,13 +66,13 @@ public SetColorStroke(double r, double g, double b)
 
 ## SetColorStroke(double[]) {#constructor_4}
 
-منشئ يسمح بتعيين مكونات اللون.
+المنشئ الذي يسمح بتعيين مكونات اللون.
 
 ```csharp
 public SetColorStroke(double[] color)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | color | Double[] | مصفوفة مكونات اللون. |
 
@@ -86,21 +86,23 @@ public SetColorStroke(double[] color)
 
 ## SetColorStroke(double, double, double, double) {#constructor_3}
 
-تعيين اللون لمشغل التظليل لمساحة الألوان CMYK.
+تعيين اللون لمعامل الخط لمساحة اللون CMYK
 
 ```csharp
 public SetColorStroke(double c, double m, double y, double k)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| c | Double | مكون السّيان. |
-| m | Double | مكون الماجنتا. |
-| y | Double | مكون الأصفر. |
-| k | Double | مكون الأسود. |
+| c | Double | مكوّن السيان. |
+| m | Double | مكوّن الماجنتا. |
+| y | Double | مكوّن الأصفر. |
+| k | Double | مكوّن الأسود. |
 
 ### انظر أيضًا
 
 * class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

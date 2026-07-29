@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.PersonalEnvelope
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ظرف 6 3/4 3.625 بوصة × 6.5 بوصة
+title: "PaperSizes.PersonalEnvelope"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PaperSizes. ظرف 6 3/4 3.625 بوصة × 6.5 بوصة"
 type: docs
 weight: 790
 url: /ar/net/aspose.pdf.printing/papersizes/personalenvelope/
 ---
-## حقل PaperSizes.PersonalEnvelope
+## PaperSizes.PersonalEnvelope field
 
-ظرف 6 3/4 (3.625 بوصة × 6.5 بوصة).
+مغلف 6 3/4 (3.625 بوصة × 6.5 بوصة).
 
 ```csharp
 public static readonly PaperSize PersonalEnvelope;
@@ -20,3 +20,5 @@ public static readonly PaperSize PersonalEnvelope;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

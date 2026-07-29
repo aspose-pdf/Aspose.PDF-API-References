@@ -1,7 +1,7 @@
 ---
-title: CustomFontSubstitutionBase.TrySubstitute
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة استبدال الخط المخصص. تستبدل الخط الأصلي بخط آخر
+title: "CustomFontSubstitutionBase.TrySubstitute"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة CustomFontSubstitutionBase. تستبدل الخط الأصلي بخط آخر"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.text/customfontsubstitutionbase/trysubstitute/
@@ -15,23 +15,25 @@ public virtual bool TrySubstitute(OriginalFontSpecification originalFontSpecific
     out Font substitutionFont)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | originalFontSpecification | OriginalFontSpecification | مواصفات الخط الأصلي. |
 | substitutionFont | Font& | خط الاستبدال. |
 
-### Return Value
+### قيمة الإرجاع
 
 صحيح في حالة نجاح الاستبدال.
 
-## Remarks
+## ملاحظات
 
-يجب أن يتم وراثة فئة CustomFontSubstitutionBase لتنفيذ منطق استبدال الخطوط المخصص. يجب تجاوز طريقة TrySubstitute بشكل صحيح: يجب أن تعيد true في حالة الحاجة إلى الاستبدال. يجب تعيين substitutionFont إلى كائن Font صالح. يجب أن تعيد false في حالة عدم الحاجة إلى الاستبدال. يمكن تعيين substitutionFont إلى null.
+يجب توريث الفئة CustomFontSubstitutionBase لتنفيذ منطق استبدال الخطوط المخصص. يجب تجاوز طريقة TrySubstitute بشكل صحيح: يجب إرجاع true في حالة الحاجة إلى الاستبدال. يجب تعيين substitutionFont إلى كائن Font صالح. يجب إرجاع false في حالة عدم الحاجة إلى الاستبدال. يمكن تعيين substitutionFont إلى null.
 
-### See Also
+### انظر أيضًا
 
 * class [OriginalFontSpecification](../../customfontsubstitutionbase.originalfontspecification/)
 * class [Font](../../font/)
 * class [CustomFontSubstitutionBase](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

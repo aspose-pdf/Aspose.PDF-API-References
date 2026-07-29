@@ -1,14 +1,14 @@
 ---
-title: Annotation.StartIndex
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية التعليق. تحصل أو تعين الفهرس الابتدائي للنص في محتوى الرسالة الذي يحتاج إلى الاستبدال
+title: "Annotation.StartIndex"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Annotation. تحصل أو تعين الفهرس الابتدائي للنص في محتوى الرسالة الذي يحتاج إلى الاستبدال"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.ai/annotation/startindex/
 ---
-## خاصية Annotation.StartIndex
+## Annotation.StartIndex property
 
-تحصل أو تعين الفهرس الابتدائي للنص في محتوى الرسالة الذي يحتاج إلى الاستبدال.
+يتم الحصول على أو تعيين الفهرس الابتدائي للنص في محتوى الرسالة الذي يحتاج إلى استبداله.
 
 ```csharp
 public int StartIndex { get; set; }
@@ -19,3 +19,5 @@ public int StartIndex { get; set; }
 * class [Annotation](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

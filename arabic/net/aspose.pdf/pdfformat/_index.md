@@ -1,22 +1,22 @@
 ---
-title: Enum PdfFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfFormat enum. هذه الفئة تمثل تنسيق PDF
+title: "تعداد PdfFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.PdfFormat. هذه الفئة تمثل تنسيق PDF."
 type: docs
-weight: 8370
+weight: 8510
 url: /ar/net/aspose.pdf/pdfformat/
 ---
 ## PdfFormat enumeration
 
-هذه الفئة تمثل تنسيق PDF.
+هذه الفئة تمثل تنسيق pdf.
 
 ```csharp
 public enum PdfFormat
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | PDF_A_1A | `0` |  |
 | PDF_A_1B | `1` |  |
@@ -45,7 +45,9 @@ public enum PdfFormat
 | PDF_A_4F | `24` | تنسيق PDF/A-4f |
 | PDF_X_4 | `25` | تنسيق PDF/X-4 |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

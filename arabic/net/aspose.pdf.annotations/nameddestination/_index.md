@@ -1,39 +1,41 @@
 ---
-title: Class NamedDestination
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.NamedDestination. بدلاً من تعريفها مباشرةً باستخدام الصيغة الصريحة، يمكن الإشارة إلى وجهة ما بشكل غير مباشر من خلال كائن اسم أو سلسلة بايت
+title: "الفئة NamedDestination"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Annotations.NamedDestination. بدلاً من تعريفها مباشرةً باستخدام الصياغة الصريحة، قد يُشار إلى الوجهة بصورة غير مباشرة عبر كائن اسم أو سلسلة بايت"
 type: docs
-weight: 2130
+weight: 2220
 url: /ar/net/aspose.pdf.annotations/nameddestination/
 ---
 ## NamedDestination class
 
-بدلاً من تعريفها مباشرةً باستخدام الصيغة الصريحة، يمكن الإشارة إلى وجهة ما بشكل غير مباشر من خلال كائن اسم أو سلسلة بايت.
+بدلاً من تعريفه مباشرةً باستخدام الصياغة الصريحة، يمكن الإشارة إلى الهدف بصورة غير مباشرة عبر كائن اسم أو سلسلة بايت.
 
 ```csharp
 public sealed class NamedDestination : IAppointment
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [NamedDestination](nameddestination/)(Document, string) | إنشاء وجهة مسماة. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [Name](../../aspose.pdf.annotations/nameddestination/name/) { get; } | يحصل على اسم الوجهة المسماة. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/nameddestination/tostring/)() | يحول الوجهة إلى قيمة سلسلة. |
+| override [ToString](../../aspose.pdf.annotations/nameddestination/tostring/)() | يحول الوجهة إلى قيمة نصية. |
 
-### See Also
+### انظر أيضًا
 
 * interface [IAppointment](../iappointment/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Path.Shapes
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية المسار. تحصل أو تعين مجموعة الأشكال
+title: "Path.Shapes"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Path. يحصل أو يضبط مجموعة الأشكال"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.drawing/path/shapes/
 ---
-## خاصية Path.Shapes
+## Path.Shapes property
 
-تحصل أو تعين مجموعة الأشكال.
+يحصل أو يعيّن مجموعة الأشكال.
 
 ```csharp
 public List<Shape> Shapes { get; }
@@ -20,3 +20,5 @@ public List<Shape> Shapes { get; }
 * class [Path](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,29 +1,31 @@
 ---
-title: XfdfReader.GetElements
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XfdfReader. تقوم بتحليل ملف XFDF وتعيد المعلومات كجدول تجزئة
+title: "XfdfReader.GetElements"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XfdfReader. يحلل ملف XFDF ويعيد المعلومات كـ hashtable"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/xfdfreader/getelements/
 ---
-## طريقة XfdfReader.GetElements
+## XfdfReader.GetElements method
 
-تقوم بتحليل ملف XFDF وتعيد المعلومات كجدول تجزئة.
+يقوم بتحليل ملف XFDF ويعيد المعلومات كجدول تجزئة.
 
 ```csharp
 public static Dictionary<string, string> GetElements(XmlReader reader)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| reader | XmlReader | XmlReader لملف المصدر. |
+| القارئ | XmlReader | XmlReader للملف المصدر. |
 
 ### قيمة الإرجاع
 
-جدول تجزئة بالمعلومات التي تم تحليلها من ملف XFDF.
+Hashtable مع معلومات تم تحليلها من ملف XFDF.
 
 ### انظر أيضًا
 
-* الفئة [XfdfReader](../)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* التجميع [Aspose.PDF](../../../)
+* class [XfdfReader](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

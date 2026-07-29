@@ -1,14 +1,14 @@
 ---
-title: CustomFontSubstitutionBase.OriginalFontSpecification.IsSubstitutionUnavoidable
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OriginalFontSpecification. تحصل على قيمة تشير إلى أن الاستبدال لا مفر منه
+title: "CustomFontSubstitutionBase.OriginalFontSpecification.IsSubstitutionUnavoidable"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OriginalFontSpecification. تحصل على قيمة تشير إلى أن الاستبدال لا يمكن تجنبه"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/issubstitutionunavoidable/
 ---
-## خاصية CustomFontSubstitutionBase.OriginalFontSpecification.IsSubstitutionUnavoidable
+## CustomFontSubstitutionBase.OriginalFontSpecification.IsSubstitutionUnavoidable property
 
-تحصل على قيمة تشير إلى أن الاستبدال لا مفر منه.
+يحصل على قيمة تشير إلى أن الاستبدال لا يمكن تجنبه.
 
 ```csharp
 public bool IsSubstitutionUnavoidable { get; }
@@ -16,10 +16,12 @@ public bool IsSubstitutionUnavoidable { get; }
 
 ## ملاحظات
 
-ترجع true في حالة تم طلب الاستبدال بسبب غياب الخط الأصلي أو في حالة عدم إمكانية استخدام الخط الأصلي في سياق مهمة معينة. في حالة تجاهل المستخدم للعلامة وعدم استبدال الخط - يتم تنفيذ إجراء استبدال الخط الافتراضي. ولكنها توفر فرصة للمستخدم لتغيير إجراء استبدال الخط القياسي وتعيين خط أفضل للنظام. ترجع false في حالة وجود الخط الأصلي، صالح، ولكن يُسمح للمستخدم باستبداله.
+يرجع true في حالة طلب الاستبدال بسبب عدم وجود الخط الأصلي أو في حالة عدم إمكانية استخدام الخط الأصلي في سياق مهمة معينة. إذا تجاهل المستخدم العلامة ولم يستبدل الخط - يتم تنفيذ إجراء استبدال الخط الافتراضي. لكنه يوفر للمستخدم فرصة لتغيير إجراء استبدال الخط القياسي وتعيين خط أفضل للنظام. يرجع false في حالة وجود الخط الأصلي، وصحته، ولكن يُسمح للمستخدم باستبداله.
 
 ### انظر أيضًا
 
 * class [OriginalFontSpecification](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

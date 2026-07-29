@@ -1,25 +1,27 @@
 ---
-title: ClosePathStroke.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ClosePathStroke. تعيد تمثيل نصي للمعامل
+title: "ClosePathStroke.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ClosePathStroke. تُرجع تمثيلًا نصيًا للمشغل"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.operators/closepathstroke/tostring/
 ---
 ## ClosePathStroke.ToString method
 
-يعيد تمثيل نصي للمعامل.
+يعيد تمثيل النص للعامل.
 
 ```csharp
 public override string ToString()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-تمثيل نصي للمعامل.
+تمثيل نصي للمشغل.
 
-### See Also
+### انظر أيضًا
 
 * class [ClosePathStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,24 +1,24 @@
 ---
-title: PdfExtractor.GetText
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfExtractor. تحفظ النص في ملف. انظر أيضًا ExtractText
+title: "PdfExtractor.GetText"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfExtractor. حفظ النص إلى ملف. انظر أيضًا ExtractText"
 type: docs
 weight: 190
 url: /ar/net/aspose.pdf.facades/pdfextractor/gettext/
 ---
 ## GetText(string) {#gettext_2}
 
-تحفظ النص في ملف. انظر أيضًا:[`ExtractText`](../extracttext/)
+يحفظ النص إلى ملف. انظر أيضًا:[`ExtractText`](../extracttext/)
 
 ```csharp
 public void GetText(string outputFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| outputFile | String | مسار الملف واسم الملف لحفظ النص. |
+| outputFile | String | مسار الملف واسمها لحفظ النص. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -28,17 +28,17 @@ public void GetText(string outputFile)
 
 ## GetText(Stream) {#gettext}
 
-تحفظ النص في دفق. انظر أيضًا:[`ExtractText`](../extracttext/)
+يحفظ النص إلى دفق. انظر أيضًا:[`ExtractText`](../extracttext/)
 
 ```csharp
 public void GetText(Stream outputStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | outputStream | Stream | الدفق لحفظ النص. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -48,19 +48,21 @@ public void GetText(Stream outputStream)
 
 ## GetText(Stream, bool) {#gettext_1}
 
-تحفظ النص في دفق. انظر أيضًا:[`ExtractText`](../extracttext/)
+يحفظ النص إلى دفق. انظر أيضًا:[`ExtractText`](../extracttext/)
 
 ```csharp
 public void GetText(Stream outputStream, bool filterNotAscii)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | outputStream | Stream | الدفق لحفظ النص. |
-| filterNotAscii | Boolean | إذا كانت هذه المعلمة صحيحة، سيتم إزالة جميع الرموز غير ASCII |
+| filterNotAscii | Boolean | إذا كان هذا المعامل true سيتم إزالة جميع الرموز غير ASCII |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

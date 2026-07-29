@@ -1,14 +1,14 @@
 ---
-title: XForm.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XForm. تحصل أو تعين مستطيل النموذج
+title: "XForm.Rectangle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XForm. تسترجع أو تعيّن مستطيل النموذج"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/xform/rectangle/
 ---
-## خاصية XForm.Rectangle
+## XForm.Rectangle property
 
-تحصل أو تعين مستطيل النموذج.
+يحصل أو يعيّن مستطيل النموذج.
 
 ```csharp
 public Rectangle Rectangle { get; }
@@ -20,3 +20,5 @@ public Rectangle Rectangle { get; }
 * class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

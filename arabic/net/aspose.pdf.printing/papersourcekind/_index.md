@@ -1,12 +1,12 @@
 ---
-title: Enum PaperSourceKind
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.PaperSourceKind enum. مصادر الورق القياسية
+title: "تعداد PaperSourceKind"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.Printing.PaperSourceKind. مصادر الورق القياسية"
 type: docs
-weight: 9620
+weight: 9770
 url: /ar/net/aspose.pdf.printing/papersourcekind/
 ---
-## ورقة مصدر نوع التعداد
+## PaperSourceKind enumeration
 
 مصادر الورق القياسية.
 
@@ -18,22 +18,24 @@ public enum PaperSourceKind
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| علوي | `1` | السلة العلوية للطابعة (أو، إذا كانت الطابعة تحتوي على سلة واحدة فقط، السلة الوحيدة). |
-| سفلي | `2` | السلة السفلية للطابعة. |
-| وسط | `3` | السلة الوسطى للطابعة. |
-| يدوي | `4` | ورق يتم تغذيته يدويًا. |
-| ظرف | `5` | ظرف. |
-| تغذية يدوية | `6` | ظرف يتم تغذيته يدويًا. |
-| تغذية تلقائية | `7` | ورق يتم تغذيته تلقائيًا. |
-| تغذية جرار | `8` | تغذية جرار. |
-| تنسيق صغير | `9` | ورق بتنسيق صغير. |
-| تنسيق كبير | `10` | ورق بتنسيق كبير. |
-| سعة كبيرة | `11` | طابعة بسلة سعة كبيرة. |
-| كاسيت | `14` | كاسيت ورق. |
-| مصدر النموذج | `15` | سلة الإدخال الافتراضية للطابعة. |
-| مخصص | `257` | مصدر ورق محدد للطابعة. |
+| Upper | `1` | الصينية العليا للطابعة (أو، إذا كانت الطابعة تحتوي على صينية واحدة فقط، الصينية الوحيدة). |
+| Lower | `2` | الصينية السفلية للطابعة. |
+| Middle | `3` | الصينية المتوسطة للطابعة. |
+| Manual | `4` | ورق مُغذّى يدوياً. |
+| Envelope | `5` | ظرف. |
+| ManualFeed | `6` | ظرف مُغذّى يدوياً. |
+| AutomaticFeed | `7` | ورق مُغذّى تلقائياً. |
+| TractorFeed | `8` | تغذية جرارة. |
+| SmallFormat | `9` | ورق بصيغة صغيرة. |
+| LargeFormat | `10` | ورق بصيغة كبيرة. |
+| LargeCapacity | `11` | طابعة بصينية سعة كبيرة. |
+| Cassette | `14` | كاسيت ورق. |
+| FormSource | `15` | الصينية الافتراضية لإدخال الطابعة. |
+| Custom | `257` | مصدر ورق خاص بالطابعة. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

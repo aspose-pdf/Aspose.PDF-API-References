@@ -1,25 +1,27 @@
 ---
-title: XmpField.IsEmpty
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XmpField. تحصل على قيمة تشير إلى ما إذا كانت هذه النسخة فارغة
+title: "XmpField.IsEmpty"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XmpField. يحصل على قيمة تشير إلى ما إذا كان هذا الكائن فارغًا"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/xmpfield/isempty/
 ---
-## خاصية XmpField.IsEmpty
+## XmpField.IsEmpty property
 
-تحصل على قيمة تشير إلى ما إذا كانت هذه النسخة فارغة.
+يحصل على قيمة تشير إلى ما إذا كانت هذه العينة فارغة.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-`true` إذا كانت هذه النسخة فارغة؛ خلاف ذلك، `false`.
+`true` إذا كان هذا الكائن فارغًا؛ وإلا `false`.
 
 ### انظر أيضًا
 
 * class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

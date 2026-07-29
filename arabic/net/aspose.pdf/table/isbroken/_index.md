@@ -1,14 +1,14 @@
 ---
-title: Table.IsBroken
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الجدول. يحصل أو يحدد ما إذا كان الجدول مكسورًا - سيتم اقتطاعه للصفحة التالية
+title: "Table.IsBroken"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Table. يحصل أو يضبط ما إذا كان الجدول مكسورًا وسيتم اقتطاعه للصفحة التالية"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf/table/isbroken/
 ---
-## خاصية Table.IsBroken
+## Table.IsBroken property
 
-يحصل أو يحدد ما إذا كان الجدول مكسورًا - سيتم اقتطاعه للصفحة التالية.
+الحصول أو تعيين كسر الجدول - سيتم اقتطاعه للصفحة التالية.
 
 ```csharp
 public bool IsBroken { get; set; }
@@ -19,3 +19,5 @@ public bool IsBroken { get; set; }
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

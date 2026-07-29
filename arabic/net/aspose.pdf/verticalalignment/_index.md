@@ -1,29 +1,31 @@
 ---
-title: Enum VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.VerticalAlignment enum. تعداد القيم الممكنة لمحاذاة العمودي
+title: "تعداد VerticalAlignment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.VerticalAlignment. تعداد القيم الممكنة لمحاذاة عمودية."
 type: docs
-weight: 11270
+weight: 11460
 url: /ar/net/aspose.pdf/verticalalignment/
 ---
 ## VerticalAlignment enumeration
 
-تعداد القيم الممكنة لمحاذاة العمودي.
+تعداد قيم المحاذاة العمودية المحتملة.
 
 ```csharp
 public enum VerticalAlignment
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| None | `0` | لا توجد محاذاة (استخدم الموضع المحدد). |
+| None | `0` | بدون محاذاة (استخدم الموضع المحدد). |
 | Top | `1` | محاذاة إلى الأعلى. |
-| Center | `2` | محاذاة مركزية. |
+| Center | `2` | محاذاة إلى الوسط. |
 | Bottom | `3` | محاذاة إلى الأسفل. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

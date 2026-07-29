@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AppearanceDictionary. تحصل على مفاتيح القاموس. إذا كان قاموس المظهر يحتوي على قواميس فرعية، فإن Keys تحتوي على قيم NRD.state حيث N  المظهر العادي R  مظهر التمرير D  المظهر المنخفض و state  اسم الحالة مثل On Off لخانات الاختيار
+title: "AppearanceDictionary.Keys"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AppearanceDictionary. يحصل على مفاتيح القاموس. إذا كان لدى قاموس المظهر قواميس فرعية، فإن Keys يحتوي على قيم NRD.state حيث N = المظهر العادي، R = مظهر التمرير، D = المظهر المضغوط، وstate هو اسم الحالة مثل On أو Off لخانات الاختيار."
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.annotations/appearancedictionary/keys/
 ---
-## خاصية AppearanceDictionary.Keys
+## AppearanceDictionary.Keys property
 
-تحصل على مفاتيح القاموس. إذا كان قاموس المظهر يحتوي على قواميس فرعية، فإن `Keys` تحتوي على قيم (N&#x7C;R&#x7C;D).state، حيث N - المظهر العادي، R - مظهر التمرير، D - المظهر المنخفض و state - اسم الحالة (مثل On، Off لخانات الاختيار).
+يحصل على مفاتيح القاموس. إذا كان لدى قاموس المظهر قواميس فرعية، فإن `Keys` يحتوي على قيم (N&#x7C;R&#x7C;D).state، حيث N - المظهر العادي، R - مظهر التمرير، D - المظهر المضغوط وstate - اسم الحالة (مثل On، Off لخانات الاختيار).
 
 ```csharp
 public ICollection<string> Keys { get; }
@@ -19,3 +19,5 @@ public ICollection<string> Keys { get; }
 * class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

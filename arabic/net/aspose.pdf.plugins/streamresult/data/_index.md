@@ -1,14 +1,14 @@
 ---
-title: StreamResult.Data
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StreamResult. تحصل على البيانات الخام
+title: "StreamResult.Data"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StreamResult. تحصل على البيانات الخام"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/streamresult/data/
 ---
-## خاصية StreamResult.Data
+## StreamResult.Data property
 
-تحصل على البيانات الخام.
+يحصل على البيانات الخام.
 
 ```csharp
 public object Data { get; }
@@ -16,10 +16,12 @@ public object Data { get; }
 
 ### قيمة الإرجاع
 
-كائن `object` يمثل بيانات الإخراج.
+`object` يمثل بيانات الإخراج.
 
 ### انظر أيضًا
 
 * class [StreamResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

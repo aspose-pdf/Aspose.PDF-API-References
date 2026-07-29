@@ -1,14 +1,14 @@
 ---
-title: TableElement.DefaultCellPadding
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TableElement. تحصل أو تعين الحشو الافتراضي للخلايا
+title: "TableElement.DefaultCellPadding"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TableElement. يحصل أو يضبط الحشو الافتراضي للخلية"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.logicalstructure/tableelement/defaultcellpadding/
 ---
-## خاصية TableElement.DefaultCellPadding
+## TableElement.DefaultCellPadding property
 
-تحصل أو تعين الحشو الافتراضي للخلايا.
+الحصول أو تعيين الحشو الافتراضي للخلية.
 
 ```csharp
 public MarginInfo DefaultCellPadding { get; set; }
@@ -20,3 +20,5 @@ public MarginInfo DefaultCellPadding { get; set; }
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

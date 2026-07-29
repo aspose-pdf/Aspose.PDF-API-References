@@ -1,12 +1,12 @@
 ---
-title: PageCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PageCollection. مسح مجموعة الصفحات
+title: "PageCollection.Clear"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PageCollection. مسح مجموعة الصفحات"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/pagecollection/clear/
 ---
-## طريقة PageCollection.Clear
+## PageCollection.Clear method
 
 مسح مجموعة الصفحات.
 
@@ -19,3 +19,5 @@ public void Clear()
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

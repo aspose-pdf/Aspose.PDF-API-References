@@ -1,33 +1,35 @@
 ---
-title: Class SystemFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Text.SystemFontSource. تمثل جميع الخطوط المثبتة على النظام
+title: "الفئة SystemFontSource"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Text.SystemFontSource. تمثل جميع الخطوط المثبتة على النظام"
 type: docs
-weight: 10730
+weight: 10910
 url: /ar/net/aspose.pdf.text/systemfontsource/
 ---
 ## SystemFontSource class
 
-تمثل جميع الخطوط المثبتة على النظام.
+يمثل جميع الخطوط المثبتة على النظام.
 
 ```csharp
 public sealed class SystemFontSource : FontSource
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [SystemFontSource](systemfontsource/)() | المُنشئ الافتراضي. |
+| [SystemFontSource](systemfontsource/)() | البناء الافتراضي. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Equals](../../aspose.pdf.text/systemfontsource/equals/)(object) | تحقق مما إذا كانت كائنات مصدر الخطوط النظامية متساوية. |
+| override [Equals](../../aspose.pdf.text/systemfontsource/equals/)(object) | تحقق مما إذا كانت كائنات مصدر الخط النظامية متساوية. |
 
-### See Also
+### انظر أيضًا
 
 * class [FontSource](../fontsource/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

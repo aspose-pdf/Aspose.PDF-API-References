@@ -1,20 +1,20 @@
 ---
-title: FontSourceCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FontSourceCollection. تضيف كائن مصدر خط جديد إلى المجموعة
+title: "FontSourceCollection.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FontSourceCollection. تضيف كائن مصدر خط جديد إلى المجموعة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.text/fontsourcecollection/add/
 ---
-## طريقة FontSourceCollection.Add
+## FontSourceCollection.Add method
 
-تضيف كائن مصدر خط جديد إلى المجموعة.
+يضيف كائن مصدر خط جديد إلى المجموعة.
 
 ```csharp
 public void Add(FontSource fontSource)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fontSource | FontSource | مصدر الخط. |
 
@@ -24,3 +24,5 @@ public void Add(FontSource fontSource)
 * class [FontSourceCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

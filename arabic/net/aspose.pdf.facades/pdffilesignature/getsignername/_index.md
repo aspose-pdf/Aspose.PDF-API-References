@@ -1,30 +1,32 @@
 ---
-title: PdfFileSignature.GetSignerName
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileSignature. تحصل على اسم الشخص أو المنظمة التي توقع على مستند pdf
+title: "PdfFileSignature.GetSignerName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileSignature. تحصل على اسم الشخص أو المؤسسة التي توقّع مستند pdf"
 type: docs
 weight: 230
 url: /ar/net/aspose.pdf.facades/pdffilesignature/getsignername/
 ---
 ## PdfFileSignature.GetSignerName method
 
-تحصل على اسم الشخص أو المنظمة التي توقع على مستند pdf.
+يحصل على اسم الشخص أو المؤسسة التي توقّع مستند PDF.
 
 ```csharp
 public string GetSignerName(SignatureName signName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | signName | SignatureName | اسم التوقيع. |
 
-### Return Value
+### قيمة الإرجاع
 
-ترجع نتيجة اسم الموقع.
+إرجاع نتيجة اسم المُوقّع.
 
-### See Also
+### انظر أيضًا
 
 * class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

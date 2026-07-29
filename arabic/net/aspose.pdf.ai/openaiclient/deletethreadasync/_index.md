@@ -1,34 +1,34 @@
 ---
-title: OpenAIClient.DeleteThreadAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIClient. تحذف سلسلة موجودة بشكل غير متزامن
+title: "OpenAIClient.DeleteThreadAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIClient. تحذف خيطًا موجودًا بشكل غير متزامن"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf.ai/openaiclient/deletethreadasync/
 ---
-## طريقة OpenAIClient.DeleteThreadAsync
+## OpenAIClient.DeleteThreadAsync method
 
-تحذف سلسلة موجودة بشكل غير متزامن.
+يحذف خيطًا موجودًا بشكل غير متزامن.
 
 ```csharp
 public Task<DeleteStatusResponse> DeleteThreadAsync(string threadId, 
     CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| threadId | String | معرف السلسلة المراد حذفها. |
+| threadId | String | معرّف الخيط لحذفه. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
 ### قيمة الإرجاع
 
-مهمة تمثل العملية غير المتزامنة. تحتوي نتيجة المهمة على حالة عملية الحذف.
+مهمة تمثل العملية غير المتزامنة. يحتوي نتيجة المهمة على حالة عملية الحذف.
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف السلسلة فارغًا أو غير موجود. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرّف الخيط فارغًا أو null. |
 
 ### انظر أيضًا
 
@@ -36,3 +36,5 @@ public Task<DeleteStatusResponse> DeleteThreadAsync(string threadId,
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

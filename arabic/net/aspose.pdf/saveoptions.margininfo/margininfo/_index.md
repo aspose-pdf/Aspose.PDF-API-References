@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.MarginInfo.MarginInfo
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ MarginInfo. ينشئ مثيلًا من MarginInfo
+title: "SaveOptions.MarginInfo.MarginInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ MarginInfo. ينشئ مثيلًا من MarginInfo"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/saveoptions.margininfo/margininfo/
 ---
 ## MarginInfo() {#constructor}
 
-ينشئ مثيلًا من MarginInfo
+ينشئ نسخة من MarginInfo
 
 ```csharp
 public MarginInfo()
@@ -24,15 +24,15 @@ public MarginInfo()
 
 ## MarginInfo(MarginPartStyle) {#constructor_1}
 
-ينشئ مثيلًا من فئة MarginInfo ويقوم بتهيئة جميع عناصر هوامش الصفحة (العلوي، الأيسر، الأيمن، السفلي) مع السمات المنسوخة من نمط الهامش المقدم
+ينشئ نسخة من الفئة MarginInfo ويُهيئ جميع عناصر هامش الصفحة (Top, Left, Right, Bottom) بالسمات المنسوخة من نمط الهامش المزوّد
 
 ```csharp
 public MarginInfo(MarginPartStyle commonMargin)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| commonMargin | MarginPartStyle | نمط أجزاء الهامش التي ستستخدم لجميع عناصر الهامش (الأيسر، الأيمن، العلوي، السفلي) |
+| commonMargin | MarginPartStyle | نمط أجزاء الهوامش التي سيتم استخدامها لجميع عناصر الهوامش (يسار، يمين، أعلى، أسفل) |
 
 ### انظر أيضًا
 
@@ -40,3 +40,5 @@ public MarginInfo(MarginPartStyle commonMargin)
 * class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

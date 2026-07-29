@@ -1,14 +1,14 @@
 ---
-title: DiffOperation.Text
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DiffOperation. الحصول على نص العملية وتعيينه
+title: "DiffOperation.Text"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DiffOperation. تحصل وتضبط نص العملية"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.comparison/diffoperation/text/
 ---
-## خاصية DiffOperation.Text
+## DiffOperation.Text property
 
-الحصول على نص العملية وتعيينه.
+احصل على نص العملية أو قم بتعيينه.
 
 ```csharp
 public string Text { get; }
@@ -19,3 +19,5 @@ public string Text { get; }
 * class [DiffOperation](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

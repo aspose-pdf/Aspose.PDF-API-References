@@ -1,12 +1,12 @@
 ---
-title: ViewerPreference.HideToolbar
-second_title: Aspose.PDF for .NET API Reference
-description: حقل ViewerPreference. علامة تحدد ما إذا كان يجب إخفاء أشرطة أدوات القارئين المتوافقين عندما يكون المستند نشطًا
+title: "ViewerPreference.HideToolbar"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل ViewerPreference. علامة تحدد ما إذا كان يجب إخفاء أشرطة أدوات القارئات المتوافقة عندما يكون المستند نشطًا"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.facades/viewerpreference/hidetoolbar/
 ---
-## حقل ViewerPreference.HideToolbar
+## ViewerPreference.HideToolbar field
 
 علامة تحدد ما إذا كان يجب إخفاء أشرطة أدوات القارئ المتوافق عندما يكون المستند نشطًا.
 
@@ -19,3 +19,5 @@ public const int HideToolbar;
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

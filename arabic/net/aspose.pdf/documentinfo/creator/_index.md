@@ -1,14 +1,14 @@
 ---
-title: DocumentInfo.Creator
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocumentInfo. تحصل أو تعين منشئ المستند
+title: "DocumentInfo.Creator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocumentInfo. يحصل أو يضبط منشئ المستند"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/documentinfo/creator/
 ---
-## خاصية DocumentInfo.Creator
+## DocumentInfo.Creator property
 
-تحصل أو تعين منشئ المستند.
+الحصول أو الضبط لمنشئ المستند.
 
 ```csharp
 public string Creator { get; set; }
@@ -19,3 +19,5 @@ public string Creator { get; set; }
 * class [DocumentInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

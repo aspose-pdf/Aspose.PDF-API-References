@@ -1,22 +1,22 @@
 ---
-title: IconFit.NameToScalingMode
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IconFit. تحويل اسم وضع التحجيم إلى كائن ScalingMode
+title: "IconFit.NameToScalingMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IconFit. يحول اسم وضع التحجيم إلى كائن ScalingMode."
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.forms/iconfit/nametoscalingmode/
 ---
-## طريقة IconFit.NameToScalingMode
+## IconFit.NameToScalingMode method
 
-تحويل اسم وضع التحجيم إلى كائن ScalingMode.
+يحوّل اسم وضع التحجيم إلى كائن ScalingMode.
 
 ```csharp
 public static ScalingMode NameToScalingMode(string mode)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| mode | String | اسم وضع التحجيم. |
+| الوضع | String | اسم وضع التحجيم. |
 
 ### قيمة الإرجاع
 
@@ -28,3 +28,5 @@ public static ScalingMode NameToScalingMode(string mode)
 * class [IconFit](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

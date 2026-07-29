@@ -1,20 +1,20 @@
 ---
-title: Stamp.BindImage
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Stamp. تعيين الصورة كختم
+title: "Stamp.BindImage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Stamp. تعيين الصورة كختم"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.facades/stamp/bindimage/
 ---
 ## BindImage(string) {#bindimage_1}
 
-تعيين الصورة كختم.
+يعيّن الصورة كطابع.
 
 ```csharp
 public void BindImage(string imageFile)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | imageFile | String | اسم ملف الصورة والمسار. |
 
@@ -38,18 +38,20 @@ fileStamp.Close();
 
 ## BindImage(Stream) {#bindimage}
 
-تعيين الصورة التي ستستخدم كختم.
+يعيّن الصورة التي ستُستخدم كطابع.
 
 ```csharp
 public void BindImage(Stream image)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| image | Stream | تدفق يحتوي على بيانات الصورة. |
+| صورة | Stream | دفق يحتوي على بيانات الصورة. |
 
 ### انظر أيضًا
 
 * class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

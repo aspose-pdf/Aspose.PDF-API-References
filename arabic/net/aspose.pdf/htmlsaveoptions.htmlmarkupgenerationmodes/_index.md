@@ -1,28 +1,30 @@
 ---
-title: Enum HtmlSaveOptions.HtmlMarkupGenerationModes
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsHtmlMarkupGenerationModes enum. أحيانًا تكون هناك متطلبات محددة لإنشاء HTML. يحدد هذا التعداد أوضاع إعداد HTML التي يمكن استخدامها أثناء تحويل PDF إلى HTML لتلبية هذه المتطلبات المحددة.
+title: "تعداد HtmlSaveOptions.HtmlMarkupGenerationModes"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.HtmlSaveOptionsHtmlMarkupGenerationModes. أحيانًا تكون هناك متطلبات محددة لإنشاء HTML. يعرّف هذا التعداد أوضاع إعداد HTML التي يمكن استخدامها أثناء تحويل PDF إلى HTML لتلبية تلك المتطلبات المحددة."
 type: docs
-weight: 5660
+weight: 5790
 url: /ar/net/aspose.pdf/htmlsaveoptions.htmlmarkupgenerationmodes/
 ---
 ## HtmlSaveOptions.HtmlMarkupGenerationModes enumeration
 
-أحيانًا تكون هناك متطلبات محددة لإنشاء HTML. يحدد هذا التعداد أوضاع إعداد HTML التي يمكن استخدامها أثناء تحويل PDF إلى HTML لتلبية هذه المتطلبات المحددة.
+أحيانًا تكون هناك متطلبات محددة لإنشاء HTML. يعرّف هذا التعداد أوضاع إعداد HTML التي يمكن استخدامها أثناء تحويل PDF إلى HTML لتلبية تلك المتطلبات المحددة.
 
 ```csharp
 public enum HtmlMarkupGenerationModes
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| WriteAllHtml | `0` | الوضع الافتراضي عندما تكون المتطلبات المحددة غائبة. سيتم إنتاج مخرجات تحتوي على جميع أجزاء HTML دون أي معالجة إضافية خاصة. |
-| WriteOnlyBodyContent | `1` | سيتم إزالة جميع محتويات HTML التي تقع خارج جسم HTML، أي سيتم ترك المحتوى الذي داخل \c \ \c \ العلامات |
+| WriteAllHtml | `0` | الوضع الافتراضي عندما لا تكون هناك أي متطلبات محددة. سيتم إنشاء مخرجات تحتوي على جميع أجزاء HTML دون أي معالجة إضافية خاصة. |
+| WriteOnlyBodyContent | `1` | سيتم إزالة جميع محتوى HTML الذي يقع خارج جسم HTML، أي سيبقى فقط المحتوى الموجود داخل \c \ \c \ وسوم |
 
-### See Also
+### انظر أيضًا
 
 * class [HtmlSaveOptions](../htmlsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

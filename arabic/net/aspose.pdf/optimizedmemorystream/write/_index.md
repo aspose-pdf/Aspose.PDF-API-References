@@ -1,27 +1,29 @@
 ---
-title: OptimizedMemoryStream.Write
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OptimizedMemoryStream. عند تجاوزها في فئة مشتقة، تكتب تسلسلًا من البايتات إلى التدفق الحالي وتقدم الموضع الحالي داخل هذا التدفق بعدد البايتات المكتوبة
+title: "OptimizedMemoryStream.Write"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OptimizedMemoryStream. عند تجاوزها في فئة مشتقة تقوم بكتابة تسلسل من البايتات إلى الدفق الحالي وتقدم الموضع الحالي داخل هذا الدفق بعدد البايتات المكتوبة"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf/optimizedmemorystream/write/
 ---
-## طريقة OptimizedMemoryStream.Write
+## OptimizedMemoryStream.Write method
 
-عند تجاوزها في فئة مشتقة، تكتب تسلسلًا من البايتات إلى التدفق الحالي وتقدم الموضع الحالي داخل هذا التدفق بعدد البايتات المكتوبة.
+عند تجاوزها في فئة مشتقة، تقوم بكتابة تسلسل من البايتات إلى الدفق الحالي وتقدم الموضع الحالي داخل هذا الدفق بعدد البايتات المكتوبة.
 
 ```csharp
 public override void Write(byte[] buffer, int offset, int count)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| buffer | Byte[] | مصفوفة من البايتات. تقوم هذه الطريقة بنسخ *count* بايتات من *buffer* إلى التدفق الحالي. |
-| offset | Int32 | الإزاحة البايتية المعتمدة على الصفر في *buffer* التي تبدأ منها نسخ البايتات إلى التدفق الحالي. |
-| count | Int32 | عدد البايتات التي سيتم كتابتها إلى التدفق الحالي. |
+| buffer | Byte[] | مصفوفة من البايتات. تقوم هذه الطريقة بنسخ *count* بايت من *buffer* إلى الدفق الحالي. |
+| الإزاحة | Int32 | الإزاحة الصفرية للبايت في *buffer* التي يبدأ عندها نسخ البايتات إلى الدفق الحالي. |
+| عدد | Int32 | عدد البايتات التي سيتم كتابتها إلى الدفق الحالي. |
 
 ### انظر أيضًا
 
 * class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

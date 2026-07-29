@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.CSheet
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ورق C 17 بوصة × 22 بوصة
+title: "PaperSizes.CSheet"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ورقة C 17 بوصة × 22 بوصة"
 type: docs
 weight: 370
 url: /ar/net/aspose.pdf.printing/papersizes/csheet/
 ---
-## حقل PaperSizes.CSheet
+## PaperSizes.CSheet field
 
 ورق C (17 بوصة × 22 بوصة).
 
@@ -20,3 +20,5 @@ public static readonly PaperSize CSheet;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

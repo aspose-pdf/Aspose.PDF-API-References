@@ -1,14 +1,14 @@
 ---
-title: Rendition.RenditionType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية العرض. تحصل على نوع العرض
+title: "Rendition.RenditionType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Rendition. تحصل على نوع العرض"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/rendition/renditiontype/
 ---
-## خاصية Rendition.RenditionType
+## Rendition.RenditionType property
 
-تحصل على نوع العرض.
+يحصل على نوع العرض.
 
 ```csharp
 public RenditionType RenditionType { get; }
@@ -20,3 +20,5 @@ public RenditionType RenditionType { get; }
 * class [Rendition](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

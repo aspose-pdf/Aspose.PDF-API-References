@@ -1,7 +1,7 @@
 ---
-title: FontColor.FontColor
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FontColor. يُهيئ اللون بمكونات اللون المحددة
+title: "FontColor.FontColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FontColor. يهيئ اللون بالمكوّنات اللونية المحددة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.facades/fontcolor/fontcolor/
@@ -14,13 +14,13 @@ url: /ar/net/aspose.pdf.facades/fontcolor/fontcolor/
 public FontColor(int r, int g, int b)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| r | Int32 | مكون الأحمر. |
-| g | Int32 | مكون الأخضر. |
-| b | Int32 | مكون الأزرق. |
+| r | Int32 | المكوّن الأحمر. |
+| g | Int32 | المكوّن الأخضر. |
+| b | Int32 | المكوّن الأزرق. |
 
-### See Also
+### انظر أيضًا
 
 * class [FontColor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -36,8 +36,10 @@ public FontColor(int r, int g, int b)
 public FontColor()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [FontColor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

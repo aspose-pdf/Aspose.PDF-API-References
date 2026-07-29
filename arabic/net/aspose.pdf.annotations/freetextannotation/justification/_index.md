@@ -1,14 +1,14 @@
 ---
-title: FreeTextAnnotation.Justification
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FreeTextAnnotation. تحصل أو تعين رمز يحدد شكل التبرير المستخدم في عرض نص التعليقات التوضيحية
+title: "FreeTextAnnotation.Justification"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FreeTextAnnotation. يحصل أو يعيّن رمزًا يحدد شكل محاذاة النص التي ستُستخدم في عرض نص التعليقات."
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.annotations/freetextannotation/justification/
 ---
-## خاصية FreeTextAnnotation.Justification
+## FreeTextAnnotation.Justification property
 
-تحصل أو تعين رمز يحدد شكل التبرير (التبرير) المستخدم في عرض نص التعليق التوضيحي.
+يحصل أو يعيّن رمزًا يحدد شكل التوزيع (المحاذاة) الذي يُستخدم في عرض نص التعليقة.
 
 ```csharp
 public Justification Justification { get; set; }
@@ -20,3 +20,5 @@ public Justification Justification { get; set; }
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

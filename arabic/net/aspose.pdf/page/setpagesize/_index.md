@@ -1,26 +1,28 @@
 ---
-title: Page.SetPageSize
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الصفحة. تعيين حجم الصفحة للصفحة
+title: "Page.SetPageSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Page method. يحدد حجم الصفحة للصفحة"
 type: docs
 weight: 540
 url: /ar/net/aspose.pdf/page/setpagesize/
 ---
-## طريقة Page.SetPageSize
+## Page.SetPageSize method
 
-تعيين حجم الصفحة للصفحة.
+يضبط حجم الصفحة للصفحة.
 
 ```csharp
 public void SetPageSize(double width, double height)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| width | Double | عرض الصفحة. |
-| height | Double | حجم الصفحة. |
+| العرض | Double | عرض الصفحة. |
+| الارتفاع | Double | حجم الصفحة. |
 
 ### انظر أيضًا
 
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

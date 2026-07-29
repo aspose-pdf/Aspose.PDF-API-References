@@ -1,14 +1,14 @@
 ---
-title: SystemFontsSubstitution.FontCategories
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SystemFontsSubstitution. تحصل أو تعين فئات الخطوط البديلة التي يجب استبدالها بخطوط النظام
+title: "SystemFontsSubstitution.FontCategories"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SystemFontsSubstitution. تحصّل أو تعيين فئات الخطوط المستبدلة التي يجب استبدالها بالخطوط النظامية"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.text/systemfontssubstitution/fontcategories/
 ---
-## خاصية SystemFontsSubstitution.FontCategories
+## SystemFontsSubstitution.FontCategories property
 
-تحصل أو تعين فئات الخطوط البديلة التي يجب استبدالها بخطوط النظام.
+يحصل أو يعيّن فئات خطوط الاستبدال التي يجب استبدالها بخطوط النظام.
 
 ```csharp
 public SubstitutionFontCategories FontCategories { get; set; }
@@ -20,3 +20,5 @@ public SubstitutionFontCategories FontCategories { get; set; }
 * class [SystemFontsSubstitution](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

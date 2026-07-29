@@ -1,14 +1,14 @@
 ---
-title: SetTextRise.TextRise
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SetTextRise. تحصل أو تعين ارتفاع النص
+title: "SetTextRise.TextRise"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SetTextRise. تحصل أو تعين ارتفاع النص"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/settextrise/textrise/
 ---
-## خاصية SetTextRise.TextRise
+## SetTextRise.TextRise property
 
-تحصل أو تعين ارتفاع النص.
+يحصل أو يضبط ارتفاع النص.
 
 ```csharp
 public double TextRise { get; set; }
@@ -19,3 +19,5 @@ public double TextRise { get; set; }
 * class [SetTextRise](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

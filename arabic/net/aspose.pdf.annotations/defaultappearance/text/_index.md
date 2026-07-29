@@ -1,14 +1,14 @@
 ---
-title: DefaultAppearance.Text
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DefaultAppearance. تحصل على قائمة من مشغلات pdf التي تمثل المظهر
+title: "DefaultAppearance.Text"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DefaultAppearance. تحصل على قائمة عوامل pdf التي تمثل المظهر"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.annotations/defaultappearance/text/
 ---
-## خاصية DefaultAppearance.Text
+## DefaultAppearance.Text property
 
-تحصل على قائمة من مشغلات pdf التي تمثل المظهر.
+يحصل على قائمة عوامل pdf التي تمثل المظهر.
 
 ```csharp
 public string Text { get; }
@@ -19,3 +19,5 @@ public string Text { get; }
 * class [DefaultAppearance](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

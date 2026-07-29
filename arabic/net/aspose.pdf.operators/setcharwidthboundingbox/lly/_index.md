@@ -1,14 +1,14 @@
 ---
-title: SetCharWidthBoundingBox.Lly
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SetCharWidthBoundingBox. الإحداثي العمودي السفلي الأيسر لمستطيل الحدود
+title: "SetCharWidthBoundingBox.Lly"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "SetCharWidthBoundingBox خاصية. الإحداثي العمودي السفلي الأيسر للمستطيل المحيط"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.operators/setcharwidthboundingbox/lly/
 ---
-## خاصية SetCharWidthBoundingBox.Lly
+## SetCharWidthBoundingBox.Lly property
 
-الإحداثي العمودي السفلي الأيسر لمستطيل الحدود.
+الإحداثي العمودي للزاوية السفلية اليسرى لمستطيل الحد.
 
 ```csharp
 public double Lly { get; }
@@ -19,3 +19,5 @@ public double Lly { get; }
 * class [SetCharWidthBoundingBox](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Color.Cornsilk
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على لون معرف من النظام له قيمة ARGB تساوي c FFFFF8DC
+title: "Color.Cornsilk"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. يحصل على لون معرف بالنظام له قيمة ARGB c FFFFF8DC"
 type: docs
 weight: 200
 url: /ar/net/aspose.pdf/color/cornsilk/
 ---
-## خاصية لون.ذرة الحرير
+## Color.Cornsilk property
 
-تحصل على لون معرف من النظام له قيمة ARGB تساوي \c \#FFFFF8DC.
+يحصل على لون معرف من النظام له قيمة ARGB \c \#FFFFF8DC.
 
 ```csharp
 public static Color Cornsilk { get; }
@@ -16,10 +16,12 @@ public static Color Cornsilk { get; }
 
 ### قيمة الإرجاع
 
-يمثل لونًا معرفًا من النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
-* class [لون](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

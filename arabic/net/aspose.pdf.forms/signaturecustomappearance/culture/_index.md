@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.Culture
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SignatureCustomAppearance. تحصل/تضبط قيمة معلومات الثقافة. القيمة الافتراضية InvariantCulture
+title: "SignatureCustomAppearance.Culture"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SignatureCustomAppearance. يحصل/يضبط قيمة معلومات الثقافة. القيمة الافتراضية InvariantCulture"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.forms/signaturecustomappearance/culture/
 ---
-## خاصية SignatureCustomAppearance.Culture
+## SignatureCustomAppearance.Culture property
 
-تحصل/تضبط قيمة معلومات الثقافة. القيمة الافتراضية: InvariantCulture.
+الحصول/التعيين لقيمة معلومات الثقافة. القيمة الافتراضية: InvariantCulture.
 
 ```csharp
 public CultureInfo Culture { get; set; }
@@ -19,3 +19,5 @@ public CultureInfo Culture { get; set; }
 * class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,24 +1,24 @@
 ---
-title: JavascriptExtensionsException.JavascriptExtensionsException
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ JavascriptExtensionsException. يقوم بتهيئة مثيل جديد من فئة JavascriptExtensionsException
+title: "JavascriptExtensionsException.JavascriptExtensionsException"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ JavascriptExtensionsException. يهيئ نسخة جديدة من فئة JavascriptExtensionsException"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/javascriptextensionsexception/javascriptextensionsexception/
 ---
 ## JavascriptExtensionsException(string) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة [`JavascriptExtensionsException`](../).
+يهيئ نسخة جديدة من الفئة [`JavascriptExtensionsException`](../).
 
 ```csharp
 public JavascriptExtensionsException(string message)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| message | String | الرسالة. |
+| رسالة | String | الرسالة. |
 
-### See Also
+### انظر أيضًا
 
 * class [JavascriptExtensionsException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -28,18 +28,18 @@ public JavascriptExtensionsException(string message)
 
 ## JavascriptExtensionsException(string, Exception) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد من فئة [`JavascriptExtensionsException`](../) مع رسالة خطأ محددة ومرجع للاستثناء الداخلي الذي هو سبب هذا الاستثناء.
+يهيئ نسخة جديدة من الفئة [`JavascriptExtensionsException`](../) مع رسالة خطأ محددة وإشارة إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء.
 
 ```csharp
 public JavascriptExtensionsException(string message, Exception innerException)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| message | String | رسالة الخطأ التي تشرح سبب الاستثناء. |
-| innerException | Exception | الاستثناء الذي هو سبب الاستثناء الحالي، أو مرجع فارغ (Nothing في Visual Basic) إذا لم يتم تحديد استثناء داخلي. |
+| رسالة | String | رسالة الخطأ التي توضح سبب الاستثناء. |
+| innerException | Exception | الاستثناء الذي هو سبب الاستثناء الحالي، أو إشارة فارغة (Nothing في Visual Basic) إذا لم يتم تحديد استثناء داخلي. |
 
-### See Also
+### انظر أيضًا
 
 * class [JavascriptExtensionsException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -49,18 +49,20 @@ public JavascriptExtensionsException(string message, Exception innerException)
 
 ## JavascriptExtensionsException(Exception) {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`JavascriptExtensionsException`](../) مع مرجع للاستثناء الداخلي الذي هو سبب هذا الاستثناء.
+يهيئ نسخة جديدة من الفئة [`JavascriptExtensionsException`](../) مع إشارة إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء.
 
 ```csharp
 public JavascriptExtensionsException(Exception innerException)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| innerException | Exception | الاستثناء الذي هو سبب الاستثناء الحالي، أو مرجع فارغ (Nothing في Visual Basic) إذا لم يتم تحديد استثناء داخلي. |
+| innerException | Exception | الاستثناء الذي هو سبب الاستثناء الحالي، أو إشارة فارغة (Nothing في Visual Basic) إذا لم يتم تحديد استثناء داخلي. |
 
-### See Also
+### انظر أيضًا
 
 * class [JavascriptExtensionsException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

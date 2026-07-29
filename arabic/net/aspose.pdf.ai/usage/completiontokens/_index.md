@@ -1,14 +1,14 @@
 ---
-title: Usage.CompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الاستخدام. تحصل أو تعين عدد الرموز في الإكمال الناتج
+title: "Usage.CompletionTokens"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Usage. تحصل أو تعين عدد الرموز في الإكمال المُولد"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/usage/completiontokens/
 ---
-## خاصية Usage.CompletionTokens
+## Usage.CompletionTokens property
 
-تحصل أو تعين عدد الرموز في الإكمال الناتج.
+يحصل أو يعيّن عدد الرموز في الإكمال المُولَّد.
 
 ```csharp
 public int CompletionTokens { get; set; }
@@ -19,3 +19,5 @@ public int CompletionTokens { get; set; }
 * class [Usage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

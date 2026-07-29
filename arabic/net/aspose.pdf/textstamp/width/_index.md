@@ -1,14 +1,14 @@
 ---
-title: TextStamp.Width
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextStamp. العرض المرغوب للختم على الصفحة
+title: "TextStamp.Width"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextStamp. العرض المطلوب للختم على الصفحة"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf/textstamp/width/
 ---
-## خاصية TextStamp.Width
+## TextStamp.Width property
 
-العرض المرغوب للختم على الصفحة.
+العرض المطلوب للطابع على الصفحة.
 
 ```csharp
 public override double Width { get; set; }
@@ -19,3 +19,5 @@ public override double Width { get; set; }
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

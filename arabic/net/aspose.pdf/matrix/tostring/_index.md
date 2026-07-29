@@ -1,14 +1,14 @@
 ---
-title: Matrix.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Matrix. تعيد تمثيل نصي للمصفوفة
+title: "Matrix.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Matrix. تُرجع تمثيل نصي للمصفوفة"
 type: docs
 weight: 200
 url: /ar/net/aspose.pdf/matrix/tostring/
 ---
-## طريقة Matrix.ToString
+## Matrix.ToString method
 
-تعيد تمثيل نصي للمصفوفة.
+يعيد تمثيل النص للمصفوفة.
 
 ```csharp
 public override string ToString()
@@ -23,3 +23,5 @@ public override string ToString()
 * class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

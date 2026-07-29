@@ -1,28 +1,28 @@
 ---
-title: OpenAIChatCopilotOptions.WithDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIChatCopilotOptions. تعيين مجموعة الوثائق لخيارات مساعد الدردشة
+title: "OpenAIChatCopilotOptions.WithDocuments"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIChatCopilotOptions. تحدد مجموعة المستندات لخيارات مساعد الدردشة"
 type: docs
-weight: 110
+weight: 120
 url: /ar/net/aspose.pdf.ai/openaichatcopilotoptions/withdocuments/
 ---
 ## WithDocuments(DocumentCollection) {#withdocuments}
 
-تعيين مجموعة الوثائق لخيارات مساعد الدردشة.
+يضبط مجموعة Document لخيارات مساعد الدردشة.
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocuments(DocumentCollection documentCollection)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| documentCollection | DocumentCollection | مجموعة الوثائق التي سيتم تعيينها. |
+| documentCollection | DocumentCollection | مجموعة المستندات المراد تحديدها. |
 
-### Return Value
+### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAIChatCopilotOptions`](../).
+النموذج الحالي لـ [`OpenAIChatCopilotOptions`](../).
 
-### See Also
+### انظر أيضًا
 
 * class [DocumentCollection](../../documentcollection/)
 * class [OpenAIChatCopilotOptions](../)
@@ -33,21 +33,21 @@ public OpenAIChatCopilotOptions WithDocuments(DocumentCollection documentCollect
 
 ## WithDocuments(List&lt;TextDocument&gt;) {#withdocuments_2}
 
-يضيف مستندات نصية متعددة إلى مجموعة الوثائق لخيارات مساعد الدردشة.
+يضيف عدة مستندات نصية إلى مجموعة Document لخيارات مساعد الدردشة.
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocuments(List<TextDocument> textDocuments)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| textDocuments | List`1 | قائمة المستندات النصية التي سيتم إضافتها. |
+| textDocuments | List`1 | قائمة مستندات النص لإضافتها. |
 
-### Return Value
+### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAIChatCopilotOptions`](../).
+النموذج الحالي لـ [`OpenAIChatCopilotOptions`](../).
 
-### See Also
+### انظر أيضًا
 
 * class [TextDocument](../../textdocument/)
 * class [OpenAIChatCopilotOptions](../)
@@ -58,21 +58,21 @@ public OpenAIChatCopilotOptions WithDocuments(List<TextDocument> textDocuments)
 
 ## WithDocuments(List&lt;PdfDocument&gt;) {#withdocuments_1}
 
-يضيف مستندات PDF متعددة إلى مجموعة الوثائق لخيارات مساعد الدردشة.
+يضيف عدة مستندات PDF إلى مجموعة Document لخيارات مساعد الدردشة.
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pdfDocuments | List`1 | قائمة مستندات PDF التي سيتم إضافتها. |
+| pdfDocuments | List`1 | قائمة مستندات PDF للإضافة. |
 
-### Return Value
+### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAIChatCopilotOptions`](../).
+النموذج الحالي لـ [`OpenAIChatCopilotOptions`](../).
 
-### See Also
+### انظر أيضًا
 
 * class [PdfDocument](../../pdfdocument/)
 * class [OpenAIChatCopilotOptions](../)
@@ -83,22 +83,24 @@ public OpenAIChatCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
 
 ## WithDocuments(List&lt;string&gt;) {#withdocuments_3}
 
-يضيف مسارات مستندات متعددة إلى مجموعة الوثائق لخيارات مساعد الدردشة.
+يضيف عدة مسارات مستندات إلى مجموعة Document لخيارات مساعد الدردشة.
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocuments(List<string> filePaths)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| filePaths | List`1 | قائمة مسارات الملفات التي سيتم إضافتها. |
+| filePaths | List`1 | قائمة مسارات الملفات للإضافة. |
 
-### Return Value
+### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAIChatCopilotOptions`](../).
+النموذج الحالي لـ [`OpenAIChatCopilotOptions`](../).
 
-### See Also
+### انظر أيضًا
 
 * class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.GetDefaultPrinterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfViewer. تحصل على إعدادات الطابعة الافتراضية
+title: "PdfViewer.GetDefaultPrinterSettings"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfViewer. تحصل على إعدادات الطابعة الافتراضية"
 type: docs
 weight: 310
 url: /ar/net/aspose.pdf.facades/pdfviewer/getdefaultprintersettings/
 ---
-## طريقة PdfViewer.GetDefaultPrinterSettings
+## PdfViewer.GetDefaultPrinterSettings method
 
-تحصل على إعدادات الطابعة الافتراضية.
+يحصل على إعدادات الطابعة الافتراضية.
 
 ```csharp
 public PrinterSettings GetDefaultPrinterSettings()
@@ -24,3 +24,5 @@ public PrinterSettings GetDefaultPrinterSettings()
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

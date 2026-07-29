@@ -1,14 +1,14 @@
 ---
-title: TextPlaceOperator.TextPlaceOperator
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TextPlaceOperator. يقوم بتهيئة TextPlaceOperator
+title: "TextPlaceOperator.TextPlaceOperator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TextPlaceOperator. يهيئ TextPlaceOperator"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/textplaceoperator/textplaceoperator/
 ---
 ## TextPlaceOperator() {#constructor}
 
-يقوم بتهيئة TextPlaceOperator.
+يُهيئ TextPlaceOperator.
 
 ```csharp
 public TextPlaceOperator()
@@ -24,13 +24,13 @@ public TextPlaceOperator()
 
 ## TextPlaceOperator(TextProperties) {#constructor_1}
 
-يقوم بتهيئة TextPlaceOperator الذي يقبل TextProperties.
+يُهيئ TextPlaceOperator الذي يقبل TextProperties.
 
 ```csharp
 public TextPlaceOperator(TextProperties textProperties)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | textProperties | TextProperties | خصائص النص. |
 
@@ -40,3 +40,5 @@ public TextPlaceOperator(TextProperties textProperties)
 * class [TextPlaceOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

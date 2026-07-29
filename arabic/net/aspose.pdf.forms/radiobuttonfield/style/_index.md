@@ -1,12 +1,12 @@
 ---
-title: RadioButtonField.Style
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RadioButtonField. نمط صندوق الحقل
+title: "RadioButtonField.Style"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RadioButtonField. نمط صندوق الحقل."
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.forms/radiobuttonfield/style/
 ---
-## خاصية RadioButtonField.Style
+## RadioButtonField.Style property
 
 نمط صندوق الحقل.
 
@@ -20,3 +20,5 @@ public BoxStyle Style { get; set; }
 * class [RadioButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

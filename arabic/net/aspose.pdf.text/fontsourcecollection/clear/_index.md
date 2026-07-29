@@ -1,14 +1,14 @@
 ---
-title: FontSourceCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة مجموعة مصادر الخط. تقوم بمسح مجموعة مصادر الخط
+title: "FontSourceCollection.Clear"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FontSourceCollection. تقوم بمسح مجموعة مصادر الخطوط"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.text/fontsourcecollection/clear/
 ---
-## طريقة FontSourceCollection.Clear
+## FontSourceCollection.Clear method
 
-Clears the font source collection.
+يمسح مجموعة مصادر الخطوط.
 
 ```csharp
 public void Clear()
@@ -19,3 +19,5 @@ public void Clear()
 * class [FontSourceCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

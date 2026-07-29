@@ -1,20 +1,20 @@
 ---
-title: SetTextMatrix.SetTextMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SetTextMatrix. يُهيئ المُشغل
+title: "SetTextMatrix.SetTextMatrix"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SetTextMatrix. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/settextmatrix/settextmatrix/
 ---
 ## SetTextMatrix(double, double, double, double, double, double) {#constructor_1}
 
-يُهيئ المُشغل.
+يُهيئ العامل.
 
 ```csharp
 public SetTextMatrix(double a, double b, double c, double d, double e, double f)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | a | Double | معامل A |
 | b | Double | معامل B |
@@ -23,7 +23,7 @@ public SetTextMatrix(double a, double b, double c, double d, double e, double f)
 | e | Double | معامل E |
 | f | Double | معامل F |
 
-### See Also
+### انظر أيضًا
 
 * class [SetTextMatrix](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -33,19 +33,21 @@ public SetTextMatrix(double a, double b, double c, double d, double e, double f)
 
 ## SetTextMatrix(Matrix) {#constructor}
 
-يُهيئ المُشغل بواسطة المصفوفة.
+يُهيئ المشغل بالمصفوفة.
 
 ```csharp
 public SetTextMatrix(Matrix m)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | m | Matrix | مصفوفة التحويل. |
 
-### See Also
+### انظر أيضًا
 
 * class [Matrix](../../../aspose.pdf/matrix/)
 * class [SetTextMatrix](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

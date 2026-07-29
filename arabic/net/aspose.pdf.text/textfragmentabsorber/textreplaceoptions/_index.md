@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.TextReplaceOptions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragmentAbsorber. تحصل أو تعين خيارات استبدال النص. تحدد الخيارات السلوك عند استبدال نص الشظية بنص أقصر/أطول
+title: "TextFragmentAbsorber.TextReplaceOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragmentAbsorber. تحصل أو تعيين خيارات استبدال النص. تحدد الخيارات السلوك عندما يتم استبدال نص الجزء إلى أقصر/أطول"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.text/textfragmentabsorber/textreplaceoptions/
 ---
-## خاصية TextFragmentAbsorber.TextReplaceOptions
+## TextFragmentAbsorber.TextReplaceOptions property
 
-تحصل أو تعين خيارات استبدال النص. تحدد الخيارات السلوك عند استبدال نص الشظية بنص أقصر/أطول.
+يحصل أو يعيّن خيارات استبدال النص. تحدد الخيارات السلوك عندما يتم استبدال نص الجزء إلى أقصر/أطول.
 
 ```csharp
 public TextReplaceOptions TextReplaceOptions { get; set; }
@@ -20,3 +20,5 @@ public TextReplaceOptions TextReplaceOptions { get; set; }
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

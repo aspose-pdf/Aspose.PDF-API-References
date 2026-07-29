@@ -1,14 +1,14 @@
 ---
-title: RunListQueryParameters.RunListQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ RunListQueryParameters. المُنشئ الافتراضي
+title: "RunListQueryParameters.RunListQueryParameters"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ RunListQueryParameters. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/runlistqueryparameters/runlistqueryparameters/
 ---
-## مُنشئ RunListQueryParameters
+## RunListQueryParameters constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public RunListQueryParameters()
@@ -19,3 +19,5 @@ public RunListQueryParameters()
 * class [RunListQueryParameters](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

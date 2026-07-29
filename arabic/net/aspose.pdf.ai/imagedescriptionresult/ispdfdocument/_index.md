@@ -1,14 +1,14 @@
 ---
-title: ImageDescriptionResult.IsPdfDocument
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ImageDescriptionResult. تحصل على قيمة تشير إلى ما إذا كانت ImageDescriptionResult تحتوي على مستند PDF
+title: "ImageDescriptionResult.IsPdfDocument"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ImageDescriptionResult. تحصل على قيمة تشير إلى ما إذا كان ImageDescriptionResult يحتوي على مستند PDF"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.ai/imagedescriptionresult/ispdfdocument/
 ---
-## خاصية ImageDescriptionResult.IsPdfDocument
+## ImageDescriptionResult.IsPdfDocument property
 
-تحصل على قيمة تشير إلى ما إذا كانت ImageDescriptionResult تحتوي على مستند PDF.
+الحصول على قيمة تشير إلى ما إذا كان ImageDescriptionResult يحتوي على مستند PDF.
 
 ```csharp
 public bool IsPdfDocument { get; }
@@ -19,3 +19,5 @@ public bool IsPdfDocument { get; }
 * class [ImageDescriptionResult](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

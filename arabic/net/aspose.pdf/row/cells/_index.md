@@ -1,14 +1,14 @@
 ---
-title: Row.Cells
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصف. تحصل على خلايا الصف
+title: "Row.Cells"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Row. تحصل على خلايا الصف"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/row/cells/
 ---
-## خاصية Row.Cells
+## Row.Cells property
 
-تحصل على خلايا الصف.
+يحصل على خلايا الصف.
 
 ```csharp
 public Cells Cells { get; set; }
@@ -20,3 +20,5 @@ public Cells Cells { get; set; }
 * class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

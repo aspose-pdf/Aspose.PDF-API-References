@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AppearanceDictionary. تحصل على كائن يمكن استخدامه لمزامنة الوصول إلى القاموس
+title: "AppearanceDictionary.SyncRoot"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AppearanceDictionary. تحصل على كائن يمكن استخدامه لمزامنة الوصول إلى القاموس"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.annotations/appearancedictionary/syncroot/
 ---
-## خاصية AppearanceDictionary.SyncRoot
+## AppearanceDictionary.SyncRoot property
 
-تحصل على كائن يمكن استخدامه لمزامنة الوصول إلى القاموس.
+يحصل على كائن يمكن استخدامه لمزامنة الوصول إلى القاموس.
 
 ```csharp
 public object SyncRoot { get; }
@@ -19,3 +19,5 @@ public object SyncRoot { get; }
 * class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

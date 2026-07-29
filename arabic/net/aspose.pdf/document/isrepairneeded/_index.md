@@ -1,30 +1,32 @@
 ---
-title: Document.IsRepairNeeded
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الوثيقة. تتحقق مما إذا كانت الوثيقة تتطلب استدعاء طريقة الإصلاح
+title: "Document.IsRepairNeeded"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Document. تتحقق مما إذا كان المستند يحتاج إلى استدعاء طريقة Repair."
 type: docs
-weight: 720
+weight: 740
 url: /ar/net/aspose.pdf/document/isrepairneeded/
 ---
 ## Document.IsRepairNeeded method
 
-تتحقق مما إذا كانت الوثيقة تتطلب استدعاء طريقة الإصلاح.
+التحقق مما إذا كان المستند يتطلب استدعاء طريقة Repair.
 
 ```csharp
 public bool IsRepairNeeded(out RepairOptions options)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| options | RepairOptions& | خيارات الإصلاح المملوءة الموصى باستخدامها في طريقة الإصلاح |
+| options | RepairOptions& | يوصى باستخدام RepairOptions المملوءة في طريقة Repair. |
 
-### Return Value
+### قيمة الإرجاع
 
-ترجع الخيارات المملوءة التي يجب استخدامها في طريقة الإصلاح
+يعيد الخيارات المملوءة لاستخدامها في طريقة الإصلاح
 
-### See Also
+### انظر أيضًا
 
 * class [RepairOptions](../../document.repairoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

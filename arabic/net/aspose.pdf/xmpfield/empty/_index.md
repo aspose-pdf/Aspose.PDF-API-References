@@ -1,14 +1,14 @@
 ---
-title: XmpField.Empty
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XmpField. تحصل على حقل xmp فارغ
+title: "XmpField.Empty"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "XmpField الخاصية. يحصل على حقل xmp فارغ"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/xmpfield/empty/
 ---
-## خاصية XmpField.Empty
+## XmpField.Empty property
 
-تحصل على حقل xmp فارغ.
+يحصل على حقل XMP فارغ.
 
 ```csharp
 public static XmpField Empty { get; }
@@ -19,3 +19,5 @@ public static XmpField Empty { get; }
 * class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

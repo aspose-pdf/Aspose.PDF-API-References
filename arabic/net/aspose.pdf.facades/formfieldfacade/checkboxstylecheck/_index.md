@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.CheckBoxStyleCheck
-second_title: Aspose.PDF for .NET API Reference
-description: حقل FormFieldFacade. يحدد شكل حقل مربع الاختيار عند تحديده
+title: "FormFieldFacade.CheckBoxStyleCheck"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل FormFieldFacade. يحدد شكل حقل خانة الاختيار عندما يكون محددًا"
 type: docs
 weight: 390
 url: /ar/net/aspose.pdf.facades/formfieldfacade/checkboxstylecheck/
 ---
-## حقل FormFieldFacade.CheckBoxStyleCheck
+## FormFieldFacade.CheckBoxStyleCheck field
 
-يحدد شكل حقل مربع الاختيار عند تحديده.
+يحدد شكل حقل خانة الاختيار عندما يكون محددًا.
 
 ```csharp
 public const int CheckBoxStyleCheck;
@@ -19,3 +19,5 @@ public const int CheckBoxStyleCheck;
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

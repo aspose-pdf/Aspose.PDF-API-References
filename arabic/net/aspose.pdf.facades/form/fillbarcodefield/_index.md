@@ -1,27 +1,27 @@
 ---
-title: Form.FillBarcodeField
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. ملء حقل الباركود وفقًا لاسم الحقل المؤهل بالكامل
+title: "Form.FillBarcodeField"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. املأ حقل الباركود وفقًا لاسمه المؤهل بالكامل"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.facades/form/fillbarcodefield/
 ---
-## طريقة Form.FillBarcodeField
+## Form.FillBarcodeField method
 
-ملء حقل الباركود وفقًا لاسم الحقل المؤهل بالكامل.
+املأ حقل الباركود وفقًا لاسمه الكامل المؤهل.
 
 ```csharp
 public bool FillBarcodeField(string fieldName, string data)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fieldName | سلسلة | اسم الحقل المؤهل بالكامل. |
-| data | سلسلة | قيمة الباركود الجديدة. |
+| fieldName | String | اسم الحقل المؤهل بالكامل. |
+| data | String | قيمة الباركود الجديدة. |
 
 ### قيمة الإرجاع
 
-إذا تم الملء بنجاح، ارجع true؛ خلاف ذلك، false.
+إذا نجح التعبئة، تُرجع true؛ وإلا، false.
 
 ## أمثلة
 
@@ -35,3 +35,5 @@ form.FillBarcodeField("textField", "42207252");
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

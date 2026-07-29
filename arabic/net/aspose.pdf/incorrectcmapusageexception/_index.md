@@ -1,27 +1,29 @@
 ---
-title: Class IncorrectCMapUsageException
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.IncorrectCMapUsageException. الاستثناء الذي يتم رميه عندما يكون استخدام الخط غير صحيح
+title: "الفئة IncorrectCMapUsageException"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.IncorrectCMapUsageException. الاستثناء الذي يُرمى عندما يكون استخدام الخط غير صحيح"
 type: docs
-weight: 5960
+weight: 6090
 url: /ar/net/aspose.pdf/incorrectcmapusageexception/
 ---
 ## IncorrectCMapUsageException class
 
-الاستثناء الذي يتم رميه عندما يكون استخدام الخط غير صحيح.
+الاستثناء الذي يُرمى عندما يكون استخدام الخط غير صحيح.
 
 ```csharp
 public sealed class IncorrectCMapUsageException : PdfException
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [IncorrectCMapUsageException](incorrectcmapusageexception/)(string) | Initializes a new instance of the `IncorrectCMapUsageException` class. |
+| [IncorrectCMapUsageException](incorrectcmapusageexception/)(string) | يُنشئ مثيلاً جديداً من الفئة `IncorrectCMapUsageException`. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfException](../pdfexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

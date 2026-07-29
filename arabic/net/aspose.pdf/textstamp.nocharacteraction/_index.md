@@ -1,30 +1,32 @@
 ---
-title: Enum TextStamp.NoCharacterAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.TextStampNoCharacterAction enum. الإجراء الذي يجب اتخاذه إذا كانت الخط لا تحتوي على الحرف المطلوب
+title: "التعداد TextStamp.NoCharacterAction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.TextStampNoCharacterAction. الإجراء الذي يجب تنفيذه إذا لم يحتوي الخط على الحرف المطلوب"
 type: docs
-weight: 11090
+weight: 11280
 url: /ar/net/aspose.pdf/textstamp.nocharacteraction/
 ---
 ## TextStamp.NoCharacterAction enumeration
 
-الإجراء الذي يجب اتخاذه إذا كانت الخط لا تحتوي على الحرف المطلوب.
+الإجراء الذي يجب تنفيذه إذا لم يحتوي الخط على الحرف المطلوب.
 
 ```csharp
 public enum NoCharacterAction
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| ThrowException | `0` | إذا كانت الخط لا تحتوي على جميع الأحرف في السلسلة، يتم رمي استثناء. |
+| ThrowException | `0` | إذا لم يحتوي الخط على جميع أحرف السلسلة، يتم إلقاء استثناء. |
 | UseStandardFont | `1` | استبدال الخط بخط قياسي يحتوي على الحرف المطلوب. |
 | ReplaceAnyway | `2` | استبدال النص على أي حال دون استبدال الخط. |
-| UseCustomReplacementFont | `3` | استبدال الخط بخط الاستبدال المحدد. |
+| UseCustomReplacementFont | `3` | استبدال الخط بخط بديل معرف. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextStamp](../textstamp/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

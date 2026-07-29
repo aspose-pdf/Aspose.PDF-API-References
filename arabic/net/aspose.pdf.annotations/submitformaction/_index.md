@@ -1,59 +1,61 @@
 ---
-title: Class SubmitFormAction
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.SubmitFormAction. فئة تصف إجراء submitform
+title: "الفئة SubmitFormAction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Annotations.SubmitFormAction. فئة تصف إجراء submitform."
 type: docs
-weight: 2640
+weight: 2740
 url: /ar/net/aspose.pdf.annotations/submitformaction/
 ---
 ## SubmitFormAction class
 
-فئة تصف إجراء submit-form.
+الفئة التي تصف إجراء إرسال-نموذج.
 
 ```csharp
 public sealed class SubmitFormAction : PdfAction
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [SubmitFormAction](submitformaction/)() | يقوم بتهيئة كائن SubmitFormAction. |
+| [SubmitFormAction](submitformaction/)() | يُنشئ كائن SubmitFormAction. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Flags](../../aspose.pdf.annotations/submitformaction/flags/) { get; set; } | يحصل أو يحدد علامات إجراء الإرسال |
+| [Flags](../../aspose.pdf.annotations/submitformaction/flags/) { get; set; } | يحصل أو يعيّن العلامات لإجراء الإرسال. |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | الإجراءات التالية في التسلسل. |
 | [Url](../../aspose.pdf.annotations/submitformaction/url/) { get; set; } | عنوان URL الوجهة. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | يحصل على سلسلة لإجراء ECMAScript. |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | يحصل على النص لإجراء ECMAScript. |
 
-## Fields
+## الحقول
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| const [CanonicalFormat](../../aspose.pdf.annotations/submitformaction/canonicalformat/) | إذا تم تعيينه، يجب تحويل أي قيم حقل تم تقديمها تمثل تواريخ إلى التنسيق القياسي. |
-| const [EmbedForm](../../aspose.pdf.annotations/submitformaction/embedform/) | إذا تم تعيينه، يجب أن تكون إدخال F من FDF المقدم مواصفة ملف تحتوي على دفق ملف مضمن يمثل ملف PDF الذي يتم تقديم FDF منه. |
-| const [ExclFKey](../../aspose.pdf.annotations/submitformaction/exclfkey/) | إذا تم تعيينه، يجب أن يستبعد FDF المقدم إدخال F. |
-| const [ExclNonUserAnnots](../../aspose.pdf.annotations/submitformaction/exclnonuserannots/) | إذا تم تعيينه، يجب أن يتضمن فقط تلك التعليقات التوضيحية التي تتطابق إدخال T الخاصة بها مع اسم المستخدم الحالي. |
-| const [Exclude](../../aspose.pdf.annotations/submitformaction/exclude/) | إذا تم إلغاء تحديده، يحدد مصفوفة Fields الحقول التي يجب تضمينها في الإرسال. |
-| const [ExportFormat](../../aspose.pdf.annotations/submitformaction/exportformat/) | إذا تم تعيينه، يجب تقديم أسماء الحقول والقيم بتنسيق نموذج HTML. |
-| const [GetMethod](../../aspose.pdf.annotations/submitformaction/getmethod/) | إذا تم تعيينه، يجب تقديم أسماء الحقول والقيم باستخدام طلب HTTP GET. |
-| const [IncludeAnnotations](../../aspose.pdf.annotations/submitformaction/includeannotations/) | إذا تم تعيينه، يجب أن يتضمن ملف FDF المقدم جميع التعليقات التوضيحية في مستند PDF الأساسي. |
-| const [IncludeAppendSaves](../../aspose.pdf.annotations/submitformaction/includeappendsaves/) | إذا تم تعيينه، يجب أن يتضمن ملف FDF المقدم محتويات جميع التحديثات التزايدية. |
-| const [IncludeNoValueFields](../../aspose.pdf.annotations/submitformaction/includenovaluefields/) | إذا تم تعيينه، يجب تقديم جميع الحقول المحددة بواسطة مصفوفة Fields وعلم Include/Exclude. |
-| const [SubmitCoordinates](../../aspose.pdf.annotations/submitformaction/submitcoordinates/) | إذا تم تعيينه، يجب نقل إحداثيات نقرة الماوس التي تسببت في إجراء submit-form كجزء من بيانات النموذج. |
-| const [SubmitPdf](../../aspose.pdf.annotations/submitformaction/submitpdf/) | إذا تم تعيينه، يجب تقديم المستند كملف PDF، باستخدام نوع محتوى MIME application/pdf. |
-| const [Xfdf](../../aspose.pdf.annotations/submitformaction/xfdf/) | إذا تم تعيينه، يجب تقديم أسماء الحقول والقيم كـ XFDF. |
+| const [CanonicalFormat](../../aspose.pdf.annotations/submitformaction/canonicalformat/) | إذا تم الضبط، سيتم تحويل أي قيم حقول مُرسَلة تمثّل تواريخ إلى الصيغة القياسية. |
+| const [EmbedForm](../../aspose.pdf.annotations/submitformaction/embedform/) | إذا تم الضبط، يجب أن يكون إدخال F في FDF المُرسَل مواصفة ملف تحتوي على تدفق ملف مدمج يمثل ملف PDF الذي يُرسل منه FDF. |
+| const [ExclFKey](../../aspose.pdf.annotations/submitformaction/exclfkey/) | إذا تم الضبط، يجب أن يستثني FDF المُرسَل إدخال F. |
+| const [ExclNonUserAnnots](../../aspose.pdf.annotations/submitformaction/exclnonuserannots/) | إذا تم الضبط، يجب أن يتضمن فقط تعليقات الترميز التي يطابق إدخال T فيها اسم المستخدم الحالي. |
+| const [Exclude](../../aspose.pdf.annotations/submitformaction/exclude/) | إذا لم يتم الضبط، تحدد مصفوفة Fields الحقول التي يجب تضمينها في الإرسال. |
+| const [ExportFormat](../../aspose.pdf.annotations/submitformaction/exportformat/) | إذا تم الضبط، سيتم إرسال أسماء الحقول وقيمها بتنسيق نموذج HTML. |
+| const [GetMethod](../../aspose.pdf.annotations/submitformaction/getmethod/) | إذا تم الضبط، سيتم إرسال أسماء الحقول وقيمها باستخدام طلب HTTP GET. |
+| const [IncludeAnnotations](../../aspose.pdf.annotations/submitformaction/includeannotations/) | إذا تم تعيينه، يجب أن يتضمن ملف FDF المرسل جميع تعليقات العلامات التوضيحية في مستند PDF الأساسي. |
+| const [IncludeAppendSaves](../../aspose.pdf.annotations/submitformaction/includeappendsaves/) | إذا تم تعيينه، يجب أن يتضمن ملف FDF المرسل محتويات جميع التحديثات المتزايدة. |
+| const [IncludeNoValueFields](../../aspose.pdf.annotations/submitformaction/includenovaluefields/) | إذا تم تعيينه، يجب إرسال جميع الحقول المحددة بواسطة مصفوفة Fields وعلم Include/Exclude. |
+| const [SubmitCoordinates](../../aspose.pdf.annotations/submitformaction/submitcoordinates/) | إذا تم تعيينه، يجب نقل إحداثيات نقرة الفأرة التي تسببت في إجراء submit-form كجزء من بيانات النموذج. |
+| const [SubmitPdf](../../aspose.pdf.annotations/submitformaction/submitpdf/) | إذا تم تعيينه، يجب إرسال المستند كـ PDF باستخدام نوع محتوى MIME application/pdf. |
+| const [Xfdf](../../aspose.pdf.annotations/submitformaction/xfdf/) | إذا تم تعيينه، يجب إرسال أسماء الحقول والقيم كـ XFDF. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfAction](../pdfaction/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

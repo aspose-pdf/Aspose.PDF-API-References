@@ -1,14 +1,14 @@
 ---
-title: OutputTextStyle.InsertedStyle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OutputTextStyle. الحصول على وتعيين نمط نص للنص المضاف
+title: "OutputTextStyle.InsertedStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OutputTextStyle. احصل على نمط نص وتعيينه للنص المُدرج"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.comparison/outputtextstyle/insertedstyle/
 ---
-## خاصية OutputTextStyle.InsertedStyle
+## OutputTextStyle.InsertedStyle property
 
-الحصول على وتعيين نمط نص للنص المضاف.
+احصل على نمط نص للنص المُدرج واضبطه.
 
 ```csharp
 public TextStyle InsertedStyle { get; set; }
@@ -20,3 +20,5 @@ public TextStyle InsertedStyle { get; set; }
 * class [OutputTextStyle](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XYZExplicitDestination.Zoom
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XYZExplicitDestination. تحصل على عامل التكبير
+title: "XYZExplicitDestination.Zoom"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XYZExplicitDestination. يحصل على عامل التكبير"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.annotations/xyzexplicitdestination/zoom/
 ---
-## خاصية XYZExplicitDestination.Zoom
+## XYZExplicitDestination.Zoom property
 
-تحصل على عامل التكبير.
+يحصل على معامل التكبير.
 
 ```csharp
 public double Zoom { get; }
@@ -19,3 +19,5 @@ public double Zoom { get; }
 * class [XYZExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

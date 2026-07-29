@@ -1,26 +1,26 @@
 ---
-title: LineAnnotation.LineAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ LineAnnotation. مُنشئ للاستخدام مع Generator
+title: "LineAnnotation.LineAnnotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ LineAnnotation. منشئ للاستخدام مع Generator"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/lineannotation/lineannotation/
 ---
 ## LineAnnotation(Document, Point, Point) {#constructor}
 
-مُنشئ للاستخدام مع Generator.
+منشئ للاستخدام مع Generator.
 
 ```csharp
 public LineAnnotation(Document document, Point start, Point end)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| document | Document | المستند الذي سيتم إنشاء التعليق عليه. |
-| start | Point | نقطة البداية. |
-| end | Point | نقطة النهاية. |
+| document | Document | Document حيث سيتم إنشاء التعليق التوضيحي. |
+| start | نقطة | نقطة البداية. |
+| end | نقطة | نقطة النهاية. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Point](../../../aspose.pdf/point/)
@@ -38,14 +38,14 @@ public LineAnnotation(Document document, Point start, Point end)
 public LineAnnotation(Page page, Rectangle rect, Point start, Point end)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | صفحة المستند حيث يجب إنشاء التعليق. |
-| rect | Rectangle | مستطيل التعليق، يحدد موقع التعليق على الصفحة. |
-| start | Point | نقطة، تحدد الإحداثيات الابتدائية للخط. |
-| end | Point | نقطة، تحدد الإحداثيات النهائية للخط. |
+| صفحة | صفحة | صفحة المستند حيث يجب إنشاء التعليق التوضيحي. |
+| rect | Rectangle | مستطيل التعليق التوضيحي، يحدد موقع التعليق التوضيحي على الصفحة. |
+| start | نقطة | نقطة، تحدد إحداثيات البداية للخط. |
+| end | نقطة | نقطة، تحدد إحداثيات النهاية للخط. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -53,3 +53,5 @@ public LineAnnotation(Page page, Rectangle rect, Point start, Point end)
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

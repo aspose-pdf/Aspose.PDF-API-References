@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Document
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeStandard. مستند مستند كامل. هذا هو العنصر الجذري لأي شجرة هيكل تحتوي على أجزاء متعددة أو مقالات متعددة
+title: "StructureTypeStandard.Document"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "StructureTypeStandard field. مستند مستند كامل. هذا هو العنصر الجذر لأي شجرة بنية تحتوي على أجزاء متعددة أو مقالات متعددة"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/document/
 ---
-## حقل StructureTypeStandard.Document
+## StructureTypeStandard.Document field
 
-(مستند) مستند كامل. هذا هو العنصر الجذري لأي شجرة هيكل تحتوي على أجزاء متعددة أو مقالات متعددة.
+(Document) مستند كامل. هذا هو العنصر الجذر لأي شجرة بنية تحتوي على أجزاء متعددة أو مقالات متعددة.
 
 ```csharp
 public static readonly StructureTypeStandard Document;
@@ -19,3 +19,5 @@ public static readonly StructureTypeStandard Document;
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

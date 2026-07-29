@@ -1,34 +1,34 @@
 ---
-title: FormEditor.CopyOuterField
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormEditor. تنسخ حقلًا موجودًا من مستند PDF إلى مستند آخر مع رقم الصفحة الأصلي والإحداثيات. ملاحظة فقط لحقول AcroForm 
+title: "FormEditor.CopyOuterField"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FormEditor. تنسخ حقلًا موجودًا من مستند PDF إلى مستند آخر مع الحفاظ على رقم الصفحة الأصلي والإحداثيات. ملاحظة: فقط لحقول AcroForm باستثناء مربع الراديو."
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.facades/formeditor/copyouterfield/
 ---
 ## CopyOuterField(string, string) {#copyouterfield}
 
-تنسخ حقلًا موجودًا من مستند PDF إلى مستند آخر مع رقم الصفحة الأصلي والإحداثيات. ملاحظة: فقط لحقول AcroForm (باستثناء مربع الراديو).
+ينسخ حقلًا موجودًا من مستند PDF إلى مستند آخر مع رقم الصفحة الأصلي والإحداثيات. ملاحظة: يقتصر على حقول AcroForm (باستثناء صندوق الاختيار).
 
 ```csharp
 public void CopyOuterField(string srcFileName, string fieldName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | srcFileName | String | اسم مستند PDF الذي يحتوي على الحقل المراد نسخه. |
-| fieldName | String | الاسم الكامل المؤهل للحقل الأصلي. |
+| fieldName | String | الاسم الأصلي المؤهل بالكامل للحقل. |
 
-## Examples
+## أمثلة
 
 ```csharp
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
-//copies text field from source.pdf to PdfForm.pdf
+//ينسخ حقل النص من source.pdf إلى PdfForm.pdf
 formEditor.CopyOuterField("source.pdf", "textField");
 formEditor.Save();
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -38,19 +38,19 @@ formEditor.Save();
 
 ## CopyOuterField(string, string, int) {#copyouterfield_1}
 
-تنسخ حقلًا موجودًا من مستند PDF إلى مستند آخر مع رقم الصفحة المحدد والإحداثيات الأصلية. ملاحظة: فقط لحقول AcroForm (باستثناء مربع الراديو).
+ينسخ حقلًا موجودًا من مستند PDF إلى مستند آخر مع رقم الصفحة المحدد والإحداثيات الأصلية. ملاحظة: يقتصر على حقول AcroForm (باستثناء صندوق الاختيار).
 
 ```csharp
 public void CopyOuterField(string srcFileName, string fieldName, int pageNum)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | srcFileName | String | اسم مستند PDF الذي يحتوي على الحقل المراد نسخه. |
-| fieldName | String | الاسم الكامل المؤهل للحقل الأصلي. |
-| pageNum | Int32 | رقم الصفحة التي ستحتوي على الحقل الجديد. إذا كان -1، سيتم نسخ الحقل الجديد إلى نفس الصفحة التي استضافها القديم. |
+| fieldName | String | الاسم الأصلي المؤهل بالكامل للحقل. |
+| pageNum | Int32 | عدد الصفحة التي ستحمل الحقل الجديد. إذا كان -1، سيتم نسخ الحقل الجديد إلى نفس الصفحة التي يستضيفها القديم. |
 
-## Examples
+## أمثلة
 
 ```csharp
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
@@ -58,7 +58,7 @@ formEditor.CopyOuterField("source.pdf", "textField", 2);
 formEditor.Save();
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -68,30 +68,32 @@ formEditor.Save();
 
 ## CopyOuterField(string, string, int, float, float) {#copyouterfield_2}
 
-تنسخ حقلًا موجودًا من مستند PDF إلى مستند آخر مع رقم الصفحة المحدد والإحداثيات. ملاحظة: فقط لحقول AcroForm (باستثناء مربع الراديو).
+ينسخ حقلًا موجودًا من مستند PDF إلى مستند آخر مع رقم الصفحة والإحداثيات المحددة. ملاحظة: يقتصر على حقول AcroForm (باستثناء صندوق الاختيار).
 
 ```csharp
 public void CopyOuterField(string srcFileName, string fieldName, int pageNum, float abscissa, 
     float ordinate)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | srcFileName | String | اسم مستند PDF الذي يحتوي على الحقل المراد نسخه. |
-| fieldName | String | الاسم الكامل المؤهل للحقل الأصلي. |
-| pageNum | Int32 | رقم الصفحة التي ستحتوي على الحقل الجديد. إذا كان -1، سيتم نسخ الحقل الجديد إلى نفس الصفحة التي استضافها القديم. |
-| abscissa | Single | الإحداثي السيني للحقل الجديد. إذا كان -1، سيكون الإحداثي السيني مساويًا للأصلي. |
-| ordinate | Single | الإحداثي الصادي للحقل الجديد. إذا كان -1، سيكون الإحداثي الصادي مساويًا للأصلي. |
+| fieldName | String | الاسم الأصلي المؤهل بالكامل للحقل. |
+| pageNum | Int32 | عدد الصفحة التي ستحمل الحقل الجديد. إذا كان -1، سيتم نسخ الحقل الجديد إلى نفس الصفحة التي يستضيفها القديم. |
+| الإحداثي السيني | Single | الإحداثي السيني للحقل الجديد. إذا كان -1، سيُساوي الإحداثي السيني الأصلي. |
+| الإحداثي الصادي | Single | الإحداثي الصادي للحقل الجديد. إذا كان -1، سيُساوي الإحداثي الصادي الأصلي. |
 
-## Examples
+## أمثلة
 
 ```csharp
 FormEditor formEditor = new FormEditor("PdfForm.pdf", "PdfForm_updated.pdf");
 formEditor.CopyOuterField("source.pdf", "textField" , 2, 100, 200);
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

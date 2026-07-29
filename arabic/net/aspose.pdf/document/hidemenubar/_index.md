@@ -1,14 +1,14 @@
 ---
-title: Document.HideMenubar
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. تحصل أو تعين علامة تحدد ما إذا كان يجب إخفاء شريط القوائم عندما تكون الوثيقة نشطة
+title: "Document.HideMenubar"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. تحصل أو تعين العلامة التي تحدد ما إذا كان شريط القوائم يجب إخفاؤه عندما يكون المستند نشطًا"
 type: docs
-weight: 230
+weight: 250
 url: /ar/net/aspose.pdf/document/hidemenubar/
 ---
-## خاصية Document.HideMenubar
+## Document.HideMenubar property
 
-تحصل أو تعين علامة تحدد ما إذا كان يجب إخفاء شريط القوائم عندما تكون الوثيقة نشطة.
+يحصل أو يعيّن العلامة التي تحدد ما إذا كان يجب إخفاء شريط القوائم عندما يكون المستند نشطًا.
 
 ```csharp
 public bool HideMenubar { get; set; }
@@ -16,7 +16,7 @@ public bool HideMenubar { get; set; }
 
 ## أمثلة
 
-المثال يوضح كيفية الحصول على علامة HideMenubar:
+يوضح المثال كيفية الحصول على علامة HideMenubar:
 
 ```csharp
 Document document = new Document("sample.pdf");
@@ -28,3 +28,5 @@ bool value = document.HideMenubar;
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

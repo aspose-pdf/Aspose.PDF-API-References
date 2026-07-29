@@ -1,14 +1,14 @@
 ---
-title: RenderingOptions.SystemFontsNativeRendering
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RenderingOptions. تحصل أو تعين وضعًا حيث يتم عرض خطوط النظام بشكل أصلي
+title: "RenderingOptions.SystemFontsNativeRendering"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RenderingOptions. يحصل أو يعيّن وضع يتم فيه عرض خطوط النظام بصورة أصلية"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf/renderingoptions/systemfontsnativerendering/
 ---
-## خاصية RenderingOptions.SystemFontsNativeRendering
+## RenderingOptions.SystemFontsNativeRendering property
 
-تحصل أو تعين وضعًا حيث يتم عرض خطوط النظام بشكل أصلي.
+يحصل أو يضبط وضع يتم فيه عرض خطوط النظام أصليًا.
 
 ```csharp
 public bool SystemFontsNativeRendering { get; set; }
@@ -19,3 +19,5 @@ public bool SystemFontsNativeRendering { get; set; }
 * class [RenderingOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: License.License
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ الترخيص. المُنشئ الافتراضي
+title: "License.License"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ License. المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/license/license/
 ---
-## مُنشئ الترخيص
+## License constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public License()
@@ -19,3 +19,5 @@ public License()
 * class [License](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.CopyOutlines
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileEditor. إذا كانت صحيحة، فسيتم نسخ المخططات
+title: "PdfFileEditor.CopyOutlines"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileEditor. إذا كانت true سيتم نسخ المخططات."
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.facades/pdffileeditor/copyoutlines/
 ---
-## خاصية PdfFileEditor.CopyOutlines
+## PdfFileEditor.CopyOutlines property
 
-إذا كانت صحيحة، فسيتم نسخ المخططات.
+إذا كان صحيحًا فسيتم نسخ الخطوط العريضة.
 
 ```csharp
 public bool CopyOutlines { get; set; }
@@ -19,3 +19,5 @@ public bool CopyOutlines { get; set; }
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class Splitter
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.Splitter. تمثل مكون قاطع
+title: "الفئة Splitter"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Plugins.Splitter. تمثل ملحق Splitter."
 type: docs
-weight: 9280
+weight: 9430
 url: /ar/net/aspose.pdf.plugins/splitter/
 ---
-## فئة قاطع
+## Splitter class
 
-تمثل مكون `Splitter`.
+تمثل ملحق `Splitter`.
 
 ```csharp
 public class Splitter : IPlugin
@@ -18,34 +18,36 @@ public class Splitter : IPlugin
 
 | الاسم | الوصف |
 | --- | --- |
-| [Splitter](splitter/)() | المنشئ الافتراضي. |
+| [Splitter](splitter/)() | البناء الافتراضي. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/splitter/process/)(IPluginOptions) | يبدأ معالجة `Splitter` مع المعلمات المحددة. |
+| [Process](../../aspose.pdf.plugins/splitter/process/)(IPluginOptions) | يبدأ معالجة `Splitter` بالمعلمات المحددة. |
 
 ## أمثلة
 
-توضح المثال كيفية تقسيم مستند PDF.
+يوضح المثال كيفية تقسيم مستند PDF.
 
 ```csharp
-// create Splitter
+// إنشاء Splitter
 var splitter = new Splitter();
-// create SplitOptions object to set instructions
+// إنشاء كائن SplitOptions لتعيين التعليمات
 var opt = new SplitOptions();
-// add input file paths
+// إضافة مسارات ملفات الإدخال
 opt.AddInput(new FileDataSource(inputPath));
-// set output file paths
+// تعيين مسارات ملفات الإخراج
 opt.AddOutput(new FileDataSource(outputPath1));
 opt.AddOutput(new FileDataSource(outputPath2));
-// perform the process
+// تنفيذ العملية
 splitter.Process(opt);
 ```
 
 ### انظر أيضًا
 
-* واجهة [IPlugin](../iplugin/)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

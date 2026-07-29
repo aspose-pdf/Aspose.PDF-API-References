@@ -1,14 +1,14 @@
 ---
-title: PageSize.IsLandscape
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageSize. تحصل على اتجاه الصفحة. تعيد true إذا كان هذا هو الاتجاه الأفقي و false إذا كان هذا هو الاتجاه العمودي
+title: "PageSize.IsLandscape"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageSize. يحصل على اتجاه الصفحة. تُعيد true إذا كان الاتجاه أفقيًا و false إذا كان عموديًا"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf/pagesize/islandscape/
 ---
-## خاصية PageSize.IsLandscape
+## PageSize.IsLandscape property
 
-تحصل على اتجاه الصفحة. تعيد true إذا كان هذا هو الاتجاه الأفقي و false إذا كان هذا هو الاتجاه العمودي.
+يحصل على اتجاه الصفحة. يُرجِع true إذا كان هذا الاتجاه landscape و false إذا كان portrait.
 
 ```csharp
 public bool IsLandscape { get; set; }
@@ -19,3 +19,5 @@ public bool IsLandscape { get; set; }
 * class [PageSize](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: PDF3DView.RenderMode
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PDF3DView. تحصل أو تعين وضع العرض
+title: "PDF3DView.RenderMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PDF3DView. يحصل أو يضبط وضعية العرض"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.annotations/pdf3dview/rendermode/
 ---
-## خاصية PDF3DView.RenderMode
+## PDF3DView.RenderMode property
 
-تحصل أو تعين وضع العرض.
+يحصل أو يضبط وضعية العرض.
 
 ```csharp
 public PDF3DRenderMode RenderMode { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-وضع العرض.
+وضعية العرض للعرض.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public PDF3DRenderMode RenderMode { get; set; }
 * class [PDF3DView](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

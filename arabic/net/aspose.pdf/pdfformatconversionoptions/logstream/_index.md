@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.LogStream
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFormatConversionOptions. الدفق الذي سيتم تخزين التعليقات فيه
+title: "PdfFormatConversionOptions.LogStream"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFormatConversionOptions. التيار الذي تُخزن فيه التعليقات"
 type: docs
-weight: 140
+weight: 150
 url: /ar/net/aspose.pdf/pdfformatconversionoptions/logstream/
 ---
-## خاصية PdfFormatConversionOptions.LogStream
+## PdfFormatConversionOptions.LogStream property
 
-الدفق الذي سيتم تخزين التعليقات فيه.
+الدفق حيث سيتم تخزين التعليقات.
 
 ```csharp
 public Stream LogStream { get; set; }
@@ -19,3 +19,5 @@ public Stream LogStream { get; set; }
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,9 +1,9 @@
 ---
-title: Enum HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HorizontalAlignment enum. يصف المحاذاة الأفقية
+title: "التعداد HorizontalAlignment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.HorizontalAlignment. يصف المحاذاة الأفقية."
 type: docs
-weight: 5500
+weight: 5630
 url: /ar/net/aspose.pdf/horizontalalignment/
 ---
 ## HorizontalAlignment enumeration
@@ -14,18 +14,20 @@ url: /ar/net/aspose.pdf/horizontalalignment/
 public enum HorizontalAlignment
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| None | `0` | لا توجد محاذاة. |
-| Left | `1` | المحاذاة إلى اليسار. |
-| Center | `2` | محاذاة مركزية. |
-| Right | `3` | المحاذاة إلى اليمين. |
-| Justify | `4` | محاذاة مبررة. سيتم محاذاة النص على كلا الهامشين الأيسر والأيمن. |
-| FullJustify | `5` | مشابهة لمحاذاة 'Justify'، باستثناء أن السطر الأخير سيكون محاذيًا لليسار فقط في وضع 'Justify'، بينما في وضع 'FullJustify' ستكون جميع الأسطر محاذية لليسار واليمين. |
+| None | `0` | بدون محاذاة. |
+| Left | `1` | محاذاة إلى اليسار. |
+| Center | `2` | محاذاة إلى الوسط. |
+| Right | `3` | محاذاة إلى اليمين. |
+| Justify | `4` | محاذاة مبررة. سيتم محاذاة النص على كل من الهامشين الأيسر واليمين. |
+| FullJustify | `5` | مشابه لمحاذاة 'Justify'، باستثناء أن السطر الأخير سيكون محاذًا إلى اليسار فقط في وضع 'Justify'، بينما في وضع 'FullJustify' سيتم محاذاة جميع الأسطر إلى اليسار واليمين. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

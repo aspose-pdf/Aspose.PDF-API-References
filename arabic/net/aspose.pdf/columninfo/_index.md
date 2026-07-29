@@ -1,9 +1,9 @@
 ---
-title: Class ColumnInfo
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.ColumnInfo. تمثل هذه الفئة معلومات الأعمدة
+title: "الفئة ColumnInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.ColumnInfo. تمثل هذه الفئة معلومات الأعمدة."
 type: docs
-weight: 3120
+weight: 3230
 url: /ar/net/aspose.pdf/columninfo/
 ---
 ## ColumnInfo class
@@ -14,21 +14,23 @@ url: /ar/net/aspose.pdf/columninfo/
 public sealed class ColumnInfo
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ColumnInfo](columninfo/)() | المُنشئ الافتراضي. |
+| [ColumnInfo](columninfo/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ColumnCount](../../aspose.pdf/columninfo/columncount/) { get; set; } | يحصل أو يحدد قيمة صحيحة تشير إلى عدد الأعمدة. |
-| [ColumnSpacing](../../aspose.pdf/columninfo/columnspacing/) { get; set; } | يحصل أو يحدد سلسلة تحتوي على المسافة بين الأعمدة. يجب أن تكون قيمة كل مسافة مفصولة بمسافة فارغة. الوحدة الافتراضية هي نقطة، ولكن يتم دعم السنتيمتر والبوصة أيضًا. على سبيل المثال، "120 2.5cm 1.5inch". |
-| [ColumnWidths](../../aspose.pdf/columninfo/columnwidths/) { get; set; } | يحصل أو يحدد سلسلة تحتوي على عرض الأعمدة. يجب أن تكون قيمة كل عمود مفصولة بمسافة فارغة. الوحدة الافتراضية هي نقطة، ولكن يتم دعم السنتيمتر والبوصة ونسبة العرض المتاحة أيضًا. على سبيل المثال، "120 2.5cm 1.5inch" |
+| [ColumnCount](../../aspose.pdf/columninfo/columncount/) { get; set; } | يحصل أو يعيّن قيمة عددية صحيحة تشير إلى عدد الأعمدة. |
+| [ColumnSpacing](../../aspose.pdf/columninfo/columnspacing/) { get; set; } | يحصل أو يعيّن سلسلة تحتوي على التباعد بين الأعمدة. يجب فصل قيمة كل تباعد بمسافة فارغة. الوحدة الافتراضية هي النقطة، لكن السنتيمتر والبوصة مدعومان أيضًا. على سبيل المثال، "120 2.5cm 1.5inch". |
+| [ColumnWidths](../../aspose.pdf/columninfo/columnwidths/) { get; set; } | يحصل أو يعيّن سلسلة تحتوي على عرض الأعمدة. يجب فصل قيمة كل عمود بمسافة فارغة. الوحدة الافتراضية هي النقطة، لكن السنتيمتر والبوصة والنسبة المئوية للعرض المتاح مدعومة أيضًا. على سبيل المثال، "120 2.5cm 1.5inch" |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

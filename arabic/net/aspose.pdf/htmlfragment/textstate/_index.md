@@ -1,14 +1,14 @@
 ---
-title: HtmlFragment.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية HtmlFragment. تحصل أو تعين الخط
+title: "HtmlFragment.TextState"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية HtmlFragment. تحصل أو تعيين الخط"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/htmlfragment/textstate/
 ---
-## خاصية HtmlFragment.TextState
+## HtmlFragment.TextState property
 
-تحصل أو تعين الخط
+الحصول أو الضبط للخط
 
 ```csharp
 public TextState TextState { get; set; }
@@ -20,3 +20,5 @@ public TextState TextState { get; set; }
 * class [HtmlFragment](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

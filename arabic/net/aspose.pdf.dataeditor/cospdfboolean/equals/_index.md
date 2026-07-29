@@ -1,7 +1,7 @@
 ---
-title: CosPdfBoolean.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfBoolean method. يحدد أن الكائن المحدد يساوي الكائن الحالي
+title: "CosPdfBoolean.Equals"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة CosPdfBoolean. تحدد ما إذا كان الكائن المحدد يساوي الكائن الحالي."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.dataeditor/cospdfboolean/equals/
@@ -14,16 +14,18 @@ url: /ar/net/aspose.pdf.dataeditor/cospdfboolean/equals/
 public override bool Equals(object obj)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| obj | Object | الكائن للمقارنة مع الكائن الحالي. |
+| obj | كائن | الكائن للمقارنة مع الكائن الحالي. |
 
-### Return Value
+### قيمة الإرجاع
 
-True إذا كان الكائن المحدد يساوي الكائن الحالي؛ خلاف ذلك، false.
+صحيح إذا كان الكائن المحدد مساويًا للكائن الحالي؛ وإلا خطأ.
 
-### See Also
+### انظر أيضًا
 
 * class [CosPdfBoolean](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

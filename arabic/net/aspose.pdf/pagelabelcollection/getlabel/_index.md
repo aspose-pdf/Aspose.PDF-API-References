@@ -1,26 +1,26 @@
 ---
-title: PageLabelCollection.GetLabel
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PageLabelCollection. تحصل على تسمية الصفحة بواسطة فهرس الصفحة يبدأ فهرس الصفحة من 0
+title: "PageLabelCollection.GetLabel"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PageLabelCollection. يحصل على تسمية الصفحة حسب فهرس الصفحة، يبدأ الفهرس من 0"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/pagelabelcollection/getlabel/
 ---
-## طريقة PageLabelCollection.GetLabel
+## PageLabelCollection.GetLabel method
 
-تحصل على تسمية الصفحة بواسطة فهرس الصفحة (فهرس الصفحة يبدأ من 0).
+يحصل على تسمية الصفحة حسب فهرس الصفحة (فهرس الصفحة يبدأ من 0).
 
 ```csharp
 public PageLabel GetLabel(int pageIndex)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | pageIndex | Int32 | فهرس الصفحة. |
 
 ### قيمة الإرجاع
 
-تسمية الصفحة لفهرس الصفحة المحدد أو null إذا لم تكن تسمية الصفحة موجودة.
+تسمية الصفحة للفهرس المحدد أو null إذا لم توجد تسمية للصفحة.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public PageLabel GetLabel(int pageIndex)
 * class [PageLabelCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

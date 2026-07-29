@@ -1,12 +1,12 @@
 ---
-title: BLSTextElement.StructureTextState
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BLSTextElement. يحصل على كائن StructureTextState للعنصر الحالي
+title: "BLSTextElement.StructureTextState"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BLSTextElement. يسترجع كائن StructureTextState للعنصر الحالي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.logicalstructure/blstextelement/structuretextstate/
 ---
-## خاصية BLSTextElement.StructureTextState
+## BLSTextElement.StructureTextState property
 
 يحصل على كائن StructureTextState للعنصر الحالي.
 
@@ -14,7 +14,7 @@ url: /ar/net/aspose.pdf.logicalstructure/blstextelement/structuretextstate/
 public StructureTextState StructureTextState { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 كائن StructureTextState للعنصر الحالي.
 
@@ -24,3 +24,5 @@ public StructureTextState StructureTextState { get; }
 * class [BLSTextElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RunStepDetails.MessageCreation
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunStepDetails. تحصل أو تعين تفاصيل إنشاء الرسالة
+title: "RunStepDetails.MessageCreation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RunStepDetails. تحصل أو تعين تفاصيل إنشاء الرسالة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/runstepdetails/messagecreation/
 ---
-## خاصية RunStepDetails.MessageCreation
+## RunStepDetails.MessageCreation property
 
-تحصل أو تعين تفاصيل إنشاء الرسالة.
+يحصل أو يعيّن تفاصيل إنشاء الرسالة.
 
 ```csharp
 public MessageCreation MessageCreation { get; set; }
@@ -20,3 +20,5 @@ public MessageCreation MessageCreation { get; set; }
 * class [RunStepDetails](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

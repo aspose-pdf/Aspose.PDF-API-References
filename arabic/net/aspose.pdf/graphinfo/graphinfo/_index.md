@@ -1,14 +1,14 @@
 ---
-title: GraphInfo.GraphInfo
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ GraphInfo. المُنشئ الافتراضي
+title: "GraphInfo.GraphInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ GraphInfo. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/graphinfo/graphinfo/
 ---
-## مُنشئ GraphInfo
+## GraphInfo constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public GraphInfo()
@@ -19,3 +19,5 @@ public GraphInfo()
 * class [GraphInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,31 +1,31 @@
 ---
-title: TextPdfComparer.CompareDocumentsPageByPage
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TextPdfComparer. تقارن بين مستندين صفحة بصفحة
+title: "TextPdfComparer.CompareDocumentsPageByPage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TextPdfComparer. تقارن مستندين صفحة بصفحة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.comparison/textpdfcomparer/comparedocumentspagebypage/
 ---
 ## CompareDocumentsPageByPage(Document, Document, ComparisonOptions) {#comparedocumentspagebypage}
 
-تقارن بين مستندين صفحة بصفحة.
+يقارن مستندين صفحة بصفحة.
 
 ```csharp
 public static List<List<DiffOperation>> CompareDocumentsPageByPage(Document document1, 
     Document document2, ComparisonOptions options)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | document1 | Document | المستند الأول.. |
 | document2 | Document | المستند الثاني. |
 | options | ComparisonOptions | خيارات المقارنة. |
 
-### Return Value
+### قيمة الإرجاع
 
-قائمة بالتغييرات حسب الصفحة.
+قائمة التغييرات حسب الصفحة.
 
-### See Also
+### انظر أيضًا
 
 * class [DiffOperation](../../diffoperation/)
 * class [Document](../../../aspose.pdf/document/)
@@ -38,25 +38,25 @@ public static List<List<DiffOperation>> CompareDocumentsPageByPage(Document docu
 
 ## CompareDocumentsPageByPage(Document, Document, ComparisonOptions, string) {#comparedocumentspagebypage_1}
 
-تقارن بين مستندين صفحة بصفحة. يتم حفظ النتيجة في ملف PDF.
+يقارن مستندين صفحة بصفحة. يتم حفظ النتيجة في ملف PDF.
 
 ```csharp
 public static List<List<DiffOperation>> CompareDocumentsPageByPage(Document document1, 
     Document document2, ComparisonOptions options, string resultPdfDocumentPath)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | document1 | Document | المستند الأول.. |
 | document2 | Document | المستند الثاني. |
 | options | ComparisonOptions | خيارات المقارنة. |
 | resultPdfDocumentPath | String | المسار إلى ملف pdf لحفظ نتائج المقارنة. |
 
-### Return Value
+### قيمة الإرجاع
 
-قائمة بالتغييرات حسب الصفحة.
+قائمة التغييرات حسب الصفحة.
 
-### See Also
+### انظر أيضًا
 
 * class [DiffOperation](../../diffoperation/)
 * class [Document](../../../aspose.pdf/document/)
@@ -64,3 +64,5 @@ public static List<List<DiffOperation>> CompareDocumentsPageByPage(Document docu
 * class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

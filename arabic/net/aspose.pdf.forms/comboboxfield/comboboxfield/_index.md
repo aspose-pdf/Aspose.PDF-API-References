@@ -1,20 +1,20 @@
 ---
-title: ComboBoxField.ComboBoxField
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ComboBoxField. مُنشئ لـ ComboBoxField لاستخدامه في Generator
+title: "ComboBoxField.ComboBoxField"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ComboBoxField. منشئ لاستخدام ComboBoxField في Generator"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.forms/comboboxfield/comboboxfield/
 ---
 ## ComboBoxField() {#constructor}
 
-مُنشئ لـ ComboBoxField لاستخدامه في Generator.
+منشئ لـ ComboBoxField لاستخدامه في المولد.
 
 ```csharp
 public ComboBoxField()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [ComboBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -24,17 +24,17 @@ public ComboBoxField()
 
 ## ComboBoxField(Document) {#constructor_1}
 
-ينشئ حقل CombBox للعمل مع Generator.
+ينشئ حقل CombBox للعمل مع المولد.
 
 ```csharp
 public ComboBoxField(Document doc)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| doc | Document | المستند الذي سيتم إنشاء الحقل فيه. |
+| doc | Document | Document حيث سيتم إنشاء الحقل. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [ComboBoxField](../)
@@ -45,18 +45,18 @@ public ComboBoxField(Document doc)
 
 ## ComboBoxField(Page, Rectangle) {#constructor_3}
 
-مُنشئ لحقل Combobox.
+منشئ لحقل Combobox.
 
 ```csharp
 public ComboBoxField(Page page, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة التي سيتم وضع الحقل فيها. |
-| rect | Rectangle | المستطيل الذي يحدد حجم وموقع الحقل على الصفحة. |
+| صفحة | صفحة | Page التي سيتم وضع الحقل فيها. |
+| rect | Rectangle | Rectangle التي تحدد الحجم والموضع للحقل على الصفحة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -68,21 +68,23 @@ public ComboBoxField(Page page, Rectangle rect)
 
 ## ComboBoxField(Document, Rectangle) {#constructor_2}
 
-مُنشئ لحقل Combobox.
+منشئ لحقل Combobox.
 
 ```csharp
 public ComboBoxField(Document doc, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| doc | Document | المستند الذي يجب إنشاء الحقل فيه. |
-| rect | Rectangle | المستطيل الذي يحدد حجم وموقع الحقل. |
+| doc | Document | Document التي يجب إنشاء الحقل فيها. |
+| rect | Rectangle | Rectangle التي تحدد الحجم والموضع للحقل. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [ComboBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

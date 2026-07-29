@@ -1,14 +1,14 @@
 ---
-title: Row.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصف. تحصل أو تعين لون الخلفية
+title: "Row.BackgroundColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Row. تحصل أو تعين لون الخلفية"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/row/backgroundcolor/
 ---
-## خاصية Row.BackgroundColor
+## Row.BackgroundColor property
 
-تحصل أو تعين لون الخلفية.
+يحصل أو يضبط لون الخلفية.
 
 ```csharp
 public Color BackgroundColor { get; set; }
@@ -20,3 +20,5 @@ public Color BackgroundColor { get; set; }
 * class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

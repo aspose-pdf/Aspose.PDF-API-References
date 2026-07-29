@@ -1,14 +1,14 @@
 ---
-title: HtmlDiffOutputGenerator.DeleteStyle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية HtmlDiffOutputGenerator. تحصل على وتضبط سلسلة CSSstyle لعملية الحذف. مثال
+title: "HtmlDiffOutputGenerator.DeleteStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية HtmlDiffOutputGenerator. تحصل وتضبط سلسلة CSSstyle لعملية الحذف. مثال"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.comparison/htmldiffoutputgenerator/deletestyle/
 ---
-## خاصية HtmlDiffOutputGenerator.DeleteStyle
+## HtmlDiffOutputGenerator.DeleteStyle property
 
-تحصل على وتضبط سلسلة CSS-style لعملية الحذف. مثال:
+يحصل على سلسلة نمط CSS لعملية الحذف ويضبطها. مثال:
 
 ```csharp
 color: #003300; background-color: #ccff66;
@@ -23,3 +23,5 @@ public string DeleteStyle { get; set; }
 * class [HtmlDiffOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

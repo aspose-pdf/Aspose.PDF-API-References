@@ -1,20 +1,20 @@
 ---
-title: IChatCopilot.DeleteContextAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IChatCopilot. تحذف السياق بشكل غير متزامن
+title: "IChatCopilot.DeleteContextAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IChatCopilot. تقوم بحذف السياق بشكل غير متزامن."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/ichatcopilot/deletecontextasync/
 ---
-## طريقة IChatCopilot.DeleteContextAsync
+## IChatCopilot.DeleteContextAsync method
 
-تحذف السياق بشكل غير متزامن.
+يحذف السياق بشكل غير متزامن.
 
 ```csharp
 public Task DeleteContextAsync(CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | cancellationToken | Nullable`1 | رمز الإلغاء (اختياري). |
 
@@ -24,6 +24,8 @@ public Task DeleteContextAsync(CancellationToken? cancellationToken = default)
 
 ### انظر أيضًا
 
-* الواجهة [IChatCopilot](../)
-* مساحة الاسم [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

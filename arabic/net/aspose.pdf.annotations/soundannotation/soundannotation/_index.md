@@ -1,26 +1,26 @@
 ---
-title: SoundAnnotation.SoundAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SoundAnnotation. ينشئ تعليق صوتي جديد على الصفحة المحددة
+title: "SoundAnnotation.SoundAnnotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SoundAnnotation. ينشئ توضيح Sound جديد على الصفحة المحددة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/soundannotation/soundannotation/
 ---
 ## SoundAnnotation(Page, Rectangle, string) {#constructor}
 
-ينشئ تعليق صوتي جديد على الصفحة المحددة.
+ينشئ توضيح صوت جديد على الصفحة المحددة.
 
 ```csharp
 public SoundAnnotation(Page page, Rectangle rect, string soundFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | صفحة الوثيقة حيث يجب إنشاء التعليق. |
-| rect | Rectangle | مستطيل التعليق، يحدد موقع التعليق على الصفحة. |
-| soundFile | String | ملف صوتي يحدد الصوت الذي سيتم تشغيله عند تفعيل التعليق. |
+| صفحة | صفحة | صفحة المستند حيث يجب إنشاء التعليق التوضيحي. |
+| rect | Rectangle | مستطيل التعليق التوضيحي، يحدد موقع التعليق التوضيحي على الصفحة. |
+| soundFile | String | ملف صوت يحدد الصوت الذي سيتم تشغيله عند تفعيل التعليق. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -32,20 +32,20 @@ public SoundAnnotation(Page page, Rectangle rect, string soundFile)
 
 ## SoundAnnotation(Page, Rectangle, string, SoundSampleData) {#constructor_1}
 
-ينشئ تعليق صوتي جديد على الصفحة المحددة.
+ينشئ توضيح صوت جديد على الصفحة المحددة.
 
 ```csharp
 public SoundAnnotation(Page page, Rectangle rect, string soundFile, SoundSampleData soundSampleData)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | صفحة الوثيقة حيث يجب إنشاء التعليق. |
-| rect | Rectangle | مستطيل التعليق، يحدد موقع التعليق على الصفحة. |
-| soundFile | String | ملف صوتي يحدد الصوت الذي سيتم تشغيله عند تفعيل التعليق. |
-| soundSampleData | SoundSampleData | بيانات عينة الصوت تحتوي على معلمات صوت إضافية مثل معدل العينة، والبتات لكل عينة، وما إلى ذلك. |
+| صفحة | صفحة | صفحة المستند حيث يجب إنشاء التعليق التوضيحي. |
+| rect | Rectangle | مستطيل التعليق التوضيحي، يحدد موقع التعليق التوضيحي على الصفحة. |
+| soundFile | String | ملف صوت يحدد الصوت الذي سيتم تشغيله عند تفعيل التعليق. |
+| soundSampleData | SoundSampleData | تحتوي بيانات عينة الصوت على إضافات لمعاملات الصوت مثل معدل العينة، عدد البتات لكل عينة وما إلى ذلك. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -53,3 +53,5 @@ public SoundAnnotation(Page page, Rectangle rect, string soundFile, SoundSampleD
 * class [SoundAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

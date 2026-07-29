@@ -1,24 +1,24 @@
 ---
-title: PdfPageStamp.PdfPageStamp
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PdfPageStamp. مُنشئ PdfPageStamp
+title: "PdfPageStamp.PdfPageStamp"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PdfPageStamp. منشئ PdfPageStamp"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/pdfpagestamp/pdfpagestamp/
 ---
 ## PdfPageStamp(Page) {#constructor}
 
-مُنشئ PdfPageStamp.
+منشئ PdfPageStamp.
 
 ```csharp
 public PdfPageStamp(Page pdfPage)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pdfPage | Page | الصفحة التي تُستخدم للطباعة. |
+| pdfPage | صفحة | الصفحة التي تُستخدم للختم. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../page/)
 * class [PdfPageStamp](../)
@@ -29,18 +29,18 @@ public PdfPageStamp(Page pdfPage)
 
 ## PdfPageStamp(string, int) {#constructor_2}
 
-يُنشئ ختم صفحة PDF من الصفحة المحددة من المستند في الملف المحدد.
+ينشئ طابع صفحة Pdf من الصفحة المحددة في المستند داخل الملف المحدد.
 
 ```csharp
 public PdfPageStamp(string fileName, int pageIndex)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fileName | String | اسم الصفحة وملف PDF. |
+| fileName | String | الاسم والصفحة لملف PDF. |
 | pageIndex | Int32 | فهرس الصفحة. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfPageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -50,19 +50,21 @@ public PdfPageStamp(string fileName, int pageIndex)
 
 ## PdfPageStamp(Stream, int) {#constructor_1}
 
-يُنشئ ختم صفحة PDF من الصفحة المحددة في المستند من الدفق.
+ينشئ طابع صفحة Pdf من الصفحة المحددة في المستند من الدفق.
 
 ```csharp
 public PdfPageStamp(Stream stream, int pageIndex)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | stream | Stream | الدفق الذي يحتوي على PDF |
 | pageIndex | Int32 | فهرس الصفحة. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfPageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

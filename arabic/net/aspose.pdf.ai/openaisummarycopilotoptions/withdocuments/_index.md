@@ -1,28 +1,28 @@
 ---
-title: OpenAISummaryCopilotOptions.WithDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAISummaryCopilotOptions. تعيين مجموعة الوثائق لخيارات مساعد الملخص
+title: "OpenAISummaryCopilotOptions.WithDocuments"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAISummaryCopilotOptions. تحدد مجموعة المستندات لخيارات المساعد الملخص."
 type: docs
-weight: 70
+weight: 80
 url: /ar/net/aspose.pdf.ai/openaisummarycopilotoptions/withdocuments/
 ---
 ## WithDocuments(DocumentCollection) {#withdocuments}
 
-تعيين مجموعة الوثائق لخيارات مساعد الملخص.
+يعيّن مجموعة المستندات لخيارات ملخص المساعد.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithDocuments(DocumentCollection documentCollection)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| documentCollection | DocumentCollection | مجموعة الوثائق التي سيتم تعيينها. |
+| documentCollection | DocumentCollection | مجموعة المستندات المراد تحديدها. |
 
-### Return Value
+### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAISummaryCopilotOptions`](../).
+العنصر الحالي من [`OpenAISummaryCopilotOptions`](../).
 
-### See Also
+### انظر أيضًا
 
 * class [DocumentCollection](../../documentcollection/)
 * class [OpenAISummaryCopilotOptions](../)
@@ -33,21 +33,21 @@ public OpenAISummaryCopilotOptions WithDocuments(DocumentCollection documentColl
 
 ## WithDocuments(List&lt;TextDocument&gt;) {#withdocuments_2}
 
-يضيف مستندات نصية متعددة إلى مجموعة الوثائق لخيارات مساعد الملخص.
+يضيف عدة مستندات نصية إلى مجموعة المستندات لخيارات ملخص المساعد.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithDocuments(List<TextDocument> textDocuments)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| textDocuments | List`1 | قائمة المستندات النصية التي سيتم إضافتها. |
+| textDocuments | List`1 | قائمة مستندات النص لإضافتها. |
 
-### Return Value
+### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAISummaryCopilotOptions`](../).
+العنصر الحالي من [`OpenAISummaryCopilotOptions`](../).
 
-### See Also
+### انظر أيضًا
 
 * class [TextDocument](../../textdocument/)
 * class [OpenAISummaryCopilotOptions](../)
@@ -58,21 +58,21 @@ public OpenAISummaryCopilotOptions WithDocuments(List<TextDocument> textDocument
 
 ## WithDocuments(List&lt;PdfDocument&gt;) {#withdocuments_1}
 
-يضيف مستندات PDF متعددة إلى مجموعة الوثائق لخيارات مساعد الملخص.
+يضيف عدة مستندات PDF إلى مجموعة المستندات لخيارات ملخص المساعد.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pdfDocuments | List`1 | قائمة مستندات PDF التي سيتم إضافتها. |
+| pdfDocuments | List`1 | قائمة مستندات PDF للإضافة. |
 
-### Return Value
+### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAISummaryCopilotOptions`](../).
+العنصر الحالي من [`OpenAISummaryCopilotOptions`](../).
 
-### See Also
+### انظر أيضًا
 
 * class [PdfDocument](../../pdfdocument/)
 * class [OpenAISummaryCopilotOptions](../)
@@ -83,22 +83,24 @@ public OpenAISummaryCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
 
 ## WithDocuments(List&lt;string&gt;) {#withdocuments_3}
 
-يضيف مسارات مستندات متعددة إلى مجموعة الوثائق لخيارات مساعد الملخص.
+يضيف عدة مسارات مستندات إلى مجموعة المستندات لخيارات ملخص المساعد.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithDocuments(List<string> filePaths)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| filePaths | List`1 | قائمة مسارات الملفات التي سيتم إضافتها. |
+| filePaths | List`1 | قائمة مسارات الملفات للإضافة. |
 
-### Return Value
+### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAISummaryCopilotOptions`](../).
+العنصر الحالي من [`OpenAISummaryCopilotOptions`](../).
 
-### See Also
+### انظر أيضًا
 
 * class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

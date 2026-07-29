@@ -1,14 +1,14 @@
 ---
-title: Enum StampIcon
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.StampIcon enum. تعدد الرموز المستخدمة في عرض التعليق
+title: "تعداد StampIcon"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.Annotations.StampIcon. يعدد الأيقونات التي ستُستخدم في عرض التعليقة."
 type: docs
-weight: 2620
+weight: 2720
 url: /ar/net/aspose.pdf.annotations/stampicon/
 ---
-## تعداد StampIcon
+## StampIcon enumeration
 
-تعدد الرموز المستخدمة في عرض التعليق.
+يعدّ الأيقونات التي ستُستخدم في عرض التعليق.
 
 ```csharp
 public enum StampIcon
@@ -18,17 +18,17 @@ public enum StampIcon
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Draft | `0` | رمز ختم المسودة. |
-| Approved | `1` | رمز ختم معتمد. |
-| Experimental | `2` | رمز ختم تجريبي. |
-| NotApproved | `3` | رمز الختم غير معتمد. |
-| AsIs | `4` | رمز الختم "كما هو". |
-| Expired | `5` | رمز الختم منتهي الصلاحية. |
+| Draft | `0` | أيقونة ختم مسودة. |
+| Approved | `1` | أيقونة ختم معتمد. |
+| Experimental | `2` | أيقونة ختم تجريبي. |
+| NotApproved | `3` | أيقونة الختم غير معتمدة. |
+| AsIs | `4` | أيقونة الختم "كما هي". |
+| Expired | `5` | أيقونة الختم منتهية الصلاحية. |
 | NotForPublicRelease | `6` | غير مخصص للإصدار العام. |
 | Confidential | `7` | سري. |
-| Final | `8` | ختم نهائي. |
+| Final | `8` | الختم النهائي. |
 | Sold | `9` | ختم مبيع. |
-| Departmental | `10` | قسم. |
+| Departmental | `10` | إداري. |
 | ForComment | `11` | للتعليق. |
 | ForPublicRelease | `12` | للإصدار العام. |
 | TopSecret | `13` | سري للغاية. |
@@ -37,3 +37,5 @@ public enum StampIcon
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

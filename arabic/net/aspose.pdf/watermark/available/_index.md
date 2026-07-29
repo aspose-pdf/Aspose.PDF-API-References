@@ -1,14 +1,14 @@
 ---
-title: Watermark.Available
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية العلامة المائية. تحصل على علامة تشير إلى أن العلامة المائية موجودة
+title: "Watermark.Available"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Watermark. تحصّل على علم يُظهر وجود العلامة المائية"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/watermark/available/
 ---
-## خاصية Watermark.Available
+## Watermark.Available property
 
-تحصل على علامة تشير إلى أن العلامة المائية موجودة.
+يحصل على علم بوجود العلامة المائية.
 
 ```csharp
 public bool Available { get; }
@@ -19,3 +19,5 @@ public bool Available { get; }
 * class [Watermark](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

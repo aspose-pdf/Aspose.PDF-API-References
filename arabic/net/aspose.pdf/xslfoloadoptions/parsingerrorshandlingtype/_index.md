@@ -1,14 +1,14 @@
 ---
-title: XslFoLoadOptions.ParsingErrorsHandlingType
-second_title: Aspose.PDF for .NET API Reference
-description: حقل XslFoLoadOptions. قد يحتوي مستند XSLFO المصدر على أخطاء تنسيق. يقوم هذا التعداد بإدراج الاستراتيجيات الممكنة للتعامل مع تلك الأخطاء
+title: "XslFoLoadOptions.ParsingErrorsHandlingType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل XslFoLoadOptions. قد يحتوي مستند XSLFO المصدر على أخطاء تنسيق. هذا enum يُعدد الاستراتيجيات الممكنة لمعالجة تلك الأخطاء"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/xslfoloadoptions/parsingerrorshandlingtype/
 ---
-## حقل XslFoLoadOptions.ParsingErrorsHandlingType
+## XslFoLoadOptions.ParsingErrorsHandlingType field
 
-قد يحتوي مستند XSLFO المصدر على أخطاء تنسيق. يقوم هذا التعداد بإدراج الاستراتيجيات الممكنة للتعامل مع تلك الأخطاء
+قد يحتوي مستند XSLFO المصدر على أخطاء تنسيق. يعدد هذا التعداد الاستراتيجيات الممكنة للتعامل مع تلك الأخطاء.
 
 ```csharp
 public ParsingErrorsHandlingTypes ParsingErrorsHandlingType;
@@ -20,3 +20,5 @@ public ParsingErrorsHandlingTypes ParsingErrorsHandlingType;
 * class [XslFoLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

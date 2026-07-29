@@ -1,30 +1,30 @@
 ---
-title: PdfContentEditor.CreatePdfDocumentLink
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfContentEditor. تنشئ رابطًا إلى صفحة مستند PDF آخر
+title: "PdfContentEditor.CreatePdfDocumentLink"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfContentEditor. تنشئ ارتباطًا إلى صفحة مستند PDF آخر"
 type: docs
 weight: 220
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/createpdfdocumentlink/
 ---
 ## CreatePdfDocumentLink(Rectangle, string, int, int, Color, Enum[]) {#createpdfdocumentlink_2}
 
-تنشئ رابطًا إلى صفحة مستند PDF آخر.
+ينشئ رابطًا إلى صفحة مستند PDF آخر.
 
 ```csharp
 public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int originalPage, 
     int destinationPage, Color clr, Enum[] actionName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | rect | Rectangle | المستطيل للنقر النشط. |
-| remotePdf | String | مستند PDF الذي ستفتح صفحته. |
-| originalPage | Int32 | رقم الصفحة الأصلية حيث سيتم إنشاء المستطيل المرتبط بالرابط. |
-| destinationPage | Int32 | الصفحة الوجهة. |
+| remotePdf | String | مستند PDF الذي ستُفتح صفحته. |
+| originalPage | Int32 | رقم الصفحة الأصلية التي سيُنشأ فيها المستطيل المرتبط بالارتباط. |
+| destinationPage | Int32 | صفحة الوجهة. |
 | clr | Color | لون المستطيل للنقر النشط. |
-| actionName | Enum[] | مصفوفة من الإجراءات (أعضاء من تعداد PredefinedAction) المقابلة لتنفيذ عناصر القائمة في عارض Acrobat. |
+| actionName | Enum[] | المصفوفة التي تحتوي على الإجراءات (أعضاء تعداد PredefinedAction) المقابلة لتنفيذ عناصر القائمة في عارض Acrobat. |
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -35,7 +35,7 @@ editor.CreatePdfDocumentLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -45,22 +45,22 @@ editor.Save("example_out.pdf");
 
 ## CreatePdfDocumentLink(Rectangle, string, int, int, Color) {#createpdfdocumentlink_1}
 
-تنشئ رابطًا إلى صفحة مستند PDF آخر.
+ينشئ رابطًا إلى صفحة مستند PDF آخر.
 
 ```csharp
 public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int originalPage, 
     int destinationPage, Color clr)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | rect | Rectangle | المستطيل للنقر النشط. |
-| remotePdf | String | مستند PDF الذي ستفتح صفحته. |
-| originalPage | Int32 | رقم الصفحة الأصلية حيث سيتم إنشاء المستطيل المرتبط بالرابط. |
-| destinationPage | Int32 | الصفحة الوجهة. |
+| remotePdf | String | مستند PDF الذي ستُفتح صفحته. |
+| originalPage | Int32 | رقم الصفحة الأصلية التي سيُنشأ فيها المستطيل المرتبط بالارتباط. |
+| destinationPage | Int32 | صفحة الوجهة. |
 | clr | Color | لون المستطيل للنقر النشط. |
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -70,7 +70,7 @@ editor.CreatePdfDocumentLink(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -80,21 +80,21 @@ editor.Save("example_out.pdf");
 
 ## CreatePdfDocumentLink(Rectangle, string, int, int) {#createpdfdocumentlink}
 
-تنشئ رابطًا إلى صفحة مستند PDF آخر.
+ينشئ رابطًا إلى صفحة مستند PDF آخر.
 
 ```csharp
 public void CreatePdfDocumentLink(Rectangle rect, string remotePdf, int originalPage, 
     int destinationPage)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | rect | Rectangle | المستطيل للنقر النشط. |
-| remotePdf | String | مستند PDF الذي ستفتح صفحته. |
-| originalPage | Int32 | رقم الصفحة الأصلية حيث سيتم إنشاء المستطيل المرتبط بالرابط. |
-| destinationPage | Int32 | الصفحة الوجهة. |
+| remotePdf | String | مستند PDF الذي ستُفتح صفحته. |
+| originalPage | Int32 | رقم الصفحة الأصلية التي سيُنشأ فيها المستطيل المرتبط بالارتباط. |
+| destinationPage | Int32 | صفحة الوجهة. |
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -103,8 +103,10 @@ editor.CreatePdfDocumentLink(new System.Drawing.Rectangle(0, 0, 100, 100), "anot
 editor.Save("example_out.pdf");
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

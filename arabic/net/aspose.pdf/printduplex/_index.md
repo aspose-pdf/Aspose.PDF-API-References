@@ -1,28 +1,30 @@
 ---
-title: Enum PrintDuplex
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PrintDuplex enum. خيار التعامل مع الورق لاستخدامه عند طباعة الملف من مربع الحوار للطباعة
+title: "تعداد PrintDuplex"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.PrintDuplex. خيار معالجة الورق لاستخدامه عند طباعة الملف من مربع حوار الطباعة"
 type: docs
-weight: 9500
+weight: 9650
 url: /ar/net/aspose.pdf/printduplex/
 ---
 ## PrintDuplex enumeration
 
-خيار التعامل مع الورق لاستخدامه عند طباعة الملف من مربع الحوار للطباعة..
+خيار معالجة الورق لاستخدامه عند طباعة الملف من مربع حوار الطباعة..
 
 ```csharp
 public enum PrintDuplex
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Simplex | `0` | طباعة على جانب واحد. |
-| DuplexFlipShortEdge | `1` | دبل و قلب على الحافة القصيرة للورقة. |
-| DuplexFlipLongEdge | `2` | دبل و قلب على الحافة الطويلة للورقة. |
+| Simplex | `0` | اطبع من جانب واحد. |
+| DuplexFlipShortEdge | `1` | طباعة مزدوجة وقلب على الحافة القصيرة للصفحة. |
+| DuplexFlipLongEdge | `2` | ثنائي الوجه والقلب على الحافة الطويلة للورقة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

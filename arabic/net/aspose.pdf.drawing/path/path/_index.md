@@ -1,22 +1,22 @@
 ---
-title: Path.Path
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ Path. يُهيئ مثيلًا جديدًا من فئة Path
+title: "Path.Path"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Path. يهيئ نسخة جديدة من الفئة Path"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.drawing/path/path/
 ---
 ## Path(Shape[]) {#constructor_1}
 
-يُهيئ مثيلًا جديدًا من فئة [`Path`](../).
+يهيئ نسخة جديدة من الفئة [`Path`](../).
 
 ```csharp
 public Path(Shape[] shapes)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| shapes | Shape[] | مصفوفة الأشكال تحتوي على مجموعة مقاطع المسار. |
+| الأشكال | Shape[] | مصفوفة الأشكال تحتوي على مقاطع path المحددة. |
 
 ### انظر أيضًا
 
@@ -29,7 +29,7 @@ public Path(Shape[] shapes)
 
 ## Path() {#constructor}
 
-يُهيئ مثيلًا جديدًا من فئة [`Path`](../).
+يهيئ نسخة جديدة من الفئة [`Path`](../).
 
 ```csharp
 public Path()
@@ -40,3 +40,5 @@ public Path()
 * class [Path](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

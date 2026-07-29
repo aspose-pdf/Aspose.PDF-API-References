@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionRequest.Model
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LlamaChatCompletionRequest. تعيين أو الحصول على معرف النموذج للاستخدام
+title: "LlamaChatCompletionRequest.Model"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LlamaChatCompletionRequest. تعين أو تحصل على معرف النموذج للاستخدام"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.ai/llamachatcompletionrequest/model/
 ---
-## خاصية LlamaChatCompletionRequest.Model
+## LlamaChatCompletionRequest.Model property
 
-تعيين أو الحصول على معرف النموذج للاستخدام.
+يضبط أو يحصل على معرف النموذج لاستخدامه.
 
 ```csharp
 public string Model { get; set; }
@@ -19,3 +19,5 @@ public string Model { get; set; }
 * class [LlamaChatCompletionRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

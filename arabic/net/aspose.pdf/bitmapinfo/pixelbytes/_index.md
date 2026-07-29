@@ -1,14 +1,14 @@
 ---
-title: BitmapInfo.PixelBytes
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BitmapInfo. تحصل على مصفوفة البكسلات
+title: "BitmapInfo.PixelBytes"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BitmapInfo. تسترجع مصفوفة البكسلات"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/bitmapinfo/pixelbytes/
 ---
-## خاصية BitmapInfo.PixelBytes
+## BitmapInfo.PixelBytes property
 
-تحصل على مصفوفة البكسلات.
+يحصل على مصفوفة البكسلات.
 
 ```csharp
 public byte[] PixelBytes { get; }
@@ -19,3 +19,5 @@ public byte[] PixelBytes { get; }
 * class [BitmapInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

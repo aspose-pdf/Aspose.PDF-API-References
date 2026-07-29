@@ -1,14 +1,14 @@
 ---
-title: TiffSettings.CoordinateType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TiffSettings. الحصول على نوع إحداثيات الصفحة أو تعيينه . يتم استخدام قيمة CropBox بشكل افتراضي
+title: "TiffSettings.CoordinateType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TiffSettings. الحصول أو تعيين نوع إحداثيات الصفحة Media/Crop boxes. يتم استخدام قيمة CropBox كافتراضي"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.devices/tiffsettings/coordinatetype/
 ---
-## خاصية TiffSettings.CoordinateType
+## TiffSettings.CoordinateType property
 
-الحصول على نوع إحداثيات الصفحة (صناديق الوسائط/القص) أو تعيينه. يتم استخدام قيمة CropBox بشكل افتراضي.
+احصل أو عيّن نوع إحداثيات الصفحة (صناديق Media/Crop). تُستخدم قيمة CropBox افتراضيًا.
 
 ```csharp
 public PageCoordinateType CoordinateType { get; set; }
@@ -20,3 +20,5 @@ public PageCoordinateType CoordinateType { get; set; }
 * class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

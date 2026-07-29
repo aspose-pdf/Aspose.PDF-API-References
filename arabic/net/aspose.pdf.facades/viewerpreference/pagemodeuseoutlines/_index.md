@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.PageModeUseOutlines
-second_title: Aspose.PDF for .NET API Reference
-description: حقل ViewerPreference. مخطط الوثيقة مرئي
+title: "ViewerPreference.PageModeUseOutlines"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل ViewerPreference. مخطط المستند مرئي"
 type: docs
 weight: 240
 url: /ar/net/aspose.pdf.facades/viewerpreference/pagemodeuseoutlines/
 ---
-## حقل ViewerPreference.PageModeUseOutlines
+## ViewerPreference.PageModeUseOutlines field
 
-مخطط الوثيقة مرئي.
+مخطط المستند مرئي.
 
 ```csharp
 public const int PageModeUseOutlines;
@@ -19,3 +19,5 @@ public const int PageModeUseOutlines;
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

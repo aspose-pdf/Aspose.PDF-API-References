@@ -1,14 +1,14 @@
 ---
-title: ExpiresAfter.Days
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ExpiresAfter. تحصل أو تعين عدد الأيام بعد وقت التثبيت التي ستنتهي فيها مخازن المتجهات
+title: "ExpiresAfter.Days"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "ExpiresAfter property. يحصل أو يعيّن عدد الأيام بعد وقت المرساة التي سينتهي فيها مخزن المتجهات"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/expiresafter/days/
 ---
-## خاصية ExpiresAfter.Days
+## ExpiresAfter.Days property
 
-تحصل أو تعين عدد الأيام بعد وقت التثبيت التي ستنتهي فيها مخازن المتجهات.
+يحصل أو يعيّن عدد الأيام بعد وقت المرجع التي سينتهي فيها مخزن المتجهات.
 
 ```csharp
 public int Days { get; set; }
@@ -19,3 +19,5 @@ public int Days { get; set; }
 * class [ExpiresAfter](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

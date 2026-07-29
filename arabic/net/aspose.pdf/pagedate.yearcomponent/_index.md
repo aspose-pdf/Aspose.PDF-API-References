@@ -1,41 +1,43 @@
 ---
-title: Class PageDate.YearComponent
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.PageDateYearComponent. تمثل مكون السنة من التاريخ
+title: "الفئة PageDate.YearComponent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.PageDateYearComponent. تمثل مكوّن السنة لتاريخ."
 type: docs
-weight: 8140
+weight: 8280
 url: /ar/net/aspose.pdf/pagedate.yearcomponent/
 ---
 ## PageDate.YearComponent class
 
-تمثل مكون السنة من التاريخ.
+يمثل مكوّن السنة من تاريخ.
 
 ```csharp
 public class YearComponent : DateComponent
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [YearComponent](../../aspose.pdf/pagedate.yearcomponent/.ctor)() | المُنشئ الافتراضي. |
+| [YearComponent](../../aspose.pdf/pagedate.yearcomponent/.ctor)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Format](../../aspose.pdf/datecomponent/format/) { get; set; } | يحصل أو يحدد التنسيق لمكون التاريخ. |
+| [Format](../../aspose.pdf/datecomponent/format/) { get; set; } | الحصول أو تعيين التنسيق لمكوّن التاريخ. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [GetFormat](../../aspose.pdf/pagedate.yearcomponent/getformat#getformat)() | يحصل على سلسلة التنسيق لمكون السنة. |
-| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | يُرجع سلسلة تتكون من حرف محدد مكرر بناءً على التنسيق. |
+| [GetFormat](../../aspose.pdf/pagedate.yearcomponent/getformat#getformat)() | الحصول على سلسلة التنسيق لمكوّن السنة. |
+| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | إرجاع سلسلة مكوّنة من حرف محدد مكرر وفقًا للتنسيق. |
 
-### See Also
+### انظر أيضًا
 
 * class [DateComponent](../datecomponent/)
 * class [PageDate](../pagedate/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

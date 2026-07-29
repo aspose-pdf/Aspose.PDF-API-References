@@ -1,14 +1,14 @@
 ---
-title: Class PdfExtractorOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.PdfExtractorOptions. تمثل خيارات لمكونات TextExtractor و ImageExtractor
+title: "الفئة PdfExtractorOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Plugins.PdfExtractorOptions الفئة. يمثل الخيارات لإضافات TextExtractor و ImageExtractor."
 type: docs
-weight: 9070
+weight: 9220
 url: /ar/net/aspose.pdf.plugins/pdfextractoroptions/
 ---
-## فئة PdfExtractorOptions
+## PdfExtractorOptions class
 
-تمثل خيارات لمكونات TextExtractor و ImageExtractor.
+يمثل خيارات ملحقات TextExtractor و ImageExtractor.
 
 ```csharp
 public abstract class PdfExtractorOptions : IPluginOptions
@@ -18,21 +18,23 @@ public abstract class PdfExtractorOptions : IPluginOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/pdfextractoroptions/inputs/) { get; } | تعيد مجموعة بيانات مكون PdfExtractor. |
-| virtual [OperationName](../../aspose.pdf.plugins/pdfextractoroptions/operationname/) { get; } | تعيد اسم العملية |
+| [Inputs](../../aspose.pdf.plugins/pdfextractoroptions/inputs/) { get; } | يعيد مجموعة بيانات إضافة PdfExtractor. |
+| virtual [OperationName](../../aspose.pdf.plugins/pdfextractoroptions/operationname/) { get; } | يعيد اسم العملية |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/pdfextractoroptions/addinput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات مكون PdfExtractor. |
+| [AddInput](../../aspose.pdf.plugins/pdfextractoroptions/addinput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات إضافة PdfExtractor. |
 
 ## ملاحظات
 
-تحتوي `PdfExtractorOptions` على وظائف أساسية لإضافة بيانات (ملفات، تدفقات) تمثل مستندات PDF المدخلة. يرجى إنشاء [`TextExtractorOptions`](../textextractoroptions/) أو ImageExtractorOptions بدلاً من ذلك.
+تحتوي `PdfExtractorOptions` على وظائف أساسية لإضافة البيانات (ملفات، تدفقات) التي تمثل مستندات PDF الإدخال. يرجى إنشاء [`TextExtractorOptions`](../textextractoroptions/) أو ImageExtractorOptions بدلاً من ذلك.
 
 ### انظر أيضًا
 
-* واجهة [IPluginOptions](../ipluginoptions/)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../)
+* interface [IPluginOptions](../ipluginoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

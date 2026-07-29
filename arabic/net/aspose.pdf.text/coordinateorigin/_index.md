@@ -1,14 +1,14 @@
 ---
-title: Enum CoordinateOrigin
-second_title: Aspose.PDF for .NET API Reference
-description: تعداد CoordinateOrigin في Aspose.Pdf.Text. تعداد CoordinateOrigin للنص
+title: "تعداد CoordinateOrigin"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.Text.CoordinateOrigin. تعداد CoordinateOrigin للنص"
 type: docs
-weight: 10460
+weight: 10640
 url: /ar/net/aspose.pdf.text/coordinateorigin/
 ---
-## تعداد CoordinateOrigin
+## CoordinateOrigin enumeration
 
-تعداد CoordinateOrigin للنص.
+تعداد Text CoordinateOrigin.
 
 ```csharp
 public enum CoordinateOrigin
@@ -18,10 +18,12 @@ public enum CoordinateOrigin
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| BaseLine | `0` | يجب اعتبار أدنى إحداثي للنص كخط الأساس. |
-| Descender | `1` | يجب اعتبار أدنى إحداثي للنص كخط الهبوط. |
+| BaseLine | `0` | يجب اعتبار أدنى إحداثيات النص كخط القاعدة. |
+| Descender | `1` | يجب اعتبار أدنى إحداثيات النص كخط النزول. |
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfConverter.PageCount
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfConverter. تحصل على عدد الصفحات
+title: "PdfConverter.PageCount"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfConverter. تحصل على عدد الصفحات"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.facades/pdfconverter/pagecount/
 ---
-## خاصية PdfConverter.PageCount
+## PdfConverter.PageCount property
 
-تحصل على عدد الصفحات.
+يحصل على عدد الصفحات.
 
 ```csharp
 public int PageCount { get; }
@@ -19,3 +19,5 @@ public int PageCount { get; }
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

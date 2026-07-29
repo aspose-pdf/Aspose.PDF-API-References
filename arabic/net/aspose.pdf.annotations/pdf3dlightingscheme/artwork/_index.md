@@ -1,14 +1,14 @@
 ---
-title: PDF3DLightingScheme.Artwork
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PDF3DLightingScheme. مخطط إضاءة العمل الفني
+title: "PDF3DLightingScheme.Artwork"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PDF3DLightingScheme. مخطط الإضاءة الفني"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/pdf3dlightingscheme/artwork/
 ---
-## حقل PDF3DLightingScheme.Artwork
+## PDF3DLightingScheme.Artwork field
 
-مخطط إضاءة "العمل الفني".
+مخطط الإضاءة "Artwork".
 
 ```csharp
 public static PDF3DLightingScheme Artwork;
@@ -19,3 +19,5 @@ public static PDF3DLightingScheme Artwork;
 * class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

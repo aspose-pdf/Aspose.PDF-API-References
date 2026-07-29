@@ -1,14 +1,14 @@
 ---
-title: TableElement.Top
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TableElement. تحصل أو تعين إحداثي الجزء العلوي من الجدول
+title: "TableElement.Top"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TableElement. يحصل أو يضبط إحداثيات أعلى الجدول"
 type: docs
 weight: 180
 url: /ar/net/aspose.pdf.logicalstructure/tableelement/top/
 ---
-## خاصية TableElement.Top
+## TableElement.Top property
 
-تحصل أو تعين إحداثي الجزء العلوي من الجدول.
+يحصل أو يعيّن إحداثي أعلى الجدول.
 
 ```csharp
 public float Top { get; set; }
@@ -19,3 +19,5 @@ public float Top { get; set; }
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: MarkupAnnotation.SetMarkedState
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة MarkupAnnotation. تعيين الحالة المحددة وغير المحددة للتعليق. لاحظ أن الحالة مخزنة في تعليق نصي آخر يحتوي على مفاتيح الحالة ونموذج الحالة
+title: "MarkupAnnotation.SetMarkedState"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة MarkupAnnotation. تضبط حالة محدد وغير محدد للتعليق. ملاحظة: الحالة مخزنة في تعليقات نصية أخرى تحتوي على مفاتيح state و statemodel"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.annotations/markupannotation/setmarkedstate/
 ---
-## طريقة MarkupAnnotation.SetMarkedState
+## MarkupAnnotation.SetMarkedState method
 
-تعيين الحالة المحددة وغير المحددة للتعليق. لاحظ أن الحالة مخزنة في تعليق نصي آخر يحتوي على مفاتيح الحالة ونموذج الحالة.
+يضبط حالة 'محدد' و'غير محدد' للتعليق. ملاحظة، يتم تخزين الحالة في تعليقات نصية أخرى تحتوي على مفاتيح state و statemodel.
 
 ```csharp
 public void SetMarkedState(bool marked)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| marked | Boolean | صحيح إذا كانت تعيين الحالة المحددة، وخطأ إذا كانت تعيين الحالة غير المحددة. |
+| محدد | Boolean | صحيح إذا تم ضبط حالة محدد، وخاطئ إذا تم ضبط حالة غير محدد. |
 
 ### انظر أيضًا
 
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

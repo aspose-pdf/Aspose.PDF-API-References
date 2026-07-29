@@ -1,42 +1,44 @@
 ---
-title: Class SetWordSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.SetWordSpacing. فئة تمثل مشغل Tw لتعيين تباعد الكلمات
+title: "الفئة SetWordSpacing"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Operators.SetWordSpacing. الفئة التي تمثل عامل Tw لضبط تباعد الكلمات"
 type: docs
-weight: 7860
+weight: 8000
 url: /ar/net/aspose.pdf.operators/setwordspacing/
 ---
 ## SetWordSpacing class
 
-فئة تمثل مشغل Tw (تعيين تباعد الكلمات).
+الفئة التي تمثل عامل Tw (تعيين تباعد الكلمات).
 
 ```csharp
 public class SetWordSpacing : TextStateOperator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [SetWordSpacing](setwordspacing/)(double) | يقوم بتهيئة المشغل. |
+| [SetWordSpacing](setwordspacing/)(double) | يُهيئ العامل. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
-| [WordSpacing](../../aspose.pdf.operators/setwordspacing/wordspacing/) { get; set; } | يحصل على أو يحدد تباعد الكلمات. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
+| [WordSpacing](../../aspose.pdf.operators/setwordspacing/wordspacing/) { get; set; } | يحصل أو يضبط تباعد الكلمات. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setwordspacing/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | يعيد نص المشغل ومعاييره. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/setwordspacing/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | يرجع نص العامل ومعامِله. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextStateOperator](../textstateoperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

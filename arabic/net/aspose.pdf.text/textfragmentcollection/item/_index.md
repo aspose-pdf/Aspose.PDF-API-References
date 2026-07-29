@@ -1,30 +1,32 @@
 ---
-title: TextFragmentCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية مجموعة نصوص الفقرات. يحصل على عنصر فقرة النص عند الفهرس المحدد
+title: "TextFragmentCollection.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragmentCollection. تحصل على عنصر مقطع النص عند الفهرس المحدد"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.text/textfragmentcollection/item/
 ---
-## فهرس مجموعة نصوص الفقرات
+## TextFragmentCollection indexer
 
-يحصل على عنصر فقرة النص عند الفهرس المحدد.
+يحصل على عنصر مقطع النص في الفهرس المحدد.
 
 ```csharp
 public TextFragment this[int index] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| الفهرس | الفهرس داخل المجموعة. |
+| index | Index within the collection. |
 
 ### قيمة الإرجاع
 
-كائن نص الفقرة.
+كائن TextFragment.
 
 ### انظر أيضًا
 
-* class [نص الفقرة](../../textfragment/)
-* class [مجموعة نصوص الفقرات](../)
+* class [TextFragment](../../textfragment/)
+* class [TextFragmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

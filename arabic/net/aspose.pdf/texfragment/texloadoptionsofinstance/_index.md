@@ -1,14 +1,14 @@
 ---
-title: TeXFragment.TeXLoadOptionsOfInstance
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TeXFragment. تحصل أو تعين TeXLoadOptions التي ستستخدم لتحميل وعرض LaTeX في هذه النسخة من الفئة. يرجى استخدامها عندما يكون من الضروري استخدام إعداد محدد لاستيراد LaTeX لهذه النسخة أو تلك، على سبيل المثال عندما يجب أن تستخدم هذه النسخة أو تلك مسار قاعدة محدد لـ LaTeX المستورد أو يجب أن تستخدم محمل محدد للموارد الخارجية. إذا كانت المعلمة هي القيمة الافتراضية ، فسيتم استخدام خيارات تحميل LaTeX القياسية.
+title: "TeXFragment.TeXLoadOptionsOfInstance"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TeXFragment. تحصل أو تعين TeXLoadOptions التي ستُستخدم لتحميل وعرض LaTeX في هذه المثيلة من الفئة. يرجى استخدامها عندما يكون من الضروري استخدام إعداد معين لاستيراد LaTeX لهذه المثيلة أو لتلك المثيلة، على سبيل المثال عندما يجب على هذه المثيلة أو تلك المثيلة استخدام BasePath محدد لـ LaTeX المستورد أو يجب استخدام محمل محدد للموارد الخارجية. إذا كان المعامل افتراضيًا Null فستُستخدم خيارات تحميل LaTeX القياسية."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/texfragment/texloadoptionsofinstance/
 ---
-## خاصية TeXFragment.TeXLoadOptionsOfInstance
+## TeXFragment.TeXLoadOptionsOfInstance property
 
-تحصل أو تعين TeXLoadOptions التي ستستخدم لتحميل (وعرض) LaTeX في هذه النسخة من الفئة. يرجى استخدامها عندما يكون من الضروري استخدام إعداد محدد لاستيراد LaTeX لهذه النسخة أو تلك (على سبيل المثال عندما يجب أن تستخدم هذه النسخة أو تلك مسار قاعدة محدد لـ LaTeX المستورد أو يجب أن تستخدم محمل محدد للموارد الخارجية). إذا كانت المعلمة هي القيمة الافتراضية (null)، فسيتم استخدام خيارات تحميل LaTeX القياسية.
+يحصل أو يعيّن TeXLoadOptions التي ستُستخدم لتحميل (وتصيير) LaTeX إلى هذه النسخة من الفئة. يرجى استخدامها عندما يكون من الضروري استخدام إعداد محدد لاستيراد LaTeX لهذه أو لتلك النسخة (على سبيل المثال عندما يجب على هذه أو تلك النسخة استخدام BasePath محدد لـ LaTeX المستورد أو يجب استخدامها محمل موارد خارجية محدد). إذا كان المعامل افتراضيًا (null)، فستُستخدم خيارات تحميل LaTeX القياسية.
 
 ```csharp
 public TeXLoadOptions TeXLoadOptionsOfInstance { get; set; }
@@ -20,3 +20,5 @@ public TeXLoadOptions TeXLoadOptionsOfInstance { get; set; }
 * class [TeXFragment](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

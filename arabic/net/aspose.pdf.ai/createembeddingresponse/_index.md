@@ -1,35 +1,37 @@
 ---
-title: Class CreateEmbeddingResponse
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.CreateEmbeddingResponse. تمثل استجابة من نقطة نهاية إنشاء التضمينات
+title: "فئة CreateEmbeddingResponse"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.AI.CreateEmbeddingResponse. تمثل استجابة من نقطة النهاية Create Embeddings"
 type: docs
-weight: 270
+weight: 280
 url: /ar/net/aspose.pdf.ai/createembeddingresponse/
 ---
 ## CreateEmbeddingResponse class
 
-تمثل استجابة من نقطة نهاية إنشاء التضمينات.
+يمثل استجابة من نقطة النهاية Create Embeddings.
 
 ```csharp
 public class CreateEmbeddingResponse
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [CreateEmbeddingResponse](createembeddingresponse/)() | المُنشئ الافتراضي. |
+| [CreateEmbeddingResponse](createembeddingresponse/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Data](../../aspose.pdf.ai/createembeddingresponse/data/) { get; set; } | يحصل أو يحدد قائمة من كائنات التضمين. |
-| [Model](../../aspose.pdf.ai/createembeddingresponse/model/) { get; set; } | يحصل أو يحدد النموذج المستخدم للتضمين. |
-| [Object](../../aspose.pdf.ai/createembeddingresponse/object/) { get; set; } | يحصل أو يحدد نوع الكائن، والذي يكون دائمًا قائمة. |
-| [Usage](../../aspose.pdf.ai/createembeddingresponse/usage/) { get; set; } | يحصل أو يحدد إحصائيات الاستخدام لطلب التضمين. |
+| [Data](../../aspose.pdf.ai/createembeddingresponse/data/) { get; set; } | يحصل أو يعيّن قائمة من كائنات embedding. |
+| [Model](../../aspose.pdf.ai/createembeddingresponse/model/) { get; set; } | يحصل أو يعيّن النموذج المستخدم في embedding. |
+| [Object](../../aspose.pdf.ai/createembeddingresponse/object/) { get; set; } | يحصل أو يعيّن نوع الكائن، والذي يكون دائمًا list. |
+| [Usage](../../aspose.pdf.ai/createembeddingresponse/usage/) { get; set; } | يحصل أو يعيّن إحصاءات الاستخدام لطلب embedding. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

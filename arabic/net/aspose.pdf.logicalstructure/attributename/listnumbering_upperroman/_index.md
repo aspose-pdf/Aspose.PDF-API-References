@@ -1,14 +1,14 @@
 ---
-title: AttributeName.ListNumbering_UpperRoman
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. قائمة الترقيم AttributeListNumbering UpperRoman الأرقام الرومانية الكبيرة I II III IV
+title: "AttributeName.ListNumbering_UpperRoman"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. سمة ListNumbering UpperRoman  أرقام رومانية كبيرة I II III IV"
 type: docs
 weight: 330
 url: /ar/net/aspose.pdf.logicalstructure/attributename/listnumbering_upperroman/
 ---
-## حقل AttributeName.ListNumbering_UpperRoman
+## AttributeName.ListNumbering_UpperRoman field
 
-قائمة الترقيم AttributeListNumbering: UpperRoman - الأرقام الرومانية الكبيرة (I، II، III، IV، ...).
+السمة ListNumbering: UpperRoman - أرقام رومانية كبيرة (I, II, III, IV, ...)
 
 ```csharp
 public static readonly AttributeName ListNumbering_UpperRoman;
@@ -19,3 +19,5 @@ public static readonly AttributeName ListNumbering_UpperRoman;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

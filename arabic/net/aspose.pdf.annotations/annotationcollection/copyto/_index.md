@@ -1,22 +1,22 @@
 ---
-title: AnnotationCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة AnnotationCollection. تنسخ مصفوفة من التعليقات التوضيحية إلى المجموعة
+title: "AnnotationCollection.CopyTo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة AnnotationCollection. تنسخ مصفوفة من annotations إلى المجموعة."
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.annotations/annotationcollection/copyto/
 ---
-## طريقة AnnotationCollection.CopyTo
+## AnnotationCollection.CopyTo method
 
-تنسخ مصفوفة من التعليقات التوضيحية إلى المجموعة.
+ينسخ مصفوفة التعليقات إلى المجموعة.
 
 ```csharp
 public void CopyTo(Annotation[] array, int index)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| array | Annotation[] | مصفوفة للنسخ إلى المجموعة. |
+| مصفوفة | Annotation[] | مصفوفة للنسخ إلى المجموعة. |
 | index | Int32 | الفهرس الابتدائي حيث سيتم نسخ المجموعة. |
 
 ### انظر أيضًا
@@ -25,3 +25,5 @@ public void CopyTo(Annotation[] array, int index)
 * class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: MarkupAnnotation.Opacity
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MarkupAnnotation. تحصل أو تعين قيمة الشفافية الثابتة التي ستستخدم في رسم التعليق
+title: "MarkupAnnotation.Opacity"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MarkupAnnotation. تُرجع أو تُعيّن قيمة الشفافية الثابتة المستخدمة في رسم التعليق التوضيحي."
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/markupannotation/opacity/
 ---
-## خاصية MarkupAnnotation.Opacity
+## MarkupAnnotation.Opacity property
 
-تحصل أو تعين قيمة الشفافية الثابتة التي ستستخدم في رسم التعليق.
+يحصل أو يضبط قيمة الشفافية الثابتة المستخدمة في رسم التعليق.
 
 ```csharp
 public double Opacity { get; set; }
@@ -19,3 +19,5 @@ public double Opacity { get; set; }
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

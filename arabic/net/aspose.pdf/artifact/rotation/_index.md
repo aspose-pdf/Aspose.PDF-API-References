@@ -1,14 +1,14 @@
 ---
-title: Artifact.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الأرتيفكت. يحصل أو يحدد زاوية دوران الأرتيفكت
+title: "Artifact.Rotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Artifact. تحصل أو تعين زاوية دوران القطعة."
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf/artifact/rotation/
 ---
-## خاصية Artifact.Rotation
+## Artifact.Rotation property
 
-يحصل أو يحدد زاوية دوران الأرتيفكت.
+يحصل أو يضبط زاوية دوران القطعة.
 
 ```csharp
 public double Rotation { get; set; }
@@ -19,3 +19,5 @@ public double Rotation { get; set; }
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

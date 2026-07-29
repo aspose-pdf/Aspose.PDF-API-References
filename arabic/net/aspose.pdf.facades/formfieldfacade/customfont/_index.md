@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.CustomFont
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormFieldFacade. تحصل أو تعين اسم الخط عندما يكون غير قياسي بخلاف 14 خط قياسي
+title: "FormFieldFacade.CustomFont"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FormFieldFacade خاصية. يحصل على أو يعيّن اسم الخط عندما يكون غير قياسي بخلاف 14 خطًا قياسيًا"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.facades/formfieldfacade/customfont/
 ---
-## خاصية FormFieldFacade.CustomFont
+## FormFieldFacade.CustomFont property
 
-تحصل أو تعين اسم الخط عندما يكون غير قياسي (بخلاف 14 خط قياسي).
+يحصل أو يحدد اسم الخط عندما يكون غير قياسي (غير أحد الـ 14 خطًا القياسيًا).
 
 ```csharp
 public string CustomFont { get; set; }
@@ -19,3 +19,5 @@ public string CustomFont { get; set; }
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: MhtLoadOptions.MhtLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ MhtLoadOptions. المُنشئ الافتراضي
+title: "MhtLoadOptions.MhtLoadOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ MhtLoadOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/mhtloadoptions/mhtloadoptions/
 ---
-## مُنشئ MhtLoadOptions
+## MhtLoadOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public MhtLoadOptions()
@@ -19,3 +19,5 @@ public MhtLoadOptions()
 * class [MhtLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

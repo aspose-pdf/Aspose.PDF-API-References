@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionResponse.Model
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LlamaChatCompletionResponse. يحصل أو يحدد النموذج المستخدم لإكمال الدردشة
+title: "LlamaChatCompletionResponse.Model"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LlamaChatCompletionResponse. تحصل أو تعيّن النموذج المستخدم لإكمال الدردشة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.ai/llamachatcompletionresponse/model/
 ---
-## خاصية LlamaChatCompletionResponse.Model
+## LlamaChatCompletionResponse.Model property
 
-يحصل أو يحدد النموذج المستخدم لإكمال الدردشة.
+يحصل أو يضبط النموذج المستخدم لإكمال الدردشة.
 
 ```csharp
 public string Model { get; set; }
@@ -19,3 +19,5 @@ public string Model { get; set; }
 * class [LlamaChatCompletionResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TableAbsorber.TextSearchOptions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TableAbsorber. تحصل أو تعين خيارات البحث النصي
+title: "TableAbsorber.TextSearchOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TableAbsorber. تحصّل أو تعيّن خيارات البحث النصي"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.text/tableabsorber/textsearchoptions/
 ---
-## خاصية TableAbsorber.TextSearchOptions
+## TableAbsorber.TextSearchOptions property
 
-تحصل أو تعين خيارات البحث النصي.
+يحصل أو يعيّن خيارات بحث النص.
 
 ```csharp
 public virtual TextSearchOptions TextSearchOptions { get; set; }
@@ -16,7 +16,7 @@ public virtual TextSearchOptions TextSearchOptions { get; set; }
 
 ## ملاحظات
 
-يسمح بتعريف عدة خيارات سيتم استخدامها أثناء البحث عن نص يحتوي على جداول.
+يسمح بتعريف عدة خيارات ستُستخدم أثناء البحث عن النص داخل الجداول.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public virtual TextSearchOptions TextSearchOptions { get; set; }
 * class [TableAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

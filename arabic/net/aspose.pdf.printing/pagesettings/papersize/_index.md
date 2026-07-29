@@ -1,14 +1,14 @@
 ---
-title: PageSettings.PaperSize
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageSettings. تحصل أو تعين حجم الورق
+title: "PageSettings.PaperSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageSettings. يحصل أو يحدد حجم الورق"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.printing/pagesettings/papersize/
 ---
-## خاصية PageSettings.PaperSize
+## PageSettings.PaperSize property
 
-تحصل أو تعين حجم الورق.
+يحصل أو يضبط حجم الورق.
 
 ```csharp
 public PaperSize PaperSize { get; set; }
@@ -20,3 +20,5 @@ public PaperSize PaperSize { get; set; }
 * class [PageSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

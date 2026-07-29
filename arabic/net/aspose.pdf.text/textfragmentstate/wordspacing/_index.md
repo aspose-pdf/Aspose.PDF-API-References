@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.WordSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragmentState. تحصل أو تعين تباعد الكلمات للنص
+title: "TextFragmentState.WordSpacing"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragmentState. تحصل أو تعيّن تباعد الكلمات في النص"
 type: docs
 weight: 230
 url: /ar/net/aspose.pdf.text/textfragmentstate/wordspacing/
 ---
-## خاصية TextFragmentState.WordSpacing
+## TextFragmentState.WordSpacing property
 
-تحصل أو تعين تباعد الكلمات للنص.
+يحصل أو يضبط تباعد الكلمات للنص.
 
 ```csharp
 public override float WordSpacing { get; set; }
@@ -19,3 +19,5 @@ public override float WordSpacing { get; set; }
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

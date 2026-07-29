@@ -1,31 +1,31 @@
 ---
-title: PdfFileSignature.Certify
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileSignature. تصديق الوثيقة بتوقيع MDP. يجب توفير بيانات مثل سبب التوقيع، جهة الاتصال والموقع من خلال الخصائص المقابلة لكائن التوقيع sig
+title: "PdfFileSignature.Certify"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileSignature. تصدق على المستند باستخدام توقيع MDP. يجب توفير بيانات مثل سبب التوقيع والاتصال والموقع عبر الخصائص المقابلة لكائن Signature sig"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.facades/pdffilesignature/certify/
 ---
 ## Certify(int, string, string, string, bool, Rectangle, DocMDPSignature) {#certify}
 
-تصديق الوثيقة بتوقيع MDP. يجب توفير بيانات مثل سبب التوقيع، جهة الاتصال والموقع من خلال الخصائص المقابلة لكائن التوقيع sig.
+صادق المستند باستخدام توقيع MDP. يجب توفير بيانات مثل سبب التوقيع، جهة الاتصال والموقع عبر الخصائص المقابلة لكائن Signature sig.
 
 ```csharp
 public void Certify(int page, string SigReason, string SigContact, string SigLocation, 
     bool visible, Rectangle annotRect, DocMDPSignature docMdpSignature)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Int32 | الصفحة التي يتم فيها التوقيع. |
+| صفحة | Int32 | الصفحة التي تم فيها إنشاء التوقيع. |
 | SigReason | String | سبب التوقيع. |
 | SigContact | String | جهة الاتصال للتوقيع. |
 | SigLocation | String | موقع التوقيع. |
-| visible | Boolean | رؤية التوقيع. |
+| مرئي | Boolean | ظهور التوقيع. |
 | annotRect | Rectangle | مستطيل التوقيع. |
-| docMdpSignature | DocMDPSignature | نوع توقيع MDP للوثيقة. |
+| docMdpSignature | DocMDPSignature | نوع MDP للوثيقة للتوقيع. |
 
-### See Also
+### انظر أيضًا
 
 * class [DocMDPSignature](../../../aspose.pdf.forms/docmdpsignature/)
 * class [PdfFileSignature](../)
@@ -36,20 +36,22 @@ public void Certify(int page, string SigReason, string SigContact, string SigLoc
 
 ## Certify(string, DocMDPSignature) {#certify_1}
 
-تصديق الوثيقة بتوقيع MDP الذي يتم وضعه في حقل التوقيع الموجود مسبقًا. قبل التوقيع، يجب أن يكون حقل التوقيع فارغًا، أي يجب ألا يحتوي الحقل على قاموس التوقيع. وبالتالي، إذا كانت وثيقة pdf تحتوي بالفعل على حقل توقيع، فلا يجب عليك توفير المكان لوضع التوقيع، حيث يتم أخذ الصفحة والمستطيل المقابلين من حقل التوقيع الذي يتم العثور عليه بواسطة اسم التوقيع (انظر معلمة sigName).
+صادق المستند باستخدام توقيع MDP الموجود في حقل التوقيع الموجود مسبقًا. قبل التوقيع يجب أن يكون حقل التوقيع فارغًا، أي لا يجب أن يحتوي الحقل على قاموس توقيع. وبالتالي فإن مستند pdf يحتوي بالفعل على حقل توقيع، لا يلزم توفير مكان لتخطيط التوقيع؛ يتم أخذ الصفحة والمستطيل المقابلين من حقل التوقيع الذي يُعثر عليه باسم التوقيع (انظر معلمة sigName).
 
 ```csharp
 public void Certify(string sigName, DocMDPSignature docMdpSignature)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | sigName | String | اسم حقل التوقيع. |
-| docMdpSignature | DocMDPSignature | نوع التوقيع، يمكن أن يكون [`PKCS1`](../../../aspose.pdf.forms/pkcs1/)، [`PKCS7`](../../../aspose.pdf.forms/pkcs7/) و [`PKCS7Detached`](../../../aspose.pdf.forms/pkcs7detached/) |
+| docMdpSignature | DocMDPSignature | نوع التوقيع، يمكن أن يكون [`PKCS1`](../../../aspose.pdf.forms/pkcs1/), [`PKCS7`](../../../aspose.pdf.forms/pkcs7/) و [`PKCS7Detached`](../../../aspose.pdf.forms/pkcs7detached/) |
 
-### See Also
+### انظر أيضًا
 
 * class [DocMDPSignature](../../../aspose.pdf.forms/docmdpsignature/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

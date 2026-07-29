@@ -1,14 +1,14 @@
 ---
-title: Artifact.Form
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Artifact. تحصل على XForm للعنصر إذا تم استخدام XForm
+title: "Artifact.Form"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Artifact. تحصل على XForm للقطعة إذا تم استخدام XForm."
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/artifact/form/
 ---
-## خاصية Artifact.Form
+## Artifact.Form property
 
-تحصل على XForm للعنصر (إذا تم استخدام XForm).
+يحصل على XForm للقطعة (إذا تم استخدام XForm).
 
 ```csharp
 public XForm Form { get; }
@@ -20,3 +20,5 @@ public XForm Form { get; }
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

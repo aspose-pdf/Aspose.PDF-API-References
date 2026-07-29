@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.ScaleFactor
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfViewer. تحصل أو تعين قيمة عائمة تشير إلى عامل المقياس. القيمة الافتراضية هي 1.0
+title: "PdfViewer.ScaleFactor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfViewer. تحصل أو تعين قيمة عددية عائمة تشير إلى عامل المقياس. القيمة الافتراضية هي 1.0"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf.facades/pdfviewer/scalefactor/
 ---
-## خاصية PdfViewer.ScaleFactor
+## PdfViewer.ScaleFactor property
 
-تحصل أو تعين قيمة عائمة تشير إلى عامل المقياس. القيمة الافتراضية هي 1.0.
+يحصل أو يعيّن قيمة عددية عائمة تشير إلى عامل المقياس. القيمة الافتراضية هي 1.0.
 
 ```csharp
 public float ScaleFactor { get; set; }
@@ -19,3 +19,5 @@ public float ScaleFactor { get; set; }
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: PDF3DCrossSection.CuttingPlaneColor
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PDF3DCrossSection. تحصل أو تعين لون مستوى القطع
+title: "PDF3DCrossSection.CuttingPlaneColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PDF3DCrossSection. يحصل على أو يعيّن لون سطح القطع"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/pdf3dcrosssection/cuttingplanecolor/
 ---
-## خاصية PDF3DCrossSection.CuttingPlaneColor
+## PDF3DCrossSection.CuttingPlaneColor property
 
-تحصل أو تعين لون مستوى القطع.
+يحصل أو يعيّن لون سطح القطع.
 
 ```csharp
 public Color CuttingPlaneColor { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-لون مستوى القطع.
+لون سطح القطع.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public Color CuttingPlaneColor { get; set; }
 * class [PDF3DCrossSection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

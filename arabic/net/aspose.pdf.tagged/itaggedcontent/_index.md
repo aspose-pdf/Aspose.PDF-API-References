@@ -1,14 +1,14 @@
 ---
-title: Interface ITaggedContent
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.Tagged.ITaggedContent. تمثل واجهة للعمل مع محتوى TaggedPdf من الوثيقة
+title: "الواجهة ITaggedContent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "واجهة Aspose.Pdf.Tagged.ITaggedContent. تمثل واجهة للعمل مع محتوى TaggedPdf للوثيقة."
 type: docs
-weight: 10310
+weight: 10490
 url: /ar/net/aspose.pdf.tagged/itaggedcontent/
 ---
-## واجهة ITaggedContent
+## ITaggedContent interface
 
-تمثل واجهة للعمل مع محتوى TaggedPdf من الوثيقة.
+يمثل واجهة للعمل مع محتوى TaggedPdf في المستند.
 
 ```csharp
 public interface ITaggedContent
@@ -18,9 +18,9 @@ public interface ITaggedContent
 
 | الاسم | الوصف |
 | --- | --- |
-| [RootElement](../../aspose.pdf.tagged/itaggedcontent/rootelement/) { get; } | يحصل على الجذر [`StructureElement`](../../aspose.pdf.logicalstructure/structureelement/) للبنية المنطقية لوثيقة PDF. |
-| [StructTreeRootElement](../../aspose.pdf.tagged/itaggedcontent/structtreerootelement/) { get; } | يحصل على [`StructTreeRootElement`](../../aspose.pdf.logicalstructure/structtreerootelement/) لوثيقة PDF. |
-| [StructureTextState](../../aspose.pdf.tagged/itaggedcontent/structuretextstate/) { get; } | يحصل على إعدادات [`StructureTextState`](../../aspose.pdf.logicalstructure/structuretextstate/) للوثيقة بأكملها. |
+| [RootElement](../../aspose.pdf.tagged/itaggedcontent/rootelement/) { get; } | يحصل على الجذر [`StructureElement`](../../aspose.pdf.logicalstructure/structureelement/) للهيكل المنطقي لمستند PDF. |
+| [StructTreeRootElement](../../aspose.pdf.tagged/itaggedcontent/structtreerootelement/) { get; } | يحصل على [`StructTreeRootElement`](../../aspose.pdf.logicalstructure/structtreerootelement/) لمستند PDF. |
+| [StructureTextState](../../aspose.pdf.tagged/itaggedcontent/structuretextstate/) { get; } | احصل على إعدادات [`StructureTextState`](../../aspose.pdf.logicalstructure/structuretextstate/) للوثيقة بأكملها. |
 
 ## الطرق
 
@@ -37,10 +37,13 @@ public interface ITaggedContent
 | [CreateFormElement](../../aspose.pdf.tagged/itaggedcontent/createformelement/)() | ينشئ [`FormElement`](../../aspose.pdf.logicalstructure/formelement/). |
 | [CreateFormulaElement](../../aspose.pdf.tagged/itaggedcontent/createformulaelement/)() | ينشئ [`FormulaElement`](../../aspose.pdf.logicalstructure/formulaelement/). |
 | [CreateHeaderElement](../../aspose.pdf.tagged/itaggedcontent/createheaderelement/#createheaderelement)() | ينشئ [`HeaderElement`](../../aspose.pdf.logicalstructure/headerelement/). |
-| [CreateHeaderElement](../../aspose.pdf.tagged/itaggedcontent/createheaderelement/#createheaderelement_1)(int) | ينشئ [`HeaderElement`](../../aspose.pdf.logicalstructure/headerelement/) بمستوى. |
+| [CreateHeaderElement](../../aspose.pdf.tagged/itaggedcontent/createheaderelement/#createheaderelement_1)(int) | ينشئ [`HeaderElement`](../../aspose.pdf.logicalstructure/headerelement/) مع المستوى. |
 | [CreateIndexElement](../../aspose.pdf.tagged/itaggedcontent/createindexelement/)() | ينشئ [`IndexElement`](../../aspose.pdf.logicalstructure/indexelement/). |
 | [CreateLinkElement](../../aspose.pdf.tagged/itaggedcontent/createlinkelement/)() | ينشئ [`LinkElement`](../../aspose.pdf.logicalstructure/linkelement/). |
 | [CreateListElement](../../aspose.pdf.tagged/itaggedcontent/createlistelement/)() | ينشئ [`ListElement`](../../aspose.pdf.logicalstructure/listelement/). |
+| [CreateListLblElement](../../aspose.pdf.tagged/itaggedcontent/createlistlblelement/)() | ينشئ [`ListLblElement`](../../aspose.pdf.logicalstructure/listlblelement/). |
+| [CreateListLBodyElement](../../aspose.pdf.tagged/itaggedcontent/createlistlbodyelement/)() | ينشئ [`ListLBodyElement`](../../aspose.pdf.logicalstructure/listlbodyelement/). |
+| [CreateListLIElement](../../aspose.pdf.tagged/itaggedcontent/createlistlielement/)() | ينشئ [`ListLIElement`](../../aspose.pdf.logicalstructure/listlielement/). |
 | [CreateNonStructElement](../../aspose.pdf.tagged/itaggedcontent/createnonstructelement/)() | ينشئ [`NonStructElement`](../../aspose.pdf.logicalstructure/nonstructelement/). |
 | [CreateNoteElement](../../aspose.pdf.tagged/itaggedcontent/createnoteelement/)() | ينشئ [`NoteElement`](../../aspose.pdf.logicalstructure/noteelement/). |
 | [CreateParagraphElement](../../aspose.pdf.tagged/itaggedcontent/createparagraphelement/)() | ينشئ [`ParagraphElement`](../../aspose.pdf.logicalstructure/paragraphelement/). |
@@ -61,10 +64,14 @@ public interface ITaggedContent
 | [CreateTOCElement](../../aspose.pdf.tagged/itaggedcontent/createtocelement/)() | ينشئ [`TOCElement`](../../aspose.pdf.logicalstructure/tocelement/). |
 | [CreateTOCIElement](../../aspose.pdf.tagged/itaggedcontent/createtocielement/)() | ينشئ [`TOCIElement`](../../aspose.pdf.logicalstructure/tocielement/). |
 | [CreateWarichuElement](../../aspose.pdf.tagged/itaggedcontent/createwarichuelement/)() | ينشئ [`WarichuElement`](../../aspose.pdf.logicalstructure/warichuelement/). |
-| [SetLanguage](../../aspose.pdf.tagged/itaggedcontent/setlanguage/)(string) | يحدد اللغة الطبيعية لوثيقة PDF. |
-| [SetTitle](../../aspose.pdf.tagged/itaggedcontent/settitle/)(string) | يحدد العنوان لوثيقة PDF. |
+| [PreSave](../../aspose.pdf.tagged/itaggedcontent/presave/)() | يُعد المحتوى الموسوم للـ Document للحفظ. تقوم هذه الطريقة بتنفيذ العمليات اللازمة قبل الحفظ، مع ضمان تكوين شجرة البنية والعناصر الأخرى للمحتوى الموسوم بشكل صحيح قبل حفظ الـ Document. |
+| [Save](../../aspose.pdf.tagged/itaggedcontent/save/)() | يحفظ الحالة الحالية للمحتوى الموسوم إلى مستند PDF المرتبط. |
+| [SetLanguage](../../aspose.pdf.tagged/itaggedcontent/setlanguage/)(string) | يضبط اللغة الطبيعية لمستند PDF. |
+| [SetTitle](../../aspose.pdf.tagged/itaggedcontent/settitle/)(string) | يضبط العنوان لمستند PDF. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Tagged](../../aspose.pdf.tagged/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Tagged](../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,26 +1,26 @@
 ---
-title: Form.GetFieldLimit
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. الحصول على حد حقل النص
+title: "Form.GetFieldLimit"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. احصل على حد حقل النص"
 type: docs
 weight: 230
 url: /ar/net/aspose.pdf.facades/form/getfieldlimit/
 ---
-## طريقة Form.GetFieldLimit
+## Form.GetFieldLimit method
 
-الحصول على حد حقل النص.
+احصل على قيود حقل النص.
 
 ```csharp
 public int GetFieldLimit(string fieldName)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fieldName | سلسلة | اسم الحقل المؤهل. |
+| fieldName | String | اسم الحقل المؤهل. |
 
 ### قيمة الإرجاع
 
-إرجاع عدد الأحرف التي يمكن ملؤها في حقل النص. إذا لم يتم تعيينه، إرجع 0.
+تُرجع عدد الأحرف الحد الأقصى الذي يمكن ملء حقل النص به. إذا لم يُحدد، تُرجع 0.
 
 ## أمثلة
 
@@ -31,6 +31,8 @@ Console.WriteLine(form.GetFieldLimit("textfieldBox"));
 
 ### انظر أيضًا
 
-* الفئة [Form](../)
-* مساحة الاسم [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* التجميع [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

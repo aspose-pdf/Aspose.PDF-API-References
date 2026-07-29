@@ -1,20 +1,20 @@
 ---
-title: Interface IChatCopilotOptionsTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.AI.IChatCopilotOptions1TOptions. تمثل واجهة لخيارات مساعد الدردشة بنوع محدد
+title: "الواجهة IChatCopilotOptionsTOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الواجهة Aspose.Pdf.AI.IChatCopilotOptions1TOptions. تمثل واجهة لخيارات مساعد الدردشة بنوع محدد"
 type: docs
-weight: 480
+weight: 500
 url: /ar/net/aspose.pdf.ai/ichatcopilotoptions-1/
 ---
-## واجهة IChatCopilotOptions&lt;TOptions&gt;
+## IChatCopilotOptions&lt;TOptions&gt; interface
 
-تمثل واجهة لخيارات مساعد الدردشة بنوع محدد.
+يمثل واجهة لخيارات مساعد الدردشة بنوع محدد.
 
 ```csharp
 public interface IChatCopilotOptions<out TOptions>
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
 | TOptions | نوع الخيارات لمساعد الدردشة. |
 
@@ -22,9 +22,11 @@ public interface IChatCopilotOptions<out TOptions>
 
 | الاسم | الوصف |
 | --- | --- |
-| [GetOptions](../../aspose.pdf.ai/ichatcopilotoptions-1/getoptions/)() | يحصل على الخيارات من نوع *TOptions*. |
+| [GetOptions](../../aspose.pdf.ai/ichatcopilotoptions-1/getoptions/)() | يحصل على الخيارات من النوع *TOptions*. |
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,55 +1,57 @@
 ---
-title: Class SetColorStroke
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.SetColorStroke. فئة تمثل مشغل SC لتعيين اللون لمشغلات لون التظليل
+title: "الفئة SetColorStroke"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Operators.SetColorStroke فئة. الفئة التي تمثل عامل SC لتعيين اللون لمعاملات اللون للخط"
 type: docs
-weight: 7680
+weight: 7820
 url: /ar/net/aspose.pdf.operators/setcolorstroke/
 ---
 ## SetColorStroke class
 
-فئة تمثل مشغل SC لتعيين اللون لمشغلات لون التظليل.
+الفئة التي تمثل المشغل SC (تعيين اللون لمشغلات اللون المتسلسلة).
 
 ```csharp
 public class SetColorStroke : BasicSetColorOperator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [SetColorStroke](setcolorstroke/#constructor)() | يقوم بتهيئة المشغل. |
-| [SetColorStroke](setcolorstroke/#constructor_1)(double) | تعيين اللون لمشغلات التظليل لألوان DeviceGray و CalGray و Indexed. |
-| [SetColorStroke](setcolorstroke/#constructor_4)(double[]) | مُنشئ يسمح بتعيين مكونات اللون. |
-| [SetColorStroke](setcolorstroke/#constructor_2)(double, double, double) | تعيين اللون لمشغل التظليل لألوان DeviceRGB و CalRGB و Lab. |
-| [SetColorStroke](setcolorstroke/#constructor_3)(double, double, double, double) | تعيين اللون لمشغل التظليل لمساحة اللون CMYK. |
+| [SetColorStroke](setcolorstroke/#constructor)() | يُهيئ العامل. |
+| [SetColorStroke](setcolorstroke/#constructor_1)(double) | تعيين اللون لمعاملات الخط لألوان DeviceGray و CalGray والمساحات اللونية المفهرسة. |
+| [SetColorStroke](setcolorstroke/#constructor_4)(double[]) | المنشئ الذي يسمح بتعيين مكونات اللون. |
+| [SetColorStroke](setcolorstroke/#constructor_2)(double, double, double) | تعيين اللون لمعامل الخط لألوان DeviceRGB و CalRGB و مساحات اللون Lab |
+| [SetColorStroke](setcolorstroke/#constructor_3)(double, double, double, double) | تعيين اللون لمعامل الخط لمساحة اللون CMYK |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [B](../../aspose.pdf.operators/setcolorstroke/b/) { get; set; } | يحصل على أو يحدد المكون الأزرق. |
-| [C](../../aspose.pdf.operators/setcolorstroke/c/) { get; set; } | يحصل على أو يحدد المكون السماوي. |
-| virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color/) { get; } | يحصل على مصفوفة مكونات اللون. |
-| [G](../../aspose.pdf.operators/setcolorstroke/g/) { get; set; } | يحصل على أو يحدد المكون الأخضر. |
-| [Gray](../../aspose.pdf.operators/basicsetcoloroperator/gray/) { get; } | يحصل على المكون الأسود من اللون الرمادي. |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
-| [K](../../aspose.pdf.operators/setcolorstroke/k/) { get; set; } | يحصل على أو يحدد المكون الأسود. |
-| [M](../../aspose.pdf.operators/setcolorstroke/m/) { get; set; } | يحصل على أو يحدد المكون الأرجواني. |
-| [R](../../aspose.pdf.operators/setcolorstroke/r/) { get; set; } | يحصل على أو يحدد المكون الأحمر. |
-| [Y](../../aspose.pdf.operators/setcolorstroke/y/) { get; set; } | يحصل على أو يحدد المكون الأصفر. |
+| [B](../../aspose.pdf.operators/setcolorstroke/b/) { get; set; } | يحصل أو يضبط المكوّن الأزرق. |
+| [C](../../aspose.pdf.operators/setcolorstroke/c/) { get; set; } | يحصل أو يضبط المكوّن السماوي. |
+| virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color/) { get; } | يحصل على مصفوفة مكوّنات اللون. |
+| [G](../../aspose.pdf.operators/setcolorstroke/g/) { get; set; } | يحصل أو يضبط المكوّن الأخضر. |
+| [Gray](../../aspose.pdf.operators/basicsetcoloroperator/gray/) { get; } | يحصل على المكوّن الأسود للون الرمادي. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
+| [K](../../aspose.pdf.operators/setcolorstroke/k/) { get; set; } | يحصل أو يضبط المكوّن الأسود. |
+| [M](../../aspose.pdf.operators/setcolorstroke/m/) { get; set; } | يحصل أو يضبط المكوّن الأرجواني. |
+| [R](../../aspose.pdf.operators/setcolorstroke/r/) { get; set; } | يحصل أو يضبط المكوّن الأحمر. |
+| [Y](../../aspose.pdf.operators/setcolorstroke/y/) { get; set; } | يحصل أو يضبط المكوّن الأصفر. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcolorstroke/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [getColor](../../aspose.pdf.operators/setcolorstroke/getcolor/)() | يعيد اللون المحدد بواسطة المشغل. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | يعيد نص المشغل ومعاييره. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/setcolorstroke/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [getColor](../../aspose.pdf.operators/setcolorstroke/getcolor/)() | يرجع اللون المحدد بواسطة المعامل. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | يرجع نص العامل ومعامِله. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [BasicSetColorOperator](../basicsetcoloroperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

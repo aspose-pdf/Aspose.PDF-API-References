@@ -1,14 +1,14 @@
 ---
-title: Ellipse.Width
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Ellipse. تحصل أو تعين قيمة عائمة تشير إلى عرض البيضاوي
+title: "Ellipse.Width"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Ellipse. يحصل أو يضبط قيمة عائمة تشير إلى عرض الإهليلج"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.drawing/ellipse/width/
 ---
-## خاصية Ellipse.Width
+## Ellipse.Width property
 
-تحصل أو تعين قيمة عائمة تشير إلى عرض البيضاوي.
+يحصل أو يعيّن قيمة عائمة تشير إلى عرض الإهليلج.
 
 ```csharp
 public double Width { get; set; }
@@ -19,3 +19,5 @@ public double Width { get; set; }
 * class [Ellipse](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

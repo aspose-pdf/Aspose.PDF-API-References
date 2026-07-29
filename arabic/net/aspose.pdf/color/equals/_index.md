@@ -1,20 +1,20 @@
 ---
-title: Color.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Color. تعيد true إذا كانت لونان متساويان
+title: "Color.Equals"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Color. تُعيد true إذا كان اللونان متساويين"
 type: docs
 weight: 1530
 url: /ar/net/aspose.pdf/color/equals/
 ---
-## طريقة Color.Equals
+## Color.Equals method
 
-تعيد true إذا كانت لونان متساويان.
+يرجع true إذا كان اللونان متساويين.
 
 ```csharp
 public override bool Equals(object obj)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | obj | كائن | الكائن للمقارنة. |
 
@@ -27,3 +27,5 @@ True في حالة تساوي كائنات Color.
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

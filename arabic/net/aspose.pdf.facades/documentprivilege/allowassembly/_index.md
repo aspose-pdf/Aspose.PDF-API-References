@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.AllowAssembly
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocumentPrivilege. تحدد الإذن الذي يسمح بالتجميع أو لا. true يسمح و false ممنوع
+title: "DocumentPrivilege.AllowAssembly"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocumentPrivilege. تحدد الإذن الذي يسمح بالتجميع أو لا. true يعني مسموح و false يعني ممنوع"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.facades/documentprivilege/allowassembly/
 ---
-## خاصية DocumentPrivilege.AllowAssembly
+## DocumentPrivilege.AllowAssembly property
 
-تحدد الإذن الذي يسمح بالتجميع أو لا. true يسمح و false ممنوع.
+يضبط الإذن الذي يسمح بالتجميع أو لا. true يعني مسموح و false يعني ممنوع.
 
 ```csharp
 public bool AllowAssembly { get; set; }
@@ -19,3 +19,5 @@ public bool AllowAssembly { get; set; }
 * class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

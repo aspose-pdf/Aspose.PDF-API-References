@@ -1,14 +1,14 @@
 ---
-title: RunResponse.Usage
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunResponse. تحصل أو تعين إحصائيات الاستخدام المتعلقة بالتشغيل. ستكون هذه القيمة فارغة إذا لم يكن التشغيل في حالة نهائية أي قيد التقدم، في قائمة الانتظار، إلخ.
+title: "RunResponse.Usage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RunResponse. تحصل أو تعين إحصاءات الاستخدام المتعلقة بالتنفيذ. ستكون هذه القيمة null إذا لم يكن التنفيذ في حالة نهائية أي in_progress أو queued إلخ"
 type: docs
 weight: 270
 url: /ar/net/aspose.pdf.ai/runresponse/usage/
 ---
-## خاصية RunResponse.Usage
+## RunResponse.Usage property
 
-تحصل أو تعين إحصائيات الاستخدام المتعلقة بالتشغيل. ستكون هذه القيمة فارغة إذا لم يكن التشغيل في حالة نهائية (أي قيد التقدم، في قائمة الانتظار، إلخ).
+الحصول أو تعيين إحصاءات الاستخدام المتعلقة بالتنفيذ. ستكون هذه القيمة فارغة إذا لم يكن التنفيذ في حالة نهائية (مثل in_progress، queued، إلخ).
 
 ```csharp
 public Usage Usage { get; set; }
@@ -20,3 +20,5 @@ public Usage Usage { get; set; }
 * class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

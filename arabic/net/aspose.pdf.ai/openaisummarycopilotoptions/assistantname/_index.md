@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.AssistantName
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OpenAISummaryCopilotOptions. تحصل أو تعين اسم المساعد
+title: "OpenAISummaryCopilotOptions.AssistantName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OpenAISummaryCopilotOptions. الحصول أو تعيين اسم المساعد"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/openaisummarycopilotoptions/assistantname/
 ---
-## خاصية OpenAISummaryCopilotOptions.AssistantName
+## OpenAISummaryCopilotOptions.AssistantName property
 
-تحصل أو تعين اسم المساعد.
+يحصل أو يعيّن اسم المساعد.
 
 ```csharp
 public string AssistantName { get; set; }
@@ -19,3 +19,5 @@ public string AssistantName { get; set; }
 * class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

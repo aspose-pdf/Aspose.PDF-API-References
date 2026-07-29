@@ -1,14 +1,14 @@
 ---
-title: DocumentInfo.CreationDate
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocumentInfo. تحصل أو تعين تاريخ إنشاء المستند
+title: "DocumentInfo.CreationDate"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "DocumentInfo خاصية. يحصل أو يضبط تاريخ إنشاء المستند"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/documentinfo/creationdate/
 ---
-## خاصية DocumentInfo.CreationDate
+## DocumentInfo.CreationDate property
 
-تحصل أو تعين تاريخ إنشاء المستند.
+الحصول أو الضبط لتاريخ إنشاء المستند.
 
 ```csharp
 public DateTime CreationDate { get; set; }
@@ -19,3 +19,5 @@ public DateTime CreationDate { get; set; }
 * class [DocumentInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

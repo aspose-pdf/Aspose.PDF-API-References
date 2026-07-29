@@ -1,14 +1,14 @@
 ---
-title: TextFragment.FootNote
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragment. تحصل أو تعين ملاحظة الفقرة. 
+title: "TextFragment.FootNote"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "TextFragment خاصية. يحصل أو يضبط حاشية الفقرة. للتوليد PDF فقط"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.text/textfragment/footnote/
 ---
-## خاصية TextFragment.FootNote
+## TextFragment.FootNote property
 
-تحصل أو تعين ملاحظة الفقرة. (لإنشاء PDF فقط)
+يحصل أو يعيّن حاشية الفقرة. (لإنشاء pdf فقط)
 
 ```csharp
 public Note FootNote { get; set; }
@@ -20,3 +20,5 @@ public Note FootNote { get; set; }
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

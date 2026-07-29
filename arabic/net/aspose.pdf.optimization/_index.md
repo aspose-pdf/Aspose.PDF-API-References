@@ -1,22 +1,24 @@
 ---
-title: Aspose.Pdf.Optimization
-second_title: Aspose.PDF for .NET API Reference
-description: مساحة الأسماء Aspose.Pdf.Optimization تحتوي على فئات لإدارة عملية تحسين الوثائق
+title: "Aspose.Pdf.Optimization"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الـ Aspose.Pdf.Optimization هو مساحة أسماء للفئات لإدارة عملية تحسين المستند"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf.optimization/
 ---
-إن **Aspose.Pdf.Optimization** هي مساحة أسماء للفئات لإدارة عملية تحسين الوثائق.
+مساحة الاسم **Aspose.Pdf.Optimization** هي مساحة اسم للفئات التي تدير عملية تحسين المستند.
 
 ## الفئات
 
-| الفئة | الوصف |
+| فئة | الوصف |
 | --- | --- |
-| [ImageCompressionOptions](./imagecompressionoptions/) | تحتوي الفئة على مجموعة من الخيارات لضغط الصور. |
-| [OptimizationOptions](./optimizationoptions/) | فئة تصف خوارزمية تحسين الوثائق. يمكن استخدام مثيل من هذه الفئة كمعامل لطريقة OptimizeResources(). |
-## التعداد
+| [ImageCompressionOptions](./imagecompressionoptions/) | الفئة تحتوي على مجموعة خيارات لضغط الصورة. |
+| [OptimizationOptions](./optimizationoptions/) | الفئة التي تصف خوارزمية تحسين المستند. يمكن استخدام نسخة من هذه الفئة كمعامل لطريقة OptimizeResources(). |
+## تعداد
 
-| التعداد | الوصف |
+| تعداد | الوصف |
 | --- | --- |
-| [ImageCompressionVersion](./imagecompressionversion/) | تصف إصدارات خوارزمية ضغط الصور. |
-| [ImageEncoding](./imageencoding/) | أنواع ترميز الصور. |
+| [ImageCompressionVersion](./imagecompressionversion/) | يصف إصدارات خوارزمية ضغط الصورة. |
+| [ImageEncoding](./imageencoding/) | أنواع ترميز الصورة. |
+
+

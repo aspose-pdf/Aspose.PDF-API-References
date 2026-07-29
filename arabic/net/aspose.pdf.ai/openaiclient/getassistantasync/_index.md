@@ -1,23 +1,23 @@
 ---
-title: OpenAIClient.GetAssistantAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIClient. تسترجع تفاصيل مساعد معين بشكل غير متزامن
+title: "OpenAIClient.GetAssistantAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIClient. تسترجع تفاصيل مساعد محدد بشكل غير متزامن"
 type: docs
 weight: 190
 url: /ar/net/aspose.pdf.ai/openaiclient/getassistantasync/
 ---
-## طريقة OpenAIClient.GetAssistantAsync
+## OpenAIClient.GetAssistantAsync method
 
-تسترجع تفاصيل مساعد معين بشكل غير متزامن.
+يسترجع تفاصيل مساعد محدد بشكل غير متزامن.
 
 ```csharp
 public Task<AssistantResponse> GetAssistantAsync(string assistantId, 
     CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| assistantId | String | معرف المساعد الذي سيتم استرجاعه. |
+| assistantId | String | معرّف المساعد المراد استرجاعه. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
 ### قيمة الإرجاع
@@ -26,9 +26,9 @@ public Task<AssistantResponse> GetAssistantAsync(string assistantId,
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف المساعد فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرف المساعد null أو فارغ. |
 
 ### انظر أيضًا
 
@@ -36,3 +36,5 @@ public Task<AssistantResponse> GetAssistantAsync(string assistantId,
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

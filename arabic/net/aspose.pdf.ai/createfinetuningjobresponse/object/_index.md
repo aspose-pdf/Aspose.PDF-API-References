@@ -1,14 +1,14 @@
 ---
-title: CreateFineTuningJobResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CreateFineTuningJobResponse. تحصل أو تعين نوع الكائن الذي يكون دائمًا fine_tuning.job
+title: "CreateFineTuningJobResponse.Object"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "CreateFineTuningJobResponse الخاصية. يحصل أو يحدد نوع الكائن الذي يكون دائمًا fine_tuning.job"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.ai/createfinetuningjobresponse/object/
 ---
-## خاصية CreateFineTuningJobResponse.Object
+## CreateFineTuningJobResponse.Object property
 
-تحصل أو تعين نوع الكائن، الذي يكون دائمًا fine_tuning.job.
+يحصل أو يضبط نوع الكائن، والذي يكون دائمًا fine_tuning.job.
 
 ```csharp
 public string Object { get; set; }
@@ -19,3 +19,5 @@ public string Object { get; set; }
 * class [CreateFineTuningJobResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

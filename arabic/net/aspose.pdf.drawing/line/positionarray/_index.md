@@ -1,14 +1,14 @@
 ---
-title: Line.PositionArray
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Line. تحصل أو تعين كائن PositionArray الذي يشير إلى مصفوفة الموضع. تتكون المصفوفة من إحداثيات كل نقطة تحكم من الخط. مباشرة
+title: "Line.PositionArray"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Line. يحصل أو يضبط كائن PositionArray الذي يشير إلى مصفوفة الموضع. المصفوفة مكوّنة من إحداثيات كل نقطة تحكم في الخط مباشرة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.drawing/line/positionarray/
 ---
-## خاصية Line.PositionArray
+## Line.PositionArray property
 
-تحصل أو تعين كائن `PositionArray` الذي يشير إلى مصفوفة الموضع. تتكون المصفوفة من إحداثيات كل نقطة تحكم من الخط. مباشرة.
+يحصل أو يضبط كائن `PositionArray` الذي يشير إلى مصفوفة الموضع. المصفوفة مكوّنة من إحداثيات كل نقطة تحكم في الخط مباشرة.
 
 ```csharp
 public float[] PositionArray { get; set; }
@@ -19,3 +19,5 @@ public float[] PositionArray { get; set; }
 * class [Line](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

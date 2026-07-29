@@ -1,14 +1,14 @@
 ---
-title: ObjectResult.Text
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ObjectResult. تعيد التمثيل النصي للنتيجة
+title: "ObjectResult.Text"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ObjectResult. تُعيد تمثيل السلسلة للنتيجة"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.plugins/objectresult/text/
 ---
-## خاصية ObjectResult.Text
+## ObjectResult.Text property
 
-تعيد التمثيل النصي للنتيجة.
+يعيد تمثيل السلسلة النصية للنتيجة.
 
 ```csharp
 public string Text { get; }
@@ -19,3 +19,5 @@ public string Text { get; }
 * class [ObjectResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

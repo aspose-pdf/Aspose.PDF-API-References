@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfContentEditor. يربط ملف PDF للتحرير
+title: "PdfContentEditor.BindPdf"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfContentEditor. يربط ملف PDF للتحرير."
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/bindpdf/
@@ -14,9 +14,9 @@ url: /ar/net/aspose.pdf.facades/pdfcontenteditor/bindpdf/
 public override void BindPdf(string inputFile)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputFile | String | ملف PDF ليتم تحريره. |
+| inputFile | String | ملف PDF للتحرير. |
 
 ### انظر أيضًا
 
@@ -34,12 +34,14 @@ public override void BindPdf(string inputFile)
 public override void BindPdf(Stream inputStream)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputStream | Stream | تدفق PDF ليتم تحريره. |
+| inputStream | Stream | دفق PDF للتحرير. |
 
 ### انظر أيضًا
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: ITaggedContent.CreateRubyElement
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ITaggedContent. تنشئ RubyElement
+title: "ITaggedContent.CreateRubyElement"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ITaggedContent. تنشئ RubyElement"
 type: docs
-weight: 250
+weight: 280
 url: /ar/net/aspose.pdf.tagged/itaggedcontent/createrubyelement/
 ---
 ## ITaggedContent.CreateRubyElement method
 
-تنشئ [`RubyElement`](../../../aspose.pdf.logicalstructure/rubyelement/).
+ينشئ [`RubyElement`](../../../aspose.pdf.logicalstructure/rubyelement/).
 
 ```csharp
 public RubyElement CreateRubyElement()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-عنصر هيكل تم إنشاؤه.
+تم إنشاء عنصر بنية.
 
-### See Also
+### انظر أيضًا
 
 * class [RubyElement](../../../aspose.pdf.logicalstructure/rubyelement/)
 * interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

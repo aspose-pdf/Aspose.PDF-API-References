@@ -1,26 +1,28 @@
 ---
-title: PdfAOptionsBase.SoftMaskAction
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfAOptionsBase. تحصل أو تعين الإجراء الذي سيتم اتخاذه أثناء تحويل الصور ذات الأقنعة الناعمة
+title: "PdfAOptionsBase.SoftMaskAction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfAOptionsBase. تحصل أو تعين الإجراء الذي يجب اتخاذه أثناء تحويل الصور ذات الأقنعة الناعمة"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.plugins/pdfaoptionsbase/softmaskaction/
 ---
-## خاصية PdfAOptionsBase.SoftMaskAction
+## PdfAOptionsBase.SoftMaskAction property
 
-تحصل أو تعين الإجراء الذي سيتم اتخاذه أثناء تحويل الصور ذات الأقنعة الناعمة.
+يحصل أو يعيّن الإجراء الذي سيُتخذ أثناء تحويل الصور ذات الأقنعة الناعمة.
 
 ```csharp
 public ConvertSoftMaskAction SoftMaskAction { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-الإجراء لتحويل الصور ذات الأقنعة الناعمة. قيمة هذه الخاصية هي [`ConvertSoftMaskAction`](../../../aspose.pdf/convertsoftmaskaction/) تعداد.
+الإجراء لتحويل الصور ذات الأقنعة الناعمة. قيمة هذه الخاصية هي تعداد [`ConvertSoftMaskAction`](../../../aspose.pdf/convertsoftmaskaction/).
 
 ### انظر أيضًا
 
-* تعداد [ConvertSoftMaskAction](../../../aspose.pdf/convertsoftmaskaction/)
-* فئة [PdfAOptionsBase](../)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../../)
+* enum [ConvertSoftMaskAction](../../../aspose.pdf/convertsoftmaskaction/)
+* class [PdfAOptionsBase](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

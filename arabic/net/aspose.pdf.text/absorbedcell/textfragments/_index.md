@@ -1,14 +1,14 @@
 ---
-title: AbsorbedCell.TextFragments
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AbsorbedCell. تحصل على مجموعة من كائنات TextFragment التي تصف النص الموجود في الخلية
+title: "AbsorbedCell.TextFragments"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AbsorbedCell. تحصل على مجموعة من كائنات TextFragment التي تصف النص الموجود في الخلية"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.text/absorbedcell/textfragments/
 ---
-## خاصية AbsorbedCell.TextFragments
+## AbsorbedCell.TextFragments property
 
-تحصل على مجموعة من [`TextFragment`](../../textfragment/) كائنات التي تصف النص الموجود في الخلية
+تحصل على مجموعة من كائنات [`TextFragment`](../../textfragment/) التي تصف النص الموجود في الخلية
 
 ```csharp
 public TextFragmentCollection TextFragments { get; }
@@ -20,3 +20,5 @@ public TextFragmentCollection TextFragments { get; }
 * class [AbsorbedCell](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AttributeName.WritingMode_RlTb
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. خاصية WritingMode RlTb  التقدم السطري من اليمين إلى اليسار والتقدم الكتلي من الأعلى إلى الأسفل. هذه هي وضعية الكتابة النموذجية لأنظمة الكتابة العربية والعبرية.
+title: "AttributeName.WritingMode_RlTb"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. السمة WritingMode RlTb  تقدم سطر داخل من اليمين إلى اليسار تقدم كتلة من الأعلى إلى الأسفل. هذا هو وضع الكتابة النموذجي لأنظمة الكتابة العربية والعبرية"
 type: docs
 weight: 650
 url: /ar/net/aspose.pdf.logicalstructure/attributename/writingmode_rltb/
 ---
-## حقل AttributeName.WritingMode_RlTb
+## AttributeName.WritingMode_RlTb field
 
-خاصية WritingMode: RlTb - التقدم السطري من اليمين إلى اليسار؛ التقدم الكتلي من الأعلى إلى الأسفل. هذه هي وضعية الكتابة النموذجية لأنظمة الكتابة العربية والعبرية.
+السمة WritingMode: RlTb - تقدم داخل السطر من اليمين إلى اليسار؛ تقدم الكتلة من الأعلى إلى الأسفل. هذا هو نمط الكتابة المعتاد للأنظمة الكتابية العربية والعبرية.
 
 ```csharp
 public static readonly AttributeName WritingMode_RlTb;
@@ -19,3 +19,5 @@ public static readonly AttributeName WritingMode_RlTb;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

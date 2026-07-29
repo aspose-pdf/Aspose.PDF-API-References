@@ -1,42 +1,44 @@
 ---
-title: Class Point
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Point. تمثل نقطة بإحداثيات كسرية
+title: "الفئة Point"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Point. تمثّل نقطة بإحداثيات كسرية"
 type: docs
-weight: 9460
+weight: 9610
 url: /ar/net/aspose.pdf/point/
 ---
 ## Point class
 
-تمثل نقطة بإحداثيات كسرية.
+يمثل نقطة ذات إحداثيات كسرية.
 
 ```csharp
 public sealed class Point
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Point](point/)(double, double) | Initializes new instance of the `Point`. |
+| [Point](point/)(double, double) | يُنشئ مثيلًا جديدًا من `Point`. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | static [Trivial](../../aspose.pdf/point/trivial/) { get; } | يحصل على نقطة بإحداثيات صفرية. |
 | [X](../../aspose.pdf/point/x/) { get; set; } | قيمة إحداثي X. |
 | [Y](../../aspose.pdf/point/y/) { get; set; } | قيمة إحداثي Y. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ToPoint](../../aspose.pdf/point/topoint/)() | Converts point into System.Drawing.PointF object. |
-| override [ToString](../../aspose.pdf/point/tostring/)() | Return string represention current point. |
-| static [Distance](../../aspose.pdf/point/distance/)(Point, Point) | Calculates distance between two points. |
+| [ToPoint](../../aspose.pdf/point/topoint/)() | يحوّل النقطة إلى كائن System.Drawing.PointF. |
+| override [ToString](../../aspose.pdf/point/tostring/)() | إرجاع تمثيل النص للنقطة الحالية. |
+| static [Distance](../../aspose.pdf/point/distance/)(Point, Point) | يحسب المسافة بين نقطتين. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

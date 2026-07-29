@@ -1,14 +1,14 @@
 ---
-title: Function.Function
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ الدالة. المُنشئ الافتراضي
+title: "Function.Function"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Function. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/function/function/
 ---
-## مُنشئ الدالة
+## Function constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public Function()
@@ -19,3 +19,5 @@ public Function()
 * class [Function](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

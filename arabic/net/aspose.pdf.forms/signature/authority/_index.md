@@ -1,14 +1,14 @@
 ---
-title: Signature.Authority
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية التوقيع. اسم الشخص أو السلطة التي توقع على الوثيقة
+title: "Signature.Authority"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Signature. اسم الشخص أو الجهة التي توقع المستند"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.forms/signature/authority/
 ---
-## خاصية Signature.Authority
+## Signature.Authority property
 
-اسم الشخص أو السلطة التي توقع على الوثيقة.
+اسم الشخص أو الجهة التي توقع المستند.
 
 ```csharp
 public string Authority { get; set; }
@@ -19,3 +19,5 @@ public string Authority { get; set; }
 * class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

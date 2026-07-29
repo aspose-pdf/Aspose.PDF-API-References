@@ -1,14 +1,14 @@
 ---
-title: RegistrationMarkAnnotation.Position
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RegistrationMarkAnnotation. تحصل أو تعين موضع علامة التسجيل على الصفحة
+title: "RegistrationMarkAnnotation.Position"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RegistrationMarkAnnotation. يحصل أو يضبط موضع علامة التسجيل على الصفحة."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/registrationmarkannotation/position/
 ---
-## خاصية RegistrationMarkAnnotation.Position
+## RegistrationMarkAnnotation.Position property
 
-تحصل أو تعين موضع علامة التسجيل على الصفحة.
+يحصل أو يضبط موضع علامة التسجيل على الصفحة.
 
 ```csharp
 public PrinterMarkSidePosition Position { get; set; }
@@ -20,3 +20,5 @@ public PrinterMarkSidePosition Position { get; set; }
 * class [RegistrationMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

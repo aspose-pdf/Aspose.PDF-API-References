@@ -1,14 +1,14 @@
 ---
-title: ValidationOptions.ValidationOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ValidationOptions. المُنشئ الافتراضي
+title: "ValidationOptions.ValidationOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ValidationOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.security/validationoptions/validationoptions/
 ---
-## مُنشئ ValidationOptions
+## ValidationOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public ValidationOptions()
@@ -19,3 +19,5 @@ public ValidationOptions()
 * class [ValidationOptions](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StampInfo.Text
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StampInfo. تحصل على النص في الختم
+title: "StampInfo.Text"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StampInfo. تحصل على النص داخل الطابع"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.facades/stampinfo/text/
 ---
-## خاصية StampInfo.Text
+## StampInfo.Text property
 
-تحصل على النص في الختم.
+يحصل على النص داخل الطابع.
 
 ```csharp
 public string Text { get; }
@@ -19,3 +19,5 @@ public string Text { get; }
 * class [StampInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

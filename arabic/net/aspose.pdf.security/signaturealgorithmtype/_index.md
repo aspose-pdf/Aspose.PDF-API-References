@@ -1,30 +1,32 @@
 ---
-title: Enum SignatureAlgorithmType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.SignatureAlgorithmType enum. يعدد أنواع خوارزميات التوقيع المستخدمة للتوقيعات الرقمية
+title: "التعداد SignatureAlgorithmType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.Security.SignatureAlgorithmType. يسرد أنواع خوارزميات التوقيع المستخدمة في التوقيعات الرقمية"
 type: docs
-weight: 10010
+weight: 10190
 url: /ar/net/aspose.pdf.security/signaturealgorithmtype/
 ---
 ## SignatureAlgorithmType enumeration
 
-يعدد أنواع خوارزميات التوقيع المستخدمة للتوقيعات الرقمية.
+يسرد أنواع خوارزميات التوقيع المستخدمة في التوقيعات الرقمية.
 
 ```csharp
 public enum SignatureAlgorithmType
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Ecdsa | `0` | خوارزمية التوقيع الرقمي باستخدام منحنى إهليلجي (ECDSA) المستخدمة للتوقيعات الرقمية. |
-| Rsa | `1` | خوارزمية ريفيست-شامير-أدلمان (RSA) المستخدمة للتوقيعات الرقمية. |
-| Dsa | `2` | خوارزمية التوقيع الرقمي (DSA) المستخدمة للتوقيعات الرقمية. |
-| Timestamp | `3` | الطابع الزمني المستخدم كخوارزمية توقيع لضمان التوقيعات الرقمية. |
+| Ecdsa | `0` | خوارزمية التوقيع الرقمي للمنحنى الإهليلجي (ECDSA) المستخدمة في التوقيعات الرقمية. |
+| Rsa | `1` | خوارزمية ريفست-شامير-أدلمان (RSA) المستخدمة في التوقيعات الرقمية. |
+| Dsa | `2` | خوارزمية التوقيع الرقمي (DSA) المستخدمة في التوقيعات الرقمية. |
+| Timestamp | `3` | الطابع الزمني يُستخدم كخوارزمية توقيع لضمان التوقيعات الرقمية. |
 | Unknown | `4` | يشير إلى أن نوع خوارزمية التوقيع غير معروف. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../)
+
+

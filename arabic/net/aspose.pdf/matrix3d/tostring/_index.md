@@ -1,14 +1,14 @@
 ---
-title: Matrix3D.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Matrix3D. تعيد تمثيل نصي للمصفوفة
+title: "Matrix3D.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Matrix3D. تُرجع تمثيلًا نصيًا للمصفوفة."
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf/matrix3d/tostring/
 ---
-## طريقة Matrix3D.ToString
+## Matrix3D.ToString method
 
-تعيد تمثيل نصي للمصفوفة.
+يعيد تمثيل النص للمصفوفة.
 
 ```csharp
 public override string ToString()
@@ -23,3 +23,5 @@ public override string ToString()
 * class [Matrix3D](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

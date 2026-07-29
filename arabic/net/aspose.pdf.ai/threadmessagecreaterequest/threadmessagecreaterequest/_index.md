@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageCreateRequest.ThreadMessageCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ThreadMessageCreateRequest. المُنشئ الافتراضي
+title: "ThreadMessageCreateRequest.ThreadMessageCreateRequest"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ThreadMessageCreateRequest. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/threadmessagecreaterequest/threadmessagecreaterequest/
 ---
-## مُنشئ ThreadMessageCreateRequest
+## ThreadMessageCreateRequest constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public ThreadMessageCreateRequest()
@@ -19,3 +19,5 @@ public ThreadMessageCreateRequest()
 * class [ThreadMessageCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

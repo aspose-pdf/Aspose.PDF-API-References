@@ -1,27 +1,29 @@
 ---
-title: FormExporterValuesToCsvOptions.FormExporterValuesToCsvOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FormExporterValuesToCsvOptions. يقوم بتهيئة مثيل جديد من كائن FormExporterValuesToCsvOptions الذي يتم فيه تحديد الحقول التي سيتم تصدير بياناتها والفاصل لبيانات التصدير
+title: "FormExporterValuesToCsvOptions.FormExporterValuesToCsvOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FormExporterValuesToCsvOptions. يهيئ نسخة جديدة من كائن FormExporterValuesToCsvOptions حيث يتم تحديد الحقول التي سيتم تصدير بياناتها والفاصل للبيانات المصدرة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/formexportervaluestocsvoptions/formexportervaluestocsvoptions/
 ---
-## مُنشئ FormExporterValuesToCsvOptions
+## FormExporterValuesToCsvOptions constructor
 
-يقوم بتهيئة مثيل جديد من كائن [`FormExporterValuesToCsvOptions`](../) الذي يتم فيه تحديد الحقول التي سيتم تصدير بياناتها والفاصل لبيانات التصدير.
+يهيئ نسخة جديدة من الكائن [`FormExporterValuesToCsvOptions`](../)، حيث يتم تحديد الحقول التي سيتم تصدير بياناتها والفاصل للبيانات المصدرة.
 
 ```csharp
 public FormExporterValuesToCsvOptions(SelectField selectField, char delimeter = ',')
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| selectField | SelectField | مُفوض يحدد خصائص الحقل (أو الحقول) التي سيتم تعيين القيم لها. |
-| delimeter | Char | يحدد الفاصل الذي سيتم استخدامه في بيانات التصدير بين القيم. القيمة الافتراضية هي ',' |
+| selectField | SelectField | المندوب الذي يحدد خصائص الحقل(ات) التي سيتم تعيين القيم لها. |
+| الفاصل | حرف | يحدد الفاصل المستخدم في البيانات المصدرة بين القيم. القيمة الافتراضية هي ',' |
 
 ### انظر أيضًا
 
-* مُفوض [SelectField](../../selectfield/)
-* فئة [FormExporterValuesToCsvOptions](../)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../../)
+* delegate [SelectField](../../selectfield/)
+* class [FormExporterValuesToCsvOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

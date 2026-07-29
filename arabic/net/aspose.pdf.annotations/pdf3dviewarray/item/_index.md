@@ -1,22 +1,22 @@
 ---
-title: PDF3DViewArray.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PDF3DViewArray. تحصل أو تعين PDF3DView لعرض المصفوفة عند الفهرس المحدد
+title: "PDF3DViewArray.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PDF3DViewArray. يحصل أو يضبط PDF3DView في مصفوفة العروض عند الفهرس المحدد"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/pdf3dviewarray/item/
 ---
-## فهرس PDF3DViewArray
+## PDF3DViewArray indexer
 
-تحصل أو تعين [`PDF3DView`](../../pdf3dview/) لعرض المصفوفة عند الفهرس المحدد.
+يحصل أو يضبط الـ[`PDF3DView`](../../pdf3dview/) لمصفوفة العرض في الفهرس المحدد.
 
 ```csharp
 public PDF3DView this[int index] { get; set; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| الفهرس | الفهرس. |
+| index | الفهرس. |
 
 ### قيمة الإرجاع
 
@@ -24,7 +24,7 @@ PDF3DView.
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
 | IndexOutOfRangeException | فهرس غير صالح: يجب أن يكون الفهرس في النطاق [1..n] حيث n يساوي عدد العروض. |
 
@@ -34,3 +34,5 @@ PDF3DView.
 * class [PDF3DViewArray](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

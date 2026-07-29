@@ -1,28 +1,30 @@
 ---
-title: Enum LineIntent
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.LineIntent enum. يعدد نوايا تعليق الخط
+title: "التعداد LineIntent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.Annotations.LineIntent. يعدد نوايا توضيح الخط."
 type: docs
-weight: 2000
+weight: 2090
 url: /ar/net/aspose.pdf.annotations/lineintent/
 ---
 ## LineIntent enumeration
 
-يعدد نوايا تعليق الخط.
+يعدّ أغراض تعليقات الخط.
 
 ```csharp
 public enum LineIntent
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Undefined | `0` | حالة غير محددة. |
-| LineArrow | `1` | يعني أن التعليق يهدف إلى العمل كسهام. |
-| LineDimension | `2` | يعني أن التعليق يهدف إلى العمل كخط أبعاد. |
+| Undefined | `0` | حالة غير معرفة. |
+| LineArrow | `1` | يعني أن التوضيح مقصود أن يعمل كسهم. |
+| LineDimension | `2` | يعني أن التوضيح مقصود أن يعمل كخط قياس. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

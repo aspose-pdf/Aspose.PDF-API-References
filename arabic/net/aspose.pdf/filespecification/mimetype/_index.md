@@ -1,14 +1,14 @@
 ---
-title: FileSpecification.MIMEType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FileSpecification. تحصل على نوع الفرعي للملف المضمن
+title: "FileSpecification.MIMEType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FileSpecification. يحصل على النوع الفرعي للملف المضمّن"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf/filespecification/mimetype/
 ---
-## خاصية FileSpecification.MIMEType
+## FileSpecification.MIMEType property
 
-تحصل على نوع الفرعي للملف المضمن
+يحصل على النوع الفرعي للملف المضمّن
 
 ```csharp
 public string MIMEType { get; set; }
@@ -19,3 +19,5 @@ public string MIMEType { get; set; }
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

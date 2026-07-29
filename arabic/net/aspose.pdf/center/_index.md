@@ -1,14 +1,14 @@
 ---
-title: Class Center
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Center. تمثل إعدادات المحاذاة المركزية لبيانات الرأس والتذييل
+title: "الفئة Center"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Center. تمثل إعدادات المحاذاة المركزية لبيانات الرأس والتذييل."
 type: docs
-weight: 2990
+weight: 3100
 url: /ar/net/aspose.pdf/center/
 ---
-## فئة المركز
+## Center class
 
-تمثل إعدادات المحاذاة المركزية لبيانات الرأس والتذييل.
+تمثل إعدادات محاذاة الوسط لبيانات الترويسة والتذييل.
 
 ```csharp
 public sealed class Center : HeaderFooterData
@@ -18,17 +18,19 @@ public sealed class Center : HeaderFooterData
 
 | الاسم | الوصف |
 | --- | --- |
-| [Center](center/)() | المنشئ الافتراضي. |
+| [Center](center/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | يحصل أو يحدد إعدادات التاريخ. |
-| [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | يحصل أو يحدد إعدادات رقم الصفحة. |
+| [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | يحصل أو يضبط إعدادات التاريخ. |
+| [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | يحصل أو يضبط إعدادات رقم الصفحة. |
 
 ### انظر أيضًا
 
-* فئة [HeaderFooterData](../headerfooterdata/)
-* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* class [HeaderFooterData](../headerfooterdata/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

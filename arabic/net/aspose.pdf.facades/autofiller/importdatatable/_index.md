@@ -1,25 +1,27 @@
 ---
-title: AutoFiller.ImportDataTable
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة AutoFiller. تستورد بيانات من نوع DataTable. يجب أن يكون اسم كل عمود من dataTable هو نفسه اسم حقل واحد من ملف pdf النموذجي مع مراعاة حالة الأحرف
+title: "AutoFiller.ImportDataTable"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة AutoFiller. تستورد بيانات من نوع DataTable. يجب أن يكون اسم كل عمود في dataTable هو نفسه اسم أحد الحقول في قالب pdf مع مراعاة حساسية الأحرف."
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.facades/autofiller/importdatatable/
 ---
-## طريقة AutoFiller.ImportDataTable
+## AutoFiller.ImportDataTable method
 
-تستورد بيانات من نوع DataTable. يجب أن يكون اسم كل عمود من dataTable هو نفسه اسم حقل واحد من ملف pdf النموذجي مع مراعاة حالة الأحرف.
+يستورد بيانات من نوع DataTable. يجب أن يكون اسم كل عمود في dataTable مطابقًا لاسم أحد الحقول في قالب PDF مع مراعاة حساسية الأحرف.
 
 ```csharp
 public void ImportDataTable(DataTable dataTable)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| dataTable | DataTable | ال dataTable الذي يحتوي على جميع البيانات من قاعدة البيانات أو مصدر بيانات آخر. |
+| dataTable | DataTable | الـ dataTable الذي يحتوي على جميع البيانات من قاعدة البيانات أو أي مصدر بيانات آخر. |
 
 ### انظر أيضًا
 
 * class [AutoFiller](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

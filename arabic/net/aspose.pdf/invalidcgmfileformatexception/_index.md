@@ -1,30 +1,32 @@
 ---
-title: Class InvalidCgmFileFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.InvalidCgmFileFormatException. الاستثناء الذي يتم رميه عندما يكون ملف Cgm غير صالح
+title: "الفئة InvalidCgmFileFormatException"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.InvalidCgmFileFormatException. الاستثناء الذي يُرمى عندما يكون ملف Cgm غير صالح"
 type: docs
-weight: 5980
+weight: 6110
 url: /ar/net/aspose.pdf/invalidcgmfileformatexception/
 ---
 ## InvalidCgmFileFormatException class
 
-الاستثناء الذي يتم رميه عندما يكون ملف Cgm غير صالح.
+الاستثناء الذي يُرمى عندما يكون ملف Cgm غير صالح.
 
 ```csharp
 public sealed class InvalidCgmFileFormatException : InvalidFileFormatException
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor)() | Initializes a new instance of the `InvalidCgmFileFormatException` class. |
-| [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor_1)(Exception) | Initializes a new instance of the `InvalidCgmFileFormatException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
-| [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor_2)(string) | Initializes a new instance of the `InvalidCgmFileFormatException` class. |
-| [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor_3)(string, Exception) | Initializes a new instance of the `InvalidCgmFileFormatException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor)() | يُنشئ مثلاً جديداً من الفئة `InvalidCgmFileFormatException`. |
+| [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor_1)(Exception) | يُنشئ مثلاً جديداً من الفئة `InvalidCgmFileFormatException` مع رسالة خطأ محددة وإشارة إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء. |
+| [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor_2)(string) | يُنشئ مثلاً جديداً من الفئة `InvalidCgmFileFormatException`. |
+| [InvalidCgmFileFormatException](invalidcgmfileformatexception/#constructor_3)(string, Exception) | يُنشئ مثلاً جديداً من الفئة `InvalidCgmFileFormatException` مع رسالة خطأ محددة وإشارة إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء. |
 
-### See Also
+### انظر أيضًا
 
 * class [InvalidFileFormatException](../invalidfileformatexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

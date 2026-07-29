@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.AlignCenter
-second_title: Aspose.PDF for .NET API Reference
-description: حقل FormFieldFacade. يحدد المحاذاة إلى نمط المركز
+title: "FormFieldFacade.AlignCenter"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل FormFieldFacade. يحدد المحاذاة إلى نمط مركزي"
 type: docs
 weight: 220
 url: /ar/net/aspose.pdf.facades/formfieldfacade/aligncenter/
 ---
-## حقل FormFieldFacade.AlignCenter
+## FormFieldFacade.AlignCenter field
 
-يحدد المحاذاة إلى نمط المركز.
+يحدد المحاذاة إلى نمط الوسط.
 
 ```csharp
 public const int AlignCenter;
@@ -19,3 +19,5 @@ public const int AlignCenter;
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

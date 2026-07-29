@@ -1,14 +1,14 @@
 ---
-title: WidgetAnnotation.Highlighting
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية WidgetAnnotation. وضع تمييز التعليقات
+title: "WidgetAnnotation.Highlighting"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية WidgetAnnotation. وضع تمييز التعليق التوضيحي."
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.annotations/widgetannotation/highlighting/
 ---
-## خاصية WidgetAnnotation.Highlighting
+## WidgetAnnotation.Highlighting property
 
-وضع تمييز التعليقات.
+وضع تمييز التعليقة.
 
 ```csharp
 public HighlightingMode Highlighting { get; set; }
@@ -20,3 +20,5 @@ public HighlightingMode Highlighting { get; set; }
 * class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Stamp.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الطابع. تحصل أو تعين دوران الطابع بالدرجات
+title: "Stamp.Rotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Stamp. تحصل أو تعيين دوران الختم بالدرجات."
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.facades/stamp/rotation/
 ---
-## خاصية Stamp.Rotation
+## Stamp.Rotation property
 
-تحصل أو تعين دوران الطابع بالدرجات.
+يحصل أو يعيّن دوران الطابع بالدرجات.
 
 ```csharp
 public float Rotation { get; set; }
@@ -30,3 +30,5 @@ fileStamp.Close();
 * class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

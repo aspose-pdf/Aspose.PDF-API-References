@@ -1,22 +1,22 @@
 ---
-title: Rectangle.Intersect
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة المستطيل. تتقاطع مع المستطيلات
+title: "Rectangle.Intersect"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Rectangle. يتقاطع مع مستطيلات"
 type: docs
 weight: 210
 url: /ar/net/aspose.pdf/rectangle/intersect/
 ---
-## طريقة Rectangle.Intersect
+## Rectangle.Intersect method
 
-تتقاطع مع المستطيلات.
+يتقاطع مع المستطيلات.
 
 ```csharp
 public Rectangle Intersect(Rectangle otherRect)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| otherRect | Rectangle | المستطيل الذي سيتم تقاطع هذا المستطيل معه. |
+| otherRect | Rectangle | المستطيل الذي سيُتقاطع معه هذا المستطيل. |
 
 ### قيمة الإرجاع
 
@@ -27,3 +27,5 @@ public Rectangle Intersect(Rectangle otherRect)
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

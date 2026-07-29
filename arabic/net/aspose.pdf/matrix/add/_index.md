@@ -1,22 +1,22 @@
 ---
-title: Matrix.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة المصفوفة. تضيف مصفوفة إلى مصفوفة أخرى
+title: "Matrix.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Matrix. تضيف المصفوفة إلى مصفوفة أخرى"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf/matrix/add/
 ---
-## طريقة Matrix.Add
+## Matrix.Add method
 
-تضيف مصفوفة إلى مصفوفة أخرى.
+يضيف المصفوفة إلى مصفوفة أخرى.
 
 ```csharp
 public Matrix Add(Matrix other)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| other | Matrix | المصفوفة التي سيتم إضافتها. |
+| آخر | Matrix | المصفوفة التي ستُضاف. |
 
 ### قيمة الإرجاع
 
@@ -27,3 +27,5 @@ public Matrix Add(Matrix other)
 * class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

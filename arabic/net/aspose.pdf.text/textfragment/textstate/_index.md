@@ -1,14 +1,14 @@
 ---
-title: TextFragment.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragment. تحصل أو تعين حالة النص للنص الذي يمثله كائن TextFragment
+title: "TextFragment.TextState"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragment. تحصل أو تعيّن حالة النص للنص الذي يمثله كائن TextFragment"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf.text/textfragment/textstate/
 ---
-## خاصية TextFragment.TextState
+## TextFragment.TextState property
 
-تحصل أو تعين حالة النص للنص الذي يمثله كائن [`TextFragment`](../).
+يحصل أو يعين حالة النص للنص الذي يمثله كائن [`TextFragment`](../).
 
 ```csharp
 public TextFragmentState TextState { get; }
@@ -16,29 +16,29 @@ public TextFragmentState TextState { get; }
 
 ## ملاحظات
 
-توفر وسيلة لتغيير الخصائص التالية للنص: الخط حجم الخط نمط الخط لون المقدمة لون الخلفية
+يوفر طريقة لتغيير الخصائص التالية للنص: Font FontSize FontStyle ForegroundColor BackgroundColor
 
 ## أمثلة
 
-توضح المثال كيفية تغيير لون النص وحجم الخط للنص باستخدام كائن `TextState`.
+يوضح المثال كيفية تغيير لون النص وحجم الخط للنص باستخدام كائن `TextState`.
 
 ```csharp
-// Open document
+// فتح المستند
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// إنشاء كائن TextFragmentAbsorber للعثور على جميع تكرارات النص "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// قبول الماص للصفحة الأولى
 doc.Pages[1].Accept(absorber);
 
-// Change foreground color of the first text occurrence
+// تغيير لون المقدمة للظهور الأول للنص
 absorber.TextFragments[1].TextState.ForegroundColor = Color.FromRgb(System.Drawing.Color.Red);
 
-// Change font size of the first text occurrence
+// تغيير حجم الخط للظهور الأول للنص
 absorber.TextFragments[1].TextState.FontSize = 15;
 
-// Save document
+// حفظ المستند
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
@@ -50,3 +50,5 @@ doc.Save(@"D:\Tests\output.pdf");
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

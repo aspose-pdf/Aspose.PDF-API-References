@@ -1,25 +1,27 @@
 ---
-title: ITextElement.SetText
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ITextElement. تضيف محتوى نصي إلى عنصر النص الحالي
+title: "ITextElement.SetText"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ITextElement. يضيف محتوى النص إلى عنصر النص الحالي"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.logicalstructure/itextelement/settext/
 ---
-## طريقة ITextElement.SetText
+## ITextElement.SetText method
 
-تضيف محتوى نصي إلى عنصر النص الحالي.
+يضيف محتوى النص إلى عنصر النص الحالي.
 
 ```csharp
 public void SetText(string text)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| النص | سلسلة | محتوى نصي |
+| نص | String | محتوى النص |
 
 ### انظر أيضًا
 
-* واجهة [ITextElement](../)
-* مساحة الاسم [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* التجميع [Aspose.PDF](../../../)
+* interface [ITextElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

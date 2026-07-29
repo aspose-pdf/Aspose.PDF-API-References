@@ -1,23 +1,23 @@
 ---
-title: Paragraphs.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الفقرات. إدراج فقرة إلى المجموعة
+title: "Paragraphs.Insert"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Paragraphs. إدراج فقرة إلى المجموعة"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/paragraphs/insert/
 ---
-## طريقة الفقرات.إدراج
+## Paragraphs.Insert method
 
-إدراج فقرة إلى المجموعة.
+أدرج فقرة إلى المجموعة.
 
 ```csharp
 public void Insert(int index, BaseParagraph paragraph)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | index | Int32 | الفهرس للفقرة. |
-| paragraph | BaseParagraph | الفقرة. |
+| فقرة | BaseParagraph | الفقرة. |
 
 ### انظر أيضًا
 
@@ -25,3 +25,5 @@ public void Insert(int index, BaseParagraph paragraph)
 * class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

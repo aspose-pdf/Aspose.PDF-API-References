@@ -1,12 +1,12 @@
 ---
-title: Interface IWarningCallback
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.IWarningCallback. واجهة لدعم آلية رد الاتصال للمستخدمين
+title: "الواجهة IWarningCallback"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الواجهة Aspose.Pdf.IWarningCallback. واجهة لدعم آلية رد الاتصال للمستخدمين"
 type: docs
-weight: 5840
+weight: 5970
 url: /ar/net/aspose.pdf/iwarningcallback/
 ---
-## واجهة IWarningCallback
+## IWarningCallback interface
 
 واجهة لدعم آلية رد الاتصال للمستخدم.
 
@@ -22,5 +22,7 @@ public interface IWarningCallback
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

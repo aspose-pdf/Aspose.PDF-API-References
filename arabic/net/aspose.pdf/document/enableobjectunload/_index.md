@@ -1,14 +1,14 @@
 ---
-title: Document.EnableObjectUnload
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. الحصول على أو تعيين علامة تمكّن الوثيقة من أن يتم تفريغها جزئيًا من الذاكرة. هذا يسمح بتقليل استخدام الذاكرة ولكن قد يكون له تأثير سلبي على الأداء
+title: "Document.EnableObjectUnload"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. تحصل أو تعين العلامة التي تمكّن من تفريغ المستند جزئيًا من الذاكرة. هذا يسمح بتقليل استهلاك الذاكرة لكنه قد يؤثر سلبًا على الأداء"
 type: docs
-weight: 160
+weight: 180
 url: /ar/net/aspose.pdf/document/enableobjectunload/
 ---
-## خاصية Document.EnableObjectUnload
+## Document.EnableObjectUnload property
 
-الحصول على أو تعيين علامة تمكّن الوثيقة من أن يتم تفريغها جزئيًا من الذاكرة. هذا يسمح بتقليل استخدام الذاكرة ولكن قد يكون له تأثير سلبي على الأداء.
+يحصل أو يعيّن العلامة التي تمكّن من إلغاء تحميل المستند جزئيًا من الذاكرة. هذا يسمح بتقليل استهلاك الذاكرة لكنه قد يؤثر سلبًا على الأداء.
 
 ```csharp
 public bool EnableObjectUnload { get; set; }
@@ -19,3 +19,5 @@ public bool EnableObjectUnload { get; set; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

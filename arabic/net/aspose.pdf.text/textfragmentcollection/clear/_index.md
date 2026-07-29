@@ -1,14 +1,14 @@
 ---
-title: TextFragmentCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TextFragmentCollection. Clears جميع العناصر من المجموعة
+title: "TextFragmentCollection.Clear"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TextFragmentCollection. تمسح جميع العناصر من المجموعة"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.text/textfragmentcollection/clear/
 ---
-## طريقة TextFragmentCollection.Clear
+## TextFragmentCollection.Clear method
 
-Clears all items from the collection.
+يمسح جميع العناصر من المجموعة.
 
 ```csharp
 public void Clear()
@@ -19,3 +19,5 @@ public void Clear()
 * class [TextFragmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

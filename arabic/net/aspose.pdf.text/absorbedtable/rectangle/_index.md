@@ -1,14 +1,14 @@
 ---
-title: AbsorbedTable.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AbsorbedTable. تحصل على المستطيل الذي يصف موقع الجدول على الصفحة
+title: "AbsorbedTable.Rectangle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AbsorbedTable. تحصل على المستطيل الذي يصف موضع الجدول على الصفحة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.text/absorbedtable/rectangle/
 ---
-## خاصية AbsorbedTable.Rectangle
+## AbsorbedTable.Rectangle property
 
-تحصل على المستطيل الذي يصف موقع الجدول على الصفحة
+يحصل على المستطيل الذي يصف موضع الجدول على الصفحة
 
 ```csharp
 public Rectangle Rectangle { get; }
@@ -20,3 +20,5 @@ public Rectangle Rectangle { get; }
 * class [AbsorbedTable](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

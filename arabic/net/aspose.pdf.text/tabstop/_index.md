@@ -1,36 +1,38 @@
 ---
-title: Class TabStop
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Text.TabStop. تمثل موضع توقف علامة مخصص في فقرة
+title: "الفئة TabStop"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Text.TabStop. تمثل موضع تبويب مخصص في الفقرة."
 type: docs
-weight: 10770
+weight: 10950
 url: /ar/net/aspose.pdf.text/tabstop/
 ---
 ## TabStop class
 
-تمثل موضع توقف علامة مخصص في فقرة.
+يمثل موضع توقف Tab مخصص في الفقرة.
 
 ```csharp
 public class TabStop
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [TabStop](tabstop/#constructor)() | يقوم بتهيئة مثيل جديد من فئة `TabStop`. |
-| [TabStop](tabstop/#constructor_1)(float) | يقوم بتهيئة مثيل جديد من فئة `TabStop` مع موضع محدد. |
+| [TabStop](tabstop/#constructor)() | ينشئ مثيلًا جديدًا من الفئة `TabStop`. |
+| [TabStop](tabstop/#constructor_1)(float) | ينشئ مثيلًا جديدًا من الفئة `TabStop` بالموضع المحدد. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [AlignmentType](../../aspose.pdf.text/tabstop/alignmenttype/) { get; set; } | يحصل أو يحدد قيمة من نوع [`AlignmentType`](./alignmenttype/) التي تشير إلى نوع محاذاة علامة التبويب. |
-| [IsReadOnly](../../aspose.pdf.text/tabstop/isreadonly/) { get; } | يحصل على قيمة تشير إلى أن هذا المثيل من `TabStop` مرتبط بالفعل بـ [`TextFragment`](../textfragment/) وأصبح للقراءة فقط |
-| [LeaderType](../../aspose.pdf.text/tabstop/leadertype/) { get; set; } | يحصل أو يحدد قيمة من نوع [`TabLeaderType`](../tableadertype/) التي تشير إلى نوع قائد علامة التبويب. |
-| [Position](../../aspose.pdf.text/tabstop/position/) { get; set; } | يحصل أو يحدد قيمة عائمة تشير إلى موضع توقف علامة التبويب. |
+| [AlignmentType](../../aspose.pdf.text/tabstop/alignmenttype/) { get; set; } | يحصل أو يعيّن تعداد [`AlignmentType`](./alignmenttype/) الذي يشير إلى نوع محاذاة التبويب. |
+| [IsReadOnly](../../aspose.pdf.text/tabstop/isreadonly/) { get; } | يحصل على قيمة تشير إلى أن مثيل `TabStop` هذا مرتبط بالفعل بـ [`TextFragment`](../textfragment/) وأصبح للقراءة فقط. |
+| [LeaderType](../../aspose.pdf.text/tabstop/leadertype/) { get; set; } | يحصل أو يعيّن تعداد [`TabLeaderType`](../tableadertype/) الذي يشير إلى نوع قائد التبويب. |
+| [Position](../../aspose.pdf.text/tabstop/position/) { get; set; } | يحصل أو يعيّن قيمة عائمة تشير إلى موضع إيقاف التبويب. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

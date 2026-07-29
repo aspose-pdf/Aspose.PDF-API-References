@@ -1,14 +1,14 @@
 ---
-title: RedactionAnnotation.Redact
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة RedactionAnnotation. تقوم بتسوية التعليق وحذف محتويات الصفحة أي إزالة النص والصورة تحت التعليق المحذوف
+title: "RedactionAnnotation.Redact"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة RedactionAnnotation. تسوي التعليق وتُمحِّ محتويات الصفحة أي تُزيل النص والصورة تحت التعليق الممحو"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.annotations/redactionannotation/redact/
 ---
-## طريقة RedactionAnnotation.Redact
+## RedactionAnnotation.Redact method
 
-تقوم بتسوية التعليق وحذف محتويات الصفحة (أي إزالة النص والصورة تحت التعليق المحذوف)
+يقوم بتسطيح التعليق ويحذف محتويات الصفحة (أي يزيل النص والصورة تحت التعليق المحذوف).
 
 ```csharp
 public void Redact()
@@ -19,3 +19,5 @@ public void Redact()
 * class [RedactionAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

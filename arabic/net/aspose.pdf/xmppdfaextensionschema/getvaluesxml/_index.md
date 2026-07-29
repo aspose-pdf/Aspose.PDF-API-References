@@ -1,22 +1,22 @@
 ---
-title: XmpPdfAExtensionSchema.GetValuesXml
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XmpPdfAExtensionSchema. تحصل على قيم الخصائص كتمثيل شجرة XML
+title: "XmpPdfAExtensionSchema.GetValuesXml"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XmpPdfAExtensionSchema. يحصل على قيم الخصائص على شكل تمثيل شجرة xml"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/xmppdfaextensionschema/getvaluesxml/
 ---
-## طريقة XmpPdfAExtensionSchema.GetValuesXml
+## XmpPdfAExtensionSchema.GetValuesXml method
 
-تحصل على قيم الخصائص كتمثيل شجرة XML.
+يحصل على قيم الخصائص كتمثيل شجرة xml.
 
 ```csharp
 public void GetValuesXml(XmlDocument xmlDocument, XmlElement rootElement)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| xmlDocument | XmlDocument | وثيقة XML المصدر. |
+| xmlDocument | XmlDocument | مستند xml المصدر. |
 | rootElement | XmlElement | العقدة الجذرية لقائمة قيم الخصائص. |
 
 ### انظر أيضًا
@@ -24,3 +24,5 @@ public void GetValuesXml(XmlDocument xmlDocument, XmlElement rootElement)
 * class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

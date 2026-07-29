@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormat.AfterText
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية NumberFormat. النص الذي سيتم دمجه بعد التسمية
+title: "Measure.NumberFormat.AfterText"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية NumberFormat. النص الذي يجب ربطه بعد التسمية"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/measure.numberformat/aftertext/
 ---
-## خاصية Measure.NumberFormat.AfterText
+## Measure.NumberFormat.AfterText property
 
-النص الذي سيتم دمجه بعد التسمية
+النص الذي سيتم ربطه بعد التسمية
 
 ```csharp
 public string AfterText { get; set; }
@@ -19,3 +19,5 @@ public string AfterText { get; set; }
 * class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

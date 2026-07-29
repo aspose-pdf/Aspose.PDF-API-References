@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.B5JisRotated
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ورق JIS B5 المائل 257 مم × 182 مم
+title: "PaperSizes.B5JisRotated"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ورق JIS B5 مدوَّر 257 مم × 182 مم"
 type: docs
 weight: 260
 url: /ar/net/aspose.pdf.printing/papersizes/b5jisrotated/
 ---
-## حقل PaperSizes.B5JisRotated
+## PaperSizes.B5JisRotated field
 
-ورق JIS B5 المائل (257 مم × 182 مم).
+ورق JIS B5 مدوَّر (257 مم × 182 مم).
 
 ```csharp
 public static readonly PaperSize B5JisRotated;
@@ -20,3 +20,5 @@ public static readonly PaperSize B5JisRotated;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

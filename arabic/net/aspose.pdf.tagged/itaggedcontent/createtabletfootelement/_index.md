@@ -1,26 +1,28 @@
 ---
-title: ITaggedContent.CreateTableTFootElement
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ITaggedContent. تنشئ TableTFootElement
+title: "ITaggedContent.CreateTableTFootElement"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ITaggedContent. تُنشئ TableTFootElement"
 type: docs
-weight: 310
+weight: 340
 url: /ar/net/aspose.pdf.tagged/itaggedcontent/createtabletfootelement/
 ---
 ## ITaggedContent.CreateTableTFootElement method
 
-تنشئ [`TableTFootElement`](../../../aspose.pdf.logicalstructure/tabletfootelement/).
+ينشئ [`TableTFootElement`](../../../aspose.pdf.logicalstructure/tabletfootelement/).
 
 ```csharp
 public TableTFootElement CreateTableTFootElement()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-عنصر الهيكل الذي تم إنشاؤه.
+تم إنشاء عنصر بنية.
 
-### See Also
+### انظر أيضًا
 
 * class [TableTFootElement](../../../aspose.pdf.logicalstructure/tabletfootelement/)
 * interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

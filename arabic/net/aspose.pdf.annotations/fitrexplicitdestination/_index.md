@@ -1,29 +1,29 @@
 ---
-title: Class FitRExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.FitRExplicitDestination. تمثل وجهة صريحة تعرض الصفحة بمحتوياتها مكبرة بما يكفي لتناسب المستطيل المحدد بواسطة الإحداثيات اليسار، الأسفل، اليمين، والأعلى بالكامل داخل النافذة أفقياً وعمودياً. إذا كانت عوامل التكبير الأفقية والعمودية المطلوبة مختلفة، استخدم الأصغر من الاثنين، مع توسيط المستطيل داخل النافذة في البعد الآخر. قد تؤدي القيمة الفارغة لأي من المعلمات إلى سلوك غير متوقع.
+title: "الفئة FitRExplicitDestination"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Annotations.FitRExplicitDestination. تمثل وجهة صريحة تعرض الصفحة بمحتوياتها مكبرة بما يكفي لتلائم المستطيل المحدد بالإحداثيات اليسار، الأسفل، اليمين، والأعلى بالكامل داخل النافذة أفقياً وعمودياً. إذا كانت عوامل التكبير الأفقية والعمودية المطلوبة مختلفة، استخدم الأصغر منهما مع توسيط المستطيل داخل النافذة في البعد الآخر. قد يؤدي قيمة null لأي من المعلمات إلى سلوك غير متوقع."
 type: docs
-weight: 1780
+weight: 1870
 url: /ar/net/aspose.pdf.annotations/fitrexplicitdestination/
 ---
 ## FitRExplicitDestination class
 
-تمثل وجهة صريحة تعرض الصفحة بمحتوياتها مكبرة بما يكفي لتناسب المستطيل المحدد بواسطة الإحداثيات اليسار، الأسفل، اليمين، والأعلى بالكامل داخل النافذة أفقياً وعمودياً. إذا كانت عوامل التكبير الأفقية والعمودية المطلوبة مختلفة، استخدم الأصغر من الاثنين، مع توسيط المستطيل داخل النافذة في البعد الآخر. قد تؤدي القيمة الفارغة لأي من المعلمات إلى سلوك غير متوقع.
+يمثل الوجهة الصريحة التي تعرض الصفحة مع تكبير محتواها بما يكفي لتلائم المستطيل المحدد بالإحداثيات اليسار، الأسفل، اليمين، والعلوي بالكامل داخل النافذة أفقياً وعمودياً. إذا كانت عوامل التكبير الأفقية والعمودية المطلوبة مختلفة، استخدم الأصغر منهما، مع تمركز المستطيل داخل النافذة في البُعد الآخر. قد يؤدي قيمة null لأي من المعاملات إلى سلوك غير متوقع.
 
 ```csharp
 public sealed class FitRExplicitDestination : ExplicitDestination
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [FitRExplicitDestination](fitrexplicitdestination/#constructor_2)(int, double, double, double, double) | ينشئ وجهة صريحة عن بُعد. |
 | [FitRExplicitDestination](fitrexplicitdestination/#constructor_1)(Page, double, double, double, double) | ينشئ وجهة صريحة محلية. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [Bottom](../../aspose.pdf.annotations/fitrexplicitdestination/bottom/) { get; } | يحصل على الإحداثي العمودي السفلي للمستطيل المرئي. |
 | [Left](../../aspose.pdf.annotations/fitrexplicitdestination/left/) { get; } | يحصل على الإحداثي الأفقي الأيسر للمستطيل المرئي. |
@@ -32,14 +32,16 @@ public sealed class FitRExplicitDestination : ExplicitDestination
 | [Right](../../aspose.pdf.annotations/fitrexplicitdestination/right/) { get; } | يحصل على الإحداثي الأفقي الأيمن للمستطيل المرئي. |
 | [Top](../../aspose.pdf.annotations/fitrexplicitdestination/top/) { get; } | يحصل على الإحداثي العمودي العلوي للمستطيل المرئي. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/fitrexplicitdestination/tostring/)() | يحول حالة الكائن إلى قيمة سلسلة. مثال: "1 FitR 100 200 300 400". |
+| override [ToString](../../aspose.pdf.annotations/fitrexplicitdestination/tostring/)() | يحوّل حالة الكائن إلى قيمة نصية. مثال: "1 FitR 100 200 300 400". |
 
-### See Also
+### انظر أيضًا
 
 * class [ExplicitDestination](../explicitdestination/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

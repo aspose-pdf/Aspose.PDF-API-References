@@ -1,14 +1,14 @@
 ---
-title: OpenAIModels.Gpt35Turbo1106
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OpenAIModels. تحصل على المعرف لنموذج GPT3.5 Turbo 1106
+title: "OpenAIModels.Gpt35Turbo1106"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OpenAIModels. يحصل على المعرف لنموذج GPT3.5 Turbo 1106"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/openaimodels/gpt35turbo1106/
 ---
-## خاصية OpenAIModels.Gpt35Turbo1106
+## OpenAIModels.Gpt35Turbo1106 property
 
-تحصل على المعرف لنموذج GPT-3.5 Turbo 1106.
+يحصل على المعرف لنموذج GPT-3.5 Turbo 1106.
 
 ```csharp
 public static string Gpt35Turbo1106 { get; }
@@ -19,3 +19,5 @@ public static string Gpt35Turbo1106 { get; }
 * class [OpenAIModels](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

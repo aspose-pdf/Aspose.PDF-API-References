@@ -1,14 +1,14 @@
 ---
-title: AttributeName.InlineAlign_End
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. خاصية InlineAlign End - الحافة النهائية لكل مستطيل تخصيص طفل متوافقة مع مستطيل محتوى خلايا الجدول
+title: "AttributeName.InlineAlign_End"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. السمة InlineAlign End  حافة النهاية لكل مستطيل تخصيص للطفل محاذاة مع حافة مستطيل محتوى خلايا الجدول"
 type: docs
 weight: 210
 url: /ar/net/aspose.pdf.logicalstructure/attributename/inlinealign_end/
 ---
-## حقل AttributeName.InlineAlign_End
+## AttributeName.InlineAlign_End field
 
-خاصية InlineAlign: End - الحافة النهائية لكل مستطيل تخصيص طفل متوافقة مع مستطيل محتوى خلية الجدول.
+السمة InlineAlign: End - حافة النهاية لمستطيل تخصيص كل عنصر فرعي تتطابق مع حافة محتوى خلية الجدول.
 
 ```csharp
 public static readonly AttributeName InlineAlign_End;
@@ -19,3 +19,5 @@ public static readonly AttributeName InlineAlign_End;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

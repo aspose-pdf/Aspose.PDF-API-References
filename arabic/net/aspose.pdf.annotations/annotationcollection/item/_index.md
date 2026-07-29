@@ -1,20 +1,20 @@
 ---
-title: AnnotationCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AnnotationCollection. فهرس العنصر للحصول عليه
+title: "AnnotationCollection.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AnnotationCollection. الفهرس للعنصر المراد الحصول عليه"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/annotationcollection/item/
 ---
-## فهرس AnnotationCollection
+## AnnotationCollection indexer
 
-فهرس العنصر للحصول عليه.
+فهرس العنصر المراد الحصول عليه.
 
 ```csharp
 public Annotation this[int index] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
 | index | قيمة الفهرس تبدأ من واحد. |
 
@@ -28,3 +28,5 @@ public Annotation this[int index] { get; }
 * class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

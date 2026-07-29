@@ -1,12 +1,12 @@
 ---
-title: FileDataSource.DataType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FileDataSource. نوع ملف مصدر البيانات
+title: "FileDataSource.DataType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FileDataSource. نوع ملف مصدر البيانات"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/filedatasource/datatype/
 ---
-## خاصية FileDataSource.DataType
+## FileDataSource.DataType property
 
 نوع مصدر البيانات (ملف).
 
@@ -20,3 +20,5 @@ public DataType DataType { get; }
 * class [FileDataSource](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

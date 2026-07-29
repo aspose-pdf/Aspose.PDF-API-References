@@ -1,14 +1,14 @@
 ---
-title: SetRGBColor.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة SetRGBColor. تعيد اللون المحدد بواسطة المشغل
+title: "SetRGBColor.getColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة SetRGBColor. تُرجع اللون المحدد بواسطة المشغل"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.operators/setrgbcolor/getcolor/
 ---
-## طريقة SetRGBColor.getColor
+## SetRGBColor.getColor method
 
-تعيد اللون المحدد بواسطة المشغل.
+يرجع اللون المحدد بواسطة المعامل.
 
 ```csharp
 public override Color getColor()
@@ -23,3 +23,5 @@ public override Color getColor()
 * class [SetRGBColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

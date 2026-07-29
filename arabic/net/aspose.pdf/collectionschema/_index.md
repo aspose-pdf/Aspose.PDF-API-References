@@ -1,34 +1,36 @@
 ---
-title: Class CollectionSchema
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.CollectionSchema. تمثل فئة تصف مخطط مجموعة مستندات
+title: "الفئة CollectionSchema"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.CollectionSchema. تمثّل فئة تصف Schema لمجموعة مستندات."
 type: docs
-weight: 3070
+weight: 3180
 url: /ar/net/aspose.pdf/collectionschema/
 ---
 ## CollectionSchema class
 
-تمثل فئة تصف "المخطط" لمجموعة مستندات.
+يمثل فئة تصف "Schema" لمجموعة المستندات.
 
 ```csharp
 public class CollectionSchema
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [AllFields](../../aspose.pdf/collectionschema/allfields/) { get; } | يحصل على جميع حقول المخطط. |
-| [AllNames](../../aspose.pdf/collectionschema/allnames/) { get; } | يحصل على جميع أسماء حقول المخطط. |
+| [AllFields](../../aspose.pdf/collectionschema/allfields/) { get; } | الحصول على جميع حقول schema. |
+| [AllNames](../../aspose.pdf/collectionschema/allnames/) { get; } | الحصول على جميع أسماء حقول schema. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [GetCollectionField](../../aspose.pdf/collectionschema/getcollectionfield/)(string) | يحصل على حقل مجموعة بالاسم. |
-| [HasName](../../aspose.pdf/collectionschema/hasname/)(string) | يحدد ما إذا كان الاسم المحدد موجودًا في المخطط. |
+| [GetCollectionField](../../aspose.pdf/collectionschema/getcollectionfield/)(string) | الحصول على حقل مجموعة حسب الاسم. |
+| [HasName](../../aspose.pdf/collectionschema/hasname/)(string) | تحديد ما إذا كان الاسم المحدد موجودًا في schema. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

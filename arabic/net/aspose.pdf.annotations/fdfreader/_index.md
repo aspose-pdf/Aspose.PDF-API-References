@@ -1,9 +1,9 @@
 ---
-title: Class FdfReader
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.FdfReader. فئة تقوم بقراءة تنسيق FDF
+title: "الفئة FdfReader"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Annotations.FdfReader. الفئة التي تقوم بقراءة تنسيق FDF"
 type: docs
-weight: 1700
+weight: 1790
 url: /ar/net/aspose.pdf.annotations/fdfreader/
 ---
 ## FdfReader class
@@ -14,13 +14,13 @@ url: /ar/net/aspose.pdf.annotations/fdfreader/
 public sealed class FdfReader
 ```
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | static [ReadAnnotations](../../aspose.pdf.annotations/fdfreader/readannotations/)(Stream, Document) | استيراد التعليقات التوضيحية من ملف FDF ووضعها في المستند. |
 
-## Examples
+## أمثلة
 
 ```csharp
 Document doc = new Document("example.pdf");
@@ -30,7 +30,9 @@ fdfStream.Close();
 doc.Save("example_out.pdf");
 ```
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

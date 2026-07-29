@@ -1,14 +1,14 @@
 ---
-title: Image.FileType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصورة. تحصل أو تعين نوع ملف الصورة
+title: "Image.FileType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Image. يسترجع أو يعيّن نوع ملف الصورة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/image/filetype/
 ---
-## خاصية Image.FileType
+## Image.FileType property
 
-تحصل أو تعين نوع ملف الصورة.
+يحصل أو يعيّن نوع ملف الصورة.
 
 ```csharp
 public ImageFileType FileType { get; set; }
@@ -20,3 +20,5 @@ public ImageFileType FileType { get; set; }
 * class [Image](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

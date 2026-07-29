@@ -1,20 +1,20 @@
 ---
-title: DocumentInfo.DocumentInfo
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ DocumentInfo. تهيئة مثيل DocumentInfo
+title: "DocumentInfo.DocumentInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "DocumentInfo منشئ. يهيئ نسخة DocumentInfo"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/documentinfo/documentinfo/
 ---
-## مُنشئ DocumentInfo
+## DocumentInfo constructor
 
-تهيئة مثيل DocumentInfo.
+تهيئة كائن DocumentInfo.
 
 ```csharp
 public DocumentInfo(Document document)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | document | Document | سيتم استخدام معلومات هذا المستند للتهيئة. |
 
@@ -24,3 +24,5 @@ public DocumentInfo(Document document)
 * class [DocumentInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

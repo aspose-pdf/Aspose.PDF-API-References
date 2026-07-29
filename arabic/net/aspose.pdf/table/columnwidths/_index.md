@@ -1,14 +1,14 @@
 ---
-title: Table.ColumnWidths
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الجدول. تحصل على عرض الأعمدة في الجدول
+title: "Table.ColumnWidths"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Table. يحصل على عرض الأعمدة للجدول"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/table/columnwidths/
 ---
-## خاصية Table.ColumnWidths
+## Table.ColumnWidths property
 
-تحصل على عرض الأعمدة في الجدول.
+الحصول على عرض أعمدة الجدول.
 
 ```csharp
 public string ColumnWidths { get; set; }
@@ -19,3 +19,5 @@ public string ColumnWidths { get; set; }
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

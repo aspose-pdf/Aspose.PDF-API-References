@@ -1,27 +1,27 @@
 ---
-title: DestinationCollection.GetExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة DestinationCollection. تعيد الوجهة الصريحة بالاسم
+title: "DestinationCollection.GetExplicitDestination"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة DestinationCollection. تُعيد الوجهة الصريحة بالاسم"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/destinationcollection/getexplicitdestination/
 ---
-## طريقة DestinationCollection.GetExplicitDestination
+## DestinationCollection.GetExplicitDestination method
 
-تعيد الوجهة الصريحة بالاسم.
+يرجع الوجهة الصريحة بالاسم.
 
 ```csharp
 public ExplicitDestination GetExplicitDestination(string destinameName, bool useCache)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | destinameName | String | اسم الوجهة. |
-| useCache | Boolean | يحدد ما إذا كانت النسخة المخزنة من المجموعة مستخدمة أم لا. |
+| useCache | Boolean | يحدد ما إذا كان يتم استخدام النسخة المخزنة مؤقتًا من المجموعة أم لا. |
 
 ### قيمة الإرجاع
 
-كائن ExplicitDestination للوجهة الموجودة؛ خلاف ذلك، null.
+كائن ExplicitDestination للوجهة إذا تم العثور عليها؛ وإلا، null.
 
 ### انظر أيضًا
 
@@ -29,3 +29,5 @@ public ExplicitDestination GetExplicitDestination(string destinameName, bool use
 * class [DestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PclLoadOptions.BatchSize
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PclLoadOptions. تحدد حجم الدفعة إذا كانت التحويلات المجمعّة قابلة للتطبيق على زوج تنسيقات المصدر والوجهة
+title: "PclLoadOptions.BatchSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PclLoadOptions. تحدد حجم الدفعة إذا كان التحويل على دفعات قابلًا للتطبيق على زوج صيغ المصدر والوجهة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/pclloadoptions/batchsize/
 ---
-## خاصية PclLoadOptions.BatchSize
+## PclLoadOptions.BatchSize property
 
-تحدد حجم الدفعة إذا كانت التحويلات المجمعّة قابلة للتطبيق على زوج تنسيقات المصدر والوجهة.
+يحدد حجم الدفعة إذا كان التحويل المجمع قابلًا للتطبيق على زوج صيغ المصدر والوجهة.
 
 ```csharp
 public int BatchSize { get; set; }
@@ -19,3 +19,5 @@ public int BatchSize { get; set; }
 * class [PclLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

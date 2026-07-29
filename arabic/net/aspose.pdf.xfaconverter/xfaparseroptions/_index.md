@@ -1,36 +1,38 @@
 ---
-title: Class XfaParserOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.XfaConverter.XfaParserOptions. فئة للتعامل مع تجميع البيانات ذات الصلة
+title: "Class XfaParserOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.XfaConverter.XfaParserOptions class. فئة للتعامل مع تغليف البيانات ذات الصلة"
 type: docs
-weight: 11370
+weight: 11560
 url: /ar/net/aspose.pdf.xfaconverter/xfaparseroptions/
 ---
 ## XfaParserOptions class
 
-فئة للتعامل مع تجميع البيانات ذات الصلة
+فئة للتعامل مع تغليف البيانات المتعلقة
 
 ```csharp
 public class XfaParserOptions
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [XfaParserOptions](xfaparseroptions/)(SizeF) | يقوم بتهيئة مثيل جديد من فئة `XfaParserOptions`. |
+| [XfaParserOptions](xfaparseroptions/)(SizeF) | ينشئ مثيلًا جديدًا من الفئة `XfaParserOptions`. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [BasePath](../../aspose.pdf.xfaconverter/xfaparseroptions/basepath/) { get; set; } | يحصل على أو يحدد المسار الأساسي. |
-| [EmulateRequierdGroups](../../aspose.pdf.xfaconverter/xfaparseroptions/emulaterequierdgroups/) { get; set; } | إذا كانت هذه الخاصية صحيحة، فسيتم رسم مستطيلات حمراء إضافية للمجموعات المطلوبة "المستبعدة" في Xfa. تم تقديم هذه الخاصية بسبب عدم وجود نظائر للمجموعات المستبعدة أثناء تحويل تمثيل Xfa للنماذج إلى المعايير. تكون القيمة خاطئة بشكل افتراضي. |
-| [PageSize](../../aspose.pdf.xfaconverter/xfaparseroptions/pagesize/) { get; set; } | يحصل على أو يحدد حجم الصفحة. |
-| [Signed](../../aspose.pdf.xfaconverter/xfaparseroptions/signed/) { get; set; } | إذا كانت هذه الخاصية صحيحة، فسيتم تحويل الوثيقة باستخدام تدفق نموذج xfa (إذا كان موجودًا). إذا كانت خاطئة، فسيتم تجاهل تدفق نموذج xfa. تم تقديم هذه الخاصية لأنه ليس من الواضح كيفية حساب مجموع التحقق المستخدم للتحقق من التوقيع. |
-| [UriResolver](../../aspose.pdf.xfaconverter/xfaparseroptions/uriresolver/) { get; set; } | يحصل على أو يحدد محلل URI. |
+| [BasePath](../../aspose.pdf.xfaconverter/xfaparseroptions/basepath/) { get; set; } | يحصل أو يعيّن مسار القاعدة. |
+| [EmulateRequierdGroups](../../aspose.pdf.xfaconverter/xfaparseroptions/emulaterequierdgroups/) { get; set; } | If this property is true then additional red rectangles will be drawn for required Xfa "excluded groups" This property was introduced because absences of analogues of excluded groups during conversion Xfa representation of forms to standard. It is false by default. |
+| [PageSize](../../aspose.pdf.xfaconverter/xfaparseroptions/pagesize/) { get; set; } | يحصل أو يعيّن حجم الصفحة. |
+| [Signed](../../aspose.pdf.xfaconverter/xfaparseroptions/signed/) { get; set; } | If this property is true then document will be converted with using of xfa form stream (if it exists). If it is false then xfa form stream will be ignored. This property was inrtoduced because it's not clear how to calculate check sum that used for checking sygnature. |
+| [UriResolver](../../aspose.pdf.xfaconverter/xfaparseroptions/uriresolver/) { get; set; } | يحصل أو يعيّن محلل URI. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.XfaConverter](../../aspose.pdf.xfaconverter/)
 * assembly [Aspose.PDF](../../)
+
+

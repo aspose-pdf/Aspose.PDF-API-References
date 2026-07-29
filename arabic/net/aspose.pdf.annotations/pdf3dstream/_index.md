@@ -1,9 +1,9 @@
 ---
-title: Class PDF3DStream
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.PDF3DStream. فئة PDF3DStream
+title: "الفئة PDF3DStream"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Annotations.PDF3DStream. الفئة PDF3DStream"
 type: docs
-weight: 2230
+weight: 2320
 url: /ar/net/aspose.pdf.annotations/pdf3dstream/
 ---
 ## PDF3DStream class
@@ -14,19 +14,21 @@ url: /ar/net/aspose.pdf.annotations/pdf3dstream/
 public class PDF3DStream
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [PDF3DStream](pdf3dstream/)(Document, PDF3DArtwork) | يقوم بتهيئة مثيل جديد من فئة `PDF3DStream`. |
+| [PDF3DStream](pdf3dstream/)(Document, PDF3DArtwork) | يُهيئ نسخة جديدة من الفئة `PDF3DStream`. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Content](../../aspose.pdf.annotations/pdf3dstream/content/) { get; set; } | يحصل أو يحدد المحتوى. |
+| [Content](../../aspose.pdf.annotations/pdf3dstream/content/) { get; set; } | يحصل أو يعيّن المحتوى. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

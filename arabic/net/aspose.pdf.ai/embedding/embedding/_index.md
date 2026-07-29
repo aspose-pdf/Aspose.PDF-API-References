@@ -1,14 +1,14 @@
 ---
-title: Embedding.Embedding
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ التضمين. المُنشئ الافتراضي
+title: "Embedding.Embedding"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Embedding constructor. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/embedding/embedding/
 ---
-## مُنشئ التضمين
+## Embedding constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public Embedding()
@@ -19,3 +19,5 @@ public Embedding()
 * class [Embedding](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

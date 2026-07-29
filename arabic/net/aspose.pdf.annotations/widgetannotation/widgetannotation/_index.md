@@ -1,22 +1,22 @@
 ---
-title: WidgetAnnotation.WidgetAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ WidgetAnnotation. إنشاء تعليق يُستخدم لـ Generator
+title: "WidgetAnnotation.WidgetAnnotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ WidgetAnnotation. إنشاء تعليق توضيحي يُستخدم للمولد."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/widgetannotation/widgetannotation/
 ---
-## مُنشئ WidgetAnnotation
+## WidgetAnnotation constructor
 
-إنشاء تعليق (يستخدم لـ Generator)
+إنشاء تعليقة (مستخدم لـ Generator)
 
 ```csharp
 public WidgetAnnotation(Document doc)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| doc | Document | المستند الذي سيتم إنشاء التعليق فيه. |
+| doc | Document | Document حيث سيتم إنشاء التعليق التوضيحي. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public WidgetAnnotation(Document doc)
 * class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

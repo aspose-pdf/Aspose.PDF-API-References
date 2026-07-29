@@ -1,42 +1,44 @@
 ---
-title: Class FitHExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.FitHExplicitDestination. تمثل وجهة صريحة تعرض الصفحة مع الإحداثي العمودي العلوي موضوعة عند الحافة العلوية للنافذة ومحتويات الصفحة مكبرة بما يكفي لتناسب العرض الكامل للصفحة داخل النافذة. قيمة null للإحداثي العلوي تحدد أن القيمة الحالية لذلك المعامل يجب الاحتفاظ بها دون تغيير.
+title: "الفئة FitHExplicitDestination"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Annotations.FitHExplicitDestination. تمثل وجهة صريحة تعرض الصفحة مع إحداثي عمودي top موضعًا عند الحافة العليا للنافذة ومحتويات الصفحة مكبرة بما يكفي لتلائم كامل عرض الصفحة داخل النافذة. قيمة null للـ top تشير إلى أن القيمة الحالية لهذا المعامل يجب الاحتفاظ بها دون تغيير"
 type: docs
-weight: 1770
+weight: 1860
 url: /ar/net/aspose.pdf.annotations/fithexplicitdestination/
 ---
 ## FitHExplicitDestination class
 
-تمثل وجهة صريحة تعرض الصفحة مع الإحداثي العمودي العلوي موضوعة عند الحافة العلوية للنافذة ومحتويات الصفحة مكبرة بما يكفي لتناسب العرض الكامل للصفحة داخل النافذة. قيمة null للإحداثي العلوي تحدد أن القيمة الحالية لذلك المعامل يجب الاحتفاظ بها دون تغيير.
+يمثل الوجهة الصريحة التي تعرض الصفحة مع وضع الإحداثي العمودي العلوي عند حافة النافذة العليا وتكبير محتوى الصفحة بما يكفي لتلائم العرض الكامل للصفحة داخل النافذة. قيمة null للعلوي تشير إلى أن القيمة الحالية لهذا المعامل يجب الاحتفاظ بها دون تغيير.
 
 ```csharp
 public sealed class FitHExplicitDestination : ExplicitDestination
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [FitHExplicitDestination](fithexplicitdestination/#constructor_2)(int, double) | ينشئ وجهة صريحة عن بُعد. |
 | [FitHExplicitDestination](fithexplicitdestination/#constructor_1)(Page, double) | ينشئ وجهة صريحة محلية. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | يحصل على كائن الصفحة الوجهة |
-| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | يحصل على رقم الصفحة الوجهة |
-| [Top](../../aspose.pdf.annotations/fithexplicitdestination/top/) { get; } | يحصل على الإحداثي العمودي العلوي الموضوعة عند الحافة العلوية للنافذة. |
+| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | يحصل على كائن صفحة الوجهة |
+| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | يحصل على رقم صفحة الوجهة |
+| [Top](../../aspose.pdf.annotations/fithexplicitdestination/top/) { get; } | يحصل على إحداثي العمودي الأعلى الموضع عند الحافة العليا للنافذة. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/fithexplicitdestination/tostring/)() | يحول حالة الكائن إلى قيمة سلسلة. مثال: "1 FitH 100". |
+| override [ToString](../../aspose.pdf.annotations/fithexplicitdestination/tostring/)() | تحول حالة الكائن إلى قيمة نصية. مثال: "1 FitH 100". |
 
-### See Also
+### انظر أيضًا
 
 * class [ExplicitDestination](../explicitdestination/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

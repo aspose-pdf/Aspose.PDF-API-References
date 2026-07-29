@@ -1,25 +1,27 @@
 ---
-title: JavascriptAction.JavascriptAction
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ JavascriptAction. المُنشئ
+title: "JavascriptAction.JavascriptAction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ JavascriptAction. منشئ"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/javascriptaction/javascriptaction/
 ---
-## مُنشئ JavascriptAction
+## JavascriptAction constructor
 
-المُنشئ.
+منشئ.
 
 ```csharp
 public JavascriptAction(string javaScript)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| javaScript | سلسلة | كود JavaScript. |
+| javaScript | String | كود JavaScript. |
 
 ### انظر أيضًا
 
-* الفئة [JavascriptAction](../)
-* مساحة الاسم [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* التجميع [Aspose.PDF](../../../)
+* class [JavascriptAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

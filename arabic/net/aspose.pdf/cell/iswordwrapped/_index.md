@@ -1,14 +1,14 @@
 ---
-title: Cell.IsWordWrapped
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الخلية. تحصل أو تضبط النص في الخلية مع التفاف الكلمات
+title: "Cell.IsWordWrapped"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Cell. يحصل أو يضبط ما إذا كان نص الخلية ملتفًا"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf/cell/iswordwrapped/
 ---
-## خاصية Cell.IsWordWrapped
+## Cell.IsWordWrapped property
 
-تحصل أو تضبط النص في الخلية مع التفاف الكلمات.
+الحصول أو تعيين التفاف كلمة النص في الخلية.
 
 ```csharp
 public bool IsWordWrapped { get; set; }
@@ -19,3 +19,5 @@ public bool IsWordWrapped { get; set; }
 * class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

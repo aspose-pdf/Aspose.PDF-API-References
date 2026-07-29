@@ -1,14 +1,14 @@
 ---
-title: XmpValue.ToStringValue
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XmpValue. تحويل إلى سلسلة
+title: "XmpValue.ToStringValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XmpValue. تحول إلى سلسلة"
 type: docs
 weight: 220
 url: /ar/net/aspose.pdf/xmpvalue/tostringvalue/
 ---
-## طريقة XmpValue.ToStringValue
+## XmpValue.ToStringValue method
 
-تحويل إلى سلسلة.
+يحوّل إلى سلسلة.
 
 ```csharp
 public string ToStringValue()
@@ -16,10 +16,12 @@ public string ToStringValue()
 
 ### قيمة الإرجاع
 
-قيمة سلسلة.
+قيمة نصية.
 
 ### انظر أيضًا
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

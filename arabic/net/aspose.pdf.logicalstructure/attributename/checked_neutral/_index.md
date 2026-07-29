@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Checked_neutral
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. السمة checked Neutral حالة زر الراديو أو حقل مربع الاختيار
+title: "AttributeName.Checked_neutral"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. السمة checked Neutral  حالة زر الراديو أو حقل مربع الاختيار"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf.logicalstructure/attributename/checked_neutral/
 ---
-## حقل AttributeName.Checked_neutral
+## AttributeName.Checked_neutral field
 
-السمة checked: Neutral - حالة زر الراديو أو حقل مربع الاختيار.
+السمة checked: Neutral - حالة زر الراديو أو حقل خانة الاختيار.
 
 ```csharp
 public static readonly AttributeName Checked_neutral;
@@ -19,3 +19,5 @@ public static readonly AttributeName Checked_neutral;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: PdfContentEditor.DeleteStamp
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfContentEditor. تحذف عدة طوابع على الصفحة المحددة بواسطة فهارس الطوابع
+title: "PdfContentEditor.DeleteStamp"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PdfContentEditor method. يحذف عدة طوابع على الصفحة المحددة حسب فهارس الطوابع"
 type: docs
 weight: 330
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/deletestamp/
 ---
-## طريقة PdfContentEditor.DeleteStamp
+## PdfContentEditor.DeleteStamp method
 
-تحذف عدة طوابع على الصفحة المحددة بواسطة فهارس الطوابع.
+يحذف عدة طوابع في الصفحة المحددة حسب فهارس الطوابع.
 
 ```csharp
 public void DeleteStamp(int pageNumber, int[] index)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pageNumber | Int32 | رقم الصفحة التي سيتم حذف الطابع منها. |
+| pageNumber | Int32 | رقم الصفحة التي سيتم حذف الختم منها. |
 | index | Int32[] | فهارس الطوابع. |
 
 ## أمثلة
@@ -33,3 +33,5 @@ contentEditor.Save("outfile.pdf");
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

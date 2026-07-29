@@ -1,24 +1,24 @@
 ---
-title: XImage.Save
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XImage. تحفظ بيانات الصورة في دفق كصورة JPEG
+title: "XImage.Save"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XImage. تحفظ بيانات الصورة في الدفق كصورة JPEG"
 type: docs
-weight: 150
+weight: 160
 url: /ar/net/aspose.pdf/ximage/save/
 ---
 ## Save(Stream) {#save}
 
-تحفظ بيانات الصورة في دفق كصورة JPEG.
+يحفظ بيانات الصورة في التدفق كصورة JPEG.
 
 ```csharp
 public void Save(Stream stream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | الدفق الذي ستُحفظ فيه بيانات الصورة. |
+| stream | Stream | الدفق الذي سيتم حفظ بيانات الصورة فيه. |
 
-### See Also
+### انظر أيضًا
 
 * class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -28,18 +28,18 @@ public void Save(Stream stream)
 
 ## Save(Stream, ImageFormat) {#save_2}
 
-تحفظ الصورة في دفق بالتنسيق المطلوب.
+يحفظ الصورة في التدفق بالتنسيق المطلوب.
 
 ```csharp
 public void Save(Stream stream, ImageFormat format)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | الدفق الذي ستُحفظ فيه الصورة |
-| format | ImageFormat | التنسيق الذي سيتم استخدامه لترميز الصورة. ImageFormat |
+| stream | Stream | دفق حيث سيتم حفظ الصورة |
+| format | ImageFormat | الصيغة التي ستُستخدم لترميز الصورة. ImageFormat |
 
-### See Also
+### انظر أيضًا
 
 * class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -49,18 +49,18 @@ public void Save(Stream stream, ImageFormat format)
 
 ## Save(Stream, int) {#save_1}
 
-تحفظ بيانات الصورة في دفق كصورة JPEG بدقة محددة.
+يحفظ بيانات الصورة في التدفق كصورة JPEG بدقة محددة.
 
 ```csharp
 public void Save(Stream stream, int resolution)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | الدفق الذي ستُحفظ فيه بيانات الصورة. |
+| stream | Stream | الدفق الذي سيتم حفظ بيانات الصورة فيه. |
 | resolution | Int32 | دقة الصورة |
 
-### See Also
+### انظر أيضًا
 
 * class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -70,20 +70,22 @@ public void Save(Stream stream, int resolution)
 
 ## Save(Stream, ImageFormat, int) {#save_3}
 
-تحفظ الصورة في دفق بالتنسيق المطلوب مع دقة محددة.
+يحفظ الصورة في التدفق بالتنسيق المطلوب بدقة محددة.
 
 ```csharp
 public void Save(Stream stream, ImageFormat format, int resolution)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | الدفق الذي ستُحفظ فيه الصورة |
-| format | ImageFormat | التنسيق الذي سيتم استخدامه لترميز الصورة. ImageFormat |
+| stream | Stream | دفق حيث سيتم حفظ الصورة |
+| format | ImageFormat | الصيغة التي ستُستخدم لترميز الصورة. ImageFormat |
 | resolution | Int32 | دقة الصورة |
 
-### See Also
+### انظر أيضًا
 
 * class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

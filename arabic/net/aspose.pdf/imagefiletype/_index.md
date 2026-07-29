@@ -1,14 +1,14 @@
 ---
-title: Enum ImageFileType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ImageFileType enum. تعدد أنواع ملفات الصور
+title: "تعداد ImageFileType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.ImageFileType. يعدد أنواع ملفات الصورة."
 type: docs
-weight: 5880
+weight: 6010
 url: /ar/net/aspose.pdf/imagefiletype/
 ---
-## تعداد ImageFileType
+## ImageFileType enumeration
 
-تعدد أنواع ملفات الصور.
+يسرد أنواع ملفات الصورة.
 
 ```csharp
 public enum ImageFileType
@@ -18,12 +18,14 @@ public enum ImageFileType
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| غير معروف | `0` | نوع غير معروف. |
-| Svg | `1` | نوع ملف صورة svg. |
-| Dicom | `2` | نوع ملف صورة Dicom. |
-| Base64 | `3` | نوع ملف صورة Base64. |
+| Unknown | `0` | نوع غير معروف. |
+| Svg | `1` | نوع ملف الصورة svg. |
+| Dicom | `2` | نوع ملف الصورة Dicom. |
+| Base64 | `3` | نوع ملف الصورة Base64. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

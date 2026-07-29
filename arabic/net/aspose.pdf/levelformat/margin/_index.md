@@ -1,14 +1,14 @@
 ---
-title: LevelFormat.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LevelFormat. تحصل أو تعين هامش مستوى القائمة
+title: "LevelFormat.Margin"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LevelFormat. يحصل أو يحدد هامش مستوى القائمة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/levelformat/margin/
 ---
-## خاصية LevelFormat.Margin
+## LevelFormat.Margin property
 
-تحصل أو تعين هامش مستوى القائمة
+يحصل أو يعيّن هامش مستوى القائمة
 
 ```csharp
 public MarginInfo Margin { get; set; }
@@ -20,3 +20,5 @@ public MarginInfo Margin { get; set; }
 * class [LevelFormat](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

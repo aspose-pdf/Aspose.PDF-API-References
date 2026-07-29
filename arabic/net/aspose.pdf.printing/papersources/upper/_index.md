@@ -1,14 +1,14 @@
 ---
-title: PaperSources.Upper
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSources. يمثل أعلى سلة في الطابعة أو السلة الافتراضية إذا كانت الطابعة تحتوي على سلة واحدة فقط
+title: "PaperSources.Upper"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSources حقل. يمثل الحاوية العليا للطابعة أو الحاوية الافتراضية إذا كانت الطابعة تحتوي على حاوية واحدة فقط"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.printing/papersources/upper/
 ---
-## حقل PaperSources.Upper
+## PaperSources.Upper field
 
-يمثل أعلى سلة في الطابعة، أو السلة الافتراضية إذا كانت الطابعة تحتوي على سلة واحدة فقط.
+يمثل الصندوق العلوي للطابعة، أو الصندوق الافتراضي إذا كانت الطابعة تحتوي على صندوق واحد فقط.
 
 ```csharp
 public static readonly PaperSource Upper;
@@ -20,3 +20,5 @@ public static readonly PaperSource Upper;
 * class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

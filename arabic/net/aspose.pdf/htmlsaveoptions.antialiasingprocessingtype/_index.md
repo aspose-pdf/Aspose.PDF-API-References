@@ -1,28 +1,30 @@
 ---
-title: Enum HtmlSaveOptions.AntialiasingProcessingType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsAntialiasingProcessingType enum. يصف هذا التعداد التدابير الممكنة لمكافحة التعرج أثناء التحويل
+title: "التعداد HtmlSaveOptions.AntialiasingProcessingType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.HtmlSaveOptionsAntialiasingProcessingType. يصف هذا التعداد إجراءات مكافحة التعرج الممكنة أثناء التحويل."
 type: docs
-weight: 5570
+weight: 5700
 url: /ar/net/aspose.pdf/htmlsaveoptions.antialiasingprocessingtype/
 ---
 ## HtmlSaveOptions.AntialiasingProcessingType enumeration
 
-يصف هذا التعداد التدابير الممكنة لمكافحة التعرج أثناء التحويل
+يصف هذا التعداد إجراءات مكافحة التعرج الممكنة أثناء التحويل.
 
 ```csharp
 public enum AntialiasingProcessingType
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| NoAdditionalProcessing | `0` | لا يتم استخدام معالجة خاصة لمكافحة التعرج. هذه هي الخيار الأمثل للأغلبية الساحقة من الوثائق ولا تتطلب وقتًا إضافيًا أثناء التحويل |
-| TryCorrectResultHtml | `1` | في هذه الحالة، يحاول المحول اكتشاف الأماكن التي تحتوي على عناصر رسومية خلفية متجاورة وتصحيح HTML الناتج بطريقة ذات صلة. يتيح هذا الخيار تحسين نتيجة التصدير للوثائق التي تحتوي على خلفيات مبنية من عدة عناصر رسومية متجاورة (بالنسبة لمثل هذه الوثائق، عادةً ما تحاول عارضات PDF، مثل Acrobat Reader، تنعيم حدود العناصر أثناء العرض. مع هذا الخيار، يقلد المحول سلوك عارضات PDF. يتيح هذا الخيار تحسين تخطيط نتيجة التصدير لبعض الوثائق المحددة (التي تستخدم مثل هذه الخلفيات المركبة)، ولكنه يتطلب وقتًا إضافيًا للمعالجة (عادة حوالي 10-15% من الوقت الإضافي). لذلك، فإن استخدام هذا الوضع بشكل عام غير موصى به. |
+| NoAdditionalProcessing | `0` | لا توجد معالجة خاصة لمكافحة التعرج قيد الاستخدام. هذا خيار أمثل للأغلبية الساحقة من المستندات ولا يتطلب وقتًا إضافيًا أثناء التحويل. |
+| TryCorrectResultHtml | `1` | في مثل هذه الحالة يحاول converter اكتشاف الأماكن التي تحتوي على عناصر رسومية خلفية متجاورة وتصحيح نتيجة HTML بطريقة ملائمة. يتيح هذا option تحسين نتيجة التصدير للمستندات التي تحتوي على خلفيات مكوّنة من عدة عناصر رسومية متجاورة (في مثل هذه المستندات عادةً ما تحاول عارضات PDF, مثل Acrobat Reader, تنعيم حدود العناصر أثناء العرض. باستخدام هذا option يحاكي converter سلوك عارضات PDF-renderers). يتيح هذا option تحسين تخطيط نتيجة التصدير لبعض المستندات المحددة (التي تستخدم مثل هذه الخلفيات المركبة)، لكنه يتطلب وقتًا إضافيًا للمعالجة (عادةً حوالي 10-15٪ من الوقت الإضافي). لذا لا يُنصح باستخدام هذا الوضع في الحالة العامة. |
 
-### See Also
+### انظر أيضًا
 
 * class [HtmlSaveOptions](../htmlsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

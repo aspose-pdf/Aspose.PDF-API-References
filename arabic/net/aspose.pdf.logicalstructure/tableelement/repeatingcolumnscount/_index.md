@@ -1,14 +1,14 @@
 ---
-title: TableElement.RepeatingColumnsCount
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TableElement. تحصل أو تعين الحد الأقصى لعدد الأعمدة في الجدول
+title: "TableElement.RepeatingColumnsCount"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TableElement. تحصل أو تعين الحد الأقصى لعدد الأعمدة للجدول"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf.logicalstructure/tableelement/repeatingcolumnscount/
 ---
-## خاصية TableElement.RepeatingColumnsCount
+## TableElement.RepeatingColumnsCount property
 
-تحصل أو تعين الحد الأقصى لعدد الأعمدة في الجدول.
+الحصول أو تعيين الحد الأقصى لعدد الأعمدة للجدول.
 
 ```csharp
 public int RepeatingColumnsCount { get; set; }
@@ -19,3 +19,5 @@ public int RepeatingColumnsCount { get; set; }
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

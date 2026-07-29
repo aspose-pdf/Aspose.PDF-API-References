@@ -1,7 +1,7 @@
 ---
-title: ITaggedContent.CreateBibEntryElement
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ITaggedContent. تنشئ BibEntryElement
+title: "ITaggedContent.CreateBibEntryElement"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ITaggedContent. ينشئ BibEntryElement"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.tagged/itaggedcontent/createbibentryelement/
@@ -14,13 +14,15 @@ url: /ar/net/aspose.pdf.tagged/itaggedcontent/createbibentryelement/
 public BibEntryElement CreateBibEntryElement()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-عنصر الهيكل الذي تم إنشاؤه.
+تم إنشاء عنصر بنية.
 
-### See Also
+### انظر أيضًا
 
 * class [BibEntryElement](../../../aspose.pdf.logicalstructure/bibentryelement/)
 * interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

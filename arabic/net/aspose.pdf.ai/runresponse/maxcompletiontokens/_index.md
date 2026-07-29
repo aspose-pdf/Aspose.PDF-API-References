@@ -1,14 +1,14 @@
 ---
-title: RunResponse.MaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunResponse. تحصل أو تعين الحد الأقصى لعدد رموز الإكمال المحددة التي يُفترض أنها استخدمت خلال فترة التشغيل
+title: "RunResponse.MaxCompletionTokens"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RunResponse. يحصل على أو يعيّن الحد الأقصى لعدد رموز الإكمال المحددة التي تم استخدامها خلال تشغيل العملية"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.ai/runresponse/maxcompletiontokens/
 ---
-## خاصية RunResponse.MaxCompletionTokens
+## RunResponse.MaxCompletionTokens property
 
-تحصل أو تعين الحد الأقصى لعدد رموز الإكمال المحددة التي يُفترض أنها استخدمت خلال فترة التشغيل.
+يحصل أو يعيّن الحد الأقصى لعدد رموز الإكمال المحددة التي تم استخدامها خلال تشغيل العملية.
 
 ```csharp
 public int? MaxCompletionTokens { get; set; }
@@ -19,3 +19,5 @@ public int? MaxCompletionTokens { get; set; }
 * class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

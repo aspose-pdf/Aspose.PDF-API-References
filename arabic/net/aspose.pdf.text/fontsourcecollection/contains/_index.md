@@ -1,26 +1,26 @@
 ---
-title: FontSourceCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FontSourceCollection. تحدد ما إذا كان العنصر موجودًا في المجموعة
+title: "FontSourceCollection.Contains"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FontSourceCollection. تحدد ما إذا كان العنصر موجودًا في المجموعة"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.text/fontsourcecollection/contains/
 ---
-## طريقة FontSourceCollection.Contains
+## FontSourceCollection.Contains method
 
-تحدد ما إذا كان العنصر موجودًا في المجموعة.
+يحدد ما إذا كان العنصر موجودًا في المجموعة.
 
 ```csharp
 public bool Contains(FontSource item)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| item | FontSource | كائن FontSource للبحث عنه. |
+| item | FontSource | كائن FontSource للبحث. |
 
 ### قيمة الإرجاع
 
-صحيح - إذا تم العثور على العنصر؛ خلاف ذلك، خطأ.
+True - إذا تم العثور على العنصر؛ وإلا false.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public bool Contains(FontSource item)
 * class [FontSourceCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

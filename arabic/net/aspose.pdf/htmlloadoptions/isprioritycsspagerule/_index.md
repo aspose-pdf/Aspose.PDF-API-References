@@ -1,14 +1,14 @@
 ---
-title: HtmlLoadOptions.IsPriorityCssPageRule
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية HtmlLoadOptions. تحصل أو تعين العلامة التي تحدد أن قواعد الصفحة المعرفة في css ستتجاوز القيم المعرفة في PageInfo
+title: "HtmlLoadOptions.IsPriorityCssPageRule"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "HtmlLoadOptions خاصية. يحصل أو يضبط العلامة التي تحدد أن قواعد الصفحة المعرفة في css ستتجاوز القيم المعرفة في PageInfo"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/htmlloadoptions/isprioritycsspagerule/
 ---
-## خاصية HtmlLoadOptions.IsPriorityCssPageRule
+## HtmlLoadOptions.IsPriorityCssPageRule property
 
-تحصل أو تعين العلامة التي تحدد أن قواعد @page المعرفة في css ستتجاوز القيم المعرفة في PageInfo.
+يحصل أو يضبط العلم الذي يحدد أن قواعد @page المعرفة في css ستتجاوز القيم المعرفة في PageInfo.
 
 ```csharp
 public bool IsPriorityCssPageRule { get; set; }
@@ -19,3 +19,5 @@ public bool IsPriorityCssPageRule { get; set; }
 * class [HtmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,30 +1,32 @@
 ---
-title: Color.op_Inequality
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Color. تُرجع true إذا كانت لونان غير متساويين
+title: "Color.op_Inequality"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Color. تُرجع true إذا كان لونان غير متساويين"
 type: docs
 weight: 1570
 url: /ar/net/aspose.pdf/color/op_inequality/
 ---
-## عامل عدم المساواة للون
+## Color Inequality operator
 
-تُرجع true إذا كانت لونان غير متساويين.
+يرجع true إذا كان اللونان غير متساويين.
 
 ```csharp
 public static bool operator !=(Color x, Color y)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| x | Color | كائن اللون الأول. |
-| y | Color | كائن اللون الثاني. |
+| x | Color | الكائن Color الأول. |
+| y | Color | الكائن Color الثاني. |
 
 ### قيمة الإرجاع
 
-True في حالة عدم تساوي كائنات اللون.
+True في حالة عدم تساوي كائنات Color.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

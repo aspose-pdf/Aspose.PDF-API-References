@@ -1,20 +1,20 @@
 ---
-title: PdfFileSecurity.TryDecryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileSecurity. تقوم بفك تشفير مستند Pdf مشفر بواسطة كلمة مرور المالك. إذا لم يكن لدى المستند كلمة مرور للمالك، يُسمح باستخدام كلمة مرور المستخدم. لا ترمي استثناءً إذا فشل العملية
+title: "PdfFileSecurity.TryDecryptFile"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileSecurity. تقوم بفك تشفير مستند Pdf مشفر باستخدام كلمة مرور المالك. إذا لم يحتوي المستند على كلمة مرور مالك، يُسمح باستخدام كلمة مرور المستخدم. لا تُلقي استثناءً إذا فشلت العملية"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.facades/pdffilesecurity/trydecryptfile/
 ---
-## طريقة PdfFileSecurity.TryDecryptFile
+## PdfFileSecurity.TryDecryptFile method
 
-تقوم بفك تشفير مستند Pdf مشفر بواسطة كلمة مرور المالك. إذا لم يكن لدى المستند كلمة مرور للمالك، يُسمح باستخدام كلمة مرور المستخدم. لا ترمي استثناءً إذا فشل العملية.
+يفك تشفير مستند Pdf مشفر باستخدام كلمة مرور المالك. إذا لم يكن للمستند كلمة مرور مالك، يُسمح باستخدام كلمة مرور المستخدم. لا يُطلق استثناءً إذا فشلت العملية.
 
 ```csharp
 public bool TryDecryptFile(string ownerPassword)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | ownerPassword | String | كلمة مرور المالك. |
 
@@ -43,3 +43,5 @@ Dim result As Boolean = fileSecurity.TryDecryptFile("ownerpass")
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

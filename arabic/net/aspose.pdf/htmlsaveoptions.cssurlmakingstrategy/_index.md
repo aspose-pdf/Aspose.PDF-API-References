@@ -1,26 +1,26 @@
 ---
-title: Delegate HtmlSaveOptions.CssUrlMakingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: يمكنك تعيين هذه الخاصية إلى مفوض تم إنشاؤه من طريقة مخصصة تقوم بتنفيذ إنشاء عنوان URL لـ CSS المشار إليه في وثيقة HTML الناتجة. على سبيل المثال، إذا كنت تريد جعل CSS المشار إليه في HTML مثل "otherPage.ASPXCssIDzjjkklj" فإن هذه الاستراتيجية المخصصة يجب أن تعيد "otherPage.ASPXCssIDzjjkklj"
+title: "Delegate HtmlSaveOptions.CssUrlMakingStrategy"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "يمكنك تعيين لهذا الخاصية delegate تم إنشاؤه من طريقة مخصصة تنفّذ إنشاء عنوان URL لملف CSS المشار إليه في مستند HTML المُولَّد. على سبيل المثال، إذا كنت تريد جعل CSS مشارًا إليه في HTML على سبيل المثال كـ otherPage.ASPXCssIDzjjkklj، فيجب أن تُعيد هذه الاستراتيجية المخصصة otherPage.ASPXCssIDzjjkklj"
 type: docs
-weight: 5600
+weight: 5730
 url: /ar/net/aspose.pdf/htmlsaveoptions.cssurlmakingstrategy/
 ---
-## مفوض HtmlSaveOptions.CssUrlMakingStrategy
+## HtmlSaveOptions.CssUrlMakingStrategy delegate
 
-يمكنك تعيين هذه الخاصية إلى مفوض تم إنشاؤه من طريقة مخصصة تقوم بتنفيذ إنشاء عنوان URL لـ CSS المشار إليه في وثيقة HTML الناتجة. على سبيل المثال، إذا كنت تريد جعل CSS المشار إليه في HTML مثل "otherPage.ASPX?CssID=zjjkklj" فإن هذه الاستراتيجية المخصصة يجب أن تعيد "otherPage.ASPX?CssID=zjjkklj"
+يمكنك تعيين لهذا الخاصية delegate تم إنشاؤه من طريقة مخصصة تنفّذ إنشاء عنوان URL لملف CSS المشار إليه في مستند HTML المُولَّد. على سبيل المثال، إذا كنت تريد جعل CSS مشارًا إليه في HTML على سبيل المثال كـ "otherPage.ASPX?CssID=zjjkklj"، فيجب أن تُعيد هذه الاستراتيجية المخصصة "otherPage.ASPX?CssID=zjjkklj".
 
 ```csharp
 public delegate string CssUrlMakingStrategy(CssUrlRequestInfo cssUrlRequestInfo);
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| cssUrlRequestInfo | CssUrlRequestInfo | يمثل مجموعة من البيانات التي يمكن استخدامها لإنشاء عنوان URL لـ CSS |
+| cssUrlRequestInfo | CssUrlRequestInfo | يمثّل مجموعة من البيانات التي يمكن استخدامها لإنشاء عنوان URL لملف CSS. |
 
 ### قيمة الإرجاع
 
-يجب أن تعيد سلسلة تمثل عنوان URL لـ CSS أو قالب عنوان URL
+يجب أن تُعيد سلسلة تمثّل عنوان URL لملف CSS أو قالب URL.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public delegate string CssUrlMakingStrategy(CssUrlRequestInfo cssUrlRequestInfo)
 * class [HtmlSaveOptions](../htmlsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

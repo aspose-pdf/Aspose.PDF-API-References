@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.ExtractLink
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfContentEditor. تستخرج مجموعة من مثيلات Link الموجودة في مستند PDF
+title: "PdfContentEditor.ExtractLink"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfContentEditor. تستخرج مجموعة كائنات Link الموجودة في مستند PDF"
 type: docs
 weight: 370
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/extractlink/
 ---
-## طريقة PdfContentEditor.ExtractLink
+## PdfContentEditor.ExtractLink method
 
-تستخرج مجموعة من مثيلات Link الموجودة في مستند PDF.
+يستخرج مجموعة كائنات الرابط الموجودة في مستند PDF.
 
 ```csharp
 public IList<Annotation> ExtractLink()
@@ -16,7 +16,7 @@ public IList<Annotation> ExtractLink()
 
 ### قيمة الإرجاع
 
-مجموعة من كائنات Link
+مجموعة كائنات Link
 
 ## أمثلة
 
@@ -27,7 +27,7 @@ IList links = editor.ExtractLink();
 foreach (object obj in links)
 {
     Link link = (Link)obj;
-    // work with Link instance
+    // العمل مع كائن Link
 }
 ```
 
@@ -37,3 +37,5 @@ foreach (object obj in links)
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PageInformationAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageInformationAnnotation. تحصل على نوع التعليق
+title: "PageInformationAnnotation.AnnotationType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageInformationAnnotation. يحصل على نوع التعليق"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/pageinformationannotation/annotationtype/
 ---
-## خاصية PageInformationAnnotation.AnnotationType
+## PageInformationAnnotation.AnnotationType property
 
-تحصل على نوع التعليق.
+الحصول على نوع التعليقة.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [PageInformationAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

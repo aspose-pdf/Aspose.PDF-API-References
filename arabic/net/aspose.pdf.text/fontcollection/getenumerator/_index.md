@@ -1,14 +1,14 @@
 ---
-title: FontCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FontCollection. تُرجع عدادًا للمجموعة بأكملها
+title: "FontCollection.GetEnumerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FontCollection. تُعيد مُعدِّدًا للمجموعة بالكامل"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.text/fontcollection/getenumerator/
 ---
-## طريقة FontCollection.GetEnumerator
+## FontCollection.GetEnumerator method
 
-تُرجع عدادًا للمجموعة بأكملها.
+يرجع عدّادًا للمجموعة بالكامل.
 
 ```csharp
 public IEnumerator<Font> GetEnumerator()
@@ -16,7 +16,7 @@ public IEnumerator<Font> GetEnumerator()
 
 ### قيمة الإرجاع
 
-كائن العداد.
+Enumerator object.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public IEnumerator<Font> GetEnumerator()
 * class [FontCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

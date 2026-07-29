@@ -1,25 +1,25 @@
 ---
-title: Document.Merge
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة المستند. دمج المستندات
+title: "Document.Merge"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Document. دمج المستندات."
 type: docs
-weight: 740
+weight: 760
 url: /ar/net/aspose.pdf/document/merge/
 ---
 ## Merge(MergeOptions, params Document[]) {#merge_1}
 
-دمج المستندات.
+يدمج المستندات.
 
 ```csharp
 public void Merge(MergeOptions mergeOptions, params Document[] documents)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | mergeOptions | MergeOptions | خيارات الدمج. |
-| documents | Document[] | المستندات التي سيتم دمجها. |
+| المستندات | Document[] | المستندات للدمج. |
 
-### See Also
+### انظر أيضًا
 
 * class [MergeOptions](../../document.mergeoptions/)
 * class [Document](../)
@@ -30,18 +30,18 @@ public void Merge(MergeOptions mergeOptions, params Document[] documents)
 
 ## Merge(MergeOptions, params string[]) {#merge_2}
 
-دمج المستندات.
+يدمج المستندات.
 
 ```csharp
 public void Merge(MergeOptions mergeOptions, params string[] files)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | mergeOptions | MergeOptions | خيارات الدمج. |
-| files | String[] | ملفات pdf التي سيتم دمجها. |
+| الملفات | String[] | ملفات pdf للدمج. |
 
-### See Also
+### انظر أيضًا
 
 * class [MergeOptions](../../document.mergeoptions/)
 * class [Document](../)
@@ -52,17 +52,17 @@ public void Merge(MergeOptions mergeOptions, params string[] files)
 
 ## Merge(params Document[]) {#merge}
 
-دمج المستندات.
+يدمج المستندات.
 
 ```csharp
 public void Merge(params Document[] documents)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| documents | Document[] | المستندات التي سيتم دمجها. |
+| المستندات | Document[] | المستندات للدمج. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -72,18 +72,20 @@ public void Merge(params Document[] documents)
 
 ## Merge(params string[]) {#merge_3}
 
-دمج ملفات pdf.
+يدمج ملفات pdf.
 
 ```csharp
 public void Merge(params string[] files)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| files | String[] | ملفات pdf التي سيتم دمجها. |
+| الملفات | String[] | ملفات pdf للدمج. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

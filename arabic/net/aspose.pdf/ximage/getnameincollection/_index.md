@@ -1,25 +1,27 @@
 ---
-title: XImage.GetNameInCollection
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XImage. تعيد اسم الصورة في مجموعتها
+title: "XImage.GetNameInCollection"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XImage. تُرجع اسم الصورة في مجموعتها"
 type: docs
-weight: 110
+weight: 120
 url: /ar/net/aspose.pdf/ximage/getnameincollection/
 ---
 ## XImage.GetNameInCollection method
 
-تعيد اسم الصورة في مجموعتها.
+يرجع اسم الصورة في مجموعتها.
 
 ```csharp
 public string GetNameInCollection()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
 مفتاح الصورة (الاسم).
 
-### See Also
+### انظر أيضًا
 
 * class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

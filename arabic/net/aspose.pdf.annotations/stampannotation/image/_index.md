@@ -1,14 +1,14 @@
 ---
-title: StampAnnotation.Image
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StampAnnotation. تحصل أو تعين صورة التعليق
+title: "StampAnnotation.Image"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StampAnnotation. تحصل أو تعيين صورة التعليق التوضيحي"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/stampannotation/image/
 ---
-## خاصية StampAnnotation.Image
+## StampAnnotation.Image property
 
-تحصل أو تعين صورة التعليق.
+يحصل أو يعيّن صورة التعليق.
 
 ```csharp
 public Stream Image { get; set; }
@@ -19,3 +19,5 @@ public Stream Image { get; set; }
 * class [StampAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

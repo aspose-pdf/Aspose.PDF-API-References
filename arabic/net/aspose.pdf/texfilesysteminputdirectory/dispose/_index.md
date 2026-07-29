@@ -1,14 +1,14 @@
 ---
-title: TeXFileSystemInputDirectory.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TeXFileSystemInputDirectory. يتخلص من الحالة
+title: "TeXFileSystemInputDirectory.Dispose"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TeXFileSystemInputDirectory. تُفرغ المثيل"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/texfilesysteminputdirectory/dispose/
 ---
-## طريقة TeXFileSystemInputDirectory.Dispose
+## TeXFileSystemInputDirectory.Dispose method
 
-يتخلص من الحالة.
+يلغي المثيل.
 
 ```csharp
 public virtual void Dispose()
@@ -19,3 +19,5 @@ public virtual void Dispose()
 * class [TeXFileSystemInputDirectory](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

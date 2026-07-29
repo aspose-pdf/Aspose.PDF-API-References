@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.BBox
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeKey. خاصية BBox مالك خاصية التخطيط
+title: "AttributeKey.BBox"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeKey. سمة BBox سمة Layout المالك"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/bbox/
 ---
-## حقل AttributeKey.BBox
+## AttributeKey.BBox field
 
-خاصية BBox (مالك خاصية التخطيط).
+خاصية BBox (مالك خاصية Layout).
 
 ```csharp
 public static readonly AttributeKey BBox;
@@ -19,3 +19,5 @@ public static readonly AttributeKey BBox;
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,26 @@
 ---
-title: ArtifactCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ArtifactCollection. يحصل على الأثر حسب الفهرس. يبدأ الفهرس من 1
+title: "ArtifactCollection.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ArtifactCollection. يحصل على العنصر حسب الفهرس. الفهرس يبدأ من 1"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/artifactcollection/item/
 ---
-## فهرس ArtifactCollection
+## ArtifactCollection indexer
 
-يحصل على الأثر حسب الفهرس. يبدأ الفهرس من 1.
+يحصل على الأداة حسب الفهرس. الفهرس يبدأ من 1.
 
 ```csharp
 public Artifact this[int index] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| الفهرس | فهرس الأثر. |
+| index | فهرس العنصر. |
 
 ### قيمة الإرجاع
 
-الأثر على الصفحة.
+العنصر على الصفحة.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public Artifact this[int index] { get; }
 * class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Interface ITeXOutputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.ITeXOutputDirectory. واجهة دليل إخراج TeX العام
+title: "واجهة ITeXOutputDirectory"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "واجهة Aspose.Pdf.ITeXOutputDirectory. واجهة دليل إخراج TeX العام."
 type: docs
-weight: 5830
+weight: 5960
 url: /ar/net/aspose.pdf/itexoutputdirectory/
 ---
-## واجهة ITeXOutputDirectory
+## ITeXOutputDirectory interface
 
 واجهة دليل إخراج TeX العام.
 
@@ -18,10 +18,12 @@ public interface ITeXOutputDirectory : ITeXInputDirectory
 
 | الاسم | الوصف |
 | --- | --- |
-| [GetOutputFile](../../aspose.pdf/itexoutputdirectory/getoutputfile/)(string, out string) | يعيد الدفق للكتابة إليه. |
+| [GetOutputFile](../../aspose.pdf/itexoutputdirectory/getoutputfile/)(string, out string) | يعيد التدفق للكتابة إليه. |
 
 ### انظر أيضًا
 
-* واجهة [ITeXInputDirectory](../itexinputdirectory/)
-* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* interface [ITeXInputDirectory](../itexinputdirectory/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

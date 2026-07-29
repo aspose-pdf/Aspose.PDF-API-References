@@ -1,14 +1,14 @@
 ---
-title: Stamp.RightMargin
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الطابع. تحصل أو تعين الهامش الأيمن للطابع
+title: "Stamp.RightMargin"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Stamp. تحصل أو تعيين الهامش الأيمن للطابع"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/stamp/rightmargin/
 ---
-## خاصية Stamp.RightMargin
+## Stamp.RightMargin property
 
-تحصل أو تعين الهامش الأيمن للطابع.
+يحصل أو يضبط الهامش الأيمن للطابع.
 
 ```csharp
 public double RightMargin { get; set; }
@@ -19,3 +19,5 @@ public double RightMargin { get; set; }
 * class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

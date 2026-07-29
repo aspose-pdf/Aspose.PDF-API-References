@@ -1,12 +1,12 @@
 ---
-title: Collection.Collection
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ Collection. يُهيئ كائن Collection جديد
+title: "Collection.Collection"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Collection. يهيئ كائن Collection جديد"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/collection/collection/
 ---
-## مُنشئ Collection
+## Collection constructor
 
 يُهيئ كائن Collection جديد.
 
@@ -19,3 +19,5 @@ public Collection()
 * class [Collection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

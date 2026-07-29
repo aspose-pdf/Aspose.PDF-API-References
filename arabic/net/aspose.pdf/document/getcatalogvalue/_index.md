@@ -1,29 +1,31 @@
 ---
-title: Document.GetCatalogValue
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الوثيقة. تعيد قيمة العنصر من قاموس الكتالوج
+title: "Document.GetCatalogValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Document. تُرجع قيمة العنصر من قاموس الفهرس"
 type: docs
-weight: 670
+weight: 690
 url: /ar/net/aspose.pdf/document/getcatalogvalue/
 ---
 ## Document.GetCatalogValue method
 
-تعيد قيمة العنصر من قاموس الكتالوج.
+إرجاع قيمة العنصر من قاموس الفهرس.
 
 ```csharp
 public object GetCatalogValue(string key)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| key | String | مفتاح العنصر. |
+| المفتاح | String | مفتاح العنصر. |
 
-### Return Value
+### قيمة الإرجاع
 
-قيمة العنصر - إذا تم العثور على المفتاح بنجاح؛ خلاف ذلك، null.
+قيمة العنصر - إذا تم العثور على المفتاح بنجاح؛ وإلا، null.
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

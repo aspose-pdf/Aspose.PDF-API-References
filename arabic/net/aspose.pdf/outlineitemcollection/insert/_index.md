@@ -1,26 +1,28 @@
 ---
-title: OutlineItemCollection.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OutlineItemCollection. تُدرج عنصر المخطط في المجموعة في المكان المحدد
+title: "OutlineItemCollection.Insert"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OutlineItemCollection. تُدرج العنصر في المجموعة في الموضع المحدد"
 type: docs
 weight: 280
 url: /ar/net/aspose.pdf/outlineitemcollection/insert/
 ---
-## طريقة OutlineItemCollection.Insert
+## OutlineItemCollection.Insert method
 
-تُدرج عنصر المخطط في المجموعة في المكان المحدد.
+يدرج عنصر المخطط في المجموعة في المكان المحدد.
 
 ```csharp
 public void Insert(int index, OutlineItemCollection outline)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | الفهرس الذي يحدد المكان للإدراج. |
-| outline | OutlineItemCollection | يجب إدراج عنصر المخطط. |
+| index | Int32 | الفهرس الذي يحدد الموضع للإدراج. |
+| مخطط | OutlineItemCollection | يجب إدراج العنصر في المخطط. |
 
 ### انظر أيضًا
 
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

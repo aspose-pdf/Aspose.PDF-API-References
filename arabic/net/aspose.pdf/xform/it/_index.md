@@ -1,14 +1,14 @@
 ---
-title: XForm.IT
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XForm. تحصل على النموذج IT. النموذج IT هو اسم يصف نية XObject
+title: "XForm.IT"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XForm. تسترجع IT النموذج. IT النموذج هو اسم يصف نية XObject"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/xform/it/
 ---
-## خاصية XForm.IT
+## XForm.IT property
 
-تحصل على النموذج IT. النموذج IT هو اسم يصف نية XObject.
+يحصل على Form IT. Form IT هو اسم يصف هدف XObject.
 
 ```csharp
 public string IT { get; }
@@ -19,3 +19,5 @@ public string IT { get; }
 * class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

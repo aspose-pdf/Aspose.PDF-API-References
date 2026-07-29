@@ -1,14 +1,14 @@
 ---
-title: Class Graph
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Drawing.Graph. تمثل فقرة مولد الرسوم البيانية
+title: "فئة Graph"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Drawing.Graph. تمثّل رسمًا بيانيًا وفقرة مولد الرسومات"
 type: docs
-weight: 3940
+weight: 4060
 url: /ar/net/aspose.pdf.drawing/graph/
 ---
-## فئة الرسم البياني
+## Graph class
 
-تمثل الرسم البياني - مولد الرسوم البيانية.
+يمثل الرسم البياني - فقرة مولد الرسومات.
 
 ```csharp
 public sealed class Graph : BaseParagraph
@@ -18,30 +18,30 @@ public sealed class Graph : BaseParagraph
 
 | الاسم | الوصف |
 | --- | --- |
-| [Graph](graph/#constructor)(double, double) | يقوم بتهيئة مثيل جديد من فئة `Graph`. |
+| [Graph](graph/#constructor)(double, double) | يُنشئ مثيلًا جديدًا للفئة `Graph`. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Border](../../aspose.pdf.drawing/graph/border/) { get; set; } | يحصل أو يحدد الحدود. |
-| [GraphInfo](../../aspose.pdf.drawing/graph/graphinfo/) { get; set; } | يحصل أو يحدد كائن [`GraphInfo`](./graphinfo/) الذي يشير إلى معلومات الرسم البياني، مثل اللون، عرض الخط، إلخ. |
-| [Height](../../aspose.pdf.drawing/graph/height/) { get; set; } | يحصل أو يحدد قيمة عائمة تشير إلى ارتفاع الرسم البياني. الوحدة هي نقطة. |
-| virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment/) { get; set; } | يحصل أو يحدد محاذاة أفقية للفقرة |
-| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink/) { get; set; } | يحصل أو يحدد رابط الفقرة (لمولد PDF). |
-| [IsChangePosition](../../aspose.pdf.drawing/graph/ischangeposition/) { get; set; } | يحصل أو يحدد تغيير الموضع الحالي بعد معالجة الفقرة. (القيمة الافتراضية صحيحة) |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | يحصل أو يحدد قيمة بوليانية تشير إلى ما إذا كانت هذه الفقرة ستكون في العمود التالي. القيمة الافتراضية هي خاطئة. (لتوليد PDF) |
-| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | يحصل أو يحدد ما إذا كانت الفقرة في السطر. القيمة الافتراضية هي خاطئة. (لتوليد PDF) |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | يحصل أو يحدد قيمة بوليانية تجبر هذه الفقرة على التوليد في صفحة جديدة. القيمة الافتراضية هي خاطئة. (لتوليد PDF) |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | يحصل أو يحدد قيمة بوليانية تشير إلى ما إذا كانت الفقرة الحالية ستبقى في نفس الصفحة مع الفقرة التالية. القيمة الافتراضية هي خاطئة. (لتوليد PDF) |
-| [Left](../../aspose.pdf.drawing/graph/left/) { get; set; } | يحصل أو يحدد إحداثي اليسار للجدول. |
-| [Margin](../../aspose.pdf/baseparagraph/margin/) { get; set; } | يحصل أو يحدد هامش خارجي للفقرة (لتوليد PDF) |
-| [Shapes](../../aspose.pdf.drawing/graph/shapes/) { get; set; } | يحصل أو يحدد مجموعة [`Shapes`](./shapes/) التي تشير إلى جميع الأشكال في الرسم البياني. |
-| [Title](../../aspose.pdf.drawing/graph/title/) { get; set; } | يحصل أو يحدد قيمة سلسلة تشير إلى عنوان الرسم البياني. |
-| [Top](../../aspose.pdf.drawing/graph/top/) { get; set; } | يحصل أو يحدد إحداثي الأعلى للجدول. |
-| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment/) { get; set; } | يحصل أو يحدد محاذاة عمودية للفقرة |
-| [Width](../../aspose.pdf.drawing/graph/width/) { get; set; } | يحصل أو يحدد قيمة عائمة تشير إلى عرض الرسم البياني. الوحدة هي نقطة. |
-| [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | يحصل أو يحدد قيمة صحيحة تشير إلى ترتيب Z للرسم البياني. سيتم وضع الرسم البياني ذو ZIndex أكبر فوق الرسم البياني ذو ZIndex أصغر. يمكن أن تكون ZIndex سلبية. سيتم وضع الرسم البياني ذو ZIndex سلبية خلف النص في الصفحة. |
+| [Border](../../aspose.pdf.drawing/graph/border/) { get; set; } | يحصل أو يعيّن الحد. |
+| [GraphInfo](../../aspose.pdf.drawing/graph/graphinfo/) { get; set; } | يحصل أو يعيّن كائنًا [`GraphInfo`](./graphinfo/) يشير إلى معلومات الرسم البياني، مثل اللون، عرض الخط، إلخ. |
+| [Height](../../aspose.pdf.drawing/graph/height/) { get; set; } | يحصل أو يعيّن قيمة عائمة تشير إلى ارتفاع الرسم البياني. الوحدة هي النقطة. |
+| virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment/) { get; set; } | يحصل أو يعيّن محاذاة أفقية للفقرة |
+| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink/) { get; set; } | الحصول على أو تعيين ارتباط الفقرة (لمولد PDF). |
+| [IsChangePosition](../../aspose.pdf.drawing/graph/ischangeposition/) { get; set; } | يحصل أو يعيّن تغيير الموضع الحالي بعد معالجة الفقرة. (القيمة الافتراضية true) |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | الحصول على أو تعيين قيمة bool تشير إلى ما إذا كان هذا الفقرة سيظهر في العمود التالي. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | الحصول على أو تعيين ما إذا كانت الفقرة مضمنة. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | الحصول على أو تعيين قيمة bool تجبر هذه الفقرة على الإنشاء في صفحة جديدة. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | الحصول على أو تعيين قيمة bool تشير إلى ما إذا كانت الفقرة الحالية تبقى في نفس الصفحة مع الفقرة التالية. القيمة الافتراضية هي false. (لإنشاء PDF) |
+| [Left](../../aspose.pdf.drawing/graph/left/) { get; set; } | يحصل أو يعيّن إحداثي اليسار للجدول. |
+| [Margin](../../aspose.pdf/baseparagraph/margin/) { get; set; } | يحصل أو يعيّن هامشًا خارجيًا للفقرة (لإنشاء PDF) |
+| [Shapes](../../aspose.pdf.drawing/graph/shapes/) { get; set; } | يحصل أو يعيّن مجموعة [`Shapes`](./shapes/) التي تشير إلى جميع الأشكال في الرسم البياني. |
+| [Title](../../aspose.pdf.drawing/graph/title/) { get; set; } | يحصل أو يعيّن قيمة نصية تشير إلى عنوان الرسم البياني. |
+| [Top](../../aspose.pdf.drawing/graph/top/) { get; set; } | يحصل أو يعيّن إحداثي أعلى الجدول. |
+| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment/) { get; set; } | يحصل أو يعيّن محاذاة عمودية للفقرة |
+| [Width](../../aspose.pdf.drawing/graph/width/) { get; set; } | يحصل أو يعيّن قيمة عائمة تشير إلى عرض الرسم البياني. الوحدة هي النقطة. |
+| [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | يحصل أو يعيّن قيمة عددية تشير إلى ترتيب Z للرسم البياني. الرسم البياني ذو ZIndex أكبر سيُوضع فوق الرسم البياني ذو ZIndex أصغر. يمكن أن يكون ZIndex سالبًا. الرسم البياني ذو ZIndex سالب سيُوضع خلف النص في الصفحة. |
 
 ## الطرق
 
@@ -51,6 +51,8 @@ public sealed class Graph : BaseParagraph
 
 ### انظر أيضًا
 
-* فئة [BaseParagraph](../../aspose.pdf/baseparagraph/)
-* مساحة الأسماء [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* التجميع [Aspose.PDF](../../)
+* class [BaseParagraph](../../aspose.pdf/baseparagraph/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

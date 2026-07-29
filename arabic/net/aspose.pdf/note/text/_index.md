@@ -1,14 +1,14 @@
 ---
-title: Note.Text
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الملاحظة. تحصل أو تعين نص الملاحظة
+title: "Note.Text"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Note. يحصل على أو يضبط نص الملاحظة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/note/text/
 ---
-## خاصية Note.Text
+## Note.Text property
 
-تحصل أو تعين نص الملاحظة.
+يحصل أو يعيّن نص الملاحظة.
 
 ```csharp
 public string Text { get; set; }
@@ -19,3 +19,5 @@ public string Text { get; set; }
 * class [Note](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

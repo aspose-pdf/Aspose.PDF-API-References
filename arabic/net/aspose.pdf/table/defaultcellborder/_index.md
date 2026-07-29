@@ -1,14 +1,14 @@
 ---
-title: Table.DefaultCellBorder
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الجدول. تحصل على حدود الخلايا الافتراضية
+title: "Table.DefaultCellBorder"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Table. تحصل على حد الخلية الافتراضي."
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf/table/defaultcellborder/
 ---
-## خاصية Table.DefaultCellBorder
+## Table.DefaultCellBorder property
 
-تحصل على حدود الخلايا الافتراضية;
+يحصل على حد الخلية الافتراضي؛
 
 ```csharp
 public BorderInfo DefaultCellBorder { get; set; }
@@ -20,3 +20,5 @@ public BorderInfo DefaultCellBorder { get; set; }
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. تزيل جميع حقول النموذج وتضع قيمها مباشرة على الصفحة
+title: "Form.Flatten"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. يزيل جميع حقول النموذج ويضع قيمها مباشرة على الصفحة."
 type: docs
-weight: 250
+weight: 270
 url: /ar/net/aspose.pdf.forms/form/flatten/
 ---
-## طريقة Form.Flatten
+## Form.Flatten method
 
-تزيل جميع حقول النموذج وتضع قيمها مباشرة على الصفحة.
+يزيل جميع حقول النموذج ويضع قيمها مباشرة على الصفحة.
 
 ```csharp
 public void Flatten()
@@ -19,3 +19,5 @@ public void Flatten()
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

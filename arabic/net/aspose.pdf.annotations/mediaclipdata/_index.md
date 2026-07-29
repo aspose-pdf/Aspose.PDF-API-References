@@ -1,27 +1,29 @@
 ---
-title: Class MediaClipData
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.MediaClipData. تصف الفئة بيانات مقطع الوسائط
+title: "فئة MediaClipData"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Annotations.MediaClipData فئة. الفئة تصف بيانات مقطع الوسائط"
 type: docs
-weight: 2080
+weight: 2170
 url: /ar/net/aspose.pdf.annotations/mediaclipdata/
 ---
 ## MediaClipData class
 
-تصف الفئة بيانات مقطع الوسائط.
+فئة تصف بيانات مقطع وسائط.
 
 ```csharp
 public class MediaClipData : MediaClip
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [Data](../../aspose.pdf.annotations/mediaclipdata/data/) { get; } | إرجاع مواصفات الملف التي تحتوي على بيانات الوسائط الفعلية. |
 
-### See Also
+### انظر أيضًا
 
 * class [MediaClip](../mediaclip/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

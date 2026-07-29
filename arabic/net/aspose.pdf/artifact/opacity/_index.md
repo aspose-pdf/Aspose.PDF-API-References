@@ -1,14 +1,14 @@
 ---
-title: Artifact.Opacity
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الأرتيفكت. تحصل أو تعين شفافية الأرتيفكت. القيم الممكنة تتراوح بين 0..1
+title: "Artifact.Opacity"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Artifact. يحصل أو يضبط شفافية العنصر. القيم الممكنة في النطاق 0..1"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf/artifact/opacity/
 ---
-## خاصية Artifact.Opacity
+## Artifact.Opacity property
 
-تحصل أو تعين شفافية الأرتيفكت. القيم الممكنة تتراوح بين 0..1.
+يحصل أو يضبط شفافية القطعة. القيم الممكنة في النطاق 0..1.
 
 ```csharp
 public double Opacity { get; set; }
@@ -19,3 +19,5 @@ public double Opacity { get; set; }
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

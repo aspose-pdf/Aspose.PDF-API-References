@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.BorderColor
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormFieldFacade. لون حدود الحقل
+title: "FormFieldFacade.BorderColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormFieldFacade. لون حد الحقل"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.facades/formfieldfacade/bordercolor/
 ---
-## خاصية FormFieldFacade.BorderColor
+## FormFieldFacade.BorderColor property
 
-لون حدود الحقل.
+لون حد الحقل.
 
 ```csharp
 public Color BorderColor { get; set; }
@@ -19,3 +19,5 @@ public Color BorderColor { get; set; }
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

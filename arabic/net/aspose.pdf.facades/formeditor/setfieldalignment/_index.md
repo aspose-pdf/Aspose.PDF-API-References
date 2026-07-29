@@ -1,27 +1,27 @@
 ---
-title: FormEditor.SetFieldAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormEditor. تعيين نمط محاذاة حقل النص
+title: "FormEditor.SetFieldAlignment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FormEditor. تعيين نمط محاذاة حقل النص"
 type: docs
 weight: 260
 url: /ar/net/aspose.pdf.facades/formeditor/setfieldalignment/
 ---
-## طريقة FormEditor.SetFieldAlignment
+## FormEditor.SetFieldAlignment method
 
-تعيين نمط محاذاة حقل النص.
+حدد نمط المحاذاة لحقل النص.
 
 ```csharp
 public bool SetFieldAlignment(string fieldName, int alignment)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fieldName | String | اسم الحقل المؤهل. |
 | alignment | Int32 | تعريف نمط المحاذاة، بما في ذلك FormFieldFacade.AlignLeft و FormFieldFacade.AlignCenter و FormFieldFacade.AlignRight. |
 
 ### قيمة الإرجاع
 
-true إذا تم العثور على الحقل وتم تعيين المحاذاة.
+صحيح إذا تم العثور على الحقل وتم تعيين المحاذاة.
 
 ## أمثلة
 
@@ -35,3 +35,5 @@ fe.SetFieldAlignment("form1[0].TextField[0]", FormFieldFacade.AlignLeft);
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

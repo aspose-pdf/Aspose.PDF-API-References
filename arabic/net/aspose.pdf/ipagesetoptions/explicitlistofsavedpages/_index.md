@@ -1,14 +1,14 @@
 ---
-title: IPageSetOptions.ExplicitListOfSavedPages
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية IPageSetOptions. تحدد مصفوفة أرقام الصفحات للتحويل
+title: "IPageSetOptions.ExplicitListOfSavedPages"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية IPageSetOptions. تحدد مصفوفة أرقام الصفحات للتحويل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/ipagesetoptions/explicitlistofsavedpages/
 ---
-## خاصية IPageSetOptions.ExplicitListOfSavedPages
+## IPageSetOptions.ExplicitListOfSavedPages property
 
-تحدد مصفوفة أرقام الصفحات للتحويل.
+يحدد مصفوفة أرقام الصفحات المراد تحويلها.
 
 ```csharp
 public int[] ExplicitListOfSavedPages { get; set; }
@@ -16,6 +16,8 @@ public int[] ExplicitListOfSavedPages { get; set; }
 
 ### انظر أيضًا
 
-* واجهة [IPageSetOptions](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IPageSetOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

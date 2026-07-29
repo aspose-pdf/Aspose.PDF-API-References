@@ -1,25 +1,27 @@
 ---
-title: GS.GS
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ GS. يقوم بتهيئة مشغل gs
+title: "GS.GS"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ GS. يهيئ المشغل gs"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/gs/gs/
 ---
-## مُنشئ GS
+## GS constructor
 
-يقوم بتهيئة مشغل gs.
+يُهيّئ عامل gs.
 
 ```csharp
 public GS(string name)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الاسم | سلسلة | اسم حالة الرسوميات. |
+| الاسم | String | اسم الحالة الرسومية. |
 
 ### انظر أيضًا
 
-* الفئة [GS](../)
-* مساحة الاسم [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* التجميع [Aspose.PDF](../../../)
+* class [GS](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

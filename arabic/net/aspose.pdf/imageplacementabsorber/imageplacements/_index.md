@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementAbsorber.ImagePlacements
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ImagePlacementAbsorber. تحصل على مجموعة من حالات وضع الصورة التي يتم تقديمها مع كائنات ImagePlacement
+title: "ImagePlacementAbsorber.ImagePlacements"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ImagePlacementAbsorber. تحصل على مجموعة من حالات وضع الصور التي يتم تمثيلها بكائنات ImagePlacement"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/imageplacementabsorber/imageplacements/
 ---
-## خاصية ImagePlacementAbsorber.ImagePlacements
+## ImagePlacementAbsorber.ImagePlacements property
 
-تحصل على مجموعة من حالات وضع الصورة التي يتم تقديمها مع [`ImagePlacement`](../../imageplacement/) كائنات.
+يحصل على مجموعة من حالات وضع الصور التي يتم تمثيلها بكائنات [`ImagePlacement`](../../imageplacement/)
 
 ```csharp
 public ImagePlacementCollection ImagePlacements { get; }
@@ -20,3 +20,5 @@ public ImagePlacementCollection ImagePlacements { get; }
 * class [ImagePlacementAbsorber](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

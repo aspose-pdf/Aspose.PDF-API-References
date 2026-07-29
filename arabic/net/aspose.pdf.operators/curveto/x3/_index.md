@@ -1,14 +1,14 @@
 ---
-title: CurveTo.X3
-second_title: Aspose.PDF for .NET API Reference
-description: حقل CurveTo. يحصل أو يحدد إحداثي X3
+title: "CurveTo.X3"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل CurveTo. يحصل على أو يضبط إحداثي X3"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.operators/curveto/x3/
 ---
-## حقل CurveTo.X3
+## CurveTo.X3 field
 
-يحصل أو يحدد إحداثي X3.
+يحصل أو يعيّن إحداثي X3.
 
 ```csharp
 public double X3;
@@ -19,3 +19,5 @@ public double X3;
 * class [CurveTo](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: MarkupSection.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MarkupSection. مجموعة من كائنات MarkupParagraph التي توجد داخل القسم
+title: "MarkupSection.Paragraphs"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MarkupSection. مجموعة من كائنات MarkupParagraph الموجودة داخل القسم"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.text/markupsection/paragraphs/
 ---
-## خاصية MarkupSection.Paragraphs
+## MarkupSection.Paragraphs property
 
-مجموعة من [`MarkupParagraph`](../../markupparagraph/) كائنات التي توجد داخل القسم.
+مجموعة من كائنات [`MarkupParagraph`](../../markupparagraph/) الموجودة داخل القسم.
 
 ```csharp
 public List<MarkupParagraph> Paragraphs { get; }
@@ -20,3 +20,5 @@ public List<MarkupParagraph> Paragraphs { get; }
 * class [MarkupSection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

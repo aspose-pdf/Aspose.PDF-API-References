@@ -1,14 +1,14 @@
 ---
-title: Bookmark.ChildItems
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الإشارات المرجعية. تحصل أو تعين أطفال الإشارات المرجعية
+title: "Bookmark.ChildItems"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Bookmark. يحصل أو يحدد العناصر الفرعية للعلامات المرجعية."
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.facades/bookmark/childitems/
 ---
-## خاصية Bookmark.ChildItems
+## Bookmark.ChildItems property
 
-تحصل أو تعين أطفال الإشارة المرجعية.
+يحصل أو يضبط عناصر الإشارة المرجعية الفرعية.
 
 ```csharp
 public Bookmarks ChildItems { get; set; }
@@ -20,3 +20,5 @@ public Bookmarks ChildItems { get; set; }
 * class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.CssClassNamesPrefix
-second_title: Aspose.PDF for .NET API Reference
-description: حقل HtmlSaveOptions. عندما يقوم محول PDFtoHTML بإنشاء CSS الناتج، يتم إنشاء أسماء فئات CSS مثل .stl_01 ... .stl_NN وتستخدم في CSS الناتج. تتيح لك هذه الخاصية تعيين بادئة اسم الفئة بشكل قسري. على سبيل المثال، إذا كنت تريد أن تبدأ جميع أسماء الفئات بـ my_prefix_ أي كانت شيئًا مثل my_prefix_1 ... my_prefix_NNN، فما عليك سوى تعيين my_prefix_ لهذه الخاصية قبل التحويل. إذا بقيت هذه الخاصية دون تغيير، أي إذا تم ترك null كقيمة، فسيقوم المحول بإنشاء أسماء الفئات بنفسه، ستكون شيئًا مثل .stl_01 ... .stl_NN
+title: "HtmlSaveOptions.CssClassNamesPrefix"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل HtmlSaveOptions. عندما يولد محول PDFtoHTML ملفات CSS الناتجة، تُنشأ أسماء فئات CSS مثل .stl_01 ... .stl_NN وتُستخدم في CSS الناتج. تسمح هذه الخاصية بتعيين بادئة اسم الفئة إجباريًا. على سبيل المثال إذا أردت أن تبدأ جميع أسماء الفئات بـ my_prefix_ أي تكون مثل my_prefix_1 ... my_prefix_NNN، فقط عيّن my_prefix_ لهذه الخاصية قبل التحويل. إذا بقيت هذه الخاصية دون تعديل أي null تُترك كقيمة، سيولد المحول أسماء الفئات بنفسه وستكون مثل .stl_01 ... .stl_NN"
 type: docs
 weight: 250
 url: /ar/net/aspose.pdf/htmlsaveoptions/cssclassnamesprefix/
 ---
-## حقل HtmlSaveOptions.CssClassNamesPrefix
+## HtmlSaveOptions.CssClassNamesPrefix field
 
-عندما يقوم محول PDFtoHTML بإنشاء CSS الناتج، يتم إنشاء أسماء فئات CSS (شيء مثل ".stl_01 {}" ... ".stl_NN {}") وتستخدم في CSS الناتج. تتيح لك هذه الخاصية تعيين بادئة اسم الفئة بشكل قسري. على سبيل المثال، إذا كنت تريد أن تبدأ جميع أسماء الفئات بـ 'my_prefix_' (أي كانت شيئًا مثل 'my_prefix_1' ... 'my_prefix_NNN')، فما عليك سوى تعيين 'my_prefix_' لهذه الخاصية قبل التحويل. إذا بقيت هذه الخاصية دون تغيير (أي إذا تم ترك null كقيمة)، فسيقوم المحول بإنشاء أسماء الفئات بنفسه (ستكون شيئًا مثل ".stl_01 {}" ... ".stl_NN {}")
+عند توليد محول PDFtoHTML ملفات CSS نتيجة، يتم إنشاء أسماء فئات CSS (مثل \".stl_01 {}\" ... \".stl_NN {}\") واستخدامها في CSS الناتج. تسمح هذه الخاصية بتعيين بادئة اسم الفئة إجباريًا. على سبيل المثال، إذا أردت أن تبدأ جميع أسماء الفئات بـ 'my_prefix_' (أي تكون مثل 'my_prefix_1' ... 'my_prefix_NNN')، فقط عيّن 'my_prefix_' لهذه الخاصية قبل التحويل. إذا تُركت هذه الخاصية دون تعديل (أي null سيُترك كقيمة)، سيولد المحول أسماء الفئات بنفسه (ستكون مثل \".stl_01 {}\" ... \".stl_NN {}\").
 
 ```csharp
 public string CssClassNamesPrefix;
@@ -19,3 +19,5 @@ public string CssClassNamesPrefix;
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

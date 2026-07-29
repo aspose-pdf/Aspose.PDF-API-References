@@ -1,14 +1,14 @@
 ---
-title: ToolChoice.ToolChoice
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ToolChoice. المُنشئ الافتراضي
+title: "ToolChoice.ToolChoice"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ToolChoice. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/toolchoice/toolchoice/
 ---
-## مُنشئ ToolChoice
+## ToolChoice constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public ToolChoice()
@@ -19,3 +19,5 @@ public ToolChoice()
 * class [ToolChoice](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

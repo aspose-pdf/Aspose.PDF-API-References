@@ -1,14 +1,14 @@
 ---
-title: Interface IInterruptMonitor
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.Multithreading.IInterruptMonitor. تمثل معلومات حول الانقطاع
+title: "الواجهة IInterruptMonitor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الواجهة Aspose.Pdf.Multithreading.IInterruptMonitor. تمثل معلومات حول الانقطاع"
 type: docs
-weight: 6990
+weight: 7130
 url: /ar/net/aspose.pdf.multithreading/iinterruptmonitor/
 ---
-## واجهة IInterruptMonitor
+## IInterruptMonitor interface
 
-تمثل معلومات حول الانقطاع.
+يمثل معلومات حول الانقطاع.
 
 ```csharp
 public interface IInterruptMonitor : IDisposable
@@ -18,15 +18,17 @@ public interface IInterruptMonitor : IDisposable
 
 | الاسم | الوصف |
 | --- | --- |
-| [CancellationToken](../../aspose.pdf.multithreading/iinterruptmonitor/cancellationtoken/) { get; } | رمز إلغاء المراقب المستخدم في انقطاع العمليات. بشكل افتراضي، كل IInterruptMonitor ينشئ مصدر إلغاء خاص به |
+| [CancellationToken](../../aspose.pdf.multithreading/iinterruptmonitor/cancellationtoken/) { get; } | رمز الإلغاء cancellation token للمراقب يُستخدم لوقف العملية. بشكل افتراضي كل IInterruptMonitor يولد cancellationSource الخاص به |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [Interrupt](../../aspose.pdf.multithreading/iinterruptmonitor/interrupt/)() | يرسل طلبًا لقطع العمليات. |
+| [Interrupt](../../aspose.pdf.multithreading/iinterruptmonitor/interrupt/)() | يرسل طلباً لوقف العمليات. |
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf.Multithreading](../../aspose.pdf.multithreading/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Multithreading](../../aspose.pdf.multithreading/)
+* assembly [Aspose.PDF](../../)
+
+

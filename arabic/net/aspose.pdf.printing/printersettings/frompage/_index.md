@@ -1,14 +1,14 @@
 ---
-title: PrinterSettings.FromPage
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PrinterSettings. تحصل أو تعين الصفحة الأولى للطباعة
+title: "PrinterSettings.FromPage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PrinterSettings. تحصل أو تعيين الصفحة الأولى للطباعة."
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.printing/printersettings/frompage/
 ---
-## خاصية PrinterSettings.FromPage
+## PrinterSettings.FromPage property
 
-تحصل أو تعين الصفحة الأولى للطباعة.
+يحصل أو يعيّن الصفحة الأولى للطباعة.
 
 ```csharp
 public int FromPage { get; set; }
@@ -19,3 +19,5 @@ public int FromPage { get; set; }
 * class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

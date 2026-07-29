@@ -1,12 +1,12 @@
 ---
-title: Enum XfaTag
-second_title: Aspose.PDF for .NET API Reference
-description: تعداد Aspose.Pdf.XfaTag. علامة تدفق xfa
+title: "التعداد XfaTag"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.XfaTag. علامة تدفق xfa"
 type: docs
-weight: 11380
+weight: 11570
 url: /ar/net/aspose.pdf/xfatag/
 ---
-## تعداد XfaTag
+## XfaTag enumeration
 
 علامة تدفق xfa
 
@@ -21,10 +21,12 @@ public enum XfaTag
 | Template | `0` | علامة القالب |
 | Datasets | `1` | علامة مجموعات البيانات |
 | Config | `2` | علامة التكوين |
-| Localset | `3` | علامة المجموعة المحلية |
+| Localset | `3` | علامة localset |
 | Form | `4` | علامة النموذج |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

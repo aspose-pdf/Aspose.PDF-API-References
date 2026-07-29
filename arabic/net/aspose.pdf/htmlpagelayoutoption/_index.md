@@ -1,28 +1,30 @@
 ---
-title: Enum HtmlPageLayoutOption
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlPageLayoutOption enum. يحدد الأعلام التي تحدد معًا خيارات أخرى أحجام وتخطيطات الصفحات
+title: "Enum HtmlPageLayoutOption"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.HtmlPageLayoutOption enum. يحدد العلامات التي مع خيارات أخرى تحدد أحجام وتخطيطات الصفحات"
 type: docs
-weight: 5550
+weight: 5680
 url: /ar/net/aspose.pdf/htmlpagelayoutoption/
 ---
 ## HtmlPageLayoutOption enumeration
 
-يحدد الأعلام التي تحدد معًا خيارات أخرى أحجام وتخطيطات الصفحات.
+يحدد العلامات التي مع خيارات أخرى تحدد أحجام وتخطيطات الصفحات.
 
 ```csharp
 public enum HtmlPageLayoutOption
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| None | `0` | القيمة الافتراضية التي تشير إلى أن HtmlPageLayoutOption لن تؤثر على أحجام وتخطيطات الصفحات. |
-| FitToWidestContentWidth | `3` | تشير إلى أن عرض الصفحة يتم تحديده من حجم المحتوى نفسه، وليس من عرض الصفحة المحدد. |
-| ScaleToPageWidth | `256` | تشير إلى أن محتوى الوثيقة سيتم توسيعه ليتناسب مع الصفحة. |
+| None | `0` | القيمة الافتراضية التي تشير إلى أن HtmlPageLayoutOption لن يؤثر على أحجام وتخطيطات الصفحات. |
+| FitToWidestContentWidth | `3` | يشير إلى أن عرض الصفحة يُحدَّد من حجم المحتوى نفسه، وليس من عرض الصفحة المحدد. |
+| ScaleToPageWidth | `256` | يشير إلى أن محتوى المستند سيُقاس لتناسب الصفحة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

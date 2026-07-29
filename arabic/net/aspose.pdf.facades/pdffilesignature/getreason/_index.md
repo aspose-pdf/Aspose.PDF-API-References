@@ -1,26 +1,26 @@
 ---
-title: PdfFileSignature.GetReason
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileSignature. تحصل على سبب التوقيع
+title: "PdfFileSignature.GetReason"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileSignature. تحصل على سبب التوقيع"
 type: docs
 weight: 190
 url: /ar/net/aspose.pdf.facades/pdffilesignature/getreason/
 ---
-## طريقة PdfFileSignature.GetReason
+## PdfFileSignature.GetReason method
 
-تحصل على سبب التوقيع.
+يحصل على سبب التوقيع.
 
 ```csharp
 public string GetReason(SignatureName signName)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | signName | SignatureName | اسم التوقيع. |
 
 ### قيمة الإرجاع
 
-ترجع نتيجة من نوع سلسلة.
+يرجع نتيجة من نوع سلسلة.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public string GetReason(SignatureName signName)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

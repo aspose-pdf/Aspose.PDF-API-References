@@ -1,14 +1,14 @@
 ---
-title: HtmlToPdfOptions.PageLayoutOption
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية HtmlToPdfOptions. يحصل أو يحدد خيار التخطيط
+title: "HtmlToPdfOptions.PageLayoutOption"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "HtmlToPdfOptions خاصية. يحصل أو يضبط خيار التخطيط"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.plugins/htmltopdfoptions/pagelayoutoption/
 ---
-## خاصية HtmlToPdfOptions.PageLayoutOption
+## HtmlToPdfOptions.PageLayoutOption property
 
-يحصل أو يحدد خيار التخطيط.
+يحصل أو يعيّن خيار التخطيط.
 
 ```csharp
 public HtmlPageLayoutOption PageLayoutOption { get; set; }
@@ -20,3 +20,5 @@ public HtmlPageLayoutOption PageLayoutOption { get; set; }
 * class [HtmlToPdfOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

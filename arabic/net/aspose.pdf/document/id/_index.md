@@ -1,12 +1,12 @@
 ---
-title: Document.Id
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. يحصل على المعرف
+title: "Document.Id"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. يحصل على المعرف."
 type: docs
-weight: 260
+weight: 280
 url: /ar/net/aspose.pdf/document/id/
 ---
-## خاصية Document.Id
+## Document.Id property
 
 يحصل على المعرف.
 
@@ -20,3 +20,5 @@ public Id Id { get; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

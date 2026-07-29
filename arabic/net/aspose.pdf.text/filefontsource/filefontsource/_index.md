@@ -1,25 +1,27 @@
 ---
-title: FileFontSource.FileFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FileFontSource. يقوم بتهيئة مثيل جديد من فئة FileFontSource
+title: "FileFontSource.FileFontSource"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FileFontSource. يهيئ نسخة جديدة من فئة FileFontSource"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/filefontsource/filefontsource/
 ---
-## مُنشئ FileFontSource
+## FileFontSource constructor
 
-يقوم بتهيئة مثيل جديد من فئة [`FileFontSource`](../).
+يهيئ نسخة جديدة من الفئة [`FileFontSource`](../).
 
 ```csharp
 public FileFontSource(string filePath)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | filePath | String | المسار إلى ملف الخط. |
 
 ### انظر أيضًا
 
-* الفئة [FileFontSource](../)
-* مساحة الاسم [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../../)
+* class [FileFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

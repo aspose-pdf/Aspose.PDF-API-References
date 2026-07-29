@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.A4Small
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ورق A4 صغير 210 مم × 297 مم
+title: "PaperSizes.A4Small"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PaperSizes. ورق A4 صغير 210 مم × 297 مم"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.printing/papersizes/a4small/
 ---
-## حقل PaperSizes.A4Small
+## PaperSizes.A4Small field
 
-ورق A4 صغير (210 مم × 297 مم).
+ورق A4 الصغير (210 مم × 297 مم).
 
 ```csharp
 public static readonly PaperSize A4Small;
@@ -20,3 +20,5 @@ public static readonly PaperSize A4Small;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

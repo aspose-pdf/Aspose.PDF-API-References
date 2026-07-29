@@ -1,7 +1,7 @@
 ---
-title: TextSegment.TextSegment
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TextSegment. ينشئ كائن TextSegment
+title: "TextSegment.TextSegment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TextSegment. ينشئ كائن TextSegment"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/textsegment/textsegment/
@@ -16,35 +16,35 @@ public TextSegment()
 
 ## أمثلة
 
-توضح المثال كيفية إنشاء كائن جزء نصي، إضافة جزء نصي إلى مجموعة الأجزاء النصية وإلحاقه بصفحة Pdf.
+يوضح المثال كيفية إنشاء كائن مقطع نصي، إضافة مقطع نص إلى مجموعة مقاطع النص وإلحاقه بصفحة Pdf.
 
 ```csharp
 Document doc = new Document(inFile);
 Page page = (Page)doc.Pages[1];
 
-// create text fragment
+// إنشاء Text fragment
 TextFragment tf = new TextFragment("main text");
 tf.Position = new Position(100, 600);
 
-// set it's text properties
+// تعيين خصائص النص الخاصة به
 tf.TextState.FontSize = 5;
 tf.TextState.Font = FontRepository.FindFont("TimesNewRoman");
 tf.TextState.BackgroundColor = Color.LightGray;
 tf.TextState.ForegroundColor = Color.Red;
 
-// add one more segment to text fragment's Segments collection
+// إضافة مقطع آخر إلى مجموعة Segments الخاصة بـ Text fragment
 TextSegment segment2 = new TextSegment();
 segment2.Text = "another segment";
 
 tf.Segments.Add(segment2);
 
-// create TextBuilder object
+// إنشاء كائن TextBuilder
 TextBuilder builder = new TextBuilder(page);
 
-// append the text fragment to the Pdf page
+// إضافة Text fragment إلى صفحة Pdf
 builder.AppendText(tf);
 
-//save document
+//حفظ المستند
 doc.Save(outFile);
 ```
 
@@ -64,40 +64,40 @@ doc.Save(outFile);
 public TextSegment(string text)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| النص | سلسلة | نص الجزء النصي. |
+| نص | String | نص مقطع النص. |
 
 ## أمثلة
 
-توضح المثال كيفية إنشاء كائن جزء نصي، إضافة جزء نصي إلى مجموعة الأجزاء النصية وإلحاقه بصفحة Pdf.
+يوضح المثال كيفية إنشاء كائن مقطع نصي، إضافة مقطع نص إلى مجموعة مقاطع النص وإلحاقه بصفحة Pdf.
 
 ```csharp
 Document doc = new Document(inFile);
 Page page = (Page)doc.Pages[1];
 
-// create text fragment
+// إنشاء Text fragment
 TextFragment tf = new TextFragment("main text");
 tf.Position = new Position(100, 600);
 
-// set it's text properties
+// تعيين خصائص النص الخاصة به
 tf.TextState.FontSize = 5;
 tf.TextState.Font = FontRepository.FindFont("TimesNewRoman");
 tf.TextState.BackgroundColor = Color.LightGray;
 tf.TextState.ForegroundColor = Color.Red;
 
-// add one more segment to text fragment's Segments collection
+// إضافة مقطع آخر إلى مجموعة Segments الخاصة بـ Text fragment
 TextSegment segment2 = new TextSegment("another segment");
 
 tf.Segments.Add(segment2);
 
-// create TextBuilder object
+// إنشاء كائن TextBuilder
 TextBuilder builder = new TextBuilder(page);
 
-// append the text fragment to the Pdf page
+// إضافة Text fragment إلى صفحة Pdf
 builder.AppendText(tf);
 
-//save document
+//حفظ المستند
 doc.Save(outFile);
 ```
 
@@ -106,3 +106,5 @@ doc.Save(outFile);
 * class [TextSegment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

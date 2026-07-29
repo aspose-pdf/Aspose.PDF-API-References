@@ -1,29 +1,31 @@
 ---
-title: OpenAISummaryCopilotOptions.WithAssistantName
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAISummaryCopilotOptions. تعيين اسم المساعد لخيارات الطيار الملخص
+title: "OpenAISummaryCopilotOptions.WithAssistantName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAISummaryCopilotOptions. تحدد اسم المساعد لخيارات المساعد الملخص."
 type: docs
-weight: 50
+weight: 60
 url: /ar/net/aspose.pdf.ai/openaisummarycopilotoptions/withassistantname/
 ---
 ## OpenAISummaryCopilotOptions.WithAssistantName method
 
-يحدد اسم المساعد لخيارات مساعد الملخص.
+يعيّن اسم المساعد لخيارات ملخص المساعد.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithAssistantName(string assistantName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| assistantName | String | اسم المساعد الذي سيتم تعيينه. |
+| assistantName | String | اسم المساعد لتعيينه. |
 
-### Return Value
+### قيمة الإرجاع
 
-النسخة الحالية من [`OpenAISummaryCopilotOptions`](../).
+العنصر الحالي من [`OpenAISummaryCopilotOptions`](../).
 
-### See Also
+### انظر أيضًا
 
 * class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

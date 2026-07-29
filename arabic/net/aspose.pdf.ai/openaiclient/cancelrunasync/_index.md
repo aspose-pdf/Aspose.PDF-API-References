@@ -1,36 +1,36 @@
 ---
-title: OpenAIClient.CancelRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIClient. تلغي عملية قائمة موجودة داخل خيط بشكل غير متزامن
+title: "OpenAIClient.CancelRunAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIClient. تلغي تشغيلًا موجودًا داخل خيط بشكل غير متزامن"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/openaiclient/cancelrunasync/
 ---
-## طريقة OpenAIClient.CancelRunAsync
+## OpenAIClient.CancelRunAsync method
 
-تلغي عملية قائمة موجودة داخل خيط بشكل غير متزامن.
+يلغي تشغيلًا موجودًا داخل خيط بشكل غير متزامن.
 
 ```csharp
 public Task<RunResponse> CancelRunAsync(string threadId, string runId, 
     CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| threadId | String | معرف الخيط الذي يحتوي على العملية المراد إلغاؤها. |
-| runId | String | معرف العملية المراد إلغاؤها. |
+| threadId | String | معرّف الخيط الذي يحتوي على التشغيل المراد إلغاؤه. |
+| runId | String | معرّف التشغيل المراد إلغاؤه. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
 ### قيمة الإرجاع
 
-مهمة تمثل العملية غير المتزامنة. تحتوي نتيجة المهمة على الاستجابة من إلغاء العملية.
+مهمة تمثل العملية غير المتزامنة. يحتوي نتيجة المهمة على الاستجابة من إلغاء التشغيل.
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف الخيط فارغًا أو null. |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف العملية فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرّف الخيط فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يتم رمي الاستثناء عندما يكون معرّف التشغيل null أو فارغ. |
 
 ### انظر أيضًا
 
@@ -38,3 +38,5 @@ public Task<RunResponse> CancelRunAsync(string threadId, string runId,
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

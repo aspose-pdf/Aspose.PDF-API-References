@@ -1,14 +1,14 @@
 ---
-title: GraphInfo.LineWidth
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية GraphInfo. تحصل أو تعين قيمة عائمة تشير إلى عرض خط الرسم البياني
+title: "GraphInfo.LineWidth"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية GraphInfo. يحصل أو يعيّن قيمة عائمة تشير إلى عرض الخط للرسم البياني"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/graphinfo/linewidth/
 ---
-## خاصية GraphInfo.LineWidth
+## GraphInfo.LineWidth property
 
-تحصل أو تعين قيمة عائمة تشير إلى عرض خط الرسم البياني.
+يحصل أو يعيّن قيمة عائمة تشير إلى عرض الخط في الرسم.
 
 ```csharp
 public float LineWidth { get; set; }
@@ -19,3 +19,5 @@ public float LineWidth { get; set; }
 * class [GraphInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

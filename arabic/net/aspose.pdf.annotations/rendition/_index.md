@@ -1,14 +1,14 @@
 ---
-title: Class Rendition
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.Rendition. فئة تصف كائن العرض الخاص بـ RendtionAnnotation
+title: "فئة Rendition"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Annotations.Rendition. فئة تصف كائن العرض في RendtionAnnotation."
 type: docs
-weight: 2430
+weight: 2520
 url: /ar/net/aspose.pdf.annotations/rendition/
 ---
-## فئة العرض
+## Rendition class
 
-فئة تصف كائن العرض الخاص بـ RendtionAnnotation.
+الفئة التي تصف كائن العرض لـ RendtionAnnotation.
 
 ```csharp
 public class Rendition
@@ -18,10 +18,12 @@ public class Rendition
 
 | الاسم | الوصف |
 | --- | --- |
-| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | سلسلة نصية تحدد اسم العرض للاستخدام في واجهة المستخدم وللlookup في شجرة الأسماء بواسطة إجراءات JavaScript. |
+| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | سلسلة نصية تحدد اسم العرض للاستخدام في واجهة المستخدم وللبحث في شجرة الأسماء عبر إجراءات JavaScript. |
 | [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | يحصل على نوع العرض. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

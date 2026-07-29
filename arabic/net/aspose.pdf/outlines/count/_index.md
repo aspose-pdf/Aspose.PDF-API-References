@@ -1,14 +1,14 @@
 ---
-title: Outlines.Count
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Outlines. تحصل على العدد
+title: "Outlines.Count"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Outlines. تحصل على العدد"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/outlines/count/
 ---
-## خاصية Outlines.Count
+## Outlines.Count property
 
-تحصل على العدد.
+يحصل على العدد.
 
 ```csharp
 public abstract int Count { get; }
@@ -19,3 +19,5 @@ public abstract int Count { get; }
 * class [Outlines](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.JavaScript
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. مجموعة من جافا سكريبت على مستوى الوثيقة
+title: "Document.JavaScript"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. مجموعة JavaScript على مستوى المستند"
 type: docs
-weight: 340
+weight: 360
 url: /ar/net/aspose.pdf/document/javascript/
 ---
-## خاصية Document.JavaScript
+## Document.JavaScript property
 
-مجموعة من جافا سكريبت على مستوى الوثيقة.
+مجموعة JavaScript على مستوى المستند.
 
 ```csharp
 public JavaScriptCollection JavaScript { get; }
@@ -20,3 +20,5 @@ public JavaScriptCollection JavaScript { get; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

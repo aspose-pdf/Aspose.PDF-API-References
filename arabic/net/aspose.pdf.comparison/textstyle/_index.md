@@ -1,33 +1,35 @@
 ---
-title: Class TextStyle
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Comparison.TextStyle. تمثل فئة نمط النص
+title: "الفئة TextStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Comparison.TextStyle. تمثل فئة نمط النص."
 type: docs
-weight: 3330
+weight: 3440
 url: /ar/net/aspose.pdf.comparison/textstyle/
 ---
 ## TextStyle class
 
-تمثل فئة نمط النص.
+يمثل فئة نمط نص.
 
 ```csharp
 public class TextStyle
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [TextStyle](textstyle/)() | المُنشئ الافتراضي. |
+| [TextStyle](textstyle/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [BackgroundColor](../../aspose.pdf.comparison/textstyle/backgroundcolor/) { get; set; } | يحصل على لون الخلفية ويضبطه. |
-| [Color](../../aspose.pdf.comparison/textstyle/color/) { get; set; } | يحصل على لون النص ويضبطه. |
+| [BackgroundColor](../../aspose.pdf.comparison/textstyle/backgroundcolor/) { get; set; } | يحصل على لون الخلفية أو يضبطه. |
+| [Color](../../aspose.pdf.comparison/textstyle/color/) { get; set; } | يحصل على لون النص أو يضبطه. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

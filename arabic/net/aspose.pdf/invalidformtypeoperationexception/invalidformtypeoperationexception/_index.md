@@ -1,14 +1,14 @@
 ---
-title: InvalidFormTypeOperationException.InvalidFormTypeOperationException
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ InvalidFormTypeOperationException. يقوم بتهيئة مثيل جديد من فئة InvalidFormTypeOperationException
+title: "InvalidFormTypeOperationException.InvalidFormTypeOperationException"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "InvalidFormTypeOperationException constructor. يهيئ مثيلًا جديدًا من فئة InvalidFormTypeOperationException"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/invalidformtypeoperationexception/invalidformtypeoperationexception/
 ---
 ## InvalidFormTypeOperationException() {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`InvalidFormTypeOperationException`](../).
+يهيئ مثيلًا جديدًا من الفئة [`InvalidFormTypeOperationException`](../).
 
 ```csharp
 public InvalidFormTypeOperationException()
@@ -16,67 +16,69 @@ public InvalidFormTypeOperationException()
 
 ### انظر أيضًا
 
-* فئة [InvalidFormTypeOperationException](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [InvalidFormTypeOperationException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## InvalidFormTypeOperationException(string) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد من فئة [`InvalidFormTypeOperationException`](../).
+يهيئ مثيلًا جديدًا من الفئة [`InvalidFormTypeOperationException`](../).
 
 ```csharp
 public InvalidFormTypeOperationException(string message)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| message | String | الرسالة. |
+| رسالة | String | الرسالة. |
 
 ### انظر أيضًا
 
-* فئة [InvalidFormTypeOperationException](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [InvalidFormTypeOperationException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## InvalidFormTypeOperationException(string, Exception) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد من فئة [`InvalidFormTypeOperationException`](../) مع رسالة خطأ محددة ومرجع إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء.
+يهيئ مثيلًا جديدًا من الفئة [`InvalidFormTypeOperationException`](../) مع رسالة خطأ محددة وإشارة إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء.
 
 ```csharp
 public InvalidFormTypeOperationException(string message, Exception innerException)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| message | String | رسالة الخطأ التي تشرح سبب الاستثناء. |
-| innerException | Exception | الاستثناء الذي هو سبب الاستثناء الحالي، أو مرجع فارغ (Nothing في Visual Basic) إذا لم يتم تحديد استثناء داخلي. |
+| رسالة | String | رسالة الخطأ التي توضح سبب الاستثناء. |
+| innerException | Exception | الاستثناء الذي هو سبب الاستثناء الحالي، أو إشارة فارغة (Nothing في Visual Basic) إذا لم يتم تحديد استثناء داخلي. |
 
 ### انظر أيضًا
 
-* فئة [InvalidFormTypeOperationException](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [InvalidFormTypeOperationException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## InvalidFormTypeOperationException(Exception) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة [`InvalidFormTypeOperationException`](../) مع مرجع إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء.
+يهيئ مثيلًا جديدًا من الفئة [`InvalidFormTypeOperationException`](../) مع إشارة إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء.
 
 ```csharp
 public InvalidFormTypeOperationException(Exception innerException)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| innerException | Exception | الاستثناء الذي هو سبب الاستثناء الحالي، أو مرجع فارغ (Nothing في Visual Basic) إذا لم يتم تحديد استثناء داخلي. |
+| innerException | Exception | الاستثناء الذي هو سبب الاستثناء الحالي، أو إشارة فارغة (Nothing في Visual Basic) إذا لم يتم تحديد استثناء داخلي. |
 
 ### انظر أيضًا
 
-* فئة [InvalidFormTypeOperationException](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [InvalidFormTypeOperationException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

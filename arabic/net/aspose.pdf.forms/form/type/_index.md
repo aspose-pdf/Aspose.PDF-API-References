@@ -1,14 +1,14 @@
 ---
-title: Form.Type
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية النموذج. تحصل على نوع النموذج. القيم الممكنة هي قياسي ثابت ديناميكي
+title: "Form.Type"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Form. يحصل على نوع النموذج. القيم الممكنة هي Standard و Static و Dynamic."
 type: docs
-weight: 160
+weight: 180
 url: /ar/net/aspose.pdf.forms/form/type/
 ---
-## خاصية Form.Type
+## Form.Type property
 
-تحصل على نوع النموذج. القيم الممكنة هي: قياسي، ثابت، ديناميكي.
+يحصل على نوع النموذج. القيم الممكنة هي: Standard، Static، Dynamic.
 
 ```csharp
 public FormType Type { get; set; }
@@ -20,3 +20,5 @@ public FormType Type { get; set; }
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

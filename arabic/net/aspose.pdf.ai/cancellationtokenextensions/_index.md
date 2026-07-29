@@ -1,26 +1,28 @@
 ---
-title: Class CancellationTokenExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.CancellationTokenExtensions. توفر طرق توسيع لـ CancellationToken
+title: "الفئة CancellationTokenExtensions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.AI.CancellationTokenExtensions. توفر طرق توسيع لـ CancellationToken."
 type: docs
 weight: 180
 url: /ar/net/aspose.pdf.ai/cancellationtokenextensions/
 ---
 ## CancellationTokenExtensions class
 
-توفر طرق توسيع لـ CancellationToken.
+يوفر طرق امتداد لـ CancellationToken.
 
 ```csharp
 public static class CancellationTokenExtensions
 ```
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| static [NoneIfNull](../../aspose.pdf.ai/cancellationtokenextensions/noneifnull/)(this CancellationToken?) | ترجع CancellationToken.None إذا كان CancellationToken المدخل null؛ خلاف ذلك، ترجع CancellationToken المدخل. |
+| static [NoneIfNull](../../aspose.pdf.ai/cancellationtokenextensions/noneifnull/)(this CancellationToken?) | يرجع CancellationToken.None إذا كان CancellationToken المدخل هو null؛ وإلا، يرجع CancellationToken المدخل. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

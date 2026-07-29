@@ -1,14 +1,14 @@
 ---
-title: Outlines.VisibleCount
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Outlines. تحصل على العدد الإجمالي لعناصر المخطط في جميع المستويات في تسلسل المخطط الوثائقي
+title: "Outlines.VisibleCount"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Outlines. تحصل على العدد الإجمالي لعناصر المخطط في جميع المستويات في تسلسل هيكل مخطط المستند"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/outlines/visiblecount/
 ---
-## خاصية Outlines.VisibleCount
+## Outlines.VisibleCount property
 
-تحصل على العدد الإجمالي لعناصر المخطط في جميع المستويات في تسلسل المخطط الوثائقي.
+يحصل على العدد الإجمالي لعناصر المخطط على جميع المستويات في تسلسل مخطط المستند.
 
 ```csharp
 public abstract int VisibleCount { get; }
@@ -19,3 +19,5 @@ public abstract int VisibleCount { get; }
 * class [Outlines](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

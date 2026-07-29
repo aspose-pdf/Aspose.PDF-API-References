@@ -1,14 +1,14 @@
 ---
-title: PrinterSettings.PrintRange
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PrinterSettings. تحصل أو تعين الصفحات التي طلب المستخدم طباعتها
+title: "PrinterSettings.PrintRange"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PrinterSettings. تحصل أو تعيين الصفحات التي طلب المستخدم طباعتها."
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.printing/printersettings/printrange/
 ---
-## خاصية PrinterSettings.PrintRange
+## PrinterSettings.PrintRange property
 
-تحصل أو تعين الصفحات التي طلب المستخدم طباعتها.
+يحصل أو يعيّن الصفحات التي طلب المستخدم طباعتها.
 
 ```csharp
 public PrintRange PrintRange { get; set; }
@@ -20,3 +20,5 @@ public PrintRange PrintRange { get; set; }
 * class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

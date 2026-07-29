@@ -1,14 +1,14 @@
 ---
-title: CollectionField.O
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CollectionField. تحصل على الترتيب النسبي لاسم الحقل في واجهة المستخدم. يجب فرز الحقول بواسطة معالج PDF التفاعلي بترتيب تصاعدي
+title: "CollectionField.O"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CollectionField. تحصل على الترتيب النسبي لاسم الحقل في واجهة المستخدم. يجب أن يتم فرز الحقول بواسطة معالج PDF التفاعلي بترتيب تصاعدي"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/collectionfield/o/
 ---
-## خاصية CollectionField.O
+## CollectionField.O property
 
-تحصل على الترتيب النسبي لاسم الحقل في واجهة المستخدم. يجب فرز الحقول بواسطة معالج PDF التفاعلي بترتيب تصاعدي.
+يحصل على الترتيب النسبي لاسم الحقل في واجهة المستخدم. يجب أن يتم فرز الحقول بواسطة معالج PDF التفاعلي بترتيب تصاعدي.
 
 ```csharp
 public int? O { get; }
@@ -19,3 +19,5 @@ public int? O { get; }
 * class [CollectionField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

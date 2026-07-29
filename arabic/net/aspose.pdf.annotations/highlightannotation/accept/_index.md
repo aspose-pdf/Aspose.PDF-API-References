@@ -1,22 +1,22 @@
 ---
-title: HighlightAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة HighlightAnnotation. تقبل كائن الزائر لمعالجة التعليق
+title: "HighlightAnnotation.Accept"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة HighlightAnnotation. تقبل كائن الزائر لمعالجة التعليق التوضيحي"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/highlightannotation/accept/
 ---
-## طريقة HighlightAnnotation.Accept
+## HighlightAnnotation.Accept method
 
-تقبل كائن الزائر لمعالجة التعليق.
+يقبل كائن الزائر لمعالجة التعليق.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الزائر | AnnotationSelector | كائن الزائر. |
+| زائر | AnnotationSelector | كائن Visitor. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public override void Accept(AnnotationSelector visitor)
 * class [HighlightAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

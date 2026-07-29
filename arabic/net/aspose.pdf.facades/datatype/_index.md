@@ -1,14 +1,14 @@
 ---
-title: Enum DataType
-second_title: Aspose.PDF for .NET API Reference
-description: تعداد نوع البيانات Aspose.Pdf.Facades.DataType. يعدد تعريفات أنواع الحقول
+title: "التعداد DataType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.Facades.DataType. يعدد تعريفات أنواع الحقول"
 type: docs
-weight: 4210
+weight: 4330
 url: /ar/net/aspose.pdf.facades/datatype/
 ---
-## تعداد نوع البيانات
+## DataType enumeration
 
-يعدد تعريفات أنواع الحقول.
+يسرد تعريفات أنواع الحقول.
 
 ```csharp
 public enum DataType
@@ -18,14 +18,16 @@ public enum DataType
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| FDF | `0` | تدفق FDF. |
-| XML | `1` | تدفق XML. |
-| XFDF | `2` | تدفق XFDF. |
-| PDF | `3` | تدفق PDF. |
+| FDF | `0` | دفق FDF. |
+| XML | `1` | دفق XML. |
+| XFDF | `2` | دفق XFDF. |
+| PDF | `3` | دفق PDF. |
 | OLEDB | `4` | قاعدة بيانات OLEDB، مثل MS Access. |
 | ODBC | `5` | قاعدة بيانات ODBC، مثل MS SQL Server. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,26 +1,26 @@
 ---
-title: OperatorCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OperatorCollection. تُرجع true إذا كانت المجموعة تحتوي على المشغل المعطى
+title: "OperatorCollection.Contains"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OperatorCollection. تُرجع true إذا كانت المجموعة تحتوي على المشغل المحدد"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/operatorcollection/contains/
 ---
-## طريقة OperatorCollection.Contains
+## OperatorCollection.Contains method
 
-تُرجع true إذا كانت المجموعة تحتوي على المشغل المعطى.
+يرجع true إذا كانت المجموعة تحتوي على المشغل المحدد.
 
 ```csharp
 public override bool Contains(Operator op)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| op | Operator | قيمة المشغل. |
+| op | Operator | قيمة Operator. |
 
 ### قيمة الإرجاع
 
-True - إذا تم العثور على المشغل؛ خلاف ذلك، false.
+True - إذا تم العثور على المشغل؛ وإلا، false.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ True - إذا تم العثور على المشغل؛ خلاف ذلك، false.
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfASymbolicFontEncodingStrategy.PdfASymbolicFontEncodingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PdfASymbolicFontEncodingStrategy. مُنشئ. يحدد جدول فرعي افتراضي mac 10
+title: "PdfASymbolicFontEncodingStrategy.PdfASymbolicFontEncodingStrategy"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PdfASymbolicFontEncodingStrategy. المُنشئ. يحدد جدول فرعي افتراضي mac 10"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/pdfasymbolicfontencodingstrategy/pdfasymbolicfontencodingstrategy/
 ---
 ## PdfASymbolicFontEncodingStrategy() {#constructor}
 
-مُنشئ. يحدد جدول فرعي افتراضي (mac 1,0)
+المُنشئ. يحدد جدول فرعي افتراضي (mac 1,0)
 
 ```csharp
 public PdfASymbolicFontEncodingStrategy()
@@ -24,15 +24,15 @@ public PdfASymbolicFontEncodingStrategy()
 
 ## PdfASymbolicFontEncodingStrategy(Queue&lt;QueueItem&gt;) {#constructor_2}
 
-مُنشئ
+منشئ
 
 ```csharp
 public PdfASymbolicFontEncodingStrategy(Queue<QueueItem> priorityQueue)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| priorityQueue | Queue`1 | قائمة من جداول الترميز الفرعية للتكرار |
+| priorityQueue | Queue`1 | قائمة انتظار لجداول الترميز الفرعية للتكرار |
 
 ### انظر أيضًا
 
@@ -45,15 +45,15 @@ public PdfASymbolicFontEncodingStrategy(Queue<QueueItem> priorityQueue)
 
 ## PdfASymbolicFontEncodingStrategy(CMapEncodingTableType) {#constructor_1}
 
-مُنشئ
+منشئ
 
 ```csharp
 public PdfASymbolicFontEncodingStrategy(CMapEncodingTableType preferredEncodingTable)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| preferredEncodingTable | CMapEncodingTableType | جدول الترميز الفرعي الذي سيتم استخدامه كأولوية على جدول mac الفرعي(1,0) |
+| preferredEncodingTable | CMapEncodingTableType | جدول الترميز الفرعي الذي سيُستخدم في أولوية على جدول mac الفرعي (1,0) |
 
 ### انظر أيضًا
 
@@ -61,3 +61,5 @@ public PdfASymbolicFontEncodingStrategy(CMapEncodingTableType preferredEncodingT
 * class [PdfASymbolicFontEncodingStrategy](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

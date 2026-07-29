@@ -1,22 +1,22 @@
 ---
-title: OptimizedMemoryStream.Seek
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OptimizedMemoryStream. عند تجاوزها في فئة مشتقة، تحدد الموضع داخل التدفق الحالي
+title: "OptimizedMemoryStream.Seek"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OptimizedMemoryStream. عندما يتم تجاوزها في فئة مشتقة، تعين الموضع داخل المجرى الحالي"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf/optimizedmemorystream/seek/
 ---
-## طريقة OptimizedMemoryStream.Seek
+## OptimizedMemoryStream.Seek method
 
-عند تجاوزها في فئة مشتقة، تحدد الموضع داخل التدفق الحالي.
+عند تجاوزها في فئة مشتقة، تعيّن الموضع داخل التيار الحالي.
 
 ```csharp
 public override long Seek(long offset, SeekOrigin origin)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| offset | Int64 | إزاحة بايت بالنسبة إلى معامل *origin*. |
+| الإزاحة | Int64 | إزاحة بايتية نسبية إلى معامل *origin*. |
 | origin | SeekOrigin | قيمة من نوع SeekOrigin تشير إلى نقطة المرجع المستخدمة للحصول على الموضع الجديد. |
 
 ### قيمة الإرجاع
@@ -28,3 +28,5 @@ public override long Seek(long offset, SeekOrigin origin)
 * class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

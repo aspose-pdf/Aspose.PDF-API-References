@@ -1,24 +1,24 @@
 ---
-title: PdfAnnotationEditor.ModifyAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfAnnotationEditor. تعدل التعليقات التوضيحية من النوع المحدد على نطاق الصفحات المحدد. تدعم تعديل خصائص التعليق التوضيحي التالية العنوان المعدل، المحتويات، اللون، الموضوع، وفتح
+title: "PdfAnnotationEditor.ModifyAnnotations"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfAnnotationEditor. تعدل التعليقات من النوع المحدد في نطاق الصفحات المحدد. يدعم تعديل الخصائص التالية للتعليق: Modified Title Contents Color Subject و Open."
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.facades/pdfannotationeditor/modifyannotations/
 ---
-## طريقة PdfAnnotationEditor.ModifyAnnotations
+## PdfAnnotationEditor.ModifyAnnotations method
 
-تعدل التعليقات التوضيحية من النوع المحدد على نطاق الصفحات المحدد. تدعم تعديل خصائص التعليق التوضيحي التالية: المعدل، العنوان، المحتويات، اللون، الموضوع، وفتح.
+يُعدّل التعليقات التوضيحية من النوع المحدد ضمن نطاق الصفحات المحدد. يدعم تعديل الخصائص التالية للتعليق: Modified، Title، Contents، Color، Subject و Open.
 
 ```csharp
 public void ModifyAnnotations(int start, int end, Annotation annotation)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| start | Int32 | رقم الصفحة الابتدائية. |
-| end | Int32 | رقم الصفحة النهائية. |
-| annotation | Annotation | كائن التعليق التوضيحي يحتوي على خصائص جديدة. |
+| start | Int32 | رقم الصفحة البداية. |
+| end | Int32 | رقم الصفحة النهاية. |
+| annotation | Annotation | كائن التعليق يحتوي على خصائص جديدة. |
 
 ## أمثلة
 
@@ -42,3 +42,5 @@ editor.Save("example_out.pdf");
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

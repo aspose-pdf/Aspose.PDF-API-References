@@ -1,12 +1,12 @@
 ---
-title: Heading.Level
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية العنوان. يحصل على المستوى
+title: "Heading.Level"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Heading. تحصل على المستوى"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/heading/level/
 ---
-## خاصية Heading.Level
+## Heading.Level property
 
 يحصل على المستوى.
 
@@ -19,3 +19,5 @@ public int Level { get; set; }
 * class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

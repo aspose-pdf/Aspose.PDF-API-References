@@ -1,12 +1,12 @@
 ---
-title: Enum FileEncoding
-second_title: Aspose.PDF for .NET API Reference
-description: ترميز Aspose.Pdf.FileEncoding. ترميز الملف المرفق. القيم الممكنة ملف مضغوط باستخدام ZIP، ملف غير مضغوط
+title: "تعداد FileEncoding"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.FileEncoding. ترميز الملف المرفق. القيم الممكنة Zip: الملف مضغوط باستخدام ZIP، None: الملف غير مضغوط"
 type: docs
-weight: 4820
+weight: 4940
 url: /ar/net/aspose.pdf/fileencoding/
 ---
-## تعداد FileEncoding
+## FileEncoding enumeration
 
 ترميز الملف المرفق. القيم الممكنة: Zip - الملف مضغوط باستخدام ZIP، None - الملف غير مضغوط.
 
@@ -23,5 +23,7 @@ public enum FileEncoding
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

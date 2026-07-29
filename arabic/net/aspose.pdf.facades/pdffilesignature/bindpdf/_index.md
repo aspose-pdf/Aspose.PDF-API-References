@@ -1,24 +1,24 @@
 ---
-title: PdfFileSignature.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileSignature. تربط ملف Pdf للتعديل
+title: "PdfFileSignature.BindPdf"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileSignature. يربط ملف Pdf للتحرير"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.facades/pdffilesignature/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-تربط ملف Pdf للتعديل.
+يربط ملف Pdf للتحرير.
 
 ```csharp
 public override void BindPdf(string inputFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputFile | String | ملف pdf الذي سيتم تعديله. |
+| inputFile | String | ملف pdf المراد تحريره. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -28,18 +28,20 @@ public override void BindPdf(string inputFile)
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-تربط تدفق Pdf للتعديل.
+يربط تدفق Pdf للتحرير.
 
 ```csharp
 public override void BindPdf(Stream inputStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputStream | Stream | تدفق pdf الذي سيتم تعديله. |
+| inputStream | Stream | تدفق pdf المراد تحريره. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

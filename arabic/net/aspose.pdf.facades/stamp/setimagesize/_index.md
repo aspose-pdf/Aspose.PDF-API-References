@@ -1,26 +1,28 @@
 ---
-title: Stamp.SetImageSize
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Stamp. تحدد حجم طابع الصورة. سيتم تغيير حجم الصورة وفقًا للقيم المحددة
+title: "Stamp.SetImageSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Stamp. تحدد حجم ختم الصورة. سيتم تحجيم الصورة وفق القيم المحددة."
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.facades/stamp/setimagesize/
 ---
-## طريقة Stamp.SetImageSize
+## Stamp.SetImageSize method
 
-تحدد حجم طابع الصورة. سيتم تغيير حجم الصورة وفقًا للقيم المحددة.
+يعيّن حجم طابع الصورة. سيتم تحجيم الصورة وفق القيم المحددة.
 
 ```csharp
 public void SetImageSize(float width, float height)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| width | Single | عرض الصورة. |
-| height | Single | ارتفاع الصورة. |
+| العرض | Single | عرض الصورة. |
+| الارتفاع | Single | ارتفاع الصورة. |
 
 ### انظر أيضًا
 
 * class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

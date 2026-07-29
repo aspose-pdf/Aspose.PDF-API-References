@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.PickTrayByPDFSize
-second_title: Aspose.PDF for .NET API Reference
-description: حقل ViewerPreference. استخدم حجم صفحة PDF لاختيار درج الورق المدخل
+title: "ViewerPreference.PickTrayByPDFSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل ViewerPreference. استخدم حجم صفحة PDF لتحديد صينية الورق المدخل"
 type: docs
 weight: 260
 url: /ar/net/aspose.pdf.facades/viewerpreference/picktraybypdfsize/
 ---
-## حقل ViewerPreference.PickTrayByPDFSize
+## ViewerPreference.PickTrayByPDFSize field
 
-استخدم حجم صفحة PDF لاختيار درج الورق المدخل.
+استخدم حجم صفحة PDF لتحديد صينية الورق المدخل.
 
 ```csharp
 public const int PickTrayByPDFSize;
@@ -19,3 +19,5 @@ public const int PickTrayByPDFSize;
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.IsLinearized
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. يحصل أو يحدد قيمة تشير إلى ما إذا كانت الوثيقة خطية
+title: "Document.IsLinearized"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. يحصل على أو يضبط قيمة تشير إلى ما إذا كان المستند مُخططًا خطيًا."
 type: docs
-weight: 300
+weight: 320
 url: /ar/net/aspose.pdf/document/islinearized/
 ---
-## خاصية Document.IsLinearized
+## Document.IsLinearized property
 
-يحصل أو يحدد قيمة تشير إلى ما إذا كانت الوثيقة خطية.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان المستند مُخططًا خطيًا.
 
 ```csharp
 public bool IsLinearized { get; set; }
@@ -19,3 +19,5 @@ public bool IsLinearized { get; set; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

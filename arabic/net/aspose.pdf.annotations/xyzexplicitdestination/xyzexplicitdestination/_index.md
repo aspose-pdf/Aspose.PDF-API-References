@@ -1,7 +1,7 @@
 ---
-title: XYZExplicitDestination.XYZExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ XYZExplicitDestination. ينشئ وجهة صريحة محلية
+title: "XYZExplicitDestination.XYZExplicitDestination"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ XYZExplicitDestination. ينشئ وجهة صريحة محلية"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/xyzexplicitdestination/xyzexplicitdestination/
@@ -14,12 +14,12 @@ url: /ar/net/aspose.pdf.annotations/xyzexplicitdestination/xyzexplicitdestinatio
 public XYZExplicitDestination(Page page, double left, double top, double zoom)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | كائن صفحة الوجهة. |
-| left | Double | الإحداثي الأفقي الأيسر للزاوية العلوية اليسرى من النافذة. |
-| top | Double | الإحداثي العمودي العلوي للزاوية العلوية اليسرى من النافذة. |
-| zoom | Double | عامل التكبير. |
+| صفحة | صفحة | كائن صفحة الوجهة. |
+| يسار | Double | الإحداثي الأفقي الأيسر للزاوية العلوية اليسرى للنافذة. |
+| أعلى | Double | الإحداثي الرأسي العلوي للزاوية العلوية اليسرى للنافذة. |
+| تكبير | Double | عامل التكبير. |
 
 ### انظر أيضًا
 
@@ -38,15 +38,17 @@ public XYZExplicitDestination(Page page, double left, double top, double zoom)
 public XYZExplicitDestination(int pageNumber, double left, double top, double zoom)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pageNumber | Int32 | رقم صفحة الوجهة للمستند عن بُعد. |
-| left | Double | الإحداثي الأفقي الأيسر للزاوية العلوية اليسرى من النافذة. |
-| top | Double | الإحداثي العمودي العلوي للزاوية العلوية اليسرى من النافذة. |
-| zoom | Double | عامل التكبير. |
+| pageNumber | Int32 | رقم صفحة الوجهة في المستند البعيد. |
+| يسار | Double | الإحداثي الأفقي الأيسر للزاوية العلوية اليسرى للنافذة. |
+| أعلى | Double | الإحداثي الرأسي العلوي للزاوية العلوية اليسرى للنافذة. |
+| تكبير | Double | عامل التكبير. |
 
 ### انظر أيضًا
 
 * class [XYZExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

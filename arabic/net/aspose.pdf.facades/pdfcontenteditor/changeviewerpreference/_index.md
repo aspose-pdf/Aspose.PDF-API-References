@@ -1,22 +1,22 @@
 ---
-title: PdfContentEditor.ChangeViewerPreference
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfContentEditor. تغير تفضيل العرض
+title: "PdfContentEditor.ChangeViewerPreference"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfContentEditor. تغير تفضيل العرض"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/changeviewerpreference/
 ---
-## طريقة PdfContentEditor.ChangeViewerPreference
+## PdfContentEditor.ChangeViewerPreference method
 
-تغير تفضيل العرض.
+يغيّر تفضيل العرض.
 
 ```csharp
 public void ChangeViewerPreference(int viewerAttribution)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| viewerAttribution | Int32 | نسبة العرض المحددة في فئة ViewerPreference. |
+| viewerAttribution | Int32 | تعيين العرض المحدد في فئة ViewerPreference. |
 
 ## أمثلة
 
@@ -30,6 +30,8 @@ editor.Save("example_out.pdf");
 
 ### انظر أيضًا
 
-* فئة [PdfContentEditor](../)
-* مساحة الاسم [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* التجميع [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

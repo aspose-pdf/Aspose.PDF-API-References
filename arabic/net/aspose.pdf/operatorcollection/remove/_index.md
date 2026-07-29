@@ -1,26 +1,26 @@
 ---
-title: OperatorCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OperatorCollection. إزالة عامل من المجموعة
+title: "OperatorCollection.Remove"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OperatorCollection. إزالة المشغل من المجموعة"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf/operatorcollection/remove/
 ---
-## طريقة OperatorCollection.Remove
+## OperatorCollection.Remove method
 
-إزالة عامل من المجموعة.
+إزالة المشغّل من المجموعة.
 
 ```csharp
 public override bool Remove(Operator op)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| op | عامل | العامل الذي سيتم إزالته. |
+| op | Operator | المشغل المراد إزالته. |
 
 ### قيمة الإرجاع
 
-صحيح إذا تم العثور على العامل وإزالته. خطأ إذا لم يكن العامل ينتمي إلى المجموعة.
+صحيح إذا تم العثور على المشغل وإزالته. خطأ إذا لم يكن المشغل جزءًا من المجموعة.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public override bool Remove(Operator op)
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PsLoadOptions.PsLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PsLoadOptions. المُنشئ الافتراضي
+title: "PsLoadOptions.PsLoadOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PsLoadOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/psloadoptions/psloadoptions/
 ---
-## مُنشئ PsLoadOptions
+## PsLoadOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public PsLoadOptions()
@@ -19,3 +19,5 @@ public PsLoadOptions()
 * class [PsLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: PopupAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PopupAnnotation. تقبل كائن الزائر لمعالجة التعليق
+title: "PopupAnnotation.Accept"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PopupAnnotation طريقة. يقبل كائن الزائر لمعالجة التعليق التوضيحي"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.annotations/popupannotation/accept/
 ---
-## طريقة PopupAnnotation.Accept
+## PopupAnnotation.Accept method
 
-تقبل كائن الزائر لمعالجة التعليق.
+يقبل كائن الزائر لمعالجة التعليق.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الزائر | AnnotationSelector | كائن الزائر. |
+| زائر | AnnotationSelector | كائن Visitor. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public override void Accept(AnnotationSelector visitor)
 * class [PopupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

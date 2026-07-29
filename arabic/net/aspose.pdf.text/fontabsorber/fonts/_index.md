@@ -1,14 +1,14 @@
 ---
-title: FontAbsorber.Fonts
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FontAbsorber. تحصل على مجموعة من حالات البحث التي يتم تقديمها مع كائنات Font
+title: "FontAbsorber.Fonts"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FontAbsorber. يحصل على مجموعة من عمليات البحث التي يتم تقديمها مع كائنات Font"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.text/fontabsorber/fonts/
 ---
-## خاصية FontAbsorber.Fonts
+## FontAbsorber.Fonts property
 
-تحصل على مجموعة من حالات البحث التي يتم تقديمها مع [`Font`](../../font/) كائنات.
+يحصل على مجموعة من عمليات البحث التي يتم تقديمها مع كائنات [`Font`](../../font/)
 
 ```csharp
 public FontCollection Fonts { get; }
@@ -20,3 +20,5 @@ public FontCollection Fonts { get; }
 * class [FontAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

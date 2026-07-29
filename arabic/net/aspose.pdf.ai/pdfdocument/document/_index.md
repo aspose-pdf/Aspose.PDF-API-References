@@ -1,14 +1,14 @@
 ---
-title: PdfDocument.Document
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfDocument. يحصل أو يحدد مستند PDF
+title: "PdfDocument.Document"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfDocument. تحصل أو تعين مستند PDF"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/pdfdocument/document/
 ---
-## خاصية PdfDocument.Document
+## PdfDocument.Document property
 
-يحصل أو يحدد مستند PDF.
+يحصل أو يعيّن مستند PDF.
 
 ```csharp
 public Document Document { get; set; }
@@ -20,3 +20,5 @@ public Document Document { get; set; }
 * class [PdfDocument](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

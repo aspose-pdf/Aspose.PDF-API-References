@@ -1,25 +1,25 @@
 ---
-title: CustomPrintEventArgs.CustomPrintEventArgs
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ CustomPrintEventArgs. يقوم بتهيئة CustomPrintEventArgs مع إعدادات الطابعة والصفحة المعطاة
+title: "CustomPrintEventArgs.CustomPrintEventArgs"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ CustomPrintEventArgs. يهيئ CustomPrintEventArgs باستخدام الطابعة وإعدادات الصفحة المحددة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.printing/customprinteventargs/customprinteventargs/
 ---
-## مُنشئ CustomPrintEventArgs
+## CustomPrintEventArgs constructor
 
-يقوم بتهيئة [`CustomPrintEventArgs`](../) مع إعدادات الطابعة والصفحة المعطاة.
+يهيئ [`CustomPrintEventArgs`](../) باستخدام الطابعة وإعدادات الصفحة المحددة.
 
 ```csharp
 public CustomPrintEventArgs(string fileName, PrinterSettings printerSettings, 
     PageSettings pageSettings)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fileName | String | اسم الملف الذي يتم طباعته. |
-| printerSettings | PrinterSettings | معلومات حول الطابعة التي يجب أن يتم طباعة المستند عليها. |
-| pageSettings | PageSettings | الإعدادات التي يجب تطبيقها على كل صفحة من صفحات المستند. |
+| printerSettings | PrinterSettings | معلومات حول الطابعة التي يجب طباعة المستند عليها. |
+| pageSettings | PageSettings | الإعدادات التي يجب تطبيقها على كل صفحة من المستند. |
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public CustomPrintEventArgs(string fileName, PrinterSettings printerSettings,
 * class [CustomPrintEventArgs](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

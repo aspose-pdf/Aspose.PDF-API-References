@@ -1,20 +1,20 @@
 ---
-title: SetWordSpacing.SetWordSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SetWordSpacing. يُهيئ المُشغل
+title: "SetWordSpacing.SetWordSpacing"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SetWordSpacing. يهيئ المشغّل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/setwordspacing/setwordspacing/
 ---
-## مُنشئ SetWordSpacing
+## SetWordSpacing constructor
 
-يُهيئ المُشغل.
+يُهيئ العامل.
 
 ```csharp
 public SetWordSpacing(double wordSpacing)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | wordSpacing | Double | تباعد الكلمات. |
 
@@ -23,3 +23,5 @@ public SetWordSpacing(double wordSpacing)
 * class [SetWordSpacing](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

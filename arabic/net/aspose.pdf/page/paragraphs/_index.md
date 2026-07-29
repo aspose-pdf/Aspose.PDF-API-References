@@ -1,20 +1,20 @@
 ---
-title: Page.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصفحة. تحصل على الفقرات
+title: "Page.Paragraphs"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Page. تحصل على الفقرات"
 type: docs
 weight: 220
 url: /ar/net/aspose.pdf/page/paragraphs/
 ---
-## خاصية Page.Paragraphs
+## Page.Paragraphs property
 
-تحصل على الفقرات.
+يحصل على الفقرات.
 
 ```csharp
 public Paragraphs Paragraphs { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 الفقرات.
 
@@ -24,3 +24,5 @@ public Paragraphs Paragraphs { get; set; }
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

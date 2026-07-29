@@ -1,22 +1,22 @@
 ---
-title: PageLabelCollection.UpdateLabel
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PageLabelCollection. تحديث التسمية لمؤشر الصفحة المعطى
+title: "PageLabelCollection.UpdateLabel"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PageLabelCollection. تحديث التسمية للصفحة ذات الفهرس المحدد، يبدأ الفهرس من 0"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/pagelabelcollection/updatelabel/
 ---
-## طريقة PageLabelCollection.UpdateLabel
+## PageLabelCollection.UpdateLabel method
 
-تحديث التسمية لمؤشر الصفحة المعطى (يبدأ مؤشر الصفحة من 0).
+تحديث التسمية للفهرس المحدد للصفحة (يبدأ فهرس الصفحة من 0).
 
 ```csharp
 public void UpdateLabel(int pageIndex, PageLabel pageLabel)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pageIndex | Int32 | مؤشر الصفحة لتغيير تسمية الصفحة. |
+| pageIndex | Int32 | فهرس الصفحة لتغيير تسمية الصفحة. |
 | pageLabel | PageLabel | التسمية الجديدة للصفحة. |
 
 ### انظر أيضًا
@@ -25,3 +25,5 @@ public void UpdateLabel(int pageIndex, PageLabel pageLabel)
 * class [PageLabelCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

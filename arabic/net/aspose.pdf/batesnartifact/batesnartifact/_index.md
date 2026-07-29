@@ -1,14 +1,14 @@
 ---
-title: BatesNArtifact.BatesNArtifact
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ BatesNArtifact. يقوم بتهيئة مثيل جديد من فئة BatesNArtifact. هذا المُنشئ داخلي ويقوم بإنشاء مثيل artifact رأس مع قيم افتراضية
+title: "BatesNArtifact.BatesNArtifact"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ BatesNArtifact. يهيئ نسخة جديدة من فئة BatesNArtifact. هذا المنشئ داخلي ويُنشئ نسخة من عنصر رأس مع القيم الافتراضية"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/batesnartifact/batesnartifact/
 ---
-## مُنشئ BatesNArtifact
+## BatesNArtifact constructor
 
-يقوم بتهيئة مثيل جديد من فئة [`BatesNArtifact`](../). هذا المُنشئ داخلي ويقوم بإنشاء مثيل artifact رأس مع قيم افتراضية.
+يُهيئ نسخة جديدة من الفئة [`BatesNArtifact`](../). هذا المنشئ داخلي ويُنشئ نسخة من عنصر رأس مع القيم الافتراضية.
 
 ```csharp
 public BatesNArtifact()
@@ -16,6 +16,8 @@ public BatesNArtifact()
 
 ### انظر أيضًا
 
-* فئة [BatesNArtifact](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [BatesNArtifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

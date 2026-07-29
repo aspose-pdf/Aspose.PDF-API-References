@@ -1,12 +1,12 @@
 ---
-title: SignatureAlgorithmInfo.AlgorithmType
-second_title: Aspose.PDF for .NET API Reference
-description: حقل SignatureAlgorithmInfo. يحصل على نوع خوارزمية التوقيع المستخدمة لتوقيع مستند PDF
+title: "SignatureAlgorithmInfo.AlgorithmType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل SignatureAlgorithmInfo. يحصل على نوع خوارزمية التوقيع المستخدمة لتوقيع مستند PDF"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.security/signaturealgorithminfo/algorithmtype/
 ---
-## حقل SignatureAlgorithmInfo.AlgorithmType
+## SignatureAlgorithmInfo.AlgorithmType field
 
 يحصل على نوع خوارزمية التوقيع المستخدمة لتوقيع مستند PDF.
 
@@ -20,3 +20,5 @@ public readonly SignatureAlgorithmType AlgorithmType;
 * class [SignatureAlgorithmInfo](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

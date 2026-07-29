@@ -1,22 +1,22 @@
 ---
-title: PageNumberStamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PageNumberStamp. تضيف رقم الصفحة
+title: "PageNumberStamp.Put"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PageNumberStamp. تُضيف رقم الصفحة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/pagenumberstamp/put/
 ---
-## طريقة PageNumberStamp.Put
+## PageNumberStamp.Put method
 
-تضيف رقم الصفحة.
+يضيف رقم الصفحة.
 
 ```csharp
 public override void Put(Page page)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة للتختم. |
+| صفحة | صفحة | صفحة للختم. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public override void Put(Page page)
 * class [PageNumberStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

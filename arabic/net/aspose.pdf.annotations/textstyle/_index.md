@@ -1,35 +1,37 @@
 ---
-title: Class TextStyle
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.TextStyle. تمثل الفئة نمط النص في التعليق
+title: "الفئة TextStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Annotations.TextStyle. الفئة التي تمثل نمط النص في التعليق التوضيحي"
 type: docs
-weight: 2680
+weight: 2780
 url: /ar/net/aspose.pdf.annotations/textstyle/
 ---
 ## TextStyle class
 
-تمثل الفئة نمط النص في التعليق
+الفئة تمثل نمط النص في التعليق التوضيحي
 
 ```csharp
 public class TextStyle
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [Color](../../aspose.pdf.annotations/textstyle/color/) { get; set; } | لون النص. |
 | [FontName](../../aspose.pdf.annotations/textstyle/fontname/) { get; set; } | اسم الخط. |
 | [FontSize](../../aspose.pdf.annotations/textstyle/fontsize/) { get; set; } | حجم الخط. |
-| [HorizontalAlignment](../../aspose.pdf.annotations/textstyle/horizontalalignment/) { get; set; } | محاذاة النص. القيم الصالحة هي: اليسار، الوسط، اليمين. |
+| [HorizontalAlignment](../../aspose.pdf.annotations/textstyle/horizontalalignment/) { get; set; } | محاذاة النص. القيم الصالحة هي: Left, Center, Rigth. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/textstyle/tostring/)() | تمثيل نصي لـ TextStyle. |
+| override [ToString](../../aspose.pdf.annotations/textstyle/tostring/)() | تمثيل النص كسلسلة لـ TextStyle. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

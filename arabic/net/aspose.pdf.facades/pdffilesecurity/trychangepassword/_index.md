@@ -1,30 +1,30 @@
 ---
-title: PdfFileSecurity.TryChangePassword
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileSecurity. تغير كلمة مرور المستخدم وكلمة مرور المالك مع الحفاظ على إعدادات الأمان الأصلية. يمكن أن تكون كلمة مرور المستخدم الجديدة وكلمة مرور المالك الجديدة فارغة أو null. سيتم استبدال كلمة مرور المالك بسلسلة عشوائية إذا كانت كلمة مرور المالك الجديدة فارغة أو null. لا يتم إلقاء استثناء إذا فشل العملية.
+title: "PdfFileSecurity.TryChangePassword"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileSecurity. تغير كلمة مرور المستخدم وكلمة مرور المالك باستخدام كلمة مرور المالك مع الحفاظ على إعدادات الأمان الأصلية. يمكن أن تكون كلمة مرور المستخدم الجديدة وكلمة مرور المالك الجديدة فارغتين أو null. سيتم استبدال كلمة مرور المالك بسلسلة عشوائية إذا كانت كلمة مرور المالك الجديدة فارغة أو null. لا يطرح استثناءً إذا فشلت العملية."
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.facades/pdffilesecurity/trychangepassword/
 ---
 ## TryChangePassword(string, string, string) {#trychangepassword}
 
-تغير كلمة مرور المستخدم وكلمة مرور المالك مع الحفاظ على إعدادات الأمان الأصلية. يمكن أن تكون كلمة مرور المستخدم الجديدة وكلمة مرور المالك الجديدة فارغة أو null. سيتم استبدال كلمة مرور المالك بسلسلة عشوائية إذا كانت كلمة مرور المالك الجديدة فارغة أو null. لا يتم إلقاء استثناء إذا فشل العملية.
+يغيّر كلمة مرور المستخدم وكلمة مرور المالك باستخدام كلمة مرور المالك، مع الحفاظ على إعدادات الأمان الأصلية. يمكن أن تكون كلمة مرور المستخدم الجديدة وكلمة مرور المالك الجديدة فارغتين أو null. سيتم استبدال كلمة مرور المالك بسلسلة عشوائية إذا كانت كلمة مرور المالك الجديدة فارغة أو null. لا يرمي استثناءً إذا فشلت العملية.
 
 ```csharp
 public bool TryChangePassword(string ownerPassword, string newUserPassword, string newOwnerPassword)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | ownerPassword | String | كلمة مرور المالك الأصلية. |
 | newUserPassword | String | كلمة مرور المستخدم الجديدة. |
 | newOwnerPassword | String | كلمة مرور المالك الجديدة. |
 
-### Return Value
+### قيمة الإرجاع
 
-True للنجاح، أو false.
+صحيح للنجاح، أو خطأ.
 
-## Examples
+## أمثلة
 
 ```csharp
 [C#]
@@ -40,7 +40,7 @@ True للنجاح، أو false.
  Dim result As Boolean = fileSecurity.TryChangePassword("owner","newuser","newowner")	
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -50,26 +50,26 @@ True للنجاح، أو false.
 
 ## TryChangePassword(string, string, string, DocumentPrivilege, KeySize) {#trychangepassword_1}
 
-تغير كلمة مرور المستخدم وكلمة مرور المالك، ويسمح بإعادة تعيين أمان مستند Pdf. يمكن أن تكون كلمة مرور المستخدم الجديدة وكلمة مرور المالك الجديدة فارغة أو null. سيتم استبدال كلمة مرور المالك بسلسلة عشوائية إذا كانت كلمة مرور المالك الجديدة فارغة أو null. لا يتم إلقاء استثناء إذا فشل العملية.
+يغيّر كلمة مرور المستخدم وكلمة المرور باستخدام كلمة مرور المالك، ويسمح بإعادة تعيين أمان مستند Pdf. يمكن أن تكون كلمة مرور المستخدم الجديدة وكلمة مرور المالك الجديدة فارغتين أو null. سيتم استبدال كلمة مرور المالك بسلسلة عشوائية إذا كانت كلمة مرور المالك الجديدة فارغة أو null. لا يرمي استثناءً إذا فشلت العملية.
 
 ```csharp
 public bool TryChangePassword(string ownerPassword, string newUserPassword, 
     string newOwnerPassword, DocumentPrivilege privilege, KeySize keySize)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | ownerPassword | String | كلمة مرور المالك الأصلية. |
 | newUserPassword | String | كلمة مرور المستخدم الجديدة. |
 | newOwnerPassword | String | كلمة مرور المالك الجديدة. |
-| privilege | DocumentPrivilege | إعادة تعيين الأمان. |
-| keySize | KeySize | KeySize.x40 لتشفير 40 بت، KeySize.x128 لتشفير 128 بت و KeySize.x256 لتشفير 256 بت. |
+| امتياز | DocumentPrivilege | إعادة تعيين الأمان. |
+| keySize | KeySize | KeySize.x40 للتشفير 40 بت، KeySize.x128 للتشفير 128 بت وKeySize.x256 للتشفير 256 بت. |
 
-### Return Value
+### قيمة الإرجاع
 
-True للنجاح، أو false.
+صحيح إذا نجح، أو خطأ.
 
-## Examples
+## أمثلة
 
 ```csharp
 [C#]
@@ -85,7 +85,7 @@ Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile)
 Dim result As Boolean = fileSecurity.TryChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256)
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [DocumentPrivilege](../../documentprivilege/)
 * enum [KeySize](../../keysize/)
@@ -97,27 +97,27 @@ Dim result As Boolean = fileSecurity.TryChangePassword("owner","newuser","newown
 
 ## TryChangePassword(string, string, string, DocumentPrivilege, KeySize, Algorithm) {#trychangepassword_2}
 
-تغير كلمة مرور المستخدم وكلمة مرور المالك، ويسمح بإعادة تعيين أمان مستند Pdf. يمكن أن تكون كلمة مرور المستخدم الجديدة وكلمة مرور المالك الجديدة فارغة أو null. سيتم استبدال كلمة مرور المالك بسلسلة عشوائية إذا كانت كلمة مرور المالك الجديدة فارغة أو null. هناك 6 تركيبات ممكنة من قيم KeySize و Algorithm. ومع ذلك، فإن (KeySize.x40، Algorithm.AES) و (KeySize.x256، Algorithm.RC4) غير صالحة وسيتم رفع استثناء مناسب إذا واجهت المجموعة. لا يتم إلقاء استثناء إذا فشل العملية.
+يغيّر كلمة مرور المستخدم وكلمة مرور المالك، ويسمح بإعادة تعيين أمان مستند Pdf. يمكن أن تكون كلمة مرور المستخدم الجديدة وكلمة مرور المالك الجديدة فارغتين أو null. سيتم استبدال كلمة مرور المالك بسلسلة عشوائية إذا كانت كلمة مرور المالك الجديدة فارغة أو null. هناك 6 تركيبات محتملة لقيم KeySize و Algorithm. ومع ذلك، فإن (KeySize.x40, Algorithm.AES) و (KeySize.x256, Algorithm.RC4) غير صالحة وسيتم رفع الاستثناء المناسب إذا صادف التطبيق هذه التركيبة. لا يُطلق استثناءً إذا فشلت العملية.
 
 ```csharp
 public bool TryChangePassword(string ownerPassword, string newUserPassword, 
     string newOwnerPassword, DocumentPrivilege privilege, KeySize keySize, Algorithm cipher)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | ownerPassword | String | كلمة مرور المالك الأصلية. |
 | newUserPassword | String | كلمة مرور المستخدم الجديدة. |
 | newOwnerPassword | String | كلمة مرور المالك الجديدة. |
-| privilege | DocumentPrivilege | إعادة تعيين الأمان. |
-| keySize | KeySize | KeySize.x40 لتشفير 40 بت، KeySize.x128 لتشفير 128 بت و KeySize.x256 لتشفير 256 بت. |
-| cipher | Algorithm | Algorithm.AES للتشفير باستخدام خوارزمية AES أو Algorithm.RC4 لتشفير RC4. |
+| امتياز | DocumentPrivilege | إعادة تعيين الأمان. |
+| keySize | KeySize | KeySize.x40 للتشفير 40 بت، KeySize.x128 للتشفير 128 بت وKeySize.x256 للتشفير 256 بت. |
+| شفرة | خوارزمية | Algorithm.AES للتشفير باستخدام خوارزمية AES أو Algorithm.RC4 لتشفير RC4. |
 
-### Return Value
+### قيمة الإرجاع
 
-True للنجاح، أو false.
+صحيح إذا نجح، أو خطأ.
 
-## Examples
+## أمثلة
 
 ```csharp
 [C#]
@@ -133,7 +133,7 @@ Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile)
 Dim result As Boolean = fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Print,KeySize.x256,Algorithm.AES)
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [DocumentPrivilege](../../documentprivilege/)
 * enum [KeySize](../../keysize/)
@@ -141,3 +141,5 @@ Dim result As Boolean = fileSecurity.ChangePassword("owner","newuser","newowner"
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

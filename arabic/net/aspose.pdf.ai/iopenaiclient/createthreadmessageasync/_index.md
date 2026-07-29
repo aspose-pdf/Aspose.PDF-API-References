@@ -1,35 +1,35 @@
 ---
-title: IOpenAIClient.CreateThreadMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IOpenAIClient. تنشئ رسالة جديدة داخل سلسلة بشكل غير متزامن
+title: "IOpenAIClient.CreateThreadMessageAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IOpenAIClient. تنشئ رسالة جديدة داخل خيط بشكل غير متزامن"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.ai/iopenaiclient/createthreadmessageasync/
 ---
-## طريقة IOpenAIClient.CreateThreadMessageAsync
+## IOpenAIClient.CreateThreadMessageAsync method
 
-تنشئ رسالة جديدة داخل سلسلة بشكل غير متزامن.
+ينشئ رسالة جديدة داخل خيط بشكل غير متزامن.
 
 ```csharp
 public Task<ThreadMessageResponse> CreateThreadMessageAsync(string threadId, 
     ThreadMessageCreateRequest threadMessageRequest, CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| threadId | String | معرف السلسلة التي سيتم إنشاء الرسالة فيها. |
+| threadId | String | معرّف السلسلة التي ستُنشأ فيها الرسالة. |
 | threadMessageRequest | ThreadMessageCreateRequest | تفاصيل الطلب لإنشاء الرسالة. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
 ### قيمة الإرجاع
 
-مهمة تمثل العملية غير المتزامنة. تحتوي نتيجة المهمة على الاستجابة من إنشاء الرسالة.
+مهمة تمثل العملية غير المتزامنة. يحتوي نتيجة المهمة على الاستجابة من إنشاء الرسالة.
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | يتم إلقاؤه عندما يكون معرف السلسلة فارغًا أو غير موجود. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرّف الخيط فارغًا أو null. |
 
 ### انظر أيضًا
 
@@ -38,3 +38,5 @@ public Task<ThreadMessageResponse> CreateThreadMessageAsync(string threadId,
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

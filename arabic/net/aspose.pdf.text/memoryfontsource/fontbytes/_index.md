@@ -1,14 +1,14 @@
 ---
-title: MemoryFontSource.FontBytes
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MemoryFontSource. مصفوفة بايت ملف الخط
+title: "MemoryFontSource.FontBytes"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MemoryFontSource. مصفوفة بايتات ملف الخط"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.text/memoryfontsource/fontbytes/
 ---
-## خاصية MemoryFontSource.FontBytes
+## MemoryFontSource.FontBytes property
 
-مصفوفة بايت ملف الخط.
+مصفوفة بايت لملف الخط.
 
 ```csharp
 public byte[] FontBytes { get; }
@@ -19,3 +19,5 @@ public byte[] FontBytes { get; }
 * class [MemoryFontSource](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.MonarchEnvelope
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ظرف ملوك 3.875 بوصة × 7.5 بوصة
+title: "PaperSizes.MonarchEnvelope"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ظرف مونارخ 3.875 بوصة × 7.5 بوصة"
 type: docs
 weight: 720
 url: /ar/net/aspose.pdf.printing/papersizes/monarchenvelope/
 ---
-## حقل PaperSizes.MonarchEnvelope
+## PaperSizes.MonarchEnvelope field
 
-ظرف ملوك (3.875 بوصة × 7.5 بوصة).
+مغلف مونارك (3.875 بوصة × 7.5 بوصة).
 
 ```csharp
 public static readonly PaperSize MonarchEnvelope;
@@ -20,3 +20,5 @@ public static readonly PaperSize MonarchEnvelope;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

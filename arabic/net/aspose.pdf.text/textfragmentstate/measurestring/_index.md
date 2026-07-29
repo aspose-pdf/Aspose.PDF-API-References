@@ -1,22 +1,22 @@
 ---
-title: TextFragmentState.MeasureString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TextFragmentState. تقيس السلسلة
+title: "TextFragmentState.MeasureString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TextFragmentState. تقيس السلسلة"
 type: docs
 weight: 270
 url: /ar/net/aspose.pdf.text/textfragmentstate/measurestring/
 ---
-## طريقة TextFragmentState.MeasureString
+## TextFragmentState.MeasureString method
 
-تقيس السلسلة.
+يقيس السلسلة.
 
 ```csharp
 public override double MeasureString(string str)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| str | سلسلة | السلسلة. |
+| str | String | السلسلة. |
 
 ### قيمة الإرجاع
 
@@ -24,6 +24,8 @@ public override double MeasureString(string str)
 
 ### انظر أيضًا
 
-* الفئة [TextFragmentState](../)
-* مساحة الاسم [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../../)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية المستطيل. تحصل أو تعين قيمة عائمة تشير إلى موضع الجزء السفلي من المستطيل
+title: "Rectangle.Bottom"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Rectangle. تحصل أو تعيين قيمة float تشير إلى الموضع السفلي للمستطيل"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.drawing/rectangle/bottom/
 ---
-## خاصية Rectangle.Bottom
+## Rectangle.Bottom property
 
-تحصل أو تعين قيمة عائمة تشير إلى موضع الجزء السفلي من المستطيل.
+يحصل أو يعيّن قيمة float تُشير إلى الموضع السفلي للمستطيل.
 
 ```csharp
 public double Bottom { get; set; }
@@ -19,3 +19,5 @@ public double Bottom { get; set; }
 * class [Rectangle](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

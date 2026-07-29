@@ -1,24 +1,24 @@
 ---
-title: Artifact.SetImage
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Artifact. تعيين صورة الأثر
+title: "Artifact.SetImage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Artifact. تعيين صورة للـ artifact"
 type: docs
 weight: 280
 url: /ar/net/aspose.pdf/artifact/setimage/
 ---
 ## SetImage(Stream) {#setimage}
 
-تعيين صورة الأثر.
+يضبط صورة العنصر.
 
 ```csharp
 public void SetImage(Stream imageStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| imageStream | Stream | تدفق يحتوي على بيانات الصورة. |
+| imageStream | Stream | دفق يحتوي على بيانات الصورة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -28,18 +28,20 @@ public void SetImage(Stream imageStream)
 
 ## SetImage(string) {#setimage_1}
 
-تعيين صورة الأثر.
+يضبط صورة العنصر.
 
 ```csharp
 public void SetImage(string imageName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | imageName | String | اسم ملف الصورة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

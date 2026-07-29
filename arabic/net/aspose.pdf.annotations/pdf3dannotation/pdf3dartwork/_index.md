@@ -1,22 +1,22 @@
 ---
-title: PDF3DAnnotation.Pdf3DArtwork
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PDF3DAnnotation. تحصل على العمل الفني ثلاثي الأبعاد
+title: "PDF3DAnnotation.Pdf3DArtwork"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PDF3DAnnotation. تحصّل على العمل الفني ثلاثي الأبعاد"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.annotations/pdf3dannotation/pdf3dartwork/
 ---
-## خاصية PDF3DAnnotation.Pdf3DArtwork
+## PDF3DAnnotation.Pdf3DArtwork property
 
-تحصل على العمل الفني ثلاثي الأبعاد.
+يحصل على العمل الفني ثلاثي الأبعاد.
 
 ```csharp
 public PDF3DArtwork Pdf3DArtwork { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-العمل الفني ثلاثي الأبعاد PDF3.
+العمل الفني PDF3D.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public PDF3DArtwork Pdf3DArtwork { get; }
 * class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,40 +1,42 @@
 ---
-title: IOpenAIClient.WaitForRunToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IOpenAIClient. تنتظر حتى يكتمل التشغيل داخل خيط بشكل غير متزامن
+title: "IOpenAIClient.WaitForRunToCompleteAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IOpenAIClient. تنتظر تشغيلًا ليكتمل داخل خيط بشكل غير متزامن"
 type: docs
 weight: 440
 url: /ar/net/aspose.pdf.ai/iopenaiclient/waitforruntocompleteasync/
 ---
 ## IOpenAIClient.WaitForRunToCompleteAsync method
 
-تنتظر حتى يكتمل التشغيل داخل خيط بشكل غير متزامن.
+ينتظر إكمال تشغيل داخل خيط بشكل غير متزامن.
 
 ```csharp
 public Task<RunResponse> WaitForRunToCompleteAsync(string threadId, string runId, 
     CancellationToken? cancellationToken = default)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| threadId | String | معرف الخيط الذي يحتوي على التشغيل. |
-| runId | String | معرف التشغيل الذي سيتم مراقبته حتى الاكتمال. |
+| threadId | String | معرّف الخيط الذي يحتوي على التشغيل. |
+| runId | String | معرّف التشغيل لمراقبته حتى الانتهاء. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
-### Return Value
+### قيمة الإرجاع
 
-مهمة تمثل العملية غير المتزامنة. تحتوي نتيجة المهمة على الحالة النهائية للتشغيل.
+مهمة تمثل العملية غير المتزامنة. يحتوي نتيجة المهمة على الحالة النهائية للتشغيل.
 
-### Exceptions
+### الاستثناءات
 
-| exception | condition |
+| استثناء | شرط |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | يتم طرحها عندما يكون معرف الخيط فارغًا أو null. |
-| [AIClientException](../../aiclientexception/) | يتم طرحها عندما يكون معرف التشغيل فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرّف الخيط فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يتم رمي الاستثناء عندما يكون معرّف التشغيل null أو فارغ. |
 
-### See Also
+### انظر أيضًا
 
 * class [RunResponse](../../runresponse/)
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

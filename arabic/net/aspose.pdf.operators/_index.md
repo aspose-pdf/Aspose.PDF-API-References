@@ -1,102 +1,104 @@
 ---
-title: Aspose.Pdf.Operators
-second_title: Aspose.PDF for .NET API Reference
-description: مساحة أسماء Aspose.Pdf.Operators هي مساحة لأداء العمليات. تصف هذه الفئات العمليات المستخدمة في محتويات صفحات PDF
+title: "Aspose.Pdf.Operators"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Operators هو مساحة أسماء لتطبيقات المشغل. هذه الفئات تصف المشغلات المستخدمة في محتويات صفحات PDF."
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.operators/
 ---
-تعتبر **Aspose.Pdf.Operators** مساحة أسماء لتنفيذ العمليات. تصف هذه الفئات العمليات المستخدمة في محتويات صفحات PDF.
+مساحة الاسم **Aspose.Pdf.Operators** هي مساحة اسم لتطبيقات المشغلات. تصف هذه الفئات المشغلات المستخدمة في محتويات صفحات PDF.
 
 ## الفئات
 
-| الفئة | الوصف |
+| فئة | الوصف |
 | --- | --- |
-| [BasicSetColorAndPatternOperator](./basicsetcolorandpatternoperator/) | مشغل أساسي لجميع مشغلات تعيين اللون. |
-| [BasicSetColorOperator](./basicsetcoloroperator/) | فئة أساسية لمشغلات تعيين اللون. |
-| [BDC](./bdc/) | فئة تمثل مشغل BDC (بدء تسلسل المحتوى المعلم) |
-| [BI](./bi/) | فئة تمثل مشغل BI (بدء كائن الصورة المضمنة). |
-| [BlockTextOperator](./blocktextoperator/) | فئة أساسية مجردة لمشغلات كتلة النص أي مشغلات بدء وانتهاء النص (BT/ET) |
-| [BMC](./bmc/) | فئة تمثل مشغل BMC (بدء تسلسل المحتوى المعلم). |
-| [BT](./bt/) | فئة تمثل مشغل BT (بداية كتلة النص). |
-| [BX](./bx/) | فئة تمثل مشغل BX (بدء قسم التوافق). |
-| [Clip](./clip/) | فئة تمثل مشغل W (تعيين مسار القص باستخدام قاعدة الالتواء غير الصفرية). |
-| [ClosePath](./closepath/) | فئة تمثل مشغل h (إغلاق المسار). |
-| [ClosePathEOFillStroke](./closepatheofillstroke/) | فئة تمثل مشغل b* (إغلاق، تعبئة وضرب المسار باستخدام قاعدة الزوج والفرد). |
-| [ClosePathFillStroke](./closepathfillstroke/) | فئة تمثل مشغل b (إغلاق، تعبئة وضرب المسار باستخدام قاعدة الالتواء غير الصفرية). |
-| [ClosePathStroke](./closepathstroke/) | فئة تمثل مشغل s (إغلاق وضرب المسار). |
-| [ConcatenateMatrix](./concatenatematrix/) | فئة تمثل مشغل cm (دمج المصفوفة مع مصفوفة التحويل الحالية). |
-| [CurveTo](./curveto/) | فئة تمثل مشغل c (إضافة منحنى إلى المسار). |
-| [CurveTo1](./curveto1/) | فئة تمثل مشغل v (إضافة منحنى إلى المسار، نقطة البداية مكررة). |
-| [CurveTo2](./curveto2/) | فئة تمثل مشغل y (إضافة منحنى إلى المسار، نقطة النهاية مكررة). |
-| [Do](./do/) | فئة تمثل مشغل Do (استدعاء XObject). |
-| [DP](./dp/) | فئة تمثل مشغل DP (تعيين نقطة المحتوى المعلم). |
-| [EI](./ei/) | فئة تمثل مشغل EI (نهاية كائن الصورة المضمنة). |
-| [EMC](./emc/) | فئة تمثل مشغل EMC (نهاية تسلسل المحتوى المعلم). |
-| [EndPath](./endpath/) | فئة تمثل مشغل n (إنهاء المسار دون تعبئة أو ضرب). |
-| [EOClip](./eoclip/) | فئة تمثل مشغل W* (تعيين مسار القص باستخدام قاعدة الزوج والفرد). |
-| [EOFill](./eofill/) | فئة تمثل مشغل f* (تعبئة المسار باستخدام قاعدة الزوج والفرد). |
-| [EOFillStroke](./eofillstroke/) | فئة تمثل مشغل B* (تعبئة وضرب المسار باستخدام قاعدة الزوج والفرد). |
-| [ET](./et/) | فئة تمثل مشغل ET (نهاية كتلة النص). |
-| [EX](./ex/) | فئة تمثل مشغل EX (نهاية قسم التوافق). |
-| [Fill](./fill/) | فئة تمثل مشغل f (تعبئة المسار باستخدام قاعدة عدد الالتواء غير الصفرية). |
-| [FillStroke](./fillstroke/) | فئة تمثل مشغل B (تعبئة وضرب المسار باستخدام قاعدة الالتواء غير الصفرية) |
-| [GlyphPosition](./glyphposition/) | فئة تصف النص والموقع لاستخدامه مع المشغل TJ (تعيين الجليف مع الموقع) |
-| [GRestore](./grestore/) | فئة تمثل مشغل Q (استعادة حالة الرسوميات). |
-| [GS](./gs/) | فئة تمثل مشغل gs (تعيين المعلمات من قاموس معلمات حالة الرسوميات). |
-| [GSave](./gsave/) | فئة تمثل مشغل q (حفظ حالة الرسوميات). |
-| [ID](./id/) | فئة تمثل مشغل ID (بدء بيانات الصورة المضمنة). |
-| [LineTo](./lineto/) | فئة تمثل مشغل l (إضافة خط إلى المسار). |
-| [MoveTextPosition](./movetextposition/) | فئة تمثل مشغل Td (تحريك موضع النص). |
-| [MoveTextPositionSetLeading](./movetextpositionsetleading/) | فئة تمثل مشغل TD (تحريك الموضع وتعيين المسافة بين الأسطر). |
-| [MoveTo](./moveto/) | فئة تمثل مشغل m (الانتقال إلى وبدء مسار فرعي جديد). |
-| [MoveToNextLine](./movetonextline/) | فئة تمثل مشغل T* (الانتقال إلى بداية السطر التالي). |
-| [MoveToNextLineShowText](./movetonextlineshowtext/) | فئة تمثل مشغل ' (الانتقال إلى السطر التالي وعرض النص). |
-| [MP](./mp/) | فئة تمثل مشغل MP (تعيين نقطة المحتوى المعلم). |
-| [ObsoleteFill](./obsoletefill/) | فئة تمثل مشغل F (تعبئة المسار باستخدام قاعدة الالتواء غير الصفرية). |
-| [Re](./re/) | فئة تمثل مشغل re (إضافة مستطيل إلى المسار). |
-| [SelectFont](./selectfont/) | فئة تمثل مشغل Tf (تعيين خط النص والحجم). |
-| [SetAdvancedColor](./setadvancedcolor/) | فئة تمثل مشغل scn (تعيين اللون للعمليات غير الضاربة). |
-| [SetAdvancedColorStroke](./setadvancedcolorstroke/) | فئة تمثل مشغل SCN (تعيين اللون لعمليات الضرب). |
-| [SetCharacterSpacing](./setcharacterspacing/) | فئة تمثل مشغل Tc (تعيين تباعد الأحرف). |
-| [SetCharWidth](./setcharwidth/) | فئة تمثل مشغل d0 (تعيين عرض الجليف). |
-| [SetCharWidthBoundingBox](./setcharwidthboundingbox/) | فئة تمثل مشغل d1 (تعيين الجليف وصندوق الحدود). |
-| [SetCMYKColor](./setcmykcolor/) | فئة تمثل مشغل k (تعيين لون CMYK للعمليات غير الضاربة). |
-| [SetCMYKColorStroke](./setcmykcolorstroke/) | فئة تمثل مشغل K (تعيين لون CMYK لعمليات الضرب). |
-| [SetColor](./setcolor/) | تمثل فئة لمشغل sc (تعيين اللون للعمليات غير الضاربة). |
-| [SetColorOperator](./setcoloroperator/) | فئة تمثل عملية تعيين اللون. |
-| [SetColorRenderingIntent](./setcolorrenderingintent/) | فئة تمثل مشغل ri (تعيين نية عرض اللون). |
-| [SetColorSpace](./setcolorspace/) | فئة تمثل مشغل cs (تعيين مساحة اللون للعمليات غير الضاربة) |
-| [SetColorSpaceStroke](./setcolorspacestroke/) | فئة تمثل مشغل CS (تعيين اللون لعمليات الضرب). |
-| [SetColorStroke](./setcolorstroke/) | فئة تمثل مشغل SC لتعيين اللون لعمليات ضرب اللون. |
-| [SetDash](./setdash/) | فئة تمثل مشغل d (تعيين نمط خط متقطع). |
-| [SetFlat](./setflat/) | فئة تمثل مشغل i (تعيين تحمل السطح). |
-| [SetGlyphsPositionShowText](./setglyphspositionshowtext/) | فئة تمثل مشغل TJ (عرض النص مع تحديد موضع الجليف). |
-| [SetGray](./setgray/) | تعيين مستوى الرمادي للعمليات غير الضاربة. |
-| [SetGrayStroke](./setgraystroke/) | فئة تمثل مستوى الرمادي لعمليات الضرب. |
-| [SetHorizontalTextScaling](./sethorizontaltextscaling/) | فئة تمثل مشغل Tz (تعيين مقياس النص الأفقي). |
-| [SetLineCap](./setlinecap/) | فئة تمثل مشغل J (تعيين نمط نهاية الخط). |
-| [SetLineJoin](./setlinejoin/) | فئة تمثل مشغل j (تعيين نمط انضمام الخط). |
-| [SetLineWidth](./setlinewidth/) | فئة تمثل مشغل w (تعيين عرض الخط). |
-| [SetMiterLimit](./setmiterlimit/) | فئة تمثل مشغل M (تعيين حد الميتر). |
-| [SetRGBColor](./setrgbcolor/) | فئة تمثل مشغل rg (تعيين لون RGB للعمليات غير الضاربة). |
-| [SetRGBColorStroke](./setrgbcolorstroke/) | فئة تمثل مشغل RG (تعيين لون RGB لعمليات الضرب). |
-| [SetSpacingMoveToNextLineShowText](./setspacingmovetonextlineshowtext/) | فئة تمثل " (تعيين تباعد الكلمات والأحرف، الانتقال إلى السطر التالي وعرض النص). |
-| [SetTextLeading](./settextleading/) | فئة تمثل مشغل TL (تعيين المسافة بين الأسطر للنص). |
-| [SetTextMatrix](./settextmatrix/) | فئة تمثل مشغل Tm (تعيين مصفوفة النص). |
-| [SetTextRenderingMode](./settextrenderingmode/) | فئة تمثل مشغل Tr (تعيين وضع عرض النص). |
-| [SetTextRise](./settextrise/) | فئة تمثل مشغل Ts (تعيين ارتفاع النص). |
-| [SetWordSpacing](./setwordspacing/) | فئة تمثل مشغل Tw (تعيين تباعد الكلمات). |
-| [ShFill](./shfill/) | فئة تمثل مشغل sh (طلاء المنطقة بنمط تظليل). |
-| [ShowText](./showtext/) | فئة تمثل مشغل Tj (عرض النص). |
-| [Stroke](./stroke/) | فئة تمثل مشغل S (ضرب المسار). |
-| [TextOperator](./textoperator/) | فئة أساسية مجردة لمشغلات النص (TJ، Tj، Tm، BT، ET، إلخ). |
-| [TextPlaceOperator](./textplaceoperator/) | فئة أساسية مجردة لمشغلات التي تغير موضع النص (Tm، Td، إلخ). |
-| [TextShowOperator](./textshowoperator/) | فئة أساسية مجردة لجميع المشغلات المستخدمة لإخراج النص (Tj، TJ، إلخ). |
-| [TextStateOperator](./textstateoperator/) | فئة أساسية مجردة لمشغلات التي تغير حالة النص الحالية (Tc، Tf، TL، إلخ). |
-## التعداد
+| [BasicSetColorAndPatternOperator](./basicsetcolorandpatternoperator/) | المشغل الأساسي لجميع مشغلات Set Color. |
+| [BasicSetColorOperator](./basicsetcoloroperator/) | الفئة الأساسية لمشغلات set color. |
+| [BDC](./bdc/) | فئة تمثل المشغل BDC (Begin marked-content sequence) |
+| [BI](./bi/) | فئة تمثل المشغل BI (Begin inline image obect). |
+| [BlockTextOperator](./blocktextoperator/) | الفئة الأساسية المجردة لمشغلات كتلة النص أي مشغلات Begin و End للنص (BT/ET) |
+| [BMC](./bmc/) | فئة تمثل المشغل BMC (Begin marked-content sequence). |
+| [BT](./bt/) | فئة تمثل المشغل BT (Begin of text block). |
+| [BX](./bx/) | فئة تمثل المشغل BX (begin compatibility section). |
+| [Clip](./clip/) | فئة تمثل المشغل W (set clipping path باستخدام قاعدة الالتفاف غير الصفرية). |
+| [ClosePath](./closepath/) | فئة تمثل المشغل h (close path). |
+| [ClosePathEOFillStroke](./closepatheofillstroke/) | فئة تمثل المشغل b* (close, fill and stroke path باستخدام قاعدة الزوجي-الفردي). |
+| [ClosePathFillStroke](./closepathfillstroke/) | فئة تمثل المشغل b (close, fill and stroke path مع قاعدة الالتفاف غير الصفرية). |
+| [ClosePathStroke](./closepathstroke/) | فئة تمثل المشغل s (Close and stroke path). |
+| [ConcatenateMatrix](./concatenatematrix/) | فئة تمثل المشغل cm (concatenate matrix إلى مصفوفة التحويل الحالية). |
+| [CurveTo](./curveto/) | فئة تمثل المشغل c (append curve إلى المسار). |
+| [CurveTo1](./curveto1/) | فئة تمثل المشغل v (append curve إلى المسار، تكرار النقطة الأولية). |
+| [CurveTo2](./curveto2/) | فئة تمثل المشغل y (append curve إلى المسار، تكرار النقطة النهائية). |
+| [Do](./do/) | فئة تمثل المشغل Do (Invoke XObject). |
+| [DP](./dp/) | فئة تمثل المشغل DP (designamte marked content point). |
+| [EI](./ei/) | فئة تمثل المشغل EI (End inline image object). |
+| [EMC](./emc/) | فئة تمثل المشغل EMC (End of marked-content sequence). |
+| [EndPath](./endpath/) | فئة تمثل المشغل n (end path بدون تعبئة أو رسم). |
+| [EOClip](./eoclip/) | فئة تمثل المشغل W* (set clipping path باستخدام قاعدة الزوجي-الفردي). |
+| [EOFill](./eofill/) | الفئة التي تمثل المشغل f* (ملء المسار باستخدام قاعدة الزوجي-الفردي). |
+| [EOFillStroke](./eofillstroke/) | الفئة التي تمثل المشغل B* (ملء ورسم المسار باستخدام قاعدة الزوجي-الفردي). |
+| [ET](./et/) | الفئة التي تمثل المشغل ET (نهاية كتلة النص). |
+| [EX](./ex/) | الفئة التي تمثل المشغل EX (نهاية قسم التوافق). |
+| [Fill](./fill/) | الفئة التي تمثل المشغل f (ملء المسار باستخدام قاعدة عدد اللف غير الصفري). |
+| [FillStroke](./fillstroke/) | الفئة التي تمثل المشغل B (ملء ورسم المسار باستخدام قاعدة اللف غير الصفري) |
+| [GlyphPosition](./glyphposition/) | الفئة التي تصف النص والموقع لاستخدامهما مع المشغل TJ (تعيين الحرف مع الموقع) |
+| [GRestore](./grestore/) | الفئة التي تمثل المشغل Q (استعادة حالة الرسومات). |
+| [GS](./gs/) | الفئة التي تمثل المشغل gs (تعيين المعلمات من قاموس معلمات حالة الرسومات). |
+| [GSave](./gsave/) | الفئة التي تمثل المشغل q (حفظ حالة الرسومات). |
+| [ID](./id/) | الفئة التي تمثل المشغل ID (بدء بيانات الصورة المضمنة). |
+| [LineTo](./lineto/) | الفئة التي تمثل المشغل l (إضافة خط إلى المسار). |
+| [MoveTextPosition](./movetextposition/) | الفئة التي تمثل المشغل Td (تحريك موضع النص). |
+| [MoveTextPositionSetLeading](./movetextpositionsetleading/) | الفئة التي تمثل المشغل TD (تحريك الموضع وتعيين الفاصل). |
+| [MoveTo](./moveto/) | الفئة التي تمثل المشغل m (الانتقال إلى وبدء مسار فرعي جديد). |
+| [MoveToNextLine](./movetonextline/) | الفئة التي تمثل المشغل T* (الانتقال إلى بداية السطر التالي). |
+| [MoveToNextLineShowText](./movetonextlineshowtext/) | الفئة التي تمثل المشغل ' (الانتقال إلى السطر التالي وعرض النص). |
+| [MP](./mp/) | الفئة التي تمثل المشغل MP (تعريف نقطة المحتوى المعلَّم). |
+| [ObsoleteFill](./obsoletefill/) | الفئة التي تمثل المشغل F (ملء المسار باستخدام قاعدة اللف غير الصفري). |
+| [Re](./re/) | الفئة التي تمثل المشغل re (إضافة مستطيل إلى المسار). |
+| [SelectFont](./selectfont/) | الفئة التي تمثل المشغل Tf (تعيين خط النص وحجمه). |
+| [SetAdvancedColor](./setadvancedcolor/) | الفئة التي تمثل المشغل scn (تعيين اللون للعمليات غير المتحددة بالخط). |
+| [SetAdvancedColorStroke](./setadvancedcolorstroke/) | الفئة التي تمثل المشغل SCN (تعيين اللون للعمليات المتحددة بالخط). |
+| [SetCharacterSpacing](./setcharacterspacing/) | الفئة التي تمثل المشغل Tc (تعيين تباعد الأحرف). |
+| [SetCharWidth](./setcharwidth/) | الفئة التي تمثل المشغل d0 (تعيين عرض الحرف). |
+| [SetCharWidthBoundingBox](./setcharwidthboundingbox/) | الفئة التي تمثل المشغل d1 (تعيين الحرف ومربع الحد). |
+| [SetCMYKColor](./setcmykcolor/) | الفئة التي تمثل المشغل k (تعيين لون CMYK للعمليات غير المتسلسلة). |
+| [SetCMYKColorStroke](./setcmykcolorstroke/) | الفئة التي تمثل المشغل K (تعيين لون CMYK للعمليات المتسلسلة). |
+| [SetColor](./setcolor/) | الفئة التي تمثل المشغل sc (تعيين اللون للعمليات غير المتسلسلة). |
+| [SetColorOperator](./setcoloroperator/) | الفئة التي تمثل عملية تعيين اللون. |
+| [SetColorRenderingIntent](./setcolorrenderingintent/) | الفئة التي تمثل المشغل ri (تعيين نية عرض اللون). |
+| [SetColorSpace](./setcolorspace/) | الفئة التي تمثل المشغل cs (تعيين مساحة اللون للعمليات غير المتسلسلة). |
+| [SetColorSpaceStroke](./setcolorspacestroke/) | الفئة التي تمثل المشغل CS (تعيين اللون للعمليات المتسلسلة). |
+| [SetColorStroke](./setcolorstroke/) | الفئة التي تمثل المشغل SC (تعيين اللون لمشغلات اللون المتسلسلة). |
+| [SetDash](./setdash/) | الفئة التي تمثل المشغل d (تعيين نمط الشرط المتقطع للخط). |
+| [SetFlat](./setflat/) | الفئة التي تمثل المشغل i (تعيين تسامح الانبساط). |
+| [SetGlyphsPositionShowText](./setglyphspositionshowtext/) | الفئة التي تمثل المشغل TJ (عرض النص مع تموضع الحرف). |
+| [SetGray](./setgray/) | تعيين مستوى الرمادي للعمليات غير المتسلسلة. |
+| [SetGrayStroke](./setgraystroke/) | الفئة التي تمثل مستوى الرمادي للعمليات المتسلسلة. |
+| [SetHorizontalTextScaling](./sethorizontaltextscaling/) | الفئة التي تمثل المشغل Tz (تعيين مقياس النص الأفقي). |
+| [SetLineCap](./setlinecap/) | الفئة التي تمثل المشغل J (تعيين نمط طرف الخط). |
+| [SetLineJoin](./setlinejoin/) | الفئة التي تمثل المشغل j (تعيين نمط وصل الخط). |
+| [SetLineWidth](./setlinewidth/) | الفئة التي تمثل المشغل w (تعيين عرض الخط). |
+| [SetMiterLimit](./setmiterlimit/) | الفئة التي تمثل المشغل M (تعيين حد الميتر). |
+| [SetRGBColor](./setrgbcolor/) | الفئة التي تمثل المشغل rg (تعيين لون RGB للمشغلات غير المتسلسلة). |
+| [SetRGBColorStroke](./setrgbcolorstroke/) | الفئة التي تمثل المشغل RG (تعيين لون RGB للمشغلات المتسلسلة). |
+| [SetSpacingMoveToNextLineShowText](./setspacingmovetonextlineshowtext/) | الفئة التي تمثل المشغل \" (تعيين تباعد الكلمات والحروف، الانتقال إلى السطر التالي وعرض النص). |
+| [SetTextLeading](./settextleading/) | الفئة التي تمثل المشغل TL (تعيين ارتفاع السطر للنص). |
+| [SetTextMatrix](./settextmatrix/) | الفئة التي تمثل المشغل Tm (تعيين مصفوفة النص). |
+| [SetTextRenderingMode](./settextrenderingmode/) | الفئة التي تمثل المشغل Tr (تعيين وضع عرض النص). |
+| [SetTextRise](./settextrise/) | الفئة التي تمثل عامل Ts (تعيين ارتفاع النص). |
+| [SetWordSpacing](./setwordspacing/) | الفئة التي تمثل عامل Tw (تعيين تباعد الكلمات). |
+| [ShFill](./shfill/) | الفئة التي تمثل عامل sh (رسم المنطقة بنمط تظليل). |
+| [ShowText](./showtext/) | الفئة التي تمثل عامل Tj (عرض النص). |
+| [Stroke](./stroke/) | الفئة التي تمثل عامل S (رسم مسار). |
+| [TextOperator](./textoperator/) | الفئة الأساسية المجردة للعمليات المتعلقة بالنص (TJ, Tj, Tm, BT, ET، إلخ). |
+| [TextPlaceOperator](./textplaceoperator/) | الفئة الأساسية المجردة للعمليات التي تغيّر موضع النص (Tm, Td، إلخ). |
+| [TextShowOperator](./textshowoperator/) | الفئة الأساسية المجردة لجميع العمليات التي تُستخدم لإخراج النص (Tj, TJ، إلخ). |
+| [TextStateOperator](./textstateoperator/) | الفئة الأساسية المجردة للعمليات التي تغيّر حالة النص الحالية (Tc, Tf, TL، إلخ). |
+## تعداد
 
-| التعداد | الوصف |
+| تعداد | الوصف |
 | --- | --- |
-| [LineCap](./linecap/) | يجب أن يحدد نمط نهاية الخط الشكل الذي يجب استخدامه في نهايات المسارات الفرعية المفتوحة (والخطوط المتقطعة، إن وجدت) عند ضربها. |
-| [LineJoin](./linejoin/) | يجب أن يحدد نمط انضمام الخط الشكل الذي يجب استخدامه عند زوايا المسارات التي يتم ضربها. |
+| [LineCap](./linecap/) | يجب أن يحدد نمط طرف الخط الشكل الذي سيُستخدم في نهايات المسارات الفرعية المفتوحة (والشرطات، إن وجدت) عند رسمها. |
+| [LineJoin](./linejoin/) | يجب أن يحدد نمط وصل الخط الشكل الذي سيُستخدم في زوايا المسارات التي تُرسم. |
+
+

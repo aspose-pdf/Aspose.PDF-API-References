@@ -1,14 +1,14 @@
 ---
-title: RenderingOptions.DefaultFontName
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RenderingOptions. تحصل/تضبط الاسم الافتراضي للخط المستخدم كبديل للخطوط المفقودة
+title: "RenderingOptions.DefaultFontName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RenderingOptions. يحصل/يعيّن الاسم الافتراضي للخط المستخدم كبديل للخطوط المفقودة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/renderingoptions/defaultfontname/
 ---
-## خاصية RenderingOptions.DefaultFontName
+## RenderingOptions.DefaultFontName property
 
-تحصل/تضبط الاسم الافتراضي للخط المستخدم كبديل للخطوط المفقودة.
+يحصل/يضبط الاسم الافتراضي للخط المستخدم كبديل للخطوط المفقودة.
 
 ```csharp
 public string DefaultFontName { get; set; }
@@ -19,3 +19,5 @@ public string DefaultFontName { get; set; }
 * class [RenderingOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

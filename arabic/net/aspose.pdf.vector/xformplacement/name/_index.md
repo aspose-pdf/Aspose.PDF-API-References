@@ -1,14 +1,14 @@
 ---
-title: XFormPlacement.Name
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XFormPlacement. تحصل على اسم XForm
+title: "XFormPlacement.Name"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XFormPlacement. تحصل على اسم XForm"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.vector/xformplacement/name/
 ---
-## خاصية XFormPlacement.Name
+## XFormPlacement.Name property
 
-تحصل على اسم XForm.
+يحصل على اسم XForm.
 
 ```csharp
 public string Name { get; }
@@ -19,3 +19,5 @@ public string Name { get; }
 * class [XFormPlacement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

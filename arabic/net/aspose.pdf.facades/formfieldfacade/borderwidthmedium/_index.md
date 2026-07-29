@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.BorderWidthMedium
-second_title: Aspose.PDF for .NET API Reference
-description: حقل FormFieldFacade. يحدد عرض حدود متوسط
+title: "FormFieldFacade.BorderWidthMedium"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل FormFieldFacade. يحدد عرض حد متوسط"
 type: docs
 weight: 350
 url: /ar/net/aspose.pdf.facades/formfieldfacade/borderwidthmedium/
 ---
-## حقل FormFieldFacade.BorderWidthMedium
+## FormFieldFacade.BorderWidthMedium field
 
-يحدد عرض حدود متوسط.
+يحدد عرض حد متوسط.
 
 ```csharp
 public const float BorderWidthMedium;
@@ -19,3 +19,5 @@ public const float BorderWidthMedium;
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextExtractionErrorLocation.OperatorIndex
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextExtractionErrorLocation. فهرس النص الذي يظهر المشغل في مجموعة مشغلات تدفق المحتويات والذي يسبب خطأ في استخراج النص
+title: "TextExtractionErrorLocation.OperatorIndex"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextExtractionErrorLocation. فهرس المشغل الذي يُظهر النص في مجموعة مشغلي تدفق المحتوى والتي تسبب خطأ استخراج النص"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.text/textextractionerrorlocation/operatorindex/
 ---
-## خاصية TextExtractionErrorLocation.OperatorIndex
+## TextExtractionErrorLocation.OperatorIndex property
 
-فهرس النص الذي يظهر المشغل في تدفق المحتويات (مجموعة المشغلات) والذي يسبب خطأ في استخراج النص.
+فهرس المشغل الذي يعرض النص في تدفق المحتوى (مجموعة المشغلات) الذي يسبب خطأ استخراج النص.
 
 ```csharp
 public int OperatorIndex { get; }
@@ -19,3 +19,5 @@ public int OperatorIndex { get; }
 * class [TextExtractionErrorLocation](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,20 +1,20 @@
 ---
-title: FormEditor.Process
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormEditor. تبدأ معالجة FormEditor بالمعلمات المحددة
+title: "FormEditor.Process"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FormEditor. تبدأ معالجة FormEditor بالمعلمات المحددة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/formeditor/process/
 ---
-## طريقة FormEditor.Process
+## FormEditor.Process method
 
-تبدأ معالجة FormEditor بالمعلمات المحددة.
+يبدأ معالجة FormEditor بالمعلمات المحددة.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | options | IPluginOptions | كائن خيارات يحتوي على تعليمات لـ FormEditor. |
 
@@ -24,7 +24,7 @@ public ResultContainer Process(IPluginOptions options)
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentException | إذا كانت الخيارات غير صحيحة. |
 
@@ -35,3 +35,5 @@ public ResultContainer Process(IPluginOptions options)
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

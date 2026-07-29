@@ -1,57 +1,59 @@
 ---
-title: TextBuilder.TextBuilder
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TextBuilder. يقوم بتهيئة مثيل جديد من فئة TextBuilder لصفحة Pdf
+title: "TextBuilder.TextBuilder"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TextBuilder. يهيئ مثيلًا جديدًا من فئة TextBuilder لصفحة الـ Pdf"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/textbuilder/textbuilder/
 ---
 ## TextBuilder(Page) {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`TextBuilder`](../) لصفحة Pdf.
+ينشئ مثيلًا جديدًا من فئة [`TextBuilder`](../) لصفحة الـ Pdf.
 
 ```csharp
 public TextBuilder(Page page)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | كائن الصفحة. |
+| صفحة | صفحة | كائن Page. |
 
 ## ملاحظات
 
-يسمح TextBuilder بإضافة كائنات نصية إلى صفحات Pdf.
+يتيح TextBuilder إضافة كائنات نصية إلى صفحات الـ Pdf.
 
 ### انظر أيضًا
 
-* فئة [Page](../../../aspose.pdf/page/)
-* فئة [TextBuilder](../)
-* مساحة الأسماء [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [TextBuilder](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextBuilder(Page, BaseOperatorCollection) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة [`TextBuilder`](../) لصفحة Pdf.
+ينشئ مثيلًا جديدًا من فئة [`TextBuilder`](../) لصفحة الـ Pdf.
 
 ```csharp
 public TextBuilder(Page page, BaseOperatorCollection operatorCollection)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | كائن الصفحة. |
-| operatorCollection | BaseOperatorCollection | مجموعة العمليات. |
+| صفحة | صفحة | كائن Page. |
+| operatorCollection | BaseOperatorCollection | مجموعة Operator. |
 
 ## ملاحظات
 
-يسمح TextBuilder بإضافة كائنات نصية إلى صفحات Pdf.
+يتيح TextBuilder إضافة كائنات نصية إلى صفحات الـ Pdf.
 
 ### انظر أيضًا
 
-* فئة [Page](../../../aspose.pdf/page/)
-* فئة [BaseOperatorCollection](../../../aspose.pdf/baseoperatorcollection/)
-* فئة [TextBuilder](../)
-* مساحة الأسماء [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [BaseOperatorCollection](../../../aspose.pdf/baseoperatorcollection/)
+* class [TextBuilder](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

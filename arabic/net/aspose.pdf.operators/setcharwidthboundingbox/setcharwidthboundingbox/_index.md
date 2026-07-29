@@ -1,30 +1,32 @@
 ---
-title: SetCharWidthBoundingBox.SetCharWidthBoundingBox
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SetCharWidthBoundingBox. يقوم بتهيئة عامل SetCharWidthBoundingBox
+title: "SetCharWidthBoundingBox.SetCharWidthBoundingBox"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SetCharWidthBoundingBox. يهيئ مشغل SetCharWidthBoundingBox"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/setcharwidthboundingbox/setcharwidthboundingbox/
 ---
-## مُنشئ SetCharWidthBoundingBox
+## SetCharWidthBoundingBox constructor
 
-يقوم بتهيئة عامل SetCharWidthBoundingBox.
+يُهيئ عامل SetCharWidthBoundingBox.
 
 ```csharp
 public SetCharWidthBoundingBox(double wx, double wy, double llx, double lly, double urx, double ury)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| wx | Double | يدل على الإزاحة الأفقية في إحداثيات الجليف. |
-| wy | Double | يدل على الإزاحة الرأسية في إحداثيات الجليف. يجب أن تكون 0. |
-| llx | Double | يدل على إحداثيات X للزاوية السفلى اليسرى. |
-| lly | Double | يدل على إحداثيات Y للزاوية السفلى اليسرى. |
-| urx | Double | يدل على إحداثيات X للزاوية العليا اليمنى. |
-| ury | Double | يدل على إحداثيات Y للزاوية العليا اليمنى. |
+| wx | Double | يشير إلى الإزاحة الأفقية في إحداثيات الحرف. |
+| wy | Double | يشير إلى الإزاحة العمودية في إحداثيات الحرف. يجب أن تكون 0. |
+| llx | Double | يشير إلى إحداثي X للزاوية السفلية اليسرى. |
+| lly | Double | يشير إلى إحداثي Y للزاوية السفلية اليسرى. |
+| urx | Double | يشير إلى إحداثي X للزاوية العلوية اليمنى. |
+| ury | Double | يشير إلى إحداثي Y للزاوية العلوية اليمنى. |
 
 ### انظر أيضًا
 
 * class [SetCharWidthBoundingBox](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

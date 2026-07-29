@@ -1,14 +1,14 @@
 ---
-title: RenderingOptions.WidthExtraUnits
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RenderingOptions. تحصل أو تعين قيمة تستخدم لزيادة أو تقليل عرض المستطيل لعملية AppendRectangle
+title: "RenderingOptions.WidthExtraUnits"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RenderingOptions. يحصل أو يعيّن قيمة تُستخدم لزيادة أو تقليل عرض المستطيل لمعامل AppendRectangle"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf/renderingoptions/widthextraunits/
 ---
-## خاصية RenderingOptions.WidthExtraUnits
+## RenderingOptions.WidthExtraUnits property
 
-تحصل أو تعين قيمة تستخدم لزيادة أو تقليل عرض المستطيل لعملية AppendRectangle.
+يحصل أو يضبط قيمة تُستخدم لزيادة أو تقليل عرض المستطيل لمعامل AppendRectangle.
 
 ```csharp
 public float WidthExtraUnits { get; set; }
@@ -19,3 +19,5 @@ public float WidthExtraUnits { get; set; }
 * class [RenderingOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: MarkdownSaveOptions.EmphasisStyle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MarkdownSaveOptions. تحصل أو تعين نمط التأكيد للمستند الناتج
+title: "MarkdownSaveOptions.EmphasisStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MarkdownSaveOptions. يحصل أو يضبط نمط التأكيد للمستند المُنشأ"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/markdownsaveoptions/emphasisstyle/
 ---
-## خاصية MarkdownSaveOptions.EmphasisStyle
+## MarkdownSaveOptions.EmphasisStyle property
 
-تحصل أو تعين نمط التأكيد للمستند الناتج.
+احصل أو اضبط نمط التشديد للمستند المُنشأ.
 
 ```csharp
 public EmphasisStyle EmphasisStyle { get; set; }
@@ -20,3 +20,5 @@ public EmphasisStyle EmphasisStyle { get; set; }
 * class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AttributeOwnerStandard.List
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeOwnerStandard. قائمة مالك السمة
+title: "AttributeOwnerStandard.List"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeOwnerStandard. مالك سمة List"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.logicalstructure/attributeownerstandard/list/
 ---
-## حقل AttributeOwnerStandard.List
+## AttributeOwnerStandard.List field
 
-قائمة مالك السمة.
+مالك سمة القائمة.
 
 ```csharp
 public static readonly AttributeOwnerStandard List;
@@ -19,3 +19,5 @@ public static readonly AttributeOwnerStandard List;
 * class [AttributeOwnerStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

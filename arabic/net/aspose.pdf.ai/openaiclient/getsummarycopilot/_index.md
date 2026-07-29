@@ -1,33 +1,35 @@
 ---
-title: OpenAIClient.GetSummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIClient. تحصل على مثيل من ISummaryCopilot مع الخيارات المحددة
+title: "OpenAIClient.GetSummaryCopilot"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIClient. تحصل على نسخة من ISummaryCopilot مع الخيارات المحددة"
 type: docs
-weight: 290
+weight: 300
 url: /ar/net/aspose.pdf.ai/openaiclient/getsummarycopilot/
 ---
-## طريقة OpenAIClient.GetSummaryCopilot
+## OpenAIClient.GetSummaryCopilot method
 
-تحصل على مثيل من [`ISummaryCopilot`](../../isummarycopilot/) مع الخيارات المحددة.
+تحصل على نسخة من [`ISummaryCopilot`](../../isummarycopilot/) مع الخيارات المحددة.
 
 ```csharp
 public ISummaryCopilot GetSummaryCopilot(
     ISummaryCopilotOptions<OpenAISummaryCopilotOptions> options)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| options | ISummaryCopilotOptions`1 | الخيارات الخاصة بكوبيلوت الملخص. |
+| options | ISummaryCopilotOptions`1 | الخيارات للمساعد التلخيصي. |
 
 ### قيمة الإرجاع
 
-مثيل من [`ISummaryCopilot`](../../isummarycopilot/).
+نسخة من [`ISummaryCopilot`](../../isummarycopilot/).
 
 ### انظر أيضًا
 
-* واجهة [ISummaryCopilot](../../isummarycopilot/)
-* واجهة [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
-* فئة [OpenAISummaryCopilotOptions](../../openaisummarycopilotoptions/)
-* فئة [OpenAIClient](../)
-* مساحة الأسماء [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* interface [ISummaryCopilot](../../isummarycopilot/)
+* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
+* class [OpenAISummaryCopilotOptions](../../openaisummarycopilotoptions/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

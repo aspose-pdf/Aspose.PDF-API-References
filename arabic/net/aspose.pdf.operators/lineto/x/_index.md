@@ -1,14 +1,14 @@
 ---
-title: LineTo.X
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LineTo. إحداثي X لنقطة الخط
+title: "LineTo.X"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LineTo. إحداثي X لنقطة الخط"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/lineto/x/
 ---
-## خاصية LineTo.X
+## LineTo.X property
 
-إحداثي X لنقطة الخط.
+الإحداثي X لنقطة الخط.
 
 ```csharp
 public double X { get; set; }
@@ -19,3 +19,5 @@ public double X { get; set; }
 * class [LineTo](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: WatermarkAnnotation.ChangeAfterResize
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة WatermarkAnnotation. تتجاوز التعريف في الفئة الأساسية بجسم فارغ
+title: "WatermarkAnnotation.ChangeAfterResize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة WatermarkAnnotation. تتجاوز التعريف في الفئة الأساسية بجسم فارغ"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.annotations/watermarkannotation/changeafterresize/
 ---
-## طريقة WatermarkAnnotation.ChangeAfterResize
+## WatermarkAnnotation.ChangeAfterResize method
 
-تتجاوز التعريف في الفئة الأساسية بجسم فارغ.
+يتجاوز التعريف في الفئة الأساسية بجسم فارغ.
 
 ```csharp
 public override void ChangeAfterResize(Matrix transform)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| transform | Matrix | مصفوفة تحدد التحويل. |
+| تحويل | Matrix | المصفوفة التي تحدد التحويل. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public override void ChangeAfterResize(Matrix transform)
 * class [WatermarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

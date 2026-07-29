@@ -1,22 +1,22 @@
 ---
-title: ImagePlacementCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ImagePlacementCollection. تضيف عنصر جزء النص في الفهرس المحدد
+title: "ImagePlacementCollection.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ImagePlacementCollection. تُضيف عنصر مقطع النص في الفهرس المحدد"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/imageplacementcollection/add/
 ---
-## طريقة ImagePlacementCollection.Add
+## ImagePlacementCollection.Add method
 
-تضيف عنصر جزء النص في الفهرس المحدد.
+يضيف عنصر مقطع النص في الفهرس المحدد.
 
 ```csharp
 public void Add(ImagePlacement fragment)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fragment | ImagePlacement | عنصر جزء النص الذي سيتم إضافته. |
+| جزء | ImagePlacement | عنصر شريحة النص للإضافة. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public void Add(ImagePlacement fragment)
 * class [ImagePlacementCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FontRepository.ReloadFonts
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FontRepository. تعيد تحميل جميع الخطوط المحددة بواسطة خاصية Sources
+title: "FontRepository.ReloadFonts"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FontRepository. تعيد تحميل جميع الخطوط المحددة بواسطة الخاصية Sources"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.text/fontrepository/reloadfonts/
 ---
-## طريقة FontRepository.ReloadFonts
+## FontRepository.ReloadFonts method
 
-تعيد تحميل جميع الخطوط المحددة بواسطة خاصية [`Sources`](../sources/)
+يعيد تحميل جميع الخطوط المحددة بواسطة الخاصية [`Sources`](../sources/)
 
 ```csharp
 public static void ReloadFonts()
@@ -19,3 +19,5 @@ public static void ReloadFonts()
 * class [FontRepository](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

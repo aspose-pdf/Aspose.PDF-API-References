@@ -1,12 +1,12 @@
 ---
-title: ExcelSaveOptions.Format
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ExcelSaveOptions. تنسيق الإخراج
+title: "ExcelSaveOptions.Format"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ExcelSaveOptions. تنسيق الإخراج"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/excelsaveoptions/format/
 ---
-## خاصية ExcelSaveOptions.Format
+## ExcelSaveOptions.Format property
 
 تنسيق الإخراج
 
@@ -20,3 +20,5 @@ public ExcelFormat Format { get; set; }
 * class [ExcelSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

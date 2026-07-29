@@ -1,14 +1,14 @@
 ---
-title: ResponseFormat.ObjectValue
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ResponseFormat. تحصل أو تعين قيمة الكائن من تنسيق الاستجابة
+title: "ResponseFormat.ObjectValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ResponseFormat. تحصل أو تعين قيمة الكائن لتنسيق الاستجابة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.ai/responseformat/objectvalue/
 ---
-## خاصية ResponseFormat.ObjectValue
+## ResponseFormat.ObjectValue property
 
-تحصل أو تعين قيمة الكائن من تنسيق الاستجابة.
+يحصل أو يعيّن قيمة الكائن لتنسيق الاستجابة.
 
 ```csharp
 public ObjectType ObjectValue { get; set; }
@@ -20,3 +20,5 @@ public ObjectType ObjectValue { get; set; }
 * class [ResponseFormat](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

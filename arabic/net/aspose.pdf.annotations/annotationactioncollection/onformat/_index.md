@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection.OnFormat
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AnnotationActionCollection. تحصل أو تعين إجراءً ليتم تنفيذه لتنسيق قيمة الحقل
+title: "AnnotationActionCollection.OnFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AnnotationActionCollection. يحصل أو يحدد الإجراء الذي يتم تنفيذه لتنسيق قيمة الحقل"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.annotations/annotationactioncollection/onformat/
 ---
-## خاصية AnnotationActionCollection.OnFormat
+## AnnotationActionCollection.OnFormat property
 
-تحصل أو تعين إجراءً ليتم تنفيذه لتنسيق قيمة الحقل.
+يحصل أو يعيّن إجراءً يتم تنفيذه لتنسيق قيمة الحقل.
 
 ```csharp
 public PdfAction OnFormat { get; set; }
@@ -20,3 +20,5 @@ public PdfAction OnFormat { get; set; }
 * class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

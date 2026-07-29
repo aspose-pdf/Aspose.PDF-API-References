@@ -1,41 +1,43 @@
 ---
-title: Class ClosePathEOFillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.ClosePathEOFillStroke. فئة تمثل عامل b لإغلاق التعبئة ورسم المسار باستخدام قاعدة الزوجية والفردية
+title: "الفئة ClosePathEOFillStroke"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Operators.ClosePathEOFillStroke الفئة. الفئة التي تمثل عامل b لإغلاق تعبئة ومسار الخط باستخدام قاعدة evenodd"
 type: docs
-weight: 7200
+weight: 7340
 url: /ar/net/aspose.pdf.operators/closepatheofillstroke/
 ---
 ## ClosePathEOFillStroke class
 
-فئة تمثل عامل b* (إغلاق، تعبئة ورسم المسار باستخدام قاعدة الزوجية والفردية).
+فئة تمثل المشغل b* (close, fill and stroke path باستخدام قاعدة الزوجي-الفردي).
 
 ```csharp
 public class ClosePathEOFillStroke : Operator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ClosePathEOFillStroke](closepatheofillstroke/)() | يقوم بتهيئة العامل. |
+| [ClosePathEOFillStroke](closepatheofillstroke/)() | يُهيئ العامل. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/closepatheofillstroke/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
-| override [ToString](../../aspose.pdf.operators/closepatheofillstroke/tostring/)() | يعيد تمثيل نصي للعامل. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [ToString](../../aspose.pdf.operators/closepatheofillstroke/tostring/)() | يرجع تمثيل النص للمشغّل. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

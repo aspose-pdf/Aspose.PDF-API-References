@@ -1,14 +1,14 @@
 ---
-title: Class ImageCompressionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Optimization.ImageCompressionOptions. تحتوي الفئة على مجموعة من الخيارات لضغط الصور
+title: "الفئة ImageCompressionOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Optimization.ImageCompressionOptions الفئة. الفئة تحتوي على مجموعة من الخيارات لضغط image."
 type: docs
-weight: 7950
+weight: 8090
 url: /ar/net/aspose.pdf.optimization/imagecompressionoptions/
 ---
-## فئة خيارات ضغط الصور
+## ImageCompressionOptions class
 
-تحتوي الفئة على مجموعة من الخيارات لضغط الصور.
+الفئة تحتوي على مجموعة خيارات لضغط الصورة.
 
 ```csharp
 public class ImageCompressionOptions
@@ -18,20 +18,22 @@ public class ImageCompressionOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [ImageCompressionOptions](imagecompressionoptions/)() | المنشئ الافتراضي. |
+| [ImageCompressionOptions](imagecompressionoptions/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [CompressImages](../../aspose.pdf.optimization/imagecompressionoptions/compressimages/) { get; set; } | إذا تم تعيين هذه العلامة على true، سيتم ضغط الصور في المستند. يتم تحديد مستوى الضغط باستخدام خاصية ImageQuality. |
-| [Encoding](../../aspose.pdf.optimization/imagecompressionoptions/encoding/) { get; set; } | يحصل أو يحدد الترميز المستخدم لتخزين الصور. |
-| [ImageQuality](../../aspose.pdf.optimization/imagecompressionoptions/imagequality/) { get; set; } | يحدد مستوى ضغط الصورة عند استخدام علامة CompressImages. |
-| [MaxResolution](../../aspose.pdf.optimization/imagecompressionoptions/maxresolution/) { get; set; } | يحدد الحد الأقصى لدقة الصور. إذا كانت الصورة ذات دقة أعلى، فسيتم تغيير حجمها. |
-| [ResizeImages](../../aspose.pdf.optimization/imagecompressionoptions/resizeimages/) { get; set; } | إذا تم تعيين هذه العلامة على true و CompressImages هو true، سيتم تغيير حجم الصور إذا كانت دقة الصورة أكبر من معلمة MaxResolution المحددة. |
-| [Version](../../aspose.pdf.optimization/imagecompressionoptions/version/) { get; set; } | إصدار خوارزمية الضغط. القيم الممكنة هي: 1. ضغط قياسي، 2. سريع (ضغط محسّن أسرع من القياسي ولكن قد لا يكون قابلاً للتطبيق على جميع الصور)، 3. مختلط (يتم تطبيق الضغط القياسي على الصور التي لا يمكن ضغطها بواسطة الخوارزمية الأسرع، قد يعطي هذا أفضل ضغط ولكنه أبطأ من خوارزمية "سريع". الإصدار "سريع" غير قابل للتطبيق لتغيير حجم الصور (سيتم استخدام الطريقة القياسية). الافتراضي هو "قياسي". |
+| [CompressImages](../../aspose.pdf.optimization/imagecompressionoptions/compressimages/) { get; set; } | إذا تم تعيين هذه العلامة إلى true، سيتم ضغط images في المستند. يتم تحديد مستوى الضغط باستخدام خاصية ImageQuality. |
+| [Encoding](../../aspose.pdf.optimization/imagecompressionoptions/encoding/) { get; set; } | Gets أو sets encoding المستخدم لتخزين images. |
+| [ImageQuality](../../aspose.pdf.optimization/imagecompressionoptions/imagequality/) { get; set; } | يحدد مستوى ضغط image عندما يتم استخدام علامة CompressImages. |
+| [MaxResolution](../../aspose.pdf.optimization/imagecompressionoptions/maxresolution/) { get; set; } | يحدد الحد الأقصى لدقة الصور. إذا كانت الصورة ذات دقة أعلى سيتم تصغيرها |
+| [ResizeImages](../../aspose.pdf.optimization/imagecompressionoptions/resizeimages/) { get; set; } | إذا تم تعيين هذه العلامة إلى true وكان CompressImages يساوي true، سيتم تغيير حجم الصور إذا كانت دقة الصورة أكبر من المعامل MaxResolution المحدد. |
+| [Version](../../aspose.pdf.optimization/imagecompressionoptions/version/) { get; set; } | إصدار خوارزمية الضغط. القيم الممكنة هي: 1. ضغط قياسي، 2. سريع (ضغط محسّن يكون أسرع من القياسي لكنه قد لا يكون مناسبًا لجميع الصور)، 3. مختلط (يُطبق الضغط القياسي على الصور التي لا يمكن ضغطها بالخوارزمية الأسرع، قد يوفر هذا أفضل ضغط لكنه أبطأ من الخوارزمية \"fast\". الإصدار \"Fast\" غير قابل لتغيير حجم الصور (سيُستخدم الطريقة القياسية). القيمة الافتراضية هي \"Standard\".) |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Optimization](../../aspose.pdf.optimization/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Optimization](../../aspose.pdf.optimization/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: DP.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة DP. تعيد التمثيل النصي للمشغل
+title: "DP.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة DP. تُعيد تمثيل النص للمشغل"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.operators/dp/tostring/
 ---
-## طريقة DP.ToString
+## DP.ToString method
 
-تعيد التمثيل النصي للمشغل.
+يرجع تمثيل النص للمشغّل.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-التمثيل النصي للمشغل.
+تمثيل النص للعامل.
 
 ### انظر أيضًا
 
 * class [DP](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

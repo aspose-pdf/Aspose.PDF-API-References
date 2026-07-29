@@ -1,27 +1,27 @@
 ---
-title: FormEditor.SetFieldAttribute
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormEditor. تعيين سمات الحقل
+title: "FormEditor.SetFieldAttribute"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FormEditor. تعيين سمات الحقل"
 type: docs
 weight: 290
 url: /ar/net/aspose.pdf.facades/formeditor/setfieldattribute/
 ---
-## طريقة FormEditor.SetFieldAttribute
+## FormEditor.SetFieldAttribute method
 
-تعيين سمات الحقل.
+حدد سمات الحقل.
 
 ```csharp
 public bool SetFieldAttribute(string fieldName, PropertyFlag flag)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fieldName | String | اسم الحقل الذي يجب تعيين سماته. |
-| flag | PropertyFlag | العلم (NoExport/ReadOnly/Required) |
+| flag | PropertyFlag | علامة (NoExport/ReadOnly/Required) |
 
 ### قيمة الإرجاع
 
-true إذا تم تعيين السمة بنجاح.
+صحيح إذا تم تعيين السمة بنجاح.
 
 ## أمثلة
 
@@ -37,3 +37,5 @@ formEditor.SetFieldAttribute("textField", PropertyFlag.NoExport);
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

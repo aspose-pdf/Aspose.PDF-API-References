@@ -1,14 +1,14 @@
 ---
-title: OpenAIAssistantCopilotOptionsBase.TopP
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OpenAIAssistantCopilotOptionsBase. تحصل أو تعين قيمة top-p لعينات النواة
+title: "OpenAIAssistantCopilotOptionsBase.TopP"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OpenAIAssistantCopilotOptionsBase. يحصل أو يضبط قيمة topp لتقنية العينة النواة"
 type: docs
-weight: 60
+weight: 50
 url: /ar/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/topp/
 ---
-## خاصية OpenAIAssistantCopilotOptionsBase.TopP
+## OpenAIAssistantCopilotOptionsBase.TopP property
 
-تحصل أو تعين قيمة top-p لعينات النواة.
+يحصل أو يضبط قيمة top-p لتقنية العينة النواة.
 
 ```csharp
 public double? TopP { get; set; }
@@ -19,3 +19,5 @@ public double? TopP { get; set; }
 * class [OpenAIAssistantCopilotOptionsBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

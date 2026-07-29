@@ -1,23 +1,23 @@
 ---
-title: Matrix.Skew
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة المصفوفة. تنشئ مصفوفة لزاوية الدوران المعطاة
+title: "Matrix.Skew"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Matrix. تنشئ مصفوفة للزاوية الدورانية المعطاة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/matrix/skew/
 ---
-## طريقة Matrix.Skew
+## Matrix.Skew method
 
-تنشئ مصفوفة لزاوية الدوران المعطاة.
+ينشئ مصفوفة لزاوية الدوران المعطاة.
 
 ```csharp
 public static Matrix Skew(double alpha, double beta)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| alpha | Double | زاوية الميل في الاتجاه x بالراديان. |
-| beta | Double | زاوية الميل في الاتجاه y بالراديان. |
+| ألفا | Double | زاوية الانحراف x بالراديان. |
+| بيتا | Double | زاوية الانحراف y بالراديان. |
 
 ### قيمة الإرجاع
 
@@ -34,3 +34,5 @@ Matrix m = Matrix.Skew(Math.PI / 2, Math.PI / 2);
 * class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

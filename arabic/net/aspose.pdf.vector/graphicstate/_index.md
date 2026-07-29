@@ -1,14 +1,14 @@
 ---
-title: Class GraphicState
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Vector.GraphicState. تمثل حالة الرسوم البيانية للعنصر الرسومي الحالي
+title: "الفئة GraphicState"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Vector.GraphicState. تمثّل حالة الرسومات للـ GraphicElement الحالي"
 type: docs
-weight: 11200
+weight: 11390
 url: /ar/net/aspose.pdf.vector/graphicstate/
 ---
-## فئة GraphicState
+## GraphicState class
 
-تمثل حالة الرسوم البيانية للعنصر الرسومي الحالي [`GraphicElement`](../graphicelement/).
+يمثّل حالة الرسومات للـ [`GraphicElement`](../graphicelement/).
 
 ```csharp
 public class GraphicState
@@ -18,11 +18,13 @@ public class GraphicState
 
 | الاسم | الوصف |
 | --- | --- |
-| [ClipsAndMatrices](../../aspose.pdf.vector/graphicstate/clipsandmatrices/) { get; } | يحصل على العمليات التي تمثل القصوص والمصفوفات المتراكبة. |
-| [ColorsAndStyles](../../aspose.pdf.vector/graphicstate/colorsandstyles/) { get; } | يحصل على العمليات التي تمثل مساحات الألوان، والألوان، وأنماط الخطوط. |
+| [ClipsAndMatrices](../../aspose.pdf.vector/graphicstate/clipsandmatrices/) { get; } | يحصل على المشغّلات التي تمثّل القصّات ومصفوفات الجمع. |
+| [ColorsAndStyles](../../aspose.pdf.vector/graphicstate/colorsandstyles/) { get; } | يحصل على المشغّلات التي تمثّل مساحات الألوان، الألوان وأنماط الخط. |
 | [Matrix](../../aspose.pdf.vector/graphicstate/matrix/) { get; set; } | يحصل على مصفوفة التحويل الحالية. |
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf.Vector](../../aspose.pdf.vector/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Vector](../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../)
+
+

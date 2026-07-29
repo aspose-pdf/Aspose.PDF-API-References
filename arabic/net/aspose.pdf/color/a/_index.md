@@ -1,14 +1,14 @@
 ---
-title: Color.A
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على قيمة مكون ألفا
+title: "Color.A"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. يحصل على قيمة مكوّن ألفا"
 type: docs
 weight: 1490
 url: /ar/net/aspose.pdf/color/a/
 ---
-## خاصية Color.A
+## Color.A property
 
-تحصل على قيمة مكون ألفا
+يحصل على قيمة مكوّن ألفا
 
 ```csharp
 public double A { get; }
@@ -19,3 +19,5 @@ public double A { get; }
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

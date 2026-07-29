@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.BorderStyleSolid
-second_title: Aspose.PDF for .NET API Reference
-description: حقل FormFieldFacade. يحدد نمط حدود صلبة
+title: "FormFieldFacade.BorderStyleSolid"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FormFieldFacade حقل. يحدد نمط حد صلب"
 type: docs
 weight: 320
 url: /ar/net/aspose.pdf.facades/formfieldfacade/borderstylesolid/
 ---
-## حقل FormFieldFacade.BorderStyleSolid
+## FormFieldFacade.BorderStyleSolid field
 
-يحدد نمط حدود صلبة.
+يحدد نمط حد صلب.
 
 ```csharp
 public const int BorderStyleSolid;
@@ -19,3 +19,5 @@ public const int BorderStyleSolid;
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

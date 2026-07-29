@@ -1,14 +1,14 @@
 ---
-title: ComparisonOptions.ExcludeTables
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ComparisonOptions. احصل على الخيار الذي يحدد ما إذا كانت الجداول مستبعدة من المقارنة. لا يمكن تعيين هذا الخيار مع خيار ExtractionArea. القيمة الافتراضية هي false
+title: "ComparisonOptions.ExcludeTables"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ComparisonOptions. احصل على الخيار أو اضبطه الذي يحدد ما إذا كانت الجداول مستبعدة من المقارنة. لا يمكن ضبط هذا الخيار مع خيار ExtractionArea. القيمة الافتراضية هي false"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.comparison/comparisonoptions/excludetables/
 ---
-## خاصية ComparisonOptions.ExcludeTables
+## ComparisonOptions.ExcludeTables property
 
-احصل على الخيار الذي يحدد ما إذا كانت الجداول مستبعدة من المقارنة. لا يمكن تعيين هذا الخيار مع خيار [`ExtractionArea`](../extractionarea/). القيمة الافتراضية هي `false`.
+احصل على الخيار أو اضبطه الذي يحدد ما إذا كانت الجداول مستبعدة من المقارنة. لا يمكن ضبط هذا الخيار مع خيار [`ExtractionArea`](../extractionarea/). القيمة الافتراضية هي `false`.
 
 ```csharp
 public bool ExcludeTables { get; set; }
@@ -19,3 +19,5 @@ public bool ExcludeTables { get; set; }
 * class [ComparisonOptions](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

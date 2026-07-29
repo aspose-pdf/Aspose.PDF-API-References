@@ -1,27 +1,29 @@
 ---
-title: Enum CapStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.CapStyle enum. نمط نهاية خط التعليق Ink
+title: "التعداد CapStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.Annotations.CapStyle. نمط نهاية الخط لخط التعليق التوضيحي بالحبر"
 type: docs
-weight: 1540
+weight: 1630
 url: /ar/net/aspose.pdf.annotations/capstyle/
 ---
 ## CapStyle enumeration
 
-نمط نهاية خط التعليق Ink.
+نمط نهاية الخط لخط التوضيح بالحبر.
 
 ```csharp
 public enum CapStyle
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | Rectangular | `1` | النهاية مستطيلة. |
-| Rounded | `2` | النهاية مدورة. |
+| Rounded | `2` | النهاية مستديرة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

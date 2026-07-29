@@ -1,25 +1,27 @@
 ---
-title: StructureElement.ActualText
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StructureElement. تحصل أو تعين النص الفعلي لعنصر الهيكل
+title: "StructureElement.ActualText"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StructureElement. تحصل أو تعيّن النص الفعلي لعنصر البنية"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.logicalstructure/structureelement/actualtext/
 ---
-## خاصية StructureElement.ActualText
+## StructureElement.ActualText property
 
-تحصل أو تعين النص الفعلي لعنصر الهيكل.
+يحصل أو يعيّن النص الفعلي لعنصر البنية.
 
 ```csharp
 public string ActualText { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-النص الفعلي لعنصر الهيكل.
+النص الفعلي لعنصر البنية.
 
 ### انظر أيضًا
 
 * class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

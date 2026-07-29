@@ -1,14 +1,14 @@
 ---
-title: GlyphPosition.Text
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية GlyphPosition. نص العامل
+title: "GlyphPosition.Text"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية GlyphPosition. نص المشغل"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.operators/glyphposition/text/
 ---
-## خاصية GlyphPosition.Text
+## GlyphPosition.Text property
 
-نص العامل.
+نص المشغّل.
 
 ```csharp
 public string Text { get; }
@@ -19,3 +19,5 @@ public string Text { get; }
 * class [GlyphPosition](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

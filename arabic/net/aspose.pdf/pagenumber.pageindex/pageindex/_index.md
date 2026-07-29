@@ -1,14 +1,14 @@
 ---
-title: PageNumber.PageIndex.PageIndex
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PageIndex. المُنشئ الافتراضي
+title: "PageNumber.PageIndex.PageIndex"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PageIndex. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/pagenumber.pageindex/pageindex/
 ---
-## مُنشئ PageNumber.PageIndex
+## PageNumber.PageIndex constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public PageIndex()
@@ -19,3 +19,5 @@ public PageIndex()
 * class [PageIndex](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

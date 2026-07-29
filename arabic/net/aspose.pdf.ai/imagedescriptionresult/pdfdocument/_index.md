@@ -1,14 +1,14 @@
 ---
-title: ImageDescriptionResult.PdfDocument
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ImageDescriptionResult. تحصل على أو تعين مستند PDF
+title: "ImageDescriptionResult.PdfDocument"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ImageDescriptionResult. تحصل أو تعين مستند PDF"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.ai/imagedescriptionresult/pdfdocument/
 ---
-## خاصية ImageDescriptionResult.PdfDocument
+## ImageDescriptionResult.PdfDocument property
 
-تحصل على أو تعين مستند PDF.
+الحصول أو تعيين مستند PDF.
 
 ```csharp
 public PdfDocument PdfDocument { get; set; }
@@ -20,3 +20,5 @@ public PdfDocument PdfDocument { get; set; }
 * class [ImageDescriptionResult](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

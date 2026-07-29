@@ -1,29 +1,29 @@
 ---
-title: ISummaryCopilot.SaveSummaryAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ISummaryCopilot. تحفظ الملخص بشكل غير متزامن في ملف PDF
+title: "ISummaryCopilot.SaveSummaryAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ISummaryCopilot. تحفظ الملخص في ملف PDF بشكل غير متزامن"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/isummarycopilot/savesummaryasync/
 ---
 ## SaveSummaryAsync(string, CancellationToken?) {#savesummaryasync_1}
 
-تحفظ الملخص بشكل غير متزامن في ملف PDF.
+يحفظ الملخص إلى ملف PDF بشكل غير متزامن.
 
 ```csharp
 public Task SaveSummaryAsync(string outputFileName, CancellationToken? cancellationToken = default)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | outputFileName | String | اسم ملف الإخراج لحفظ الملخص. |
 | cancellationToken | Nullable`1 | رمز الإلغاء (اختياري). |
 
-### Return Value
+### قيمة الإرجاع
 
 مهمة تمثل العملية غير المتزامنة.
 
-### See Also
+### انظر أيضًا
 
 * interface [ISummaryCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -33,26 +33,28 @@ public Task SaveSummaryAsync(string outputFileName, CancellationToken? cancellat
 
 ## SaveSummaryAsync(string, SaveFormat, CancellationToken?) {#savesummaryasync}
 
-تحفظ الملخص بشكل غير متزامن في ملف بالتنسيق المحدد.
+يحفظ الملخص إلى ملف بالتنسيق المحدد بشكل غير متزامن.
 
 ```csharp
 public Task SaveSummaryAsync(string outputFileName, SaveFormat saveFormat, 
     CancellationToken? cancellationToken = default)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | outputFileName | String | اسم ملف الإخراج لحفظ الملخص. |
-| saveFormat | SaveFormat | التنسيق الذي سيتم حفظ الملخص به. |
+| saveFormat | SaveFormat | الصيغة التي سيتم حفظ الملخص بها. |
 | cancellationToken | Nullable`1 | رمز الإلغاء (اختياري). |
 
-### Return Value
+### قيمة الإرجاع
 
 مهمة تمثل العملية غير المتزامنة.
 
-### See Also
+### انظر أيضًا
 
 * enum [SaveFormat](../../../aspose.pdf/saveformat/)
 * interface [ISummaryCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

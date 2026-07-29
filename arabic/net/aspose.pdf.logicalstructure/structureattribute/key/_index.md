@@ -1,20 +1,20 @@
 ---
-title: StructureAttribute.Key
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StructureAttribute. تحصل على مفتاح السمة
+title: "StructureAttribute.Key"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StructureAttribute. تحصل على مفتاح السمة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.logicalstructure/structureattribute/key/
 ---
-## خاصية StructureAttribute.Key
+## StructureAttribute.Key property
 
-تحصل على مفتاح السمة.
+يحصل على مفتاح السمة.
 
 ```csharp
 public AttributeKey Key { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 مفتاح السمة.
 
@@ -24,3 +24,5 @@ public AttributeKey Key { get; }
 * class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

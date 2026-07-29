@@ -1,9 +1,9 @@
 ---
-title: Class SaveableFacade
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Facades.SaveableFacade. الفئة الأساسية لجميع الواجهات القابلة للحفظ
+title: "الفئة SaveableFacade"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Facades.SaveableFacade. الفئة الأساسية لجميع الواجهات القابلة للحفظ"
 type: docs
-weight: 4700
+weight: 4820
 url: /ar/net/aspose.pdf.facades/saveablefacade/
 ---
 ## SaveableFacade class
@@ -14,27 +14,29 @@ url: /ar/net/aspose.pdf.facades/saveablefacade/
 public abstract class SaveableFacade : Facade, ISaveableFacade
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Document](../../aspose.pdf.facades/facade/document/) { get; } | يحصل على واجهة الوثيقة التي يعمل عليها. |
+| [Document](../../aspose.pdf.facades/facade/document/) { get; } | يحصل على واجهة المستند التي يتم العمل عليها. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Document) | يقوم بتهيئة الواجهة. |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Stream) | يقوم بتهيئة الواجهة. |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(string) | يقوم بتهيئة الواجهة. |
-| virtual [Close](../../aspose.pdf.facades/facade/close/)() | يتخلص من Aspose.Pdf.Document المرتبطة بالواجهة. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Document) | يُهيئ الواجهة. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Stream) | يُهيئ الواجهة. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(string) | يُهيئ الواجهة. |
+| virtual [Close](../../aspose.pdf.facades/facade/close/)() | يفرغ Aspose.Pdf.Document المرتبط بواجهة. |
 | [Dispose](../../aspose.pdf.facades/facade/dispose/)() | يتخلص من الواجهة. |
-| virtual [Save](../../aspose.pdf.facades/saveablefacade/save/#save)(Stream) | يحفظ وثيقة PDF إلى التدفق المحدد. |
-| virtual [Save](../../aspose.pdf.facades/saveablefacade/save/#save_1)(string) | يحفظ وثيقة PDF إلى الملف المحدد. |
+| virtual [Save](../../aspose.pdf.facades/saveablefacade/save/#save)(Stream) | يحفظ مستند PDF إلى الدفق المحدد. |
+| virtual [Save](../../aspose.pdf.facades/saveablefacade/save/#save_1)(string) | يحفظ مستند PDF إلى الملف المحدد. |
 
-### See Also
+### انظر أيضًا
 
 * class [Facade](../facade/)
 * interface [ISaveableFacade](../isaveablefacade/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

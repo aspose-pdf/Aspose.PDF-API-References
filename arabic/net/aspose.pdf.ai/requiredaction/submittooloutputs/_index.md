@@ -1,14 +1,14 @@
 ---
-title: RequiredAction.SubmitToolOutputs
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RequiredAction. تحصل أو تعين تفاصيل مخرجات الأداة المطلوبة لاستمرار هذا التشغيل
+title: "RequiredAction.SubmitToolOutputs"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RequiredAction. تحصّل أو تعيين تفاصيل مخرجات الأداة المطلوبة لاستمرار هذا التنفيذ"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/requiredaction/submittooloutputs/
 ---
-## خاصية RequiredAction.SubmitToolOutputs
+## RequiredAction.SubmitToolOutputs property
 
-تحصل أو تعين تفاصيل مخرجات الأداة المطلوبة لاستمرار هذا التشغيل.
+يحصل أو يعيّن تفاصيل مخرجات الأداة اللازمة لاستمرار هذا التنفيذ.
 
 ```csharp
 public SubmitToolOutputs SubmitToolOutputs { get; set; }
@@ -20,3 +20,5 @@ public SubmitToolOutputs SubmitToolOutputs { get; set; }
 * class [RequiredAction](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

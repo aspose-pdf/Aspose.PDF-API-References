@@ -1,24 +1,24 @@
 ---
-title: TeXFragment.TeXFragment
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TeXFragment. يقوم بتهيئة مثيل جديد من فئة HtmlFragment
+title: "TeXFragment.TeXFragment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TeXFragment. يهيئ مثيلة جديدة من فئة HtmlFragment"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/texfragment/texfragment/
 ---
 ## TeXFragment(string) {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة HtmlFragment.
+تهيئ كائنًا جديدًا من الفئة HtmlFragment.
 
 ```csharp
 public TeXFragment(string text)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| text | String | نص الشظية |
+| نص | String | نص الجزء |
 
-### See Also
+### انظر أيضًا
 
 * class [TeXFragment](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -28,19 +28,21 @@ public TeXFragment(string text)
 
 ## TeXFragment(string, bool) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة HtmlFragment.
+تهيئ كائنًا جديدًا من الفئة HtmlFragment.
 
 ```csharp
 public TeXFragment(string text, bool removeIndents)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| text | String | نص الشظية |
-| removeIndents | Boolean | يحدد ما إذا كان يجب عدم عمل المسافات البادئة أثناء تنسيق شظية LaTeX |
+| نص | String | نص الجزء |
+| removeIndents | Boolean | يحدد ما إذا كان لا يجب إنشاء مسافات بادئة أثناء تنسيق مقطع LaTeX |
 
-### See Also
+### انظر أيضًا
 
 * class [TeXFragment](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

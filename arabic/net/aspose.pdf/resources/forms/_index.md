@@ -1,14 +1,14 @@
 ---
-title: Resources.Forms
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الموارد. تحصل على مجموعة نماذج Forms
+title: "Resources.Forms"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Resources. تحصل على مجموعة نماذج Forms"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/resources/forms/
 ---
-## خاصية Resources.Forms
+## Resources.Forms property
 
-تحصل على مجموعة نماذج `Forms`
+يحصل على مجموعة نماذج `Forms`
 
 ```csharp
 public XFormCollection Forms { get; }
@@ -20,3 +20,5 @@ public XFormCollection Forms { get; }
 * class [Resources](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

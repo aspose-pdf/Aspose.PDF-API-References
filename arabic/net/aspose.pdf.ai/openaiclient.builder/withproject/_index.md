@@ -1,29 +1,31 @@
 ---
-title: OpenAIClient.Builder.WithProject
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة البناء. تعيين معرف المشروع للعميل
+title: "OpenAIClient.Builder.WithProject"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Builder. تحدد معرف المشروع للعميل"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.ai/openaiclient.builder/withproject/
 ---
-## طريقة OpenAIClient.Builder.WithProject
+## OpenAIClient.Builder.WithProject method
 
-تعيين معرف المشروع للعميل.
+يضبط معرف المشروع للعميل.
 
 ```csharp
 public Builder WithProject(string projectId)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| projectId | سلسلة | معرف المشروع الذي سيتم تعيينه. |
+| projectId | String | معرف المشروع لتعيينه. |
 
 ### قيمة الإرجاع
 
-النسخة الحالية من [`Builder`](../).
+العنصر الحالي من [`Builder`](../).
 
 ### انظر أيضًا
 
-* الفئة [Builder](../)
-* مساحة الاسم [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [Builder](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

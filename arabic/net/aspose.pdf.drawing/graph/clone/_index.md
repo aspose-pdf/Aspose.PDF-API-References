@@ -1,14 +1,14 @@
 ---
-title: Graph.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الرسم. استنساخ الرسم
+title: "Graph.Clone"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Graph. استنساخ الرسم البياني"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.drawing/graph/clone/
 ---
-## طريقة Graph.Clone
+## Graph.Clone method
 
-استنساخ الرسم.
+استنساخ الرسم البياني.
 
 ```csharp
 public override object Clone()
@@ -23,3 +23,5 @@ public override object Clone()
 * class [Graph](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

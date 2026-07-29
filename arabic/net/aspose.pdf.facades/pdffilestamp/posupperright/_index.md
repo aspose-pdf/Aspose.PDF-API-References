@@ -1,12 +1,12 @@
 ---
-title: PdfFileStamp.PosUpperRight
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PdfFileStamp. الموضع العلوي الأيمن
+title: "PdfFileStamp.PosUpperRight"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PdfFileStamp. الموضع العلوي الأيمن"
 type: docs
 weight: 240
 url: /ar/net/aspose.pdf.facades/pdffilestamp/posupperright/
 ---
-## حقل PdfFileStamp.PosUpperRight
+## PdfFileStamp.PosUpperRight field
 
 الموضع العلوي الأيمن.
 
@@ -19,3 +19,5 @@ public const int PosUpperRight;
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

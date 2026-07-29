@@ -1,24 +1,24 @@
 ---
-title: PopupAnnotation.PopupAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PopupAnnotation. مُنشئ. للاستخدام في Generator
+title: "PopupAnnotation.PopupAnnotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PopupAnnotation منشئ. منشئ. للاستخدام في Generator"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/popupannotation/popupannotation/
 ---
 ## PopupAnnotation(Document) {#constructor}
 
-مُنشئ. للاستخدام في Generator.
+المنشئ. للاستخدام في Generator.
 
 ```csharp
 public PopupAnnotation(Document document)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| document | Document | المستند الذي سيتم إنشاء تعليق منبثق جديد فيه. |
+| document | Document | المستند الذي سيُنشأ فيه التعليق المنبثق الجديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PopupAnnotation](../)
@@ -29,21 +29,23 @@ public PopupAnnotation(Document document)
 
 ## PopupAnnotation(Page, Rectangle) {#constructor_1}
 
-ينشئ تعليق منبثق جديد على الصفحة المحددة.
+ينشئ تعليق توضيحي منبثق جديد على الصفحة المحددة.
 
 ```csharp
 public PopupAnnotation(Page page, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | صفحة المستند حيث يجب إنشاء التعليق. |
-| rect | Rectangle | مستطيل التعليق، الذي يحدد موقع التعليق على الصفحة. |
+| صفحة | صفحة | صفحة المستند حيث يجب إنشاء التعليق التوضيحي. |
+| rect | Rectangle | مستطيل التعليق التوضيحي، يحدد موقع التعليق التوضيحي على الصفحة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [PopupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

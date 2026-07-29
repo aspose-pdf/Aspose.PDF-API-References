@@ -1,14 +1,14 @@
 ---
-title: Ellipse.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Ellipse. تحصل أو تعين قيمة عائمة تشير إلى موضع الجزء السفلي من الشكل البيضاوي
+title: "Ellipse.Bottom"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Ellipse. يحصل أو يضبط قيمة عائمة تشير إلى الموضع السفلي للإهليلج"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.drawing/ellipse/bottom/
 ---
-## خاصية Ellipse.Bottom
+## Ellipse.Bottom property
 
-تحصل أو تعين قيمة عائمة تشير إلى موضع الجزء السفلي من الشكل البيضاوي.
+يحصل أو يعيّن قيمة عائمة تشير إلى الموضع السفلي للإهليلج.
 
 ```csharp
 public double Bottom { get; set; }
@@ -19,3 +19,5 @@ public double Bottom { get; set; }
 * class [Ellipse](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,28 +1,28 @@
 ---
-title: PdfFileSecurity.TrySetPrivilege
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileSecurity. تعيين أمان ملف Pdf باستخدام كلمة المرور الأصلية. لا ترمي استثناءً إذا فشل العملية
+title: "PdfFileSecurity.TrySetPrivilege"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileSecurity. تضبط أمان ملف Pdf باستخدام كلمة المرور الأصلية. لا تُلقي استثناءً إذا فشلت العملية"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.facades/pdffilesecurity/trysetprivilege/
 ---
-## طريقة PdfFileSecurity.TrySetPrivilege
+## PdfFileSecurity.TrySetPrivilege method
 
-تعيين أمان ملف Pdf باستخدام كلمة المرور الأصلية. لا ترمي استثناءً إذا فشل العملية.
+يضبط أمان ملف Pdf باستخدام كلمة المرور الأصلية. لا يُطلق استثناءً إذا فشلت العملية.
 
 ```csharp
 public bool TrySetPrivilege(string userPassword, string ownerPassword, DocumentPrivilege privilege)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| userPassword | سلسلة | كلمة المرور الأصلية للمستخدم. |
-| ownerPassword | سلسلة | كلمة المرور الأصلية للمالك. |
-| privilege | DocumentPrivilege | تعيين الامتياز. |
+| userPassword | String | كلمة مرور المستخدم الأصلية. |
+| ownerPassword | String | كلمة مرور المالك الأصلية. |
+| امتياز | DocumentPrivilege | تعيين الامتياز. |
 
 ### قيمة الإرجاع
 
-صحيح للنجاح، أو خطأ.
+صحيح إذا نجح، أو خطأ.
 
 ## أمثلة
 
@@ -46,3 +46,5 @@ Dim result As Boolean = fileSecurity.TrySetPrivilege(userPassword, ownerPassword
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

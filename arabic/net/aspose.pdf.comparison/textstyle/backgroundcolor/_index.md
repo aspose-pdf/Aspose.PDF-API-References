@@ -1,14 +1,14 @@
 ---
-title: TextStyle.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextStyle. تحصل على وتضبط لون الخلفية
+title: "TextStyle.BackgroundColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextStyle. تحصل وتضبط لون الخلفية"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.comparison/textstyle/backgroundcolor/
 ---
-## خاصية TextStyle.BackgroundColor
+## TextStyle.BackgroundColor property
 
-تحصل على وتضبط لون الخلفية.
+يحصل على لون الخلفية أو يضبطه.
 
 ```csharp
 public Color BackgroundColor { get; set; }
@@ -20,3 +20,5 @@ public Color BackgroundColor { get; set; }
 * class [TextStyle](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

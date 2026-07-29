@@ -1,24 +1,24 @@
 ---
-title: Page.MergeLayers
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الصفحة. تدمج جميع الطبقات على الصفحة في طبقة واحدة بالاسم الجديد المحدد للطبقة
+title: "Page.MergeLayers"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Page. تُدمج جميع الطبقات على الصفحة في طبقة واحدة بالاسم الجديد المحدد للطبقة"
 type: docs
 weight: 510
 url: /ar/net/aspose.pdf/page/mergelayers/
 ---
 ## MergeLayers(string) {#mergelayers}
 
-تدمج جميع الطبقات على الصفحة في طبقة واحدة بالاسم الجديد المحدد للطبقة.
+يدمج جميع الطبقات في الصفحة في طبقة واحدة بالاسم الجديد المحدد للطبقة.
 
 ```csharp
 public void MergeLayers(string newLayerName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | newLayerName | String | اسم الطبقة الجديدة بعد الدمج. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -28,19 +28,21 @@ public void MergeLayers(string newLayerName)
 
 ## MergeLayers(string, string) {#mergelayers_1}
 
-تدمج جميع الطبقات على الصفحة في طبقة واحدة بالاسم الجديد المحدد للطبقة ومعرف مجموعة المحتوى الاختياري.
+يدمج جميع الطبقات في الصفحة في طبقة واحدة بالاسم الجديد المحدد للطبقة ومعرف مجموعة المحتوى الاختياري.
 
 ```csharp
 public void MergeLayers(string newLayerName, string newOptionalContentGroupId)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | newLayerName | String | اسم الطبقة الجديدة بعد الدمج. |
 | newOptionalContentGroupId | String | معرف مجموعة المحتوى الاختياري للطبقة المدمجة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,31 +1,31 @@
 ---
-title: IChatCopilot.SaveResponseAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IChatCopilot. تحفظ الاستجابة للرسالة المعطاة في ملف PDF بشكل غير متزامن
+title: "IChatCopilot.SaveResponseAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IChatCopilot. تقوم بحفظ الاستجابة للرسالة المحددة بشكل غير متزامن إلى ملف PDF."
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.ai/ichatcopilot/saveresponseasync/
 ---
 ## SaveResponseAsync(string, string, CancellationToken?) {#saveresponseasync_3}
 
-تحفظ الاستجابة للرسالة المعطاة في ملف PDF بشكل غير متزامن.
+يحفظ الاستجابة للرسالة المعطاة بشكل غير متزامن إلى ملف PDF.
 
 ```csharp
 public Task SaveResponseAsync(string message, string outputFileName, 
     CancellationToken? cancellationToken = default)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| message | String | الرسالة المدخلة التي يتم حفظ الاستجابة لها. |
+| رسالة | String | رسالة الإدخال التي تم حفظ الاستجابة لها. |
 | outputFileName | String | اسم ملف PDF الناتج لحفظ الاستجابة. |
 | cancellationToken | Nullable`1 | رمز الإلغاء (اختياري). |
 
-### Return Value
+### قيمة الإرجاع
 
 مهمة تمثل العملية غير المتزامنة.
 
-### See Also
+### انظر أيضًا
 
 * interface [IChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -35,25 +35,25 @@ public Task SaveResponseAsync(string message, string outputFileName,
 
 ## SaveResponseAsync(string, string, SaveFormat, CancellationToken?) {#saveresponseasync_2}
 
-تحفظ الاستجابة للرسالة المعطاة في ملف بالتنسيق المحدد بشكل غير متزامن.
+يحفظ الاستجابة للرسالة المعطاة بشكل غير متزامن إلى ملف بالتنسيق المحدد.
 
 ```csharp
 public Task SaveResponseAsync(string message, string outputFileName, SaveFormat saveFormat, 
     CancellationToken? cancellationToken = default)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| message | String | الرسالة المدخلة التي يتم حفظ الاستجابة لها. |
+| رسالة | String | رسالة الإدخال التي تم حفظ الاستجابة لها. |
 | outputFileName | String | اسم الملف الناتج لحفظ الاستجابة. |
-| saveFormat | SaveFormat | التنسيق الذي سيتم حفظ الاستجابة به (PDF إذا لم يتم تحديده). |
+| saveFormat | SaveFormat | الصيغة التي سيتم حفظ الاستجابة بها (PDF إذا لم يتم تحديدها). |
 | cancellationToken | Nullable`1 | رمز الإلغاء (اختياري). |
 
-### Return Value
+### قيمة الإرجاع
 
 مهمة تمثل العملية غير المتزامنة.
 
-### See Also
+### انظر أيضًا
 
 * enum [SaveFormat](../../../aspose.pdf/saveformat/)
 * interface [IChatCopilot](../)
@@ -64,24 +64,24 @@ public Task SaveResponseAsync(string message, string outputFileName, SaveFormat 
 
 ## SaveResponseAsync(List&lt;string&gt;, string, CancellationToken?) {#saveresponseasync_1}
 
-تحفظ الاستجابات لقائمة الرسائل المعطاة في ملف PDF بشكل غير متزامن.
+يحفظ الاستجابات للقائمة المعطاة من الرسائل بشكل غير متزامن إلى ملف PDF.
 
 ```csharp
 public Task SaveResponseAsync(List<string> messages, string outputFileName, 
     CancellationToken? cancellationToken = default)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| messages | List`1 | قائمة الرسائل المدخلة التي يتم حفظ الاستجابات لها. |
+| رسائل | List`1 | قائمة رسائل الإدخال التي تم حفظ الاستجابات لها. |
 | outputFileName | String | اسم ملف PDF الناتج لحفظ الاستجابات. |
 | cancellationToken | Nullable`1 | رمز الإلغاء (اختياري). |
 
-### Return Value
+### قيمة الإرجاع
 
 مهمة تمثل العملية غير المتزامنة.
 
-### See Also
+### انظر أيضًا
 
 * interface [IChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -91,27 +91,29 @@ public Task SaveResponseAsync(List<string> messages, string outputFileName,
 
 ## SaveResponseAsync(List&lt;string&gt;, string, SaveFormat, CancellationToken?) {#saveresponseasync}
 
-تحفظ الاستجابات لقائمة الرسائل المعطاة في ملف بالتنسيق المحدد بشكل غير متزامن.
+يحفظ الاستجابات للقائمة المعطاة من الرسائل بشكل غير متزامن إلى ملف بالتنسيق المحدد.
 
 ```csharp
 public Task SaveResponseAsync(List<string> messages, string outputFileName, SaveFormat saveFormat, 
     CancellationToken? cancellationToken = default)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| messages | List`1 | قائمة الرسائل المدخلة التي يتم حفظ الاستجابات لها. |
+| رسائل | List`1 | قائمة رسائل الإدخال التي تم حفظ الاستجابات لها. |
 | outputFileName | String | اسم الملف الناتج لحفظ الاستجابات. |
-| saveFormat | SaveFormat | التنسيق الذي سيتم حفظ الاستجابات به (PDF إذا لم يتم تحديده). |
+| saveFormat | SaveFormat | الصيغة التي سيتم حفظ الاستجابات بها (PDF إذا لم يتم تحديدها). |
 | cancellationToken | Nullable`1 | رمز الإلغاء (اختياري). |
 
-### Return Value
+### قيمة الإرجاع
 
 مهمة تمثل العملية غير المتزامنة.
 
-### See Also
+### انظر أيضًا
 
 * enum [SaveFormat](../../../aspose.pdf/saveformat/)
 * interface [IChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

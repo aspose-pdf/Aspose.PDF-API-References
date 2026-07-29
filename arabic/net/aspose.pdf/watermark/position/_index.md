@@ -1,14 +1,14 @@
 ---
-title: Watermark.Position
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية العلامة المائية. تحصل على موضع صورة العلامة المائية على الصفحة
+title: "Watermark.Position"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Watermark. تحصّل على موضع صورة العلامة المائية في الصفحة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/watermark/position/
 ---
-## خاصية Watermark.Position
+## Watermark.Position property
 
-تحصل على موضع صورة العلامة المائية على الصفحة.
+يحصل على موضع صورة العلامة المائية على صفحة.
 
 ```csharp
 public Rectangle Position { get; }
@@ -20,3 +20,5 @@ public Rectangle Position { get; }
 * class [Watermark](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

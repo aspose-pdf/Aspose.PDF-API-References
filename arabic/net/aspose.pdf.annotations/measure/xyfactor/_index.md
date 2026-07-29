@@ -1,14 +1,14 @@
 ---
-title: Measure.XYFactor
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية القياس. عامل يجب استخدامه لتحويل أكبر الوحدات على محور y إلى أكبر الوحدات على محور x
+title: "Measure.XYFactor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Measure. عامل يُستخدم لتحويل أكبر الوحدات على المحور y إلى أكبر الوحدات على المحور x"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.annotations/measure/xyfactor/
 ---
-## خاصية Measure.XYFactor
+## Measure.XYFactor property
 
-عامل يجب استخدامه لتحويل أكبر الوحدات على محور y إلى أكبر الوحدات على محور x.
+عامل يُستخدم لتحويل أكبر الوحدات على المحور y إلى أكبر الوحدات على المحور x.
 
 ```csharp
 public double XYFactor { get; set; }
@@ -19,3 +19,5 @@ public double XYFactor { get; set; }
 * class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

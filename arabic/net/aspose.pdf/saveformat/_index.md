@@ -1,9 +1,9 @@
 ---
-title: Enum SaveFormat
-second_title: Aspose.PDF for .NET API Reference
-description: تعداد Aspose.Pdf.SaveFormat. يحدد التنسيق
+title: "تعداد SaveFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.SaveFormat عدد تعداد. يحدد التنسيق"
 type: docs
-weight: 9860
+weight: 10010
 url: /ar/net/aspose.pdf/saveformat/
 ---
 ## SaveFormat enumeration
@@ -14,30 +14,32 @@ url: /ar/net/aspose.pdf/saveformat/
 public enum SaveFormat
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Pdf | `0` | يعني الحفظ دون تغيير التنسيق، أي كملف PDF، يرجى استخدامه بدلاً من 'SaveFormat.None'، الذي أصبح قديمًا |
-| None | `0` | يعني الحفظ دون تغيير التنسيق، أي كملف PDF، إنه قديم وسيتم حذفه في النهاية، يرجى استخدام 'SaveFormat.Pdf' بدلاً من ذلك |
-| Doc | `1` | يعني الحفظ بتنسيق DOC |
-| Xps | `2` | يعني الحفظ بتنسيق XPS |
-| Html | `3` | يعني الحفظ بتنسيق HTML |
-| Xml | `4` | يعني الحفظ بتنسيق XML |
-| TeX | `5` | يعني الحفظ بتنسيق TEX، أي التنسيق المناسب لمحرر النصوص Latex |
-| DocX | `6` | يعني الحفظ بتنسيق DOCX |
-| Svg | `7` | يعني الحفظ بتنسيق SVG |
-| MobiXml | `8` | يعني الحفظ بتنسيق MobiXML (تنسيق خاص بالكتب الإلكترونية) |
-| Excel | `9` | يعني الحفظ بتنسيق MsExcel |
-| Epub | `10` | يعني الحفظ بتنسيق EPUB (تنسيق خاص بالكتب الإلكترونية) |
-| Pptx | `14` | يعني الحفظ بتنسيق PPTX |
-| Aps | `15` | الحفظ كملف APS XML. |
-| PdfXml | `16` | الهيكل الداخلي لوثيقة PDF بتنسيق XML |
-| Ps | `17` | يعني الحفظ بتنسيق PostScript. |
-| Eps | `18` | يعني الحفظ بتنسيق Encapsulated PostScript. |
-| Markdown | `19` | يعني الحفظ بتنسيق Markdown. |
+| Pdf | `0` | يعني حفظ دون تغيير التنسيق، أي كملف PDF. يرجى استخدامه بدلاً من 'SaveFormat.None'، ذلك أصبح مهملًا |
+| None | `0` | يعني حفظ دون تغيير التنسيق، أي كملف PDF. هذا الخيار مهمل وسيتم حذفه في النهاية، يرجى استخدام 'SaveFormat.Pdf' بدلاً منه |
+| Doc | `1` | يعني حفظ بتنسيق DOC |
+| Xps | `2` | يعني حفظ بتنسيق XPS |
+| Html | `3` | يعني حفظ بتنسيق HTML |
+| Xml | `4` | يعني حفظ بتنسيق XML |
+| TeX | `5` | يعني حفظ بتنسيق TEX أي تنسيق مناسب لمحرر النصوص LaTeX |
+| DocX | `6` | يعني حفظ بتنسيق DOCX |
+| Svg | `7` | يعني حفظ بتنسيق SVG |
+| MobiXml | `8` | يعني حفظ بتنسيق MobiXML (تنسيق خاص للكتب الإلكترونية) |
+| Excel | `9` | يعني حفظ بتنسيق MsExcel |
+| Epub | `10` | يعني حفظ بتنسيق EPUB (تنسيق خاص للكتب الإلكترونية) |
+| Pptx | `14` | يعني حفظ بتنسيق PPTX |
+| Aps | `15` | حفظ كملف APS XML. |
+| PdfXml | `16` | هيكل مستند PDF الداخلي بتنسيق XML |
+| Ps | `17` | يعني حفظ بتنسيق PostScript. |
+| Eps | `18` | يعني حفظ بتنسيق Encapsulated PostScript. |
+| Markdown | `19` | يعني حفظ بتنسيق Markdown. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

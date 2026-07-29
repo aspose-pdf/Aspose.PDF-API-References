@@ -1,34 +1,36 @@
 ---
-title: Class TeXFileSystemInputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.TeXFileSystemInputDirectory. تنفذ طريقة أنظمة الملفات العادية للحصول على تدفق ملف للقراءة منه
+title: "الفئة TeXFileSystemInputDirectory"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.TeXFileSystemInputDirectory. تنفذ طريقة نظام الملفات العادية للحصول على تدفق ملف للقراءة منه"
 type: docs
-weight: 10340
+weight: 10520
 url: /ar/net/aspose.pdf/texfilesysteminputdirectory/
 ---
 ## TeXFileSystemInputDirectory class
 
-تنفذ طريقة نظام الملفات العادية للحصول على دفق ملف للقراءة منه.
+ينفذ طريقة نظام الملفات العادي للحصول على تدفق ملف للقراءة منه.
 
 ```csharp
 public class TeXFileSystemInputDirectory : ITeXInputDirectory
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [TeXFileSystemInputDirectory](texfilesysteminputdirectory/)(string) | ينشئ مثيلًا جديدًا. |
+| [TeXFileSystemInputDirectory](texfilesysteminputdirectory/)(string) | ينشئ مثيلاً جديداً. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [Dispose](../../aspose.pdf/texfilesysteminputdirectory/dispose/)() | يتخلص من المثيل. |
-| [GetFile](../../aspose.pdf/texfilesysteminputdirectory/getfile/)(string, out string, bool) | يعيد الدفق للقراءة منه. |
+| virtual [Dispose](../../aspose.pdf/texfilesysteminputdirectory/dispose/)() | يلغي المثيل. |
+| [GetFile](../../aspose.pdf/texfilesysteminputdirectory/getfile/)(string, out string, bool) | يرجع التدفق للقراءة منه. |
 
-### See Also
+### انظر أيضًا
 
 * interface [ITeXInputDirectory](../itexinputdirectory/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

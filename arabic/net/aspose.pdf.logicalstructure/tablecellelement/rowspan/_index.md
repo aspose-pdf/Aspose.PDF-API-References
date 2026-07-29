@@ -1,14 +1,14 @@
 ---
-title: TableCellElement.RowSpan
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TableCellElement. تحصل أو تعين مدى الصف
+title: "TableCellElement.RowSpan"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TableCellElement. يحصل أو يضبط امتداد الصف"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.logicalstructure/tablecellelement/rowspan/
 ---
-## خاصية TableCellElement.RowSpan
+## TableCellElement.RowSpan property
 
-تحصل أو تعين مدى الصف.
+الحصول أو تعيين امتداد الصف.
 
 ```csharp
 public int RowSpan { get; set; }
@@ -19,3 +19,5 @@ public int RowSpan { get; set; }
 * class [TableCellElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

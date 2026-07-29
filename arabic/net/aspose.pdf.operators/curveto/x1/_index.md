@@ -1,14 +1,14 @@
 ---
-title: CurveTo.X1
-second_title: Aspose.PDF for .NET API Reference
-description: حقل CurveTo. يحصل أو يحدد إحداثي X1
+title: "CurveTo.X1"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل CurveTo. يحصل على أو يضبط إحداثي X1"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/curveto/x1/
 ---
-## حقل CurveTo.X1
+## CurveTo.X1 field
 
-يحصل أو يحدد إحداثي X1.
+يحصل أو يعيّن إحداثي X1.
 
 ```csharp
 public double X1;
@@ -19,3 +19,5 @@ public double X1;
 * class [CurveTo](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

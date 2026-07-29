@@ -1,14 +1,14 @@
 ---
-title: Interface IAIClient
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.AI.IAIClient. تمثل واجهة لعميل AI
+title: "الواجهة IAIClient"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الواجهة Aspose.Pdf.AI.IAIClient. تمثل واجهة لعميل الذكاء الاصطناعي"
 type: docs
-weight: 440
+weight: 460
 url: /ar/net/aspose.pdf.ai/iaiclient/
 ---
-## واجهة IAIClient
+## IAIClient interface
 
-تمثل واجهة لعميل AI.
+يمثل واجهة لعميل الذكاء الاصطناعي.
 
 ```csharp
 public interface IAIClient
@@ -16,5 +16,7 @@ public interface IAIClient
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

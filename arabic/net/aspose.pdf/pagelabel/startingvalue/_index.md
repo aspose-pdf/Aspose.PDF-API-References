@@ -1,14 +1,14 @@
 ---
-title: PageLabel.StartingValue
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageLabel. تحصل أو تعين القيمة الابتدائية لنطاق ترقيم الصفحات
+title: "PageLabel.StartingValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PageLabel خاصية. يحصل أو يضبط القيمة الابتدائية لنطاق ترقيم الصفحات"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/pagelabel/startingvalue/
 ---
-## خاصية PageLabel.StartingValue
+## PageLabel.StartingValue property
 
-تحصل أو تعين القيمة الابتدائية لنطاق ترقيم الصفحات.
+يحصل أو يضبط القيمة الابتدائية لنطاق ترقيم الصفحات.
 
 ```csharp
 public int StartingValue { get; set; }
@@ -19,3 +19,5 @@ public int StartingValue { get; set; }
 * class [PageLabel](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

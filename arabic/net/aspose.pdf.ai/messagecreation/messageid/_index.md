@@ -1,14 +1,14 @@
 ---
-title: MessageCreation.MessageId
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MessageCreation. تحصل أو تعين المعرف الفريد للرسالة
+title: "MessageCreation.MessageId"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MessageCreation. تحصل أو تعين المعرف الفريد للرسالة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/messagecreation/messageid/
 ---
-## خاصية MessageCreation.MessageId
+## MessageCreation.MessageId property
 
-تحصل أو تعين المعرف الفريد للرسالة.
+الحصول أو تعيين المعرف الفريد للرسالة.
 
 ```csharp
 public string MessageId { get; set; }
@@ -19,3 +19,5 @@ public string MessageId { get; set; }
 * class [MessageCreation](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

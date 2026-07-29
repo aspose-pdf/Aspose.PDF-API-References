@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة StructureTypeStandard. تُرجع سلسلة تمثل الكائن الحالي
+title: "StructureTypeStandard.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "StructureTypeStandard method. تُرجع سلسلة تمثل الكائن الحالي"
 type: docs
 weight: 520
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/tostring/
 ---
-## طريقة StructureTypeStandard.ToString
+## StructureTypeStandard.ToString method
 
-تُرجع سلسلة تمثل الكائن الحالي.
+يرجع سلسلة تمثل الكائن الحالي.
 
 ```csharp
 public override string ToString()
@@ -23,3 +23,5 @@ public override string ToString()
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

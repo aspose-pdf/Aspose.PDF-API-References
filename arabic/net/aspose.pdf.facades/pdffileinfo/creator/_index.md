@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.Creator
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileInfo. تحصل أو تعين معلومات المنشئ لوثيقة PDF
+title: "PdfFileInfo.Creator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileInfo. تحصل أو تعين معلومات المُنشئ للوثيقة PDF"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.facades/pdffileinfo/creator/
 ---
-## خاصية PdfFileInfo.Creator
+## PdfFileInfo.Creator property
 
-تحصل أو تعين معلومات المنشئ لوثيقة PDF.
+Gets or sets the Creator information of PDF document.
 
 ```csharp
 public string Creator { get; set; }
@@ -19,3 +19,5 @@ public string Creator { get; set; }
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: InterruptMonitor.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة InterruptMonitor. يتخلص من الموارد المستخدمة
+title: "InterruptMonitor.Dispose"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة InterruptMonitor. تُفرغ الموارد المستخدمة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.multithreading/interruptmonitor/dispose/
 ---
-## طريقة InterruptMonitor.Dispose
+## InterruptMonitor.Dispose method
 
-يتخلص من الموارد المستخدمة.
+يحرّر الموارد المستخدمة.
 
 ```csharp
 public void Dispose()
@@ -19,3 +19,5 @@ public void Dispose()
 * class [InterruptMonitor](../)
 * namespace [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
 * assembly [Aspose.PDF](../../../)
+
+

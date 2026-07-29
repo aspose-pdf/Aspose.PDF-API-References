@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Height
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية المستطيل. تحصل أو تعين قيمة عائمة تشير إلى ارتفاع المستطيل
+title: "Rectangle.Height"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Rectangle. يحصل أو يحدد قيمة عائمة تشير إلى ارتفاع المستطيل"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.drawing/rectangle/height/
 ---
-## خاصية Rectangle.Height
+## Rectangle.Height property
 
-تحصل أو تعين قيمة عائمة تشير إلى ارتفاع المستطيل.
+يحصل أو يعيّن قيمة float تُشير إلى ارتفاع المستطيل.
 
 ```csharp
 public double Height { get; set; }
@@ -19,3 +19,5 @@ public double Height { get; set; }
 * class [Rectangle](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

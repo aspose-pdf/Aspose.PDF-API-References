@@ -1,14 +1,14 @@
 ---
-title: PdfXmpMetadata.IsFixedSize
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfXmpMetadata. تعيد true إذا كانت المجموعة ذات حجم ثابت
+title: "PdfXmpMetadata.IsFixedSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfXmpMetadata. تُعيد صحيح إذا كانت المجموعة ذات حجم ثابت"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.facades/pdfxmpmetadata/isfixedsize/
 ---
-## خاصية PdfXmpMetadata.IsFixedSize
+## PdfXmpMetadata.IsFixedSize property
 
-تعيد true إذا كانت المجموعة ذات حجم ثابت.
+يرجع true إذا كانت المجموعة ذات حجم ثابت.
 
 ```csharp
 public bool IsFixedSize { get; }
@@ -19,3 +19,5 @@ public bool IsFixedSize { get; }
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

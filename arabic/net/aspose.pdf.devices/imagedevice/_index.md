@@ -1,50 +1,53 @@
 ---
-title: Class ImageDevice
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Devices.ImageDevice. فئة مجردة لأجهزة الصور
+title: "الفئة ImageDevice"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Devices.ImageDevice. فئة تجريدية لأجهزة الصور"
 type: docs
-weight: 3610
+weight: 3730
 url: /ar/net/aspose.pdf.devices/imagedevice/
 ---
 ## ImageDevice class
 
-فئة مجردة لأجهزة الصور.
+فئة مجردة لأجهزة الصورة.
 
 ```csharp
 public abstract class ImageDevice : PageDevice
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ImageDevice](imagedevice/#constructor)() | مُهيئ مجرد لوراثات `ImageDevice`، يحدد الدقة إلى 150x150. |
-| [ImageDevice](imagedevice/#constructor_2)(PageSize) | يقوم بتهيئة مثيل جديد من فئة [`JpegDevice`](../jpegdevice/) مع أبعاد الصورة المقدمة والدقة الافتراضية (=150). |
-| [ImageDevice](imagedevice/#constructor_1)(Resolution) | مُهيئ مجرد لوراثات `ImageDevice`. دقة ملف الصورة الناتج، انظر فئة [`Resolution`](./resolution/). |
-| [ImageDevice](imagedevice/#constructor_4)(int, int) | يقوم بتهيئة مثيل جديد من فئة [`JpegDevice`](../jpegdevice/) مع أبعاد الصورة المقدمة والدقة الافتراضية (=150). |
-| [ImageDevice](imagedevice/#constructor_3)(PageSize, Resolution) | يقوم بتهيئة مثيل جديد من فئة [`JpegDevice`](../jpegdevice/) مع أبعاد الصورة المقدمة والدقة. |
-| [ImageDevice](imagedevice/#constructor_5)(int, int, Resolution) | يقوم بتهيئة مثيل جديد من فئة [`JpegDevice`](../jpegdevice/) مع أبعاد الصورة المقدمة والدقة. |
+| [ImageDevice](imagedevice/#constructor)() | مُهيئ تجريدي لسلالات `ImageDevice`، يحدد الدقة إلى 150×150. |
+| [ImageDevice](imagedevice/#constructor_2)(PageSize) | ينشئ مثيلاً جديداً للفئة [`JpegDevice`](../jpegdevice/) بالأبعاد الصورة المقدمة والدقة الافتراضية (=150). |
+| [ImageDevice](imagedevice/#constructor_1)(Resolution) | مُهيئ تجريدي لسلالات `ImageDevice`. الدقة لملف الصورة الناتج، راجع فئة [`Resolution`](./resolution/). |
+| [ImageDevice](imagedevice/#constructor_4)(int, int) | ينشئ مثيلاً جديداً للفئة [`JpegDevice`](../jpegdevice/) بالأبعاد الصورة المقدمة والدقة الافتراضية (=150). |
+| [ImageDevice](imagedevice/#constructor_3)(PageSize, Resolution) | ينشئ مثيلاً جديداً للفئة [`JpegDevice`](../jpegdevice/) بالأبعاد الصورة المقدمة والدقة. |
+| [ImageDevice](imagedevice/#constructor_5)(int, int, Resolution) | ينشئ مثيلاً جديداً للفئة [`JpegDevice`](../jpegdevice/) بالأبعاد الصورة المقدمة والدقة. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | يحصل أو يحدد نوع إحداثيات الصفحة (صناديق الوسائط/القص). يتم استخدام قيمة CropBox بشكل افتراضي. |
-| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | يحصل أو يحدد وضع تقديم النموذج. |
+| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | يحصل أو يعيّن نوع إحداثيات الصفحة (صناديق Media/Crop). تُستخدم قيمة CropBox كإعداد افتراضي. |
+| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | يحصل أو يعيّن وضع عرض النموذج. |
 | [Height](../../aspose.pdf.devices/imagedevice/height/) { get; } | يحصل على ارتفاع مخرجات الصورة. |
-| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions/) { get; set; } | يحصل أو يحدد خيارات العرض. |
+| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions/) { get; set; } | يحصل أو يعيّن خيارات العرض. |
 | [Resolution](../../aspose.pdf.devices/imagedevice/resolution/) { get; } | يحصل على دقة الصورة. |
 | [Width](../../aspose.pdf.devices/imagedevice/width/) { get; } | يحصل على عرض مخرجات الصورة. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, Stream) | يقوم بإجراء بعض العمليات على الصفحة المعطاة، مثل تحويل الصفحة إلى صورة رسومية. |
-| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | يقوم بإجراء بعض العمليات على الصفحة المعطاة ويحفظ النتائج في الملف. |
+| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | يحوّل الصفحة إلى Bitmap. |
+| abstract [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, Stream) | يقوم بأداء بعض العمليات على الصفحة المحددة، مثل تحويل الصفحة إلى صورة رسومية. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | ينفّذ بعض العمليات على الصفحة المعطاة ويحفظ النتائج في الملف. |
 
-### See Also
+### انظر أيضًا
 
 * class [PageDevice](../pagedevice/)
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

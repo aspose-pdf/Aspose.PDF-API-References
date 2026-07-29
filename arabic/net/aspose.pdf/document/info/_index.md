@@ -1,14 +1,14 @@
 ---
-title: Document.Info
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. يحصل على معلومات الوثيقة
+title: "Document.Info"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. يحصل على معلومات المستند"
 type: docs
-weight: 280
+weight: 300
 url: /ar/net/aspose.pdf/document/info/
 ---
-## خاصية Document.Info
+## Document.Info property
 
-يحصل على معلومات الوثيقة.
+يحصل على معلومات المستند.
 
 ```csharp
 public DocumentInfo Info { get; }
@@ -20,3 +20,5 @@ public DocumentInfo Info { get; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Cell.ColSpan
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الخلية. تحصل أو تعين مدى العمود
+title: "Cell.ColSpan"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Cell. يحصل أو يعيّن امتداد العمود"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/cell/colspan/
 ---
-## خاصية Cell.ColSpan
+## Cell.ColSpan property
 
-تحصل أو تعين مدى العمود.
+يحصل أو يحدد امتداد العمود.
 
 ```csharp
 public int ColSpan { get; set; }
@@ -19,3 +19,5 @@ public int ColSpan { get; set; }
 * class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

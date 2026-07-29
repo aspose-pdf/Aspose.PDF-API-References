@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection.OnReleaseMouseBtn
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AnnotationActionCollection. تحصل أو تعين إجراءً يتم تنفيذه عند تحرير زر الماوس داخل منطقة الأنشطة التفاعلية للتعليقات التوضيحية
+title: "AnnotationActionCollection.OnReleaseMouseBtn"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AnnotationActionCollection. يحصل أو يحدد الإجراء الذي يتم تنفيذه عندما يُفرج زر الفأرة داخل المنطقة النشطة للتعليقات"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.annotations/annotationactioncollection/onreleasemousebtn/
 ---
-## خاصية AnnotationActionCollection.OnReleaseMouseBtn
+## AnnotationActionCollection.OnReleaseMouseBtn property
 
-تحصل أو تعين إجراءً يتم تنفيذه عند تحرير زر الماوس داخل منطقة النشاط الخاصة بالتعليق التوضيحي.
+يحصل أو يعيّن إجراءً يتم تنفيذه عندما يُطلق زر الفأرة داخل منطقة النشاط للتعليق.
 
 ```csharp
 public PdfAction OnReleaseMouseBtn { get; set; }
@@ -20,3 +20,5 @@ public PdfAction OnReleaseMouseBtn { get; set; }
 * class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

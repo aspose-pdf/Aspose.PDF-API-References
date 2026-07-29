@@ -1,20 +1,20 @@
 ---
-title: StructureElement.DefaultAttributeOwner
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StructureElement. تحصل على كائن AttributeOwnerStandard
+title: "StructureElement.DefaultAttributeOwner"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StructureElement. يحصل على كائن AttributeOwnerStandard"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.logicalstructure/structureelement/defaultattributeowner/
 ---
-## خاصية StructureElement.DefaultAttributeOwner
+## StructureElement.DefaultAttributeOwner property
 
-تحصل على كائن AttributeOwnerStandard.
+يحصل على كائن AttributeOwnerStandard.
 
 ```csharp
 public AttributeOwnerStandard DefaultAttributeOwner { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 كائن AttributeOwnerStandard.
 
@@ -24,3 +24,5 @@ public AttributeOwnerStandard DefaultAttributeOwner { get; }
 * class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

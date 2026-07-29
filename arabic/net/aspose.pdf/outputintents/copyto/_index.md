@@ -1,30 +1,30 @@
 ---
-title: OutputIntents.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OutputIntents. تنسخ عناصر المجموعة إلى المصفوفة بدءًا من arrayIndex المحدد في المصفوفة
+title: "OutputIntents.CopyTo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OutputIntents. ينسخ عناصر المجموعة إلى *array* بدءًا من *arrayIndex* المحدد"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/outputintents/copyto/
 ---
-## طريقة OutputIntents.CopyTo
+## OutputIntents.CopyTo method
 
-تنسخ عناصر المجموعة إلى *array*، بدءًا من *arrayIndex* المحدد في المصفوفة.
+ينسخ عناصر المجموعة إلى *array*، بدءًا من *arrayIndex* المحدد داخل المصفوفة.
 
 ```csharp
 public void CopyTo(OutputIntent[] array, int arrayIndex)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| array | OutputIntent[] | المصفوفة أحادية البعد التي هي وجهة نوايا الإخراج المنسوخة من المجموعة. يجب أن تحتوي المصفوفة على فهرسة تبدأ من الصفر. |
-| arrayIndex | Int32 | الفهرس الذي يبدأ من الصفر في *array* والذي يبدأ عنده النسخ. |
+| مصفوفة | OutputIntent[] | المصفوفة أحادية البُعد التي هي وجهة نوايا الإخراج المنسوخة من المجموعة. يجب أن تكون المصفوفة ذات فهرسة صفرية. |
+| arrayIndex | Int32 | الفهرس الصفري في *array* الذي يبدأ عنده النسخ. |
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | *array* فارغ. |
-| ArgumentOutOfRangeException | *arrayIndex* أقل من 0. |
+| ArgumentOutOfRangeException | *arrayIndex* أصغر من 0. |
 | ArgumentException | عدد العناصر في المصدر [`OutputIntents`](../) أكبر من المساحة المتاحة من *arrayIndex* إلى نهاية *array* الوجهة. |
 
 ### انظر أيضًا
@@ -33,3 +33,5 @@ public void CopyTo(OutputIntent[] array, int arrayIndex)
 * class [OutputIntents](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

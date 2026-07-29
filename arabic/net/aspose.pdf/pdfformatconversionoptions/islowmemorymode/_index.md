@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.IsLowMemoryMode
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFormatConversionOptions. هل وضع تحويل الذاكرة المنخفضة مفعل
+title: "PdfFormatConversionOptions.IsLowMemoryMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFormatConversionOptions. هل تم تمكين وضع التحويل منخفض الذاكرة"
 type: docs
-weight: 110
+weight: 120
 url: /ar/net/aspose.pdf/pdfformatconversionoptions/islowmemorymode/
 ---
-## خاصية PdfFormatConversionOptions.IsLowMemoryMode
+## PdfFormatConversionOptions.IsLowMemoryMode property
 
-هل وضع تحويل الذاكرة المنخفضة مفعل
+هل تم تمكين وضع التحويل منخفض الذاكرة
 
 ```csharp
 public bool IsLowMemoryMode { get; set; }
@@ -19,3 +19,5 @@ public bool IsLowMemoryMode { get; set; }
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

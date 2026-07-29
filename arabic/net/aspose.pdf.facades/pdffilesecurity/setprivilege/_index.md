@@ -1,28 +1,28 @@
 ---
-title: PdfFileSecurity.SetPrivilege
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileSecurity. تعيين أمان ملف Pdf مع كلمات مرور مستخدم/مالك فارغة. سيتم إضافة كلمة مرور المالك بواسطة سلسلة عشوائية. يتم طرح استثناء إذا فشل المعالجة
+title: "PdfFileSecurity.SetPrivilege"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileSecurity. تعيين أمان ملف Pdf باستخدام كلمات مرور المستخدم/المالك فارغة. سيتم إضافة كلمة مرور المالك بسلسلة عشوائية. يطرح استثناءً إذا فشلت العملية"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.facades/pdffilesecurity/setprivilege/
 ---
 ## SetPrivilege(DocumentPrivilege) {#setprivilege}
 
-تعيين أمان ملف Pdf مع كلمات مرور مستخدم/مالك فارغة. سيتم إضافة كلمة مرور المالك بواسطة سلسلة عشوائية. يتم طرح استثناء إذا فشل المعالجة.
+يضبط أمان ملف Pdf باستخدام كلمات مرور المستخدم/المالك فارغة. سيتم إضافة كلمة مرور المالك بسلسلة عشوائية. يرمي استثناءً إذا فشلت العملية.
 
 ```csharp
 public bool SetPrivilege(DocumentPrivilege privilege)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| privilege | DocumentPrivilege | تعيين الامتياز. |
+| امتياز | DocumentPrivilege | تعيين الامتياز. |
 
-### Return Value
+### قيمة الإرجاع
 
 صحيح للنجاح.
 
-## Examples
+## أمثلة
 
 ```csharp
 [C#]
@@ -38,7 +38,7 @@ Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile)
 fileSecurity.SetPrivilege(DocumentPrivilege.Print)
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [DocumentPrivilege](../../documentprivilege/)
 * class [PdfFileSecurity](../)
@@ -49,23 +49,23 @@ fileSecurity.SetPrivilege(DocumentPrivilege.Print)
 
 ## SetPrivilege(string, string, DocumentPrivilege) {#setprivilege_1}
 
-تعيين أمان ملف Pdf مع كلمة المرور الأصلية. يتم طرح استثناء إذا فشل المعالجة.
+يضبط أمان ملف Pdf باستخدام كلمة المرور الأصلية. يرمي استثناءً إذا فشلت العملية.
 
 ```csharp
 public bool SetPrivilege(string userPassword, string ownerPassword, DocumentPrivilege privilege)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | userPassword | String | كلمة مرور المستخدم الأصلية. |
 | ownerPassword | String | كلمة مرور المالك الأصلية. |
-| privilege | DocumentPrivilege | تعيين الامتياز. |
+| امتياز | DocumentPrivilege | تعيين الامتياز. |
 
-### Return Value
+### قيمة الإرجاع
 
 صحيح للنجاح.
 
-## Examples
+## أمثلة
 
 ```csharp
 [C#]
@@ -81,9 +81,11 @@ Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile)
 fileSecurity.SetPrivilege(userPassword, ownerPassword, DocumentPrivilege.Print)
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [DocumentPrivilege](../../documentprivilege/)
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

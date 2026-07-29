@@ -1,23 +1,23 @@
 ---
-title: ImagePlacementCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ImagePlacementCollection. تنسخ المجموعة بالكامل إلى مصفوفة أحادية البعد متوافقة بدءًا من الفهرس المحدد لمصفوفة الهدف
+title: "ImagePlacementCollection.CopyTo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ImagePlacementCollection. تنسخ المجموعة بالكامل إلى مصفوفة أحادية البعد متوافقة بدءًا من الفهرس المحدد للمصفوفة الهدف"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/imageplacementcollection/copyto/
 ---
-## طريقة ImagePlacementCollection.CopyTo
+## ImagePlacementCollection.CopyTo method
 
-تنسخ المجموعة بالكامل إلى مصفوفة أحادية البعد متوافقة، بدءًا من الفهرس المحدد لمصفوفة الهدف
+ينسخ المجموعة بالكامل إلى مصفوفة أحادية البعد متوافقة، بدءًا من الفهرس المحدد للمصفوفة الهدف
 
 ```csharp
 public void CopyTo(ImagePlacement[] array, int index)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| array | ImagePlacement[] | مصفوفة من الكائنات التي سيتم نسخها. |
-| index | Int32 | الفهرس الابتدائي الذي ستبدأ منه عملية النسخ. |
+| مصفوفة | ImagePlacement[] | Array of objects which will be copied. |
+| index | Int32 | Starting index from which copying will be started. |
 
 ### انظر أيضًا
 
@@ -25,3 +25,5 @@ public void CopyTo(ImagePlacement[] array, int index)
 * class [ImagePlacementCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

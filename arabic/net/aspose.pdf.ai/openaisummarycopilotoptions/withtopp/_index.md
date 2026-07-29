@@ -1,29 +1,31 @@
 ---
-title: OpenAISummaryCopilotOptions.WithTopP
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAISummaryCopilotOptions. تعيين قيمة top P لخيارات ملخص الطيار
+title: "OpenAISummaryCopilotOptions.WithTopP"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAISummaryCopilotOptions. تحدد قيمة top P لخيارات المساعد الملخص."
 type: docs
-weight: 140
+weight: 150
 url: /ar/net/aspose.pdf.ai/openaisummarycopilotoptions/withtopp/
 ---
-## طريقة OpenAISummaryCopilotOptions.WithTopP
+## OpenAISummaryCopilotOptions.WithTopP method
 
-تعيين قيمة top P لخيارات ملخص الطيار.
+يضبط قيمة top P لخيارات المساعد الملخص.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithTopP(double? topP)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| topP | Nullable`1 | قيمة top P التي يجب تعيينها. |
+| topP | Nullable`1 | قيمة top P لتعيينها. |
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAISummaryCopilotOptions`](../).
+العنصر الحالي من [`OpenAISummaryCopilotOptions`](../).
 
 ### انظر أيضًا
 
-* الفئة [OpenAISummaryCopilotOptions](../)
-* مساحة الأسماء [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

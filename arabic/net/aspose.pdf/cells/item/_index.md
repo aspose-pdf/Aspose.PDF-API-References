@@ -1,20 +1,20 @@
 ---
-title: Cells.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الخلايا. يحصل على أو يحدد الخلايا
+title: "Cells.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Cells. يحصل أو يعيّن الخلايا"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/cells/item/
 ---
-## فهرس الخلايا
+## Cells indexer
 
-يحصل على أو يحدد الخلايا.
+يحصل على أو يضبط الخلايا.
 
 ```csharp
 public Cell this[int index] { get; set; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
 | index | فهرس الخلية. |
 
@@ -24,3 +24,5 @@ public Cell this[int index] { get; set; }
 * class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

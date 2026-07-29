@@ -1,12 +1,12 @@
 ---
-title: Class ElementCollection
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Structure.ElementCollection. مجموعة من عناصر الهيكل المنطقي الأساسية
+title: "الفئة ElementCollection"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Structure.ElementCollection. مجموعة من عناصر البنية المنطقية الأساسية"
 type: docs
-weight: 10150
+weight: 10330
 url: /ar/net/aspose.pdf.structure/elementcollection/
 ---
-## فئة ElementCollection
+## ElementCollection class
 
 مجموعة من عناصر الهيكل المنطقي الأساسية.
 
@@ -19,17 +19,19 @@ public class ElementCollection : IEnumerable<Element>
 | الاسم | الوصف |
 | --- | --- |
 | [Count](../../aspose.pdf.structure/elementcollection/count/) { get; } | عدد العناصر. |
-| [Item](../../aspose.pdf.structure/elementcollection/item/) { get; } | يحصل على العنصر بواسطة الفهرس. |
+| [Item](../../aspose.pdf.structure/elementcollection/item/) { get; } | يحصل على العنصر حسب الفهرس. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [GetEnumerator](../../aspose.pdf.structure/elementcollection/getenumerator/)() | يُرجع عدادًا يتكرر عبر المجموعة. |
-| [Remove](../../aspose.pdf.structure/elementcollection/remove/)(Element) | إزالة عنصر من المجموعة. |
+| [GetEnumerator](../../aspose.pdf.structure/elementcollection/getenumerator/)() | يرجع عدّادًا يتنقل عبر المجموعة. |
+| [Remove](../../aspose.pdf.structure/elementcollection/remove/)(Element) | إزالة العنصر من المجموعة. |
 
 ### انظر أيضًا
 
-* فئة [Element](../element/)
-* مساحة الأسماء [Aspose.Pdf.Structure](../../aspose.pdf.structure/)
-* التجميع [Aspose.PDF](../../)
+* class [Element](../element/)
+* namespace [Aspose.Pdf.Structure](../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../)
+
+

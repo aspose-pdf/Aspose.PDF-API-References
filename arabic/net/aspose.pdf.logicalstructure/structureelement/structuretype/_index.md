@@ -1,22 +1,22 @@
 ---
-title: StructureElement.StructureType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StructureElement. تحصل على نوع عنصر الهيكل
+title: "StructureElement.StructureType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StructureElement. تحصل على نوع عنصر البنية"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.logicalstructure/structureelement/structuretype/
 ---
-## خاصية StructureElement.StructureType
+## StructureElement.StructureType property
 
-تحصل على نوع عنصر الهيكل.
+يحصل على نوع عنصر البنية.
 
 ```csharp
 public StructureTypeStandard StructureType { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-كائن StructureTypeStandard لعنصر الهيكل.
+كائن StructureTypeStandard لعنصر البنية.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public StructureTypeStandard StructureType { get; }
 * class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

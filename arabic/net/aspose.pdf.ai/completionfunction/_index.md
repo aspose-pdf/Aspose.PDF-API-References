@@ -1,32 +1,34 @@
 ---
-title: Class CompletionFunction
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.CompletionFunction. تمثل كائن الدالة
+title: "الفئة CompletionFunction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.AI.CompletionFunction. تمثل كائن الدالة"
 type: docs
-weight: 230
+weight: 240
 url: /ar/net/aspose.pdf.ai/completionfunction/
 ---
 ## CompletionFunction class
 
-تمثل كائن الدالة.
+يمثل كائن الدالة.
 
 ```csharp
 public class CompletionFunction
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [CompletionFunction](completionfunction/)() | المُنشئ الافتراضي. |
+| [CompletionFunction](completionfunction/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Name](../../aspose.pdf.ai/completionfunction/name/) { get; set; } | يحصل أو يحدد اسم الدالة التي سيتم استدعاؤها. |
+| [Name](../../aspose.pdf.ai/completionfunction/name/) { get; set; } | يحصل أو يعيّن اسم الدالة التي سيتم استدعاؤها. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

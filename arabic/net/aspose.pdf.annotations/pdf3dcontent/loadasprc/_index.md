@@ -1,24 +1,24 @@
 ---
-title: PDF3DContent.LoadAsPRC
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PDF3DContent. تحميل محتوى ثلاثي الأبعاد بالاسم المحدد كتنسيق PRC
+title: "PDF3DContent.LoadAsPRC"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PDF3DContent. تقوم بتحميل محتوى ثلاثي الأبعاد باستخدام اسم الملف المحدد بصيغة PRC"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.annotations/pdf3dcontent/loadasprc/
 ---
 ## LoadAsPRC(string) {#loadasprc_2}
 
-يحمّل محتوى ثلاثي الأبعاد بالاسم المحدد كتنسيق PRC.
+يقوم بتحميل محتوى 3D بالاسم المحدد بصيغة PRC.
 
 ```csharp
 public void LoadAsPRC(string filename)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | filename | String | اسم الملف. |
 
-### See Also
+### انظر أيضًا
 
 * class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
@@ -28,17 +28,17 @@ public void LoadAsPRC(string filename)
 
 ## LoadAsPRC(Stream) {#loadasprc_1}
 
-يحمّل محتوى ثلاثي الأبعاد من التدفق كتنسيق PRC.
+يقوم بتحميل محتوى 3D من الدفق بصيغة PRC.
 
 ```csharp
 public void LoadAsPRC(Stream stream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| stream | Stream | تدفق محتوى ثلاثي الأبعاد. |
+| stream | Stream | دفق محتوى ثلاثي الأبعاد. |
 
-### See Also
+### انظر أيضًا
 
 * class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
@@ -48,18 +48,20 @@ public void LoadAsPRC(Stream stream)
 
 ## LoadAsPRC(byte[]) {#loadasprc}
 
-يحمّل محتوى ثلاثي الأبعاد من مصفوفة بايت كتنسيق PRC.
+يقوم بتحميل محتوى 3D من مصفوفة بايت بصيغة PRC.
 
 ```csharp
 public void LoadAsPRC(byte[] stream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | stream | Byte[] | التدفق. |
 
-### See Also
+### انظر أيضًا
 
 * class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

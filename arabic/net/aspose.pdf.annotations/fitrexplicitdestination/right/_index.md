@@ -1,14 +1,14 @@
 ---
-title: FitRExplicitDestination.Right
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FitRExplicitDestination. تحصل على إحداثي الأفقى الأيمن للمستطيل المرئي
+title: "FitRExplicitDestination.Right"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FitRExplicitDestination خاصية. تحصل على الإحداثي الأفقي الأيمن للمستطيل المرئي"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/fitrexplicitdestination/right/
 ---
-## خاصية FitRExplicitDestination.Right
+## FitRExplicitDestination.Right property
 
-تحصل على إحداثي الأفقى الأيمن للمستطيل المرئي.
+يحصل على الإحداثي الأفقي الأيمن للمستطيل المرئي.
 
 ```csharp
 public double Right { get; }
@@ -19,3 +19,5 @@ public double Right { get; }
 * class [FitRExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

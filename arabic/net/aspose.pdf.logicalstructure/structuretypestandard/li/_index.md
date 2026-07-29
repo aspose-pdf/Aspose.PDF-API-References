@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.LI
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeStandard. عنصر قائمة عضو فردي في قائمة. قد تكون أطفاله واحدًا أو أكثر من التسميات أو أجسام القوائم أو كليهما - أنواع الهيكل Lbl أو LBody
+title: "StructureTypeStandard.LI"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "StructureTypeStandard field. List item عنصر فردي في قائمة. قد تكون أطفاله علامة واحدة أو أكثر أو أجسام قائمة أو كليهما من نوعي البنية Lbl أو LBody"
 type: docs
 weight: 230
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/li/
 ---
-## حقل StructureTypeStandard.LI
+## StructureTypeStandard.LI field
 
-(عنصر قائمة) عضو فردي في قائمة. قد تكون أطفاله واحدًا أو أكثر من التسميات، أو أجسام القوائم، أو كليهما (أنواع الهيكل Lbl أو LBody).
+(List item) عضو فردي في القائمة. قد تكون أطفاله تسمية أو أكثر، أو محتويات قائمة، أو كليهما (أنواع بنية Lbl أو LBody).
 
 ```csharp
 public static readonly StructureTypeStandard LI;
@@ -19,3 +19,5 @@ public static readonly StructureTypeStandard LI;
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XFA.NamespaceManager
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XFA. تحصل على مساحة الاسم لنموذج XFA. يتم تعريف المساحات التالية "data" لبيانات النموذج و "tpl" لقالب النموذج
+title: "XFA.NamespaceManager"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XFA. يحصل على مساحة الاسم لنموذج XFA. تم تعريف مساحات الاسم التالية: data لبيانات النموذج و tpl لقالب النموذج"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.forms/xfa/namespacemanager/
 ---
-## خاصية XFA.NamespaceManager
+## XFA.NamespaceManager property
 
-تحصل على مساحة الاسم لنموذج XFA. يتم تعريف المساحات التالية: "data" لبيانات النموذج و "tpl" لقالب النموذج.
+يحصل على مساحة الاسم لنموذج XFA. تم تعريف مساحات الاسم التالية: "data" لبيانات النموذج و "tpl" لقالب النموذج.
 
 ```csharp
 public XmlNamespaceManager NamespaceManager { get; }
@@ -19,3 +19,5 @@ public XmlNamespaceManager NamespaceManager { get; }
 * class [XFA](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

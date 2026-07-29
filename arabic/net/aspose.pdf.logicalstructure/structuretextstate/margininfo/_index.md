@@ -1,14 +1,14 @@
 ---
-title: StructureTextState.MarginInfo
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StructureTextState. تحصل أو تعين الهامش لعنصر الهيكل الكتلي
+title: "StructureTextState.MarginInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StructureTextState. تحصل أو تعيّن الهوامش لعنصر بنية الكتلة"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.logicalstructure/structuretextstate/margininfo/
 ---
-## خاصية StructureTextState.MarginInfo
+## StructureTextState.MarginInfo property
 
-تحصل أو تعين الهامش لعنصر الهيكل الكتلي.
+تحصل أو تعيّن الهوامش لعنصر بنية الكتلة.
 
 ```csharp
 public MarginInfo MarginInfo { get; set; }
@@ -20,3 +20,5 @@ public MarginInfo MarginInfo { get; set; }
 * class [StructureTextState](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

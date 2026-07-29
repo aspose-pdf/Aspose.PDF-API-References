@@ -1,22 +1,22 @@
 ---
-title: PdfAOptionsBase.UnicodeProcessingRules
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfAOptionsBase. تحصل على أو تعين القواعد لمعالجة جداول ToUnicode CMap وغير المرتبطة برموز Unicode أثناء عملية تحويل PDF/A
+title: "PdfAOptionsBase.UnicodeProcessingRules"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfAOptionsBase. تحصل أو تعيين القواعد لمعالجة جداول ToUnicode CMap وعدم ربطها برموز Unicode أثناء عملية تحويل PDF/A."
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf.plugins/pdfaoptionsbase/unicodeprocessingrules/
 ---
-## خاصية PdfAOptionsBase.UnicodeProcessingRules
+## PdfAOptionsBase.UnicodeProcessingRules property
 
-تحصل على أو تعين القواعد لمعالجة جداول ToUnicode CMap وغير المرتبطة برموز Unicode أثناء عملية تحويل PDF/A.
+يحصل أو يعيّن القواعد لمعالجة جداول ToUnicode CMap وعدم ربطها برموز Unicode أثناء عملية تحويل PDF/A.
 
 ```csharp
 public ToUnicodeProcessingRules UnicodeProcessingRules { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-مثال من [`ToUnicodeProcessingRules`](../../../aspose.pdf/tounicodeprocessingrules/) الذي يحدد القواعد للتعامل مع الحالات الإشكالية مع رموز Unicode.
+مثال من [`ToUnicodeProcessingRules`](../../../aspose.pdf/tounicodeprocessingrules/) يحدد القواعد للتعامل مع الحالات المشكلة التي تحتوي على أحرف Unicode.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public ToUnicodeProcessingRules UnicodeProcessingRules { get; set; }
 * class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

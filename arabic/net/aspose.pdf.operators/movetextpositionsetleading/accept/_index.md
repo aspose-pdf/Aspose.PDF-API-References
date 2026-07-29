@@ -1,26 +1,28 @@
 ---
-title: MoveTextPositionSetLeading.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة MoveTextPositionSetLeading. تقبل كائن الزائر لمعالجة المشغل
+title: "MoveTextPositionSetLeading.Accept"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة MoveTextPositionSetLeading. تقبل كائن الزائر لمعالجة المشغل"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.operators/movetextpositionsetleading/accept/
 ---
-## طريقة MoveTextPositionSetLeading.Accept
+## MoveTextPositionSetLeading.Accept method
 
-تقبل كائن الزائر لمعالجة المشغل.
+يقبل كائن الزائر لمعالجة العامل.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الزائر | IOperatorSelector | كائن الزائر. |
+| زائر | IOperatorSelector | كائن Visitor. |
 
 ### انظر أيضًا
 
-* الواجهة [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* الفئة [MoveTextPositionSetLeading](../)
-* مساحة الاسم [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [MoveTextPositionSetLeading](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

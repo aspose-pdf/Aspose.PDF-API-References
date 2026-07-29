@@ -1,14 +1,14 @@
 ---
-title: Page.Resources
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصفحة. تحصل على موارد الصفحة. يحتوي كائن الموارد على مجموعات من الصور والنماذج والخطوط. الموارد
+title: "Page.Resources"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Page property. يحصل على موارد الصفحة. كائن Resources يحتوي على مجموعات من الصور والنماذج والخطوط. Resources"
 type: docs
 weight: 240
 url: /ar/net/aspose.pdf/page/resources/
 ---
-## خاصية Page.Resources
+## Page.Resources property
 
-تحصل على موارد الصفحة. يحتوي كائن الموارد على مجموعات من الصور والنماذج والخطوط. `Resources`
+يحصل على موارد الصفحة. كائن Resources يحتوي على مجموعات من الصور والنماذج والخطوط. `Resources`
 
 ```csharp
 public Resources Resources { get; }
@@ -16,7 +16,7 @@ public Resources Resources { get; }
 
 ## أمثلة
 
-المثال يوضح كيفية المسح عبر صور الصفحة:
+يوضح المثال عملية المسح عبر صور الصفحة:
 
 ```csharp
 Document document = new Document("sample.pdf");
@@ -34,3 +34,5 @@ foreach(XImage image in resources.Images)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

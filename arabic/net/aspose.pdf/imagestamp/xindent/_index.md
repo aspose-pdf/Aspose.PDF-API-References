@@ -1,14 +1,14 @@
 ---
-title: ImageStamp.XIndent
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ImageStamp. تحصل على وتضبط إحداثيات الطابع الأفقي بدءًا من اليسار
+title: "ImageStamp.XIndent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ImageStamp. تحصل وتضبط إحداثي الختم الأفقي بدءًا من اليسار"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/imagestamp/xindent/
 ---
-## خاصية ImageStamp.XIndent
+## ImageStamp.XIndent property
 
-تحصل على وتضبط إحداثيات الطابع الأفقي، بدءًا من اليسار.
+الحصول على وتعيين إحداثي الختم الأفقي، بدءًا من اليسار.
 
 ```csharp
 public override double XIndent { get; set; }
@@ -19,3 +19,5 @@ public override double XIndent { get; set; }
 * class [ImageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ExcelSaveOptions.InsertBlankColumnAtFirst
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ExcelSaveOptions. قم بتعيين القيمة إلى true إذا كنت بحاجة إلى إدراج عمود فارغ كأول عمود في ورقة العمل. القيمة الافتراضية هي false، مما يعني أنه لن يتم إدراج عمود فارغ
+title: "ExcelSaveOptions.InsertBlankColumnAtFirst"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ExcelSaveOptions. اضبطها على true إذا كنت تحتاج إلى إدراج عمود فارغ كأول عمود في ورقة العمل. القيمة الافتراضية هي false وتعني أنه لن يتم إدراج العمود الفارغ"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/excelsaveoptions/insertblankcolumnatfirst/
 ---
-## خاصية ExcelSaveOptions.InsertBlankColumnAtFirst
+## ExcelSaveOptions.InsertBlankColumnAtFirst property
 
-قم بتعيين القيمة إلى true إذا كنت بحاجة إلى إدراج عمود فارغ كأول عمود في ورقة العمل. القيمة الافتراضية هي false؛ مما يعني أنه لن يتم إدراج عمود فارغ.
+اضبطه على true إذا كنت بحاجة إلى إدراج عمود فارغ كأول عمود في ورقة العمل. القيمة الافتراضية هي false؛ مما يعني عدم إدراج العمود الفارغ.
 
 ```csharp
 public bool InsertBlankColumnAtFirst { get; set; }
@@ -19,3 +19,5 @@ public bool InsertBlankColumnAtFirst { get; set; }
 * class [ExcelSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

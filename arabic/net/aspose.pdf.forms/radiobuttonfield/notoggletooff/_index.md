@@ -1,14 +1,14 @@
 ---
-title: RadioButtonField.NoToggleToOff
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RadioButtonField. الحصول على أو تعيين العلم الذي يسمح لزر الاختيار بعدم وجود قيمة محددة. إذا كانت القيمة صحيحة، يجب أن يكون هناك زر اختيار واحد محدد في جميع الأوقات؛ اختيار الزر المحدد حاليًا ليس له تأثير. إذا كانت القيمة خاطئة، فإن النقر على الزر المحدد يزيل تحديده، مما يترك بدون زر محدد.
+title: "RadioButtonField.NoToggleToOff"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RadioButtonField. الحصول أو تعيين العلامة التي تسمح لزر الاختيار بعدم وجود قيمة محددة. إذا كان true يتم اختيار زر اختيار واحد فقط في جميع الأوقات، اختيار الزر المحدد حاليًا لا يؤثر. إذا كان false فإن النقر على الزر المحدد يلغي تحديده ويترك لا زر محدد."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.forms/radiobuttonfield/notoggletooff/
 ---
-## خاصية RadioButtonField.NoToggleToOff
+## RadioButtonField.NoToggleToOff property
 
-الحصول على أو تعيين العلم الذي يسمح لزر الاختيار بعدم وجود قيمة محددة. إذا كانت القيمة `true`، يجب أن يكون هناك زر اختيار واحد محدد في جميع الأوقات؛ اختيار الزر المحدد حاليًا ليس له تأثير. إذا كانت القيمة `false`، فإن النقر على الزر المحدد يزيل تحديده، مما يترك بدون زر محدد.
+احصل أو عيّن العلامة التي تسمح لزر الاختيار بأن لا يكون له قيمة محددة. إذا كان `true`، يجب أن يكون زر اختيار واحد فقط محددًا في جميع الأوقات؛ اختيار الزر المحدد حاليًا لا يؤثر. إذا كان `false`، فإن النقر على الزر المحدد يلغي تحديده، مما يترك لا زر محدد.
 
 ```csharp
 public bool NoToggleToOff { get; set; }
@@ -16,10 +16,12 @@ public bool NoToggleToOff { get; set; }
 
 ## ملاحظات
 
-بعض قارئات PDF (بما في ذلك Adobe Acrobat) قد تتجاهل حالة العلم `false`.
+قد يتجاهل بعض قارئات PDF (بما في ذلك Adobe Acrobat) حالة العلامة `false`.
 
 ### انظر أيضًا
 
 * class [RadioButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

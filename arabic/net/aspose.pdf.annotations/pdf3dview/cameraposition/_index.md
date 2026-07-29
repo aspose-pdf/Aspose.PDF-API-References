@@ -1,20 +1,20 @@
 ---
-title: PDF3DView.CameraPosition
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PDF3DView. تحصل أو تعين موضع الكاميرا للعرض
+title: "PDF3DView.CameraPosition"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PDF3DView. يحصل على أو يضبط موضع الكاميرا للعرض"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/pdf3dview/cameraposition/
 ---
-## خاصية PDF3DView.CameraPosition
+## PDF3DView.CameraPosition property
 
-تحصل أو تعين موضع الكاميرا للعرض.
+يحصل أو يضبط موضع الكاميرا للعرض.
 
 ```csharp
 public Matrix3D CameraPosition { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 موضع الكاميرا للعرض.
 
@@ -24,3 +24,5 @@ public Matrix3D CameraPosition { get; set; }
 * class [PDF3DView](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

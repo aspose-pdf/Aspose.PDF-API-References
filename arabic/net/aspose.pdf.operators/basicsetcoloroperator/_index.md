@@ -1,45 +1,47 @@
 ---
-title: Class BasicSetColorOperator
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.BasicSetColorOperator. الفئة الأساسية لمشغلات تعيين اللون
+title: "الفئة BasicSetColorOperator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Operators.BasicSetColorOperator. الفئة الأساسية لمعاملات ضبط اللون"
 type: docs
-weight: 7160
+weight: 7300
 url: /ar/net/aspose.pdf.operators/basicsetcoloroperator/
 ---
 ## BasicSetColorOperator class
 
-الفئة الأساسية لمشغلات تعيين اللون.
+الفئة الأساسية لمشغلات set color.
 
 ```csharp
 public abstract class BasicSetColorOperator : SetColorOperator
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [B](../../aspose.pdf.operators/basicsetcoloroperator/b/) { get; } | يحصل على مكون اللون الأحمر |
-| [C](../../aspose.pdf.operators/basicsetcoloroperator/c/) { get; } | يحصل على مكون السايان من لون CMYK. |
-| virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color/) { get; } | يحصل على مصفوفة مكونات اللون. |
-| [G](../../aspose.pdf.operators/basicsetcoloroperator/g/) { get; } | يحصل على مكون اللون الأخضر |
-| [Gray](../../aspose.pdf.operators/basicsetcoloroperator/gray/) { get; } | يحصل على مكون اللون الأسود من اللون الرمادي. |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
-| [K](../../aspose.pdf.operators/basicsetcoloroperator/k/) { get; } | يحصل على مكون اللون الأسود من لون CMYK. |
-| [M](../../aspose.pdf.operators/basicsetcoloroperator/m/) { get; } | يحصل على مكون الماجنتا من لون CMYK. |
-| [R](../../aspose.pdf.operators/basicsetcoloroperator/r/) { get; } | يحصل على مكون اللون الأحمر |
-| [Y](../../aspose.pdf.operators/basicsetcoloroperator/y/) { get; } | يحصل على مكون اللون الأصفر من لون CMYK. |
+| [B](../../aspose.pdf.operators/basicsetcoloroperator/b/) { get; } | يحصل على المكوّن الأحمر للون |
+| [C](../../aspose.pdf.operators/basicsetcoloroperator/c/) { get; } | يحصل على المكوّن السماوي (Cyan) للون CMYK. |
+| virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color/) { get; } | يحصل على مصفوفة مكوّنات اللون. |
+| [G](../../aspose.pdf.operators/basicsetcoloroperator/g/) { get; } | يحصل على المكوّن الأخضر للون |
+| [Gray](../../aspose.pdf.operators/basicsetcoloroperator/gray/) { get; } | يحصل على المكوّن الأسود للون الرمادي. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
+| [K](../../aspose.pdf.operators/basicsetcoloroperator/k/) { get; } | يحصل على المكوّن الأسود للون CMYK. |
+| [M](../../aspose.pdf.operators/basicsetcoloroperator/m/) { get; } | يحصل على المكوّن الأرجواني للون CMYK. |
+| [R](../../aspose.pdf.operators/basicsetcoloroperator/r/) { get; } | يحصل على المكوّن الأحمر للون |
+| [Y](../../aspose.pdf.operators/basicsetcoloroperator/y/) { get; } | يحصل على المكوّن الأصفر للون CMYK. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| abstract [Accept](../../aspose.pdf/operator/accept/)(IOperatorSelector) | يقبل الزائر IOperatorSelector الذي يوفر معالجة المشغلات. |
-| abstract [getColor](../../aspose.pdf.operators/setcoloroperator/getcolor/)() | يعيد اللون المحدد بواسطة المشغل. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | يعيد نص المشغل ومعاييره. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| abstract [Accept](../../aspose.pdf/operator/accept/)(IOperatorSelector) | يقبل الزائر IOperatorSelector الذي يوفر معالجة العوامل. |
+| abstract [getColor](../../aspose.pdf.operators/setcoloroperator/getcolor/)() | يرجع اللون المحدد بواسطة العامل. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | يرجع نص العامل ومعامِله. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [SetColorOperator](../setcoloroperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

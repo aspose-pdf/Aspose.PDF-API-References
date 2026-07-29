@@ -1,23 +1,23 @@
 ---
-title: XFormCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XFormCollection. تنسخ XFormCollection إلى المجموعة
+title: "XFormCollection.CopyTo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XFormCollection. ينسخ XFormCollection إلى المجموعة"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/xformcollection/copyto/
 ---
-## طريقة XFormCollection.CopyTo
+## XFormCollection.CopyTo method
 
-تنسخ XFormCollection إلى المجموعة.
+ينسخ XFormCollection إلى المجموعة.
 
 ```csharp
 public void CopyTo(XForm[] array, int index)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| array | XForm[] | مصفوفة من XForm ليتم نسخها |
-| index | Int32 | الفهرس الذي سيتم نسخ XFormCollection فيه |
+| مصفوفة | XForm[] | مصفوفة XForm التي سيتم نسخها |
+| index | Int32 | الفهرس حيث سيتم نسخ XFormCollection |
 
 ### انظر أيضًا
 
@@ -25,3 +25,5 @@ public void CopyTo(XForm[] array, int index)
 * class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Signature.ByteRange
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية التوقيع. مصفوفة من أزواج الأعداد الصحيحة التي تبدأ من إزاحة البايت، الطول بالبايت، والتي يجب أن تصف نطاق البايت الدقيق لحساب التجزئة
+title: "Signature.ByteRange"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Signature. مصفوفة من أزواج الأعداد الصحيحة التي تبدأ بإزاحة البايت وطوله بالبايتات والتي تصف النطاق الدقيق للبايتات لحساب التجزئة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.forms/signature/byterange/
 ---
-## خاصية Signature.ByteRange
+## Signature.ByteRange property
 
-مصفوفة من أزواج الأعداد الصحيحة (إزاحة البايت، الطول بالبايت) التي يجب أن تصف نطاق البايت الدقيق لحساب التجزئة.
+مصفوفة من أزواج الأعداد الصحيحة (إزاحة البايت البداية، الطول بالبايت) التي تصف النطاق البايت الدقيق لحساب التجزئة.
 
 ```csharp
 public int[] ByteRange { get; }
@@ -19,3 +19,5 @@ public int[] ByteRange { get; }
 * class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

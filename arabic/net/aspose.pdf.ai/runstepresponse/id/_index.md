@@ -1,14 +1,14 @@
 ---
-title: RunStepResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunStepResponse. تحصل أو تعين معرف خطوة التشغيل التي يمكن الإشارة إليها في نقاط نهاية API
+title: "RunStepResponse.Id"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RunStepResponse. تحصل أو تعيين معرف خطوة التشغيل الذي يمكن الإشارة إليه في نقاط نهاية API"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.ai/runstepresponse/id/
 ---
-## خاصية RunStepResponse.Id
+## RunStepResponse.Id property
 
-تحصل أو تعين معرف خطوة التشغيل، التي يمكن الإشارة إليها في نقاط نهاية API.
+يتم الحصول على أو تعيين معرف خطوة التشغيل، والذي يمكن الإشارة إليه في نقاط نهاية API.
 
 ```csharp
 public string Id { get; set; }
@@ -19,3 +19,5 @@ public string Id { get; set; }
 * class [RunStepResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.TransitionType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfPageEditor. تحصل أو تضبط نمط الانتقال الذي يجب استخدامه عند الانتقال إلى هذه الصفحة من صفحة أخرى أثناء العرض التقديمي
+title: "PdfPageEditor.TransitionType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfPageEditor. الحصول أو تعيين نمط الانتقال لاستخدامه عند الانتقال إلى هذه الصفحة من أخرى أثناء العرض"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.facades/pdfpageeditor/transitiontype/
 ---
-## خاصية PdfPageEditor.TransitionType
+## PdfPageEditor.TransitionType property
 
-تحصل أو تضبط نمط الانتقال الذي يجب استخدامه عند الانتقال إلى هذه الصفحة من صفحة أخرى أثناء العرض التقديمي.
+يحصل أو يعيّن نمط الانتقال لاستخدامه عند الانتقال إلى هذه الصفحة من أخرى أثناء العرض.
 
 ```csharp
 public int TransitionType { get; set; }
@@ -19,3 +19,5 @@ public int TransitionType { get; set; }
 * class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

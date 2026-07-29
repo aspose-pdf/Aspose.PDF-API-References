@@ -1,22 +1,22 @@
 ---
-title: INamedDestinationCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية INamedDestinationCollection. يحصل أو يحدد الوجهة حسب اسمها
+title: "INamedDestinationCollection.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية INamedDestinationCollection. يحصل على أو يضبط الوجهة حسب اسمها"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/inameddestinationcollection/item/
 ---
-## فهرس INamedDestinationCollection
+## INamedDestinationCollection indexer
 
-يحصل أو يحدد الوجهة حسب اسمها.
+يحصل أو يضبط الوجهة حسب اسمها.
 
 ```csharp
 public IAppointment this[string name] { get; set; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| name | قيمة الاسم. |
+| الاسم | قيمة الاسم. |
 
 ### قيمة الإرجاع
 
@@ -24,7 +24,9 @@ public IAppointment this[string name] { get; set; }
 
 ### انظر أيضًا
 
-* الواجهة [IAppointment](../../../aspose.pdf.annotations/iappointment/)
-* الواجهة [INamedDestinationCollection](../)
-* مساحة الاسم [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* interface [INamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+
