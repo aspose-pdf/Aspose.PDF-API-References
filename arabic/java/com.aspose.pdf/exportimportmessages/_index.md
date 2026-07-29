@@ -1,0 +1,161 @@
+---
+title: "ExportImportMessages"
+linktitle: "ExportImportMessages"
+second_title: "مرجع API لـ Aspose.PDF للـ Java"
+description: "يحتوي على رسائل خطأ مختلفة لعمليات تصدير واستيراد حقول النموذج."
+type: docs
+weight: 1330
+url: /ar/java/com.aspose.pdf/exportimportmessages/
+---
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.ExportImportMessages
+
+```
+public class ExportImportMessages extends Object
+```
+
+يحتوي على رسائل خطأ مختلفة لعمليات تصدير واستيراد حقول النموذج.
+
+## الحقول
+
+| حقل | الوصف |
+| --- | --- |
+| [AppearanceDObjectNotImporting](#AppearanceDObjectNotImporting) |  |
+| [AppearanceNNotPresented](#AppearanceNNotPresented) |  |
+| [AppearanceRObjectNotImporting](#AppearanceRObjectNotImporting) |  |
+| [BarcodeSymbologyValueNotValid](#BarcodeSymbologyValueNotValid) |  |
+| [NotImplemented](#NotImplemented) |  |
+| [PageIndexIsNotSet](#PageIndexIsNotSet) |  |
+| [PageIsNull](#PageIsNull) |  |
+| [PageNotFoundInDocument](#PageNotFoundInDocument) |  |
+| [PartialNameIsNotSet](#PartialNameIsNotSet) |  |
+| [RectangleImportError](#RectangleImportError) |  |
+| [RectangleIsNotSet](#RectangleIsNotSet) |  |
+| [RectNotPresented](#RectNotPresented) |  |
+| [SupportExportOnly14StandardFonts](#SupportExportOnly14StandardFonts) |  |
+| [UnknownExportError](#UnknownExportError) |  |
+| [UnknownFieldType](#UnknownFieldType) |  |
+| [UnknownImportError](#UnknownImportError) |  |
+
+## المنشئات
+
+| منشئ | الوصف |
+| --- | --- |
+| [ExportImportMessages](#ExportImportMessages--) |  |
+
+### AppearanceDObjectNotImporting {#AppearanceDObjectNotImporting}
+```
+public static final String AppearanceDObjectNotImporting
+```
+
+
+
+### AppearanceNNotPresented {#AppearanceNNotPresented}
+```
+public static final String AppearanceNNotPresented
+```
+
+
+
+### AppearanceRObjectNotImporting {#AppearanceRObjectNotImporting}
+```
+public static final String AppearanceRObjectNotImporting
+```
+
+
+
+### BarcodeSymbologyValueNotValid {#BarcodeSymbologyValueNotValid}
+```
+public static final String BarcodeSymbologyValueNotValid
+```
+
+
+
+### NotImplemented {#NotImplemented}
+```
+public static final String NotImplemented
+```
+
+
+
+### PageIndexIsNotSet {#PageIndexIsNotSet}
+```
+public static final String PageIndexIsNotSet
+```
+
+
+
+### PageIsNull {#PageIsNull}
+```
+public static final String PageIsNull
+```
+
+
+
+### PageNotFoundInDocument {#PageNotFoundInDocument}
+```
+public static final String PageNotFoundInDocument
+```
+
+
+
+### PartialNameIsNotSet {#PartialNameIsNotSet}
+```
+public static final String PartialNameIsNotSet
+```
+
+
+
+### RectangleImportError {#RectangleImportError}
+```
+public static final String RectangleImportError
+```
+
+
+
+### RectangleIsNotSet {#RectangleIsNotSet}
+```
+public static final String RectangleIsNotSet
+```
+
+
+
+### RectNotPresented {#RectNotPresented}
+```
+public static final String RectNotPresented
+```
+
+
+
+### SupportExportOnly14StandardFonts {#SupportExportOnly14StandardFonts}
+```
+public static final String SupportExportOnly14StandardFonts
+```
+
+
+
+### UnknownExportError {#UnknownExportError}
+```
+public static final String UnknownExportError
+```
+
+
+
+### UnknownFieldType {#UnknownFieldType}
+```
+public static final String UnknownFieldType
+```
+
+
+
+### UnknownImportError {#UnknownImportError}
+```
+public static final String UnknownImportError
+```
+
+
+
+### ExportImportMessages {#ExportImportMessages--}
+```
+public ExportImportMessages()
+```
