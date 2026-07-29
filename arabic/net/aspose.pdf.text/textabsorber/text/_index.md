@@ -1,14 +1,14 @@
 ---
-title: TextAbsorber.Text
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextAbsorber. تحصل على النص المستخرج الذي يستخرجه TextAbsorber من مستند PDF أو صفحة
+title: "TextAbsorber.Text"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextAbsorber. تحصل على النص المستخرج الذي يقوم TextAbsorber باستخراجه من مستند PDF أو الصفحة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.text/textabsorber/text/
 ---
-## خاصية TextAbsorber.Text
+## TextAbsorber.Text property
 
-تحصل على النص المستخرج الذي يستخرجه [`TextAbsorber`](../) من مستند PDF أو صفحة.
+يحصل على النص المستخرج الذي يقوم [`TextAbsorber`](../) باستخراجه من مستند PDF أو الصفحة.
 
 ```csharp
 public virtual string Text { get; }
@@ -16,19 +16,19 @@ public virtual string Text { get; }
 
 ## أمثلة
 
-توضح المثال كيفية استخراج النص من جميع صفحات مستند PDF.
+يوضح المثال كيفية استخراج النص من جميع صفحات مستند PDF.
 
 ```csharp
-// open document
+// فتح المستند
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// إنشاء كائن TextAbsorber لاستخراج النص
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// قبول الـ absorber لجميع صفحات المستند
 doc.Pages.Accept(absorber);
 
-// get the extracted text
+// احصل على النص المستخرج
 string extractedText = absorber.Text;
 
 ```
@@ -38,3 +38,5 @@ string extractedText = absorber.Text;
 * class [TextAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

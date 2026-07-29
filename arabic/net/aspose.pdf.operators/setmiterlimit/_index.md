@@ -1,42 +1,44 @@
 ---
-title: Class SetMiterLimit
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.SetMiterLimit. فئة تمثل مشغل M لتعيين حد الميتر
+title: "الفئة SetMiterLimit"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Operators.SetMiterLimit. فئة تمثل عامل M لتعيين حد القطع."
 type: docs
-weight: 7780
+weight: 7920
 url: /ar/net/aspose.pdf.operators/setmiterlimit/
 ---
 ## SetMiterLimit class
 
-فئة تمثل مشغل M (تعيين حد الميتر).
+الفئة التي تمثل المشغل M (تعيين حد الميتر).
 
 ```csharp
 public class SetMiterLimit : Operator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [SetMiterLimit](setmiterlimit/)(double) | يقوم بتهيئة المشغل. |
+| [SetMiterLimit](setmiterlimit/)(double) | يُهيئ العامل. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
-| [MiterLimit](../../aspose.pdf.operators/setmiterlimit/miterlimit/) { get; set; } | يحصل أو يحدد حد الميتر. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
+| [MiterLimit](../../aspose.pdf.operators/setmiterlimit/miterlimit/) { get; set; } | يحصل أو يعيّن حد القطع. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setmiterlimit/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | يعيد نص المشغل ومعاييره. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/setmiterlimit/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | يرجع نص العامل ومعامِله. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TableAbsorber.Replace
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TableAbsorber. تستبدل AbsorbedTable بـ Table على الصفحة
+title: "TableAbsorber.Replace"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TableAbsorber. تستبدل AbsorbedTable بـ Table على الصفحة."
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.text/tableabsorber/replace/
 ---
-## طريقة TableAbsorber.Replace
+## TableAbsorber.Replace method
 
 تستبدل [`AbsorbedTable`](../../absorbedtable/) بـ [`Table`](../../../aspose.pdf/table/) على الصفحة.
 
@@ -14,15 +14,15 @@ url: /ar/net/aspose.pdf.text/tableabsorber/replace/
 public void Replace(Page page, AbsorbedTable oldTable, Table newTable)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | كائن صفحة مستند PDF. |
-| oldTable | AbsorbedTable | [`AbsorbedTable`](../../absorbedtable/) الذي سيتم استبداله. |
+| صفحة | صفحة | كائن صفحة مستند Pdf. |
+| oldTable | AbsorbedTable | [`AbsorbedTable`](../../absorbedtable/) للاستبدال. |
 | newTable | Table | [`Table`](../../../aspose.pdf/table/) لاستبدال الجدول القديم. |
 
 ## ملاحظات
 
-يرجى أخذ ذلك في الاعتبار أنه يغير مجموعة TableList. في حالة إزالة/استبدال الجداول في حلقة، يرجى استخدام نسخة من مجموعة TableList.
+يرجى مراعاة أنه يغيّر مجموعة TableList. في حالة إزالة/استبدال الجداول داخل حلقة يرجى استخدام نسخة من مجموعة TableList.
 
 ### انظر أيضًا
 
@@ -32,3 +32,5 @@ public void Replace(Page page, AbsorbedTable oldTable, Table newTable)
 * class [TableAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

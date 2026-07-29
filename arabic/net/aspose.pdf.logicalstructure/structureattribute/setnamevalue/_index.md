@@ -1,22 +1,22 @@
 ---
-title: StructureAttribute.SetNameValue
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة StructureAttribute. تعيين اسم القيمة
+title: "StructureAttribute.SetNameValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة StructureAttribute. تعيين اسم القيمة"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.logicalstructure/structureattribute/setnamevalue/
 ---
-## طريقة StructureAttribute.SetNameValue
+## StructureAttribute.SetNameValue method
 
-تعيين اسم القيمة.
+يضبط اسم القيمة.
 
 ```csharp
 public void SetNameValue(AttributeName name)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| name | AttributeName | اسم القيمة المسموح به. |
+| الاسم | AttributeName | اسم القيمة المسموح به. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public void SetNameValue(AttributeName name)
 * class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

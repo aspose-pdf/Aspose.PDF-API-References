@@ -1,14 +1,14 @@
 ---
-title: Position.XIndent
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Position. تحصل على إحداثي X للكائن
+title: "Position.XIndent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Position. يحصل على إحداثي X للكائن"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.text/position/xindent/
 ---
-## خاصية Position.XIndent
+## Position.XIndent property
 
-تحصل على إحداثي X للكائن
+يحصل على إحداثي X للكائن
 
 ```csharp
 public double XIndent { get; set; }
@@ -19,3 +19,5 @@ public double XIndent { get; set; }
 * class [Position](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection.OnOpenPage
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AnnotationActionCollection. تحصل أو تعين إجراءً يجب تنفيذه عند فتح الصفحة التي تحتوي على التعليق
+title: "AnnotationActionCollection.OnOpenPage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AnnotationActionCollection. يحصل أو يضبط إجراءً يتم تنفيذه عندما تُفتح الصفحة التي تحتوي على التعليق التوضيحي"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.annotations/annotationactioncollection/onopenpage/
 ---
-## خاصية AnnotationActionCollection.OnOpenPage
+## AnnotationActionCollection.OnOpenPage property
 
-تحصل أو تعين إجراءً يجب تنفيذه عند فتح الصفحة التي تحتوي على التعليق.
+يحصل أو يعيّن إجراءً يتم تنفيذه عندما تُفتح الصفحة التي تحتوي على التعليق.
 
 ```csharp
 public PdfAction OnOpenPage { get; set; }
@@ -20,3 +20,5 @@ public PdfAction OnOpenPage { get; set; }
 * class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

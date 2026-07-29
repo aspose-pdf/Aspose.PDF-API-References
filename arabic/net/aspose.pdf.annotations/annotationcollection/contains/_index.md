@@ -1,26 +1,26 @@
 ---
-title: AnnotationCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة AnnotationCollection. تتحقق مما إذا كانت التعليق المحدد ينتمي إلى المجموعة
+title: "AnnotationCollection.Contains"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة AnnotationCollection. يتحقق مما إذا كان الـ Annotation المحدد ينتمي إلى المجموعة"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.annotations/annotationcollection/contains/
 ---
-## طريقة AnnotationCollection.Contains
+## AnnotationCollection.Contains method
 
-تتحقق مما إذا كانت التعليق المحدد ينتمي إلى المجموعة.
+يتحقق مما إذا كان التعليق المحدد ينتمي إلى المجموعة.
 
 ```csharp
 public bool Contains(Annotation annotation)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| annotation | Annotation | التعليق الذي سيتم البحث عنه. |
+| annotation | Annotation | الـ Annotation المراد البحث عنه. |
 
 ### قيمة الإرجاع
 
-صحيح - إذا تم العثور على التعليق؛ خلاف ذلك، خطأ.
+صحيح - إذا تم العثور على الـ Annotation؛ وإلا، خطأ.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public bool Contains(Annotation annotation)
 * class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

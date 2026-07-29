@@ -1,14 +1,14 @@
 ---
-title: AssistantListQueryParameters.AssistantListQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ AssistantListQueryParameters. المُنشئ الافتراضي
+title: "AssistantListQueryParameters.AssistantListQueryParameters"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ AssistantListQueryParameters. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/assistantlistqueryparameters/assistantlistqueryparameters/
 ---
-## مُنشئ AssistantListQueryParameters
+## AssistantListQueryParameters constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public AssistantListQueryParameters()
@@ -19,3 +19,5 @@ public AssistantListQueryParameters()
 * class [AssistantListQueryParameters](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.LetterTransverse
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ورق عرضي بحجم 8.275 بوصة × 11 بوصة
+title: "PaperSizes.LetterTransverse"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ورق Letter عرضي 8.275 بوصة × 11 بوصة"
 type: docs
 weight: 710
 url: /ar/net/aspose.pdf.printing/papersizes/lettertransverse/
 ---
-## حقل PaperSizes.LetterTransverse
+## PaperSizes.LetterTransverse field
 
-ورق عرضي (8.275 بوصة × 11 بوصة).
+ورق رسالة عرضي (8.275 بوصة × 11 بوصة).
 
 ```csharp
 public static readonly PaperSize LetterTransverse;
@@ -20,3 +20,5 @@ public static readonly PaperSize LetterTransverse;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

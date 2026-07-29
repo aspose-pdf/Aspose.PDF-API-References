@@ -1,26 +1,26 @@
 ---
-title: AnnotationCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة AnnotationCollection. تحذف التعليق المحدد من المجموعة
+title: "AnnotationCollection.Remove"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة AnnotationCollection. تحذف annotation المحددة من المجموعة."
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.annotations/annotationcollection/remove/
 ---
-## طريقة AnnotationCollection.Remove
+## AnnotationCollection.Remove method
 
-تحذف التعليق المحدد من المجموعة.
+يحذف التعليق المحدد من المجموعة.
 
 ```csharp
 public bool Remove(Annotation annotation)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| annotation | Annotation | التعليق الذي سيتم حذفه. |
+| annotation | Annotation | Annotation التي سيتم حذفها. |
 
 ### قيمة الإرجاع
 
-True - إذا تم حذف التعليق؛ خلاف ذلك، false.
+True - إذا تم حذف annotation؛ وإلا، false.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ True - إذا تم حذف التعليق؛ خلاف ذلك، false.
 * class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

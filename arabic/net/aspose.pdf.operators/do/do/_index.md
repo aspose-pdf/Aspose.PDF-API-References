@@ -1,22 +1,22 @@
 ---
-title: Do.Do
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ دو. ينشئ مشغل دو جديد
+title: "Do.Do"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Do. يُنشئ مشغل Do جديد"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/do/do/
 ---
 ## Do(string) {#constructor_1}
 
-ينشئ مشغل دو جديد.
+ينشئ مشغل Do جديد.
 
 ```csharp
 public Do(string name)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم XObject المستدعى. |
+| الاسم | String | اسم XObject المستدعى. |
 
 ### انظر أيضًا
 
@@ -28,7 +28,7 @@ public Do(string name)
 
 ## Do() {#constructor}
 
-ينشئ مشغل دو جديد. يُستخدم لاسترجاع جميع مشغلات دو، أي بدون التحقق من أسماء معاييرها.
+ينشئ مشغل Do جديد. يُستخدم لاسترجاع جميع مشغلات Do، أي دون التحقق من أسماء وسائطهم.
 
 ```csharp
 public Do()
@@ -39,3 +39,5 @@ public Do()
 * class [Do](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

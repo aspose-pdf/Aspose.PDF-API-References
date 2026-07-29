@@ -1,12 +1,12 @@
 ---
-title: DestinationCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة مجموعة الوجهة.
+title: "DestinationCollection.CopyTo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة DestinationCollection."
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/destinationcollection/copyto/
 ---
-## طريقة DestinationCollection.CopyTo
+## DestinationCollection.CopyTo method
 
 ```csharp
 public void CopyTo(KeyValuePair<string, object>[] array, int arrayIndex)
@@ -17,3 +17,5 @@ public void CopyTo(KeyValuePair<string, object>[] array, int arrayIndex)
 * class [DestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

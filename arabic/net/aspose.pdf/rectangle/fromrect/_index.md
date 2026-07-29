@@ -1,28 +1,28 @@
 ---
-title: Rectangle.FromRect
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Rectangle. تقوم بتهيئة مستطيل جديد من مثيل معين من System.Drawing.Rectangle
+title: "Rectangle.FromRect"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Rectangle. تُنشئ مستطيلًا جديدًا من نسخة مُعطاة من System.Drawing.Rectangle"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/rectangle/fromrect/
 ---
 ## FromRect(Rectangle) {#fromrect}
 
-تهيئة مستطيل جديد من مثيل معين من System.Drawing.Rectangle.
+يُنشئ مستطيلًا جديدًا من نسخة معطاة من System.Drawing.Rectangle.
 
 ```csharp
 public static Rectangle FromRect(Rectangle src)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| src | Rectangle | المستطيل المصدر الذي سيتم تعيين موضعه وحجمه للمستطيل الجديد. |
+| src | Rectangle | المستطيل المصدر الذي سيتم تعيين موضعه وحجمه إلى المستطيل الجديد. |
 
-### Return Value
+### قيمة الإرجاع
 
 مستطيل جديد.
 
-### See Also
+### انظر أيضًا
 
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -32,22 +32,24 @@ public static Rectangle FromRect(Rectangle src)
 
 ## FromRect(RectangleF) {#fromrect_1}
 
-تهيئة مستطيل جديد من مثيل معين من System.Drawing.Rectangle.
+يُنشئ مستطيلًا جديدًا من نسخة معطاة من System.Drawing.Rectangle.
 
 ```csharp
 public static Rectangle FromRect(RectangleF src)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| src | RectangleF | المستطيل المصدر الذي سيتم تعيين موضعه وحجمه للمستطيل الجديد. |
+| src | RectangleF | المستطيل المصدر الذي سيتم تعيين موضعه وحجمه إلى المستطيل الجديد. |
 
-### Return Value
+### قيمة الإرجاع
 
 مستطيل جديد.
 
-### See Also
+### انظر أيضًا
 
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

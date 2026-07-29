@@ -1,14 +1,14 @@
 ---
-title: FitVExplicitDestination.Left
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FitVExplicitDestination. تحصل على الإحداثي الأفقي الأيسر الموجود عند الحافة اليسرى للنافذة
+title: "FitVExplicitDestination.Left"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FitVExplicitDestination. تحصل على الإحداثي الأفقي اليساري الموجود عند الحافة اليسرى للنافذة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/fitvexplicitdestination/left/
 ---
-## خاصية FitVExplicitDestination.Left
+## FitVExplicitDestination.Left property
 
-تحصل على الإحداثي الأفقي الأيسر الموجود عند الحافة اليسرى للنافذة.
+يحصل على الإحداثي الأفقي الأيسر الموجود على الحافة اليسرى للنافذة.
 
 ```csharp
 public double Left { get; }
@@ -19,3 +19,5 @@ public double Left { get; }
 * class [FitVExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

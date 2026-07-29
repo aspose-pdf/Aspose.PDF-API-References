@@ -1,39 +1,41 @@
 ---
-title: Class HeadingLevels
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfToMarkdown.HeadingLevels class. تمثل فئة للعمل مع مستويات العناوين بناءً على حجم الخط
+title: "الفئة HeadingLevels"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.PdfToMarkdown.HeadingLevels الفئة. تمثل فئة للعمل مع مستويات العناوين بناءً على حجم الخط"
 type: docs
 weight: 8440
 url: /ar/net/aspose.pdf.pdftomarkdown/headinglevels/
 ---
 ## HeadingLevels class
 
-تمثل فئة للعمل مع مستويات العناوين بناءً على حجم الخط.
+يمثل فئة للعمل مع مستويات العناوين بناءً على حجم الخط.
 
 ```csharp
 public class HeadingLevels
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [HeadingLevels](headinglevels/#constructor)() | ينشئ مثيلًا جديدًا من فئة HeadingLevels. |
-| [HeadingLevels](headinglevels/#constructor_1)(double) | ينشئ مثيلًا جديدًا من فئة HeadingLevels. |
+| [HeadingLevels](headinglevels/#constructor)() | ينشئ مثلاً جديداً من الفئة HeadingLevels. |
+| [HeadingLevels](headinglevels/#constructor_1)(double) | ينشئ مثلاً جديداً من الفئة HeadingLevels. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [AllLevels](../../aspose.pdf.pdftomarkdown/headinglevels/alllevels/) { get; } | يحصل على جميع مستويات العناوين. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [AddLevels](../../aspose.pdf.pdftomarkdown/headinglevels/addlevels/)(ICollection&lt;double&gt;) | يضيف مستويات العناوين. يجب أن تكون مجموعة حجم الخط مرتبة حسب الحجم المتناقص. |
+| [AddLevels](../../aspose.pdf.pdftomarkdown/headinglevels/addlevels/)(ICollection&lt;double&gt;) | يضيف مستويات العناوين. يجب أن تكون مجموعة أحجام الخط مرتبة تنازلياً. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.PdfToMarkdown](../../aspose.pdf.pdftomarkdown/)
 * assembly [Aspose.PDF](../../)
+
+

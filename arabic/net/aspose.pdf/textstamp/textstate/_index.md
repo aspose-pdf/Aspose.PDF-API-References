@@ -1,14 +1,14 @@
 ---
-title: TextStamp.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextStamp. تحصل على خصائص النص للختم. انظر TextState للتفاصيل
+title: "TextStamp.TextState"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextStamp. يحصل على خصائص النص للختم. راجع TextState للحصول على التفاصيل"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf/textstamp/textstate/
 ---
-## خاصية TextStamp.TextState
+## TextStamp.TextState property
 
-تحصل على خصائص النص للختم. انظر `TextState` للتفاصيل.
+يحصل على خصائص النص للختم. راجع `TextState` للحصول على التفاصيل.
 
 ```csharp
 public TextState TextState { get; }
@@ -20,3 +20,5 @@ public TextState TextState { get; }
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextDocument.Name
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextDocument. تحصل على أو تعين اسم مستند النص
+title: "TextDocument.Name"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextDocument. يحصل أو يضبط اسم مستند النص"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/textdocument/name/
 ---
-## خاصية TextDocument.Name
+## TextDocument.Name property
 
-تحصل على أو تعين اسم مستند النص.
+يحصل أو يعيّن اسم المستند النصي.
 
 ```csharp
 public string Name { get; set; }
@@ -19,3 +19,5 @@ public string Name { get; set; }
 * class [TextDocument](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

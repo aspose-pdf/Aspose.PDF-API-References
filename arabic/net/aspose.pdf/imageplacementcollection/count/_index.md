@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ImagePlacementCollection. تحصل على عدد عناصر كائن ImagePlacement الموجودة فعليًا في المجموعة
+title: "ImagePlacementCollection.Count"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ImagePlacementCollection. تُعيد عدد عناصر كائن ImagePlacement الموجودة فعليًا في المجموعة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/imageplacementcollection/count/
 ---
-## خاصية ImagePlacementCollection.Count
+## ImagePlacementCollection.Count property
 
-تحصل على عدد عناصر كائن [`ImagePlacement`](../../imageplacement/) الموجودة فعليًا في المجموعة.
+تُعيد عدد عناصر كائن [`ImagePlacement`](../../imageplacement/) الموجودة فعليًا في المجموعة.
 
 ```csharp
 public int Count { get; }
@@ -19,3 +19,5 @@ public int Count { get; }
 * class [ImagePlacementCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

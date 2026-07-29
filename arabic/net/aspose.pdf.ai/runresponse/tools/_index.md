@@ -1,14 +1,14 @@
 ---
-title: RunResponse.Tools
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunResponse. تحصل أو تضبط قائمة الأدوات التي استخدمها المساعد لهذه العملية
+title: "RunResponse.Tools"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RunResponse. تحصل أو تعين قائمة الأدوات التي استخدمها المساعد في هذا التنفيذ"
 type: docs
 weight: 240
 url: /ar/net/aspose.pdf.ai/runresponse/tools/
 ---
-## خاصية RunResponse.Tools
+## RunResponse.Tools property
 
-تحصل أو تضبط قائمة الأدوات التي استخدمها المساعد لهذه العملية.
+يحصل أو يعيّن قائمة الأدوات التي استخدمها المساعد لهذا التشغيل.
 
 ```csharp
 public List<Tool> Tools { get; set; }
@@ -20,3 +20,5 @@ public List<Tool> Tools { get; set; }
 * class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

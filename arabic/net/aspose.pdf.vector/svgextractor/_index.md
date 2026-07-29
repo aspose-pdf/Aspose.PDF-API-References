@@ -1,38 +1,40 @@
 ---
-title: Class SvgExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Vector.SvgExtractor. تمثل فئة لاستخراج صور SVG من الصفحة
+title: "الفئة SvgExtractor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Vector.SvgExtractor. تمثل فئة لاستخراج صور SVG من الصفحة."
 type: docs
-weight: 11250
+weight: 11440
 url: /ar/net/aspose.pdf.vector/svgextractor/
 ---
 ## SvgExtractor class
 
-تمثل فئة لاستخراج صور SVG من الصفحة.
+يمثل فئة لاستخراج صور SVG من الصفحة.
 
 ```csharp
 public class SvgExtractor
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [SvgExtractor](svgextractor/#constructor)() | تمثل فئة لاستخراج صور SVG من الصفحة. |
-| [SvgExtractor](svgextractor/#constructor_1)(SvgExtractionOptions) | تمثل فئة لاستخراج صور SVG من الصفحة. |
+| [SvgExtractor](svgextractor/#constructor)() | تمثل فئة لاستخراج صور SVG من صفحة. |
+| [SvgExtractor](svgextractor/#constructor_1)(SvgExtractionOptions) | تمثل فئة لاستخراج صور SVG من صفحة. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Extract](../../aspose.pdf.vector/svgextractor/extract/#extract)(Page) | يستخرج صور Svg من الصفحة إلى سلاسل نصية. |
-| [Extract](../../aspose.pdf.vector/svgextractor/extract/#extract_2)(IEnumerable&lt;GraphicElement&gt;, Page) | يستخرج العناصر الرسومية إلى سلسلة SVG. الخيارات غير مؤخذة في الاعتبار - التجميع، الاستخراج من المستطيل |
-| [Extract](../../aspose.pdf.vector/svgextractor/extract/#extract_3)(Page, string) | يستخرج صور Svg من الصفحة إلى ملفات. |
-| [Extract](../../aspose.pdf.vector/svgextractor/extract/#extract_1)(GraphicsAbsorber, Predicate&lt;GraphicElement&gt;, Page) | يستخرج صورة svg إلى سلسلة من العناصر الرسومية الممثلة بواسطة !:absorber مع فلتر شرط. |
-| [Extract](../../aspose.pdf.vector/svgextractor/extract/#extract_5)(IEnumerable&lt;GraphicElement&gt;, Page, string) | يستخرج العناصر الرسومية إلى ملف SVG واحد. الخيارات غير مؤخذة في الاعتبار - التجميع، الاستخراج من المستطيل |
-| [Extract](../../aspose.pdf.vector/svgextractor/extract/#extract_4)(GraphicsAbsorber, Predicate&lt;GraphicElement&gt;, Page, string) | يستخرج صورة svg إلى ملف من العناصر الرسومية الممثلة بواسطة !:absorber مع فلتر شرط. |
+| [Extract](../../aspose.pdf.vector/svgextractor/extract/#extract)(Page) | يستخرج صور Svg من صفحة إلى سلاسل نصية. |
+| [Extract](../../aspose.pdf.vector/svgextractor/extract/#extract_2)(IEnumerable&lt;GraphicElement&gt;, Page) | يستخرج العناصر الرسومية إلى سلسلة SVG. تم تجاهل الخيارات - التجميع، الاستخراج من المستطيل. |
+| [Extract](../../aspose.pdf.vector/svgextractor/extract/#extract_3)(Page, string) | يستخرج صور Svg من صفحة إلى ملفات. |
+| [Extract](../../aspose.pdf.vector/svgextractor/extract/#extract_1)(GraphicsAbsorber, Predicate&lt;GraphicElement&gt;, Page) | يستخرج صورة svg إلى سلسلة من العناصر الرسومية التي تمثلها !:absorber مع مرشح شرط. |
+| [Extract](../../aspose.pdf.vector/svgextractor/extract/#extract_5)(IEnumerable&lt;GraphicElement&gt;, Page, string) | يستخرج العناصر الرسومية إلى ملف SVG واحد. تم تجاهل الخيارات - التجميع، الاستخراج من المستطيل. |
+| [Extract](../../aspose.pdf.vector/svgextractor/extract/#extract_4)(GraphicsAbsorber, Predicate&lt;GraphicElement&gt;, Page, string) | يستخرج صورة svg إلى ملف من العناصر الرسومية التي تمثلها !:absorber مع مرشح شرط. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Vector](../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../)
+
+

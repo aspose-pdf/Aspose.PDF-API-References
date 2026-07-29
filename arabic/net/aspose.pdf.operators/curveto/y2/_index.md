@@ -1,14 +1,14 @@
 ---
-title: CurveTo.Y2
-second_title: Aspose.PDF for .NET API Reference
-description: حقل CurveTo. يحصل على أو يحدد إحداثي Y2
+title: "CurveTo.Y2"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل CurveTo. يحصل على أو يضبط إحداثي Y2"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.operators/curveto/y2/
 ---
-## حقل CurveTo.Y2
+## CurveTo.Y2 field
 
-يحصل على أو يحدد إحداثي Y2.
+يحصل أو يعيّن إحداثي Y2.
 
 ```csharp
 public double Y2;
@@ -19,3 +19,5 @@ public double Y2;
 * class [CurveTo](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

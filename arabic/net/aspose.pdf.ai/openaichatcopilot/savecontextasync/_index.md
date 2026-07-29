@@ -1,12 +1,12 @@
 ---
-title: OpenAIChatCopilot.SaveContextAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIChatCopilot.
+title: "OpenAIChatCopilot.SaveContextAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIChatCopilot."
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.ai/openaichatcopilot/savecontextasync/
 ---
-## طريقة OpenAIChatCopilot.SaveContextAsync
+## OpenAIChatCopilot.SaveContextAsync method
 
 ```csharp
 public Task SaveContextAsync(string jsonFilePath, CancellationToken? cancellationToken)
@@ -17,3 +17,5 @@ public Task SaveContextAsync(string jsonFilePath, CancellationToken? cancellatio
 * class [OpenAIChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: FormDataConverter.ExportFromDataBase
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormDataConverter. تصدير البيانات من قاعدة البيانات إلى الجدول
+title: "FormDataConverter.ExportFromDataBase"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FormDataConverter. تصدر البيانات من قاعدة البيانات إلى الجدول"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.facades/formdataconverter/exportfromdatabase/
 ---
-## طريقة FormDataConverter.ExportFromDataBase
+## FormDataConverter.ExportFromDataBase method
 
-تصدير البيانات من قاعدة البيانات إلى الجدول.
+تصدير البيانات من قاعدة البيانات إلى جدول.
 
 ```csharp
 public void ExportFromDataBase(string connectString, DataType dbType)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| connectString | String | سلسلة الاتصال بقاعدة البيانات. |
+| connectString | String | سلسلة الاتصال لقاعدة البيانات. |
 | dbType | DataType | نوع الاتصال: OLEDB أو ODBC. |
 
 ## أمثلة
@@ -38,3 +38,5 @@ fc.ExportFromDataBase(connection, DataType.OLEDB);
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

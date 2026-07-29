@@ -1,26 +1,28 @@
 ---
-title: Graph.Graph
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ الرسم البياني. يقوم بتهيئة مثيل جديد من فئة الرسم البياني
+title: "Graph.Graph"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Graph. يهيئ نسخة جديدة من الفئة Graph"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.drawing/graph/graph/
 ---
-## مُنشئ الرسم البياني
+## Graph constructor
 
-يقوم بتهيئة مثيل جديد من فئة [`Graph`](../).
+يهيئ نسخة جديدة من الفئة [`Graph`](../).
 
 ```csharp
 public Graph(double width, double height)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| width | Double | عرض الرسم البياني. |
-| height | Double | ارتفاع الرسم البياني. |
+| العرض | Double | عرض الرسم البياني. |
+| الارتفاع | Double | ارتفاع الرسم البياني. |
 
 ### انظر أيضًا
 
-* فئة [Graph](../)
-* مساحة الأسماء [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* التجميع [Aspose.PDF](../../../)
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

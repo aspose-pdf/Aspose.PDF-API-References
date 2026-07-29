@@ -1,14 +1,14 @@
 ---
-title: Document.Duplex
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. يحصل أو يحدد خيار معالجة وضع الطباعة المزدوجة للاستخدام عند طباعة الملف من مربع حوار الطباعة
+title: "Document.Duplex"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. يحصل على أو يضبط خيار معالجة وضع الطباعة المزدوج لاستخدامه عند طباعة الملف من مربع حوار الطباعة"
 type: docs
-weight: 130
+weight: 140
 url: /ar/net/aspose.pdf/document/duplex/
 ---
-## خاصية Document.Duplex
+## Document.Duplex property
 
-يحصل أو يحدد خيار معالجة وضع الطباعة المزدوجة للاستخدام عند طباعة الملف من مربع حوار الطباعة.
+يحصل أو يعيّن خيار معالجة وضع الطباعة المزدوج لاستخدامه عند طباعة الملف من مربع حوار الطباعة.
 
 ```csharp
 public PrintDuplex Duplex { get; set; }
@@ -20,3 +20,5 @@ public PrintDuplex Duplex { get; set; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

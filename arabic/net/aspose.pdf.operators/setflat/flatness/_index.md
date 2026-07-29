@@ -1,14 +1,14 @@
 ---
-title: SetFlat.Flatness
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SetFlat. تحصل أو تعين المسطحية
+title: "SetFlat.Flatness"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SetFlat. تحصل أو تعيّن قيمة السطحية"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/setflat/flatness/
 ---
-## خاصية SetFlat.Flatness
+## SetFlat.Flatness property
 
-تحصل أو تعين المسطحية.
+يحصل أو يعيّن الاستواء.
 
 ```csharp
 public double Flatness { get; set; }
@@ -19,3 +19,5 @@ public double Flatness { get; set; }
 * class [SetFlat](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

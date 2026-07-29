@@ -1,14 +1,14 @@
 ---
-title: Color.Salmon
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على لون معرف من النظام له قيمة ARGB تساوي c FFFA8072
+title: "Color.Salmon"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. يسترجع لونًا معرفًا بالنظام له قيمة ARGB بقيمة c FFFA8072"
 type: docs
 weight: 1190
 url: /ar/net/aspose.pdf/color/salmon/
 ---
-## خاصية لون.سلمون
+## Color.Salmon property
 
-تحصل على لون معرف من النظام له قيمة ARGB تساوي \c \#FFFA8072.
+يسترجع لونًا معرفًا من النظام له قيمة ARGB \c \#FFFA8072.
 
 ```csharp
 public static Color Salmon { get; }
@@ -16,10 +16,12 @@ public static Color Salmon { get; }
 
 ### قيمة الإرجاع
 
-يمثل لونًا معرفًا من النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

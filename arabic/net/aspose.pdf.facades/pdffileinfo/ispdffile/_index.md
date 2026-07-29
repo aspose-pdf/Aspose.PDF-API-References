@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.IsPdfFile
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileInfo. تتحقق مما إذا كانت المدخلات المصدر ملف PDF صالح
+title: "PdfFileInfo.IsPdfFile"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileInfo. تتحقق مما إذا كان الإدخال المصدر ملف PDF صالح"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.facades/pdffileinfo/ispdffile/
 ---
-## خاصية PdfFileInfo.IsPdfFile
+## PdfFileInfo.IsPdfFile property
 
-تتحقق مما إذا كانت المدخلات المصدر ملف PDF صالح.
+Checkes whether the source input is a valid PDF file.
 
 ```csharp
 public bool IsPdfFile { get; }
@@ -19,3 +19,5 @@ public bool IsPdfFile { get; }
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

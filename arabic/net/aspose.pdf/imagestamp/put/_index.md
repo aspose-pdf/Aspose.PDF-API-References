@@ -1,22 +1,22 @@
 ---
-title: ImageStamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ImageStamp. تضيف ختمًا رسوميًا على الصفحة
+title: "ImageStamp.Put"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ImageStamp. تضيف ختمًا رسوميًا على الصفحة"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/imagestamp/put/
 ---
-## طريقة ImageStamp.Put
+## ImageStamp.Put method
 
-تضيف ختمًا رسوميًا على الصفحة.
+إضافة ختم رسومي إلى الصفحة.
 
 ```csharp
 public override void Put(Page page)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الصفحة | Page | الصفحة للتختم. |
+| صفحة | صفحة | صفحة للختم. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public override void Put(Page page)
 * class [ImageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

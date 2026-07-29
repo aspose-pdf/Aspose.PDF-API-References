@@ -1,14 +1,14 @@
 ---
-title: PositionSettings.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PositionSettings. تحصل أو تعين هامش خارجي للفقرة
+title: "PositionSettings.Margin"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PositionSettings. تحصل أو تعين هامشًا خارجيًا للفقرة"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.tagged/positionsettings/margin/
 ---
-## خاصية PositionSettings.Margin
+## PositionSettings.Margin property
 
-تحصل أو تعين هامش خارجي للفقرة.
+يحصل أو يضبط هامشًا خارجيًا للفقرة.
 
 ```csharp
 public MarginInfo Margin { get; set; }
@@ -20,3 +20,5 @@ public MarginInfo Margin { get; set; }
 * class [PositionSettings](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

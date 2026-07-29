@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.FormPresentationMode
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfViewer. تحصل أو تعين وضع تقديم النموذج
+title: "PdfViewer.FormPresentationMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfViewer. تحصل أو تعين وضع عرض النموذج"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.facades/pdfviewer/formpresentationmode/
 ---
-## خاصية PdfViewer.FormPresentationMode
+## PdfViewer.FormPresentationMode property
 
-تحصل أو تعين وضع تقديم النموذج.
+يحصل أو يعيّن وضع عرض النموذج.
 
 ```csharp
 public FormPresentationMode FormPresentationMode { get; set; }
@@ -20,3 +20,5 @@ public FormPresentationMode FormPresentationMode { get; set; }
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

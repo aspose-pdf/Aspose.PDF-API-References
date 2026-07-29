@@ -1,14 +1,14 @@
 ---
-title: Form.FlattenSettings.ApplyRedactions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FlattenSettings. إذا كانت صحيحة، سيتم تطبيق التعليق التوضيحي للتعتيم المحدد
+title: "Form.FlattenSettings.ApplyRedactions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FlattenSettings. إذا كان true، سيتم تطبيق التعليق التوضيحي Redtion المحدد"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.forms/form.flattensettings/applyredactions/
 ---
-## خاصية Form.FlattenSettings.ApplyRedactions
+## Form.FlattenSettings.ApplyRedactions property
 
-إذا كانت صحيحة، سيتم تطبيق التعليق التوضيحي للتعتيم المحدد
+إذا كان صحيحًا، سيتم تطبيق التعليق التوضيحي للتمويه المحدد
 
 ```csharp
 public bool ApplyRedactions { get; set; }
@@ -19,3 +19,5 @@ public bool ApplyRedactions { get; set; }
 * class [FlattenSettings](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

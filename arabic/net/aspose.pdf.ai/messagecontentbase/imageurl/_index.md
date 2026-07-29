@@ -1,14 +1,14 @@
 ---
-title: MessageContentBase.ImageUrl
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MessageContentBase. تحصل أو تعين عنوان URL لصورة في محتوى رسالة
+title: "MessageContentBase.ImageUrl"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MessageContentBase. يحصل على أو يعيّن عنوان URL للصورة في محتوى الرسالة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/messagecontentbase/imageurl/
 ---
-## خاصية MessageContentBase.ImageUrl
+## MessageContentBase.ImageUrl property
 
-تحصل أو تعين عنوان URL لصورة في محتوى رسالة.
+يحصل أو يعيّن عنوان URL للصورة في محتوى الرسالة.
 
 ```csharp
 public ImageUrl ImageUrl { get; set; }
@@ -20,3 +20,5 @@ public ImageUrl ImageUrl { get; set; }
 * class [MessageContentBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

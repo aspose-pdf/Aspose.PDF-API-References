@@ -1,20 +1,20 @@
 ---
-title: TextProperties.TextProperties
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TextProperties. ينشئ كائن TextProperties لحجم النص المحدد
+title: "TextProperties.TextProperties"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TextProperties. ينشئ كائن TextProperties للحجم النص المحدد"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.facades/textproperties/textproperties/
 ---
-## مُنشئ TextProperties
+## TextProperties constructor
 
-ينشئ [`TextProperties`](../) كائن لحجم النص المحدد
+ينشئ كائن [`TextProperties`](../) للحجم النص المحدد
 
 ```csharp
 public TextProperties(double textSize)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | textSize | Double | قيمة حجم النص. |
 
@@ -23,3 +23,5 @@ public TextProperties(double textSize)
 * class [TextProperties](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

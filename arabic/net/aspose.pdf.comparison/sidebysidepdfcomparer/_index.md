@@ -1,9 +1,9 @@
 ---
-title: Class SideBySidePdfComparer
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Comparison.SideBySidePdfComparer.
+title: "الفئة SideBySidePdfComparer"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Comparison.SideBySidePdfComparer."
 type: docs
-weight: 3300
+weight: 3410
 url: /ar/net/aspose.pdf.comparison/sidebysidepdfcomparer/
 ---
 ## SideBySidePdfComparer class
@@ -12,14 +12,16 @@ url: /ar/net/aspose.pdf.comparison/sidebysidepdfcomparer/
 public static class SideBySidePdfComparer
 ```
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| static [Compare](../../aspose.pdf.comparison/sidebysidepdfcomparer/compare/#compare)(Document, Document, string, SideBySideComparisonOptions) | يقارن بين مستندين. تتم مقارنة الصفحات واحدة تلو الأخرى. يتم نسخ صفحات المستندات المقارنة واحدة تلو الأخرى إلى المستند الناتج. أولاً الصفحة الأولى من المستند الأول، ثم الصفحة الأولى من المستند الثاني. بعد ذلك الصفحة الثانية من المستند الأول ثم الصفحة الثانية من المستند الثاني، وهكذا. يمكنك فتحه في Adobe Acrobat في عرض الصفحتين لرؤية التغييرات جنبًا إلى جنب. يتم ملاحظة الحذف على الصفحة الموجودة على اليسار، ويتم ملاحظة الإدخالات على الصفحة الموجودة على اليمين. |
-| static [Compare](../../aspose.pdf.comparison/sidebysidepdfcomparer/compare/#compare_1)(Page, Page, string, SideBySideComparisonOptions) | يقارن بين صفحتين. يتم حفظ النتيجة في مستند PDF حيث يتم كتابة الصفحة الأولى أولاً، ثم الثانية. يمكنك فتحه في Adobe Acrobat في عرض الصفحتين لرؤية التغييرات جنبًا إلى جنب. يتم ملاحظة الحذف على الصفحة الموجودة على اليسار، ويتم ملاحظة الإدخالات على الصفحة الموجودة على اليمين. |
+| static [Compare](../../aspose.pdf.comparison/sidebysidepdfcomparer/compare/#compare)(Document, Document, string, SideBySideComparisonOptions) | يقارن مستندين. يتم مقارنة الصفحات واحدة تلو الأخرى. تُنسخ صفحات المستندات المقارنة واحدةً تلو الأخرى إلى المستند الناتج. أولاً الصفحة الأولى من المستند الأول، ثم الصفحة الأولى من المستند الثاني. ثم الصفحة الثانية من المستند الأول ثم الصفحة الثانية من المستند الثاني، وهكذا. يمكنك فتحه في Adobe Acrobat في وضع العرض ذو الصفحتين لرؤية التغييرات جنبًا إلى جنب. تُلاحظ الحذفات على الصفحة اليسرى، وتُلاحظ الإضافات على الصفحة اليمنى. |
+| static [Compare](../../aspose.pdf.comparison/sidebysidepdfcomparer/compare/#compare_1)(Page, Page, string, SideBySideComparisonOptions) | يقارن صفحتين. يُحفظ النتيجة في مستند PDF تُكتب فيه الصفحة الأولى أولاً، ثم الثانية. يمكنك فتحه في Adobe Acrobat في وضع العرض ذو الصفحتين لرؤية التغييرات جنبًا إلى جنب. تُلاحظ الحذفات على الصفحة اليسرى، وتُلاحظ الإضافات على الصفحة اليمنى. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TextStamp.TextAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextStamp. محاذاة النص داخل الختم
+title: "TextStamp.TextAlignment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextStamp. محاذاة النص داخل الختم"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf/textstamp/textalignment/
 ---
-## خاصية TextStamp.TextAlignment
+## TextStamp.TextAlignment property
 
 محاذاة النص داخل الختم.
 
@@ -20,3 +20,5 @@ public HorizontalAlignment TextAlignment { get; set; }
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

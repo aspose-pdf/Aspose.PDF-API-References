@@ -1,14 +1,14 @@
 ---
-title: Heading.Style
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية العنوان. تحصل أو تعين النمط
+title: "Heading.Style"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Heading. تحصل أو تحدد النمط"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/heading/style/
 ---
-## خاصية Heading.Style
+## Heading.Style property
 
-تحصل أو تعين النمط.
+يحصل أو يضبط النمط.
 
 ```csharp
 public NumberingStyle Style { get; set; }
@@ -20,3 +20,5 @@ public NumberingStyle Style { get; set; }
 * class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

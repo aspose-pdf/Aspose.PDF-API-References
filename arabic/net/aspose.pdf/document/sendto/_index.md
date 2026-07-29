@@ -1,25 +1,25 @@
 ---
-title: Document.SendTo
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الوثيقة. ترسل الوثيقة بالكامل إلى جهاز الوثيقة للمعالجة
+title: "Document.SendTo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Document. يرسل المستند بالكامل إلى جهاز المستند للمعالجة"
 type: docs
-weight: 860
+weight: 880
 url: /ar/net/aspose.pdf/document/sendto/
 ---
 ## SendTo(DocumentDevice, Stream) {#sendto_2}
 
-ترسل الوثيقة بالكامل إلى جهاز الوثيقة للمعالجة.
+يرسل المستند بالكامل إلى جهاز المستند للمعالجة.
 
 ```csharp
 public void SendTo(DocumentDevice device, Stream output)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| device | DocumentDevice | جهاز الوثيقة الذي يستخدم لمعالجة الوثيقة. |
-| output | Stream | تدفق الإخراج يحتوي على نتائج معالجة الوثيقة مع الجهاز المعطى. |
+| الجهاز | DocumentDevice | جهاز Document الذي يُستخدم لمعالجة المستند. |
+| الإخراج | Stream | تحتوي تدفق الإخراج على نتائج معالجة المستند باستخدام الجهاز المحدد. |
 
-### See Also
+### انظر أيضًا
 
 * class [DocumentDevice](../../../aspose.pdf.devices/documentdevice/)
 * class [Document](../)
@@ -30,20 +30,20 @@ public void SendTo(DocumentDevice device, Stream output)
 
 ## SendTo(DocumentDevice, int, int, Stream) {#sendto}
 
-ترسل صفحات معينة من الوثيقة إلى جهاز الوثيقة للمعالجة.
+يرسل صفحات معينة من المستند إلى جهاز المستند للمعالجة.
 
 ```csharp
 public void SendTo(DocumentDevice device, int fromPage, int toPage, Stream output)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| device | DocumentDevice | جهاز الوثيقة الذي يستخدم لمعالجة الوثيقة. |
+| الجهاز | DocumentDevice | جهاز Document الذي يُستخدم لمعالجة المستند. |
 | fromPage | Int32 | الصفحة الأولى للمعالجة. |
 | toPage | Int32 | الصفحة الأخيرة للمعالجة. |
-| output | Stream | تدفق الإخراج يحتوي على نتائج معالجة صفحات الوثيقة مع الجهاز المعطى. |
+| الإخراج | Stream | تحتوي تدفق الإخراج على نتائج معالجة صفحات المستند باستخدام الجهاز المحدد. |
 
-### See Also
+### انظر أيضًا
 
 * class [DocumentDevice](../../../aspose.pdf.devices/documentdevice/)
 * class [Document](../)
@@ -54,18 +54,18 @@ public void SendTo(DocumentDevice device, int fromPage, int toPage, Stream outpu
 
 ## SendTo(DocumentDevice, string) {#sendto_3}
 
-ترسل الوثيقة بالكامل إلى جهاز الوثيقة للمعالجة.
+يرسل المستند بالكامل إلى جهاز المستند للمعالجة.
 
 ```csharp
 public void SendTo(DocumentDevice device, string outputFileName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| device | DocumentDevice | جهاز الوثيقة الذي يستخدم لمعالجة الوثيقة. |
+| الجهاز | DocumentDevice | جهاز Document الذي يُستخدم لمعالجة المستند. |
 | outputFileName | String | اسم ملف الإخراج مع نتائج المعالجة. |
 
-### See Also
+### انظر أيضًا
 
 * class [DocumentDevice](../../../aspose.pdf.devices/documentdevice/)
 * class [Document](../)
@@ -76,22 +76,24 @@ public void SendTo(DocumentDevice device, string outputFileName)
 
 ## SendTo(DocumentDevice, int, int, string) {#sendto_1}
 
-ترسل الوثيقة بالكامل إلى جهاز الوثيقة للمعالجة.
+يرسل المستند بالكامل إلى جهاز المستند للمعالجة.
 
 ```csharp
 public void SendTo(DocumentDevice device, int fromPage, int toPage, string outputFileName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| device | DocumentDevice | جهاز الوثيقة الذي يستخدم لمعالجة الوثيقة. |
+| الجهاز | DocumentDevice | جهاز Document الذي يُستخدم لمعالجة المستند. |
 | fromPage | Int32 | الصفحة الأولى للمعالجة. |
 | toPage | Int32 | الصفحة الأخيرة للمعالجة. |
 | outputFileName | String | اسم ملف الإخراج مع نتائج المعالجة. |
 
-### See Also
+### انظر أيضًا
 
 * class [DocumentDevice](../../../aspose.pdf.devices/documentdevice/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.IgnoreResourceFontErrors
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية HtmlSaveOptions. تحصل أو تعين الإشارة إلى أنه سيتم تجاهل الأخطاء المتعلقة بغياب الخط. true تعني أنه سيتم تجاهل أخطاء غياب الخط. سيتم تخطي مقاطع النص التي تشير إلى موارد غير صحيحة أثناء المعالجة. false بشكل افتراضي
+title: "HtmlSaveOptions.IgnoreResourceFontErrors"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية HtmlSaveOptions. يحصل أو يضبط إشارة إلى أن الأخطاء المتعلقة بغياب الخط سيتم تجاهلها. true يعني أن أخطاء غياب الخط سيتم تجاهلها. سيتم تخطي مقاطع النص التي تشير إلى موارد غير صحيحة أثناء المعالجة. false بشكل افتراضي"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf/htmlsaveoptions/ignoreresourcefonterrors/
 ---
-## خاصية HtmlSaveOptions.IgnoreResourceFontErrors
+## HtmlSaveOptions.IgnoreResourceFontErrors property
 
-تحصل أو تعين الإشارة إلى أنه سيتم تجاهل الأخطاء المتعلقة بغياب الخط. true - تعني أنه سيتم تجاهل أخطاء غياب الخط. سيتم تخطي مقاطع النص التي تشير إلى موارد غير صحيحة أثناء المعالجة. false بشكل افتراضي
+يحصل أو يضبط إشارة إلى أن الأخطاء المتعلقة بغياب الخط سيتم تجاهلها. true - يعني أن أخطاء غياب الخط سيتم تجاهلها. سيتم تخطي مقاطع النص التي تشير إلى موارد غير صحيحة أثناء المعالجة. false بشكل افتراضي
 
 ```csharp
 public bool IgnoreResourceFontErrors { get; set; }
@@ -19,3 +19,5 @@ public bool IgnoreResourceFontErrors { get; set; }
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

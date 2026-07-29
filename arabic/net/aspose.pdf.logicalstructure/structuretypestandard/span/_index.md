@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Span
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeStandard. Span جزء عام من النص غير محدد الخصائص. يمكن استخدامه، على سبيل المثال، لتحديد نطاق من النص مع مجموعة معينة من سمات التنسيق
+title: "StructureTypeStandard.Span"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل StructureTypeStandard. Span جزء نصي عام مضمن لا يمتلك خصائص جوهرية معينة. يمكن استخدامه على سبيل المثال لتحديد نطاق من النص مع مجموعة معينة من سمات التنسيق."
 type: docs
 weight: 370
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/span/
 ---
-## حقل StructureTypeStandard.Span
+## StructureTypeStandard.Span field
 
-(Span) جزء عام من النص غير محدد الخصائص. يمكن استخدامه، على سبيل المثال، لتحديد نطاق من النص مع مجموعة معينة من سمات التنسيق.
+(مقطع) جزء نصي مضمن عام لا يمتلك خصائص جوهرية معينة. يمكن استخدامه، على سبيل المثال، لتحديد نطاق نص مع مجموعة معينة من سمات التنسيق.
 
 ```csharp
 public static readonly StructureTypeStandard Span;
@@ -19,3 +19,5 @@ public static readonly StructureTypeStandard Span;
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

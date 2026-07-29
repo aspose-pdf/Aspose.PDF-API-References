@@ -1,14 +1,14 @@
 ---
-title: CircleAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CircleAnnotation. تحصل على نوع التعليق
+title: "CircleAnnotation.AnnotationType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CircleAnnotation. يحصل على نوع التعليق التوضيحي"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/circleannotation/annotationtype/
 ---
-## خاصية CircleAnnotation.AnnotationType
+## CircleAnnotation.AnnotationType property
 
-تحصل على نوع التعليق.
+الحصول على نوع التعليقة.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [CircleAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: Margins.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الهوامش. تحصل أو تعين الجزء السفلي
+title: "Margins.Bottom"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Margins. تحصل أو تعيين الأسفل"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.devices/margins/bottom/
 ---
-## خاصية Margins.Bottom
+## Margins.Bottom property
 
-تحصل أو تعين الجزء السفلي.
+يحصل أو يعيّن الجزء السفلي.
 
 ```csharp
 public int Bottom { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-الجزء السفلي.
+الأسفل.
 
 ### انظر أيضًا
 
 * class [Margins](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

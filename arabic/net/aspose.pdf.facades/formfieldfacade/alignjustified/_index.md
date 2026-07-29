@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.AlignJustified
-second_title: Aspose.PDF for .NET API Reference
-description: حقل FormFieldFacade. يحدد نمط محاذاة تبرير النص
+title: "FormFieldFacade.AlignJustified"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FormFieldFacade حقل. يحدد نمط محاذاة تبرير النص"
 type: docs
 weight: 230
 url: /ar/net/aspose.pdf.facades/formfieldfacade/alignjustified/
 ---
-## حقل FormFieldFacade.AlignJustified
+## FormFieldFacade.AlignJustified field
 
 يحدد نمط محاذاة تبرير النص.
 
@@ -19,3 +19,5 @@ public const int AlignJustified;
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

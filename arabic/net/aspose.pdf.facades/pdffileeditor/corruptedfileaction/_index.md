@@ -1,12 +1,12 @@
 ---
-title: PdfFileEditor.CorruptedFileAction
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileEditor. تحدد هذه الخاصية السلوك عند مواجهة ملف تالف أثناء عملية الدمج. القيم الممكنة هي StopWithError و ConcatenateIgnoringCorrupted
+title: "PdfFileEditor.CorruptedFileAction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileEditor. تُحدد هذه الخاصية السلوك عندما تواجه عملية الدمج ملفًا تالفًا. القيم الممكنة هي StopWithError و ConcatenateIgnoringCorrupted"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.facades/pdffileeditor/corruptedfileaction/
 ---
-## خاصية PdfFileEditor.CorruptedFileAction
+## PdfFileEditor.CorruptedFileAction property
 
 تحدد هذه الخاصية السلوك عند مواجهة ملف تالف أثناء عملية الدمج. القيم الممكنة هي: StopWithError و ConcatenateIgnoringCorrupted.
 
@@ -20,3 +20,5 @@ public ConcatenateCorruptedFileAction CorruptedFileAction { get; set; }
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

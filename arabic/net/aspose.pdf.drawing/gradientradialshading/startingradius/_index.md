@@ -1,14 +1,14 @@
 ---
-title: GradientRadialShading.StartingRadius
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية GradientRadialShading. تحصل أو تعين نصف قطر الدائرة الابتدائية
+title: "GradientRadialShading.StartingRadius"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية GradientRadialShading. يحصل أو يحدد نصف قطر الدائرة الابتدائية"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.drawing/gradientradialshading/startingradius/
 ---
-## خاصية GradientRadialShading.StartingRadius
+## GradientRadialShading.StartingRadius property
 
-تحصل أو تعين نصف قطر الدائرة الابتدائية.
+يحصل أو يضبط نصف قطر الدائرة الابتدائية.
 
 ```csharp
 public double StartingRadius { get; set; }
@@ -19,3 +19,5 @@ public double StartingRadius { get; set; }
 * class [GradientRadialShading](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

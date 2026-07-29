@@ -1,14 +1,14 @@
 ---
-title: Color.Azure
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على لون معرف من النظام له قيمة ARGB تساوي c FFF0FFFF
+title: "Color.Azure"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. يحصل على لون معرف بالنظام له قيمة ARGB هي c FFF0FFFF"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/color/azure/
 ---
-## خاصية Color.Azure
+## Color.Azure property
 
-تحصل على لون معرف من النظام له قيمة ARGB تساوي \c \#FFF0FFFF.
+يحصل على لون معرف من النظام له قيمة ARGB \c \#FFF0FFFF.
 
 ```csharp
 public static Color Azure { get; }
@@ -16,10 +16,12 @@ public static Color Azure { get; }
 
 ### قيمة الإرجاع
 
-يمثل لونًا معرفًا من النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

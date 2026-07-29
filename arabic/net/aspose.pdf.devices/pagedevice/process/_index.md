@@ -1,25 +1,25 @@
 ---
-title: PageDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PageDevice. تقوم بإجراء بعض العمليات على الصفحة المعطاة، مثل تحويل الصفحة إلى صورة رسومية
+title: "PageDevice.Process"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PageDevice. تنفذ بعض العمليات على الصفحة المعطاة مثل تحويل الصفحة إلى صورة رسومية"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.devices/pagedevice/process/
 ---
 ## Process(Page, Stream) {#process}
 
-تقوم بإجراء بعض العمليات على الصفحة المعطاة، مثل تحويل الصفحة إلى صورة رسومية.
+يقوم بأداء بعض العمليات على الصفحة المحددة، مثل تحويل الصفحة إلى صورة رسومية.
 
 ```csharp
 public abstract void Process(Page page, Stream output)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة التي سيتم معالجتها. |
-| output | Stream | يحتوي هذا التدفق على نتائج المعالجة. |
+| صفحة | صفحة | الصفحة للمعالجة. |
+| الإخراج | Stream | هذا التدفق يحتوي على نتائج المعالجة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [PageDevice](../)
@@ -30,20 +30,22 @@ public abstract void Process(Page page, Stream output)
 
 ## Process(Page, string) {#process_1}
 
-تقوم بإجراء بعض العمليات على الصفحة المعطاة وتخزن النتائج في الملف.
+ينفّذ بعض العمليات على الصفحة المعطاة ويحفظ النتائج في الملف.
 
 ```csharp
 public void Process(Page page, string outputFileName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة التي سيتم معالجتها. |
-| outputFileName | String | يحتوي هذا الملف على نتائج المعالجة. |
+| صفحة | صفحة | الصفحة للمعالجة. |
+| outputFileName | String | هذا الملف يحتوي على نتائج المعالجة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [PageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

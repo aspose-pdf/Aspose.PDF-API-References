@@ -1,12 +1,12 @@
 ---
-title: Cells.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Cells. إزالة مجموعة الخلايا من المجموعة
+title: "Cells.Remove"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Cells. إزالة مجموعة الخلايا من التجميع"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/cells/remove/
 ---
-## طريقة Cells.Remove
+## Cells.Remove method
 
 إزالة مجموعة الخلايا من المجموعة.
 
@@ -14,9 +14,9 @@ url: /ar/net/aspose.pdf/cells/remove/
 public void Remove(Cell cell)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| cell | Cell | كائن الخلية. |
+| خلية | خلية | كائن الخلية. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public void Remove(Cell cell)
 * class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

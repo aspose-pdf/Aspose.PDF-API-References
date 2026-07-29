@@ -1,14 +1,14 @@
 ---
-title: AttributeName.ListNumbering_Square
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. قائمة التعداد Attribute ListNumbering Square  نقطة مربع صلبة
+title: "AttributeName.ListNumbering_Square"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. السمة ListNumbering Square  نقطة مربعة صلبة"
 type: docs
 weight: 310
 url: /ar/net/aspose.pdf.logicalstructure/attributename/listnumbering_square/
 ---
-## حقل AttributeName.ListNumbering_Square
+## AttributeName.ListNumbering_Square field
 
-قائمة التعداد Attribute ListNumbering: مربع - نقطة مربع صلبة.
+السمة ListNumbering: Square - نقطه مربعة صلبة.
 
 ```csharp
 public static readonly AttributeName ListNumbering_Square;
@@ -19,3 +19,5 @@ public static readonly AttributeName ListNumbering_Square;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

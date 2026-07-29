@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.TextEditOptions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragmentAbsorber. تحصل أو تضبط خيارات تحرير النص. تحدد الخيارات سلوكًا خاصًا عندما لا يمكن كتابة الرمز المطلوب باستخدام الخط
+title: "TextFragmentAbsorber.TextEditOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragmentAbsorber. تحصل أو تعين خيارات تعديل النص. تحدد الخيارات سلوكًا خاصًا عندما لا يمكن كتابة الرمز المطلوب باستخدام الخط"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.text/textfragmentabsorber/texteditoptions/
 ---
-## خاصية TextFragmentAbsorber.TextEditOptions
+## TextFragmentAbsorber.TextEditOptions property
 
-تحصل أو تضبط خيارات تحرير النص. تحدد الخيارات سلوكًا خاصًا عندما لا يمكن كتابة الرمز المطلوب باستخدام الخط.
+يحصل أو يعيّن خيارات تحرير النص. تحدد الخيارات سلوكًا خاصًا عندما لا يمكن كتابة الرمز المطلوب باستخدام الخط.
 
 ```csharp
 public TextEditOptions TextEditOptions { get; set; }
@@ -20,3 +20,5 @@ public TextEditOptions TextEditOptions { get; set; }
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

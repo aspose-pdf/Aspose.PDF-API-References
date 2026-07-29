@@ -1,29 +1,31 @@
 ---
-title: IIndexBitmapConverter.Get1BppImage
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IIndexBitmapConverter. تعيد تمثيل صورة بتنسيق 1Bpp
+title: "IIndexBitmapConverter.Get1BppImage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IIndexBitmapConverter. تُرجع تمثيل bitmap بدقة 1Bpp"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/iindexbitmapconverter/get1bppimage/
 ---
-## طريقة IIndexBitmapConverter.Get1BppImage
+## IIndexBitmapConverter.Get1BppImage method
 
-تعيد تمثيل صورة بتنسيق 1Bpp
+إرجاع تمثيل bitmap بدقة 1Bpp
 
 ```csharp
 public Bitmap Get1BppImage(Bitmap src)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| src | Bitmap | صورة المصدر. |
+| src | Bitmap | صورة bitmap المصدر. |
 
 ### قيمة الإرجاع
 
-صورة بتنسيق 1 bpp.
+Bitmap بتنسيق صورة 1 bpp.
 
 ### انظر أيضًا
 
-* الواجهة [IIndexBitmapConverter](../)
-* مساحة الاسم [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IIndexBitmapConverter](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.FormSubmitButtonNames
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية النموذج. تحصل على جميع أسماء أزرار إرسال النموذج
+title: "Form.FormSubmitButtonNames"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Form. تحصل على جميع أسماء أزرار إرسال النموذج"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.facades/form/formsubmitbuttonnames/
 ---
-## خاصية Form.FormSubmitButtonNames
+## Form.FormSubmitButtonNames property
 
-تحصل على جميع أسماء أزرار إرسال النموذج.
+يحصل على جميع أسماء أزرار إرسال النموذج.
 
 ```csharp
 public string[] FormSubmitButtonNames { get; }
@@ -30,3 +30,5 @@ foreach(string btn in submits)
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,23 +1,23 @@
 ---
-title: GraphicElementCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة GraphicElementCollection. تنسخ المجموعة بالكامل إلى مصفوفة أحادية البعد متوافقة بدءًا من الفهرس المحدد لمصفوفة الهدف
+title: "GraphicElementCollection.CopyTo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة GraphicElementCollection. تنسخ المجموعة بالكامل إلى مصفوفة أحادية البُعد متوافقة بدءًا من الفهرس المحدد للمصفوفة الهدف"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.vector/graphicelementcollection/copyto/
 ---
-## طريقة GraphicElementCollection.CopyTo
+## GraphicElementCollection.CopyTo method
 
-تنسخ المجموعة بالكامل إلى مصفوفة أحادية البعد متوافقة، بدءًا من الفهرس المحدد لمصفوفة الهدف.
+ينسخ المجموعة بالكامل إلى مصفوفة أحادية البعد متوافقة، بدءًا من الفهرس المحدد للمصفوفة الهدف.
 
 ```csharp
 public void CopyTo(GraphicElement[] array, int arrayIndex)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| array | GraphicElement[] | مصفوفة من الكائنات التي سيتم نسخها. |
-| arrayIndex | Int32 | الفهرس الابتدائي الذي ستبدأ منه عملية النسخ. |
+| مصفوفة | GraphicElement[] | Array of objects which will be copied. |
+| arrayIndex | Int32 | Starting index from which copying will be started. |
 
 ### انظر أيضًا
 
@@ -25,3 +25,5 @@ public void CopyTo(GraphicElement[] array, int arrayIndex)
 * class [GraphicElementCollection](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

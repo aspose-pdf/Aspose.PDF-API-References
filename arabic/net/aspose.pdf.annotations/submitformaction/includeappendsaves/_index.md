@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.IncludeAppendSaves
-second_title: Aspose.PDF for .NET API Reference
-description: حقل SubmitFormAction. إذا تم تعيينه، يجب أن يتضمن ملف FDF المقدم محتويات جميع التحديثات التراكمية
+title: "SubmitFormAction.IncludeAppendSaves"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل SubmitFormAction. إذا تم تعيينه، يجب أن يتضمن ملف FDF المرسل محتويات جميع التحديثات المتزايدة"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.annotations/submitformaction/includeappendsaves/
 ---
-## حقل SubmitFormAction.IncludeAppendSaves
+## SubmitFormAction.IncludeAppendSaves field
 
-إذا تم تعيينه، يجب أن يتضمن ملف FDF المقدم محتويات جميع التحديثات التراكمية.
+إذا تم تعيينه، يجب أن يتضمن ملف FDF المرسل محتويات جميع التحديثات المتزايدة.
 
 ```csharp
 public const int IncludeAppendSaves;
@@ -19,3 +19,5 @@ public const int IncludeAppendSaves;
 * class [SubmitFormAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,24 +1,24 @@
 ---
-title: TiffDevice.TiffDevice
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TiffDevice. يقوم بتهيئة مثيل جديد من فئة TiffDevice
+title: "TiffDevice.TiffDevice"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TiffDevice. يهيئ مثلاً جديداً من الفئة TiffDevice"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.devices/tiffdevice/tiffdevice/
 ---
 ## TiffDevice(Resolution) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة [`TiffDevice`](../).
+يهيئ مثلاً جديداً من الفئة [`TiffDevice`](../).
 
 ```csharp
 public TiffDevice(Resolution resolution)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| resolution | Resolution | دقة ملف الصورة الناتجة. |
+| resolution | الدقة | الدقة لملف الصورة الناتج. |
 
-### See Also
+### انظر أيضًا
 
 * class [Resolution](../../resolution/)
 * class [TiffDevice](../)
@@ -29,18 +29,18 @@ public TiffDevice(Resolution resolution)
 
 ## TiffDevice(Resolution, TiffSettings) {#constructor_2}
 
-يقوم بتهيئة مثيل جديد من فئة [`TiffDevice`](../).
+يهيئ مثلاً جديداً من الفئة [`TiffDevice`](../).
 
 ```csharp
 public TiffDevice(Resolution resolution, TiffSettings settings)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| resolution | Resolution | دقة الصورة الناتجة. |
-| settings | TiffSettings | إعدادات Tiff، انظر فئة [`TiffSettings`](../../tiffsettings/). |
+| resolution | الدقة | الدقة للصورة الناتجة. |
+| settings | TiffSettings | إعدادات Tiff، راجع الفئة [`TiffSettings`](../../tiffsettings/). |
 
-### See Also
+### انظر أيضًا
 
 * class [Resolution](../../resolution/)
 * class [TiffSettings](../../tiffsettings/)
@@ -52,19 +52,19 @@ public TiffDevice(Resolution resolution, TiffSettings settings)
 
 ## TiffDevice(Resolution, TiffSettings, IIndexBitmapConverter) {#constructor_3}
 
-يقوم بتهيئة مثيل جديد من فئة [`TiffDevice`](../).
+يهيئ مثلاً جديداً من الفئة [`TiffDevice`](../).
 
 ```csharp
 public TiffDevice(Resolution resolution, TiffSettings settings, IIndexBitmapConverter converter)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| resolution | Resolution | دقة الصورة الناتجة. |
-| settings | TiffSettings | إعدادات Tiff، انظر فئة [`TiffSettings`](../../tiffsettings/). |
-| converter | IIndexBitmapConverter | محول خارجي |
+| resolution | الدقة | الدقة للصورة الناتجة. |
+| settings | TiffSettings | إعدادات Tiff، راجع الفئة [`TiffSettings`](../../tiffsettings/). |
+| محول | IIndexBitmapConverter | محول خارجي |
 
-### See Also
+### انظر أيضًا
 
 * class [Resolution](../../resolution/)
 * class [TiffSettings](../../tiffsettings/)
@@ -77,17 +77,17 @@ public TiffDevice(Resolution resolution, TiffSettings settings, IIndexBitmapConv
 
 ## TiffDevice(TiffSettings) {#constructor_4}
 
-يقوم بتهيئة مثيل جديد من فئة [`TiffDevice`](../).
+يهيئ مثلاً جديداً من الفئة [`TiffDevice`](../).
 
 ```csharp
 public TiffDevice(TiffSettings settings)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| settings | TiffSettings | إعدادات Tiff، انظر فئة [`TiffSettings`](../../tiffsettings/). |
+| settings | TiffSettings | إعدادات Tiff، راجع الفئة [`TiffSettings`](../../tiffsettings/). |
 
-### See Also
+### انظر أيضًا
 
 * class [TiffSettings](../../tiffsettings/)
 * class [TiffDevice](../)
@@ -98,18 +98,18 @@ public TiffDevice(TiffSettings settings)
 
 ## TiffDevice(TiffSettings, IIndexBitmapConverter) {#constructor_5}
 
-يقوم بتهيئة مثيل جديد من فئة [`TiffDevice`](../).
+يهيئ مثلاً جديداً من الفئة [`TiffDevice`](../).
 
 ```csharp
 public TiffDevice(TiffSettings settings, IIndexBitmapConverter converter)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| settings | TiffSettings | إعدادات Tiff، انظر فئة [`TiffSettings`](../../tiffsettings/). |
-| converter | IIndexBitmapConverter | محول خارجي |
+| settings | TiffSettings | إعدادات Tiff، راجع الفئة [`TiffSettings`](../../tiffsettings/). |
+| محول | IIndexBitmapConverter | محول خارجي |
 
-### See Also
+### انظر أيضًا
 
 * class [TiffSettings](../../tiffsettings/)
 * interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
@@ -121,13 +121,13 @@ public TiffDevice(TiffSettings settings, IIndexBitmapConverter converter)
 
 ## TiffDevice() {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`TiffDevice`](../) مع إعدادات افتراضية.
+يهيئ مثلاً جديداً من الفئة [`TiffDevice`](../) بالإعدادات الافتراضية.
 
 ```csharp
 public TiffDevice()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
@@ -137,20 +137,20 @@ public TiffDevice()
 
 ## TiffDevice(int, int, Resolution, TiffSettings) {#constructor_14}
 
-يقوم بتهيئة مثيل جديد من فئة [`TiffDevice`](../).
+يهيئ مثلاً جديداً من الفئة [`TiffDevice`](../).
 
 ```csharp
 public TiffDevice(int width, int height, Resolution resolution, TiffSettings settings)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| width | Int32 | عرض الصورة الناتجة. |
-| height | Int32 | ارتفاع الصورة الناتجة. |
-| resolution | Resolution | دقة الصورة الناتجة. |
-| settings | TiffSettings | إعدادات Tiff، انظر فئة [`TiffSettings`](../../tiffsettings/). |
+| العرض | Int32 | عرض الصورة الناتجة. |
+| الارتفاع | Int32 | ارتفاع الصورة الناتجة. |
+| resolution | الدقة | الدقة للصورة الناتجة. |
+| settings | TiffSettings | إعدادات Tiff، راجع الفئة [`TiffSettings`](../../tiffsettings/). |
 
-### See Also
+### انظر أيضًا
 
 * class [Resolution](../../resolution/)
 * class [TiffSettings](../../tiffsettings/)
@@ -162,22 +162,22 @@ public TiffDevice(int width, int height, Resolution resolution, TiffSettings set
 
 ## TiffDevice(int, int, Resolution, TiffSettings, IIndexBitmapConverter) {#constructor_15}
 
-يقوم بتهيئة مثيل جديد من فئة [`TiffDevice`](../).
+يهيئ مثلاً جديداً من الفئة [`TiffDevice`](../).
 
 ```csharp
 public TiffDevice(int width, int height, Resolution resolution, TiffSettings settings, 
     IIndexBitmapConverter converter)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| width | Int32 | عرض الصورة الناتجة. |
-| height | Int32 | ارتفاع الصورة الناتجة. |
-| resolution | Resolution | دقة الصورة الناتجة. |
-| settings | TiffSettings | إعدادات Tiff، انظر فئة [`TiffSettings`](../../tiffsettings/). |
-| converter | IIndexBitmapConverter | محول خارجي |
+| العرض | Int32 | عرض الصورة الناتجة. |
+| الارتفاع | Int32 | ارتفاع الصورة الناتجة. |
+| resolution | الدقة | الدقة للصورة الناتجة. |
+| settings | TiffSettings | إعدادات Tiff، راجع الفئة [`TiffSettings`](../../tiffsettings/). |
+| محول | IIndexBitmapConverter | محول خارجي |
 
-### See Also
+### انظر أيضًا
 
 * class [Resolution](../../resolution/)
 * class [TiffSettings](../../tiffsettings/)
@@ -190,19 +190,19 @@ public TiffDevice(int width, int height, Resolution resolution, TiffSettings set
 
 ## TiffDevice(PageSize, Resolution, TiffSettings) {#constructor_8}
 
-يقوم بتهيئة مثيل جديد من فئة [`TiffDevice`](../).
+يهيئ مثلاً جديداً من الفئة [`TiffDevice`](../).
 
 ```csharp
 public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings settings)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | pageSize | PageSize | حجم الصفحة للصورة الناتجة. |
-| resolution | Resolution | دقة الصورة الناتجة. |
-| settings | TiffSettings | إعدادات Tiff، انظر فئة [`TiffSettings`](../../tiffsettings/). |
+| resolution | الدقة | الدقة للصورة الناتجة. |
+| settings | TiffSettings | إعدادات Tiff، راجع الفئة [`TiffSettings`](../../tiffsettings/). |
 
-### See Also
+### انظر أيضًا
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [Resolution](../../resolution/)
@@ -215,21 +215,21 @@ public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings setting
 
 ## TiffDevice(PageSize, Resolution, TiffSettings, IIndexBitmapConverter) {#constructor_9}
 
-يقوم بتهيئة مثيل جديد من فئة [`TiffDevice`](../).
+يهيئ مثلاً جديداً من الفئة [`TiffDevice`](../).
 
 ```csharp
 public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings settings, 
     IIndexBitmapConverter converter)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | pageSize | PageSize | حجم الصفحة للصورة الناتجة. |
-| resolution | Resolution | دقة الصورة الناتجة. |
-| settings | TiffSettings | إعدادات Tiff، انظر فئة [`TiffSettings`](../../tiffsettings/). |
-| converter | IIndexBitmapConverter | محول خارجي |
+| resolution | الدقة | الدقة للصورة الناتجة. |
+| settings | TiffSettings | إعدادات Tiff، راجع الفئة [`TiffSettings`](../../tiffsettings/). |
+| محول | IIndexBitmapConverter | محول خارجي |
 
-### See Also
+### انظر أيضًا
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [Resolution](../../resolution/)
@@ -243,19 +243,19 @@ public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings setting
 
 ## TiffDevice(int, int, Resolution) {#constructor_13}
 
-يقوم بتهيئة مثيل جديد من فئة [`TiffDevice`](../).
+يهيئ مثلاً جديداً من الفئة [`TiffDevice`](../).
 
 ```csharp
 public TiffDevice(int width, int height, Resolution resolution)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| width | Int32 | عرض الصورة الناتجة. |
-| height | Int32 | ارتفاع الصورة الناتجة. |
-| resolution | Resolution | دقة الصورة الناتجة. |
+| العرض | Int32 | عرض الصورة الناتجة. |
+| الارتفاع | Int32 | ارتفاع الصورة الناتجة. |
+| resolution | الدقة | الدقة للصورة الناتجة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Resolution](../../resolution/)
 * class [TiffDevice](../)
@@ -266,18 +266,18 @@ public TiffDevice(int width, int height, Resolution resolution)
 
 ## TiffDevice(PageSize, Resolution) {#constructor_7}
 
-يقوم بتهيئة مثيل جديد من فئة [`TiffDevice`](../).
+يهيئ مثلاً جديداً من الفئة [`TiffDevice`](../).
 
 ```csharp
 public TiffDevice(PageSize pageSize, Resolution resolution)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | pageSize | PageSize | حجم الصفحة للصورة الناتجة. |
-| resolution | Resolution | دقة الصورة الناتجة. |
+| resolution | الدقة | الدقة للصورة الناتجة. |
 
-### See Also
+### انظر أيضًا
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [Resolution](../../resolution/)
@@ -289,19 +289,19 @@ public TiffDevice(PageSize pageSize, Resolution resolution)
 
 ## TiffDevice(int, int, TiffSettings) {#constructor_16}
 
-يقوم بتهيئة مثيل جديد من فئة [`TiffDevice`](../).
+يهيئ مثلاً جديداً من الفئة [`TiffDevice`](../).
 
 ```csharp
 public TiffDevice(int width, int height, TiffSettings settings)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| width | Int32 | عرض الصورة الناتجة. |
-| height | Int32 | ارتفاع الصورة الناتجة. |
-| settings | TiffSettings | إعدادات Tiff، انظر فئة [`TiffSettings`](../../tiffsettings/). |
+| العرض | Int32 | عرض الصورة الناتجة. |
+| الارتفاع | Int32 | ارتفاع الصورة الناتجة. |
+| settings | TiffSettings | إعدادات Tiff، راجع الفئة [`TiffSettings`](../../tiffsettings/). |
 
-### See Also
+### انظر أيضًا
 
 * class [TiffSettings](../../tiffsettings/)
 * class [TiffDevice](../)
@@ -312,20 +312,20 @@ public TiffDevice(int width, int height, TiffSettings settings)
 
 ## TiffDevice(int, int, TiffSettings, IIndexBitmapConverter) {#constructor_17}
 
-يقوم بتهيئة مثيل جديد من فئة [`TiffDevice`](../).
+يهيئ مثلاً جديداً من الفئة [`TiffDevice`](../).
 
 ```csharp
 public TiffDevice(int width, int height, TiffSettings settings, IIndexBitmapConverter converter)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| width | Int32 | عرض الصورة الناتجة. |
-| height | Int32 | ارتفاع الصورة الناتجة. |
-| settings | TiffSettings | إعدادات Tiff، انظر فئة [`TiffSettings`](../../tiffsettings/). |
-| converter | IIndexBitmapConverter | محول خارجي |
+| العرض | Int32 | عرض الصورة الناتجة. |
+| الارتفاع | Int32 | ارتفاع الصورة الناتجة. |
+| settings | TiffSettings | إعدادات Tiff، راجع الفئة [`TiffSettings`](../../tiffsettings/). |
+| محول | IIndexBitmapConverter | محول خارجي |
 
-### See Also
+### انظر أيضًا
 
 * class [TiffSettings](../../tiffsettings/)
 * interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
@@ -337,19 +337,19 @@ public TiffDevice(int width, int height, TiffSettings settings, IIndexBitmapConv
 
 ## TiffDevice(PageSize, TiffSettings, IIndexBitmapConverter) {#constructor_11}
 
-يقوم بتهيئة مثيل جديد من فئة [`TiffDevice`](../).
+يهيئ مثلاً جديداً من الفئة [`TiffDevice`](../).
 
 ```csharp
 public TiffDevice(PageSize pageSize, TiffSettings settings, IIndexBitmapConverter converter)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | pageSize | PageSize | حجم الصفحة للصورة الناتجة. |
-| settings | TiffSettings | إعدادات Tiff، انظر فئة [`TiffSettings`](../../tiffsettings/). |
-| converter | IIndexBitmapConverter | محول خارجي |
+| settings | TiffSettings | إعدادات Tiff، راجع الفئة [`TiffSettings`](../../tiffsettings/). |
+| محول | IIndexBitmapConverter | محول خارجي |
 
-### See Also
+### انظر أيضًا
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [TiffSettings](../../tiffsettings/)
@@ -362,18 +362,18 @@ public TiffDevice(PageSize pageSize, TiffSettings settings, IIndexBitmapConverte
 
 ## TiffDevice(PageSize, TiffSettings) {#constructor_10}
 
-يقوم بتهيئة مثيل جديد من فئة [`TiffDevice`](../).
+يهيئ مثلاً جديداً من الفئة [`TiffDevice`](../).
 
 ```csharp
 public TiffDevice(PageSize pageSize, TiffSettings settings)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | pageSize | PageSize | حجم الصفحة للصورة الناتجة. |
-| settings | TiffSettings | إعدادات Tiff، انظر فئة [`TiffSettings`](../../tiffsettings/). |
+| settings | TiffSettings | إعدادات Tiff، راجع الفئة [`TiffSettings`](../../tiffsettings/). |
 
-### See Also
+### انظر أيضًا
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [TiffSettings](../../tiffsettings/)
@@ -385,18 +385,18 @@ public TiffDevice(PageSize pageSize, TiffSettings settings)
 
 ## TiffDevice(int, int) {#constructor_12}
 
-يقوم بتهيئة مثيل جديد من فئة [`TiffDevice`](../).
+يهيئ مثلاً جديداً من الفئة [`TiffDevice`](../).
 
 ```csharp
 public TiffDevice(int width, int height)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| width | Int32 | عرض الصورة الناتجة. |
-| height | Int32 | ارتفاع الصورة الناتجة. |
+| العرض | Int32 | عرض الصورة الناتجة. |
+| الارتفاع | Int32 | ارتفاع الصورة الناتجة. |
 
-### See Also
+### انظر أيضًا
 
 * class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
@@ -406,19 +406,21 @@ public TiffDevice(int width, int height)
 
 ## TiffDevice(PageSize) {#constructor_6}
 
-يقوم بتهيئة مثيل جديد من فئة [`TiffDevice`](../).
+يهيئ مثلاً جديداً من الفئة [`TiffDevice`](../).
 
 ```csharp
 public TiffDevice(PageSize pageSize)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | pageSize | PageSize | حجم الصفحة للصورة الناتجة. |
 
-### See Also
+### انظر أيضًا
 
 * class [PageSize](../../../aspose.pdf/pagesize/)
 * class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

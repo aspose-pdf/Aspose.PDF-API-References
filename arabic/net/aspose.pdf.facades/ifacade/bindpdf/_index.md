@@ -1,7 +1,7 @@
 ---
-title: IFacade.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IFacade. يربط مستند PDF للتحرير
+title: "IFacade.BindPdf"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IFacade. تربط مستند PDF للتحرير."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.facades/ifacade/bindpdf/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.pdf.facades/ifacade/bindpdf/
 public void BindPdf(string srcFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| srcFile | String | مسار مستند PDF المدخل. |
+| srcFile | String | مسار مستند PDF الإدخال. |
 
-### See Also
+### انظر أيضًا
 
 * interface [IFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -34,11 +34,11 @@ public void BindPdf(string srcFile)
 public void BindPdf(Stream srcStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| srcStream | Stream | تدفق مستند PDF المدخل. |
+| srcStream | Stream | دفق مستند PDF الإدخال. |
 
-### See Also
+### انظر أيضًا
 
 * interface [IFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -54,13 +54,15 @@ public void BindPdf(Stream srcStream)
 public void BindPdf(Document srcDoc)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| srcDoc | Document | مستند PDF المدخل. |
+| srcDoc | Document | مستند PDF الإدخال. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * interface [IFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

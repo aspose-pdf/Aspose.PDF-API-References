@@ -1,21 +1,21 @@
 ---
-title: Interface IStringOrObjectT
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.AI.IStringOrObject1T. تمثل كائنًا يمكن أن يكون إما قيمة سلسلة أو قيمة كائن
+title: "الواجهة IStringOrObjectT"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الواجهة Aspose.Pdf.AI.IStringOrObject1T. تمثل كائنًا يمكن أن يكون إما قيمة نصية أو قيمة كائن."
 type: docs
-weight: 570
+weight: 620
 url: /ar/net/aspose.pdf.ai/istringorobject-1/
 ---
-## واجهة IStringOrObject&lt;T&gt;
+## IStringOrObject&lt;T&gt; interface
 
-تمثل كائنًا يمكن أن يكون إما قيمة سلسلة أو قيمة كائن.
+يمثل كائنًا يمكن أن يكون إما قيمة نصية أو قيمة كائن.
 
 ```csharp
 public interface IStringOrObject<T>
     where T : class
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
 | T | نوع قيمة الكائن. |
 
@@ -23,12 +23,14 @@ public interface IStringOrObject<T>
 
 | الاسم | الوصف |
 | --- | --- |
-| [IsObjectValue](../../aspose.pdf.ai/istringorobject-1/isobjectvalue/) { get; } | يحصل على قيمة تشير إلى ما إذا كان تنسيق الاستجابة هو قيمة كائن. |
-| [IsStringValue](../../aspose.pdf.ai/istringorobject-1/isstringvalue/) { get; } | يحصل على قيمة تشير إلى ما إذا كان تنسيق الاستجابة هو قيمة سلسلة. |
-| [ObjectValue](../../aspose.pdf.ai/istringorobject-1/objectvalue/) { get; set; } | يحصل على أو يحدد قيمة الكائن. |
-| [StringValue](../../aspose.pdf.ai/istringorobject-1/stringvalue/) { get; set; } | يحصل على أو يحدد قيمة السلسلة. |
+| [IsObjectValue](../../aspose.pdf.ai/istringorobject-1/isobjectvalue/) { get; } | يحصل على قيمة تشير إلى ما إذا كان تنسيق الاستجابة قيمة كائن. |
+| [IsStringValue](../../aspose.pdf.ai/istringorobject-1/isstringvalue/) { get; } | يحصل على قيمة تشير إلى ما إذا كان تنسيق الاستجابة قيمة نصية. |
+| [ObjectValue](../../aspose.pdf.ai/istringorobject-1/objectvalue/) { get; set; } | يحصل أو يعيّن قيمة الكائن. |
+| [StringValue](../../aspose.pdf.ai/istringorobject-1/stringvalue/) { get; set; } | يحصل أو يعيّن قيمة النص. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

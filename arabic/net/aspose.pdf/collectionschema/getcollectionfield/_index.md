@@ -1,22 +1,22 @@
 ---
-title: CollectionSchema.GetCollectionField
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة CollectionSchema. تحصل على حقل مجموعة بالاسم
+title: "CollectionSchema.GetCollectionField"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة CollectionSchema. تحصل على حقل مجموعة حسب الاسم"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/collectionschema/getcollectionfield/
 ---
-## طريقة CollectionSchema.GetCollectionField
+## CollectionSchema.GetCollectionField method
 
-تحصل على حقل مجموعة بالاسم.
+الحصول على حقل مجموعة حسب الاسم.
 
 ```csharp
 public CollectionField GetCollectionField(string name)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم الحقل |
+| الاسم | String | اسم الحقل |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public CollectionField GetCollectionField(string name)
 * class [CollectionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

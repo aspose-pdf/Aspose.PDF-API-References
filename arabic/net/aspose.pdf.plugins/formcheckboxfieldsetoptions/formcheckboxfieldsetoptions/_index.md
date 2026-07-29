@@ -1,14 +1,14 @@
 ---
-title: FormCheckBoxFieldSetOptions.FormCheckBoxFieldSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FormCheckBoxFieldSetOptions. المُنشئ الافتراضي
+title: "FormCheckBoxFieldSetOptions.FormCheckBoxFieldSetOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FormCheckBoxFieldSetOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/formcheckboxfieldsetoptions/formcheckboxfieldsetoptions/
 ---
-## مُنشئ FormCheckBoxFieldSetOptions
+## FormCheckBoxFieldSetOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public FormCheckBoxFieldSetOptions()
@@ -19,3 +19,5 @@ public FormCheckBoxFieldSetOptions()
 * class [FormCheckBoxFieldSetOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

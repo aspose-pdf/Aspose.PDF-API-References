@@ -1,50 +1,52 @@
 ---
-title: Class Optimizer
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.Optimizer. تمثل مُحسّن الإضافات
+title: "الفئة Optimizer"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Plugins.Optimizer فئة. تمثّل ملحق Optimizer"
 type: docs
-weight: 8970
+weight: 9120
 url: /ar/net/aspose.pdf.plugins/optimizer/
 ---
-## فئة مُحسّن
+## Optimizer class
 
-تمثل إضافة `مُحسّن`.
+تمثّل ملحق `Optimizer`.
 
 ```csharp
 public sealed class Optimizer : IPlugin
 ```
 
-## المُنشئات
+## المنشئات
 
 | الاسم | الوصف |
 | --- | --- |
-| [Optimizer](optimizer/)() | المُنشئ الافتراضي. |
+| [Optimizer](optimizer/)() | البناء الافتراضي. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/optimizer/process/)(IPluginOptions) | يبدأ معالجة `مُحسّن` مع المعلمات المحددة. |
+| [Process](../../aspose.pdf.plugins/optimizer/process/)(IPluginOptions) | يبدأ معالجة `Optimizer` بالمعلمات المحددة. |
 
-## الأمثلة
+## أمثلة
 
-توضح المثال كيفية تحسين مستند PDF.
+يوضح المثال كيفية تحسين مستند PDF.
 
 ```csharp
-// create Optimizer
+// إنشاء Optimizer
 var optimizer = new Optimizer();
-// create OptimizeOptions object to set instructions
+// إنشاء كائن OptimizeOptions لتعيين التعليمات
 var opt = new OptimizeOptions();
-// add input file paths
+// إضافة مسارات ملفات الإدخال
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// تعيين مسار ملف الإخراج
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// تنفيذ العملية
 optimizer.Process(opt);
 ```
 
 ### انظر أيضًا
 
-* واجهة [IPlugin](../iplugin/)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

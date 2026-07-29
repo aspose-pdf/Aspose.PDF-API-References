@@ -1,36 +1,38 @@
 ---
-title: Class PdfConverterOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.PdfConverterOptions. تمثل خيارات لمكونات تحويل PDF
+title: "الفئة PdfConverterOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Plugins.PdfConverterOptions. يمثل خيارات لمكوّنات تحويل Pdf."
 type: docs
-weight: 9050
+weight: 9200
 url: /ar/net/aspose.pdf.plugins/pdfconverteroptions/
 ---
 ## PdfConverterOptions class
 
-تمثل خيارات لمكونات تحويل PDF.
+يمثل خيارات ملحقات محول Pdf.
 
 ```csharp
 public abstract class PdfConverterOptions : IPluginOptions
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/pdfconverteroptions/inputs/) { get; } | تعيد مجموعة بيانات مكون PdfConverterOptions. |
-| abstract [OperationName](../../aspose.pdf.plugins/pdfconverteroptions/operationname/) { get; } | تعيد اسم العملية. |
-| [Outputs](../../aspose.pdf.plugins/pdfconverteroptions/outputs/) { get; } | تحصل على مجموعة من الأهداف المضافة لحفظ نتائج العملية. |
+| [Inputs](../../aspose.pdf.plugins/pdfconverteroptions/inputs/) { get; } | يعيد مجموعة بيانات ملحق PdfConverterOptions. |
+| abstract [OperationName](../../aspose.pdf.plugins/pdfconverteroptions/operationname/) { get; } | يرجع اسم العملية. |
+| [Outputs](../../aspose.pdf.plugins/pdfconverteroptions/outputs/) { get; } | يحصل على مجموعة الأهداف المضافة لحفظ نتائج العملية. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/pdfconverteroptions/addinput/)(IDataSource) | تضيف مصدر بيانات جديد إلى مجموعة بيانات مكون PdfConverter. |
-| [AddOutput](../../aspose.pdf.plugins/pdfconverteroptions/addoutput/)(IDataSource) | تضيف مصدر بيانات جديد إلى مجموعة بيانات مكون PdfToXLSXConverterOptions. |
+| [AddInput](../../aspose.pdf.plugins/pdfconverteroptions/addinput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات ملحق PdfConverter. |
+| [AddOutput](../../aspose.pdf.plugins/pdfconverteroptions/addoutput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات ملحق PdfToXLSXConverterOptions. |
 
-### See Also
+### انظر أيضًا
 
 * interface [IPluginOptions](../ipluginoptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

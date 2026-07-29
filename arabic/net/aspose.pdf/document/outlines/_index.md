@@ -1,14 +1,14 @@
 ---
-title: Document.Outlines
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. يحصل على مخططات الوثيقة
+title: "Document.Outlines"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. تحصل على مخططات المستند"
 type: docs
-weight: 410
+weight: 430
 url: /ar/net/aspose.pdf/document/outlines/
 ---
-## خاصية Document.Outlines
+## Document.Outlines property
 
-يحصل على مخططات الوثيقة.
+يحصل على مخططات المستند.
 
 ```csharp
 public OutlineCollection Outlines { get; }
@@ -20,3 +20,5 @@ public OutlineCollection Outlines { get; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: CharInfoCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CharInfoCollection. يحصل على عنصر CharInfo في الفهرس المحدد
+title: "CharInfoCollection.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "CharInfoCollection property. Gets the CharInfo element at the specified index"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.text/charinfocollection/item/
 ---
-## فهرس CharInfoCollection
+## CharInfoCollection indexer
 
 يحصل على عنصر CharInfo في الفهرس المحدد.
 
@@ -14,13 +14,13 @@ url: /ar/net/aspose.pdf.text/charinfocollection/item/
 public CharInfo this[int index] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| index | الفهرس داخل المجموعة. |
+| index | Index within the collection. |
 
 ### قيمة الإرجاع
 
-كائن CharInfo.
+CharInfo object.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public CharInfo this[int index] { get; }
 * class [CharInfoCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

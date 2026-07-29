@@ -1,14 +1,14 @@
 ---
-title: SvgExtractionOptions.UnpackXFormPredicate
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SvgExtractionOptions. تحصل على وتضبط الخيار لفك حزمة XForm فقط المتعلق بالشرط المحدد
+title: "SvgExtractionOptions.UnpackXFormPredicate"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SvgExtractionOptions. يحصل ويضبط خيار فك ضغط فقط XForm المقابل للشرط المحدد"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.vector/svgextractionoptions/unpackxformpredicate/
 ---
-## خاصية SvgExtractionOptions.UnpackXFormPredicate
+## SvgExtractionOptions.UnpackXFormPredicate property
 
-تحصل على وتضبط الخيار لفك حزمة XForm فقط المتعلق بالشرط المحدد.
+يحصل أو يعيّن الخيار لفك ضغط XForm فقط المتطابق مع الشرط المحدد.
 
 ```csharp
 public Predicate<XFormPlacement> UnpackXFormPredicate { get; set; }
@@ -20,3 +20,5 @@ public Predicate<XFormPlacement> UnpackXFormPredicate { get; set; }
 * class [SvgExtractionOptions](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

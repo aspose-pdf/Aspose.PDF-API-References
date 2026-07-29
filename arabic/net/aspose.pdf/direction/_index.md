@@ -1,12 +1,12 @@
 ---
-title: Enum Direction
-second_title: Aspose.PDF for .NET API Reference
-description: تعداد Aspose.Pdf.Direction. اتجاه النص
+title: "التعداد Direction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.Direction. اتجاه النص"
 type: docs
-weight: 3730
+weight: 3850
 url: /ar/net/aspose.pdf/direction/
 ---
-## تعداد الاتجاه
+## Direction enumeration
 
 اتجاه النص.
 
@@ -23,5 +23,7 @@ public enum Direction
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

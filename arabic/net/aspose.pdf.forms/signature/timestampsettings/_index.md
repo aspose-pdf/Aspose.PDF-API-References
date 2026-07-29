@@ -1,14 +1,14 @@
 ---
-title: Signature.TimestampSettings
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية التوقيع. الحصول على/تعيين إعدادات الطابع الزمني
+title: "Signature.TimestampSettings"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Signature. يحصل/يحدد إعدادات الطابع الزمني"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.forms/signature/timestampsettings/
 ---
-## خاصية Signature.TimestampSettings
+## Signature.TimestampSettings property
 
-الحصول على/تعيين إعدادات الطابع الزمني.
+يحصل/يعيّن إعدادات الطابع الزمني.
 
 ```csharp
 public TimestampSettings TimestampSettings { get; set; }
@@ -20,3 +20,5 @@ public TimestampSettings TimestampSettings { get; set; }
 * class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

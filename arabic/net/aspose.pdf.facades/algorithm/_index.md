@@ -1,14 +1,14 @@
 ---
-title: Enum Algorithm
-second_title: Aspose.PDF for .NET API Reference
-description: خوارزمية Aspose.Pdf.Facades.Enum. تمثل الخوارزميات التي يمكن استخدامها لتشفير مستند PDF
+title: "تعداد Algorithm"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Facades.Algorithm enum. يمثل الخوارزميات التي يمكن استخدامها لتشفير مستند pdf"
 type: docs
-weight: 4140
+weight: 4260
 url: /ar/net/aspose.pdf.facades/algorithm/
 ---
-## تعداد الخوارزميات
+## Algorithm enumeration
 
-تمثل الخوارزميات التي يمكن استخدامها لتشفير مستند PDF.
+يمثل الخوارزميات التي يمكن استخدامها لتشفير مستند pdf.
 
 ```csharp
 public enum Algorithm
@@ -23,5 +23,7 @@ public enum Algorithm
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.L
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeStandard. قائمة تسلسل من العناصر ذات المعنى والأهمية المتشابهة. يجب أن تكون الأطفال المباشرين هي نوع هيكل عنوان اختياري يتبعه عنصر أو أكثر من عناصر القائمة نوع LI
+title: "StructureTypeStandard.L"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل StructureTypeStandard. List تسلسل من العناصر ذات المعنى والأهمية المتشابهة. يجب أن تكون أطفاله المباشرة تسمية توضيحية اختيارية من نوع الهيكل Caption تليها عنصر أو أكثر من عناصر القائمة من نوع الهيكل LI"
 type: docs
 weight: 200
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/l/
 ---
-## حقل StructureTypeStandard.L
+## StructureTypeStandard.L field
 
-(قائمة) تسلسل من العناصر ذات المعنى والأهمية المتشابهة. يجب أن تكون الأطفال المباشرين هي عنوان اختياري (نوع هيكل Caption) يتبعه عنصر أو أكثر من عناصر القائمة (نوع هيكل LI).
+(List) تسلسل من العناصر ذات المعنى والأهمية المتساوية. يجب أن تكون الأطفال المباشرين لها تسمية اختيارية (نوع بنية Caption) تليها عنصر أو أكثر من عناصر القائمة (نوع بنية LI).
 
 ```csharp
 public static readonly StructureTypeStandard L;
@@ -19,3 +19,5 @@ public static readonly StructureTypeStandard L;
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

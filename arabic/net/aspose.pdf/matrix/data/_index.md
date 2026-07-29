@@ -1,14 +1,14 @@
 ---
-title: Matrix.Data
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Matrix. تحصل على بيانات Matrix كمصفوفة
+title: "Matrix.Data"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Matrix. يحصل على بيانات Matrix كمصفوفة"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/matrix/data/
 ---
-## خاصية Matrix.Data
+## Matrix.Data property
 
-تحصل على بيانات Matrix كمصفوفة.
+يحصل على بيانات Matrix كمصفوفة.
 
 ```csharp
 public double[] Data { get; }
@@ -19,3 +19,5 @@ public double[] Data { get; }
 * class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

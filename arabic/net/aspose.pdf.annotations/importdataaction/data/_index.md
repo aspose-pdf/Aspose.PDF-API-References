@@ -1,14 +1,14 @@
 ---
-title: ImportDataAction.Data
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ImportDataAction. ملف FDF الذي سيتم استيراد البيانات منه
+title: "ImportDataAction.Data"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ImportDataAction. ملف FDF الذي يتم استيراد البيانات منه."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/importdataaction/data/
 ---
-## خاصية ImportDataAction.Data
+## ImportDataAction.Data property
 
-ملف FDF الذي سيتم استيراد البيانات منه.
+ملف FDF الذي سيُستورد منه البيانات.
 
 ```csharp
 public FileSpecification Data { get; set; }
@@ -20,3 +20,5 @@ public FileSpecification Data { get; set; }
 * class [ImportDataAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

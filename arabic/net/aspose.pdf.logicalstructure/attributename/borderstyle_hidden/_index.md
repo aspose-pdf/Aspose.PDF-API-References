@@ -1,14 +1,14 @@
 ---
-title: AttributeName.BorderStyle_Hidden
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. نمط الحدود Attribute Hidden نفس None باستثناء من حيث حل النزاعات الحدودية لعناصر الجدول
+title: "AttributeName.BorderStyle_Hidden"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "AttributeName حقل. Attribute BorderStyle Hidden  نفس قيمة None باستثناء حل تعارض الحدود لعناصر الجدول"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.logicalstructure/attributename/borderstyle_hidden/
 ---
-## حقل AttributeName.BorderStyle_Hidden
+## AttributeName.BorderStyle_Hidden field
 
-نمط الحدود Attribute: Hidden - نفس None، باستثناء من حيث حل النزاعات الحدودية لعناصر الجدول.
+السمة BorderStyle: Hidden - نفس القيمة كـ None، باستثناء حل تعارض الحدود لعناصر الجدول.
 
 ```csharp
 public static readonly AttributeName BorderStyle_Hidden;
@@ -19,3 +19,5 @@ public static readonly AttributeName BorderStyle_Hidden;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

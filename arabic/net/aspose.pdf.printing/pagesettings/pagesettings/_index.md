@@ -1,14 +1,14 @@
 ---
-title: PageSettings.PageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PageSettings. يقوم بتهيئة مثيل جديد من فئة PageSettings باستخدام الطابعة الافتراضية
+title: "PageSettings.PageSettings"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "المُنشئ PageSettings. يهيئ مثيلاً جديدًا من فئة PageSettings باستخدام الطابعة الافتراضية"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.printing/pagesettings/pagesettings/
 ---
 ## PageSettings() {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`PageSettings`](../) باستخدام الطابعة الافتراضية.
+يهيئ مثيلاً جديدًا من الفئة [`PageSettings`](../) باستخدام الطابعة الافتراضية.
 
 ```csharp
 public PageSettings()
@@ -16,33 +16,35 @@ public PageSettings()
 
 ### انظر أيضًا
 
-* فئة [PageSettings](../)
-* مساحة الأسماء [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* التجميع [Aspose.PDF](../../../)
+* class [PageSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PageSettings(PrinterSettings) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة [`PageSettings`](../) باستخدام الطابعة المحددة.
+يهيئ مثيلاً جديدًا من الفئة [`PageSettings`](../) باستخدام الطابعة المحددة.
 
 ```csharp
 public PageSettings(PrinterSettings printerSettings)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| printerSettings | PrinterSettings | كائن [`PrinterSettings`](../printersettings/) |
+| printerSettings | PrinterSettings | [`PrinterSettings`](../printersettings/) كائن |
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *printerSettings* هو null. |
+| ArgumentNullException | *printerSettings* فارغ. |
 
 ### انظر أيضًا
 
-* فئة [PrinterSettings](../../printersettings/)
-* فئة [PageSettings](../)
-* مساحة الأسماء [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* التجميع [Aspose.PDF](../../../)
+* class [PrinterSettings](../../printersettings/)
+* class [PageSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

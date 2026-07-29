@@ -1,14 +1,14 @@
 ---
-title: Image.Image
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ الصورة. المُنشئ الافتراضي
+title: "Image.Image"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Image. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/image/image/
 ---
-## مُنشئ الصورة
+## Image constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public Image()
@@ -19,3 +19,5 @@ public Image()
 * class [Image](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

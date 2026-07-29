@@ -1,14 +1,14 @@
 ---
-title: TextStamp.Justify
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextStamp. تعرف محاذاة النص. إذا تم تعيين هذه الخاصية على true، فإن كلا الحافتين اليسرى واليمنى للنص تكونان متطابقتين. القيمة الافتراضية false
+title: "TextStamp.Justify"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextStamp. تحدد محاذاة النص. إذا تم تعيين هذه الخاصية إلى true يتم محاذاة الحافتين اليسرى واليمنى للنص. القيمة الافتراضية false"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/textstamp/justify/
 ---
-## خاصية TextStamp.Justify
+## TextStamp.Justify property
 
-تعرف محاذاة النص. إذا تم تعيين هذه الخاصية على true، فإن كلا الحافتين اليسرى واليمنى للنص تكونان متطابقتين. القيمة الافتراضية: false.
+يحدد محاذاة النص. إذا تم تعيين هذه الخاصية إلى true، يتم محاذاة الحافتين اليسرى واليمنى للنص. القيمة الافتراضية: false.
 
 ```csharp
 public bool Justify { get; set; }
@@ -19,3 +19,5 @@ public bool Justify { get; set; }
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

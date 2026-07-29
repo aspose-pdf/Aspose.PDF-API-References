@@ -1,37 +1,39 @@
 ---
-title: Class ResponseFormat
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.ResponseFormat. تمثل تنسيق استجابة يمكن أن يكون إما قيمة سلسلة أو قيمة كائن
+title: "الفئة ResponseFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.AI.ResponseFormat الفئة. تمثّل تنسيق الاستجابة الذي يمكن أن يكون إما قيمة نصية أو قيمة كائن."
 type: docs
-weight: 960
+weight: 1040
 url: /ar/net/aspose.pdf.ai/responseformat/
 ---
 ## ResponseFormat class
 
-تمثل تنسيق استجابة، يمكن أن يكون إما قيمة سلسلة أو قيمة كائن.
+يمثل تنسيق الاستجابة، والذي يمكن أن يكون إما قيمة نصية أو قيمة كائن.
 
 ```csharp
 public class ResponseFormat : IStringOrObject<ObjectType>
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ResponseFormat](responseformat/)() | المُنشئ الافتراضي. |
+| [ResponseFormat](responseformat/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [IsObjectValue](../../aspose.pdf.ai/responseformat/isobjectvalue/) { get; } | يحصل على قيمة تشير إلى ما إذا كان تنسيق الاستجابة هو قيمة كائن. |
-| [IsStringValue](../../aspose.pdf.ai/responseformat/isstringvalue/) { get; } | يحصل على قيمة تشير إلى ما إذا كان تنسيق الاستجابة هو قيمة سلسلة. |
-| [ObjectValue](../../aspose.pdf.ai/responseformat/objectvalue/) { get; set; } | يحصل على أو يحدد قيمة الكائن لتنسيق الاستجابة. |
-| [StringValue](../../aspose.pdf.ai/responseformat/stringvalue/) { get; set; } | يحصل على أو يحدد قيمة السلسلة لتنسيق الاستجابة. |
+| [IsObjectValue](../../aspose.pdf.ai/responseformat/isobjectvalue/) { get; } | يحصل على قيمة تشير إلى ما إذا كان تنسيق الاستجابة قيمة كائن. |
+| [IsStringValue](../../aspose.pdf.ai/responseformat/isstringvalue/) { get; } | يحصل على قيمة تشير إلى ما إذا كان تنسيق الاستجابة قيمة نصية. |
+| [ObjectValue](../../aspose.pdf.ai/responseformat/objectvalue/) { get; set; } | يحصل أو يعيّن قيمة الكائن لتنسيق الاستجابة. |
+| [StringValue](../../aspose.pdf.ai/responseformat/stringvalue/) { get; set; } | يحصل أو يعيّن القيمة النصية لتنسيق الاستجابة. |
 
-### See Also
+### انظر أيضًا
 
 * interface [IStringOrObject&lt;T&gt;](../istringorobject-1/)
 * class [ObjectType](../responseformat.objecttype/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

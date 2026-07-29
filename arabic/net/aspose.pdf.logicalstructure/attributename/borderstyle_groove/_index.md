@@ -1,14 +1,14 @@
 ---
-title: AttributeName.BorderStyle_Groove
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. نمط الحدود Attribute Groove يبدو أن الحدود محفورة في القماش
+title: "AttributeName.BorderStyle_Groove"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. السمة BorderStyle Groove  يبدو الحد كما لو أنه محفور في القماش"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.logicalstructure/attributename/borderstyle_groove/
 ---
-## حقل AttributeName.BorderStyle_Groove
+## AttributeName.BorderStyle_Groove field
 
-نمط الحدود Attribute: Groove - يبدو أن الحدود محفورة في القماش.
+السمة BorderStyle: Groove - يبدو الحد كما لو أنه محفور في القماش.
 
 ```csharp
 public static readonly AttributeName BorderStyle_Groove;
@@ -19,3 +19,5 @@ public static readonly AttributeName BorderStyle_Groove;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

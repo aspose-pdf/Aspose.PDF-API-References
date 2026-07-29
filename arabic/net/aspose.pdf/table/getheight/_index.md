@@ -1,12 +1,12 @@
 ---
-title: Table.GetHeight
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الجدول. احصل على الارتفاع
+title: "Table.GetHeight"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Table. الحصول على الارتفاع."
 type: docs
 weight: 230
 url: /ar/net/aspose.pdf/table/getheight/
 ---
-## طريقة Table.GetHeight
+## Table.GetHeight method
 
 احصل على الارتفاع.
 
@@ -14,9 +14,9 @@ url: /ar/net/aspose.pdf/table/getheight/
 public double GetHeight(Page parentPage = null)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| parentPage | Page | الصفحة الأم للجدول (اختياري). |
+| parentPage | صفحة | صفحة الجدول الأصلية (اختياري). |
 
 ### قيمة الإرجاع
 
@@ -28,3 +28,5 @@ public double GetHeight(Page parentPage = null)
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: BaseOperatorCollection.IsFastTextExtractionMode
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BaseOperatorCollection. تشير إلى ما إذا كانت المجموعة محدودة لاستخراج النص السريع
+title: "BaseOperatorCollection.IsFastTextExtractionMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BaseOperatorCollection. تشير إلى ما إذا كان التجميع محدودًا لاستخراج النص السريع"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/baseoperatorcollection/isfasttextextractionmode/
 ---
-## خاصية BaseOperatorCollection.IsFastTextExtractionMode
+## BaseOperatorCollection.IsFastTextExtractionMode property
 
-تشير إلى ما إذا كانت المجموعة محدودة لاستخراج النص السريع
+يشير إلى ما إذا كانت المجموعة محدودة لاستخراج النص السريع.
 
 ```csharp
 public abstract bool IsFastTextExtractionMode { get; }
@@ -19,3 +19,5 @@ public abstract bool IsFastTextExtractionMode { get; }
 * class [BaseOperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

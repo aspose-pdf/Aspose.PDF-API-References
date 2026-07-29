@@ -1,14 +1,14 @@
 ---
-title: ThreadResponse.CreatedAt
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ThreadResponse. تحصل أو تعين الطابع الزمني Unix بالثواني لتاريخ إنشاء الخيط
+title: "ThreadResponse.CreatedAt"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "ThreadResponse الخاصية. يحصل أو يضبط طابع الوقت Unix بالثواني للوقت الذي تم فيه إنشاء الخيط"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/threadresponse/createdat/
 ---
-## خاصية ThreadResponse.CreatedAt
+## ThreadResponse.CreatedAt property
 
-تحصل أو تعين الطابع الزمني Unix (بالثواني) لتاريخ إنشاء الخيط.
+يحصل أو يعيّن طابع الوقت Unix (بالثواني) للوقت الذي تم إنشاء السلسلة فيه.
 
 ```csharp
 public long CreatedAt { get; set; }
@@ -19,3 +19,5 @@ public long CreatedAt { get; set; }
 * class [ThreadResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

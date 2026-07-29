@@ -1,25 +1,27 @@
 ---
-title: StructureElement.Title
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StructureElement. تحصل أو تعين العنوان لعنصر الهيكل
+title: "StructureElement.Title"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StructureElement. الحصول على أو تعيين العنوان لعنصر البنية"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.logicalstructure/structureelement/title/
 ---
-## خاصية StructureElement.Title
+## StructureElement.Title property
 
-تحصل أو تعين العنوان لعنصر الهيكل.
+يحصل أو يعيّن العنوان لعنصر البنية.
 
 ```csharp
 public string Title { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-عنوان عنصر الهيكل.
+عنوان عنصر البنية.
 
 ### انظر أيضًا
 
 * class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

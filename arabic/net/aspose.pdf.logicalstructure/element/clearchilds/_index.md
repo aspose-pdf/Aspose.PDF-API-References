@@ -1,7 +1,7 @@
 ---
-title: Element.ClearChilds
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة العنصر. مسح جميع الأطفال
+title: "Element.ClearChilds"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Element. مسح جميع الأطفال"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.logicalstructure/element/clearchilds/
@@ -14,8 +14,10 @@ url: /ar/net/aspose.pdf.logicalstructure/element/clearchilds/
 public void ClearChilds()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Element](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

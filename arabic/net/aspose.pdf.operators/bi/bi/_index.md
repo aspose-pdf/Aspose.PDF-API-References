@@ -1,14 +1,14 @@
 ---
-title: BI.BI
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ BI. يقوم بتهيئة المشغل
+title: "BI.BI"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ BI. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/bi/bi/
 ---
-## مُنشئ BI
+## BI constructor
 
-يقوم بتهيئة المشغل.
+يُهيئ العامل.
 
 ```csharp
 public BI()
@@ -19,3 +19,5 @@ public BI()
 * class [BI](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

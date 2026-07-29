@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileBatchResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية VectorStoreFileBatchResponse. تحصل أو تعين المعرف الذي يمكن الإشارة إليه في نقاط نهاية API
+title: "VectorStoreFileBatchResponse.Id"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "VectorStoreFileBatchResponse خاصية. يحصل أو يعيّن المعرف الذي يمكن الإشارة إليه في نقاط النهاية API."
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.ai/vectorstorefilebatchresponse/id/
 ---
-## خاصية VectorStoreFileBatchResponse.Id
+## VectorStoreFileBatchResponse.Id property
 
-تحصل أو تعين المعرف، الذي يمكن الإشارة إليه في نقاط نهاية API.
+يحصل أو يعيّن المعرف، الذي يمكن الإشارة إليه في نقاط النهاية API.
 
 ```csharp
 public string Id { get; set; }
@@ -19,3 +19,5 @@ public string Id { get; set; }
 * class [VectorStoreFileBatchResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

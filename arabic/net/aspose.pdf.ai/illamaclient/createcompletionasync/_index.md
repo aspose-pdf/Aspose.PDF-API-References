@@ -1,14 +1,14 @@
 ---
-title: ILlamaClient.CreateCompletionAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ILlamaClient. تنشئ طلب إكمال دردشة في خدمة Llama
+title: "ILlamaClient.CreateCompletionAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ILlamaClient. ينشئ طلب إكمال محادثة في خدمة Llama"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/illamaclient/createcompletionasync/
 ---
 ## ILlamaClient.CreateCompletionAsync method
 
-تنشئ طلب إكمال دردشة في خدمة Llama.
+ينشئ طلب إكمال محادثة في خدمة Llama.
 
 ```csharp
 public Task<LlamaChatCompletionResponse> CreateCompletionAsync(
@@ -16,19 +16,21 @@ public Task<LlamaChatCompletionResponse> CreateCompletionAsync(
     CancellationToken? cancellationToken = default)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| chatCompletionRequest | LlamaChatCompletionRequest | طلب إكمال الدردشة. |
-| cancellationToken | Nullable`1 | رمز إلغاء. |
+| chatCompletionRequest | LlamaChatCompletionRequest | طلب إكمال المحادثة. |
+| cancellationToken | Nullable`1 | رمز الإلغاء. |
 
-### Return Value
+### قيمة الإرجاع
 
-استجابة إكمال الدردشة.
+استجابة إكمال المحادثة.
 
-### See Also
+### انظر أيضًا
 
 * class [LlamaChatCompletionResponse](../../llamachatcompletionresponse/)
 * class [LlamaChatCompletionRequest](../../llamachatcompletionrequest/)
 * interface [ILlamaClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

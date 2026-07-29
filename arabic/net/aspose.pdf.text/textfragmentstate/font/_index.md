@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.Font
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragmentState. تحصل أو تعين خط النص الممثل بواسطة كائن TextFragment
+title: "TextFragmentState.Font"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragmentState. تحصل أو تعيّن خط النص الممثّل بواسطة كائن TextFragment"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.text/textfragmentstate/font/
 ---
-## خاصية TextFragmentState.Font
+## TextFragmentState.Font property
 
-تحصل أو تعين خط النص، الممثل بواسطة كائن [`TextFragment`](../../textfragment/) 
+تحصل أو تعيّن خط النص، الممثّل بواسطة كائن [`TextFragment`](../../textfragment/).
 
 ```csharp
 public override Font Font { get; set; }
@@ -20,3 +20,5 @@ public override Font Font { get; set; }
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

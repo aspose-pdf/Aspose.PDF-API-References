@@ -1,28 +1,30 @@
 ---
-title: Enum TextReplaceOptions.Scope
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextReplaceOptionsScope enum. النطاق الذي يتم فيه تطبيق عملية استبدال النص REPLACE_FIRST بشكل افتراضي. تم الاحتفاظ بهذا الخيار القديم من أجل التوافق. يؤثر على PdfContentEditor وليس له تأثير على TextFragmentAbsorber.
+title: "Enum TextReplaceOptions.Scope"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Text.TextReplaceOptionsScope enum. النطاق الذي يتم فيه تطبيق عملية استبدال النص REPLACE_FIRST بشكل افتراضي. تم الاحتفاظ بهذا الخيار القديم للتوافق. يؤثر على PdfContentEditor ولا يؤثر على TextFragmentAbsorber"
 type: docs
-weight: 11030
+weight: 11220
 url: /ar/net/aspose.pdf.text/textreplaceoptions.scope/
 ---
 ## TextReplaceOptions.Scope enumeration
 
-النطاق الذي يتم فيه تطبيق عملية استبدال النص REPLACE_FIRST بشكل افتراضي. تم الاحتفاظ بهذا الخيار القديم من أجل التوافق. يؤثر على PdfContentEditor وليس له تأثير على TextFragmentAbsorber.
+النطاق الذي يتم فيه تطبيق عملية استبدال النص REPLACE_FIRST بشكل افتراضي. تم الاحتفاظ بهذا الخيار القديم للتوافق. يؤثر على PdfContentEditor ولا يؤثر على TextFragmentAbsorber.
 
 ```csharp
 public enum Scope
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| REPLACE_FIRST | `0` | استبدال أول ظهور فقط للنص على كل من الصفحات المتأثرة |
-| REPLACE_ALL | `1` | استبدال جميع ظهورات النص على جميع الصفحات المتأثرة |
+| REPLACE_FIRST | `0` | استبدال أول ظهور فقط للنص في كل صفحة متأثرة |
+| REPLACE_ALL | `1` | استبدال جميع ظهورات النص في جميع الصفحات المتأثرة |
 
-### See Also
+### انظر أيضًا
 
 * class [TextReplaceOptions](../textreplaceoptions/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

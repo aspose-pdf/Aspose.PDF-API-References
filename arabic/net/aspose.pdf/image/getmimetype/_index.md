@@ -1,29 +1,31 @@
 ---
-title: Image.GetMimeType
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الصورة. تعيد نوع الميم للصورة
+title: "Image.GetMimeType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Image. تُرجع نوع MIME للصورة"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf/image/getmimetype/
 ---
-## طريقة Image.GetMimeType
+## Image.GetMimeType method
 
-تعيد نوع الميم للصورة.
+يعيد نوع mime للصورة.
 
 ```csharp
 public static string GetMimeType(Image i)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| i | صورة | كائن الصورة. |
+| i | صورة | كائن Image. |
 
 ### قيمة الإرجاع
 
-نوع الميم كسلسلة إذا تم العثور عليه؛ خلاف ذلك، قيمة "image/unknown".
+نوع MIME كسلسلة إذا تم العثور عليه؛ وإلا، قيمة "image/unknown".
 
 ### انظر أيضًا
 
-* الفئة [Image](../)
-* مساحة الاسم [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

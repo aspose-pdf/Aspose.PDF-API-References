@@ -1,14 +1,14 @@
 ---
-title: Image.IsApplyResolution
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصورة. تحصل أو تعين قيمة بوليانية تشير إلى ما إذا كانت الصورة تستخدم الدقة أثناء التوليد
+title: "Image.IsApplyResolution"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Image. يسترجع أو يعيّن قيمة منطقية تشير إلى ما إذا كانت الصورة تستخدم الدقة أثناء الإنشاء"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf/image/isapplyresolution/
 ---
-## خاصية Image.IsApplyResolution
+## Image.IsApplyResolution property
 
-تحصل أو تعين قيمة بوليانية تشير إلى ما إذا كانت الصورة تستخدم الدقة أثناء التوليد
+يحصل أو يعيّن قيمة منطقية تشير إلى ما إذا كانت الصورة تستخدم الدقة أثناء الإنشاء.
 
 ```csharp
 public bool IsApplyResolution { get; set; }
@@ -19,3 +19,5 @@ public bool IsApplyResolution { get; set; }
 * class [Image](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

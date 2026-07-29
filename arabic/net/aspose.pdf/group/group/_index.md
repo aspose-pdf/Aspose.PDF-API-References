@@ -1,12 +1,12 @@
 ---
-title: Group.Group
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ المجموعة. المُنشئ
+title: "Group.Group"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Group. المنشئ"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/group/group/
 ---
-## مُنشئ المجموعة
+## Group constructor
 
 المُنشئ.
 
@@ -14,13 +14,15 @@ url: /ar/net/aspose.pdf/group/group/
 public Group(Page page)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الصفحة | صفحة | كائن صفحة PDF. |
+| صفحة | صفحة | كائن صفحة Pdf. |
 
 ### انظر أيضًا
 
-* الفئة [صفحة](../../page/)
-* الفئة [مجموعة](../)
-* مساحة الاسم [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [Group](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

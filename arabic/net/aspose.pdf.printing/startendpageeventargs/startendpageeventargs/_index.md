@@ -1,28 +1,30 @@
 ---
-title: StartEndPageEventArgs.StartEndPageEventArgs
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ StartEndPageEventArgs. يقوم بتهيئة مثيل جديد من فئة StartEndPageEventArgs
+title: "StartEndPageEventArgs.StartEndPageEventArgs"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "StartEndPageEventArgs مُنشئ. يهيئ نسخة جديدة من الفئة StartEndPageEventArgs class"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.printing/startendpageeventargs/startendpageeventargs/
 ---
-## مُنشئ StartEndPageEventArgs
+## StartEndPageEventArgs constructor
 
-يقوم بتهيئة مثيل جديد من فئة [`StartEndPageEventArgs`](../).
+يهيئ نسخة جديدة من الفئة [`StartEndPageEventArgs`](../) class.
 
 ```csharp
 public StartEndPageEventArgs(int currentPage, int totalPages, int currentCopy, int totalCopies)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| currentPage | Int32 | رقم الصفحة التي يتم طباعتها حاليًا. |
+| currentPage | Int32 | عدد الصفحة التي يتم طباعتها حاليًا. |
 | totalPages | Int32 | العدد الإجمالي للصفحات التي سيتم طباعتها. |
-| currentCopy | Int32 | رقم النسخة التي يتم طباعتها حاليًا. |
-| totalCopies | Int32 | العدد الإجمالي للنسخ التي سيتم طباعتها. |
+| currentCopy | Int32 | عدد النسخة التي يتم طباعتها حاليًا. |
+| totalCopies | Int32 | إجمالي عدد النسخ التي سيتم طباعتها. |
 
 ### انظر أيضًا
 
-* فئة [StartEndPageEventArgs](../)
-* مساحة الأسماء [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* التجميع [Aspose.PDF](../../../)
+* class [StartEndPageEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

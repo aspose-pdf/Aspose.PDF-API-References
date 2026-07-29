@@ -1,14 +1,14 @@
 ---
-title: HeaderFooterSettings.HorizontalAlignment.Left
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية HorizontalAlignment. تحصل أو تعين إعدادات المحاذاة اليسرى
+title: "HeaderFooterSettings.HorizontalAlignment.Left"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية HorizontalAlignment. يحصل أو يضبط إعدادات المحاذاة إلى اليسار"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/headerfootersettings.horizontalalignment/left/
 ---
-## خاصية HeaderFooterSettings.HorizontalAlignment.Left
+## HeaderFooterSettings.HorizontalAlignment.Left property
 
-تحصل أو تعين إعدادات المحاذاة اليسرى.
+يحصل أو يضبط إعدادات محاذاة اليسار.
 
 ```csharp
 public Left Left { get; set; }
@@ -20,3 +20,5 @@ public Left Left { get; set; }
 * class [HorizontalAlignment](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

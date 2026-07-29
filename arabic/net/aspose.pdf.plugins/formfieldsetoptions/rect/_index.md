@@ -1,14 +1,14 @@
 ---
-title: FormFieldSetOptions.Rect
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormFieldSetOptions. مستطيل يمكن تعيينه للحقول
+title: "FormFieldSetOptions.Rect"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormFieldSetOptions. المستطيل الذي يُعيّن للحقول"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/formfieldsetoptions/rect/
 ---
-## خاصية FormFieldSetOptions.Rect
+## FormFieldSetOptions.Rect property
 
-مستطيل يمكن تعيينه للحقول.
+Rectangle التي يتم تعيينها إلى الحقل(ات).
 
 ```csharp
 public Rectangle Rect { get; set; }
@@ -20,3 +20,5 @@ public Rectangle Rect { get; set; }
 * class [FormFieldSetOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

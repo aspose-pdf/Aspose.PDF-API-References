@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.Simplex
-second_title: Aspose.PDF for .NET API Reference
-description: حقل ViewerPreference. الطباعة على جانب واحد
+title: "ViewerPreference.Simplex"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل ViewerPreference. طباعة من جانب واحد"
 type: docs
 weight: 290
 url: /ar/net/aspose.pdf.facades/viewerpreference/simplex/
 ---
-## حقل ViewerPreference.Simplex
+## ViewerPreference.Simplex field
 
-الطباعة على جانب واحد.
+اطبع من جانب واحد.
 
 ```csharp
 public const int Simplex;
@@ -19,3 +19,5 @@ public const int Simplex;
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

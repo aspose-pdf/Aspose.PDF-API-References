@@ -1,14 +1,14 @@
 ---
-title: FileAttachmentAnnotation.Icon
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FileAttachmentAnnotation. تحصل أو تعين الأيقونة التي سيتم استخدامها في عرض التعليق
+title: "FileAttachmentAnnotation.Icon"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FileAttachmentAnnotation. يسترجع أو يعيّن الأيقونة التي ستُستخدم في عرض التعليقة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/fileattachmentannotation/icon/
 ---
-## خاصية FileAttachmentAnnotation.Icon
+## FileAttachmentAnnotation.Icon property
 
-تحصل أو تعين الأيقونة التي سيتم استخدامها في عرض التعليق.
+يحصل أو يعيّن الأيقونة التي ستُستخدم في عرض الملاحظة.
 
 ```csharp
 public FileIcon Icon { get; set; }
@@ -20,3 +20,5 @@ public FileIcon Icon { get; set; }
 * class [FileAttachmentAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

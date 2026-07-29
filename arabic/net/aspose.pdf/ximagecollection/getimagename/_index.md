@@ -1,26 +1,26 @@
 ---
-title: XImageCollection.GetImageName
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XImageCollection. تعيد الاسم في قائمة الصور والذي هو مفتاح الصورة المعطاة
+title: "XImageCollection.GetImageName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XImageCollection. تُرجع الاسم في قائمة الصور الذي هو مفتاح الصورة المعطاة."
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf/ximagecollection/getimagename/
 ---
-## طريقة XImageCollection.GetImageName
+## XImageCollection.GetImageName method
 
-تعيد الاسم في قائمة الصور والذي هو مفتاح الصورة المعطاة.
+يرجع الاسم في قائمة الصور الذي هو مفتاح الصورة المعطاة.
 
 ```csharp
 public string GetImageName(XImage image)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| image | XImage | الصورة للبحث عنها. |
+| صورة | XImage | الصورة للبحث. |
 
 ### قيمة الإرجاع
 
-اسم (مفتاح) الصورة الموجودة؛ null إذا لم يتم العثور على الصور.
+اسم (مفتاح) الصورة التي تم العثور عليها؛ null إذا لم يتم العثور على الصورة.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public string GetImageName(XImage image)
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

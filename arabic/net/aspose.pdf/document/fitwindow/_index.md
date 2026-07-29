@@ -1,14 +1,14 @@
 ---
-title: Document.FitWindow
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. تحصل أو تعين علامة تحدد ما إذا كان يجب تغيير حجم نافذة الوثيقة لتناسب الصفحة المعروضة الأولى
+title: "Document.FitWindow"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. تحصل أو تعيّن العلامة التي تحدد ما إذا كان يجب تعديل حجم نافذة المستند لتناسب الصفحة المعروضة أولاً"
 type: docs
-weight: 190
+weight: 210
 url: /ar/net/aspose.pdf/document/fitwindow/
 ---
-## خاصية Document.FitWindow
+## Document.FitWindow property
 
-تحصل أو تعين علامة تحدد ما إذا كان يجب تغيير حجم نافذة الوثيقة لتناسب الصفحة المعروضة الأولى.
+يحصل أو يعيّن العلامة التي تحدد ما إذا كان يجب تغيير حجم نافذة المستند لتناسب الصفحة الأولى المعروضة.
 
 ```csharp
 public bool FitWindow { get; set; }
@@ -16,7 +16,7 @@ public bool FitWindow { get; set; }
 
 ## أمثلة
 
-المثال يوضح كيفية الحصول على علامة FitWindow:
+يوضح المثال كيفية الحصول على علامة FitWindow:
 
 ```csharp
 Document document = new Document("sample.pdf");
@@ -28,3 +28,5 @@ bool value = document.FitWindow;
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

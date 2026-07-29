@@ -1,46 +1,48 @@
 ---
-title: AIClientException.AIClientException
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ AIClientException. يقوم بتهيئة مثيل جديد من فئة AIClientException مع رسالة خطأ محددة
+title: "AIClientException.AIClientException"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ AIClientException. يهيئ نسخة جديدة من فئة AIClientException برسالة خطأ محددة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/aiclientexception/aiclientexception/
 ---
 ## AIClientException(string) {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`AIClientException`](../) مع رسالة خطأ محددة.
+يهيئ نسخة جديدة من الفئة [`AIClientException`](../) برسالة خطأ محددة.
 
 ```csharp
 public AIClientException(string message)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| message | String | رسالة الخطأ التي تصف الاستثناء. |
+| رسالة | String | رسالة الخطأ التي تصف الاستثناء. |
 
 ### انظر أيضًا
 
-* الفئة [AIClientException](../)
-* مساحة الاسم [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [AIClientException](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AIClientException(string, Exception) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة [`AIClientException`](../) مع رسالة خطأ محددة ومرجع للاستثناء الداخلي الذي هو سبب هذا الاستثناء.
+يهيئ نسخة جديدة من الفئة [`AIClientException`](../) برسالة خطأ محددة وإشارة إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء.
 
 ```csharp
 public AIClientException(string message, Exception innerException)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| message | String | رسالة الخطأ التي تصف الاستثناء. |
+| رسالة | String | رسالة الخطأ التي تصف الاستثناء. |
 | innerException | Exception | الاستثناء الذي هو سبب الاستثناء الحالي. |
 
 ### انظر أيضًا
 
-* الفئة [AIClientException](../)
-* مساحة الاسم [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [AIClientException](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

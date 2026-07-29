@@ -1,20 +1,20 @@
 ---
-title: TextExtractionOptions.TextExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TextExtractionOptions. يُهيئ مثيلًا جديدًا من كائن TextExtractionOptions لوضع تنسيق النص المحدد
+title: "TextExtractionOptions.TextExtractionOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "المُنشئ TextExtractionOptions. يهيئ مثيلاً جديدًا لكائن TextExtractionOptions للوضع المحدد لتنسيق النص"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/textextractionoptions/textextractionoptions/
 ---
-## مُنشئ TextExtractionOptions
+## TextExtractionOptions constructor
 
-يُهيئ مثيلًا جديدًا من كائن [`TextExtractionOptions`](../) لوضع تنسيق النص المحدد.
+يهيئ مثيلاً جديدًا لكائن [`TextExtractionOptions`](../) للوضع المحدد لتنسيق النص.
 
 ```csharp
 public TextExtractionOptions(TextFormattingMode formattingMode)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | formattingMode | TextFormattingMode | قيمة وضع تنسيق النص. |
 
@@ -24,3 +24,5 @@ public TextExtractionOptions(TextFormattingMode formattingMode)
 * class [TextExtractionOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

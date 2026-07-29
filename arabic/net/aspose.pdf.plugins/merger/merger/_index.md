@@ -1,14 +1,14 @@
 ---
-title: Merger.Merger
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ الدمج. المُنشئ الافتراضي
+title: "Merger.Merger"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Merger. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/merger/merger/
 ---
-## مُنشئ الدمج
+## Merger constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public Merger()
@@ -19,3 +19,5 @@ public Merger()
 * class [Merger](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

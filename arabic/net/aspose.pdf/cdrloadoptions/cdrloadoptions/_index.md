@@ -1,14 +1,14 @@
 ---
-title: CdrLoadOptions.CdrLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ CdrLoadOptions. المُنشئ الافتراضي
+title: "CdrLoadOptions.CdrLoadOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ CdrLoadOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/cdrloadoptions/cdrloadoptions/
 ---
-## مُنشئ CdrLoadOptions
+## CdrLoadOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public CdrLoadOptions()
@@ -19,3 +19,5 @@ public CdrLoadOptions()
 * class [CdrLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

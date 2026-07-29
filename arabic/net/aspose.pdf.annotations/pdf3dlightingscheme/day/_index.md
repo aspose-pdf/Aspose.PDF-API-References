@@ -1,14 +1,14 @@
 ---
-title: PDF3DLightingScheme.Day
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PDF3DLightingScheme. نظام الإضاءة النهارية
+title: "PDF3DLightingScheme.Day"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PDF3DLightingScheme. مخطط الإضاءة النهاري"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.annotations/pdf3dlightingscheme/day/
 ---
-## حقل PDF3DLightingScheme.Day
+## PDF3DLightingScheme.Day field
 
-نظام الإضاءة "النهارية".
+مخطط الإضاءة "Day".
 
 ```csharp
 public static PDF3DLightingScheme Day;
@@ -19,3 +19,5 @@ public static PDF3DLightingScheme Day;
 * class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

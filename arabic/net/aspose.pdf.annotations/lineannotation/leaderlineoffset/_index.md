@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.LeaderLineOffset
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LineAnnotation. تحصل أو تعين إزاحة خط القائد
+title: "LineAnnotation.LeaderLineOffset"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LineAnnotation. تحصل أو تعين إزاحة الخط القائد"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.annotations/lineannotation/leaderlineoffset/
 ---
-## خاصية LineAnnotation.LeaderLineOffset
+## LineAnnotation.LeaderLineOffset property
 
-تحصل أو تعين إزاحة خط القائد.
+يحصل أو يضبط إزاحة خط القائد.
 
 ```csharp
 public double LeaderLineOffset { get; set; }
@@ -19,3 +19,5 @@ public double LeaderLineOffset { get; set; }
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: BDCProperties.MCID
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BDCProperties. الحصول على/تعيين قيمة MCID
+title: "BDCProperties.MCID"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BDCProperties. تحصل/تضبط قيمة MCID"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.facades/bdcproperties/mcid/
 ---
-## خاصية BDCProperties.MCID
+## BDCProperties.MCID property
 
-الحصول على/تعيين قيمة MCID.
+يحصل/يضبط قيمة MCID.
 
 ```csharp
 public int? MCID { get; }
@@ -19,3 +19,5 @@ public int? MCID { get; }
 * class [BDCProperties](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

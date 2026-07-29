@@ -1,22 +1,22 @@
 ---
-title: MarkupAnnotation.MarkupAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ MarkupAnnotation. مُنشئ لتعليق التمييز
+title: "MarkupAnnotation.MarkupAnnotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ MarkupAnnotation. منشئ لتعليق العلامة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/markupannotation/markupannotation/
 ---
-## مُنشئ MarkupAnnotation
+## MarkupAnnotation constructor
 
-مُنشئ لتعليق التمييز.
+منشئ لتعليقة الترميز.
 
 ```csharp
 public MarkupAnnotation(Document document)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| document | Document | المستند الذي سيتم إنشاء التعليق فيه. |
+| document | Document | Document حيث سيتم إنشاء التعليق التوضيحي. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public MarkupAnnotation(Document document)
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextReplaceOptions.LeftAdjustment
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية خياراتاستبدالالنص. تضبط أو تحصل على تعديل الموضع الأيسر للنص المستبدل عند استخدام خياراتاستبدالالنص  ReplaceAdjustmentAction  IsFormFillingMode
+title: "TextReplaceOptions.LeftAdjustment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextReplaceOptions. يضبط أو يحصل على تعديل موضع اليسار للنص المستبدل عند استخدام TextReplaceOptions  ReplaceAdjustmentAction  IsFormFillingMode"
 type: docs
-weight: 40
+weight: 50
 url: /ar/net/aspose.pdf.text/textreplaceoptions/leftadjustment/
 ---
-## خاصية خياراتاستبدالالنص.تعديلاليسار
+## TextReplaceOptions.LeftAdjustment property
 
-تضبط أو تحصل على تعديل الموضع الأيسر للنص المستبدل عند استخدام خياراتاستبدالالنص: - ReplaceAdjustmentAction = IsFormFillingMode;
+يعيّن أو يحصل على تعديل الموضع الأيسر للنص المستبدل عند استخدام TextReplaceOptions: - ReplaceAdjustmentAction = IsFormFillingMode;
 
 ```csharp
 public double LeftAdjustment { get; set; }
@@ -16,6 +16,8 @@ public double LeftAdjustment { get; set; }
 
 ### انظر أيضًا
 
-* class [خياراتاستبدالالنص](../)
+* class [TextReplaceOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

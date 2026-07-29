@@ -1,14 +1,14 @@
 ---
-title: TruncationStrategy.TruncationStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TruncationStrategy. المُنشئ الافتراضي
+title: "TruncationStrategy.TruncationStrategy"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TruncationStrategy. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/truncationstrategy/truncationstrategy/
 ---
-## مُنشئ TruncationStrategy
+## TruncationStrategy constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public TruncationStrategy()
@@ -19,3 +19,5 @@ public TruncationStrategy()
 * class [TruncationStrategy](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

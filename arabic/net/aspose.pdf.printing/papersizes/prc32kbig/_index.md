@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Prc32KBig
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ورق كبير 32K بحجم 97 مم × 151 مم
+title: "PaperSizes.Prc32KBig"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PaperSizes. ورق كبير 32K 97 مم × 151 مم"
 type: docs
 weight: 830
 url: /ar/net/aspose.pdf.printing/papersizes/prc32kbig/
 ---
-## حقل PaperSizes.Prc32KBig
+## PaperSizes.Prc32KBig field
 
-ورق كبير 32K (97 مم × 151 مم).
+ورق 32K كبير (97 مم × 151 مم).
 
 ```csharp
 public static readonly PaperSize Prc32KBig;
@@ -20,3 +20,5 @@ public static readonly PaperSize Prc32KBig;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

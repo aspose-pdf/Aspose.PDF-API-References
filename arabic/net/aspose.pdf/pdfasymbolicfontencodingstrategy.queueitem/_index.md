@@ -1,37 +1,39 @@
 ---
-title: Class PdfASymbolicFontEncodingStrategy.QueueItem
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.PdfASymbolicFontEncodingStrategyQueueItem. تحدد جدول الترميز الفرعي. يحتوي كل جدول ترميز فرعي على مجموعة فريدة من المعلمات PlatformID و PlatformSpecificId. تم تنفيذ تعداد CMapEncodingTableType و خاصية CMapEncodingTable لتسهيل مجموعة جدول الترميز الفرعي المطلوبة
+title: "الفئة PdfASymbolicFontEncodingStrategy.QueueItem"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.PdfASymbolicFontEncodingStrategyQueueItem. يحدد جدول الترميز الفرعي. كل جدول ترميز فرعي له تركيبة فريدة من المعلمات PlatformID PlatformSpecificId. تم تنفيذ التعداد CMapEncodingTableType والخاصية CMapEncodingTable لتسهيل إعداد جدول الترميز الفرعي المطلوب."
 type: docs
-weight: 8340
+weight: 8480
 url: /ar/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/
 ---
 ## PdfASymbolicFontEncodingStrategy.QueueItem class
 
-تحدد جدول الترميز الفرعي. يحتوي كل جدول ترميز فرعي على مجموعة فريدة من المعلمات (PlatformID، PlatformSpecificId). تم تنفيذ تعداد [`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) و خاصية [`CMapEncodingTable`](./cmapencodingtable/) لتسهيل مجموعة جدول الترميز الفرعي المطلوبة.
+يحدد جدول الترميز الفرعي. كل جدول ترميز فرعي له تركيبة فريدة من المعلمات (PlatformID, PlatformSpecificId). تم تنفيذ التعداد [`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) والخاصية [`CMapEncodingTable`](./cmapencodingtable/) لتسهيل إعداد جدول الترميز الفرعي المطلوب.
 
 ```csharp
 public class QueueItem
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [QueueItem](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/.ctor#constructor)() | المُنشئ، يحدد جدول فرعي ماك (1،0) بشكل افتراضي |
-| [QueueItem](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/.ctor#constructor_1)(CMapEncodingTableType) | المُنشئ |
-| [QueueItem](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/.ctor#constructor_2)(ushort, ushort) | المُنشئ |
+| [QueueItem](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/.ctor#constructor)() | المنشئ، يحدد جدول فرعي mac (1,0) بشكل افتراضي |
+| [QueueItem](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/.ctor#constructor_1)(CMapEncodingTableType) | منشئ |
+| [QueueItem](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/.ctor#constructor_2)(ushort, ushort) | منشئ |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [CMapEncodingTable](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/cmapencodingtable) { get; set; } | تحدد جدول الترميز الفرعي عبر تعداد [`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) |
+| [CMapEncodingTable](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/cmapencodingtable) { get; set; } | يحدد جدول الترميز الفرعي عبر تعداد [`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) |
 | [PlatformId](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/platformid) { get; set; } | معرف المنصة لجدول الترميز الفرعي |
-| [PlatformSpecificId](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/platformspecificid) { get; set; } | معرف الترميز المحدد للمنصة لجدول الترميز الفرعي |
+| [PlatformSpecificId](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/platformspecificid) { get; set; } | معرف الترميز الخاص بالمنصة لجدول الترميز الفرعي |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfASymbolicFontEncodingStrategy](../pdfasymbolicfontencodingstrategy/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

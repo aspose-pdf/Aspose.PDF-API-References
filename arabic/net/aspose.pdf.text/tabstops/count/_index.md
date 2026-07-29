@@ -1,29 +1,31 @@
 ---
-title: TabStops.Count
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TabStops. تقوم بتهيئة مثيل جديد من فئة TabStop بموقع محدد وإضافته إلى مجموعة TabStops
+title: "TabStops.Count"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TabStops. تُنشئ مثيلاً جديدًا لفئة TabStop بالموضع المحدد وتضيفه إلى مجموعة TabStops"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.text/tabstops/count/
 ---
-## خاصية TabStops.Count
+## TabStops.Count property
 
-تقوم بتهيئة مثيل جديد من فئة [`TabStop`](../../tabstop/) بموقع محدد وإضافته إلى مجموعة TabStops.
+تُنشئ مثيلاً جديدًا لفئة [`TabStop`](../../tabstop/) بالموضع المحدد وتضيفه إلى مجموعة TabStops.
 
 ```csharp
 public int Count { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| position | موقع نقطة التوقف. |
+| الموضع | موضع علامة التبويب. |
 
 ### قيمة الإرجاع
 
-كائن [`TabStop`](../../tabstop/) الجديد.
+الكائن الجديد [`TabStop`](../../tabstop/).
 
 ### انظر أيضًا
 
-* فئة [TabStops](../)
-* مساحة الأسماء [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../../)
+* class [TabStops](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

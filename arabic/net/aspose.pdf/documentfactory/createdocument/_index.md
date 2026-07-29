@@ -1,7 +1,7 @@
 ---
-title: DocumentFactory.CreateDocument
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة DocumentFactory. إنشاء مستند
+title: "DocumentFactory.CreateDocument"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة DocumentFactory. إنشاء مستند"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/documentfactory/createdocument/
@@ -14,16 +14,16 @@ url: /ar/net/aspose.pdf/documentfactory/createdocument/
 public Document CreateDocument(Stream input, LoadOptions options)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | input | Stream | تدفق الإدخال. |
 | options | LoadOptions | خيارات تحميل المستند. |
 
-### Return Value
+### قيمة الإرجاع
 
-المستند الذي تم إنشاؤه.
+المستند المُنشأ.
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../document/)
 * class [LoadOptions](../../loadoptions/)
@@ -41,11 +41,11 @@ public Document CreateDocument(Stream input, LoadOptions options)
 public Document CreateDocument()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-المستند الذي تم إنشاؤه.
+المستند المُنشأ.
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../document/)
 * class [DocumentFactory](../)
@@ -56,21 +56,21 @@ public Document CreateDocument()
 
 ## CreateDocument(Stream) {#createdocument_1}
 
-تحميل مستند من تدفق.
+تحميل المستند من تدفق.
 
 ```csharp
 public Document CreateDocument(Stream input)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | input | Stream | تدفق الإدخال. |
 
-### Return Value
+### قيمة الإرجاع
 
-المستند الذي تم إنشاؤه.
+المستند المُنشأ.
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../document/)
 * class [DocumentFactory](../)
@@ -87,16 +87,16 @@ public Document CreateDocument(Stream input)
 public Document CreateDocument(Stream input, string password)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| input | Stream | تدفق المصدر. |
+| input | Stream | دفق المصدر. |
 | password | String | كلمة المرور للوصول إلى المستند. |
 
-### Return Value
+### قيمة الإرجاع
 
-المستند الذي تم إنشاؤه.
+المستند المُنشأ.
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../document/)
 * class [DocumentFactory](../)
@@ -107,23 +107,25 @@ public Document CreateDocument(Stream input, string password)
 
 ## CreateDocument(string) {#createdocument_4}
 
-تحميل مستند من ملف.
+تحميل المستند من ملف.
 
 ```csharp
 public Document CreateDocument(string fileName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fileName | String | اسم ملف PDF. |
 
-### Return Value
+### قيمة الإرجاع
 
-المستند الذي تم إنشاؤه.
+المستند المُنشأ.
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../document/)
 * class [DocumentFactory](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

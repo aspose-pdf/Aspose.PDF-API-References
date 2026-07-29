@@ -1,14 +1,14 @@
 ---
-title: LlamaSummaryCopilotOptions.GetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة LlamaSummaryCopilotOptions. تحصل على خيارات LlamaSummaryCopilotOptions الحالية
+title: "LlamaSummaryCopilotOptions.GetOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة LlamaSummaryCopilotOptions. تحصّل على المثيل الحالي من LlamaSummaryCopilotOptions."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/llamasummarycopilotoptions/getoptions/
 ---
-## طريقة LlamaSummaryCopilotOptions.GetOptions
+## LlamaSummaryCopilotOptions.GetOptions method
 
-تحصل على [`LlamaSummaryCopilotOptions`](../) الحالية.
+تحصّل على المثيل الحالي من [`LlamaSummaryCopilotOptions`](../).
 
 ```csharp
 public LlamaSummaryCopilotOptions GetOptions()
@@ -16,10 +16,12 @@ public LlamaSummaryCopilotOptions GetOptions()
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`LlamaSummaryCopilotOptions`](../).
+المثيل الحالي من [`LlamaSummaryCopilotOptions`](../).
 
 ### انظر أيضًا
 
-* الفئة [LlamaSummaryCopilotOptions](../)
-* مساحة الاسم [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

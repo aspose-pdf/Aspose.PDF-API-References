@@ -1,14 +1,14 @@
 ---
-title: RunCreateRequest.Temperature
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunCreateRequest. تحصل أو تعين درجة حرارة العينة التي يجب استخدامها بين 0 و 2. القيم الأعلى مثل 0.8 ستجعل المخرجات أكثر عشوائية بينما القيم الأقل مثل 0.2 ستجعلها أكثر تركيزًا وحتمية
+title: "RunCreateRequest.Temperature"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RunCreateRequest. يحصل أو يضبط درجة حرارة العينة المستخدمة بين 0 و 2. القيم الأعلى مثل 0.8 تجعل المخرجات أكثر عشوائية بينما القيم الأقل مثل 0.2 تجعلها أكثر تركيزًا وتحديدًا."
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.ai/runcreaterequest/temperature/
 ---
-## خاصية RunCreateRequest.Temperature
+## RunCreateRequest.Temperature property
 
-تحصل أو تعين درجة حرارة العينة التي يجب استخدامها، بين 0 و 2. القيم الأعلى مثل 0.8 ستجعل المخرجات أكثر عشوائية، بينما القيم الأقل مثل 0.2 ستجعلها أكثر تركيزًا وحتمية.
+يحصل أو يضبط درجة حرارة العينة المستخدمة، بين 0 و 2. القيم الأعلى مثل 0.8 تجعل المخرجات أكثر عشوائية، بينما القيم الأقل مثل 0.2 تجعلها أكثر تركيزًا وحتمية.
 
 ```csharp
 public double? Temperature { get; set; }
@@ -19,3 +19,5 @@ public double? Temperature { get; set; }
 * class [RunCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

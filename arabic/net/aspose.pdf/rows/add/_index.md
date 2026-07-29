@@ -1,7 +1,7 @@
 ---
-title: Rows.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Rows. إضافة صف إلى المجموعة
+title: "Rows.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Rows. أضف صفًا إلى المجموعة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/rows/add/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.pdf/rows/add/
 public Row Add()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
 الصف الجديد
 
-### See Also
+### انظر أيضًا
 
 * class [Row](../../row/)
 * class [Rows](../)
@@ -35,13 +35,15 @@ public Row Add()
 public void Add(Row row)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | row | Row | الصف الجديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [Row](../../row/)
 * class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

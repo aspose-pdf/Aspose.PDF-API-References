@@ -1,25 +1,25 @@
 ---
-title: GlyphPosition.GlyphPosition
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ GlyphPosition. ينشئ موضع الجليف
+title: "GlyphPosition.GlyphPosition"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ GlyphPosition. يُنشئ موضع الحرف"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/glyphposition/glyphposition/
 ---
 ## GlyphPosition(string, double) {#constructor_1}
 
-ينشئ موضع الجليف.
+ينشئ موضع الحرف.
 
 ```csharp
 public GlyphPosition(string text, double position)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| text | String | قيمة النص. |
-| position | Double | قيمة الموضع. |
+| نص | String | قيمة النص. |
+| الموضع | Double | قيمة الموضع. |
 
-### See Also
+### انظر أيضًا
 
 * class [GlyphPosition](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -29,18 +29,20 @@ public GlyphPosition(string text, double position)
 
 ## GlyphPosition(string) {#constructor}
 
-منشئ موضع الجليف.
+منشئ لـ Glyph Position.
 
 ```csharp
 public GlyphPosition(string text)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| text | String | قيمة النص. |
+| نص | String | قيمة النص. |
 
-### See Also
+### انظر أيضًا
 
 * class [GlyphPosition](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

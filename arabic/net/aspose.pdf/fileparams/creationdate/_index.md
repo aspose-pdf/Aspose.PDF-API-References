@@ -1,14 +1,14 @@
 ---
-title: FileParams.CreationDate
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FileParams. التاريخ والوقت الذي تم فيه إنشاء الملف المضمن
+title: "FileParams.CreationDate"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FileParams. التاريخ والوقت عندما تم إنشاء الملف المضمن"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/fileparams/creationdate/
 ---
-## خاصية FileParams.CreationDate
+## FileParams.CreationDate property
 
-التاريخ والوقت الذي تم فيه إنشاء الملف المضمن.
+التاريخ والوقت عندما تم إنشاء الملف المضمن.
 
 ```csharp
 public DateTime CreationDate { get; set; }
@@ -19,3 +19,5 @@ public DateTime CreationDate { get; set; }
 * class [FileParams](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

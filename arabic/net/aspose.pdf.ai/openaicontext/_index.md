@@ -1,35 +1,37 @@
 ---
-title: Class OpenAIContext
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.OpenAIContext. تمثل معرفات الكيانات المتعلقة بالمساعد
+title: "الفئة OpenAIContext"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.AI.OpenAIContext. تمثل معرفات الكيانات المتعلقة بمساعد."
 type: docs
-weight: 860
+weight: 920
 url: /ar/net/aspose.pdf.ai/openaicontext/
 ---
 ## OpenAIContext class
 
-تمثل معرفات الكيانات المتعلقة بالمساعد.
+يمثل معرفات الكيانات المتعلقة بالمساعد.
 
 ```csharp
 public class OpenAIContext
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [OpenAIContext](openaicontext/)() | المُنشئ الافتراضي. |
+| [OpenAIContext](openaicontext/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [AssistantId](../../aspose.pdf.ai/openaicontext/assistantid/) { get; set; } | يحصل على أو يحدد معرف المساعد. |
-| [FileIds](../../aspose.pdf.ai/openaicontext/fileids/) { get; set; } | يحصل على أو يحدد قائمة معرفات الملفات. |
-| [ThreadId](../../aspose.pdf.ai/openaicontext/threadid/) { get; set; } | يحصل على أو يحدد معرف الخيط. |
-| [VectorStoreId](../../aspose.pdf.ai/openaicontext/vectorstoreid/) { get; set; } | يحصل على أو يحدد معرف متجر المتجهات. |
+| [AssistantId](../../aspose.pdf.ai/openaicontext/assistantid/) { get; set; } | يحصل أو يضبط معرف المساعد. |
+| [FileIds](../../aspose.pdf.ai/openaicontext/fileids/) { get; set; } | يحصل أو يضبط قائمة بمعرفات الملفات. |
+| [ThreadId](../../aspose.pdf.ai/openaicontext/threadid/) { get; set; } | يحصل أو يضبط معرف السلسلة. |
+| [VectorStoreId](../../aspose.pdf.ai/openaicontext/vectorstoreid/) { get; set; } | يحصل أو يضبط معرف مخزن المتجهات. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

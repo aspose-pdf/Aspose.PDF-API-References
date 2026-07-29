@@ -1,14 +1,14 @@
 ---
-title: PdfFileSanitization.UseRebuildXrefAndTrailer
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileSanitization. يسمح بإنشاء xref و trailer جديدة للمستند
+title: "PdfFileSanitization.UseRebuildXrefAndTrailer"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileSanitization. تسمح بإنشاء xref وتذييل جديد للمستند"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.facades/pdffilesanitization/userebuildxrefandtrailer/
 ---
-## خاصية PdfFileSanitization.UseRebuildXrefAndTrailer
+## PdfFileSanitization.UseRebuildXrefAndTrailer property
 
-يسمح بإنشاء xref و trailer جديدة للمستند.
+يسمح بإنشاء xref جديد وملحق (trailer) للمستند.
 
 ```csharp
 public bool UseRebuildXrefAndTrailer { get; set; }
@@ -19,3 +19,5 @@ public bool UseRebuildXrefAndTrailer { get; set; }
 * class [PdfFileSanitization](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

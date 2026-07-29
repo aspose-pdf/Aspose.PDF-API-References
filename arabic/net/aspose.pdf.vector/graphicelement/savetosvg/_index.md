@@ -1,24 +1,24 @@
 ---
-title: GraphicElement.SaveToSvg
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة GraphicElement. تحول العنصر إلى صورة SVG واحدة
+title: "GraphicElement.SaveToSvg"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة GraphicElement. يحول العنصر إلى صورة SVG واحدة"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.vector/graphicelement/savetosvg/
 ---
 ## SaveToSvg() {#savetosvg}
 
-تحول العنصر إلى صورة SVG واحدة.
+يحوّل العنصر إلى صورة SVG واحدة.
 
 ```csharp
 public string SaveToSvg()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
 سلسلة SVG.
 
-### See Also
+### انظر أيضًا
 
 * class [GraphicElement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
@@ -28,18 +28,20 @@ public string SaveToSvg()
 
 ## SaveToSvg(string) {#savetosvg_1}
 
-تحول العنصر إلى ملف صورة SVG واحدة.
+يحوّل العنصر إلى ملف صورة SVG واحد.
 
 ```csharp
 public void SaveToSvg(string svgFilePath)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | svgFilePath | String | مسار الملف لحفظ صورة SVG. |
 
-### See Also
+### انظر أيضًا
 
 * class [GraphicElement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

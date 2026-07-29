@@ -1,22 +1,22 @@
 ---
-title: GraphicElementCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية GraphicElementCollection. يحصل على عنصر GraphicElement في الفهرس المحدد
+title: "GraphicElementCollection.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية GraphicElementCollection. تُرجِع العنصر GraphicElement عند الفهرس المحدد"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.vector/graphicelementcollection/item/
 ---
-## فهرس GraphicElementCollection
+## GraphicElementCollection indexer
 
-يحصل على عنصر [`GraphicElement`](../../graphicelement/) في الفهرس المحدد.
+تُرجِع العنصر [`GraphicElement`](../../graphicelement/) عند الفهرس المحدد.
 
 ```csharp
 public GraphicElement this[int index] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| index | الفهرس داخل المجموعة. |
+| index | Index within the collection. |
 
 ### قيمة الإرجاع
 
@@ -28,3 +28,5 @@ public GraphicElement this[int index] { get; }
 * class [GraphicElementCollection](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

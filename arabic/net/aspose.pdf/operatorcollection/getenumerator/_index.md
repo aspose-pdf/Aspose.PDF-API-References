@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OperatorCollection. تعيد عدادًا للمجموعة
+title: "OperatorCollection.GetEnumerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OperatorCollection. تُرجع مُعددًا للمجموعة"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf/operatorcollection/getenumerator/
 ---
-## طريقة OperatorCollection.GetEnumerator
+## OperatorCollection.GetEnumerator method
 
-تعيد عدادًا للمجموعة
+يعيد المُعدِّد للمجموعة
 
 ```csharp
 public override IEnumerator<Operator> GetEnumerator()
@@ -16,7 +16,7 @@ public override IEnumerator<Operator> GetEnumerator()
 
 ### قيمة الإرجاع
 
-عداد المجموعة
+مُعدد المجموعة
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public override IEnumerator<Operator> GetEnumerator()
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

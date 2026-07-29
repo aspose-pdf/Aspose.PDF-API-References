@@ -1,24 +1,24 @@
 ---
-title: SaveOptions.MarginPartStyle.MarginPartStyle
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ MarginPartStyle. ينشئ مثيلًا من فئة MarginPartStyle ويحدد قيمته بالنقاط
+title: "SaveOptions.MarginPartStyle.MarginPartStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ MarginPartStyle. ينشئ مثيلاً من الفئة MarginPartStyle ويضبط قيمته بالنقاط"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/saveoptions.marginpartstyle/marginpartstyle/
 ---
 ## MarginPartStyle(int) {#constructor_1}
 
-ينشئ مثيلًا من فئة MarginPartStyle ويحدد قيمته بالنقاط
+إنشاء نسخة من الفئة MarginPartStyle وتعيين قيمتها بالنقاط
 
 ```csharp
 public MarginPartStyle(int valueInPoints)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| valueInPoints | Int32 | قيمة صحيحة بالنقاط |
+| valueInPoints | Int32 | قيمة Integer بالنقاط |
 
-### See Also
+### انظر أيضًا
 
 * class [MarginPartStyle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -28,18 +28,20 @@ public MarginPartStyle(int valueInPoints)
 
 ## MarginPartStyle(bool) {#constructor}
 
-ينشئ مثيلًا من فئة MarginPartStyle ويهيئ قيمته بالنقاط
+إنشاء مثيل من الفئة MarginPartStyle وتهيئة قيمته بالنقاط
 
 ```csharp
 public MarginPartStyle(bool isAuto)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| isAuto | Boolean | علامة الهامش تلقائي |
+| isAuto | Boolean | تحديد الهوامش تلقائيًا |
 
-### See Also
+### انظر أيضًا
 
 * class [MarginPartStyle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

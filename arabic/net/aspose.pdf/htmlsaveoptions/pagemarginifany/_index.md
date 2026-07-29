@@ -1,22 +1,24 @@
 ---
-title: HtmlSaveOptions.PageMarginIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: حقل HtmlSaveOptions. يمثل هذا السمة مجموعة من الهوامش الإضافية للصفحة إذا كانت موجودة في مستند HTML الناتج حول المنطقة التي تمثل صفحة PDF المصدر
+title: "HtmlSaveOptions.PageMarginIfAny"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل HtmlSaveOptions. تمثل هذه السمة مجموعة من الهوامش الإضافية للصفحة إن وجدت في مستند HTML الناتج حول المنطقة التي تمثل صفحة PDF المصدر"
 type: docs
 weight: 370
 url: /ar/net/aspose.pdf/htmlsaveoptions/pagemarginifany/
 ---
 ## HtmlSaveOptions.PageMarginIfAny field
 
-يمثل هذا السمة مجموعة من الهوامش الإضافية للصفحة (إذا كانت موجودة) في مستند HTML الناتج حول المنطقة التي تمثل صفحة PDF المصدر.
+هذه السمة تمثل مجموعة من الهوامش الإضافية للصفحة (إن وجدت) في مستند HTML الناتج حول المنطقة التي تمثل صفحة PDF الأصلية.
 
 ```csharp
 public MarginInfo PageMarginIfAny;
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [MarginInfo](../../saveoptions.margininfo/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

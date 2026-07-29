@@ -1,14 +1,14 @@
 ---
-title: Class Layer
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Layer. تمثل طبقة داخل صفحة PDF
+title: "Class Layer"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Layer. تمثّل طبقة داخل صفحة PDF."
 type: docs
-weight: 6060
+weight: 6190
 url: /ar/net/aspose.pdf/layer/
 ---
-## فئة الطبقة
+## Layer class
 
-تمثل طبقة داخل صفحة PDF.
+يمثل طبقة داخل صفحة PDF.
 
 ```csharp
 public class Layer
@@ -18,7 +18,7 @@ public class Layer
 
 | الاسم | الوصف |
 | --- | --- |
-| [Layer](layer/)(string, string) | يقوم بتهيئة مثيل جديد من فئة `Layer`. |
+| [Layer](layer/)(string, string) | يُنشئ مثيلًا جديدًا من الفئة `Layer`. |
 
 ## الخصائص
 
@@ -36,11 +36,13 @@ public class Layer
 | [Delete](../../aspose.pdf/layer/delete/)() | يحذف الطبقة الحالية من مستند PDF. |
 | [Flatten](../../aspose.pdf/layer/flatten/)(bool) | يقوم بتسطيح الطبقة المحددة. |
 | [Lock](../../aspose.pdf/layer/lock/)() | يقفل الطبقة. |
-| [Save](../../aspose.pdf/layer/save/#save)(Stream) | يحفظ الطبقة الحالية في مستند PDF. |
-| [Save](../../aspose.pdf/layer/save/#save_1)(string) | يحفظ الطبقة الحالية في مستند PDF. |
-| [Unlock](../../aspose.pdf/layer/unlock/)() | يفتح قفل الطبقة. |
+| [Save](../../aspose.pdf/layer/save/#save)(Stream) | يحفظ الطبقة الحالية إلى مستند PDF. |
+| [Save](../../aspose.pdf/layer/save/#save_1)(string) | يحفظ الطبقة الحالية إلى مستند PDF. |
+| [Unlock](../../aspose.pdf/layer/unlock/)() | يفك قفل الطبقة. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

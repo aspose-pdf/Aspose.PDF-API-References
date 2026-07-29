@@ -1,7 +1,7 @@
 ---
-title: PaperSizes.JapaneseEnvelopeChouNumber4
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ظرف ياباني Chou 4
+title: "PaperSizes.JapaneseEnvelopeChouNumber4"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ظرف ياباني تشو 4"
 type: docs
 weight: 520
 url: /ar/net/aspose.pdf.printing/papersizes/japaneseenvelopechounumber4/
@@ -14,9 +14,11 @@ url: /ar/net/aspose.pdf.printing/papersizes/japaneseenvelopechounumber4/
 public static readonly PaperSize JapaneseEnvelopeChouNumber4;
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PaperSize](../../papersize/)
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

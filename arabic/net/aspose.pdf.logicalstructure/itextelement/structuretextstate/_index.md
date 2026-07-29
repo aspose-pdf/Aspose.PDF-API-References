@@ -1,22 +1,22 @@
 ---
-title: ITextElement.StructureTextState
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ITextElement. تحصل على كائن StructureTextState لعنصر هيكل النص
+title: "ITextElement.StructureTextState"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ITextElement. يحصل على كائن StructureTextState لعنصر بنية النص"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.logicalstructure/itextelement/structuretextstate/
 ---
-## خاصية ITextElement.StructureTextState
+## ITextElement.StructureTextState property
 
-تحصل على كائن StructureTextState لعنصر هيكل النص.
+يحصل على كائن StructureTextState لعنصر بنية النص.
 
 ```csharp
 public StructureTextState StructureTextState { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-كائن StructureTextState لعنصر هيكل النص.
+كائن StructureTextState لعنصر بنية النص.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public StructureTextState StructureTextState { get; }
 * interface [ITextElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

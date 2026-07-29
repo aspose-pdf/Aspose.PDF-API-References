@@ -1,14 +1,14 @@
 ---
-title: FontCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FontCollection. تحصل على عدد عناصر كائن Font الموجودة فعليًا في المجموعة
+title: "FontCollection.Count"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FontCollection. يحصل على عدد عناصر كائنات Font الموجودة فعليًا في المجموعة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/fontcollection/count/
 ---
-## خاصية FontCollection.Count
+## FontCollection.Count property
 
-تحصل على عدد عناصر كائن [`Font`](../../font/) الموجودة فعليًا في المجموعة.
+يحصل على عدد عناصر كائن [`Font`](../../font/) الموجودة فعليًا في المجموعة.
 
 ```csharp
 public int Count { get; }
@@ -19,3 +19,5 @@ public int Count { get; }
 * class [FontCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

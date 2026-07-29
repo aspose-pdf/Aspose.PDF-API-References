@@ -1,14 +1,14 @@
 ---
-title: AnnotationCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة AnnotationCollection. تعيد عداد المجموعة
+title: "AnnotationCollection.GetEnumerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة AnnotationCollection. تُرجع enumerator للمجموعة."
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.annotations/annotationcollection/getenumerator/
 ---
-## طريقة AnnotationCollection.GetEnumerator
+## AnnotationCollection.GetEnumerator method
 
-تعيد عداد المجموعة.
+يرجع عداد المجموعة.
 
 ```csharp
 public IEnumerator<Annotation> GetEnumerator()
@@ -16,7 +16,7 @@ public IEnumerator<Annotation> GetEnumerator()
 
 ### قيمة الإرجاع
 
-كائن العداد
+كائن تعداد
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public IEnumerator<Annotation> GetEnumerator()
 * class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

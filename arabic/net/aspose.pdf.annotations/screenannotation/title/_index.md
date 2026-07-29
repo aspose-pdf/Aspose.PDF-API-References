@@ -1,14 +1,14 @@
 ---
-title: ScreenAnnotation.Title
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ScreenAnnotation. تحصل على أو تعين عنوان التعليق على الشاشة
+title: "ScreenAnnotation.Title"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ScreenAnnotation. تحصل أو تعين عنوان التعليق التوضيحي للشاشة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/screenannotation/title/
 ---
-## خاصية ScreenAnnotation.Title
+## ScreenAnnotation.Title property
 
-تحصل على أو تعين عنوان التعليق على الشاشة.
+يحصل أو يضبط عنوان التعليق التوضيحي للشاشة.
 
 ```csharp
 public string Title { get; set; }
@@ -19,3 +19,5 @@ public string Title { get; set; }
 * class [ScreenAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

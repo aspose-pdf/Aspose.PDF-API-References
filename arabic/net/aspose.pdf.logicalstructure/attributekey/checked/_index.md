@@ -1,12 +1,12 @@
 ---
-title: AttributeKey.Checked
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeKey. خاصية Checked مالك خاصية PrintField
+title: "AttributeKey.Checked"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "AttributeKey حقل. Checked سمة PrintField سمة المالك"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/checked/
 ---
-## حقل AttributeKey.Checked
+## AttributeKey.Checked field
 
 خاصية Checked (مالك خاصية PrintField).
 
@@ -19,3 +19,5 @@ public static readonly AttributeKey Checked;
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

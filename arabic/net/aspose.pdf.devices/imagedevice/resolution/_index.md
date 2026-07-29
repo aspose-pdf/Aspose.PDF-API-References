@@ -1,14 +1,14 @@
 ---
-title: ImageDevice.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ImageDevice. تحصل على دقة الصورة
+title: "ImageDevice.Resolution"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ImageDevice. تحصل على دقة الصورة"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.devices/imagedevice/resolution/
 ---
-## خاصية ImageDevice.Resolution
+## ImageDevice.Resolution property
 
-تحصل على دقة الصورة.
+يحصل على دقة الصورة.
 
 ```csharp
 public Resolution Resolution { get; }
@@ -20,3 +20,5 @@ public Resolution Resolution { get; }
 * class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

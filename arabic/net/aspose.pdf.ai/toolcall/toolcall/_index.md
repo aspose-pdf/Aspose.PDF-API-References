@@ -1,14 +1,14 @@
 ---
-title: ToolCall.ToolCall
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ToolCall. المُنشئ الافتراضي
+title: "ToolCall.ToolCall"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ToolCall. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/toolcall/toolcall/
 ---
-## مُنشئ ToolCall
+## ToolCall constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public ToolCall()
@@ -19,3 +19,5 @@ public ToolCall()
 * class [ToolCall](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

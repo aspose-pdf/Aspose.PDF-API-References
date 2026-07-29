@@ -1,14 +1,14 @@
 ---
-title: TextSegmentCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TextSegmentCollection. تُرجع عدادًا للمجموعة بأكملها
+title: "TextSegmentCollection.GetEnumerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TextSegmentCollection. تُرجِع مُعدِّدًا للمجموعة بالكامل"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.text/textsegmentcollection/getenumerator/
 ---
-## طريقة TextSegmentCollection.GetEnumerator
+## TextSegmentCollection.GetEnumerator method
 
-تُرجع عدادًا للمجموعة بأكملها.
+يرجع عدّادًا للمجموعة بالكامل.
 
 ```csharp
 public IEnumerator<TextSegment> GetEnumerator()
@@ -16,7 +16,7 @@ public IEnumerator<TextSegment> GetEnumerator()
 
 ### قيمة الإرجاع
 
-كائن العداد.
+Enumerator object.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public IEnumerator<TextSegment> GetEnumerator()
 * class [TextSegmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

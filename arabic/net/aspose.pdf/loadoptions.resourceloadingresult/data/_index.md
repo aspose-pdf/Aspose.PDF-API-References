@@ -1,12 +1,12 @@
 ---
-title: LoadOptions.ResourceLoadingResult.Data
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ResourceLoadingResult. بيانات ثنائية تم تحميلها باستخدام محمل مخصص يجب تعيينها بعد التحميل
+title: "LoadOptions.ResourceLoadingResult.Data"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ResourceLoadingResult. البيانات الثنائية التي تم تحميلها باستخدام محمل مخصص يجب تعيينها بعد التحميل"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/loadoptions.resourceloadingresult/data/
 ---
-## خاصية LoadOptions.ResourceLoadingResult.Data
+## LoadOptions.ResourceLoadingResult.Data property
 
 بيانات ثنائية تم تحميلها باستخدام محمل مخصص - يجب تعيينها بعد التحميل
 
@@ -19,3 +19,5 @@ public byte[] Data { get; }
 * class [ResourceLoadingResult](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

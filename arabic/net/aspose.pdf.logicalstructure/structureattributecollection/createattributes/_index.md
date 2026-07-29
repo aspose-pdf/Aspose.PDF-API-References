@@ -1,26 +1,26 @@
 ---
-title: StructureAttributeCollection.CreateAttributes
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة StructureAttributeCollection. إنشاء وإرجاع StructureAttributes لعنصر الهيكل بواسطة مالك السمة القياسية
+title: "StructureAttributeCollection.CreateAttributes"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة StructureAttributeCollection. إنشاء وإرجاع StructureAttributes لعنصر البنية بواسطة مالك السمة القياسي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.logicalstructure/structureattributecollection/createattributes/
 ---
-## طريقة StructureAttributeCollection.CreateAttributes
+## StructureAttributeCollection.CreateAttributes method
 
-إنشاء وإرجاع [`StructureAttributes`](../../structureattributes/) لعنصر الهيكل بواسطة مالك السمة القياسية.
+إنشاء وإرجاع [`StructureAttributes`](../../structureattributes/) لعنصر البنية بواسطة مالك السمة القياسي.
 
 ```csharp
 public StructureAttributes CreateAttributes(AttributeOwnerStandard ownerStandard)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| ownerStandard | AttributeOwnerStandard | مالك السمة القياسية. |
+| ownerStandard | AttributeOwnerStandard | مالك السمة القياسي. |
 
 ### قيمة الإرجاع
 
-[`StructureAttributes`](../../structureattributes/) لعنصر الهيكل. سيتم إنشاء سمات الهيكل إذا لزم الأمر.
+[`StructureAttributes`](../../structureattributes/) of structure element. Structure Attributes will be created if it needed.
 
 ### انظر أيضًا
 
@@ -29,3 +29,5 @@ public StructureAttributes CreateAttributes(AttributeOwnerStandard ownerStandard
 * class [StructureAttributeCollection](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RunResponse.Temperature
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunResponse. تحصل أو تضبط درجة الحرارة المستخدمة في هذه العملية. إذا لم يتم تعيينها، فإنها تعود إلى 1
+title: "RunResponse.Temperature"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RunResponse. تحصل أو تعين درجة حرارة العينة المستخدمة لهذا التنفيذ. إذا لم يتم تعيينها، الافتراضي هو 1"
 type: docs
 weight: 210
 url: /ar/net/aspose.pdf.ai/runresponse/temperature/
 ---
-## خاصية RunResponse.Temperature
+## RunResponse.Temperature property
 
-تحصل أو تضبط درجة الحرارة المستخدمة في هذه العملية. إذا لم يتم تعيينها، فإنها تعود إلى 1.
+يحصل أو يعيّن درجة حرارة العينة المستخدمة لهذا التشغيل. إذا لم يتم ضبطها، يكون الافتراضي 1.
 
 ```csharp
 public double? Temperature { get; set; }
@@ -19,3 +19,5 @@ public double? Temperature { get; set; }
 * class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,36 +1,38 @@
 ---
-title: Class CreateEmbeddingRequest
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.CreateEmbeddingRequest. تمثل طلبًا لنقطة نهاية إنشاء التضمينات
+title: "الفئة CreateEmbeddingRequest"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.AI.CreateEmbeddingRequest. تمثل طلبًا لنقطة النهاية Create Embeddings"
 type: docs
-weight: 260
+weight: 270
 url: /ar/net/aspose.pdf.ai/createembeddingrequest/
 ---
 ## CreateEmbeddingRequest class
 
-تمثل طلبًا لنقطة نهاية إنشاء التضمينات.
+يمثل طلبًا لنقطة النهاية Create Embeddings.
 
 ```csharp
 public class CreateEmbeddingRequest
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [CreateEmbeddingRequest](createembeddingrequest/)() | المُنشئ الافتراضي. |
+| [CreateEmbeddingRequest](createembeddingrequest/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Dimensions](../../aspose.pdf.ai/createembeddingrequest/dimensions/) { get; set; } | يحصل أو يحدد عدد الأبعاد التي يجب أن تحتوي عليها التضمينات الناتجة. مدعوم فقط في النماذج text-embedding-3 وما بعدها. |
-| [EncodingFormat](../../aspose.pdf.ai/createembeddingrequest/encodingformat/) { get; set; } | يحصل أو يحدد التنسيق لإرجاع التضمينات. يمكن أن يكون إما float أو base64. |
-| [Input](../../aspose.pdf.ai/createembeddingrequest/input/) { get; set; } | يحصل أو يحدد نص الإدخال للتضمين، مشفر كسلسلة أو مصفوفة من الرموز. لتضمين مدخلات متعددة في طلب واحد، مرر مصفوفة من السلاسل أو مصفوفة من مصفوفات الرموز. يجب ألا يتجاوز الإدخال الحد الأقصى لرموز الإدخال للنموذج (8192 رمز للنموذج text-embedding-ada-002)، ولا يمكن أن يكون سلسلة فارغة، ويجب أن تكون أي مصفوفة 2048 بعدًا أو أقل. |
-| [Model](../../aspose.pdf.ai/createembeddingrequest/model/) { get; set; } | يحصل أو يحدد النموذج لإنشاء التضمين له. |
-| [User](../../aspose.pdf.ai/createembeddingrequest/user/) { get; set; } | يحصل أو يحدد معرفًا فريدًا يمثل المستخدم النهائي الخاص بك، مما يمكن أن يساعد OpenAI في مراقبة واكتشاف الإساءة. |
+| [Dimensions](../../aspose.pdf.ai/createembeddingrequest/dimensions/) { get; set; } | يحصل أو يضبط عدد الأبعاد التي يجب أن تحتويها المخرجات المتجهة الناتجة. يدعم فقط في نماذج text-embedding-3 وما بعدها. |
+| [EncodingFormat](../../aspose.pdf.ai/createembeddingrequest/encodingformat/) { get; set; } | يحصل أو يضبط الصيغة التي تُرجع بها المتجهات. يمكن أن تكون إما float أو base64. |
+| [Input](../../aspose.pdf.ai/createembeddingrequest/input/) { get; set; } | يحصل أو يضبط نص الإدخال لتضمينه، مُشفّر كسلسلة أو مصفوفة من الرموز. لتضمين مدخلات متعددة في طلب واحد، مرّر مصفوفة من السلاسل أو مصفوفة من مصفوفات الرموز. يجب ألا يتجاوز الإدخال الحد الأقصى لعدد الرموز للنموذج (8192 رمزًا لـ text-embedding-ada-002)، ولا يمكن أن يكون سلسلة فارغة، ويجب أن تكون أي مصفوفة بحد أقصى 2048 بُعد أو أقل. |
+| [Model](../../aspose.pdf.ai/createembeddingrequest/model/) { get; set; } | يحصل أو يضبط النموذج الذي يُولَّد المتجه من أجله. |
+| [User](../../aspose.pdf.ai/createembeddingrequest/user/) { get; set; } | يحصل أو يضبط معرّفًا فريدًا يمثل المستخدم النهائي الخاص بك، مما يمكن OpenAI من مراقبة واكتشاف الإساءة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

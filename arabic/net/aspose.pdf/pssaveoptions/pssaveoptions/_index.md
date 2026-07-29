@@ -1,14 +1,14 @@
 ---
-title: PsSaveOptions.PsSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PsSaveOptions. المُنشئ
+title: "PsSaveOptions.PsSaveOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PsSaveOptions. المنشئ"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/pssaveoptions/pssaveoptions/
 ---
 ## PsSaveOptions() {#constructor}
 
-المُنشئ.
+منشئ.
 
 ```csharp
 public PsSaveOptions()
@@ -24,13 +24,13 @@ public PsSaveOptions()
 
 ## PsSaveOptions(SaveFormat) {#constructor_1}
 
-المُنشئ.
+منشئ.
 
 ```csharp
 public PsSaveOptions(SaveFormat saveFormat)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | saveFormat | SaveFormat | تنسيق الحفظ. |
 
@@ -40,3 +40,5 @@ public PsSaveOptions(SaveFormat saveFormat)
 * class [PsSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

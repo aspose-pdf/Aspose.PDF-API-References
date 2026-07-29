@@ -1,27 +1,29 @@
 ---
-title: Class PageNumber.PageIndex
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.PageNumberPageIndex. تمثل مكون فهرس الصفحة في تنسيق رقم الصفحة
+title: "الفئة PageNumber.PageIndex"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.PageNumberPageIndex. تمثل مكوّن فهرس الصفحة في تنسيق رقم الصفحة"
 type: docs
-weight: 8210
+weight: 8350
 url: /ar/net/aspose.pdf/pagenumber.pageindex/
 ---
 ## PageNumber.PageIndex class
 
-تمثل مكون فهرس الصفحة في تنسيق رقم الصفحة.
+تمثل مكوّن فهرس الصفحة في تنسيق رقم الصفحة.
 
 ```csharp
 public sealed class PageIndex
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [PageIndex](../../aspose.pdf/pagenumber.pageindex/.ctor)() | المُنشئ الافتراضي. |
+| [PageIndex](../../aspose.pdf/pagenumber.pageindex/.ctor)() | البناء الافتراضي. |
 
-### See Also
+### انظر أيضًا
 
 * class [PageNumber](../pagenumber/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

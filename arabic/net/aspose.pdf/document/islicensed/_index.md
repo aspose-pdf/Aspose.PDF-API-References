@@ -1,14 +1,14 @@
 ---
-title: Document.IsLicensed
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. تحصل على حالة الترخيص للنظام. تعيد true إذا كان النظام يعمل في وضع الترخيص و false خلاف ذلك
+title: "Document.IsLicensed"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. يحصل على حالة الترخيص للنظام. تُعيد true إذا كان النظام يعمل في وضع مرخص و false خلاف ذلك"
 type: docs
-weight: 910
+weight: 930
 url: /ar/net/aspose.pdf/document/islicensed/
 ---
-## خاصية Document.IsLicensed
+## Document.IsLicensed property
 
-تحصل على حالة الترخيص للنظام. تعيد true إذا كان النظام يعمل في وضع الترخيص و false خلاف ذلك.
+يحصل على حالة الترخيص للنظام. يُعيد true إذا كان النظام يعمل في وضع الترخيص وfalse غير ذلك.
 
 ```csharp
 public static bool IsLicensed { get; }
@@ -19,3 +19,5 @@ public static bool IsLicensed { get; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

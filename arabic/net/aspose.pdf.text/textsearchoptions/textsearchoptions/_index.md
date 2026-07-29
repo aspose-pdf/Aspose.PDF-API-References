@@ -1,22 +1,22 @@
 ---
-title: TextSearchOptions.TextSearchOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ خيارات بحث النصوص. يقوم بتهيئة مثيل جديد من كائن خيارات بحث النصوص. يحدد وضع استخدام التعبيرات العادية
+title: "TextSearchOptions.TextSearchOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TextSearchOptions. يهيئ نسخة جديدة من كائن TextSearchOptions. يحدد وضع استخدام التعبير النمطي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/textsearchoptions/textsearchoptions/
 ---
-## خيارات بحث النصوص(bool) {#constructor_2}
+## TextSearchOptions(bool) {#constructor_2}
 
-يهيئ مثيل جديد من كائن [`TextSearchOptions`](../). يحدد وضع استخدام التعبيرات العادية.
+يُهيئ نسخة جديدة من كائن [`TextSearchOptions`](../). يحدد وضع استخدام التعبير النمطي.
 
 ```csharp
 public TextSearchOptions(bool isRegularExpressionUsed)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| isRegularExpressionUsed | Boolean | قيمة تشير إلى أنه يتم استخدام التعبير العادي. |
+| isRegularExpressionUsed | Boolean | القيمة التي تشير إلى أن التعبير النمطي مستخدم. |
 
 ### انظر أيضًا
 
@@ -26,17 +26,17 @@ public TextSearchOptions(bool isRegularExpressionUsed)
 
 ---
 
-## خيارات بحث النصوص(Rectangle) {#constructor}
+## TextSearchOptions(Rectangle) {#constructor}
 
-يهيئ مثيل جديد من كائن [`TextSearchOptions`](../). يحدد المستطيل الذي يحدد النص المطلوب البحث عنه.
+ينشئ مثيلاً جديدًا لكائن [`TextSearchOptions`](../). يحدد المستطيل الذي يحد النص المُبحث عنه.
 
 ```csharp
 public TextSearchOptions(Rectangle rectangle)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| rectangle | Rectangle | مستطيل يتضمن النص المستخرج. |
+| مستطيل | Rectangle | Rectangle الذي يتضمن النص المستخرج. |
 
 ### انظر أيضًا
 
@@ -47,18 +47,18 @@ public TextSearchOptions(Rectangle rectangle)
 
 ---
 
-## خيارات بحث النصوص(Rectangle, bool) {#constructor_1}
+## TextSearchOptions(Rectangle, bool) {#constructor_1}
 
-يهيئ مثيل جديد من كائن [`TextSearchOptions`](../). يحدد المستطيل الذي يحدد النص المطلوب البحث عنه ووضع استخدام التعبيرات العادية.
+ينشئ مثيلاً جديدًا لكائن [`TextSearchOptions`](../). يحدد المستطيل الذي يحد النص المُبحث عنه ووضع استخدام التعبير النمطي.
 
 ```csharp
 public TextSearchOptions(Rectangle rectangle, bool isRegularExpressionUsed)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| rectangle | Rectangle | مستطيل يتضمن النص المستخرج. |
-| isRegularExpressionUsed | Boolean | قيمة تشير إلى أنه يتم استخدام التعبير العادي. |
+| مستطيل | Rectangle | Rectangle الذي يتضمن النص المستخرج. |
+| isRegularExpressionUsed | Boolean | القيمة التي تشير إلى أن التعبير النمطي مستخدم. |
 
 ### انظر أيضًا
 
@@ -66,3 +66,5 @@ public TextSearchOptions(Rectangle rectangle, bool isRegularExpressionUsed)
 * class [TextSearchOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

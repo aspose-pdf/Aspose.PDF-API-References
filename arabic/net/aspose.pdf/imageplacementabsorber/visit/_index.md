@@ -1,24 +1,24 @@
 ---
-title: ImagePlacementAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ImagePlacementAbsorber. تقوم بإجراء بحث على الصفحة المحددة
+title: "ImagePlacementAbsorber.Visit"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ImagePlacementAbsorber. تقوم بالبحث في الصفحة المحددة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/imageplacementabsorber/visit/
 ---
 ## Visit(Page) {#visit_1}
 
-تقوم بإجراء بحث على الصفحة المحددة.
+ينفّذ البحث على الصفحة المحددة.
 
 ```csharp
 public void Visit(Page page)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | كائن صفحة مستند PDF. |
+| صفحة | صفحة | كائن صفحة مستند Pdf. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../page/)
 * class [ImagePlacementAbsorber](../)
@@ -29,19 +29,21 @@ public void Visit(Page page)
 
 ## Visit(Document) {#visit}
 
-تقوم بإجراء بحث على المستند المحدد.
+ينفّذ البحث على المستند المحدد.
 
 ```csharp
 public void Visit(Document pdf)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pdf | Document | كائن مستند PDF. |
+| pdf | Document | كائن Pdf pocument. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../document/)
 * class [ImagePlacementAbsorber](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

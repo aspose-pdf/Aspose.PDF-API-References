@@ -1,23 +1,23 @@
 ---
-title: Rectangle.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ المستطيل. مُنشئ المستطيل
+title: "Rectangle.Rectangle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Rectangle. منشئ Rectangle"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/rectangle/rectangle/
 ---
-## مُنشئ المستطيل
+## Rectangle constructor
 
-مُنشئ المستطيل.
+منشئ Rectangle.
 
 ```csharp
 public Rectangle(double llx, double lly, double urx, double ury, bool normalizeCoordinates = true)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| llx | Double | X للزاوية السفلى اليسرى. |
-| lly | Double | Y للزاوية السفلى اليسرى. |
+| llx | Double | X للزاوية السفلية اليسرى. |
+| lly | Double | Y للزاوية السفلية اليسرى. |
 | urx | Double | X للزاوية العليا اليمنى. |
 | ury | Double | Y للزاوية العليا اليمنى. |
 | normalizeCoordinates | Boolean | تطبيع إحداثيات المستطيل. |
@@ -27,3 +27,5 @@ public Rectangle(double llx, double lly, double urx, double ury, bool normalizeC
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

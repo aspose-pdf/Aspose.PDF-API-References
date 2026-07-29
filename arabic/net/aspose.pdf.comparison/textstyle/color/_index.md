@@ -1,14 +1,14 @@
 ---
-title: TextStyle.Color
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextStyle. تحصل على وتضبط لون النص
+title: "TextStyle.Color"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextStyle. تحصل وتضبط لون النص"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.comparison/textstyle/color/
 ---
-## خاصية TextStyle.Color
+## TextStyle.Color property
 
-تحصل على وتضبط لون النص.
+يحصل على لون النص أو يضبطه.
 
 ```csharp
 public Color Color { get; set; }
@@ -20,3 +20,5 @@ public Color Color { get; set; }
 * class [TextStyle](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

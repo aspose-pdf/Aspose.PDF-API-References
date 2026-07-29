@@ -1,14 +1,14 @@
 ---
-title: UnifiedSaveOptions.UnifiedSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ UnifiedSaveOptions. المُنشئ الافتراضي
+title: "UnifiedSaveOptions.UnifiedSaveOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ UnifiedSaveOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/unifiedsaveoptions/unifiedsaveoptions/
 ---
-## مُنشئ UnifiedSaveOptions
+## UnifiedSaveOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public UnifiedSaveOptions()
@@ -19,3 +19,5 @@ public UnifiedSaveOptions()
 * class [UnifiedSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

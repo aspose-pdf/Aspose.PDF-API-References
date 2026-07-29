@@ -1,14 +1,14 @@
 ---
-title: DocumentInfo.Trapped
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocumentInfo. تحصل أو تضبط علامة الاحتجاز
+title: "DocumentInfo.Trapped"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocumentInfo. يحصل أو يضبط علامة الحجز"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf/documentinfo/trapped/
 ---
-## خاصية DocumentInfo.Trapped
+## DocumentInfo.Trapped property
 
-تحصل أو تضبط علامة الاحتجاز.
+يحصل أو يعيّن علامة الحجز.
 
 ```csharp
 public string Trapped { get; set; }
@@ -19,3 +19,5 @@ public string Trapped { get; set; }
 * class [DocumentInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,28 +1,30 @@
 ---
-title: Class DeprecatedFeatureException
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.DeprecatedFeatureException. الاستثناء الذي يتم رميه عندما يتم إهمال ميزة في إصدار PDF الحالي
+title: "فئة DeprecatedFeatureException"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.DeprecatedFeatureException. الاستثناء الذي يُرمى عندما تكون ميزة ما مهجورة في نسخة PDF الحالية"
 type: docs
-weight: 3500
+weight: 3620
 url: /ar/net/aspose.pdf/deprecatedfeatureexception/
 ---
 ## DeprecatedFeatureException class
 
-الاستثناء الذي يتم رميه عندما يتم إهمال ميزة في إصدار PDF الحالي.
+الاستثناء الذي يُرمى عندما تكون ميزة مهجورة في نسخة PDF الحالية.
 
 ```csharp
 public sealed class DeprecatedFeatureException : PdfException
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [DeprecatedFeatureException](deprecatedfeatureexception/#constructor)() | Initializes a new instance of the `DeprecatedFeatureException` class. |
-| [DeprecatedFeatureException](deprecatedfeatureexception/#constructor_1)(string) | Constructor. |
+| [DeprecatedFeatureException](deprecatedfeatureexception/#constructor)() | يُنشئ مثيلًا جديدًا لفئة `DeprecatedFeatureException`. |
+| [DeprecatedFeatureException](deprecatedfeatureexception/#constructor_1)(string) | منشئ. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfException](../pdfexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

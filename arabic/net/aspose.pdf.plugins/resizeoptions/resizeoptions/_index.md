@@ -1,14 +1,14 @@
 ---
-title: ResizeOptions.ResizeOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ResizeOptions. المُنشئ الافتراضي
+title: "ResizeOptions.ResizeOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ResizeOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/resizeoptions/resizeoptions/
 ---
-## مُنشئ ResizeOptions
+## ResizeOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public ResizeOptions()
@@ -19,3 +19,5 @@ public ResizeOptions()
 * class [ResizeOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

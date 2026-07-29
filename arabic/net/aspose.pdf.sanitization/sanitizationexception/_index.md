@@ -1,14 +1,14 @@
 ---
-title: Class SanitizationException
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Sanitization.SanitizationException. الاستثناء الذي يتم رميه عندما تفشل عملية التنظيف
+title: "الفئة SanitizationException"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Sanitization.SanitizationException الفئة. الاستثناء الذي يُرمى عندما تفشل عملية التطهير"
 type: docs
-weight: 9850
+weight: 10000
 url: /ar/net/aspose.pdf.sanitization/sanitizationexception/
 ---
-## فئة SanitizationException
+## SanitizationException class
 
-الاستثناء الذي يتم رميه عندما تفشل عملية التنظيف.
+الاستثناء الذي يُرمى عندما تفشل عملية تعقيم.
 
 ```csharp
 public sealed class SanitizationException : PdfException
@@ -18,13 +18,15 @@ public sealed class SanitizationException : PdfException
 
 | الاسم | الوصف |
 | --- | --- |
-| [SanitizationException](sanitizationexception/#constructor)() | يقوم بتهيئة مثيل جديد من فئة `SanitizationException`. |
-| [SanitizationException](sanitizationexception/#constructor_1)(Exception) | يقوم بتهيئة مثيل جديد من فئة `SanitizationException` مع رسالة خطأ محددة ومرجع للاستثناء الداخلي الذي هو سبب هذا الاستثناء. |
-| [SanitizationException](sanitizationexception/#constructor_2)(string) | يقوم بتهيئة مثيل جديد من فئة `SanitizationException`. |
-| [SanitizationException](sanitizationexception/#constructor_3)(string, Exception) | يقوم بتهيئة مثيل جديد من فئة `SanitizationException` مع رسالة خطأ محددة ومرجع للاستثناء الداخلي الذي هو سبب هذا الاستثناء. |
+| [SanitizationException](sanitizationexception/#constructor)() | يُهيئ مثلاً جديداً من الفئة `SanitizationException`. |
+| [SanitizationException](sanitizationexception/#constructor_1)(Exception) | يُهيئ مثلاً جديداً من الفئة `SanitizationException` مع رسالة خطأ محددة وإشارة إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء. |
+| [SanitizationException](sanitizationexception/#constructor_2)(string) | يُهيئ مثلاً جديداً من الفئة `SanitizationException`. |
+| [SanitizationException](sanitizationexception/#constructor_3)(string, Exception) | يُهيئ مثلاً جديداً من الفئة `SanitizationException` مع رسالة خطأ محددة وإشارة إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء. |
 
 ### انظر أيضًا
 
-* فئة [PdfException](../../aspose.pdf/pdfexception/)
-* مساحة الأسماء [Aspose.Pdf.Sanitization](../../aspose.pdf.sanitization/)
-* التجميع [Aspose.PDF](../../)
+* class [PdfException](../../aspose.pdf/pdfexception/)
+* namespace [Aspose.Pdf.Sanitization](../../aspose.pdf.sanitization/)
+* assembly [Aspose.PDF](../../)
+
+

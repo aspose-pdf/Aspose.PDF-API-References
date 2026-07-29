@@ -1,12 +1,12 @@
 ---
-title: Matrix.Elements
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية المصفوفة. عناصر المصفوفة
+title: "Matrix.Elements"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Matrix. عناصر المصفوفة"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf/matrix/elements/
 ---
-## خاصية Matrix.Elements
+## Matrix.Elements property
 
 عناصر المصفوفة.
 
@@ -19,3 +19,5 @@ public float[] Elements { get; }
 * class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

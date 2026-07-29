@@ -1,14 +1,14 @@
 ---
-title: Header.Header
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ الرأس. المُنشئ الافتراضي
+title: "Header.Header"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Header. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/header/header/
 ---
-## مُنشئ الرأس
+## Header constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public Header()
@@ -19,3 +19,5 @@ public Header()
 * class [Header](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

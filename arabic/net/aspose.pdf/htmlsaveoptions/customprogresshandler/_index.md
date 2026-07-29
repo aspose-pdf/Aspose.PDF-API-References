@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.CustomProgressHandler
-second_title: Aspose.PDF for .NET API Reference
-description: حقل HtmlSaveOptions. يمكن استخدام هذا المعالج للتعامل مع أحداث تقدم التحويل، على سبيل المثال، يمكن استخدامه لعرض شريط التقدم أو الرسائل حول الكمية الحالية من الصفحات المعالجة. مثال على كود المعالج الذي يظهر التقدم على وحدة التحكم هو
+title: "HtmlSaveOptions.CustomProgressHandler"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل HtmlSaveOptions. يمكن استخدام هذا المعالج لمعالجة أحداث تقدم التحويل، على سبيل المثال يمكن استخدامه لعرض شريط تقدم أو رسائل حول عدد الصفحات المعالجة حاليًا. مثال على شفرة المعالج التي تُظهر التقدم في وحدة التحكم هو"
 type: docs
 weight: 280
 url: /ar/net/aspose.pdf/htmlsaveoptions/customprogresshandler/
 ---
-## حقل HtmlSaveOptions.CustomProgressHandler
+## HtmlSaveOptions.CustomProgressHandler field
 
-يمكن استخدام هذا المعالج للتعامل مع أحداث تقدم التحويل، على سبيل المثال، يمكن استخدامه لعرض شريط التقدم أو الرسائل حول الكمية الحالية من الصفحات المعالجة. مثال على كود المعالج الذي يظهر التقدم على وحدة التحكم هو :
+يمكن استخدام هذا المعالج لمعالجة أحداث تقدم التحويل، على سبيل المثال يمكن استخدامه لعرض شريط تقدم أو رسائل حول عدد الصفحات المعالجة حاليًا، مثال على كود المعالج الذي يعرض التقدم في وحدة التحكم هو:
 
 ```csharp
 public ConversionProgressEventHandler CustomProgressHandler;
@@ -54,3 +54,5 @@ blic static void ShowProgressOnConsole(HtmlSaveOptions.ProgressEventHandlerInfo 
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

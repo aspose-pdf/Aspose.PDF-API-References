@@ -1,28 +1,30 @@
 ---
-title: PDF3DStream.PDF3DStream
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PDF3DStream. يُهيئ مثيلًا جديدًا من فئة PDF3DStream
+title: "PDF3DStream.PDF3DStream"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PDF3DStream. يهيئ نسخة جديدة من الفئة PDF3DStream"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/pdf3dstream/pdf3dstream/
 ---
-## مُنشئ PDF3DStream
+## PDF3DStream constructor
 
-يُهيئ مثيلًا جديدًا من فئة [`PDF3DStream`](../).
+يهيئ نسخة جديدة من الفئة [`PDF3DStream`](../).
 
 ```csharp
 public PDF3DStream(Document doc, PDF3DArtwork pdf3DArtwork)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| doc | Document | الوثيقة. |
-| pdf3DArtwork | PDF3DArtwork | العمل الفني ثلاثي الأبعاد. |
+| doc | Document | المستند. |
+| pdf3DArtwork | PDF3DArtwork | الـ 3D Artwork. |
 
 ### انظر أيضًا
 
-* فئة [Document](../../../aspose.pdf/document/)
-* فئة [PDF3DArtwork](../../pdf3dartwork/)
-* فئة [PDF3DStream](../)
-* مساحة الأسماء [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* التجميع [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PDF3DArtwork](../../pdf3dartwork/)
+* class [PDF3DStream](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

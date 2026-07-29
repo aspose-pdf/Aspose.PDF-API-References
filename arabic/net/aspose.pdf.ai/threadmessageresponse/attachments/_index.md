@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageResponse.Attachments
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ThreadMessageResponse. تحصل أو تعين قائمة من الملفات المرفقة بالرسالة
+title: "ThreadMessageResponse.Attachments"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ThreadMessageResponse. تحصل أو تعيين قائمة بالملفات المرفقة بالرسالة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/threadmessageresponse/attachments/
 ---
-## خاصية ThreadMessageResponse.Attachments
+## ThreadMessageResponse.Attachments property
 
-تحصل أو تعين قائمة من الملفات المرفقة بالرسالة.
+يحصل أو يضبط قائمة بالملفات المرفقة بالرسالة.
 
 ```csharp
 public List<Attachment> Attachments { get; set; }
@@ -20,3 +20,5 @@ public List<Attachment> Attachments { get; set; }
 * class [ThreadMessageResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

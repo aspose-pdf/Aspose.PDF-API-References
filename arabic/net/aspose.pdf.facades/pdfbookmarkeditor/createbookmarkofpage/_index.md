@@ -1,25 +1,25 @@
 ---
-title: PdfBookmarkEditor.CreateBookmarkOfPage
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfBookmarkEditor. تنشئ إشارة مرجعية للصفحة المحددة
+title: "PdfBookmarkEditor.CreateBookmarkOfPage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfBookmarkEditor. تنشئ إشارة مرجعية للصفحة المحددة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarkofpage/
 ---
 ## CreateBookmarkOfPage(string, int) {#createbookmarkofpage}
 
-تنشئ إشارة مرجعية للصفحة المحددة.
+ينشئ إشارة مرجعية للصفحة المحددة.
 
 ```csharp
 public void CreateBookmarkOfPage(string bookmarkName, int pageNumber)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | bookmarkName | String | اسم الإشارة المرجعية المحدد. |
-| pageNumber | Int32 | الصفحة المحددة. |
+| pageNumber | Int32 | الصفحة المحددة كوجهة. |
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfBookmarkEditor editor = new PdfBookmarkEditor();
@@ -28,7 +28,7 @@ editor.CreateBookmarkOfPage("bookmark for page 1", 1);
 editor.Save("example_out.pdf");
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -38,18 +38,18 @@ editor.Save("example_out.pdf");
 
 ## CreateBookmarkOfPage(string[], int[]) {#createbookmarkofpage_1}
 
-تنشئ إشارات مرجعية للصفحات المحددة.
+ينشئ إشارات مرجعية للصفحات المحددة.
 
 ```csharp
 public void CreateBookmarkOfPage(string[] bookmarkName, int[] pageNumber)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | bookmarkName | String[] | مصفوفة عناوين الإشارات المرجعية. |
-| pageNumber | Int32[] | مصفوفة الصفحات المحددة للإشارات المرجعية. |
+| pageNumber | Int32[] | مصفوفة صفحات الإشارة المرجعية للوجهة. |
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfBookmarkEditor editor = new PdfBookmarkEditor();
@@ -58,8 +58,10 @@ editor.CreateBookmarkOfPage("bookmark for page 1", 1);
 editor.Save("example_out.pdf");
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: PdfToImageOptions.AddOutput
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfToImageOptions. تعيين مصدر بيانات الحفظ الجديد. يمكن أن يكون فقط . إذا كنت ترغب في حفظ الصور في تدفقات الذاكرة، مرر null كمعامل
+title: "PdfToImageOptions.AddOutput"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfToImageOptions. يحدد مصدر حفظ جديد. يمكن أن يكون فقط . إذا كنت تريد حفظ الصور في تدفقات الذاكرة، مرّر null كمعامل"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.plugins/pdftoimageoptions/addoutput/
 ---
-## طريقة PdfToImageOptions.AddOutput
+## PdfToImageOptions.AddOutput method
 
-تعيين مصدر بيانات الحفظ الجديد. يمكن أن يكون فقط . إذا كنت ترغب في حفظ الصور في تدفقات الذاكرة، مرر null كمعامل.
+يعيّن مصدر حفظ بيانات جديد. لا يمكن أن يكون إلا . إذا كنت تريد حفظ الصور في تدفقات الذاكرة، مرّر null كمعامل.
 
 ```csharp
 public void AddOutput(IDataSource saveDataSource)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| saveDataSource | IDataSource | مصدر بيانات الحفظ. |
+| saveDataSource | IDataSource | حفظ مصدر البيانات. |
 
 ### انظر أيضًا
 
-* الواجهة [IDataSource](../../idatasource/)
-* الفئة [PdfToImageOptions](../)
-* مساحة الاسم [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfToImageOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

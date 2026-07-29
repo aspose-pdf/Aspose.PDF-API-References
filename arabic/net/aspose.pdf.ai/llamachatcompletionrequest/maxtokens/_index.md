@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionRequest.MaxTokens
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LlamaChatCompletionRequest. تحدد أو تحصل على الحد الأقصى لعدد الرموز التي سيتم توليدها في إكمال الدردشة. القيمة الافتراضية هي null تعني اللانهاية
+title: "LlamaChatCompletionRequest.MaxTokens"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LlamaChatCompletionRequest. تعين أو تحصل على الحد الأقصى لعدد الرموز التي يتم إنشاؤها في إكمال الدردشة. القيمة الافتراضية هي null وتعني لا نهائي"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.ai/llamachatcompletionrequest/maxtokens/
 ---
-## خاصية LlamaChatCompletionRequest.MaxTokens
+## LlamaChatCompletionRequest.MaxTokens property
 
-تحدد أو تحصل على الحد الأقصى لعدد الرموز التي سيتم توليدها في إكمال الدردشة. القيمة الافتراضية هي null، تعني اللانهاية.
+يضبط أو يحصل على الحد الأقصى لعدد الرموز لتوليدها في إكمال الدردشة. القيمة الافتراضية هي null، وتعني لا نهائية.
 
 ```csharp
 public int? MaxTokens { get; set; }
@@ -19,3 +19,5 @@ public int? MaxTokens { get; set; }
 * class [LlamaChatCompletionRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

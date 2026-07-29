@@ -1,12 +1,12 @@
 ---
-title: FormDataConverter.ConvertToStreams
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormDataConverter. تحويل البيانات في الجدول إلى تدفقات
+title: "FormDataConverter.ConvertToStreams"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FormDataConverter. تحويل البيانات في الجدول إلى تدفقات"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.facades/formdataconverter/converttostreams/
 ---
-## طريقة FormDataConverter.ConvertToStreams
+## FormDataConverter.ConvertToStreams method
 
 تحويل البيانات في الجدول إلى تدفقات.
 
@@ -14,10 +14,10 @@ url: /ar/net/aspose.pdf.facades/formdataconverter/converttostreams/
 public void ConvertToStreams(Stream[] destStream, DataType destType)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | destStream | Stream[] | التدفقات التي سيتم تخزين البيانات فيها. |
-| destType | DataType | نوع البيانات المخزنة. القيم الصالحة هي: XML، FDF، XFDF. |
+| destType | DataType | نوع البيانات المخزنة. القيم الصالحة هي: XML, FDF, XFDF. |
 
 ## أمثلة
 
@@ -45,3 +45,5 @@ fc.ConvertToStreams(new Stream[] { stream }, DataType.XML);
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

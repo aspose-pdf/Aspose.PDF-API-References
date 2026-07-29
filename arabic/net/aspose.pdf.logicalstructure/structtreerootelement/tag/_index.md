@@ -1,28 +1,28 @@
 ---
-title: StructTreeRootElement.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة StructTreeRootElement. ربط عنصر هيكلي بعملية تدفق المحتوى BDC
+title: "StructTreeRootElement.Tag"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة StructTreeRootElement. ربط عنصر بنية إلى مشغل تدفق المحتوى BDC"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.logicalstructure/structtreerootelement/tag/
 ---
 ## Tag(BDC) {#tag_1}
 
-ربط عنصر هيكلي بعملية تدفق المحتوى BDC.
+ربط عنصر بنية بمشغل تدفق المحتوى BDC.
 
 ```csharp
 public override MCRElement Tag(BDC bdc)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| bdc | BDC | عملية تدفق المحتوى bdc. |
+| bdc | BDC | مشغل تدفق المحتوى bdc. |
 
-### Return Value
+### قيمة الإرجاع
 
 عنصر MCRElementStructure.
 
-### See Also
+### انظر أيضًا
 
 * class [MCRElement](../../mcrelement/)
 * class [BDC](../../../aspose.pdf.operators/bdc/)
@@ -34,21 +34,21 @@ public override MCRElement Tag(BDC bdc)
 
 ## Tag(XForm) {#tag_3}
 
-ربط عنصر هيكلي بعملية تدفق المحتوى XForm.
+ربط عنصر بنية بتدفق المحتوى XForm.
 
 ```csharp
 public override OBJRElement Tag(XForm form)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| form | XForm | نموذج Pdf. |
+| نموذج | XForm | نموذج Pdf. |
 
-### Return Value
+### قيمة الإرجاع
 
 عنصر OBJRElementStructure.
 
-### See Also
+### انظر أيضًا
 
 * class [OBJRElement](../../objrelement/)
 * class [XForm](../../../aspose.pdf/xform/)
@@ -60,21 +60,21 @@ public override OBJRElement Tag(XForm form)
 
 ## Tag(XImage) {#tag_4}
 
-ربط عنصر هيكلي بالصورة XImage.
+ربط عنصر بنية بـ XImage.
 
 ```csharp
 public override OBJRElement Tag(XImage image)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| image | XImage | صورة Pdf. |
+| صورة | XImage | صورة Pdf. |
 
-### Return Value
+### قيمة الإرجاع
 
 عنصر OBJRElementStructure.
 
-### See Also
+### انظر أيضًا
 
 * class [OBJRElement](../../objrelement/)
 * class [XImage](../../../aspose.pdf/ximage/)
@@ -86,21 +86,21 @@ public override OBJRElement Tag(XImage image)
 
 ## Tag(Artifact) {#tag}
 
-ربط عنصر هيكلي بالتحفة.
+ربط عنصر بنية بـ Artifact.
 
 ```csharp
 public override MCRElement Tag(Artifact artifact)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| artifact | Artifact | تحفة Pdf. |
+| قطعة | قطعة | قطعة Pdf. |
 
-### Return Value
+### قيمة الإرجاع
 
 عنصر MCRElementStructure.
 
-### See Also
+### انظر أيضًا
 
 * class [MCRElement](../../mcrelement/)
 * class [Artifact](../../../aspose.pdf/artifact/)
@@ -112,24 +112,26 @@ public override MCRElement Tag(Artifact artifact)
 
 ## Tag(Annotation) {#tag_2}
 
-ربط عنصر هيكلي بالتعليق.
+ربط عنصر بنية بـ Annotation.
 
 ```csharp
 public override OBJRElement Tag(Annotation annotation)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | annotation | Annotation | تعليق Pdf. |
 
-### Return Value
+### قيمة الإرجاع
 
 عنصر OBJRElementStructure.
 
-### See Also
+### انظر أيضًا
 
 * class [OBJRElement](../../objrelement/)
 * class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * class [StructTreeRootElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

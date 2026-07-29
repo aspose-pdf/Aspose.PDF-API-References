@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.Producer
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileInfo. تحصل على معلومات المنتج لوثيقة PDF
+title: "PdfFileInfo.Producer"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileInfo. تحصل على معلومات Producer لوثيقة PDF"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf.facades/pdffileinfo/producer/
 ---
-## خاصية PdfFileInfo.Producer
+## PdfFileInfo.Producer property
 
-تحصل على معلومات المنتج لوثيقة PDF.
+Gets the Producer information of PDF document.
 
 ```csharp
 public string Producer { get; }
@@ -19,3 +19,5 @@ public string Producer { get; }
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

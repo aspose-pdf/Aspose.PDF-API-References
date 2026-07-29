@@ -1,24 +1,24 @@
 ---
-title: Enum DigestHashAlgorithm
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DigestHashAlgorithm enum. تمثيل نوع الخوارزمية التي تقوم بربط البيانات بهاش
+title: "التعداد DigestHashAlgorithm"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.DigestHashAlgorithm. يمثل نوع الخوارزمية التي تحول البيانات إلى تجزئة"
 type: docs
-weight: 3720
+weight: 3840
 url: /ar/net/aspose.pdf/digesthashalgorithm/
 ---
 ## DigestHashAlgorithm enumeration
 
-تمثيل نوع الخوارزمية التي تقوم بربط البيانات بهاش
+يمثل نوع الخوارزمية التي تحول البيانات إلى "تجزئة"
 
 ```csharp
 public enum DigestHashAlgorithm
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Auto | `0` | الإعداد التلقائي لخوارزمية التجزئة حسب تقدير خوارزمية التوقيع. بالنسبة لـ EDCSA، يتم تحديد القيمة الافتراضية حسب حجم المفتاح. القيمة الافتراضية لـ PKCS7 غير المنفصل هي Sha1. |
+| Auto | `0` | الإعداد التلقائي لخوارزمية التجزئة وفقًا لتقدير خوارزمية التوقيع. بالنسبة لـ EDCSA، يتم تحديد القيمة الافتراضية بناءً على حجم المفتاح. القيمة الافتراضية لـ PKCS7 غير المنفصل هي Sha1. |
 | Sha1 | `1` | SHA-1. خوارزمية التجزئة الآمنة 1 وهي القيمة الافتراضية لـ PKCS7 غير المنفصل. |
 | Sha256 | `2` | SHA-256. خوارزمية التجزئة الآمنة 2 وهي القيمة الافتراضية لـ PKCS7 المنفصل. |
 | Sha384 | `3` | SHA-384. خوارزمية التجزئة الآمنة 2 |
@@ -27,7 +27,9 @@ public enum DigestHashAlgorithm
 | Sha3_384 | `6` | SHA3-384. خوارزمية التجزئة الآمنة 3 |
 | Sha3_512 | `7` | SHA3-512. خوارزمية التجزئة الآمنة 3 |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

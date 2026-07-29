@@ -1,25 +1,27 @@
 ---
-title: SetColorRenderingIntent.SetColorRenderingIntent
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SetColorRenderingIntent. مُنشئ عامل تعيين لون العرض
+title: "SetColorRenderingIntent.SetColorRenderingIntent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SetColorRenderingIntent. منشئ مشغل Set Color Rendering Intent"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/setcolorrenderingintent/setcolorrenderingintent/
 ---
-## مُنشئ SetColorRenderingIntent
+## SetColorRenderingIntent constructor
 
-مُنشئ عامل تعيين لون العرض.
+منشئ عامل Set Color Rendering Intent.
 
 ```csharp
 public SetColorRenderingIntent(string intentName)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| intentName | String | تعيين لون العرض. |
+| intentName | String | نية عرض اللون. |
 
 ### انظر أيضًا
 
 * class [SetColorRenderingIntent](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

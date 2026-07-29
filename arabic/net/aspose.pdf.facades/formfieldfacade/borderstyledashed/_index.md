@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.BorderStyleDashed
-second_title: Aspose.PDF for .NET API Reference
-description: حقل FormFieldFacade. يحدد نمط الحدود المتقطعة
+title: "FormFieldFacade.BorderStyleDashed"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل FormFieldFacade. يحدد نمط حد متقطع"
 type: docs
 weight: 300
 url: /ar/net/aspose.pdf.facades/formfieldfacade/borderstyledashed/
 ---
 ## FormFieldFacade.BorderStyleDashed field
 
-يحدد نمط الحدود المتقطعة.
+يحدد نمط حد متقطع.
 
 ```csharp
 public const int BorderStyleDashed;
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

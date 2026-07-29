@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeValue.UnitValue
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ContentsResizeValue. تعيين القيمة بوحدات الفضاء الافتراضية
+title: "PdfFileEditor.ContentsResizeValue.UnitValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "ContentsResizeValue خاصية. يحدد القيمة بوحدات الفضاء الافتراضية"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/unitvalue/
 ---
-## خاصية PdfFileEditor.ContentsResizeValue.UnitValue
+## PdfFileEditor.ContentsResizeValue.UnitValue property
 
-تعيين القيمة بوحدات الفضاء الافتراضية.
+يضبط القيمة بوحدات المساحة الافتراضية.
 
 ```csharp
 public double UnitValue { set; }
@@ -19,3 +19,5 @@ public double UnitValue { set; }
 * class [ContentsResizeValue](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

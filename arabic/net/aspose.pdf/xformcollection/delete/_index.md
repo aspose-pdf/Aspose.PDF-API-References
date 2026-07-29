@@ -1,7 +1,7 @@
 ---
-title: XFormCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XFormCollection. حذف XForm من المجموعة
+title: "XFormCollection.Delete"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XFormCollection. احذف XForm من المجموعة"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf/xformcollection/delete/
@@ -14,11 +14,11 @@ url: /ar/net/aspose.pdf/xformcollection/delete/
 public void Delete(int index)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | index | Int32 | فهرس XForm الذي يجب حذفه |
 
-### See Also
+### انظر أيضًا
 
 * class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -34,7 +34,7 @@ public void Delete(int index)
 public void Delete()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -50,12 +50,14 @@ public void Delete()
 public void Delete(string name)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم XForm الذي سيتم حذفه. |
+| الاسم | String | اسم XForm الذي سيُحذف. |
 
-### See Also
+### انظر أيضًا
 
 * class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

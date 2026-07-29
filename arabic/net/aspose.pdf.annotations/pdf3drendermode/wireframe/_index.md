@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.Wireframe
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PDF3DRenderMode. وضع العرض WireFrame
+title: "PDF3DRenderMode.Wireframe"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PDF3DRenderMode. وضع العرض WireFrame"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf.annotations/pdf3drendermode/wireframe/
 ---
-## حقل PDF3DRenderMode.Wireframe
+## PDF3DRenderMode.Wireframe field
 
 وضع العرض "WireFrame".
 
@@ -19,3 +19,5 @@ public static PDF3DRenderMode Wireframe;
 * class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

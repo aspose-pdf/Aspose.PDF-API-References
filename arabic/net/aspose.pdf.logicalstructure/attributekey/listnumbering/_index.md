@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.ListNumbering
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeKey. خاصية ListNumbering مالك خاصية القائمة
+title: "AttributeKey.ListNumbering"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "AttributeKey حقل. ListNumbering خاصية قائمة خاصية المالك"
 type: docs
 weight: 210
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/listnumbering/
 ---
-## حقل AttributeKey.ListNumbering
+## AttributeKey.ListNumbering field
 
-خاصية ListNumbering (مالك خاصية القائمة).
+خاصية ListNumbering (مالك خاصية List).
 
 ```csharp
 public static readonly AttributeKey ListNumbering;
@@ -19,3 +19,5 @@ public static readonly AttributeKey ListNumbering;
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

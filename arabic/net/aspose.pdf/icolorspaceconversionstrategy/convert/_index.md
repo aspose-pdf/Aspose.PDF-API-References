@@ -1,22 +1,22 @@
 ---
-title: IColorSpaceConversionStrategy.Convert
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IColorSpaceConversionStrategy. تقوم بتحويل صفحة الوثيقة
+title: "IColorSpaceConversionStrategy.Convert"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IColorSpaceConversionStrategy. يحول صفحة المستند"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/icolorspaceconversionstrategy/convert/
 ---
-## طريقة IColorSpaceConversionStrategy.Convert
+## IColorSpaceConversionStrategy.Convert method
 
-تقوم بتحويل صفحة الوثيقة.
+يقوم بتحويل page من document.
 
 ```csharp
 public void Convert(Page page)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | صفحة الوثيقة. |
+| صفحة | صفحة | صفحة المستند. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public void Convert(Page page)
 * interface [IColorSpaceConversionStrategy](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

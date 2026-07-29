@@ -1,14 +1,14 @@
 ---
-title: Resources.Images
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الموارد. تحصل على مجموعة صور Images
+title: "Resources.Images"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Resources. تحصل على مجموعة صور Images"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/resources/images/
 ---
-## خاصية الموارد.الصور
+## Resources.Images property
 
-تحصل على مجموعة صور `Images`
+يحصل على مجموعة صور `Images`
 
 ```csharp
 public XImageCollection Images { get; }
@@ -20,3 +20,5 @@ public XImageCollection Images { get; }
 * class [Resources](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

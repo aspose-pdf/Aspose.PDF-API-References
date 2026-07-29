@@ -1,32 +1,34 @@
 ---
-title: Enum WarningType
-second_title: Aspose.PDF for .NET API Reference
-description: نوع التحذير Aspose.Pdf.WarningType. نوع التحذير الممثل في التعداد
+title: "تعداد WarningType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.WarningType تعداد. تعداد يمثل نوع التحذير"
 type: docs
-weight: 11290
+weight: 11480
 url: /ar/net/aspose.pdf/warningtype/
 ---
 ## WarningType enumeration
 
-Enum represented warning type.
+التعداد يمثل نوع التحذير.
 
 ```csharp
 public enum WarningType
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | SourceFileCorruption | `0` | الملف تالف. |
-| DataLoss | `1` | النص/الرسم البياني/الصورة أو بيانات أخرى مفقودة تمامًا من شجرة الوثيقة بعد التحميل، أو الوثيقة التي تم إنشاؤها بعد الحفظ. |
-| MajorFormattingLoss | `2` | خسائر كبيرة في التنسيق مقارنة بالوثيقة الأصلية. هذا يحدث في الحالات التي تكون فيها خسارة التنسيق كبيرة ولكن البيانات لا تزال موجودة. |
-| MinorFormattingLoss | `3` | خسائر طفيفة في التنسيق مقارنة بالوثيقة الأصلية. هذا يحدث في حالات الخسائر الطفيفة في الدقة. |
-| CompatibilityIssue | `4` | مشكلة معروفة ستمنع فتح الوثيقة بواسطة بعض وكلاء المستخدم، أو الإصدارات السابقة من وكلاء المستخدم. |
+| DataLoss | `1` | النص/الرسم البياني/الصورة أو أي بيانات أخرى مفقودة تمامًا إما من شجرة المستند بعد التحميل، أو من المستند المُنشأ بعد الحفظ. |
+| MajorFormattingLoss | `2` | فقدان كبير في التنسيق مقارنة بالمستند الأصلي. هذا مخصص للحالات التي يكون فيها فقدان التنسيق كبيرًا لكن البيانات لا تزال موجودة. |
+| MinorFormattingLoss | `3` | فقدان طفيف في التنسيق مقارنة بالمستند الأصلي. هذا مخصص لفقدان طفيف في الدقة. |
+| CompatibilityIssue | `4` | مشكلة معروفة قد تمنع فتح المستند بواسطة بعض وكلاء المستخدم، أو الإصدارات السابقة من وكلاء المستخدم. |
 | InvalidInputStreamType | `5` | نوع تدفق الإدخال غير صالح |
 | UnexpectedContent | `99` | الملف يحتوي على محتوى غير متوقع. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

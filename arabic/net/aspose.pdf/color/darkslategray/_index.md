@@ -1,14 +1,14 @@
 ---
-title: Color.DarkSlateGray
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على لون محدد بواسطة النظام له قيمة ARGB تساوي c FF2F4F4F
+title: "Color.DarkSlateGray"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. يسترجع لونًا معرفًا بالنظام له قيمة ARGB بقيمة c FF2F4F4F"
 type: docs
 weight: 370
 url: /ar/net/aspose.pdf/color/darkslategray/
 ---
-## خاصية Color.DarkSlateGray
+## Color.DarkSlateGray property
 
-تحصل على لون محدد بواسطة النظام له قيمة ARGB تساوي \c \#FF2F4F4F.
+يحصل على لون معرف من النظام له قيمة ARGB \c \#FF2F4F4F.
 
 ```csharp
 public static Color DarkSlateGray { get; }
@@ -16,10 +16,12 @@ public static Color DarkSlateGray { get; }
 
 ### قيمة الإرجاع
 
-يمثل لونًا محددًا بواسطة النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

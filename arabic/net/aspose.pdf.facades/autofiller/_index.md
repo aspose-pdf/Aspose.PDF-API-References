@@ -1,59 +1,59 @@
 ---
-title: Class AutoFiller
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Facades.AutoFiller. تمثل فئة لاستقبال البيانات من قاعدة البيانات أو مصدر بيانات آخر وتعبئتها في الحقول المصممة من ملف PDF النموذجي وفي النهاية توليد ملف PDF جديد أو تدفق. لديها وضعين لإدخال ملف النموذج الإدخال كتدفق أو ملف PDF. لديها أربعة أنواع من أوضاع الإخراج تدفق مدمج واحد، ملف مدمج واحد، العديد من التدفقات الصغيرة، العديد من الملفات الصغيرة. يمكنها استقبال البيانات الحرفية الموجودة في System.Data.DataTable
+title: "الفئة AutoFiller"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Facades.AutoFiller. تمثل فئة لاستلام البيانات من قاعدة البيانات أو مصدر بيانات آخر وتملأها في الحقول المصممة في قالب PDF وفي النهاية تُنشئ ملف PDF جديد أو تدفق. لديها وضعا إدخال ملف القالب: إما كتيار أو كملف PDF. لديها أربعة أنواع من أوضاع الإخراج: تيار مدمج واحد، ملف مدمج واحد، عدة تيارات صغيرة، عدة ملفات صغيرة. يمكنها استقبال بيانات حرفية موجودة في System.Data.DataTable."
 type: docs
-weight: 4150
+weight: 4270
 url: /ar/net/aspose.pdf.facades/autofiller/
 ---
 ## AutoFiller class
 
-تمثل فئة لاستقبال البيانات من قاعدة البيانات أو مصدر بيانات آخر، وتعبئتها في الحقول المصممة من ملف PDF النموذجي وفي النهاية توليد ملف PDF جديد أو تدفق. لديها وضعين لإدخال ملف النموذج: الإدخال كتدفق أو ملف PDF. لديها أربعة أنواع من أوضاع الإخراج: تدفق مدمج واحد، ملف مدمج واحد، العديد من التدفقات الصغيرة، العديد من الملفات الصغيرة. يمكنها استقبال البيانات الحرفية الموجودة في System.Data.DataTable.
+يمثل فئة لاستقبال البيانات من قاعدة البيانات أو مصدر بيانات آخر، وتملأها في الحقول المصممة في قالب PDF، وفي النهاية يولد ملف PDF جديد أو تدفق. يدعم وضعين لإدخال ملف القالب: ك تدفق أو ك ملف PDF. يدعم أربعة أنواع من أوضاع الإخراج: تدفق مدمج واحد، ملف مدمج واحد، تدفقات صغيرة متعددة، ملفات صغيرة متعددة. يمكنه استقبال بيانات حرفية موجودة في System.Data.DataTable.
 
 ```csharp
 public sealed class AutoFiller : ISaveableFacade
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [AutoFiller](autofiller/)() | المُنشئ الافتراضي. |
+| [AutoFiller](autofiller/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [BasicFileName](../../aspose.pdf.facades/autofiller/basicfilename/) { get; set; } | يحصل أو يحدد اسم الملف الأساسي إذا تم توليد العديد من الملفات الصغيرة. سيكون الملف الناتج مثل "BasicFileName0"، "BasicFileName1"،... يعمل مع خاصية أخرى [`GeneratingPath`](./generatingpath/)GeneratingPath. |
-| [GeneratingPath](../../aspose.pdf.facades/autofiller/generatingpath/) { get; set; } | يحصل أو يحدد مسار توليد ملفات PDF الصغيرة إذا كان سيتم توليد العديد من ملفات PDF الصغيرة. يعمل مع خاصية أخرى [`BasicFileName`](./basicfilename/)BasicFileName. واحدة من أوضاع الإخراج الأربعة. |
-| [OutputStreams](../../aspose.pdf.facades/autofiller/outputstreams/) { get; set; } | يحصل أو يحدد العديد من تدفقات الإخراج. واحدة من أربعة أوضاع الإخراج. |
-| [UnFlattenFields](../../aspose.pdf.facades/autofiller/unflattenfields/) { set; } | يحدد الحقول التي لن يتم تسويتها. إذا لم يتم تعيين هذه الخاصية، سيتم تسوية جميع الحقول. |
+| [BasicFileName](../../aspose.pdf.facades/autofiller/basicfilename/) { get; set; } | يحصل أو يضبط اسم الملف الأساسي إذا سيتم إنشاء العديد من الملفات الصغيرة. سيكون اسم الملف المُنشأ مثل \"BasicFileName0\",\"BasicFileName1\",... يعمل مع الخاصية الأخرى [`GeneratingPath`](./generatingpath/)GeneratingPath. |
+| [GeneratingPath](../../aspose.pdf.facades/autofiller/generatingpath/) { get; set; } | يحصل أو يضبط مسار الإنشاء (Generating Path) للملفات الصغيرة إذا سيتم إنشاء العديد من ملفات PDF الصغيرة. يعمل مع الخاصية الأخرى [`BasicFileName`](./basicfilename/)BasicFileName. أحد أوضاع الإخراج الأربعة. |
+| [OutputStreams](../../aspose.pdf.facades/autofiller/outputstreams/) { get; set; } | يحصل أو يضبط عدة Output Streams. أحد أوضاع الإخراج الأربعة. |
+| [UnFlattenFields](../../aspose.pdf.facades/autofiller/unflattenfields/) { set; } | يضبط الحقول التي لن يتم تسويتها. إذا لم يتم ضبط هذه الخاصية، سيتم تسوية جميع الحقول. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [BindPdf](../../aspose.pdf.facades/autofiller/bindpdf/#bindpdf)(Document) | يربط مستند PDF. |
 | [BindPdf](../../aspose.pdf.facades/autofiller/bindpdf/#bindpdf_1)(Stream) | يربط ملف PDF. |
 | [BindPdf](../../aspose.pdf.facades/autofiller/bindpdf/#bindpdf_2)(string) | يربط ملف PDF. |
 | [Close](../../aspose.pdf.facades/autofiller/close/)() | يغلق الكائن وتدفقات الإخراج. |
 | [Dispose](../../aspose.pdf.facades/autofiller/dispose/)() | يغلق الكائن وتدفقات الإخراج. |
-| [ImportDataTable](../../aspose.pdf.facades/autofiller/importdatatable/)(DataTable) | يستورد بيانات من نوع DataTable. يجب أن يكون اسم كل عمود من dataTable هو نفسه اسم حقل واحد من ملف PDF النموذجي مع مراعاة حالة الأحرف. |
+| [ImportDataTable](../../aspose.pdf.facades/autofiller/importdatatable/)(DataTable) | يستورد بيانات من نوع DataTable. يجب أن يكون اسم كل عمود في dataTable مطابقًا لاسم أحد الحقول في قالب PDF مع مراعاة حساسية الأحرف. |
 | [Save](../../aspose.pdf.facades/autofiller/save/#save_1)(Stream) | يحفظ جميع ملفات PDF. |
 | [Save](../../aspose.pdf.facades/autofiller/save/#save_2)(string) | يحفظ جميع ملفات PDF. |
 
-## Examples
+## أمثلة
 
 ```csharp
 [C#]
-//Note: mail.pdf is a template pdf which has seven text fields. NorthWind.mdb is the microsoft access db.
-////Common part: Get the data from the database NorthWind.mdb fill it into the DataTable.
+//ملاحظة: mail.pdf هو ملف PDF قالب يحتوي على سبعة حقول نصية. NorthWind.mdb هو قاعدة بيانات Microsoft Access.
+////الجزء المشترك: احصل على البيانات من قاعدة البيانات NorthWind.mdb واملأها في DataTable.
 			
 OleDbCommand mQueryCommand;
 OleDbDataAdapter mDbDataAdapter;
 OleDbConnection mDbConnection;
 
-//Construct the data table.
+//إنشاء جدول البيانات.
 DataTable mDataTable = new DataTable("MailMerge");
 DataColumnCollection columns = mDataTable.Columns;
 columns.Add("CompanyName",typeof(string));
@@ -65,7 +65,7 @@ columns.Add("Country",typeof(string));
 columns.Add("Heading",typeof(string));
 
 
-//Connect to the database source and query the data.
+//الاتصال بمصدر قاعدة البيانات واستعلام البيانات.
 mDbConnection = new OleDbConnection();
 mDbConnection.ConnectionString = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + 
 DbPath + "NorthWind.mdb";
@@ -88,10 +88,10 @@ for (int i = 0; i<mDataTable.Rows.Count;i++)
 
 mDbDataAdapter.Dispose();
 mDbConnection.Close();
-////End of Common part.
+////نهاية الجزء المشترك.
 
-////case one:
-////Input template pdf is a pdf file and output is a big merged stream.		
+////الحالة الأولى:
+////ملف PDF القالب المدخل هو ملف PDF والإخراج هو تدفق مدمج كبير.		
  
 AutoFiller autoFiller = new AutoFiller();
 		
@@ -101,8 +101,8 @@ autoFiller.OutputStream = Response.OutputStream;
 autoFiller.ImportDataTable(mDataTable);
 autoFiller.Save();
 
-////case two:
-////Input template pdf is a pdf file and output is a lot of small files.
+////الحالة الثانية:
+////ملف PDF القالب المدخل هو ملف PDF والإخراج هو مجموعة كبيرة من الملفات الصغيرة.
 AutoFiller autoFiller = new AutoFiller();
 		
 autoFiller.InputFileName = "mail.pdf";
@@ -185,8 +185,10 @@ autoFiller.ImportDataTable(mDataTable)
 autoFiller.Save()
 ```
 
-### See Also
+### انظر أيضًا
 
 * interface [ISaveableFacade](../isaveablefacade/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

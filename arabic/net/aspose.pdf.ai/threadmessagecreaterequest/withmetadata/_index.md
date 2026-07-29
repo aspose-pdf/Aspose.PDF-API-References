@@ -1,29 +1,31 @@
 ---
-title: ThreadMessageCreateRequest.WithMetadata
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ThreadMessageCreateRequest. تعيين البيانات الوصفية لطلب رسالة الخيط
+title: "ThreadMessageCreateRequest.WithMetadata"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ThreadMessageCreateRequest. تعيين البيانات الوصفية لطلب رسالة الخيط"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.ai/threadmessagecreaterequest/withmetadata/
 ---
-## طريقة ThreadMessageCreateRequest.WithMetadata
+## ThreadMessageCreateRequest.WithMetadata method
 
-تعيين البيانات الوصفية لطلب رسالة الخيط.
+يضبط البيانات الوصفية لطلب رسالة السلسلة.
 
 ```csharp
 public ThreadMessageCreateRequest WithMetadata(Dictionary<string, string> metadata)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| metadata | Dictionary`2 | القاموس الخاص بالبيانات الوصفية للتعيين. |
+| البيانات الوصفية | Dictionary`2 | القاموس الخاص بالبيانات الوصفية لتعيينه. |
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`ThreadMessageCreateRequest`](../).
+المثيل الحالي من [`ThreadMessageCreateRequest`](../).
 
 ### انظر أيضًا
 
-* الفئة [ThreadMessageCreateRequest](../)
-* مساحة الاسم [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [ThreadMessageCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

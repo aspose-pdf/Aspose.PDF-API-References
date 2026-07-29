@@ -1,14 +1,14 @@
 ---
-title: ExplicitDestination.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ExplicitDestination. تحصل على رقم الصفحة الوجهة
+title: "ExplicitDestination.PageNumber"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ExplicitDestination. تحصل على رقم صفحة الوجهة."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/explicitdestination/pagenumber/
 ---
-## خاصية ExplicitDestination.PageNumber
+## ExplicitDestination.PageNumber property
 
-تحصل على رقم الصفحة الوجهة
+يحصل على رقم صفحة الوجهة
 
 ```csharp
 public int PageNumber { get; }
@@ -19,3 +19,5 @@ public int PageNumber { get; }
 * class [ExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

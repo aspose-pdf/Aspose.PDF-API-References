@@ -1,26 +1,26 @@
 ---
-title: XmpPdfAExtensionSchema.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XmpPdfAExtensionSchema. تحدد ما إذا كان obj موجودًا في المخطط
+title: "XmpPdfAExtensionSchema.Contains"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XmpPdfAExtensionSchema. تحدد ما إذا كان الكائن موجودًا في المخطط"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/xmppdfaextensionschema/contains/
 ---
-## طريقة XmpPdfAExtensionSchema.Contains
+## XmpPdfAExtensionSchema.Contains method
 
-تحدد ما إذا كان obj موجودًا في المخطط.
+يحدد ما إذا كان obj موجودًا في المخطط.
 
 ```csharp
 public bool Contains(XmpPdfAExtensionObject obj)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| obj | XmpPdfAExtensionObject | الكائن الذي يجب العثور عليه. |
+| obj | XmpPdfAExtensionObject | الكائن للبحث عنه. |
 
 ### قيمة الإرجاع
 
-صحيح - الكائن موجود في المخطط؛ خلاف ذلك، خطأ.
+صحيح - الكائن موجود في المخطط؛ وإلا، خطأ.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public bool Contains(XmpPdfAExtensionObject obj)
 * class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

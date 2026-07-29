@@ -1,29 +1,31 @@
 ---
-title: TextSegment.MyHtmlEncode
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TextSegment. ترميز السلسلة كـ html
+title: "TextSegment.MyHtmlEncode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TextSegment. تقوم بترميز السلسلة كـ html"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.text/textsegment/myhtmlencode/
 ---
-## طريقة TextSegment.MyHtmlEncode
+## TextSegment.MyHtmlEncode method
 
-ترميز السلسلة كـ html.
+يقوم بترميز السلسلة كـ html.
 
 ```csharp
 public static string MyHtmlEncode(string value)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | String | قيمة السلسلة المراد ترميزها. |
+| القيمة | String | قيمة السلسلة للترميز. |
 
 ### قيمة الإرجاع
 
-سلسلة مشفرة بتنسيق html.
+سلسلة مشفرة بصيغة Html.
 
 ### انظر أيضًا
 
 * class [TextSegment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

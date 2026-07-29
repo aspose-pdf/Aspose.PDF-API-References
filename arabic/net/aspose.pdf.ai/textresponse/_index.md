@@ -1,33 +1,35 @@
 ---
-title: Class TextResponse
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.TextResponse. تمثل محتوى النص الذي هو جزء من رسالة
+title: "الفئة TextResponse"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.AI.TextResponse. تمثل محتوى النص الذي هو جزء من رسالة."
 type: docs
-weight: 1100
+weight: 1190
 url: /ar/net/aspose.pdf.ai/textresponse/
 ---
 ## TextResponse class
 
-تمثل محتوى النص الذي هو جزء من رسالة.
+يمثل محتوى النص الذي هو جزء من رسالة.
 
 ```csharp
 public class TextResponse
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [TextResponse](textresponse/)() | المُنشئ الافتراضي. |
+| [TextResponse](textresponse/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Annotations](../../aspose.pdf.ai/textresponse/annotations/) { get; set; } | يحصل أو يحدد قائمة بالتعليقات التوضيحية للرسالة. |
-| [Value](../../aspose.pdf.ai/textresponse/value/) { get; set; } | يحصل أو يحدد نص الرسالة. |
+| [Annotations](../../aspose.pdf.ai/textresponse/annotations/) { get; set; } | يحصل أو يعيّن قائمة بالتعليقات التوضيحية للرسالة. |
+| [Value](../../aspose.pdf.ai/textresponse/value/) { get; set; } | يحصل أو يعيّن نص الرسالة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

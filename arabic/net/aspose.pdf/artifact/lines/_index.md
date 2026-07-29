@@ -1,14 +1,14 @@
 ---
-title: Artifact.Lines
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الأرتيفكت. خطوط نص متعدد الأسطر
+title: "Artifact.Lines"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Artifact. أسطر الـ artifact النصي متعدد الأسطر"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf/artifact/lines/
 ---
-## خاصية Artifact.Lines
+## Artifact.Lines property
 
-خطوط نص متعدد الأسطر.
+أسطر قطعة النص متعدد الأسطر.
 
 ```csharp
 public List<string> Lines { get; }
@@ -19,3 +19,5 @@ public List<string> Lines { get; }
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

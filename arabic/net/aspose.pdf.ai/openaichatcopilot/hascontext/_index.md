@@ -1,12 +1,12 @@
 ---
-title: OpenAIChatCopilot.HasContext
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OpenAIChatCopilot.
+title: "OpenAIChatCopilot.HasContext"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "OpenAIChatCopilot خاصية."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/openaichatcopilot/hascontext/
 ---
-## خاصية OpenAIChatCopilot.HasContext
+## OpenAIChatCopilot.HasContext property
 
 ```csharp
 public bool HasContext { get; }
@@ -17,3 +17,5 @@ public bool HasContext { get; }
 * class [OpenAIChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

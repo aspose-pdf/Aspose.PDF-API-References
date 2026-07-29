@@ -1,14 +1,14 @@
 ---
-title: TextFragment.WrapLinesCount
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragment. تحصل أو تعين عدد الأسطر الملتفة لهذه الفقرة 
+title: "TextFragment.WrapLinesCount"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "TextFragment خاصية. يحصل أو يضبط عدد أسطر الالتفاف لهذا الفقرة. للتوليد PDF فقط"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf.text/textfragment/wraplinescount/
 ---
-## خاصية TextFragment.WrapLinesCount
+## TextFragment.WrapLinesCount property
 
-تحصل أو تعين عدد الأسطر الملتفة لهذه الفقرة (لأغراض توليد PDF فقط)
+يحصل أو يعيّن عدد أسطر الالتفاف لهذه الفقرة (لإنشاء pdf فقط)
 
 ```csharp
 public int WrapLinesCount { get; set; }
@@ -19,3 +19,5 @@ public int WrapLinesCount { get; set; }
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

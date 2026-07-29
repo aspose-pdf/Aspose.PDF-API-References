@@ -1,12 +1,12 @@
 ---
-title: Enum NumberingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: تعداد Aspose.Pdf.NumberingStyle. تعداد أنماط ترقيم الصفحات المدعومة لفئة PageLabel
+title: "تعداد NumberingStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.NumberingStyle. تعداد لأنماط ترقيم الصفحات المدعومة لفئة PageLabel"
 type: docs
-weight: 7030
+weight: 7170
 url: /ar/net/aspose.pdf/numberingstyle/
 ---
-## تعداد NumberingStyle
+## NumberingStyle enumeration
 
 تعداد أنماط ترقيم الصفحات المدعومة لفئة PageLabel.
 
@@ -19,13 +19,15 @@ public enum NumberingStyle
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | NumeralsArabic | `0` | أرقام عشرية عربية. |
-| NumeralsRomanUppercase | `1` | أرقام رومانية كبيرة (I, II, III...). |
-| NumeralsRomanLowercase | `2` | أرقام رومانية صغيرة (i, ii, iii...). |
-| LettersUppercase | `3` | حروف لاتينية كبيرة (A, B, C...). |
-| LettersLowercase | `4` | حروف لاتينية صغيرة (a, b, c...). |
-| None | `5` | لا يوجد ترقيم. |
+| NumeralsRomanUppercase | `1` | أرقام رومانية بالحروف الكبيرة (I, II, III...). |
+| NumeralsRomanLowercase | `2` | أرقام رومانية بالحروف الصغيرة (i, ii, iii...). |
+| LettersUppercase | `3` | حروف لاتينية بالحروف الكبيرة (A, B, C...). |
+| LettersLowercase | `4` | حروف لاتينية بالحروف الصغيرة (a, b, c...). |
+| None | `5` | بدون ترقيم. |
 
 ### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,21 +1,24 @@
 ---
-title: ChatMessage.Content
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ChatMessage. تحصل أو تعين محتويات الرسالة
+title: "ChatMessage.Content"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ChatMessage. تحصل أو تعين محتويات الرسالة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.ai/chatmessage/content/
 ---
-## خاصية ChatMessage.Content
+## ChatMessage.Content property
 
-تحصل أو تعين محتويات الرسالة.
+يحصل أو يعيّن محتوى الرسالة.
 
 ```csharp
-public string Content { get; set; }
+public List<MessageContentRequest> Content { get; set; }
 ```
 
 ### انظر أيضًا
 
+* class [MessageContentRequest](../../messagecontentrequest/)
 * class [ChatMessage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

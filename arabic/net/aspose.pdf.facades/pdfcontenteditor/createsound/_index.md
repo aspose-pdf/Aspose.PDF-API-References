@@ -1,29 +1,31 @@
 ---
-title: PdfContentEditor.CreateSound
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfContentEditor. تنشئ تعليقات صوتية
+title: "PdfContentEditor.CreateSound"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfContentEditor. ينشئ تعليقات صوتية"
 type: docs
 weight: 270
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/createsound/
 ---
 ## PdfContentEditor.CreateSound method
 
-تنشئ تعليقات صوتية.
+ينشئ تعليقات Sound.
 
 ```csharp
 public void CreateSound(Rectangle rect, string filePath, string name, int page, string rate)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| rect | Rectangle | مستطيل التعليق الذي يحدد موقع التعليق على الصفحة. |
+| rect | Rectangle | مستطيل التعليق يحدد موقع التعليق على الصفحة. |
 | filePath | String | مسار ملف الصوت. |
-| name | String | اسم أيقونة سيتم استخدامها في عرض التعليق، تشمل: مكبر صوت وميكروفون. |
-| page | Int32 | الصفحة التي يتم فيها إنشاء التعليق الصوتي. |
-| rate | String | معدل العينة، بالعينات في الثانية. |
+| الاسم | String | اسم الأيقونة التي ستُستخدم في عرض التعليق، تشمل:Speaker و Mic. |
+| صفحة | Int32 | الصفحة التي يُنشأ فيها التعليق الصوتي. |
+| معدل | String | معدل العينة، بالعينات في الثانية. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

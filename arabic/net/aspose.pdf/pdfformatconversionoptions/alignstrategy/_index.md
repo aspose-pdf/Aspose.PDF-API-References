@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.AlignStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PdfFormatConversionOptions. استراتيجية لمحاذاة النص. هذه المعلمة لها معنى فقط عندما يتم تعيين علامة AlignText على true
+title: "PdfFormatConversionOptions.AlignStrategy"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PdfFormatConversionOptions. استراتيجية لمحاذاة النص. هذا المعامل له معنى فقط عندما يتم تعيين العلم AlignText إلى true"
 type: docs
-weight: 230
+weight: 240
 url: /ar/net/aspose.pdf/pdfformatconversionoptions/alignstrategy/
 ---
-## حقل PdfFormatConversionOptions.AlignStrategy
+## PdfFormatConversionOptions.AlignStrategy field
 
-استراتيجية لمحاذاة النص. هذه المعلمة لها معنى فقط عندما يتم تعيين علامة [`AlignText`](../aligntext/) على true.
+استراتيجية لمحاذاة النص. هذا المعامل له معنى فقط عندما يتم تعيين العلم [`AlignText`](../aligntext/) إلى true.
 
 ```csharp
 public SegmentAlignStrategy AlignStrategy;
@@ -20,3 +20,5 @@ public SegmentAlignStrategy AlignStrategy;
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

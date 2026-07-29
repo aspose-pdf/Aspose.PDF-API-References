@@ -1,14 +1,14 @@
 ---
-title: Class Id
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Id. تمثل هيكل معرف الملف
+title: "الفئة Id"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Id. تمثل بنية معرف الملف."
 type: docs
-weight: 5850
+weight: 5980
 url: /ar/net/aspose.pdf/id/
 ---
-## فئة Id
+## Id class
 
-تمثل هيكل معرف الملف.
+يمثل بنية معرف الملف.
 
 ```csharp
 public class Id
@@ -18,8 +18,8 @@ public class Id
 
 | الاسم | الوصف |
 | --- | --- |
-| [Modified](../../aspose.pdf/id/modified/) { get; } | تغيير المعرف بناءً على محتويات الوثيقة في الوقت الذي تم تحديثه فيه آخر مرة. |
-| [Original](../../aspose.pdf/id/original/) { get; } | معرف دائم بناءً على محتويات الوثيقة في الوقت الذي تم إنشاؤه فيه أصلاً. |
+| [Modified](../../aspose.pdf/id/modified/) { get; } | تغيير المعرف بناءً على محتويات المستند في وقت آخر تحديث له. |
+| [Original](../../aspose.pdf/id/original/) { get; } | معرف دائم يعتمد على محتويات المستند في الوقت الذي تم إنشاؤه فيه أصلاً. |
 
 ## أمثلة
 
@@ -31,5 +31,7 @@ string modified = doc.Id.Modified;
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

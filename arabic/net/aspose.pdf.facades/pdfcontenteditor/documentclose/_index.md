@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.DocumentClose
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PdfContentEditor. نوع حدث مستند. يغلق مستندًا
+title: "PdfContentEditor.DocumentClose"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PdfContentEditor. نوع حدث المستند. يغلق المستند"
 type: docs
 weight: 470
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/documentclose/
 ---
-## حقل PdfContentEditor.DocumentClose
+## PdfContentEditor.DocumentClose field
 
-نوع حدث مستند. يغلق مستندًا.
+نوع حدث المستند. يغلق المستند.
 
 ```csharp
 public const string DocumentClose;
@@ -19,3 +19,5 @@ public const string DocumentClose;
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

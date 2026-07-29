@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.MinFontSize
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormFieldOptions. تحصل/تضبط القيمة لتحديد خاصية MinFontSize للحقل الذي تم إنشاؤه/تعديله إذا تم تعيينه
+title: "FormFieldOptions.MinFontSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormFieldOptions. تحصل/تضبط القيمة لتحديد خاصية MinFontSize للحقل المُنشأ/المعدل إذا تم ضبطها"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.plugins/formfieldoptions/minfontsize/
 ---
-## خاصية FormFieldOptions.MinFontSize
+## FormFieldOptions.MinFontSize property
 
-تحصل/تضبط القيمة لتحديد خاصية MinFontSize للحقل الذي تم إنشاؤه/تعديله (إذا تم تعيينه).
+الحصول/التعيين للقيمة لتحديد الخاصية MinFontSize للحقل المُنشأ/المعدل (إذا سيتم تعيينها).
 
 ```csharp
 public double? MinFontSize { get; set; }
@@ -19,3 +19,5 @@ public double? MinFontSize { get; set; }
 * class [FormFieldOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

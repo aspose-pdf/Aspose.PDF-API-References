@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormat.FractionSeparator
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية NumberFormat. النص الذي سيتم استخدامه كموضع عشري في عرض القيم العددية. سلسلة فارغة تشير إلى أنه سيتم استخدام الافتراضي. الافتراضي هو حرف النقطة
+title: "Measure.NumberFormat.FractionSeparator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية NumberFormat. النص الذي سيُستخدم كموضع عشري عند عرض القيم الرقمية. السلسلة الفارغة تشير إلى أنه سيتم استخدام القيمة الافتراضية. الافتراضي هو حرف النقطة"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.annotations/measure.numberformat/fractionseparator/
 ---
-## خاصية Measure.NumberFormat.FractionSeparator
+## Measure.NumberFormat.FractionSeparator property
 
-النص الذي سيتم استخدامه كموضع عشري في عرض القيم العددية. سلسلة فارغة تشير إلى أنه سيتم استخدام الافتراضي. الافتراضي هو حرف النقطة.
+النص الذي سيُستخدم كموقع عشري عند عرض القيم العددية. السلسلة الفارغة تشير إلى أنه سيتم استخدام القيمة الافتراضية. القيمة الافتراضية هي حرف النقطة.
 
 ```csharp
 public string FractionSeparator { get; set; }
@@ -19,3 +19,5 @@ public string FractionSeparator { get; set; }
 * class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

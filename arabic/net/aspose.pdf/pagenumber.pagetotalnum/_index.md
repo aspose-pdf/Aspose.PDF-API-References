@@ -1,27 +1,29 @@
 ---
-title: Class PageNumber.PageTotalNum
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.PageNumberPageTotalNum. تمثل مكون العدد الإجمالي للصفحات في تنسيق رقم الصفحة
+title: "فئة PageNumber.PageTotalNum"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.PageNumberPageTotalNum. تمثل مكوّن إجمالي عدد الصفحات في تنسيق رقم الصفحة"
 type: docs
-weight: 8220
+weight: 8360
 url: /ar/net/aspose.pdf/pagenumber.pagetotalnum/
 ---
 ## PageNumber.PageTotalNum class
 
-تمثل مكون العدد الإجمالي للصفحات في تنسيق رقم الصفحة.
+يمثّل مكوّن إجمالي عدد الصفحات في تنسيق رقم الصفحة.
 
 ```csharp
 public sealed class PageTotalNum
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [PageTotalNum](../../aspose.pdf/pagenumber.pagetotalnum/.ctor)() | المُنشئ الافتراضي. |
+| [PageTotalNum](../../aspose.pdf/pagenumber.pagetotalnum/.ctor)() | البناء الافتراضي. |
 
-### See Also
+### انظر أيضًا
 
 * class [PageNumber](../pagenumber/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

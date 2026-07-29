@@ -1,14 +1,14 @@
 ---
-title: PdfToImageOptions.OutputResolution
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfToImageOptions. تحصل أو تعين قيمة دقة الصور الناتجة
+title: "PdfToImageOptions.OutputResolution"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfToImageOptions. يحصل أو يضبط قيمة الدقة للصور الناتجة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.plugins/pdftoimageoptions/outputresolution/
 ---
-## خاصية PdfToImageOptions.OutputResolution
+## PdfToImageOptions.OutputResolution property
 
-تحصل أو تعين قيمة دقة الصور الناتجة.
+يحصل أو يعيّن قيمة الدقة للصور الناتجة.
 
 ```csharp
 public int OutputResolution { get; set; }
@@ -19,3 +19,5 @@ public int OutputResolution { get; set; }
 * class [PdfToImageOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

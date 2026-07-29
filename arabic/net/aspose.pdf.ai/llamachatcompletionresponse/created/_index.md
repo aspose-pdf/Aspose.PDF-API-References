@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionResponse.Created
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LlamaChatCompletionResponse. تحصل أو تعين الطابع الزمني Unix بالثواني عندما تم إنشاء إكمال الدردشة
+title: "LlamaChatCompletionResponse.Created"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LlamaChatCompletionResponse. تحصل أو تعيّن الطابع الزمني Unix بالثواني للوقت الذي تم فيه إنشاء إكمال الدردشة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/llamachatcompletionresponse/created/
 ---
-## خاصية LlamaChatCompletionResponse.Created
+## LlamaChatCompletionResponse.Created property
 
-تحصل أو تعين الطابع الزمني Unix (بالثواني) عندما تم إنشاء إكمال الدردشة.
+يحصل أو يضبط الطابع الزمني Unix (بالثواني) للوقت الذي تم فيه إنشاء إكمال الدردشة.
 
 ```csharp
 public long Created { get; set; }
@@ -19,3 +19,5 @@ public long Created { get; set; }
 * class [LlamaChatCompletionResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

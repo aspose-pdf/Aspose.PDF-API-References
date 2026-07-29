@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.Underline
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragmentState. تحصل أو تعين خط تحت للنص الممثل بواسطة كائن TextFragment
+title: "TextFragmentState.Underline"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragmentState. يحصل أو يضبط الخط السفلي للنص الممثل بواسطة كائن TextFragment"
 type: docs
 weight: 220
 url: /ar/net/aspose.pdf.text/textfragmentstate/underline/
 ---
-## خاصية TextFragmentState.Underline
+## TextFragmentState.Underline property
 
-تحصل أو تعين خط تحت للنص، الممثل بواسطة كائن [`TextFragment`](../../textfragment/) 
+يحصل أو يضبط التسطير للنص، الممثل بواسطة كائن [`TextFragment`](../../textfragment/)
 
 ```csharp
 public override bool Underline { get; set; }
@@ -16,6 +16,8 @@ public override bool Underline { get; set; }
 
 ### انظر أيضًا
 
-* فئة [TextFragmentState](../)
-* مساحة الأسماء [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../../)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

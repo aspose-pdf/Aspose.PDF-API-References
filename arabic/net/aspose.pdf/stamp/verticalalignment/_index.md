@@ -1,14 +1,14 @@
 ---
-title: Stamp.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Stamp. تحصل أو تعين المحاذاة الرأسية للختم على الصفحة
+title: "Stamp.VerticalAlignment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Stamp. تحصل أو تعيين المحاذاة العمودية للطابع على الصفحة"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf/stamp/verticalalignment/
 ---
-## خاصية Stamp.VerticalAlignment
+## Stamp.VerticalAlignment property
 
-تحصل أو تعين المحاذاة الرأسية للختم على الصفحة.
+يحصل أو يضبط محاذاة الطابع العمودية على الصفحة.
 
 ```csharp
 public VerticalAlignment VerticalAlignment { get; set; }
@@ -20,3 +20,5 @@ public VerticalAlignment VerticalAlignment { get; set; }
 * class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

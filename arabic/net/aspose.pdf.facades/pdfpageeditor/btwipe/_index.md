@@ -1,12 +1,12 @@
 ---
-title: PdfPageEditor.BTWIPE
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PdfPageEditor. مسح من الأسفل إلى الأعلى
+title: "PdfPageEditor.BTWIPE"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PdfPageEditor. BottomTop Wipe"
 type: docs
 weight: 210
 url: /ar/net/aspose.pdf.facades/pdfpageeditor/btwipe/
 ---
-## حقل PdfPageEditor.BTWIPE
+## PdfPageEditor.BTWIPE field
 
 مسح من الأسفل إلى الأعلى
 
@@ -19,3 +19,5 @@ public const int BTWIPE;
 * class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

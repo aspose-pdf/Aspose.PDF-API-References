@@ -1,14 +1,14 @@
 ---
-title: TextStamp.Height
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextStamp. الارتفاع المرغوب للختم على الصفحة
+title: "TextStamp.Height"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextStamp. الارتفاع المطلوب للطابع على الصفحة"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/textstamp/height/
 ---
-## خاصية TextStamp.Height
+## TextStamp.Height property
 
-الارتفاع المرغوب للختم على الصفحة.
+الارتفاع المطلوب للطابع على الصفحة.
 
 ```csharp
 public override double Height { get; set; }
@@ -19,3 +19,5 @@ public override double Height { get; set; }
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

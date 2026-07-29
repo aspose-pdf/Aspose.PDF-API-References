@@ -1,21 +1,23 @@
 ---
-title: Document.RemovePdfUaCompliance
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الوثيقة. إزالة امتثال pdfUa من الوثيقة
+title: "Document.RemovePdfUaCompliance"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Document. إزالة توافق pdfUa من المستند"
 type: docs
-weight: 810
+weight: 830
 url: /ar/net/aspose.pdf/document/removepdfuacompliance/
 ---
 ## Document.RemovePdfUaCompliance method
 
-إزالة امتثال pdfUa من الوثيقة
+إزالة توافق pdfUa من المستند
 
 ```csharp
 public void RemovePdfUaCompliance()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

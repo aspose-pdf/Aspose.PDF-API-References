@@ -1,14 +1,14 @@
 ---
-title: XmpValue.IsInteger
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XmpValue. تعيد true إذا كانت القيمة عدد صحيح
+title: "XmpValue.IsInteger"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XmpValue. تُرجع true إذا كانت القيمة عددًا صحيحًا"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/xmpvalue/isinteger/
 ---
-## خاصية XmpValue.IsInteger
+## XmpValue.IsInteger property
 
-تعيد true إذا كانت القيمة عدد صحيح.
+يعيد true إذا كانت القيمة عددًا صحيحًا.
 
 ```csharp
 public bool IsInteger { get; }
@@ -19,3 +19,5 @@ public bool IsInteger { get; }
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

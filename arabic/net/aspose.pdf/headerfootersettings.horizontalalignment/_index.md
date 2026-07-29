@@ -1,35 +1,37 @@
 ---
-title: Class HeaderFooterSettings.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HeaderFooterSettingsHorizontalAlignment class. يمثل إعدادات المحاذاة الأفقية للرأس والتذييل
+title: "الفئة HeaderFooterSettings.HorizontalAlignment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.HeaderFooterSettingsHorizontalAlignment. تمثل إعدادات المحاذاة الأفقية للترويسة والتذييل"
 type: docs
-weight: 5460
+weight: 5580
 url: /ar/net/aspose.pdf/headerfootersettings.horizontalalignment/
 ---
 ## HeaderFooterSettings.HorizontalAlignment class
 
-يمثل إعدادات المحاذاة الأفقية للرأس والتذييل.
+تمثل إعدادات المحاذاة الأفقية للترويسة والتذييل.
 
 ```csharp
 public class HorizontalAlignment
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [HorizontalAlignment](../../aspose.pdf/headerfootersettings.horizontalalignment/.ctor)() | المُنشئ الافتراضي. |
+| [HorizontalAlignment](../../aspose.pdf/headerfootersettings.horizontalalignment/.ctor)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Center](../../aspose.pdf/headerfootersettings.horizontalalignment/center) { get; set; } | يحصل أو يحدد إعدادات المحاذاة في المنتصف. |
-| [Left](../../aspose.pdf/headerfootersettings.horizontalalignment/left) { get; set; } | يحصل أو يحدد إعدادات المحاذاة إلى اليسار. |
-| [Right](../../aspose.pdf/headerfootersettings.horizontalalignment/right) { get; set; } | يحصل أو يحدد إعدادات المحاذاة إلى اليمين. |
+| [Center](../../aspose.pdf/headerfootersettings.horizontalalignment/center) { get; set; } | يحصل أو يضبط إعدادات محاذاة المركز. |
+| [Left](../../aspose.pdf/headerfootersettings.horizontalalignment/left) { get; set; } | يحصل أو يضبط إعدادات محاذاة اليسار. |
+| [Right](../../aspose.pdf/headerfootersettings.horizontalalignment/right) { get; set; } | يحصل أو يضبط إعدادات محاذاة اليمين. |
 
-### See Also
+### انظر أيضًا
 
 * class [HeaderFooterSettings](../headerfootersettings/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

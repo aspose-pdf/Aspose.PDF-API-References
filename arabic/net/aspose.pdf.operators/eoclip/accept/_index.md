@@ -1,26 +1,28 @@
 ---
-title: EOClip.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة EOClip. تقبل كائن الزائر لمعالجة المشغل
+title: "EOClip.Accept"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة EOClip. تقبل كائن الزائر لمعالجة المشغل"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/eoclip/accept/
 ---
-## طريقة EOClip.Accept
+## EOClip.Accept method
 
-تقبل كائن الزائر لمعالجة المشغل.
+يقبل كائن الزائر لمعالجة العامل.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الزائر | IOperatorSelector | كائن الزائر. |
+| زائر | IOperatorSelector | كائن Visitor. |
 
 ### انظر أيضًا
 
-* الواجهة [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* الفئة [EOClip](../)
-* مساحة الاسم [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [EOClip](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

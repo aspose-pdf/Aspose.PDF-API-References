@@ -1,14 +1,14 @@
 ---
-title: Document.Background
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. تحصل أو تعين لون خلفية الوثيقة
+title: "Document.Background"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. تُعيد أو تُحدد لون خلفية المستند."
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/document/background/
 ---
-## خاصية Document.Background
+## Document.Background property
 
-تحصل أو تعين لون خلفية الوثيقة.
+يحصل أو يعيّن لون الخلفية للمستند.
 
 ```csharp
 public Color Background { get; set; }
@@ -20,3 +20,5 @@ public Color Background { get; set; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

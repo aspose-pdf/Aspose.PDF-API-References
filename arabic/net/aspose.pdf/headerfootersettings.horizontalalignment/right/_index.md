@@ -1,14 +1,14 @@
 ---
-title: HeaderFooterSettings.HorizontalAlignment.Right
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية HorizontalAlignment. تحصل أو تعين إعدادات المحاذاة اليمنى
+title: "HeaderFooterSettings.HorizontalAlignment.Right"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية HorizontalAlignment. يحصل أو يضبط إعدادات المحاذاة إلى اليمين"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/headerfootersettings.horizontalalignment/right/
 ---
-## خاصية HeaderFooterSettings.HorizontalAlignment.Right
+## HeaderFooterSettings.HorizontalAlignment.Right property
 
-تحصل أو تعين إعدادات المحاذاة اليمنى.
+يحصل أو يضبط إعدادات محاذاة اليمين.
 
 ```csharp
 public Right Right { get; set; }
@@ -20,3 +20,5 @@ public Right Right { get; set; }
 * class [HorizontalAlignment](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

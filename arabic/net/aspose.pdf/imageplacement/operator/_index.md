@@ -1,14 +1,14 @@
 ---
-title: ImagePlacement.Operator
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ImagePlacement. المشغل المستخدم لعرض الصورة
+title: "ImagePlacement.Operator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ImagePlacement. المشغل المستخدم لعرض الصورة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/imageplacement/operator/
 ---
-## خاصية ImagePlacement.Operator
+## ImagePlacement.Operator property
 
-المشغل المستخدم لعرض الصورة.
+المعامل المستخدم لعرض الصورة.
 
 ```csharp
 public Operator Operator { get; }
@@ -20,3 +20,5 @@ public Operator Operator { get; }
 * class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

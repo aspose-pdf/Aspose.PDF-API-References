@@ -1,14 +1,14 @@
 ---
-title: Re.Re
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ Re. يقوم بتهيئة العامل
+title: "Re.Re"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Re. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/re/re/
 ---
 ## Re() {#constructor}
 
-يقوم بتهيئة العامل.
+يُهيئ العامل.
 
 ```csharp
 public Re()
@@ -24,21 +24,23 @@ public Re()
 
 ## Re(double, double, double, double) {#constructor_1}
 
-يقوم بتهيئة العامل.
+يُهيئ العامل.
 
 ```csharp
 public Re(double x, double y, double width, double height)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| x | Double | إحداثي x لأسفل الزاوية اليسرى من المستطيل. |
-| y | Double | إحداثي y لأسفل الزاوية اليسرى من المستطيل. |
-| width | Double | عرض المستطيل. |
-| height | Double | ارتفاع المستطيل. |
+| x | Double | الإحداثي س للزاوية السفلية اليسرى للمستطيل. |
+| y | Double | الإحداثي ص للزاوية السفلية اليسرى للمستطيل. |
+| العرض | Double | عرض المستطيل. |
+| الارتفاع | Double | ارتفاع المستطيل. |
 
 ### انظر أيضًا
 
 * class [Re](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

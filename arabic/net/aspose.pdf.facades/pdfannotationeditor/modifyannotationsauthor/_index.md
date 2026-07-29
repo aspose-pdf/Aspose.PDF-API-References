@@ -1,23 +1,23 @@
 ---
-title: PdfAnnotationEditor.ModifyAnnotationsAuthor
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfAnnotationEditor. تعدل مؤلف التعليقات التوضيحية على نطاق الصفحات المحدد
+title: "PdfAnnotationEditor.ModifyAnnotationsAuthor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfAnnotationEditor. تعدل مؤلف التعليقات التوضيحية في نطاق الصفحات المحدد"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.facades/pdfannotationeditor/modifyannotationsauthor/
 ---
-## طريقة PdfAnnotationEditor.ModifyAnnotationsAuthor
+## PdfAnnotationEditor.ModifyAnnotationsAuthor method
 
-تعدل مؤلف التعليقات التوضيحية على نطاق الصفحات المحدد.
+يُعدّل مؤلف التعليقات التوضيحية ضمن نطاق الصفحات المحدد.
 
 ```csharp
 public void ModifyAnnotationsAuthor(int start, int end, string srcAuthor, string desAuthor)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| start | Int32 | رقم الصفحة الابتدائية. |
-| end | Int32 | رقم الصفحة النهائية. |
+| start | Int32 | رقم الصفحة البداية. |
+| end | Int32 | رقم الصفحة النهاية. |
 | srcAuthor | String | المؤلف الذي يجب تعديله. |
 | desAuthor | String | المؤلف الجديد. |
 
@@ -35,3 +35,5 @@ editor.Save("example_out.pdf");
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Table.BreakText
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الجدول. تحصل أو تعين نص الفواصل للجدول
+title: "Table.BreakText"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Table. يحصل أو يضبط نص الفاصل للجدول."
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/table/breaktext/
 ---
-## خاصية Table.BreakText
+## Table.BreakText property
 
-تحصل أو تعين نص الفواصل للجدول
+يحصل أو يضبط نص الفاصل للجدول
 
 ```csharp
 public TextFragment BreakText { get; set; }
@@ -20,3 +20,5 @@ public TextFragment BreakText { get; set; }
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

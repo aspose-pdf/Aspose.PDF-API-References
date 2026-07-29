@@ -1,14 +1,14 @@
 ---
-title: Color.MintCream
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على لون معرف من النظام له قيمة ARGB تساوي c FFF5FFFA
+title: "Color.MintCream"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. تحصل على لون معرف بالنظام له قيمة ARGB c FFF5FFFA"
 type: docs
 weight: 930
 url: /ar/net/aspose.pdf/color/mintcream/
 ---
-## خاصية Color.MintCream
+## Color.MintCream property
 
-تحصل على لون معرف من النظام له قيمة ARGB تساوي \c \#FFF5FFFA.
+يحصل على لون معرف من النظام له قيمة ARGB \c \#FFF5FFFA.
 
 ```csharp
 public static Color MintCream { get; }
@@ -16,10 +16,12 @@ public static Color MintCream { get; }
 
 ### قيمة الإرجاع
 
-يمثل لونًا معرفًا من النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

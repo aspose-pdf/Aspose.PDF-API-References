@@ -1,14 +1,14 @@
 ---
-title: FileSpecification.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FileSpecification. التخلص من المحتويات
+title: "FileSpecification.Dispose"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FileSpecification. تخلص من المحتويات"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf/filespecification/dispose/
 ---
-## طريقة FileSpecification.Dispose
+## FileSpecification.Dispose method
 
-التخلص من المحتويات.
+إلغاء المحتويات.
 
 ```csharp
 public void Dispose()
@@ -19,3 +19,5 @@ public void Dispose()
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

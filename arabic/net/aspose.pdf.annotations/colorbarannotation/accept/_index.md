@@ -1,22 +1,22 @@
 ---
-title: ColorBarAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ColorBarAnnotation. تقبل كائن الزائر لمعالجة التعليق
+title: "ColorBarAnnotation.Accept"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ColorBarAnnotation. تقبل كائن الزائر لمعالجة التعليق التوضيحي"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/colorbarannotation/accept/
 ---
-## طريقة ColorBarAnnotation.Accept
+## ColorBarAnnotation.Accept method
 
-تقبل كائن الزائر لمعالجة التعليق.
+يقبل كائن الزائر لمعالجة التعليق.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الزائر | AnnotationSelector | كائن الزائر. |
+| زائر | AnnotationSelector | كائن Visitor. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public override void Accept(AnnotationSelector visitor)
 * class [ColorBarAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

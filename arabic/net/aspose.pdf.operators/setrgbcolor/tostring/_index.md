@@ -1,14 +1,14 @@
 ---
-title: SetRGBColor.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة SetRGBColor. تعيد تمثيل نصي للمعامل
+title: "SetRGBColor.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة SetRGBColor. تُرجع تمثيل النص للمشغل"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.operators/setrgbcolor/tostring/
 ---
-## طريقة SetRGBColor.ToString
+## SetRGBColor.ToString method
 
-تعيد تمثيل نصي للمعامل.
+يعيد تمثيل النص للعامل.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-تمثيل نصي للمعامل.
+تمثيل النص للعامل.
 
 ### انظر أيضًا
 
 * class [SetRGBColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

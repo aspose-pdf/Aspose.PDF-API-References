@@ -1,35 +1,37 @@
 ---
-title: Class PageRange
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.PageRange. تمثل نطاق الصفحات لإعدادات الرأس والتذييل
+title: "الفئة PageRange"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.PageRange. تمثل نطاق الصفحات لإعدادات الرأس والتذييل"
 type: docs
-weight: 8240
+weight: 8380
 url: /ar/net/aspose.pdf/pagerange/
 ---
 ## PageRange class
 
-تمثل نطاق الصفحات لإعدادات الرأس والتذييل.
+يمثل نطاق الصفحات لإعدادات الرأس والتذييل.
 
 ```csharp
 public sealed class PageRange
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [PageRange](pagerange/)() | المُنشئ الافتراضي. |
+| [PageRange](pagerange/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [End](../../aspose.pdf/pagerange/end/) { get; set; } | يحصل على أو يحدد رقم الصفحة النهائية. |
-| [Even](../../aspose.pdf/pagerange/even/) { get; set; } | يحصل على أو يحدد الإعداد للصفحات الزوجية. |
-| [Odd](../../aspose.pdf/pagerange/odd/) { get; set; } | يحصل على أو يحدد الإعداد للصفحات الفردية. |
-| [Start](../../aspose.pdf/pagerange/start/) { get; set; } | يحصل على أو يحدد رقم الصفحة الابتدائية. |
+| [End](../../aspose.pdf/pagerange/end/) { get; set; } | يحصل أو يعيّن رقم الصفحة النهائية. |
+| [Even](../../aspose.pdf/pagerange/even/) { get; set; } | يحصل أو يعيّن الإعداد للصفحات الزوجية. |
+| [Odd](../../aspose.pdf/pagerange/odd/) { get; set; } | يحصل أو يعيّن الإعداد للصفحات الفردية. |
+| [Start](../../aspose.pdf/pagerange/start/) { get; set; } | يحصل أو يعيّن رقم الصفحة الأولى. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

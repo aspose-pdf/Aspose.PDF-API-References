@@ -1,54 +1,56 @@
 ---
-title: Class PdfExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.PdfExtractor. تمثل الوظائف الأساسية لاستخراج النصوص والصور وأنواع أخرى من المحتوى التي قد تحدث في صفحات مستندات PDF
+title: "فئة PdfExtractor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Plugins.PdfExtractor. يمثل الوظيفة الأساسية لاستخراج النصوص والصور وأنواع أخرى من المحتوى التي قد تظهر على صفحات مستندات PDF."
 type: docs
-weight: 9060
+weight: 9210
 url: /ar/net/aspose.pdf.plugins/pdfextractor/
 ---
 ## PdfExtractor class
 
-تمثل الوظائف الأساسية لاستخراج النصوص والصور وأنواع أخرى من المحتوى التي قد تحدث في صفحات مستندات PDF.
+يمثل الوظيفة الأساسية لاستخراج النصوص والصور وأنواع أخرى من المحتوى التي قد تظهر في صفحات مستندات PDF.
 
 ```csharp
 public abstract class PdfExtractor : IDisposable, IPlugin
 ```
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/pdfextractor/dispose/)() | تنفيذ IDisposable. في الواقع، ليس من الضروري لفئة PdfExtractor. |
-| [Process](../../aspose.pdf.plugins/pdfextractor/process/)(IPluginOptions) | يبدأ معالجة PdfExtractor مع المعلمات المحددة. |
+| [Dispose](../../aspose.pdf.plugins/pdfextractor/dispose/)() | تنفيذ IDisposable. في الواقع، ليس ضرورياً لـ PdfExtractor. |
+| [Process](../../aspose.pdf.plugins/pdfextractor/process/)(IPluginOptions) | يبدأ معالجة PdfExtractor بالمعلمات المحددة. |
 
-## Remarks
+## ملاحظات
 
-يتم استخدام كائن [`TextExtractor`](../textextractor/) لاستخراج النصوص، أو [`ImageExtractor`](../imageextractor/) لاستخراج الصور.
+الكائن [`TextExtractor`](../textextractor/) يُستخدم لاستخراج النص، أو [`ImageExtractor`](../imageextractor/) لاستخراج الصور.
 
-## Examples
+## أمثلة
 
-المثال يوضح كيفية استخراج محتوى النص من مستند PDF.
+يوضح المثال كيفية استخراج محتوى النص من مستند PDF.
 
 ```csharp
-// create TextExtractor object to extract PDF contents
+// إنشاء كائن TextExtractor لاستخراج محتويات PDF
 using (TextExtractor extractor = new TextExtractor())
 {
-    // create TextExtractorOptions object to set instructions
+    // إنشاء كائن TextExtractorOptions لتعيين التعليمات
     textExtractorOptions = new TextExtractorOptions();
     
-    // add input file path to data sources
+    // إضافة مسار ملف الإدخال إلى مصادر البيانات
     textExtractorOptions.AddInput(new FileDataSource(inputPath));
     
-    // perform extraction process
+    // تنفيذ عملية الاستخراج
     ResultContainer resultContainer = extractor.Process(textExtractorOptions);
     
-    // get the extracted text from the ResultContainer object
+    // الحصول على النص المستخرج من كائن ResultContainer
     string textExtracted = resultContainer.ResultCollection[0].ToString();
 }
 ```
 
-### See Also
+### انظر أيضًا
 
 * interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

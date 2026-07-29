@@ -1,28 +1,30 @@
 ---
-title: Class EmptyValueException
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.EmptyValueException. استثناء يتم رميه عندما لا توجد القيمة المطلوبة
+title: "الفئة EmptyValueException"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.EmptyValueException. استثناء يُرمى عندما لا توجد القيمة المطلوبة"
 type: docs
-weight: 4030
+weight: 4150
 url: /ar/net/aspose.pdf/emptyvalueexception/
 ---
 ## EmptyValueException class
 
-استثناء يتم رميه عندما لا توجد القيمة المطلوبة.
+الاستثناء الذي يُرمى عندما لا توجد القيمة المطلوبة.
 
 ```csharp
 public class EmptyValueException : PdfException
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [EmptyValueException](emptyvalueexception/#constructor)() | Initializes a new instance of the `EmptyValueException` class. |
-| [EmptyValueException](emptyvalueexception/#constructor_1)(string) | Constructor. |
+| [EmptyValueException](emptyvalueexception/#constructor)() | يُهيّئ نسخة جديدة من الفئة `EmptyValueException`. |
+| [EmptyValueException](emptyvalueexception/#constructor_1)(string) | منشئ. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfException](../pdfexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

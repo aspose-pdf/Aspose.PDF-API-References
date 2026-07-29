@@ -1,44 +1,46 @@
 ---
-title: Class PageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.PageInfo. تمثل معلومات الصفحة
+title: "الفئة PageInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.PageInfo. تمثل معلومات الصفحة"
 type: docs
-weight: 8150
+weight: 8290
 url: /ar/net/aspose.pdf/pageinfo/
 ---
 ## PageInfo class
 
-تمثل معلومات الصفحة.
+يمثل معلومات الصفحة.
 
 ```csharp
 public sealed class PageInfo : ICloneable
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [PageInfo](pageinfo/)() | المُنشئ الافتراضي. |
+| [PageInfo](pageinfo/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [AnyMargin](../../aspose.pdf/pageinfo/anymargin/) { get; set; } | يحصل أو يحدد هامش الصفحة لأي صفحة باستثناء الأولى. |
-| [DefaultTextState](../../aspose.pdf/pageinfo/defaulttextstate/) { get; set; } | يحصل أو يحدد الخط الافتراضي. |
-| [Height](../../aspose.pdf/pageinfo/height/) { get; set; } | يحصل أو يحدد ارتفاع الصفحة. |
-| [IsLandscape](../../aspose.pdf/pageinfo/islandscape/) { get; set; } | يحصل أو يحدد ما إذا كانت الصفحة في وضع العرض. |
-| [Margin](../../aspose.pdf/pageinfo/margin/) { get; set; } | يحصل أو يحدد هامش الصفحة. |
-| [PureHeight](../../aspose.pdf/pageinfo/pureheight/) { get; } | يحصل على ارتفاع الصفحة النقي بدون هوامش. |
-| [Width](../../aspose.pdf/pageinfo/width/) { get; set; } | يحصل أو يحدد عرض الصفحة. |
+| [AnyMargin](../../aspose.pdf/pageinfo/anymargin/) { get; set; } | يحصل أو يضبط هامش الصفحة لأي صفحة باستثناء الأولى. |
+| [DefaultTextState](../../aspose.pdf/pageinfo/defaulttextstate/) { get; set; } | يحصل أو يضبط الخط الافتراضي. |
+| [Height](../../aspose.pdf/pageinfo/height/) { get; set; } | يحصل أو يضبط ارتفاع الصفحة. |
+| [IsLandscape](../../aspose.pdf/pageinfo/islandscape/) { get; set; } | يحصل أو يضبط ما إذا كانت الصفحة أفقية. |
+| [Margin](../../aspose.pdf/pageinfo/margin/) { get; set; } | يحصل أو يضبط هامش الصفحة. |
+| [PureHeight](../../aspose.pdf/pageinfo/pureheight/) { get; } | يحصل أو يضبط الارتفاع الصافي للصفحة بدون هوامش. |
+| [Width](../../aspose.pdf/pageinfo/width/) { get; set; } | يحصل أو يضبط عرض الصفحة. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [Clone](../../aspose.pdf/pageinfo/clone/)() | استنساخ معلومات الصفحة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

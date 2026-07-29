@@ -1,32 +1,34 @@
 ---
-title: Enum BorderSide
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BorderSide enum. تعدد جوانب الحدود
+title: "التعداد BorderSide"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.BorderSide. يعدد جوانب الحدود"
 type: docs
-weight: 2910
+weight: 3020
 url: /ar/net/aspose.pdf/borderside/
 ---
 ## BorderSide enumeration
 
-تعدد جوانب الحدود.
+يعدّ جوانب الحدود.
 
 ```csharp
 public enum BorderSide
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| None | `0` | لا توجد حدود. |
-| Left | `1` | حد أيسر. |
-| Top | `2` | حد علوي. |
-| Right | `4` | حد أيمن. |
-| Bottom | `8` | حد سفلي. |
-| All | `15` | جميع جوانب الحدود. له نفس المعنى عند استخدام "Box" وسيتم استبداله بـ "Box" بعد عام. لذا، يرجى استخدام "Box" إذا كان ذلك ممكنًا. |
+| None | `0` | بدون حد. |
+| Left | `1` | الحد الأيسر. |
+| Top | `2` | الحد العلوي. |
+| Right | `4` | الحد الأيمن. |
+| Bottom | `8` | الحد السفلي. |
+| All | `15` | حدود جميع الجوانب. لها نفس المعنى عند استخدام \"Box\" وسيتم استبدالها بـ \"Box\" بعد عام واحد. لذا، يرجى استخدام \"Box\" إذا كان ذلك ممكنًا. |
 | Box | `15` | حدود أربعة جوانب. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

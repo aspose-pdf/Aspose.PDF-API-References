@@ -1,14 +1,14 @@
 ---
-title: Stamp.LeftMargin
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الطابع. تحصل أو تعين الهامش الأيسر للطابع
+title: "Stamp.LeftMargin"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Stamp. تحصل أو تعيين الهامش الأيسر للطابع"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/stamp/leftmargin/
 ---
-## خاصية Stamp.LeftMargin
+## Stamp.LeftMargin property
 
-تحصل أو تعين الهامش الأيسر للطابع.
+يحصل أو يضبط الهامش الأيسر للطابع.
 
 ```csharp
 public double LeftMargin { get; set; }
@@ -19,3 +19,5 @@ public double LeftMargin { get; set; }
 * class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

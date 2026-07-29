@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetVectorStoresAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIClient. تسترجع قائمة من متاجر المتجهات بشكل غير متزامن
+title: "OpenAIClient.GetVectorStoresAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIClient. تسترجع قائمة بمخازن المتجهات بشكل غير متزامن"
 type: docs
-weight: 380
+weight: 390
 url: /ar/net/aspose.pdf.ai/openaiclient/getvectorstoresasync/
 ---
-## طريقة OpenAIClient.GetVectorStoresAsync
+## OpenAIClient.GetVectorStoresAsync method
 
-تسترجع قائمة من متاجر المتجهات بشكل غير متزامن.
+يسترجع قائمة بمخازن المتجهات بشكل غير متزامن.
 
 ```csharp
 public Task<VectorStoreListResponse> GetVectorStoresAsync(
@@ -16,14 +16,14 @@ public Task<VectorStoreListResponse> GetVectorStoresAsync(
     CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| queryParameters | VectorStoreListQueryParameters | معلمات استعلام اختيارية لتصفية قائمة متاجر المتجهات. |
+| queryParameters | VectorStoreListQueryParameters | معلمات استعلام اختيارية لتصفية قائمة مخازن المتجهات. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
 ### قيمة الإرجاع
 
-مهمة تمثل العملية غير المتزامنة. تحتوي نتيجة المهمة على قائمة من متاجر المتجهات.
+مهمة تمثل العملية غير المتزامنة. يحتوي نتيجة المهمة على قائمة بمخازن المتجهات.
 
 ### انظر أيضًا
 
@@ -32,3 +32,5 @@ public Task<VectorStoreListResponse> GetVectorStoresAsync(
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

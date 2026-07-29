@@ -1,22 +1,22 @@
 ---
-title: XFA.GetFieldTemplate
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XFA. تعيد عقدة XML لقالب حقل XFA
+title: "XFA.GetFieldTemplate"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XFA. تُرجع عقدة XML لقالب حقل XFA"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.forms/xfa/getfieldtemplate/
 ---
-## طريقة XFA.GetFieldTemplate
+## XFA.GetFieldTemplate method
 
-تعيد عقدة XML لقالب حقل XFA.
+يعيد عقدة XML لقالب حقل XFA.
 
 ```csharp
 public XmlNode GetFieldTemplate(string fieldName)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fieldName | سلسلة | مسار الحقل الذي يجب العثور على قانونه. |
+| fieldName | String | مسار الحقل الذي يجب العثور على القالب فيه. |
 
 ### قيمة الإرجاع
 
@@ -27,3 +27,5 @@ public XmlNode GetFieldTemplate(string fieldName)
 * class [XFA](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

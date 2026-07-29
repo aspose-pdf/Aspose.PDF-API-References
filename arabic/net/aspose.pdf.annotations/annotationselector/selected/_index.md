@@ -1,12 +1,12 @@
 ---
-title: AnnotationSelector.Selected
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AnnotationSelector. قائمة الكائنات المحددة
+title: "AnnotationSelector.Selected"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AnnotationSelector. قائمة الكائنات المحددة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/annotationselector/selected/
 ---
-## خاصية AnnotationSelector.Selected
+## AnnotationSelector.Selected property
 
 قائمة الكائنات المحددة.
 
@@ -20,3 +20,5 @@ public IList<Annotation> Selected { get; }
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

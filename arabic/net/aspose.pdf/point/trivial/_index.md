@@ -1,14 +1,14 @@
 ---
-title: Point.Trivial
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية النقطة. تحصل على نقطة بإحداثيات صفرية
+title: "Point.Trivial"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Point. تُرجع نقطة ذات إحداثيات صفرية"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/point/trivial/
 ---
-## خاصية Point.Trivial
+## Point.Trivial property
 
-تحصل على نقطة بإحداثيات صفرية.
+يحصل على نقطة بإحداثيات صفرية.
 
 ```csharp
 public static Point Trivial { get; }
@@ -19,3 +19,5 @@ public static Point Trivial { get; }
 * class [Point](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

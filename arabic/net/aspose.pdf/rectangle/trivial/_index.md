@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Trivial
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية المستطيل. يقوم بتهيئة مستطيل تافه أي مستطيل بموقع وحجم صفر
+title: "Rectangle.Trivial"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Rectangle. تُهيئ مستطيلًا بسيطًا أي مستطيلًا بموقع وحجم صفر"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/rectangle/trivial/
 ---
-## خاصية Rectangle.Trivial
+## Rectangle.Trivial property
 
-يقوم بتهيئة مستطيل تافه أي مستطيل بموقع وحجم صفر.
+يُنشئ مستطيلًا بسيطًا أي مستطيل بموقع وحجم صفر.
 
 ```csharp
 public static Rectangle Trivial { get; }
@@ -19,3 +19,5 @@ public static Rectangle Trivial { get; }
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

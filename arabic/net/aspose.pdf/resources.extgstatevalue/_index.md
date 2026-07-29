@@ -1,35 +1,37 @@
 ---
-title: Class Resources.ExtGStateValue
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ResourcesExtGStateValue class. يمثل ExtGStates مع بعض القيم
+title: "فئة Resources.ExtGStateValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.ResourcesExtGStateValue. تمثل ExtGStates ببعض القيم."
 type: docs
-weight: 9780
+weight: 9930
 url: /ar/net/aspose.pdf/resources.extgstatevalue/
 ---
 ## Resources.ExtGStateValue class
 
-يمثل ExtGStates مع بعض القيم.
+تمثل ExtGStates ببعض القيم.
 
 ```csharp
 public class ExtGStateValue
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [ExtGStateValue](../../aspose.pdf/resources.extgstatevalue/.ctor)(string) |  |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [CA](../../aspose.pdf/resources.extgstatevalue/ca) { get; } |  |
 | [ca](../../aspose.pdf/resources.extgstatevalue/ca) { get; } |  |
 | [Name](../../aspose.pdf/resources.extgstatevalue/name) { get; } |  |
 
-### See Also
+### انظر أيضًا
 
 * class [Resources](../resources/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

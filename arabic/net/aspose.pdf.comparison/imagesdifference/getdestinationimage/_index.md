@@ -1,25 +1,27 @@
 ---
-title: ImagesDifference.GetDestinationImage
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ImagesDifference. تُرجع صورة جديدة تمثل الصورة الوجهة من خلال تطبيق مصفوفة الفرق على الصورة المصدر
+title: "ImagesDifference.GetDestinationImage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ImagesDifference. تُرجع صورة bitmap جديدة تمثل الصورة الهدف عن طريق تطبيق مصفوفة الاختلاف على الصورة المصدر"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.comparison/imagesdifference/getdestinationimage/
 ---
 ## ImagesDifference.GetDestinationImage method
 
-تُرجع صورة جديدة تمثل الصورة الوجهة من خلال تطبيق مصفوفة الفرق على الصورة المصدر.
+يعيد صورة bitmap جديدة تمثل الصورة الهدف عبر تطبيق مصفوفة الفروق على صورة المصدر.
 
 ```csharp
 public Bitmap GetDestinationImage()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-صورة وجهة.
+صورة هدف.
 
-### See Also
+### انظر أيضًا
 
 * class [ImagesDifference](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

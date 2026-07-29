@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.EndingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LineAnnotation. تحصل أو تعين نمط النهاية لنقطة نهاية الخط
+title: "LineAnnotation.EndingStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LineAnnotation. تحصل أو تعين نمط النهاية لنقطة نهاية الخط"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.annotations/lineannotation/endingstyle/
 ---
-## خاصية LineAnnotation.EndingStyle
+## LineAnnotation.EndingStyle property
 
-تحصل أو تعين نمط النهاية لنقطة نهاية الخط.
+يحصل أو يضبط نمط النهاية لنقطة نهاية الخط.
 
 ```csharp
 public LineEnding EndingStyle { get; set; }
@@ -20,3 +20,5 @@ public LineEnding EndingStyle { get; set; }
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

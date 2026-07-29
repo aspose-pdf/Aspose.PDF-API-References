@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.CreateVectorStoreAndWaitToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIClient. تنشئ متجر متجه جديد وتنتظر حتى يكتمل بشكل غير متزامن
+title: "OpenAIClient.CreateVectorStoreAndWaitToCompleteAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIClient. تنشئ مخزنًا متجهًا جديدًا وتنتظر إكماله بشكل غير متزامن."
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.ai/openaiclient/createvectorstoreandwaittocompleteasync/
 ---
-## طريقة OpenAIClient.CreateVectorStoreAndWaitToCompleteAsync
+## OpenAIClient.CreateVectorStoreAndWaitToCompleteAsync method
 
-تنشئ متجر متجه جديد وتنتظر حتى يكتمل بشكل غير متزامن.
+ينشئ مخزنًا متجهًا جديدًا وينتظر إكماله بشكل غير متزامن.
 
 ```csharp
 public Task<VectorStoreResponse> CreateVectorStoreAndWaitToCompleteAsync(
@@ -16,14 +16,14 @@ public Task<VectorStoreResponse> CreateVectorStoreAndWaitToCompleteAsync(
     CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| vectorStoreCreateRequest | VectorStoreCreateRequest | كائن الطلب الذي يحتوي على تفاصيل إنشاء متجر المتجه. |
+| vectorStoreCreateRequest | VectorStoreCreateRequest | كائن الطلب الذي يحتوي على تفاصيل إنشاء مخزن المتجهات. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
 ### قيمة الإرجاع
 
-مهمة تمثل العملية غير المتزامنة. تحتوي نتيجة المهمة على الاستجابة من إنشاء متجر المتجه بعد الاكتمال.
+مهمة تمثل العملية غير المتزامنة. يحتوي نتيجة المهمة على الاستجابة من إنشاء مخزن المتجهات بعد الانتهاء.
 
 ### انظر أيضًا
 
@@ -32,3 +32,5 @@ public Task<VectorStoreResponse> CreateVectorStoreAndWaitToCompleteAsync(
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

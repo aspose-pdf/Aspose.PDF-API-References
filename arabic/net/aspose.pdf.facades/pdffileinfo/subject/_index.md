@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.Subject
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileInfo. تحصل أو تعين معلومات الموضوع لوثيقة PDF
+title: "PdfFileInfo.Subject"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileInfo. تحصل أو تعين معلومات الموضوع للوثيقة PDF"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.facades/pdffileinfo/subject/
 ---
-## خاصية PdfFileInfo.Subject
+## PdfFileInfo.Subject property
 
-تحصل أو تعين معلومات الموضوع لوثيقة PDF.
+Gets or sets the Subject information of PDF document.
 
 ```csharp
 public string Subject { get; set; }
@@ -19,3 +19,5 @@ public string Subject { get; set; }
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

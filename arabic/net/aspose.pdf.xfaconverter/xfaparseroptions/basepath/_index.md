@@ -1,20 +1,20 @@
 ---
-title: XfaParserOptions.BasePath
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XfaParserOptions. تحصل أو تعين المسار الأساسي
+title: "XfaParserOptions.BasePath"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XfaParserOptions. يحصل أو يعيّن المسار الأساسي."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.xfaconverter/xfaparseroptions/basepath/
 ---
-## خاصية XfaParserOptions.BasePath
+## XfaParserOptions.BasePath property
 
-تحصل أو تعين المسار الأساسي.
+يحصل أو يعيّن مسار القاعدة.
 
 ```csharp
 public Uri BasePath { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 المسار الأساسي.
 
@@ -23,3 +23,5 @@ public Uri BasePath { get; set; }
 * class [XfaParserOptions](../)
 * namespace [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Rectangle.URX
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية المستطيل. إحداثي X للزاوية العلوية اليمنى
+title: "Rectangle.URX"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Rectangle. إحداثي X للزاوية العليا اليمنى"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf/rectangle/urx/
 ---
-## خاصية Rectangle.URX
+## Rectangle.URX property
 
-إحداثي X للزاوية العلوية اليمنى.
+الإحداثي X للزاوية العليا اليمنى.
 
 ```csharp
 public double URX { get; set; }
@@ -19,3 +19,5 @@ public double URX { get; set; }
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

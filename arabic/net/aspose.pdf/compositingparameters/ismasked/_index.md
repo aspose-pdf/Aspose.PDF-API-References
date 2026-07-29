@@ -1,14 +1,14 @@
 ---
-title: CompositingParameters.IsMasked
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CompositingParameters. تحصل على علامة القناع
+title: "CompositingParameters.IsMasked"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CompositingParameters. تحصل على علامة القناع"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/compositingparameters/ismasked/
 ---
-## خاصية CompositingParameters.IsMasked
+## CompositingParameters.IsMasked property
 
-تحصل على علامة القناع.
+يحصل على علم القناع.
 
 ```csharp
 public bool IsMasked { get; }
@@ -19,3 +19,5 @@ public bool IsMasked { get; }
 * class [CompositingParameters](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

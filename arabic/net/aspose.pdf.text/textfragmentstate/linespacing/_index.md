@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.LineSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragmentState. تحصل أو تعين تباعد الأسطر للنص
+title: "TextFragmentState.LineSpacing"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragmentState. يحصل أو يضبط تباعد الأسطر للنص"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.text/textfragmentstate/linespacing/
 ---
-## خاصية TextFragmentState.LineSpacing
+## TextFragmentState.LineSpacing property
 
-تحصل أو تعين تباعد الأسطر للنص.
+يحصل أو يضبط تباعد الأسطر للنص.
 
 ```csharp
 public override float LineSpacing { get; set; }
@@ -16,10 +16,12 @@ public override float LineSpacing { get; set; }
 
 ## ملاحظات
 
-لاحظ أن القيمة لا يتم الاحتفاظ بها كخاصية نصية داخل الوثيقة. يعمل مُسترجع خاصية LineSpacing لكائن في حالة تم تعيينه صراحةً سابقًا باستخدام مُعين LineSpacing لذلك الكائن. تُستخدم الخاصية بواسطة وقت التشغيل في سياق عملية التوليد/التعديل الحالية.
+لاحظ أن القيمة لا تُحفظ كخاصية نص داخل المستند. يعمل مُستخرج خاصية LineSpacing لكائن في حال تم تعيينه صراحةً مسبقًا باستخدام مُعيّن LineSpacing لهذا الكائن. تُستخدم الخاصية بواسطة وقت التشغيل في سياق عملية الإنشاء/التعديل الحالية.
 
 ### انظر أيضًا
 
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

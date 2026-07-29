@@ -1,14 +1,14 @@
 ---
-title: TextSegment.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextSegment. تحصل أو تعين حالة النص للنص الذي يمثله كائن TextSegment
+title: "TextSegment.TextState"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextSegment. يحصل على أو يضبط حالة النص للنص الذي تمثله كائن TextSegment"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.text/textsegment/textstate/
 ---
-## خاصية TextSegment.TextState
+## TextSegment.TextState property
 
-تحصل أو تعين حالة النص للنص الذي يمثله [`TextSegment`](../) كائن.
+يحصل على أو يضبط حالة النص للنص الذي تمثله الكائن [`TextSegment`](../).
 
 ```csharp
 public TextState TextState { get; set; }
@@ -16,7 +16,7 @@ public TextState TextState { get; set; }
 
 ## ملاحظات
 
-يوفر وسيلة لتغيير الخصائص التالية للنص: Font FontSize FontStyle ForegroundColor BackgroundColor
+يوفر طريقة لتغيير الخصائص التالية للنص: Font FontSize FontStyle ForegroundColor BackgroundColor
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public TextState TextState { get; set; }
 * class [TextSegment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

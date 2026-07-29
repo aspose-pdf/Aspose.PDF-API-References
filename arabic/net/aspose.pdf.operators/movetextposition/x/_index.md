@@ -1,14 +1,14 @@
 ---
-title: MoveTextPosition.X
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MoveTextPosition. إحداثي X لموقع النص
+title: "MoveTextPosition.X"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MoveTextPosition. إحداثي X لموضع النص"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/movetextposition/x/
 ---
-## خاصية MoveTextPosition.X
+## MoveTextPosition.X property
 
-إحداثي X لموقع النص.
+الإحداثي X لموضع النص.
 
 ```csharp
 public double X { get; set; }
@@ -19,3 +19,5 @@ public double X { get; set; }
 * class [MoveTextPosition](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

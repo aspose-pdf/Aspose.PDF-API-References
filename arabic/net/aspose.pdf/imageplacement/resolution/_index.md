@@ -1,14 +1,14 @@
 ---
-title: ImagePlacement.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ImagePlacement. تحصل على دقة الصورة
+title: "ImagePlacement.Resolution"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ImagePlacement. تحصل على دقة الصورة"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/imageplacement/resolution/
 ---
-## خاصية ImagePlacement.Resolution
+## ImagePlacement.Resolution property
 
-تحصل على دقة الصورة.
+يحصل على دقة الصورة.
 
 ```csharp
 public Resolution Resolution { get; }
@@ -20,3 +20,5 @@ public Resolution Resolution { get; }
 * class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

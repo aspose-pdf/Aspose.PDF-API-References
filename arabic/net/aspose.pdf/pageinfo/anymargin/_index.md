@@ -1,14 +1,14 @@
 ---
-title: PageInfo.AnyMargin
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageInfo. تحصل أو تعين هامش الصفحة لأي صفحة باستثناء الأولى
+title: "PageInfo.AnyMargin"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageInfo. تحصل أو تعيّن هامش الصفحة لأي صفحة باستثناء الأولى"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/pageinfo/anymargin/
 ---
-## خاصية PageInfo.AnyMargin
+## PageInfo.AnyMargin property
 
-تحصل أو تعين هامش الصفحة لأي صفحة باستثناء الأولى.
+يحصل أو يضبط هامش الصفحة لأي صفحة باستثناء الأولى.
 
 ```csharp
 public MarginInfo AnyMargin { get; set; }
@@ -20,3 +20,5 @@ public MarginInfo AnyMargin { get; set; }
 * class [PageInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,24 +1,24 @@
 ---
-title: ArtifactCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ArtifactCollection. تحذف العنصر المحدد
+title: "ArtifactCollection.Delete"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ArtifactCollection. تحذف العنصر المحدد"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/artifactcollection/delete/
 ---
 ## Delete(Artifact) {#delete}
 
-تحذف العنصر المحدد.
+يحذف الأداة المحددة.
 
 ```csharp
 public void Delete(Artifact artifact)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| artifact | Artifact | العنصر الذي سيتم حذفه. |
+| قطعة | قطعة | العنصر الذي سيتم حذفه. |
 
-### See Also
+### انظر أيضًا
 
 * class [Artifact](../../artifact/)
 * class [ArtifactCollection](../)
@@ -29,18 +29,20 @@ public void Delete(Artifact artifact)
 
 ## Delete(int) {#delete_1}
 
-تحذف العنصر حسب فهرسه.
+يحذف الأداة حسب فهرستها.
 
 ```csharp
 public void Delete(int index)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | فهرس العنصر المراد حذفه. |
+| index | Int32 | فهرس العنصر الذي سيُحذف. |
 
-### See Also
+### انظر أيضًا
 
 * class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

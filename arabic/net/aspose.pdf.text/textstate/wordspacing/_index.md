@@ -1,14 +1,14 @@
 ---
-title: TextState.WordSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextState. تحصل أو تعين تباعد الكلمات للنص
+title: "TextState.WordSpacing"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextState. يحصل أو يضبط تباعد الكلمات في النص"
 type: docs
-weight: 190
+weight: 200
 url: /ar/net/aspose.pdf.text/textstate/wordspacing/
 ---
-## خاصية TextState.WordSpacing
+## TextState.WordSpacing property
 
-تحصل أو تعين تباعد الكلمات للنص.
+يحصل أو يضبط تباعد الكلمات للنص.
 
 ```csharp
 public virtual float WordSpacing { get; set; }
@@ -19,3 +19,5 @@ public virtual float WordSpacing { get; set; }
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: VectorStoreModifyRequest.Name
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية VectorStoreModifyRequest. تحصل أو تعين اسم متجر المتجهات
+title: "VectorStoreModifyRequest.Name"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية VectorStoreModifyRequest. تحصل أو تعيين اسم مخزن المتجهات"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.ai/vectorstoremodifyrequest/name/
 ---
-## خاصية VectorStoreModifyRequest.Name
+## VectorStoreModifyRequest.Name property
 
-تحصل أو تعين اسم متجر المتجهات.
+يحصل أو يعيّن اسم مخزن المتجهات.
 
 ```csharp
 public string Name { get; set; }
@@ -19,3 +19,5 @@ public string Name { get; set; }
 * class [VectorStoreModifyRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

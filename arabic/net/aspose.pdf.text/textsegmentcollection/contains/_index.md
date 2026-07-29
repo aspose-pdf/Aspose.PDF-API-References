@@ -1,26 +1,26 @@
 ---
-title: TextSegmentCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TextSegmentCollection. تحدد ما إذا كانت المجموعة تحتوي على قيمة معينة
+title: "TextSegmentCollection.Contains"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TextSegmentCollection. تحدد ما إذا كانت المجموعة تحتوي على قيمة معينة"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.text/textsegmentcollection/contains/
 ---
-## طريقة TextSegmentCollection.Contains
+## TextSegmentCollection.Contains method
 
-تحدد ما إذا كانت المجموعة تحتوي على قيمة معينة.
+يحدد ما إذا كانت المجموعة تحتوي على قيمة محددة.
 
 ```csharp
 public bool Contains(TextSegment item)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| item | TextSegment | الكائن الذي يجب تحديد موقعه في المجموعة |
+| item | TextSegment | The object to locate in the collection |
 
 ### قيمة الإرجاع
 
-true إذا تم العثور على item في المجموعة؛ خلاف ذلك، false.
+true if item is found in the collection; otherwise, false.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ true إذا تم العثور على item في المجموعة؛ خلاف ذل�
 * class [TextSegmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

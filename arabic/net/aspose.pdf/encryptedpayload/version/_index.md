@@ -1,14 +1,14 @@
 ---
-title: EncryptedPayload.Version
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية EncryptedPayload. تحصل على رقم الإصدار
+title: "EncryptedPayload.Version"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية EncryptedPayload. تحصل على رقم الإصدار"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/encryptedpayload/version/
 ---
-## خاصية EncryptedPayload.Version
+## EncryptedPayload.Version property
 
-تحصل على رقم الإصدار.
+يحصل على رقم الإصدار.
 
 ```csharp
 public string Version { get; }
@@ -19,3 +19,5 @@ public string Version { get; }
 * class [EncryptedPayload](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

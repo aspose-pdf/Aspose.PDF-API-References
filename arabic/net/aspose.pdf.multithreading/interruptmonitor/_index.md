@@ -1,41 +1,43 @@
 ---
-title: Class InterruptMonitor
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Multithreading.InterruptMonitor. تمثل معلومات حول الانقطاع
+title: "الفئة InterruptMonitor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Multithreading.InterruptMonitor. تمثل معلومات حول الانقطاع"
 type: docs
-weight: 7000
+weight: 7140
 url: /ar/net/aspose.pdf.multithreading/interruptmonitor/
 ---
 ## InterruptMonitor class
 
-تمثل معلومات حول الانقطاع.
+يمثل معلومات حول الانقطاع.
 
 ```csharp
 public class InterruptMonitor : IInterruptMonitor
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [InterruptMonitor](interruptmonitor/)() | المُنشئ الافتراضي. |
+| [InterruptMonitor](interruptmonitor/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [CancellationToken](../../aspose.pdf.multithreading/interruptmonitor/cancellationtoken/) { get; } | رمز إلغاء المراقب المستخدم لقطع العملية. بشكل افتراضي، يقوم كل IInterruptMonitor بإنشاء cancellationSource خاص به. |
-| static [ThreadLocalInstance](../../aspose.pdf.multithreading/interruptmonitor/threadlocalinstance/) { get; set; } | يحصل أو يحدد مثيل IInterruptMonitor الفريد لكل خيط. |
+| [CancellationToken](../../aspose.pdf.multithreading/interruptmonitor/cancellationtoken/) { get; } | رمز الإلغاء cancellation token للمراقب يُستخدم لوقف العملية. بشكل افتراضي كل IInterruptMonitor يولد cancellationSource الخاص به. |
+| static [ThreadLocalInstance](../../aspose.pdf.multithreading/interruptmonitor/threadlocalinstance/) { get; set; } | يحصل أو يعيّن مثيل IInterruptMonitor الذي يكون فريداً لكل خيط. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Dispose](../../aspose.pdf.multithreading/interruptmonitor/dispose/)() | يتخلص من الموارد المستخدمة. |
-| virtual [Interrupt](../../aspose.pdf.multithreading/interruptmonitor/interrupt/)() | يرسل طلبًا لقطع العمليات. |
+| [Dispose](../../aspose.pdf.multithreading/interruptmonitor/dispose/)() | يحرّر الموارد المستخدمة. |
+| virtual [Interrupt](../../aspose.pdf.multithreading/interruptmonitor/interrupt/)() | يرسل طلباً لوقف العمليات. |
 
-### See Also
+### انظر أيضًا
 
 * interface [IInterruptMonitor](../iinterruptmonitor/)
 * namespace [Aspose.Pdf.Multithreading](../../aspose.pdf.multithreading/)
 * assembly [Aspose.PDF](../../)
+
+

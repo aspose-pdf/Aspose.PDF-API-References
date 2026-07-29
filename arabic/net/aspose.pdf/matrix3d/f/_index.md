@@ -1,14 +1,14 @@
 ---
-title: Matrix3D.F
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Matrix3D. عضو F من مصفوفة التحويل
+title: "Matrix3D.F"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Matrix3D. العنصر F عضو في مصفوفة التحويل"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/matrix3d/f/
 ---
-## خاصية Matrix3D.F
+## Matrix3D.F property
 
-عضو F من مصفوفة التحويل.
+العنصر F في مصفوفة التحويل.
 
 ```csharp
 public double F { get; set; }
@@ -19,3 +19,5 @@ public double F { get; set; }
 * class [Matrix3D](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

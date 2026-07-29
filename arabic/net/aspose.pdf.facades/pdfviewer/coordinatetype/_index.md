@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.CoordinateType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfViewer. تحصل أو تعين نوع إحداثيات الصفحة. يتم استخدام قيمة CropBox بشكل افتراضي
+title: "PdfViewer.CoordinateType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfViewer. تحصل أو تعين نوع إحداثيات الصفحة Media/Crop boxes. يتم استخدام قيمة CropBox بشكل افتراضي"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.facades/pdfviewer/coordinatetype/
 ---
-## خاصية PdfViewer.CoordinateType
+## PdfViewer.CoordinateType property
 
-تحصل أو تعين نوع إحداثيات الصفحة (Media/Crop boxes). يتم استخدام قيمة CropBox بشكل افتراضي.
+يحصل أو يعيّن نوع إحداثيات الصفحة (صناديق Media/Crop). تُستخدم قيمة CropBox كإعداد افتراضي.
 
 ```csharp
 public PageCoordinateType CoordinateType { get; set; }
@@ -20,3 +20,5 @@ public PageCoordinateType CoordinateType { get; set; }
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

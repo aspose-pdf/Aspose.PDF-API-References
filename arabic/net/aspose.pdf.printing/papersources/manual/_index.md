@@ -1,14 +1,14 @@
 ---
-title: PaperSources.Manual
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSources. يمثل مصدر ورق التغذية اليدوية
+title: "PaperSources.Manual"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSources حقل. يمثل مصدر ورق يدوي"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.printing/papersources/manual/
 ---
-## حقل PaperSources.Manual
+## PaperSources.Manual field
 
-يمثل مصدر ورق التغذية اليدوية.
+يمثل مصدر ورق تغذية يدوية.
 
 ```csharp
 public static readonly PaperSource Manual;
@@ -20,3 +20,5 @@ public static readonly PaperSource Manual;
 * class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

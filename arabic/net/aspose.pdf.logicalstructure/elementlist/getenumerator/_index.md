@@ -1,14 +1,14 @@
 ---
-title: ElementList.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ElementList. تحصل على عداد يتكرر عبر مجموعة العناصر
+title: "ElementList.GetEnumerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ElementList. تحصل على مُعدِّـد يتنقل عبر مجموعة العناصر"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.logicalstructure/elementlist/getenumerator/
 ---
-## طريقة ElementList.GetEnumerator
+## ElementList.GetEnumerator method
 
-تحصل على عداد يتكرر عبر مجموعة العناصر.
+يحصل على عداد يمر عبر مجموعة العناصر.
 
 ```csharp
 public abstract IEnumerator<Element> GetEnumerator()
@@ -16,7 +16,7 @@ public abstract IEnumerator<Element> GetEnumerator()
 
 ### قيمة الإرجاع
 
-عداد يُستخدم للتكرار عبر مجموعة العناصر.
+مُعدِّـد يُستخدم للتنقل عبر مجموعة العناصر.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public abstract IEnumerator<Element> GetEnumerator()
 * class [ElementList](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

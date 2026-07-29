@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.C65Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ظرف C65 114 مم × 229 مم
+title: "PaperSizes.C65Envelope"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ظرف C65 114 مم ب 229 مم"
 type: docs
 weight: 350
 url: /ar/net/aspose.pdf.printing/papersizes/c65envelope/
 ---
-## حقل PaperSizes.C65Envelope
+## PaperSizes.C65Envelope field
 
-ظرف C65 (114 مم × 229 مم).
+مغلف C65 (114 مم × 229 مم).
 
 ```csharp
 public static readonly PaperSize C65Envelope;
@@ -20,3 +20,5 @@ public static readonly PaperSize C65Envelope;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

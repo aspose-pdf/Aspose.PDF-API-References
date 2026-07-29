@@ -1,14 +1,14 @@
 ---
-title: MarkupAnnotation.RichText
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MarkupAnnotation. تحصل أو تعين سلسلة نصية غنية ليتم عرضها في نافذة منبثقة عند فتح التعليق التوضيحي
+title: "MarkupAnnotation.RichText"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MarkupAnnotation. تحصل أو تضبط سلسلة نصية منسقة لتُعرض في نافذة المنبثقة عند فتح التعليق"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.annotations/markupannotation/richtext/
 ---
-## خاصية MarkupAnnotation.RichText
+## MarkupAnnotation.RichText property
 
-تحصل أو تعين سلسلة نصية غنية ليتم عرضها في نافذة منبثقة عند فتح التعليق التوضيحي.
+يحصل أو يضبط سلسلة نص غني لتُعرض في النافذة المنبثقة عندما يُفتح التعليق.
 
 ```csharp
 public string RichText { get; set; }
@@ -19,3 +19,5 @@ public string RichText { get; set; }
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

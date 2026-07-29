@@ -1,28 +1,30 @@
 ---
-title: Enum ShapeType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.ShapeType enum. هذا التعداد يمثل نوع الشكل للصور المستخرجة
+title: "التعداد ShapeType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Devices.ShapeType enum. يمثل هذا التعداد نوع الشكل للصور المستخرجة"
 type: docs
-weight: 3670
+weight: 3790
 url: /ar/net/aspose.pdf.devices/shapetype/
 ---
 ## ShapeType enumeration
 
-هذا التعداد يمثل نوع الشكل للصور المستخرجة.
+يمثل هذا التعداد نوع الشكل للصور المستخرجة.
 
 ```csharp
 public enum ShapeType
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| None | `0` | شكل الصورة الأصلية. |
+| None | `0` | شكل الصورة الأصلي. |
 | Landscape | `1` | شكل أفقي. |
 | Portrait | `2` | شكل عمودي. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

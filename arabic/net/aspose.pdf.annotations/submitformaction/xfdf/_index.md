@@ -1,12 +1,12 @@
 ---
-title: SubmitFormAction.Xfdf
-second_title: Aspose.PDF for .NET API Reference
-description: حقل SubmitFormAction. إذا تم تعيينه، يجب إرسال أسماء الحقول والقيم كـ XFDF
+title: "SubmitFormAction.Xfdf"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل SubmitFormAction. إذا تم تعيينه، يجب إرسال أسماء الحقول والقيم كـ XFDF"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.annotations/submitformaction/xfdf/
 ---
-## حقل SubmitFormAction.Xfdf
+## SubmitFormAction.Xfdf field
 
 إذا تم تعيينه، يجب إرسال أسماء الحقول والقيم كـ XFDF.
 
@@ -19,3 +19,5 @@ public const int Xfdf;
 * class [SubmitFormAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

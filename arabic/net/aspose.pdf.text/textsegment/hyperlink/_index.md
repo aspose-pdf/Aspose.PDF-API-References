@@ -1,14 +1,14 @@
 ---
-title: TextSegment.Hyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextSegment. تحصل أو تعين رابط الجزء لمولد PDF
+title: "TextSegment.Hyperlink"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextSegment. يحصل أو يضبط ارتباط الفقرة لمولد pdf"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.text/textsegment/hyperlink/
 ---
-## خاصية TextSegment.Hyperlink
+## TextSegment.Hyperlink property
 
-تحصل أو تعين رابط الجزء (لمولد PDF).
+يحصل أو يضبط ارتباط المقطع (لمنشئ PDF).
 
 ```csharp
 public Hyperlink Hyperlink { get; set; }
@@ -20,3 +20,5 @@ public Hyperlink Hyperlink { get; set; }
 * class [TextSegment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

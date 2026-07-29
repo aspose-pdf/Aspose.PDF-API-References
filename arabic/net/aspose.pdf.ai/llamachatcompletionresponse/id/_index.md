@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LlamaChatCompletionResponse. تحصل أو تعين معرفًا فريدًا لإكمال الدردشة
+title: "LlamaChatCompletionResponse.Id"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LlamaChatCompletionResponse. تحصل أو تعيّن معرفًا فريدًا لإكمال الدردشة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.ai/llamachatcompletionresponse/id/
 ---
-## خاصية LlamaChatCompletionResponse.Id
+## LlamaChatCompletionResponse.Id property
 
-تحصل أو تعين معرفًا فريدًا لإكمال الدردشة.
+يحصل أو يضبط معرّفًا فريدًا لإكمال الدردشة.
 
 ```csharp
 public string Id { get; set; }
@@ -19,3 +19,5 @@ public string Id { get; set; }
 * class [LlamaChatCompletionResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

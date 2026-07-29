@@ -1,9 +1,9 @@
 ---
-title: Enum ParagraphPositioningMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ParagraphPositioningMode enum. يحدد المتغير لتحديد موقع العنصر على الصفحة
+title: "Enum ParagraphPositioningMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.ParagraphPositioningMode enum. Specifies variant for determining the location of the element on the page"
 type: docs
-weight: 8270
+weight: 8410
 url: /ar/net/aspose.pdf/paragraphpositioningmode/
 ---
 ## ParagraphPositioningMode enumeration
@@ -14,14 +14,16 @@ url: /ar/net/aspose.pdf/paragraphpositioningmode/
 public enum ParagraphPositioningMode
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Default | `0` | يتم تحديد الموقع بواسطة العناصر الموضوعة مسبقًا. يتم أخذ إضافة عنصر في الاعتبار عند تحديد موقع العناصر اللاحقة. |
-| Absolute | `1` | يتم تحديد الموقع بواسطة قيم Left و Top، ولا يعتمد على العناصر السابقة ولا يؤثر على موقع العناصر اللاحقة. |
+| Default | `0` | The location is determined by the previously placed elements. Adding an element is taken into account when determining the location of subsequent elements. |
+| Absolute | `1` | The location is specified by the Left and Top values, does not depend on previous elements and does not affect the location of subsequent ones. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

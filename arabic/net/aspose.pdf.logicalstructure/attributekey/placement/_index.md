@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Placement
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeKey. خاصية Placement. خاصية التخطيط مالك الخاصية
+title: "AttributeKey.Placement"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeKey. سمة Placement سمة Layout مالك السمة"
 type: docs
 weight: 230
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/placement/
 ---
-## حقل AttributeKey.Placement
+## AttributeKey.Placement field
 
-خاصية Placement (مالك خاصية التخطيط).
+خاصية Placement (مالك خاصية Layout).
 
 ```csharp
 public static readonly AttributeKey Placement;
@@ -19,3 +19,5 @@ public static readonly AttributeKey Placement;
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

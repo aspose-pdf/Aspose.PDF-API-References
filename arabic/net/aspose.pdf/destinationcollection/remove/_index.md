@@ -1,26 +1,26 @@
 ---
-title: DestinationCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة DestinationCollection. يزيل العنصر المحدد. المجموعة للقراءة فقط. دائمًا ما يرمي استثناء NotSupportedException
+title: "DestinationCollection.Remove"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة DestinationCollection. تُزيل العنصر المحدد. المجموعة للقراءة فقط. دائمًا تُثير استثناء NotSupportedException."
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf/destinationcollection/remove/
 ---
-## طريقة DestinationCollection.Remove
+## DestinationCollection.Remove method
 
-يزيل العنصر المحدد. المجموعة للقراءة فقط. دائمًا ما يرمي استثناء NotSupportedException.
+يزيل العنصر المحدد. المجموعة للقراءة فقط. دائمًا يُطلق استثناء NotSupportedException.
 
 ```csharp
 public bool Remove(KeyValuePair<string, object> item)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | item | KeyValuePair`2 | العنصر. |
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
 | NotSupportedException |  |
 
@@ -29,3 +29,5 @@ public bool Remove(KeyValuePair<string, object> item)
 * class [DestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

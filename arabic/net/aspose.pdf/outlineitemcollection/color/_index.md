@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Color
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OutlineItemCollection. تحصل أو تعين اللون لنص العنوان لهذا العنصر في المخطط
+title: "OutlineItemCollection.Color"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "OutlineItemCollection خاصية. يحصل أو يحدد اللون لنص العنوان لهذا العنصر المخطط"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/outlineitemcollection/color/
 ---
-## خاصية OutlineItemCollection.Color
+## OutlineItemCollection.Color property
 
-تحصل أو تعين اللون لنص العنوان لهذا العنصر في المخطط.
+يحصل أو يعيّن اللون لنص العنوان لهذا العنصر في المخطط.
 
 ```csharp
 public Color Color { get; set; }
@@ -19,3 +19,5 @@ public Color Color { get; set; }
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

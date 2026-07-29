@@ -1,14 +1,14 @@
 ---
-title: ButtonField.NormalCaption
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ButtonField. تحصل أو تعين التسمية العادية
+title: "ButtonField.NormalCaption"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ButtonField. يحصل أو يضبط التسمية العادية"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.forms/buttonfield/normalcaption/
 ---
-## خاصية ButtonField.NormalCaption
+## ButtonField.NormalCaption property
 
-تحصل أو تعين التسمية العادية.
+يحصل أو يعيّن التسمية العادية.
 
 ```csharp
 public string NormalCaption { get; set; }
@@ -19,3 +19,5 @@ public string NormalCaption { get; set; }
 * class [ButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

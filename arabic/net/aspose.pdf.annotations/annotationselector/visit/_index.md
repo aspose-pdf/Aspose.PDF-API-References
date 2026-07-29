@@ -1,24 +1,24 @@
 ---
-title: AnnotationSelector.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة AnnotationSelector. اختر رابط التعليق إذا تم تهيئة AnnotationSelector باستخدام كائن LinkAnnotation
+title: "AnnotationSelector.Visit"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة AnnotationSelector. تختار تعليقًا توضيحيًا للارتباط إذا تم تهيئة AnnotationSelector بكائن LinkAnnotation"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/annotationselector/visit/
 ---
 ## Visit(LinkAnnotation) {#visit_9}
 
-اختر رابط التعليق إذا تم تهيئة AnnotationSelector باستخدام كائن LinkAnnotation.
+يختار تعليقة رابط إذا تم تهيئة AnnotationSelector باستخدام كائن LinkAnnotation.
 
 ```csharp
 public void Visit(LinkAnnotation link)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | link | LinkAnnotation | كائن LinkAnnotation للاختيار. |
 
-### See Also
+### انظر أيضًا
 
 * class [LinkAnnotation](../../linkannotation/)
 * class [AnnotationSelector](../)
@@ -29,17 +29,17 @@ public void Visit(LinkAnnotation link)
 
 ## Visit(FileAttachmentAnnotation) {#visit_4}
 
-اختر تعليق المرفق إذا تم تهيئة AnnotationSelector باستخدام كائن FileAttachmentAnnotation.
+يختار تعليقة مرفق إذا تم تهيئة AnnotationSelector باستخدام كائن FileAttachmentAnnotation.
 
 ```csharp
 public void Visit(FileAttachmentAnnotation attachment)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | attachment | FileAttachmentAnnotation | كائن FileAttachmentAnnotation للاختيار. |
 
-### See Also
+### انظر أيضًا
 
 * class [FileAttachmentAnnotation](../../fileattachmentannotation/)
 * class [AnnotationSelector](../)
@@ -50,17 +50,17 @@ public void Visit(FileAttachmentAnnotation attachment)
 
 ## Visit(TextAnnotation) {#visit_24}
 
-اختر تعليق النص إذا تم تهيئة AnnotationSelector باستخدام كائن TextAnnotation.
+اختر تعليقة النص إذا تم تهيئة AnnotationSelector باستخدام كائن TextAnnotation.
 
 ```csharp
 public void Visit(TextAnnotation text)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| text | TextAnnotation | كائن TextAnnotation للاختيار. |
+| نص | TextAnnotation | كائن TextAnnotation للاختيار. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextAnnotation](../../textannotation/)
 * class [AnnotationSelector](../)
@@ -71,17 +71,17 @@ public void Visit(TextAnnotation text)
 
 ## Visit(RedactionAnnotation) {#visit_16}
 
-اختر تعليق الحذف إذا تم تهيئة AnnotationSelector باستخدام كائن RedactAnnotation.
+اختر تعليقة الحذف إذا تم تهيئة AnnotationSelector باستخدام كائن RedactAnnotation.
 
 ```csharp
 public void Visit(RedactionAnnotation redact)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| redact | RedactionAnnotation | كائن RedactAnnotation للاختيار. |
+| تحرير | RedactionAnnotation | RedactAnnotation كائن للتحديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [RedactionAnnotation](../../redactionannotation/)
 * class [AnnotationSelector](../)
@@ -92,17 +92,17 @@ public void Visit(RedactionAnnotation redact)
 
 ## Visit(FreeTextAnnotation) {#visit_5}
 
-اختر تعليق النص الحر إذا تم تهيئة AnnotationSelector باستخدام كائن FreeTextAnnotation.
+يختار تعليقة نص حر إذا تم تهيئة AnnotationSelector باستخدام كائن FreeTextAnnotation.
 
 ```csharp
 public void Visit(FreeTextAnnotation freetext)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| freetext | FreeTextAnnotation | كائن FreeTextAnnotation للاختيار. |
+| freetext | FreeTextAnnotation | FreeTextAnnotation كائن للتحديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [FreeTextAnnotation](../../freetextannotation/)
 * class [AnnotationSelector](../)
@@ -113,17 +113,17 @@ public void Visit(FreeTextAnnotation freetext)
 
 ## Visit(HighlightAnnotation) {#visit_6}
 
-اختر تعليق التمييز إذا تم تهيئة AnnotationSelector باستخدام كائن FreeTextAnnotation.
+يختار تعليقة مرفق إذا تم تهيئة AnnotationSelector باستخدام كائن FreeTextAnnotation.
 
 ```csharp
 public void Visit(HighlightAnnotation highlight)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| highlight | HighlightAnnotation | كائن HighlightAnnotation للاختيار. |
+| highlight | HighlightAnnotation | HighlightAnnotation كائن للتحديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [HighlightAnnotation](../../highlightannotation/)
 * class [AnnotationSelector](../)
@@ -134,17 +134,17 @@ public void Visit(HighlightAnnotation highlight)
 
 ## Visit(UnderlineAnnotation) {#visit_26}
 
-اختر تعليق التسطير إذا تم تهيئة AnnotationSelector باستخدام كائن UnderlineAnnotation.
+اختر تعليقة التسطير إذا تم تهيئة AnnotationSelector باستخدام كائن UnderlineAnnotation.
 
 ```csharp
 public void Visit(UnderlineAnnotation underline)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| underline | UnderlineAnnotation | كائن UnderlineAnnotation للاختيار. |
+| underline | UnderlineAnnotation | UnderlineAnnotation كائن للتحديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [UnderlineAnnotation](../../underlineannotation/)
 * class [AnnotationSelector](../)
@@ -155,17 +155,17 @@ public void Visit(UnderlineAnnotation underline)
 
 ## Visit(StrikeOutAnnotation) {#visit_23}
 
-اختر تعليق الشطب إذا تم تهيئة AnnotationSelector باستخدام كائن StrikeOutAnnotation.
+اختر تعليقة الشطب إذا تم تهيئة AnnotationSelector باستخدام كائن StrikeOutAnnotation.
 
 ```csharp
 public void Visit(StrikeOutAnnotation strikeOut)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| strikeOut | StrikeOutAnnotation | كائن StrikeOutAnnotation للاختيار. |
+| strikeOut | StrikeOutAnnotation | StrikeOutAnnotation كائن للتحديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [StrikeOutAnnotation](../../strikeoutannotation/)
 * class [AnnotationSelector](../)
@@ -176,17 +176,17 @@ public void Visit(StrikeOutAnnotation strikeOut)
 
 ## Visit(SquigglyAnnotation) {#visit_21}
 
-اختر تعليق الموجات إذا تم تهيئة AnnotationSelector باستخدام كائن SquigglyAnnotation.
+اختر تعليقة المتعرج إذا تم تهيئة AnnotationSelector باستخدام كائن SquigglyAnnotation.
 
 ```csharp
 public void Visit(SquigglyAnnotation squiggly)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| squiggly | SquigglyAnnotation | كائن SquigglyAnnotation للاختيار. |
+| متعرج | SquigglyAnnotation | SquigglyAnnotation كائن للتحديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [SquigglyAnnotation](../../squigglyannotation/)
 * class [AnnotationSelector](../)
@@ -197,17 +197,17 @@ public void Visit(SquigglyAnnotation squiggly)
 
 ## Visit(PopupAnnotation) {#visit_15}
 
-اختر تعليق النافذة المنبثقة إذا تم تهيئة AnnotationSelector باستخدام كائن PopupAnnotation.
+اختر تعليقة النافذة المنبثقة إذا تم تهيئة AnnotationSelector باستخدام كائن PopupAnnotation.
 
 ```csharp
 public void Visit(PopupAnnotation popup)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| popup | PopupAnnotation | كائن PopupAnnotation للاختيار. |
+| منبثق | PopupAnnotation | PopupAnnotation كائن للتحديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [PopupAnnotation](../../popupannotation/)
 * class [AnnotationSelector](../)
@@ -218,17 +218,17 @@ public void Visit(PopupAnnotation popup)
 
 ## Visit(LineAnnotation) {#visit_8}
 
-اختر تعليق الخط إذا تم تهيئة AnnotationSelector باستخدام كائن LineAnnotation.
+يختار تعليقة خط إذا تم تهيئة AnnotationSelector باستخدام كائن LineAnnotation.
 
 ```csharp
 public void Visit(LineAnnotation line)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| line | LineAnnotation | كائن LineAnnotation للاختيار. |
+| سطر | LineAnnotation | LineAnnotation كائن للتحديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [LineAnnotation](../../lineannotation/)
 * class [AnnotationSelector](../)
@@ -239,17 +239,17 @@ public void Visit(LineAnnotation line)
 
 ## Visit(CircleAnnotation) {#visit_2}
 
-اختر تعليق الدائرة إذا تم تهيئة AnnotationSelector باستخدام كائن CircleAnnotation.
+يختار تعليقة دائرة إذا تم تهيئة AnnotationSelector باستخدام كائن CircleAnnotation.
 
 ```csharp
 public void Visit(CircleAnnotation circle)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| circle | CircleAnnotation | كائن CircleAnnotation للاختيار. |
+| دائرة | CircleAnnotation | CircleAnnotation كائن للتحديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [CircleAnnotation](../../circleannotation/)
 * class [AnnotationSelector](../)
@@ -260,17 +260,17 @@ public void Visit(CircleAnnotation circle)
 
 ## Visit(SquareAnnotation) {#visit_20}
 
-اختر تعليق المربع إذا تم تهيئة AnnotationSelector باستخدام كائن SquareAnnotation.
+اختر تعليقة المربع إذا تم تهيئة AnnotationSelector باستخدام كائن SquareAnnotation.
 
 ```csharp
 public void Visit(SquareAnnotation square)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| square | SquareAnnotation | كائن SquareAnnotation للاختيار. |
+| مربع | SquareAnnotation | SquareAnnotation كائن للتحديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [SquareAnnotation](../../squareannotation/)
 * class [AnnotationSelector](../)
@@ -281,17 +281,17 @@ public void Visit(SquareAnnotation square)
 
 ## Visit(InkAnnotation) {#visit_7}
 
-اختر تعليق الحبر إذا تم تهيئة AnnotationSelector باستخدام كائن InkAnnotation.
+يختار تعليقة حبر إذا تم تهيئة AnnotationSelector باستخدام كائن InkAnnotation.
 
 ```csharp
 public void Visit(InkAnnotation ink)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| ink | InkAnnotation | كائن InkAnnotation للاختيار. |
+| حبر | InkAnnotation | InkAnnotation كائن للتحديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [InkAnnotation](../../inkannotation/)
 * class [AnnotationSelector](../)
@@ -302,17 +302,17 @@ public void Visit(InkAnnotation ink)
 
 ## Visit(PolylineAnnotation) {#visit_14}
 
-اختر تعليق الخط المتعدد إذا تم تهيئة AnnotationSelector باستخدام كائن PolylineAnnotation.
+اختر تعليقة الخط المتعدد إذا تم تهيئة AnnotationSelector باستخدام كائن PolylineAnnotation.
 
 ```csharp
 public void Visit(PolylineAnnotation polyline)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| polyline | PolylineAnnotation | كائن PolylineAnnotation للاختيار. |
+| متعدد الخطوط | PolylineAnnotation | PolylineAnnotation كائن للتحديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [PolylineAnnotation](../../polylineannotation/)
 * class [AnnotationSelector](../)
@@ -323,17 +323,17 @@ public void Visit(PolylineAnnotation polyline)
 
 ## Visit(PolygonAnnotation) {#visit_13}
 
-اختر تعليق المضلع إذا تم تهيئة AnnotationSelector باستخدام كائن PolygonAnnotation.
+اختر تعليقة المضلع إذا تم تهيئة AnnotationSelector باستخدام كائن PolygonAnnotation.
 
 ```csharp
 public void Visit(PolygonAnnotation polygon)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| polygon | PolygonAnnotation | كائن PolygonAnnotation للاختيار. |
+| مضلع | PolygonAnnotation | PolygonAnnotation كائن للتحديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [PolygonAnnotation](../../polygonannotation/)
 * class [AnnotationSelector](../)
@@ -344,17 +344,17 @@ public void Visit(PolygonAnnotation polygon)
 
 ## Visit(CaretAnnotation) {#visit_1}
 
-اختر تعليق المؤشر إذا تم تهيئة AnnotationSelector باستخدام كائن CaretAnnotation.
+يختار تعليقة caret إذا تم تهيئة AnnotationSelector باستخدام كائن CaretAnnotation.
 
 ```csharp
 public void Visit(CaretAnnotation caret)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| caret | CaretAnnotation | كائن CaretAnnotation للاختيار. |
+| مؤشر | CaretAnnotation | CaretAnnotation كائن للتحديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [CaretAnnotation](../../caretannotation/)
 * class [AnnotationSelector](../)
@@ -365,17 +365,17 @@ public void Visit(CaretAnnotation caret)
 
 ## Visit(StampAnnotation) {#visit_22}
 
-اختر تعليق الختم إذا تم تهيئة AnnotationSelector باستخدام كائن StampAnnotation.
+اختر تعليقة الختم إذا تم تهيئة AnnotationSelector باستخدام كائن StampAnnotation.
 
 ```csharp
 public void Visit(StampAnnotation stamp)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| stamp | StampAnnotation | كائن StampAnnotation للاختيار. |
+| ختم | StampAnnotation | StampAnnotation كائن للتحديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [StampAnnotation](../../stampannotation/)
 * class [AnnotationSelector](../)
@@ -386,17 +386,17 @@ public void Visit(StampAnnotation stamp)
 
 ## Visit(WidgetAnnotation) {#visit_28}
 
-اختر تعليق الودجت إذا تم تهيئة AnnotationSelector باستخدام كائن WidgetAnnotation.
+اختر تعليقة الودجت إذا تم تهيئة AnnotationSelector باستخدام كائن WidgetAnnotation.
 
 ```csharp
 public void Visit(WidgetAnnotation widget)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| widget | WidgetAnnotation | كائن WidgetAnnotation للاختيار. |
+| أداة | WidgetAnnotation | WidgetAnnotation كائن للتحديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [WidgetAnnotation](../../widgetannotation/)
 * class [AnnotationSelector](../)
@@ -407,17 +407,17 @@ public void Visit(WidgetAnnotation widget)
 
 ## Visit(WatermarkAnnotation) {#visit_27}
 
-اختر تعليق العلامة المائية إذا تم تهيئة AnnotationSelector باستخدام كائن WatermarkAnnotation.
+اختر تعليقة العلامة المائية إذا تم تهيئة AnnotationSelector باستخدام كائن WatermarkAnnotation.
 
 ```csharp
 public void Visit(WatermarkAnnotation watermark)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| watermark | WatermarkAnnotation | كائن WatermarkAnnotation للاختيار. |
+| علامة مائية | WatermarkAnnotation | WatermarkAnnotation للتحديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [WatermarkAnnotation](../../watermarkannotation/)
 * class [AnnotationSelector](../)
@@ -428,17 +428,17 @@ public void Visit(WatermarkAnnotation watermark)
 
 ## Visit(MovieAnnotation) {#visit_10}
 
-اختر تعليق الفيلم إذا تم تهيئة AnnotationSelector باستخدام كائن MovieAnnotation.
+اختر تعليقة الفيلم إذا تم تهيئة AnnotationSelector باستخدام كائن MovieAnnotation.
 
 ```csharp
 public void Visit(MovieAnnotation movie)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| movie | MovieAnnotation | كائن MovieAnnotation للاختيار. |
+| فيلم | MovieAnnotation | MovieAnnotation كائن للتحديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [MovieAnnotation](../../movieannotation/)
 * class [AnnotationSelector](../)
@@ -449,17 +449,17 @@ public void Visit(MovieAnnotation movie)
 
 ## Visit(RichMediaAnnotation) {#visit_18}
 
-اختر تعليق الفيلم إذا تم تهيئة AnnotationSelector باستخدام كائن RichMedia annotation.
+اختر تعليقة الفيلم إذا تم تهيئة AnnotationSelector باستخدام كائن RichMedia.
 
 ```csharp
 public void Visit(RichMediaAnnotation richMedia)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| richMedia | RichMediaAnnotation | تعليق RichMedia. |
+| وسائط غنية | RichMediaAnnotation | RichMedia تعليق. |
 
-### See Also
+### انظر أيضًا
 
 * class [RichMediaAnnotation](../../richmediaannotation/)
 * class [AnnotationSelector](../)
@@ -470,17 +470,17 @@ public void Visit(RichMediaAnnotation richMedia)
 
 ## Visit(ScreenAnnotation) {#visit_19}
 
-اختر تعليق الشاشة إذا تم تهيئة AnnotationSelector باستخدام كائن ScreenAnnotation.
+اختر تعليقة الشاشة إذا تم تهيئة AnnotationSelector باستخدام كائن ScreenAnnotation.
 
 ```csharp
 public void Visit(ScreenAnnotation screen)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| screen | ScreenAnnotation | كائن ScreenAnnotation للاختيار. |
+| شاشة | ScreenAnnotation | كائن ScreenAnnotation للتحديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [ScreenAnnotation](../../screenannotation/)
 * class [AnnotationSelector](../)
@@ -491,17 +491,17 @@ public void Visit(ScreenAnnotation screen)
 
 ## Visit(PDF3DAnnotation) {#visit_12}
 
-اختر تعليق PDF3D إذا تم تهيئة AnnotationSelector باستخدام كائن PDF3DAnnotation.
+اختر تعليقة PDF3D إذا تم تهيئة AnnotationSelector باستخدام كائن PDF3DAnnotation.
 
 ```csharp
 public void Visit(PDF3DAnnotation pdf3D)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pdf3D | PDF3DAnnotation | كائن PDF3DAnnotation للاختيار. |
+| pdf3D | PDF3DAnnotation | كائن PDF3DAnnotation للتحديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [PDF3DAnnotation](../../pdf3dannotation/)
 * class [AnnotationSelector](../)
@@ -512,17 +512,17 @@ public void Visit(PDF3DAnnotation pdf3D)
 
 ## Visit(ColorBarAnnotation) {#visit_3}
 
-اختر تعليق ColorBar إذا تم تهيئة AnnotationSelector باستخدام كائن ColorBar.
+يختار تعليقة ColorBar إذا تم تهيئة AnnotationSelector باستخدام كائن ColorBar.
 
 ```csharp
 public void Visit(ColorBarAnnotation colorBar)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| colorBar | ColorBarAnnotation | كائن PDF3DAnnotation للاختيار. |
+| colorBar | ColorBarAnnotation | كائن PDF3DAnnotation للتحديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [ColorBarAnnotation](../../colorbarannotation/)
 * class [AnnotationSelector](../)
@@ -533,17 +533,17 @@ public void Visit(ColorBarAnnotation colorBar)
 
 ## Visit(TrimMarkAnnotation) {#visit_25}
 
-يختار *علامة القص* إذا تم تهيئة [`AnnotationSelector`](../) باستخدام كائن [`TrimMarkAnnotation`](../../trimmarkannotation/) .
+يختار *trimMark* إذا تم تهيئة [`AnnotationSelector`](../) باستخدام كائن [`TrimMarkAnnotation`](../../trimmarkannotation/).
 
 ```csharp
 public void Visit(TrimMarkAnnotation trimMark)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| trimMark | TrimMarkAnnotation | كائن [`TrimMarkAnnotation`](../../trimmarkannotation/) للاختيار. |
+| trimMark | TrimMarkAnnotation | كائن [`TrimMarkAnnotation`](../../trimmarkannotation/) للتحديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [TrimMarkAnnotation](../../trimmarkannotation/)
 * class [AnnotationSelector](../)
@@ -554,17 +554,17 @@ public void Visit(TrimMarkAnnotation trimMark)
 
 ## Visit(BleedMarkAnnotation) {#visit}
 
-يختار *علامة النزيف* إذا تم تهيئة [`AnnotationSelector`](../) باستخدام كائن [`BleedMarkAnnotation`](../../bleedmarkannotation/) .
+يختار *bleedMark* إذا تم تهيئة [`AnnotationSelector`](../) باستخدام كائن [`BleedMarkAnnotation`](../../bleedmarkannotation/).
 
 ```csharp
 public void Visit(BleedMarkAnnotation bleedMark)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| bleedMark | BleedMarkAnnotation | كائن [`BleedMarkAnnotation`](../../bleedmarkannotation/) للاختيار. |
+| bleedMark | BleedMarkAnnotation | كائن [`BleedMarkAnnotation`](../../bleedmarkannotation/) للتحديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [BleedMarkAnnotation](../../bleedmarkannotation/)
 * class [AnnotationSelector](../)
@@ -575,17 +575,17 @@ public void Visit(BleedMarkAnnotation bleedMark)
 
 ## Visit(RegistrationMarkAnnotation) {#visit_17}
 
-يختار *علامة التسجيل* إذا تم تهيئة [`AnnotationSelector`](../) باستخدام كائن [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) .
+يختار *registrationMark* إذا تم تهيئة [`AnnotationSelector`](../) باستخدام كائن [`RegistrationMarkAnnotation`](../../registrationmarkannotation/).
 
 ```csharp
 public void Visit(RegistrationMarkAnnotation registrationMark)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| registrationMark | RegistrationMarkAnnotation | كائن [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) للاختيار. |
+| registrationMark | RegistrationMarkAnnotation | كائن [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) للتحديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [RegistrationMarkAnnotation](../../registrationmarkannotation/)
 * class [AnnotationSelector](../)
@@ -596,19 +596,21 @@ public void Visit(RegistrationMarkAnnotation registrationMark)
 
 ## Visit(PageInformationAnnotation) {#visit_11}
 
-يختار *معلومات الصفحة* إذا تم تهيئة [`AnnotationSelector`](../) باستخدام كائن [`PageInformationAnnotation`](../../pageinformationannotation/) .
+يختار *pageInformation* إذا تم تهيئة [`AnnotationSelector`](../) باستخدام كائن [`PageInformationAnnotation`](../../pageinformationannotation/).
 
 ```csharp
 public void Visit(PageInformationAnnotation pageInformation)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pageInformation | PageInformationAnnotation | كائن [`PageInformationAnnotation`](../../pageinformationannotation/) للاختيار. |
+| pageInformation | PageInformationAnnotation | كائن [`PageInformationAnnotation`](../../pageinformationannotation/) للتحديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [PageInformationAnnotation](../../pageinformationannotation/)
 * class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

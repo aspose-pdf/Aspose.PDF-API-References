@@ -1,20 +1,20 @@
 ---
-title: LinkElement.StructureTextState
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LinkElement. تحصل على كائن StructureTextState للعنصر الحالي
+title: "LinkElement.StructureTextState"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LinkElement. يحصل على كائن StructureTextState للعنصر الحالي."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.logicalstructure/linkelement/structuretextstate/
 ---
-## خاصية LinkElement.StructureTextState
+## LinkElement.StructureTextState property
 
-تحصل على كائن StructureTextState للعنصر الحالي.
+يحصل على كائن StructureTextState للعنصر الحالي.
 
 ```csharp
 public StructureTextState StructureTextState { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 كائن StructureTextState للعنصر الحالي.
 
@@ -24,3 +24,5 @@ public StructureTextState StructureTextState { get; }
 * class [LinkElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

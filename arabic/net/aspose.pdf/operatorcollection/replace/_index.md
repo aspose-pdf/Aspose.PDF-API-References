@@ -1,22 +1,22 @@
 ---
-title: OperatorCollection.Replace
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OperatorCollection. استبدال المشغلين في المجموعة بمشغلين آخرين
+title: "OperatorCollection.Replace"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OperatorCollection. استبدال المشغلات في المجموعة بمشغلات أخرى"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf/operatorcollection/replace/
 ---
-## طريقة OperatorCollection.Replace
+## OperatorCollection.Replace method
 
-استبدال المشغلين في المجموعة بمشغلين آخرين.
+استبدال المشغّلات في المجموعة بمشغّلات أخرى.
 
 ```csharp
 public void Replace(IList<Operator> operators)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| operators | IList`1 | قائمة المشغلين التي ستستبدل المشغلين الموجودين حاليًا في المجموعة. يجب أن يكون لكل مشغل من القائمة فهرس صحيح في النطاق [1..N] حيث N هو عدد المشغلين في المجموعة |
+| المشغلات | IList`1 | قائمة المشغلات التي ستحل محل المشغلات الموجودة حاليًا في المجموعة. يجب أن يكون لكل مشغل في القائمة فهرس صحيح في النطاق [1..N] حيث N هو عدد المشغلات في المجموعة |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public void Replace(IList<Operator> operators)
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

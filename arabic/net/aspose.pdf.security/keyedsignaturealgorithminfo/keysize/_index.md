@@ -1,14 +1,14 @@
 ---
-title: KeyedSignatureAlgorithmInfo.KeySize
-second_title: Aspose.PDF for .NET API Reference
-description: حقل KeyedSignatureAlgorithmInfo. يحصل على حجم المفتاح التشفيري المستخدم بواسطة خوارزمية التوقيع
+title: "KeyedSignatureAlgorithmInfo.KeySize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل KeyedSignatureAlgorithmInfo. يحصل على حجم المفتاح التشفيري المستخدم من قبل خوارزمية التوقيع"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.security/keyedsignaturealgorithminfo/keysize/
 ---
-## حقل KeyedSignatureAlgorithmInfo.KeySize
+## KeyedSignatureAlgorithmInfo.KeySize field
 
-يحصل على حجم المفتاح التشفيري المستخدم بواسطة خوارزمية التوقيع.
+يحصل على حجم المفتاح التشفيري المستخدم من قبل خوارزمية التوقيع.
 
 ```csharp
 public readonly int KeySize;
@@ -19,3 +19,5 @@ public readonly int KeySize;
 * class [KeyedSignatureAlgorithmInfo](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

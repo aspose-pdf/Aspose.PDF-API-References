@@ -1,29 +1,31 @@
 ---
-title: MessageContentRequest.CreateTextContent
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة MessageContentRequest. تنشئ محتوى نصيًا لرسالة
+title: "MessageContentRequest.CreateTextContent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة MessageContentRequest. تنشئ محتوى نصي لرسالة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.ai/messagecontentrequest/createtextcontent/
 ---
-## طريقة MessageContentRequest.CreateTextContent
+## MessageContentRequest.CreateTextContent method
 
-تنشئ محتوى نصيًا لرسالة.
+ينشئ محتوى نص لرسالة.
 
 ```csharp
 public static MessageContentRequest CreateTextContent(string text)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| النص | سلسلة | محتوى النص للرسالة. |
+| نص | String | محتوى النص للرسالة. |
 
 ### قيمة الإرجاع
 
-مثيل جديد من MessageContentRequest بمحتوى نصي.
+مثال جديد من MessageContentRequest بمحتوى نصي.
 
 ### انظر أيضًا
 
 * class [MessageContentRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

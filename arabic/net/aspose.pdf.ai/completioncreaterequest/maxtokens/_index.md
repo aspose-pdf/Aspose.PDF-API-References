@@ -1,14 +1,14 @@
 ---
-title: CompletionCreateRequest.MaxTokens
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CompletionCreateRequest. تحصل أو تعين الحد الأقصى لعدد الرموز التي سيتم توليدها في الإكمال
+title: "CompletionCreateRequest.MaxTokens"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CompletionCreateRequest. تحصل أو تعين الحد الأقصى لعدد الرموز التي يجب توليدها في الإكمال"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.ai/completioncreaterequest/maxtokens/
 ---
-## خاصية CompletionCreateRequest.MaxTokens
+## CompletionCreateRequest.MaxTokens property
 
-تحصل أو تعين الحد الأقصى لعدد الرموز التي سيتم توليدها في الإكمال.
+يحصل أو يضبط الحد الأقصى لعدد الرموز التي يتم توليدها في الإكمال.
 
 ```csharp
 public int? MaxTokens { get; set; }
@@ -19,3 +19,5 @@ public int? MaxTokens { get; set; }
 * class [CompletionCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Metered.GetConsumptionCredit
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Metered. تحصل على رصيد الاستهلاك
+title: "Metered.GetConsumptionCredit"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Metered. يحصل على رصيد الاستهلاك"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/metered/getconsumptioncredit/
 ---
-## طريقة Metered.GetConsumptionCredit
+## Metered.GetConsumptionCredit method
 
-تحصل على رصيد الاستهلاك.
+يحصل على رصيد الاستهلاك.
 
 ```csharp
 public static decimal GetConsumptionCredit()
@@ -23,3 +23,5 @@ public static decimal GetConsumptionCredit()
 * class [Metered](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

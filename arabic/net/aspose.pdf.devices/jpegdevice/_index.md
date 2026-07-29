@@ -1,71 +1,72 @@
 ---
-title: Class JpegDevice
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Devices.JpegDevice. تمثل جهاز الصورة الذي يساعد في حفظ صفحات مستند PDF في تنسيق JPEG
+title: "الفئة JpegDevice"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Devices.JpegDevice. تمثّل جهاز صورة يساعد على حفظ صفحات مستند PDF إلى jpeg"
 type: docs
-weight: 3620
+weight: 3740
 url: /ar/net/aspose.pdf.devices/jpegdevice/
 ---
 ## JpegDevice class
 
-تمثل جهاز الصورة الذي يساعد في حفظ صفحات مستند PDF في تنسيق JPEG.
+يمثل جهاز صورة يساعد على حفظ صفحات مستند pdf بصيغة jpeg.
 
 ```csharp
 public sealed class JpegDevice : ImageDevice
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [JpegDevice](jpegdevice/#constructor)() | يقوم بتهيئة مثيل جديد من فئة `JpegDevice` بدقة افتراضية وجودة قصوى. |
-| [JpegDevice](jpegdevice/#constructor_6)(int) | يقوم بتهيئة مثيل جديد من فئة `JpegDevice`. |
-| [JpegDevice](jpegdevice/#constructor_3)(PageSize) | يقوم بتهيئة مثيل جديد من فئة `JpegDevice` مع حجم الصفحة المقدم، دقة افتراضية (=150) وجودة قصوى. |
-| [JpegDevice](jpegdevice/#constructor_1)(Resolution) | يقوم بتهيئة مثيل جديد من فئة `JpegDevice`.  الدقة لملف الصورة الناتج، انظر فئة [`Resolution`](../resolution/). |
-| [JpegDevice](jpegdevice/#constructor_7)(int, int) | يقوم بتهيئة مثيل جديد من فئة `JpegDevice` مع أبعاد الصورة المقدمة، دقة افتراضية (=150) وجودة قصوى. |
-| [JpegDevice](jpegdevice/#constructor_4)(PageSize, Resolution) | يقوم بتهيئة مثيل جديد من فئة `JpegDevice` مع حجم الصفحة المقدم، الدقة وجودة قصوى. |
-| [JpegDevice](jpegdevice/#constructor_2)(Resolution, int) | يقوم بتهيئة مثيل جديد من فئة `JpegDevice`. |
-| [JpegDevice](jpegdevice/#constructor_8)(int, int, Resolution) | يقوم بتهيئة مثيل جديد من فئة `JpegDevice` مع أبعاد الصورة المقدمة، الدقة وجودة قصوى. |
-| [JpegDevice](jpegdevice/#constructor_5)(PageSize, Resolution, int) | يقوم بتهيئة مثيل جديد من فئة `JpegDevice` مع حجم الصفحة المقدم، الدقة والجودة. |
-| [JpegDevice](jpegdevice/#constructor_9)(int, int, Resolution, int) | يقوم بتهيئة مثيل جديد من فئة `JpegDevice` مع أبعاد الصورة المقدمة، الدقة والجودة. |
+| [JpegDevice](jpegdevice/#constructor)() | ينشئ مثيلاً جديداً لفئة `JpegDevice` بالدقة الافتراضية وأعلى جودة. |
+| [JpegDevice](jpegdevice/#constructor_6)(int) | ينشئ مثيلاً جديداً لفئة `JpegDevice`. |
+| [JpegDevice](jpegdevice/#constructor_3)(PageSize) | ينشئ مثيلاً جديداً لفئة `JpegDevice` بحجم الصفحة المقدم، والدقة الافتراضية (=150) وأعلى جودة. |
+| [JpegDevice](jpegdevice/#constructor_1)(Resolution) | ينشئ مثيلاً جديداً لفئة `JpegDevice`. الدقة لملف الصورة الناتج، راجع فئة [`Resolution`](../resolution/). |
+| [JpegDevice](jpegdevice/#constructor_7)(int, int) | ينشئ مثيلاً جديداً لفئة `JpegDevice` بأبعاد الصورة المقدمة، والدقة الافتراضية (=150) وأعلى جودة. |
+| [JpegDevice](jpegdevice/#constructor_4)(PageSize, Resolution) | ينشئ مثيلاً جديداً لفئة `JpegDevice` بحجم الصفحة المقدم، والدقة، وأعلى جودة. |
+| [JpegDevice](jpegdevice/#constructor_2)(Resolution, int) | ينشئ مثيلاً جديداً لفئة `JpegDevice`. |
+| [JpegDevice](jpegdevice/#constructor_8)(int, int, Resolution) | ينشئ مثيلاً جديداً لفئة `JpegDevice` بأبعاد الصورة المقدمة، والدقة، وأعلى جودة. |
+| [JpegDevice](jpegdevice/#constructor_5)(PageSize, Resolution, int) | ينشئ مثيلاً جديداً لفئة `JpegDevice` بحجم الصفحة المقدم، والدقة، والجودة. |
+| [JpegDevice](jpegdevice/#constructor_9)(int, int, Resolution, int) | ينشئ مثيلاً جديداً لفئة `JpegDevice` بأبعاد الصورة المقدمة، والدقة، والجودة. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | يحصل أو يحدد نوع إحداثيات الصفحة (صناديق الوسائط/القص). يتم استخدام قيمة CropBox بشكل افتراضي. |
-| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | يحصل أو يحدد وضع تقديم النموذج. |
+| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | يحصل أو يعيّن نوع إحداثيات الصفحة (صناديق Media/Crop). تُستخدم قيمة CropBox كإعداد افتراضي. |
+| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | يحصل أو يعيّن وضع عرض النموذج. |
 | [Height](../../aspose.pdf.devices/imagedevice/height/) { get; } | يحصل على ارتفاع مخرجات الصورة. |
-| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions/) { get; set; } | يحصل أو يحدد خيارات العرض. |
+| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions/) { get; set; } | يحصل أو يعيّن خيارات العرض. |
 | [Resolution](../../aspose.pdf.devices/imagedevice/resolution/) { get; } | يحصل على دقة الصورة. |
 | [Width](../../aspose.pdf.devices/imagedevice/width/) { get; } | يحصل على عرض مخرجات الصورة. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Process](../../aspose.pdf.devices/jpegdevice/process/#process)(Page, Stream) | يقوم بتحويل الصفحة إلى JPEG ويحفظها في تدفق المخرجات. |
-| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | يقوم بإجراء بعض العمليات على الصفحة المعطاة ويحفظ النتائج في الملف. |
+| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | يحوّل الصفحة إلى Bitmap. |
+| override [Process](../../aspose.pdf.devices/jpegdevice/process/#process)(Page, Stream) | يحوّل الصفحة إلى JPEG ويحفظها في تدفق الإخراج. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | ينفّذ بعض العمليات على الصفحة المعطاة ويحفظ النتائج في الملف. |
 
-## Examples
+## أمثلة
 
-المثال التالي يوضح كيفية تحويل ملف PDF إلى صور JPEG.
+يوضح المثال التالي كيفية تحويل ملف PDF إلى صور JPEG.
 
 ```csharp
 [C#]
-	// The path to your PDF Directory
+	// المسار إلى دليل PDF الخاص بك
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The file name of the PDF
+	// اسم ملف PDF
 	string pdfFile = @"YOUR_PDF_FILE";
 
-	// Initialize instance of Document class
+	// تهيئة نسخة من فئة Document
 	using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
 	{
-		// Create Resolution object 	
+		// إنشاء كائن Resolution \t
 		Resolution resolution = new Resolution(300);
 
-		// Initialize JpegDevice	
+		// تهيئة JpegDevice\t
 		JpegDevice jpegDevice = new JpegDevice(resolution);
 		for (int pageCount = 1; pageCount <= pdfDocument.Pages.Count; pageCount++)
 		{
@@ -73,10 +74,10 @@ public sealed class JpegDevice : ImageDevice
 			new FileStream($"{dataDir}image{pageCount}_out.jpeg",
 			FileMode.Create))
 			{
-				// Convert a particular page and save the image to stream
+				// تحويل صفحة معينة وحفظ الصورة إلى التدفق
 				jpegDevice.Process(pdfDocument.Pages[pageCount], jpegStream);
 
-				// Close stream
+				// إغلاق التدفق
 				jpegStream.Close();
 			}
 		}
@@ -113,8 +114,10 @@ public sealed class JpegDevice : ImageDevice
     End Using
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [ImageDevice](../imagedevice/)
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

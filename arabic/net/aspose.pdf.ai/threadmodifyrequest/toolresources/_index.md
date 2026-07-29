@@ -1,14 +1,14 @@
 ---
-title: ThreadModifyRequest.ToolResources
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ThreadModifyRequest. تحصل أو تعين مجموعة من الموارد المتاحة لأدوات المساعدين في هذه الخيط
+title: "ThreadModifyRequest.ToolResources"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ThreadModifyRequest. يحصل أو يضبط مجموعة من الموارد التي تُتاح لأدوات المساعدين في هذا الخيط"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/threadmodifyrequest/toolresources/
 ---
-## خاصية ThreadModifyRequest.ToolResources
+## ThreadModifyRequest.ToolResources property
 
-تحصل أو تعين مجموعة من الموارد المتاحة لأدوات المساعد في هذا الخيط.
+يحصل أو يعيّن مجموعة من الموارد المتاحة لأدوات المساعد في هذه السلسلة.
 
 ```csharp
 public ToolResources ToolResources { get; set; }
@@ -20,3 +20,5 @@ public ToolResources ToolResources { get; set; }
 * class [ThreadModifyRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

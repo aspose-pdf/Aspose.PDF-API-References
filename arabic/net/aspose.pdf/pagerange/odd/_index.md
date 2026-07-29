@@ -1,14 +1,14 @@
 ---
-title: PageRange.Odd
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageRange. تحصل أو تعين الإعداد للصفحات الفردية
+title: "PageRange.Odd"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageRange. يحصل أو يضبط الإعداد للصفحات الفردية"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/pagerange/odd/
 ---
-## خاصية PageRange.Odd
+## PageRange.Odd property
 
-تحصل أو تعين الإعداد للصفحات الفردية.
+يحصل أو يعيّن الإعداد للصفحات الفردية.
 
 ```csharp
 public byte Odd { get; set; }
@@ -19,3 +19,5 @@ public byte Odd { get; set; }
 * class [PageRange](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

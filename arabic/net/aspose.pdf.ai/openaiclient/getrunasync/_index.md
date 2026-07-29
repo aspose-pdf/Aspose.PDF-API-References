@@ -1,24 +1,24 @@
 ---
-title: OpenAIClient.GetRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIClient. تسترجع تفاصيل تشغيل محدد داخل سلسلة بشكل غير متزامن
+title: "OpenAIClient.GetRunAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIClient. تسترجع تفاصيل تشغيل محدد داخل سلسلة بشكل غير متزامن"
 type: docs
-weight: 250
+weight: 260
 url: /ar/net/aspose.pdf.ai/openaiclient/getrunasync/
 ---
-## طريقة OpenAIClient.GetRunAsync
+## OpenAIClient.GetRunAsync method
 
-تسترجع تفاصيل تشغيل محدد داخل سلسلة بشكل غير متزامن.
+يسترجع تفاصيل تشغيل محدد داخل خيط بشكل غير متزامن.
 
 ```csharp
 public Task<RunResponse> GetRunAsync(string threadId, string runId, 
     CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| threadId | String | معرف السلسلة التي تحتوي على التشغيل. |
-| runId | String | معرف التشغيل الذي سيتم استرجاعه. |
+| threadId | String | معرّف الخيط الذي يحتوي على التشغيل. |
+| runId | String | معرّف التشغيل المراد استرجاعه. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
 ### قيمة الإرجاع
@@ -27,10 +27,10 @@ public Task<RunResponse> GetRunAsync(string threadId, string runId,
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف السلسلة فارغًا أو null. |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف التشغيل فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرّف الخيط فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يتم رمي الاستثناء عندما يكون معرّف التشغيل null أو فارغ. |
 
 ### انظر أيضًا
 
@@ -38,3 +38,5 @@ public Task<RunResponse> GetRunAsync(string threadId, string runId,
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SetCMYKColor.K
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SetCMYKColor. تحصل أو تعين مكون الأسود
+title: "SetCMYKColor.K"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SetCMYKColor. تحصل أو تعين المكوّن الأسود"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.operators/setcmykcolor/k/
 ---
-## خاصية SetCMYKColor.K
+## SetCMYKColor.K property
 
-تحصل أو تعين مكون الأسود.
+يحصل أو يضبط المكوّن الأسود.
 
 ```csharp
 public double K { get; set; }
@@ -19,3 +19,5 @@ public double K { get; set; }
 * class [SetCMYKColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Ellipse.Left
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Ellipse. تحصل أو تعين قيمة عائمة تشير إلى الموضع الأيسر للبيضاوي
+title: "Ellipse.Left"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Ellipse. يحصل أو يضبط قيمة عائمة تشير إلى الموضع الأيسر للإهليلج"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.drawing/ellipse/left/
 ---
-## خاصية Ellipse.Left
+## Ellipse.Left property
 
-تحصل أو تعين قيمة عائمة تشير إلى الموضع الأيسر للبيضاوي.
+يحصل أو يعيّن قيمة عائمة تشير إلى الموضع الأيسر للإهليلج.
 
 ```csharp
 public double Left { get; set; }
@@ -19,3 +19,5 @@ public double Left { get; set; }
 * class [Ellipse](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

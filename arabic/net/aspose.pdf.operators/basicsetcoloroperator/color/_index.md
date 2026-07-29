@@ -1,14 +1,14 @@
 ---
-title: BasicSetColorOperator.Color
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BasicSetColorOperator. يحصل على مصفوفة من مكونات اللون
+title: "BasicSetColorOperator.Color"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BasicSetColorOperator. تحصل على مصفوفة مكوّنات اللون"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.operators/basicsetcoloroperator/color/
 ---
-## خاصية BasicSetColorOperator.Color
+## BasicSetColorOperator.Color property
 
-يحصل على مصفوفة من مكونات اللون.
+يحصل على مصفوفة مكوّنات اللون.
 
 ```csharp
 public virtual double[] Color { get; }
@@ -19,3 +19,5 @@ public virtual double[] Color { get; }
 * class [BasicSetColorOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

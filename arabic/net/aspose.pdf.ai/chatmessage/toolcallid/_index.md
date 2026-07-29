@@ -1,14 +1,14 @@
 ---
-title: ChatMessage.ToolCallId
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ChatMessage. تحصل أو تعين استدعاء الأداة التي تستجيب لها هذه الرسالة
+title: "ChatMessage.ToolCallId"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ChatMessage. تحصل أو تعين استدعاء الأداة الذي يرد عليه هذه الرسالة."
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.ai/chatmessage/toolcallid/
 ---
-## خاصية ChatMessage.ToolCallId
+## ChatMessage.ToolCallId property
 
-تحصل أو تعين استدعاء الأداة التي تستجيب لها هذه الرسالة.
+يحصل أو يعيّن استدعاء الأداة الذي ترد عليه هذه الرسالة.
 
 ```csharp
 public string ToolCallId { get; set; }
@@ -19,3 +19,5 @@ public string ToolCallId { get; set; }
 * class [ChatMessage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RedactionAnnotation.BorderColor
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RedactionAnnotation. تحصل أو تعين لون الحدود التي يتم رسمها عندما لا تكون الإزالة نشطة
+title: "RedactionAnnotation.BorderColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RedactionAnnotation. تحصل أو تعيين لون الحد الذي يُرسم عندما لا يكون التمويه نشطًا"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/redactionannotation/bordercolor/
 ---
-## خاصية RedactionAnnotation.BorderColor
+## RedactionAnnotation.BorderColor property
 
-تحصل أو تعين لون الحدود التي يتم رسمها عندما لا تكون الإزالة نشطة.
+يحصل أو يعيّن لون الحدود التي تُرسم عندما لا تكون عملية الحذف نشطة.
 
 ```csharp
 public Color BorderColor { get; set; }
@@ -20,3 +20,5 @@ public Color BorderColor { get; set; }
 * class [RedactionAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

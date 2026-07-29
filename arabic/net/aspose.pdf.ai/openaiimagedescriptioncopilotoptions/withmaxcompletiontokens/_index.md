@@ -1,29 +1,31 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithMaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIImageDescriptionCopilotOptions. تعيين الحد الأقصى لرموز الإكمال لخيارات مساعد وصف الصورة
+title: "OpenAIImageDescriptionCopilotOptions.WithMaxCompletionTokens"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIImageDescriptionCopilotOptions. تُعيّن الحد الأقصى لرموز الإكمال لخيارات مساعد وصف الصورة"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withmaxcompletiontokens/
 ---
-## طريقة OpenAIImageDescriptionCopilotOptions.WithMaxCompletionTokens
+## OpenAIImageDescriptionCopilotOptions.WithMaxCompletionTokens method
 
-تعيين الحد الأقصى لرموز الإكمال لخيارات مساعد وصف الصورة.
+يعيّن الحد الأقصى لرموز الإكمال لخيارات مساعد وصف الصورة.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithMaxCompletionTokens(int? maxCompletionTokens)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| maxCompletionTokens | Nullable`1 | الحد الأقصى لرموز الإكمال للتعيين. |
+| maxCompletionTokens | Nullable`1 | الحد الأقصى لعدد الرموز المكتملة لتعيينه. |
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAIImageDescriptionCopilotOptions`](../).
+الحالة الحالية لـ [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### انظر أيضًا
 
-* فئة [OpenAIImageDescriptionCopilotOptions](../)
-* مساحة الأسماء [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

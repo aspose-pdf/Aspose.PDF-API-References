@@ -1,14 +1,14 @@
 ---
-title: ImageDescription.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ImageDescription. تحصل أو تعين معلومات المستطيل للصورة
+title: "ImageDescription.Rectangle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ImageDescription. تحصل أو تعين معلومات المستطيل للصورة"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.ai/imagedescription/rectangle/
 ---
-## خاصية ImageDescription.Rectangle
+## ImageDescription.Rectangle property
 
-تحصل أو تعين معلومات المستطيل للصورة.
+يحصل أو يعيّن معلومات المستطيل للصورة.
 
 ```csharp
 public Rectangle Rectangle { get; set; }
@@ -20,3 +20,5 @@ public Rectangle Rectangle { get; set; }
 * class [ImageDescription](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

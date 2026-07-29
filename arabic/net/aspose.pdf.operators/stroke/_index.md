@@ -1,14 +1,14 @@
 ---
-title: Class Stroke
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.Stroke. فئة تمثل مسار س للعمليات
+title: "الفئة Stroke"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Operators.Stroke. الفئة التي تمثل عامل S لمسار الرسم"
 type: docs
-weight: 7890
+weight: 8030
 url: /ar/net/aspose.pdf.operators/stroke/
 ---
-## فئة Stroke
+## Stroke class
 
-فئة تمثل عملية س (مسار الضرب).
+الفئة التي تمثل عامل S (رسم مسار).
 
 ```csharp
 public class Stroke : Operator
@@ -18,24 +18,26 @@ public class Stroke : Operator
 
 | الاسم | الوصف |
 | --- | --- |
-| [Stroke](stroke/)() | يقوم بتهيئة العملية. |
+| [Stroke](stroke/)() | يُهيئ العامل. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العملية في قائمة عمليات الصفحة. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/stroke/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العملية. |
-| override [ToString](../../aspose.pdf.operators/stroke/tostring/)() | يعيد تمثيل نصي للعملية. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/stroke/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf.operators/stroke/tostring/)() | يعيد تمثيل النص للعامل. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
 ### انظر أيضًا
 
-* فئة [Operator](../../aspose.pdf/operator/)
-* مساحة الأسماء [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* التجميع [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

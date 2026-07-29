@@ -1,32 +1,32 @@
 ---
-title: GraphicalPdfComparer.ComparePagesToPdf
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة GraphicalPdfComparer. تقارن الصفحات بشكل رسومي. يتم وضع نتيجة المقارنة في مستند PDF
+title: "GraphicalPdfComparer.ComparePagesToPdf"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة GraphicalPdfComparer. تقارن الصفحات رسوميًا. نتيجة المقارنة توضع في مستند PDF."
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.comparison/graphicalpdfcomparer/comparepagestopdf/
 ---
 ## ComparePagesToPdf(Page, Page, string) {#comparepagestopdf_1}
 
-تقارن الصفحات بشكل رسومي. يتم وضع نتيجة المقارنة في مستند PDF.
+يقارن الصفحات رسوميًا. يتم وضع نتيجة المقارنة في مستند PDF.
 
 ```csharp
 public void ComparePagesToPdf(Page page1, Page page2, string resultPdfPath)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page1 | Page | الصفحة الأولى. |
-| page2 | Page | الصفحة الثانية. |
-| resultPdfPath | String | المسار إلى ملف PDF المستهدف. |
+| page1 | صفحة | الصفحة الأولى. |
+| page2 | صفحة | الصفحة الثانية. |
+| resultPdfPath | String | المسار إلى ملف PDF الهدف. |
 
-### Exceptions
+### الاستثناءات
 
-| exception | condition |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | إذا كانت الصفحات التي يتم مقارنتها بأحجام مختلفة. إذا كان resultPdfPath فارغًا أو سلسلة فارغة. |
+| ArgumentException | إذا كانت الصفحات التي يتم مقارنتها ذات أحجام مختلفة. إذا كان resultPdfPath فارغًا أو سلسلة فارغة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [GraphicalPdfComparer](../)
@@ -37,28 +37,30 @@ public void ComparePagesToPdf(Page page1, Page page2, string resultPdfPath)
 
 ## ComparePagesToPdf(Page, Page, Document) {#comparepagestopdf}
 
-تقارن الصفحات بشكل رسومي. يتم وضع نتيجة المقارنة في مستند PDF.
+يقارن الصفحات رسوميًا. يتم وضع نتيجة المقارنة في مستند PDF.
 
 ```csharp
 public void ComparePagesToPdf(Page page1, Page page2, Document pdfDocument)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page1 | Page | الصفحة الأولى. |
-| page2 | Page | الصفحة الثانية. |
+| page1 | صفحة | الصفحة الأولى. |
+| page2 | صفحة | الصفحة الثانية. |
 | pdfDocument | Document | مثيل مستند PDF. |
 
-### Exceptions
+### الاستثناءات
 
-| exception | condition |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | إذا كانت الصفحات التي يتم مقارنتها بأحجام مختلفة. |
+| ArgumentException | إذا كانت الصفحات التي يتم مقارنتها ذات أحجام مختلفة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Document](../../../aspose.pdf/document/)
 * class [GraphicalPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

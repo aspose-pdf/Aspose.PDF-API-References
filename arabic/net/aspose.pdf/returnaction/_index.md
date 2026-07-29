@@ -1,27 +1,29 @@
 ---
-title: Enum ReturnAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ReturnAction enum. تمثل هذه التعدادات إجراءً في سير العمل البرمجي في حالة استدعاء طريقة Warning
+title: "Enum ReturnAction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.ReturnAction. يمثل التعداد إجراء سير عمل البرنامج في حالة استدعاء طريقة Warning."
 type: docs
-weight: 9790
+weight: 9940
 url: /ar/net/aspose.pdf/returnaction/
 ---
 ## ReturnAction enumeration
 
-تمثل هذه التعدادات إجراءً في سير العمل البرمجي في حالة استدعاء طريقة [`Warning`](../iwarningcallback/warning/) .
+يمثل التعداد إجراء سير عمل البرنامج في حالة استدعاء طريقة [`Warning`](../iwarningcallback/warning/).
 
 ```csharp
 public enum ReturnAction
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Continue | `0` | تُستخدم لاستمرار التدفق. |
-| Abort | `1` | تُستخدم لإيقاف التدفق. |
+| Continue | `0` | يُستخدم لاستمرار التدفق. |
+| Abort | `1` | يُستخدم لإلغاء التدفق. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

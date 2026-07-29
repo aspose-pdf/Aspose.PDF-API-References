@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.CancelUpdate
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OperatorCollection. تلغي آخر تحديث. يمكن استدعاء هذه الطريقة عندما لا ينبغي أن يؤدي التغيير إلى تحديث المحتويات
+title: "OperatorCollection.CancelUpdate"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OperatorCollection. تُلغي آخر تحديث. يمكن استدعاء هذه الطريقة عندما لا ينبغي للتغيير أن يرفع تحديث المحتوى"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/operatorcollection/cancelupdate/
 ---
-## طريقة OperatorCollection.CancelUpdate
+## OperatorCollection.CancelUpdate method
 
-تلغي آخر تحديث. يمكن استدعاء هذه الطريقة عندما لا ينبغي أن يؤدي التغيير إلى تحديث المحتويات.
+يلغي آخر تحديث. قد يتم استدعاء هذه الطريقة عندما لا يجب أن يؤدي التغيير إلى تحديث المحتوى.
 
 ```csharp
 public override void CancelUpdate()
@@ -19,3 +19,5 @@ public override void CancelUpdate()
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: MovieAnnotation.Aspect
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MovieAnnotation. تحصل أو تعين عرض وارتفاع صندوق الفيلم بالبيكسل
+title: "MovieAnnotation.Aspect"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MovieAnnotation. تحصل أو تعيّن عرض وارتفاع الصندوق المحيط بالفيلم بالبكسل"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/movieannotation/aspect/
 ---
-## خاصية MovieAnnotation.Aspect
+## MovieAnnotation.Aspect property
 
-تحصل أو تعين عرض وارتفاع صندوق الفيلم، بالبيكسل.
+يحصل أو يضبط عرض وارتفاع صندوق حدود الفيلم، بالبكسل.
 
 ```csharp
 public Point Aspect { get; set; }
@@ -20,3 +20,5 @@ public Point Aspect { get; set; }
 * class [MovieAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

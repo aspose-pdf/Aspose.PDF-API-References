@@ -1,7 +1,7 @@
 ---
-title: AppearanceDictionary.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة AppearanceDictionary. يزيل المفتاح من القاموس
+title: "AppearanceDictionary.Remove"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة AppearanceDictionary. تُزيل المفتاح من القاموس."
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf.annotations/appearancedictionary/remove/
@@ -14,15 +14,15 @@ url: /ar/net/aspose.pdf.annotations/appearancedictionary/remove/
 public bool Remove(string key)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| key | String | المفتاح الذي سيتم إزالته من القاموس. |
+| المفتاح | String | المفتاح الذي سيُزال من القاموس. |
 
-### Return Value
+### قيمة الإرجاع
 
-true إذا تم إزالة المفتاح بنجاح.
+صحيح إذا تم إزالة المفتاح بنجاح.
 
-### See Also
+### انظر أيضًا
 
 * class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
@@ -38,17 +38,19 @@ true إذا تم إزالة المفتاح بنجاح.
 public bool Remove(KeyValuePair<string, XForm> item)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | item | KeyValuePair`2 | زوج المفتاح/القيمة الذي سيتم إزالته. |
 
-### Return Value
+### قيمة الإرجاع
 
-true إذا تم العثور على الزوج وإزالته.
+صحيح إذا تم العثور على الزوج وإزالته.
 
-### See Also
+### انظر أيضًا
 
 * class [XForm](../../../aspose.pdf/xform/)
 * class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

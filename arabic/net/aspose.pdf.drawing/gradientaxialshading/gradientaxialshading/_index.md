@@ -1,14 +1,14 @@
 ---
-title: GradientAxialShading.GradientAxialShading
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ GradientAxialShading. يُهيئ مثيلًا جديدًا من فئة GradientAxialShading
+title: "GradientAxialShading.GradientAxialShading"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ GradientAxialShading. يهيئ مثيلاً جديدًا لفئة GradientAxialShading"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.drawing/gradientaxialshading/gradientaxialshading/
 ---
 ## GradientAxialShading() {#constructor}
 
-يُهيئ مثيلًا جديدًا من فئة [`GradientAxialShading`](../).
+يهيئ مثيلاً جديدًا لفئة [`GradientAxialShading`](../).
 
 ```csharp
 public GradientAxialShading()
@@ -16,28 +16,30 @@ public GradientAxialShading()
 
 ### انظر أيضًا
 
-* فئة [GradientAxialShading](../)
-* مساحة الأسماء [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* التجميع [Aspose.PDF](../../../)
+* class [GradientAxialShading](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GradientAxialShading(Color, Color) {#constructor_1}
 
-يُهيئ مثيلًا جديدًا من فئة [`GradientAxialShading`](../).
+يهيئ مثيلاً جديدًا لفئة [`GradientAxialShading`](../).
 
 ```csharp
 public GradientAxialShading(Color startColor, Color endColor)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | startColor | Color | نقطة البداية. |
 | endColor | Color | نقطة النهاية. |
 
 ### انظر أيضًا
 
-* فئة [Color](../../../aspose.pdf/color/)
-* فئة [GradientAxialShading](../)
-* مساحة الأسماء [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* التجميع [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [GradientAxialShading](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

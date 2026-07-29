@@ -1,27 +1,29 @@
 ---
-title: MCRElement.ImageSrc
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MCRElement. تحصل على مصدر الصورة لعنصر مرجع المحتوى المعلم
+title: "MCRElement.ImageSrc"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MCRElement. تحصل على مصدر الصورة لعنصر إشارة المحتوى المميز"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.logicalstructure/mcrelement/imagesrc/
 ---
-## خاصية MCRElement.ImageSrc
+## MCRElement.ImageSrc property
 
-تحصل على مصدر الصورة لعنصر مرجع المحتوى المعلم.
+تحصل على مصدر الصورة لعنصر إشارة المحتوى المميز.
 
-بالنسبة لـ [`IllustrationElement`](../../illustrationelement/) الذي تم إنشاؤه للتو. تكون null في الحالات الأخرى.
+لكائن تم إنشاؤه حديثًا [`IllustrationElement`](../../illustrationelement/). يكون null في الحالات الأخرى.
 
 ```csharp
 public string ImageSrc { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-مصدر الصورة لعنصر مرجع المحتوى المعلم.
+مصدر الصورة لعنصر إشارة المحتوى المميز.
 
 ### انظر أيضًا
 
 * class [MCRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

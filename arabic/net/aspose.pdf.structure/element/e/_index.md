@@ -1,12 +1,12 @@
 ---
-title: Element.E
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية العنصر. PDF 1.5 الاختصار الموسع
+title: "Element.E"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية العنصر. اختياري PDF 1.5 الشكل الموسع للاختصار"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.structure/element/e/
 ---
-## خاصية Element.E
+## Element.E property
 
 (اختياري؛ PDF 1.5) الشكل الموسع للاختصار.
 
@@ -19,3 +19,5 @@ public virtual string E { get; set; }
 * class [Element](../)
 * namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../../)
+
+

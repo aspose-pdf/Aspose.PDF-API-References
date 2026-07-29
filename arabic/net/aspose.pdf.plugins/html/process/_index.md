@@ -1,20 +1,20 @@
 ---
-title: Html.Process
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Html. تبدأ معالجة Html مع المعلمات المحددة
+title: "Html.Process"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Html. تبدأ معالجة Html بالمعلمات المحددة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.plugins/html/process/
 ---
-## طريقة Html.Process
+## Html.Process method
 
-تبدأ معالجة [`Html`](../) مع المعلمات المحددة.
+يبدأ معالجة [`Html`](../) بالمعلمات المحددة.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
 ```
 
-| المعلمة | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | options | IPluginOptions | كائن خيارات يحتوي على تعليمات لـ [`Html`](../). |
 
@@ -24,8 +24,10 @@ public ResultContainer Process(IPluginOptions options)
 
 ### انظر أيضًا
 
-* فئة [ResultContainer](../../resultcontainer/)
-* واجهة [IPluginOptions](../../ipluginoptions/)
-* فئة [Html](../)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [Html](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

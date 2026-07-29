@@ -1,14 +1,14 @@
 ---
-title: Table.Top
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الجدول. يحصل أو يحدد إحداثي الجزء العلوي من الجدول
+title: "Table.Top"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Table. تحصل أو تعيّن إحداثي أعلى الجدول."
 type: docs
 weight: 210
 url: /ar/net/aspose.pdf/table/top/
 ---
-## خاصية Table.Top
+## Table.Top property
 
-يحصل أو يحدد إحداثي الجزء العلوي من الجدول.
+يحصل أو يعيّن إحداثي أعلى الجدول.
 
 ```csharp
 public float Top { get; set; }
@@ -19,3 +19,5 @@ public float Top { get; set; }
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

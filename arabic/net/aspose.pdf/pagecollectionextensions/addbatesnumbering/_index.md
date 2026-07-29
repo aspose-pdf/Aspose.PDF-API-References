@@ -1,26 +1,26 @@
 ---
-title: PageCollectionExtensions.AddBatesNumbering
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PageCollectionExtensions. تضيف ترقيم Bates إلى كل صفحة في مجموعة الصفحات المعطاة باستخدام الإجراء المحدد لتكوين BatesNArtifact
+title: "PageCollectionExtensions.AddBatesNumbering"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PageCollectionExtensions. تضيف ترقيم Bates إلى كل صفحة في مجموعة الصفحات المحددة باستخدام الإجراء المحدد لتكوين BatesNArtifact"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/pagecollectionextensions/addbatesnumbering/
 ---
 ## AddBatesNumbering(this PageCollection, Action&lt;BatesNArtifact&gt;) {#addbatesnumbering_1}
 
-تضيف ترقيم Bates إلى كل صفحة في مجموعة الصفحات المعطاة باستخدام الإجراء المحدد لتكوين BatesNArtifact.
+يضيف ترقيم Bates إلى كل صفحة في مجموعة الصفحات المحددة باستخدام الإجراء المحدد لتكوين BatesNArtifact.
 
 ```csharp
 public static void AddBatesNumbering(this PageCollection pageCollection, 
     Action<BatesNArtifact> action)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pageCollection | PageCollection | مجموعة الصفحات التي سيتم إضافة ترقيم Bates إليها. |
-| action | Action`1 | إجراء لتكوين BatesNArtifact قبل إضافته إلى كل صفحة. |
+| pageCollection | PageCollection | مجموعة الصفحات التي سيُضاف إليها ترقيم Bates. |
+| إجراء | Action`1 | إجراء لتكوين BatesNArtifact قبل إضافته إلى كل صفحة. |
 
-### See Also
+### انظر أيضًا
 
 * class [PageCollection](../../pagecollection/)
 * class [BatesNArtifact](../../batesnartifact/)
@@ -32,21 +32,23 @@ public static void AddBatesNumbering(this PageCollection pageCollection,
 
 ## AddBatesNumbering(this PageCollection, BatesNArtifact) {#addbatesnumbering}
 
-تضيف عنصر ترقيم Bates المحدد إلى كل صفحة في مجموعة الصفحات المعطاة.
+يضيف العنصر المحدد لترقيم Bates إلى كل صفحة في مجموعة الصفحات المحددة.
 
 ```csharp
 public static void AddBatesNumbering(this PageCollection pageCollection, BatesNArtifact artifact)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pageCollection | PageCollection | مجموعة الصفحات التي سيتم إضافة عنصر ترقيم Bates إليها. |
-| artifact | BatesNArtifact | مثيل BatesNArtifact الذي سيتم إضافته إلى كل صفحة. |
+| pageCollection | PageCollection | مجموعة الصفحات التي سيُضاف إليها قطعة ترقيم Bates. |
+| قطعة | BatesNArtifact | مثيل BatesNArtifact الذي سيُضاف إلى كل صفحة. |
 
-### See Also
+### انظر أيضًا
 
 * class [PageCollection](../../pagecollection/)
 * class [BatesNArtifact](../../batesnartifact/)
 * class [PageCollectionExtensions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

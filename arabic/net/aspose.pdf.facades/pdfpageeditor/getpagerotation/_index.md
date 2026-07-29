@@ -1,22 +1,22 @@
 ---
-title: PdfPageEditor.GetPageRotation
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfPageEditor. تعيد دوران الصفحة المحددة
+title: "PdfPageEditor.GetPageRotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfPageEditor. تُعيد دوران الصفحة المحددة"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.facades/pdfpageeditor/getpagerotation/
 ---
-## طريقة PdfPageEditor.GetPageRotation
+## PdfPageEditor.GetPageRotation method
 
-تعيد دوران الصفحة المحددة.
+يعيد دوران الصفحة المحددة.
 
 ```csharp
 public int GetPageRotation(int page)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Int32 | فهرس الصفحة. يتم ترقيم صفحات الوثيقة من 1. |
+| صفحة | Int32 | فهرس الصفحة. صفحات المستند مرقمة بدءًا من 1. |
 
 ### قيمة الإرجاع
 
@@ -38,3 +38,5 @@ Console.WriteLine("Rotation of 1st page : " + rotation + " degrees");
 * class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

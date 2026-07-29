@@ -1,14 +1,14 @@
 ---
-title: SetCMYKColorStroke.getColor
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة SetCMYKColorStroke. تعيد لون RGB
+title: "SetCMYKColorStroke.getColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة SetCMYKColorStroke. تُرجع لون RGB"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.operators/setcmykcolorstroke/getcolor/
 ---
-## طريقة SetCMYKColorStroke.getColor
+## SetCMYKColorStroke.getColor method
 
-تعيد لون RGB
+يعيد لون RGB
 
 ```csharp
 public override Color getColor()
@@ -23,3 +23,5 @@ public override Color getColor()
 * class [SetCMYKColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

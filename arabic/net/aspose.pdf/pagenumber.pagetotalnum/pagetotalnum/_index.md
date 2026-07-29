@@ -1,14 +1,14 @@
 ---
-title: PageNumber.PageTotalNum.PageTotalNum
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PageTotalNum. المُنشئ الافتراضي
+title: "PageNumber.PageTotalNum.PageTotalNum"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PageTotalNum. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/pagenumber.pagetotalnum/pagetotalnum/
 ---
-## مُنشئ PageNumber.PageTotalNum
+## PageNumber.PageTotalNum constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public PageTotalNum()
@@ -19,3 +19,5 @@ public PageTotalNum()
 * class [PageTotalNum](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

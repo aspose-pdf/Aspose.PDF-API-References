@@ -1,14 +1,14 @@
 ---
-title: XmpValue.IsField
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XmpValue. تعيد true إذا كانت XmpValue حقل
+title: "XmpValue.IsField"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XmpValue. تُرجع true إذا كان XmpValue حقلًا"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/xmpvalue/isfield/
 ---
-## خاصية XmpValue.IsField
+## XmpValue.IsField property
 
-تعيد true إذا كانت XmpValue حقل.
+يعيد true إذا كان XmpValue حقلًا.
 
 ```csharp
 public bool IsField { get; }
@@ -19,3 +19,5 @@ public bool IsField { get; }
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

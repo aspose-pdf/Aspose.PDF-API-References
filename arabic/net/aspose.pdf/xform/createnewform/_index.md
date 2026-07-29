@@ -1,32 +1,34 @@
 ---
-title: XForm.CreateNewForm
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XForm. تنشئ XForm التي تكرر محتويات الصفحة
+title: "XForm.CreateNewForm"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XForm. تُنشئ XForm يكرر محتويات الصفحة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/xform/createnewform/
 ---
 ## XForm.CreateNewForm method
 
-تنشئ XForm التي تكرر محتويات الصفحة.
+ينشئ XForm يكرر محتويات page.
 
 ```csharp
 public static XForm CreateNewForm(Page source, Document document)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| source | Page | الصفحة المصدر |
-| document | Document | المستند الذي ستتم إضافة XForm الجديدة إليه. |
+| المصدر | صفحة | صفحة المصدر |
+| document | Document | Document حيث سيتم إضافة XForm جديد. |
 
-### Return Value
+### قيمة الإرجاع
 
-XForm الجديدة التي تم إنشاؤها.
+XForm تم إنشاؤه حديثًا.
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../page/)
 * class [Document](../../document/)
 * class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

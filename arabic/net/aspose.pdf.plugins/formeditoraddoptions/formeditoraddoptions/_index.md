@@ -1,22 +1,22 @@
 ---
-title: FormEditorAddOptions.FormEditorAddOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FormEditorAddOptions. يقوم بتهيئة مثيل جديد من كائن PdfFormAddFieldsOptions
+title: "FormEditorAddOptions.FormEditorAddOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FormEditorAddOptions. يهيئ مثيلاً جديدًا لكائن PdfFormAddFieldsOptions"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/formeditoraddoptions/formeditoraddoptions/
 ---
-## مُنشئ FormEditorAddOptions
+## FormEditorAddOptions constructor
 
-يقوم بتهيئة مثيل جديد من كائن !:PdfFormAddFieldsOptions.
+يُنشئ مثلاً جديداً لكائن !:PdfFormAddFieldsOptions
 
 ```csharp
 public FormEditorAddOptions(List<FormFieldCreateOptions> fieldsCreateOptions)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fieldsCreateOptions | List`1 | قائمة من الأطفال FormFieldCreateOptions التي تحدد الخيارات لكل حقل مضاف. كل عنصر من عناصر القائمة يتوافق مع حقل واحد سيتم إضافته. |
+| fieldsCreateOptions | List`1 | قائمة من عناصر FormFieldCreateOptions التي تحدد الخيارات لكل حقل مضاف. كل عنصر في القائمة يتطابق مع حقل واحد سيتم إضافته. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public FormEditorAddOptions(List<FormFieldCreateOptions> fieldsCreateOptions)
 * class [FormEditorAddOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

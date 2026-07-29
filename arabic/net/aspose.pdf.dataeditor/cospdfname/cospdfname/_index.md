@@ -1,25 +1,27 @@
 ---
-title: CosPdfName.CosPdfName
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ CosPdfName. يُهيئ مثيلًا جديدًا من فئة CosPdfName
+title: "CosPdfName.CosPdfName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ CosPdfName. يهيئ كائنًا جديدًا من الفئة CosPdfName."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.dataeditor/cospdfname/cospdfname/
 ---
-## مُنشئ CosPdfName
+## CosPdfName constructor
 
-يُهيئ مثيلًا جديدًا من فئة [`CosPdfName`](../).
+يُنشئ مثيلاً جديدًا من الفئة [`CosPdfName`](../).
 
 ```csharp
 public CosPdfName(string value)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | String | الاسم. |
+| القيمة | String | الاسم. |
 
 ### انظر أيضًا
 
-* فئة [CosPdfName](../)
-* مساحة الاسم [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* التجميع [Aspose.PDF](../../../)
+* class [CosPdfName](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

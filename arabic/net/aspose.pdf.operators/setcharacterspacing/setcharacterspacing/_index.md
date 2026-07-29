@@ -1,12 +1,12 @@
 ---
-title: SetCharacterSpacing.SetCharacterSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SetCharacterSpacing. يُهيئ العامل
+title: "SetCharacterSpacing.SetCharacterSpacing"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SetCharacterSpacing. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/setcharacterspacing/setcharacterspacing/
 ---
-## مُنشئ SetCharacterSpacing
+## SetCharacterSpacing constructor
 
 يُهيئ العامل.
 
@@ -14,7 +14,7 @@ url: /ar/net/aspose.pdf.operators/setcharacterspacing/setcharacterspacing/
 public SetCharacterSpacing(double charSpacing)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | charSpacing | Double | تباعد الأحرف. |
 
@@ -23,3 +23,5 @@ public SetCharacterSpacing(double charSpacing)
 * class [SetCharacterSpacing](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

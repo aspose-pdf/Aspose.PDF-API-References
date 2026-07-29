@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Center
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Rectangle. تعيد إحداثيات مركز المستطيل
+title: "Rectangle.Center"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Rectangle. إرجاع إحداثيات مركز المستطيل"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf/rectangle/center/
 ---
-## طريقة Rectangle.Center
+## Rectangle.Center method
 
-تعيد إحداثيات مركز المستطيل.
+يرجع إحداثيات مركز المستطيل.
 
 ```csharp
 public Point Center()
@@ -16,7 +16,7 @@ public Point Center()
 
 ### قيمة الإرجاع
 
-نقطة تمثل مركز المستطيل.
+النقطة التي هي مركز المستطيل.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public Point Center()
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

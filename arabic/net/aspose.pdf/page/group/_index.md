@@ -1,14 +1,14 @@
 ---
-title: Page.Group
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصفحة. تحصل أو تعين فئة سمات المجموعة التي تحدد سمات مجموعة صفحات الصفحة لاستخدامها في نموذج التصوير الشفاف
+title: "Page.Group"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Page. تحصل أو تعيين فئة سمات المجموعة التي تحدد سمات مجموعة صفحات الصفحة للاستخدام في نموذج التصوير الشفاف."
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf/page/group/
 ---
-## خاصية Page.Group
+## Page.Group property
 
-تحصل أو تعين فئة سمات المجموعة التي تحدد سمات مجموعة صفحات الصفحة لاستخدامها في نموذج التصوير الشفاف.
+يحصل أو يضبط فئة سمات المجموعة التي تحدد سمات مجموعة الصفحة للاستخدام في نموذج التصوير الشفاف.
 
 ```csharp
 public Group Group { get; set; }
@@ -20,3 +20,5 @@ public Group Group { get; set; }
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

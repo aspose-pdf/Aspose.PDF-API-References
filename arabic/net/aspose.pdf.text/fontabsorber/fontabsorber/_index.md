@@ -1,14 +1,14 @@
 ---
-title: FontAbsorber.FontAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FontAbsorber. المُنشئ الافتراضي
+title: "FontAbsorber.FontAbsorber"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FontAbsorber. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/fontabsorber/fontabsorber/
 ---
-## مُنشئ FontAbsorber
+## FontAbsorber constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public FontAbsorber()
@@ -19,3 +19,5 @@ public FontAbsorber()
 * class [FontAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

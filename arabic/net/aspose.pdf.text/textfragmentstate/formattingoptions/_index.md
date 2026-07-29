@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.FormattingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragmentState. يحصل أو يحدد خيارات التنسيق. سيكون تعيين الخيارات فعالًا فقط في سيناريوهات المولد
+title: "TextFragmentState.FormattingOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragmentState. تحصل أو تعيّن خيارات التنسيق. سيكون تطبيق الخيارات فعالاً فقط في سيناريوهات المولد."
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.text/textfragmentstate/formattingoptions/
 ---
-## خاصية TextFragmentState.FormattingOptions
+## TextFragmentState.FormattingOptions property
 
-يحصل أو يحدد خيارات التنسيق. سيكون تعيين الخيارات فعالًا فقط في سيناريوهات المولد.
+الحصول أو تعيين خيارات التنسيق. سيكون تطبيق الخيارات فعالًا فقط في سيناريوهات المولد.
 
 ```csharp
 public TextFormattingOptions FormattingOptions { get; set; }
@@ -20,3 +20,5 @@ public TextFormattingOptions FormattingOptions { get; set; }
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

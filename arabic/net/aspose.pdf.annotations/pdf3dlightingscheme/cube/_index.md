@@ -1,14 +1,14 @@
 ---
-title: PDF3DLightingScheme.Cube
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PDF3DLightingScheme. مخطط الإضاءة المكعب
+title: "PDF3DLightingScheme.Cube"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PDF3DLightingScheme. مخطط الإضاءة المكعب"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.annotations/pdf3dlightingscheme/cube/
 ---
-## حقل PDF3DLightingScheme.Cube
+## PDF3DLightingScheme.Cube field
 
-مخطط الإضاءة "المكعب".
+مخطط الإضاءة "Cube".
 
 ```csharp
 public static PDF3DLightingScheme Cube;
@@ -19,3 +19,5 @@ public static PDF3DLightingScheme Cube;
 * class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Image.BitmapSize
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصورة. تحصل على حجم صورة البت
+title: "Image.BitmapSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Image. يسترجع حجم البت ماب للصورة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/image/bitmapsize/
 ---
-## خاصية Image.BitmapSize
+## Image.BitmapSize property
 
-تحصل على حجم صورة البت.
+يحصل على حجم صورة البت ماب.
 
 ```csharp
 public Rectangle BitmapSize { get; }
@@ -20,3 +20,5 @@ public Rectangle BitmapSize { get; }
 * class [Image](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

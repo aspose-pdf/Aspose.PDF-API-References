@@ -1,14 +1,14 @@
 ---
-title: PdfConverter.Close
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfConverter. أغلق مثيل PdfConverter وأطلق الموارد
+title: "PdfConverter.Close"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfConverter. إغلاق نسخة PdfConverter وإطلاق الموارد"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.facades/pdfconverter/close/
 ---
-## طريقة PdfConverter.Close
+## PdfConverter.Close method
 
-أغلق مثيل PdfConverter وأطلق الموارد.
+أغلق نسخة PdfConverter وأفرغ الموارد.
 
 ```csharp
 public override void Close()
@@ -19,3 +19,5 @@ public override void Close()
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

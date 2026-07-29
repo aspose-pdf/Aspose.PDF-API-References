@@ -1,14 +1,14 @@
 ---
-title: SetLineWidth.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة SetLineWidth. تعيد تمثيل نصي للمشغل
+title: "SetLineWidth.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة SetLineWidth. تُرجع تمثيلًا نصيًا للمشغل"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.operators/setlinewidth/tostring/
 ---
-## طريقة SetLineWidth.ToString
+## SetLineWidth.ToString method
 
-تعيد تمثيل نصي للمشغل.
+يرجع تمثيل النص للمشغّل.
 
 ```csharp
 public override string ToString()
@@ -23,3 +23,5 @@ public override string ToString()
 * class [SetLineWidth](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

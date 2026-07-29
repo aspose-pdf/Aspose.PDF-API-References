@@ -1,14 +1,14 @@
 ---
-title: DateField.DateField
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ DateField. يُهيئ مثيلًا جديدًا من DateField
+title: "DateField.DateField"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ DateField. يهيئ نسخة جديدة من DateField"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.forms/datefield/datefield/
 ---
 ## DateField() {#constructor}
 
-يُهيئ مثيلًا جديدًا من [`DateField`](../)
+يهيئ نسخة جديدة من [`DateField`](../)
 
 ```csharp
 public DateField()
@@ -24,15 +24,15 @@ public DateField()
 
 ## DateField(Document) {#constructor_1}
 
-المُنشئ الذي يجب استخدامه مع Generator.
+المنشئ الذي يجب استخدامه مع Generator.
 
 ```csharp
 public DateField(Document doc)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| doc | Document | المستند الذي سيتم إنشاء الحقل فيه. |
+| doc | Document | Document حيث سيتم إنشاء الحقل. |
 
 ### انظر أيضًا
 
@@ -45,16 +45,16 @@ public DateField(Document doc)
 
 ## DateField(Page, Rectangle) {#constructor_3}
 
-يُهيئ مثيلًا جديدًا من [`DateField`](../)
+يهيئ نسخة جديدة من [`DateField`](../)
 
 ```csharp
 public DateField(Page page, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة المطلوبة لإنشاء. |
-| rect | Rectangle | المستطيل الذي سيتم وضع حقل النص عليه في الصفحة. |
+| صفحة | صفحة | الصفحة المطلوبة للإنشاء. |
+| rect | Rectangle | Rectangle التي سيتم وضع حقل النص عليها في Page. |
 
 ### انظر أيضًا
 
@@ -68,16 +68,16 @@ public DateField(Page page, Rectangle rect)
 
 ## DateField(Document, Rectangle) {#constructor_2}
 
-يُهيئ مثيلًا جديدًا من [`DateField`](../)
+يهيئ نسخة جديدة من [`DateField`](../)
 
 ```csharp
 public DateField(Document doc, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| doc | Document | المستند الذي سيتم إنشاء الحقل فيه. |
-| rect | Rectangle | المستطيل الخاص بالحقل. |
+| doc | Document | Document حيث سيتم إنشاء الحقل. |
+| rect | Rectangle | Rectangle الخاص بالحقل. |
 
 ### انظر أيضًا
 
@@ -86,3 +86,5 @@ public DateField(Document doc, Rectangle rect)
 * class [DateField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

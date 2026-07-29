@@ -1,28 +1,28 @@
 ---
-title: LlamaSummaryCopilotOptions.WithDocument
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة LlamaSummaryCopilotOptions. تضيف مستند نصي إلى مجموعة المستندات لخيارات ملخص المساعد
+title: "LlamaSummaryCopilotOptions.WithDocument"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة LlamaSummaryCopilotOptions. تضيف مستند نصي إلى مجموعة المستندات لخيارات مساعد الملخص."
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.ai/llamasummarycopilotoptions/withdocument/
 ---
 ## WithDocument(TextDocument) {#withdocument_1}
 
-تضيف مستند نصي إلى مجموعة المستندات لخيارات ملخص المساعد.
+يضيف مستند نصي إلى مجموعة المستندات لخيارات ملخص المساعد.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocument(TextDocument textDocument)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| textDocument | TextDocument | المستند النصي الذي سيتم إضافته. |
+| textDocument | TextDocument | مستند النص لإضافته. |
 
-### Return Value
+### قيمة الإرجاع
 
-النسخة الحالية من [`LlamaSummaryCopilotOptions`](../).
+المثيل الحالي من [`LlamaSummaryCopilotOptions`](../).
 
-### See Also
+### انظر أيضًا
 
 * class [TextDocument](../../textdocument/)
 * class [LlamaSummaryCopilotOptions](../)
@@ -33,21 +33,21 @@ public LlamaSummaryCopilotOptions WithDocument(TextDocument textDocument)
 
 ## WithDocument(PdfDocument) {#withdocument}
 
-تضيف مستند PDF إلى مجموعة المستندات لخيارات ملخص المساعد.
+يضيف مستند PDF إلى مجموعة المستندات لخيارات ملخص المساعد.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocument(PdfDocument pdfDocument)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pdfDocument | PdfDocument | مستند PDF الذي سيتم إضافته. |
+| pdfDocument | PdfDocument | مستند PDF المراد إضافته. |
 
-### Return Value
+### قيمة الإرجاع
 
-النسخة الحالية من [`LlamaSummaryCopilotOptions`](../).
+المثيل الحالي من [`LlamaSummaryCopilotOptions`](../).
 
-### See Also
+### انظر أيضًا
 
 * class [PdfDocument](../../pdfdocument/)
 * class [LlamaSummaryCopilotOptions](../)
@@ -58,22 +58,24 @@ public LlamaSummaryCopilotOptions WithDocument(PdfDocument pdfDocument)
 
 ## WithDocument(string) {#withdocument_2}
 
-تضيف مسار مستند إلى مجموعة المستندات لخيارات ملخص المساعد.
+يضيف مسار المستند إلى مجموعة المستندات لخيارات ملخص المساعد.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocument(string filePath)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| filePath | String | مسار الملف للمستند الذي سيتم إضافته. |
+| filePath | String | مسار الملف للمستند المراد إضافته. |
 
-### Return Value
+### قيمة الإرجاع
 
-النسخة الحالية من [`LlamaSummaryCopilotOptions`](../).
+المثيل الحالي من [`LlamaSummaryCopilotOptions`](../).
 
-### See Also
+### انظر أيضًا
 
 * class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

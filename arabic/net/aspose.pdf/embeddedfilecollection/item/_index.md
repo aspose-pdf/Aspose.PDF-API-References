@@ -1,26 +1,26 @@
 ---
-title: EmbeddedFileCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية EmbeddedFileCollection. يحصل على الملف المضمن بواسطة فهرسه
+title: "EmbeddedFileCollection.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية EmbeddedFileCollection. تحصل على الملف المضمّن حسب فهرسه"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/embeddedfilecollection/item/
 ---
-## فهرس EmbeddedFileCollection (1 من 2)
+## EmbeddedFileCollection indexer (1 of 2)
 
-يحصل على الملف المضمن بواسطة فهرسه.
+تحصل على الملف المضمّن حسب فهرسه.
 
 ```csharp
 public FileSpecification this[int index] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| index | فهرس الملف المضمن. يبدأ الترقيم من 1. |
+| index | فهرس الملف المضمّن. يبدأ الترقيم من 1. |
 
 ### قيمة الإرجاع
 
-مواصفات الملف المضمن المسترجعة
+مواصفات الملف المضمّن المسترجعة
 
 ### انظر أيضًا
 
@@ -31,21 +31,21 @@ public FileSpecification this[int index] { get; }
 
 ---
 
-## فهرس EmbeddedFileCollection (2 من 2)
+## EmbeddedFileCollection indexer (2 of 2)
 
-يحصل على الملف المضمن بواسطة اسمه.
+تحصل على الملف المضمّن حسب اسمه.
 
 ```csharp
 public FileSpecification this[string name] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| name | اسم الملف المضمن. |
+| الاسم | اسم الملف المضمّن. |
 
 ### قيمة الإرجاع
 
-مواصفات الملف المضمن المسترجعة.
+مواصفات الملف المضمّن المسترجعة.
 
 ### انظر أيضًا
 
@@ -53,3 +53,5 @@ public FileSpecification this[string name] { get; }
 * class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

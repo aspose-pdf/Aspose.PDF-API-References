@@ -1,14 +1,14 @@
 ---
-title: WidgetAnnotation.Actions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية WidgetAnnotation. تحصل على إجراءات التعليق
+title: "WidgetAnnotation.Actions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية WidgetAnnotation. تحصل على إجراءات التعليق التوضيحي."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/widgetannotation/actions/
 ---
-## خاصية WidgetAnnotation.Actions
+## WidgetAnnotation.Actions property
 
-تحصل على إجراءات التعليق.
+يحصل على إجراءات التعليق التوضيحي.
 
 ```csharp
 public AnnotationActionCollection Actions { get; }
@@ -20,3 +20,5 @@ public AnnotationActionCollection Actions { get; }
 * class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

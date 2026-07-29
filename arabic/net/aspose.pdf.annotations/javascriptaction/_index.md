@@ -1,40 +1,42 @@
 ---
-title: Class JavascriptAction
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.JavascriptAction. فئة تمثل إجراء جافا سكريبت
+title: "الفئة JavascriptAction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Annotations.JavascriptAction. الفئة التي تمثل إجراء جافاسكريبت."
 type: docs
-weight: 1930
+weight: 2020
 url: /ar/net/aspose.pdf.annotations/javascriptaction/
 ---
 ## JavascriptAction class
 
-فئة تمثل إجراء جافا سكريبت.
+فئة تمثل إجراء جافاسكريبت.
 
 ```csharp
 public sealed class JavascriptAction : PdfAction
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [JavascriptAction](javascriptaction/)(string) | المُنشئ. |
+| [JavascriptAction](javascriptaction/)(string) | منشئ. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | الإجراءات التالية في التسلسل. |
-| [Script](../../aspose.pdf.annotations/javascriptaction/script/) { get; set; } | يحصل على أو يحدد كود جافا سكريبت. |
+| [Script](../../aspose.pdf.annotations/javascriptaction/script/) { get; set; } | يحصل أو يضبط كود جافاسكريبت. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | يحصل على سلسلة لإجراء ECMAScript. |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | يحصل على النص لإجراء ECMAScript. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfAction](../pdfaction/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

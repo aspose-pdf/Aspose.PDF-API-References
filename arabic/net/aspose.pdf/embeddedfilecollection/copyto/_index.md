@@ -1,23 +1,23 @@
 ---
-title: EmbeddedFileCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة EmbeddedFileCollection. تنسخ مصفوفة من كائنات FileSpecification إلى المجموعة
+title: "EmbeddedFileCollection.CopyTo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة EmbeddedFileCollection. نسخ مصفوفة كائنات FileSpecification إلى colleciton"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/embeddedfilecollection/copyto/
 ---
-## طريقة EmbeddedFileCollection.CopyTo
+## EmbeddedFileCollection.CopyTo method
 
-تنسخ مصفوفة من كائنات FileSpecification إلى المجموعة.
+ينسخ مصفوفة كائن FileSpecification إلى المجموعة.
 
 ```csharp
 public void CopyTo(FileSpecification[] array, int index)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| array | FileSpecification[] | مصفوفة من الكائنات التي سيتم نسخها. |
-| index | Int32 | الفهرس الابتدائي الذي ستبدأ منه عملية النسخ. |
+| مصفوفة | FileSpecification[] | Array of objects which will be copied. |
+| index | Int32 | Starting index from which copying will be started. |
 
 ### انظر أيضًا
 
@@ -25,3 +25,5 @@ public void CopyTo(FileSpecification[] array, int index)
 * class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

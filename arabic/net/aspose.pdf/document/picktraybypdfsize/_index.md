@@ -1,14 +1,14 @@
 ---
-title: Document.PickTrayByPdfSize
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. تحصل أو تعين علامة تحدد ما إذا كان يجب استخدام حجم صفحة PDF لاختيار درج الورق المدخل
+title: "Document.PickTrayByPdfSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. تحصل أو تعين علامة تحدد ما إذا كان يجب استخدام حجم صفحة PDF لاختيار صينية الورق المدخلة"
 type: docs
-weight: 500
+weight: 520
 url: /ar/net/aspose.pdf/document/picktraybypdfsize/
 ---
-## خاصية Document.PickTrayByPdfSize
+## Document.PickTrayByPdfSize property
 
-تحصل أو تعين علامة تحدد ما إذا كان يجب استخدام حجم صفحة PDF لاختيار درج الورق المدخل.
+يحصل أو يضبط علامة تحدد ما إذا كان يجب استخدام حجم صفحة PDF لاختيار صينية الورق المدخل.
 
 ```csharp
 public bool PickTrayByPdfSize { get; set; }
@@ -19,3 +19,5 @@ public bool PickTrayByPdfSize { get; set; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

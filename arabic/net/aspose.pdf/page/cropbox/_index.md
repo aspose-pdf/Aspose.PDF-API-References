@@ -1,14 +1,14 @@
 ---
-title: Page.CropBox
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصفحة. تحصل أو تعين صندوق القص للصفحة
+title: "Page.CropBox"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Page. تحصل أو تعين صندوق القص للصفحة"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf/page/cropbox/
 ---
-## خاصية Page.CropBox
+## Page.CropBox property
 
-تحصل أو تعين صندوق القص للصفحة.
+يحصل أو يضبط صندوق القص للصفحة.
 
 ```csharp
 public Rectangle CropBox { get; set; }
@@ -16,7 +16,7 @@ public Rectangle CropBox { get; set; }
 
 ## أمثلة
 
-المثال يوضح كيفية الحصول على صندوق القص للصفحة:
+يوضح المثال كيفية الحصول على صندوق القص للصفحة:
 
 ```csharp
 Document document = new Document("sample.pdf");
@@ -29,3 +29,5 @@ Rectangle cropBox = document.Pages[1].CropBox;
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

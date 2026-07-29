@@ -1,14 +1,14 @@
 ---
-title: CharInfoCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CharInfoCollection. تحصل على عدد عناصر كائن CharInfo الموجودة فعليًا في المجموعة
+title: "CharInfoCollection.Count"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "CharInfoCollection property. Gets the number of CharInfo object elements actually contained in the collection"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/charinfocollection/count/
 ---
-## خاصية CharInfoCollection.Count
+## CharInfoCollection.Count property
 
-تحصل على عدد عناصر كائن [`CharInfo`](../../charinfo/) الموجودة فعليًا في المجموعة.
+Gets the number of [`CharInfo`](../../charinfo/) object elements actually contained in the collection.
 
 ```csharp
 public int Count { get; }
@@ -19,3 +19,5 @@ public int Count { get; }
 * class [CharInfoCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

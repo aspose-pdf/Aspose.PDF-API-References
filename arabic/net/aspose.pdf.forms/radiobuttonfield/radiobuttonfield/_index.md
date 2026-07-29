@@ -1,24 +1,24 @@
 ---
-title: RadioButtonField.RadioButtonField
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ RadioButtonField. مُنشئ RadioButtonField
+title: "RadioButtonField.RadioButtonField"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ RadioButtonField. منشئ لـ RadiouttonField."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.forms/radiobuttonfield/radiobuttonfield/
 ---
 ## RadioButtonField(Page) {#constructor_1}
 
-مُنشئ RadioButtonField
+منشئ لحقل RadiouttonField
 
 ```csharp
 public RadioButtonField(Page page)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة التي سيتم وضع زر الراديو فيها. |
+| صفحة | صفحة | الصفحة التي سيتم وضع زر الاختيار فيها. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [RadioButtonField](../)
@@ -29,19 +29,21 @@ public RadioButtonField(Page page)
 
 ## RadioButtonField(Document) {#constructor}
 
-مُنشئ RadioButtonField.
+منشئ لحقل RadioButtonField.
 
 ```csharp
 public RadioButtonField(Document doc)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| doc | Document | المستند الذي سيتم إنشاء زر الراديو فيه. |
+| doc | Document | المستند حيث سيتم إنشاء زر الراديو. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [RadioButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

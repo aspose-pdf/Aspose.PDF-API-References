@@ -1,14 +1,14 @@
 ---
-title: FormTextBoxFieldSetOptions.MaxLen
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormTextBoxFieldSetOptions. تحصل/تضبط القيمة لتحديد خاصية MaxLen للحقل المعدل إذا تم تعيينها
+title: "FormTextBoxFieldSetOptions.MaxLen"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormTextBoxFieldSetOptions. يحصل/يضبط القيمة لتحديد الخاصية MaxLen للحقل المعدل إذا سيتم تعيينها"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.plugins/formtextboxfieldsetoptions/maxlen/
 ---
-## خاصية FormTextBoxFieldSetOptions.MaxLen
+## FormTextBoxFieldSetOptions.MaxLen property
 
-تحصل/تضبط القيمة لتحديد خاصية MaxLen للحقل المعدل (إذا تم تعيينها).
+يحصل/يضبط القيمة لتحديد الخاصية MaxLen للحقل المعدل (إذا سيتم ضبطها).
 
 ```csharp
 public int? MaxLen { get; set; }
@@ -19,3 +19,5 @@ public int? MaxLen { get; set; }
 * class [FormTextBoxFieldSetOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

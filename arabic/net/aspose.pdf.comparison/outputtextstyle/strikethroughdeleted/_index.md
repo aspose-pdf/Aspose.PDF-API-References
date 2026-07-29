@@ -1,14 +1,14 @@
 ---
-title: OutputTextStyle.StrikethroughDeleted
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OutputTextStyle. الحصول على أو تعيين نمط خط النص خط متقاطع لعملية الحذف. القيمة الافتراضية هي False
+title: "OutputTextStyle.StrikethroughDeleted"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OutputTextStyle. احصل على أو عيّن نمط خط عبر للنص المحذوف. القيمة الافتراضية هي False"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.comparison/outputtextstyle/strikethroughdeleted/
 ---
-## خاصية OutputTextStyle.StrikethroughDeleted
+## OutputTextStyle.StrikethroughDeleted property
 
-الحصول على أو تعيين نمط تزيين النص: خط متقاطع لعملية الحذف. القيمة الافتراضية هي `False`.
+احصل أو اضبط نمط text-decoration: line-through لعملية الحذف. القيمة الافتراضية هي `False`.
 
 ```csharp
 public bool StrikethroughDeleted { get; set; }
@@ -19,3 +19,5 @@ public bool StrikethroughDeleted { get; set; }
 * class [OutputTextStyle](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

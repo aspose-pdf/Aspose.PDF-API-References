@@ -1,14 +1,14 @@
 ---
-title: LevelFormat.LineDash
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LevelFormat. تحصل أو تعين خط التقطع في جدول المحتويات
+title: "LevelFormat.LineDash"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LevelFormat. يحصل أو يحدد نمط شرطة سطر فهرس المحتويات"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/levelformat/linedash/
 ---
-## خاصية LevelFormat.LineDash
+## LevelFormat.LineDash property
 
-تحصل أو تعين خط التقطع في جدول المحتويات.
+يحصل أو يعيّن نمط خط TOC المتقطع.
 
 ```csharp
 public TabLeaderType LineDash { get; set; }
@@ -20,3 +20,5 @@ public TabLeaderType LineDash { get; set; }
 * class [LevelFormat](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

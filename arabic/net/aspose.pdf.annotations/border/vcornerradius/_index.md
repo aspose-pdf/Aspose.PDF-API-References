@@ -1,14 +1,14 @@
 ---
-title: Border.VCornerRadius
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الحدود. تحصل أو تعين نصف قطر الزاوية العمودية
+title: "Border.VCornerRadius"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Border. يحصل أو يضبط نصف قطر الزاوية العمودية"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.annotations/border/vcornerradius/
 ---
-## خاصية Border.VCornerRadius
+## Border.VCornerRadius property
 
-تحصل أو تعين نصف قطر الزاوية العمودية.
+يحصل أو يعيّن نصف قطر الزاوية العمودية.
 
 ```csharp
 public double VCornerRadius { get; set; }
@@ -19,3 +19,5 @@ public double VCornerRadius { get; set; }
 * class [Border](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

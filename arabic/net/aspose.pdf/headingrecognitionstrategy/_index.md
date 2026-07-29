@@ -1,12 +1,12 @@
 ---
-title: Enum HeadingRecognitionStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HeadingRecognitionStrategy enum. يمثل أنواع استراتيجيات التعرف على العناوين
+title: "التعداد HeadingRecognitionStrategy"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.HeadingRecognitionStrategy. يمثل أنواع استراتيجيات التعرف على الترويسة"
 type: docs
-weight: 5480
+weight: 5610
 url: /ar/net/aspose.pdf/headingrecognitionstrategy/
 ---
-## Enumeration HeadingRecognitionStrategy
+## HeadingRecognitionStrategy enumeration
 
 يمثل أنواع استراتيجيات التعرف على العناوين.
 
@@ -14,16 +14,18 @@ url: /ar/net/aspose.pdf/headingrecognitionstrategy/
 public enum HeadingRecognitionStrategy
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Outlines | `0` | يمثل استراتيجية التعرف على العناوين من خلال المخططات. |
-| Heuristic | `1` | يمثل استراتيجية التعرف على العناوين من خلال قواعد الاستدلال وإحصائيات حجم الخط. |
-| Auto | `2` | يوفر اختيار استراتيجية التعرف على العناوين تلقائيًا. هذا هو الخيار الافتراضي. إذا كان المستند يحتوي على إشارات مرجعية، فسيتم اختيار استراتيجية المخططات، وإلا فستكون الاستراتيجية الاستدلالية. |
-| None | `3` | لا تعترف بالعناوين. يمكن أن يكون هذا الخيار مفيدًا في المستندات ذات التنسيق المعقد. |
+| Outlines | `0` | يمثل استراتيجية التعرف على العناوين عبر المخططات. |
+| Heuristic | `1` | يمثل استراتيجية التعرف على العناوين عبر قواعد الاستدلال وإحصائيات حجم الخط. |
+| Auto | `2` | يوفر اختياراً تلقائياً لاستراتيجية التعرف على العناوين. هذا هو الخيار الافتراضي. إذا كان المستند يحتوي على إشارات مرجعية، سيتم اختيار استراتيجية Outlines، وإلا سيتم اختيار Heuristic. |
+| None | `3` | عدم التعرف على العناوين. يمكن أن يكون هذا الخيار مفيداً في المستندات ذات التنسيق المعقد. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

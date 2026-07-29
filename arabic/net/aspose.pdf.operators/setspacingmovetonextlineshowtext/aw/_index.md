@@ -1,14 +1,14 @@
 ---
-title: SetSpacingMoveToNextLineShowText.Aw
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SetSpacingMoveToNextLineShowText. تحصل على تباعد الكلمات
+title: "SetSpacingMoveToNextLineShowText.Aw"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SetSpacingMoveToNextLineShowText. تحصل على تباعد الكلمات"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.operators/setspacingmovetonextlineshowtext/aw/
 ---
-## خاصية SetSpacingMoveToNextLineShowText.Aw
+## SetSpacingMoveToNextLineShowText.Aw property
 
-تحصل على تباعد الكلمات.
+يحصل على تباعد الكلمات.
 
 ```csharp
 public double Aw { get; }
@@ -19,3 +19,5 @@ public double Aw { get; }
 * class [SetSpacingMoveToNextLineShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

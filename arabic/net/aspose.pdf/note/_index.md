@@ -1,14 +1,14 @@
 ---
-title: Class Note
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Note. تمثل هذه الفئة ملاحظة فقرة مولدة
+title: "الفئة Note"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Note. تمثل هذه الفئة ملاحظة الفقرة المولدة"
 type: docs
-weight: 7020
+weight: 7160
 url: /ar/net/aspose.pdf/note/
 ---
-## فئة الملاحظة
+## Note class
 
-تمثل هذه الفئة ملاحظة فقرة مولدة.
+تمثل هذه الفئة ملاحظة الفقرة المولدة.
 
 ```csharp
 public sealed class Note
@@ -18,18 +18,20 @@ public sealed class Note
 
 | الاسم | الوصف |
 | --- | --- |
-| [Note](note/#constructor)() | يقوم بتهيئة مثيل جديد من فئة `Note`. |
-| [Note](note/#constructor_1)(string) | يقوم بتهيئة مثيل جديد من فئة `Note`. |
+| [Note](note/#constructor)() | يقوم بتهيئة نسخة جديدة من الفئة `Note`. |
+| [Note](note/#constructor_1)(string) | يقوم بتهيئة نسخة جديدة من الفئة `Note`. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Paragraphs](../../aspose.pdf/note/paragraphs/) { get; set; } | يحصل أو يحدد مجموعة تشير إلى جميع الفقرات في FootNote. |
-| [Text](../../aspose.pdf/note/text/) { get; set; } | يحصل أو يحدد نص الملاحظة. |
-| [TextState](../../aspose.pdf/note/textstate/) { get; set; } | يحصل أو يحدد حالة نص الملاحظة. |
+| [Paragraphs](../../aspose.pdf/note/paragraphs/) { get; set; } | يحصل أو يعيّن مجموعة تشير إلى جميع الفقرات في الـFootNote. |
+| [Text](../../aspose.pdf/note/text/) { get; set; } | يحصل أو يعيّن نص الملاحظة. |
+| [TextState](../../aspose.pdf/note/textstate/) { get; set; } | يحصل أو يعيّن حالة نص الملاحظة. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,42 +1,44 @@
 ---
-title: Class CurveTo2
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.CurveTo2. فئة تمثل مشغل y لإضافة منحنى إلى النقطة النهائية للمسار المكرر
+title: "الفئة CurveTo2"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Operators.CurveTo2 الفئة. الفئة التي تمثل معامل y لإلحاق منحنى إلى المسار وتكرار النقطة النهائية"
 type: docs
-weight: 7260
+weight: 7400
 url: /ar/net/aspose.pdf.operators/curveto2/
 ---
 ## CurveTo2 class
 
-فئة تمثل مشغل y (إضافة منحنى إلى المسار، نقطة النهاية مكررة).
+فئة تمثل المشغل y (append curve إلى المسار، تكرار النقطة النهائية).
 
 ```csharp
 public class CurveTo2 : Operator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [CurveTo2](curveto2/)(double, double, double, double) | Initializes curve operator. |
+| [CurveTo2](curveto2/)(double, double, double, double) | يُهيئ المشغّل curve. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
 | [Points](../../aspose.pdf.operators/curveto2/points/) { get; } | نقاط المنحنى. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/curveto2/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | يعيد نص المشغل ومعاييره. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/curveto2/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | يرجع نص العامل ومعامِله. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

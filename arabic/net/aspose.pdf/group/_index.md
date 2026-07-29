@@ -1,14 +1,14 @@
 ---
-title: Class Group
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Group. فئة خصائص المجموعة التي تحدد خصائص مجموعة صفحات الصفحة لاستخدامها في نموذج التصوير الشفاف
+title: "الفئة Group"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Group. فئة سمات المجموعة التي تحدد سمات مجموعة صفحات الصفحات للاستخدام في نموذج التصوير الشفاف"
 type: docs
-weight: 5350
+weight: 5470
 url: /ar/net/aspose.pdf/group/
 ---
-## فئة المجموعة
+## Group class
 
-فئة خصائص المجموعة التي تحدد خصائص مجموعة صفحات الصفحة لاستخدامها في نموذج التصوير الشفاف.
+فئة سمات مجموعة تحدد سمات مجموعة صفحات الصفحة للاستخدام في نموذج التصوير الشفاف.
 
 ```csharp
 public sealed class Group
@@ -18,7 +18,7 @@ public sealed class Group
 
 | الاسم | الوصف |
 | --- | --- |
-| [Group](group/)(Page) | المنشئ. |
+| [Group](group/)(Page) | المُنشئ. |
 
 ## الخصائص
 
@@ -28,5 +28,7 @@ public sealed class Group
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchema.RdfPrefix
-second_title: Aspose.PDF for .NET API Reference
-description: حقل XmpPdfAExtensionSchema. بادئة مساحة الاسم rdf الافتراضية
+title: "XmpPdfAExtensionSchema.RdfPrefix"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل XmpPdfAExtensionSchema. بادئة مساحة اسم rdf الافتراضية"
 type: docs
 weight: 210
 url: /ar/net/aspose.pdf/xmppdfaextensionschema/rdfprefix/
 ---
-## حقل XmpPdfAExtensionSchema.RdfPrefix
+## XmpPdfAExtensionSchema.RdfPrefix field
 
-بادئة مساحة الاسم rdf الافتراضية.
+بادئة مساحة الاسم لـ rdf الافتراضية.
 
 ```csharp
 public const string RdfPrefix;
@@ -19,3 +19,5 @@ public const string RdfPrefix;
 * class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

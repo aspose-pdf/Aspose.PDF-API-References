@@ -1,14 +1,14 @@
 ---
-title: Artifact.Position
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الأرتيفكت. تحصل أو تعين موضع الأرتيفكت. إذا تم تحديد هذه الخاصية، يتم تجاهل الهوامش والمحاذاة
+title: "Artifact.Position"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Artifact. يحصل أو يضبط موضع العنصر. إذا تم تحديد هذه الخاصية فستُهمل الهوامش والمحاذاة"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf/artifact/position/
 ---
-## خاصية Artifact.Position
+## Artifact.Position property
 
-تحصل أو تعين موضع الأرتيفكت. إذا تم تحديد هذه الخاصية، يتم تجاهل الهوامش والمحاذاة.
+يحصل أو يضبط موضع القطعة. إذا تم تحديد هذه الخاصية، يتم تجاهل الهوامش والمحاذاة.
 
 ```csharp
 public Point Position { get; set; }
@@ -20,3 +20,5 @@ public Point Position { get; set; }
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

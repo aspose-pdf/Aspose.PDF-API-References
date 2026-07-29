@@ -1,14 +1,14 @@
 ---
-title: Opi.Version
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Opi. تحصل على إصدار OPI الذي تشير إليه هذه القاموس
+title: "Opi.Version"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Opi. يحصل على نسخة OPI التي يشير إليها هذا القاموس"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/opi/version/
 ---
-## خاصية Opi.Version
+## Opi.Version property
 
-تحصل على إصدار OPI الذي تشير إليه هذه القاموس.
+يحصل على إصدار OPI الذي يشير إليه هذا القاموس.
 
 ```csharp
 public string Version { get; }
@@ -19,3 +19,5 @@ public string Version { get; }
 * class [Opi](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

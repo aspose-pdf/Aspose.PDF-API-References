@@ -1,24 +1,24 @@
 ---
-title: RedactionAnnotation.RedactionAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ RedactionAnnotation. مُنشئ لـ RedactionAnnotation. للاستخدام في Generator
+title: "RedactionAnnotation.RedactionAnnotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ RedactionAnnotation. منشئ لـ RedactionAnnotation. للاستخدام في Generator"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/redactionannotation/redactionannotation/
 ---
 ## RedactionAnnotation(Document) {#constructor}
 
-مُنشئ لـ RedactionAnnotation. للاستخدام في Generator.
+منشئ RedactionAnnotation. للاستخدام في Generator.
 
 ```csharp
 public RedactionAnnotation(Document document)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| document | Document | المستند الذي سيتم إنشاء التعليق الجديد فيه. |
+| document | Document | Document حيث سيتم إنشاء التعليق الجديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [RedactionAnnotation](../)
@@ -29,21 +29,23 @@ public RedactionAnnotation(Document document)
 
 ## RedactionAnnotation(Page, Rectangle) {#constructor_1}
 
-مُنشئ لـ RedactAnnotation.
+منشئ RedactAnnotation.
 
 ```csharp
 public RedactionAnnotation(Page page, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة التي سيتم وضع التعليق عليها. |
+| صفحة | صفحة | Page حيث سيتم وضع التعليق. |
 | rect | Rectangle | موضع التعليق على الصفحة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [RedactionAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

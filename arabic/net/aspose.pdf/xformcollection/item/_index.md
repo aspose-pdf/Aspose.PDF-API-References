@@ -1,26 +1,26 @@
 ---
-title: XFormCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XFormCollection. تعيد XForm حسب الفهرس
+title: "XFormCollection.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XFormCollection. تُرجع XForm حسب الفهرس"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/xformcollection/item/
 ---
-## فهرس XFormCollection (1 من 2)
+## XFormCollection indexer (1 of 2)
 
-تعيد XForm حسب الفهرس.
+إرجاع XForm حسب الفهرس.
 
 ```csharp
 public XForm this[int index] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
 | index | فهرس XFormCollection. يبدأ ترقيم XForms من 1. |
 
 ### قيمة الإرجاع
 
-XForm المسترجعة.
+XForm المسترجع.
 
 ### انظر أيضًا
 
@@ -31,21 +31,21 @@ XForm المسترجعة.
 
 ---
 
-## فهرس XFormCollection (2 من 2)
+## XFormCollection indexer (2 of 2)
 
-تعيد XForm حسب اسمها. يتم إلقاء استثناء إذا لم يتم العثور على XForm بالاسم المحدد.
+إرجاع XForm حسب اسمه. يتم رمي استثناء إذا لم يتم العثور على XForm بالاسم المحدد.
 
 ```csharp
 public XForm this[string name] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| name | اسم XForm. |
+| الاسم | اسم XForm. |
 
 ### قيمة الإرجاع
 
-XForm المسترجعة.
+XForm المسترجع.
 
 ### انظر أيضًا
 
@@ -53,3 +53,5 @@ XForm المسترجعة.
 * class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

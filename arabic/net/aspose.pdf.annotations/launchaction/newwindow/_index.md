@@ -1,14 +1,14 @@
 ---
-title: LaunchAction.NewWindow
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LaunchAction. تحصل أو تعين علامة تحدد ما إذا كان يجب فتح المستند الوجهة في نافذة جديدة 
+title: "LaunchAction.NewWindow"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "LaunchAction خاصية. تحصل أو تعين علامة تحدد ما إذا كان سيتم فتح المستند الهدف في نافذة جديدة، يؤثر على مستندات PDF فقط"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/launchaction/newwindow/
 ---
-## خاصية LaunchAction.NewWindow
+## LaunchAction.NewWindow property
 
-تحصل أو تعين علامة تحدد ما إذا كان يجب فتح المستند الوجهة في نافذة جديدة (تؤثر فقط على مستندات PDF).
+يحصل أو يضبط علامة تحدد ما إذا كان سيتم فتح المستند الهدف في نافذة جديدة (يؤثر على مستندات PDF فقط).
 
 ```csharp
 public ExtendedBoolean NewWindow { get; set; }
@@ -20,3 +20,5 @@ public ExtendedBoolean NewWindow { get; set; }
 * class [LaunchAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: DestinationCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DestinationCollection. تحصل على عدد العناصر الموجودة في المجموعة
+title: "DestinationCollection.Count"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DestinationCollection. يحصل على عدد العناصر الموجودة في المجموعة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/destinationcollection/count/
 ---
-## خاصية DestinationCollection.Count
+## DestinationCollection.Count property
 
-تحصل على عدد العناصر الموجودة في المجموعة.
+يحصل على عدد العناصر الموجودة في المجموعة.
 
 ```csharp
 public int Count { get; }
@@ -19,3 +19,5 @@ public int Count { get; }
 * class [DestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

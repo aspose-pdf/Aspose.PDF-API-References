@@ -1,14 +1,14 @@
 ---
-title: FormEditor.Items
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormEditor. تعيين العناصر التي ستضاف إلى مربع القائمة أو مربع التحرير المنسدل الذي تم إنشاؤه حديثًا
+title: "FormEditor.Items"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormEditor. تعيين العناصر التي ستُضاف إلى صندوق قائمة أو مربع اختيار تم إنشاؤه حديثًا"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.facades/formeditor/items/
 ---
-## خاصية FormEditor.Items
+## FormEditor.Items property
 
-تعيين العناصر التي ستضاف إلى مربع القائمة أو مربع التحرير المنسدل الذي تم إنشاؤه حديثًا.
+يضبط العناصر التي ستُضاف إلى صندوق القائمة أو صندوق القائمة المنسدلة الذي تم إنشاؤه حديثًا.
 
 ```csharp
 formEditor = new Aspose.Pdf.Facades.FormEditor("input.pdf", "output.pdf");
@@ -26,3 +26,5 @@ public string[] Items { get; set; }
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,9 +1,9 @@
 ---
-title: Form.HasField
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. تحقق مما إذا كان النموذج يحتوي بالفعل على الحقل المحدد
+title: "Form.HasField"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. تحقق مما إذا كان النموذج يحتوي بالفعل على الحقل المحدد."
 type: docs
-weight: 280
+weight: 300
 url: /ar/net/aspose.pdf.forms/form/hasfield/
 ---
 ## HasField(Field) {#hasfield}
@@ -14,15 +14,15 @@ url: /ar/net/aspose.pdf.forms/form/hasfield/
 public bool HasField(Field field)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| field | Field | الحقل للتحقق. |
+| حقل | حقل | الحقل للتحقق منه. |
 
-### Return Value
+### قيمة الإرجاع
 
-`true` إذا تم إضافة اسم الحقل المحدد إلى النموذج؛ خلاف ذلك، `false`.
+`true` إذا تم إضافة اسم الحقل المحدد إلى النموذج؛ وإلا، `false`.
 
-### See Also
+### انظر أيضًا
 
 * class [Field](../../field/)
 * class [Form](../)
@@ -33,21 +33,21 @@ public bool HasField(Field field)
 
 ## HasField(string) {#hasfield_1}
 
-يحدد ما إذا كان الحقل بالاسم المحدد قد تم إضافته بالفعل إلى النموذج.
+يحدد ما إذا كان الحقل بالاسم المحدد قد أُضيف بالفعل إلى النموذج.
 
 ```csharp
 public bool HasField(string fieldName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fieldName | String | [`PartialName`](../../field/partialname/) أو [`FullName`](../../../aspose.pdf.annotations/annotation/fullname/) للحقل. |
 
-### Return Value
+### قيمة الإرجاع
 
-`true` إذا تم إضافة اسم الحقل المحدد إلى النموذج؛ خلاف ذلك، `false`.
+`true` إذا تم إضافة اسم الحقل المحدد إلى النموذج؛ وإلا، `false`.
 
-### See Also
+### انظر أيضًا
 
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -57,23 +57,25 @@ public bool HasField(string fieldName)
 
 ## HasField(string, bool) {#hasfield_2}
 
-يحدد ما إذا كان الحقل بالاسم المحدد قد تم إضافته بالفعل إلى النموذج، مع القدرة على البحث في تسلسل الحقول الفرعية.
+يحدد ما إذا كان الحقل بالاسم المحدد قد أُضيف بالفعل إلى النموذج، مع القدرة على النظر في تسلسل هرمي للأطفال من الحقول.
 
 ```csharp
 public bool HasField(string fieldName, bool searchChildren)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fieldName | String | [`PartialName`](../../field/partialname/) أو [`FullName`](../../../aspose.pdf.annotations/annotation/fullname/) للحقل. |
-| searchChildren | Boolean | عند تعيينه إلى `true`، سيتم البحث في التسلسل الكامل لحقول النموذج عن *fieldName* المطلوب (لاحظ أنه في هذه الحالة يجب تمرير [`FullName`](../../../aspose.pdf.annotations/annotation/fullname/) للحقل المطلوب كـ *fieldName*). |
+| searchChildren | Boolean | عند تعيينه إلى `true` سيتم البحث في كامل تسلسل حقول النموذج عن *fieldName* المطلوب (لاحظ أنه في هذه الحالة يجب تمرير [`FullName`](../../../aspose.pdf.annotations/annotation/fullname/) للحقل المطلوب كـ *fieldName*). |
 
-### Return Value
+### قيمة الإرجاع
 
-`true` إذا تم إضافة اسم الحقل المحدد إلى النموذج؛ خلاف ذلك، `false`.
+`true` إذا تم إضافة اسم الحقل المحدد إلى النموذج؛ وإلا، `false`.
 
-### See Also
+### انظر أيضًا
 
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

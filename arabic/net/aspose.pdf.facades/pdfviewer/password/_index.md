@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.Password
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfViewer. تحصل أو تعين كلمة مرور مستند الإدخال
+title: "PdfViewer.Password"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfViewer. تحصل أو تعين كلمة مرور المستند"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.facades/pdfviewer/password/
 ---
-## خاصية PdfViewer.Password
+## PdfViewer.Password property
 
-تحصل أو تعين كلمة مرور مستند الإدخال.
+يحصل أو يعيّن كلمة مرور المستند الإدخالية.
 
 ```csharp
 public string Password { get; set; }
@@ -19,3 +19,5 @@ public string Password { get; set; }
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

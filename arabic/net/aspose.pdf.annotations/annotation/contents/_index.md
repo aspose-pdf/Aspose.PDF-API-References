@@ -1,14 +1,14 @@
 ---
-title: Annotation.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية التعليق. تحصل على نص التعليق أو تعينه
+title: "Annotation.Contents"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Annotation. يحصل على أو يضبط نص التعليق"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.annotations/annotation/contents/
 ---
-## خاصية Annotation.Contents
+## Annotation.Contents property
 
-تحصل على نص التعليق أو تعينه.
+الحصول على أو تعيين نص التعليقة.
 
 ```csharp
 public string Contents { get; set; }
@@ -19,3 +19,5 @@ public string Contents { get; set; }
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

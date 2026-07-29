@@ -1,40 +1,42 @@
 ---
-title: Class NamedAction
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.NamedAction. تمثل الإجراءات المسماة التي من المتوقع أن تدعمها تطبيقات عرض PDF
+title: "الفئة NamedAction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Annotations.NamedAction. تمثّل الإجراءات المسماة التي من المتوقع أن تدعمها تطبيقات عارض PDF."
 type: docs
-weight: 2120
+weight: 2210
 url: /ar/net/aspose.pdf.annotations/namedaction/
 ---
 ## NamedAction class
 
-تمثل الإجراءات المسماة التي من المتوقع أن تدعمها تطبيقات عرض PDF.
+يمثل إجراءات مسماة من المتوقع أن تدعمها تطبيقات عارض PDF.
 
 ```csharp
 public sealed class NamedAction : PdfAction
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [NamedAction](namedaction/)(PredefinedAction) | مُنشئ لفئة Named Action. |
+| [NamedAction](namedaction/)(PredefinedAction) | منشئ للفئة Named Action. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Name](../../aspose.pdf.annotations/namedaction/name/) { get; set; } | يحصل أو يحدد الإجراء الذي سيتم تنفيذه. |
+| [Name](../../aspose.pdf.annotations/namedaction/name/) { get; set; } | يحصل أو يعيّن الإجراء الذي سيتم تنفيذه. |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | الإجراءات التالية في التسلسل. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | يحصل على سلسلة لإجراء ECMAScript. |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | يحصل على النص لإجراء ECMAScript. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfAction](../pdfaction/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

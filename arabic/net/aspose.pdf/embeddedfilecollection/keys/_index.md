@@ -1,14 +1,14 @@
 ---
-title: EmbeddedFileCollection.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية EmbeddedFileCollection. تعيد قائمة بمفاتيح مرفقات الملفات
+title: "EmbeddedFileCollection.Keys"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية EmbeddedFileCollection. إرجاع قائمة مفاتيح مرفقات الملفات"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/embeddedfilecollection/keys/
 ---
-## خاصية EmbeddedFileCollection.Keys
+## EmbeddedFileCollection.Keys property
 
-تعيد قائمة بمفاتيح مرفقات الملفات.
+يعيد قائمة مفاتيح مرفقات الملفات.
 
 ```csharp
 public List<string> Keys { get; }
@@ -19,3 +19,5 @@ public List<string> Keys { get; }
 * class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

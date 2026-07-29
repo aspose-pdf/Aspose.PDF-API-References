@@ -1,14 +1,14 @@
 ---
-title: Choice.Logprobs
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Choice. يحصل أو يحدد معلومات احتمال اللوغاريتم للاختيار
+title: "Choice.Logprobs"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Choice. تحصل أو تُعيّن معلومات احتمالية السجل للاختيار"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.ai/choice/logprobs/
 ---
-## خاصية Choice.Logprobs
+## Choice.Logprobs property
 
-يحصل أو يحدد معلومات احتمال اللوغاريتم للاختيار.
+يسترجع أو يعيّن معلومات احتمال السجل للخيار.
 
 ```csharp
 public Logprobs Logprobs { get; set; }
@@ -20,3 +20,5 @@ public Logprobs Logprobs { get; set; }
 * class [Choice](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

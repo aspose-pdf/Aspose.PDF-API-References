@@ -1,28 +1,28 @@
 ---
-title: XmpValue.op_Implicit
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XmpValue. تحويل السلسلة إلى XmpValue
+title: "XmpValue.op_Implicit"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XmpValue. تُحوِّل السلسلة إلى XmpValue"
 type: docs
 weight: 250
 url: /ar/net/aspose.pdf/xmpvalue/op_implicit/
 ---
 ## implicit operator {#op_implicit_4}
 
-تحويل السلسلة إلى XmpValue.
+يحوِّل السلسلة إلى XmpValue.
 
 ```csharp
 public static implicit operator XmpValue(string value)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | String | القيمة للتحويل. |
+| القيمة | String | القيمة للتحويل. |
 
-### Return Value
+### قيمة الإرجاع
 
 XmlValue.
 
-### See Also
+### انظر أيضًا
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -32,21 +32,21 @@ XmlValue.
 
 ## implicit operator {#op_implicit_1}
 
-تحويل العدد الصحيح إلى XmpValue.
+يحوِّل عددًا صحيحًا إلى XmpValue.
 
 ```csharp
 public static implicit operator XmpValue(int value)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | Int32 | القيمة للتحويل. |
+| القيمة | Int32 | القيمة للتحويل. |
 
-### Return Value
+### قيمة الإرجاع
 
 XmlValue.
 
-### See Also
+### انظر أيضًا
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -56,21 +56,21 @@ XmlValue.
 
 ## implicit operator {#op_implicit}
 
-تحويل العدد العشري إلى XmpValue.
+يحوِّل عددًا عشريًا إلى XmpValue.
 
 ```csharp
 public static implicit operator XmpValue(double value)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | Double | القيمة للتحويل. |
+| القيمة | Double | القيمة للتحويل. |
 
-### Return Value
+### قيمة الإرجاع
 
 XmlValue.
 
-### See Also
+### انظر أيضًا
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -80,21 +80,21 @@ XmlValue.
 
 ## implicit operator {#op_implicit_2}
 
-تحويل DateTime إلى XmpValue.
+يحوِّل DateTime إلى XmpValue.
 
 ```csharp
 public static implicit operator XmpValue(DateTime value)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | DateTime | القيمة للتحويل. |
+| القيمة | DateTime | القيمة للتحويل. |
 
-### Return Value
+### قيمة الإرجاع
 
 XmlValue.
 
-### See Also
+### انظر أيضًا
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -104,22 +104,24 @@ XmlValue.
 
 ## implicit operator {#op_implicit_3}
 
-تحويل المصفوفة إلى XmpValue.
+يحوِّل مصفوفة إلى XmpValue.
 
 ```csharp
 public static implicit operator XmpValue(object[] value)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | Object[] | القيمة للتحويل. |
+| القيمة | Object[] | القيمة للتحويل. |
 
-### Return Value
+### قيمة الإرجاع
 
 XmlValue.
 
-### See Also
+### انظر أيضًا
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

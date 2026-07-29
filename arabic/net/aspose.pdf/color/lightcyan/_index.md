@@ -1,14 +1,14 @@
 ---
-title: Color.LightCyan
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على لون معرف من النظام له قيمة ARGB تساوي c FFE0FFFF
+title: "Color.LightCyan"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. تحصل على لون معرف بالنظام له قيمة ARGB c FFE0FFFF"
 type: docs
 weight: 670
 url: /ar/net/aspose.pdf/color/lightcyan/
 ---
-## خاصية Color.LightCyan
+## Color.LightCyan property
 
-تحصل على لون معرف من النظام له قيمة ARGB تساوي \c \#FFE0FFFF.
+يحصل على لون معرف من النظام له قيمة ARGB \c \#FFE0FFFF.
 
 ```csharp
 public static Color LightCyan { get; }
@@ -16,10 +16,12 @@ public static Color LightCyan { get; }
 
 ### قيمة الإرجاع
 
-يمثل لونًا معرفًا من النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

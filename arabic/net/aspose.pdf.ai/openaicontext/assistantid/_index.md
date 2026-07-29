@@ -1,14 +1,14 @@
 ---
-title: OpenAIContext.AssistantId
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OpenAIContext. تحصل على أو تعين معرف المساعد
+title: "OpenAIContext.AssistantId"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "OpenAIContext خاصية. يحصل أو يعيّن معرف المساعد"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/openaicontext/assistantid/
 ---
-## خاصية OpenAIContext.AssistantId
+## OpenAIContext.AssistantId property
 
-تحصل على أو تعين معرف المساعد.
+يحصل أو يضبط معرف المساعد.
 
 ```csharp
 public string AssistantId { get; set; }
@@ -19,3 +19,5 @@ public string AssistantId { get; set; }
 * class [OpenAIContext](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

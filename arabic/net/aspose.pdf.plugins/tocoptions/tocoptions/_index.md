@@ -1,14 +1,14 @@
 ---
-title: TocOptions.TocOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TocOptions. المُنشئ الافتراضي
+title: "TocOptions.TocOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TocOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/tocoptions/tocoptions/
 ---
-## مُنشئ TocOptions
+## TocOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public TocOptions()
@@ -19,3 +19,5 @@ public TocOptions()
 * class [TocOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

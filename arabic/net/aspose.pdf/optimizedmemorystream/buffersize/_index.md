@@ -1,25 +1,27 @@
 ---
-title: OptimizedMemoryStream.BufferSize
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OptimizedMemoryStream. تحصل أو تضبط حجم المخازن الأساسية
+title: "OptimizedMemoryStream.BufferSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OptimizedMemoryStream. تحصل أو تعين حجم المخازن المؤقتة الأساسية"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/optimizedmemorystream/buffersize/
 ---
-## خاصية OptimizedMemoryStream.BufferSize
+## OptimizedMemoryStream.BufferSize property
 
-تحصل أو تضبط حجم المخازن الأساسية.
+يحصل أو يعيّن حجم المخازن المؤقتة الأساسية.
 
 ```csharp
 public int BufferSize { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-حجم المخازن.
+حجم المخازن المؤقتة.
 
 ### انظر أيضًا
 
 * class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

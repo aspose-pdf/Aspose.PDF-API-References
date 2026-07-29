@@ -1,14 +1,14 @@
 ---
-title: TimestampSettings.ServerUrl
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TimestampSettings. تحصل/تضبط عنوان خادم الطوابع الزمنية
+title: "TimestampSettings.ServerUrl"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TimestampSettings. تحصل/تعيّن عنوان URL لخادم الطابع الزمني"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/timestampsettings/serverurl/
 ---
-## خاصية TimestampSettings.ServerUrl
+## TimestampSettings.ServerUrl property
 
-تحصل/تضبط عنوان خادم الطوابع الزمنية.
+يحصل/يضبط عنوان URL لخادم الطابع الزمني.
 
 ```csharp
 public string ServerUrl { get; set; }
@@ -19,3 +19,5 @@ public string ServerUrl { get; set; }
 * class [TimestampSettings](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

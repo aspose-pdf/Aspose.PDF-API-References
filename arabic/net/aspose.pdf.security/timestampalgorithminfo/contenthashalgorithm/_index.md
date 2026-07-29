@@ -1,14 +1,14 @@
 ---
-title: TimestampAlgorithmInfo.ContentHashAlgorithm
-second_title: Aspose.PDF for .NET API Reference
-description: حقل TimestampAlgorithmInfo. يحصل على خوارزمية التجزئة التي قامت بتجزئة محتوى الوثيقة ثم قامت بتوقيعها باستخدام DigestHashAlgorithm
+title: "TimestampAlgorithmInfo.ContentHashAlgorithm"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل TimestampAlgorithmInfo. يحصل على خوارزمية التجزئة التي قامت بتجزئة محتوى المستند ثم توقيعه باستخدام DigestHashAlgorithm"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.security/timestampalgorithminfo/contenthashalgorithm/
 ---
-## حقل TimestampAlgorithmInfo.ContentHashAlgorithm
+## TimestampAlgorithmInfo.ContentHashAlgorithm field
 
-يحصل على خوارزمية التجزئة التي قامت بتجزئة محتوى الوثيقة ثم قامت بتوقيعها باستخدام [`DigestHashAlgorithm`](../../signaturealgorithminfo/digesthashalgorithm/).
+يحصل على خوارزمية التجزئة التي قامت بتجزئة محتوى المستند ثم توقيعه باستخدام [`DigestHashAlgorithm`](../../signaturealgorithminfo/digesthashalgorithm/).
 
 ```csharp
 public readonly DigestHashAlgorithm ContentHashAlgorithm;
@@ -20,3 +20,5 @@ public readonly DigestHashAlgorithm ContentHashAlgorithm;
 * class [TimestampAlgorithmInfo](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

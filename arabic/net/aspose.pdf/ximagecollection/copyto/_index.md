@@ -1,23 +1,23 @@
 ---
-title: XImageCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XImageCollection. تنسخ مصفوفة من الصور إلى المجموعة
+title: "XImageCollection.CopyTo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XImageCollection. تنسخ مصفوفة الصور إلى المجموعة."
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf/ximagecollection/copyto/
 ---
-## طريقة XImageCollection.CopyTo
+## XImageCollection.CopyTo method
 
-تنسخ مصفوفة من الصور إلى المجموعة.
+ينسخ مصفوفة الصور إلى المجموعة.
 
 ```csharp
 public void CopyTo(XImage[] array, int index)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| array | XImage[] | المصفوفة التي سيتم نسخها. |
-| index | Int32 | الفهرس الذي ستنسخ فيه الصور إلى المجموعة. |
+| مصفوفة | XImage[] | المصفوفة التي سيتم نسخها. |
+| index | Int32 | الفهرس الذي ستُنسخ إليه الصور في المجموعة. |
 
 ### انظر أيضًا
 
@@ -25,3 +25,5 @@ public void CopyTo(XImage[] array, int index)
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

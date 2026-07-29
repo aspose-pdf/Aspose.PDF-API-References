@@ -1,45 +1,47 @@
 ---
-title: Class SignatureName
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Facades.SignatureName. تمثل فئة لاسم التوقيع
+title: "الفئة SignatureName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Facades.SignatureName. تمثل فئة لاسم التوقيع"
 type: docs
-weight: 4710
+weight: 4830
 url: /ar/net/aspose.pdf.facades/signaturename/
 ---
 ## SignatureName class
 
-تمثل فئة لاسم التوقيع.
+يمثل فئة لاسم التوقيع.
 
 ```csharp
 public sealed class SignatureName
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [HasSignature](../../aspose.pdf.facades/signaturename/hassignature/) { get; } | يشير إلى ما إذا كان التوقيع موجودًا أم لا. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Equals](../../aspose.pdf.facades/signaturename/equals/)(object) | يحدد ما إذا كانت هذه الحالة وكائن محدد متساويين. |
-| override [GetHashCode](../../aspose.pdf.facades/signaturename/gethashcode/)() | يعيد رمز تجزئة لهذه الحالة بناءً على خاصية FullName. |
-| override [ToString](../../aspose.pdf.facades/signaturename/tostring/)() | يعيد تمثيل سلسلة لنسخة `SignatureName`، باستخدام اسمها بشكل أساسي. |
+| override [Equals](../../aspose.pdf.facades/signaturename/equals/)(object) | يحدد ما إذا كانت هذه المثيلة والكائن المحدد متساويين. |
+| override [GetHashCode](../../aspose.pdf.facades/signaturename/gethashcode/)() | يعيد رمز تجزئة لهذه المثيلة بناءً على الخاصية FullName. |
+| override [ToString](../../aspose.pdf.facades/signaturename/tostring/)() | يعيد تمثيلًا نصيًا لمثيلة `SignatureName`، باستخدام اسمها أساسًا. |
 
-## Fields
+## الحقول
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| readonly [FullName](../../aspose.pdf.facades/signaturename/fullname/) | يحصل على الاسم الكامل للتوقيع، مما يوفر معرفًا فريدًا ودقيقًا لحقل التوقيع. |
+| readonly [FullName](../../aspose.pdf.facades/signaturename/fullname/) | يحصل على الاسم الكامل للتوقيع، موفرًا معرفًا فريدًا ودقيقًا لحقل التوقيع. |
 | readonly [Name](../../aspose.pdf.facades/signaturename/name/) | يحصل على اسم التوقيع. |
 
-## Remarks
+## ملاحظات
 
-تمثل اسم توقيع أكثر دقة. تستخدم بدلاً من أسماء السلاسل. يسمح لك بعرض التوقيعات بنفس أسماء السلاسل.
+يمثل اسم توقيع أكثر دقة. يُستخدم بدلاً من أسماء السلاسل. يتيح لك عرض توقيعات بأسماء سلاسل متطابقة.
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

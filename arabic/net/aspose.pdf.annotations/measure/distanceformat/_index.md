@@ -1,14 +1,14 @@
 ---
-title: Measure.DistanceFormat
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية القياس. مصفوفة تنسيق الأرقام لقياس المسافة في أي اتجاه
+title: "Measure.DistanceFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Measure. مصفوفة تنسيق أرقام لقياس المسافة في أي اتجاه"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/measure/distanceformat/
 ---
-## خاصية Measure.DistanceFormat
+## Measure.DistanceFormat property
 
-مصفوفة تنسيق الأرقام لقياس المسافة في أي اتجاه.
+مصفوفة تنسيق أعداد لقياس المسافة في أي اتجاه.
 
 ```csharp
 public NumberFormatList DistanceFormat { get; set; }
@@ -20,3 +20,5 @@ public NumberFormatList DistanceFormat { get; set; }
 * class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

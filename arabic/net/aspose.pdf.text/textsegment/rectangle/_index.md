@@ -1,14 +1,14 @@
 ---
-title: TextSegment.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextSegment. تحصل على مستطيل TextSegment
+title: "TextSegment.Rectangle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextSegment. يحصل على المستطيل الخاص بـ TextSegment"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.text/textsegment/rectangle/
 ---
-## خاصية TextSegment.Rectangle
+## TextSegment.Rectangle property
 
-تحصل على مستطيل TextSegment
+يحصل على مستطيل الـ TextSegment
 
 ```csharp
 public Rectangle Rectangle { get; }
@@ -20,3 +20,5 @@ public Rectangle Rectangle { get; }
 * class [TextSegment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

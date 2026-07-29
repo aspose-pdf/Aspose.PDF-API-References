@@ -1,12 +1,12 @@
 ---
-title: ImagePlacement.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ImagePlacement. مصفوفة التحويل الحالية لهذه الصورة
+title: "ImagePlacement.Matrix"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ImagePlacement. مصفوفة التحويل الحالية لهذه الصورة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/imageplacement/matrix/
 ---
-## خاصية ImagePlacement.Matrix
+## ImagePlacement.Matrix property
 
 مصفوفة التحويل الحالية لهذه الصورة.
 
@@ -20,3 +20,5 @@ public Matrix Matrix { get; }
 * class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

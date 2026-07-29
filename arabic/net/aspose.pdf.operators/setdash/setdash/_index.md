@@ -1,26 +1,28 @@
 ---
-title: SetDash.SetDash
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SetDash. ينشئ عامل نمط الخط المتقطع
+title: "SetDash.SetDash"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SetDash. ينشئ مشغل نمط الخط المتقطع"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/setdash/setdash/
 ---
-## مُنشئ SetDash
+## SetDash constructor
 
-ينشئ عامل نمط الخط المتقطع.
+ينشئ مشغل تعيين نمط الخط المتقطع.
 
 ```csharp
 public SetDash(int[] pattern, int phase)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pattern | Int32[] | مصفوفة تحدد نمط الخط المتقطع. |
-| phase | Int32 | مرحلة الخط المتقطع. |
+| نمط | Int32[] | مصفوفة تُعرّف نمط الخط المتقطع. |
+| المرحلة | Int32 | مرحلة الخط المتقطع. |
 
 ### انظر أيضًا
 
 * class [SetDash](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

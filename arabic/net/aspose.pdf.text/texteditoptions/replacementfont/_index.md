@@ -1,14 +1,14 @@
 ---
-title: TextEditOptions.ReplacementFont
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextEditOptions. تحصل أو تعين الخط المستخدم للاستبدال إذا كان خط المستخدم لا يحتوي على الحرف المطلوب
+title: "TextEditOptions.ReplacementFont"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextEditOptions. يحصل أو يضبط الخط المستخدم للاستبدال إذا لم يحتوي خط المستخدم على الحرف المطلوب"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.text/texteditoptions/replacementfont/
 ---
-## خاصية TextEditOptions.ReplacementFont
+## TextEditOptions.ReplacementFont property
 
-تحصل أو تعين الخط المستخدم للاستبدال إذا كان خط المستخدم لا يحتوي على الحرف المطلوب
+يحصل أو يعيّن الخط المستخدم للاستبدال إذا لم يحتوي خط المستخدم على الحرف المطلوب.
 
 ```csharp
 public Font ReplacementFont { get; set; }
@@ -20,3 +20,5 @@ public Font ReplacementFont { get; set; }
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

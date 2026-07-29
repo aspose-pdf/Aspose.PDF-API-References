@@ -1,12 +1,12 @@
 ---
-title: RichMediaAnnotation.Content
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RichMediaAnnotation. بيانات محتوى الوسائط الغنية
+title: "RichMediaAnnotation.Content"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "RichMediaAnnotation property. بيانات محتوى الوسائط الغنية"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/richmediaannotation/content/
 ---
-## خاصية RichMediaAnnotation.Content
+## RichMediaAnnotation.Content property
 
 بيانات محتوى الوسائط الغنية.
 
@@ -19,3 +19,5 @@ public Stream Content { get; }
 * class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

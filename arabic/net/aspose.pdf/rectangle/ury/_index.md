@@ -1,14 +1,14 @@
 ---
-title: Rectangle.URY
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية المستطيل. إحداثي Y للزاوية العليا اليمنى
+title: "Rectangle.URY"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Rectangle. إحداثي Y للزاوية العليا اليمنى"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf/rectangle/ury/
 ---
-## خاصية Rectangle.URY
+## Rectangle.URY property
 
-إحداثي Y للزاوية العليا اليمنى.
+الإحداثي Y للزاوية العليا اليمنى.
 
 ```csharp
 public double URY { get; set; }
@@ -19,3 +19,5 @@ public double URY { get; set; }
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

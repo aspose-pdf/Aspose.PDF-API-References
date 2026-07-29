@@ -1,20 +1,20 @@
 ---
-title: PDF3DArtwork.ViewArray
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PDF3DArtwork. تحصل على مصفوفة العرض
+title: "PDF3DArtwork.ViewArray"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PDF3DArtwork. يسترجع مصفوفة العرض"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/pdf3dartwork/viewarray/
 ---
-## خاصية PDF3DArtwork.ViewArray
+## PDF3DArtwork.ViewArray property
 
-تحصل على مصفوفة العرض.
+يحصل على مصفوفة العرض.
 
 ```csharp
 public PDF3DViewArray ViewArray { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 مصفوفة العرض.
 
@@ -24,3 +24,5 @@ public PDF3DViewArray ViewArray { get; }
 * class [PDF3DArtwork](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

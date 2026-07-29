@@ -1,14 +1,14 @@
 ---
-title: AssistantCreateRequest.Instructions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية AssistantCreateRequest. يحصل أو يحدد التعليمات النظامية التي يستخدمها المساعد. الحد الأقصى للطول هو 256000 حرف
+title: "AssistantCreateRequest.Instructions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية AssistantCreateRequest. تحصل أو تعين تعليمات النظام التي يستخدمها المساعد. الحد الأقصى للطول هو 256000 حرف."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/assistantcreaterequest/instructions/
 ---
-## خاصية AssistantCreateRequest.Instructions
+## AssistantCreateRequest.Instructions property
 
-يحصل أو يحدد التعليمات النظامية التي يستخدمها المساعد. الحد الأقصى للطول هو 256,000 حرف.
+يحصل أو يعيّن تعليمات النظام التي يستخدمها المساعد. الحد الأقصى للطول هو 256,000 حرف.
 
 ```csharp
 public string Instructions { get; set; }
@@ -19,3 +19,5 @@ public string Instructions { get; set; }
 * class [AssistantCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

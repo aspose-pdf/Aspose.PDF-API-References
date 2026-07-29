@@ -1,30 +1,32 @@
 ---
-title: Enum TextFormattingOptions.WordWrapMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextFormattingOptionsWordWrapMode enum. يحدد استراتيجيات لف الكلمات
+title: "التعداد TextFormattingOptions.WordWrapMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.Text.TextFormattingOptionsWordWrapMode. يحدد استراتيجيات التفاف الكلمات"
 type: docs
-weight: 10930
+weight: 11110
 url: /ar/net/aspose.pdf.text/textformattingoptions.wordwrapmode/
 ---
 ## TextFormattingOptions.WordWrapMode enumeration
 
-يحدد استراتيجيات لف الكلمات
+يحدد استراتيجيات لف النص.
 
 ```csharp
 public enum WordWrapMode
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| NoWrap | `0` | لا يتم تنفيذ أي لف |
-| DiscretionaryHyphenation | `1` | يتم تنفيذ اللف الاختياري. يسمح بكسر الكلمات في المنتصف. |
-| ByWords | `2` | لف الكلمات يقوم فقط بلف الكلمات الكاملة. إذا لم يكن بالإمكان لف الكلمة الكاملة، يتم محاولة استخدام اللف الاختياري |
-| Undefined | `3` | لم يتم تعيين WordWrapMode. سيتم استخدام استراتيجيات اللف للهيكل العلوي (خلية جدول، فقرة، إلخ). |
+| NoWrap | `0` | لم يتم تنفيذ أي التفاف |
+| DiscretionaryHyphenation | `1` | تم تنفيذ التجزئة الاختيارية. يسمح بتقسيم الكلمات في الوسط. |
+| ByWords | `2` | التفاف الكلمات يلتف فقط حول الكلمات الكاملة. إذا تعذر لف الكلمة الكاملة، يتم محاولة استخدام التجزئة الاختيارية. |
+| Undefined | `3` | لم يتم تعيين WordWrapMode. سيتم استخدام استراتيجيات التفاف البنية العليا (خلية جدول، فقرة، إلخ). |
 
-### See Also
+### انظر أيضًا
 
 * class [TextFormattingOptions](../textformattingoptions/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

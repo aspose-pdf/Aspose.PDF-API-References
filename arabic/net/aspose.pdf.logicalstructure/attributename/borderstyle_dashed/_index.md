@@ -1,14 +1,14 @@
 ---
-title: AttributeName.BorderStyle_Dashed
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. نمط الحدود Attribute BorderStyle Dashed  الحدود هي سلسلة من مقاطع الخط القصيرة
+title: "AttributeName.BorderStyle_Dashed"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. السمة BorderStyle Dashed  الحد هو سلسلة من مقاطع الخط القصيرة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.logicalstructure/attributename/borderstyle_dashed/
 ---
-## حقل AttributeName.BorderStyle_Dashed
+## AttributeName.BorderStyle_Dashed field
 
-نمط الحدود: Dashed - الحدود هي سلسلة من مقاطع الخط القصيرة.
+السمة BorderStyle: Dashed - الحد هو سلسلة من المقاطع الخطية القصيرة.
 
 ```csharp
 public static readonly AttributeName BorderStyle_Dashed;
@@ -19,3 +19,5 @@ public static readonly AttributeName BorderStyle_Dashed;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

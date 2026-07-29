@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Width
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية المستطيل. تحصل أو تعين قيمة عائمة تشير إلى عرض المستطيل
+title: "Rectangle.Width"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Rectangle. يحصل أو يحدد قيمة عائمة تشير إلى عرض المستطيل"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.drawing/rectangle/width/
 ---
-## خاصية Rectangle.Width
+## Rectangle.Width property
 
-تحصل أو تعين قيمة عائمة تشير إلى عرض المستطيل.
+يحصل أو يعيّن قيمة float تُشير إلى عرض المستطيل.
 
 ```csharp
 public double Width { get; set; }
@@ -19,3 +19,5 @@ public double Width { get; set; }
 * class [Rectangle](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

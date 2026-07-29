@@ -1,14 +1,14 @@
 ---
-title: Form.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية النموذج. تعيد كائن التزامن
+title: "Form.SyncRoot"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Form. تُرجع كائن المزامنة"
 type: docs
-weight: 150
+weight: 170
 url: /ar/net/aspose.pdf.forms/form/syncroot/
 ---
-## خاصية Form.SyncRoot
+## Form.SyncRoot property
 
-تعيد كائن التزامن.
+يعيد كائن المزامنة.
 
 ```csharp
 public object SyncRoot { get; }
@@ -19,3 +19,5 @@ public object SyncRoot { get; }
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

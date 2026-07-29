@@ -1,26 +1,28 @@
 ---
-title: XmpPdfAExtensionValueType.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XmpPdfAExtensionValueType. تزيل الحقل من قائمة الحقول
+title: "XmpPdfAExtensionValueType.Remove"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XmpPdfAExtensionValueType. تزيل الحقل من قائمة الحقول"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf/xmppdfaextensionvaluetype/remove/
 ---
 ## XmpPdfAExtensionValueType.Remove method
 
-تزيل الحقل من قائمة الحقول.
+إزالة الحقل من قائمة الحقول.
 
 ```csharp
 public void Remove(XmpPdfAExtensionField field)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| field | XmpPdfAExtensionField | الحقل الذي سيتم إزالته. |
+| حقل | XmpPdfAExtensionField | الحقل المراد إزالته. |
 
-### See Also
+### انظر أيضًا
 
 * class [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
 * class [XmpPdfAExtensionValueType](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

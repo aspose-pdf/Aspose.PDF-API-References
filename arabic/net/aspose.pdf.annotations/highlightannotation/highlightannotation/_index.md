@@ -1,23 +1,23 @@
 ---
-title: HighlightAnnotation.HighlightAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ HighlightAnnotation. ينشئ تعليق Highlight جديد على الصفحة المحددة
+title: "HighlightAnnotation.HighlightAnnotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ HighlightAnnotation. ينشئ تعليقًا توضيحيًا من نوع Highlight على الصفحة المحددة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/highlightannotation/highlightannotation/
 ---
-## مُنشئ HighlightAnnotation
+## HighlightAnnotation constructor
 
-ينشئ تعليق Highlight جديد على الصفحة المحددة.
+ينشئ تعليقة تمييز جديدة على الصفحة المحددة.
 
 ```csharp
 public HighlightAnnotation(Page page, Rectangle rect)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | صفحة الوثيقة حيث يجب إنشاء التعليق. |
-| rect | Rectangle | مستطيل التعليق، الذي يحدد موقع التعليق على الصفحة. |
+| صفحة | صفحة | صفحة المستند حيث يجب إنشاء التعليق التوضيحي. |
+| rect | Rectangle | مستطيل التعليق التوضيحي، يحدد موقع التعليق التوضيحي على الصفحة. |
 
 ### انظر أيضًا
 
@@ -26,3 +26,5 @@ public HighlightAnnotation(Page page, Rectangle rect)
 * class [HighlightAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

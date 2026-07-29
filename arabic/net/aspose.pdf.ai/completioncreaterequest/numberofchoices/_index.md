@@ -1,14 +1,14 @@
 ---
-title: CompletionCreateRequest.NumberOfChoices
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CompletionCreateRequest. تحصل أو تعين عدد خيارات إكمال الدردشة التي سيتم إنشاؤها لكل رسالة إدخال. لاحظ أنه سيتم محاسبتك بناءً على عدد الرموز المولدة عبر جميع الخيارات. احتفظ بـ n كـ 1 لتقليل التكاليف.
+title: "CompletionCreateRequest.NumberOfChoices"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CompletionCreateRequest. تحصل أو تعين عدد خيارات إكمال الدردشة التي يجب توليدها لكل رسالة إدخال. لاحظ أنه سيتم محاسبتك بناءً على عدد الرموز المولدة عبر جميع الخيارات. احتفظ بـ n كـ 1 لتقليل التكاليف."
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.ai/completioncreaterequest/numberofchoices/
 ---
-## خاصية CompletionCreateRequest.NumberOfChoices
+## CompletionCreateRequest.NumberOfChoices property
 
-تحصل أو تعين عدد خيارات إكمال الدردشة التي سيتم إنشاؤها لكل رسالة إدخال. لاحظ أنه سيتم محاسبتك بناءً على عدد الرموز المولدة عبر جميع الخيارات. احتفظ بـ n كـ 1 لتقليل التكاليف.
+يحصل أو يضبط عدد خيارات إكمال الدردشة التي يتم توليدها لكل رسالة إدخال. لاحظ أنه سيتم احتساب التكلفة بناءً على عدد الرموز المولدة عبر جميع الخيارات. احتفظ بـ n كـ 1 لتقليل التكاليف.
 
 ```csharp
 public int? NumberOfChoices { get; set; }
@@ -19,3 +19,5 @@ public int? NumberOfChoices { get; set; }
 * class [CompletionCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

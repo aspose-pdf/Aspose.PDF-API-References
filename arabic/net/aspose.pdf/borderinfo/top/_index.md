@@ -1,14 +1,14 @@
 ---
-title: BorderInfo.Top
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BorderInfo. تحصل أو تعين كائنًا يشير إلى الحدود العلوية
+title: "BorderInfo.Top"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BorderInfo. يحصل أو يضبط كائنًا يشير إلى الحد العلوي"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/borderinfo/top/
 ---
-## خاصية BorderInfo.Top
+## BorderInfo.Top property
 
-تحصل أو تعين كائنًا يشير إلى الحدود العلوية.
+يحصل أو يعيّن كائنًا يشير إلى الحد العلوي.
 
 ```csharp
 public GraphInfo Top { get; set; }
@@ -20,3 +20,5 @@ public GraphInfo Top { get; set; }
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: EncryptionOptions.UserPassword
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية EncryptionOptions. كلمة مرور المستخدم
+title: "EncryptionOptions.UserPassword"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية EncryptionOptions. كلمة مرور المستخدم"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.plugins/encryptionoptions/userpassword/
 ---
-## خاصية EncryptionOptions.UserPassword
+## EncryptionOptions.UserPassword property
 
 كلمة مرور المستخدم.
 
@@ -19,3 +19,5 @@ public string UserPassword { get; set; }
 * class [EncryptionOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Enum FieldType
-second_title: Aspose.PDF for .NET API Reference
-description: تعداد Aspose.Pdf.Facades.FieldType. تعداد أنواع الحقول الممكنة
+title: "تعداد FieldType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Facades.FieldType enum. تعداد لأنواع الحقول الممكنة"
 type: docs
-weight: 4260
+weight: 4380
 url: /ar/net/aspose.pdf.facades/fieldtype/
 ---
-## تعداد FieldType
+## FieldType enumeration
 
 تعداد أنواع الحقول الممكنة.
 
@@ -18,21 +18,23 @@ public enum FieldType
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| نص | `0` | حقل نصي. |
-| مربع اختيار | `1` | حقل مربع اختيار. |
-| مربع قائمة | `2` | حقل مربع قائمة. |
-| زر راديو | `3` | حقل زر راديو. |
-| مربع اختيار | `4` | حقل مربع اختيار. |
-| زر ضغط | `5` | حقل زر ضغط. |
-| نص متعدد الأسطر | `6` | حقل نص متعدد الأسطر. |
-| رمز شريطي | `7` | حقل رمز شريطي. |
-| اسم أو نوع غير صالح | `8` | نوع حقل غير صالح. |
-| توقيع | `9` | حقل توقيع. |
-| صورة | `10` | حقل صورة. |
-| رقمي | `11` | حقل رقمي |
-| تاريخ ووقت | `12` | حقل تاريخ/وقت |
+| Text | `0` | حقل نص. |
+| ComboBox | `1` | حقل مربع اختيار. |
+| ListBox | `2` | حقل مربع قائمة. |
+| Radio | `3` | حقل زر راديو. |
+| CheckBox | `4` | حقل مربع اختيار. |
+| PushButton | `5` | حقل زر دفع. |
+| MultiLineText | `6` | حقل نص متعدد الأسطر. |
+| Barcode | `7` | حقل الباركود. |
+| InvalidNameOrType | `8` | نوع الحقل غير صالح. |
+| Signature | `9` | حقل التوقيع. |
+| Image | `10` | حقل الصورة. |
+| Numeric | `11` | حقل رقمي |
+| DateTime | `12` | حقل التاريخ/الوقت |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

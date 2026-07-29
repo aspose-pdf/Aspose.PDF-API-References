@@ -1,14 +1,14 @@
 ---
-title: FormattedText.TextWidth
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormattedText. تحصل على عرض النص
+title: "FormattedText.TextWidth"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormattedText. تحصل على عرض النص."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.facades/formattedtext/textwidth/
 ---
-## خاصية FormattedText.TextWidth
+## FormattedText.TextWidth property
 
-تحصل على عرض النص.
+يحصل على عرض النص.
 
 ```csharp
 public float TextWidth { get; }
@@ -19,3 +19,5 @@ public float TextWidth { get; }
 * class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

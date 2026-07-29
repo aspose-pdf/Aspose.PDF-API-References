@@ -1,14 +1,14 @@
 ---
-title: SetGlyphsPositionShowText.GlyphPositions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SetGlyphsPositionShowText. تعيد مواقع الرموز
+title: "SetGlyphsPositionShowText.GlyphPositions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SetGlyphsPositionShowText. تُعيد مواضع الحروف"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/setglyphspositionshowtext/glyphpositions/
 ---
-## خاصية SetGlyphsPositionShowText.GlyphPositions
+## SetGlyphsPositionShowText.GlyphPositions property
 
-تعيد مواقع الرموز.
+يعيد مواضع الحروف.
 
 ```csharp
 public IEnumerable<GlyphPosition> GlyphPositions { get; }
@@ -20,3 +20,5 @@ public IEnumerable<GlyphPosition> GlyphPositions { get; }
 * class [SetGlyphsPositionShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

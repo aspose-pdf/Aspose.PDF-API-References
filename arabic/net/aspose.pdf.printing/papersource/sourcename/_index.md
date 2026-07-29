@@ -1,14 +1,14 @@
 ---
-title: PaperSource.SourceName
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PaperSource. تحصل أو تعين اسم مصدر الورق
+title: "PaperSource.SourceName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PaperSource. يحصل أو يعيّن اسم مصدر الورق"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.printing/papersource/sourcename/
 ---
-## خاصية PaperSource.SourceName
+## PaperSource.SourceName property
 
-تحصل أو تعين اسم مصدر الورق.
+يحصل أو يعيّن اسم مصدر الورق.
 
 ```csharp
 public string SourceName { get; set; }
@@ -19,3 +19,5 @@ public string SourceName { get; set; }
 * class [PaperSource](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

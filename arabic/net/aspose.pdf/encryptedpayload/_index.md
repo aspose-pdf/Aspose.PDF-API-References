@@ -1,34 +1,36 @@
 ---
-title: Class EncryptedPayload
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.EncryptedPayload. تمثل الحمولة المشفرة في مواصفات الملف
+title: "الفئة EncryptedPayload"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.EncryptedPayload. تمثل الحمولة المشفرة في مواصفات الملف."
 type: docs
-weight: 4040
+weight: 4160
 url: /ar/net/aspose.pdf/encryptedpayload/
 ---
 ## EncryptedPayload class
 
-تمثل الحمولة المشفرة في مواصفات الملف.
+يمثل الحمولة المشفرة في مواصفات الملف.
 
 ```csharp
 public sealed class EncryptedPayload
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [EncryptedPayload](encryptedpayload/)(FileSpecification) | تهيئة مثيل الحمولة المشفرة. |
+| [EncryptedPayload](encryptedpayload/)(FileSpecification) | تهيئة مثال الحمولة المشفرة. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [Subtype](../../aspose.pdf/encryptedpayload/subtype/) { get; } | يحصل على النوع الفرعي. |
 | [Type](../../aspose.pdf/encryptedpayload/type/) { get; } | يحصل على النوع. |
 | [Version](../../aspose.pdf/encryptedpayload/version/) { get; } | يحصل على رقم الإصدار. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

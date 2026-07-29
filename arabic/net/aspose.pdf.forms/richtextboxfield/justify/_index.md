@@ -1,14 +1,14 @@
 ---
-title: RichTextBoxField.Justify
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RichTextBoxField. تحصل أو تعين تبرير مربع النص الغني
+title: "RichTextBoxField.Justify"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RichTextBoxField. يحصل أو يعيّن محاذاة صندوق النص الغني"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.forms/richtextboxfield/justify/
 ---
-## خاصية RichTextBoxField.Justify
+## RichTextBoxField.Justify property
 
-تحصل أو تعين تبرير مربع النص الغني.
+يحصل أو يعيّن محاذاة صندوق النص الغني.
 
 ```csharp
 public Justification Justify { get; set; }
@@ -20,3 +20,5 @@ public Justification Justify { get; set; }
 * class [RichTextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

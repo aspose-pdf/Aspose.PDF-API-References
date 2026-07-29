@@ -1,22 +1,24 @@
 ---
-title: Choice.Message
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Choice. تحصل أو تعين رسالة إكمال الدردشة التي تم إنشاؤها بواسطة النموذج
+title: "Choice.Message"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Choice. تحصل أو تُعيّن رسالة إكمال الدردشة التي يولدها النموذج"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.ai/choice/message/
 ---
-## خاصية Choice.Message
+## Choice.Message property
 
-تحصل أو تعين رسالة إكمال الدردشة التي تم إنشاؤها بواسطة النموذج.
+يسترجع أو يعيّن رسالة إكمال الدردشة التي يولدها النموذج.
 
 ```csharp
-public ChatMessage Message { get; set; }
+public ChatMessageResponse Message { get; set; }
 ```
 
 ### انظر أيضًا
 
-* class [ChatMessage](../../chatmessage/)
+* class [ChatMessageResponse](../../chatmessageresponse/)
 * class [Choice](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

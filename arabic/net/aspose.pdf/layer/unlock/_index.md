@@ -1,14 +1,14 @@
 ---
-title: Layer.Unlock
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الطبقة. يفتح الطبقة
+title: "Layer.Unlock"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Layer. تفتح الطبقة"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf/layer/unlock/
 ---
-## طريقة Layer.Unlock
+## Layer.Unlock method
 
-يفتح الطبقة.
+يفك قفل الطبقة.
 
 ```csharp
 public void Unlock()
@@ -19,3 +19,5 @@ public void Unlock()
 * class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

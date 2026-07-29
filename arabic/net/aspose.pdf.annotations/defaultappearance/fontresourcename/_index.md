@@ -1,14 +1,14 @@
 ---
-title: DefaultAppearance.FontResourceName
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DefaultAppearance. تحصل على اسم الخط في المظهر الافتراضي
+title: "DefaultAppearance.FontResourceName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DefaultAppearance. تحصل على اسم الخط في المظهر الافتراضي"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/defaultappearance/fontresourcename/
 ---
-## خاصية DefaultAppearance.FontResourceName
+## DefaultAppearance.FontResourceName property
 
-تحصل على اسم الخط في المظهر الافتراضي.
+يحصل على اسم الخط في المظهر الافتراضي.
 
 ```csharp
 public string FontResourceName { get; set; }
@@ -19,3 +19,5 @@ public string FontResourceName { get; set; }
 * class [DefaultAppearance](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

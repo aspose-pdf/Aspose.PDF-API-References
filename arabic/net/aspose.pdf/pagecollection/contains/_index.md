@@ -1,30 +1,30 @@
 ---
-title: PageCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PageCollection. تحدد ما إذا كانت هذه النسخة تحتوي على الكائن
+title: "PageCollection.Contains"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PageCollection. تحدد ما إذا كانت هذه المثيلة تحتوي على الكائن"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/pagecollection/contains/
 ---
-## طريقة PageCollection.Contains
+## PageCollection.Contains method
 
-تحدد ما إذا كانت هذه النسخة تحتوي على الكائن.
+يحدد ما إذا كانت هذه الحالة تحتوي على الكائن.
 
 ```csharp
 public bool Contains(Page item)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| item | Page | العنصر. |
+| item | صفحة | العنصر. |
 
 ### قيمة الإرجاع
 
-`true` إذا [contains] [العنصر المحدد]; خلاف ذلك، `false`.
+`true` إذا [contains] [the specified item]؛ وإلا `false`.
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
 | NotSupportedException |  |
 
@@ -34,3 +34,5 @@ public bool Contains(Page item)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

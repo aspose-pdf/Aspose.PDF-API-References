@@ -1,14 +1,14 @@
 ---
-title: SetColor.Y
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SetColor. تحصل أو تعين المكون الأصفر
+title: "SetColor.Y"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SetColor. تحصل أو تعين المكوّن الأصفر"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.operators/setcolor/y/
 ---
-## خاصية SetColor.Y
+## SetColor.Y property
 
-تحصل أو تعين المكون الأصفر.
+يحصل أو يضبط المكوّن الأصفر.
 
 ```csharp
 public double Y { get; set; }
@@ -19,3 +19,5 @@ public double Y { get; set; }
 * class [SetColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: FileSpecification.SetValue
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FileSpecification. تعيين معلمة محددة للتطبيق
+title: "FileSpecification.SetValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FileSpecification. يضبط معلمة خاصة بالتطبيق"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf/filespecification/setvalue/
 ---
-## طريقة FileSpecification.SetValue
+## FileSpecification.SetValue method
 
-تعيين معلمة محددة للتطبيق.
+يعيّن المعامل الخاص بالتطبيق.
 
 ```csharp
 public void SetValue(string key, string value)
 ```
 
-| المعلمة | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| key | String | اسم المعلمة. |
-| value | String | قيمة المعلمة الجديدة. |
+| المفتاح | String | اسم المعلمة. |
+| القيمة | String | قيمة المعلمة الجديدة. |
 
 ### انظر أيضًا
 
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

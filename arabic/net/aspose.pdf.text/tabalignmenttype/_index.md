@@ -1,14 +1,14 @@
 ---
-title: Enum TabAlignmentType
-second_title: Aspose.PDF for .NET API Reference
-description: تعداد أنواع محاذاة التبويب في Aspose.Pdf.Text.TabAlignmentType.
+title: "تعداد TabAlignmentType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Text.TabAlignmentType enum. يعدد أنواع محاذاة الفواصل"
 type: docs
-weight: 10750
+weight: 10930
 url: /ar/net/aspose.pdf.text/tabalignmenttype/
 ---
-## تعداد TabAlignmentType
+## TabAlignmentType enumeration
 
-يعدد أنواع محاذاة التبويب.
+يسرد أنواع محاذاة الفواصل.
 
 ```csharp
 public enum TabAlignmentType
@@ -18,11 +18,13 @@ public enum TabAlignmentType
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Left | `0` | نص محاذي لليسار من نقطة التوقف |
-| Center | `1` | نص محاذي في المنتصف من نقطة التوقف |
-| Right | `2` | نص محاذي لليمين من نقطة التوقف |
+| Left | `0` | النص محاذى إلى اليسار من موضع الفاصل |
+| Center | `1` | النص محاذى إلى الوسط من موضع الفاصل |
+| Right | `2` | النص محاذى إلى اليمين من موضع الفاصل |
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

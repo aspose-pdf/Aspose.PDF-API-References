@@ -1,15 +1,17 @@
 ---
-title: Aspose.Pdf.XfaConverter
-second_title: Aspose.PDF for .NET API Reference
-description: يوفر مساحة أسماء Aspose.Pdf.XfaConverter فئات تسمح بتحويل XFA
+title: "Aspose.Pdf.XfaConverter"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "مساحة الأسماء Aspose.Pdf.XfaConverter توفر فئات تسمح بتحويل XFA"
 type: docs
-weight: 280
+weight: 270
 url: /ar/net/aspose.pdf.xfaconverter/
 ---
-تقدم مساحة أسماء **Aspose.Pdf.XfaConverter** فئات تسمح بتحويل XFA.
+توفر مساحة الاسم **Aspose.Pdf.XfaConverter** فئات تسمح بتحويل XFA.
 
 ## الفئات
 
-| الفئة | الوصف |
+| فئة | الوصف |
 | --- | --- |
-| [XfaParserOptions](./xfaparseroptions/) | فئة للتعامل مع بيانات التضمين ذات الصلة |
+| [XfaParserOptions](./xfaparseroptions/) | فئة للتعامل مع تغليف البيانات المتعلقة |
+
+

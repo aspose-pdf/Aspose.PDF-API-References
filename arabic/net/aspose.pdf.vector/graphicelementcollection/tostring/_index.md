@@ -1,14 +1,14 @@
 ---
-title: GraphicElementCollection.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة GraphicElementCollection. تحصل على تمثيل نصي لهذه المجموعة
+title: "GraphicElementCollection.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة GraphicElementCollection. يحصل على تمثيل نصي لهذه المجموعة"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.vector/graphicelementcollection/tostring/
 ---
-## طريقة GraphicElementCollection.ToString
+## GraphicElementCollection.ToString method
 
-تحصل على تمثيل نصي لهذه المجموعة.
+يحصل على تمثيل نصي لهذا التجميع.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-السلسلة النصية.
+السلسلة.
 
 ### انظر أيضًا
 
 * class [GraphicElementCollection](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

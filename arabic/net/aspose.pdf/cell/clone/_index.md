@@ -1,12 +1,12 @@
 ---
-title: Cell.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Cell. استنساخ الخلية
+title: "Cell.Clone"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Cell. استنساخ الخلية"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf/cell/clone/
 ---
-## طريقة Cell.Clone
+## Cell.Clone method
 
 استنساخ الخلية.
 
@@ -23,3 +23,5 @@ public object Clone()
 * class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

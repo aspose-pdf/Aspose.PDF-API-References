@@ -1,26 +1,28 @@
 ---
-title: ITaggedContent.CreateLinkElement
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ITaggedContent. تنشئ LinkElement
+title: "ITaggedContent.CreateLinkElement"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ITaggedContent. ينشئ LinkElement"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.tagged/itaggedcontent/createlinkelement/
 ---
 ## ITaggedContent.CreateLinkElement method
 
-تنشئ [`LinkElement`](../../../aspose.pdf.logicalstructure/linkelement/).
+ينشئ [`LinkElement`](../../../aspose.pdf.logicalstructure/linkelement/).
 
 ```csharp
 public LinkElement CreateLinkElement()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-عنصر الهيكل الذي تم إنشاؤه.
+تم إنشاء عنصر بنية.
 
-### See Also
+### انظر أيضًا
 
 * class [LinkElement](../../../aspose.pdf.logicalstructure/linkelement/)
 * interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

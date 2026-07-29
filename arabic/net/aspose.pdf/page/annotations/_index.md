@@ -1,14 +1,14 @@
 ---
-title: Page.Annotations
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصفحة. تحصل على مجموعة من تعليقات الصفحة. التعليقات
+title: "Page.Annotations"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Page. يحصل على مجموعة من تعليقات الصفحة. Annotations"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/page/annotations/
 ---
-## خاصية Page.Annotations
+## Page.Annotations property
 
-تحصل على مجموعة من تعليقات الصفحة. `Annotations`
+يحصل على مجموعة من تعليقات الصفحة. `Annotations`
 
 ```csharp
 public AnnotationCollection Annotations { get; }
@@ -20,3 +20,5 @@ public AnnotationCollection Annotations { get; }
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

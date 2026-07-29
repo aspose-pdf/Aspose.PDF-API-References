@@ -1,25 +1,27 @@
 ---
-title: StructureElement.Language
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StructureElement. تحصل أو تعين اللغة لعنصر الهيكل
+title: "StructureElement.Language"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StructureElement. الحصول على أو تعيين اللغة لعنصر البنية"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.logicalstructure/structureelement/language/
 ---
-## خاصية StructureElement.Language
+## StructureElement.Language property
 
-تحصل أو تعين اللغة لعنصر الهيكل.
+يحصل أو يعيّن اللغة لعنصر البنية.
 
 ```csharp
 public string Language { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-لغة عنصر الهيكل.
+لغة عنصر البنية.
 
 ### انظر أيضًا
 
 * class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TableTRElement.Border
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TableTRElement. تحصل أو تعين حد الصف
+title: "TableTRElement.Border"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TableTRElement. تحصل أو تعيّن حد الصف."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.logicalstructure/tabletrelement/border/
 ---
-## خاصية TableTRElement.Border
+## TableTRElement.Border property
 
-تحصل أو تعين حد الصف.
+يحصل أو يعيّن حد الصف.
 
 ```csharp
 public BorderInfo Border { get; set; }
@@ -20,3 +20,5 @@ public BorderInfo Border { get; set; }
 * class [TableTRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

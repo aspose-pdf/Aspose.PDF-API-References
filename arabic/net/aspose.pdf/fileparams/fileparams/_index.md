@@ -1,22 +1,22 @@
 ---
-title: FileParams.FileParams
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FileParams. مُنشئ لفئة FileParams
+title: "FileParams.FileParams"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FileParams. منشئ لفئة FileParams"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/fileparams/fileparams/
 ---
-## مُنشئ FileParams
+## FileParams constructor
 
-مُنشئ لفئة FileParams.
+منشئ للفئة FileParams.
 
 ```csharp
 public FileParams(FileSpecification spec)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| spec | FileSpecification | مواصفات الملف. |
+| المواصفة | FileSpecification | مواصفة الملف. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public FileParams(FileSpecification spec)
 * class [FileParams](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CreateFineTuningJobResponse.TrainingFile
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CreateFineTuningJobResponse. تحصل أو تعين معرف ملف تم تحميله يحتوي على بيانات التدريب
+title: "CreateFineTuningJobResponse.TrainingFile"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "CreateFineTuningJobResponse الخاصية. يحصل أو يحدد معرف ملف تم رفعه يحتوي على بيانات التدريب"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.ai/createfinetuningjobresponse/trainingfile/
 ---
-## خاصية CreateFineTuningJobResponse.TrainingFile
+## CreateFineTuningJobResponse.TrainingFile property
 
-تحصل أو تعين معرف ملف تم تحميله يحتوي على بيانات التدريب.
+يحصل أو يضبط معرف ملف تم تحميله يحتوي على بيانات التدريب.
 
 ```csharp
 public string TrainingFile { get; set; }
@@ -19,3 +19,5 @@ public string TrainingFile { get; set; }
 * class [CreateFineTuningJobResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

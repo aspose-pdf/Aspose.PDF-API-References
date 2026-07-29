@@ -1,25 +1,27 @@
 ---
-title: TextState.TabTag
-second_title: Aspose.PDF for .NET API Reference
-description: حقل TextState. يمكنك وضع هذا الوسم في النص للإعلان عن التبويب
+title: "TextState.TabTag"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextState. يمكنك وضع هذه العلامة في النص لتحديد التبويب"
 type: docs
-weight: 210
+weight: 180
 url: /ar/net/aspose.pdf.text/textstate/tabtag/
 ---
-## حقل TextState.TabTag
+## TextState.TabTag property
 
-يمكنك وضع هذا الوسم في النص للإعلان عن التبويب.
+يمكنك وضع هذه العلامة في النص لتحديد الجدولة.
 
 ```csharp
-public readonly string TabTag;
+public string TabTag { get; }
 ```
 
 ## ملاحظات
 
-له تأثير فقط عند اقترانه بـ [`TabStops`](../../tabstops/).
+له تأثير فقط عند الاقتران بـ [`TabStops`](../../tabstops/).
 
 ### انظر أيضًا
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

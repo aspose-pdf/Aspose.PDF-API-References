@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.RT
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeStandard. نص تعليق روبي النص الأصغر الذي يجب وضعه بجانب نص قاعدة الروبي. قد يحتوي على نص، عناصر مضمنة أخرى، أو مزيج من كلاهما. قد يحتوي على سمات RubyAlign و RubyPosition
+title: "StructureTypeStandard.RT"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل StructureTypeStandard. Ruby annotation text النص الأصغر حجمًا الذي يُوضع بجوار النص الأساسي للروبي. قد يحتوي على نص أو عناصر مضمنة أخرى أو مزيج من كليهما. قد يحتوي على سمتي RubyAlign و RubyPosition."
 type: docs
 weight: 340
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/rt/
 ---
-## حقل StructureTypeStandard.RT
+## StructureTypeStandard.RT field
 
-(نص تعليق روبي) النص الأصغر الذي يجب وضعه بجانب نص قاعدة الروبي. قد يحتوي على نص، عناصر مضمنة أخرى، أو مزيج من كلاهما. قد يحتوي على سمات RubyAlign و RubyPosition.
+(نص تعليقة الروبي) النص الأصغر حجماً الذي يُوضع بجوار النص الأساسي للروبي. قد يحتوي على نص، أو عناصر مضمنة أخرى، أو مزيج من كليهما. قد يحتوي على خصائص RubyAlign و RubyPosition.
 
 ```csharp
 public static readonly StructureTypeStandard RT;
@@ -19,3 +19,5 @@ public static readonly StructureTypeStandard RT;
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

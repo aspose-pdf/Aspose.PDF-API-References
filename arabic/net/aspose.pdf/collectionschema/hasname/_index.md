@@ -1,29 +1,31 @@
 ---
-title: CollectionSchema.HasName
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة CollectionSchema. تحدد ما إذا كان الاسم المحدد موجودًا في المخطط
+title: "CollectionSchema.HasName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة CollectionSchema. تحدد ما إذا كان الاسم المحدد موجودًا في المخطط"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/collectionschema/hasname/
 ---
-## طريقة CollectionSchema.HasName
+## CollectionSchema.HasName method
 
-تحدد ما إذا كان الاسم المحدد موجودًا في المخطط.
+تحديد ما إذا كان الاسم المحدد موجودًا في schema.
 
 ```csharp
 public bool HasName(string name)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| name | String | الاسم الذي سيتم التحقق منه. |
+| الاسم | String | الاسم للتحقق منه. |
 
 ### قيمة الإرجاع
 
-`true` إذا كان الاسم المحدد موجودًا في المخطط؛ خلاف ذلك، `false`.
+`true` إذا كان الاسم المحدد موجودًا في المخطط؛ وإلا `false`.
 
 ### انظر أيضًا
 
 * class [CollectionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

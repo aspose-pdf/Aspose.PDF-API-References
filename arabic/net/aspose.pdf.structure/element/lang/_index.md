@@ -1,14 +1,14 @@
 ---
-title: Element.Lang
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية العنصر. PDF 1.4 اختياري لغة تحدد اللغة الطبيعية لجميع النصوص في عنصر الهيكل باستثناء الحالات التي يتم فيها تجاوزها بواسطة مواصفات اللغة لعناصر الهيكل المتداخلة أو المحتوى المعلم
+title: "Element.Lang"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية العنصر. اختياري PDF 1.4 لغة تحدد اللغة الطبيعية لجميع النصوص في عنصر البنية باستثناء الحالات التي يتم فيها تجاوزها بمواصفات اللغة لعناصر البنية المتداخلة أو المحتوى المميز"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.structure/element/lang/
 ---
-## خاصية Element.Lang
+## Element.Lang property
 
-(اختياري؛ PDF 1.4) لغة تحدد اللغة الطبيعية لجميع النصوص في عنصر الهيكل باستثناء الحالات التي يتم فيها تجاوزها بواسطة مواصفات اللغة لعناصر الهيكل المتداخلة أو المحتوى المعلم.
+(اختياري؛ PDF 1.4) لغة تحدد اللغة الطبيعية لجميع النصوص في عنصر البنية باستثناء الحالات التي يتم فيها تجاوزها بمواصفات اللغة لعناصر البنية المتداخلة أو المحتوى المميز.
 
 ```csharp
 public virtual string Lang { get; set; }
@@ -19,3 +19,5 @@ public virtual string Lang { get; set; }
 * class [Element](../)
 * namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../../)
+
+

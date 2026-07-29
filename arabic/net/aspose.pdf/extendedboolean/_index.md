@@ -1,14 +1,14 @@
 ---
-title: Enum ExtendedBoolean
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ExtendedBoolean enum. يمثل نوع البيانات البوليانية الذي يدعم القيمة غير المعرفة
+title: "التعداد ExtendedBoolean"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.ExtendedBoolean. يمثل نوعًا منطقيًا يدعم القيمة غير المعرفة"
 type: docs
-weight: 4120
+weight: 4240
 url: /ar/net/aspose.pdf/extendedboolean/
 ---
-## تعداد ExtendedBoolean
+## ExtendedBoolean enumeration
 
-يمثل نوع البيانات البوليانية الذي يدعم القيمة غير المعرفة.
+يمثل نوعًا منطقيًا يدعم القيمة غير المعرفة.
 
 ```csharp
 public enum ExtendedBoolean
@@ -18,11 +18,13 @@ public enum ExtendedBoolean
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| غير معرف | `0` | القيمة غير المعرفة من ExtendnedBoolean. |
-| خطأ | `1` | القيمة الخاطئة من ExtendnedBoolean. |
-| صحيح | `2` | القيمة الصحيحة من ExtendnedBoolean. |
+| Undefined | `0` | قيمة غير معرفة للـ ExtendnedBoolean. |
+| False | `1` | قيمة خاطئة للـ ExtendnedBoolean. |
+| True | `2` | قيمة صحيحة للـ ExtendnedBoolean. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

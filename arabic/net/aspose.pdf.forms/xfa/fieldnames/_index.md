@@ -1,14 +1,14 @@
 ---
-title: XFA.FieldNames
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XFA. قائمة أسماء الحقول في نموذج النموذج
+title: "XFA.FieldNames"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XFA. قائمة بأسماء الحقول في قالب النموذج"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.forms/xfa/fieldnames/
 ---
-## خاصية XFA.FieldNames
+## XFA.FieldNames property
 
-قائمة أسماء الحقول في نموذج النموذج.
+قائمة بأسماء الحقول في قالب النموذج.
 
 ```csharp
 public string[] FieldNames { get; }
@@ -19,3 +19,5 @@ public string[] FieldNames { get; }
 * class [XFA](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

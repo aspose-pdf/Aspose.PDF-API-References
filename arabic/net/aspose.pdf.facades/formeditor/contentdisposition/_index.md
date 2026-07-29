@@ -1,14 +1,14 @@
 ---
-title: FormEditor.ContentDisposition
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormEditor. تحصل أو تعين كيفية تخزين المحتوى عندما يتم تخزين نتيجة العملية في كائن HttpResponse. القيمة الممكنة inline / attachment. القيمة الافتراضية inline
+title: "FormEditor.ContentDisposition"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormEditor. تحصل أو تعين كيفية تخزين المحتوى عندما تُخزن نتيجة العملية في كائن HttpResponse. القيم الممكنة inline / attachment. القيمة الافتراضية inline."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.facades/formeditor/contentdisposition/
 ---
-## خاصية FormEditor.ContentDisposition
+## FormEditor.ContentDisposition property
 
-تحصل أو تعين كيفية تخزين المحتوى عندما يتم تخزين نتيجة العملية في كائن HttpResponse. القيمة الممكنة: inline / attachment. القيمة الافتراضية: inline.
+تحصل أو تعين كيفية تخزين المحتوى عندما تُخزن نتيجة العملية في كائن HttpResponse. القيم الممكنة: inline / attachment. القيمة الافتراضية: inline.
 
 ```csharp
 public ContentDisposition ContentDisposition { get; set; }
@@ -20,3 +20,5 @@ public ContentDisposition ContentDisposition { get; set; }
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,23 +1,23 @@
 ---
-title: PageInformationAnnotation.PageInformationAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PageInformationAnnotation. يقوم بتهيئة مثيل جديد من فئة PageInformationAnnotation على الصفحة المعطاة في الموقع المعطى
+title: "PageInformationAnnotation.PageInformationAnnotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PageInformationAnnotation. يهيئ نسخة جديدة من فئة PageInformationAnnotation على الصفحة المحددة في الموقع المحدد"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/pageinformationannotation/pageinformationannotation/
 ---
-## مُنشئ PageInformationAnnotation
+## PageInformationAnnotation constructor
 
-يقوم بتهيئة مثيل جديد من فئة [`PageInformationAnnotation`](../) على الصفحة المعطاة في الموقع المعطى.
+يهيئ نسخة جديدة من الفئة [`PageInformationAnnotation`](../) على الصفحة المحددة في الموقع المحدد.
 
 ```csharp
 public PageInformationAnnotation(Page page, Rectangle rect)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة التي سيتم ربط التعليق التوضيحي بها. |
-| rect | Rectangle | مستطيل التعليق التوضيحي، الذي يحدد موقع التعليق التوضيحي على الصفحة. |
+| صفحة | صفحة | الصفحة التي سيتم ربط التعليق بها. |
+| rect | Rectangle | مستطيل التعليق التوضيحي، يحدد موقع التعليق التوضيحي على الصفحة. |
 
 ### انظر أيضًا
 
@@ -26,3 +26,5 @@ public PageInformationAnnotation(Page page, Rectangle rect)
 * class [PageInformationAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

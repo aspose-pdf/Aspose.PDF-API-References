@@ -1,14 +1,14 @@
 ---
-title: Embedding.EmbeddingList
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية التضمين. تحصل أو تضبط متجه التضمين الذي هو قائمة من الأعداد العشرية. يعتمد طول المتجه على النموذج كما هو مدرج في دليل التضمين
+title: "Embedding.EmbeddingList"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Embedding property. تحصل أو تعين متجه التضمين الذي هو قائمة من القيم العشرية. يعتمد طول المتجه على النموذج كما هو مدرج في دليل التضمين"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/embedding/embeddinglist/
 ---
-## خاصية Embedding.EmbeddingList
+## Embedding.EmbeddingList property
 
-تحصل أو تضبط متجه التضمين، الذي هو قائمة من الأعداد العشرية. يعتمد طول المتجه على النموذج كما هو مدرج في دليل التضمين.
+يحصل أو يعيّن متجه التضمين، وهو قائمة من القيم العشرية. يعتمد طول المتجه على النموذج كما هو مدرج في دليل التضمين.
 
 ```csharp
 public List<double> EmbeddingList { get; set; }
@@ -19,3 +19,5 @@ public List<double> EmbeddingList { get; set; }
 * class [Embedding](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

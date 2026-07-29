@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.H1
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeStandard. عنوان المستوى 1 للاستخدام في الكتاب المتوافقين الذين لا يمكنهم تداخل أقسامهم بشكل هرمي وبالتالي لا يمكنهم تحديد مستوى العنوان من مستوى تداخله
+title: "StructureTypeStandard.H1"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "StructureTypeStandard field. عنوان المستوى 1 للاستخدام في الكتاب المتوافقين الذين لا يمكنهم تعشيق أقسامهم هرميًا وبالتالي لا يمكنهم تحديد مستوى العنوان من مستوى التعشيق"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/h1/
 ---
-## حقل StructureTypeStandard.H1
+## StructureTypeStandard.H1 field
 
-عنوان المستوى 1، للاستخدام في الكتاب المتوافقين الذين لا يمكنهم تداخل أقسامهم بشكل هرمي وبالتالي لا يمكنهم تحديد مستوى العنوان من مستوى تداخله.
+عنوان المستوى 1، للاستخدام في الكتابات المتوافقة التي لا تستطيع تعشيق أقسامها هرميًا وبالتالي لا يمكنها تحديد مستوى العنوان من مستوى التعشيق.
 
 ```csharp
 public static readonly StructureTypeStandard H1;
@@ -19,3 +19,5 @@ public static readonly StructureTypeStandard H1;
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

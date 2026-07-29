@@ -1,50 +1,53 @@
 ---
-title: Class DicomDevice
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Devices.DicomDevice. تمثل جهاز الصورة الذي يساعد في حفظ صفحات مستند PDF بتنسيق Dicom
+title: "الفئة DicomDevice"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Devices.DicomDevice. تمثّل جهاز صورة يساعد على حفظ صفحات مستند PDF إلى تنسيق Dicom"
 type: docs
-weight: 3560
+weight: 3680
 url: /ar/net/aspose.pdf.devices/dicomdevice/
 ---
 ## DicomDevice class
 
-تمثل جهاز الصورة الذي يساعد في حفظ صفحات مستند PDF بتنسيق Dicom.
+يمثل جهاز صورة يساعد على حفظ صفحات مستند pdf بصيغة Dicom.
 
 ```csharp
 public sealed class DicomDevice : ImageDevice
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [DicomDevice](dicomdevice/#constructor)() | Initializes a new instance of the `DicomDevice` class with default resolution. |
-| [DicomDevice](dicomdevice/#constructor_2)(PageSize) | Initializes a new instance of the `DicomDevice` class with provided page size, with default resolution (=150). |
-| [DicomDevice](dicomdevice/#constructor_1)(Resolution) | Initializes a new instance of the `DicomDevice` class.  Resolution for the result image file, see [`Resolution`](../resolution/) class. |
-| [DicomDevice](dicomdevice/#constructor_4)(int, int) | Initializes a new instance of the `DicomDevice` class with provided image dimensions, with default resolution (=150). |
-| [DicomDevice](dicomdevice/#constructor_3)(PageSize, Resolution) | Initializes a new instance of the `DicomDevice` class with provided page size and resolution. |
-| [DicomDevice](dicomdevice/#constructor_5)(int, int, Resolution) | Initializes a new instance of the `DicomDevice` class with provided image dimensions and resolution. |
+| [DicomDevice](dicomdevice/#constructor)() | ينشئ مثيلاً جديداً لفئة `DicomDevice` بالدقة الافتراضية. |
+| [DicomDevice](dicomdevice/#constructor_2)(PageSize) | ينشئ مثيلاً جديداً لفئة `DicomDevice` بحجم الصفحة المقدم، وبالدقة الافتراضية (=150). |
+| [DicomDevice](dicomdevice/#constructor_1)(Resolution) | ينشئ مثيلاً جديداً لفئة `DicomDevice`. الدقة لملف الصورة الناتج، راجع فئة [`Resolution`](../resolution/). |
+| [DicomDevice](dicomdevice/#constructor_4)(int, int) | ينشئ مثيلاً جديداً لفئة `DicomDevice` بأبعاد الصورة المقدمة، وبالدقة الافتراضية (=150). |
+| [DicomDevice](dicomdevice/#constructor_3)(PageSize, Resolution) | ينشئ مثيلاً جديداً لفئة `DicomDevice` بحجم الصفحة المقدم والدقة. |
+| [DicomDevice](dicomdevice/#constructor_5)(int, int, Resolution) | ينشئ مثيلاً جديداً لفئة `DicomDevice` بأبعاد الصورة المقدمة والدقة. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | Gets or sets the page coordinate type (Media/Crop boxes). CropBox value is used by default. |
-| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | Gets or sets form presentation mode. |
-| [Height](../../aspose.pdf.devices/imagedevice/height/) { get; } | Gets image output height. |
-| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions/) { get; set; } | Gets or sets rendering options. |
-| [Resolution](../../aspose.pdf.devices/imagedevice/resolution/) { get; } | Gets image resolution. |
-| [Width](../../aspose.pdf.devices/imagedevice/width/) { get; } | Gets image output width. |
+| [CoordinateType](../../aspose.pdf.devices/imagedevice/coordinatetype/) { get; set; } | يحصل أو يعيّن نوع إحداثيات الصفحة (صناديق Media/Crop). تُستخدم قيمة CropBox كإعداد افتراضي. |
+| [FormPresentationMode](../../aspose.pdf.devices/imagedevice/formpresentationmode/) { get; set; } | يحصل أو يعيّن وضع عرض النموذج. |
+| [Height](../../aspose.pdf.devices/imagedevice/height/) { get; } | يحصل على ارتفاع مخرجات الصورة. |
+| [RenderingOptions](../../aspose.pdf.devices/imagedevice/renderingoptions/) { get; set; } | يحصل أو يعيّن خيارات العرض. |
+| [Resolution](../../aspose.pdf.devices/imagedevice/resolution/) { get; } | يحصل على دقة الصورة. |
+| [Width](../../aspose.pdf.devices/imagedevice/width/) { get; } | يحصل على عرض مخرجات الصورة. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Process](../../aspose.pdf.devices/dicomdevice/process/#process)(Page, Stream) | Converts the page into Dicom and saves it in the output stream. |
-| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Perfoms some operation on the given page and saves results into the file. |
+| [GetBitmap](../../aspose.pdf.devices/imagedevice/getbitmap/)(Page) | يحوّل الصفحة إلى Bitmap. |
+| override [Process](../../aspose.pdf.devices/dicomdevice/process/#process)(Page, Stream) | يحوّل الصفحة إلى Dicom ويحفظها في تدفق الإخراج. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | ينفّذ بعض العمليات على الصفحة المعطاة ويحفظ النتائج في الملف. |
 
-### See Also
+### انظر أيضًا
 
 * class [ImageDevice](../imagedevice/)
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

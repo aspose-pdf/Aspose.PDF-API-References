@@ -1,14 +1,14 @@
 ---
-title: Interface IPlugin
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.Plugins.IPlugin. واجهة مكون عام تحدد الطرق الشائعة التي يجب أن تنفذها المكونات المحددة
+title: "واجهة IPlugin"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Plugins.IPlugin واجهة. واجهة المكوّن الإضافي العامة التي تحدد الأساليب المشتركة التي يجب على المكوّن الإضافي الفعلي تنفيذها"
 type: docs
-weight: 8860
+weight: 8990
 url: /ar/net/aspose.pdf.plugins/iplugin/
 ---
-## واجهة IPlugin
+## IPlugin interface
 
-واجهة مكون عامة تحدد الطرق الشائعة التي يجب أن تنفذها المكونات المحددة.
+واجهة الملحق العامة التي تحدد الأساليب المشتركة التي يجب على الملحق الفعلي تنفيذها.
 
 ```csharp
 public interface IPlugin
@@ -18,9 +18,11 @@ public interface IPlugin
 
 | الاسم | الوصف |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/iplugin/process/)(IPluginOptions) | يكلف مكونًا لمعالجة الخيارات المحددة |
+| [Process](../../aspose.pdf.plugins/iplugin/process/)(IPluginOptions) | يفرض رسومًا على المكوّن الإضافي للمعالجة باستخدام الخيارات المحددة. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

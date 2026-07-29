@@ -1,22 +1,22 @@
 ---
-title: Measure.NumberFormat.NumberFormat
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ NumberFormat. مُنشئ لفئة NumberFormat
+title: "Measure.NumberFormat.NumberFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ NumberFormat. منشئ لفئة NumberFormat"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/measure.numberformat/numberformat/
 ---
-## مُنشئ Measure.NumberFormat
+## Measure.NumberFormat constructor
 
-مُنشئ لفئة NumberFormat.
+منشئ لفئة NumberFormat.
 
 ```csharp
 public NumberFormat(Measure measure)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| measure | Measure | كائن Measure الذي يحتوي على تنسيق الرقم هذا. |
+| قياس | قياس | كائن Measure الذي يحتوي على تنسيق الأرقام هذا. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public NumberFormat(Measure measure)
 * class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

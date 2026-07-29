@@ -1,14 +1,14 @@
 ---
-title: ScreenAnnotation.Action
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ScreenAnnotation. تحصل أو تعين إجراءً يتم تنفيذه عند تفعيل التعليق
+title: "ScreenAnnotation.Action"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ScreenAnnotation. تحصل أو تعين إجراءً يُنفّذ عندما يتم تفعيل التعليق التوضيحي"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/screenannotation/action/
 ---
-## خاصية ScreenAnnotation.Action
+## ScreenAnnotation.Action property
 
-تحصل أو تعين إجراءً يتم تنفيذه عند تفعيل التعليق.
+يحصل أو يضبط إجراءً يتم تنفيذه عندما يتم تنشيط التعليق التوضيحي.
 
 ```csharp
 public PdfAction Action { get; }
@@ -20,3 +20,5 @@ public PdfAction Action { get; }
 * class [ScreenAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

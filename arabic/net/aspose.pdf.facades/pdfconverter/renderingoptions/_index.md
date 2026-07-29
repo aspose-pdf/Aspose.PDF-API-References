@@ -1,14 +1,14 @@
 ---
-title: PdfConverter.RenderingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfConverter. تحصل أو تعين خيارات العرض
+title: "PdfConverter.RenderingOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfConverter. تحصل أو تعين خيارات العرض"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.facades/pdfconverter/renderingoptions/
 ---
-## خاصية PdfConverter.RenderingOptions
+## PdfConverter.RenderingOptions property
 
-تحصل أو تعين خيارات العرض.
+يحصل أو يعيّن خيارات العرض.
 
 ```csharp
 public RenderingOptions RenderingOptions { get; set; }
@@ -20,3 +20,5 @@ public RenderingOptions RenderingOptions { get; set; }
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

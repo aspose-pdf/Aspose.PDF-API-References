@@ -1,42 +1,44 @@
 ---
-title: Class SetTextLeading
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.SetTextLeading. تمثل الفئة مشغل TL لتعيين تباعد النص
+title: "الفئة SetTextLeading"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Operators.SetTextLeading. تمثّل الفئة عامل TL لتعيين مسافة السطر"
 type: docs
-weight: 7820
+weight: 7960
 url: /ar/net/aspose.pdf.operators/settextleading/
 ---
 ## SetTextLeading class
 
-تمثل الفئة مشغل TL (تعيين تباعد النص).
+الفئة التي تمثل المشغل TL (تعيين ارتفاع السطر للنص).
 
 ```csharp
 public class SetTextLeading : TextStateOperator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [SetTextLeading](settextleading/)(double) | يقوم بتهيئة مشغل تباعد النص. |
+| [SetTextLeading](settextleading/)(double) | يُهيّئ عامل مسافة السطر. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
-| [Leading](../../aspose.pdf.operators/settextleading/leading/) { get; set; } | يحصل على تباعد النص أو يعيّنه. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
+| [Leading](../../aspose.pdf.operators/settextleading/leading/) { get; set; } | يحصل أو يعيّن مسافة السطر. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/settextleading/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf.operators/settextleading/tostring/)() | ينتج كود النص للمشغل. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/settextleading/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf.operators/settextleading/tostring/)() | ينتج رمز النص للمشغّل. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextStateOperator](../textstateoperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

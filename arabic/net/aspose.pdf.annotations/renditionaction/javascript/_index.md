@@ -1,14 +1,14 @@
 ---
-title: RenditionAction.JavaScript
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RenditionAction. تحصل أو تعين كود JavaScript المرتبط بالإجراء
+title: "RenditionAction.JavaScript"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RenditionAction. تحصل أو تعيين كود JavaScript المرتبط بالإجراء"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/renditionaction/javascript/
 ---
-## خاصية RenditionAction.JavaScript
+## RenditionAction.JavaScript property
 
-تحصل أو تعين كود JavaScript المرتبط بالإجراء.
+يحصل أو يعيّن شفرة JavaScript المرتبطة بالإجراء.
 
 ```csharp
 public string JavaScript { get; set; }
@@ -19,3 +19,5 @@ public string JavaScript { get; set; }
 * class [RenditionAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

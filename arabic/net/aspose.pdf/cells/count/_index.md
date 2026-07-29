@@ -1,12 +1,12 @@
 ---
-title: Cells.Count
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Cells. عدد العناصر
+title: "Cells.Count"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Cells. عدد العناصر"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/cells/count/
 ---
-## خاصية Cells.Count
+## Cells.Count property
 
 عدد العناصر.
 
@@ -19,3 +19,5 @@ public int Count { get; }
 * class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

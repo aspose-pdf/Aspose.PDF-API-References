@@ -1,46 +1,48 @@
 ---
-title: Class SetRGBColor
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.SetRGBColor. فئة تمثل عامل rg لتعيين لون RGB للعوامل غير المرسومة
+title: "الفئة SetRGBColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Operators.SetRGBColor. الفئة التي تمثل عامل rg لتعيين لون RGB للعمليات غير المتخطية"
 type: docs
-weight: 7790
+weight: 7930
 url: /ar/net/aspose.pdf.operators/setrgbcolor/
 ---
 ## SetRGBColor class
 
-فئة تمثل عامل rg (تعيين لون RGB للعوامل غير المرسومة).
+الفئة التي تمثل المشغل rg (تعيين لون RGB للمشغلات غير المتسلسلة).
 
 ```csharp
 public class SetRGBColor : SetColorOperator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [SetRGBColor](setrgbcolor/#constructor_1)(Color) | يقوم بتهيئة العامل باللون. |
-| [SetRGBColor](setrgbcolor/#constructor)(double, double, double) | يقوم بتهيئة العامل. |
+| [SetRGBColor](setrgbcolor/#constructor_1)(Color) | يُهيئ العامل باللون. |
+| [SetRGBColor](setrgbcolor/#constructor)(double, double, double) | يُهيئ العامل. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [B](../../aspose.pdf.operators/setrgbcolor/b/) { get; set; } | يحصل على أو يحدد مكون اللون الأزرق. |
-| [G](../../aspose.pdf.operators/setrgbcolor/g/) { get; set; } | يحصل على أو يحدد مكون اللون الأخضر. |
+| [B](../../aspose.pdf.operators/setrgbcolor/b/) { get; set; } | يحصل أو يضبط المكوّن الأزرق. |
+| [G](../../aspose.pdf.operators/setrgbcolor/g/) { get; set; } | يحصل أو يضبط المكوّن الأخضر. |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
-| [R](../../aspose.pdf.operators/setrgbcolor/r/) { get; set; } | يحصل على أو يحدد مكون اللون الأحمر. |
+| [R](../../aspose.pdf.operators/setrgbcolor/r/) { get; set; } | يحصل أو يضبط المكوّن الأحمر. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/setrgbcolor/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
-| override [getColor](../../aspose.pdf.operators/setrgbcolor/getcolor/)() | يعيد اللون المحدد بواسطة العامل. |
-| override [ToString](../../aspose.pdf.operators/setrgbcolor/tostring/)() | يعيد التمثيل النصي للعامل. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [getColor](../../aspose.pdf.operators/setrgbcolor/getcolor/)() | يرجع اللون المحدد بواسطة المعامل. |
+| override [ToString](../../aspose.pdf.operators/setrgbcolor/tostring/)() | يعيد تمثيل النص للعامل. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [SetColorOperator](../setcoloroperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ObjectResult.IsFile
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ObjectResult. تشير إلى ما إذا كانت النتيجة هي مسار إلى ملف إخراج
+title: "ObjectResult.IsFile"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ObjectResult. تشير إلى ما إذا كانت النتيجة مسارًا إلى ملف إخراج"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/objectresult/isfile/
 ---
-## خاصية ObjectResult.IsFile
+## ObjectResult.IsFile property
 
-تشير إلى ما إذا كانت النتيجة هي مسار إلى ملف إخراج.
+يشير إلى ما إذا كانت النتيجة مساراً إلى ملف إخراج.
 
 ```csharp
 public bool IsFile { get; }
@@ -16,10 +16,12 @@ public bool IsFile { get; }
 
 ### قيمة الإرجاع
 
-`true` إذا كانت النتيجة ملفًا؛ خلاف ذلك `false`.
+`true` إذا كانت النتيجة ملفًا؛ وإلا `false`.
 
 ### انظر أيضًا
 
 * class [ObjectResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

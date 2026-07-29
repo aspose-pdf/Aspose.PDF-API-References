@@ -1,22 +1,22 @@
 ---
-title: Artifact.SetTextAndState
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Artifact. تعيين النص وخصائص النص للأثر
+title: "Artifact.SetTextAndState"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Artifact. ضبط النص وخصائص النص للعنصر"
 type: docs
 weight: 330
 url: /ar/net/aspose.pdf/artifact/settextandstate/
 ---
-## طريقة Artifact.SetTextAndState
+## Artifact.SetTextAndState method
 
-تعيين النص وخصائص النص للأثر.
+يضبط نص العنصر وخصائص النص.
 
 ```csharp
 public void SetTextAndState(string text, TextState textState)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| text | String | سلسلة النص. |
+| نص | String | سلسلة نصية. |
 | textState | TextState | حالة النص. |
 
 ### انظر أيضًا
@@ -25,3 +25,5 @@ public void SetTextAndState(string text, TextState textState)
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

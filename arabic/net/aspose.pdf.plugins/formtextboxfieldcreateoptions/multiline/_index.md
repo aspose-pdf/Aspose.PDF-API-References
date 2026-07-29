@@ -1,14 +1,14 @@
 ---
-title: FormTextBoxFieldCreateOptions.Multiline
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormTextBoxFieldCreateOptions. تحصل/تضبط القيمة لتحديد ما إذا كان TextBoxField الذي تم إنشاؤه متعدد الأسطر أم لا.
+title: "FormTextBoxFieldCreateOptions.Multiline"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormTextBoxFieldCreateOptions. تحصل/تضبط القيمة لتحديد ما إذا كان TextBoxField المُنشأ متعدد الأسطر أم لا إذا تم تعيينه"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.plugins/formtextboxfieldcreateoptions/multiline/
 ---
-## خاصية FormTextBoxFieldCreateOptions.Multiline
+## FormTextBoxFieldCreateOptions.Multiline property
 
-تحصل/تضبط القيمة لتحديد ما إذا كان TextBoxField الذي تم إنشاؤه متعدد الأسطر أم لا (إذا تم تعيينه).
+يحصل/يضبط القيمة لتحديد ما إذا كان TextBoxField المُنشأ متعدد الأسطر أم لا (إذا سيتم ضبطه).
 
 ```csharp
 public bool? Multiline { get; set; }
@@ -19,3 +19,5 @@ public bool? Multiline { get; set; }
 * class [FormTextBoxFieldCreateOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

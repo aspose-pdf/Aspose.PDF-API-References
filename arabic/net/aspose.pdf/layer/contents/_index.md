@@ -1,14 +1,14 @@
 ---
-title: Layer.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الطبقة. تحصل على محتوى الطبقة
+title: "Layer.Contents"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Layer. تحصل على محتوى الطبقة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/layer/contents/
 ---
-## خاصية Layer.Contents
+## Layer.Contents property
 
-تحصل على محتوى الطبقة.
+يحصل على محتوى الطبقة.
 
 ```csharp
 public List<Operator> Contents { get; }
@@ -20,3 +20,5 @@ public List<Operator> Contents { get; }
 * class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

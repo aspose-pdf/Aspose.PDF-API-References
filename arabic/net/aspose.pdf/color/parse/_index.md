@@ -1,29 +1,31 @@
 ---
-title: Color.Parse
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة اللون. تستخرج مكونات اللون من السلسلة
+title: "Color.Parse"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Color. تستخرج مكونات اللون من السلسلة"
 type: docs
 weight: 1480
 url: /ar/net/aspose.pdf/color/parse/
 ---
-## طريقة Color.Parse
+## Color.Parse method
 
-تستخرج مكونات اللون من السلسلة.
+يستخرج مكوّنات اللون من السلسلة.
 
 ```csharp
 public static Color Parse(string value)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | سلسلة | قيمة سلسلة تحتوي على قيم مكونات اللون. |
+| القيمة | String | قيمة سلسلة مع قيم مكونات اللون. |
 
 ### قيمة الإرجاع
 
-كائن لون.
+كائن Color.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

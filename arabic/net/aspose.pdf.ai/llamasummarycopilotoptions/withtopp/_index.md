@@ -1,29 +1,31 @@
 ---
-title: LlamaSummaryCopilotOptions.WithTopP
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة LlamaSummaryCopilotOptions. تعيين قيمة top P لخيارات ملخص المساعد
+title: "LlamaSummaryCopilotOptions.WithTopP"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة LlamaSummaryCopilotOptions. تحدد قيمة top P لخيارات ملخص المساعد."
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.ai/llamasummarycopilotoptions/withtopp/
 ---
-## طريقة LlamaSummaryCopilotOptions.WithTopP
+## LlamaSummaryCopilotOptions.WithTopP method
 
-تعيين قيمة top P لخيارات ملخص المساعد.
+يضبط قيمة top P لخيارات المساعد الملخص.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithTopP(double? topP)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| topP | Nullable`1 | قيمة top P التي يجب تعيينها. |
+| topP | Nullable`1 | قيمة top P لتعيينها. |
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`LlamaSummaryCopilotOptions`](../).
+المثيل الحالي من [`LlamaSummaryCopilotOptions`](../).
 
 ### انظر أيضًا
 
-* الفئة [LlamaSummaryCopilotOptions](../)
-* مساحة الاسم [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

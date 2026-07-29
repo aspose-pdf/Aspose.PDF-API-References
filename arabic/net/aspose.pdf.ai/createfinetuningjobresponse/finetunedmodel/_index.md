@@ -1,14 +1,14 @@
 ---
-title: CreateFineTuningJobResponse.FineTunedModel
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CreateFineTuningJobResponse. يحصل أو يحدد اسم النموذج المعدل عند الانتهاء
+title: "CreateFineTuningJobResponse.FineTunedModel"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "CreateFineTuningJobResponse الخاصية. يحصل أو يحدد اسم النموذج المضبوط بدقة بمجرد الانتهاء"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/createfinetuningjobresponse/finetunedmodel/
 ---
-## خاصية CreateFineTuningJobResponse.FineTunedModel
+## CreateFineTuningJobResponse.FineTunedModel property
 
-يحصل أو يحدد اسم النموذج المعدل، عند الانتهاء.
+يحصل أو يضبط اسم النموذج المحسن بدقة، عند الانتهاء.
 
 ```csharp
 public string FineTunedModel { get; set; }
@@ -19,3 +19,5 @@ public string FineTunedModel { get; set; }
 * class [CreateFineTuningJobResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

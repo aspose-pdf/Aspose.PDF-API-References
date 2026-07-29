@@ -1,14 +1,14 @@
 ---
-title: LlamaCopilotOptionsBase.MaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LlamaCopilotOptionsBase. تحصل أو تعين الحد الأقصى لعدد رموز الإكمال التي يمكن استخدامها خلال فترة التشغيل
+title: "LlamaCopilotOptionsBase.MaxCompletionTokens"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LlamaCopilotOptionsBase. يحصل أو يضبط الحد الأقصى لعدد رموز الإكمال التي قد تُستخدم خلال تشغيل البرنامج"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/llamacopilotoptionsbase/maxcompletiontokens/
 ---
-## خاصية LlamaCopilotOptionsBase.MaxCompletionTokens
+## LlamaCopilotOptionsBase.MaxCompletionTokens property
 
-تحصل أو تعين الحد الأقصى لعدد رموز الإكمال التي يمكن استخدامها خلال فترة التشغيل.
+يحصل أو يضبط الحد الأقصى لعدد رموز الإكمال التي قد تُستخدم خلال تشغيل العملية.
 
 ```csharp
 public int? MaxCompletionTokens { get; set; }
@@ -19,3 +19,5 @@ public int? MaxCompletionTokens { get; set; }
 * class [LlamaCopilotOptionsBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

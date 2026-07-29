@@ -1,20 +1,20 @@
 ---
-title: TextStateOperator.TextStateOperator
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TextStateOperator. يقوم بتهيئة TextStateOperator
+title: "TextStateOperator.TextStateOperator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TextStateOperator. يهيئ TextStateOperator"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/textstateoperator/textstateoperator/
 ---
 ## TextStateOperator() {#constructor}
 
-يقوم بتهيئة TextStateOperator.
+يُهيئ TextStateOperator.
 
 ```csharp
 public TextStateOperator()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [TextStateOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -24,19 +24,21 @@ public TextStateOperator()
 
 ## TextStateOperator(TextProperties) {#constructor_1}
 
-يقوم بتهيئة TextStateOperator الذي يسمح بتمرير TextProperties.
+يُهيئ TextStateoperator الذي يسمح بتمرير TextProperties.
 
 ```csharp
 public TextStateOperator(TextProperties textProperties)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | textProperties | TextProperties | خصائص النص. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextProperties](../../../aspose.pdf.facades/textproperties/)
 * class [TextStateOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

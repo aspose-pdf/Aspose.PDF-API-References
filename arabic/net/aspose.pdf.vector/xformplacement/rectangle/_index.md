@@ -1,12 +1,12 @@
 ---
-title: XFormPlacement.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XFormPlacement.
+title: "XFormPlacement.Rectangle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XFormPlacement."
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.vector/xformplacement/rectangle/
 ---
-## خاصية XFormPlacement.Rectangle
+## XFormPlacement.Rectangle property
 
 ```csharp
 public override Rectangle Rectangle { get; }
@@ -18,3 +18,5 @@ public override Rectangle Rectangle { get; }
 * class [XFormPlacement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: BaseOperatorCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية مجموعةBaseOperatorCollection. يحصل على المشغل بواسطة فهرسه
+title: "BaseOperatorCollection.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BaseOperatorCollection. تحصل على المشغل حسب فهرسه"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/baseoperatorcollection/item/
 ---
-## فهرس مجموعةBaseOperatorCollection
+## BaseOperatorCollection indexer
 
-يحصل على المشغل بواسطة فهرسه.
+يحصل على المشغل حسب فهرسه.
 
 ```csharp
 public abstract Operator this[int index] { get; set; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| الفهرس | فهرس المشغل. يبدأ الترقيم من 1. |
+| index | فهرس المشغل. يبدأ الترقيم من 1. |
 
 ### قيمة الإرجاع
 
@@ -28,3 +28,5 @@ public abstract Operator this[int index] { get; set; }
 * class [BaseOperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

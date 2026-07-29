@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.TextHorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormFieldOptions. تحصل/تضبط القيمة لتحديد خاصية TextHorizontalAlignment للحقل الذي تم إنشاؤه/تعديله إذا تم تعيينه
+title: "FormFieldOptions.TextHorizontalAlignment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormFieldOptions. تحصل/تضبط القيمة لتحديد خاصية TextHorizontalAlignment للحقل المُنشأ/المعدل إذا تم ضبطها"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.plugins/formfieldoptions/texthorizontalalignment/
 ---
-## خاصية FormFieldOptions.TextHorizontalAlignment
+## FormFieldOptions.TextHorizontalAlignment property
 
-تحصل/تضبط القيمة لتحديد خاصية TextHorizontalAlignment للحقل الذي تم إنشاؤه/تعديله (إذا تم تعيينه).
+الحصول/التعيين للقيمة لتحديد الخاصية TextHorizontalAlignment للحقل المُنشأ/المعدل (إذا سيتم تعيينها).
 
 ```csharp
 public HorizontalAlignment? TextHorizontalAlignment { get; set; }
@@ -20,3 +20,5 @@ public HorizontalAlignment? TextHorizontalAlignment { get; set; }
 * class [FormFieldOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

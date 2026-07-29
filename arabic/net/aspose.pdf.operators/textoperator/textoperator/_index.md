@@ -1,14 +1,14 @@
 ---
-title: TextOperator.TextOperator
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TextOperator. يُهيئ المُشغل
+title: "TextOperator.TextOperator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TextOperator. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/textoperator/textoperator/
 ---
 ## TextOperator() {#constructor}
 
-يُهيئ المُشغل.
+يُهيئ العامل.
 
 ```csharp
 public TextOperator()
@@ -24,13 +24,13 @@ public TextOperator()
 
 ## TextOperator(TextProperties) {#constructor_1}
 
-مُشغل النص الذي يقبل خصائص النص.
+المعامل النصي الذي يقبل خصائص النص.
 
 ```csharp
 public TextOperator(TextProperties textProperties)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | textProperties | TextProperties | خصائص النص. |
 
@@ -40,3 +40,5 @@ public TextOperator(TextProperties textProperties)
 * class [TextOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

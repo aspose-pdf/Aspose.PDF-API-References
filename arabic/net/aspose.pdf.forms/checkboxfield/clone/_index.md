@@ -1,12 +1,12 @@
 ---
-title: CheckboxField.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة CheckboxField. استنساخ خانة الاختيار
+title: "CheckboxField.Clone"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة CheckboxField. استنساخ مربع الاختيار"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.forms/checkboxfield/clone/
 ---
-## طريقة CheckboxField.Clone
+## CheckboxField.Clone method
 
 استنساخ خانة الاختيار.
 
@@ -23,3 +23,5 @@ public override object Clone()
 * class [CheckboxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

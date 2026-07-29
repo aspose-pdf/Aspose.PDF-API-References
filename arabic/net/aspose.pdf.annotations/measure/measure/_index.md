@@ -1,22 +1,22 @@
 ---
-title: Measure.Measure
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ Measure. ينشئ كائن Measure للتعليقات التوضيحية للقياس
+title: "Measure.Measure"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Measure. ينشئ كائن Measure لتعليقات القياس"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/measure/measure/
 ---
-## مُنشئ Measure
+## Measure constructor
 
-ينشئ كائن Measure للتعليقات التوضيحية للقياس.
+ينشئ كائن Measure لتعليقات القياس.
 
 ```csharp
 public Measure(Annotation annotation)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| annotation | Annotation | التعليق التوضيحي الذي سيتم ربط القياس به. |
+| annotation | Annotation | الـ Annotation الذي سيتم ربط القياس به. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public Measure(Annotation annotation)
 * class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

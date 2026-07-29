@@ -1,14 +1,14 @@
 ---
-title: SetDash.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة SetDash. الحصول على تمثيل سلسلة المشغل
+title: "SetDash.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة SetDash. تحصل على تمثيل نصي للمشغل"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.operators/setdash/tostring/
 ---
-## طريقة SetDash.ToString
+## SetDash.ToString method
 
-الحصول على تمثيل سلسلة المشغل.
+يحصل على تمثيل النص للمشغل.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-[x1 x2] y d، حيث x1 - طول الخط المتقطع، x2 - طول الفجوة، y - المرحلة.
+[x1 x2] y d, where x1 - dash length, x2 - gap length, y - phase.
 
 ### انظر أيضًا
 
 * class [SetDash](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

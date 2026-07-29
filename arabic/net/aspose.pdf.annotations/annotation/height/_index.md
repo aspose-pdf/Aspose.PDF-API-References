@@ -1,14 +1,14 @@
 ---
-title: Annotation.Height
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية التعليق. تحصل أو تعين ارتفاع التعليق
+title: "Annotation.Height"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Annotation. تحصل أو تعين ارتفاع التعليق التوضيحي"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.annotations/annotation/height/
 ---
-## خاصية Annotation.Height
+## Annotation.Height property
 
-تحصل أو تعين ارتفاع التعليق.
+الحصول على أو تعيين ارتفاع التعليقة.
 
 ```csharp
 public virtual double Height { get; set; }
@@ -19,3 +19,5 @@ public virtual double Height { get; set; }
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

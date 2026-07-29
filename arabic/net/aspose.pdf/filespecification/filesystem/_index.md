@@ -1,14 +1,14 @@
 ---
-title: FileSpecification.FileSystem
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FileSpecification. تحصل أو تعين اسم نظام الملفات
+title: "FileSpecification.FileSystem"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FileSpecification. يحصل على أو يعيّن اسم نظام الملفات"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/filespecification/filesystem/
 ---
-## خاصية FileSpecification.FileSystem
+## FileSpecification.FileSystem property
 
-تحصل أو تعين اسم نظام الملفات.
+يحصل أو يعيّن اسم نظام الملفات.
 
 ```csharp
 public string FileSystem { get; set; }
@@ -19,3 +19,5 @@ public string FileSystem { get; set; }
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

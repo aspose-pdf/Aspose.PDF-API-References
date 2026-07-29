@@ -1,12 +1,12 @@
 ---
-title: CurveTo1.Points
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CurveTo1. نقاط المنحنى
+title: "CurveTo1.Points"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CurveTo1. نقاط المنحنى"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.operators/curveto1/points/
 ---
-## خاصية CurveTo1.Points
+## CurveTo1.Points property
 
 نقاط المنحنى.
 
@@ -20,3 +20,5 @@ public Point[] Points { get; }
 * class [CurveTo1](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

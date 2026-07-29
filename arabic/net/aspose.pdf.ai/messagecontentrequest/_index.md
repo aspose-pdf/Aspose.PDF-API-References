@@ -1,44 +1,46 @@
 ---
-title: Class MessageContentRequest
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.MessageContentRequest. محتوى الرسالة في مصفوفة من النصوص و/أو الصور
+title: "الفئة MessageContentRequest"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.AI.MessageContentRequest. محتوى الرسالة في مصفوفة من النص و/أو الصور"
 type: docs
-weight: 780
+weight: 830
 url: /ar/net/aspose.pdf.ai/messagecontentrequest/
 ---
 ## MessageContentRequest class
 
-محتوى الرسالة في مصفوفة من النصوص و/أو الصور.
+محتوى الرسالة في مصفوفة من النص و/أو الصور.
 
 ```csharp
 public class MessageContentRequest : MessageContentBase
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [MessageContentRequest](messagecontentrequest/)() | المُنشئ الافتراضي. |
+| [MessageContentRequest](messagecontentrequest/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ImageFile](../../aspose.pdf.ai/messagecontentbase/imagefile/) { get; set; } | يحصل أو يحدد ملف صورة في محتوى الرسالة. |
-| [ImageUrl](../../aspose.pdf.ai/messagecontentbase/imageurl/) { get; set; } | يحصل أو يحدد عنوان URL لصورة في محتوى الرسالة. |
-| [MessageContentType](../../aspose.pdf.ai/messagecontentbase/messagecontenttype/) { get; set; } | يحصل أو يحدد نوع المحتوى. |
-| [Text](../../aspose.pdf.ai/messagecontentrequest/text/) { get; set; } | يحصل أو يحدد محتوى النص الذي هو جزء من الرسالة. |
+| [ImageFile](../../aspose.pdf.ai/messagecontentbase/imagefile/) { get; set; } | يحصل أو يعيّن ملف صورة في محتوى الرسالة. |
+| [ImageUrl](../../aspose.pdf.ai/messagecontentbase/imageurl/) { get; set; } | يحصل أو يعيّن عنوان URL للصورة في محتوى الرسالة. |
+| [MessageContentType](../../aspose.pdf.ai/messagecontentbase/messagecontenttype/) { get; set; } | يحصل أو يعيّن نوع المحتوى. |
+| [Text](../../aspose.pdf.ai/messagecontentrequest/text/) { get; set; } | يحصل أو يعيّن النص المحتوى الذي هو جزء من الرسالة. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | static [CreateImageFileContent](../../aspose.pdf.ai/messagecontentrequest/createimagefilecontent/)(string, string) | ينشئ محتوى ملف صورة لرسالة. |
-| static [CreateImageUrlContent](../../aspose.pdf.ai/messagecontentrequest/createimageurlcontent/)(string, string) | ينشئ محتوى عنوان URL لصورة لرسالة. |
-| static [CreateTextContent](../../aspose.pdf.ai/messagecontentrequest/createtextcontent/)(string) | ينشئ محتوى نصي لرسالة. |
+| static [CreateImageUrlContent](../../aspose.pdf.ai/messagecontentrequest/createimageurlcontent/)(string, string) | ينشئ محتوى URL صورة لرسالة. |
+| static [CreateTextContent](../../aspose.pdf.ai/messagecontentrequest/createtextcontent/)(string) | ينشئ محتوى نص لرسالة. |
 
-### See Also
+### انظر أيضًا
 
 * class [MessageContentBase](../messagecontentbase/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: ArtifactCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ArtifactCollection. تضيف العناصر إلى المجموعة
+title: "ArtifactCollection.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ArtifactCollection. تُضيف القطع الأثرية إلى المجموعة"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/artifactcollection/add/
 ---
-## طريقة ArtifactCollection.Add
+## ArtifactCollection.Add method
 
-تضيف العناصر إلى المجموعة.
+يضيف الأدوات إلى المجموعة.
 
 ```csharp
 public void Add(Artifact artifact)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| artifact | Artifact | العنصر الذي يجب إضافته إلى المجموعة. |
+| قطعة | قطعة | العنصر الذي يجب إضافته إلى المجموعة. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public void Add(Artifact artifact)
 * class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

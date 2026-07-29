@@ -1,12 +1,12 @@
 ---
-title: FontCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FontCollection. يحصل على عنصر الخط في الفهرس المحدد
+title: "FontCollection.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FontCollection. يحصل على عنصر الخط في الفهرس المحدد"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.text/fontcollection/item/
 ---
-## فهرس FontCollection (1 من 2)
+## FontCollection indexer (1 of 2)
 
 يحصل على عنصر الخط في الفهرس المحدد.
 
@@ -14,9 +14,9 @@ url: /ar/net/aspose.pdf.text/fontcollection/item/
 public Font this[int index] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| index | الفهرس داخل المجموعة. |
+| index | Index within the collection. |
 
 ### قيمة الإرجاع
 
@@ -31,7 +31,7 @@ public Font this[int index] { get; }
 
 ---
 
-## فهرس FontCollection (2 من 2)
+## FontCollection indexer (2 of 2)
 
 يحصل على الخط من المجموعة بواسطة اسم الخط. يتم إلقاء استثناء إذا لم يتم العثور على الخط.
 
@@ -39,13 +39,13 @@ public Font this[int index] { get; }
 public Font this[string name] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| name | اسم الخط. |
+| الاسم | اسم الخط. |
 
 ### قيمة الإرجاع
 
-الخط الموجود.
+تم العثور على الخط.
 
 ### انظر أيضًا
 
@@ -53,3 +53,5 @@ public Font this[string name] { get; }
 * class [FontCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

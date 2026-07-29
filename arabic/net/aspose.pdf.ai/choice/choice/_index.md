@@ -1,14 +1,14 @@
 ---
-title: Choice.Choice
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ Choice. المُنشئ الافتراضي
+title: "Choice.Choice"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Choice constructor. المُنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/choice/choice/
 ---
-## مُنشئ Choice
+## Choice constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public Choice()
@@ -19,3 +19,5 @@ public Choice()
 * class [Choice](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

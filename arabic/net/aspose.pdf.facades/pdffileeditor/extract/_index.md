@@ -1,38 +1,38 @@
 ---
-title: PdfFileEditor.Extract
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileEditor. تستخرج الصفحات من الملفات المدخلة وتحفظ كملف Pdf جديد
+title: "PdfFileEditor.Extract"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileEditor. تستخرج الصفحات من ملف الإدخال وتحفظها كملف Pdf جديد"
 type: docs
 weight: 280
 url: /ar/net/aspose.pdf.facades/pdffileeditor/extract/
 ---
 ## Extract(string, int, int, string) {#extract_2}
 
-تستخرج الصفحات من الملف المدخل، وتحفظ كملف Pdf جديد.
+يستخرج الصفحات من ملف الإدخال، يحفظها كملف Pdf جديد.
 
 ```csharp
 public bool Extract(string inputFile, int startPage, int endPage, string outputFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputFile | String | مسار ملف Pdf المدخل. |
-| startPage | Int32 | رقم الصفحة الابتدائية. |
-| endPage | Int32 | رقم الصفحة النهائية. |
+| inputFile | String | مسار ملف Pdf الإدخال. |
+| startPage | Int32 | رقم Page البداية. |
+| endPage | Int32 | رقم Page النهاية. |
 | outputFile | String | مسار ملف Pdf الناتج. |
 
-### Return Value
+### قيمة الإرجاع
 
-صحيح للنجاح، أو خطأ.
+صحيح إذا نجح، أو خطأ.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.Extract("input.pdf", 3, 7, "output.pdf");
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -42,30 +42,30 @@ pfe.Extract("input.pdf", 3, 7, "output.pdf");
 
 ## Extract(string, int[], string) {#extract_3}
 
-تستخرج الصفحات المحددة بواسطة مصفوفة الأرقام، وتحفظ كملف PDF جديد.
+يستخرج الصفحات المحددة بمصفوفة الأرقام، ويحفظها كملف PDF جديد.
 
 ```csharp
 public bool Extract(string inputFile, int[] pageNumber, string outputFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputFile | String | مسار الملف المدخل. |
-| pageNumber | Int32[] | فهرس الصفحة من الملف المدخل. |
-| outputFile | String | مسار الملف الناتج. |
+| inputFile | String | مسار ملف الإدخال. |
+| pageNumber | Int32[] | فهرس الصفحة خارج ملف الإدخال. |
+| outputFile | String | مسار ملف الإخراج. |
 
-### Return Value
+### قيمة الإرجاع
 
-صحيح إذا كانت العملية قد نجحت.
+True إذا نجحت العملية.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.Extract("input.pdf", new int[] { 3, 5, 7 }, "output.pdf");
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -75,24 +75,24 @@ pfe.Extract("input.pdf", new int[] { 3, 5, 7 }, "output.pdf");
 
 ## Extract(Stream, int, int, Stream) {#extract}
 
-تستخرج الصفحات من الملف المدخل، وتحفظ كملف Pdf جديد.
+يستخرج الصفحات من ملف الإدخال، يحفظها كملف Pdf جديد.
 
 ```csharp
 public bool Extract(Stream inputStream, int startPage, int endPage, Stream outputStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputStream | Stream | تدفق الملف المدخل. |
-| startPage | Int32 | رقم الصفحة الابتدائية. |
-| endPage | Int32 | رقم الصفحة النهائية. |
+| inputStream | Stream | دفق ملف الإدخال. |
+| startPage | Int32 | رقم Page البداية. |
+| endPage | Int32 | رقم Page النهاية. |
 | outputStream | Stream | تدفق ملف Pdf الناتج. |
 
-### Return Value
+### قيمة الإرجاع
 
-صحيح للنجاح، أو خطأ.
+صحيح إذا نجح، أو خطأ.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -101,7 +101,7 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.Extract(sourceStream, 1, 3, 6, outStream);
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -111,23 +111,23 @@ pfe.Extract(sourceStream, 1, 3, 6, outStream);
 
 ## Extract(Stream, int[], Stream) {#extract_1}
 
-تستخرج الصفحات المحددة بواسطة مصفوفة الأرقام، وتحفظ كملف Pdf جديد.
+يستخرج الصفحات المحددة بمصفوفة الأرقام، ويحفظها كملف Pdf جديد.
 
 ```csharp
 public bool Extract(Stream inputStream, int[] pageNumber, Stream outputStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputStream | Stream | تدفق الملف المدخل. |
-| pageNumber | Int32[] | فهرس الصفحة من الملف المدخل. |
-| outputStream | Stream | تدفق الملف الناتج. |
+| inputStream | Stream | دفق ملف الإدخال. |
+| pageNumber | Int32[] | فهرس الصفحة خارج ملف الإدخال. |
+| outputStream | Stream | دفق ملف الإخراج. |
 
-### Return Value
+### قيمة الإرجاع
 
-صحيح للنجاح، أو خطأ.
+صحيح إذا نجح، أو خطأ.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -136,8 +136,10 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.Extract(sourceStream, new int[] { 3, 5, 8 }, outStream);
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

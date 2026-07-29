@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.Color
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormFieldOptions. تحصل/تعيين القيمة لتحديد خاصية اللون للحقل الذي تم إنشاؤه/تعديله إذا تم تعيينه
+title: "FormFieldOptions.Color"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormFieldOptions. تحصل/تضبط القيمة لتحديد خاصية Color للحقل المُنشأ/المعدل إذا تم ضبطها"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/formfieldoptions/color/
 ---
-## خاصية FormFieldOptions.Color
+## FormFieldOptions.Color property
 
-تحصل/تعيين القيمة لتحديد خاصية اللون للحقل الذي تم إنشاؤه/تعديله (إذا تم تعيينه).
+الحصول/التعيين للقيمة لتحديد الخاصية Color للحقل المُنشأ/المعدل (إذا سيتم تعيينها).
 
 ```csharp
 public Color Color { get; set; }
@@ -20,3 +20,5 @@ public Color Color { get; set; }
 * class [FormFieldOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: DictionaryEditor.DictionaryEditor
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ DictionaryEditor.
+title: "DictionaryEditor.DictionaryEditor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ DictionaryEditor."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.dataeditor/dictionaryeditor/dictionaryeditor/
@@ -12,17 +12,17 @@ url: /ar/net/aspose.pdf.dataeditor/dictionaryeditor/dictionaryeditor/
 public DictionaryEditor(Page page)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | صفحة تحتوي على قاموس للعمل. |
+| صفحة | صفحة | صفحة مع قاموس للعمل. |
 
-### Exceptions
+### الاستثناءات
 
-| exception | condition |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | الصفحة فارغة أو هيكل الصفحة معطل. |
+| ArgumentNullException | الصفحة فارغة أو بنية الصفحة مكسورة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [DictionaryEditor](../)
@@ -37,17 +37,17 @@ public DictionaryEditor(Page page)
 public DictionaryEditor(Document document)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| document | Document | مستند يحتوي على قاموس للعمل. |
+| document | Document | Document مع قاموس للعمل. |
 
-### Exceptions
+### الاستثناءات
 
-| exception | condition |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | المستند فارغ. |
+| ArgumentNullException | Document فارغ. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [DictionaryEditor](../)
@@ -62,19 +62,21 @@ public DictionaryEditor(Document document)
 public DictionaryEditor(Resources resources)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| resources | Resources | موارد تحتوي على قاموس للعمل. |
+| resources | الموارد | الموارد مع قاموس للعمل. |
 
-### Exceptions
+### الاستثناءات
 
-| exception | condition |
+| استثناء | شرط |
 | --- | --- |
 | ArgumentNullException | الموارد فارغة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Resources](../../../aspose.pdf/resources/)
 * class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

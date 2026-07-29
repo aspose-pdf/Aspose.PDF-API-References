@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.SubmitCoordinates
-second_title: Aspose.PDF for .NET API Reference
-description: حقل SubmitFormAction. إذا تم تعيينه، سيتم نقل إحداثيات نقرة الماوس التي تسببت في إجراء submitform كجزء من بيانات النموذج
+title: "SubmitFormAction.SubmitCoordinates"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل SubmitFormAction. إذا تم الضبط، سيتم نقل إحداثيات نقرة الفأرة التي تسببت في إجراء submitform كجزء من بيانات النموذج"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.annotations/submitformaction/submitcoordinates/
 ---
-## حقل SubmitFormAction.SubmitCoordinates
+## SubmitFormAction.SubmitCoordinates field
 
-إذا تم تعيينه، سيتم نقل إحداثيات نقرة الماوس التي تسببت في إجراء submit-form كجزء من بيانات النموذج.
+إذا تم تعيينه، يجب نقل إحداثيات نقرة الفأرة التي تسببت في إجراء submit-form كجزء من بيانات النموذج.
 
 ```csharp
 public const int SubmitCoordinates;
@@ -19,3 +19,5 @@ public const int SubmitCoordinates;
 * class [SubmitFormAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

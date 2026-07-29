@@ -1,14 +1,14 @@
 ---
-title: Security.Security
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ الأمان. المُنشئ الافتراضي
+title: "Security.Security"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Security. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/security/security/
 ---
-## مُنشئ الأمان
+## Security constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public Security()
@@ -19,3 +19,5 @@ public Security()
 * class [Security](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

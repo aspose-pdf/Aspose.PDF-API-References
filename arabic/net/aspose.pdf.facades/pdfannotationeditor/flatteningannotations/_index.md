@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.FlatteningAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfAnnotationEditor. تقوم بتسوية جميع التعليقات التوضيحية في المستند
+title: "PdfAnnotationEditor.FlatteningAnnotations"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfAnnotationEditor. تقوم بتسطيح جميع التعليقات التوضيحية في المستند"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.facades/pdfannotationeditor/flatteningannotations/
 ---
 ## FlatteningAnnotations() {#flatteningannotations}
 
-تقوم بتسوية جميع التعليقات التوضيحية في المستند.
+يُسطّح جميع التعليقات التوضيحية في المستند.
 
 ```csharp
 public void FlatteningAnnotations()
@@ -33,15 +33,15 @@ editor.Save(example_out.pdf");
 
 ## FlatteningAnnotations(FlattenSettings) {#flatteningannotations_1}
 
-تقوم بتسوية جميع التعليقات التوضيحية في المستند.
+يُسطّح جميع التعليقات التوضيحية في المستند.
 
 ```csharp
 public void FlatteningAnnotations(FlattenSettings flattenSettings)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| flattenSettings | FlattenSettings | يحدد أوضاع التسوية. |
+| flattenSettings | FlattenSettings | يحدد أوضاع التسطيح. |
 
 ### انظر أيضًا
 
@@ -54,17 +54,17 @@ public void FlatteningAnnotations(FlattenSettings flattenSettings)
 
 ## FlatteningAnnotations(int, int, AnnotationType[]) {#flatteningannotations_2}
 
-تقوم بتسوية التعليقات التوضيحية من الأنواع المحددة.
+يُسطّح التعليقات التوضيحية للأنواع المحددة.
 
 ```csharp
 public void FlatteningAnnotations(int start, int end, AnnotationType[] annotType)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| start | Int32 | الصفحة الابتدائية. |
-| end | Int32 | الصفحة النهائية. |
-| annotType | AnnotationType[] | يجب تسوية أنواع التعليقات التوضيحية. |
+| start | Int32 | صفحة البداية. |
+| end | Int32 | ثم صفحة النهاية. |
+| annotType | AnnotationType[] | يجب تسطيح أنواع التعليقات التوضيحية. |
 
 ## أمثلة
 
@@ -82,3 +82,5 @@ editor.Save("example_out.pdf");
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

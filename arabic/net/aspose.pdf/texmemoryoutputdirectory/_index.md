@@ -1,35 +1,37 @@
 ---
-title: Class TeXMemoryOutputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.TeXMemoryOutputDirectory. تنفذ جلب تدفق الإخراج من الذاكرة. يمكنك استخدامها على سبيل المثال عندما لا تريد أن يتم كتابة الإخراج المرافق مثل ملف السجل على القرص ولكنك ترغب في قراءته لاحقًا من الذاكرة.
+title: "الفئة TeXMemoryOutputDirectory"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.TeXMemoryOutputDirectory. تنفذ جلب تدفق الإخراج من الذاكرة. يمكنك استخدامها على سبيل المثال عندما لا تريد أن يُكتب الإخراج المصاحب مثل ملف السجل إلى القرص ولكنك ترغب في قراءته لاحقًا من الذاكرة."
 type: docs
-weight: 10390
+weight: 10570
 url: /ar/net/aspose.pdf/texmemoryoutputdirectory/
 ---
 ## TeXMemoryOutputDirectory class
 
-تنفذ استرجاع دفق الإخراج من الذاكرة. يمكنك استخدامها، على سبيل المثال، عندما لا تريد أن يتم كتابة الإخراج المرافق (مثل ملف السجل) على القرص ولكنك ترغب في قراءته لاحقًا من الذاكرة.
+ينفّذ جلب تدفق إخراج من الذاكرة. يمكنك استخدامه، على سبيل المثال، عندما لا تريد أن يُكتب الإخراج المصاحب (مثل ملف السجل) إلى القرص ولكنك ترغب في قراءته لاحقًا من الذاكرة.
 
 ```csharp
 public class TeXMemoryOutputDirectory : ITeXOutputDirectory
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [TeXMemoryOutputDirectory](texmemoryoutputdirectory/)() | المُنشئ الافتراضي. |
+| [TeXMemoryOutputDirectory](texmemoryoutputdirectory/)() | البناء الافتراضي. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [Dispose](../../aspose.pdf/texmemoryoutputdirectory/dispose/)() | يتخلص من النسخة. |
-| [GetFile](../../aspose.pdf/texmemoryoutputdirectory/getfile/)(string, out string, bool) | يُرجع الدفق للقراءة منه. |
-| [GetOutputFile](../../aspose.pdf/texmemoryoutputdirectory/getoutputfile/)(string, out string) | يُرجع الدفق للكتابة إليه. |
+| virtual [Dispose](../../aspose.pdf/texmemoryoutputdirectory/dispose/)() | يلغي المثيل. |
+| [GetFile](../../aspose.pdf/texmemoryoutputdirectory/getfile/)(string, out string, bool) | يرجع التدفق للقراءة منه. |
+| [GetOutputFile](../../aspose.pdf/texmemoryoutputdirectory/getoutputfile/)(string, out string) | يعيد التدفق للكتابة إليه. |
 
-### See Also
+### انظر أيضًا
 
 * interface [ITeXOutputDirectory](../itexoutputdirectory/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,20 +1,20 @@
 ---
-title: PDF3DArtwork.LightingScheme
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PDF3DArtwork. تحصل أو تعين مخطط الإضاءة
+title: "PDF3DArtwork.LightingScheme"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PDF3DArtwork. يسترجع أو يحدد مخطط الإضاءة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/pdf3dartwork/lightingscheme/
 ---
-## خاصية PDF3DArtwork.LightingScheme
+## PDF3DArtwork.LightingScheme property
 
-تحصل أو تعين مخطط الإضاءة.
+يحصل أو يضبط مخطط الإضاءة.
 
 ```csharp
 public PDF3DLightingScheme LightingScheme { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 مخطط الإضاءة.
 
@@ -24,3 +24,5 @@ public PDF3DLightingScheme LightingScheme { get; set; }
 * class [PDF3DArtwork](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

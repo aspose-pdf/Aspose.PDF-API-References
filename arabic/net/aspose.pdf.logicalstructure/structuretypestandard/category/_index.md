@@ -1,22 +1,22 @@
 ---
-title: StructureTypeStandard.Category
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StructureTypeStandard. تحصل على فئة نوع الهيكل القياسي
+title: "StructureTypeStandard.Category"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StructureTypeStandard. يحصل على فئة نوع البنية القياسي."
 type: docs
 weight: 500
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/category/
 ---
-## خاصية StructureTypeStandard.Category
+## StructureTypeStandard.Category property
 
-تحصل على فئة نوع الهيكل القياسي.
+يحصل على فئة نوع البنية القياسية.
 
 ```csharp
 public StructureTypeCategory Category { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-فئة نوع الهيكل القياسي.
+فئة نوع البنية القياسي.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public StructureTypeCategory Category { get; }
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

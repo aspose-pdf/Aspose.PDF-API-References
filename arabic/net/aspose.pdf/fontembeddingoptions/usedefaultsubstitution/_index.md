@@ -1,14 +1,14 @@
 ---
-title: FontEmbeddingOptions.UseDefaultSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FontEmbeddingOptions. تشير إلى ما إذا كان يجب استبدال الخط غير المضمن باستخدام استراتيجية استبدال الخط الافتراضية. القيمة الافتراضية هي false
+title: "FontEmbeddingOptions.UseDefaultSubstitution"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FontEmbeddingOptions. تشير إلى ما إذا كان سيتم استبدال الخط غير المضمن باستخدام استراتيجية الاستبدال الافتراضية للخطوط. القيمة الافتراضية false"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/fontembeddingoptions/usedefaultsubstitution/
 ---
-## خاصية FontEmbeddingOptions.UseDefaultSubstitution
+## FontEmbeddingOptions.UseDefaultSubstitution property
 
-تشير إلى ما إذا كان يجب استبدال الخط غير المضمن باستخدام استراتيجية استبدال الخط الافتراضية. القيمة الافتراضية: `false`.
+يحدد ما إذا كان سيتم استبدال الخط غير المضمّن باستخدام استراتيجية استبدال الخط الافتراضية. القيمة الافتراضية: `false`.
 
 ```csharp
 public bool UseDefaultSubstitution { get; set; }
@@ -19,3 +19,5 @@ public bool UseDefaultSubstitution { get; set; }
 * class [FontEmbeddingOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

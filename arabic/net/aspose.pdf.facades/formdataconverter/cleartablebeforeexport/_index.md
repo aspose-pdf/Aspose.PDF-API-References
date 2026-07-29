@@ -1,14 +1,14 @@
 ---
-title: FormDataConverter.ClearTableBeforeExport
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormDataConverter. سيقوم ExportFromData بمسح الجدول قبل تصدير البيانات
+title: "FormDataConverter.ClearTableBeforeExport"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormDataConverter. سيقوم ExportFromData بمسح الجدول قبل تصدير البيانات"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.facades/formdataconverter/cleartablebeforeexport/
 ---
-## خاصية FormDataConverter.ClearTableBeforeExport
+## FormDataConverter.ClearTableBeforeExport property
 
-سيقوم ExportFromData بمسح الجدول قبل تصدير البيانات.
+ستقوم ExportFromData بمسح الجدول قبل تصدير البيانات.
 
 ```csharp
 public bool ClearTableBeforeExport { get; set; }
@@ -19,3 +19,5 @@ public bool ClearTableBeforeExport { get; set; }
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

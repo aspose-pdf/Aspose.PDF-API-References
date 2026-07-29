@@ -1,23 +1,23 @@
 ---
-title: LinkAnnotation.LinkAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ LinkAnnotation. ينشئ تعليق رابط جديد على الصفحة المحددة
+title: "LinkAnnotation.LinkAnnotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ LinkAnnotation. ينشئ تعليقًا توضيحيًا جديدًا من نوع Link على الصفحة المحددة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/linkannotation/linkannotation/
 ---
-## مُنشئ LinkAnnotation
+## LinkAnnotation constructor
 
-ينشئ تعليق رابط جديد على الصفحة المحددة.
+ينشئ تعليق توضيحي Link جديد على الصفحة المحددة.
 
 ```csharp
 public LinkAnnotation(Page page, Rectangle rect)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | صفحة الوثيقة حيث يجب إنشاء التعليق. |
-| rect | Rectangle | مستطيل التعليق، يحدد موقع التعليق على الصفحة. |
+| صفحة | صفحة | صفحة المستند حيث يجب إنشاء التعليق التوضيحي. |
+| rect | Rectangle | مستطيل التعليق التوضيحي، يحدد موقع التعليق التوضيحي على الصفحة. |
 
 ### انظر أيضًا
 
@@ -26,3 +26,5 @@ public LinkAnnotation(Page page, Rectangle rect)
 * class [LinkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

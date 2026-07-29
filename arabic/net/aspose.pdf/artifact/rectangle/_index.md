@@ -1,14 +1,14 @@
 ---
-title: Artifact.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الأرتيفكت. تحصل على مستطيل الأرتيفكت
+title: "Artifact.Rectangle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Artifact. يحصل على المستطيل للـ artifact"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf/artifact/rectangle/
 ---
-## خاصية Artifact.Rectangle
+## Artifact.Rectangle property
 
-تحصل على مستطيل الأرتيفكت.
+يحصل على Rectangle للقطعة.
 
 ```csharp
 public Rectangle Rectangle { get; }
@@ -20,3 +20,5 @@ public Rectangle Rectangle { get; }
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,26 @@
 ---
-title: IconFit.NameToScalingReason
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IconFit. تحويل اسم سبب التدرج إلى كائن ScalingReason
+title: "IconFit.NameToScalingReason"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IconFit. يحول اسم سبب التحجيم إلى كائن ScalingReason."
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.forms/iconfit/nametoscalingreason/
 ---
-## طريقة IconFit.NameToScalingReason
+## IconFit.NameToScalingReason method
 
-تحول اسم سبب التدرج إلى كائن ScalingReason.
+يحوّل اسم سبب التحجيم إلى كائن ScalingReason.
 
 ```csharp
 public static ScalingReason NameToScalingReason(string reason)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| reason | String | اسم سبب التدرج. |
+| السبب | String | اسم سبب التحجيم. |
 
 ### قيمة الإرجاع
 
-كائن سبب التدرج.
+كائن سبب التحجيم.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public static ScalingReason NameToScalingReason(string reason)
 * class [IconFit](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

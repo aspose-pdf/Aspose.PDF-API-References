@@ -1,14 +1,14 @@
 ---
-title: Interface IFacade
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.Facades.IFacade. واجهة واجهة عامة تحدد طرق الواجهات الشائعة
+title: "الواجهة IFacade"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "واجهة Aspose.Pdf.Facades.IFacade. واجهة عامة تُعرّف طرق الواجهات المشتركة."
 type: docs
-weight: 4360
+weight: 4480
 url: /ar/net/aspose.pdf.facades/ifacade/
 ---
-## واجهة IFacade
+## IFacade interface
 
-واجهة واجهة عامة تحدد طرق الواجهات الشائعة.
+واجهة الواجهة العامة التي تحدد طرق الواجهات الشائعة.
 
 ```csharp
 public interface IFacade : IDisposable
@@ -21,9 +21,11 @@ public interface IFacade : IDisposable
 | [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf/#bindpdf)(Document) | يربط مستند PDF للتحرير. |
 | [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf/#bindpdf_1)(Stream) | يربط مستند PDF للتحرير. |
 | [BindPdf](../../aspose.pdf.facades/ifacade/bindpdf/#bindpdf_2)(string) | يربط مستند PDF للتحرير. |
-| [Close](../../aspose.pdf.facades/ifacade/close/)() | يحرر أي موارد مرتبطة بالواجهة الحالية. |
+| [Close](../../aspose.pdf.facades/ifacade/close/)() | يطلق أي موارد مرتبطة بالواجهة الحالية. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

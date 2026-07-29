@@ -1,14 +1,14 @@
 ---
-title: Shape.GraphInfo
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الشكل. تحصل أو تعين كائن GraphInfo الذي يشير إلى معلومات الرسم مثل اللون، عرض الخط، إلخ
+title: "Shape.GraphInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Shape. يحصل أو يضبط كائن GraphInfo الذي يشير إلى معلومات الرسم البياني مثل لون الخط وعرضه إلخ"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.drawing/shape/graphinfo/
 ---
-## خاصية Shape.GraphInfo
+## Shape.GraphInfo property
 
-تحصل أو تعين كائن `GraphInfo` الذي يشير إلى معلومات الرسم، مثل اللون، عرض الخط، إلخ.
+يحصل أو يضبط كائن `GraphInfo` الذي يشير إلى معلومات الرسم البياني، مثل اللون، عرض الخط، إلخ.
 
 ```csharp
 public GraphInfo GraphInfo { get; set; }
@@ -20,3 +20,5 @@ public GraphInfo GraphInfo { get; set; }
 * class [Shape](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

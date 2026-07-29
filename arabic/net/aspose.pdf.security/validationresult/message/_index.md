@@ -1,12 +1,12 @@
 ---
-title: ValidationResult.Message
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ValidationResult. تمثل الرسالة المرتبطة بنتيجة التحقق
+title: "ValidationResult.Message"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ValidationResult. تمثل الرسالة المرتبطة بنتيجة التحقق"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.security/validationresult/message/
 ---
-## خاصية ValidationResult.Message
+## ValidationResult.Message property
 
 تمثل الرسالة المرتبطة بنتيجة التحقق.
 
@@ -16,10 +16,12 @@ public string Message { get; }
 
 ## ملاحظات
 
-توفر خاصية Message سياقًا أو معلومات إضافية حول حالة نتيجة التحقق.
+خاصية Message توفر سياقًا إضافيًا أو معلومات حول حالة نتيجة التحقق.
 
 ### انظر أيضًا
 
 * class [ValidationResult](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

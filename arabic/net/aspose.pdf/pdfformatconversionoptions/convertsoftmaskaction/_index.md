@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.ConvertSoftMaskAction
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFormatConversionOptions. إجراء للصور ذات القناع الناعم
+title: "PdfFormatConversionOptions.ConvertSoftMaskAction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFormatConversionOptions. الإجراء للصور ذات القناع الناعم"
 type: docs
-weight: 40
+weight: 50
 url: /ar/net/aspose.pdf/pdfformatconversionoptions/convertsoftmaskaction/
 ---
-## خاصية PdfFormatConversionOptions.ConvertSoftMaskAction
+## PdfFormatConversionOptions.ConvertSoftMaskAction property
 
-إجراء للصور ذات القناع الناعم.
+الإجراء للصور ذات القناع الناعم.
 
 ```csharp
 public ConvertSoftMaskAction ConvertSoftMaskAction { get; set; }
@@ -20,3 +20,5 @@ public ConvertSoftMaskAction ConvertSoftMaskAction { get; set; }
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

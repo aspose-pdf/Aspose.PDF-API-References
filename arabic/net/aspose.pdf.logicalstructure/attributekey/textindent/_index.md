@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.TextIndent
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeKey. خاصية TextIndent مالك خاصية التخطيط
+title: "AttributeKey.TextIndent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeKey. سمة TextIndent سمة Layout المالك"
 type: docs
 weight: 380
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/textindent/
 ---
-## حقل AttributeKey.TextIndent
+## AttributeKey.TextIndent field
 
-خاصية TextIndent (مالك خاصية التخطيط).
+خاصية TextIndent (مالك خاصية Layout).
 
 ```csharp
 public static readonly AttributeKey TextIndent;
@@ -19,3 +19,5 @@ public static readonly AttributeKey TextIndent;
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

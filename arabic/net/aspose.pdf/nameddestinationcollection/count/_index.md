@@ -1,12 +1,12 @@
 ---
-title: NamedDestinationCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية NamedDestinationCollection. عدد الوجهات المسماة
+title: "NamedDestinationCollection.Count"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية NamedDestinationCollection. عدد الوجهات المسماة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/nameddestinationcollection/count/
 ---
-## خاصية NamedDestinationCollection.Count
+## NamedDestinationCollection.Count property
 
 عدد الوجهات المسماة.
 
@@ -19,3 +19,5 @@ public int Count { get; }
 * class [NamedDestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

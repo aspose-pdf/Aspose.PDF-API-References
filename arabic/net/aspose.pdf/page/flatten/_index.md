@@ -1,14 +1,14 @@
 ---
-title: Page.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الصفحة. تزيل جميع الحقول الموجودة على الصفحة وتضع قيمها بدلاً من ذلك
+title: "Page.Flatten"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة الصفحة. تزيل جميع الحقول الموجودة على الصفحة وتضع قيمها بدلاً منها."
 type: docs
 weight: 430
 url: /ar/net/aspose.pdf/page/flatten/
 ---
-## طريقة Page.Flatten
+## Page.Flatten method
 
-تزيل جميع الحقول الموجودة على الصفحة وتضع قيمها بدلاً من ذلك.
+يزيل جميع الحقول الموجودة على الصفحة ويضع قيمها بدلاً منها.
 
 ```csharp
 public void Flatten()
@@ -19,3 +19,5 @@ public void Flatten()
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

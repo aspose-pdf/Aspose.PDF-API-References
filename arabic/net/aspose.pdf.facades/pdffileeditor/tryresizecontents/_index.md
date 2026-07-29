@@ -1,126 +1,60 @@
 ---
-title: PdfFileEditor.TryResizeContents
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileEditor. تعيد حجم محتويات صفحات الوثيقة
+title: "PdfFileEditor.TryResizeContents"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileEditor. تعيد تحجيم محتويات pages من document"
 type: docs
 weight: 450
 url: /ar/net/aspose.pdf.facades/pdffileeditor/tryresizecontents/
 ---
 ## TryResizeContents(Stream, Stream, int[], ContentsResizeParameters) {#tryresizecontents}
 
-تعيد حجم محتويات الصفحات في الوثيقة. إذا تم تصغير الصفحة، تتم إضافة هوامش فارغة حول الصفحة. يتم تخزين النتيجة في كائن HttpResponse.
-
-```csharp
-public bool TryResizeContents(string source, int[] pages, ContentsResizeParameters parameters, 
-    HttpResponse response)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| source | String | مسار الملف المصدر. |
-| pages | Int32[] | مصفوفة الصفحات التي سيتم تغيير حجمها. |
-| parameters | ContentsResizeParameters | معلمات تغيير الحجم. |
-| response | HttpResponse | كائن HttpResponse حيث يتم حفظ النتيجة. |
-
-### Return Value
-
-true إذا اكتملت العملية بنجاح؛ خلاف ذلك، false.
-
-## Remarks
-
-طريقة TryResizeContents تشبه طريقة ResizeContents، باستثناء أن طريقة TryResizeContents لا ترمي استثناءً إذا فشلت العملية.
-
-### See Also
-
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TryResizeContents(Stream, int[], ContentsResizeParameters, HttpResponse) {#tryresizecontents}
-
-تعيد حجم محتويات الصفحات في الوثيقة. إذا تم تصغير الصفحة، تتم إضافة هوامش فارغة حول الصفحة. يتم تخزين النتيجة في كائن HttpResponse.
-
-```csharp
-public bool TryResizeContents(Stream source, int[] pages, ContentsResizeParameters parameters, 
-    HttpResponse response)
-```
-
-| Parameter | Type | Description |
-| --- | --- | --- |
-| source | Stream | تدفق الملف المصدر. |
-| pages | Int32[] | مصفوفة الصفحات التي سيتم تغيير حجمها. |
-| parameters | ContentsResizeParameters | معلمات تغيير الحجم. |
-| response | HttpResponse | كائن HttpResponse حيث يتم حفظ النتيجة. |
-
-### Return Value
-
-true إذا اكتملت العملية بنجاح؛ خلاف ذلك، false.
-
-## Remarks
-
-طريقة TryResizeContents تشبه طريقة ResizeContents، باستثناء أن طريقة TryResizeContents لا ترمي استثناءً إذا فشلت العملية.
-
-### See Also
-
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TryResizeContents(Stream, Stream, int[], ContentsResizeParameters) {#tryresizecontents_1}
-
-تعيد حجم محتويات صفحات الوثيقة.
+يعيد تحجيم محتويات صفحات المستند.
 
 ```csharp
 public bool TryResizeContents(Stream source, Stream destination, int[] pages, 
     ContentsResizeParameters parameters)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| source | Stream | تدفق الوثيقة المصدر. |
-| destination | Stream | تدفق الوثيقة الوجهة. |
-| pages | Int32[] | مصفوفة فهارس الصفحات. |
-| parameters | ContentsResizeParameters | معلمات تغيير الحجم. |
+| المصدر | Stream | دفق يحتوي على source document. |
+| destination | Stream | دفق يحتوي على destination document. |
+| صفحات | Int32[] | مصفوفة من فهارس page. |
+| معلمات | ContentsResizeParameters | معلمات التحجيم. |
 
-### Return Value
+### قيمة الإرجاع
 
-ترجع true إذا كانت العملية ناجحة.
+يرجع true إذا نجح.
 
-## Remarks
+## ملاحظات
 
-طريقة TryResizeContents تشبه طريقة ResizeContents، باستثناء أن طريقة TryResizeContents لا ترمي استثناءً إذا فشلت العملية.
+طريقة TryResizeContents تشبه طريقة ResizeContents، إلا أن طريقة TryResizeContents لا تُطلق استثناءً إذا فشلت العملية.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //left margin = 10% of page width
+    //الهامش الأيسر = 10٪ من عرض page
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    //عرض المحتويات الجديد يُحسب تلقائيًا كالعرض - الهامش الأيسر - الهامش الأيمن (100٪ - 10٪ - 10٪ = 80٪)
     null,
-    //right margin is 10% of page 
+    //الهامش الأيمن هو 10٪ من page
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //top margin = 10% of height
+    //الهامش العلوي = 10٪ من الارتفاع
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents height is calculated automatically (similar to width)
+    //ارتفاع المحتوى الجديد يتم حسابه تلقائيًا (مشابه للعرض)
     null,
-    //bottom margin is 10%
+    //الهامش السفلي هو 10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 bool result = fileEditor.TryResizeContents(src, dest, new int[] { 1, 2, 3 }, parameters);
 dest.Close();
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
 * class [PdfFileEditor](../)
@@ -131,46 +65,46 @@ dest.Close();
 
 ## TryResizeContents(Stream, Stream, int[], double, double) {#tryresizecontents_1}
 
-تعيد حجم محتويات صفحات الوثيقة. تصغر محتويات الصفحة وتضيف هوامش. يتم تحديد الحجم الجديد للمحتويات بوحدات الفضاء الافتراضية.
+يعيد تحجيم محتويات صفحات المستند. يقلص محتويات الصفحة ويضيف هوامش. يُحدد الحجم الجديد للمحتويات بوحدات الفضاء الافتراضية.
 
 ```csharp
 public bool TryResizeContents(Stream source, Stream destination, int[] pages, double newWidth, 
     double newHeight)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| source | Stream | تدفق يحتوي على الوثيقة المصدر. |
-| destination | Stream | تدفق حيث سيتم حفظ الوثيقة الناتجة. |
-| pages | Int32[] | مصفوفة فهارس الصفحات. إذا كانت null، فسيتم معالجة جميع صفحات الوثيقة. |
+| المصدر | Stream | تدفق يحتوي على المستند المصدر. |
+| destination | Stream | دفق حيث سيتم حفظ document الناتج. |
+| صفحات | Int32[] | مصفوفة من فهارس page. إذا كانت null فسيتم معالجة جميع pages document. |
 | newWidth | Double | العرض الجديد لمحتويات الصفحة بوحدات الفضاء الافتراضية. |
 | newHeight | Double | الارتفاع الجديد لمحتويات الصفحة بوحدات الفضاء الافتراضية. |
 
-### Return Value
+### قيمة الإرجاع
 
-true إذا اكتملت العملية بنجاح؛ خلاف ذلك، false.
+صحيح إذا اكتملت العملية بنجاح؛ وإلا، خطأ.
 
-## Remarks
+## ملاحظات
 
-طريقة TryResizeContents تشبه طريقة ResizeContents، باستثناء أن طريقة TryResizeContents لا ترمي استثناءً إذا فشلت العملية.
+طريقة TryResizeContents تشبه طريقة ResizeContents، إلا أن طريقة TryResizeContents لا تُطلق استثناءً إذا فشلت العملية.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 bool result = fileEditor.TryResizeContents(src, dest, 
-//resize all pages of document
+//إعادة تحجيم جميع صفحات المستند
 null, 
-//new contents width = 200
+//عرض المحتوى الجديد = 200
 200, 
-//new contents height = 300
+//ارتفاع المحتوى الجديد = 300
 300);
-// rest area of page will be empty
+// ستكون مساحة الصفحة المتبقية فارغة
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -180,52 +114,54 @@ null,
 
 ## TryResizeContents(string, string, int[], ContentsResizeParameters) {#tryresizecontents_2}
 
-تعيد حجم محتويات الصفحات في الوثيقة. إذا تم تصغير الصفحة، تتم إضافة هوامش فارغة حول الصفحة.
+يعيد تحجيم محتويات الصفحات في المستند. إذا تم تقليص الصفحة تُضاف هوامش فارغة حولها.
 
 ```csharp
 public bool TryResizeContents(string source, string destination, int[] pages, 
     ContentsResizeParameters parameters)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| source | String | مسار الوثيقة المصدر. |
-| destination | String | مسار الوثيقة الوجهة. |
-| pages | Int32[] | مصفوفة فهارس الصفحات (يبدأ فهرس الصفحة من 1). |
-| parameters | ContentsResizeParameters | معلمات تغيير حجم الصفحة. |
+| المصدر | String | مسار المستند المصدر. |
+| destination | String | مسار المستند الوجهة. |
+| صفحات | Int32[] | مصفوفة مؤشرات الصفحات (يبدأ مؤشر الصفحة من 1). |
+| معلمات | ContentsResizeParameters | معلمات إعادة تحجيم الصفحة. |
 
-### Return Value
+### قيمة الإرجاع
 
-true إذا كان تغيير الحجم ناجحًا.
+صحيح إذا نجح تغيير الحجم.
 
-## Remarks
+## ملاحظات
 
-طريقة TryResizeContents تشبه طريقة ResizeContents، باستثناء أن طريقة TryResizeContents لا ترمي استثناءً إذا فشلت العملية.
+طريقة TryResizeContents تشبه طريقة ResizeContents، إلا أن طريقة TryResizeContents لا تُطلق استثناءً إذا فشلت العملية.
 
-## Examples
+## أمثلة
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //left margin = 10% of page width
+    //الهامش الأيسر = 10٪ من عرض page
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    //عرض المحتويات الجديد يُحسب تلقائيًا كالعرض - الهامش الأيسر - الهامش الأيمن (100٪ - 10٪ - 10٪ = 80٪)
     null,
-    //right margin is 10% of page 
+    //الهامش الأيمن هو 10٪ من page
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //top margin = 10% of height
+    //الهامش العلوي = 10٪ من الارتفاع
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents height is calculated automatically (similar to width)
+    //ارتفاع المحتوى الجديد يتم حسابه تلقائيًا (مشابه للعرض)
     null,
-    //bottom margin is 10%
+    //الهامش السفلي هو 10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 bool result = fileEditor.TryResizeContents("input.pdf", "output.pdf", new int[] { 1, 2, 3}, parameters);
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Heading.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة العنوان. استنساخ العنوان
+title: "Heading.Clone"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Heading. استنساخ العنوان"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf/heading/clone/
 ---
-## طريقة Heading.Clone
+## Heading.Clone method
 
 استنساخ العنوان.
 
@@ -23,3 +23,5 @@ public override object Clone()
 * class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

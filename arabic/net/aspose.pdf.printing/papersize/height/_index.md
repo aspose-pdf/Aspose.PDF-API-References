@@ -1,14 +1,14 @@
 ---
-title: PaperSize.Height
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PaperSize. تحصل أو تعين ارتفاع الورق بمئات من البوصة
+title: "PaperSize.Height"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PaperSize. تحصل أو تعين ارتفاع الورق بالمائة من البوصة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.printing/papersize/height/
 ---
-## خاصية PaperSize.Height
+## PaperSize.Height property
 
-تحصل أو تعين ارتفاع الورق، بمئات من البوصة.
+يحصل أو يعيّن ارتفاع الورق، بوحدات مئة من البوصة.
 
 ```csharp
 public int Height { get; set; }
@@ -19,3 +19,5 @@ public int Height { get; set; }
 * class [PaperSize](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

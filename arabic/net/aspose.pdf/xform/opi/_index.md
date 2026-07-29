@@ -1,14 +1,14 @@
 ---
-title: XForm.Opi
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XForm. تحصل على واجهة ما قبل الطباعة المفتوحة OPI
+title: "XForm.Opi"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XForm. يحصل على واجهة ما قبل الطباعة المفتوحة OPI"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/xform/opi/
 ---
-## خاصية XForm.Opi
+## XForm.Opi property
 
-تحصل على واجهة ما قبل الطباعة المفتوحة (OPI).
+يحصل على Open Prepress Interface (OPI).
 
 ```csharp
 public Opi Opi { get; }
@@ -20,3 +20,5 @@ public Opi Opi { get; }
 * class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

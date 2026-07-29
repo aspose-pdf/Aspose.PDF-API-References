@@ -1,14 +1,14 @@
 ---
-title: Class License
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.License. توفر طرقًا لترخيص المكون
+title: "فئة License"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.License. توفر طرقًا لترخيص المكوّن"
 type: docs
-weight: 6090
+weight: 6220
 url: /ar/net/aspose.pdf/license/
 ---
-## فئة الترخيص
+## License class
 
-توفر طرقًا لترخيص المكون.
+يوفر طرقًا لترخيص المكوّن.
 
 ```csharp
 public class License
@@ -18,16 +18,25 @@ public class License
 
 | الاسم | الوصف |
 | --- | --- |
-| [License](license/)() | المنشئ الافتراضي. |
+| [License](license/)() | البناء الافتراضي. |
+
+## الخصائص
+
+| الاسم | الوصف |
+| --- | --- |
+| [LicenseInfo](../../aspose.pdf/license/licenseinfo/) { get; } | يحصل على معلومات الترخيص الحالية. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [SetLicense](../../aspose.pdf/license/setlicense/#setlicense)(Stream) | يرخص المكون. |
-| [SetLicense](../../aspose.pdf/license/setlicense/#setlicense_1)(string) | يرخص المكون. |
+| [ClearLicense](../../aspose.pdf/license/clearlicense/)() | يمسح الترخيص الحالي. |
+| [SetLicense](../../aspose.pdf/license/setlicense/#setlicense)(Stream) | يرخص المكوّن. |
+| [SetLicense](../../aspose.pdf/license/setlicense/#setlicense_1)(string) | يرخص المكوّن. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,30 +1,32 @@
 ---
-title: ITeXOutputDirectory.GetOutputFile
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ITeXOutputDirectory. تعيد الدفق للكتابة إليه
+title: "ITeXOutputDirectory.GetOutputFile"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ITeXOutputDirectory. تُرجع الدفق للكتابة إليه"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/itexoutputdirectory/getoutputfile/
 ---
-## طريقة ITeXOutputDirectory.GetOutputFile
+## ITeXOutputDirectory.GetOutputFile method
 
-تعيد الدفق للكتابة إليه.
+يعيد التدفق للكتابة إليه.
 
 ```csharp
 public Stream GetOutputFile(string fileName, out string fullName)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fileName | String | اسم الملف. |
-| fullName | String& | الاسم الكامل للملف. |
+| fullName | String& | اسم الملف الكامل. |
 
 ### قيمة الإرجاع
 
-الدفق.
+التدفق.
 
 ### انظر أيضًا
 
-* الواجهة [ITeXOutputDirectory](../)
-* مساحة الاسم [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* interface [ITeXOutputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

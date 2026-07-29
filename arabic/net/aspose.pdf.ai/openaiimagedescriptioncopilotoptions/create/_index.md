@@ -1,24 +1,24 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIImageDescriptionCopilotOptions. تنشئ مثيلًا جديدًا من OpenAIImageDescriptionCopilotOptions
+title: "OpenAIImageDescriptionCopilotOptions.Create"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "OpenAIImageDescriptionCopilotOptions method. تنشئ مثيلاً جديدًا من OpenAIImageDescriptionCopilotOptions"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/create/
 ---
 ## Create() {#create}
 
-تنشئ مثيلًا جديدًا من [`OpenAIImageDescriptionCopilotOptions`](../).
+تنشئ مثيلاً جديدًا من [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ```csharp
 public static OpenAIImageDescriptionCopilotOptions Create()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
 مثيل جديد من [`OpenAIImageDescriptionCopilotOptions`](../).
 
-### See Also
+### انظر أيضًا
 
 * class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -28,23 +28,25 @@ public static OpenAIImageDescriptionCopilotOptions Create()
 
 ## Create(Action&lt;OpenAIImageDescriptionCopilotOptions&gt;) {#create_1}
 
-تنشئ مثيلًا من [`OpenAIImageDescriptionCopilotOptions`](../) وتقوم بتكوينه باستخدام المندوب المقدم.
+تنشئ مثيلاً من [`OpenAIImageDescriptionCopilotOptions`](../) وتقوم بتهيئته باستخدام المفوض المقدم.
 
 ```csharp
 public static OpenAIImageDescriptionCopilotOptions Create(
     Action<OpenAIImageDescriptionCopilotOptions> config)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| config | Action`1 | المندوب لتكوين الخيارات. |
+| تهيئة | Action`1 | المفوض لتكوين الخيارات. |
 
-### Return Value
+### قيمة الإرجاع
 
-المثيل المكون من [`OpenAIImageDescriptionCopilotOptions`](../).
+المثيل المكوَّن من [`OpenAIImageDescriptionCopilotOptions`](../).
 
-### See Also
+### انظر أيضًا
 
 * class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

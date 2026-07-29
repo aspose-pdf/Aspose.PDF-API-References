@@ -1,29 +1,29 @@
 ---
-title: PdfContentEditor.CreateBookmarksAction
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfContentEditor. تنشئ إشارة مرجعية مع الإجراء المحدد
+title: "PdfContentEditor.CreateBookmarksAction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfContentEditor. تُنشئ إشارة مرجعية بالإجراء المحدد"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/createbookmarksaction/
 ---
-## طريقة PdfContentEditor.CreateBookmarksAction
+## PdfContentEditor.CreateBookmarksAction method
 
-تنشئ إشارة مرجعية مع الإجراء المحدد.
+ينشئ إشارة مرجعية بالإجراء المحدد.
 
 ```csharp
 public void CreateBookmarksAction(string title, Color color, bool boldFlag, bool italicFlag, 
     string file, string actionType, string destination)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | title | String | عنوان الإشارة المرجعية. |
 | color | Color | لون عنوان الإشارة المرجعية. |
-| boldFlag | Boolean | علامة نسبة الخط العريض. |
-| italicFlag | Boolean | علامة نسبة الخط المائل. |
-| file | String | ملف أو تطبيق آخر مطلوب عند نوع الإجراء هو "GoToR" أو "Launch". |
-| actionType | String | نوع الإجراء. القيمة يمكن أن تكون: "GoToR"، "Launch"، "GoTo"، "URI". |
-| destination | String | الوجهة المحلية أو الوجهة البعيدة أو URL. |
+| boldFlag | Boolean | علامة الخط العريض. |
+| italicFlag | Boolean | علامة الخط المائل. |
+| file | String | ملف أو تطبيق آخر مطلوب عندما يكون نوع الإجراء "GoToR" أو "Launch". |
+| actionType | String | نوع الإجراء. يمكن أن تكون القيمة: "GoToR", "Launch", "GoTo", "URI". |
+| destination | String | الوجهة المحلية أو الوجهة البعيدة أو عنوان URL. |
 
 ## أمثلة
 
@@ -40,3 +40,5 @@ editor.Save("example_out.pdf");
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

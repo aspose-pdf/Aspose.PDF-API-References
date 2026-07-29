@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.PageModeUseNone
-second_title: Aspose.PDF for .NET API Reference
-description: حقل ViewerPreference. لا يظهر لا مخطط الوثيقة ولا صور مصغرة
+title: "ViewerPreference.PageModeUseNone"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل ViewerPreference. لا مخطط المستند ولا صور المصغرات مرئية"
 type: docs
 weight: 220
 url: /ar/net/aspose.pdf.facades/viewerpreference/pagemodeusenone/
 ---
-## حقل ViewerPreference.PageModeUseNone
+## ViewerPreference.PageModeUseNone field
 
-لا يظهر لا مخطط الوثيقة ولا صور مصغرة
+لا مخطط المستند ولا صور المصغرات مرئية
 
 ```csharp
 public const int PageModeUseNone;
@@ -19,3 +19,5 @@ public const int PageModeUseNone;
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

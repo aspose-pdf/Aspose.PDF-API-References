@@ -1,14 +1,14 @@
 ---
-title: Document.OutputIntents
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. تحصل على مجموعة من نوايا الإخراج في الوثيقة
+title: "Document.OutputIntents"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. تُرجع مجموعة نوايا الإخراج في المستند"
 type: docs
-weight: 420
+weight: 440
 url: /ar/net/aspose.pdf/document/outputintents/
 ---
-## خاصية Document.OutputIntents
+## Document.OutputIntents property
 
-تحصل على مجموعة من نوايا الإخراج في الوثيقة.
+يحصل على مجموعة نوايا الإخراج في المستند.
 
 ```csharp
 public OutputIntents OutputIntents { get; }
@@ -20,3 +20,5 @@ public OutputIntents OutputIntents { get; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: EpubSaveOptions.EpubSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ EpubSaveOptions. المُنشئ الافتراضي
+title: "EpubSaveOptions.EpubSaveOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ EpubSaveOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/epubsaveoptions/epubsaveoptions/
 ---
-## مُنشئ EpubSaveOptions
+## EpubSaveOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public EpubSaveOptions()
@@ -19,3 +19,5 @@ public EpubSaveOptions()
 * class [EpubSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

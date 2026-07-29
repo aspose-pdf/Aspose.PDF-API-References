@@ -1,30 +1,32 @@
 ---
-title: MessageContentRequest.CreateImageUrlContent
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة MessageContentRequest. تنشئ محتوى URL صورة لرسالة
+title: "MessageContentRequest.CreateImageUrlContent"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة MessageContentRequest. تنشئ محتوى URL للصورة لرسالة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/messagecontentrequest/createimageurlcontent/
 ---
-## طريقة MessageContentRequest.CreateImageUrlContent
+## MessageContentRequest.CreateImageUrlContent method
 
-تنشئ محتوى URL صورة لرسالة.
+ينشئ محتوى URL صورة لرسالة.
 
 ```csharp
 public static MessageContentRequest CreateImageUrlContent(string imageUrl, string detail = "auto")
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| imageUrl | سلسلة | عنوان URL للصورة. |
-| detail | سلسلة | تفاصيل عنوان URL للصورة. يحدد مستوى التفاصيل للصورة إذا تم تحديده من قبل المستخدم. "منخفض" يستخدم عدد أقل من الرموز، يمكنك اختيار دقة عالية باستخدام "عالي". القيمة الافتراضية هي "تلقائي". |
+| imageUrl | String | عنوان URL للصورة. |
+| التفصيل | String | تفاصيل URL الصورة. يحدد مستوى التفاصيل للصورة إذا حدده المستخدم. \"low\" يستخدم عددًا أقل من الرموز، ويمكنك اختيار الدقة العالية باستخدام \"high\". الافتراضي هو \"auto\". |
 
 ### قيمة الإرجاع
 
-مثيل جديد من MessageContentRequest بمحتوى ImageUrl.
+مثال جديد من MessageContentRequest بمحتوى ImageUrl.
 
 ### انظر أيضًا
 
 * class [MessageContentRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

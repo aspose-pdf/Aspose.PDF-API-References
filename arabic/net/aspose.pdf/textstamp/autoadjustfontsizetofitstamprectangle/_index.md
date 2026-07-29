@@ -1,14 +1,14 @@
 ---
-title: TextStamp.AutoAdjustFontSizeToFitStampRectangle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextStamp. إذا تم تفعيلها، سيتم ضبط حجم الخط تلقائيًا ليتناسب مع مستطيل الطابع بحجم العرض والارتفاع. العرض والارتفاع الافتراضيان مشتقان من مستطيل الصفحة
+title: "TextStamp.AutoAdjustFontSizeToFitStampRectangle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextStamp. إذا تم تمكينها، سيتم تعديل حجم الخط تلقائيًا ليتناسب مع مستطيل الختم بحجم Width و Height. العرض والارتفاع الافتراضيان مستمدان من مستطيل الصفحة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/textstamp/autoadjustfontsizetofitstamprectangle/
 ---
-## خاصية TextStamp.AutoAdjustFontSizeToFitStampRectangle
+## TextStamp.AutoAdjustFontSizeToFitStampRectangle property
 
-إذا تم تفعيلها، سيتم ضبط حجم الخط تلقائيًا ليتناسب مع مستطيل الطابع بحجم: [`Width`](../width/) و [`Height`](../height/). العرض والارتفاع الافتراضيان مشتقان من مستطيل الصفحة.
+إذا تم تمكينها، سيتم تعديل حجم الخط تلقائيًا ليتناسب مع مستطيل الختم بالحجم: [`Width`](../width/) و [`Height`](../height/). العرض والارتفاع الافتراضيان مستمدان من مستطيل الصفحة.
 
 ```csharp
 public bool AutoAdjustFontSizeToFitStampRectangle { get; set; }
@@ -19,3 +19,5 @@ public bool AutoAdjustFontSizeToFitStampRectangle { get; set; }
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

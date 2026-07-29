@@ -1,14 +1,14 @@
 ---
-title: FileSpecification.Name
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FileSpecification. تحصل أو تعين اسم مواصفة الملف
+title: "FileSpecification.Name"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FileSpecification. يحصل على أو يضع اسم مواصفات الملف"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf/filespecification/name/
 ---
-## خاصية FileSpecification.Name
+## FileSpecification.Name property
 
-تحصل أو تعين اسم مواصفة الملف.
+يحصل أو يعيّن اسم مواصفة الملف.
 
 ```csharp
 public string Name { get; set; }
@@ -19,3 +19,5 @@ public string Name { get; set; }
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

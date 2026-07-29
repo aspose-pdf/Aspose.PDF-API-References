@@ -1,14 +1,14 @@
 ---
-title: PageCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageCollection. تحصل على عدد الصفحات في المستند
+title: "PageCollection.Count"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageCollection. يحصل على عدد الصفحات في المستند"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/pagecollection/count/
 ---
-## خاصية PageCollection.Count
+## PageCollection.Count property
 
-تحصل على عدد الصفحات في المستند.
+يحصل على عدد الصفحات في المستند.
 
 ```csharp
 public int Count { get; }
@@ -19,3 +19,5 @@ public int Count { get; }
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

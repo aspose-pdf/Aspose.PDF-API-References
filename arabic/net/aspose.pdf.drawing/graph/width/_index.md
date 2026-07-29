@@ -1,14 +1,14 @@
 ---
-title: Graph.Width
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الرسم البياني. يحصل أو يحدد قيمة عائمة تشير إلى عرض الرسم البياني. الوحدة هي نقطة
+title: "Graph.Width"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Graph. يحصل أو يضبط قيمة عائمة تشير إلى عرض الرسم البياني. الوحدة هي النقطة"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.drawing/graph/width/
 ---
-## خاصية عرض الرسم البياني
+## Graph.Width property
 
-يحصل أو يحدد قيمة عائمة تشير إلى عرض الرسم البياني. الوحدة هي نقطة.
+يحصل أو يعيّن قيمة عائمة تشير إلى عرض الرسم البياني. الوحدة هي النقطة.
 
 ```csharp
 public double Width { get; set; }
@@ -19,3 +19,5 @@ public double Width { get; set; }
 * class [Graph](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

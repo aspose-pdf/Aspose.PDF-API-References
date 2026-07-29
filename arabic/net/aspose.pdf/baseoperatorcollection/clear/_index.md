@@ -1,12 +1,12 @@
 ---
-title: BaseOperatorCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة BaseOperatorCollection. يمسح المجموعة
+title: "BaseOperatorCollection.Clear"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة BaseOperatorCollection. تُفرغ المجموعة"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/baseoperatorcollection/clear/
 ---
-## طريقة BaseOperatorCollection.Clear
+## BaseOperatorCollection.Clear method
 
 يمسح المجموعة.
 
@@ -19,3 +19,5 @@ public abstract void Clear()
 * class [BaseOperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

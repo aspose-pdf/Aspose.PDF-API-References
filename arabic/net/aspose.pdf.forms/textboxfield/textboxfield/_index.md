@@ -1,24 +1,24 @@
 ---
-title: TextBoxField.TextBoxField
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TextBoxField. المُنشئ الذي يجب استخدامه مع Generator
+title: "TextBoxField.TextBoxField"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TextBoxField. المنشئ الذي يجب استخدامه مع Generator"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.forms/textboxfield/textboxfield/
 ---
 ## TextBoxField(Document) {#constructor_1}
 
-مُنشئ يجب استخدامه مع Generator.
+المنشئ الذي يجب استخدامه مع Generator.
 
 ```csharp
 public TextBoxField(Document doc)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| doc | Document | المستند الذي سيتم إنشاء الحقل فيه. |
+| doc | Document | Document حيث سيتم إنشاء الحقل. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [TextBoxField](../)
@@ -29,18 +29,18 @@ public TextBoxField(Document doc)
 
 ## TextBoxField(Page, Rectangle) {#constructor_3}
 
-مُنشئ حقل TextBox.
+منشئ حقل TextBox.
 
 ```csharp
 public TextBoxField(Page page, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة التي يتم وضع حقل النص فيها. |
-| rect | Rectangle | المستطيل الذي سيتم وضع حقل النص عليه في الصفحة. |
+| صفحة | صفحة | Page التي يتم وضع حقل النص فيها. |
+| rect | Rectangle | Rectangle التي سيتم وضع حقل النص عليها في Page. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -52,18 +52,18 @@ public TextBoxField(Page page, Rectangle rect)
 
 ## TextBoxField(Page, Rectangle[]) {#constructor_4}
 
-مُنشئ حقل TextBox.
+منشئ حقل TextBox.
 
 ```csharp
 public TextBoxField(Page page, Rectangle[] rects)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة التي يتم وضع حقل النص فيها. |
-| rects | Rectangle[] | المستطيلات التي تحدد موضع تعليقات نصوص TextBoxField على الصفحة. |
+| صفحة | صفحة | Page التي يتم وضع حقل النص فيها. |
+| rects | Rectangle[] | المستطيلات التي تحدد موضع تعليقات TextBoxField الويدجت على Page. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -75,21 +75,23 @@ public TextBoxField(Page page, Rectangle[] rects)
 
 ## TextBoxField(Document, Rectangle) {#constructor_2}
 
-مُنشئ حقل TextBox.
+منشئ حقل TextBox.
 
 ```csharp
 public TextBoxField(Document doc, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| doc | Document | المستند الذي سيتم إنشاء الحقل فيه. |
-| rect | Rectangle | المستطيل الخاص بالحقل. |
+| doc | Document | Document حيث سيتم إنشاء الحقل. |
+| rect | Rectangle | Rectangle الخاص بالحقل. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [TextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

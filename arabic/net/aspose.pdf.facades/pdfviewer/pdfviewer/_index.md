@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PdfViewer
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PdfViewer. يُهيئ كائن PdfViewer جديد
+title: "PdfViewer.PdfViewer"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PdfViewer. يهيئ كائن PdfViewer جديد"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.facades/pdfviewer/pdfviewer/
 ---
 ## PdfViewer() {#constructor}
 
-يُهيئ كائن [`PdfViewer`](../) جديد.
+يهيئ كائن [`PdfViewer`](../) جديد.
 
 ```csharp
 public PdfViewer()
@@ -24,15 +24,15 @@ public PdfViewer()
 
 ## PdfViewer(Document) {#constructor_1}
 
-يُهيئ كائن [`PdfViewer`](../) جديد.
+يهيئ كائن [`PdfViewer`](../) جديد.
 
 ```csharp
 public PdfViewer(Document document)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| document | Document | كائن الوثيقة. |
+| document | Document | كائن Document. |
 
 ### انظر أيضًا
 
@@ -40,3 +40,5 @@ public PdfViewer(Document document)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

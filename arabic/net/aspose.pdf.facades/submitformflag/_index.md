@@ -1,32 +1,34 @@
 ---
-title: Enum SubmitFormFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.SubmitFormFlag enum. تعداد علامات تقديم النموذج الممكنة
+title: "تعداد SubmitFormFlag"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.Facades.SubmitFormFlag. تعداد للعلامات الممكنة لإرسال النموذج"
 type: docs
-weight: 4750
+weight: 4870
 url: /ar/net/aspose.pdf.facades/submitformflag/
 ---
 ## SubmitFormFlag enumeration
 
-تعداد علامات تقديم النموذج الممكنة.
+تعداد لعلامات نموذج الإرسال الممكنة.
 
 ```csharp
 [Flags]
 public enum SubmitFormFlag
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | Fdf | `0` | سيتم إرجاع البيانات بتنسيق FDF. |
 | Html | `1` | سيتم إرجاع البيانات بتنسيق HTML. |
 | Xfdf | `2` | سيتم إرجاع البيانات بتنسيق XFDF. |
 | FdfWithComments | `3` | سيتم إرجاع البيانات بتنسيق FDF مع التعليقات. |
 | XfdfWithComments | `4` | سيتم إرجاع البيانات بتنسيق XFDF مع التعليقات. |
-| Pdf | `5` | سيتم تقديم ملف PDF بالكامل. |
+| Pdf | `5` | سيتم تقديم ملف PDF كامل. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

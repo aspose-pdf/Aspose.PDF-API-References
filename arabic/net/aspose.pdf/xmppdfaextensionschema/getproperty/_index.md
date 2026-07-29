@@ -1,22 +1,22 @@
 ---
-title: XmpPdfAExtensionSchema.GetProperty
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XmpPdfAExtensionSchema. تعيد خاصية PDF/A حسب اسمها
+title: "XmpPdfAExtensionSchema.GetProperty"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XmpPdfAExtensionSchema. تُرجع خاصية PDF/A بحسب اسمها"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/xmppdfaextensionschema/getproperty/
 ---
-## طريقة XmpPdfAExtensionSchema.GetProperty
+## XmpPdfAExtensionSchema.GetProperty method
 
-تعيد خاصية PDF/A حسب اسمها.
+يرجع خاصية PDF/A بحسب اسمها.
 
 ```csharp
 public XmpPdfAExtensionProperty GetProperty(string name)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم الخاصية. |
+| الاسم | String | اسم الخاصية. |
 
 ### قيمة الإرجاع
 
@@ -28,3 +28,5 @@ public XmpPdfAExtensionProperty GetProperty(string name)
 * class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

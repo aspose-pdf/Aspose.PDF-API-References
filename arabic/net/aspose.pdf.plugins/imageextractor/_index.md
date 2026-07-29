@@ -1,60 +1,62 @@
 ---
-title: Class ImageExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.ImageExtractor. تمثل مكون ImageExtractor
+title: "الفئة ImageExtractor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Plugins.ImageExtractor. تمثل ملحق ImageExtractor"
 type: docs
-weight: 8890
+weight: 9020
 url: /ar/net/aspose.pdf.plugins/imageextractor/
 ---
 ## ImageExtractor class
 
-تمثل مكون ImageExtractor.
+يمثل المكوّن الإضافي ImageExtractor.
 
 ```csharp
 public class ImageExtractor : PdfExtractor
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ImageExtractor](imageextractor/)() | المُنشئ الافتراضي. |
+| [ImageExtractor](imageextractor/)() | البناء الافتراضي. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/pdfextractor/dispose/)() | تنفيذ IDisposable. في الواقع، ليس من الضروري لـ PdfExtractor. |
-| [Process](../../aspose.pdf.plugins/pdfextractor/process/)(IPluginOptions) | يبدأ معالجة PdfExtractor مع المعلمات المحددة. |
+| [Dispose](../../aspose.pdf.plugins/pdfextractor/dispose/)() | تنفيذ IDisposable. في الواقع، ليس ضرورياً لـ PdfExtractor. |
+| [Process](../../aspose.pdf.plugins/pdfextractor/process/)(IPluginOptions) | يبدأ معالجة PdfExtractor بالمعلمات المحددة. |
 
-## Remarks
+## ملاحظات
 
-يتم استخدام كائن `ImageExtractor` لاستخراج النصوص من مستندات PDF.
+يُستخدم كائن `ImageExtractor` لاستخراج النص في مستندات PDF.
 
-## Examples
+## أمثلة
 
-توضح المثال كيفية استخراج الصور من مستند PDF.
+يوضح المثال كيفية استخراج الصور من مستند PDF.
 
 ```csharp
-// create ImageExtractor object to extract images
+// إنشاء كائن ImageExtractor لاستخراج الصور
 using (ImageExtractor extractor = new ImageExtractor())
 {
-    // create ImageExtractorOptions
+    // إنشاء ImageExtractorOptions
     imageExtractorOptions = new ImageExtractorOptions();
     
-    // add input file path to data sources
+    // إضافة مسار ملف الإدخال إلى مصادر البيانات
     imageExtractor.AddDataSource(new FileDataSource(inputPath));
     
-    // perform extraction process
+    // تنفيذ عملية الاستخراج
     ResultContainer resultContainer = extractor.Process(imageExtractorOptions);
     
-    // get the image from the ResultContainer object
+    // احصل على الصورة من كائن ResultContainer
     var imageExtracted = resultContainer.ResultCollection[0].ToFile();
 }
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfExtractor](../pdfextractor/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

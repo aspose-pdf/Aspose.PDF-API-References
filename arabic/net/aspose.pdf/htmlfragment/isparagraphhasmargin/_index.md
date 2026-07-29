@@ -1,21 +1,23 @@
 ---
-title: HtmlFragment.IsParagraphHasMargin
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية HtmlFragment. تحصل أو تعين ما إذا كانت الفقرة تحتوي على هامش افتراضي وإلا فإن الهامش هو 0
+title: "HtmlFragment.IsParagraphHasMargin"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية HtmlFragment. تحصل أو تعيين ما إذا كانت الفقرة لديها هامش افتراضي وإلا يكون الهامش 0"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/htmlfragment/isparagraphhasmargin/
 ---
 ## HtmlFragment.IsParagraphHasMargin property
 
-تحصل أو تعين ما إذا كانت الفقرة تحتوي على هامش افتراضي وإلا فإن الهامش هو 0
+الحصول أو الضبط لتحديد ما إذا كانت الفقرة تحتوي على هوامش افتراضية، وإلا تكون الهوامش 0
 
 ```csharp
 public bool IsParagraphHasMargin { get; set; }
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [HtmlFragment](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

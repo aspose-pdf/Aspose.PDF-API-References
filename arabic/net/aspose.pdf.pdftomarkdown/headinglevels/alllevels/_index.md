@@ -1,14 +1,14 @@
 ---
-title: HeadingLevels.AllLevels
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية HeadingLevels. تحصل على جميع مستويات العناوين
+title: "HeadingLevels.AllLevels"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية HeadingLevels. يحصل على جميع مستويات العناوين."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.pdftomarkdown/headinglevels/alllevels/
 ---
-## خاصية HeadingLevels.AllLevels
+## HeadingLevels.AllLevels property
 
-تحصل على جميع مستويات العناوين.
+يحصل على جميع مستويات العناوين.
 
 ```csharp
 public IList<double> AllLevels { get; }
@@ -19,3 +19,5 @@ public IList<double> AllLevels { get; }
 * class [HeadingLevels](../)
 * namespace [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
 * assembly [Aspose.PDF](../../../)
+
+

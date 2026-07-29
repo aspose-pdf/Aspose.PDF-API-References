@@ -1,14 +1,14 @@
 ---
-title: FormEditor.ResetFacade
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormEditor. إعادة تعيين جميع السمات المرئية إلى قيمة فارغة
+title: "FormEditor.ResetFacade"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FormEditor. إعادة تعيين جميع السمات البصرية إلى قيمة فارغة."
 type: docs
 weight: 240
 url: /ar/net/aspose.pdf.facades/formeditor/resetfacade/
 ---
-## طريقة FormEditor.ResetFacade
+## FormEditor.ResetFacade method
 
-إعادة تعيين جميع السمات المرئية إلى قيمة فارغة.
+أعد تعيين جميع السمات البصرية إلى قيمة فارغة.
 
 ```csharp
 public void ResetFacade()
@@ -19,3 +19,5 @@ public void ResetFacade()
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

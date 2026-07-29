@@ -1,29 +1,31 @@
 ---
-title: Color.FromGray
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Color. تحصل على كائن لون PDF صالح من مكون لون الرمادي
+title: "Color.FromGray"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Color. يحصل على كائن Color صالح من pdf من مكوّن اللون Gray"
 type: docs
 weight: 1460
 url: /ar/net/aspose.pdf/color/fromgray/
 ---
-## طريقة Color.FromGray
+## Color.FromGray method
 
-تحصل على كائن لون PDF صالح من مكون لون الرمادي.
+يحصل على كائن Color صالح من مكوّن اللون Gray في pdf.
 
 ```csharp
 public static Color FromGray(double g)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| g | Double | مكون لون الرمادي (القيمة 0 - 1). |
+| g | Double | مكوّن اللون Gray (القيمة 0 - 1). |
 
 ### قيمة الإرجاع
 
-كائن لون مع كل قيمة مكون في نطاق [0..1].
+كائن Color مع قيمة كل مكوّن في النطاق [0..1].
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

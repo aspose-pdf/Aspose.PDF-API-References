@@ -1,14 +1,14 @@
 ---
-title: LlamaClient.Builder.Build
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة البناء. تبني وتعيد مثيلًا من LlamaClient مع الخيارات المكونة
+title: "LlamaClient.Builder.Build"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Builder. تُنشئ وتُعيد نسخة من LlamaClient مع الخيارات المُكوَّنة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/llamaclient.builder/build/
 ---
-## طريقة LlamaClient.Builder.Build
+## LlamaClient.Builder.Build method
 
-تبني وتعيد مثيلًا من [`LlamaClient`](../../llamaclient/) مع الخيارات المكونة.
+تُنشئ وتُعيد نسخة من [`LlamaClient`](../../llamaclient/) مع الخيارات المُكوَّنة.
 
 ```csharp
 public LlamaClient Build()
@@ -16,7 +16,7 @@ public LlamaClient Build()
 
 ### قيمة الإرجاع
 
-مثيل من [`LlamaClient`](../../llamaclient/).
+نسخة من [`LlamaClient`](../../llamaclient/).
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public LlamaClient Build()
 * class [Builder](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: NamedDestinationCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية NamedDestinationCollection. يحصل أو يحدد الموعد حسب اسمه
+title: "NamedDestinationCollection.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية NamedDestinationCollection. تحصل أو تعيين الموعد حسب اسمه"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/nameddestinationcollection/item/
 ---
-## فهرس NamedDestinationCollection
+## NamedDestinationCollection indexer
 
-يحصل أو يحدد الموعد حسب اسمه.
+يحصل أو يعيّن الموعد بناءً على اسمه.
 
 ```csharp
 public IAppointment this[string name] { get; set; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| name | اسم الموعد. |
+| الاسم | اسم الموعد. |
 
 ### قيمة الإرجاع
 
@@ -24,7 +24,9 @@ public IAppointment this[string name] { get; set; }
 
 ### انظر أيضًا
 
-* واجهة [IAppointment](../../../aspose.pdf.annotations/iappointment/)
-* فئة [NamedDestinationCollection](../)
-* مساحة الاسم [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* class [NamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

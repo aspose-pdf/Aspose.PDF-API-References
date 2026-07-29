@@ -1,35 +1,37 @@
 ---
-title: Class OutputTextStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.OutputTextStyle class. يمثل فئة مجموعة الأنماط لتحديد تغييرات النص
+title: "الفئة OutputTextStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Comparison.OutputTextStyle. تمثل فئة مجموعة أنماط لتحديد تغييرات النص."
 type: docs
-weight: 3270
+weight: 3380
 url: /ar/net/aspose.pdf.comparison/outputtextstyle/
 ---
 ## OutputTextStyle class
 
-يمثل فئة مجموعة الأنماط لتحديد تغييرات النص.
+يمثّل فئة مجموعة الأنماط لتحديد تغييرات النص.
 
 ```csharp
 public class OutputTextStyle
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [OutputTextStyle](outputtextstyle/)() | المُنشئ الافتراضي. |
+| [OutputTextStyle](outputtextstyle/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [DeletedStyle](../../aspose.pdf.comparison/outputtextstyle/deletedstyle/) { get; set; } | احصل على نمط نصي للنص المحذوف وقم بتعيينه. |
-| [EqualStyle](../../aspose.pdf.comparison/outputtextstyle/equalstyle/) { get; set; } | احصل على نمط نصي للنص غير المتغير وقم بتعيينه. |
-| [InsertedStyle](../../aspose.pdf.comparison/outputtextstyle/insertedstyle/) { get; set; } | احصل على نمط نصي للنص المضاف وقم بتعيينه. |
-| [StrikethroughDeleted](../../aspose.pdf.comparison/outputtextstyle/strikethroughdeleted/) { get; set; } | احصل على نمط تزيين النص: خط متقاطع للنص المحذوف وقم بتعيينه. القيمة الافتراضية هي `False`. |
+| [DeletedStyle](../../aspose.pdf.comparison/outputtextstyle/deletedstyle/) { get; set; } | احصل على نمط نص للنص المحذوف واضبطه. |
+| [EqualStyle](../../aspose.pdf.comparison/outputtextstyle/equalstyle/) { get; set; } | احصل على نمط نص للنص غير المتغيّر واضبطه. |
+| [InsertedStyle](../../aspose.pdf.comparison/outputtextstyle/insertedstyle/) { get; set; } | احصل على نمط نص للنص المُدرج واضبطه. |
+| [StrikethroughDeleted](../../aspose.pdf.comparison/outputtextstyle/strikethroughdeleted/) { get; set; } | احصل أو اضبط نمط text-decoration: line-through لعملية الحذف. القيمة الافتراضية هي `False`. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

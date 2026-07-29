@@ -1,14 +1,14 @@
 ---
-title: GraphicElement.Operators
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية GraphicElement. تحصل على مجموعة من العوامل التي تمثل العنصر
+title: "GraphicElement.Operators"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية GraphicElement. يحصل على مجموعة من المشغلات التي تمثل العنصر"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.vector/graphicelement/operators/
 ---
-## خاصية GraphicElement.Operators
+## GraphicElement.Operators property
 
-تحصل على مجموعة من العوامل التي تمثل العنصر.
+يحصل على مجموعة من المشغلات التي تمثل العنصر.
 
 ```csharp
 public List<Operator> Operators { get; }
@@ -20,3 +20,5 @@ public List<Operator> Operators { get; }
 * class [GraphicElement](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

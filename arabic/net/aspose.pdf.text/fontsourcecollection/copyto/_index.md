@@ -1,23 +1,23 @@
 ---
-title: FontSourceCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FontSourceCollection. تنسخ المجموعة بأكملها إلى مصفوفة أحادية البعد متوافقة بدءًا من الفهرس المحدد لمصفوفة الهدف
+title: "FontSourceCollection.CopyTo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FontSourceCollection. تنسخ المجموعة بالكامل إلى مصفوفة أحادية البعد متوافقة بدءًا من الفهرس المحدد للمصفوفة الهدف"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.text/fontsourcecollection/copyto/
 ---
-## طريقة FontSourceCollection.CopyTo
+## FontSourceCollection.CopyTo method
 
-تنسخ المجموعة بأكملها إلى مصفوفة أحادية البعد متوافقة، بدءًا من الفهرس المحدد لمصفوفة الهدف
+ينسخ المجموعة بالكامل إلى مصفوفة أحادية البعد متوافقة، بدءًا من الفهرس المحدد للمصفوفة الهدف
 
 ```csharp
 public void CopyTo(FontSource[] array, int index)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| array | FontSource[] | مصفوفة من الكائنات التي سيتم نسخها. |
-| index | Int32 | الفهرس الابتدائي الذي ستبدأ منه عملية النسخ. |
+| مصفوفة | FontSource[] | Array of objects which will be copied. |
+| index | Int32 | Starting index from which copying will be started. |
 
 ### انظر أيضًا
 
@@ -25,3 +25,5 @@ public void CopyTo(FontSource[] array, int index)
 * class [FontSourceCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

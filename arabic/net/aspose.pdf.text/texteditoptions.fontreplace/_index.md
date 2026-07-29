@@ -1,9 +1,9 @@
 ---
-title: Enum TextEditOptions.FontReplace
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextEditOptionsFontReplace enum. سلوك استبدال الخط
+title: "التعداد TextEditOptions.FontReplace"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.Text.TextEditOptionsFontReplace. سلوك استبدال الخط"
 type: docs
-weight: 10840
+weight: 11020
 url: /ar/net/aspose.pdf.text/texteditoptions.fontreplace/
 ---
 ## TextEditOptions.FontReplace enumeration
@@ -14,15 +14,17 @@ url: /ar/net/aspose.pdf.text/texteditoptions.fontreplace/
 public enum FontReplace
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Default | `0` | لا يتم إجراء تغييرات إضافية أثناء استبدال الخط. |
-| RemoveUnusedFonts | `1` | سيتم إزالة الخطوط التي تصبح غير مستخدمة أثناء استبدال الخط من الوثيقة الناتجة. |
+| Default | `0` | لم يتم إجراء أي تغييرات إضافية أثناء استبدال الخط. |
+| RemoveUnusedFonts | `1` | ستتم إزالة الخطوط التي تصبح غير مستخدمة أثناء استبدال الخط من المستند الناتج. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextEditOptions](../texteditoptions/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

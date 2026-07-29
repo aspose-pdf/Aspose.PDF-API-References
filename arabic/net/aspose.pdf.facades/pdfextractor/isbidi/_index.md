@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.IsBidi
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfExtractor. تكون صحيحة عندما يحتوي النص على رموز عبرية أو عربية. يجب اعتبار هذه الحالة بشكل خاص لأن وظائف السلسلة تغير سلوكها وتبدأ في معالجة النص من اليمين إلى اليسار باستثناء الأرقام وغيرها من الأحرف غير النصية.
+title: "PdfExtractor.IsBidi"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfExtractor. تكون true عندما يحتوي النص على رموز عبريّة أو عربية. يجب مراعاة هذه الحالة بشكل خاص لأن دوال السلاسل تغير سلوكها وتبدأ معالجة النص من اليمين إلى اليسار باستثناء الأرقام وغيرها من الأحرف غير النصية."
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.facades/pdfextractor/isbidi/
 ---
-## خاصية PdfExtractor.IsBidi
+## PdfExtractor.IsBidi property
 
-تكون صحيحة عندما يحتوي النص على رموز عبرية أو عربية. يجب اعتبار هذه الحالة بشكل خاص لأن وظائف السلسلة تغير سلوكها وتبدأ في معالجة النص من اليمين إلى اليسار (باستثناء الأرقام وغيرها من الأحرف غير النصية).
+يكون صحيحًا عندما يحتوي النص على رموز عبرية أو عربية. يجب أخذ هذه الحالة في الاعتبار بشكل خاص لأن وظائف السلاسل تغير سلوكها وتبدأ معالجة النص من اليمين إلى اليسار (باستثناء الأرقام وغيرها من الأحرف غير النصية).
 
 ```csharp
 public bool IsBidi { get; }
@@ -19,3 +19,5 @@ public bool IsBidi { get; }
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

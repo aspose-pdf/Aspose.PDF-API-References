@@ -1,14 +1,14 @@
 ---
-title: Color.SandyBrown
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على لون معرف من النظام له قيمة ARGB تساوي c FFF4A460
+title: "Color.SandyBrown"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. تحصل على لون معرف بالنظام له قيمة ARGB c FFF4A460"
 type: docs
 weight: 1200
 url: /ar/net/aspose.pdf/color/sandybrown/
 ---
-## خاصية لون.بني رملي
+## Color.SandyBrown property
 
-تحصل على لون معرف من النظام له قيمة ARGB تساوي \c \#FFF4A460.
+يسترجع لونًا معرفًا من النظام له قيمة ARGB \c \#FFF4A460.
 
 ```csharp
 public static Color SandyBrown { get; }
@@ -16,10 +16,12 @@ public static Color SandyBrown { get; }
 
 ### قيمة الإرجاع
 
-يمثل لونًا معرفًا من النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

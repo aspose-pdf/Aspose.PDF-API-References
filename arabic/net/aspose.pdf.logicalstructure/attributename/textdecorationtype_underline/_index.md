@@ -1,14 +1,14 @@
 ---
-title: AttributeName.TextDecorationType_Underline
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. خاصية TextDecorationType Underline  خط تحت النص
+title: "AttributeName.TextDecorationType_Underline"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. السمة TextDecorationType Underline  خط تحت النص"
 type: docs
 weight: 620
 url: /ar/net/aspose.pdf.logicalstructure/attributename/textdecorationtype_underline/
 ---
-## حقل AttributeName.TextDecorationType_Underline
+## AttributeName.TextDecorationType_Underline field
 
-خاصية TextDecorationType: Underline - خط تحت النص.
+السمة TextDecorationType: Underline - خط تحت النص.
 
 ```csharp
 public static readonly AttributeName TextDecorationType_Underline;
@@ -19,3 +19,5 @@ public static readonly AttributeName TextDecorationType_Underline;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

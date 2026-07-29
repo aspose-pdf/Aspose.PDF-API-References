@@ -1,32 +1,34 @@
 ---
-title: OpenAIClient.GetChatCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIClient. تحصل على مثيل من IChatCopilot مع الخيارات المحددة
+title: "OpenAIClient.GetChatCopilot"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIClient. تحصل على نسخة من IChatCopilot مع الخيارات المحددة"
 type: docs
 weight: 210
 url: /ar/net/aspose.pdf.ai/openaiclient/getchatcopilot/
 ---
-## طريقة OpenAIClient.GetChatCopilot
+## OpenAIClient.GetChatCopilot method
 
-تحصل على مثيل من [`IChatCopilot`](../../ichatcopilot/) مع الخيارات المحددة.
+يحصل على نسخة من [`IChatCopilot`](../../ichatcopilot/) مع الخيارات المحددة.
 
 ```csharp
 public IChatCopilot GetChatCopilot(IChatCopilotOptions<OpenAIChatCopilotOptions> options)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| options | IChatCopilotOptions`1 | الخيارات لروبوت الدردشة. |
+| options | IChatCopilotOptions`1 | الخيارات للمساعد الدردشة. |
 
 ### قيمة الإرجاع
 
-مثيل من [`IChatCopilot`](../../ichatcopilot/).
+مثال على [`IChatCopilot`](../../ichatcopilot/).
 
 ### انظر أيضًا
 
-* واجهة [IChatCopilot](../../ichatcopilot/)
-* واجهة [IChatCopilotOptions&lt;TOptions&gt;](../../ichatcopilotoptions-1/)
-* فئة [OpenAIChatCopilotOptions](../../openaichatcopilotoptions/)
-* فئة [OpenAIClient](../)
-* مساحة الأسماء [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IChatCopilot](../../ichatcopilot/)
+* interface [IChatCopilotOptions&lt;TOptions&gt;](../../ichatcopilotoptions-1/)
+* class [OpenAIChatCopilotOptions](../../openaichatcopilotoptions/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

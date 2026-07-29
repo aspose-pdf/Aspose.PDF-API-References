@@ -1,14 +1,14 @@
 ---
-title: TabStop.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TabStop. تحصل على قيمة تشير إلى أن هذه النسخة من TabStop مرتبطة بالفعل بـ TextFragment وأصبحت للقراءة فقط
+title: "TabStop.IsReadOnly"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TabStop. تحصل على قيمة تشير إلى أن مثيل TabStop هذا مرتبط بالفعل بـ TextFragment وأصبح للقراءة فقط"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.text/tabstop/isreadonly/
 ---
-## خاصية TabStop.IsReadOnly
+## TabStop.IsReadOnly property
 
-تحصل على قيمة تشير إلى أن هذه [`TabStop`](../) مرتبطة بالفعل بـ [`TextFragment`](../../textfragment/) وأصبحت للقراءة فقط
+تحصل على قيمة تشير إلى أن مثيل [`TabStop`](../) هذا مرتبط بالفعل بـ [`TextFragment`](../../textfragment/) وأصبح للقراءة فقط
 
 ```csharp
 public bool IsReadOnly { get; }
@@ -19,3 +19,5 @@ public bool IsReadOnly { get; }
 * class [TabStop](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

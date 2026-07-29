@@ -1,14 +1,14 @@
 ---
-title: MarkdownSaveOptions.SubscriptAndSuperscriptConversion
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MarkdownSaveOptions. تحصل وتحدد السماح بتحويل النص السفلي والنص العلوي. هذه القيمة صحيحة بشكل افتراضي
+title: "MarkdownSaveOptions.SubscriptAndSuperscriptConversion"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MarkdownSaveOptions. يحصل أو يضبط السماح بتحويل النص السفلي والعلوي. هذه القيمة صحيحة بشكل افتراضي"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf/markdownsaveoptions/subscriptandsuperscriptconversion/
 ---
-## خاصية MarkdownSaveOptions.SubscriptAndSuperscriptConversion
+## MarkdownSaveOptions.SubscriptAndSuperscriptConversion property
 
-تحصل وتحدد السماح بتحويل النص السفلي والنص العلوي. هذه القيمة صحيحة بشكل افتراضي.
+يحصل أو يضبط السماح بتحويل النص السفلي والعلوي. هذه القيمة صحيحة بشكل افتراضي.
 
 ```csharp
 public bool SubscriptAndSuperscriptConversion { get; set; }
@@ -19,3 +19,5 @@ public bool SubscriptAndSuperscriptConversion { get; set; }
 * class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

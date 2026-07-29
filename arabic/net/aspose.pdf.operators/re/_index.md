@@ -1,14 +1,14 @@
 ---
-title: Class Re
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.Re. فئة تمثل مشغل re لإضافة مستطيل إلى المسار
+title: "الفئة Re"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Operators.Re. الفئة التي تمثل عامل re لإضافة مستطيل إلى المسار"
 type: docs
-weight: 7540
+weight: 7680
 url: /ar/net/aspose.pdf.operators/re/
 ---
-## فئة Re
+## Re class
 
-فئة تمثل مشغل re (إضافة مستطيل إلى المسار).
+الفئة التي تمثل المشغل re (إضافة مستطيل إلى المسار).
 
 ```csharp
 public class Re : Operator
@@ -18,29 +18,31 @@ public class Re : Operator
 
 | الاسم | الوصف |
 | --- | --- |
-| [Re](re/#constructor)() | يقوم بتهيئة المشغل. |
-| [Re](re/#constructor_1)(double, double, double, double) | يقوم بتهيئة المشغل. |
+| [Re](re/#constructor)() | يُهيئ العامل. |
+| [Re](re/#constructor_1)(double, double, double, double) | يُهيئ العامل. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
 | [Height](../../aspose.pdf.operators/re/height/) { get; set; } | ارتفاع المستطيل. |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
 | [Width](../../aspose.pdf.operators/re/width/) { get; set; } | عرض المستطيل. |
-| [X](../../aspose.pdf.operators/re/x/) { get; set; } | إحداثي X لأقصى الجانب الأيسر من المستطيل. |
-| [Y](../../aspose.pdf.operators/re/y/) { get; set; } | إحداثي Y للجانب السفلي من المستطيل. |
+| [X](../../aspose.pdf.operators/re/x/) { get; set; } | الإحداثي X لأكثر جانب أيسر من المستطيل. |
+| [Y](../../aspose.pdf.operators/re/y/) { get; set; } | الإحداثي Y للجانب السفلي من المستطيل. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/re/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf.operators/re/tostring/)() | يعيد تمثيل نصي للمشغل. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/re/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf.operators/re/tostring/)() | يعيد تمثيل النص للعامل. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
 ### انظر أيضًا
 
-* فئة [Operator](../../aspose.pdf/operator/)
-* مساحة الأسماء [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* التجميع [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

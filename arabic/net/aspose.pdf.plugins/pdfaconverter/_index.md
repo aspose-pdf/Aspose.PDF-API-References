@@ -1,54 +1,54 @@
 ---
-title: Class PdfAConverter
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.PdfAConverter. تمثل مكونًا للتعامل مع تحويل مستندات PDF إلى تنسيق PDF/A وللتحقق من توافق PDF/A
+title: "فئة PdfAConverter"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Plugins.PdfAConverter. تمثل إضافة لمعالجة تحويل مستندات PDF إلى تنسيق PDF/A وللتحقق من توافق PDF/A"
 type: docs
-weight: 9000
+weight: 9150
 url: /ar/net/aspose.pdf.plugins/pdfaconverter/
 ---
 ## PdfAConverter class
 
-تمثل مكونًا للتعامل مع تحويل مستندات PDF إلى تنسيق PDF/A وللتحقق من توافق PDF/A.
+يمثل ملحقًا لمعالجة تحويل مستندات PDF إلى تنسيق PDF/A وللتحقق من توافق PDF/A.
 
 ```csharp
 public sealed class PdfAConverter : IPlugin
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [PdfAConverter](pdfaconverter/)() | المُنشئ الافتراضي. |
+| [PdfAConverter](pdfaconverter/)() | البناء الافتراضي. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/pdfaconverter/process/)(IPluginOptions) | يبدأ عملية تحويل أو تحقق PDF/A مع الخيارات المعطاة. |
+| [Process](../../aspose.pdf.plugins/pdfaconverter/process/)(IPluginOptions) | يبدأ عملية تحويل أو تحقق PDF/A باستخدام الخيارات المحددة. |
 
-## Examples
+## أمثلة
 
-المثال يوضح كيفية التحقق من توافق مستند PDF مع تنسيق PDF/A (PDF/A-1a في هذه الحالة):
+يوضح المثال كيفية التحقق من توافق مستند PDF مع تنسيق PDF/A (PDF/A-1a في هذه الحالة):
 
 ```csharp
-// Create the options class to set up the validation process
+// إنشاء فئة الخيارات لإعداد عملية التحقق
 var options = new PdfAValidateOptions
 {
     PdfAVersion = PdfAStandardVersion.PDF_A_1A
 };
 
-// Add one or more files to be validated
+// إضافة ملف واحد أو أكثر للتحقق
 options.AddInput(new FileDataSource("path_to_your_first_pdf_file.pdf")); // replace with your actual file path
 options.AddInput(new FileDataSource("path_to_your_second_pdf_file.pdf"));
-// add more files as needed
+// أضف المزيد من الملفات حسب الحاجة
 
-// Create the plugin instance
+// إنشاء مثيل الإضافة
 var plugin = new PdfAConverter();
 
-// Run the validation and get results
+// تشغيل التحقق والحصول على النتائج
 var resultContainer = plugin.Process(options);
 
-// Check the resultContainer.ResultCollection property for validation results for each file:
+// تحقق من خاصية resultContainer.ResultCollection للحصول على نتائج التحقق لكل ملف:
 for (var i = 0; i < resultContainer.ResultCollection.Count; i++)
 {
     var result = resultContainer.ResultCollection[i];
@@ -57,30 +57,32 @@ for (var i = 0; i < resultContainer.ResultCollection.Count; i++)
 }
 ```
 
-المثال يوضح كيفية تحويل مستند PDF إلى تنسيق PDF/A (PDF/A-3b في هذه الحالة):
+يوضح المثال كيفية تحويل مستند PDF إلى تنسيق PDF/A (PDF/A-3b في هذه الحالة):
 
 ```csharp
-// Create the options class to set up the conversion process
+// إنشاء فئة الخيارات لإعداد عملية التحويل
 var options = new PdfAConvertOptions
 {
     PdfAVersion = PdfAStandardVersion.PDF_A_3B
 };
 
-// Add the source file
+// إضافة ملف المصدر
 options.AddInput(new FileDataSource("path_to_your_pdf_file.pdf")); // replace with your actual file path
 
-// Add the path to save the converted file
+// إضافة المسار لحفظ الملف المحول
 options.AddOutput(new FileDataSource("path_to_the_converted_file.pdf"));
 
-// Create the plugin instance
+// إنشاء مثيل الإضافة
 var plugin = new PdfAConverter();
 
-// Run the conversion
+// تشغيل التحويل
 plugin.Process(options);
 ```
 
-### See Also
+### انظر أيضًا
 
 * interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

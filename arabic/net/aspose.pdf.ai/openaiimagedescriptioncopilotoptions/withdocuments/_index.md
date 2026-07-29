@@ -1,28 +1,28 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIImageDescriptionCopilotOptions. تعيين مجموعة الوثائق لخيارات مساعد وصف الصورة
+title: "OpenAIImageDescriptionCopilotOptions.WithDocuments"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIImageDescriptionCopilotOptions. تُعيّن مجموعة المستندات لخيارات مساعد وصف الصورة"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withdocuments/
 ---
 ## WithDocuments(DocumentCollection) {#withdocuments}
 
-تعيين مجموعة الوثائق لخيارات مساعد وصف الصورة.
+يعيّن مجموعة المستندات لخيارات مساعد وصف الصورة.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithDocuments(DocumentCollection documentCollection)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| documentCollection | DocumentCollection | مجموعة الوثائق التي سيتم تعيينها. |
+| documentCollection | DocumentCollection | مجموعة المستندات المراد تحديدها. |
 
-### Return Value
+### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAIImageDescriptionCopilotOptions`](../).
+الحالة الحالية لـ [`OpenAIImageDescriptionCopilotOptions`](../).
 
-### See Also
+### انظر أيضًا
 
 * class [DocumentCollection](../../documentcollection/)
 * class [OpenAIImageDescriptionCopilotOptions](../)
@@ -33,21 +33,21 @@ public OpenAIImageDescriptionCopilotOptions WithDocuments(DocumentCollection doc
 
 ## WithDocuments(List&lt;PdfDocument&gt;) {#withdocuments_1}
 
-يضيف مستندات PDF متعددة إلى مجموعة الوثائق لخيارات مساعد وصف الصورة.
+يضيف عدة مستندات PDF إلى مجموعة المستندات لخيارات مساعد وصف الصورة.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pdfDocuments | List`1 | قائمة مستندات PDF التي سيتم إضافتها. |
+| pdfDocuments | List`1 | قائمة مستندات PDF للإضافة. |
 
-### Return Value
+### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAIImageDescriptionCopilotOptions`](../).
+الحالة الحالية لـ [`OpenAIImageDescriptionCopilotOptions`](../).
 
-### See Also
+### انظر أيضًا
 
 * class [PdfDocument](../../pdfdocument/)
 * class [OpenAIImageDescriptionCopilotOptions](../)
@@ -58,22 +58,24 @@ public OpenAIImageDescriptionCopilotOptions WithDocuments(List<PdfDocument> pdfD
 
 ## WithDocuments(List&lt;string&gt;) {#withdocuments_2}
 
-يضيف مسارات مستندات متعددة إلى مجموعة الوثائق لخيارات مساعد وصف الصورة.
+يضيف عدة مسارات مستندات إلى مجموعة المستندات لخيارات مساعد وصف الصورة.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithDocuments(List<string> filePaths)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| filePaths | List`1 | قائمة مسارات الملفات التي سيتم إضافتها. |
+| filePaths | List`1 | قائمة مسارات الملفات للإضافة. |
 
-### Return Value
+### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAIImageDescriptionCopilotOptions`](../).
+الحالة الحالية لـ [`OpenAIImageDescriptionCopilotOptions`](../).
 
-### See Also
+### انظر أيضًا
 
 * class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

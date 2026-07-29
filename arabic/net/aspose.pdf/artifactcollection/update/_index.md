@@ -1,22 +1,22 @@
 ---
-title: ArtifactCollection.Update
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ArtifactCollection. تحديث العنصر داخل المجموعة
+title: "ArtifactCollection.Update"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ArtifactCollection. تحديث العنصر داخل المجموعة"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf/artifactcollection/update/
 ---
-## طريقة ArtifactCollection.Update
+## ArtifactCollection.Update method
 
-تحديث العنصر داخل المجموعة.
+تحديث الأداة داخل المجموعة.
 
 ```csharp
 public void Update(Artifact artifact)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| artifact | Artifact | العنصر الذي سيتم تحديثه. |
+| قطعة | قطعة | العنصر الذي سيتم تحديثه. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public void Update(Artifact artifact)
 * class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

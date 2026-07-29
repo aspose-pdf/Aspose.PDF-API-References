@@ -1,33 +1,35 @@
 ---
-title: Class PdfJavaScriptStripper
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Facades.PdfJavaScriptStripper. فئة لإزالة جميع كود Java Script
+title: "الفئة PdfJavaScriptStripper"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Facades.PdfJavaScriptStripper. فئة لإزالة جميع شفرة Java Script"
 type: docs
-weight: 4580
+weight: 4700
 url: /ar/net/aspose.pdf.facades/pdfjavascriptstripper/
 ---
 ## PdfJavaScriptStripper class
 
-فئة لإزالة جميع كود Java Script.
+فئة لإزالة جميع شفرة Java Script.
 
 ```csharp
 public sealed class PdfJavaScriptStripper
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [PdfJavaScriptStripper](pdfjavascriptstripper/)() | المُنشئ الافتراضي. |
+| [PdfJavaScriptStripper](pdfjavascriptstripper/)() | البناء الافتراضي. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [Strip](../../aspose.pdf.facades/pdfjavascriptstripper/strip/#strip)(Stream, Stream) | إزالة Java Script من المستند. |
 | [Strip](../../aspose.pdf.facades/pdfjavascriptstripper/strip/#strip_1)(string, string) | إزالة Java Script من المستند. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: MovieAnnotation.Title
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MovieAnnotation. تحصل أو تعين عنوان تعليق الفيلم
+title: "MovieAnnotation.Title"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MovieAnnotation. تحصل أو تعيّن عنوان تعليق الفيلم"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.annotations/movieannotation/title/
 ---
-## خاصية MovieAnnotation.Title
+## MovieAnnotation.Title property
 
-تحصل أو تعين عنوان تعليق الفيلم.
+يحصل أو يعيّن عنوان التعليق التوضيحي للفيلم.
 
 ```csharp
 public string Title { get; set; }
@@ -19,3 +19,5 @@ public string Title { get; set; }
 * class [MovieAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

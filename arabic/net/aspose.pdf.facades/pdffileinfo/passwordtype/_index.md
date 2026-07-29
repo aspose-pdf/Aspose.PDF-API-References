@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.PasswordType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileInfo. تُرجع نوع كلمة المرور التي تم تمريرها لإنشاء مثيل PdfFileInfo. انظر القيم الممكنة في PasswordType. انتبه إلى أن مستند PDF يمكن فتحه باستخدام كل من كلمة مرور المستخدم أو كلمة المرور المفتوحة وكلمة مرور المالك كلمة المرور.
+title: "PdfFileInfo.PasswordType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileInfo. تُعيد نوع كلمة المرور التي تم تمريرها لإنشاء كائن PdfFileInfo. راجع القيم الممكنة في PasswordType. لاحظ أن مستند PDF يمكن فتحه باستخدام كل من كلمة مرور المستخدم أو الفتح وكلمة مرور المالك أو أذونات التحرير"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.facades/pdffileinfo/passwordtype/
 ---
-## خاصية PdfFileInfo.PasswordType
+## PdfFileInfo.PasswordType property
 
-تُرجع نوع كلمة المرور التي تم تمريرها لإنشاء مثيل PdfFileInfo. انظر القيم الممكنة في `PasswordType`. انتبه إلى أن مستند PDF يمكن فتحه باستخدام كل من كلمة مرور المستخدم (أو كلمة المرور المفتوحة) وكلمة مرور المالك (أو أذونات، تحرير) كلمة المرور.
+تُعيد نوع كلمة المرور التي تم تمريرها لإنشاء كائن PdfFileInfo. راجع القيم الممكنة في `PasswordType`. لاحظ أن مستند PDF يمكن فتحه باستخدام كل من كلمة مرور المستخدم (أو الفتح) وكلمة مرور المالك (أو الأذونات، التحرير).
 
 ```csharp
 public PasswordType PasswordType { get; }
@@ -20,3 +20,5 @@ public PasswordType PasswordType { get; }
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

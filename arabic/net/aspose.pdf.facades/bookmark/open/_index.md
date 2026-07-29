@@ -1,14 +1,14 @@
 ---
-title: Bookmark.Open
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الإشارة المرجعية. الحصول على حالة الإشارة المرجعية أو تعيينها
+title: "Bookmark.Open"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Bookmark. تحصل أو تعيين حالة الإشارة المفتوحة أو المغلقة"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.facades/bookmark/open/
 ---
-## خاصية Bookmark.Open
+## Bookmark.Open property
 
-الحصول على حالة الإشارة المرجعية أو تعيينها (فتح، إغلاق).
+يحصل أو يضبط حالة الإشارة المرجعية (مفتوحة، مغلقة).
 
 ```csharp
 public bool Open { get; set; }
@@ -19,3 +19,5 @@ public bool Open { get; set; }
 * class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

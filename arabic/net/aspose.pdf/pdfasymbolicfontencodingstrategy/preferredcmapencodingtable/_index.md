@@ -1,14 +1,14 @@
 ---
-title: PdfASymbolicFontEncodingStrategy.PreferredCmapEncodingTable
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfASymbolicFontEncodingStrategy. تحدد الجدول الفرعي الذي سيتم استخدامه بالأولوية على الجدول الفرعي mac subtable10. قيمة 'MacTable' من التعداد CMapEncodingTableType ليس لها معنى في هذه الحالة
+title: "PdfASymbolicFontEncodingStrategy.PreferredCmapEncodingTable"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfASymbolicFontEncodingStrategy. تحدد جدولًا فرعيًا سيُستخدم في أولوية على جدول mac الفرعي 10. القيمة MacTable من تعداد CMapEncodingTableType ليس لها معنى في هذه الحالة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/pdfasymbolicfontencodingstrategy/preferredcmapencodingtable/
 ---
-## خاصية PdfASymbolicFontEncodingStrategy.PreferredCmapEncodingTable
+## PdfASymbolicFontEncodingStrategy.PreferredCmapEncodingTable property
 
-تحدد الجدول الفرعي الذي سيتم استخدامه بالأولوية على الجدول الفرعي mac subtable(1,0). قيمة 'MacTable' من التعداد [`CMapEncodingTableType`](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) ليس لها معنى في هذه الحالة.
+تحدد جدولًا فرعيًا سيُستخدم في أولوية على جدول mac الفرعي (1,0). القيمة 'MacTable' من تعداد [`CMapEncodingTableType`](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) ليس لها معنى في هذه الحالة.
 
 ```csharp
 public CMapEncodingTableType PreferredCmapEncodingTable { get; set; }
@@ -16,7 +16,9 @@ public CMapEncodingTableType PreferredCmapEncodingTable { get; set; }
 
 ### انظر أيضًا
 
-* التعداد [CMapEncodingTableType](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/)
-* الفئة [PdfASymbolicFontEncodingStrategy](../)
-* مساحة الاسم [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* enum [CMapEncodingTableType](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/)
+* class [PdfASymbolicFontEncodingStrategy](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

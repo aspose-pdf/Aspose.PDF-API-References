@@ -1,14 +1,14 @@
 ---
-title: RunResponse.TruncationStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunResponse. تحصل أو تعين استراتيجية الاقتطاع التي تتحكم في كيفية اقتطاع خيط قبل التشغيل. استخدم هذا للتحكم في نافذة السياق الأولية للتشغيل
+title: "RunResponse.TruncationStrategy"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RunResponse. تحصل أو تعين استراتيجية القطع التي تتحكم في كيفية قطع الخيط قبل التنفيذ. استخدم ذلك للتحكم في نافذة السياق الأولية للتنفيذ"
 type: docs
 weight: 260
 url: /ar/net/aspose.pdf.ai/runresponse/truncationstrategy/
 ---
-## خاصية RunResponse.TruncationStrategy
+## RunResponse.TruncationStrategy property
 
-تحصل أو تعين استراتيجية الاقتطاع التي تتحكم في كيفية اقتطاع خيط قبل التشغيل. استخدم هذا للتحكم في نافذة السياق الأولية للتشغيل.
+الحصول أو تعيين استراتيجية القطع التي تتحكم في كيفية قطع الخيط قبل التنفيذ. استخدم هذا للتحكم في نافذة السياق الأولية للتنفيذ.
 
 ```csharp
 public TruncationStrategy TruncationStrategy { get; set; }
@@ -20,3 +20,5 @@ public TruncationStrategy TruncationStrategy { get; set; }
 * class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

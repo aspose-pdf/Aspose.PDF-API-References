@@ -1,50 +1,52 @@
 ---
-title: Class GraphInfo
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.GraphInfo. تمثل معلومات الرسوميات
+title: "فئة GraphInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.GraphInfo. تمثل معلومات الرسومات"
 type: docs
-weight: 5340
+weight: 5460
 url: /ar/net/aspose.pdf/graphinfo/
 ---
 ## GraphInfo class
 
-تمثل معلومات الرسوميات.
+يمثل معلومات الرسومات.
 
 ```csharp
 public sealed class GraphInfo : ICloneable
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [GraphInfo](graphinfo/)() | المُنشئ الافتراضي. |
+| [GraphInfo](graphinfo/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Color](../../aspose.pdf/graphinfo/color/) { get; set; } | يحصل أو يحدد كائن [`Color`](./color/) الذي يشير إلى لون الرسم البياني. |
-| [DashArray](../../aspose.pdf/graphinfo/dasharray/) { get; set; } | يحصل أو يحدد مصفوفة متقطعة. |
-| [DashPhase](../../aspose.pdf/graphinfo/dashphase/) { get; set; } | يحصل أو يحدد مرحلة متقطعة. |
-| [FillColor](../../aspose.pdf/graphinfo/fillcolor/) { get; set; } | يحصل أو يحدد كائن [`Color`](./color/) الذي يشير إلى لون التعبئة للرسم البياني. |
-| [IsDoubled](../../aspose.pdf/graphinfo/isdoubled/) { get; set; } | يحصل أو يحدد ما إذا كان الحد مزدوجًا. |
-| [LineWidth](../../aspose.pdf/graphinfo/linewidth/) { get; set; } | يحصل أو يحدد قيمة عائمة تشير إلى عرض خط الرسم البياني. |
-| [RotationAngle](../../aspose.pdf/graphinfo/rotationangle/) { get; set; } | يحصل أو يحدد قيمة عائمة تشير إلى زاوية الدوران لنظام الإحداثيات عند تحويل نظام الإحداثيات. |
-| [ScalingRateX](../../aspose.pdf/graphinfo/scalingratex/) { get; set; } | يحصل أو يحدد قيمة عائمة تشير إلى معدل التحجيم لإحداثي x عند تحويل نظام الإحداثيات. |
-| [ScalingRateY](../../aspose.pdf/graphinfo/scalingratey/) { get; set; } | يحصل أو يحدد قيمة عائمة تشير إلى معدل التحجيم لإحداثي y عند تحويل نظام الإحداثيات. |
-| [SkewAngleX](../../aspose.pdf/graphinfo/skewanglex/) { get; set; } | يحصل أو يحدد قيمة عائمة تشير إلى زاوية الميل لإحداثي x عند تحويل نظام الإحداثيات. |
-| [SkewAngleY](../../aspose.pdf/graphinfo/skewangley/) { get; set; } | يحصل أو يحدد قيمة عائمة تشير إلى زاوية الميل لإحداثي y عند تحويل نظام الإحداثيات. |
-| [X](../../aspose.pdf/graphinfo/x/) { get; } | استرجاع إحداثي X لحد عمودي عند استخدام TableAbsorber، وإرجاع "-1" لحد أفقي. |
-| [Y](../../aspose.pdf/graphinfo/y/) { get; } | استرجاع إحداثي Y لحد أفقي عند استخدام TableAbsorber، وإرجاع "-1" لحد عمودي. |
+| [Color](../../aspose.pdf/graphinfo/color/) { get; set; } | يحصل أو يعيّن كائن [`Color`](./color/) الذي يشير إلى لون الرسم. |
+| [DashArray](../../aspose.pdf/graphinfo/dasharray/) { get; set; } | يحصل أو يعيّن مصفوفة الشرطات. |
+| [DashPhase](../../aspose.pdf/graphinfo/dashphase/) { get; set; } | يحصل أو يعيّن مرحلة الشرط. |
+| [FillColor](../../aspose.pdf/graphinfo/fillcolor/) { get; set; } | يحصل أو يعيّن كائن [`Color`](./color/) الذي يشير إلى لون التعبئة للرسم. |
+| [IsDoubled](../../aspose.pdf/graphinfo/isdoubled/) { get; set; } | يحصل أو يعيّن ما إذا كان الحد مزدوجًا. |
+| [LineWidth](../../aspose.pdf/graphinfo/linewidth/) { get; set; } | يحصل أو يعيّن قيمة عائمة تشير إلى عرض الخط في الرسم. |
+| [RotationAngle](../../aspose.pdf/graphinfo/rotationangle/) { get; set; } | يحصل أو يعيّن قيمة عائمة تشير إلى زاوية الدوران لنظام الإحداثيات عند تحويل نظام الإحداثيات. |
+| [ScalingRateX](../../aspose.pdf/graphinfo/scalingratex/) { get; set; } | يحصل أو يعيّن قيمة عائمة تشير إلى معدل التحجيم للإحداثي x عند تحويل نظام الإحداثيات. |
+| [ScalingRateY](../../aspose.pdf/graphinfo/scalingratey/) { get; set; } | يحصل أو يعيّن قيمة عائمة تشير إلى معدل التحجيم للإحداثي y عند تحويل نظام الإحداثيات. |
+| [SkewAngleX](../../aspose.pdf/graphinfo/skewanglex/) { get; set; } | يحصل أو يعيّن قيمة عائمة تشير إلى زاوية الانحراف للإحداثي x عند تحويل نظام الإحداثيات. |
+| [SkewAngleY](../../aspose.pdf/graphinfo/skewangley/) { get; set; } | يحصل أو يعيّن قيمة عائمة تشير إلى زاوية الانحراف للإحداثي y عند تحويل نظام الإحداثيات. |
+| [X](../../aspose.pdf/graphinfo/x/) { get; } | استرجع إحداثي X للحد العمودي عند استخدام TableAbsorber، وأرجع "-1" للحد الأفقي. |
+| [Y](../../aspose.pdf/graphinfo/y/) { get; } | استرجع إحداثي Y للحد الأفقي عند استخدام TableAbsorber، وأرجع "-1" للحد العمودي. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Clone](../../aspose.pdf/graphinfo/clone/)() | استنساخ معلومات الرسوميات. |
+| [Clone](../../aspose.pdf/graphinfo/clone/)() | استنساخ معلومات الرسومات. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,20 +1,20 @@
 ---
-title: PDF3DLightingScheme.Type
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PDF3DLightingScheme. تحصل على نوع مخطط الإضاءة
+title: "PDF3DLightingScheme.Type"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PDF3DLightingScheme. تسترجع نوع مخطط الإضاءة"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.annotations/pdf3dlightingscheme/type/
 ---
-## خاصية PDF3DLightingScheme.Type
+## PDF3DLightingScheme.Type property
 
-تحصل على نوع مخطط الإضاءة.
+يحصل على نوع مخطط الإضاءة.
 
 ```csharp
 public LightingSchemeType Type { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 نوع مخطط الإضاءة.
 
@@ -24,3 +24,5 @@ public LightingSchemeType Type { get; }
 * class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

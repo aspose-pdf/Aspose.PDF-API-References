@@ -1,9 +1,9 @@
 ---
-title: Enum TextEditOptions.LanguageTransformation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextEditOptionsLanguageTransformation enum. أوضاع تحويل اللغة
+title: "التعداد TextEditOptions.LanguageTransformation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.Text.TextEditOptionsLanguageTransformation. أوضاع تحويل اللغة."
 type: docs
-weight: 10850
+weight: 11030
 url: /ar/net/aspose.pdf.text/texteditoptions.languagetransformation/
 ---
 ## TextEditOptions.LanguageTransformation enumeration
@@ -14,16 +14,18 @@ url: /ar/net/aspose.pdf.text/texteditoptions.languagetransformation/
 public enum LanguageTransformation
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | Default | `0` | يتم تنفيذ تحويل اللغة الافتراضي. |
-| ExactlyAsISee | `1` | يتم تنفيذ تحويل اللغة بنفس الطريقة كما في محرر النصوص. عادةً ما يعني أن النص سيظهر في الوثيقة تمامًا كما تراه في الكود. ولكن لا توجد ضمانات. |
-| None | `2` | لا يتم تنفيذ تحويل اللغة. |
+| ExactlyAsISee | `1` | يتم تنفيذ تحويل اللغة بنفس طريقة محرر النصوص. عادةً يعني أن النص سيظهر في المستند تمامًا كما تراه في الشيفرة. لكن لا توجد أي ضمانات. |
+| None | `2` | لم يتم تنفيذ تحويل اللغة. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextEditOptions](../texteditoptions/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

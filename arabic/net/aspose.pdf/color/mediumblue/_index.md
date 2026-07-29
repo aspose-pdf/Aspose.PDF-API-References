@@ -1,14 +1,14 @@
 ---
-title: Color.MediumBlue
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على لون معرف من النظام له قيمة ARGB تساوي c FF0000CD
+title: "Color.MediumBlue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. يسترجع لونًا معرفًا بالنظام له قيمة ARGB بقيمة c FF0000CD"
 type: docs
 weight: 840
 url: /ar/net/aspose.pdf/color/mediumblue/
 ---
-## خاصية Color.MediumBlue
+## Color.MediumBlue property
 
-تحصل على لون معرف من النظام له قيمة ARGB تساوي \c \#FF0000CD.
+يحصل على لون معرف من النظام له قيمة ARGB \c \#FF0000CD.
 
 ```csharp
 public static Color MediumBlue { get; }
@@ -16,10 +16,12 @@ public static Color MediumBlue { get; }
 
 ### قيمة الإرجاع
 
-يمثل لونًا معرفًا من النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

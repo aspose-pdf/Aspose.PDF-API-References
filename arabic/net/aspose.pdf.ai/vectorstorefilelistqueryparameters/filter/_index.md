@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileListQueryParameters.Filter
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية VectorStoreFileListQueryParameters. تحصل أو تعين فلتر حسب حالة الملف. واحدة من in_progress completed failed cancelled
+title: "VectorStoreFileListQueryParameters.Filter"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "VectorStoreFileListQueryParameters خاصية. يحصل أو يعيّن مرشحًا حسب حالة الملف. أحد القيم: in_progress completed failed cancelled"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/vectorstorefilelistqueryparameters/filter/
 ---
-## خاصية VectorStoreFileListQueryParameters.Filter
+## VectorStoreFileListQueryParameters.Filter property
 
-تحصل أو تعين فلتر حسب حالة الملف. واحدة من in_progress, completed, failed, cancelled.
+يحصل أو يعيّن مرشحًا حسب حالة الملف. أحد القيم: in_progress، completed، failed، cancelled.
 
 ```csharp
 public string Filter { get; set; }
@@ -19,3 +19,5 @@ public string Filter { get; set; }
 * class [VectorStoreFileListQueryParameters](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

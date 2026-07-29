@@ -1,14 +1,14 @@
 ---
-title: Class XpsLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.XpsLoadOptions. تمثل الخيارات لتحميل/استيراد ملف xps إلى مستند pdf
+title: "الفئة XpsLoadOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.XpsLoadOptions. تمثل خيارات تحميل/استيراد ملف xps إلى مستند pdf"
 type: docs
-weight: 11510
+weight: 11700
 url: /ar/net/aspose.pdf/xpsloadoptions/
 ---
-## فئة XpsLoadOptions
+## XpsLoadOptions class
 
-تمثل الخيارات لتحميل/استيراد ملف xps إلى مستند pdf.
+يمثل خيارات تحميل/استيراد ملف xps إلى مستند pdf.
 
 ```csharp
 public sealed class XpsLoadOptions : LoadOptions, IPipelineOptions
@@ -18,38 +18,38 @@ public sealed class XpsLoadOptions : LoadOptions, IPipelineOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [XpsLoadOptions](xpsloadoptions/)() | المنشئ الافتراضي. |
+| [XpsLoadOptions](xpsloadoptions/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [BatchSize](../../aspose.pdf/xpsloadoptions/batchsize/) { get; set; } | يحدد حجم الدفعة إذا كان التحويل المجمع قابلًا للتطبيق على زوج تنسيقات المصدر والوجهة. |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | يحصل أو يحدد علامة لتعطيل أي قيود ترخيص لجميع الخطوط أثناء تحميل الملف. عندما تكون القيمة `true`، يسمح بتنفيذ العمليات مع الخطوط التي يحظرها ترخيص هذا الخط، على سبيل المثال يسمح بإدراج خط في مستند PDF حتى لو كانت قواعد الترخيص تعطل الإدراج لهذا الخط. بشكل افتراضي `false`. |
+| [BatchSize](../../aspose.pdf/xpsloadoptions/batchsize/) { get; set; } | يحدد حجم الدفعة إذا كان التحويل المجمع قابلًا للتطبيق على زوج صيغ المصدر والوجهة. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | يحصل أو يعيّن العلامة لتعطيل أي قيود ترخيص على جميع الخطوط أثناء تحميل الملف. عندما تكون `true`، يسمح بتنفيذ عمليات باستخدام خط محظور بموجب ترخيص هذا الخط، على سبيل المثال يسمح بتضمين خط في مستند PDF حتى إذا كانت قواعد الترخيص تمنع التضمين لهذا الخط. القيمة الافتراضية هي `false`. |
 | [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | يمثل تنسيق الملف الذي تصفه [`LoadOptions`](../loadoptions/). |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | رد نداء لمعالجة أي تحذيرات تم إنشاؤها. يعيد WarningHandler عنصر تعداد ReturnAction يحدد إما Continue أو Abort. Continue هو الإجراء الافتراضي وتستمر عملية التحميل، ومع ذلك يمكن للمستخدم أيضًا إرجاع Abort وفي هذه الحالة يجب أن تتوقف عملية التحميل. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | استدعاء رد نداء للتعامل مع أي تحذيرات تم إنشاؤها. يُعيد WarningHandler عنصر من تعداد ReturnAction يحدد إما Continue أو Abort. Continue هو الإجراء الافتراضي وتستمر عملية التحميل، ومع ذلك قد يُعيد المستخدم Abort في هذه الحالة يجب أن تتوقف عملية التحميل. |
 
 ## أمثلة
 
-يوضح المثال التالي كيفية تحويل ملف XPS إلى ملف PDF
+المثال التالي يوضح كيفية تحويل ملف XPS إلى ملف PDF
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// المسار إلى دليل المستندات.
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your XPS File.
+	// المسار إلى ملف XPS الخاص بك.
 	string xpsFile = Path.Combine(dataDir, "XPS-to-PDF.xps");
 
-	// The path to output PDF File.
+	// المسار إلى ملف PDF الناتج.
 	string pdfFile = Path.Combine(dataDir, "XPS-to-PDF.pdf");
 
-	// Initialize XpsLoadOptions	
+	// تهيئة XpsLoadOptions	
 	XpsLoadOptions xpsLoadOptions = new XpsLoadOptions();
 		
 	using (Document pdfDocument = new Document(xpsFile, xpsLoadOptions)){
 	 
-		// Save PDF file
+		// حفظ ملف PDF
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -78,7 +78,9 @@ public sealed class XpsLoadOptions : LoadOptions, IPipelineOptions
 
 ### انظر أيضًا
 
-* فئة [LoadOptions](../loadoptions/)
-* واجهة [IPipelineOptions](../ipipelineoptions/)
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* class [LoadOptions](../loadoptions/)
+* interface [IPipelineOptions](../ipipelineoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

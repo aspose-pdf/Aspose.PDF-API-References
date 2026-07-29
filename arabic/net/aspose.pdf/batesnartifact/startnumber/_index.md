@@ -1,14 +1,14 @@
 ---
-title: BatesNArtifact.StartNumber
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BatesNArtifact. تحصل أو تعين الرقم الابتدائي لترقيم Bates. يجب أن تكون القيمة أكبر من أو تساوي 1. إذا تم تعيين قيمة أقل من 1، فسيتم تعديلها إلى 1
+title: "BatesNArtifact.StartNumber"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BatesNArtifact. تحصل أو تعين الرقم الابتدائي لترقيم Bates. يجب أن تكون القيمة أكبر من أو تساوي 1. إذا تم تعيين قيمة أقل من 1 فستُضبط إلى 1"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/batesnartifact/startnumber/
 ---
-## خاصية BatesNArtifact.StartNumber
+## BatesNArtifact.StartNumber property
 
-تحصل أو تعين الرقم الابتدائي لترقيم Bates. يجب أن تكون القيمة أكبر من أو تساوي 1. إذا تم تعيين قيمة أقل من 1، فسيتم تعديلها إلى 1.
+يحصل أو يعيّن الرقم الابتدائي لتعداد Bates. يجب أن تكون القيمة أكبر من أو تساوي 1. إذا تم تعيين قيمة أقل من 1، سيتم تعديلها إلى 1.
 
 ```csharp
 public int StartNumber { get; set; }
@@ -19,3 +19,5 @@ public int StartNumber { get; set; }
 * class [BatesNArtifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

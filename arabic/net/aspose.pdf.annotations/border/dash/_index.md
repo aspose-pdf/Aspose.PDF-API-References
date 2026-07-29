@@ -1,14 +1,14 @@
 ---
-title: Border.Dash
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الحدود. تحصل أو تعين نمط الخط المنقط
+title: "Border.Dash"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Border. يحصل أو يضبط نمط الخط المتقطع"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/border/dash/
 ---
-## خاصية Border.Dash
+## Border.Dash property
 
-تحصل أو تعين نمط الخط المنقط.
+يحصل أو يعيّن نمط الخط المتقطع.
 
 ```csharp
 public Dash Dash { get; set; }
@@ -20,3 +20,5 @@ public Dash Dash { get; set; }
 * class [Border](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

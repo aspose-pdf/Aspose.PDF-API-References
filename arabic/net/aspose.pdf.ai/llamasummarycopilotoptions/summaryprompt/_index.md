@@ -1,14 +1,14 @@
 ---
-title: LlamaSummaryCopilotOptions.SummaryPrompt
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LlamaSummaryCopilotOptions. تحصل أو تعين الموجه لإرشاد النموذج لتقديم ملخص الوثيقة
+title: "LlamaSummaryCopilotOptions.SummaryPrompt"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LlamaSummaryCopilotOptions. تحصّل أو تعيّن الموجه لتوجيه النموذج لتقديم ملخص للوثيقة."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/llamasummarycopilotoptions/summaryprompt/
 ---
-## خاصية LlamaSummaryCopilotOptions.SummaryPrompt
+## LlamaSummaryCopilotOptions.SummaryPrompt property
 
-تحصل أو تعين الموجه لإرشاد النموذج لتقديم ملخص الوثيقة.
+يحصل أو يعيّن المطالبة لتوجيه النموذج لتوفير ملخص المستند.
 
 ```csharp
 public string SummaryPrompt { get; set; }
@@ -19,3 +19,5 @@ public string SummaryPrompt { get; set; }
 * class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Page.Duration
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصفحة. تحصل على مدة عرض الصفحة المحددة. هذه هي المدة بالثواني التي يجب عرض الصفحة خلالها أثناء العرض التقديمي. تعيد 1 إذا لم يتم تعريف المدة
+title: "Page.Duration"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Page. تحصل أو تعين مدة عرض الصفحة. هذه هي الوقت بالثواني التي يجب عرض الصفحة خلالها أثناء العرض. تُعيد 1 إذا لم تُحدد المدة."
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf/page/duration/
 ---
-## خاصية Page.Duration
+## Page.Duration property
 
-تحصل على مدة عرض الصفحة المحددة. هذه هي المدة بالثواني التي يجب عرض الصفحة خلالها أثناء العرض التقديمي. تعيد -1 إذا لم يتم تعريف المدة.
+يحصل أو يضبط مدة عرض الصفحة. هذه هي الوقت بالثواني التي يجب عرض الصفحة خلالها أثناء العرض. يُرجع -1 إذا لم يتم تعريف المدة.
 
 ```csharp
 public double Duration { get; set; }
@@ -16,7 +16,7 @@ public double Duration { get; set; }
 
 ## أمثلة
 
-المثال يوضح كيفية الحصول على مدة الصفحة
+يوضح المثال كيفية الحصول على مدة الصفحة
 
 ```csharp
 Document document = new Document("sample.pdf");
@@ -29,3 +29,5 @@ int pageRect = page.Duration;
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

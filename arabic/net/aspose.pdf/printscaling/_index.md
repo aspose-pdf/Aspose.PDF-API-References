@@ -1,27 +1,29 @@
 ---
-title: Enum PrintScaling
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PrintScaling enum. خيار تغيير حجم الصفحة الذي يجب اختياره عند عرض مربع حوار الطباعة لهذا المستند
+title: "التعداد PrintScaling"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.PrintScaling. خيار تحجيم الصفحة الذي يجب اختياره عندما يتم عرض مربع حوار الطباعة لهذا المستند."
 type: docs
-weight: 9510
+weight: 9660
 url: /ar/net/aspose.pdf/printscaling/
 ---
 ## PrintScaling enumeration
 
-خيار تغيير حجم الصفحة الذي يجب اختياره عند عرض مربع حوار الطباعة لهذا المستند.
+خيار تحجيم الصفحة الذي يجب اختياره عندما يتم عرض مربع حوار الطباعة لهذا المستند.
 
 ```csharp
 public enum PrintScaling
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| AppDefault | `0` | الحجم الافتراضي للطباعة للقارئ المتوافق. |
-| None | `1` | لا يوجد تغيير في حجم الصفحة. |
+| AppDefault | `0` | تحجيم الطباعة الافتراضي للقارئ المتوافق. |
+| None | `1` | بدون تحجيم للصفحة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

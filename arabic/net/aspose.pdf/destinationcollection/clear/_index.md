@@ -1,14 +1,14 @@
 ---
-title: DestinationCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة DestinationCollection. المجموعة للقراءة فقط. دائمًا ما ترمي استثناء NotSupportedException
+title: "DestinationCollection.Clear"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة DestinationCollection. المجموعة للقراءة فقط. دائمًا تُثير استثناء NotSupportedException"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/destinationcollection/clear/
 ---
-## طريقة DestinationCollection.Clear
+## DestinationCollection.Clear method
 
-المجموعة للقراءة فقط. دائمًا ما ترمي استثناء NotSupportedException.
+المجموعة للقراءة فقط. دائمًا يُطلق استثناء NotSupportedException.
 
 ```csharp
 public void Clear()
@@ -19,3 +19,5 @@ public void Clear()
 * class [DestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

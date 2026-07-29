@@ -1,14 +1,14 @@
 ---
-title: CollectionItem.AllNames
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CollectionItem. تحصل على مجموعة من جميع أسماء قيم عناصر المجموعة
+title: "CollectionItem.AllNames"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CollectionItem. يحصل على مجموعة من جميع أسماء قيم عنصر المجموعة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/collectionitem/allnames/
 ---
-## خاصية CollectionItem.AllNames
+## CollectionItem.AllNames property
 
-تحصل على مجموعة من جميع أسماء قيم عناصر المجموعة.
+يحصل على مجموعة بجميع أسماء قيم عنصر المجموعة.
 
 ```csharp
 public ICollection<string> AllNames { get; }
@@ -19,3 +19,5 @@ public ICollection<string> AllNames { get; }
 * class [CollectionItem](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

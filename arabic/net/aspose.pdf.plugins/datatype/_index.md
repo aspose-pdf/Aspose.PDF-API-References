@@ -1,14 +1,14 @@
 ---
-title: Enum DataType
-second_title: Aspose.PDF for .NET API Reference
-description: تعداد Aspose.Pdf.Plugins.DataType. يمثل الأنواع الممكنة من البيانات لمعالجة المكونات الإضافية
+title: "التعداد DataType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Plugins.DataType التعداد. يمثل أنواع البيانات الممكنة لمعالجة الإضافات."
 type: docs
-weight: 8510
+weight: 8640
 url: /ar/net/aspose.pdf.plugins/datatype/
 ---
-## تعداد DataType
+## DataType enumeration
 
-يمثل الأنواع الممكنة من البيانات لمعالجة المكونات الإضافية.
+يمثل الأنواع الممكنة للبيانات لمعالجة الملحق.
 
 ```csharp
 public enum DataType
@@ -18,10 +18,12 @@ public enum DataType
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| ملف | `0` | نوع البيانات هو ملف ممثل بواسطة المسار إليه. |
-| تدفق | `1` | نوع البيانات هو تدفق. |
+| File | `0` | نوع البيانات هو ملف يُمثَّل بالمسار إلىه. |
+| Stream | `1` | نوع البيانات هو تدفق. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

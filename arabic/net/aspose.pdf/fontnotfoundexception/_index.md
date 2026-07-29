@@ -1,29 +1,31 @@
 ---
-title: Class FontNotFoundException
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.FontNotFoundException. الاستثناء الذي يتم رميه عندما لا يتم العثور على خط
+title: "الفئة FontNotFoundException"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.FontNotFoundException. الاستثناء الذي يُرمى عندما لا يتم العثور على خط."
 type: docs
-weight: 4900
+weight: 5020
 url: /ar/net/aspose.pdf/fontnotfoundexception/
 ---
 ## FontNotFoundException class
 
-الاستثناء الذي يتم رميه عندما لا يتم العثور على خط.
+الاستثناء الذي يُرمى عندما لا يتم العثور على الخط.
 
 ```csharp
 public sealed class FontNotFoundException : PdfException
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [FontNotFoundException](fontnotfoundexception/#constructor)(Exception) | Initializes a new instance of the `FontNotFoundException` class with a reference to the inner exception that is the cause of this exception. |
-| [FontNotFoundException](fontnotfoundexception/#constructor_1)(string) | Initializes a new instance of the `FontNotFoundException` class. |
-| [FontNotFoundException](fontnotfoundexception/#constructor_2)(string, Exception) | Initializes a new instance of the `FontNotFoundException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [FontNotFoundException](fontnotfoundexception/#constructor)(Exception) | يُنشئ مثيلاً جديدًا من الفئة `FontNotFoundException` مع إشارة إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء. |
+| [FontNotFoundException](fontnotfoundexception/#constructor_1)(string) | يُنشئ مثيلاً جديدًا من الفئة `FontNotFoundException`. |
+| [FontNotFoundException](fontnotfoundexception/#constructor_2)(string, Exception) | يُنشئ مثيلاً جديدًا من الفئة `FontNotFoundException` برسالة خطأ محددة وإشارة إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfException](../pdfexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

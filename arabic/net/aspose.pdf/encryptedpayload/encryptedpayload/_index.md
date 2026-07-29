@@ -1,22 +1,22 @@
 ---
-title: EncryptedPayload.EncryptedPayload
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ EncryptedPayload. تهيئة مثيل الحمولة المشفرة
+title: "EncryptedPayload.EncryptedPayload"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ EncryptedPayload. تهيئة نسخة من الحمولة المشفرة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/encryptedpayload/encryptedpayload/
 ---
-## مُنشئ EncryptedPayload
+## EncryptedPayload constructor
 
-تهيئة مثيل الحمولة المشفرة.
+تهيئة مثال الحمولة المشفرة.
 
 ```csharp
 public EncryptedPayload(FileSpecification fileSpecification)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fileSpecification | FileSpecification | مواصفة الملف المستخدمة للتهيئة. |
+| fileSpecification | FileSpecification | ملف المواصفات المستخدم للتهيئة. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public EncryptedPayload(FileSpecification fileSpecification)
 * class [EncryptedPayload](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

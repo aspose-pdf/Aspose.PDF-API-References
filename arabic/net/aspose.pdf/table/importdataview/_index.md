@@ -1,31 +1,33 @@
 ---
-title: Table.ImportDataView
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الجدول. تستورد بيانات كائن DataView إلى الجدول
+title: "Table.ImportDataView"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Table. تستورد بيانات كائن DataView إلى الجدول"
 type: docs
 weight: 270
 url: /ar/net/aspose.pdf/table/importdataview/
 ---
-## طريقة Table.ImportDataView
+## Table.ImportDataView method
 
-تستورد بيانات كائن DataView إلى الجدول.
+يستورد بيانات كائن DataView إلى الجدول.
 
 ```csharp
 public void ImportDataView(DataView sourceDataView, bool isColumnNamesImported, int firstFilledRow, 
     int firstFilledColumn, int maxRows, int maxColumns)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| sourceDataView | DataView | كائن DataView الذي سيتم استيراده. |
-| isColumnNamesImported | Boolean | يشير إلى ما إذا كانت أسماء الأعمدة ستستورد كأول صف. |
-| firstFilledRow | Int32 | رقم الصف المعتمد على الصفر للخلية الأولى في الجدول المستهدف الذي سيبدأ منه الاستيراد. إذا لم يحتوي الجدول المستهدف على ذلك الصف، فسيتم إنشاؤه (وكل الصفوف السابقة إذا لزم الأمر) |
-| firstFilledColumn | Int32 | رقم العمود المعتمد على الصفر للخلية الأولى في الجدول المستهدف الذي سيبدأ منه الاستيراد. يجب أن يحتوي الجدول المستهدف على ذلك العمود قبل بدء الاستيراد، وإلا سيتم طرح استثناء. |
+| sourceDataView | DataView | كائن DataView المراد استيراده. |
+| isColumnNamesImported | Boolean | يشير إلى ما إذا كانت أسماء الأعمدة ستُستورد كصف أول. |
+| firstFilledRow | Int32 | رقم الصف المستند إلى الصفر للخلية الأولى في الجدول targer الذي سيبدأ منه الاستيراد. إذا لم يحتوي الجدول الهدف على ذلك الصف، فسيتم إنشاؤه (مع جميع الصفوف السابقة إذا لزم الأمر). |
+| firstFilledColumn | Int32 | رقم العمود الصفري للخلية الأولى في الجدول الهدف الذي سيبدأ منه الاستيراد. يجب أن يحتوي الجدول الهدف على ذلك العمود قبل بدء الاستيراد، وإلا سيتم رمي استثناء. |
 | maxRows | Int32 | الحد الأقصى لعدد الصفوف التي سيتم استيرادها من DataView المصدر. |
-| maxColumns | Int32 | الحد الأقصى للأعمدة التي سيتم استيرادها من DataView المصدر. |
+| maxColumns | Int32 | الحد الأقصى لعدد الأعمدة التي سيتم استيرادها من DataView المصدر. |
 
 ### انظر أيضًا
 
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

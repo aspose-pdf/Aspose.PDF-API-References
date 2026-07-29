@@ -1,14 +1,14 @@
 ---
-title: PrinterSettings.ToPage
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PrinterSettings. تحصل أو تعين الصفحة الأخيرة للطباعة
+title: "PrinterSettings.ToPage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PrinterSettings. تحصل أو تعيين الصفحة الأخيرة للطباعة."
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.printing/printersettings/topage/
 ---
-## خاصية PrinterSettings.ToPage
+## PrinterSettings.ToPage property
 
-تحصل أو تعين الصفحة الأخيرة للطباعة.
+يحصل أو يعيّن الصفحة الأخيرة للطباعة.
 
 ```csharp
 public int ToPage { get; set; }
@@ -19,3 +19,5 @@ public int ToPage { get; set; }
 * class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

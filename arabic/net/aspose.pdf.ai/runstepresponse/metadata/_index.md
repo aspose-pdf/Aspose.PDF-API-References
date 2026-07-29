@@ -1,14 +1,14 @@
 ---
-title: RunStepResponse.Metadata
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunStepResponse. تحصل أو تعين مجموعة من 16 زوج مفتاح-قيمة يمكن إرفاقها بكائن. يمكن أن يكون هذا مفيدًا لتخزين معلومات إضافية حول الكائن بتنسيق منظم. يمكن أن تكون المفاتيح بطول أقصى 64 حرفًا والقيم بطول أقصى 512 حرفًا.
+title: "RunStepResponse.Metadata"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RunStepResponse. تحصل أو تعيين مجموعة من 16 زوجًا من المفتاح والقيمة يمكن إرفاقها بكائن. يمكن أن يكون ذلك مفيدًا لتخزين معلومات إضافية حول الكائن بتنسيق منظم. يمكن أن تكون المفاتيح بحد أقصى 64 حرفًا والقيم بحد أقصى 512 حرفًا"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.ai/runstepresponse/metadata/
 ---
-## خاصية RunStepResponse.Metadata
+## RunStepResponse.Metadata property
 
-تحصل أو تعين مجموعة من 16 زوج مفتاح-قيمة يمكن إرفاقها بكائن. يمكن أن يكون هذا مفيدًا لتخزين معلومات إضافية حول الكائن بتنسيق منظم. يمكن أن تكون المفاتيح بطول أقصى 64 حرفًا والقيم بطول أقصى 512 حرفًا.
+يتم الحصول على أو تعيين مجموعة من 16 زوجًا من المفتاح والقيمة يمكن إرفاقها بكائن. يمكن أن يكون ذلك مفيدًا لتخزين معلومات إضافية حول الكائن بتنسيق منظم. يمكن أن تكون المفاتيح بحد أقصى 64 حرفًا والقيم بحد أقصى 512 حرفًا.
 
 ```csharp
 public Dictionary<string, string> Metadata { get; set; }
@@ -19,3 +19,5 @@ public Dictionary<string, string> Metadata { get; set; }
 * class [RunStepResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

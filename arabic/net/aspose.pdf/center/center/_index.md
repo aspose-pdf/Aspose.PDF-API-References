@@ -1,14 +1,14 @@
 ---
-title: Center.Center
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ Center. المُنشئ الافتراضي
+title: "Center.Center"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Center منشئ. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/center/center/
 ---
-## مُنشئ Center
+## Center constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public Center()
@@ -19,3 +19,5 @@ public Center()
 * class [Center](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AttributeName.BorderStyle_Inset
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. نمط الحدود Attribute BorderStyle Inset  تجعل الحدود المربع بالكامل يبدو كما لو كان مدمجًا في القماش
+title: "AttributeName.BorderStyle_Inset"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. السمة BorderStyle Inset  يجعل الحد الصندوق بأكمله يبدو وكأنه مدمج في اللوحة"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.logicalstructure/attributename/borderstyle_inset/
 ---
-## حقل AttributeName.BorderStyle_Inset
+## AttributeName.BorderStyle_Inset field
 
-Attribute BorderStyle: Inset - تجعل الحدود المربع بالكامل يبدو كما لو كان مدمجًا في القماش.
+السمة BorderStyle: Inset - يجعل الحد الصندوق بأكمله يبدو كما لو أنه مدمج في القماش.
 
 ```csharp
 public static readonly AttributeName BorderStyle_Inset;
@@ -19,3 +19,5 @@ public static readonly AttributeName BorderStyle_Inset;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

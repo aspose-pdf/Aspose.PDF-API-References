@@ -1,26 +1,26 @@
 ---
-title: Form.GetFieldType
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. تعيد نوع الحقل
+title: "Form.GetFieldType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. تُرجع نوع الحقل"
 type: docs
 weight: 240
 url: /ar/net/aspose.pdf.facades/form/getfieldtype/
 ---
-## طريقة Form.GetFieldType
+## Form.GetFieldType method
 
-تعيد نوع الحقل.
+يعيد نوع الحقل.
 
 ```csharp
 public FieldType GetFieldType(string fieldName)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fieldName | سلسلة | اسم الحقل. |
+| fieldName | String | اسم الحقل. |
 
 ### قيمة الإرجاع
 
-عنصر من تعداد FileType يتوافق مع نوع الحقل.
+عنصر من تعداد FileType المقابل لنوع الحقل.
 
 ## أمثلة
 
@@ -38,3 +38,5 @@ if (form.GetFieldType("textField") == FieldType.Text)
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

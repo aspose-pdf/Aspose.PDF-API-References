@@ -1,29 +1,31 @@
 ---
-title: OpenAIClient.Builder.WithOrganization
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة البناء. تعيين معرف المنظمة للعميل
+title: "OpenAIClient.Builder.WithOrganization"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Builder. تحدد معرف المؤسسة للعميل"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.ai/openaiclient.builder/withorganization/
 ---
-## طريقة OpenAIClient.Builder.WithOrganization
+## OpenAIClient.Builder.WithOrganization method
 
-تعيين معرف المنظمة للعميل.
+يضبط معرف المؤسسة للعميل.
 
 ```csharp
 public Builder WithOrganization(string organizationId)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| organizationId | سلسلة | معرف المنظمة الذي سيتم تعيينه. |
+| organizationId | String | معرف المؤسسة لتعيينه. |
 
 ### قيمة الإرجاع
 
-النسخة الحالية من [`Builder`](../).
+العنصر الحالي من [`Builder`](../).
 
 ### انظر أيضًا
 
-* الفئة [Builder](../)
-* مساحة الاسم [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../../)
+* class [Builder](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

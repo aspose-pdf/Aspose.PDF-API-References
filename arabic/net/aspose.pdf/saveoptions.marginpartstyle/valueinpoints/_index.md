@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.MarginPartStyle.ValueInPoints
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MarginPartStyle. تمثل الهامش بالنقاط. يجب أن يكون الرقم أكبر من صفر
+title: "SaveOptions.MarginPartStyle.ValueInPoints"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MarginPartStyle. تمثل الهوامش بالنقاط. يجب أن يكون رقماً أكبر من الصفر"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/saveoptions.marginpartstyle/valueinpoints/
 ---
-## خاصية SaveOptions.MarginPartStyle.ValueInPoints
+## SaveOptions.MarginPartStyle.ValueInPoints property
 
-تمثل الهامش بالنقاط. يجب أن يكون الرقم أكبر من صفر.
+يمثل الهامش بالنقاط. يجب أن يكون عددًا أكبر من الصفر.
 
 ```csharp
 public int ValueInPoints { get; set; }
@@ -19,3 +19,5 @@ public int ValueInPoints { get; set; }
 * class [MarginPartStyle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

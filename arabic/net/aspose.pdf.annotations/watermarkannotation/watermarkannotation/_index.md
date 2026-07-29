@@ -1,23 +1,23 @@
 ---
-title: WatermarkAnnotation.WatermarkAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ WatermarkAnnotation. مُنشئ لفئة التعليق المائي
+title: "WatermarkAnnotation.WatermarkAnnotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ WatermarkAnnotation. منشئ لفئة التعليق التوضيحي للعلامة المائية"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/watermarkannotation/watermarkannotation/
 ---
-## مُنشئ WatermarkAnnotation
+## WatermarkAnnotation constructor
 
-مُنشئ لفئة التعليق المائي.
+منشئ لفئة توضيح العلامة المائية.
 
 ```csharp
 public WatermarkAnnotation(Page page, Rectangle rect)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة التي يجب وضع التعليق فيها. |
-| rect | Rectangle | موضع التعليق. |
+| صفحة | صفحة | الصفحة التي يجب وضع التعليق التوضيحي فيها. |
+| rect | Rectangle | موضع التعليق التوضيحي. |
 
 ### انظر أيضًا
 
@@ -26,3 +26,5 @@ public WatermarkAnnotation(Page page, Rectangle rect)
 * class [WatermarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

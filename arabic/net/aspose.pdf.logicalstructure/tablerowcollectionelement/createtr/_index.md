@@ -1,14 +1,14 @@
 ---
-title: TableRowCollectionElement.CreateTR
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TableRowCollectionElement. تنشئ TableTRElement وتضيفها إلى الجدول الحالي
+title: "TableRowCollectionElement.CreateTR"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TableRowCollectionElement. ينشئ TableTRElement ويضيفه إلى الجدول الحالي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.logicalstructure/tablerowcollectionelement/createtr/
 ---
-## طريقة TableRowCollectionElement.CreateTR
+## TableRowCollectionElement.CreateTR method
 
-تنشئ [`TableTRElement`](../../tabletrelement/) وتضيفها إلى الجدول الحالي.
+ينشئ [`TableTRElement`](../../tabletrelement/) ويضيفه إلى الجدول الحالي.
 
 ```csharp
 public virtual TableTRElement CreateTR()
@@ -16,7 +16,7 @@ public virtual TableTRElement CreateTR()
 
 ### قيمة الإرجاع
 
-عنصر هيكل تم إنشاؤه.
+تم إنشاء عنصر بنية.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public virtual TableTRElement CreateTR()
 * class [TableRowCollectionElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

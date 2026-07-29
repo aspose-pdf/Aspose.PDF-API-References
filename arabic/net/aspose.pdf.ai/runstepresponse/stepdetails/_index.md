@@ -1,14 +1,14 @@
 ---
-title: RunStepResponse.StepDetails
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunStepResponse. تحصل أو تعين تفاصيل خطوة التشغيل
+title: "RunStepResponse.StepDetails"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RunStepResponse. تحصل أو تعين تفاصيل خطوة التشغيل"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf.ai/runstepresponse/stepdetails/
 ---
-## خاصية RunStepResponse.StepDetails
+## RunStepResponse.StepDetails property
 
-تحصل أو تعين تفاصيل خطوة التشغيل.
+يحصل أو يعيّن تفاصيل خطوة التشغيل.
 
 ```csharp
 public RunStepDetails StepDetails { get; set; }
@@ -20,3 +20,5 @@ public RunStepDetails StepDetails { get; set; }
 * class [RunStepResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

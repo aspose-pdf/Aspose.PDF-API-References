@@ -1,23 +1,23 @@
 ---
-title: Artifact.SetLinesAndState
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Artifact. تعيين النص وخصائص النص للأثر. يسمح بتحديد عدة أسطر
+title: "Artifact.SetLinesAndState"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Artifact. تعيين النص وخصائص النص للقطعة. يسمح بتحديد عدة أسطر."
 type: docs
 weight: 290
 url: /ar/net/aspose.pdf/artifact/setlinesandstate/
 ---
-## طريقة Artifact.SetLinesAndState
+## Artifact.SetLinesAndState method
 
-تعيين النص وخصائص النص للأثر. يسمح بتحديد عدة أسطر.
+يضبط النص وخصائص النص للعنصر. يسمح بتحديد عدة أسطر.
 
 ```csharp
 public void SetLinesAndState(string[] text, TextState textState)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| النص | String[] | مصفوفة من سلسلة النص. |
-| حالة النص | TextState | خصائص النص. |
+| نص | String[] | مصفوفة من سلاسل النص. |
+| textState | TextState | خصائص النص. |
 
 ### انظر أيضًا
 
@@ -25,3 +25,5 @@ public void SetLinesAndState(string[] text, TextState textState)
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

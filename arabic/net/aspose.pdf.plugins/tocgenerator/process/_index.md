@@ -1,22 +1,22 @@
 ---
-title: TocGenerator.Process
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TocGenerator. تبدأ معالجة PdfGenerator مع المعلمات المحددة
+title: "TocGenerator.Process"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TocGenerator. تبدأ معالجة PdfGenerator باستخدام المعلمات المحددة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.plugins/tocgenerator/process/
 ---
-## طريقة TocGenerator.Process
+## TocGenerator.Process method
 
-تبدأ معالجة PdfGenerator مع المعلمات المحددة.
+يبدأ معالجة PdfGenerator باستخدام المعلمات المحددة.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| options | IPluginOptions | كائن خيارات يحتوي على تعليمات لـ PdfGenerator. |
+| options | IPluginOptions | كائن الخيارات يحتوي على تعليمات لـ PdfGenerator. |
 
 ### قيمة الإرجاع
 
@@ -24,7 +24,7 @@ public ResultContainer Process(IPluginOptions options)
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
 | NotSupportedException |  |
 
@@ -35,3 +35,5 @@ public ResultContainer Process(IPluginOptions options)
 * class [TocGenerator](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

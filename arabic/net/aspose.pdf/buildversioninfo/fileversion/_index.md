@@ -1,12 +1,12 @@
 ---
-title: BuildVersionInfo.FileVersion
-second_title: Aspose.PDF for .NET API Reference
-description: حقل BuildVersionInfo. إصدار الملف
+title: "BuildVersionInfo.FileVersion"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل BuildVersionInfo. نسخة الملف"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/buildversioninfo/fileversion/
 ---
-## حقل BuildVersionInfo.FileVersion
+## BuildVersionInfo.FileVersion field
 
 إصدار الملف
 
@@ -19,3 +19,5 @@ public const string FileVersion;
 * class [BuildVersionInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

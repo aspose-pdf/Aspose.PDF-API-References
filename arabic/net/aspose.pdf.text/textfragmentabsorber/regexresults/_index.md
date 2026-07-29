@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.RegexResults
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragmentAbsorber. تحصل على قاموس لحدوثات البحث التي يتم تقديمها مع فئة System.Text.RegularExpressions.Regex كمفتاح و TextFragment كقيمة
+title: "TextFragmentAbsorber.RegexResults"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragmentAbsorber. تحصل على القاموس الخاص بحدوث عمليات البحث التي يتم تمثيلها بفئة System.Text.RegularExpressions.Regex كمفتاح و TextFragment كقيمة"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.text/textfragmentabsorber/regexresults/
 ---
-## خاصية TextFragmentAbsorber.RegexResults
+## TextFragmentAbsorber.RegexResults property
 
-تحصل على قاموس لحدوثات البحث التي يتم تقديمها مع فئة System.Text.RegularExpressions.Regex كمفتاح و [`TextFragment`](../../textfragment/) كقيمة.
+تحصل على القاموس الخاص بحدوث عمليات البحث التي يتم تمثيلها بفئة System.Text.RegularExpressions.Regex كمفتاح و [`TextFragment`](../../textfragment/) كقيمة.
 
 ```csharp
 public Dictionary<Regex, TextFragmentCollection> RegexResults { get; }
@@ -16,10 +16,10 @@ public Dictionary<Regex, TextFragmentCollection> RegexResults { get; }
 
 ## أمثلة
 
-يظهر المثال كيفية العثور على نص باستخدام مصفوفة من التعبيرات العادية على الصفحة الأولى من مستند PDF.
+يوضح المثال كيفية العثور على النص باستخدام مصفوفة من التعبيرات النمطية في الصفحة الأولى من PDF Document Page.
 
 ```csharp
-// Open document
+// فتح المستند
 Document doc = new Document(@"D:\Tests\input.pdf");
 
 var regexes = new Regex[]
@@ -27,16 +27,18 @@ var regexes = new Regex[]
 new Regex( @"expression1", RegexOptions.IgnoreCase),
 new Regex( @"expression2", RegexOptions.IgnoreCase),
 };
-// Create TextFragmentAbsorber object that searches all words starting 'h' and ending 'o' using regular expression.
+// أنشئ كائن TextFragmentAbsorber الذي يبحث عن جميع الكلمات التي تبدأ بـ 'h' وتنتهي بـ 'o' باستخدام تعبير نمطي.
 TextFragmentAbsorber absorber = new TextFragmentAbsorber(regexes, new TextSearchOptions(true));
 doc.Pages[1].Accept(absorber);
-// Get results
+// احصل على النتائج
 var results = absorber.RegexResults;
 ```
 
 ### انظر أيضًا
 
-* فئة [TextFragmentCollection](../../textfragmentcollection/)
-* فئة [TextFragmentAbsorber](../)
-* مساحة الأسماء [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../../)
+* class [TextFragmentCollection](../../textfragmentcollection/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

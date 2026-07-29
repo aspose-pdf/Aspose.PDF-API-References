@@ -1,14 +1,14 @@
 ---
-title: Color.BlueViolet
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على لون محدد من النظام له قيمة ARGB تساوي c FF8A2BE2
+title: "Color.BlueViolet"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. يحصل على لون معرف من النظام له قيمة ARGB c FF8A2BE2"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf/color/blueviolet/
 ---
-## خاصية Color.BlueViolet
+## Color.BlueViolet property
 
-تحصل على لون محدد من النظام له قيمة ARGB تساوي \c \#FF8A2BE2.
+يحصل على لون معرف من النظام له قيمة ARGB \c \#FF8A2BE2.
 
 ```csharp
 public static Color BlueViolet { get; }
@@ -16,10 +16,12 @@ public static Color BlueViolet { get; }
 
 ### قيمة الإرجاع
 
-يمثل لونًا محددًا من النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

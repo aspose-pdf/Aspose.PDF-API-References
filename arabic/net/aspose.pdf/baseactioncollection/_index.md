@@ -1,14 +1,14 @@
 ---
-title: Class BaseActionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.BaseActionCollection. الفئة تحتوي على الإجراءات الأساسية مع إجراءات تفاعلية للصفحة/التعليق/الحقل
+title: "فئة BaseActionCollection"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.BaseActionCollection. الفئة تُغلف الإجراءات الأساسية مع إجراءات تفاعلية للصفحة/التعليق/الحقل"
 type: docs
-weight: 2820
+weight: 2930
 url: /ar/net/aspose.pdf/baseactioncollection/
 ---
-## فئة BaseActionCollection
+## BaseActionCollection class
 
-الفئة تحتوي على الإجراءات الأساسية مع إجراءات تفاعلية للصفحة/التعليق/الحقل
+الفئة تغلف الإجراءات الأساسية مع إجراءات تفاعلية للصفحة/التعليق/الحقل
 
 ```csharp
 public abstract class BaseActionCollection
@@ -18,9 +18,11 @@ public abstract class BaseActionCollection
 
 | الاسم | الوصف |
 | --- | --- |
-| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions/)() | يزيل جميع الإجراءات من التعليق. |
+| [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions/)() | يزيل جميع إجراءات التعليق. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

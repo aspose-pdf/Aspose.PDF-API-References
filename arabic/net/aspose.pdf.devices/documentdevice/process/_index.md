@@ -1,27 +1,27 @@
 ---
-title: DocumentDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة DocumentDevice. يمثل كل جهاز عملية معينة على المستند، على سبيل المثال، يمكننا تحويل مستند PDF إلى تنسيق آخر
+title: "DocumentDevice.Process"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة DocumentDevice. كل جهاز يمثل عملية ما على المستند، على سبيل المثال يمكننا تحويل مستند pdf إلى تنسيق آخر"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.devices/documentdevice/process/
 ---
 ## Process(Document, int, int, Stream) {#process}
 
-يمثل كل جهاز عملية معينة على المستند، على سبيل المثال، يمكننا تحويل مستند PDF إلى تنسيق آخر.
+كل جهاز يمثل عملية معينة على المستند، مثل تحويل مستند pdf إلى تنسيق آخر.
 
 ```csharp
 public abstract void Process(Document document, int fromPage, int toPage, Stream output)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| document | Document | المستند الذي سيتم معالجته. |
-| fromPage | Int32 | يحدد الصفحة التي سيتم بدء المعالجة منها. |
-| toPage | Int32 | يحدد آخر صفحة سيتم معالجتها. |
-| output | Stream | يحدد التدفق الذي يتم تخزين نتائج المعالجة فيه. |
+| document | Document | المستند المراد معالجته. |
+| fromPage | Int32 | يحدد الصفحة التي يبدأ منها المعالجة. |
+| toPage | Int32 | يحدد آخر صفحة للمعالجة. |
+| الإخراج | Stream | يحدد الدفق حيث تُخزن نتائج المعالجة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [DocumentDevice](../)
@@ -32,18 +32,18 @@ public abstract void Process(Document document, int fromPage, int toPage, Stream
 
 ## Process(Document, Stream) {#process_2}
 
-يعالج المستند بالكامل ويخزن النتائج في التدفق.
+يعالج المستند بالكامل ويحفظ النتائج في تدفق.
 
 ```csharp
 public void Process(Document document, Stream output)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| document | Document | المستند الذي سيتم معالجته. |
-| output | Stream | يحدد التدفق الذي يتم تخزين نتائج المعالجة فيه. |
+| document | Document | المستند المراد معالجته. |
+| الإخراج | Stream | يحدد الدفق حيث تُخزن نتائج المعالجة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [DocumentDevice](../)
@@ -54,18 +54,18 @@ public void Process(Document document, Stream output)
 
 ## Process(Document, string) {#process_3}
 
-يعالج المستند بالكامل ويخزن النتائج في ملف.
+يعالج المستند بالكامل ويحفظ النتائج في ملف.
 
 ```csharp
 public void Process(Document document, string outputFileName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| document | Document | المستند الذي سيتم معالجته. |
-| outputFileName | String | يحدد الملف الذي يتم تخزين نتائج المعالجة فيه. |
+| document | Document | المستند المراد معالجته. |
+| outputFileName | String | يحدد الملف حيث تُخزن نتائج المعالجة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [DocumentDevice](../)
@@ -76,22 +76,24 @@ public void Process(Document document, string outputFileName)
 
 ## Process(Document, int, int, string) {#process_1}
 
-يعالج صفحات معينة من المستند ويخزن النتائج في ملف.
+يعالج صفحات معينة من المستند ويحفظ النتائج في الملف.
 
 ```csharp
 public void Process(Document document, int fromPage, int toPage, string outputFileName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| document | Document | المستند الذي سيتم معالجته. |
+| document | Document | المستند المراد معالجته. |
 | fromPage | Int32 | الصفحة الأولى لبدء المعالجة. |
-| toPage | Int32 | آخر صفحة من المعالجة. |
-| outputFileName | String | يحدد الملف الذي يتم تخزين نتائج المعالجة فيه. |
+| toPage | Int32 | الصفحة الأخيرة للمعالجة. |
+| outputFileName | String | يحدد الملف حيث تُخزن نتائج المعالجة. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [DocumentDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

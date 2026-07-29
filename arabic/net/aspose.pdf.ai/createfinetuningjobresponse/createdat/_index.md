@@ -1,14 +1,14 @@
 ---
-title: CreateFineTuningJobResponse.CreatedAt
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CreateFineTuningJobResponse. تحصل أو تعين الطابع الزمني Unix بالثواني عندما تم إنشاء وظيفة التعديل الدقيق
+title: "CreateFineTuningJobResponse.CreatedAt"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "CreateFineTuningJobResponse الخاصية. يحصل أو يحدد الطابع الزمني يونيكس بالثواني للوقت الذي تم فيه إنشاء وظيفة الضبط الدقيق"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/createfinetuningjobresponse/createdat/
 ---
-## خاصية CreateFineTuningJobResponse.CreatedAt
+## CreateFineTuningJobResponse.CreatedAt property
 
-تحصل أو تعين الطابع الزمني Unix (بالثواني) عندما تم إنشاء وظيفة التعديل الدقيق.
+يحصل أو يضبط الطابع الزمني Unix (بالثواني) لوقت إنشاء مهمة التحسين الدقيق.
 
 ```csharp
 public long CreatedAt { get; set; }
@@ -19,3 +19,5 @@ public long CreatedAt { get; set; }
 * class [CreateFineTuningJobResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

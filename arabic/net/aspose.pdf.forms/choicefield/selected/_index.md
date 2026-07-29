@@ -1,14 +1,14 @@
 ---
-title: ChoiceField.Selected
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ChoiceField. تحصل أو تعين فهرس الخيار المحدد. تتيح هذه الخاصية تغيير الاختيار
+title: "ChoiceField.Selected"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ChoiceField. يحصل أو يضبط فهرس الخيار المحدد. هذه الخاصية تسمح بتغيير الاختيار"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.forms/choicefield/selected/
 ---
-## خاصية ChoiceField.Selected
+## ChoiceField.Selected property
 
-تحصل أو تعين فهرس الخيار المحدد. تتيح هذه الخاصية تغيير الاختيار.
+يحصل أو يعيّن فهرس الخيار المحدد. تسمح هذه الخاصية بتغيير الاختيار.
 
 ```csharp
 public virtual int Selected { get; set; }
@@ -19,3 +19,5 @@ public virtual int Selected { get; set; }
 * class [ChoiceField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

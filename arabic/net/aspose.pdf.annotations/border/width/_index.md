@@ -1,14 +1,14 @@
 ---
-title: Border.Width
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الحدود. تحصل أو تعين عرض الحدود
+title: "Border.Width"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Border. يحصل أو يضبط عرض الحد"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.annotations/border/width/
 ---
-## خاصية Border.Width
+## Border.Width property
 
-تحصل أو تعين عرض الحدود.
+يحصل أو يعيّن عرض الحدود.
 
 ```csharp
 public int Width { get; set; }
@@ -19,3 +19,5 @@ public int Width { get; set; }
 * class [Border](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: BMC.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة BMC. تعيد التمثيل النصي للمشغل
+title: "BMC.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة BMC. تُرجع تمثيل نصي للمشغل"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.operators/bmc/tostring/
 ---
 ## BMC.ToString method
 
-تعيد التمثيل النصي للمشغل.
+يرجع تمثيل النص للمشغّل.
 
 ```csharp
 public override string ToString()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-التمثيل النصي للمشغل.
+تمثيل النص للعامل.
 
-### See Also
+### انظر أيضًا
 
 * class [BMC](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

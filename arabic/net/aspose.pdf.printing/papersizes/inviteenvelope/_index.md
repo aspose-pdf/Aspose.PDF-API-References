@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.InviteEnvelope
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ظرف دعوة 220 مم × 220 مم
+title: "PaperSizes.InviteEnvelope"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ظرف دعوة 220 مم × 220 مم"
 type: docs
 weight: 450
 url: /ar/net/aspose.pdf.printing/papersizes/inviteenvelope/
 ---
-## حقل PaperSizes.InviteEnvelope
+## PaperSizes.InviteEnvelope field
 
 ظرف دعوة (220 مم × 220 مم).
 
@@ -20,3 +20,5 @@ public static readonly PaperSize InviteEnvelope;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.SignatureAppearanceStream
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileSignature. تعيين أو الحصول على مظهر رسومي للتوقيع. تمثل قيمة الخاصية تدفق الصورة
+title: "PdfFileSignature.SignatureAppearanceStream"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileSignature. تعيين أو الحصول على المظهر الرسومي للتوقيع. قيمة الخاصية تمثل تدفق الصورة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.facades/pdffilesignature/signatureappearancestream/
 ---
-## خاصية PdfFileSignature.SignatureAppearanceStream
+## PdfFileSignature.SignatureAppearanceStream property
 
-تعيين أو الحصول على مظهر رسومي للتوقيع. تمثل قيمة الخاصية تدفق الصورة.
+يضبط أو يحصل على المظهر الرسومي للتوقيع. قيمة الخاصية تمثل تدفق الصورة.
 
 ```csharp
 public Stream SignatureAppearanceStream { get; set; }
@@ -19,3 +19,5 @@ public Stream SignatureAppearanceStream { get; set; }
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

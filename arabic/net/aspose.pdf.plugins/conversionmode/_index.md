@@ -1,9 +1,9 @@
 ---
-title: Enum ConversionMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.ConversionMode enum. يحدد وضع التحويل للمستند الناتج
+title: "التعداد ConversionMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.Plugins.ConversionMode. يحدد وضع التحويل للمستند الناتج"
 type: docs
-weight: 8500
+weight: 8630
 url: /ar/net/aspose.pdf.plugins/conversionmode/
 ---
 ## ConversionMode enumeration
@@ -14,15 +14,17 @@ url: /ar/net/aspose.pdf.plugins/conversionmode/
 public enum ConversionMode
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| TextBox | `0` | هذا الوضع سريع وجيد للحفاظ على المظهر الأصلي لملف PDF، ولكن قابلية تعديل المستند الناتج قد تكون محدودة. |
-| Flow | `1` | وضع التعرف الكامل، يقوم المحرك بأداء التجميع والتحليل متعدد المستويات لاستعادة نية مؤلف المستند الأصلي وإنتاج مستند قابل للتعديل إلى أقصى حد. العيب هو أن المستند الناتج قد يبدو مختلفًا عن ملف PDF الأصلي. |
+| TextBox | `0` | هذا الوضع سريع ومناسب للحفاظ بأقصى قدر ممكن على الشكل الأصلي لملف PDF، لكن قد تكون قابلية تحرير المستند الناتج محدودة. |
+| Flow | `1` | وضع التعرف الكامل، يقوم المحرك بتجميع وتحليل متعدد المستويات لاستعادة نية مؤلف المستند الأصلي وإنتاج مستند قابل للتحرير بأقصى قدر ممكن. الجانب السلبي هو أن المستند الناتج قد يبدو مختلفًا عن ملف PDF الأصلي. |
 | EnhancedFlow | `2` | وضع Flow بديل يدعم التعرف على الجداول. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

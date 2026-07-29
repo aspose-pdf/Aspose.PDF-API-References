@@ -1,14 +1,14 @@
 ---
-title: ParagraphAbsorber.TextReplaceOptions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ParagraphAbsorber. تحصل أو تعين خيارات استبدال النص
+title: "ParagraphAbsorber.TextReplaceOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ParagraphAbsorber. تحصّل أو تعيين الـ TextReplaceOptions"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.text/paragraphabsorber/textreplaceoptions/
 ---
-## خاصية ParagraphAbsorber.TextReplaceOptions
+## ParagraphAbsorber.TextReplaceOptions property
 
-تحصل أو تعين خيارات استبدال النص.
+يحصل أو يعيّن TextReplaceOptions.
 
 ```csharp
 public TextReplaceOptions TextReplaceOptions { get; set; }
@@ -20,3 +20,5 @@ public TextReplaceOptions TextReplaceOptions { get; set; }
 * class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

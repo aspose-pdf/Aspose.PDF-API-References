@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.RowSpan
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeKey. خاصية RowSpan مالك خاصية الجدول
+title: "AttributeKey.RowSpan"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "AttributeKey حقل. RowSpan سمة Table سمة المالك"
 type: docs
 weight: 250
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/rowspan/
 ---
-## حقل AttributeKey.RowSpan
+## AttributeKey.RowSpan field
 
-خاصية RowSpan (مالك خاصية الجدول).
+خاصية RowSpan (مالك خاصية Table).
 
 ```csharp
 public static readonly AttributeKey RowSpan;
@@ -19,3 +19,5 @@ public static readonly AttributeKey RowSpan;
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

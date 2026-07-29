@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.FontStyle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragmentState. تعيين نمط الخط للنص الممثل بواسطة كائن TextFragment
+title: "TextFragmentState.FontStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragmentState. تعين نمط الخط للنص الممثل بواسطة كائن TextFragment"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.text/textfragmentstate/fontstyle/
 ---
-## خاصية TextFragmentState.FontStyle
+## TextFragmentState.FontStyle property
 
-تعيين نمط الخط للنص، الممثل بواسطة كائن [`TextFragment`](../../textfragment/) 
+تعيين نمط الخط للنص، الممثل بواسطة كائن [`TextFragment`](../../textfragment/)
 
 ```csharp
 public override FontStyles FontStyle { get; set; }
@@ -20,3 +20,5 @@ public override FontStyles FontStyle { get; set; }
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

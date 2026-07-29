@@ -1,26 +1,26 @@
 ---
-title: PrinterResolutionExtensions.ToAsposePrinterResolution
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PrinterResolutionExtensions. تحويل PrinterResolution الخاص بنظام Windows System.Drawing.Printing.PrinterResolution
+title: "PrinterResolutionExtensions.ToAsposePrinterResolution"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PrinterResolutionExtensions. تقوم بتحويل System.Drawing.Printing.PrinterResolution المحددة لنظام Windows PrinterResolution"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.printing/printerresolutionextensions/toasposeprinterresolution/
 ---
-## طريقة PrinterResolutionExtensions.ToAsposePrinterResolution
+## PrinterResolutionExtensions.ToAsposePrinterResolution method
 
-تحول PrinterResolution الخاص بنظام Windows System.Drawing.Printing.PrinterResolution [`PrinterResolution`](../../printerresolution/).
+تحويل System.Drawing.Printing.PrinterResolution المحددة لنظام Windows إلى [`PrinterResolution`](../../printerresolution/).
 
 ```csharp
 public static PrinterResolution ToAsposePrinterResolution(this PrinterResolution nativeResolution)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| nativeResolution | PrinterResolution | دقة الطابعة الخاصة بنظام Windows للتحويل. |
+| nativeResolution | PrinterResolution | دقة طابعة Windows للتحويل. |
 
 ### قيمة الإرجاع
 
-دقة الطابعة المحولة.
+دقة الطابعة المحوّلة.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public static PrinterResolution ToAsposePrinterResolution(this PrinterResolution
 * class [PrinterResolutionExtensions](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

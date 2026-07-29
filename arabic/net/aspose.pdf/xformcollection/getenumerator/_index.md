@@ -1,14 +1,14 @@
 ---
-title: XFormCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XFormCollection. تعيد عداد المجموعة
+title: "XFormCollection.GetEnumerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XFormCollection. تُرجع مُعدِّد المجموعة"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf/xformcollection/getenumerator/
 ---
-## طريقة XFormCollection.GetEnumerator
+## XFormCollection.GetEnumerator method
 
-تعيد عداد المجموعة.
+يرجع عداد المجموعة.
 
 ```csharp
 public IEnumerator<XForm> GetEnumerator()
@@ -16,7 +16,7 @@ public IEnumerator<XForm> GetEnumerator()
 
 ### قيمة الإرجاع
 
-عداد للمجموعة
+مُعدِّد للمجموعة
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public IEnumerator<XForm> GetEnumerator()
 * class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

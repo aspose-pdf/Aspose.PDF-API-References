@@ -1,12 +1,12 @@
 ---
-title: Enum SubjectNameElements
-second_title: Aspose.PDF for .NET API Reference
-description: تعداد Aspose.Pdf.Forms.SubjectNameElements. التعداد يصف العناصر في سلسلة موضوع التوقيع
+title: "التعداد SubjectNameElements"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Forms.SubjectNameElements التعداد. يصف التعداد العناصر في سلسلة موضوع التوقيع"
 type: docs
-weight: 5300
+weight: 5420
 url: /ar/net/aspose.pdf.forms/subjectnameelements/
 ---
-## تعداد SubjectNameElements
+## SubjectNameElements enumeration
 
 التعداد يصف العناصر في سلسلة موضوع التوقيع.
 
@@ -20,7 +20,7 @@ public enum SubjectNameElements
 | --- | --- | --- |
 | CN | `0` | الاسم الشائع. |
 | O | `1` | المنظمة. |
-| L | `2` | المحلية. |
+| L | `2` | الموقع. |
 | OU | `3` | الوحدة التنظيمية. |
 | S | `4` | اسم الولاية أو المقاطعة. |
 | C | `5` | الدولة. |
@@ -28,5 +28,7 @@ public enum SubjectNameElements
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

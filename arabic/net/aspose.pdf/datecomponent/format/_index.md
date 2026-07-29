@@ -1,14 +1,14 @@
 ---
-title: DateComponent.Format
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DateComponent. تحصل أو تعين التنسيق لعنصر التاريخ
+title: "DateComponent.Format"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DateComponent. تحصل أو تعين التنسيق لمكوّن التاريخ"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/datecomponent/format/
 ---
-## خاصية DateComponent.Format
+## DateComponent.Format property
 
-تحصل أو تعين التنسيق لعنصر التاريخ.
+الحصول أو تعيين التنسيق لمكوّن التاريخ.
 
 ```csharp
 public int Format { get; set; }
@@ -19,3 +19,5 @@ public int Format { get; set; }
 * class [DateComponent](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

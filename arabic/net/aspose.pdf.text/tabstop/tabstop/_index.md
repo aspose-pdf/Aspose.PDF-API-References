@@ -1,14 +1,14 @@
 ---
-title: TabStop.TabStop
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TabStop. يُهيئ مثيلًا جديدًا من فئة TabStop
+title: "TabStop.TabStop"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "TabStop constructor. يهيئ مثيلاً جديداً من فئة TabStop"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.text/tabstop/tabstop/
 ---
 ## TabStop() {#constructor}
 
-يُهيئ مثيلًا جديدًا من فئة [`TabStop`](../).
+يهيئ مثيلاً جديداً من الفئة [`TabStop`](../).
 
 ```csharp
 public TabStop()
@@ -16,26 +16,28 @@ public TabStop()
 
 ### انظر أيضًا
 
-* فئة [TabStop](../)
-* مساحة الأسماء [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../../)
+* class [TabStop](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TabStop(float) {#constructor_1}
 
-يُهيئ مثيلًا جديدًا من فئة [`TabStop`](../) بموقع محدد.
+يهيئ مثيلاً جديداً من الفئة [`TabStop`](../) بالموضع المحدد.
 
 ```csharp
 public TabStop(float position)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| position | Single | موقع توقف التبويب. |
+| الموضع | Single | موضع علامة التبويب. |
 
 ### انظر أيضًا
 
-* فئة [TabStop](../)
-* مساحة الأسماء [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../../)
+* class [TabStop](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

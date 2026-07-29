@@ -1,14 +1,14 @@
 ---
-title: Annotation.Border
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية التعليق. تحصل أو تضبط خصائص حدود التعليق. الحدود
+title: "Annotation.Border"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Annotation. يحصل على أو يحدد خصائص حدود التعليق. Border"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.annotations/annotation/border/
 ---
-## خاصية Annotation.Border
+## Annotation.Border property
 
-تحصل أو تضبط خصائص حدود التعليق. `Border`
+يحصل على أو يحدد خصائص حدود التعليق. `Border`
 
 ```csharp
 public Border Border { get; set; }
@@ -20,3 +20,5 @@ public Border Border { get; set; }
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

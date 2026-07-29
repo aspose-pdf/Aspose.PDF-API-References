@@ -1,20 +1,20 @@
 ---
-title: Field.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الحقل. تزيل هذا الحقل وتضع قيمته مباشرة على الصفحة
+title: "Field.Flatten"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Field. يزيل هذا الحقل ويضع قيمته مباشرة على الصفحة"
 type: docs
 weight: 190
 url: /ar/net/aspose.pdf.forms/field/flatten/
 ---
-## طريقة Field.Flatten
+## Field.Flatten method
 
-تزيل هذا الحقل وتضع قيمته مباشرة على الصفحة.
+يزيل هذا الحقل ويضع قيمته مباشرةً على الصفحة.
 
 ```csharp
 public override void Flatten()
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
 | isPageContentsBracketed |  |
 
@@ -23,3 +23,5 @@ public override void Flatten()
 * class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

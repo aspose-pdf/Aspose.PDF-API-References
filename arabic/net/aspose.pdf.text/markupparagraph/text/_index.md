@@ -1,14 +1,14 @@
 ---
-title: MarkupParagraph.Text
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MarkupParagraph. تحصل أو تعين نص الفقرة
+title: "MarkupParagraph.Text"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MarkupParagraph. تحصل على نص الفقرة أو تعينه"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.text/markupparagraph/text/
 ---
-## خاصية MarkupParagraph.Text
+## MarkupParagraph.Text property
 
-تحصل أو تعين نص الفقرة.
+يحصل أو يعيّن نص الفقرة.
 
 ```csharp
 public string Text { get; set; }
@@ -19,3 +19,5 @@ public string Text { get; set; }
 * class [MarkupParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

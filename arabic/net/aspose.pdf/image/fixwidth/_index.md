@@ -1,14 +1,14 @@
 ---
-title: Image.FixWidth
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصورة. تحصل أو تعين عرض الصورة
+title: "Image.FixWidth"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Image. تحصل أو تعين عرض الصورة"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/image/fixwidth/
 ---
-## خاصية Image.FixWidth
+## Image.FixWidth property
 
-تحصل أو تعين عرض الصورة.
+يحصل أو يعيّن عرض الصورة.
 
 ```csharp
 public double FixWidth { get; set; }
@@ -19,3 +19,5 @@ public double FixWidth { get; set; }
 * class [Image](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

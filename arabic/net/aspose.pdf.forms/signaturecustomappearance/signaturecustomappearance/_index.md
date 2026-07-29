@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.SignatureCustomAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SignatureCustomAppearance. المُنشئ الافتراضي
+title: "SignatureCustomAppearance.SignatureCustomAppearance"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SignatureCustomAppearance. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.forms/signaturecustomappearance/signaturecustomappearance/
 ---
-## مُنشئ SignatureCustomAppearance
+## SignatureCustomAppearance constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public SignatureCustomAppearance()
@@ -19,3 +19,5 @@ public SignatureCustomAppearance()
 * class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

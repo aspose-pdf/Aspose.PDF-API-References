@@ -1,14 +1,14 @@
 ---
-title: FileSearch.VectorStores
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FileSearch. تحصل أو تعين المساعد لإنشاء متجر متجه مع file_ids وإرفاقه بهذه الخيط. يمكن أن يكون هناك حد أقصى لمتجر متجه واحد مرتبط بالخيط.
+title: "FileSearch.VectorStores"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FileSearch. تحصل أو تعيين المساعد لإنشاء مخزن المتجه باستخدام file_ids وإرفاقه بهذا الخيط. يمكن أن يكون هناك حد أقصى لمخزن المتجه واحد مرفق بالخيط"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/filesearch/vectorstores/
 ---
-## خاصية FileSearch.VectorStores
+## FileSearch.VectorStores property
 
-تحصل أو تعين المساعد لإنشاء متجر متجه مع file_ids وإرفاقه بهذه الخيط. يمكن أن يكون هناك حد أقصى لمتجر متجه واحد مرتبط بالخيط.
+يحصل أو يعيّن المساعد لإنشاء مخزن متجهات باستخدام file_ids وإرفاقه بهذه السلسلة. يمكن أن يكون هناك حد أقصى لمخزن متجه واحد مرتبط بالسلسلة.
 
 ```csharp
 public List<VectorStore> VectorStores { get; set; }
@@ -20,3 +20,5 @@ public List<VectorStore> VectorStores { get; set; }
 * class [FileSearch](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

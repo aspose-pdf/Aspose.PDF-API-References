@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.ConvertMarkedContentToLayers
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية HtmlSaveOptions. إذا تم تعيين خاصية ConvertMarkedContentToLayers إلى true، فسيتم وضع جميع العناصر داخل طبقة محتوى PDF المميزة في div HTML مع خاصية datapdflayer التي تحدد اسم الطبقة. سيتم استخراج اسم هذه الطبقة من الخصائص الاختيارية لمحتوى PDF المميز. إذا كانت هذه الخاصية false بشكل افتراضي، فلن يتم إنشاء أي طبقات من محتوى PDF المميز.
+title: "HtmlSaveOptions.ConvertMarkedContentToLayers"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية HtmlSaveOptions. إذا تم تعيين السمة ConvertMarkedContentToLayers إلى true فسيتم وضع جميع العناصر داخل طبقة محتوى PDF المحدد في عنصر div HTML مع سمة datapdflayer التي تحدد اسم الطبقة. سيتم استخراج اسم هذه الطبقة من الخصائص الاختيارية لمحتوى PDF المحدد. إذا كانت هذه السمة false بشكل افتراضي فلن يتم إنشاء أي طبقات من محتوى PDF المحدد."
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/htmlsaveoptions/convertmarkedcontenttolayers/
 ---
-## خاصية HtmlSaveOptions.ConvertMarkedContentToLayers
+## HtmlSaveOptions.ConvertMarkedContentToLayers property
 
-إذا تم تعيين خاصية ConvertMarkedContentToLayers إلى true، فسيتم وضع جميع العناصر داخل محتوى PDF المميز (الطبقة) في div HTML مع خاصية "data-pdflayer" التي تحدد اسم الطبقة. سيتم استخراج اسم هذه الطبقة من الخصائص الاختيارية لمحتوى PDF المميز. إذا كانت هذه الخاصية false (بشكل افتراضي)، فلن يتم إنشاء أي طبقات من محتوى PDF المميز.
+إذا تم تعيين السمة ConvertMarkedContentToLayers إلى true فسيتم وضع جميع العناصر داخل محتوى PDF المعلَّم (الطبقة) داخل عنصر div في HTML مع السمة "data-pdflayer" التي تحدد اسم الطبقة. سيتم استخراج اسم هذه الطبقة من الخصائص الاختيارية لمحتوى PDF المعلَّم. إذا كانت هذه السمة false (افتراضيًا) فلن يتم إنشاء أي طبقات من محتوى PDF المعلَّم.
 
 ```csharp
 public bool ConvertMarkedContentToLayers { get; set; }
@@ -19,3 +19,5 @@ public bool ConvertMarkedContentToLayers { get; set; }
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: DocumentPrivilege.ModifyAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocumentPrivilege. يسمح بتعديل التعليقات التوضيحية للملف
+title: "DocumentPrivilege.ModifyAnnotations"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocumentPrivilege. يسمح بتعديل تعليقات الملف"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.facades/documentprivilege/modifyannotations/
 ---
-## خاصية DocumentPrivilege.ModifyAnnotations
+## DocumentPrivilege.ModifyAnnotations property
 
 يسمح بتعديل التعليقات التوضيحية للملف.
 
@@ -19,3 +19,5 @@ public static DocumentPrivilege ModifyAnnotations { get; }
 * class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

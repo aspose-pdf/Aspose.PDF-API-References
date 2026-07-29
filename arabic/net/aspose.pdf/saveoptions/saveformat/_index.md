@@ -1,12 +1,12 @@
 ---
-title: SaveOptions.SaveFormat
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SaveOptions. تنسيق حفظ البيانات
+title: "SaveOptions.SaveFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SaveOptions. تنسيق حفظ البيانات"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/saveoptions/saveformat/
 ---
-## خاصية SaveOptions.SaveFormat
+## SaveOptions.SaveFormat property
 
 تنسيق حفظ البيانات.
 
@@ -20,3 +20,5 @@ public SaveFormat SaveFormat { get; }
 * class [SaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

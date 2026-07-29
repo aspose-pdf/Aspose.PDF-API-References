@@ -1,14 +1,14 @@
 ---
-title: Class Position
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Text.Position. تمثل كائن موضع
+title: "الفئة Position"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Text.Position. تمثّل كائن موقع."
 type: docs
-weight: 10690
+weight: 10870
 url: /ar/net/aspose.pdf.text/position/
 ---
-## فئة الموضع
+## Position class
 
-تمثل كائن موضع
+يمثل كائن الموقع
 
 ```csharp
 public sealed class Position
@@ -18,7 +18,7 @@ public sealed class Position
 
 | الاسم | الوصف |
 | --- | --- |
-| [Position](position/)(double, double) | يقوم بتهيئة مثيل جديد من فئة `Position` |
+| [Position](position/)(double, double) | ينشئ مثيلًا جديدًا من الفئة `Position` |
 
 ## الخصائص
 
@@ -31,10 +31,12 @@ public sealed class Position
 
 | الاسم | الوصف |
 | --- | --- |
-| override [Equals](../../aspose.pdf.text/position/equals/)(object) | يحدد ما إذا كان الكائن المحدد يساوي كائن `Position` الحالي. |
-| override [ToString](../../aspose.pdf.text/position/tostring/)() | يحصل على تمثيل نصي لكائن `Position` الحالي. |
+| override [Equals](../../aspose.pdf.text/position/equals/)(object) | يحدد ما إذا كان الكائن المحدد مساويًا لكائن `Position` الحالي. |
+| override [ToString](../../aspose.pdf.text/position/tostring/)() | يحصل على تمثيل السلسلة للكائن `Position` الحالي. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

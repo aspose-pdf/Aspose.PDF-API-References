@@ -1,14 +1,14 @@
 ---
-title: LineTo.Y
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LineTo. إحداثي Y لنقطة الخط
+title: "LineTo.Y"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LineTo. إحداثي Y لنقطة الخط"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.operators/lineto/y/
 ---
-## خاصية LineTo.Y
+## LineTo.Y property
 
-إحداثي Y لنقطة الخط.
+الإحداثي Y لنقطة الخط.
 
 ```csharp
 public double Y { get; set; }
@@ -19,3 +19,5 @@ public double Y { get; set; }
 * class [LineTo](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

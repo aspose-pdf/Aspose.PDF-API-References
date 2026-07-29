@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Desc
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeKey. سمة Desc سمة PrintField مالك
+title: "AttributeKey.Desc"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeKey. سمة Desc سمة PrintField المالك"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/desc/
 ---
-## حقل AttributeKey.Desc
+## AttributeKey.Desc field
 
-سمة Desc (مالك سمة PrintField).
+خاصية Desc (مالك خاصية PrintField).
 
 ```csharp
 public static readonly AttributeKey Desc;
@@ -19,3 +19,5 @@ public static readonly AttributeKey Desc;
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

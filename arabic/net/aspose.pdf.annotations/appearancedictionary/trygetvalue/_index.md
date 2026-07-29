@@ -1,27 +1,27 @@
 ---
-title: AppearanceDictionary.TryGetValue
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة AppearanceDictionary. تحاول العثور على المفتاح في القاموس واسترجاع القيمة إذا تم العثور عليها
+title: "AppearanceDictionary.TryGetValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة AppearanceDictionary. تحاول العثور على المفتاح في القاموس وتسترجع القيمة إذا تم العثور عليه."
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.annotations/appearancedictionary/trygetvalue/
 ---
-## طريقة AppearanceDictionary.TryGetValue
+## AppearanceDictionary.TryGetValue method
 
-تحاول العثور على المفتاح في القاموس واسترجاع القيمة إذا تم العثور عليها.
+يحاول العثور على المفتاح في القاموس ويسترجع القيمة إذا وُجد.
 
 ```csharp
 public bool TryGetValue(string key, out XForm value)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| key | String | المفتاح للبحث في القاموس. |
-| value | XForm& | القيمة المسترجعة. |
+| المفتاح | String | المفتاح للبحث في القاموس. |
+| القيمة | XForm& | القيمة المسترجعة. |
 
 ### قيمة الإرجاع
 
-true إذا تم العثور على المفتاح.
+صحيح إذا تم العثور على المفتاح.
 
 ### انظر أيضًا
 
@@ -29,3 +29,5 @@ true إذا تم العثور على المفتاح.
 * class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

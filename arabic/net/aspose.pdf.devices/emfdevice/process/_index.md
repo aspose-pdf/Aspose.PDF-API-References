@@ -1,23 +1,23 @@
 ---
-title: EmfDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة EmfDevice. تقوم بتحويل الصفحة إلى emf وتخزينها في تدفق الإخراج
+title: "EmfDevice.Process"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة EmfDevice. يحوّل الصفحة إلى emf ويحفظها في تدفق الإخراج"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.devices/emfdevice/process/
 ---
-## طريقة EmfDevice.Process
+## EmfDevice.Process method
 
-تقوم بتحويل الصفحة إلى emf وتخزينها في تدفق الإخراج.
+يقوم بتحويل الصفحة إلى emf ويحفظها في تدفق الإخراج.
 
 ```csharp
 public override void Process(Page page, Stream output)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة التي سيتم تحويلها. |
-| output | Stream | تدفق الإخراج مع صورة emf. |
+| صفحة | صفحة | الصفحة للتحويل. |
+| الإخراج | Stream | تدفق إخراج يحتوي على صورة emf. |
 
 ### انظر أيضًا
 
@@ -25,3 +25,5 @@ public override void Process(Page page, Stream output)
 * class [EmfDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

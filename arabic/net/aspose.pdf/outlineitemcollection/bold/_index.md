@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Bold
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OutlineItemCollection. تحصل أو تعين علامة الجريئة لنص عنوان هذا العنصر في المخطط
+title: "OutlineItemCollection.Bold"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OutlineItemCollection. تحصل أو تعيين علامة الغامق لنص العنوان لهذا العنصر المخطط"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/outlineitemcollection/bold/
 ---
-## خاصية OutlineItemCollection.Bold
+## OutlineItemCollection.Bold property
 
-تحصل أو تعين علامة الجريئة لنص عنوان هذا العنصر في المخطط
+يحصل أو يعيّن علامة الخط العريض لنص العنوان لهذا العنصر في المخطط
 
 ```csharp
 public bool Bold { get; set; }
@@ -19,3 +19,5 @@ public bool Bold { get; set; }
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

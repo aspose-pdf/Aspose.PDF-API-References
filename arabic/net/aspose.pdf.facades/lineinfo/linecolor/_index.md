@@ -1,14 +1,14 @@
 ---
-title: LineInfo.LineColor
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LineInfo. تحصل أو تعين لون الخط
+title: "LineInfo.LineColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LineInfo. يحصل على لون الخط أو يضبطه"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.facades/lineinfo/linecolor/
 ---
-## خاصية LineInfo.LineColor
+## LineInfo.LineColor property
 
-تحصل أو تعين لون الخط.
+يحصل أو يعيّن لون الخط.
 
 ```csharp
 public Color LineColor { get; set; }
@@ -19,3 +19,5 @@ public Color LineColor { get; set; }
 * class [LineInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

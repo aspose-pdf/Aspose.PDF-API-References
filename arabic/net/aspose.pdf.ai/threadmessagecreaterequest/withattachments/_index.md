@@ -1,26 +1,26 @@
 ---
-title: ThreadMessageCreateRequest.WithAttachments
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ThreadMessageCreateRequest. تعيين المرفقات لطلب رسالة الخيط
+title: "ThreadMessageCreateRequest.WithAttachments"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ThreadMessageCreateRequest. تعيين المرفقات لطلب رسالة الخيط"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.ai/threadmessagecreaterequest/withattachments/
 ---
-## طريقة ThreadMessageCreateRequest.WithAttachments
+## ThreadMessageCreateRequest.WithAttachments method
 
-تعيين المرفقات لطلب رسالة الخيط.
+يضبط المرفقات لطلب رسالة السلسلة.
 
 ```csharp
 public ThreadMessageCreateRequest WithAttachments(List<Attachment> attachments)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| المرفقات | List`1 | قائمة المرفقات للتعيين. |
+| المرفقات | List`1 | قائمة المرفقات التي سيتم تعيينها. |
 
 ### قيمة الإرجاع
 
-النسخة الحالية من [`ThreadMessageCreateRequest`](../).
+المثيل الحالي من [`ThreadMessageCreateRequest`](../).
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public ThreadMessageCreateRequest WithAttachments(List<Attachment> attachments)
 * class [ThreadMessageCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,29 +1,31 @@
 ---
-title: LlamaSummaryCopilotOptions.WithMaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة LlamaSummaryCopilotOptions. تعيين الحد الأقصى لرموز الإكمال لخيارات مساعد الملخص
+title: "LlamaSummaryCopilotOptions.WithMaxCompletionTokens"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة LlamaSummaryCopilotOptions. تعيّن الحد الأقصى لرموز الإكمال لخيارات مساعد الملخص."
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.ai/llamasummarycopilotoptions/withmaxcompletiontokens/
 ---
-## طريقة LlamaSummaryCopilotOptions.WithMaxCompletionTokens
+## LlamaSummaryCopilotOptions.WithMaxCompletionTokens method
 
-تعيين الحد الأقصى لرموز الإكمال لخيارات مساعد الملخص.
+يضبط الحد الأقصى لرموز الإكمال لخيارات المساعد الملخص.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithMaxCompletionTokens(int? maxCompletionTokens)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| maxCompletionTokens | Nullable`1 | الحد الأقصى لرموز الإكمال للتعيين. |
+| maxCompletionTokens | Nullable`1 | الحد الأقصى لعدد الرموز المكتملة لتعيينه. |
 
 ### قيمة الإرجاع
 
-الحالة الحالية من [`LlamaSummaryCopilotOptions`](../).
+المثيل الحالي من [`LlamaSummaryCopilotOptions`](../).
 
 ### انظر أيضًا
 
 * class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

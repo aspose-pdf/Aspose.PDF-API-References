@@ -1,20 +1,20 @@
 ---
-title: DocConverter.Process
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة DocConverter. تبدأ معالجة DocConverter مع المعلمات المحددة
+title: "DocConverter.Process"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة DocConverter. تبدأ معالجة DocConverter بالمعلمات المحددة."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.plugins/docconverter/process/
 ---
-## طريقة DocConverter.Process
+## DocConverter.Process method
 
-تبدأ معالجة [`DocConverter`](../) مع المعلمات المحددة.
+يبدأ معالجة [`DocConverter`](../) بالمعلمات المحددة.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | options | IPluginOptions | كائن خيارات يحتوي على تعليمات لـ [`DocConverter`](../). |
 
@@ -24,8 +24,10 @@ public ResultContainer Process(IPluginOptions options)
 
 ### انظر أيضًا
 
-* فئة [ResultContainer](../../resultcontainer/)
-* واجهة [IPluginOptions](../../ipluginoptions/)
-* فئة [DocConverter](../)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [DocConverter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

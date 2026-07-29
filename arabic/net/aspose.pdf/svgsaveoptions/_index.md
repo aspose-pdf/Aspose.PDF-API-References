@@ -1,12 +1,12 @@
 ---
-title: Class SvgSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.SvgSaveOptions. خيارات الحفظ للتصدير إلى تنسيق SVG
+title: "الفئة SvgSaveOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.SvgSaveOptions. خيارات الحفظ لتصدير إلى صيغة SVG"
 type: docs
-weight: 10230
+weight: 10410
 url: /ar/net/aspose.pdf/svgsaveoptions/
 ---
-## فئة SvgSaveOptions
+## SvgSaveOptions class
 
 خيارات الحفظ للتصدير إلى تنسيق SVG
 
@@ -18,50 +18,50 @@ public class SvgSaveOptions : UnifiedSaveOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [SvgSaveOptions](svgsaveoptions/)() | المنشئ الافتراضي. |
+| [SvgSaveOptions](svgsaveoptions/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | يحصل أو يحدد قيمة منطقية تشير إلى ما إذا كان سيتم تخزين رموز الخطوط أثناء إعداد صفحات aps. يحسن أداء تحويل PDF إلى تنسيقات أخرى ولكنه يزيد من استهلاك الذاكرة. |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | يحصل أو يحدد قيمة منطقية تشير إلى ما إذا كان سيتم إغلاق كائن الاستجابة بعد حفظ المستند في الاستجابة. |
-| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | هذه السمة تقوم بتفعيل الوظيفة لاستخراج الصورة أو النص لمستندات PDF مع طبقة OCR الفرعية. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | يحصل أو يعيّن قيمة منطقية تشير إلى ما إذا سيتم تخزين رموز الخط في الذاكرة المؤقتة أثناء إعداد صفحات aps. يحسن أداء تحويل PDF إلى صيغ أخرى لكنه يزيد من استهلاك الذاكرة. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | يحصل أو يعيّن قيمة منطقية تشير إلى ما إذا سيتم إغلاق كائن Response بعد حفظ المستند في الاستجابة. |
+| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | هذا السمة تفعّل وظيفة استخراج الصورة أو النص لمستندات PDF مع طبقة OCR الفرعية. |
 | [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | تنسيق حفظ البيانات. |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | رد نداء للتعامل مع أي تحذيرات تم إنشاؤها. يقوم WarningHandler بإرجاع عنصر من تعداد ReturnAction يحدد إما الاستمرار أو الإنهاء. الاستمرار هو الإجراء الافتراضي وتستمر عملية الحفظ، ومع ذلك يمكن للمستخدم أيضًا إرجاع الإنهاء وفي هذه الحالة يجب أن تتوقف عملية الحفظ. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | استدعاء رد نداء لمعالجة أي تحذيرات تم إنشاؤها. يُعيد WarningHandler عنصر تعداد ReturnAction يحدد إما Continue أو Abort. Continue هو الإجراء الافتراضي وتستمر عملية الحفظ، ومع ذلك قد يُعيد المستخدم Abort وفي هذه الحالة يجب إيقاف عملية الحفظ. |
 
 ## الحقول
 
 | الاسم | الوصف |
 | --- | --- |
-| [CompressOutputToZipArchive](../../aspose.pdf/svgsaveoptions/compressoutputtoziparchive/) | يحدد ما إذا كان سيتم إنشاء المخرجات كأرشيف مضغوط واحد. يرجى الرجوع إلى التعليق على خيارات 'TreatTargetFileNameAsDirectory' لرؤية قواعد تسمية ملفات SVG للصفحات لمستند المصدر متعدد الصفحات، والتي تنطبق أيضًا على مجموعة الملفات الناتجة المضغوطة. |
-| [CustomStrategyOfEmbeddedImagesSaving](../../aspose.pdf/svgsaveoptions/customstrategyofembeddedimagessaving/) | يمكن أن يحتوي هذا الحقل على استراتيجية الحفظ التي يجب استخدامها (إذا كانت موجودة) أثناء التحويل للتعامل المخصص مع ملفات الصور الخارجية المرجعية التي تم إنشاؤها (مثل BMP أو JPEG المضمنة) المضمنة في SVG المحفوظ. يجب أن تعالج تلك الاستراتيجية الموارد وتعيد سلسلة تمثل URI المرغوب فيه للموارد المحفوظة في SVG الناتج. إذا كان يجب معالجة هذا الملف أو ذاك لسبب ما بواسطة كود المحول نفسه، وليس في كود مخصص، يرجى تعيين في كود مخصص علامة 'CustomProcessingCancelled' لمتغير 'imageSavingInfo'. إنه يشير إلى المحول بأن جميع الخطوات اللازمة لمعالجة تلك المورد يجب أن تتم في المحول نفسه كما لو لم يكن هناك أي كود مخصص خارجي. |
+| [CompressOutputToZipArchive](../../aspose.pdf/svgsaveoptions/compressoutputtoziparchive/) | يحدد ما إذا كان سيتم إنشاء المخرجات كأرشيف zip واحد. يرجى الرجوع إلى التعليق على خيار 'TreatTargetFileNameAsDirectory' لرؤية قواعد تسمية ملفات svg للصفحات في مستند المصدر متعدد الصفحات، والتي تُطبق أيضاً على مجموعة الملفات المضغوطة. |
+| [CustomStrategyOfEmbeddedImagesSaving](../../aspose.pdf/svgsaveoptions/customstrategyofembeddedimagessaving/) | يمكن لهذا الحقل أن يحتوي على استراتيجية حفظ يجب استخدامها (إن وجدت) أثناء التحويل للتعامل المخصص مع ملفات الصور الخارجية المرجعية التي تم إنشاؤها (مثل BMP أو JPEG المضمّن) المضمّنة في SVG المحفوظ. يجب أن تقوم هذه الاستراتيجية بمعالجة الموارد وإرجاع سلسلة تمثل URI المطلوب للموارد المحفوظة في SVG المُولَّد. إذا كان من الضروري معالجة هذا الملف أو ذاك الملف لسبب ما بواسطة كود المحول نفسه، وليس عبر كود مخصص، يرجى تعيين علامة 'CustomProcessingCancelled' في المتغيّر الخاص بمعامل 'imageSavingInfo' في الكود المخصص. هذا يُشير إلى المحول بأن جميع الخطوات اللازمة لمعالجة ذلك المورد يجب أن تُنفّذ داخل المحول كما لو لم يكن هناك أي كود مخصص خارجي. |
 | [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | معالجة الصفحات في عدة خيوط. |
-| [ScaleToPixels](../../aspose.pdf/svgsaveoptions/scaletopixels/) | يحدد ما إذا كان يجب تغيير حجم المستند الناتج من نقاط الطباعة إلى بكسلات. |
-| [TreatTargetFileNameAsDirectory](../../aspose.pdf/svgsaveoptions/treattargetfilenameasdirectory/) | تحدد هذه الخيارات ما إذا كان سيتم إنشاء دليل الهدف (إذا لم يكن موجودًا بعد) بنفس اسم ملف الإخراج المطلوب بدلاً من ملف الإخراج المطلوب نفسه. إذا كان الأمر كذلك، فسيحتوي الدليل على جميع صور SVG الناتجة للصفحات (كما هو موضح أدناه). إذا لم يكن كذلك، فسيتم إنشاء ملفات الإخراج للصفحات الأخرى غير الأولى بالضبط في الدليل المطلوب كملف الإخراج الرئيسي، ولكن ستحتوي على لاحقة في اسم الملف _[2...n]، التي تحددها رقم الصفحة، على سبيل المثال، إذا قمت بتحديد ملف الإخراج "C:\AsposeTests\output.svg" وكانت الإخراج تحتوي على عدة ملفات SVG للصفحات، فسيتم أيضًا إنشاء ملفات الصفحات في الدليل "C:\AsposeTests\" وستكون أسماؤها 'output.svg'، 'output_2.svg'، 'output_3.svg'، إلخ. |
-| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | أحيانًا تحتوي ملفات PDF على صور خلفية (للصفحات أو خلايا الجدول) تم بناؤها من عدة صور خلفية متكررة متجاورة. في هذه الحالة، تقوم برامج العرض للتنسيقات المستهدفة (مثل MsWord لتنسيق DOCS) أحيانًا بإنشاء حدود مرئية بين أجزاء الصور الخلفية، لأن تقنياتهم في تنعيم حواف الصور (مضاد التعرج) تختلف عن Acrobat Reader. إذا بدا أن المستند المصدر يحتوي على مثل هذه الحدود المرئية بين أجزاء من نفس الصور الخلفية، يرجى محاولة استخدام هذا الإعداد للتخلص من هذا التأثير غير المرغوب فيه. انتبه! عادةً ما تؤدي هذه التحسينات في الجودة إلى إبطاء التحويل بشكل كبير، لذا، يرجى استخدام هذا الخيار فقط عندما يكون ذلك ضروريًا حقًا. |
+| [ScaleToPixels](../../aspose.pdf/svgsaveoptions/scaletopixels/) | يحدد ما إذا كان سيتم تحويل مقياس المستند الناتج من النقاط الطباعية إلى البكسلات. |
+| [TreatTargetFileNameAsDirectory](../../aspose.pdf/svgsaveoptions/treattargetfilenameasdirectory/) | تحدد هذه الخيار ما إذا كان سيتم إنشاء دليل هدف (إن لم يكن موجوداً) يحمل نفس اسم ملف الإخراج المطلوب بدلاً من ملف الإخراج نفسه. وبالتالي سيحتوي الدليل على جميع صور SVG للصفحات (كما هو موضح أدناه). إذا كان الجواب لا، فسيتم إنشاء ملفات الصفحات الأخرى غير الأولى في الدليل المطلوب نفسه كملف الإخراج الرئيسي، ولكن سيُضاف إلى اسم الملف اللاحقة _[2...n] التي تُحدَّد برقم الصفحة، على سبيل المثال إذا حددت ملف الإخراج "C:\AsposeTests\output.svg" وكان الإخراج يحتوي على عدة ملفات svg للصفحات، فسيتم إنشاء ملفات الصفحات أيضاً في الدليل "C:\AsposeTests\" وستكون أسماؤها 'output.svg', 'output_2.svg', 'output_3.svg' إلخ. |
+| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | أحيانًا تحتوي ملفات PDF على صور خلفية (للصفحات أو خلايا الجداول) مُنشأة من عدة صور خلفية مكررة موضوعة بجانب بعضها. في هذه الحالة قد يولد مُعالج صيغ الهدف (مثل MsWord لتنسيق DOCS) حدودًا مرئية بين أجزاء صور الخلفية، بسبب اختلاف تقنياته في تنعيم حواف الصورة (مضاد التعرج) عن Acrobat Reader. إذا بدا أن المستند المُصدّر يحتوي على مثل هذه الحدود المرئية بين أجزاء صور الخلفية المتشابهة، يرجى تجربة استخدام هذا الإعداد للتخلص من هذا التأثير غير المرغوب. انتباه! عادةً ما تُبطئ هذه تحسين الجودة عملية التحويل بشكل ملحوظ، لذا يرجى استخدام هذا الخيار فقط عندما يكون ضروريًا حقًا. |
 
 ## أمثلة
 
-يوضح المثال التالي كيفية تحويل ملف PDF إلى ملف SVG
+المثال التالي يوضح كيفية تحويل ملف PDF إلى ملف SVG
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// المسار إلى دليل المستندات.
 	string dataDir = "YOUR_DATA_DIRECTORY";
 
 	// The path to your PDF File.
 	var pdfFile = Path.Combine(dataDir, "PDF-to-SVG.pdf");
 
-	// The path to output SVG File.
+	// المسار إلى ملف SVG الناتج.
 	var svgFile= Path.Combine(dataDir, "PDF-to-SVG.svg");
 		
 	using (Document pdfDocument = new Document(pdfFile))
 	{
-		// Initialize SvgSaveOptions	
+		// تهيئة SvgSaveOptions	
 		SvgSaveOptions saveOptions = new SvgSaveOptions();
 		
-		// Save SVG file
+		// حفظ ملف SVG
 		pdfDocument.Save(svgFile, saveOptions);
 	}
 ```
@@ -89,6 +89,8 @@ public class SvgSaveOptions : UnifiedSaveOptions
 
 ### انظر أيضًا
 
-* فئة [UnifiedSaveOptions](../unifiedsaveoptions/)
-* مساحة [Aspose.Pdf](../../aspose.pdf/)
-* تجميع [Aspose.PDF](../../)
+* class [UnifiedSaveOptions](../unifiedsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

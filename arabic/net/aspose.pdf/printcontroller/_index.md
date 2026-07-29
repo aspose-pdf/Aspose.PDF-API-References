@@ -1,42 +1,44 @@
 ---
-title: Class PrintController
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.PrintController. تمثل وحدة التحكم في الطباعة
+title: "الفئة PrintController"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.PrintController. تمثل وحدة تحكم الطباعة"
 type: docs
-weight: 9490
+weight: 9640
 url: /ar/net/aspose.pdf/printcontroller/
 ---
 ## PrintController class
 
-تمثل وحدة التحكم في الطباعة.
+يمثل وحدة تحكم الطباعة.
 
 ```csharp
 public sealed class PrintController : PrintController, IDisposable
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [PrintController](printcontroller/)() | المُنشئ الافتراضي. |
+| [PrintController](printcontroller/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [FileName](../../aspose.pdf/printcontroller/filename/) { get; set; } | يحصل على أو يحدد اسم الملف. |
+| [FileName](../../aspose.pdf/printcontroller/filename/) { get; set; } | يحصل على اسم الملف أو يعيّنه. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Dispose](../../aspose.pdf/printcontroller/dispose/)() | التخلص. |
-| override [OnEndPage](../../aspose.pdf/printcontroller/onendpage/)(PrintDocument, PrintPageEventArgs) | يتم استدعاؤه عند انتهاء طباعة الصفحة. |
-| override [OnEndPrint](../../aspose.pdf/printcontroller/onendprint/)(PrintDocument, PrintEventArgs) | يتم استدعاؤه عند بدء طباعة الصفحة. |
-| override [OnStartPage](../../aspose.pdf/printcontroller/onstartpage/)(PrintDocument, PrintPageEventArgs) | يتم استدعاؤه عند بدء طباعة الصفحة. |
-| override [OnStartPrint](../../aspose.pdf/printcontroller/onstartprint/)(PrintDocument, PrintEventArgs) | يتم استدعاؤه عند بدء طباعة الصفحة. |
+| [Dispose](../../aspose.pdf/printcontroller/dispose/)() | تحرير. |
+| override [OnEndPage](../../aspose.pdf/printcontroller/onendpage/)(PrintDocument, PrintPageEventArgs) | يُطلق عند انتهاء طباعة الصفحة. |
+| override [OnEndPrint](../../aspose.pdf/printcontroller/onendprint/)(PrintDocument, PrintEventArgs) | يُطلق عند بدء طباعة الصفحة. |
+| override [OnStartPage](../../aspose.pdf/printcontroller/onstartpage/)(PrintDocument, PrintPageEventArgs) | يُطلق عند بدء طباعة الصفحة. |
+| override [OnStartPrint](../../aspose.pdf/printcontroller/onstartprint/)(PrintDocument, PrintEventArgs) | يُطلق عند بدء طباعة الصفحة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

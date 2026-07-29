@@ -1,52 +1,52 @@
 ---
-title: FontRepository.FindFont
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FontRepository. تبحث وتعيد الخط بالاسم المحدد
+title: "FontRepository.FindFont"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FontRepository. تبحث وتعيد الخط بالاسم المحدد"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.text/fontrepository/findfont/
 ---
 ## FindFont(string) {#findfont}
 
-تبحث وتعيد الخط بالاسم المحدد.
+يبحث ويعيد الخط بالاسم المحدد.
 
 ```csharp
 public static Font FindFont(string fontName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fontName | String | اسم الخط. |
 
-### Return Value
+### قيمة الإرجاع
 
 كائن الخط.
 
-## Examples
+## أمثلة
 
-المثال يوضح كيفية العثور على الخط واستبدال خط النص في الصفحة الأولى.
+يوضح المثال كيفية العثور على الخط واستبدال خط النص في الصفحة الأولى.
 
 ```csharp
-// Find font
+// العثور على الخط
 Font font = FontRepository.FindFont("Arial");
 
-// Open document
+// فتح المستند
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// إنشاء كائن TextFragmentAbsorber للعثور على جميع تكرارات النص "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// قبول الماص للصفحة الأولى
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurrence
+// تغيير خط أول ظهور للنص
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// حفظ المستند
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Font](../../font/)
 * class [FontRepository](../)
@@ -57,46 +57,46 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ## FindFont(string, bool) {#findfont_3}
 
-تبحث وتعيد الخط بالاسم المحدد مع تجاهل أو احترام حساسية الحالة.
+يبحث ويعيد الخط بالاسم المحدد متجاهلاً أو مع احترام حساسية الحالة.
 
 ```csharp
 public static Font FindFont(string fontName, bool ignoreCase)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fontName | String | اسم الخط. |
 | ignoreCase | Boolean | حساسية الحالة |
 
-### Return Value
+### قيمة الإرجاع
 
 كائن الخط.
 
-## Examples
+## أمثلة
 
-المثال يوضح كيفية العثور على الخط واستبدال خط النص في الصفحة الأولى.
+يوضح المثال كيفية العثور على الخط واستبدال خط النص في الصفحة الأولى.
 
 ```csharp
-// Find font
+// العثور على الخط
 Font font = FontRepository.FindFont("Arial");
 
-// Open document
+// فتح المستند
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// إنشاء كائن TextFragmentAbsorber للعثور على جميع تكرارات النص "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// قبول الماص للصفحة الأولى
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurrence
+// تغيير خط أول ظهور للنص
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// حفظ المستند
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Font](../../font/)
 * class [FontRepository](../)
@@ -107,46 +107,46 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ## FindFont(string, FontStyles) {#findfont_1}
 
-تبحث وتعيد الخط بالاسم المحدد ونمط الخط.
+يبحث ويعيد الخط بالاسم المحدد ونمط الخط.
 
 ```csharp
 public static Font FindFont(string fontFamilyName, FontStyles stl)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fontFamilyName | String | اسم عائلة الخط. |
 | stl | FontStyles | قيمة نمط الخط. |
 
-### Return Value
+### قيمة الإرجاع
 
-كائن الخط الذي يتوافق مع معلمات طلب البحث.
+كائن الخط المقابل لمعلمات طلب البحث.
 
-## Examples
+## أمثلة
 
-المثال يوضح كيفية العثور على الخط واستبدال خط النص في الصفحة الأولى.
+يوضح المثال كيفية العثور على الخط واستبدال خط النص في الصفحة الأولى.
 
 ```csharp
-// Find font
+// العثور على الخط
 Font font = FontRepository.FindFont("Arial", FontStyle.Italic);
 
-// Open document
+// فتح المستند
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurences
+// إنشاء كائن TextFragmentAbsorber للعثور على جميع حالات ظهور النص "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// قبول الماص للصفحة الأولى
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurence
+// تغيير خط أول حالة ظهور للنص
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// حفظ المستند
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Font](../../font/)
 * enum [FontStyles](../../fontstyles/)
@@ -158,50 +158,52 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ## FindFont(string, FontStyles, bool) {#findfont_2}
 
-تبحث وتعيد الخط بالاسم المحدد ونمط الخط مع تجاهل أو احترام حساسية الحالة.
+يبحث ويعيد الخط بالاسم المحدد ونمط الخط متجاهلاً أو مع احترام حساسية الحالة.
 
 ```csharp
 public static Font FindFont(string fontFamilyName, FontStyles stl, bool ignoreCase)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fontFamilyName | String | اسم عائلة الخط. |
 | stl | FontStyles | قيمة نمط الخط. |
 | ignoreCase | Boolean | حساسية الحالة |
 
-### Return Value
+### قيمة الإرجاع
 
-كائن الخط الذي يتوافق مع معلمات طلب البحث.
+كائن الخط المقابل لمعلمات طلب البحث.
 
-## Examples
+## أمثلة
 
-المثال يوضح كيفية العثور على الخط واستبدال خط النص في الصفحة الأولى.
+يوضح المثال كيفية العثور على الخط واستبدال خط النص في الصفحة الأولى.
 
 ```csharp
-// Find font
+// العثور على الخط
 Font font = FontRepository.FindFont("Arial", FontStyle.Italic);
 
-// Open document
+// فتح المستند
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurences
+// إنشاء كائن TextFragmentAbsorber للعثور على جميع حالات ظهور النص "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// قبول الماص للصفحة الأولى
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurence
+// تغيير خط أول حالة ظهور للنص
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// حفظ المستند
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Font](../../font/)
 * enum [FontStyles](../../fontstyles/)
 * class [FontRepository](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

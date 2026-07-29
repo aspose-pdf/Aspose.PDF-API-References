@@ -1,14 +1,14 @@
 ---
-title: Class Choice
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.Choice. تمثل اختيارًا في استجابة إكمال الدردشة
+title: "الفئة Choice"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.AI.Choice. تمثّل خيارًا في استجابة إكمال الدردشة"
 type: docs
-weight: 200
+weight: 210
 url: /ar/net/aspose.pdf.ai/choice/
 ---
-## فئة الاختيار
+## Choice class
 
-تمثل اختيارًا في استجابة إكمال الدردشة.
+يمثل خيارًا في استجابة إكمال المحادثة.
 
 ```csharp
 public class Choice
@@ -18,24 +18,26 @@ public class Choice
 
 | الاسم | الوصف |
 | --- | --- |
-| [Choice](choice/)() | المنشئ الافتراضي. |
+| [Choice](choice/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [FinishReason](../../aspose.pdf.ai/choice/finishreason/) { get; set; } | يحصل أو يحدد سبب توقف النموذج عن توليد الرموز. سيتوقف هذا إذا وصل النموذج إلى نقطة توقف طبيعية أو تسلسل توقف محدد، أو إذا تم الوصول إلى الحد الأقصى لعدد الرموز المحدد في الطلب. |
-| [Index](../../aspose.pdf.ai/choice/index/) { get; set; } | يحصل أو يحدد فهرس الاختيار في قائمة الاختيارات. |
-| [Logprobs](../../aspose.pdf.ai/choice/logprobs/) { get; set; } | يحصل أو يحدد معلومات احتمالية السجل للاختيار. |
-| [Message](../../aspose.pdf.ai/choice/message/) { get; set; } | يحصل أو يحدد رسالة إكمال الدردشة التي تم إنشاؤها بواسطة النموذج. |
+| [FinishReason](../../aspose.pdf.ai/choice/finishreason/) { get; set; } | يسترجع أو يعيّن سبب توقف النموذج عن توليد الرموز. سيكون ذلك إيقافًا إذا وصل النموذج إلى نقطة توقف طبيعية أو إلى تسلسل إيقاف مُقدَّم، أو طولًا إذا تم الوصول إلى الحد الأقصى لعدد الرموز المحدد في الطلب. |
+| [Index](../../aspose.pdf.ai/choice/index/) { get; set; } | يسترجع أو يعيّن فهرس الخيار في قائمة الخيارات. |
+| [Logprobs](../../aspose.pdf.ai/choice/logprobs/) { get; set; } | يسترجع أو يعيّن معلومات احتمال السجل للخيار. |
+| [Message](../../aspose.pdf.ai/choice/message/) { get; set; } | يسترجع أو يعيّن رسالة إكمال الدردشة التي يولدها النموذج. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| override [ToString](../../aspose.pdf.ai/choice/tostring/)() | يعيد محتوى الاختيار كسلسلة. |
+| override [ToString](../../aspose.pdf.ai/choice/tostring/)() | يرجع محتوى الخيار كسلسلة نصية. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

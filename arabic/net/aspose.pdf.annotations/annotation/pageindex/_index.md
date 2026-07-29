@@ -1,14 +1,14 @@
 ---
-title: Annotation.PageIndex
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية التعليق. تحصل على فهرس الصفحة التي تحتوي على التعليق
+title: "Annotation.PageIndex"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Annotation. يحصل على فهرس الصفحة التي تحتوي على التعليق"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.annotations/annotation/pageindex/
 ---
-## خاصية Annotation.PageIndex
+## Annotation.PageIndex property
 
-تحصل على فهرس الصفحة التي تحتوي على التعليق.
+يحصل على فهرس الصفحة التي تحتوي على التعليق التوضيحي.
 
 ```csharp
 public virtual int PageIndex { get; }
@@ -19,3 +19,5 @@ public virtual int PageIndex { get; }
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

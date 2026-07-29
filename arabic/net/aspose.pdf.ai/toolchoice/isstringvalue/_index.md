@@ -1,14 +1,14 @@
 ---
-title: ToolChoice.IsStringValue
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ToolChoice. تحصل على قيمة تشير إلى ما إذا كانت ToolChoice قيمة نصية
+title: "ToolChoice.IsStringValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ToolChoice. تحصل على قيمة تشير إلى ما إذا كان ToolChoice قيمة نصية"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/toolchoice/isstringvalue/
 ---
-## خاصية ToolChoice.IsStringValue
+## ToolChoice.IsStringValue property
 
-تحصل على قيمة تشير إلى ما إذا كانت ToolChoice قيمة نصية.
+يحصل على قيمة تشير إلى ما إذا كان ToolChoice قيمة نصية.
 
 ```csharp
 public bool IsStringValue { get; }
@@ -19,3 +19,5 @@ public bool IsStringValue { get; }
 * class [ToolChoice](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.WritingMode
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeKey. خاصية WritingMode مالك خاصية التخطيط
+title: "AttributeKey.WritingMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "AttributeKey حقل. WritingMode سمة Layout سمة المالك"
 type: docs
 weight: 410
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/writingmode/
 ---
-## حقل AttributeKey.WritingMode
+## AttributeKey.WritingMode field
 
-خاصية WritingMode (مالك خاصية التخطيط).
+خاصية WritingMode (مالك خاصية Table).
 
 ```csharp
 public static readonly AttributeKey WritingMode;
@@ -19,3 +19,5 @@ public static readonly AttributeKey WritingMode;
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,23 +1,23 @@
 ---
-title: BarcodeField.BarcodeField
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ BarcodeField. يُهيئ مثيلًا جديدًا من فئة BarcodeField
+title: "BarcodeField.BarcodeField"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ BarcodeField. يهيئ نسخة جديدة من فئة BarcodeField"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.forms/barcodefield/barcodefield/
 ---
 ## BarcodeField(Page, Rectangle) {#constructor_1}
 
-يُهيئ مثيلًا جديدًا من فئة [`BarcodeField`](../).
+يهيئ نسخة جديدة من الفئة [`BarcodeField`](../).
 
 ```csharp
 public BarcodeField(Page page, Rectangle rect)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة التي سيتم وضع الرمز الشريطي الجديد عليها. |
-| rect | Rectangle | أحجام الرمز الشريطي المعطاة في مستطيل. |
+| صفحة | صفحة | الصفحة التي سيتم وضع الباركود الجديد فيها. |
+| rect | Rectangle | أحجام الباركود معطاة في المستطيل. |
 
 ### انظر أيضًا
 
@@ -31,16 +31,16 @@ public BarcodeField(Page page, Rectangle rect)
 
 ## BarcodeField(Document, Rectangle) {#constructor}
 
-يُهيئ مثيلًا جديدًا من فئة [`BarcodeField`](../).
+يهيئ نسخة جديدة من الفئة [`BarcodeField`](../).
 
 ```csharp
 public BarcodeField(Document doc, Rectangle rect)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| doc | Document | المستند الذي سيتم إنشاء الحقل فيه. |
-| rect | Rectangle | المستطيل الذي سيتم وضع الحقل عليه في الصفحة. |
+| doc | Document | Document حيث سيتم إنشاء الحقل. |
+| rect | Rectangle | Rectangle حيث سيتم وضع الحقل على الصفحة. |
 
 ### انظر أيضًا
 
@@ -49,3 +49,5 @@ public BarcodeField(Document doc, Rectangle rect)
 * class [BarcodeField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

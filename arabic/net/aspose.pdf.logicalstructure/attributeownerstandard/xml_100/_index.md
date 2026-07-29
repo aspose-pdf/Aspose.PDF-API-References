@@ -1,12 +1,12 @@
 ---
-title: AttributeOwnerStandard.Xml_100
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeOwnerStandard. XML1.0.0 مالك السمة
+title: "AttributeOwnerStandard.Xml_100"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeOwnerStandard. مالك السمة XML1.0.0"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.logicalstructure/attributeownerstandard/xml_100/
 ---
-## حقل AttributeOwnerStandard.Xml_100
+## AttributeOwnerStandard.Xml_100 field
 
 مالك السمة XML-1.0.0.
 
@@ -19,3 +19,5 @@ public static readonly AttributeOwnerStandard Xml_100;
 * class [AttributeOwnerStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

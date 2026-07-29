@@ -1,14 +1,14 @@
 ---
-title: OutputIntents.Count
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OutputIntents. تحصل على عدد النوايا الناتجة الموجودة في المجموعة
+title: "OutputIntents.Count"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OutputIntents. يحصل على عدد نوايا الإخراج الموجودة في المجموعة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/outputintents/count/
 ---
-## خاصية OutputIntents.Count
+## OutputIntents.Count property
 
-تحصل على عدد النوايا الناتجة الموجودة في المجموعة.
+يحصل على عدد نوايا الإخراج الموجودة في المجموعة.
 
 ```csharp
 public int Count { get; }
@@ -19,3 +19,5 @@ public int Count { get; }
 * class [OutputIntents](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

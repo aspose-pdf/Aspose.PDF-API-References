@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Placement_Before
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. موضع السمة قبل - موضوعة بحيث يتزامن الحافة الأمامية لمستطيل تخصيص العناصر مع تلك الخاصة بأقرب منطقة مرجعية محيطة
+title: "AttributeName.Placement_Before"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. السمة Placement Before  موضوعة بحيث تتطابق الحافة السابقة لمستطيل تخصيص العنصر مع حافة أقرب منطقة مرجعية محيطة"
 type: docs
 weight: 340
 url: /ar/net/aspose.pdf.logicalstructure/attributename/placement_before/
 ---
-## حقل AttributeName.Placement_Before
+## AttributeName.Placement_Before field
 
-موضع السمة: قبل - موضوعة بحيث يتزامن الحافة الأمامية لمستطيل تخصيص العنصر مع تلك الخاصة بأقرب منطقة مرجعية محيطة.
+السمة Placement: Before - يتم وضعه بحيث يتطابق الحافة السابقة لمستطيل تخصيص العنصر مع حافة أقرب منطقة مرجعية محيطة.
 
 ```csharp
 public static readonly AttributeName Placement_Before;
@@ -19,3 +19,5 @@ public static readonly AttributeName Placement_Before;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

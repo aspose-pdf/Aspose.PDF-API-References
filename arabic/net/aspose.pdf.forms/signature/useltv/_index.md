@@ -1,14 +1,14 @@
 ---
-title: Signature.UseLtv
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية التوقيع. يحصل/يحدد علامة تحقق ltv
+title: "Signature.UseLtv"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Signature. الحصول/التعيين لعلامة التحقق ltv"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf.forms/signature/useltv/
 ---
-## خاصية Signature.UseLtv
+## Signature.UseLtv property
 
-يحصل/يحدد علامة تحقق ltv.
+يحصل/يعيّن علامة التحقق من ltv.
 
 ```csharp
 public bool UseLtv { get; set; }
@@ -19,3 +19,5 @@ public bool UseLtv { get; set; }
 * class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

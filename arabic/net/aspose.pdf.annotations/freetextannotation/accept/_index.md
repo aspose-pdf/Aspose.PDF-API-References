@@ -1,22 +1,22 @@
 ---
-title: FreeTextAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FreeTextAnnotation. تقبل كائن الزائر لمعالجة التعليق
+title: "FreeTextAnnotation.Accept"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FreeTextAnnotation. تقبل كائن Visitor لمعالجة التعليق التوضيحي"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.annotations/freetextannotation/accept/
 ---
-## طريقة FreeTextAnnotation.Accept
+## FreeTextAnnotation.Accept method
 
-تقبل كائن الزائر لمعالجة التعليق.
+يقبل كائن الزائر لمعالجة التعليق.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الزائر | AnnotationSelector | كائن الزائر. |
+| زائر | AnnotationSelector | كائن Visitor. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public override void Accept(AnnotationSelector visitor)
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

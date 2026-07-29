@@ -1,12 +1,12 @@
 ---
-title: IAdjustPosition.AdjustPosition
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IAdjustPosition. ضبط الموضع
+title: "IAdjustPosition.AdjustPosition"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IAdjustPosition. ضبط الموضع"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.tagged/iadjustposition/adjustposition/
 ---
-## طريقة IAdjustPosition.AdjustPosition
+## IAdjustPosition.AdjustPosition method
 
 ضبط الموضع.
 
@@ -14,7 +14,7 @@ url: /ar/net/aspose.pdf.tagged/iadjustposition/adjustposition/
 public void AdjustPosition(PositionSettings positionSettings)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | positionSettings | PositionSettings | إعدادات الموضع |
 
@@ -24,3 +24,5 @@ public void AdjustPosition(PositionSettings positionSettings)
 * interface [IAdjustPosition](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

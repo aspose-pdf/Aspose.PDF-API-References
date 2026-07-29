@@ -1,14 +1,14 @@
 ---
-title: XmpValue.ToDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XmpValue. تعيد قاموسًا يحتوي على قيم مسماة
+title: "XmpValue.ToDictionary"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XmpValue. تُعيد القاموس الذي يحتوي على القيم المسماة"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf/xmpvalue/todictionary/
 ---
-## طريقة XmpValue.ToDictionary
+## XmpValue.ToDictionary method
 
-تعيد قاموسًا يحتوي على قيم مسماة.
+يعيد قاموسًا يحتوي على قيم مسماة.
 
 ```csharp
 public Dictionary<string, XmpValue> ToDictionary()
@@ -23,3 +23,5 @@ public Dictionary<string, XmpValue> ToDictionary()
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

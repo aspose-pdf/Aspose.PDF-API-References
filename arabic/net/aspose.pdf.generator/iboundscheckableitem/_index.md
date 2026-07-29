@@ -1,12 +1,12 @@
 ---
-title: Interface IBoundsCheckableItem
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Generator.IBoundsCheckableItem interface.
+title: "واجهة IBoundsCheckableItem"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "واجهة Aspose.Pdf.Generator.IBoundsCheckableItem."
 type: docs
 weight: 5360
 url: /ar/net/aspose.pdf.generator/iboundscheckableitem/
 ---
-## واجهة IBoundsCheckableItem
+## IBoundsCheckableItem interface
 
 ```csharp
 public interface IBoundsCheckableItem
@@ -16,9 +16,11 @@ public interface IBoundsCheckableItem
 
 | الاسم | الوصف |
 | --- | --- |
-| [CheckBounds](../../aspose.pdf.generator/iboundscheckableitem/checkbounds/)(double, double) | يتحقق مما إذا كان العنصر يناسب ضمن أبعاد الحاوية المعطاة (شاملة). |
+| [CheckBounds](../../aspose.pdf.generator/iboundscheckableitem/checkbounds/)(double, double) | يتحقق مما إذا كان العنصر يتناسب مع أبعاد الحاوية المحددة (شاملة). |
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf.Generator](../../aspose.pdf.generator/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Generator](../../aspose.pdf.generator/)
+* assembly [Aspose.PDF](../../)
+
+

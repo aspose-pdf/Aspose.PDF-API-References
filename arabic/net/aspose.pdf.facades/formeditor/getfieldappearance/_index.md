@@ -1,20 +1,20 @@
 ---
-title: FormEditor.GetFieldAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormEditor. الحصول على علامات الحقل
+title: "FormEditor.GetFieldAppearance"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FormEditor. الحصول على علامات الحقل"
 type: docs
 weight: 190
 url: /ar/net/aspose.pdf.facades/formeditor/getfieldappearance/
 ---
-## طريقة FormEditor.GetFieldAppearance
+## FormEditor.GetFieldAppearance method
 
-الحصول على علامات الحقل.
+احصل على أعلام الحقل.
 
 ```csharp
 public AnnotationFlags GetFieldAppearance(string fieldName)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fieldName | String | اسم الحقل. |
 
@@ -28,3 +28,5 @@ public AnnotationFlags GetFieldAppearance(string fieldName)
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

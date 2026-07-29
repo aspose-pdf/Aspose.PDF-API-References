@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.Measure
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LineAnnotation. وحدات القياس المحددة لهذه التعليمة
+title: "LineAnnotation.Measure"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LineAnnotation. وحدات القياس المحددة لهذا التعليق"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.annotations/lineannotation/measure/
 ---
-## خاصية LineAnnotation.Measure
+## LineAnnotation.Measure property
 
-وحدات القياس المحددة لهذه التعليمة.
+وحدات القياس المحددة لهذا التعليق.
 
 ```csharp
 public Measure Measure { get; set; }
@@ -20,3 +20,5 @@ public Measure Measure { get; set; }
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

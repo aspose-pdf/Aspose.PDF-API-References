@@ -1,14 +1,14 @@
 ---
-title: ChatMessage.Name
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ChatMessage. تحصل أو تعين اسمًا اختياريًا للمشارك. توفر معلومات النموذج لتمييز بين المشاركين من نفس الدور
+title: "ChatMessage.Name"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ChatMessage. تحصل أو تعين اسمًا اختياريًا للمشارك. توفر معلومات النموذج للتمييز بين المشاركين الذين لهم نفس الدور"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.ai/chatmessage/name/
 ---
-## خاصية ChatMessage.Name
+## ChatMessage.Name property
 
-تحصل أو تعين اسمًا اختياريًا للمشارك. توفر معلومات النموذج لتمييز بين المشاركين من نفس الدور.
+يحصل أو يعيّن اسمًا اختياريًا للمشارك. يوفر معلومات النموذج للتمييز بين المشاركين الذين لهم نفس الدور.
 
 ```csharp
 public string Name { get; set; }
@@ -19,3 +19,5 @@ public string Name { get; set; }
 * class [ChatMessage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

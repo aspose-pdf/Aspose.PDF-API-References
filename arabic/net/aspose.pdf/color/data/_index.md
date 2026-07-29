@@ -1,14 +1,14 @@
 ---
-title: Color.Data
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على قيمة اللون
+title: "Color.Data"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. يحصل على قيمة اللون"
 type: docs
 weight: 1510
 url: /ar/net/aspose.pdf/color/data/
 ---
-## خاصية Color.Data
+## Color.Data property
 
-تحصل على قيمة اللون.
+يحصل على قيمة اللون.
 
 ```csharp
 public double[] Data { get; }
@@ -19,3 +19,5 @@ public double[] Data { get; }
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

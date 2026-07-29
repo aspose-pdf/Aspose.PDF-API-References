@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.CreateVectorStoreFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIClient. تنشئ ملف تخزين متجه جديد بشكل غير متزامن
+title: "OpenAIClient.CreateVectorStoreFileAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIClient. تنشئ ملف مخزن متجه جديد بشكل غير متزامن"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.ai/openaiclient/createvectorstorefileasync/
 ---
-## طريقة OpenAIClient.CreateVectorStoreFileAsync
+## OpenAIClient.CreateVectorStoreFileAsync method
 
-تنشئ ملف تخزين متجه جديد بشكل غير متزامن.
+ينشئ ملف مخزن متجه جديد بشكل غير متزامن.
 
 ```csharp
 public Task<VectorStoreFileResponse> CreateVectorStoreFileAsync(string vectorStoreId, 
@@ -16,21 +16,21 @@ public Task<VectorStoreFileResponse> CreateVectorStoreFileAsync(string vectorSto
     CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| vectorStoreId | String | معرف تخزين المتجه حيث سيتم إنشاء الملف. |
+| vectorStoreId | String | معرّف المخزن المتجه الذي سيُنشأ فيه الملف. |
 | vectorStoreFileCreateRequest | VectorStoreFileCreateRequest | كائن الطلب الذي يحتوي على تفاصيل إنشاء الملف. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
 ### قيمة الإرجاع
 
-مهمة تمثل العملية غير المتزامنة. تحتوي نتيجة المهمة على الاستجابة من إنشاء الملف.
+مهمة تمثل العملية غير المتزامنة. يحتوي نتيجة المهمة على الاستجابة من إنشاء الملف.
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف تخزين المتجه فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرّف مخزن المتجهات فارغًا أو null. |
 
 ### انظر أيضًا
 
@@ -39,3 +39,5 @@ public Task<VectorStoreFileResponse> CreateVectorStoreFileAsync(string vectorSto
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

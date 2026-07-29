@@ -1,24 +1,24 @@
 ---
-title: AnnotationCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة AnnotationCollection. تحذف التعليق من المجموعة حسب الفهرس
+title: "AnnotationCollection.Delete"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة AnnotationCollection. تحذف annotation من المجموعة حسب الفهرس."
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.annotations/annotationcollection/delete/
 ---
 ## Delete(int) {#delete_2}
 
-تحذف التعليق من المجموعة حسب الفهرس.
+يحذف التعليق من المجموعة حسب الفهرس.
 
 ```csharp
 public void Delete(int index)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | فهرس التعليق الذي سيتم حذفه. |
+| index | Int32 | فهرس annotation التي سيتم حذفها. |
 
-### See Also
+### انظر أيضًا
 
 * class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
@@ -28,13 +28,13 @@ public void Delete(int index)
 
 ## Delete() {#delete}
 
-تحذف جميع التعليقات من المجموعة.
+يحذف جميع التعليقات من المجموعة.
 
 ```csharp
 public void Delete()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
@@ -44,19 +44,21 @@ public void Delete()
 
 ## Delete(Annotation) {#delete_1}
 
-تحذف التعليق المحدد من المجموعة.
+يحذف التعليق المحدد من المجموعة.
 
 ```csharp
 public void Delete(Annotation annotation)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| annotation | Annotation | التعليق الذي سيتم حذفه. |
+| annotation | Annotation | Annotation التي سيتم حذفها. |
 
-### See Also
+### انظر أيضًا
 
 * class [Annotation](../../annotation/)
 * class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

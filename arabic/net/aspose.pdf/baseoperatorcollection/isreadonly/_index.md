@@ -1,14 +1,14 @@
 ---
-title: BaseOperatorCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BaseOperatorCollection. تعيد true إذا كانت المجموعة للقراءة فقط
+title: "BaseOperatorCollection.IsReadOnly"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BaseOperatorCollection. تُعيد true إذا كانت المجموعة للقراءة فقط"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/baseoperatorcollection/isreadonly/
 ---
-## خاصية BaseOperatorCollection.IsReadOnly
+## BaseOperatorCollection.IsReadOnly property
 
-تعيد true إذا كانت المجموعة للقراءة فقط.
+يرجع true إذا كانت المجموعة للقراءة فقط.
 
 ```csharp
 public abstract bool IsReadOnly { get; }
@@ -19,3 +19,5 @@ public abstract bool IsReadOnly { get; }
 * class [BaseOperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

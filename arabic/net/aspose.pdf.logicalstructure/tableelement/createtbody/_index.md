@@ -1,14 +1,14 @@
 ---
-title: TableElement.CreateTBody
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TableElement. تنشئ TableTHeadElement وتضيفها إلى الجدول الحالي
+title: "TableElement.CreateTBody"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TableElement. تنشئ TableTHeadElement وتضيفه إلى الجدول الحالي"
 type: docs
 weight: 200
 url: /ar/net/aspose.pdf.logicalstructure/tableelement/createtbody/
 ---
-## طريقة TableElement.CreateTBody
+## TableElement.CreateTBody method
 
-تنشئ [`TableTHeadElement`](../../tabletheadelement/) وتضيفها إلى الجدول الحالي.
+ينشئ [`TableTHeadElement`](../../tabletheadelement/) ويضيفه إلى الجدول الحالي.
 
 ```csharp
 public TableTBodyElement CreateTBody()
@@ -16,7 +16,7 @@ public TableTBodyElement CreateTBody()
 
 ### قيمة الإرجاع
 
-عنصر الهيكل الذي تم إنشاؤه.
+تم إنشاء عنصر بنية.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public TableTBodyElement CreateTBody()
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

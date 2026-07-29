@@ -1,14 +1,14 @@
 ---
-title: SubmitToolOutputs.SubmitToolOutputs
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SubmitToolOutputs. المُنشئ الافتراضي
+title: "SubmitToolOutputs.SubmitToolOutputs"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SubmitToolOutputs. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/submittooloutputs/submittooloutputs/
 ---
-## مُنشئ SubmitToolOutputs
+## SubmitToolOutputs constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public SubmitToolOutputs()
@@ -19,3 +19,5 @@ public SubmitToolOutputs()
 * class [SubmitToolOutputs](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

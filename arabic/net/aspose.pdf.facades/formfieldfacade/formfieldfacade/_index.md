@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.FormFieldFacade
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FormFieldFacade. المُنشئ الافتراضي
+title: "FormFieldFacade.FormFieldFacade"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FormFieldFacade. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.facades/formfieldfacade/formfieldfacade/
 ---
-## مُنشئ FormFieldFacade
+## FormFieldFacade constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public FormFieldFacade()
@@ -19,3 +19,5 @@ public FormFieldFacade()
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

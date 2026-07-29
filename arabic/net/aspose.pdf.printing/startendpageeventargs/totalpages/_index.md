@@ -1,12 +1,12 @@
 ---
-title: StartEndPageEventArgs.TotalPages
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StartEndPageEventArgs. يحصل على العدد الإجمالي للصفحات التي سيتم طباعتها
+title: "StartEndPageEventArgs.TotalPages"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل StartEndPageEventArgs. يحصل على إجمالي عدد الصفحات التي سيتم طباعتها"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.printing/startendpageeventargs/totalpages/
 ---
-## حقل StartEndPageEventArgs.TotalPages
+## StartEndPageEventArgs.TotalPages field
 
 يحصل على العدد الإجمالي للصفحات التي سيتم طباعتها.
 
@@ -19,3 +19,5 @@ public readonly int TotalPages;
 * class [StartEndPageEventArgs](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

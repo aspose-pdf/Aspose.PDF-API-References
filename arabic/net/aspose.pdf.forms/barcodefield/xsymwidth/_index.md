@@ -1,14 +1,14 @@
 ---
-title: BarcodeField.XSymWidth
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BarcodeField. تحصل على المسافة الأفقية بالبكسل بين وحدتين باركود
+title: "BarcodeField.XSymWidth"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BarcodeField. يحصل على المسافة الأفقية بالبكسل بين وحدتي الباركود"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.forms/barcodefield/xsymwidth/
 ---
-## خاصية BarcodeField.XSymWidth
+## BarcodeField.XSymWidth property
 
-تحصل على المسافة الأفقية، بالبكسل، بين وحدتين باركود.
+يحصل على المسافة الأفقية، بالبكسل، بين وحدتي باركود.
 
 ```csharp
 public int XSymWidth { get; }
@@ -19,3 +19,5 @@ public int XSymWidth { get; }
 * class [BarcodeField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

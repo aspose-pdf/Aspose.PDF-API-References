@@ -1,14 +1,14 @@
 ---
-title: OutputIntents.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OutputIntents. تُرجع عدادًا يتكرر عبر المجموعة
+title: "OutputIntents.GetEnumerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OutputIntents. تُرجع عدّادًا يتنقل عبر المجموعة"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/outputintents/getenumerator/
 ---
-## طريقة OutputIntents.GetEnumerator
+## OutputIntents.GetEnumerator method
 
-تُرجع عدادًا يتكرر عبر المجموعة.
+يرجع عدّادًا يتنقل عبر المجموعة.
 
 ```csharp
 public IEnumerator<OutputIntent> GetEnumerator()
@@ -16,7 +16,7 @@ public IEnumerator<OutputIntent> GetEnumerator()
 
 ### قيمة الإرجاع
 
-عداد يمكن استخدامه للتكرار عبر المجموعة.
+enumerator يمكن استخدامه للتنقل عبر المجموعة.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public IEnumerator<OutputIntent> GetEnumerator()
 * class [OutputIntents](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

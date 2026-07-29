@@ -1,14 +1,14 @@
 ---
-title: BorderInfo.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة BorderInfo. تنسخ كائن BorderInfo جديد
+title: "BorderInfo.Clone"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة BorderInfo. تنسخ كائن BorderInfo جديد"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf/borderinfo/clone/
 ---
-## طريقة BorderInfo.Clone
+## BorderInfo.Clone method
 
-تنسخ كائن BorderInfo جديد.
+ينسخ كائن BorderInfo جديد.
 
 ```csharp
 public object Clone()
@@ -23,3 +23,5 @@ public object Clone()
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

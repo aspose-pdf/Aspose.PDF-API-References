@@ -1,14 +1,14 @@
 ---
-title: Page.RotationMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصفحة. تحصل على مصفوفة التحويل للصفحة
+title: "Page.RotationMatrix"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Page. تحصل على مصفوفة التحويل للصفحة"
 type: docs
 weight: 260
 url: /ar/net/aspose.pdf/page/rotationmatrix/
 ---
-## خاصية Page.RotationMatrix
+## Page.RotationMatrix property
 
-تحصل على مصفوفة التحويل للصفحة.
+يحصل على مصفوفة التحويل للصفحة.
 
 ```csharp
 public Matrix RotationMatrix { get; }
@@ -20,3 +20,5 @@ public Matrix RotationMatrix { get; }
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

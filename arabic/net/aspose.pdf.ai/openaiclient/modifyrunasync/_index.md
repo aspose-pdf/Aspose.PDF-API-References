@@ -1,37 +1,37 @@
 ---
-title: OpenAIClient.ModifyRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIClient. تعدل عملية موجودة ضمن خيط بشكل غير متزامن
+title: "OpenAIClient.ModifyRunAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIClient. تعدل تشغيلًا موجودًا داخل سلسلة بشكل غير متزامن"
 type: docs
-weight: 400
+weight: 410
 url: /ar/net/aspose.pdf.ai/openaiclient/modifyrunasync/
 ---
-## طريقة OpenAIClient.ModifyRunAsync
+## OpenAIClient.ModifyRunAsync method
 
-تعدل عملية موجودة ضمن خيط بشكل غير متزامن.
+يعدل تشغيلًا موجودًا داخل خيط بشكل غير متزامن.
 
 ```csharp
 public Task<RunResponse> ModifyRunAsync(string threadId, string runId, 
     RunModifyRequest assistantModifyRequest, CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| threadId | String | معرف الخيط الذي يحتوي على العملية. |
-| runId | String | معرف العملية التي سيتم تعديلها. |
-| assistantModifyRequest | RunModifyRequest | تفاصيل الطلب لتعديل العملية. |
+| threadId | String | معرّف الخيط الذي يحتوي على التشغيل. |
+| runId | String | معرّف التشغيل المراد تعديله. |
+| assistantModifyRequest | RunModifyRequest | تفاصيل الطلب لتعديل التشغيل. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
 ### قيمة الإرجاع
 
-مهمة تمثل العملية غير المتزامنة. تحتوي نتيجة المهمة على الاستجابة من تعديل العملية.
+مهمة تمثل العملية غير المتزامنة. يحتوي نتيجة المهمة على الاستجابة من تعديل التشغيل.
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف الخيط فارغًا أو null. |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف العملية فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرّف الخيط فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يتم رمي الاستثناء عندما يكون معرّف التشغيل null أو فارغ. |
 
 ### انظر أيضًا
 
@@ -40,3 +40,5 @@ public Task<RunResponse> ModifyRunAsync(string threadId, string runId,
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

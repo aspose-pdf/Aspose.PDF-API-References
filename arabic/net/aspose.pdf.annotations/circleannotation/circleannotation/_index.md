@@ -1,24 +1,24 @@
 ---
-title: CircleAnnotation.CircleAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ CircleAnnotation. مُنشئ لتعليق الدائرة
+title: "CircleAnnotation.CircleAnnotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ CircleAnnotation. منشئ لتعليق توضيحي دائري"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/circleannotation/circleannotation/
 ---
 ## CircleAnnotation(Document) {#constructor}
 
-مُنشئ لتعليق الدائرة.
+منشئ لتعليق Circle.
 
 ```csharp
 public CircleAnnotation(Document document)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| document | Document | المستند الذي سيتم إنشاء التعليق فيه. |
+| document | Document | Document حيث سيتم إنشاء التعليق التوضيحي. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [CircleAnnotation](../)
@@ -29,21 +29,23 @@ public CircleAnnotation(Document document)
 
 ## CircleAnnotation(Page, Rectangle) {#constructor_1}
 
-ينشئ تعليق دائرة جديد على الصفحة المحددة.
+ينشئ تعليقا جديدا من نوع Circle على الصفحة المحددة.
 
 ```csharp
 public CircleAnnotation(Page page, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | صفحة المستند حيث يجب إنشاء التعليق. |
-| rect | Rectangle | المستطيل المطلوب الذي يحدد حدود التعليق. |
+| صفحة | صفحة | صفحة Document حيث يجب إنشاء التعليق التوضيحي. |
+| rect | Rectangle | المستطيل المطلوب الذي يحدد حد التعليق التوضيحي. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [CircleAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

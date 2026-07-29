@@ -1,14 +1,14 @@
 ---
-title: PdfToHtmlOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfToHtmlOptions. تحصل على اسم العملية
+title: "PdfToHtmlOptions.OperationName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfToHtmlOptions. يحصل على اسم العملية"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/pdftohtmloptions/operationname/
 ---
-## خاصية PdfToHtmlOptions.OperationName
+## PdfToHtmlOptions.OperationName property
 
-تحصل على اسم العملية.
+يحصل على اسم العملية.
 
 ```csharp
 public override string OperationName { get; }
@@ -19,3 +19,5 @@ public override string OperationName { get; }
 * class [PdfToHtmlOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

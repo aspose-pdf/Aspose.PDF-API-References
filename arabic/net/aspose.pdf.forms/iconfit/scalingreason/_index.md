@@ -1,14 +1,14 @@
 ---
-title: IconFit.ScalingReason
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية IconFit. تحصل أو تعين سبب التحجيم
+title: "IconFit.ScalingReason"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية IconFit. تحصّل أو تعيين سبب التحجيم."
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.forms/iconfit/scalingreason/
 ---
-## خاصية IconFit.ScalingReason
+## IconFit.ScalingReason property
 
-تحصل أو تعين سبب التحجيم.
+يحصل أو يعيّن سبب التحجيم.
 
 ```csharp
 public ScalingReason ScalingReason { get; set; }
@@ -20,3 +20,5 @@ public ScalingReason ScalingReason { get; set; }
 * class [IconFit](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

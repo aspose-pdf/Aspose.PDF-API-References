@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.TextSearchOptions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragmentAbsorber. تحصل أو تعين خيارات البحث. تتيح الخيارات البحث باستخدام التعبيرات العادية
+title: "TextFragmentAbsorber.TextSearchOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragmentAbsorber. تحصل أو تعين خيارات البحث. تمكّن الخيارات البحث باستخدام التعابير النمطية"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.text/textfragmentabsorber/textsearchoptions/
 ---
-## خاصية TextFragmentAbsorber.TextSearchOptions
+## TextFragmentAbsorber.TextSearchOptions property
 
-تحصل أو تعين خيارات البحث. تتيح الخيارات البحث باستخدام التعبيرات العادية.
+يحصل أو يعيّن خيارات البحث. تمكّن الخيارات البحث باستخدام التعبيرات النمطية.
 
 ```csharp
 public TextSearchOptions TextSearchOptions { get; set; }
@@ -16,24 +16,24 @@ public TextSearchOptions TextSearchOptions { get; set; }
 
 ## أمثلة
 
-توضح المثال كيفية إجراء بحث عن النص باستخدام التعبير العادي.
+يوضح المثال كيفية إجراء بحث نص باستخدام التعبير النمطي.
 
 ```csharp
-// Open document
+// فتح المستند
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object
+// إنشاء كائن TextFragmentAbsorber
 TextFragmentAbsorber absorber = new TextFragmentAbsorber();
 
-// make the absorber to search all words starting 'h' and ending 'o' using regular expression.
+// اجعل الـ absorber يبحث عن جميع الكلمات التي تبدأ بـ 'h' وتنتهي بـ 'o' باستخدام التعبير النمطي.
 absorber.Phrase = @"h\w*?o";
 absorber.TextSearchOptions = new TextSearchOptions(true);
 
-// we should find "hello" word and replace it with "Hi"
+// يجب أن نجد كلمة \"hello\" ونستبدلها بـ \"Hi\"
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi"; 
 
-// Save document
+// حفظ المستند
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
@@ -43,3 +43,5 @@ doc.Save(@"D:\Tests\output.pdf");
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

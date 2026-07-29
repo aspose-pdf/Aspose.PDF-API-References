@@ -1,20 +1,20 @@
 ---
-title: HtmlSaveOptions.ImageResolution
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية HtmlSaveOptions. تحصل أو تعين الدقة لتقديم الصور
+title: "HtmlSaveOptions.ImageResolution"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية HtmlSaveOptions. تحصل أو تعين الدقة لتصيير الصور."
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf/htmlsaveoptions/imageresolution/
 ---
-## خاصية HtmlSaveOptions.ImageResolution
+## HtmlSaveOptions.ImageResolution property
 
-تحصل أو تعين الدقة لتقديم الصور.
+يحصل أو يضبط الدقة لتصيير الصورة.
 
 ```csharp
 public int ImageResolution { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 الدقة
 
@@ -23,3 +23,5 @@ public int ImageResolution { get; set; }
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

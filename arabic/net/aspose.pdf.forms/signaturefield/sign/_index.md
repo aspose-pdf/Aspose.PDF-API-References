@@ -1,26 +1,26 @@
 ---
-title: SignatureField.Sign
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة SignatureField. توقيع الوثيقة باستخدام حقل التوقيع هذا
+title: "SignatureField.Sign"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة SignatureField. يوقع المستند باستخدام حقل التوقيع هذا."
 type: docs
-weight: 50
+weight: 60
 url: /ar/net/aspose.pdf.forms/signaturefield/sign/
 ---
 ## Sign(Signature, Stream, string) {#sign_1}
 
-يوقع الوثيقة باستخدام حقل التوقيع هذا.
+يوقّع المستند باستخدام حقل التوقيع هذا.
 
 ```csharp
 public void Sign(Signature signature, Stream pfx, string pass)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | signature | Signature | كائن التوقيع، انظر [`PKCS1`](../../pkcs1/)، [`PKCS7`](../../pkcs7/)، [`PKCS7Detached`](../../pkcs7detached/). |
-| pfx | Stream | تدفق مع الشهادة. |
-| pass | String | كلمة المرور للوصول إلى الخاص في *pfx*. |
+| pfx | Stream | دفق يحتوي على شهادة. |
+| pass | String | كلمة المرور للوصول إلى المفتاح الخاص في *pfx*. |
 
-### See Also
+### انظر أيضًا
 
 * class [Signature](../../signature/)
 * class [SignatureField](../)
@@ -31,19 +31,21 @@ public void Sign(Signature signature, Stream pfx, string pass)
 
 ## Sign(Signature) {#sign}
 
-وقع الوثيقة باستخدام حقل التوقيع هذا.
+وقّع المستند باستخدام حقل التوقيع هذا.
 
 ```csharp
 public void Sign(Signature signature)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | signature | Signature | كائن التوقيع، انظر [`PKCS1`](../../pkcs1/)، [`PKCS7`](../../pkcs7/) و [`PKCS7Detached`](../../pkcs7detached/). |
 
-### See Also
+### انظر أيضًا
 
 * class [Signature](../../signature/)
 * class [SignatureField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

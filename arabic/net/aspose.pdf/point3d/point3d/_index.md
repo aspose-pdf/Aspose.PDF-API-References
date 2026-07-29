@@ -1,20 +1,20 @@
 ---
-title: Point3D.Point3D
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ Point3D. يُهيئ مثيلًا جديدًا من Point3D
+title: "Point3D.Point3D"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Point3D. يهيئ نسخة جديدة من Point3D"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/point3d/point3d/
 ---
-## مُنشئ Point3D
+## Point3D constructor
 
-يُهيئ مثيلًا جديدًا من [`Point3D`](../).
+يُنشئ مثيلاً جديدًا لـ [`Point3D`](../).
 
 ```csharp
 public Point3D(double x, double y, double z)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | x | Double | قيمة إحداثي x. |
 | y | Double | قيمة إحداثي y. |
@@ -22,6 +22,8 @@ public Point3D(double x, double y, double z)
 
 ### انظر أيضًا
 
-* الفئة [Point3D](../)
-* مساحة الاسم [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [Point3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

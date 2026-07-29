@@ -1,14 +1,14 @@
 ---
-title: DocSaveOptions.ReSaveFonts
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocSaveOptions. تحصل أو تضبط الإجراء لإعادة حفظ الخطوط. إذا تم تعيينها على true، نقوم بإعادة تحميل الخطوط في كل صفحة لتجنب تأثير خصائص الخطوط السابقة وتحميل الخط الجديد من البداية. قم بتعيين هذا الخيار على false إذا كنت ترغب في تحسين الأداء. القيمة الافتراضية هي true
+title: "DocSaveOptions.ReSaveFonts"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocSaveOptions. يحصل أو يحدد الإجراء لإعادة حفظ الخطوط. إذا تم تعيينه إلى true نقوم بإعادة تحميل الخطوط في كل صفحة لتجنب تأثير خصائص الخط السابقة وتحميل الخط المُنشأ حديثًا من الصفر. اضبط هذا الخيار إلى false إذا كنت ترغب في تحسين الأداء. القيمة الافتراضية هي true."
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf/docsaveoptions/resavefonts/
 ---
-## خاصية DocSaveOptions.ReSaveFonts
+## DocSaveOptions.ReSaveFonts property
 
-تحصل أو تضبط الإجراء لإعادة حفظ الخطوط. إذا تم تعيينها على true، نقوم بإعادة تحميل الخطوط في كل صفحة لتجنب تأثير خصائص الخطوط السابقة وتحميل الخط الجديد من البداية. قم بتعيين هذا الخيار على false إذا كنت ترغب في تحسين الأداء. القيمة الافتراضية هي true;
+الحصول أو تعيين الإجراء لإعادة حفظ الخطوط. إذا تم تعيينه إلى true، نقوم بإعادة تحميل الخطوط في كل صفحة لتجنب تأثير خصائص الخط السابقة وتحميل الخط الذي تم إنشاؤه حديثًا من الصفر. اضبط هذا الخيار إلى false إذا كنت ترغب في تحسين الأداء. القيمة الافتراضية هي true؛
 
 ```csharp
 public bool ReSaveFonts { get; set; }
@@ -19,3 +19,5 @@ public bool ReSaveFonts { get; set; }
 * class [DocSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

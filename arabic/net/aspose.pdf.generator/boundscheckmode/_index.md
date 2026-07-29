@@ -1,7 +1,7 @@
 ---
-title: Enum BoundsCheckMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Generator.BoundsCheckMode enum. يحدد السلوك لفحص الحدود عند إضافة عناصر إلى مجموعة
+title: "تعداد BoundsCheckMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.Generator.BoundsCheckMode. يحدد السلوك للتحقق من الحدود عند إضافة عناصر إلى مجموعة"
 type: docs
 weight: 5330
 url: /ar/net/aspose.pdf.generator/boundscheckmode/
@@ -14,14 +14,16 @@ url: /ar/net/aspose.pdf.generator/boundscheckmode/
 public enum BoundsCheckMode
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Default | `0` | السلوك الافتراضي: إضافة عناصر دون فحص الحدود. |
-| ThrowExceptionIfDoesNotFit | `1` | إلقاء BoundsNotFitException إذا لم يتناسب عنصر ضمن أبعاد الحاوية المعطاة (شاملة). |
+| Default | `0` | السلوك الافتراضي: إضافة العناصر دون التحقق من الحدود. |
+| ThrowExceptionIfDoesNotFit | `1` | إلقاء BoundsNotFitException إذا لم يتناسب العنصر مع أبعاد الحاوية المحددة (شاملة). |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Generator](../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Heading.IsAutoSequence
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية العنوان. تحصل على العنوان الذي يجب أن يتم ترقيمه تلقائيًا
+title: "Heading.IsAutoSequence"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Heading. تحصل على ما إذا كان العنوان يجب أن يُرقم تلقائيًا"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/heading/isautosequence/
 ---
-## خاصية Heading.IsAutoSequence
+## Heading.IsAutoSequence property
 
-تحصل على العنوان الذي يجب أن يتم ترقيمه تلقائيًا.
+يحصل على ما إذا كان العنوان يجب أن يُرقم تلقائيًا.
 
 ```csharp
 public bool IsAutoSequence { get; set; }
@@ -19,3 +19,5 @@ public bool IsAutoSequence { get; set; }
 * class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

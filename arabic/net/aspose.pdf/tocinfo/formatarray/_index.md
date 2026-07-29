@@ -1,14 +1,14 @@
 ---
-title: TocInfo.FormatArray
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TocInfo. تحصل أو تعين مصفوفة التنسيق لجدول المحتويات
+title: "TocInfo.FormatArray"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TocInfo. تحصل أو تعين مصفوفة التنسيق لجدول المحتويات"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/tocinfo/formatarray/
 ---
-## خاصية TocInfo.FormatArray
+## TocInfo.FormatArray property
 
-تحصل أو تعين مصفوفة التنسيق لجدول المحتويات.
+يحصل أو يعيّن مصفوفة التنسيق لجدول المحتويات.
 
 ```csharp
 public LevelFormat[] FormatArray { get; set; }
@@ -20,3 +20,5 @@ public LevelFormat[] FormatArray { get; set; }
 * class [TocInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

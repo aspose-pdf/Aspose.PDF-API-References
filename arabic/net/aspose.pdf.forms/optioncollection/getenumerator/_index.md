@@ -1,26 +1,28 @@
 ---
-title: OptionCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OptionCollection. تعيد العداد للخيارات في المجموعة
+title: "OptionCollection.GetEnumerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OptionCollection. تُرجع المُعدِّد للخيارات في المجموعة"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.forms/optioncollection/getenumerator/
 ---
 ## OptionCollection.GetEnumerator method
 
-تعيد العداد للخيارات في المجموعة.
+يعيد المُعدد للخيارات في المجموعة.
 
 ```csharp
 public IEnumerator<Option> GetEnumerator()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-عداد الخيارات.
+مُعدِّد الخيارات.
 
-### See Also
+### انظر أيضًا
 
 * class [Option](../../option/)
 * class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

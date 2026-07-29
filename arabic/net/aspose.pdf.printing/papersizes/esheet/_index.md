@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.ESheet
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ورقة E بحجم 34 بوصة × 44 بوصة
+title: "PaperSizes.ESheet"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ورق E 34 بوصة × 44 بوصة"
 type: docs
 weight: 400
 url: /ar/net/aspose.pdf.printing/papersizes/esheet/
 ---
-## حقل PaperSizes.ESheet
+## PaperSizes.ESheet field
 
-ورقة E (34 بوصة × 44 بوصة).
+ورق E (34 بوصة × 44 بوصة).
 
 ```csharp
 public static readonly PaperSize ESheet;
@@ -20,3 +20,5 @@ public static readonly PaperSize ESheet;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

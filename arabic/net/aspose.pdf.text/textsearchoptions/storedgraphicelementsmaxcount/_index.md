@@ -1,14 +1,14 @@
 ---
-title: TextSearchOptions.StoredGraphicElementsMaxCount
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextSearchOptions. تحصل أو تعين قيمة تحد من البحث عن الرسوميات المتعلقة بالنص على صفحة لعدد محدد من العناصر. القيمة الافتراضية هي 250. قم بتعيين قيمة أقل في حالة وجود مشاكل في الأداء، جرب قيمة أكبر في حالة عدم العثور على بعض العناصر الرسومية.
+title: "TextSearchOptions.StoredGraphicElementsMaxCount"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextSearchOptions. يحصل أو يضبط القيمة التي تحدّ من البحث عن الرسومات المتعلقة بالنص مثل التسطير والخلفية إلخ على صفحة لعدد محدد من العناصر. القيمة الافتراضية هي 250. اضبط قيمة أقل في حالة مشاكل الأداء أو جرّب قيمة أكبر إذا لم يتم العثور على بعض العناصر الرسومية."
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.text/textsearchoptions/storedgraphicelementsmaxcount/
 ---
-## خاصية TextSearchOptions.StoredGraphicElementsMaxCount
+## TextSearchOptions.StoredGraphicElementsMaxCount property
 
-تحصل أو تعين قيمة تحد من البحث عن الرسوميات المتعلقة بالنص (التسطير، الخلفية، إلخ) على صفحة لعدد محدد من العناصر. القيمة الافتراضية هي 250. قم بتعيين قيمة أقل في حالة وجود مشاكل في الأداء، جرب قيمة أكبر في حالة عدم العثور على بعض العناصر الرسومية.
+الحصول أو الضبط قيمة تحدد عدد العناصر الرسومية المتعلقة بالنص (التسطير، الخلفية، إلخ) التي يُسمح بالبحث عنها في الصفحة. القيمة الافتراضية هي 250. اضبط قيمة أقل في حالة مشاكل الأداء، جرّب قيمة أكبر إذا لم يتم العثور على بعض العناصر الرسومية.
 
 ```csharp
 public int StoredGraphicElementsMaxCount { get; set; }
@@ -19,3 +19,5 @@ public int StoredGraphicElementsMaxCount { get; set; }
 * class [TextSearchOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

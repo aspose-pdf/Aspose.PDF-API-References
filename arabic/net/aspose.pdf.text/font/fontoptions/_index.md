@@ -1,14 +1,14 @@
 ---
-title: Font.FontOptions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الخط. خصائص مفيدة لضبط سلوك الخط
+title: "Font.FontOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Font. خصائص مفيدة لضبط سلوك Font"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.text/font/fontoptions/
 ---
-## خاصية Font.FontOptions
+## Font.FontOptions property
 
-خصائص مفيدة لضبط سلوك الخط
+خصائص مفيدة لضبط سلوك Font
 
 ```csharp
 public IFontOptions FontOptions { get; }
@@ -16,7 +16,9 @@ public IFontOptions FontOptions { get; }
 
 ### انظر أيضًا
 
-* واجهة [IFontOptions](../../ifontoptions/)
-* فئة [Font](../)
-* مساحة الاسم [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IFontOptions](../../ifontoptions/)
+* class [Font](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

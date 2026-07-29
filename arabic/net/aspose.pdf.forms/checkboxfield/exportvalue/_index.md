@@ -1,14 +1,14 @@
 ---
-title: CheckboxField.ExportValue
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CheckboxField. تحصل أو تعين قيمة التصدير لحقل CheckBox
+title: "CheckboxField.ExportValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CheckboxField. يحصل على أو يضبط قيمة التصدير لحقل CheckBox"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.forms/checkboxfield/exportvalue/
 ---
-## خاصية CheckboxField.ExportValue
+## CheckboxField.ExportValue property
 
-تحصل أو تعين قيمة التصدير لحقل CheckBox.
+يحصل أو يحدد قيمة التصدير لحقل CheckBox.
 
 ```csharp
 public string ExportValue { get; set; }
@@ -19,3 +19,5 @@ public string ExportValue { get; set; }
 * class [CheckboxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

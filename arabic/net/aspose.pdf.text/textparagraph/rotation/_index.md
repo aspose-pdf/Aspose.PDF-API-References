@@ -1,14 +1,14 @@
 ---
-title: TextParagraph.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextParagraph. تحصل أو تعين زاوية الدوران بالدرجات
+title: "TextParagraph.Rotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextParagraph. يحصل أو يضبط زاوية الدوران بالدرجات"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.text/textparagraph/rotation/
 ---
-## خاصية TextParagraph.Rotation
+## TextParagraph.Rotation property
 
-تحصل أو تعين زاوية الدوران بالدرجات.
+يحصل أو يعيّن زاوية الدوران بالدرجات.
 
 ```csharp
 public double Rotation { get; set; }
@@ -19,3 +19,5 @@ public double Rotation { get; set; }
 * class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

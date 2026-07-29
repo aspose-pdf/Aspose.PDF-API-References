@@ -1,28 +1,28 @@
 ---
-title: Form.FillFields
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. تملأ حقول مربع النص بقيم نصية وتقوم بحفظ المستند. ذات صلة بالمستندات الموقعة. ملاحظة تنطبق فقط على مربع النص. كل من أسماء الحقول والقيم حساسة لحالة الأحرف.
+title: "Form.FillFields"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. تملأ حقول مربعات النص بقيم نصية وتحفظ المستند. ذات صلة بالمستندات الموقعة. ملاحظة: تُطبق فقط على مربعات النص. كل من أسماء الحقول والقيم حساسة لحالة الأحرف"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.facades/form/fillfields/
 ---
-## طريقة Form.FillFields
+## Form.FillFields method
 
-تملأ حقول مربع النص بقيم نصية وتقوم بحفظ المستند. ذات صلة بالمستندات الموقعة. ملاحظة: تنطبق فقط على مربع النص. كل من أسماء الحقول والقيم حساسة لحالة الأحرف.
+يملى حقول مربع النص بقيم نصية ويحفظ المستند. يتعلق بالمستندات الموقعة. ملاحظة: يُطبق فقط على مربع النص. كل من أسماء الحقول والقيم حساسة لحالة الأحرف.
 
 ```csharp
 public bool FillFields(string[] fieldNames, string[] fieldValues, out Stream output)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fieldNames | String[] | أسماء الحقول. |
 | fieldValues | String[] | القيم الجديدة للحقول. |
-| output | Stream& | التدفق الذي سيتم حفظ المستند فيه. |
+| الإخراج | Stream& | التدفق حيث سيتم حفظ المستند. |
 
 ### قيمة الإرجاع
 
-true إذا تم العثور على الحقول وتم ملؤها بنجاح.
+صحيح إذا تم العثور على الحقول وتعبئتها بنجاح.
 
 ## أمثلة
 
@@ -37,3 +37,5 @@ form.FillFields(new string[] {"Field1"}, new string[] {"+"}, out stream);
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

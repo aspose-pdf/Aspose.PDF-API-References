@@ -1,14 +1,14 @@
 ---
-title: PdfToDocOptions.ConversionMode
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfToDocOptions. تسمح بالتحكم في كيفية تحويل مستند PDF إلى مستند معالجة نصوص
+title: "PdfToDocOptions.ConversionMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfToDocOptions. تسمح بالتحكم في كيفية تحويل مستند PDF إلى مستند معالجة كلمات"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/pdftodocoptions/conversionmode/
 ---
-## خاصية PdfToDocOptions.ConversionMode
+## PdfToDocOptions.ConversionMode property
 
-تسمح بالتحكم في كيفية تحويل مستند PDF إلى مستند معالجة نصوص.
+يسمح بالتحكم في كيفية تحويل مستند PDF إلى مستند معالجة نصية.
 
 ```csharp
 public ConversionMode ConversionMode { get; set; }
@@ -16,9 +16,9 @@ public ConversionMode ConversionMode { get; set; }
 
 ## ملاحظات
 
-استخدم وضع TextBox عندما لا يتم تعديل المستند الناتج بشكل كبير لاحقًا. صناديق النص سهلة التعديل عندما لا يكون هناك الكثير للقيام به.
+استخدم وضع TextBox عندما لا يتم تعديل المستند الناتج بشكل مكثف لاحقًا. صناديق النص سهلة التعديل عندما لا يكون هناك الكثير للقيام به.
 
-استخدم وضع Flow عندما يحتاج المستند الناتج إلى مزيد من التعديل. الفقرات وخطوط النص في وضع التدفق تسمح بتعديل النص بسهولة، ولكن كائنات التنسيق غير المدعومة ستبدو أسوأ من وضع TextBox.
+استخدم وضع Flow عندما يحتاج المستند الناتج إلى تعديل إضافي. الفقرات وأسطر النص في وضع Flow تسمح بتعديل النص بسهولة، لكن الكائنات التنسيقية غير المدعومة ستظهر بصورة أسوأ مقارنةً بوضع TextBox.
 
 ### انظر أيضًا
 
@@ -26,3 +26,5 @@ public ConversionMode ConversionMode { get; set; }
 * class [PdfToDocOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

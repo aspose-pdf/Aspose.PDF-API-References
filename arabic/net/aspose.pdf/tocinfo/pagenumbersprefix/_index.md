@@ -1,14 +1,14 @@
 ---
-title: TocInfo.PageNumbersPrefix
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TocInfo. تحصل أو تعين البادئة قبل رقم الصفحة
+title: "TocInfo.PageNumbersPrefix"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TocInfo. تحصل أو تعين ما إذا كان هناك بادئة قبل رقم الصفحة"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/tocinfo/pagenumbersprefix/
 ---
-## خاصية TocInfo.PageNumbersPrefix
+## TocInfo.PageNumbersPrefix property
 
-تحصل أو تعين البادئة قبل رقم الصفحة.
+يحصل أو يعيّن ما إذا كان هناك بادئة قبل رقم الصفحة.
 
 ```csharp
 public string PageNumbersPrefix { get; set; }
@@ -19,3 +19,5 @@ public string PageNumbersPrefix { get; set; }
 * class [TocInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

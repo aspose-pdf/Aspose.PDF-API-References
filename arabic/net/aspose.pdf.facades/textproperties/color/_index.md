@@ -1,14 +1,14 @@
 ---
-title: TextProperties.Color
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextProperties. تحصل أو تعين لون النص
+title: "TextProperties.Color"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextProperties. تحصل أو تعين لون النص"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.facades/textproperties/color/
 ---
-## خاصية TextProperties.Color
+## TextProperties.Color property
 
-تحصل أو تعين لون النص.
+يحصل أو يضبط لون النص.
 
 ```csharp
 public Color Color { get; set; }
@@ -19,3 +19,5 @@ public Color Color { get; set; }
 * class [TextProperties](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

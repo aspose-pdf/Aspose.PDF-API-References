@@ -1,26 +1,26 @@
 ---
-title: OperatorCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OperatorCollection. تحذف المشغل من المجموعة
+title: "OperatorCollection.Delete"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OperatorCollection. تحذف المشغل من المجموعة."
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf/operatorcollection/delete/
 ---
 ## Delete(int) {#delete_1}
 
-تحذف المشغل من المجموعة.
+يحذف المشغل من المجموعة.
 
 ```csharp
 public void Delete(int index)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | فهرس المشغل الذي يجب حذفه. يبدأ ترقيم المشغلين من 1. |
+| index | Int32 | فهرس المشغل الذي يجب حذفه. يبدأ ترقيم المشغلات من 1. |
 
-## Examples
+## أمثلة
 
-المثال يوضح كيفية حذف المشغل بواسطة فهرسه.
+يوضح المثال كيفية حذف المشغل وفقًا لفهرسه.
 
 ```csharp
 Document doc = new Document("input.pdf");
@@ -28,7 +28,7 @@ OperatorCollection oc = doc.Pages[1].Contents;
 oc.Delete(3);
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -38,19 +38,19 @@ oc.Delete(3);
 
 ## Delete(Operator[]) {#delete}
 
-تحذف المشغلين من المجموعة.
+يحذف المشغلات من المجموعة.
 
 ```csharp
 public void Delete(Operator[] ops)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| ops | Operator[] | مصفوفة من المشغلين للحذف |
+| ops | Operator[] | مصفوفة المشغلات التي سيتم حذفها |
 
-## Examples
+## أمثلة
 
-المثال يوضح كيفية إزالة المشغل من محتويات الصفحة.
+يوضح المثال كيفية إزالة المشغل من محتويات الصفحة.
 
 ```csharp
 Document doc = new Document("input.pdf");
@@ -58,7 +58,7 @@ OperatorCollection oc = doc.Pages[1].Contents;
 oc.Delete(new Operator[] { oc[1] } );
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Operator](../../operator/)
 * class [OperatorCollection](../)
@@ -69,19 +69,19 @@ oc.Delete(new Operator[] { oc[1] } );
 
 ## Delete(IList&lt;Operator&gt;) {#delete_2}
 
-تحذف المشغلين من المجموعة.
+يحذف المشغلات من المجموعة.
 
 ```csharp
 public void Delete(IList<Operator> list)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| list | IList`1 | قائمة المشغلين للحذف |
+| قائمة | IList`1 | قائمة المشغلات التي سيتم حذفها |
 
-## Examples
+## أمثلة
 
-المثال يوضح كيفية إزالة المشغل من محتويات الصفحة.
+يوضح المثال كيفية إزالة المشغل من محتويات الصفحة.
 
 ```csharp
 Document doc = new Document("input.pdf");
@@ -91,9 +91,11 @@ opList.Add(oc[1]);
 oc.Delete(opList);
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [Operator](../../operator/)
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

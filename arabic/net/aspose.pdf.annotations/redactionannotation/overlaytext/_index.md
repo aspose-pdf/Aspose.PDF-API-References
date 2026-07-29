@@ -1,14 +1,14 @@
 ---
-title: RedactionAnnotation.OverlayText
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RedactionAnnotation. تحصل أو تعين النص للطباعة على تعليق الحذف
+title: "RedactionAnnotation.OverlayText"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RedactionAnnotation. تحصل أو تعيين النص للطباعة على التعليق الممحو"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.annotations/redactionannotation/overlaytext/
 ---
-## خاصية RedactionAnnotation.OverlayText
+## RedactionAnnotation.OverlayText property
 
-تحصل أو تعين النص للطباعة على تعليق الحذف.
+يحصل أو يعيّن النص للطباعة على التعليق المحذوف.
 
 ```csharp
 public string OverlayText { get; set; }
@@ -19,3 +19,5 @@ public string OverlayText { get; set; }
 * class [RedactionAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

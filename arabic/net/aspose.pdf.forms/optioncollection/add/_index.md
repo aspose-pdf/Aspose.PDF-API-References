@@ -1,22 +1,22 @@
 ---
-title: OptionCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OptionCollection. تضيف عنصرًا في المجموعة وتثير NotImplementedException
+title: "OptionCollection.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OptionCollection. تضيف عنصرًا في المجموعة وتطرح استثناء NotImplementedException"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.forms/optioncollection/add/
 ---
-## طريقة OptionCollection.Add
+## OptionCollection.Add method
 
-تضيف عنصرًا في المجموعة، وتثير NotImplementedException.
+يضيف عنصرًا إلى المجموعة، يرمي NotImplementedException.
 
 ```csharp
 public void Add(Option item)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| item | Option | عنصر المشغل للإضافة. |
+| item | الخيار | عنصر المشغل للإضافة. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public void Add(Option item)
 * class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

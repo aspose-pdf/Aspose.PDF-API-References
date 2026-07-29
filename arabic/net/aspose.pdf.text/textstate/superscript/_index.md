@@ -1,14 +1,14 @@
 ---
-title: TextState.Superscript
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextState. تحصل أو تضبط النص العلوي
+title: "TextState.Superscript"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "TextState خاصية. يحصل أو يضبط النص كحرف فوقي"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf.text/textstate/superscript/
 ---
-## خاصية TextState.Superscript
+## TextState.Superscript property
 
-تحصل أو تضبط النص العلوي.
+يحصل أو يضبط النص فوق السطر.
 
 ```csharp
 public virtual bool Superscript { get; set; }
@@ -19,3 +19,5 @@ public virtual bool Superscript { get; set; }
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

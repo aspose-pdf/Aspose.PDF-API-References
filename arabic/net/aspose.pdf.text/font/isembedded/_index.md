@@ -1,14 +1,14 @@
 ---
-title: Font.IsEmbedded
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الخط. تحصل أو تعين قيمة تشير إلى ما إذا كان الخط مضمنًا. سيتم تلقائيًا تقسيم الخط القائم على IFont وإدراجه
+title: "Font.IsEmbedded"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Font. تحصل أو تعين قيمة تشير إلى ما إذا كان الخط مضمّنًا. الخط المستند إلى IFont سيتم تقليصه وتضمينه تلقائيًا"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.text/font/isembedded/
 ---
-## خاصية Font.IsEmbedded
+## Font.IsEmbedded property
 
-تحصل أو تعين قيمة تشير إلى ما إذا كان الخط مضمنًا. سيتم تلقائيًا تقسيم الخط القائم على IFont وإدراجه
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان الخط مضمّنًا. الخط المستند إلى IFont سيُقسم تلقائيًا ويُضمّن.
 
 ```csharp
 public bool IsEmbedded { get; set; }
@@ -16,25 +16,25 @@ public bool IsEmbedded { get; set; }
 
 ## أمثلة
 
-المثال التالي يوضح كيفية العثور على خط، ووسمه كمضمن، والبحث عن نص في صفحة الوثيقة واستبدال خط النص.
+يوضح المثال التالي كيفية العثور على خط، وضع علامة عليه كمدمَج، البحث عن النص في صفحة المستند واستبدال خط النص.
 
 ```csharp
-// Create font and mark it to be embedded
+// إنشاء خط وتحديده ليتم تضمينه
 Font font = FontRepository.FindFont("Arial");
 font.IsEmbedded = true;
 
-// open document
+// فتح المستند
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// create TextFragmentAbsorber object to find all "hello world" text occurrences
+// إنشاء كائن TextFragmentAbsorber للعثور على جميع مرات ظهور النص "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-// accept the absorber for first page
+// قبول الماصة للصفحة الأولى
 doc.Pages[1].Accept(absorber);
 
-// change font for the first text occurrence
+// تغيير الخط لأول ظهور للنص
 absorber.TextFragments[1].TextState.Font = font;
 
-// save document
+// حفظ المستند
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
@@ -46,3 +46,5 @@ doc.Save(@"D:\Tests\output.pdf");
 * class [Font](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

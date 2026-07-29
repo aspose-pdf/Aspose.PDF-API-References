@@ -1,14 +1,14 @@
 ---
-title: Tool.ToolFunction
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الأداة. تحصل أو تضبط الوظيفة التي يمكن أن يستدعيها النموذج
+title: "Tool.ToolFunction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Tool. تحصل أو تعيين الدالة التي يمكن للنموذج استدعاؤها"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.ai/tool/toolfunction/
 ---
-## خاصية Tool.ToolFunction
+## Tool.ToolFunction property
 
-تحصل أو تضبط الوظيفة التي يمكن أن يستدعيها النموذج.
+يحصل أو يضبط الدالة التي يمكن للنموذج استدعاؤها.
 
 ```csharp
 public Function ToolFunction { get; set; }
@@ -20,3 +20,5 @@ public Function ToolFunction { get; set; }
 * class [Tool](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

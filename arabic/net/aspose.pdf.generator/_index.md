@@ -1,24 +1,28 @@
 ---
-title: Aspose.Pdf.Generator
-second_title: Aspose.PDF for .NET API Reference
-description:
+title: "Aspose.Pdf.Generator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: 
 type: docs
 weight: 170
-url: /net/aspose.pdf.generator/
+url: /ar/net/aspose.pdf.generator/
 ---
+
+
 ## الفئات
 
-| الفئة | الوصف |
+| فئة | الوصف |
 | --- | --- |
-| [BoundsCheckableList&lt;T&gt;](./boundscheckablelist-1/) | تمثل BoundsCheckableList - غلاف حول System.Collections.Generic.List. |
-| [BoundsOutOfRangeException](./boundsoutofrangeexception/) | تمثل استثناء يحدث عندما لا يتناسب عنصر مع أبعاد الحاوية المعطاة. |
+| [BoundsCheckableList&lt;T&gt;](./boundscheckablelist-1/) | يمثل BoundsCheckableList - غلاف حول System.Collections.Generic.List. |
+| [BoundsOutOfRangeException](./boundsoutofrangeexception/) | يمثل استثناءً يحدث عندما لا يتناسب العنصر مع أبعاد الحاوية المحددة. |
 ## الواجهات
 
-| الواجهة | الوصف |
+| واجهة | الوصف |
 | --- | --- |
 | [IBoundsCheckableItem](./iboundscheckableitem/) |  |
-## التعداد
+## تعداد
 
-| التعداد | الوصف |
+| تعداد | الوصف |
 | --- | --- |
 | [BoundsCheckMode](./boundscheckmode/) | يحدد السلوك لفحص الحدود عند إضافة عناصر إلى مجموعة. |
+
+

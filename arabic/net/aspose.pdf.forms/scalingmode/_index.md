@@ -1,27 +1,29 @@
 ---
-title: Enum ScalingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.ScalingMode enum. نوع التحجيم الذي يجب استخدامه
+title: "تعداد ScalingMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.Forms.ScalingMode. نوع التحجيم الذي سيُستخدم"
 type: docs
-weight: 5240
+weight: 5360
 url: /ar/net/aspose.pdf.forms/scalingmode/
 ---
 ## ScalingMode enumeration
 
-نوع التحجيم الذي يجب استخدامه.
+نوع التحجيم الذي سيُستخدم.
 
 ```csharp
 public enum ScalingMode
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Proportional | `0` | قم بتحجيم الأيقونة لتناسب عرض أو ارتفاع مستطيل التعليق مع الحفاظ على نسبة العرض إلى الارتفاع الأصلية للأيقونة. |
-| Anamorphic | `1` | قم بتحجيم الأيقونة لملء مستطيل التعليق تمامًا. |
+| Proportional | `0` | قُم بتحجيم الأيقونة لتناسب عرض أو ارتفاع مستطيل التعليق مع الحفاظ على نسبة الأبعاد الأصلية للأيقونة. |
+| Anamorphic | `1` | قُم بتحجيم الأيقونة لملء مستطيل التعليق تمامًا. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,25 +1,25 @@
 ---
-title: PdfContentEditor.CreatePopup
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfContentEditor. تنشئ تعليق منبثق في مستند PDF
+title: "PdfContentEditor.CreatePopup"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfContentEditor. تنشئ تعليق توضيحي منبثق في مستند PDF"
 type: docs
 weight: 250
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/createpopup/
 ---
-## طريقة PdfContentEditor.CreatePopup
+## PdfContentEditor.CreatePopup method
 
-تنشئ تعليق منبثق في مستند PDF.
+ينشئ تعليقة منبثقة في مستند PDF.
 
 ```csharp
 public void CreatePopup(Rectangle rect, string contents, bool open, int page)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| rect | Rectangle | مستطيل التعليق الذي يحدد موقع التعليق على الصفحة. |
-| contents | String | محتويات التعليق. |
-| open | Boolean | علامة تحدد ما إذا كان يجب عرض التعليق المنبثق مفتوحًا في البداية. |
-| page | Int32 | رقم الصفحة الأصلية حيث سيتم إنشاء التعليق. |
+| rect | Rectangle | مستطيل التعليق يحدد موقع التعليق على الصفحة. |
+| contents | String | محتوى التعليق التوضيحي. |
+| open | Boolean | علامة تحدد ما إذا كان يجب عرض التعليق التوضيحي المنبثق مفتوحًا في البداية. |
+| صفحة | Int32 | عدد الصفحة الأصلية التي سيُنشأ فيها التعليق. |
 
 ## أمثلة
 
@@ -35,3 +35,5 @@ editor.Save("example_out.pdf");
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

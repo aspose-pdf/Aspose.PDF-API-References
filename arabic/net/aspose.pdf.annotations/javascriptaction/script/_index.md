@@ -1,14 +1,14 @@
 ---
-title: JavascriptAction.Script
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية JavascriptAction. يحصل على أو يحدد كود جافا سكريبت
+title: "JavascriptAction.Script"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية JavascriptAction. يحصل أو يضبط كود javascript"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/javascriptaction/script/
 ---
-## خاصية JavascriptAction.Script
+## JavascriptAction.Script property
 
-يحصل على أو يحدد كود جافا سكريبت.
+يحصل أو يضبط كود جافاسكريبت.
 
 ```csharp
 public string Script { get; set; }
@@ -19,3 +19,5 @@ public string Script { get; set; }
 * class [JavascriptAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

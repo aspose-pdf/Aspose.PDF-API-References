@@ -1,24 +1,24 @@
 ---
-title: PKCS1.PKCS1
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PKCS1. يُهيئ مثيلًا جديدًا من فئة PKCS1
+title: "PKCS1.PKCS1"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PKCS1. يهيئ نسخة جديدة من فئة PKCS1"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.forms/pkcs1/pkcs1/
 ---
 ## PKCS1(Stream) {#constructor_1}
 
-يهيئ مثيلًا جديدًا من فئة [`PKCS1`](../).
+يهيئ نسخة جديدة من الفئة [`PKCS1`](../).
 
 ```csharp
 public PKCS1(Stream image)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| image | Stream | ستحدد هذه الصورة مظهر التوقيع على الصفحة. |
+| صورة | Stream | هذه الصورة ستحدد مظهر التوقيع على Page. |
 
-### See Also
+### انظر أيضًا
 
 * class [PKCS1](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -28,13 +28,13 @@ public PKCS1(Stream image)
 
 ## PKCS1() {#constructor}
 
-يهيئ مثيلًا جديدًا من فئة [`PKCS1`](../).
+يهيئ نسخة جديدة من الفئة [`PKCS1`](../).
 
 ```csharp
 public PKCS1()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PKCS1](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -44,18 +44,18 @@ public PKCS1()
 
 ## PKCS1(string, string) {#constructor_3}
 
-يهيئ مثيلًا جديدًا من فئة [`PKCS1`](../).
+يهيئ نسخة جديدة من الفئة [`PKCS1`](../).
 
 ```csharp
 public PKCS1(string pfx, string password)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pfx | String | ملف Pfx الذي يحتوي على الشهادة للتوقيع. |
+| pfx | String | ملف Pfx الذي يحتوي على شهادة للتوقيع. |
 | password | String | كلمة المرور للشهادة. |
 
-### See Also
+### انظر أيضًا
 
 * class [PKCS1](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -65,19 +65,21 @@ public PKCS1(string pfx, string password)
 
 ## PKCS1(Stream, string) {#constructor_2}
 
-يهيئ مثيلًا جديدًا من فئة [`PKCS1`](../).
+يهيئ نسخة جديدة من الفئة [`PKCS1`](../).
 
 ```csharp
 public PKCS1(Stream pfx, string password)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pfx | Stream | تدفق مع بيانات الشهادة منظمة كـ pfx. |
+| pfx | Stream | دفق يحتوي على بيانات الشهادة منظمة كـ pfx. |
 | password | String | كلمة المرور للوصول إلى المفتاح الخاص في الشهادة. |
 
-### See Also
+### انظر أيضًا
 
 * class [PKCS1](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

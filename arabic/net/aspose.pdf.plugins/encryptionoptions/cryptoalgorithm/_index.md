@@ -1,14 +1,14 @@
 ---
-title: EncryptionOptions.CryptoAlgorithm
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية EncryptionOptions. خوارزمية التشفير انظر CryptoAlgorithm للتفاصيل
+title: "EncryptionOptions.CryptoAlgorithm"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية EncryptionOptions. خوارزمية تشفير، راجع CryptoAlgorithm للتفاصيل"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/encryptionoptions/cryptoalgorithm/
 ---
-## خاصية EncryptionOptions.CryptoAlgorithm
+## EncryptionOptions.CryptoAlgorithm property
 
-خوارزمية التشفير، انظر `CryptoAlgorithm` للتفاصيل.
+خوارزمية تشفير، راجع `CryptoAlgorithm` للتفاصيل.
 
 ```csharp
 public CryptoAlgorithm CryptoAlgorithm { get; set; }
@@ -20,3 +20,5 @@ public CryptoAlgorithm CryptoAlgorithm { get; set; }
 * class [EncryptionOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

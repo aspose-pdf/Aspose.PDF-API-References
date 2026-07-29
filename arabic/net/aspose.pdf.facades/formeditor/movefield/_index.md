@@ -1,30 +1,30 @@
 ---
-title: FormEditor.MoveField
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormEditor. تعيين موضع جديد للحقل
+title: "FormEditor.MoveField"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FormEditor. تحديد موضع جديد للحقل"
 type: docs
 weight: 200
 url: /ar/net/aspose.pdf.facades/formeditor/movefield/
 ---
-## طريقة FormEditor.MoveField
+## FormEditor.MoveField method
 
-تعيين موضع جديد للحقل.
+حدد الموقع الجديد للحقول.
 
 ```csharp
 public bool MoveField(string fieldName, float llx, float lly, float urx, float ury)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fieldName | String | اسم الحقل الذي يجب نقله. |
-| llx | Single | الإحداثي السيني للزاوية السفلى اليسرى من الحقل. |
-| lly | Single | الإحداثي الصادي للزاوية السفلى اليسرى من الحقل. |
-| urx | Single | الإحداثي السيني للزاوية العليا اليمنى من الحقل. |
-| ury | Single | الإحداثي الصادي للزاوية العليا اليمنى من الحقل. |
+| llx | Single | الإحداثي السيني للزاوية السفلية اليسرى للحقل. |
+| lly | Single | الإحداثي الصادي للزاوية السفلية اليسرى للحقل. |
+| urx | Single | الإحداثي السيني للزاوية العلوية اليمنى للحقل. |
+| ury | Single | الإحداثي الصادي للزاوية العلوية اليمنى للحقل. |
 
 ### قيمة الإرجاع
 
-true إذا تم تغيير موضع الحقل بنجاح.
+صحيح إذا تم تغيير موضع الحقل بنجاح.
 
 ## أمثلة
 
@@ -38,3 +38,5 @@ formEditor.MoveField("textField", 20.5f, 20.3f, 120.6f, 40.8f);
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

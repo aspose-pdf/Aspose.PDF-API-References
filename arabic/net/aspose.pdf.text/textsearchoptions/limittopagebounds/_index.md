@@ -1,14 +1,14 @@
 ---
-title: TextSearchOptions.LimitToPageBounds
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية خيارات البحث عن النص. يحصل أو يحدد الإشارة إلى أن النص يتم البحث عنه ضمن حدود الصفحة
+title: "TextSearchOptions.LimitToPageBounds"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextSearchOptions. يحصل أو يضبط الدلالة على أن النص يُبحث ضمن حدود الصفحة."
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.text/textsearchoptions/limittopagebounds/
 ---
-## خاصية خيارات البحث عن النص.حدود الصفحة
+## TextSearchOptions.LimitToPageBounds property
 
-يحصل أو يحدد الإشارة إلى أن النص يتم البحث عنه ضمن حدود الصفحة.
+الحصول أو الضبط إشارة إلى أن النص يُبحث ضمن حدود الصفحة.
 
 ```csharp
 public bool LimitToPageBounds { get; set; }
@@ -19,3 +19,5 @@ public bool LimitToPageBounds { get; set; }
 * class [TextSearchOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

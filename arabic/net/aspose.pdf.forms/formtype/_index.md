@@ -1,14 +1,14 @@
 ---
-title: Enum FormType
-second_title: Aspose.PDF for .NET API Reference
-description: تعداد FormType في Aspose.Pdf.Forms. تعداد الأنواع الممكنة من Acro Form
+title: "التعداد FormType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.Forms.FormType. تعداد الأنواع الممكنة لنموذج Acro"
 type: docs
-weight: 5100
+weight: 5220
 url: /ar/net/aspose.pdf.forms/formtype/
 ---
-## تعداد FormType
+## FormType enumeration
 
-تعداد الأنواع الممكنة من Acro Form.
+تعداد الأنواع المحتملة لنموذج Acro Form.
 
 ```csharp
 public enum FormType
@@ -18,11 +18,13 @@ public enum FormType
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Standard | `0` | AcroForm القياسي. |
+| Standard | `0` | نموذج Acro القياسي. |
 | Static | `1` | نموذج XFA ثابت. |
 | Dynamic | `2` | نموذج XFA ديناميكي. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../)
+
+

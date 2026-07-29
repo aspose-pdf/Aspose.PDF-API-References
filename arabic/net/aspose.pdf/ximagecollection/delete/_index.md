@@ -1,24 +1,24 @@
 ---
-title: XImageCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XImageCollection. يزيل الفهرس من المجموعة حسب الفهرس
+title: "XImageCollection.Delete"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XImageCollection. تُزيل الفهرس من المجموعة حسب الفهرس."
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf/ximagecollection/delete/
 ---
 ## Delete(int) {#delete_1}
 
-يزيل الفهرس من المجموعة حسب الفهرس.
+يزيل الفهرس من المجموعة باستخدام الفهرس.
 
 ```csharp
 public void Delete(int index)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | index | Int32 | فهرس الصورة. |
 
-### See Also
+### انظر أيضًا
 
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -28,18 +28,18 @@ public void Delete(int index)
 
 ## Delete(int, ImageDeleteAction) {#delete_2}
 
-يزيل الصورة من المجموعة حسب الفهرس مع تنفيذ الإجراء المحدد بواسطة معلمة الإجراء.
+يزيل الصورة من المجموعة حسب الفهرس مع تنفيذ الإجراء المحدد بواسطة معامل action.
 
 ```csharp
 public void Delete(int index, ImageDeleteAction action)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| index | Int32 | فهرس الصورة التي يجب إزالتها. |
-| action | ImageDeleteAction | الإجراء الذي يتم تنفيذه بعد حذف الصورة. |
+| index | Int32 | فهرس الصورة التي سيتم إزالتها. |
+| إجراء | ImageDeleteAction | الإجراء الذي يتم بعد حذف الصورة. |
 
-### See Also
+### انظر أيضًا
 
 * enum [ImageDeleteAction](../../imagedeleteaction/)
 * class [XImageCollection](../)
@@ -56,11 +56,11 @@ public void Delete(int index, ImageDeleteAction action)
 public void Delete(string name)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم الصورة التي يجب حذفها. |
+| الاسم | String | اسم الصورة التي يجب حذفها. |
 
-### See Also
+### انظر أيضًا
 
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -76,12 +76,12 @@ public void Delete(string name)
 public void Delete(string name, ImageDeleteAction action)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم الصورة التي يجب حذفها. |
-| action | ImageDeleteAction | الإجراء الذي سيتم تنفيذه مع كائن الصورة. |
+| الاسم | String | اسم الصورة التي يجب حذفها. |
+| إجراء | ImageDeleteAction | الإجراء الذي يجب تنفيذه مع كائن الصورة. |
 
-### See Also
+### انظر أيضًا
 
 * enum [ImageDeleteAction](../../imagedeleteaction/)
 * class [XImageCollection](../)
@@ -98,8 +98,10 @@ public void Delete(string name, ImageDeleteAction action)
 public void Delete()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

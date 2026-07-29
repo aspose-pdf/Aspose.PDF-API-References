@@ -1,14 +1,14 @@
 ---
-title: MarginInfo.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية MarginInfo. تحصل أو تعين قيمة عائمة تشير إلى الهامش السفلي
+title: "MarginInfo.Bottom"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية MarginInfo. تحصل أو تعين قيمة عائمة تشير إلى الهامش السفلي"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/margininfo/bottom/
 ---
-## خاصية MarginInfo.Bottom
+## MarginInfo.Bottom property
 
-تحصل أو تعين قيمة عائمة تشير إلى الهامش السفلي.
+يحصل أو يعيّن قيمة عائمة تشير إلى الهامش السفلي.
 
 ```csharp
 public double Bottom { get; set; }
@@ -19,3 +19,5 @@ public double Bottom { get; set; }
 * class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

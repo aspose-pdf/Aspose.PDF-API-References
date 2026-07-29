@@ -1,35 +1,35 @@
 ---
-title: OpenAIClient.ModifyThreadAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIClient. تعدل سلسلة موجودة بشكل غير متزامن
+title: "OpenAIClient.ModifyThreadAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIClient. تعدل سلسلة موجودة بشكل غير متزامن."
 type: docs
-weight: 410
+weight: 420
 url: /ar/net/aspose.pdf.ai/openaiclient/modifythreadasync/
 ---
-## طريقة OpenAIClient.ModifyThreadAsync
+## OpenAIClient.ModifyThreadAsync method
 
-تعدل سلسلة موجودة بشكل غير متزامن.
+يعدل خيطًا موجودًا بشكل غير متزامن.
 
 ```csharp
 public Task<ThreadResponse> ModifyThreadAsync(string threadId, 
     ThreadModifyRequest threadModifyRequest, CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| threadId | String | معرف السلسلة التي سيتم تعديلها. |
+| threadId | String | معرّف السلسلة التي سيتم تعديلها. |
 | threadModifyRequest | ThreadModifyRequest | كائن الطلب الذي يحتوي على تفاصيل التعديل. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
 ### قيمة الإرجاع
 
-مهمة تمثل العملية غير المتزامنة. تحتوي نتيجة المهمة على الاستجابة من تعديل السلسلة.
+مهمة تمثل العملية غير المتزامنة. يحتوي نتيجة المهمة على الاستجابة من تعديل السلسلة.
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف السلسلة فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرّف الخيط فارغًا أو null. |
 
 ### انظر أيضًا
 
@@ -38,3 +38,5 @@ public Task<ThreadResponse> ModifyThreadAsync(string threadId,
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

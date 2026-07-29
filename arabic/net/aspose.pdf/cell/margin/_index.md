@@ -1,14 +1,14 @@
 ---
-title: Cell.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الخلية. تحصل أو تعين الحشو
+title: "Cell.Margin"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Cell. يحصل أو يحدد الحشو"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf/cell/margin/
 ---
-## خاصية Cell.Margin
+## Cell.Margin property
 
-تحصل أو تعين الحشو.
+يحصل أو يعيّن الحشو.
 
 ```csharp
 public MarginInfo Margin { get; set; }
@@ -20,3 +20,5 @@ public MarginInfo Margin { get; set; }
 * class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

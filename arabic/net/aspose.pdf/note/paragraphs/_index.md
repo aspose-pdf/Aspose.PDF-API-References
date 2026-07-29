@@ -1,14 +1,14 @@
 ---
-title: Note.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Note. تحصل أو تعين مجموعة تشير إلى جميع الفقرات في FootNote
+title: "Note.Paragraphs"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Note. يحصل على أو يضبط مجموعة تشير إلى جميع الفقرات في FootNote"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/note/paragraphs/
 ---
-## خاصية Note.Paragraphs
+## Note.Paragraphs property
 
-تحصل أو تعين مجموعة تشير إلى جميع الفقرات في FootNote.
+يحصل أو يعيّن مجموعة تشير إلى جميع الفقرات في الـFootNote.
 
 ```csharp
 public Paragraphs Paragraphs { get; set; }
@@ -20,3 +20,5 @@ public Paragraphs Paragraphs { get; set; }
 * class [Note](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

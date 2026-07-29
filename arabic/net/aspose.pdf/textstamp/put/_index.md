@@ -1,22 +1,22 @@
 ---
-title: TextStamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TextStamp. تضيف ختم نصي على الصفحة
+title: "TextStamp.Put"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TextStamp. تضيف ختمًا نصيًا على الصفحة"
 type: docs
 weight: 180
 url: /ar/net/aspose.pdf/textstamp/put/
 ---
-## طريقة TextStamp.Put
+## TextStamp.Put method
 
-تضيف ختم نصي على الصفحة.
+يضيف ختمًا نصيًا على الصفحة.
 
 ```csharp
 public override void Put(Page page)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الصفحة | Page | الصفحة للتختم. |
+| صفحة | صفحة | صفحة للختم. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public override void Put(Page page)
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

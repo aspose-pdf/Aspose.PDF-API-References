@@ -1,14 +1,14 @@
 ---
-title: SvgLoadOptions.SvgLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SvgLoadOptions. المُنشئ الافتراضي
+title: "SvgLoadOptions.SvgLoadOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ SvgLoadOptions. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/svgloadoptions/svgloadoptions/
 ---
-## مُنشئ SvgLoadOptions
+## SvgLoadOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public SvgLoadOptions()
@@ -19,3 +19,5 @@ public SvgLoadOptions()
 * class [SvgLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.PageLayout
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. تحصل أو تعين تخطيط الصفحة الذي سيتم استخدامه عند فتح الوثيقة
+title: "Document.PageLayout"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. يحصل على أو يضبط تخطيط الصفحة الذي سيُستخدم عند فتح المستند."
 type: docs
-weight: 450
+weight: 470
 url: /ar/net/aspose.pdf/document/pagelayout/
 ---
-## خاصية Document.PageLayout
+## Document.PageLayout property
 
-تحصل أو تعين تخطيط الصفحة الذي سيتم استخدامه عند فتح الوثيقة.
+يحصل أو يضبط تخطيط الصفحة الذي سيُستخدم عند فتح المستند.
 
 ```csharp
 public PageLayout PageLayout { get; set; }
@@ -20,3 +20,5 @@ public PageLayout PageLayout { get; set; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

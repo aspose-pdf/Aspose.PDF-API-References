@@ -1,14 +1,14 @@
 ---
-title: TableCellElement.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TableCellElement. تحصل أو تعين الحشوة
+title: "TableCellElement.Margin"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TableCellElement. يحصل أو يضبط الحشو"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.logicalstructure/tablecellelement/margin/
 ---
-## خاصية TableCellElement.Margin
+## TableCellElement.Margin property
 
-تحصل أو تعين الحشوة.
+يحصل أو يعيّن الحشو.
 
 ```csharp
 public MarginInfo Margin { get; set; }
@@ -20,3 +20,5 @@ public MarginInfo Margin { get; set; }
 * class [TableCellElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

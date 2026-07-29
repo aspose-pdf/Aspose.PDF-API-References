@@ -1,29 +1,31 @@
 ---
-title: Class FontEmbeddingException
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.FontEmbeddingException. الاستثناء الذي يتم رميه عندما تفشل محاولة تضمين الخط
+title: "الفئة FontEmbeddingException"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.FontEmbeddingException. الاستثناء الذي يُرمى عندما تفشل محاولة تضمين الخط."
 type: docs
-weight: 4880
+weight: 5000
 url: /ar/net/aspose.pdf/fontembeddingexception/
 ---
 ## FontEmbeddingException class
 
-الاستثناء الذي يتم رميه عندما تفشل محاولة تضمين الخط
+الاستثناء الذي يُرمى عندما تفشل محاولة تضمين الخط.
 
 ```csharp
 public sealed class FontEmbeddingException : PdfException
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [FontEmbeddingException](fontembeddingexception/#constructor)(Exception) | Initializes a new instance of the `FontEmbeddingException` class with a reference to the inner exception that is the cause of this exception. |
-| [FontEmbeddingException](fontembeddingexception/#constructor_1)(string) | Initializes a new instance of the `FontEmbeddingException` class. |
-| [FontEmbeddingException](fontembeddingexception/#constructor_2)(string, Exception) | Initializes a new instance of the `FontEmbeddingException` class with a specified error message and a reference to the inner exception that is the cause of this exception. |
+| [FontEmbeddingException](fontembeddingexception/#constructor)(Exception) | يُنشئ مثيلاً جديدًا للفئة `FontEmbeddingException` مع إشارة إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء. |
+| [FontEmbeddingException](fontembeddingexception/#constructor_1)(string) | يُنشئ مثيلاً جديدًا للفئة `FontEmbeddingException`. |
+| [FontEmbeddingException](fontembeddingexception/#constructor_2)(string, Exception) | يُنشئ مثيلاً جديدًا للفئة `FontEmbeddingException` مع رسالة خطأ محددة وإشارة إلى الاستثناء الداخلي الذي هو سبب هذا الاستثناء. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfException](../pdfexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

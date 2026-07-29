@@ -1,9 +1,9 @@
 ---
-title: Enum PrinterResolutionKind
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.PrinterResolutionKind enum. يحدد دقة الطابعة
+title: "تعداد PrinterResolutionKind"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.Printing.PrinterResolutionKind. يحدد دقة الطابعة"
 type: docs
-weight: 9680
+weight: 9830
 url: /ar/net/aspose.pdf.printing/printerresolutionkind/
 ---
 ## PrinterResolutionKind enumeration
@@ -14,17 +14,19 @@ url: /ar/net/aspose.pdf.printing/printerresolutionkind/
 public enum PrinterResolutionKind
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | High | `-4` | دقة عالية. |
 | Medium | `-3` | دقة متوسطة. |
 | Low | `-2` | دقة منخفضة. |
-| Draft | `-1` | دقة بجودة المسودة. |
+| Draft | `-1` | دقة بجودة مسودة. |
 | Custom | `0` | دقة مخصصة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.Errors
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragmentAbsorber. قائمة بأجسام TextExtractionError. تحتوي على معلومات حول الأخطاء التي تم العثور عليها أثناء استخراج النص. سيتم البحث عن الأخطاء فقط إذا كانت TextSearchOptions.LogTextExtractionErrors صحيحة، وقد يؤثر ذلك على الأداء.
+title: "TextFragmentAbsorber.Errors"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragmentAbsorber. قائمة كائنات TextExtractionError. تحتوي على معلومات حول الأخطاء التي تم العثور عليها أثناء استخراج النص. سيتم البحث عن الأخطاء فقط إذا كان TextSearchOptions.LogTextExtractionErrors true وقد يقلل ذلك من الأداء"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.text/textfragmentabsorber/errors/
 ---
-## خاصية TextFragmentAbsorber.Errors
+## TextFragmentAbsorber.Errors property
 
-قائمة بأجسام [`TextExtractionError`](../../textextractionerror/) . تحتوي على معلومات حول الأخطاء التي تم العثور عليها أثناء استخراج النص. سيتم البحث عن الأخطاء فقط إذا كانت TextSearchOptions.LogTextExtractionErrors = true؛ وقد يؤثر ذلك على الأداء.
+قائمة كائنات [`TextExtractionError`](../../textextractionerror/). تحتوي على معلومات حول الأخطاء التي تم العثور عليها أثناء استخراج النص. سيتم البحث عن الأخطاء فقط إذا كان TextSearchOptions.LogTextExtractionErrors = true؛ وقد يقلل ذلك من الأداء.
 
 ```csharp
 public List<TextExtractionError> Errors { get; }
@@ -20,3 +20,5 @@ public List<TextExtractionError> Errors { get; }
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

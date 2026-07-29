@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.Superscript
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragmentState. تحصل أو تعين النص العلوي للنص الممثل بواسطة كائن TextFragment
+title: "TextFragmentState.Superscript"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextFragmentState. تحصل أو تعين النص العلوي للنص الممثل بواسطة كائن TextFragment"
 type: docs
 weight: 200
 url: /ar/net/aspose.pdf.text/textfragmentstate/superscript/
 ---
-## خاصية TextFragmentState.Superscript
+## TextFragmentState.Superscript property
 
-تحصل أو تعين النص العلوي للنص، الممثل بواسطة كائن [`TextFragment`](../../textfragment/) .
+تحصل أو تعين النص العلوي للنص، الممثل بواسطة كائن [`TextFragment`](../../textfragment/).
 
 ```csharp
 public override bool Superscript { get; set; }
@@ -19,3 +19,5 @@ public override bool Superscript { get; set; }
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

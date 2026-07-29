@@ -1,12 +1,12 @@
 ---
-title: Class Measure
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.Measure. فئة تصف نظام إحداثيات القياس
+title: "الفئة Measure"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Annotations.Measure class. الفئة التي تصف نظام إحداثيات Measure"
 type: docs
-weight: 2030
+weight: 2120
 url: /ar/net/aspose.pdf.annotations/measure/
 ---
-## فئة القياس
+## Measure class
 
 فئة تصف نظام إحداثيات القياس.
 
@@ -18,23 +18,25 @@ public class Measure
 
 | الاسم | الوصف |
 | --- | --- |
-| [Measure](measure/)(Annotation) | ينشئ كائن قياس للتعليقات التوضيحية للقياس. |
+| [Measure](measure/)(Annotation) | ينشئ كائن Measure لتعليقات القياس. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [AngleFormat](../../aspose.pdf.annotations/measure/angleformat/) { get; set; } | مصفوفة تنسيق الأرقام لقياس الزوايا. |
-| [AreaFormat](../../aspose.pdf.annotations/measure/areaformat/) { get; set; } | مصفوفة تنسيق الأرقام لقياس المساحة. |
-| [DistanceFormat](../../aspose.pdf.annotations/measure/distanceformat/) { get; set; } | مصفوفة تنسيق الأرقام لقياس المسافة في أي اتجاه. |
+| [AngleFormat](../../aspose.pdf.annotations/measure/angleformat/) { get; set; } | مصفوفة تنسيق أعداد لقياس الزوايا. |
+| [AreaFormat](../../aspose.pdf.annotations/measure/areaformat/) { get; set; } | مصفوفة تنسيق أعداد لقياس المساحة. |
+| [DistanceFormat](../../aspose.pdf.annotations/measure/distanceformat/) { get; set; } | مصفوفة تنسيق أعداد لقياس المسافة في أي اتجاه. |
 | [Origin](../../aspose.pdf.annotations/measure/origin/) { get; set; } | نقطة تحدد أصل نظام إحداثيات القياس في إحداثيات مساحة المستخدم الافتراضية. |
 | [ScaleRatio](../../aspose.pdf.annotations/measure/scaleratio/) { get; set; } | سلسلة نصية تعبر عن نسبة مقياس الرسم. |
-| [SlopeFormat](../../aspose.pdf.annotations/measure/slopeformat/) { get; set; } | مصفوفة تنسيق الأرقام لقياس ميل الخط. |
-| [XFormat](../../aspose.pdf.annotations/measure/xformat/) { get; set; } | مصفوفة تنسيق الأرقام لقياس التغيير على طول المحور السيني، وإذا لم يكن هناك Y، على طول المحور الصادي أيضًا. |
-| [XYFactor](../../aspose.pdf.annotations/measure/xyfactor/) { get; set; } | عامل يستخدم لتحويل أكبر الوحدات على طول المحور الصادي إلى أكبر الوحدات على طول المحور السيني. |
-| [YFormat](../../aspose.pdf.annotations/measure/yformat/) { get; set; } | مصفوفة تنسيق الأرقام لقياس التغيير على طول المحور الصادي. |
+| [SlopeFormat](../../aspose.pdf.annotations/measure/slopeformat/) { get; set; } | مصفوفة تنسيق أعداد لقياس انحدار الخط. |
+| [XFormat](../../aspose.pdf.annotations/measure/xformat/) { get; set; } | مصفوفة تنسيق أعداد لقياس التغير على طول المحور x، وإذا لم يكن Y موجودًا، على طول المحور y أيضًا. |
+| [XYFactor](../../aspose.pdf.annotations/measure/xyfactor/) { get; set; } | عامل يُستخدم لتحويل أكبر الوحدات على المحور y إلى أكبر الوحدات على المحور x. |
+| [YFormat](../../aspose.pdf.annotations/measure/yformat/) { get; set; } | مصفوفة تنسيق أعداد لقياس التغير على طول المحور y. |
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

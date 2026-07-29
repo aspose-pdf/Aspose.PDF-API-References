@@ -1,14 +1,14 @@
 ---
-title: Enum TableBroken
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.TableBroken enum. تعدد جدول مكسور
+title: "تعداد TableBroken"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.TableBroken. يعدد حالات كسر الجدول"
 type: docs
-weight: 10290
+weight: 10470
 url: /ar/net/aspose.pdf/tablebroken/
 ---
-## جدول تعداد TableBroken
+## TableBroken enumeration
 
-تعدد جدول مكسور.
+يعدّ الجدول المكسور.
 
 ```csharp
 public enum TableBroken
@@ -18,12 +18,14 @@ public enum TableBroken
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| لا شيء | `0` | لا يوجد كسر. |
-| عمودي | `1` | كسر عمودي. |
-| عمودي في نفس الصفحة | `2` | كسر عمودي في نفس الصفحة. |
-| في الصفحة التالية | `3` | كسر إلى الصفحة التالية. |
+| None | `0` | بدون كسر. |
+| Vertical | `1` | كسر عمودي. |
+| VerticalInSamePage | `2` | كسر عمودي في نفس الصفحة. |
+| IsInNextPage | `3` | كسر إلى الصفحة التالية. |
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

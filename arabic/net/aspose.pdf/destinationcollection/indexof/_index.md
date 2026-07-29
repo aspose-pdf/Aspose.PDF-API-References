@@ -1,22 +1,22 @@
 ---
-title: DestinationCollection.IndexOf
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة DestinationCollection. تعيد فهرس الوجهة في المجموعة
+title: "DestinationCollection.IndexOf"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة DestinationCollection. تُعيد فهرس الوجهة في المجموعة."
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf/destinationcollection/indexof/
 ---
-## طريقة DestinationCollection.IndexOf
+## DestinationCollection.IndexOf method
 
-تعيد فهرس الوجهة في المجموعة.
+يرجع فهرس الوجهة في المجموعة.
 
 ```csharp
 public int IndexOf(KeyValuePair<string, object> value)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | KeyValuePair`2 | القيمة المراد العثور عليها. |
+| القيمة | KeyValuePair`2 | القيمة للبحث عنها. |
 
 ### قيمة الإرجاع
 
@@ -27,3 +27,5 @@ public int IndexOf(KeyValuePair<string, object> value)
 * class [DestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

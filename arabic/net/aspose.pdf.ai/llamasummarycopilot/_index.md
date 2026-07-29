@@ -1,22 +1,22 @@
 ---
-title: Class LlamaSummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.LlamaSummaryCopilot. توفر وظائف للحصول على ملخصات الوثائق باستخدام نماذج الذكاء الاصطناعي. مثال على استخدام إنشاء عميل Llama وتكوين الخيارات واستخدام مساعد الملخص. ملاحظة يستخدم هذا المساعد واجهة برمجة التطبيقات للإكمال، لذا فإن إجمالي كمية النص التي يمكن إرسالها محدودة بواسطة نافذة سياق النموذج.
+title: "الفئة LlamaSummaryCopilot"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.AI.LlamaSummaryCopilot class. يوفر وظائف للحصول على ملخصات المستندات باستخدام نماذج الذكاء الاصطناعي. مثال على استخدام إنشاء عميل Llama وتكوين الخيارات واستخدام مساعد الملخص. ملاحظة: يستخدم هذا المساعد واجهة إكمال API لذا فإن الحد الأقصى لمقدار النص الذي يمكن إرساله محدود بنافذة سياق النموذج"
 type: docs
-weight: 740
+weight: 790
 url: /ar/net/aspose.pdf.ai/llamasummarycopilot/
 ---
 ## LlamaSummaryCopilot class
 
-توفر وظائف للحصول على ملخصات الوثائق باستخدام نماذج الذكاء الاصطناعي. مثال على استخدام إنشاء عميل Llama، وتكوين الخيارات، واستخدام مساعد الملخص. ملاحظة: يستخدم هذا المساعد واجهة برمجة التطبيقات للإكمال، لذا فإن إجمالي كمية النص التي يمكن إرسالها محدودة بواسطة نافذة سياق النموذج.
+يوفر وظائف للحصول على ملخصات المستندات باستخدام نماذج الذكاء الاصطناعي. مثال على استخدام إنشاء عميل Llama، وتكوين الخيارات، واستخدام مساعد الملخص. ملاحظة: يستخدم هذا المساعد واجهة إكمال، لذا فإن إجمالي النص الذي يمكن إرساله محدود بنافذة سياق النموذج.
 
 ```csharp
-// Create AI client.
+// إنشاء عميل الذكاء الاصطناعي.
 var llamaClient = LlamaClient
    .CreateWithApiKey(ApiKey) // Create Llama client with the API key.
    .Build();
 
-// Create copilot options.
+// إنشاء خيارات المساعد.
 var options = LlamaSummaryCopilotOptions
    .Create() // Create options like this, or...
    //.Create(options => { options.Model = LlamaModels.Llama13BChat; }) // ...create using delegate.
@@ -24,22 +24,22 @@ var options = LlamaSummaryCopilotOptions
    .WithDocument("DocumentInputPath") // .WithDocument methods allows to add text, pdf and paths to documents.
    .WithDocuments(new List<TextDocument>()); // .WithDocuments methods allows to add text, pdf and path collections.
 
-// Create summary copilot.
+// إنشاء مساعد الملخص.
 var summaryCopilot = AICopilotFactory.CreateSummaryCopilot(llamaClient, options);
 
-// Get summary text.
+// الحصول على نص الملخص.
 string summaryText = await summaryCopilot.GetSummaryAsync();
 
-// Get summary document.
+// الحصول على مستند الملخص.
 Document summaryDocument = await summaryCopilot.GetSummaryDocumentAsync();
 
-// Get summary document with page info.
+// الحصول على مستند الملخص مع معلومات الصفحة.
 Document summaryDocumentWithPageInfo = await summaryCopilot.GetSummaryDocumentAsync(new PageInfo());
 
-// Save summary as PDF document.
+// حفظ الملخص كملف PDF.
 await summaryCopilot.SaveSummaryAsync("outputPath");
 
-// Save summary with specified format.
+// حفظ الملخص بالتنسيق المحدد.
 await summaryCopilot.SaveSummaryAsync("outputPath", SaveFormat.DocX);
 ```
 
@@ -47,21 +47,21 @@ await summaryCopilot.SaveSummaryAsync("outputPath", SaveFormat.DocX);
 public class LlamaSummaryCopilot : ISummaryCopilot
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [LlamaSummaryCopilot](llamasummarycopilot/)(ILlamaClient, ISummaryCopilotOptions&lt;LlamaSummaryCopilotOptions&gt;) | يقوم بتهيئة مثيل جديد من فئة `LlamaSummaryCopilot`. |
+| [LlamaSummaryCopilot](llamasummarycopilot/)(ILlamaClient, ISummaryCopilotOptions&lt;LlamaSummaryCopilotOptions&gt;) | يُنشئ مثيلاً جديدًا من الفئة `LlamaSummaryCopilot`. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [HasContext](../../aspose.pdf.ai/llamasummarycopilot/hascontext/) { get; } |  |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
 | [GetSummaryAsync](../../aspose.pdf.ai/llamasummarycopilot/getsummaryasync/)(CancellationToken?) |  |
 | [GetSummaryDocumentAsync](../../aspose.pdf.ai/llamasummarycopilot/getsummarydocumentasync/#getsummarydocumentasync_1)(CancellationToken?) |  |
@@ -69,8 +69,10 @@ public class LlamaSummaryCopilot : ISummaryCopilot
 | [SaveSummaryAsync](../../aspose.pdf.ai/llamasummarycopilot/savesummaryasync/#savesummaryasync_1)(string, CancellationToken?) |  |
 | [SaveSummaryAsync](../../aspose.pdf.ai/llamasummarycopilot/savesummaryasync/#savesummaryasync)(string, SaveFormat, CancellationToken?) |  |
 
-### See Also
+### انظر أيضًا
 
 * interface [ISummaryCopilot](../isummarycopilot/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.MaxFontSize
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormFieldOptions. تحصل/تعيّن القيمة لتحديد خاصية MaxFontSize للحقل الذي تم إنشاؤه/تعديله إذا تم تعيينه
+title: "FormFieldOptions.MaxFontSize"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormFieldOptions. يحصل/يضبط القيمة لتحديد خاصية MaxFontSize للحقل الذي تم إنشاؤه/تعديله إذا تم تعيينها"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.plugins/formfieldoptions/maxfontsize/
 ---
-## خاصية FormFieldOptions.MaxFontSize
+## FormFieldOptions.MaxFontSize property
 
-تحصل/تعيّن القيمة لتحديد خاصية MaxFontSize للحقل الذي تم إنشاؤه/تعديله (إذا تم تعيينه).
+الحصول/التعيين للقيمة لتحديد الخاصية MaxFontSize للحقل المُنشأ/المعدل (إذا سيتم تعيينها).
 
 ```csharp
 public double? MaxFontSize { get; set; }
@@ -19,3 +19,5 @@ public double? MaxFontSize { get; set; }
 * class [FormFieldOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,26 @@
 ---
-title: ActionCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ActionCollection. تعيد true إذا كان العنصر المعطى موجودًا في المجموعة
+title: "ActionCollection.Contains"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "ActionCollection طريقة. يرجع true إذا كان العنصر المعطى موجودًا في المجموعة"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.annotations/actioncollection/contains/
 ---
-## طريقة ActionCollection.Contains
+## ActionCollection.Contains method
 
-تعيد true إذا كان العنصر المعطى موجودًا في المجموعة.
+يرجع true إذا كان العنصر المعطى موجودًا في المجموعة.
 
 ```csharp
 public bool Contains(PdfAction item)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | item | PdfAction | العنصر للبحث عنه. |
 
 ### قيمة الإرجاع
 
-لم يتم تنفيذها.
+غير مُنفّذ.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public bool Contains(PdfAction item)
 * class [ActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

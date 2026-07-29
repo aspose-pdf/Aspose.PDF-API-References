@@ -1,20 +1,20 @@
 ---
-title: RichMediaAnnotation.SetPoster
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة RichMediaAnnotation. تعيين ملصق التوضيح
+title: "RichMediaAnnotation.SetPoster"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "RichMediaAnnotation method. تعيين ملصق التعليق"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.annotations/richmediaannotation/setposter/
 ---
-## طريقة RichMediaAnnotation.SetPoster
+## RichMediaAnnotation.SetPoster method
 
-تعيين ملصق التوضيح.
+تعيين ملصق التعليقة.
 
 ```csharp
 public void SetPoster(Stream imageStream)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | imageStream | Stream | تدفق يحتوي على صورة الملصق. |
 
@@ -23,3 +23,5 @@ public void SetPoster(Stream imageStream)
 * class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

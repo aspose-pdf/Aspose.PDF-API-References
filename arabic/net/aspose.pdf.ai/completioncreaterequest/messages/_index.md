@@ -1,14 +1,14 @@
 ---
-title: CompletionCreateRequest.Messages
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CompletionCreateRequest. تحصل أو تعين قائمة من الرسائل التي تتكون من المحادثة حتى الآن
+title: "CompletionCreateRequest.Messages"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CompletionCreateRequest. تحصل أو تعين قائمة بالرسائل التي تشكل المحادثة حتى الآن."
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.ai/completioncreaterequest/messages/
 ---
-## خاصية CompletionCreateRequest.Messages
+## CompletionCreateRequest.Messages property
 
-تحصل أو تعين قائمة من الرسائل التي تتكون من المحادثة حتى الآن.
+يحصل أو يضبط قائمة الرسائل التي تشكل المحادثة حتى الآن.
 
 ```csharp
 public List<ChatMessage> Messages { get; set; }
@@ -20,3 +20,5 @@ public List<ChatMessage> Messages { get; set; }
 * class [CompletionCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

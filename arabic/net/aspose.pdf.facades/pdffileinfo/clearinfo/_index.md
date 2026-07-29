@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.ClearInfo
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileInfo. تقوم بمسح جميع المعلومات الوصفية لوثيقة PDF
+title: "PdfFileInfo.ClearInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileInfo. تمسح جميع معلومات التعريف الوصفي لوثيقة PDF"
 type: docs
 weight: 200
 url: /ar/net/aspose.pdf.facades/pdffileinfo/clearinfo/
 ---
-## طريقة PdfFileInfo.ClearInfo
+## PdfFileInfo.ClearInfo method
 
-تقوم بمسح جميع المعلومات الوصفية لوثيقة PDF.
+يمسح جميع معلومات التعريف الوصفية لمستند PDF.
 
 ```csharp
 public void ClearInfo()
@@ -25,3 +25,5 @@ public void ClearInfo()
 * class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

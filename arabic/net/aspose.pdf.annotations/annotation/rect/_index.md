@@ -1,14 +1,14 @@
 ---
-title: Annotation.Rect
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية التعليق. تحصل أو تعين مستطيل التعليق
+title: "Annotation.Rect"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Annotation. يحصل على أو يحدد مستطيل التعليق"
 type: docs
 weight: 150
 url: /ar/net/aspose.pdf.annotations/annotation/rect/
 ---
-## خاصية Annotation.Rect
+## Annotation.Rect property
 
-تحصل أو تعين مستطيل التعليق.
+يحصل أو يعيّن مستطيل التعليق التوضيحي.
 
 ```csharp
 public virtual Rectangle Rect { get; set; }
@@ -20,3 +20,5 @@ public virtual Rectangle Rect { get; set; }
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class FormFlattenAllFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.FormFlattenAllFieldsOptions. تمثل الخيارات لتسوية جميع الحقول  في الوثيقة بواسطة مكون FormFlattener
+title: "فئة FormFlattenAllFieldsOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Plugins.FormFlattenAllFieldsOptions. يمثل خيارات لتسطيح جميع الحقول دون التعليقات التوضيحية في document بواسطة ملحق FormFlattener."
 type: docs
-weight: 8730
+weight: 8860
 url: /ar/net/aspose.pdf.plugins/formflattenallfieldsoptions/
 ---
-## فئة FormFlattenAllFieldsOptions
+## FormFlattenAllFieldsOptions class
 
-تمثل الخيارات لتسوية جميع الحقول (ليس التعليقات) في الوثيقة بواسطة [`FormFlattener`](../formflattener/) مكون.
+يمثل خيارات لتسطيح جميع الحقول (دون التعليقات التوضيحية) في document بواسطة ملحق [`FormFlattener`](../formflattener/).
 
 ```csharp
 public class FormFlattenAllFieldsOptions : FormFlattenerOptions
@@ -18,24 +18,26 @@ public class FormFlattenAllFieldsOptions : FormFlattenerOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [FormFlattenAllFieldsOptions](formflattenallfieldsoptions/)() | المنشئ الافتراضي. |
+| [FormFlattenAllFieldsOptions](formflattenallfieldsoptions/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | يعيد مجموعة بيانات مكونات Form.... |
-| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | يحصل على مجموعة من الأهداف المضافة لنتائج عملية الحفظ. |
+| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | يرجع مجموعة بيانات مكوّن Form.... |
+| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | يحصل على مجموعة الأهداف المضافة لحفظ نتائج العملية. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات مكونات Form... |
-| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات مكونات Form... |
+| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات مكوّن Form.... |
+| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات مكوّن Form.... |
 
 ### انظر أيضًا
 
-* فئة [FormFlattenerOptions](../formflatteneroptions/)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../)
+* class [FormFlattenerOptions](../formflatteneroptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

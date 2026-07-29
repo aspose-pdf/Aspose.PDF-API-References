@@ -1,29 +1,31 @@
 ---
-title: Operator.IsTextShowOperator
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة المشغل. تحدد ما إذا كان المشغل هو المشغل المسؤول عن إخراج النص Tj TJ إلخ
+title: "Operator.IsTextShowOperator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Operator. تحدد ما إذا كان المشغل هو المشغل المسؤول عن إخراج النص مثل Tj TJ إلخ"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/operator/istextshowoperator/
 ---
-## طريقة Operator.IsTextShowOperator
+## Operator.IsTextShowOperator method
 
-تحدد ما إذا كان المشغل هو المشغل المسؤول عن إخراج النص (Tj، TJ، إلخ)
+يحدد ما إذا كان المشغل هو المشغل المسؤول عن إخراج النص (Tj، TJ، إلخ)
 
 ```csharp
 public static bool IsTextShowOperator(Operator op)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| op | Operator | كائن المشغل |
+| op | Operator | كائن Operator |
 
 ### قيمة الإرجاع
 
-صحيح إذا كان هذا هو مشغل إخراج النص
+صحيح إذا كان هذا مشغل إخراج النص
 
 ### انظر أيضًا
 
 * class [Operator](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

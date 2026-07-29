@@ -1,32 +1,34 @@
 ---
-title: Class RunModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.RunModifyRequest. تمثل طلبًا لتعديل تشغيل
+title: "الفئة RunModifyRequest"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.AI.RunModifyRequest. تمثّل طلبًا لتعديل تشغيل."
 type: docs
-weight: 1010
+weight: 1090
 url: /ar/net/aspose.pdf.ai/runmodifyrequest/
 ---
 ## RunModifyRequest class
 
-تمثل طلبًا لتعديل تشغيل.
+يمثل طلبًا لتعديل تنفيذ.
 
 ```csharp
 public class RunModifyRequest
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [RunModifyRequest](runmodifyrequest/)() | المُنشئ الافتراضي. |
+| [RunModifyRequest](runmodifyrequest/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Metadata](../../aspose.pdf.ai/runmodifyrequest/metadata/) { get; set; } | مجموعة من 16 زوجًا من المفاتيح والقيم يمكن إرفاقها بكائن. يمكن أن يكون هذا مفيدًا لتخزين معلومات إضافية حول الكائن بتنسيق منظم. يمكن أن تكون المفاتيح بطول أقصى 64 حرفًا والقيم بطول أقصى 512 حرفًا. |
+| [Metadata](../../aspose.pdf.ai/runmodifyrequest/metadata/) { get; set; } | مجموعة من 16 زوجًا من المفتاح والقيمة يمكن إرفاقها بكائن. يمكن أن يكون ذلك مفيدًا لتخزين معلومات إضافية حول الكائن بتنسيق منظم. يمكن أن تكون المفاتيح بحد أقصى 64 حرفًا والقيم بحد أقصى 512 حرفًا. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

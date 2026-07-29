@@ -1,14 +1,14 @@
 ---
-title: PageSettings.Color
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageSettings. تحصل أو تعين قيمة تشير إلى ما إذا كانت الصفحة مطبوعة بالألوان
+title: "PageSettings.Color"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageSettings. يحصل أو يحدد قيمة تشير إلى ما إذا كانت الصفحة مطبوعة بالألوان"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.printing/pagesettings/color/
 ---
-## خاصية PageSettings.Color
+## PageSettings.Color property
 
-تحصل أو تعين قيمة تشير إلى ما إذا كانت الصفحة مطبوعة بالألوان.
+يحصل أو يضبط قيمة تشير إلى ما إذا كانت الصفحة مطبوعة بالألوان.
 
 ```csharp
 public bool Color { get; set; }
@@ -19,3 +19,5 @@ public bool Color { get; set; }
 * class [PageSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

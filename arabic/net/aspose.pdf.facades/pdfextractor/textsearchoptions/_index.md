@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.TextSearchOptions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfExtractor. تحصل أو تعين خيارات البحث عن النص
+title: "PdfExtractor.TextSearchOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfExtractor. يحصل أو يحدد خيارات البحث عن النص"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.facades/pdfextractor/textsearchoptions/
 ---
-## خاصية PdfExtractor.TextSearchOptions
+## PdfExtractor.TextSearchOptions property
 
-تحصل أو تعين خيارات البحث عن النص.
+يحصل أو يعيّن خيارات بحث النص.
 
 ```csharp
 public TextSearchOptions TextSearchOptions { get; set; }
@@ -20,3 +20,5 @@ public TextSearchOptions TextSearchOptions { get; set; }
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextState.Underline
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextState. تحصل أو تعين خط التسطير للنص الممثل بواسطة كائن TextFragment
+title: "TextState.Underline"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextState. يحصل أو يضبط التسطير للنص الممثل بواسطة كائن TextFragment"
 type: docs
-weight: 180
+weight: 190
 url: /ar/net/aspose.pdf.text/textstate/underline/
 ---
-## خاصية TextState.Underline
+## TextState.Underline property
 
-تحصل أو تعين خط التسطير للنص، الممثل بواسطة كائن [`TextFragment`](../../textfragment/) 
+يحصل أو يضبط التسطير للنص، الممثل بواسطة كائن [`TextFragment`](../../textfragment/)
 
 ```csharp
 public virtual bool Underline { get; set; }
@@ -19,3 +19,5 @@ public virtual bool Underline { get; set; }
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PageInfo.DefaultTextState
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageInfo. تحصل أو تعين الخط الافتراضي
+title: "PageInfo.DefaultTextState"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageInfo. تحصل أو تعين الخط الافتراضي"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/pageinfo/defaulttextstate/
 ---
-## خاصية PageInfo.DefaultTextState
+## PageInfo.DefaultTextState property
 
-تحصل أو تعين الخط الافتراضي.
+يحصل أو يضبط الخط الافتراضي.
 
 ```csharp
 public TextState DefaultTextState { get; set; }
@@ -20,3 +20,5 @@ public TextState DefaultTextState { get; set; }
 * class [PageInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

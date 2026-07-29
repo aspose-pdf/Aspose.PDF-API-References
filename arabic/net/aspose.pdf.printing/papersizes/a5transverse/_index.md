@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.A5Transverse
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ورق A5 عرضي 148 مم × 210 مم
+title: "PaperSizes.A5Transverse"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ورق A5 عرضي 148 مم × 210 مم"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.printing/papersizes/a5transverse/
 ---
-## حقل PaperSizes.A5Transverse
+## PaperSizes.A5Transverse field
 
 ورق A5 عرضي (148 مم × 210 مم).
 
@@ -20,3 +20,5 @@ public static readonly PaperSize A5Transverse;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

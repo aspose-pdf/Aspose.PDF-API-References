@@ -1,12 +1,12 @@
 ---
-title: Class PdfXmlLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.PdfXmlLoadOptions. خيارات التحميل لتنسيق PdfXml
+title: "فئة PdfXmlLoadOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.PdfXmlLoadOptions. خيارات التحميل لتنسيق PdfXml"
 type: docs
-weight: 8460
+weight: 8590
 url: /ar/net/aspose.pdf/pdfxmlloadoptions/
 ---
-## فئة PdfXmlLoadOptions
+## PdfXmlLoadOptions class
 
 خيارات التحميل لتنسيق PdfXml.
 
@@ -18,38 +18,38 @@ public class PdfXmlLoadOptions : LoadOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [PdfXmlLoadOptions](pdfxmlloadoptions/)() | المنشئ الافتراضي. |
+| [PdfXmlLoadOptions](pdfxmlloadoptions/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | يحصل أو يحدد علامة لتعطيل أي قيود ترخيص لجميع الخطوط أثناء تحميل الملف. عندما تكون القيمة `true`، يسمح بتنفيذ العمليات مع الخطوط التي يحظرها ترخيص هذا الخط، على سبيل المثال يسمح بإدراج خط في مستند PDF حتى لو كانت قواعد الترخيص تعطل الإدراج لهذا الخط. بشكل افتراضي `false`. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | يحصل أو يعيّن العلامة لتعطيل أي قيود ترخيص على جميع الخطوط أثناء تحميل الملف. عندما تكون `true`، يسمح بتنفيذ عمليات باستخدام خط محظور بموجب ترخيص هذا الخط، على سبيل المثال يسمح بتضمين خط في مستند PDF حتى إذا كانت قواعد الترخيص تمنع التضمين لهذا الخط. القيمة الافتراضية هي `false`. |
 | [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | يمثل تنسيق الملف الذي تصفه [`LoadOptions`](../loadoptions/). |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | رد نداء لمعالجة أي تحذيرات تم إنشاؤها. يعيد WarningHandler عنصر تعداد ReturnAction يحدد إما Continue أو Abort. Continue هو الإجراء الافتراضي وتستمر عملية التحميل، ومع ذلك يمكن للمستخدم أيضًا إرجاع Abort وفي هذه الحالة يجب أن تتوقف عملية التحميل. |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | استدعاء رد نداء للتعامل مع أي تحذيرات تم إنشاؤها. يُعيد WarningHandler عنصر من تعداد ReturnAction يحدد إما Continue أو Abort. Continue هو الإجراء الافتراضي وتستمر عملية التحميل، ومع ذلك قد يُعيد المستخدم Abort في هذه الحالة يجب أن تتوقف عملية التحميل. |
 
 ## أمثلة
 
-يوضح المثال التالي كيفية تحويل ملف PDFXML إلى ملف PDF
+المثال التالي يوضح كيفية تحويل ملف PDFXML إلى ملف PDF
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// المسار إلى دليل المستندات.
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your PDFXML File.
+	// المسار إلى ملف PDFXML الخاص بك.
 	string pdfXmlFile = Path.Combine(dataDir, "PDFXML-to-PDF.pdfxml");
 
-	// The path to output PDF File.
+	// المسار إلى ملف PDF الناتج.
 	string pdfFile = Path.Combine(dataDir, "PDFXML-to-PDF.pdf");
 
-	// Initialize PdfXmlLoadOptions	
+	// تهيئة PdfXmlLoadOptions	
 	PdfXmlLoadOptions pdfXmlLoadOptions = new PdfXmlLoadOptions();
 		
 	using (Document pdfDocument = new Document(pdfXmlFile, pdfXmlLoadOptions))
 	{
 	 
-		// Save PDF file
+		// حفظ ملف PDF
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -78,6 +78,8 @@ public class PdfXmlLoadOptions : LoadOptions
 
 ### انظر أيضًا
 
-* فئة [LoadOptions](../loadoptions/)
-* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

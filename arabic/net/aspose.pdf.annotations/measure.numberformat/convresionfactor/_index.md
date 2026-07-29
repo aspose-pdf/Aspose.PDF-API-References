@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormat.ConvresionFactor
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية NumberFormat. عامل التحويل المستخدم لضرب قيمة في وحدات جزئية من عنصر مصفوفة تنسيق الرقم السابق للحصول على قيمة في وحدات تنسيق الرقم هذا
+title: "Measure.NumberFormat.ConvresionFactor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية NumberFormat. عامل التحويل المستخدم لضرب قيمة بوحدات جزئية من العنصر السابق في مصفوفة تنسيق الأرقام للحصول على قيمة بوحدات تنسيق الأرقام الحالي"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.annotations/measure.numberformat/convresionfactor/
 ---
-## خاصية Measure.NumberFormat.ConvresionFactor
+## Measure.NumberFormat.ConvresionFactor property
 
-عامل التحويل المستخدم لضرب قيمة في وحدات جزئية من عنصر مصفوفة تنسيق الرقم السابق للحصول على قيمة في وحدات تنسيق الرقم هذا.
+عامل التحويل المستخدم لضرب قيمة بوحدات جزئية من العنصر السابق في مصفوفة تنسيق الأرقام للحصول على قيمة بوحدات تنسيق الأرقام هذا.
 
 ```csharp
 public double ConvresionFactor { get; set; }
@@ -19,3 +19,5 @@ public double ConvresionFactor { get; set; }
 * class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

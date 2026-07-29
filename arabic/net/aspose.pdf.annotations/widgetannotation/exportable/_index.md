@@ -1,14 +1,14 @@
 ---
-title: WidgetAnnotation.Exportable
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية WidgetAnnotation. تحصل أو تعين علامة التصدير للحقل
+title: "WidgetAnnotation.Exportable"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية WidgetAnnotation. تحصل أو تعين علامة القابل للتصدير للحقل"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.annotations/widgetannotation/exportable/
 ---
-## خاصية WidgetAnnotation.Exportable
+## WidgetAnnotation.Exportable property
 
-تحصل أو تعين علامة التصدير للحقل.
+الحصول على أو تعيين علامة القابلية للتصدير للحقول.
 
 ```csharp
 public bool Exportable { get; set; }
@@ -19,3 +19,5 @@ public bool Exportable { get; set; }
 * class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.ExclNonUserAnnots
-second_title: Aspose.PDF for .NET API Reference
-description: حقل SubmitFormAction. إذا تم تعيينه، يجب أن يتضمن فقط تلك التعليقات التوضيحية التي تتطابق مدخل T الخاص بها مع اسم المستخدم الحالي
+title: "SubmitFormAction.ExclNonUserAnnots"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل SubmitFormAction. إذا تم الضبط، سيشمل فقط تلك التعليقات التوضيحية التي يكون إدخال T فيها مطابقًا لاسم المستخدم الحالي"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.annotations/submitformaction/exclnonuserannots/
 ---
-## حقل SubmitFormAction.ExclNonUserAnnots
+## SubmitFormAction.ExclNonUserAnnots field
 
-إذا تم تعيينه، يجب أن يتضمن فقط تلك التعليقات التوضيحية التي تتطابق مدخل T الخاص بها مع اسم المستخدم الحالي.
+إذا تم الضبط، يجب أن يتضمن فقط تعليقات الترميز التي يطابق إدخال T فيها اسم المستخدم الحالي.
 
 ```csharp
 public const int ExclNonUserAnnots;
@@ -19,3 +19,5 @@ public const int ExclNonUserAnnots;
 * class [SubmitFormAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

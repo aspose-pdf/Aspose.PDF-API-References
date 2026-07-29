@@ -1,14 +1,14 @@
 ---
-title: Color.Turquoise
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على لون محدد من النظام له قيمة ARGB تساوي c FF40E0D0
+title: "Color.Turquoise"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. يحصل على لون معرف بالنظام له قيمة ARGB c FF40E0D0"
 type: docs
 weight: 1360
 url: /ar/net/aspose.pdf/color/turquoise/
 ---
-## خاصية لون.تركواز
+## Color.Turquoise property
 
-تحصل على لون محدد من النظام له قيمة ARGB تساوي \c \#FF40E0D0.
+يحصل على لون معرف من النظام له قيمة ARGB \c \#FF40E0D0.
 
 ```csharp
 public static Color Turquoise { get; }
@@ -16,10 +16,12 @@ public static Color Turquoise { get; }
 
 ### قيمة الإرجاع
 
-يمثل لونًا محددًا من النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

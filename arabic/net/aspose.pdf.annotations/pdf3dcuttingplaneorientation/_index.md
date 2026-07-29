@@ -1,41 +1,43 @@
 ---
-title: Class PDF3DCuttingPlaneOrientation
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.PDF3DCuttingPlaneOrientation. فئة PDF3DCuttingPlaneOrientation
+title: "الفئة PDF3DCuttingPlaneOrientation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Annotations.PDF3DCuttingPlaneOrientation. الفئة PDF3DCuttingPlaneOrientation"
 type: docs
-weight: 2200
+weight: 2290
 url: /ar/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/
 ---
 ## PDF3DCuttingPlaneOrientation class
 
-Class PDF3DCuttingPlaneOrientation.
+فئة PDF3DCuttingPlaneOrientation.
 
 ```csharp
 public class PDF3DCuttingPlaneOrientation
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [PDF3DCuttingPlaneOrientation](pdf3dcuttingplaneorientation/#constructor)() | Initializes a new instance of the `PDF3DCuttingPlaneOrientation` class. |
-| [PDF3DCuttingPlaneOrientation](pdf3dcuttingplaneorientation/#constructor_1)(double?, double?, double?) | Initializes a new instance of the `PDF3DCuttingPlaneOrientation` class. |
+| [PDF3DCuttingPlaneOrientation](pdf3dcuttingplaneorientation/#constructor)() | يُنشئ مثلاً جديداً من الفئة `PDF3DCuttingPlaneOrientation`. |
+| [PDF3DCuttingPlaneOrientation](pdf3dcuttingplaneorientation/#constructor_1)(double?, double?, double?) | يُنشئ مثلاً جديداً من الفئة `PDF3DCuttingPlaneOrientation`. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [AngleX](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglex/) { get; set; } | يحصل أو يحدد الزاوية بالنسبة لمحور X. |
-| [AngleY](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/angley/) { get; set; } | يحصل أو يحدد الزاوية بالنسبة لمحور Y. |
-| [AngleZ](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglez/) { get; set; } | يحصل أو يحدد الزاوية بالنسبة لمحور Z. |
+| [AngleX](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglex/) { get; set; } | يحصل أو يضبط الزاوية بالنسبة للمحور X. |
+| [AngleY](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/angley/) { get; set; } | يحصل أو يضبط الزاوية بالنسبة للمحور Y. |
+| [AngleZ](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglez/) { get; set; } | يحصل أو يضبط الزاوية بالنسبة للمحور Z. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/tostring/)() | يُرجع سلسلة تمثل هذه الحالة. |
+| override [ToString](../../aspose.pdf.annotations/pdf3dcuttingplaneorientation/tostring/)() | يعيد سلسلة تمثل هذه المثيلة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,20 +1,20 @@
 ---
-title: Interface IImageDescriptionCopilotOptionsTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: واجهة Aspose.Pdf.AI.IImageDescriptionCopilotOptions1TOptions. تمثل واجهة لخيارات مساعد وصف الصورة بنوع محدد
+title: "الواجهة IImageDescriptionCopilotOptionsTOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "واجهة Aspose.Pdf.AI.IImageDescriptionCopilotOptions1TOptions. تمثّل واجهة لخيارات مساعد وصف الصورة بنوع محدد."
 type: docs
-weight: 520
+weight: 540
 url: /ar/net/aspose.pdf.ai/iimagedescriptioncopilotoptions-1/
 ---
-## واجهة IImageDescriptionCopilotOptions&lt;TOptions&gt;
+## IImageDescriptionCopilotOptions&lt;TOptions&gt; interface
 
-تمثل واجهة لخيارات مساعد وصف الصورة بنوع محدد.
+يمثل واجهة لخيارات مساعد وصف الصورة بنوع محدد.
 
 ```csharp
 public interface IImageDescriptionCopilotOptions<out TOptions>
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
 | TOptions | نوع الخيارات لمساعد وصف الصورة. |
 
@@ -22,9 +22,11 @@ public interface IImageDescriptionCopilotOptions<out TOptions>
 
 | الاسم | الوصف |
 | --- | --- |
-| [GetOptions](../../aspose.pdf.ai/iimagedescriptioncopilotoptions-1/getoptions/)() | يحصل على الخيارات من نوع *TOptions*. |
+| [GetOptions](../../aspose.pdf.ai/iimagedescriptioncopilotoptions-1/getoptions/)() | يحصل على الخيارات من النوع *TOptions*. |
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

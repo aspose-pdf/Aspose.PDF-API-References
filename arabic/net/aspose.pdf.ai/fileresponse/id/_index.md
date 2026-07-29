@@ -1,14 +1,14 @@
 ---
-title: FileResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FileResponse. تحصل أو تعين معرف الملف الذي يمكن الإشارة إليه في نقاط نهاية API
+title: "FileResponse.Id"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FileResponse. تحصل أو تعين معرف الملف الذي يمكن الإشارة إليه في نقاط نهاية API"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.ai/fileresponse/id/
 ---
-## خاصية FileResponse.Id
+## FileResponse.Id property
 
-تحصل أو تعين معرف الملف، الذي يمكن الإشارة إليه في نقاط نهاية API.
+يحصل أو يضبط معرف الملف، الذي يمكن الإشارة إليه في نقاط النهاية API.
 
 ```csharp
 public string Id { get; set; }
@@ -19,3 +19,5 @@ public string Id { get; set; }
 * class [FileResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

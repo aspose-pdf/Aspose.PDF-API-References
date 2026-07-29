@@ -1,14 +1,14 @@
 ---
-title: Enum Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: تعداد Aspose.Pdf.Rotation. تعداد القيم الممكنة للتدوير
+title: "التعداد Rotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Rotation التعداد. تعداد القيم الممكنة للدوران"
 type: docs
-weight: 9820
+weight: 9970
 url: /ar/net/aspose.pdf/rotation/
 ---
-## تعداد التدوير
+## Rotation enumeration
 
-تعداد القيم الممكنة للتدوير.
+تعداد قيم الدوران المحتملة.
 
 ```csharp
 public enum Rotation
@@ -18,13 +18,15 @@ public enum Rotation
 
 | الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| لا شيء | `0` | غير متداول. |
-| على 90 | `1` | متداول بزاوية 90 درجة في اتجاه عقارب الساعة. |
-| على 180 | `2` | متداول بزاوية 180 درجة. |
-| على 270 | `3` | متداول بزاوية 270 درجة في اتجاه عقارب الساعة. |
-| على 360 | `4` | متداول بزاوية 360 درجة في اتجاه عقارب الساعة. |
+| None | `0` | غير مدور. |
+| on90 | `1` | مدور بزاوية 90 درجة باتجاه عقارب الساعة. |
+| on180 | `2` | مدور بزاوية 180 درجة. |
+| on270 | `3` | مدور بزاوية 270 درجة باتجاه عقارب الساعة. |
+| on360 | `4` | مدور بزاوية 360 درجة باتجاه عقارب الساعة. |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

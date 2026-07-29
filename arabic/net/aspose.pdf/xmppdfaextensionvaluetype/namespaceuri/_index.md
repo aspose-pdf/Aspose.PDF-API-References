@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionValueType.NamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XmpPdfAExtensionValueType. تحصل على URI المساحة الاسمية
+title: "XmpPdfAExtensionValueType.NamespaceUri"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XmpPdfAExtensionValueType. تحصل على URI مساحة الاسم"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/xmppdfaextensionvaluetype/namespaceuri/
 ---
-## خاصية XmpPdfAExtensionValueType.NamespaceUri
+## XmpPdfAExtensionValueType.NamespaceUri property
 
-تحصل على URI المساحة الاسمية.
+الحصول على مساحة الاسم URI.
 
 ```csharp
 public string NamespaceUri { get; }
@@ -19,3 +19,5 @@ public string NamespaceUri { get; }
 * class [XmpPdfAExtensionValueType](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

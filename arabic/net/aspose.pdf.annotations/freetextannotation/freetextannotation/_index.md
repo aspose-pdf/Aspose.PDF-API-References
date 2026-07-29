@@ -1,25 +1,25 @@
 ---
-title: FreeTextAnnotation.FreeTextAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FreeTextAnnotation. مُنشئ للاستخدام مع Generator
+title: "FreeTextAnnotation.FreeTextAnnotation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FreeTextAnnotation. المنشئ للاستخدام مع Generator"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/freetextannotation/freetextannotation/
 ---
 ## FreeTextAnnotation(Document, DefaultAppearance) {#constructor}
 
-مُنشئ للاستخدام مع Generator.
+المنشئ للاستخدام مع Generator.
 
 ```csharp
 public FreeTextAnnotation(Document document, DefaultAppearance appearance)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| document | Document | المستند الذي سيتم إنشاء التعليق فيه. |
-| appearance | DefaultAppearance | المظهر الافتراضي |
+| document | Document | Document حيث سيتم إنشاء التعليق التوضيحي. |
+| المظهر | DefaultAppearance | المظهر الافتراضي |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [DefaultAppearance](../../defaultappearance/)
@@ -31,19 +31,19 @@ public FreeTextAnnotation(Document document, DefaultAppearance appearance)
 
 ## FreeTextAnnotation(Page, Rectangle, DefaultAppearance) {#constructor_1}
 
-ينشئ تعليق FreeText جديد على الصفحة المحددة.
+ينشئ تعليقة FreeText جديدة على الصفحة المحددة.
 
 ```csharp
 public FreeTextAnnotation(Page page, Rectangle rect, DefaultAppearance appearance)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | صفحة المستند حيث يجب إنشاء التعليق. |
-| rect | Rectangle | مستطيل التعليق، يحدد موقع التعليق على الصفحة. |
-| appearance | DefaultAppearance | المظهر الافتراضي الذي سيتم استخدامه في تنسيق النص. |
+| صفحة | صفحة | صفحة المستند حيث يجب إنشاء التعليق التوضيحي. |
+| rect | Rectangle | مستطيل التعليق التوضيحي، يحدد موقع التعليق التوضيحي على الصفحة. |
+| المظهر | DefaultAppearance | المظهر الافتراضي لاستخدامه في تنسيق النص. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -51,3 +51,5 @@ public FreeTextAnnotation(Page page, Rectangle rect, DefaultAppearance appearanc
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

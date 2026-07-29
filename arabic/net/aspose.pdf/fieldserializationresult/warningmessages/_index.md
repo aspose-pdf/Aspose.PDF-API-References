@@ -1,20 +1,20 @@
 ---
-title: FieldSerializationResult.WarningMessages
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FieldSerializationResult. تحصل على رسائل التحذير المرتبطة بعملية التسلسل
+title: "FieldSerializationResult.WarningMessages"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FieldSerializationResult. يحصل على رسائل التحذير المرتبطة بعملية التسلسل"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/fieldserializationresult/warningmessages/
 ---
-## خاصية FieldSerializationResult.WarningMessages
+## FieldSerializationResult.WarningMessages property
 
-تحصل على رسائل التحذير المرتبطة بعملية التسلسل.
+يحصل على رسائل التحذير المرتبطة بعملية التسلسل.
 
 ```csharp
 public HashSet<string> WarningMessages { get; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 مجموعة من رسائل التحذير.
 
@@ -23,3 +23,5 @@ public HashSet<string> WarningMessages { get; }
 * class [FieldSerializationResult](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

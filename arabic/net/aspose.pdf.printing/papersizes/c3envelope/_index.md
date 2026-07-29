@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.C3Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ظرف C3 324 مم × 458 مم
+title: "PaperSizes.C3Envelope"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. ظرف C3 324 مم × 458 مم"
 type: docs
 weight: 320
 url: /ar/net/aspose.pdf.printing/papersizes/c3envelope/
 ---
-## حقل PaperSizes.C3Envelope
+## PaperSizes.C3Envelope field
 
-ظرف C3 (324 مم × 458 مم).
+مغلف C3 (324 مم × 458 مم).
 
 ```csharp
 public static readonly PaperSize C3Envelope;
@@ -20,3 +20,5 @@ public static readonly PaperSize C3Envelope;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

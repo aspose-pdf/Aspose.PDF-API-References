@@ -1,14 +1,14 @@
 ---
-title: RadioButtonField.Options
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RadioButtonField. تحصل على مجموعة من خيارات زر الراديو
+title: "RadioButtonField.Options"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RadioButtonField. يحصل على مجموعة الخيارات لزر الاختيار."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.forms/radiobuttonfield/options/
 ---
-## خاصية RadioButtonField.Options
+## RadioButtonField.Options property
 
-تحصل على مجموعة من خيارات زر الراديو.
+يحصل على مجموعة خيارات زر الاختيار.
 
 ```csharp
 public override OptionCollection Options { get; }
@@ -20,3 +20,5 @@ public override OptionCollection Options { get; }
 * class [RadioButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

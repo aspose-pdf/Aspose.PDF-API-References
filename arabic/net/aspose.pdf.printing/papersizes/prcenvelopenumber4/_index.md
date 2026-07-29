@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.PrcEnvelopeNumber4
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ظرف 4 بحجم 110 مم × 208 مم
+title: "PaperSizes.PrcEnvelopeNumber4"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes حقل. 4 ظرف 110 مم × 208 مم"
 type: docs
 weight: 940
 url: /ar/net/aspose.pdf.printing/papersizes/prcenvelopenumber4/
 ---
-## حقل PaperSizes.PrcEnvelopeNumber4
+## PaperSizes.PrcEnvelopeNumber4 field
 
-# ظرف 4 (110 مم × 208 مم).
+مغلف #4 (110 مم × 208 مم).
 
 ```csharp
 public static readonly PaperSize PrcEnvelopeNumber4;
@@ -20,3 +20,5 @@ public static readonly PaperSize PrcEnvelopeNumber4;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

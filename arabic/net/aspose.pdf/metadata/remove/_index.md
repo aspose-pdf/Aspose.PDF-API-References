@@ -1,28 +1,28 @@
 ---
-title: Metadata.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة البيانات الوصفية. تزيل الإدخال من البيانات الوصفية
+title: "Metadata.Remove"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Metadata. يزيل الإدخال من البيانات الوصفية"
 type: docs
 weight: 200
 url: /ar/net/aspose.pdf/metadata/remove/
 ---
 ## Remove(string) {#remove_1}
 
-تزيل الإدخال من البيانات الوصفية.
+يزيل الإدخال من البيانات الوصفية.
 
 ```csharp
 public bool Remove(string key)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| key | String | مفتاح الإدخال الذي سيتم إزالته. |
+| المفتاح | String | المفتاح الخاص بالإدخال المراد إزالته. |
 
-### Return Value
+### قيمة الإرجاع
 
-True - إذا تم إزالة المفتاح؛ خلاف ذلك، false.
+صحيح - إذا تم إزالة المفتاح؛ وإلا، خطأ.
 
-### See Also
+### انظر أيضًا
 
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -32,23 +32,25 @@ True - إذا تم إزالة المفتاح؛ خلاف ذلك، false.
 
 ## Remove(KeyValuePair&lt;string, XmpValue&gt;) {#remove}
 
-تزيل زوج المفتاح/القيمة من المجموعة.
+يزيل زوج المفتاح/القيمة من المجموعة.
 
 ```csharp
 public bool Remove(KeyValuePair<string, XmpValue> item)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | item | KeyValuePair`2 | زوج المفتاح/القيمة الذي سيتم إزالته. |
 
-### Return Value
+### قيمة الإرجاع
 
-true إذا تم العثور على الزوج وإزالته.
+صحيح إذا تم العثور على الزوج وإزالته.
 
-### See Also
+### انظر أيضًا
 
 * class [XmpValue](../../xmpvalue/)
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,26 @@
 ---
-title: DestinationCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة DestinationCollection. تضيف العنصر المحدد. المجموعة للقراءة فقط. دائمًا ما ترمي استثناء NotSupportedException
+title: "DestinationCollection.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة DestinationCollection. تضيف العنصر المحدد. المجموعة للقراءة فقط. دائمًا تُثير استثناء NotSupportedException"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/destinationcollection/add/
 ---
-## طريقة DestinationCollection.Add
+## DestinationCollection.Add method
 
-تضيف العنصر المحدد. المجموعة للقراءة فقط. دائمًا ما ترمي استثناء NotSupportedException.
+يضيف العنصر المحدد. المجموعة للقراءة فقط. دائمًا يُطلق استثناء NotSupportedException.
 
 ```csharp
 public void Add(KeyValuePair<string, object> item)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | item | KeyValuePair`2 | العنصر. |
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
 | NotSupportedException |  |
 
@@ -29,3 +29,5 @@ public void Add(KeyValuePair<string, object> item)
 * class [DestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,41 +1,43 @@
 ---
-title: Enum FontStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.FontStyle enum. يعدد 14 نوعًا من الخطوط
+title: "تعداد FontStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.Facades.FontStyle. يعدد 14 نوعًا من الخطوط"
 type: docs
-weight: 4280
+weight: 4400
 url: /ar/net/aspose.pdf.facades/fontstyle/
 ---
 ## FontStyle enumeration
 
-يعدد 14 نوعًا من الخطوط.
+يسرد 14 نوعًا من الخطوط.
 
 ```csharp
 public enum FontStyle
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Courier | `0` | Courier font. |
-| CourierBold | `1` | Bold Courier font. |
-| CourierOblique | `2` | Oblique Curier font. |
-| CourierBoldOblique | `3` | Bold oblique Courier font. |
-| Helvetica | `4` | Helvetica font. |
-| HelveticaBold | `5` | Bold Helvetica font. |
-| HelveticaOblique | `6` | Oblique Helvetica font. |
-| HelveticaBoldOblique | `7` | Bold oblique Helvetica font. |
-| Symbol | `8` | Symbol font. |
-| TimesRoman | `9` | Times-Roman font. |
-| TimesBold | `10` | Bold Times font. |
-| TimesItalic | `11` | Italic Times font. |
-| TimesBoldItalic | `12` | Bold italic Times font. |
-| ZapfDingbats | `13` | ZapfDingbats font. |
-| Unknown | `14` | Unknown font. Standard font will be used. |
-| CjkFont | `15` | True Type Font for CJK supporting ,default is MS PGothic font. |
+| Courier | `0` | خط Courier. |
+| CourierBold | `1` | خط Courier غامق. |
+| CourierOblique | `2` | خط Curier مائل. |
+| CourierBoldOblique | `3` | خط Courier غامق مائل. |
+| Helvetica | `4` | خط Helvetica. |
+| HelveticaBold | `5` | خط Helvetica غامق. |
+| HelveticaOblique | `6` | خط Helvetica مائل. |
+| HelveticaBoldOblique | `7` | خط Helvetica مائل غامق. |
+| Symbol | `8` | خط Symbol. |
+| TimesRoman | `9` | خط Times-Roman. |
+| TimesBold | `10` | خط Times غامق. |
+| TimesItalic | `11` | خط Times مائل. |
+| TimesBoldItalic | `12` | خط Times مائل غامق. |
+| ZapfDingbats | `13` | خط ZapfDingbats. |
+| Unknown | `14` | خط غير معروف. سيتم استخدام الخط القياسي. |
+| CjkFont | `15` | خط True Type لدعم CJK، الافتراضي هو خط MS PGothic. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

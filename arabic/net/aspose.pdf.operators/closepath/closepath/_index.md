@@ -1,14 +1,14 @@
 ---
-title: ClosePath.ClosePath
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ClosePath. يُهيئ المُشغل
+title: "ClosePath.ClosePath"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ClosePath. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/closepath/closepath/
 ---
-## مُنشئ ClosePath
+## ClosePath constructor
 
-يُهيئ المُشغل.
+يُهيئ العامل.
 
 ```csharp
 public ClosePath()
@@ -19,3 +19,5 @@ public ClosePath()
 * class [ClosePath](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

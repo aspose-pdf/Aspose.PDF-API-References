@@ -1,35 +1,37 @@
 ---
-title: Class TextProperties
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Facades.TextProperties. تمثل خصائص النص مثل حجم النص ولونه وأسلوبه وما إلى ذلك
+title: "الفئة TextProperties"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Facades.TextProperties. تمثل خصائص النص مثل حجم النص واللون والنمط إلخ"
 type: docs
-weight: 4760
+weight: 4880
 url: /ar/net/aspose.pdf.facades/textproperties/
 ---
 ## TextProperties class
 
-تمثل خصائص النص مثل: حجم النص، اللون، الأسلوب، إلخ.
+يمثل خصائص النص مثل: حجم النص، اللون، النمط إلخ.
 
 ```csharp
 public sealed class TextProperties
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [TextProperties](textproperties/)(double) | ينشئ كائن `TextProperties` لحجم النص المحدد |
+| [TextProperties](textproperties/)(double) | ينشئ كائن `TextProperties` للحجم النص المحدد |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Color](../../aspose.pdf.facades/textproperties/color/) { get; set; } | يحصل أو يحدد لون النص. |
-| [IsColorSpecified](../../aspose.pdf.facades/textproperties/iscolorspecified/) { get; } | يحصل أو يحدد قيمة تشير إلى ما إذا كانت خاصية [`Color`](./color/) محددة. |
-| [IsTextSizeSpecified](../../aspose.pdf.facades/textproperties/istextsizespecified/) { get; } | يحصل أو يحدد قيمة تشير إلى ما إذا كانت خاصية [`TextSize`](./textsize/) محددة. |
-| [TextSize](../../aspose.pdf.facades/textproperties/textsize/) { get; set; } | يحصل أو يحدد حجم النص. |
+| [Color](../../aspose.pdf.facades/textproperties/color/) { get; set; } | يحصل أو يضبط لون النص. |
+| [IsColorSpecified](../../aspose.pdf.facades/textproperties/iscolorspecified/) { get; } | يحصل أو يضبط قيمة تشير إلى ما إذا كانت الخاصية [`Color`](./color/) محددة. |
+| [IsTextSizeSpecified](../../aspose.pdf.facades/textproperties/istextsizespecified/) { get; } | يحصل أو يضبط قيمة تشير إلى ما إذا كانت الخاصية [`TextSize`](./textsize/) محددة. |
+| [TextSize](../../aspose.pdf.facades/textproperties/textsize/) { get; set; } | يحصل أو يضبط حجم النص. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PDF3DRenderMode.GetAuxiliaryColour
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PDF3DRenderMode. تحصل على اللون المساعد
+title: "PDF3DRenderMode.GetAuxiliaryColour"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PDF3DRenderMode. تحصل على اللون المساعد"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf.annotations/pdf3drendermode/getauxiliarycolour/
 ---
-## طريقة PDF3DRenderMode.GetAuxiliaryColour
+## PDF3DRenderMode.GetAuxiliaryColour method
 
-تحصل على اللون المساعد.
+يحصل على اللون المساعد.
 
 ```csharp
 public Color GetAuxiliaryColour()
@@ -16,7 +16,7 @@ public Color GetAuxiliaryColour()
 
 ### قيمة الإرجاع
 
-لون.
+اللون.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public Color GetAuxiliaryColour()
 * class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

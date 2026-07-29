@@ -1,21 +1,23 @@
 ---
-title: SvgSaveOptions.ScaleToPixels
-second_title: Aspose.PDF for .NET API Reference
-description: حقل SvgSaveOptions. يحدد ما إذا كان يجب تحويل مستند الإخراج من نقاط الطباعة إلى بكسلات
+title: "SvgSaveOptions.ScaleToPixels"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل SvgSaveOptions. يحدد ما إذا كان سيتم تحويل مستند الإخراج من النقاط الطباعية إلى البكسلات"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/svgsaveoptions/scaletopixels/
 ---
 ## SvgSaveOptions.ScaleToPixels field
 
-يحدد ما إذا كان يجب تحويل مستند الإخراج من نقاط الطباعة إلى بكسلات.
+يحدد ما إذا كان سيتم تحويل مقياس المستند الناتج من النقاط الطباعية إلى البكسلات.
 
 ```csharp
 public bool ScaleToPixels;
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [SvgSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,43 +1,45 @@
 ---
-title: Class SetLineJoin
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.SetLineJoin. فئة تمثل مشغل j لتعيين نمط انضمام الخط
+title: "الفئة SetLineJoin"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Operators.SetLineJoin. فئة تمثّل عامل j لتعيين نمط وصل الخط"
 type: docs
-weight: 7760
+weight: 7900
 url: /ar/net/aspose.pdf.operators/setlinejoin/
 ---
 ## SetLineJoin class
 
-فئة تمثل مشغل j (تعيين نمط انضمام الخط).
+الفئة التي تمثل المشغل j (تعيين نمط وصل الخط).
 
 ```csharp
 public class SetLineJoin : Operator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [SetLineJoin](setlinejoin/#constructor)() | Initializes operator. |
+| [SetLineJoin](setlinejoin/#constructor)() | يُهيئ العامل. |
 | [SetLineJoin](setlinejoin/#constructor_1)(LineJoin) |  |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
 | [Join](../../aspose.pdf.operators/setlinejoin/join/) { get; set; } |  |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setlinejoin/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | يعيد نص المشغل ومعاييره. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/setlinejoin/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | يرجع نص العامل ومعامِله. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

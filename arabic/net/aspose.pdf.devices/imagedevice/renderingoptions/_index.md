@@ -1,14 +1,14 @@
 ---
-title: ImageDevice.RenderingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ImageDevice. الحصول على أو تعيين خيارات العرض
+title: "ImageDevice.RenderingOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ImageDevice. تحصل أو تعيين خيارات العرض"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.devices/imagedevice/renderingoptions/
 ---
-## خاصية ImageDevice.RenderingOptions
+## ImageDevice.RenderingOptions property
 
-الحصول على أو تعيين خيارات العرض.
+يحصل أو يعيّن خيارات العرض.
 
 ```csharp
 public RenderingOptions RenderingOptions { get; set; }
@@ -20,3 +20,5 @@ public RenderingOptions RenderingOptions { get; set; }
 * class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

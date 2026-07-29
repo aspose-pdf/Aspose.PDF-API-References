@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.RubyPosition
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeKey. خاصية RubyPosition. مالك خاصية التخطيط
+title: "AttributeKey.RubyPosition"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeKey. سمة RubyPosition سمة Layout المالك"
 type: docs
 weight: 270
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/rubyposition/
 ---
-## حقل AttributeKey.RubyPosition
+## AttributeKey.RubyPosition field
 
-خاصية RubyPosition (مالك خاصية التخطيط).
+خاصية RubyPosition (مالك خاصية Layout).
 
 ```csharp
 public static readonly AttributeKey RubyPosition;
@@ -19,3 +19,5 @@ public static readonly AttributeKey RubyPosition;
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

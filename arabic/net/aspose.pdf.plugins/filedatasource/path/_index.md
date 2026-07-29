@@ -1,14 +1,14 @@
 ---
-title: FileDataSource.Path
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FileDataSource. تحصل على مسار الملف لمصدر البيانات الحالي
+title: "FileDataSource.Path"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FileDataSource. تحصل على المسار إلى ملف مصدر البيانات الحالي"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.plugins/filedatasource/path/
 ---
-## خاصية FileDataSource.Path
+## FileDataSource.Path property
 
-تحصل على مسار الملف لمصدر البيانات الحالي.
+يحصل على المسار إلى ملف مصدر البيانات الحالي.
 
 ```csharp
 public string Path { get; }
@@ -19,3 +19,5 @@ public string Path { get; }
 * class [FileDataSource](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

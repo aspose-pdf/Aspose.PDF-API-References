@@ -1,22 +1,22 @@
 ---
-title: PdfAConverter.Process
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfAConverter. تبدأ عملية تحويل أو تحقق من PDF/A مع الخيارات المعطاة
+title: "PdfAConverter.Process"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfAConverter. تبدأ عملية تحويل أو تحقق PDF/A باستخدام الخيارات المعطاة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/pdfaconverter/process/
 ---
-## طريقة PdfAConverter.Process
+## PdfAConverter.Process method
 
-تبدأ عملية تحويل أو تحقق من PDF/A مع الخيارات المعطاة.
+يبدأ عملية تحويل أو تحقق PDF/A باستخدام الخيارات المحددة.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| options | IPluginOptions | كائن خيارات يحتوي على تعليمات للملحق. يجب أن يكون مثيلًا من فئة [`PdfAConvertOptions`](../../pdfaconvertoptions/) أو فئة [`PdfAValidateOptions`](../../pdfavalidateoptions/). |
+| options | IPluginOptions | كائن خيارات يحتوي على تعليمات للملحق. يجب أن يكون مثيلاً للفئة [`PdfAConvertOptions`](../../pdfaconvertoptions/) أو الفئة [`PdfAValidateOptions`](../../pdfavalidateoptions/). |
 
 ### قيمة الإرجاع
 
@@ -24,8 +24,10 @@ public ResultContainer Process(IPluginOptions options)
 
 ### انظر أيضًا
 
-* فئة [ResultContainer](../../resultcontainer/)
-* واجهة [IPluginOptions](../../ipluginoptions/)
-* فئة [PdfAConverter](../)
-* مساحة الاسم [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [PdfAConverter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

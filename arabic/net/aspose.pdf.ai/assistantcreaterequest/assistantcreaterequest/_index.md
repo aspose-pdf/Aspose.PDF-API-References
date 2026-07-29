@@ -1,14 +1,14 @@
 ---
-title: AssistantCreateRequest.AssistantCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ AssistantCreateRequest. المُنشئ الافتراضي
+title: "AssistantCreateRequest.AssistantCreateRequest"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ AssistantCreateRequest. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/assistantcreaterequest/assistantcreaterequest/
 ---
-## مُنشئ AssistantCreateRequest
+## AssistantCreateRequest constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public AssistantCreateRequest()
@@ -19,3 +19,5 @@ public AssistantCreateRequest()
 * class [AssistantCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

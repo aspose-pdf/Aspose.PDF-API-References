@@ -1,14 +1,14 @@
 ---
-title: EOFillStroke.EOFillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ EOFillStroke. يقوم بتهيئة المشغل
+title: "EOFillStroke.EOFillStroke"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ EOFillStroke. يهيئ المشغل"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.operators/eofillstroke/eofillstroke/
 ---
-## مُنشئ EOFillStroke
+## EOFillStroke constructor
 
-يقوم بتهيئة المشغل.
+يُهيئ العامل.
 
 ```csharp
 public EOFillStroke()
@@ -19,3 +19,5 @@ public EOFillStroke()
 * class [EOFillStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

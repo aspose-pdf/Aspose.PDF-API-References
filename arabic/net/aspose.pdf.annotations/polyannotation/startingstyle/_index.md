@@ -1,14 +1,14 @@
 ---
-title: PolyAnnotation.StartingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PolyAnnotation. تحصل أو تعين نمط نهاية السطر الأول
+title: "PolyAnnotation.StartingStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PolyAnnotation. يحصل أو يضبط نمط النهاية للخط الأول"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.annotations/polyannotation/startingstyle/
 ---
-## خاصية PolyAnnotation.StartingStyle
+## PolyAnnotation.StartingStyle property
 
-تحصل أو تعين نمط نهاية السطر الأول.
+يحصل أو يضبط نمط نهاية السطر الأول.
 
 ```csharp
 public LineEnding StartingStyle { get; set; }
@@ -20,3 +20,5 @@ public LineEnding StartingStyle { get; set; }
 * class [PolyAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Point3D.X
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Point3D. قيمة إحداثي X
+title: "Point3D.X"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Point3D. قيمة إحداثي X"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/point3d/x/
 ---
-## خاصية Point3D.X
+## Point3D.X property
 
 قيمة إحداثي X.
 
@@ -19,3 +19,5 @@ public double X { get; set; }
 * class [Point3D](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

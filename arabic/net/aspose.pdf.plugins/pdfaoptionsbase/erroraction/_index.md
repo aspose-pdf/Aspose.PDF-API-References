@@ -1,26 +1,28 @@
 ---
-title: PdfAOptionsBase.ErrorAction
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfAOptionsBase. تحصل أو تعين الإجراء الذي سيتم اتخاذه للأشياء التي لا يمكن تحويلها
+title: "PdfAOptionsBase.ErrorAction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfAOptionsBase. تحصل أو تعين الإجراء الذي يجب اتخاذه للكائنات التي لا يمكن تحويلها"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/pdfaoptionsbase/erroraction/
 ---
-## خاصية PdfAOptionsBase.ErrorAction
+## PdfAOptionsBase.ErrorAction property
 
-تحصل أو تعين الإجراء الذي سيتم اتخاذه للأشياء التي لا يمكن تحويلها.
+يحصل أو يعيّن الإجراء المتخذ للكائنات التي لا يمكن تحويلها.
 
 ```csharp
 public ConvertErrorAction ErrorAction { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-الإجراء الذي سيتم اتخاذه عندما لا يمكن تحويل كائن في هيكل الوثيقة. قيمة هذه الخاصية هي [`ConvertErrorAction`](../../../aspose.pdf/converterroraction/) تعداد.
+الإجراء الذي يجب اتخاذه عندما لا يمكن تحويل كائن في بنية المستند. قيمة هذه الخاصية هي تعداد [`ConvertErrorAction`](../../../aspose.pdf/converterroraction/).
 
 ### انظر أيضًا
 
-* تعداد [ConvertErrorAction](../../../aspose.pdf/converterroraction/)
-* فئة [PdfAOptionsBase](../)
-* مساحة الاسم [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../../)
+* enum [ConvertErrorAction](../../../aspose.pdf/converterroraction/)
+* class [PdfAOptionsBase](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

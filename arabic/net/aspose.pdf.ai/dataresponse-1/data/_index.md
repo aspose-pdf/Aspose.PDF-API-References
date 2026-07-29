@@ -1,14 +1,14 @@
 ---
-title: DataResponse1.Data
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DataResponse. تحصل أو تعين البيانات في الاستجابة
+title: "DataResponse1.Data"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DataResponse. تحصل أو تعيين البيانات في الاستجابة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/dataresponse-1/data/
 ---
-## خاصية DataResponse&lt;T&gt;.Data
+## DataResponse&lt;T&gt;.Data property
 
-تحصل أو تعين البيانات في الاستجابة.
+يحصل أو يعيّن البيانات في الاستجابة.
 
 ```csharp
 public T Data { get; set; }
@@ -19,3 +19,5 @@ public T Data { get; set; }
 * class [DataResponse&lt;T&gt;](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

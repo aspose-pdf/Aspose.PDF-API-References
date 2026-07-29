@@ -1,25 +1,25 @@
 ---
-title: CheckboxField.CheckboxField
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ CheckboxField. مُنشئ لفئة CheckboxField
+title: "CheckboxField.CheckboxField"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ CheckboxField. منشئ لفئة CheckboxField"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.forms/checkboxfield/checkboxfield/
 ---
 ## CheckboxField(Page, Rectangle) {#constructor_3}
 
-مُنشئ لفئة CheckboxField.
+المنشئ لفئة CheckboxField.
 
 ```csharp
 public CheckboxField(Page page, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة التي سيتم وضع مربع الاختيار فيها. |
-| rect | Rectangle | موضع وحجم مربع الاختيار. |
+| صفحة | صفحة | الصفحة التي سيتم وضع خانة الاختيار فيها. |
+| rect | Rectangle | الموضع والحجم لخانة الاختيار. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -31,18 +31,18 @@ public CheckboxField(Page page, Rectangle rect)
 
 ## CheckboxField(Document, Rectangle) {#constructor_2}
 
-مُنشئ لفئة CheckboxField.
+المنشئ لفئة CheckboxField.
 
 ```csharp
 public CheckboxField(Document doc, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| doc | Document | المستند الذي سيتم إنشاء حقل جديد فيه. |
-| rect | Rectangle | المستطيل الذي سيتم إنشاء الحقل الجديد فيه. |
+| doc | Document | المستند الذي سيتم إنشاء الحقل الجديد فيه. |
+| rect | Rectangle | المستطيل حيث سيتم إنشاء الحقل الجديد. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -52,37 +52,23 @@ public CheckboxField(Document doc, Rectangle rect)
 
 ---
 
-## CheckboxField() {#constructor}
-
-إنشاء مثيل من CheckboxField.
-
-```csharp
-public CheckboxField()
-```
-
-### See Also
-
-* class [CheckboxField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
 ## CheckboxField(Document) {#constructor_1}
 
-مُنشئ للاستخدام مع Generator.
+المنشئ للاستخدام مع Generator.
 
 ```csharp
 public CheckboxField(Document doc)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| doc | Document | المستند الذي سيتم إنشاء الحقل فيه. |
+| doc | Document | Document حيث سيتم إنشاء الحقل. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [CheckboxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

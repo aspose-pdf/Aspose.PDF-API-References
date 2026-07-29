@@ -1,20 +1,20 @@
 ---
-title: Signature.Process
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة التوقيع. تبدأ معالجة التوقيع مع المعلمات المحددة
+title: "Signature.Process"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Signature. تبدأ معالجة Signature بالمعلمات المحددة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/signature/process/
 ---
-## طريقة Signature.Process
+## Signature.Process method
 
-تبدأ معالجة [`Signature`](../) مع المعلمات المحددة.
+يبدأ معالجة [`Signature`](../) بالمعلمات المحددة.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
 ```
 
-| المعلمة | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | options | IPluginOptions | كائن خيارات يحتوي على تعليمات لـ [`Signature`](../). |
 
@@ -24,7 +24,7 @@ public ResultContainer Process(IPluginOptions options)
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
 | InvalidOperationException |  |
 
@@ -35,3 +35,5 @@ public ResultContainer Process(IPluginOptions options)
 * class [Signature](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OptimizationOptions.RemovePrivateInfo
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OptimizationOptions. إزالة معلومات خاصة عن صفحة
+title: "OptimizationOptions.RemovePrivateInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OptimizationOptions. إزالة معلومات خاصة بالصفحة."
 type: docs
-weight: 100
+weight: 90
 url: /ar/net/aspose.pdf.optimization/optimizationoptions/removeprivateinfo/
 ---
-## خاصية OptimizationOptions.RemovePrivateInfo
+## OptimizationOptions.RemovePrivateInfo property
 
-إزالة المعلومات الخاصة (معلومات قطعة الصفحة).
+إزالة المعلومات الخاصة (page piece info).
 
 ```csharp
 public bool RemovePrivateInfo { get; set; }
@@ -19,3 +19,5 @@ public bool RemovePrivateInfo { get; set; }
 * class [OptimizationOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

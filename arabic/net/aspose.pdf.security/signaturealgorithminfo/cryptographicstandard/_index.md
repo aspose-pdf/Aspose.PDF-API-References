@@ -1,12 +1,12 @@
 ---
-title: SignatureAlgorithmInfo.CryptographicStandard
-second_title: Aspose.PDF for .NET API Reference
-description: حقل SignatureAlgorithmInfo. يحصل على المعيار التشفيري المستخدم لتوقيع مستند PDF
+title: "SignatureAlgorithmInfo.CryptographicStandard"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل SignatureAlgorithmInfo. يحصل على المعيار التشفيري المستخدم لتوقيع مستند PDF"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/
 ---
-## حقل SignatureAlgorithmInfo.CryptographicStandard
+## SignatureAlgorithmInfo.CryptographicStandard field
 
 يحصل على المعيار التشفيري المستخدم لتوقيع مستند PDF.
 
@@ -20,3 +20,5 @@ public readonly CryptographicStandard CryptographicStandard;
 * class [SignatureAlgorithmInfo](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

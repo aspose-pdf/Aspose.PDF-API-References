@@ -1,14 +1,14 @@
 ---
-title: GraphInfo.X
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية GraphInfo. استرجع إحداثي X لحدود عمودية عند استخدام TableAbsorber وأعد 1 لحدود أفقية
+title: "GraphInfo.X"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية GraphInfo. استرجع إحداثي X للحد العمودي عند استخدام TableAbsorber وأرجع 1 للحد الأفقي"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf/graphinfo/x/
 ---
-## خاصية GraphInfo.X
+## GraphInfo.X property
 
-استرجع إحداثي X لحدود عمودية عند استخدام TableAbsorber، وأعد "-1" لحدود أفقية.
+استرجع إحداثي X للحد العمودي عند استخدام TableAbsorber، وأرجع "-1" للحد الأفقي.
 
 ```csharp
 public double X { get; }
@@ -19,3 +19,5 @@ public double X { get; }
 * class [GraphInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

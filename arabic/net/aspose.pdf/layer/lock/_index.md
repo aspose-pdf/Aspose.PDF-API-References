@@ -1,14 +1,14 @@
 ---
-title: Layer.Lock
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Layer. تقفل الطبقة
+title: "Layer.Lock"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Layer. يقفل الطبقة"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/layer/lock/
 ---
-## طريقة Layer.Lock
+## Layer.Lock method
 
-تقفل الطبقة.
+يقفل الطبقة.
 
 ```csharp
 public void Lock()
@@ -19,3 +19,5 @@ public void Lock()
 * class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

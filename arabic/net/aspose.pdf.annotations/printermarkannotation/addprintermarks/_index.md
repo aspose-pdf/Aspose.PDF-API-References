@@ -1,35 +1,35 @@
 ---
-title: PrinterMarkAnnotation.AddPrinterMarks
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PrinterMarkAnnotation. تضيف علامات الطابعة إلى جميع الصفحات في المستند المحدد
+title: "PrinterMarkAnnotation.AddPrinterMarks"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PrinterMarkAnnotation. تضيف علامات الطابعة إلى جميع الصفحات في المستند المحدد"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/printermarkannotation/addprintermarks/
 ---
 ## AddPrinterMarks(Document, PrinterMarksKind) {#addprintermarks}
 
-تضيف علامات الطابعة إلى جميع الصفحات في المستند المحدد.
+يضيف علامات الطابعة إلى جميع الصفحات في المستند المحدد.
 
 ```csharp
 public static void AddPrinterMarks(Document document, PrinterMarksKind marksKind)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| document | Document | المستند الذي ستضاف إليه علامات الطابعة. |
-| marksKind | PrinterMarksKind | نوع علامات الطابعة التي ستضاف. |
+| document | Document | المستند الذي ستُضاف إليه علامات الطابعة. |
+| marksKind | PrinterMarksKind | نوع علامات الطابعة التي سيتم إضافتها. |
 
-### Exceptions
+### الاستثناءات
 
-| exception | condition |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | يتم طرحه عندما يكون *document* فارغًا. |
+| ArgumentNullException | يُرمى عندما يكون *document* فارغًا. |
 
-## Remarks
+## ملاحظات
 
-تضيف هذه الطريقة أنواعًا مختلفة من علامات الطابعة بناءً على العلامات المقدمة [`PrinterMarksKind`](../../printermarkskind/). إذا تم تقديم None، فلن تتم إضافة أي علامات.
+هذه الطريقة تضيف أنواعًا مختلفة من علامات الطابعة بناءً على العلامات [`PrinterMarksKind`](../../printermarkskind/) المقدمة. إذا تم تقديم None، لن تُضاف أي علامات.
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * enum [PrinterMarksKind](../../printermarkskind/)
@@ -41,31 +41,33 @@ public static void AddPrinterMarks(Document document, PrinterMarksKind marksKind
 
 ## AddPrinterMarks(Page, PrinterMarksKind) {#addprintermarks_1}
 
-تضيف علامات الطابعة إلى الصفحة المحددة.
+يضيف علامات الطابعة إلى الصفحة المحددة.
 
 ```csharp
 public static void AddPrinterMarks(Page page, PrinterMarksKind marksKind)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة التي ستضاف إليها علامات الطابعة. |
-| marksKind | PrinterMarksKind | نوع علامات الطابعة التي ستضاف. |
+| صفحة | صفحة | الصفحة التي ستُضاف إليها علامات الطابعة. |
+| marksKind | PrinterMarksKind | نوع علامات الطابعة التي سيتم إضافتها. |
 
-### Exceptions
+### الاستثناءات
 
-| exception | condition |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | يتم طرحه عندما تكون *page* فارغة. |
+| ArgumentNullException | يُرمى عندما يكون *page* فارغًا. |
 
-## Remarks
+## ملاحظات
 
-تضيف هذه الطريقة أنواعًا مختلفة من علامات الطابعة بناءً على العلامات المقدمة [`PrinterMarksKind`](../../printermarkskind/). إذا تم تقديم None، فلن تتم إضافة أي علامات.
+هذه الطريقة تضيف أنواعًا مختلفة من علامات الطابعة بناءً على العلامات [`PrinterMarksKind`](../../printermarkskind/) المقدمة. إذا تم تقديم None، لن تُضاف أي علامات.
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * enum [PrinterMarksKind](../../printermarkskind/)
 * class [PrinterMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

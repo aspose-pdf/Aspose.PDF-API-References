@@ -1,40 +1,42 @@
 ---
-title: Class HeaderFooter
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.HeaderFooter. تمثل الفئة رأس أو تذييل صفحة PDF
+title: "الفئة HeaderFooter"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.HeaderFooter. الفئة تمثل رأس أو تذييل صفحة pdf"
 type: docs
-weight: 5430
+weight: 5550
 url: /ar/net/aspose.pdf/headerfooter/
 ---
 ## HeaderFooter class
 
-تمثل الفئة رأس أو تذييل صفحة PDF.
+فئة تمثل صفحة PDF للعنوان أو التذييل.
 
 ```csharp
 public sealed class HeaderFooter : ICloneable
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [HeaderFooter](headerfooter/)() | المُنشئ الافتراضي. |
+| [HeaderFooter](headerfooter/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [IsClipExtraContent](../../aspose.pdf/headerfooter/isclipextracontent/) { get; set; } | يحصل أو يحدد ما إذا كان يتم قص المحتوى الإضافي. |
-| [Margin](../../aspose.pdf/headerfooter/margin/) { get; set; } | يحصل أو يحدد معلومات الهامش. |
-| [Paragraphs](../../aspose.pdf/headerfooter/paragraphs/) { get; set; } | يحصل أو يحدد فقرات الملاحظات النهائية. |
+| [IsClipExtraContent](../../aspose.pdf/headerfooter/isclipextracontent/) { get; set; } | يحصل أو يعيّن ما إذا كان يقتطع المحتوى الإضافي. |
+| [Margin](../../aspose.pdf/headerfooter/margin/) { get; set; } | يحصل أو يعيّن معلومات الهامش. |
+| [Paragraphs](../../aspose.pdf/headerfooter/paragraphs/) { get; set; } | يحصل أو يعيّن فقرات الحاشية النهائية. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Clone](../../aspose.pdf/headerfooter/clone/)() | يقوم باستنساخ كائن جديد. |
+| [Clone](../../aspose.pdf/headerfooter/clone/)() | ينسخ كائنًا جديدًا. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

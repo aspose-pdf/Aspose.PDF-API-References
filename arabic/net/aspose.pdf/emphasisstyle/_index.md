@@ -1,27 +1,29 @@
 ---
-title: Enum EmphasisStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.EmphasisStyle enum. يحدد أنماط التسلسل المتاحة للتأكيد والتأكيد القوي. لمزيد من التفاصيل، راجع CommonMark  التأكيد والتأكيد القوي
+title: "عدد EmphasisStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.EmphasisStyle. يحدد أنماط التسلسل المتاحة للتأكيد والتأكيد القوي. للمواصفات راجع CommonMark  Emphasis and strong emphasis"
 type: docs
-weight: 4020
+weight: 4140
 url: /ar/net/aspose.pdf/emphasisstyle/
 ---
 ## EmphasisStyle enumeration
 
-يحدد أنماط التسلسل المتاحة للتأكيد والتأكيد القوي. لمزيد من التفاصيل، راجع CommonMark - التأكيد والتأكيد القوي.
+يحدد أنماط التسلسل المتاحة للتأكيد والتأكيد القوي. للمواصفات راجع CommonMark - Emphasis and strong emphasis.
 
 ```csharp
 public enum EmphasisStyle
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| Asterisk | `0` | استخدم '*' على التوالي '**' للنص المؤكد (بشكل قوي). |
-| Underscore | `1` | استخدم '_' على التوالي '__' للنص المؤكد (بشكل قوي). |
+| Asterisk | `0` | استخدم '*' و '**' للنص (المؤكد) بقوة. |
+| Underscore | `1` | استخدم '_' و '__' للنص (المؤكد) بقوة. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

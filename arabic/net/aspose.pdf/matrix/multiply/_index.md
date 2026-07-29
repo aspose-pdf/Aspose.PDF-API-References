@@ -1,22 +1,22 @@
 ---
-title: Matrix.Multiply
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة المصفوفة. تضرب المصفوفة بمصفوفة أخرى
+title: "Matrix.Multiply"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Matrix. يضرب المصفوفة بمصفوفة أخرى"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf/matrix/multiply/
 ---
-## طريقة Matrix.Multiply
+## Matrix.Multiply method
 
-تضرب المصفوفة بمصفوفة أخرى.
+يضرب المصفوفة في مصفوفة أخرى.
 
 ```csharp
 public Matrix Multiply(Matrix other)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| other | Matrix | مصفوفة الضرب. |
+| آخر | Matrix | مصفوفة الضارب. |
 
 ### قيمة الإرجاع
 
@@ -35,3 +35,5 @@ Matrix c= a.Multiply(b);
 * class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

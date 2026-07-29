@@ -1,23 +1,23 @@
 ---
-title: IOpenAIClient.RunAndGetAssistantResponseAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة IOpenAIClient. تقوم بتشغيل المساعد باستخدام threadId المحدد و runCreateRequest وتحصل على استجابة المساعد بشكل غير متزامن
+title: "IOpenAIClient.RunAndGetAssistantResponseAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة IOpenAIClient. تشغل المساعد باستخدام معرف الخيط المحدد وطلب إنشاء التشغيل وتسترجع استجابة المساعد بشكل غير متزامن"
 type: docs
 weight: 410
 url: /ar/net/aspose.pdf.ai/iopenaiclient/runandgetassistantresponseasync/
 ---
-## طريقة IOpenAIClient.RunAndGetAssistantResponseAsync
+## IOpenAIClient.RunAndGetAssistantResponseAsync method
 
-تقوم بتشغيل المساعد باستخدام threadId المحدد و runCreateRequest، وتحصل على استجابة المساعد بشكل غير متزامن.
+يشغّل المساعد باستخدام معرف الخيط المحدد وطلب إنشاء التشغيل، ويحصل بشكل غير متزامن على استجابة المساعد.
 
 ```csharp
 public Task<string> RunAndGetAssistantResponseAsync(string threadId, 
     RunCreateRequest runCreateRequest, CancellationToken? cancellationToken)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| threadId | سلسلة | معرف الخيط. |
+| threadId | String | معرّف السلسلة. |
 | runCreateRequest | RunCreateRequest | طلب إنشاء التشغيل. |
 | cancellationToken | Nullable`1 | رمز الإلغاء (اختياري). |
 
@@ -31,3 +31,5 @@ public Task<string> RunAndGetAssistantResponseAsync(string threadId,
 * interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

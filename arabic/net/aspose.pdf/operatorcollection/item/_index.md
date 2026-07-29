@@ -1,20 +1,20 @@
 ---
-title: OperatorCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OperatorCollection. يحصل على المشغل بواسطة فهرسه
+title: "OperatorCollection.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OperatorCollection. تحصل على المشغل حسب فهرسه"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/operatorcollection/item/
 ---
-## فهرس OperatorCollection
+## OperatorCollection indexer
 
-يحصل على المشغل بواسطة فهرسه.
+يحصل على المشغل حسب فهرسه.
 
 ```csharp
 public override Operator this[int index] { get; set; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
 | index | فهرس المشغل. يبدأ الترقيم من 1. |
 
@@ -24,7 +24,7 @@ public override Operator this[int index] { get; set; }
 
 ## أمثلة
 
-المثال يوضح كيفية الحصول على مشغل محتويات الصفحة بواسطة الفهرس.
+يوضح المثال كيفية الحصول على مشغل محتويات الصفحة حسب الفهرس.
 
 ```csharp
 Document doc = new Document("input.pdf");
@@ -38,3 +38,5 @@ Operator first = oc[1];
 * class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

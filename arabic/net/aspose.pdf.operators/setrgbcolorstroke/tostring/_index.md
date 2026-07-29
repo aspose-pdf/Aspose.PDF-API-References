@@ -1,14 +1,14 @@
 ---
-title: SetRGBColorStroke.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة SetRGBColorStroke. تعيد تمثيل نصي للمشغل
+title: "SetRGBColorStroke.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة SetRGBColorStroke. تُعيد تمثيل النص للمشغل"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.operators/setrgbcolorstroke/tostring/
 ---
-## طريقة SetRGBColorStroke.ToString
+## SetRGBColorStroke.ToString method
 
-تعيد تمثيل نصي للمشغل.
+يرجع تمثيل النص للمشغّل.
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### قيمة الإرجاع
 
-تمثيل نصي للمشغل.
+تمثيل النص للعامل.
 
 ### انظر أيضًا
 
 * class [SetRGBColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

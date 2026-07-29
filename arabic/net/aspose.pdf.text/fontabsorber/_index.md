@@ -1,39 +1,41 @@
 ---
-title: Class FontAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Text.FontAbsorber. تمثل كائن ماص للخطوط. تقوم بالبحث عن الخطوط وتوفر الوصول إلى نتائج البحث عبر مجموعة [`Fonts`](./fonts/)
+title: "الفئة FontAbsorber"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Text.FontAbsorber. تمثل كائن ماص للخطوط. تقوم بالبحث عن الخطوط وتوفر الوصول إلى نتائج البحث عبر مجموعة Fonts."
 type: docs
-weight: 10520
+weight: 10700
 url: /ar/net/aspose.pdf.text/fontabsorber/
 ---
 ## FontAbsorber class
 
-تمثل كائن ماص للخطوط. تقوم بالبحث عن الخطوط وتوفر الوصول إلى نتائج البحث عبر مجموعة [`Fonts`](./fonts/) .
+تمثل كائن ماص للخطوط. تقوم بالبحث عن الخطوط وتوفر الوصول إلى نتائج البحث عبر مجموعة [`Fonts`](./fonts/).
 
 ```csharp
 public class FontAbsorber
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [FontAbsorber](fontabsorber/)() | المُنشئ الافتراضي. |
+| [FontAbsorber](fontabsorber/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Fonts](../../aspose.pdf.text/fontabsorber/fonts/) { get; } | يحصل على مجموعة من حالات البحث التي يتم تقديمها مع كائنات [`Font`](../font/) . |
+| [Fonts](../../aspose.pdf.text/fontabsorber/fonts/) { get; } | يحصل على مجموعة من حالات البحث التي تُعرض باستخدام كائنات [`Font`](../font/). |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| virtual [Visit](../../aspose.pdf.text/fontabsorber/visit/#visit)(Document) | يقوم بالبحث في الوثيقة المحددة. |
-| virtual [Visit](../../aspose.pdf.text/fontabsorber/visit/#visit_1)(Document, int, int) | يقوم بالبحث في النطاق المحدد من صفحات الوثيقة. |
+| virtual [Visit](../../aspose.pdf.text/fontabsorber/visit/#visit)(Document) | ينفّذ البحث على المستند المحدد. |
+| virtual [Visit](../../aspose.pdf.text/fontabsorber/visit/#visit_1)(Document, int, int) | يقوم بالبحث في النطاق المحدد من صفحات المستند. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

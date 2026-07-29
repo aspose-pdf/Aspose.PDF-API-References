@@ -1,14 +1,14 @@
 ---
-title: FontCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FontCollection. تحصل على قيمة تشير إلى ما إذا كان الوصول إلى المجموعة متزامنًا وآمنًا للخيوط
+title: "FontCollection.IsSynchronized"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FontCollection. يحصل على قيمة تشير إلى ما إذا كان الوصول إلى المجموعة متزامنًا وآمنًا عبر الخيوط"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.text/fontcollection/issynchronized/
 ---
-## خاصية FontCollection.IsSynchronized
+## FontCollection.IsSynchronized property
 
-تحصل على قيمة تشير إلى ما إذا كان الوصول إلى المجموعة متزامنًا (آمنًا للخيوط).
+يحصل على قيمة تشير إلى ما إذا كان الوصول إلى المجموعة متزامنًا (thread safe).
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -19,3 +19,5 @@ public bool IsSynchronized { get; }
 * class [FontCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

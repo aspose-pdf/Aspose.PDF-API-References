@@ -1,14 +1,14 @@
 ---
-title: INamedDestinationCollection.Names
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية INamedDestinationCollection. تحصل على مصفوفة من أسماء الوجهات
+title: "INamedDestinationCollection.Names"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية INamedDestinationCollection. يحصل على مصفوفة أسماء الوجهات"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/inameddestinationcollection/names/
 ---
-## خاصية INamedDestinationCollection.Names
+## INamedDestinationCollection.Names property
 
-تحصل على مصفوفة من أسماء الوجهات.
+يحصل على مصفوفة أسماء الوجهات.
 
 ```csharp
 public string[] Names { get; }
@@ -16,6 +16,8 @@ public string[] Names { get; }
 
 ### انظر أيضًا
 
-* واجهة [INamedDestinationCollection](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* interface [INamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

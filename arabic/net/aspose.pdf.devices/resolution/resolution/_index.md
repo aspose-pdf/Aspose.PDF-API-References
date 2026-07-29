@@ -1,24 +1,24 @@
 ---
-title: Resolution.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ Resolution. يُهيئ مثيلًا جديدًا من فئة Resolution
+title: "Resolution.Resolution"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Resolution. يهيئ مثيلاً جديداً من الفئة Resolution."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.devices/resolution/resolution/
 ---
 ## Resolution(int) {#constructor}
 
-يُهيئ مثيلًا جديدًا من فئة [`Resolution`](../).
+يُهيئ مثيلاً جديداً من الفئة [`Resolution`](../).
 
 ```csharp
 public Resolution(int value)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| value | Int32 | القيمة التي تمثل الدقة الأفقية والعمودية. |
+| القيمة | Int32 | القيمة التي تمثل الدقة الأفقية والعمودية. |
 
-### See Also
+### انظر أيضًا
 
 * class [Resolution](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
@@ -28,19 +28,21 @@ public Resolution(int value)
 
 ## Resolution(int, int) {#constructor_1}
 
-يُهيئ مثيلًا جديدًا من فئة [`Resolution`](../).
+يُهيئ مثيلاً جديداً من الفئة [`Resolution`](../).
 
 ```csharp
 public Resolution(int valueX, int valueY)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | valueX | Int32 | الدقة الأفقية. |
 | valueY | Int32 | الدقة العمودية. |
 
-### See Also
+### انظر أيضًا
 
 * class [Resolution](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

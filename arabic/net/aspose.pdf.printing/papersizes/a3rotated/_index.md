@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.A3Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ورق A3 مائل 420 مم × 297 مم
+title: "PaperSizes.A3Rotated"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PaperSizes. ورق A3 مدور 420 مم × 297 مم"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.printing/papersizes/a3rotated/
 ---
-## حقل PaperSizes.A3Rotated
+## PaperSizes.A3Rotated field
 
-ورق A3 مائل (420 مم × 297 مم).
+ورق A3 مدوَّر (420 مم × 297 مم).
 
 ```csharp
 public static readonly PaperSize A3Rotated;
@@ -20,3 +20,5 @@ public static readonly PaperSize A3Rotated;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

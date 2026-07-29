@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.PrcEnvelopeNumber8Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PaperSizes. ظرف 8 مائل 309 مم × 120 مم
+title: "PaperSizes.PrcEnvelopeNumber8Rotated"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "PaperSizes field. ظرف 8 مقلوب 309 مم × 120 مم"
 type: docs
 weight: 1030
 url: /ar/net/aspose.pdf.printing/papersizes/prcenvelopenumber8rotated/
 ---
-## حقل PaperSizes.PrcEnvelopeNumber8Rotated
+## PaperSizes.PrcEnvelopeNumber8Rotated field
 
-# ظرف 8 مائل (309 مم × 120 مم).
+مغلف #8 مدور (309 مم × 120 مم).
 
 ```csharp
 public static readonly PaperSize PrcEnvelopeNumber8Rotated;
@@ -20,3 +20,5 @@ public static readonly PaperSize PrcEnvelopeNumber8Rotated;
 * class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

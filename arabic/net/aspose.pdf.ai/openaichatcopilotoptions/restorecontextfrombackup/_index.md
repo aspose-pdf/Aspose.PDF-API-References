@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.RestoreContextFromBackup
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OpenAIChatCopilotOptions. تحصل أو تعين قيمة تشير إلى ما إذا كان يجب استعادة السياق من النسخة الاحتياطية
+title: "OpenAIChatCopilotOptions.RestoreContextFromBackup"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OpenAIChatCopilotOptions. تحصل أو تعيّن قيمة تشير إلى ما إذا كان يجب استعادة السياق من النسخة الاحتياطية."
 type: docs
-weight: 40
+weight: 50
 url: /ar/net/aspose.pdf.ai/openaichatcopilotoptions/restorecontextfrombackup/
 ---
-## خاصية OpenAIChatCopilotOptions.RestoreContextFromBackup
+## OpenAIChatCopilotOptions.RestoreContextFromBackup property
 
-تحصل أو تعين قيمة تشير إلى ما إذا كان يجب استعادة السياق من النسخة الاحتياطية.
+يحصل أو يضبط قيمة تشير إلى ما إذا كان سيتم استعادة السياق من النسخة الاحتياطية.
 
 ```csharp
 public bool RestoreContextFromBackup { get; set; }
@@ -19,3 +19,5 @@ public bool RestoreContextFromBackup { get; set; }
 * class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

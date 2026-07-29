@@ -1,26 +1,28 @@
 ---
-title: PdfAConvertOptions.AddOutput
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfAConvertOptions. تضيف هدف حفظ جديد للنتائج
+title: "PdfAConvertOptions.AddOutput"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfAConvertOptions. تضيف هدف حفظ نتيجة جديد."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.plugins/pdfaconvertoptions/addoutput/
 ---
-## طريقة PdfAConvertOptions.AddOutput
+## PdfAConvertOptions.AddOutput method
 
-تضيف هدف حفظ جديد للنتائج.
+يضيف هدف حفظ نتيجة جديد.
 
 ```csharp
 public void AddOutput(IDataSource dataSource)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| dataSource | IDataSource | الهدف (مصدر بيانات ملف أو تدفق) لعملية حفظ النتائج. |
+| dataSource | IDataSource | الهدف (ملف أو مصدر بيانات تدفق) لحفظ نتائج العملية. |
 
 ### انظر أيضًا
 
-* الواجهة [IDataSource](../../idatasource/)
-* الفئة [PdfAConvertOptions](../)
-* مساحة الاسم [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfAConvertOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

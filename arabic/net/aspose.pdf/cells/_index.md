@@ -1,12 +1,12 @@
 ---
-title: Class Cells
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Cells. تمثل مجموعة خلايا الصف
+title: "الفئة Cells"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Cells. تمثل مجموعة خلايا الصف"
 type: docs
-weight: 2980
+weight: 3090
 url: /ar/net/aspose.pdf/cells/
 ---
-## فئة خلايا الصفوف
+## Cells class
 
 تمثل مجموعة خلايا الصف.
 
@@ -18,14 +18,14 @@ public sealed class Cells : IEnumerable<Cell>
 
 | الاسم | الوصف |
 | --- | --- |
-| [Cells](cells/)() | المنشئ الافتراضي. |
+| [Cells](cells/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
 | [Count](../../aspose.pdf/cells/count/) { get; } | عدد العناصر. |
-| [Item](../../aspose.pdf/cells/item/) { get; set; } | يحصل أو يحدد الخلايا. |
+| [Item](../../aspose.pdf/cells/item/) { get; set; } | يحصل على أو يضبط الخلايا. |
 
 ## الطرق
 
@@ -35,14 +35,16 @@ public sealed class Cells : IEnumerable<Cell>
 | [Add](../../aspose.pdf/cells/add/#add_3)(Cell) | إضافة خلية إلى المجموعة. |
 | [Add](../../aspose.pdf/cells/add/#add_1)(string) | إضافة خلية إلى المجموعة. |
 | [Add](../../aspose.pdf/cells/add/#add_2)(string, TextState) | إضافة خلية إلى المجموعة. |
-| [Dispose](../../aspose.pdf/cells/dispose/)() | طريقة التخلص |
+| [Dispose](../../aspose.pdf/cells/dispose/)() | طريقة Dispose |
 | [GetEnumerator](../../aspose.pdf/cells/getenumerator/)() | يحصل على عداد المجموعة. |
-| [Insert](../../aspose.pdf/cells/insert/)(int, Cell) | إدراج خلية في المجموعة. |
-| [Remove](../../aspose.pdf/cells/remove/#remove)(Cell) | إزالة مجموعة خلايا من المجموعة. |
-| [RemoveRange](../../aspose.pdf/cells/removerange/)(int, int) | إزالة مجموعة خلايا من المجموعة. |
+| [Insert](../../aspose.pdf/cells/insert/)(int, Cell) | إدراج خلية إلى المجموعة. |
+| [Remove](../../aspose.pdf/cells/remove/#remove)(Cell) | إزالة مجموعة الخلايا من المجموعة. |
+| [RemoveRange](../../aspose.pdf/cells/removerange/)(int, int) | إزالة مجموعة الخلايا من المجموعة. |
 
 ### انظر أيضًا
 
-* الفئة [Cell](../cell/)
-* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* class [Cell](../cell/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

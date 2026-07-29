@@ -1,78 +1,80 @@
 ---
-title: Aspose.Pdf.Facades
-second_title: Aspose.PDF for .NET API Reference
-description: يوفر مساحة أسماء Aspose.Pdf.Facades فئات جاءت أصلاً من Aspose.Pdf.Kit. تُستخدم هذه الفئات للتلاعب بالمستندات وأداء عمليات مثل الدمج، والختم، والتوقيع، والتعليق، وما إلى ذلك، ولكن على مستوى عالٍ دون الوصول إلى الهيكل الداخلي للمستندات.
+title: "Aspose.Pdf.Facades"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "توفر مساحة الاسم Aspose.Pdf.Facades فئات جاءت أصلاً من Aspose.Pdf.Kit. تُستخدم هذه الفئات لمعالجة المستندات وإجراء عمليات مثل الجمع، والختم، والتوقيع، والتعليق، إلخ، ولكن على مستوى عالٍ دون الوصول إلى بنية المستند الداخلية"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.facades/
 ---
-تقدم مساحة أسماء **Aspose.Pdf.Facades** فئات جاءت أصلاً من Aspose.Pdf.Kit. تُستخدم هذه الفئات للتلاعب بالمستندات وأداء عمليات مثل الدمج، والختم، والتوقيع، والتعليق، وما إلى ذلك، ولكن على مستوى عالٍ دون الوصول إلى الهيكل الداخلي للمستند.
+توفر مساحة الاسم **Aspose.Pdf.Facades** فئات جاءت أصلاً من Aspose.Pdf.Kit. تُستخدم هذه الفئات لمعالجة المستندات عبر عمليات مثل الجمع، الختم، التوقيع، التعليق، إلخ، ولكن على مستوى عالٍ دون الوصول إلى بنية المستند الداخلية.
 
 ## الفئات
 
-| الفئة | الوصف |
+| فئة | الوصف |
 | --- | --- |
-| [AutoFiller](./autofiller/) | تمثل فئة لاستقبال البيانات من قاعدة البيانات أو مصدر بيانات آخر، وتملأها في الحقول المصممة من قالب PDF وأخيرًا تولد ملف PDF جديد أو تدفق. لديها وضعان لإدخال ملف القالب: الإدخال كتيار أو ملف PDF. لديها أربعة أنواع من أوضاع الإخراج: تدفق مدمج واحد، ملف مدمج واحد، العديد من التدفقات الصغيرة، العديد من الملفات الصغيرة. يمكنها استقبال البيانات الحرفية الموجودة في System.Data.DataTable. |
-| [BDCProperties](./bdcproperties/) | خصائص مشغل BDC. |
-| [Bookmark](./bookmark/) | تمثل إشارة مرجعية. |
-| [Bookmarks](./bookmarks/) | تمثل مجموعة من كائنات [`Bookmark`](../aspose.pdf.facades/bookmark/). |
-| [DocumentPrivilege](./documentprivilege/) | تمثل الامتيازات للوصول إلى ملف PDF. راجع [`PdfFileSecurity`](../aspose.pdf.facades/pdffilesecurity/). هناك 4 طرق لاستخدام هذه الفئة: 1. استخدام الامتياز المحدد مسبقًا مباشرة. 2. بناءً على امتياز محدد مسبقًا وتغيير بعض الأذونات المحددة. 3. بناءً على امتياز محدد مسبقًا وتغيير بعض تركيبات أذونات Adobe Professional المحددة. 4. مزج الطريقة 2 والطريقة 3. |
+| [AutoFiller](./autofiller/) | يمثل فئة لاستقبال البيانات من قاعدة البيانات أو مصدر بيانات آخر، وتملأها في الحقول المصممة في قالب PDF، وفي النهاية يولد ملف PDF جديد أو تدفق. يدعم وضعين لإدخال ملف القالب: ك تدفق أو ك ملف PDF. يدعم أربعة أنواع من أوضاع الإخراج: تدفق مدمج واحد، ملف مدمج واحد، تدفقات صغيرة متعددة، ملفات صغيرة متعددة. يمكنه استقبال بيانات حرفية موجودة في System.Data.DataTable. |
+| [BDCProperties](./bdcproperties/) | خصائص عامل BDC. |
+| [Bookmark](./bookmark/) | يمثل إشارة مرجعية. |
+| [Bookmarks](./bookmarks/) | يمثل مجموعة من [`Bookmark`](../aspose.pdf.facades/bookmark/) كائنات. |
+| [DocumentPrivilege](./documentprivilege/) | يمثل الامتيازات للوصول إلى ملف Pdf. راجع[`PdfFileSecurity`](../aspose.pdf.facades/pdffilesecurity/). هناك 4 طرق لاستخدام هذه الفئة: 1.استخدام الامتياز المحدد مسبقًا مباشرة. 2.استنادًا إلى امتياز محدد مسبقًا وتغيير بعض الأذونات المحددة. 3.استنادًا إلى امتياز محدد مسبقًا وتغيير بعض تركيبة أذونات Adobe Professional المحددة. 4.مزيج بين الطريقة2 والطريقة3. |
 | [Facade](./facade/) | فئة الواجهة الأساسية. |
 | [FontColor](./fontcolor/) | فئة تمثل لون النص. |
 | [Form](./form/) | فئة تمثل كائن نموذج Acro. |
-| [FormattedText](./formattedtext/) | فئة تمثل النص المنسق. تحتوي على معلومات حول النص ولونه وحجمه وأسلوبه. |
-| [FormDataConverter](./formdataconverter/) | تمثل فئة لتحويل البيانات من تنسيق إلى آخر. يمكنها تحويل البيانات في fdf/xml/pdf/xfdf إلى OLEDB/OdbcDB. يمكنها أيضًا تحويل البيانات في OLEDB/OdbcDB إلى البيانات في fdf/xml/xfdf. يمكنها تحويل fdf إلى xml مع علامة "مسمّاة بشكل صارم". |
-| [FormEditor](./formeditor/) | فئة لتحرير النماذج (إضافة/حذف الحقول، إلخ) |
+| [FormattedText](./formattedtext/) | فئة تمثل النص المنسق. تحتوي على معلومات حول النص ولونه وحجمه ونمطه. |
+| [FormDataConverter](./formdataconverter/) | يمثل فئة لتحويل البيانات من تنسيق إلى آخر. يمكنه تحويل البيانات في fdf/xml/pdf/xfdf إلى OLEDB/OdbcDB. كما يمكنه تحويل البيانات في OLEDB/OdbcDB إلى البيانات في fdf/xml/xfdf. يمكنه تحويل fdf إلى xml باستخدام علامة "hard-named". |
+| [FormEditor](./formeditor/) | فئة لتحرير النماذج (إضافة/حذف الحقول إلخ) |
 | [FormFieldFacade](./formfieldfacade/) | فئة لتمثيل خصائص الحقل. |
-| [LineInfo](./lineinfo/) | تمثل معلومات الخط. |
-| [PdfAnnotationEditor](./pdfannotationeditor/) | تمثل فئة للعمل مع تعليقات مستندات PDF (التعليقات). |
-| [PdfBookmarkEditor](./pdfbookmarkeditor/) | تمثل فئة للعمل مع إشارات مرجعية لملف PDF بما في ذلك الإنشاء، والتعديل، والتصدير، والاستيراد، والحذف. |
-| [PdfContentEditor](./pdfcontenteditor/) | تمثل فئة لتحرير محتوى ملف PDF. |
-| [PdfConverter](./pdfconverter/) | تمثل فئة لتحويل كل صفحة من ملف PDF إلى صور، تدعم BMP وJPEG وPNG وTIFF الآن. المحتوى المدعوم في ملفات PDF: الصور، النموذج، التعليق. |
-| [PdfExtractor](./pdfextractor/) | فئة لاستخراج الصور والنصوص من مستند PDF. |
-| [PdfFileEditor](./pdffileeditor/) | تنفذ عمليات مع ملف PDF: الدمج، والتقسيم، واستخراج الصفحات، وصنع كتيب، إلخ. |
-| [PdfFileInfo](./pdffileinfo/) | تمثل فئة للوصول إلى المعلومات الوصفية لمستند PDF. |
-| [PdfFileMend](./pdffilemend/) | تمثل فئة لإضافة نصوص وصور على صفحات مستند PDF موجود. |
-| [PdfFileSanitization](./pdffilesanitization/) | تمثل واجهة برمجة التطبيقات للتعقيم والاسترداد. استخدمها إذا لم تتمكن من إنشاء/فتح المستندات بأي طريقة أخرى. |
-| [PdfFileSecurity](./pdffilesecurity/) | تمثل تشفير أو فك تشفير ملف PDF باستخدام كلمة مرور المالك أو المستخدم، وتغيير إعدادات الأمان وكلمة المرور. |
-| [PdfFileSignature](./pdffilesignature/) | تمثل فئة لتوقيع ملف PDF باستخدام شهادة. |
-| [PdfFileStamp](./pdffilestamp/) | فئة لإضافة أختام (علامة مائية أو خلفية) إلى ملفات PDF. |
-| [PdfJavaScriptStripper](./pdfjavascriptstripper/) | فئة لإزالة جميع أكواد Java Script. |
-| [PdfPageEditor](./pdfpageeditor/) | تمثل فئة لتحرير صفحة ملف PDF، بما في ذلك تدوير الصفحة، وتكبير الصفحة، وتحريك الموضع، وتغيير حجم الصفحة. |
-| [PdfPrintPageInfo](./pdfprintpageinfo/) | تمثل كائنًا يحتوي على معلومات الصفحة الحالية للطباعة. |
-| [PdfProducer](./pdfproducer/) | تمثل فئة لإنتاج PDF من تنسيقات أخرى. يوضح هذا المثال كيفية إنتاج ملف PDF من ملف CGM. |
-| [PdfQueryPageSettingsEventHandler](./pdfquerypagesettingseventhandler/) | تمثل الطريقة التي تتعامل مع حدث [`PdfQueryPageSettings`](../aspose.pdf.facades/pdfviewer/pdfquerypagesettings/) من [`PdfViewer`](../aspose.pdf.facades/pdfviewer/). |
-| [PdfViewer](./pdfviewer/) | تمثل فئة لعرض أو طباعة ملف PDF. |
-| [PdfXmpMetadata](./pdfxmpmetadata/) | فئة للتلاعب ببيانات التعريف XMP. |
-| [ReplaceTextStrategy](./replacetextstrategy/) | تحتوي هذه الفئة على معلمات تحدد سلوك PdfContentEditor عند تنفيذ عملية ReplaceText. |
-| [SaveableFacade](./saveablefacade/) | فئة أساسية لجميع الواجهات القابلة للحفظ. |
-| [SignatureName](./signaturename/) | تمثل فئة لاسم التوقيع. |
+| [LineInfo](./lineinfo/) | يمثل معلومات الخط. |
+| [PdfAnnotationEditor](./pdfannotationeditor/) | يمثل فئة للعمل مع تعليقات توضيحية لمستند PDF (التعليقات). |
+| [PdfBookmarkEditor](./pdfbookmarkeditor/) | يمثل فئة للعمل مع إشارات مرجعية لملف PDF تشمل الإنشاء، التعديل، التصدير، الاستيراد والحذف. |
+| [PdfContentEditor](./pdfcontenteditor/) | يمثل فئة لتحرير محتوى ملف PDF. |
+| [PdfConverter](./pdfconverter/) | يمثل فئة لتحويل كل صفحة من ملف pdf إلى صور، يدعم الآن BMP و JPEG و PNG و TIFF. المحتوى المدعوم في ملفات pdf: صور، نماذج، تعليقات. |
+| [PdfExtractor](./pdfextractor/) | فئة لاستخراج الصور والنص من مستند PDF. |
+| [PdfFileEditor](./pdffileeditor/) | ينفذ عمليات مع ملف PDF: الجمع، التقسيم، استخراج الصفحات، إنشاء كتيب، إلخ. |
+| [PdfFileInfo](./pdffileinfo/) | يمثل فئة للوصول إلى المعلومات الوصفية لمستند PDF. |
+| [PdfFileMend](./pdffilemend/) | يمثل فئة لإضافة نصوص وصور على صفحات مستند PDF الموجود. |
+| [PdfFileSanitization](./pdffilesanitization/) | يمثل واجهة برمجة تطبيقات للتنقية والاستعادة. استخدمها إذا لم تتمكن من إنشاء/فتح المستندات بأي طريقة أخرى. |
+| [PdfFileSecurity](./pdffilesecurity/) | يمثل تشفير أو فك تشفير ملف Pdf باستخدام كلمة مرور المالك أو المستخدم، وتغيير إعدادات الأمان وكلمة المرور. |
+| [PdfFileSignature](./pdffilesignature/) | يمثل فئة لتوقيع ملف pdf باستخدام شهادة. |
+| [PdfFileStamp](./pdffilestamp/) | فئة لإضافة طوابع (علامة مائية أو خلفية) إلى ملفات PDF. |
+| [PdfJavaScriptStripper](./pdfjavascriptstripper/) | فئة لإزالة جميع شفرة Java Script. |
+| [PdfPageEditor](./pdfpageeditor/) | يمثل فئة لتحرير صفحة ملف PDF، بما في ذلك تدوير الصفحة، تكبير الصفحة، نقل الموقع وتغيير حجم الصفحة. |
+| [PdfPrintPageInfo](./pdfprintpageinfo/) | يمثل كائن يحتوي على معلومات صفحة الطباعة الحالية. |
+| [PdfProducer](./pdfproducer/) | يمثل فئة لإنتاج PDF من صيغ أخرى. يوضح هذا المثال كيفية إنتاج ملف Pdf من ملف CGM. |
+| [PdfQueryPageSettingsEventHandler](./pdfquerypagesettingseventhandler/) | يمثل الطريقة التي تتعامل مع حدث [`PdfQueryPageSettings`](../aspose.pdf.facades/pdfviewer/pdfquerypagesettings/) لـ [`PdfViewer`](../aspose.pdf.facades/pdfviewer/). |
+| [PdfViewer](./pdfviewer/) | يمثل فئة لعرض أو طباعة ملف pdf. |
+| [PdfXmpMetadata](./pdfxmpmetadata/) | فئة للتعامل مع بيانات XMP الوصفية. |
+| [ReplaceTextStrategy](./replacetextstrategy/) | تحتوي هذه الفئة على معلمات تحدد سلوك PdfContentEditor عندما يتم تنفيذ عملية ReplaceText. |
+| [SaveableFacade](./saveablefacade/) | الفئة الأساسية لجميع الواجهات القابلة للحفظ. |
+| [SignatureName](./signaturename/) | يمثل فئة لاسم التوقيع. |
 | [Stamp](./stamp/) | فئة تمثل الختم. |
 | [StampInfo](./stampinfo/) | فئة تمثل معلومات الختم. |
-| [TextProperties](./textproperties/) | تمثل خصائص النص مثل: حجم النص، اللون، الأسلوب، إلخ. |
-| [ViewerPreference](./viewerpreference/) | تصف تفضيلات المشاهد (وضع الصفحة، وضع الصفحة غير كامل الشاشة، تخطيط الصفحة). |
+| [TextProperties](./textproperties/) | يمثل خصائص النص مثل: حجم النص، اللون، النمط إلخ. |
+| [ViewerPreference](./viewerpreference/) | يصف تفضيلات المشاهد (وضع الصفحة، وضع الصفحة غير ملء الشاشة، تخطيط الصفحة). |
 ## الواجهات
 
-| الواجهة | الوصف |
+| واجهة | الوصف |
 | --- | --- |
 | [IFacade](./ifacade/) | واجهة الواجهة العامة التي تحدد طرق الواجهات الشائعة. |
-| [ISaveableFacade](./isaveablefacade/) | واجهة الواجهة التي تحدد الطرق الشائعة لجميع الواجهات القابلة للحفظ. |
-## التعداد
+| [ISaveableFacade](./isaveablefacade/) | واجهة الواجهة التي تحدد الطرق المشتركة لجميع الواجهات القابلة للحفظ. |
+## تعداد
 
-| التعداد | الوصف |
+| تعداد | الوصف |
 | --- | --- |
-| [Algorithm](./algorithm/) | تمثل الخوارزميات التي يمكن استخدامها لتشفير مستند PDF. |
-| [AutoRotateMode](./autorotatemode/) | اتجاه التدوير عند طباعة المستند. |
-| [BlendingColorSpace](./blendingcolorspace/) | تمثل الفئة مساحة اللون الممزوجة. |
-| [DataType](./datatype/) | تعدد تعريفات أنواع الحقول. |
-| [DefaultMetadataProperties](./defaultmetadataproperties/) | تعداد الخصائص القياسية XMP. |
-| [EncodingType](./encodingtype/) | تعدد أنواع تشفير النص المستخدم. |
+| [Algorithm](./algorithm/) | يمثل الخوارزميات التي يمكن استخدامها لتشفير مستند pdf. |
+| [AutoRotateMode](./autorotatemode/) | اتجاه الدوران عندما يتم طباعة المستند. |
+| [BlendingColorSpace](./blendingcolorspace/) | الفئة تمثل مساحة لون الدمج. |
+| [DataType](./datatype/) | يسرد تعريفات أنواع الحقول. |
+| [DefaultMetadataProperties](./defaultmetadataproperties/) | تعداد خصائص XMP القياسية. |
+| [EncodingType](./encodingtype/) | يسرد أنواع ترميز النص المستخدمة. |
 | [FieldType](./fieldtype/) | تعداد أنواع الحقول الممكنة. |
-| [FontStyle](./fontstyle/) | تعدد 14 نوعًا من الخطوط. |
-| [ImageMergeMode](./imagemergemode/) | تمثل الأوضاع لدمج الصور. |
-| [KeySize](./keysize/) | تحدد أحجام المفاتيح المختلفة التي يمكن استخدامها لتشفير مستندات PDF. |
-| [PositioningMode](./positioningmode/) | تحدد وضع التمركز. تشمل القيم الممكنة Legacy (التوافق العكسي) وCurrent (طريقة حساب موضع النص المحدثة) |
-| [PropertyFlag](./propertyflag/) | تعداد الأعلام الممكنة للحقول. |
-| [StampType](./stamptype/) | تصف أنواع الأختام. |
-| [SubmitFormFlag](./submitformflag/) | تعداد الأعلام الممكنة لنموذج الإرسال. |
-| [WordWrapMode](./wordwrapmode/) | تحدد استراتيجيات لف لف الكلمات |
+| [FontStyle](./fontstyle/) | يسرد 14 نوعًا من الخطوط. |
+| [ImageMergeMode](./imagemergemode/) | يمثل أوضاع دمج الصور. |
+| [KeySize](./keysize/) | يحدد أحجام المفاتيح المختلفة التي يمكن استخدامها لتشفير مستندات pdf. |
+| [PositioningMode](./positioningmode/) | يحدد وضع التحديد. القيم الممكنة تشمل Legacy (توافقية خلفية) وCurrent (طريقة حساب موضع النص المحدثة). |
+| [PropertyFlag](./propertyflag/) | تعداد أعلام الحقول الممكنة. |
+| [StampType](./stamptype/) | يصف أنواع الطوابع. |
+| [SubmitFormFlag](./submitformflag/) | تعداد لعلامات نموذج الإرسال الممكنة. |
+| [WordWrapMode](./wordwrapmode/) | يحدد استراتيجيات لف النص. |
+
+

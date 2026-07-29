@@ -1,9 +1,9 @@
 ---
-title: Enum LoadFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LoadFormat enum. يحدد تنسيق التحميل
+title: "تعداد LoadFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.LoadFormat. يحدد تنسيق التحميل"
 type: docs
-weight: 6110
+weight: 6250
 url: /ar/net/aspose.pdf/loadformat/
 ---
 ## LoadFormat enumeration
@@ -14,9 +14,9 @@ url: /ar/net/aspose.pdf/loadformat/
 public enum LoadFormat
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
 | CGM | `0` | يعني تحميل المستند بتنسيق CGM |
 | HTML | `1` | يعني تحميل المستند بتنسيق HTML |
@@ -29,15 +29,17 @@ public enum LoadFormat
 | SVG | `8` | يعني تحميل المستند بتنسيق SVG - تنسيق محرر النصوص Latex |
 | MHT | `9` | يعني تحميل المستند بتنسيق MHT (وهو تنسيق HTML مضغوط) |
 | PS | `10` | يعني تحميل المستند بتنسيق PS (تنسيق مستند PostScript) |
-| MD | `11` | يعني أن المستند محمل بتنسيق MD (Markdown). |
-| TXT | `12` | يعني أن المستند محمل بتنسيق TXT. |
+| MD | `11` | يعني أن تحميل المستند بتنسيق MD (markdown). |
+| TXT | `12` | يعني أن تحميل المستند بتنسيق TXT. |
 | APS | `13` | يعني تحميل المستند بتنسيق APS. |
 | PDFXML | `14` | الهيكل الداخلي لمستند PDF بتنسيق XML. |
 | OFD | `15` | يعني تحميل المستند بتنسيق OFD. |
 | DJVU | `16` | يعني تحميل المستند بتنسيق Djvu. |
 | CDR | `17` | يعني تحميل المستند بتنسيق CDR. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

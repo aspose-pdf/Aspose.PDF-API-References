@@ -1,20 +1,20 @@
 ---
-title: XImageCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XImageCollection. يحصل على الصورة من المجموعة حسب فهرسها
+title: "XImageCollection.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XImageCollection. تحصل على الصورة من المجموعة حسب فهرستها"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/ximagecollection/item/
 ---
-## فهرس XImageCollection (1 من 2)
+## XImageCollection indexer (1 of 2)
 
-يحصل على الصورة من المجموعة حسب فهرسها.
+يحصل على الصورة من المجموعة حسب فهرستها.
 
 ```csharp
 public XImage this[int index] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
 | index | فهرس الصورة |
 
@@ -31,7 +31,7 @@ public XImage this[int index] { get; }
 
 ---
 
-## فهرس XImageCollection (2 من 2)
+## XImageCollection indexer (2 of 2)
 
 يحصل على الصورة من المجموعة حسب اسمها.
 
@@ -39,9 +39,9 @@ public XImage this[int index] { get; }
 public XImage this[string name] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| name | اسم الصورة. |
+| الاسم | اسم الصورة. |
 
 ### قيمة الإرجاع
 
@@ -53,3 +53,5 @@ public XImage this[string name] { get; }
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

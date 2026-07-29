@@ -1,14 +1,14 @@
 ---
-title: PageSize.PageLedger
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageSize. حجم الدفتر 432x279 مم
+title: "PageSize.PageLedger"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageSize. حجم Ledger 432x279 مم"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf/pagesize/pageledger/
 ---
-## خاصية PageSize.PageLedger
+## PageSize.PageLedger property
 
-حجم الدفتر (432x279 مم).
+الحجم Ledger (432×279 مم).
 
 ```csharp
 public static PageSize PageLedger { get; }
@@ -19,3 +19,5 @@ public static PageSize PageLedger { get; }
 * class [PageSize](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

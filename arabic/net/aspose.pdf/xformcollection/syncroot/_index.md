@@ -1,14 +1,14 @@
 ---
-title: XFormCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XFormCollection. كائن التزامن
+title: "XFormCollection.SyncRoot"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XFormCollection. كائن المزامنة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/xformcollection/syncroot/
 ---
-## خاصية XFormCollection.SyncRoot
+## XFormCollection.SyncRoot property
 
-كائن التزامن.
+كائن المزامنة.
 
 ```csharp
 public object SyncRoot { get; }
@@ -19,3 +19,5 @@ public object SyncRoot { get; }
 * class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

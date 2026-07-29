@@ -1,14 +1,14 @@
 ---
-title: PdfBookmarkEditor.PdfBookmarkEditor
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PdfBookmarkEditor. يُهيئ كائن PdfBookmarkEditor جديد
+title: "PdfBookmarkEditor.PdfBookmarkEditor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PdfBookmarkEditor. يهيئ كائن PdfBookmarkEditor جديد"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.facades/pdfbookmarkeditor/pdfbookmarkeditor/
 ---
 ## PdfBookmarkEditor() {#constructor}
 
-يُهيئ كائن [`PdfBookmarkEditor`](../) جديد.
+تهيئ كائن [`PdfBookmarkEditor`](../) جديد.
 
 ```csharp
 public PdfBookmarkEditor()
@@ -24,13 +24,13 @@ public PdfBookmarkEditor()
 
 ## PdfBookmarkEditor(Document) {#constructor_1}
 
-يُهيئ كائن [`PdfBookmarkEditor`](../) جديد بناءً على *المستند*.
+تهيئ كائن [`PdfBookmarkEditor`](../) جديد على أساس *المستند*.
 
 ```csharp
 public PdfBookmarkEditor(Document document)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | document | Document | مستند Pdf. |
 
@@ -40,3 +40,5 @@ public PdfBookmarkEditor(Document document)
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

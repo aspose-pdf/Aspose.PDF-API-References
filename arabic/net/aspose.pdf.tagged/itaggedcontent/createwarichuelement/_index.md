@@ -1,26 +1,28 @@
 ---
-title: ITaggedContent.CreateWarichuElement
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ITaggedContent. تنشئ WarichuElement
+title: "ITaggedContent.CreateWarichuElement"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ITaggedContent. تُنشئ WarichuElement"
 type: docs
-weight: 370
+weight: 400
 url: /ar/net/aspose.pdf.tagged/itaggedcontent/createwarichuelement/
 ---
 ## ITaggedContent.CreateWarichuElement method
 
-تنشئ [`WarichuElement`](../../../aspose.pdf.logicalstructure/warichuelement/).
+ينشئ [`WarichuElement`](../../../aspose.pdf.logicalstructure/warichuelement/).
 
 ```csharp
 public WarichuElement CreateWarichuElement()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-عنصر هيكل تم إنشاؤه.
+تم إنشاء عنصر بنية.
 
-### See Also
+### انظر أيضًا
 
 * class [WarichuElement](../../../aspose.pdf.logicalstructure/warichuelement/)
 * interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

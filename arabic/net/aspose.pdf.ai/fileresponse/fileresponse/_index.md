@@ -1,14 +1,14 @@
 ---
-title: FileResponse.FileResponse
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FileResponse. المُنشئ الافتراضي
+title: "FileResponse.FileResponse"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FileResponse. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/fileresponse/fileresponse/
 ---
-## مُنشئ FileResponse
+## FileResponse constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public FileResponse()
@@ -19,3 +19,5 @@ public FileResponse()
 * class [FileResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Stamp.StampId
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الطابع. تحصل أو تعين معرف الطابع
+title: "Stamp.StampId"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Stamp. تحصل أو تعيين معرف الختم"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.facades/stamp/stampid/
 ---
-## خاصية Stamp.StampId
+## Stamp.StampId property
 
-تحصل أو تعين معرف الطابع.
+يحصل أو يعيّن معرف الطابع.
 
 ```csharp
 public int StampId { get; set; }
@@ -19,3 +19,5 @@ public int StampId { get; set; }
 * class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

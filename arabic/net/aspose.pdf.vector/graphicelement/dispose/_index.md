@@ -1,14 +1,14 @@
 ---
-title: GraphicElement.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة GraphicElement. يحرر جميع الموارد المستخدمة بواسطة فئة GraphicElement
+title: "GraphicElement.Dispose"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة GraphicElement. تُحرّر جميع الموارد المستخدمة من قبل فئة GraphicElement"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.vector/graphicelement/dispose/
 ---
-## طريقة GraphicElement.Dispose
+## GraphicElement.Dispose method
 
-يحرر جميع الموارد المستخدمة بواسطة فئة [`GraphicElement`](../).
+تُحرّر جميع الموارد المستخدمة من قبل الفئة [`GraphicElement`](../).
 
 ```csharp
 public void Dispose()
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### انظر أيضًا
 
-* فئة [GraphicElement](../)
-* مساحة الأسماء [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* التجميع [Aspose.PDF](../../../)
+* class [GraphicElement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

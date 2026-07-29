@@ -1,26 +1,26 @@
 ---
-title: PdfFileSignature.ExtractCertificate
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileSignature. تستخرج الشهادات الرقمية بتوقيع X.509 كتيار
+title: "PdfFileSignature.ExtractCertificate"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileSignature. تستخرج توقيعات شهادة X.509 واحدة كتيار"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.facades/pdffilesignature/extractcertificate/
 ---
-## طريقة PdfFileSignature.ExtractCertificate
+## PdfFileSignature.ExtractCertificate method
 
-تستخرج شهادة X.509 الوحيدة للتوقيع كتيار.
+يستخرج شهادة X.509 الفردية للتوقيع كتيار.
 
 ```csharp
 public Stream ExtractCertificate(SignatureName signName)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | signName | SignatureName | اسم التوقيع. |
 
 ### قيمة الإرجاع
 
-إذا تم العثور على الشهادة، يتم إرجاع شهادة X.509 الوحيدة؛ خلاف ذلك، null.
+إذا تم العثور على شهادة، تُرجع شهادة X.509 واحدة؛ وإلا، null.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public Stream ExtractCertificate(SignatureName signName)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

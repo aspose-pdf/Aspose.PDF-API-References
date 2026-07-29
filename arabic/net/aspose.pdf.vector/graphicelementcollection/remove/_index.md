@@ -1,30 +1,32 @@
 ---
-title: GraphicElementCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة GraphicElementCollection. تحذف عنصر GraphicElement
+title: "GraphicElementCollection.Remove"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة GraphicElementCollection. تحذف العنصر GraphicElement"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.vector/graphicelementcollection/remove/
 ---
-## طريقة GraphicElementCollection.Remove
+## GraphicElementCollection.Remove method
 
-تحذف عنصر [`GraphicElement`](../../graphicelement/) .
+تحذف العنصر [`GraphicElement`](../../graphicelement/) .
 
 ```csharp
 public bool Remove(GraphicElement item)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| item | GraphicElement | كائن [`GraphicElement`](../../graphicelement/) الذي سيتم حذفه. |
+| item | GraphicElement | الكائن [`GraphicElement`](../../graphicelement/) الذي سيتم حذفه. |
 
 ### قيمة الإرجاع
 
-صحيح - إذا تم العثور على العنصر؛ خلاف ذلك، خطأ.
+True - إذا تم العثور على العنصر؛ وإلا false.
 
 ### انظر أيضًا
 
-* الفئة [GraphicElement](../../graphicelement/)
-* الفئة [GraphicElementCollection](../)
-* مساحة الاسم [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* التجميع [Aspose.PDF](../../../)
+* class [GraphicElement](../../graphicelement/)
+* class [GraphicElementCollection](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.SolidWireframe
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PDF3DRenderMode. وضع العرض SolidWireFrame
+title: "PDF3DRenderMode.SolidWireframe"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PDF3DRenderMode. وضع العرض SolidWireFrame"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.annotations/pdf3drendermode/solidwireframe/
 ---
-## حقل PDF3DRenderMode.SolidWireframe
+## PDF3DRenderMode.SolidWireframe field
 
 وضع العرض "SolidWireFrame".
 
@@ -19,3 +19,5 @@ public static PDF3DRenderMode SolidWireframe;
 * class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

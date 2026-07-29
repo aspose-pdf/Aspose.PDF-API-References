@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.FitWindow
-second_title: Aspose.PDF for .NET API Reference
-description: حقل ViewerPreference. علم يحدد ما إذا كان يجب تغيير حجم نافذة المستند لتناسب حجم الصفحة المعروضة الأولى
+title: "ViewerPreference.FitWindow"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل ViewerPreference. علامة تحدد ما إذا كان يجب تغيير حجم نافذة المستند لتتناسب مع حجم الصفحة الأولى المعروضة"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.facades/viewerpreference/fitwindow/
 ---
-## حقل ViewerPreference.FitWindow
+## ViewerPreference.FitWindow field
 
-علم يحدد ما إذا كان يجب تغيير حجم نافذة المستند لتناسب حجم الصفحة المعروضة الأولى.
+علامة تحدد ما إذا كان يجب تغيير حجم نافذة المستند لتتناسب مع حجم الصفحة الأولى المعروضة.
 
 ```csharp
 public const int FitWindow;
@@ -19,3 +19,5 @@ public const int FitWindow;
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

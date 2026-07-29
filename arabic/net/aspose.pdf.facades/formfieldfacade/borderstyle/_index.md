@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.BorderStyle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormFieldFacade. نمط حدود الحقل
+title: "FormFieldFacade.BorderStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormFieldFacade. نمط حد الحقل"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.facades/formfieldfacade/borderstyle/
 ---
-## خاصية FormFieldFacade.BorderStyle
+## FormFieldFacade.BorderStyle property
 
-نمط حدود الحقل.
+نمط حد الحقل.
 
 ```csharp
 public int BorderStyle { get; set; }
@@ -19,3 +19,5 @@ public int BorderStyle { get; set; }
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

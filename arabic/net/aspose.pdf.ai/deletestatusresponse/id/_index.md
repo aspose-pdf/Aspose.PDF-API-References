@@ -1,14 +1,14 @@
 ---
-title: DeleteStatusResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DeleteStatusResponse. تحصل أو تعين معرف الكائن المحذوف
+title: "DeleteStatusResponse.Id"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "DeleteStatusResponse خاصية. يحصل أو يعيّن معرف الكائن المحذوف"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/deletestatusresponse/id/
 ---
-## خاصية DeleteStatusResponse.Id
+## DeleteStatusResponse.Id property
 
-تحصل أو تعين معرف الكائن المحذوف.
+يحصل أو يضبط معرف الكائن المحذوف.
 
 ```csharp
 public string Id { get; set; }
@@ -19,3 +19,5 @@ public string Id { get; set; }
 * class [DeleteStatusResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,43 +1,45 @@
 ---
-title: Class MoveTextPositionSetLeading
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.MoveTextPositionSetLeading. فئة تمثل مشغل TD لنقل الموضع وتعيين المسافة بين الأسطر
+title: "فئة MoveTextPositionSetLeading"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Operators.MoveTextPositionSetLeading. تمثّل الفئة عامل TD لتحريك الموضع وتعيين مسافة السطر."
 type: docs
-weight: 7490
+weight: 7630
 url: /ar/net/aspose.pdf.operators/movetextpositionsetleading/
 ---
 ## MoveTextPositionSetLeading class
 
-فئة تمثل مشغل TD (تحريك الموضع وتعيين المسافة بين الأسطر).
+الفئة التي تمثل المشغل TD (تحريك الموضع وتعيين الفاصل).
 
 ```csharp
 public class MoveTextPositionSetLeading : TextPlaceOperator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [MoveTextPositionSetLeading](movetextpositionsetleading/)(double, double) | يقوم بتهيئة المشغل. |
+| [MoveTextPositionSetLeading](movetextpositionsetleading/)(double, double) | يُهيئ العامل. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
-| [X](../../aspose.pdf.operators/movetextpositionsetleading/x/) { get; set; } | إحداثي X لموضع النص. |
-| [Y](../../aspose.pdf.operators/movetextpositionsetleading/y/) { get; set; } | إحداثي Y لموضع النص. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
+| [X](../../aspose.pdf.operators/movetextpositionsetleading/x/) { get; set; } | الإحداثي X لموضع النص. |
+| [Y](../../aspose.pdf.operators/movetextpositionsetleading/y/) { get; set; } | الإحداثي Y لموضع النص. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/movetextpositionsetleading/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | يعيد نص المشغل ومعاييره. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/movetextpositionsetleading/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | يرجع نص العامل ومعامِله. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextPlaceOperator](../textplaceoperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

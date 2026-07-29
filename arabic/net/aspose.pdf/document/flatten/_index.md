@@ -1,14 +1,14 @@
 ---
-title: Document.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الوثيقة. تزيل جميع الحقول من الوثيقة وتضع قيمها بدلاً منها
+title: "Document.Flatten"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Document method. يزيل جميع الحقول من المستند ويضع قيمها بدلاً من ذلك"
 type: docs
-weight: 640
+weight: 660
 url: /ar/net/aspose.pdf/document/flatten/
 ---
 ## Flatten() {#flatten}
 
-تزيل جميع الحقول من الوثيقة وتضع قيمها بدلاً منها.
+إزالة جميع الحقول من المستند ووضع قيمها بدلاً منها.
 
 ```csharp
 public void Flatten()
@@ -24,15 +24,15 @@ public void Flatten()
 
 ## Flatten(FlattenSettings) {#flatten_1}
 
-تزيل جميع الحقول (والتعليقات التوضيحية) من الوثيقة وتضع قيمها بدلاً منها.
+إزالة جميع الحقول (والتعليقات) من المستند ووضع قيمها بدلاً منها.
 
 ```csharp
 public void Flatten(FlattenSettings flattenSettings)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| flattenSettings | FlattenSettings | إعدادات لعملية التسطح. |
+| flattenSettings | FlattenSettings | إعدادات عملية التسوية. |
 
 ### انظر أيضًا
 
@@ -40,3 +40,5 @@ public void Flatten(FlattenSettings flattenSettings)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

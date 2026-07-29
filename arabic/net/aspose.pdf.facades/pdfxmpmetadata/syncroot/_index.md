@@ -1,14 +1,14 @@
 ---
-title: PdfXmpMetadata.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfXmpMetadata. تحصل على كائن المزامنة من المجموعة
+title: "PdfXmpMetadata.SyncRoot"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfXmpMetadata. يحصل على كائن المزامنة للمجموعة"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.facades/pdfxmpmetadata/syncroot/
 ---
-## خاصية PdfXmpMetadata.SyncRoot
+## PdfXmpMetadata.SyncRoot property
 
-تحصل على كائن المزامنة من المجموعة.
+يحصل على كائن المزامنة للمجموعة.
 
 ```csharp
 public object SyncRoot { get; }
@@ -19,3 +19,5 @@ public object SyncRoot { get; }
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

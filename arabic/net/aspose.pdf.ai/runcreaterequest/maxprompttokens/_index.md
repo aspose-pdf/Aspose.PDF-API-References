@@ -1,14 +1,14 @@
 ---
-title: RunCreateRequest.MaxPromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunCreateRequest. يحصل أو يحدد الحد الأقصى لعدد رموز التوجيه التي يمكن استخدامها على مدار التشغيل. سيبذل التشغيل جهدًا كبيرًا لاستخدام العدد المحدد فقط من رموز التوجيه عبر عدة دورات من التشغيل. إذا تجاوز التشغيل عدد رموز التوجيه المحددة، سينتهي التشغيل بحالة غير مكتملة. راجع incomplete_details لمزيد من المعلومات
+title: "RunCreateRequest.MaxPromptTokens"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RunCreateRequest. يحصل أو يضبط الحد الأقصى لعدد رموز المطالبة التي قد تُستخدم خلال مدة التشغيل. سيبذل التشغيل أقصى جهده لاستخدام عدد رموز المطالبة المحدد عبر عدة أدوار من التشغيل. إذا تجاوز التشغيل عدد رموز المطالبة المحدد سينتهي بحالة incomplete. راجع incomplete_details لمزيد من المعلومات."
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.ai/runcreaterequest/maxprompttokens/
 ---
-## خاصية RunCreateRequest.MaxPromptTokens
+## RunCreateRequest.MaxPromptTokens property
 
-يحصل أو يحدد الحد الأقصى لعدد رموز التوجيه التي يمكن استخدامها على مدار التشغيل. سيبذل التشغيل جهدًا كبيرًا لاستخدام العدد المحدد فقط من رموز التوجيه، عبر عدة دورات من التشغيل. إذا تجاوز التشغيل عدد رموز التوجيه المحددة، سينتهي التشغيل بحالة غير مكتملة. راجع incomplete_details لمزيد من المعلومات.
+الحصول أو تعيين الحد الأقصى لعدد رموز المطالبة التي قد تُستخدم خلال التنفيذ. سيبذل التنفيذ أقصى جهده لاستخدام عدد رموز المطالبة المحدد فقط، عبر عدة أدوار من التنفيذ. إذا تجاوز التنفيذ عدد رموز المطالبة المحدد، سينتهي التنفيذ بالحالة غير مكتمل. راجع incomplete_details لمزيد من المعلومات.
 
 ```csharp
 public int? MaxPromptTokens { get; set; }
@@ -19,3 +19,5 @@ public int? MaxPromptTokens { get; set; }
 * class [RunCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

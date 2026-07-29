@@ -1,20 +1,20 @@
 ---
-title: XfaParserOptions.UriResolver
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XfaParserOptions. تحصل أو تعين محلل URI
+title: "XfaParserOptions.UriResolver"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "XfaParserOptions property. يحصل أو يعيّن محلل URI"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.xfaconverter/xfaparseroptions/uriresolver/
 ---
-## خاصية XfaParserOptions.UriResolver
+## XfaParserOptions.UriResolver property
 
-تحصل أو تعين محلل URI.
+يحصل أو يعيّن محلل URI.
 
 ```csharp
 public UriResolver UriResolver { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
 محلل URI.
 
@@ -24,3 +24,5 @@ public UriResolver UriResolver { get; set; }
 * class [XfaParserOptions](../)
 * namespace [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
 * assembly [Aspose.PDF](../../../)
+
+

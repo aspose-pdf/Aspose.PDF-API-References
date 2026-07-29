@@ -1,41 +1,43 @@
 ---
-title: Class FormExporterValuesToCsvOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.FormExporterValuesToCsvOptions. تمثل خيارات تصدير خاصية القيمة للحقول المحددة وليس التعليقات التوضيحية
+title: "فئة FormExporterValuesToCsvOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Plugins.FormExporterValuesToCsvOptions. يمثل خيارات لتصدير خصائص Value للحقول المحددة دون التعليقات التوضيحية"
 type: docs
-weight: 8690
+weight: 8820
 url: /ar/net/aspose.pdf.plugins/formexportervaluestocsvoptions/
 ---
 ## FormExporterValuesToCsvOptions class
 
-تمثل خيارات تصدير خاصية القيمة (القيم) للحقول المحددة (وليس التعليقات التوضيحية).
+يمثل خيارات لتصدير خاصية (Value) للحقول المحددة (ليس التعليقات التوضيحية).
 
 ```csharp
 public sealed class FormExporterValuesToCsvOptions : FormExporterOptions
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [FormExporterValuesToCsvOptions](formexportervaluestocsvoptions/)(SelectField, char) | يقوم بتهيئة مثيل جديد من كائن `FormExporterValuesToCsvOptions`، حيث يتم تحديد الحقول التي سيتم تصدير بياناتها والفاصل لبيانات التصدير. |
+| [FormExporterValuesToCsvOptions](formexportervaluestocsvoptions/)(SelectField, char) | يُنشئ مثيلًا جديدًا لكائن `FormExporterValuesToCsvOptions`، حيث يتم تحديد الحقول التي سيتم تصدير بياناتها والفاصل للبيانات المصدرة. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | يعيد مجموعة بيانات ملحقات Form.... |
-| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | يحصل على مجموعة من الأهداف المضافة لنتائج عملية الحفظ. |
+| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | يرجع مجموعة بيانات مكوّن Form.... |
+| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | يحصل على مجموعة الأهداف المضافة لحفظ نتائج العملية. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات ملحقات Form... |
-| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات ملحقات Form... |
+| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات مكوّن Form.... |
+| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات مكوّن Form.... |
 
-### See Also
+### انظر أيضًا
 
 * class [FormExporterOptions](../formexporteroptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

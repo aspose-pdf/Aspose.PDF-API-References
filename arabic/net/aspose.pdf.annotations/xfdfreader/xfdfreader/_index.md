@@ -1,14 +1,14 @@
 ---
-title: XfdfReader.XfdfReader
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ XfdfReader. المُنشئ الافتراضي
+title: "XfdfReader.XfdfReader"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ XfdfReader. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/xfdfreader/xfdfreader/
 ---
-## مُنشئ XfdfReader
+## XfdfReader constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public XfdfReader()
@@ -19,3 +19,5 @@ public XfdfReader()
 * class [XfdfReader](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

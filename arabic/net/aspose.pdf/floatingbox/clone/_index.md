@@ -1,14 +1,14 @@
 ---
-title: FloatingBox.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FloatingBox. تنسخ كائن FloatingBox جديد. الفقرات في صندوق العائم لا يتم نسخها
+title: "FloatingBox.Clone"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FloatingBox. تنسخ كائن FloatingBox جديد. الفقرات داخل الصندوق العائم لا تُنسخ"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf/floatingbox/clone/
 ---
-## طريقة FloatingBox.Clone
+## FloatingBox.Clone method
 
-تنسخ كائن جديد [`FloatingBox`](../). الفقرات في صندوق العائم لا يتم نسخها.
+ينسخ كائن [`FloatingBox`](../) جديد. الفقرات داخل الصندوق العائم لا تُنسخ.
 
 ```csharp
 public override object Clone()
@@ -16,10 +16,12 @@ public override object Clone()
 
 ### قيمة الإرجاع
 
-كائن جديد [`FloatingBox`](../).
+الكائن [`FloatingBox`](../) الجديد.
 
 ### انظر أيضًا
 
-* الفئة [FloatingBox](../)
-* مساحة الاسم [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

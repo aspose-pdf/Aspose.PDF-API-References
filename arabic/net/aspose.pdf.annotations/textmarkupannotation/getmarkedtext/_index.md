@@ -1,14 +1,14 @@
 ---
-title: TextMarkupAnnotation.GetMarkedText
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TextMarkupAnnotation. تحصل على النص تحت تعليق التمييز كسلسلة
+title: "TextMarkupAnnotation.GetMarkedText"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TextMarkupAnnotation. تحصل على النص تحت التعليق التوضيحي كسلسلة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/textmarkupannotation/getmarkedtext/
 ---
-## طريقة TextMarkupAnnotation.GetMarkedText
+## TextMarkupAnnotation.GetMarkedText method
 
-تحصل على النص تحت تعليق التمييز كسلسلة.
+يحصل على النص تحت التعليق التوضيحي كقيمة نصية.
 
 ```csharp
 public string GetMarkedText()
@@ -16,10 +16,12 @@ public string GetMarkedText()
 
 ### قيمة الإرجاع
 
-سلسلة تحتوي على النص الذي تحت تعليق التمييز.
+سلسلة تحتوي على النص الموجود تحت التعليق التوضيحي.
 
 ### انظر أيضًا
 
 * class [TextMarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

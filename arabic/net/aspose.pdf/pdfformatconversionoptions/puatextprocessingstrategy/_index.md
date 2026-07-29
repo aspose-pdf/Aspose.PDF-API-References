@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.PuaTextProcessingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFormatConversionOptions. استراتيجية لمعالجة الرموز من منطقة الاستخدام الخاص Unicode PUA
+title: "PdfFormatConversionOptions.PuaTextProcessingStrategy"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFormatConversionOptions. استراتيجية لمعالجة الرموز من منطقة الاستخدام الخاص Unicode (PUA)"
 type: docs
-weight: 190
+weight: 200
 url: /ar/net/aspose.pdf/pdfformatconversionoptions/puatextprocessingstrategy/
 ---
-## خاصية PdfFormatConversionOptions.PuaTextProcessingStrategy
+## PdfFormatConversionOptions.PuaTextProcessingStrategy property
 
-استراتيجية لمعالجة الرموز من منطقة الاستخدام الخاص Unicode (PUA).
+استراتيجية لمعالجة الرموز من منطقة الاستخدام الخاص في Unicode (PUA).
 
 ```csharp
 public PuaProcessingStrategy PuaTextProcessingStrategy { get; set; }
@@ -20,3 +20,5 @@ public PuaProcessingStrategy PuaTextProcessingStrategy { get; set; }
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

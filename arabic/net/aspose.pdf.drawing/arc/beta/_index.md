@@ -1,14 +1,14 @@
 ---
-title: Arc.Beta
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية Arc. تحصل أو تعين قيمة عائمة تشير إلى درجة الزاوية النهائية للقوس
+title: "Arc.Beta"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Arc. تحصل أو تعيين قيمة عائمة تشير إلى درجة الزاوية النهائية للقوس"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.drawing/arc/beta/
 ---
-## خاصية Arc.Beta
+## Arc.Beta property
 
-تحصل أو تعين قيمة عائمة تشير إلى درجة الزاوية النهائية للقوس.
+يحصل أو يعيّن قيمة float تُشير إلى درجة الزاوية النهاية للقوس.
 
 ```csharp
 public double Beta { get; set; }
@@ -19,3 +19,5 @@ public double Beta { get; set; }
 * class [Arc](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

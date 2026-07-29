@@ -1,14 +1,14 @@
 ---
-title: PageCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageCollection. تحصل على قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط. دائمًا ما تعيد false
+title: "PageCollection.IsReadOnly"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageCollection. تحصل على قيمة تشير إلى أن المجموعة للقراءة فقط. دائمًا تُعيد false."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/pagecollection/isreadonly/
 ---
-## خاصية PageCollection.IsReadOnly
+## PageCollection.IsReadOnly property
 
-تحصل على قيمة تشير إلى ما إذا كانت المجموعة للقراءة فقط. دائمًا ما تعيد false.
+يحصل على القيمة التي تشير إلى أن المجموعة للقراءة فقط. دائمًا ما تُعيد false.
 
 ```csharp
 public bool IsReadOnly { get; }
@@ -19,3 +19,5 @@ public bool IsReadOnly { get; }
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

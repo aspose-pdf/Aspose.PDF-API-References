@@ -1,30 +1,32 @@
 ---
-title: Enum PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfASymbolicFontEncodingStrategyQueueItemCMapEncodingTableType enum. يعلن عن مجموعة من بعض الجداول الفرعية المعروفة للتشفير
+title: "تعداد PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "تعداد Aspose.Pdf.PdfASymbolicFontEncodingStrategyQueueItemCMapEncodingTableType. يعلن مجموعة من بعض جداول الترميز الفرعية المعروفة."
 type: docs
-weight: 8350
+weight: 8490
 url: /ar/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/
 ---
 ## PdfASymbolicFontEncodingStrategy.QueueItem.CMapEncodingTableType enumeration
 
-يعلن عن مجموعة من بعض الجداول الفرعية المعروفة للتشفير
+يعلن مجموعة من بعض جداول الترميز الفرعية المعروفة.
 
 ```csharp
 public enum CMapEncodingTableType : short
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| WindowsUnicodeTable | `0` | يحدد جدول يونيكود الخاص بنظام ويندوز (3,1) - يونيكود BMP فقط (UCS-2) |
-| WindowsSymbolicTable | `1` | يحدد جدول الرموز الخاص بنظام ويندوز - (3,0) |
-| MacTable | `2` | يحدد جدول ماك (1,0) |
-| UnicodeTable | `3` | يحدد جدول يونيكود (0,3) |
+| WindowsUnicodeTable | `0` | يحدد جدول Unicode لنظام Windows (3,1) - Unicode للـ BMP فقط (UCS-2) |
+| WindowsSymbolicTable | `1` | يحدد جدول رموز Windows - (3,0) |
+| MacTable | `2` | يحدد جدول mac (1,0) |
+| UnicodeTable | `3` | يحدد جدول Unicode (0,3) |
 
-### See Also
+### انظر أيضًا
 
 * class [QueueItem](../pdfasymbolicfontencodingstrategy.queueitem/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

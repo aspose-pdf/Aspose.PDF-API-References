@@ -1,14 +1,14 @@
 ---
-title: ScreenAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ScreenAnnotation. تحصل على نوع التعليق
+title: "ScreenAnnotation.AnnotationType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ScreenAnnotation. تحصل على نوع التعليق التوضيحي"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/screenannotation/annotationtype/
 ---
-## خاصية ScreenAnnotation.AnnotationType
+## ScreenAnnotation.AnnotationType property
 
-تحصل على نوع التعليق.
+الحصول على نوع التعليقة.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [ScreenAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

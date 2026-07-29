@@ -1,14 +1,14 @@
 ---
-title: Class DecryptionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.DecryptionOptions. تمثل خيارات فك التشفير لملحق الأمان
+title: "الفئة DecryptionOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Plugins.DecryptionOptions. تمثل خيارات فك التشفير لإضافة Security"
 type: docs
-weight: 8520
+weight: 8650
 url: /ar/net/aspose.pdf.plugins/decryptionoptions/
 ---
-## فئة خيارات فك التشفير
+## DecryptionOptions class
 
-تمثل خيارات فك التشفير لملحق [`Security`](../security/).
+تمثل خيارات فك التشفير لإضافة [`Security`](../security/)
 
 ```csharp
 public class DecryptionOptions : OrganizerBaseOptions
@@ -18,27 +18,29 @@ public class DecryptionOptions : OrganizerBaseOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [DecryptionOptions](decryptionoptions/)(string) | يقوم بتهيئة مثيل جديد من كائن `DecryptionOptions` مع خيارات افتراضية. |
+| [DecryptionOptions](decryptionoptions/)(string) | يُنشئ نسخة جديدة من كائن `DecryptionOptions` مع الخيارات الافتراضية. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | إغلاق تدفقات الإدخال بعد اكتمال العملية. |
-| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | إغلاق تدفقات الإخراج بعد اكتمال العملية. |
-| [Inputs](../../aspose.pdf.plugins/organizerbaseoptions/inputs/) { get; } | يعيد مجموعة بيانات ملحق OrganizerOptions. |
-| [Outputs](../../aspose.pdf.plugins/organizerbaseoptions/outputs/) { get; } | يحصل على مجموعة من الأهداف المضافة لحفظ نتائج العملية. |
+| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | إغلاق تدفقات الإدخال بعد إكمال العملية. |
+| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | إغلاق تدفقات الإخراج بعد إكمال العملية. |
+| [Inputs](../../aspose.pdf.plugins/organizerbaseoptions/inputs/) { get; } | يعيد مجموعة بيانات إضافة OrganizerOptions. |
+| [Outputs](../../aspose.pdf.plugins/organizerbaseoptions/outputs/) { get; } | يحصل على مجموعة الأهداف المضافة لحفظ نتائج العملية. |
 | [OwnerPassword](../../aspose.pdf.plugins/decryptionoptions/ownerpassword/) { get; set; } | كلمة مرور المالك. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/organizerbaseoptions/addinput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات ملحق PdfOrganizer. |
-| [AddOutput](../../aspose.pdf.plugins/organizerbaseoptions/addoutput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات ملحق PdfOrganizer. |
+| [AddInput](../../aspose.pdf.plugins/organizerbaseoptions/addinput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات إضافة PdfOrganizer. |
+| [AddOutput](../../aspose.pdf.plugins/organizerbaseoptions/addoutput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات إضافة PdfOrganizer. |
 
 ### انظر أيضًا
 
-* فئة [OrganizerBaseOptions](../organizerbaseoptions/)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../)
+* class [OrganizerBaseOptions](../organizerbaseoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

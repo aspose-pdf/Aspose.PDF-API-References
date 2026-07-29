@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.DefaultAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormFieldOptions. تحصل/تضبط القيمة لتحديد خاصية DefaultAppearance للحقل الذي تم إنشاؤه/تعديله إذا سيتم تعيينه
+title: "FormFieldOptions.DefaultAppearance"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FormFieldOptions. تحصل/تضبط القيمة لتحديد خاصية DefaultAppearance للحقل المُنشأ/المعدل إذا تم ضبطها"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.plugins/formfieldoptions/defaultappearance/
 ---
-## خاصية FormFieldOptions.DefaultAppearance
+## FormFieldOptions.DefaultAppearance property
 
-تحصل/تضبط القيمة لتحديد خاصية DefaultAppearance للحقل الذي تم إنشاؤه/تعديله (إذا سيتم تعيينه).
+الحصول/التعيين للقيمة لتحديد الخاصية DefaultAppearance للحقل المُنشأ/المعدل (إذا سيتم تعيينها).
 
 ```csharp
 public DefaultAppearance DefaultAppearance { get; set; }
@@ -20,3 +20,5 @@ public DefaultAppearance DefaultAppearance { get; set; }
 * class [FormFieldOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

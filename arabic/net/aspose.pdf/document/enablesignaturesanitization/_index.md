@@ -1,14 +1,14 @@
 ---
-title: Document.EnableSignatureSanitization
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. تحصل أو تعين علامة لإدارة تطهير حقول التوقيع. مفعل بشكل افتراضي
+title: "Document.EnableSignatureSanitization"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. يحصل أو يضبط العلم لإدارة تنقية حقول التوقيع. مفعَّل افتراضيًا."
 type: docs
-weight: 170
+weight: 190
 url: /ar/net/aspose.pdf/document/enablesignaturesanitization/
 ---
-## خاصية Document.EnableSignatureSanitization
+## Document.EnableSignatureSanitization property
 
-تحصل أو تعين علامة لإدارة تطهير حقول التوقيع. مفعل بشكل افتراضي.
+يحصل أو يعيّن العلامة لإدارة تنقية حقول التوقيع. مفعّلة افتراضيًا.
 
 ```csharp
 public bool EnableSignatureSanitization { get; set; }
@@ -19,3 +19,5 @@ public bool EnableSignatureSanitization { get; set; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

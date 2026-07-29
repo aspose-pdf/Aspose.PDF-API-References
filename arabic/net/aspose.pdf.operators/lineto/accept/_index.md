@@ -1,26 +1,28 @@
 ---
-title: LineTo.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة LineTo. تقبل كائن الزائر لمعالجة المشغل
+title: "LineTo.Accept"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة LineTo. تقبل كائن الزائر لمعالجة المشغل"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.operators/lineto/accept/
 ---
-## طريقة LineTo.Accept
+## LineTo.Accept method
 
-تقبل كائن الزائر لمعالجة المشغل.
+يقبل كائن الزائر لمعالجة العامل.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الزائر | IOperatorSelector | كائن الزائر. |
+| زائر | IOperatorSelector | كائن Visitor. |
 
 ### انظر أيضًا
 
-* واجهة [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* فئة [LineTo](../)
-* مساحة الاسم [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [LineTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

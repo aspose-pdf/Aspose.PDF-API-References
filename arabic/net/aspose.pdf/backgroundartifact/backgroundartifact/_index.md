@@ -1,14 +1,14 @@
 ---
-title: BackgroundArtifact.BackgroundArtifact
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ BackgroundArtifact. يُهيئ كائن BackgroundArtifact
+title: "BackgroundArtifact.BackgroundArtifact"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ BackgroundArtifact. يهيئ كائن BackgroundArtifact"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/backgroundartifact/backgroundartifact/
 ---
-## مُنشئ BackgroundArtifact
+## BackgroundArtifact constructor
 
-يُهيئ كائن BackgroundArtifact.
+يقوم بتهيئة كائن BackgroundArtifact.
 
 ```csharp
 public BackgroundArtifact()
@@ -19,3 +19,5 @@ public BackgroundArtifact()
 * class [BackgroundArtifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

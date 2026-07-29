@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.SignatureAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFileSignature. تعيين أو الحصول على مظهر رسومي للتوقيع. تمثل قيمة الخاصية اسم ملف الصورة
+title: "PdfFileSignature.SignatureAppearance"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFileSignature. تعيين أو الحصول على مظهر رسومي للتوقيع. قيمة الخاصية تمثل اسم ملف الصورة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.facades/pdffilesignature/signatureappearance/
 ---
-## خاصية PdfFileSignature.SignatureAppearance
+## PdfFileSignature.SignatureAppearance property
 
-تعيين أو الحصول على مظهر رسومي للتوقيع. تمثل قيمة الخاصية اسم ملف الصورة.
+يضبط أو يحصل على المظهر الرسومي للتوقيع. قيمة الخاصية تمثل اسم ملف الصورة.
 
 ```csharp
 public string SignatureAppearance { get; set; }
@@ -19,3 +19,5 @@ public string SignatureAppearance { get; set; }
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

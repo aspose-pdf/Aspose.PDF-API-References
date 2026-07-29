@@ -1,26 +1,28 @@
 ---
-title: Operator.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة المشغل. تقبل الزائر IOperatorSelector الذي يوفر معالجة المشغلين
+title: "Operator.Accept"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Operator. تقبل الزائر IOperatorSelector الذي يوفر معالجة المشغلات"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/operator/accept/
 ---
-## طريقة Operator.Accept
+## Operator.Accept method
 
-تقبل الزائر IOperatorSelector الذي يوفر معالجة المشغلين.
+يقبل الزائر IOperatorSelector الذي يوفر معالجة العوامل.
 
 ```csharp
 public abstract void Accept(IOperatorSelector visitor)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الزائر | IOperatorSelector | كائن الزائر |
+| زائر | IOperatorSelector | كائن Visitor |
 
 ### انظر أيضًا
 
-* واجهة [IOperatorSelector](../../ioperatorselector/)
-* فئة [Operator](../)
-* مساحة الاسم [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IOperatorSelector](../../ioperatorselector/)
+* class [Operator](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

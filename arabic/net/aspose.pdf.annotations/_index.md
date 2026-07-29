@@ -1,68 +1,68 @@
 ---
-title: Aspose.Pdf.Annotations
-second_title: Aspose.PDF for .NET API Reference
-description: توفر مساحة أسماء Aspose.Pdf.Annotations فئات للعمل مع أنواع مختلفة من الإجراءات والوجهات وميزات أخرى في الوثيقة التي تُسمى تقليديًا تفاعلية، مما يوفر وسيلة للمستخدم للتواصل معها.
+title: "Aspose.Pdf.Annotations"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "يوفر مساحة الأسماء Aspose.Pdf.Annotations فئات للعمل مع أنواع مختلفة من إجراءات الوجهات وغيرها من ميزات المستند التي تُسمى تقليديًا تفاعلية، مما يتيح للمستخدم التفاعل معه."
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.annotations/
 ---
-تقدم مساحة أسماء **Aspose.Pdf.Annotations** فئات للعمل مع أنواع مختلفة من الإجراءات والوجهات وميزات أخرى في الوثيقة التي تُسمى تقليديًا تفاعلية، مما يوفر وسيلة للمستخدم للتواصل معها.
+توفر مساحة الاسم **Aspose.Pdf.Annotations** فئات للعمل مع أنواع مختلفة من الإجراءات والوجهات وغيرها من ميزات المستند التي تُسمى تقليديًا تفاعلية، مما يتيح للمستخدم التواصل معه.
 
 ## الفئات
 
-| الفئة | الوصف |
+| فئة | الوصف |
 | --- | --- |
 | [ActionCollection](./actioncollection/) | مجموعة من الإجراءات |
-| [Annotation](./annotation/) | فئة تمثل كائن التعليق. |
-| [AnnotationActionCollection](./annotationactioncollection/) | تمثل مجموعة من إجراءات التعليق. |
-| [AnnotationCollection](./annotationcollection/) | فئة تمثل مجموعة التعليقات. |
-| [AnnotationSelector](./annotationselector/) | تُستخدم هذه الفئة لاختيار التعليقات باستخدام فكرة قالب الزائر. |
-| [AppearanceDictionary](./appearancedictionary/) | قاموس مظهر التعليق يحدد كيفية تقديم التعليق بصريًا على الصفحة. |
-| [BleedMarkAnnotation](./bleedmarkannotation/) | تمثل تعليق علامة النزيف. |
-| [Border](./border/) | فئة تمثل خصائص حدود التعليق. |
-| [CaretAnnotation](./caretannotation/) | فئة تمثل تعليق المؤشر. |
-| [Characteristics](./characteristics/) | تمثل خصائص التعليق |
-| [CircleAnnotation](./circleannotation/) | فئة تمثل تعليق الدائرة. |
-| [ColorBarAnnotation](./colorbarannotation/) | فئة تمثل تعليق شريط اللون. يتم تجاهل خاصية اللون، بدلاً من ذلك يتم استخدام ألوان CMYK. عند الإنشاء، تحدد نسبة العرض إلى الارتفاع اتجاه التعليق - أفقي أو عمودي. بعد ذلك، تتحقق من أن مستطيل التعليق خارج TrimBox، وإذا لم يكن كذلك، يتم نقله إلى أقرب موقع خارج TrimBox، مع الأخذ في الاعتبار اتجاه التعليق. من الممكن تقليل العرض (الارتفاع) بحيث يتناسب التعليق خارج TrimBox. إذا لم يكن هناك مساحة للتخطيط، يمكن تعيين العرض/الارتفاع إلى صفر (في هذه الحالة، يكون التعليق موجودًا على الصفحة، ولكن لا يتم عرضه). |
-| [CommonFigureAnnotation](./commonfigureannotation/) | فئة مجردة تمثل تعليق الشكل الشائع. |
-| [CornerPrinterMarkAnnotation](./cornerprintermarkannotation/) | تمثل أنواع التعليقات التي توضع في زوايا الصفحة المطبوعة. |
-| [CustomExplicitDestination](./customexplicitdestination/) | تمثل وجهة صريحة مخصصة. |
-| [Dash](./dash/) | فئة تمثل نمط خط متقطع. |
-| [DefaultAppearance](./defaultappearance/) | تصف المظهر الافتراضي للحقل (الخط، حجم النص ولونه). |
-| [DocumentActionCollection](./documentactioncollection/) | تصف الفئة الإجراءات التي يتم تنفيذها على بعض الإجراءات مع الوثيقة |
-| [ExplicitDestination](./explicitdestination/) | تمثل الفئة الأساسية للوجهات الصريحة في وثيقة PDF. |
+| [Annotation](./annotation/) | فئة تمثل كائن التعليق التوضيحي. |
+| [AnnotationActionCollection](./annotationactioncollection/) | يمثل مجموعة إجراءات التعليقات التوضيحية. |
+| [AnnotationCollection](./annotationcollection/) | فئة تمثل مجموعة التعليقات التوضيحية. |
+| [AnnotationSelector](./annotationselector/) | تُستخدم هذه الفئة لاختيار التعليقات التوضيحية باستخدام فكرة نموذج الزائر. |
+| [AppearanceDictionary](./appearancedictionary/) | قاموس مظهر التعليق التوضيحي يحدد كيفية عرض التعليق بصريًا على الصفحة. |
+| [BleedMarkAnnotation](./bleedmarkannotation/) | يمثل تعليق توضيحي لعلامة النزيف. |
+| [Border](./border/) | فئة تمثل خصائص حدود التعليق التوضيحي. |
+| [CaretAnnotation](./caretannotation/) | فئة تمثل تعليق توضيحي للمؤشر. |
+| [Characteristics](./characteristics/) | يمثل خصائص التعليق التوضيحي |
+| [CircleAnnotation](./circleannotation/) | فئة تمثل تعليق توضيحي دائري. |
+| [ColorBarAnnotation](./colorbarannotation/) | فئة تمثل تعليقًا توضيحيًا من نوع ColorBarAnnotation. يتم تجاهل الخاصية Color، ويتم استخدام لون ColorsOfCMYK بدلاً منها. عند الإنشاء، يحدد نسبة العرض إلى الارتفاع اتجاه التعليق — أفقي أو عمودي. بعد ذلك، يتم التحقق من أن مستطيل التعليق خارج TrimBox، وإذا لم يكن كذلك، يتم إزاحته إلى أقرب موقع خارج TrimBox مع مراعاة اتجاه التعليق. يمكن تقليل العرض (الارتفاع) بحيث يتناسب التعليق خارج TrimBox. إذا لم يتوفر مساحة للتخطيط، يمكن ضبط العرض/الارتفاع على الصفر (في هذه الحالة، يكون التعليق موجودًا على الصفحة لكنه غير معروض). |
+| [CommonFigureAnnotation](./commonfigureannotation/) | فئة تجريدية تمثل تعليقًا توضيحيًا شائعًا. |
+| [CornerPrinterMarkAnnotation](./cornerprintermarkannotation/) | يمثل أنواع التعليقات التوضيحية التي توضع في زوايا الصفحة المطبوعة. |
+| [CustomExplicitDestination](./customexplicitdestination/) | يمثل وجهة صريحة مخصصة. |
+| [Dash](./dash/) | فئة تمثل نمط الخط المتقطع. |
+| [DefaultAppearance](./defaultappearance/) | يصف المظهر الافتراضي للحقل (الخط، حجم النص واللون). |
+| [DocumentActionCollection](./documentactioncollection/) | الفئة تصف الإجراءات التي تُجرى على بعض الإجراءات مع المستند. |
+| [ExplicitDestination](./explicitdestination/) | يمثل الفئة الأساسية للوجهات الصريحة في مستند PDF. |
 | [FdfReader](./fdfreader/) | فئة تقوم بقراءة تنسيق FDF. |
-| [FileAttachmentAnnotation](./fileattachmentannotation/) | فئة تصف تعليق إرفاق ملف. |
-| [FitBExplicitDestination](./fitbexplicitdestination/) | تمثل وجهة صريحة تعرض الصفحة بمحتوياتها مكبرة بما يكفي لتناسب صندوقها المحيط بالكامل داخل النافذة أفقيًا وعموديًا. إذا كانت عوامل التكبير الأفقية والعمودية المطلوبة مختلفة، استخدم الأصغر من الاثنين، مع توسيط صندوق الحدود داخل النافذة في البعد الآخر. |
-| [FitBHExplicitDestination](./fitbhexplicitdestination/) | تمثل وجهة صريحة تعرض الصفحة مع إحداثيات العمودي العلوي موضوعة عند الحافة العلوية للنافذة ومحتويات الصفحة مكبرة بما يكفي لتناسب العرض الكامل لصندوقها المحيط داخل النافذة. تشير القيمة الفارغة للعلوي إلى أن القيمة الحالية لذلك المعامل يجب الاحتفاظ بها دون تغيير. |
-| [FitBVExplicitDestination](./fitbvexplicitdestination/) | تمثل وجهة صريحة تعرض الصفحة مع إحداثيات الأفقي الأيسر موضوعة عند الحافة اليسرى للنافذة ومحتويات الصفحة مكبرة بما يكفي لتناسب الارتفاع الكامل لصندوقها المحيط داخل النافذة. تشير القيمة الفارغة لليسار إلى أن القيمة الحالية لذلك المعامل يجب الاحتفاظ بها دون تغيير. |
-| [FitExplicitDestination](./fitexplicitdestination/) | تمثل وجهة صريحة تعرض الصفحة بمحتوياتها مكبرة بما يكفي لتناسب الصفحة بالكامل داخل النافذة أفقيًا وعموديًا. إذا كانت عوامل التكبير الأفقية والعمودية المطلوبة مختلفة، استخدم الأصغر من الاثنين، مع توسيط الصفحة داخل النافذة في البعد الآخر. |
-| [FitHExplicitDestination](./fithexplicitdestination/) | تمثل وجهة صريحة تعرض الصفحة مع إحداثيات العمودي العلوي موضوعة عند الحافة العلوية للنافذة ومحتويات الصفحة مكبرة بما يكفي لتناسب العرض الكامل للصفحة داخل النافذة. تشير القيمة الفارغة للعلوي إلى أن القيمة الحالية لذلك المعامل يجب الاحتفاظ بها دون تغيير. |
-| [FitRExplicitDestination](./fitrexplicitdestination/) | تمثل وجهة صريحة تعرض الصفحة بمحتوياتها مكبرة بما يكفي لتناسب المستطيل المحدد بواسطة الإحداثيات اليسار، الأسفل، اليمين، والأعلى بالكامل داخل النافذة أفقيًا وعموديًا. إذا كانت عوامل التكبير الأفقية والعمودية المطلوبة مختلفة، استخدم الأصغر من الاثنين، مع توسيط المستطيل داخل النافذة في البعد الآخر. قد تؤدي القيمة الفارغة لأي من المعاملات إلى سلوك غير متوقع. |
-| [FitVExplicitDestination](./fitvexplicitdestination/) | تمثل وجهة صريحة تعرض الصفحة مع إحداثيات الأفقي الأيسر موضوعة عند الحافة اليسرى للنافذة ومحتويات الصفحة مكبرة بما يكفي لتناسب الارتفاع الكامل للصفحة داخل النافذة. تشير القيمة الفارغة لليسار إلى أن القيمة الحالية لذلك المعامل يجب الاحتفاظ بها دون تغيير. |
-| [FixedPrint](./fixedprint/) | تمثل بيانات الطباعة الثابتة لتعليق العلامة المائية. |
-| [FreeTextAnnotation](./freetextannotation/) | تمثل تعليق نص حر يعرض نصًا مباشرة على الصفحة. على عكس تعليق النص العادي، لا يحتوي تعليق النص الحر على حالة مفتوحة أو مغلقة؛ بدلاً من أن يتم عرضه في نافذة منبثقة، يكون النص مرئيًا دائمًا. |
-| [GoToAction](./gotoaction/) | تمثل إجراء الانتقال الذي يغير العرض إلى وجهة محددة (صفحة، موقع، وعامل تكبير). |
-| [GoToRemoteAction](./gotoremoteaction/) | تمثل إجراء الانتقال عن بُعد الذي يشبه إجراء الانتقال العادي ولكنه ينتقل إلى وجهة في ملف PDF آخر بدلاً من الملف الحالي. |
-| [GoToURIAction](./gotouriaction/) | تمثل إجراء URI يتسبب في حل URI. |
-| [HideAction](./hideaction/) | تمثل إجراء إخفاء يخفي أو يظهر واحدًا أو أكثر من التعليقات على الشاشة عن طريق تعيين أو مسح علامات "مخفي". |
-| [HighlightAnnotation](./highlightannotation/) | تمثل تعليق تمييز يبرز مجموعة من النصوص في الوثيقة. |
-| [ImportDataAction](./importdataaction/) | عند استدعاء إجراء استيراد البيانات، يجب استيراد بيانات تنسيق بيانات النماذج (FDF) إلى النموذج التفاعلي للوثيقة من ملف محدد. |
-| [InkAnnotation](./inkannotation/) | تمثل "خربشة" حرة تتكون من مسارات غير متصلة واحدة أو أكثر. |
-| [JavascriptAction](./javascriptaction/) | فئة تمثل إجراء جافا سكريبت. |
-| [LaunchAction](./launchaction/) | تمثل إجراء إطلاق يقوم بإطلاق تطبيق أو فتح أو طباعة وثيقة. |
-| [LineAnnotation](./lineannotation/) | فئة تمثل تعليق الخط. |
-| [LinkAnnotation](./linkannotation/) | تمثل إما رابط نصي إلى وجهة في مكان آخر في الوثيقة أو إجراء يجب تنفيذه. |
-| [MarkupAnnotation](./markupannotation/) | فئة مجردة تمثل تعليق التمييز. |
+| [FileAttachmentAnnotation](./fileattachmentannotation/) | الفئة تصف ملاحظة مرفق الملف. |
+| [FitBExplicitDestination](./fitbexplicitdestination/) | يمثل الوجهة الصريحة التي تعرض الصفحة مع تكبير محتواها بما يكفي لتلائم الصندوق المحيط بها بالكامل داخل النافذة أفقياً وعمودياً. إذا كانت عوامل التكبير الأفقية والعمودية المطلوبة مختلفة، استخدم الأصغر منهما، مع تمركز الصندوق المحيط داخل النافذة في البُعد الآخر. |
+| [FitBHExplicitDestination](./fitbhexplicitdestination/) | يمثل الوجهة الصريحة التي تعرض الصفحة مع وضع الإحداثي العمودي العلوي عند حافة النافذة العليا وتكبير محتوى الصفحة بما يكفي لتلائم العرض الكامل لصندوقها المحيط داخل النافذة. قيمة null للعلوي تشير إلى أن القيمة الحالية لهذا المعامل يجب الاحتفاظ بها دون تغيير. |
+| [FitBVExplicitDestination](./fitbvexplicitdestination/) | يمثل الوجهة الصريحة التي تعرض الصفحة مع وضع الإحداثي الأفقي الأيسر عند حافة النافذة اليسرى وتكبير محتوى الصفحة بما يكفي لتلائم الارتفاع الكامل لصندوقها المحيط داخل النافذة. قيمة null للأيسر تشير إلى أن القيمة الحالية لهذا المعامل يجب الاحتفاظ بها دون تغيير. |
+| [FitExplicitDestination](./fitexplicitdestination/) | يمثل الوجهة الصريحة التي تعرض الصفحة مع تكبير محتواها بما يكفي لتلائم الصفحة بالكامل داخل النافذة أفقياً وعمودياً. إذا كانت عوامل التكبير الأفقية والعمودية المطلوبة مختلفة، استخدم الأصغر منهما، مع تمركز الصفحة داخل النافذة في البُعد الآخر. |
+| [FitHExplicitDestination](./fithexplicitdestination/) | يمثل الوجهة الصريحة التي تعرض الصفحة مع وضع الإحداثي العمودي العلوي عند حافة النافذة العليا وتكبير محتوى الصفحة بما يكفي لتلائم العرض الكامل للصفحة داخل النافذة. قيمة null للعلوي تشير إلى أن القيمة الحالية لهذا المعامل يجب الاحتفاظ بها دون تغيير. |
+| [FitRExplicitDestination](./fitrexplicitdestination/) | يمثل الوجهة الصريحة التي تعرض الصفحة مع تكبير محتواها بما يكفي لتلائم المستطيل المحدد بالإحداثيات اليسار، الأسفل، اليمين، والعلوي بالكامل داخل النافذة أفقياً وعمودياً. إذا كانت عوامل التكبير الأفقية والعمودية المطلوبة مختلفة، استخدم الأصغر منهما، مع تمركز المستطيل داخل النافذة في البُعد الآخر. قد يؤدي قيمة null لأي من المعاملات إلى سلوك غير متوقع. |
+| [FitVExplicitDestination](./fitvexplicitdestination/) | يمثل الوجهة الصريحة التي تعرض الصفحة مع وضع الإحداثي الأفقي الأيسر عند حافة النافذة اليسرى وتكبير محتوى الصفحة بما يكفي لتلائم الارتفاع الكامل للصفحة داخل النافذة. قيمة null للأيسر تشير إلى أن القيمة الحالية لهذا المعامل يجب الاحتفاظ بها دون تغيير. |
+| [FixedPrint](./fixedprint/) | يمثل بيانات الطباعة الثابتة لتعليق العلامة المائية. |
+| [FreeTextAnnotation](./freetextannotation/) | يمثل ملاحظة نص حر تعرض النص مباشرة على الصفحة. على عكس ملاحظة النص العادية، لا تمتلك ملاحظة النص الحر حالة فتح أو إغلاق؛ بدلاً من عرضها في نافذة منبثقة، يكون النص دائماً مرئياً. |
+| [GoToAction](./gotoaction/) | يمثل إجراء الانتقال إلى الذي يغيّر العرض إلى وجهة محددة (صفحة، موقع، وعامل التكبير). |
+| [GoToRemoteAction](./gotoremoteaction/) | يمثل إجراء الانتقال إلى عن بُعد الذي يشبه إجراء الانتقال إلى العادي لكنه ينتقل إلى وجهة في ملف PDF آخر بدلاً من الملف الحالي. |
+| [GoToURIAction](./gotouriaction/) | يمثل إجراء URI الذي يتسبب في حل URI. |
+| [HideAction](./hideaction/) | يمثل إجراء إخفاء يخفى أو يظهر ملاحظة أو أكثر على الشاشة عن طريق تعيين أو مسح علامات الإخفاء الخاصة بها. |
+| [HighlightAnnotation](./highlightannotation/) | يمثل ملاحظة تمييز تُبرز نطاقاً من النص في المستند. |
+| [ImportDataAction](./importdataaction/) | عند استدعاء إجراء استيراد البيانات، يجب استيراد بيانات تنسيق بيانات النماذج (FDF) إلى النموذج التفاعلي للمستند من ملف محدد. |
+| [InkAnnotation](./inkannotation/) | يمثل "خربشة" يدوية تتكون من مسار أو أكثر غير متصلة. |
+| [JavascriptAction](./javascriptaction/) | فئة تمثل إجراء جافاسكريبت. |
+| [LaunchAction](./launchaction/) | يمثل إجراءً للإطلاق يقوم بتشغيل تطبيق أو فتح أو طباعة مستند. |
+| [LineAnnotation](./lineannotation/) | فئة تمثل تعليقا خطيًا. |
+| [LinkAnnotation](./linkannotation/) | يمثل إما رابطًا تشعبيًا إلى هدف في مكان آخر داخل المستند أو إجراءً يجب تنفيذها. |
+| [MarkupAnnotation](./markupannotation/) | فئة مجردة تمثل تعليقا للعلامات. |
 | [Measure](./measure/) | فئة تصف نظام إحداثيات القياس. |
-| [MediaClip](./mediaclip/) | فئة تصف كائن مقطع الوسائط من العرض. |
-| [MediaClipData](./mediaclipdata/) | فئة تصف بيانات مقطع الوسائط. |
-| [MediaClipSection](./mediaclipsection/) | تصف هذه الفئة قسم مقطع الوسائط. |
+| [MediaClip](./mediaclip/) | فئة تصف كائن مقطع وسائط للعرض. |
+| [MediaClipData](./mediaclipdata/) | فئة تصف بيانات مقطع وسائط. |
+| [MediaClipSection](./mediaclipsection/) | هذه الفئة تصف قسم مقطع الوسائط. |
 | [MediaRendition](./mediarendition/) | فئة تصف عرض الوسائط. |
-| [MovieAnnotation](./movieannotation/) | تمثل تعليق فيلم يحتوي على رسومات متحركة وصوت ليتم تقديمه على شاشة الكمبيوتر ومن خلال مكبرات الصوت. عند تفعيل التعليق، يتم تشغيل الفيلم. |
-| [NamedAction](./namedaction/) | تمثل الإجراءات المسماة التي يُتوقع أن تدعمها تطبيقات عرض PDF. |
-| [NamedDestination](./nameddestination/) | بدلاً من تعريفها مباشرة باستخدام الصيغة الصريحة، يمكن الإشارة إلى وجهة بشكل غير مباشر من خلال كائن اسم أو سلسلة بايت. |
-| [PageInformationAnnotation](./pageinformationannotation/) | تمثل تعليق معلومات الصفحة في وثيقة PDF. يحتوي هذا التعليق على اسم الملف، رقم الصفحة، وتاريخ ووقت إنشاء التعليق. |
+| [MovieAnnotation](./movieannotation/) | يمثل تعليقا للفيلم يحتوي على رسومات متحركة وصوت يُعرض على شاشة الكمبيوتر ومن خلال السماعات. عند تفعيل التعليق، يتم تشغيل الفيلم. |
+| [NamedAction](./namedaction/) | يمثل إجراءات مسماة من المتوقع أن تدعمها تطبيقات عارض PDF. |
+| [NamedDestination](./nameddestination/) | بدلاً من تعريفه مباشرةً باستخدام الصياغة الصريحة، يمكن الإشارة إلى الهدف بصورة غير مباشرة عبر كائن اسم أو سلسلة بايت. |
+| [PageInformationAnnotation](./pageinformationannotation/) | يمثل تعليقا لمعلومات الصفحة في مستند PDF. يحتوي هذا التعليق على اسم الملف ورقم الصفحة وتاريخ ووقت إنشاء التعليق. |
 | [PDF3DAnnotation](./pdf3dannotation/) | فئة PDF3DAnnotation. لا يمكن وراثة هذه الفئة. |
 | [PDF3DArtwork](./pdf3dartwork/) | فئة PDF3DArtwork. |
 | [PDF3DContent](./pdf3dcontent/) | فئة PDF3DContent. |
@@ -74,79 +74,82 @@ url: /ar/net/aspose.pdf.annotations/
 | [PDF3DStream](./pdf3dstream/) | فئة PDF3DStream. |
 | [PDF3DView](./pdf3dview/) | فئة PDF3DView. |
 | [PDF3DViewArray](./pdf3dviewarray/) | فئة PDF3DViewArray. |
-| [PdfAction](./pdfaction/) | تمثل إجراء في وثيقة PDF |
-| [PdfActionCollection](./pdfactioncollection/) | فئة تصف قائمة الإجراءات. |
-| [PolyAnnotation](./polyannotation/) | فئة أساسية مجردة للتعليقات المتعددة. |
-| [PolygonAnnotation](./polygonannotation/) | فئة تمثل تعليق مضلع. |
-| [PolylineAnnotation](./polylineannotation/) | تمثل تعليق خط متعدد يشبه المضلع، باستثناء أن الرأس الأول والأخير غير متصلين ضمنيًا. |
-| [PopupAnnotation](./popupannotation/) | تمثل التعليق المنبثق الذي يعرض نصًا في نافذة منبثقة للإدخال والتحرير. |
-| [PrinterMarkAnnotation](./printermarkannotation/) | فئة مجردة تمثل تعليق علامة الطابعة. |
-| [PrinterMarksKindExtensions](./printermarkskindextensions/) | توفر طرق توسيع لـ [`PrinterMarksKind`](../aspose.pdf.annotations/printermarkskind/) التعداد. |
-| [RedactionAnnotation](./redactionannotation/) | تمثل تعليق الحذف. |
-| [RegistrationMarkAnnotation](./registrationmarkannotation/) | تمثل تعليق علامة التسجيل. |
-| [Rendition](./rendition/) | فئة تصف كائن العرض لتعليق العرض. |
-| [RenditionAction](./renditionaction/) | إجراء عرض يتحكم في تشغيل المحتوى متعدد الوسائط. |
-| [RichMediaAnnotation](./richmediaannotation/) | فئة تصف RichMediaAnnotation التي تسمح بإدخال بيانات الفيديو/الصوت في وثيقة PDF. |
-| [ScreenAnnotation](./screenannotation/) | تعليق شاشة يحدد منطقة من الصفحة يمكن تشغيل مقاطع الوسائط فيها. |
-| [SelectorRendition](./selectorrendition/) | فئة تصف عرض المحدد. |
-| [SoundAnnotation](./soundannotation/) | تمثل تعليق صوت يحتوي على صوت مسجل من ميكروفون الكمبيوتر أو مستورد من ملف. |
-| [SoundData](./sounddata/) | تمثل بيانات الصوت التي تحدد الصوت الذي سيتم تشغيله عند تفعيل التعليق. |
-| [SoundSampleData](./soundsampledata/) | تمثل إدخالات إضافية محددة لكائن الصوت (القسم 9.2 PDF1-7) |
-| [SquareAnnotation](./squareannotation/) | فئة تمثل تعليق مربع. |
-| [SquigglyAnnotation](./squigglyannotation/) | تمثل التعليق المتعرج الذي يظهر كخط تحت النص في الوثيقة. |
-| [StampAnnotation](./stampannotation/) | تمثل تعليق ختم مطاطي. هذا النوع من التعليق يعرض نصًا أو رسومات تهدف إلى أن تبدو كما لو كانت مختومة على الصفحة بختم مطاطي. |
-| [StrikeOutAnnotation](./strikeoutannotation/) | تمثل تعليق شطب يظهر كشطب في نص الوثيقة. |
-| [SubmitFormAction](./submitformaction/) | فئة تصف إجراء إرسال النموذج. |
-| [TextAnnotation](./textannotation/) | تمثل تعليق نصي هو "ملاحظة لاصقة" مرتبطة بنقطة في وثيقة PDF. |
-| [TextMarkupAnnotation](./textmarkupannotation/) | فئة أساسية مجردة لتعليقات تمييز النص. |
-| [TextStyle](./textstyle/) | فئة تمثل نمط النص في التعليق |
-| [TrimMarkAnnotation](./trimmarkannotation/) | تمثل تعليق علامة القطع. |
-| [UnderlineAnnotation](./underlineannotation/) | تمثل تعليق خط تحت يظهر كخط تحت النص في الوثيقة. |
-| [WatermarkAnnotation](./watermarkannotation/) | فئة تصف كائن تعليق العلامة المائية. |
-| [WidgetAnnotation](./widgetannotation/) | فئة تمثل تعليق عنصر واجهة المستخدم. |
-| [XfdfReader](./xfdfreader/) | فئة تقوم بقراءة تنسيق XFDF. |
-| [XYZExplicitDestination](./xyzexplicitdestination/) | تمثل وجهة صريحة تعرض الصفحة مع الإحداثيات (اليسار، العلوي) موضوعة في الزاوية العلوية اليسرى من النافذة ومحتويات الصفحة مكبرة بعامل التكبير. تشير القيمة الفارغة لأي من المعاملات اليسار، العلوي، أو التكبير إلى أن القيمة الحالية لذلك المعامل يجب الاحتفاظ بها دون تغيير. تعني قيمة التكبير 0 نفس معنى القيمة الفارغة. |
+| [PdfAction](./pdfaction/) | يمثل إجراءً في مستند PDF |
+| [PdfActionCollection](./pdfactioncollection/) | الفئة تصف قائمة الإجراءات. |
+| [PolyAnnotation](./polyannotation/) | فئة أساسية مجردة للتعليقات التوضيحية المتعددة. |
+| [PolygonAnnotation](./polygonannotation/) | الفئة تمثل تعليق توضيحي مضلع. |
+| [PolylineAnnotation](./polylineannotation/) | تمثل تعليق توضيحي خط متعدد يشبه المضلع، باستثناء أن القمة الأولى والأخيرة غير متصلة ضمنيًا. |
+| [PopupAnnotation](./popupannotation/) | تمثل التعليق التوضيحي المنبثق الذي يعرض النص في نافذة منبثقة للإدخال والتحرير. |
+| [PrinterMarkAnnotation](./printermarkannotation/) | فئة مجردة تمثل تعليق توضيحي لعلامة الطابعة. |
+| [PrinterMarksKindExtensions](./printermarkskindextensions/) | يوفر طرق امتداد للتعداد [`PrinterMarksKind`](../aspose.pdf.annotations/printermarkskind/). |
+| [RedactionAnnotation](./redactionannotation/) | يمثل تعليق توضيحي Redact. |
+| [RegistrationMarkAnnotation](./registrationmarkannotation/) | يمثل تعليق توضيحي علامة التسجيل. |
+| [Rendition](./rendition/) | الفئة التي تصف كائن العرض لـ RendtionAnnotation. |
+| [RenditionAction](./renditionaction/) | إجراء عرض يتحكم في تشغيل محتوى الوسائط المتعددة. |
+| [RichMediaAnnotation](./richmediaannotation/) | الفئة تصف RichMediaAnnotation التي تسمح بدمج بيانات الفيديو/الصوت في مستند PDF. |
+| [ScreenAnnotation](./screenannotation/) | تعليق توضيحي شاشة يحدد منطقة من الصفحة يمكن تشغيل مقاطع الوسائط فيها. |
+| [SelectorRendition](./selectorrendition/) | الفئة تصف عرض المحدد. |
+| [SoundAnnotation](./soundannotation/) | يمثل تعليق توضيحي صوتي يحتوي على صوت مسجل من ميكروفون الحاسوب أو مستورد من ملف. |
+| [SoundData](./sounddata/) | يمثل بيانات صوتية تحدد الصوت الذي سيُشغل عند تفعيل التعليق التوضيحي. |
+| [SoundSampleData](./soundsampledata/) | يمثل إدخالات إضافية خاصة بكائن صوت (القسم 9.2 PDF1-7) |
+| [SquareAnnotation](./squareannotation/) | الفئة تمثل تعليق توضيحي مربع. |
+| [SquigglyAnnotation](./squigglyannotation/) | يمثل التعليق التوضيحي المتعرج الذي يظهر كخط سفلي متعرج في نص المستند. |
+| [StampAnnotation](./stampannotation/) | يمثل تعليق توضيحي ختم مطاطي. هذا النوع من التعليقات التوضيحية يعرض نصًا أو رسومات تبدو كما لو أنها مختومة على الصفحة بختم مطاطي. |
+| [StrikeOutAnnotation](./strikeoutannotation/) | يمثل تعليق توضيحي شطب يظهر كشطب في نص المستند. |
+| [SubmitFormAction](./submitformaction/) | الفئة التي تصف إجراء إرسال-نموذج. |
+| [TextAnnotation](./textannotation/) | يمثل تعليق توضيحي نصي هو 'ملاحظة لاصقة' مرفقة بنقطة في مستند PDF. |
+| [TextMarkupAnnotation](./textmarkupannotation/) | فئة أساسية مجردة لتعليمات التعليقات التوضيحية للعلامات النصية. |
+| [TextStyle](./textstyle/) | الفئة تمثل نمط النص في التعليق التوضيحي |
+| [TrimMarkAnnotation](./trimmarkannotation/) | يمثل توضيح علامة القص. |
+| [UnderlineAnnotation](./underlineannotation/) | يمثل توضيح تسطير يظهر كخط سفلي في نص المستند. |
+| [WatermarkAnnotation](./watermarkannotation/) | الفئة تصف كائن توضيح العلامة المائية. |
+| [WidgetAnnotation](./widgetannotation/) | الفئة التي تمثل توضيح الودجت. |
+| [XfdfReader](./xfdfreader/) | الفئة التي تقوم بقراءة تنسيق XFDF. |
+| [XYZExplicitDestination](./xyzexplicitdestination/) | يمثل الوجهة الصريحة التي تعرض الصفحة بالإحداثيات (اليسار، الأعلى) الموضوعة في الزاوية العلوية اليسرى للنافذة ومحتوى الصفحة مكبرًا بمعامل التكبير. قيمة فارغة لأي من المعلمات اليسار أو الأعلى أو التكبير تشير إلى أن القيمة الحالية لتلك المعلمة يجب الاحتفاظ بها دون تغيير. قيمة التكبير 0 لها نفس معنى القيمة الفارغة. |
 ## الواجهات
 
-| الواجهة | الوصف |
+| واجهة | الوصف |
 | --- | --- |
-| [IAnnotationVisitor](./iannotationvisitor/) | تعرف الزائر لزيارة تعليقات الوثيقة المختلفة. |
-| [IAppointment](./iappointment/) | تمثل واجهة عامة للإجراءات والوجهات. |
-## التعداد
+| [IAnnotationVisitor](./iannotationvisitor/) | يحدد الزائر لزيارة توضيحات المستند المختلفة. |
+| [IAppointment](./iappointment/) | يمثل الواجهة العامة للإجراءات والوجهات. |
+## تعداد
 
-| التعداد | الوصف |
+| تعداد | الوصف |
 | --- | --- |
-| [AnnotationFlags](./annotationflags/) | مجموعة من العلامات تحدد خصائص مختلفة للتعليق. |
-| [AnnotationState](./annotationstate/) | تعداد حالات يمكن تعيين التعليق الأصلي إليها. |
-| [AnnotationStateModel](./annotationstatemodel/) | نموذج الحالة المقابل لحالة التعليق. |
-| [AnnotationType](./annotationtype/) | تعداد أنواع التعليقات. |
-| [BorderEffect](./bordereffect/) | يصف التأثير الذي يجب تطبيقه على حدود التعليقات. |
-| [BorderStyle](./borderstyle/) | يصف نمط حدود التعليق. |
-| [CapStyle](./capstyle/) | نمط نهاية الخط لخط تعليق الحبر. |
-| [CaptionPosition](./captionposition/) | تعداد موضع عنوان التعليق. |
-| [CaretSymbol](./caretsymbol/) | رمز يجب ربطه بالمؤشر. |
-| [ColorsOfCMYK](./colorsofcmyk/) | الألوان المدرجة في نموذج الألوان CMYK. |
-| [ExplicitDestinationType](./explicitdestinationtype/) | تعدد أنواع الوجهات الصريحة. |
-| [FileIcon](./fileicon/) | أيقونة يجب استخدامها في عرض التعليق. |
-| [FreeTextIntent](./freetextintent/) | تعدد نوايا تعليق النص الحر. |
-| [HighlightingMode](./highlightingmode/) | تعدد وضع التمييز للتعليق، التأثير البصري الذي سيتم استخدامه عند الضغط على زر الماوس أو الاستمرار في الضغط داخل منطقة نشاطه. |
-| [Justification](./justification/) | تعدد أشكال التبرير (التبرير) التي سيتم استخدامها في عرض نص التعليق. |
-| [LaunchActionOperation](./launchactionoperation/) | تعدد العمليات التي يجب تنفيذها مع الوثيقة أثناء تنفيذ إجراء الإطلاق. |
+| [AnnotationFlags](./annotationflags/) | مجموعة من العلامات التي تحدد خصائص مختلفة للتوضيح. |
+| [AnnotationState](./annotationstate/) | تعداد الحالات التي يمكن ضبط التوضيح الأصلي عليها. |
+| [AnnotationStateModel](./annotationstatemodel/) | نموذج الحالة المقابل لحالة التوضيح. |
+| [AnnotationType](./annotationtype/) | تعداد أنواع التوضيحات. |
+| [BorderEffect](./bordereffect/) | يصف التأثير الذي يجب تطبيقه على حدود التوضيحات. |
+| [BorderStyle](./borderstyle/) | يصف نمط حدود التوضيح. |
+| [CapStyle](./capstyle/) | نمط نهاية الخط لخط التوضيح بالحبر. |
+| [CaptionPosition](./captionposition/) | تعداد موضع تسمية التوضيح. |
+| [CaretSymbol](./caretsymbol/) | رمز يُربط بمؤشر الكتابة. |
+| [ColorsOfCMYK](./colorsofcmyk/) | الألوان المشمولة في نموذج ألوان CMYK. |
+| [ExplicitDestinationType](./explicitdestinationtype/) | يعدّ أنواع الوجهات الصريحة. |
+| [FileIcon](./fileicon/) | أيقونة تُستخدم في عرض التوضيح. |
+| [FreeTextIntent](./freetextintent/) | يعدّ نوايا التوضيح النص الحر. |
+| [HighlightingMode](./highlightingmode/) | يعدّ وضع تمييز التوضيح، وهو التأثير البصري الذي يُستخدم عندما يُضغط زر الفأرة أو يُستمر ضغطه داخل المنطقة النشطة. |
+| [Justification](./justification/) | يعدّ أشكال الضبط (المحاذاة) التي تُستخدم في عرض نص التوضيح. |
+| [LaunchActionOperation](./launchactionoperation/) | يعدّ العمليات التي تُجرى على المستند أثناء تنفيذ إجراء الإطلاق. |
 | [LightingSchemeType](./lightingschemetype/) | تعداد LightingSchemeType: مجموعة من أنواع مخططات الإضاءة. |
-| [LineEnding](./lineending/) | تعدد أنماط نهاية الخط التي يجب استخدامها في رسم الخط. |
-| [LineIntent](./lineintent/) | تعدد نوايا تعليق الخط. |
-| [PDF3DActivation](./pdf3dactivation/) | تعداد PDF3DActivation: مجموعة من أوضاع تفعيل التعليق ثلاثي الأبعاد. |
-| [PolyIntent](./polyintent/) | تعدد نوايا تعليق المضلع أو الخط المتعدد. |
-| [PredefinedAction](./predefinedaction/) | تعرف إجراءات مختلفة يمكن أن يتم تفعيلها من ملف PDF. |
-| [PrinterMarkCornerPosition](./printermarkcornerposition/) | تمثل موضع علامة في زاوية الصفحة. |
-| [PrinterMarkSidePosition](./printermarksideposition/) | تمثل موضع علامة التسجيل على الصفحة. |
-| [PrinterMarksKind](./printermarkskind/) | تحدد أنواع علامات الطابعة التي يجب إضافتها إلى الوثيقة. |
-| [RenderModeType](./rendermodetype/) | تعداد RenderModeType: مجموعة من أنواع وضع العرض |
-| [RenditionOperation](./renditionoperation/) | العملية التي يجب تنفيذها عند تفعيل الإجراء. |
-| [RenditionType](./renditiontype/) | تعداد يصف الأنواع الممكنة من العرض. |
-| [ReplyType](./replytype/) | تعدد أنواع العلاقات (نوع "الرد") بين التعليق وواحد محدد بواسطة InReplyTo. |
+| [LineEnding](./lineending/) | يعدّ أنماط نهايات الخط التي سيتم استخدامها في رسم الخط. |
+| [LineIntent](./lineintent/) | يعدّ أغراض تعليقات الخط. |
+| [PDF3DActivation](./pdf3dactivation/) | تعداد PDF3DActivation: مجموعة من أوضاع تفعيل التعليقات ثلاثية الأبعاد. |
+| [PolyIntent](./polyintent/) | يعدّ أغراض تعليقات المضلع أو الخط المتعدد. |
+| [PredefinedAction](./predefinedaction/) | يحدد إجراءات مختلفة يمكن تشغيلها من ملف PDF. |
+| [PrinterMarkCornerPosition](./printermarkcornerposition/) | يمثل موضع علامة في زاوية الصفحة. |
+| [PrinterMarkSidePosition](./printermarksideposition/) | يمثل موضع علامة تسجيل على الصفحة. |
+| [PrinterMarksKind](./printermarkskind/) | يحدد أنواع علامات الطابعة التي ستُضاف إلى المستند. |
+| [RenderModeType](./rendermodetype/) | تعداد RenderModeType: مجموعة من أنواع وضعية العرض |
+| [RenditionOperation](./renditionoperation/) | العملية التي تُنفّذ عندما يتم تشغيل الإجراء. |
+| [RenditionType](./renditiontype/) | التعداد يصف الأنواع الممكنة للـRendition. |
+| [ReplyType](./replytype/) | يعدّ أنواع العلاقات ("نوع الرد") بين التعليق وتلك المحددة بـ InReplyTo. |
+| [RichTextFontStyles](./richtextfontstyles/) | خيارات تنسيق مقاطع النص في RichText. |
 | [SoundEncoding](./soundencoding/) | تنسيق الترميز لبيانات العينة. |
-| [SoundIcon](./soundicon/) | تعدد الأيقونات التي يجب استخدامها في عرض التعليق. |
+| [SoundIcon](./soundicon/) | يعدّ الأيقونات التي ستُستخدم في عرض التعليق. |
 | [SoundSampleDataEncodingFormat](./soundsampledataencodingformat/) | تنسيق الترميز لبيانات عينة الصوت. |
-| [StampIcon](./stampicon/) | تعدد الأيقونات التي يجب استخدامها في عرض التعليق. |
-| [TextIcon](./texticon/) | تعدد الأيقونات التي يجب استخدامها في عرض التعليق. |
+| [StampIcon](./stampicon/) | يعدّ الأيقونات التي ستُستخدم في عرض التعليق. |
+| [TextIcon](./texticon/) | يعدّ الأيقونات التي ستُستخدم في عرض التعليق. |
+
+

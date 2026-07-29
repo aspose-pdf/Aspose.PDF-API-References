@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة AttributeKey. تُرجع سلسلة تمثل الكائن الحالي
+title: "AttributeKey.ToString"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "AttributeKey طريقة. يرجع سلسلة تمثل الكائن الحالي"
 type: docs
 weight: 440
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/tostring/
 ---
-## طريقة AttributeKey.ToString
+## AttributeKey.ToString method
 
-تُرجع سلسلة تمثل الكائن الحالي.
+يرجع سلسلة تمثل الكائن الحالي.
 
 ```csharp
 public override string ToString()
@@ -23,3 +23,5 @@ public override string ToString()
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

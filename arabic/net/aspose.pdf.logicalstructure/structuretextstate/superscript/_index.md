@@ -1,14 +1,14 @@
 ---
-title: StructureTextState.Superscript
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StructureTextState. تحصل أو تعين النص العلوي
+title: "StructureTextState.Superscript"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StructureTextState. يحصل على أو يضبط النص العلوي"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.logicalstructure/structuretextstate/superscript/
 ---
-## خاصية StructureTextState.Superscript
+## StructureTextState.Superscript property
 
-تحصل أو تعين النص العلوي.
+يحصل أو يضبط النص فوق السطر.
 
 ```csharp
 public bool? Superscript { get; set; }
@@ -16,10 +16,12 @@ public bool? Superscript { get; set; }
 
 ## ملاحظات
 
-يمكن أن تكون فارغة. استخدم فارغًا لوراثة خاصية `Superscript` من عنصر الهيكل الأب.
+يمكن أن تكون فارغة. استخدم null لتوريث خاصية `Superscript` من عنصر البنية الأب.
 
 ### انظر أيضًا
 
 * class [StructureTextState](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.Alignment
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FormFieldFacade. المحاذاة الافتراضية لنص الحقل هي المحاذاة اليسارية
+title: "FormFieldFacade.Alignment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FormFieldFacade property. محاذاة نص الحقل، الافتراضي هو المحاذاة إلى اليسار"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.facades/formfieldfacade/alignment/
 ---
-## خاصية FormFieldFacade.Alignment
+## FormFieldFacade.Alignment property
 
-المحاذاة لنص الحقل، الافتراضية هي المحاذاة اليسارية.
+محاذاة نص الحقل، الافتراضي هو المحاذاة إلى اليسار.
 
 ```csharp
 public int Alignment { get; set; }
@@ -19,3 +19,5 @@ public int Alignment { get; set; }
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: PdfPageStamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfPageStamp. ضع ختمًا على الصفحة المحددة
+title: "PdfPageStamp.Put"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfPageStamp. ضع الختم على الصفحة المحددة"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/pdfpagestamp/put/
 ---
-## طريقة PdfPageStamp.Put
+## PdfPageStamp.Put method
 
-ضع ختمًا على الصفحة المحددة.
+ضع الطابع على الصفحة المحددة.
 
 ```csharp
 public override void Put(Page page)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة التي سيتم وضع الختم عليها. |
+| صفحة | صفحة | الصفحة التي سيُوضَع عليها الختم. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public override void Put(Page page)
 * class [PdfPageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

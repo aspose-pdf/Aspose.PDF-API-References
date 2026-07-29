@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageResponse.CompletedAt
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ThreadMessageResponse. تحصل أو تعين الطابع الزمني Unix بالثواني لتاريخ إكمال الرسالة
+title: "ThreadMessageResponse.CompletedAt"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ThreadMessageResponse. تحصل أو تعيين طابع الوقت يونكس بالثواني للوقت الذي تم فيه إكمال الرسالة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.ai/threadmessageresponse/completedat/
 ---
-## خاصية ThreadMessageResponse.CompletedAt
+## ThreadMessageResponse.CompletedAt property
 
-تحصل أو تعين الطابع الزمني Unix (بالثواني) لتاريخ إكمال الرسالة.
+يحصل أو يعيّن الطابع الزمني Unix (بالثواني) للوقت الذي اكتملت فيه الرسالة.
 
 ```csharp
 public long? CompletedAt { get; set; }
@@ -19,3 +19,5 @@ public long? CompletedAt { get; set; }
 * class [ThreadMessageResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

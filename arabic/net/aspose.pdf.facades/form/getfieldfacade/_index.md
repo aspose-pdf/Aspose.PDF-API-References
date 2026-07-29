@@ -1,14 +1,14 @@
 ---
-title: Form.GetFieldFacade
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة النموذج. تعيد كائن FrofmFieldFacade الذي يحتوي على جميع سمات المظهر
+title: "Form.GetFieldFacade"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Form. تُرجع كائن FrofmFieldFacade يحتوي على جميع سمات المظهر"
 type: docs
 weight: 210
 url: /ar/net/aspose.pdf.facades/form/getfieldfacade/
 ---
-## طريقة Form.GetFieldFacade
+## Form.GetFieldFacade method
 
-تعيد كائن FrofmFieldFacade الذي يحتوي على جميع سمات المظهر.
+يعيد كائن FrogmFieldFacade يحتوي على جميع سمات المظهر.
 
 ```csharp
 Aspose.Pdf.Facades.Form form = new Aspose.Pdf.Facades.Form("form.pdf");
@@ -20,9 +20,9 @@ Console.WriteLine("Color of field border: " + field.BorderColor);
 public FormFieldFacade GetFieldFacade(string fieldName)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fieldName | سلسلة | اسم الحقل للقراءة. |
+| fieldName | String | اسم الحقل للقراءة. |
 
 ### قيمة الإرجاع
 
@@ -34,3 +34,5 @@ public FormFieldFacade GetFieldFacade(string fieldName)
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Art
-second_title: Aspose.PDF for .NET API Reference
-description: حقل StructureTypeStandard. المقالة هي نص مستقل نسبيًا يشكل سردًا أو عرضًا واحدًا. يجب أن تكون المقالات منفصلة؛ أي أنه لا ينبغي أن تحتوي على مقالات أخرى كعناصر مكونة.
+title: "StructureTypeStandard.Art"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل StructureTypeStandard. مقالة جسم نصي مستقل نسبيًا يشكل سردًا أو شرحًا واحدًا. يجب أن تكون المقالات منفصلة أي لا يجب أن تحتوي على مقالات أخرى كعناصر مكوّنة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.logicalstructure/structuretypestandard/art/
 ---
-## حقل StructureTypeStandard.Art
+## StructureTypeStandard.Art field
 
-(المقالة) هي نص مستقل نسبيًا يشكل سردًا أو عرضًا واحدًا. يجب أن تكون المقالات منفصلة؛ أي أنه لا ينبغي أن تحتوي على مقالات أخرى كعناصر مكونة.
+(Article) نص مستقل نسبيًا يشكل سردًا أو شرحًا واحدًا. يجب أن تكون المقالات منفصلة؛ أي أنه لا ينبغي أن تحتوي على مقالات أخرى كعناصر مكوّنة.
 
 ```csharp
 public static readonly StructureTypeStandard Art;
@@ -19,3 +19,5 @@ public static readonly StructureTypeStandard Art;
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

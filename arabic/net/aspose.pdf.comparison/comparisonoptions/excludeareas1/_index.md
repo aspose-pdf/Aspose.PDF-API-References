@@ -1,14 +1,14 @@
 ---
-title: ComparisonOptions.ExcludeAreas1
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ComparisonOptions. الحصول على وتعيين المناطق المستبعدة. تستخدم للصفحة الأولى أو المستند في طريقة المقارنة. يمكن تعيين هذا الخيار مع ExcludeTables. لا يمكن تعيين هذا الخيار مع خيار ExtractionArea
+title: "ComparisonOptions.ExcludeAreas1"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ComparisonOptions. احصل على المناطق المستبعدة أو اضبطها. تُستخدم للصفحة الأولى أو المستند في طريقة المقارنة. يمكن ضبط هذا الخيار مع ExcludeTables. لا يمكن ضبط هذا الخيار مع خيار ExtractionArea"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.comparison/comparisonoptions/excludeareas1/
 ---
-## خاصية ComparisonOptions.ExcludeAreas1
+## ComparisonOptions.ExcludeAreas1 property
 
-الحصول على وتعيين المناطق المستبعدة. تستخدم للصفحة الأولى أو المستند في طريقة المقارنة. يمكن تعيين هذا الخيار مع [`ExcludeTables`](../excludetables/). لا يمكن تعيين هذا الخيار مع خيار [`ExtractionArea`](../extractionarea/) .
+احصل على وضبط مناطق الاستبعاد. تُستخدم للصفحة الأولى أو المستند في طريقة المقارنة. يمكن ضبط هذا الخيار مع [`ExcludeTables`](../excludetables/). لا يمكن ضبط هذا الخيار مع خيار [`ExtractionArea`](../extractionarea/).
 
 ```csharp
 public Rectangle[] ExcludeAreas1 { get; set; }
@@ -20,3 +20,5 @@ public Rectangle[] ExcludeAreas1 { get; set; }
 * class [ComparisonOptions](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

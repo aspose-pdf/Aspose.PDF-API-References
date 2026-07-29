@@ -1,14 +1,14 @@
 ---
-title: AttributeName.RubyPosition_After
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. خاصية RubyPosition After يجب أن يكون محتوى RT محاذيًا على طول الحافة بعد العنصر
+title: "AttributeName.RubyPosition_After"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "AttributeName حقل. Attribute RubyPosition After  يجب محاذاة محتوى RT على طول الحافة اللاحقة للعنصر"
 type: docs
 weight: 480
 url: /ar/net/aspose.pdf.logicalstructure/attributename/rubyposition_after/
 ---
-## حقل AttributeName.RubyPosition_After
+## AttributeName.RubyPosition_After field
 
-خاصية RubyPosition: After - يجب أن يكون محتوى RT محاذيًا على طول الحافة بعد العنصر.
+السمة RubyPosition: After - يجب محاذاة محتوى RT على الحافة التالية للعنصر.
 
 ```csharp
 public static readonly AttributeName RubyPosition_After;
@@ -19,3 +19,5 @@ public static readonly AttributeName RubyPosition_After;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

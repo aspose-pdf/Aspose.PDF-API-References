@@ -1,42 +1,44 @@
 ---
-title: Class SetLineCap
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.SetLineCap. فئة تمثل مشغل J لتعيين نمط نهاية الخط
+title: "الفئة SetLineCap"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Operators.SetLineCap الفئة. الفئة تمثل عامل J لتعيين نمط غطاء الخط"
 type: docs
-weight: 7750
+weight: 7890
 url: /ar/net/aspose.pdf.operators/setlinecap/
 ---
 ## SetLineCap class
 
-فئة تمثل مشغل J (تعيين نمط نهاية الخط).
+الفئة التي تمثل المشغل J (تعيين نمط طرف الخط).
 
 ```csharp
 public class SetLineCap : Operator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [SetLineCap](setlinecap/)(LineCap) | Initializes SetLineCap operator |
+| [SetLineCap](setlinecap/)(LineCap) | يُهيئ عامل SetLineCap |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Cap](../../aspose.pdf.operators/setlinecap/cap/) { get; set; } | يحصل على أو يحدد نمط نهايات الخط. |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
+| [Cap](../../aspose.pdf.operators/setlinecap/cap/) { get; set; } | يحصل أو يضبط نمط غطاء الخط. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setlinecap/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | يعيد نص المشغل ومعاييره. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/setlinecap/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | يرجع نص العامل ومعامِله. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

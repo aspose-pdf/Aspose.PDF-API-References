@@ -1,20 +1,20 @@
 ---
-title: Table.SetColumnTextState
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الجدول. تعيين الارتفاع
+title: "Table.SetColumnTextState"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Table. تعيين الارتفاع"
 type: docs
 weight: 280
 url: /ar/net/aspose.pdf/table/setcolumntextstate/
 ---
-## طريقة Table.SetColumnTextState
+## Table.SetColumnTextState method
 
-تعيين الارتفاع.
+اضبط الارتفاع.
 
 ```csharp
 public void SetColumnTextState(int colNumber, TextState textState)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | colNumber | Int32 | رقم العمود. |
 | textState | TextState | حالة النص للعمود. |
@@ -25,3 +25,5 @@ public void SetColumnTextState(int colNumber, TextState textState)
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

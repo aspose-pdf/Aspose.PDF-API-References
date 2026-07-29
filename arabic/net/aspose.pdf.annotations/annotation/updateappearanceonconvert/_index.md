@@ -1,14 +1,14 @@
 ---
-title: Annotation.UpdateAppearanceOnConvert
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية التعليق. إذا كانت صحيحة، سيتم تحديث مظهر التعليق قبل تحويل مستند PF إلى صورة. هذا يسمح بتحويل الحقول بشكل صحيح ولكنه قد يتطلب المزيد من الوقت
+title: "Annotation.UpdateAppearanceOnConvert"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Annotation. إذا كانت true سيتم تحديث مظهر التعليق قبل تحويل مستند PF إلى صورة. هذا يسمح بتحويل الحقول بشكل صحيح لكنه ربما يتطلب وقتًا أكثر"
 type: docs
 weight: 230
 url: /ar/net/aspose.pdf.annotations/annotation/updateappearanceonconvert/
 ---
-## خاصية Annotation.UpdateAppearanceOnConvert
+## Annotation.UpdateAppearanceOnConvert property
 
-إذا كانت صحيحة، سيتم تحديث مظهر التعليق قبل تحويل مستند PF إلى صورة. هذا يسمح بتحويل الحقول بشكل صحيح ولكنه قد يتطلب المزيد من الوقت.
+إذا كان صحيحًا، سيتم تحديث مظهر التعليق التوضيحي قبل تحويل مستند PF إلى صورة. هذا يسمح بتحويل الحقول بشكل صحيح ولكن ربما يتطلب المزيد من الوقت.
 
 ```csharp
 public static bool UpdateAppearanceOnConvert { get; set; }
@@ -19,3 +19,5 @@ public static bool UpdateAppearanceOnConvert { get; set; }
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

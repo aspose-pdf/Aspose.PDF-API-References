@@ -1,14 +1,14 @@
 ---
-title: Class FontEmbeddingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة خيارات تضمين الخط في Aspose.Pdf. يتطلب معيار PDF/A أن يتم تضمين جميع الخطوط في الوثيقة. تتضمن هذه الفئة علامات للحالات التي لا يمكن فيها تضمين بعض الخطوط بسبب عدم وجود هذا الخط على جهاز الكمبيوتر الوجهة
+title: "الفئة FontEmbeddingOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.FontEmbeddingOptions. معيار PDF/A يتطلب أن يتم تضمين جميع الخطوط في المستند. تتضمن هذه الفئة علامات لحالات عدم إمكانية تضمين بعض الخطوط لأن هذا الخط غير موجود على جهاز الكمبيوتر الوجهة."
 type: docs
-weight: 4890
+weight: 5010
 url: /ar/net/aspose.pdf/fontembeddingoptions/
 ---
-## فئة خيارات تضمين الخط
+## FontEmbeddingOptions class
 
-يتطلب معيار PDF/A أن يتم تضمين جميع الخطوط في الوثيقة. تتضمن هذه الفئة علامات للحالات التي لا يمكن فيها تضمين بعض الخطوط بسبب عدم وجود هذا الخط على جهاز الكمبيوتر الوجهة.
+معيار PDF/A يتطلب أن يتم تضمين جميع الخطوط في المستند. تتضمن هذه الفئة علامات للحالات التي لا يمكن فيها تضمين بعض الخطوط لأن هذا الخط غير موجود على جهاز الكمبيوتر الوجهة.
 
 ```csharp
 public class FontEmbeddingOptions
@@ -18,15 +18,17 @@ public class FontEmbeddingOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [FontEmbeddingOptions](fontembeddingoptions/)() | المنشئ الافتراضي. |
+| [FontEmbeddingOptions](fontembeddingoptions/)() | البناء الافتراضي. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [UseDefaultSubstitution](../../aspose.pdf/fontembeddingoptions/usedefaultsubstitution/) { get; set; } | يشير إلى ما إذا كان يجب استبدال الخط غير المضمن باستخدام استراتيجية استبدال الخط الافتراضية. القيمة الافتراضية: `false`. |
+| [UseDefaultSubstitution](../../aspose.pdf/fontembeddingoptions/usedefaultsubstitution/) { get; set; } | يحدد ما إذا كان سيتم استبدال الخط غير المضمّن باستخدام استراتيجية استبدال الخط الافتراضية. القيمة الافتراضية: `false`. |
 
 ### انظر أيضًا
 
-* مساحة الأسماء [Aspose.Pdf](../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

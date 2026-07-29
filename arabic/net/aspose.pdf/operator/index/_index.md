@@ -1,14 +1,14 @@
 ---
-title: Operator.Index
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية المشغل. فهرس المشغل في قائمة مشغلات الصفحة
+title: "Operator.Index"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Operator. فهرس Operator في قائمة عمليات الصفحة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/operator/index/
 ---
-## خاصية Operator.Index
+## Operator.Index property
 
-فهرس المشغل في قائمة مشغلات الصفحة.
+فهرس العامل في قائمة عوامل الصفحة.
 
 ```csharp
 public int Index { get; set; }
@@ -19,3 +19,5 @@ public int Index { get; set; }
 * class [Operator](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

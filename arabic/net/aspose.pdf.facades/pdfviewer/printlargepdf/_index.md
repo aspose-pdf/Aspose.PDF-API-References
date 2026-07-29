@@ -1,28 +1,28 @@
 ---
-title: PdfViewer.PrintLargePdf
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfViewer. تفتح وتطبع ملف Pdf كبير. إذا كان ملف Pdf الخاص بك يحتوي على مئات الصفحات أو أكثر أو كان حجمه أكثر من 3 ميجابايت، يُوصى باستخدام هذه الطريقة للحصول على أداء أفضل
+title: "PdfViewer.PrintLargePdf"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfViewer. تفتح وتطبع ملف Pdf كبير. إذا كان ملف Pdf الخاص بك يحتوي على مئات الصفحات أو أكثر أو كان حجمه أكثر من 3 ميغابايت يُنصح باستخدام هذه الطريقة للحصول على أداء أفضل"
 type: docs
 weight: 350
 url: /ar/net/aspose.pdf.facades/pdfviewer/printlargepdf/
 ---
 ## PrintLargePdf(string) {#printlargepdf_3}
 
-تفتح وتطبع ملف Pdf كبير. إذا كان ملف Pdf الخاص بك يحتوي على مئات الصفحات أو أكثر أو كان حجمه أكثر من 3 ميجابايت، يُوصى باستخدام هذه الطريقة للحصول على أداء أفضل.
+يفتح ويطبع ملف Pdf كبير. إذا كان ملف Pdf الخاص بك يحتوي على مئات الصفحات أو أكثر أو كان حجمه أكثر من 3 ميغابايت، يُنصح باستخدام هذه الطريقة للحصول على أداء أفضل.
 
 ```csharp
 public void PrintLargePdf(string filePath)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | filePath | String | مسار ملف Pdf. |
 
-## Remarks
+## ملاحظات
 
-تدمج هذه الطريقة فتح الملف وطباعة الملف ولا تحتاج إلى استدعاء BindPdf() بشكل صريح.
+تدمج هذه الطريقة فتح وطباعة الملف ولا تحتاج إلى استدعاء BindPdf() صراحةً.
 
-## Examples
+## أمثلة
 
 ```csharp
 [C#]
@@ -42,7 +42,7 @@ iewer.PrintLargePdf(@"d:\test.pdf")
 iewer.Close()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -52,21 +52,21 @@ iewer.Close()
 
 ## PrintLargePdf(Stream) {#printlargepdf}
 
-تفتح وتطبع تدفق Pdf كبير. إذا كان ملف Pdf الخاص بك يحتوي على مئات الصفحات أو أكثر أو كان حجمه أكثر من 3 ميجابايت، يُوصى باستخدام هذه الطريقة للحصول على أداء أفضل.
+يفتح ويطبع تدفق Pdf كبير. إذا كان ملف Pdf الخاص بك يحتوي على مئات الصفحات أو أكثر أو كان حجمه أكثر من 3 ميغابايت، يُنصح باستخدام هذه الطريقة للحصول على أداء أفضل.
 
 ```csharp
 public void PrintLargePdf(Stream inputStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputStream | Stream | تدفق pdf الذي سيتم فتحه وطباعة. |
+| inputStream | Stream | دفق pdf الذي سيُفتح ويُطبع. |
 
-## Remarks
+## ملاحظات
 
-تدمج هذه الطريقة فتح الملف وطباعة الملف ولا تحتاج إلى استدعاء BindPdf() بشكل صريح.
+تدمج هذه الطريقة فتح وطباعة الملف ولا تحتاج إلى استدعاء BindPdf() صراحةً.
 
-## Examples
+## أمثلة
 
 ```csharp
 [C#]
@@ -86,7 +86,7 @@ iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\test.pdf")))
 iewer.Close()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -96,22 +96,22 @@ iewer.Close()
 
 ## PrintLargePdf(string, PrinterSettings) {#printlargepdf_5}
 
-تفتح وتطبع ملف Pdf كبير مع إعدادات الطابعة المحددة. إذا كان ملف Pdf الخاص بك يحتوي على مئات الصفحات أو أكثر أو كان حجمه أكثر من 3 ميجابايت، يُوصى باستخدام هذه الطريقة للحصول على أداء أفضل.
+يفتح ويطبع ملف Pdf كبير باستخدام إعدادات طابعة محددة. إذا كان ملف Pdf الخاص بك يحتوي على مئات الصفحات أو أكثر أو كان حجمه أكثر من 3 ميغابايت، يُنصح باستخدام هذه الطريقة للحصول على أداء أفضل.
 
 ```csharp
 public void PrintLargePdf(string filePath, PrinterSettings printerSettings)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | filePath | String | مسار ملف Pdf. |
 | printerSettings | PrinterSettings | إعدادات الطابعة. |
 
-## Remarks
+## ملاحظات
 
-تدمج هذه الطريقة فتح الملف وطباعة الملف ولا تحتاج إلى استدعاء BindPdf() بشكل صريح.
+تدمج هذه الطريقة فتح وطباعة الملف ولا تحتاج إلى استدعاء BindPdf() صراحةً.
 
-## Examples
+## أمثلة
 
 ```csharp
 [C#]
@@ -137,7 +137,7 @@ iewer.PrintLargePdf(@"d:\test.pdf",ps)
 iewer.Close()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
 * class [PdfViewer](../)
@@ -148,22 +148,22 @@ iewer.Close()
 
 ## PrintLargePdf(Stream, PrinterSettings) {#printlargepdf_2}
 
-تفتح وتطبع تدفق Pdf كبير مع إعدادات الطابعة المحددة. إذا كان ملف Pdf الخاص بك يحتوي على مئات الصفحات أو أكثر أو كان حجمه أكثر من 3 ميجابايت، يُوصى باستخدام هذه الطريقة للحصول على أداء أفضل.
+يفتح ويطبع تدفق Pdf كبير باستخدام إعدادات طابعة محددة. إذا كان ملف Pdf الخاص بك يحتوي على مئات الصفحات أو أكثر أو كان حجمه أكثر من 3 ميغابايت، يُنصح باستخدام هذه الطريقة للحصول على أداء أفضل.
 
 ```csharp
 public void PrintLargePdf(Stream inputStream, PrinterSettings printerSettings)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputStream | Stream | تدفق pdf الذي سيتم فتحه وطباعة. |
+| inputStream | Stream | دفق pdf الذي سيُفتح ويُطبع. |
 | printerSettings | PrinterSettings | إعدادات الطابعة. |
 
-## Remarks
+## ملاحظات
 
-تدمج هذه الطريقة فتح الملف وطباعة الملف ولا تحتاج إلى استدعاء BindPdf() بشكل صريح.
+تدمج هذه الطريقة فتح وطباعة الملف ولا تحتاج إلى استدعاء BindPdf() صراحةً.
 
-## Examples
+## أمثلة
 
 ```csharp
 [C#]
@@ -189,7 +189,7 @@ iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\middleware.pdf")),ps
 iewer.Close()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
 * class [PdfViewer](../)
@@ -200,24 +200,24 @@ iewer.Close()
 
 ## PrintLargePdf(string, PageSettings, PrinterSettings) {#printlargepdf_4}
 
-تفتح وتطبع ملف Pdf كبير مع إعدادات الصفحة وإعدادات الطابعة المحددة. إذا كان ملف Pdf الخاص بك يحتوي على مئات الصفحات أو أكثر أو كان حجمه أكثر من 3 ميجابايت، يُوصى باستخدام هذه الطريقة للحصول على أداء أفضل.
+يفتح ويطبع ملف Pdf كبير باستخدام إعدادات Page وإعدادات طابعة محددة. إذا كان ملف Pdf الخاص بك يحتوي على مئات الصفحات أو أكثر أو كان حجمه أكثر من 3 ميغابايت، يُنصح باستخدام هذه الطريقة للحصول على أداء أفضل.
 
 ```csharp
 public void PrintLargePdf(string filePath, PageSettings pageSettings, 
     PrinterSettings printerSettings)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | filePath | String | مسار ملف Pdf. |
 | pageSettings | PageSettings | إعدادات الصفحة. |
 | printerSettings | PrinterSettings | إعدادات الطابعة. |
 
-## Remarks
+## ملاحظات
 
-تدمج هذه الطريقة فتح الملف وطباعة الملف ولا تحتاج إلى استدعاء BindPdf() بشكل صريح.
+تدمج هذه الطريقة فتح وطباعة الملف ولا تحتاج إلى استدعاء BindPdf() صراحةً.
 
-## Examples
+## أمثلة
 
 ```csharp
 [C#]
@@ -249,7 +249,7 @@ iewer.PrintLargePdf(@"d:\test.pdf",pgs,ps)
 iewer.Close()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
 * class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
@@ -261,24 +261,24 @@ iewer.Close()
 
 ## PrintLargePdf(Stream, PageSettings, PrinterSettings) {#printlargepdf_1}
 
-تفتح وتطبع تدفق Pdf كبير مع إعدادات الصفحة وإعدادات الطابعة المحددة. إذا كان ملف Pdf الخاص بك يحتوي على مئات الصفحات أو أكثر أو كان حجمه أكثر من 3 ميجابايت، يُوصى باستخدام هذه الطريقة للحصول على أداء أفضل.
+يفتح ويطبع تدفق Pdf كبير باستخدام إعدادات Page وإعدادات طابعة محددة. إذا كان ملف Pdf الخاص بك يحتوي على مئات الصفحات أو أكثر أو كان حجمه أكثر من 3 ميغابايت، يُنصح باستخدام هذه الطريقة للحصول على أداء أفضل.
 
 ```csharp
 public void PrintLargePdf(Stream inputStream, PageSettings pageSettings, 
     PrinterSettings printerSettings)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputStream | Stream | تدفق pdf الذي سيتم فتحه وطباعة. |
+| inputStream | Stream | دفق pdf الذي سيُفتح ويُطبع. |
 | pageSettings | PageSettings | إعدادات الصفحة. |
 | printerSettings | PrinterSettings | إعدادات الطابعة. |
 
-## Remarks
+## ملاحظات
 
-تدمج هذه الطريقة فتح الملف وطباعة الملف ولا تحتاج إلى استدعاء BindPdf() بشكل صريح.
+تدمج هذه الطريقة فتح وطباعة الملف ولا تحتاج إلى استدعاء BindPdf() صراحةً.
 
-## Examples
+## أمثلة
 
 ```csharp
 [C#]
@@ -310,10 +310,12 @@ iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\middleware.pdf")),pg
 iewer.Close()
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
 * class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

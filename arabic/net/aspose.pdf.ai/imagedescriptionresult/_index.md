@@ -1,36 +1,38 @@
 ---
-title: Class ImageDescriptionResult
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.AI.ImageDescriptionResult. تمثل الاستجابة التي تحتوي على أوصاف الصور
+title: "الفئة ImageDescriptionResult"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.AI.ImageDescriptionResult. تمثل الاستجابة التي تحتوي على أوصاف الصور"
 type: docs
-weight: 620
+weight: 670
 url: /ar/net/aspose.pdf.ai/imagedescriptionresult/
 ---
 ## ImageDescriptionResult class
 
-تمثل الاستجابة التي تحتوي على أوصاف الصور.
+يمثل الاستجابة التي تحتوي على أوصاف الصور.
 
 ```csharp
 public class ImageDescriptionResult
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ImageDescriptionResult](imagedescriptionresult/)() | المُنشئ الافتراضي. |
+| [ImageDescriptionResult](imagedescriptionresult/)() | البناء الافتراضي. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [FilePath](../../aspose.pdf.ai/imagedescriptionresult/filepath/) { get; set; } | يحصل أو يحدد اسم الملف. |
-| [ImageDescriptions](../../aspose.pdf.ai/imagedescriptionresult/imagedescriptions/) { get; } | يحصل أو يحدد قائمة أوصاف الصور. |
-| [IsPdfDocument](../../aspose.pdf.ai/imagedescriptionresult/ispdfdocument/) { get; } | يحصل على قيمة تشير إلى ما إذا كانت ImageDescriptionResult تحتوي على مستند PDF. |
-| [IsPdfDocumentPath](../../aspose.pdf.ai/imagedescriptionresult/ispdfdocumentpath/) { get; } | يحصل على قيمة تشير إلى ما إذا كانت ImageDescriptionResult تحتوي على مسار مستند PDF. |
-| [PdfDocument](../../aspose.pdf.ai/imagedescriptionresult/pdfdocument/) { get; set; } | يحصل أو يحدد مستند PDF. |
+| [FilePath](../../aspose.pdf.ai/imagedescriptionresult/filepath/) { get; set; } | الحصول أو تعيين اسم الملف. |
+| [ImageDescriptions](../../aspose.pdf.ai/imagedescriptionresult/imagedescriptions/) { get; } | الحصول أو تعيين قائمة أوصاف الصور. |
+| [IsPdfDocument](../../aspose.pdf.ai/imagedescriptionresult/ispdfdocument/) { get; } | الحصول على قيمة تشير إلى ما إذا كان ImageDescriptionResult يحتوي على مستند PDF. |
+| [IsPdfDocumentPath](../../aspose.pdf.ai/imagedescriptionresult/ispdfdocumentpath/) { get; } | الحصول على قيمة تشير إلى ما إذا كان ImageDescriptionResult يحتوي على مسار مستند PDF. |
+| [PdfDocument](../../aspose.pdf.ai/imagedescriptionresult/pdfdocument/) { get; set; } | الحصول أو تعيين مستند PDF. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

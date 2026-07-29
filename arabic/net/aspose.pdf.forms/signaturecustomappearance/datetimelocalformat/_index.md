@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.DateTimeLocalFormat
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SignatureCustomAppearance. تحصل/تضبط تنسيق التاريخ والوقت المحلي. القيمة الافتراضية yyyy.MM.dd HHmmss zzz
+title: "SignatureCustomAppearance.DateTimeLocalFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SignatureCustomAppearance. يحصل/يضبط تنسيق التاريخ والوقت المحلي. القيمة الافتراضية yyyy.MM.dd HHmmss zzz"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.forms/signaturecustomappearance/datetimelocalformat/
 ---
-## خاصية SignatureCustomAppearance.DateTimeLocalFormat
+## SignatureCustomAppearance.DateTimeLocalFormat property
 
-تحصل/تضبط تنسيق التاريخ والوقت المحلي. القيمة الافتراضية: "yyyy.MM.dd HH:mm:ss zzz".
+الحصول/التعيين لتنسيق التاريخ والوقت المحلي. القيمة الافتراضية: "yyyy.MM.dd HH:mm:ss zzz".
 
 ```csharp
 public string DateTimeLocalFormat { get; set; }
@@ -19,3 +19,5 @@ public string DateTimeLocalFormat { get; set; }
 * class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

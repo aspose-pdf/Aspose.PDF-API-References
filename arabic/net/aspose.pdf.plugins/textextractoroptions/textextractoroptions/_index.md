@@ -1,20 +1,20 @@
 ---
-title: TextExtractorOptions.TextExtractorOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ خياراتExtractorالنص. يقوم بتهيئة مثيل جديد من كائن خياراتExtractorالنص لوضع تنسيق النص المحدد
+title: "TextExtractorOptions.TextExtractorOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TextExtractorOptions. يهيئ نسخة جديدة من كائن TextExtractorOptions للوضع المحدد لتنسيق النص"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/textextractoroptions/textextractoroptions/
 ---
 ## TextExtractorOptions(TextFormattingMode) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من كائن [`TextExtractorOptions`](../) لوضع تنسيق النص المحدد.
+يهيئ نسخة جديدة من الكائن [`TextExtractorOptions`](../) للوضع المحدد لتنسيق النص.
 
 ```csharp
 public TextExtractorOptions(TextFormattingMode formattingMode)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | formattingMode | TextFormattingMode | قيمة وضع تنسيق النص. |
 
@@ -29,7 +29,7 @@ public TextExtractorOptions(TextFormattingMode formattingMode)
 
 ## TextExtractorOptions() {#constructor}
 
-يقوم بتهيئة مثيل جديد من كائن [`TextExtractorOptions`](../) مع وضع تنسيق النص 'Raw' (افتراضي).
+يهيئ نسخة جديدة من الكائن [`TextExtractorOptions`](../) باستخدام وضع تنسيق النص 'Raw' (الافتراضي).
 
 ```csharp
 public TextExtractorOptions()
@@ -40,3 +40,5 @@ public TextExtractorOptions()
 * class [TextExtractorOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

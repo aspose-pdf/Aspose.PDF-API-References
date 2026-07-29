@@ -1,41 +1,43 @@
 ---
-title: Class GSave
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.GSave. فئة تمثل مشغل q لحفظ حالة الرسومات
+title: "فئة GSave"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Operators.GSave. تمثّل الفئة المشغّل q لحفظ حالة الرسومات."
 type: docs
-weight: 7410
+weight: 7550
 url: /ar/net/aspose.pdf.operators/gsave/
 ---
 ## GSave class
 
-فئة تمثل مشغل q (حفظ حالة الرسومات).
+الفئة التي تمثل المشغل q (حفظ حالة الرسومات).
 
 ```csharp
 public class GSave : Operator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [GSave](gsave/)() | Initializes q operator. |
+| [GSave](gsave/)() | يُهيئ المشغّل q. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/gsave/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf.operators/gsave/tostring/)() | Returns text of the operator. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/gsave/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf.operators/gsave/tostring/)() | يرجع نص المشغّل. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

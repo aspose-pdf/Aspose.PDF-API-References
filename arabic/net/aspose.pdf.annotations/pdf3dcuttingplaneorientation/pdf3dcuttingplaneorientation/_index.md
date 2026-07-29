@@ -1,14 +1,14 @@
 ---
-title: PDF3DCuttingPlaneOrientation.PDF3DCuttingPlaneOrientation
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PDF3DCuttingPlaneOrientation. يقوم بتهيئة مثيل جديد من فئة PDF3DCuttingPlaneOrientation
+title: "PDF3DCuttingPlaneOrientation.PDF3DCuttingPlaneOrientation"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PDF3DCuttingPlaneOrientation. يهيئ نسخة جديدة من الفئة PDF3DCuttingPlaneOrientation"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/pdf3dcuttingplaneorientation/
 ---
 ## PDF3DCuttingPlaneOrientation() {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`PDF3DCuttingPlaneOrientation`](../).
+يهيئ نسخة جديدة من الفئة [`PDF3DCuttingPlaneOrientation`](../).
 
 ```csharp
 public PDF3DCuttingPlaneOrientation()
@@ -16,28 +16,30 @@ public PDF3DCuttingPlaneOrientation()
 
 ### انظر أيضًا
 
-* فئة [PDF3DCuttingPlaneOrientation](../)
-* مساحة الأسماء [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* التجميع [Aspose.PDF](../../../)
+* class [PDF3DCuttingPlaneOrientation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## PDF3DCuttingPlaneOrientation(double?, double?, double?) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة [`PDF3DCuttingPlaneOrientation`](../).
+يهيئ نسخة جديدة من الفئة [`PDF3DCuttingPlaneOrientation`](../).
 
 ```csharp
 public PDF3DCuttingPlaneOrientation(double? angleX, double? angleY, double? angleZ)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| angleX | Nullable`1 | الزاوية x. |
-| angleY | Nullable`1 | الزاوية y. |
-| angleZ | Nullable`1 | الزاوية z. |
+| angleX | Nullable`1 | زاوية x. |
+| angleY | Nullable`1 | زاوية y. |
+| angleZ | Nullable`1 | زاوية z. |
 
 ### انظر أيضًا
 
-* فئة [PDF3DCuttingPlaneOrientation](../)
-* مساحة الأسماء [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* التجميع [Aspose.PDF](../../../)
+* class [PDF3DCuttingPlaneOrientation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

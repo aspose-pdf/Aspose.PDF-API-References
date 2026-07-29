@@ -1,26 +1,26 @@
 ---
-title: Metadata.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية بيانات التعريف. يحصل أو يحدد البيانات من بيانات التعريف
+title: "Metadata.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Metadata. تحصل أو تعين البيانات من البيانات الوصفية"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/metadata/item/
 ---
-## فهرس بيانات التعريف
+## Metadata indexer
 
-يحصل أو يحدد البيانات من بيانات التعريف.
+يحصل أو يعيّن البيانات من الوصفية.
 
 ```csharp
 public XmpValue this[string key] { get; set; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
 | المفتاح | اسم المفتاح. |
 
 ### قيمة الإرجاع
 
-كائن بيانات التعريف.
+كائن Metadata.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public XmpValue this[string key] { get; set; }
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

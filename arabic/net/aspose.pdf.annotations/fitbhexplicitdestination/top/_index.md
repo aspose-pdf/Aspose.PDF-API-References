@@ -1,14 +1,14 @@
 ---
-title: FitBHExplicitDestination.Top
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FitBHExplicitDestination. تحصل على الإحداثي العمودي العلوي الموجود في حافة النافذة العلوية
+title: "FitBHExplicitDestination.Top"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FitBHExplicitDestination. تسترجع الإحداثي العمودي العلوي الموجود عند الحافة العليا للنافذة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/fitbhexplicitdestination/top/
 ---
-## خاصية FitBHExplicitDestination.Top
+## FitBHExplicitDestination.Top property
 
-تحصل على الإحداثي العمودي العلوي الموجود في حافة النافذة العلوية.
+يحصل على إحداثي العمودي الأعلى الموضع عند الحافة العليا للنافذة.
 
 ```csharp
 public double Top { get; }
@@ -19,3 +19,5 @@ public double Top { get; }
 * class [FitBHExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

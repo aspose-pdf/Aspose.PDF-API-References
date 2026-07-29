@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.ShowContactInfo
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SignatureCustomAppearance. تحصل/تعيين رؤية معلومات الاتصال. القيمة الافتراضية true
+title: "SignatureCustomAppearance.ShowContactInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SignatureCustomAppearance. يحصل/يضبط رؤية معلومات الاتصال. القيمة الافتراضية true"
 type: docs
-weight: 160
+weight: 170
 url: /ar/net/aspose.pdf.forms/signaturecustomappearance/showcontactinfo/
 ---
-## خاصية SignatureCustomAppearance.ShowContactInfo
+## SignatureCustomAppearance.ShowContactInfo property
 
-تحصل/تعيين رؤية معلومات الاتصال. القيمة الافتراضية: true.
+الحصول/التعيين لرؤية معلومات الاتصال. القيمة الافتراضية: true.
 
 ```csharp
 public bool ShowContactInfo { get; set; }
@@ -19,3 +19,5 @@ public bool ShowContactInfo { get; set; }
 * class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

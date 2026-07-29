@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Width_Auto
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. عرض السمة تلقائي، يجب أن يتم تحديد عرض العناصر بواسطة العرض الداخلي لمحتواها
+title: "AttributeName.Width_Auto"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. السمة Width Auto  عرض العنصر سيحدد بناءً على العرض الداخلي لمحتواه"
 type: docs
 weight: 630
 url: /ar/net/aspose.pdf.logicalstructure/attributename/width_auto/
 ---
-## حقل AttributeName.Width_Auto
+## AttributeName.Width_Auto field
 
-عرض السمة: تلقائي - يجب أن يتم تحديد عرض العنصر بواسطة العرض الداخلي لمحتواه.
+السمة Width: Auto - عرض العنصر يُحدَّد بواسطة العرض الداخلي لمحتواه.
 
 ```csharp
 public static readonly AttributeName Width_Auto;
@@ -19,3 +19,5 @@ public static readonly AttributeName Width_Auto;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

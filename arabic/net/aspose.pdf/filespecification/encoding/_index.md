@@ -1,14 +1,14 @@
 ---
-title: FileSpecification.Encoding
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FileSpecification. تحصل أو تعين تنسيق الترميز. القيم الممكنة Zip - الملف مضغوط باستخدام ZIP، None - الملف غير مضغوط.
+title: "FileSpecification.Encoding"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FileSpecification. يحصل على أو يضع تنسيق الترميز. القيم الممكنة: Zip الملف مضغوط باستخدام ZIP، None الملف غير مضغوط"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/filespecification/encoding/
 ---
-## خاصية FileSpecification.Encoding
+## FileSpecification.Encoding property
 
-تحصل أو تعين تنسيق الترميز. القيم الممكنة: Zip - الملف مضغوط باستخدام ZIP، None - الملف غير مضغوط.
+يحصل أو يعيّن تنسيق الترميز. القيم الممكنة: Zip - الملف مضغوط باستخدام ZIP، None - الملف غير مضغوط.
 
 ```csharp
 public FileEncoding Encoding { get; set; }
@@ -20,3 +20,5 @@ public FileEncoding Encoding { get; set; }
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

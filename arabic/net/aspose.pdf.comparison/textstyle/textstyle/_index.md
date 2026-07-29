@@ -1,14 +1,14 @@
 ---
-title: TextStyle.TextStyle
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ TextStyle. المُنشئ الافتراضي
+title: "TextStyle.TextStyle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ TextStyle. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.comparison/textstyle/textstyle/
 ---
-## مُنشئ TextStyle
+## TextStyle constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public TextStyle()
@@ -19,3 +19,5 @@ public TextStyle()
 * class [TextStyle](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FixedPrint.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FixedPrint. تحصل أو تعين قيمة المصفوفة
+title: "FixedPrint.Matrix"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FixedPrint. يحصل أو يضبط قيمة المصفوفة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.annotations/fixedprint/matrix/
 ---
-## خاصية FixedPrint.Matrix
+## FixedPrint.Matrix property
 
-تحصل أو تعين قيمة المصفوفة.
+يحصل أو يضبط قيمة Matrix.
 
 ```csharp
 public Matrix Matrix { get; set; }
@@ -20,3 +20,5 @@ public Matrix Matrix { get; set; }
 * class [FixedPrint](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

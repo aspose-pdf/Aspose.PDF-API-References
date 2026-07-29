@@ -1,14 +1,14 @@
 ---
-title: Color.Brown
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية اللون. تحصل على لون معرف من النظام له قيمة ARGB تساوي c FFA52A2A
+title: "Color.Brown"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Color. يحصل على لون معرف بالنظام له قيمة ARGB c FFA52A2A"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf/color/brown/
 ---
-## خاصية Color.Brown
+## Color.Brown property
 
-تحصل على لون معرف من النظام له قيمة ARGB تساوي \c \#FFA52A2A.
+يحصل على لون معرف من النظام له قيمة ARGB \c \#FFA52A2A.
 
 ```csharp
 public static Color Brown { get; }
@@ -16,10 +16,12 @@ public static Color Brown { get; }
 
 ### قيمة الإرجاع
 
-يمثل لونًا معرفًا من النظام.
+A تمثّل لوناً معرفاً نظامياً.
 
 ### انظر أيضًا
 
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

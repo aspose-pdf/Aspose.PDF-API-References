@@ -1,25 +1,25 @@
 ---
-title: PdfContentEditor.CreateCustomActionLink
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfContentEditor. تنشئ رابطًا للإجراءات المخصصة في مستند PDF
+title: "PdfContentEditor.CreateCustomActionLink"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfContentEditor. تنشئ رابطًا إلى إجراءات مخصصة في مستند PDF"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/createcustomactionlink/
 ---
-## طريقة PdfContentEditor.CreateCustomActionLink
+## PdfContentEditor.CreateCustomActionLink method
 
-تنشئ رابطًا للإجراءات المخصصة في مستند PDF.
+ينشئ رابطًا لإجراءات مخصصة في مستند PDF.
 
 ```csharp
 public void CreateCustomActionLink(Rectangle rect, int originalPage, Color color, Enum[] actionName)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | rect | Rectangle | المستطيل للنقر النشط. |
-| originalPage | Int32 | رقم الصفحة الأصلية حيث سيتم إنشاء المستطيل المرتبط بالرابط. |
+| originalPage | Int32 | رقم الصفحة الأصلية التي سيُنشأ فيها المستطيل المرتبط بالارتباط. |
 | color | Color | لون المستطيل للنقر النشط. |
-| actionName | Enum[] | مصفوفة من الإجراءات (أعضاء من تعداد PredefinedAction) المقابلة لتنفيذ عناصر القائمة في عارض Acrobat. |
+| actionName | Enum[] | المصفوفة التي تحتوي على الإجراءات (أعضاء تعداد PredefinedAction) المقابلة لتنفيذ عناصر القائمة في عارض Acrobat. |
 
 ## أمثلة
 
@@ -37,3 +37,5 @@ editor.Save("example_out.pdf");
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

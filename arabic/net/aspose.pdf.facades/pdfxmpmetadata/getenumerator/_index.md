@@ -1,14 +1,14 @@
 ---
-title: PdfXmpMetadata.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfXmpMetadata. تحصل على كائن العداد من القاموس
+title: "PdfXmpMetadata.GetEnumerator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfXmpMetadata. يحصل على كائن عداد القاموس"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.facades/pdfxmpmetadata/getenumerator/
 ---
-## طريقة PdfXmpMetadata.GetEnumerator
+## PdfXmpMetadata.GetEnumerator method
 
-تحصل على كائن العداد من القاموس.
+يحصل على كائن المُعدِّد للقاموس.
 
 ```csharp
 public IEnumerator<KeyValuePair<string, XmpValue>> GetEnumerator()
@@ -24,3 +24,5 @@ public IEnumerator<KeyValuePair<string, XmpValue>> GetEnumerator()
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TableCellBuilder.AddParagraph
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TableCellBuilder. إضافة فقرات إلى خلية الجدول
+title: "TableCellBuilder.AddParagraph"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TableCellBuilder. إضافة فقرات إلى خلية الجدول"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/tablecellbuilder/addparagraph/
 ---
-## طريقة TableCellBuilder.AddParagraph
+## TableCellBuilder.AddParagraph method
 
 إضافة فقرات إلى خلية الجدول.
 
@@ -14,13 +14,13 @@ url: /ar/net/aspose.pdf.plugins/tablecellbuilder/addparagraph/
 public TableCellBuilder AddParagraph(params BaseParagraph[] paragraph)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| paragraph | BaseParagraph[] |  |
+| فقرة | BaseParagraph[] |  |
 
 ### قيمة الإرجاع
 
-مثيل من [`TableCellBuilder`](../) الحالي.
+مثيل للـ [`TableCellBuilder`](../).
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public TableCellBuilder AddParagraph(params BaseParagraph[] paragraph)
 * class [TableCellBuilder](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

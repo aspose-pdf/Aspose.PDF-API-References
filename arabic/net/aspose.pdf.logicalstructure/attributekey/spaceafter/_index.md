@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.SpaceAfter
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeKey. خاصية SpaceAfter مالك خاصية التخطيط
+title: "AttributeKey.SpaceAfter"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "AttributeKey حقل. SpaceAfter سمة Layout سمة المالك"
 type: docs
 weight: 290
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/spaceafter/
 ---
-## حقل AttributeKey.SpaceAfter
+## AttributeKey.SpaceAfter field
 
-خاصية SpaceAfter (مالك خاصية التخطيط).
+خاصية SpaceAfter (مالك خاصية Layout).
 
 ```csharp
 public static readonly AttributeKey SpaceAfter;
@@ -19,3 +19,5 @@ public static readonly AttributeKey SpaceAfter;
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

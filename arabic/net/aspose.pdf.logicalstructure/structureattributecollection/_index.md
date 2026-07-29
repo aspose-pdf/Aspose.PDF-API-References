@@ -1,27 +1,29 @@
 ---
-title: Class StructureAttributeCollection
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.LogicalStructure.StructureAttributeCollection. تمثل مجموعة من سمات عناصر الهيكل
+title: "الفئة StructureAttributeCollection"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.LogicalStructure.StructureAttributeCollection. تمثل مجموعة من السمات لعناصر البنية"
 type: docs
-weight: 6680
+weight: 6820
 url: /ar/net/aspose.pdf.logicalstructure/structureattributecollection/
 ---
 ## StructureAttributeCollection class
 
-تمثل مجموعة من سمات عناصر الهيكل.
+يمثل مجموعة من سمات عناصر البنية.
 
 ```csharp
 public class StructureAttributeCollection
 ```
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [CreateAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/createattributes/)(AttributeOwnerStandard) | إنشاء وإرجاع [`StructureAttributes`](../structureattributes/) لعنصر الهيكل بواسطة مالك السمة القياسي. |
-| [GetAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/getattributes/)(AttributeOwnerStandard) | إرجاع [`StructureAttributes`](../structureattributes/) لعنصر الهيكل بواسطة مالك السمة القياسي. |
+| [CreateAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/createattributes/)(AttributeOwnerStandard) | إنشاء وإرجاع [`StructureAttributes`](../structureattributes/) لعنصر البنية بواسطة مالك السمة القياسي. |
+| [GetAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/getattributes/)(AttributeOwnerStandard) | إرجاع [`StructureAttributes`](../structureattributes/) لعنصر البنية بواسطة مالك السمة القياسي. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,29 +1,31 @@
 ---
-title: Class BoundsOutOfRangeException
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Generator.BoundsOutOfRangeException. تمثل استثناء يحدث عندما لا يتناسب عنصر مع أبعاد الحاوية المعطاة
+title: "الفئة BoundsOutOfRangeException"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Generator.BoundsOutOfRangeException الفئة. يمثل استثناءً يحدث عندما لا يتناسب عنصر مع أبعاد الحاوية المعطاة"
 type: docs
 weight: 5350
 url: /ar/net/aspose.pdf.generator/boundsoutofrangeexception/
 ---
 ## BoundsOutOfRangeException class
 
-تمثل استثناء يحدث عندما لا يتناسب عنصر مع أبعاد الحاوية المعطاة.
+يمثل استثناءً يحدث عندما لا يتناسب العنصر مع أبعاد الحاوية المحددة.
 
 ```csharp
 public class BoundsOutOfRangeException : PdfException
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor)() | يقوم بتهيئة مثيل جديد من فئة `BoundsOutOfRangeException`. |
-| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor_1)(string) | يقوم بتهيئة مثيل جديد من فئة `BoundsOutOfRangeException` مع رسالة خطأ محددة. |
-| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor_2)(string, double, double) | يقوم بتهيئة مثيل جديد من فئة `BoundsOutOfRangeException` مع رسالة خطأ محددة وأبعاد العنصر. |
+| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor)() | يُهيئ مثلاً جديداً من الفئة `BoundsOutOfRangeException`. |
+| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor_1)(string) | يُهيئ مثلاً جديداً من الفئة `BoundsOutOfRangeException` مع رسالة خطأ محددة. |
+| [BoundsOutOfRangeException](boundsoutofrangeexception/#constructor_2)(string, double, double) | يُهيئ مثلاً جديداً من الفئة `BoundsOutOfRangeException` مع رسالة خطأ محددة وأبعاد العنصر. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfException](../../aspose.pdf/pdfexception/)
 * namespace [Aspose.Pdf.Generator](../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../)
+
+

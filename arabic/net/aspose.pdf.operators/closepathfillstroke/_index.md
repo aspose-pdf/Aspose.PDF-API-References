@@ -1,41 +1,43 @@
 ---
-title: Class ClosePathFillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.ClosePathFillStroke. فئة تمثل مشغل b لإغلاق التعبئة ورسم المسار مع قاعدة لف غير صفرية
+title: "الفئة ClosePathFillStroke"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Operators.ClosePathFillStroke. فئة تمثّل عامل b لإغلاق وتعبئة ورسم المسار باستخدام قاعدة اللف غير الصفري"
 type: docs
-weight: 7210
+weight: 7350
 url: /ar/net/aspose.pdf.operators/closepathfillstroke/
 ---
 ## ClosePathFillStroke class
 
-فئة تمثل مشغل b (إغلاق، تعبئة ورسم المسار مع قاعدة لف غير صفرية).
+فئة تمثل المشغل b (close, fill and stroke path مع قاعدة الالتفاف غير الصفرية).
 
 ```csharp
 public class ClosePathFillStroke : Operator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [ClosePathFillStroke](closepathfillstroke/)() | يقوم بتهيئة المشغل. |
+| [ClosePathFillStroke](closepathfillstroke/)() | يُهيئ العامل. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/closepathfillstroke/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf.operators/closepathfillstroke/tostring/)() | يعيد تمثيل سلسلة للمشغل. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/closepathfillstroke/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf.operators/closepathfillstroke/tostring/)() | يرجع تمثيل النص للعامل. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

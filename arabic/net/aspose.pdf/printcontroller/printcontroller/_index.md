@@ -1,14 +1,14 @@
 ---
-title: PrintController.PrintController
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PrintController. المُنشئ الافتراضي
+title: "PrintController.PrintController"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PrintController. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/printcontroller/printcontroller/
 ---
-## مُنشئ PrintController
+## PrintController constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public PrintController()
@@ -19,3 +19,5 @@ public PrintController()
 * class [PrintController](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

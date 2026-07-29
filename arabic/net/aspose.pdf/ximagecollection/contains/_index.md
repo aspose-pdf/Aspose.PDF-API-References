@@ -1,26 +1,26 @@
 ---
-title: XImageCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XImageCollection. تحدد ما إذا كانت المجموعة تحتوي على قيمة معينة
+title: "XImageCollection.Contains"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XImageCollection. تحدد ما إذا كانت المجموعة تحتوي على قيمة معينة"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/ximagecollection/contains/
 ---
-## طريقة XImageCollection.Contains
+## XImageCollection.Contains method
 
-تحدد ما إذا كانت المجموعة تحتوي على قيمة معينة.
+يحدد ما إذا كانت المجموعة تحتوي على قيمة محددة.
 
 ```csharp
 public bool Contains(XImage item)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| item | XImage | الكائن الذي يجب تحديد موقعه في المجموعة. |
+| item | XImage | الكائن لتحديد موقعه في المجموعة. |
 
 ### قيمة الإرجاع
 
-true إذا تم العثور على item في المجموعة؛ خلاف ذلك، false.
+true if item is found in the collection; otherwise, false.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ true إذا تم العثور على item في المجموعة؛ خلاف ذل�
 * class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

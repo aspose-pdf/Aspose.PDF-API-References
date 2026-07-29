@@ -1,14 +1,14 @@
 ---
-title: Document.CryptoAlgorithm
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. يحصل على إعدادات الأمان إذا كانت الوثيقة مشفرة. إذا لم تكن الوثيقة مشفرة، فسيتم رفع الاستثناء المقابل في .net 1.1 أو سيكون CryptoAlgorithm فارغًا للإصدارات الأخرى من .net
+title: "Document.CryptoAlgorithm"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Document. يحصل على إعدادات الأمان إذا كان المستند مشفرًا. إذا لم يكن المستند مشفرًا فسيتم رفع الاستثناء المقابل في .net 1.1 أو سيكون CryptoAlgorithm فارغًا (null) للإصدارات الأخرى من .net"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/document/cryptoalgorithm/
 ---
-## خاصية Document.CryptoAlgorithm
+## Document.CryptoAlgorithm property
 
-يحصل على إعدادات الأمان إذا كانت الوثيقة مشفرة. إذا لم تكن الوثيقة مشفرة، فسيتم رفع الاستثناء المقابل في .net 1.1 أو سيكون CryptoAlgorithm فارغًا للإصدارات الأخرى من .net.
+يحصل على إعدادات الأمان إذا كان المستند مشفرًا. إذا لم يكن المستند مشفرًا فسيتم رفع الاستثناء المقابل في .net 1.1 أو سيكون CryptoAlgorithm فارغًا للإصدارات الأخرى من .net.
 
 ```csharp
 public CryptoAlgorithm? CryptoAlgorithm { get; }
@@ -20,3 +20,5 @@ public CryptoAlgorithm? CryptoAlgorithm { get; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

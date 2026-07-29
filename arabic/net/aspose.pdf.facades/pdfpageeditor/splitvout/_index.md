@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.SPLITVOUT
-second_title: Aspose.PDF for .NET API Reference
-description: حقل PdfPageEditor. الانقسام العمودي الخارجي
+title: "PdfPageEditor.SPLITVOUT"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل PdfPageEditor. تقسيم عمودي خارجي"
 type: docs
 weight: 320
 url: /ar/net/aspose.pdf.facades/pdfpageeditor/splitvout/
 ---
-## حقل PdfPageEditor.SPLITVOUT
+## PdfPageEditor.SPLITVOUT field
 
-الانقسام العمودي الخارجي
+Out Vertical Split
 
 ```csharp
 public const int SPLITVOUT;
@@ -19,3 +19,5 @@ public const int SPLITVOUT;
 * class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

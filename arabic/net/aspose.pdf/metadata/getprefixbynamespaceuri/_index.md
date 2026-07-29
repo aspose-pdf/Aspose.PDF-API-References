@@ -1,22 +1,22 @@
 ---
-title: Metadata.GetPrefixByNamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة التعريف. تعيد البادئة حسب URI المساحة الاسمية
+title: "Metadata.GetPrefixByNamespaceUri"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Metadata طريقة. يُرجِع البادئة حسب مساحة الاسم URI"
 type: docs
 weight: 180
 url: /ar/net/aspose.pdf/metadata/getprefixbynamespaceuri/
 ---
-## طريقة Metadata.GetPrefixByNamespaceUri
+## Metadata.GetPrefixByNamespaceUri method
 
-تعيد البادئة حسب URI المساحة الاسمية.
+يرجع البادئة بناءً على URI مساحة الاسم.
 
 ```csharp
 public string GetPrefixByNamespaceUri(string namespaceUri)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| namespaceUri | سلسلة | URI المساحة الاسمية. |
+| namespaceUri | String | مساحة الاسم URI. |
 
 ### قيمة الإرجاع
 
@@ -27,3 +27,5 @@ public string GetPrefixByNamespaceUri(string namespaceUri)
 * class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

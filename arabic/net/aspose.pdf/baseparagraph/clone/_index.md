@@ -1,14 +1,14 @@
 ---
-title: BaseParagraph.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة BaseParagraph. تقوم باستنساخ هذه النسخة. طريقة افتراضية. دائمًا تعيد null
+title: "BaseParagraph.Clone"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة BaseParagraph. تنسخ هذه المثيلة. طريقة افتراضية. دائمًا تُعيد null."
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf/baseparagraph/clone/
 ---
-## طريقة BaseParagraph.Clone
+## BaseParagraph.Clone method
 
-تقوم باستنساخ هذه النسخة. طريقة افتراضية. دائمًا تعيد null.
+ينسخ هذه الحالة. طريقة افتراضية. دائمًا تُعيد null.
 
 ```csharp
 public virtual object Clone()
@@ -16,10 +16,12 @@ public virtual object Clone()
 
 ### قيمة الإرجاع
 
-Null.
+null.
 
 ### انظر أيضًا
 
 * class [BaseParagraph](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

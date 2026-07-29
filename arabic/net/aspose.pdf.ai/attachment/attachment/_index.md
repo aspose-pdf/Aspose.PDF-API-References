@@ -1,14 +1,14 @@
 ---
-title: Attachment.Attachment
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ المرفق. المُنشئ الافتراضي
+title: "Attachment.Attachment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Attachment. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/attachment/attachment/
 ---
-## مُنشئ المرفق
+## Attachment constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public Attachment()
@@ -19,3 +19,5 @@ public Attachment()
 * class [Attachment](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

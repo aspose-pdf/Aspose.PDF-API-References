@@ -1,25 +1,27 @@
 ---
-title: Artifact.RemoveValue
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Artifact. إزالة قيمة مخصصة من الأثر
+title: "Artifact.RemoveValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Artifact. إزالة القيمة المخصصة من العنصر"
 type: docs
 weight: 260
 url: /ar/net/aspose.pdf/artifact/removevalue/
 ---
-## طريقة Artifact.RemoveValue
+## Artifact.RemoveValue method
 
-إزالة قيمة مخصصة من الأثر.
+إزالة القيمة المخصصة من العنصر.
 
 ```csharp
 public void RemoveValue(string name)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| name | String | اسم القيمة المخصصة التي سيتم إزالتها. |
+| الاسم | String | اسم القيمة المخصصة التي سيتم إزالتها. |
 
 ### انظر أيضًا
 
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

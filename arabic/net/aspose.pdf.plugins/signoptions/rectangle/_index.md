@@ -1,12 +1,12 @@
 ---
-title: SignOptions.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SignOptions. مستطيل التوقيع
+title: "SignOptions.Rectangle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SignOptions. مستطيل التوقيع"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.plugins/signoptions/rectangle/
 ---
-## خاصية SignOptions.Rectangle
+## SignOptions.Rectangle property
 
 مستطيل التوقيع.
 
@@ -20,3 +20,5 @@ public Rectangle Rectangle { get; set; }
 * class [SignOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

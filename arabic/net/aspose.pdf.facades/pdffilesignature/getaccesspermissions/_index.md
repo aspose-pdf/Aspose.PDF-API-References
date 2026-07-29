@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.GetAccessPermissions
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileSignature. تعيد قيمة أذونات الوصول للمستند المعتمد بواسطة نوع توقيع MDP
+title: "PdfFileSignature.GetAccessPermissions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileSignature. تُرجع قيمة أذونات الوصول للـ document المعتمد بنوع توقيع MDP."
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.facades/pdffilesignature/getaccesspermissions/
 ---
-## طريقة PdfFileSignature.GetAccessPermissions
+## PdfFileSignature.GetAccessPermissions method
 
-تعيد قيمة أذونات الوصول للمستند المعتمد بواسطة نوع توقيع MDP.
+يعيد قيمة أذونات الوصول للمستند المعتمد بواسطة نوع توقيع MDP.
 
 ```csharp
 public DocMDPAccessPermissions GetAccessPermissions()
@@ -16,7 +16,7 @@ public DocMDPAccessPermissions GetAccessPermissions()
 
 ### قيمة الإرجاع
 
-إذا كان المستند يتم اعتماده، فإنها تعيد قيمة أذونات الوصول؛ خلاف ذلك، يتم رمي استثناء.
+إذا كان document يتم اعتمادها، فإنها تُرجع قيمة أذونات الوصول؛ وإلا،  يتم رمي استثناء.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public DocMDPAccessPermissions GetAccessPermissions()
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

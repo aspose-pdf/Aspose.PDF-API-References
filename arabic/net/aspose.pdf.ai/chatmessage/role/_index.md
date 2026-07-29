@@ -1,14 +1,14 @@
 ---
-title: ChatMessage.Role
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ChatMessage. تحصل أو تعين دور مؤلف الرسائل
+title: "ChatMessage.Role"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ChatMessage. تحصل أو تعين دور مؤلف الرسالة"
 type: docs
 weight: 70
 url: /ar/net/aspose.pdf.ai/chatmessage/role/
 ---
-## خاصية ChatMessage.Role
+## ChatMessage.Role property
 
-تحصل أو تعين دور مؤلف الرسائل.
+يحصل أو يعيّن دور مؤلف الرسائل.
 
 ```csharp
 public string Role { get; set; }
@@ -19,3 +19,5 @@ public string Role { get; set; }
 * class [ChatMessage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

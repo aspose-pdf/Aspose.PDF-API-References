@@ -1,14 +1,14 @@
 ---
-title: ThreadCreateRequest.Metadata
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ThreadCreateRequest. تحصل أو تعين مجموعة من 16 زوج مفتاح-قيمة يمكن إرفاقها بكائن
+title: "ThreadCreateRequest.Metadata"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ThreadCreateRequest. تحصل أو تعيين مجموعة من 16 زوجًا من المفتاح والقيمة يمكن إرفاقها بكائن"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/threadcreaterequest/metadata/
 ---
-## خاصية ThreadCreateRequest.Metadata
+## ThreadCreateRequest.Metadata property
 
-تحصل أو تعين مجموعة من 16 زوج مفتاح-قيمة يمكن إرفاقها بكائن.
+يحصل أو يعيّن مجموعة من 16 زوجًا من المفتاح والقيمة يمكن إرفاقها بكائن.
 
 ```csharp
 public Dictionary<string, string> Metadata { get; set; }
@@ -19,3 +19,5 @@ public Dictionary<string, string> Metadata { get; set; }
 * class [ThreadCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,25 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.Margins
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ContentsResizeParameters. تنشئ معلمات تغيير الحجم بقيمة هوامش محددة. يتم حساب حجم المحتويات تلقائيًا
+title: "PdfFileEditor.ContentsResizeParameters.Margins"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ContentsResizeParameters. تنشئ معلمات تغيير الحجم بقيمة هوامش محددة. يتم حساب حجم المحتوى تلقائيًا"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/margins/
 ---
-## طريقة PdfFileEditor.ContentsResizeParameters.Margins
+## PdfFileEditor.ContentsResizeParameters.Margins method
 
-تنشئ معلمات تغيير الحجم بقيمة هوامش محددة. يتم حساب حجم المحتويات تلقائيًا.
+ينشئ معلمات تغيير الحجم بقيمة الهوامش المحددة. يتم حساب حجم المحتوى تلقائيًا.
 
 ```csharp
 public static ContentsResizeParameters Margins(double left, double right, double top, double bottom)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| left | Double | الهامش الأيسر. |
-| right | Double | الهامش الأيمن. |
-| top | Double | الهامش العلوي. |
-| bottom | Double | الهامش السفلي. |
+| يسار | Double | الهامش الأيسر. |
+| يمين | Double | الهامش الأيمن. |
+| أعلى | Double | الهامش العلوي. |
+| أسفل | Double | الهامش السفلي. |
 
 ### قيمة الإرجاع
 
@@ -30,3 +30,5 @@ public static ContentsResizeParameters Margins(double left, double right, double
 * class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

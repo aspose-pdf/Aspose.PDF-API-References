@@ -1,23 +1,23 @@
 ---
-title: Field.ExportValueToJson
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الحقل. تصدر محتوى الحقل المحدد إلى تدفق JSON. لا يتم تصدير قيمة حقل الزر
+title: "Field.ExportValueToJson"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Field. تصدر محتوى الحقل المحدد إلى تدفق JSON. لا يتم تصدير قيم حقول الأزرار"
 type: docs
 weight: 180
 url: /ar/net/aspose.pdf.forms/field/exportvaluetojson/
 ---
-## طريقة Field.ExportValueToJson
+## Field.ExportValueToJson method
 
-تصدر محتوى الحقل المحدد إلى تدفق JSON. لا يتم تصدير قيمة حقل الزر.
+يصدّر محتوى الحقل المحدد إلى دفق JSON. لا يتم تصدير قيم حقول الأزرار.
 
 ```csharp
 public void ExportValueToJson(Stream outputJsonStream, bool indented = true)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | outputJsonStream | Stream | تدفق JSON الناتج حيث سيتم كتابة بيانات الحقل. |
-| indented | Boolean | اختياري. يحدد ما إذا كان يجب تنسيق مخرجات JSON بشكل متداخل لتحسين القراءة. القيمة الافتراضية هي true. |
+| مُسْتَفَصِل | Boolean | اختياري. يحدد ما إذا كان يجب أن يكون إخراج JSON مُستفصل لتحسين القابلية للقراءة. القيمة الافتراضية هي true. |
 
 ## أمثلة
 
@@ -34,3 +34,5 @@ fs.Close();
 * class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

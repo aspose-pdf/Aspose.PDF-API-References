@@ -1,14 +1,14 @@
 ---
-title: ToolChoice.ObjectType.ObjectType
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ObjectType. المُنشئ الافتراضي
+title: "ToolChoice.ObjectType.ObjectType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ObjectType. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/toolchoice.objecttype/objecttype/
 ---
-## مُنشئ ToolChoice.ObjectType
+## ToolChoice.ObjectType constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public ObjectType()
@@ -19,3 +19,5 @@ public ObjectType()
 * class [ObjectType](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

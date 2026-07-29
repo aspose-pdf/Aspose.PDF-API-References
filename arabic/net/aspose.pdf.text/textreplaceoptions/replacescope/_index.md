@@ -1,14 +1,14 @@
 ---
-title: TextReplaceOptions.ReplaceScope
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextReplaceOptions. تحصل أو تعين نطاق حيث يتم تطبيق عملية استبدال النص
+title: "TextReplaceOptions.ReplaceScope"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextReplaceOptions. يحصل أو يضبط نطاقًا حيث يتم تطبيق عملية استبدال النص"
 type: docs
-weight: 60
+weight: 80
 url: /ar/net/aspose.pdf.text/textreplaceoptions/replacescope/
 ---
-## خاصية TextReplaceOptions.ReplaceScope
+## TextReplaceOptions.ReplaceScope property
 
-تحصل أو تعين نطاق حيث يتم تطبيق عملية استبدال النص
+يحصل أو يعيّن النطاق الذي يُطبق فيه عملية استبدال النص
 
 ```csharp
 public Scope ReplaceScope { get; set; }
@@ -20,3 +20,5 @@ public Scope ReplaceScope { get; set; }
 * class [TextReplaceOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

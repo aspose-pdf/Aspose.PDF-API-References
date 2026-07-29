@@ -1,14 +1,14 @@
 ---
-title: GraphInfo.ScalingRateX
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية GraphInfo. تحصل أو تعين قيمة عائمة تشير إلى معدل التحجيم لإحداثي x عند تحويل نظام الإحداثيات
+title: "GraphInfo.ScalingRateX"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية GraphInfo. يحصل أو يعيّن قيمة عائمة تشير إلى معدل التحجيم للإحداثي x عند تحويل نظام إحداثيات"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/graphinfo/scalingratex/
 ---
-## خاصية GraphInfo.ScalingRateX
+## GraphInfo.ScalingRateX property
 
-تحصل أو تعين قيمة عائمة تشير إلى معدل التحجيم لإحداثي x عند تحويل نظام الإحداثيات.
+يحصل أو يعيّن قيمة عائمة تشير إلى معدل التحجيم للإحداثي x عند تحويل نظام الإحداثيات.
 
 ```csharp
 public double ScalingRateX { get; set; }
@@ -19,3 +19,5 @@ public double ScalingRateX { get; set; }
 * class [GraphInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

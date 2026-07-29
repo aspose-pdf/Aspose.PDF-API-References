@@ -1,14 +1,14 @@
 ---
-title: Measure.XFormat
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية القياس. مصفوفة تنسيق الأرقام لقياس التغيير على المحور السيني وإذا لم يكن المحور الصادي موجودًا أيضًا على المحور الصادي
+title: "Measure.XFormat"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Measure. مصفوفة تنسيق أرقام لقياس التغيير على المحور x وإذا لم يكن Y موجودًا على المحور y أيضًا"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.annotations/measure/xformat/
 ---
-## خاصية Measure.XFormat
+## Measure.XFormat property
 
-مصفوفة تنسيق الأرقام لقياس التغيير على المحور السيني وإذا لم يكن المحور الصادي موجودًا، على المحور الصادي أيضًا
+مصفوفة تنسيق أعداد لقياس التغير على طول المحور x، وإذا لم يكن Y موجودًا، على طول المحور y أيضًا.
 
 ```csharp
 public NumberFormatList XFormat { get; set; }
@@ -20,3 +20,5 @@ public NumberFormatList XFormat { get; set; }
 * class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

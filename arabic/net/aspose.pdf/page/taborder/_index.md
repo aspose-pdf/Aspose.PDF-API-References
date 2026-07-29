@@ -1,14 +1,14 @@
 ---
-title: Page.TabOrder
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصفحة. تحصل أو تعين ترتيب التبويب للصفحة. القيم الممكنة صف، عمود. الافتراضي، يدوي
+title: "Page.TabOrder"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Page. تحصل أو تعيين ترتيب التبويب للصفحة. القيم الممكنة Row Column. الافتراضي Manual."
 type: docs
 weight: 270
 url: /ar/net/aspose.pdf/page/taborder/
 ---
-## خاصية Page.TabOrder
+## Page.TabOrder property
 
-تحصل أو تعين ترتيب التبويب للصفحة. القيم الممكنة: صف، عمود. الافتراضي، يدوي
+يحصل أو يضبط ترتيب التبويب للصفحة. القيم الممكنة: Row, Column. الافتراضي، Manual
 
 ```csharp
 public TabOrder TabOrder { get; set; }
@@ -20,3 +20,5 @@ public TabOrder TabOrder { get; set; }
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

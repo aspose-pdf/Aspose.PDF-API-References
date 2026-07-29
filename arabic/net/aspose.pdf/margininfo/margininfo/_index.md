@@ -1,14 +1,14 @@
 ---
-title: MarginInfo.MarginInfo
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ MarginInfo. يُهيئ مثيلًا جديدًا من فئة MarginInfo
+title: "MarginInfo.MarginInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ MarginInfo. يهيئ مثيلاً جديداً من الفئة MarginInfo"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/margininfo/margininfo/
 ---
 ## MarginInfo() {#constructor}
 
-يُهيئ مثيلًا جديدًا من فئة [`MarginInfo`](../).
+يهيئ مثيلاً جديداً من الفئة [`MarginInfo`](../).
 
 ```csharp
 public MarginInfo()
@@ -16,29 +16,31 @@ public MarginInfo()
 
 ### انظر أيضًا
 
-* فئة [MarginInfo](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [MarginInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## MarginInfo(double, double, double, double) {#constructor_1}
 
-منشئ المستطيل.
+منشئ Rectangle.
 
 ```csharp
 public MarginInfo(double left, double bottom, double right, double top)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| left | Double | الهامش الأيسر. |
-| bottom | Double | الهامش السفلي |
-| right | Double | الهامش الأيمن. |
-| top | Double | الهامش العلوي. |
+| يسار | Double | الهامش الأيسر. |
+| أسفل | Double | الهامش السفلي |
+| يمين | Double | الهامش الأيمن. |
+| أعلى | Double | الهامش العلوي. |
 
 ### انظر أيضًا
 
-* فئة [MarginInfo](../)
-* مساحة الأسماء [Aspose.Pdf](../../../aspose.pdf/)
-* التجميع [Aspose.PDF](../../../)
+* class [MarginInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

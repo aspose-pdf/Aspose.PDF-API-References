@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.DigitalSignedLabel
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SignatureCustomAppearance. تحصل/تعيين التسمية الموقعة رقمياً. القيمة الافتراضية موقعة رقمياً بواسطة
+title: "SignatureCustomAppearance.DigitalSignedLabel"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SignatureCustomAppearance. يحصل/يضبط تسمية التوقيع الرقمي. القيمة الافتراضية Digitally signed by"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.forms/signaturecustomappearance/digitalsignedlabel/
 ---
-## خاصية SignatureCustomAppearance.DigitalSignedLabel
+## SignatureCustomAppearance.DigitalSignedLabel property
 
-تحصل/تعيين التسمية الموقعة رقمياً. القيمة الافتراضية: "موقعة رقمياً بواسطة".
+الحصول/التعيين لتسمية التوقيع الرقمي. القيمة الافتراضية: "Digitally signed by".
 
 ```csharp
 public string DigitalSignedLabel { get; set; }
@@ -19,3 +19,5 @@ public string DigitalSignedLabel { get; set; }
 * class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

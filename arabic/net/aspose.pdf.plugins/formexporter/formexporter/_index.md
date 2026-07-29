@@ -1,14 +1,14 @@
 ---
-title: FormExporter.FormExporter
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FormExporter. المُنشئ الافتراضي
+title: "FormExporter.FormExporter"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "FormExporter constructor. المُنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/formexporter/formexporter/
 ---
-## مُنشئ FormExporter
+## FormExporter constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public FormExporter()
@@ -19,3 +19,5 @@ public FormExporter()
 * class [FormExporter](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

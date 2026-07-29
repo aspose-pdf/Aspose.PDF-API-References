@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.LogFileName
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfFormatConversionOptions. المسار إلى الملف الذي سيتم تخزين التعليقات فيه
+title: "PdfFormatConversionOptions.LogFileName"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfFormatConversionOptions. المسار إلى الملف حيث سيتم تخزين التعليقات"
 type: docs
-weight: 130
+weight: 140
 url: /ar/net/aspose.pdf/pdfformatconversionoptions/logfilename/
 ---
-## خاصية PdfFormatConversionOptions.LogFileName
+## PdfFormatConversionOptions.LogFileName property
 
-المسار إلى الملف الذي سيتم تخزين التعليقات فيه.
+المسار إلى الملف حيث سيتم تخزين التعليقات.
 
 ```csharp
 public string LogFileName { get; set; }
@@ -19,3 +19,5 @@ public string LogFileName { get; set; }
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

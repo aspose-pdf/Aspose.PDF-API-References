@@ -1,29 +1,31 @@
 ---
-title: Enum PdfToHtmlOptions.SaveDataType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.PdfToHtmlOptionsSaveDataType enum. يحدد نوع مخرجات ملف HTML
+title: "التعداد PdfToHtmlOptions.SaveDataType"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "التعداد Aspose.Pdf.Plugins.PdfToHtmlOptionsSaveDataType. يحدد نوع الإخراج لملف HTML"
 type: docs
-weight: 9110
+weight: 9260
 url: /ar/net/aspose.pdf.plugins/pdftohtmloptions.savedatatype/
 ---
 ## PdfToHtmlOptions.SaveDataType enumeration
 
-يحدد نوع مخرجات ملف HTML.
+يحدد نوع الإخراج لملف HTML.
 
 ```csharp
 public enum SaveDataType
 ```
 
-### Values
+### القيم
 
-| Name | Value | Description |
+| الاسم | القيمة | الوصف |
 | --- | --- | --- |
-| FileWithExternalResources | `0` | حفظ HTML في ملف مع موارد خارجية |
-| FileWithEmbeddedResources | `1` | حفظ HTML في ملف مع موارد مضمنة |
-| StreamWithEmbeddedResources | `2` | حفظ HTML في دفق ملف مع موارد مضمنة |
+| FileWithExternalResources | `0` | حفظ HTMl إلى ملف مع موارد خارجية |
+| FileWithEmbeddedResources | `1` | حفظ HTMl إلى ملف مع موارد مدمجة |
+| StreamWithEmbeddedResources | `2` | حفظ HTMl إلى تدفق ملف مع موارد مدمجة |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfToHtmlOptions](../pdftohtmloptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementAbsorber.ImagePlacementAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ ImagePlacementAbsorber. المُنشئ الافتراضي
+title: "ImagePlacementAbsorber.ImagePlacementAbsorber"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ ImagePlacementAbsorber. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/imageplacementabsorber/imageplacementabsorber/
 ---
-## مُنشئ ImagePlacementAbsorber
+## ImagePlacementAbsorber constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public ImagePlacementAbsorber()
@@ -19,3 +19,5 @@ public ImagePlacementAbsorber()
 * class [ImagePlacementAbsorber](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

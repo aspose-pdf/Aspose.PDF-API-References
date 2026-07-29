@@ -1,14 +1,14 @@
 ---
-title: ComboBoxField.Editable
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ComboBoxField. تحصل أو تعين حالة قابلية التحرير للحقل
+title: "ComboBoxField.Editable"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية ComboBoxField. يحصل أو يعيّن حالة القابلية للتحرير للحقل"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.forms/comboboxfield/editable/
 ---
-## خاصية ComboBoxField.Editable
+## ComboBoxField.Editable property
 
-تحصل أو تعين حالة قابلية التحرير للحقل.
+يحصل أو يعيّن حالة القابلية للتحرير للحقل.
 
 ```csharp
 public bool Editable { get; set; }
@@ -19,3 +19,5 @@ public bool Editable { get; set; }
 * class [ComboBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

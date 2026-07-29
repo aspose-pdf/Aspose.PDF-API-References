@@ -1,22 +1,22 @@
 ---
-title: TrimMarkAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة TrimMarkAnnotation. تقبل الزائر لمعالجة التعليقات التوضيحية
+title: "TrimMarkAnnotation.Accept"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة TrimMarkAnnotation. تقبل الزائر لمعالجة التعليق التوضيحي"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.annotations/trimmarkannotation/accept/
 ---
-## طريقة TrimMarkAnnotation.Accept
+## TrimMarkAnnotation.Accept method
 
-تقبل الزائر لمعالجة التعليقات التوضيحية.
+يقبل الزائر لمعالجة التعليق التوضيحي.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| الزائر | AnnotationSelector | كائن AnnotationSelector. |
+| زائر | AnnotationSelector | كائن AnnotationSelector. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public override void Accept(AnnotationSelector visitor)
 * class [TrimMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

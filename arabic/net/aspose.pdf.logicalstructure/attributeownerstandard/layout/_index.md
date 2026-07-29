@@ -1,14 +1,14 @@
 ---
-title: AttributeOwnerStandard.Layout
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeOwnerStandard. مالك خاصية التخطيط
+title: "AttributeOwnerStandard.Layout"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeOwnerStandard. مالك سمة Layout"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.logicalstructure/attributeownerstandard/layout/
 ---
-## حقل AttributeOwnerStandard.Layout
+## AttributeOwnerStandard.Layout field
 
-مالك خاصية التخطيط.
+مالك سمة التخطيط.
 
 ```csharp
 public static readonly AttributeOwnerStandard Layout;
@@ -19,3 +19,5 @@ public static readonly AttributeOwnerStandard Layout;
 * class [AttributeOwnerStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

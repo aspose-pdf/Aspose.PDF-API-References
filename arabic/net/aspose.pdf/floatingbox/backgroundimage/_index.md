@@ -1,14 +1,14 @@
 ---
-title: FloatingBox.BackgroundImage
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FloatingBox. تحصل أو تعين صورة الخلفية للصفحة
+title: "FloatingBox.BackgroundImage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FloatingBox. يحصل أو يضبط صورة الخلفية للصفحة للمولد فقط ولا تُملأ عند قراءة المستند"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf/floatingbox/backgroundimage/
 ---
-## خاصية FloatingBox.BackgroundImage
+## FloatingBox.BackgroundImage property
 
-تحصل أو تعين صورة الخلفية للصفحة (للمولد فقط، غير مملوءة عند قراءة الوثيقة).
+يحصل أو يعيّن صورة الخلفية للصفحة (للمولد فقط، لا تُملأ عند قراءة المستند).
 
 ```csharp
 public Image BackgroundImage { get; set; }
@@ -20,3 +20,5 @@ public Image BackgroundImage { get; set; }
 * class [FloatingBox](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

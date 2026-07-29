@@ -1,14 +1,14 @@
 ---
-title: StructureTextState.StrikeOut
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية StructureTextState. تحصل أو تعين خط الضرب للنص
+title: "StructureTextState.StrikeOut"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية StructureTextState. تحصل أو تعين الخط المشطوب للنص"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf.logicalstructure/structuretextstate/strikeout/
 ---
-## خاصية StructureTextState.StrikeOut
+## StructureTextState.StrikeOut property
 
-تحصل أو تعين خط الضرب للنص.
+يحصل أو يضبط شطب النص.
 
 ```csharp
 public bool? StrikeOut { get; set; }
@@ -16,10 +16,12 @@ public bool? StrikeOut { get; set; }
 
 ## ملاحظات
 
-يمكن أن تكون فارغة. استخدم فارغًا لوراثة خاصية `StrikeOut` من عنصر الهيكل الأب.
+يمكن أن تكون null. استخدم null لتوريث خاصية `StrikeOut` من عنصر البنية الأصل
 
 ### انظر أيضًا
 
 * class [StructureTextState](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

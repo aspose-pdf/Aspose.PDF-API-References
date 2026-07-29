@@ -1,14 +1,14 @@
 ---
-title: Image.ImageStream
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الصورة. تحصل أو تعين تدفق الصورة
+title: "Image.ImageStream"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Image. يسترجع أو يعيّن تدفق الصورة"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/image/imagestream/
 ---
-## خاصية Image.ImageStream
+## Image.ImageStream property
 
-تحصل أو تعين تدفق الصورة.
+يحصل أو يعيّن تدفق الصورة.
 
 ```csharp
 public Stream ImageStream { get; set; }
@@ -19,3 +19,5 @@ public Stream ImageStream { get; set; }
 * class [Image](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

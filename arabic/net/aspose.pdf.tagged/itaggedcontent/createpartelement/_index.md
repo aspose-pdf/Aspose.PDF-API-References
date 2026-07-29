@@ -1,26 +1,28 @@
 ---
-title: ITaggedContent.CreatePartElement
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ITaggedContent. تنشئ PartElement
+title: "ITaggedContent.CreatePartElement"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ITaggedContent. ينشئ PartElement"
 type: docs
-weight: 210
+weight: 240
 url: /ar/net/aspose.pdf.tagged/itaggedcontent/createpartelement/
 ---
 ## ITaggedContent.CreatePartElement method
 
-تنشئ [`PartElement`](../../../aspose.pdf.logicalstructure/partelement/).
+ينشئ [`PartElement`](../../../aspose.pdf.logicalstructure/partelement/).
 
 ```csharp
 public PartElement CreatePartElement()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-عنصر الهيكل الذي تم إنشاؤه.
+تم إنشاء عنصر بنية.
 
-### See Also
+### انظر أيضًا
 
 * class [PartElement](../../../aspose.pdf.logicalstructure/partelement/)
 * interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

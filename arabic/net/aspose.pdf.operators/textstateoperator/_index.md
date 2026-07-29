@@ -1,42 +1,44 @@
 ---
-title: Class TextStateOperator
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.TextStateOperator. فئة أساسية مجردة للعمليات التي تغير حالة النص الحالية Tc Tf TL إلخ
+title: "الفئة TextStateOperator"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Operators.TextStateOperator. فئة أساسية مجردة للعوامل التي تغيّر حالة النص الحالية Tc Tf TL إلخ"
 type: docs
-weight: 7930
+weight: 8070
 url: /ar/net/aspose.pdf.operators/textstateoperator/
 ---
 ## TextStateOperator class
 
-فئة أساسية مجردة للعمليات التي تغير حالة النص الحالية (Tc، Tf، TL، إلخ).
+الفئة الأساسية المجردة للعمليات التي تغيّر حالة النص الحالية (Tc, Tf, TL، إلخ).
 
 ```csharp
 public class TextStateOperator : TextOperator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [TextStateOperator](textstateoperator/#constructor)() | يقوم بتهيئة TextStateOperator. |
-| [TextStateOperator](textstateoperator/#constructor_1)(TextProperties) | يقوم بتهيئة TextStateoperator الذي يسمح بتمرير TextProperties. |
+| [TextStateOperator](textstateoperator/#constructor)() | يُهيئ TextStateOperator. |
+| [TextStateOperator](textstateoperator/#constructor_1)(TextProperties) | يُهيئ TextStateoperator الذي يسمح بتمرير TextProperties. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العملية في قائمة عمليات الصفحة. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العملية. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | يعيد نص العملية ومعلماتها. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | يرجع نص العامل ومعامِله. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextOperator](../textoperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

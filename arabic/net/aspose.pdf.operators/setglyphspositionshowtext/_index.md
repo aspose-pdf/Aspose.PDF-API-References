@@ -1,43 +1,45 @@
 ---
-title: Class SetGlyphsPositionShowText
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.SetGlyphsPositionShowText. فئة تمثل مشغل TJ لعرض النص مع موضع الرموز
+title: "الفئة SetGlyphsPositionShowText"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Operators.SetGlyphsPositionShowText. الفئة التي تمثل عامل TJ لعرض النص مع تموضع الحروف"
 type: docs
-weight: 7710
+weight: 7850
 url: /ar/net/aspose.pdf.operators/setglyphspositionshowtext/
 ---
 ## SetGlyphsPositionShowText class
 
-فئة تمثل مشغل TJ (عرض النص مع موضع الرموز).
+الفئة التي تمثل المشغل TJ (عرض النص مع تموضع الحرف).
 
 ```csharp
 public class SetGlyphsPositionShowText : TextShowOperator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [SetGlyphsPositionShowText](setglyphspositionshowtext/)(IEnumerable&lt;GlyphPosition&gt;) | مُنشئ لمشغل TJ. |
+| [SetGlyphsPositionShowText](setglyphspositionshowtext/)(IEnumerable&lt;GlyphPosition&gt;) | منشئ لعامل TJ. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [GlyphPositions](../../aspose.pdf.operators/setglyphspositionshowtext/glyphpositions/) { get; } | يُرجع مواضع الرموز. |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
-| override [Text](../../aspose.pdf.operators/setglyphspositionshowtext/text/) { get; } | يحصل على النص من وسيط المشغل (يتم تجاهل موضع الرموز). |
+| [GlyphPositions](../../aspose.pdf.operators/setglyphspositionshowtext/glyphpositions/) { get; } | يعيد مواضع الحروف. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
+| override [Text](../../aspose.pdf.operators/setglyphspositionshowtext/text/) { get; } | يحصل على النص من وسيط العامل (يتم تجاهل تموضع الحروف). |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setglyphspositionshowtext/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf.operators/setglyphspositionshowtext/tostring/)() | يُرجع تمثيل نصي للمشغل. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/setglyphspositionshowtext/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf.operators/setglyphspositionshowtext/tostring/)() | يرجع تمثيل النص للمشغّل. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [TextShowOperator](../textshowoperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

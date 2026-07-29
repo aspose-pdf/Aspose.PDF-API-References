@@ -1,29 +1,29 @@
 ---
-title: OutputIntents.Add
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OutputIntents. تضيف نية إخراج إلى المجموعة
+title: "OutputIntents.Add"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OutputIntents. تضيف نية إخراج إلى المجموعة"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/outputintents/add/
 ---
-## طريقة OutputIntents.Add
+## OutputIntents.Add method
 
-تضيف نية إخراج إلى المجموعة.
+يضيف نية إخراج إلى المجموعة.
 
 ```csharp
 public void Add(OutputIntent item)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| item | OutputIntent | نية الإخراج التي سيتم إضافتها إلى المجموعة. |
+| item | OutputIntent | نية الإخراج لإضافتها إلى المجموعة. |
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentNullException | *item* هو null. |
-| InvalidOperationException | المستند الذي يحتوي على المجموعة ليس لديه فهرس للوصول إلى OutputIntents. |
+| ArgumentNullException | العنصر *item* فارغ. |
+| InvalidOperationException | المستند الذي يحتوي على المجموعة لا يحتوي على فهرس للوصول إلى OutputIntents. |
 
 ### انظر أيضًا
 
@@ -31,3 +31,5 @@ public void Add(OutputIntent item)
 * class [OutputIntents](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

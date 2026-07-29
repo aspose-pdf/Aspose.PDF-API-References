@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية VectorStoreFileResponse. تحصل أو تعين المعرف الذي يمكن الإشارة إليه في نقاط نهاية API. ///
+title: "VectorStoreFileResponse.Id"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "VectorStoreFileResponse خاصية. يحصل أو يعيّن المعرف الذي يمكن الإشارة إليه في نقاط النهاية API. ///"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/vectorstorefileresponse/id/
 ---
-## خاصية VectorStoreFileResponse.Id
+## VectorStoreFileResponse.Id property
 
-تحصل أو تعين المعرف، الذي يمكن الإشارة إليه في نقاط نهاية API. ///
+يحصل أو يعيّن المعرف، والذي يمكن الإشارة إليه في نقاط النهاية API. ///
 
 ```csharp
 public string Id { get; set; }
@@ -19,3 +19,5 @@ public string Id { get; set; }
 * class [VectorStoreFileResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

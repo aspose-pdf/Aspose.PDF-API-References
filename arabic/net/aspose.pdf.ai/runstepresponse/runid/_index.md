@@ -1,14 +1,14 @@
 ---
-title: RunStepResponse.RunId
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunStepResponse. تحصل أو تعين معرف التشغيل الذي تكون هذه الخطوة جزءًا منه
+title: "RunStepResponse.RunId"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RunStepResponse. تحصل أو تعيين الـ ID للتشغيل الذي تُعدّ هذه الخطوة جزءًا منه"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf.ai/runstepresponse/runid/
 ---
-## خاصية RunStepResponse.RunId
+## RunStepResponse.RunId property
 
-تحصل أو تعين معرف التشغيل الذي تكون هذه الخطوة جزءًا منه.
+يحصل أو يعيّن معرف (ID) التشغيل الذي تكون خطوة التشغيل هذه جزءًا منه.
 
 ```csharp
 public string RunId { get; set; }
@@ -19,3 +19,5 @@ public string RunId { get; set; }
 * class [RunStepResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

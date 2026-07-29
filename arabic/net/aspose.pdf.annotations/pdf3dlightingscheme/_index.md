@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DLightingScheme
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Annotations.PDF3DLightingScheme. فئة PDF3DLightingScheme
+title: "الفئة PDF3DLightingScheme"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Annotations.PDF3DLightingScheme. فئة PDF3DLightingScheme"
 type: docs
-weight: 2210
+weight: 2300
 url: /ar/net/aspose.pdf.annotations/pdf3dlightingscheme/
 ---
-## فئة PDF3DLightingScheme
+## PDF3DLightingScheme class
 
 فئة PDF3DLightingScheme.
 
@@ -18,8 +18,8 @@ public class PDF3DLightingScheme
 
 | الاسم | الوصف |
 | --- | --- |
-| [PDF3DLightingScheme](pdf3dlightingscheme/#constructor)(LightingSchemeType) | يقوم بتهيئة مثيل جديد من فئة `PDF3DLightingScheme`. |
-| [PDF3DLightingScheme](pdf3dlightingscheme/#constructor_1)(string) | يقوم بتهيئة مثيل جديد من فئة `PDF3DLightingScheme`. |
+| [PDF3DLightingScheme](pdf3dlightingscheme/#constructor)(LightingSchemeType) | يُهيئ نسخة جديدة من الفئة `PDF3DLightingScheme`. |
+| [PDF3DLightingScheme](pdf3dlightingscheme/#constructor_1)(string) | يُهيئ نسخة جديدة من الفئة `PDF3DLightingScheme`. |
 
 ## الخصائص
 
@@ -41,10 +41,12 @@ public class PDF3DLightingScheme
 | static [Night](../../aspose.pdf.annotations/pdf3dlightingscheme/night/) | مخطط الإضاءة "Night". |
 | static [None](../../aspose.pdf.annotations/pdf3dlightingscheme/none/) | مخطط الإضاءة "None". |
 | static [Primary](../../aspose.pdf.annotations/pdf3dlightingscheme/primary/) | مخطط الإضاءة "Primary". |
-| static [Red](../../aspose.pdf.annotations/pdf3dlightingscheme/red/) | مخطط الإضاءة "Red". |
-| static [White](../../aspose.pdf.annotations/pdf3dlightingscheme/white/) | مخطط الإضاءة "White". |
+| static [Red](../../aspose.pdf.annotations/pdf3dlightingscheme/red/) | مخطط الإضاءة "أحمر". |
+| static [White](../../aspose.pdf.annotations/pdf3dlightingscheme/white/) | مخطط الإضاءة "أبيض". |
 
 ### انظر أيضًا
 
-* مساحة الاسم [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* التجميع [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TiffDevice.Settings
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TiffDevice. تحصل على الإعدادات لتحويل pdf إلى صورة tiff
+title: "TiffDevice.Settings"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TiffDevice. تحصل على الإعدادات لتعيين pdf إلى صورة tiff"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.devices/tiffdevice/settings/
 ---
-## خاصية TiffDevice.Settings
+## TiffDevice.Settings property
 
-تحصل على الإعدادات لتحويل pdf إلى صورة tiff.
+يحصل على إعدادات تحويل PDF إلى صورة tiff.
 
 ```csharp
 public TiffSettings Settings { get; }
@@ -20,3 +20,5 @@ public TiffSettings Settings { get; }
 * class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

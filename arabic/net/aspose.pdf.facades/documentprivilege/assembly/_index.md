@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.Assembly
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DocumentPrivilege. تسمح بتجميع الملف
+title: "DocumentPrivilege.Assembly"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DocumentPrivilege. يسمح بتجميع الملف"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.facades/documentprivilege/assembly/
 ---
-## خاصية DocumentPrivilege.Assembly
+## DocumentPrivilege.Assembly property
 
-تسمح بتجميع الملف.
+يسمح بتجميع الملف.
 
 ```csharp
 public static DocumentPrivilege Assembly { get; }
@@ -19,3 +19,5 @@ public static DocumentPrivilege Assembly { get; }
 * class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,25 @@
 ---
-title: BitmapInfo.BitmapInfo
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ BitmapInfo. ينشئ مثيلًا جديدًا من الفئة
+title: "BitmapInfo.BitmapInfo"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ BitmapInfo. ينشئ مثيلاً جديداً من الفئة"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/bitmapinfo/bitmapinfo/
 ---
-## مُنشئ BitmapInfo
+## BitmapInfo constructor
 
-ينشئ مثيلًا جديدًا من الفئة.
+ينشئ مثلاً جديداً للفئة.
 
 ```csharp
 public BitmapInfo(byte[] pixelBytes, int width, int height, PixelFormat format)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | pixelBytes | Byte[] | مصفوفة من البكسلات. |
-| width | Int32 | عرض الصورة النقطية. |
-| height | Int32 | ارتفاع الصورة النقطية. |
-| format | PixelFormat | تنسيق بكسل الصورة النقطية. |
+| العرض | Int32 | عرض الصورة النقطية. |
+| الارتفاع | Int32 | ارتفاع الصورة النقطية. |
+| format | PixelFormat | تنسيق البكسل للصورة النقطية. |
 
 ### انظر أيضًا
 
@@ -27,3 +27,5 @@ public BitmapInfo(byte[] pixelBytes, int width, int height, PixelFormat format)
 * class [BitmapInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

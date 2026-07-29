@@ -1,45 +1,47 @@
 ---
-title: Class XmpField
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.XmpField. تمثل حقل XMP
+title: "الفئة XmpField"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.XmpField. تمثل حقل XMP"
 type: docs
-weight: 11410
+weight: 11600
 url: /ar/net/aspose.pdf/xmpfield/
 ---
 ## XmpField class
 
-تمثل حقل XMP.
+يمثل حقل XMP.
 
 ```csharp
 public class XmpField
 ```
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| static [Empty](../../aspose.pdf/xmpfield/empty/) { get; } | يحصل على حقل xmp فارغ. |
+| static [Empty](../../aspose.pdf/xmpfield/empty/) { get; } | يحصل على حقل XMP فارغ. |
 | static [Lang](../../aspose.pdf/xmpfield/lang/) { get; } | يحصل على مؤهل xml:lang. |
 | [FieldType](../../aspose.pdf/xmpfield/fieldtype/) { get; } | يحصل على نوع الحقل. |
-| [IsEmpty](../../aspose.pdf/xmpfield/isempty/) { get; } | يحصل على قيمة تشير إلى ما إذا كانت هذه النسخة فارغة. |
-| [LocalName](../../aspose.pdf/xmpfield/localname/) { get; set; } | يحصل على أو يحدد اسم المحلي. |
-| [Name](../../aspose.pdf/xmpfield/name/) { get; } | يحصل على الاسم. |
-| [NamespaceUri](../../aspose.pdf/xmpfield/namespaceuri/) { get; set; } | يحصل على URI المساحة الاسمية. |
-| [Prefix](../../aspose.pdf/xmpfield/prefix/) { get; set; } | يحصل على البادئة. |
+| [IsEmpty](../../aspose.pdf/xmpfield/isempty/) { get; } | يحصل على قيمة تشير إلى ما إذا كانت هذه العينة فارغة. |
+| [LocalName](../../aspose.pdf/xmpfield/localname/) { get; set; } | الحصول أو تعيين اسم المحلي. |
+| [Name](../../aspose.pdf/xmpfield/name/) { get; } | الحصول على الاسم. |
+| [NamespaceUri](../../aspose.pdf/xmpfield/namespaceuri/) { get; set; } | الحصول على مساحة الاسم URI. |
+| [Prefix](../../aspose.pdf/xmpfield/prefix/) { get; set; } | الحصول على البادئة. |
 | [Value](../../aspose.pdf/xmpfield/value/) { get; } | يحصل على القيمة. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Equals](../../aspose.pdf/xmpfield/equals/)(object) | يشير إلى ما إذا كانت هذه النسخة وكائن محدد متساويين. |
-| override [GetHashCode](../../aspose.pdf/xmpfield/gethashcode/)() | يعيد رمز تجزئة لهذه النسخة. |
-| [ToArray](../../aspose.pdf/xmpfield/toarray/)() | يحصل على القيمة كمصفوفة. |
-| [ToStructure](../../aspose.pdf/xmpfield/tostructure/)() | يحصل على القيمة كهيكل. |
-| [operator ==](../../aspose.pdf/xmpfield/op_equality/) | ينفذ العامل ==. |
-| [operator !=](../../aspose.pdf/xmpfield/op_inequality/) | ينفذ العامل !=. |
+| override [Equals](../../aspose.pdf/xmpfield/equals/)(object) | يشير إلى ما إذا كانت هذه المثيلة وكائن محدد متساويين. |
+| override [GetHashCode](../../aspose.pdf/xmpfield/gethashcode/)() | إرجاع قيمة تجزئة لهذه المثيلة. |
+| [ToArray](../../aspose.pdf/xmpfield/toarray/)() | الحصول على القيمة كمصفوفة. |
+| [ToStructure](../../aspose.pdf/xmpfield/tostructure/)() | الحصول على القيمة كهيكل. |
+| [operator ==](../../aspose.pdf/xmpfield/op_equality/) | تنفيذ العملية ==. |
+| [operator !=](../../aspose.pdf/xmpfield/op_inequality/) | تنفيذ العملية !=. |
 
-### See Also
+### انظر أيضًا
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

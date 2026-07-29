@@ -1,14 +1,14 @@
 ---
-title: PdfToImageOptions.Inputs
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PdfToImageOptions. تعيد مجموعة بيانات مكون PdfToImage
+title: "PdfToImageOptions.Inputs"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PdfToImageOptions. تُرجع مجموعة بيانات المكوّن الإضافي PdfToImage"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/pdftoimageoptions/inputs/
 ---
-## خاصية PdfToImageOptions.Inputs
+## PdfToImageOptions.Inputs property
 
-تعيد مجموعة بيانات مكون [`PdfToImage`](../../pdftoimage/) .
+تُرجع مجموعة بيانات المكوّن الإضافي [`PdfToImage`](../../pdftoimage/).
 
 ```csharp
 public List<IDataSource> Inputs { get; }
@@ -16,7 +16,9 @@ public List<IDataSource> Inputs { get; }
 
 ### انظر أيضًا
 
-* واجهة [IDataSource](../../idatasource/)
-* فئة [PdfToImageOptions](../)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfToImageOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

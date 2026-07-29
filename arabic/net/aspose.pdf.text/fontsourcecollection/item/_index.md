@@ -1,22 +1,22 @@
 ---
-title: FontSourceCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FontSourceCollection. تحصل على عنصر الخط في الفهرس المحدد
+title: "FontSourceCollection.Item"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FontSourceCollection. تحصل على عنصر الخط في الفهرس المحدد"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.text/fontsourcecollection/item/
 ---
-## فهرس FontSourceCollection
+## FontSourceCollection indexer
 
-تحصل على عنصر الخط في الفهرس المحدد.
+يحصل على عنصر الخط في الفهرس المحدد.
 
 ```csharp
 public FontSource this[int index] { get; }
 ```
 
-| المعامل | الوصف |
+| معامل | الوصف |
 | --- | --- |
-| index | الفهرس داخل المجموعة. |
+| index | Index within the collection. |
 
 ### قيمة الإرجاع
 
@@ -28,3 +28,5 @@ public FontSource this[int index] { get; }
 * class [FontSourceCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Width
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeKey. خاصية العرض مالك خاصية التخطيط
+title: "AttributeKey.Width"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "AttributeKey حقل. Width سمة Layout سمة المالك"
 type: docs
 weight: 400
 url: /ar/net/aspose.pdf.logicalstructure/attributekey/width/
 ---
-## حقل AttributeKey.Width
+## AttributeKey.Width field
 
-خاصية العرض (مالك خاصية التخطيط).
+خاصية Width (مالك خاصية Layout).
 
 ```csharp
 public static readonly AttributeKey Width;
@@ -19,3 +19,5 @@ public static readonly AttributeKey Width;
 * class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

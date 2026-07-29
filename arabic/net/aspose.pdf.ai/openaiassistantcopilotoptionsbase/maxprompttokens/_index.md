@@ -1,14 +1,14 @@
 ---
-title: OpenAIAssistantCopilotOptionsBase.MaxPromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OpenAIAssistantCopilotOptionsBase. تحصل أو تعين الحد الأقصى لعدد رموز المطالبة التي يمكن استخدامها على مدار التشغيل
+title: "OpenAIAssistantCopilotOptionsBase.MaxPromptTokens"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OpenAIAssistantCopilotOptionsBase. تحصل أو تعين الحد الأقصى لعدد رموز المطالبة التي قد تُستخدم طوال مدة التنفيذ"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/maxprompttokens/
 ---
-## خاصية OpenAIAssistantCopilotOptionsBase.MaxPromptTokens
+## OpenAIAssistantCopilotOptionsBase.MaxPromptTokens property
 
-تحصل أو تعين الحد الأقصى لعدد رموز المطالبة التي يمكن استخدامها على مدار التشغيل.
+يحصل أو يعيّن الحد الأقصى لعدد رموز المطالبة التي قد تُستخدم خلال تشغيل العملية.
 
 ```csharp
 public int? MaxPromptTokens { get; set; }
@@ -19,3 +19,5 @@ public int? MaxPromptTokens { get; set; }
 * class [OpenAIAssistantCopilotOptionsBase](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

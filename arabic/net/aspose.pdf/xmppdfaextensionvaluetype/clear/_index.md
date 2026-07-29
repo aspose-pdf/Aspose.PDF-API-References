@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionValueType.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XmpPdfAExtensionValueType. تقوم بمسح جميع الحقول
+title: "XmpPdfAExtensionValueType.Clear"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XmpPdfAExtensionValueType. تمسح جميع الحقول"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/xmppdfaextensionvaluetype/clear/
 ---
-## طريقة XmpPdfAExtensionValueType.Clear
+## XmpPdfAExtensionValueType.Clear method
 
-تقوم بمسح جميع الحقول.
+مسح جميع الحقول.
 
 ```csharp
 public void Clear()
@@ -19,3 +19,5 @@ public void Clear()
 * class [XmpPdfAExtensionValueType](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

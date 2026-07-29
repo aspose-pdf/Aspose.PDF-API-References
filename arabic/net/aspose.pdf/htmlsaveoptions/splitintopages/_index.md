@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.SplitIntoPages
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية HtmlSaveOptions. تحصل أو تعين العلامة التي تشير إلى ما إذا كانت كل صفحة من مستند المصدر ستتحول إلى مستند HTML هدف خاص بها، أي ما إذا كانت HTML الناتجة ستقسم إلى عدة صفحات HTML
+title: "HtmlSaveOptions.SplitIntoPages"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية HtmlSaveOptions. يحصل أو يعيّن العلامة التي تشير إلى ما إذا كانت كل صفحة من المستند المصدر ستحول إلى مستند HTML هدف خاص بها، أي ما إذا كان HTML الناتج سيتقسم إلى عدة صفحات HTML."
 type: docs
 weight: 200
 url: /ar/net/aspose.pdf/htmlsaveoptions/splitintopages/
 ---
-## خاصية HtmlSaveOptions.SplitIntoPages
+## HtmlSaveOptions.SplitIntoPages property
 
-تحصل أو تعين العلامة التي تشير إلى ما إذا كانت كل صفحة من مستند المصدر ستتحول إلى مستند HTML هدف خاص بها، أي ما إذا كانت HTML الناتجة ستقسم إلى عدة صفحات HTML.
+يحصل أو يضبط العلامة التي تشير إلى ما إذا كانت كل صفحة من المستند المصدر ستحول إلى مستند HTML هدف خاص بها، أي ما إذا كان HTML الناتج سيتجزأ إلى عدة صفحات HTML.
 
 ```csharp
 public bool SplitIntoPages { get; set; }
@@ -19,3 +19,5 @@ public bool SplitIntoPages { get; set; }
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

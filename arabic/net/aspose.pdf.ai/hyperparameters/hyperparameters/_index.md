@@ -1,14 +1,14 @@
 ---
-title: Hyperparameters.Hyperparameters
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ المعلمات الفائقة. المُنشئ الافتراضي
+title: "Hyperparameters.Hyperparameters"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Hyperparameters. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.ai/hyperparameters/hyperparameters/
 ---
-## مُنشئ المعلمات الفائقة
+## Hyperparameters constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public Hyperparameters()
@@ -19,3 +19,5 @@ public Hyperparameters()
 * class [Hyperparameters](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

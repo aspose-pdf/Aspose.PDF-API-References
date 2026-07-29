@@ -1,26 +1,26 @@
 ---
-title: StructureAttributeCollection.GetAttributes
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة StructureAttributeCollection. إرجاع StructureAttributes لعنصر الهيكل بواسطة مالك السمة القياسية
+title: "StructureAttributeCollection.GetAttributes"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة StructureAttributeCollection. إرجاع StructureAttributes لعنصر البنية بواسطة مالك السمة القياسي"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.logicalstructure/structureattributecollection/getattributes/
 ---
-## طريقة StructureAttributeCollection.GetAttributes
+## StructureAttributeCollection.GetAttributes method
 
-إرجاع [`StructureAttributes`](../../structureattributes/) لعنصر الهيكل بواسطة مالك السمة القياسية.
+إرجاع [`StructureAttributes`](../../structureattributes/) لعنصر البنية بواسطة مالك السمة القياسي.
 
 ```csharp
 public StructureAttributes GetAttributes(AttributeOwnerStandard ownerStandard)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| ownerStandard | AttributeOwnerStandard | مالك السمة القياسية. |
+| ownerStandard | AttributeOwnerStandard | مالك السمة القياسي. |
 
 ### قيمة الإرجاع
 
-[`StructureAttributes`](../../structureattributes/) لعنصر الهيكل. إرجاع null إذا لم يتم العثور عليه.
+[`StructureAttributes`](../../structureattributes/) of structure element. Return null if not found.
 
 ### انظر أيضًا
 
@@ -29,3 +29,5 @@ public StructureAttributes GetAttributes(AttributeOwnerStandard ownerStandard)
 * class [StructureAttributeCollection](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

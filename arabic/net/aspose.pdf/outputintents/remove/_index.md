@@ -1,20 +1,20 @@
 ---
-title: OutputIntents.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OutputIntents. تزيل أول ظهور لنوايا الإخراج المحددة من المجموعة
+title: "OutputIntents.Remove"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OutputIntents. يزيل أول ظهور لنية إخراج محددة من المجموعة"
 type: docs
 weight: 90
 url: /ar/net/aspose.pdf/outputintents/remove/
 ---
-## طريقة OutputIntents.Remove
+## OutputIntents.Remove method
 
-تزيل أول ظهور لنوايا الإخراج المحددة من المجموعة.
+يزيل الظهور الأول لنية إخراج محددة من المجموعة.
 
 ```csharp
 public bool Remove(OutputIntent item)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | item | OutputIntent | نية الإخراج التي سيتم إزالتها من المجموعة. |
 
@@ -28,3 +28,5 @@ public bool Remove(OutputIntent item)
 * class [OutputIntents](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

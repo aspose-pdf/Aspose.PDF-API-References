@@ -1,14 +1,14 @@
 ---
-title: SetColorStroke.M
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية SetColorStroke. تحصل أو تعين مكون الماجنتا
+title: "SetColorStroke.M"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية SetColorStroke. تحصل أو تعين المكوّن الماجنتا"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.operators/setcolorstroke/m/
 ---
-## خاصية SetColorStroke.M
+## SetColorStroke.M property
 
-تحصل أو تعين مكون الماجنتا.
+يحصل أو يضبط المكوّن الأرجواني.
 
 ```csharp
 public double M { get; set; }
@@ -19,3 +19,5 @@ public double M { get; set; }
 * class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

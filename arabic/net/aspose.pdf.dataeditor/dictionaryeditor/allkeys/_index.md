@@ -1,14 +1,14 @@
 ---
-title: DictionaryEditor.AllKeys
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية DictionaryEditor. مجموعة كاملة من المفاتيح. تحتوي على مفاتيح قابلة للتعديل وغير قابلة للتعديل
+title: "DictionaryEditor.AllKeys"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية DictionaryEditor. مجموعة كاملة من المفاتيح. تحتوي على مفاتيح قابلة للتحرير وغير قابلة للتحرير."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.dataeditor/dictionaryeditor/allkeys/
 ---
-## خاصية DictionaryEditor.AllKeys
+## DictionaryEditor.AllKeys property
 
-مجموعة كاملة من المفاتيح. تحتوي على مفاتيح قابلة للتعديل وغير قابلة للتعديل.
+مجموعة كاملة من المفاتيح. تحتوي على مفاتيح قابلة للتحرير وغير قابلة للتحرير.
 
 ```csharp
 public ICollection<string> AllKeys { get; }
@@ -19,3 +19,5 @@ public ICollection<string> AllKeys { get; }
 * class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

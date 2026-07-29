@@ -1,33 +1,33 @@
 ---
-title: PdfFileEditor.TryExtract
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileEditor. تستخرج الصفحات من الملفات المدخلة وتحفظ كملف Pdf جديد
+title: "PdfFileEditor.TryExtract"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileEditor. تستخرج الصفحات من ملف الإدخال وتحفظها كملف Pdf جديد"
 type: docs
 weight: 410
 url: /ar/net/aspose.pdf.facades/pdffileeditor/tryextract/
 ---
 ## TryExtract(string, int, int, string) {#tryextract_1}
 
-تستخرج الصفحات من الملف المدخل، وتحفظ كملف Pdf جديد.
+يستخرج الصفحات من ملف الإدخال، يحفظها كملف Pdf جديد.
 
 ```csharp
 public bool TryExtract(string inputFile, int startPage, int endPage, string outputFile)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputFile | String | مسار ملف Pdf المدخل. |
-| startPage | Int32 | رقم الصفحة الابتدائية. |
-| endPage | Int32 | رقم الصفحة النهائية. |
+| inputFile | String | مسار ملف Pdf الإدخال. |
+| startPage | Int32 | رقم Page البداية. |
+| endPage | Int32 | رقم Page النهاية. |
 | outputFile | String | مسار ملف Pdf الناتج. |
 
 ### قيمة الإرجاع
 
-صحيح عند النجاح، أو خطأ.
+صحيح إذا نجح، أو خطأ.
 
 ## ملاحظات
 
-طريقة TryExtract تشبه طريقة Extract، باستثناء أن طريقة TryExtract لا ترمي استثناء إذا فشلت العملية.
+طريقة TryExtract تشبه طريقة Extract، إلا أن طريقة TryExtract لا تُطلق استثناءً إذا فشلت العملية.
 
 ## أمثلة
 
@@ -46,25 +46,25 @@ bool result = pfe.TryExtract("input.pdf", 3, 7, "output.pdf");
 
 ## TryExtract(string, int[], string) {#tryextract_2}
 
-تستخرج الصفحات المحددة بواسطة مصفوفة الأرقام، وتحفظ كملف PDF جديد.
+يستخرج الصفحات المحددة بمصفوفة الأرقام، ويحفظها كملف PDF جديد.
 
 ```csharp
 public bool TryExtract(string inputFile, int[] pageNumber, string outputFile)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputFile | String | مسار الملف المدخل. |
-| pageNumber | Int32[] | فهرس الصفحة من الملف المدخل. |
-| outputFile | String | مسار الملف الناتج. |
+| inputFile | String | مسار ملف الإدخال. |
+| pageNumber | Int32[] | فهرس الصفحة خارج ملف الإدخال. |
+| outputFile | String | مسار ملف الإخراج. |
 
 ### قيمة الإرجاع
 
-صحيح إذا اكتملت العملية بنجاح؛ خلاف ذلك، خطأ.
+صحيح إذا اكتملت العملية بنجاح؛ وإلا، خطأ.
 
 ## ملاحظات
 
-طريقة TryExtract تشبه طريقة Extract، باستثناء أن طريقة TryExtract لا ترمي استثناء إذا فشلت العملية.
+طريقة TryExtract تشبه طريقة Extract، إلا أن طريقة TryExtract لا تُطلق استثناءً إذا فشلت العملية.
 
 ## أمثلة
 
@@ -83,25 +83,25 @@ bool result = pfe.TryExtract("input.pdf", new int[] { 3, 5, 7 }, "output.pdf");
 
 ## TryExtract(Stream, int[], Stream) {#tryextract}
 
-تستخرج الصفحات المحددة بواسطة مصفوفة الأرقام، وتحفظ كملف Pdf جديد.
+يستخرج الصفحات المحددة بمصفوفة الأرقام، ويحفظها كملف Pdf جديد.
 
 ```csharp
 public bool TryExtract(Stream inputStream, int[] pageNumber, Stream outputStream)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputStream | Stream | تدفق الملف المدخل. |
-| pageNumber | Int32[] | فهرس الصفحة من الملف المدخل. |
-| outputStream | Stream | تدفق الملف الناتج. |
+| inputStream | Stream | دفق ملف الإدخال. |
+| pageNumber | Int32[] | فهرس الصفحة خارج ملف الإدخال. |
+| outputStream | Stream | دفق ملف الإخراج. |
 
 ### قيمة الإرجاع
 
-صحيح عند النجاح، أو خطأ.
+صحيح إذا نجح، أو خطأ.
 
 ## ملاحظات
 
-طريقة TryExtract تشبه طريقة Extract، باستثناء أن طريقة TryExtract لا ترمي استثناء إذا فشلت العملية.
+طريقة TryExtract تشبه طريقة Extract، إلا أن طريقة TryExtract لا تُطلق استثناءً إذا فشلت العملية.
 
 ## أمثلة
 
@@ -119,60 +119,3 @@ bool result = pfe.TryExtract(sourceStream, new int[] { 3, 5, 8 }, outStream);
 * assembly [Aspose.PDF](../../../)
 
 
-## TryExtract(Stream, int[], HttpResponse) {#tryextract_1}
-
-تستخرج الصفحات المحددة من الملف المصدر وتخزن النتيجة في كائن HttpResponse.
-
-```csharp
-public bool TryExtract(Stream inputStream, int[] pageNumber, HttpResponse response)
-```
-
-| المعامل | النوع | الوصف |
-| --- | --- | --- |
-| inputStream | Stream | تدفق المستند المصدر. |
-| pageNumber | Int32[] | مصفوفة أرقام الصفحات التي سيتم استخراجها. |
-| response | HttpResponse | كائن HttpResponse حيث سيتم تخزين النتيجة. |
-
-### قيمة الإرجاع
-
-صحيح إذا اكتملت العملية بنجاح؛ خلاف ذلك، خطأ.
-
-## ملاحظات
-
-طريقة TryExtract تشبه طريقة Extract، باستثناء أن طريقة TryExtract لا ترمي استثناء إذا فشلت العملية.
-
-### انظر أيضًا
-
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TryExtract(string, int[], HttpResponse) {#tryextract_4}
-
-تستخرج الصفحات المحددة من الملف المصدر وتخزن النتيجة في كائن HttpResponse.
-
-```csharp
-public bool TryExtract(string inputFile, int[] pageNumber, HttpResponse response)
-```
-
-| المعامل | النوع | الوصف |
-| --- | --- | --- |
-| inputFile | String | مسار الملف المصدر. |
-| pageNumber | Int32[] | مصفوفة أرقام الصفحات التي سيتم استخراجها. |
-| response | HttpResponse | كائن HttpResponse حيث سيتم تخزين النتيجة. |
-
-### قيمة الإرجاع
-
-صحيح إذا اكتملت العملية بنجاح؛ خلاف ذلك، خطأ.
-
-## ملاحظات
-
-طريقة TryExtract تشبه طريقة Extract، باستثناء أن طريقة TryExtract لا ترمي استثناء إذا فشلت العملية.
-
-### انظر أيضًا
-
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)

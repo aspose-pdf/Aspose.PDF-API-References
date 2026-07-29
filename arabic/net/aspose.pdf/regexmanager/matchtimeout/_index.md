@@ -1,25 +1,27 @@
 ---
-title: RegexManager.MatchTimeout
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RegexManager. تحصل أو تعين المهلة لعمليات Regex عبر المكتبة. القيمة الافتراضية هي 1000 مللي ثانية
+title: "RegexManager.MatchTimeout"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RegexManager. يحصل أو يحدد مهلة عمليات Regex عبر المكتبة. القيمة الافتراضية هي 1000 مللي ثانية"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/regexmanager/matchtimeout/
 ---
-## خاصية RegexManager.MatchTimeout
+## RegexManager.MatchTimeout property
 
-تحصل أو تعين المهلة لعمليات Regex عبر المكتبة. القيمة الافتراضية هي 1000 مللي ثانية.
+يحصل أو يعيّن مهلة عمليات Regex عبر المكتبة. القيمة الافتراضية هي 1000 مللي ثانية.
 
 ```csharp
 public static TimeSpan MatchTimeout { get; set; }
 ```
 
-### قيمة الخاصية
+### Property Value
 
-TimeSpan تمثل مدة المهلة الافتراضية.
+TimeSpan يمثل مدة المهلة الافتراضية.
 
 ### انظر أيضًا
 
 * class [RegexManager](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

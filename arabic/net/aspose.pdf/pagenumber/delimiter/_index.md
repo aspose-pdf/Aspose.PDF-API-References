@@ -1,14 +1,14 @@
 ---
-title: PageNumber.Delimiter
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageNumber. تحصل أو تعين الفاصل المستخدم في تنسيق رقم الصفحة. سيتم تحديث السلسلة المنسقة بناءً على الفاصل المحدد
+title: "PageNumber.Delimiter"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageNumber. تحصل أو تعين الفاصل المستخدم في تنسيق رقم الصفحة. سيتم تحديث السلسلة المُنسقة بناءً على الفاصل المحدد."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/pagenumber/delimiter/
 ---
-## خاصية PageNumber.Delimiter
+## PageNumber.Delimiter property
 
-تحصل أو تعين الفاصل المستخدم في تنسيق رقم الصفحة. سيتم تحديث السلسلة المنسقة بناءً على الفاصل المحدد.
+يحصل أو يعيّن الفاصل المستخدم في تنسيق رقم الصفحة. سيتم تحديث السلسلة المنسقة بناءً على الفاصل المحدد.
 
 ```csharp
 public string Delimiter { get; set; }
@@ -19,3 +19,5 @@ public string Delimiter { get; set; }
 * class [PageNumber](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

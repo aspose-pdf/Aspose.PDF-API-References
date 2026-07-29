@@ -1,14 +1,14 @@
 ---
-title: Form.DefaultAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية النموذج. تحصل أو تعين المظهر الافتراضي لكائن النموذج الذي يصف حجم ونوع خط النص الافتراضي للأماكن على النموذج
+title: "Form.DefaultAppearance"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Form. تحصل أو تعين المظهر الافتراضي لكائن النموذج الذي يصف حجم الخط الافتراضي ولون النص للحقول في النموذج."
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf.forms/form/defaultappearance/
 ---
-## خاصية Form.DefaultAppearance
+## Form.DefaultAppearance property
 
-تحصل أو تعين المظهر الافتراضي للنموذج (كائن يصف الخط الافتراضي، حجم النص ولونه للأماكن على النموذج).
+يحصل أو يعيّن المظهر الافتراضي للنموذج (كائن يصف الخط الافتراضي وحجم النص واللون للحقول في النموذج).
 
 ```csharp
 public DefaultAppearance DefaultAppearance { get; set; }
@@ -20,3 +20,5 @@ public DefaultAppearance DefaultAppearance { get; set; }
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

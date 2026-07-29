@@ -1,14 +1,14 @@
 ---
-title: BaseResponse.HttpResponseHeaders
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية BaseResponse. تحصل على أو تعين رؤوس استجابة HTTP
+title: "BaseResponse.HttpResponseHeaders"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية BaseResponse. تحصل أو تعين رؤوس استجابة HTTP"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf.ai/baseresponse/httpresponseheaders/
 ---
-## خاصية BaseResponse.HttpResponseHeaders
+## BaseResponse.HttpResponseHeaders property
 
-تحصل على أو تعين رؤوس استجابة HTTP.
+يتم الحصول على أو تعيين رؤوس استجابة HTTP.
 
 ```csharp
 public HttpResponseHeaders HttpResponseHeaders { get; set; }
@@ -19,3 +19,5 @@ public HttpResponseHeaders HttpResponseHeaders { get; set; }
 * class [BaseResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

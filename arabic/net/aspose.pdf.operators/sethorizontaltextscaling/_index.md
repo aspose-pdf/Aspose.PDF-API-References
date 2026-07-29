@@ -1,14 +1,14 @@
 ---
-title: Class SetHorizontalTextScaling
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.SetHorizontalTextScaling. فئة تمثل مشغل Tz لتعيين مقياس النص الأفقي
+title: "الفئة SetHorizontalTextScaling"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "فئة Aspose.Pdf.Operators.SetHorizontalTextScaling. تمثّل الفئة المشغّل Tz لتعيين مقياس النص الأفقي"
 type: docs
-weight: 7740
+weight: 7880
 url: /ar/net/aspose.pdf.operators/sethorizontaltextscaling/
 ---
-## فئة SetHorizontalTextScaling
+## SetHorizontalTextScaling class
 
-فئة تمثل مشغل Tz (تعيين مقياس النص الأفقي).
+الفئة التي تمثل المشغل Tz (تعيين مقياس النص الأفقي).
 
 ```csharp
 public class SetHorizontalTextScaling : TextStateOperator
@@ -18,25 +18,27 @@ public class SetHorizontalTextScaling : TextStateOperator
 
 | الاسم | الوصف |
 | --- | --- |
-| [SetHorizontalTextScaling](sethorizontaltextscaling/)(double) | يقوم بتهيئة المشغل. |
+| [SetHorizontalTextScaling](sethorizontaltextscaling/)(double) | يُهيئ العامل. |
 
 ## الخصائص
 
 | الاسم | الوصف |
 | --- | --- |
-| [HorizontalScaling](../../aspose.pdf.operators/sethorizontaltextscaling/horizontalscaling/) { get; set; } | يحصل أو يحدد مقياس النص الأفقي. |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
+| [HorizontalScaling](../../aspose.pdf.operators/sethorizontaltextscaling/horizontalscaling/) { get; set; } | يحصل أو يعيّن مقياس النص الأفقي. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/sethorizontaltextscaling/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | يعيد نص المشغل ومعاييره. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه الحالة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/sethorizontaltextscaling/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | يرجع نص العامل ومعامِله. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
 ### انظر أيضًا
 
-* فئة [TextStateOperator](../textstateoperator/)
-* مساحة الأسماء [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* التجميع [Aspose.PDF](../../)
+* class [TextStateOperator](../textstateoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

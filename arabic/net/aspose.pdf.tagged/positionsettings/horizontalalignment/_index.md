@@ -1,14 +1,14 @@
 ---
-title: PositionSettings.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PositionSettings. تحصل أو تعين محاذاة أفقية للفقرة
+title: "PositionSettings.HorizontalAlignment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PositionSettings. يحصل أو يضبط محاذاة أفقية للفقرة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.tagged/positionsettings/horizontalalignment/
 ---
-## خاصية PositionSettings.HorizontalAlignment
+## PositionSettings.HorizontalAlignment property
 
-تحصل أو تعين محاذاة أفقية للفقرة.
+يحصل أو يضبط محاذاة أفقية للفقرة.
 
 ```csharp
 public HorizontalAlignment HorizontalAlignment { get; set; }
@@ -20,3 +20,5 @@ public HorizontalAlignment HorizontalAlignment { get; set; }
 * class [PositionSettings](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

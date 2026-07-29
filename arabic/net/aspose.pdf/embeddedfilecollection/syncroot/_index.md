@@ -1,14 +1,14 @@
 ---
-title: EmbeddedFileCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية EmbeddedFileCollection. تحصل على كائن يمكن استخدامه لمزامنة الوصول إلى هذه المجموعة
+title: "EmbeddedFileCollection.SyncRoot"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية EmbeddedFileCollection. تحصل على كائن يمكن استخدامه لمزامنة الوصول إلى هذه المجموعة"
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/embeddedfilecollection/syncroot/
 ---
-## خاصية EmbeddedFileCollection.SyncRoot
+## EmbeddedFileCollection.SyncRoot property
 
-تحصل على كائن يمكن استخدامه لمزامنة الوصول إلى هذه المجموعة.
+يحصل على كائن يمكن استخدامه لمزامنة الوصول إلى هذه المجموعة.
 
 ```csharp
 public object SyncRoot { get; }
@@ -19,3 +19,5 @@ public object SyncRoot { get; }
 * class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

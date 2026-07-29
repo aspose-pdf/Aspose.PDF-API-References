@@ -1,24 +1,24 @@
 ---
-title: PdfContentEditor.CreateFreeText
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfContentEditor. تنشئ تعليق نصي حر في مستند PDF
+title: "PdfContentEditor.CreateFreeText"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfContentEditor. تنشئ تعليقا نصيًا حرًا في مستند PDF"
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf.facades/pdfcontenteditor/createfreetext/
 ---
-## طريقة PdfContentEditor.CreateFreeText
+## PdfContentEditor.CreateFreeText method
 
-تنشئ تعليق نصي حر في مستند PDF
+ينشئ تعليقة نص حر في مستند PDF
 
 ```csharp
 public void CreateFreeText(Rectangle rect, string contents, int page)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| rect | Rectangle | مستطيل التعليق الذي يحدد موقع التعليق على الصفحة. |
-| contents | String | محتويات التعليق. |
-| page | Int32 | رقم الصفحة الأصلية حيث سيتم إنشاء تعليق النص. |
+| rect | Rectangle | مستطيل التعليق يحدد موقع التعليق على الصفحة. |
+| contents | String | محتوى التعليق التوضيحي. |
+| صفحة | Int32 | رقم الصفحة الأصلية التي سيتم إنشاء التعليق النصي فيها. |
 
 ## أمثلة
 
@@ -34,3 +34,5 @@ editor.Save("example_out.pdf");
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

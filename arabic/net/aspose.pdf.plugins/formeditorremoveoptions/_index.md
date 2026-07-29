@@ -1,14 +1,14 @@
 ---
-title: Class FormEditorRemoveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Plugins.FormEditorRemoveOptions. الفئة الأساسية لفئات الخيارات لإزالة الحقول في الوثيقة بواسطة مكون FormEditor
+title: "الفئة FormEditorRemoveOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Plugins.FormEditorRemoveOptions فئة. الفئة الأساسية لفئات الخيارات لإزالة الحقول في المستند بواسطة ملحق FormEditor"
 type: docs
-weight: 8650
+weight: 8780
 url: /ar/net/aspose.pdf.plugins/formeditorremoveoptions/
 ---
-## فئة FormEditorRemoveOptions
+## FormEditorRemoveOptions class
 
-الفئة الأساسية لفئات الخيارات لإزالة الحقول في الوثيقة بواسطة [`FormEditor`](../formeditor/) مكون.
+الفئة الأساسية لفئات الخيارات لإزالة الحقول في المستند بواسطة الملحق [`FormEditor`](../formeditor/).
 
 ```csharp
 public abstract class FormEditorRemoveOptions : FormEditorOptions
@@ -18,18 +18,20 @@ public abstract class FormEditorRemoveOptions : FormEditorOptions
 
 | الاسم | الوصف |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | يعيد مجموعة بيانات مكونات Form.... |
-| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | يحصل على مجموعة من الأهداف المضافة لنتائج عملية الحفظ. |
+| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | يرجع مجموعة بيانات مكوّن Form.... |
+| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | يحصل على مجموعة الأهداف المضافة لحفظ نتائج العملية. |
 
 ## الطرق
 
 | الاسم | الوصف |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات مكونات Form... |
-| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات مكونات Form... |
+| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات مكوّن Form.... |
+| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | يضيف مصدر بيانات جديد إلى مجموعة بيانات مكوّن Form.... |
 
 ### انظر أيضًا
 
-* فئة [FormEditorOptions](../formeditoroptions/)
-* مساحة الأسماء [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* التجميع [Aspose.PDF](../../)
+* class [FormEditorOptions](../formeditoroptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

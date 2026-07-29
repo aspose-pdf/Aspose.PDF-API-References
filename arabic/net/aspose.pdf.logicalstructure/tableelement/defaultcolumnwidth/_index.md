@@ -1,14 +1,14 @@
 ---
-title: TableElement.DefaultColumnWidth
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TableElement. تحصل أو تعين عرض العمود الافتراضي
+title: "TableElement.DefaultColumnWidth"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TableElement. تحصل أو تعين عرض العمود الافتراضي"
 type: docs
 weight: 110
 url: /ar/net/aspose.pdf.logicalstructure/tableelement/defaultcolumnwidth/
 ---
-## خاصية TableElement.DefaultColumnWidth
+## TableElement.DefaultColumnWidth property
 
-تحصل أو تعين عرض العمود الافتراضي.
+الحصول أو تعيين عرض العمود الافتراضي.
 
 ```csharp
 public string DefaultColumnWidth { get; set; }
@@ -19,3 +19,5 @@ public string DefaultColumnWidth { get; set; }
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

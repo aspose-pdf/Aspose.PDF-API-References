@@ -1,14 +1,14 @@
 ---
-title: ThreadResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية ThreadResponse. تحصل أو تعين المعرف الذي يمكن الإشارة إليه في نقاط نهاية API
+title: "ThreadResponse.Id"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "ThreadResponse الخاصية. يحصل أو يضبط المعرف الذي يمكن الإشارة إليه في نقاط نهاية API"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/threadresponse/id/
 ---
-## خاصية ThreadResponse.Id
+## ThreadResponse.Id property
 
-تحصل أو تعين المعرف، الذي يمكن الإشارة إليه في نقاط نهاية API.
+يحصل أو يعيّن المعرف، الذي يمكن الإشارة إليه في نقاط النهاية API.
 
 ```csharp
 public string Id { get; set; }
@@ -19,3 +19,5 @@ public string Id { get; set; }
 * class [ThreadResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

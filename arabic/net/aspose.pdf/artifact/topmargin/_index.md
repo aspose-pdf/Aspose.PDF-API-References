@@ -1,14 +1,14 @@
 ---
-title: Artifact.TopMargin
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الأرتيفكت. الهامش العلوي للأرتيفكت. إذا تم تحديد الموضع بشكل صريح في خاصية الموضع، يتم تجاهل هذه القيمة
+title: "Artifact.TopMargin"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية Artifact. الهامش العلوي للـ artifact. إذا تم تحديد Position صراحةً في خاصية Position فسيتم تجاهل هذه القيمة"
 type: docs
 weight: 210
 url: /ar/net/aspose.pdf/artifact/topmargin/
 ---
-## خاصية Artifact.TopMargin
+## Artifact.TopMargin property
 
-الهامش العلوي للأرتيفكت. إذا تم تحديد الموضع بشكل صريح (في خاصية الموضع) يتم تجاهل هذه القيمة.
+الهامش العلوي للعنصر. إذا تم تحديد الموضع صراحةً (في خاصية Position) يتم تجاهل هذه القيمة.
 
 ```csharp
 public double TopMargin { get; set; }
@@ -19,3 +19,5 @@ public double TopMargin { get; set; }
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

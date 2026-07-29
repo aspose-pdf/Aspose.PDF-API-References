@@ -1,14 +1,14 @@
 ---
-title: PageSettings.PrinterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageSettings. تحصل أو تعين إعدادات الطابعة المرتبطة
+title: "PageSettings.PrinterSettings"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageSettings. يحصل أو يحدد إعدادات الطابعة المرتبطة"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf.printing/pagesettings/printersettings/
 ---
-## خاصية PageSettings.PrinterSettings
+## PageSettings.PrinterSettings property
 
-تحصل أو تعين إعدادات الطابعة المرتبطة.
+يحصل أو يضبط إعدادات الطابعة المرتبطة.
 
 ```csharp
 public PrinterSettings PrinterSettings { get; set; }
@@ -20,3 +20,5 @@ public PrinterSettings PrinterSettings { get; set; }
 * class [PageSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

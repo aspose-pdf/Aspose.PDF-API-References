@@ -1,22 +1,22 @@
 ---
-title: DocMDPSignature.DocMDPSignature
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ DocMDPSignature. يقوم بتهيئة مثيل جديد من فئة DocMDPSignature
+title: "DocMDPSignature.DocMDPSignature"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ DocMDPSignature. يهيئ نسخة جديدة من فئة DocMDPSignature"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.forms/docmdpsignature/docmdpsignature/
 ---
-## مُنشئ DocMDPSignature
+## DocMDPSignature constructor
 
-يقوم بتهيئة مثيل جديد من فئة [`DocMDPSignature`](../).
+يُنشئ مثيلاً جديدًا للفئة [`DocMDPSignature`](../).
 
 ```csharp
 public DocMDPSignature(Signature signature, DocMDPAccessPermissions accessPermissions)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| signature | Signature | كائن التوقيع الذي تم استخدامه أثناء التوقيع. |
+| signature | Signature | كائن التوقيع الذي يُستخدم أثناء التوقيع. |
 | accessPermissions | DocMDPAccessPermissions | أذونات الوصول الممنوحة لهذا المستند. |
 
 ### انظر أيضًا
@@ -26,3 +26,5 @@ public DocMDPSignature(Signature signature, DocMDPAccessPermissions accessPermis
 * class [DocMDPSignature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

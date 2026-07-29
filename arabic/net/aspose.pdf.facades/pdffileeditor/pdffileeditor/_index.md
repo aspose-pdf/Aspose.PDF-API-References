@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.PdfFileEditor
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PdfFileEditor. المُنشئ الافتراضي
+title: "PdfFileEditor.PdfFileEditor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PdfFileEditor. المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.facades/pdffileeditor/pdffileeditor/
 ---
-## مُنشئ PdfFileEditor
+## PdfFileEditor constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public PdfFileEditor()
@@ -19,3 +19,5 @@ public PdfFileEditor()
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

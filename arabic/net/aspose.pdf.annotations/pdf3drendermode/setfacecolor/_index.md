@@ -1,20 +1,20 @@
 ---
-title: PDF3DRenderMode.SetFaceColor
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PDF3DRenderMode. تعيين لون الوجه
+title: "PDF3DRenderMode.SetFaceColor"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PDF3DRenderMode. تضبط لون الوجه"
 type: docs
 weight: 230
 url: /ar/net/aspose.pdf.annotations/pdf3drendermode/setfacecolor/
 ---
-## طريقة PDF3DRenderMode.SetFaceColor
+## PDF3DRenderMode.SetFaceColor method
 
-تعيين لون الوجه.
+يضبط لون الوجه.
 
 ```csharp
 public PDF3DRenderMode SetFaceColor(Color color)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | color | Color | اللون. |
 
@@ -28,3 +28,5 @@ PDF3DRenderMode.
 * class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

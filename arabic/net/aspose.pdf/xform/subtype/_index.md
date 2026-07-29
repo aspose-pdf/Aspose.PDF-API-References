@@ -1,14 +1,14 @@
 ---
-title: XForm.Subtype
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية XForm. تحصل على نوع النموذج الفرعي
+title: "XForm.Subtype"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية XForm. تسترجع Subtype النموذج"
 type: docs
 weight: 100
 url: /ar/net/aspose.pdf/xform/subtype/
 ---
-## خاصية XForm.Subtype
+## XForm.Subtype property
 
-تحصل على نوع النموذج الفرعي.
+يحصل على نوع النموذج الفرعي.
 
 ```csharp
 public string Subtype { get; }
@@ -19,3 +19,5 @@ public string Subtype { get; }
 * class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

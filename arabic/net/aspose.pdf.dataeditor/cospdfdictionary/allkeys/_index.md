@@ -1,14 +1,14 @@
 ---
-title: CosPdfDictionary.AllKeys
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية CosPdfDictionary. مجموعة كاملة من المفاتيح. تحتوي على مفاتيح قابلة للتعديل وغير قابلة للتعديل
+title: "CosPdfDictionary.AllKeys"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية CosPdfDictionary. مجموعة كاملة من المفاتيح. تحتوي على مفاتيح قابلة للتحرير وغير قابلة للتحرير."
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.dataeditor/cospdfdictionary/allkeys/
 ---
-## خاصية CosPdfDictionary.AllKeys
+## CosPdfDictionary.AllKeys property
 
-مجموعة كاملة من المفاتيح. تحتوي على مفاتيح قابلة للتعديل وغير قابلة للتعديل.
+مجموعة كاملة من المفاتيح. تحتوي على مفاتيح قابلة للتحرير وغير قابلة للتحرير.
 
 ```csharp
 public ICollection<string> AllKeys { get; }
@@ -19,3 +19,5 @@ public ICollection<string> AllKeys { get; }
 * class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

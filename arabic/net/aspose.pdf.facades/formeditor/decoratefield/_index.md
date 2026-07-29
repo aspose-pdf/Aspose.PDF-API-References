@@ -1,24 +1,24 @@
 ---
-title: FormEditor.DecorateField
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة FormEditor. تغيّر الخصائص البصرية للحقل المحدد
+title: "FormEditor.DecorateField"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة FormEditor. يغيّر السمات البصرية للحقل المحدد"
 type: docs
 weight: 170
 url: /ar/net/aspose.pdf.facades/formeditor/decoratefield/
 ---
 ## DecorateField(string) {#decoratefield_2}
 
-تغيّر الخصائص البصرية للحقل المحدد.
+يغيّر السمات البصرية للحقول المحددة.
 
 ```csharp
 public void DecorateField(string fieldName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| fieldName | String | الاسم المؤهل بالكامل للحقل. |
+| fieldName | String | اسم الحقل المؤهل بالكامل. |
 
-## Examples
+## أمثلة
 
 ```csharp
 FormEditor fe = new FormEditor("PdfWithAcroForm.pdf", "FormEditor_DecorateField_text.pdf");
@@ -30,7 +30,7 @@ fe.Facade.Alignment = FormFieldFacade.AlignCenter;
 fe.DecorateField("textField");
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -40,17 +40,17 @@ fe.DecorateField("textField");
 
 ## DecorateField(FieldType) {#decoratefield_1}
 
-تغيّر الخصائص البصرية لجميع الحقول من نوع الحقل المحدد.
+يغيّر السمات البصرية لجميع الحقول ذات النوع المحدد.
 
 ```csharp
 public void DecorateField(FieldType fieldType)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | fieldType | FieldType | نوع الحقول التي سيتم تزيينها. |
 
-## Examples
+## أمثلة
 
 ```csharp
 FormEditor fe = new FormEditor("PdfForm.pdf", "FormEditor_DecorateField.pdf");
@@ -59,11 +59,11 @@ fe.Facade.BackgroundColor = System.Drawing.Color.Red;
 fe.Facade.TextColor = System.Drawing.Color.Blue;
 fe.Facade.BorderColor = System.Drawing.Color.Green;
 fe.Facade.Alignment = FormFieldFacade.AlignRight;
-//decorate all text fields.
+//تزيين جميع حقول النص.
 fe.DecorateField(FieldType.Text);
 ```
 
-### See Also
+### انظر أيضًا
 
 * enum [FieldType](../../fieldtype/)
 * class [FormEditor](../)
@@ -74,13 +74,13 @@ fe.DecorateField(FieldType.Text);
 
 ## DecorateField() {#decoratefield}
 
-تغيّر الخصائص البصرية لجميع الحقول في مستند PDF.
+يغيّر السمات البصرية لجميع الحقول في مستند PDF.
 
 ```csharp
 public void DecorateField()
 ```
 
-## Examples
+## أمثلة
 
 ```csharp
 FormEditor fe = new FormEditor("PdfForm.pdf", "FormEditor_DecorateField.pdf");
@@ -89,12 +89,14 @@ fe.Facade.BackgroundColor = System.Drawing.Color.Red;
 fe.Facade.TextColor = System.Drawing.Color.Blue;
 fe.Facade.BorderColor = System.Drawing.Color.Green;
 fe.Facade.Alignment = FormFieldFacade.AlignRight;
-//decorate all fields.
+//تزيين جميع الحقول.
 fe.DecorateField();
 ```
 
-### See Also
+### انظر أيضًا
 
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,24 +1,24 @@
 ---
-title: PDF3DRenderMode.PDF3DRenderMode
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PDF3DRenderMode. يقوم بتهيئة مثيل جديد من فئة PDF3DRenderMode
+title: "PDF3DRenderMode.PDF3DRenderMode"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PDF3DRenderMode. يهيئ مثيلاً جديداً لفئة PDF3DRenderMode"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/pdf3drendermode/pdf3drendermode/
 ---
 ## PDF3DRenderMode(RenderModeType) {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`PDF3DRenderMode`](../).
+يهيئ مثيلاً جديداً لفئة [`PDF3DRenderMode`](../).
 
 ```csharp
 public PDF3DRenderMode(RenderModeType subtype)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | subtype | RenderModeType | نوع وضع العرض. |
 
-### See Also
+### انظر أيضًا
 
 * enum [RenderModeType](../../rendermodetype/)
 * class [PDF3DRenderMode](../)
@@ -29,24 +29,26 @@ public PDF3DRenderMode(RenderModeType subtype)
 
 ## PDF3DRenderMode(string) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة [`PDF3DRenderMode`](../).
+يهيئ مثيلاً جديداً لفئة [`PDF3DRenderMode`](../).
 
 ```csharp
 public PDF3DRenderMode(string typeName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | typeName | String | اسم النوع. |
 
-### Exceptions
+### الاستثناءات
 
-| exception | condition |
+| استثناء | شرط |
 | --- | --- |
-| ArgumentException | نوع وضع العرض غير معروف |
+| ArgumentException | معامل نوع وضع العرض غير معروف |
 
-### See Also
+### انظر أيضًا
 
 * class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

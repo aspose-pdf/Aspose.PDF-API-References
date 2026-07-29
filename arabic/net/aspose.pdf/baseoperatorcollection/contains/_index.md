@@ -1,26 +1,26 @@
 ---
-title: BaseOperatorCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة BaseOperatorCollection. تتحقق مما إذا كان المشغل موجودًا في المجموعة
+title: "BaseOperatorCollection.Contains"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة BaseOperatorCollection. تتحقق مما إذا كان المشغل موجودًا في التجميع"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf/baseoperatorcollection/contains/
 ---
-## طريقة BaseOperatorCollection.Contains
+## BaseOperatorCollection.Contains method
 
-تتحقق مما إذا كان المشغل موجودًا في المجموعة.
+يتحقق مما إذا كان المشغل موجودًا في المجموعة.
 
 ```csharp
 public abstract bool Contains(Operator item)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| item | Operator | عنصر المشغل للعثور عليه. |
+| item | Operator | العنصر المشغل للبحث. |
 
 ### قيمة الإرجاع
 
-صحيح - إذا تم العثور على العنصر؛ خلاف ذلك، خطأ.
+صحيح - إذا تم العثور على العنصر؛ وإلا، خطأ.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ public abstract bool Contains(Operator item)
 * class [BaseOperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

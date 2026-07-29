@@ -1,14 +1,14 @@
 ---
-title: Table.Table
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ الجدول. المُنشئ الافتراضي
+title: "Table.Table"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Table. المنشئ الافتراضي."
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/table/table/
 ---
-## مُنشئ الجدول
+## Table constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public Table()
@@ -19,3 +19,5 @@ public Table()
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

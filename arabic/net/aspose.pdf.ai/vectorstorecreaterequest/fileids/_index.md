@@ -1,14 +1,14 @@
 ---
-title: VectorStoreCreateRequest.FileIds
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية VectorStoreCreateRequest. تحصل أو تعين قائمة بمعرفات الملفات التي يجب أن يستخدمها مخزن المتجهات. مفيد لأدوات مثل file_search التي يمكنها الوصول إلى الملفات
+title: "VectorStoreCreateRequest.FileIds"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية VectorStoreCreateRequest. يحصل أو يضبط قائمة بمعرفات الملفات (File IDs) التي يجب أن يستخدمها مخزن المتجهات. مفيد للأدوات مثل file_search التي يمكنها الوصول إلى الملفات"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/vectorstorecreaterequest/fileids/
 ---
-## خاصية VectorStoreCreateRequest.FileIds
+## VectorStoreCreateRequest.FileIds property
 
-تحصل أو تعين قائمة بمعرفات الملفات التي يجب أن يستخدمها مخزن المتجهات. مفيد لأدوات مثل file_search التي يمكنها الوصول إلى الملفات.
+يحصل أو يعيّن قائمة بمعرّفات الملفات التي يجب أن يستخدمها مخزن المتجهات. مفيد للأدوات مثل file_search التي يمكنها الوصول إلى الملفات.
 
 ```csharp
 public List<string> FileIds { get; set; }
@@ -19,3 +19,5 @@ public List<string> FileIds { get; set; }
 * class [VectorStoreCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

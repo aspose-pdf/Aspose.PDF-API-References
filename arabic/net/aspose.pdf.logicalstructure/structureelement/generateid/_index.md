@@ -1,14 +1,14 @@
 ---
-title: StructureElement.GenerateId
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة StructureElement. توليد معرف لعنصر الهيكل
+title: "StructureElement.GenerateId"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة StructureElement. يولد معرفًا لعنصر البنية"
 type: docs
 weight: 130
 url: /ar/net/aspose.pdf.logicalstructure/structureelement/generateid/
 ---
-## طريقة StructureElement.GenerateId
+## StructureElement.GenerateId method
 
-توليد معرف لعنصر الهيكل.
+إنشاء معرف لعنصر البنية.
 
 ```csharp
 public void GenerateId()
@@ -19,3 +19,5 @@ public void GenerateId()
 * class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

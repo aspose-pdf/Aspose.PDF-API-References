@@ -1,32 +1,34 @@
 ---
-title: Class PdfToImage
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.PdfToImage class. يمثل مكون تحويل PDF إلى صورة
+title: "الفئة PdfToImage"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "الفئة Aspose.Pdf.Plugins.PdfToImage. تمثّل ملحق تحويل PDF إلى صورة"
 type: docs
-weight: 9120
+weight: 9270
 url: /ar/net/aspose.pdf.plugins/pdftoimage/
 ---
 ## PdfToImage class
 
-يمثل مكون تحويل PDF إلى صورة.
+يمثل ملحق PDF إلى صورة.
 
 ```csharp
 public abstract class PdfToImage : IDisposable, IPlugin
 ```
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/pdftoimage/dispose/)() | تنفيذ . في الواقع، ليس من الضروري لـ . |
-| [Process](../../aspose.pdf.plugins/pdftoimage/process/)(IPluginOptions) | يبدأ المعالجة مع المعلمات المحددة. |
+| [Dispose](../../aspose.pdf.plugins/pdftoimage/dispose/)() | تنفيذ لـ . في الواقع، ليس ضروريًا لـ . |
+| [Process](../../aspose.pdf.plugins/pdftoimage/process/)(IPluginOptions) | يبدأ  المعالجة بالمعلمات المحددة. |
 
-## Remarks
+## ملاحظات
 
-تستخدم فئة `PdfToImage` لتحويل مستند PDF إلى صور
+الفئة `PdfToImage` تُستخدم لتحويل مستند PDF إلى صور
 
-### See Also
+### انظر أيضًا
 
 * interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

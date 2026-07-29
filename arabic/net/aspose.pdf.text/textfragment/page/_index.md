@@ -1,14 +1,14 @@
 ---
-title: TextFragment.Page
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragment. تحصل على الصفحة التي تحتوي على TextFragment
+title: "TextFragment.Page"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "TextFragment خاصية. يحصل على الصفحة التي تحتوي على TextFragment"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.text/textfragment/page/
 ---
-## خاصية TextFragment.Page
+## TextFragment.Page property
 
-تحصل على الصفحة التي تحتوي على TextFragment
+يحصل على الصفحة التي تحتوي على TextFragment
 
 ```csharp
 public Page Page { get; }
@@ -16,7 +16,7 @@ public Page Page { get; }
 
 ## ملاحظات
 
-يمكن أن تكون القيمة null في حالة عدم انتماء كائن TextFragment إلى أي صفحة.
+القيمة يمكن أن تكون فارغة في حالة عدم انتماء كائن TextFragment إلى أي صفحة.
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public Page Page { get; }
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

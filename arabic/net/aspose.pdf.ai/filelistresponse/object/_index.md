@@ -1,14 +1,14 @@
 ---
-title: FileListResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية FileListResponse. تحصل أو تعين نوع الكائن الذي يكون دائمًا قائمة
+title: "FileListResponse.Object"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية FileListResponse. تحصل أو تعين نوع الكائن الذي يكون دائمًا قائمة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/filelistresponse/object/
 ---
-## خاصية FileListResponse.Object
+## FileListResponse.Object property
 
-تحصل أو تعين نوع الكائن، الذي يكون دائمًا قائمة.
+يحصل أو يعيّن نوع الكائن، والذي يكون دائمًا list.
 
 ```csharp
 public string Object { get; set; }
@@ -19,3 +19,5 @@ public string Object { get; set; }
 * class [FileListResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Rectangle.ToPoints
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة Rectangle. تحويل المستطيل إلى مصفوفة من النقاط QuadPoints
+title: "Rectangle.ToPoints"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Rectangle. تحول المستطيل إلى مصفوفة من النقاط QuadPoints"
 type: docs
 weight: 270
 url: /ar/net/aspose.pdf/rectangle/topoints/
 ---
-## طريقة Rectangle.ToPoints
+## Rectangle.ToPoints method
 
-تحول المستطيل إلى مصفوفة من النقاط ("QuadPoints").
+يحوّل المستطيل إلى مصفوفة من النقاط ("QuadPoints").
 
 ```csharp
 public Point[] ToPoints()
@@ -24,3 +24,5 @@ public Point[] ToPoints()
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

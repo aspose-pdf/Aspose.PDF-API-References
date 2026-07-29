@@ -1,26 +1,26 @@
 ---
-title: GraphicElementCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة GraphicElementCollection. تحدد ما إذا كان العنصر موجودًا في المجموعة
+title: "GraphicElementCollection.Contains"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة GraphicElementCollection. تحدد ما إذا كان العنصر موجودًا في المجموعة"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.vector/graphicelementcollection/contains/
 ---
-## طريقة GraphicElementCollection.Contains
+## GraphicElementCollection.Contains method
 
-تحدد ما إذا كان العنصر موجودًا في المجموعة.
+يحدد ما إذا كان العنصر موجودًا في المجموعة.
 
 ```csharp
 public bool Contains(GraphicElement item)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| item | GraphicElement | [`GraphicElement`](../../graphicelement/) للبحث عنه. |
+| item | GraphicElement | العنصر [`GraphicElement`](../../graphicelement/) للبحث. |
 
 ### قيمة الإرجاع
 
-True - إذا تم العثور على العنصر؛ خلاف ذلك، false.
+True - إذا تم العثور على العنصر؛ وإلا false.
 
 ### انظر أيضًا
 
@@ -28,3 +28,5 @@ True - إذا تم العثور على العنصر؛ خلاف ذلك، false.
 * class [GraphicElementCollection](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

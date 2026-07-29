@@ -1,28 +1,28 @@
 ---
-title: PageCollection.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PageCollection. إدراج صفحة فارغة في المجموعة في الموضع المحدد. إذا كان المستند يحتوي بالفعل على صفحات بأحجام مختلفة، فسيتم اختيار حجم الصفحة الأكثر تكرارًا. في حالة وجود صفحتين مختلفتين فقط، سيتم استخدام حجم الصفحة الأولى.
+title: "PageCollection.Insert"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PageCollection. تُدرج صفحة فارغة في المجموعة في الموضع المحدد. إذا كان المستند يحتوي بالفعل على صفحات بأحجام مختلفة، سيتم اختيار حجم الصفحة الأكثر تكرارًا. في حالة وجود صفحتين مختلفتين فقط، سيُستخدم حجم الصفحة الأولى."
 type: docs
 weight: 160
 url: /ar/net/aspose.pdf/pagecollection/insert/
 ---
 ## Insert(int) {#insert}
 
-إدراج صفحة فارغة في المجموعة في الموضع المحدد. إذا كان المستند يحتوي بالفعل على صفحات بأحجام مختلفة، فسيتم اختيار حجم الصفحة الأكثر تكرارًا. في حالة وجود صفحتين مختلفتين فقط، سيتم استخدام حجم الصفحة الأولى.
+أدرج صفحة فارغة في المجموعة في الموضع المحدد. إذا كان المستند يحتوي بالفعل على صفحات بأحجام مختلفة، سيتم اختيار حجم الصفحة الأكثر تكرارًا. في حالة وجود صفحتين مختلفتين فقط، سيُستخدم حجم الصفحة الأولى.
 
 ```csharp
 public Page Insert(int pageNumber)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | pageNumber | Int32 | موضع الصفحة الجديدة. |
 
-### Return Value
+### قيمة الإرجاع
 
-الصفحة المدخلة.
+الصفحة المُدرجة.
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../page/)
 * class [PageCollection](../)
@@ -33,22 +33,22 @@ public Page Insert(int pageNumber)
 
 ## Insert(int, Page) {#insert_1}
 
-يتم إدراج الصفحة في مجموعة الصفحات في المكان المحدد.
+يدرج صفحة في مجموعة الصفحات في المكان المحدد.
 
 ```csharp
 public Page Insert(int pageNumber, Page entity)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pageNumber | Int32 | فهرس الصفحة المطلوبة في المجموعة. |
-| entity | Page | الصفحة التي سيتم إدراجها. |
+| pageNumber | Int32 | فهرس الصفحة المطلوب في المجموعة. |
+| كيان | صفحة | الصفحة التي سيتم إدراجها. |
 
-### Return Value
+### قيمة الإرجاع
 
-الصفحة المدخلة.
+الصفحة المُدرجة.
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../page/)
 * class [PageCollection](../)
@@ -59,18 +59,18 @@ public Page Insert(int pageNumber, Page entity)
 
 ## Insert(int, ICollection&lt;Page&gt;) {#insert_3}
 
-يتم إدراج الصفحات من المجموعة في المستند.
+يدرج الصفحات من المجموعة في المستند.
 
 ```csharp
 public void Insert(int pageNumber, ICollection<Page> pages)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | pageNumber | Int32 | الموضع الابتدائي للصفحات الجديدة. |
-| pages | ICollection`1 | مجموعة الصفحات. |
+| صفحات | ICollection`1 | مجموعة الصفحات. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../page/)
 * class [PageCollection](../)
@@ -81,20 +81,22 @@ public void Insert(int pageNumber, ICollection<Page> pages)
 
 ## Insert(int, Page[]) {#insert_2}
 
-يتم إدراج صفحات المصفوفة في المستند.
+يدرج الصفحات الموجودة في المصفوفة في المستند.
 
 ```csharp
 public void Insert(int pageNumber, Page[] pages)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pageNumber | Int32 | الرقم الابتدائي للصفحات الجديدة. |
-| pages | Page[] | مصفوفة الصفحات التي سيتم إدراجها. |
+| pageNumber | Int32 | العدد الابتدائي للصفحات الجديدة. |
+| صفحات | Page[] | مصفوفة من الصفحات التي سيتم إدراجها. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../page/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: XmpPdfAExtensionField.GetXml
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة XmpPdfAExtensionField. تعيد قائمة عناصر xml التي تمثل الحقل في شجرة xml
+title: "XmpPdfAExtensionField.GetXml"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة XmpPdfAExtensionField. تُرجع قائمة عناصر xml التي تمثل الحقل في شجرة xml"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/xmppdfaextensionfield/getxml/
 ---
-## طريقة XmpPdfAExtensionField.GetXml
+## XmpPdfAExtensionField.GetXml method
 
-تعيد قائمة عناصر xml التي تمثل الحقل في شجرة xml.
+يعيد قائمة عناصر XML التي تمثل الحقل في شجرة XML.
 
 ```csharp
 public override List<XmlElement> GetXml(XmlDocument xmlDocument)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| xmlDocument | XmlDocument | وثيقة xml المصدر. |
+| xmlDocument | XmlDocument | مستند xml المصدر. |
 
 ### قيمة الإرجاع
 
@@ -27,3 +27,5 @@ public override List<XmlElement> GetXml(XmlDocument xmlDocument)
 * class [XmpPdfAExtensionField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

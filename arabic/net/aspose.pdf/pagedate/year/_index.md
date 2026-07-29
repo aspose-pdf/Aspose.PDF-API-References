@@ -1,14 +1,14 @@
 ---
-title: PageDate.Year
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية PageDate. تحصل أو تعين مكون السنة من التاريخ. سيتم تحديث تنسيق التاريخ بناءً على هذا المكون
+title: "PageDate.Year"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية PageDate. تحصل أو تعين مكوّن السنة للتاريخ. سيتم تحديث تنسيق التاريخ بناءً على هذا المكوّن."
 type: docs
 weight: 50
 url: /ar/net/aspose.pdf/pagedate/year/
 ---
-## خاصية PageDate.Year
+## PageDate.Year property
 
-تحصل أو تعين مكون السنة من التاريخ. سيتم تحديث تنسيق التاريخ بناءً على هذا المكون.
+يحصل أو يعيّن مكوّن السنة من التاريخ. سيتم تحديث تنسيق التاريخ بناءً على هذا المكوّن.
 
 ```csharp
 public YearComponent Year { get; set; }
@@ -20,3 +20,5 @@ public YearComponent Year { get; set; }
 * class [PageDate](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

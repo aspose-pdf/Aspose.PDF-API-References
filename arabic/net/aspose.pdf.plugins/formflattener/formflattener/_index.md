@@ -1,14 +1,14 @@
 ---
-title: FormFlattener.FormFlattener
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ FormFlattener. المُنشئ الافتراضي
+title: "FormFlattener.FormFlattener"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ FormFlattener. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/formflattener/formflattener/
 ---
-## مُنشئ FormFlattener
+## FormFlattener constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public FormFlattener()
@@ -19,3 +19,5 @@ public FormFlattener()
 * class [FormFlattener](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

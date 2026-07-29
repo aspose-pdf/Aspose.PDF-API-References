@@ -1,12 +1,12 @@
 ---
-title: Color.Color
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ اللون. المُنشئ الافتراضي
+title: "Color.Color"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ Color. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf/color/color/
 ---
-## مُنشئ اللون
+## Color constructor
 
 المُنشئ الافتراضي.
 
@@ -19,3 +19,5 @@ public Color()
 * class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

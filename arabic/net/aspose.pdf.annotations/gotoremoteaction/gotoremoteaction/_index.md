@@ -1,7 +1,7 @@
 ---
-title: GoToRemoteAction.GoToRemoteAction
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ GoToRemoteAction. يُهيئ كائن GoToRemoteAction
+title: "GoToRemoteAction.GoToRemoteAction"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ GoToRemoteAction. يهيئ كائن GoToRemoteAction"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/gotoremoteaction/gotoremoteaction/
@@ -14,7 +14,7 @@ url: /ar/net/aspose.pdf.annotations/gotoremoteaction/gotoremoteaction/
 public GoToRemoteAction(string remotePdf, int remotePageNumber)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | remotePdf | String | مستند PDF الوجهة. |
 | remotePageNumber | Int32 | رقم الصفحة الوجهة. |
@@ -35,7 +35,7 @@ public GoToRemoteAction(string remotePdf, int remotePageNumber)
 public GoToRemoteAction(string remotePdf, ExplicitDestination destination)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | remotePdf | String | مستند PDF الوجهة. |
 | destination | ExplicitDestination | الوجهة في مستند PDF. |
@@ -46,3 +46,5 @@ public GoToRemoteAction(string remotePdf, ExplicitDestination destination)
 * class [GoToRemoteAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

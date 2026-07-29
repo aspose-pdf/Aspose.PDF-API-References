@@ -1,14 +1,14 @@
 ---
-title: RunStepResponse.Status
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية RunStepResponse. تحصل أو تعين حالة خطوة التشغيل التي يمكن أن تكون إما قيد التقدم، ملغاة، فاشلة، مكتملة، أو منتهية
+title: "RunStepResponse.Status"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية RunStepResponse. تحصل أو تعين حالة خطوة التشغيل التي يمكن أن تكون إما in_progress أو cancelled أو failed أو completed أو expired"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.ai/runstepresponse/status/
 ---
-## خاصية RunStepResponse.Status
+## RunStepResponse.Status property
 
-تحصل أو تعين حالة خطوة التشغيل، التي يمكن أن تكون إما قيد التقدم، ملغاة، فاشلة، مكتملة، أو منتهية.
+يحصل أو يعيّن حالة خطوة التشغيل، والتي يمكن أن تكون إما in_progress أو cancelled أو failed أو completed أو expired.
 
 ```csharp
 public string Status { get; set; }
@@ -19,3 +19,5 @@ public string Status { get; set; }
 * class [RunStepResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

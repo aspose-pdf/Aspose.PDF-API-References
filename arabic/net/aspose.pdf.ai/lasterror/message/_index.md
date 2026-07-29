@@ -1,14 +1,14 @@
 ---
-title: LastError.Message
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية LastError. تحصل أو تعين وصفًا قابلًا للقراءة البشرية للخطأ
+title: "LastError.Message"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية LastError. يحصل أو يضبط وصفًا قابلًا للقراءة البشرية للخطأ"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.ai/lasterror/message/
 ---
-## خاصية LastError.Message
+## LastError.Message property
 
-تحصل أو تعين وصفًا قابلًا للقراءة البشرية للخطأ.
+يحصل أو يضبط وصفًا قابلًا للقراءة البشرية للخطأ.
 
 ```csharp
 public string Message { get; set; }
@@ -19,3 +19,5 @@ public string Message { get; set; }
 * class [LastError](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

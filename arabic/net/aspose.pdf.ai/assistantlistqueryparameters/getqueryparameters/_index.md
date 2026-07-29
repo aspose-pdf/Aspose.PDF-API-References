@@ -1,14 +1,14 @@
 ---
-title: AssistantListQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة AssistantListQueryParameters. تحصل على معلمات الاستعلام لقائمة المساعدين
+title: "AssistantListQueryParameters.GetQueryParameters"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة AssistantListQueryParameters. يحصل على معلمات الاستعلام لسرد المساعدين"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.ai/assistantlistqueryparameters/getqueryparameters/
 ---
-## طريقة AssistantListQueryParameters.GetQueryParameters
+## AssistantListQueryParameters.GetQueryParameters method
 
-تحصل على معلمات الاستعلام لقائمة المساعدين.
+يحصل على معلمات الاستعلام لإدراج المساعدين.
 
 ```csharp
 public string GetQueryParameters()
@@ -23,3 +23,5 @@ public string GetQueryParameters()
 * class [AssistantListQueryParameters](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: ITaggedContent.CreateTableTBodyElement
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ITaggedContent. تنشئ TableTHeadElement
+title: "ITaggedContent.CreateTableTBodyElement"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ITaggedContent. تنشئ TableTHeadElement"
 type: docs
-weight: 290
+weight: 320
 url: /ar/net/aspose.pdf.tagged/itaggedcontent/createtabletbodyelement/
 ---
 ## ITaggedContent.CreateTableTBodyElement method
 
-تنشئ [`TableTHeadElement`](../../../aspose.pdf.logicalstructure/tabletheadelement/).
+ينشئ [`TableTHeadElement`](../../../aspose.pdf.logicalstructure/tabletheadelement/).
 
 ```csharp
 public TableTBodyElement CreateTableTBodyElement()
 ```
 
-### Return Value
+### قيمة الإرجاع
 
-عنصر الهيكل الذي تم إنشاؤه.
+تم إنشاء عنصر بنية.
 
-### See Also
+### انظر أيضًا
 
 * class [TableTBodyElement](../../../aspose.pdf.logicalstructure/tabletbodyelement/)
 * interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

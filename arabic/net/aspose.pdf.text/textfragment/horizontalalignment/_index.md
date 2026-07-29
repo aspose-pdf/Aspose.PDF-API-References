@@ -1,14 +1,14 @@
 ---
-title: TextFragment.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextFragment. تحصل أو تعين محاذاة أفقية لجزء النص
+title: "TextFragment.HorizontalAlignment"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "TextFragment خاصية. يحصل أو يضبط محاذاة أفقية لجزء النص"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf.text/textfragment/horizontalalignment/
 ---
-## خاصية TextFragment.HorizontalAlignment
+## TextFragment.HorizontalAlignment property
 
-تحصل أو تعين محاذاة أفقية لجزء النص.
+يحصل أو يعيّن محاذاة أفقية لجزء النص.
 
 ```csharp
 public override HorizontalAlignment HorizontalAlignment { get; set; }
@@ -20,3 +20,5 @@ public override HorizontalAlignment HorizontalAlignment { get; set; }
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: Paragraphs.RemoveRange
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة الفقرات. إزالة نطاق الفقرات
+title: "Paragraphs.RemoveRange"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة Paragraphs. إزالة نطاق الفقرات"
 type: docs
 weight: 120
 url: /ar/net/aspose.pdf/paragraphs/removerange/
 ---
-## طريقة الفقرات.RemoveRange
+## Paragraphs.RemoveRange method
 
-إزالة نطاق الفقرات.
+أزل نطاق الفقرات.
 
 ```csharp
 public void RemoveRange(int index, int count)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | index | Int32 | فهرس الفقرة الأولى. |
-| count | Int32 | عدد الفقرات. |
+| عدد | Int32 | عدد الفقرات. |
 
 ### انظر أيضًا
 
 * class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

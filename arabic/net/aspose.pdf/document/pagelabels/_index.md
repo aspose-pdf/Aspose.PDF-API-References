@@ -1,14 +1,14 @@
 ---
-title: Document.PageLabels
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية الوثيقة. يحصل على تسميات الصفحات في الوثيقة
+title: "Document.PageLabels"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Document property. يحصل على تسميات الصفحات في المستند"
 type: docs
-weight: 440
+weight: 460
 url: /ar/net/aspose.pdf/document/pagelabels/
 ---
-## خاصية Document.PageLabels
+## Document.PageLabels property
 
-يحصل على تسميات الصفحات في الوثيقة.
+يحصل على تسميات الصفحات في المستند.
 
 ```csharp
 public PageLabelCollection PageLabels { get; }
@@ -20,3 +20,5 @@ public PageLabelCollection PageLabels { get; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

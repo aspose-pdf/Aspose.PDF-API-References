@@ -1,14 +1,14 @@
 ---
-title: OutputIntent.Info
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OutputIntent. تحصل أو تعين نصًا قابلًا للقراءة البشرية يحتوي على معلومات إضافية أو تعليقات حول الجهاز المستهدف أو حالة الإنتاج المقصودة
+title: "OutputIntent.Info"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OutputIntent. يحصل أو يحدد نصًا قابلًا للقراءة من قبل الإنسان يحتوي على معلومات إضافية أو تعليقات حول الجهاز المستهدف المقصود أو حالة الإنتاج."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf/outputintent/info/
 ---
-## خاصية OutputIntent.Info
+## OutputIntent.Info property
 
-تحصل أو تعين نصًا قابلًا للقراءة البشرية يحتوي على معلومات إضافية أو تعليقات حول الجهاز المستهدف أو حالة الإنتاج المقصودة.
+يحصل أو يعيّن نصًا قابلًا للقراءة البشرية يحتوي على معلومات إضافية أو تعليقات حول جهاز الهدف المقصود أو حالة الإنتاج.
 
 ```csharp
 public string Info { get; set; }
@@ -19,3 +19,5 @@ public string Info { get; set; }
 * class [OutputIntent](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

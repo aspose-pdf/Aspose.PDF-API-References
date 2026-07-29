@@ -1,28 +1,28 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithDocument
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIImageDescriptionCopilotOptions. تضيف مستند PDF إلى مجموعة المستندات لخيارات مساعد وصف الصورة
+title: "OpenAIImageDescriptionCopilotOptions.WithDocument"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIImageDescriptionCopilotOptions. تضيف مستند PDF إلى مجموعة المستندات لخيارات مساعد وصف الصورة"
 type: docs
 weight: 80
 url: /ar/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withdocument/
 ---
 ## WithDocument(PdfDocument) {#withdocument}
 
-تضيف مستند PDF إلى مجموعة المستندات لخيارات مساعد وصف الصورة.
+يضيف مستند PDF إلى مجموعة المستندات لخيارات مساعد وصف الصورة.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithDocument(PdfDocument pdfDocument)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| pdfDocument | PdfDocument | مستند PDF الذي سيتم إضافته. |
+| pdfDocument | PdfDocument | مستند PDF المراد إضافته. |
 
-### Return Value
+### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAIImageDescriptionCopilotOptions`](../).
+الحالة الحالية لـ [`OpenAIImageDescriptionCopilotOptions`](../).
 
-### See Also
+### انظر أيضًا
 
 * class [PdfDocument](../../pdfdocument/)
 * class [OpenAIImageDescriptionCopilotOptions](../)
@@ -33,22 +33,24 @@ public OpenAIImageDescriptionCopilotOptions WithDocument(PdfDocument pdfDocument
 
 ## WithDocument(string) {#withdocument_1}
 
-تضيف مسار مستند إلى مجموعة المستندات لخيارات مساعد وصف الصورة.
+يضيف مسار مستند إلى مجموعة المستندات لخيارات مساعد وصف الصورة.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithDocument(string filePath)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| filePath | String | مسار الملف للمستند الذي سيتم إضافته. |
+| filePath | String | مسار الملف للمستند المراد إضافته. |
 
-### Return Value
+### قيمة الإرجاع
 
-الحالة الحالية من [`OpenAIImageDescriptionCopilotOptions`](../).
+الحالة الحالية لـ [`OpenAIImageDescriptionCopilotOptions`](../).
 
-### See Also
+### انظر أيضًا
 
 * class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

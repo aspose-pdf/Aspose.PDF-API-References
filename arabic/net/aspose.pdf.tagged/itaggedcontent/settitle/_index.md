@@ -1,25 +1,27 @@
 ---
-title: ITaggedContent.SetTitle
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ITaggedContent. تعيين العنوان لوثيقة PDF
+title: "ITaggedContent.SetTitle"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ITaggedContent. يضبط العنوان لمستند PDF"
 type: docs
-weight: 390
+weight: 440
 url: /ar/net/aspose.pdf.tagged/itaggedcontent/settitle/
 ---
-## طريقة ITaggedContent.SetTitle
+## ITaggedContent.SetTitle method
 
-تعيين العنوان لوثيقة PDF.
+يضبط العنوان لمستند PDF.
 
 ```csharp
 public void SetTitle(string title)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| title | String | عنوان وثيقة PDF. |
+| title | String | عنوان مستند PDF. |
 
 ### انظر أيضًا
 
-* الواجهة [ITaggedContent](../)
-* مساحة الاسم [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* التجميع [Aspose.PDF](../../../)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

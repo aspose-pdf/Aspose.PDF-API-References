@@ -1,14 +1,14 @@
 ---
-title: OutputIntent.OutputConditionIdentifier
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OutputIntent. تحصل أو تعين نصًا يحدد جهاز الإخراج المقصود أو حالة الإنتاج بشكل يمكن قراءته من قبل الإنسان أو الآلة
+title: "OutputIntent.OutputConditionIdentifier"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OutputIntent. تحصل أو تعين نصًا يحدد الجهاز أو الحالة الإنتاجية المقصودة في شكل قابل للقراءة البشرية أو الآلية"
 type: docs
 weight: 40
 url: /ar/net/aspose.pdf/outputintent/outputconditionidentifier/
 ---
-## خاصية OutputIntent.OutputConditionIdentifier
+## OutputIntent.OutputConditionIdentifier property
 
-تحصل أو تعين نصًا يحدد جهاز الإخراج المقصود أو حالة الإنتاج بشكل يمكن قراءته من قبل الإنسان أو الآلة.
+يحصل أو يعيّن نصًا يحدد جهاز الإخراج المقصود أو حالة الإنتاج بصيغة قابلة للقراءة البشرية أو الآلية.
 
 ```csharp
 public string OutputConditionIdentifier { get; set; }
@@ -19,3 +19,5 @@ public string OutputConditionIdentifier { get; set; }
 * class [OutputIntent](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SplitOptions.SplitOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ SplitOptions. المُنشئ الافتراضي
+title: "SplitOptions.SplitOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "SplitOptions constructor. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.plugins/splitoptions/splitoptions/
 ---
-## مُنشئ SplitOptions
+## SplitOptions constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public SplitOptions()
@@ -19,3 +19,5 @@ public SplitOptions()
 * class [SplitOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

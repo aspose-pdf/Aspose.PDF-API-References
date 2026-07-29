@@ -1,14 +1,14 @@
 ---
-title: TextState.CharacterSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية TextState. تحصل أو تضبط تباعد الأحرف للنص
+title: "TextState.CharacterSpacing"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية TextState. تحصل أو تعين تباعد الأحرف للنص"
 type: docs
 weight: 30
 url: /ar/net/aspose.pdf.text/textstate/characterspacing/
 ---
-## خاصية TextState.CharacterSpacing
+## TextState.CharacterSpacing property
 
-تحصل أو تضبط تباعد الأحرف للنص.
+يحصل أو يضبط تباعد الأحرف للنص.
 
 ```csharp
 public virtual float CharacterSpacing { get; set; }
@@ -19,3 +19,5 @@ public virtual float CharacterSpacing { get; set; }
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

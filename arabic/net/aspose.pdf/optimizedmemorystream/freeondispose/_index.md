@@ -1,14 +1,14 @@
 ---
-title: OptimizedMemoryStream.FreeOnDispose
-second_title: Aspose.PDF for .NET API Reference
-description: خاصية OptimizedMemoryStream. تحصل أو تعين قيمة تشير إلى ما إذا كان يجب تحرير المخازن الأساسية عند التخلص
+title: "OptimizedMemoryStream.FreeOnDispose"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "خاصية OptimizedMemoryStream. تحصل أو تعين قيمة تشير إلى ما إذا كان يجب تحرير المخازن المؤقتة الأساسية عند التخلص"
 type: docs
 weight: 60
 url: /ar/net/aspose.pdf/optimizedmemorystream/freeondispose/
 ---
-## خاصية OptimizedMemoryStream.FreeOnDispose
+## OptimizedMemoryStream.FreeOnDispose property
 
-تحصل أو تعين قيمة تشير إلى ما إذا كان يجب تحرير المخازن الأساسية عند التخلص.
+يحصل أو يعيّن قيمة تشير إلى ما إذا كان يجب تحرير المخازن المؤقتة الأساسية عند التخلص.
 
 ```csharp
 public bool FreeOnDispose { get; set; }
@@ -19,3 +19,5 @@ public bool FreeOnDispose { get; set; }
 * class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

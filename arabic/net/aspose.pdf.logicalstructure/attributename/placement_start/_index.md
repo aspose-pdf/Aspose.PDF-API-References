@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Placement_Start
-second_title: Aspose.PDF for .NET API Reference
-description: حقل AttributeName. بداية وضع السمة  موضوعة بحيث يتزامن الحافة الابتدائية لمستطيل تخصيص العناصر مع تلك الخاصة بأقرب منطقة مرجعية محيطة
+title: "AttributeName.Placement_Start"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "حقل AttributeName. السمة Placement Start  يتم وضعه بحيث تتطابق الحافة البداية لمستطيل تخصيص العنصر مع تلك الخاصة بأقرب منطقة مرجعية محيطة"
 type: docs
 weight: 380
 url: /ar/net/aspose.pdf.logicalstructure/attributename/placement_start/
 ---
-## حقل AttributeName.Placement_Start
+## AttributeName.Placement_Start field
 
-وضع السمة: البداية - موضوعة بحيث يتزامن الحافة الابتدائية لمستطيل تخصيص العنصر مع تلك الخاصة بأقرب منطقة مرجعية محيطة.
+السمة Placement: Start - يتم وضعه بحيث يتطابق الحافة البداية لمستطيل تخصيص العنصر مع حافة أقرب منطقة مرجعية محيطة.
 
 ```csharp
 public static readonly AttributeName Placement_Start;
@@ -19,3 +19,5 @@ public static readonly AttributeName Placement_Start;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

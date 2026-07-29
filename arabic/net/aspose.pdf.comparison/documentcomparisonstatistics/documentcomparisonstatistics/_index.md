@@ -1,14 +1,14 @@
 ---
-title: DocumentComparisonStatistics.DocumentComparisonStatistics
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ DocumentComparisonStatistics. المُنشئ الافتراضي
+title: "DocumentComparisonStatistics.DocumentComparisonStatistics"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ DocumentComparisonStatistics. المنشئ الافتراضي"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.comparison/documentcomparisonstatistics/documentcomparisonstatistics/
 ---
-## مُنشئ DocumentComparisonStatistics
+## DocumentComparisonStatistics constructor
 
-المُنشئ الافتراضي.
+البناء الافتراضي.
 
 ```csharp
 public DocumentComparisonStatistics()
@@ -19,3 +19,5 @@ public DocumentComparisonStatistics()
 * class [DocumentComparisonStatistics](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

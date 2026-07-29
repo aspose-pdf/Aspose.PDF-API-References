@@ -1,36 +1,36 @@
 ---
-title: SvgExtractor.Extract
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة SvgExtractor. تستخرج صورة SVG إلى سلسلة من العناصر الرسومية التي تمثلها الممتص مع فلتر شرط.
+title: "SvgExtractor.Extract"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة SvgExtractor. تستخرج صورة SVG إلى سلسلة من العناصر الرسومية التي يمثلها الماص بمرشح شرط."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.vector/svgextractor/extract/
 ---
 ## Extract(GraphicsAbsorber, Predicate&lt;GraphicElement&gt;, Page) {#extract_1}
 
-تستخرج صورة SVG إلى سلسلة من العناصر الرسومية التي تمثلها !:absorber مع فلتر شرط.
+يستخرج صورة svg إلى سلسلة من العناصر الرسومية التي تمثلها !:absorber مع مرشح شرط.
 
 ```csharp
 public string Extract(GraphicsAbsorber absorber, Predicate<GraphicElement> filter, Page page)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| absorber | GraphicsAbsorber | كائن GraphicsAbsorber الذي يحتوي على العناصر الرسومية. |
-| filter | Predicate`1 | دالة شرطية تستخدم لتصفية العناصر الرسومية. |
-| page | Page | الصفحة التي يحصل فيها الممتص على العناصر الرسومية. |
+| الماص | GraphicsAbsorber | كائن GraphicsAbsorber الذي يحتوي على العناصر الرسومية. |
+| مرشح | Predicate`1 | دالة شرط تُستخدم لتصفية العناصر الرسومية. |
+| صفحة | صفحة | الصفحة التي يحصل فيها الماص على العناصر الرسومية. |
 
-### Return Value
+### قيمة الإرجاع
 
 السلسلة التي تحتوي على محتوى SVG.
 
-### Exceptions
+### الاستثناءات
 
-| exception | condition |
+| استثناء | شرط |
 | --- | --- |
-| [PdfException](../../../aspose.pdf/pdfexception/) | إذا حدث خطأ عند التحويل إلى SVG. |
+| [PdfException](../../../aspose.pdf/pdfexception/) | إذا حدث خطأ أثناء التحويل إلى SVG. |
 
-### See Also
+### انظر أيضًا
 
 * class [GraphicsAbsorber](../../graphicsabsorber/)
 * class [GraphicElement](../../graphicelement/)
@@ -43,27 +43,27 @@ public string Extract(GraphicsAbsorber absorber, Predicate<GraphicElement> filte
 
 ## Extract(GraphicsAbsorber, Predicate&lt;GraphicElement&gt;, Page, string) {#extract_4}
 
-تستخرج صورة SVG إلى ملف من العناصر الرسومية التي تمثلها !:absorber مع فلتر شرط.
+يستخرج صورة svg إلى ملف من العناصر الرسومية التي تمثلها !:absorber مع مرشح شرط.
 
 ```csharp
 public void Extract(GraphicsAbsorber absorber, Predicate<GraphicElement> filter, Page page, 
     string svgFilePath)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| absorber | GraphicsAbsorber | كائن GraphicsAbsorber الذي يحتوي على العناصر الرسومية. |
-| filter | Predicate`1 | دالة شرطية تستخدم لتصفية العناصر الرسومية. |
-| page | Page | الصفحة التي يحصل فيها الممتص على العناصر الرسومية. |
-| svgFilePath | String | مسار ملف SVG المستهدف. |
+| الماص | GraphicsAbsorber | كائن GraphicsAbsorber الذي يحتوي على العناصر الرسومية. |
+| مرشح | Predicate`1 | دالة شرط تُستخدم لتصفية العناصر الرسومية. |
+| صفحة | صفحة | الصفحة التي يحصل فيها الماص على العناصر الرسومية. |
+| svgFilePath | String | مسار ملف SVG الهدف. |
 
-### Exceptions
+### الاستثناءات
 
-| exception | condition |
+| استثناء | شرط |
 | --- | --- |
-| [PdfException](../../../aspose.pdf/pdfexception/) | إذا حدث خطأ عند التحويل إلى SVG. |
+| [PdfException](../../../aspose.pdf/pdfexception/) | إذا حدث خطأ أثناء التحويل إلى SVG. |
 
-### See Also
+### انظر أيضًا
 
 * class [GraphicsAbsorber](../../graphicsabsorber/)
 * class [GraphicElement](../../graphicelement/)
@@ -76,28 +76,28 @@ public void Extract(GraphicsAbsorber absorber, Predicate<GraphicElement> filter,
 
 ## Extract(IEnumerable&lt;GraphicElement&gt;, Page) {#extract_2}
 
-تستخرج العناصر الرسومية إلى سلسلة SVG. الخيارات غير معتمدة - التجميع، الاستخراج من المستطيل.
+يستخرج العناصر الرسومية إلى سلسلة SVG. تم تجاهل الخيارات - التجميع، الاستخراج من المستطيل.
 
 ```csharp
 public string Extract(IEnumerable<GraphicElement> elements, Page page)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| elements | IEnumerable`1 | العناصر الرسومية التي سيتم تحويلها. |
-| page | Page | الصفحة التي يحصل فيها الممتص على العناصر الرسومية. |
+| العناصر | IEnumerable`1 | العناصر الرسومية للتحويل. |
+| صفحة | صفحة | الصفحة التي يحصل فيها الماص على العناصر الرسومية. |
 
-### Return Value
+### قيمة الإرجاع
 
 السلسلة التي تحتوي على محتوى SVG.
 
-### Exceptions
+### الاستثناءات
 
-| exception | condition |
+| استثناء | شرط |
 | --- | --- |
-| [PdfException](../../../aspose.pdf/pdfexception/) | إذا حدث خطأ عند التحويل إلى SVG. |
+| [PdfException](../../../aspose.pdf/pdfexception/) | إذا حدث خطأ أثناء التحويل إلى SVG. |
 
-### See Also
+### انظر أيضًا
 
 * class [GraphicElement](../../graphicelement/)
 * class [Page](../../../aspose.pdf/page/)
@@ -109,25 +109,25 @@ public string Extract(IEnumerable<GraphicElement> elements, Page page)
 
 ## Extract(IEnumerable&lt;GraphicElement&gt;, Page, string) {#extract_5}
 
-تستخرج العناصر الرسومية إلى ملف SVG واحد. الخيارات غير معتمدة - التجميع، الاستخراج من المستطيل.
+يستخرج العناصر الرسومية إلى ملف SVG واحد. تم تجاهل الخيارات - التجميع، الاستخراج من المستطيل.
 
 ```csharp
 public void Extract(IEnumerable<GraphicElement> elements, Page page, string svgFilePath)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| elements | IEnumerable`1 | العناصر الرسومية التي سيتم تحويلها. |
-| page | Page | الصفحة التي يحصل فيها الممتص على العناصر الرسومية. |
-| svgFilePath | String | مسار ملف SVG المستهدف. |
+| العناصر | IEnumerable`1 | العناصر الرسومية للتحويل. |
+| صفحة | صفحة | الصفحة التي يحصل فيها الماص على العناصر الرسومية. |
+| svgFilePath | String | مسار ملف SVG الهدف. |
 
-### Exceptions
+### الاستثناءات
 
-| exception | condition |
+| استثناء | شرط |
 | --- | --- |
-| [PdfException](../../../aspose.pdf/pdfexception/) | إذا حدث خطأ عند التحويل إلى SVG. |
+| [PdfException](../../../aspose.pdf/pdfexception/) | إذا حدث خطأ أثناء التحويل إلى SVG. |
 
-### See Also
+### انظر أيضًا
 
 * class [GraphicElement](../../graphicelement/)
 * class [Page](../../../aspose.pdf/page/)
@@ -139,27 +139,27 @@ public void Extract(IEnumerable<GraphicElement> elements, Page page, string svgF
 
 ## Extract(Page) {#extract}
 
-تستخرج صور SVG من صفحة إلى سلاسل.
+يستخرج صور Svg من صفحة إلى سلاسل نصية.
 
 ```csharp
 public List<string> Extract(Page page)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة التي سيتم استخراجها. |
+| صفحة | صفحة | الصفحة لاستخراجها. |
 
-### Return Value
+### قيمة الإرجاع
 
-قائمة بسلاسل محتوى SVG.
+قائمة سلاسل محتوى SVG.
 
-### Exceptions
+### الاستثناءات
 
-| exception | condition |
+| استثناء | شرط |
 | --- | --- |
-| [PdfException](../../../aspose.pdf/pdfexception/) | إذا حدث خطأ عند التحويل إلى SVG. |
+| [PdfException](../../../aspose.pdf/pdfexception/) | إذا حدث خطأ أثناء التحويل إلى SVG. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [SvgExtractor](../)
@@ -170,26 +170,28 @@ public List<string> Extract(Page page)
 
 ## Extract(Page, string) {#extract_3}
 
-تستخرج صور SVG من صفحة إلى ملفات.
+يستخرج صور Svg من صفحة إلى ملفات.
 
 ```csharp
 public void Extract(Page page, string directory)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة التي سيتم استخراجها. |
-| directory | String | الدليل المستهدف لوضع صور SVG. |
+| صفحة | صفحة | الصفحة لاستخراجها. |
+| دليل | String | الدليل الهدف لوضع صور SVG. |
 
-### Exceptions
+### الاستثناءات
 
-| exception | condition |
+| استثناء | شرط |
 | --- | --- |
-| [PdfException](../../../aspose.pdf/pdfexception/) | إذا حدث خطأ عند التحويل إلى SVG. |
+| [PdfException](../../../aspose.pdf/pdfexception/) | إذا حدث خطأ أثناء التحويل إلى SVG. |
 
-### See Also
+### انظر أيضًا
 
 * class [Page](../../../aspose.pdf/page/)
 * class [SvgExtractor](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

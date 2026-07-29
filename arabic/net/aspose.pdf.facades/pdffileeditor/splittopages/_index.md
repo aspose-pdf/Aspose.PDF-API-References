@@ -1,28 +1,28 @@
 ---
-title: PdfFileEditor.SplitToPages
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة PdfFileEditor. تقسم ملف PDF إلى مستندات صفحة واحدة
+title: "PdfFileEditor.SplitToPages"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة PdfFileEditor. تقسم ملف PDF إلى مستندات صفحة واحدة."
 type: docs
 weight: 370
 url: /ar/net/aspose.pdf.facades/pdffileeditor/splittopages/
 ---
 ## SplitToPages(string) {#splittopages_1}
 
-تقسم ملف PDF إلى مستندات صفحة واحدة.
+يقسم ملف PDF إلى مستندات صفحة واحدة.
 
 ```csharp
 public MemoryStream[] SplitToPages(string inputFile)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputFile | String | اسم ملف PDF المدخل. |
+| inputFile | String | اسم ملف PDF الإدخال. |
 
-### Return Value
+### قيمة الإرجاع
 
-تدفقات PDF الناتجة، كل تدفق يحتوي على مستند PDF لصفحة واحدة.
+تدفقات PDF الناتجة، كل تدفق يخزن مؤقتًا مستند PDF بصفحة واحدة.
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -32,21 +32,21 @@ public MemoryStream[] SplitToPages(string inputFile)
 
 ## SplitToPages(Stream) {#splittopages}
 
-تقسم ملف Pdf إلى مستندات صفحة واحدة.
+يقسم ملف Pdf إلى مستندات صفحة واحدة.
 
 ```csharp
 public MemoryStream[] SplitToPages(Stream inputStream)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputStream | Stream | تدفق Pdf المدخل. |
+| inputStream | Stream | دفق Pdf الإدخال. |
 
-### Return Value
+### قيمة الإرجاع
 
 مصفوفة من تدفقات الذاكرة التي تحتوي على صفحات المستند.
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -56,18 +56,18 @@ public MemoryStream[] SplitToPages(Stream inputStream)
 
 ## SplitToPages(string, string) {#splittopages_3}
 
-تقسم ملف Pdf إلى مستندات صفحة واحدة وتقوم بحفظها في المسار المحدد. يتم تحديد المسار بواسطة اسم حقل القالب.
+يقسم ملف Pdf إلى مستندات صفحة واحدة ويحفظه في المسار المحدد. يتم تحديد المسار بواسطة اسم الحقل temaplate.
 
 ```csharp
 public void SplitToPages(string inputFile, string fileNameTemplate)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| inputFile | String | اسم الملف المدخل. |
-| fileNameTemplate | String | قالب اسم الملف الناتج. يجب أن يحتوي على %NUM% الذي يتم استبداله برقم الصفحة. على سبيل المثال، إذا تم تحديد c:/dir/page%NUM%.pdf، فإن الملفات الناتجة ستأخذ الأسماء التالية: c:/dir/page1.pdf، c:/dir/page2.pdf، إلخ. |
+| inputFile | String | اسم ملف الإدخال. |
+| fileNameTemplate | String | قالب اسم الملف الناتج. يجب أن يحتوي على %NUM% الذي يُستبدل برقم الصفحة. على سبيل المثال، إذا تم تحديد c:/dir/page%NUM%.pdf، فإن الملفات الناتجة ستحمل الأسماء التالية: c:/dir/page1.pdf، c:/dir/page2.pdf إلخ. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -77,19 +77,21 @@ public void SplitToPages(string inputFile, string fileNameTemplate)
 
 ## SplitToPages(Stream, string) {#splittopages_2}
 
-تقسم ملف Pdf إلى مستندات صفحة واحدة وتقوم بحفظها في المسار المحدد. يتم تحديد المسار بواسطة اسم حقل القالب.
+يقسم ملف Pdf إلى مستندات صفحة واحدة ويحفظه في المسار المحدد. يتم تحديد المسار بواسطة اسم الحقل temaplate.
 
 ```csharp
 public void SplitToPages(Stream inputStream, string fileNameTemplate)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | inputStream | Stream | تدفق المستند المصدر. |
-| fileNameTemplate | String | قالب اسم الملف الناتج. يجب أن يحتوي على %NUM% الذي يتم استبداله برقم الصفحة. على سبيل المثال، إذا تم تحديد c:/dir/page%NUM%.pdf، فإن الملفات الناتجة ستأخذ الأسماء التالية: c:/dir/page1.pdf، c:/dir/page2.pdf، إلخ. |
+| fileNameTemplate | String | قالب اسم الملف الناتج. يجب أن يحتوي على %NUM% الذي يُستبدل برقم الصفحة. على سبيل المثال، إذا تم تحديد c:/dir/page%NUM%.pdf، فإن الملفات الناتجة ستحمل الأسماء التالية: c:/dir/page1.pdf، c:/dir/page2.pdf إلخ. |
 
-### See Also
+### انظر أيضًا
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

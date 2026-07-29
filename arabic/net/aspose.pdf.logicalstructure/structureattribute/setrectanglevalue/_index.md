@@ -1,22 +1,22 @@
 ---
-title: StructureAttribute.SetRectangleValue
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة StructureAttribute. تعيين قيمة المستطيل
+title: "StructureAttribute.SetRectangleValue"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة StructureAttribute. تضبط قيمة المستطيل"
 type: docs
 weight: 140
 url: /ar/net/aspose.pdf.logicalstructure/structureattribute/setrectanglevalue/
 ---
-## طريقة StructureAttribute.SetRectangleValue
+## StructureAttribute.SetRectangleValue method
 
-تعيين قيمة المستطيل.
+يضبط مستطيل القيمة.
 
 ```csharp
 public void SetRectangleValue(Rectangle rectangle)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| rectangle | Rectangle | المستطيل. |
+| مستطيل | Rectangle | مستطيل. |
 
 ### انظر أيضًا
 
@@ -24,3 +24,5 @@ public void SetRectangleValue(Rectangle rectangle)
 * class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

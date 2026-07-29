@@ -1,20 +1,20 @@
 ---
-title: Optimizer.Process
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة المحسن. تبدأ معالجة المحسن بالمعلمات المحددة
+title: "Optimizer.Process"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Optimizer method. يبدأ معالجة Optimizer بالمعلمات المحددة"
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.plugins/optimizer/process/
 ---
-## طريقة Optimizer.Process
+## Optimizer.Process method
 
-تبدأ معالجة [`Optimizer`](../) بالمعلمات المحددة.
+يبدأ معالجة [`Optimizer`](../) بالمعلمات المحددة.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | options | IPluginOptions | كائن خيارات يحتوي على تعليمات لـ [`Optimizer`](../). |
 
@@ -24,7 +24,7 @@ public ResultContainer Process(IPluginOptions options)
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
 | InvalidOperationException |  |
 
@@ -35,3 +35,5 @@ public ResultContainer Process(IPluginOptions options)
 * class [Optimizer](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

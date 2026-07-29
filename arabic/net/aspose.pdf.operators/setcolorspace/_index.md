@@ -1,42 +1,44 @@
 ---
-title: Class SetColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: فئة Aspose.Pdf.Operators.SetColorSpace. فئة تمثل مشغل cs لتعيين مساحة الألوان للعمليات غير المرسومة
+title: "الفئة SetColorSpace"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "Aspose.Pdf.Operators.SetColorSpace فئة. الفئة التي تمثل عامل cs لتعيين مساحة اللون للعمليات غير الخطية"
 type: docs
-weight: 7660
+weight: 7800
 url: /ar/net/aspose.pdf.operators/setcolorspace/
 ---
 ## SetColorSpace class
 
-فئة تمثل مشغل cs (تعيين مساحة الألوان للعمليات غير المرسومة)
+الفئة التي تمثل المشغل cs (تعيين مساحة اللون للعمليات غير المتسلسلة).
 
 ```csharp
 public class SetColorSpace : Operator
 ```
 
-## Constructors
+## المنشئات
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [SetColorSpace](setcolorspace/)(string) | يقوم بتهيئة المشغل. |
+| [SetColorSpace](setcolorspace/)(string) | يُهيئ العامل. |
 
-## Properties
+## الخصائص
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس المشغل في قائمة مشغلات الصفحة. |
-| [Name](../../aspose.pdf.operators/setcolorspace/name/) { get; set; } | يحصل على اسم مساحة الألوان أو يعيّنه. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | فهرس العامل في قائمة عوامل الصفحة. |
+| [Name](../../aspose.pdf.operators/setcolorspace/name/) { get; set; } | يحصل أو يعيّن اسم مساحة اللون. |
 
-## Methods
+## الطرق
 
-| Name | Description |
+| الاسم | الوصف |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcolorspace/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة المشغل. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | يعيد نص المشغل ومعامله. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذه النسخة مع الكائن المعطى. |
+| override [Accept](../../aspose.pdf.operators/setcolorspace/accept/)(IOperatorSelector) | يقبل كائن الزائر لمعالجة العامل. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | يرجع نص العامل ومعامِله. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | يقارن هذا الكائن بالكيان المعطى. |
 
-### See Also
+### انظر أيضًا
 
 * class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

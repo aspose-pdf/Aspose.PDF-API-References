@@ -1,27 +1,27 @@
 ---
-title: PDF3DView.PDF3DView
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ PDF3DView. يقوم بتهيئة مثيل جديد من فئة PDF3DView
+title: "PDF3DView.PDF3DView"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "منشئ PDF3DView. يهيئ نسخة جديدة من الفئة PDF3DView"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.annotations/pdf3dview/pdf3dview/
 ---
 ## PDF3DView(Document, Matrix3D, double, string) {#constructor_1}
 
-يقوم بتهيئة مثيل جديد من فئة [`PDF3DView`](../).
+يهيئ نسخة جديدة من الفئة [`PDF3DView`](../).
 
 ```csharp
 public PDF3DView(Document doc, Matrix3D cameraPosition, double cameraOrbit, string viewName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | doc | Document | المستند. |
 | cameraPosition | Matrix3D | موضع الكاميرا. |
 | cameraOrbit | Double | مدار الكاميرا. |
 | viewName | String | اسم العرض. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [Matrix3D](../../../aspose.pdf/matrix3d/)
@@ -33,21 +33,23 @@ public PDF3DView(Document doc, Matrix3D cameraPosition, double cameraOrbit, stri
 
 ## PDF3DView(Document, PDF3DView, string) {#constructor}
 
-يقوم بتهيئة مثيل جديد من فئة [`PDF3DView`](../).
+يهيئ نسخة جديدة من الفئة [`PDF3DView`](../).
 
 ```csharp
 public PDF3DView(Document doc, PDF3DView view, string viewName)
 ```
 
-| Parameter | Type | Description |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | doc | Document | المستند. |
 | view | PDF3DView | العرض. |
 | viewName | String | اسم العرض. |
 
-### See Also
+### انظر أيضًا
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PDF3DView](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

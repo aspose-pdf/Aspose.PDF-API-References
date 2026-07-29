@@ -1,23 +1,23 @@
 ---
-title: ThumbnailDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة ThumbnailDevice. تقوم بتحويل الصفحة إلى صورة مصغرة بصيغة png وتخزينها في تدفق الإخراج
+title: "ThumbnailDevice.Process"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة ThumbnailDevice. تحول الصفحة إلى صورة مصغرة بصيغة png وتحفظها في تدفق الإخراج."
 type: docs
 weight: 20
 url: /ar/net/aspose.pdf.devices/thumbnaildevice/process/
 ---
-## طريقة ThumbnailDevice.Process
+## ThumbnailDevice.Process method
 
-تقوم بتحويل الصفحة إلى صورة مصغرة بصيغة png وتخزينها في تدفق الإخراج.
+يحوِّل الصفحة إلى صورة مصغرة بصيغة png ويحفظها في تدفق الإخراج.
 
 ```csharp
 public override void Process(Page page, Stream output)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| page | Page | الصفحة التي سيتم تحويلها. |
-| output | Stream | تدفق الإخراج مع صورة png. |
+| صفحة | صفحة | الصفحة للتحويل. |
+| الإخراج | Stream | تدفق الإخراج مع صورة png. |
 
 ### انظر أيضًا
 
@@ -25,3 +25,5 @@ public override void Process(Page page, Stream output)
 * class [ThumbnailDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

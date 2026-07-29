@@ -1,25 +1,27 @@
 ---
-title: XfaParserOptions.XfaParserOptions
-second_title: Aspose.PDF for .NET API Reference
-description: مُنشئ XfaParserOptions. يُهيئ مثيلًا جديدًا من فئة XfaParserOptions
+title: "XfaParserOptions.XfaParserOptions"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "XfaParserOptions المُنشئ. يُهيئ نسخة جديدة من الفئة XfaParserOptions"
 type: docs
 weight: 10
 url: /ar/net/aspose.pdf.xfaconverter/xfaparseroptions/xfaparseroptions/
 ---
-## مُنشئ XfaParserOptions
+## XfaParserOptions constructor
 
-يُهيئ مثيلًا جديدًا من فئة [`XfaParserOptions`](../).
+يُهيئ نسخة جديدة من الفئة [`XfaParserOptions`](../).
 
 ```csharp
 public XfaParserOptions(SizeF pageSize)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
 | pageSize | SizeF | حجم الصفحة. |
 
 ### انظر أيضًا
 
-* فئة [XfaParserOptions](../)
-* مساحة الأسماء [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
-* التجميع [Aspose.PDF](../../../)
+* class [XfaParserOptions](../)
+* namespace [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
+* assembly [Aspose.PDF](../../../)
+
+

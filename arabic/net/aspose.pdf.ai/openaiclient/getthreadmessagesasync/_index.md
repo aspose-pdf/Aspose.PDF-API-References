@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetThreadMessagesAsync
-second_title: Aspose.PDF for .NET API Reference
-description: طريقة OpenAIClient. تسترجع قائمة بالرسائل لثريد محدد بشكل غير متزامن
+title: "OpenAIClient.GetThreadMessagesAsync"
+second_title: "مرجع API لـ Aspose.PDF لـ .NET"
+description: "طريقة OpenAIClient. تسترجع قائمة من الرسائل لخيط محدد بشكل غير متزامن"
 type: docs
-weight: 320
+weight: 330
 url: /ar/net/aspose.pdf.ai/openaiclient/getthreadmessagesasync/
 ---
-## طريقة OpenAIClient.GetThreadMessagesAsync
+## OpenAIClient.GetThreadMessagesAsync method
 
-تسترجع قائمة بالرسائل لثريد محدد بشكل غير متزامن.
+يسترجع قائمة بالرسائل لخيط محدد بشكل غير متزامن.
 
 ```csharp
 public Task<ThreadMessageListResponse> GetThreadMessagesAsync(string threadId, 
@@ -16,21 +16,21 @@ public Task<ThreadMessageListResponse> GetThreadMessagesAsync(string threadId,
     CancellationToken? cancellationToken = default)
 ```
 
-| المعامل | النوع | الوصف |
+| معامل | النوع | الوصف |
 | --- | --- | --- |
-| threadId | String | معرف الثريد لاسترجاع الرسائل منه. |
+| threadId | String | معرّف الخيط لاسترجاع الرسائل منه. |
 | queryParameters | ThreadMessageListQueryParameters | معلمات استعلام اختيارية لتصفية قائمة الرسائل. |
 | cancellationToken | Nullable`1 | رمز لإلغاء العملية. |
 
 ### قيمة الإرجاع
 
-مهمة تمثل العملية غير المتزامنة. تحتوي نتيجة المهمة على قائمة برسائل الثريد.
+مهمة تمثل العملية غير المتزامنة. يحتوي نتيجة المهمة على قائمة من رسائل الخيط.
 
 ### الاستثناءات
 
-| الاستثناء | الشرط |
+| استثناء | شرط |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | يتم طرحه عندما يكون معرف الثريد فارغًا أو null. |
+| [AIClientException](../../aiclientexception/) | يُرمى عندما يكون معرّف الخيط فارغًا أو null. |
 
 ### انظر أيضًا
 
@@ -39,3 +39,5 @@ public Task<ThreadMessageListResponse> GetThreadMessagesAsync(string threadId,
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+
