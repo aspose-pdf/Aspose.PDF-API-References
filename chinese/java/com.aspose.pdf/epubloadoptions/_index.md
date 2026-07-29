@@ -1,280 +1,143 @@
 ---
-title: EpubLoadOptions
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 包含用于将 EPUB 文件加载/导入 pdf 文档的选项。
+title: "EpubLoadOptions"
+linktitle: "EpubLoadOptions"
+second_title: "Aspose.PDF for Java API 参考"
+description: "包含将 EPUB 文件加载/导入到 pdf 文档的选项。"
 type: docs
-weight: 99
+weight: 1220
 url: /zh/java/com.aspose.pdf/epubloadoptions/
 ---
-**遗产：**
-java.lang.Object, [com.aspose.pdf.LoadOptions](../../com.aspose.pdf/loadoptions)
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.LoadOptions com.aspose.pdf.EpubLoadOptions, com.aspose.pdf.LoadOptions, com.aspose.pdf.EpubLoadOptions
+
 ```
 public final class EpubLoadOptions extends LoadOptions
 ```
 
-包含用于将 EPUB 文件加载/导入 pdf 文档的选项。
+包含将 EPUB 文件加载/导入到 pdf 文档的选项。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [EpubLoadOptions()](#EpubLoadOptions--) | 创建用于将 EPUB 文件转换为 pdf 文档的默认加载选项。 |
-| [EpubLoadOptions(Dimension2D pageSize)](#EpubLoadOptions-java.awt.geom.Dimension2D-) | 创建具有指定页面大小的加载选项。 |
+| [EpubLoadOptions](#EpubLoadOptions--) | 创建用于将 EPUB 文件转换为 PDF 文档的默认加载选项。默认 PDF 页面尺寸 - A4 300dpi 2480 × 3508。 |
+| [EpubLoadOptions](#EpubLoadOptions-java.awt.geom.Dimension2D-) | 创建用于将 EPUB 文件转换为 PDF 文档的默认加载选项。默认 PDF 页面尺寸 - A4 300dpi 2480 × 3508。 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getLoadFormat()](#getLoadFormat--) | 表示 LoadOptions 描述的文件格式。 |
-| [getMargin()](#getMargin--) | 获取代表保证金信息的对象的引用。 |
-| [getMarginsAreaUsageMode()](#getMarginsAreaUsageMode--) | 表示边距区域的使用模式 - 定义与边距使用相关的导入文档的 CSS 指令（如果有的话）的处理。 |
-| [getPageSize()](#getPageSize--) | 获取导入的输出页面大小。 |
-| [getPageSizeAdjustmentMode()](#getPageSizeAdjustmentMode--) | 注意力！ |
-| [getWarningHandler()](#getWarningHandler--) | 回调以处理生成的任何警告。 |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setMargin(MarginInfo value)](#setMargin-com.aspose.pdf.MarginInfo-) | 获取代表保证金信息的对象的引用。 |
-| [setMarginsAreaUsageMode(int marginsAreaUsageMode)](#setMarginsAreaUsageMode-int-) | 表示边距区域的使用模式 - 定义与边距使用相关的导入文档的 CSS 指令（如果有的话）的处理。 |
-| [setPageSizeAdjustmentMode(int pageSizeAdjustmentMode)](#setPageSizeAdjustmentMode-int-) | 注意力！ |
-| [setWarningHandler(WarningCallback value)](#setWarningHandler-com.aspose.pdf.WarningCallback-) | 回调以处理生成的任何警告。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### EpubLoadOptions() {#EpubLoadOptions--}
+| [getCustomCss](#getCustomCss--) | 获取或设置在打开 EPUB 文档时要应用的自定义 Css。 |
+| [getEngineType](#getEngineType--) | 选择 EPUB 转 PDF 的引擎类型，默认是 EngineType.NEW |
+| [getMargin](#getMargin--) | 获取表示边距信息的对象引用。 |
+| [getMarginsAreaUsageMode](#getMarginsAreaUsageMode--) | 表示边距区域的使用模式——定义对导入文档中与边距使用相关的 CSS 指令（如果有）的处理方式。 |
+| [getPageSize](#getPageSize--) | 获取导入的输出页面尺寸。 |
+| [getPageSizeAdjustmentMode](#getPageSizeAdjustmentMode--) | 注意！该功能已实现，但由于在 OSHARED 层发现阻塞问题，尚未放入公共 API，适用于示例文档。表示在转换期间使用页面大小的模式。格式（如 HTML、EPUB 等）通常采用浮动设计，因此它允许适配所需的页面大小。但有时内容指定了水平位置或尺寸，导致无法放入所需的页面大小。在这种情况下，我们可以定义应如何处理（即当内容大小不符合结果 PDF 文档的初始页面大小时）。 |
+| [setCustomCss](#setCustomCss-java.lang.String-) | 获取或设置在打开 EPUB 文档时要应用的自定义 Css。 |
+| [setEngineType](#setEngineType-com.aspose.pdf.EpubLoadOptions.EngineType-) | 选择 EPUB 转 PDF 的引擎类型，默认是 EngineType.NEW |
+| [setMargin](#setMargin-com.aspose.pdf.MarginInfo-) | 获取表示边距信息的对象引用。 |
+| [setMarginsAreaUsageMode](#setMarginsAreaUsageMode-int-) | 表示边距区域的使用模式——定义对导入文档中与边距使用相关的 CSS 指令（如果有）的处理方式。 |
+| [setPageSizeAdjustmentMode](#setPageSizeAdjustmentMode-int-) | 注意！该功能已实现，但由于在 OSHARED 层发现阻塞问题，尚未放入公共 API，适用于示例文档。表示在转换期间使用页面大小的模式。格式（如 HTML、EPUB 等）通常采用浮动设计，因此它允许适配所需的页面大小。但有时内容指定了水平位置或尺寸，导致无法放入所需的页面大小。在这种情况下，我们可以定义应如何处理（即当内容大小不符合结果 PDF 文档的初始页面大小时）。 |
+
+### EpubLoadOptions {#EpubLoadOptions--}
 ```
 public EpubLoadOptions()
 ```
 
+创建用于将 EPUB 文件转换为 PDF 文档的默认加载选项。默认 PDF 页面尺寸 - A4 300dpi 2480 × 3508。
 
-创建用于将 EPUB 文件转换为 pdf 文档的默认加载选项。默认 pdf 页面大小 - A4 300dpi 2480 X 3508。
+### EpubLoadOptions {#EpubLoadOptions-java.awt.geom.Dimension2D-}
+创建用于将 EPUB 文件转换为 PDF 文档的默认加载选项。默认 PDF 页面尺寸 - A4 300dpi 2480 × 3508。
 
-### EpubLoadOptions(Dimension2D pageSize) {#EpubLoadOptions-java.awt.geom.Dimension2D-}
+### getCustomCss {#getCustomCss--}
 ```
-public EpubLoadOptions(Dimension2D pageSize)
-```
-
-
-创建具有指定页面大小的加载选项。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| pageSize | java.awt.geom.Dimension2D | 定义 pdf 页面宽度和高度。 |
-
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
+public final String getCustomCss()
 ```
 
+获取或设置在打开 EPUB 文档时要应用的自定义 Css。
 
+**Returns:**
+字符串值
 
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getClass() {#getClass--}
+### getEngineType {#getEngineType--}
 ```
-public final native Class<?> getClass()
+public EpubLoadOptions.EngineType getEngineType()
 ```
 
+选择 EPUB 转 PDF 的引擎类型，默认是 EngineType.NEW
 
+**Returns:**
+EngineType 元素
 
-
-**退货：**
-java.lang.Class<?>
-### getLoadFormat() {#getLoadFormat--}
-```
-public LoadFormat getLoadFormat()
-```
-
-
-表示 LoadOptions 描述的文件格式。
-
-**退货：**
-[LoadFormat](../../com.aspose.pdf/loadformat) - LoadFormat 元素
-### getMargin() {#getMargin--}
+### getMargin {#getMargin--}
 ```
 public MarginInfo getMargin()
 ```
 
+获取表示边距信息的对象引用。
 
-获取代表保证金信息的对象的引用。
+**Returns:**
+MarginInfo 对象
 
-**退货：**
-[MarginInfo](../../com.aspose.pdf/margininfo) MarginInfo 对象
-### getMarginsAreaUsageMode() {#getMarginsAreaUsageMode--}
+### getMarginsAreaUsageMode {#getMarginsAreaUsageMode--}
 ```
 public int getMarginsAreaUsageMode()
 ```
 
+表示边距区域的使用模式——定义对导入文档中与边距使用相关的 CSS 指令（如果有）的处理方式。
 
-表示边距区域的使用模式 - 定义与边距使用相关的导入文档的 CSS 指令（如果有的话）的处理。
+**Returns:**
+MarginsAreaUsageModes 值 @see MarginsAreaUsageModes
 
-**退货：**
-int - MarginsAreaUsageModes 值
-### getPageSize() {#getPageSize--}
+### getPageSize {#getPageSize--}
 ```
 public Dimension2D getPageSize()
 ```
 
+获取导入的输出页面尺寸。
 
-获取导入的输出页面大小。
+**Returns:**
+Dimension2D 对象
 
-**退货：**
-java.awt.geom.Dimension2D - Dimension2D 对象
-### getPageSizeAdjustmentMode() {#getPageSizeAdjustmentMode--}
+### getPageSizeAdjustmentMode {#getPageSizeAdjustmentMode--}
 ```
 public int getPageSizeAdjustmentMode()
 ```
 
+注意！该功能已实现，但由于在 OSHARED 层发现阻塞问题，尚未放入公共 API，适用于示例文档。表示在转换期间使用页面大小的模式。格式（如 HTML、EPUB 等）通常采用浮动设计，因此它允许适配所需的页面大小。但有时内容指定了水平位置或尺寸，导致无法放入所需的页面大小。在这种情况下，我们可以定义应如何处理（即当内容大小不符合结果 PDF 文档的初始页面大小时）。
 
-注意力！该功能已实现但尚未发布到公共 API，因为示例文档显示了 OSHARED 层中的阻止程序问题。表示转换期间页面大小的使用模式。格式（如 HTML、EPUB 等）通常采用浮动设计，因此可以适应所需的页面大小。但有时内容已指定水平位置或大小，不允许将内容放入所需的页面大小。在这种情况下，我们可以定义在这种情况下应该做什么（即当内容大小不适合结果 PDF 文档所需的初始页面大小时）。
+**Returns:**
+PageSizeAdjustmentModes 值 @see PageSizeAdjustmentModes
 
-**退货：**
-int - PageSizeAdjustmentModes 值
-### getWarningHandler() {#getWarningHandler--}
-```
-public WarningCallback getWarningHandler()
-```
+### setCustomCss {#setCustomCss-java.lang.String-}
+获取或设置在打开 EPUB 文档时要应用的自定义 Css。
 
+### setEngineType {#setEngineType-com.aspose.pdf.EpubLoadOptions.EngineType-}
+选择 EPUB 转 PDF 的引擎类型，默认是 EngineType.NEW
 
-回调以处理生成的任何警告。 WarningHandler 返回指定 Continue 或 Abort 的 ReturnAction 枚举项。 Continue 是默认操作，Load 操作继续，但是用户也可以返回 Abort，在这种情况下 Load 操作应该停止。
+### setMargin {#setMargin-com.aspose.pdf.MarginInfo-}
+获取表示边距信息的对象引用。
 
-**退货：**
-[WarningCallback](../../com.aspose.pdf/warningcallback) - IWarningCallback 值
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setMargin(MarginInfo value) {#setMargin-com.aspose.pdf.MarginInfo-}
-```
-public final void setMargin(MarginInfo value)
-```
-
-
-获取代表保证金信息的对象的引用。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [MarginInfo](../../com.aspose.pdf/margininfo) | MarginInfo 对象 |
-
-### setMarginsAreaUsageMode(int marginsAreaUsageMode) {#setMarginsAreaUsageMode-int-}
+### setMarginsAreaUsageMode {#setMarginsAreaUsageMode-int-}
 ```
 public void setMarginsAreaUsageMode(int marginsAreaUsageMode)
 ```
 
+表示边距区域的使用模式——定义对导入文档中与边距使用相关的 CSS 指令（如果有）的处理方式。
 
-表示边距区域的使用模式 - 定义与边距使用相关的导入文档的 CSS 指令（如果有的话）的处理。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| marginsAreaUsageMode | int | MarginsAreaUsageModes 值 |
+| marginsAreaUsageMode |  | MarginsAreaUsageModes 值 @see MarginsAreaUsageModes |
 
-### setPageSizeAdjustmentMode(int pageSizeAdjustmentMode) {#setPageSizeAdjustmentMode-int-}
+### setPageSizeAdjustmentMode {#setPageSizeAdjustmentMode-int-}
 ```
 public void setPageSizeAdjustmentMode(int pageSizeAdjustmentMode)
 ```
 
+注意！该功能已实现，但由于在 OSHARED 层发现阻塞问题，尚未放入公共 API，适用于示例文档。表示在转换期间使用页面大小的模式。格式（如 HTML、EPUB 等）通常采用浮动设计，因此它允许适配所需的页面大小。但有时内容指定了水平位置或尺寸，导致无法放入所需的页面大小。在这种情况下，我们可以定义应如何处理（即当内容大小不符合结果 PDF 文档的初始页面大小时）。
 
-注意力！该功能已实现但尚未发布到公共 API，因为示例文档显示了 OSHARED 层中的阻止程序问题。表示转换期间页面大小的使用模式。格式（如 HTML、EPUB 等）通常采用浮动设计，因此可以适应所需的页面大小。但有时内容已指定水平位置或大小，不允许将内容放入所需的页面大小。在这种情况下，我们可以定义在这种情况下应该做什么（即当内容大小不适合结果 PDF 文档所需的初始页面大小时）。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pageSizeAdjustmentMode | int | PageSizeAdjustmentModes 值 |
-
-### setWarningHandler(WarningCallback value) {#setWarningHandler-com.aspose.pdf.WarningCallback-}
-```
-public void setWarningHandler(WarningCallback value)
-```
-
-
-回调以处理生成的任何警告。 WarningHandler 返回指定 Continue 或 Abort 的 ReturnAction 枚举项。 Continue 是默认操作，Load 操作继续，但是用户也可以返回 Abort，在这种情况下 Load 操作应该停止。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [WarningCallback](../../com.aspose.pdf/warningcallback) | IWarningCallback 值 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| pageSizeAdjustmentMode |  | PageSizeAdjustmentModes 值 @see PageSizeAdjustmentModes |

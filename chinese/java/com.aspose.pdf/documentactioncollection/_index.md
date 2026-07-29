@@ -1,275 +1,106 @@
 ---
-title: DocumentActionCollection
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 类描述对文档的某些操作执行的操作
+title: "DocumentActionCollection"
+linktitle: "DocumentActionCollection"
+second_title: "Aspose.PDF for Java API 参考"
+description: "描述对文档执行的某些操作的类"
 type: docs
-weight: 92
+weight: 1130
 url: /zh/java/com.aspose.pdf/documentactioncollection/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.DocumentActionCollection
+
 ```
-public final class DocumentActionCollection
+public final class DocumentActionCollection extends Object
 ```
 
-类描述对文档的某些操作执行的操作
+描述对文档执行的某些操作的类
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [DocumentActionCollection(IDocument document)](#DocumentActionCollection-com.aspose.pdf.IDocument-) | DocumentActionCollection 的构造函数。 |
+| [DocumentActionCollection](#DocumentActionCollection-com.aspose.pdf.IDocument-) | DocumentActionCollection 的构造函数。从 Pdf.Kit.Engine 文档对象构建 DocumentActionCollection 对象。 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getAfterPrinting()](#getAfterPrinting--) | 文档打印后将执行的操作。 |
-| [getAfterSaving()](#getAfterSaving--) | 获取将在文档保存后执行的操作。 |
-| [getBeforeClosing()](#getBeforeClosing--) | 获取将在文档关闭之前执行的操作。 |
-| [getBeforePrinting()](#getBeforePrinting--) | 将在文档打印之前执行的操作。 |
-| [getBeforeSaving()](#getBeforeSaving--) | 获取文档保存前执行的操作。 |
-| [getClass()](#getClass--) |  |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setAfterPrinting(PdfAction value)](#setAfterPrinting-com.aspose.pdf.PdfAction-) | 文档打印后将执行的操作。 |
-| [setAfterSaving(PdfAction value)](#setAfterSaving-com.aspose.pdf.PdfAction-) | 设置将在文档保存后执行的操作。 |
-| [setBeforeClosing(PdfAction value)](#setBeforeClosing-com.aspose.pdf.PdfAction-) | 设置将在文档关闭之前执行的操作。 |
-| [setBeforePrinting(PdfAction value)](#setBeforePrinting-com.aspose.pdf.PdfAction-) | 将在文档打印之前执行的操作。 |
-| [setBeforeSaving(PdfAction value)](#setBeforeSaving-com.aspose.pdf.PdfAction-) | 设置文档保存前执行的操作。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### DocumentActionCollection(IDocument document) {#DocumentActionCollection-com.aspose.pdf.IDocument-}
-```
-public DocumentActionCollection(IDocument document)
-```
+| [getAfterPrinting](#getAfterPrinting--) | 文档打印后将执行的操作。 |
+| [getAfterSaving](#getAfterSaving--) | 获取文档保存后将执行的操作。 |
+| [getBeforeClosing](#getBeforeClosing--) | 获取在 documetn 关闭之前将执行的操作。 |
+| [getBeforePrinting](#getBeforePrinting--) | 文档打印前将执行的操作。 |
+| [getBeforeSaving](#getBeforeSaving--) | 获取文档保存前执行的操作。 |
+| [setAfterPrinting](#setAfterPrinting-com.aspose.pdf.PdfAction-) | 文档打印后将执行的操作。 |
+| [setAfterSaving](#setAfterSaving-com.aspose.pdf.PdfAction-) | 设置文档保存后将执行的操作。 |
+| [setBeforeClosing](#setBeforeClosing-com.aspose.pdf.PdfAction-) | 设置将在文档关闭前执行的操作。 |
+| [setBeforePrinting](#setBeforePrinting-com.aspose.pdf.PdfAction-) | 文档打印前将执行的操作。 |
+| [setBeforeSaving](#setBeforeSaving-com.aspose.pdf.PdfAction-) | 设置在文档保存前执行的操作。 |
 
+### DocumentActionCollection {#DocumentActionCollection-com.aspose.pdf.IDocument-}
+DocumentActionCollection 的构造函数。从 Pdf.Kit.Engine 文档对象构建 DocumentActionCollection 对象。
 
-DocumentActionCollection 的构造函数。从 Pdf.Kit.Engine Document 对象构造 DocumentActionCollection 对象。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| document | [IDocument](../../com.aspose.pdf/idocument) | 为其创建操作集合的文档。 |
-
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getAfterPrinting() {#getAfterPrinting--}
+### getAfterPrinting {#getAfterPrinting--}
 ```
 public PdfAction getAfterPrinting()
 ```
 
-
 文档打印后将执行的操作。
 
-**退货：**
-[PdfAction](../../com.aspose.pdf/pdfaction) - 打印后的 PdfAction
-### getAfterSaving() {#getAfterSaving--}
+**Returns:**
+PdfAction 打印后
+
+### getAfterSaving {#getAfterSaving--}
 ```
 public PdfAction getAfterSaving()
 ```
 
+获取文档保存后将执行的操作。
 
-获取将在文档保存后执行的操作。
+**Returns:**
+PdfAction 对象
 
-**退货：**
-[PdfAction](../../com.aspose.pdf/pdfaction) -PdfAction 对象
-### getBeforeClosing() {#getBeforeClosing--}
+### getBeforeClosing {#getBeforeClosing--}
 ```
 public PdfAction getBeforeClosing()
 ```
 
+获取在 documetn 关闭之前将执行的操作。
 
-获取将在文档关闭之前执行的操作。
+**Returns:**
+PdfAction 对象
 
-**退货：**
-[PdfAction](../../com.aspose.pdf/pdfaction) -PdfAction 对象
-### getBeforePrinting() {#getBeforePrinting--}
+### getBeforePrinting {#getBeforePrinting--}
 ```
 public PdfAction getBeforePrinting()
 ```
 
+文档打印前将执行的操作。
 
-将在文档打印之前执行的操作。
+**Returns:**
+PdfAction 打印前
 
-**退货：**
-[PdfAction](../../com.aspose.pdf/pdfaction) - 打印前的 PdfAction
-### getBeforeSaving() {#getBeforeSaving--}
+### getBeforeSaving {#getBeforeSaving--}
 ```
 public PdfAction getBeforeSaving()
 ```
 
-
 获取文档保存前执行的操作。
 
-**退货：**
-[PdfAction](../../com.aspose.pdf/pdfaction) -PdfAction 对象
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
+**Returns:**
+PdfAction 对象
 
-
-
-
-**退货：**
-java.lang.Class<?>
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setAfterPrinting(PdfAction value) {#setAfterPrinting-com.aspose.pdf.PdfAction-}
-```
-public void setAfterPrinting(PdfAction value)
-```
-
-
+### setAfterPrinting {#setAfterPrinting-com.aspose.pdf.PdfAction-}
 文档打印后将执行的操作。
 
-**参数：**
+### setAfterSaving {#setAfterSaving-com.aspose.pdf.PdfAction-}
+设置文档保存后将执行的操作。
 
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [PdfAction](../../com.aspose.pdf/pdfaction) | 打印后的 PdfAction |
+### setBeforeClosing {#setBeforeClosing-com.aspose.pdf.PdfAction-}
+设置将在文档关闭前执行的操作。
 
-### setAfterSaving(PdfAction value) {#setAfterSaving-com.aspose.pdf.PdfAction-}
-```
-public void setAfterSaving(PdfAction value)
-```
+### setBeforePrinting {#setBeforePrinting-com.aspose.pdf.PdfAction-}
+文档打印前将执行的操作。
 
-
-设置将在文档保存后执行的操作。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [PdfAction](../../com.aspose.pdf/pdfaction) | PdfAction 对象 |
-
-### setBeforeClosing(PdfAction value) {#setBeforeClosing-com.aspose.pdf.PdfAction-}
-```
-public void setBeforeClosing(PdfAction value)
-```
-
-
-设置将在文档关闭之前执行的操作。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [PdfAction](../../com.aspose.pdf/pdfaction) | PdfAction 对象 |
-
-### setBeforePrinting(PdfAction value) {#setBeforePrinting-com.aspose.pdf.PdfAction-}
-```
-public void setBeforePrinting(PdfAction value)
-```
-
-
-将在文档打印之前执行的操作。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [PdfAction](../../com.aspose.pdf/pdfaction) | 打印前的 PdfAction |
-
-### setBeforeSaving(PdfAction value) {#setBeforeSaving-com.aspose.pdf.PdfAction-}
-```
-public void setBeforeSaving(PdfAction value)
-```
-
-
-设置文档保存前执行的操作。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [PdfAction](../../com.aspose.pdf/pdfaction) | PdfAction 对象 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+### setBeforeSaving {#setBeforeSaving-com.aspose.pdf.PdfAction-}
+设置在文档保存前执行的操作。

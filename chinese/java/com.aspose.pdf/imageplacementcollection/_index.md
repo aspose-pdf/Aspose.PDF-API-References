@@ -1,275 +1,120 @@
 ---
-title: ImagePlacementCollection
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 表示一个图片展示位置集合
+title: "ImagePlacementCollection"
+linktitle: "ImagePlacementCollection"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示图像放置集合"
 type: docs
-weight: 173
+weight: 2350
 url: /zh/java/com.aspose.pdf/imageplacementcollection/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.ImagePlacementCollection
 
-**所有已实现的接口：**
-java.lang.Iterable
+**All Implemented Interfaces:**
+Iterable < ImagePlacement >
+
 ```
-public final class ImagePlacementCollection implements Iterable<ImagePlacement>
+public final class ImagePlacementCollection extends Object implements Iterable < ImagePlacement >
 ```
 
-表示一个图片展示位置集合
+表示图像放置集合
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [add(ImagePlacement fragment)](#add-com.aspose.pdf.ImagePlacement-) | 在指定索引处添加文本片段元素。 |
-| [clear()](#clear--) | 清除集合中的所有项目。 |
-| [contains(ImagePlacement item)](#contains-com.aspose.pdf.ImagePlacement-) | 确定集合是否包含特定值。 |
-| [copyTo(ImagePlacement[] array, int index)](#copyTo-com.aspose.pdf.ImagePlacement---int-) | 将整个集合复制到兼容的一维数组，从目标数组的指定索引开始 |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getSyncRoot()](#getSyncRoot--) | 获取可用于同步对集合的访问的对象。 |
-| [get_Item(int index)](#get-Item-int-) | 获取指定索引处的文本片段元素。 |
-| [hashCode()](#hashCode--) |  |
-| [isReadOnly()](#isReadOnly--) | 获取一个值，该值指示集合是否为只读。 |
-| [isSynchronized()](#isSynchronized--) | 获取一个值，该值指示对集合的访问是否同步（线程安全）。 |
-| [iterator()](#iterator--) | 返回整个集合的枚举器。 |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [remove(ImagePlacement item)](#remove-com.aspose.pdf.ImagePlacement-) | 从集合中删除指定的项目 |
-| [size()](#size--) | 获取集合中实际包含的 ImagePlacement 对象元素的数量。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### add(ImagePlacement fragment) {#add-com.aspose.pdf.ImagePlacement-}
-```
-public void add(ImagePlacement fragment)
-```
+| [add](#add-com.aspose.pdf.ImagePlacement-) | 在指定的索引处添加文本片段元素。 |
+| [clear](#clear--) | 清除集合中的所有项。 |
+| [contains](#contains-com.aspose.pdf.ImagePlacement-) | 确定集合是否包含特定值。 |
+| [copyTo](#copyTo-com.aspose.pdf.ImagePlacement:A-int-) | 将整个集合复制到兼容的一维数组中，从目标数组的指定索引开始。 |
+| [get_Item](#get_Item-int-) | 获取指定索引处的文本片段元素。 |
+| [getSyncRoot](#getSyncRoot--) | 获取可用于同步访问集合的对象。 |
+| [isReadOnly](#isReadOnly--) | 获取一个值，指示集合是否为只读。 |
+| [isSynchronized](#isSynchronized--) | 获取指示对集合的访问是否已同步（线程安全）的值。 |
+| [iterator](#iterator--) | 返回整个集合的枚举器。 |
+| [remove](#remove-com.aspose.pdf.ImagePlacement-) | 从集合中删除指定项。 |
+| [size](#size--) | 获取集合中实际包含的 {@code ImagePlacement} 对象元素的数量。 |
 
+### add {#add-com.aspose.pdf.ImagePlacement-}
+在指定的索引处添加文本片段元素。
 
-在指定索引处添加文本片段元素。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| fragment | [ImagePlacement](../../com.aspose.pdf/imageplacement) | fragment 要添加的文本片段元素。 ImagePlacement 实例 |
-
-### clear() {#clear--}
+### clear {#clear--}
 ```
 public void clear()
 ```
 
+清除集合中的所有项。
 
-清除集合中的所有项目。
-
-### contains(ImagePlacement item) {#contains-com.aspose.pdf.ImagePlacement-}
-```
-public boolean contains(ImagePlacement item)
-```
-
-
+### contains {#contains-com.aspose.pdf.ImagePlacement-}
 确定集合是否包含特定值。
 
-**参数：**
+### copyTo {#copyTo-com.aspose.pdf.ImagePlacement:A-int-}
+将整个集合复制到兼容的一维数组中，从目标数组的指定索引开始。
 
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| item | [ImagePlacement](../../com.aspose.pdf/imageplacement) | 要在集合中定位的对象 |
-
-**退货：**
-boolean - 如果在集合中找到项目则为 true；否则，假的。
-### copyTo(ImagePlacement[] array, int index) {#copyTo-com.aspose.pdf.ImagePlacement---int-}
-```
-public void copyTo(ImagePlacement[] array, int index)
-```
-
-
-将整个集合复制到兼容的一维数组，从目标数组的指定索引开始
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| array | [ImagePlacement\[\]](../../com.aspose.pdf/imageplacement) | 将被复制的对象数组。 |
-| index | int | 将从其开始复制的起始索引。 |
-
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getSyncRoot() {#getSyncRoot--}
-```
-public Object getSyncRoot()
-```
-
-
-获取可用于同步对集合的访问的对象。
-
-**退货：**
-java.lang.Object - 同步对象
-### get_Item(int index) {#get-Item-int-}
+### get_Item {#get_Item-int-}
 ```
 public ImagePlacement get_Item(int index)
 ```
 
-
 获取指定索引处的文本片段元素。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| index | int | 图像放置索引。 |
+| 索引 |  | 图像放置的索引。 |
 
-**退货：**
-[ImagePlacement](../../com.aspose.pdf/imageplacement) - ImagePlacement 对象。
-### hashCode() {#hashCode--}
+**Returns:**
+ImagePlacement 对象。
+
+### getSyncRoot {#getSyncRoot--}
 ```
-public native int hashCode()
+public Object getSyncRoot()
 ```
 
+获取可用于同步访问集合的对象。
 
+**Returns:**
+用于同步的对象
 
-
-**退货：**
-整数
-### isReadOnly() {#isReadOnly--}
+### isReadOnly {#isReadOnly--}
 ```
 public boolean isReadOnly()
 ```
 
+获取一个值，指示集合是否为只读。
 
-获取一个值，该值指示集合是否为只读。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### isSynchronized() {#isSynchronized--}
+### isSynchronized {#isSynchronized--}
 ```
 public boolean isSynchronized()
 ```
 
+获取指示对集合的访问是否已同步（线程安全）的值。
 
-获取一个值，该值指示对集合的访问是否同步（线程安全）。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### iterator() {#iterator--}
+### iterator {#iterator--}
 ```
-public System.Collections.IEnumerator<ImagePlacement> iterator()
+public com.aspose.ms.System.Collections.IEnumerator< ImagePlacement > iterator()
 ```
-
 
 返回整个集合的枚举器。
 
-**退货：**
-com.aspose.ms.System.Collections.IEnumerator<com.aspose.pdf.ImagePlacement> - 枚举器对象。
-### notify() {#notify--}
-```
-public final native void notify()
-```
+**Returns:**
+Enumerator 对象。
 
+### remove {#remove-com.aspose.pdf.ImagePlacement-}
+从集合中删除指定项。
 
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### remove(ImagePlacement item) {#remove-com.aspose.pdf.ImagePlacement-}
-```
-public boolean remove(ImagePlacement item)
-```
-
-
-从集合中删除指定的项目
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| item | [ImagePlacement](../../com.aspose.pdf/imageplacement) | 要删除的项目 |
-
-**退货：**
-boolean - 如果项目被删除则为真；否则，假的。
-### size() {#size--}
+### size {#size--}
 ```
 public int size()
 ```
 
+获取集合中实际包含的 {@code ImagePlacement} 对象元素的数量。
 
-获取集合中实际包含的 ImagePlacement 对象元素的数量。
-
-**退货：**
-int - 整数值
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+**Returns:**
+int 值

@@ -1,437 +1,317 @@
 ---
-title: GraphInfo
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 表示图形信息。
+title: "GraphInfo"
+linktitle: "GraphInfo"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示图形信息。"
 type: docs
-weight: 147
+weight: 1840
 url: /zh/java/com.aspose.pdf/graphinfo/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.GraphInfo
 
-**所有已实现的接口：**
+**All Implemented Interfaces:**
 com.aspose.ms.System.ICloneable
+
 ```
-public final class GraphInfo implements System.ICloneable
+public final class GraphInfo extends Object implements com.aspose.ms.System.ICloneable
 ```
 
 表示图形信息。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [GraphInfo()](#GraphInfo--) |  |
+| [GraphInfo](#GraphInfo--) |  |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [deepClone()](#deepClone--) | 克隆图形信息。 |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getColor()](#getColor--) | 获取一个 Color 对象，该对象指示图形的颜色。 |
-| [getDashArray()](#getDashArray--) | 获取破折号数组。 |
-| [getDashPhase()](#getDashPhase--) | 获得破折号阶段。 |
-| [getFillColor()](#getFillColor--) | 获取一个 Color 对象，该对象指示图形的填充颜色。 |
-| [getLineWidth()](#getLineWidth--) | 获取一个浮点值，该值指示图形的线宽。 |
-| [getRotationAngle()](#getRotationAngle--) | 获取一个浮点值，表示变换坐标系时坐标系的旋转角度。 |
-| [getScalingRateX()](#getScalingRateX--) | 获取一个浮点值，该值表示变换坐标系时 x 坐标的缩放比例。 |
-| [getScalingRateY()](#getScalingRateY--) | 获取一个浮点值，表示坐标系变换时y坐标的缩放比例。 |
-| [getSkewAngleX()](#getSkewAngleX--) | 获取一个浮点值，该值指示变换坐标系时 x 坐标的倾斜角度。 |
-| [getSkewAngleY()](#getSkewAngleY--) | 获取一个浮点值，该值指示变换坐标系时 y 坐标的倾斜角度。 |
-| [hashCode()](#hashCode--) |  |
-| [isDoubled()](#isDoubled--) | 得到的是边框加倍。 |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setColor(Color value)](#setColor-com.aspose.pdf.Color-) | 设置指示图形颜色的 Color 对象。 |
-| [setDashArray(int[] value)](#setDashArray-int---) | 设置破折号数组。 |
-| [setDashPhase(int value)](#setDashPhase-int-) | 设置破折号阶段。 |
-| [setDoubled(boolean value)](#setDoubled-boolean-) | 设置边框加倍。 |
-| [setFillColor(Color value)](#setFillColor-com.aspose.pdf.Color-) | 设置一个 Color 对象，该对象指示图形的填充颜色。 |
-| [setLineWidth(float value)](#setLineWidth-float-) | 设置一个表示图形线宽的浮点值。 |
-| [setRotationAngle(double value)](#setRotationAngle-double-) | 设置一个浮点值，表示变换坐标系时坐标系的旋转角度。 |
-| [setScalingRateX(double value)](#setScalingRateX-double-) | 设置一个浮点值，表示变换坐标系时 x 坐标的缩放比例。 |
-| [setScalingRateY(double value)](#setScalingRateY-double-) | 设置一个浮点值，表示变换坐标系时 y 坐标的缩放比例。 |
-| [setSkewAngleX(double value)](#setSkewAngleX-double-) | 设置一个浮点值，表示变换坐标系时 x 坐标的倾斜角度。 |
-| [setSkewAngleY(double value)](#setSkewAngleY-double-) | 设置一个浮点值，表示变换坐标系时 y 坐标的倾斜角度。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### GraphInfo() {#GraphInfo--}
+| [deepClone](#deepClone--) | 克隆图形信息。 |
+| [getColor](#getColor--) | 获取一个 {@code Color} 对象，指示图形的颜色。 |
+| [getDashArray](#getDashArray--) | 获取虚线数组。 |
+| [getDashPhase](#getDashPhase--) | 获取虚线相位。 |
+| [getFillColor](#getFillColor--) | 获取一个 {@code Color} 对象，表示图形的填充颜色。 |
+| [getLineWidth](#getLineWidth--) | 获取一个 float 值，表示图形的线宽。 |
+| [getRotationAngle](#getRotationAngle--) | 获取一个 float 值，表示在转换坐标系时坐标系的旋转角度。 |
+| [getScalingRateX](#getScalingRateX--) | 获取一个 float 值，表示在转换坐标系时 x 坐标的缩放比例。 |
+| [getScalingRateY](#getScalingRateY--) | 获取一个 float 值，表示在转换坐标系时 y 坐标的缩放比例。 |
+| [getSkewAngleX](#getSkewAngleX--) | 获取一个 float 值，表示在转换坐标系时 x 坐标的倾斜角度。 |
+| [getSkewAngleY](#getSkewAngleY--) | 获取一个 float 值，表示在转换坐标系时 y 坐标的倾斜角度。 |
+| [getX](#getX--) | 在使用 TableAbsorber 时检索垂直边界的 X 坐标，对水平边界返回 "-1"。 |
+| [getY](#getY--) | 在使用 TableAbsorber 时检索水平边界的 Y 坐标，对垂直边界返回 "-1"。 |
+| [isDoubled](#isDoubled--) | 获取边框是否加倍。 |
+| [setColor](#setColor-com.aspose.pdf.Color-) | 设置一个 {@code Color} 对象，表示图形的颜色。 |
+| [setDashArray](#setDashArray-int:A-) | 设置虚线数组。 |
+| [setDashPhase](#setDashPhase-int-) | 设置虚线相位。 |
+| [setDoubled](#setDoubled-boolean-) | 设置边框是否加倍。 |
+| [setFillColor](#setFillColor-com.aspose.pdf.Color-) | 设置一个 {@code Color} 对象，表示图形的填充颜色。 |
+| [setLineWidth](#setLineWidth-float-) | 设置一个 float 值，表示图形的线宽。 |
+| [setRotationAngle](#setRotationAngle-double-) | 设置一个 float 值，表示在转换坐标系时坐标系的旋转角度。 |
+| [setScalingRateX](#setScalingRateX-double-) | 设置一个 float 值，表示在转换坐标系时 x 坐标的缩放比例。 |
+| [setScalingRateY](#setScalingRateY-double-) | 设置一个 float 值，表示在转换坐标系时 y 坐标的缩放比例。 |
+| [setSkewAngleX](#setSkewAngleX-double-) | 设置一个 float 值，表示在转换坐标系时 x 坐标的倾斜角度。 |
+| [setSkewAngleY](#setSkewAngleY-double-) | 设置一个 float 值，表示在转换坐标系时 y 坐标的倾斜角度。 |
+
+### GraphInfo {#GraphInfo--}
 ```
 public GraphInfo()
 ```
 
 
-### deepClone() {#deepClone--}
+
+### deepClone {#deepClone--}
 ```
 public Object deepClone()
 ```
 
-
 克隆图形信息。
 
-**退货：**
-java.lang.Object - 克隆的对象
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
+**Returns:**
+克隆的对象。
 
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getColor() {#getColor--}
+### getColor {#getColor--}
 ```
 public Color getColor()
 ```
 
+获取一个 {@code Color} 对象，指示图形的颜色。
 
-获取一个 Color 对象，该对象指示图形的颜色。
+**Returns:**
+表示颜色的对象
 
-**退货：**
-[Color](../../com.aspose.pdf/color) - 指示颜色的对象
-### getDashArray() {#getDashArray--}
+### getDashArray {#getDashArray--}
 ```
 public int[] getDashArray()
 ```
 
+获取虚线数组。
 
-获取破折号数组。
+**Returns:**
+虚线数组
 
-**退货：**
-整数[- 破折号数组
-### getDashPhase() {#getDashPhase--}
+### getDashPhase {#getDashPhase--}
 ```
 public int getDashPhase()
 ```
 
+获取虚线相位。
 
-获得破折号阶段。
+**Returns:**
+虚线相位。
 
-**退货：**
-int - 破折号阶段。
-### getFillColor() {#getFillColor--}
+### getFillColor {#getFillColor--}
 ```
 public Color getFillColor()
 ```
 
+获取一个 {@code Color} 对象，表示图形的填充颜色。
 
-获取一个 Color 对象，该对象指示图形的填充颜色。
+**Returns:**
+指示填充颜色的对象
 
-**退货：**
-[Color](../../com.aspose.pdf/color) - 指示填充颜色的对象
-### getLineWidth() {#getLineWidth--}
+### getLineWidth {#getLineWidth--}
 ```
 public float getLineWidth()
 ```
 
+获取一个 float 值，表示图形的线宽。
 
-获取一个浮点值，该值指示图形的线宽。
+**Returns:**
+指示线宽的值。
 
-**退货：**
-float - 表示线宽的值。
-### getRotationAngle() {#getRotationAngle--}
+### getRotationAngle {#getRotationAngle--}
 ```
 public double getRotationAngle()
 ```
 
+获取一个 float 值，表示在转换坐标系时坐标系的旋转角度。
 
-获取一个浮点值，表示变换坐标系时坐标系的旋转角度。
+**Returns:**
+double 值
 
-**退货：**
-双倍价值
-### getScalingRateX() {#getScalingRateX--}
+### getScalingRateX {#getScalingRateX--}
 ```
 public double getScalingRateX()
 ```
 
+获取一个 float 值，表示在转换坐标系时 x 坐标的缩放比例。
 
-获取一个浮点值，该值表示变换坐标系时 x 坐标的缩放比例。
+**Returns:**
+double 值
 
-**退货：**
-双倍价值
-### getScalingRateY() {#getScalingRateY--}
+### getScalingRateY {#getScalingRateY--}
 ```
 public double getScalingRateY()
 ```
 
+获取一个 float 值，表示在转换坐标系时 y 坐标的缩放比例。
 
-获取一个浮点值，表示坐标系变换时y坐标的缩放比例。
+**Returns:**
+double 值
 
-**退货：**
-双倍价值
-### getSkewAngleX() {#getSkewAngleX--}
+### getSkewAngleX {#getSkewAngleX--}
 ```
 public double getSkewAngleX()
 ```
 
+获取一个 float 值，表示在转换坐标系时 x 坐标的倾斜角度。
 
-获取一个浮点值，该值指示变换坐标系时 x 坐标的倾斜角度。
+**Returns:**
+double 值
 
-**退货：**
-双倍价值
-### getSkewAngleY() {#getSkewAngleY--}
+### getSkewAngleY {#getSkewAngleY--}
 ```
 public double getSkewAngleY()
 ```
 
+获取一个 float 值，表示在转换坐标系时 y 坐标的倾斜角度。
 
-获取一个浮点值，该值指示变换坐标系时 y 坐标的倾斜角度。
+**Returns:**
+double 值
 
-**退货：**
-双倍价值
-### hashCode() {#hashCode--}
+### getX {#getX--}
 ```
-public native int hashCode()
+public final double getX()
 ```
 
+在使用 TableAbsorber 时检索垂直边界的 X 坐标，对水平边界返回 "-1"。
 
+**Returns:**
+double 值
 
+### getY {#getY--}
+```
+public final double getY()
+```
 
-**退货：**
-整数
-### isDoubled() {#isDoubled--}
+在使用 TableAbsorber 时检索水平边界的 Y 坐标，对垂直边界返回 "-1"。
+
+**Returns:**
+double 值
+
+### isDoubled {#isDoubled--}
 ```
 public boolean isDoubled()
 ```
 
+获取边框是否加倍。
 
-得到的是边框加倍。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### notify() {#notify--}
-```
-public final native void notify()
-```
+### setColor {#setColor-com.aspose.pdf.Color-}
+设置一个 {@code Color} 对象，表示图形的颜色。
 
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setColor(Color value) {#setColor-com.aspose.pdf.Color-}
-```
-public void setColor(Color value)
-```
-
-
-设置指示图形颜色的 Color 对象。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [Color](../../com.aspose.pdf/color) | 表示颜色的物体 |
-
-### setDashArray(int[] value) {#setDashArray-int---}
+### setDashArray {#setDashArray-int:A-}
 ```
 public void setDashArray(int[] value)
 ```
 
+设置虚线数组。
 
-设置破折号数组。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int[] | 破折号数组 |
+| 值 |  | 虚线数组 |
 
-### setDashPhase(int value) {#setDashPhase-int-}
+### setDashPhase {#setDashPhase-int-}
 ```
 public void setDashPhase(int value)
 ```
 
+设置虚线相位。
 
-设置破折号阶段。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 破折号阶段。 |
+| 值 |  | 虚线相位。 |
 
-### setDoubled(boolean value) {#setDoubled-boolean-}
+### setDoubled {#setDoubled-boolean-}
 ```
 public void setDoubled(boolean value)
 ```
 
+设置边框是否加倍。
 
-设置边框加倍。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setFillColor(Color value) {#setFillColor-com.aspose.pdf.Color-}
-```
-public void setFillColor(Color value)
-```
+### setFillColor {#setFillColor-com.aspose.pdf.Color-}
+设置一个 {@code Color} 对象，表示图形的填充颜色。
 
-
-设置一个 Color 对象，该对象指示图形的填充颜色。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [Color](../../com.aspose.pdf/color) | 指示填充颜色的对象 |
-
-### setLineWidth(float value) {#setLineWidth-float-}
+### setLineWidth {#setLineWidth-float-}
 ```
 public void setLineWidth(float value)
 ```
 
+设置一个 float 值，表示图形的线宽。
 
-设置一个表示图形线宽的浮点值。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | float | 表示线宽的值。 |
+| 值 |  | 指示线宽的值。 |
 
-### setRotationAngle(double value) {#setRotationAngle-double-}
+### setRotationAngle {#setRotationAngle-double-}
 ```
 public void setRotationAngle(double value)
 ```
 
+设置一个 float 值，表示在转换坐标系时坐标系的旋转角度。
 
-设置一个浮点值，表示变换坐标系时坐标系的旋转角度。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 双倍价值 |
+| 值 |  | double 值 |
 
-### setScalingRateX(double value) {#setScalingRateX-double-}
+### setScalingRateX {#setScalingRateX-double-}
 ```
 public void setScalingRateX(double value)
 ```
 
+设置一个 float 值，表示在转换坐标系时 x 坐标的缩放比例。
 
-设置一个浮点值，表示变换坐标系时 x 坐标的缩放比例。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 双倍价值 |
+| 值 |  | double 值 |
 
-### setScalingRateY(double value) {#setScalingRateY-double-}
+### setScalingRateY {#setScalingRateY-double-}
 ```
 public void setScalingRateY(double value)
 ```
 
+设置一个 float 值，表示在转换坐标系时 y 坐标的缩放比例。
 
-设置一个浮点值，表示变换坐标系时 y 坐标的缩放比例。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 双倍价值 |
+| 值 |  | double 值 |
 
-### setSkewAngleX(double value) {#setSkewAngleX-double-}
+### setSkewAngleX {#setSkewAngleX-double-}
 ```
 public void setSkewAngleX(double value)
 ```
 
+设置一个 float 值，表示在转换坐标系时 x 坐标的倾斜角度。
 
-设置一个浮点值，表示变换坐标系时 x 坐标的倾斜角度。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 双倍价值 |
+| 值 |  | double 值 |
 
-### setSkewAngleY(double value) {#setSkewAngleY-double-}
+### setSkewAngleY {#setSkewAngleY-double-}
 ```
 public void setSkewAngleY(double value)
 ```
 
+设置一个 float 值，表示在转换坐标系时 y 坐标的倾斜角度。
 
-设置一个浮点值，表示变换坐标系时 y 坐标的倾斜角度。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 双倍价值 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| 值 |  | double 值 |

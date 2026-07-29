@@ -1,631 +1,451 @@
 ---
-title: Rectangle
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 类代表矩形。
+title: "Rectangle"
+linktitle: "Rectangle"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示矩形的类。"
 type: docs
-weight: 300
+weight: 4100
 url: /zh/java/com.aspose.pdf/rectangle/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.Rectangle
 
-**所有已实现的接口：**
-java.lang.Comparable、java.lang.Cloneable
+**All Implemented Interfaces:**
+Cloneable, Comparable < Object >
+
 ```
-public final class Rectangle implements Comparable<Object>, Cloneable
+public final class Rectangle extends Object implements Comparable < Object >, Cloneable
 ```
 
-类代表矩形。
+表示矩形的类。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [Rectangle(double llx, double lly, double urx, double ury)](#Rectangle-double-double-double-double-) | 矩形的构造函数。 |
-| [Rectangle(double llx, double lly, double urx, double ury, boolean normalizeCoordinates)](#Rectangle-double-double-double-double-boolean-) | 矩形的构造函数。 |
+| [Rectangle](#Rectangle-double-double-double-double-) | Rectangle 的构造函数。 |
+| [Rectangle](#Rectangle-double-double-double-double-boolean-) | Rectangle 的构造函数。 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [_Intersect(Rectangle otherRect)](#-Intersect-com.aspose.pdf.Rectangle-) | 与矩形相交。 |
-| [center()](#center--) | 返回矩形中心的坐标。 |
-| [clone()](#clone--) | 克隆矩形对象。 |
-| [compareTo(Object arg0)](#compareTo-java.lang.Object-) | 相比于 |
-| [contains(Point point)](#contains-com.aspose.pdf.Point-) | 确定给定点是否在矩形内部。 |
-| [deepClone()](#deepClone--) | 克隆矩形对象。 |
-| [equals(Object other)](#equals-java.lang.Object-) | 检查矩形是否相等，即具有相同的位置和大小。 |
-| [fromRect(Rectangle src)](#fromRect-java.awt.Rectangle-) | 从 System.Drawing.Rectangle 的给定实例初始化新矩形。 |
-| [getClass()](#getClass--) |  |
-| [getEmpty()](#getEmpty--) | 获取空矩形 |
-| [getHeight()](#getHeight--) | 获取矩形的高度。 |
-| [getLLX()](#getLLX--) | 获取左下角的 X 坐标。 |
-| [getLLY()](#getLLY--) | 获取 Y - 左下角的坐标。 |
-| [getTrivial()](#getTrivial--) | 初始化普通矩形，即位置和大小为零的矩形。 |
-| [getURX()](#getURX--) | 获取 X - 右上角的坐标。 |
-| [getURY()](#getURY--) | 获取 Y - 右上角的坐标。 |
-| [getWidth()](#getWidth--) | 获取矩形的宽度。 |
-| [hashCode()](#hashCode--) | 返回对象的哈希码值。 |
-| [intersect(Rectangle otherRect)](#intersect-com.aspose.pdf.Rectangle-) | 与矩形相交。 |
-| [isEmpty()](#isEmpty--) | 检查矩形是否为空。 |
-| [isInclude(Rectangle otherRect, double rotationAngle)](#isInclude-com.aspose.pdf.Rectangle-double-) | 检查此矩形是否包含整个另一个矩形。 |
-| [isIntersect(Rectangle otherRect)](#isIntersect-com.aspose.pdf.Rectangle-) | 确定此矩形是否与其他矩形相交。 |
-| [isPoint()](#isPoint--) | 检查矩形是否为点，即 |
-| [isTrivial()](#isTrivial--) | 检查矩形是否平凡，即大小和位置为零。 |
-| [join(Rectangle otherRect)](#join-com.aspose.pdf.Rectangle-) | 连接矩形。 |
-| [nearEquals(Rectangle other, double delta)](#nearEquals-com.aspose.pdf.Rectangle-double-) | 检查矩形是否接近相等，即具有接近相同（最多为增量）的位置和大小。 |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [parse(String value)](#parse-java.lang.String-) | 尝试解析字符串并从中提取矩形组件 llx、lly、urx、ury。 |
-| [rotate(int angle)](#rotate-int-) | 按指定角度旋转矩形。 |
-| [rotateAngle(int angle)](#rotateAngle-int-) | 按指定角度旋转矩形。 |
-| [setLLX(double value)](#setLLX-double-) | 设置左下角的 X 坐标。 |
-| [setLLY(double value)](#setLLY-double-) | 设置 Y - 左下角的坐标。 |
-| [setURX(double value)](#setURX-double-) | 设置 X - 右上角的坐标。 |
-| [setURY(double value)](#setURY-double-) | 设置 Y - 右上角的坐标。 |
-| [toArray(ITrailerable trailerable)](#toArray-com.aspose.pdf.engine.data.ITrailerable-) |  |
-| [toPoints()](#toPoints--) | 将矩形转换为点数组（“QuadPoints”）。 |
-| [toRect()](#toRect--) | 将矩形转换为 System.Drawing.Rectangle 的实例。 |
-| [toString()](#toString--) | 获取矩形字符串表示形式。 |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### Rectangle(double llx, double lly, double urx, double ury) {#Rectangle-double-double-double-double-}
+| [_Intersect](#Z:Z_Intersect-com.aspose.pdf.Rectangle-) | 相交矩形。已废弃的方法。请改用 Intersect。 |
+| [center](#center--) | 返回矩形中心的坐标。 |
+| [clone](#clone--) | 克隆 Rectangle 对象。 |
+| [compareTo](#compareTo-java.lang.Object-) | CompareTo |
+| [contains](#contains-com.aspose.pdf.Point-) | 确定给定点是否在矩形内部。 |
+| [contains](#contains-com.aspose.pdf.Point-boolean-) | 确定给定点是否在矩形内部。 |
+| [containsLine](#containsLine-double-double-double-double-) | 确定矩形是否包含由两点表示的直线。 |
+| [containsPoint](#containsPoint-double-double-) | 确定给定点是否位于矩形内部。 |
+| [deepClone](#deepClone--) | 克隆 Rectangle 对象。 |
+| [equals](#equals-java.lang.Object-) | 检查矩形是否相等，即具有相同的位置和大小。 |
+| [fromRect](#fromRect-java.awt.Rectangle-) | 从给定的 System.Drawing.Rectangle 实例初始化新矩形。 |
+| [fromRect](#fromRect-java.awt.geom.Rectangle2D.Float-) | 从给定的 System.Drawing.Rectangle 实例初始化新矩形。 |
+| [fromRectInternal](#fromRectInternal-com.aspose.ms.System.Drawing.RectangleF-) |  |
+| [getArea](#getArea--) | 计算矩形的面积。 |
+| [getEmpty](#getEmpty--) | 获取空矩形 |
+| [getHeight](#getHeight--) | 获取矩形的高度。 |
+| [getLLX](#getLLX--) | 获取左下角的 X 坐标。 |
+| [getLLY](#getLLY--) | 获取左下角的 Y 坐标。 |
+| [getTrivial](#getTrivial--) | 初始化平凡矩形，即位置和大小均为零的矩形。 |
+| [getURX](#getURX--) | 获取右上角的 X 坐标。 |
+| [getURY](#getURY--) | 获取右上角的 Y 坐标。 |
+| [getWidth](#getWidth--) | 获取矩形的宽度。 |
+| [hashCode](#hashCode--) | 返回对象的哈希码值。此方法支持哈希表，例如 {@link java.util.HashMap} 提供的哈希表。 <p> {@code hashCode} 的一般约定是： <ul> <li>只要在 Java 应用程序的执行期间对同一对象多次调用且未修改用于 {@code equals} 比较的信息，{@code hashCode} 方法必须始终返回相同的整数。该整数在一次应用执行与另一执行之间不必保持一致。 <li>如果两个对象根据 {@code equals(Object)} 方法相等，则对这两个对象调用 {@code hashCode} 方法必须产生相同的整数结果。 <li>并<em>不</em>要求如果两个对象根据 {@link java.lang.Object#equals(java.lang.Object)} 方法不相等，则对这两个对象调用 {@code hashCode} 方法必须产生不同的整数结果。不过，程序员应注意，为不相等的对象产生不同的整数可能会提升哈希表的性能。 </ul> <p> 在合理可行的范围内，类 {@code Object} 定义的 hashCode 方法确实会为不同对象返回不同的整数。（通常通过将对象的内部地址转换为整数来实现，但此实现技术并非 Java<span style="font-size:70%"><sup>TM</sup></span> 编程语言所要求。） |
+| [intersect](#intersect-com.aspose.pdf.Rectangle-) | 矩形相交。 |
+| [isEmpty](#isEmpty--) | 检查矩形是否为空。 |
+| [isInclude](#isInclude-com.aspose.pdf.Rectangle-double-) | 检查此矩形是否完全包含另一个矩形。即整个另一个矩形位于此矩形内部。与 IsIntersect 方法的区别在于，IsIntersect 对部分相交的矩形返回 true，而 IsInclude 则返回 false。 |
+| [isIntersect](#isIntersect-com.aspose.pdf.Rectangle-) | 确定此矩形是否与另一个矩形相交。 |
+| [isPoint](#isPoint--) | 检查矩形是否为点，即 LLX 等于 URX 且 LLY 等于 URY。 |
+| [isTrivial](#isTrivial--) | 检查矩形是否为平凡矩形，即大小和位置均为零。 |
+| [join](#join-com.aspose.pdf.Rectangle-) | 合并矩形。 |
+| [moveBy](#moveBy-double-double-) | 按指定的增量平移矩形。 |
+| [nearEquals](#nearEquals-com.aspose.pdf.Rectangle-double-) | 检查矩形是否近似相等，即位置和大小在（误差 delta）范围内基本相同。 |
+| [parse](#parse-java.lang.String-) | 尝试解析字符串并从中提取矩形组件 llx、lly、urx、ury。 |
+| [rotate](#rotate-com.aspose.pdf.Rotation-) | 按指定角度旋转矩形。 |
+| [rotateAngle](#rotateAngle-int-) | 按指定角度旋转矩形。 |
+| [setLLX](#setLLX-double-) | 设置左下角的 X 坐标。 |
+| [setLLY](#setLLY-double-) | 设置左下角的 Y 坐标。 |
+| [setURX](#setURX-double-) | 设置右上角的 X 坐标。 |
+| [setURY](#setURY-double-) | 设置右上角的 Y 坐标。 |
+| [toArray](#toArray-com.aspose.pdf.engine.data.ITrailerable-) |  |
+| [toPoints](#toPoints--) | 将矩形转换为点数组（"QuadPoints"）。 |
+| [toRect](#toRect--) | 将矩形转换为 System.Drawing.Rectangle 的实例。浮点位置和尺寸会被截断。 |
+| [toString](#toString--) | 获取矩形的字符串表示。 |
+
+### Rectangle {#Rectangle-double-double-double-double-}
 ```
 public Rectangle(double llx, double lly, double urx, double ury)
 ```
 
+Rectangle 的构造函数。
 
-矩形的构造函数。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| llx | double | 左下角的X。 |
-| lly | double | 左下角的Y。 |
-| urx | double | 右上角的X。 |
-| ury | double | 右上角的Y。 |
+| llx |  | 左下角的 X。 |
+| lly |  | 左下角的 Y。 |
+| urx |  | 右上角的 X。 |
+| ury |  | 右上角的 Y。 |
 
-### Rectangle(double llx, double lly, double urx, double ury, boolean normalizeCoordinates) {#Rectangle-double-double-double-double-boolean-}
+### Rectangle {#Rectangle-double-double-double-double-boolean-}
 ```
 public Rectangle(double llx, double lly, double urx, double ury, boolean normalizeCoordinates)
 ```
 
+Rectangle 的构造函数。
 
-矩形的构造函数。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| llx | double | 左下角的X。 |
-| lly | double | 左下角的Y。 |
-| urx | double | 右上角的X。 |
-| ury | double | 右上角的Y。 |
-| normalizeCoordinates | boolean | 归一化矩形的坐标。 |
+| llx |  | 左下角的 X。 |
+| lly |  | 左下角的 Y。 |
+| urx |  | 右上角的 X。 |
+| ury |  | 右上角的 Y。 |
+| normalizeCoordinates |  | 规范化矩形的坐标。 |
 
-### _Intersect(Rectangle otherRect) {#-Intersect-com.aspose.pdf.Rectangle-}
-```
-public void _Intersect(Rectangle otherRect)
-```
+### _Intersect {#Z:Z_Intersect-com.aspose.pdf.Rectangle-}
+相交矩形。已废弃的方法。请改用 Intersect。
 
-
-与矩形相交。过时的方法。请改用相交。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| otherRect | [Rectangle](../../com.aspose.pdf/rectangle) | 矩形对象 |
-
-### center() {#center--}
+### center {#center--}
 ```
 public Point center()
 ```
 
-
 返回矩形中心的坐标。
 
-**退货：**
-[Point](../../com.aspose.pdf/point) - 位于矩形中心的点。
-### clone() {#clone--}
-```
-public Object clone()
-```
+**Returns:**
+矩形中心点。
 
-
-克隆矩形对象。
-
-**退货：**
-java.lang.Object - 克隆对象。
-### compareTo(Object arg0) {#compareTo-java.lang.Object-}
+### clone {#clone--}
 ```
-public int compareTo(Object arg0)
+public Rectangle clone()
 ```
 
+克隆 Rectangle 对象。
 
-相比于
+**Returns:**
+克隆对象。
 
-**参数：**
+### compareTo {#compareTo-java.lang.Object-}
+CompareTo
 
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object | 比较对象 |
-
-**退货：**
-int - 整数值
-### contains(Point point) {#contains-com.aspose.pdf.Point-}
-```
-public boolean contains(Point point)
-```
-
-
+### contains {#contains-com.aspose.pdf.Point-}
 确定给定点是否在矩形内部。
 
-**参数：**
+### contains {#contains-com.aspose.pdf.Point-boolean-}
+确定给定点是否在矩形内部。
 
-| 范围 | 类型 | 描述 |
+### containsLine {#containsLine-double-double-double-double-}
+```
+public final boolean containsLine(double x1, double y1, double x2, double y2)
+```
+
+确定矩形是否包含由两点表示的直线。
+
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| point | [Point](../../com.aspose.pdf/point) | 指向检查。 |
+| x1 |  | 线段起点的 X 坐标。 |
+| y1 |  | 线段起点的 Y 坐标。 |
+| x2 |  | 线段终点的 X 坐标。 |
+| y2 |  | 线段终点的 Y 坐标。 |
 
-**退货：**
-boolean - 如果点在 recatngle 内则为真。
-### deepClone() {#deepClone--}
+**Returns:**
+{@code true} 如果矩形包含该线段；否则，{@code false}。
+
+### containsPoint {#containsPoint-double-double-}
 ```
-public Object deepClone()
-```
-
-
-克隆矩形对象。
-
-**退货：**
-java.lang.Object - 克隆对象。
-### equals(Object other) {#equals-java.lang.Object-}
-```
-public boolean equals(Object other)
+public final boolean containsPoint(double x, double y)
 ```
 
+确定给定点是否位于矩形内部。
 
+**Parameters:**
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| x |  | 点的 X 坐标。 |
+| y |  | 点的 Y 坐标。 |
+
+**Returns:**
+{@code true} 如果点位于矩形内部；否则，{@code false}。
+
+### deepClone {#deepClone--}
+```
+public Rectangle deepClone()
+```
+
+克隆 Rectangle 对象。
+
+**Returns:**
+克隆对象。
+
+### equals {#equals-java.lang.Object-}
 检查矩形是否相等，即具有相同的位置和大小。
 
-**参数：**
+### fromRect {#fromRect-java.awt.Rectangle-}
+从给定的 System.Drawing.Rectangle 实例初始化新矩形。
 
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| other | java.lang.Object | 将被比较的矩形。 |
+### fromRect {#fromRect-java.awt.geom.Rectangle2D.Float-}
+从给定的 System.Drawing.Rectangle 实例初始化新矩形。
 
-**退货：**
-boolean - 如果矩形相等则为 True，否则为 false。
-### fromRect(Rectangle src) {#fromRect-java.awt.Rectangle-}
+### fromRectInternal {#fromRectInternal-com.aspose.ms.System.Drawing.RectangleF-}
+
+
+### getArea {#getArea--}
 ```
-public static Rectangle fromRect(Rectangle src)
-```
-
-
-从 System.Drawing.Rectangle 的给定实例初始化新矩形。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| src | java.awt.Rectangle | 位置和大小将设置为新矩形的源矩形。 |
-
-**退货：**
-[Rectangle](../../com.aspose.pdf/rectangle) - 新矩形。
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
+public final double getArea()
 ```
 
+计算矩形的面积。
 
+**Returns:**
+矩形的面积（double），通过宽度与高度相乘计算得到。
 
-
-**退货：**
-java.lang.Class<?>
-### getEmpty() {#getEmpty--}
+### getEmpty {#getEmpty--}
 ```
 public static Rectangle getEmpty()
 ```
 
-
 获取空矩形
 
-**退货：**
-[Rectangle](../../com.aspose.pdf/rectangle) - 新的矩形对象
-### getHeight() {#getHeight--}
+**Returns:**
+新的 Rectangle 对象
+
+### getHeight {#getHeight--}
 ```
 public double getHeight()
 ```
 
-
 获取矩形的高度。
 
-**退货：**
-双倍价值
-### getLLX() {#getLLX--}
+**Returns:**
+double 值
+
+### getLLX {#getLLX--}
 ```
 public double getLLX()
 ```
 
-
 获取左下角的 X 坐标。
 
-**退货：**
-双倍价值
-### getLLY() {#getLLY--}
+**Returns:**
+double 值
+
+### getLLY {#getLLY--}
 ```
 public double getLLY()
 ```
 
+获取左下角的 Y 坐标。
 
-获取 Y - 左下角的坐标。
+**Returns:**
+double 值
 
-**退货：**
-双倍价值
-### getTrivial() {#getTrivial--}
+### getTrivial {#getTrivial--}
 ```
 public static Rectangle getTrivial()
 ```
 
+初始化平凡矩形，即位置和大小均为零的矩形。
 
-初始化普通矩形，即位置和大小为零的矩形。
+**Returns:**
+新的 Rectangle 对象
 
-**退货：**
-[Rectangle](../../com.aspose.pdf/rectangle) - 新的矩形对象
-### getURX() {#getURX--}
+### getURX {#getURX--}
 ```
 public double getURX()
 ```
 
+获取右上角的 X 坐标。
 
-获取 X - 右上角的坐标。
+**Returns:**
+double 值
 
-**退货：**
-双倍价值
-### getURY() {#getURY--}
+### getURY {#getURY--}
 ```
 public double getURY()
 ```
 
+获取右上角的 Y 坐标。
 
-获取 Y - 右上角的坐标。
+**Returns:**
+double 值
 
-**退货：**
-双倍价值
-### getWidth() {#getWidth--}
+### getWidth {#getWidth--}
 ```
 public double getWidth()
 ```
 
-
 获取矩形的宽度。
 
-**退货：**
-双倍价值
-### hashCode() {#hashCode--}
+**Returns:**
+double 值
+
+### hashCode {#hashCode--}
 ```
 public int hashCode()
 ```
 
+返回对象的哈希码值。此方法支持哈希表，例如 {@link java.util.HashMap} 提供的哈希表。 <p> {@code hashCode} 的一般约定是： <ul> <li>只要在 Java 应用程序的执行期间对同一对象多次调用且未修改用于 {@code equals} 比较的信息，{@code hashCode} 方法必须始终返回相同的整数。该整数在一次应用执行与另一执行之间不必保持一致。 <li>如果两个对象根据 {@code equals(Object)} 方法相等，则对这两个对象调用 {@code hashCode} 方法必须产生相同的整数结果。 <li>并<em>不</em>要求如果两个对象根据 {@link java.lang.Object#equals(java.lang.Object)} 方法不相等，则对这两个对象调用 {@code hashCode} 方法必须产生不同的整数结果。不过，程序员应注意，为不相等的对象产生不同的整数可能会提升哈希表的性能。 </ul> <p> 在合理可行的范围内，类 {@code Object} 定义的 hashCode 方法确实会为不同对象返回不同的整数。（通常通过将对象的内部地址转换为整数来实现，但此实现技术并非 Java<span style="font-size:70%"><sup>TM</sup></span> 编程语言所要求。）
 
-返回对象的哈希码值。支持此方法是为了散列表的好处，例如 java.util.HashMap 提供的散列表。
+**Returns:**
+此对象的哈希码值。 @see java.lang.Object#equals(java.lang.Object) @see java.lang.System#identityHashCode
 
-hashCode的一般契约是：
+### intersect {#intersect-com.aspose.pdf.Rectangle-}
+矩形相交。
 
- *  每当在 Java 应用程序的执行期间对同一对象多次调用它时，hashCode 方法必须一致地返回相同的整数，前提是在对象的 equals 比较中使用的信息没有被修改。从一个应用程序的一次执行到同一应用程序的另一次执行，该整数不需要保持一致。
- *  如果根据 equals(Object) 方法两个对象相等，则对这两个对象中的每一个调用 hashCode 方法必须产生相同的整数结果。
- *  这是*not*要求如果两个对象根据 java.lang.Object 不相等\#equals(java.lang.Object).equals(java.lang.Object) 方法，然后在两个对象中的每一个上调用 hashCode 方法必须产生不同的整数结果。但是，程序员应该知道，为不相等的对象生成不同的整数结果可能会提高哈希表的性能。
-
-在相当实用的情况下，类 Object 定义的 hashCode 方法确实会为不同的对象返回不同的整数。 （这通常是通过将对象的内部地址转换为整数来实现的，但 JavaTM 编程语言不需要这种实现技术。）
-
-**退货：**
-int - 此对象的哈希码值。
-### intersect(Rectangle otherRect) {#intersect-com.aspose.pdf.Rectangle-}
-```
-public Rectangle intersect(Rectangle otherRect)
-```
-
-
-与矩形相交。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| otherRect | [Rectangle](../../com.aspose.pdf/rectangle) | 与此矩形相交的矩形。 |
-
-**退货：**
-[Rectangle](../../com.aspose.pdf/rectangle) - 矩形的交集；如果矩形不相交，则为 null。
-### isEmpty() {#isEmpty--}
+### isEmpty {#isEmpty--}
 ```
 public boolean isEmpty()
 ```
 
-
 检查矩形是否为空。
 
-**退货：**
-boolean - 布尔值
-### isInclude(Rectangle otherRect, double rotationAngle) {#isInclude-com.aspose.pdf.Rectangle-double-}
-```
-public boolean isInclude(Rectangle otherRect, double rotationAngle)
-```
+**Returns:**
+布尔值
 
+### isInclude {#isInclude-com.aspose.pdf.Rectangle-double-}
+检查此矩形是否完全包含另一个矩形。即整个另一个矩形位于此矩形内部。与 IsIntersect 方法的区别在于，IsIntersect 对部分相交的矩形返回 true，而 IsInclude 则返回 false。
 
-检查此矩形是否包含整个另一个矩形。即整个另一个矩形在这个矩形内。与 IsIntersect 方法的不同之处在于，IsIntersect 对部分相交的矩形为真，但 IsInclude 为假。
+### isIntersect {#isIntersect-com.aspose.pdf.Rectangle-}
+确定此矩形是否与另一个矩形相交。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| otherRect | [Rectangle](../../com.aspose.pdf/rectangle) | 选中包含的矩形。 |
-| rotationAngle | double | 另一个矩形的旋转角度（以弧度为单位）。 |
-
-**退货：**
-boolean - 如果此矩形包含整个指定的矩形，则为 True。否则为假。
-### isIntersect(Rectangle otherRect) {#isIntersect-com.aspose.pdf.Rectangle-}
-```
-public boolean isIntersect(Rectangle otherRect)
-```
-
-
-确定此矩形是否与其他矩形相交。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| otherRect | [Rectangle](../../com.aspose.pdf/rectangle) | 交叉点将用指定的矩形进行测试。 |
-
-**退货：**
-boolean - 如果此矩形与指定矩形相交则为真。否则为假。
-### isPoint() {#isPoint--}
+### isPoint {#isPoint--}
 ```
 public boolean isPoint()
 ```
 
+检查矩形是否为点，即 LLX 等于 URX 且 LLY 等于 URY。
 
-检查矩形是否为点，即 LLX 等于 URX，LLY 等于 URY。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### isTrivial() {#isTrivial--}
+### isTrivial {#isTrivial--}
 ```
 public boolean isTrivial()
 ```
 
+检查矩形是否为平凡矩形，即大小和位置均为零。
 
-检查矩形是否平凡，即大小和位置为零。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### join(Rectangle otherRect) {#join-com.aspose.pdf.Rectangle-}
+### join {#join-com.aspose.pdf.Rectangle-}
+合并矩形。
+
+### moveBy {#moveBy-double-double-}
 ```
-public Rectangle join(Rectangle otherRect)
+public final void moveBy(double dx, double dy)
 ```
 
+按指定的增量平移矩形。
 
-连接矩形。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| otherRect | [Rectangle](../../com.aspose.pdf/rectangle) | 此矩形要连接到的矩形。 |
+| dx |  | 沿 X 轴的位移值。 |
+| dy |  | 沿 Y 轴的位移值。 |
 
-**退货：**
-[Rectangle](../../com.aspose.pdf/rectangle) - 描述的矩形。
-### nearEquals(Rectangle other, double delta) {#nearEquals-com.aspose.pdf.Rectangle-double-}
-```
-public boolean nearEquals(Rectangle other, double delta)
-```
+### nearEquals {#nearEquals-com.aspose.pdf.Rectangle-double-}
+检查矩形是否近似相等，即位置和大小在（误差 delta）范围内基本相同。
 
-
-检查矩形是否接近相等，即具有接近相同（最多为增量）的位置和大小。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| other | [Rectangle](../../com.aspose.pdf/rectangle) | 将被比较的矩形。 |
-| delta | double | 比较公差值。 |
-
-**退货：**
-boolean - 如果矩形相等则为 True，否则为 false。
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### parse(String value) {#parse-java.lang.String-}
-```
-public static Rectangle parse(String value)
-```
-
-
+### parse {#parse-java.lang.String-}
 尝试解析字符串并从中提取矩形组件 llx、lly、urx、ury。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.String | 要解析的字符串。 |
-
-**退货：**
-[Rectangle](../../com.aspose.pdf/rectangle) - 矩形对象。
-### rotate(int angle) {#rotate-int-}
-```
-public void rotate(int angle)
-```
-
-
+### rotate {#rotate-com.aspose.pdf.Rotation-}
 按指定角度旋转矩形。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| angle | int | 旋转角度。旋转枚举的成员。 |
-
-### rotateAngle(int angle) {#rotateAngle-int-}
+### rotateAngle {#rotateAngle-int-}
 ```
 public void rotateAngle(int angle)
 ```
 
-
 按指定角度旋转矩形。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| angle | int | 0 到 360 度之间的旋转角度。 |
+| angle |  | 旋转角度（度），范围在 0 到 360 之间。 |
 
-### setLLX(double value) {#setLLX-double-}
+### setLLX {#setLLX-double-}
 ```
 public void setLLX(double value)
 ```
 
-
 设置左下角的 X 坐标。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 双倍价值 |
+| 值 |  | double 值 |
 
-### setLLY(double value) {#setLLY-double-}
+### setLLY {#setLLY-double-}
 ```
 public void setLLY(double value)
 ```
 
+设置左下角的 Y 坐标。
 
-设置 Y - 左下角的坐标。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 双倍价值 |
+| 值 |  | double 值 |
 
-### setURX(double value) {#setURX-double-}
+### setURX {#setURX-double-}
 ```
 public void setURX(double value)
 ```
 
+设置右上角的 X 坐标。
 
-设置 X - 右上角的坐标。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 双倍价值 |
+| 值 |  | double 值 |
 
-### setURY(double value) {#setURY-double-}
+### setURY {#setURY-double-}
 ```
 public void setURY(double value)
 ```
 
+设置右上角的 Y 坐标。
 
-设置 Y - 右上角的坐标。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | double | 双倍价值 |
+| 值 |  | double 值 |
 
-### toArray(ITrailerable trailerable) {#toArray-com.aspose.pdf.engine.data.ITrailerable-}
+### toArray {#toArray-com.aspose.pdf.engine.data.ITrailerable-}
+
+
+### toPoints {#toPoints--}
 ```
-public PdfArray toArray(ITrailerable trailerable)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| trailerable | [ITrailerable](../../com.aspose.pdf.engine.data/itrailerable) |  |
-
-**退货：**
-[PdfArray](../../com.aspose.pdf.engine.data/pdfarray)
-### toPoints() {#toPoints--}
-```
-public final Point[] toPoints()
+public final Point [] toPoints()
 ```
 
+将矩形转换为点数组（"QuadPoints"）。
 
-将矩形转换为点数组（“QuadPoints”）。
+**Returns:**
+点数组。
 
-**退货：**
-com.aspose.pdf.点[] - 点数组。
-### toRect() {#toRect--}
+### toRect {#toRect--}
 ```
 public Rectangle toRect()
 ```
 
+将矩形转换为 System.Drawing.Rectangle 的实例。浮点位置和尺寸会被截断。
 
-将矩形转换为 System.Drawing.Rectangle 的实例。浮点位置和大小被截断。
+**Returns:**
+转换结果。
 
-**退货：**
-[Rectangle](../../java.awt/rectangle) - 转换结果。
-### toString() {#toString--}
+### toString {#toString--}
 ```
 public String toString()
 ```
 
+获取矩形的字符串表示。
 
-获取矩形字符串表示形式。
-
-**退货：**
-java.lang.String - 字符串的格式为 llx,lly,urx,ury。
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+**Returns:**
+字符串的格式为 llx,lly,urx,ury。

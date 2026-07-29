@@ -1,891 +1,521 @@
 ---
-title: Form
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 表示表单对象的类。
+title: "表单"
+linktitle: "表单"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示表单对象的类。"
 type: docs
-weight: 139
+weight: 1740
 url: /zh/java/com.aspose.pdf/form/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object，com.aspose.pdf.Form
 
-**所有已实现的接口：**
-java.lang.Iterable
+**All Implemented Interfaces:**
+Iterable < WidgetAnnotation >
+
 ```
-public final class Form implements Iterable<WidgetAnnotation>
+public final class Form extends Object implements Iterable < WidgetAnnotation >
 ```
 
 表示表单对象的类。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [Form(IDocument document)](#Form-com.aspose.pdf.IDocument-) | 构造函数 |
+| [Form](#Form-com.aspose.pdf.IDocument-) | 构造函数 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [add(Field field)](#add-com.aspose.pdf.Field-) | 在表单上添加字段。 |
-| [add(Field field, int pageNumber)](#add-com.aspose.pdf.Field-int-) | 在表单上添加字段。 |
-| [add(Field field, String partialName, int pageNumber)](#add-com.aspose.pdf.Field-java.lang.String-int-) | 向表单添加新字段；如果此字段已放置在其他或此表单上，则创建字段副本。 |
-| [add(WidgetAnnotation field)](#add-com.aspose.pdf.WidgetAnnotation-) | 在表单上添加字段。 |
-| [addFieldAppearance(Field field, int pageNumber, Rectangle rect)](#addFieldAppearance-com.aspose.pdf.Field-int-com.aspose.pdf.Rectangle-) | 将字段的附加外观添加到指定位置文档的指定页面。 |
-| [addFieldToAcroForm(Field field)](#addFieldToAcroForm-com.aspose.pdf.Field-) | 将字段的附加外观添加到文档的指定页面。 |
-| [assignXfa(System.Xml.XmlDocument xml)](#assignXfa-com.aspose.ms.System.Xml.XmlDocument-) | 将表单的 XFA 设置为指定值。 |
-| [clear()](#clear--) | 从表单中删除所有字段。 |
-| [contains(WidgetAnnotation field)](#contains-com.aspose.pdf.WidgetAnnotation-) | 确定字段是否显示在表单上。 |
-| [copyTo(Field[] array, int index)](#copyTo-com.aspose.pdf.Field---int-) | 将放置在表单上的字段复制到数组中。 |
-| [copyTo(WidgetAnnotation[] array, int arrayIndex)](#copyTo-com.aspose.pdf.WidgetAnnotation---int-) | 将表单的字段复制到数组。 |
-| [delete(Field field)](#delete-com.aspose.pdf.Field-) | 从表单中删除字段。 |
-| [delete(String fieldName)](#delete-java.lang.String-) | 按名称从表单中删除字段。 |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [flatten()](#flatten--) | 删除所有静态表单字段并将它们的值直接放在页面上。 |
-| [get(int index)](#get-int-) |  |
-| [get(String name)](#get-java.lang.String-) | 按字段名称搜索字段。 |
-| [getAutoRecalculate()](#getAutoRecalculate--) | 如果设置，当任何字段更改时，将重新计算所有表单字段。 |
-| [getAutoRestoreForm()](#getAutoRestoreForm--) | 如果设置，如果缺席的表单字段出现在注释中，将自动创建它们。 |
-| [getClass()](#getClass--) |  |
-| [getDefaultAppearance()](#getDefaultAppearance--) | 获取表单的默认外观（描述表单字段的默认字体、文本大小和颜色的对象）。 |
-| [getDefaultResources()](#getDefaultResources--) | 获取放置在该窗体上的默认资源。 |
-| [getDocument()](#getDocument--) | 仅供内部使用 |
-| [getEmulateRequierdGroups()](#getEmulateRequierdGroups--) | 如果此属性为真，则将为所需的 Xfa exclGroup 元素容器绘制额外的红色边界矩形。引入此属性是因为在将 Xfa 表示形式转换为标准期间缺少 exclGroup 的类比。 |
-| [getFields()](#getFields--) | 获取层次结构形式最低级别的所有字段的列表。 |
-| [getFieldsInRect(Rectangle rect)](#getFieldsInRect-com.aspose.pdf.Rectangle-) | 返回指定矩形内的字段。 |
-| [getIgnoreNeedsRendering()](#getIgnoreNeedsRendering--) | 如果此属性为真，则在将 XFA 格式转换为标准格式期间将忽略 NeedsRendering 键的值。 |
-| [getRemovePermission()](#getRemovePermission--) | 如果此属性为真，则在将动态文档转换为标准后，“Perms”字典将从 pdf 文档中删除。 |
-| [getSignDependentElementsRenderingModeWhenConverted()](#getSignDependentElementsRenderingModeWhenConverted--) | 表单可以包含签名信息，即可以签名或不签名。 |
-| [getSignaturesAppendOnly()](#getSignaturesAppendOnly--) | 如果设置，文档包含的签名可能会无效，如果文件以改变其先前内容的方式保存（写入），而不是增量更新。 |
-| [getSignaturesExist()](#getSignaturesExist--) | 如果设置，文档至少包含一个签名域。 |
-| [getSyncRoot()](#getSyncRoot--) | 返回同步对象。 |
-| [getType()](#getType--) | 获取表单的类型。 |
-| [getXFA()](#getXFA--) | 获取表单的 XFA 数据（如果存在）。 |
-| [get_Item(int index)](#get-Item-int-) | 通过字段索引获取表单的字段。 |
-| [get_Item(String name)](#get-Item-java.lang.String-) | 通过字段名获取表单的字段。 |
-| [get_xfa()](#get-xfa--) | 仅供内部使用 |
-| [hasField(Field field)](#hasField-com.aspose.pdf.Field-) | 检查表单是否已经有指定字段。 |
-| [hasField(String fieldName)](#hasField-java.lang.String-) | 确定具有指定名称的字段是否已添加到表单中。 |
-| [hasXfa()](#hasXfa--) | 如果 hasXfa 则返回 true |
-| [hashCode()](#hashCode--) |  |
-| [isReadOnly()](#isReadOnly--) | 确定集合是否为只读。 |
-| [isSynchronized()](#isSynchronized--) | 如果对象是线程安全的，则返回 true。 |
-| [iterator()](#iterator--) | 获取表单字段的枚举。 |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [remove(WidgetAnnotation field)](#remove-com.aspose.pdf.WidgetAnnotation-) | 从表单中删除字段。 |
-| [setAutoRecalculate(boolean value)](#setAutoRecalculate-boolean-) | 如果设置，当任何字段更改时，将重新计算所有表单字段。 |
-| [setAutoRestoreForm(boolean value)](#setAutoRestoreForm-boolean-) | 如果设置，如果缺席的表单字段出现在注释中，将自动创建它们。 |
-| [setCalculatedFields(List<Field> value)](#setCalculatedFields-java.util.List-com.aspose.pdf.Field--) | 允许设置字段计算顺序。 |
-| [setDefaultAppearance(DefaultAppearance value)](#setDefaultAppearance-com.aspose.pdf.DefaultAppearance-) | 设置表单的默认外观（描述表单字段的默认字体、文本大小和颜色的对象）。 |
-| [setEmulateRequierdGroups(boolean value)](#setEmulateRequierdGroups-boolean-) | 如果此属性为真，则将为所需的 Xfa exclGroup 元素容器绘制额外的红色边界矩形。引入此属性是因为在将 Xfa 表示形式转换为标准期间缺少 exclGroup 的类比。 |
-| [setIgnoreNeedsRendering(boolean value)](#setIgnoreNeedsRendering-boolean-) | 如果此属性为真，则在将 XFA 格式转换为标准格式期间将忽略 NeedsRendering 键的值。 |
-| [setRemovePermission(boolean value)](#setRemovePermission-boolean-) | 如果此属性为真，则在将动态文档转换为标准后，“Perms”字典将从 pdf 文档中删除。 |
-| [setSignDependentElementsRenderingModeWhenConverted(int signDependentElementsRenderingModeWhenConverted)](#setSignDependentElementsRenderingModeWhenConverted-int-) | 表单可以包含签名信息，即可以签名或不签名。 |
-| [setSignaturesAppendOnly(boolean value)](#setSignaturesAppendOnly-boolean-) | 如果设置，文档包含的签名可能会无效，如果文件以改变其先前内容的方式保存（写入），而不是增量更新。 |
-| [setSignaturesExist(boolean value)](#setSignaturesExist-boolean-) | 如果设置，文档至少包含一个签名域。 |
-| [setType(int value)](#setType-int-) | 获取表单的类型。 |
-| [size()](#size--) | 获取此表单上的字段数。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### Form(IDocument document) {#Form-com.aspose.pdf.IDocument-}
-```
-public Form(IDocument document)
-```
+| [add](#add-com.aspose.pdf.Field-) | 在表单上添加字段。 |
+| [add](#add-com.aspose.pdf.Field-int-) | 在表单上添加字段。 |
+| [add](#add-com.aspose.pdf.Field-java.lang.String-int-) | 向表单添加新字段；如果该字段已放置在其他表单或此表单上，则会创建字段的副本。 |
+| [add](#add-com.aspose.pdf.WidgetAnnotation-) | 在表单上添加字段。 |
+| [addFieldAppearance](#addFieldAppearance-com.aspose.pdf.Field-int-com.aspose.pdf.Rectangle-) | 在文档的指定页面的指定位置添加字段的附加外观。 |
+| [addFieldToAcroForm](#addFieldToAcroForm-com.aspose.pdf.Field-) | 在文档的指定页面添加字段的附加外观。 |
+| [assignXfa](#assignXfa-com.aspose.ms.System.Xml.XmlDocument-) | 将表单的 XFA 设置为指定值。 |
+| [clear](#clear--) | 删除表单中的所有字段。此功能不受支持。 |
+| [contains](#contains-com.aspose.pdf.WidgetAnnotation-) | 确定字段是否出现在表单上。 |
+| [copyTo](#copyTo-com.aspose.pdf.Field:A-int-) | 将放置在表单上的字段复制到数组中。 |
+| [copyTo](#copyTo-com.aspose.pdf.WidgetAnnotation:A-int-) | 将表单的字段复制到数组中。 |
+| [delete](#delete-com.aspose.pdf.Field-) | 从表单中删除字段。 |
+| [delete](#delete-java.lang.String-) | 按名称从表单中删除字段。 |
+| [flatten](#flatten--) | 移除所有静态表单字段并将其值直接放置在页面上。 |
+| [get_Item](#get_Item-int-) | 通过字段索引获取表单的字段。 |
+| [get_Item](#get_Item-java.lang.String-) | 通过字段名称获取表单的字段。如果未找到该字段则抛出异常。 |
+| [get_xfa](#get_xfa--) | 仅供内部使用 |
+| [get](#get-int-) |  |
+| [get](#get-java.lang.String-) | 按字段名称搜索字段。如果未找到字段则返回 null。 |
+| [getAutoRecalculate](#getAutoRecalculate--) | 如果设置为 true，则在任何字段更改时所有表单字段都会重新计算。默认值为 true。为了在填充大量计算字段的表单时提升性能，可将其设为 false。 |
+| [getAutoRestoreForm](#getAutoRestoreForm--) | 如果设置，则在注释中出现的缺失表单字段将自动创建。 |
+| [getDefaultAppearance](#getDefaultAppearance--) | 获取表单的默认外观（描述表单字段默认字体、文本大小和颜色的对象）。 |
+| [getDefaultResources](#getDefaultResources--) | 获取放置在此表单上的默认资源。 |
+| [getDocument](#getDocument--) | 仅供内部使用 |
+| [getEmulateRequierdGroups](#getEmulateRequierdGroups--) | 如果此属性为 true，则会为必需的 Xfa exclGroup 元素容器绘制额外的红色边界矩形。之所以引入此属性，是因为在将 Xfa 表单表示转换为标准时缺少 exclGroup 的对应实现。默认值为 false。 |
+| [getFields](#getFields--) | 获取层次结构表单最低层级中所有字段的列表。 |
+| [getFieldsInRect](#getFieldsInRect-com.aspose.pdf.Rectangle-) | 返回位于指定矩形内的字段。 |
+| [getIgnoreNeedsRendering](#getIgnoreNeedsRendering--) | 如果此属性为 true，则在将 XFA 表单转换为标准表单期间会忽略 NeedsRendering 键的值。默认值为 false。 |
+| [getNeedsRendering](#getNeedsRendering--) | 获取一个值，指示文档是否需要移除动态 XFA 表单。引入此属性是为了确定在 XFA 表单存在且 {@code NeedsRendering}({@link #getNeedsRendering}) 为 false 的情况下，是否应使用 {@code IgnoreNeedsRendering}({@link #getIgnoreNeedsRendering}/{@link #setIgnoreNeedsRendering(boolean)}) 来移除 XFA 表单。 |
+| [getRemovePermission](#getRemovePermission--) | 如果此属性为 true，则在将动态文档转换为标准文档后，pdf 文档中的 "Perms" 字典将被移除。"Perms" 字典可能包含会干扰 Adobe Acrobat Reader 中必填字段选择显示的规则。默认值为 false。 |
+| [getSignaturesAppendOnly](#getSignaturesAppendOnly--) | 如果设置，则文档包含的签名可能会在文件以改变其先前内容的方式保存（写入）时失效，而不是增量更新。 |
+| [getSignaturesExist](#getSignaturesExist--) | 如果设置，则文档至少包含一个签名字段。 |
+| [getSignDependentElementsRenderingModeWhenConverted](#getSignDependentElementsRenderingModeWhenConverted--) | 表单可以包含签名信息，即可以是已签名或未签名。表单的视图有时必须取决于表单是否已签名。此属性告知表单转换器（例如在将 XFA 表单转换为标准表单期间），结果表单应以已签名还是未签名的方式呈现。 |
+| [getSyncRoot](#getSyncRoot--) | 返回同步对象。 |
+| [getType](#getType--) | 获取表单的类型。可能的取值有：Standard、Static、Dynamic。 |
+| [getXFA](#getXFA--) | 获取表单的 XFA 数据（如果存在）。 |
+| [hasField](#hasField-com.aspose.pdf.Field-) | 检查表单是否已经拥有指定字段。 |
+| [hasField](#hasField-java.lang.String-) | 确定具有指定名称的字段是否已添加到表单中。 |
+| [hasField](#hasField-java.lang.String-boolean-) | 确定具有指定名称的字段是否已添加到表单中，并能够查看子层级字段的层次结构。 |
+| [hasXfa](#hasXfa--) | 获取一个值，指示文档是否包含 XFA 表单。引入此属性是为了确定在 XFA 表单存在且 {@code NeedsRendering}({@link #getNeedsRendering}) 为 false 的情况下，是否应使用 {@code IgnoreNeedsRendering}({@link #getIgnoreNeedsRendering}/{@link #setIgnoreNeedsRendering(boolean)}) 来移除 XFA 表单。 |
+| [isReadOnly](#isReadOnly--) | 确定集合是否为只读。始终返回 false。 |
+| [isSynchronized](#isSynchronized--) | 如果对象是线程安全的，则返回 true。 |
+| [iterator](#iterator--) | 获取表单字段的枚举。 |
+| [makeFormAnnotationsIndependent](#makeFormAnnotationsIndependent-com.aspose.pdf.Page-) | / * / * 将 PDF 表单字段导出为 JSON 格式并将结果写入提供的流。 / * / * Document document = new Document("PdfDoc.pdf"); / * FileStream fs = new FileStream("export.json", FileMode.Create, FileAccess.Write); / * document.Form.ExportFormFieldsToJson(fs); / * fs.Close(); / * |
+| [remove](#remove-com.aspose.pdf.WidgetAnnotation-) | 从表单中删除字段。 |
+| [removeFieldAppearance](#removeFieldAppearance-com.aspose.pdf.Field-int-) | 移除指定索引处字段的外观。如果只剩下一个子外观，方法会将其嵌入到字段中。 |
+| [setAutoRecalculate](#setAutoRecalculate-boolean-) | 如果设置为 true，则在任何字段更改时所有表单字段都会重新计算。默认值为 true。为了在填充大量计算字段的表单时提升性能，可将其设为 false。 |
+| [setAutoRestoreForm](#setAutoRestoreForm-boolean-) | 如果设置，则在注释中出现的缺失表单字段将自动创建。 |
+| [setCalculatedFields](#setCalculatedFields-java.util.List-) | 允许设置字段计算的顺序。 |
+| [setDefaultAppearance](#setDefaultAppearance-com.aspose.pdf.DefaultAppearance-) | 设置表单的默认外观（描述表单字段默认字体、文本大小和颜色的对象）。 |
+| [setEmulateRequierdGroups](#setEmulateRequierdGroups-boolean-) | 如果此属性为 true，则会为必需的 Xfa exclGroup 元素容器绘制额外的红色边界矩形。之所以引入此属性，是因为在将 Xfa 表单表示转换为标准时缺少 exclGroup 的对应实现。默认值为 false。 |
+| [setIgnoreNeedsRendering](#setIgnoreNeedsRendering-boolean-) | 如果此属性为 true，则在将 XFA 表单转换为标准表单期间会忽略 NeedsRendering 键的值。默认值为 false。 |
+| [setRemovePermission](#setRemovePermission-boolean-) | 如果此属性为 true，则在将动态文档转换为标准文档后，pdf 文档中的 "Perms" 字典将被移除。"Perms" 字典可能包含会干扰 Adobe Acrobat Reader 中必填字段选择显示的规则。默认值为 false。 |
+| [setSignaturesAppendOnly](#setSignaturesAppendOnly-boolean-) | 如果设置，则文档包含的签名可能会在文件以改变其先前内容的方式保存（写入）时失效，而不是增量更新。 |
+| [setSignaturesExist](#setSignaturesExist-boolean-) | 如果设置，则文档至少包含一个签名字段。 |
+| [setSignDependentElementsRenderingModeWhenConverted](#setSignDependentElementsRenderingModeWhenConverted-int-) | 表单可以包含签名信息，即可以是已签名或未签名。表单的视图有时必须取决于表单是否已签名。此属性告知表单转换器（例如在将 XFA 表单转换为标准表单期间），结果表单应以已签名还是未签名的方式呈现。 |
+| [setType](#setType-com.aspose.pdf.FormType-) | 获取表单的类型。可能的取值有：Standard、Static、Dynamic。 |
+| [size](#size--) | 获取此表单上字段的数量。 |
 
-
+### Form {#Form-com.aspose.pdf.IDocument-}
 构造函数
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| document | [IDocument](../../com.aspose.pdf/idocument) | 文档对象 |
-
-### add(Field field) {#add-com.aspose.pdf.Field-}
-```
-public void add(Field field)
-```
-
-
+### add {#add-com.aspose.pdf.Field-}
 在表单上添加字段。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| field | [Field](../../com.aspose.pdf/field) | 必须添加的字段。 |
-
-### add(Field field, int pageNumber) {#add-com.aspose.pdf.Field-int-}
-```
-public void add(Field field, int pageNumber)
-```
-
-
+### add {#add-com.aspose.pdf.Field-int-}
 在表单上添加字段。
 
-**参数：**
+### add {#add-com.aspose.pdf.Field-java.lang.String-int-}
+向表单添加新字段；如果该字段已放置在其他表单或此表单上，则会创建字段的副本。
 
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| field | [Field](../../com.aspose.pdf/field) | 必须添加的字段。 |
-| pageNumber | int | 将放置添加字段的页面索引。 |
-
-### add(Field field, String partialName, int pageNumber) {#add-com.aspose.pdf.Field-java.lang.String-int-}
-```
-public Field add(Field field, String partialName, int pageNumber)
-```
-
-
-向表单添加新字段；如果此字段已放置在其他或此表单上，则创建字段副本。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| field | [Field](../../com.aspose.pdf/field) | 字段名称。 |
-| partialName | java.lang.String | 表单上的字段名称。 |
-| pageNumber | int | 将添加字段的页码。 |
-
-**退货：**
-[Field](../../com.aspose.pdf/field) - 添加返回的字段。如果创建了该字段的副本，它将被返回。
-### add(WidgetAnnotation field) {#add-com.aspose.pdf.WidgetAnnotation-}
-```
-public boolean add(WidgetAnnotation field)
-```
-
-
+### add {#add-com.aspose.pdf.WidgetAnnotation-}
 在表单上添加字段。
 
-**参数：**
+### addFieldAppearance {#addFieldAppearance-com.aspose.pdf.Field-int-com.aspose.pdf.Rectangle-}
+在文档的指定页面的指定位置添加字段的附加外观。
 
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| field | [WidgetAnnotation](../../com.aspose.pdf/widgetannotation) | 必须添加的字段。 |
+### addFieldToAcroForm {#addFieldToAcroForm-com.aspose.pdf.Field-}
+在文档的指定页面添加字段的附加外观。
 
-**退货：**
-boolean - 布尔值
-### addFieldAppearance(Field field, int pageNumber, Rectangle rect) {#addFieldAppearance-com.aspose.pdf.Field-int-com.aspose.pdf.Rectangle-}
-```
-public void addFieldAppearance(Field field, int pageNumber, Rectangle rect)
-```
-
-
-将字段的附加外观添加到指定位置文档的指定页面。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| field | [Field](../../com.aspose.pdf/field) | 应在表单上添加外观的字段。 |
-| pageNumber | int | 必须放置字段的页码。 |
-| rect | [Rectangle](../../com.aspose.pdf/rectangle) | 将放置字段的矩形。 |
-
-### addFieldToAcroForm(Field field) {#addFieldToAcroForm-com.aspose.pdf.Field-}
-```
-public void addFieldToAcroForm(Field field)
-```
-
-
-将字段的附加外观添加到文档的指定页面。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| field | [Field](../../com.aspose.pdf/field) | 字段对象 |
-
-### assignXfa(System.Xml.XmlDocument xml) {#assignXfa-com.aspose.ms.System.Xml.XmlDocument-}
-```
-public void assignXfa(System.Xml.XmlDocument xml)
-```
-
-
+### assignXfa {#assignXfa-com.aspose.ms.System.Xml.XmlDocument-}
 将表单的 XFA 设置为指定值。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| xml | com.aspose.ms.System.Xml.XmlDocument | 包含新 XFA 数据的 Xml 文档。 |
-
-### clear() {#clear--}
+### clear {#clear--}
 ```
 public void clear()
 ```
 
+删除表单中的所有字段。此功能不受支持。
 
-从表单中删除所有字段。不支持。
+### contains {#contains-com.aspose.pdf.WidgetAnnotation-}
+确定字段是否出现在表单上。
 
-### contains(WidgetAnnotation field) {#contains-com.aspose.pdf.WidgetAnnotation-}
-```
-public boolean contains(WidgetAnnotation field)
-```
-
-
-确定字段是否显示在表单上。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| field | [WidgetAnnotation](../../com.aspose.pdf/widgetannotation) | 要搜索的字段。 |
-
-**退货：**
-boolean - 布尔值
-### copyTo(Field[] array, int index) {#copyTo-com.aspose.pdf.Field---int-}
-```
-public void copyTo(Field[] array, int index)
-```
-
-
+### copyTo {#copyTo-com.aspose.pdf.Field:A-int-}
 将放置在表单上的字段复制到数组中。
 
-**参数：**
+### copyTo {#copyTo-com.aspose.pdf.WidgetAnnotation:A-int-}
+将表单的字段复制到数组中。
 
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| array | [Field\[\]](../../com.aspose.pdf/field) | 必须放置字段的数组。 |
-| index | int | 起始索引。 |
-
-### copyTo(WidgetAnnotation[] array, int arrayIndex) {#copyTo-com.aspose.pdf.WidgetAnnotation---int-}
-```
-public void copyTo(WidgetAnnotation[] array, int arrayIndex)
-```
-
-
-将表单的字段复制到数组。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| array | [WidgetAnnotation\[\]](../../com.aspose.pdf/widgetannotation) | 要复制的数组。 |
-| arrayIndex | int | 复制开始的数组项的索引。 |
-
-### delete(Field field) {#delete-com.aspose.pdf.Field-}
-```
-public void delete(Field field)
-```
-
-
+### delete {#delete-com.aspose.pdf.Field-}
 从表单中删除字段。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| field | [Field](../../com.aspose.pdf/field) | 必须删除的字段。 |
-
-### delete(String fieldName) {#delete-java.lang.String-}
-```
-public void delete(String fieldName)
-```
-
-
+### delete {#delete-java.lang.String-}
 按名称从表单中删除字段。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| fieldName | java.lang.String | 必须删除的文件的名称。 |
-
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### flatten() {#flatten--}
+### flatten {#flatten--}
 ```
 public void flatten()
 ```
 
+移除所有静态表单字段并将其值直接放置在页面上。
 
-删除所有静态表单字段并将它们的值直接放在页面上。
+### get_Item {#get_Item-int-}
+```
+public WidgetAnnotation get_Item(int index)
+```
 
-### get(int index) {#get-int-}
+通过字段索引获取表单的字段。
+
+**Parameters:**
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| 索引 |  | 字段的索引。 |
+
+**Returns:**
+检索到的字段。
+
+### get_Item {#get_Item-java.lang.String-}
+通过字段名称获取表单的字段。如果未找到该字段则抛出异常。
+
+### get_xfa {#get_xfa--}
+```
+public XFA get_xfa()
+```
+
+仅供内部使用
+
+**Returns:**
+XFA 对象
+
+### get {#get-int-}
 ```
 public WidgetAnnotation get(int index)
 ```
 
 
 
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| index | int |  |
+| 索引 |  |  |
 
-**退货：**
-[WidgetAnnotation](../../com.aspose.pdf/widgetannotation)
-### get(String name) {#get-java.lang.String-}
-```
-public WidgetAnnotation get(String name)
-```
+### get {#get-java.lang.String-}
+按字段名称搜索字段。如果未找到字段则返回 null。
 
-
-按字段名称搜索字段。如果未找到字段，则返回 null。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| name | java.lang.String | 字段名称。 |
-
-**退货：**
-[WidgetAnnotation](../../com.aspose.pdf/widgetannotation) - 字段对象。
-### getAutoRecalculate() {#getAutoRecalculate--}
+### getAutoRecalculate {#getAutoRecalculate--}
 ```
 public final boolean getAutoRecalculate()
 ```
 
+如果设置为 true，则在任何字段更改时所有表单字段都会重新计算。默认值为 true。为了在填充大量计算字段的表单时提升性能，可将其设为 false。
 
-如果设置，当任何字段更改时，将重新计算所有表单字段。默认值为真。设置为 false 以在使用大量计算字段填充表单时提高性能。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### getAutoRestoreForm() {#getAutoRestoreForm--}
+### getAutoRestoreForm {#getAutoRestoreForm--}
 ```
 public final boolean getAutoRestoreForm()
 ```
 
+如果设置，则在注释中出现的缺失表单字段将自动创建。
 
-如果设置，如果缺席的表单字段出现在注释中，将自动创建它们。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getDefaultAppearance() {#getDefaultAppearance--}
+### getDefaultAppearance {#getDefaultAppearance--}
 ```
 public DefaultAppearance getDefaultAppearance()
 ```
 
+获取表单的默认外观（描述表单字段默认字体、文本大小和颜色的对象）。
 
-获取表单的默认外观（描述表单字段的默认字体、文本大小和颜色的对象）。
+**Returns:**
+DefaultAppearance 对象
 
-**退货：**
-[DefaultAppearance](../../com.aspose.pdf/defaultappearance) 默认外观对象
-### getDefaultResources() {#getDefaultResources--}
+### getDefaultResources {#getDefaultResources--}
 ```
 public Resources getDefaultResources()
 ```
 
+获取放置在此表单上的默认资源。
 
-获取放置在该窗体上的默认资源。
+**Returns:**
+Resources 值
 
-**退货：**
-[Resources](../../com.aspose.pdf/resources) - 资源价值
-### getDocument() {#getDocument--}
+### getDocument {#getDocument--}
 ```
 public IDocument getDocument()
 ```
 
-
 仅供内部使用
 
-**退货：**
-[IDocument](../../com.aspose.pdf/idocument) IDocument 对象
-### getEmulateRequierdGroups() {#getEmulateRequierdGroups--}
+**Returns:**
+IDocument 对象
+
+### getEmulateRequierdGroups {#getEmulateRequierdGroups--}
 ```
 public boolean getEmulateRequierdGroups()
 ```
 
+如果此属性为 true，则会为必需的 Xfa exclGroup 元素容器绘制额外的红色边界矩形。之所以引入此属性，是因为在将 Xfa 表单表示转换为标准时缺少 exclGroup 的对应实现。默认值为 false。
 
-如果此属性为真，则将为所需的 Xfa exclGroup 元素容器绘制额外的红色边界矩形。引入此属性是因为在将 Xfa 表示形式转换为标准期间缺少 exclGroup 的类比。默认情况下为假。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### getFields() {#getFields--}
+### getFields {#getFields--}
 ```
-public Field[] getFields()
-```
-
-
-获取层次结构形式最低级别的所有字段的列表。
-
-**退货：**
-com.aspose.pdf.字段[- 包含找到的字段的数组。
-### getFieldsInRect(Rectangle rect) {#getFieldsInRect-com.aspose.pdf.Rectangle-}
-```
-public Field[] getFieldsInRect(Rectangle rect)
+public Field [] getFields()
 ```
 
+获取层次结构表单最低层级中所有字段的列表。
 
-返回指定矩形内的字段。
+**Returns:**
+包含找到的字段的数组。
 
-**参数：**
+### getFieldsInRect {#getFieldsInRect-com.aspose.pdf.Rectangle-}
+返回位于指定矩形内的字段。
 
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| rect | [Rectangle](../../com.aspose.pdf/rectangle) | 应在其中找到字段的矩形。 |
-
-**退货：**
-com.aspose.pdf.字段[- 包含找到的字段的数组。
-### getIgnoreNeedsRendering() {#getIgnoreNeedsRendering--}
+### getIgnoreNeedsRendering {#getIgnoreNeedsRendering--}
 ```
 public boolean getIgnoreNeedsRendering()
 ```
 
+如果此属性为 true，则在将 XFA 表单转换为标准表单期间会忽略 NeedsRendering 键的值。默认值为 false。
 
-如果此属性为真，则在将 XFA 格式转换为标准格式期间将忽略 NeedsRendering 键的值。默认情况下为假。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### getRemovePermission() {#getRemovePermission--}
+### getNeedsRendering {#getNeedsRendering--}
+```
+public final boolean getNeedsRendering()
+```
+
+获取一个值，指示文档是否需要移除动态 XFA 表单。引入此属性是为了确定在 XFA 表单存在且 {@code NeedsRendering}({@link #getNeedsRendering}) 为 false 的情况下，是否应使用 {@code IgnoreNeedsRendering}({@link #getIgnoreNeedsRendering}/{@link #setIgnoreNeedsRendering(boolean)}) 来移除 XFA 表单。
+
+**Returns:**
+布尔值
+
+### getRemovePermission {#getRemovePermission--}
 ```
 public boolean getRemovePermission()
 ```
 
+如果此属性为 true，则在将动态文档转换为标准文档后，pdf 文档中的 "Perms" 字典将被移除。"Perms" 字典可能包含会干扰 Adobe Acrobat Reader 中必填字段选择显示的规则。默认值为 false。
 
-如果此属性为真，则在将动态文档转换为标准后，“Perms”字典将从 pdf 文档中删除。 “Perms”字典可能包含干扰在 Adobe Acrobat 阅读器中显示必填字段选择的规则。默认情况下为假。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### getSignDependentElementsRenderingModeWhenConverted() {#getSignDependentElementsRenderingModeWhenConverted--}
-```
-public int getSignDependentElementsRenderingModeWhenConverted()
-```
-
-
-表单可以包含签名信息，即可以签名或不签名。有时表单的视图必须取决于表单是否已签名。此属性告诉表单的转换器（fe 在将 XFA 表单转换为标准表单期间）是否必须将结果表单呈现为已签名或未签名。
-
-**退货：**
-int - SignDependentElementsRenderingModes 元素
-### getSignaturesAppendOnly() {#getSignaturesAppendOnly--}
+### getSignaturesAppendOnly {#getSignaturesAppendOnly--}
 ```
 public final boolean getSignaturesAppendOnly()
 ```
 
+如果设置，则文档包含的签名可能会在文件以改变其先前内容的方式保存（写入）时失效，而不是增量更新。
 
-如果设置，文档包含的签名可能会无效，如果文件以改变其先前内容的方式保存（写入），而不是增量更新。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### getSignaturesExist() {#getSignaturesExist--}
+### getSignaturesExist {#getSignaturesExist--}
 ```
 public final boolean getSignaturesExist()
 ```
 
+如果设置，则文档至少包含一个签名字段。
 
-如果设置，文档至少包含一个签名域。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### getSyncRoot() {#getSyncRoot--}
+### getSignDependentElementsRenderingModeWhenConverted {#getSignDependentElementsRenderingModeWhenConverted--}
+```
+public int getSignDependentElementsRenderingModeWhenConverted()
+```
+
+表单可以包含签名信息，即可以是已签名或未签名。表单的视图有时必须取决于表单是否已签名。此属性告知表单转换器（例如在将 XFA 表单转换为标准表单期间），结果表单应以已签名还是未签名的方式呈现。
+
+**Returns:**
+SignDependentElementsRenderingModes 元素 @see SignDependentElementsRenderingModes
+
+### getSyncRoot {#getSyncRoot--}
 ```
 public Object getSyncRoot()
 ```
 
-
 返回同步对象。
 
-**退货：**
-java.lang.Object - 同步对象
-### getType() {#getType--}
+**Returns:**
+用于同步的对象
+
+### getType {#getType--}
 ```
-public int getType()
+public FormType getType()
 ```
 
+获取表单的类型。可能的取值有：Standard、Static、Dynamic。
 
-获取表单的类型。可能的值有：标准、静态、动态。
+**Returns:**
+FormType 值 @see FormType
 
-**退货：**
-int - FormType 值
-### getXFA() {#getXFA--}
+### getXFA {#getXFA--}
 ```
 public XFA getXFA()
 ```
 
-
 获取表单的 XFA 数据（如果存在）。
 
-**退货：**
-[XFA](../../com.aspose.pdf/xfa) XFA值
-### get_Item(int index) {#get-Item-int-}
-```
-public WidgetAnnotation get_Item(int index)
-```
+**Returns:**
+XFA 值
 
+### hasField {#hasField-com.aspose.pdf.Field-}
+检查表单是否已经拥有指定字段。
 
-通过字段索引获取表单的字段。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| index | int | 字段的索引。 |
-
-**退货：**
-[WidgetAnnotation](../../com.aspose.pdf/widgetannotation) - 检索领域。
-### get_Item(String name) {#get-Item-java.lang.String-}
-```
-public WidgetAnnotation get_Item(String name)
-```
-
-
-通过字段名获取表单的字段。如果未找到该字段，则抛出异常。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| name | java.lang.String | 字段名称。 |
-
-**退货：**
-[WidgetAnnotation](../../com.aspose.pdf/widgetannotation) - 检索领域。
-### get_xfa() {#get-xfa--}
-```
-public XFA get_xfa()
-```
-
-
-仅供内部使用
-
-**退货：**
-[XFA](../../com.aspose.pdf/xfa) - XFA对象
-### hasField(Field field) {#hasField-com.aspose.pdf.Field-}
-```
-public final boolean hasField(Field field)
-```
-
-
-检查表单是否已经有指定字段。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| field | [Field](../../com.aspose.pdf/field) | 要检查的字段。 |
-
-**退货：**
-boolean - 如果将指定的字段名称添加到 Form 则为 true；否则，假的。
-### hasField(String fieldName) {#hasField-java.lang.String-}
-```
-public final boolean hasField(String fieldName)
-```
-
-
+### hasField {#hasField-java.lang.String-}
 确定具有指定名称的字段是否已添加到表单中。
 
-**参数：**
+### hasField {#hasField-java.lang.String-boolean-}
+确定具有指定名称的字段是否已添加到表单中，并能够查看子层级字段的层次结构。
 
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| fieldName | java.lang.String | 字段的部分名称。 |
-
-**退货：**
-boolean - 如果将指定的字段名称添加到 Form 则为 true；否则，假的。
-### hasXfa() {#hasXfa--}
+### hasXfa {#hasXfa--}
 ```
-public boolean hasXfa()
+public final boolean hasXfa()
 ```
 
+获取一个值，指示文档是否包含 XFA 表单。引入此属性是为了确定在 XFA 表单存在且 {@code NeedsRendering}({@link #getNeedsRendering}) 为 false 的情况下，是否应使用 {@code IgnoreNeedsRendering}({@link #getIgnoreNeedsRendering}/{@link #setIgnoreNeedsRendering(boolean)}) 来移除 XFA 表单。
 
-如果 hasXfa 则返回 true
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### isReadOnly() {#isReadOnly--}
+### isReadOnly {#isReadOnly--}
 ```
 public boolean isReadOnly()
 ```
 
+确定集合是否为只读。始终返回 false。
 
-确定集合是否为只读。总是返回错误。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### isSynchronized() {#isSynchronized--}
+### isSynchronized {#isSynchronized--}
 ```
 public boolean isSynchronized()
 ```
 
-
 如果对象是线程安全的，则返回 true。
 
-**退货：**
-boolean - 布尔值
-### iterator() {#iterator--}
-```
-public Iterator<WidgetAnnotation> iterator()
-```
+**Returns:**
+布尔值
 
+### iterator {#iterator--}
+```
+public com.aspose.ms.System.Collections.Generic.List.Enumerator< WidgetAnnotation > iterator()
+```
 
 获取表单字段的枚举。
 
-**退货：**
-java.util.Iterator<com.aspose.pdf.WidgetAnnotation> - 字段枚举器。
-### notify() {#notify--}
-```
-public final native void notify()
-```
+**Returns:**
+字段枚举器。
 
+### makeFormAnnotationsIndependent {#makeFormAnnotationsIndependent-com.aspose.pdf.Page-}
+/ * / * 将 PDF 表单字段导出为 JSON 格式并将结果写入提供的流。 / * / * Document document = new Document("PdfDoc.pdf"); / * FileStream fs = new FileStream("export.json", FileMode.Create, FileAccess.Write); / * document.Form.ExportFormFieldsToJson(fs); / * fs.Close(); / *
 
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### remove(WidgetAnnotation field) {#remove-com.aspose.pdf.WidgetAnnotation-}
-```
-public boolean remove(WidgetAnnotation field)
-```
-
-
+### remove {#remove-com.aspose.pdf.WidgetAnnotation-}
 从表单中删除字段。
 
-**参数：**
+### removeFieldAppearance {#removeFieldAppearance-com.aspose.pdf.Field-int-}
+移除指定索引处字段的外观。如果只剩下一个子外观，方法会将其嵌入到字段中。
 
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| field | [WidgetAnnotation](../../com.aspose.pdf/widgetannotation) | 要删除的字段。 |
-
-**退货：**
-boolean - 如果字段被删除则为真。如果在表单上找不到字段，则为 False。
-### setAutoRecalculate(boolean value) {#setAutoRecalculate-boolean-}
+### setAutoRecalculate {#setAutoRecalculate-boolean-}
 ```
 public final void setAutoRecalculate(boolean value)
 ```
 
+如果设置为 true，则在任何字段更改时所有表单字段都会重新计算。默认值为 true。为了在填充大量计算字段的表单时提升性能，可将其设为 false。
 
-如果设置，当任何字段更改时，将重新计算所有表单字段。默认值为真。设置为 false 以在使用大量计算字段填充表单时提高性能。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setAutoRestoreForm(boolean value) {#setAutoRestoreForm-boolean-}
+### setAutoRestoreForm {#setAutoRestoreForm-boolean-}
 ```
 public final void setAutoRestoreForm(boolean value)
 ```
 
+如果设置，则在注释中出现的缺失表单字段将自动创建。
 
-如果设置，如果缺席的表单字段出现在注释中，将自动创建它们。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setCalculatedFields(List<Field> value) {#setCalculatedFields-java.util.List-com.aspose.pdf.Field--}
-```
-public void setCalculatedFields(List<Field> value)
-```
+### setCalculatedFields {#setCalculatedFields-java.util.List-}
+允许设置字段计算的顺序。
 
+### setDefaultAppearance {#setDefaultAppearance-com.aspose.pdf.DefaultAppearance-}
+设置表单的默认外观（描述表单字段默认字体、文本大小和颜色的对象）。
 
-允许设置字段计算顺序。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.util.List<com.aspose.pdf.Field> | java.util.List 对象。 |
-
-### setDefaultAppearance(DefaultAppearance value) {#setDefaultAppearance-com.aspose.pdf.DefaultAppearance-}
-```
-public void setDefaultAppearance(DefaultAppearance value)
-```
-
-
-设置表单的默认外观（描述表单字段的默认字体、文本大小和颜色的对象）。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [DefaultAppearance](../../com.aspose.pdf/defaultappearance) | DefaultAppearance 对象 |
-
-### setEmulateRequierdGroups(boolean value) {#setEmulateRequierdGroups-boolean-}
+### setEmulateRequierdGroups {#setEmulateRequierdGroups-boolean-}
 ```
 public void setEmulateRequierdGroups(boolean value)
 ```
 
+如果此属性为 true，则会为必需的 Xfa exclGroup 元素容器绘制额外的红色边界矩形。之所以引入此属性，是因为在将 Xfa 表单表示转换为标准时缺少 exclGroup 的对应实现。默认值为 false。
 
-如果此属性为真，则将为所需的 Xfa exclGroup 元素容器绘制额外的红色边界矩形。引入此属性是因为在将 Xfa 表示形式转换为标准期间缺少 exclGroup 的类比。默认情况下为假。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setIgnoreNeedsRendering(boolean value) {#setIgnoreNeedsRendering-boolean-}
+### setIgnoreNeedsRendering {#setIgnoreNeedsRendering-boolean-}
 ```
 public void setIgnoreNeedsRendering(boolean value)
 ```
 
+如果此属性为 true，则在将 XFA 表单转换为标准表单期间会忽略 NeedsRendering 键的值。默认值为 false。
 
-如果此属性为真，则在将 XFA 格式转换为标准格式期间将忽略 NeedsRendering 键的值。默认情况下为假。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setRemovePermission(boolean value) {#setRemovePermission-boolean-}
+### setRemovePermission {#setRemovePermission-boolean-}
 ```
 public void setRemovePermission(boolean value)
 ```
 
+如果此属性为 true，则在将动态文档转换为标准文档后，pdf 文档中的 "Perms" 字典将被移除。"Perms" 字典可能包含会干扰 Adobe Acrobat Reader 中必填字段选择显示的规则。默认值为 false。
 
-如果此属性为真，则在将动态文档转换为标准后，“Perms”字典将从 pdf 文档中删除。 “Perms”字典可能包含干扰在 Adobe Acrobat 阅读器中显示必填字段选择的规则。默认情况下为假。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setSignDependentElementsRenderingModeWhenConverted(int signDependentElementsRenderingModeWhenConverted) {#setSignDependentElementsRenderingModeWhenConverted-int-}
-```
-public void setSignDependentElementsRenderingModeWhenConverted(int signDependentElementsRenderingModeWhenConverted)
-```
-
-
-表单可以包含签名信息，即可以签名或不签名。有时表单的视图必须取决于表单是否已签名。此属性告诉表单的转换器（fe 在将 XFA 表单转换为标准表单期间）是否必须将结果表单呈现为已签名或未签名。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| signDependentElementsRenderingModeWhenConverted | int | SignDependentElementsRenderingModes 元素 |
-
-### setSignaturesAppendOnly(boolean value) {#setSignaturesAppendOnly-boolean-}
+### setSignaturesAppendOnly {#setSignaturesAppendOnly-boolean-}
 ```
 public final void setSignaturesAppendOnly(boolean value)
 ```
 
+如果设置，则文档包含的签名可能会在文件以改变其先前内容的方式保存（写入）时失效，而不是增量更新。
 
-如果设置，文档包含的签名可能会无效，如果文件以改变其先前内容的方式保存（写入），而不是增量更新。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setSignaturesExist(boolean value) {#setSignaturesExist-boolean-}
+### setSignaturesExist {#setSignaturesExist-boolean-}
 ```
 public final void setSignaturesExist(boolean value)
 ```
 
+如果设置，则文档至少包含一个签名字段。
 
-如果设置，文档至少包含一个签名域。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setType(int value) {#setType-int-}
+### setSignDependentElementsRenderingModeWhenConverted {#setSignDependentElementsRenderingModeWhenConverted-int-}
 ```
-public void setType(int value)
+public void setSignDependentElementsRenderingModeWhenConverted(int signDependentElementsRenderingModeWhenConverted)
 ```
 
+表单可以包含签名信息，即可以是已签名或未签名。表单的视图有时必须取决于表单是否已签名。此属性告知表单转换器（例如在将 XFA 表单转换为标准表单期间），结果表单应以已签名还是未签名的方式呈现。
 
-获取表单的类型。可能的值有：标准、静态、动态。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 表单类型值 |
+| signDependentElementsRenderingModeWhenConverted |  | SignDependentElementsRenderingModes 元素 @see SignDependentElementsRenderingModes |
 
-### size() {#size--}
+### setType {#setType-com.aspose.pdf.FormType-}
+获取表单的类型。可能的取值有：Standard、Static、Dynamic。
+
+### size {#size--}
 ```
 public final int size()
 ```
 
+获取此表单上字段的数量。
 
-获取此表单上的字段数。
-
-**退货：**
-int - 整数值
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+**Returns:**
+int 值

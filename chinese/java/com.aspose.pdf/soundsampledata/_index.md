@@ -1,340 +1,218 @@
 ---
-title: SoundSampleData
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 表示特定于声音对象的附加条目第 9.2 节 PDF1-7
+title: "SoundSampleData"
+linktitle: "SoundSampleData"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示特定于声音对象的附加条目（第 9.2 节 PDF1-7）"
 type: docs
-weight: 331
+weight: 4580
 url: /zh/java/com.aspose.pdf/soundsampledata/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.SoundSampleData
+
 ```
-public class SoundSampleData
+public class SoundSampleData extends Object
 ```
 
 表示特定于声音对象的附加条目（第 9.2 节 PDF1-7）
+
+## 字段
+
+| 字段 | 描述 |
+| --- | --- |
+| [DEFAULT_ENCODING_FORMAT](#DEFAULT_ENCODING_FORMAT) | 编码格式的默认值。 |
+| [DEFAULT_OF_BITS_PER_CHANNEL](#DEFAULT_OF_BITS_PER_CHANNEL) | BitsPerchannel 参数的默认值。 |
+| [DEFAULT_OF_SOUND_CHANNELS](#DEFAULT_OF_SOUND_CHANNELS) | Channels 参数的默认值。 |
+| [DEFAULT_SAMPLING_RATE](#DEFAULT_SAMPLING_RATE) | SamplingRate 的默认值。 |
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [SoundSampleData(long samplingRate)](#SoundSampleData-long-) | 初始化新的声音样本数据。 |
-| [SoundSampleData(long samplingRate, int numberOfSoundChannels)](#SoundSampleData-long-int-) | 初始化新的声音样本数据。 |
-| [SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPerChannel)](#SoundSampleData-long-int-int-) | 初始化新的声音样本数据。 |
-| [SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPerChannel, int soundSampleDataEncodingFormat)](#SoundSampleData-long-int-int-int-) | 初始化新的声音样本数据。 |
-## 领域
+| [SoundSampleData](#SoundSampleData-long-) | 初始化新的声音样本数据。 |
+| [SoundSampleData](#SoundSampleData-long-int-) | 初始化新的声音样本数据。 |
+| [SoundSampleData](#SoundSampleData-long-int-int-) | 初始化新的声音样本数据。 |
+| [SoundSampleData](#SoundSampleData-long-int-int-int-) | 初始化新的声音样本数据。 |
 
-| 场地 | 描述 |
-| --- | --- |
-| [DEFAULT_ENCODING_FORMAT](#DEFAULT-ENCODING-FORMAT) | 编码格式的默认值。 |
-| [DEFAULT_OF_BITS_PER_CHANNEL](#DEFAULT-OF-BITS-PER-CHANNEL) | BitsPerchannel 参数的默认值。 |
-| [DEFAULT_OF_SOUND_CHANNELS](#DEFAULT-OF-SOUND-CHANNELS) | 通道参数的默认值。 |
-| [DEFAULT_SAMPLING_RATE](#DEFAULT-SAMPLING-RATE) | 采样率的默认值。 |
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getBitsPerChannel()](#getBitsPerChannel--) | 获取每个通道每个样本值的位数。 |
-| [getClass()](#getClass--) |  |
-| [getEncodingFormat_Rename_Namesake()](#getEncodingFormat-Rename-Namesake--) | 获取编码格式。 |
-| [getNumberOfSoundChannels()](#getNumberOfSoundChannels--) | 获取声道数。 |
-| [getSamplingRate()](#getSamplingRate--) | 获取采样率。 |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setBitsPerChannel(int value)](#setBitsPerChannel-int-) | 设置每个通道每个样本值的位数。 |
-| [setEncodingFormat(int value)](#setEncodingFormat-int-) | 设置编码格式。 |
-| [setNumberOfSoundChannels(int value)](#setNumberOfSoundChannels-int-) | 设置声道数。 |
-| [setSamplingRate(long value)](#setSamplingRate-long-) | 设置采样率。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### SoundSampleData(long samplingRate) {#SoundSampleData-long-}
-```
-public SoundSampleData(long samplingRate)
-```
+| [getBitsPerChannel](#getBitsPerChannel--) | 获取每个通道每个样本值的位数。 |
+| [getEncodingFormat_Rename_Namesake](#getEncodingFormat_Rename_Namesake--) | 获取编码格式。 |
+| [getNumberOfSoundChannels](#getNumberOfSoundChannels--) | 获取声音通道的数量。 |
+| [getSamplingRate](#getSamplingRate--) | 获取采样率。 |
+| [setBitsPerChannel](#setBitsPerChannel-int-) | 设置每个通道每个样本值的位数。 |
+| [setEncodingFormat](#setEncodingFormat-int-) | 设置编码格式。 |
+| [setNumberOfSoundChannels](#setNumberOfSoundChannels-int-) | 设置声音通道的数量。 |
+| [setSamplingRate](#setSamplingRate-long-) | 设置采样率。 |
 
-
-初始化新的声音样本数据。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| samplingRate | long | 采样率。 |
-
-### SoundSampleData(long samplingRate, int numberOfSoundChannels) {#SoundSampleData-long-int-}
-```
-public SoundSampleData(long samplingRate, int numberOfSoundChannels)
-```
-
-
-初始化新的声音样本数据。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| samplingRate | long | 采样率。 |
-| numberOfSoundChannels | int | 声道数。 |
-
-### SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPerChannel) {#SoundSampleData-long-int-int-}
-```
-public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPerChannel)
-```
-
-
-初始化新的声音样本数据。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| samplingRate | long | 采样率。 |
-| numberOfSoundChannels | int | 声道数。 |
-| bitsPerChannel | int | 每个通道每个样本值的位数。 |
-
-### SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPerChannel, int soundSampleDataEncodingFormat) {#SoundSampleData-long-int-int-int-}
-```
-public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPerChannel, int soundSampleDataEncodingFormat)
-```
-
-
-初始化新的声音样本数据。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| samplingRate | long | 采样率。 |
-| numberOfSoundChannels | int | 声道数。 |
-| bitsPerChannel | int | 每个通道每个样本值的位数。 |
-| soundSampleDataEncodingFormat | int | 示例数据的编码格式。 |
-
-### DEFAULT_ENCODING_FORMAT {#DEFAULT-ENCODING-FORMAT}
+### DEFAULT_ENCODING_FORMAT {#DEFAULT_ENCODING_FORMAT}
 ```
 public static final int DEFAULT_ENCODING_FORMAT
 ```
 
-
 编码格式的默认值。
 
-### DEFAULT_OF_BITS_PER_CHANNEL {#DEFAULT-OF-BITS-PER-CHANNEL}
+### DEFAULT_OF_BITS_PER_CHANNEL {#DEFAULT_OF_BITS_PER_CHANNEL}
 ```
 public static final int DEFAULT_OF_BITS_PER_CHANNEL
 ```
 
-
 BitsPerchannel 参数的默认值。
 
-### DEFAULT_OF_SOUND_CHANNELS {#DEFAULT-OF-SOUND-CHANNELS}
+### DEFAULT_OF_SOUND_CHANNELS {#DEFAULT_OF_SOUND_CHANNELS}
 ```
 public static final int DEFAULT_OF_SOUND_CHANNELS
 ```
 
+Channels 参数的默认值。
 
-通道参数的默认值。
-
-### DEFAULT_SAMPLING_RATE {#DEFAULT-SAMPLING-RATE}
+### DEFAULT_SAMPLING_RATE {#DEFAULT_SAMPLING_RATE}
 ```
 public static final long DEFAULT_SAMPLING_RATE
 ```
 
+SamplingRate 的默认值。
 
-采样率的默认值。
-
-### equals(Object arg0) {#equals-java.lang.Object-}
+### SoundSampleData {#SoundSampleData-long-}
 ```
-public boolean equals(Object arg0)
+public SoundSampleData(long samplingRate)
 ```
 
+初始化新的声音样本数据。
 
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| arg0 | java.lang.Object |  |
+| samplingRate |  | 采样率。 |
 
-**退货：**
-布尔值
-### getBitsPerChannel() {#getBitsPerChannel--}
+### SoundSampleData {#SoundSampleData-long-int-}
+```
+public SoundSampleData(long samplingRate, int numberOfSoundChannels)
+```
+
+初始化新的声音样本数据。
+
+**Parameters:**
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| samplingRate |  | 采样率。 |
+| numberOfSoundChannels |  | 声音通道的数量。 |
+
+### SoundSampleData {#SoundSampleData-long-int-int-}
+```
+public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPerChannel)
+```
+
+初始化新的声音样本数据。
+
+**Parameters:**
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| samplingRate |  | 采样率。 |
+| numberOfSoundChannels |  | 声音通道的数量。 |
+| bitsPerChannel |  | 每个通道每个样本值的位数。 |
+
+### SoundSampleData {#SoundSampleData-long-int-int-int-}
+```
+public SoundSampleData(long samplingRate, int numberOfSoundChannels, int bitsPerChannel, int soundSampleDataEncodingFormat)
+```
+
+初始化新的声音样本数据。
+
+**Parameters:**
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| samplingRate |  | 采样率。 |
+| numberOfSoundChannels |  | 声音通道的数量。 |
+| bitsPerChannel |  | 每个通道每个样本值的位数。 |
+| soundSampleDataEncodingFormat |  | 样本数据的编码格式。 |
+
+### getBitsPerChannel {#getBitsPerChannel--}
 ```
 public int getBitsPerChannel()
 ```
 
-
 获取每个通道每个样本值的位数。
 
-**退货：**
-int - 整数值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
+**Returns:**
+int 值
 
-
-
-
-**退货：**
-java.lang.Class<?>
-### getEncodingFormat_Rename_Namesake() {#getEncodingFormat-Rename-Namesake--}
+### getEncodingFormat_Rename_Namesake {#getEncodingFormat_Rename_Namesake--}
 ```
 public int getEncodingFormat_Rename_Namesake()
 ```
 
-
 获取编码格式。
 
-**退货：**
-int - SoundSampleDataEncodingFormat 值
-### getNumberOfSoundChannels() {#getNumberOfSoundChannels--}
+**Returns:**
+SoundSampleDataEncodingFormat 值 @see SoundSampleDataEncodingFormat
+
+### getNumberOfSoundChannels {#getNumberOfSoundChannels--}
 ```
 public int getNumberOfSoundChannels()
 ```
 
+获取声音通道的数量。
 
-获取声道数。
+**Returns:**
+int 值
 
-**退货：**
-int - 整数值
-### getSamplingRate() {#getSamplingRate--}
+### getSamplingRate {#getSamplingRate--}
 ```
 public long getSamplingRate()
 ```
 
-
 获取采样率。
 
-**退货：**
-多头价值
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
+**Returns:**
+长整型值
 
-
-
-
-**退货：**
-整数
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setBitsPerChannel(int value) {#setBitsPerChannel-int-}
+### setBitsPerChannel {#setBitsPerChannel-int-}
 ```
 public void setBitsPerChannel(int value)
 ```
 
-
 设置每个通道每个样本值的位数。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 整数值 |
+| 值 |  | int 值 |
 
-### setEncodingFormat(int value) {#setEncodingFormat-int-}
+### setEncodingFormat {#setEncodingFormat-int-}
 ```
 public void setEncodingFormat(int value)
 ```
 
-
 设置编码格式。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | SoundSampleDataEncodingFormat 值 |
+| 值 |  | SoundSampleDataEncodingFormat 值 @see SoundSampleDataEncodingFormat |
 
-### setNumberOfSoundChannels(int value) {#setNumberOfSoundChannels-int-}
+### setNumberOfSoundChannels {#setNumberOfSoundChannels-int-}
 ```
 public void setNumberOfSoundChannels(int value)
 ```
 
+设置声音通道的数量。
 
-设置声道数。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 整数值 |
+| 值 |  | int 值 |
 
-### setSamplingRate(long value) {#setSamplingRate-long-}
+### setSamplingRate {#setSamplingRate-long-}
 ```
 public void setSamplingRate(long value)
 ```
 
-
 设置采样率。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | long | 长值 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| 值 |  | 长整型值 |

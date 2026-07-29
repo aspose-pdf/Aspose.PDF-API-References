@@ -1,384 +1,206 @@
 ---
-title: HtmlLoadOptions
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 表示将 html 文件加载/导入 pdf 文档的选项。
+title: "HtmlLoadOptions"
+linktitle: "HtmlLoadOptions"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示将 html 文件加载/导入到 pdf 文档的选项。"
 type: docs
-weight: 158
+weight: 1960
 url: /zh/java/com.aspose.pdf/htmlloadoptions/
 ---
-**遗产：**
-java.lang.Object, [com.aspose.pdf.LoadOptions](../../com.aspose.pdf/loadoptions)
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.LoadOptions com.aspose.pdf.HtmlLoadOptions, com.aspose.pdf.LoadOptions, com.aspose.pdf.HtmlLoadOptions
+
 ```
 public final class HtmlLoadOptions extends LoadOptions
 ```
 
-表示将 html 文件加载/导入 pdf 文档的选项。
+表示将 html 文件加载/导入到 pdf 文档的选项。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [HtmlLoadOptions()](#HtmlLoadOptions--) | 创建用于将 html 转换为基本路径为空的 pdf 文档的加载选项。 |
-| [HtmlLoadOptions(String basePath)](#HtmlLoadOptions-java.lang.String-) | 创建用于将 html 转换为具有定义的基本路径的 pdf 文档的加载选项。 |
+| [HtmlLoadOptions](#HtmlLoadOptions--) | 创建加载选项，以将 html 转换为 pdf 文档，且基路径为空。 |
+| [HtmlLoadOptions](#HtmlLoadOptions-java.lang.String-) | 创建加载选项，以将 html 转换为 pdf 文档，且基路径为空。 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getBasePath()](#getBasePath--) | html 文件的基本路径/url。 |
-| [getClass()](#getClass--) |  |
-| [getCustomLoaderOfExternalResources()](#getCustomLoaderOfExternalResources--) | 有时有必要避免使用外部资源（如图像或 CSS）的内部加载器，并提供将从某处获取请求资源的自定义方法。 |
-| [getHtmlMediaType()](#getHtmlMediaType--) | 获取或设置呈现期间可能使用的媒体类型。 |
-| [getInputEncoding()](#getInputEncoding--) | 获取指定在解析时用于此文档的编码的属性。 |
-| [getLoadFormat()](#getLoadFormat--) | 表示 LoadOptions 描述的文件格式。 |
-| [getPageInfo()](#getPageInfo--) | 获取文档页面信息 |
-| [getPageLayoutOption()](#getPageLayoutOption--) | 获取或设置布局选项。 |
-| [getWarningHandler()](#getWarningHandler--) | 回调以处理生成的任何警告。 |
-| [hashCode()](#hashCode--) |  |
-| [isEmbedFonts()](#isEmbedFonts--) | 获取或设置嵌入结果文档的字体 |
-| [isRenderToSinglePage()](#isRenderToSinglePage--) | 获取或设置将所有文档呈现为单页 |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setCustomLoaderOfExternalResources(LoadOptions.ResourceLoadingStrategy customLoaderOfExternalResources)](#setCustomLoaderOfExternalResources-com.aspose.pdf.LoadOptions.ResourceLoadingStrategy-) | 有时有必要避免使用外部资源（如图像或 CSS）的内部加载器，并提供将从某处获取请求资源的自定义方法。 |
-| [setEmbedFonts(boolean value)](#setEmbedFonts-boolean-) | 获取或设置嵌入结果文档的字体 |
-| [setHtmlMediaType(int value)](#setHtmlMediaType-int-) | 获取或设置呈现期间可能使用的媒体类型。 |
-| [setInputEncoding(String value)](#setInputEncoding-java.lang.String-) | 设置指定解析时用于此文档的编码的属性。 |
-| [setPageInfo(PageInfo value)](#setPageInfo-com.aspose.pdf.PageInfo-) | 设置文档页面信息 |
-| [setPageLayoutOption(int value)](#setPageLayoutOption-int-) | 获取或设置布局选项。 |
-| [setRenderToSinglePage(boolean value)](#setRenderToSinglePage-boolean-) | 获取或设置将所有文档呈现为单页 |
-| [setWarningHandler(WarningCallback value)](#setWarningHandler-com.aspose.pdf.WarningCallback-) | 回调以处理生成的任何警告。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### HtmlLoadOptions() {#HtmlLoadOptions--}
+| [getBasePath](#getBasePath--) | html 文件的基路径/URL。 |
+| [getCustomLoaderOfExternalResources](#getCustomLoaderOfExternalResources--) | 有时需要避免使用内部加载器来加载外部资源（如图像或 CSS），并提供自定义方法以从某处获取请求的资源。例如，在云端使用 Aspose.PDF 时，无法直接访问引用的文件：在这种情况下，应使用放入特定方法的客户代码，并将指向该方法的委托分配给此属性。 |
+| [getHtmlMediaType](#getHtmlMediaType--) | 获取或设置渲染期间使用的可能媒体类型。 |
+| [getInputEncoding](#getInputEncoding--) | 获取指定在解析时用于此文档的编码的属性。如果此属性为 null，则编码将根据文档字符集属性确定。 |
+| [getPageInfo](#getPageInfo--) | 获取文档页面信息 |
+| [getPageLayoutOption](#getPageLayoutOption--) | 获取或设置布局选项。 |
+| [isEmbedFonts](#isEmbedFonts--) | 获取或设置嵌入到结果文档的字体 |
+| [isPriorityCssPageRule](#isPriorityCssPageRule--) | 获取或设置指定 @page 规则在 css 中将覆盖 PageInfo 中定义的值的标志。 |
+| [isRenderToSinglePage](#isRenderToSinglePage--) | 获取或设置将整个文档渲染为单页 |
+| [setCustomLoaderOfExternalResources](#setCustomLoaderOfExternalResources-com.aspose.pdf.LoadOptions.ResourceLoadingStrategy-) | 有时需要避免使用外部资源（如图像或 CSS）的内部加载器，并提供自定义方法从某处获取请求的资源。 |
+| [setEmbedFonts](#setEmbedFonts-boolean-) | 获取或设置嵌入到结果文档的字体 |
+| [setHtmlMediaType](#setHtmlMediaType-com.aspose.pdf.HtmlMediaType-) | 获取或设置渲染期间使用的可能媒体类型。 |
+| [setInputEncoding](#setInputEncoding-java.lang.String-) | 设置在解析时用于此文档的编码属性。如果此属性为 null，则编码将根据文档字符集属性确定。 |
+| [setPageInfo](#setPageInfo-com.aspose.pdf.PageInfo-) | 设置文档页面信息 |
+| [setPageLayoutOption](#setPageLayoutOption-int-) | 获取或设置布局选项。 |
+| [setPriorityCssPageRule](#setPriorityCssPageRule-boolean-) | 获取或设置指定 @page 规则在 css 中将覆盖 PageInfo 中定义的值的标志。 |
+| [setRenderToSinglePage](#setRenderToSinglePage-boolean-) | 获取或设置将整个文档渲染为单页 |
+
+### HtmlLoadOptions {#HtmlLoadOptions--}
 ```
 public HtmlLoadOptions()
 ```
 
+创建加载选项，以将 html 转换为 pdf 文档，且基路径为空。
 
-创建用于将 html 转换为基本路径为空的 pdf 文档的加载选项。
+### HtmlLoadOptions {#HtmlLoadOptions-java.lang.String-}
+创建加载选项，以将 html 转换为 pdf 文档，且基路径为空。
 
-### HtmlLoadOptions(String basePath) {#HtmlLoadOptions-java.lang.String-}
-```
-public HtmlLoadOptions(String basePath)
-```
-
-
-创建用于将 html 转换为具有定义的基本路径的 pdf 文档的加载选项。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| basePath | java.lang.String | html 文件的基本路径/url。 |
-
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getBasePath() {#getBasePath--}
+### getBasePath {#getBasePath--}
 ```
 public String getBasePath()
 ```
 
+html 文件的基路径/URL。
 
-html 文件的基本路径/url。
+**Returns:**
+字符串值
 
-**退货：**
-java.lang.String - 字符串值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getCustomLoaderOfExternalResources() {#getCustomLoaderOfExternalResources--}
+### getCustomLoaderOfExternalResources {#getCustomLoaderOfExternalResources--}
 ```
 public LoadOptions.ResourceLoadingStrategy getCustomLoaderOfExternalResources()
 ```
 
+有时需要避免使用内部加载器来加载外部资源（如图像或 CSS），并提供自定义方法以从某处获取请求的资源。例如，在云端使用 Aspose.PDF 时，无法直接访问引用的文件：在这种情况下，应使用放入特定方法的客户代码，并将指向该方法的委托分配给此属性。
 
-有时有必要避免使用外部资源（如图像或 CSS）的内部加载器，并提供将从某处获取请求资源的自定义方法。例如，在云中使用 Aspose.PDF 期间不可能直接访问引用的文件：在这种情况下，应该使用一些放入特殊方法的客户代码，并且应该将引用该方法的委托分配给该属性。
+**Returns:**
+ResourceLoadingStrategy 实例
 
-**退货：**
-[ResourceLoadingStrategy](../../com.aspose.pdf/resourceloadingstrategy) - ResourceLoadingStrategy 实例
-### getHtmlMediaType() {#getHtmlMediaType--}
+### getHtmlMediaType {#getHtmlMediaType--}
 ```
-public int getHtmlMediaType()
+public HtmlMediaType getHtmlMediaType()
 ```
 
+获取或设置渲染期间使用的可能媒体类型。
 
-获取或设置呈现期间可能使用的媒体类型。
+**Returns:**
+HtmlMediaType 元素
 
-**退货：**
-int - HtmlMediaType 元素
-### getInputEncoding() {#getInputEncoding--}
+### getInputEncoding {#getInputEncoding--}
 ```
 public String getInputEncoding()
 ```
 
+获取指定在解析时用于此文档的编码的属性。如果此属性为 null，则编码将根据文档字符集属性确定。
 
-获取指定在解析时用于此文档的编码的属性。如果此属性为空，则编码将从文档字符集属性中确定。
+**Returns:**
+字符串值
 
-**退货：**
-java.lang.String - 字符串值
-### getLoadFormat() {#getLoadFormat--}
-```
-public LoadFormat getLoadFormat()
-```
-
-
-表示 LoadOptions 描述的文件格式。
-
-**退货：**
-[LoadFormat](../../com.aspose.pdf/loadformat) - LoadFormat 元素
-### getPageInfo() {#getPageInfo--}
+### getPageInfo {#getPageInfo--}
 ```
 public PageInfo getPageInfo()
 ```
 
-
 获取文档页面信息
 
-**退货：**
-[PageInfo](../../com.aspose.pdf/pageinfo) - 页面信息
-### getPageLayoutOption() {#getPageLayoutOption--}
+**Returns:**
+页面信息
+
+### getPageLayoutOption {#getPageLayoutOption--}
 ```
 public final int getPageLayoutOption()
 ```
 
-
 获取或设置布局选项。
 
-**退货：**
-int - HtmlPageLayoutOption 元素
-### getWarningHandler() {#getWarningHandler--}
-```
-public WarningCallback getWarningHandler()
-```
+**Returns:**
+HtmlPageLayoutOption 元素 @see HtmlPageLayoutOption
 
-
-回调以处理生成的任何警告。 WarningHandler 返回指定 Continue 或 Abort 的 ReturnAction 枚举项。 Continue 是默认操作，Load 操作继续，但是用户也可以返回 Abort，在这种情况下 Load 操作应该停止。
-
-**退货：**
-[WarningCallback](../../com.aspose.pdf/warningcallback) - IWarningCallback 值
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### isEmbedFonts() {#isEmbedFonts--}
+### isEmbedFonts {#isEmbedFonts--}
 ```
 public final boolean isEmbedFonts()
 ```
 
+获取或设置嵌入到结果文档的字体
 
-获取或设置嵌入结果文档的字体
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### isRenderToSinglePage() {#isRenderToSinglePage--}
+### isPriorityCssPageRule {#isPriorityCssPageRule--}
+```
+public final boolean isPriorityCssPageRule()
+```
+
+获取或设置指定 @page 规则在 css 中将覆盖 PageInfo 中定义的值的标志。
+
+**Returns:**
+布尔值
+
+### isRenderToSinglePage {#isRenderToSinglePage--}
 ```
 public final boolean isRenderToSinglePage()
 ```
 
+获取或设置将整个文档渲染为单页
 
-获取或设置将所有文档呈现为单页
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### notify() {#notify--}
-```
-public final native void notify()
-```
+### setCustomLoaderOfExternalResources {#setCustomLoaderOfExternalResources-com.aspose.pdf.LoadOptions.ResourceLoadingStrategy-}
+有时需要避免使用外部资源（如图像或 CSS）的内部加载器，并提供自定义方法从某处获取请求的资源。
 
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setCustomLoaderOfExternalResources(LoadOptions.ResourceLoadingStrategy customLoaderOfExternalResources) {#setCustomLoaderOfExternalResources-com.aspose.pdf.LoadOptions.ResourceLoadingStrategy-}
-```
-public void setCustomLoaderOfExternalResources(LoadOptions.ResourceLoadingStrategy customLoaderOfExternalResources)
-```
-
-
-有时有必要避免使用外部资源（如图像或 CSS）的内部加载器，并提供将从某处获取请求资源的自定义方法。例如，在云中使用 Aspose.PDF 期间不可能直接访问引用的文件：在这种情况下，应该使用一些放入特殊方法的客户代码，并且应该将引用该方法的委托分配给该属性。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| customLoaderOfExternalResources | [ResourceLoadingStrategy](../../com.aspose.pdf/resourceloadingstrategy) | ResourceLoadingStrategy 实例 |
-
-### setEmbedFonts(boolean value) {#setEmbedFonts-boolean-}
+### setEmbedFonts {#setEmbedFonts-boolean-}
 ```
 public final void setEmbedFonts(boolean value)
 ```
 
+获取或设置嵌入到结果文档的字体
 
-获取或设置嵌入结果文档的字体
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
+| 值 |  | 布尔值 |
 
-### setHtmlMediaType(int value) {#setHtmlMediaType-int-}
-```
-public void setHtmlMediaType(int value)
-```
+### setHtmlMediaType {#setHtmlMediaType-com.aspose.pdf.HtmlMediaType-}
+获取或设置渲染期间使用的可能媒体类型。
 
+### setInputEncoding {#setInputEncoding-java.lang.String-}
+设置在解析时用于此文档的编码属性。如果此属性为 null，则编码将根据文档字符集属性确定。
 
-获取或设置呈现期间可能使用的媒体类型。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | int | HtmlMediaType 元素 |
-
-### setInputEncoding(String value) {#setInputEncoding-java.lang.String-}
-```
-public void setInputEncoding(String value)
-```
-
-
-设置指定解析时用于此文档的编码的属性。如果此属性为空，则编码将从文档字符集属性中确定。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.lang.String | 字符串值 |
-
-### setPageInfo(PageInfo value) {#setPageInfo-com.aspose.pdf.PageInfo-}
-```
-public void setPageInfo(PageInfo value)
-```
-
-
+### setPageInfo {#setPageInfo-com.aspose.pdf.PageInfo-}
 设置文档页面信息
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [PageInfo](../../com.aspose.pdf/pageinfo) | 页面信息 |
-
-### setPageLayoutOption(int value) {#setPageLayoutOption-int-}
+### setPageLayoutOption {#setPageLayoutOption-int-}
 ```
 public final void setPageLayoutOption(int value)
 ```
 
-
 获取或设置布局选项。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | HtmlPageLayoutOption 元素 |
+| 值 |  | HtmlPageLayoutOption 元素 @see HtmlPageLayoutOption |
 
-### setRenderToSinglePage(boolean value) {#setRenderToSinglePage-boolean-}
+### setPriorityCssPageRule {#setPriorityCssPageRule-boolean-}
+```
+public final void setPriorityCssPageRule(boolean value)
+```
+
+获取或设置指定 @page 规则在 css 中将覆盖 PageInfo 中定义的值的标志。
+
+**Parameters:**
+| 参数 | 类型 | 描述 |
+| --- | --- | --- |
+| 值 |  | 布尔值 |
+
+### setRenderToSinglePage {#setRenderToSinglePage-boolean-}
 ```
 public final void setRenderToSinglePage(boolean value)
 ```
 
+获取或设置将整个文档渲染为单页
 
-获取或设置将所有文档呈现为单页
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
-
-### setWarningHandler(WarningCallback value) {#setWarningHandler-com.aspose.pdf.WarningCallback-}
-```
-public void setWarningHandler(WarningCallback value)
-```
-
-
-回调以处理生成的任何警告。 WarningHandler 返回指定 Continue 或 Abort 的 ReturnAction 枚举项。 Continue 是默认操作，Load 操作继续，但是用户也可以返回 Abort，在这种情况下 Load 操作应该停止。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | [WarningCallback](../../com.aspose.pdf/warningcallback) | IWarningCallback 值 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| 值 |  | 布尔值 |

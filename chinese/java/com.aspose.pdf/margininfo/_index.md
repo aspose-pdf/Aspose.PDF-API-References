@@ -1,258 +1,161 @@
 ---
-title: SaveOptions.MarginInfo
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 此类的实例表示有关可能淹没在某些结果文档中的页边距的信息。
+title: "MarginInfo"
+linktitle: "MarginInfo"
+second_title: "Aspose.PDF for Java API 参考"
+description: "此类表示不同对象的边距。"
 type: docs
-weight: 13
-url: /zh/java/com.aspose.pdf/saveoptions.margininfo/
+weight: 2860
+url: /zh/java/com.aspose.pdf/margininfo/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.MarginInfo
+
+**All Implemented Interfaces:**
+com.aspose.ms.System.ICloneable
+
 ```
-public static class SaveOptions.MarginInfo
+public final class MarginInfo extends Object implements com.aspose.ms.System.ICloneable
 ```
 
-此类的实例表示有关可能淹没在某些结果文档中的页边距的信息。
+此类表示不同对象的边距。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [MarginInfo()](#MarginInfo--) | 创建 MarginInfo 的实例 |
-| [MarginInfo(SaveOptions.MarginPartStyle commonMargin)](#MarginInfo-com.aspose.pdf.SaveOptions.MarginPartStyle-) | 创建 MarginInfo 类的实例并使用从提供的边距样式复制的属性初始化页边距的所有元素（顶部、左侧、右侧、底部） |
+| [MarginInfo](#MarginInfo--) | 初始化 {@code MarginInfo} 类的新实例。 |
+| [MarginInfo](#MarginInfo-double-double-double-double-) | Rectangle 的构造函数。 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getBottomMarginIfAny()](#getBottomMarginIfAny--) | 代表底页边距（如果有的话） |
-| [getClass()](#getClass--) |  |
-| [getLeftMarginIfAny()](#getLeftMarginIfAny--) | 代表左页边距（如果有的话） |
-| [getRightMarginIfAny()](#getRightMarginIfAny--) | 代表右页边距（如果有的话） |
-| [getTopMarginIfAny()](#getTopMarginIfAny--) | 代表首页边距（如果有的话） |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setBottomMarginIfAny(SaveOptions.MarginPartStyle bottomMarginIfAny)](#setBottomMarginIfAny-com.aspose.pdf.SaveOptions.MarginPartStyle-) | 代表底页边距（如果有的话） |
-| [setLeftMarginIfAny(SaveOptions.MarginPartStyle leftMarginIfAny)](#setLeftMarginIfAny-com.aspose.pdf.SaveOptions.MarginPartStyle-) | 代表左页边距（如果有的话） |
-| [setRightMarginIfAny(SaveOptions.MarginPartStyle rightMarginIfAny)](#setRightMarginIfAny-com.aspose.pdf.SaveOptions.MarginPartStyle-) | 代表右页边距（如果有的话） |
-| [setTopMarginIfAny(SaveOptions.MarginPartStyle topMarginIfAny)](#setTopMarginIfAny-com.aspose.pdf.SaveOptions.MarginPartStyle-) | 代表首页边距（如果有的话） |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### MarginInfo() {#MarginInfo--}
+| [deepClone](#deepClone--) | 克隆一个新的 {@code MarginInfo} 对象。 |
+| [getBottom](#getBottom--) | 获取指示底部页边距的 float 值。 |
+| [getLeft](#getLeft--) | 获取指示左侧页边距的 float 值。 |
+| [getRight](#getRight--) | 获取指示右侧页边距的 float 值。 |
+| [getTop](#getTop--) | 获取指示顶部页边距的 float 值。 |
+| [setBottom](#setBottom-double-) | 设置指示底部页边距的 float 值。 |
+| [setLeft](#setLeft-double-) | 设置指示左侧页边距的 float 值。 |
+| [setRight](#setRight-double-) | 设置指示右侧页边距的 float 值。 |
+| [setTop](#setTop-double-) | 设置指示顶部页边距的 float 值。 |
+
+### MarginInfo {#MarginInfo--}
 ```
 public MarginInfo()
 ```
 
+初始化 {@code MarginInfo} 类的新实例。
 
-创建 MarginInfo 的实例
-
-### MarginInfo(SaveOptions.MarginPartStyle commonMargin) {#MarginInfo-com.aspose.pdf.SaveOptions.MarginPartStyle-}
+### MarginInfo {#MarginInfo-double-double-double-double-}
 ```
-public MarginInfo(SaveOptions.MarginPartStyle commonMargin)
+public MarginInfo(double left, double bottom, double right, double top)
 ```
 
+Rectangle 的构造函数。
 
-创建 MarginInfo 类的实例并使用从提供的边距样式复制的属性初始化页边距的所有元素（顶部、左侧、右侧、底部）
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| commonMargin | [MarginPartStyle](../../com.aspose.pdf/marginpartstyle) | 将用于所有边距元素的边距部分的样式（左、右、上、下） |
+| left |  | 左侧页边距。 |
+| bottom |  | 底部页边距 |
+| 右 |  | 右侧页边距。 |
+| 顶部 |  | 顶部页边距。 |
 
-### equals(Object arg0) {#equals-java.lang.Object-}
+### deepClone {#deepClone--}
 ```
-public boolean equals(Object arg0)
+public Object deepClone()
 ```
 
+克隆一个新的 {@code MarginInfo} 对象。
 
+**Returns:**
+新的对象。
 
+### getBottom {#getBottom--}
+```
+public double getBottom()
+```
 
-**参数：**
+获取指示底部页边距的 float 值。
 
-| 范围 | 类型 | 描述 |
+**Returns:**
+double 值
+
+### getLeft {#getLeft--}
+```
+public double getLeft()
+```
+
+获取指示左侧页边距的 float 值。
+
+**Returns:**
+double 值
+
+### getRight {#getRight--}
+```
+public double getRight()
+```
+
+获取指示右侧页边距的 float 值。
+
+**Returns:**
+double 值
+
+### getTop {#getTop--}
+```
+public double getTop()
+```
+
+获取指示顶部页边距的 float 值。
+
+**Returns:**
+double 值
+
+### setBottom {#setBottom-double-}
+```
+public void setBottom(double value)
+```
+
+设置指示底部页边距的 float 值。
+
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| arg0 | java.lang.Object |  |
+| 值 |  | double 值 |
 
-**退货：**
-布尔值
-### getBottomMarginIfAny() {#getBottomMarginIfAny--}
+### setLeft {#setLeft-double-}
 ```
-public SaveOptions.MarginPartStyle getBottomMarginIfAny()
+public void setLeft(double value)
 ```
 
+设置指示左侧页边距的 float 值。
 
-代表底页边距（如果有的话）
-
-**退货：**
-[MarginPartStyle](../../com.aspose.pdf/marginpartstyle) MarginPartStyle 实例
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getLeftMarginIfAny() {#getLeftMarginIfAny--}
-```
-public SaveOptions.MarginPartStyle getLeftMarginIfAny()
-```
-
-
-代表左页边距（如果有的话）
-
-**退货：**
-[MarginPartStyle](../../com.aspose.pdf/marginpartstyle) MarginPartStyle 实例
-### getRightMarginIfAny() {#getRightMarginIfAny--}
-```
-public SaveOptions.MarginPartStyle getRightMarginIfAny()
-```
-
-
-代表右页边距（如果有的话）
-
-**退货：**
-[MarginPartStyle](../../com.aspose.pdf/marginpartstyle) MarginPartStyle 实例
-### getTopMarginIfAny() {#getTopMarginIfAny--}
-```
-public SaveOptions.MarginPartStyle getTopMarginIfAny()
-```
-
-
-代表首页边距（如果有的话）
-
-**退货：**
-[MarginPartStyle](../../com.aspose.pdf/marginpartstyle) MarginPartStyle 实例
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setBottomMarginIfAny(SaveOptions.MarginPartStyle bottomMarginIfAny) {#setBottomMarginIfAny-com.aspose.pdf.SaveOptions.MarginPartStyle-}
-```
-public void setBottomMarginIfAny(SaveOptions.MarginPartStyle bottomMarginIfAny)
-```
-
-
-代表底页边距（如果有的话）
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| bottomMarginIfAny | [MarginPartStyle](../../com.aspose.pdf/marginpartstyle) | MarginPartStyle 实例 |
+| 值 |  | double 值 |
 
-### setLeftMarginIfAny(SaveOptions.MarginPartStyle leftMarginIfAny) {#setLeftMarginIfAny-com.aspose.pdf.SaveOptions.MarginPartStyle-}
+### setRight {#setRight-double-}
 ```
-public void setLeftMarginIfAny(SaveOptions.MarginPartStyle leftMarginIfAny)
+public void setRight(double value)
 ```
 
+设置指示右侧页边距的 float 值。
 
-代表左页边距（如果有的话）
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| leftMarginIfAny | [MarginPartStyle](../../com.aspose.pdf/marginpartstyle) | MarginPartStyle 实例 |
+| 值 |  | double 值 |
 
-### setRightMarginIfAny(SaveOptions.MarginPartStyle rightMarginIfAny) {#setRightMarginIfAny-com.aspose.pdf.SaveOptions.MarginPartStyle-}
+### setTop {#setTop-double-}
 ```
-public void setRightMarginIfAny(SaveOptions.MarginPartStyle rightMarginIfAny)
+public void setTop(double value)
 ```
 
+设置指示顶部页边距的 float 值。
 
-代表右页边距（如果有的话）
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rightMarginIfAny | [MarginPartStyle](../../com.aspose.pdf/marginpartstyle) | MarginPartStyle 实例 |
-
-### setTopMarginIfAny(SaveOptions.MarginPartStyle topMarginIfAny) {#setTopMarginIfAny-com.aspose.pdf.SaveOptions.MarginPartStyle-}
-```
-public void setTopMarginIfAny(SaveOptions.MarginPartStyle topMarginIfAny)
-```
-
-
-代表首页边距（如果有的话）
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| topMarginIfAny | [MarginPartStyle](../../com.aspose.pdf/marginpartstyle) | MarginPartStyle 实例 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| 值 |  | double 值 |

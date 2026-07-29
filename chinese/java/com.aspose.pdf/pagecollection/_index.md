@@ -1,614 +1,299 @@
 ---
-title: PageCollection
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: PDF文档页面的集合。
+title: "PageCollection"
+linktitle: "PageCollection"
+second_title: "Aspose.PDF for Java API 参考"
+description: "PDF 文档页面的集合。"
 type: docs
-weight: 259
+weight: 3340
 url: /zh/java/com.aspose.pdf/pagecollection/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.PageCollection
 
-**所有已实现的接口：**
-java.lang.Iterable，com.aspose.pdf.ISupportsMemoryCleanup
+**All Implemented Interfaces:**
+Iterable < Page >
+
 ```
-public final class PageCollection implements Iterable<Page>, ISupportsMemoryCleanup
+public final class PageCollection extends Object implements Iterable < Page >
 ```
 
-PDF文档页面的集合。
+PDF 文档页面的集合。
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [accept(AnnotationSelector visitor)](#accept-com.aspose.pdf.AnnotationSelector-) | 接受 AnnotationSelector 访问者对象，该对象提供使用注释的功能。 |
-| [accept(ImagePlacementAbsorber visitor)](#accept-com.aspose.pdf.ImagePlacementAbsorber-) | 接受 ImagePlacementAbsorber 访问者对象，该访问者对象提供处理图像放置对象的功能。 |
-| [accept(TextAbsorber visitor)](#accept-com.aspose.pdf.TextAbsorber-) | 接受提供处理文本对象功能的 TextAbsorber 访问者对象。 |
-| [accept(TextFragmentAbsorber visitor)](#accept-com.aspose.pdf.TextFragmentAbsorber-) | 接受提供处理文本对象功能的 TextFragmentAbsorber 访问者对象。 |
-| [add()](#add--) | 添加空白页 |
-| [add(Page entity)](#add-com.aspose.pdf.Page-) | 将页面添加到集合。 |
-| [add(Page[] pages)](#add-com.aspose.pdf.Page---) | 将数组中的所有页面添加到集合中。 |
-| [add(Iterable<Page> pages)](#add-java.lang.Iterable-com.aspose.pdf.Page--) | 将列表中的所有页面添加到集合中。 |
-| [add(List<Page> pages)](#add-java.util.List-com.aspose.pdf.Page--) | 将列表中的所有页面添加到集合中。 |
-| [add_Rename_Namesake(Page entity)](#add-Rename-Namesake-com.aspose.pdf.Page-) | 将页面添加到集合。 |
-| [clear()](#clear--) | 清除页面集合。 |
-| [contains(Page item)](#contains-com.aspose.pdf.Page-) | 确定此实例是否包含该对象。 |
-| [copyTo(Page[] array, int index)](#copyTo-com.aspose.pdf.Page---int-) | 将页面复制到文档中。 |
-| [delete()](#delete--) | 从集合中删除所有页面。 |
-| [delete(int index)](#delete-int-) | 删除指定页面。 |
-| [delete(Integer[] pages)](#delete-java.lang.Integer---) | 删除指定数组中指定编号的页面。 |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [findByPdfObject(IPdfObject pdfObject)](#findByPdfObject-com.aspose.pdf.engine.data.IPdfObject-) |  |
-| [flatten()](#flatten--) | 删除位于页面上的所有字段并改为放置它们的值。 |
-| [freeMemory()](#freeMemory--) | 清除缓存数据 |
-| [getClass()](#getClass--) |  |
-| [getSyncRoot()](#getSyncRoot--) | 获取集合的同步对象。 |
-| [getUnrestricted(int index)](#getUnrestricted-int-) | 按索引返回页面。 |
-| [get_Item(int index)](#get-Item-int-) | 按索引获取页面。 |
-| [hashCode()](#hashCode--) |  |
-| [indexOf(Page entity)](#indexOf-com.aspose.pdf.Page-) | 返回指定页面的索引。 |
-| [insert(int pageNumber)](#insert-int-) | 将空的 apge 插入到指定位置的集合中。 |
-| [insert(int pageNumber, Page entity)](#insert-int-com.aspose.pdf.Page-) | 在指定位置将页面插入页面集合。 |
-| [insert(int pageNumber, Page[] pages)](#insert-int-com.aspose.pdf.Page---) | 将数组的页面插入到文档中。 |
-| [insert(int pageNumber, Iterable<Page> pages)](#insert-int-java.lang.Iterable-com.aspose.pdf.Page--) | 将集合中的页面插入到文档中。 |
-| [insert(int pageNumber, List<Page> pages)](#insert-int-java.util.List-com.aspose.pdf.Page--) | 将集合中的页面插入到文档中。 |
-| [isEmpty()](#isEmpty--) | 如果集合为空，则返回 TRUE。 |
-| [isReadOnly()](#isReadOnly--) | 获取表示集合的值是只读的。 |
-| [isSynchronized()](#isSynchronized--) | 返回 true 对象已同步。 |
-| [iterator()](#iterator--) | 返回页面的枚举器。 |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [remove(Page item)](#remove-com.aspose.pdf.Page-) | 删除指定的项目，抛出异常。 |
-| [size()](#size--) | 获取文档中的页数。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### accept(AnnotationSelector visitor) {#accept-com.aspose.pdf.AnnotationSelector-}
-```
-public void accept(AnnotationSelector visitor)
-```
+| [accept](#accept-com.aspose.pdf.AnnotationSelector-) | 接受 {@code AnnotationSelector} 访问者对象，该对象提供处理注释的功能。 |
+| [accept](#accept-com.aspose.pdf.ImagePlacementAbsorber-) | 接受 {@code ImagePlacementAbsorber} 访问者对象，该对象提供处理图像放置对象的功能。 |
+| [accept](#accept-com.aspose.pdf.TextAbsorber-) | 接受 {@code TextAbsorber} 访问者对象，该对象提供处理文本对象的功能。 |
+| [accept](#accept-com.aspose.pdf.TextFragmentAbsorber-) | 接受 {@code TextFragmentAbsorber} 访问者对象，该对象提供处理文本对象的功能。 |
+| [add_Rename_Namesake](#add_Rename_Namesake-com.aspose.pdf.Page-) | 向集合中添加页面。 |
+| [add](#add--) | 添加一个空白页面。如果文档已经包含尺寸不同的页面，将选择出现频率最高的页面尺寸。若只有两种不同的页面，则使用第一页的尺寸。 |
+| [add](#add-java.lang.Iterable-) | 添加一个空白页面。如果文档已经包含尺寸不同的页面，将选择出现频率最高的页面尺寸。若只有两种不同的页面，则使用第一页的尺寸。 |
+| [add](#add-java.util.List-) | 添加一个空白页面。如果文档已经包含尺寸不同的页面，将选择出现频率最高的页面尺寸。若只有两种不同的页面，则使用第一页的尺寸。 |
+| [add](#add-com.aspose.pdf.Page-) | 添加一个空白页面。如果文档已经包含尺寸不同的页面，将选择出现频率最高的页面尺寸。若只有两种不同的页面，则使用第一页的尺寸。 |
+| [add](#add-com.aspose.pdf.Page:A-) | 添加一个空白页面。如果文档已经包含尺寸不同的页面，将选择出现频率最高的页面尺寸。若只有两种不同的页面，则使用第一页的尺寸。 |
+| [beginUpdate](#beginUpdate--) | 当组更改开始时进行更新。 |
+| [clear](#clear--) | 清除页面集合。 |
+| [contains](#contains-com.aspose.pdf.Page-) | 确定此实例是否包含该对象。 |
+| [copyTo](#copyTo-com.aspose.pdf.Page:A-int-) | 将页面复制到文档中。 |
+| [delete](#delete--) | 从集合中删除所有页面。 |
+| [delete](#delete-int-) | 删除指定的页面。 |
+| [delete](#delete-java.lang.Integer:A-) | 从集合中删除所有页面。 |
+| [endUpdate](#endUpdate--) | 当组更改完成时进行更新。 |
+| [findByPdfObject](#findByPdfObject-com.aspose.pdf.engine.data.IPdfObject-) |  |
+| [flatten](#flatten--) | 移除页面上的所有字段，并用其值替代。 |
+| [freeMemory](#freeMemory--) | 清除缓存数据 |
+| [get_Item](#get_Item-int-) | 按索引获取页面。 |
+| [getSyncRoot](#getSyncRoot--) | 获取集合的同步对象。 |
+| [getUnrestricted](#getUnrestricted-int-) | 按索引返回页面。 {@code Page} |
+| [indexOf](#indexOf-com.aspose.pdf.Page-) | <p> 返回指定页面的索引。 </p> |
+| [insert](#insert-int-) | 在指定位置向集合中插入一个空白页面。如果文档已经包含尺寸不同的页面，将选择出现频率最高的页面尺寸。若只有两种不同的页面，则使用第一页的尺寸。 |
+| [insert](#insert-int-java.lang.Iterable-) | 将集合中的页面插入到文档中。 |
+| [insert](#insert-int-java.util.List-) | 将集合中的页面插入到文档中。 |
+| [insert](#insert-int-com.aspose.pdf.Page-) | 在指定位置将页面插入页面集合。 |
+| [insert](#insert-int-com.aspose.pdf.Page:A-) | 将数组中的页面插入文档。 |
+| [isEmpty](#isEmpty--) | 如果集合为空，则返回 TRUE。 |
+| [isReadOnly](#isReadOnly--) | 获取指示集合是否只读的值。始终返回 false。 |
+| [isSynchronized](#isSynchronized--) | 返回对象已同步为 true。 |
+| [iterator](#iterator--) | 返回页面的枚举器。 |
+| [remove](#remove-com.aspose.pdf.Page-) | 删除指定的项，抛出异常。 |
+| [size](#size--) | 获取文档中页面的计数。 |
 
+### accept {#accept-com.aspose.pdf.AnnotationSelector-}
+接受 {@code AnnotationSelector} 访问者对象，该对象提供处理注释的功能。
 
-接受 AnnotationSelector 访问者对象，该对象提供使用注释的功能。
+### accept {#accept-com.aspose.pdf.ImagePlacementAbsorber-}
+接受 {@code ImagePlacementAbsorber} 访问者对象，该对象提供处理图像放置对象的功能。
 
-**参数：**
+### accept {#accept-com.aspose.pdf.TextAbsorber-}
+接受 {@code TextAbsorber} 访问者对象，该对象提供处理文本对象的功能。
 
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| visitor | [AnnotationSelector](../../com.aspose.pdf/annotationselector) | AnnotationSelector 访问者 |
+### accept {#accept-com.aspose.pdf.TextFragmentAbsorber-}
+接受 {@code TextFragmentAbsorber} 访问者对象，该对象提供处理文本对象的功能。
 
-### accept(ImagePlacementAbsorber visitor) {#accept-com.aspose.pdf.ImagePlacementAbsorber-}
-```
-public void accept(ImagePlacementAbsorber visitor)
-```
+### add_Rename_Namesake {#add_Rename_Namesake-com.aspose.pdf.Page-}
+向集合中添加页面。
 
-
-接受 ImagePlacementAbsorber 访问者对象，该访问者对象提供处理图像放置对象的功能。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| visitor | [ImagePlacementAbsorber](../../com.aspose.pdf/imageplacementabsorber) | 图像放置对象。 |
-
-### accept(TextAbsorber visitor) {#accept-com.aspose.pdf.TextAbsorber-}
-```
-public void accept(TextAbsorber visitor)
-```
-
-
-接受提供处理文本对象功能的 TextAbsorber 访问者对象。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| visitor | [TextAbsorber](../../com.aspose.pdf/textabsorber) | 文本吸收器对象。 |
-
-### accept(TextFragmentAbsorber visitor) {#accept-com.aspose.pdf.TextFragmentAbsorber-}
-```
-public void accept(TextFragmentAbsorber visitor)
-```
-
-
-接受提供处理文本对象功能的 TextFragmentAbsorber 访问者对象。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| visitor | [TextFragmentAbsorber](../../com.aspose.pdf/textfragmentabsorber) | 文本片段吸收器对象。 |
-
-### add() {#add--}
+### add {#add--}
 ```
 public Page add()
 ```
 
+添加一个空白页面。如果文档已经包含尺寸不同的页面，将选择出现频率最高的页面尺寸。若只有两种不同的页面，则使用第一页的尺寸。
 
-添加空白页
+**Returns:**
+已添加页面。
 
-**退货：**
-[Page](../../com.aspose.pdf/page) - 添加页面。
-### add(Page entity) {#add-com.aspose.pdf.Page-}
+### add {#add-java.lang.Iterable-}
+添加一个空白页面。如果文档已经包含尺寸不同的页面，将选择出现频率最高的页面尺寸。若只有两种不同的页面，则使用第一页的尺寸。
+
+**Returns:**
+已添加页面。
+
+### add {#add-java.util.List-}
+添加一个空白页面。如果文档已经包含尺寸不同的页面，将选择出现频率最高的页面尺寸。若只有两种不同的页面，则使用第一页的尺寸。
+
+**Returns:**
+已添加页面。
+
+### add {#add-com.aspose.pdf.Page-}
+添加一个空白页面。如果文档已经包含尺寸不同的页面，将选择出现频率最高的页面尺寸。若只有两种不同的页面，则使用第一页的尺寸。
+
+**Returns:**
+已添加页面。
+
+### add {#add-com.aspose.pdf.Page:A-}
+添加一个空白页面。如果文档已经包含尺寸不同的页面，将选择出现频率最高的页面尺寸。若只有两种不同的页面，则使用第一页的尺寸。
+
+**Returns:**
+已添加页面。
+
+### beginUpdate {#beginUpdate--}
 ```
-public Page add(Page entity)
-```
-
-
-将页面添加到集合。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| entity | [Page](../../com.aspose.pdf/page) | 应添加的页面。 |
-
-**退货：**
-[Page](../../com.aspose.pdf/page) - 添加页面。
-### add(Page[] pages) {#add-com.aspose.pdf.Page---}
-```
-public void add(Page[] pages)
-```
-
-
-将数组中的所有页面添加到集合中。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| pages | [Page\[\]](../../com.aspose.pdf/page) | 将添加的页面数组。 |
-
-### add(Iterable<Page> pages) {#add-java.lang.Iterable-com.aspose.pdf.Page--}
-```
-public void add(Iterable<Page> pages)
+public final void beginUpdate()
 ```
 
+当组更改开始时进行更新。
 
-将列表中的所有页面添加到集合中。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| pages | java.lang.Iterable<com.aspose.pdf.Page> | 包含必须添加的所有页面的列表。 |
-
-### add(List<Page> pages) {#add-java.util.List-com.aspose.pdf.Page--}
-```
-public void add(List<Page> pages)
-```
-
-
-将列表中的所有页面添加到集合中。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| pages | java.util.List<com.aspose.pdf.Page> | 包含必须添加的所有页面的列表。 |
-
-### add_Rename_Namesake(Page entity) {#add-Rename-Namesake-com.aspose.pdf.Page-}
-```
-public void add_Rename_Namesake(Page entity)
-```
-
-
-将页面添加到集合。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| entity | [Page](../../com.aspose.pdf/page) | 应添加的页面。 |
-
-### clear() {#clear--}
+### clear {#clear--}
 ```
 public void clear()
 ```
 
-
 清除页面集合。
 
-### contains(Page item) {#contains-com.aspose.pdf.Page-}
-```
-public boolean contains(Page item)
-```
-
-
+### contains {#contains-com.aspose.pdf.Page-}
 确定此实例是否包含该对象。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| item | [Page](../../com.aspose.pdf/page) | 页面实例 |
-
-**退货：**
-boolean - 布尔值 true 如果[包含][指明项目]；否则，假的。
-### copyTo(Page[] array, int index) {#copyTo-com.aspose.pdf.Page---int-}
-```
-public void copyTo(Page[] array, int index)
-```
-
-
+### copyTo {#copyTo-com.aspose.pdf.Page:A-int-}
 将页面复制到文档中。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| array | [Page\[\]](../../com.aspose.pdf/page) | 包含要插入到文档中的 Pages 对象的数组。它必须是对象[或页面[]. |
-| index | int | 将插入页面的起始索引 |
-
-### delete() {#delete--}
+### delete {#delete--}
 ```
 public void delete()
 ```
 
-
 从集合中删除所有页面。
 
-### delete(int index) {#delete-int-}
+### delete {#delete-int-}
 ```
 public void delete(int index)
 ```
 
+删除指定的页面。
 
-删除指定页面。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| index | int | 将被删除的页数。页码从 1 开始。 |
+| 索引 |  | 将被删除的页面编号。页面编号从 1 开始。 |
 
-### delete(Integer[] pages) {#delete-java.lang.Integer---}
+### delete {#delete-java.lang.Integer:A-}
+从集合中删除所有页面。
+
+### endUpdate {#endUpdate--}
 ```
-public void delete(Integer[] pages)
-```
-
-
-删除指定数组中指定编号的页面。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| pages | java.lang.Integer[] | 要删除的页面数组。 |
-
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
+public final void endUpdate()
 ```
 
+当组更改完成时进行更新。
+
+### findByPdfObject {#findByPdfObject-com.aspose.pdf.engine.data.IPdfObject-}
 
 
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### findByPdfObject(IPdfObject pdfObject) {#findByPdfObject-com.aspose.pdf.engine.data.IPdfObject-}
-```
-public final Page findByPdfObject(IPdfObject pdfObject)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| pdfObject | [IPdfObject](../../com.aspose.pdf.engine.data/ipdfobject) |  |
-
-**退货：**
-[Page](../../com.aspose.pdf/page)
-### flatten() {#flatten--}
+### flatten {#flatten--}
 ```
 public void flatten()
 ```
 
+移除页面上的所有字段，并用其值替代。
 
-删除位于页面上的所有字段并改为放置它们的值。
-
-### freeMemory() {#freeMemory--}
+### freeMemory {#freeMemory--}
 ```
 public void freeMemory()
 ```
 
-
 清除缓存数据
 
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getSyncRoot() {#getSyncRoot--}
-```
-public Object getSyncRoot()
-```
-
-
-获取集合的同步对象。
-
-**退货：**
-java.lang.Object - 同步对象
-### getUnrestricted(int index) {#getUnrestricted-int-}
-```
-public Page getUnrestricted(int index)
-```
-
-
-按索引返回页面。页 
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| index | int | 请求页面的索引。页码从 1 开始。 |
-
-**退货：**
-[Page](../../com.aspose.pdf/page) - 请求的页面
-### get_Item(int index) {#get-Item-int-}
+### get_Item {#get_Item-int-}
 ```
 public Page get_Item(int index)
 ```
 
-
 按索引获取页面。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| index | int | 页面索引。 |
+| 索引 |  | 页面索引。 |
 
-**退货：**
-[Page](../../com.aspose.pdf/page) - 检索页面。
-### hashCode() {#hashCode--}
+**Returns:**
+已检索的页面。
+
+### getSyncRoot {#getSyncRoot--}
 ```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### indexOf(Page entity) {#indexOf-com.aspose.pdf.Page-}
-```
-public int indexOf(Page entity)
+public Object getSyncRoot()
 ```
 
+获取集合的同步对象。
 
-返回指定页面的索引。
+**Returns:**
+用于同步的对象
 
-**参数：**
+### getUnrestricted {#getUnrestricted-int-}
+```
+public Page getUnrestricted(int index)
+```
 
-| 范围 | 类型 | 描述 |
+按索引返回页面。 {@code Page}
+
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| entity | [Page](../../com.aspose.pdf/page) | 页面对象。页码从 1 开始。
+| 索引 |  | 请求页面的索引。页面从 1 编号。 |
 
---------------------
+**Returns:**
+请求的页面
 
-页码从 1 开始。如果集合不包含该页，则返回 0。|
+### indexOf {#indexOf-com.aspose.pdf.Page-}
+<p> 返回指定页面的索引。 </p>
 
-**退货：**
-int - 集合中页面的索引。
-### insert(int pageNumber) {#insert-int-}
+### insert {#insert-int-}
 ```
 public Page insert(int pageNumber)
 ```
 
+在指定位置向集合中插入一个空白页面。如果文档已经包含尺寸不同的页面，将选择出现频率最高的页面尺寸。若只有两种不同的页面，则使用第一页的尺寸。
 
-将空的 apge 插入到指定位置的集合中。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pageNumber | int | 新页面的位置。 |
+| pageNumber |  | 新页面的位置。 |
 
-**退货：**
-[Page](../../com.aspose.pdf/page) - 插入的页面。
-### insert(int pageNumber, Page entity) {#insert-int-com.aspose.pdf.Page-}
-```
-public Page insert(int pageNumber, Page entity)
-```
+**Returns:**
+已插入的页面。
 
+### insert {#insert-int-java.lang.Iterable-}
+将集合中的页面插入到文档中。
 
+### insert {#insert-int-java.util.List-}
+将集合中的页面插入到文档中。
+
+### insert {#insert-int-com.aspose.pdf.Page-}
 在指定位置将页面插入页面集合。
 
-**参数：**
+### insert {#insert-int-com.aspose.pdf.Page:A-}
+将数组中的页面插入文档。
 
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| pageNumber | int | 集合中必需的页面索引。 |
-| entity | [Page](../../com.aspose.pdf/page) | 要插入的页面。 |
-
-**退货：**
-[Page](../../com.aspose.pdf/page) - 插入的页面。
-### insert(int pageNumber, Page[] pages) {#insert-int-com.aspose.pdf.Page---}
-```
-public void insert(int pageNumber, Page[] pages)
-```
-
-
-将数组的页面插入到文档中。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| pageNumber | int | 新页面的起始编号。 |
-| pages | [Page\[\]](../../com.aspose.pdf/page) | 将插入的页面数组。 |
-
-### insert(int pageNumber, Iterable<Page> pages) {#insert-int-java.lang.Iterable-com.aspose.pdf.Page--}
-```
-public void insert(int pageNumber, Iterable<Page> pages)
-```
-
-
-将集合中的页面插入到文档中。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| pageNumber | int | 新页面的起始位置。 |
-| pages | java.lang.Iterable<com.aspose.pdf.Page> | 页面集合。 |
-
-### insert(int pageNumber, List<Page> pages) {#insert-int-java.util.List-com.aspose.pdf.Page--}
-```
-public void insert(int pageNumber, List<Page> pages)
-```
-
-
-将集合中的页面插入到文档中。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| pageNumber | int | 新页面的起始位置。 |
-| pages | java.util.List<com.aspose.pdf.Page> | 页面集合。 |
-
-### isEmpty() {#isEmpty--}
+### isEmpty {#isEmpty--}
 ```
 public boolean isEmpty()
 ```
 
-
 如果集合为空，则返回 TRUE。
 
-**退货：**
-boolean - 布尔值
-### isReadOnly() {#isReadOnly--}
+**Returns:**
+布尔值
+
+### isReadOnly {#isReadOnly--}
 ```
 public boolean isReadOnly()
 ```
 
+获取指示集合是否只读的值。始终返回 false。
 
-获取表示集合的值是只读的。总是返回错误。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### isSynchronized() {#isSynchronized--}
+### isSynchronized {#isSynchronized--}
 ```
 public boolean isSynchronized()
 ```
 
+返回对象已同步为 true。
 
-返回 true 对象已同步。
+**Returns:**
+布尔值
 
-**退货：**
-boolean - 布尔值
-### iterator() {#iterator--}
+### iterator {#iterator--}
 ```
-public Iterator<Page> iterator()
+public Iterator < Page > iterator()
 ```
-
 
 返回页面的枚举器。
 
-**退货：**
-java.util.Iterator<com.aspose.pdf.Page> - 页面枚举器
-### notify() {#notify--}
-```
-public final native void notify()
-```
+**Returns:**
+页面的枚举器
 
+### remove {#remove-com.aspose.pdf.Page-}
+删除指定的项，抛出异常。
 
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### remove(Page item) {#remove-com.aspose.pdf.Page-}
-```
-public boolean remove(Page item)
-```
-
-
-删除指定的项目，抛出异常。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| item | [Page](../../com.aspose.pdf/page) | 页面实例 |
-
-**退货：**
-boolean - 布尔值
-### size() {#size--}
+### size {#size--}
 ```
 public int size()
 ```
 
+获取文档中页面的计数。
 
-获取文档中的页数。
-
-**退货：**
-int - 整数值
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+**Returns:**
+int 值

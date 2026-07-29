@@ -1,293 +1,174 @@
 ---
-title: LineInfo
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 表示行的信息。
+title: "LineInfo"
+linktitle: "LineInfo"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示线条的信息。"
 type: docs
-weight: 33
+weight: 350
 url: /zh/java/com.aspose.pdf.facades/lineinfo/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.facades.LineInfo
+
 ```
-public final class LineInfo
+public final class LineInfo extends Object
 ```
 
-表示行的信息。
+表示线条的信息。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [LineInfo()](#LineInfo--) |  |
+| [LineInfo](#LineInfo--) |  |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getBorderStyle()](#getBorderStyle--) | 获取线条的边框样式，0表示实线，1表示虚线，2表示斜线，3表示插入，4表示下划线。 |
-| [getClass()](#getClass--) |  |
-| [getLineColor()](#getLineColor--) | 获取线条的颜色。 |
-| [getLineDashPattern()](#getLineDashPattern--) | 获取线条的破折号模式。 |
-| [getLineWidth()](#getLineWidth--) | 获取或设置线条的宽度。 |
-| [getVerticeCoordinate()](#getVerticeCoordinate--) | 获取一个数字数组，分别表示每个顶点的交替水平和垂直坐标。 |
-| [getVisibility()](#getVisibility--) | 获取线条的可见性。 |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setBorderStyle(int value)](#setBorderStyle-int-) | 设置线条的边框样式，0表示实线，1表示虚线，2表示斜线，3表示插入，4表示下划线。 |
-| [setLineColor(Color value)](#setLineColor-java.awt.Color-) | 设置线条的颜色。 |
-| [setLineDashPattern(int[] value)](#setLineDashPattern-int---) | 设置线条的破折号图案。 |
-| [setLineWidth(int value)](#setLineWidth-int-) | 设置线条的宽度。 |
-| [setVerticeCoordinate(float[] value)](#setVerticeCoordinate-float---) | 设置一个数字数组，分别表示每个顶点的交替水平和垂直坐标。 |
-| [setVisibility(boolean value)](#setVisibility-boolean-) | 设置线条的可见性。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### LineInfo() {#LineInfo--}
+| [getBorderStyle](#getBorderStyle--) | 获取线条的边框样式，0 表示实线，1 表示虚线，2 表示斜面，3 表示插入，4 表示下划线。 |
+| [getLineColor](#getLineColor--) | 获取线条的颜色。 |
+| [getLineDashPattern](#getLineDashPattern--) | 获取线条的虚线模式。 |
+| [getLineWidth](#getLineWidth--) | 获取或设置线条的宽度。 |
+| [getVerticeCoordinate](#getVerticeCoordinate--) | 获取一个数字数组，分别表示每个顶点交替的水平和垂直坐标。 |
+| [getVisibility](#getVisibility--) | 获取线条的可见性。 |
+| [setBorderStyle](#setBorderStyle-com.aspose.pdf.BorderStyle-) | 设置线条的边框样式，0 表示实线，1 表示虚线，2 表示斜面，3 表示插入，4 表示下划线。 |
+| [setBorderStyle](#setBorderStyle-int-) | 设置线条的边框样式，0 表示实线，1 表示虚线，2 表示斜面，3 表示插入，4 表示下划线。 |
+| [setLineColor](#setLineColor-java.awt.Color-) | 设置线条的颜色。 |
+| [setLineDashPattern](#setLineDashPattern-int:A-) | 设置线条的虚线模式。 |
+| [setLineWidth](#setLineWidth-int-) | 设置线条的宽度。 |
+| [setVerticeCoordinate](#setVerticeCoordinate-float:A-) | 设置一个数字数组，分别表示每个顶点交替的水平和垂直坐标。 |
+| [setVisibility](#setVisibility-boolean-) | 设置线条的可见性。 |
+
+### LineInfo {#LineInfo--}
 ```
 public LineInfo()
 ```
 
 
-### equals(Object arg0) {#equals-java.lang.Object-}
+
+### getBorderStyle {#getBorderStyle--}
 ```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getBorderStyle() {#getBorderStyle--}
-```
-public int getBorderStyle()
+public BorderStyle getBorderStyle()
 ```
 
+获取线条的边框样式，0 表示实线，1 表示虚线，2 表示斜面，3 表示插入，4 表示下划线。
 
-获取线条的边框样式，0表示实线，1表示虚线，2表示斜线，3表示插入，4表示下划线。
+**Returns:**
+int 值
 
-**退货：**
-int - 整数值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getLineColor() {#getLineColor--}
+### getLineColor {#getLineColor--}
 ```
 public Color getLineColor()
 ```
 
-
 获取线条的颜色。
 
-**退货：**
-[Color](../../java.awt/color) - 颜色元素
-### getLineDashPattern() {#getLineDashPattern--}
+**Returns:**
+颜色元素
+
+### getLineDashPattern {#getLineDashPattern--}
 ```
 public int[] getLineDashPattern()
 ```
 
+获取线条的虚线模式。
 
-获取线条的破折号模式。
+**Returns:**
+int 数组值
 
-**退货：**
-整数[- 整数值数组
-### getLineWidth() {#getLineWidth--}
+### getLineWidth {#getLineWidth--}
 ```
 public int getLineWidth()
 ```
 
-
 获取或设置线条的宽度。
 
-**退货：**
-int - 整数值
-### getVerticeCoordinate() {#getVerticeCoordinate--}
+**Returns:**
+int 值
+
+### getVerticeCoordinate {#getVerticeCoordinate--}
 ```
 public float[] getVerticeCoordinate()
 ```
 
+获取一个数字数组，分别表示每个顶点交替的水平和垂直坐标。
 
-获取一个数字数组，分别表示每个顶点的交替水平和垂直坐标。
+**Returns:**
+float 值数组
 
-**退货：**
-漂浮[- 浮点值数组
-### getVisibility() {#getVisibility--}
+### getVisibility {#getVisibility--}
 ```
 public boolean getVisibility()
 ```
 
-
 获取线条的可见性。
 
-**退货：**
-boolean - 布尔值
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
+**Returns:**
+布尔值
 
+### setBorderStyle {#setBorderStyle-com.aspose.pdf.BorderStyle-}
+设置线条的边框样式，0 表示实线，1 表示虚线，2 表示斜面，3 表示插入，4 表示下划线。
 
-
-
-**退货：**
-整数
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setBorderStyle(int value) {#setBorderStyle-int-}
+### setBorderStyle {#setBorderStyle-int-}
 ```
 public void setBorderStyle(int value)
 ```
 
+设置线条的边框样式，0 表示实线，1 表示虚线，2 表示斜面，3 表示插入，4 表示下划线。
 
-设置线条的边框样式，0表示实线，1表示虚线，2表示斜线，3表示插入，4表示下划线。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 整数值 |
+| 值 |  | int 值 |
 
-### setLineColor(Color value) {#setLineColor-java.awt.Color-}
-```
-public void setLineColor(Color value)
-```
-
-
+### setLineColor {#setLineColor-java.awt.Color-}
 设置线条的颜色。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| value | java.awt.Color | 颜色元素 |
-
-### setLineDashPattern(int[] value) {#setLineDashPattern-int---}
+### setLineDashPattern {#setLineDashPattern-int:A-}
 ```
 public void setLineDashPattern(int[] value)
 ```
 
+设置线条的虚线模式。
 
-设置线条的破折号图案。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int[] | int值数组 |
+| 值 |  | int 数组值 |
 
-### setLineWidth(int value) {#setLineWidth-int-}
+### setLineWidth {#setLineWidth-int-}
 ```
 public void setLineWidth(int value)
 ```
 
-
 设置线条的宽度。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 整数值 |
+| 值 |  | int 值 |
 
-### setVerticeCoordinate(float[] value) {#setVerticeCoordinate-float---}
+### setVerticeCoordinate {#setVerticeCoordinate-float:A-}
 ```
 public void setVerticeCoordinate(float[] value)
 ```
 
+设置一个数字数组，分别表示每个顶点交替的水平和垂直坐标。
 
-设置一个数字数组，分别表示每个顶点的交替水平和垂直坐标。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | float[] | 浮点值数组 |
+| 值 |  | float 值数组 |
 
-### setVisibility(boolean value) {#setVisibility-boolean-}
+### setVisibility {#setVisibility-boolean-}
 ```
 public void setVisibility(boolean value)
 ```
 
-
 设置线条的可见性。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | boolean | 布尔值 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| 值 |  | 布尔值 |

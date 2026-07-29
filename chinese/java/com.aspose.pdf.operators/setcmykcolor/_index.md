@@ -1,306 +1,172 @@
 ---
-title: SetCMYKColor
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 表示 k 运算符的类，为非描边操作设置 CMYK 颜色。
+title: "设置CMYK颜色"
+linktitle: "设置CMYK颜色"
+second_title: "Aspose.PDF for Java API 参考"
+description: "表示 k 运算符的类（为非描边操作设置 CMYK 颜色）。"
 type: docs
-weight: 56
+weight: 530
 url: /zh/java/com.aspose.pdf.operators/setcmykcolor/
 ---
-**遗产：**
-java.lang.Object, [com.aspose.pdf.Operator](../../com.aspose.pdf/operator), [com.aspose.pdf.operators.SetColorOperator](../../com.aspose.pdf.operators/setcoloroperator)
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.Operator com.aspose.pdf.operators.SetColorOperator com.aspose.pdf.operators.SetCMYKColor, com.aspose.pdf.Operator, com.aspose.pdf.operators.SetColorOperator com.aspose.pdf.operators.SetCMYKColor, com.aspose.pdf.operators.SetColorOperator, com.aspose.pdf.operators.SetCMYKColor
+
 ```
 public class SetCMYKColor extends SetColorOperator
 ```
 
 表示 k 运算符的类（为非描边操作设置 CMYK 颜色）。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [SetCMYKColor(double c, double m, double y, double k)](#SetCMYKColor-double-double-double-double-) | 初始化运算符。 |
-| [SetCMYKColor(int index, ICommand command)](#SetCMYKColor-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-) |  |
+| [SetCMYKColor](#SetCMYKColor-double-double-double-double-) | 初始化操作符。 |
+| [SetCMYKColor](#SetCMYKColor-int-com.aspose.pdf.engine.commondata.pagecontent.operators.color.SetCMYKNonstrokingColor-) |  |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [accept(IOperatorSelector visitor)](#accept-com.aspose.pdf.IOperatorSelector-) | 接受访问者对象到流程操作员。 |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getColor()](#getColor--) | 返回颜色。 |
-| [getCommand()](#getCommand--) | 获取命令 |
-| [getCommandName()](#getCommandName--) | 获取操作员名称。 |
-| [getIndex()](#getIndex--) | 获取页面操作符列表中的操作符索引。 |
-| [getParameters()](#getParameters--) | 获取运算符参数数组。 |
-| [getRGBColor(double[] cmyk, double[] rgbOut)](#getRGBColor-double---double---) |  |
-| [hashCode()](#hashCode--) |  |
-| [isTextShowOperator(Operator op)](#isTextShowOperator-com.aspose.pdf.Operator-) | 判断操作符是否为负责文本输出的操作符（Tj、TJ等） |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [reset()](#reset--) | 仅供内部使用 |
-| [setIndex(int value)](#setIndex-int-) | 在页面操作符列表中设置操作符索引。 |
-| [toString()](#toString--) | 将命令和参数转换为字符串表示形式。 |
-| [toString(IPdfPrimitive primitive)](#toString-com.aspose.pdf.engine.data.IPdfPrimitive-) | 根据 PDF 规范返回 Pdf 原语（字符串、数组、字典等）的文本表示。 |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### SetCMYKColor(double c, double m, double y, double k) {#SetCMYKColor-double-double-double-double-}
+| [accept](#accept-com.aspose.pdf.IOperatorSelector-) | 接受访问者对象以处理操作符。 |
+| [getC](#getC--) | 获取或设置青色分量。 |
+| [getColor](#getColor--) | 返回颜色。 |
+| [getK](#getK--) | 获取或设置黑色分量。 |
+| [getM](#getM--) | 获取或设置品红分量。 |
+| [getRGBColor](#getRGBColor-double:A-double:A-) |  |
+| [getY](#getY--) | 获取或设置黄色分量。 |
+| [setC](#setC-double-) | 获取或设置青色分量。 |
+| [setK](#setK-double-) | 获取或设置黑色分量。 |
+| [setM](#setM-double-) | 获取或设置品红分量。 |
+| [setY](#setY-double-) | 获取或设置黄色分量。 |
+
+### SetCMYKColor {#SetCMYKColor-double-double-double-double-}
 ```
 public SetCMYKColor(double c, double m, double y, double k)
 ```
 
+初始化操作符。
 
-初始化运算符。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| c | double | 青色级别从 0.0 到 1.0 |
-| m | double | 品红色级别从 0.0 到 1.0 |
-| y | double | 黄色级别从 0.0 到 1.0 |
-| k | double | 黑色级别从 0.0 到 1.0 |
+| c |  | 青色的水平从0.0到1.0 |
+| m |  | 品红的水平从0.0到1.0 |
+| y |  | 黄色的水平从0.0到1.0 |
+| k |  | 黑色的水平从0.0到1.0 |
 
-### SetCMYKColor(int index, ICommand command) {#SetCMYKColor-int-com.aspose.pdf.engine.commondata.pagecontent.operators.commands.ICommand-}
+### SetCMYKColor {#SetCMYKColor-int-com.aspose.pdf.engine.commondata.pagecontent.operators.color.SetCMYKNonstrokingColor-}
+
+
+### accept {#accept-com.aspose.pdf.IOperatorSelector-}
+接受访问者对象以处理操作符。
+
+### getC {#getC--}
 ```
-public SetCMYKColor(int index, ICommand command)
-```
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| index | int |  |
-| command | [ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) |  |
-
-### accept(IOperatorSelector visitor) {#accept-com.aspose.pdf.IOperatorSelector-}
-```
-public void accept(IOperatorSelector visitor)
+public final double getC()
 ```
 
+获取或设置青色分量。
 
-接受访问者对象到流程操作员。
+**Returns:**
+可做的值
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| visitor | [IOperatorSelector](../../com.aspose.pdf/ioperatorselector) | 访客对象。 |
-
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getColor() {#getColor--}
+### getColor {#getColor--}
 ```
 public Color getColor()
 ```
 
-
 返回颜色。
 
-**退货：**
-[Color](../../java.awt/color) - 操作员指定的颜色。
-### getCommand() {#getCommand--}
-```
-public ICommand getCommand()
-```
+**Returns:**
+运算符指定的颜色。
 
-
-获取命令
-
-**退货：**
-[ICommand](../../com.aspose.pdf.engine.commondata.pagecontent.operators.commands/icommand) ICommand 对象
-### getCommandName() {#getCommandName--}
+### getK {#getK--}
 ```
-public String getCommandName()
+public final double getK()
 ```
 
+获取或设置黑色分量。
 
-获取操作员名称。
+**Returns:**
+可做的值
 
-**退货：**
-java.lang.String - 字符串值
-### getIndex() {#getIndex--}
+### getM {#getM--}
 ```
-public int getIndex()
-```
-
-
-获取页面操作符列表中的操作符索引。
-
-**退货：**
-int - 整数值
-### getParameters() {#getParameters--}
-```
-public ArrayList<CommandParameter> getParameters()
+public final double getM()
 ```
 
+获取或设置品红分量。
 
-获取运算符参数数组。
+**Returns:**
+可做的值
 
-**退货：**
-java.util.ArrayList<com.aspose.pdf.engine.commondata.pagecontent.operators.commands.CommandParameter> - CommandParameter 值的 ArrayList
-### getRGBColor(double[] cmyk, double[] rgbOut) {#getRGBColor-double---double---}
+### getRGBColor {#getRGBColor-double:A-double:A-}
 ```
 public void getRGBColor(double[] cmyk, double[] rgbOut)
 ```
 
 
 
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| cmyk | double[] |  |
-| rgbOut | double[] |  |
+| cmyk |  |  |
+| rgbOut |  |  |
 
-### hashCode() {#hashCode--}
+### getY {#getY--}
 ```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### isTextShowOperator(Operator op) {#isTextShowOperator-com.aspose.pdf.Operator-}
-```
-public static boolean isTextShowOperator(Operator op)
+public final double getY()
 ```
 
+获取或设置黄色分量。
 
-判断操作符是否为负责文本输出的操作符（Tj、TJ等）
+**Returns:**
+可做的值
 
-**参数：**
+### setC {#setC-double-}
+```
+public final void setC(double value)
+```
 
-| 范围 | 类型 | 描述 |
+获取或设置青色分量。
+
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| op | [Operator](../../com.aspose.pdf/operator) | 运算符对象 |
+| 值 |  | 可做的值 |
 
-**退货：**
-boolean - 如果这是文本输出运算符则为真
-### notify() {#notify--}
+### setK {#setK-double-}
 ```
-public final native void notify()
+public final void setK(double value)
 ```
 
+获取或设置黑色分量。
 
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### reset() {#reset--}
-```
-public void reset()
-```
-
-
-仅供内部使用
-
-### setIndex(int value) {#setIndex-int-}
-```
-public void setIndex(int value)
-```
-
-
-在页面操作符列表中设置操作符索引。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | 整数值 |
+| 值 |  | 可做的值 |
 
-### toString() {#toString--}
+### setM {#setM-double-}
 ```
-public String toString()
-```
-
-
-将命令和参数转换为字符串表示形式。
-
-**退货：**
-java.lang.String - 运算符文本
-### toString(IPdfPrimitive primitive) {#toString-com.aspose.pdf.engine.data.IPdfPrimitive-}
-```
-public static String toString(IPdfPrimitive primitive)
+public final void setM(double value)
 ```
 
+获取或设置品红分量。
 
-根据 PDF 规范返回 Pdf 原语（字符串、数组、字典等）的文本表示。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| primitive | [IPdf原始](../../com.aspose.pdf.engine.data/ipdfprimitive) | Primitive |
+| 值 |  | 可做的值 |
 
-**退货：**
-java.lang.String - 原语的文本表示
-### wait() {#wait--}
+### setY {#setY-double-}
 ```
-public final void wait()
+public final void setY(double value)
 ```
 
+获取或设置黄色分量。
 
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| 值 |  | 可做的值 |

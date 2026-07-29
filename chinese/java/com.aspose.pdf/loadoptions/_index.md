@@ -1,174 +1,85 @@
 ---
-title: LoadOptions
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: LoadOptions 类型包含对单个加载选项的抽象级别
+title: "LoadOptions"
+linktitle: "LoadOptions"
+second_title: "Aspose.PDF for Java API 参考"
+description: "LoadOptions 类型保存对各个加载选项的抽象层级。"
 type: docs
-weight: 202
+weight: 2790
 url: /zh/java/com.aspose.pdf/loadoptions/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.LoadOptions
+
 ```
-public abstract class LoadOptions
+public abstract class LoadOptions extends Object
 ```
 
-LoadOptions 类型包含对单个加载选项的抽象级别
+LoadOptions 类型保存对各个加载选项的抽象层级。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [LoadOptions()](#LoadOptions--) |  |
+| [LoadOptions](#LoadOptions--) |  |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getClass()](#getClass--) |  |
-| [getLoadFormat()](#getLoadFormat--) | 表示 LoadOptions 描述的文件格式。 |
-| [getWarningHandler()](#getWarningHandler--) | 回调以处理生成的任何警告。 |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setWarningHandler(WarningCallback value)](#setWarningHandler-com.aspose.pdf.WarningCallback-) | 回调以处理生成的任何警告。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### LoadOptions() {#LoadOptions--}
+| [getLoadFormat](#getLoadFormat--) | 表示 {@code LoadOptions} 描述的文件格式。 |
+| [getWarningHandler](#getWarningHandler--) | 回调用于处理生成的任何警告。WarningHandler 返回 ReturnAction 枚举项，指定为 Continue 或 Abort。Continue 为默认操作，加载过程将继续；但用户也可以返回 Abort，此时加载过程应停止。 |
+| [isDisableFontLicenseVerifications](#isDisableFontLicenseVerifications--) | 获取或设置标志，以在加载文件时禁用所有字体的任何许可证限制。当 {@code } 时，允许执行该字体许可证禁止的操作，例如即使许可证规则禁止嵌入，也允许将字体嵌入 PDF 文档。默认情况下 {@code }。使用此标志时请谨慎。设置后意味着设置此标志的人自行承担可能的许可证/法律违规责任。因此风险由其自行承担。强烈建议仅在完全确信不会侵犯版权法时使用此标志。 |
+| [setDisableFontLicenseVerifications](#setDisableFontLicenseVerifications-boolean-) | 获取或设置标志，以在加载文件时禁用所有字体的任何许可证限制。当 {@code } 时，允许执行该字体许可证禁止的操作，例如即使许可证规则禁止嵌入，也允许将字体嵌入 PDF 文档。默认情况下 {@code }。使用此标志时请谨慎。设置后意味着设置此标志的人自行承担可能的许可证/法律违规责任。因此风险由其自行承担。强烈建议仅在完全确信不会侵犯版权法时使用此标志。 |
+| [setWarningHandler](#setWarningHandler-com.aspose.pdf.WarningCallback-) | 回调用于处理生成的任何警告。WarningHandler 返回 ReturnAction 枚举项，指定为 Continue 或 Abort。Continue 为默认操作，加载过程将继续；但用户也可以返回 Abort，此时加载过程应停止。 |
+
+### LoadOptions {#LoadOptions--}
 ```
 public LoadOptions()
 ```
 
 
-### equals(Object arg0) {#equals-java.lang.Object-}
-```
-public boolean equals(Object arg0)
-```
 
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | java.lang.Object |  |
-
-**退货：**
-布尔值
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getLoadFormat() {#getLoadFormat--}
+### getLoadFormat {#getLoadFormat--}
 ```
 public LoadFormat getLoadFormat()
 ```
 
+表示 {@code LoadOptions} 描述的文件格式。
 
-表示 LoadOptions 描述的文件格式。
+**Returns:**
+LoadFormat 元素 @see LoadFormat
 
-**退货：**
-[LoadFormat](../../com.aspose.pdf/loadformat) - LoadFormat 元素
-### getWarningHandler() {#getWarningHandler--}
+### getWarningHandler {#getWarningHandler--}
 ```
 public WarningCallback getWarningHandler()
 ```
 
+回调用于处理生成的任何警告。WarningHandler 返回 ReturnAction 枚举项，指定为 Continue 或 Abort。Continue 为默认操作，加载过程将继续；但用户也可以返回 Abort，此时加载过程应停止。
 
-回调以处理生成的任何警告。 WarningHandler 返回指定 Continue 或 Abort 的 ReturnAction 枚举项。 Continue 是默认操作，Load 操作继续，但是用户也可以返回 Abort，在这种情况下 Load 操作应该停止。
+**Returns:**
+IWarningCallback 值
 
-**退货：**
-[WarningCallback](../../com.aspose.pdf/warningcallback) - IWarningCallback 值
-### hashCode() {#hashCode--}
+### isDisableFontLicenseVerifications {#isDisableFontLicenseVerifications--}
 ```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### notify() {#notify--}
-```
-public final native void notify()
+public final boolean isDisableFontLicenseVerifications()
 ```
 
+获取或设置标志，以在加载文件时禁用所有字体的任何许可证限制。当 {@code } 时，允许执行该字体许可证禁止的操作，例如即使许可证规则禁止嵌入，也允许将字体嵌入 PDF 文档。默认情况下 {@code }。使用此标志时请谨慎。设置后意味着设置此标志的人自行承担可能的许可证/法律违规责任。因此风险由其自行承担。强烈建议仅在完全确信不会侵犯版权法时使用此标志。
 
+**Returns:**
+布尔值
 
-
-### notifyAll() {#notifyAll--}
+### setDisableFontLicenseVerifications {#setDisableFontLicenseVerifications-boolean-}
 ```
-public final native void notifyAll()
-```
-
-
-
-
-### setWarningHandler(WarningCallback value) {#setWarningHandler-com.aspose.pdf.WarningCallback-}
-```
-public void setWarningHandler(WarningCallback value)
+public final void setDisableFontLicenseVerifications(boolean value)
 ```
 
+获取或设置标志，以在加载文件时禁用所有字体的任何许可证限制。当 {@code } 时，允许执行该字体许可证禁止的操作，例如即使许可证规则禁止嵌入，也允许将字体嵌入 PDF 文档。默认情况下 {@code }。使用此标志时请谨慎。设置后意味着设置此标志的人自行承担可能的许可证/法律违规责任。因此风险由其自行承担。强烈建议仅在完全确信不会侵犯版权法时使用此标志。
 
-回调以处理生成的任何警告。 WarningHandler 返回指定 Continue 或 Abort 的 ReturnAction 枚举项。 Continue 是默认操作，Load 操作继续，但是用户也可以返回 Abort，在这种情况下 Load 操作应该停止。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | [WarningCallback](../../com.aspose.pdf/warningcallback) | IWarningCallback 值 |
+| 值 |  | 布尔值 |
 
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+### setWarningHandler {#setWarningHandler-com.aspose.pdf.WarningCallback-}
+回调用于处理生成的任何警告。WarningHandler 返回 ReturnAction 枚举项，指定为 Continue 或 Abort。Continue 为默认操作，加载过程将继续；但用户也可以返回 Abort，此时加载过程应停止。

@@ -1,261 +1,147 @@
 ---
-title: Margins
-second_title: 用于 Java API 参考的 Aspose.PDF
-description: 此类表示图像的边距。
+title: "Margins"
+linktitle: "Margins"
+second_title: "Aspose.PDF for Java API 参考"
+description: "此类表示图像的边距。"
 type: docs
-weight: 21
+weight: 140
 url: /zh/java/com.aspose.pdf.devices/margins/
 ---
-**遗产：**
-java.lang.Object
+**Inheritance:**
+java.lang.Object, com.aspose.pdf.devices.Margins
+
 ```
-public final class Margins
+public final class Margins extends Object
 ```
 
 此类表示图像的边距。
+
 ## 构造函数
 
 | 构造函数 | 描述 |
 | --- | --- |
-| [Margins(int left, int right, int top, int bottom)](#Margins-int-int-int-int-) | 初始化 Margins 类的新实例。 |
-| [Margins()](#Margins--) | 初始化 Margins 类的新实例。 |
+| [Margins](#Margins--) | 初始化 {@code Margins} 类的新实例。 |
+| [Margins](#Margins-int-int-int-int-) | 初始化 {@code Margins} 类的新实例。 |
+
 ## 方法
 
 | 方法 | 描述 |
 | --- | --- |
-| [equals(Object arg0)](#equals-java.lang.Object-) |  |
-| [getBottom()](#getBottom--) | 得到底部。 |
-| [getClass()](#getClass--) |  |
-| [getLeft()](#getLeft--) | 得到左边。 |
-| [getRight()](#getRight--) | 获得权利。 |
-| [getTop()](#getTop--) | 获得顶部。 |
-| [hashCode()](#hashCode--) |  |
-| [notify()](#notify--) |  |
-| [notifyAll()](#notifyAll--) |  |
-| [setBottom(int value)](#setBottom-int-) | 设置底部。 |
-| [setLeft(int value)](#setLeft-int-) | 设置左侧。 |
-| [setRight(int value)](#setRight-int-) | 设置正确。 |
-| [setTop(int value)](#setTop-int-) | 设置顶部。 |
-| [toString()](#toString--) |  |
-| [wait()](#wait--) |  |
-| [wait(long arg0)](#wait-long-) |  |
-| [wait(long arg0, int arg1)](#wait-long-int-) |  |
-### Margins(int left, int right, int top, int bottom) {#Margins-int-int-int-int-}
-```
-public Margins(int left, int right, int top, int bottom)
-```
+| [getBottom](#getBottom--) | 获取底部。 |
+| [getLeft](#getLeft--) | 获取左侧。 |
+| [getRight](#getRight--) | 获取右侧。 |
+| [getTop](#getTop--) | 获取顶部。 |
+| [setBottom](#setBottom-int-) | 设置底部。 |
+| [setLeft](#setLeft-int-) | 设置左侧。 |
+| [setRight](#setRight-int-) | 设置右侧。 |
+| [setTop](#setTop-int-) | 设置顶部。 |
 
-
-初始化 Margins 类的新实例。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| left | int | 左坐标。 |
-| right | int | 正确的坐标。 |
-| top | int | 顶坐标。 |
-| bottom | int | 底部坐标。 |
-
-### Margins() {#Margins--}
+### Margins {#Margins--}
 ```
 public Margins()
 ```
 
+初始化 {@code Margins} 类的新实例。
 
-初始化 Margins 类的新实例。
-
-### equals(Object arg0) {#equals-java.lang.Object-}
+### Margins {#Margins-int-int-int-int-}
 ```
-public boolean equals(Object arg0)
+public Margins(int left, int right, int top, int bottom)
 ```
 
+初始化 {@code Margins} 类的新实例。
 
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| arg0 | java.lang.Object |  |
+| left |  | 左坐标。 |
+| 右 |  | 右坐标。 |
+| 顶部 |  | 顶部坐标。 |
+| bottom |  | 底部坐标。 |
 
-**退货：**
-布尔值
-### getBottom() {#getBottom--}
+### getBottom {#getBottom--}
 ```
 public int getBottom()
 ```
 
+获取底部。
 
-得到底部。
+**Returns:**
+int 值：底部。
 
-**退货：**
-int - int 值：底部。
-### getClass() {#getClass--}
-```
-public final native Class<?> getClass()
-```
-
-
-
-
-**退货：**
-java.lang.Class<?>
-### getLeft() {#getLeft--}
+### getLeft {#getLeft--}
 ```
 public int getLeft()
 ```
 
+获取左侧。
 
-得到左边。
+**Returns:**
+int 值：左侧。
 
-**退货：**
-int - int 值：左边。
-### getRight() {#getRight--}
+### getRight {#getRight--}
 ```
 public int getRight()
 ```
 
+获取右侧。
 
-获得权利。
+**Returns:**
+int value: 右侧。
 
-**退货：**
-int - int 值：正确。
-### getTop() {#getTop--}
+### getTop {#getTop--}
 ```
 public int getTop()
 ```
 
+获取顶部。
 
-获得顶部。
+**Returns:**
+int value: 顶部。
 
-**退货：**
-int - int 值：顶部。
-### hashCode() {#hashCode--}
-```
-public native int hashCode()
-```
-
-
-
-
-**退货：**
-整数
-### notify() {#notify--}
-```
-public final native void notify()
-```
-
-
-
-
-### notifyAll() {#notifyAll--}
-```
-public final native void notifyAll()
-```
-
-
-
-
-### setBottom(int value) {#setBottom-int-}
+### setBottom {#setBottom-int-}
 ```
 public void setBottom(int value)
 ```
 
-
 设置底部。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | int 值：底部。 |
+| 值 |  | int 值：底部。 |
 
-### setLeft(int value) {#setLeft-int-}
+### setLeft {#setLeft-int-}
 ```
 public void setLeft(int value)
 ```
 
-
 设置左侧。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | int值：左边。 |
+| 值 |  | int 值：左侧。 |
 
-### setRight(int value) {#setRight-int-}
+### setRight {#setRight-int-}
 ```
 public void setRight(int value)
 ```
 
+设置右侧。
 
-设置正确。
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | int值：右边。 |
+| 值 |  | int value: 右侧。 |
 
-### setTop(int value) {#setTop-int-}
+### setTop {#setTop-int-}
 ```
 public void setTop(int value)
 ```
 
-
 设置顶部。
 
-**参数：**
-
-| 范围 | 类型 | 描述 |
+**Parameters:**
+| 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | int | int值：顶部。 |
-
-### toString() {#toString--}
-```
-public String toString()
-```
-
-
-
-
-**退货：**
-java.lang.字符串
-### wait() {#wait--}
-```
-public final void wait()
-```
-
-
-
-
-### wait(long arg0) {#wait-long-}
-```
-public final native void wait(long arg0)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-
-### wait(long arg0, int arg1) {#wait-long-int-}
-```
-public final void wait(long arg0, int arg1)
-```
-
-
-
-
-**参数：**
-
-| 范围 | 类型 | 描述 |
-| --- | --- | --- |
-| arg0 | long |  |
-| arg1 | int |  |
+| 值 |  | int value: 顶部。 |
