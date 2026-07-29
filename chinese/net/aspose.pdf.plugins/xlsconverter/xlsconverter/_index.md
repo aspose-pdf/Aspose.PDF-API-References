@@ -1,12 +1,12 @@
 ---
-title: XlsConverter.XlsConverter
-second_title: Aspose.PDF for .NET API Reference
-description: XlsConverter 构造函数。默认构造函数
+title: "XlsConverter.XlsConverter"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XlsConverter 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.plugins/xlsconverter/xlsconverter/
 ---
-## XlsConverter 构造函数
+## XlsConverter constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.plugins/xlsconverter/xlsconverter/
 public XlsConverter()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XlsConverter](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XlsConverter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

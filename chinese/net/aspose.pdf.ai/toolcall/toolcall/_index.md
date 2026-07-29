@@ -1,12 +1,12 @@
 ---
-title: ToolCall.ToolCall
-second_title: Aspose.PDF for .NET API Reference
-description: ToolCall 构造函数。默认构造函数
+title: "ToolCall.ToolCall"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ToolCall 构造函数。默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/toolcall/toolcall/
 ---
-## ToolCall 构造函数
+## ToolCall constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/toolcall/toolcall/
 public ToolCall()
 ```
 
-### 另见
+### 另请参见
 
-* 类 [ToolCall](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ToolCall](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

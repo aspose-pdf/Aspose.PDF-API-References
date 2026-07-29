@@ -1,9 +1,9 @@
 ---
-title: Document.BindXml
-second_title: Aspose.PDF for .NET API Reference
-description: Document 方法。将 xml 绑定到文档
+title: "Document.BindXml"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 方法。将 xml 绑定到文档"
 type: docs
-weight: 550
+weight: 570
 url: /zh/net/aspose.pdf/document/bindxml/
 ---
 ## BindXml(string) {#bindxml_3}
@@ -16,7 +16,7 @@ public void BindXml(string file)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| file | String | xml 文件 |
+| file | String | 该 xml 文件 |
 
 ### 另请参见
 
@@ -36,8 +36,8 @@ public void BindXml(string xmlFile, string xslFile)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| xmlFile | String | xml 文件。 |
-| xslFile | String | 如果使用 XSLT，则为 xsl 文件。 |
+| xmlFile | String | 该 xml 文件。 |
+| xslFile | String | 如果使用 XSLT，则该 xsl 文件。 |
 
 ### 另请参见
 
@@ -57,7 +57,7 @@ public void BindXml(Stream xmlStream, Stream xslStream)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| xmlStream | Stream | xml 流。 |
+| xmlStream | Stream | 该 xml 流。 |
 | xslStream | Stream | 如果使用 XSLT，则为 xsl 流。 |
 
 ### 另请参见
@@ -78,9 +78,9 @@ public void BindXml(Stream xmlStream, Stream xslStream, XmlReaderSettings settin
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| xmlStream | Stream | xml 流。 |
+| xmlStream | Stream | 该 xml 流。 |
 | xslStream | Stream | 如果使用 XSLT，则为 xsl 流。 |
-| settings | XmlReaderSettings | xml 读取器设置。 |
+| settings | XmlReaderSettings | xml 阅读器设置。 |
 
 ### 另请参见
 
@@ -100,10 +100,12 @@ public void BindXml(Stream stream)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | xml 流。 |
+| stream | Stream | 该 xml 流。 |
 
 ### 另请参见
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

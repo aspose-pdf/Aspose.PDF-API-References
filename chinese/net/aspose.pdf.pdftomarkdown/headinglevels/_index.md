@@ -1,12 +1,12 @@
 ---
-title: Class HeadingLevels
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfToMarkdown.HeadingLevels 类。表示一个基于字体大小处理标题级别的类
+title: "类 HeadingLevels"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.PdfToMarkdown.HeadingLevels 类。表示一个基于字体大小处理标题级别的类。"
 type: docs
 weight: 8440
 url: /zh/net/aspose.pdf.pdftomarkdown/headinglevels/
 ---
-## HeadingLevels 类
+## HeadingLevels class
 
 表示一个基于字体大小处理标题级别的类。
 
@@ -31,9 +31,11 @@ public class HeadingLevels
 
 | 名称 | 描述 |
 | --- | --- |
-| [AddLevels](../../aspose.pdf.pdftomarkdown/headinglevels/addlevels/)(ICollection&lt;double&gt;) | 添加标题级别。字体大小集合应按降序排列。 |
+| [AddLevels](../../aspose.pdf.pdftomarkdown/headinglevels/addlevels/)(ICollection&lt;double&gt;) | 添加标题级别。字体大小集合应按大小递减排序。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.PdfToMarkdown](../../aspose.pdf.pdftomarkdown/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.PdfToMarkdown](../../aspose.pdf.pdftomarkdown/)
+* assembly [Aspose.PDF](../../)
+
+

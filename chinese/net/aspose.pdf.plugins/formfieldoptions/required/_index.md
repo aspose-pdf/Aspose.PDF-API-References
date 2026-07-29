@@ -1,21 +1,23 @@
 ---
-title: FormFieldOptions.Required
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldOptions 属性。获取/设置值以确定创建/修改的字段是否为必需字段（如果将被设置）。
+title: "FormFieldOptions.Required"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FormFieldOptions 属性。获取/设置用于确定已创建/修改字段是否为必填的值（如果将被设置）"
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf.plugins/formfieldoptions/required/
 ---
-## FormFieldOptions.Required 属性
+## FormFieldOptions.Required property
 
-获取/设置值以确定创建/修改的字段是否为必需字段（如果将被设置）。
+获取/设置用于确定已创建/修改字段是否必填（如果将被设置）的值。
 
 ```csharp
 public bool? Required { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FormFieldOptions](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FormFieldOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

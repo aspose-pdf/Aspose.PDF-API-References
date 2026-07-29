@@ -1,7 +1,7 @@
 ---
-title: PageCollectionExtensions.AddBatesNumbering
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollectionExtensions 方法。使用指定的操作配置 BatesNArtifact，将 Bates 编号添加到给定页面集合中的每一页
+title: "PageCollectionExtensions.AddBatesNumbering"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PageCollectionExtensions 方法。使用指定的操作来配置 BatesNArtifact，将 Bates 编号添加到给定 PageCollection 的每个 Page"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/pagecollectionextensions/addbatesnumbering/
@@ -17,10 +17,10 @@ public static void AddBatesNumbering(this PageCollection pageCollection,
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pageCollection | PageCollection | 要添加 Bates 编号的页面集合。 |
-| action | Action`1 | 在将其添加到每一页之前配置 BatesNArtifact 的操作。 |
+| pageCollection | PageCollection | 将添加 Bates 编号的 PageCollection。 |
+| 操作 | Action`1 | 在将其添加到每个 Page 之前，用于配置 BatesNArtifact 的操作。 |
 
-### 另请参阅
+### 另请参见
 
 * class [PageCollection](../../pagecollection/)
 * class [BatesNArtifact](../../batesnartifact/)
@@ -32,7 +32,7 @@ public static void AddBatesNumbering(this PageCollection pageCollection,
 
 ## AddBatesNumbering(this PageCollection, BatesNArtifact) {#addbatesnumbering}
 
-将指定的 Bates 编号工件添加到给定页面集合中的每一页。
+向给定页面集合中的每页添加指定的 Bates 编号工件。
 
 ```csharp
 public static void AddBatesNumbering(this PageCollection pageCollection, BatesNArtifact artifact)
@@ -40,13 +40,15 @@ public static void AddBatesNumbering(this PageCollection pageCollection, BatesNA
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pageCollection | PageCollection | 要添加 Bates 编号工件的页面集合。 |
-| artifact | BatesNArtifact | 要添加到每一页的 BatesNArtifact 实例。 |
+| pageCollection | PageCollection | 将添加 Bates 编号工件的 PageCollection。 |
+| 工件 | BatesNArtifact | 将添加到每个 Page 的 BatesNArtifact 实例。 |
 
-### 另请参阅
+### 另请参见
 
 * class [PageCollection](../../pagecollection/)
 * class [BatesNArtifact](../../batesnartifact/)
 * class [PageCollectionExtensions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

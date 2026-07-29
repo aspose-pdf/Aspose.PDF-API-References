@@ -1,12 +1,12 @@
 ---
-title: SoundSampleData.DefaultOfBitsPerChannel
-second_title: Aspose.PDF for .NET API Reference
-description: SoundSampleData 字段。BitsPerchannel 参数的默认值
+title: "SoundSampleData.DefaultOfBitsPerChannel"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SoundSampleData 字段。BitsPerchannel 参数的默认值"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.annotations/soundsampledata/defaultofbitsperchannel/
 ---
-## SoundSampleData.DefaultOfBitsPerChannel 字段
+## SoundSampleData.DefaultOfBitsPerChannel field
 
 BitsPerchannel 参数的默认值。
 
@@ -14,8 +14,10 @@ BitsPerchannel 参数的默认值。
 public const int DefaultOfBitsPerChannel;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [SoundSampleData](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

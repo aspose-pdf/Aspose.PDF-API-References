@@ -1,21 +1,23 @@
 ---
-title: MarkupAnnotation.Title
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupAnnotation 属性。获取或设置将在注释的标题栏中显示的文本
+title: "MarkupAnnotation.Title"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MarkupAnnotation 属性。获取或设置在注释弹出窗口标题栏打开且激活时显示的文本标签。此条目用于标识添加该注释的用户"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.annotations/markupannotation/title/
 ---
-## MarkupAnnotation.Title 属性
+## MarkupAnnotation.Title property
 
-获取或设置将在注释的标题栏中显示的文本。
+获取或设置一个文本标签，在注释的弹出窗口标题栏打开且激活时显示。此条目用于标识添加该注释的用户。
 
 ```csharp
 public string Title { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [MarkupAnnotation](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [MarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

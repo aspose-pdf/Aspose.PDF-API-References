@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.CustomPrint
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer 事件。在打印开始之前发生，并允许提供自定义打印处理程序，而不是默认的处理程序
+title: "PdfViewer.CustomPrint"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfViewer 事件。发生在打印开始之前，允许提供自定义打印处理程序以取代默认处理程序"
 type: docs
 weight: 200
 url: /zh/net/aspose.pdf.facades/pdfviewer/customprint/
 ---
-## PdfViewer.CustomPrint 事件
+## PdfViewer.CustomPrint event
 
-在打印开始之前发生，并允许提供自定义打印处理程序，而不是默认的处理程序。
+在打印开始之前发生，可提供自定义打印处理程序以替代默认处理程序。
 
 ```csharp
 public event EventHandler<CustomPrintEventArgs> CustomPrint;
@@ -16,33 +16,33 @@ public event EventHandler<CustomPrintEventArgs> CustomPrint;
 
 ## 示例
 
-该示例演示如何在 Linux 系统上从 Aspose.PDF 打印。以下代码主要针对在 Linux 系统上从 Aspose.PDF 打印。Windows 系统的用户可以继续使用默认的 PdfViewer 打印实现，而无需提供 CustomPrint 处理程序。
+此示例演示了如何在 Linux 系统上使用 Aspose.PDF 进行打印。以下代码主要针对在 Linux 系统上使用 Aspose.PDF 打印。Windows 系统的用户可以继续使用默认的 PdfViewer 打印实现，而无需提供 CustomPrint 处理程序。
 
-### 前提条件
+### Prerequisites
 
-1. 在打印服务器系统上，应该安装并配置 CUPS：
+1. 在打印服务器系统上应安装并配置 CUPS：
 * sudo apt update && apt install cups
 * sudo service cups start
-* 如果您打算在与运行 Aspose.PDF 应用程序相同的系统上打印文档，则无需额外的 CUPS 配置。如果您需要从不同的系统打印，请参考 CUPS 文档以了解如何通过网络允许访问打印服务器。
-2. 可以使用 CUPS Web 界面设置打印机。可选地，您可以使用虚拟 PDF 打印机：
+* if you're going to print documents on the same system where the Aspose.PDF-enabled app is running, you won't need additional CUPS configuration. If you need to print from a different system, please refer to the CUPS documentation on how to allow access to print server via the network.
+2. 可以使用 CUPS Web 界面设置打印机。也可以选择使用虚拟 PDF 打印机：
 * sudo apt install printer-driver-cups-pdf
 * sudo service cups restart
-* 请确保虚拟 PDF 打印机出现在 CUPS Web 界面中可用打印机的列表中（在 http://localhost:631/printers/ 处，使用默认 CUPS 设置）
-3. 如果您的客户端系统（运行 Aspose.PDF 应用程序的系统）与打印服务器不同，您还需要在该系统上安装并运行 CUPS：
+* please make sure that the virtual PDF printer appeared in the list of available printers in the CUPS web interface (at http://localhost:631/printers/ with default CUPS settings)
+3. 如果您的客户端系统（运行 Aspose.PDF 支持的应用程序的系统）与打印服务器不同，则需要在该系统上也安装并运行 CUPS：
 * sudo apt update && apt install cups
 * sudo service cups start
 
-### 如何使用 lp 命令打印文档
+### How to print a document using the lp command
 
 ```csharp
 var docPath = dataDir + "input.pdf";
 var viewer = new PdfViewer();
 viewer.BindPdf(docPath);
 
-// Set a custom printing handler that builds an lp command and runs it with bash
+// 设置一个自定义打印处理程序，该程序构建 lp 命令并使用 bash 运行
 viewer.CustomPrint += ViewerOnCustomPrintLp;
 
-// Send the document to the virtual PDF printer installed with the printer-driver-cups-pdf package
+// 将文档发送到通过 printer-driver-cups-pdf 包安装的虚拟 PDF 打印机
 var ps = new PrinterSettings
 {
     PrinterName = "PDF"
@@ -50,39 +50,39 @@ var ps = new PrinterSettings
 var pgs = ps.DefaultPageSettings;
 pgs.PaperSize = PaperSizes.A4;
 
-// The document will be printed using the provided print handler
+// 文档将使用提供的打印处理程序进行打印
 viewer.PrintDocumentWithSettings(pgs, ps);
 viewer.Close();
 
-// Custom print handler
+// 自定义打印处理程序
 private void ViewerOnCustomPrintLp(object sender, CustomPrintEventArgs e)
 {
     var sb = new StringBuilder("lp ");
-    // Set the name of the printer to print at
+    // 设置要打印的打印机名称
     sb.AppendFormat("-d {0} ", e.PrinterSettings.PrinterName);
 
-    // Set the number of copies
+    // 设置副本数量
     if (e.PrinterSettings.Copies > 0)
     {
         sb.AppendFormat("-n {0} ", e.PrinterSettings.Copies);
     }
 
-    // Set the range of pages to print
+    // 设置要打印的页面范围
     if (e.PrinterSettings.PrintRange == PrintRange.SomePages)
     {
         sb.AppendFormat("-P {0}-{1} ", e.PrinterSettings.FromPage, e.PrinterSettings.ToPage);
     }
 
-    // Set paper size
+    // 设置纸张尺寸
     sb.AppendFormat("-o media={0} ", e.PageSettings.PaperSize.Kind.ToString("G").ToLower());
 
-    // Set landscape orientation if requested
+    // 如果需要，设置横向方向
     if (e.PageSettings.Landscape)
     {
         sb.Append("-o orientation-requested=4 ");
     }
 
-    // Set printer resolution
+    // 设置打印机分辨率
     switch (e.PageSettings.PrinterResolution.Kind)
     {
         case PrinterResolutionKind.High:
@@ -98,7 +98,7 @@ private void ViewerOnCustomPrintLp(object sender, CustomPrintEventArgs e)
             break;
     }
 
-    // Set two-sided print if requested
+    // 如果需要，设置双面打印
     switch (e.PrinterSettings.Duplex)
     {
         case Duplex.Simplex:
@@ -114,10 +114,10 @@ private void ViewerOnCustomPrintLp(object sender, CustomPrintEventArgs e)
             break;
     }
 
-    // The name of the file to print
+    // 要打印的文件名
     sb.AppendFormat("-- {0} ", e.FileName);
 
-    // Run the prepared lp command with bash
+    // 使用 bash 运行准备好的 lp 命令
     var psi = new ProcessStartInfo
     {
         FileName = "/bin/bash",
@@ -134,17 +134,17 @@ private void ViewerOnCustomPrintLp(object sender, CustomPrintEventArgs e)
 }
 ```
 
-### 如何使用 ipptool 打印文档
+### How to print a document using the ipptool
 
 ```csharp
 var docPath = dataDir + "input.pdf";
 var viewer = new PdfViewer();
 viewer.BindPdf(docPath);
 
-// Set a custom printing handler that builds an ipptool job file and runs ipptool with bash
+// 设置自定义打印处理程序，该处理程序构建 ipptool 作业文件并使用 bash 运行 ipptool
 viewer.CustomPrint += ViewerOnCustomPrintIpptool;
 
-// Send the document to the virtual PDF printer installed with the printer-driver-cups-pdf package
+// 将文档发送到通过 printer-driver-cups-pdf 包安装的虚拟 PDF 打印机
 var ps = new PrinterSettings
 {
     PrinterUri = new Uri("ipp://localhost/printers/PDF");
@@ -152,32 +152,32 @@ var ps = new PrinterSettings
 var pgs = ps.DefaultPageSettings;
 pgs.PaperSize = PaperSizes.A4;
 
-// The document will be printed using the provided print handler
+// 文档将使用提供的打印处理程序进行打印
 viewer.PrintDocumentWithSettings(pgs, ps);
 viewer.Close();
 
-// Custom print handler
+// 自定义打印处理程序
 private void ViewerOnCustomPrintIpptool(object sender, CustomPrintEventArgs e)
 {
     var command = new StringBuilder("ipptool -tv ");
 
-    // The name of the file to print
+    // 要打印的文件名
     command.AppendFormat("-f {0} ", e.FileName);
 
-    // Set the URI of the printer to print at
+    // 设置要打印的打印机 URI
     command.Append(e.PrinterSettings.PrinterUri);
 
-    // Get the temporary file name for the ipptool job file
+    // 获取 ipptool 作业文件的临时文件名
     var jobFile = Path.GetTempFileName();
 
     var sb = new StringBuilder();
     sb.AppendLine("{");
 
-    // Set job name and type of the job
+    // 设置作业名称和作业类型
     sb.AppendLine("  NAME \"Print file using Print-Job\"");
     sb.AppendLine("  OPERATION Print-Job");
 
-    // Set default job settings
+    // 设置默认作业设置
     sb.AppendLine("  GROUP operation-attributes-tag");
     sb.AppendLine("  ATTR charset attributes-charset utf-8");
     sb.AppendLine("  ATTR language attributes-natural-language en");
@@ -187,21 +187,21 @@ private void ViewerOnCustomPrintIpptool(object sender, CustomPrintEventArgs e)
 
     sb.AppendLine("  GROUP job-attributes-tag");
 
-    // Set number of copies
+    // 设置副本数量
     var copies = e.PrinterSettings.Copies < 1 ? 1 : e.PrinterSettings.Copies;
     sb.AppendFormat("  ATTR integer copies {0}{1}", copies, Environment.NewLine);
 
     sb.AppendLine("  ATTR collection media-col {");
-    // Set paper size
+    // 设置纸张尺寸
     sb.AppendLine("    MEMBER collection media-size {");
-    // .NET uses 1/100th of inch to represent paper size while IPP requires 1/1000th of millimeter - conversion is needed
+    // .NET 使用每英寸的百分之一来表示纸张尺寸，而 IPP 需要每毫米的千分之一——需要进行转换
     sb.AppendFormat("      MEMBER integer x-dimension {0}{1}", (int) (e.PageSettings.PaperSize.Width * 25.4),
         Environment.NewLine);
     sb.AppendFormat("      MEMBER integer y-dimension {0}{1}", (int) (e.PageSettings.PaperSize.Height * 25.4),
         Environment.NewLine);
     sb.AppendLine("    }");
 
-    // Set margins
+    // 设置页边距
     if (pageSettings.Margins != null)
     {
         sb.AppendFormat("    MEMBER integer media-top-margin {0}{1}", (int) (e.PageSettings.Margins.Top * 25.4),
@@ -225,13 +225,13 @@ private void ViewerOnCustomPrintIpptool(object sender, CustomPrintEventArgs e)
     sb.AppendLine("  EXPECT job-uri");
     sb.AppendLine("}");
 
-    // Create ipptool job file
+    // 创建 ipptool 作业文件
     File.WriteAllText(jobFile, sb.ToString());
 
-    // Pass the job file to ipptool
+    // 将作业文件传递给 ipptool
     command.AppendFormat(" {0}", jobFile);
 
-    // Run the prepared ipptool command with bash
+    // 使用 bash 运行准备好的 ipptool 命令
     var psi = new ProcessStartInfo
     {
         FileName = "/bin/bash",
@@ -246,14 +246,16 @@ private void ViewerOnCustomPrintIpptool(object sender, CustomPrintEventArgs e)
         process.WaitForExit();
     }
 
-    // Delete temporary job file after the document is printed
+    // 文档打印完成后删除临时作业文件
     File.Delete(jobFile);
 }
 ```
 
-### 另见
+### 另请参见
 
 * class [CustomPrintEventArgs](../../../aspose.pdf.printing/customprinteventargs/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

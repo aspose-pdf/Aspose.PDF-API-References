@@ -1,14 +1,14 @@
 ---
-title: AttributeOwnerStandard.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeOwnerStandard 方法。返回一个表示当前对象的字符串
+title: "AttributeOwnerStandard.ToString"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AttributeOwnerStandard 方法。返回表示当前对象的字符串"
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.logicalstructure/attributeownerstandard/tostring/
 ---
-## AttributeOwnerStandard.ToString 方法
+## AttributeOwnerStandard.ToString method
 
-返回一个表示当前对象的字符串。
+返回表示当前对象的字符串。
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### 返回值
 
-表示当前对象的字符串。
+表示当前对象的字符串.
 
-### 另请参阅
+### 另请参见
 
-* 类 [AttributeOwnerStandard](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextExtractionErrorLocation.OperatorIndex
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractionErrorLocation 属性。显示操作符的文本索引，在内容流操作符集合中导致文本提取错误
+title: "TextExtractionErrorLocation.OperatorIndex"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextExtractionErrorLocation 属性。导致文本提取错误的内容流操作符集合中显示文本的操作符索引"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.text/textextractionerrorlocation/operatorindex/
 ---
-## TextExtractionErrorLocation.OperatorIndex 属性
+## TextExtractionErrorLocation.OperatorIndex property
 
-显示操作符的文本索引，在内容流（操作符集合）中导致文本提取错误。
+导致文本提取错误的内容流（操作符集合）中显示文本的操作符索引。
 
 ```csharp
 public int OperatorIndex { get; }
@@ -16,6 +16,8 @@ public int OperatorIndex { get; }
 
 ### 另请参见
 
-* 类 [TextExtractionErrorLocation](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextExtractionErrorLocation](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

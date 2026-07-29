@@ -1,12 +1,12 @@
 ---
-title: Class CompletionFunction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.CompletionFunction 类。表示函数对象
+title: "类 CompletionFunction"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.CompletionFunction 类。表示函数对象"
 type: docs
-weight: 230
+weight: 240
 url: /zh/net/aspose.pdf.ai/completionfunction/
 ---
-## CompletionFunction 类
+## CompletionFunction class
 
 表示函数对象。
 
@@ -24,9 +24,11 @@ public class CompletionFunction
 
 | 名称 | 描述 |
 | --- | --- |
-| [Name](../../aspose.pdf.ai/completionfunction/name/) { get; set; } | 获取或设置要调用的函数的名称。 |
+| [Name](../../aspose.pdf.ai/completionfunction/name/) { get; set; } | 获取或设置要调用的函数名称。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

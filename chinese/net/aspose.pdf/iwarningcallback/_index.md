@@ -1,12 +1,12 @@
 ---
-title: Interface IWarningCallback
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.IWarningCallback 接口。用户回调机制支持的接口
+title: "接口 IWarningCallback"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.IWarningCallback 接口。用于用户回调机制支持的接口"
 type: docs
-weight: 5840
+weight: 5970
 url: /zh/net/aspose.pdf/iwarningcallback/
 ---
-## IWarningCallback 接口
+## IWarningCallback interface
 
 用户回调机制支持的接口。
 
@@ -20,7 +20,9 @@ public interface IWarningCallback
 | --- | --- |
 | [Warning](../../aspose.pdf/iwarningcallback/warning/)(WarningInfo) | 用于某些程序通知的回调方法。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

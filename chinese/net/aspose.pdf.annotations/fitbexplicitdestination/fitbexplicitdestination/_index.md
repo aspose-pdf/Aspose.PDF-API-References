@@ -1,7 +1,7 @@
 ---
-title: FitBExplicitDestination.FitBExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: FitBExplicitDestination 构造函数。创建本地显式目标
+title: "FitBExplicitDestination.FitBExplicitDestination"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FitBExplicitDestination 构造函数。 创建本地显式目标"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/fitbexplicitdestination/fitbexplicitdestination/
@@ -16,7 +16,7 @@ public FitBExplicitDestination(Page page)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | 目标页面对象。 |
+| 页面 | 页面 | 该目标页面对象。 |
 
 ### 另请参见
 
@@ -37,10 +37,12 @@ public FitBExplicitDestination(int pageNumber)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pageNumber | Int32 | 远程文档的目标页面编号。 |
+| pageNumber | Int32 | 该远程文档的目标页面编号。 |
 
 ### 另请参见
 
 * class [FitBExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

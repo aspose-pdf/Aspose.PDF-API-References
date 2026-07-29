@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.CreatePopup
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor 方法。 在 PDF 文档中创建弹出注释
+title: "PdfContentEditor.CreatePopup"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfContentEditor 方法。创建 PDF 文档中的弹出注释"
 type: docs
 weight: 250
 url: /zh/net/aspose.pdf.facades/pdfcontenteditor/createpopup/
 ---
-## PdfContentEditor.CreatePopup 方法
+## PdfContentEditor.CreatePopup method
 
 在 PDF 文档中创建弹出注释。
 
@@ -16,10 +16,10 @@ public void CreatePopup(Rectangle rect, string contents, bool open, int page)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | 矩形 | 定义注释在页面上位置的注释矩形。 |
-| contents | 字符串 | 注释的内容。 |
-| open | 布尔值 | 一个标志，指定弹出注释是否应最初显示为打开。 |
-| page | Int32 | 注释将被创建的原始页面的编号。 |
+| rect | Rectangle | 注释矩形定义了注释在页面上的位置。 |
+| 内容 | String | 注释的内容。 |
+| 打开 | Boolean | 一个标志，指定弹出注释是否应初始显示为打开状态。 |
+| 页面 | Int32 | 注释将被创建的原始页面编号。 |
 
 ## 示例
 
@@ -32,6 +32,8 @@ editor.Save("example_out.pdf");
 
 ### 另请参见
 
-* 类 [PdfContentEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

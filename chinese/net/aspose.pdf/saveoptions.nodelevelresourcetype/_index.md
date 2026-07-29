@@ -1,14 +1,14 @@
 ---
-title: Enum SaveOptions.NodeLevelResourceType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.SaveOptionsNodeLevelResourceType 枚举。列举可能的保存外部资源类型
+title: "枚举 SaveOptions.NodeLevelResourceType"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.SaveOptionsNodeLevelResourceType 枚举。列举已保存外部资源的可能类型"
 type: docs
-weight: 9930
+weight: 10080
 url: /zh/net/aspose.pdf/saveoptions.nodelevelresourcetype/
 ---
-## SaveOptions.NodeLevelResourceType 枚举
+## SaveOptions.NodeLevelResourceType enumeration
 
-列举可能的保存外部资源类型
+列举已保存外部资源的可能类型
 
 ```csharp
 public enum NodeLevelResourceType
@@ -21,8 +21,10 @@ public enum NodeLevelResourceType
 | Image | `0` | 表示提供的资源是图像 |
 | Font | `1` | 表示提供的资源是字体 |
 
-### 另请参阅
+### 另请参见
 
 * class [SaveOptions](../saveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

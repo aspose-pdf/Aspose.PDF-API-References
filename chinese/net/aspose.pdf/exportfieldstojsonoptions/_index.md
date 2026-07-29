@@ -1,14 +1,14 @@
 ---
-title: Class ExportFieldsToJsonOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ExportFieldsToJsonOptions 类。表示导出表单字段到 Json 格式的选项
+title: "类 ExportFieldsToJsonOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.ExportFieldsToJsonOptions 类。表示导出表单字段为 Json 格式的选项。"
 type: docs
-weight: 4110
+weight: 4230
 url: /zh/net/aspose.pdf/exportfieldstojsonoptions/
 ---
-## ExportFieldsToJsonOptions 类
+## ExportFieldsToJsonOptions class
 
-表示导出表单字段到 Json 格式的选项。
+表示导出表单字段为 Json 格式的选项。
 
 ```csharp
 public class ExportFieldsToJsonOptions : ExportFieldsOptions
@@ -29,10 +29,12 @@ public class ExportFieldsToJsonOptions : ExportFieldsOptions
 
 ## 备注
 
-继承自 [`ExportFieldsOptions`](../exportfieldsoptions/) 并添加 Json 导出的特定选项。
+继承自 [`ExportFieldsOptions`](../exportfieldsoptions/)，并添加了针对 Json 导出的特定选项。
 
-### 另请参阅
+### 另请参见
 
-* 类 [ExportFieldsOptions](../exportfieldsoptions/)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* class [ExportFieldsOptions](../exportfieldsoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

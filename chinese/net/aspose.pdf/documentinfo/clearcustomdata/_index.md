@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.ClearCustomData
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo 方法。仅清除自定义数据，保留所有其他预定义值（标题、作者等）。
+title: "DocumentInfo.ClearCustomData"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "DocumentInfo 方法。清除自定义数据，仅保留所有其他预定义值，如标题、作者等"
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf/documentinfo/clearcustomdata/
 ---
-## DocumentInfo.ClearCustomData 方法
+## DocumentInfo.ClearCustomData method
 
 仅清除自定义数据，保留所有其他预定义值（标题、作者等）。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/documentinfo/clearcustomdata/
 public void ClearCustomData()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [DocumentInfo](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

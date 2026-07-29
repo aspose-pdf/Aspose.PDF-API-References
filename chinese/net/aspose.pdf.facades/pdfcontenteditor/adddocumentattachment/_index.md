@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.AddDocumentAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor 方法。添加没有注释的文档附件
+title: "PdfContentEditor.AddDocumentAttachment"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfContentEditor 方法。添加没有注释的文档附件"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.facades/pdfcontenteditor/adddocumentattachment/
@@ -16,8 +16,8 @@ public void AddDocumentAttachment(string fileAttachmentPath, string description)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| fileAttachmentPath | 字符串 | 将要附加的文件路径。 |
-| description | 字符串 | 描述信息。 |
+| fileAttachmentPath | String | 将附加文件的路径。 |
+| description | String | 描述信息。 |
 
 ## 示例
 
@@ -28,11 +28,11 @@ editor.AddDocumentAttachment("attachment_file.pdf", "description of attachment_f
 editor.Save("example_out.pdf");
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfContentEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -47,9 +47,9 @@ public void AddDocumentAttachment(Stream fileAttachmentStream, string fileAttach
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| fileAttachmentStream | 流 | 将要附加的文件流。 |
-| fileAttachmentName | 字符串 | 附件名称。 |
-| description | 字符串 | 描述信息。 |
+| fileAttachmentStream | Stream | 文件的流将被附加。 |
+| fileAttachmentName | String | 附件名称。 |
+| description | String | 描述信息。 |
 
 ## 示例
 
@@ -63,8 +63,10 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 }    
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfContentEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

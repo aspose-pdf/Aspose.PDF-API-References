@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithTopP
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilotOptions 方法。设置图像描述助手选项的 top P 值
+title: "OpenAIImageDescriptionCopilotOptions.WithTopP"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAIImageDescriptionCopilotOptions 方法。设置图像描述协助选项的 top P 值"
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withtopp/
 ---
-## OpenAIImageDescriptionCopilotOptions.WithTopP 方法
+## OpenAIImageDescriptionCopilotOptions.WithTopP method
 
-设置图像描述助手选项的 top P 值。
+设置图像描述副驾驶选项的 top P 值。
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithTopP(double? topP)
@@ -20,10 +20,12 @@ public OpenAIImageDescriptionCopilotOptions WithTopP(double? topP)
 
 ### 返回值
 
-当前 [`OpenAIImageDescriptionCopilotOptions`](../) 的实例。
+当前的 [`OpenAIImageDescriptionCopilotOptions`](../) 实例。
 
-### 另请参阅
+### 另请参见
 
-* 类 [OpenAIImageDescriptionCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

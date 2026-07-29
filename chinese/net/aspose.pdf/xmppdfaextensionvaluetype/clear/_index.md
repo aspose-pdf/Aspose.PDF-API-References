@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionValueType 方法。清除所有字段
+title: "XmpPdfAExtensionValueType.Clear"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpPdfAExtensionValueType 方法。清除所有字段"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/xmppdfaextensionvaluetype/clear/
 ---
-## XmpPdfAExtensionValueType.Clear 方法
+## XmpPdfAExtensionValueType.Clear method
 
 清除所有字段。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/xmppdfaextensionvaluetype/clear/
 public void Clear()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XmpPdfAExtensionValueType](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

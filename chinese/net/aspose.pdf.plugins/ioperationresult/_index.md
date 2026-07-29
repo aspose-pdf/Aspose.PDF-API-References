@@ -1,14 +1,14 @@
 ---
-title: Interface IOperationResult
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.IOperationResult 接口。定义具体插件操作结果应实现的通用操作结果接口
+title: "接口 IOperationResult"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.IOperationResult 接口。通用操作结果接口，定义具体插件操作结果应实现的公共方法。"
 type: docs
-weight: 8850
+weight: 8980
 url: /zh/net/aspose.pdf.plugins/ioperationresult/
 ---
-## IOperationResult 接口
+## IOperationResult interface
 
-定义具体插件操作结果应实现的通用操作结果接口。
+通用操作结果接口，定义具体插件操作结果应实现的公共方法。
 
 ```csharp
 public interface IOperationResult
@@ -30,7 +30,9 @@ public interface IOperationResult
 | [ToFile](../../aspose.pdf.plugins/ioperationresult/tofile/)() | 尝试将结果转换为文件。 |
 | [ToStream](../../aspose.pdf.plugins/ioperationresult/tostream/)() | 尝试将结果转换为流对象。 |
 
-### 另见
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

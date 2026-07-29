@@ -1,14 +1,14 @@
 ---
-title: PdfConverter.UserPassword
-second_title: Aspose.PDF for .NET API Reference
-description: PdfConverter 属性。获取或设置文档用户密码
+title: "PdfConverter.UserPassword"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfConverter 属性。获取或设置文档的 UserPassword"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.facades/pdfconverter/userpassword/
 ---
-## PdfConverter.UserPassword 属性
+## PdfConverter.UserPassword property
 
-获取或设置文档用户密码。
+获取或设置文档的 UserPassword。
 
 ```csharp
 public string UserPassword { get; set; }
@@ -16,6 +16,8 @@ public string UserPassword { get; set; }
 
 ### 另请参见
 
-* 类 [PdfConverter](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

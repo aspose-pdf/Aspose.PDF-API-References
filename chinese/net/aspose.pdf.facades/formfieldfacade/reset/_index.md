@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.Reset
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade 方法。重置所有视觉属性为默认值
+title: "FormFieldFacade.Reset"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FormFieldFacade method. 将所有视觉属性重置为空值"
 type: docs
 weight: 200
 url: /zh/net/aspose.pdf.facades/formfieldfacade/reset/
 ---
-## FormFieldFacade.Reset 方法
+## FormFieldFacade.Reset method
 
-重置所有视觉属性为默认值。
+将所有可视属性重置为空值。
 
 ```csharp
 public void Reset()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FormFieldFacade](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

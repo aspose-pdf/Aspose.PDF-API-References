@@ -1,12 +1,12 @@
 ---
-title: Class Error
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.Error 类。表示 API 响应中的错误
+title: "类 Error"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.Error 类。表示 API 响应中的错误。"
 type: docs
-weight: 340
+weight: 360
 url: /zh/net/aspose.pdf.ai/error/
 ---
-## 错误类
+## Error class
 
 表示 API 响应中的错误。
 
@@ -29,7 +29,9 @@ public class Error
 | [Message](../../aspose.pdf.ai/error/message/) { get; set; } | 获取或设置错误消息。 |
 | [Param](../../aspose.pdf.ai/error/param/) { get; set; } | 获取或设置参数名称。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

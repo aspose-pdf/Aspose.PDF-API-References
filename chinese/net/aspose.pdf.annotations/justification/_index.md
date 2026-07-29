@@ -1,14 +1,14 @@
 ---
-title: Enum Justification
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.Justification 枚举。枚举用于显示注释文本的对齐方式形式
+title: "枚举 Justification"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.Justification 枚举。枚举用于显示注释文本的对齐方式"
 type: docs
-weight: 1940
+weight: 2030
 url: /zh/net/aspose.pdf.annotations/justification/
 ---
-## 对齐方式枚举
+## Justification enumeration
 
-枚举用于显示注释文本的对齐方式形式。
+枚举在显示注释文本时使用的对齐（齐行）形式。
 
 ```csharp
 public enum Justification
@@ -18,11 +18,13 @@ public enum Justification
 
 | 名称 | 值 | 描述 |
 | --- | --- | --- |
-| 左对齐 | `0` | 左对齐方式。 |
-| 居中对齐 | `1` | 居中对齐方式。 |
-| 右对齐 | `2` | 右对齐方式。 |
+| Left | `0` | 左对齐。 |
+| Center | `1` | 居中对齐。 |
+| Right | `2` | 右对齐。 |
 
 ### 另请参见
 
-* 命名空间 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

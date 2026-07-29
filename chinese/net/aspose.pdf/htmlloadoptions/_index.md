@@ -1,9 +1,9 @@
 ---
-title: Class HtmlLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlLoadOptions class. 表示将 HTML 文件加载/导入到 PDF 文档的选项
+title: "类 HtmlLoadOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.HtmlLoadOptions 类。表示将 html 文件加载/导入到 pdf 文档的选项"
 type: docs
-weight: 5530
+weight: 5660
 url: /zh/net/aspose.pdf/htmlloadoptions/
 ---
 ## HtmlLoadOptions class
@@ -14,57 +14,57 @@ url: /zh/net/aspose.pdf/htmlloadoptions/
 public sealed class HtmlLoadOptions : LoadOptions
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [HtmlLoadOptions](htmlloadoptions/#constructor)() | 创建用于将 HTML 转换为 PDF 文档的加载选项，基础路径为空。 |
-| [HtmlLoadOptions](htmlloadoptions/#constructor_1)(string) | 创建用于将 HTML 转换为 PDF 文档的加载选项，基础路径已定义。 |
+| [HtmlLoadOptions](htmlloadoptions/#constructor)() | 创建用于将 html 转换为 pdf 文档的加载选项，基路径为空。 |
+| [HtmlLoadOptions](htmlloadoptions/#constructor_1)(string) | 创建用于将 html 转换为 pdf 文档的加载选项，基路径已定义。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [BasePath](../../aspose.pdf/htmlloadoptions/basepath/) { get; } | HTML 文件的基础路径/URL。 |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | 获取或设置标志，以禁用加载文件时对所有字体的许可证限制。当 `true` 时，允许执行许可证禁止的字体操作，例如允许将字体嵌入 PDF 文档，即使许可证规则禁止该字体的嵌入。默认值为 `false`。 |
-| [HtmlMediaType](../../aspose.pdf/htmlloadoptions/htmlmediatype/) { get; set; } | 获取或设置在渲染过程中使用的可能媒体类型。 |
-| [InputEncoding](../../aspose.pdf/htmlloadoptions/inputencoding/) { get; set; } | 获取或设置指定解析时用于该文档的编码的属性。如果该属性为 null，则编码将根据文档字符集属性确定。 |
-| [IsEmbedFonts](../../aspose.pdf/htmlloadoptions/isembedfonts/) { get; set; } | 获取或设置结果文档的字体嵌入 |
-| [IsPriorityCssPageRule](../../aspose.pdf/htmlloadoptions/isprioritycsspagerule/) { get; set; } | 获取或设置标志，指定 CSS 中定义的 @page 规则将覆盖 PageInfo 中定义的值。 |
-| [IsRenderToSinglePage](../../aspose.pdf/htmlloadoptions/isrendertosinglepage/) { get; set; } | 获取或设置将所有文档渲染为单页 |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | 表示 [`LoadOptions`](../loadoptions/) 描述的文件格式。 |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | 获取或设置在加载文件时禁用所有字体的任何许可证限制的标志。当 `true` 时，允许执行该字体许可证禁止的操作，例如即使许可证规则禁止嵌入，也可以将字体嵌入 PDF 文档。默认值为 `false`。 |
+| [HtmlMediaType](../../aspose.pdf/htmlloadoptions/htmlmediatype/) { get; set; } | 获取或设置渲染期间使用的可能媒体类型。 |
+| [InputEncoding](../../aspose.pdf/htmlloadoptions/inputencoding/) { get; set; } | 获取或设置指定解析时此文档使用的编码的属性。如果此属性为 null，则编码将从文档字符集属性中确定。 |
+| [IsEmbedFonts](../../aspose.pdf/htmlloadoptions/isembedfonts/) { get; set; } | 获取或设置嵌入到结果文档的字体 |
+| [IsPriorityCssPageRule](../../aspose.pdf/htmlloadoptions/isprioritycsspagerule/) { get; set; } | 获取或设置指定 css 中 @page 规则将覆盖 PageInfo 中定义的值的标志。 |
+| [IsRenderToSinglePage](../../aspose.pdf/htmlloadoptions/isrendertosinglepage/) { get; set; } | 获取或设置将整个文档渲染为单页的选项 |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | 表示由 [`LoadOptions`](../loadoptions/) 描述的文件格式。 |
 | [PageInfo](../../aspose.pdf/htmlloadoptions/pageinfo/) { get; set; } | 获取或设置文档页面信息 |
 | [PageLayoutOption](../../aspose.pdf/htmlloadoptions/pagelayoutoption/) { get; set; } | 获取或设置布局选项。 |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | 处理生成的任何警告的回调。WarningHandler 返回 ReturnAction 枚举项，指定继续或中止。继续是默认操作，加载操作继续，但用户也可以返回中止，在这种情况下，加载操作应停止。 |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | 回调用于处理生成的任何警告。WarningHandler 返回 ReturnAction 枚举项，指定 Continue 或 Abort。Continue 为默认操作，加载过程将继续；但用户也可以返回 Abort，此时加载过程应停止。 |
 
-## Fields
+## 字段
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [CustomLoaderOfExternalResources](../../aspose.pdf/htmlloadoptions/customloaderofexternalresources/) | 有时需要避免使用内部加载器加载外部资源（如图像或 CSS），并提供自定义方法从某处获取请求的资源。例如，在云中使用 Aspose.PDF 时，无法直接访问引用的文件：在这种情况下，应该使用放入特殊方法中的一些自定义代码，并将引用该方法的委托分配给此属性。 |
-| [ExternalResourcesCredentials](../../aspose.pdf/htmlloadoptions/externalresourcescredentials/) | 如果加载 HTML 中引用的外部数据需要凭据，您可以将其放入此参数中 - 它们将在加载外部资源时使用 |
+| [CustomLoaderOfExternalResources](../../aspose.pdf/htmlloadoptions/customloaderofexternalresources/) | 有时需要避免使用内部加载器来加载外部资源（如图像或 CSS），并提供自定义方法以从某处获取请求的资源。例如，在云环境中使用 Aspose.PDF 时，无法直接访问引用的文件：此情况下应使用放入特定方法的自定义代码，并将指向该方法的委托分配给此属性。 |
+| [ExternalResourcesCredentials](../../aspose.pdf/htmlloadoptions/externalresourcescredentials/) | 如果加载 HTML 中引用的外部数据需要凭据，您可以将其放入此参数——它们将在加载外部资源时使用。 |
 
-## Examples
+## 示例
 
-以下示例演示如何将 HTML 文件转换为 PDF 文件
+以下示例展示了如何将 HTML 文件转换为 PDF 文件
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// 文档目录的路径。
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your HTML File.
+	// HTML 文件的路径。
 	string htmlFile = Path.Combine(dataDir, "HTML-to-PDF.html");
 
-	// The path to output PDF File.
+	// 输出 PDF 文件的路径。
 	string pdfFile = Path.Combine(dataDir, "HTML-to-PDF.pdf");
 
-	// Initialize HtmlLoadOptions	
+	// 初始化 HtmlLoadOptions	
 	HtmlLoadOptions htmlLoadOptions = new HtmlLoadOptions();
 		
 	using (Document pdfDocument = new Document(htmlFile, htmlLoadOptions))
 	{ 
-		// Save PDF file
+		// 保存 PDF 文件
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -91,8 +91,10 @@ public sealed class HtmlLoadOptions : LoadOptions
     End Using
 ```
 
-### See Also
+### 另请参见
 
 * class [LoadOptions](../loadoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Form.AssignXfa
-second_title: Aspose.PDF for .NET API Reference
-description: 表单方法。将表单的 XFA 设置为指定值
+title: "Form.AssignXfa"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Form 方法。将表单的 XFA 设置为指定值"
 type: docs
-weight: 210
+weight: 230
 url: /zh/net/aspose.pdf.forms/form/assignxfa/
 ---
-## Form.AssignXfa 方法
+## Form.AssignXfa method
 
 将表单的 XFA 设置为指定值。
 
@@ -16,10 +16,12 @@ public void AssignXfa(XmlDocument xml)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| xml | XmlDocument | 包含新 XFA 数据的 Xml 文档。 |
+| xml | XmlDocument | Xml 文档，其中包含新的 XFA 数据。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Form](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

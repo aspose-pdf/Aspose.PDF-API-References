@@ -1,12 +1,12 @@
 ---
-title: Page.Resize
-second_title: Aspose.PDF for .NET API Reference
-description: Page 方法。调整页面大小
+title: "Page.Resize"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Page 方法。调整页面大小。"
 type: docs
 weight: 520
 url: /zh/net/aspose.pdf/page/resize/
 ---
-## Page.Resize 方法
+## Page.Resize method
 
 调整页面大小。
 
@@ -20,7 +20,9 @@ public void Resize(PageSize targetSize)
 
 ### 另请参见
 
-* 类 [PageSize](../../pagesize/)
-* 类 [Page](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageSize](../../pagesize/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

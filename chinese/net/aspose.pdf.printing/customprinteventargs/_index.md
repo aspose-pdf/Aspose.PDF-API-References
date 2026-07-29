@@ -1,12 +1,12 @@
 ---
-title: Class CustomPrintEventArgs
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.CustomPrintEventArgs 类。提供 CustomPrint 事件的数据
+title: "类 CustomPrintEventArgs"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Printing.CustomPrintEventArgs 类。提供 CustomPrint 事件的数据"
 type: docs
-weight: 9520
+weight: 9670
 url: /zh/net/aspose.pdf.printing/customprinteventargs/
 ---
-## CustomPrintEventArgs 类
+## CustomPrintEventArgs class
 
 提供 [`CustomPrint`](../../aspose.pdf.facades/pdfviewer/customprint/) 事件的数据。
 
@@ -18,17 +18,19 @@ public class CustomPrintEventArgs : EventArgs
 
 | 名称 | 描述 |
 | --- | --- |
-| [CustomPrintEventArgs](customprinteventargs/)(string, PrinterSettings, PageSettings) | 使用给定的打印机和页面设置初始化 `CustomPrintEventArgs`。 |
+| [CustomPrintEventArgs](customprinteventargs/)(string, PrinterSettings, PageSettings) | 使用给定的打印机和 page 设置初始化 `CustomPrintEventArgs`。 |
 
 ## 字段
 
 | 名称 | 描述 |
 | --- | --- |
-| readonly [FileName](../../aspose.pdf.printing/customprinteventargs/filename/) | 获取正在打印的文件的名称。 |
-| readonly [PageSettings](../../aspose.pdf.printing/customprinteventargs/pagesettings/) | 获取应应用于文档每一页的设置。 |
-| readonly [PrinterSettings](../../aspose.pdf.printing/customprinteventargs/printersettings/) | 获取有关文档应打印的打印机的信息。 |
+| readonly [FileName](../../aspose.pdf.printing/customprinteventargs/filename/) | 获取正在打印的文件名。 |
+| readonly [PageSettings](../../aspose.pdf.printing/customprinteventargs/pagesettings/) | 获取应应用于每个 page 的 document 设置。 |
+| readonly [PrinterSettings](../../aspose.pdf.printing/customprinteventargs/printersettings/) | 获取应打印 document 的打印机信息。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

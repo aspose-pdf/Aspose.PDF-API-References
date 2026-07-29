@@ -1,12 +1,12 @@
 ---
-title: AutoFiller.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: AutoFiller 方法。关闭对象和输出流
+title: "AutoFiller.Dispose"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AutoFiller 方法。关闭对象和输出流。"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.facades/autofiller/dispose/
 ---
-## AutoFiller.Dispose 方法
+## AutoFiller.Dispose method
 
 关闭对象和输出流。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.facades/autofiller/dispose/
 public void Dispose()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [AutoFiller](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: IconFit.ScalingReason
-second_title: Aspose.PDF for .NET API Reference
-description: IconFit 属性。获取或设置缩放原因
+title: "IconFit.ScalingReason"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "IconFit 属性。获取或设置缩放原因"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.forms/iconfit/scalingreason/
 ---
-## IconFit.ScalingReason 属性
+## IconFit.ScalingReason property
 
 获取或设置缩放原因。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.forms/iconfit/scalingreason/
 public ScalingReason ScalingReason { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 枚举 [ScalingReason](../../scalingreason/)
-* 类 [IconFit](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [ScalingReason](../../scalingreason/)
+* class [IconFit](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

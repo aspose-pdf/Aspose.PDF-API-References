@@ -1,7 +1,7 @@
 ---
-title: GradientAxialShading.GradientAxialShading
-second_title: Aspose.PDF for .NET API Reference
-description: GradientAxialShading 构造函数。初始化 GradientAxialShading 类的新实例
+title: "GradientAxialShading.GradientAxialShading"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GradientAxialShading 构造函数。初始化 GradientAxialShading 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.drawing/gradientaxialshading/gradientaxialshading/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.pdf.drawing/gradientaxialshading/gradientaxialshading/
 public GradientAxialShading()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [GradientAxialShading](../)
-* 命名空间 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [GradientAxialShading](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -35,9 +35,11 @@ public GradientAxialShading(Color startColor, Color endColor)
 | startColor | Color | 起始点。 |
 | endColor | Color | 结束点。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Color](../../../aspose.pdf/color/)
-* 类 [GradientAxialShading](../)
-* 命名空间 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [GradientAxialShading](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TableTRElement.IsRowBroken
-second_title: Aspose.PDF for .NET API Reference
-description: TableTRElement 属性。获取行是否可以在两页之间断开
+title: "TableTRElement.IsRowBroken"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TableTRElement 属性。获取行是否可以在两页之间断开"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.logicalstructure/tabletrelement/isrowbroken/
 ---
-## TableTRElement.IsRowBroken 属性
+## TableTRElement.IsRowBroken property
 
 获取行是否可以在两页之间断开。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.logicalstructure/tabletrelement/isrowbroken/
 public bool IsRowBroken { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TableTRElement](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TableTRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

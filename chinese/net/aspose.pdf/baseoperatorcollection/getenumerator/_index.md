@@ -1,14 +1,14 @@
 ---
-title: BaseOperatorCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: BaseOperatorCollection 方法。返回集合的枚举器
+title: "BaseOperatorCollection.GetEnumerator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BaseOperatorCollection 方法。返回集合的枚举器"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/baseoperatorcollection/getenumerator/
 ---
-## BaseOperatorCollection.GetEnumerator 方法
+## BaseOperatorCollection.GetEnumerator method
 
-返回集合的枚举器
+返回集合的枚举器。
 
 ```csharp
 public abstract IEnumerator<Operator> GetEnumerator()
@@ -18,9 +18,11 @@ public abstract IEnumerator<Operator> GetEnumerator()
 
 集合枚举器
 
-### 另见
+### 另请参见
 
-* 类 [Operator](../../operator/)
-* 类 [BaseOperatorCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

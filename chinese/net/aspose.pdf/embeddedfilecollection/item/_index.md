@@ -1,14 +1,14 @@
 ---
-title: EmbeddedFileCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: 嵌入文件集合属性。通过索引获取嵌入文件
+title: "EmbeddedFileCollection.Item"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "EmbeddedFileCollection 属性。根据索引获取嵌入文件"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/embeddedfilecollection/item/
 ---
-## 嵌入文件集合索引器 (1 of 2)
+## EmbeddedFileCollection indexer (1 of 2)
 
-通过索引获取嵌入文件。
+根据索引获取嵌入文件。
 
 ```csharp
 public FileSpecification this[int index] { get; }
@@ -20,9 +20,9 @@ public FileSpecification this[int index] { get; }
 
 ### 返回值
 
-获取的嵌入文件规范
+检索到的嵌入文件规范
 
-### 另请参阅
+### 另请参见
 
 * class [FileSpecification](../../filespecification/)
 * class [EmbeddedFileCollection](../)
@@ -31,9 +31,9 @@ public FileSpecification this[int index] { get; }
 
 ---
 
-## 嵌入文件集合索引器 (2 of 2)
+## EmbeddedFileCollection indexer (2 of 2)
 
-通过名称获取嵌入文件。
+根据名称获取嵌入文件。
 
 ```csharp
 public FileSpecification this[string name] { get; }
@@ -41,15 +41,17 @@ public FileSpecification this[string name] { get; }
 
 | 参数 | 描述 |
 | --- | --- |
-| name | 嵌入文件名称。 |
+| 名称 | 嵌入文件名称。 |
 
 ### 返回值
 
-获取的嵌入文件规范。
+检索到的嵌入文件规范。
 
-### 另请参阅
+### 另请参见
 
 * class [FileSpecification](../../filespecification/)
 * class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

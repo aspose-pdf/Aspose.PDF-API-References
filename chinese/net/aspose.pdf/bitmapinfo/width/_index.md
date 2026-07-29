@@ -1,12 +1,12 @@
 ---
-title: BitmapInfo.Width
-second_title: Aspose.PDF for .NET API Reference
-description: BitmapInfo 属性。获取位图的宽度
+title: "BitmapInfo.Width"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BitmapInfo 属性。获取位图的宽度"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/bitmapinfo/width/
 ---
-## BitmapInfo.Width 属性
+## BitmapInfo.Width property
 
 获取位图的宽度。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/bitmapinfo/width/
 public int Width { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [BitmapInfo](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BitmapInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

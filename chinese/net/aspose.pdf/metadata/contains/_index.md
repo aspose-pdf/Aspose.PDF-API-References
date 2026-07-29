@@ -1,7 +1,7 @@
 ---
-title: Metadata.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: 元数据方法。检查键是否包含在元数据中
+title: "Metadata.Contains"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Metadata 方法。检查键是否包含在元数据中。"
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf/metadata/contains/
@@ -16,23 +16,23 @@ public bool Contains(string key)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| key | 字符串 | 要查找的条目的键。 |
+| 键 | String | 要查找的条目键。 |
 
 ### 返回值
 
-如果键包含在元数据中，则为真。
+如果键包含在元数据中，则为 true。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Metadata](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Contains(KeyValuePair&lt;string, XmpValue&gt;) {#contains}
 
-检查指定的键值对是否包含在字典中。
+检查字典中是否包含指定的键值对。
 
 ```csharp
 public bool Contains(KeyValuePair<string, XmpValue> item)
@@ -44,11 +44,13 @@ public bool Contains(KeyValuePair<string, XmpValue> item)
 
 ### 返回值
 
-如果找到此对，则为真。
+如果找到此键值对，则为 true。
 
-### 另请参阅
+### 另请参见
 
-* 类 [XmpValue](../../xmpvalue/)
-* 类 [Metadata](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

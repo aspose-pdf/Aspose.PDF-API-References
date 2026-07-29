@@ -1,12 +1,12 @@
 ---
-title: TextFormattingOptions.SubsequentLinesIndent
-second_title: Aspose.PDF for .NET API Reference
-description: TextFormattingOptions 属性。获取或设置后续行的缩进值
+title: "TextFormattingOptions.SubsequentLinesIndent"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextFormattingOptions 属性。获取或设置后续行缩进值"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.text/textformattingoptions/subsequentlinesindent/
 ---
-## TextFormattingOptions.SubsequentLinesIndent 属性
+## TextFormattingOptions.SubsequentLinesIndent property
 
 获取或设置后续行的缩进值。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.text/textformattingoptions/subsequentlinesindent/
 public float SubsequentLinesIndent { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextFormattingOptions](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextFormattingOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

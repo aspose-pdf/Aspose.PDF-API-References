@@ -1,21 +1,23 @@
 ---
-title: ExplicitDestination.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: ExplicitDestination 属性。获取目标页码
+title: "ExplicitDestination.PageNumber"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ExplicitDestination 属性。获取目标页码"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.annotations/explicitdestination/pagenumber/
 ---
-## ExplicitDestination.PageNumber 属性
+## ExplicitDestination.PageNumber property
 
-获取目标页码
+获取目标页面编号
 
 ```csharp
 public int PageNumber { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ExplicitDestination](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Color.Purple
-second_title: Aspose.PDF for .NET API Reference
-description: 颜色属性。获取具有 ARGB 值 c FF800080 的系统定义颜色
+title: "Color.Purple"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Color 属性。获取系统定义的颜色，其 ARGB 值为 c FF800080"
 type: docs
 weight: 1140
 url: /zh/net/aspose.pdf/color/purple/
 ---
-## Color.Purple 属性
+## Color.Purple property
 
-获取具有 ARGB 值的系统定义颜色 \c \#FF800080。
+获取系统定义的颜色，其 ARGB 值为 \c \#FF800080。
 
 ```csharp
 public static Color Purple { get; }
@@ -16,10 +16,12 @@ public static Color Purple { get; }
 
 ### 返回值
 
-表示系统定义颜色的 A。
+A 表示系统定义的颜色。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Color](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Enum DataType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.DataType 枚举。表示插件处理的可能数据类型
+title: "枚举 DataType"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.DataType 枚举。表示插件处理可能的数据类型"
 type: docs
-weight: 8510
+weight: 8640
 url: /zh/net/aspose.pdf.plugins/datatype/
 ---
-## DataType 枚举
+## DataType enumeration
 
 表示插件处理的可能数据类型。
 
@@ -18,10 +18,12 @@ public enum DataType
 
 | 名称 | 值 | 描述 |
 | --- | --- | --- |
-| 文件 | `0` | 数据类型是由路径表示的文件。 |
-| 流 | `1` | 数据类型是一个流。 |
+| File | `0` | 数据类型是由其路径表示的文件。 |
+| Stream | `1` | 数据类型是流。 |
 
 ### 另请参见
 
-* 命名空间 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

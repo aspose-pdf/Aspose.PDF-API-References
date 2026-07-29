@@ -1,14 +1,14 @@
 ---
-title: FormDataConverter.ExportFromDataBase
-second_title: Aspose.PDF for .NET API Reference
-description: FormDataConverter 方法。将数据从数据库导出到表中
+title: "FormDataConverter.ExportFromDataBase"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FormDataConverter 方法。将数据从数据库导出到表中"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.facades/formdataconverter/exportfromdatabase/
 ---
-## FormDataConverter.ExportFromDataBase 方法
+## FormDataConverter.ExportFromDataBase method
 
-将数据从数据库导出到表中。
+将数据库中的数据导出到表中。
 
 ```csharp
 public void ExportFromDataBase(string connectString, DataType dbType)
@@ -16,8 +16,8 @@ public void ExportFromDataBase(string connectString, DataType dbType)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| connectString | 字符串 | 数据库的连接字符串。 |
-| dbType | 数据类型 | 连接类型：OLEDB 或 ODBC。 |
+| connectString | String | 数据库的连接字符串。 |
+| dbType | DataType | 连接类型：OLEDB 或 ODBC。 |
 
 ## 示例
 
@@ -32,9 +32,11 @@ fc.Table = table;
 fc.ExportFromDataBase(connection, DataType.OLEDB);
 ```
 
-### 另请参阅
+### 另请参见
 
 * enum [DataType](../../datatype/)
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

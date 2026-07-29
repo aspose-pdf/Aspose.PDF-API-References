@@ -1,12 +1,12 @@
 ---
-title: JpegOptions.JpegOptions
-second_title: Aspose.PDF for .NET API Reference
-description: JpegOptions 构造函数。默认构造函数
+title: "JpegOptions.JpegOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "JpegOptions 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.plugins/jpegoptions/jpegoptions/
 ---
-## JpegOptions 构造函数
+## JpegOptions constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.plugins/jpegoptions/jpegoptions/
 public JpegOptions()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [JpegOptions](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [JpegOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

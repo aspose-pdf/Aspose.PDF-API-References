@@ -1,21 +1,23 @@
 ---
-title: PaperSize.Height
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSize 属性。获取或设置纸张的高度，以百分之一英寸为单位
+title: "PaperSize.Height"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PaperSize 属性。获取或设置纸张高度（单位为百分之一英寸）"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.printing/papersize/height/
 ---
-## PaperSize.Height 属性
+## PaperSize.Height property
 
-获取或设置纸张的高度，以百分之一英寸为单位。
+获取或设置纸张的高度，单位为百分之一英寸。
 
 ```csharp
 public int Height { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PaperSize](../)
-* 命名空间 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PaperSize](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

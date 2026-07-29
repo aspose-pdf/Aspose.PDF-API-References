@@ -1,12 +1,12 @@
 ---
-title: FileFontSource.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: FileFontSource 方法。检查字体文件源对象是否相等
+title: "FileFontSource.Equals"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FileFontSource 方法。检查字体文件源对象是否相等"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.text/filefontsource/equals/
 ---
-## FileFontSource.Equals 方法
+## FileFontSource.Equals method
 
 检查字体文件源对象是否相等。
 
@@ -16,14 +16,16 @@ public override bool Equals(object obj)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | Object | 将要比较的字体文件源对象。 |
+| obj | 对象 | 将要比较的字体文件源对象。 |
 
 ### 返回值
 
-如果两个对象都是指向同一文件的字体文件源，则返回 true。
+如果两个对象都是指向同一文件的字体文件源，则为 True。
 
-### 另请参阅
+### 另请参见
 
-* 类 [FileFontSource](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FileFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

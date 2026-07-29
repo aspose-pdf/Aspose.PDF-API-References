@@ -1,21 +1,23 @@
 ---
-title: TextStamp.MaxRowWidth
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp 属性。WordWrap 选项的最大行高度
+title: "TextStamp.MaxRowWidth"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextStamp 属性。WordWrap 选项的最大行高度"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/textstamp/maxrowwidth/
 ---
-## TextStamp.MaxRowWidth 属性
+## TextStamp.MaxRowWidth property
 
-WordWrap 选项的最大行高度。
+WordWrap 选项的最大行高。
 
 ```csharp
 public double MaxRowWidth { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextStamp](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: Form.SaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: 表单属性。当结果存储为 HttpResponse 时获取或设置保存选项。默认值 PdfSaveOptions
+title: "Form.SaveOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Form 属性。获取或设置当结果存储为 HttpResponse 时的保存选项。默认值为 PdfSaveOptions"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.facades/form/saveoptions/
 ---
-## Form.SaveOptions 属性
+## Form.SaveOptions property
 
-当结果存储为 HttpResponse 时获取或设置保存选项。默认值：PdfSaveOptions。
+获取或设置当结果存储为 HttpResponse 时的保存选项。默认值：PdfSaveOptions。
 
 ```csharp
 public SaveOptions SaveOptions { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [SaveOptions](../../../aspose.pdf/saveoptions/)
-* 类 [Form](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SaveOptions](../../../aspose.pdf/saveoptions/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

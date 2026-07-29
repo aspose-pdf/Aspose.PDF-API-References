@@ -1,19 +1,21 @@
 ---
-title: DiffOperation.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: DiffOperation method.
+title: "DiffOperation.ToString"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "DiffOperation 方法。"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.comparison/diffoperation/tostring/
 ---
-## DiffOperation.ToString 方法
+## DiffOperation.ToString method
 
 ```csharp
 public override string ToString()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [DiffOperation](../)
-* 命名空间 [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DiffOperation](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

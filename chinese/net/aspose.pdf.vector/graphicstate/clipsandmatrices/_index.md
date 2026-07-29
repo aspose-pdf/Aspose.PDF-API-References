@@ -1,22 +1,24 @@
 ---
-title: GraphicState.ClipsAndMatrices
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicState 属性。获取表示剪辑和连接矩阵的操作符
+title: "GraphicState.ClipsAndMatrices"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GraphicState 属性。获取表示剪辑和连接矩阵的运算符"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.vector/graphicstate/clipsandmatrices/
 ---
-## GraphicState.ClipsAndMatrices 属性
+## GraphicState.ClipsAndMatrices property
 
-获取表示剪辑和连接矩阵的操作符。
+获取表示剪辑和连接矩阵的运算符。
 
 ```csharp
 public List<Operator> ClipsAndMatrices { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [Operator](../../../aspose.pdf/operator/)
 * class [GraphicState](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

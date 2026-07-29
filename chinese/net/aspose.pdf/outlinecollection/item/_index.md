@@ -1,12 +1,12 @@
 ---
-title: OutlineCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineCollection 属性。通过索引从集合中获取大纲项
+title: "OutlineCollection.Item"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OutlineCollection 属性。获取集合中按索引的目录项"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/outlinecollection/item/
 ---
-## OutlineCollection 索引器
+## OutlineCollection indexer
 
 通过索引从集合中获取大纲项。
 
@@ -16,11 +16,13 @@ public OutlineItemCollection this[int index] { get; }
 
 | 参数 | 描述 |
 | --- | --- |
-| index | 请求项的索引。 |
+| index | 请求的项的索引。 |
 
 ### 另请参见
 
-* 类 [OutlineItemCollection](../../outlineitemcollection/)
-* 类 [OutlineCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

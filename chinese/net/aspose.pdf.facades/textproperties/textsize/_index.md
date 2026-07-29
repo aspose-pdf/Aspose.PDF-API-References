@@ -1,12 +1,12 @@
 ---
-title: TextProperties.TextSize
-second_title: Aspose.PDF for .NET API Reference
-description: TextProperties 属性。获取或设置文本大小
+title: "TextProperties.TextSize"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextProperties 属性。获取或设置文本大小"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.facades/textproperties/textsize/
 ---
-## TextProperties.TextSize 属性
+## TextProperties.TextSize property
 
 获取或设置文本大小。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.facades/textproperties/textsize/
 public double TextSize { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextProperties](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextProperties](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

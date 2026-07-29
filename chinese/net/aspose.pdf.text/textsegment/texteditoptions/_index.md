@@ -1,22 +1,24 @@
 ---
-title: TextSegment.TextEditOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegment 属性。获取或设置文本编辑选项。这些选项定义了在请求的符号无法使用字体书写时的特殊行为。
+title: "TextSegment.TextEditOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextSegment 属性。获取或设置文本编辑选项。当请求的符号无法使用字体写入时，这些选项定义特殊行为"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.text/textsegment/texteditoptions/
 ---
-## TextSegment.TextEditOptions 属性
+## TextSegment.TextEditOptions property
 
-获取或设置文本编辑选项。这些选项定义了在请求的符号无法使用字体书写时的特殊行为。
+获取或设置文本编辑选项。该选项定义当请求的符号无法使用字体写入时的特殊行为。
 
 ```csharp
 public TextEditOptions TextEditOptions { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextEditOptions](../../texteditoptions/)
-* 类 [TextSegment](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextEditOptions](../../texteditoptions/)
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

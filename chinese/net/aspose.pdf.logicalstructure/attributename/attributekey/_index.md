@@ -1,12 +1,12 @@
 ---
-title: AttributeName.AttributeKey
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName 属性。获取属性键
+title: "AttributeName.AttributeKey"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AttributeName 属性。获取属性键"
 type: docs
 weight: 680
 url: /zh/net/aspose.pdf.logicalstructure/attributename/attributekey/
 ---
-## AttributeName.AttributeKey 属性
+## AttributeName.AttributeKey property
 
 获取属性键。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.logicalstructure/attributename/attributekey/
 public AttributeKey AttributeKey { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [AttributeKey](../../attributekey/)
-* 类 [AttributeName](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AttributeKey](../../attributekey/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Point3D.Z
-second_title: Aspose.PDF for .NET API Reference
-description: Point3D 属性。Z 坐标值
+title: "Point3D.Z"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Point3D 属性。Z 坐标值"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/point3d/z/
 ---
-## Point3D.Z 属性
+## Point3D.Z property
 
 Z 坐标值。
 
@@ -16,6 +16,8 @@ public double Z { get; set; }
 
 ### 另请参见
 
-* 类 [Point3D](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Point3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

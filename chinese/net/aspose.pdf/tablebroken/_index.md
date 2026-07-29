@@ -1,14 +1,14 @@
 ---
-title: Enum TableBroken
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.TableBroken 枚举。枚举表格破损
+title: "枚举 TableBroken"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.TableBroken 枚举。枚举表格断裂情况"
 type: docs
-weight: 10290
+weight: 10470
 url: /zh/net/aspose.pdf/tablebroken/
 ---
-## TableBroken 枚举
+## TableBroken enumeration
 
-枚举表格破损。
+枚举表格的断开情况。
 
 ```csharp
 public enum TableBroken
@@ -18,12 +18,14 @@ public enum TableBroken
 
 | 名称 | 值 | 描述 |
 | --- | --- | --- |
-| None | `0` | 无破损。 |
-| Vertical | `1` | 垂直破损。 |
-| VerticalInSamePage | `2` | 同一页面内的垂直破损。 |
-| IsInNextPage | `3` | 破损到下一页。 |
+| None | `0` | 未断裂。 |
+| Vertical | `1` | 垂直断裂。 |
+| VerticalInSamePage | `2` | 同页垂直断裂。 |
+| IsInNextPage | `3` | 断裂至下一页。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

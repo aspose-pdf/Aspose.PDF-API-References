@@ -1,32 +1,34 @@
 ---
-title: Class DocMDPSignature
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.DocMDPSignature 类。表示文档 MDP 修改检测和防止签名类型的类
+title: "类 DocMDPSignature"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Forms.DocMDPSignature 类。表示文档 MDP（修改检测与防护）签名类型的类。"
 type: docs
-weight: 5030
+weight: 5150
 url: /zh/net/aspose.pdf.forms/docmdpsignature/
 ---
 ## DocMDPSignature class
 
-表示文档 MDP（修改检测和防止）签名类型的类。
+表示文档 MDP（修改检测与防护）签名类型的类。
 
 ```csharp
 public sealed class DocMDPSignature
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [DocMDPSignature](docmdpsignature/)(Signature, DocMDPAccessPermissions) | 初始化 `DocMDPSignature` 类的新实例。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [AccessPermissions](../../aspose.pdf.forms/docmdpsignature/accesspermissions/) { get; } | 返回为该文档授予的访问权限。 |
+| [AccessPermissions](../../aspose.pdf.forms/docmdpsignature/accesspermissions/) { get; } | 返回授予此 Document 的访问权限。 |
 
-### See Also
+### 另请参见
 
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

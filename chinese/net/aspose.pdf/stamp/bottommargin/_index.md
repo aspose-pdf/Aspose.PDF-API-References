@@ -1,12 +1,12 @@
 ---
-title: Stamp.BottomMargin
-second_title: Aspose.PDF for .NET API Reference
-description: Stamp 属性。获取或设置印章的底部边距
+title: "Stamp.BottomMargin"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Stamp 属性。获取或设置印章的底部边距"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/stamp/bottommargin/
 ---
-## Stamp.BottomMargin 属性
+## Stamp.BottomMargin property
 
 获取或设置印章的底部边距。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/stamp/bottommargin/
 public double BottomMargin { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Stamp](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

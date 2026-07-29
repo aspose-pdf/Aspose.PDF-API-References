@@ -1,14 +1,14 @@
 ---
-title: PrinterSettingsExtensions.ToAsposePrinterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterSettingsExtensions 方法。将特定于 Windows 的 System.Drawing.Printing.PrinterSettings 转换为 PrinterSettings
+title: "PrinterSettingsExtensions.ToAsposePrinterSettings"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PrinterSettingsExtensions 方法。将 Windows 特定的 System.Drawing.Printing.PrinterSettings 转换为 PrinterSettings"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.printing/printersettingsextensions/toasposeprintersettings/
 ---
-## PrinterSettingsExtensions.ToAsposePrinterSettings 方法
+## PrinterSettingsExtensions.ToAsposePrinterSettings method
 
-将特定于 Windows 的 System.Drawing.Printing.PrinterSettings 转换为 [`PrinterSettings`](../../printersettings/)。
+将 Windows 特定的 System.Drawing.Printing.PrinterSettings 转换为 [`PrinterSettings`](../../printersettings/)。
 
 ```csharp
 public static PrinterSettings ToAsposePrinterSettings(this PrinterSettings nativeSettings)
@@ -20,11 +20,13 @@ public static PrinterSettings ToAsposePrinterSettings(this PrinterSettings nativ
 
 ### 返回值
 
-转换后的打印机设置。
+已转换的打印机设置。
 
-### 另请参阅
+### 另请参见
 
-* 类 [PrinterSettings](../../printersettings/)
-* 类 [PrinterSettingsExtensions](../)
-* 命名空间 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PrinterSettings](../../printersettings/)
+* class [PrinterSettingsExtensions](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.Save
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature 方法。将结果 PDF 保存到文件
+title: "PdfFileSignature.Save"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileSignature 方法。将生成的 PDF 保存到文件"
 type: docs
 weight: 280
 url: /zh/net/aspose.pdf.facades/pdffilesignature/save/
 ---
 ## Save(string) {#save_2}
 
-将结果 PDF 保存到文件。
+将结果 PDF 保存到文件中。
 
 ```csharp
 public override void Save(string outputFile)
@@ -16,19 +16,19 @@ public override void Save(string outputFile)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| outputFile | 字符串 | 输出 pdf 文件。 |
+| outputFile | String | 输出 pdf 文件。 |
 
-### 另见
+### 另请参见
 
-* 类 [PdfFileSignature](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(Stream) {#save_1}
 
-将结果 PDF 保存到流。
+将结果 PDF 保存到流中。
 
 ```csharp
 public override void Save(Stream outputStream)
@@ -36,10 +36,12 @@ public override void Save(Stream outputStream)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| outputStream | 流 | 输出 pdf 流。 |
+| outputStream | Stream | 输出 PDF 流。 |
 
-### 另见
+### 另请参见
 
-* 类 [PdfFileSignature](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

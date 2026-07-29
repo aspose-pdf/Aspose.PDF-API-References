@@ -1,12 +1,12 @@
 ---
-title: FolderFontSource.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: FolderFontSource 方法。检查文件夹字体源对象是否相等
+title: "FolderFontSource.Equals"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FolderFontSource 方法。检查文件夹字体源对象是否相等"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.text/folderfontsource/equals/
 ---
-## FolderFontSource.Equals 方法
+## FolderFontSource.Equals method
 
 检查文件夹字体源对象是否相等。
 
@@ -16,14 +16,16 @@ public override bool Equals(object obj)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | Object | 将要比较的文件夹字体源对象。 |
+| obj | 对象 | 将要比较的文件夹字体源对象。 |
 
 ### 返回值
 
-如果两个对象都是指向同一文件夹的文件夹字体源，则返回 true。
+如果两个对象都是指向同一文件夹的文件夹字体源，则为 True。
 
-### 另请参阅
+### 另请参见
 
-* 类 [FolderFontSource](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FolderFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

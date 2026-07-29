@@ -1,22 +1,24 @@
 ---
-title: TextParagraph.FormattingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextParagraph 属性。获取或设置格式化选项
+title: "TextParagraph.FormattingOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextParagraph 属性。获取或设置格式选项"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.text/textparagraph/formattingoptions/
 ---
-## TextParagraph.FormattingOptions 属性
+## TextParagraph.FormattingOptions property
 
-获取或设置格式化选项。
+获取或设置格式选项。
 
 ```csharp
 public TextFormattingOptions FormattingOptions { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextFormattingOptions](../../textformattingoptions/)
-* 类 [TextParagraph](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextFormattingOptions](../../textformattingoptions/)
+* class [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

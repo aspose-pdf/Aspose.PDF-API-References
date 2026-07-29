@@ -1,14 +1,14 @@
 ---
-title: Interface IIndexBitmapConverter
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.IIndexBitmapConverter 接口。此接口声明用于量化的自定义算法。用户可以实现自己对这些算法的实现，例如基于非托管代码的算法。
+title: "接口 IIndexBitmapConverter"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.IIndexBitmapConverter 接口。此接口声明用于自定义量化算法。用户可以实现自己的这些算法的实现，例如基于非托管代码的算法。"
 type: docs
-weight: 5770
+weight: 5900
 url: /zh/net/aspose.pdf/iindexbitmapconverter/
 ---
-## IIndexBitmapConverter 接口
+## IIndexBitmapConverter interface
 
-此接口声明用于量化的自定义算法。用户可以实现自己对这些算法的实现（例如基于非托管代码的算法）。
+此接口用于声明量化的自定义算法。用户可以实现这些算法的自定义实现（例如基于非托管代码的算法）。
 
 ```csharp
 public interface IIndexBitmapConverter
@@ -22,7 +22,9 @@ public interface IIndexBitmapConverter
 | [Get4BppImage](../../aspose.pdf/iindexbitmapconverter/get4bppimage/)(Bitmap) | 返回 4Bpp 位图表示 |
 | [Get8BppImage](../../aspose.pdf/iindexbitmapconverter/get8bppimage/)(Bitmap) | 返回 8Bpp 位图表示 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

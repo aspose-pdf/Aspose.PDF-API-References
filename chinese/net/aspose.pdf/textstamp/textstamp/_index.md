@@ -1,7 +1,7 @@
 ---
-title: TextStamp.TextStamp
-second_title: Aspose.PDF for .NET API Reference
-description: TextStamp 构造函数。初始化 TextStamp 类的新实例
+title: "TextStamp.TextStamp"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextStamp 构造函数。初始化 TextStamp 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/textstamp/textstamp/
@@ -16,13 +16,13 @@ public TextStamp(string value)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | 字符串 | 印章值。 |
+| 值 | String | 印章值。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextStamp](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,15 +36,15 @@ public TextStamp(string value, TextState textState)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | 字符串 | 印章值。 |
+| 值 | String | 印章值。 |
 | textState | TextState | 印章文本状态。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextState](../../../aspose.pdf.text/textstate/)
-* 类 [TextStamp](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -58,11 +58,13 @@ public TextStamp(FormattedText formattedText)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| formattedText | FormattedText | 包含印章文本的 FormattedText 对象。 |
+| formattedText | FormattedText | FormattedText 对象，其中包含印章的文本。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [FormattedText](../../../aspose.pdf.facades/formattedtext/)
-* 类 [TextStamp](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

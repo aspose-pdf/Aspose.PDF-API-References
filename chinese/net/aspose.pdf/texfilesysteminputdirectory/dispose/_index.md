@@ -1,21 +1,23 @@
 ---
-title: TeXFileSystemInputDirectory.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: TeX文件系统输入目录方法。处理实例
+title: "TeXFileSystemInputDirectory.Dispose"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TeXFileSystemInputDirectory 方法。释放实例"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/texfilesysteminputdirectory/dispose/
 ---
-## TeXFileSystemInputDirectory.Dispose 方法
+## TeXFileSystemInputDirectory.Dispose method
 
-处理实例。
+释放实例。
 
 ```csharp
 public virtual void Dispose()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TeXFileSystemInputDirectory](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TeXFileSystemInputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

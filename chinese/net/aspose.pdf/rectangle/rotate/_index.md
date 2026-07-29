@@ -1,7 +1,7 @@
 ---
-title: Rectangle.Rotate
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle 方法。按指定角度旋转矩形
+title: "Rectangle.Rotate"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Rectangle 方法。按指定角度旋转矩形"
 type: docs
 weight: 260
 url: /zh/net/aspose.pdf/rectangle/rotate/
@@ -16,9 +16,9 @@ public void Rotate(Rotation angle)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| angle | Rotation | 旋转角度。Rotation 枚举的成员。 |
+| 角度 | 旋转 | 旋转角度。Rotation 枚举的成员。 |
 
-### 另见
+### 另请参见
 
 * enum [Rotation](../../rotation/)
 * class [Rectangle](../)
@@ -37,10 +37,12 @@ public void Rotate(int angle)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| angle | Int32 | 旋转角度，单位为度，范围在 0 到 360 之间。 |
+| 角度 | Int32 | 旋转角度（度），范围在 0 到 360 之间。 |
 
-### 另见
+### 另请参见
 
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

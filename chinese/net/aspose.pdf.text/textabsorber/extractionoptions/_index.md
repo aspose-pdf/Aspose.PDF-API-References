@@ -1,12 +1,12 @@
 ---
-title: TextAbsorber.ExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextAbsorber 属性。获取或设置文本提取选项
+title: "TextAbsorber.ExtractionOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextAbsorber 属性。获取或设置文本提取选项。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.text/textabsorber/extractionoptions/
 ---
-## TextAbsorber.ExtractionOptions 属性
+## TextAbsorber.ExtractionOptions property
 
 获取或设置文本提取选项。
 
@@ -16,32 +16,34 @@ public virtual TextExtractionOptions ExtractionOptions { get; set; }
 
 ## 备注
 
-允许在提取过程中定义文本格式模式 [`TextExtractionOptions`](../../textextractionoptions/)。默认模式是 Pure
+允许在提取期间定义文本格式模式 [`TextExtractionOptions`](../../textextractionoptions/)。默认模式为 Pure。
 
 ## 示例
 
-该示例演示如何设置 Pure 文本格式模式并执行文本提取。
+此示例演示如何设置 Pure 文本格式模式并执行文本提取。
 
 ```csharp
-// open document
+// 打开文档
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text with formatting
+// 创建 TextAbsorber 对象以使用格式提取文本。
 TextAbsorber absorber = new TextAbsorber();
 
-// set pure text formatting mode
+// 设置 Pure 文本格式模式。
 absorber.ExtractionOptions = new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure);
 
-// accept the absorber for all document's pages
+// 接受所有文档页面的吸收器
 doc.Pages.Accept(absorber);
 
-// get the extracted text
+// 获取提取的文本
 string extractedText = absorber.Text;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextExtractionOptions](../../textextractionoptions/)
-* 类 [TextAbsorber](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextExtractionOptions](../../textextractionoptions/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

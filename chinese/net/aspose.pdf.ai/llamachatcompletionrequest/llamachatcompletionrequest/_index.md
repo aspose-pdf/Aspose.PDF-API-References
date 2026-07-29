@@ -1,12 +1,12 @@
 ---
-title: LlamaChatCompletionRequest.LlamaChatCompletionRequest
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaChatCompletionRequest 构造函数。默认构造函数
+title: "LlamaChatCompletionRequest.LlamaChatCompletionRequest"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "LlamaChatCompletionRequest 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/llamachatcompletionrequest/llamachatcompletionrequest/
 ---
-## LlamaChatCompletionRequest 构造函数
+## LlamaChatCompletionRequest constructor
 
 默认构造函数。
 
@@ -19,3 +19,5 @@ public LlamaChatCompletionRequest()
 * class [LlamaChatCompletionRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

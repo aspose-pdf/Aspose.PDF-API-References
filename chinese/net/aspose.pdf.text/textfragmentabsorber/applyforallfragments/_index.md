@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.ApplyForAllFragments
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber 方法。为所有被吸收的文本片段应用字体。如果页面上的所有片段都被吸收，它的工作速度比循环遍历片段更快。否则，它的工作方式与循环相似。
+title: "TextFragmentAbsorber.ApplyForAllFragments"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextFragmentAbsorber 方法。为所有已吸收的文本片段应用字体。如果页面上的所有片段都已吸收，则其速度快于遍历片段。否则其工作方式类似于遍历。"
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.text/textfragmentabsorber/applyforallfragments/
 ---
 ## ApplyForAllFragments(Font) {#applyforallfragments}
 
-为所有被吸收的文本片段应用字体。如果页面上的所有片段都被吸收，它的工作速度比循环遍历片段更快。否则，它的工作方式与循环相似。
+为所有已吸收的文本片段应用字体。如果页面上的所有片段都已吸收，则其速度快于遍历片段；否则效果类似于遍历。
 
 ```csharp
 public void ApplyForAllFragments(Font font)
@@ -18,18 +18,18 @@ public void ApplyForAllFragments(Font font)
 | --- | --- | --- |
 | font | Font | [`Font`](../../font/) 的文本。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Font](../../font/)
-* 类 [TextFragmentAbsorber](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ApplyForAllFragments(float) {#applyforallfragments_2}
 
-为所有被吸收的文本片段应用字体大小。如果页面上的所有片段都被吸收，它的工作速度比循环遍历片段更快。否则，它的工作方式与循环相似。
+为所有已吸收的文本片段应用字体大小。如果页面上的所有片段都已吸收，则其速度快于遍历片段；否则效果类似于遍历。
 
 ```csharp
 public void ApplyForAllFragments(float fontSize)
@@ -39,17 +39,17 @@ public void ApplyForAllFragments(float fontSize)
 | --- | --- | --- |
 | fontSize | Single | 文本的字体大小。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextFragmentAbsorber](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ApplyForAllFragments(Font, float) {#applyforallfragments_1}
 
-为所有被吸收的文本片段应用字体和大小。如果页面上的所有片段都被吸收，它的工作速度比循环遍历片段更快。否则，它的工作方式与循环相似。
+为所有已吸收的文本片段同时应用字体和大小。如果页面上的所有片段都已吸收，则其速度快于遍历片段；否则效果类似于遍历。
 
 ```csharp
 public void ApplyForAllFragments(Font font, float fontSize)
@@ -60,9 +60,11 @@ public void ApplyForAllFragments(Font font, float fontSize)
 | font | Font | [`Font`](../../font/) 的文本。 |
 | fontSize | Single | 文本的字体大小。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Font](../../font/)
-* 类 [TextFragmentAbsorber](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Font](../../font/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

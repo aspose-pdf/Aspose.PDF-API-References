@@ -1,14 +1,14 @@
 ---
-title: AnnotationCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection 方法。将注释添加到集合中。如果页面被旋转，则注释矩形将相应地重新计算
+title: "AnnotationCollection.Add"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AnnotationCollection 方法。向集合中添加注释。如果页面已旋转，则相应地重新计算注释矩形。"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.annotations/annotationcollection/add/
 ---
 ## Add(Annotation, bool) {#add_1}
 
-将注释添加到集合中。如果页面被旋转，则注释矩形将相应地重新计算。
+将注释添加到集合中。如果页面已旋转，则相应地重新计算注释矩形。
 
 ```csharp
 public void Add(Annotation annotation, bool considerRotation)
@@ -16,8 +16,8 @@ public void Add(Annotation annotation, bool considerRotation)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| annotation | Annotation | 要添加的注释。 |
-| considerRotation | Boolean | 如果为真，并且页面被旋转，则注释位置将根据页面旋转重新计算。 |
+| 批注 | 批注 | 将要添加的注释。 |
+| considerRotation | Boolean | 如果为 true 且页面已旋转，则注释位置将根据页面旋转重新计算。 |
 
 ### 另请参见
 
@@ -38,7 +38,7 @@ public void Add(Annotation annotation)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| annotation | Annotation | 要添加的注释。 |
+| 批注 | 批注 | 将要添加的注释。 |
 
 ### 另请参见
 
@@ -46,3 +46,5 @@ public void Add(Annotation annotation)
 * class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: OptimizedMemoryStream.ToArray
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizedMemoryStream 方法。将当前流转换为字节数组
+title: "OptimizedMemoryStream.ToArray"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OptimizedMemoryStream 方法。 将当前流转换为字节数组"
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf/optimizedmemorystream/toarray/
 ---
-## OptimizedMemoryStream.ToArray 方法
+## OptimizedMemoryStream.ToArray method
 
 将当前流转换为字节数组。
 
@@ -16,10 +16,12 @@ public byte[] ToArray()
 
 ### 返回值
 
-一个字节数组
+字节数组
 
 ### 另请参见
 
-* 类 [OptimizedMemoryStream](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

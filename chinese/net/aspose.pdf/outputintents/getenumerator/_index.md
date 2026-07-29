@@ -1,14 +1,14 @@
 ---
-title: OutputIntents.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: OutputIntents 方法。返回一个枚举器，用于迭代集合
+title: "OutputIntents.GetEnumerator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OutputIntents 方法。 返回一个遍历集合的枚举器。"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/outputintents/getenumerator/
 ---
-## OutputIntents.GetEnumerator 方法
+## OutputIntents.GetEnumerator method
 
-返回一个枚举器，用于迭代集合。
+返回一个遍历集合的枚举器。
 
 ```csharp
 public IEnumerator<OutputIntent> GetEnumerator()
@@ -16,11 +16,13 @@ public IEnumerator<OutputIntent> GetEnumerator()
 
 ### 返回值
 
-一个可以用于迭代集合的枚举器。
+可用于遍历集合的枚举器。
 
-### 另请参阅
+### 另请参见
 
-* 类 [OutputIntent](../../outputintent/)
-* 类 [OutputIntents](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OutputIntent](../../outputintent/)
+* class [OutputIntents](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

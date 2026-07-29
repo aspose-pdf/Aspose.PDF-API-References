@@ -1,14 +1,14 @@
 ---
-title: Class Bookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.Bookmarks 类。表示书签对象的集合
+title: "类 Bookmarks"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Facades.Bookmarks 类。表示 Bookmark 对象的集合"
 type: docs
-weight: 4200
+weight: 4320
 url: /zh/net/aspose.pdf.facades/bookmarks/
 ---
-## Bookmarks 类
+## Bookmarks class
 
-表示一个 [`Bookmark`](../bookmark/) 对象的集合。
+表示 [`Bookmark`](../bookmark/) 对象的集合。
 
 ```csharp
 public sealed class Bookmarks : List<Bookmark>
@@ -20,8 +20,10 @@ public sealed class Bookmarks : List<Bookmark>
 | --- | --- |
 | [Bookmarks](bookmarks/)() | 默认构造函数。 |
 
-### 另见
+### 另请参见
 
-* 类 [Bookmark](../bookmark/)
-* 命名空间 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../)
+* class [Bookmark](../bookmark/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

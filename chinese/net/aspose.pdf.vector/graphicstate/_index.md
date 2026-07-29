@@ -1,9 +1,9 @@
 ---
-title: Class GraphicState
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Vector.GraphicState 类。表示当前 GraphicElement 的图形状态
+title: "类 GraphicState"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Vector.GraphicState 类。表示当前 GraphicElement 的图形状态"
 type: docs
-weight: 11200
+weight: 11390
 url: /zh/net/aspose.pdf.vector/graphicstate/
 ---
 ## GraphicState class
@@ -14,15 +14,17 @@ url: /zh/net/aspose.pdf.vector/graphicstate/
 public class GraphicState
 ```
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [ClipsAndMatrices](../../aspose.pdf.vector/graphicstate/clipsandmatrices/) { get; } | 获取表示剪辑和连接矩阵的操作符。 |
-| [ColorsAndStyles](../../aspose.pdf.vector/graphicstate/colorsandstyles/) { get; } | 获取表示颜色空间、颜色和线条样式的操作符。 |
-| [Matrix](../../aspose.pdf.vector/graphicstate/matrix/) { get; set; } | 获取当前变换矩阵。 |
+| [ClipsAndMatrices](../../aspose.pdf.vector/graphicstate/clipsandmatrices/) { get; } | 获取表示剪辑和连接矩阵的运算符。 |
+| [ColorsAndStyles](../../aspose.pdf.vector/graphicstate/colorsandstyles/) { get; } | 获取表示颜色空间、颜色和线条样式的运算符。 |
+| [Matrix](../../aspose.pdf.vector/graphicstate/matrix/) { get; set; } | 获取当前的变换矩阵。 |
 
-### See Also
+### 另请参见
 
 * namespace [Aspose.Pdf.Vector](../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../)
+
+

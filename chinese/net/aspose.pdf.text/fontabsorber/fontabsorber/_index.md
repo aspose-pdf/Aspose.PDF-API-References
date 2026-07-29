@@ -1,12 +1,12 @@
 ---
-title: FontAbsorber.FontAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: FontAbsorber 构造函数。默认构造函数
+title: "FontAbsorber.FontAbsorber"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FontAbsorber 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/fontabsorber/fontabsorber/
 ---
-## FontAbsorber 构造函数
+## FontAbsorber constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.text/fontabsorber/fontabsorber/
 public FontAbsorber()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FontAbsorber](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FontAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

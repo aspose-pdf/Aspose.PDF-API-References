@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.EncryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity 方法。使用用户密码和所有者密码加密 Pdf 文件，并设置文档的访问权限。用户密码和所有者密码可以为 null 或空。如果输入的所有者密码为 null 或空，则所有者密码将被随机字符串替换。如果处理失败，将抛出异常。
+title: "PdfFileSecurity.EncryptFile"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileSecurity 方法。使用用户密码和所有者密码加密 Pdf 文件，并设置文档的访问权限。用户密码和所有者密码可以为 null 或为空。如果输入的所有者密码为 null 或为空，所有者密码将被随机字符串替换。如果过程失败，将抛出异常"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.facades/pdffilesecurity/encryptfile/
 ---
 ## EncryptFile(string, string, DocumentPrivilege, KeySize) {#encryptfile}
 
-使用用户密码和所有者密码加密 Pdf 文件，并设置文档的访问权限。用户密码和所有者密码可以为 null 或空。如果输入的所有者密码为 null 或空，则所有者密码将被随机字符串替换。如果处理失败，将抛出异常。
+使用 userpassword 和 ownerpassword 加密 Pdf 文件并设置文档的访问权限。user password 和 owner password 可以为 null 或为空。如果输入的 owner password 为 null 或为空，owner password 将被随机字符串替代。处理失败时抛出异常。
 
 ```csharp
 public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, 
@@ -19,12 +19,12 @@ public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivi
 | --- | --- | --- |
 | userPassword | String | 用户密码。 |
 | ownerPassword | String | 所有者密码。 |
-| privilege | DocumentPrivilege | 设置权限。 |
-| keySize | KeySize | KeySize.x40 用于 40 位加密，KeySize.x128 用于 128 位加密，KeySize.x256 用于 256 位加密。 |
+| 特权 | DocumentPrivilege | 设置特权。 |
+| keySize | KeySize | KeySize.x40 表示 40 位加密，KeySize.x128 表示 128 位加密，KeySize.x256 表示 256 位加密。 |
 
 ### 返回值
 
-成功返回 true。
+成功时返回 true。
 
 ## 示例
 
@@ -42,7 +42,7 @@ Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile)
 fileSecurity.EncryptFile("userpass", "ownerpass", DocumentPrivilege.Print, KeySize.x256)
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [DocumentPrivilege](../../documentprivilege/)
 * enum [KeySize](../../keysize/)
@@ -54,7 +54,7 @@ fileSecurity.EncryptFile("userpass", "ownerpass", DocumentPrivilege.Print, KeySi
 
 ## EncryptFile(string, string, DocumentPrivilege, KeySize, Algorithm) {#encryptfile_1}
 
-使用用户密码和所有者密码加密 Pdf 文件，并设置文档的访问权限。用户密码和所有者密码可以为 null 或空。如果输入的所有者密码为 null 或空，则所有者密码将被随机字符串替换。KeySize 和 Algorithm 值有 6 种可能的组合。然而 (KeySize.x40, Algorithm.AES) 和 (KeySize.x256, Algorithm.RC4) 是无效的，如果遇到这种组合，将引发相应的异常。如果处理失败，将抛出异常。
+使用 userpassword 和 ownerpassword 加密 Pdf 文件并设置文档的访问权限。user password 和 owner password 可以为 null 或为空。如果输入的 owner password 为 null 或为空，owner password 将被随机字符串替代。KeySize 和 Algorithm 值共有 6 种可能的组合。然而 (KeySize.x40, Algorithm.AES) 和 (KeySize.x256, Algorithm.RC4) 是无效的，如果工具遇到此组合将抛出相应的异常。处理失败时抛出异常。
 
 ```csharp
 public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, 
@@ -65,13 +65,13 @@ public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivi
 | --- | --- | --- |
 | userPassword | String | 用户密码。 |
 | ownerPassword | String | 所有者密码。 |
-| privilege | DocumentPrivilege | 设置权限。 |
-| keySize | KeySize | KeySize.x40 用于 40 位加密，KeySize.x128 用于 128 位加密，KeySize.x256 用于 256 位加密。 |
-| cipher | Algorithm | Algorithm.AES 使用 AES 算法加密或 Algorithm.RC4 进行 RC4 加密。 |
+| 特权 | DocumentPrivilege | 设置特权。 |
+| keySize | KeySize | KeySize.x40 表示 40 位加密，KeySize.x128 表示 128 位加密，KeySize.x256 表示 256 位加密。 |
+| cipher | Algorithm | Algorithm.AES 用于使用 AES 算法加密，或 Algorithm.RC4 用于 RC4 加密。 |
 
 ### 返回值
 
-成功返回 true。
+成功时返回 true。
 
 ## 示例
 
@@ -89,7 +89,7 @@ Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile)
 fileSecurity.EncryptFile("userpass","ownerpass",DocumentPrivilege.Print,KeySize.x256,Algorithm.AES)
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [DocumentPrivilege](../../documentprivilege/)
 * enum [KeySize](../../keysize/)
@@ -97,3 +97,5 @@ fileSecurity.EncryptFile("userpass","ownerpass",DocumentPrivilege.Print,KeySize.
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

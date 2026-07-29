@@ -1,12 +1,12 @@
 ---
-title: CommonFigureAnnotation.InteriorColor
-second_title: Aspose.PDF for .NET API Reference
-description: CommonFigureAnnotation 属性。用于填充注释矩形或椭圆的内部颜色
+title: "CommonFigureAnnotation.InteriorColor"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CommonFigureAnnotation 属性。用于填充注释矩形或椭圆的内部颜色。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.annotations/commonfigureannotation/interiorcolor/
 ---
-## CommonFigureAnnotation.InteriorColor 属性
+## CommonFigureAnnotation.InteriorColor property
 
 用于填充注释的矩形或椭圆的内部颜色。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.annotations/commonfigureannotation/interiorcolor/
 public Color InteriorColor { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [Color](../../../aspose.pdf/color/)
 * class [CommonFigureAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

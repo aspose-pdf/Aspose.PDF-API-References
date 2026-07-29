@@ -1,12 +1,12 @@
 ---
-title: Class Cell
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Cell 类。表示表格行的单元格
+title: "类 Cell"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Cell 类。表示表格行的单元格。"
 type: docs
-weight: 2970
+weight: 3080
 url: /zh/net/aspose.pdf/cell/
 ---
-## Cell 类
+## Cell class
 
 表示表格行的单元格。
 
@@ -32,9 +32,9 @@ public sealed class Cell : ICloneable
 | [ColSpan](../../aspose.pdf/cell/colspan/) { get; set; } | 获取或设置列跨度。 |
 | [DefaultCellTextState](../../aspose.pdf/cell/defaultcelltextstate/) { get; set; } | 获取或设置默认单元格文本状态。 |
 | [IsNoBorder](../../aspose.pdf/cell/isnoborder/) { get; set; } | 获取或设置单元格是否有边框。 |
-| [IsOverrideByFragment](../../aspose.pdf/cell/isoverridebyfragment/) { get; set; } | 设置单元格的 TextState 属性是否被 TextFragment 的 TextState 属性覆盖。 |
-| [IsWordWrapped](../../aspose.pdf/cell/iswordwrapped/) { get; set; } | 获取或设置单元格的文本是否换行。 |
-| [Margin](../../aspose.pdf/cell/margin/) { get; set; } | 获取或设置内边距。 |
+| [IsOverrideByFragment](../../aspose.pdf/cell/isoverridebyfragment/) { get; set; } | 设置单元格的 TextState 属性会被 TextFragment 的 TextState 属性覆盖。 |
+| [IsWordWrapped](../../aspose.pdf/cell/iswordwrapped/) { get; set; } | 获取或设置单元格的文本自动换行。 |
+| [Margin](../../aspose.pdf/cell/margin/) { get; set; } | 获取或设置填充。 |
 | [Paragraphs](../../aspose.pdf/cell/paragraphs/) { get; set; } | 获取或设置单元格的格式化文本。 |
 | [RowSpan](../../aspose.pdf/cell/rowspan/) { get; set; } | 获取或设置行跨度。 |
 | [VerticalAlignment](../../aspose.pdf/cell/verticalalignment/) { get; set; } | 获取或设置垂直对齐方式。 |
@@ -46,7 +46,9 @@ public sealed class Cell : ICloneable
 | --- | --- |
 | [Clone](../../aspose.pdf/cell/clone/)() | 克隆单元格。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

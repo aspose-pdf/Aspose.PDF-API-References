@@ -1,12 +1,12 @@
 ---
-title: FormEditor.ExportItems
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor 属性。设置带有导出值的组合框选项
+title: "FormEditor.ExportItems"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FormEditor 属性。设置带有导出值的组合框选项"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.facades/formeditor/exportitems/
 ---
-## FormEditor.ExportItems 属性
+## FormEditor.ExportItems property
 
 设置带有导出值的组合框选项。
 
@@ -28,8 +28,10 @@ formEditor.AddField(FieldType.ListBox, "AddedListBoxField", "Second", 1, 10, 30,
 formEditor.Save();
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FormEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

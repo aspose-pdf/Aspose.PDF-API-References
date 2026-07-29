@@ -1,14 +1,14 @@
 ---
-title: FormEditor.DecorateField
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor 方法。更改指定字段的视觉属性
+title: "FormEditor.DecorateField"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FormEditor 方法。更改指定字段的可视属性"
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf.facades/formeditor/decoratefield/
 ---
 ## DecorateField(string) {#decoratefield_2}
 
-更改指定字段的视觉属性。
+更改指定字段的可视属性。
 
 ```csharp
 public void DecorateField(string fieldName)
@@ -16,7 +16,7 @@ public void DecorateField(string fieldName)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | 字符串 | 完全限定的字段名称。 |
+| fieldName | String | 完全限定的字段名称。 |
 
 ## 示例
 
@@ -30,17 +30,17 @@ fe.Facade.Alignment = FormFieldFacade.AlignCenter;
 fe.DecorateField("textField");
 ```
 
-### 另见
+### 另请参见
 
-* 类 [FormEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## DecorateField(FieldType) {#decoratefield_1}
 
-更改所有具有指定字段类型的字段的视觉属性。
+更改指定字段类型的所有字段的可视属性。
 
 ```csharp
 public void DecorateField(FieldType fieldType)
@@ -59,22 +59,22 @@ fe.Facade.BackgroundColor = System.Drawing.Color.Red;
 fe.Facade.TextColor = System.Drawing.Color.Blue;
 fe.Facade.BorderColor = System.Drawing.Color.Green;
 fe.Facade.Alignment = FormFieldFacade.AlignRight;
-//decorate all text fields.
+//装饰所有文本字段。
 fe.DecorateField(FieldType.Text);
 ```
 
-### 另见
+### 另请参见
 
-* 枚举 [FieldType](../../fieldtype/)
-* 类 [FormEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [FieldType](../../fieldtype/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## DecorateField() {#decoratefield}
 
-更改 PDF 文档中所有字段的视觉属性。
+更改 PDF 文档中所有字段的可视属性。
 
 ```csharp
 public void DecorateField()
@@ -89,12 +89,14 @@ fe.Facade.BackgroundColor = System.Drawing.Color.Red;
 fe.Facade.TextColor = System.Drawing.Color.Blue;
 fe.Facade.BorderColor = System.Drawing.Color.Green;
 fe.Facade.Alignment = FormFieldFacade.AlignRight;
-//decorate all fields.
+//装饰所有字段。
 fe.DecorateField();
 ```
 
-### 另见
+### 另请参见
 
-* 类 [FormEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

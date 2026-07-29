@@ -1,12 +1,12 @@
 ---
-title: CosPdfDictionary.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfDictionary 属性。可编辑键的集合
+title: "CosPdfDictionary.Keys"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CosPdfDictionary 属性。可编辑键的集合"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.dataeditor/cospdfdictionary/keys/
 ---
-## CosPdfDictionary.Keys 属性
+## CosPdfDictionary.Keys property
 
 可编辑键的集合。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.dataeditor/cospdfdictionary/keys/
 public ICollection<string> Keys { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [CosPdfDictionary](../)
-* 命名空间 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

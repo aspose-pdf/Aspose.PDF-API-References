@@ -1,14 +1,14 @@
 ---
-title: ElementCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: ElementCollection 方法。返回一个枚举器，用于遍历集合
+title: "ElementCollection.GetEnumerator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ElementCollection 方法。返回一个遍历集合的枚举器"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.structure/elementcollection/getenumerator/
 ---
-## ElementCollection.GetEnumerator 方法
+## ElementCollection.GetEnumerator method
 
-返回一个枚举器，用于遍历集合。
+返回一个遍历集合的枚举器。
 
 ```csharp
 public IEnumerator<Element> GetEnumerator()
@@ -18,9 +18,11 @@ public IEnumerator<Element> GetEnumerator()
 
 元素的枚举器。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Element](../../element/)
-* 类 [ElementCollection](../)
-* 命名空间 [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Element](../../element/)
+* class [ElementCollection](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
+
+

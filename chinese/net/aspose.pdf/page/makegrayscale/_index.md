@@ -1,12 +1,12 @@
 ---
-title: Page.MakeGrayscale
-second_title: Aspose.PDF for .NET API Reference
-description: 页面方法。将页面转换为灰度
+title: "Page.MakeGrayscale"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Page 方法。将页面转换为灰度。"
 type: docs
 weight: 500
 url: /zh/net/aspose.pdf/page/makegrayscale/
 ---
-## Page.MakeGrayscale 方法
+## Page.MakeGrayscale method
 
 将页面转换为灰度。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/page/makegrayscale/
 public void MakeGrayscale()
 ```
 
-### 另见
+### 另请参见
 
-* 类 [Page](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: SaveOptions.CloseResponse
-second_title: Aspose.PDF for .NET API Reference
-description: SaveOptions 属性。获取或设置一个布尔值，指示在文档保存到响应后，Response 对象是否会被关闭
+title: "SaveOptions.CloseResponse"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SaveOptions 属性。获取或设置布尔值，指示在文档保存到响应后是否关闭 Response 对象"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/saveoptions/closeresponse/
 ---
-## SaveOptions.CloseResponse 属性
+## SaveOptions.CloseResponse property
 
-获取或设置一个布尔值，指示在文档保存到响应后，Response 对象是否会被关闭。
+获取或设置布尔值，以指示文档保存到响应后是否关闭 Response 对象。
 
 ```csharp
 public bool CloseResponse { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [SaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

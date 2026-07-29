@@ -1,14 +1,14 @@
 ---
-title: Annotation.Appearance
-second_title: Aspose.PDF for .NET API Reference
-description: 注释属性。获取注释的外观字典
+title: "Annotation.Appearance"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Annotation 属性。获取注释的外观字典"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.annotations/annotation/appearance/
 ---
-## Annotation.Appearance 属性
+## Annotation.Appearance property
 
-获取注释的外观字典。
+获取 Annotation 的外观字典。
 
 ```csharp
 public AppearanceDictionary Appearance { get; }
@@ -20,3 +20,5 @@ public AppearanceDictionary Appearance { get; }
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: AbsorbedRow.CellList
-second_title: Aspose.PDF for .NET API Reference
-description: AbsorbedRow 属性。获取包含行单元格的只读 IList
+title: "AbsorbedRow.CellList"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AbsorbedRow 属性。获取只读 IList，包含该行的单元格"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/absorbedrow/celllist/
 ---
-## AbsorbedRow.CellList 属性
+## AbsorbedRow.CellList property
 
-获取包含行单元格的只读 IList
+获取只读 IList，包含该行的单元格。
 
 ```csharp
 public IList<AbsorbedCell> CellList { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [AbsorbedCell](../../absorbedcell/)
-* 类 [AbsorbedRow](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AbsorbedCell](../../absorbedcell/)
+* class [AbsorbedRow](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

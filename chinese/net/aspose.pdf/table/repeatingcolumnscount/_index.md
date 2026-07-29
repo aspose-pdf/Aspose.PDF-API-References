@@ -1,21 +1,23 @@
 ---
-title: Table.RepeatingColumnsCount
-second_title: Aspose.PDF for .NET API Reference
-description: 表属性。获取或设置表的最大列数
+title: "Table.RepeatingColumnsCount"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Table 属性。获取或设置表格的最大列数"
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf/table/repeatingcolumnscount/
 ---
-## Table.RepeatingColumnsCount 属性
+## Table.RepeatingColumnsCount property
 
-获取或设置表的最大列数
+获取或设置表格的最大列数
 
 ```csharp
 public int RepeatingColumnsCount { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Table](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

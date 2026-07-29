@@ -1,14 +1,14 @@
 ---
-title: Class FormRemoveSelectedFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormRemoveSelectedFieldsOptions 类。表示通过 FormEditor 插件在文档中删除选定字段的选项
+title: "类 FormRemoveSelectedFieldsOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.FormRemoveSelectedFieldsOptions 类。表示通过 FormEditor 插件在文档中移除选定字段的选项。"
 type: docs
-weight: 8790
+weight: 8920
 url: /zh/net/aspose.pdf.plugins/formremoveselectedfieldsoptions/
 ---
-## FormRemoveSelectedFieldsOptions 类
+## FormRemoveSelectedFieldsOptions class
 
-表示通过 [`FormEditor`](../formeditor/) 插件在文档中删除选定字段的选项。
+表示通过 [`FormEditor`](../formeditor/) 插件在文档中移除选定字段的选项。
 
 ```csharp
 public sealed class FormRemoveSelectedFieldsOptions : FormEditorRemoveOptions
@@ -24,18 +24,20 @@ public sealed class FormRemoveSelectedFieldsOptions : FormEditorRemoveOptions
 
 | 名称 | 描述 |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | 返回 Form.... 插件数据集合。 |
-| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | 获取用于保存操作结果的添加目标集合。 |
+| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | 返回 Form.... 插件的数据集合。 |
+| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | 获取已添加目标的集合，用于保存操作结果。 |
 
 ## 方法
 
 | 名称 | 描述 |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | 向 Form... 插件数据集合添加新的数据源。 |
-| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | 向 Form... 插件数据集合添加新的数据源。 |
+| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | 向 Form... 插件的数据集合添加新数据源。 |
+| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | 向 Form... 插件的数据集合添加新数据源。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [FormEditorRemoveOptions](../formeditorremoveoptions/)
-* 命名空间 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../)
+* class [FormEditorRemoveOptions](../formeditorremoveoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

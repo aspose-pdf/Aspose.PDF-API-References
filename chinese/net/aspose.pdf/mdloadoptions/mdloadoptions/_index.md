@@ -1,12 +1,12 @@
 ---
-title: MdLoadOptions.MdLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: MdLoadOptions 构造函数。默认构造函数
+title: "MdLoadOptions.MdLoadOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MdLoadOptions 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/mdloadoptions/mdloadoptions/
 ---
-## MdLoadOptions 构造函数
+## MdLoadOptions constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/mdloadoptions/mdloadoptions/
 public MdLoadOptions()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [MdLoadOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [MdLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,9 +1,9 @@
 ---
-title: Class Form.FormImportResult
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.FormFormImportResult 类。描述字段导入结果的类
+title: "类 Form.FormImportResult"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Facades.FormFormImportResult 类。描述字段导入结果的类。"
 type: docs
-weight: 4300
+weight: 4420
 url: /zh/net/aspose.pdf.facades/form.formimportresult/
 ---
 ## Form.FormImportResult class
@@ -14,15 +14,17 @@ url: /zh/net/aspose.pdf.facades/form.formimportresult/
 public class FormImportResult
 ```
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [FieldName](../../aspose.pdf.facades/form.formimportresult/fieldname) { get; } | 字段的全名。 |
+| [FieldName](../../aspose.pdf.facades/form.formimportresult/fieldname) { get; } | 字段的完整名称。 |
 | [Status](../../aspose.pdf.facades/form.formimportresult/status) { get; } | 字段导入的状态。 |
 
-### See Also
+### 另请参见
 
 * class [Form](../form/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

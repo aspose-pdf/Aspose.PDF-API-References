@@ -1,12 +1,12 @@
 ---
-title: FormEditor.GetFieldAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor 方法。获取字段标志
+title: "FormEditor.GetFieldAppearance"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FormEditor 方法。获取字段标志"
 type: docs
 weight: 190
 url: /zh/net/aspose.pdf.facades/formeditor/getfieldappearance/
 ---
-## FormEditor.GetFieldAppearance 方法
+## FormEditor.GetFieldAppearance method
 
 获取字段标志。
 
@@ -16,15 +16,17 @@ public AnnotationFlags GetFieldAppearance(string fieldName)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| fieldName | 字符串 | 字段的名称。 |
+| fieldName | String | 字段的名称。 |
 
 ### 返回值
 
-字段标志的集合
+字段标志集合
 
-### 另请参阅
+### 另请参见
 
 * enum [AnnotationFlags](../../../aspose.pdf.annotations/annotationflags/)
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

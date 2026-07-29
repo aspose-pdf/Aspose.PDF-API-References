@@ -1,14 +1,14 @@
 ---
-title: ActionCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: ActionCollection 方法。 从集合中删除项目
+title: "ActionCollection.Remove"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ActionCollection 方法。从集合中移除项"
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.annotations/actioncollection/remove/
 ---
-## ActionCollection.Remove 方法
+## ActionCollection.Remove method
 
-从集合中删除项目。
+从集合中移除项。
 
 ```csharp
 public bool Remove(PdfAction item)
@@ -16,15 +16,17 @@ public bool Remove(PdfAction item)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| item | PdfAction | 要删除的项目。 |
+| item | PdfAction | 要删除的项。 |
 
 ### 返回值
 
 未实现。
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfAction](../../pdfaction/)
-* 类 [ActionCollection](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfAction](../../pdfaction/)
+* class [ActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

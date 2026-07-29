@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.Prefix
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionValueType 属性。获取前缀
+title: "XmpPdfAExtensionValueType.Prefix"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpPdfAExtensionValueType 属性。获取前缀"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/xmppdfaextensionvaluetype/prefix/
 ---
-## XmpPdfAExtensionValueType.Prefix 属性
+## XmpPdfAExtensionValueType.Prefix property
 
 获取前缀。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/xmppdfaextensionvaluetype/prefix/
 public string Prefix { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XmpPdfAExtensionValueType](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

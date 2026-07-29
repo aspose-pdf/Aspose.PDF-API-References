@@ -1,25 +1,27 @@
 ---
-title: AICopilotFactory.CreateChatCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: AICopilotFactory 方法。根据客户端和选项创建聊天助手
+title: "AICopilotFactory.CreateChatCopilot"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AICopilotFactory 方法。根据客户端和选项创建聊天副驾驶"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/aicopilotfactory/createchatcopilot/
 ---
-## AICopilotFactory.CreateChatCopilot&lt;TOptions&gt; 方法
+## AICopilotFactory.CreateChatCopilot&lt;TOptions&gt; method
 
-根据客户端和选项创建聊天助手。
+基于客户端和选项创建聊天协同程序。
 
 ```csharp
 public static IChatCopilot CreateChatCopilot<TOptions>(IChatClient<TOptions> client, 
     IChatCopilotOptions<TOptions> options)
 ```
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IChatCopilot](../../ichatcopilot/)
-* 接口 [IChatClient&lt;TOptions&gt;](../../ichatclient-1/)
-* 接口 [IChatCopilotOptions&lt;TOptions&gt;](../../ichatcopilotoptions-1/)
-* 类 [AICopilotFactory](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IChatCopilot](../../ichatcopilot/)
+* interface [IChatClient&lt;TOptions&gt;](../../ichatclient-1/)
+* interface [IChatCopilotOptions&lt;TOptions&gt;](../../ichatcopilotoptions-1/)
+* class [AICopilotFactory](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class PageDate.YearComponent
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageDateYearComponent 类。表示日期的年份组件
+title: "类 PageDate.YearComponent"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.PageDateYearComponent 类。表示日期的年份组件"
 type: docs
-weight: 8140
+weight: 8280
 url: /zh/net/aspose.pdf/pagedate.yearcomponent/
 ---
-## PageDate.YearComponent 类
+## PageDate.YearComponent class
 
-表示日期的年份组件。
+表示日期的年组件。
 
 ```csharp
 public class YearComponent : DateComponent
@@ -31,11 +31,13 @@ public class YearComponent : DateComponent
 | 名称 | 描述 |
 | --- | --- |
 | [GetFormat](../../aspose.pdf/pagedate.yearcomponent/getformat#getformat)() | 获取年份组件的格式字符串。 |
-| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | 返回一个由指定字符组成的字符串，重复次数基于格式。 |
+| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | 返回由指定字符根据格式重复组成的字符串。 |
 
-### 另见
+### 另请参见
 
-* 类 [DateComponent](../datecomponent/)
-* 类 [PageDate](../pagedate/)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* class [DateComponent](../datecomponent/)
+* class [PageDate](../pagedate/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

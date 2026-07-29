@@ -1,14 +1,14 @@
 ---
-title: MarkupParagraph.ContinuationPageNumbers
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupParagraph 属性。段落继续的页码列表。如果段落在同一页面的下一列中继续，它将与段落开始的页面匹配。
+title: "MarkupParagraph.ContinuationPageNumbers"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MarkupParagraph 属性。 列出段落继续所在的页码。如果段落在同一页的下一列继续，则该页码将与段落开始的页码匹配。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/markupparagraph/continuationpagenumbers/
 ---
-## MarkupParagraph.ContinuationPageNumbers 属性
+## MarkupParagraph.ContinuationPageNumbers property
 
-段落继续的页码列表。如果段落在同一页面的下一列中继续，它将与段落开始的页面匹配。
+段落延续所在的页码列表。如果段落在同一页的下一列继续，则该列表将与段落开始的页码匹配。
 
 ```csharp
 public List<int> ContinuationPageNumbers { get; }
@@ -16,6 +16,8 @@ public List<int> ContinuationPageNumbers { get; }
 
 ### 另请参见
 
-* 类 [MarkupParagraph](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [MarkupParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

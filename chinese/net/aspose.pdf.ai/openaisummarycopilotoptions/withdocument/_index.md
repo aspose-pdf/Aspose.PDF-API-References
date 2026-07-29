@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.WithDocument
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilotOptions 方法。将文本文档添加到摘要助手选项的文档集合中
+title: "OpenAISummaryCopilotOptions.WithDocument"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAISummaryCopilotOptions 方法。向摘要协助选项的文档集合中添加文本文档"
 type: docs
-weight: 60
+weight: 70
 url: /zh/net/aspose.pdf.ai/openaisummarycopilotoptions/withdocument/
 ---
 ## WithDocument(TextDocument) {#withdocument_1}
 
-将文本文档添加到摘要助手选项的文档集合中。
+向摘要协作员选项的文档集合中添加文本文档。
 
 ```csharp
 public OpenAISummaryCopilotOptions WithDocument(TextDocument textDocument)
@@ -22,18 +22,18 @@ public OpenAISummaryCopilotOptions WithDocument(TextDocument textDocument)
 
 当前的 [`OpenAISummaryCopilotOptions`](../) 实例。
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextDocument](../../textdocument/)
-* 类 [OpenAISummaryCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextDocument](../../textdocument/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocument(PdfDocument) {#withdocument}
 
-将 PDF 文档添加到摘要助手选项的文档集合中。
+向摘要协作员选项的文档集合中添加 PDF 文档。
 
 ```csharp
 public OpenAISummaryCopilotOptions WithDocument(PdfDocument pdfDocument)
@@ -47,18 +47,18 @@ public OpenAISummaryCopilotOptions WithDocument(PdfDocument pdfDocument)
 
 当前的 [`OpenAISummaryCopilotOptions`](../) 实例。
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfDocument](../../pdfdocument/)
-* 类 [OpenAISummaryCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfDocument](../../pdfdocument/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocument(string) {#withdocument_2}
 
-将文档路径添加到摘要助手选项的文档集合中。
+向摘要协作员选项的文档集合中添加文档路径。
 
 ```csharp
 public OpenAISummaryCopilotOptions WithDocument(string filePath)
@@ -72,8 +72,10 @@ public OpenAISummaryCopilotOptions WithDocument(string filePath)
 
 当前的 [`OpenAISummaryCopilotOptions`](../) 实例。
 
-### 另请参阅
+### 另请参见
 
-* 类 [OpenAISummaryCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

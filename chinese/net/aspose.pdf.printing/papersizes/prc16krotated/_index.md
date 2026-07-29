@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.Prc16KRotated
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 字段。16K 旋转纸 146 毫米 x 215 毫米
+title: "PaperSizes.Prc16KRotated"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PaperSizes 字段。16K 旋转纸张 146 mm × 215 mm"
 type: docs
 weight: 810
 url: /zh/net/aspose.pdf.printing/papersizes/prc16krotated/
 ---
-## PaperSizes.Prc16KRotated 字段
+## PaperSizes.Prc16KRotated field
 
-16K 旋转纸（146 毫米 x 215 毫米）。
+16K 旋转纸（146 mm × 215 mm）。
 
 ```csharp
 public static readonly PaperSize Prc16KRotated;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PaperSize](../../papersize/)
-* 类 [PaperSizes](../)
-* 命名空间 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

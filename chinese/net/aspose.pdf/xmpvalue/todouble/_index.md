@@ -1,14 +1,14 @@
 ---
-title: XmpValue.ToDouble
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue method. Converts to double
+title: "XmpValue.ToDouble"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpValue 方法。转换为 double"
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf/xmpvalue/todouble/
 ---
-## XmpValue.ToDouble 方法
+## XmpValue.ToDouble method
 
-转换为双精度。
+转换为 double。
 
 ```csharp
 public double ToDouble()
@@ -16,10 +16,12 @@ public double ToDouble()
 
 ### 返回值
 
-双精度值。
+Double 值。
 
-### 另见
+### 另请参见
 
-* 类 [XmpValue](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

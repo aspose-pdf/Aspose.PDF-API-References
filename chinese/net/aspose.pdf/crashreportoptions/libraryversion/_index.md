@@ -1,12 +1,12 @@
 ---
-title: CrashReportOptions.LibraryVersion
-second_title: Aspose.PDF for .NET API Reference
-description: CrashReportOptions 属性。使用的库版本
+title: "CrashReportOptions.LibraryVersion"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CrashReportOptions 属性。使用的库的版本"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/crashreportoptions/libraryversion/
 ---
-## CrashReportOptions.LibraryVersion 属性
+## CrashReportOptions.LibraryVersion property
 
 使用的库版本。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/crashreportoptions/libraryversion/
 public string LibraryVersion { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [CrashReportOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CrashReportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,9 +1,9 @@
 ---
-title: Class FolderFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.FolderFontSource 类。表示包含字体文件的文件夹
+title: "类 FolderFontSource"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Text.FolderFontSource 类。表示包含字体文件的文件夹"
 type: docs
-weight: 10500
+weight: 10680
 url: /zh/net/aspose.pdf.text/folderfontsource/
 ---
 ## FolderFontSource class
@@ -14,26 +14,28 @@ url: /zh/net/aspose.pdf.text/folderfontsource/
 public sealed class FolderFontSource : FontSource
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [FolderFontSource](folderfontsource/)(string) | 初始化 `FolderFontSource` 类的新实例。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [FolderPath](../../aspose.pdf.text/folderfontsource/folderpath/) { get; set; } | 包含字体文件的文件夹路径。 |
 
-## Methods
+## 方法
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | override [Equals](../../aspose.pdf.text/folderfontsource/equals/)(object) | 检查文件夹字体源对象是否相等。 |
 
-### See Also
+### 另请参见
 
 * class [FontSource](../fontsource/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

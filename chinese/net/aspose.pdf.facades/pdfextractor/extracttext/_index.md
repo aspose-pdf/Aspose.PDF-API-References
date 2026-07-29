@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.ExtractText
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor 方法。使用 Unicode 编码从 Pdf 文档中提取文本
+title: "PdfExtractor.ExtractText"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfExtractor 方法。使用 Unicode 编码从 PDF 文档中提取文本。"
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.facades/pdfextractor/extracttext/
 ---
 ## ExtractText() {#extracttext}
 
-使用 Unicode 编码从 Pdf 文档中提取文本。
+使用 Unicode 编码从 PDF 文档中提取文本。
 
 ```csharp
 public void ExtractText()
@@ -32,7 +32,7 @@ extractor.ExtractText()
 extractor.GetText("D:\Text\text.txt")
 ```
 
-第二个示例演示如何将每一页的文本提取到一个 txt 文件中。
+第二个示例演示如何将每页的文本提取到一个 txt 文件中。
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -61,17 +61,17 @@ While extractor.HasNextPageText()
 End While
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfExtractor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ExtractText(Encoding) {#extracttext_1}
 
-使用指定的编码从 Pdf 文档中提取文本。
+使用指定编码从 PDF 文档中提取文本。
 
 ```csharp
 public void ExtractText(Encoding encoding)
@@ -79,7 +79,7 @@ public void ExtractText(Encoding encoding)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| encoding | Encoding | 提取文本的编码。 |
+| 编码 | 编码 | 提取文本的编码。 |
 
 ## 示例
 
@@ -99,7 +99,7 @@ extractor.ExtractText(Encoding.Unicode)
 extractor.GetText("D:\Text\text.txt")
 ```
 
-第二个示例演示如何将每一页的文本提取到一个 txt 文件中。
+第二个示例演示如何将每页的文本提取到一个 txt 文件中。
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -128,8 +128,10 @@ While extractor.HasNextPageText()
 End While
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfExtractor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

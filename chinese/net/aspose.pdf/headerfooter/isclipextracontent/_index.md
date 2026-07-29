@@ -1,21 +1,23 @@
 ---
-title: HeaderFooter.IsClipExtraContent
-second_title: Aspose.PDF for .NET API Reference
-description: HeaderFooter 属性。获取或设置是否剪切额外内容
+title: "HeaderFooter.IsClipExtraContent"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "HeaderFooter 属性。获取或设置是否剪裁额外内容"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/headerfooter/isclipextracontent/
 ---
-## HeaderFooter.IsClipExtraContent 属性
+## HeaderFooter.IsClipExtraContent property
 
-获取或设置是否剪切额外内容。
+获取或设置是否裁剪额外内容。
 
 ```csharp
 public bool IsClipExtraContent { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [HeaderFooter](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [HeaderFooter](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

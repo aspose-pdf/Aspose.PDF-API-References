@@ -1,12 +1,12 @@
 ---
-title: IIndexBitmapConverter.Get1BppImage
-second_title: Aspose.PDF for .NET API Reference
-description: IIndexBitmapConverter 方法。返回 1Bpp 位图表示
+title: "IIndexBitmapConverter.Get1BppImage"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "IIndexBitmapConverter 方法。返回 1Bpp 位图表示。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/iindexbitmapconverter/get1bppimage/
 ---
-## IIndexBitmapConverter.Get1BppImage 方法
+## IIndexBitmapConverter.Get1BppImage method
 
 返回 1Bpp 位图表示
 
@@ -20,10 +20,12 @@ public Bitmap Get1BppImage(Bitmap src)
 
 ### 返回值
 
-1 bpp 图像格式的位图。
+Bitmap 为 1 bpp 图像格式。
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IIndexBitmapConverter](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IIndexBitmapConverter](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

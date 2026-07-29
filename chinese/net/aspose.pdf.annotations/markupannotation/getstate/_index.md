@@ -1,14 +1,14 @@
 ---
-title: MarkupAnnotation.GetState
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupAnnotation 方法。获取注释的状态。请注意，其他具有 state 和 statemodel 键的文本注释中存储的状态
+title: "MarkupAnnotation.GetState"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MarkupAnnotation 方法。获取注释的状态。注意其他具有 state 和 statemodel 键的文本注释中存储的状态"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.annotations/markupannotation/getstate/
 ---
-## MarkupAnnotation.GetState 方法
+## MarkupAnnotation.GetState method
 
-获取注释的状态。请注意，其他具有 state 和 statemodel 键的文本注释中存储的状态。
+获取注释的状态。注意，状态存储在具有 state 和 statemodel 键的其他文本注释中。
 
 ```csharp
 public AnnotationState GetState()
@@ -18,9 +18,11 @@ public AnnotationState GetState()
 
 注释状态。
 
-### 另请参阅
+### 另请参见
 
 * enum [AnnotationState](../../annotationstate/)
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

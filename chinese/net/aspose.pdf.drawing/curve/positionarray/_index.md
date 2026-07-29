@@ -1,21 +1,23 @@
 ---
-title: Curve.PositionArray
-second_title: Aspose.PDF for .NET API Reference
-description: Curve 属性。获取或设置浮点位置数组
+title: "Curve.PositionArray"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Curve 属性。获取或设置浮点数位置数组"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.drawing/curve/positionarray/
 ---
-## Curve.PositionArray 属性
+## Curve.PositionArray property
 
-获取或设置浮点位置数组。
+获取或设置一个浮点位置数组。
 
 ```csharp
 public float[] PositionArray { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Curve](../)
-* 命名空间 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Curve](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

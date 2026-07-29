@@ -1,21 +1,23 @@
 ---
-title: PaginationArtifact.EndPage
-second_title: Aspose.PDF for .NET API Reference
-description: PaginationArtifact 属性。获取或设置工件的结束页码。值必须大于或等于 0。如果设置的值小于 0，则将调整为 0。默认值 0 表示没有结束页边界。
+title: "PaginationArtifact.EndPage"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PaginationArtifact 属性。获取或设置工件的结束页码。该值必须大于或等于 0。如果设置的值小于 0，将自动调整为 0。默认值 0 表示没有结束页限制"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/paginationartifact/endpage/
 ---
-## PaginationArtifact.EndPage 属性
+## PaginationArtifact.EndPage property
 
-获取或设置工件的结束页码。值必须大于或等于 0。如果设置的值小于 0，则将调整为 0。默认值 0 表示没有结束页边界。
+获取或设置工件的结束页号。该值必须大于或等于 0。如果设置的值小于 0，将自动调整为 0。默认值 0 表示没有结束页限制。
 
 ```csharp
 public int EndPage { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [PaginationArtifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

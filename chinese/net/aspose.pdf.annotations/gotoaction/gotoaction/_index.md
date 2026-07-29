@@ -1,7 +1,7 @@
 ---
-title: GoToAction.GoToAction
-second_title: Aspose.PDF for .NET API Reference
-description: GoToAction 构造函数。GoToAction 类的构造函数
+title: "GoToAction.GoToAction"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GoToAction 构造函数。GoToAction 类的构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/gotoaction/gotoaction/
@@ -16,9 +16,9 @@ public GoToAction(Page page)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | Aspose.Pdf.Page 目标对象，跳转到该对象。 |
+| 页面 | 页面 | Aspose.Pdf.Page 目标对象，用于跳转。 |
 
-### 另请参阅
+### 另请参见
 
 * class [Page](../../../aspose.pdf/page/)
 * class [GoToAction](../)
@@ -37,11 +37,11 @@ public GoToAction(Page page, ExplicitDestinationType type, params double[] value
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | 目标页面。 |
-| type | ExplicitDestinationType | 目标类型。 |
-| values | Double[] | 动作参数。 |
+| 页面 | 页面 | 目标页面。 |
+| 类型 | ExplicitDestinationType | 目标类型。 |
+| 值 | Double[] | 操作参数。 |
 
-### 另请参阅
+### 另请参见
 
 * class [Page](../../../aspose.pdf/page/)
 * enum [ExplicitDestinationType](../../explicitdestinationtype/)
@@ -61,9 +61,9 @@ public GoToAction(ExplicitDestination destination)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| destination | ExplicitDestination | 明确的目标。 |
+| destination | ExplicitDestination | 显式目标。 |
 
-### 另请参阅
+### 另请参见
 
 * class [ExplicitDestination](../../explicitdestination/)
 * class [GoToAction](../)
@@ -74,7 +74,7 @@ public GoToAction(ExplicitDestination destination)
 
 ## GoToAction(Document, string) {#constructor_2}
 
-与命名目标链接的动作。
+与命名目标关联的操作。
 
 ```csharp
 public GoToAction(Document doc, string name)
@@ -82,12 +82,14 @@ public GoToAction(Document doc, string name)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | 动作将被创建的文档。 |
-| name | String | 目标的名称。 |
+| 文档 | Document | 将在其中创建操作的文档。 |
+| 名称 | String | 目标的名称。 |
 
-### 另请参阅
+### 另请参见
 
 * class [Document](../../../aspose.pdf/document/)
 * class [GoToAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

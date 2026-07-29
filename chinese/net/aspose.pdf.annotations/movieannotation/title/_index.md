@@ -1,12 +1,12 @@
 ---
-title: MovieAnnotation.Title
-second_title: Aspose.PDF for .NET API Reference
-description: MovieAnnotation 属性。获取或设置电影注释的标题
+title: "MovieAnnotation.Title"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MovieAnnotation 属性。获取或设置电影注释的标题。"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.annotations/movieannotation/title/
 ---
-## MovieAnnotation.Title 属性
+## MovieAnnotation.Title property
 
 获取或设置电影注释的标题。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.annotations/movieannotation/title/
 public string Title { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [MovieAnnotation](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [MovieAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

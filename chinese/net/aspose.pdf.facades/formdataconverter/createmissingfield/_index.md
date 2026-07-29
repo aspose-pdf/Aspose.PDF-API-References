@@ -1,21 +1,23 @@
 ---
-title: FormDataConverter.CreateMissingField
-second_title: Aspose.PDF for .NET API Reference
-description: FormDataConverter 属性。ConvertToDataTable 将在表中不存在时创建所需字段
+title: "FormDataConverter.CreateMissingField"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FormDataConverter 属性。ConvertToDataTable 将在表格中不存在时创建所需字段"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.facades/formdataconverter/createmissingfield/
 ---
-## FormDataConverter.CreateMissingField 属性
+## FormDataConverter.CreateMissingField property
 
-ConvertToDataTable 将在表中不存在时创建所需字段。
+ConvertToDataTable 如果表中不存在所需字段，将创建该字段。
 
 ```csharp
 public bool CreateMissingField { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FormDataConverter](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FormDataConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

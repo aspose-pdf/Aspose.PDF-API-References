@@ -1,12 +1,12 @@
 ---
-title: Margins.Right
-second_title: Aspose.PDF for .NET API Reference
-description: Margins 属性。获取或设置右侧
+title: "Margins.Right"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Margins 属性。获取或设置右侧。"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.devices/margins/right/
 ---
-## Margins.Right 属性
+## Margins.Right property
 
 获取或设置右侧。
 
@@ -14,12 +14,14 @@ url: /zh/net/aspose.pdf.devices/margins/right/
 public int Right { get; set; }
 ```
 
-### 属性值
+### Property Value
 
 右侧。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Margins](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.HasIncrementalUpdate
-second_title: Aspose.PDF for .NET API Reference
-description: Document 方法。检查当前 PDF 文档是否已保存增量更新
+title: "Document.HasIncrementalUpdate"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 方法。检查当前 PDF 文档是否已使用增量更新保存"
 type: docs
-weight: 700
+weight: 720
 url: /zh/net/aspose.pdf/document/hasincrementalupdate/
 ---
-## Document.HasIncrementalUpdate 方法
+## Document.HasIncrementalUpdate method
 
-检查当前 PDF 文档是否已保存增量更新。
+检查当前 PDF 文档是否已使用增量更新方式保存。
 
 ```csharp
 public bool HasIncrementalUpdate()
@@ -16,10 +16,12 @@ public bool HasIncrementalUpdate()
 
 ### 返回值
 
-`true` 如果 PDF 文档有增量更新；否则，`false`。
+`true` 表示 PDF 文档具有增量更新；否则为 `false`。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Document](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

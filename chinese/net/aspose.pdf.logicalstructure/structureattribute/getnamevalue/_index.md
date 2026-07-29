@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.GetNameValue
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttribute 方法。获取值名称
+title: "StructureAttribute.GetNameValue"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "StructureAttribute 方法。获取值名称"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.logicalstructure/structureattribute/getnamevalue/
 ---
-## StructureAttribute.GetNameValue 方法
+## StructureAttribute.GetNameValue method
 
-获取值名称。
+获取 Value Name。
 
 ```csharp
 public AttributeName GetNameValue()
@@ -18,9 +18,11 @@ public AttributeName GetNameValue()
 
 值名称。
 
-### 另请参阅
+### 另请参见
 
-* 类 [AttributeName](../../attributename/)
-* 类 [StructureAttribute](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AttributeName](../../attributename/)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

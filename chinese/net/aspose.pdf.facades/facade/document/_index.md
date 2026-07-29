@@ -1,22 +1,24 @@
 ---
-title: Facade.Document
-second_title: Aspose.PDF for .NET API Reference
-description: Facade 属性。获取文档外观正在处理的内容
+title: "Facade.Document"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Facade 属性。获取外观正在处理的文档"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.facades/facade/document/
 ---
-## Facade.Document 属性
+## Facade.Document property
 
-获取文档外观正在处理的内容。
+获取正在操作的 document facade。
 
 ```csharp
 public Document Document { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Document](../../../aspose.pdf/document/)
-* 类 [Facade](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Facade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

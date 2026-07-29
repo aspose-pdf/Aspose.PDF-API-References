@@ -1,12 +1,12 @@
 ---
-title: XForm.Subtype
-second_title: Aspose.PDF for .NET API Reference
-description: XForm 属性。获取表单子类型
+title: "XForm.Subtype"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XForm 属性。获取表单子类型"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/xform/subtype/
 ---
-## XForm.Subtype 属性
+## XForm.Subtype property
 
 获取表单子类型。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/xform/subtype/
 public string Subtype { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XForm](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

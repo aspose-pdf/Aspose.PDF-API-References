@@ -1,9 +1,9 @@
 ---
-title: Class FontColor
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.FontColor 类。表示文本颜色的类
+title: "类 FontColor"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Facades.FontColor 类. 表示文本颜色的类"
 type: docs
-weight: 4270
+weight: 4390
 url: /zh/net/aspose.pdf.facades/fontcolor/
 ---
 ## FontColor class
@@ -14,22 +14,24 @@ url: /zh/net/aspose.pdf.facades/fontcolor/
 public sealed class FontColor
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [FontColor](fontcolor/#constructor)() | 初始化颜色。 |
-| [FontColor](fontcolor/#constructor_1)(int, int, int) | 使用指定的颜色组件初始化颜色。 |
+| [FontColor](fontcolor/#constructor_1)(int, int, int) | 使用指定的颜色分量初始化颜色。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [Blue](../../aspose.pdf.facades/fontcolor/blue/) { get; set; } | 颜色的蓝色组件。 |
-| [Green](../../aspose.pdf.facades/fontcolor/green/) { get; set; } | 颜色的绿色组件。 |
-| [Red](../../aspose.pdf.facades/fontcolor/red/) { get; set; } | 颜色的红色组件。 |
+| [Blue](../../aspose.pdf.facades/fontcolor/blue/) { get; set; } | 颜色的蓝色分量。 |
+| [Green](../../aspose.pdf.facades/fontcolor/green/) { get; set; } | 颜色的绿色分量。 |
+| [Red](../../aspose.pdf.facades/fontcolor/red/) { get; set; } | 颜色的红色分量。 |
 
-### See Also
+### 另请参见
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

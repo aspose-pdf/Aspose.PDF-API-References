@@ -1,14 +1,14 @@
 ---
-title: Enum BorderSide
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BorderSide 枚举。枚举边框侧
+title: "枚举 BorderSide"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.BorderSide 枚举。枚举边框侧。"
 type: docs
-weight: 2910
+weight: 3020
 url: /zh/net/aspose.pdf/borderside/
 ---
-## BorderSide 枚举
+## BorderSide enumeration
 
-枚举边框侧。
+枚举边框的各侧。
 
 ```csharp
 public enum BorderSide
@@ -23,10 +23,12 @@ public enum BorderSide
 | Top | `2` | 上边框。 |
 | Right | `4` | 右边框。 |
 | Bottom | `8` | 下边框。 |
-| All | `15` | 所有边框。当使用“Box”时具有相同的含义，并将在一年后被“Box”替换。因此，请尽可能使用“Box”。 |
-| Box | `15` | 四个边框。 |
+| All | `15` | 所有侧边的边框。使用 "Box" 时具有相同含义，并将在一年后被 "Box" 替代。因此，请尽可能使用 "Box"。 |
+| Box | `15` | 四侧边框。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

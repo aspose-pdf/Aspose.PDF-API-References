@@ -1,14 +1,14 @@
 ---
-title: Enum CryptoAlgorithm
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.CryptoAlgorithm 枚举。表示在加密/解密例程中使用的加密算法类型
+title: "枚举 CryptoAlgorithm"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.CryptoAlgorithm 枚举。表示在加密/解密例程中使用的加密算法类型。"
 type: docs
-weight: 3400
+weight: 3520
 url: /zh/net/aspose.pdf/cryptoalgorithm/
 ---
-## CryptoAlgorithm 枚举
+## CryptoAlgorithm enumeration
 
-表示在加密/解密例程中使用的加密算法类型。
+表示在加密/解密例程中使用的密码算法类型。
 
 ```csharp
 public enum CryptoAlgorithm
@@ -18,12 +18,15 @@ public enum CryptoAlgorithm
 
 | 名称 | 值 | 描述 |
 | --- | --- | --- |
-| RC4x40 | `0` | 密钥长度为 40 的 RC4。 |
-| RC4x128 | `1` | 密钥长度为 128 的 RC4。 |
-| AESx128 | `2` | 密钥长度为 128 的 AES。 |
-| AESx256 | `3` | 密钥长度为 256 的 AES。 |
+| RC4x40 | `0` | RC4，密钥长度为 40。 |
+| RC4x128 | `1` | RC4，密钥长度为 128。 |
+| AESx128 | `2` | AES，密钥长度为 128。 |
+| AESx256 | `3` | AES，密钥长度为 256。 |
+| Custom | `4` | 自定义加密算法 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

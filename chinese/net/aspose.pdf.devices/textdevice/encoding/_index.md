@@ -1,12 +1,12 @@
 ---
-title: TextDevice.Encoding
-second_title: Aspose.PDF for .NET API Reference
-description: TextDevice 属性。获取或设置提取文本的编码
+title: "TextDevice.Encoding"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextDevice 属性。获取或设置提取文本的编码"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.devices/textdevice/encoding/
 ---
-## TextDevice.Encoding 属性
+## TextDevice.Encoding property
 
 获取或设置提取文本的编码。
 
@@ -16,24 +16,26 @@ public Encoding Encoding { get; set; }
 
 ## 示例
 
-该示例演示如何以 UTF-8 编码表示提取的文本。
+示例演示如何以 UTF-8 编码表示提取的文本。
 
 ```csharp
 Document doc = new Document(inFile);
 string extractedText;
 
-// create text device
+// 创建文本设备
 TextDevice device = new TextDevice(Encoding.UTF8);
 
-// convert the page and save text to the stream
+// 转换页面并将文本保存到流中
 device.Process(doc.Pages[1], outFile);
 
-// use the extracted text
+// 使用提取的文本
 extractedText = File.ReadAllText(outFile, Encoding.UTF8);
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

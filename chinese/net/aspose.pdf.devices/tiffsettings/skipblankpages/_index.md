@@ -1,12 +1,12 @@
 ---
-title: TiffSettings.SkipBlankPages
-second_title: Aspose.PDF for .NET API Reference
-description: TiffSettings 属性。获取或设置一个值，指示是否跳过空白页
+title: "TiffSettings.SkipBlankPages"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TiffSettings 属性。获取或设置指示是否跳过空白页的值"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.devices/tiffsettings/skipblankpages/
 ---
-## TiffSettings.SkipBlankPages 属性
+## TiffSettings.SkipBlankPages property
 
 获取或设置一个值，指示是否跳过空白页。
 
@@ -14,16 +14,18 @@ url: /zh/net/aspose.pdf.devices/tiffsettings/skipblankpages/
 public bool SkipBlankPages { get; set; }
 ```
 
-### 属性值
+### Property Value
 
-`true` 如果需要跳过空白页；否则，`false`。
+`true` 表示需要跳过空白页；否则为 `false`。
 
 ## 备注
 
 默认值为 false
 
-### 另请参阅
+### 另请参见
 
-* 类 [TiffSettings](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

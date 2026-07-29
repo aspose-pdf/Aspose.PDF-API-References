@@ -1,7 +1,7 @@
 ---
-title: SetAdvancedColor.SetAdvancedColor
-second_title: Aspose.PDF for .NET API Reference
-description: SetAdvancedColor 构造函数。初始化操作符
+title: "SetAdvancedColor.SetAdvancedColor"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SetAdvancedColor 构造函数。初始化运算符。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/setadvancedcolor/setadvancedcolor/
@@ -14,7 +14,7 @@ url: /zh/net/aspose.pdf.operators/setadvancedcolor/setadvancedcolor/
 public SetAdvancedColor()
 ```
 
-### 另见
+### 另请参见
 
 * class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -24,7 +24,7 @@ public SetAdvancedColor()
 
 ## SetAdvancedColor(double, string) {#constructor_4}
 
-scn 操作符的构造函数。
+scn 运算符的构造函数。
 
 ```csharp
 public SetAdvancedColor(double g, string patternName)
@@ -33,9 +33,9 @@ public SetAdvancedColor(double g, string patternName)
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | g | Double | 颜色值。 |
-| patternName | String | 图案名称。 |
+| patternName | String | 模式名称。 |
 
-### 另见
+### 另请参见
 
 * class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -45,7 +45,7 @@ public SetAdvancedColor(double g, string patternName)
 
 ## SetAdvancedColor(double) {#constructor_1}
 
-scn 操作符的构造函数。
+scn 运算符的构造函数。
 
 ```csharp
 public SetAdvancedColor(double g)
@@ -55,7 +55,7 @@ public SetAdvancedColor(double g)
 | --- | --- | --- |
 | g | Double | 颜色值。 |
 
-### 另见
+### 另请参见
 
 * class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -65,7 +65,7 @@ public SetAdvancedColor(double g)
 
 ## SetAdvancedColor(double, double, double, string) {#constructor_3}
 
-scn 操作符的构造函数。
+scn 运算符的构造函数。
 
 ```csharp
 public SetAdvancedColor(double r, double g, double b, string patternName)
@@ -76,9 +76,9 @@ public SetAdvancedColor(double r, double g, double b, string patternName)
 | r | Double | 颜色的红色分量。 |
 | g | Double | 颜色的绿色分量。 |
 | b | Double | 颜色的蓝色分量。 |
-| patternName | String | 图案名称。 |
+| patternName | String | 模式名称。 |
 
-### 另见
+### 另请参见
 
 * class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -88,7 +88,7 @@ public SetAdvancedColor(double r, double g, double b, string patternName)
 
 ## SetAdvancedColor(double, double, double, double, string) {#constructor_2}
 
-scn 操作符的构造函数。
+scn 运算符的构造函数。
 
 ```csharp
 public SetAdvancedColor(double c, double m, double y, double k, string patternName)
@@ -100,9 +100,9 @@ public SetAdvancedColor(double c, double m, double y, double k, string patternNa
 | m | Double | 颜色的品红色分量。 |
 | y | Double | 颜色的黄色分量。 |
 | k | Double | 颜色的黑色分量。 |
-| patternName | String | 图案名称。 |
+| patternName | String | 模式名称。 |
 
-### 另见
+### 另请参见
 
 * class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -112,7 +112,7 @@ public SetAdvancedColor(double c, double m, double y, double k, string patternNa
 
 ## SetAdvancedColor(string) {#constructor_6}
 
-scn 操作符的构造函数。
+scn 运算符的构造函数。
 
 ```csharp
 public SetAdvancedColor(string patternName)
@@ -120,9 +120,9 @@ public SetAdvancedColor(string patternName)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| patternName | String | 图案名称。 |
+| patternName | String | 模式名称。 |
 
-### 另见
+### 另请参见
 
 * class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -132,7 +132,7 @@ public SetAdvancedColor(string patternName)
 
 ## SetAdvancedColor(double[], string) {#constructor_5}
 
-scn 操作符的构造函数。
+scn 运算符的构造函数。
 
 ```csharp
 public SetAdvancedColor(double[] colors, string patternName)
@@ -140,11 +140,13 @@ public SetAdvancedColor(double[] colors, string patternName)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| patternName | Double[] | 图案名称。 |
+| patternName | Double[] | 模式名称。 |
 | colors | String | 颜色数组。 |
 
-### 另见
+### 另请参见
 
 * class [SetAdvancedColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

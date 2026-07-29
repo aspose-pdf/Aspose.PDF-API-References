@@ -1,14 +1,14 @@
 ---
-title: Class PDF3DArtwork
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DArtwork class. Class PDF3DArtwork
+title: "类 PDF3DArtwork"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.PDF3DArtwork 类。类 PDF3DArtwork"
 type: docs
-weight: 2160
+weight: 2250
 url: /zh/net/aspose.pdf.annotations/pdf3dartwork/
 ---
-## PDF3DArtwork 类
+## PDF3DArtwork class
 
-Class PDF3DArtwork。
+类 PDF3DArtwork。
 
 ```csharp
 public class PDF3DArtwork
@@ -34,9 +34,11 @@ public class PDF3DArtwork
 | 名称 | 描述 |
 | --- | --- |
 | [GetViewsArray](../../aspose.pdf.annotations/pdf3dartwork/getviewsarray/)() | 获取视图数组。 |
-| [GetViewsList](../../aspose.pdf.annotations/pdf3dartwork/getviewslist/)() | 以列表形式获取视图。 |
+| [GetViewsList](../../aspose.pdf.annotations/pdf3dartwork/getviewslist/)() | 将视图获取为列表。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

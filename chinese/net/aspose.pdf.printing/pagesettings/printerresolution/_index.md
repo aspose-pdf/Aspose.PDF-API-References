@@ -1,12 +1,12 @@
 ---
-title: PageSettings.PrinterResolution
-second_title: Aspose.PDF for .NET API Reference
-description: PageSettings 属性。获取或设置页面的打印机分辨率
+title: "PageSettings.PrinterResolution"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PageSettings 属性。获取或设置页面的打印机分辨率"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.printing/pagesettings/printerresolution/
 ---
-## PageSettings.PrinterResolution 属性
+## PageSettings.PrinterResolution property
 
 获取或设置页面的打印机分辨率。
 
@@ -20,3 +20,5 @@ public PrinterResolution PrinterResolution { get; set; }
 * class [PageSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: Artifact.SetImage
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact 方法。设置工件的图像
+title: "Artifact.SetImage"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Artifact 方法。设置工件的图像"
 type: docs
 weight: 280
 url: /zh/net/aspose.pdf/artifact/setimage/
@@ -18,7 +18,7 @@ public void SetImage(Stream imageStream)
 | --- | --- | --- |
 | imageStream | Stream | 包含图像数据的流。 |
 
-### 另请参阅
+### 另请参见
 
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -38,8 +38,10 @@ public void SetImage(string imageName)
 | --- | --- | --- |
 | imageName | String | 图像文件的名称。 |
 
-### 另请参阅
+### 另请参见
 
 * class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

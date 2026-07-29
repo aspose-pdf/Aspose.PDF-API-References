@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchema.DefaultPropertyNamespacePrefix
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema 字段。默认属性命名空间前缀
+title: "XmpPdfAExtensionSchema.DefaultPropertyNamespacePrefix"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpPdfAExtensionSchema 字段。默认属性命名空间前缀"
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf/xmppdfaextensionschema/defaultpropertynamespaceprefix/
 ---
-## XmpPdfAExtensionSchema.DefaultPropertyNamespacePrefix 字段
+## XmpPdfAExtensionSchema.DefaultPropertyNamespacePrefix field
 
 默认属性命名空间前缀。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/xmppdfaextensionschema/defaultpropertynamespaceprefix/
 public const string DefaultPropertyNamespacePrefix;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XmpPdfAExtensionSchema](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

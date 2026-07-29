@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.SetAuxiliaryColour
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DRenderMode 方法。设置辅助颜色
+title: "PDF3DRenderMode.SetAuxiliaryColour"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PDF3DRenderMode 方法。设置辅助颜色"
 type: docs
 weight: 210
 url: /zh/net/aspose.pdf.annotations/pdf3drendermode/setauxiliarycolour/
 ---
-## PDF3DRenderMode.SetAuxiliaryColour 方法
+## PDF3DRenderMode.SetAuxiliaryColour method
 
 设置辅助颜色。
 
@@ -16,15 +16,17 @@ public PDF3DRenderMode SetAuxiliaryColour(Color color)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| color | Color | 颜色。 |
+| 颜色 | Color | 颜色。 |
 
 ### 返回值
 
-PDF3DRenderMode。
+PDF3DRenderMode.
 
-### 另请参阅
+### 另请参见
 
-* 类 [Color](../../../aspose.pdf/color/)
-* 类 [PDF3DRenderMode](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

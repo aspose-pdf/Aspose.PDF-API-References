@@ -1,21 +1,23 @@
 ---
-title: CompletionResponse.Created
-second_title: Aspose.PDF for .NET API Reference
-description: CompletionResponse 属性。获取或设置聊天完成创建时的 Unix 时间戳（以秒为单位）
+title: "CompletionResponse.Created"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CompletionResponse 属性。获取或设置聊天完成创建时的 Unix 时间戳（秒）"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.ai/completionresponse/created/
 ---
-## CompletionResponse.Created 属性
+## CompletionResponse.Created property
 
-获取或设置聊天完成创建时的 Unix 时间戳（以秒为单位）。
+获取或设置聊天完成创建时的 Unix 时间戳（秒）。
 
 ```csharp
 public long Created { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [CompletionResponse](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CompletionResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

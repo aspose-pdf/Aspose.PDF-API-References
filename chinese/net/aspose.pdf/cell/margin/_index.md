@@ -1,22 +1,24 @@
 ---
-title: Cell.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: 单元格属性。获取或设置内边距
+title: "Cell.Margin"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Cell 属性。获取或设置填充"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf/cell/margin/
 ---
-## Cell.Margin 属性
+## Cell.Margin property
 
-获取或设置内边距。
+获取或设置填充。
 
 ```csharp
 public MarginInfo Margin { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [MarginInfo](../../margininfo/)
 * class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

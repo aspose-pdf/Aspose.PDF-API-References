@@ -1,14 +1,14 @@
 ---
-title: Class Measure.NumberFormatList
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.MeasureNumberFormatList 类。表示数字格式列表
+title: "类 Measure.NumberFormatList"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.MeasureNumberFormatList 类。表示数字格式的列表。"
 type: docs
-weight: 2060
+weight: 2150
 url: /zh/net/aspose.pdf.annotations/measure.numberformatlist/
 ---
-## Measure.NumberFormatList 类
+## Measure.NumberFormatList class
 
-表示数字格式列表。
+表示数字格式的列表。
 
 ```csharp
 public class NumberFormatList
@@ -24,19 +24,21 @@ public class NumberFormatList
 
 | 名称 | 描述 |
 | --- | --- |
-| [Count](../../aspose.pdf.annotations/measure.numberformatlist/count) { get; } | 列表中项目的数量。 |
+| [Count](../../aspose.pdf.annotations/measure.numberformatlist/count) { get; } | 列表中项目的计数。 |
 | [Item](../../aspose.pdf.annotations/measure.numberformatlist/item) { get; set; } | 通过索引获取或设置列表中的数字格式。 |
 
 ## 方法
 
 | 名称 | 描述 |
 | --- | --- |
-| [Add](../../aspose.pdf.annotations/measure.numberformatlist/add)(NumberFormat) | 将数字格式添加到列表中。 |
-| [Insert](../../aspose.pdf.annotations/measure.numberformatlist/insert)(int, NumberFormat) | 将数字格式插入到列表中。 |
+| [Add](../../aspose.pdf.annotations/measure.numberformatlist/add)(NumberFormat) | 向列表添加数字格式。 |
+| [Insert](../../aspose.pdf.annotations/measure.numberformatlist/insert)(int, NumberFormat) | 在列表中插入数字格式。 |
 | [RemoveAt](../../aspose.pdf.annotations/measure.numberformatlist/removeat)(int) | 从列表中移除数字格式。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Measure](../measure/)
-* 命名空间 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../)
+* class [Measure](../measure/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

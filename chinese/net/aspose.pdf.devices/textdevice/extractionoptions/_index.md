@@ -1,12 +1,12 @@
 ---
-title: TextDevice.ExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TextDevice 属性。获取或设置文本提取选项
+title: "TextDevice.ExtractionOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextDevice 属性。获取或设置文本提取选项"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.devices/textdevice/extractionoptions/
 ---
-## TextDevice.ExtractionOptions 属性
+## TextDevice.ExtractionOptions property
 
 获取或设置文本提取选项。
 
@@ -16,25 +16,27 @@ public TextExtractionOptions ExtractionOptions { get; set; }
 
 ## 示例
 
-该示例演示如何按原始顺序提取文本。
+示例演示如何以原始顺序提取文本。
 
 ```csharp
 Document doc = new Document(inFile);
 string extractedText;
 
-// create text device
+// 创建文本设备
 TextDevice device = new TextDevice(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Raw));
 
-// convert the page and save text to the stream
+// 转换页面并将文本保存到流中
 device.Process(doc.Pages[1], outFile);
 
-// use the extracted text
+// 使用提取的文本
 extractedText = File.ReadAllText(outFile, Encoding.Unicode); 
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
-* 类 [TextDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
+* class [TextDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

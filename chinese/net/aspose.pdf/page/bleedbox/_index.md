@@ -1,14 +1,14 @@
 ---
-title: Page.BleedBox
-second_title: Aspose.PDF for .NET API Reference
-description: 页面属性。获取或设置页面的出血框
+title: "Page.BleedBox"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Page 属性。获取或设置页面的出血框。"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf/page/bleedbox/
 ---
-## Page.BleedBox 属性
+## Page.BleedBox property
 
-获取或设置页面的出血框。
+获取或设置页面的 bleed box。
 
 ```csharp
 public Rectangle BleedBox { get; set; }
@@ -23,9 +23,11 @@ Document document = new Document("sample.pdf");
 Rectangle bleedBox = document.Pages[1].BleedBox;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Rectangle](../../rectangle/)
-* 类 [Page](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

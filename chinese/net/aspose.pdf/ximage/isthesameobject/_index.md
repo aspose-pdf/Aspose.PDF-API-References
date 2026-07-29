@@ -1,14 +1,14 @@
 ---
-title: XImage.IsTheSameObject
-second_title: Aspose.PDF for .NET API Reference
-description: XImage 方法。如果两个图像引用同一个对象，则返回 true
+title: "XImage.IsTheSameObject"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XImage 方法。若两个图像引用同一对象则返回 true。"
 type: docs
-weight: 130
+weight: 140
 url: /zh/net/aspose.pdf/ximage/isthesameobject/
 ---
-## XImage.IsTheSameObject 方法
+## XImage.IsTheSameObject method
 
-如果两个图像引用同一个对象，则返回 true。
+如果两个图像引用同一对象则返回 true。
 
 ```csharp
 public bool IsTheSameObject(XImage image)
@@ -16,14 +16,16 @@ public bool IsTheSameObject(XImage image)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| image | XImage | 要与“this”图像进行比较的图像。 |
+| 图像 | XImage | 用于与 "this" 图像比较的图像。 |
 
 ### 返回值
 
-如果图像引用同一个对象，则返回 true 的布尔值。
+如果图像引用同一对象，则为 true 的布尔值。
 
-### 另请参阅
+### 另请参见
 
-* 类 [XImage](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

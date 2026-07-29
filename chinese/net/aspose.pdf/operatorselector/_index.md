@@ -1,14 +1,14 @@
 ---
-title: Class OperatorSelector
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.OperatorSelector 类。此类用于使用访问者模板思想选择操作符
+title: "类 OperatorSelector"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.OperatorSelector 类。此类用于使用 Visitor 模板思想选择运算符。"
 type: docs
-weight: 7090
+weight: 7230
 url: /zh/net/aspose.pdf/operatorselector/
 ---
-## OperatorSelector 类
+## OperatorSelector class
 
-此类用于使用访问者模板思想选择操作符。
+此类用于使用 Visitor 模板思想选择运算符。
 
 ```csharp
 public sealed class OperatorSelector : IOperatorSelector
@@ -25,33 +25,33 @@ public sealed class OperatorSelector : IOperatorSelector
 
 | 名称 | 描述 |
 | --- | --- |
-| [Selected](../../aspose.pdf/operatorselector/selected/) { get; } | 选定对象的列表。 |
+| [Selected](../../aspose.pdf/operatorselector/selected/) { get; } | 已选择对象的列表。 |
 
 ## 方法
 
 | 名称 | 描述 |
 | --- | --- |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit)(BDC) | 访问/选择 BDC 操作符。 |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_1)(BI) | 访问/选择 BI 操作符。 |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_2)(BMC) | 访问/选择 BMC 操作符。 |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_3)(BT) | 访问/选择 BT 操作符。 |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_4)(BX) | 访问/选择 BX 操作符。 |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_5)(Clip) | 访问/选择 W 操作符。 |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_6)(ClosePath) | 访问/选择 h 操作符。 |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_7)(ClosePathEOFillStroke) | 访问/选择 b* 操作符。 |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_8)(ClosePathFillStroke) | 访问/选择 b 操作符。 |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_9)(ClosePathStroke) | 访问/选择 s 操作符。 |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_10)(ConcatenateMatrix) | 访问/选择 cm 操作符。 |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_11)(CurveTo) | 访问/选择 c 操作符。 |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_12)(CurveTo1) | 访问/选择 v 操作符。 |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_13)(CurveTo2) | 访问/选择 y 操作符。 |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_14)(Do) | 访问/选择 Do 操作符。 |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_15)(DP) | 访问/选择 DP 操作符。 |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit)(BDC) | 访问/选择 BDC 运算符。 |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_1)(BI) | 访问/选择 BI 运算符。 |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_2)(BMC) | 访问/选择 BMC 运算符。 |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_3)(BT) | 访问/选择 BT 运算符。 |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_4)(BX) | 访问/选择 BX 运算符。 |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_5)(Clip) | 访问/选择 W 运算符。 |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_6)(ClosePath) | 访问/选择 h 运算符。 |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_7)(ClosePathEOFillStroke) | 访问/选择 b* 运算符。 |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_8)(ClosePathFillStroke) | 访问/选择 b 运算符。 |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_9)(ClosePathStroke) | 访问/选择 s 运算符。 |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_10)(ConcatenateMatrix) | 访问/选择 cm 运算符。 |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_11)(CurveTo) | 访问/选择 c 运算符。 |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_12)(CurveTo1) | 访问/选择 v 运算符。 |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_13)(CurveTo2) | 访问/选择 y 运算符。 |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_14)(Do) | 访问/选择 Do 运算符。 |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_15)(DP) | 访问/选择 DP 运算符。 |
 | [Visit](../../aspose.pdf/operatorselector/visit/#visit_16)(EI) | 访问/选择 EI 操作符。 |
 | [Visit](../../aspose.pdf/operatorselector/visit/#visit_17)(EMC) | 访问/选择 EMC 操作符。 |
 | [Visit](../../aspose.pdf/operatorselector/visit/#visit_18)(EndPath) | 访问/选择 n 操作符。 |
 | [Visit](../../aspose.pdf/operatorselector/visit/#visit_19)(EOClip) | 访问/选择 W* 操作符。 |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_20)(EOFill) | 访问/选择操作符 f*。 |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_20)(EOFill) | 访问/选择 操作符 f*。 |
 | [Visit](../../aspose.pdf/operatorselector/visit/#visit_21)(EOFillStroke) | 访问/选择 B* 操作符。 |
 | [Visit](../../aspose.pdf/operatorselector/visit/#visit_22)(ET) | 访问/选择 ET 操作符。 |
 | [Visit](../../aspose.pdf/operatorselector/visit/#visit_23)(EX) | 访问/选择 EX 操作符。 |
@@ -104,10 +104,12 @@ public sealed class OperatorSelector : IOperatorSelector
 | [Visit](../../aspose.pdf/operatorselector/visit/#visit_70)(ShFill) | 访问/选择 sh 操作符。 |
 | [Visit](../../aspose.pdf/operatorselector/visit/#visit_71)(ShowText) | 访问/选择 Tj 操作符。 |
 | [Visit](../../aspose.pdf/operatorselector/visit/#visit_72)(Stroke) | 访问/选择 S 操作符。 |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_73)(TextOperator) | 访问/选择任何文本操作符。 |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_73)(TextOperator) | 访问/选择 任意文本操作符。 |
 
 ### 另请参见
 
-* 接口 [IOperatorSelector](../ioperatorselector/)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* interface [IOperatorSelector](../ioperatorselector/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

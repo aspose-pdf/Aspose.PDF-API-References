@@ -1,22 +1,24 @@
 ---
-title: WatermarkAnnotation.FixedPrint
-second_title: Aspose.PDF for .NET API Reference
-description: WatermarkAnnotation 属性。水印注释的固定打印对象
+title: "WatermarkAnnotation.FixedPrint"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "WatermarkAnnotation 属性。Watermark 注释的 FixedPrint 对象"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.annotations/watermarkannotation/fixedprint/
 ---
-## WatermarkAnnotation.FixedPrint 属性
+## WatermarkAnnotation.FixedPrint property
 
-水印注释的固定打印对象。
+Watermark 批注的固定打印对象。
 
 ```csharp
 public FixedPrint FixedPrint { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FixedPrint](../../fixedprint/)
-* 类 [WatermarkAnnotation](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FixedPrint](../../fixedprint/)
+* class [WatermarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

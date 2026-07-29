@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature.GetSignatureNames
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature 方法。获取所有非空签名的名称
+title: "PdfFileSignature.GetSignatureNames"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileSignature 方法。获取所有非空签名的名称"
 type: docs
 weight: 210
 url: /zh/net/aspose.pdf.facades/pdffilesignature/getsignaturenames/
 ---
-## PdfFileSignature.GetSignatureNames 方法
+## PdfFileSignature.GetSignatureNames method
 
 获取所有非空签名的名称。
 
@@ -16,11 +16,11 @@ public IList<SignatureName> GetSignatureNames(bool onlyActive = true)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| onlyActive | 布尔值 | 如果为 true，则仅返回活动签名；否则，返回所有签名。 |
+| onlyActive | Boolean | 如果为 true，则仅返回活动签名；否则，返回所有签名。 |
 
 ### 返回值
 
-返回 IList&lt;SignatureName&gt;。
+返回一个 IList&lt;SignatureName&gt;。
 
 ## 示例
 
@@ -59,9 +59,11 @@ Next i
 Console.WriteLine("totalvision:" + pdfSign.GetTotalRevision())
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [SignatureName](../../signaturename/)
-* 类 [PdfFileSignature](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TiffDevice.RenderingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: TiffDevice 属性。获取或设置渲染选项
+title: "TiffDevice.RenderingOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TiffDevice 属性。获取或设置渲染选项"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.devices/tiffdevice/renderingoptions/
 ---
-## TiffDevice.RenderingOptions 属性
+## TiffDevice.RenderingOptions property
 
 获取或设置渲染选项。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.devices/tiffdevice/renderingoptions/
 public RenderingOptions RenderingOptions { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [RenderingOptions](../../../aspose.pdf/renderingoptions/)
 * class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

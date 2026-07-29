@@ -1,14 +1,14 @@
 ---
-title: TextMarkupAnnotation.GetMarkedTextFragments
-second_title: Aspose.PDF for .NET API Reference
-description: TextMarkupAnnotation 方法。获取标记注释下的文本作为 TextFragmentCollection
+title: "TextMarkupAnnotation.GetMarkedTextFragments"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextMarkupAnnotation 方法。获取标记注释下的文本，作为 TextFragmentCollection"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.annotations/textmarkupannotation/getmarkedtextfragments/
 ---
-## TextMarkupAnnotation.GetMarkedTextFragments 方法
+## TextMarkupAnnotation.GetMarkedTextFragments method
 
-获取标记注释下的文本作为 [`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection/)。
+获取标记注释下的文本，作为 [`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection/)。
 
 ```csharp
 public TextFragmentCollection GetMarkedTextFragments()
@@ -16,11 +16,13 @@ public TextFragmentCollection GetMarkedTextFragments()
 
 ### 返回值
 
-包含 [`TextFragment`](../../../aspose.pdf.text/textfragment/) 的 [`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection/)，该文本位于标记注释下。
+[`TextFragmentCollection`](../../../aspose.pdf.text/textfragmentcollection/) containing [`TextFragment`](../../../aspose.pdf.text/textfragment/)s that is under markup annotation.
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextFragmentCollection](../../../aspose.pdf.text/textfragmentcollection/)
-* 类 [TextMarkupAnnotation](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextFragmentCollection](../../../aspose.pdf.text/textfragmentcollection/)
+* class [TextMarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

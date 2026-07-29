@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithDocument
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions 方法。将文本文档添加到聊天助手选项的文档集合中
+title: "OpenAIChatCopilotOptions.WithDocument"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAIChatCopilotOptions 方法。向聊天副驾驶选项的文档集合中添加文本文档"
 type: docs
-weight: 100
+weight: 110
 url: /zh/net/aspose.pdf.ai/openaichatcopilotoptions/withdocument/
 ---
 ## WithDocument(TextDocument) {#withdocument_1}
 
-将文本文档添加到聊天助手选项的文档集合中。
+向聊天副驾驶选项的文档集合添加文本文档。
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocument(TextDocument textDocument)
@@ -22,18 +22,18 @@ public OpenAIChatCopilotOptions WithDocument(TextDocument textDocument)
 
 当前的 [`OpenAIChatCopilotOptions`](../) 实例。
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextDocument](../../textdocument/)
-* 类 [OpenAIChatCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextDocument](../../textdocument/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocument(PdfDocument) {#withdocument}
 
-将 PDF 文档添加到聊天助手选项的文档集合中。
+向聊天副驾驶选项的 Document 集合中添加 PDF Document。
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocument(PdfDocument pdfDocument)
@@ -47,18 +47,18 @@ public OpenAIChatCopilotOptions WithDocument(PdfDocument pdfDocument)
 
 当前的 [`OpenAIChatCopilotOptions`](../) 实例。
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfDocument](../../pdfdocument/)
-* 类 [OpenAIChatCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfDocument](../../pdfdocument/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocument(string) {#withdocument_2}
 
-将文档路径添加到聊天助手选项的文档集合中。
+向聊天副驾驶选项的文档集合添加文档路径。
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocument(string filePath)
@@ -72,8 +72,10 @@ public OpenAIChatCopilotOptions WithDocument(string filePath)
 
 当前的 [`OpenAIChatCopilotOptions`](../) 实例。
 
-### 另请参阅
+### 另请参见
 
-* 类 [OpenAIChatCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

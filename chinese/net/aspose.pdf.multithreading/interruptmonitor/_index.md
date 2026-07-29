@@ -1,41 +1,43 @@
 ---
-title: Class InterruptMonitor
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Multithreading.InterruptMonitor 类。表示有关中断的信息
+title: "类 InterruptMonitor"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Multithreading.InterruptMonitor 类。表示中断信息"
 type: docs
-weight: 7000
+weight: 7140
 url: /zh/net/aspose.pdf.multithreading/interruptmonitor/
 ---
 ## InterruptMonitor class
 
-表示有关中断的信息。
+表示中断信息。
 
 ```csharp
 public class InterruptMonitor : IInterruptMonitor
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [InterruptMonitor](interruptmonitor/)() | 默认构造函数。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [CancellationToken](../../aspose.pdf.multithreading/interruptmonitor/cancellationtoken/) { get; } | 监视器的取消令牌，用于进程中断。默认情况下，每个 IInterruptMonitor 生成自己的 cancellationSource。 |
+| [CancellationToken](../../aspose.pdf.multithreading/interruptmonitor/cancellationtoken/) { get; } | 用于进程中断的监视器取消令牌。默认情况下，每个 IInterruptMonitor 会生成其自己的 cancellationSource。 |
 | static [ThreadLocalInstance](../../aspose.pdf.multithreading/interruptmonitor/threadlocalinstance/) { get; set; } | 获取或设置每个线程唯一的 IInterruptMonitor 实例。 |
 
-## Methods
+## 方法
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [Dispose](../../aspose.pdf.multithreading/interruptmonitor/dispose/)() | 释放使用的资源。 |
-| virtual [Interrupt](../../aspose.pdf.multithreading/interruptmonitor/interrupt/)() | 发送中断操作的请求。 |
+| virtual [Interrupt](../../aspose.pdf.multithreading/interruptmonitor/interrupt/)() | 发送请求以中断操作。 |
 
-### See Also
+### 另请参见
 
 * interface [IInterruptMonitor](../iinterruptmonitor/)
 * namespace [Aspose.Pdf.Multithreading](../../aspose.pdf.multithreading/)
 * assembly [Aspose.PDF](../../)
+
+

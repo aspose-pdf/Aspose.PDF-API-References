@@ -1,12 +1,12 @@
 ---
-title: BLSTextElement.StructureTextState
-second_title: Aspose.PDF for .NET API Reference
-description: BLSTextElement 属性。获取当前元素的 StructureTextState 对象
+title: "BLSTextElement.StructureTextState"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BLSTextElement 属性。获取当前元素的 StructureTextState 对象"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.logicalstructure/blstextelement/structuretextstate/
 ---
-## BLSTextElement.StructureTextState 属性
+## BLSTextElement.StructureTextState property
 
 获取当前元素的 StructureTextState 对象。
 
@@ -14,13 +14,15 @@ url: /zh/net/aspose.pdf.logicalstructure/blstextelement/structuretextstate/
 public StructureTextState StructureTextState { get; }
 ```
 
-### 属性值
+### Property Value
 
 当前元素的 StructureTextState 对象。
 
-### 另请参阅
+### 另请参见
 
-* 类 [StructureTextState](../../structuretextstate/)
-* 类 [BLSTextElement](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [StructureTextState](../../structuretextstate/)
+* class [BLSTextElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

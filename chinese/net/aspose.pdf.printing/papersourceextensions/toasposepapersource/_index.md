@@ -1,12 +1,12 @@
 ---
-title: PaperSourceExtensions.ToAsposePaperSource
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSourceExtensions 方法。将 Windows 特定的 System.Drawing.Printing.PaperSource 转换为 PaperSource
+title: "PaperSourceExtensions.ToAsposePaperSource"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PaperSourceExtensions 方法。将 Windows 特定的 System.Drawing.Printing.PaperSource 转换为 PaperSource"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.printing/papersourceextensions/toasposepapersource/
 ---
-## PaperSourceExtensions.ToAsposePaperSource 方法
+## PaperSourceExtensions.ToAsposePaperSource method
 
 将 Windows 特定的 System.Drawing.Printing.PaperSource 转换为 [`PaperSource`](../../papersource/)。
 
@@ -16,15 +16,17 @@ public static PaperSource ToAsposePaperSource(this PaperSource nativeSource)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| nativeSource | PaperSource | 要转换的 Windows 纸张源。 |
+| nativeSource | PaperSource | 要转换的 Windows 纸张来源。 |
 
 ### 返回值
 
-转换后的纸张源。
+已转换的纸张来源。
 
-### 另请参阅
+### 另请参见
 
-* 类 [PaperSource](../../papersource/)
-* 类 [PaperSourceExtensions](../)
-* 命名空间 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PaperSource](../../papersource/)
+* class [PaperSourceExtensions](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

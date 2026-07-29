@@ -1,21 +1,23 @@
 ---
-title: PageSize.PageLegal
-second_title: Aspose.PDF for .NET API Reference
-description: PageSize 属性。法律尺寸 356x216 毫米
+title: "PageSize.PageLegal"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PageSize 属性。Legal 大小 356x216 mm"
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf/pagesize/pagelegal/
 ---
-## PageSize.PageLegal 属性
+## PageSize.PageLegal property
 
-法律尺寸 (356x216 毫米)。
+Legal 尺寸 (356x216 mm)。
 
 ```csharp
 public static PageSize PageLegal { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PageSize](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageSize](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

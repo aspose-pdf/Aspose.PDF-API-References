@@ -1,21 +1,23 @@
 ---
-title: Form.SignaturesExist
-second_title: Aspose.PDF for .NET API Reference
-description: 表单属性。如果设置，文档包含至少一个签名字段
+title: "Form.SignaturesExist"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Form 属性。设置后文档至少包含一个签名字段。"
 type: docs
-weight: 140
+weight: 160
 url: /zh/net/aspose.pdf.forms/form/signaturesexist/
 ---
-## Form.SignaturesExist 属性
+## Form.SignaturesExist property
 
-如果设置，文档包含至少一个签名字段。
+如果设置此属性，文档至少包含一个签名字段。
 
 ```csharp
 public bool SignaturesExist { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Form](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

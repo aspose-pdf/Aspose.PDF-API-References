@@ -1,14 +1,14 @@
 ---
-title: Enum LineEnding
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.LineEnding 枚举。枚举用于绘制线条的行结束样式
+title: "枚举 LineEnding"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.LineEnding 枚举。枚举用于绘制线条的线端样式。"
 type: docs
-weight: 1990
+weight: 2080
 url: /zh/net/aspose.pdf.annotations/lineending/
 ---
-## LineEnding 枚举
+## LineEnding enumeration
 
-枚举用于绘制线条的行结束样式。
+枚举绘制线条时使用的线端样式。
 
 ```csharp
 public enum LineEnding
@@ -18,18 +18,20 @@ public enum LineEnding
 
 | 名称 | 值 | 描述 |
 | --- | --- | --- |
-| None | `0` | 无行结束。 |
-| Square | `1` | 用注释的内部颜色填充的正方形（如果有）。 |
-| Circle | `2` | 用注释的内部颜色填充的圆形（如果有）。 |
-| Diamond | `3` | 用注释的内部颜色填充的菱形（如果有）。 |
-| OpenArrow | `4` | 两条短线在锐角处相交，形成一个开放的箭头。 |
-| ClosedArrow | `5` | 两条短线在锐角处相交，如同 OpenArrow 风格，并通过第三条线连接，形成一个用注释的内部颜色填充的三角形封闭箭头（如果有）。 |
-| Butt | `6` | 在端点处与线本身垂直的短线。 |
-| ROpenArrow | `7` | 两条短线与 OpenArrow 方向相反。 |
-| RClosedArrow | `8` | 与 ClosedArrow 方向相反的三角形封闭箭头。 |
-| Slash | `9` | 在端点处大约与线本身垂直方向顺时针 30 度的短线。 |
+| None | `0` | 无线端。 |
+| Square | `1` | 一个填充了注释内部颜色（如果有）的方形。 |
+| Circle | `2` | 一个填充了注释内部颜色（如果有）的圆形。 |
+| Diamond | `3` | 一个填充了注释内部颜色（如果有）的菱形。 |
+| OpenArrow | `4` | 两条短线以锐角相交，形成一个开放的箭头。 |
+| ClosedArrow | `5` | 两条短线以锐角相交（如 OpenArrow 样式），并由第三条线连接，形成一个三角形的闭合箭头，若有注释的内部颜色则填充该颜色。 |
+| Butt | `6` | 在端点处有一条与该线垂直的短线。 |
+| ROpenArrow | `7` | 两条短线的方向与 OpenArrow 相反。 |
+| RClosedArrow | `8` | 一个三角形的闭合箭头，其方向与 ClosedArrow 相反。 |
+| Slash | `9` | 在端点处有一条大约相对于该线垂直顺时针 30 度的短线。 |
 
 ### 另请参见
 
-* 命名空间 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

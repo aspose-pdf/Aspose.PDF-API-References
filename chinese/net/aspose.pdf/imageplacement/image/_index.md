@@ -1,12 +1,12 @@
 ---
-title: ImagePlacement.Image
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacement 属性。获取相关的 XImage 资源对象
+title: "ImagePlacement.Image"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ImagePlacement 属性。获取相关的 XImage 资源对象"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/imageplacement/image/
 ---
-## ImagePlacement.Image 属性
+## ImagePlacement.Image property
 
 获取相关的 XImage 资源对象。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf/imageplacement/image/
 public XImage Image { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XImage](../../ximage/)
-* 类 [ImagePlacement](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XImage](../../ximage/)
+* class [ImagePlacement](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

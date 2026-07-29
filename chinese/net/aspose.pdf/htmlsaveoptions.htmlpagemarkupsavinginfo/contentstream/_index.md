@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.HtmlPageMarkupSavingInfo.ContentStream
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlPageMarkupSavingInfo 字段。由转换器设置。表示保存的 HTML 作为流
+title: "HtmlSaveOptions.HtmlPageMarkupSavingInfo.ContentStream"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "HtmlPageMarkupSavingInfo 字段。由转换器设置。表示已保存的 HTML 为流。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/contentstream/
 ---
-## HtmlSaveOptions.HtmlPageMarkupSavingInfo.ContentStream 字段
+## HtmlSaveOptions.HtmlPageMarkupSavingInfo.ContentStream field
 
-由转换器设置。表示保存的 HTML 作为流
+由转换器设置。表示已保存的 HTML 作为流。
 
 ```csharp
 public Stream ContentStream;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [HtmlPageMarkupSavingInfo](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [HtmlPageMarkupSavingInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: BarcodeField.ECC
-second_title: Aspose.PDF for .NET API Reference
-description: BarcodeField 属性。获取一个整数值，表示错误修正系数。对于 PDF417，应在 0 到 8 之间。对于 QRCode，应在 0 到 3 之间（0 为 L，1 为 M，2 为 Q，3 为 H）。
+title: "BarcodeField.ECC"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BarcodeField property. 获取表示错误更正系数的整数值。对于 PDF417 应为 0 到 8。对于 QRCode 应为 0 到 3，0 表示 L，1 表示 M，2 表示 Q，3 表示 H"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.forms/barcodefield/ecc/
 ---
-## BarcodeField.ECC 属性
+## BarcodeField.ECC property
 
-获取一个整数值，表示错误修正系数。对于 PDF417，应在 0 到 8 之间。对于 QRCode，应在 0 到 3 之间（0 为 'L'，1 为 'M'，2 为 'Q'，3 为 'H'）。
+获取表示错误纠正系数的整数值。对于 PDF417，应在 0 到 8 之间。对于 QRCode，应在 0 到 3 之间（0 表示 'L'，1 表示 'M'，2 表示 'Q'，3 表示 'H'）。
 
 ```csharp
 public int ECC { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [BarcodeField](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BarcodeField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

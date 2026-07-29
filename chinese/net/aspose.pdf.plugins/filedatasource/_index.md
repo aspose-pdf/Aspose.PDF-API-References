@@ -1,34 +1,36 @@
 ---
-title: Class FileDataSource
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FileDataSource 类。表示插件的加载和保存操作的文件数据源
+title: "类 FileDataSource"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.FileDataSource 类。表示插件的加载和保存操作的文件数据源"
 type: docs
-weight: 8550
+weight: 8680
 url: /zh/net/aspose.pdf.plugins/filedatasource/
 ---
 ## FileDataSource class
 
-表示插件的加载和保存操作的文件数据源。
+表示插件加载和保存操作的文件数据源。
 
 ```csharp
 public sealed class FileDataSource : IDataSource
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [FileDataSource](filedatasource/)(string) | 使用指定路径初始化新的文件数据源。 |
+| [FileDataSource](filedatasource/)(string) | 使用指定的路径初始化新的文件数据源。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [DataType](../../aspose.pdf.plugins/filedatasource/datatype/) { get; } | 数据源的类型（文件）。 |
+| [DataType](../../aspose.pdf.plugins/filedatasource/datatype/) { get; } | 数据源类型（文件）。 |
 | [Path](../../aspose.pdf.plugins/filedatasource/path/) { get; } | 获取当前数据源文件的路径。 |
 
-### See Also
+### 另请参见
 
 * interface [IDataSource](../idatasource/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

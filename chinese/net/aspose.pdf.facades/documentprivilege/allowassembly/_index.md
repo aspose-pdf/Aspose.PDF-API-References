@@ -1,21 +1,23 @@
 ---
-title: DocumentPrivilege.AllowAssembly
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege 属性。设置允许或不允许组装的权限。true 表示允许，false 表示禁止
+title: "DocumentPrivilege.AllowAssembly"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "DocumentPrivilege property. 设置是否允许组装的权限。true 表示允许，false 表示禁止。"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.facades/documentprivilege/allowassembly/
 ---
-## DocumentPrivilege.AllowAssembly 属性
+## DocumentPrivilege.AllowAssembly property
 
-设置允许或不允许组装的权限。true 表示允许，false 表示禁止。
+设置是否允许组装的权限。true 表示允许，false 表示禁止。
 
 ```csharp
 public bool AllowAssembly { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [DocumentPrivilege](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

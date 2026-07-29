@@ -1,14 +1,14 @@
 ---
-title: GraphicElementCollection.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElementCollection 方法。获取此集合的字符串表示
+title: "GraphicElementCollection.ToString"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GraphicElementCollection 方法。获取此集合的字符串表示形式"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.vector/graphicelementcollection/tostring/
 ---
-## GraphicElementCollection.ToString 方法
+## GraphicElementCollection.ToString method
 
-获取此集合的字符串表示。
+获取此集合的字符串表示形式。
 
 ```csharp
 public override string ToString()
@@ -18,8 +18,10 @@ public override string ToString()
 
 字符串。
 
-### 另请参阅
+### 另请参见
 
-* 类 [GraphicElementCollection](../)
-* 命名空间 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* 程序集 [Aspose.PDF](../../../)
+* class [GraphicElementCollection](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

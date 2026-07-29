@@ -1,12 +1,12 @@
 ---
-title: StructureAttributes.Owner
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttributes 属性。获取标准属性所有者
+title: "StructureAttributes.Owner"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "StructureAttributes 属性。获取标准属性所有者"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.logicalstructure/structureattributes/owner/
 ---
-## StructureAttributes.Owner 属性
+## StructureAttributes.Owner property
 
 获取标准属性所有者。
 
@@ -14,13 +14,15 @@ url: /zh/net/aspose.pdf.logicalstructure/structureattributes/owner/
 public AttributeOwnerStandard Owner { get; }
 ```
 
-### 属性值
+### Property Value
 
 标准属性所有者。
 
-### 另请参阅
+### 另请参见
 
 * class [AttributeOwnerStandard](../../attributeownerstandard/)
 * class [StructureAttributes](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

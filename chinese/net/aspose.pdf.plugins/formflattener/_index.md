@@ -1,9 +1,9 @@
 ---
-title: Class FormFlattener
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormFlattener class. 表示 FormFlattener 插件
+title: "类 FormFlattener"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "类 Aspose.Pdf.Plugins.FormFlattener。表示 FormFlattener 插件。"
 type: docs
-weight: 8750
+weight: 8880
 url: /zh/net/aspose.pdf.plugins/formflattener/
 ---
 ## FormFlattener class
@@ -14,20 +14,22 @@ url: /zh/net/aspose.pdf.plugins/formflattener/
 public sealed class FormFlattener : IPlugin
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [FormFlattener](formflattener/)() | 默认构造函数。 |
 
-## Methods
+## 方法
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/formflattener/process/)(IPluginOptions) | 使用指定的参数开始 FormFlattener 处理。 |
+| [Process](../../aspose.pdf.plugins/formflattener/process/)(IPluginOptions) | 开始使用指定参数进行 FormFlattener 处理。 |
 
-### See Also
+### 另请参见
 
 * interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

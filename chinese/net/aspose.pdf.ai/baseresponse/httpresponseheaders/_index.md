@@ -1,12 +1,12 @@
 ---
-title: BaseResponse.HttpResponseHeaders
-second_title: Aspose.PDF for .NET API Reference
-description: BaseResponse 属性。获取或设置 HTTP 响应头
+title: "BaseResponse.HttpResponseHeaders"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BaseResponse 属性。获取或设置 HTTP 响应头"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.ai/baseresponse/httpresponseheaders/
 ---
-## BaseResponse.HttpResponseHeaders 属性
+## BaseResponse.HttpResponseHeaders property
 
 获取或设置 HTTP 响应头。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/baseresponse/httpresponseheaders/
 public HttpResponseHeaders HttpResponseHeaders { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [BaseResponse](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BaseResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

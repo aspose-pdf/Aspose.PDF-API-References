@@ -1,12 +1,12 @@
 ---
-title: Html.Html
-second_title: Aspose.PDF for .NET API Reference
-description: Html 构造函数。默认构造函数
+title: "Html.Html"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Html 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.plugins/html/html/
 ---
-## Html 构造函数
+## Html constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.plugins/html/html/
 public Html()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Html](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Html](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

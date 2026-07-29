@@ -1,7 +1,7 @@
 ---
-title: PageCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection 方法。将页面添加到集合中
+title: "PageCollection.Add"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PageCollection 方法。向集合添加页面"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf/pagecollection/add/
@@ -16,24 +16,24 @@ public Page Add(Page entity)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| entity | Page | 应该添加的页面。 |
+| 实体 | 页面 | 应添加的页面。 |
 
 ### 返回值
 
-添加的页面。
+已添加的页面。
 
-### 另见
+### 另请参见
 
-* 类 [Page](../../page/)
-* 类 [PageCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add() {#add}
 
-添加一个空页面。如果文档已经包含不同大小的页面，将选择出现频率最高的页面的大小。如果只有两个不同的页面，将使用第一个页面的大小。
+添加一个空白页面。如果文档已经包含尺寸不同的页面，将选择出现频率最高的页面尺寸。若仅有两种不同的页面，则使用第一页的尺寸。
 
 ```csharp
 public Page Add()
@@ -41,14 +41,14 @@ public Page Add()
 
 ### 返回值
 
-添加的页面。
+已添加的页面。
 
-### 另见
+### 另请参见
 
-* 类 [Page](../../page/)
-* 类 [PageCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -62,14 +62,14 @@ public void Add(ICollection<Page> pages)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pages | ICollection`1 | 包含所有必须添加的页面的列表。 |
+| 页面 | ICollection`1 | 包含所有必须添加的页面的列表。 |
 
-### 另见
+### 另请参见
 
-* 类 [Page](../../page/)
-* 类 [PageCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -83,11 +83,13 @@ public void Add(Page[] pages)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pages | Page[] | 将要添加的页面数组。 |
+| 页面 | Page[] | 将要添加的页面数组。 |
 
-### 另见
+### 另请参见
 
-* 类 [Page](../../page/)
-* 类 [PageCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

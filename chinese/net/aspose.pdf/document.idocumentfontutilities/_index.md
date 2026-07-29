@@ -1,14 +1,14 @@
 ---
-title: Interface Document.IDocumentFontUtilities
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DocumentIDocumentFontUtilities 接口。包含调整字体的功能
+title: "接口 Document.IDocumentFontUtilities"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.DocumentIDocumentFontUtilities 接口。提供调节字体的功能"
 type: docs
-weight: 3820
+weight: 3940
 url: /zh/net/aspose.pdf/document.idocumentfontutilities/
 ---
-## Document.IDocumentFontUtilities 接口
+## Document.IDocumentFontUtilities interface
 
-包含调整字体的功能
+提供调优字体的功能。
 
 ```csharp
 public interface IDocumentFontUtilities
@@ -18,11 +18,13 @@ public interface IDocumentFontUtilities
 
 | 名称 | 描述 |
 | --- | --- |
-| [GetAllFonts](../../aspose.pdf/document.idocumentfontutilities/getallfonts)() | 返回文档中的所有字体 |
-| [SubsetFonts](../../aspose.pdf/document.idocumentfontutilities/subsetfonts)(FontSubsetStrategy) | 对文档中的所有字体进行子集处理 |
+| [GetAllFonts](../../aspose.pdf/document.idocumentfontutilities/getallfonts)() | 返回 document 中的所有字体。 |
+| [SubsetFonts](../../aspose.pdf/document.idocumentfontutilities/subsetfonts)(FontSubsetStrategy) | 对 document 中的所有字体进行子集化。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Document](../document/)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* class [Document](../document/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

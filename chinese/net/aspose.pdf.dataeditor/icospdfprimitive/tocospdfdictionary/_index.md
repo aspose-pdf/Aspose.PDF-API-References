@@ -1,12 +1,12 @@
 ---
-title: ICosPdfPrimitive.ToCosPdfDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: ICosPdfPrimitive 方法。尝试将此实例转换为 CosPdfDictionary
+title: "ICosPdfPrimitive.ToCosPdfDictionary"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ICosPdfPrimitive 方法。尝试将此实例转换为 CosPdfDictionary"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.dataeditor/icospdfprimitive/tocospdfdictionary/
 ---
-## ICosPdfPrimitive.ToCosPdfDictionary 方法
+## ICosPdfPrimitive.ToCosPdfDictionary method
 
 尝试将此实例转换为 [`CosPdfDictionary`](../../cospdfdictionary/)。
 
@@ -16,11 +16,13 @@ public CosPdfDictionary ToCosPdfDictionary()
 
 ### 返回值
 
-如果实例不是 [`CosPdfDictionary`](../../cospdfdictionary/)，则返回 null，否则返回 [`CosPdfDictionary`](../../cospdfdictionary/)。
+如果实例不是 [`CosPdfDictionary`](../../cospdfdictionary/)，则为 null；否则为 [`CosPdfDictionary`](../../cospdfdictionary/)。
 
-### 另请参阅
+### 另请参见
 
-* 类 [CosPdfDictionary](../../cospdfdictionary/)
-* 接口 [ICosPdfPrimitive](../)
-* 命名空间 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CosPdfDictionary](../../cospdfdictionary/)
+* interface [ICosPdfPrimitive](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

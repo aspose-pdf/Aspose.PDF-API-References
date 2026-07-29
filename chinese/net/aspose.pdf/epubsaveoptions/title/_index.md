@@ -1,12 +1,12 @@
 ---
-title: EpubSaveOptions.Title
-second_title: Aspose.PDF for .NET API Reference
-description: EpubSaveOptions 属性。获取或设置 EPUB 文档标题
+title: "EpubSaveOptions.Title"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "EpubSaveOptions 属性。获取或设置 EPUB 文档标题。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/epubsaveoptions/title/
 ---
-## EpubSaveOptions.Title 属性
+## EpubSaveOptions.Title property
 
 获取或设置 EPUB 文档标题。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/epubsaveoptions/title/
 public string Title { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [EpubSaveOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [EpubSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

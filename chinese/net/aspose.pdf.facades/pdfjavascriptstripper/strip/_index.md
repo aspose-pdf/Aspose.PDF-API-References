@@ -1,14 +1,14 @@
 ---
-title: PdfJavaScriptStripper.Strip
-second_title: Aspose.PDF for .NET API Reference
-description: PdfJavaScriptStripper 方法。 从文档中移除 Java 脚本
+title: "PdfJavaScriptStripper.Strip"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfJavaScriptStripper 方法。从文档中移除 JavaScript"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.facades/pdfjavascriptstripper/strip/
 ---
 ## Strip(string, string) {#strip_1}
 
-从文档中移除 Java 脚本。
+从文档中移除 Java Script。
 
 ```csharp
 public bool Strip(string inputFile, string outputFile)
@@ -21,19 +21,19 @@ public bool Strip(string inputFile, string outputFile)
 
 ### 返回值
 
-如果 JavaScript 成功被移除，则返回 true。
+如果 JavaScript 已成功剥离，则为 true。
 
 ### 另请参见
 
-* 类 [PdfJavaScriptStripper](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfJavaScriptStripper](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Strip(Stream, Stream) {#strip}
 
-从文档中移除 Java 脚本。
+从文档中移除 Java Script。
 
 ```csharp
 public bool Strip(Stream inStream, Stream outStream)
@@ -46,10 +46,12 @@ public bool Strip(Stream inStream, Stream outStream)
 
 ### 返回值
 
-如果 JavaScript 成功被移除，则返回 true。
+如果 JavaScript 已成功剥离，则为 true。
 
 ### 另请参见
 
-* 类 [PdfJavaScriptStripper](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfJavaScriptStripper](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

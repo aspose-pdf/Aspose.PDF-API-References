@@ -1,12 +1,12 @@
 ---
-title: Enum TeXLoadResult
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.TeXLoadResult 枚举。TeX 加载和编译的结果
+title: "枚举 TeXLoadResult"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.TeXLoadResult 枚举。TeX 加载和编译的结果。"
 type: docs
-weight: 10380
+weight: 10560
 url: /zh/net/aspose.pdf/texloadresult/
 ---
-## TeXLoadResult 枚举
+## TeXLoadResult enumeration
 
 TeX 加载和编译的结果。
 
@@ -19,13 +19,15 @@ public enum TeXLoadResult
 | 名称 | 值 | 描述 |
 | --- | --- | --- |
 | NotExecuted | `0` | 加载尚未执行。 |
-| Spotless | `1` | 加载和编译的完美结果。 |
-| WarningIssued | `2` | 加载和编译时存在警告。 |
-| ErrorMessageIssued | `3` | 加载和编译时存在错误。 |
-| FatalErrorStop | `4` | 加载和编译时存在致命错误。 |
+| Spotless | `1` | 无瑕疵的加载和编译结果。 |
+| WarningIssued | `2` | 加载和编译时出现警告。 |
+| ErrorMessageIssued | `3` | 加载和编译时出现错误。 |
+| FatalErrorStop | `4` | 加载和编译时出现致命错误。 |
 | InvalidResult | `5` | 加载和编译的无效结果。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

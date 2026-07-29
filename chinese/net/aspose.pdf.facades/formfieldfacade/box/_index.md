@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.Box
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade 属性。一个矩形对象，包含字段位置
+title: "FormFieldFacade.Box"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FormFieldFacade property. 一个保存字段位置的矩形对象"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.facades/formfieldfacade/box/
 ---
-## FormFieldFacade.Box 属性
+## FormFieldFacade.Box property
 
-一个矩形对象，包含字段的位置。
+一个保存字段位置的矩形对象。
 
 ```csharp
 public Rectangle Box { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FormFieldFacade](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

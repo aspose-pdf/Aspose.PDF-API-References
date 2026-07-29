@@ -1,12 +1,12 @@
 ---
-title: PdfPageEditor.ApplyChanges
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor 方法。应用对文档页面所做的更改
+title: "PdfPageEditor.ApplyChanges"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfPageEditor 方法。对文档页面所做的更改进行应用"
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.facades/pdfpageeditor/applychanges/
 ---
-## PdfPageEditor.ApplyChanges 方法
+## PdfPageEditor.ApplyChanges method
 
 应用对文档页面所做的更改。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.facades/pdfpageeditor/applychanges/
 public void ApplyChanges()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfPageEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

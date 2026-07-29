@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.SetPrivilege
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity 方法。使用空的用户/所有者密码设置 Pdf 文件安全性。所有者密码将通过随机字符串添加。如果处理失败，将抛出异常。
+title: "PdfFileSecurity.SetPrivilege"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileSecurity 方法。使用空的用户/所有者密码设置 Pdf 文件安全。所有者密码将由随机字符串添加。如果过程失败，将抛出异常"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.facades/pdffilesecurity/setprivilege/
 ---
 ## SetPrivilege(DocumentPrivilege) {#setprivilege}
 
-使用空的用户/所有者密码设置 Pdf 文件安全性。所有者密码将通过随机字符串添加。如果处理失败，将抛出异常。
+使用空的用户/所有者密码设置 Pdf 文件的安全性。所有者密码将由随机字符串添加。处理失败时抛出异常。
 
 ```csharp
 public bool SetPrivilege(DocumentPrivilege privilege)
@@ -16,11 +16,11 @@ public bool SetPrivilege(DocumentPrivilege privilege)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| privilege | DocumentPrivilege | 设置权限。 |
+| 特权 | DocumentPrivilege | 设置特权。 |
 
 ### 返回值
 
-成功返回 true。
+成功时返回 true。
 
 ## 示例
 
@@ -38,18 +38,18 @@ Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile)
 fileSecurity.SetPrivilege(DocumentPrivilege.Print)
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [DocumentPrivilege](../../documentprivilege/)
-* 类 [PdfFileSecurity](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../../documentprivilege/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SetPrivilege(string, string, DocumentPrivilege) {#setprivilege_1}
 
-使用原始密码设置 Pdf 文件安全性。如果处理失败，将抛出异常。
+使用原始密码设置 Pdf 文件的安全性。处理失败时抛出异常。
 
 ```csharp
 public bool SetPrivilege(string userPassword, string ownerPassword, DocumentPrivilege privilege)
@@ -59,11 +59,11 @@ public bool SetPrivilege(string userPassword, string ownerPassword, DocumentPriv
 | --- | --- | --- |
 | userPassword | String | 原始用户密码。 |
 | ownerPassword | String | 原始所有者密码。 |
-| privilege | DocumentPrivilege | 设置权限。 |
+| 特权 | DocumentPrivilege | 设置特权。 |
 
 ### 返回值
 
-成功返回 true。
+成功时返回 true。
 
 ## 示例
 
@@ -81,9 +81,11 @@ Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile)
 fileSecurity.SetPrivilege(userPassword, ownerPassword, DocumentPrivilege.Print)
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [DocumentPrivilege](../../documentprivilege/)
-* 类 [PdfFileSecurity](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../../documentprivilege/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

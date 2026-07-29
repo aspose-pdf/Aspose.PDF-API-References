@@ -1,12 +1,12 @@
 ---
-title: MoveTextPositionSetLeading.MoveTextPositionSetLeading
-second_title: Aspose.PDF for .NET API Reference
-description: MoveTextPositionSetLeading 构造函数。初始化操作符
+title: "MoveTextPositionSetLeading.MoveTextPositionSetLeading"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MoveTextPositionSetLeading 构造函数。初始化运算符。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/movetextpositionsetleading/movetextpositionsetleading/
 ---
-## MoveTextPositionSetLeading 构造函数
+## MoveTextPositionSetLeading constructor
 
 初始化操作符。
 
@@ -24,3 +24,5 @@ public MoveTextPositionSetLeading(double x, double y)
 * class [MoveTextPositionSetLeading](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

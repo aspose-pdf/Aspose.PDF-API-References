@@ -1,12 +1,12 @@
 ---
-title: PdfFileInfo.ClearInfo
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo 方法。清除 PDF 文档的所有元信息
+title: "PdfFileInfo.ClearInfo"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileInfo 方法。清除 PDF 文档的所有元信息"
 type: docs
 weight: 200
 url: /zh/net/aspose.pdf.facades/pdffileinfo/clearinfo/
 ---
-## PdfFileInfo.ClearInfo 方法
+## PdfFileInfo.ClearInfo method
 
 清除 PDF 文档的所有元信息。
 
@@ -20,8 +20,10 @@ public void ClearInfo()
 
 ```
 
-### 另见
+### 另请参见
 
-* 类 [PdfFileInfo](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RadioButtonField.NoToggleToOff
-second_title: Aspose.PDF for .NET API Reference
-description: RadioButtonField 属性。获取或设置允许单选按钮没有选定值的标志。如果为 true，则始终应选择一个单选按钮；选择当前选定的按钮没有效果。如果为 false，单击选定的按钮将取消选择它，导致没有按钮被选中。
+title: "RadioButtonField.NoToggleToOff"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "RadioButtonField property. 获取或设置允许单选按钮没有选中值的标志。如果为 true，则始终只能选中一个单选按钮，选择当前已选中的按钮没有效果。如果为 false，点击已选中的按钮会取消选中，导致没有按钮被选中。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.forms/radiobuttonfield/notoggletooff/
 ---
-## RadioButtonField.NoToggleToOff 属性
+## RadioButtonField.NoToggleToOff property
 
-获取或设置允许单选按钮没有选定值的标志。如果 `true`，则始终应选择一个单选按钮；选择当前选定的按钮没有效果。如果 `false`，单击选定的按钮将取消选择它，导致没有按钮被选中。
+获取或设置允许单选按钮没有选定值的标志。如果 `true`，始终只能选中一个单选按钮；选择当前已选中的按钮不会产生任何效果。如果 `false`，点击已选中的按钮会取消选中，使所有按钮均未选中。
 
 ```csharp
 public bool NoToggleToOff { get; set; }
@@ -18,8 +18,10 @@ public bool NoToggleToOff { get; set; }
 
 某些 PDF 阅读器（包括 Adobe Acrobat）可能会忽略标志的 `false` 状态。
 
-### 另请参阅
+### 另请参见
 
-* 类 [RadioButtonField](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [RadioButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

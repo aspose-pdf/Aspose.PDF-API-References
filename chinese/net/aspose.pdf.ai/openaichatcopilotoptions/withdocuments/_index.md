@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions 方法。设置聊天助手选项的文档集合
+title: "OpenAIChatCopilotOptions.WithDocuments"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAIChatCopilotOptions 方法。设置聊天副驾驶选项的文档集合"
 type: docs
-weight: 110
+weight: 120
 url: /zh/net/aspose.pdf.ai/openaichatcopilotoptions/withdocuments/
 ---
 ## WithDocuments(DocumentCollection) {#withdocuments}
 
-设置聊天助手选项的文档集合。
+设置聊天副驾驶选项的文档集合。
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocuments(DocumentCollection documentCollection)
@@ -22,18 +22,18 @@ public OpenAIChatCopilotOptions WithDocuments(DocumentCollection documentCollect
 
 当前的 [`OpenAIChatCopilotOptions`](../) 实例。
 
-### 另请参阅
+### 另请参见
 
-* 类 [DocumentCollection](../../documentcollection/)
-* 类 [OpenAIChatCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DocumentCollection](../../documentcollection/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocuments(List&lt;TextDocument&gt;) {#withdocuments_2}
 
-将多个文本文档添加到聊天助手选项的文档集合中。
+向聊天副驾驶选项的文档集合添加多个文本文档。
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocuments(List<TextDocument> textDocuments)
@@ -47,18 +47,18 @@ public OpenAIChatCopilotOptions WithDocuments(List<TextDocument> textDocuments)
 
 当前的 [`OpenAIChatCopilotOptions`](../) 实例。
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextDocument](../../textdocument/)
-* 类 [OpenAIChatCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextDocument](../../textdocument/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocuments(List&lt;PdfDocument&gt;) {#withdocuments_1}
 
-将多个 PDF 文档添加到聊天助手选项的文档集合中。
+向聊天副驾驶选项的文档集合添加多个 PDF 文档。
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
@@ -72,18 +72,18 @@ public OpenAIChatCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
 
 当前的 [`OpenAIChatCopilotOptions`](../) 实例。
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfDocument](../../pdfdocument/)
-* 类 [OpenAIChatCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfDocument](../../pdfdocument/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocuments(List&lt;string&gt;) {#withdocuments_3}
 
-将多个文档路径添加到聊天助手选项的文档集合中。
+向聊天副驾驶选项的文档集合添加多个文档路径。
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocuments(List<string> filePaths)
@@ -97,8 +97,10 @@ public OpenAIChatCopilotOptions WithDocuments(List<string> filePaths)
 
 当前的 [`OpenAIChatCopilotOptions`](../) 实例。
 
-### 另请参阅
+### 另请参见
 
-* 类 [OpenAIChatCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XfaParserOptions.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: XfaParserOptions 属性。获取或设置页面的大小
+title: "XfaParserOptions.PageSize"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XfaParserOptions 属性。获取或设置页面的大小。"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.xfaconverter/xfaparseroptions/pagesize/
 ---
-## XfaParserOptions.PageSize 属性
+## XfaParserOptions.PageSize property
 
 获取或设置页面的大小。
 
@@ -14,12 +14,14 @@ url: /zh/net/aspose.pdf.xfaconverter/xfaparseroptions/pagesize/
 public SizeF PageSize { get; set; }
 ```
 
-### 属性值
+### Property Value
 
 页面的大小。
 
-### 另请参阅
+### 另请参见
 
-* 类 [XfaParserOptions](../)
-* 命名空间 [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XfaParserOptions](../)
+* namespace [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
+* assembly [Aspose.PDF](../../../)
+
+

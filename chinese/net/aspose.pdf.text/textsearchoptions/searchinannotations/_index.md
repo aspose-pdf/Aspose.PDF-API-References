@@ -1,21 +1,23 @@
 ---
-title: TextSearchOptions.SearchInAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: TextSearchOptions 属性。获取或设置允许在注释中搜索文本的值。 true - 文本将在注释中被搜索。 false - 注释中的文本将不会被 TextFragmentAbsorber 解析。
+title: "TextSearchOptions.SearchInAnnotations"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextSearchOptions 属性。获取或设置允许在 Annotations 中搜索文本的值。true 表示将在 Annotations 中搜索文本。false 表示 TextFragmentAbsorber 不会解析 Annotations 中的文本。"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.text/textsearchoptions/searchinannotations/
 ---
-## TextSearchOptions.SearchInAnnotations 属性
+## TextSearchOptions.SearchInAnnotations property
 
-获取或设置允许在注释中搜索文本的值。 true - 文本将在注释中被搜索。 false - 注释中的文本将不会被 TextFragmentAbsorber 解析。
+获取或设置允许在 Annotations 中搜索文本的值。true - 将在 Annotations 中搜索文本。false - TextFragmentAbsorber 不会解析 Annotations 中的文本。
 
 ```csharp
 public bool SearchInAnnotations { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextSearchOptions](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextSearchOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

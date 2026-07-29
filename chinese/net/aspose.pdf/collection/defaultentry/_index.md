@@ -1,12 +1,12 @@
 ---
-title: Collection.DefaultEntry
-second_title: Aspose.PDF for .NET API Reference
-description: 集合属性。默认嵌入文件名
+title: "Collection.DefaultEntry"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Collection 属性。默认嵌入文件名"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/collection/defaultentry/
 ---
-## Collection.DefaultEntry 属性
+## Collection.DefaultEntry property
 
 默认嵌入文件名。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/collection/defaultentry/
 public string DefaultEntry { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Collection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Collection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

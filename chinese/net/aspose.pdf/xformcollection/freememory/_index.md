@@ -1,12 +1,12 @@
 ---
-title: XFormCollection.FreeMemory
-second_title: Aspose.PDF for .NET API Reference
-description: XFormCollection 方法。清除缓存数据，释放内存等
+title: "XFormCollection.FreeMemory"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XFormCollection 方法。清除缓存数据，释放内存等"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf/xformcollection/freememory/
 ---
-## XFormCollection.FreeMemory 方法
+## XFormCollection.FreeMemory method
 
 清除缓存数据，释放内存等。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/xformcollection/freememory/
 public void FreeMemory()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XFormCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

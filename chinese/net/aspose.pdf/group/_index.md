@@ -1,14 +1,14 @@
 ---
-title: Class Group
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Group 类。一个组属性类，指定用于透明成像模型的页面组的属性
+title: "类 Group"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Group 类。一个组属性类，指定用于透明成像模型的页面组的属性"
 type: docs
-weight: 5350
+weight: 5470
 url: /zh/net/aspose.pdf/group/
 ---
-## 组类
+## Group class
 
-一个组属性类，指定用于透明成像模型的页面组的属性。
+一个组属性类，指定页面组的属性，以用于透明成像模型。
 
 ```csharp
 public sealed class Group
@@ -24,9 +24,11 @@ public sealed class Group
 
 | 名称 | 描述 |
 | --- | --- |
-| [ColorSpace](../../aspose.pdf/group/colorspace/) { get; set; } | 组颜色空间。 |
+| [ColorSpace](../../aspose.pdf/group/colorspace/) { get; set; } | 组的颜色空间。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

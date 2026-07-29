@@ -1,21 +1,23 @@
 ---
-title: Document.FlattenTransparency
-second_title: Aspose.PDF for .NET API Reference
-description: 文档方法。用不透明的光栅和矢量图形替换透明内容
+title: "Document.FlattenTransparency"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 方法。将透明内容替换为非透明的光栅和矢量图形"
 type: docs
-weight: 650
+weight: 670
 url: /zh/net/aspose.pdf/document/flattentransparency/
 ---
-## Document.FlattenTransparency 方法
+## Document.FlattenTransparency method
 
-用不透明的光栅和矢量图形替换透明内容。
+将透明内容替换为非透明的光栅和矢量图形。
 
 ```csharp
 public void FlattenTransparency()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Document](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

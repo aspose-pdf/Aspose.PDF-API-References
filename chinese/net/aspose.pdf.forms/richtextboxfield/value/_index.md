@@ -1,12 +1,12 @@
 ---
-title: RichTextBoxField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: RichTextBoxField property. Value of RichTextField
+title: "RichTextBoxField.Value"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "RichTextBoxField 属性。RichTextField 的值。"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.forms/richtextboxfield/value/
 ---
-## RichTextBoxField.Value 属性
+## RichTextBoxField.Value property
 
 RichTextField 的值。
 
@@ -14,8 +14,10 @@ RichTextField 的值。
 public override string Value { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [RichTextBoxField](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [RichTextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

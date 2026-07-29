@@ -1,35 +1,37 @@
 ---
-title: Class OpenAIContext
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.OpenAIContext 类。表示与助手相关的实体 ID
+title: "类 OpenAIContext"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.OpenAIContext 类。表示与助手相关的实体 ID。"
 type: docs
-weight: 860
+weight: 920
 url: /zh/net/aspose.pdf.ai/openaicontext/
 ---
 ## OpenAIContext class
 
-表示与助手相关的实体 ID。
+表示与助理相关的实体 ID。
 
 ```csharp
 public class OpenAIContext
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [OpenAIContext](openaicontext/)() | 默认构造函数。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [AssistantId](../../aspose.pdf.ai/openaicontext/assistantid/) { get; set; } | 获取或设置助手 ID。 |
-| [FileIds](../../aspose.pdf.ai/openaicontext/fileids/) { get; set; } | 获取或设置文件 ID 列表。 |
-| [ThreadId](../../aspose.pdf.ai/openaicontext/threadid/) { get; set; } | 获取或设置线程 ID。 |
-| [VectorStoreId](../../aspose.pdf.ai/openaicontext/vectorstoreid/) { get; set; } | 获取或设置向量存储 ID。 |
+| [FileIds](../../aspose.pdf.ai/openaicontext/fileids/) { get; set; } | 获取或设置 File IDs 列表。 |
+| [ThreadId](../../aspose.pdf.ai/openaicontext/threadid/) { get; set; } | 获取或设置 Thread ID。 |
+| [VectorStoreId](../../aspose.pdf.ai/openaicontext/vectorstoreid/) { get; set; } | 获取或设置 Vector Store ID。 |
 
-### See Also
+### 另请参见
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class MhtLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.MhtLoadOptions 类。表示将 .mht 文件加载/导入到 PDF 文档的选项
+title: "类 MhtLoadOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.MhtLoadOptions 类。表示将 .mht 文件加载/导入到 PDF 文档的选项"
 type: docs
-weight: 6970
+weight: 7110
 url: /zh/net/aspose.pdf/mhtloadoptions/
 ---
-## MhtLoadOptions 类
+## MhtLoadOptions class
 
-表示将 .mht 文件加载/导入到 PDF 文档的选项。
+表示将 .mht 文件加载/导入到 pdf 文档的选项。
 
 ```csharp
 public sealed class MhtLoadOptions : LoadOptions
@@ -24,33 +24,33 @@ public sealed class MhtLoadOptions : LoadOptions
 
 | 名称 | 描述 |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | 获取或设置标志，以禁用加载文件时对所有字体的任何许可证限制。当 `true` 时，允许执行许可证禁止的字体操作，例如允许将字体嵌入 PDF 文档，即使许可证规则禁止该字体的嵌入。默认值为 `false`。 |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | 表示 [`LoadOptions`](../loadoptions/) 描述的文件格式。 |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | 获取或设置在加载文件时禁用所有字体的任何许可证限制的标志。当 `true` 时，允许执行该字体许可证禁止的操作，例如即使许可证规则禁止嵌入，也可以将字体嵌入 PDF 文档。默认值为 `false`。 |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | 表示由 [`LoadOptions`](../loadoptions/) 描述的文件格式。 |
 | [PageInfo](../../aspose.pdf/mhtloadoptions/pageinfo/) { get; } | 获取或设置文档页面信息 |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | 处理生成的任何警告的回调。WarningHandler 返回 ReturnAction 枚举项，指定继续或中止。继续是默认操作，加载操作继续进行，但用户也可以返回中止，在这种情况下，加载操作应停止。 |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | 回调用于处理生成的任何警告。WarningHandler 返回 ReturnAction 枚举项，指定 Continue 或 Abort。Continue 为默认操作，加载过程将继续；但用户也可以返回 Abort，此时加载过程应停止。 |
 
 ## 示例
 
-以下示例演示如何将 MHT 文件转换为 PDF 文件
+以下示例展示了如何将 MHT 文件转换为 PDF 文件
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// 文档目录的路径。
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your MHT File.
+	// 您的 MHT 文件的路径。
 	string mhtFile = Path.Combine(dataDir, "MHT-to-PDF.mht");
 
-	// The path to output PDF File.
+	// 输出 PDF 文件的路径。
 	string pdfFile = Path.Combine(dataDir, "MHT-to-PDF.pdf");
 
-	// Initialize MhtLoadOptions	
+	// 初始化 MhtLoadOptions
 	MhtLoadOptions mhtLoadOptions = new MhtLoadOptions();
 		
 	using (Document pdfDocument = new Document(mhtFile, mhtLoadOptions))
 	{
 	 
-		// Save PDF file
+		// 保存 PDF 文件
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -79,6 +79,8 @@ public sealed class MhtLoadOptions : LoadOptions
 	
 ### 另请参见
 
-* 类 [LoadOptions](../loadoptions/)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

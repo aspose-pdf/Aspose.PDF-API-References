@@ -1,12 +1,12 @@
 ---
-title: Form.DefaultResources
-second_title: Aspose.PDF for .NET API Reference
-description: 表单属性。获取放置在此表单上的默认资源
+title: "Form.DefaultResources"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Form 属性。获取放置在此表单上的默认资源。"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.forms/form/defaultresources/
 ---
-## Form.DefaultResources 属性
+## Form.DefaultResources property
 
 获取放置在此表单上的默认资源。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.forms/form/defaultresources/
 public Resources DefaultResources { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Resources](../../../aspose.pdf/resources/)
-* 类 [Form](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Resources](../../../aspose.pdf/resources/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

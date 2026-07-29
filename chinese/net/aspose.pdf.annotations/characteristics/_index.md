@@ -1,14 +1,14 @@
 ---
-title: Class Characteristics
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.Characteristics 类。表示注释特征
+title: "类 Characteristics"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.Characteristics 类。表示注释特性"
 type: docs
-weight: 1580
+weight: 1670
 url: /zh/net/aspose.pdf.annotations/characteristics/
 ---
-## 特征类
+## Characteristics class
 
-表示注释特征
+表示注释特性
 
 ```csharp
 public sealed class Characteristics
@@ -18,11 +18,13 @@ public sealed class Characteristics
 
 | 名称 | 描述 |
 | --- | --- |
-| [Background](../../aspose.pdf.annotations/characteristics/background/) { get; set; } | 获取或设置背景的颜色 |
-| [Border](../../aspose.pdf.annotations/characteristics/border/) { get; set; } | 获取或设置边框的颜色。 |
-| [Rotate](../../aspose.pdf.annotations/characteristics/rotate/) { get; set; } | 获取或设置注释的旋转。 |
+| [Background](../../aspose.pdf.annotations/characteristics/background/) { get; set; } | 获取或设置背景颜色 |
+| [Border](../../aspose.pdf.annotations/characteristics/border/) { get; set; } | 获取或设置边框颜色。 |
+| [Rotate](../../aspose.pdf.annotations/characteristics/rotate/) { get; set; } | 获取或设置注释的旋转角度。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

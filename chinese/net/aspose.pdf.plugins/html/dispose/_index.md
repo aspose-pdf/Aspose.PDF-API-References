@@ -1,21 +1,23 @@
 ---
-title: Html.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Html method. Implementation of IDisposable
+title: "Html.Dispose"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Html 方法。实现 IDisposable 接口"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.plugins/html/dispose/
 ---
-## Html.Dispose 方法
+## Html.Dispose method
 
-IDisposable 的实现。
+实现 IDisposable。
 
 ```csharp
 public void Dispose()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Html](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Html](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

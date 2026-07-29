@@ -1,12 +1,12 @@
 ---
-title: GraphicsAbsorber.Elements
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicsAbsorber 属性。获取以 GraphicElement 对象呈现的搜索出现集合
+title: "GraphicsAbsorber.Elements"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GraphicsAbsorber 属性。获取以 GraphicElement 对象呈现的搜索出现集合。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.vector/graphicsabsorber/elements/
 ---
-## GraphicsAbsorber.Elements 属性
+## GraphicsAbsorber.Elements property
 
 获取以 [`GraphicElement`](../../graphicelement/) 对象呈现的搜索出现集合。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.vector/graphicsabsorber/elements/
 public GraphicElementCollection Elements { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [GraphicElementCollection](../../graphicelementcollection/)
-* 类 [GraphicsAbsorber](../)
-* 命名空间 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* 程序集 [Aspose.PDF](../../../)
+* class [GraphicElementCollection](../../graphicelementcollection/)
+* class [GraphicsAbsorber](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

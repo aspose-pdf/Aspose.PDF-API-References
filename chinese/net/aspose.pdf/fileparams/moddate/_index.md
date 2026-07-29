@@ -1,12 +1,12 @@
 ---
-title: FileParams.ModDate
-second_title: Aspose.PDF for .NET API Reference
-description: FileParams 属性。嵌入文件最后修改的日期和时间
+title: "FileParams.ModDate"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FileParams 属性。嵌入文件上次修改的日期和时间"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/fileparams/moddate/
 ---
-## FileParams.ModDate 属性
+## FileParams.ModDate property
 
 嵌入文件最后修改的日期和时间。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/fileparams/moddate/
 public DateTime ModDate { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FileParams](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FileParams](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

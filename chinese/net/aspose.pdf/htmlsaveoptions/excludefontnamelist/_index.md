@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.ExcludeFontNameList
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions 字段。 不嵌入 HTML 的 PDF 嵌入字体名称列表
+title: "HtmlSaveOptions.ExcludeFontNameList"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "HtmlSaveOptions 字段。PDF 嵌入的字体名称列表，这些字体将在 HTML 中不被嵌入。"
 type: docs
 weight: 310
 url: /zh/net/aspose.pdf/htmlsaveoptions/excludefontnamelist/
 ---
-## HtmlSaveOptions.ExcludeFontNameList 字段
+## HtmlSaveOptions.ExcludeFontNameList field
 
-不嵌入 HTML 的 PDF 嵌入字体名称列表。
+PDF 嵌入字体名称列表，这些字体不会嵌入到 HTML 中。
 
 ```csharp
 public string[] ExcludeFontNameList;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [HtmlSaveOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

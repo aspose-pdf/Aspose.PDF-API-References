@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.BorderWidthMedium
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade 字段。定义中等边框宽度
+title: "FormFieldFacade.BorderWidthMedium"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FormFieldFacade field. 定义中等边框宽度"
 type: docs
 weight: 350
 url: /zh/net/aspose.pdf.facades/formfieldfacade/borderwidthmedium/
 ---
-## FormFieldFacade.BorderWidthMedium 字段
+## FormFieldFacade.BorderWidthMedium field
 
-定义中等边框宽度。
+定义中等宽度的边框。
 
 ```csharp
 public const float BorderWidthMedium;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FormFieldFacade](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

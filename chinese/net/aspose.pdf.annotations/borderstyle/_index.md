@@ -1,12 +1,12 @@
 ---
-title: Enum BorderStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.BorderStyle 枚举。描述注释边框的样式
+title: "枚举 BorderStyle"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.BorderStyle 枚举。描述注释边框的样式"
 type: docs
-weight: 1530
+weight: 1620
 url: /zh/net/aspose.pdf.annotations/borderstyle/
 ---
-## 边框样式枚举
+## BorderStyle enumeration
 
 描述注释边框的样式。
 
@@ -18,13 +18,15 @@ public enum BorderStyle
 
 | 名称 | 值 | 描述 |
 | --- | --- | --- |
-| 实线 | `0` | 实线边框。 |
-| 虚线 | `1` | 虚线边框。 |
-| 倾斜 | `2` | 倾斜边框。 |
-| 内凹 | `3` | 内凹边框。 |
-| 下划线 | `4` | 下划线边框。 |
+| Solid | `0` | 实线边框。 |
+| Dashed | `1` | 虚线边框。 |
+| Beveled | `2` | 斜角边框。 |
+| Inset | `3` | 嵌入边框。 |
+| Underline | `4` | 下划线边框。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

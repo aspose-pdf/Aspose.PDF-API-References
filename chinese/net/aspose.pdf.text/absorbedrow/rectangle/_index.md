@@ -1,22 +1,24 @@
 ---
-title: AbsorbedRow.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: AbsorbedRow 属性。获取描述行在页面上位置的矩形
+title: "AbsorbedRow.Rectangle"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AbsorbedRow 属性。获取描述该行在页面上位置的矩形"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.text/absorbedrow/rectangle/
 ---
-## AbsorbedRow.Rectangle 属性
+## AbsorbedRow.Rectangle property
 
-获取描述行在页面上位置的矩形
+获取描述该行在页面上位置的矩形。
 
 ```csharp
 public Rectangle Rectangle { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Rectangle](../../../aspose.pdf/rectangle/)
-* 类 [AbsorbedRow](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [AbsorbedRow](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

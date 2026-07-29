@@ -1,12 +1,12 @@
 ---
-title: Rows.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Rows 属性。获取或设置行
+title: "Rows.Item"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Rows 属性。获取或设置行"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/rows/item/
 ---
-## Rows 索引器
+## Rows indexer
 
 获取或设置行。
 
@@ -20,7 +20,9 @@ public Row this[int index] { get; set; }
 
 ### 另请参见
 
-* 类 [Row](../../row/)
-* 类 [Rows](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Row](../../row/)
+* class [Rows](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

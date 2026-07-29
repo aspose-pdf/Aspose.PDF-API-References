@@ -1,14 +1,14 @@
 ---
-title: FontRepository.FindFont
-second_title: Aspose.PDF for .NET API Reference
-description: FontRepository 方法。搜索并返回指定字体名称的字体
+title: "FontRepository.FindFont"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FontRepository 方法。搜索并返回指定字体名称的字体"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.text/fontrepository/findfont/
 ---
 ## FindFont(string) {#findfont}
 
-搜索并返回指定字体名称的字体。
+搜索并返回具有指定字体名称的字体。
 
 ```csharp
 public static Font FindFont(string fontName)
@@ -16,7 +16,7 @@ public static Font FindFont(string fontName)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| fontName | 字符串 | 字体名称。 |
+| fontName | String | 字体名称。 |
 
 ### 返回值
 
@@ -24,29 +24,29 @@ public static Font FindFont(string fontName)
 
 ## 示例
 
-该示例演示如何查找字体并替换第一页文本的字体。
+示例演示如何查找字体并替换首页文本的字体。
 
 ```csharp
-// Find font
+// 查找字体
 Font font = FontRepository.FindFont("Arial");
 
-// Open document
+// 打开文档
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// 创建 TextFragmentAbsorber 对象以查找所有 "hello world" 文本出现
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// 接受第一页的吸收器
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurrence
+// 更改首次出现的文本的字体
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// 保存文档
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### 另见
+### 另请参见
 
 * class [Font](../../font/)
 * class [FontRepository](../)
@@ -57,7 +57,7 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ## FindFont(string, bool) {#findfont_3}
 
-搜索并返回指定字体名称的字体，忽略或尊重大小写敏感性。
+搜索并返回具有指定字体名称的字体，忽略或遵守大小写敏感性。
 
 ```csharp
 public static Font FindFont(string fontName, bool ignoreCase)
@@ -65,8 +65,8 @@ public static Font FindFont(string fontName, bool ignoreCase)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| fontName | 字符串 | 字体名称。 |
-| ignoreCase | 布尔 | 大小写敏感性 |
+| fontName | String | 字体名称。 |
+| ignoreCase | Boolean | 大小写敏感性 |
 
 ### 返回值
 
@@ -74,29 +74,29 @@ public static Font FindFont(string fontName, bool ignoreCase)
 
 ## 示例
 
-该示例演示如何查找字体并替换第一页文本的字体。
+示例演示如何查找字体并替换首页文本的字体。
 
 ```csharp
-// Find font
+// 查找字体
 Font font = FontRepository.FindFont("Arial");
 
-// Open document
+// 打开文档
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// 创建 TextFragmentAbsorber 对象以查找所有 "hello world" 文本出现
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// 接受第一页的吸收器
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurrence
+// 更改首次出现的文本的字体
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// 保存文档
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### 另见
+### 另请参见
 
 * class [Font](../../font/)
 * class [FontRepository](../)
@@ -107,7 +107,7 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ## FindFont(string, FontStyles) {#findfont_1}
 
-搜索并返回指定字体名称和字体样式的字体。
+搜索并返回具有指定字体名称和字体样式的字体。
 
 ```csharp
 public static Font FindFont(string fontFamilyName, FontStyles stl)
@@ -115,38 +115,38 @@ public static Font FindFont(string fontFamilyName, FontStyles stl)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| fontFamilyName | 字符串 | 字体系列名称。 |
+| fontFamilyName | String | 字体族名称。 |
 | stl | FontStyles | 字体样式值。 |
 
 ### 返回值
 
-与搜索请求参数对应的字体对象。
+对应搜索请求参数的字体对象。
 
 ## 示例
 
-该示例演示如何查找字体并替换第一页文本的字体。
+示例演示如何查找字体并替换首页文本的字体。
 
 ```csharp
-// Find font
+// 查找字体
 Font font = FontRepository.FindFont("Arial", FontStyle.Italic);
 
-// Open document
+// 打开文档
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurences
+// 创建 TextFragmentAbsorber 对象以查找所有 "hello world" 文本出现。
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// 接受第一页的吸收器
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurence
+// 更改首个文本出现的字体。
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// 保存文档
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### 另见
+### 另请参见
 
 * class [Font](../../font/)
 * enum [FontStyles](../../fontstyles/)
@@ -158,7 +158,7 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ## FindFont(string, FontStyles, bool) {#findfont_2}
 
-搜索并返回指定字体名称和字体样式的字体，忽略或尊重大小写敏感性。
+搜索并返回具有指定字体名称和字体样式的字体，忽略或遵守大小写敏感性。
 
 ```csharp
 public static Font FindFont(string fontFamilyName, FontStyles stl, bool ignoreCase)
@@ -166,42 +166,44 @@ public static Font FindFont(string fontFamilyName, FontStyles stl, bool ignoreCa
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| fontFamilyName | 字符串 | 字体系列名称。 |
+| fontFamilyName | String | 字体族名称。 |
 | stl | FontStyles | 字体样式值。 |
-| ignoreCase | 布尔 | 大小写敏感性 |
+| ignoreCase | Boolean | 大小写敏感性 |
 
 ### 返回值
 
-与搜索请求参数对应的字体对象。
+对应搜索请求参数的字体对象。
 
 ## 示例
 
-该示例演示如何查找字体并替换第一页文本的字体。
+示例演示如何查找字体并替换首页文本的字体。
 
 ```csharp
-// Find font
+// 查找字体
 Font font = FontRepository.FindFont("Arial", FontStyle.Italic);
 
-// Open document
+// 打开文档
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurences
+// 创建 TextFragmentAbsorber 对象以查找所有 "hello world" 文本出现。
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// 接受第一页的吸收器
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurence
+// 更改首个文本出现的字体。
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// 保存文档
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### 另见
+### 另请参见
 
 * class [Font](../../font/)
 * enum [FontStyles](../../fontstyles/)
 * class [FontRepository](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: EncryptedPayload.Version
-second_title: Aspose.PDF for .NET API Reference
-description: EncryptedPayload 属性。获取版本号
+title: "EncryptedPayload.Version"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "EncryptedPayload 属性。获取版本号"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/encryptedpayload/version/
 ---
-## EncryptedPayload.Version 属性
+## EncryptedPayload.Version property
 
 获取版本号。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/encryptedpayload/version/
 public string Version { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [EncryptedPayload](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [EncryptedPayload](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

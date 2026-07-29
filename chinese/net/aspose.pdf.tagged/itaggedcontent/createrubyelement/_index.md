@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateRubyElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent 方法。创建 RubyElement
+title: "ITaggedContent.CreateRubyElement"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ITaggedContent 方法。创建 RubyElement"
 type: docs
-weight: 250
+weight: 280
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createrubyelement/
 ---
-## ITaggedContent.CreateRubyElement 方法
+## ITaggedContent.CreateRubyElement method
 
 创建 [`RubyElement`](../../../aspose.pdf.logicalstructure/rubyelement/)。
 
@@ -16,11 +16,13 @@ public RubyElement CreateRubyElement()
 
 ### 返回值
 
-创建的结构元素。
+已创建结构元素。
 
-### 另请参阅
+### 另请参见
 
-* 类 [RubyElement](../../../aspose.pdf.logicalstructure/rubyelement/)
-* 接口 [ITaggedContent](../)
-* 命名空间 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* 程序集 [Aspose.PDF](../../../)
+* class [RubyElement](../../../aspose.pdf.logicalstructure/rubyelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

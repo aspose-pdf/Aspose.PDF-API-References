@@ -1,7 +1,7 @@
 ---
-title: BoundsCheckableList1.UpdateBoundsCheckMode
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList 方法。更新已初始化集合的 boundsCheckMode 参数
+title: "BoundsCheckableList1.UpdateBoundsCheckMode"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BoundsCheckableList 方法。更新已初始化集合的 boundsCheckMode 参数"
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf.generator/boundscheckablelist-1/updateboundscheckmode/
@@ -21,7 +21,7 @@ public void UpdateBoundsCheckMode(BoundsCheckMode boundsCheckMode, double contai
 | containerWidth | Double | 容器宽度。 |
 | containerHeight | Double | 容器高度。 |
 
-### 另请参阅
+### 另请参见
 
 * enum [BoundsCheckMode](../../boundscheckmode/)
 * class [BoundsCheckableList&lt;T&gt;](../)
@@ -42,9 +42,11 @@ public void UpdateBoundsCheckMode(BoundsCheckMode boundsCheckMode)
 | --- | --- | --- |
 | boundsCheckMode | BoundsCheckMode | 边界检查模式。 |
 
-### 另请参阅
+### 另请参见
 
 * enum [BoundsCheckMode](../../boundscheckmode/)
 * class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../../)
+
+

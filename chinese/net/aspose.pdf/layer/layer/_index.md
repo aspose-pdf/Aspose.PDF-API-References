@@ -1,12 +1,12 @@
 ---
-title: Layer.Layer
-second_title: Aspose.PDF for .NET API Reference
-description: Layer 构造函数。初始化 Layer 类的新实例
+title: "Layer.Layer"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Layer 构造函数。初始化 Layer 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/layer/layer/
 ---
-## Layer 构造函数
+## Layer constructor
 
 初始化 [`Layer`](../) 类的新实例。
 
@@ -16,11 +16,13 @@ public Layer(string id, string name)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| id | 字符串 | 图层 ID |
-| name | 字符串 | 图层名称 |
+| id | String | 图层 ID |
+| 名称 | String | 图层名称 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Layer](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

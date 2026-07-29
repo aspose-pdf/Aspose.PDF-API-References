@@ -1,25 +1,27 @@
 ---
-title: PDF3DCrossSection.Visibility
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCrossSection 属性。获取或设置一个值，指示切割平面交点的可见性
+title: "PDF3DCrossSection.Visibility"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PDF3DCrossSection 属性。获取或设置指示切割平面交叉可见性的值"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.annotations/pdf3dcrosssection/visibility/
 ---
-## PDF3DCrossSection.Visibility 属性
+## PDF3DCrossSection.Visibility property
 
-获取或设置一个值，指示切割平面交点的可见性。
+获取或设置指示切割平面交点可见性的值。
 
 ```csharp
 public bool Visibility { get; set; }
 ```
 
-### 属性值
+### Property Value
 
-`true` 如果可见；否则，`false`。
+`true` 表示可见；否则为 `false`。
 
-### 另请参阅
+### 另请参见
 
-* 类 [PDF3DCrossSection](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PDF3DCrossSection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: FormDataConverter.ClearTableBeforeExport
-second_title: Aspose.PDF for .NET API Reference
-description: FormDataConverter 属性。ExportFromData将在数据导出之前清除表格
+title: "FormDataConverter.ClearTableBeforeExport"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FormDataConverter 属性。ExportFromData 将在数据导出前清除表格"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.facades/formdataconverter/cleartablebeforeexport/
 ---
-## FormDataConverter.ClearTableBeforeExport 属性
+## FormDataConverter.ClearTableBeforeExport property
 
-ExportFromData将在数据导出之前清除表格。
+ExportFromData 在导出数据前会清空表。
 
 ```csharp
 public bool ClearTableBeforeExport { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FormDataConverter](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FormDataConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class Operator
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operator 类。表示操作符的抽象类
+title: "类 Operator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Operator 类。表示运算符的抽象类。"
 type: docs
-weight: 7070
+weight: 7210
 url: /zh/net/aspose.pdf/operator/
 ---
-## 操作符类
+## Operator class
 
-表示操作符的抽象类。
+表示运算符的抽象类。
 
 ```csharp
 public abstract class Operator
@@ -24,12 +24,14 @@ public abstract class Operator
 
 | 名称 | 描述 |
 | --- | --- |
-| abstract [Accept](../../aspose.pdf/operator/accept/)(IOperatorSelector) | 接受提供操作符处理的访问者 IOperatorSelector。 |
+| abstract [Accept](../../aspose.pdf/operator/accept/)(IOperatorSelector) | 接受提供运算符处理的访问者 IOperatorSelector。 |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | 返回操作符及其参数的文本。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | 将此实例与给定对象进行比较。 |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | 确定操作符是否为负责文本输出的操作符（Tj, TJ 等）。 |
+| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | 确定该运算符是否负责文本输出（Tj、TJ 等） |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

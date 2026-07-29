@@ -1,14 +1,14 @@
 ---
-title: PDF3DContent.LoadAsPRC
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DContent 方法。以指定的文件名加载 3D 内容为 PRC 格式
+title: "PDF3DContent.LoadAsPRC"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PDF3DContent 方法。将指定文件名的 3D 内容加载为 PRC 格式"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.annotations/pdf3dcontent/loadasprc/
 ---
 ## LoadAsPRC(string) {#loadasprc_2}
 
-以指定的文件名加载 3D 内容为 PRC 格式。
+加载具有指定文件名的 3D 内容，使用 PRC 格式。
 
 ```csharp
 public void LoadAsPRC(string filename)
@@ -16,19 +16,19 @@ public void LoadAsPRC(string filename)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| filename | 字符串 | 文件名。 |
+| 文件名 | String | 文件名。 |
 
-### 另见
+### 另请参见
 
-* 类 [PDF3DContent](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## LoadAsPRC(Stream) {#loadasprc_1}
 
-从流中加载 3D 内容为 PRC 格式。
+从流加载 PRC 格式的 3D 内容。
 
 ```csharp
 public void LoadAsPRC(Stream stream)
@@ -36,19 +36,19 @@ public void LoadAsPRC(Stream stream)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | 流 | 3D 内容流。 |
+| stream | Stream | 3D 内容流。 |
 
-### 另见
+### 另请参见
 
-* 类 [PDF3DContent](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## LoadAsPRC(byte[]) {#loadasprc}
 
-从字节数组加载 3D 内容为 PRC 格式。
+从字节数组加载 PRC 格式的 3D 内容。
 
 ```csharp
 public void LoadAsPRC(byte[] stream)
@@ -56,10 +56,12 @@ public void LoadAsPRC(byte[] stream)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | 字节[] | 流。 |
+| stream | Byte[] | 流。 |
 
-### 另见
+### 另请参见
 
-* 类 [PDF3DContent](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

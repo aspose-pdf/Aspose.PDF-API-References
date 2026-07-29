@@ -1,12 +1,12 @@
 ---
-title: TextResponse.Annotations
-second_title: Aspose.PDF for .NET API Reference
-description: TextResponse 属性。获取或设置消息的注释列表
+title: "TextResponse.Annotations"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextResponse 属性。获取或设置消息的注释列表"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.ai/textresponse/annotations/
 ---
-## TextResponse.Annotations 属性
+## TextResponse.Annotations property
 
 获取或设置消息的注释列表。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.ai/textresponse/annotations/
 public List<Annotation> Annotations { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [Annotation](../../annotation/)
 * class [TextResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

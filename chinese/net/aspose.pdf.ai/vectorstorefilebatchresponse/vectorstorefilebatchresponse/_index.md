@@ -1,12 +1,12 @@
 ---
-title: VectorStoreFileBatchResponse.VectorStoreFileBatchResponse
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileBatchResponse 构造函数。默认构造函数
+title: "VectorStoreFileBatchResponse.VectorStoreFileBatchResponse"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "VectorStoreFileBatchResponse 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/vectorstorefilebatchresponse/vectorstorefilebatchresponse/
 ---
-## VectorStoreFileBatchResponse 构造函数
+## VectorStoreFileBatchResponse constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/vectorstorefilebatchresponse/vectorstorefilebatchresp
 public VectorStoreFileBatchResponse()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [VectorStoreFileBatchResponse](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [VectorStoreFileBatchResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.FormSubmitButtonNames
-second_title: Aspose.PDF for .NET API Reference
-description: 表单属性。获取所有表单提交按钮名称
+title: "Form.FormSubmitButtonNames"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Form 属性。获取所有表单提交按钮名称"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.facades/form/formsubmitbuttonnames/
 ---
-## Form.FormSubmitButtonNames 属性
+## Form.FormSubmitButtonNames property
 
-获取所有表单提交按钮名称。
+获取所有表单提交按钮的名称。
 
 ```csharp
 public string[] FormSubmitButtonNames { get; }
@@ -25,8 +25,10 @@ foreach(string btn in submits)
 }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Form](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

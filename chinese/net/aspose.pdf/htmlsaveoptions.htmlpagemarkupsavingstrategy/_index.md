@@ -1,14 +1,14 @@
 ---
-title: Delegate HtmlSaveOptions.HtmlPageMarkupSavingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: 转换的结果可以包含一个或多个 HTML 页面，这些页面也可以引用外部文件，如图像或字体。您可以将此属性分配给从自定义方法创建的委托，该方法实现了处理在转换过程中生成的 HTML 页面（HTML 本身）。在这种情况下，处理（如保存到流或磁盘）可以在该自定义代码中完成。在这种情况下，保存 HTML 页面标记的所有必要操作必须在提供的方法的代码中进行，因为在转换器的代码中保存结果将不被使用。如果出于某种原因，某个案例的处理必须由转换器的代码本身完成，而不是在自定义代码中，请在自定义代码中设置 'htmlSavingInfo' 参数变量的 'CustomProcessingCancelled' 标志：这向转换器发出信号，表明处理该资源的所有必要步骤必须在转换器本身中完成，就像没有任何外部自定义保存代码一样。
+title: "委托 HtmlSaveOptions.HtmlPageMarkupSavingStrategy"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "转换结果可能包含一个或多个 HTML 页面，这些页面也可能引用图像或字体等外部文件。您可以为此属性分配由自定义方法创建的委托，该方法实现对在转换期间生成的 HTMLpageHTML 本身的处理。在这种情况下，可以在自定义代码中完成流或磁盘保存等处理。此时，所有保存 HTML 页面标记所需的操作必须在提供的方法代码中完成，因为转换器代码中的结果保存将不再使用。如果出于某些原因必须由转换器代码本身（而非自定义代码）进行此类处理，请在自定义代码中设置 htmlSavingInfo 参数变量的标志 CustomProcessingCancelled；这向转换器指示所有对该资源的必要处理步骤应由转换器自行完成，就像没有任何外部自定义保存代码一样。"
 type: docs
-weight: 5680
+weight: 5810
 url: /zh/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavingstrategy/
 ---
-## HtmlSaveOptions.HtmlPageMarkupSavingStrategy 委托
+## HtmlSaveOptions.HtmlPageMarkupSavingStrategy delegate
 
-转换的结果可以包含一个或多个 HTML 页面（这些页面也可以引用外部文件，如图像或字体）。您可以将此属性分配给从自定义方法创建的委托，该方法实现了处理在转换过程中生成的 HTML 页面（HTML 本身）。在这种情况下，处理（如保存到流或磁盘）可以在该自定义代码中完成。在这种情况下，保存 HTML 页面标记的所有必要操作必须在提供的方法的代码中进行，因为在转换器的代码中保存结果将不被使用。如果出于某种原因，某个案例的处理必须由转换器的代码本身完成，而不是在自定义代码中，请在自定义代码中设置 'htmlSavingInfo' 参数变量的 'CustomProcessingCancelled' 标志：这向转换器发出信号，表明处理该资源的所有必要步骤必须在转换器本身中完成，就像没有任何外部自定义保存代码一样。
+转换结果可能包含一个或多个 HTML 页面（这些页面也可能引用图像或字体等外部文件）。您可以为此属性分配由自定义方法创建的委托，该方法实现对在转换期间生成的 HTML 页面（HTML 本身）的处理。在这种情况下，可以在自定义代码中完成流或磁盘保存等处理。此时，所有保存 HTML 页面标记所需的操作必须在提供的方法代码中完成，因为转换器代码中的结果保存将不再使用。如果出于某些原因必须由转换器的代码本身（而非自定义代码）进行此类处理，请在自定义代码中设置 'CustomProcessingCancelled' 标志，针对 'htmlSavingInfo' 参数的变量；这向转换器指示所有对该资源的必要处理步骤应由转换器自行完成，就像没有任何外部自定义保存代码一样。
 
 ```csharp
 public delegate void HtmlPageMarkupSavingStrategy(HtmlPageMarkupSavingInfo htmlSavingInfo);
@@ -16,11 +16,13 @@ public delegate void HtmlPageMarkupSavingStrategy(HtmlPageMarkupSavingInfo htmlS
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| htmlSavingInfo | HtmlPageMarkupSavingInfo | 表示可以用于保存或处理提供的 HTML 页面的数据 |
+| htmlSavingInfo | HtmlPageMarkupSavingInfo | 表示可用于保存或处理提供的 HTML 页面的数据 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [HtmlPageMarkupSavingInfo](../htmlsaveoptions.htmlpagemarkupsavinginfo/)
-* 类 [HtmlSaveOptions](../htmlsaveoptions/)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* class [HtmlPageMarkupSavingInfo](../htmlsaveoptions.htmlpagemarkupsavinginfo/)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

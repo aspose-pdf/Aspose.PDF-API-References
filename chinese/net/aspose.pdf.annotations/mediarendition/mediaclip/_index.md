@@ -1,22 +1,24 @@
 ---
-title: MediaRendition.MediaClip
-second_title: Aspose.PDF for .NET API Reference
-description: MediaRendition 属性。获取或设置与呈现相关的媒体剪辑对象
+title: "MediaRendition.MediaClip"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MediaRendition 属性。获取或设置与呈现关联的媒体剪辑对象"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/mediarendition/mediaclip/
 ---
-## MediaRendition.MediaClip 属性
+## MediaRendition.MediaClip property
 
-获取或设置与呈现相关的媒体剪辑对象。
+获取或设置与呈现关联的媒体剪辑对象。
 
 ```csharp
 public MediaClip MediaClip { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [MediaClip](../../mediaclip/)
-* 类 [MediaRendition](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [MediaClip](../../mediaclip/)
+* class [MediaRendition](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: OpenAIChatCopilotOptions.RestoreContextFromBackup
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions 属性。获取或设置一个值，指示是否从备份中恢复上下文
+title: "OpenAIChatCopilotOptions.RestoreContextFromBackup"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAIChatCopilotOptions 属性。获取或设置指示是否从备份恢复上下文的值"
 type: docs
-weight: 40
+weight: 50
 url: /zh/net/aspose.pdf.ai/openaichatcopilotoptions/restorecontextfrombackup/
 ---
-## OpenAIChatCopilotOptions.RestoreContextFromBackup 属性
+## OpenAIChatCopilotOptions.RestoreContextFromBackup property
 
-获取或设置一个值，指示是否从备份中恢复上下文。
+获取或设置指示是否从备份恢复上下文的值。
 
 ```csharp
 public bool RestoreContextFromBackup { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [OpenAIChatCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

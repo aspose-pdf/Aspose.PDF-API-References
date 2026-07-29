@@ -1,14 +1,14 @@
 ---
-title: Class EOClip
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.EOClip 类。表示使用奇偶规则的 W 操作符集裁剪路径
+title: "类 EOClip"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Operators.EOClip 类。类表示使用奇偶规则的 W 操作符设置裁剪路径"
 type: docs
-weight: 7310
+weight: 7450
 url: /zh/net/aspose.pdf.operators/eoclip/
 ---
-## EOClip 类
+## EOClip class
 
-表示 W* 操作符（使用奇偶规则设置裁剪路径）。
+表示 W* 操作符的类（使用奇偶规则设置剪裁路径）。
 
 ```csharp
 public class EOClip : Operator
@@ -34,8 +34,10 @@ public class EOClip : Operator
 | override [ToString](../../aspose.pdf/operator/tostring/)() | 返回操作符及其参数的文本。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | 将此实例与给定对象进行比较。 |
 
-### 另见
+### 另请参见
 
-* 类 [Operator](../../aspose.pdf/operator/)
-* 命名空间 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SetRGBColorStroke.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: SetRGBColorStroke 方法。返回操作符的文本表示
+title: "SetRGBColorStroke.ToString"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SetRGBColorStroke 方法。返回运算符的文本表示"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.operators/setrgbcolorstroke/tostring/
 ---
-## SetRGBColorStroke.ToString 方法
+## SetRGBColorStroke.ToString method
 
-返回操作符的文本表示。
+返回运算符的文本表示。
 
 ```csharp
 public override string ToString()
@@ -18,8 +18,10 @@ public override string ToString()
 
 操作符的文本表示。
 
-### 另见
+### 另请参见
 
-* 类 [SetRGBColorStroke](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SetRGBColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: ChoiceField.CommitImmediately
-second_title: Aspose.PDF for .NET API Reference
-description: ChoiceField 属性。获取或设置选择更改时的提交标志
+title: "ChoiceField.CommitImmediately"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ChoiceField 属性。获取或设置在选择更改时提交的标志"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.forms/choicefield/commitimmediately/
 ---
-## ChoiceField.CommitImmediately 属性
+## ChoiceField.CommitImmediately property
 
-获取或设置选择更改时的提交标志。
+获取或设置在选择更改时提交的标志。
 
 ```csharp
 public bool CommitImmediately { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ChoiceField](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ChoiceField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

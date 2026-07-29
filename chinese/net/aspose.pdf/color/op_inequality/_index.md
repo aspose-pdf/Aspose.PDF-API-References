@@ -1,14 +1,14 @@
 ---
-title: Color.op_Inequality
-second_title: Aspose.PDF for .NET API Reference
-description: Color 方法。如果两个颜色不相等，则返回 true
+title: "Color.op_Inequality"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Color 方法。返回 true，如果两个 Color 对象不相等"
 type: docs
 weight: 1570
 url: /zh/net/aspose.pdf/color/op_inequality/
 ---
-## Color 不等于运算符
+## Color Inequality operator
 
-如果两个颜色不相等，则返回 true。
+如果两个 Color 不相等，则返回 true。
 
 ```csharp
 public static bool operator !=(Color x, Color y)
@@ -21,10 +21,12 @@ public static bool operator !=(Color x, Color y)
 
 ### 返回值
 
-如果 Color 对象不相等，则返回 true。
+如果 Color 对象不相等则为 true。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Color](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

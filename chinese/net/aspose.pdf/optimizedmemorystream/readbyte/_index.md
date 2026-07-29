@@ -1,14 +1,14 @@
 ---
-title: OptimizedMemoryStream.ReadByte
-second_title: Aspose.PDF for .NET API Reference
-description: OptimizedMemoryStream 方法。 从流中读取一个字节，并将流中的位置向前移动一个字节，或者在流的末尾返回 -1
+title: "OptimizedMemoryStream.ReadByte"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OptimizedMemoryStream 方法。 从流中读取一个字节，并将流中的位置前移一个字节，或者在流结束时返回 1。"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf/optimizedmemorystream/readbyte/
 ---
-## OptimizedMemoryStream.ReadByte 方法
+## OptimizedMemoryStream.ReadByte method
 
-从流中读取一个字节，并将流中的位置向前移动一个字节，或者在流的末尾返回 -1。
+从流中读取一个字节，并将流中的位置前移一个字节；如果已到达流的末尾，则返回 -1。
 
 ```csharp
 public override int ReadByte()
@@ -16,10 +16,12 @@ public override int ReadByte()
 
 ### 返回值
 
-字节或在流的末尾返回 -1。
+字节或 -1（如果已到达流的末尾）。
 
-### 另请参阅
+### 另请参见
 
-* 类 [OptimizedMemoryStream](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

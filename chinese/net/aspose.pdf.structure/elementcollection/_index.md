@@ -1,14 +1,14 @@
 ---
-title: Class ElementCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Structure.ElementCollection 类。基本逻辑结构元素的集合
+title: "类 ElementCollection"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Structure.ElementCollection 类。基础逻辑结构元素的集合"
 type: docs
-weight: 10150
+weight: 10330
 url: /zh/net/aspose.pdf.structure/elementcollection/
 ---
-## ElementCollection 类
+## ElementCollection class
 
-基本逻辑结构元素的集合。
+基础逻辑结构元素的集合。
 
 ```csharp
 public class ElementCollection : IEnumerable<Element>
@@ -18,18 +18,20 @@ public class ElementCollection : IEnumerable<Element>
 
 | 名称 | 描述 |
 | --- | --- |
-| [Count](../../aspose.pdf.structure/elementcollection/count/) { get; } | 元素的数量。 |
-| [Item](../../aspose.pdf.structure/elementcollection/item/) { get; } | 通过索引获取元素。 |
+| [Count](../../aspose.pdf.structure/elementcollection/count/) { get; } | 元素的计数。 |
+| [Item](../../aspose.pdf.structure/elementcollection/item/) { get; } | 按索引获取 Element。 |
 
 ## 方法
 
 | 名称 | 描述 |
 | --- | --- |
-| [GetEnumerator](../../aspose.pdf.structure/elementcollection/getenumerator/)() | 返回一个枚举器，用于遍历集合。 |
-| [Remove](../../aspose.pdf.structure/elementcollection/remove/)(Element) | 从集合中移除项目。 |
+| [GetEnumerator](../../aspose.pdf.structure/elementcollection/getenumerator/)() | 返回一个遍历集合的枚举器。 |
+| [Remove](../../aspose.pdf.structure/elementcollection/remove/)(Element) | 从集合中移除项。 |
 
-### 另见
+### 另请参见
 
-* 类 [Element](../element/)
-* 命名空间 [Aspose.Pdf.Structure](../../aspose.pdf.structure/)
-* 程序集 [Aspose.PDF](../../)
+* class [Element](../element/)
+* namespace [Aspose.Pdf.Structure](../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../)
+
+

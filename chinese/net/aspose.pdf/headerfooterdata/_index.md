@@ -1,12 +1,12 @@
 ---
-title: Class HeaderFooterData
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HeaderFooterData 类。表示页眉和页脚的分页数据
+title: "类 HeaderFooterData"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.HeaderFooterData 类。表示页眉和页脚的分页数据"
 type: docs
-weight: 5440
+weight: 5560
 url: /zh/net/aspose.pdf/headerfooterdata/
 ---
-## HeaderFooterData 类
+## HeaderFooterData class
 
 表示页眉和页脚的分页数据。
 
@@ -27,7 +27,9 @@ public class HeaderFooterData
 | [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | 获取或设置日期设置。 |
 | [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | 获取或设置页码设置。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

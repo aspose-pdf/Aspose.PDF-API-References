@@ -1,14 +1,14 @@
 ---
-title: Interface IInterruptMonitor
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Multithreading.IInterruptMonitor 接口。表示有关中断的信息
+title: "接口 IInterruptMonitor"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Multithreading.IInterruptMonitor 接口。表示中断信息"
 type: docs
-weight: 6990
+weight: 7130
 url: /zh/net/aspose.pdf.multithreading/iinterruptmonitor/
 ---
-## IInterruptMonitor 接口
+## IInterruptMonitor interface
 
-表示有关中断的信息。
+表示中断信息。
 
 ```csharp
 public interface IInterruptMonitor : IDisposable
@@ -18,15 +18,17 @@ public interface IInterruptMonitor : IDisposable
 
 | 名称 | 描述 |
 | --- | --- |
-| [CancellationToken](../../aspose.pdf.multithreading/iinterruptmonitor/cancellationtoken/) { get; } | 用于进程中断的监视器取消令牌。默认情况下，每个 IInterruptMonitor 生成自己的 cancellationSource |
+| [CancellationToken](../../aspose.pdf.multithreading/iinterruptmonitor/cancellationtoken/) { get; } | 监视器的取消令牌用于过程中的中断。默认情况下，每个 IInterruptMonitor 会生成其自己的 cancellationSource |
 
 ## 方法
 
 | 名称 | 描述 |
 | --- | --- |
-| [Interrupt](../../aspose.pdf.multithreading/iinterruptmonitor/interrupt/)() | 发送中断操作的请求。 |
+| [Interrupt](../../aspose.pdf.multithreading/iinterruptmonitor/interrupt/)() | 发送请求以中断操作。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Multithreading](../../aspose.pdf.multithreading/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Multithreading](../../aspose.pdf.multithreading/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FileParams.FileParams
-second_title: Aspose.PDF for .NET API Reference
-description: FileParams 构造函数。FileParams 类的构造函数
+title: "FileParams.FileParams"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FileParams 构造函数。FileParams 类的构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/fileparams/fileparams/
 ---
-## FileParams 构造函数
+## FileParams constructor
 
 FileParams 类的构造函数。
 
@@ -18,9 +18,11 @@ public FileParams(FileSpecification spec)
 | --- | --- | --- |
 | spec | FileSpecification | 文件规范。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [FileSpecification](../../filespecification/)
-* 类 [FileParams](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FileSpecification](../../filespecification/)
+* class [FileParams](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

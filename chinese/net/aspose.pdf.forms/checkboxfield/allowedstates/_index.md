@@ -1,12 +1,12 @@
 ---
-title: CheckboxField.AllowedStates
-second_title: Aspose.PDF for .NET API Reference
-description: CheckboxField 属性。返回允许状态的列表
+title: "CheckboxField.AllowedStates"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CheckboxField 属性。返回允许状态的列表"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.forms/checkboxfield/allowedstates/
 ---
-## CheckboxField.AllowedStates 属性
+## CheckboxField.AllowedStates property
 
 返回允许状态的列表。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.forms/checkboxfield/allowedstates/
 public List<string> AllowedStates { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [CheckboxField](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CheckboxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

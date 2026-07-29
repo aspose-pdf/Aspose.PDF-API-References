@@ -1,12 +1,12 @@
 ---
-title: CreateFineTuningJobRequest.CreateFineTuningJobRequest
-second_title: Aspose.PDF for .NET API Reference
-description: CreateFineTuningJobRequest 构造函数。默认构造函数
+title: "CreateFineTuningJobRequest.CreateFineTuningJobRequest"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CreateFineTuningJobRequest 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/createfinetuningjobrequest/createfinetuningjobrequest/
 ---
-## CreateFineTuningJobRequest 构造函数
+## CreateFineTuningJobRequest constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/createfinetuningjobrequest/createfinetuningjobrequest
 public CreateFineTuningJobRequest()
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [CreateFineTuningJobRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

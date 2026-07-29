@@ -1,14 +1,14 @@
 ---
-title: XmpField.ToArray
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField 方法。获取值作为数组
+title: "XmpField.ToArray"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpField 方法。获取值作为数组"
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf/xmpfield/toarray/
 ---
-## XmpField.ToArray 方法
+## XmpField.ToArray method
 
-获取值作为数组。
+获取数组形式的值。
 
 ```csharp
 public XmpValue[] ToArray()
@@ -18,9 +18,11 @@ public XmpValue[] ToArray()
 
 数组。
 
-### 另请参阅
+### 另请参见
 
-* 类 [XmpValue](../../xmpvalue/)
-* 类 [XmpField](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpValue](../../xmpvalue/)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

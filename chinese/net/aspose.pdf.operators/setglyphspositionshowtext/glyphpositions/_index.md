@@ -1,12 +1,12 @@
 ---
-title: SetGlyphsPositionShowText.GlyphPositions
-second_title: Aspose.PDF for .NET API Reference
-description: SetGlyphsPositionShowText 属性。返回字形的位置
+title: "SetGlyphsPositionShowText.GlyphPositions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SetGlyphsPositionShowText 属性。返回字形的位置"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.operators/setglyphspositionshowtext/glyphpositions/
 ---
-## SetGlyphsPositionShowText.GlyphPositions 属性
+## SetGlyphsPositionShowText.GlyphPositions property
 
 返回字形的位置。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.operators/setglyphspositionshowtext/glyphpositions/
 public IEnumerable<GlyphPosition> GlyphPositions { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [GlyphPosition](../../glyphposition/)
 * class [SetGlyphsPositionShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

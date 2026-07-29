@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.ModifyAnnotationsAuthor
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor 方法。修改指定页面范围内注释的作者
+title: "PdfAnnotationEditor.ModifyAnnotationsAuthor"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfAnnotationEditor 方法。修改指定页面范围内注释的作者。"
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.facades/pdfannotationeditor/modifyannotationsauthor/
 ---
-## PdfAnnotationEditor.ModifyAnnotationsAuthor 方法
+## PdfAnnotationEditor.ModifyAnnotationsAuthor method
 
-修改指定页面范围内注释的作者。
+修改指定页面范围内批注的作者。
 
 ```csharp
 public void ModifyAnnotationsAuthor(int start, int end, string srcAuthor, string desAuthor)
@@ -30,8 +30,10 @@ editor.ModifyAnnotationsAuthor(1, 2, "PREV AUTHOR", "NEW AUTHOR");
 editor.Save("example_out.pdf");
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfAnnotationEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

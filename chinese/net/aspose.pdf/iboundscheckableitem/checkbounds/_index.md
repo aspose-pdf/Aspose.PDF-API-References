@@ -1,14 +1,14 @@
 ---
-title: IBoundsCheckableItem.CheckBounds
-second_title: Aspose.PDF for .NET API Reference
-description: IBoundsCheckableItem 方法。检查项目是否适合给定的容器尺寸（包括在内）
+title: "IBoundsCheckableItem.CheckBounds"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "IBoundsCheckableItem 方法。检查项目是否完全适合给定的容器尺寸（包括边界）。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/iboundscheckableitem/checkbounds/
 ---
-## IBoundsCheckableItem.CheckBounds 方法
+## IBoundsCheckableItem.CheckBounds method
 
-检查项目是否适合给定的容器尺寸（包括在内）。
+检查项目是否适配给定的容器尺寸（含边界）。
 
 ```csharp
 public bool CheckBounds(double containerWidth, double containerHeight)
@@ -21,10 +21,12 @@ public bool CheckBounds(double containerWidth, double containerHeight)
 
 ### 返回值
 
-如果适合则为真；否则为假。
+如果适合则返回 True；否则返回 false。
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IBoundsCheckableItem](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IBoundsCheckableItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: BaseOperatorCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: BaseOperatorCollection 属性。如果集合是只读的，则返回 true
+title: "BaseOperatorCollection.IsReadOnly"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BaseOperatorCollection 属性。如果集合为只读则返回 true"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/baseoperatorcollection/isreadonly/
 ---
-## BaseOperatorCollection.IsReadOnly 属性
+## BaseOperatorCollection.IsReadOnly property
 
-如果集合是只读的，则返回 true。
+如果集合为只读，则返回 true。
 
 ```csharp
 public abstract bool IsReadOnly { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [BaseOperatorCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

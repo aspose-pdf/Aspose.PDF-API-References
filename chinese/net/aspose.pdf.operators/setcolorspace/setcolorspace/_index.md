@@ -1,12 +1,12 @@
 ---
-title: SetColorSpace.SetColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: SetColorSpace 构造函数。初始化操作符
+title: "SetColorSpace.SetColorSpace"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SetColorSpace 构造函数。初始化运算符"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/setcolorspace/setcolorspace/
 ---
-## SetColorSpace 构造函数
+## SetColorSpace constructor
 
 初始化操作符。
 
@@ -16,10 +16,12 @@ public SetColorSpace(string name)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| name | 字符串 | 颜色空间名称。 |
+| 名称 | String | 颜色空间名称。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [SetColorSpace](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SetColorSpace](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: GraphicElement.Operators
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElement 属性。获取表示元素的操作符集合
+title: "GraphicElement.Operators"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GraphicElement 属性。获取表示该元素的运算符集合"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.vector/graphicelement/operators/
 ---
-## GraphicElement.Operators 属性
+## GraphicElement.Operators property
 
-获取表示元素的操作符集合。
+获取表示该元素的运算符集合。
 
 ```csharp
 public List<Operator> Operators { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Operator](../../../aspose.pdf/operator/)
-* 类 [GraphicElement](../)
-* 命名空间 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Operator](../../../aspose.pdf/operator/)
+* class [GraphicElement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

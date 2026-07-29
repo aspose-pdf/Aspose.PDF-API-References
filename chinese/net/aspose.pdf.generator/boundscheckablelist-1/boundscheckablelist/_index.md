@@ -1,7 +1,7 @@
 ---
-title: BoundsCheckableList1.BoundsCheckableList
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList 构造函数。初始化 BoundsCheckableList 类的新实例
+title: "BoundsCheckableList1.BoundsCheckableList"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BoundsCheckableList 构造函数。 初始化 BoundsCheckableList 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.generator/boundscheckablelist-1/boundscheckablelist/
@@ -14,7 +14,7 @@ url: /zh/net/aspose.pdf.generator/boundscheckablelist-1/boundscheckablelist/
 public BoundsCheckableList()
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
@@ -37,9 +37,11 @@ public BoundsCheckableList(BoundsCheckMode boundsCheckMode, double containerWidt
 | containerWidth | Double | 容器宽度。 |
 | containerHeight | Double | 容器高度。 |
 
-### 另请参阅
+### 另请参见
 
 * enum [BoundsCheckMode](../../boundscheckmode/)
 * class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../../)
+
+

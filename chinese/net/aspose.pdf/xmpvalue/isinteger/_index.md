@@ -1,12 +1,12 @@
 ---
-title: XmpValue.IsInteger
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue 属性。如果值是整数，则返回 true
+title: "XmpValue.IsInteger"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpValue 属性。返回 true 如果值是整数"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/xmpvalue/isinteger/
 ---
-## XmpValue.IsInteger 属性
+## XmpValue.IsInteger property
 
 如果值是整数，则返回 true。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/xmpvalue/isinteger/
 public bool IsInteger { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XmpValue](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

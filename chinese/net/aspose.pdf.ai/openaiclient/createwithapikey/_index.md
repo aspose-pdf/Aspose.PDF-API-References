@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.CreateWithApiKey
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient 方法。使用提供的 API 密钥创建 Builder 的新实例
+title: "OpenAIClient.CreateWithApiKey"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAIClient 方法。使用提供的 API 密钥创建 Builder 的新实例"
 type: docs
-weight: 510
+weight: 520
 url: /zh/net/aspose.pdf.ai/openaiclient/createwithapikey/
 ---
-## OpenAIClient.CreateWithApiKey 方法
+## OpenAIClient.CreateWithApiKey method
 
-使用提供的 API 密钥创建一个新的 [`Builder`](../../openaiclient.builder/) 实例。
+使用提供的 API 密钥创建 [`Builder`](../../openaiclient.builder/) 的新实例。
 
 ```csharp
 public static Builder CreateWithApiKey(string apiKey)
@@ -16,15 +16,17 @@ public static Builder CreateWithApiKey(string apiKey)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| apiKey | 字符串 | 用于客户端的 API 密钥。 |
+| apiKey | String | 用于客户端的 API 密钥。 |
 
 ### 返回值
 
-一个 [`Builder`](../../openaiclient.builder/) 实例。
+[`Builder`](../../openaiclient.builder/) 的实例。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Builder](../../openaiclient.builder/)
-* 类 [OpenAIClient](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Builder](../../openaiclient.builder/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

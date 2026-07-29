@@ -1,22 +1,22 @@
 ---
-title: Class TiffDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.TiffDevice 类。此类帮助将 PDF 文档逐页保存为一个 TIFF 图像
+title: "类 TiffDevice"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Devices.TiffDevice 类。此类帮助将 pdf Document 按 page 保存为单个 tiff 图像"
 type: docs
-weight: 3700
+weight: 3820
 url: /zh/net/aspose.pdf.devices/tiffdevice/
 ---
 ## TiffDevice class
 
-此类帮助将 PDF 文档逐页保存为一个 TIFF 图像。
+此类帮助将 PDF 文档逐页保存为单个 tiff 图像。
 
 ```csharp
 public sealed class TiffDevice : DocumentDevice
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [TiffDevice](tiffdevice/#constructor)() | 使用默认设置初始化 `TiffDevice` 类的新实例。 |
 | [TiffDevice](tiffdevice/#constructor_6)(PageSize) | 初始化 `TiffDevice` 类的新实例。 |
@@ -37,22 +37,22 @@ public sealed class TiffDevice : DocumentDevice
 | [TiffDevice](tiffdevice/#constructor_9)(PageSize, Resolution, TiffSettings, IIndexBitmapConverter) | 初始化 `TiffDevice` 类的新实例。 |
 | [TiffDevice](tiffdevice/#constructor_15)(int, int, Resolution, TiffSettings, IIndexBitmapConverter) | 初始化 `TiffDevice` 类的新实例。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [FormPresentationMode](../../aspose.pdf.devices/tiffdevice/formpresentationmode/) { get; set; } | 获取或设置表单呈现模式。 |
 | [Height](../../aspose.pdf.devices/tiffdevice/height/) { get; } | 获取图像输出高度。 |
 | [RenderingOptions](../../aspose.pdf.devices/tiffdevice/renderingoptions/) { get; set; } | 获取或设置渲染选项。 |
 | [Resolution](../../aspose.pdf.devices/tiffdevice/resolution/) { get; } | 获取图像分辨率。 |
-| [Settings](../../aspose.pdf.devices/tiffdevice/settings/) { get; } | 获取将 PDF 映射到 TIFF 图像的设置。 |
+| [Settings](../../aspose.pdf.devices/tiffdevice/settings/) { get; } | 获取将 pdf 映射到 tiff 图像的设置。 |
 | [Width](../../aspose.pdf.devices/tiffdevice/width/) { get; } | 获取图像输出宽度。 |
 
-## Methods
+## 方法
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [BinarizeBradley](../../aspose.pdf.devices/tiffdevice/binarizebradley/)(Stream, Stream, double) | 对输入流进行 Bradley 二值化处理。 |
+| [BinarizeBradley](../../aspose.pdf.devices/tiffdevice/binarizebradley/)(Stream, Stream, double) | 对输入流执行 Bradley 二值化。 |
 | [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, Stream) | 处理整个文档并将结果保存到流中。 |
 | [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, string) | 处理整个文档并将结果保存到文件中。 |
 | override [Process](../../aspose.pdf.devices/tiffdevice/process/#process_4)(Page, Stream) |  |
@@ -60,25 +60,25 @@ public sealed class TiffDevice : DocumentDevice
 | override [Process](../../aspose.pdf.devices/tiffdevice/process/#process)(Document, int, int, Stream) | 将特定文档页面转换为 TIFF 并保存到输出流中。 |
 | [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, int, int, string) | 处理文档的特定页面并将结果保存到文件中。 |
 
-## Examples
+## 示例
 
-以下示例演示如何将 PDF 文件转换为 TIFF 图像。
+以下示例展示了如何将 PDF 文件转换为 TIFF 图像。
 
 ```csharp
 [C#]
-	// The path to your PDF Directory
+	// 您的 PDF 目录路径。
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The file name of the PDF
+	// PDF 文件的文件名。
 	string pdfFile = @"YOUR_PDF_FILE";
 
-	// Initialize instance of Document class
+	// 初始化 Document 类的实例。
 	using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
 	{
-		// Create Resolution object 	
+		// 创建 Resolution 对象 \t
 		Resolution resolution = new Resolution(300);
 		
-		// Create TiffSettings object
+		// 创建 TiffSettings 对象。
 		TiffSettings tiffSettings = new TiffSettings
 		{
 			Compression = CompressionType.None,
@@ -87,10 +87,10 @@ public sealed class TiffDevice : DocumentDevice
 			SkipBlankPages = false
 		};
 
-		// Create TIFF device
+		// 创建 TIFF 设备。
 		TiffDevice tiffDevice = new TiffDevice(resolution, tiffSettings);
 
-		// Convert a PDF document to TIFF image
+		// 将 PDF 文档转换为 TIFF 图像。
 		tiffDevice.Process(pdfDocument, dataDir + "AllPagesToTIFF_out.tif");
 	}
 ```
@@ -127,8 +127,10 @@ public sealed class TiffDevice : DocumentDevice
 	End Using
 ```
 
-### See Also
+### 另请参见
 
 * class [DocumentDevice](../documentdevice/)
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

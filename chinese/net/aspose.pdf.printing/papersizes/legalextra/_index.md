@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.LegalExtra
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 字段。法律额外纸 9.275 英寸 x 15 英寸
+title: "PaperSizes.LegalExtra"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PaperSizes 字段。Legal extra 纸张 9.275 英寸 × 15 英寸"
 type: docs
 weight: 640
 url: /zh/net/aspose.pdf.printing/papersizes/legalextra/
 ---
-## PaperSizes.LegalExtra 字段
+## PaperSizes.LegalExtra field
 
-法律额外纸（9.275 英寸 x 15 英寸）。
+法律额外纸 (9.275 英寸 × 15 英寸)。
 
 ```csharp
 public static readonly PaperSize LegalExtra;
@@ -16,11 +16,13 @@ public static readonly PaperSize LegalExtra;
 
 ## 备注
 
-此值特定于 PostScript 驱动程序，仅由 Linotronic 打印机使用，以节省纸张。
+此值特定于 PostScript 驱动程序，仅在 Linotronic 打印机中使用，以节省纸张。
 
-### 另见
+### 另请参见
 
-* 类 [PaperSize](../../papersize/)
-* 类 [PaperSizes](../)
-* 命名空间 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

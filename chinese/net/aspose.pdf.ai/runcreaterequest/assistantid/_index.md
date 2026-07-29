@@ -1,12 +1,12 @@
 ---
-title: RunCreateRequest.AssistantId
-second_title: Aspose.PDF for .NET API Reference
-description: RunCreateRequest 属性。获取或设置用于执行此运行的助手 ID
+title: "RunCreateRequest.AssistantId"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "RunCreateRequest 属性。获取或设置用于执行此运行的助手 ID"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.ai/runcreaterequest/assistantid/
 ---
-## RunCreateRequest.AssistantId 属性
+## RunCreateRequest.AssistantId property
 
 获取或设置用于执行此运行的助手 ID。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/runcreaterequest/assistantid/
 public string AssistantId { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [RunCreateRequest](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [RunCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

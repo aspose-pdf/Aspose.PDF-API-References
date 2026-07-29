@@ -1,14 +1,14 @@
 ---
-title: GraphicsAbsorber.SuppressUpdate
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicsAbsorber 方法。抑制对 Contents 和所有 Contents 的更新，旨在提高性能，另见
+title: "GraphicsAbsorber.SuppressUpdate"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GraphicsAbsorber 方法。抑制对 Contents 及所有 Contents 的更新，此操作为提升性能而创建，另请参见。"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.vector/graphicsabsorber/suppressupdate/
 ---
-## GraphicsAbsorber.SuppressUpdate 方法
+## GraphicsAbsorber.SuppressUpdate method
 
-抑制对 [`Contents`](../../../aspose.pdf/page/contents/) 和所有 [`Contents`](../../../aspose.pdf/xform/contents/) 的更新，旨在提高性能，另见 。
+抑制对 [`Contents`](../../../aspose.pdf/page/contents/) 及所有 [`Contents`](../../../aspose.pdf/xform/contents/) 的更新，此操作为提升性能而创建，另请参见。
 
 ```csharp
 public void SuppressUpdate()
@@ -26,8 +26,10 @@ foreach (var el in graphicAbsorber.Elements)
 va.ResumeUpdate();
 ```
 
-### 另见
+### 另请参见
 
-* 类 [GraphicsAbsorber](../)
-* 命名空间 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* 程序集 [Aspose.PDF](../../../)
+* class [GraphicsAbsorber](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

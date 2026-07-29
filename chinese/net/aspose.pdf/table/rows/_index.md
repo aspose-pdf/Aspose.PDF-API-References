@@ -1,22 +1,24 @@
 ---
-title: Table.Rows
-second_title: Aspose.PDF for .NET API Reference
-description: 表属性。获取表的行
+title: "Table.Rows"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Table 属性。获取表格的行"
 type: docs
 weight: 200
 url: /zh/net/aspose.pdf/table/rows/
 ---
-## 表.行属性
+## Table.Rows property
 
-获取表的行。
+获取表格的行。
 
 ```csharp
 public Rows Rows { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Rows](../../rows/)
-* 类 [Table](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Rows](../../rows/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

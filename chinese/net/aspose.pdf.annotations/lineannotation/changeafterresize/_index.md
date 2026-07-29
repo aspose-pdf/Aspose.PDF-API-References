@@ -1,12 +1,12 @@
 ---
-title: LineAnnotation.ChangeAfterResize
-second_title: Aspose.PDF for .NET API Reference
-description: LineAnnotation 方法。根据矩阵变换更新起始点和结束点
+title: "LineAnnotation.ChangeAfterResize"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "LineAnnotation 方法。根据矩阵变换更新起始点和结束点"
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf.annotations/lineannotation/changeafterresize/
 ---
-## LineAnnotation.ChangeAfterResize 方法
+## LineAnnotation.ChangeAfterResize method
 
 根据矩阵变换更新起始点和结束点。
 
@@ -18,9 +18,11 @@ public override void ChangeAfterResize(Matrix transform)
 | --- | --- | --- |
 | transform | Matrix | 指定变换的矩阵。 |
 
-### 另请参阅
+### 另请参见
 
 * class [Matrix](../../../aspose.pdf/matrix/)
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

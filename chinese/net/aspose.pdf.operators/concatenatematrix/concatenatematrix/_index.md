@@ -1,14 +1,14 @@
 ---
-title: ConcatenateMatrix.ConcatenateMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: ConcatenateMatrix 构造函数。初始化运算符
+title: "ConcatenateMatrix.ConcatenateMatrix"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ConcatenateMatrix 构造函数。初始化运算符"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/concatenatematrix/concatenatematrix/
 ---
 ## ConcatenateMatrix(double, double, double, double, double, double) {#constructor_1}
 
-初始化运算符。
+初始化操作符。
 
 ```csharp
 public ConcatenateMatrix(double a, double b, double c, double d, double e, double f)
@@ -33,7 +33,7 @@ public ConcatenateMatrix(double a, double b, double c, double d, double e, doubl
 
 ## ConcatenateMatrix(Matrix) {#constructor}
 
-通过矩阵初始化运算符。
+通过矩阵初始化操作符。
 
 ```csharp
 public ConcatenateMatrix(Matrix m)
@@ -49,3 +49,5 @@ public ConcatenateMatrix(Matrix m)
 * class [ConcatenateMatrix](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

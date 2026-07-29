@@ -1,14 +1,14 @@
 ---
-title: Class PdfASymbolicFontEncodingStrategy.QueueItem
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfASymbolicFontEncodingStrategyQueueItem 类。指定编码子表。每个编码子表具有唯一的参数组合 PlatformID PlatformSpecificId。枚举 [`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) 和属性 [`CMapEncodingTable`](./cmapencodingtable/) 的实现旨在简化所需编码子表的设置。
+title: "类 PdfASymbolicFontEncodingStrategy.QueueItem"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.PdfASymbolicFontEncodingStrategyQueueItem 类。指定编码子表。每个编码子表具有 PlatformID 和 PlatformSpecificId 参数的唯一组合。实现了枚举 CMapEncodingTableType 和属性 CMapEncodingTable，以便更轻松地设置所需的编码子表。"
 type: docs
-weight: 8340
+weight: 8480
 url: /zh/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/
 ---
-## PdfASymbolicFontEncodingStrategy.QueueItem 类
+## PdfASymbolicFontEncodingStrategy.QueueItem class
 
-指定编码子表。每个编码子表具有唯一的参数组合（PlatformID，PlatformSpecificId）。枚举 [`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) 和属性 [`CMapEncodingTable`](./cmapencodingtable/) 的实现旨在简化所需编码子表的设置。
+指定编码子表。每个编码子表具有 (PlatformID, PlatformSpecificId) 参数的唯一组合。实现了枚举 [`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) 和属性 [`CMapEncodingTable`](./cmapencodingtable/)，以便更轻松地设置所需的编码子表。
 
 ```csharp
 public class QueueItem
@@ -18,7 +18,7 @@ public class QueueItem
 
 | 名称 | 描述 |
 | --- | --- |
-| [QueueItem](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/.ctor#constructor)() | 构造函数，默认指定 mac 子表（1,0） |
+| [QueueItem](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/.ctor#constructor)() | 构造函数，默认指定 mac 子表 (1,0)。 |
 | [QueueItem](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/.ctor#constructor_1)(CMapEncodingTableType) | 构造函数 |
 | [QueueItem](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/.ctor#constructor_2)(ushort, ushort) | 构造函数 |
 
@@ -26,12 +26,14 @@ public class QueueItem
 
 | 名称 | 描述 |
 | --- | --- |
-| [CMapEncodingTable](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/cmapencodingtable) { get; set; } | 通过 [`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) 枚举指定编码子表 |
+| [CMapEncodingTable](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/cmapencodingtable) { get; set; } | 通过枚举 [`CMapEncodingTableType`](../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/) 指定编码子表。 |
 | [PlatformId](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/platformid) { get; set; } | 编码子表的平台标识符 |
 | [PlatformSpecificId](../../aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/platformspecificid) { get; set; } | 编码子表的特定平台编码标识符 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfASymbolicFontEncodingStrategy](../pdfasymbolicfontencodingstrategy/)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* class [PdfASymbolicFontEncodingStrategy](../pdfasymbolicfontencodingstrategy/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class Margins
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Devices.Margins 类。此类表示图像的边距
+title: "类 Margins"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Devices.Margins 类。此类表示图像的边距。"
 type: docs
-weight: 3630
+weight: 3750
 url: /zh/net/aspose.pdf.devices/margins/
 ---
-## Margins 类
+## Margins class
 
 此类表示图像的边距。
 
@@ -30,7 +30,9 @@ public sealed class Margins
 | [Right](../../aspose.pdf.devices/margins/right/) { get; set; } | 获取或设置右侧。 |
 | [Top](../../aspose.pdf.devices/margins/top/) { get; set; } | 获取或设置顶部。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../)
+
+

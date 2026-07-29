@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.Builder.Builder
-second_title: Aspose.PDF for .NET API Reference
-description: 构造函数。使用 API 密钥初始化 Builder 类的新实例
+title: "OpenAIClient.Builder.Builder"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Builder 构造函数。使用 API 密钥初始化 Builder 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/openaiclient.builder/builder/
 ---
-## OpenAIClient.Builder 构造函数
+## OpenAIClient.Builder constructor
 
 使用 API 密钥初始化 [`Builder`](../) 类的新实例。
 
@@ -16,10 +16,12 @@ public Builder(string apiKey)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| apiKey | 字符串 | 用于客户端的 API 密钥。 |
+| apiKey | String | 用于客户端的 API 密钥。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Builder](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Builder](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

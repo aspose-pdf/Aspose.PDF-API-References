@@ -1,12 +1,12 @@
 ---
-title: PdfXmpMetadata.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata 属性。获取字典中的键
+title: "PdfXmpMetadata.Keys"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfXmpMetadata 属性。从字典中获取键。"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.facades/pdfxmpmetadata/keys/
 ---
-## PdfXmpMetadata.Keys 属性
+## PdfXmpMetadata.Keys property
 
 获取字典中的键。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.facades/pdfxmpmetadata/keys/
 public ICollection<string> Keys { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfXmpMetadata](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

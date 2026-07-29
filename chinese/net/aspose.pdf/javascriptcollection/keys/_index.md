@@ -1,12 +1,12 @@
 ---
-title: JavaScriptCollection.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: JavaScriptCollection 属性。JavaScript 集合中的键列表
+title: "JavaScriptCollection.Keys"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "JavaScriptCollection 属性。JavaScript 集合中的键列表"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/javascriptcollection/keys/
 ---
-## JavaScriptCollection.Keys 属性
+## JavaScriptCollection.Keys property
 
 JavaScript 集合中的键列表。
 
@@ -14,8 +14,10 @@ JavaScript 集合中的键列表。
 public IList<string> Keys { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [JavaScriptCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [JavaScriptCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

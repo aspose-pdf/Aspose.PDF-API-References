@@ -1,12 +1,12 @@
 ---
-title: SetHorizontalTextScaling.SetHorizontalTextScaling
-second_title: Aspose.PDF for .NET API Reference
-description: SetHorizontalTextScaling 构造函数。初始化操作符
+title: "SetHorizontalTextScaling.SetHorizontalTextScaling"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SetHorizontalTextScaling 构造函数。初始化操作符。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/sethorizontaltextscaling/sethorizontaltextscaling/
 ---
-## SetHorizontalTextScaling 构造函数
+## SetHorizontalTextScaling constructor
 
 初始化操作符。
 
@@ -18,8 +18,10 @@ public SetHorizontalTextScaling(double horizintalScaling)
 | --- | --- | --- |
 | horizintalScaling | Double | 水平缩放。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [SetHorizontalTextScaling](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SetHorizontalTextScaling](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

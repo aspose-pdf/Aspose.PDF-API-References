@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.Add
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary 方法。为指定的键添加 X 表单
+title: "AppearanceDictionary.Add"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AppearanceDictionary 方法。为指定的键添加 X 表单"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.annotations/appearancedictionary/add/
 ---
 ## Add(string, XForm) {#add_2}
 
-为指定的键添加 X 表单。
+为指定键添加 X 表单。
 
 ```csharp
 public void Add(string key, XForm value)
@@ -16,21 +16,21 @@ public void Add(string key, XForm value)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| key | 字符串 | 元素键。 |
-| value | XForm | XForm 对象值。 |
+| 键 | String | 元素键。 |
+| 值 | XForm | XForm 对象值。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [XForm](../../../aspose.pdf/xform/)
-* 类 [AppearanceDictionary](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add(KeyValuePair&lt;string, XForm&gt;) {#add}
 
-将键值对添加到字典中。
+向字典中添加键和值对。
 
 ```csharp
 public void Add(KeyValuePair<string, XForm> item)
@@ -38,11 +38,13 @@ public void Add(KeyValuePair<string, XForm> item)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| item | KeyValuePair`2 | 要添加的项。 |
+| item | KeyValuePair`2 | 待添加的项。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [XForm](../../../aspose.pdf/xform/)
-* 类 [AppearanceDictionary](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

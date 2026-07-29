@@ -1,22 +1,24 @@
 ---
-title: AbsorbedTable.RowList
-second_title: Aspose.PDF for .NET API Reference
-description: AbsorbedTable 属性。获取包含表格行的只读 IList
+title: "AbsorbedTable.RowList"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AbsorbedTable 属性。获取只读 IList，包含表格的行。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.text/absorbedtable/rowlist/
 ---
-## AbsorbedTable.RowList 属性
+## AbsorbedTable.RowList property
 
-获取包含表格行的只读 IList
+获取只读 IList，包含表格的行
 
 ```csharp
 public IList<AbsorbedRow> RowList { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [AbsorbedRow](../../absorbedrow/)
-* 类 [AbsorbedTable](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AbsorbedRow](../../absorbedrow/)
+* class [AbsorbedTable](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

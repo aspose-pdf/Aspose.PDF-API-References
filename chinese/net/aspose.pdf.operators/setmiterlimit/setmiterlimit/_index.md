@@ -1,12 +1,12 @@
 ---
-title: SetMiterLimit.SetMiterLimit
-second_title: Aspose.PDF for .NET API Reference
-description: SetMiterLimit 构造函数。初始化操作符
+title: "SetMiterLimit.SetMiterLimit"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SetMiterLimit 构造函数。初始化操作符"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/setmiterlimit/setmiterlimit/
 ---
-## SetMiterLimit 构造函数
+## SetMiterLimit constructor
 
 初始化操作符。
 
@@ -20,6 +20,8 @@ public SetMiterLimit(double miterLimit)
 
 ### 另请参见
 
-* 类 [SetMiterLimit](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SetMiterLimit](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

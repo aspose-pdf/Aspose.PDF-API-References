@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateNoteElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent 方法。创建 NoteElement
+title: "ITaggedContent.CreateNoteElement"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ITaggedContent 方法。创建 NoteElement"
 type: docs
-weight: 190
+weight: 220
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createnoteelement/
 ---
-## ITaggedContent.CreateNoteElement 方法
+## ITaggedContent.CreateNoteElement method
 
 创建 [`NoteElement`](../../../aspose.pdf.logicalstructure/noteelement/)。
 
@@ -16,11 +16,13 @@ public NoteElement CreateNoteElement()
 
 ### 返回值
 
-创建的结构元素。
+已创建结构元素。
 
-### 另请参阅
+### 另请参见
 
-* 类 [NoteElement](../../../aspose.pdf.logicalstructure/noteelement/)
-* 接口 [ITaggedContent](../)
-* 命名空间 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* 程序集 [Aspose.PDF](../../../)
+* class [NoteElement](../../../aspose.pdf.logicalstructure/noteelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

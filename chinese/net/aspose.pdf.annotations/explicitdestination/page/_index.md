@@ -1,12 +1,12 @@
 ---
-title: ExplicitDestination.Page
-second_title: Aspose.PDF for .NET API Reference
-description: ExplicitDestination 属性。获取目标页面对象
+title: "ExplicitDestination.Page"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ExplicitDestination 属性。获取目标页面对象"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.annotations/explicitdestination/page/
 ---
-## ExplicitDestination.Page 属性
+## ExplicitDestination.Page property
 
 获取目标页面对象
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.annotations/explicitdestination/page/
 public Page Page { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Page](../../../aspose.pdf/page/)
-* 类 [ExplicitDestination](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [ExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

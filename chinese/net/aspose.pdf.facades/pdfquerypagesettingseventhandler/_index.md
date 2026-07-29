@@ -1,14 +1,14 @@
 ---
-title: Delegate PdfQueryPageSettingsEventHandler
-second_title: Aspose.PDF for .NET API Reference
-description: 表示处理 PdfViewer 的 PdfQueryPageSettings 事件的方法
+title: "委托 PdfQueryPageSettingsEventHandler"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "表示处理 PdfViewer 的 PdfQueryPageSettings 事件的方法"
 type: docs
-weight: 4620
+weight: 4740
 url: /zh/net/aspose.pdf.facades/pdfquerypagesettingseventhandler/
 ---
-## PdfQueryPageSettingsEventHandler 委托
+## PdfQueryPageSettingsEventHandler delegate
 
-表示处理 [`PdfQueryPageSettings`](../pdfviewer/pdfquerypagesettings/) 事件的方法，该事件属于 [`PdfViewer`](../pdfviewer/)。
+表示处理 [`PdfQueryPageSettings`](../pdfviewer/pdfquerypagesettings/) 事件的 [`PdfViewer`](../pdfviewer/) 方法。
 
 ```csharp
 public delegate void PdfQueryPageSettingsEventHandler(object sender, 
@@ -17,13 +17,15 @@ public delegate void PdfQueryPageSettingsEventHandler(object sender,
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| sender | Object | 事件的源。 |
-| queryPageSettingsEventArgs | PdfQueryPageSettingsEventArgs | 包含事件数据的 [`PdfQueryPageSettingsEventArgs`](../../aspose.pdf.printing/pdfquerypagesettingseventargs/)。 |
-| currentPageInfo | PdfPrintPageInfo | 当前打印的页面信息。 |
+| 发送者 | 对象 | 事件的来源。 |
+| queryPageSettingsEventArgs | PdfQueryPageSettingsEventArgs | 一个包含事件数据的[`PdfQueryPageSettingsEventArgs`](../../aspose.pdf.printing/pdfquerypagesettingseventargs/)。 |
+| currentPageInfo | PdfPrintPageInfo | 当前打印的 Page 信息。 |
 
-### 另见
+### 另请参见
 
-* 类 [PdfQueryPageSettingsEventArgs](../../aspose.pdf.printing/pdfquerypagesettingseventargs/)
-* 类 [PdfPrintPageInfo](../pdfprintpageinfo/)
-* 命名空间 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../)
+* class [PdfQueryPageSettingsEventArgs](../../aspose.pdf.printing/pdfquerypagesettingseventargs/)
+* class [PdfPrintPageInfo](../pdfprintpageinfo/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

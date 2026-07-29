@@ -1,12 +1,12 @@
 ---
-title: XmpValue.IsString
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue 属性。如果值是字符串，则返回 true
+title: "XmpValue.IsString"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpValue 属性。返回 true 如果值是字符串"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/xmpvalue/isstring/
 ---
-## XmpValue.IsString 属性
+## XmpValue.IsString property
 
 如果值是字符串，则返回 true。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/xmpvalue/isstring/
 public bool IsString { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XmpValue](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

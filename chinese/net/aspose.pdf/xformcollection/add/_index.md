@@ -1,14 +1,14 @@
 ---
-title: XFormCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: XFormCollection 方法。将新的 XForm 添加到集合中
+title: "XFormCollection.Add"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XFormCollection 方法。向集合中添加新的 XForm"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/xformcollection/add/
 ---
-## XFormCollection.Add 方法
+## XFormCollection.Add method
 
-将新的 XForm 添加到集合中。
+向集合中添加新的 XForm。
 
 ```csharp
 public void Add(XForm item)
@@ -18,9 +18,11 @@ public void Add(XForm item)
 | --- | --- | --- |
 | item | XForm | 要添加到集合中的 XForm。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [XForm](../../xform/)
-* 类 [XFormCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XForm](../../xform/)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

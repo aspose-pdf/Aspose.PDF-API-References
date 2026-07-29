@@ -1,12 +1,12 @@
 ---
-title: AssistantCreateRequest.Name
-second_title: Aspose.PDF for .NET API Reference
-description: AssistantCreateRequest 属性。获取或设置助手的名称。最大长度为 256 个字符
+title: "AssistantCreateRequest.Name"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AssistantCreateRequest 属性。获取或设置助手的名称。最大长度为 256 个字符。"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.ai/assistantcreaterequest/name/
 ---
-## AssistantCreateRequest.Name 属性
+## AssistantCreateRequest.Name property
 
 获取或设置助手的名称。最大长度为 256 个字符。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/assistantcreaterequest/name/
 public string Name { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [AssistantCreateRequest](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AssistantCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

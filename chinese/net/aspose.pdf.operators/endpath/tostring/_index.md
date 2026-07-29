@@ -1,12 +1,12 @@
 ---
-title: EndPath.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: EndPath 方法。操作符的文本表示
+title: "EndPath.ToString"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "EndPath 方法。运算符的文本表示"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.operators/endpath/tostring/
 ---
-## EndPath.ToString 方法
+## EndPath.ToString method
 
 操作符的文本表示。
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 操作符的文本表示。
 
-### 另请参阅
+### 另请参见
 
-* 类 [EndPath](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [EndPath](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

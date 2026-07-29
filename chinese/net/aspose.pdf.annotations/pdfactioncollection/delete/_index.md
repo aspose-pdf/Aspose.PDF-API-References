@@ -1,14 +1,14 @@
 ---
-title: PdfActionCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: PdfActionCollection 方法。通过索引删除操作
+title: "PdfActionCollection.Delete"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfActionCollection 方法。按索引移除操作"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.annotations/pdfactioncollection/delete/
 ---
-## PdfActionCollection.Delete 方法
+## PdfActionCollection.Delete method
 
-通过索引删除操作。
+按索引删除操作。
 
 ```csharp
 public void Delete(int index)
@@ -16,10 +16,12 @@ public void Delete(int index)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| index | Int32 | 要删除的操作的索引。 |
+| index | Int32 | 要移除的操作索引。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfActionCollection](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

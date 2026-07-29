@@ -1,21 +1,23 @@
 ---
-title: Stamp.YIndent
-second_title: Aspose.PDF for .NET API Reference
-description: 印章属性。垂直印章坐标，从底部开始
+title: "Stamp.YIndent"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Stamp 属性。垂直印章坐标，从底部开始"
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf/stamp/yindent/
 ---
-## Stamp.YIndent 属性
+## Stamp.YIndent property
 
-垂直印章坐标，从底部开始。
+印章的垂直坐标，起始于底部。
 
 ```csharp
 public virtual double YIndent { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Stamp](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

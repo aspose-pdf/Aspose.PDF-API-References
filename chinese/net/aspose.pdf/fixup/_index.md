@@ -1,14 +1,14 @@
 ---
-title: Enum Fixup
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Fixup 枚举。此枚举表示一种 Fixup 类型
+title: "枚举 Fixup"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Fixup 枚举。此枚举表示一种 Fixup 类型"
 type: docs
-weight: 4860
+weight: 4980
 url: /zh/net/aspose.pdf/fixup/
 ---
-## Fixup 枚举
+## Fixup enumeration
 
-此枚举表示一种 Fixup 类型。
+此枚举表示 Fixup 的一种类型。
 
 ```csharp
 public enum Fixup
@@ -22,10 +22,12 @@ public enum Fixup
 | ConvertFontsToOutlines | `1` | 不支持。 |
 | DerivePageGeometryBoxesFromCropMarks | `2` | 不支持。 |
 | EmbedMissingFonts | `3` | 不支持。 |
-| RotatePagesToLandscape | `4` | 如果是纵向，则将所有页面旋转 90 度为横向。 |
-| RotatePagesToPortrait | `5` | 如果是横向，则将所有页面旋转 90 度为纵向。 |
+| RotatePagesToLandscape | `4` | 如果为纵向，则将所有页面旋转 90 度为横向。 |
+| RotatePagesToPortrait | `5` | 如果为横向，则将所有页面旋转 90 度为纵向。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

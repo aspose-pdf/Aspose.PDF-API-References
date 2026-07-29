@@ -1,12 +1,12 @@
 ---
-title: Class PrintController
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PrintController 类。表示打印控制器
+title: "类 PrintController"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.PrintController 类。表示打印控制器"
 type: docs
-weight: 9490
+weight: 9640
 url: /zh/net/aspose.pdf/printcontroller/
 ---
-## PrintController 类
+## PrintController class
 
 表示打印控制器。
 
@@ -30,13 +30,15 @@ public sealed class PrintController : PrintController, IDisposable
 
 | 名称 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.pdf/printcontroller/dispose/)() | 释放资源。 |
+| [Dispose](../../aspose.pdf/printcontroller/dispose/)() | 释放。 |
 | override [OnEndPage](../../aspose.pdf/printcontroller/onendpage/)(PrintDocument, PrintPageEventArgs) | 在页面结束打印时触发。 |
 | override [OnEndPrint](../../aspose.pdf/printcontroller/onendprint/)(PrintDocument, PrintEventArgs) | 在页面开始打印时触发。 |
 | override [OnStartPage](../../aspose.pdf/printcontroller/onstartpage/)(PrintDocument, PrintPageEventArgs) | 在页面开始打印时触发。 |
 | override [OnStartPrint](../../aspose.pdf/printcontroller/onstartprint/)(PrintDocument, PrintEventArgs) | 在页面开始打印时触发。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

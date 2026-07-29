@@ -1,21 +1,23 @@
 ---
-title: ThreadMessageResponse.CreatedAt
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageResponse 属性。获取或设置消息创建时的 Unix 时间戳（以秒为单位）
+title: "ThreadMessageResponse.CreatedAt"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ThreadMessageResponse 属性。获取或设置消息创建时的 Unix 时间戳（秒）"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.ai/threadmessageresponse/createdat/
 ---
-## ThreadMessageResponse.CreatedAt 属性
+## ThreadMessageResponse.CreatedAt property
 
-获取或设置消息创建时的 Unix 时间戳（以秒为单位）。
+获取或设置消息创建时的 Unix 时间戳（秒）。
 
 ```csharp
 public long CreatedAt { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ThreadMessageResponse](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ThreadMessageResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

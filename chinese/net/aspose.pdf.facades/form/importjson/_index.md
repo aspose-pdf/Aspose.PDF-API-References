@@ -1,14 +1,14 @@
 ---
-title: Form.ImportJson
-second_title: Aspose.PDF for .NET API Reference
-description: 表单方法。将所有字段数据从 JSON 流导入到与字段全名匹配的文档字段中
+title: "Form.ImportJson"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Form 方法。从 JSON 流导入所有字段数据到文档字段中，按完整名称匹配字段"
 type: docs
 weight: 290
 url: /zh/net/aspose.pdf.facades/form/importjson/
 ---
-## Form.ImportJson 方法
+## Form.ImportJson method
 
-将所有字段数据从 JSON 流导入到文档字段中，按字段全名匹配字段。
+从 JSON 流导入所有字段数据到文档字段中，按完整名称匹配字段。
 
 ```csharp
 public void ImportJson(Stream inputJsonStream)
@@ -16,7 +16,7 @@ public void ImportJson(Stream inputJsonStream)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| inputJsonStream | Stream | 包含要导入到文档字段中的字段数据的输入 JSON 流。 |
+| inputJsonStream | Stream | 包含要导入到文档字段的字段数据的输入 JSON 流。 |
 
 ## 示例
 
@@ -28,8 +28,10 @@ fs.Close();
 form.Save();
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Form](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

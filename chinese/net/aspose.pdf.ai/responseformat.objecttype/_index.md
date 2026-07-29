@@ -1,9 +1,9 @@
 ---
-title: Class ResponseFormat.ObjectType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ResponseFormatObjectType 类。表示响应格式中的对象值
+title: "类 ResponseFormat.ObjectType"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.ResponseFormatObjectType 类。表示响应格式中的对象值。"
 type: docs
-weight: 970
+weight: 1050
 url: /zh/net/aspose.pdf.ai/responseformat.objecttype/
 ---
 ## ResponseFormat.ObjectType class
@@ -14,20 +14,22 @@ url: /zh/net/aspose.pdf.ai/responseformat.objecttype/
 public class ObjectType
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [ObjectType](../../aspose.pdf.ai/responseformat.objecttype/.ctor)() | 默认构造函数。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [ResponseType](../../aspose.pdf.ai/responseformat.objecttype/responsetype) { get; set; } | 获取或设置对象值的类型。 |
 
-### See Also
+### 另请参见
 
 * class [ResponseFormat](../responseformat/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

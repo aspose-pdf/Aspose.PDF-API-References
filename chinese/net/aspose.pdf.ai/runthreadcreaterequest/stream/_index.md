@@ -1,21 +1,23 @@
 ---
-title: RunThreadCreateRequest.Stream
-second_title: Aspose.PDF for .NET API Reference
-description: RunThreadCreateRequest 属性。获取或设置是否使用流式传输。如果为 true，则返回在运行期间发生的事件流，作为服务器发送的事件，当运行进入终止状态时以数据 DONE 消息终止。
+title: "RunThreadCreateRequest.Stream"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "RunThreadCreateRequest 属性。获取或设置是否使用流式传输。如果为 true，则返回在运行期间发生的事件流，作为服务器发送事件（Server‑Sent Events），当运行进入终止状态并伴随 data DONE 消息时结束。"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.ai/runthreadcreaterequest/stream/
 ---
-## RunThreadCreateRequest.Stream 属性
+## RunThreadCreateRequest.Stream property
 
-获取或设置是否使用流式传输。如果为 true，则返回在运行期间发生的事件流，作为服务器发送的事件，当运行进入终止状态时以数据: [DONE] 消息终止。
+获取或设置是否使用流式传输。如果为 true，则返回在运行期间发生的事件流，作为服务器发送事件（server‑sent events），并在运行进入终止状态并收到 data: [DONE] 消息时结束。
 
 ```csharp
 public bool? Stream { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [RunThreadCreateRequest](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [RunThreadCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

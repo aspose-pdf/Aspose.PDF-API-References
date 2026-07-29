@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchema.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema 方法。 从架构中移除对象
+title: "XmpPdfAExtensionSchema.Remove"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpPdfAExtensionSchema 方法。从模式中移除对象"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf/xmppdfaextensionschema/remove/
 ---
-## XmpPdfAExtensionSchema.Remove 方法
+## XmpPdfAExtensionSchema.Remove method
 
-从架构中移除对象。
+从模式中移除对象。
 
 ```csharp
 public void Remove(XmpPdfAExtensionObject obj)
@@ -20,7 +20,9 @@ public void Remove(XmpPdfAExtensionObject obj)
 
 ### 另请参见
 
-* 类 [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
-* 类 [XmpPdfAExtensionSchema](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

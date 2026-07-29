@@ -1,12 +1,12 @@
 ---
-title: PrinterSettings.PrinterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterSettings 构造函数。默认构造函数
+title: "PrinterSettings.PrinterSettings"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PrinterSettings constructor. 默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.printing/printersettings/printersettings/
 ---
-## PrinterSettings 构造函数
+## PrinterSettings constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.printing/printersettings/printersettings/
 public PrinterSettings()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PrinterSettings](../)
-* 命名空间 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

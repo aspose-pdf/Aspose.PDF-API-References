@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.AddRange
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionValueType 方法。添加字段范围
+title: "XmpPdfAExtensionValueType.AddRange"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpPdfAExtensionValueType 方法。添加字段范围"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf/xmppdfaextensionvaluetype/addrange/
 ---
-## XmpPdfAExtensionValueType.AddRange 方法
+## XmpPdfAExtensionValueType.AddRange method
 
 添加字段范围。
 
@@ -16,11 +16,13 @@ public void AddRange(XmpPdfAExtensionField[] fields)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| fields | XmpPdfAExtensionField[] | 要添加的字段。 |
+| 字段 | XmpPdfAExtensionField[] | 要添加的字段。 |
 
-### 另见
+### 另请参见
 
-* 类 [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
-* 类 [XmpPdfAExtensionValueType](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

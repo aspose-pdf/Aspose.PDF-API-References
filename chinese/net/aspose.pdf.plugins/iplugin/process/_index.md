@@ -1,14 +1,14 @@
 ---
-title: IPlugin.Process
-second_title: Aspose.PDF for .NET API Reference
-description: IPlugin 方法。为插件充电以使用定义的选项进行处理
+title: "IPlugin.Process"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "IPlugin 方法。调用插件使用已定义的选项进行处理"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.plugins/iplugin/process/
 ---
-## IPlugin.Process 方法
+## IPlugin.Process method
 
-为插件充电以使用定义的选项进行处理
+对插件进行收费，以使用已定义的选项进行处理。
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -22,10 +22,12 @@ public ResultContainer Process(IPluginOptions options)
 
 一个包含处理结果的 ResultContainer 对象
 
-### 另请参阅
+### 另请参见
 
-* 类 [ResultContainer](../../resultcontainer/)
-* 接口 [IPluginOptions](../../ipluginoptions/)
-* 接口 [IPlugin](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* interface [IPlugin](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

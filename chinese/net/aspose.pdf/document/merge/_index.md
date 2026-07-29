@@ -1,9 +1,9 @@
 ---
-title: Document.Merge
-second_title: Aspose.PDF for .NET API Reference
-description: Document 方法。合并文档
+title: "Document.Merge"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 方法。合并文档"
 type: docs
-weight: 740
+weight: 760
 url: /zh/net/aspose.pdf/document/merge/
 ---
 ## Merge(MergeOptions, params Document[]) {#merge_1}
@@ -17,9 +17,9 @@ public void Merge(MergeOptions mergeOptions, params Document[] documents)
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | mergeOptions | MergeOptions | 合并选项。 |
-| documents | Document[] | 要合并的文档。 |
+| 文档 | Document[] | 要合并的文档。 |
 
-### 另见
+### 另请参见
 
 * class [MergeOptions](../../document.mergeoptions/)
 * class [Document](../)
@@ -39,9 +39,9 @@ public void Merge(MergeOptions mergeOptions, params string[] files)
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | mergeOptions | MergeOptions | 合并选项。 |
-| files | String[] | 要合并的 pdf 文件。 |
+| 文件 | String[] | 要合并的 pdf 文件。 |
 
-### 另见
+### 另请参见
 
 * class [MergeOptions](../../document.mergeoptions/)
 * class [Document](../)
@@ -60,9 +60,9 @@ public void Merge(params Document[] documents)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| documents | Document[] | 要合并的文档。 |
+| 文档 | Document[] | 要合并的文档。 |
 
-### 另见
+### 另请参见
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -80,10 +80,12 @@ public void Merge(params string[] files)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| files | String[] | 要合并的 pdf 文件。 |
+| 文件 | String[] | 要合并的 pdf 文件。 |
 
-### 另见
+### 另请参见
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

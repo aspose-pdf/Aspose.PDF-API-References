@@ -1,12 +1,12 @@
 ---
-title: Annotation.StartIndex
-second_title: Aspose.PDF for .NET API Reference
-description: 注释属性。获取或设置需要替换的消息内容中文本的起始索引
+title: "Annotation.StartIndex"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Annotation 属性。获取或设置需要替换的消息内容中文本的起始索引。"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.ai/annotation/startindex/
 ---
-## Annotation.StartIndex 属性
+## Annotation.StartIndex property
 
 获取或设置需要替换的消息内容中文本的起始索引。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/annotation/startindex/
 public int StartIndex { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [Annotation](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

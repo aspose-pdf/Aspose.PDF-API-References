@@ -1,12 +1,12 @@
 ---
-title: PdfFileInfo.GetPageHeight
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileInfo 方法。获取指定页面的高度
+title: "PdfFileInfo.GetPageHeight"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileInfo 方法。获取指定页面的高度"
 type: docs
 weight: 240
 url: /zh/net/aspose.pdf.facades/pdffileinfo/getpageheight/
 ---
-## PdfFileInfo.GetPageHeight 方法
+## PdfFileInfo.GetPageHeight method
 
 获取指定页面的高度。
 
@@ -24,6 +24,8 @@ public float GetPageHeight(int pageNum)
 
 ### 另请参见
 
-* 类 [PdfFileInfo](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

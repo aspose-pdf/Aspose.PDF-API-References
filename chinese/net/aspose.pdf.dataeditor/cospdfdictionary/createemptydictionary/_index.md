@@ -1,7 +1,7 @@
 ---
-title: CosPdfDictionary.CreateEmptyDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfDictionary 方法。创建一个将附加到页面的空字典
+title: "CosPdfDictionary.CreateEmptyDictionary"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CosPdfDictionary 方法。创建一个将附加到页面的空字典"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.dataeditor/cospdfdictionary/createemptydictionary/
@@ -16,11 +16,11 @@ public static CosPdfDictionary CreateEmptyDictionary(Page page)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | 结果字典将附加到此页面。 |
+| 页面 | 页面 | 结果字典将附加到此页面。 |
 
 ### 返回值
 
-一个空字典。
+空字典。
 
 ### 异常
 
@@ -47,17 +47,17 @@ public static CosPdfDictionary CreateEmptyDictionary(Document document)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Document | 结果字典将附加到此文档。 |
+| 文档 | Document | 结果字典将附加到此文档。 |
 
 ### 返回值
 
-一个空字典。
+空字典。
 
 ### 异常
 
 | 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 文档为 null。 |
+| ArgumentNullException | Document 为 null。 |
 
 ### 另请参见
 
@@ -65,3 +65,5 @@ public static CosPdfDictionary CreateEmptyDictionary(Document document)
 * class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

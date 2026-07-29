@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.SetColorValue
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttribute 方法。设置值颜色
+title: "StructureAttribute.SetColorValue"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "StructureAttribute 方法。设置 Value Color"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.logicalstructure/structureattribute/setcolorvalue/
 ---
-## StructureAttribute.SetColorValue 方法
+## StructureAttribute.SetColorValue method
 
-设置值颜色。
+设置 Value Color。
 
 ```csharp
 public void SetColorValue(Color color)
@@ -16,11 +16,13 @@ public void SetColorValue(Color color)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| color | Color | 颜色。 |
+| 颜色 | Color | 颜色。 |
 
 ### 另请参见
 
-* 类 [Color](../../../aspose.pdf/color/)
-* 类 [StructureAttribute](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

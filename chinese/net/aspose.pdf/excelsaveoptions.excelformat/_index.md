@@ -1,14 +1,14 @@
 ---
-title: Enum ExcelSaveOptions.ExcelFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ExcelSaveOptionsExcelFormat 枚举。允许指定 .xlsx、.xls/xml 或 csv 文件格式。默认值为 XLSX
+title: "枚举 ExcelSaveOptions.ExcelFormat"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.ExcelSaveOptionsExcelFormat 枚举。允许指定 .xlsx、.xls/xml 或 csv 文件格式。默认值为 XLSX"
 type: docs
-weight: 4090
+weight: 4210
 url: /zh/net/aspose.pdf/excelsaveoptions.excelformat/
 ---
-## ExcelSaveOptions.ExcelFormat 枚举
+## ExcelSaveOptions.ExcelFormat enumeration
 
-允许指定 .xlsx、.xls/xml 或 csv 文件格式。默认值为 XLSX;
+允许指定 .xlsx、.xls/xml 或 csv 文件格式。默认值为 XLSX；
 
 ```csharp
 public enum ExcelFormat
@@ -19,13 +19,15 @@ public enum ExcelFormat
 | 名称 | 值 | 描述 |
 | --- | --- | --- |
 | XMLSpreadSheet2003 | `0` | Excel 2003 XML 格式 |
-| XLSX | `1` | Office Open XML (.xlsx) 文件格式 |
-| CSV | `2` | 逗号分隔值 (CSV) 文件格式 |
-| XLSM | `3` | 启用宏的 Office Open XML (.xlsm) 文件格式 |
+| XLSX | `1` | Office Open XML（.xlsx）文件格式 |
+| CSV | `2` | 逗号分隔值（CSV）文件格式 |
+| XLSM | `3` | 支持宏的 Office Open XML（.xlsm）文件格式 |
 | ODS | `4` | OpenDocument 电子表格 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [ExcelSaveOptions](../excelsaveoptions/)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* class [ExcelSaveOptions](../excelsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

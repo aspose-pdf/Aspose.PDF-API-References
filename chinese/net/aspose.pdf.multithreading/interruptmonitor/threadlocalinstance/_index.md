@@ -1,12 +1,12 @@
 ---
-title: InterruptMonitor.ThreadLocalInstance
-second_title: Aspose.PDF for .NET API Reference
-description: InterruptMonitor 属性。获取或设置每个线程唯一的 IInterruptMonitor 实例
+title: "InterruptMonitor.ThreadLocalInstance"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "InterruptMonitor 属性。获取或设置对每个线程唯一的 IInterruptMonitor 实例"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.multithreading/interruptmonitor/threadlocalinstance/
 ---
-## InterruptMonitor.ThreadLocalInstance 属性
+## InterruptMonitor.ThreadLocalInstance property
 
 获取或设置每个线程唯一的 IInterruptMonitor 实例。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.multithreading/interruptmonitor/threadlocalinstance/
 public static IInterruptMonitor ThreadLocalInstance { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IInterruptMonitor](../../iinterruptmonitor/)
-* 类 [InterruptMonitor](../)
-* 命名空间 [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IInterruptMonitor](../../iinterruptmonitor/)
+* class [InterruptMonitor](../)
+* namespace [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
+* assembly [Aspose.PDF](../../../)
+
+

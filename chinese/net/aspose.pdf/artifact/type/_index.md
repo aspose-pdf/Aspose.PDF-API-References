@@ -1,12 +1,12 @@
 ---
-title: Artifact.Type
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact 属性。获取工件类型
+title: "Artifact.Type"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Artifact 属性。获取 artifact 类型"
 type: docs
 weight: 220
 url: /zh/net/aspose.pdf/artifact/type/
 ---
-## Artifact.Type 属性
+## Artifact.Type property
 
 获取工件类型。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf/artifact/type/
 public ArtifactType Type { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 枚举 [ArtifactType](../../artifact.artifacttype/)
-* 类 [Artifact](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [ArtifactType](../../artifact.artifacttype/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

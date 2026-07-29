@@ -1,12 +1,12 @@
 ---
-title: Form.FlattenAllFields
-second_title: Aspose.PDF for .NET API Reference
-description: 表单方法。扁平化所有字段
+title: "Form.FlattenAllFields"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Form 方法。将所有字段扁平化"
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf.facades/form/flattenallfields/
 ---
-## Form.FlattenAllFields 方法
+## Form.FlattenAllFields method
 
 扁平化所有字段。
 
@@ -21,8 +21,10 @@ Form form = new Form("PdfForm.pdf");
 form.FlattenAllFields();
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Form](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

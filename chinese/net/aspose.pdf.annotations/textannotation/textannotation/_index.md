@@ -1,14 +1,14 @@
 ---
-title: TextAnnotation.TextAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: TextAnnotation 构造函数。用于生成器时的注释构造函数
+title: "TextAnnotation.TextAnnotation"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextAnnotation 构造函数。用于在生成器中使用时的注释构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/textannotation/textannotation/
 ---
 ## TextAnnotation(Document) {#constructor}
 
-用于生成器时的注释构造函数。
+在 Generator 中使用时的注释构造函数。
 
 ```csharp
 public TextAnnotation(Document document)
@@ -16,7 +16,7 @@ public TextAnnotation(Document document)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Document | 创建文本注释的文档。 |
+| 文档 | Document | 将在 Document 中创建文本注释的文档。 |
 
 ### 另请参见
 
@@ -29,7 +29,7 @@ public TextAnnotation(Document document)
 
 ## TextAnnotation(Page, Rectangle) {#constructor_1}
 
-在指定页面上创建新的文本注释。
+在指定页面上创建新的 Text 注释。
 
 ```csharp
 public TextAnnotation(Page page, Rectangle rect)
@@ -37,8 +37,8 @@ public TextAnnotation(Page page, Rectangle rect)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | 应该创建注释的文档页面。 |
-| rect | Rectangle | 注释矩形，定义注释在页面上的位置。 |
+| 页面 | 页面 | 应创建注释的 Document 页面。 |
+| rect | Rectangle | 注释 Rectangle，定义注释在页面上的位置。 |
 
 ### 另请参见
 
@@ -47,3 +47,5 @@ public TextAnnotation(Page page, Rectangle rect)
 * class [TextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

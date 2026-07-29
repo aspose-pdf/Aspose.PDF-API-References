@@ -1,14 +1,14 @@
 ---
-title: Document.Optimize
-second_title: Aspose.PDF for .NET API Reference
-description: 文档方法。线性化文档，以便尽可能快速地打开第一页，尽可能快速地显示下一页或通过链接跟随到下一页，随着数据通过慢通道传输时逐步显示页面，首先显示最有用的数据，允许用户交互，例如在整个页面接收和显示之前执行跟随链接的操作。调用此方法实际上并不会保存文档。相反，文档只是准备好具有优化结构，然后调用保存以获取优化文档。
+title: "Document.Optimize"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 方法。线性化文档，以便  尽快打开首页  尽快显示下一页或通过链接跳转到下一页  当页面数据通过慢速通道传输时，逐步增量显示页面  优先显示最有用的数据  允许用户交互，例如在整个页面尚未接收并显示之前就可以点击链接。调用此方法并不会真正保存文档。相反，文档仅被准备为优化后的结构，需要随后调用 Save 才能得到优化后的文档。"
 type: docs
-weight: 750
+weight: 770
 url: /zh/net/aspose.pdf/document/optimize/
 ---
-## Document.Optimize 方法
+## Document.Optimize method
 
-线性化文档，以便 - 尽可能快速地打开第一页； - 尽可能快速地显示下一页或通过链接跟随到下一页； - 当页面的数据通过慢通道传输时逐步显示页面（首先显示最有用的数据）； - 允许用户交互，例如在整个页面接收和显示之前执行跟随链接的操作。调用此方法实际上并不会保存文档。相反，文档只是准备好具有优化结构，然后调用保存以获取优化文档。
+线性化文档，以实现以下目标：- 尽快打开首页；- 尽快显示下一页或通过链接跳转到下一页；- 当页面数据通过慢速通道分段传输时，逐步显示页面（优先显示最有用的数据）；- 允许用户交互（如点击链接）在整个页面接收并显示之前就可以进行。调用此方法并不会实际保存文档。相反，文档仅被准备为优化结构，随后调用 Save 以获取优化后的文档。
 
 ```csharp
 public void Optimize()
@@ -16,21 +16,21 @@ public void Optimize()
 
 ### 示例
 
-以下示例演示如何为网络优化 PDF 文档。
+以下示例展示了如何为 Web 优化 PDF 文档。
 
 ```csharp
 [C#]
-	// The path to your PDF File.
+	// PDF 文件的路径。
 	string pdfFilePath = "YOUR_PDF_FILE_PATH";
 
-	// Open document
+	// 打开文档
 	using (Document pdfDocument = new Document(pdfFilePath))
 	{
 
-	// Optimize for web
+	// 为 Web 优化
 	pdfDocument.Optimize();
 
-	// Save output document
+	// 保存输出文档
 	pdfDocument.Save(pdfFilePath);
 	}
 ```
@@ -52,8 +52,10 @@ public void Optimize()
     End Using
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Document](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

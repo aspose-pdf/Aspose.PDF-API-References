@@ -1,21 +1,23 @@
 ---
-title: PdfSaveOptions.DefaultFontName
-second_title: Aspose.PDF for .NET API Reference
-description: PdfSaveOptions 属性。用于计算机上缺失字体的默认字体名称。当保存为 PDF 的 PDF 文档包含在文档本身和设备上不可用的字体时，API 会用默认字体替换这些字体（如果在设备上找到具有 `DefaultFontName` 的字体）
+title: "PdfSaveOptions.DefaultFontName"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfSaveOptions 属性。默认用于缺失字体的字体名称。当保存为 PDF 的文档中包含在文档本身和设备上都不可用的字体时，API 会将这些字体替换为默认字体（如果在设备上找到 DefaultFontName 的字体）。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/pdfsaveoptions/defaultfontname/
 ---
-## PdfSaveOptions.DefaultFontName 属性
+## PdfSaveOptions.DefaultFontName property
 
-用于计算机上缺失字体的默认字体名称。当保存为 PDF 的 PDF 文档包含在文档本身和设备上不可用的字体时，API 会用默认字体替换这些字体（如果在设备上找到具有 `DefaultFontName` 的字体）
+默认用于缺失字体的字体名称。当保存为 PDF 的文档中包含在文档本身和设备上都不可用的字体时，API 会将这些字体替换为默认字体（如果在设备上找到 `DefaultFontName` 字体）。
 
 ```csharp
 public string DefaultFontName { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfSaveOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

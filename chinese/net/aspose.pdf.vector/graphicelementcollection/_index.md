@@ -1,12 +1,12 @@
 ---
-title: Class GraphicElementCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Vector.GraphicElementCollection 类。表示 GraphicElement 集合
+title: "类 GraphicElementCollection"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Vector.GraphicElementCollection 类。表示 GraphicElement 集合"
 type: docs
-weight: 11190
+weight: 11380
 url: /zh/net/aspose.pdf.vector/graphicelementcollection/
 ---
-## GraphicElementCollection 类
+## GraphicElementCollection class
 
 表示 [`GraphicElement`](../graphicelement/) 集合。
 
@@ -32,15 +32,17 @@ public sealed class GraphicElementCollection : ICollection<GraphicElement>
 | 名称 | 描述 |
 | --- | --- |
 | [Add](../../aspose.pdf.vector/graphicelementcollection/add/)(GraphicElement) | 向集合中添加一个新的 [`GraphicElement`](../graphicelement/)。集合中的所有项必须具有相同的 [`Parent`](../graphicelement/parent/)。 |
-| [Clear](../../aspose.pdf.vector/graphicelementcollection/clear/)() | 清除集合。 |
-| [Contains](../../aspose.pdf.vector/graphicelementcollection/contains/)(GraphicElement) | 确定集合中是否包含某个元素。 |
-| [CopyTo](../../aspose.pdf.vector/graphicelementcollection/copyto/)(GraphicElement[], int) | 将整个集合复制到一个兼容的一维数组，从目标数组的指定索引开始。 |
+| [Clear](../../aspose.pdf.vector/graphicelementcollection/clear/)() | 清空集合。 |
+| [Contains](../../aspose.pdf.vector/graphicelementcollection/contains/)(GraphicElement) | 确定元素是否在集合中。 |
+| [CopyTo](../../aspose.pdf.vector/graphicelementcollection/copyto/)(GraphicElement[], int) | 将整个集合复制到兼容的一维数组中，从目标数组的指定索引开始。 |
 | [GetEnumerator](../../aspose.pdf.vector/graphicelementcollection/getenumerator/)() | 返回整个集合的枚举器。 |
 | [Remove](../../aspose.pdf.vector/graphicelementcollection/remove/)(GraphicElement) | 删除 [`GraphicElement`](../graphicelement/) 元素。 |
-| override [ToString](../../aspose.pdf.vector/graphicelementcollection/tostring/)() | 获取此集合的字符串表示。 |
+| override [ToString](../../aspose.pdf.vector/graphicelementcollection/tostring/)() | 获取此集合的字符串表示形式。 |
 
-### 另见
+### 另请参见
 
-* 类 [GraphicElement](../graphicelement/)
-* 命名空间 [Aspose.Pdf.Vector](../../aspose.pdf.vector/)
-* 程序集 [Aspose.PDF](../../)
+* class [GraphicElement](../graphicelement/)
+* namespace [Aspose.Pdf.Vector](../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../)
+
+

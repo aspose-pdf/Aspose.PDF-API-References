@@ -1,12 +1,12 @@
 ---
-title: IEntityId.Id
-second_title: Aspose.PDF for .NET API Reference
-description: IEntityId 属性。获取或设置实体的 ID
+title: "IEntityId.Id"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "IEntityId 属性。获取或设置实体的 ID"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/ientityid/id/
 ---
-## IEntityId.Id 属性
+## IEntityId.Id property
 
 获取或设置实体的 ID。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/ientityid/id/
 public string Id { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IEntityId](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IEntityId](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PdfFormatConversionOptions.IccProfileFileName
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions 属性。获取或设置 icc 配置文件名称的文件名。如果为 null，则使用默认的 icc 配置文件。
+title: "PdfFormatConversionOptions.IccProfileFileName"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFormatConversionOptions 属性。获取或设置 ICC 配置文件的文件名。如果为 null，则使用默认的 ICC 配置文件"
 type: docs
-weight: 90
+weight: 100
 url: /zh/net/aspose.pdf/pdfformatconversionoptions/iccprofilefilename/
 ---
-## PdfFormatConversionOptions.IccProfileFileName 属性
+## PdfFormatConversionOptions.IccProfileFileName property
 
-获取或设置 icc 配置文件名称的文件名。如果为 null，则使用默认的 icc 配置文件。
+获取或设置 icc 配置文件的文件名。如果为 null，则使用默认的 icc 配置文件。
 
 ```csharp
 public string IccProfileFileName { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfFormatConversionOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

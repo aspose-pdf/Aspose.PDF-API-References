@@ -1,26 +1,28 @@
 ---
-title: PDF3DAnnotation.Pdf3DArtwork
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DAnnotation 属性。获取 3D 艺术作品
+title: "PDF3DAnnotation.Pdf3DArtwork"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PDF3DAnnotation 属性。获取 3D 艺术作品"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.annotations/pdf3dannotation/pdf3dartwork/
 ---
-## PDF3DAnnotation.Pdf3DArtwork 属性
+## PDF3DAnnotation.Pdf3DArtwork property
 
-获取 3D 艺术作品。
+获取 3D 艺术品。
 
 ```csharp
 public PDF3DArtwork Pdf3DArtwork { get; }
 ```
 
-### 属性值
+### Property Value
 
-PDF3D 艺术作品。
+PDF3 d 艺术作品。
 
-### 另请参阅
+### 另请参见
 
-* 类 [PDF3DArtwork](../../pdf3dartwork/)
-* 类 [PDF3DAnnotation](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PDF3DArtwork](../../pdf3dartwork/)
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: EMC.EMC
-second_title: Aspose.PDF for .NET API Reference
-description: EMC 构造函数。初始化操作符
+title: "EMC.EMC"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "EMC 构造函数。初始化运算符"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/emc/emc/
 ---
-## EMC 构造函数
+## EMC constructor
 
 初始化操作符。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.operators/emc/emc/
 public EMC()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [EMC](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [EMC](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PdfToImage.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: PdfToImage 方法。 实际上，它并不是必需的。
+title: "PdfToImage.Dispose"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfToImage 方法。 实现。 实际上这并非必要"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.plugins/pdftoimage/dispose/
 ---
-## PdfToImage.Dispose 方法
+## PdfToImage.Dispose method
 
-实现了。 实际上，它并不是必需的。
+实现 . 实际上，对 . 并非必要。
 
 ```csharp
 public void Dispose()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfToImage](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfToImage](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

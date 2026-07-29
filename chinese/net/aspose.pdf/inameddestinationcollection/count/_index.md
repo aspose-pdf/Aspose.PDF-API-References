@@ -1,21 +1,23 @@
 ---
-title: INamedDestinationCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: INamedDestinationCollection 属性。返回目标的数量
+title: "INamedDestinationCollection.Count"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "INamedDestinationCollection 属性。返回目标的数量"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/inameddestinationcollection/count/
 ---
-## INamedDestinationCollection.Count 属性
+## INamedDestinationCollection.Count property
 
-返回目标的数量。
+返回目标的计数。
 
 ```csharp
 public int Count { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 接口 [INamedDestinationCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [INamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

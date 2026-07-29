@@ -1,14 +1,14 @@
 ---
-title: Class Circle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.Circle 类。表示圆形
+title: "类 Circle"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Drawing.Circle 类。表示圆形"
 type: docs
-weight: 3890
+weight: 4010
 url: /zh/net/aspose.pdf.drawing/circle/
 ---
-## Circle 类
+## Circle class
 
-表示圆形。
+表示圆。
 
 ```csharp
 public sealed class Circle : Shape
@@ -24,11 +24,11 @@ public sealed class Circle : Shape
 
 | 名称 | 描述 |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | 获取或设置一个 [`GraphInfo`](../shape/graphinfo/) 对象，该对象指示图形信息，例如颜色、线宽等。 |
-| [PosX](../../aspose.pdf.drawing/circle/posx/) { get; set; } | 获取或设置一个浮点值，该值指示圆心的 x 坐标。 |
-| [PosY](../../aspose.pdf.drawing/circle/posy/) { get; set; } | 获取或设置一个浮点值，该值指示圆心的 y 坐标。 |
-| [Radius](../../aspose.pdf.drawing/circle/radius/) { get; set; } | 获取或设置一个浮点值，该值指示圆的半径。 |
-| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | 获取或设置形状的文本 |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | 获取或设置一个 [`GraphInfo`](../shape/graphinfo/) 对象，指示图形信息，例如颜色、线宽等。 |
+| [PosX](../../aspose.pdf.drawing/circle/posx/) { get; set; } | 获取或设置一个浮点值，指示圆心的 x 坐标。 |
+| [PosY](../../aspose.pdf.drawing/circle/posy/) { get; set; } | 获取或设置一个浮点值，指示圆心的 y 坐标。 |
+| [Radius](../../aspose.pdf.drawing/circle/radius/) { get; set; } | 获取或设置一个浮点值，指示圆的半径。 |
+| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | 获取或设置形状的文本。 |
 
 ## 方法
 
@@ -36,8 +36,10 @@ public sealed class Circle : Shape
 | --- | --- |
 | override [CheckBounds](../../aspose.pdf.drawing/circle/checkbounds/)(double, double) |  |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Shape](../shape/)
-* 命名空间 [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* 程序集 [Aspose.PDF](../../)
+* class [Shape](../shape/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

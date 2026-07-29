@@ -1,12 +1,12 @@
 ---
-title: FolderFontSource.FolderFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: FolderFontSource 构造函数。初始化 FolderFontSource 类的新实例
+title: "FolderFontSource.FolderFontSource"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FolderFontSource 构造函数。初始化 FolderFontSource 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/folderfontsource/folderfontsource/
 ---
-## FolderFontSource 构造函数
+## FolderFontSource constructor
 
 初始化 [`FolderFontSource`](../) 类的新实例。
 
@@ -16,10 +16,12 @@ public FolderFontSource(string folderPath)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| folderPath | 字符串 | 文件夹的路径。 |
+| folderPath | String | 文件夹的路径。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [FolderFontSource](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FolderFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

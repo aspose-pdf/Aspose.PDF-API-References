@@ -1,12 +1,12 @@
 ---
-title: Watermark.Image
-second_title: Aspose.PDF for .NET API Reference
-description: 水印属性。获取水印的图像
+title: "Watermark.Image"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Watermark 属性。获取水印的图像。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/watermark/image/
 ---
-## Watermark.Image 属性
+## Watermark.Image property
 
 获取水印的图像。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/watermark/image/
 public Image Image { get; }
 ```
 
-### 另见
+### 另请参见
 
-* 类 [Watermark](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Watermark](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

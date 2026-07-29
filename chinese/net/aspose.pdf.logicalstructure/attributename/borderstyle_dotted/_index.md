@@ -1,21 +1,23 @@
 ---
-title: AttributeName.BorderStyle_Dotted
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName 字段。属性 BorderStyle Dotted 边框是一系列点
+title: "AttributeName.BorderStyle_Dotted"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AttributeName 字段。属性 BorderStyle Dotted  边框为一系列点"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.logicalstructure/attributename/borderstyle_dotted/
 ---
-## AttributeName.BorderStyle_Dotted 字段
+## AttributeName.BorderStyle_Dotted field
 
-属性 BorderStyle: Dotted - 边框是一系列点。
+属性 BorderStyle: Dotted - 边框由一系列点组成。
 
 ```csharp
 public static readonly AttributeName BorderStyle_Dotted;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [AttributeName](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

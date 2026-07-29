@@ -1,35 +1,37 @@
 ---
-title: Class FormFlattenerOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormFlattenerOptions 类。用于通过 FormFlattener 插件在文档中扁平化字段（而非注释）的选项类的基类
+title: "类 FormFlattenerOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.FormFlattenerOptions 类。用于在 document 中通过 FormFlattener 插件将字段而非注释扁平化的选项类的基类"
 type: docs
-weight: 8760
+weight: 8890
 url: /zh/net/aspose.pdf.plugins/formflatteneroptions/
 ---
 ## FormFlattenerOptions class
 
-用于通过 FormFlattener 插件在文档中扁平化字段（而非注释）的选项类的基类。
+是用于通过 FormFlattener 插件将文档中字段（非注释）扁平化的选项类的基类。
 
 ```csharp
 public abstract class FormFlattenerOptions : FormOptions
 ```
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | 返回 Form.... 插件数据集合。 |
-| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | 获取用于保存操作结果的添加目标的集合。 |
+| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | 返回 Form.... 插件的数据集合。 |
+| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | 获取已添加目标的集合，用于保存操作结果。 |
 
-## Methods
+## 方法
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | 将新的数据源添加到 Form... 插件数据集合。 |
-| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | 将新的数据源添加到 Form... 插件数据集合。 |
+| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | 向 Form... 插件的数据集合添加新数据源。 |
+| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | 向 Form... 插件的数据集合添加新数据源。 |
 
-### See Also
+### 另请参见
 
 * class [FormOptions](../formoptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

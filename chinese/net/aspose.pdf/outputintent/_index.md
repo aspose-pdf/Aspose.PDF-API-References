@@ -1,36 +1,38 @@
 ---
-title: Class OutputIntent
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.OutputIntent 类。表示与 PDF 文档的颜色特征匹配的输出意图，适用于文档将被打印的目标输出设备或生产环境。
+title: "类 OutputIntent"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.OutputIntent 类。表示一种输出意图，使 PDF 文档的颜色特性与目标输出设备或文档将被打印的生产环境的颜色特性相匹配。"
 type: docs
-weight: 8030
+weight: 8170
 url: /zh/net/aspose.pdf/outputintent/
 ---
 ## OutputIntent class
 
-表示与 PDF 文档的颜色特征匹配的输出意图，适用于文档将被打印的目标输出设备或生产环境。
+表示一种输出意图，将 PDF 文档的颜色特性与目标输出设备或文档将被打印的生产环境的颜色特性匹配。
 
 ```csharp
 public sealed class OutputIntent
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [OutputIntent](outputintent/)(string) | 使用指定的输出条件标识符初始化 `OutputIntent` 类的新实例。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [Info](../../aspose.pdf/outputintent/info/) { get; set; } | 获取或设置包含有关预期目标设备或生产条件的附加信息或注释的人类可读文本。 |
-| [OutputCondition](../../aspose.pdf/outputintent/outputcondition/) { get; set; } | 获取或设置简明识别预期输出设备或生产条件的人类可读文本。 |
-| [OutputConditionIdentifier](../../aspose.pdf/outputintent/outputconditionidentifier/) { get; set; } | 获取或设置以人类或机器可读形式识别预期输出设备或生产条件的文本。 |
-| [RegistryName](../../aspose.pdf/outputintent/registryname/) { get; set; } | 获取或设置识别由 [`OutputConditionIdentifier`](./outputconditionidentifier/) 定义的条件的注册表的文本。 |
+| [Info](../../aspose.pdf/outputintent/info/) { get; set; } | 获取或设置一段人类可读的文本，其中包含关于预期目标设备或生产条件的附加信息或注释。 |
+| [OutputCondition](../../aspose.pdf/outputintent/outputcondition/) { get; set; } | 获取或设置一段文本，以简洁的人类可读形式标识预期的输出设备或生产条件。 |
+| [OutputConditionIdentifier](../../aspose.pdf/outputintent/outputconditionidentifier/) { get; set; } | 获取或设置一段文本，以人类或机器可读的形式标识预期的输出设备或生产条件。 |
+| [RegistryName](../../aspose.pdf/outputintent/registryname/) { get; set; } | 获取或设置一段文本，标识定义了由[`OutputConditionIdentifier`](./outputconditionidentifier/) 指定的条件的注册表。 |
 | [Subtype](../../aspose.pdf/outputintent/subtype/) { get; } | 获取输出意图子类型。 |
 
-### See Also
+### 另请参见
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

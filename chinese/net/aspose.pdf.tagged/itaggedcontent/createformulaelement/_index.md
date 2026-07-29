@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateFormulaElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent 方法。创建 FormulaElement
+title: "ITaggedContent.CreateFormulaElement"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ITaggedContent 方法。创建 FormulaElement"
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createformulaelement/
 ---
-## ITaggedContent.CreateFormulaElement 方法
+## ITaggedContent.CreateFormulaElement method
 
 创建 [`FormulaElement`](../../../aspose.pdf.logicalstructure/formulaelement/)。
 
@@ -16,11 +16,13 @@ public FormulaElement CreateFormulaElement()
 
 ### 返回值
 
-创建的结构元素。
+已创建结构元素。
 
-### 另请参阅
+### 另请参见
 
-* 类 [FormulaElement](../../../aspose.pdf.logicalstructure/formulaelement/)
-* 接口 [ITaggedContent](../)
-* 命名空间 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FormulaElement](../../../aspose.pdf.logicalstructure/formulaelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

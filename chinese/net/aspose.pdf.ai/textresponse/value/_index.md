@@ -1,12 +1,12 @@
 ---
-title: TextResponse.Value
-second_title: Aspose.PDF for .NET API Reference
-description: TextResponse 属性。获取或设置消息的文本
+title: "TextResponse.Value"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextResponse 属性。获取或设置消息的文本"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.ai/textresponse/value/
 ---
-## TextResponse.Value 属性
+## TextResponse.Value property
 
 获取或设置消息的文本。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/textresponse/value/
 public string Value { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextResponse](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: SanitizationException.SanitizationException
-second_title: Aspose.PDF for .NET API Reference
-description: SanitizationException 构造函数。初始化 SanitizationException 类的新实例
+title: "SanitizationException.SanitizationException"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SanitizationException 构造函数。初始化 SanitizationException 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.sanitization/sanitizationexception/sanitizationexception/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.pdf.sanitization/sanitizationexception/sanitizationexception
 public SanitizationException()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [SanitizationException](../)
-* 命名空间 [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SanitizationException](../)
+* namespace [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,19 +32,19 @@ public SanitizationException(string message)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| message | 字符串 | 消息。 |
+| 消息 | String | 该消息。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [SanitizationException](../)
-* 命名空间 [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SanitizationException](../)
+* namespace [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SanitizationException(string, Exception) {#constructor_3}
 
-使用指定的错误消息和对导致此异常的内部异常的引用初始化 [`SanitizationException`](../) 类的新实例。
+使用指定的错误消息和指向导致此异常的内部异常的引用，初始化 [`SanitizationException`](../) 类的新实例。
 
 ```csharp
 public SanitizationException(string message, Exception innerException)
@@ -52,20 +52,20 @@ public SanitizationException(string message, Exception innerException)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| message | 字符串 | 解释异常原因的错误消息。 |
-| innerException | 异常 | 导致当前异常的异常，或者如果未指定内部异常，则为 null 引用（在 Visual Basic 中为 Nothing）。 |
+| 消息 | String | 解释异常原因的错误消息。 |
+| innerException | Exception | 当前异常的原因异常，或者如果未指定内部异常，则为 null 引用（Visual Basic 中为 Nothing）。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [SanitizationException](../)
-* 命名空间 [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SanitizationException](../)
+* namespace [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SanitizationException(Exception) {#constructor_1}
 
-使用指定的错误消息和对导致此异常的内部异常的引用初始化 [`SanitizationException`](../) 类的新实例。
+使用指定的错误消息和指向导致此异常的内部异常的引用，初始化 [`SanitizationException`](../) 类的新实例。
 
 ```csharp
 public SanitizationException(Exception innerException)
@@ -73,10 +73,12 @@ public SanitizationException(Exception innerException)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| innerException | 异常 | 导致当前异常的异常，或者如果未指定内部异常，则为 null 引用（在 Visual Basic 中为 Nothing）。 |
+| innerException | Exception | 当前异常的原因异常，或者如果未指定内部异常，则为 null 引用（Visual Basic 中为 Nothing）。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [SanitizationException](../)
-* 命名空间 [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SanitizationException](../)
+* namespace [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
+* assembly [Aspose.PDF](../../../)
+
+

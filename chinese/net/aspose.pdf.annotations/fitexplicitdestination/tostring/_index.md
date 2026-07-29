@@ -1,14 +1,14 @@
 ---
-title: FitExplicitDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: FitExplicitDestination 方法。将对象状态转换为字符串值。示例 1 Fit
+title: "FitExplicitDestination.ToString"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FitExplicitDestination 方法。将对象状态转换为字符串值。示例 1 适配"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.annotations/fitexplicitdestination/tostring/
 ---
-## FitExplicitDestination.ToString 方法
+## FitExplicitDestination.ToString method
 
-将对象状态转换为字符串值。示例：“1 Fit”。
+将对象状态转换为字符串值。例如："1 Fit"。
 
 ```csharp
 public override string ToString()
@@ -18,8 +18,10 @@ public override string ToString()
 
 表示对象状态的字符串值。
 
-### 另请参阅
+### 另请参见
 
-* 类 [FitExplicitDestination](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FitExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

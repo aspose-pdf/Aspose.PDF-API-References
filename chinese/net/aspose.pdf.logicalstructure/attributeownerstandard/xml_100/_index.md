@@ -1,12 +1,12 @@
 ---
-title: AttributeOwnerStandard.Xml_100
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeOwnerStandard 字段。XML1.0.0 属性所有者
+title: "AttributeOwnerStandard.Xml_100"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AttributeOwnerStandard 字段。XML1.0.0 属性所有者"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.logicalstructure/attributeownerstandard/xml_100/
 ---
-## AttributeOwnerStandard.Xml_100 字段
+## AttributeOwnerStandard.Xml_100 field
 
 XML-1.0.0 属性所有者。
 
@@ -14,8 +14,10 @@ XML-1.0.0 属性所有者。
 public static readonly AttributeOwnerStandard Xml_100;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [AttributeOwnerStandard](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Interface ISummaryCopilotOptionsTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ISummaryCopilotOptions1TOptions 接口。表示具有特定类型的摘要助手选项接口
+title: "接口 ISummaryCopilotOptionsTOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.ISummaryCopilotOptions1TOptions 接口。表示具有特定类型的摘要副驾驶选项的接口"
 type: docs
-weight: 600
+weight: 650
 url: /zh/net/aspose.pdf.ai/isummarycopilotoptions-1/
 ---
-## ISummaryCopilotOptions&lt;TOptions&gt; 接口
+## ISummaryCopilotOptions&lt;TOptions&gt; interface
 
-表示具有特定类型的摘要助手选项接口。
+表示具有特定类型的摘要副驾驶选项接口。
 
 ```csharp
 public interface ISummaryCopilotOptions<out TOptions>
@@ -16,7 +16,7 @@ public interface ISummaryCopilotOptions<out TOptions>
 
 | 参数 | 描述 |
 | --- | --- |
-| TOptions | 摘要助手的选项类型。 |
+| TOptions | 摘要副驾驶的选项类型。 |
 
 ## 方法
 
@@ -24,7 +24,9 @@ public interface ISummaryCopilotOptions<out TOptions>
 | --- | --- |
 | [GetOptions](../../aspose.pdf.ai/isummarycopilotoptions-1/getoptions/)() | 获取类型为 *TOptions* 的选项。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

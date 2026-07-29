@@ -1,12 +1,12 @@
 ---
-title: Class Merger
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.Merger 类。表示合并插件
+title: "类 Merger"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.Merger 类。表示 Merger 插件"
 type: docs
-weight: 8940
+weight: 9070
 url: /zh/net/aspose.pdf.plugins/merger/
 ---
-## 合并类
+## Merger class
 
 表示 `Merger` 插件。
 
@@ -24,28 +24,30 @@ public sealed class Merger : IPlugin
 
 | 名称 | 描述 |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/merger/process/)(IPluginOptions) | 使用指定参数开始 `Merger` 处理。 |
+| [Process](../../aspose.pdf.plugins/merger/process/)(IPluginOptions) | 使用指定的参数启动 `Merger` 处理。 |
 
 ## 示例
 
-该示例演示如何合并两个 PDF 文档。
+此示例演示如何合并两个 PDF 文档。
 
 ```csharp
-// create Merger
+// 创建 Merger
 var merger = new Merger();
-// create MergeOptions object to set instructions
+// 创建 MergeOptions 对象以设置指令
 var opt = new MergeOptions();
-// add input file paths
+// 添加输入文件路径
 opt.AddInput(new FileDataSource(inputPath1));
 opt.AddInput(new FileDataSource(inputPath2));
-// set output file path
+// 设置输出文件路径
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// 执行该过程
 merger.Process(opt);
 ```
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IPlugin](../iplugin/)
-* 命名空间 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

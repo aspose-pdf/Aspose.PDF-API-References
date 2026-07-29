@@ -1,14 +1,14 @@
 ---
-title: Metered.GetConsumptionQuantity
-second_title: Aspose.PDF for .NET API Reference
-description: Metered 方法。获取消费文件大小
+title: "Metered.GetConsumptionQuantity"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Metered 方法。获取消费文件大小"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/metered/getconsumptionquantity/
 ---
-## Metered.GetConsumptionQuantity 方法
+## Metered.GetConsumptionQuantity method
 
-获取消费文件大小。
+获取消耗文件大小。
 
 ```csharp
 public static decimal GetConsumptionQuantity()
@@ -18,8 +18,10 @@ public static decimal GetConsumptionQuantity()
 
 消费数量。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Metered](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Metered](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

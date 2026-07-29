@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreateJavaScriptLink
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor 方法。创建 PDF 文档中的 JavaScript 链接
+title: "PdfContentEditor.CreateJavaScriptLink"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfContentEditor 方法。创建一个在 PDF 文档中指向 JavaScript 的链接"
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf.facades/pdfcontenteditor/createjavascriptlink/
 ---
-## PdfContentEditor.CreateJavaScriptLink 方法
+## PdfContentEditor.CreateJavaScriptLink method
 
-在 PDF 文档中创建一个指向 JavaScript 的链接。
+在 PDF 文档中创建指向 JavaScript 的链接。
 
 ```csharp
 public void CreateJavaScriptLink(string code, Rectangle rect, int originalPage, Color color)
@@ -16,10 +16,10 @@ public void CreateJavaScriptLink(string code, Rectangle rect, int originalPage, 
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| code | 字符串 | JavaScript 代码。 |
-| rect | 矩形 | 用于活动点击的矩形。 |
-| originalPage | Int32 | 创建与链接绑定的矩形的原始页面编号。 |
-| color | 颜色 | 用于活动点击的矩形的颜色。 |
+| `code` | String | 该 JavaScript 代码。 |
+| rect | Rectangle | 用于激活点击的矩形。 |
+| originalPage | Int32 | 将创建带链接矩形的原始页面的页码。 |
+| 颜色 | Color | 用于激活点击的矩形颜色。 |
 
 ## 示例
 
@@ -31,8 +31,10 @@ editor.CreateJavaScriptLink("app.alert('welcome to aspose!');",
 editor.Save("example_out.pdf");
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfContentEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

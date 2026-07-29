@@ -1,12 +1,12 @@
 ---
-title: Paragraphs.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: 段落方法。克隆一个新的 Clone 对象
+title: "Paragraphs.Clone"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Paragraphs 方法。克隆一个新的 Clone 对象"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/paragraphs/clone/
 ---
-## 段落.Clone 方法
+## Paragraphs.Clone method
 
 克隆一个新的 `Clone` 对象。
 
@@ -18,8 +18,10 @@ public object Clone()
 
 新的 `Clone` 对象。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Paragraphs](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

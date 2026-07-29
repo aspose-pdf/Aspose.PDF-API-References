@@ -1,12 +1,12 @@
 ---
-title: Enum BorderEffect
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.BorderEffect 枚举。描述应应用于注释边框的效果
+title: "枚举 BorderEffect"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.BorderEffect 枚举。描述应应用于批注边框的效果"
 type: docs
-weight: 1520
+weight: 1610
 url: /zh/net/aspose.pdf.annotations/bordereffect/
 ---
-## BorderEffect 枚举
+## BorderEffect enumeration
 
 描述应应用于注释边框的效果。
 
@@ -19,9 +19,11 @@ public enum BorderEffect
 | 名称 | 值 | 描述 |
 | --- | --- | --- |
 | None | `0` | 无效果。 |
-| Cloudy | `1` | 边框将呈现“模糊”效果。 |
+| Cloudy | `1` | 边框将呈现为“云状”。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

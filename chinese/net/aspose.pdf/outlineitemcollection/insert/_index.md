@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection 方法。将轮廓项插入到指定位置的集合中
+title: "OutlineItemCollection.Insert"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OutlineItemCollection 方法。将大纲项插入集合的指定位置"
 type: docs
 weight: 280
 url: /zh/net/aspose.pdf/outlineitemcollection/insert/
 ---
-## OutlineItemCollection.Insert 方法
+## OutlineItemCollection.Insert method
 
-将轮廓项插入到指定位置的集合中。
+在指定位置将大纲项插入集合中。
 
 ```csharp
 public void Insert(int index, OutlineItemCollection outline)
@@ -17,10 +17,12 @@ public void Insert(int index, OutlineItemCollection outline)
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | index | Int32 | 指定插入位置的索引。 |
-| outline | OutlineItemCollection | 应该插入的轮廓项。 |
+| 大纲 | OutlineItemCollection | 应插入的大纲项。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [OutlineItemCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

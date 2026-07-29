@@ -1,21 +1,23 @@
 ---
-title: Heading.StartNumber
-second_title: Aspose.PDF for .NET API Reference
-description: 标题属性。获取标题开始编号
+title: "Heading.StartNumber"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Heading 属性。获取标题起始编号"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/heading/startnumber/
 ---
-## 标题.开始编号属性
+## Heading.StartNumber property
 
-获取标题开始编号。
+获取标题起始编号。
 
 ```csharp
 public int StartNumber { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Heading](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionField.XmpPdfAExtensionField
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionField 构造函数。初始化对象
+title: "XmpPdfAExtensionField.XmpPdfAExtensionField"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpPdfAExtensionField 构造函数。初始化对象"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/xmppdfaextensionfield/xmppdfaextensionfield/
 ---
-## XmpPdfAExtensionField 构造函数
+## XmpPdfAExtensionField constructor
 
 初始化对象。
 
@@ -16,8 +16,8 @@ public XmpPdfAExtensionField(string name, string value, string valueType, string
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| name | String | 字段名称。 |
-| value | String | 字段值。 |
+| 名称 | String | 字段名称。 |
+| 值 | String | 字段值。 |
 | valueType | String | 字段值类型。 |
 | description | String | 字段描述。 |
 
@@ -26,3 +26,5 @@ public XmpPdfAExtensionField(string name, string value, string valueType, string
 * class [XmpPdfAExtensionField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

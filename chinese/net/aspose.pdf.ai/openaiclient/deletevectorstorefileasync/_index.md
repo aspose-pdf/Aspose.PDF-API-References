@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.DeleteVectorStoreFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient 方法。异步删除向量存储中的文件
+title: "OpenAIClient.DeleteVectorStoreFileAsync"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAIClient 方法。异步删除向量存储中的文件。"
 type: docs
 weight: 180
 url: /zh/net/aspose.pdf.ai/openaiclient/deletevectorstorefileasync/
 ---
-## OpenAIClient.DeleteVectorStoreFileAsync 方法
+## OpenAIClient.DeleteVectorStoreFileAsync method
 
 异步删除向量存储中的文件。
 
@@ -17,9 +17,9 @@ public Task<DeleteStatusResponse> DeleteVectorStoreFileAsync(string vectorStoreI
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| vectorStoreId | 字符串 | 包含要删除的文件的向量存储的 ID。 |
-| fileId | 字符串 | 要删除的文件的 ID。 |
-| cancellationToken | 可空`1 | 取消操作的令牌。 |
+| vectorStoreId | String | 包含要删除的文件的向量存储的 ID。 |
+| fileId | String | 要删除的文件 ID。 |
+| cancellationToken | Nullable`1 | 用于取消操作的令牌。 |
 
 ### 返回值
 
@@ -29,12 +29,14 @@ public Task<DeleteStatusResponse> DeleteVectorStoreFileAsync(string vectorStoreI
 
 | 异常 | 条件 |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | 当向量存储 ID 为 null 或空时抛出。 |
-| [AIClientException](../../aiclientexception/) | 当文件 ID 为 null 或空时抛出。 |
+| [AIClientException](../../aiclientexception/) | 当向量存储 Id 为 null 或为空时抛出。 |
+| [AIClientException](../../aiclientexception/) | 当文件 Id 为 null 或为空时抛出。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [DeleteStatusResponse](../../deletestatusresponse/)
-* 类 [OpenAIClient](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DeleteStatusResponse](../../deletestatusresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

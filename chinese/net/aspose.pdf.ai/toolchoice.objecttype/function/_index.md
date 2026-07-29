@@ -1,12 +1,12 @@
 ---
-title: ToolChoice.ObjectType.Function
-second_title: Aspose.PDF for .NET API Reference
-description: ObjectType 属性。获取或设置要调用的函数
+title: "ToolChoice.ObjectType.Function"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ObjectType 属性。获取或设置要调用的函数"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.ai/toolchoice.objecttype/function/
 ---
-## ToolChoice.ObjectType.Function 属性
+## ToolChoice.ObjectType.Function property
 
 获取或设置要调用的函数。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.ai/toolchoice.objecttype/function/
 public CompletionFunction Function { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [CompletionFunction](../../completionfunction/)
 * class [ObjectType](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

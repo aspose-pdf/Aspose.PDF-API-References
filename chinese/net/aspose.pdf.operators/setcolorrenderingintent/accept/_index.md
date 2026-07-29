@@ -1,12 +1,12 @@
 ---
-title: SetColorRenderingIntent.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: SetColorRenderingIntent 方法。接受访问者对象以处理操作符
+title: "SetColorRenderingIntent.Accept"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SetColorRenderingIntent 方法。接受访问者对象以处理操作符。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.operators/setcolorrenderingintent/accept/
 ---
-## SetColorRenderingIntent.Accept 方法
+## SetColorRenderingIntent.Accept method
 
 接受访问者对象以处理操作符。
 
@@ -16,11 +16,13 @@ public override void Accept(IOperatorSelector visitor)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| visitor | IOperatorSelector | 访问者对象。 |
+| 访问者 | IOperatorSelector | Visitor 对象。 |
 
 ### 另请参见
 
-* 接口 [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* 类 [SetColorRenderingIntent](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [SetColorRenderingIntent](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

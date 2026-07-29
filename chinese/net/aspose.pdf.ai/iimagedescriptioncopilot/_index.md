@@ -1,14 +1,14 @@
 ---
-title: Interface IImageDescriptionCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IImageDescriptionCopilot 接口。表示用于使用 AI 模型提取图像描述的图像描述助手
+title: "接口 IImageDescriptionCopilot"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.IImageDescriptionCopilot 接口。表示用于使用 AI 模型提取图像描述的图像描述副驾驶"
 type: docs
-weight: 510
+weight: 530
 url: /zh/net/aspose.pdf.ai/iimagedescriptioncopilot/
 ---
-## IImageDescriptionCopilot 接口
+## IImageDescriptionCopilot interface
 
-表示用于使用 AI 模型提取图像描述的图像描述助手。
+表示使用 AI 模型提取图像描述的图像描述副驾驶。
 
 ```csharp
 public interface IImageDescriptionCopilot : IAICopilot
@@ -20,8 +20,10 @@ public interface IImageDescriptionCopilot : IAICopilot
 | --- | --- |
 | [GetImageDescriptionsAsync](../../aspose.pdf.ai/iimagedescriptioncopilot/getimagedescriptionsasync/)(CancellationToken?) | 异步获取 PDF 文档中图像的图像描述。 |
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IAICopilot](../iaicopilot/)
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* interface [IAICopilot](../iaicopilot/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class TextBuilder
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextBuilder 类。将文本对象附加到 Pdf 页面
+title: "类 TextBuilder"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Text.TextBuilder 类。将文本对象追加到 Pdf 页面。"
 type: docs
-weight: 10810
+weight: 10990
 url: /zh/net/aspose.pdf.text/textbuilder/
 ---
-## TextBuilder 类
+## TextBuilder class
 
-将文本对象附加到 Pdf 页面。
+将文本对象追加到 Pdf 页面。
 
 ```csharp
 public sealed class TextBuilder
@@ -25,11 +25,13 @@ public sealed class TextBuilder
 
 | 名称 | 描述 |
 | --- | --- |
-| [AppendParagraph](../../aspose.pdf.text/textbuilder/appendparagraph/)(TextParagraph) | 将文本段落附加到 Pdf 页面。 |
-| [AppendText](../../aspose.pdf.text/textbuilder/appendtext/#appendtext_1)(List&lt;TextFragment&gt;) | 将文本片段列表附加到 Pdf 页面。 |
-| [AppendText](../../aspose.pdf.text/textbuilder/appendtext/#appendtext)(TextFragment) | 将文本片段附加到 Pdf 页面。 |
+| [AppendParagraph](../../aspose.pdf.text/textbuilder/appendparagraph/)(TextParagraph) | 将文本段落追加到 Pdf 页面。 |
+| [AppendText](../../aspose.pdf.text/textbuilder/appendtext/#appendtext_1)(List&lt;TextFragment&gt;) | 将文本片段列表追加到 Pdf 页面。 |
+| [AppendText](../../aspose.pdf.text/textbuilder/appendtext/#appendtext)(TextFragment) | 将文本片段追加到 Pdf 页面 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

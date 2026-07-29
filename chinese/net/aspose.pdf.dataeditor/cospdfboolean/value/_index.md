@@ -1,25 +1,27 @@
 ---
-title: CosPdfBoolean.Value
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfBoolean 属性。获取值
+title: "CosPdfBoolean.Value"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CosPdfBoolean 属性。获取该值。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.dataeditor/cospdfboolean/value/
 ---
-## CosPdfBoolean.Value 属性
+## CosPdfBoolean.Value property
 
-获取值。
+获取该值。
 
 ```csharp
 public bool Value { get; }
 ```
 
-### 属性值
+### Property Value
 
 值。
 
-### 另请参阅
+### 另请参见
 
-* 类 [CosPdfBoolean](../)
-* 命名空间 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CosPdfBoolean](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

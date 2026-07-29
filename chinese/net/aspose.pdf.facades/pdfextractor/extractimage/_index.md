@@ -1,12 +1,12 @@
 ---
-title: PdfExtractor.ExtractImage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor 方法。 从 PDF 文件中提取图像
+title: "PdfExtractor.ExtractImage"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfExtractor 方法。从 PDF 文件中提取图像。"
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.facades/pdfextractor/extractimage/
 ---
-## PdfExtractor.ExtractImage 方法
+## PdfExtractor.ExtractImage method
 
 从 PDF 文件中提取图像。
 
@@ -27,8 +27,10 @@ while (extractor.HasNextImage())
 }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfExtractor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

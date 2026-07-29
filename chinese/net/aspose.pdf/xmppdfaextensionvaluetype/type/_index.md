@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.Type
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionValueType 属性。获取值类型
+title: "XmpPdfAExtensionValueType.Type"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpPdfAExtensionValueType 属性。获取值类型"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/xmppdfaextensionvaluetype/type/
 ---
-## XmpPdfAExtensionValueType.Type 属性
+## XmpPdfAExtensionValueType.Type property
 
 获取值类型。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/xmppdfaextensionvaluetype/type/
 public string Type { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XmpPdfAExtensionValueType](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionValueType](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

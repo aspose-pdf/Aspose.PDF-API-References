@@ -1,12 +1,12 @@
 ---
-title: XmpValue.IsNamedValue
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue 属性。如果 XmpValue 是命名值，则返回 true
+title: "XmpValue.IsNamedValue"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpValue 属性。返回 true 如果 XmpValue 是命名值"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf/xmpvalue/isnamedvalue/
 ---
-## XmpValue.IsNamedValue 属性
+## XmpValue.IsNamedValue property
 
 如果 XmpValue 是命名值，则返回 true。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/xmpvalue/isnamedvalue/
 public bool IsNamedValue { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XmpValue](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

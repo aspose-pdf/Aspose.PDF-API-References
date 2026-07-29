@@ -1,12 +1,12 @@
 ---
-title: TiffDevice.Height
-second_title: Aspose.PDF for .NET API Reference
-description: TiffDevice 属性。获取图像输出高度
+title: "TiffDevice.Height"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TiffDevice 属性。获取图像输出高度"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.devices/tiffdevice/height/
 ---
-## TiffDevice.Height 属性
+## TiffDevice.Height property
 
 获取图像输出高度。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.devices/tiffdevice/height/
 public int Height { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TiffDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

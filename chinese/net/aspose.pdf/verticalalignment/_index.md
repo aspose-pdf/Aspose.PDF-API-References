@@ -1,12 +1,12 @@
 ---
-title: Enum VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.VerticalAlignment 枚举。可能的垂直对齐值的枚举
+title: "VerticalAlignment 枚举"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.VerticalAlignment 枚举。可能的垂直对齐值的枚举。"
 type: docs
-weight: 11270
+weight: 11460
 url: /zh/net/aspose.pdf/verticalalignment/
 ---
-## 垂直对齐 枚举
+## VerticalAlignment enumeration
 
 可能的垂直对齐值的枚举。
 
@@ -19,11 +19,13 @@ public enum VerticalAlignment
 | 名称 | 值 | 描述 |
 | --- | --- | --- |
 | None | `0` | 无对齐（使用指定位置）。 |
-| Top | `1` | 顶部对齐。 |
+| Top | `1` | 对齐到顶部。 |
 | Center | `2` | 居中对齐。 |
-| Bottom | `3` | 底部对齐。 |
+| Bottom | `3` | 对齐到底部。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

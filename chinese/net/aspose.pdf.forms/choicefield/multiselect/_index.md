@@ -1,12 +1,12 @@
 ---
-title: ChoiceField.MultiSelect
-second_title: Aspose.PDF for .NET API Reference
-description: ChoiceField 属性。获取或设置多选标志
+title: "ChoiceField.MultiSelect"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ChoiceField 属性。获取或设置多选标志"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.forms/choicefield/multiselect/
 ---
-## ChoiceField.MultiSelect 属性
+## ChoiceField.MultiSelect property
 
 获取或设置多选标志。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.forms/choicefield/multiselect/
 public bool MultiSelect { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ChoiceField](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ChoiceField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.CreateFileAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor 方法。创建文件附件注释
+title: "PdfContentEditor.CreateFileAttachment"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfContentEditor 方法。创建文件附件注释。"
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf.facades/pdfcontenteditor/createfileattachment/
@@ -17,11 +17,11 @@ public void CreateFileAttachment(Rectangle rect, string contents, string filePat
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Rectangle | 定义注释在页面上位置的注释矩形。 |
-| contents | String | 注释的内容。 |
-| filePath | String | 将要附加的文件路径。 |
-| page | Int32 | 将要创建注释的原始页面编号。 |
-| name | String | 用于显示注释的图标名称。该值可以是：“Graph”，“PushPin”，“Paperclip”，“Tag”。 |
+| rect | Rectangle | 注释矩形定义了注释在页面上的位置。 |
+| 内容 | String | 注释的内容。 |
+| filePath | String | 将附加文件的路径。 |
+| 页面 | Int32 | 注释将被创建的原始页面编号。 |
+| 名称 | String | 将在显示注释时使用图标的名称。该值可以是："Graph"、"PushPin"、"Paperclip"、"Tag"。 |
 
 ## 示例
 
@@ -33,7 +33,7 @@ editor.CreateFileAttachment(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -52,12 +52,12 @@ public void CreateFileAttachment(Rectangle rect, string contents, string filePat
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Rectangle | 定义注释在页面上位置的注释矩形。 |
-| contents | String | 注释的内容。 |
-| filePath | String | 将要附加的文件路径。 |
-| page | Int32 | 将要创建注释的原始页面编号。 |
-| name | String | 用于显示注释的图标名称。该值可以是：“Graph”，“PushPin”，“Paperclip”，“Tag”。 |
-| opacity | Double | 图标的不透明度从 0 到 1：0 - 完全透明，1 - 完全不透明。 |
+| rect | Rectangle | 注释矩形定义了注释在页面上的位置。 |
+| 内容 | String | 注释的内容。 |
+| filePath | String | 将附加文件的路径。 |
+| 页面 | Int32 | 注释将被创建的原始页面编号。 |
+| 名称 | String | 将在显示注释时使用图标的名称。该值可以是："Graph"、"PushPin"、"Paperclip"、"Tag"。 |
+| 不透明度 | Double | 图标的不透明度范围为 0 到 1：0 - 完全透明，1 - 完全不透明。 |
 
 ## 示例
 
@@ -69,7 +69,7 @@ editor.CreateFileAttachment(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -88,12 +88,12 @@ public void CreateFileAttachment(Rectangle rect, string contents, Stream attachm
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Rectangle | 定义注释在页面上位置的注释矩形。 |
-| contents | String | 注释的内容。 |
+| rect | Rectangle | 注释矩形定义了注释在页面上的位置。 |
+| 内容 | String | 注释的内容。 |
 | attachmentStream | Stream | 附件文件流。 |
 | attachmentName | String | 附件名称。 |
-| page | Int32 | 将要创建注释的原始页面编号。 |
-| name | String | 用于显示注释的图标名称。该值可以是：“Graph”，“PushPin”，“Paperclip”，“Tag”。 |
+| 页面 | Int32 | 注释将被创建的原始页面编号。 |
+| 名称 | String | 将在显示注释时使用图标的名称。该值可以是："Graph"、"PushPin"、"Paperclip"、"Tag"。 |
 
 ## 示例
 
@@ -108,7 +108,7 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -127,13 +127,13 @@ public void CreateFileAttachment(Rectangle rect, string contents, Stream attachm
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rect | Rectangle | 定义注释在页面上位置的注释矩形。 |
-| contents | String | 注释的内容。 |
+| rect | Rectangle | 注释矩形定义了注释在页面上的位置。 |
+| 内容 | String | 注释的内容。 |
 | attachmentStream | Stream | 附件文件流。 |
 | attachmentName | String | 附件名称。 |
-| page | Int32 | 将要创建注释的原始页面编号。 |
-| name | String | 用于显示注释的图标名称。该值可以是：“Graph”，“PushPin”，“Paperclip”，“Tag”。 |
-| opacity | Double | 图标的不透明度从 0 到 1：0 - 完全透明，1 - 完全不透明。 |
+| 页面 | Int32 | 注释将被创建的原始页面编号。 |
+| 名称 | String | 将在显示注释时使用图标的名称。该值可以是："Graph"、"PushPin"、"Paperclip"、"Tag"。 |
+| 不透明度 | Double | 图标的不透明度范围为 0 到 1：0 - 完全透明，1 - 完全不透明。 |
 
 ## 示例
 
@@ -148,8 +148,10 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

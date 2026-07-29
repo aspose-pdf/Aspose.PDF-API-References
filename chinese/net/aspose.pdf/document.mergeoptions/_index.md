@@ -1,14 +1,14 @@
 ---
-title: Class Document.MergeOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DocumentMergeOptions 类。表示合并方法的选项
+title: "类 Document.MergeOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.DocumentMergeOptions 类。表示合并方法的选项"
 type: docs
-weight: 3830
+weight: 3950
 url: /zh/net/aspose.pdf/document.mergeoptions/
 ---
-## Document.MergeOptions 类
+## Document.MergeOptions class
 
-表示合并方法的选项。
+表示 Merge 方法的选项。
 
 ```csharp
 public class MergeOptions
@@ -24,11 +24,13 @@ public class MergeOptions
 
 | 名称 | 描述 |
 | --- | --- |
-| [IsNeedPageTreeBalance](../../aspose.pdf/document.mergeoptions/isneedpagetreebalance) { get; set; } | 获取和设置页面树平衡的要求。结果文档中的整个页面树将被重新平衡。它创建平衡的页面树以加快页面访问速度。 |
-| [MaximumNodesInLevel](../../aspose.pdf/document.mergeoptions/maximumnodesinlevel) { get; set; } | 获取和设置页面树级别中的最大节点数。默认值为 10。 |
+| [IsNeedPageTreeBalance](../../aspose.pdf/document.mergeoptions/isneedpagetreebalance) { get; set; } | 获取和设置页面树平衡的要求。生成文档中的整个页面树将被重新平衡。它创建平衡的页面树以加快页面访问速度。 |
+| [MaximumNodesInLevel](../../aspose.pdf/document.mergeoptions/maximumnodesinlevel) { get; set; } | 获取和设置页面树层级中的最大节点数。默认值为 10。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Document](../document/)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* class [Document](../document/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

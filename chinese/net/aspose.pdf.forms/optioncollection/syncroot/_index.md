@@ -1,12 +1,12 @@
 ---
-title: OptionCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection 属性。集合的同步对象
+title: "OptionCollection.SyncRoot"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OptionCollection 属性。集合的同步对象"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.forms/optioncollection/syncroot/
 ---
-## OptionCollection.SyncRoot 属性
+## OptionCollection.SyncRoot property
 
 集合的同步对象。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.forms/optioncollection/syncroot/
 public object SyncRoot { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [OptionCollection](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

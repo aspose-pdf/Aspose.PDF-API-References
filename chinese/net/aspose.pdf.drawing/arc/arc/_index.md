@@ -1,14 +1,14 @@
 ---
-title: Arc.Arc
-second_title: Aspose.PDF for .NET API Reference
-description: Arc 构造函数。初始化 Arc 类的新实例
+title: "Arc.Arc"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Arc 构造函数。初始化 Arc 类的新实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.drawing/arc/arc/
 ---
-## Arc 构造函数
+## Arc constructor
 
-初始化 [`Arc`](../) 类的新实例。
+初始化一个新的 [`Arc`](../) 类的实例。
 
 ```csharp
 public Arc(float posX, float posY, float radius, float alpha, float beta)
@@ -16,14 +16,16 @@ public Arc(float posX, float posY, float radius, float alpha, float beta)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| posX | Single | 弧的中心点的 x 坐标。 |
-| posY | Single | 弧的中心点的 y 坐标。 |
-| radius | Single | 弧的半径值。 |
-| alpha | Single | 弧的起始角度值。 |
-| beta | Single | 弧的结束角度值。 |
+| posX | Single | 弧线中心点的 x 坐标。 |
+| posY | Single | 弧线中心点的 y 坐标。 |
+| 半径 | Single | 弧线的半径值。 |
+| alpha | Single | 弧线的起始角度值。 |
+| beta | Single | 弧线的结束角度值。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Arc](../)
-* 命名空间 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Arc](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

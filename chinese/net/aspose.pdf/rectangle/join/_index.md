@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Join
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle 方法。连接矩形
+title: "Rectangle.Join"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Rectangle 方法。合并矩形"
 type: docs
 weight: 230
 url: /zh/net/aspose.pdf/rectangle/join/
 ---
-## Rectangle.Join 方法
+## Rectangle.Join method
 
-连接矩形。
+合并矩形。
 
 ```csharp
 public Rectangle Join(Rectangle otherRect)
@@ -16,7 +16,7 @@ public Rectangle Join(Rectangle otherRect)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| otherRect | Rectangle | 要连接的矩形。 |
+| otherRect | Rectangle | 要与之合并的 Rectangle。 |
 
 ### 返回值
 
@@ -24,6 +24,8 @@ public Rectangle Join(Rectangle otherRect)
 
 ### 另请参见
 
-* 类 [Rectangle](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

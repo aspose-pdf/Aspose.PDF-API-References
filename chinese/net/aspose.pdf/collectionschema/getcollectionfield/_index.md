@@ -1,14 +1,14 @@
 ---
-title: CollectionSchema.GetCollectionField
-second_title: Aspose.PDF for .NET API Reference
-description: CollectionSchema 方法。通过名称获取集合字段
+title: "CollectionSchema.GetCollectionField"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CollectionSchema 方法。按名称获取集合字段"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/collectionschema/getcollectionfield/
 ---
-## CollectionSchema.GetCollectionField 方法
+## CollectionSchema.GetCollectionField method
 
-通过名称获取集合字段。
+按名称获取集合字段。
 
 ```csharp
 public CollectionField GetCollectionField(string name)
@@ -16,11 +16,13 @@ public CollectionField GetCollectionField(string name)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| name | 字符串 | 字段名称 |
+| 名称 | String | 字段名称 |
 
-### 另见
+### 另请参见
 
-* 类 [CollectionField](../../collectionfield/)
-* 类 [CollectionSchema](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CollectionField](../../collectionfield/)
+* class [CollectionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

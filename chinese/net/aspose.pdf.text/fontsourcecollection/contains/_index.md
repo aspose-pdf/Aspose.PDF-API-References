@@ -1,14 +1,14 @@
 ---
-title: FontSourceCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: FontSourceCollection 方法。确定集合中是否包含某个元素
+title: "FontSourceCollection.Contains"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FontSourceCollection 方法。判断元素是否在集合中"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.text/fontsourcecollection/contains/
 ---
-## FontSourceCollection.Contains 方法
+## FontSourceCollection.Contains method
 
-确定集合中是否包含某个元素。
+确定元素是否在集合中。
 
 ```csharp
 public bool Contains(FontSource item)
@@ -20,11 +20,13 @@ public bool Contains(FontSource item)
 
 ### 返回值
 
-如果找到元素，则为 true；否则为 false。
+True - 如果找到元素；否则，false。
 
-### 另请参阅
+### 另请参见
 
-* 类 [FontSource](../../fontsource/)
-* 类 [FontSourceCollection](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FontSource](../../fontsource/)
+* class [FontSourceCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

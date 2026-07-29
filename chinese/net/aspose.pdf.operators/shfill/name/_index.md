@@ -1,12 +1,12 @@
 ---
-title: ShFill.Name
-second_title: Aspose.PDF for .NET API Reference
-description: ShFill 属性。获取或设置阴影名称
+title: "ShFill.Name"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ShFill 属性。获取或设置着色名称"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.operators/shfill/name/
 ---
-## ShFill.Name 属性
+## ShFill.Name property
 
 获取或设置阴影名称。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.operators/shfill/name/
 public string Name { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ShFill](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ShFill](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

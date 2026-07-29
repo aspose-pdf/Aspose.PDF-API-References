@@ -1,12 +1,12 @@
 ---
-title: Image.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: 图像方法。克隆图像
+title: "Image.Clone"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Image 方法。克隆图像"
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf/image/clone/
 ---
-## Image.Clone 方法
+## Image.Clone method
 
 克隆图像。
 
@@ -18,8 +18,10 @@ public override object Clone()
 
 克隆的对象
 
-### 另请参阅
+### 另请参见
 
-* 类 [Image](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

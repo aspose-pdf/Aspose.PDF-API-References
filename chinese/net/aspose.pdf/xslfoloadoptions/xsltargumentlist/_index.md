@@ -1,21 +1,23 @@
 ---
-title: XslFoLoadOptions.XsltArgumentList
-second_title: Aspose.PDF for .NET API Reference
-description: XslFoLoadOptions 属性。用于将值插入现有 xls 参数的 XsltArgumentList XLS 文件中有一个没有值的 animal 参数 XsltArgumentList args new XsltArgumentList args.AddParamanimal cat 现在转换器假设 XLS 文件中有一个值为 cat 的 animal 参数
+title: "XslFoLoadOptions.XsltArgumentList"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XslFoLoadOptions 属性。XsltArgumentList 用于向现有 xls 参数插入值。XLS 文件有 animal 参数但没有值。XsltArgumentList args = new XsltArgumentList(); args.AddParamanimal(\"cat\"); 现在转换器假设 XLS 文件中存在一个值为 cat 的 animal 参数。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/xslfoloadoptions/xsltargumentlist/
 ---
-## XslFoLoadOptions.XsltArgumentList 属性
+## XslFoLoadOptions.XsltArgumentList property
 
-XsltArgumentList 用于将值插入现有 xls 参数 XLS 文件中有一个没有值的 'animal' 参数：XsltArgumentList args = new XsltArgumentList(); args.AddParam("animal", "", "cat"); 现在转换器假设 XLS 文件中有一个值为 'cat' 的 'animal' 参数。
+XsltArgumentList 用于向现有的 xls 参数插入值。XLS 文件有一个没有值的 'animal' 参数：XsltArgumentList args = new XsltArgumentList(); args.AddParam(\"animal\", \"\", \"cat\"); 现在转换器假设 XLS 文件中存在值为 'cat' 的 'animal' 参数。
 
 ```csharp
 public XsltArgumentList XsltArgumentList { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XslFoLoadOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XslFoLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

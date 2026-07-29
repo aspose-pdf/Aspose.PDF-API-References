@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.PrcEnvelopeNumber7
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 字段。7号信封 160 毫米 x 230 毫米
+title: "PaperSizes.PrcEnvelopeNumber7"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PaperSizes 字段。7 信封 160 mm × 230 mm"
 type: docs
 weight: 1000
 url: /zh/net/aspose.pdf.printing/papersizes/prcenvelopenumber7/
 ---
-## PaperSizes.PrcEnvelopeNumber7 字段
+## PaperSizes.PrcEnvelopeNumber7 field
 
-#7号信封 (160 毫米 x 230 毫米)。
+#7 信封（160 mm × 230 mm）。
 
 ```csharp
 public static readonly PaperSize PrcEnvelopeNumber7;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PaperSize](../../papersize/)
-* 类 [PaperSizes](../)
-* 命名空间 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

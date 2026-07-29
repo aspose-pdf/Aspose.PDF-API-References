@@ -1,14 +1,14 @@
 ---
-title: Enum HeadingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HeadingStyle 枚举。定义了可用于标题的序列化样式。有关规范，请参见 CommonMark - ATX 标题和 CommonMark - Setext 标题。
+title: "枚举 HeadingStyle"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.HeadingStyle 枚举。定义标题的可用序列化样式。有关规范，请参阅 CommonMark ATX 标题以及 CommonMark Setext 标题。"
 type: docs
-weight: 5490
+weight: 5620
 url: /zh/net/aspose.pdf/headingstyle/
 ---
-## HeadingStyle 枚举
+## HeadingStyle enumeration
 
-定义了可用于标题的序列化样式。有关规范，请参见 CommonMark - ATX 标题和 CommonMark - Setext 标题。
+定义标题的可用序列化样式。有关规范，请参阅 CommonMark - ATX headings 和 CommonMark - Setext headings。
 
 ```csharp
 public enum HeadingStyle
@@ -18,10 +18,12 @@ public enum HeadingStyle
 
 | 名称 | 值 | 描述 |
 | --- | --- | --- |
-| Atx | `0` | 用 '#' 前缀标题 |
-| Setext | `1` | 用 "======" 和 "------" 分别为 1 级和 2 级标题添加下划线 |
+| Atx | `0` | 使用 '#' 前缀标题 |
+| Setext | `1` | 使用 "======" 为一级标题加下划线，使用 "------" 为二级标题加下划线 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

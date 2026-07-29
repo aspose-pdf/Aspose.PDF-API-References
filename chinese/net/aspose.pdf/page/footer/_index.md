@@ -1,12 +1,12 @@
 ---
-title: Page.Footer
-second_title: Aspose.PDF for .NET API Reference
-description: 页面属性。获取或设置页面页脚
+title: "Page.Footer"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Page 属性。获取或设置页面页脚。"
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf/page/footer/
 ---
-## Page.Footer 属性
+## Page.Footer property
 
 获取或设置页面页脚。
 
@@ -14,13 +14,15 @@ url: /zh/net/aspose.pdf/page/footer/
 public HeaderFooter Footer { get; set; }
 ```
 
-### 属性值
+### Property Value
 
 页面页脚。
 
-### 另请参阅
+### 另请参见
 
 * class [HeaderFooter](../../headerfooter/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

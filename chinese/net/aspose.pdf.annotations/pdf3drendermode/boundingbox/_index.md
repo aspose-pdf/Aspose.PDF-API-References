@@ -1,21 +1,23 @@
 ---
-title: PDF3DRenderMode.BoundingBox
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DRenderMode 字段。边界框渲染模式
+title: "PDF3DRenderMode.BoundingBox"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PDF3DRenderMode 字段。BoundingBox 渲染模式。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.annotations/pdf3drendermode/boundingbox/
 ---
-## PDF3DRenderMode.BoundingBox 字段
+## PDF3DRenderMode.BoundingBox field
 
-“边界框”渲染模式。
+该 "BoundingBox" 渲染模式。
 
 ```csharp
 public static PDF3DRenderMode BoundingBox;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PDF3DRenderMode](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

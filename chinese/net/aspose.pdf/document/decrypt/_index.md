@@ -1,14 +1,14 @@
 ---
-title: Document.Decrypt
-second_title: Aspose.PDF for .NET API Reference
-description: Document 方法。解密文档。然后调用 Save 以获取文档的解密版本
+title: "Document.Decrypt"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 方法。解密文档。调用后再 Save 以获取文档的解密版本"
 type: docs
-weight: 600
+weight: 620
 url: /zh/net/aspose.pdf/document/decrypt/
 ---
-## Document.Decrypt 方法
+## Document.Decrypt method
 
-解密文档。然后调用 Save 以获取文档的解密版本。
+解密文档。调用 Save 以获取文档的解密版本。
 
 ```csharp
 public void Decrypt()
@@ -16,20 +16,20 @@ public void Decrypt()
 
 ### 示例
 
-以下示例代码演示如何解密 PDF 文件。
+以下示例代码展示了如何解密 PDF 文件。
 
 ```csharp
 [C#]
-	// The path to your PDF File.
+	// PDF 文件的路径。
 	string pdfFilePath = "YOUR_PDF_FILE_PATH";
 
-	// Open document
+	// 打开文档
 	using (Document document = new Document(pdfFilePath, "YOUR_PASSWORD"))
 	{
-		// Decrypt PDF
+		// 解密 PDF
 		document.Decrypt();
 
-		// Save updated PDF
+		// 保存已更新的 PDF
 		document.Save(pdfFilePath);
 	}
 ```
@@ -51,8 +51,10 @@ public void Decrypt()
     End Using
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

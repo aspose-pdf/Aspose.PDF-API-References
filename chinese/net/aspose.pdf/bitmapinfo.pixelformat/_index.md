@@ -1,12 +1,12 @@
 ---
-title: Enum BitmapInfo.PixelFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BitmapInfoPixelFormat 枚举。位图像素格式
+title: "枚举 BitmapInfo.PixelFormat"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.BitmapInfoPixelFormat 枚举。位图像素格式"
 type: docs
-weight: 2870
+weight: 2980
 url: /zh/net/aspose.pdf/bitmapinfo.pixelformat/
 ---
-## BitmapInfo.PixelFormat 枚举
+## BitmapInfo.PixelFormat enumeration
 
 位图像素格式。
 
@@ -24,8 +24,10 @@ public enum PixelFormat
 | Argb32 | `3` | Argb32 像素格式。 |
 | Bgra32 | `4` | Bgra32 像素格式。 |
 
-### 另见
+### 另请参见
 
-* 类 [BitmapInfo](../bitmapinfo/)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* class [BitmapInfo](../bitmapinfo/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum HtmlSaveOptions.ImageParentTypes
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlSaveOptionsImageParentTypes 枚举。枚举图像可以属于 HTML 页面或 SVG 父图像的可能类型
+title: "枚举 HtmlSaveOptions.ImageParentTypes"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.HtmlSaveOptionsImageParentTypes 枚举。枚举图像父级的可能类型，图像可以属于 HTML 页面或 SVG 父图像"
 type: docs
-weight: 5690
+weight: 5820
 url: /zh/net/aspose.pdf/htmlsaveoptions.imageparenttypes/
 ---
-## HtmlSaveOptions.ImageParentTypes 枚举
+## HtmlSaveOptions.ImageParentTypes enumeration
 
-枚举图像可以属于 HTML 页面或 SVG 父图像的可能类型
+枚举图像父级的可能类型，图像可以属于 HTML 页面或 SVG 父图像
 
 ```csharp
 public enum ImageParentTypes
@@ -21,8 +21,10 @@ public enum ImageParentTypes
 | HtmlPage | `0` | 图像属于 HTML 页面本身 |
 | SvgImage | `1` | 图像嵌入在 SVG 图像中 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [HtmlSaveOptions](../htmlsaveoptions/)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

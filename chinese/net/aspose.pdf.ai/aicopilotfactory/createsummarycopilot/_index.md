@@ -1,25 +1,27 @@
 ---
-title: AICopilotFactory.CreateSummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: AICopilotFactory 方法。根据客户端和选项创建摘要助手
+title: "AICopilotFactory.CreateSummaryCopilot"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AICopilotFactory 方法。基于客户端和选项创建摘要协助程序"
 type: docs
-weight: 30
+weight: 40
 url: /zh/net/aspose.pdf.ai/aicopilotfactory/createsummarycopilot/
 ---
-## AICopilotFactory.CreateSummaryCopilot&lt;TOptions&gt; 方法
+## AICopilotFactory.CreateSummaryCopilot&lt;TOptions&gt; method
 
-根据客户端和选项创建摘要助手。
+基于客户端和选项创建摘要协同程序。
 
 ```csharp
 public static ISummaryCopilot CreateSummaryCopilot<TOptions>(ISummaryClient<TOptions> client, 
     ISummaryCopilotOptions<TOptions> options)
 ```
 
-### 另请参阅
+### 另请参见
 
-* 接口 [ISummaryCopilot](../../isummarycopilot/)
-* 接口 [ISummaryClient&lt;TOptions&gt;](../../isummaryclient-1/)
-* 接口 [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
-* 类 [AICopilotFactory](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [ISummaryCopilot](../../isummarycopilot/)
+* interface [ISummaryClient&lt;TOptions&gt;](../../isummaryclient-1/)
+* interface [ISummaryCopilotOptions&lt;TOptions&gt;](../../isummarycopilotoptions-1/)
+* class [AICopilotFactory](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

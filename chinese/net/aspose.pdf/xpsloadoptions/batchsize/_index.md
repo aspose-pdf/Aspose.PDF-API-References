@@ -1,21 +1,23 @@
 ---
-title: XpsLoadOptions.BatchSize
-second_title: Aspose.PDF for .NET API Reference
-description: XpsLoadOptions 属性。定义批处理大小，如果批处理转换适用于源和目标格式对
+title: "XpsLoadOptions.BatchSize"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XpsLoadOptions 属性。定义批处理大小（如果批量转换适用于源和目标格式对）"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/xpsloadoptions/batchsize/
 ---
-## XpsLoadOptions.BatchSize 属性
+## XpsLoadOptions.BatchSize property
 
-定义批处理大小，如果批处理转换适用于源和目标格式对。
+如果批量转换适用于源和目标格式对，则定义批处理大小。
 
 ```csharp
 public int BatchSize { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XpsLoadOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XpsLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

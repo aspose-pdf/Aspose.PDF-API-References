@@ -1,12 +1,12 @@
 ---
-title: RadioButtonOptionField.OptionName
-second_title: Aspose.PDF for .NET API Reference
-description: RadioButtonOptionField 属性。获取或设置选项的名称
+title: "RadioButtonOptionField.OptionName"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "RadioButtonOptionField 属性。获取或设置选项的名称"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.forms/radiobuttonoptionfield/optionname/
 ---
-## RadioButtonOptionField.OptionName 属性
+## RadioButtonOptionField.OptionName property
 
 获取或设置选项的名称。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.forms/radiobuttonoptionfield/optionname/
 public string OptionName { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [RadioButtonOptionField](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [RadioButtonOptionField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

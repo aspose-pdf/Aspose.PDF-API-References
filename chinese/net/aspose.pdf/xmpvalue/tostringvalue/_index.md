@@ -1,12 +1,12 @@
 ---
-title: XmpValue.ToStringValue
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue 方法。转换为字符串
+title: "XmpValue.ToStringValue"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpValue 方法。转换为字符串"
 type: docs
 weight: 220
 url: /zh/net/aspose.pdf/xmpvalue/tostringvalue/
 ---
-## XmpValue.ToStringValue 方法
+## XmpValue.ToStringValue method
 
 转换为字符串。
 
@@ -18,8 +18,10 @@ public string ToStringValue()
 
 字符串值。
 
-### 另见
+### 另请参见
 
-* 类 [XmpValue](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

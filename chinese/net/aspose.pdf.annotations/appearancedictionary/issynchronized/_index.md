@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary 属性。获取一个值，指示对字典的访问是否是同步的（线程安全）。
+title: "AppearanceDictionary.IsSynchronized"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AppearanceDictionary 属性。获取一个值，指示对字典的访问是否同步且线程安全"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.annotations/appearancedictionary/issynchronized/
 ---
-## AppearanceDictionary.IsSynchronized 属性
+## AppearanceDictionary.IsSynchronized property
 
-获取一个值，指示对字典的访问是否是同步的（线程安全）。
+获取指示对字典的访问是否同步（线程安全）的值。
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -16,6 +16,8 @@ public bool IsSynchronized { get; }
 
 ### 另请参见
 
-* 类 [AppearanceDictionary](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

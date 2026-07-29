@@ -1,14 +1,14 @@
 ---
-title: Form.FieldNames
-second_title: Aspose.PDF for .NET API Reference
-description: 表单属性。获取表单上的字段名称列表
+title: "Form.FieldNames"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Form 属性。获取表单上字段名称的列表。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.facades/form/fieldnames/
 ---
-## Form.FieldNames 属性
+## Form.FieldNames property
 
-获取表单上的字段名称列表。
+获取表单上字段名称的列表。
 
 ```csharp
 public string[] FieldNames { get; }
@@ -25,8 +25,10 @@ foreach(string field in fields)
 }
 ```
 
-### 另见
+### 另请参见
 
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

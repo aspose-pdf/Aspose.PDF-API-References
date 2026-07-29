@@ -1,12 +1,12 @@
 ---
-title: TextState.MeasureString
-second_title: Aspose.PDF for .NET API Reference
-description: TextState 方法。测量字符串
+title: "TextState.MeasureString"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextState 方法。测量字符串"
 type: docs
 weight: 240
 url: /zh/net/aspose.pdf.text/textstate/measurestring/
 ---
-## TextState.MeasureString 方法
+## TextState.MeasureString method
 
 测量字符串。
 
@@ -16,14 +16,16 @@ public virtual double MeasureString(string str)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| str | 字符串 | 字符串。 |
+| str | String | 字符串。 |
 
 ### 返回值
 
-由此文本状态表示的字符串宽度。
+此文本状态表示的字符串的宽度。
 
-### 另见
+### 另请参见
 
-* 类 [TextState](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

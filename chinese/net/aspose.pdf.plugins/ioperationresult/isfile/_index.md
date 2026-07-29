@@ -1,12 +1,12 @@
 ---
-title: IOperationResult.IsFile
-second_title: Aspose.PDF for .NET API Reference
-description: IOperationResult 属性。指示结果是否为输出文件的路径
+title: "IOperationResult.IsFile"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "IOperationResult 属性。指示结果是否为输出文件的路径"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.plugins/ioperationresult/isfile/
 ---
-## IOperationResult.IsFile 属性
+## IOperationResult.IsFile property
 
 指示结果是否为输出文件的路径。
 
@@ -16,10 +16,12 @@ public bool IsFile { get; }
 
 ### 返回值
 
-`true` 如果结果是一个文件；否则 `false`。
+`true` 表示结果是文件；否则为 `false`。
 
 ### 另请参见
 
-* 接口 [IOperationResult](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IOperationResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XImageCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection 属性。返回同步对象
+title: "XImageCollection.SyncRoot"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XImageCollection 属性。返回同步对象"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/ximagecollection/syncroot/
 ---
-## XImageCollection.SyncRoot 属性
+## XImageCollection.SyncRoot property
 
 返回同步对象。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/ximagecollection/syncroot/
 public object SyncRoot { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XImageCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

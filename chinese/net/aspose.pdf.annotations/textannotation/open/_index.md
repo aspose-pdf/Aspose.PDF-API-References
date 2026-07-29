@@ -1,21 +1,23 @@
 ---
-title: TextAnnotation.Open
-second_title: Aspose.PDF for .NET API Reference
-description: TextAnnotation 属性。获取或设置一个标志，指定注释是否应最初显示为打开
+title: "TextAnnotation.Open"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextAnnotation 属性。获取或设置一个标志，指定注释是否应初始显示为打开状态"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.annotations/textannotation/open/
 ---
-## TextAnnotation.Open 属性
+## TextAnnotation.Open property
 
-获取或设置一个标志，指定注释是否应最初显示为打开。
+获取或设置指定注释是否应初始展开的标志。
 
 ```csharp
 public bool Open { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextAnnotation](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

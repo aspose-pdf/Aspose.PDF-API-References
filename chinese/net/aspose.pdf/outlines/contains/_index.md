@@ -1,12 +1,12 @@
 ---
-title: Outlines.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: 概述方法。总是抛出 NotImplementedException
+title: "Outlines.Contains"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Outlines 方法。始终抛出 NotImplementedException"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/outlines/contains/
 ---
-## Outlines.Contains 方法
+## Outlines.Contains method
 
 始终抛出 NotImplementedException。
 
@@ -22,9 +22,11 @@ public abstract bool Contains(OutlineItemCollection item)
 
 NotImplementedException
 
-### 另请参阅
+### 另请参见
 
-* 类 [OutlineItemCollection](../../outlineitemcollection/)
-* 类 [Outlines](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [Outlines](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

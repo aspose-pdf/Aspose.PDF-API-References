@@ -1,19 +1,21 @@
 ---
-title: Delegate SelectField
-second_title: Aspose.PDF for .NET API Reference
-description:
+title: "委托 SelectField"
+second_title: "Aspose.PDF for .NET API 参考"
+description: 
 type: docs
-weight: 9240
-url: /net/aspose.pdf.plugins/selectfield/
+weight: 9390
+url: /zh/net/aspose.pdf.plugins/selectfield/
 ---
-## 选择字段委托
+## SelectField delegate
 
 ```csharp
 public delegate bool SelectField(Field field);
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Field](../../aspose.pdf.forms/field/)
-* 命名空间 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../)
+* class [Field](../../aspose.pdf.forms/field/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

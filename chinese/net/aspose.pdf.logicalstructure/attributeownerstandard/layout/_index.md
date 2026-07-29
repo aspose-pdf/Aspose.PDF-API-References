@@ -1,12 +1,12 @@
 ---
-title: AttributeOwnerStandard.Layout
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeOwnerStandard 字段。布局属性所有者
+title: "AttributeOwnerStandard.Layout"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AttributeOwnerStandard 字段。Layout 属性所有者"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.logicalstructure/attributeownerstandard/layout/
 ---
-## AttributeOwnerStandard.Layout 字段
+## AttributeOwnerStandard.Layout field
 
 布局属性所有者。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.logicalstructure/attributeownerstandard/layout/
 public static readonly AttributeOwnerStandard Layout;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [AttributeOwnerStandard](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

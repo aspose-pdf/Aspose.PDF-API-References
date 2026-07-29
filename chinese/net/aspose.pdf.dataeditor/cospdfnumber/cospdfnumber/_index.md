@@ -1,7 +1,7 @@
 ---
-title: CosPdfNumber.CosPdfNumber
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfNumber 构造函数。初始化 CosPdfNumber 类的新实例
+title: "CosPdfNumber.CosPdfNumber"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CosPdfNumber 构造函数。初始化 CosPdfNumber 类的新实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.dataeditor/cospdfnumber/cospdfnumber/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.pdf.dataeditor/cospdfnumber/cospdfnumber/
 public CosPdfNumber()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [CosPdfNumber](../)
-* 命名空间 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CosPdfNumber](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,10 +32,12 @@ public CosPdfNumber(double value)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Double | 数字。 |
+| 值 | Double | 该数字。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [CosPdfNumber](../)
-* 命名空间 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CosPdfNumber](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: EI.EI
-second_title: Aspose.PDF for .NET API Reference
-description: EI 构造函数。初始化操作符
+title: "EI.EI"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "EI 构造函数。初始化运算符"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/ei/ei/
 ---
-## EI 构造函数
+## EI constructor
 
 初始化操作符。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.operators/ei/ei/
 public EI()
 ```
 
-### 另见
+### 另请参见
 
-* 类 [EI](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [EI](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

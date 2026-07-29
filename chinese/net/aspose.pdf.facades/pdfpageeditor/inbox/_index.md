@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.INBOX
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor 字段。内部箱
+title: "PdfPageEditor.INBOX"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfPageEditor 字段。向内盒"
 type: docs
 weight: 240
 url: /zh/net/aspose.pdf.facades/pdfpageeditor/inbox/
 ---
-## PdfPageEditor.INBOX 字段
+## PdfPageEditor.INBOX field
 
-内部箱
+向内盒子
 
 ```csharp
 public const int INBOX;
 ```
 
-### 另见
+### 另请参见
 
-* 类 [PdfPageEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

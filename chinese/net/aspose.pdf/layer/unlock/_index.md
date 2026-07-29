@@ -1,21 +1,23 @@
 ---
-title: Layer.Unlock
-second_title: Aspose.PDF for .NET API Reference
-description: 层方法。解锁层
+title: "Layer.Unlock"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Layer 方法。解锁图层"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/layer/unlock/
 ---
-## Layer.Unlock 方法
+## Layer.Unlock method
 
-解锁层。
+解锁图层。
 
 ```csharp
 public void Unlock()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Layer](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

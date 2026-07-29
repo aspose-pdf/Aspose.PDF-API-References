@@ -1,23 +1,25 @@
 ---
-title: StructureTypeStandard.Formula
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTypeStandard 字段。公式 一个数学公式
+title: "StructureTypeStandard.Formula"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "StructureTypeStandard field. Formula 数学公式"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.logicalstructure/structuretypestandard/formula/
 ---
-## StructureTypeStandard.Formula 字段
+## StructureTypeStandard.Formula field
 
-(公式) 一个数学公式。
+(Formula) 数学公式。
 
-此结构类型仅用于将整个内容元素标识为公式。没有标准结构类型用于识别公式内的单个组件。从格式化的角度来看，公式应类似于图形（结构类型 Figure）进行处理。
+此结构类型仅用于将整个内容元素标识为公式。未定义用于标识公式内部各个组件的标准结构类型。从格式化角度来看，公式应当类似于图形（结构类型 Figure）进行处理
 
 ```csharp
 public static readonly StructureTypeStandard Formula;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [StructureTypeStandard](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: HtmlSaveOptions.Title
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions 属性。获取或设置 HTML 页面标题
+title: "HtmlSaveOptions.Title"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "HtmlSaveOptions 属性。获取或设置 HTML 页面标题。"
 type: docs
 weight: 210
 url: /zh/net/aspose.pdf/htmlsaveoptions/title/
 ---
-## HtmlSaveOptions.Title 属性
+## HtmlSaveOptions.Title property
 
 获取或设置 HTML 页面标题。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/htmlsaveoptions/title/
 public string Title { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [HtmlSaveOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: TextPlaceOperator.TextPlaceOperator
-second_title: Aspose.PDF for .NET API Reference
-description: TextPlaceOperator 构造函数。初始化 TextPlaceOperator
+title: "TextPlaceOperator.TextPlaceOperator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextPlaceOperator 构造函数。初始化 TextPlaceOperator"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/textplaceoperator/textplaceoperator/
@@ -40,3 +40,5 @@ public TextPlaceOperator(TextProperties textProperties)
 * class [TextPlaceOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.Process
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor 方法。使用指定的参数启动 PdfExtractor 处理
+title: "PdfExtractor.Process"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfExtractor 方法。使用指定的参数启动 PdfExtractor 处理"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.plugins/pdfextractor/process/
 ---
-## PdfExtractor.Process 方法
+## PdfExtractor.Process method
 
-使用指定的参数启动 PdfExtractor 处理。
+使用指定参数启动 PdfExtractor 处理。
 
 ```csharp
 public ResultContainer Process(IPluginOptions pdfExtractorOptions)
@@ -22,10 +22,12 @@ public ResultContainer Process(IPluginOptions pdfExtractorOptions)
 
 一个包含提取结果的 ResultContainer 对象。
 
-### 另请参阅
+### 另请参见
 
-* 类 [ResultContainer](../../resultcontainer/)
-* 接口 [IPluginOptions](../../ipluginoptions/)
-* 类 [PdfExtractor](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PageCollection.IndexOf
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection 方法。返回指定页面的索引
+title: "PageCollection.IndexOf"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PageCollection 方法。返回指定页面的索引"
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf/pagecollection/indexof/
 ---
-## PageCollection.IndexOf 方法
+## PageCollection.IndexOf method
 
 返回指定页面的索引。
 
@@ -16,7 +16,7 @@ public int IndexOf(Page entity)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| entity | Page | 页面对象。页面编号从 1 开始。 |
+| 实体 | 页面 | Page 对象。页面编号从 1 开始。 |
 
 ### 返回值
 
@@ -26,9 +26,11 @@ public int IndexOf(Page entity)
 
 页面编号从 1 开始。如果集合不包含该页面，则返回 0。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Page](../../page/)
-* 类 [PageCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Interface IQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IQueryParameters 接口。表示 API 请求的查询参数
+title: "接口 IQueryParameters"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.IQueryParameters 接口。表示 API 请求的查询参数。"
 type: docs
-weight: 550
+weight: 600
 url: /zh/net/aspose.pdf.ai/iqueryparameters/
 ---
-## IQueryParameters 接口
+## IQueryParameters interface
 
 表示 API 请求的查询参数。
 
@@ -18,9 +18,11 @@ public interface IQueryParameters
 
 | 名称 | 描述 |
 | --- | --- |
-| [GetQueryParameters](../../aspose.pdf.ai/iqueryparameters/getqueryparameters/)() | 获取查询参数作为字符串。 |
+| [GetQueryParameters](../../aspose.pdf.ai/iqueryparameters/getqueryparameters/)() | 获取查询参数的字符串表示。 |
 
 ### 另请参见
 
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

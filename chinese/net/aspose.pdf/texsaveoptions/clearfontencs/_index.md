@@ -1,21 +1,23 @@
 ---
-title: TeXSaveOptions.ClearFontEncs
-second_title: Aspose.PDF for .NET API Reference
-description: TeXSaveOptions 方法。清除字体编码列表
+title: "TeXSaveOptions.ClearFontEncs"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TeXSaveOptions 方法。清除字体编码列表。"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/texsaveoptions/clearfontencs/
 ---
-## TeXSaveOptions.ClearFontEncs 方法
+## TeXSaveOptions.ClearFontEncs method
 
-清除字体编码列表
+清除字体编码列表。
 
 ```csharp
 public void ClearFontEncs()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TeXSaveOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TeXSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

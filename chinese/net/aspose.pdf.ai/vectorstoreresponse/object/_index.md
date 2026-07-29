@@ -1,21 +1,23 @@
 ---
-title: VectorStoreResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreResponse 属性。获取或设置对象类型，该类型始终为 vector_store
+title: "VectorStoreResponse.Object"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "VectorStoreResponse 属性。获取或设置对象类型，始终为 vector_store"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.ai/vectorstoreresponse/object/
 ---
-## VectorStoreResponse.Object 属性
+## VectorStoreResponse.Object property
 
-获取或设置对象类型，该类型始终为 vector_store。
+获取或设置对象类型，始终为 vector_store。
 
 ```csharp
 public string Object { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [VectorStoreResponse](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [VectorStoreResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

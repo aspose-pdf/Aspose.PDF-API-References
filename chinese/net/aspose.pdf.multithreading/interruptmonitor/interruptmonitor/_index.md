@@ -1,12 +1,12 @@
 ---
-title: InterruptMonitor.InterruptMonitor
-second_title: Aspose.PDF for .NET API Reference
-description: InterruptMonitor 构造函数。默认构造函数
+title: "InterruptMonitor.InterruptMonitor"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "InterruptMonitor 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.multithreading/interruptmonitor/interruptmonitor/
 ---
-## InterruptMonitor 构造函数
+## InterruptMonitor constructor
 
 默认构造函数。
 
@@ -19,3 +19,5 @@ public InterruptMonitor()
 * class [InterruptMonitor](../)
 * namespace [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
 * assembly [Aspose.PDF](../../../)
+
+

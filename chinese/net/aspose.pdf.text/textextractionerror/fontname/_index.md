@@ -1,21 +1,23 @@
 ---
-title: TextExtractionError.FontName
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractionError 属性。用于显示导致提取错误的文本的字体对象的可读内部名称
+title: "TextExtractionError.FontName"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextExtractionError 属性。用于显示导致提取错误的文本的 Font 对象的可读内部名称"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.text/textextractionerror/fontname/
 ---
-## TextExtractionError.FontName 属性
+## TextExtractionError.FontName property
 
-用于显示导致提取错误的文本的字体对象的可读（内部）名称。
+用于显示导致提取错误的文本的 Font 对象的可读（内部）名称。
 
 ```csharp
 public string FontName { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextExtractionError](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextExtractionError](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

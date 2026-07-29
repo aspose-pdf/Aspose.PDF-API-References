@@ -1,12 +1,12 @@
 ---
-title: Enum AutoRotateMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.AutoRotateMode 枚举。文档打印时的旋转方向
+title: "枚举 AutoRotateMode"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Facades.AutoRotateMode enum. 文档打印时的旋转方向"
 type: docs
-weight: 4160
+weight: 4280
 url: /zh/net/aspose.pdf.facades/autorotatemode/
 ---
-## AutoRotateMode 枚举
+## AutoRotateMode enumeration
 
 文档打印时的旋转方向。
 
@@ -24,5 +24,7 @@ public enum AutoRotateMode
 
 ### 另请参见
 
-* 命名空间 [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../)
+
+

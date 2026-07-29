@@ -1,9 +1,9 @@
 ---
-title: Class StreamSaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.StreamSaveTarget 类。表示插件的流保存目标
+title: "类 StreamSaveTarget"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.StreamSaveTarget 类。表示插件的流保存目标。"
 type: docs
-weight: 9310
+weight: 9460
 url: /zh/net/aspose.pdf.plugins/streamsavetarget/
 ---
 ## StreamSaveTarget class
@@ -14,21 +14,23 @@ url: /zh/net/aspose.pdf.plugins/streamsavetarget/
 public class StreamSaveTarget : ISaveTarget
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [StreamSaveTarget](streamsavetarget/)(Stream) | 初始化新的流保存目标。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [Data](../../aspose.pdf.plugins/streamsavetarget/data/) { get; } | 获取当前保存目标的流。 |
 | [SaveTarget](../../aspose.pdf.plugins/streamsavetarget/savetarget/) { get; } | 保存目标的类型（流）。 |
 
-### See Also
+### 另请参见
 
 * interface [ISaveTarget](../isavetarget/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

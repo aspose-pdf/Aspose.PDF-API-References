@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.CreateAssistantAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient 方法。异步创建一个新的助手
+title: "OpenAIClient.CreateAssistantAsync"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAIClient 方法。异步创建新的助手。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.ai/openaiclient/createassistantasync/
 ---
-## OpenAIClient.CreateAssistantAsync 方法
+## OpenAIClient.CreateAssistantAsync method
 
-异步创建一个新的助手。
+异步创建新的助手。
 
 ```csharp
 public Task<AssistantResponse> CreateAssistantAsync(AssistantCreateRequest assistantCreateRequest, 
@@ -24,10 +24,12 @@ public Task<AssistantResponse> CreateAssistantAsync(AssistantCreateRequest assis
 
 表示异步操作的任务。任务结果包含助手创建的响应。
 
-### 另请参阅
+### 另请参见
 
 * class [AssistantResponse](../../assistantresponse/)
 * class [AssistantCreateRequest](../../assistantcreaterequest/)
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

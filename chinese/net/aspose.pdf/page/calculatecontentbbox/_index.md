@@ -1,14 +1,14 @@
 ---
-title: Page.CalculateContentBBox
-second_title: Aspose.PDF for .NET API Reference
-description: Page 方法。计算包含内容的 bbox 值矩形，且没有可见边距
+title: "Page.CalculateContentBBox"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Page 方法。计算 bbox 值，即不含可见边距的内容矩形。"
 type: docs
 weight: 390
 url: /zh/net/aspose.pdf/page/calculatecontentbbox/
 ---
-## Page.CalculateContentBBox 方法
+## Page.CalculateContentBBox method
 
-计算 bbox 值 - 包含内容的矩形，没有可见边距。
+计算 bbox 值——包含内容且不含可见边距的矩形。
 
 ```csharp
 public Rectangle CalculateContentBBox()
@@ -16,11 +16,13 @@ public Rectangle CalculateContentBBox()
 
 ### 返回值
 
-Bbox 值 - 包含内容的矩形，没有可见边距
+Bbox 值 - 包含内容且不含可见边距的矩形
 
-### 另请参阅
+### 另请参见
 
-* 类 [Rectangle](../../rectangle/)
-* 类 [Page](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

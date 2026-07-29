@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.TrySetPrivilege
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity 方法。使用原始密码设置 Pdf 文件安全性。如果过程失败，则不会抛出异常
+title: "PdfFileSecurity.TrySetPrivilege"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileSecurity 方法。使用原始密码设置 Pdf 文件的安全性。处理失败时不抛出异常"
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.facades/pdffilesecurity/trysetprivilege/
 ---
-## PdfFileSecurity.TrySetPrivilege 方法
+## PdfFileSecurity.TrySetPrivilege method
 
-使用原始密码设置 Pdf 文件安全性。如果过程失败，则不会抛出异常。
+使用原始密码设置 Pdf 文件的安全性。处理失败时不抛出异常。
 
 ```csharp
 public bool TrySetPrivilege(string userPassword, string ownerPassword, DocumentPrivilege privilege)
@@ -16,13 +16,13 @@ public bool TrySetPrivilege(string userPassword, string ownerPassword, DocumentP
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| userPassword | 字符串 | 原始用户密码。 |
-| ownerPassword | 字符串 | 原始拥有者密码。 |
-| privilege | DocumentPrivilege | 设置权限。 |
+| userPassword | String | 原始用户密码。 |
+| ownerPassword | String | 原始所有者密码。 |
+| 特权 | DocumentPrivilege | 设置特权。 |
 
 ### 返回值
 
-成功返回 true，失败返回 false。
+成功返回 true，否则返回 false。
 
 ## 示例
 
@@ -40,9 +40,11 @@ Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile)
 Dim result As Boolean = fileSecurity.TrySetPrivilege(userPassword, ownerPassword, DocumentPrivilege.Print)
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [DocumentPrivilege](../../documentprivilege/)
-* 类 [PdfFileSecurity](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../../documentprivilege/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

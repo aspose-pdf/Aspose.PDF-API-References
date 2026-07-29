@@ -1,14 +1,14 @@
 ---
-title: Measure.XFormat
-second_title: Aspose.PDF for .NET API Reference
-description: 测量属性。用于沿 x 轴测量变化的数字格式数组，如果 Y 不存在，则也沿 y 轴测量
+title: "Measure.XFormat"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Measure 属性。用于测量沿 x 轴变化的数字格式数组，如果 Y 轴不存在，也适用于 y 轴。"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.annotations/measure/xformat/
 ---
-## Measure.XFormat 属性
+## Measure.XFormat property
 
-用于沿 x 轴测量变化的数字格式数组，如果 Y 不存在，则也沿 y 轴测量
+用于沿 x 轴变化测量的数字格式数组，如果未提供 Y，则也用于沿 y 轴的测量。
 
 ```csharp
 public NumberFormatList XFormat { get; set; }
@@ -20,3 +20,5 @@ public NumberFormatList XFormat { get; set; }
 * class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

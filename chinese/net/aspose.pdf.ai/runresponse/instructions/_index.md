@@ -1,12 +1,12 @@
 ---
-title: RunResponse.Instructions
-second_title: Aspose.PDF for .NET API Reference
-description: RunResponse 属性。获取或设置助手在此运行中使用的指令
+title: "RunResponse.Instructions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "RunResponse 属性。获取或设置助手在此运行中使用的指令"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.ai/runresponse/instructions/
 ---
-## RunResponse.Instructions 属性
+## RunResponse.Instructions property
 
 获取或设置助手在此运行中使用的指令。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/runresponse/instructions/
 public string Instructions { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [RunResponse](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

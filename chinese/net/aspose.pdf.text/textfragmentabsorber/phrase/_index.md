@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.Phrase
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentAbsorber 属性。获取或设置 TextFragmentAbsorber 在 PDF 文档或页面上搜索的短语
+title: "TextFragmentAbsorber.Phrase"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextFragmentAbsorber 属性。获取或设置 TextFragmentAbsorber 在 PDF 文档或页面上搜索的短语。"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.text/textfragmentabsorber/phrase/
 ---
-## TextFragmentAbsorber.Phrase 属性
+## TextFragmentAbsorber.Phrase property
 
-获取或设置短语，该短语由 [`TextFragmentAbsorber`](../) 在 PDF 文档或页面上搜索。
+获取或设置 [`TextFragmentAbsorber`](../) 在 PDF 文档或页面上搜索的短语。
 
 ```csharp
 public string Phrase { get; set; }
@@ -16,30 +16,32 @@ public string Phrase { get; set; }
 
 ## 示例
 
-该示例演示如何多次执行文本搜索并进行文本替换。
+示例演示了如何多次执行文本搜索并进行文本替换。
 
 ```csharp
-// Open document
+// 打开文档
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello" text occurrences
+// 创建 TextFragmentAbsorber 对象以查找所有 \"hello\" 文本出现。
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello");
 
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi";
 
-// search another word and replace it
+// 搜索另一个词并替换它。
 absorber.Phrase = "world";
 
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "John";
 
-// Save document
+// 保存文档
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextFragmentAbsorber](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

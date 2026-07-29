@@ -1,7 +1,7 @@
 ---
-title: BarcodeField.BarcodeField
-second_title: Aspose.PDF for .NET API Reference
-description: BarcodeField 构造函数。初始化 BarcodeField 类的新实例
+title: "BarcodeField.BarcodeField"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BarcodeField 构造函数。初始化 BarcodeField 类的新实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.forms/barcodefield/barcodefield/
@@ -16,16 +16,16 @@ public BarcodeField(Page page, Rectangle rect)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | 放置新条形码的页面。 |
-| rect | Rectangle | 给定矩形的条形码大小。 |
+| 页面 | 页面 | 放置新条码的页面。 |
+| rect | Rectangle | 条码尺寸以矩形给出。 |
 
-### 另见
+### 另请参见
 
-* 类 [Page](../../../aspose.pdf/page/)
-* 类 [Rectangle](../../../aspose.pdf/rectangle/)
-* 类 [BarcodeField](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [BarcodeField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -39,13 +39,15 @@ public BarcodeField(Document doc, Rectangle rect)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | 将创建字段的文档。 |
-| rect | Rectangle | 字段将在页面上放置的矩形。 |
+| 文档 | Document | 将创建字段的 Document。 |
+| rect | Rectangle | 字段将在页面上放置的 Rectangle。 |
 
-### 另见
+### 另请参见
 
-* 类 [Document](../../../aspose.pdf/document/)
-* 类 [Rectangle](../../../aspose.pdf/rectangle/)
-* 类 [BarcodeField](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [BarcodeField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

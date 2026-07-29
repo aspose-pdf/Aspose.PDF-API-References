@@ -1,12 +1,12 @@
 ---
-title: VectorStoreFileCreateRequest.VectorStoreFileCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileCreateRequest 构造函数。默认构造函数
+title: "VectorStoreFileCreateRequest.VectorStoreFileCreateRequest"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "VectorStoreFileCreateRequest 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/vectorstorefilecreaterequest/vectorstorefilecreaterequest/
 ---
-## VectorStoreFileCreateRequest 构造函数
+## VectorStoreFileCreateRequest constructor
 
 默认构造函数。
 
@@ -16,6 +16,8 @@ public VectorStoreFileCreateRequest()
 
 ### 另请参见
 
-* 类 [VectorStoreFileCreateRequest](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [VectorStoreFileCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

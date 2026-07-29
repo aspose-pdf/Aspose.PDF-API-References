@@ -1,12 +1,12 @@
 ---
-title: GraphicElementCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElementCollection 属性。获取指定索引处的 GraphicElement 元素
+title: "GraphicElementCollection.Item"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GraphicElementCollection 属性。获取指定索引处的 GraphicElement 元素"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.vector/graphicelementcollection/item/
 ---
-## GraphicElementCollection 索引器
+## GraphicElementCollection indexer
 
 获取指定索引处的 [`GraphicElement`](../../graphicelement/) 元素。
 
@@ -20,11 +20,13 @@ public GraphicElement this[int index] { get; }
 
 ### 返回值
 
-[`GraphicElement`](../../graphicelement/)。
+[`GraphicElement`](../../graphicelement/).
 
-### 另请参阅
+### 另请参见
 
-* 类 [GraphicElement](../../graphicelement/)
-* 类 [GraphicElementCollection](../)
-* 命名空间 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* 程序集 [Aspose.PDF](../../../)
+* class [GraphicElement](../../graphicelement/)
+* class [GraphicElementCollection](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

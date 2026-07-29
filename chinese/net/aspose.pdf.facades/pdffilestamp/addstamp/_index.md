@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.AddStamp
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp 方法。将印章添加到文件
+title: "PdfFileStamp.AddStamp"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileStamp 方法。向文件添加印章"
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf.facades/pdffilestamp/addstamp/
 ---
-## PdfFileStamp.AddStamp 方法
+## PdfFileStamp.AddStamp method
 
-将印章添加到文件。
+在文件添加印章。
 
 ```csharp
 public void AddStamp(Stamp stamp)
@@ -16,7 +16,7 @@ public void AddStamp(Stamp stamp)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stamp | Stamp | 印章对象。 |
+| 印章 | 印章 | 印章对象。 |
 
 ## 示例
 
@@ -32,9 +32,11 @@ fileStamp.AddStamp(stamp);
 fileStamp.Close();
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [Stamp](../../stamp/)
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

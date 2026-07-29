@@ -1,22 +1,24 @@
 ---
-title: PdfAConvertOptions.Outputs
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAConvertOptions 属性。获取用于保存操作结果的添加目标文件或流数据源的集合
+title: "PdfAConvertOptions.Outputs"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfAConvertOptions 属性。获取为保存操作结果而添加的目标文件或流数据源的集合"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.plugins/pdfaconvertoptions/outputs/
 ---
-## PdfAConvertOptions.Outputs 属性
+## PdfAConvertOptions.Outputs property
 
-获取用于保存操作结果的添加目标（文件或流数据源）的集合。
+获取已添加目标（文件或流数据源）的集合，用于保存操作结果。
 
 ```csharp
 public List<IDataSource> Outputs { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IDataSource](../../idatasource/)
-* 类 [PdfAConvertOptions](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfAConvertOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

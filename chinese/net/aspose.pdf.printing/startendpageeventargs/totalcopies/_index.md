@@ -1,12 +1,12 @@
 ---
-title: StartEndPageEventArgs.TotalCopies
-second_title: Aspose.PDF for .NET API Reference
-description: StartEndPageEventArgs 字段。获取要打印的副本总数
+title: "StartEndPageEventArgs.TotalCopies"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "StartEndPageEventArgs 字段。获取要打印的副本总数"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.printing/startendpageeventargs/totalcopies/
 ---
-## StartEndPageEventArgs.TotalCopies 字段
+## StartEndPageEventArgs.TotalCopies field
 
 获取要打印的副本总数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.printing/startendpageeventargs/totalcopies/
 public readonly int TotalCopies;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [StartEndPageEventArgs](../)
-* 命名空间 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [StartEndPageEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

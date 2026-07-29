@@ -1,12 +1,12 @@
 ---
-title: TextFragmentCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragmentCollection 属性。获取指定索引处的文本片段元素
+title: "TextFragmentCollection.Item"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextFragmentCollection 属性。获取指定索引处的文本片段元素"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.text/textfragmentcollection/item/
 ---
-## TextFragmentCollection 索引器
+## TextFragmentCollection indexer
 
 获取指定索引处的文本片段元素。
 
@@ -22,9 +22,11 @@ public TextFragment this[int index] { get; }
 
 TextFragment 对象。
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextFragment](../../textfragment/)
-* 类 [TextFragmentCollection](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextFragment](../../textfragment/)
+* class [TextFragmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

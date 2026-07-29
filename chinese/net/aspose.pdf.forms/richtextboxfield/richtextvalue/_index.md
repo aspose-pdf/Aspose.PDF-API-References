@@ -1,12 +1,12 @@
 ---
-title: RichTextBoxField.RichTextValue
-second_title: Aspose.PDF for .NET API Reference
-description: RichTextBoxField 属性。获取或设置富文本值
+title: "RichTextBoxField.RichTextValue"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "RichTextBoxField 属性。获取或设置富文本值"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.forms/richtextboxfield/richtextvalue/
 ---
-## RichTextBoxField.RichTextValue 属性
+## RichTextBoxField.RichTextValue property
 
 获取或设置富文本值。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.forms/richtextboxfield/richtextvalue/
 public string RichTextValue { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [RichTextBoxField](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [RichTextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

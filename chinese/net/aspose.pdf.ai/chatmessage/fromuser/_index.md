@@ -1,14 +1,14 @@
 ---
-title: ChatMessage.FromUser
-second_title: Aspose.PDF for .NET API Reference
-description: ChatMessage 方法。创建一个新的 ChatMessage 对象，表示用户消息
+title: "ChatMessage.FromUser"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ChatMessage 方法。创建一个表示用户消息的新的 ChatMessage 对象。"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.ai/chatmessage/fromuser/
 ---
-## ChatMessage.FromUser 方法
+## ChatMessage.FromUser method
 
-创建一个新的 ChatMessage 对象，表示用户消息。
+创建一个表示用户消息的新的 ChatMessage 对象。
 
 ```csharp
 public static ChatMessage FromUser(string content)
@@ -16,14 +16,16 @@ public static ChatMessage FromUser(string content)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| content | 字符串 | 消息的内容。 |
+| content | String | 消息的内容。 |
 
 ### 返回值
 
-一个新的 [`ChatMessage`](../) 对象，具有指定的内容和用户角色。
+一个具有指定内容和 User 角色的新 [`ChatMessage`](../) 对象。
 
-### 另请参阅
+### 另请参见
 
-* 类 [ChatMessage](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ChatMessage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Signature.Date
-second_title: Aspose.PDF for .NET API Reference
-description: 签名属性。签署时间
+title: "Signature.Date"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Signature 属性。签名时间"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.forms/signature/date/
 ---
-## 签名.日期属性
+## Signature.Date property
 
 签署时间。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.forms/signature/date/
 public DateTime Date { get; set; }
 ```
 
-### 另见
+### 另请参见
 
-* 类 [Signature](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

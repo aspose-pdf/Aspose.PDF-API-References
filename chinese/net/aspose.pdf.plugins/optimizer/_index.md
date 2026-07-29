@@ -1,12 +1,12 @@
 ---
-title: Class Optimizer
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.Optimizer 类。表示优化器插件
+title: "类 Optimizer"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.Optimizer 类。表示 Optimizer 插件。"
 type: docs
-weight: 8970
+weight: 9120
 url: /zh/net/aspose.pdf.plugins/optimizer/
 ---
-## 优化器类
+## Optimizer class
 
 表示 `Optimizer` 插件。
 
@@ -24,27 +24,29 @@ public sealed class Optimizer : IPlugin
 
 | 名称 | 描述 |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/optimizer/process/)(IPluginOptions) | 使用指定参数开始 `Optimizer` 处理。 |
+| [Process](../../aspose.pdf.plugins/optimizer/process/)(IPluginOptions) | 使用指定的参数启动 `Optimizer` 处理。 |
 
 ## 示例
 
-该示例演示如何优化 PDF 文档。
+示例演示如何优化 PDF 文档。
 
 ```csharp
-// create Optimizer
+// 创建 Optimizer
 var optimizer = new Optimizer();
-// create OptimizeOptions object to set instructions
+// 创建 OptimizeOptions 对象以设置指令
 var opt = new OptimizeOptions();
-// add input file paths
+// 添加输入文件路径
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// 设置输出文件路径
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// 执行该过程
 optimizer.Process(opt);
 ```
 
 ### 另请参见
 
-* 接口 [IPlugin](../iplugin/)
-* 命名空间 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

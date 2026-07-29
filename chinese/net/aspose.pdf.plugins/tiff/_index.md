@@ -1,14 +1,14 @@
 ---
-title: Class Tiff
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.Tiff 类。表示 Pdf 到 Tiff 插件
+title: "类 Tiff"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "类 Aspose.Pdf.Plugins.Tiff。表示 Pdf 到 Tiff 插件。"
 type: docs
-weight: 9410
+weight: 9560
 url: /zh/net/aspose.pdf.plugins/tiff/
 ---
-## Tiff 类
+## Tiff class
 
-表示 Pdf 到 Tiff 插件。
+表示 Pdf 转 Tiff 插件。
 
 ```csharp
 public sealed class Tiff : PdfToImage
@@ -24,11 +24,13 @@ public sealed class Tiff : PdfToImage
 
 | 名称 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/pdftoimage/dispose/)() | 实现 . 实际上，对于 . 并不是必需的。 |
-| [Process](../../aspose.pdf.plugins/pdftoimage/process/)(IPluginOptions) | 使用指定参数开始处理。 |
+| [Dispose](../../aspose.pdf.plugins/pdftoimage/dispose/)() | 实现 . 实际上，对 . 并非必要。 |
+| [Process](../../aspose.pdf.plugins/pdftoimage/process/)(IPluginOptions) | 开始使用指定参数进行处理。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfToImage](../pdftoimage/)
-* 命名空间 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../)
+* class [PdfToImage](../pdftoimage/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

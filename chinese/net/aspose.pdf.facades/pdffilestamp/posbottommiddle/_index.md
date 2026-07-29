@@ -1,12 +1,12 @@
 ---
-title: PdfFileStamp.PosBottomMiddle
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp 字段。底部中间位置
+title: "PdfFileStamp.PosBottomMiddle"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileStamp 字段。底部中间位置"
 type: docs
 weight: 180
 url: /zh/net/aspose.pdf.facades/pdffilestamp/posbottommiddle/
 ---
-## PdfFileStamp.PosBottomMiddle 字段
+## PdfFileStamp.PosBottomMiddle field
 
 底部中间位置。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.facades/pdffilestamp/posbottommiddle/
 public const int PosBottomMiddle;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfFileStamp](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

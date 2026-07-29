@@ -1,7 +1,7 @@
 ---
-title: Metadata.Add
-second_title: Aspose.PDF for .NET API Reference
-description: 元数据方法。向元数据添加值
+title: "Metadata.Add"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Metadata 方法。向元数据添加值"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf/metadata/add/
@@ -16,15 +16,15 @@ public void Add(string key, XmpValue value)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| key | 字符串 | 要添加的键。 |
-| value | XmpValue | 将要添加的值。 |
+| 键 | String | 要添加的键。 |
+| 值 | XmpValue | 将要添加的值。 |
 
-### 另见
+### 另请参见
 
-* 类 [XmpValue](../../xmpvalue/)
-* 类 [Metadata](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -38,20 +38,20 @@ public void Add(string key, object value)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| key | 字符串 | 要添加的键。 |
-| value | 对象 | 将要添加的值。 |
+| 键 | String | 要添加的键。 |
+| 值 | 对象 | 将要添加的值。 |
 
-### 另见
+### 另请参见
 
-* 类 [Metadata](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add(string, XmpPdfAExtensionObject) {#add_1}
 
-向元数据添加 PDF 扩展。
+向元数据添加 pdf 扩展。
 
 ```csharp
 public void Add(string prefix, XmpPdfAExtensionObject value)
@@ -59,21 +59,21 @@ public void Add(string prefix, XmpPdfAExtensionObject value)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| prefix | 字符串 | 扩展的前缀。 |
-| value | XmpPdfAExtensionObject | 将要添加的值。 |
+| prefix | String | 扩展的前缀。 |
+| 值 | XmpPdfAExtensionObject | 将要添加的值。 |
 
-### 另见
+### 另请参见
 
-* 类 [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
-* 类 [Metadata](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Add(KeyValuePair&lt;string, XmpValue&gt;) {#add}
 
-将键值对添加到字典中。
+向字典中添加键和值对。
 
 ```csharp
 public void Add(KeyValuePair<string, XmpValue> item)
@@ -81,11 +81,13 @@ public void Add(KeyValuePair<string, XmpValue> item)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| item | KeyValuePair`2 | 要添加的项。 |
+| item | KeyValuePair`2 | 待添加的项。 |
 
-### 另见
+### 另请参见
 
-* 类 [XmpValue](../../xmpvalue/)
-* 类 [Metadata](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

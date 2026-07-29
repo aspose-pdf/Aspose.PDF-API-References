@@ -1,14 +1,14 @@
 ---
-title: Signature.Process
-second_title: Aspose.PDF for .NET API Reference
-description: 签名方法。使用指定的参数开始签名处理
+title: "Signature.Process"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Signature 方法。使用指定的参数启动 Signature 处理"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.plugins/signature/process/
 ---
-## Signature.Process 方法
+## Signature.Process method
 
-使用指定的参数开始 [`Signature`](../) 处理。
+使用指定的参数启动 [`Signature`](../) 处理。
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -16,7 +16,7 @@ public ResultContainer Process(IPluginOptions options)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| options | IPluginOptions | 一个包含 [`Signature`](../) 指令的选项对象。 |
+| options | IPluginOptions | 一个包含对 [`Signature`](../) 的指令的选项对象。 |
 
 ### 返回值
 
@@ -28,10 +28,12 @@ public ResultContainer Process(IPluginOptions options)
 | --- | --- |
 | InvalidOperationException |  |
 
-### 另请参阅
+### 另请参见
 
-* 类 [ResultContainer](../../resultcontainer/)
-* 接口 [IPluginOptions](../../ipluginoptions/)
-* 类 [Signature](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PdfFileEditor.KeepActions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileEditor 属性。如果为真，操作将从源文档中复制。默认值为 true
+title: "PdfFileEditor.KeepActions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileEditor 属性。如果为 true，将从源文档复制操作。默认值为 true。"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.facades/pdffileeditor/keepactions/
 ---
-## PdfFileEditor.KeepActions 属性
+## PdfFileEditor.KeepActions property
 
-如果为真，操作将从源文档中复制。默认值 : true。
+如果为 true，则会从源文档复制操作。默认值：true。
 
 ```csharp
 public bool KeepActions { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfFileEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

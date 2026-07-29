@@ -1,12 +1,12 @@
 ---
-title: DP.DP
-second_title: Aspose.PDF for .NET API Reference
-description: DP 构造函数。初始化操作符
+title: "DP.DP"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "DP 构造函数。初始化运算符"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/dp/dp/
 ---
-## DP 构造函数
+## DP constructor
 
 初始化操作符。
 
@@ -16,10 +16,12 @@ public DP(string tag)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| tag | 字符串 | 标签值。 |
+| 标签 | String | 标签值。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [DP](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DP](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

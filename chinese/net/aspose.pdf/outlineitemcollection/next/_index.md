@@ -1,21 +1,23 @@
 ---
-title: OutlineItemCollection.Next
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineItemCollection 属性。获取在大纲层次结构中相对于此项的下一个项的轮廓项
+title: "OutlineItemCollection.Next"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OutlineItemCollection 属性。获取在大纲层次结构中相对于此项的下一个大纲项。"
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf/outlineitemcollection/next/
 ---
-## OutlineItemCollection.Next 属性
+## OutlineItemCollection.Next property
 
-获取在大纲层次结构中相对于此项的下一个项的轮廓项。
+获取在大纲层级中相对于此项表示的下一个大纲项。
 
 ```csharp
 public OutlineItemCollection Next { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [OutlineItemCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

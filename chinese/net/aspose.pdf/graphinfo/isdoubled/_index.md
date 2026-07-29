@@ -1,21 +1,23 @@
 ---
-title: GraphInfo.IsDoubled
-second_title: Aspose.PDF for .NET API Reference
-description: GraphInfo 属性。获取或设置边框是否加倍
+title: "GraphInfo.IsDoubled"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GraphInfo 属性。获取或设置是否双倍边框"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/graphinfo/isdoubled/
 ---
-## GraphInfo.IsDoubled 属性
+## GraphInfo.IsDoubled property
 
-获取或设置边框是否加倍。
+获取或设置是否双线边框。
 
 ```csharp
 public bool IsDoubled { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [GraphInfo](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

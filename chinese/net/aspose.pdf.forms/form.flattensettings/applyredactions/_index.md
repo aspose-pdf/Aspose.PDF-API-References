@@ -1,21 +1,23 @@
 ---
-title: Form.FlattenSettings.ApplyRedactions
-second_title: Aspose.PDF for .NET API Reference
-description: FlattenSettings 属性。如果为真，则指定的红色标记注释将被应用
+title: "Form.FlattenSettings.ApplyRedactions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FlattenSettings 属性。如果为 true，将应用指定的 Redaction 注释进行涂抹。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.forms/form.flattensettings/applyredactions/
 ---
-## Form.FlattenSettings.ApplyRedactions 属性
+## Form.FlattenSettings.ApplyRedactions property
 
-如果为真，则指定的红色标记注释将被应用
+如果为 true，将应用指定的 Redaction 注释。
 
 ```csharp
 public bool ApplyRedactions { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FlattenSettings](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FlattenSettings](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

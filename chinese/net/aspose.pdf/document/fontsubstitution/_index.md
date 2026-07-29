@@ -1,12 +1,12 @@
 ---
-title: Document.FontSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: 文档事件。当字体在文档中替换另一个字体时发生
+title: "Document.FontSubstitution"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 事件。 当字体在文档中替换另一个字体时触发"
 type: docs
-weight: 540
+weight: 560
 url: /zh/net/aspose.pdf/document/fontsubstitution/
 ---
-## Document.FontSubstitution 事件
+## Document.FontSubstitution event
 
 当字体在文档中替换另一个字体时发生。
 
@@ -16,7 +16,9 @@ public event FontSubstitutionHandler FontSubstitution;
 
 ### 另请参见
 
-* 委托 [FontSubstitutionHandler](../../document.fontsubstitutionhandler/)
-* 类 [Document](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* delegate [FontSubstitutionHandler](../../document.fontsubstitutionhandler/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+
