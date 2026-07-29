@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateFigureElement
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent 方法。创建 FigureElement
+title: "ITaggedContent.CreateFigureElement"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ITaggedContent 方法。创建 FigureElement"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/createfigureelement/
 ---
-## ITaggedContent.CreateFigureElement 方法
+## ITaggedContent.CreateFigureElement method
 
 创建 [`FigureElement`](../../../aspose.pdf.logicalstructure/figureelement/)。
 
@@ -16,11 +16,13 @@ public FigureElement CreateFigureElement()
 
 ### 返回值
 
-创建的结构元素。
+已创建结构元素。
 
-### 另请参阅
+### 另请参见
 
-* 类 [FigureElement](../../../aspose.pdf.logicalstructure/figureelement/)
-* 接口 [ITaggedContent](../)
-* 命名空间 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FigureElement](../../../aspose.pdf.logicalstructure/figureelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

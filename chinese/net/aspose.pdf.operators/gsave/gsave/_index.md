@@ -1,21 +1,23 @@
 ---
-title: GSave.GSave
-second_title: Aspose.PDF for .NET API Reference
-description: GSave 构造函数。初始化 q 操作符
+title: "GSave.GSave"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GSave 构造函数。初始化 q 运算符"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/gsave/gsave/
 ---
-## GSave 构造函数
+## GSave constructor
 
-初始化 q 操作符。
+初始化 q 运算符。
 
 ```csharp
 public GSave()
 ```
 
-### 另见
+### 另请参见
 
-* 类 [GSave](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [GSave](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

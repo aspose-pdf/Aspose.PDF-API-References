@@ -1,21 +1,23 @@
 ---
-title: Document.EnableSignatureSanitization
-second_title: Aspose.PDF for .NET API Reference
-description: 文档属性。获取或设置管理签名字段清理的标志。默认启用
+title: "Document.EnableSignatureSanitization"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 属性。获取或设置用于管理签名字段清理的标志。默认已启用"
 type: docs
-weight: 170
+weight: 190
 url: /zh/net/aspose.pdf/document/enablesignaturesanitization/
 ---
-## Document.EnableSignatureSanitization 属性
+## Document.EnableSignatureSanitization property
 
-获取或设置管理签名字段清理的标志。默认启用。
+获取或设置标志，以管理签名字段的清理。默认启用。
 
 ```csharp
 public bool EnableSignatureSanitization { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Document](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

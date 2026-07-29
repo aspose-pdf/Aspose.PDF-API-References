@@ -1,12 +1,12 @@
 ---
-title: CreateEmbeddingRequest.CreateEmbeddingRequest
-second_title: Aspose.PDF for .NET API Reference
-description: CreateEmbeddingRequest 构造函数。默认构造函数
+title: "CreateEmbeddingRequest.CreateEmbeddingRequest"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CreateEmbeddingRequest 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/createembeddingrequest/createembeddingrequest/
 ---
-## CreateEmbeddingRequest 构造函数
+## CreateEmbeddingRequest constructor
 
 默认构造函数。
 
@@ -16,6 +16,8 @@ public CreateEmbeddingRequest()
 
 ### 另请参见
 
-* 类 [CreateEmbeddingRequest](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CreateEmbeddingRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

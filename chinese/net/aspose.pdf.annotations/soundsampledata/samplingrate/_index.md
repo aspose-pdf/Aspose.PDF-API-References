@@ -1,12 +1,12 @@
 ---
-title: SoundSampleData.SamplingRate
-second_title: Aspose.PDF for .NET API Reference
-description: SoundSampleData 属性。获取或设置采样率
+title: "SoundSampleData.SamplingRate"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SoundSampleData 属性。获取或设置采样率"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.annotations/soundsampledata/samplingrate/
 ---
-## SoundSampleData.SamplingRate 属性
+## SoundSampleData.SamplingRate property
 
 获取或设置采样率。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.annotations/soundsampledata/samplingrate/
 public long SamplingRate { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [SoundSampleData](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

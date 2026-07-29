@@ -1,12 +1,12 @@
 ---
-title: JpegOptions.Quality
-second_title: Aspose.PDF for .NET API Reference
-description: JpegOptions 属性。获取和设置 Jpeg 质量
+title: "JpegOptions.Quality"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "JpegOptions 属性。获取和设置 Jpeg 质量"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.plugins/jpegoptions/quality/
 ---
-## JpegOptions.Quality 属性
+## JpegOptions.Quality property
 
 获取和设置 Jpeg 质量
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.plugins/jpegoptions/quality/
 public int Quality { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [JpegOptions](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [JpegOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

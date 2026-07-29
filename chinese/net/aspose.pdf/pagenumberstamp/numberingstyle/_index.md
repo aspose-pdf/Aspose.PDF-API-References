@@ -1,12 +1,12 @@
 ---
-title: PageNumberStamp.NumberingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: PageNumberStamp 属性。此印章使用的编号样式
+title: "PageNumberStamp.NumberingStyle"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PageNumberStamp 属性。此印章使用的编号样式"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/pagenumberstamp/numberingstyle/
 ---
-## PageNumberStamp.NumberingStyle 属性
+## PageNumberStamp.NumberingStyle property
 
 此印章使用的编号样式。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf/pagenumberstamp/numberingstyle/
 public NumberingStyle NumberingStyle { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * enum [NumberingStyle](../../numberingstyle/)
 * class [PageNumberStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

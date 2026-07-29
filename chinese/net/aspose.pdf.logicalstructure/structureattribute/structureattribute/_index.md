@@ -1,12 +1,12 @@
 ---
-title: StructureAttribute.StructureAttribute
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttribute 构造函数。初始化 StructureAttribute 的新实例
+title: "StructureAttribute.StructureAttribute"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "StructureAttribute 构造函数。初始化 StructureAttribute 的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.logicalstructure/structureattribute/structureattribute/
 ---
-## StructureAttribute 构造函数
+## StructureAttribute constructor
 
 初始化 StructureAttribute 的新实例。
 
@@ -24,3 +24,5 @@ public StructureAttribute(AttributeKey attributeKey)
 * class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class StructureTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LogicalStructure.StructureTextState 类。表示文本结构元素和标记内容的文本状态设置 ITextElement ITaggedContent
+title: "类 StructureTextState"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.LogicalStructure.StructureTextState 类。表示文本结构元素和 TaggedContent ITextElement ITaggedContent 的文本状态设置。"
 type: docs
-weight: 6710
+weight: 6850
 url: /zh/net/aspose.pdf.logicalstructure/structuretextstate/
 ---
-## 结构文本状态类
+## StructureTextState class
 
-表示文本结构元素和标记内容的文本状态设置 (ITextElement, ITaggedContent)
+表示文本结构元素和 TaggedContent 的文本状态设置 (ITextElement, ITaggedContent)。
 
 ```csharp
 public class StructureTextState
@@ -30,9 +30,11 @@ public class StructureTextState
 | [Subscript](../../aspose.pdf.logicalstructure/structuretextstate/subscript/) { get; set; } | 获取或设置文本的下标。 |
 | [Superscript](../../aspose.pdf.logicalstructure/structuretextstate/superscript/) { get; set; } | 获取或设置文本的上标。 |
 | [Underline](../../aspose.pdf.logicalstructure/structuretextstate/underline/) { get; set; } | 获取或设置文本的下划线。 |
-| [WordSpacing](../../aspose.pdf.logicalstructure/structuretextstate/wordspacing/) { get; set; } | 获取或设置文本的单词间距。 |
+| [WordSpacing](../../aspose.pdf.logicalstructure/structuretextstate/wordspacing/) { get; set; } | 获取或设置文本的字间距。 |
 
-### 另见
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)
+
+

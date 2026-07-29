@@ -1,12 +1,12 @@
 ---
-title: HtmlSaveOptions.FlowLayoutParagraphFullWidth
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions 属性。此属性指定流模式下的全宽段落文本，FixedLayout = false
+title: "HtmlSaveOptions.FlowLayoutParagraphFullWidth"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "HtmlSaveOptions 属性。此属性指定 Flow 模式下的全宽段落文本（FixedLayout 为 false）"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf/htmlsaveoptions/flowlayoutparagraphfullwidth/
 ---
-## HtmlSaveOptions.FlowLayoutParagraphFullWidth 属性
+## HtmlSaveOptions.FlowLayoutParagraphFullWidth property
 
 此属性指定流模式下的全宽段落文本，FixedLayout = false
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/htmlsaveoptions/flowlayoutparagraphfullwidth/
 public bool FlowLayoutParagraphFullWidth { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [HtmlSaveOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

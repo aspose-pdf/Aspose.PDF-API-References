@@ -1,12 +1,12 @@
 ---
-title: Dash.Pattern
-second_title: Aspose.PDF for .NET API Reference
-description: Dash 属性。获取定义用于绘制虚线边框的虚线和间隙模式的虚线数组
+title: "Dash.Pattern"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Dash 属性。获取用于绘制虚线边框的破折号和间隙模式的破折号数组"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.annotations/dash/pattern/
 ---
-## Dash.Pattern 属性
+## Dash.Pattern property
 
 获取定义用于绘制虚线边框的虚线和间隙模式的虚线数组。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.annotations/dash/pattern/
 public int[] Pattern { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Dash](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Dash](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

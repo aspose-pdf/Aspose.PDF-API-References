@@ -1,12 +1,12 @@
 ---
-title: FormDataConverter.ConvertFdfToXml
-second_title: Aspose.PDF for .NET API Reference
-description: FormDataConverter 方法。将 FDF 文件转换为 XML
+title: "FormDataConverter.ConvertFdfToXml"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FormDataConverter 方法。将 FDF 文件转换为 XML"
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.facades/formdataconverter/convertfdftoxml/
 ---
-## FormDataConverter.ConvertFdfToXml 方法
+## FormDataConverter.ConvertFdfToXml method
 
 将 FDF 文件转换为 XML。
 
@@ -16,8 +16,8 @@ public static void ConvertFdfToXml(Stream sourceFdf, Stream destXml)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| sourceFdf | Stream | 包含要转换的 FDF 的流。 |
-| destXml | Stream | 结果 XML 将放置的源。 |
+| sourceFdf | Stream | 包含待转换 FDF 的流。 |
+| destXml | Stream | 放置结果 XML 的位置。 |
 
 ## 示例
 
@@ -29,8 +29,10 @@ src.Close();
 dest.Close();
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FormDataConverter](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FormDataConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

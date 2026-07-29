@@ -1,7 +1,7 @@
 ---
-title: PdfFileStamp.AddFooter
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileStamp 方法。向文档的页面添加页脚
+title: "PdfFileStamp.AddFooter"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileStamp 方法。向文档的页面添加页脚"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.facades/pdffilestamp/addfooter/
@@ -16,8 +16,8 @@ public void AddFooter(FormattedText formattedText, float bottomMargin)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| formattedText | FormattedText | 包含页脚文本和文本属性的 FormattedText 对象。 |
-| bottomMargin | Single | 页面底部的边距。 |
+| formattedText | FormattedText | FormattedText 对象，包含页脚文本及其文本属性 |
+| bottomMargin | Single | 页面顶部的边距。 |
 
 ## 示例
 
@@ -26,7 +26,7 @@ PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
 stamp.AddFooter(new FormattedText("Foot of the page"), 10);
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [FormattedText](../../formattedtext/)
 * class [PdfFileStamp](../)
@@ -46,7 +46,7 @@ public void AddFooter(FormattedText formattedText, float bottomMargin, float lef
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| formattedText | FormattedText | 包含页脚文本和文本属性的 FormattedText 对象。 |
+| formattedText | FormattedText | FormattedText 对象，包含页脚文本及其文本属性 |
 | bottomMargin | Single | 页面底部的边距。 |
 | leftMargin | Single | 页面左侧的边距。 |
 | rightMargin | Single | 页面右侧的边距。 |
@@ -58,7 +58,7 @@ PdfFileStamp stamp = new PdfFileStamp("input.pdf", "output.pdf");
 stamp.AddFooter(new FormattedText("Foot of the page"), 10, 50, 50);
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [FormattedText](../../formattedtext/)
 * class [PdfFileStamp](../)
@@ -69,7 +69,7 @@ stamp.AddFooter(new FormattedText("Foot of the page"), 10, 50, 50);
 
 ## AddFooter(string, float) {#addfooter_4}
 
-将图像作为页脚添加到文档的页面。
+向文档的页面添加图像页脚。
 
 ```csharp
 public void AddFooter(string imageFile, float bottomMargin)
@@ -89,7 +89,7 @@ fileStamp.AddFooter("image.jpg", 50);
 fileStamp.Close();
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -99,7 +99,7 @@ fileStamp.Close();
 
 ## AddFooter(string, float, float, float) {#addfooter_5}
 
-将图像作为页面的页脚添加。
+将图像添加为页面的页脚。
 
 ```csharp
 public void AddFooter(string imageFile, float bottomMargin, float leftMargin, float rightMargin)
@@ -121,7 +121,7 @@ fileStamp.AddFooter("image.jpg", 50, 100, 100);
 fileStamp.Close();
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -139,7 +139,7 @@ public void AddFooter(Stream imageStream, float bottomMargin)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| imageStream | Stream | 包含图像数据的流。 |
+| imageStream | Stream | 流包含图像数据。 |
 | bottomMargin | Single | 页面底部的边距。 |
 
 ## 示例
@@ -151,7 +151,7 @@ fileStamp.AddFooter(new FileStream("image.jpg", FileMode.Open, FileAccess.Read),
 fileStamp.Close();
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -169,7 +169,7 @@ public void AddFooter(Stream imageStream, float bottomMargin, float leftMargin, 
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| imageStream | Stream | 包含图像数据的流。 |
+| imageStream | Stream | 流包含图像数据。 |
 | bottomMargin | Single | 页面底部的边距。 |
 | leftMargin | Single | 页面左侧的边距。 |
 | rightMargin | Single | 页面右侧的边距。 |
@@ -183,8 +183,10 @@ fileStamp.AddFooter(new FileStream("image.jpg", FileMode.Open, FileAccess.Read),
 fileStamp.Close();
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

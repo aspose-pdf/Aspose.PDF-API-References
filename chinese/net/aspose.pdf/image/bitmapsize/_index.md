@@ -1,12 +1,12 @@
 ---
-title: Image.BitmapSize
-second_title: Aspose.PDF for .NET API Reference
-description: 图像属性。获取图像位图大小
+title: "Image.BitmapSize"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Image 属性。获取图像位图大小"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/image/bitmapsize/
 ---
-## Image.BitmapSize 属性
+## Image.BitmapSize property
 
 获取图像位图大小。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf/image/bitmapsize/
 public Rectangle BitmapSize { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Rectangle](../../rectangle/)
-* 类 [Image](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Artifact.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact 属性。获取工件的矩形
+title: "Artifact.Rectangle"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Artifact 属性。获取工件的矩形"
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf/artifact/rectangle/
 ---
-## Artifact.Rectangle 属性
+## Artifact.Rectangle property
 
 获取工件的矩形。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf/artifact/rectangle/
 public Rectangle Rectangle { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Rectangle](../../rectangle/)
-* 类 [Artifact](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Rectangle](../../rectangle/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

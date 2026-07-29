@@ -1,7 +1,7 @@
 ---
-title: IAnnotationVisitor.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: IAnnotationVisitor 方法。访问/选择链接注释
+title: "IAnnotationVisitor.Visit"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "IAnnotationVisitor 方法。访问/选择链接注释"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/iannotationvisitor/visit/
@@ -16,9 +16,9 @@ public void Visit(LinkAnnotation link)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| link | LinkAnnotation | LinkAnnotation 对象示例/模板。 |
+| 链接 | LinkAnnotation | LinkAnnotation 对象示例/模板。 |
 
-### 另请参阅
+### 另请参见
 
 * class [LinkAnnotation](../../linkannotation/)
 * interface [IAnnotationVisitor](../)
@@ -37,9 +37,9 @@ public void Visit(FileAttachmentAnnotation attachment)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| attachment | FileAttachmentAnnotation | FileAttachmentAnnotation 对象示例/模板。 |
+| 附件 | FileAttachmentAnnotation | FileAttachmentAnnotation 对象示例/模板。 |
 
-### 另请参阅
+### 另请参见
 
 * class [FileAttachmentAnnotation](../../fileattachmentannotation/)
 * interface [IAnnotationVisitor](../)
@@ -58,9 +58,9 @@ public void Visit(TextAnnotation text)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| text | TextAnnotation | TextAnnotation 对象示例/模板。 |
+| 文本 | TextAnnotation | TextAnnotation 对象示例/模板。 |
 
-### 另请参阅
+### 另请参见
 
 * class [TextAnnotation](../../textannotation/)
 * interface [IAnnotationVisitor](../)
@@ -79,9 +79,9 @@ public void Visit(FreeTextAnnotation freetext)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| freetext | FreeTextAnnotation | FreeTextAnnotation 对象示例/模板。 |
+| 自由文本 | FreeTextAnnotation | FreeTextAnnotation 对象示例/模板。 |
 
-### 另请参阅
+### 另请参见
 
 * class [FreeTextAnnotation](../../freetextannotation/)
 * interface [IAnnotationVisitor](../)
@@ -100,9 +100,9 @@ public void Visit(HighlightAnnotation highlight)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| highlight | HighlightAnnotation | HighlightAnnotation 对象示例/模板。 |
+| 高亮 | HighlightAnnotation | HighlightAnnotation 对象示例/模板。 |
 
-### 另请参阅
+### 另请参见
 
 * class [HighlightAnnotation](../../highlightannotation/)
 * interface [IAnnotationVisitor](../)
@@ -121,9 +121,9 @@ public void Visit(UnderlineAnnotation underline)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| underline | UnderlineAnnotation | UnderlineAnnotation 对象示例/模板。 |
+| 下划线 | UnderlineAnnotation | UnderlineAnnotation 对象示例/模板。 |
 
-### 另请参阅
+### 另请参见
 
 * class [UnderlineAnnotation](../../underlineannotation/)
 * interface [IAnnotationVisitor](../)
@@ -142,9 +142,9 @@ public void Visit(StrikeOutAnnotation strikeOut)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| strikeOut | StrikeOutAnnotation | StrikeOutAnnotation 对象示例/模板。 |
+| 删除线 | StrikeOutAnnotation | StrikeOutAnnotation 对象示例/模板。 |
 
-### 另请参阅
+### 另请参见
 
 * class [StrikeOutAnnotation](../../strikeoutannotation/)
 * interface [IAnnotationVisitor](../)
@@ -163,9 +163,9 @@ public void Visit(SquigglyAnnotation squiggly)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| squiggly | SquigglyAnnotation | SquigglyAnnotation 对象示例/模板。 |
+| 波浪线 | SquigglyAnnotation | SquigglyAnnotation 对象示例/模板。 |
 
-### 另请参阅
+### 另请参见
 
 * class [SquigglyAnnotation](../../squigglyannotation/)
 * interface [IAnnotationVisitor](../)
@@ -184,9 +184,9 @@ public void Visit(PopupAnnotation popup)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| popup | PopupAnnotation | PopupAnnotation 对象示例/模板。 |
+| 弹出 | PopupAnnotation | PopupAnnotation 对象示例/模板。 |
 
-### 另请参阅
+### 另请参见
 
 * class [PopupAnnotation](../../popupannotation/)
 * interface [IAnnotationVisitor](../)
@@ -205,9 +205,9 @@ public void Visit(LineAnnotation line)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| line | LineAnnotation | LineAnnotation 对象示例/模板。 |
+| 行 | LineAnnotation | LineAnnotation 对象示例/模板。 |
 
-### 另请参阅
+### 另请参见
 
 * class [LineAnnotation](../../lineannotation/)
 * interface [IAnnotationVisitor](../)
@@ -226,9 +226,9 @@ public void Visit(CircleAnnotation circle)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| circle | CircleAnnotation | CircleAnnotation 对象示例/模板。 |
+| 圆形 | CircleAnnotation | CircleAnnotation 对象示例/模板。 |
 
-### 另请参阅
+### 另请参见
 
 * class [CircleAnnotation](../../circleannotation/)
 * interface [IAnnotationVisitor](../)
@@ -239,7 +239,7 @@ public void Visit(CircleAnnotation circle)
 
 ## Visit(SquareAnnotation) {#visit_16}
 
-访问/选择正方形注释。
+访问/选择方形注释。
 
 ```csharp
 public void Visit(SquareAnnotation square)
@@ -247,9 +247,9 @@ public void Visit(SquareAnnotation square)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| square | SquareAnnotation | SquareAnnotation 对象示例/模板。 |
+| 方形 | SquareAnnotation | SquareAnnotation 对象示例/模板。 |
 
-### 另请参阅
+### 另请参见
 
 * class [SquareAnnotation](../../squareannotation/)
 * interface [IAnnotationVisitor](../)
@@ -260,7 +260,7 @@ public void Visit(SquareAnnotation square)
 
 ## Visit(InkAnnotation) {#visit_6}
 
-访问/选择墨水注释。
+访问/选择墨迹注释。
 
 ```csharp
 public void Visit(InkAnnotation ink)
@@ -268,9 +268,9 @@ public void Visit(InkAnnotation ink)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| ink | InkAnnotation | InkAnnotation 对象示例/模板。 |
+| 墨迹 | InkAnnotation | InkAnnotation 对象示例/模板。 |
 
-### 另请参阅
+### 另请参见
 
 * class [InkAnnotation](../../inkannotation/)
 * interface [IAnnotationVisitor](../)
@@ -281,7 +281,7 @@ public void Visit(InkAnnotation ink)
 
 ## Visit(PolylineAnnotation) {#visit_12}
 
-访问/选择多线注释。
+访问/选择折线注释。
 
 ```csharp
 public void Visit(PolylineAnnotation polyline)
@@ -289,9 +289,9 @@ public void Visit(PolylineAnnotation polyline)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| polyline | PolylineAnnotation | PolylineAnnotation 对象示例/模板。 |
+| 折线 | PolylineAnnotation | PolylineAnnotation 对象示例/模板。 |
 
-### 另请参阅
+### 另请参见
 
 * class [PolylineAnnotation](../../polylineannotation/)
 * interface [IAnnotationVisitor](../)
@@ -310,9 +310,9 @@ public void Visit(PolygonAnnotation polygon)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| polygon | PolygonAnnotation | PolygonAnnotation 对象示例/模板。 |
+| 多边形 | PolygonAnnotation | PolygonAnnotation 对象示例/模板。 |
 
-### 另请参阅
+### 另请参见
 
 * class [PolygonAnnotation](../../polygonannotation/)
 * interface [IAnnotationVisitor](../)
@@ -331,9 +331,9 @@ public void Visit(CaretAnnotation caret)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| caret | CaretAnnotation | CaretAnnotation 对象示例/模板。 |
+| 插入符 | CaretAnnotation | CaretAnnotation 对象示例/模板。 |
 
-### 另请参阅
+### 另请参见
 
 * class [CaretAnnotation](../../caretannotation/)
 * interface [IAnnotationVisitor](../)
@@ -352,9 +352,9 @@ public void Visit(StampAnnotation stamp)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stamp | StampAnnotation | StampAnnotation 对象示例/模板。 |
+| 印章 | StampAnnotation | StampAnnotation 对象示例/模板。 |
 
-### 另请参阅
+### 另请参见
 
 * class [StampAnnotation](../../stampannotation/)
 * interface [IAnnotationVisitor](../)
@@ -373,9 +373,9 @@ public void Visit(WidgetAnnotation widget)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| widget | WidgetAnnotation | WidgetAnnotation 对象示例/模板。 |
+| 小部件 | WidgetAnnotation | WidgetAnnotation 对象示例/模板。 |
 
-### 另请参阅
+### 另请参见
 
 * class [WidgetAnnotation](../../widgetannotation/)
 * interface [IAnnotationVisitor](../)
@@ -386,7 +386,7 @@ public void Visit(WidgetAnnotation widget)
 
 ## Visit(MovieAnnotation) {#visit_9}
 
-访问/选择电影注释。
+访问/选择视频注释。
 
 ```csharp
 public void Visit(MovieAnnotation movie)
@@ -394,9 +394,9 @@ public void Visit(MovieAnnotation movie)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| movie | MovieAnnotation | MovieAnnotation 对象示例/模板。 |
+| 电影 | MovieAnnotation | MovieAnnotation 对象示例/模板。 |
 
-### 另请参阅
+### 另请参见
 
 * class [MovieAnnotation](../../movieannotation/)
 * interface [IAnnotationVisitor](../)
@@ -415,9 +415,9 @@ public void Visit(ScreenAnnotation screen)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| screen | ScreenAnnotation | ScreenAnnotation 对象示例/模板。 |
+| 屏幕 | ScreenAnnotation | ScreenAnnotation 对象示例/模板。 |
 
-### 另请参阅
+### 另请参见
 
 * class [ScreenAnnotation](../../screenannotation/)
 * interface [IAnnotationVisitor](../)
@@ -428,7 +428,7 @@ public void Visit(ScreenAnnotation screen)
 
 ## Visit(TrimMarkAnnotation) {#visit_21}
 
-访问/选择裁剪标记注释。
+访问/选择修剪标记注释。
 
 ```csharp
 public void Visit(TrimMarkAnnotation trimMark)
@@ -436,9 +436,9 @@ public void Visit(TrimMarkAnnotation trimMark)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| trimMark | TrimMarkAnnotation | [`TrimMarkAnnotation`](../../trimmarkannotation/) 对象示例/模板。 |
+| trimMark | TrimMarkAnnotation | 该 [`TrimMarkAnnotation`](../../trimmarkannotation/) 对象示例/模板。 |
 
-### 另请参阅
+### 另请参见
 
 * class [TrimMarkAnnotation](../../trimmarkannotation/)
 * interface [IAnnotationVisitor](../)
@@ -457,9 +457,9 @@ public void Visit(BleedMarkAnnotation bleedMark)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| bleedMark | BleedMarkAnnotation | [`BleedMarkAnnotation`](../../bleedmarkannotation/) 对象示例/模板。 |
+| bleedMark | BleedMarkAnnotation | 该 [`BleedMarkAnnotation`](../../bleedmarkannotation/) 对象示例/模板。 |
 
-### 另请参阅
+### 另请参见
 
 * class [BleedMarkAnnotation](../../bleedmarkannotation/)
 * interface [IAnnotationVisitor](../)
@@ -478,9 +478,9 @@ public void Visit(RegistrationMarkAnnotation registrationMark)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| registrationMark | RegistrationMarkAnnotation | [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) 对象示例/模板。 |
+| registrationMark | RegistrationMarkAnnotation | 该 [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) 对象示例/模板。 |
 
-### 另请参阅
+### 另请参见
 
 * class [RegistrationMarkAnnotation](../../registrationmarkannotation/)
 * interface [IAnnotationVisitor](../)
@@ -499,11 +499,13 @@ public void Visit(PageInformationAnnotation pageInformation)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pageInformation | PageInformationAnnotation | [`PageInformationAnnotation`](../../pageinformationannotation/) 对象示例/模板。 |
+| pageInformation | PageInformationAnnotation | 该 [`PageInformationAnnotation`](../../pageinformationannotation/) 对象示例/模板。 |
 
-### 另请参阅
+### 另请参见
 
 * class [PageInformationAnnotation](../../pageinformationannotation/)
 * interface [IAnnotationVisitor](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

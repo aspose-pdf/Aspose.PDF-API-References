@@ -1,12 +1,12 @@
 ---
-title: TableRowBuilder.AddRow
-second_title: Aspose.PDF for .NET API Reference
-description: TableRowBuilder 方法。重写 AddRow
+title: "TableRowBuilder.AddRow"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TableRowBuilder 方法。重写 AddRow"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.plugins/tablerowbuilder/addrow/
 ---
-## TableRowBuilder.AddRow 方法
+## TableRowBuilder.AddRow method
 
 重写 AddRow。
 
@@ -18,8 +18,10 @@ public override TableRowBuilder AddRow()
 
 当前 [`TableRowBuilder`](../) 的实例。
 
-### 另请参阅
+### 另请参见
 
-* 类 [TableRowBuilder](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TableRowBuilder](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: Path.Path
-second_title: Aspose.PDF for .NET API Reference
-description: Path 构造函数。初始化 Path 类的新实例
+title: "Path.Path"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Path 构造函数。初始化 Path 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.drawing/path/path/
@@ -16,14 +16,14 @@ public Path(Shape[] shapes)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| shapes | Shape[] | 形状数组包含路径段集。 |
+| 形状 | Shape[] | 形状数组包含已设置的路径段。 |
 
 ### 另请参见
 
-* 类 [Shape](../../shape/)
-* 类 [Path](../)
-* 命名空间 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Shape](../../shape/)
+* class [Path](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -37,6 +37,8 @@ public Path()
 
 ### 另请参见
 
-* 类 [Path](../)
-* 命名空间 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Path](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

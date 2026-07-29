@@ -1,12 +1,12 @@
 ---
-title: CosPdfBoolean.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfBoolean 方法。返回一个表示当前 CosPdfBoolean 的字符串
+title: "CosPdfBoolean.ToString"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CosPdfBoolean 方法。返回一个表示当前 CosPdfBoolean 的字符串。"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.dataeditor/cospdfboolean/tostring/
 ---
-## CosPdfBoolean.ToString 方法
+## CosPdfBoolean.ToString method
 
 返回一个表示当前 [`CosPdfBoolean`](../) 的字符串。
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 一个表示当前 [`CosPdfBoolean`](../) 的字符串。
 
-### 另请参阅
+### 另请参见
 
-* 类 [CosPdfBoolean](../)
-* 命名空间 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CosPdfBoolean](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

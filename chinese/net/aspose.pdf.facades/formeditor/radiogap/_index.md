@@ -1,14 +1,14 @@
 ---
-title: FormEditor.RadioGap
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor 属性。用于记录两个相邻单选按钮之间的间距（以像素为单位），默认值为 50
+title: "FormEditor.RadioGap"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FormEditor 属性。记录相邻两个单选按钮之间间距的成员，单位为像素，默认值为 50"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.facades/formeditor/radiogap/
 ---
-## FormEditor.RadioGap 属性
+## FormEditor.RadioGap property
 
-用于记录两个相邻单选按钮之间的间距（以像素为单位），默认值为 50。
+用于记录两个相邻单选按钮之间像素间距的成员，默认值为 50。
 
 ```csharp
 public float RadioGap { get; set; }
@@ -25,8 +25,10 @@ formEditor.AddField(FieldType.Radio, "AddedRadioButtonField", "Second", 1, 10, 3
 formEditor.Save();
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FormEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

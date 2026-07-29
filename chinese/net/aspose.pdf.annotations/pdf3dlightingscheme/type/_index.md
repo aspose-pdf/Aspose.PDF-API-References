@@ -1,12 +1,12 @@
 ---
-title: PDF3DLightingScheme.Type
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DLightingScheme 属性。获取照明方案类型
+title: "PDF3DLightingScheme.Type"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PDF3DLightingScheme 属性。获取照明方案类型"
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf.annotations/pdf3dlightingscheme/type/
 ---
-## PDF3DLightingScheme.Type 属性
+## PDF3DLightingScheme.Type property
 
 获取照明方案类型。
 
@@ -14,13 +14,15 @@ url: /zh/net/aspose.pdf.annotations/pdf3dlightingscheme/type/
 public LightingSchemeType Type { get; }
 ```
 
-### 属性值
+### Property Value
 
 照明方案类型。
 
-### 另请参阅
+### 另请参见
 
-* 枚举 [LightingSchemeType](../../lightingschemetype/)
-* 类 [PDF3DLightingScheme](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [LightingSchemeType](../../lightingschemetype/)
+* class [PDF3DLightingScheme](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

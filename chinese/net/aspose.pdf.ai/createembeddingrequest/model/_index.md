@@ -1,12 +1,12 @@
 ---
-title: CreateEmbeddingRequest.Model
-second_title: Aspose.PDF for .NET API Reference
-description: CreateEmbeddingRequest 属性。获取或设置用于生成嵌入的模型
+title: "CreateEmbeddingRequest.Model"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CreateEmbeddingRequest 属性。获取或设置用于生成嵌入的模型"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.ai/createembeddingrequest/model/
 ---
-## CreateEmbeddingRequest.Model 属性
+## CreateEmbeddingRequest.Model property
 
 获取或设置用于生成嵌入的模型。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/createembeddingrequest/model/
 public string Model { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [CreateEmbeddingRequest](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CreateEmbeddingRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

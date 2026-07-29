@@ -1,12 +1,12 @@
 ---
-title: FontAbsorber.Fonts
-second_title: Aspose.PDF for .NET API Reference
-description: FontAbsorber 属性。获取以 Font 对象呈现的搜索出现集合
+title: "FontAbsorber.Fonts"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FontAbsorber 属性。获取以 Font 对象呈现的搜索出现集合"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.text/fontabsorber/fonts/
 ---
-## FontAbsorber.Fonts 属性
+## FontAbsorber.Fonts property
 
 获取以 [`Font`](../../font/) 对象呈现的搜索出现集合。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.text/fontabsorber/fonts/
 public FontCollection Fonts { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FontCollection](../../fontcollection/)
-* 类 [FontAbsorber](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FontCollection](../../fontcollection/)
+* class [FontAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

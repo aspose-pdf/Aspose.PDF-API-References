@@ -1,12 +1,12 @@
 ---
-title: SetTextRise.SetTextRise
-second_title: Aspose.PDF for .NET API Reference
-description: SetTextRise 构造函数。初始化操作符
+title: "SetTextRise.SetTextRise"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SetTextRise 构造函数。初始化操作符"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/settextrise/settextrise/
 ---
-## SetTextRise 构造函数
+## SetTextRise constructor
 
 初始化操作符。
 
@@ -20,6 +20,8 @@ public SetTextRise(double textRise)
 
 ### 另请参见
 
-* 类 [SetTextRise](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SetTextRise](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

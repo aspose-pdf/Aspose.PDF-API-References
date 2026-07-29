@@ -1,12 +1,12 @@
 ---
-title: StringResult.Text
-second_title: Aspose.PDF for .NET API Reference
-description: StringResult 属性。返回结果的字符串表示
+title: "StringResult.Text"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "StringResult 属性。返回结果的字符串表示"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.plugins/stringresult/text/
 ---
-## StringResult.Text 属性
+## StringResult.Text property
 
 返回结果的字符串表示。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.plugins/stringresult/text/
 public string Text { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [StringResult](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [StringResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

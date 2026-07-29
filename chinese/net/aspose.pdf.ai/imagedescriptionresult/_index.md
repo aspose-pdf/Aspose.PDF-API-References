@@ -1,12 +1,12 @@
 ---
-title: Class ImageDescriptionResult
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ImageDescriptionResult 类。表示包含图像描述的响应
+title: "类 ImageDescriptionResult"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.ImageDescriptionResult 类。表示包含图像描述的响应"
 type: docs
-weight: 620
+weight: 670
 url: /zh/net/aspose.pdf.ai/imagedescriptionresult/
 ---
-## ImageDescriptionResult 类
+## ImageDescriptionResult class
 
 表示包含图像描述的响应。
 
@@ -30,7 +30,9 @@ public class ImageDescriptionResult
 | [IsPdfDocumentPath](../../aspose.pdf.ai/imagedescriptionresult/ispdfdocumentpath/) { get; } | 获取一个值，指示 ImageDescriptionResult 是否包含 PDF 文档路径。 |
 | [PdfDocument](../../aspose.pdf.ai/imagedescriptionresult/pdfdocument/) { get; set; } | 获取或设置 PDF 文档。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

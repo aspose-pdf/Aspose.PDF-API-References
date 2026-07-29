@@ -1,12 +1,12 @@
 ---
-title: Element.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: 元素方法。移除元素
+title: "Element.Remove"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Element 方法。删除元素"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.structure/element/remove/
 ---
-## Element.Remove 方法
+## Element.Remove method
 
 移除元素。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.structure/element/remove/
 public void Remove()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Element](../)
-* 命名空间 [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Element](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* assembly [Aspose.PDF](../../../)
+
+

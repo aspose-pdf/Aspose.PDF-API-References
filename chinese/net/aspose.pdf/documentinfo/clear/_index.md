@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentInfo 方法。清除文档信息
+title: "DocumentInfo.Clear"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "DocumentInfo 方法。清除文档信息"
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf/documentinfo/clear/
 ---
-## DocumentInfo.Clear 方法
+## DocumentInfo.Clear method
 
 清除文档信息。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/documentinfo/clear/
 public void Clear()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [DocumentInfo](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

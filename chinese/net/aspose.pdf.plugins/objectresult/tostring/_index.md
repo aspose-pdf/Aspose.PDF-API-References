@@ -1,12 +1,12 @@
 ---
-title: ObjectResult.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: ObjectResult 方法。尝试将结果转换为字符串
+title: "ObjectResult.ToString"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ObjectResult 方法。尝试将结果转换为字符串"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.plugins/objectresult/tostring/
 ---
-## ObjectResult.ToString 方法
+## ObjectResult.ToString method
 
 尝试将结果转换为字符串。
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 如果结果是字符串，则返回表示文本内容的字符串；否则返回 base.ToString()。
 
-### 另请参阅
+### 另请参见
 
-* 类 [ObjectResult](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ObjectResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

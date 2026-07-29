@@ -1,21 +1,23 @@
 ---
-title: OptionCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection 属性。返回对象是否已同步的布尔值
+title: "OptionCollection.IsSynchronized"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OptionCollection 属性。返回对象已同步时为 true。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.forms/optioncollection/issynchronized/
 ---
-## OptionCollection.IsSynchronized 属性
+## OptionCollection.IsSynchronized property
 
-返回对象是否已同步的布尔值。
+如果对象已同步则返回 true。
 
 ```csharp
 public bool IsSynchronized { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [OptionCollection](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

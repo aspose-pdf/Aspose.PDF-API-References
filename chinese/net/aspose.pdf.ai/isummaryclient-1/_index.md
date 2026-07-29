@@ -1,12 +1,12 @@
 ---
-title: Interface ISummaryClientTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ISummaryClient1TOptions 接口。表示具有特定选项的摘要客户端接口
+title: "接口 ISummaryClientTOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.ISummaryClient1TOptions 接口。表示具有特定选项的摘要客户端的接口。"
 type: docs
-weight: 580
+weight: 630
 url: /zh/net/aspose.pdf.ai/isummaryclient-1/
 ---
-## ISummaryClient&lt;TOptions&gt; 接口
+## ISummaryClient&lt;TOptions&gt; interface
 
 表示具有特定选项的摘要客户端接口。
 
@@ -22,10 +22,12 @@ public interface ISummaryClient<in TOptions> : IAIClient
 
 | 名称 | 描述 |
 | --- | --- |
-| [GetSummaryCopilot](../../aspose.pdf.ai/isummaryclient-1/getsummarycopilot/)(ISummaryCopilotOptions&lt;TOptions&gt;) | 获取具有指定选项的 [`ISummaryCopilot`](../isummarycopilot/) 实例。 |
+| [GetSummaryCopilot](../../aspose.pdf.ai/isummaryclient-1/getsummarycopilot/)(ISummaryCopilotOptions&lt;TOptions&gt;) | 获取具有指定选项的[`ISummaryCopilot`](../isummarycopilot/)实例。 |
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IAIClient](../iaiclient/)
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* interface [IAIClient](../iaiclient/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

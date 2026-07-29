@@ -1,22 +1,24 @@
 ---
-title: GraphicState.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicState 属性。获取当前变换矩阵
+title: "GraphicState.Matrix"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GraphicState 属性。获取当前的变换矩阵"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.vector/graphicstate/matrix/
 ---
-## GraphicState.Matrix 属性
+## GraphicState.Matrix property
 
-获取当前变换矩阵。
+获取当前的变换矩阵。
 
 ```csharp
 public Matrix Matrix { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Matrix](../../../aspose.pdf/matrix/)
-* 类 [GraphicState](../)
-* 命名空间 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [GraphicState](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

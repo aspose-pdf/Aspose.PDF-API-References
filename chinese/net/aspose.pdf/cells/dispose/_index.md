@@ -1,12 +1,12 @@
 ---
-title: Cells.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: 单元格方法。处置方法
+title: "Cells.Dispose"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Cells 方法。Dispose 方法"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/cells/dispose/
 ---
-## Cells.Dispose 方法
+## Cells.Dispose method
 
 Dispose 方法
 
@@ -14,8 +14,10 @@ Dispose 方法
 public void Dispose()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Cells](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

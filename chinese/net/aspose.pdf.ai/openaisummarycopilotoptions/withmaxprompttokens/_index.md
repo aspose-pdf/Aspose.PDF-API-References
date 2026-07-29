@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.WithMaxPromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilotOptions 方法。设置摘要助手选项的最大提示令牌
+title: "OpenAISummaryCopilotOptions.WithMaxPromptTokens"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAISummaryCopilotOptions 方法。设置摘要协助选项的最大提示令牌数"
 type: docs
-weight: 100
+weight: 110
 url: /zh/net/aspose.pdf.ai/openaisummarycopilotoptions/withmaxprompttokens/
 ---
-## OpenAISummaryCopilotOptions.WithMaxPromptTokens 方法
+## OpenAISummaryCopilotOptions.WithMaxPromptTokens method
 
-设置摘要助手选项的最大提示令牌。
+设置摘要协作员选项的最大提示令牌。
 
 ```csharp
 public OpenAISummaryCopilotOptions WithMaxPromptTokens(int? maxPromptTokens)
@@ -16,14 +16,16 @@ public OpenAISummaryCopilotOptions WithMaxPromptTokens(int? maxPromptTokens)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| maxPromptTokens | Nullable`1 | 要设置的最大提示令牌。 |
+| maxPromptTokens | Nullable`1 | 要设置的最大提示令牌数。 |
 
 ### 返回值
 
-当前实例的 [`OpenAISummaryCopilotOptions`](../)。
+当前的 [`OpenAISummaryCopilotOptions`](../) 实例。
 
-### 另请参阅
+### 另请参见
 
-* 类 [OpenAISummaryCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

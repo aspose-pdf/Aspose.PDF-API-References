@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.GetVectorStoreFileBatchAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient 方法。异步检索特定向量存储文件批次的详细信息
+title: "OpenAIClient.GetVectorStoreFileBatchAsync"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAIClient 方法。异步检索特定向量存储文件批次的详细信息"
 type: docs
-weight: 350
+weight: 360
 url: /zh/net/aspose.pdf.ai/openaiclient/getvectorstorefilebatchasync/
 ---
-## OpenAIClient.GetVectorStoreFileBatchAsync 方法
+## OpenAIClient.GetVectorStoreFileBatchAsync method
 
 异步检索特定向量存储文件批次的详细信息。
 
@@ -17,9 +17,9 @@ public Task<VectorStoreFileBatchResponse> GetVectorStoreFileBatchAsync(string ve
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| vectorStoreId | 字符串 | 包含文件批次的向量存储的 ID。 |
-| fileBatchId | 字符串 | 要检索的文件批次的 ID。 |
-| cancellationToken | 可空`1 | 取消操作的令牌。 |
+| vectorStoreId | String | 包含该文件批次的向量存储的 ID。 |
+| fileBatchId | String | 要检索的文件批次的 ID。 |
+| cancellationToken | Nullable`1 | 用于取消操作的令牌。 |
 
 ### 返回值
 
@@ -29,12 +29,14 @@ public Task<VectorStoreFileBatchResponse> GetVectorStoreFileBatchAsync(string ve
 
 | 异常 | 条件 |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | 当向量存储 ID 为 null 或空时抛出。 |
-| [AIClientException](../../aiclientexception/) | 当向量存储文件批次 ID 为 null 或空时抛出。 |
+| [AIClientException](../../aiclientexception/) | 当向量存储 Id 为 null 或为空时抛出。 |
+| [AIClientException](../../aiclientexception/) | 当向量存储文件批次 Id 为 null 或为空时抛出。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
-* 类 [OpenAIClient](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

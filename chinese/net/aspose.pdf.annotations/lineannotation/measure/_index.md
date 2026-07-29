@@ -1,12 +1,12 @@
 ---
-title: LineAnnotation.Measure
-second_title: Aspose.PDF for .NET API Reference
-description: LineAnnotation 属性。为此注释指定的测量单位
+title: "LineAnnotation.Measure"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "LineAnnotation property. 为此注释指定的测量单位"
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.annotations/lineannotation/measure/
 ---
-## LineAnnotation.Measure 属性
+## LineAnnotation.Measure property
 
 为此注释指定的测量单位。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.annotations/lineannotation/measure/
 public Measure Measure { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Measure](../../measure/)
-* 类 [LineAnnotation](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Measure](../../measure/)
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.TryDecryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity 方法。通过所有者密码解密加密的 Pdf 文档。如果文档没有所有者密码，则允许使用用户密码。如果处理失败，则不会抛出异常。
+title: "PdfFileSecurity.TryDecryptFile"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileSecurity 方法。通过所有者密码解密加密的 Pdf 文档。如果文档没有所有者密码，则允许使用用户密码。处理失败时不抛出异常"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.facades/pdffilesecurity/trydecryptfile/
 ---
-## PdfFileSecurity.TryDecryptFile 方法
+## PdfFileSecurity.TryDecryptFile method
 
-通过所有者密码解密加密的 Pdf 文档。如果文档没有所有者密码，则允许使用用户密码。如果处理失败，则不会抛出异常。
+使用所有者密码解密加密的 Pdf 文档。如果文档没有所有者密码，则允许使用用户密码。处理失败时不抛出异常。
 
 ```csharp
 public bool TryDecryptFile(string ownerPassword)
@@ -16,11 +16,11 @@ public bool TryDecryptFile(string ownerPassword)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| ownerPassword | 字符串 | 所有者密码。 |
+| ownerPassword | String | 所有者密码。 |
 
 ### 返回值
 
-成功返回 true，失败返回 false。
+成功时返回 true，或返回 false。
 
 ## 示例
 
@@ -38,8 +38,10 @@ Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile)
 Dim result As Boolean = fileSecurity.TryDecryptFile("ownerpass")
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfFileSecurity](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

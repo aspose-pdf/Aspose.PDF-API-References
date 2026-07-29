@@ -1,14 +1,14 @@
 ---
-title: Class TextStateOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.TextStateOperator 类。用于改变当前文本状态的操作符的抽象基类（Tc, Tf, TL 等）。
+title: "类 TextStateOperator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Operators.TextStateOperator 类。用于更改当前文本状态 Tc、Tf、TL 等的操作符的抽象基类"
 type: docs
-weight: 7930
+weight: 8070
 url: /zh/net/aspose.pdf.operators/textstateoperator/
 ---
 ## TextStateOperator class
 
-用于改变当前文本状态（Tc, Tf, TL 等）的操作符的抽象基类。
+改变当前文本状态的操作符的抽象基类（Tc、Tf、TL 等）。
 
 ```csharp
 public class TextStateOperator : TextOperator
@@ -19,7 +19,7 @@ public class TextStateOperator : TextOperator
 | 名称 | 描述 |
 | --- | --- |
 | [TextStateOperator](textstateoperator/#constructor)() | 初始化 TextStateOperator。 |
-| [TextStateOperator](textstateoperator/#constructor_1)(TextProperties) | 初始化 TextStateOperator，允许传递 TextProperties。 |
+| [TextStateOperator](textstateoperator/#constructor_1)(TextProperties) | 初始化 TextStateoperator，允许传递 TextProperties。 |
 
 ## 属性
 
@@ -35,8 +35,10 @@ public class TextStateOperator : TextOperator
 | override [ToString](../../aspose.pdf/operator/tostring/)() | 返回操作符及其参数的文本。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | 将此实例与给定对象进行比较。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextOperator](../textoperator/)
-* 命名空间 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../)
+* class [TextOperator](../textoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

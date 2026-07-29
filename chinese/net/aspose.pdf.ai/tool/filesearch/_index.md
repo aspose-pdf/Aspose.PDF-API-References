@@ -1,12 +1,12 @@
 ---
-title: Tool.FileSearch
-second_title: Aspose.PDF for .NET API Reference
-description: 工具属性。获取表示文件搜索工具的工具实例
+title: "Tool.FileSearch"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Tool 属性。获取表示文件搜索工具的工具实例。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.ai/tool/filesearch/
 ---
-## Tool.FileSearch 属性
+## Tool.FileSearch property
 
 获取表示文件搜索工具的工具实例。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/tool/filesearch/
 public static Tool FileSearch { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Tool](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

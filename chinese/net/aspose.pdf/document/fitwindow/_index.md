@@ -1,14 +1,14 @@
 ---
-title: Document.FitWindow
-second_title: Aspose.PDF for .NET API Reference
-description: 文档属性。获取或设置标志，指定文档窗口是否必须调整大小以适应第一个显示的页面
+title: "Document.FitWindow"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 属性。获取或设置指定文档窗口是否必须调整大小以适应首次显示的页面的标志。"
 type: docs
-weight: 190
+weight: 210
 url: /zh/net/aspose.pdf/document/fitwindow/
 ---
-## Document.FitWindow 属性
+## Document.FitWindow property
 
-获取或设置标志，指定文档窗口是否必须调整大小以适应第一个显示的页面。
+获取或设置标志，指定文档窗口是否必须调整大小以适应首次显示的页面。
 
 ```csharp
 public bool FitWindow { get; set; }
@@ -25,6 +25,8 @@ bool value = document.FitWindow;
 
 ### 另请参见
 
-* 类 [Document](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

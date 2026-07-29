@@ -1,14 +1,14 @@
 ---
-title: PdfFileSanitization.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSanitization 方法。绑定一个 Pdf 文件以进行清理
+title: "PdfFileSanitization.BindPdf"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileSanitization 方法。绑定一个 Pdf 文件以进行清理。"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.facades/pdffilesanitization/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-绑定一个 Pdf 文件以进行清理。
+绑定一个用于清理的 Pdf 文件。
 
 ```csharp
 public override void BindPdf(string inputFile)
@@ -28,7 +28,7 @@ public override void BindPdf(string inputFile)
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-绑定一个 Pdf 流以进行清理。
+绑定用于消毒的 Pdf 流。
 
 ```csharp
 public override void BindPdf(Stream inputStream)
@@ -48,7 +48,7 @@ public override void BindPdf(Stream inputStream)
 
 ## BindPdf(Document) {#bindpdf}
 
-初始化外观。
+初始化 facade。
 
 ```csharp
 public override void BindPdf(Document srcDoc)
@@ -64,3 +64,5 @@ public override void BindPdf(Document srcDoc)
 * class [PdfFileSanitization](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

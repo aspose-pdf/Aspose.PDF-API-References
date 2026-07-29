@@ -1,20 +1,22 @@
 ---
-title: Class MediaClip
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.MediaClip 类。类描述了呈现的媒体剪辑对象
+title: "类 MediaClip"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.MediaClip 类。描述呈现的媒体剪辑对象的类"
 type: docs
-weight: 2070
+weight: 2160
 url: /zh/net/aspose.pdf.annotations/mediaclip/
 ---
-## MediaClip 类
+## MediaClip class
 
-类描述了呈现的媒体剪辑对象。
+描述呈现的媒体剪辑对象的类。
 
 ```csharp
 public class MediaClip
 ```
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary 方法。检查指定的键值对是否包含在字典中
+title: "AppearanceDictionary.Contains"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AppearanceDictionary 方法。检查指定的键值对是否包含在字典中"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.annotations/appearancedictionary/contains/
 ---
-## AppearanceDictionary.Contains 方法
+## AppearanceDictionary.Contains method
 
-检查指定的键值对是否包含在字典中。
+检查字典中是否包含指定的键值对。
 
 ```csharp
 public bool Contains(KeyValuePair<string, XForm> item)
@@ -20,11 +20,13 @@ public bool Contains(KeyValuePair<string, XForm> item)
 
 ### 返回值
 
-如果找到此对，则为 true。
+如果找到此键值对，则为 true。
 
-### 另请参阅
+### 另请参见
 
-* 类 [XForm](../../../aspose.pdf/xform/)
-* 类 [AppearanceDictionary](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

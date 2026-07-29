@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.SplitIntoPages
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions 属性。获取或设置指示源文档的每一页是否将被转换为其自己的目标 HTML 文档的标志，即结果 HTML 是否将被拆分为多个 HTML 页面。
+title: "HtmlSaveOptions.SplitIntoPages"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "HtmlSaveOptions 属性。获取或设置指示是否将源 Document 的每个 Page 转换为各自的目标 HTML Document 的标志，即结果 HTML 是否会被拆分为多个 HTML 页面。"
 type: docs
 weight: 200
 url: /zh/net/aspose.pdf/htmlsaveoptions/splitintopages/
 ---
-## HtmlSaveOptions.SplitIntoPages 属性
+## HtmlSaveOptions.SplitIntoPages property
 
-获取或设置指示源文档的每一页是否将被转换为其自己的目标 HTML 文档的标志，即结果 HTML 是否将被拆分为多个 HTML 页面。
+获取或设置标志，以指示是否将源文档的每页转换为其自己的目标 HTML 文档，即结果 HTML 是否会被拆分为多个 HTML 页面。
 
 ```csharp
 public bool SplitIntoPages { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [HtmlSaveOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

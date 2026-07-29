@@ -1,7 +1,7 @@
 ---
-title: TextState.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: TextState 构造函数。创建文本状态对象
+title: "TextState.TextState"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextState 构造函数。创建文本状态对象"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/textstate/textstate/
@@ -14,7 +14,7 @@ url: /zh/net/aspose.pdf.text/textstate/textstate/
 public TextState()
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -24,7 +24,7 @@ public TextState()
 
 ## TextState(double) {#constructor_1}
 
-创建带有字体大小规格的文本状态对象。
+创建具有字号规范的文本状态对象。
 
 ```csharp
 public TextState(double fontSize)
@@ -34,7 +34,7 @@ public TextState(double fontSize)
 | --- | --- | --- |
 | fontSize | Double | 字体大小。 |
 
-### 另请参阅
+### 另请参见
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -44,7 +44,7 @@ public TextState(double fontSize)
 
 ## TextState(Color) {#constructor_2}
 
-创建带有前景色规格的文本状态对象。
+创建具有前景色规范的文本状态对象。
 
 ```csharp
 public TextState(Color foregroundColor)
@@ -52,9 +52,9 @@ public TextState(Color foregroundColor)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| foregroundColor | Color | 前景色。 |
+| foregroundColor | Color | 前景颜色。 |
 
-### 另请参阅
+### 另请参见
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -64,7 +64,7 @@ public TextState(Color foregroundColor)
 
 ## TextState(Color, double) {#constructor_3}
 
-创建带有前景色和字体大小规格的文本状态对象。
+创建具有前景色和字号规范的文本状态对象。
 
 ```csharp
 public TextState(Color foregroundColor, double fontSize)
@@ -72,10 +72,10 @@ public TextState(Color foregroundColor, double fontSize)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| foregroundColor | Color | 前景色。 |
+| foregroundColor | Color | 前景颜色。 |
 | fontSize | Double | 字体大小。 |
 
-### 另请参阅
+### 另请参见
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -85,7 +85,7 @@ public TextState(Color foregroundColor, double fontSize)
 
 ## TextState(string) {#constructor_4}
 
-创建带有字体系列规格的文本状态对象。
+创建具有字体族规范的文本状态对象。
 
 ```csharp
 public TextState(string fontFamily)
@@ -95,7 +95,7 @@ public TextState(string fontFamily)
 | --- | --- | --- |
 | fontFamily | String | 字体系列。 |
 
-### 另请参阅
+### 另请参见
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -105,7 +105,7 @@ public TextState(string fontFamily)
 
 ## TextState(string, bool, bool) {#constructor_5}
 
-创建带有字体系列和字体样式规格的文本状态对象。
+创建具有字体族和字体样式规范的文本状态对象。
 
 ```csharp
 public TextState(string fontFamily, bool bold, bool italic)
@@ -114,10 +114,10 @@ public TextState(string fontFamily, bool bold, bool italic)
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | fontFamily | String | 字体系列。 |
-| bold | Boolean | 粗体字体样式。 |
-| italic | Boolean | 斜体字体样式。 |
+| bold | Boolean | 粗体样式。 |
+| italic | Boolean | 斜体样式。 |
 
-### 另请参阅
+### 另请参见
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -127,7 +127,7 @@ public TextState(string fontFamily, bool bold, bool italic)
 
 ## TextState(string, double) {#constructor_6}
 
-创建带有字体系列和字体大小规格的文本状态对象。
+创建具有字体族和字号规范的文本状态对象。
 
 ```csharp
 public TextState(string fontFamily, double fontSize)
@@ -138,8 +138,10 @@ public TextState(string fontFamily, double fontSize)
 | fontFamily | String | 字体系列。 |
 | fontSize | Double | 字体大小。 |
 
-### 另请参阅
+### 另请参见
 
 * class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

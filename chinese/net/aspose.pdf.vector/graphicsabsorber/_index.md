@@ -1,9 +1,9 @@
 ---
-title: Class GraphicsAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Vector.GraphicsAbsorber 类。表示图形元素的吸收器对象。执行图形搜索并通过 Elements 集合提供对搜索结果的访问
+title: "类 GraphicsAbsorber"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Vector.GraphicsAbsorber 类。表示图形元素的吸收器对象。执行图形搜索并通过 Elements 集合提供对搜索结果的访问。"
 type: docs
-weight: 11210
+weight: 11400
 url: /zh/net/aspose.pdf.vector/graphicsabsorber/
 ---
 ## GraphicsAbsorber class
@@ -14,28 +14,30 @@ url: /zh/net/aspose.pdf.vector/graphicsabsorber/
 public class GraphicsAbsorber : IDisposable
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [GraphicsAbsorber](graphicsabsorber/)() | 默认构造函数。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [Elements](../../aspose.pdf.vector/graphicsabsorber/elements/) { get; } | 获取以 [`GraphicElement`](../graphicelement/) 对象表示的搜索出现的集合。 |
+| [Elements](../../aspose.pdf.vector/graphicsabsorber/elements/) { get; } | 获取使用 [`GraphicElement`](../graphicelement/) 对象呈现的搜索出现集合。 |
 
-## Methods
+## 方法
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [Dispose](../../aspose.pdf.vector/graphicsabsorber/dispose/)() | 释放 `GraphicsAbsorber` 类使用的所有资源。 |
-| [ResumeUpdate](../../aspose.pdf.vector/graphicsabsorber/resumeupdate/)() | 恢复对 [`Contents`](../../aspose.pdf/page/contents/) 和所有 [`Contents`](../../aspose.pdf/xform/contents/) 的更新，旨在提高性能，另见。 |
-| [SuppressUpdate](../../aspose.pdf.vector/graphicsabsorber/suppressupdate/)() | 抑制对 [`Contents`](../../aspose.pdf/page/contents/) 和所有 [`Contents`](../../aspose.pdf/xform/contents/) 的更新，旨在提高性能，另见。 |
-| [Visit](../../aspose.pdf.vector/graphicsabsorber/visit/)(Page) | 在指定页面上执行搜索。 |
+| [ResumeUpdate](../../aspose.pdf.vector/graphicsabsorber/resumeupdate/)() | 恢复对 [`Contents`](../../aspose.pdf/page/contents/) 和所有 [`Contents`](../../aspose.pdf/xform/contents/) 的更新。此操作为提升性能而进行，另请参见。 |
+| [SuppressUpdate](../../aspose.pdf.vector/graphicsabsorber/suppressupdate/)() | 抑制对 [`Contents`](../../aspose.pdf/page/contents/) 和所有 [`Contents`](../../aspose.pdf/xform/contents/) 的更新。此操作为提升性能而进行，另请参见。 |
+| [Visit](../../aspose.pdf.vector/graphicsabsorber/visit/)(Page) | 在指定的 Page 上执行搜索。 |
 
-### See Also
+### 另请参见
 
 * namespace [Aspose.Pdf.Vector](../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../)
+
+

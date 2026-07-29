@@ -1,12 +1,12 @@
 ---
-title: IncompleteDetails.IncompleteDetails
-second_title: Aspose.PDF for .NET API Reference
-description: IncompleteDetails 构造函数。默认构造函数
+title: "IncompleteDetails.IncompleteDetails"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "IncompleteDetails 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/incompletedetails/incompletedetails/
 ---
-## IncompleteDetails 构造函数
+## IncompleteDetails constructor
 
 默认构造函数。
 
@@ -16,6 +16,8 @@ public IncompleteDetails()
 
 ### 另请参见
 
-* 类 [IncompleteDetails](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [IncompleteDetails](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

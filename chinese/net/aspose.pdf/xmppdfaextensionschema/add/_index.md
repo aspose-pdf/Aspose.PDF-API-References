@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchema.Add
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema 方法。将新对象添加到模式中
+title: "XmpPdfAExtensionSchema.Add"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpPdfAExtensionSchema 方法。向模式中添加新对象"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/xmppdfaextensionschema/add/
 ---
-## XmpPdfAExtensionSchema.Add 方法
+## XmpPdfAExtensionSchema.Add method
 
-将新对象添加到模式中。
+向模式中添加新对象。
 
 ```csharp
 public void Add(XmpPdfAExtensionObject obj)
@@ -20,7 +20,9 @@ public void Add(XmpPdfAExtensionObject obj)
 
 ### 另请参见
 
-* 类 [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
-* 类 [XmpPdfAExtensionSchema](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

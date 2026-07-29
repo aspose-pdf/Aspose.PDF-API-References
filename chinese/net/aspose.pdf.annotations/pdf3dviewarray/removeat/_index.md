@@ -1,14 +1,14 @@
 ---
-title: PDF3DViewArray.RemoveAt
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DViewArray 方法。根据指定索引从视图数组中移除视图
+title: "PDF3DViewArray.RemoveAt"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PDF3DViewArray 方法。根据指定索引从视图数组中移除视图"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.annotations/pdf3dviewarray/removeat/
 ---
-## PDF3DViewArray.RemoveAt 方法
+## PDF3DViewArray.RemoveAt method
 
-根据指定索引从视图数组中移除视图。
+在指定索引处从视图数组中移除视图。
 
 ```csharp
 public void RemoveAt(int index)
@@ -22,10 +22,12 @@ public void RemoveAt(int index)
 
 | 异常 | 条件 |
 | --- | --- |
-| IndexOutOfRangeException | 无效索引：索引应在 [1..n] 范围内，其中 n 等于视图数量。 |
+| IndexOutOfRangeException | 无效的索引：索引应在范围 [1..n] 内，其中 n 等于视图数量。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PDF3DViewArray](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PDF3DViewArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

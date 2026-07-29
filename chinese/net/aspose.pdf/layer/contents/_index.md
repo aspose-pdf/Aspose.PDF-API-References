@@ -1,12 +1,12 @@
 ---
-title: Layer.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: 图层属性。获取图层内容
+title: "Layer.Contents"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Layer 属性。获取图层内容"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/layer/contents/
 ---
-## Layer.Contents 属性
+## Layer.Contents property
 
 获取图层内容。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf/layer/contents/
 public List<Operator> Contents { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Operator](../../operator/)
-* 类 [Layer](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Operator](../../operator/)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

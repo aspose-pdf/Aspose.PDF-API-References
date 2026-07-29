@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.Save
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor 方法。将更改后的文档保存到文件
+title: "PdfPageEditor.Save"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfPageEditor 方法。将更改的文档保存到文件中。"
 type: docs
 weight: 180
 url: /zh/net/aspose.pdf.facades/pdfpageeditor/save/
 ---
 ## Save(string) {#save_1}
 
-将更改后的文档保存到文件。
+将更改后的文档保存到文件中。
 
 ```csharp
 public override void Save(string outputFile)
@@ -16,7 +16,7 @@ public override void Save(string outputFile)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| outputFile | 字符串 | 文档将保存到的文件路径。 |
+| outputFile | String | 文档将保存到的文件路径。 |
 
 ## 示例
 
@@ -29,11 +29,11 @@ editor.Zoom = 0.5f;
 editor.Save("newdocument.pdf");
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfPageEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -47,7 +47,7 @@ public override void Save(Stream outputStream)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| outputStream | 流 | 更改后的 PDF 文档将保存到的流。 |
+| outputStream | Stream | 更改后的 PDF 文档将保存的流。 |
 
 ## 示例
 
@@ -60,8 +60,10 @@ editor.Zoom = 0.5f;
 editor.Save("newdocument.pdf");
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfPageEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

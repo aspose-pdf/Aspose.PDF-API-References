@@ -1,54 +1,54 @@
 ---
-title: Class PdfAConverter
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.PdfAConverter 类。表示一个处理 PDF 文档转换为 PDF/A 格式以及验证 PDF/A 合规性的插件
+title: "类 PdfAConverter"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.PdfAConverter 类。表示用于处理 PDF 文档的 PDF/A 格式转换以及 PDF/A 合规性验证的插件。"
 type: docs
-weight: 9000
+weight: 9150
 url: /zh/net/aspose.pdf.plugins/pdfaconverter/
 ---
 ## PdfAConverter class
 
-表示一个处理 PDF 文档转换为 PDF/A 格式以及验证 PDF/A 合规性的插件。
+表示用于处理 PDF 文档转换为 PDF/A 格式以及验证 PDF/A 合规性的插件。
 
 ```csharp
 public sealed class PdfAConverter : IPlugin
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [PdfAConverter](pdfaconverter/)() | 默认构造函数。 |
 
-## Methods
+## 方法
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [Process](../../aspose.pdf.plugins/pdfaconverter/process/)(IPluginOptions) | 使用给定选项开始 PDF/A 转换或验证过程。 |
 
-## Examples
+## 示例
 
-该示例演示如何验证 PDF 文档是否符合 PDF/A 格式（在本例中为 PDF/A-1a）：
+此示例演示如何验证 PDF 文档符合 PDF/A 格式（本例为 PDF/A-1a）：
 
 ```csharp
-// Create the options class to set up the validation process
+// 创建选项类以设置验证过程
 var options = new PdfAValidateOptions
 {
     PdfAVersion = PdfAStandardVersion.PDF_A_1A
 };
 
-// Add one or more files to be validated
+// 添加一个或多个待验证的文件
 options.AddInput(new FileDataSource("path_to_your_first_pdf_file.pdf")); // replace with your actual file path
 options.AddInput(new FileDataSource("path_to_your_second_pdf_file.pdf"));
-// add more files as needed
+// 根据需要添加更多文件
 
-// Create the plugin instance
+// 创建插件实例
 var plugin = new PdfAConverter();
 
-// Run the validation and get results
+// 运行验证并获取结果
 var resultContainer = plugin.Process(options);
 
-// Check the resultContainer.ResultCollection property for validation results for each file:
+// 检查 resultContainer.ResultCollection 属性以获取每个文件的验证结果：
 for (var i = 0; i < resultContainer.ResultCollection.Count; i++)
 {
     var result = resultContainer.ResultCollection[i];
@@ -57,30 +57,32 @@ for (var i = 0; i < resultContainer.ResultCollection.Count; i++)
 }
 ```
 
-该示例演示如何将 PDF 文档转换为 PDF/A 格式（在本例中为 PDF/A-3b）：
+此示例演示如何将 PDF 文档转换为 PDF/A 格式（本例为 PDF/A-3b）：
 
 ```csharp
-// Create the options class to set up the conversion process
+// 创建选项类以设置转换过程
 var options = new PdfAConvertOptions
 {
     PdfAVersion = PdfAStandardVersion.PDF_A_3B
 };
 
-// Add the source file
+// 添加源文件
 options.AddInput(new FileDataSource("path_to_your_pdf_file.pdf")); // replace with your actual file path
 
-// Add the path to save the converted file
+// 添加保存转换后文件的路径
 options.AddOutput(new FileDataSource("path_to_the_converted_file.pdf"));
 
-// Create the plugin instance
+// 创建插件实例
 var plugin = new PdfAConverter();
 
-// Run the conversion
+// 运行转换
 plugin.Process(options);
 ```
 
-### See Also
+### 另请参见
 
 * interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

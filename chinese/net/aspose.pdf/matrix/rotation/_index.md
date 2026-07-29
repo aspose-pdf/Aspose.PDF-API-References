@@ -1,14 +1,14 @@
 ---
-title: Matrix.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: 矩阵方法。为给定的旋转角度创建矩阵
+title: "Matrix.Rotation"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Matrix 方法。为给定的旋转角度创建矩阵"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/matrix/rotation/
 ---
 ## Rotation(double) {#rotation_1}
 
-为给定的旋转角度创建矩阵。
+为给定旋转角度创建矩阵。
 
 ```csharp
 public static Matrix Rotation(double alpha)
@@ -38,7 +38,7 @@ Matrix m = Matrix.Rotation(Math.PI / 2);
 
 ## Rotation(Rotation) {#rotation}
 
-为给定的旋转创建矩阵。
+为给定旋转创建矩阵。
 
 ```csharp
 public static Matrix Rotation(Rotation rotation)
@@ -46,11 +46,11 @@ public static Matrix Rotation(Rotation rotation)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| rotation | Rotation | 旋转。有效值为：None, on90, on180, on270 |
+| 旋转 | 旋转 | 旋转。有效值为：None、on90、on180、on270 |
 
 ### 返回值
 
-带有旋转的矩阵。
+带旋转的 Matrix。
 
 ### 另请参见
 
@@ -58,3 +58,5 @@ public static Matrix Rotation(Rotation rotation)
 * class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

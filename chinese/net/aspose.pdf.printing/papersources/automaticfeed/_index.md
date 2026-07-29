@@ -1,22 +1,24 @@
 ---
-title: PaperSources.AutomaticFeed
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSources 字段。表示自动进纸纸源
+title: "PaperSources.AutomaticFeed"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PaperSources 字段。表示自动送纸来源。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.printing/papersources/automaticfeed/
 ---
-## PaperSources.AutomaticFeed 字段
+## PaperSources.AutomaticFeed field
 
-表示自动进纸纸源。
+表示自动送纸的纸张来源。
 
 ```csharp
 public static readonly PaperSource AutomaticFeed;
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [PaperSource](../../papersource/)
 * class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

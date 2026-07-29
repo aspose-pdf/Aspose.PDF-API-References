@@ -1,12 +1,12 @@
 ---
-title: IOperationResult.ToFile
-second_title: Aspose.PDF for .NET API Reference
-description: IOperationResult 方法。尝试将结果转换为文件
+title: "IOperationResult.ToFile"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "IOperationResult 方法。尝试将结果转换为文件"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.plugins/ioperationresult/tofile/
 ---
-## IOperationResult.ToFile 方法
+## IOperationResult.ToFile method
 
 尝试将结果转换为文件。
 
@@ -16,10 +16,12 @@ public string ToFile()
 
 ### 返回值
 
-一个字符串，表示输出文件的路径，如果结果是文件；否则为 `null`。
+如果结果是文件，则表示输出文件路径的字符串；否则为 `null`。
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IOperationResult](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IOperationResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

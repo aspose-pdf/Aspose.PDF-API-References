@@ -1,14 +1,14 @@
 ---
-title: Class TeXFileSystemInputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.TeXFileSystemInputDirectory 类。实现了常规文件系统方法，以获取文件流进行读取。
+title: "类 TeXFileSystemInputDirectory"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.TeXFileSystemInputDirectory 类。实现获取读取文件流的常规文件系统方法。"
 type: docs
-weight: 10340
+weight: 10520
 url: /zh/net/aspose.pdf/texfilesysteminputdirectory/
 ---
 ## TeXFileSystemInputDirectory class
 
-实现常规文件系统的方法以获取用于读取的文件流。
+实现常规文件系统获取用于读取的文件流的方法。
 
 ```csharp
 public class TeXFileSystemInputDirectory : ITeXInputDirectory
@@ -24,11 +24,13 @@ public class TeXFileSystemInputDirectory : ITeXInputDirectory
 
 | 名称 | 描述 |
 | --- | --- |
-| virtual [Dispose](../../aspose.pdf/texfilesysteminputdirectory/dispose/)() | 处理实例。 |
+| virtual [Dispose](../../aspose.pdf/texfilesysteminputdirectory/dispose/)() | 释放实例。 |
 | [GetFile](../../aspose.pdf/texfilesysteminputdirectory/getfile/)(string, out string, bool) | 返回用于读取的流。 |
 
-### 另请参阅
+### 另请参见
 
-* 接口 [ITeXInputDirectory](../itexinputdirectory/)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* interface [ITeXInputDirectory](../itexinputdirectory/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

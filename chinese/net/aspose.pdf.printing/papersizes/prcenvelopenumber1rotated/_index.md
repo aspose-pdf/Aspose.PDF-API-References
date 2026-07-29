@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.PrcEnvelopeNumber1Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 字段。1 个旋转信封 165 毫米 x 102 毫米
+title: "PaperSizes.PrcEnvelopeNumber1Rotated"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PaperSizes 字段。1 旋转信封 165 mm × 102 mm"
 type: docs
 weight: 890
 url: /zh/net/aspose.pdf.printing/papersizes/prcenvelopenumber1rotated/
 ---
-## PaperSizes.PrcEnvelopeNumber1Rotated 字段
+## PaperSizes.PrcEnvelopeNumber1Rotated field
 
-#1 个旋转信封 (165 毫米 x 102 毫米)。
+#1 旋转信封（165 mm × 102 mm）。
 
 ```csharp
 public static readonly PaperSize PrcEnvelopeNumber1Rotated;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PaperSize](../../papersize/)
-* 类 [PaperSizes](../)
-* 命名空间 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

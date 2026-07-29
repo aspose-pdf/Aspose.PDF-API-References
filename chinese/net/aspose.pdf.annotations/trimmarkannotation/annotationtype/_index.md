@@ -1,22 +1,24 @@
 ---
-title: TrimMarkAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: TrimMarkAnnotation 属性。获取注释类型
+title: "TrimMarkAnnotation.AnnotationType"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TrimMarkAnnotation 属性。获取注释的类型。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.annotations/trimmarkannotation/annotationtype/
 ---
-## TrimMarkAnnotation.AnnotationType 属性
+## TrimMarkAnnotation.AnnotationType property
 
-获取注释类型。
+获取 Annotation 的类型。
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * enum [AnnotationType](../../annotationtype/)
 * class [TrimMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

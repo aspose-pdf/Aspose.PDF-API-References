@@ -1,21 +1,23 @@
 ---
-title: Artifact.CustomType
-second_title: Aspose.PDF for .NET API Reference
-description: Artifact 属性。获取工件类型的名称。如果工件类型是非标准的，可以使用。
+title: "Artifact.CustomType"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Artifact 属性。获取 artifact 类型的名称。如果 artifact 类型非标准，可能会使用"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf/artifact/customtype/
 ---
-## Artifact.CustomType 属性
+## Artifact.CustomType property
 
-获取工件类型的名称。如果工件类型是非标准的，可以使用。
+获取工件类型的名称。如果工件类型不是标准的，可使用此属性。
 
 ```csharp
 public string CustomType { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Artifact](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

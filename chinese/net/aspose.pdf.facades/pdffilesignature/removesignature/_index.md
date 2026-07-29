@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.RemoveSignature
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature 方法。根据签名名称移除签名
+title: "PdfFileSignature.RemoveSignature"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileSignature 方法。根据签名名称移除签名"
 type: docs
 weight: 250
 url: /zh/net/aspose.pdf.facades/pdffilesignature/removesignature/
 ---
 ## RemoveSignature(SignatureName) {#removesignature}
 
-根据签名名称移除签名。
+根据签名名称删除签名。
 
 ```csharp
 public void RemoveSignature(SignatureName signName)
@@ -42,7 +42,7 @@ Next i
 pdfSign.Save(TestPath + "signed_removed.pdf")
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
@@ -53,7 +53,7 @@ pdfSign.Save(TestPath + "signed_removed.pdf")
 
 ## RemoveSignature(SignatureName, bool) {#removesignature_1}
 
-根据签名名称移除签名。
+根据签名名称删除签名。
 
 ```csharp
 public void RemoveSignature(SignatureName signName, bool removeField)
@@ -62,7 +62,7 @@ public void RemoveSignature(SignatureName signName, bool removeField)
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | signName | SignatureName | 签名的名称。 |
-| removeField | Boolean | 如果设置为 true，则从文档中移除签名和字段；否则，仅移除签名。 |
+| removeField | Boolean | 如果设置为 true，则同时从文档中移除签名和字段；否则，仅移除签名。 |
 
 ## 示例
 
@@ -88,9 +88,11 @@ Next i
 pdfSign.Save(TestPath + "signed_removed.pdf")
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [SignatureName](../../signaturename/)
 * class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

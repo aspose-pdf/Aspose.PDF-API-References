@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.GetThreadMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient 方法。异步检索线程中特定消息的详细信息
+title: "OpenAIClient.GetThreadMessageAsync"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAIClient 方法。异步检索线程中特定消息的详细信息"
 type: docs
-weight: 310
+weight: 320
 url: /zh/net/aspose.pdf.ai/openaiclient/getthreadmessageasync/
 ---
-## OpenAIClient.GetThreadMessageAsync 方法
+## OpenAIClient.GetThreadMessageAsync method
 
 异步检索线程中特定消息的详细信息。
 
@@ -17,9 +17,9 @@ public Task<ThreadMessageResponse> GetThreadMessageAsync(string threadId, string
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| threadId | 字符串 | 包含消息的线程 ID。 |
-| threadMessageId | 字符串 | 要检索的消息 ID。 |
-| cancellationToken | 可空`1 | 取消操作的令牌。 |
+| threadId | String | 包含该消息的线程的 ID。 |
+| threadMessageId | String | 要检索的消息的 ID。 |
+| cancellationToken | Nullable`1 | 用于取消操作的令牌。 |
 
 ### 返回值
 
@@ -29,12 +29,14 @@ public Task<ThreadMessageResponse> GetThreadMessageAsync(string threadId, string
 
 | 异常 | 条件 |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | 当线程 ID 为 null 或空时抛出。 |
-| [AIClientException](../../aiclientexception/) | 当线程消息 ID 为 null 或空时抛出。 |
+| [AIClientException](../../aiclientexception/) | 当线程 Id 为 null 或为空时抛出。 |
+| [AIClientException](../../aiclientexception/) | 当线程消息 Id 为 null 或为空时抛出。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [ThreadMessageResponse](../../threadmessageresponse/)
-* 类 [OpenAIClient](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ThreadMessageResponse](../../threadmessageresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Opi.Version
-second_title: Aspose.PDF for .NET API Reference
-description: Opi 属性。获取此字典所引用的 OPI 版本
+title: "Opi.Version"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Opi 属性。获取此字典所引用的 OPI 版本"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/opi/version/
 ---
-## Opi.Version 属性
+## Opi.Version property
 
 获取此字典所引用的 OPI 版本。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/opi/version/
 public string Version { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Opi](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Opi](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SaveableFacade.Save
-second_title: Aspose.PDF for .NET API Reference
-description: SaveableFacade 方法。将 PDF 文档保存到指定的流
+title: "SaveableFacade.Save"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SaveableFacade 方法。将 PDF 文档保存到指定的流中。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.facades/saveablefacade/save/
 ---
 ## Save(Stream) {#save}
 
-将 PDF 文档保存到指定的流。
+将 PDF 文档保存到指定的流中。
 
 ```csharp
 public virtual void Save(Stream destStream)
@@ -28,7 +28,7 @@ public virtual void Save(Stream destStream)
 
 ## Save(string) {#save_1}
 
-将 PDF 文档保存到指定的文件。
+将 PDF 文档保存到指定的文件中。
 
 ```csharp
 public virtual void Save(string destFile)
@@ -43,3 +43,5 @@ public virtual void Save(string destFile)
 * class [SaveableFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

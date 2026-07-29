@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.ModifyAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor 方法。修改指定页面范围内指定类型的注释。它支持修改下列注释属性：修改过的、标题、内容、颜色、主题和打开状态。
+title: "PdfAnnotationEditor.ModifyAnnotations"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfAnnotationEditor 方法。修改指定页面范围内指定类型的批注。它支持修改以下批注属性：Modified、Title、Contents、Color、Subject 和 Open。"
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.facades/pdfannotationeditor/modifyannotations/
 ---
-## PdfAnnotationEditor.ModifyAnnotations 方法
+## PdfAnnotationEditor.ModifyAnnotations method
 
-修改指定页面范围内指定类型的注释。它支持修改下列注释属性：修改过的、标题、内容、颜色、主题和打开状态。
+修改指定页面范围内指定类型的批注。支持修改以下批注属性：Modified、Title、Contents、Color、Subject 和 Open。
 
 ```csharp
 public void ModifyAnnotations(int start, int end, Annotation annotation)
@@ -18,7 +18,7 @@ public void ModifyAnnotations(int start, int end, Annotation annotation)
 | --- | --- | --- |
 | start | Int32 | 起始页码。 |
 | end | Int32 | 结束页码。 |
-| annotation | Annotation | 包含新属性的注释对象。 |
+| 批注 | 批注 | 批注对象包含新属性。 |
 
 ## 示例
 
@@ -38,7 +38,9 @@ editor.Save("example_out.pdf");
 
 ### 另请参见
 
-* 类 [Annotation](../../../aspose.pdf.annotations/annotation/)
-* 类 [PdfAnnotationEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

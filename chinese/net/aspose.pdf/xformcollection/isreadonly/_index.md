@@ -1,12 +1,12 @@
 ---
-title: XFormCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: XFormCollection 属性。获取一个值，指示集合是否为只读
+title: "XFormCollection.IsReadOnly"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XFormCollection 属性。获取一个值，指示集合是否只读"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/xformcollection/isreadonly/
 ---
-## XFormCollection.IsReadOnly 属性
+## XFormCollection.IsReadOnly property
 
 获取一个值，指示集合是否为只读。
 
@@ -16,6 +16,8 @@ public bool IsReadOnly { get; }
 
 ### 另请参见
 
-* 类 [XFormCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

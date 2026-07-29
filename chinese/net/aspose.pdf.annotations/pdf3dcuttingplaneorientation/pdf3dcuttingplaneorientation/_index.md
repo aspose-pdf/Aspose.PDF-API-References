@@ -1,7 +1,7 @@
 ---
-title: PDF3DCuttingPlaneOrientation.PDF3DCuttingPlaneOrientation
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DCuttingPlaneOrientation 构造函数。初始化 PDF3DCuttingPlaneOrientation 类的新实例
+title: "PDF3DCuttingPlaneOrientation.PDF3DCuttingPlaneOrientation"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PDF3DCuttingPlaneOrientation 构造函数。初始化 PDF3DCuttingPlaneOrientation 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/pdf3dcuttingplaneorientation/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/pdf3dcuttingpla
 public PDF3DCuttingPlaneOrientation()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PDF3DCuttingPlaneOrientation](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PDF3DCuttingPlaneOrientation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,8 +36,10 @@ public PDF3DCuttingPlaneOrientation(double? angleX, double? angleY, double? angl
 | angleY | Nullable`1 | 角度 y。 |
 | angleZ | Nullable`1 | 角度 z。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PDF3DCuttingPlaneOrientation](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PDF3DCuttingPlaneOrientation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

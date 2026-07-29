@@ -1,14 +1,14 @@
 ---
-title: PdfActionCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: PdfActionCollection 属性。通过索引获取动作
+title: "PdfActionCollection.Item"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfActionCollection 属性。按索引获取操作"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.annotations/pdfactioncollection/item/
 ---
-## PdfActionCollection 索引器
+## PdfActionCollection indexer
 
-通过索引获取动作。
+通过索引获取操作。
 
 ```csharp
 public PdfAction this[int index] { get; }
@@ -16,15 +16,17 @@ public PdfAction this[int index] { get; }
 
 | 参数 | 描述 |
 | --- | --- |
-| index | 动作索引值。 |
+| index | 操作索引值。 |
 
 ### 返回值
 
-如果找到，则返回动作索引；否则，抛出 IndexOutOfRangeException
+如果找到则返回操作索引；否则抛出 IndexOutOfRangeException 异常
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfAction](../../pdfaction/)
-* 类 [PdfActionCollection](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfAction](../../pdfaction/)
+* class [PdfActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

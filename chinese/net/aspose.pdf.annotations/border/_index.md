@@ -1,14 +1,14 @@
 ---
-title: Class Border
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.Border 类。表示注释边框特征的类
+title: "类 Border"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.Border 类。表示注释边框特性的类"
 type: docs
-weight: 1510
+weight: 1600
 url: /zh/net/aspose.pdf.annotations/border/
 ---
-## 边框类
+## Border class
 
-表示注释边框特征的类。
+表示注释边框特性的类。
 
 ```csharp
 public sealed class Border
@@ -32,7 +32,9 @@ public sealed class Border
 | [VCornerRadius](../../aspose.pdf.annotations/border/vcornerradius/) { get; set; } | 获取或设置垂直角半径。 |
 | [Width](../../aspose.pdf.annotations/border/width/) { get; set; } | 获取或设置边框宽度。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

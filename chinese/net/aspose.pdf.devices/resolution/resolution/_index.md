@@ -1,14 +1,14 @@
 ---
-title: Resolution.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: 分辨率构造函数。初始化分辨率类的新实例
+title: "Resolution.Resolution"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Resolution 构造函数。初始化 Resolution 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.devices/resolution/resolution/
 ---
 ## Resolution(int) {#constructor}
 
-初始化[`Resolution`](../)类的新实例。
+初始化 [`Resolution`](../) 类的新实例。
 
 ```csharp
 public Resolution(int value)
@@ -16,19 +16,19 @@ public Resolution(int value)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Int32 | 表示水平和垂直分辨率的值。 |
+| 值 | Int32 | 表示水平和垂直分辨率的值。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Resolution](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Resolution](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Resolution(int, int) {#constructor_1}
 
-初始化[`Resolution`](../)类的新实例。
+初始化 [`Resolution`](../) 类的新实例。
 
 ```csharp
 public Resolution(int valueX, int valueY)
@@ -39,8 +39,10 @@ public Resolution(int valueX, int valueY)
 | valueX | Int32 | 水平分辨率。 |
 | valueY | Int32 | 垂直分辨率。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Resolution](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Resolution](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

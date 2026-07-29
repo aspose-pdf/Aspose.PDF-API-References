@@ -1,14 +1,14 @@
 ---
-title: Class Clip
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.Clip 类。表示使用非零绕行规则设置剪切路径的 W 操作符
+title: "类 Clip"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Operators.Clip 类。表示使用非零环绕规则设置剪裁路径的 W 操作符的类"
 type: docs
-weight: 7180
+weight: 7320
 url: /zh/net/aspose.pdf.operators/clip/
 ---
-## Clip 类
+## Clip class
 
-表示 W 操作符（使用非零绕行规则设置剪切路径）。
+表示 W 操作符的类（使用非零环绕规则设置剪裁路径）。
 
 ```csharp
 public class Clip : Operator
@@ -34,8 +34,10 @@ public class Clip : Operator
 | override [ToString](../../aspose.pdf.operators/clip/tostring/)() | 返回操作符的文本表示。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | 将此实例与给定对象进行比较。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Operator](../../aspose.pdf/operator/)
-* 命名空间 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: MarkupSection.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupSection 属性。包含在该部分中的 MarkupParagraph 对象的集合
+title: "MarkupSection.Paragraphs"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MarkupSection 属性。位于该节内的 MarkupParagraph 对象集合"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.text/markupsection/paragraphs/
 ---
-## MarkupSection.Paragraphs 属性
+## MarkupSection.Paragraphs property
 
-包含在该部分中的 [`MarkupParagraph`](../../markupparagraph/) 对象的集合。
+位于该节内的 [`MarkupParagraph`](../../markupparagraph/) 对象集合。
 
 ```csharp
 public List<MarkupParagraph> Paragraphs { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [MarkupParagraph](../../markupparagraph/)
-* 类 [MarkupSection](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [MarkupParagraph](../../markupparagraph/)
+* class [MarkupSection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

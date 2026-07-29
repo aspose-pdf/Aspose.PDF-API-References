@@ -1,14 +1,14 @@
 ---
-title: Interface IImageDescriptionCopilotOptionsTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.IImageDescriptionCopilotOptions1TOptions 接口。表示具有特定类型的图像描述助手选项的接口
+title: "接口 IImageDescriptionCopilotOptionsTOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.IImageDescriptionCopilotOptions1TOptions 接口。表示具有特定类型的图像描述副驾驶选项的接口"
 type: docs
-weight: 520
+weight: 540
 url: /zh/net/aspose.pdf.ai/iimagedescriptioncopilotoptions-1/
 ---
-## IImageDescriptionCopilotOptions&lt;TOptions&gt; 接口
+## IImageDescriptionCopilotOptions&lt;TOptions&gt; interface
 
-表示具有特定类型的图像描述助手选项的接口。
+表示具有特定类型的图像描述副驾驶选项接口。
 
 ```csharp
 public interface IImageDescriptionCopilotOptions<out TOptions>
@@ -16,7 +16,7 @@ public interface IImageDescriptionCopilotOptions<out TOptions>
 
 | 参数 | 描述 |
 | --- | --- |
-| TOptions | 图像描述助手的选项类型。 |
+| TOptions | 图像描述协作员的选项类型。 |
 
 ## 方法
 
@@ -24,7 +24,9 @@ public interface IImageDescriptionCopilotOptions<out TOptions>
 | --- | --- |
 | [GetOptions](../../aspose.pdf.ai/iimagedescriptioncopilotoptions-1/getoptions/)() | 获取类型为 *TOptions* 的选项。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

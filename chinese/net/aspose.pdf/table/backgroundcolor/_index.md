@@ -1,12 +1,12 @@
 ---
-title: Table.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: 表格属性。获取或设置表格背景颜色
+title: "Table.BackgroundColor"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Table 属性。获取或设置表的背景颜色"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/table/backgroundcolor/
 ---
-## 表格.背景颜色属性
+## Table.BackgroundColor property
 
 获取或设置表格背景颜色
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf/table/backgroundcolor/
 public Color BackgroundColor { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [颜色](../../color/)
-* 类 [表格](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Color](../../color/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

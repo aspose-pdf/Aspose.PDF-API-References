@@ -1,12 +1,12 @@
 ---
-title: DjvuLoadOptions.DjvuLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: DjvuLoadOptions 构造函数。默认构造函数
+title: "DjvuLoadOptions.DjvuLoadOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "DjvuLoadOptions 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/djvuloadoptions/djvuloadoptions/
 ---
-## DjvuLoadOptions 构造函数
+## DjvuLoadOptions constructor
 
 默认构造函数。
 
@@ -19,3 +19,5 @@ public DjvuLoadOptions()
 * class [DjvuLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

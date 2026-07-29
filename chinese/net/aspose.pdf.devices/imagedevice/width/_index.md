@@ -1,12 +1,12 @@
 ---
-title: ImageDevice.Width
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDevice 属性。获取图像输出宽度
+title: "ImageDevice.Width"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ImageDevice 属性。获取图像输出宽度"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.devices/imagedevice/width/
 ---
-## ImageDevice.Width 属性
+## ImageDevice.Width property
 
 获取图像输出宽度。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.devices/imagedevice/width/
 public int Width { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ImageDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ImageDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

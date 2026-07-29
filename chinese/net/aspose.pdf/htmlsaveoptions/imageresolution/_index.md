@@ -1,12 +1,12 @@
 ---
-title: HtmlSaveOptions.ImageResolution
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions 属性。获取或设置图像渲染的分辨率
+title: "HtmlSaveOptions.ImageResolution"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "HtmlSaveOptions 属性。获取或设置图像渲染的分辨率。"
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf/htmlsaveoptions/imageresolution/
 ---
-## HtmlSaveOptions.ImageResolution 属性
+## HtmlSaveOptions.ImageResolution property
 
 获取或设置图像渲染的分辨率。
 
@@ -14,12 +14,14 @@ url: /zh/net/aspose.pdf/htmlsaveoptions/imageresolution/
 public int ImageResolution { get; set; }
 ```
 
-### 属性值
+### Property Value
 
 分辨率
 
-### 另请参阅
+### 另请参见
 
-* 类 [HtmlSaveOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CosPdfBoolean.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfBoolean 方法。确定指定对象是否等于当前对象
+title: "CosPdfBoolean.Equals"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CosPdfBoolean 方法。确定指定的对象是否等于当前对象"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.dataeditor/cospdfboolean/equals/
 ---
-## CosPdfBoolean.Equals 方法
+## CosPdfBoolean.Equals method
 
-确定指定对象是否等于当前对象。
+确定指定的对象是否等于当前对象。
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,14 +16,16 @@ public override bool Equals(object obj)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| obj | Object | 要与当前对象进行比较的对象。 |
+| obj | 对象 | 用于与当前对象比较的对象。 |
 
 ### 返回值
 
-如果指定对象等于当前对象，则为 true；否则为 false。
+如果指定的对象等于当前对象，则返回 True；否则返回 false。
 
-### 另请参阅
+### 另请参见
 
-* 类 [CosPdfBoolean](../)
-* 命名空间 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CosPdfBoolean](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

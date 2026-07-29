@@ -1,12 +1,12 @@
 ---
-title: PdfDocument.PdfDocument
-second_title: Aspose.PDF for .NET API Reference
-description: PdfDocument 构造函数。默认构造函数
+title: "PdfDocument.PdfDocument"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfDocument 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/pdfdocument/pdfdocument/
 ---
-## PdfDocument 构造函数
+## PdfDocument constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/pdfdocument/pdfdocument/
 public PdfDocument()
 ```
 
-### 另见
+### 另请参见
 
-* 类 [PdfDocument](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfDocument](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

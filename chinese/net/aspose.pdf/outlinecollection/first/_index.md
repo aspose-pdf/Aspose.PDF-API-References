@@ -1,22 +1,24 @@
 ---
-title: OutlineCollection.First
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineCollection 属性。获取表示大纲中第一个顶级项的轮廓项
+title: "OutlineCollection.First"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OutlineCollection 属性。获取表示大纲中第一个一级项目的大纲项。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/outlinecollection/first/
 ---
-## OutlineCollection.First 属性
+## OutlineCollection.First property
 
-获取表示大纲中第一个顶级项的轮廓项。
+获取表示大纲中第一个顶层项的大纲项。
 
 ```csharp
 public OutlineItemCollection First { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [OutlineItemCollection](../../outlineitemcollection/)
-* 类 [OutlineCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

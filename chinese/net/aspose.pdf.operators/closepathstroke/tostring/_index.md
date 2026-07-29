@@ -1,14 +1,14 @@
 ---
-title: ClosePathStroke.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: ClosePathStroke 方法。返回操作符的文本表示
+title: "ClosePathStroke.ToString"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ClosePathStroke 方法。返回操作符的文本表示"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.operators/closepathstroke/tostring/
 ---
-## ClosePathStroke.ToString 方法
+## ClosePathStroke.ToString method
 
-返回操作符的文本表示。
+返回运算符的文本表示。
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### 返回值
 
-操作符的文本表示。
+运算符的文本表示。
 
-### 另见
+### 另请参见
 
-* 类 [ClosePathStroke](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ClosePathStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

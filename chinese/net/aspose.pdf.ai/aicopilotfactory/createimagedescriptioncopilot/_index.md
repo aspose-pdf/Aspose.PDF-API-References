@@ -1,25 +1,27 @@
 ---
-title: AICopilotFactory.CreateImageDescriptionCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: AICopilotFactory 方法。根据客户端和选项创建图像描述助手
+title: "AICopilotFactory.CreateImageDescriptionCopilot"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AICopilotFactory 方法。基于客户端和选项创建图像描述协助程序"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.ai/aicopilotfactory/createimagedescriptioncopilot/
 ---
-## AICopilotFactory.CreateImageDescriptionCopilot&lt;TOptions&gt; 方法
+## AICopilotFactory.CreateImageDescriptionCopilot&lt;TOptions&gt; method
 
-根据客户端和选项创建图像描述助手。
+基于客户端和选项创建图像描述协同程序。
 
 ```csharp
 public static IImageDescriptionCopilot CreateImageDescriptionCopilot<TOptions>(
     IImageDescriptionClient<TOptions> client, IImageDescriptionCopilotOptions<TOptions> options)
 ```
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IImageDescriptionCopilot](../../iimagedescriptioncopilot/)
-* 接口 [IImageDescriptionClient&lt;TOptions&gt;](../../iimagedescriptionclient-1/)
-* 接口 [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../../iimagedescriptioncopilotoptions-1/)
-* 类 [AICopilotFactory](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IImageDescriptionCopilot](../../iimagedescriptioncopilot/)
+* interface [IImageDescriptionClient&lt;TOptions&gt;](../../iimagedescriptionclient-1/)
+* interface [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../../iimagedescriptioncopilotoptions-1/)
+* class [AICopilotFactory](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

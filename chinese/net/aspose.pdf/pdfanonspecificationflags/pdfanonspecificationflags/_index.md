@@ -1,12 +1,12 @@
 ---
-title: PdfANonSpecificationFlags.PdfANonSpecificationFlags
-second_title: Aspose.PDF for .NET API Reference
-description: PdfANonSpecificationFlags 构造函数。默认构造函数
+title: "PdfANonSpecificationFlags.PdfANonSpecificationFlags"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfANonSpecificationFlags 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/pdfanonspecificationflags/pdfanonspecificationflags/
 ---
-## PdfANonSpecificationFlags 构造函数
+## PdfANonSpecificationFlags constructor
 
 默认构造函数。
 
@@ -16,6 +16,8 @@ public PdfANonSpecificationFlags()
 
 ### 另请参见
 
-* 类 [PdfANonSpecificationFlags](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfANonSpecificationFlags](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

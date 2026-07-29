@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.B4JisRotated
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 字段。JIS B4 旋转纸 364 毫米 x 257 毫米
+title: "PaperSizes.B4JisRotated"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PaperSizes 字段。JIS B4 旋转纸张 364 mm × 257 mm"
 type: docs
 weight: 220
 url: /zh/net/aspose.pdf.printing/papersizes/b4jisrotated/
 ---
-## PaperSizes.B4JisRotated 字段
+## PaperSizes.B4JisRotated field
 
-JIS B4 旋转纸（364 毫米 x 257 毫米）。
+JIS B4 旋转纸 (364 mm by 257 mm).
 
 ```csharp
 public static readonly PaperSize B4JisRotated;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PaperSize](../../papersize/)
-* 类 [PaperSizes](../)
-* 命名空间 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

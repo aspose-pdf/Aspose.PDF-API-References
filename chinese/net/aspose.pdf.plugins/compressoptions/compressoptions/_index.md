@@ -1,12 +1,12 @@
 ---
-title: CompressOptions.CompressOptions
-second_title: Aspose.PDF for .NET API Reference
-description: CompressOptions 构造函数。默认构造函数
+title: "CompressOptions.CompressOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CompressOptions 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.plugins/compressoptions/compressoptions/
 ---
-## CompressOptions 构造函数
+## CompressOptions constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.plugins/compressoptions/compressoptions/
 public CompressOptions()
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [CompressOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

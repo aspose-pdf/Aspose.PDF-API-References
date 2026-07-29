@@ -1,26 +1,28 @@
 ---
-title: XmpField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: XmpField property. Gets the value
+title: "XmpField.Value"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpField 属性。获取值"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf/xmpfield/value/
 ---
-## XmpField.Value 属性
+## XmpField.Value property
 
-获取值。
+获取该值。
 
 ```csharp
 public XmpValue Value { get; }
 ```
 
-### 属性值
+### Property Value
 
 值。
 
-### 另请参阅
+### 另请参见
 
-* 类 [XmpValue](../../xmpvalue/)
-* 类 [XmpField](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpValue](../../xmpvalue/)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

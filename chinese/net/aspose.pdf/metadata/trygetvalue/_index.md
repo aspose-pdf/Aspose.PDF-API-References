@@ -1,14 +1,14 @@
 ---
-title: Metadata.TryGetValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metadata 方法。尝试在字典中查找键，并在找到时检索值
+title: "Metadata.TryGetValue"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Metadata 方法。 尝试在字典中查找键，并在找到时检索其值"
 type: docs
 weight: 210
 url: /zh/net/aspose.pdf/metadata/trygetvalue/
 ---
-## Metadata.TryGetValue 方法
+## Metadata.TryGetValue method
 
-尝试在字典中查找键，并在找到时检索值。
+尝试在字典中查找键并在找到时检索其值。
 
 ```csharp
 public bool TryGetValue(string key, out XmpValue value)
@@ -16,16 +16,18 @@ public bool TryGetValue(string key, out XmpValue value)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 要在字典中搜索的键。 |
-| value | XmpValue& | 检索到的值。 |
+| 键 | String | 要在字典中搜索的键。 |
+| 值 | XmpValue& | 检索到的值。 |
 
 ### 返回值
 
 如果找到键，则为 true。
 
-### 另请参阅
+### 另请参见
 
-* 类 [XmpValue](../../xmpvalue/)
-* 类 [Metadata](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

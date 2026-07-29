@@ -1,12 +1,12 @@
 ---
-title: PositionSettings.PositionSettings
-second_title: Aspose.PDF for .NET API Reference
-description: PositionSettings 构造函数。默认构造函数
+title: "PositionSettings.PositionSettings"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PositionSettings 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.tagged/positionsettings/positionsettings/
 ---
-## PositionSettings 构造函数
+## PositionSettings constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.tagged/positionsettings/positionsettings/
 public PositionSettings()
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [PositionSettings](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

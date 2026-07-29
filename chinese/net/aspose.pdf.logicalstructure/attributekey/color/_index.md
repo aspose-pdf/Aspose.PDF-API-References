@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.Color
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey 字段。颜色属性 布局属性所有者
+title: "AttributeKey.Color"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AttributeKey 字段。Color 属性是 Layout 属性的所有者"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.logicalstructure/attributekey/color/
 ---
-## AttributeKey.Color 字段
+## AttributeKey.Color field
 
-颜色属性（布局属性所有者）。
+Color 属性（Layout 属性所有者）。
 
 ```csharp
 public static readonly AttributeKey Color;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [AttributeKey](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

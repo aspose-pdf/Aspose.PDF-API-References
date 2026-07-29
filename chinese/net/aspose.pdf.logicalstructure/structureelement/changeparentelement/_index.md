@@ -1,12 +1,12 @@
 ---
-title: StructureElement.ChangeParentElement
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement 方法。更改当前结构元素的父元素
+title: "StructureElement.ChangeParentElement"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "StructureElement 方法。更改当前结构元素的父元素"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.logicalstructure/structureelement/changeparentelement/
 ---
-## StructureElement.ChangeParentElement 方法
+## StructureElement.ChangeParentElement method
 
 更改当前结构元素的父元素
 
@@ -20,8 +20,10 @@ public void ChangeParentElement(StructureElement newParentElement,
 | newParentElement | StructureElement | 新的父结构元素 |
 | checkIfParentCanBeChanged | Boolean | 检查父元素是否可以更改。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [StructureElement](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

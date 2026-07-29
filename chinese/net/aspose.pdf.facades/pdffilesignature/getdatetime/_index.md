@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature.GetDateTime
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSignature 方法。获取签名的日期时间
+title: "PdfFileSignature.GetDateTime"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFileSignature 方法。获取签名的日期时间"
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf.facades/pdffilesignature/getdatetime/
 ---
-## PdfFileSignature.GetDateTime 方法
+## PdfFileSignature.GetDateTime method
 
 获取签名的日期时间。
 
@@ -22,9 +22,11 @@ public DateTime GetDateTime(SignatureName signName)
 
 返回 DateTime 类型的结果。
 
-### 另见
+### 另请参见
 
-* 类 [SignatureName](../../signaturename/)
-* 类 [PdfFileSignature](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: StructureElement.Language
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement 属性。获取或设置结构元素的语言
+title: "StructureElement.Language"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "StructureElement 属性。获取或设置结构元素的语言。"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.logicalstructure/structureelement/language/
 ---
-## StructureElement.Language 属性
+## StructureElement.Language property
 
 获取或设置结构元素的语言。
 
@@ -14,12 +14,14 @@ url: /zh/net/aspose.pdf.logicalstructure/structureelement/language/
 public string Language { get; set; }
 ```
 
-### 属性值
+### Property Value
 
 结构元素的语言。
 
-### 另请参阅
+### 另请参见
 
-* 类 [StructureElement](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

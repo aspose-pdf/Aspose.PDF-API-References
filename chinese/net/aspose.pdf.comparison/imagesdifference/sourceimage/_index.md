@@ -1,21 +1,23 @@
 ---
-title: ImagesDifference.SourceImage
-second_title: Aspose.PDF for .NET API Reference
-description: ImagesDifference 属性。获取第一个比较页面的图像。图像的像素格式为 24bpp
+title: "ImagesDifference.SourceImage"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ImagesDifference 属性。获取第一比较页的图像。该图像的像素格式为 24bpp"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.comparison/imagesdifference/sourceimage/
 ---
-## ImagesDifference.SourceImage 属性
+## ImagesDifference.SourceImage property
 
-获取第一个比较页面的图像。图像的像素格式为 24bpp。
+获取第一页比较的图像。该图像的像素格式为 24bpp。
 
 ```csharp
 public Bitmap SourceImage { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ImagesDifference](../)
-* 命名空间 [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ImagesDifference](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Delegate Document.CallBackGetHocrWithPage
-second_title: Aspose.PDF for .NET API Reference
-description:
+title: "委托 Document.CallBackGetHocrWithPage"
+second_title: "Aspose.PDF for .NET API 参考"
+description: 
 type: docs
-weight: 3800
-url: /net/aspose.pdf/document.callbackgethocrwithpage/
+weight: 3920
+url: /zh/net/aspose.pdf/document.callbackgethocrwithpage/
 ---
-## Document.CallBackGetHocrWithPage 委托
+## Document.CallBackGetHocrWithPage delegate
 
 ```csharp
 public delegate string CallBackGetHocrWithPage(Image img, Page page);
@@ -15,15 +15,17 @@ public delegate string CallBackGetHocrWithPage(Image img, Page page);
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | img | Image | hocr 图像。 |
-| page | Page | 正在处理的页面。 |
+| 页面 | 页面 | Page 正在处理。 |
 
 ### 返回值
 
 hocr 文本。
 
-### 另见
+### 另请参见
 
-* 类 [Page](../page/)
-* 类 [Document](../document/)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* class [Page](../page/)
+* class [Document](../document/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

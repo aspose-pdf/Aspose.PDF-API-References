@@ -1,14 +1,14 @@
 ---
-title: Class MessageContentRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.MessageContentRequest 类。消息内容为文本和/或图像的数组
+title: "类 MessageContentRequest"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.MessageContentRequest 类。消息的内容，以文本和/或图像数组的形式"
 type: docs
-weight: 780
+weight: 830
 url: /zh/net/aspose.pdf.ai/messagecontentrequest/
 ---
-## MessageContentRequest 类
+## MessageContentRequest class
 
-消息内容为文本和/或图像的数组。
+消息的内容，以文本和/或图像的数组形式呈现。
 
 ```csharp
 public class MessageContentRequest : MessageContentBase
@@ -26,8 +26,8 @@ public class MessageContentRequest : MessageContentBase
 | --- | --- |
 | [ImageFile](../../aspose.pdf.ai/messagecontentbase/imagefile/) { get; set; } | 获取或设置消息内容中的图像文件。 |
 | [ImageUrl](../../aspose.pdf.ai/messagecontentbase/imageurl/) { get; set; } | 获取或设置消息内容中的图像 URL。 |
-| [MessageContentType](../../aspose.pdf.ai/messagecontentbase/messagecontenttype/) { get; set; } | 获取或设置内容的类型。 |
-| [Text](../../aspose.pdf.ai/messagecontentrequest/text/) { get; set; } | 获取或设置消息的一部分的文本内容。 |
+| [MessageContentType](../../aspose.pdf.ai/messagecontentbase/messagecontenttype/) { get; set; } | 获取或设置内容类型。 |
+| [Text](../../aspose.pdf.ai/messagecontentrequest/text/) { get; set; } | 获取或设置消息中包含的文本内容。 |
 
 ## 方法
 
@@ -37,8 +37,10 @@ public class MessageContentRequest : MessageContentBase
 | static [CreateImageUrlContent](../../aspose.pdf.ai/messagecontentrequest/createimageurlcontent/)(string, string) | 为消息创建图像 URL 内容。 |
 | static [CreateTextContent](../../aspose.pdf.ai/messagecontentrequest/createtextcontent/)(string) | 为消息创建文本内容。 |
 
-### 另见
+### 另请参见
 
-* 类 [MessageContentBase](../messagecontentbase/)
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* class [MessageContentBase](../messagecontentbase/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class Rows
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Rows 类。表示表的行集合
+title: "类 Rows"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Rows 类。表示表格的行集合。"
 type: docs
-weight: 9840
+weight: 9990
 url: /zh/net/aspose.pdf/rows/
 ---
-## Rows 类
+## Rows class
 
 表示表的行集合。
 
@@ -24,24 +24,26 @@ public sealed class Rows : IEnumerable<Row>
 
 | 名称 | 描述 |
 | --- | --- |
-| [Count](../../aspose.pdf/rows/count/) { get; } | 项目数量。 |
+| [Count](../../aspose.pdf/rows/count/) { get; } | 项目计数。 |
 | [Item](../../aspose.pdf/rows/item/) { get; set; } | 获取或设置行。 |
 
 ## 方法
 
 | 名称 | 描述 |
 | --- | --- |
-| [Add](../../aspose.pdf/rows/add/#add)() | 将行添加到集合。 |
-| [Add](../../aspose.pdf/rows/add/#add_1)(Row) | 将行添加到集合。 |
-| [Dispose](../../aspose.pdf/rows/dispose/)() | 释放资源。 |
+| [Add](../../aspose.pdf/rows/add/#add)() | 向集合添加行。 |
+| [Add](../../aspose.pdf/rows/add/#add_1)(Row) | 向集合添加行。 |
+| [Dispose](../../aspose.pdf/rows/dispose/)() | 释放。 |
 | [GetEnumerator](../../aspose.pdf/rows/getenumerator/)() | 获取集合的枚举器 |
-| [IndexOf](../../aspose.pdf/rows/indexof/)(Row) | 返回集合中行的索引。 |
+| [IndexOf](../../aspose.pdf/rows/indexof/)(Row) | 返回行在集合中的索引。 |
 | [Remove](../../aspose.pdf/rows/remove/)(Row) | 从集合中移除行。 |
 | [RemoveAt](../../aspose.pdf/rows/removeat/)(int) | 从集合中移除指定位置的行。 |
 | [RemoveRange](../../aspose.pdf/rows/removerange/)(int, int) | 从集合中移除行集。 |
 
-### 另见
+### 另请参见
 
-* 类 [Row](../row/)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* class [Row](../row/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

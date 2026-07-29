@@ -1,14 +1,14 @@
 ---
-title: Class Embedding
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.Embedding 类。表示由嵌入端点返回的嵌入向量
+title: "类 Embedding"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.Embedding 类。表示由嵌入端点返回的嵌入向量"
 type: docs
-weight: 330
+weight: 350
 url: /zh/net/aspose.pdf.ai/embedding/
 ---
-## 嵌入类
+## Embedding class
 
-表示由嵌入端点返回的嵌入向量。
+表示嵌入端点返回的嵌入向量。
 
 ```csharp
 public class Embedding
@@ -24,11 +24,13 @@ public class Embedding
 
 | 名称 | 描述 |
 | --- | --- |
-| [EmbeddingList](../../aspose.pdf.ai/embedding/embeddinglist/) { get; set; } | 获取或设置嵌入向量，它是一个浮点数列表。向量的长度取决于嵌入指南中列出的模型。 |
+| [EmbeddingList](../../aspose.pdf.ai/embedding/embeddinglist/) { get; set; } | 获取或设置嵌入向量，该向量是浮点数列表。向量的长度取决于嵌入指南中列出的模型。 |
 | [Index](../../aspose.pdf.ai/embedding/index/) { get; set; } | 获取或设置嵌入在嵌入列表中的索引。 |
-| [Object](../../aspose.pdf.ai/embedding/object/) { get; set; } | 获取或设置对象类型，始终为“embedding”。 |
+| [Object](../../aspose.pdf.ai/embedding/object/) { get; set; } | 获取或设置对象类型，该类型始终为 "embedding"。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

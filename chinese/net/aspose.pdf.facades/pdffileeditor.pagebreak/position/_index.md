@@ -1,12 +1,12 @@
 ---
-title: PdfFileEditor.PageBreak.Position
-second_title: Aspose.PDF for .NET API Reference
-description: PageBreak 属性。分页符的垂直位置
+title: "PdfFileEditor.PageBreak.Position"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PageBreak 属性。分页符的垂直位置。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.facades/pdffileeditor.pagebreak/position/
 ---
-## PdfFileEditor.PageBreak.Position 属性
+## PdfFileEditor.PageBreak.Position property
 
 分页符的垂直位置。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.facades/pdffileeditor.pagebreak/position/
 public double Position { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PageBreak](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageBreak](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

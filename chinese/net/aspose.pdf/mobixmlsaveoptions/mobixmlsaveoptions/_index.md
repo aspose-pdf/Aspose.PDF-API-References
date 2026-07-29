@@ -1,12 +1,12 @@
 ---
-title: MobiXmlSaveOptions.MobiXmlSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: MobiXmlSaveOptions 构造函数。默认构造函数
+title: "MobiXmlSaveOptions.MobiXmlSaveOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MobiXmlSaveOptions 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/mobixmlsaveoptions/mobixmlsaveoptions/
 ---
-## MobiXmlSaveOptions 构造函数
+## MobiXmlSaveOptions constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/mobixmlsaveoptions/mobixmlsaveoptions/
 public MobiXmlSaveOptions()
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [MobiXmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

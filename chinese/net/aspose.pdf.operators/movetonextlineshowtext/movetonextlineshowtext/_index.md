@@ -1,7 +1,7 @@
 ---
-title: MoveToNextLineShowText.MoveToNextLineShowText
-second_title: Aspose.PDF for .NET API Reference
-description: MoveToNextLineShowText 构造函数。初始化操作符
+title: "MoveToNextLineShowText.MoveToNextLineShowText"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MoveToNextLineShowText 构造函数。初始化运算符"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/movetonextlineshowtext/movetonextlineshowtext/
@@ -14,7 +14,7 @@ url: /zh/net/aspose.pdf.operators/movetonextlineshowtext/movetonextlineshowtext/
 public MoveToNextLineShowText()
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [MoveToNextLineShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
@@ -32,10 +32,12 @@ public MoveToNextLineShowText(string text)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| text | String | 文本。 |
+| 文本 | String | 文本。 |
 
-### 另请参阅
+### 另请参见
 
 * class [MoveToNextLineShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

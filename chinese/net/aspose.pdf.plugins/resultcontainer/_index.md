@@ -1,12 +1,12 @@
 ---
-title: Class ResultContainer
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.ResultContainer 类。表示包含插件处理结果集合的容器
+title: "类 ResultContainer"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.ResultContainer 类。表示包含插件处理结果集合的容器"
 type: docs
-weight: 9200
+weight: 9350
 url: /zh/net/aspose.pdf.plugins/resultcontainer/
 ---
-## ResultContainer 类
+## ResultContainer class
 
 表示包含插件处理结果集合的容器。
 
@@ -20,7 +20,9 @@ public class ResultContainer
 | --- | --- |
 | [ResultCollection](../../aspose.pdf.plugins/resultcontainer/resultcollection/) { get; } | 获取操作结果的集合 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

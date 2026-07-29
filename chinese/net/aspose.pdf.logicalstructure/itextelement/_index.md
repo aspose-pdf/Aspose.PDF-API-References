@@ -1,12 +1,12 @@
 ---
-title: Interface ITextElement
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LogicalStructure.ITextElement 接口。用于呈现文本结构元素的接口
+title: "接口 ITextElement"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.LogicalStructure.ITextElement 接口。用于呈现文本结构元素的接口"
 type: docs
-weight: 6410
+weight: 6550
 url: /zh/net/aspose.pdf.logicalstructure/itextelement/
 ---
-## ITextElement 接口
+## ITextElement interface
 
 用于呈现文本结构元素的接口。
 
@@ -24,9 +24,11 @@ public interface ITextElement
 
 | 名称 | 描述 |
 | --- | --- |
-| [SetText](../../aspose.pdf.logicalstructure/itextelement/settext/)(string) | 将文本内容附加到当前文本元素。 |
+| [SetText](../../aspose.pdf.logicalstructure/itextelement/settext/)(string) | 将文本内容追加到当前文本元素。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)
+
+

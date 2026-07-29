@@ -1,14 +1,14 @@
 ---
-title: MarkupAnnotation.InReplyTo
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupAnnotation 属性。对该注释的引用，该注释是对此注释的“回复”。两个注释必须在文档的同一页面上。
+title: "MarkupAnnotation.InReplyTo"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MarkupAnnotation 属性。指向此注释所回复的注释的引用。两个注释必须位于文档的同一页上"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.annotations/markupannotation/inreplyto/
 ---
-## MarkupAnnotation.InReplyTo 属性
+## MarkupAnnotation.InReplyTo property
 
-对该注释的引用，该注释是对此注释的“回复”。两个注释必须在文档的同一页面上。
+对该注释所 "回复" 的注释的引用。两个注释必须位于文档的同一页。
 
 ```csharp
 public Annotation InReplyTo { get; set; }
@@ -20,3 +20,5 @@ public Annotation InReplyTo { get; set; }
 * class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

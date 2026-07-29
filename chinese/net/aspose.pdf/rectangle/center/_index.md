@@ -1,12 +1,12 @@
 ---
-title: Rectangle.Center
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle 方法。返回矩形中心的坐标
+title: "Rectangle.Center"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Rectangle 方法。返回矩形中心的坐标"
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf/rectangle/center/
 ---
-## Rectangle.Center 方法
+## Rectangle.Center method
 
 返回矩形中心的坐标。
 
@@ -16,11 +16,13 @@ public Point Center()
 
 ### 返回值
 
-矩形的中心点。
+矩形中心的点。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Point](../../point/)
-* 类 [Rectangle](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Point](../../point/)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

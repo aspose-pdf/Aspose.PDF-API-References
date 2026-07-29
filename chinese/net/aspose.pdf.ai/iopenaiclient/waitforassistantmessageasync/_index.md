@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.WaitForAssistantMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient 方法。异步等待线程中助手的第一条消息
+title: "IOpenAIClient.WaitForAssistantMessageAsync"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "IOpenAIClient 方法。异步等待线程中助手的第一条消息。"
 type: docs
 weight: 430
 url: /zh/net/aspose.pdf.ai/iopenaiclient/waitforassistantmessageasync/
 ---
-## IOpenAIClient.WaitForAssistantMessageAsync 方法
+## IOpenAIClient.WaitForAssistantMessageAsync method
 
-异步等待线程中助手的第一条消息。
+异步等待线程中来自助手的第一条消息。
 
 ```csharp
 public Task<ThreadMessageResponse> WaitForAssistantMessageAsync(string threadId, 
@@ -18,8 +18,8 @@ public Task<ThreadMessageResponse> WaitForAssistantMessageAsync(string threadId,
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| threadId | 字符串 | 要监视的线程的 ID，以获取第一条助手消息。 |
-| queryParameters | ThreadMessageListQueryParameters | 可选的查询参数，用于过滤消息列表。 |
+| threadId | String | 用于监视第一条助手消息的线程 ID。 |
+| queryParameters | ThreadMessageListQueryParameters | 用于过滤消息列表的可选查询参数。 |
 | cancellationToken | Nullable`1 | 用于取消操作的令牌。 |
 
 ### 返回值
@@ -30,12 +30,14 @@ public Task<ThreadMessageResponse> WaitForAssistantMessageAsync(string threadId,
 
 | 异常 | 条件 |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | 当线程 ID 为 null 或空时抛出。 |
+| [AIClientException](../../aiclientexception/) | 当线程 Id 为 null 或为空时抛出。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [ThreadMessageResponse](../../threadmessageresponse/)
-* 类 [ThreadMessageListQueryParameters](../../threadmessagelistqueryparameters/)
-* 接口 [IOpenAIClient](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ThreadMessageResponse](../../threadmessageresponse/)
+* class [ThreadMessageListQueryParameters](../../threadmessagelistqueryparameters/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XmpValue.ToInteger
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue 方法。转换为整数
+title: "XmpValue.ToInteger"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpValue 方法。转换为整数"
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf/xmpvalue/tointeger/
 ---
-## XmpValue.ToInteger 方法
+## XmpValue.ToInteger method
 
 转换为整数。
 
@@ -18,8 +18,10 @@ public int ToInteger()
 
 整数值。
 
-### 另请参阅
+### 另请参见
 
-* 类 [XmpValue](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

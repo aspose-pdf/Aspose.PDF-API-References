@@ -1,12 +1,12 @@
 ---
-title: FileAttachmentAnnotation.Icon
-second_title: Aspose.PDF for .NET API Reference
-description: FileAttachmentAnnotation 属性。获取或设置用于显示注释的图标
+title: "FileAttachmentAnnotation.Icon"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FileAttachmentAnnotation 属性。获取或设置用于显示注释的图标"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.annotations/fileattachmentannotation/icon/
 ---
-## FileAttachmentAnnotation.Icon 属性
+## FileAttachmentAnnotation.Icon property
 
 获取或设置用于显示注释的图标。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.annotations/fileattachmentannotation/icon/
 public FileIcon Icon { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * enum [FileIcon](../../fileicon/)
 * class [FileAttachmentAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

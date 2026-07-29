@@ -1,14 +1,14 @@
 ---
-title: Class CurveTo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.CurveTo 类。表示 c 操作符将曲线附加到路径
+title: "类 CurveTo"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Operators.CurveTo 类。表示 c 运算符向路径追加曲线的类"
 type: docs
-weight: 7240
+weight: 7380
 url: /zh/net/aspose.pdf.operators/curveto/
 ---
-## CurveTo 类
+## CurveTo class
 
-表示 c 操作符（将曲线附加到路径）。
+表示 c 操作符的类（向路径追加曲线）。
 
 ```csharp
 public class CurveTo : Operator
@@ -18,7 +18,7 @@ public class CurveTo : Operator
 
 | 名称 | 描述 |
 | --- | --- |
-| [CurveTo](curveto/)(double, double, double, double, double, double) | 初始化曲线操作符。 |
+| [CurveTo](curveto/)(double, double, double, double, double, double) | 初始化曲线运算符。 |
 
 ## 属性
 
@@ -31,7 +31,7 @@ public class CurveTo : Operator
 | 名称 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/curveto/accept/)(IOperatorSelector) | 接受访问者对象以处理操作符。 |
-| override [ToString](../../aspose.pdf.operators/curveto/tostring/)() | 返回操作符的文本表示。 |
+| override [ToString](../../aspose.pdf.operators/curveto/tostring/)() | 返回运算符的文本表示。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | 将此实例与给定对象进行比较。 |
 
 ## 字段
@@ -45,8 +45,10 @@ public class CurveTo : Operator
 | [Y2](../../aspose.pdf.operators/curveto/y2/) | 获取或设置 Y2 坐标。 |
 | [Y3](../../aspose.pdf.operators/curveto/y3/) | 获取或设置 Y3 坐标。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Operator](../../aspose.pdf/operator/)
-* 命名空间 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

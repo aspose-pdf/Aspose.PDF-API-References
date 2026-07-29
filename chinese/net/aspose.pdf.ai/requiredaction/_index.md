@@ -1,33 +1,35 @@
 ---
-title: Class RequiredAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.RequiredAction 类。有关继续运行所需的操作的详细信息。如果不需要任何操作，则为 null
+title: "类 RequiredAction"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.RequiredAction 类。提供继续运行所需操作的详细信息。如果不需要操作，则为 null。"
 type: docs
-weight: 950
+weight: 1030
 url: /zh/net/aspose.pdf.ai/requiredaction/
 ---
 ## RequiredAction class
 
-有关继续运行所需的操作的详细信息。如果不需要任何操作，则为 null。
+继续运行所需的操作详情。如果不需要操作，则为 null。
 
 ```csharp
 public class RequiredAction
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [RequiredAction](requiredaction/)() | 默认构造函数。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [RequiredActionType](../../aspose.pdf.ai/requiredaction/requiredactiontype/) { get; set; } | 获取或设置所需操作的类型。 |
+| [RequiredActionType](../../aspose.pdf.ai/requiredaction/requiredactiontype/) { get; set; } | 获取或设置所需的操作类型。 |
 | [SubmitToolOutputs](../../aspose.pdf.ai/requiredaction/submittooloutputs/) { get; set; } | 获取或设置继续此运行所需的工具输出的详细信息。 |
 
-### See Also
+### 另请参见
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

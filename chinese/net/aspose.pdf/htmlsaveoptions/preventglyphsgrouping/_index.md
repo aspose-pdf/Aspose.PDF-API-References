@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.PreventGlyphsGrouping
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions 属性。此属性切换到文本字形不会被分组为单词和字符串的模式。此模式允许在页面上保持字形定位的最大精度，并且可以用于转换包含音乐符号或应彼此分开的字形的文档。仅当 FixedLayout 属性的值为 true 时，此参数才会应用于文档。
+title: "HtmlSaveOptions.PreventGlyphsGrouping"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "HtmlSaveOptions 属性。此属性切换为文本字形不被组合成单词和字符串的模式。该模式在页面上定位字形时可保持最高精度，可用于转换包含音乐符号或需要彼此分开放置的字形的文档。仅当 FixedLayout 属性的值为 true 时，此参数才会应用于文档。"
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf/htmlsaveoptions/preventglyphsgrouping/
 ---
-## HtmlSaveOptions.PreventGlyphsGrouping 属性
+## HtmlSaveOptions.PreventGlyphsGrouping property
 
-此属性切换到文本字形不会被分组为单词和字符串的模式。此模式允许在页面上保持字形定位的最大精度，并且可以用于转换包含音乐符号或应彼此分开的字形的文档。仅当 FixedLayout 属性的值为 true 时，此参数才会应用于文档。
+此属性开启一种模式，在该模式下文本字形不会被分组为单词和字符串。此模式允许在页面上定位字形时保持最高精度，可用于转换包含音乐符号或需要相互独立放置的字形的文档。仅当 FixedLayout 属性的值为 true 时，此参数才会应用于文档。
 
 ```csharp
 public bool PreventGlyphsGrouping { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [HtmlSaveOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

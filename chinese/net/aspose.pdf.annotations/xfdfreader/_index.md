@@ -1,34 +1,34 @@
 ---
-title: Class XfdfReader
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.XfdfReader 类。执行 XFDF 格式的读取
+title: "类 XfdfReader"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.XfdfReader 类。该类执行 XFDF 格式的读取。"
 type: docs
-weight: 2740
+weight: 2840
 url: /zh/net/aspose.pdf.annotations/xfdfreader/
 ---
 ## XfdfReader class
 
-执行 XFDF 格式的读取。
+执行读取 XFDF 格式的类。
 
 ```csharp
 public sealed class XfdfReader
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [XfdfReader](xfdfreader/)() | 默认构造函数。 |
 
-## Methods
+## 方法
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| static [GetElements](../../aspose.pdf.annotations/xfdfreader/getelements/)(XmlReader) | 解析 XFDF 文件并返回信息作为哈希表。 |
+| static [GetElements](../../aspose.pdf.annotations/xfdfreader/getelements/)(XmlReader) | 解析 XFDF 文件并以哈希表形式返回信息。 |
 | static [ReadAnnotations](../../aspose.pdf.annotations/xfdfreader/readannotations/)(Stream, Document) | 从 XFDF 文件导入注释并将其放入文档中。 |
 | static [ReadFields](../../aspose.pdf.annotations/xfdfreader/readfields/)(Stream, Document) | 从 XFDF 文件导入字段值。 |
 
-## Examples
+## 示例
 
 ```csharp
 Document doc = new Document("example.pdf");
@@ -38,7 +38,9 @@ xfdfStream.Close();
 doc.Save("example_out.pdf");
 ```
 
-### See Also
+### 另请参见
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

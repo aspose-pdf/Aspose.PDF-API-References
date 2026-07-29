@@ -1,7 +1,7 @@
 ---
-title: XmpValue.XmpValue
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue 构造函数。字符串值的构造函数
+title: "XmpValue.XmpValue"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpValue 构造函数。用于字符串值的构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/xmpvalue/xmpvalue/
@@ -16,9 +16,9 @@ public XmpValue(string value)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | String | 字符串值。 |
+| 值 | String | 字符串值。 |
 
-### 另见
+### 另请参见
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -36,9 +36,9 @@ public XmpValue(int value)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Int32 | 整数值。 |
+| 值 | Int32 | 整数值。 |
 
-### 另见
+### 另请参见
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -56,9 +56,9 @@ public XmpValue(double value)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | Double | 双精度值。 |
+| 值 | Double | Double 值。 |
 
-### 另见
+### 另请参见
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -76,9 +76,9 @@ public XmpValue(DateTime value)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | DateTime | 日期时间值。 |
+| 值 | DateTime | 日期时间值。 |
 
-### 另见
+### 另请参见
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -96,10 +96,12 @@ public XmpValue(XmpValue[] array)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| array | XmpValue[] | 数组值。 |
+| 数组 | XmpValue[] | 数组值。 |
 
-### 另见
+### 另请参见
 
 * class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

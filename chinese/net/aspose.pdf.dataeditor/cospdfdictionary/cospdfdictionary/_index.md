@@ -1,14 +1,14 @@
 ---
-title: CosPdfDictionary.CosPdfDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: CosPdfDictionary 构造函数。根据资源创建字典
+title: "CosPdfDictionary.CosPdfDictionary"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CosPdfDictionary 构造函数。创建一个来自资源的字典"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.dataeditor/cospdfdictionary/cospdfdictionary/
 ---
-## CosPdfDictionary 构造函数
+## CosPdfDictionary constructor
 
-根据资源创建字典。
+从资源创建字典。
 
 ```csharp
 public CosPdfDictionary(Resources resources)
@@ -16,7 +16,7 @@ public CosPdfDictionary(Resources resources)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| resources | Resources | 用于工作的字典资源。 |
+| 资源 | 资源 | 用于工作的包含字典的资源。 |
 
 ### 异常
 
@@ -24,9 +24,11 @@ public CosPdfDictionary(Resources resources)
 | --- | --- |
 | ArgumentNullException | 资源为 null。 |
 
-### 另见
+### 另请参见
 
-* 类 [Resources](../../../aspose.pdf/resources/)
-* 类 [CosPdfDictionary](../)
-* 命名空间 [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Resources](../../../aspose.pdf/resources/)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* assembly [Aspose.PDF](../../../)
+
+

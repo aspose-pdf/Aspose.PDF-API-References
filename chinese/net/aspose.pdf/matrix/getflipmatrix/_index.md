@@ -1,12 +1,12 @@
 ---
-title: Matrix.GetFlipMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: 矩阵方法。获取翻转矩阵
+title: "Matrix.GetFlipMatrix"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Matrix 方法。获取翻转矩阵"
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf/matrix/getflipmatrix/
 ---
-## Matrix.GetFlipMatrix 方法
+## Matrix.GetFlipMatrix method
 
 获取翻转矩阵。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/matrix/getflipmatrix/
 public Matrix GetFlipMatrix()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Matrix](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

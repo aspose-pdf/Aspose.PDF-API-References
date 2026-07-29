@@ -1,21 +1,23 @@
 ---
-title: DecryptionOptions.OwnerPassword
-second_title: Aspose.PDF for .NET API Reference
-description: 解密选项属性。所有者密码
+title: "DecryptionOptions.OwnerPassword"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "DecryptionOptions 属性。所有者密码"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.plugins/decryptionoptions/ownerpassword/
 ---
-## DecryptionOptions.OwnerPassword 属性
+## DecryptionOptions.OwnerPassword property
 
-拥有者密码。
+所有者密码。
 
 ```csharp
 public string OwnerPassword { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [DecryptionOptions](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DecryptionOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

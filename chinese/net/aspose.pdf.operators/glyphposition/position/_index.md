@@ -1,21 +1,23 @@
 ---
-title: GlyphPosition.Position
-second_title: Aspose.PDF for .NET API Reference
-description: GlyphPosition 属性。操作符中的文本位置
+title: "GlyphPosition.Position"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GlyphPosition 属性。操作符中文本的位置偏移"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.operators/glyphposition/position/
 ---
-## GlyphPosition.Position 属性
+## GlyphPosition.Position property
 
-操作符中的文本位置。
+操作符中相对于文本的偏移位置。
 
 ```csharp
 public double Position { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [GlyphPosition](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [GlyphPosition](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

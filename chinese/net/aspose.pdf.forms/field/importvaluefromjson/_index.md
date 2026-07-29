@@ -1,14 +1,14 @@
 ---
-title: Field.ImportValueFromJson
-second_title: Aspose.PDF for .NET API Reference
-description: 字段方法。从 JSON 流中根据字段全名的精确匹配将数据导入指定字段
+title: "Field.ImportValueFromJson"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Field 方法。从 JSON 流中导入数据到指定字段，基于字段完整名称的精确匹配。"
 type: docs
 weight: 210
 url: /zh/net/aspose.pdf.forms/field/importvaluefromjson/
 ---
 ## ImportValueFromJson(Stream) {#importvaluefromjson}
 
-从 JSON 流中根据字段的全名的精确匹配将数据导入指定字段。
+从 JSON 流中导入数据到指定字段，基于字段完整名称的精确匹配。
 
 ```csharp
 public bool ImportValueFromJson(Stream inputJsonStream)
@@ -16,11 +16,11 @@ public bool ImportValueFromJson(Stream inputJsonStream)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| inputJsonStream | Stream | 包含要导入到字段中的字段数据的输入 JSON 流。 |
+| inputJsonStream | Stream | 包含要导入到字段的字段数据的输入 JSON 流。 |
 
 ### 返回值
 
-如果在 JSON 流中找到字段，则为真；否则为假
+如果在 JSON 流中找到字段则为 True；否则为 false
 
 ## 示例
 
@@ -33,17 +33,17 @@ fs.Close();
 document.Save();
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Field](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportValueFromJson(Stream, string) {#importvaluefromjson_1}
 
-从 JSON 流中将数据导入指定字段，使用 'fieldFullNameInJSON' 变量中指定的全名进行匹配。
+从 JSON 流中导入数据到指定字段，使用 'fieldFullNameInJSON' 变量中指定的完整名称进行匹配。
 
 ```csharp
 public bool ImportValueFromJson(Stream inputJsonStream, string fieldFullNameInJSON)
@@ -51,12 +51,12 @@ public bool ImportValueFromJson(Stream inputJsonStream, string fieldFullNameInJS
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| inputJsonStream | Stream | 包含要导入到字段中的字段数据的输入 JSON 流。 |
-| fieldFullNameInJSON | String | JSON 流中用于匹配的数据名称。如果 JSON 流中的数据具有嵌套结构，则应使用 '.' 分隔所有父项和子项来指定全名。 |
+| inputJsonStream | Stream | 包含要导入到字段的字段数据的输入 JSON 流。 |
+| fieldFullNameInJSON | String | 用于匹配的 JSON 流中数据的名称。如果 JSON 流中的数据具有嵌套结构，则应使用由 '.' 分隔的所有父项和子项的完整名称。 |
 
 ### 返回值
 
-如果在 JSON 文件中找到字段，则为真；否则为假
+如果在 json 文件中找到该字段则为 True；否则为 false。
 
 ## 示例
 
@@ -69,8 +69,10 @@ fs.Close();
 document.Save();
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Field](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

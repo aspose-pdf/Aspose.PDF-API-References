@@ -1,14 +1,14 @@
 ---
-title: Rectangle.ToRect
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle 方法。将矩形转换为 System.Drawing.Rectangle 的实例。浮点位置和大小被截断
+title: "Rectangle.ToRect"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Rectangle 方法。将矩形转换为 System.Drawing.Rectangle 的实例。浮点位置和大小会被截断"
 type: docs
 weight: 280
 url: /zh/net/aspose.pdf/rectangle/torect/
 ---
-## Rectangle.ToRect 方法
+## Rectangle.ToRect method
 
-将矩形转换为 System.Drawing.Rectangle 的实例。浮点位置和大小被截断。
+将矩形转换为 System.Drawing.Rectangle 实例。浮点位置和尺寸将被截断。
 
 ```csharp
 public Rectangle ToRect()
@@ -18,8 +18,10 @@ public Rectangle ToRect()
 
 转换的结果。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Rectangle](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

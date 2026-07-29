@@ -1,12 +1,12 @@
 ---
-title: RunStepDetails.RunStepDetails
-second_title: Aspose.PDF for .NET API Reference
-description: RunStepDetails 构造函数。默认构造函数
+title: "RunStepDetails.RunStepDetails"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "RunStepDetails 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/runstepdetails/runstepdetails/
 ---
-## RunStepDetails 构造函数
+## RunStepDetails constructor
 
 默认构造函数。
 
@@ -16,6 +16,8 @@ public RunStepDetails()
 
 ### 另请参见
 
-* 类 [RunStepDetails](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [RunStepDetails](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

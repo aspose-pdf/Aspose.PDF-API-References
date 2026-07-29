@@ -1,12 +1,12 @@
 ---
-title: SelectFont.SelectFont
-second_title: Aspose.PDF for .NET API Reference
-description: SelectFont 构造函数。初始化操作符
+title: "SelectFont.SelectFont"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SelectFont 构造函数。初始化操作符"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/selectfont/selectfont/
 ---
-## SelectFont 构造函数
+## SelectFont constructor
 
 初始化操作符。
 
@@ -16,11 +16,13 @@ public SelectFont(string resName, double size)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| resName | 字符串 | 字体资源的名称，例如 F1, F2 等。 |
-| size | 双精度 | 字体的大小。 |
+| resName | String | 字体资源的名称，例如 F1、F2 等。 |
+| 大小 | Double | 字体的大小。 |
 
-### 另见
+### 另请参见
 
-* 类 [SelectFont](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SelectFont](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

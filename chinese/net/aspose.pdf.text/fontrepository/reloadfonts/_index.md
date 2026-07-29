@@ -1,21 +1,23 @@
 ---
-title: FontRepository.ReloadFonts
-second_title: Aspose.PDF for .NET API Reference
-description: FontRepository 方法。重新加载由属性 Sources 指定的所有字体
+title: "FontRepository.ReloadFonts"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FontRepository 方法。重新加载属性 Sources 指定的所有字体。"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.text/fontrepository/reloadfonts/
 ---
-## FontRepository.ReloadFonts 方法
+## FontRepository.ReloadFonts method
 
-重新加载由属性 [`Sources`](../sources/) 指定的所有字体
+重新加载属性 [`Sources`](../sources/) 指定的所有字体。
 
 ```csharp
 public static void ReloadFonts()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FontRepository](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

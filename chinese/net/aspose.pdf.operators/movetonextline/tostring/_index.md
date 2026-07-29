@@ -1,14 +1,14 @@
 ---
-title: MoveToNextLine.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: MoveToNextLine 方法。返回操作符的文本
+title: "MoveToNextLine.ToString"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MoveToNextLine 方法。返回操作符的文本"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.operators/movetonextline/tostring/
 ---
-## MoveToNextLine.ToString 方法
+## MoveToNextLine.ToString method
 
-返回操作符的文本。
+返回运算符的文本。
 
 ```csharp
 public override string ToString()
@@ -18,8 +18,10 @@ public override string ToString()
 
 操作符的文本表示。
 
-### 另见
+### 另请参见
 
-* 类 [MoveToNextLine](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [MoveToNextLine](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

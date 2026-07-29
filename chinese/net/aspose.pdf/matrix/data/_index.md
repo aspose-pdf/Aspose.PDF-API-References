@@ -1,21 +1,23 @@
 ---
-title: Matrix.Data
-second_title: Aspose.PDF for .NET API Reference
-description: 矩阵属性。获取矩阵的数据作为数组
+title: "Matrix.Data"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Matrix 属性。获取 Matrix 作为数组的数据。"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf/matrix/data/
 ---
-## Matrix.Data 属性
+## Matrix.Data property
 
-获取矩阵的数据作为数组。
+获取 Matrix 数据为数组。
 
 ```csharp
 public double[] Data { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Matrix](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

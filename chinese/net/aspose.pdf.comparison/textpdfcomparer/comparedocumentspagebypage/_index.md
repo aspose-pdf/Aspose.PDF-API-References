@@ -1,7 +1,7 @@
 ---
-title: TextPdfComparer.CompareDocumentsPageByPage
-second_title: Aspose.PDF for .NET API Reference
-description: TextPdfComparer 方法。逐页比较两个文档
+title: "TextPdfComparer.CompareDocumentsPageByPage"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextPdfComparer 方法。逐页比较两个文档"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.comparison/textpdfcomparer/comparedocumentspagebypage/
@@ -18,12 +18,12 @@ public static List<List<DiffOperation>> CompareDocumentsPageByPage(Document docu
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | document1 | Document | 第一个文档.. |
-| document2 | Document | 第二个文档. |
-| options | ComparisonOptions | 比较选项. |
+| document2 | Document | 第二个文档。 |
+| options | ComparisonOptions | 比较选项。 |
 
 ### 返回值
 
-按页列出更改.
+按页列出的更改。
 
 ### 另请参见
 
@@ -48,13 +48,13 @@ public static List<List<DiffOperation>> CompareDocumentsPageByPage(Document docu
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | document1 | Document | 第一个文档.. |
-| document2 | Document | 第二个文档. |
-| options | ComparisonOptions | 比较选项. |
-| resultPdfDocumentPath | String | 保存比较结果的 PDF 文件路径. |
+| document2 | Document | 第二个文档。 |
+| options | ComparisonOptions | 比较选项。 |
+| resultPdfDocumentPath | String | 用于保存比较结果的 pdf 文件路径。 |
 
 ### 返回值
 
-按页列出更改.
+按页列出的更改。
 
 ### 另请参见
 
@@ -64,3 +64,5 @@ public static List<List<DiffOperation>> CompareDocumentsPageByPage(Document docu
 * class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

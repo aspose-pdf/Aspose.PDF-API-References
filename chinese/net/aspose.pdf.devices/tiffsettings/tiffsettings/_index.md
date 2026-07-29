@@ -1,7 +1,7 @@
 ---
-title: TiffSettings.TiffSettings
-second_title: Aspose.PDF for .NET API Reference
-description: TiffSettings 构造函数。初始化 TiffSettings 类的新实例
+title: "TiffSettings.TiffSettings"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TiffSettings 构造函数。初始化 TiffSettings 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.devices/tiffsettings/tiffsettings/
@@ -16,9 +16,9 @@ public TiffSettings()
 
 ### 另请参见
 
-* 类 [TiffSettings](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -36,10 +36,10 @@ public TiffSettings(ShapeType shapeType)
 
 ### 另请参见
 
-* 枚举 [ShapeType](../../shapetype/)
-* 类 [TiffSettings](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [ShapeType](../../shapetype/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -53,14 +53,14 @@ public TiffSettings(CompressionType compressionType)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| compressionType | CompressionType | 压缩的类型。 |
+| compressionType | CompressionType | 压缩类型。 |
 
 ### 另请参见
 
-* 枚举 [CompressionType](../../compressiontype/)
-* 类 [TiffSettings](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [CompressionType](../../compressiontype/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -78,10 +78,10 @@ public TiffSettings(ColorDepth colorDepth)
 
 ### 另请参见
 
-* 枚举 [ColorDepth](../../colordepth/)
-* 类 [TiffSettings](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [ColorDepth](../../colordepth/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -99,10 +99,10 @@ public TiffSettings(Margins margins)
 
 ### 另请参见
 
-* 类 [Margins](../../margins/)
-* 类 [TiffSettings](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Margins](../../margins/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -116,18 +116,18 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| compressionType | CompressionType | 压缩的类型。 |
+| compressionType | CompressionType | 压缩类型。 |
 | colorDepth | ColorDepth | 颜色深度。 |
 | margins | Margins | 边距。 |
 
 ### 另请参见
 
-* 枚举 [CompressionType](../../compressiontype/)
-* 枚举 [ColorDepth](../../colordepth/)
-* 类 [Margins](../../margins/)
-* 类 [TiffSettings](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [CompressionType](../../compressiontype/)
+* enum [ColorDepth](../../colordepth/)
+* class [Margins](../../margins/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -142,19 +142,19 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| compressionType | CompressionType | 压缩的类型。 |
+| compressionType | CompressionType | 压缩类型。 |
 | colorDepth | ColorDepth | 颜色深度。 |
 | margins | Margins | 边距。 |
-| skipBlankPages | Boolean | 如果设置为 `true`，则需要跳过空白页面。 |
+| skipBlankPages | Boolean | 如果设置为 `true`，需要跳过空白页。 |
 
 ### 另请参见
 
-* 枚举 [CompressionType](../../compressiontype/)
-* 枚举 [ColorDepth](../../colordepth/)
-* 类 [Margins](../../margins/)
-* 类 [TiffSettings](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [CompressionType](../../compressiontype/)
+* enum [ColorDepth](../../colordepth/)
+* class [Margins](../../margins/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -169,21 +169,21 @@ public TiffSettings(CompressionType compressionType, ColorDepth colorDepth, Marg
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| compressionType | CompressionType | 压缩的类型。 |
+| compressionType | CompressionType | 压缩类型。 |
 | colorDepth | ColorDepth | 颜色深度。 |
 | margins | Margins | 边距。 |
-| skipBlankPages | Boolean | 如果设置为 `true`，则需要跳过空白页面。 |
+| skipBlankPages | Boolean | 如果设置为 `true`，需要跳过空白页。 |
 | shapeType | ShapeType | 形状的类型。 |
 
 ### 另请参见
 
-* 枚举 [CompressionType](../../compressiontype/)
-* 枚举 [ColorDepth](../../colordepth/)
-* 类 [Margins](../../margins/)
-* 枚举 [ShapeType](../../shapetype/)
-* 类 [TiffSettings](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [CompressionType](../../compressiontype/)
+* enum [ColorDepth](../../colordepth/)
+* class [Margins](../../margins/)
+* enum [ShapeType](../../shapetype/)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -197,10 +197,12 @@ public TiffSettings(bool skipBlankPages)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| skipBlankPages | Boolean | 如果设置为 `true` [跳过空白页面]。 |
+| skipBlankPages | Boolean | 如果设置为 `true` [跳过空白页]。 |
 
 ### 另请参见
 
-* 类 [TiffSettings](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TiffSettings](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

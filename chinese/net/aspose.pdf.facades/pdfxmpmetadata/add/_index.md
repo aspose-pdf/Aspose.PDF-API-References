@@ -1,7 +1,7 @@
 ---
-title: PdfXmpMetadata.Add
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata 方法。向 XMP 元数据添加值
+title: "PdfXmpMetadata.Add"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfXmpMetadata 方法。向 XMP 元数据添加值。"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.facades/pdfxmpmetadata/add/
@@ -16,8 +16,8 @@ public void Add(DefaultMetadataProperties key, XmpValue value)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| key | DefaultMetadataProperties | 键名称。 |
-| value | XmpValue | 将要添加的值。 |
+| 键 | DefaultMetadataProperties | 键名。 |
+| 值 | XmpValue | 将要添加的值。 |
 
 ## 示例
 
@@ -40,7 +40,7 @@ xmp.Save(TestSettings.GetOutputFile("XMP_AddedValue.pdf"));
 
 ## Add(XmpPdfAExtensionObject, string, string, string) {#add_1}
 
-向元数据添加扩展字段。
+向元数据中添加扩展字段。
 
 ```csharp
 public void Add(XmpPdfAExtensionObject xmpPdfAExtensionObject, string namespacePrefix, 
@@ -51,8 +51,8 @@ public void Add(XmpPdfAExtensionObject xmpPdfAExtensionObject, string namespaceP
 | --- | --- | --- |
 | xmpPdfAExtensionObject | XmpPdfAExtensionObject | 要添加的 pdf 扩展对象。 |
 | namespacePrefix | String | 模式的前缀。 |
-| namespaceUri | String | 模式的命名空间 URI。 |
-| schemaDescription | String | 模式的可选描述。 |
+| namespaceUri | String | 架构的命名空间 URI。 |
+| schemaDescription | String | 架构的可选描述。 |
 
 ### 另请参见
 
@@ -73,8 +73,8 @@ public void Add(string key, XmpValue value)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 新元素的键。 |
-| value | XmpValue | 元素的值。 |
+| 键 | String | 新元素的键。 |
+| 值 | XmpValue | 元素的值。 |
 
 ## 示例
 
@@ -103,8 +103,8 @@ public void Add(string key, object value)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 新元素的键。 |
-| value | Object | 元素的值。 |
+| 键 | String | 新元素的键。 |
+| 值 | 对象 | 元素的值。 |
 
 ### 另请参见
 
@@ -116,7 +116,7 @@ public void Add(string key, object value)
 
 ## Add(KeyValuePair&lt;string, XmpValue&gt;) {#add_2}
 
-向字典中添加键值对。
+向字典中添加键和值对。
 
 ```csharp
 public void Add(KeyValuePair<string, XmpValue> item)
@@ -124,7 +124,7 @@ public void Add(KeyValuePair<string, XmpValue> item)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| item | KeyValuePair`2 | 要添加的项。 |
+| item | KeyValuePair`2 | 待添加的项。 |
 
 ### 另请参见
 
@@ -132,3 +132,5 @@ public void Add(KeyValuePair<string, XmpValue> item)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class EMC
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.EMC 类。表示 EMC 操作符（标记内容序列的结束）。
+title: "类 EMC"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Operators.EMC 类。类表示 EMC 操作符——标记内容序列的结束"
 type: docs
-weight: 7300
+weight: 7440
 url: /zh/net/aspose.pdf.operators/emc/
 ---
-## EMC 类
+## EMC class
 
-表示 EMC 操作符（标记内容序列的结束）。
+表示 EMC 操作符的类（End of marked-content sequence）。
 
 ```csharp
 public class EMC : Operator
@@ -31,11 +31,13 @@ public class EMC : Operator
 | 名称 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/emc/accept/)(IOperatorSelector) | 接受访问者对象以处理操作符。 |
-| override [ToString](../../aspose.pdf.operators/emc/tostring/)() | 返回操作符的文本表示。 |
+| override [ToString](../../aspose.pdf.operators/emc/tostring/)() | 返回运算符的文本表示。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | 将此实例与给定对象进行比较。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Operator](../../aspose.pdf/operator/)
-* 命名空间 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

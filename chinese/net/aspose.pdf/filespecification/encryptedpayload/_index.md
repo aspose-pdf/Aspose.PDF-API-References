@@ -1,22 +1,24 @@
 ---
-title: FileSpecification.EncryptedPayload
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification 属性。获取加密负载
+title: "FileSpecification.EncryptedPayload"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FileSpecification 属性。获取加密的有效负载"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf/filespecification/encryptedpayload/
 ---
-## FileSpecification.EncryptedPayload 属性
+## FileSpecification.EncryptedPayload property
 
-获取加密负载。
+获取加密的负载。
 
 ```csharp
 public EncryptedPayload EncryptedPayload { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [EncryptedPayload](../../encryptedpayload/)
-* 类 [FileSpecification](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [EncryptedPayload](../../encryptedpayload/)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

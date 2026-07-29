@@ -1,12 +1,12 @@
 ---
-title: PDF3DViewArray.RemoveAll
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DViewArray 方法。移除所有视图
+title: "PDF3DViewArray.RemoveAll"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PDF3DViewArray 方法。移除所有视图"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.annotations/pdf3dviewarray/removeall/
 ---
-## PDF3DViewArray.RemoveAll 方法
+## PDF3DViewArray.RemoveAll method
 
 移除所有视图。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.annotations/pdf3dviewarray/removeall/
 public void RemoveAll()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PDF3DViewArray](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PDF3DViewArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

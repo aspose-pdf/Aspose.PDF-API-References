@@ -1,12 +1,12 @@
 ---
-title: TextExtractionError.Description
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractionError 属性。错误的详细描述
+title: "TextExtractionError.Description"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextExtractionError 属性。错误的扩展描述"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/textextractionerror/description/
 ---
-## TextExtractionError.Description 属性
+## TextExtractionError.Description property
 
 错误的详细描述。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.text/textextractionerror/description/
 public string Description { get; }
 ```
 
-### 另见
+### 另请参见
 
-* 类 [TextExtractionError](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextExtractionError](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

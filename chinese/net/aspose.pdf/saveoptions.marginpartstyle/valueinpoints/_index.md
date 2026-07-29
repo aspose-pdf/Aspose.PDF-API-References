@@ -1,21 +1,23 @@
 ---
-title: SaveOptions.MarginPartStyle.ValueInPoints
-second_title: Aspose.PDF for .NET API Reference
-description: MarginPartStyle 属性。表示以点为单位的边距。必须是大于零的数字
+title: "SaveOptions.MarginPartStyle.ValueInPoints"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MarginPartStyle 属性。表示以点为单位的边距。必须是大于零的数字"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/saveoptions.marginpartstyle/valueinpoints/
 ---
-## SaveOptions.MarginPartStyle.ValueInPoints 属性
+## SaveOptions.MarginPartStyle.ValueInPoints property
 
-表示以点为单位的边距。必须是大于零的数字。
+表示以点为单位的页边距。必须是大于零的数字。
 
 ```csharp
 public int ValueInPoints { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [MarginPartStyle](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [MarginPartStyle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

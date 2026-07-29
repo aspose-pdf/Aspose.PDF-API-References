@@ -1,7 +1,7 @@
 ---
-title: Tool.Tool
-second_title: Aspose.PDF for .NET API Reference
-description: Tool 构造函数。初始化 Tool 类的新实例
+title: "Tool.Tool"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Tool 构造函数。初始化 Tool 类的新实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/tool/tool/
@@ -16,9 +16,9 @@ public Tool()
 
 ### 另请参见
 
-* 类 [Tool](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -32,19 +32,19 @@ public Tool(string toolType)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| toolType | 字符串 | 工具的类型。 |
+| toolType | String | 工具的类型。 |
 
 ### 另请参见
 
-* 类 [Tool](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Tool(Function) {#constructor_1}
 
-使用指定的功能初始化 [`Tool`](../) 类的新实例。
+使用指定的函数初始化 [`Tool`](../) 类的新实例。
 
 ```csharp
 public Tool(Function function)
@@ -52,11 +52,13 @@ public Tool(Function function)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| function | 功能 | 模型可以调用的功能。 |
+| function | Function | 模型可以调用的函数。 |
 
 ### 另请参见
 
-* 类 [Function](../../function/)
-* 类 [Tool](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Function](../../function/)
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

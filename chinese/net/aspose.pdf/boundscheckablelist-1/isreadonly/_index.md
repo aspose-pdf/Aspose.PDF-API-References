@@ -1,12 +1,12 @@
 ---
-title: BoundsCheckableList1.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList 属性。获取指示集合是否为只读的值
+title: "BoundsCheckableList1.IsReadOnly"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BoundsCheckableList 属性。获取指示集合是否为只读的值"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/boundscheckablelist-1/isreadonly/
 ---
-## BoundsCheckableList&lt;T&gt;.IsReadOnly 属性
+## BoundsCheckableList&lt;T&gt;.IsReadOnly property
 
 获取指示集合是否为只读的值。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/boundscheckablelist-1/isreadonly/
 public bool IsReadOnly { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [BoundsCheckableList&lt;T&gt;](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

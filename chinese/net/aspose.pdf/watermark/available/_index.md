@@ -1,12 +1,12 @@
 ---
-title: Watermark.Available
-second_title: Aspose.PDF for .NET API Reference
-description: 水印属性。获取水印是否存在的标志
+title: "Watermark.Available"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Watermark 属性。获取指示水印是否存在的标志。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/watermark/available/
 ---
-## 水印.可用属性
+## Watermark.Available property
 
 获取水印是否存在的标志。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/watermark/available/
 public bool Available { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Watermark](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Watermark](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: LlamaSummaryCopilotOptions.GetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaSummaryCopilotOptions 方法。获取当前的 LlamaSummaryCopilotOptions
+title: "LlamaSummaryCopilotOptions.GetOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "LlamaSummaryCopilotOptions 方法。获取当前的 LlamaSummaryCopilotOptions。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.ai/llamasummarycopilotoptions/getoptions/
 ---
-## LlamaSummaryCopilotOptions.GetOptions 方法
+## LlamaSummaryCopilotOptions.GetOptions method
 
 获取当前的 [`LlamaSummaryCopilotOptions`](../)。
 
@@ -16,10 +16,12 @@ public LlamaSummaryCopilotOptions GetOptions()
 
 ### 返回值
 
-当前实例的 [`LlamaSummaryCopilotOptions`](../)。
+当前的 [`LlamaSummaryCopilotOptions`](../) 实例。
 
-### 另请参阅
+### 另请参见
 
-* 类 [LlamaSummaryCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

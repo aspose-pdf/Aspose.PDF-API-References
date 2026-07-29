@@ -1,21 +1,23 @@
 ---
-title: PdfXmpMetadata.IsFixedSize
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata 属性。返回集合是否具有固定大小
+title: "PdfXmpMetadata.IsFixedSize"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfXmpMetadata 属性。返回 true 表示集合具有固定大小"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.facades/pdfxmpmetadata/isfixedsize/
 ---
-## PdfXmpMetadata.IsFixedSize 属性
+## PdfXmpMetadata.IsFixedSize property
 
-返回集合是否具有固定大小。
+如果集合具有固定大小，则返回 true。
 
 ```csharp
 public bool IsFixedSize { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfXmpMetadata](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

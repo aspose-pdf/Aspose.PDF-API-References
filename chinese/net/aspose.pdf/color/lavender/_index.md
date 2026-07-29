@@ -1,14 +1,14 @@
 ---
-title: Color.Lavender
-second_title: Aspose.PDF for .NET API Reference
-description: 颜色属性。获取一个具有 ARGB 值 c FFE6E6FA 的系统定义颜色
+title: "Color.Lavender"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Color 属性。获取系统定义的颜色，其 ARGB 值为 c FFE6E6FA"
 type: docs
 weight: 610
 url: /zh/net/aspose.pdf/color/lavender/
 ---
-## Color.Lavender 属性
+## Color.Lavender property
 
-获取一个具有 ARGB 值的系统定义颜色 \c \#FFE6E6FA。
+获取系统定义的颜色，其 ARGB 值为 \c \#FFE6E6FA。
 
 ```csharp
 public static Color Lavender { get; }
@@ -16,10 +16,12 @@ public static Color Lavender { get; }
 
 ### 返回值
 
-表示一个系统定义颜色的 A。
+A 表示系统定义的颜色。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Color](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

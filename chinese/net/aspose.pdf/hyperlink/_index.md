@@ -1,12 +1,12 @@
 ---
-title: Class Hyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Hyperlink 类。表示抽象超链接
+title: "类 Hyperlink"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Hyperlink 类。表示抽象超链接"
 type: docs
-weight: 5740
+weight: 5870
 url: /zh/net/aspose.pdf/hyperlink/
 ---
-## 超链接类
+## Hyperlink class
 
 表示抽象超链接。
 
@@ -14,7 +14,9 @@ url: /zh/net/aspose.pdf/hyperlink/
 public abstract class Hyperlink
 ```
 
-### 另见
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.Builder.WithApiVersion
-second_title: Aspose.PDF for .NET API Reference
-description: 构建器方法。设置客户端的 API 版本
+title: "OpenAIClient.Builder.WithApiVersion"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Builder 方法。为客户端设置 API 版本"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.ai/openaiclient.builder/withapiversion/
 ---
-## OpenAIClient.Builder.WithApiVersion 方法
+## OpenAIClient.Builder.WithApiVersion method
 
 设置客户端的 API 版本。
 
@@ -16,14 +16,16 @@ public Builder WithApiVersion(string apiVersion)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| apiVersion | 字符串 | 要设置的 API 版本。 |
+| apiVersion | String | 要设置的 API 版本。 |
 
 ### 返回值
 
-当前 [`Builder`](../) 实例。
+当前的 [`Builder`](../) 实例。
 
-### 另见
+### 另请参见
 
-* 类 [Builder](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Builder](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

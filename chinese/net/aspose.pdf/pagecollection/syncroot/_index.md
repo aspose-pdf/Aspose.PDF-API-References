@@ -1,12 +1,12 @@
 ---
-title: PageCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection 属性。获取集合的同步对象
+title: "PageCollection.SyncRoot"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PageCollection 属性。获取集合的同步对象"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/pagecollection/syncroot/
 ---
-## PageCollection.SyncRoot 属性
+## PageCollection.SyncRoot property
 
 获取集合的同步对象。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/pagecollection/syncroot/
 public object SyncRoot { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PageCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

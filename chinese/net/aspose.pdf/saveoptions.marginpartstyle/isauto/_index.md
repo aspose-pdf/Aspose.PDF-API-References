@@ -1,12 +1,12 @@
 ---
-title: SaveOptions.MarginPartStyle.IsAuto
-second_title: Aspose.PDF for .NET API Reference
-description: MarginPartStyle 属性。获取或设置一个值，指示此实例是否为自动
+title: "SaveOptions.MarginPartStyle.IsAuto"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MarginPartStyle 属性。获取或设置指示此实例是否为自动的值"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/saveoptions.marginpartstyle/isauto/
 ---
-## SaveOptions.MarginPartStyle.IsAuto 属性
+## SaveOptions.MarginPartStyle.IsAuto property
 
 获取或设置一个值，指示此实例是否为自动。
 
@@ -14,12 +14,14 @@ url: /zh/net/aspose.pdf/saveoptions.marginpartstyle/isauto/
 public bool IsAuto { get; set; }
 ```
 
-### 属性值
+### Property Value
 
-`true` 如果此实例为自动；否则，`false`。
+`true` 如果此实例为自动；否则为 `false`。
 
-### 另请参阅
+### 另请参见
 
-* 类 [MarginPartStyle](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [MarginPartStyle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

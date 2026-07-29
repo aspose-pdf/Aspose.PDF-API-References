@@ -1,20 +1,22 @@
 ---
-title: TableElement.AdjustPosition
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement 方法。
+title: "TableElement.AdjustPosition"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TableElement 方法。"
 type: docs
 weight: 190
 url: /zh/net/aspose.pdf.logicalstructure/tableelement/adjustposition/
 ---
-## TableElement.AdjustPosition 方法
+## TableElement.AdjustPosition method
 
 ```csharp
 public void AdjustPosition(PositionSettings positionSettings)
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PositionSettings](../../../aspose.pdf.tagged/positionsettings/)
-* 类 [TableElement](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PositionSettings](../../../aspose.pdf.tagged/positionsettings/)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

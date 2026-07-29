@@ -1,21 +1,23 @@
 ---
-title: GraphInfo.SkewAngleX
-second_title: Aspose.PDF for .NET API Reference
-description: GraphInfo 属性。获取或设置一个浮点值，该值指示在转换坐标系统时 x 坐标的倾斜角度
+title: "GraphInfo.SkewAngleX"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GraphInfo 属性。获取或设置一个浮点值，用于指示在转换坐标系时 x 坐标的倾斜角度"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf/graphinfo/skewanglex/
 ---
-## GraphInfo.SkewAngleX 属性
+## GraphInfo.SkewAngleX property
 
-获取或设置一个浮点值，该值指示在转换坐标系统时 x 坐标的倾斜角度。
+获取或设置一个浮点值，指示在转换坐标系时 x 坐标的倾斜角度。
 
 ```csharp
 public double SkewAngleX { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [GraphInfo](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

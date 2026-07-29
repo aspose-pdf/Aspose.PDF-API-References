@@ -1,14 +1,14 @@
 ---
-title: BoundsCheckableList1.RemoveAt
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList 方法。移除 System.Collections.Generic.List 中指定索引的元素
+title: "BoundsCheckableList1.RemoveAt"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BoundsCheckableList 方法。移除 System.Collections.Generic.List 中指定索引处的元素"
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.generator/boundscheckablelist-1/removeat/
 ---
-## BoundsCheckableList&lt;T&gt;.RemoveAt 方法
+## BoundsCheckableList&lt;T&gt;.RemoveAt method
 
-移除 System.Collections.Generic.List 中指定索引的元素。
+移除 System.Collections.Generic.List 中指定索引处的元素。
 
 ```csharp
 public void RemoveAt(int index)
@@ -22,10 +22,12 @@ public void RemoveAt(int index)
 
 | 异常 | 条件 |
 | --- | --- |
-| ArgumentOutOfRangeException | *index* 小于 0。 -或- *index* 等于或大于 Count。 |
+| ArgumentOutOfRangeException | *index* 小于 0。-or- *index* 等于或大于 Count。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [BoundsCheckableList&lt;T&gt;](../)
-* 命名空间 [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
+* assembly [Aspose.PDF](../../../)
+
+

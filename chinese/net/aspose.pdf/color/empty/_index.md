@@ -1,12 +1,12 @@
 ---
-title: Color.Empty
-second_title: Aspose.PDF for .NET API Reference
-description: 颜色字段。表示空颜色
+title: "Color.Empty"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Color 字段。表示空颜色"
 type: docs
 weight: 1430
 url: /zh/net/aspose.pdf/color/empty/
 ---
-## Color.Empty 字段
+## Color.Empty field
 
 表示空颜色。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/color/empty/
 public static Color Empty;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Color](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

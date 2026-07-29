@@ -1,12 +1,12 @@
 ---
-title: TextExtractionError.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractionError 方法。返回字符串表示
+title: "TextExtractionError.ToString"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextExtractionError 方法。返回字符串表示"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.text/textextractionerror/tostring/
 ---
-## TextExtractionError.ToString 方法
+## TextExtractionError.ToString method
 
 返回字符串表示。
 
@@ -18,8 +18,10 @@ public override string ToString()
 
 字符串表示。
 
-### 另见
+### 另请参见
 
-* 类 [TextExtractionError](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextExtractionError](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

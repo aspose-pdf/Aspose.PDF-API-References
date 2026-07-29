@@ -1,21 +1,23 @@
 ---
-title: PageInfo.PureHeight
-second_title: Aspose.PDF for .NET API Reference
-description: PageInfo 属性。获取或设置页面纯高度，不包括边距
+title: "PageInfo.PureHeight"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PageInfo 属性。获取或设置不含边距的页面纯高度"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf/pageinfo/pureheight/
 ---
-## PageInfo.PureHeight 属性
+## PageInfo.PureHeight property
 
-获取或设置页面纯高度，不包括边距。
+获取或设置不含边距的 page 纯高度。
 
 ```csharp
 public double PureHeight { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PageInfo](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

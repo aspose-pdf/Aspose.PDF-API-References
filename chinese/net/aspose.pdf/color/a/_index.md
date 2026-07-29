@@ -1,21 +1,23 @@
 ---
-title: Color.A
-second_title: Aspose.PDF for .NET API Reference
-description: 颜色属性。获取 alpha 组件值
+title: "Color.A"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Color 属性。获取 alpha 组件值"
 type: docs
 weight: 1490
 url: /zh/net/aspose.pdf/color/a/
 ---
-## Color.A 属性
+## Color.A property
 
-获取 alpha 组件值
+获取 alpha 组件的值
 
 ```csharp
 public double A { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Color](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: ListBoxField.SelectedItems
-second_title: Aspose.PDF for .NET API Reference
-description: ListBoxField 属性。获取或设置多选列表中选定项的数组。对于单选列表，返回包含单个项目的数组。
+title: "ListBoxField.SelectedItems"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ListBoxField 属性。获取或设置多选列表中所选项的数组。对于单选列表，返回仅包含一个项的数组。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.forms/listboxfield/selecteditems/
 ---
-## ListBoxField.SelectedItems 属性
+## ListBoxField.SelectedItems property
 
-获取或设置多选列表中选定项的数组。对于单选列表，返回包含单个项目的数组。
+获取或设置多选列表中所选项的数组。对于单选列表，返回包含单个项目的数组。
 
 ```csharp
 public override int[] SelectedItems { set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ListBoxField](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ListBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

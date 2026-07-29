@@ -1,12 +1,12 @@
 ---
-title: CreateEmbeddingResponse.Data
-second_title: Aspose.PDF for .NET API Reference
-description: CreateEmbeddingResponse 属性。获取或设置嵌入对象的列表
+title: "CreateEmbeddingResponse.Data"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CreateEmbeddingResponse 属性。获取或设置嵌入对象的列表"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.ai/createembeddingresponse/data/
 ---
-## CreateEmbeddingResponse.Data 属性
+## CreateEmbeddingResponse.Data property
 
 获取或设置嵌入对象的列表。
 
@@ -20,3 +20,5 @@ public List<Embedding> Data { get; set; }
 * class [CreateEmbeddingResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.GetAttachNames
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor 方法。返回 PDF 文件中的附件列表。注意：必须在使用此方法之前调用 ExtractAttachments
+title: "PdfExtractor.GetAttachNames"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfExtractor 方法。返回 PDF 文件中附件的列表。注意，必须先调用 ExtractAttachments 才能使用此方法。"
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf.facades/pdfextractor/getattachnames/
 ---
-## PdfExtractor.GetAttachNames 方法
+## PdfExtractor.GetAttachNames method
 
-返回 PDF 文件中的附件列表。注意：必须在使用此方法之前调用 ExtractAttachments。
+返回 PDF 文件中的附件列表。注意：在使用此方法之前必须先调用 ExtractAttachments。
 
 ```csharp
 public IList<string> GetAttachNames()
@@ -31,8 +31,10 @@ foreach (string name in attachments)
 	Console.WriteLine(name);
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfExtractor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

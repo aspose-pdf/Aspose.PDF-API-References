@@ -1,9 +1,9 @@
 ---
-title: Document.Validate
-second_title: Aspose.PDF for .NET API Reference
-description: 文档方法。将文档验证到指定文件
+title: "Document.Validate"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 方法。将文档验证到指定文件。"
 type: docs
-weight: 890
+weight: 910
 url: /zh/net/aspose.pdf/document/validate/
 ---
 ## Validate(string, PdfFormat) {#validate_2}
@@ -16,8 +16,8 @@ public bool Validate(string outputLogFileName, PdfFormat format)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| outputLogFileName | 字符串 | 存储注释的文件路径。 |
-| format | PdfFormat | PDF 格式。 |
+| outputLogFileName | String | 存放注释的文件路径。 |
+| 格式 | PdfFormat | PDF 格式。 |
 
 ### 返回值
 
@@ -42,8 +42,8 @@ public bool Validate(Stream outputLogStream, PdfFormat format)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| outputLogStream | 流 | 存储注释的流。 |
-| format | PdfFormat | PDF 格式。 |
+| outputLogStream | Stream | 存放注释的流。 |
+| 格式 | PdfFormat | PDF 格式。 |
 
 ### 返回值
 
@@ -68,7 +68,7 @@ public bool Validate(PdfFormatConversionOptions options)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| options | PdfFormatConversionOptions | 用于转换 PDF 文档的选项集 |
+| options | PdfFormatConversionOptions | 用于转换 PDF 文档的选项集合 |
 
 ### 返回值
 
@@ -80,3 +80,5 @@ public bool Validate(PdfFormatConversionOptions options)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

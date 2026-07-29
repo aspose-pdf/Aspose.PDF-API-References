@@ -1,16 +1,16 @@
 ---
-title: ITaggedContent.SetLanguage
-second_title: Aspose.PDF for .NET API Reference
-description: ITaggedContent 方法。设置 PDF 文档的自然语言
+title: "ITaggedContent.SetLanguage"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ITaggedContent 方法。设置 pdf 文档的自然语言"
 type: docs
-weight: 380
+weight: 430
 url: /zh/net/aspose.pdf.tagged/itaggedcontent/setlanguage/
 ---
-## ITaggedContent.SetLanguage 方法
+## ITaggedContent.SetLanguage method
 
 设置 PDF 文档的自然语言。
 
-一个语言标识符，用于指定文档中所有文本的自然语言，除非被结构元素或标记内容的语言规范覆盖。
+语言标识符用于指定文档中所有文本的自然语言，除非结构元素或标记内容的语言规范覆盖了它。
 
 ```csharp
 public void SetLanguage(string lang)
@@ -18,10 +18,12 @@ public void SetLanguage(string lang)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| lang | 字符串 | 语言标识符可以是空文本字符串，以指示语言未知，或是 RFC 3066 中定义的语言标签，语言标识的标签。 |
+| lang | String | 语言标识符应为一个空文本字符串，以表示语言未知，或为 RFC 3066 中定义的语言标签（Language-Tag），即语言标识标签。 |
 
-### 另请参阅
+### 另请参见
 
-* 接口 [ITaggedContent](../)
-* 命名空间 [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

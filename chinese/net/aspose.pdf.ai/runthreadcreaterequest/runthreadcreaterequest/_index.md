@@ -1,12 +1,12 @@
 ---
-title: RunThreadCreateRequest.RunThreadCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: RunThreadCreateRequest 构造函数。默认构造函数
+title: "RunThreadCreateRequest.RunThreadCreateRequest"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "RunThreadCreateRequest 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/runthreadcreaterequest/runthreadcreaterequest/
 ---
-## RunThreadCreateRequest 构造函数
+## RunThreadCreateRequest constructor
 
 默认构造函数。
 
@@ -19,3 +19,5 @@ public RunThreadCreateRequest()
 * class [RunThreadCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

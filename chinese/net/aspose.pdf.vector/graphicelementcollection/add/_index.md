@@ -1,14 +1,14 @@
 ---
-title: GraphicElementCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElementCollection 方法。将一个新的 GraphicElement 添加到集合中。集合中的所有项必须具有相同的 Parent
+title: "GraphicElementCollection.Add"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GraphicElementCollection 方法。向集合中添加新的 GraphicElement。集合中的所有项目必须具有相同的 Parent"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.vector/graphicelementcollection/add/
 ---
-## GraphicElementCollection.Add 方法
+## GraphicElementCollection.Add method
 
-将一个新的 [`GraphicElement`](../../graphicelement/) 添加到集合中。集合中的所有项必须具有相同的 [`Parent`](../../graphicelement/parent/)。
+向集合中添加一个新的 [`GraphicElement`](../../graphicelement/)。集合中的所有项目必须具有相同的 [`Parent`](../../graphicelement/parent/)。
 
 ```csharp
 public void Add(GraphicElement item)
@@ -18,9 +18,11 @@ public void Add(GraphicElement item)
 | --- | --- | --- |
 | item | GraphicElement | IGraphicElement. |
 
-### 另请参阅
+### 另请参见
 
-* 类 [GraphicElement](../../graphicelement/)
-* 类 [GraphicElementCollection](../)
-* 命名空间 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* 程序集 [Aspose.PDF](../../../)
+* class [GraphicElement](../../graphicelement/)
+* class [GraphicElementCollection](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

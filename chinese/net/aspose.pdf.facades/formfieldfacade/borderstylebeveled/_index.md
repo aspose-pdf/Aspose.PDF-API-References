@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.BorderStyleBeveled
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade 字段。定义一个斜角边框样式
+title: "FormFieldFacade.BorderStyleBeveled"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FormFieldFacade field. 定义斜面边框样式"
 type: docs
 weight: 290
 url: /zh/net/aspose.pdf.facades/formfieldfacade/borderstylebeveled/
 ---
-## FormFieldFacade.BorderStyleBeveled 字段
+## FormFieldFacade.BorderStyleBeveled field
 
-定义一个斜角边框样式。
+定义斜面边框样式。
 
 ```csharp
 public const int BorderStyleBeveled;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FormFieldFacade](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PrintLargePdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer 方法。打开并打印大型 Pdf 文件。如果您的 Pdf 文件有数百页或更多，或者其大小超过 3 MB，建议使用此方法以获得更好的性能
+title: "PdfViewer.PrintLargePdf"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfViewer 方法。打开并打印大型 PDF 文件。如果您的 PDF 文件有数百页或更多，或其大小超过 3 MB，建议使用此方法以获得更好的性能。"
 type: docs
 weight: 350
 url: /zh/net/aspose.pdf.facades/pdfviewer/printlargepdf/
 ---
 ## PrintLargePdf(string) {#printlargepdf_3}
 
-打开并打印大型 Pdf 文件。如果您的 Pdf 文件有数百页或更多，或者其大小超过 3 MB，建议使用此方法以获得更好的性能。
+打开并打印大型 Pdf 文件。如果您的 Pdf 文件有数百页或更多，或其大小超过 3 MB，建议使用此方法以获得更佳性能。
 
 ```csharp
 public void PrintLargePdf(string filePath)
@@ -16,7 +16,7 @@ public void PrintLargePdf(string filePath)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| filePath | String | Pdf 文件的路径。 |
+| filePath | String | PDF 文件的路径。 |
 
 ## 备注
 
@@ -52,7 +52,7 @@ iewer.Close()
 
 ## PrintLargePdf(Stream) {#printlargepdf}
 
-打开并打印大型 Pdf 流。如果您的 Pdf 文件有数百页或更多，或者其大小超过 3 MB，建议使用此方法以获得更好的性能。
+打开并打印大型 Pdf 流。如果您的 Pdf 文件有数百页或更多，或其大小超过 3 MB，建议使用此方法以获得更佳性能。
 
 ```csharp
 public void PrintLargePdf(Stream inputStream)
@@ -60,7 +60,7 @@ public void PrintLargePdf(Stream inputStream)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| inputStream | Stream | 要打开和打印的 pdf 流。 |
+| inputStream | Stream | 要打开和打印的 PDF 流。 |
 
 ## 备注
 
@@ -96,7 +96,7 @@ iewer.Close()
 
 ## PrintLargePdf(string, PrinterSettings) {#printlargepdf_5}
 
-使用指定的打印机设置打开并打印大型 Pdf 文件。如果您的 Pdf 文件有数百页或更多，或者其大小超过 3 MB，建议使用此方法以获得更好的性能。
+打开并打印大型 Pdf 文件，使用指定的打印机设置。如果您的 Pdf 文件有数百页或更多，或其大小超过 3 MB，建议使用此方法以获得更好的性能。
 
 ```csharp
 public void PrintLargePdf(string filePath, PrinterSettings printerSettings)
@@ -104,7 +104,7 @@ public void PrintLargePdf(string filePath, PrinterSettings printerSettings)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| filePath | String | Pdf 文件的路径。 |
+| filePath | String | PDF 文件的路径。 |
 | printerSettings | PrinterSettings | 打印机设置。 |
 
 ## 备注
@@ -148,7 +148,7 @@ iewer.Close()
 
 ## PrintLargePdf(Stream, PrinterSettings) {#printlargepdf_2}
 
-使用指定的打印机设置打开并打印大型 Pdf 流。如果您的 Pdf 文件有数百页或更多，或者其大小超过 3 MB，建议使用此方法以获得更好的性能。
+打开并打印大型 Pdf 流，使用指定的打印机设置。如果您的 Pdf 文件有数百页或更多，或其大小超过 3 MB，建议使用此方法以获得更好的性能。
 
 ```csharp
 public void PrintLargePdf(Stream inputStream, PrinterSettings printerSettings)
@@ -156,12 +156,12 @@ public void PrintLargePdf(Stream inputStream, PrinterSettings printerSettings)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| inputStream | Stream | 要打开和打印的 pdf 流。 |
+| inputStream | Stream | 要打开和打印的 PDF 流。 |
 | printerSettings | PrinterSettings | 打印机设置。 |
 
 ## 备注
 
-此方法集成了文件的打开和打印，您无需显式调用 BindPdf()。
+此方法已集成文件的打开和打印，您无需显式调用 BindPdf()。
 
 ## 示例
 
@@ -200,7 +200,7 @@ iewer.Close()
 
 ## PrintLargePdf(string, PageSettings, PrinterSettings) {#printlargepdf_4}
 
-使用指定的页面设置和打印机设置打开并打印大型 Pdf 文件。如果您的 Pdf 文件有数百页或更多，或者其大小超过 3 MB，建议使用此方法以获得更好的性能。
+打开并打印大型 Pdf 文件，使用指定的页面设置和打印机设置。如果您的 Pdf 文件有数百页或更多，或其大小超过 3 MB，建议使用此方法以获得更好的性能。
 
 ```csharp
 public void PrintLargePdf(string filePath, PageSettings pageSettings, 
@@ -209,7 +209,7 @@ public void PrintLargePdf(string filePath, PageSettings pageSettings,
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| filePath | String | Pdf 文件的路径。 |
+| filePath | String | PDF 文件的路径。 |
 | pageSettings | PageSettings | 页面设置。 |
 | printerSettings | PrinterSettings | 打印机设置。 |
 
@@ -261,7 +261,7 @@ iewer.Close()
 
 ## PrintLargePdf(Stream, PageSettings, PrinterSettings) {#printlargepdf_1}
 
-使用指定的页面设置和打印机设置打开并打印大型 Pdf 流。如果您的 Pdf 文件有数百页或更多，或者其大小超过 3 MB，建议使用此方法以获得更好的性能。
+打开并打印大型 Pdf 流，使用指定的页面设置和打印机设置。如果您的 Pdf 文件有数百页或更多，或其大小超过 3 MB，建议使用此方法以获得更好的性能。
 
 ```csharp
 public void PrintLargePdf(Stream inputStream, PageSettings pageSettings, 
@@ -270,7 +270,7 @@ public void PrintLargePdf(Stream inputStream, PageSettings pageSettings,
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| inputStream | Stream | 要打开和打印的 pdf 流。 |
+| inputStream | Stream | 要打开和打印的 PDF 流。 |
 | pageSettings | PageSettings | 页面设置。 |
 | printerSettings | PrinterSettings | 打印机设置。 |
 
@@ -317,3 +317,5 @@ iewer.Close()
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

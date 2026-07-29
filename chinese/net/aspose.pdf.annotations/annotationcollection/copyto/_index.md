@@ -1,12 +1,12 @@
 ---
-title: AnnotationCollection.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection 方法。将注释数组复制到集合中
+title: "AnnotationCollection.CopyTo"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AnnotationCollection 方法。将注释数组复制到集合中"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.annotations/annotationcollection/copyto/
 ---
-## AnnotationCollection.CopyTo 方法
+## AnnotationCollection.CopyTo method
 
 将注释数组复制到集合中。
 
@@ -16,12 +16,14 @@ public void CopyTo(Annotation[] array, int index)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| array | Annotation[] | 要复制到集合中的数组。 |
-| index | Int32 | 将要复制到的集合的起始索引。 |
+| 数组 | Annotation[] | 要复制到集合中的数组。 |
+| index | Int32 | 复制到集合时的起始索引。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Annotation](../../annotation/)
-* 类 [AnnotationCollection](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

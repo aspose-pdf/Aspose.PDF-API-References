@@ -1,34 +1,36 @@
 ---
-title: Class SimpleFontSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.SimpleFontSubstitution 类。表示一个简单字体替换策略的类
+title: "类 SimpleFontSubstitution"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Text.SimpleFontSubstitution 类。表示用于简单字体替换策略的类"
 type: docs
-weight: 10710
+weight: 10890
 url: /zh/net/aspose.pdf.text/simplefontsubstitution/
 ---
 ## SimpleFontSubstitution class
 
-表示一个简单字体替换策略的类。
+表示用于简单字体替换策略的类。
 
 ```csharp
 public sealed class SimpleFontSubstitution : FontSubstitution
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [SimpleFontSubstitution](simplefontsubstitution/)(string, string, bool) | 初始化 `SimpleFontSubstitution` 类的新实例。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [OriginalFontName](../../aspose.pdf.text/simplefontsubstitution/originalfontname/) { get; } | 获取应替换为 [`SubstitutionFontName`](./substitutionfontname/) 的原始字体名称 |
-| [SubstitutionFontName](../../aspose.pdf.text/simplefontsubstitution/substitutionfontname/) { get; } | 获取应替换 [`OriginalFontName`](./originalfontname/) 的字体名称 |
+| [OriginalFontName](../../aspose.pdf.text/simplefontsubstitution/originalfontname/) { get; } | 获取应使用 [`SubstitutionFontName`](./substitutionfontname/) 替换的原始字体名称 |
+| [SubstitutionFontName](../../aspose.pdf.text/simplefontsubstitution/substitutionfontname/) { get; } | 获取应替代 [`OriginalFontName`](./originalfontname/) 的字体名称 |
 
-### See Also
+### 另请参见
 
 * class [FontSubstitution](../fontsubstitution/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

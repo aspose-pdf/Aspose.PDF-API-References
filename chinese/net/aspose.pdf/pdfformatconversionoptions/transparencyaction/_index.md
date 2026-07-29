@@ -1,22 +1,24 @@
 ---
-title: PdfFormatConversionOptions.TransparencyAction
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions 属性。图像遮罩对象的操作
+title: "PdfFormatConversionOptions.TransparencyAction"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFormatConversionOptions 属性。图像遮罩对象的操作"
 type: docs
-weight: 210
+weight: 220
 url: /zh/net/aspose.pdf/pdfformatconversionoptions/transparencyaction/
 ---
-## PdfFormatConversionOptions.TransparencyAction 属性
+## PdfFormatConversionOptions.TransparencyAction property
 
-图像遮罩对象的操作
+对图像遮罩对象的操作
 
 ```csharp
 public ConvertTransparencyAction TransparencyAction { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * enum [ConvertTransparencyAction](../../converttransparencyaction/)
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.OUTBOX
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor 字段。外部框
+title: "PdfPageEditor.OUTBOX"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfPageEditor 字段。外向盒"
 type: docs
 weight: 270
 url: /zh/net/aspose.pdf.facades/pdfpageeditor/outbox/
 ---
-## PdfPageEditor.OUTBOX 字段
+## PdfPageEditor.OUTBOX field
 
-外部框
+向外盒子
 
 ```csharp
 public const int OUTBOX;
 ```
 
-### 另见
+### 另请参见
 
-* 类 [PdfPageEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

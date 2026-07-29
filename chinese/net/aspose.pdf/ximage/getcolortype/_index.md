@@ -1,12 +1,12 @@
 ---
-title: XImage.GetColorType
-second_title: Aspose.PDF for .NET API Reference
-description: XImage 方法。返回图像的颜色类型
+title: "XImage.GetColorType"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XImage 方法。返回图像的颜色类型"
 type: docs
-weight: 100
+weight: 110
 url: /zh/net/aspose.pdf/ximage/getcolortype/
 ---
-## XImage.GetColorType 方法
+## XImage.GetColorType method
 
 返回图像的颜色类型。
 
@@ -18,9 +18,11 @@ public ColorType GetColorType()
 
 颜色类型值。
 
-### 另请参阅
+### 另请参见
 
 * enum [ColorType](../../colortype/)
 * class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

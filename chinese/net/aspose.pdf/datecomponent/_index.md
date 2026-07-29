@@ -1,12 +1,12 @@
 ---
-title: Class DateComponent
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DateComponent 类。表示具有格式属性的日期组件的基类
+title: "类 DateComponent"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.DateComponent 类。表示具有格式属性的日期组件的基类。"
 type: docs
-weight: 3490
+weight: 3610
 url: /zh/net/aspose.pdf/datecomponent/
 ---
-## DateComponent 类
+## DateComponent class
 
 表示具有格式属性的日期组件的基类。
 
@@ -30,9 +30,11 @@ public class DateComponent
 
 | 名称 | 描述 |
 | --- | --- |
-| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | 返回一个由指定字符重复组成的字符串，基于格式。 |
+| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | 返回由指定字符根据格式重复组成的字符串。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

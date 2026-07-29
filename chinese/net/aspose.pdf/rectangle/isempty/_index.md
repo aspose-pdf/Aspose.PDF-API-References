@@ -1,12 +1,12 @@
 ---
-title: Rectangle.IsEmpty
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle 属性。检查矩形是否为空
+title: "Rectangle.IsEmpty"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Rectangle 属性。检查矩形是否为空"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf/rectangle/isempty/
 ---
-## Rectangle.IsEmpty 属性
+## Rectangle.IsEmpty property
 
 检查矩形是否为空。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/rectangle/isempty/
 public bool IsEmpty { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Rectangle](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

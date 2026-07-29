@@ -1,12 +1,12 @@
 ---
-title: Form.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: 表单方法。移除所有表单字段并将其值直接放置在页面上
+title: "Form.Flatten"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Form 方法。移除所有表单字段并将其值直接放置在页面上。"
 type: docs
-weight: 250
+weight: 270
 url: /zh/net/aspose.pdf.forms/form/flatten/
 ---
-## Form.Flatten 方法
+## Form.Flatten method
 
 移除所有表单字段并将其值直接放置在页面上。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.forms/form/flatten/
 public void Flatten()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Form](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

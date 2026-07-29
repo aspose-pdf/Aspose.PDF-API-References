@@ -1,12 +1,12 @@
 ---
-title: Table.GetWidth
-second_title: Aspose.PDF for .NET API Reference
-description: 表格方法。获取宽度
+title: "Table.GetWidth"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Table 方法。获取宽度"
 type: docs
 weight: 240
 url: /zh/net/aspose.pdf/table/getwidth/
 ---
-## Table.GetWidth 方法
+## Table.GetWidth method
 
 获取宽度。
 
@@ -18,8 +18,10 @@ public double GetWidth()
 
 表格宽度
 
-### 另请参阅
+### 另请参见
 
-* 类 [Table](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextSegmentCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegmentCollection 方法。删除集合中的指定项
+title: "TextSegmentCollection.Remove"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextSegmentCollection 方法。删除集合中指定的项"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.text/textsegmentcollection/remove/
 ---
-## TextSegmentCollection.Remove 方法
+## TextSegmentCollection.Remove method
 
-删除集合中的指定项。
+删除集合中指定的项。
 
 ```csharp
 public bool Remove(TextSegment item)
@@ -20,11 +20,13 @@ public bool Remove(TextSegment item)
 
 ### 返回值
 
-如果项已从集合中删除，则为 true；否则为 false。
+如果已从集合中删除该项则为 true；否则为 false。
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextSegment](../../textsegment/)
-* 类 [TextSegmentCollection](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextSegment](../../textsegment/)
+* class [TextSegmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

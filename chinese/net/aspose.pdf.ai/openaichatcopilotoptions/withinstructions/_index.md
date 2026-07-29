@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithInstructions
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions 方法。设置聊天助手选项的指令
+title: "OpenAIChatCopilotOptions.WithInstructions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAIChatCopilotOptions 方法。设置聊天副驾驶选项的指令"
 type: docs
-weight: 120
+weight: 130
 url: /zh/net/aspose.pdf.ai/openaichatcopilotoptions/withinstructions/
 ---
-## OpenAIChatCopilotOptions.WithInstructions 方法
+## OpenAIChatCopilotOptions.WithInstructions method
 
-设置聊天助手选项的指令。
+设置聊天副驾驶选项的指令。
 
 ```csharp
 public OpenAIChatCopilotOptions WithInstructions(string instructions)
@@ -16,7 +16,7 @@ public OpenAIChatCopilotOptions WithInstructions(string instructions)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| instructions | 字符串 | 要设置的指令。 |
+| 说明 | String | 要设置的指令。 |
 
 ### 返回值
 
@@ -24,6 +24,8 @@ public OpenAIChatCopilotOptions WithInstructions(string instructions)
 
 ### 另请参见
 
-* 类 [OpenAIChatCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

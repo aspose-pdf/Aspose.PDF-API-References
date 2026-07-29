@@ -1,21 +1,23 @@
 ---
-title: TableElement.IsBroken
-second_title: Aspose.PDF for .NET API Reference
-description: TableElement 属性。获取或设置表格是否被截断，将被截断到下一页
+title: "TableElement.IsBroken"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TableElement 属性。获取或设置表格是否已断裂，将在下一页截断。"
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf.logicalstructure/tableelement/isbroken/
 ---
-## TableElement.IsBroken 属性
+## TableElement.IsBroken property
 
-获取或设置表格是否被截断 - 将被截断到下一页。
+获取或设置表格是否断开——将在下一页截断。
 
 ```csharp
 public bool IsBroken { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TableElement](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: VectorStoreFileListResponse.GetFileIdList
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileListResponse 方法。获取向量存储中的文件 ID 列表
+title: "VectorStoreFileListResponse.GetFileIdList"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "VectorStoreFileListResponse 方法。获取向量存储中的文件 ID 列表。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.ai/vectorstorefilelistresponse/getfileidlist/
 ---
-## VectorStoreFileListResponse.GetFileIdList 方法
+## VectorStoreFileListResponse.GetFileIdList method
 
 获取向量存储中的文件 ID 列表。
 
@@ -18,8 +18,10 @@ public List<string> GetFileIdList()
 
 文件 ID 列表。
 
-### 另请参阅
+### 另请参见
 
-* 类 [VectorStoreFileListResponse](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [VectorStoreFileListResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

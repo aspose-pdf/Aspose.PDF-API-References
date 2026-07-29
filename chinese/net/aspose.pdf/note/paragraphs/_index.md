@@ -1,12 +1,12 @@
 ---
-title: Note.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Note 属性。获取或设置一个集合，指示脚注中的所有段落
+title: "Note.Paragraphs"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Note 属性。获取或设置一个集合，指示脚注中的所有段落"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/note/paragraphs/
 ---
-## Note.Paragraphs 属性
+## Note.Paragraphs property
 
 获取或设置一个集合，指示脚注中的所有段落。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf/note/paragraphs/
 public Paragraphs Paragraphs { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [Paragraphs](../../paragraphs/)
 * class [Note](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Document.HideMenubar
-second_title: Aspose.PDF for .NET API Reference
-description: 文档属性。获取或设置标志，指定当文档处于活动状态时菜单栏是否应隐藏
+title: "Document.HideMenubar"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 属性。获取或设置标志，指定文档激活时是否隐藏菜单栏"
 type: docs
-weight: 230
+weight: 250
 url: /zh/net/aspose.pdf/document/hidemenubar/
 ---
-## Document.HideMenubar 属性
+## Document.HideMenubar property
 
-获取或设置标志，指定当文档处于活动状态时菜单栏是否应隐藏。
+获取或设置标志，指定文档激活时是否隐藏菜单栏。
 
 ```csharp
 public bool HideMenubar { get; set; }
@@ -23,8 +23,10 @@ Document document = new Document("sample.pdf");
 bool value = document.HideMenubar;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Document](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

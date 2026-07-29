@@ -1,14 +1,14 @@
 ---
-title: Enum SoundIcon
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.SoundIcon 枚举。列举用于显示注释的图标
+title: "SoundIcon 枚举"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.SoundIcon 枚举。列举用于显示注释的图标。"
 type: docs
-weight: 2560
+weight: 2660
 url: /zh/net/aspose.pdf.annotations/soundicon/
 ---
-## SoundIcon 枚举
+## SoundIcon enumeration
 
-列举用于显示注释的图标。
+枚举用于显示注释的图标。
 
 ```csharp
 public enum SoundIcon
@@ -23,5 +23,7 @@ public enum SoundIcon
 
 ### 另请参见
 
-* 命名空间 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

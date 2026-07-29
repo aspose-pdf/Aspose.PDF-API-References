@@ -1,12 +1,12 @@
 ---
-title: Enum CaretSymbol
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.CaretSymbol 枚举。与插入符号关联的符号
+title: "枚举 CaretSymbol"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.CaretSymbol 枚举。与插入符号关联的符号"
 type: docs
-weight: 1570
+weight: 1660
 url: /zh/net/aspose.pdf.annotations/caretsymbol/
 ---
-## CaretSymbol 枚举
+## CaretSymbol enumeration
 
 与插入符号关联的符号。
 
@@ -18,10 +18,12 @@ public enum CaretSymbol
 
 | 名称 | 值 | 描述 |
 | --- | --- | --- |
-| None | `0` | 不应与插入符号关联任何符号。 |
-| Paragraph | `1` | 应与插入符号关联一个新段落符号。 |
+| None | `0` | 不应为插入符号关联任何符号。 |
+| Paragraph | `1` | 应为插入符号关联一个新段落符号。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

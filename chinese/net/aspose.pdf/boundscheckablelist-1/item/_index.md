@@ -1,14 +1,14 @@
 ---
-title: BoundsCheckableList1.Item
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList 属性。获取或设置从集合中的段落
+title: "BoundsCheckableList1.Item"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BoundsCheckableList 属性。 获取或设置集合中的段落"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/boundscheckablelist-1/item/
 ---
-## BoundsCheckableList&lt;T&gt; 索引器
+## BoundsCheckableList&lt;T&gt; indexer
 
-获取或设置从集合中的段落。
+获取或设置集合中的段落。
 
 ```csharp
 public T this[int index] { get; set; }
@@ -20,6 +20,8 @@ public T this[int index] { get; set; }
 
 ### 另请参见
 
-* 类 [BoundsCheckableList&lt;T&gt;](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

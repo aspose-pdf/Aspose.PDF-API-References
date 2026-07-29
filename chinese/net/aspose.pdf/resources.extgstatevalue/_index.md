@@ -1,12 +1,12 @@
 ---
-title: Class Resources.ExtGStateValue
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ResourcesExtGStateValue class. Represents ExtGStates with some values
+title: "类 Resources.ExtGStateValue"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.ResourcesExtGStateValue 类。表示具有某些值的 ExtGStates。"
 type: docs
-weight: 9780
+weight: 9930
 url: /zh/net/aspose.pdf/resources.extgstatevalue/
 ---
-## Resources.ExtGStateValue 类
+## Resources.ExtGStateValue class
 
 表示具有某些值的 ExtGStates。
 
@@ -28,8 +28,10 @@ public class ExtGStateValue
 | [ca](../../aspose.pdf/resources.extgstatevalue/ca) { get; } |  |
 | [Name](../../aspose.pdf/resources.extgstatevalue/name) { get; } |  |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Resources](../resources/)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* class [Resources](../resources/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Ellipse.Ellipse
-second_title: Aspose.PDF for .NET API Reference
-description: Ellipse 构造函数。初始化 Ellipse 类的新实例
+title: "Ellipse.Ellipse"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Ellipse 构造函数。初始化 Ellipse 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.drawing/ellipse/ellipse/
 ---
-## Ellipse 构造函数
+## Ellipse constructor
 
 初始化 [`Ellipse`](../) 类的新实例。
 
@@ -18,11 +18,13 @@ public Ellipse(double left, double bottom, double width, double height)
 | --- | --- | --- |
 | left | Double | 椭圆的左侧位置。 |
 | bottom | Double | 椭圆的底部位置。 |
-| width | Double | 椭圆的宽度。 |
-| height | Double | 椭圆的高度。 |
+| 宽度 | Double | 椭圆的宽度。 |
+| 高度 | Double | 椭圆的高度。 |
 
-### 另见
+### 另请参见
 
-* 类 [Ellipse](../)
-* 命名空间 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Ellipse](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

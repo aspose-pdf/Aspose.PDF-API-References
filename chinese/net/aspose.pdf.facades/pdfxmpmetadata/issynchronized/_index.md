@@ -1,12 +1,12 @@
 ---
-title: PdfXmpMetadata.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: PdfXmpMetadata 属性。如果集合已同步，则返回 true
+title: "PdfXmpMetadata.IsSynchronized"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfXmpMetadata 属性。若集合已同步则返回 true。"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.facades/pdfxmpmetadata/issynchronized/
 ---
-## PdfXmpMetadata.IsSynchronized 属性
+## PdfXmpMetadata.IsSynchronized property
 
 如果集合已同步，则返回 true。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.facades/pdfxmpmetadata/issynchronized/
 public bool IsSynchronized { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfXmpMetadata](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

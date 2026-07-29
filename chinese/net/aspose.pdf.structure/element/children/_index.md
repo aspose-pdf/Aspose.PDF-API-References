@@ -1,12 +1,12 @@
 ---
-title: Element.Children
-second_title: Aspose.PDF for .NET API Reference
-description: Element 属性。获取子元素集合
+title: "Element.Children"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Element 属性。获取子元素集合"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.structure/element/children/
 ---
-## Element.Children 属性
+## Element.Children property
 
 获取子元素集合。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.structure/element/children/
 public ElementCollection Children { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [ElementCollection](../../elementcollection/)
 * class [Element](../)
 * namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../../)
+
+

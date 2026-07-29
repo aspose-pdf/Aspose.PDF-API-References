@@ -1,21 +1,23 @@
 ---
-title: FileHyperlink.Path
-second_title: Aspose.PDF for .NET API Reference
-description: FileHyperlink 属性。获取或设置文件路径
+title: "FileHyperlink.Path"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FileHyperlink 属性。获取或设置文件路径"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/filehyperlink/path/
 ---
-## FileHyperlink.Path 属性
+## FileHyperlink.Path property
 
-获取或设置文件路径。
+获取或设置文件的路径。
 
 ```csharp
 public string Path { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FileHyperlink](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FileHyperlink](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

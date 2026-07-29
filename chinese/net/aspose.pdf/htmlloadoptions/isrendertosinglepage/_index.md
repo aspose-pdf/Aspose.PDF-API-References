@@ -1,21 +1,23 @@
 ---
-title: HtmlLoadOptions.IsRenderToSinglePage
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlLoadOptions 属性。获取或设置将所有文档渲染为单页
+title: "HtmlLoadOptions.IsRenderToSinglePage"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "HtmlLoadOptions 属性。获取或设置将整个文档渲染为单页"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf/htmlloadoptions/isrendertosinglepage/
 ---
-## HtmlLoadOptions.IsRenderToSinglePage 属性
+## HtmlLoadOptions.IsRenderToSinglePage property
 
-获取或设置将所有文档渲染为单页
+获取或设置将整个文档渲染为单页的选项
 
 ```csharp
 public bool IsRenderToSinglePage { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [HtmlLoadOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [HtmlLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

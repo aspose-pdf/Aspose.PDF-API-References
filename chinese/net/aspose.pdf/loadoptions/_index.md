@@ -1,14 +1,14 @@
 ---
-title: Class LoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LoadOptions 类。LoadOptions 类型持有单个加载选项的抽象级别
+title: "类 LoadOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.LoadOptions 类。LoadOptions 类型保存对各个加载选项的抽象层级"
 type: docs
-weight: 6120
+weight: 6260
 url: /zh/net/aspose.pdf/loadoptions/
 ---
-## LoadOptions 类
+## LoadOptions class
 
-LoadOptions 类型持有单个加载选项的抽象级别
+LoadOptions 类型在各个加载选项上保持抽象层次。
 
 ```csharp
 public abstract class LoadOptions
@@ -18,11 +18,13 @@ public abstract class LoadOptions
 
 | 名称 | 描述 |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | 获取或设置标志以禁用加载文件时对所有字体的任何许可证限制。当 `true` 时，允许执行许可证禁止的字体操作，例如允许将字体嵌入到 PDF 文档中，即使许可证规则禁止该字体的嵌入。默认值为 `false`。 |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | 获取或设置在加载文件时禁用所有字体的任何许可证限制的标志。当 `true` 时，允许执行该字体许可证禁止的操作，例如即使许可证规则禁止嵌入，也可以将字体嵌入 PDF 文档。默认值为 `false`。 |
 | [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | 表示 `LoadOptions` 描述的文件格式。 |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | 处理生成的任何警告的回调。WarningHandler 返回 ReturnAction 枚举项，指定继续或中止。继续是默认操作，加载操作将继续，但用户也可以返回中止，在这种情况下，加载操作应停止。 |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | 回调用于处理生成的任何警告。WarningHandler 返回 ReturnAction 枚举项，指定 Continue 或 Abort。Continue 为默认操作，加载过程将继续；但用户也可以返回 Abort，此时加载过程应停止。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

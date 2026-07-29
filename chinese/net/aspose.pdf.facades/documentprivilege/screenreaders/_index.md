@@ -1,12 +1,12 @@
 ---
-title: DocumentPrivilege.ScreenReaders
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege 属性。仅允许在屏幕上阅读
+title: "DocumentPrivilege.ScreenReaders"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "DocumentPrivilege property. 仅允许在屏幕上阅读。"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.facades/documentprivilege/screenreaders/
 ---
-## DocumentPrivilege.ScreenReaders 属性
+## DocumentPrivilege.ScreenReaders property
 
 仅允许在屏幕上阅读。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.facades/documentprivilege/screenreaders/
 public static DocumentPrivilege ScreenReaders { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [DocumentPrivilege](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

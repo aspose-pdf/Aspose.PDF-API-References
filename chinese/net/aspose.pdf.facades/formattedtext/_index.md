@@ -1,9 +1,9 @@
 ---
-title: Class FormattedText
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.FormattedText 类。表示格式化文本的类。包含有关文本及其颜色、大小、样式的信息
+title: "类 FormattedText"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Facades.FormattedText 类。表示格式化文本的类。包含有关文本及其颜色、大小、样式的信息。"
 type: docs
-weight: 4350
+weight: 4470
 url: /zh/net/aspose.pdf.facades/formattedtext/
 ---
 ## FormattedText class
@@ -14,9 +14,9 @@ url: /zh/net/aspose.pdf.facades/formattedtext/
 public sealed class FormattedText
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [FormattedText](formattedtext/#constructor)() | 初始化 FormattedText。 |
 | [FormattedText](formattedtext/#constructor_1)(string) | 初始化 FormattedText。 |
@@ -32,23 +32,25 @@ public sealed class FormattedText
 | [FormattedText](formattedtext/#constructor_10)(string, Color, Color, FontStyle, EncodingType, bool, float, float) | 初始化 FormattedText。 |
 | [FormattedText](formattedtext/#constructor_3)(string, FontColor, FontColor, FontStyle, EncodingType, bool, float, float) | 初始化 FormattedText。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [TextHeight](../../aspose.pdf.facades/formattedtext/textheight/) { get; } | 获取文本的高度。 |
 | [TextWidth](../../aspose.pdf.facades/formattedtext/textwidth/) { get; } | 获取文本的宽度。 |
 
-## Methods
+## 方法
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext/#addnewlinetext)(string) | 向 FormattedText 对象添加新行，并将 newLineText 设置为下一行的文本。 |
 | [AddNewLineText](../../aspose.pdf.facades/formattedtext/addnewlinetext/#addnewlinetext_1)(string, float) | 向 FormattedText 对象添加新行，并将 newLineText 设置为下一行的文本。 |
-| [IsCjk](../../aspose.pdf.facades/formattedtext/iscjk/)() | 检查文本是否为 CJK（中文、日文或韩文）。 |
-| [SetCjkFontStyle](../../aspose.pdf.facades/formattedtext/setcjkfontstyle/)() | 更改 FormattedText 的字体样式以适应 CJK（中文、日文或韩文）字体。 |
+| [IsCjk](../../aspose.pdf.facades/formattedtext/iscjk/)() | 检查文本是否为中日韩（CJK）字符。 |
+| [SetCjkFontStyle](../../aspose.pdf.facades/formattedtext/setcjkfontstyle/)() | 更改 FormattedText 对于中日韩（CJK）字体的字体样式。 |
 
-### See Also
+### 另请参见
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

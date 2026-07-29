@@ -1,7 +1,7 @@
 ---
-title: StructTreeRootElement.Tag
-second_title: Aspose.PDF for .NET API Reference
-description: StructTreeRootElement 方法。将结构元素绑定到内容流 BDC 操作符
+title: "StructTreeRootElement.Tag"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "StructTreeRootElement 方法。将结构元素绑定到内容流 BDC 操作符"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.logicalstructure/structtreerootelement/tag/
@@ -22,13 +22,13 @@ public override MCRElement Tag(BDC bdc)
 
 MCRElementStructure 元素。
 
-### 另见
+### 另请参见
 
-* 类 [MCRElement](../../mcrelement/)
-* 类 [BDC](../../../aspose.pdf.operators/bdc/)
-* 类 [StructTreeRootElement](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [MCRElement](../../mcrelement/)
+* class [BDC](../../../aspose.pdf.operators/bdc/)
+* class [StructTreeRootElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -42,19 +42,19 @@ public override OBJRElement Tag(XForm form)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| form | XForm | Pdf 表单。 |
+| 表单 | XForm | Pdf 表单。 |
 
 ### 返回值
 
 OBJRElementStructure 元素。
 
-### 另见
+### 另请参见
 
-* 类 [OBJRElement](../../objrelement/)
-* 类 [XForm](../../../aspose.pdf/xform/)
-* 类 [StructTreeRootElement](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OBJRElement](../../objrelement/)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [StructTreeRootElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -68,19 +68,19 @@ public override OBJRElement Tag(XImage image)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| image | XImage | Pdf 图像。 |
+| 图像 | XImage | Pdf 图像。 |
 
 ### 返回值
 
 OBJRElementStructure 元素。
 
-### 另见
+### 另请参见
 
-* 类 [OBJRElement](../../objrelement/)
-* 类 [XImage](../../../aspose.pdf/ximage/)
-* 类 [StructTreeRootElement](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OBJRElement](../../objrelement/)
+* class [XImage](../../../aspose.pdf/ximage/)
+* class [StructTreeRootElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -94,19 +94,19 @@ public override MCRElement Tag(Artifact artifact)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| artifact | Artifact | Pdf artifact。 |
+| 工件 | 工件 | Pdf 工件。 |
 
 ### 返回值
 
 MCRElementStructure 元素。
 
-### 另见
+### 另请参见
 
-* 类 [MCRElement](../../mcrelement/)
-* 类 [Artifact](../../../aspose.pdf/artifact/)
-* 类 [StructTreeRootElement](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [MCRElement](../../mcrelement/)
+* class [Artifact](../../../aspose.pdf/artifact/)
+* class [StructTreeRootElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -120,16 +120,18 @@ public override OBJRElement Tag(Annotation annotation)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| annotation | Annotation | Pdf 注释。 |
+| 批注 | 批注 | Pdf 注释。 |
 
 ### 返回值
 
 OBJRElementStructure 元素。
 
-### 另见
+### 另请参见
 
-* 类 [OBJRElement](../../objrelement/)
-* 类 [Annotation](../../../aspose.pdf.annotations/annotation/)
-* 类 [StructTreeRootElement](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OBJRElement](../../objrelement/)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [StructTreeRootElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

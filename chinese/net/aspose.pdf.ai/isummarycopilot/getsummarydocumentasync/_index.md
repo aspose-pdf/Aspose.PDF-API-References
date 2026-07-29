@@ -1,7 +1,7 @@
 ---
-title: ISummaryCopilot.GetSummaryDocumentAsync
-second_title: Aspose.PDF for .NET API Reference
-description: ISummaryCopilot 方法。异步获取摘要 PDF 文档
+title: "ISummaryCopilot.GetSummaryDocumentAsync"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ISummaryCopilot 方法。异步获取摘要 PDF 文档"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.ai/isummarycopilot/getsummarydocumentasync/
@@ -20,9 +20,9 @@ public Task<Document> GetSummaryDocumentAsync(CancellationToken? cancellationTok
 
 ### 返回值
 
-表示异步操作的任务，包含摘要文档。
+表示带有摘要文档的异步操作的任务。
 
-### 另请参阅
+### 另请参见
 
 * class [Document](../../../aspose.pdf/document/)
 * interface [ISummaryCopilot](../)
@@ -33,7 +33,7 @@ public Task<Document> GetSummaryDocumentAsync(CancellationToken? cancellationTok
 
 ## GetSummaryDocumentAsync(PageInfo, CancellationToken?) {#getsummarydocumentasync}
 
-异步获取指定页面信息的摘要 PDF 文档。
+异步获取指定页信息的摘要 PDF 文档。
 
 ```csharp
 public Task<Document> GetSummaryDocumentAsync(PageInfo pageInfo, 
@@ -47,12 +47,14 @@ public Task<Document> GetSummaryDocumentAsync(PageInfo pageInfo,
 
 ### 返回值
 
-表示异步操作的任务，包含摘要文档。
+表示带有摘要文档的异步操作的任务。
 
-### 另请参阅
+### 另请参见
 
 * class [Document](../../../aspose.pdf/document/)
 * class [PageInfo](../../../aspose.pdf/pageinfo/)
 * interface [ISummaryCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

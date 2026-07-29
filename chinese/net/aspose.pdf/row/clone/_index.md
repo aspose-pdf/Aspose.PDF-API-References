@@ -1,14 +1,14 @@
 ---
-title: Row.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Row 方法。克隆行
+title: "Row.Clone"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Row 方法。克隆该行"
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf/row/clone/
 ---
-## Row.Clone 方法
+## Row.Clone method
 
-克隆行。
+克隆该行。
 
 ```csharp
 public object Clone()
@@ -18,8 +18,10 @@ public object Clone()
 
 克隆的对象
 
-### 另见
+### 另请参见
 
-* 类 [Row](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

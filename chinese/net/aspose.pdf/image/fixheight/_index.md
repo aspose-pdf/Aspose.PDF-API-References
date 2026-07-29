@@ -1,12 +1,12 @@
 ---
-title: Image.FixHeight
-second_title: Aspose.PDF for .NET API Reference
-description: 图像属性。获取或设置图像高度
+title: "Image.FixHeight"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Image 属性。获取或设置图像高度"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/image/fixheight/
 ---
-## Image.FixHeight 属性
+## Image.FixHeight property
 
 获取或设置图像高度。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/image/fixheight/
 public double FixHeight { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Image](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

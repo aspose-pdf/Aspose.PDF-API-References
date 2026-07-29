@@ -1,21 +1,23 @@
 ---
-title: TextStyle.FontName
-second_title: Aspose.PDF for .NET API Reference
-description: TextStyle 属性。字体名称
+title: "TextStyle.FontName"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextStyle 属性。字体的名称"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.annotations/textstyle/fontname/
 ---
-## TextStyle.FontName 属性
+## TextStyle.FontName property
 
-字体名称。
+字体的名称。
 
 ```csharp
 public string FontName { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextStyle](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextStyle](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

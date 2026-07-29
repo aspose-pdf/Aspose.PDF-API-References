@@ -1,22 +1,24 @@
 ---
-title: MarkupSection.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: MarkupSection 属性。节矩形
+title: "MarkupSection.Rectangle"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MarkupSection 属性。节的 Rectangle"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.text/markupsection/rectangle/
 ---
-## MarkupSection.Rectangle 属性
+## MarkupSection.Rectangle property
 
-节矩形
+部分矩形
 
 ```csharp
 public Rectangle Rectangle { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Rectangle](../../../aspose.pdf/rectangle/)
-* 类 [MarkupSection](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [MarkupSection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

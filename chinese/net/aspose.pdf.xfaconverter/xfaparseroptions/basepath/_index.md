@@ -1,25 +1,27 @@
 ---
-title: XfaParserOptions.BasePath
-second_title: Aspose.PDF for .NET API Reference
-description: XfaParserOptions 属性。获取或设置基本路径
+title: "XfaParserOptions.BasePath"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XfaParserOptions 属性。获取或设置基础路径。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.xfaconverter/xfaparseroptions/basepath/
 ---
-## XfaParserOptions.BasePath 属性
+## XfaParserOptions.BasePath property
 
-获取或设置基本路径。
+获取或设置基路径。
 
 ```csharp
 public Uri BasePath { get; set; }
 ```
 
-### 属性值
+### Property Value
 
 基本路径。
 
-### 另请参阅
+### 另请参见
 
-* 类 [XfaParserOptions](../)
-* 命名空间 [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XfaParserOptions](../)
+* namespace [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: XFA.NamespaceManager
-second_title: Aspose.PDF for .NET API Reference
-description: XFA 属性。获取 XFA 表单的命名空间。以下命名空间被定义：数据用于表单数据，tpl 用于表单模板
+title: "XFA.NamespaceManager"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XFA 属性。获取 XFA 表单的命名空间。以下命名空间已定义：data 用于表单数据，tpl 用于表单模板"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.forms/xfa/namespacemanager/
 ---
-## XFA.NamespaceManager 属性
+## XFA.NamespaceManager property
 
-获取 XFA 表单的命名空间。以下命名空间被定义：“data”用于表单数据，“tpl”用于表单模板。
+获取 XFA 表单的命名空间。已定义以下命名空间："data" 用于表单数据，"tpl" 用于表单模板。
 
 ```csharp
 public XmlNamespaceManager NamespaceManager { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XFA](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

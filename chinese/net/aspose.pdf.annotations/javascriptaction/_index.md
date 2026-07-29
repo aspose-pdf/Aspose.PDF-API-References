@@ -1,40 +1,42 @@
 ---
-title: Class JavascriptAction
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.JavascriptAction 类。表示 javascript 动作的类
+title: "类 JavascriptAction"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.JavascriptAction 类。表示 javascript 操作的类"
 type: docs
-weight: 1930
+weight: 2020
 url: /zh/net/aspose.pdf.annotations/javascriptaction/
 ---
 ## JavascriptAction class
 
-表示 javascript 动作的类。
+表示 JavaScript 操作的类。
 
 ```csharp
 public sealed class JavascriptAction : PdfAction
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [JavascriptAction](javascriptaction/)(string) | 构造函数。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | 顺序中的下一个动作。 |
+| [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | 序列中的下一个操作。 |
 | [Script](../../aspose.pdf.annotations/javascriptaction/script/) { get; set; } | 获取或设置 javascript 代码。 |
 
-## Methods
+## 方法
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | 获取 ECMAScript 动作的字符串。 |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | 获取 ECMAScript 操作的字符串。 |
 
-### See Also
+### 另请参见
 
 * class [PdfAction](../pdfaction/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

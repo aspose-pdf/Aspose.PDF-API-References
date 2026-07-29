@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.AddDocumentAdditionalAction
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor 方法。为文档事件添加额外操作
+title: "PdfContentEditor.AddDocumentAdditionalAction"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfContentEditor 方法。为文档事件添加额外操作"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.facades/pdfcontenteditor/adddocumentadditionalaction/
 ---
-## PdfContentEditor.AddDocumentAdditionalAction 方法
+## PdfContentEditor.AddDocumentAdditionalAction method
 
 为文档事件添加额外操作。
 
@@ -16,8 +16,8 @@ public void AddDocumentAdditionalAction(string eventType, string code)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| eventType | 字符串 | 文档事件类型。 |
-| code | 字符串 | JavaScript 代码。 |
+| eventType | String | 文档事件类型。 |
+| `code` | String | JavaScript 代码。 |
 
 ## 示例
 
@@ -28,8 +28,10 @@ editor.AddDocumentAdditionalAction(PdfContentEditor.DocumentClose, "app.alert('G
 editor.Save("example_out.pdf");
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfContentEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

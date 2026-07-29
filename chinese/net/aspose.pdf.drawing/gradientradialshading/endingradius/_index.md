@@ -1,12 +1,12 @@
 ---
-title: GradientRadialShading.EndingRadius
-second_title: Aspose.PDF for .NET API Reference
-description: GradientRadialShading 属性。获取或设置结束圆的半径
+title: "GradientRadialShading.EndingRadius"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GradientRadialShading 属性。获取或设置结束圆的半径"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.drawing/gradientradialshading/endingradius/
 ---
-## GradientRadialShading.EndingRadius 属性
+## GradientRadialShading.EndingRadius property
 
 获取或设置结束圆的半径。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.drawing/gradientradialshading/endingradius/
 public double EndingRadius { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [GradientRadialShading](../)
-* 命名空间 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [GradientRadialShading](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

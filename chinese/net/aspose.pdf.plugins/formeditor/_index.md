@@ -1,12 +1,12 @@
 ---
-title: Class FormEditor
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.FormEditor 类。表示 FormEditor 插件
+title: "类 FormEditor"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.FormEditor 类。表示 FormEditor 插件"
 type: docs
-weight: 8620
+weight: 8750
 url: /zh/net/aspose.pdf.plugins/formeditor/
 ---
-## FormEditor 类
+## FormEditor class
 
 表示 FormEditor 插件。
 
@@ -24,10 +24,12 @@ public sealed class FormEditor : IPlugin
 
 | 名称 | 描述 |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/formeditor/process/)(IPluginOptions) | 使用指定参数开始 FormEditor 处理。 |
+| [Process](../../aspose.pdf.plugins/formeditor/process/)(IPluginOptions) | 使用指定的参数启动 FormEditor 处理。 |
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IPlugin](../iplugin/)
-* 命名空间 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

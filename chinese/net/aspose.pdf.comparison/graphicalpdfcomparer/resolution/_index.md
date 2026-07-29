@@ -1,12 +1,12 @@
 ---
-title: GraphicalPdfComparer.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicalPdfComparer 属性。获取和设置生成图像的分辨率。默认值为 150dpi
+title: "GraphicalPdfComparer.Resolution"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GraphicalPdfComparer 属性。获取和设置生成图像的分辨率。默认值为 150dpi"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.comparison/graphicalpdfcomparer/resolution/
 ---
-## GraphicalPdfComparer.Resolution 属性
+## GraphicalPdfComparer.Resolution property
 
 获取和设置生成图像的分辨率。默认值为 150dpi。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.comparison/graphicalpdfcomparer/resolution/
 public Resolution Resolution { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [Resolution](../../../aspose.pdf.devices/resolution/)
 * class [GraphicalPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: FitBHExplicitDestination.Top
-second_title: Aspose.PDF for .NET API Reference
-description: FitBHExplicitDestination 属性。获取位于窗口顶部边缘的垂直坐标顶部
+title: "FitBHExplicitDestination.Top"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FitBHExplicitDestination 属性。获取位于窗口顶部边缘的垂直坐标 top"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.annotations/fitbhexplicitdestination/top/
 ---
-## FitBHExplicitDestination.Top 属性
+## FitBHExplicitDestination.Top property
 
-获取位于窗口顶部边缘的垂直坐标顶部。
+获取定位在窗口顶部边缘的垂直坐标 top。
 
 ```csharp
 public double Top { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FitBHExplicitDestination](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FitBHExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

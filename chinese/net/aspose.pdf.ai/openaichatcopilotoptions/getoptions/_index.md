@@ -1,12 +1,12 @@
 ---
-title: OpenAIChatCopilotOptions.GetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions 方法。获取当前的 OpenAIChatCopilotOptions
+title: "OpenAIChatCopilotOptions.GetOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAIChatCopilotOptions 方法。获取当前的 OpenAIChatCopilotOptions"
 type: docs
-weight: 70
+weight: 80
 url: /zh/net/aspose.pdf.ai/openaichatcopilotoptions/getoptions/
 ---
-## OpenAIChatCopilotOptions.GetOptions 方法
+## OpenAIChatCopilotOptions.GetOptions method
 
 获取当前的 [`OpenAIChatCopilotOptions`](../)。
 
@@ -16,10 +16,12 @@ public OpenAIChatCopilotOptions GetOptions()
 
 ### 返回值
 
-当前实例的 [`OpenAIChatCopilotOptions`](../)。
+当前的 [`OpenAIChatCopilotOptions`](../) 实例。
 
-### 另见
+### 另请参见
 
-* 类 [OpenAIChatCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

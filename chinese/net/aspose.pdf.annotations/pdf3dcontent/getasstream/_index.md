@@ -1,14 +1,14 @@
 ---
-title: PDF3DContent.GetAsStream
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DContent 方法。获取 3D 内容作为流
+title: "PDF3DContent.GetAsStream"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PDF3DContent 方法。获取 3D 内容的流"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.annotations/pdf3dcontent/getasstream/
 ---
-## PDF3DContent.GetAsStream 方法
+## PDF3DContent.GetAsStream method
 
-获取 3D 内容作为流。
+获取 3D 内容的流。
 
 ```csharp
 public Stream GetAsStream()
@@ -18,8 +18,10 @@ public Stream GetAsStream()
 
 流。
 
-### 另请参阅
+### 另请参见
 
-* 类 [PDF3DContent](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

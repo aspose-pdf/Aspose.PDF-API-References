@@ -1,12 +1,12 @@
 ---
-title: Document.FontUtilities
-second_title: Aspose.PDF for .NET API Reference
-description: 文档属性。IDocumentFontUtilities 实例
+title: "Document.FontUtilities"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 属性。IDocumentFontUtilities 实例"
 type: docs
-weight: 200
+weight: 220
 url: /zh/net/aspose.pdf/document/fontutilities/
 ---
-## Document.FontUtilities 属性
+## Document.FontUtilities property
 
 IDocumentFontUtilities 实例
 
@@ -14,9 +14,11 @@ IDocumentFontUtilities 实例
 public IDocumentFontUtilities FontUtilities { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IDocumentFontUtilities](../../document.idocumentfontutilities/)
-* 类 [Document](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IDocumentFontUtilities](../../document.idocumentfontutilities/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

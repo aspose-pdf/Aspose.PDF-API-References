@@ -1,12 +1,12 @@
 ---
-title: StructureTextState.Underline
-second_title: Aspose.PDF for .NET API Reference
-description: StructureTextState 属性。获取或设置文本的下划线
+title: "StructureTextState.Underline"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "StructureTextState 属性。获取或设置文本的下划线"
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.logicalstructure/structuretextstate/underline/
 ---
-## StructureTextState.Underline 属性
+## StructureTextState.Underline property
 
 获取或设置文本的下划线。
 
@@ -16,10 +16,12 @@ public bool? Underline { get; set; }
 
 ## 备注
 
-可以为 null。使用 null 从父结构元素继承 `Underline` 属性。
+可以为 null。使用 null 以从父结构元素继承 `Underline` 属性。
 
-### 另请参阅
+### 另请参见
 
-* 类 [StructureTextState](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

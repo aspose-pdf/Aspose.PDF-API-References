@@ -1,14 +1,14 @@
 ---
-title: Class PrinterResolutionExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.PrinterResolutionExtensions 类。表示 PrinterResolution 的扩展方法
+title: "类 PrinterResolutionExtensions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Printing.PrinterResolutionExtensions 类。表示针对 PrinterResolution 的扩展方法"
 type: docs
-weight: 9670
+weight: 9820
 url: /zh/net/aspose.pdf.printing/printerresolutionextensions/
 ---
-## PrinterResolutionExtensions 类
+## PrinterResolutionExtensions class
 
-表示 [`PrinterResolution`](../printerresolution/) 的扩展方法。
+表示针对 [`PrinterResolution`](../printerresolution/) 的扩展方法。
 
 ```csharp
 public static class PrinterResolutionExtensions
@@ -18,10 +18,12 @@ public static class PrinterResolutionExtensions
 
 | 名称 | 描述 |
 | --- | --- |
-| static [ToAsposePrinterResolution](../../aspose.pdf.printing/printerresolutionextensions/toasposeprinterresolution/)(this PrinterResolution) | 将特定于 Windows 的 System.Drawing.Printing.PrinterResolution 转换为 [`PrinterResolution`](../printerresolution/)。 |
-| static [ToNativePrinterResolution](../../aspose.pdf.printing/printerresolutionextensions/tonativeprinterresolution/)(this PrinterResolution) | 将 [`PrinterResolution`](../printerresolution/) 转换为特定于 Windows 的 System.Drawing.Printing.PrinterResolution。 |
+| static [ToAsposePrinterResolution](../../aspose.pdf.printing/printerresolutionextensions/toasposeprinterresolution/)(this PrinterResolution) | 将 Windows 特定的 System.Drawing.Printing.PrinterResolution 转换为 [`PrinterResolution`](../printerresolution/)。 |
+| static [ToNativePrinterResolution](../../aspose.pdf.printing/printerresolutionextensions/tonativeprinterresolution/)(this PrinterResolution) | 将 [`PrinterResolution`](../printerresolution/) 转换为 Windows 特定的 System.Drawing.Printing.PrinterResolution。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

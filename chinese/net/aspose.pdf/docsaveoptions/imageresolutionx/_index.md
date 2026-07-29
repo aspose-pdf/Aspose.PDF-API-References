@@ -1,21 +1,23 @@
 ---
-title: DocSaveOptions.ImageResolutionX
-second_title: Aspose.PDF for .NET API Reference
-description: DocSaveOptions 属性。转换图像的 X 分辨率
+title: "DocSaveOptions.ImageResolutionX"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "DocSaveOptions 属性。转换后图像的 X 分辨率"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/docsaveoptions/imageresolutionx/
 ---
-## DocSaveOptions.ImageResolutionX 属性
+## DocSaveOptions.ImageResolutionX property
 
-转换图像的 X 分辨率。
+转换后图像的 X 分辨率。
 
 ```csharp
 public int ImageResolutionX { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [DocSaveOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DocSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

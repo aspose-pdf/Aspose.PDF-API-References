@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.CreateRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient 方法。异步在指定线程中创建一个运行
+title: "IOpenAIClient.CreateRunAsync"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "IOpenAIClient 方法。异步在指定线程中创建运行。"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.ai/iopenaiclient/createrunasync/
 ---
-## IOpenAIClient.CreateRunAsync 方法
+## IOpenAIClient.CreateRunAsync method
 
-异步在指定线程中创建一个运行。
+异步在指定的线程中创建 run。
 
 ```csharp
 public Task<RunResponse> CreateRunAsync(string threadId, RunCreateRequest runCreateRequest, 
@@ -17,9 +17,9 @@ public Task<RunResponse> CreateRunAsync(string threadId, RunCreateRequest runCre
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| threadId | 字符串 | 将要创建运行的线程 ID。 |
+| threadId | String | 将创建运行的线程 ID。 |
 | runCreateRequest | RunCreateRequest | 创建运行的请求详细信息。 |
-| cancellationToken | 可空`1 | 取消操作的令牌。 |
+| cancellationToken | Nullable`1 | 用于取消操作的令牌。 |
 
 ### 返回值
 
@@ -29,12 +29,14 @@ public Task<RunResponse> CreateRunAsync(string threadId, RunCreateRequest runCre
 
 | 异常 | 条件 |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | 当线程 ID 为 null 或空时抛出。 |
+| [AIClientException](../../aiclientexception/) | 当线程 Id 为 null 或为空时抛出。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [RunResponse](../../runresponse/)
-* 类 [RunCreateRequest](../../runcreaterequest/)
-* 接口 [IOpenAIClient](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [RunResponse](../../runresponse/)
+* class [RunCreateRequest](../../runcreaterequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

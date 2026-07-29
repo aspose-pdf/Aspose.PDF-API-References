@@ -1,12 +1,12 @@
 ---
-title: Class ImageUrl
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ImageUrl 类。表示消息内容中的图像 URL
+title: "类 ImageUrl"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.ImageUrl 类。表示消息内容中的图像 URL"
 type: docs
-weight: 640
+weight: 690
 url: /zh/net/aspose.pdf.ai/imageurl/
 ---
-## ImageUrl 类
+## ImageUrl class
 
 表示消息内容中的图像 URL。
 
@@ -24,10 +24,12 @@ public class ImageUrl
 
 | 名称 | 描述 |
 | --- | --- |
-| [Detail](../../aspose.pdf.ai/imageurl/detail/) { get; set; } | 获取或设置用户指定的图像详细级别。低使用较少的令牌，您可以选择使用高分辨率的高。 |
-| [Url](../../aspose.pdf.ai/imageurl/url/) { get; set; } | 获取或设置图像的外部 URL，必须是支持的图像类型：jpeg、jpg、png、gif、webp。 |
+| [Detail](../../aspose.pdf.ai/imageurl/detail/) { get; set; } | 获取或设置用户指定的图像细节级别。low 使用更少的令牌，您可以通过使用 high 来选择高分辨率。 |
+| [Url](../../aspose.pdf.ai/imageurl/url/) { get; set; } | 获取或设置图像的外部 URL，必须是受支持的图像类型：jpeg、jpg、png、gif、webp。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

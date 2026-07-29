@@ -1,14 +1,14 @@
 ---
-title: Matrix.UnTransform
-second_title: Aspose.PDF for .NET API Reference
-description: 矩阵方法。使用以下公式将 x1 和 y1 转换回并返回矩阵变换之前的 x 和 y：x = Dx1 - Cy1 + CF / AD - CB, y = Ay1 - Bx1 + BE / AD - CB。
+title: "Matrix.UnTransform"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Matrix 方法。使用以下公式将 x1 和 y1 反向变换并返回矩阵变换前的 x 和 y：x  D  x1  C  y1  C  F / A  D  C  B y  A  y1  B  x1  B  E / A  D  C  B"
 type: docs
 weight: 230
 url: /zh/net/aspose.pdf/matrix/untransform/
 ---
-## Matrix.UnTransform 方法
+## Matrix.UnTransform method
 
-使用以下公式将 x1 和 y1 转换回并返回矩阵变换之前的 x 和 y：x = (D * x1 - C * y1 + C * F) / (A * D - C * B) y = (A * y1 - B * x1 + B * E) / (A * D - C * B)。
+使用以下公式将 x1 和 y1 反向转换并返回矩阵变换前的 x 和 y：x = (D * x1 - C * y1 + C * F) / (A * D - C * B) y = (A * y1 - B * x1 + B * E) / (A * D - C * B)。
 
 ```csharp
 public void UnTransform(double x1, double y1, out double x, out double y)
@@ -23,6 +23,8 @@ public void UnTransform(double x1, double y1, out double x, out double y)
 
 ### 另请参见
 
-* 类 [Matrix](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

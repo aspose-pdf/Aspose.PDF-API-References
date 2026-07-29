@@ -1,7 +1,7 @@
 ---
-title: DictionaryEditor.DictionaryEditor
-second_title: Aspose.PDF for .NET API Reference
-description: DictionaryEditor 构造函数。
+title: "DictionaryEditor.DictionaryEditor"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "DictionaryEditor 构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.dataeditor/dictionaryeditor/dictionaryeditor/
@@ -14,15 +14,15 @@ public DictionaryEditor(Page page)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | 一个带有字典的页面用于工作。 |
+| 页面 | 页面 | 用于工作的包含字典的页面。 |
 
 ### 异常
 
 | 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 页面为 null 或页面结构损坏。 |
+| ArgumentNullException | 页面为 null 或页面结构已损坏。 |
 
-### 另见
+### 另请参见
 
 * class [Page](../../../aspose.pdf/page/)
 * class [DictionaryEditor](../)
@@ -39,15 +39,15 @@ public DictionaryEditor(Document document)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| document | Document | 一个带有字典的文档用于工作。 |
+| 文档 | Document | 用于工作的包含字典的 Document。 |
 
 ### 异常
 
 | 异常 | 条件 |
 | --- | --- |
-| ArgumentNullException | 文档为 null。 |
+| ArgumentNullException | Document 为 null。 |
 
-### 另见
+### 另请参见
 
 * class [Document](../../../aspose.pdf/document/)
 * class [DictionaryEditor](../)
@@ -64,7 +64,7 @@ public DictionaryEditor(Resources resources)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| resources | Resources | 一个带有字典的资源用于工作。 |
+| 资源 | 资源 | 用于工作的包含字典的资源。 |
 
 ### 异常
 
@@ -72,9 +72,11 @@ public DictionaryEditor(Resources resources)
 | --- | --- |
 | ArgumentNullException | 资源为 null。 |
 
-### 另见
+### 另请参见
 
 * class [Resources](../../../aspose.pdf/resources/)
 * class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

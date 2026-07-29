@@ -1,12 +1,12 @@
 ---
-title: OutputTextStyle.OutputTextStyle
-second_title: Aspose.PDF for .NET API Reference
-description: OutputTextStyle 构造函数。默认构造函数
+title: "OutputTextStyle.OutputTextStyle"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OutputTextStyle 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.comparison/outputtextstyle/outputtextstyle/
 ---
-## OutputTextStyle 构造函数
+## OutputTextStyle constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.comparison/outputtextstyle/outputtextstyle/
 public OutputTextStyle()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [OutputTextStyle](../)
-* 命名空间 [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OutputTextStyle](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

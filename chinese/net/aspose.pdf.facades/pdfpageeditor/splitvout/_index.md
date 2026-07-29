@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.SPLITVOUT
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageEditor 字段。向外垂直拆分
+title: "PdfPageEditor.SPLITVOUT"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfPageEditor 字段。垂直拆分输出"
 type: docs
 weight: 320
 url: /zh/net/aspose.pdf.facades/pdfpageeditor/splitvout/
 ---
-## PdfPageEditor.SPLITVOUT 字段
+## PdfPageEditor.SPLITVOUT field
 
-向外垂直拆分
+外部垂直分割
 
 ```csharp
 public const int SPLITVOUT;
 ```
 
-### 另见
+### 另请参见
 
-* 类 [PdfPageEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

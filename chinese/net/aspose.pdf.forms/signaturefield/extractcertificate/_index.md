@@ -1,14 +1,14 @@
 ---
-title: SignatureField.ExtractCertificate
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureField 方法。提取单个 X.509 证书，格式为 DER，作为流
+title: "SignatureField.ExtractCertificate"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SignatureField 方法。以流的形式提取 DER 格式的单个 X.509 证书"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.forms/signaturefield/extractcertificate/
 ---
-## SignatureField.ExtractCertificate 方法
+## SignatureField.ExtractCertificate method
 
-提取单个 X.509 证书，格式为 DER，作为流。
+提取单个 X.509 证书（DER 格式）为流。
 
 ```csharp
 public Stream ExtractCertificate()
@@ -16,10 +16,12 @@ public Stream ExtractCertificate()
 
 ### 返回值
 
-如果找到证书，则返回 X.509 单个证书；否则，返回 null。
+如果找到证书，则返回单个 X.509 证书；否则返回 null。
 
-### 另请参阅
+### 另请参见
 
-* 类 [SignatureField](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SignatureField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SetColor.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: SetColor 方法。返回颜色的字符串表示
+title: "SetColor.ToString"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SetColor 方法。返回颜色的字符串表示"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.operators/setcolor/tostring/
 ---
-## SetColor.ToString 方法
+## SetColor.ToString method
 
-返回颜色的字符串表示。
+返回颜色的字符串表示形式。
 
 ```csharp
 public override string ToString()
@@ -18,8 +18,10 @@ public override string ToString()
 
 颜色的字符串表示。
 
-### 另见
+### 另请参见
 
-* 类 [SetColor](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SetColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

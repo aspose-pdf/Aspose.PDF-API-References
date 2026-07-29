@@ -1,14 +1,14 @@
 ---
-title: Interface ITableElement
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.ITableElement 接口。该接口表示通过 TableAbsorber 提取的现有表格的元素
+title: "接口 ITableElement"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Text.ITableElement 接口。此接口表示由 TableAbsorber 提取的现有表格的元素。"
 type: docs
-weight: 10620
+weight: 10800
 url: /zh/net/aspose.pdf.text/itableelement/
 ---
-## ITableElement 接口
+## ITableElement interface
 
-该接口表示通过 TableAbsorber 提取的现有表格的元素。
+此接口表示由 TableAbsorber 提取的现有表格的元素。
 
 ```csharp
 public interface ITableElement
@@ -18,9 +18,11 @@ public interface ITableElement
 
 | 名称 | 描述 |
 | --- | --- |
-| [Rectangle](../../aspose.pdf.text/itableelement/rectangle/) { get; } | 获取描述表格元素在页面上位置的矩形 |
+| [Rectangle](../../aspose.pdf.text/itableelement/rectangle/) { get; } | 获取描述页面上表格元素位置的矩形 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.Headers
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey 字段。Headers 属性 表格属性所有者
+title: "AttributeKey.Headers"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AttributeKey 字段. Headers 属性 Table 属性 所有者"
 type: docs
 weight: 170
 url: /zh/net/aspose.pdf.logicalstructure/attributekey/headers/
 ---
-## AttributeKey.Headers 字段
+## AttributeKey.Headers field
 
-Headers 属性（表格属性所有者）。
+Headers 属性（Table 属性所有者）。
 
 ```csharp
 public static readonly AttributeKey Headers;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [AttributeKey](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TextSegment.MyHtmlEncode
-second_title: Aspose.PDF for .NET API Reference
-description: TextSegment 方法。将字符串编码为 HTML
+title: "TextSegment.MyHtmlEncode"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextSegment 方法。将字符串编码为 html"
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.text/textsegment/myhtmlencode/
 ---
-## TextSegment.MyHtmlEncode 方法
+## TextSegment.MyHtmlEncode method
 
 将字符串编码为 HTML。
 
@@ -16,14 +16,16 @@ public static string MyHtmlEncode(string value)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | 字符串 | 要编码的字符串值。 |
+| 值 | String | 要编码的字符串值。 |
 
 ### 返回值
 
-HTML 编码的字符串。
+Html 编码的字符串。
 
-### 另见
+### 另请参见
 
-* 类 [TextSegment](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextSegment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

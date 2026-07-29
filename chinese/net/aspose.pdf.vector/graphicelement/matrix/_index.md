@@ -1,22 +1,24 @@
 ---
-title: GraphicElement.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElement 属性。获取图形元素矩阵。矩阵在元素创建时设置。当调用 SetPosition 时，它会改变。
+title: "GraphicElement.Matrix"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GraphicElement 属性。获取图形元素矩阵。矩阵在创建元素时设置。调用 SetPosition 时会更改矩阵"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.vector/graphicelement/matrix/
 ---
-## GraphicElement.Matrix 属性
+## GraphicElement.Matrix property
 
-获取图形元素矩阵。矩阵在元素创建时设置。当调用 SetPosition() 时，它会改变。
+获取图形元素矩阵。矩阵在创建元素时设置，调用 SetPosition() 时会更改。
 
 ```csharp
 public Matrix Matrix { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Matrix](../../../aspose.pdf/matrix/)
-* 类 [GraphicElement](../)
-* 命名空间 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [GraphicElement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

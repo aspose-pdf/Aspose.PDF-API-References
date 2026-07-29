@@ -1,12 +1,12 @@
 ---
-title: RadioButtonField.PageIndex
-second_title: Aspose.PDF for .NET API Reference
-description: RadioButtonField 属性。获取包含此 RadioButton 字段的页面索引
+title: "RadioButtonField.PageIndex"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "RadioButtonField property. 获取包含此 RadioButton 字段的页面索引"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.forms/radiobuttonfield/pageindex/
 ---
-## RadioButtonField.PageIndex 属性
+## RadioButtonField.PageIndex property
 
 获取包含此 RadioButton 字段的页面索引。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.forms/radiobuttonfield/pageindex/
 public override int PageIndex { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [RadioButtonField](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [RadioButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

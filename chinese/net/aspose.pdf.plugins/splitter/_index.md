@@ -1,12 +1,12 @@
 ---
-title: Class Splitter
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.Splitter 类。表示分割器插件
+title: "类 Splitter"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.Splitter 类。表示 Splitter 插件"
 type: docs
-weight: 9280
+weight: 9430
 url: /zh/net/aspose.pdf.plugins/splitter/
 ---
-## 分割器类
+## Splitter class
 
 表示 `Splitter` 插件。
 
@@ -24,28 +24,30 @@ public class Splitter : IPlugin
 
 | 名称 | 描述 |
 | --- | --- |
-| [Process](../../aspose.pdf.plugins/splitter/process/)(IPluginOptions) | 使用指定参数开始 `Splitter` 处理。 |
+| [Process](../../aspose.pdf.plugins/splitter/process/)(IPluginOptions) | 使用指定的参数启动 `Splitter` 处理。 |
 
 ## 示例
 
-该示例演示如何拆分 PDF 文档。
+此示例演示如何拆分 PDF 文档。
 
 ```csharp
-// create Splitter
+// 创建 Splitter
 var splitter = new Splitter();
-// create SplitOptions object to set instructions
+// 创建 SplitOptions 对象以设置指令
 var opt = new SplitOptions();
-// add input file paths
+// 添加输入文件路径
 opt.AddInput(new FileDataSource(inputPath));
-// set output file paths
+// 设置输出文件路径
 opt.AddOutput(new FileDataSource(outputPath1));
 opt.AddOutput(new FileDataSource(outputPath2));
-// perform the process
+// 执行该过程
 splitter.Process(opt);
 ```
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IPlugin](../iplugin/)
-* 命名空间 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: XmpValue.op_Explicit
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue 方法。将 XmpValue 转换为数组
+title: "XmpValue.op_Explicit"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpValue 方法。将 XmpValue 转换为数组"
 type: docs
 weight: 240
 url: /zh/net/aspose.pdf/xmpvalue/op_explicit/
@@ -16,17 +16,17 @@ public static explicit operator XmpValue[](XmpValue value)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | XmpValue | 要转换的值。 |
+| 值 | XmpValue | 要转换的值。 |
 
 ### 返回值
 
-XmlValue。
+XmlValue.
 
-### 另见
+### 另请参见
 
-* 类 [XmpValue](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -40,17 +40,17 @@ public static explicit operator object[](XmpValue value)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | XmpValue | 要转换的值。 |
+| 值 | XmpValue | 要转换的值。 |
 
 ### 返回值
 
-XmlValue。
+XmlValue.
 
-### 另见
+### 另请参见
 
-* 类 [XmpValue](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -64,17 +64,17 @@ public static explicit operator string(XmpValue value)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | XmpValue | 要转换的值。 |
+| 值 | XmpValue | 要转换的值。 |
 
 ### 返回值
 
-XmlValue。
+XmlValue.
 
-### 另见
+### 另请参见
 
-* 类 [XmpValue](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -88,17 +88,17 @@ public static explicit operator KeyValuePair<string, XmpValue>(XmpValue value)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| value | XmpValue | 要转换的值。 |
+| 值 | XmpValue | 要转换的值。 |
 
 ### 返回值
 
-XmlValue。
+XmlValue.
 
-### 另见
+### 另请参见
 
-* 类 [XmpValue](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -108,8 +108,10 @@ XmlValue。
 public static explicit operator KeyValuePair<string, XmpValue>[](XmpValue value)
 ```
 
-### 另见
+### 另请参见
 
-* 类 [XmpValue](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

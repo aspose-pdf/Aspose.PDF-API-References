@@ -1,12 +1,12 @@
 ---
-title: LaunchAction.File
-second_title: Aspose.PDF for .NET API Reference
-description: LaunchAction 属性。获取或设置要启动的应用程序或要打开或打印的文档
+title: "LaunchAction.File"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "LaunchAction 属性。获取或设置要启动的应用程序或要打开或打印的文档"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.annotations/launchaction/file/
 ---
-## LaunchAction.File 属性
+## LaunchAction.File property
 
 获取或设置要启动的应用程序或要打开或打印的文档。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.annotations/launchaction/file/
 public string File { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [LaunchAction](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [LaunchAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

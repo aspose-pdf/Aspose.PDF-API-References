@@ -1,14 +1,14 @@
 ---
-title: BoundsCheckableList1.IndexOf
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList 方法。搜索指定对象并返回在整个 System.Collections.Generic.List 中第一次出现的零基索引
+title: "BoundsCheckableList1.IndexOf"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BoundsCheckableList 方法。 在整个 System.Collections.Generic.List 中搜索指定对象并返回其第一次出现的零基索引"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.generator/boundscheckablelist-1/indexof/
 ---
-## BoundsCheckableList&lt;T&gt;.IndexOf 方法
+## BoundsCheckableList&lt;T&gt;.IndexOf method
 
-搜索指定对象并返回在整个 System.Collections.Generic.List 中第一次出现的零基索引。
+搜索指定的对象并返回其在整个 System.Collections.Generic.List 中首次出现的零基索引。
 
 ```csharp
 public int IndexOf(T item)
@@ -16,14 +16,16 @@ public int IndexOf(T item)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| item | T | 要在 System.Collections.Generic.List 中定位的对象。对于引用类型，值可以为 null。 |
+| item | T | 要在 System.Collections.Generic.List 中定位的对象。 对于引用类型，该值可以为 null。 |
 
 ### 返回值
 
-如果找到，返回 *item* 在整个 System.Collections.Generic.List 中第一次出现的零基索引；否则，返回 -1。
+如果在整个 System.Collections.Generic.List 中找到 *item*，则返回其第一次出现的零基索引；否则返回 –1。
 
-### 另请参阅
+### 另请参见
 
-* 类 [BoundsCheckableList&lt;T&gt;](../)
-* 命名空间 [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
+* assembly [Aspose.PDF](../../../)
+
+

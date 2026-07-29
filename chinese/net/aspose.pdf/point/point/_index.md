@@ -1,12 +1,12 @@
 ---
-title: Point.Point
-second_title: Aspose.PDF for .NET API Reference
-description: Point 构造函数。初始化 Point 的新实例
+title: "Point.Point"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Point 构造函数。初始化 Point 的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/point/point/
 ---
-## Point 构造函数
+## Point constructor
 
 初始化 [`Point`](../) 的新实例。
 
@@ -19,8 +19,10 @@ public Point(double x, double y)
 | x | Double | x 坐标值。 |
 | y | Double | y 坐标值。 |
 
-### 另见
+### 另请参见
 
-* 类 [Point](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Point](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

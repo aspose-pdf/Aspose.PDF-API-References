@@ -1,7 +1,7 @@
 ---
-title: GradientRadialShading.GradientRadialShading
-second_title: Aspose.PDF for .NET API Reference
-description: GradientRadialShading 构造函数。初始化 GradientRadialShading 类的新实例
+title: "GradientRadialShading.GradientRadialShading"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GradientRadialShading 构造函数。初始化 GradientRadialShading 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.drawing/gradientradialshading/gradientradialshading/
@@ -14,11 +14,11 @@ url: /zh/net/aspose.pdf.drawing/gradientradialshading/gradientradialshading/
 public GradientRadialShading()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [GradientRadialShading](../)
-* 命名空间 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [GradientRadialShading](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -35,9 +35,11 @@ public GradientRadialShading(Color startColor, Color endColor)
 | startColor | Color | 起始圆的颜色。 |
 | endColor | Color | 结束圆的颜色。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Color](../../../aspose.pdf/color/)
-* 类 [GradientRadialShading](../)
-* 命名空间 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Color](../../../aspose.pdf/color/)
+* class [GradientRadialShading](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

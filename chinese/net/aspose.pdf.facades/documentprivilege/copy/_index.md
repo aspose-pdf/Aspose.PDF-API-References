@@ -1,12 +1,12 @@
 ---
-title: DocumentPrivilege.Copy
-second_title: Aspose.PDF for .NET API Reference
-description: DocumentPrivilege 属性。允许复制文件
+title: "DocumentPrivilege.Copy"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "DocumentPrivilege property. 允许复制文件。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.facades/documentprivilege/copy/
 ---
-## DocumentPrivilege.Copy 属性
+## DocumentPrivilege.Copy property
 
 允许复制文件。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.facades/documentprivilege/copy/
 public static DocumentPrivilege Copy { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [DocumentPrivilege](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

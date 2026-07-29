@@ -1,14 +1,14 @@
 ---
-title: Class PrinterMarksKindExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PrinterMarksKindExtensions 类。提供 PrinterMarksKind 枚举的扩展方法
+title: "类 PrinterMarksKindExtensions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.PrinterMarksKindExtensions 类。提供针对 PrinterMarksKind 枚举的扩展方法"
 type: docs
-weight: 2390
+weight: 2480
 url: /zh/net/aspose.pdf.annotations/printermarkskindextensions/
 ---
-## PrinterMarksKindExtensions 类
+## PrinterMarksKindExtensions class
 
-提供 [`PrinterMarksKind`](../printermarkskind/) 枚举的扩展方法。
+为 [`PrinterMarksKind`](../printermarkskind/) 枚举提供扩展方法。
 
 ```csharp
 public static class PrinterMarksKindExtensions
@@ -20,7 +20,9 @@ public static class PrinterMarksKindExtensions
 | --- | --- |
 | static [HasFlagFast](../../aspose.pdf.annotations/printermarkskindextensions/hasflagfast/)(this PrinterMarksKind, PrinterMarksKind) | 确定当前值是否包含指定的标志。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

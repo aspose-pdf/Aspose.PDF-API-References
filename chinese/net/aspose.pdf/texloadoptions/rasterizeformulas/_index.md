@@ -1,21 +1,23 @@
 ---
-title: TeXLoadOptions.RasterizeFormulas
-second_title: Aspose.PDF for .NET API Reference
-description: TeXLoadOptions 属性。获取/设置一个标志，允许将数学公式栅格化
+title: "TeXLoadOptions.RasterizeFormulas"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TeXLoadOptions 属性。获取/设置允许光栅化数学公式的标志"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf/texloadoptions/rasterizeformulas/
 ---
-## TeXLoadOptions.RasterizeFormulas 属性
+## TeXLoadOptions.RasterizeFormulas property
 
-获取/设置一个标志，允许将数学公式栅格化。
+获取/设置一个标志，以允许光栅化数学公式。
 
 ```csharp
 public bool RasterizeFormulas { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TeXLoadOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TeXLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

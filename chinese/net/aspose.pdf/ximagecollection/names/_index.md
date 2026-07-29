@@ -1,12 +1,12 @@
 ---
-title: XImageCollection.Names
-second_title: Aspose.PDF for .NET API Reference
-description: XImageCollection 属性。获取图像名称数组
+title: "XImageCollection.Names"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XImageCollection 属性。获取图像名称数组"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/ximagecollection/names/
 ---
-## XImageCollection.Names 属性
+## XImageCollection.Names property
 
 获取图像名称数组。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/ximagecollection/names/
 public string[] Names { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XImageCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

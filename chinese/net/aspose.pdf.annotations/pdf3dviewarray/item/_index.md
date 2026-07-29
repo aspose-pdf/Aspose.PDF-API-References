@@ -1,14 +1,14 @@
 ---
-title: PDF3DViewArray.Item
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DViewArray 属性。获取或设置在指定索引处查看的 PDF3DView 数组
+title: "PDF3DViewArray.Item"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PDF3DViewArray 属性。获取或设置在指定索引处的 PDF3DView 到视图数组"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.annotations/pdf3dviewarray/item/
 ---
-## PDF3DViewArray 索引器
+## PDF3DViewArray indexer
 
-获取或设置 [`PDF3DView`](../../pdf3dview/) 在指定索引处查看的数组。
+获取或设置在指定索引处的 [`PDF3DView`](../../pdf3dview/) 到视图数组。
 
 ```csharp
 public PDF3DView this[int index] { get; set; }
@@ -16,21 +16,23 @@ public PDF3DView this[int index] { get; set; }
 
 | 参数 | 描述 |
 | --- | --- |
-| index | 索引。 |
+| index | 该索引。 |
 
 ### 返回值
 
-PDF3DView。
+PDF3DView.
 
 ### 异常
 
 | 异常 | 条件 |
 | --- | --- |
-| IndexOutOfRangeException | 无效索引：索引应在 [1..n] 范围内，其中 n 等于视图计数。 |
+| IndexOutOfRangeException | 无效的索引：索引应在范围 [1..n] 内，其中 n 等于视图数量。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PDF3DView](../../pdf3dview/)
-* 类 [PDF3DViewArray](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PDF3DView](../../pdf3dview/)
+* class [PDF3DViewArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

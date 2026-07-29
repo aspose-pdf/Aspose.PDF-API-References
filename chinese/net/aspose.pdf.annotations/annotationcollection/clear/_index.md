@@ -1,21 +1,23 @@
 ---
-title: AnnotationCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: AnnotationCollection 方法。删除集合中的所有注释
+title: "AnnotationCollection.Clear"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AnnotationCollection 方法。删除集合中的所有注释"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.annotations/annotationcollection/clear/
 ---
-## AnnotationCollection.Clear 方法
+## AnnotationCollection.Clear method
 
-删除集合中的所有注释。
+从集合中删除所有注释。
 
 ```csharp
 public void Clear()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [AnnotationCollection](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

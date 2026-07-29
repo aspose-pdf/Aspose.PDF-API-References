@@ -1,21 +1,23 @@
 ---
-title: CharInfoCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: CharInfoCollection 属性。获取一个可以用于同步访问集合的对象
+title: "CharInfoCollection.SyncRoot"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CharInfoCollection 属性。获取可用于同步访问集合的对象"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.text/charinfocollection/syncroot/
 ---
-## CharInfoCollection.SyncRoot 属性
+## CharInfoCollection.SyncRoot property
 
-获取一个可以用于同步访问集合的对象。
+获取可用于同步对集合访问的对象。
 
 ```csharp
 public object SyncRoot { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [CharInfoCollection](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CharInfoCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

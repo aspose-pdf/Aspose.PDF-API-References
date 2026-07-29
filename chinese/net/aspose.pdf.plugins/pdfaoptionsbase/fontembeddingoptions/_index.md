@@ -1,30 +1,32 @@
 ---
-title: PdfAOptionsBase.FontEmbeddingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAOptionsBase 属性。获取处理无法嵌入文档的字体的选项
+title: "PdfAOptionsBase.FontEmbeddingOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfAOptionsBase 属性。获取处理无法嵌入文档的字体的选项"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.plugins/pdfaoptionsbase/fontembeddingoptions/
 ---
-## PdfAOptionsBase.FontEmbeddingOptions 属性
+## PdfAOptionsBase.FontEmbeddingOptions property
 
-获取处理无法嵌入文档的字体的选项。
+获取处理无法嵌入 Document 的字体的选项。
 
 ```csharp
 public FontEmbeddingOptions FontEmbeddingOptions { get; }
 ```
 
-### 属性值
+### Property Value
 
 字体嵌入选项。
 
 ## 备注
 
-PDF/A 标准要求所有字体必须嵌入文档。此属性提供处理无法嵌入某些字体的情况的选项，因为这些字体在目标 PC 上缺失。
+PDF/A 标准要求所有字体必须嵌入文档中。此属性提供在目标电脑缺少某些字体而无法嵌入时的处理选项。
 
-### 另请参阅
+### 另请参见
 
-* 类 [FontEmbeddingOptions](../../../aspose.pdf/fontembeddingoptions/)
-* 类 [PdfAOptionsBase](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FontEmbeddingOptions](../../../aspose.pdf/fontembeddingoptions/)
+* class [PdfAOptionsBase](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

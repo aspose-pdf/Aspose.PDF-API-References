@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageListQueryParameters.ThreadMessageListQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: ThreadMessageListQueryParameters 构造函数。默认构造函数
+title: "ThreadMessageListQueryParameters.ThreadMessageListQueryParameters"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ThreadMessageListQueryParameters 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/threadmessagelistqueryparameters/threadmessagelistqueryparameters/
 ---
-## ThreadMessageListQueryParameters 构造函数
+## ThreadMessageListQueryParameters constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/threadmessagelistqueryparameters/threadmessagelistque
 public ThreadMessageListQueryParameters()
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [ThreadMessageListQueryParameters](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

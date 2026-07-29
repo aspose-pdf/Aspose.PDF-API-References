@@ -1,14 +1,14 @@
 ---
-title: Class Path
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.Path 类。表示弧
+title: "类 Path"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Drawing.Path 类。表示路径。"
 type: docs
-weight: 3970
+weight: 4090
 url: /zh/net/aspose.pdf.drawing/path/
 ---
-## Path 类
+## Path class
 
-表示弧。
+表示弧线。
 
 ```csharp
 public sealed class Path : Shape
@@ -25,7 +25,7 @@ public sealed class Path : Shape
 
 | 名称 | 描述 |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | 获取或设置一个 [`GraphInfo`](../shape/graphinfo/) 对象，该对象指示图形信息，如颜色、线宽等。 |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | 获取或设置一个 [`GraphInfo`](../shape/graphinfo/) 对象，指示图形信息，例如颜色、线宽等。 |
 | [Shapes](../../aspose.pdf.drawing/path/shapes/) { get; } | 获取或设置形状集合。 |
 | [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | 获取或设置形状的文本。 |
 
@@ -35,8 +35,10 @@ public sealed class Path : Shape
 | --- | --- |
 | override [CheckBounds](../../aspose.pdf.drawing/path/checkbounds/)(double, double) |  |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Shape](../shape/)
-* 命名空间 [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* 程序集 [Aspose.PDF](../../)
+* class [Shape](../shape/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

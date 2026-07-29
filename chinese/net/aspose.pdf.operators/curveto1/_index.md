@@ -1,14 +1,14 @@
 ---
-title: Class CurveTo1
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.CurveTo1 类。表示 v 操作符附加曲线到路径初始点复制
+title: "类 CurveTo1"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Operators.CurveTo1 类。表示 v 操作符将曲线追加到路径，复制初始点的类"
 type: docs
-weight: 7250
+weight: 7390
 url: /zh/net/aspose.pdf.operators/curveto1/
 ---
-## CurveTo1 类
+## CurveTo1 class
 
-表示 v 操作符（附加曲线到路径，初始点复制）。
+表示 v 操作符的类（向路径追加曲线，复制初始点）。
 
 ```csharp
 public class CurveTo1 : Operator
@@ -18,7 +18,7 @@ public class CurveTo1 : Operator
 
 | 名称 | 描述 |
 | --- | --- |
-| [CurveTo1](curveto1/)(double, double, double, double) | 初始化曲线操作符。 |
+| [CurveTo1](curveto1/)(double, double, double, double) | 初始化曲线运算符。 |
 
 ## 属性
 
@@ -35,8 +35,10 @@ public class CurveTo1 : Operator
 | override [ToString](../../aspose.pdf/operator/tostring/)() | 返回操作符及其参数的文本。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | 将此实例与给定对象进行比较。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Operator](../../aspose.pdf/operator/)
-* 命名空间 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfToImageOptions.AddInput
-second_title: Aspose.PDF for .NET API Reference
-description: PdfToImageOptions 方法。将新的数据源添加到 PdfToImage 插件数据集合
+title: "PdfToImageOptions.AddInput"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfToImageOptions 方法。向 PdfToImage 插件数据集合添加新数据源"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.plugins/pdftoimageoptions/addinput/
 ---
-## PdfToImageOptions.AddInput 方法
+## PdfToImageOptions.AddInput method
 
-将新的数据源添加到 [`PdfToImage`](../../pdftoimage/) 插件数据集合中。
+向 [`PdfToImage`](../../pdftoimage/) 插件数据集合添加新数据源。
 
 ```csharp
 public void AddInput(IDataSource dataSource)
@@ -18,9 +18,11 @@ public void AddInput(IDataSource dataSource)
 | --- | --- | --- |
 | dataSource | IDataSource | 要添加的数据源。 |
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IDataSource](../../idatasource/)
-* 类 [PdfToImageOptions](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfToImageOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

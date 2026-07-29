@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithDocument
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilotOptions 方法。将 PDF 文档添加到图像描述助手选项的文档集合中
+title: "OpenAIImageDescriptionCopilotOptions.WithDocument"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAIImageDescriptionCopilotOptions 方法。向图像描述协助选项的文档集合中添加 PDF 文档"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withdocument/
 ---
 ## WithDocument(PdfDocument) {#withdocument}
 
-将 PDF 文档添加到图像描述助手选项的文档集合中。
+向图像描述协助选项的文档集合中添加 PDF 文档。
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithDocument(PdfDocument pdfDocument)
@@ -20,20 +20,20 @@ public OpenAIImageDescriptionCopilotOptions WithDocument(PdfDocument pdfDocument
 
 ### 返回值
 
-当前实例的 [`OpenAIImageDescriptionCopilotOptions`](../)。
+当前的 [`OpenAIImageDescriptionCopilotOptions`](../) 实例。
 
-### 另见
+### 另请参见
 
-* 类 [PdfDocument](../../pdfdocument/)
-* 类 [OpenAIImageDescriptionCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfDocument](../../pdfdocument/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## WithDocument(string) {#withdocument_1}
 
-将文档路径添加到图像描述助手选项的文档集合中。
+向图像描述副驾驶选项的文档集合添加文档路径。
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithDocument(string filePath)
@@ -45,10 +45,12 @@ public OpenAIImageDescriptionCopilotOptions WithDocument(string filePath)
 
 ### 返回值
 
-当前实例的 [`OpenAIImageDescriptionCopilotOptions`](../)。
+当前的 [`OpenAIImageDescriptionCopilotOptions`](../) 实例。
 
-### 另见
+### 另请参见
 
-* 类 [OpenAIImageDescriptionCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FileSaveTarget.SaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: FileSaveTarget 属性。保存目标文件的类型
+title: "FileSaveTarget.SaveTarget"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FileSaveTarget 属性。 保存目标文件的类型"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.plugins/filesavetarget/savetarget/
 ---
-## FileSaveTarget.SaveTarget 属性
+## FileSaveTarget.SaveTarget property
 
-保存目标（文件）的类型。
+保存目标的类型（文件）。
 
 ```csharp
 public DataType SaveTarget { get; }
@@ -16,11 +16,13 @@ public DataType SaveTarget { get; }
 
 ### 返回值
 
-一个 [`DataType`](../../datatype/) 对象，表示输出数据。
+[`DataType`](../../datatype/) 表示输出数据的对象。
 
-### 另请参阅
+### 另请参见
 
-* 枚举 [DataType](../../datatype/)
-* 类 [FileSaveTarget](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [DataType](../../datatype/)
+* class [FileSaveTarget](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: IChatCopilot.DeleteContextAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IChatCopilot 方法。异步删除上下文
+title: "IChatCopilot.DeleteContextAsync"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "IChatCopilot 方法。异步删除上下文"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/ichatcopilot/deletecontextasync/
 ---
-## IChatCopilot.DeleteContextAsync 方法
+## IChatCopilot.DeleteContextAsync method
 
 异步删除上下文。
 
@@ -22,8 +22,10 @@ public Task DeleteContextAsync(CancellationToken? cancellationToken = default)
 
 表示异步操作的任务。
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IChatCopilot](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

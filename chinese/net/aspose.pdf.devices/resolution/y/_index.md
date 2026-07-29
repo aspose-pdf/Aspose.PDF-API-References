@@ -1,12 +1,12 @@
 ---
-title: Resolution.Y
-second_title: Aspose.PDF for .NET API Reference
-description: 分辨率属性。获取或设置垂直图像分辨率
+title: "Resolution.Y"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Resolution 属性。获取或设置垂直图像分辨率"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.devices/resolution/y/
 ---
-## Resolution.Y 属性
+## Resolution.Y property
 
 获取或设置垂直图像分辨率。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.devices/resolution/y/
 public int Y { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Resolution](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Resolution](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

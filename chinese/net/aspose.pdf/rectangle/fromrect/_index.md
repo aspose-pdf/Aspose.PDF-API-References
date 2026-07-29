@@ -1,14 +1,14 @@
 ---
-title: Rectangle.FromRect
-second_title: Aspose.PDF for .NET API Reference
-description: Rectangle 方法。根据给定的 System.Drawing.Rectangle 实例初始化新的矩形
+title: "Rectangle.FromRect"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Rectangle 方法。从给定的 System.Drawing.Rectangle 实例初始化新矩形"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/rectangle/fromrect/
 ---
 ## FromRect(Rectangle) {#fromrect}
 
-根据给定的 System.Drawing.Rectangle 实例初始化新的矩形。
+从给定的 System.Drawing.Rectangle 实例初始化新矩形。
 
 ```csharp
 public static Rectangle FromRect(Rectangle src)
@@ -16,23 +16,23 @@ public static Rectangle FromRect(Rectangle src)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| src | Rectangle | 源矩形，其位置和大小将被设置为新矩形。 |
+| src | Rectangle | 源矩形，其位置和大小将被设置到新矩形。 |
 
 ### 返回值
 
 新矩形。
 
-### 另见
+### 另请参见
 
-* 类 [Rectangle](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FromRect(RectangleF) {#fromrect_1}
 
-根据给定的 System.Drawing.Rectangle 实例初始化新的矩形。
+从给定的 System.Drawing.Rectangle 实例初始化新矩形。
 
 ```csharp
 public static Rectangle FromRect(RectangleF src)
@@ -40,14 +40,16 @@ public static Rectangle FromRect(RectangleF src)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| src | RectangleF | 源矩形，其位置和大小将被设置为新矩形。 |
+| src | RectangleF | 源矩形，其位置和大小将被设置到新矩形。 |
 
 ### 返回值
 
 新矩形。
 
-### 另见
+### 另请参见
 
-* 类 [Rectangle](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

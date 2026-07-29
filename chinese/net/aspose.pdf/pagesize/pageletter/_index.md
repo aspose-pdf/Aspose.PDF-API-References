@@ -1,21 +1,23 @@
 ---
-title: PageSize.PageLetter
-second_title: Aspose.PDF for .NET API Reference
-description: PageSize 属性。信纸大小 279x216 毫米
+title: "PageSize.PageLetter"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PageSize 属性。Letter 大小 279x216 mm"
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf/pagesize/pageletter/
 ---
-## PageSize.PageLetter 属性
+## PageSize.PageLetter property
 
-信纸大小 (279x216 毫米)。
+Letter 尺寸 (279x216 mm)。
 
 ```csharp
 public static PageSize PageLetter { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PageSize](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageSize](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

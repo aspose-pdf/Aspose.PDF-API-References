@@ -1,25 +1,27 @@
 ---
-title: HtmlSaveOptions.FixedLayout
-second_title: Aspose.PDF for .NET API Reference
-description: HtmlSaveOptions 属性。获取或设置一个值，指示 HTML 是否以固定布局创建
+title: "HtmlSaveOptions.FixedLayout"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "HtmlSaveOptions 属性。获取或设置一个值，指示该 HTML 是否以固定布局创建"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/htmlsaveoptions/fixedlayout/
 ---
-## HtmlSaveOptions.FixedLayout 属性
+## HtmlSaveOptions.FixedLayout property
 
-获取或设置一个值，指示 HTML 是否以固定布局创建。
+获取或设置指示 HTML 是否以固定布局创建的值。
 
 ```csharp
 public bool FixedLayout { get; set; }
 ```
 
-### 属性值
+### Property Value
 
-`true` 如果 [固定布局]; 否则为 `false`。
+`true` 如果是 [fixed layout]；否则为 `false`.
 
-### 另请参阅
+### 另请参见
 
-* 类 [HtmlSaveOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,9 +1,9 @@
 ---
-title: Class PdfXmlLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfXmlLoadOptions 类。PdfXml 格式的加载选项
+title: "类 PdfXmlLoadOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.PdfXmlLoadOptions 类。PdfXml 格式的加载选项"
 type: docs
-weight: 8460
+weight: 8590
 url: /zh/net/aspose.pdf/pdfxmlloadoptions/
 ---
 ## PdfXmlLoadOptions class
@@ -14,42 +14,42 @@ PdfXml 格式的加载选项。
 public class PdfXmlLoadOptions : LoadOptions
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [PdfXmlLoadOptions](pdfxmlloadoptions/)() | 默认构造函数。 |
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | 获取或设置标志，以在加载文件时禁用所有字体的许可证限制。当 `true` 时，允许执行许可证禁止的字体操作，例如允许将字体嵌入 PDF 文档，即使许可证规则禁止该字体的嵌入。默认值为 `false`。 |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | 表示 [`LoadOptions`](../loadoptions/) 描述的文件格式。 |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | 处理生成的任何警告的回调。WarningHandler 返回 ReturnAction 枚举项，指定继续或中止。继续是默认操作，加载操作将继续，但用户也可以返回中止，在这种情况下，加载操作应停止。 |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | 获取或设置在加载文件时禁用所有字体的任何许可证限制的标志。当 `true` 时，允许执行该字体许可证禁止的操作，例如即使许可证规则禁止嵌入，也可以将字体嵌入 PDF 文档。默认值为 `false`。 |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | 表示由 [`LoadOptions`](../loadoptions/) 描述的文件格式。 |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | 回调用于处理生成的任何警告。WarningHandler 返回 ReturnAction 枚举项，指定 Continue 或 Abort。Continue 为默认操作，加载过程将继续；但用户也可以返回 Abort，此时加载过程应停止。 |
 
-## Examples
+## 示例
 
-以下示例演示如何将 PDFXML 文件转换为 PDF 文件
+以下示例展示了如何将 PDFXML 文件转换为 PDF 文件
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// 文档目录的路径。
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your PDFXML File.
+	// PDFXML 文件的路径。
 	string pdfXmlFile = Path.Combine(dataDir, "PDFXML-to-PDF.pdfxml");
 
-	// The path to output PDF File.
+	// 输出 PDF 文件的路径。
 	string pdfFile = Path.Combine(dataDir, "PDFXML-to-PDF.pdf");
 
-	// Initialize PdfXmlLoadOptions	
+	// 初始化 PdfXmlLoadOptions	
 	PdfXmlLoadOptions pdfXmlLoadOptions = new PdfXmlLoadOptions();
 		
 	using (Document pdfDocument = new Document(pdfXmlFile, pdfXmlLoadOptions))
 	{
 	 
-		// Save PDF file
+		// 保存 PDF 文件
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -76,8 +76,10 @@ public class PdfXmlLoadOptions : LoadOptions
     End Using
 ```
 
-### See Also
+### 另请参见
 
 * class [LoadOptions](../loadoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

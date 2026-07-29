@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithVectorStoreExpireDays
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions 方法。设置聊天助手选项中向量存储过期的天数
+title: "OpenAIChatCopilotOptions.WithVectorStoreExpireDays"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAIChatCopilotOptions 方法。设置聊天副驾驶选项中向量存储过期的天数"
 type: docs
-weight: 200
+weight: 210
 url: /zh/net/aspose.pdf.ai/openaichatcopilotoptions/withvectorstoreexpiredays/
 ---
-## OpenAIChatCopilotOptions.WithVectorStoreExpireDays 方法
+## OpenAIChatCopilotOptions.WithVectorStoreExpireDays method
 
-设置聊天助手选项中向量存储过期的天数。
+设置聊天副驾驶选项中向量存储过期的天数。
 
 ```csharp
 public OpenAIChatCopilotOptions WithVectorStoreExpireDays(int days)
@@ -16,14 +16,16 @@ public OpenAIChatCopilotOptions WithVectorStoreExpireDays(int days)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| days | Int32 | 向量存储过期的天数。 |
+| 天数 | Int32 | 向量存储过期的天数。 |
 
 ### 返回值
 
-当前实例的 [`OpenAIChatCopilotOptions`](../)。
+当前的 [`OpenAIChatCopilotOptions`](../) 实例。
 
-### 另请参阅
+### 另请参见
 
-* 类 [OpenAIChatCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

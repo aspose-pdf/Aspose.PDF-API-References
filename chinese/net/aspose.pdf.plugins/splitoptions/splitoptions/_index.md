@@ -1,12 +1,12 @@
 ---
-title: SplitOptions.SplitOptions
-second_title: Aspose.PDF for .NET API Reference
-description: SplitOptions 构造函数。默认构造函数
+title: "SplitOptions.SplitOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SplitOptions 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.plugins/splitoptions/splitoptions/
 ---
-## SplitOptions 构造函数
+## SplitOptions constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.plugins/splitoptions/splitoptions/
 public SplitOptions()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [SplitOptions](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SplitOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

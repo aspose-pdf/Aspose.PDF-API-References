@@ -1,14 +1,14 @@
 ---
-title: Page.SetPageSize
-second_title: Aspose.PDF for .NET API Reference
-description: Page 方法。设置页面大小
+title: "Page.SetPageSize"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Page 方法。设置页面的尺寸。"
 type: docs
 weight: 540
 url: /zh/net/aspose.pdf/page/setpagesize/
 ---
-## Page.SetPageSize 方法
+## Page.SetPageSize method
 
-设置页面大小。
+设置页面的尺寸。
 
 ```csharp
 public void SetPageSize(double width, double height)
@@ -16,11 +16,13 @@ public void SetPageSize(double width, double height)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| width | Double | 页面宽度。 |
-| height | Double | 页面高度。 |
+| 宽度 | Double | 页面宽度。 |
+| 高度 | Double | 页面尺寸。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Page](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

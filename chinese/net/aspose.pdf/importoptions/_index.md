@@ -1,14 +1,14 @@
 ---
-title: Class ImportOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ImportOptions 类。ImportOptions 类型持有单个导入选项的抽象级别
+title: "类 ImportOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.ImportOptions 类。ImportOptions 类型在各个导入选项上保持抽象层次"
 type: docs
-weight: 5950
+weight: 6080
 url: /zh/net/aspose.pdf/importoptions/
 ---
-## ImportOptions 类
+## ImportOptions class
 
-ImportOptions 类型持有单个导入选项的抽象级别。
+ImportOptions 类型在各个导入选项上保持抽象层次。
 
 ```csharp
 public abstract class ImportOptions
@@ -22,5 +22,7 @@ public abstract class ImportOptions
 
 ### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

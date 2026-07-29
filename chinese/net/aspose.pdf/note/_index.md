@@ -1,12 +1,12 @@
 ---
-title: Class Note
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Note 类。此类表示生成器段落注释
+title: "类 Note"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Note 类。此类表示生成器段落注释。"
 type: docs
-weight: 7020
+weight: 7160
 url: /zh/net/aspose.pdf/note/
 ---
-## Note 类
+## Note class
 
 此类表示生成器段落注释。
 
@@ -29,7 +29,9 @@ public sealed class Note
 | [Text](../../aspose.pdf/note/text/) { get; set; } | 获取或设置注释文本。 |
 | [TextState](../../aspose.pdf/note/textstate/) { get; set; } | 获取或设置注释文本状态。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

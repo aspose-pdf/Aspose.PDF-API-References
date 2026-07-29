@@ -1,7 +1,7 @@
 ---
-title: OpenAISummaryCopilot.SaveSummaryAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilot 方法。
+title: "OpenAISummaryCopilot.SaveSummaryAsync"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAISummaryCopilot 方法。"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.ai/openaisummarycopilot/savesummaryasync/
@@ -33,3 +33,5 @@ public Task SaveSummaryAsync(string outputFileName, SaveFormat saveFormat,
 * class [OpenAISummaryCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

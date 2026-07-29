@@ -1,22 +1,24 @@
 ---
-title: ConcatenateMatrix.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: ConcatenateMatrix 属性。运算符的矩阵参数
+title: "ConcatenateMatrix.Matrix"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ConcatenateMatrix 属性。运算符的 Matrix 参数"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.operators/concatenatematrix/matrix/
 ---
-## ConcatenateMatrix.Matrix 属性
+## ConcatenateMatrix.Matrix property
 
-运算符的矩阵参数。
+操作符的矩阵参数。
 
 ```csharp
 public Matrix Matrix { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Matrix](../../../aspose.pdf/matrix/)
-* 类 [ConcatenateMatrix](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [ConcatenateMatrix](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

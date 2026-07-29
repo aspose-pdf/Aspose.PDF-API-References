@@ -1,34 +1,36 @@
 ---
-title: Class BuildVersionInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BuildVersionInfo 类。该类提供有关当前产品版本的信息
+title: "类 BuildVersionInfo"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.BuildVersionInfo 类。此类提供有关当前产品构建的信息"
 type: docs
-weight: 2950
+weight: 3060
 url: /zh/net/aspose.pdf/buildversioninfo/
 ---
 ## BuildVersionInfo class
 
-该类提供有关当前产品版本的信息。
+此类提供有关当前产品构建的信息。
 
 ```csharp
 public sealed class BuildVersionInfo
 ```
 
-## Constructors
+## 构造函数
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | [BuildVersionInfo](buildversioninfo/)() | 默认构造函数。 |
 
-## Fields
+## 字段
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
 | const [AssemblyVersion](../../aspose.pdf/buildversioninfo/assemblyversion/) | 程序集版本 |
 | const [FileVersion](../../aspose.pdf/buildversioninfo/fileversion/) | 文件版本 |
 | const [Product](../../aspose.pdf/buildversioninfo/product/) | 产品名称 |
 
-### See Also
+### 另请参见
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

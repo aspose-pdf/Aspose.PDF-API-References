@@ -1,21 +1,23 @@
 ---
-title: PageCollection.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection 方法。移除位于页面上的所有字段并替换为它们的值
+title: "PageCollection.Flatten"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PageCollection 方法。移除页面上所有字段，并将其值放置在原位"
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf/pagecollection/flatten/
 ---
-## PageCollection.Flatten 方法
+## PageCollection.Flatten method
 
-移除位于页面上的所有字段并替换为它们的值。
+移除页面上所有字段，并将其值放置在原处。
 
 ```csharp
 public void Flatten()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PageCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

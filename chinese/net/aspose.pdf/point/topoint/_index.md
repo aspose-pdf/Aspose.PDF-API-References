@@ -1,12 +1,12 @@
 ---
-title: Point.ToPoint
-second_title: Aspose.PDF for .NET API Reference
-description: Point 方法。将点转换为 System.Drawing.PointF 对象
+title: "Point.ToPoint"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Point 方法。将点转换为 System.Drawing.PointF 对象"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/point/topoint/
 ---
-## Point.ToPoint 方法
+## Point.ToPoint method
 
 将点转换为 System.Drawing.PointF 对象。
 
@@ -16,10 +16,12 @@ public PointF ToPoint()
 
 ### 返回值
 
-PointF 结构体。
+PointF 结构。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Point](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Point](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

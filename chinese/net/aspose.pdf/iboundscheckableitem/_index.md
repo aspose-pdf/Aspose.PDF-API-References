@@ -1,12 +1,12 @@
 ---
-title: Interface IBoundsCheckableItem
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.IBoundsCheckableItem 接口。
+title: "接口 IBoundsCheckableItem"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.IBoundsCheckableItem 接口。"
 type: docs
-weight: 5750
+weight: 5880
 url: /zh/net/aspose.pdf/iboundscheckableitem/
 ---
-## IBoundsCheckableItem 接口
+## IBoundsCheckableItem interface
 
 ```csharp
 public interface IBoundsCheckableItem
@@ -16,9 +16,11 @@ public interface IBoundsCheckableItem
 
 | 名称 | 描述 |
 | --- | --- |
-| [CheckBounds](../../aspose.pdf/iboundscheckableitem/checkbounds/)(double, double) | 检查该项是否适合给定的容器尺寸（包括）。 |
+| [CheckBounds](../../aspose.pdf/iboundscheckableitem/checkbounds/)(double, double) | 检查项目是否适配给定的容器尺寸（含边界）。 |
 
 ### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

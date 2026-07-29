@@ -1,14 +1,14 @@
 ---
-title: SetTextMatrix.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: SetTextMatrix 方法。返回操作符的文本表示
+title: "SetTextMatrix.ToString"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SetTextMatrix 方法。返回运算符的文本表示"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.operators/settextmatrix/tostring/
 ---
-## SetTextMatrix.ToString 方法
+## SetTextMatrix.ToString method
 
-返回操作符的文本表示。
+返回运算符的文本表示。
 
 ```csharp
 public override string ToString()
@@ -18,8 +18,10 @@ public override string ToString()
 
 操作符的文本表示。
 
-### 另请参阅
+### 另请参见
 
-* 类 [SetTextMatrix](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SetTextMatrix](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

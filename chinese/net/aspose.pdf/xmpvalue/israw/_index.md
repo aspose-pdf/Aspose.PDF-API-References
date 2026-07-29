@@ -1,14 +1,14 @@
 ---
-title: XmpValue.IsRaw
-second_title: Aspose.PDF for .NET API Reference
-description: XmpValue 属性。值不支持/未知，并提供原始 XML 代码
+title: "XmpValue.IsRaw"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpValue 属性。值不受支持/未知，提供原始 XML 代码"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf/xmpvalue/israw/
 ---
-## XmpValue.IsRaw 属性
+## XmpValue.IsRaw property
 
-值不支持/未知，并提供原始 XML 代码。
+值不受支持/未知，并提供原始 XML 代码。
 
 ```csharp
 public bool IsRaw { get; }
@@ -16,10 +16,12 @@ public bool IsRaw { get; }
 
 ### 返回值
 
-如果值作为原始数据返回，则为 True。
+如果值以原始数据返回，则为 true。
 
-### 另请参阅
+### 另请参见
 
-* 类 [XmpValue](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

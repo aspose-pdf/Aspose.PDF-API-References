@@ -1,7 +1,7 @@
 ---
-title: PdfAnnotationEditor.DeleteAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor 方法。删除文档中的所有注释
+title: "PdfAnnotationEditor.DeleteAnnotations"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfAnnotationEditor 方法。删除文档中的所有注释。"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.facades/pdfannotationeditor/deleteannotations/
@@ -25,9 +25,9 @@ editor.Save("example_out.pdf");
 
 ### 另请参见
 
-* 类 [PdfAnnotationEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -41,7 +41,7 @@ public void DeleteAnnotations(string annotType)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| annotType | 字符串 | 将被删除的注释类型。 |
+| annotType | String | 将被删除的注释类型。 |
 
 ## 示例
 
@@ -54,6 +54,8 @@ editor.Save("example_out.pdf");
 
 ### 另请参见
 
-* 类 [PdfAnnotationEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

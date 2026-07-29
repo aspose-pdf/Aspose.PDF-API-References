@@ -1,14 +1,14 @@
 ---
-title: Color.Aquamarine
-second_title: Aspose.PDF for .NET API Reference
-description: 颜色属性。获取具有 ARGB 值 c FF7FFFD4 的系统定义颜色
+title: "Color.Aquamarine"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Color 属性。获取系统定义的颜色，其 ARGB 值为 c FF7FFFD4"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf/color/aquamarine/
 ---
-## Color.Aquamarine 属性
+## Color.Aquamarine property
 
-获取具有 ARGB 值 \c \#FF7FFFD4 的系统定义颜色。
+获取系统定义的颜色，其 ARGB 值为 \c \#FF7FFFD4。
 
 ```csharp
 public static Color Aquamarine { get; }
@@ -16,10 +16,12 @@ public static Color Aquamarine { get; }
 
 ### 返回值
 
-表示系统定义颜色的 A。
+A 表示系统定义的颜色。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Color](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

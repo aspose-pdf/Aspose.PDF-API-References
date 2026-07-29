@@ -1,14 +1,14 @@
 ---
-title: OutlineCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: OutlineCollection 方法。返回一个枚举器，用于遍历集合
+title: "OutlineCollection.GetEnumerator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OutlineCollection 方法。返回一个遍历集合的枚举器。"
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf/outlinecollection/getenumerator/
 ---
-## OutlineCollection.GetEnumerator 方法
+## OutlineCollection.GetEnumerator method
 
-返回一个枚举器，用于遍历集合。
+返回一个遍历集合的枚举器。
 
 ```csharp
 public override IEnumerator<OutlineItemCollection> GetEnumerator()
@@ -16,11 +16,13 @@ public override IEnumerator<OutlineItemCollection> GetEnumerator()
 
 ### 返回值
 
-一个 System.Collections.IEnumerator 对象，可用于遍历集合。
+一个可用于遍历集合的 System.Collections.IEnumerator 对象。
 
-### 另请参阅
+### 另请参见
 
-* 类 [OutlineItemCollection](../../outlineitemcollection/)
-* 类 [OutlineCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

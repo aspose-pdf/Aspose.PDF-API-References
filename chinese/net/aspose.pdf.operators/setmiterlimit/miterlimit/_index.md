@@ -1,12 +1,12 @@
 ---
-title: SetMiterLimit.MiterLimit
-second_title: Aspose.PDF for .NET API Reference
-description: SetMiterLimit 属性。获取或设置斜接限制
+title: "SetMiterLimit.MiterLimit"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SetMiterLimit 属性。获取或设置斜接限制"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.operators/setmiterlimit/miterlimit/
 ---
-## SetMiterLimit.MiterLimit 属性
+## SetMiterLimit.MiterLimit property
 
 获取或设置斜接限制。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.operators/setmiterlimit/miterlimit/
 public double MiterLimit { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [SetMiterLimit](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SetMiterLimit](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.A6Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes 字段。A6 旋转纸 148 毫米 x 105 毫米
+title: "PaperSizes.A6Rotated"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PaperSizes 字段。A6 旋转纸张 148 mm × 105 mm"
 type: docs
 weight: 180
 url: /zh/net/aspose.pdf.printing/papersizes/a6rotated/
 ---
-## PaperSizes.A6Rotated 字段
+## PaperSizes.A6Rotated field
 
-A6 旋转纸（148 毫米 x 105 毫米）。
+A6 旋转纸 (148 mm by 105 mm).
 
 ```csharp
 public static readonly PaperSize A6Rotated;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PaperSize](../../papersize/)
-* 类 [PaperSizes](../)
-* 命名空间 [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../../)
+
+

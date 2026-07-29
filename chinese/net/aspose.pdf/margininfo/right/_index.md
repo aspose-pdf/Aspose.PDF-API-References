@@ -1,21 +1,23 @@
 ---
-title: MarginInfo.Right
-second_title: Aspose.PDF for .NET API Reference
-description: MarginInfo 属性。获取或设置一个浮点值，表示右边距
+title: "MarginInfo.Right"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MarginInfo 属性。获取或设置指示右侧边距的 float 值"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/margininfo/right/
 ---
-## MarginInfo.Right 属性
+## MarginInfo.Right property
 
-获取或设置一个浮点值，表示右边距。
+获取或设置表示右侧页边距的浮点值。
 
 ```csharp
 public double Right { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [MarginInfo](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [MarginInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

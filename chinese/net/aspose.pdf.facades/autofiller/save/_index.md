@@ -1,14 +1,14 @@
 ---
-title: AutoFiller.Save
-second_title: Aspose.PDF for .NET API Reference
-description: AutoFiller 方法。保存所有的 pdf 文件
+title: "AutoFiller.Save"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AutoFiller 方法。保存所有 PDF。"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf.facades/autofiller/save/
 ---
 ## Save(string) {#save_2}
 
-保存所有的 pdf 文件。
+保存所有 pdf。
 
 ```csharp
 public void Save(string destFile)
@@ -16,19 +16,19 @@ public void Save(string destFile)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| destFile | 字符串 | 输出文件名。 |
+| destFile | String | 输出文件名。 |
 
-### 另见
+### 另请参见
 
-* 类 [AutoFiller](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(Stream) {#save_1}
 
-保存所有的 pdf 文件。
+保存所有 pdf。
 
 ```csharp
 public void Save(Stream destStream)
@@ -36,10 +36,12 @@ public void Save(Stream destStream)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| destStream | 流 | 输出流。 |
+| destStream | Stream | 输出流。 |
 
-### 另见
+### 另请参见
 
-* 类 [AutoFiller](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

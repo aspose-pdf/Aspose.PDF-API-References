@@ -1,12 +1,12 @@
 ---
-title: Enum PageCoordinateType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageCoordinateType 枚举。描述页面坐标类型
+title: "枚举 PageCoordinateType"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.PageCoordinateType 枚举。描述页面坐标类型"
 type: docs
-weight: 8100
+weight: 8240
 url: /zh/net/aspose.pdf/pagecoordinatetype/
 ---
-## PageCoordinateType 枚举
+## PageCoordinateType enumeration
 
 描述页面坐标类型。
 
@@ -18,10 +18,12 @@ public enum PageCoordinateType
 
 | 名称 | 值 | 描述 |
 | --- | --- | --- |
-| MediaBox | `0` | MediaBox 用于指定页面的宽度和高度。对于普通用户来说，这可能等于实际页面大小。MediaBox 是 PDF 中最大的页面框。其他页面框可以等于 MediaBox 的大小，但不能大于它。 |
-| CropBox | `1` | CropBox 定义了页面内容要被裁剪的区域。Acrobat 使用此大小进行屏幕显示和打印。 |
+| MediaBox | `0` | MediaBox 用于指定页面的宽度和高度。对普通用户而言，这通常等同于实际页面尺寸。MediaBox 是 PDF 中最大的页面框。其他页面框可以与 MediaBox 大小相同，但不能更大。 |
+| CropBox | `1` | CropBox 定义页面内容要裁剪的区域。Acrobat 使用该尺寸进行屏幕显示和打印。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

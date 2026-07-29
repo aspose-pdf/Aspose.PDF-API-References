@@ -1,7 +1,7 @@
 ---
-title: PdfFormatConversionOptions.PdfFormatConversionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions 构造函数。构造函数
+title: "PdfFormatConversionOptions.PdfFormatConversionOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfFormatConversionOptions 构造函数。构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/pdfformatconversionoptions/pdfformatconversionoptions/
@@ -17,11 +17,11 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| outputLogFileName | 字符串 | 存储评论的文件路径。 |
-| format | PdfFormat | PDF 格式。 |
-| action | ConvertErrorAction | 无法转换的对象的操作 |
+| outputLogFileName | String | 用于存储注释的文件路径。 |
+| 格式 | PdfFormat | PDF 格式。 |
+| 操作 | ConvertErrorAction | 对无法转换的对象的操作。 |
 
-### 另请参阅
+### 另请参见
 
 * enum [PdfFormat](../../pdfformat/)
 * enum [ConvertErrorAction](../../converterroraction/)
@@ -41,10 +41,10 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| outputLogFileName | 字符串 | 存储评论的文件路径。 |
-| format | PdfFormat | PDF 格式。 |
+| outputLogFileName | String | 用于存储注释的文件路径。 |
+| 格式 | PdfFormat | PDF 格式。 |
 
-### 另请参阅
+### 另请参见
 
 * enum [PdfFormat](../../pdfformat/)
 * class [PdfFormatConversionOptions](../)
@@ -63,9 +63,9 @@ public PdfFormatConversionOptions(PdfFormat format)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| format | PdfFormat | PDF 格式。 |
+| 格式 | PdfFormat | PDF 格式。 |
 
-### 另请参阅
+### 另请参见
 
 * enum [PdfFormat](../../pdfformat/)
 * class [PdfFormatConversionOptions](../)
@@ -84,10 +84,10 @@ public PdfFormatConversionOptions(PdfFormat format, ConvertErrorAction action)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| format | PdfFormat | PDF 格式。 |
-| action | ConvertErrorAction | 无法转换的对象的操作 |
+| 格式 | PdfFormat | PDF 格式。 |
+| 操作 | ConvertErrorAction | 对无法转换的对象的操作。 |
 
-### 另请参阅
+### 另请参见
 
 * enum [PdfFormat](../../pdfformat/)
 * enum [ConvertErrorAction](../../converterroraction/)
@@ -108,12 +108,12 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| outputLogFileName | 字符串 | 存储评论的文件路径。 |
-| format | PdfFormat | PDF 格式。 |
-| action | ConvertErrorAction | 无法转换的对象的操作 |
-| transparencyAction | ConvertTransparencyAction | 图像遮罩对象的操作 |
+| outputLogFileName | String | 用于存储注释的文件路径。 |
+| 格式 | PdfFormat | PDF 格式。 |
+| 操作 | ConvertErrorAction | 对无法转换的对象的操作。 |
+| transparencyAction | ConvertTransparencyAction | 对图像遮罩对象的操作 |
 
-### 另请参阅
+### 另请参见
 
 * enum [PdfFormat](../../pdfformat/)
 * enum [ConvertErrorAction](../../converterroraction/)
@@ -135,14 +135,16 @@ public PdfFormatConversionOptions(Stream outputLogStream, PdfFormat format,
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| outputLogStream | 流 | 存储评论的流 |
-| format | PdfFormat | PDF 格式 |
-| action | ConvertErrorAction | 无法转换的对象的操作 |
+| outputLogStream | Stream | 用于存储注释的流 |
+| 格式 | PdfFormat | PDF 格式 |
+| 操作 | ConvertErrorAction | 对无法转换的对象的操作。 |
 
-### 另请参阅
+### 另请参见
 
 * enum [PdfFormat](../../pdfformat/)
 * enum [ConvertErrorAction](../../converterroraction/)
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

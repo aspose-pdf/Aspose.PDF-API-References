@@ -1,12 +1,12 @@
 ---
-title: FileSpecification.Name
-second_title: Aspose.PDF for .NET API Reference
-description: FileSpecification 属性。获取或设置文件规范名称
+title: "FileSpecification.Name"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FileSpecification 属性。获取或设置文件规范名称"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf/filespecification/name/
 ---
-## FileSpecification.Name 属性
+## FileSpecification.Name property
 
 获取或设置文件规范名称。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/filespecification/name/
 public string Name { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FileSpecification](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

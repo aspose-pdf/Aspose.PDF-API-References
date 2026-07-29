@@ -1,14 +1,14 @@
 ---
-title: Document.GetXmpMetadata
-second_title: Aspose.PDF for .NET API Reference
-description: 文档方法。获取文档的 XMP 元数据
+title: "Document.GetXmpMetadata"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 方法。获取文档的 XMP 元数据"
 type: docs
-weight: 690
+weight: 710
 url: /zh/net/aspose.pdf/document/getxmpmetadata/
 ---
-## Document.GetXmpMetadata 方法
+## Document.GetXmpMetadata method
 
-从文档中获取 XMP 元数据。
+从文档获取 XMP 元数据。
 
 ```csharp
 public void GetXmpMetadata(Stream stream)
@@ -16,10 +16,12 @@ public void GetXmpMetadata(Stream stream)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | 存储元数据的流。 |
+| stream | Stream | 用于存储元数据的流。 |
 
 ### 另请参见
 
-* 类 [Document](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

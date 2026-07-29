@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.ImportAnnotationsFromXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor 方法。 从 XFDF 文件导入所有注释
+title: "PdfAnnotationEditor.ImportAnnotationsFromXfdf"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfAnnotationEditor 方法。从 XFDF 文件导入所有注释"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.facades/pdfannotationeditor/importannotationsfromxfdf/
 ---
 ## ImportAnnotationsFromXfdf(string) {#importannotationsfromxfdf_1}
 
-从 XFDF 文件导入所有注释。
+从 XFDF 文件导入所有批注。
 
 ```csharp
 public void ImportAnnotationsFromXfdf(string xfdfFile)
@@ -16,7 +16,7 @@ public void ImportAnnotationsFromXfdf(string xfdfFile)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| xfdfFile | 字符串 | 输入的 XFDF 文件。 |
+| xfdfFile | String | 输入的 XFDF 文件。 |
 
 ## 示例
 
@@ -27,11 +27,11 @@ editor.ImportAnnotationsFromXfdf("annots.xfdf");
 editor.Save("example_out.pdf");
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfAnnotationEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -45,7 +45,7 @@ public void ImportAnnotationsFromXfdf(Stream xfdfStream)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| xfdfStream | 流 | 输入的 XFDF 数据流。 |
+| xfdfStream | Stream | 输入的 XFDF 数据流。 |
 
 ## 示例
 
@@ -56,8 +56,10 @@ editor.ImportAnnotationsFromXfdf(File.OpenRead("annots.xfdf"));
 editor.Save("example_out.pdf");
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfAnnotationEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

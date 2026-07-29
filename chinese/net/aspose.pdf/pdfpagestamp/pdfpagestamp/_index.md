@@ -1,7 +1,7 @@
 ---
-title: PdfPageStamp.PdfPageStamp
-second_title: Aspose.PDF for .NET API Reference
-description: PdfPageStamp 构造函数。PdfPageStamp 的构造函数
+title: "PdfPageStamp.PdfPageStamp"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfPageStamp 构造函数。PdfPageStamp 的构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/pdfpagestamp/pdfpagestamp/
@@ -16,9 +16,9 @@ public PdfPageStamp(Page pdfPage)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pdfPage | Page | 用于印章的页面。 |
+| pdfPage | 页面 | 用于加盖印章的页面。 |
 
-### 另见
+### 另请参见
 
 * class [Page](../../page/)
 * class [PdfPageStamp](../)
@@ -29,7 +29,7 @@ public PdfPageStamp(Page pdfPage)
 
 ## PdfPageStamp(string, int) {#constructor_2}
 
-从指定文件中指定页面创建 Pdf 页面印章。
+从指定文件中文档的指定页面创建 PDF 页面印章。
 
 ```csharp
 public PdfPageStamp(string fileName, int pageIndex)
@@ -40,7 +40,7 @@ public PdfPageStamp(string fileName, int pageIndex)
 | fileName | String | PDF 文件的名称和页面。 |
 | pageIndex | Int32 | 页面的索引。 |
 
-### 另见
+### 另请参见
 
 * class [PdfPageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -50,7 +50,7 @@ public PdfPageStamp(string fileName, int pageIndex)
 
 ## PdfPageStamp(Stream, int) {#constructor_1}
 
-从流中指定文档的指定页面创建 Pdf 页面印章。
+从流中的文档指定页面创建 PDF 页面印章。
 
 ```csharp
 public PdfPageStamp(Stream stream, int pageIndex)
@@ -58,11 +58,13 @@ public PdfPageStamp(Stream stream, int pageIndex)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| stream | Stream | 包含 PDF 的流 |
+| stream | Stream | 包含 PDF 的流。 |
 | pageIndex | Int32 | 页面的索引。 |
 
-### 另见
+### 另请参见
 
 * class [PdfPageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

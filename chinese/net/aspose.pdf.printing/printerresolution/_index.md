@@ -1,12 +1,12 @@
 ---
-title: Class PrinterResolution
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.PrinterResolution 类。表示打印机支持的分辨率
+title: "类 PrinterResolution"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Printing.PrinterResolution 类。表示打印机支持的分辨率。"
 type: docs
-weight: 9660
+weight: 9810
 url: /zh/net/aspose.pdf.printing/printerresolution/
 ---
-## PrinterResolution 类
+## PrinterResolution class
 
 表示打印机支持的分辨率。
 
@@ -25,8 +25,8 @@ public class PrinterResolution
 | 名称 | 描述 |
 | --- | --- |
 | [Kind](../../aspose.pdf.printing/printerresolution/kind/) { get; set; } | 获取指示打印机分辨率类型的值。 |
-| [X](../../aspose.pdf.printing/printerresolution/x/) { get; set; } | 获取打印机在水平方向上的分辨率，以每英寸点数表示。 |
-| [Y](../../aspose.pdf.printing/printerresolution/y/) { get; set; } | 获取打印机在垂直方向上的分辨率，以每英寸点数表示。 |
+| [X](../../aspose.pdf.printing/printerresolution/x/) { get; set; } | 获取打印机在水平方向上的分辨率（每英寸点数）。 |
+| [Y](../../aspose.pdf.printing/printerresolution/y/) { get; set; } | 获取打印机在垂直方向上的分辨率（每英寸点数）。 |
 
 ## 方法
 
@@ -34,7 +34,9 @@ public class PrinterResolution
 | --- | --- |
 | override [ToString](../../aspose.pdf.printing/printerresolution/tostring/)() | 以字符串形式提供有关 PrinterResolution 的一些有趣信息。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

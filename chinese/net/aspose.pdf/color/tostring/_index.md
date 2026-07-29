@@ -1,12 +1,12 @@
 ---
-title: Color.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Color 方法。转换为字符串
+title: "Color.ToString"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Color 方法。转换为字符串"
 type: docs
 weight: 1550
 url: /zh/net/aspose.pdf/color/tostring/
 ---
-## Color.ToString 方法
+## Color.ToString method
 
 转换为字符串。
 
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### 返回值
 
-Color 对象的字符串表示。
+Color 对象的字符串表示形式。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Color](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

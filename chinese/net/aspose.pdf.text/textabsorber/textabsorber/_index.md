@@ -1,7 +1,7 @@
 ---
-title: TextAbsorber.TextAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: TextAbsorber 构造函数。初始化 TextAbsorber 的新实例
+title: "TextAbsorber.TextAbsorber"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextAbsorber 构造函数。初始化 TextAbsorber 的新实例。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.text/textabsorber/textabsorber/
@@ -20,28 +20,28 @@ public TextAbsorber()
 
 ## 示例
 
-该示例演示如何从 PDF 文档的所有页面提取文本。
+此示例演示如何从 PDF Document 的所有 Page 提取文本。
 
 ```csharp
-// open document
+// 打开文档
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// 创建 TextAbsorber 对象以提取文本
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// 接受所有文档页面的吸收器
 doc.Pages.Accept(absorber);
 
-// get the extracted text
+// 获取提取的文本
 string extractedText = absorber.Text;
 
 ```
 
-### 另见
+### 另请参见
 
-* 类 [TextAbsorber](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -63,35 +63,35 @@ public TextAbsorber(TextExtractionOptions extractionOptions)
 
 ## 示例
 
-该示例演示如何从 PDF 文档的所有页面提取文本。
+此示例演示如何从 PDF Document 的所有 Page 提取文本。
 
 ```csharp
-// open document
+// 打开文档
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text with formatting
+// 创建 TextAbsorber 对象以使用格式提取文本。
 TextAbsorber absorber = new TextAbsorber(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure));
 
-// accept the absorber for all document's pages
+// 接受所有文档页面的吸收器
 doc.Pages.Accept(absorber);
 
-// get the extracted text
+// 获取提取的文本
 string extractedText = absorber.Text;
 
 ```
 
-### 另见
+### 另请参见
 
-* 类 [TextExtractionOptions](../../textextractionoptions/)
-* 类 [TextAbsorber](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextExtractionOptions](../../textextractionoptions/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextAbsorber(TextExtractionOptions, TextSearchOptions) {#constructor_2}
 
-使用提取和文本搜索选项初始化 [`TextAbsorber`](../) 的新实例。
+使用提取和文本搜索选项初始化一个新的 [`TextAbsorber`](../) 实例。
 
 ```csharp
 public TextAbsorber(TextExtractionOptions extractionOptions, TextSearchOptions textSearchOptions)
@@ -106,19 +106,19 @@ public TextAbsorber(TextExtractionOptions extractionOptions, TextSearchOptions t
 
 执行文本提取，并通过 [`Text`](../text/) 对象提供对提取文本的访问。
 
-### 另见
+### 另请参见
 
-* 类 [TextExtractionOptions](../../textextractionoptions/)
-* 类 [TextSearchOptions](../../textsearchoptions/)
-* 类 [TextAbsorber](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextExtractionOptions](../../textextractionoptions/)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextAbsorber(TextSearchOptions) {#constructor_3}
 
-使用文本搜索选项初始化 [`TextAbsorber`](../) 的新实例。
+使用文本搜索选项初始化一个新的 [`TextAbsorber`](../) 实例。
 
 ```csharp
 public TextAbsorber(TextSearchOptions textSearchOptions)
@@ -132,9 +132,11 @@ public TextAbsorber(TextSearchOptions textSearchOptions)
 
 执行文本提取，并通过 [`Text`](../text/) 对象提供对提取文本的访问。
 
-### 另见
+### 另请参见
 
-* 类 [TextSearchOptions](../../textsearchoptions/)
-* 类 [TextAbsorber](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TextAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

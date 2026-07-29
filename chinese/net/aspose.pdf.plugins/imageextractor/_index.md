@@ -1,12 +1,12 @@
 ---
-title: Class ImageExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Plugins.ImageExtractor 类。表示 ImageExtractor 插件
+title: "类 ImageExtractor"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Plugins.ImageExtractor 类。表示 ImageExtractor 插件"
 type: docs
-weight: 8890
+weight: 9020
 url: /zh/net/aspose.pdf.plugins/imageextractor/
 ---
-## ImageExtractor 类
+## ImageExtractor class
 
 表示 ImageExtractor 插件。
 
@@ -24,8 +24,8 @@ public class ImageExtractor : PdfExtractor
 
 | 名称 | 描述 |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/pdfextractor/dispose/)() | IDisposable 的实现。实际上，对于 PdfExtractor 来说并不是必需的。 |
-| [Process](../../aspose.pdf.plugins/pdfextractor/process/)(IPluginOptions) | 使用指定参数开始 PdfExtractor 处理。 |
+| [Dispose](../../aspose.pdf.plugins/pdfextractor/dispose/)() | 实现 IDisposable。实际上，对 PdfExtractor 并非必要。 |
+| [Process](../../aspose.pdf.plugins/pdfextractor/process/)(IPluginOptions) | 使用指定参数启动 PdfExtractor 处理。 |
 
 ## 备注
 
@@ -33,28 +33,30 @@ public class ImageExtractor : PdfExtractor
 
 ## 示例
 
-该示例演示如何从 PDF 文档中提取图像。
+此示例演示如何从 PDF 文档中提取图像。
 
 ```csharp
-// create ImageExtractor object to extract images
+// 创建 ImageExtractor 对象以提取图像
 using (ImageExtractor extractor = new ImageExtractor())
 {
-    // create ImageExtractorOptions
+    // 创建 ImageExtractorOptions
     imageExtractorOptions = new ImageExtractorOptions();
     
-    // add input file path to data sources
+    // 将输入文件路径添加到数据源
     imageExtractor.AddDataSource(new FileDataSource(inputPath));
     
-    // perform extraction process
+    // 执行提取过程
     ResultContainer resultContainer = extractor.Process(imageExtractorOptions);
     
-    // get the image from the ResultContainer object
+    // 从 ResultContainer 对象获取图像
     var imageExtracted = resultContainer.ResultCollection[0].ToFile();
 }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfExtractor](../pdfextractor/)
-* 命名空间 [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../)
+* class [PdfExtractor](../pdfextractor/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../)
+
+

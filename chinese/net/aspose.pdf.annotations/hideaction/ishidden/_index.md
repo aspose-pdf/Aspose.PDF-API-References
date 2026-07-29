@@ -1,12 +1,12 @@
 ---
-title: HideAction.IsHidden
-second_title: Aspose.PDF for .NET API Reference
-description: HideAction 属性。获取或设置注释的隐藏/显示状态
+title: "HideAction.IsHidden"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "HideAction 属性。获取或设置注释的隐藏/显示状态。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.annotations/hideaction/ishidden/
 ---
-## HideAction.IsHidden 属性
+## HideAction.IsHidden property
 
 获取或设置注释的隐藏/显示状态。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.annotations/hideaction/ishidden/
 public bool IsHidden { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [HideAction](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

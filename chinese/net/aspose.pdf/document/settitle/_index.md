@@ -1,14 +1,14 @@
 ---
-title: Document.SetTitle
-second_title: Aspose.PDF for .NET API Reference
-description: 文档方法。为 Pdf 文档设置标题
+title: "Document.SetTitle"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Document 方法。为 PDF 文档设置标题"
 type: docs
-weight: 870
+weight: 890
 url: /zh/net/aspose.pdf/document/settitle/
 ---
-## Document.SetTitle 方法
+## Document.SetTitle method
 
-为 Pdf 文档设置标题
+设置 PDF 文档的标题。
 
 ```csharp
 public void SetTitle(string title)
@@ -16,10 +16,12 @@ public void SetTitle(string title)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| title | 字符串 | 文档的标题 |
+| title | String | 文档标题 |
 
-### 另见
+### 另请参见
 
-* 类 [Document](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

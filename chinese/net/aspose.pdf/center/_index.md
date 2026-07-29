@@ -1,12 +1,12 @@
 ---
-title: Class Center
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Center 类。表示页眉和页脚数据的居中对齐设置
+title: "类 Center"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Center 类。表示页眉和页脚数据的居中对齐设置。"
 type: docs
-weight: 2990
+weight: 3100
 url: /zh/net/aspose.pdf/center/
 ---
-## Center 类
+## Center class
 
 表示页眉和页脚数据的居中对齐设置。
 
@@ -27,8 +27,10 @@ public sealed class Center : HeaderFooterData
 | [PageDate](../../aspose.pdf/headerfooterdata/pagedate/) { get; set; } | 获取或设置日期设置。 |
 | [PageNumber](../../aspose.pdf/headerfooterdata/pagenumber/) { get; set; } | 获取或设置页码设置。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [HeaderFooterData](../headerfooterdata/)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* class [HeaderFooterData](../headerfooterdata/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

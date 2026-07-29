@@ -1,12 +1,12 @@
 ---
-title: ImageDevice.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDevice 属性。获取图像分辨率
+title: "ImageDevice.Resolution"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ImageDevice 属性。获取图像分辨率"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf.devices/imagedevice/resolution/
 ---
-## ImageDevice.Resolution 属性
+## ImageDevice.Resolution property
 
 获取图像分辨率。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.devices/imagedevice/resolution/
 public Resolution Resolution { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Resolution](../../resolution/)
-* 类 [ImageDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [ImageDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

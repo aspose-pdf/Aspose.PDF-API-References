@@ -1,21 +1,23 @@
 ---
-title: ColumnInfo.ColumnCount
-second_title: Aspose.PDF for .NET API Reference
-description: ColumnInfo 属性。获取或设置一个 int 值，指示列的数量
+title: "ColumnInfo.ColumnCount"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ColumnInfo 属性。获取或设置一个表示列数的 int 值"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/columninfo/columncount/
 ---
-## ColumnInfo.ColumnCount 属性
+## ColumnInfo.ColumnCount property
 
-获取或设置一个 int 值，指示列的数量。
+获取或设置一个整数值，指示列的数量。
 
 ```csharp
 public int ColumnCount { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * class [ColumnInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

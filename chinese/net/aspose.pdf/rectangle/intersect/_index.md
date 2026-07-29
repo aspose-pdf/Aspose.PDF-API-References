@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Intersect
-second_title: Aspose.PDF for .NET API Reference
-description: 矩形方法。相交于矩形
+title: "Rectangle.Intersect"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Rectangle 方法。与矩形相交"
 type: docs
 weight: 210
 url: /zh/net/aspose.pdf/rectangle/intersect/
 ---
-## Rectangle.Intersect 方法
+## Rectangle.Intersect method
 
-相交于矩形。
+两个矩形相交。
 
 ```csharp
 public Rectangle Intersect(Rectangle otherRect)
@@ -16,14 +16,16 @@ public Rectangle Intersect(Rectangle otherRect)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| otherRect | Rectangle | 要与此矩形相交的矩形。 |
+| otherRect | Rectangle | 与此矩形相交的矩形。 |
 
 ### 返回值
 
-矩形的交集；如果矩形没有相交，则为 null。
+矩形的交集；如果矩形未相交则为 null。
 
 ### 另请参见
 
-* 类 [Rectangle](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

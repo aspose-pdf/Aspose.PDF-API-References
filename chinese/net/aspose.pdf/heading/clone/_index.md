@@ -1,12 +1,12 @@
 ---
-title: Heading.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Heading 方法。克隆标题
+title: "Heading.Clone"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Heading 方法。克隆标题"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf/heading/clone/
 ---
-## Heading.Clone 方法
+## Heading.Clone method
 
 克隆标题。
 
@@ -18,8 +18,10 @@ public override object Clone()
 
 克隆的对象
 
-### 另请参阅
+### 另请参见
 
-* 类 [Heading](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

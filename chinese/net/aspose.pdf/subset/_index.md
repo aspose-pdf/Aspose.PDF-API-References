@@ -1,14 +1,14 @@
 ---
-title: Enum Subset
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Subset 枚举。表示分页工件可以应用的页面子集
+title: "枚举 Subset"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Subset 枚举。表示分页工件可以应用的页面子集。"
 type: docs
-weight: 10200
+weight: 10380
 url: /zh/net/aspose.pdf/subset/
 ---
-## 子集枚举
+## Subset enumeration
 
-表示分页工件可以应用的页面子集。
+表示分页工件可应用的页面子集。
 
 ```csharp
 public enum Subset
@@ -18,11 +18,13 @@ public enum Subset
 
 | 名称 | 值 | 描述 |
 | --- | --- | --- |
-| All | `0` | 表示工件适用于所有页面。 |
-| Even | `1` | 表示工件仅适用于偶数页。 |
-| Odd | `2` | 表示工件仅适用于奇数页。 |
+| All | `0` | 指示该工件适用于所有页面。 |
+| Even | `1` | 指示该工件仅适用于偶数页。 |
+| Odd | `2` | 指示该工件仅适用于奇数页。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

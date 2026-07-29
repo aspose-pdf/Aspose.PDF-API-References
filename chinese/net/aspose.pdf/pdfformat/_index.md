@@ -1,14 +1,14 @@
 ---
-title: Enum PdfFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PdfFormat 枚举。此类表示 pdf 格式
+title: "枚举 PdfFormat"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.PdfFormat 枚举。此类表示一种 pdf 格式。"
 type: docs
-weight: 8370
+weight: 8510
 url: /zh/net/aspose.pdf/pdfformat/
 ---
-## PdfFormat 枚举
+## PdfFormat enumeration
 
-此类表示 pdf 格式。
+此类表示 PDF 格式。
 
 ```csharp
 public enum PdfFormat
@@ -45,7 +45,9 @@ public enum PdfFormat
 | PDF_A_4F | `24` | PDF/A-4f 格式 |
 | PDF_X_4 | `25` | PDF/X-4 格式 |
 
-### 另见
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

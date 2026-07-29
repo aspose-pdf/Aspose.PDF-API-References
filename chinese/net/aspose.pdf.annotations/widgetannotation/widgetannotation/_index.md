@@ -1,14 +1,14 @@
 ---
-title: WidgetAnnotation.WidgetAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: WidgetAnnotation 构造函数。创建用于生成器的注释
+title: "WidgetAnnotation.WidgetAnnotation"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "WidgetAnnotation 构造函数。创建用于 Generator 的注释"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/widgetannotation/widgetannotation/
 ---
-## WidgetAnnotation 构造函数
+## WidgetAnnotation constructor
 
-创建注释（用于生成器）
+创建注释（用于 Generator）
 
 ```csharp
 public WidgetAnnotation(Document doc)
@@ -16,7 +16,7 @@ public WidgetAnnotation(Document doc)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| doc | Document | 注释将被创建的文档。 |
+| 文档 | Document | 将创建注释的 Document。 |
 
 ### 另请参见
 
@@ -24,3 +24,5 @@ public WidgetAnnotation(Document doc)
 * class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

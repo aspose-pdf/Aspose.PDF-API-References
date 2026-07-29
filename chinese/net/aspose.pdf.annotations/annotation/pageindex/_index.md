@@ -1,12 +1,12 @@
 ---
-title: Annotation.PageIndex
-second_title: Aspose.PDF for .NET API Reference
-description: 注释属性。获取包含注释的页面索引
+title: "Annotation.PageIndex"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Annotation 属性。获取包含注释的页面索引"
 type: docs
 weight: 140
 url: /zh/net/aspose.pdf.annotations/annotation/pageindex/
 ---
-## Annotation.PageIndex 属性
+## Annotation.PageIndex property
 
 获取包含注释的页面索引。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.annotations/annotation/pageindex/
 public virtual int PageIndex { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Annotation](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

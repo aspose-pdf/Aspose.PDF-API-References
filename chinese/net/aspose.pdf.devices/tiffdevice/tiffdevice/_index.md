@@ -1,7 +1,7 @@
 ---
-title: TiffDevice.TiffDevice
-second_title: Aspose.PDF for .NET API Reference
-description: TiffDevice 构造函数。初始化 TiffDevice 类的新实例
+title: "TiffDevice.TiffDevice"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TiffDevice 构造函数。初始化 TiffDevice 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.devices/tiffdevice/tiffdevice/
@@ -16,14 +16,14 @@ public TiffDevice(Resolution resolution)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| resolution | Resolution | 结果图像文件的分辨率。 |
+| 分辨率 | 分辨率 | 结果图像文件的分辨率。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Resolution](../../resolution/)
-* 类 [TiffDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -37,16 +37,16 @@ public TiffDevice(Resolution resolution, TiffSettings settings)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| resolution | Resolution | 输出图像的分辨率。 |
-| settings | TiffSettings | Tiff 设置，参见 [`TiffSettings`](../../tiffsettings/) 类。 |
+| 分辨率 | 分辨率 | 输出图像的分辨率。 |
+| settings | TiffSettings | Tiff 设置，请参阅 [`TiffSettings`](../../tiffsettings/) 类。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Resolution](../../resolution/)
-* 类 [TiffSettings](../../tiffsettings/)
-* 类 [TiffDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -60,18 +60,18 @@ public TiffDevice(Resolution resolution, TiffSettings settings, IIndexBitmapConv
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| resolution | Resolution | 输出图像的分辨率。 |
-| settings | TiffSettings | Tiff 设置，参见 [`TiffSettings`](../../tiffsettings/) 类。 |
+| 分辨率 | 分辨率 | 输出图像的分辨率。 |
+| settings | TiffSettings | Tiff 设置，请参阅 [`TiffSettings`](../../tiffsettings/) 类。 |
 | converter | IIndexBitmapConverter | 外部转换器 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Resolution](../../resolution/)
-* 类 [TiffSettings](../../tiffsettings/)
-* 接口 [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
-* 类 [TiffDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [TiffSettings](../../tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -85,14 +85,14 @@ public TiffDevice(TiffSettings settings)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| settings | TiffSettings | Tiff 设置，参见 [`TiffSettings`](../../tiffsettings/) 类。 |
+| settings | TiffSettings | Tiff 设置，请参阅 [`TiffSettings`](../../tiffsettings/) 类。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [TiffSettings](../../tiffsettings/)
-* 类 [TiffDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -106,16 +106,16 @@ public TiffDevice(TiffSettings settings, IIndexBitmapConverter converter)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| settings | TiffSettings | Tiff 设置，参见 [`TiffSettings`](../../tiffsettings/) 类。 |
+| settings | TiffSettings | Tiff 设置，请参阅 [`TiffSettings`](../../tiffsettings/) 类。 |
 | converter | IIndexBitmapConverter | 外部转换器 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [TiffSettings](../../tiffsettings/)
-* 接口 [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
-* 类 [TiffDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TiffSettings](../../tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -127,11 +127,11 @@ public TiffDevice(TiffSettings settings, IIndexBitmapConverter converter)
 public TiffDevice()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TiffDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -145,18 +145,18 @@ public TiffDevice(int width, int height, Resolution resolution, TiffSettings set
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| width | Int32 | 图像输出宽度。 |
-| height | Int32 | 图像输出高度。 |
-| resolution | Resolution | 输出图像的分辨率。 |
-| settings | TiffSettings | Tiff 设置，参见 [`TiffSettings`](../../tiffsettings/) 类。 |
+| 宽度 | Int32 | 图像输出宽度。 |
+| 高度 | Int32 | 图像输出高度。 |
+| 分辨率 | 分辨率 | 输出图像的分辨率。 |
+| settings | TiffSettings | Tiff 设置，请参阅 [`TiffSettings`](../../tiffsettings/) 类。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Resolution](../../resolution/)
-* 类 [TiffSettings](../../tiffsettings/)
-* 类 [TiffDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -171,20 +171,20 @@ public TiffDevice(int width, int height, Resolution resolution, TiffSettings set
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| width | Int32 | 图像输出宽度。 |
-| height | Int32 | 图像输出高度。 |
-| resolution | Resolution | 输出图像的分辨率。 |
-| settings | TiffSettings | Tiff 设置，参见 [`TiffSettings`](../../tiffsettings/) 类。 |
+| 宽度 | Int32 | 图像输出宽度。 |
+| 高度 | Int32 | 图像输出高度。 |
+| 分辨率 | 分辨率 | 输出图像的分辨率。 |
+| settings | TiffSettings | Tiff 设置，请参阅 [`TiffSettings`](../../tiffsettings/) 类。 |
 | converter | IIndexBitmapConverter | 外部转换器 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Resolution](../../resolution/)
-* 类 [TiffSettings](../../tiffsettings/)
-* 接口 [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
-* 类 [TiffDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [TiffSettings](../../tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -198,18 +198,18 @@ public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings setting
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pageSize | PageSize | 输出图像的页面大小。 |
-| resolution | Resolution | 输出图像的分辨率。 |
-| settings | TiffSettings | Tiff 设置，参见 [`TiffSettings`](../../tiffsettings/) 类。 |
+| pageSize | PageSize | 输出图像的页面尺寸。 |
+| 分辨率 | 分辨率 | 输出图像的分辨率。 |
+| settings | TiffSettings | Tiff 设置，请参阅 [`TiffSettings`](../../tiffsettings/) 类。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PageSize](../../../aspose.pdf/pagesize/)
-* 类 [Resolution](../../resolution/)
-* 类 [TiffSettings](../../tiffsettings/)
-* 类 [TiffDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../resolution/)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -224,20 +224,20 @@ public TiffDevice(PageSize pageSize, Resolution resolution, TiffSettings setting
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pageSize | PageSize | 输出图像的页面大小。 |
-| resolution | Resolution | 输出图像的分辨率。 |
-| settings | TiffSettings | Tiff 设置，参见 [`TiffSettings`](../../tiffsettings/) 类。 |
+| pageSize | PageSize | 输出图像的页面尺寸。 |
+| 分辨率 | 分辨率 | 输出图像的分辨率。 |
+| settings | TiffSettings | Tiff 设置，请参阅 [`TiffSettings`](../../tiffsettings/) 类。 |
 | converter | IIndexBitmapConverter | 外部转换器 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PageSize](../../../aspose.pdf/pagesize/)
-* 类 [Resolution](../../resolution/)
-* 类 [TiffSettings](../../tiffsettings/)
-* 接口 [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
-* 类 [TiffDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../resolution/)
+* class [TiffSettings](../../tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -251,16 +251,16 @@ public TiffDevice(int width, int height, Resolution resolution)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| width | Int32 | 图像输出宽度。 |
-| height | Int32 | 图像输出高度。 |
-| resolution | Resolution | 输出图像的分辨率。 |
+| 宽度 | Int32 | 图像输出宽度。 |
+| 高度 | Int32 | 图像输出高度。 |
+| 分辨率 | 分辨率 | 输出图像的分辨率。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Resolution](../../resolution/)
-* 类 [TiffDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Resolution](../../resolution/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -274,16 +274,16 @@ public TiffDevice(PageSize pageSize, Resolution resolution)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pageSize | PageSize | 输出图像的页面大小。 |
-| resolution | Resolution | 输出图像的分辨率。 |
+| pageSize | PageSize | 输出图像的页面尺寸。 |
+| 分辨率 | 分辨率 | 输出图像的分辨率。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PageSize](../../../aspose.pdf/pagesize/)
-* 类 [Resolution](../../resolution/)
-* 类 [TiffDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../resolution/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -297,16 +297,16 @@ public TiffDevice(int width, int height, TiffSettings settings)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| width | Int32 | 图像输出宽度。 |
-| height | Int32 | 图像输出高度。 |
-| settings | TiffSettings | Tiff 设置，参见 [`TiffSettings`](../../tiffsettings/) 类。 |
+| 宽度 | Int32 | 图像输出宽度。 |
+| 高度 | Int32 | 图像输出高度。 |
+| settings | TiffSettings | Tiff 设置，请参阅 [`TiffSettings`](../../tiffsettings/) 类。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [TiffSettings](../../tiffsettings/)
-* 类 [TiffDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -320,18 +320,18 @@ public TiffDevice(int width, int height, TiffSettings settings, IIndexBitmapConv
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| width | Int32 | 图像输出宽度。 |
-| height | Int32 | 图像输出高度。 |
-| settings | TiffSettings | Tiff 设置，参见 [`TiffSettings`](../../tiffsettings/) 类。 |
+| 宽度 | Int32 | 图像输出宽度。 |
+| 高度 | Int32 | 图像输出高度。 |
+| settings | TiffSettings | Tiff 设置，请参阅 [`TiffSettings`](../../tiffsettings/) 类。 |
 | converter | IIndexBitmapConverter | 外部转换器 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [TiffSettings](../../tiffsettings/)
-* 接口 [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
-* 类 [TiffDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TiffSettings](../../tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -345,18 +345,18 @@ public TiffDevice(PageSize pageSize, TiffSettings settings, IIndexBitmapConverte
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pageSize | PageSize | 输出图像的页面大小。 |
-| settings | TiffSettings | Tiff 设置，参见 [`TiffSettings`](../../tiffsettings/) 类。 |
+| pageSize | PageSize | 输出图像的页面尺寸。 |
+| settings | TiffSettings | Tiff 设置，请参阅 [`TiffSettings`](../../tiffsettings/) 类。 |
 | converter | IIndexBitmapConverter | 外部转换器 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PageSize](../../../aspose.pdf/pagesize/)
-* 类 [TiffSettings](../../tiffsettings/)
-* 接口 [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
-* 类 [TiffDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [TiffSettings](../../tiffsettings/)
+* interface [IIndexBitmapConverter](../../../aspose.pdf/iindexbitmapconverter/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -370,16 +370,16 @@ public TiffDevice(PageSize pageSize, TiffSettings settings)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pageSize | PageSize | 输出图像的页面大小。 |
-| settings | TiffSettings | Tiff 设置，参见 [`TiffSettings`](../../tiffsettings/) 类。 |
+| pageSize | PageSize | 输出图像的页面尺寸。 |
+| settings | TiffSettings | Tiff 设置，请参阅 [`TiffSettings`](../../tiffsettings/) 类。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PageSize](../../../aspose.pdf/pagesize/)
-* 类 [TiffSettings](../../tiffsettings/)
-* 类 [TiffDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -393,14 +393,14 @@ public TiffDevice(int width, int height)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| width | Int32 | 图像输出宽度。 |
-| height | Int32 | 图像输出高度。 |
+| 宽度 | Int32 | 图像输出宽度。 |
+| 高度 | Int32 | 图像输出高度。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [TiffDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -414,11 +414,13 @@ public TiffDevice(PageSize pageSize)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pageSize | PageSize | 输出图像的页面大小。 |
+| pageSize | PageSize | 输出图像的页面尺寸。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PageSize](../../../aspose.pdf/pagesize/)
-* 类 [TiffDevice](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextFragment.CloneWithSegments
-second_title: Aspose.PDF for .NET API Reference
-description: TextFragment 方法。克隆带有所有段落的片段
+title: "TextFragment.CloneWithSegments"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextFragment 方法。克隆包含所有段的片段。"
 type: docs
 weight: 190
 url: /zh/net/aspose.pdf.text/textfragment/clonewithsegments/
 ---
-## TextFragment.CloneWithSegments 方法
+## TextFragment.CloneWithSegments method
 
-克隆带有所有段落的片段。
+克隆包含所有段的片段。
 
 ```csharp
 public virtual object CloneWithSegments()
@@ -18,8 +18,10 @@ public virtual object CloneWithSegments()
 
 克隆的对象
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextFragment](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

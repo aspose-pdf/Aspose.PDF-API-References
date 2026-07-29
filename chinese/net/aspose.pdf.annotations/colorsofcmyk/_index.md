@@ -1,14 +1,14 @@
 ---
-title: Enum ColorsOfCMYK
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.ColorsOfCMYK 枚举。包含在 CMYK 颜色模型中的颜色
+title: "枚举 ColorsOfCMYK"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Annotations.ColorsOfCMYK 枚举。CMYK 颜色模型中包含的颜色。"
 type: docs
-weight: 1610
+weight: 1700
 url: /zh/net/aspose.pdf.annotations/colorsofcmyk/
 ---
-## ColorsOfCMYK 枚举
+## ColorsOfCMYK enumeration
 
-包含在 CMYK 颜色模型中的颜色。
+CMYK 颜色模型中包含的颜色。
 
 ```csharp
 public enum ColorsOfCMYK
@@ -18,12 +18,14 @@ public enum ColorsOfCMYK
 
 | 名称 | 值 | 描述 |
 | --- | --- | --- |
-| 青色 | `0` | 青色。 |
-| 品红 | `1` | 品红色。 |
-| 黄色 | `2` | 黄色。 |
-| 黑色 | `3` | 黑色。 |
+| Cyan | `0` | 青色。 |
+| Magenta | `1` | 品红色。 |
+| Yellow | `2` | 黄色。 |
+| Black | `3` | 黑色。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../)
+
+

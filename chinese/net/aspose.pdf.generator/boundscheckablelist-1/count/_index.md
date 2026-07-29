@@ -1,12 +1,12 @@
 ---
-title: BoundsCheckableList1.Count
-second_title: Aspose.PDF for .NET API Reference
-description: BoundsCheckableList 属性。获取 System.Collections.Generic.List 中包含的元素数量
+title: "BoundsCheckableList1.Count"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BoundsCheckableList 属性。 获取 System.Collections.Generic.List 中包含的元素数量"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.generator/boundscheckablelist-1/count/
 ---
-## BoundsCheckableList&lt;T&gt;.Count 属性
+## BoundsCheckableList&lt;T&gt;.Count property
 
 获取 System.Collections.Generic.List 中包含的元素数量。
 
@@ -18,8 +18,10 @@ public int Count { get; }
 
 System.Collections.Generic.List 中包含的元素数量。
 
-### 另请参阅
+### 另请参见
 
-* 类 [BoundsCheckableList&lt;T&gt;](../)
-* 命名空间 [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
+* assembly [Aspose.PDF](../../../)
+
+

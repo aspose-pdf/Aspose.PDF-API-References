@@ -1,12 +1,12 @@
 ---
-title: MCRElement.MCID
-second_title: Aspose.PDF for .NET API Reference
-description: MCRElement 属性。获取标记内容引用对象的 MCID
+title: "MCRElement.MCID"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MCRElement 属性。获取标记内容引用对象的 MCID"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.logicalstructure/mcrelement/mcid/
 ---
-## MCRElement.MCID 属性
+## MCRElement.MCID property
 
 获取标记内容引用对象的 MCID。
 
@@ -14,12 +14,14 @@ url: /zh/net/aspose.pdf.logicalstructure/mcrelement/mcid/
 public int MCID { get; }
 ```
 
-### 属性值
+### Property Value
 
 标记内容引用对象的 MCID。
 
-### 另请参阅
+### 另请参见
 
-* 类 [MCRElement](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [MCRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

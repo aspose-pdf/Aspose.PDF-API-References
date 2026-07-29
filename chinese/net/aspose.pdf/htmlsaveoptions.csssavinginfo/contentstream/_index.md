@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.CssSavingInfo.ContentStream
-second_title: Aspose.PDF for .NET API Reference
-description: CssSavingInfo 字段。由转换器设置。表示保存的 CSS 的二进制内容
+title: "HtmlSaveOptions.CssSavingInfo.ContentStream"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CssSavingInfo 字段。由转换器设置。表示已保存 CSS 的二进制内容。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/htmlsaveoptions.csssavinginfo/contentstream/
 ---
-## HtmlSaveOptions.CssSavingInfo.ContentStream 字段
+## HtmlSaveOptions.CssSavingInfo.ContentStream field
 
-由转换器设置。表示保存的 CSS 的二进制内容
+由转换器设置。表示已保存 CSS 的二进制内容。
 
 ```csharp
 public Stream ContentStream;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [CssSavingInfo](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CssSavingInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.DeleteThreadAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIClient 方法。异步删除现有线程
+title: "OpenAIClient.DeleteThreadAsync"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAIClient 方法。异步删除现有线程"
 type: docs
 weight: 150
 url: /zh/net/aspose.pdf.ai/openaiclient/deletethreadasync/
 ---
-## OpenAIClient.DeleteThreadAsync 方法
+## OpenAIClient.DeleteThreadAsync method
 
 异步删除现有线程。
 
@@ -17,8 +17,8 @@ public Task<DeleteStatusResponse> DeleteThreadAsync(string threadId,
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| threadId | 字符串 | 要删除的线程的 ID。 |
-| cancellationToken | 可空`1 | 取消操作的令牌。 |
+| threadId | String | 要删除的线程的 ID。 |
+| cancellationToken | Nullable`1 | 用于取消操作的令牌。 |
 
 ### 返回值
 
@@ -28,11 +28,13 @@ public Task<DeleteStatusResponse> DeleteThreadAsync(string threadId,
 
 | 异常 | 条件 |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | 当线程 ID 为 null 或空时抛出。 |
+| [AIClientException](../../aiclientexception/) | 当线程 Id 为 null 或为空时抛出。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [DeleteStatusResponse](../../deletestatusresponse/)
-* 类 [OpenAIClient](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DeleteStatusResponse](../../deletestatusresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

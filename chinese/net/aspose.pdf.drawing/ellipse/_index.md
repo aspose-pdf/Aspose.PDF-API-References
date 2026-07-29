@@ -1,12 +1,12 @@
 ---
-title: Class Ellipse
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.Ellipse 类。表示椭圆
+title: "类 Ellipse"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Drawing.Ellipse 类。表示椭圆。"
 type: docs
-weight: 3910
+weight: 4030
 url: /zh/net/aspose.pdf.drawing/ellipse/
 ---
-## Ellipse 类
+## Ellipse class
 
 表示椭圆。
 
@@ -25,10 +25,10 @@ public sealed class Ellipse : Shape
 | 名称 | 描述 |
 | --- | --- |
 | [Bottom](../../aspose.pdf.drawing/ellipse/bottom/) { get; set; } | 获取或设置一个浮点值，指示椭圆的底部位置。 |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | 获取或设置一个 [`GraphInfo`](../shape/graphinfo/) 对象，指示图形信息，如颜色、线宽等。 |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | 获取或设置一个 [`GraphInfo`](../shape/graphinfo/) 对象，指示图形信息，例如颜色、线宽等。 |
 | [Height](../../aspose.pdf.drawing/ellipse/height/) { get; set; } | 获取或设置一个浮点值，指示椭圆的高度。 |
 | [Left](../../aspose.pdf.drawing/ellipse/left/) { get; set; } | 获取或设置一个浮点值，指示椭圆的左侧位置。 |
-| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | 获取或设置形状的文本 |
+| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | 获取或设置形状的文本。 |
 | [Width](../../aspose.pdf.drawing/ellipse/width/) { get; set; } | 获取或设置一个浮点值，指示椭圆的宽度。 |
 
 ## 方法
@@ -37,8 +37,10 @@ public sealed class Ellipse : Shape
 | --- | --- |
 | override [CheckBounds](../../aspose.pdf.drawing/ellipse/checkbounds/)(double, double) |  |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Shape](../shape/)
-* 命名空间 [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
-* 程序集 [Aspose.PDF](../../)
+* class [Shape](../shape/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../)
+
+

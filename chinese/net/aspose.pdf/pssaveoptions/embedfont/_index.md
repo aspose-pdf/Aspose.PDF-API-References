@@ -1,21 +1,23 @@
 ---
-title: PsSaveOptions.EmbedFont
-second_title: Aspose.PDF for .NET API Reference
-description: PsSaveOptions 属性。获取/设置指示字体是否必须嵌入生成的 PS 文档的标志
+title: "PsSaveOptions.EmbedFont"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PsSaveOptions 属性。获取/设置指示是否必须在生成的 PS 文档中嵌入字体的标志"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/pssaveoptions/embedfont/
 ---
-## PsSaveOptions.EmbedFont 属性
+## PsSaveOptions.EmbedFont property
 
-获取/设置指示字体是否必须嵌入生成的 PS 文档的标志。
+获取/设置指示是否必须在生成的 PS 文档中嵌入字体的标志。
 
 ```csharp
 public bool EmbedFont { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PsSaveOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PsSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

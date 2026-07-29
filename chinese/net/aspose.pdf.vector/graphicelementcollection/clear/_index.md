@@ -1,21 +1,23 @@
 ---
-title: GraphicElementCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: GraphicElementCollection 方法。清除集合
+title: "GraphicElementCollection.Clear"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "GraphicElementCollection 方法。清除集合"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.vector/graphicelementcollection/clear/
 ---
-## GraphicElementCollection.Clear 方法
+## GraphicElementCollection.Clear method
 
-清除集合。
+清空集合。
 
 ```csharp
 public void Clear()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [GraphicElementCollection](../)
-* 命名空间 [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
-* 程序集 [Aspose.PDF](../../../)
+* class [GraphicElementCollection](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* assembly [Aspose.PDF](../../../)
+
+

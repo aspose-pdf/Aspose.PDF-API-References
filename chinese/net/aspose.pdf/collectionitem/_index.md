@@ -1,14 +1,14 @@
 ---
-title: Class CollectionItem
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.CollectionItem 类。表示一个集合项类。集合项包含由集合模式描述的数据
+title: "类 CollectionItem"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.CollectionItem 类。表示集合项类。集合项包含由集合模式描述的数据。"
 type: docs
-weight: 3050
+weight: 3160
 url: /zh/net/aspose.pdf/collectionitem/
 ---
-## CollectionItem 类
+## CollectionItem class
 
-表示一个集合项类。集合项包含由集合模式描述的数据。
+表示一个集合项类。该集合项包含由集合模式描述的数据。
 
 ```csharp
 public class CollectionItem
@@ -18,7 +18,7 @@ public class CollectionItem
 
 | 名称 | 描述 |
 | --- | --- |
-| [AllNames](../../aspose.pdf/collectionitem/allnames/) { get; } | 获取集合项值的所有名称的集合。 |
+| [AllNames](../../aspose.pdf/collectionitem/allnames/) { get; } | 获取所有集合项值名称的集合。 |
 | [IsEmpty](../../aspose.pdf/collectionitem/isempty/) { get; } | 获取一个值，指示集合项是否为空。 |
 
 ## 方法
@@ -37,7 +37,9 @@ public class CollectionItem
 | --- | --- |
 | class [Value&lt;T&gt;](../../aspose.pdf/collectionitem.value-1) | 表示集合项值的类。 |
 
-### 另见
+### 另请参见
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

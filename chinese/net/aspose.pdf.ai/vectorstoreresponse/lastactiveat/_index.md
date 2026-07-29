@@ -1,21 +1,23 @@
 ---
-title: VectorStoreResponse.LastActiveAt
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreResponse 属性。获取或设置向量存储最后活动时的 Unix 时间戳（以秒为单位）
+title: "VectorStoreResponse.LastActiveAt"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "VectorStoreResponse 属性。获取或设置向量存储上次活跃时的 Unix 时间戳（秒）"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.ai/vectorstoreresponse/lastactiveat/
 ---
-## VectorStoreResponse.LastActiveAt 属性
+## VectorStoreResponse.LastActiveAt property
 
-获取或设置向量存储最后活动时的 Unix 时间戳（以秒为单位）。
+获取或设置向量存储最近一次活跃时的 Unix 时间戳（秒）。
 
 ```csharp
 public long? LastActiveAt { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [VectorStoreResponse](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [VectorStoreResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

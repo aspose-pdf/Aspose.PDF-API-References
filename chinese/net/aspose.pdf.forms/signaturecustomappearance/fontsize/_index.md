@@ -1,12 +1,12 @@
 ---
-title: SignatureCustomAppearance.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearance 属性。获取/设置字体大小。默认值 10
+title: "SignatureCustomAppearance.FontSize"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SignatureCustomAppearance 属性。获取/设置字体大小。默认值 10"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf.forms/signaturecustomappearance/fontsize/
 ---
-## SignatureCustomAppearance.FontSize 属性
+## SignatureCustomAppearance.FontSize property
 
 获取/设置字体大小。默认值：10。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.forms/signaturecustomappearance/fontsize/
 public double FontSize { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [SignatureCustomAppearance](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

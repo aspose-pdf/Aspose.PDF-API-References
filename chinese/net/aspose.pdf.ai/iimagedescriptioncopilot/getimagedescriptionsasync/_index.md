@@ -1,14 +1,14 @@
 ---
-title: IImageDescriptionCopilot.GetImageDescriptionsAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IImageDescriptionCopilot 方法。异步获取 PDF 文档中图像的描述
+title: "IImageDescriptionCopilot.GetImageDescriptionsAsync"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "IImageDescriptionCopilot 方法。异步获取来自 PDF 文档的图像描述"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/iimagedescriptioncopilot/getimagedescriptionsasync/
 ---
-## IImageDescriptionCopilot.GetImageDescriptionsAsync 方法
+## IImageDescriptionCopilot.GetImageDescriptionsAsync method
 
-异步获取 PDF 文档中图像的描述。
+异步获取 PDF 文档中图像的图像描述。
 
 ```csharp
 public Task<List<ImageDescriptionResult>> GetImageDescriptionsAsync(
@@ -21,11 +21,13 @@ public Task<List<ImageDescriptionResult>> GetImageDescriptionsAsync(
 
 ### 返回值
 
-表示异步操作的任务，包含图像描述结果。
+一个任务，表示带有图像描述结果的异步操作。
 
-### 另请参阅
+### 另请参见
 
-* 类 [ImageDescriptionResult](../../imagedescriptionresult/)
-* 接口 [IImageDescriptionCopilot](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ImageDescriptionResult](../../imagedescriptionresult/)
+* interface [IImageDescriptionCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

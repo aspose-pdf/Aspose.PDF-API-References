@@ -1,14 +1,14 @@
 ---
-title: Heading.CloneWithSegments
-second_title: Aspose.PDF for .NET API Reference
-description: 标题方法。克隆带有所有段的标题
+title: "Heading.CloneWithSegments"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Heading 方法。克隆包含所有段的标题"
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf/heading/clonewithsegments/
 ---
-## 标题.CloneWithSegments 方法
+## Heading.CloneWithSegments method
 
-克隆带有所有段的标题。
+克隆包含所有段落的标题。
 
 ```csharp
 public override object CloneWithSegments()
@@ -18,8 +18,10 @@ public override object CloneWithSegments()
 
 克隆的对象
 
-### 另请参阅
+### 另请参见
 
-* 类 [Heading](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

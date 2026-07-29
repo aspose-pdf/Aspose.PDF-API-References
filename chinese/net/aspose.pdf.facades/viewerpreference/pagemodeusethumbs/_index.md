@@ -1,12 +1,12 @@
 ---
-title: ViewerPreference.PageModeUseThumbs
-second_title: Aspose.PDF for .NET API Reference
-description: ViewerPreference 字段。缩略图可见
+title: "ViewerPreference.PageModeUseThumbs"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ViewerPreference 字段。缩略图可见"
 type: docs
 weight: 250
 url: /zh/net/aspose.pdf.facades/viewerpreference/pagemodeusethumbs/
 ---
-## ViewerPreference.PageModeUseThumbs 字段
+## ViewerPreference.PageModeUseThumbs field
 
 缩略图可见。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.facades/viewerpreference/pagemodeusethumbs/
 public const int PageModeUseThumbs;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ViewerPreference](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,28 +1,30 @@
 ---
-title: Class MarkupSection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.MarkupSection 类。表示一个标记部分，即包含文本的页面矩形区域，并且可以与其他文本块在视觉上分开。
+title: "类 MarkupSection"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Text.MarkupSection 类。表示一个标记部分，即包含文本的页面矩形区域，并且可以在视觉上与其他文本块分离。"
 type: docs
-weight: 10640
+weight: 10820
 url: /zh/net/aspose.pdf.text/markupsection/
 ---
 ## MarkupSection class
 
-表示一个标记部分 - 包含文本的页面矩形区域，并且可以与其他文本块在视觉上分开。
+表示标记节——页面上包含文本的矩形区域，可在视觉上与其他文本块区分。
 
 ```csharp
 public sealed class MarkupSection
 ```
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [Fragments](../../aspose.pdf.text/markupsection/fragments/) { get; } | 包含在该部分内的非空 [`TextFragment`](../textfragment/) 对象的集合。 |
-| [Paragraphs](../../aspose.pdf.text/markupsection/paragraphs/) { get; } | 包含在该部分内的 [`MarkupParagraph`](../markupparagraph/) 对象的集合。 |
+| [Fragments](../../aspose.pdf.text/markupsection/fragments/) { get; } | 集合包含非空的 [`TextFragment`](../textfragment/) 对象，这些对象位于该部分内部。 |
+| [Paragraphs](../../aspose.pdf.text/markupsection/paragraphs/) { get; } | 集合包含位于该部分内部的 [`MarkupParagraph`](../markupparagraph/) 对象。 |
 | [Rectangle](../../aspose.pdf.text/markupsection/rectangle/) { get; } | 部分矩形 |
 
-### See Also
+### 另请参见
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

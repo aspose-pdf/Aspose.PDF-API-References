@@ -1,12 +1,12 @@
 ---
-title: TableGenerator.TableGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: TableGenerator 构造函数。默认构造函数
+title: "TableGenerator.TableGenerator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TableGenerator 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.plugins/tablegenerator/tablegenerator/
 ---
-## TableGenerator 构造函数
+## TableGenerator constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.plugins/tablegenerator/tablegenerator/
 public TableGenerator()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TableGenerator](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TableGenerator](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

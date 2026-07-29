@@ -1,12 +1,12 @@
 ---
-title: TextProperties.Color
-second_title: Aspose.PDF for .NET API Reference
-description: TextProperties 属性。获取或设置文本颜色
+title: "TextProperties.Color"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextProperties 属性。获取或设置文本颜色"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.facades/textproperties/color/
 ---
-## TextProperties.Color 属性
+## TextProperties.Color property
 
 获取或设置文本颜色。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.facades/textproperties/color/
 public Color Color { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextProperties](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextProperties](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

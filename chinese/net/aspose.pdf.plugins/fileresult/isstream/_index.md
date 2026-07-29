@@ -1,12 +1,12 @@
 ---
-title: FileResult.IsStream
-second_title: Aspose.PDF for .NET API Reference
-description: FileResult 属性。指示结果是否为输出流
+title: "FileResult.IsStream"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FileResult 属性。指示结果是否为输出流"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.plugins/fileresult/isstream/
 ---
-## FileResult.IsStream 属性
+## FileResult.IsStream property
 
 指示结果是否为输出流。
 
@@ -16,10 +16,12 @@ public bool IsStream { get; }
 
 ### 返回值
 
-如果结果是流对象，则为 `true`；否则为 `false`。
+`true` 表示结果是流对象；否则为 `false`。
 
-### 另请参阅
+### 另请参见
 
-* 类 [FileResult](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FileResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

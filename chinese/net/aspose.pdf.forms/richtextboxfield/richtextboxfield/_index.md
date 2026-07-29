@@ -1,12 +1,12 @@
 ---
-title: RichTextBoxField.RichTextBoxField
-second_title: Aspose.PDF for .NET API Reference
-description: RichTextBoxField 构造函数。Rich Text Box 字段的构造函数
+title: "RichTextBoxField.RichTextBoxField"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "RichTextBoxField 构造函数。Rich Text Box 字段的构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.forms/richtextboxfield/richtextboxfield/
 ---
-## RichTextBoxField 构造函数
+## RichTextBoxField constructor
 
 Rich Text Box 字段的构造函数。
 
@@ -16,7 +16,7 @@ public RichTextBoxField(Page page, Rectangle rect)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | 字段将放置的页面。 |
+| 页面 | 页面 | 放置字段的 Page。 |
 | rect | Rectangle | 字段在页面上的位置。 |
 
 ### 另请参见
@@ -26,3 +26,5 @@ public RichTextBoxField(Page page, Rectangle rect)
 * class [RichTextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

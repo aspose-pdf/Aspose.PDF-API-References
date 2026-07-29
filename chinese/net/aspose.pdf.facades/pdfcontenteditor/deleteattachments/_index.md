@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.DeleteAttachments
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor 方法。删除 PDF 文档中的所有附件
+title: "PdfContentEditor.DeleteAttachments"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfContentEditor 方法。删除 PDF 文档中的所有附件"
 type: docs
 weight: 310
 url: /zh/net/aspose.pdf.facades/pdfcontenteditor/deleteattachments/
 ---
-## PdfContentEditor.DeleteAttachments 方法
+## PdfContentEditor.DeleteAttachments method
 
 删除 PDF 文档中的所有附件。
 
@@ -23,8 +23,10 @@ editor.DeleteAttachments();
 editor.Save("example_out.pdf");
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfContentEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

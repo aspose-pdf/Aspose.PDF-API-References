@@ -1,12 +1,12 @@
 ---
-title: Interface IPipelineOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.IPipelineOptions 接口。定义与管道配置相关的转换选项
+title: "接口 IPipelineOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.IPipelineOptions 接口。定义与管道配置相关的转换选项。"
 type: docs
-weight: 5810
+weight: 5940
 url: /zh/net/aspose.pdf/ipipelineoptions/
 ---
-## IPipelineOptions 接口
+## IPipelineOptions interface
 
 定义与管道配置相关的转换选项。
 
@@ -18,9 +18,11 @@ public interface IPipelineOptions
 
 | 名称 | 描述 |
 | --- | --- |
-| [BatchSize](../../aspose.pdf/ipipelineoptions/batchsize/) { get; set; } | 指定从节点到节点传递的页面部分的大小。 |
+| [BatchSize](../../aspose.pdf/ipipelineoptions/batchsize/) { get; set; } | 指定从一个节点传递到另一个节点的页面块大小。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

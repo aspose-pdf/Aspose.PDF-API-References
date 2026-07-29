@@ -1,12 +1,12 @@
 ---
-title: ResultContainer.ResultCollection
-second_title: Aspose.PDF for .NET API Reference
-description: ResultContainer 属性。获取操作结果的集合
+title: "ResultContainer.ResultCollection"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ResultContainer 属性。获取操作结果的集合"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.plugins/resultcontainer/resultcollection/
 ---
-## ResultContainer.ResultCollection 属性
+## ResultContainer.ResultCollection property
 
 获取操作结果的集合
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.plugins/resultcontainer/resultcollection/
 public List<IOperationResult> ResultCollection { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 接口 [IOperationResult](../../ioperationresult/)
-* 类 [ResultContainer](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IOperationResult](../../ioperationresult/)
+* class [ResultContainer](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

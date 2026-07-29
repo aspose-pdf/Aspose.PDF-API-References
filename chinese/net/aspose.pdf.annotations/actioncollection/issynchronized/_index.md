@@ -1,12 +1,12 @@
 ---
-title: ActionCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: ActionCollection 属性。如果对象已同步，则返回 true
+title: "ActionCollection.IsSynchronized"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ActionCollection 属性。返回 true 如果对象已同步"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.annotations/actioncollection/issynchronized/
 ---
-## ActionCollection.IsSynchronized 属性
+## ActionCollection.IsSynchronized property
 
 如果对象已同步，则返回 true。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.annotations/actioncollection/issynchronized/
 public bool IsSynchronized { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ActionCollection](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

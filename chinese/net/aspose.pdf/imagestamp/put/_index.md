@@ -1,14 +1,14 @@
 ---
-title: ImageStamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: ImageStamp 方法。将图形印章添加到页面
+title: "ImageStamp.Put"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ImageStamp 方法。向页面添加图形印章"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf/imagestamp/put/
 ---
-## ImageStamp.Put 方法
+## ImageStamp.Put method
 
-将图形印章添加到页面。
+在页面上添加图形印章。
 
 ```csharp
 public override void Put(Page page)
@@ -16,11 +16,13 @@ public override void Put(Page page)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | 用于印章的页面。 |
+| 页面 | 页面 | 用于印章的页面。 |
 
-### 另见
+### 另请参见
 
 * class [Page](../../page/)
 * class [ImageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

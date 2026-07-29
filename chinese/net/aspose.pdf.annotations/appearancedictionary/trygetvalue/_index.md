@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.TryGetValue
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary 方法。尝试在字典中查找键，并在找到时检索值
+title: "AppearanceDictionary.TryGetValue"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AppearanceDictionary 方法。尝试在字典中查找键，并在找到时检索其值"
 type: docs
 weight: 160
 url: /zh/net/aspose.pdf.annotations/appearancedictionary/trygetvalue/
 ---
-## AppearanceDictionary.TryGetValue 方法
+## AppearanceDictionary.TryGetValue method
 
-尝试在字典中查找键，并在找到时检索值。
+尝试在字典中查找键并在找到时检索其值。
 
 ```csharp
 public bool TryGetValue(string key, out XForm value)
@@ -16,16 +16,18 @@ public bool TryGetValue(string key, out XForm value)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| key | String | 要在字典中搜索的键。 |
-| value | XForm& | 检索到的值。 |
+| 键 | String | 要在字典中搜索的键。 |
+| 值 | XForm& | 检索到的值。 |
 
 ### 返回值
 
-如果找到键，则返回 true。
+如果找到键，则为 true。
 
-### 另请参阅
+### 另请参见
 
-* 类 [XForm](../../../aspose.pdf/xform/)
-* 类 [AppearanceDictionary](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

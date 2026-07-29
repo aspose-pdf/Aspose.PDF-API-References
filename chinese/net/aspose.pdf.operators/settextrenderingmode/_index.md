@@ -1,14 +1,14 @@
 ---
-title: Class SetTextRenderingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetTextRenderingMode 类。表示 Tr 操作符设置文本渲染模式的类
+title: "类 SetTextRenderingMode"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Operators.SetTextRenderingMode 类。表示 Tr 操作符（设置文本渲染模式）的类"
 type: docs
-weight: 7840
+weight: 7980
 url: /zh/net/aspose.pdf.operators/settextrenderingmode/
 ---
-## SetTextRenderingMode 类
+## SetTextRenderingMode class
 
-表示 Tr 操作符（设置文本渲染模式）。
+表示 Tr 运算符的类（设置文本渲染模式）。
 
 ```csharp
 public class SetTextRenderingMode : TextStateOperator
@@ -34,8 +34,10 @@ public class SetTextRenderingMode : TextStateOperator
 | override [ToString](../../aspose.pdf/operator/tostring/)() | 返回操作符及其参数的文本。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | 将此实例与给定对象进行比较。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextStateOperator](../textstateoperator/)
-* 命名空间 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../)
+* class [TextStateOperator](../textstateoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

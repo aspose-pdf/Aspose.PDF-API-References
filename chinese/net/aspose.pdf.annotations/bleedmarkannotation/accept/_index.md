@@ -1,14 +1,14 @@
 ---
-title: BleedMarkAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: BleedMarkAnnotation 方法。接受访问者进行注释处理
+title: "BleedMarkAnnotation.Accept"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BleedMarkAnnotation 方法。接受访问者以处理注释"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.annotations/bleedmarkannotation/accept/
 ---
-## BleedMarkAnnotation.Accept 方法
+## BleedMarkAnnotation.Accept method
 
-接受访问者进行注释处理。
+接受用于注释处理的访问者。
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(AnnotationSelector visitor)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| visitor | AnnotationSelector | AnnotationSelector 对象。 |
+| 访问者 | AnnotationSelector | AnnotationSelector 对象。 |
 
 ### 另请参见
 
-* 类 [AnnotationSelector](../../annotationselector/)
-* 类 [BleedMarkAnnotation](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [BleedMarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

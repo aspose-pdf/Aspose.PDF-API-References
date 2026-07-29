@@ -1,12 +1,12 @@
 ---
-title: HeaderArtifact.HeaderArtifact
-second_title: Aspose.PDF for .NET API Reference
-description: HeaderArtifact 构造函数。创建 Header Artifact 实例
+title: "HeaderArtifact.HeaderArtifact"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "HeaderArtifact 构造函数。创建 Header Artifact 实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/headerartifact/headerartifact/
 ---
-## HeaderArtifact 构造函数
+## HeaderArtifact constructor
 
 创建 Header Artifact 实例。
 
@@ -19,3 +19,5 @@ public HeaderArtifact()
 * class [HeaderArtifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

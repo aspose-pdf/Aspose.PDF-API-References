@@ -1,12 +1,12 @@
 ---
-title: Margins.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: Margins 属性。获取或设置底部
+title: "Margins.Bottom"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Margins 属性。获取或设置底部。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.devices/margins/bottom/
 ---
-## Margins.Bottom 属性
+## Margins.Bottom property
 
 获取或设置底部。
 
@@ -14,12 +14,14 @@ url: /zh/net/aspose.pdf.devices/margins/bottom/
 public int Bottom { get; set; }
 ```
 
-### 属性值
+### Property Value
 
 底部。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Margins](../)
-* 命名空间 [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* assembly [Aspose.PDF](../../../)
+
+

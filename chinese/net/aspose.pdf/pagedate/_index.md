@@ -1,14 +1,14 @@
 ---
-title: Class PageDate
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageDate 类。表示由日、月和年组成的日期格式
+title: "类 PageDate"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.PageDate 类。表示由日、月和年组成的日期格式"
 type: docs
-weight: 8110
+weight: 8250
 url: /zh/net/aspose.pdf/pagedate/
 ---
-## PageDate 类
+## PageDate class
 
-表示由日、月和年组成的日期格式。
+表示由日、月、年组成的日期格式。
 
 ```csharp
 public sealed class PageDate
@@ -33,7 +33,7 @@ public sealed class PageDate
 
 | 名称 | 描述 |
 | --- | --- |
-| [GetFormattedDate](../../aspose.pdf/pagedate/getformatteddate/)() | 返回基于当前日期格式的格式化日期字符串。 |
+| [GetFormattedDate](../../aspose.pdf/pagedate/getformatteddate/)() | 返回基于当前日期格式的已格式化日期字符串。 |
 
 ## 其他成员
 
@@ -43,7 +43,9 @@ public sealed class PageDate
 | class [MonthComponent](../../aspose.pdf/pagedate.monthcomponent) | 表示日期的月组件。 |
 | class [YearComponent](../../aspose.pdf/pagedate.yearcomponent) | 表示日期的年组件。 |
 
-### 另请参阅
+### 另请参见
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: SignatureCustomAppearance.DateSignedAtLabel
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearance 属性。获取/设置签署日期标签。默认值 日期
+title: "SignatureCustomAppearance.DateSignedAtLabel"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SignatureCustomAppearance 属性。获取/设置签署日期标签。默认值 Date"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.forms/signaturecustomappearance/datesignedatlabel/
 ---
-## SignatureCustomAppearance.DateSignedAtLabel 属性
+## SignatureCustomAppearance.DateSignedAtLabel property
 
-获取/设置签署日期标签。默认值：“日期”。
+获取/设置签署日期标签。默认值："Date"。
 
 ```csharp
 public string DateSignedAtLabel { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [SignatureCustomAppearance](../)
-* 命名空间 [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* assembly [Aspose.PDF](../../../)
+
+

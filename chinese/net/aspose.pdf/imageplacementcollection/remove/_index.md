@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: ImagePlacementCollection 方法。 从集合中删除指定项
+title: "ImagePlacementCollection.Remove"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ImagePlacementCollection 方法。删除集合中指定的项"
 type: docs
 weight: 110
 url: /zh/net/aspose.pdf/imageplacementcollection/remove/
 ---
-## ImagePlacementCollection.Remove 方法
+## ImagePlacementCollection.Remove method
 
-从集合中删除指定项
+从集合中删除指定的项
 
 ```csharp
 public bool Remove(ImagePlacement item)
@@ -20,11 +20,13 @@ public bool Remove(ImagePlacement item)
 
 ### 返回值
 
-如果项被删除，则为 true；否则为 false。
+如果已删除项则为 true；否则为 false。
 
-### 另请参阅
+### 另请参见
 
-* 类 [ImagePlacement](../../imageplacement/)
-* 类 [ImagePlacementCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ImagePlacement](../../imageplacement/)
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

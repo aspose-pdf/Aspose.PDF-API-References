@@ -1,21 +1,23 @@
 ---
-title: MoveToNextLineShowText.Text
-second_title: Aspose.PDF for .NET API Reference
-description: MoveToNextLineShowText 属性。获取操作员文本
+title: "MoveToNextLineShowText.Text"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "MoveToNextLineShowText 属性。获取运算符文本"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.operators/movetonextlineshowtext/text/
 ---
-## MoveToNextLineShowText.Text 属性
+## MoveToNextLineShowText.Text property
 
-获取操作员文本。
+获取运算符文本。
 
 ```csharp
 public override string Text { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [MoveToNextLineShowText](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [MoveToNextLineShowText](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

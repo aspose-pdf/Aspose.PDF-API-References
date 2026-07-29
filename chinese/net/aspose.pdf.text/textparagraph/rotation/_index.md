@@ -1,12 +1,12 @@
 ---
-title: TextParagraph.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: TextParagraph 属性。获取或设置以度为单位的旋转角度
+title: "TextParagraph.Rotation"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextParagraph 属性。获取或设置以度为单位的旋转角度"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.text/textparagraph/rotation/
 ---
-## TextParagraph.Rotation 属性
+## TextParagraph.Rotation property
 
 获取或设置以度为单位的旋转角度。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.text/textparagraph/rotation/
 public double Rotation { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextParagraph](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

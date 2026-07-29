@@ -1,9 +1,9 @@
 ---
-title: Class ExportFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ExportFieldsOptions 类。表示导出表单字段选项的基类
+title: "类 ExportFieldsOptions"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.ExportFieldsOptions 类。表示用于导出表单字段的选项的基类。"
 type: docs
-weight: 4100
+weight: 4220
 url: /zh/net/aspose.pdf/exportfieldsoptions/
 ---
 ## ExportFieldsOptions class
@@ -14,13 +14,15 @@ url: /zh/net/aspose.pdf/exportfieldsoptions/
 public abstract class ExportFieldsOptions
 ```
 
-## Properties
+## 属性
 
-| Name | Description |
+| 名称 | 描述 |
 | --- | --- |
-| [ExportPasswordValue](../../aspose.pdf/exportfieldsoptions/exportpasswordvalue/) { get; set; } | 获取或设置一个值，指示密码值是否应被导出。 |
+| [ExportPasswordValue](../../aspose.pdf/exportfieldsoptions/exportpasswordvalue/) { get; set; } | 获取或设置一个值，指示是否应导出密码值。 |
 
-### See Also
+### 另请参见
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

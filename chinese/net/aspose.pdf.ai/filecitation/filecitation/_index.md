@@ -1,12 +1,12 @@
 ---
-title: FileCitation.FileCitation
-second_title: Aspose.PDF for .NET API Reference
-description: FileCitation 构造函数。默认构造函数
+title: "FileCitation.FileCitation"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FileCitation 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.ai/filecitation/filecitation/
 ---
-## FileCitation 构造函数
+## FileCitation constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/filecitation/filecitation/
 public FileCitation()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FileCitation](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FileCitation](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

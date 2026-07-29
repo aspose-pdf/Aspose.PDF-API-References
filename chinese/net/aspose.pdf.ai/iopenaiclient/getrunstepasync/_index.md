@@ -1,12 +1,12 @@
 ---
-title: IOpenAIClient.GetRunStepAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IOpenAIClient 方法。异步检索运行中特定步骤的详细信息
+title: "IOpenAIClient.GetRunStepAsync"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "IOpenAIClient 方法。异步检索运行中具体步骤的详细信息"
 type: docs
 weight: 250
 url: /zh/net/aspose.pdf.ai/iopenaiclient/getrunstepasync/
 ---
-## IOpenAIClient.GetRunStepAsync 方法
+## IOpenAIClient.GetRunStepAsync method
 
 异步检索运行中特定步骤的详细信息。
 
@@ -17,10 +17,10 @@ public Task<RunStepResponse> GetRunStepAsync(string threadId, string runId, stri
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| threadId | 字符串 | 包含运行的线程 ID。 |
-| runId | 字符串 | 包含步骤的运行 ID。 |
-| runStepId | 字符串 | 要检索的运行步骤 ID。 |
-| cancellationToken | 可空`1 | 取消操作的令牌。 |
+| threadId | String | 包含该运行的线程的 ID。 |
+| runId | String | 包含该步骤的运行的 ID。 |
+| runStepId | String | 要检索的运行步骤的 ID。 |
+| cancellationToken | Nullable`1 | 用于取消操作的令牌。 |
 
 ### 返回值
 
@@ -30,13 +30,15 @@ public Task<RunStepResponse> GetRunStepAsync(string threadId, string runId, stri
 
 | 异常 | 条件 |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | 当线程 ID 为 null 或空时抛出。 |
-| [AIClientException](../../aiclientexception/) | 当运行 ID 为 null 或空时抛出。 |
-| [AIClientException](../../aiclientexception/) | 当运行步骤 ID 为 null 或空时抛出。 |
+| [AIClientException](../../aiclientexception/) | 当线程 Id 为 null 或为空时抛出。 |
+| [AIClientException](../../aiclientexception/) | 当运行 Id 为 null 或为空时抛出。 |
+| [AIClientException](../../aiclientexception/) | 当运行步骤 Id 为 null 或为空时抛出。 |
 
-### 另见
+### 另请参见
 
-* 类 [RunStepResponse](../../runstepresponse/)
-* 接口 [IOpenAIClient](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [RunStepResponse](../../runstepresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

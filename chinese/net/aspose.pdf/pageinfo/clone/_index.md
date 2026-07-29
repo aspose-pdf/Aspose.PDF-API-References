@@ -1,14 +1,14 @@
 ---
-title: PageInfo.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: PageInfo 方法。克隆页面信息
+title: "PageInfo.Clone"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PageInfo 方法。克隆页面信息"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf/pageinfo/clone/
 ---
-## PageInfo.Clone 方法
+## PageInfo.Clone method
 
-克隆页面信息。
+克隆 page 信息。
 
 ```csharp
 public object Clone()
@@ -18,8 +18,10 @@ public object Clone()
 
 克隆的对象
 
-### 另请参阅
+### 另请参见
 
-* 类 [PageInfo](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

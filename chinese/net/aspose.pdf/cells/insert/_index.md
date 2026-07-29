@@ -1,14 +1,14 @@
 ---
-title: Cells.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: Cells 方法。将单元格插入集合
+title: "Cells.Insert"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Cells 方法。向集合中插入单元格"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf/cells/insert/
 ---
-## Cells.Insert 方法
+## Cells.Insert method
 
-将单元格插入集合。
+向集合中插入单元格。
 
 ```csharp
 public void Insert(int index, Cell cell)
@@ -19,9 +19,11 @@ public void Insert(int index, Cell cell)
 | index | Int32 | 选定的索引。 |
 | cell | Cell | 选定的单元格。 |
 
-### 另见
+### 另请参见
 
-* 类 [Cell](../../cell/)
-* 类 [Cells](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Cell](../../cell/)
+* class [Cells](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

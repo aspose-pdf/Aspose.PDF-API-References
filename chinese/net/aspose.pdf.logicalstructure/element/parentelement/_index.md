@@ -1,12 +1,12 @@
 ---
-title: Element.ParentElement
-second_title: Aspose.PDF for .NET API Reference
-description: 元素属性。获取父元素
+title: "Element.ParentElement"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Element 属性。获取父元素"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.logicalstructure/element/parentelement/
 ---
-## Element.ParentElement 属性
+## Element.ParentElement property
 
 获取父元素。
 
@@ -14,12 +14,14 @@ url: /zh/net/aspose.pdf.logicalstructure/element/parentelement/
 public Element ParentElement { get; }
 ```
 
-### 属性值
+### Property Value
 
 父元素。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Element](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

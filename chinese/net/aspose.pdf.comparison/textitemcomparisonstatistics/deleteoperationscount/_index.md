@@ -1,12 +1,12 @@
 ---
-title: TextItemComparisonStatistics.DeleteOperationsCount
-second_title: Aspose.PDF for .NET API Reference
-description: TextItemComparisonStatistics 属性。获取和设置删除操作的数量
+title: "TextItemComparisonStatistics.DeleteOperationsCount"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextItemComparisonStatistics 属性。获取和设置删除操作的数量"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.comparison/textitemcomparisonstatistics/deleteoperationscount/
 ---
-## TextItemComparisonStatistics.DeleteOperationsCount 属性
+## TextItemComparisonStatistics.DeleteOperationsCount property
 
 获取和设置删除操作的数量。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.comparison/textitemcomparisonstatistics/deleteoperations
 public int DeleteOperationsCount { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextItemComparisonStatistics](../)
-* 命名空间 [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextItemComparisonStatistics](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../../)
+
+

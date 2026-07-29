@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.FlatteningAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAnnotationEditor 方法。扁平化文档中的所有注释
+title: "PdfAnnotationEditor.FlatteningAnnotations"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfAnnotationEditor 方法。将文档中的所有批注展平。"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.facades/pdfannotationeditor/flatteningannotations/
 ---
 ## FlatteningAnnotations() {#flatteningannotations}
 
-扁平化文档中的所有注释。
+将文档中的所有注释扁平化。
 
 ```csharp
 public void FlatteningAnnotations()
@@ -25,15 +25,15 @@ editor.Save(example_out.pdf");
 
 ### 另请参见
 
-* 类 [PdfAnnotationEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FlatteningAnnotations(FlattenSettings) {#flatteningannotations_1}
 
-扁平化文档中的所有注释。
+将文档中的所有注释扁平化。
 
 ```csharp
 public void FlatteningAnnotations(FlattenSettings flattenSettings)
@@ -41,20 +41,20 @@ public void FlatteningAnnotations(FlattenSettings flattenSettings)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| flattenSettings | FlattenSettings | 指定扁平化模式。 |
+| flattenSettings | FlattenSettings | 指定展平模式。 |
 
 ### 另请参见
 
-* 类 [FlattenSettings](../../../aspose.pdf.forms/form.flattensettings/)
-* 类 [PdfAnnotationEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FlattenSettings](../../../aspose.pdf.forms/form.flattensettings/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FlatteningAnnotations(int, int, AnnotationType[]) {#flatteningannotations_2}
 
-扁平化指定类型的注释。
+将指定类型的注释扁平化。
 
 ```csharp
 public void FlatteningAnnotations(int start, int end, AnnotationType[] annotType)
@@ -63,8 +63,8 @@ public void FlatteningAnnotations(int start, int end, AnnotationType[] annotType
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
 | start | Int32 | 起始页。 |
-| end | Int32 | 结束页。 |
-| annotType | AnnotationType[] | 应该被扁平化的注释类型。 |
+| end | Int32 | 然后结束页面。 |
+| annotType | AnnotationType[] | 注释类型应该被展平。 |
 
 ## 示例
 
@@ -78,7 +78,9 @@ editor.Save("example_out.pdf");
 
 ### 另请参见
 
-* 枚举 [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
-* 类 [PdfAnnotationEditor](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

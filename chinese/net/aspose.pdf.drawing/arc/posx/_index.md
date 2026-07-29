@@ -1,21 +1,23 @@
 ---
-title: Arc.PosX
-second_title: Aspose.PDF for .NET API Reference
-description: Arc 属性。获取或设置一个浮点值，该值指示弧的中心的 x 坐标
+title: "Arc.PosX"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Arc 属性。获取或设置一个浮点值，指示弧线中心的 x 坐标。"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.drawing/arc/posx/
 ---
-## Arc.PosX 属性
+## Arc.PosX property
 
-获取或设置一个浮点值，该值指示弧的中心的 x 坐标。
+获取或设置一个浮点值，指示弧中心的 x 坐标。
 
 ```csharp
 public double PosX { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Arc](../)
-* 命名空间 [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Arc](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* assembly [Aspose.PDF](../../../)
+
+

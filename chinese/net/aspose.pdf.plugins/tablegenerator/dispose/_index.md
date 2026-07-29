@@ -1,21 +1,23 @@
 ---
-title: TableGenerator.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: TableGenerator 方法。IDisposable 的实现。实际上，TableGenerator 并不需要它
+title: "TableGenerator.Dispose"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TableGenerator 方法。实现 IDisposable。实际上对 TableGenerator 并非必需"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.plugins/tablegenerator/dispose/
 ---
-## TableGenerator.Dispose 方法
+## TableGenerator.Dispose method
 
-IDisposable 的实现。实际上，TableGenerator 并不需要它。
+实现 IDisposable。事实上，对 TableGenerator 并非必需。
 
 ```csharp
 public void Dispose()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TableGenerator](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TableGenerator](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

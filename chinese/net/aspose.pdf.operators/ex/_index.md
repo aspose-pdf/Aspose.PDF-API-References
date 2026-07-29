@@ -1,14 +1,14 @@
 ---
-title: Class EX
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.EX 类。表示 EX 操作符（兼容性部分结束）。
+title: "类 EX"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Operators.EX 类。表示 EX 操作符（兼容性节结束）的类"
 type: docs
-weight: 7350
+weight: 7490
 url: /zh/net/aspose.pdf.operators/ex/
 ---
-## EX 类
+## EX class
 
-表示 EX 操作符（兼容性部分结束）。
+表示运算符 EX（兼容性节结束）的类。
 
 ```csharp
 public class EX : Operator
@@ -34,8 +34,10 @@ public class EX : Operator
 | override [ToString](../../aspose.pdf/operator/tostring/)() | 返回操作符及其参数的文本。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | 将此实例与给定对象进行比较。 |
 
-### 另见
+### 另请参见
 
-* 类 [Operator](../../aspose.pdf/operator/)
-* 命名空间 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

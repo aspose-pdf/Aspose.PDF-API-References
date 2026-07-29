@@ -1,12 +1,12 @@
 ---
-title: StampAnnotation.Image
-second_title: Aspose.PDF for .NET API Reference
-description: StampAnnotation 属性。获取或设置注释的图像
+title: "StampAnnotation.Image"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "StampAnnotation 属性。获取或设置注释的图像。"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.annotations/stampannotation/image/
 ---
-## StampAnnotation.Image 属性
+## StampAnnotation.Image property
 
 获取或设置注释的图像。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.annotations/stampannotation/image/
 public Stream Image { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [StampAnnotation](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [StampAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

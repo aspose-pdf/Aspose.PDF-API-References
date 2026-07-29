@@ -1,12 +1,12 @@
 ---
-title: Class LlamaClient.Builder
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.LlamaClientBuilder 类。用于创建 LlamaClient 实例的构建器类
+title: "类 LlamaClient.Builder"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.LlamaClientBuilder 类。用于创建 LlamaClient 实例的构建器类"
 type: docs
-weight: 710
+weight: 760
 url: /zh/net/aspose.pdf.ai/llamaclient.builder/
 ---
-## LlamaClient.Builder 类
+## LlamaClient.Builder class
 
 用于创建 [`LlamaClient`](../llamaclient/) 实例的构建器类。
 
@@ -24,11 +24,13 @@ public class Builder
 
 | 名称 | 描述 |
 | --- | --- |
-| [Build](../../aspose.pdf.ai/llamaclient.builder/build)() | 构建并返回一个具有配置选项的 [`LlamaClient`](../llamaclient/) 实例。 |
-| [WithBaseDomain](../../aspose.pdf.ai/llamaclient.builder/withbasedomain)(string) | 设置客户端的基础域。 |
+| [Build](../../aspose.pdf.ai/llamaclient.builder/build)() | 使用已配置的选项构建并返回 [`LlamaClient`](../llamaclient/) 的实例。 |
+| [WithBaseDomain](../../aspose.pdf.ai/llamaclient.builder/withbasedomain)(string) | 设置客户端的基础域名。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [LlamaClient](../llamaclient/)
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* class [LlamaClient](../llamaclient/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

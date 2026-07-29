@@ -1,14 +1,14 @@
 ---
-title: PdfViewer.PrintDocumentWithSetup
-second_title: Aspose.PDF for .NET API Reference
-description: PdfViewer 方法。通过设置对话框打印 Pdf 文档。使用对话框选择打印机
+title: "PdfViewer.PrintDocumentWithSetup"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PdfViewer 方法。使用设置对话框打印 Pdf Document。通过对话框选择打印机。"
 type: docs
 weight: 340
 url: /zh/net/aspose.pdf.facades/pdfviewer/printdocumentwithsetup/
 ---
-## PdfViewer.PrintDocumentWithSetup 方法
+## PdfViewer.PrintDocumentWithSetup method
 
-通过设置对话框打印 Pdf 文档。使用对话框选择打印机。
+使用设置对话框打印 Pdf document。通过对话框选择打印机。
 
 ```csharp
 public void PrintDocumentWithSetup()
@@ -36,8 +36,10 @@ iewer.PrintDocumentWithSetup()
 iewer.Close()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [PdfViewer](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

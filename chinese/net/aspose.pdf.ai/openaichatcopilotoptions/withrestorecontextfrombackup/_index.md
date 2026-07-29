@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithRestoreContextFromBackup
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilotOptions 方法。设置是否在聊天助手选项中从备份恢复上下文
+title: "OpenAIChatCopilotOptions.WithRestoreContextFromBackup"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "OpenAIChatCopilotOptions 方法。设置是否在聊天副驾驶选项中从备份恢复上下文"
 type: docs
-weight: 160
+weight: 170
 url: /zh/net/aspose.pdf.ai/openaichatcopilotoptions/withrestorecontextfrombackup/
 ---
-## OpenAIChatCopilotOptions.WithRestoreContextFromBackup 方法
+## OpenAIChatCopilotOptions.WithRestoreContextFromBackup method
 
-设置是否在聊天助手选项中从备份恢复上下文。
+设置是否在聊天副驾驶选项中从备份恢复上下文。
 
 ```csharp
 public OpenAIChatCopilotOptions WithRestoreContextFromBackup(bool restoreContext)
@@ -16,14 +16,16 @@ public OpenAIChatCopilotOptions WithRestoreContextFromBackup(bool restoreContext
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| restoreContext | 布尔值 | 指示是否从备份恢复上下文的值。 |
+| restoreContext | Boolean | 指示是否从备份恢复上下文的值。 |
 
 ### 返回值
 
-当前实例的 [`OpenAIChatCopilotOptions`](../)。
+当前的 [`OpenAIChatCopilotOptions`](../) 实例。
 
-### 另请参阅
+### 另请参见
 
-* 类 [OpenAIChatCopilotOptions](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

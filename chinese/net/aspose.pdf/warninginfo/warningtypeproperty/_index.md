@@ -1,12 +1,12 @@
 ---
-title: WarningInfo.WarningTypeProperty
-second_title: Aspose.PDF for .NET API Reference
-description: WarningInfo 属性。返回警告类型
+title: "WarningInfo.WarningTypeProperty"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "WarningInfo 属性。返回警告类型"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/warninginfo/warningtypeproperty/
 ---
-## WarningInfo.WarningTypeProperty 属性
+## WarningInfo.WarningTypeProperty property
 
 返回警告类型。
 
@@ -18,9 +18,11 @@ public WarningType WarningTypeProperty { get; }
 
 警告类型
 
-### 另请参阅
+### 另请参见
 
-* 枚举 [WarningType](../../warningtype/)
-* 类 [WarningInfo](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* enum [WarningType](../../warningtype/)
+* class [WarningInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

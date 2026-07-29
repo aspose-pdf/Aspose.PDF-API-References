@@ -1,12 +1,12 @@
 ---
-title: Fill.Fill
-second_title: Aspose.PDF for .NET API Reference
-description: 填充构造函数。初始化新的 f 操作符
+title: "Fill.Fill"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Fill 构造函数。初始化新的 f 运算符"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.operators/fill/fill/
 ---
-## 填充构造函数
+## Fill constructor
 
 初始化新的 f 操作符。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.operators/fill/fill/
 public Fill()
 ```
 
-### 另见
+### 另请参见
 
-* 类 [Fill](../)
-* 命名空间 [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Fill](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../../)
+
+

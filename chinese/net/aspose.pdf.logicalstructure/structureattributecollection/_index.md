@@ -1,14 +1,14 @@
 ---
-title: Class StructureAttributeCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.LogicalStructure.StructureAttributeCollection 类。表示结构元素的属性集合
+title: "类 StructureAttributeCollection"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.LogicalStructure.StructureAttributeCollection 类。表示结构元素属性的集合"
 type: docs
-weight: 6680
+weight: 6820
 url: /zh/net/aspose.pdf.logicalstructure/structureattributecollection/
 ---
-## StructureAttributeCollection 类
+## StructureAttributeCollection class
 
-表示结构元素的属性集合。
+表示结构元素属性的集合。
 
 ```csharp
 public class StructureAttributeCollection
@@ -18,10 +18,12 @@ public class StructureAttributeCollection
 
 | 名称 | 描述 |
 | --- | --- |
-| [CreateAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/createattributes/)(AttributeOwnerStandard) | 根据标准属性所有者创建并返回 [`StructureAttributes`](../structureattributes/) 的结构元素。 |
-| [GetAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/getattributes/)(AttributeOwnerStandard) | 根据标准属性所有者返回结构元素的 [`StructureAttributes`](../structureattributes/)。 |
+| [CreateAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/createattributes/)(AttributeOwnerStandard) | 创建并返回由标准属性所有者提供的结构元素的 [`StructureAttributes`](../structureattributes/)。 |
+| [GetAttributes](../../aspose.pdf.logicalstructure/structureattributecollection/getattributes/)(AttributeOwnerStandard) | 返回由标准属性所有者提供的结构元素的 [`StructureAttributes`](../structureattributes/)。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.LogicalStructure](../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../)
+
+

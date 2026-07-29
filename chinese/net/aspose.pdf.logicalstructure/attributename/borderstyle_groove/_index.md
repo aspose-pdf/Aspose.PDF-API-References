@@ -1,12 +1,12 @@
 ---
-title: AttributeName.BorderStyle_Groove
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName 字段。属性 BorderStyle Groove 边框看起来像是雕刻在画布上
+title: "AttributeName.BorderStyle_Groove"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "AttributeName 字段。属性 BorderStyle Groove  边框看起来像是被雕刻在画布上。"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.logicalstructure/attributename/borderstyle_groove/
 ---
-## AttributeName.BorderStyle_Groove 字段
+## AttributeName.BorderStyle_Groove field
 
 属性 BorderStyle: Groove - 边框看起来像是雕刻在画布上。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.logicalstructure/attributename/borderstyle_groove/
 public static readonly AttributeName BorderStyle_Groove;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [AttributeName](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

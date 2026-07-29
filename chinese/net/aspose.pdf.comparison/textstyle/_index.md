@@ -1,12 +1,12 @@
 ---
-title: Class TextStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Comparison.TextStyle 类。表示文本样式类
+title: "类 TextStyle"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Comparison.TextStyle 类。表示文本样式类"
 type: docs
-weight: 3330
+weight: 3440
 url: /zh/net/aspose.pdf.comparison/textstyle/
 ---
-## TextStyle 类
+## TextStyle class
 
 表示文本样式类。
 
@@ -27,7 +27,9 @@ public class TextStyle
 | [BackgroundColor](../../aspose.pdf.comparison/textstyle/backgroundcolor/) { get; set; } | 获取和设置背景颜色。 |
 | [Color](../../aspose.pdf.comparison/textstyle/color/) { get; set; } | 获取和设置文本颜色。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* assembly [Aspose.PDF](../../)
+
+

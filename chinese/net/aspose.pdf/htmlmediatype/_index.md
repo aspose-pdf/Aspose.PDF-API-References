@@ -1,14 +1,14 @@
 ---
-title: Enum HtmlMediaType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.HtmlMediaType 枚举。指定在渲染过程中使用的可能媒体类型
+title: "枚举 HtmlMediaType"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.HtmlMediaType 枚举。指定渲染期间使用的可能媒体类型"
 type: docs
-weight: 5540
+weight: 5670
 url: /zh/net/aspose.pdf/htmlmediatype/
 ---
-## HtmlMediaType 枚举
+## HtmlMediaType enumeration
 
-指定在渲染过程中使用的可能媒体类型。
+指定渲染期间使用的可能媒体类型。
 
 ```csharp
 public enum HtmlMediaType
@@ -21,7 +21,9 @@ public enum HtmlMediaType
 | Print | `0` | 打印。 |
 | Screen | `1` | 屏幕。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: Facade.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Facade 方法。释放外观
+title: "Facade.Dispose"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Facade 方法。释放外观"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf.facades/facade/dispose/
 ---
-## Facade.Dispose 方法
+## Facade.Dispose method
 
-释放外观。
+释放 facade。
 
 ```csharp
 public void Dispose()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [Facade](../)
-* 命名空间 [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Facade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

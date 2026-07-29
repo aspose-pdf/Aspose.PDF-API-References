@@ -1,12 +1,12 @@
 ---
-title: Operator.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: 操作符方法。返回操作符及其参数的文本
+title: "Operator.ToString"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Operator 方法。返回运算符及其参数的文本"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/operator/tostring/
 ---
-## Operator.ToString 方法
+## Operator.ToString method
 
 返回操作符及其参数的文本。
 
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### 返回值
 
-操作符文本
+Operator 文本
 
-### 另请参阅
+### 另请参见
 
-* 类 [Operator](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Operator](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

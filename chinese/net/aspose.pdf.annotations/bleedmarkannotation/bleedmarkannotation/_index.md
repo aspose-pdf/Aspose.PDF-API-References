@@ -1,14 +1,14 @@
 ---
-title: BleedMarkAnnotation.BleedMarkAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: BleedMarkAnnotation 构造函数。初始化 BleedMarkAnnotation 类的新实例
+title: "BleedMarkAnnotation.BleedMarkAnnotation"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BleedMarkAnnotation 构造函数。初始化 BleedMarkAnnotation 类的新实例"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.annotations/bleedmarkannotation/bleedmarkannotation/
 ---
-## BleedMarkAnnotation 构造函数
+## BleedMarkAnnotation constructor
 
-初始化 [`BleedMarkAnnotation`](../) 类的新实例。
+初始化一个新的 [`BleedMarkAnnotation`](../) 类实例。
 
 ```csharp
 public BleedMarkAnnotation(Page page, PrinterMarkCornerPosition position)
@@ -16,17 +16,19 @@ public BleedMarkAnnotation(Page page, PrinterMarkCornerPosition position)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | 注释将添加到的页面。 |
+| 页面 | 页面 | 注释将被添加的页面。 |
 | position | PrinterMarkCornerPosition | 页面上出血标记的位置。 |
 
 ## 备注
 
 此构造函数创建一个 BleedMarkAnnotation 并将其添加到指定页面的指定位置。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Page](../../../aspose.pdf/page/)
-* 枚举 [PrinterMarkCornerPosition](../../printermarkcornerposition/)
-* 类 [BleedMarkAnnotation](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Page](../../../aspose.pdf/page/)
+* enum [PrinterMarkCornerPosition](../../printermarkcornerposition/)
+* class [BleedMarkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

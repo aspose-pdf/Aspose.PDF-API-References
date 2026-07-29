@@ -1,14 +1,14 @@
 ---
-title: XForm.GetResources
-second_title: Aspose.PDF for .NET API Reference
-description: XForm 方法。返回表单 X 对象的资源
+title: "XForm.GetResources"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XForm 方法。返回 Form XObject 的资源"
 type: docs
 weight: 130
 url: /zh/net/aspose.pdf/xform/getresources/
 ---
 ## GetResources(bool) {#getresources_1}
 
-返回表单 X 对象的资源
+返回 Form X-Object 的资源
 
 ```csharp
 public Resources GetResources(bool allowCreate)
@@ -16,24 +16,24 @@ public Resources GetResources(bool allowCreate)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| allowCreate | 布尔 | 如果表单没有资源并且 allowCreate 为 true，则会自动为表单创建资源。 |
+| allowCreate | Boolean | 如果 For 没有资源且 allowCreate 为 true，则会自动为表单创建 Resources。 |
 
 ### 返回值
 
-资源。
+Resources.
 
-### 另请参阅
+### 另请参见
 
-* 类 [Resources](../../resources/)
-* 类 [XForm](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Resources](../../resources/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## GetResources() {#getresources}
 
-返回表单 X 对象的资源。如果表单没有资源并且 allowCreate 为 true，则会自动为表单创建资源。
+返回 Form X-Object 的资源。如果 Form 没有资源且 allowCreate 为 true，则会自动为该表单创建资源。
 
 ```csharp
 public Resources GetResources()
@@ -41,11 +41,13 @@ public Resources GetResources()
 
 ### 返回值
 
-资源对象
+Resources 对象
 
-### 另请参阅
+### 另请参见
 
-* 类 [Resources](../../resources/)
-* 类 [XForm](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Resources](../../resources/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

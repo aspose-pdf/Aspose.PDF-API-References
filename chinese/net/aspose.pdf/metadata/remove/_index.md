@@ -1,14 +1,14 @@
 ---
-title: Metadata.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: 元数据方法。 从元数据中删除条目
+title: "Metadata.Remove"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Metadata 方法。 从元数据中移除条目"
 type: docs
 weight: 200
 url: /zh/net/aspose.pdf/metadata/remove/
 ---
 ## Remove(string) {#remove_1}
 
-从元数据中删除条目。
+从元数据中移除条目。
 
 ```csharp
 public bool Remove(string key)
@@ -16,23 +16,23 @@ public bool Remove(string key)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| key | 字符串 | 要删除的条目的键。 |
+| 键 | String | 要移除的条目的键。 |
 
 ### 返回值
 
-如果键被删除，则为 true；否则为 false。
+如果键已移除则为 True；否则为 false。
 
 ### 另请参见
 
-* 类 [Metadata](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Remove(KeyValuePair&lt;string, XmpValue&gt;) {#remove}
 
-从集合中删除键/值对。
+从集合中移除键/值对。
 
 ```csharp
 public bool Remove(KeyValuePair<string, XmpValue> item)
@@ -44,11 +44,13 @@ public bool Remove(KeyValuePair<string, XmpValue> item)
 
 ### 返回值
 
-如果找到了对并已删除，则为 true。
+如果找到并删除该对则为 true。
 
 ### 另请参见
 
-* 类 [XmpValue](../../xmpvalue/)
-* 类 [Metadata](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

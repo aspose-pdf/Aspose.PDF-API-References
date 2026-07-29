@@ -1,14 +1,14 @@
 ---
-title: Class SetColorRenderingIntent
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.SetColorRenderingIntent 类。表示 ri 操作符设置颜色渲染意图的类
+title: "类 SetColorRenderingIntent"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Operators.SetColorRenderingIntent 类。表示 ri 运算符设置颜色渲染意图的类"
 type: docs
-weight: 7650
+weight: 7790
 url: /zh/net/aspose.pdf.operators/setcolorrenderingintent/
 ---
-## SetColorRenderingIntent 类
+## SetColorRenderingIntent class
 
-表示 ri 操作符（设置颜色渲染意图）。
+表示 ri 运算符的类（设置颜色渲染意图）。
 
 ```csharp
 public class SetColorRenderingIntent : Operator
@@ -18,7 +18,7 @@ public class SetColorRenderingIntent : Operator
 
 | 名称 | 描述 |
 | --- | --- |
-| [SetColorRenderingIntent](setcolorrenderingintent/)(string) | 设置颜色渲染意图操作符构造函数。 |
+| [SetColorRenderingIntent](setcolorrenderingintent/)(string) | Set Color Rendering Intent 运算符构造函数。 |
 
 ## 属性
 
@@ -35,8 +35,10 @@ public class SetColorRenderingIntent : Operator
 | override [ToString](../../aspose.pdf/operator/tostring/)() | 返回操作符及其参数的文本。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | 将此实例与给定对象进行比较。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Operator](../../aspose.pdf/operator/)
-* 命名空间 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: BaseParagraph.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: BaseParagraph 方法。克隆此实例。虚方法。始终返回 null
+title: "BaseParagraph.Clone"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BaseParagraph 方法。克隆此实例。虚方法。始终返回 null。"
 type: docs
 weight: 100
 url: /zh/net/aspose.pdf/baseparagraph/clone/
 ---
-## BaseParagraph.Clone 方法
+## BaseParagraph.Clone method
 
-克隆此实例。虚方法。始终返回 null。
+克隆此实例。虚拟方法。始终返回 null。
 
 ```csharp
 public virtual object Clone()
@@ -16,10 +16,12 @@ public virtual object Clone()
 
 ### 返回值
 
-null。
+空。
 
-### 另请参阅
+### 另请参见
 
-* 类 [BaseParagraph](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [BaseParagraph](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

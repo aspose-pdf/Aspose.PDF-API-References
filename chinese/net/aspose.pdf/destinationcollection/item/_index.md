@@ -1,12 +1,12 @@
 ---
-title: DestinationCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: DestinationCollection 属性。通过索引获取目标对象
+title: "DestinationCollection.Item"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "DestinationCollection 属性。按索引获取目标对象"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf/destinationcollection/item/
 ---
-## DestinationCollection 索引器
+## DestinationCollection indexer
 
 通过索引获取目标对象。
 
@@ -22,8 +22,10 @@ public KeyValuePair<string, object> this[int index] { get; }
 
 目标。
 
-### 另请参阅
+### 另请参见
 
-* 类 [DestinationCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

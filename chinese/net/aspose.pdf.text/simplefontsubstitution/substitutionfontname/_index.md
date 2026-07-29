@@ -1,12 +1,12 @@
 ---
-title: SimpleFontSubstitution.SubstitutionFontName
-second_title: Aspose.PDF for .NET API Reference
-description: SimpleFontSubstitution 属性。获取应替代 OriginalFontName 的字体名称
+title: "SimpleFontSubstitution.SubstitutionFontName"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SimpleFontSubstitution 属性。获取应替代 OriginalFontName 的字体名称"
 type: docs
 weight: 30
 url: /zh/net/aspose.pdf.text/simplefontsubstitution/substitutionfontname/
 ---
-## SimpleFontSubstitution.SubstitutionFontName 属性
+## SimpleFontSubstitution.SubstitutionFontName property
 
 获取应替代 [`OriginalFontName`](../originalfontname/) 的字体名称
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.text/simplefontsubstitution/substitutionfontname/
 public string SubstitutionFontName { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [SimpleFontSubstitution](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SimpleFontSubstitution](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: XForm.Name
-second_title: Aspose.PDF for .NET API Reference
-description: XForm 属性。获取或设置表单名称。表单名称是用于在页面资源的 XObejct 字典中引用表单的名称。
+title: "XForm.Name"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XForm 属性。获取或设置表单名称。表单名称是用于在页面资源中的 XObejct ductionary 中引用表单的名称。"
 type: docs
 weight: 60
 url: /zh/net/aspose.pdf/xform/name/
 ---
-## XForm.Name 属性
+## XForm.Name property
 
-获取或设置表单名称。表单名称是用于在页面资源的 XObejct 字典中引用表单的名称。
+获取或设置表单名称。表单名称是用于在页面资源的 XObject 字典中引用表单的名称。
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XForm](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

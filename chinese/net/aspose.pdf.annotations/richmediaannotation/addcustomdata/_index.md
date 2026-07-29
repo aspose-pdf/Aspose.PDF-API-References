@@ -1,14 +1,14 @@
 ---
-title: RichMediaAnnotation.AddCustomData
-second_title: Aspose.PDF for .NET API Reference
-description: RichMediaAnnotation 方法。添加自定义命名数据，例如 Flash 脚本所需的数据
+title: "RichMediaAnnotation.AddCustomData"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "RichMediaAnnotation 方法。添加自定义命名数据，例如 flash 脚本所需的。"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.annotations/richmediaannotation/addcustomdata/
 ---
-## RichMediaAnnotation.AddCustomData 方法
+## RichMediaAnnotation.AddCustomData method
 
-添加自定义命名数据（例如 Flash 脚本所需的数据）。
+添加自定义命名数据（例如 flash 脚本所需）。
 
 ```csharp
 public void AddCustomData(string name, Stream data)
@@ -16,11 +16,13 @@ public void AddCustomData(string name, Stream data)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| name | 字符串 | 数据的名称。 |
-| data | 流 | 数据。 |
+| 名称 | String | 数据的名称。 |
+| data | Stream | 数据。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [RichMediaAnnotation](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [RichMediaAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

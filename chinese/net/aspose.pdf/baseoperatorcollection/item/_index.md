@@ -1,14 +1,14 @@
 ---
-title: BaseOperatorCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: BaseOperatorCollection 属性。通过索引获取操作符
+title: "BaseOperatorCollection.Item"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "BaseOperatorCollection 属性。按索引获取运算符"
 type: docs
 weight: 40
 url: /zh/net/aspose.pdf/baseoperatorcollection/item/
 ---
-## BaseOperatorCollection 索引器
+## BaseOperatorCollection indexer
 
-通过索引获取操作符。
+通过索引获取运算符。
 
 ```csharp
 public abstract Operator this[int index] { get; set; }
@@ -28,3 +28,5 @@ public abstract Operator this[int index] { get; set; }
 * class [BaseOperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

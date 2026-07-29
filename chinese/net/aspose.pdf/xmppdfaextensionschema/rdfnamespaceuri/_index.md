@@ -1,21 +1,23 @@
 ---
-title: XmpPdfAExtensionSchema.RdfNamespaceURI
-second_title: Aspose.PDF for .NET API Reference
-description: XmpPdfAExtensionSchema 字段。默认 rdf 命名空间 uri
+title: "XmpPdfAExtensionSchema.RdfNamespaceURI"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "XmpPdfAExtensionSchema 字段。默认 RDF 命名空间 URI"
 type: docs
 weight: 200
 url: /zh/net/aspose.pdf/xmppdfaextensionschema/rdfnamespaceuri/
 ---
-## XmpPdfAExtensionSchema.RdfNamespaceURI 字段
+## XmpPdfAExtensionSchema.RdfNamespaceURI field
 
-默认 rdf 命名空间 uri。
+默认 rdf 命名空间 URI。
 
 ```csharp
 public const string RdfNamespaceURI;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [XmpPdfAExtensionSchema](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PageDate.YearComponent.YearComponent
-second_title: Aspose.PDF for .NET API Reference
-description: YearComponent 构造函数。默认构造函数
+title: "PageDate.YearComponent.YearComponent"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "YearComponent 构造函数。默认构造函数"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf/pagedate.yearcomponent/yearcomponent/
 ---
-## PageDate.YearComponent 构造函数
+## PageDate.YearComponent constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/pagedate.yearcomponent/yearcomponent/
 public YearComponent()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [YearComponent](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [YearComponent](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

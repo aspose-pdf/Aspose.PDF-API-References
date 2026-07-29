@@ -1,12 +1,12 @@
 ---
-title: FormEditor.FormEditor
-second_title: Aspose.PDF for .NET API Reference
-description: FormEditor 构造函数。默认构造函数
+title: "FormEditor.FormEditor"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FormEditor 构造函数。默认构造函数。"
 type: docs
 weight: 10
 url: /zh/net/aspose.pdf.plugins/formeditor/formeditor/
 ---
-## FormEditor 构造函数
+## FormEditor constructor
 
 默认构造函数。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.plugins/formeditor/formeditor/
 public FormEditor()
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [FormEditor](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

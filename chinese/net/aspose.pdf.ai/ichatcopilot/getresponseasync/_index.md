@@ -1,7 +1,7 @@
 ---
-title: IChatCopilot.GetResponseAsync
-second_title: Aspose.PDF for .NET API Reference
-description: IChatCopilot 方法。异步获取给定消息的响应
+title: "IChatCopilot.GetResponseAsync"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "IChatCopilot 方法。异步获取给定消息的响应。"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.ai/ichatcopilot/getresponseasync/
@@ -16,18 +16,18 @@ public Task<string> GetResponseAsync(string message, CancellationToken? cancella
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| message | String | 请求响应的输入消息。 |
+| 消息 | String | 请求响应的输入消息。 |
 | cancellationToken | Nullable`1 | 取消令牌（可选）。 |
 
 ### 返回值
 
-表示异步操作的任务，包含响应字符串。
+一个表示带有响应字符串的异步操作的任务。
 
-### 另见
+### 另请参见
 
-* 接口 [IChatCopilot](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -47,10 +47,12 @@ public Task<string> GetResponseAsync(List<string> messages,
 
 ### 返回值
 
-表示异步操作的任务，包含响应字符串。
+一个表示带有响应字符串的异步操作的任务。
 
-### 另见
+### 另请参见
 
-* 接口 [IChatCopilot](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* interface [IChatCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: RenderingOptions.InterpolationHighQuality
-second_title: Aspose.PDF for .NET API Reference
-description: RenderingOptions 属性。获取或设置插值的高质量模式
+title: "RenderingOptions.InterpolationHighQuality"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "RenderingOptions 属性。获取或设置插值的高质量模式"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf/renderingoptions/interpolationhighquality/
 ---
-## RenderingOptions.InterpolationHighQuality 属性
+## RenderingOptions.InterpolationHighQuality property
 
 获取或设置插值的高质量模式。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf/renderingoptions/interpolationhighquality/
 public bool InterpolationHighQuality { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [RenderingOptions](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [RenderingOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class MessageContentBase
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.MessageContentBase 类。消息内容为文本和/或图像的数组
+title: "类 MessageContentBase"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.MessageContentBase 类。消息内容，以文本和/或图像数组的形式。"
 type: docs
-weight: 770
+weight: 820
 url: /zh/net/aspose.pdf.ai/messagecontentbase/
 ---
-## MessageContentBase 类
+## MessageContentBase class
 
-消息内容为文本和/或图像的数组。
+消息的内容，以文本和/或图像的数组形式呈现。
 
 ```csharp
 public abstract class MessageContentBase
@@ -20,9 +20,11 @@ public abstract class MessageContentBase
 | --- | --- |
 | [ImageFile](../../aspose.pdf.ai/messagecontentbase/imagefile/) { get; set; } | 获取或设置消息内容中的图像文件。 |
 | [ImageUrl](../../aspose.pdf.ai/messagecontentbase/imageurl/) { get; set; } | 获取或设置消息内容中的图像 URL。 |
-| [MessageContentType](../../aspose.pdf.ai/messagecontentbase/messagecontenttype/) { get; set; } | 获取或设置内容的类型。 |
+| [MessageContentType](../../aspose.pdf.ai/messagecontentbase/messagecontenttype/) { get; set; } | 获取或设置内容类型。 |
 
-### 另见
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

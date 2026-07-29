@@ -1,12 +1,12 @@
 ---
-title: ElementList.ElementOf
-second_title: Aspose.PDF for .NET API Reference
-description: ElementList 属性。获取给定索引处的元素
+title: "ElementList.ElementOf"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ElementList 属性。获取给定索引处的元素"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.logicalstructure/elementlist/elementof/
 ---
-## ElementList 索引器
+## ElementList indexer
 
 获取给定索引处的元素。
 
@@ -20,11 +20,13 @@ public virtual Element ElementOf[int index] { get; }
 
 ### 返回值
 
-集合中具有指定索引的元素。如果索引大于或等于列表中的元素数量，则返回 null。
+集合中具有指定索引的 Element。如果索引大于或等于列表中的元素数量，则返回 null。
 
-### 另请参阅
+### 另请参见
 
-* 类 [Element](../../element/)
-* 类 [ElementList](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [Element](../../element/)
+* class [ElementList](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

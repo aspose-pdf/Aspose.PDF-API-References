@@ -1,12 +1,12 @@
 ---
-title: Class PageNumber.PageIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageNumberPageIndex 类。表示页码格式中的页索引组件
+title: "类 PageNumber.PageIndex"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.PageNumberPageIndex 类。表示页码格式中的页索引组件。"
 type: docs
-weight: 8210
+weight: 8350
 url: /zh/net/aspose.pdf/pagenumber.pageindex/
 ---
-## PageNumber.PageIndex 类
+## PageNumber.PageIndex class
 
 表示页码格式中的页索引组件。
 
@@ -20,8 +20,10 @@ public sealed class PageIndex
 | --- | --- |
 | [PageIndex](../../aspose.pdf/pagenumber.pageindex/.ctor)() | 默认构造函数。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [PageNumber](../pagenumber/)
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* class [PageNumber](../pagenumber/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

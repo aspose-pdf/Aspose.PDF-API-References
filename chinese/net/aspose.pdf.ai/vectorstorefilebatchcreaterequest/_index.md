@@ -1,14 +1,14 @@
 ---
-title: Class VectorStoreFileBatchCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.VectorStoreFileBatchCreateRequest 类。创建一个向量存储文件批处理请求
+title: "类 VectorStoreFileBatchCreateRequest"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.VectorStoreFileBatchCreateRequest 类。创建向量存储文件批次请求"
 type: docs
-weight: 1280
+weight: 1370
 url: /zh/net/aspose.pdf.ai/vectorstorefilebatchcreaterequest/
 ---
-## VectorStoreFileBatchCreateRequest 类
+## VectorStoreFileBatchCreateRequest class
 
-创建一个向量存储文件批处理请求。
+创建向量存储文件批次的请求。
 
 ```csharp
 public class VectorStoreFileBatchCreateRequest
@@ -24,9 +24,11 @@ public class VectorStoreFileBatchCreateRequest
 
 | 名称 | 描述 |
 | --- | --- |
-| [FileIds](../../aspose.pdf.ai/vectorstorefilebatchcreaterequest/fileids/) { get; set; } | 获取或设置向量存储应使用的文件 ID 列表。对于可以访问文件的工具，如 file_search 非常有用。 |
+| [FileIds](../../aspose.pdf.ai/vectorstorefilebatchcreaterequest/fileids/) { get; set; } | 获取或设置向量存储应使用的文件 ID 列表。对于能够访问文件的 file_search 等工具很有用。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

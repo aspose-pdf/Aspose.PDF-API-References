@@ -1,21 +1,23 @@
 ---
-title: SubmitFormAction.ExportFormat
-second_title: Aspose.PDF for .NET API Reference
-description: SubmitFormAction 字段。如果设置，字段名称和值将以 HTML 表单格式提交
+title: "SubmitFormAction.ExportFormat"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SubmitFormAction 字段。如果设置，字段名称和值应以 HTML 表单格式提交。"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.annotations/submitformaction/exportformat/
 ---
-## SubmitFormAction.ExportFormat 字段
+## SubmitFormAction.ExportFormat field
 
-如果设置，字段名称和值将以 HTML 表单格式提交。
+如果设置，则字段名称和值应以 HTML 表单格式提交。
 
 ```csharp
 public const int ExportFormat;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [SubmitFormAction](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

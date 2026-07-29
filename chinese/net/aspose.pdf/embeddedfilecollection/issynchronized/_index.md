@@ -1,21 +1,23 @@
 ---
-title: EmbeddedFileCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: EmbeddedFileCollection 属性。获取一个值，指示对该集合的访问是否是同步的（线程安全）。
+title: "EmbeddedFileCollection.IsSynchronized"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "EmbeddedFileCollection 属性。获取一个值，指示对该集合的访问是否同步且线程安全"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/embeddedfilecollection/issynchronized/
 ---
-## EmbeddedFileCollection.IsSynchronized 属性
+## EmbeddedFileCollection.IsSynchronized property
 
-获取一个值，指示对该集合的访问是否是同步的（线程安全）。
+获取一个值，指示对该集合的访问是否已同步（线程安全）。
 
 ```csharp
 public bool IsSynchronized { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [EmbeddedFileCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [EmbeddedFileCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

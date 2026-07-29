@@ -1,12 +1,12 @@
 ---
-title: Class FontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.FontSource 类。表示字体源的基类
+title: "类 FontSource"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Text.FontSource 类。表示字体源的基类。"
 type: docs
-weight: 10550
+weight: 10730
 url: /zh/net/aspose.pdf.text/fontsource/
 ---
-## 字体源类
+## FontSource class
 
 表示字体源的基类。
 
@@ -14,7 +14,9 @@ url: /zh/net/aspose.pdf.text/fontsource/
 public abstract class FontSource
 ```
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Text](../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SoundSampleData.DefaultOfSoundChannels
-second_title: Aspose.PDF for .NET API Reference
-description: SoundSampleData 字段。Channels 参数的默认值
+title: "SoundSampleData.DefaultOfSoundChannels"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "SoundSampleData 字段。Channels 参数的默认值"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.annotations/soundsampledata/defaultofsoundchannels/
 ---
-## SoundSampleData.DefaultOfSoundChannels 字段
+## SoundSampleData.DefaultOfSoundChannels field
 
 Channels 参数的默认值。
 
@@ -14,8 +14,10 @@ Channels 参数的默认值。
 public const int DefaultOfSoundChannels;
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [SoundSampleData](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+

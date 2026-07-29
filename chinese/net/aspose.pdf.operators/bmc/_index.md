@@ -1,14 +1,14 @@
 ---
-title: Class BMC
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.BMC 类。表示 BMC 操作符开始标记内容序列的类
+title: "类 BMC"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Operators.BMC 类。表示 BMC 操作符开始标记内容序列的类"
 type: docs
-weight: 7120
+weight: 7260
 url: /zh/net/aspose.pdf.operators/bmc/
 ---
-## BMC 类
+## BMC class
 
-表示 BMC 操作符（开始标记内容序列）。
+表示 BMC 操作符的类（Begin marked-content sequence）。
 
 ```csharp
 public class BMC : Operator
@@ -32,11 +32,13 @@ public class BMC : Operator
 | 名称 | 描述 |
 | --- | --- |
 | override [Accept](../../aspose.pdf.operators/bmc/accept/)(IOperatorSelector) | 接受访问者对象以处理操作符。 |
-| override [ToString](../../aspose.pdf.operators/bmc/tostring/)() | 返回操作符的文本表示。 |
+| override [ToString](../../aspose.pdf.operators/bmc/tostring/)() | 返回运算符的文本表示。 |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | 将此实例与给定对象进行比较。 |
 
-### 另请参阅
+### 另请参见
 
-* 类 [Operator](../../aspose.pdf/operator/)
-* 命名空间 [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
-* 程序集 [Aspose.PDF](../../)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.GetStringValue
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttribute 方法。获取值字符串
+title: "StructureAttribute.GetStringValue"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "StructureAttribute 方法。获取值字符串"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.logicalstructure/structureattribute/getstringvalue/
 ---
-## StructureAttribute.GetStringValue 方法
+## StructureAttribute.GetStringValue method
 
-获取值字符串。
+获取 Value String。
 
 ```csharp
 public string GetStringValue()
@@ -18,8 +18,10 @@ public string GetStringValue()
 
 值字符串。
 
-### 另请参阅
+### 另请参见
 
-* 类 [StructureAttribute](../)
-* 命名空间 [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
-* 程序集 [Aspose.PDF](../../../)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* assembly [Aspose.PDF](../../../)
+
+

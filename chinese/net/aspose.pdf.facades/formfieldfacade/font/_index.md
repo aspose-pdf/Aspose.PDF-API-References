@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.Font
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade 属性。字段文本的字体类型
+title: "FormFieldFacade.Font"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "FormFieldFacade 属性。字段文本的字体类型"
 type: docs
 weight: 120
 url: /zh/net/aspose.pdf.facades/formfieldfacade/font/
 ---
-## FormFieldFacade.Font 属性
+## FormFieldFacade.Font property
 
 字段文本的字体类型。
 
@@ -14,9 +14,11 @@ url: /zh/net/aspose.pdf.facades/formfieldfacade/font/
 public FontStyle Font { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
 * enum [FontStyle](../../fontstyle/)
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

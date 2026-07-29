@@ -1,12 +1,12 @@
 ---
-title: PageLabelCollection.GetPages
-second_title: Aspose.PDF for .NET API Reference
-description: PageLabelCollection 方法。获取集合中的页面索引
+title: "PageLabelCollection.GetPages"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "PageLabelCollection 方法。获取集合中的页索引"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf/pagelabelcollection/getpages/
 ---
-## PageLabelCollection.GetPages 方法
+## PageLabelCollection.GetPages method
 
 获取集合中的页面索引。
 
@@ -20,6 +20,8 @@ public int[] GetPages()
 
 ### 另请参见
 
-* 类 [PageLabelCollection](../)
-* 命名空间 [Aspose.Pdf](../../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../../)
+* class [PageLabelCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: CompletionCreateRequest.PresencePenalty
-second_title: Aspose.PDF for .NET API Reference
-description: CompletionCreateRequest 属性。获取或设置介于 2.0 和 2.0 之间的数字。正值根据新标记是否出现在到目前为止的文本中对其进行惩罚，从而增加模型谈论新主题的可能性。
+title: "CompletionCreateRequest.PresencePenalty"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "CompletionCreateRequest 属性。获取或设置介于 2.0 与 2.0 之间的数值。正值会根据新标记在已有文本中是否出现对其进行惩罚，从而增加模型谈论新主题的可能性。"
 type: docs
 weight: 90
 url: /zh/net/aspose.pdf.ai/completioncreaterequest/presencepenalty/
 ---
-## CompletionCreateRequest.PresencePenalty 属性
+## CompletionCreateRequest.PresencePenalty property
 
-获取或设置介于 -2.0 和 2.0 之间的数字。正值根据新标记是否出现在到目前为止的文本中对其进行惩罚，从而增加模型谈论新主题的可能性。
+获取或设置一个介于 -2.0 和 2.0 之间的数值。正值会根据新 token 是否已出现在当前文本中进行惩罚，从而增加模型谈论新主题的可能性。
 
 ```csharp
 public double? PresencePenalty { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [CompletionCreateRequest](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [CompletionCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

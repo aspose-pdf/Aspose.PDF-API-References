@@ -1,12 +1,12 @@
 ---
-title: Enum ColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ColorSpace 枚举。颜色空间枚举
+title: "枚举 ColorSpace"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.ColorSpace 枚举。颜色空间枚举"
 type: docs
-weight: 3090
+weight: 3200
 url: /zh/net/aspose.pdf/colorspace/
 ---
-## ColorSpace 枚举
+## ColorSpace enumeration
 
 颜色空间枚举。
 
@@ -22,7 +22,9 @@ public enum ColorSpace
 | DeviceCMYK | `1` | 设备相关的 CMYK 颜色空间。 |
 | DeviceGray | `2` | 设备相关的灰色颜色空间。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf](../../aspose.pdf/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
+* assembly [Aspose.PDF](../../)
+
+

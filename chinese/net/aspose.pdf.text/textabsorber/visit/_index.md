@@ -1,14 +1,14 @@
 ---
-title: TextAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: TextAbsorber 方法。提取指定页面上的文本
+title: "TextAbsorber.Visit"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextAbsorber 方法。提取指定页面上的文本"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.text/textabsorber/visit/
 ---
 ## Visit(Page) {#visit_1}
 
-提取指定页面上的文本
+在指定的页面上提取文本
 
 ```csharp
 public virtual void Visit(Page page)
@@ -16,23 +16,23 @@ public virtual void Visit(Page page)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Page | Pdf 文档页面对象。 |
+| 页面 | 页面 | Pdf 文档页面对象。 |
 
 ## 示例
 
-该示例演示如何提取第一个 PDF 文档页面上的文本。
+此示例演示如何在第一个 PDF 文档页面上提取文本。
 
 ```csharp
-// open document
+// 打开文档
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// 创建 TextAbsorber 对象以提取文本
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// 接受所有文档页面的吸收器
 absorber.Visit(doc.Pages[1]);
 
-// get the extracted text
+// 获取提取的文本
 string extractedText = absorber.Text;
 ```
 
@@ -47,7 +47,7 @@ string extractedText = absorber.Text;
 
 ## Visit(XForm) {#visit_2}
 
-提取指定 XForm 上的文本。
+在指定的 XForm 上提取文本。
 
 ```csharp
 public virtual void Visit(XForm form)
@@ -55,23 +55,23 @@ public virtual void Visit(XForm form)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| form | XForm | Pdf 表单对象。 |
+| 表单 | XForm | Pdf 表单对象。 |
 
 ## 示例
 
-该示例演示如何提取第一个 PDF 文档页面上的文本。
+此示例演示如何在第一个 PDF 文档页面上提取文本。
 
 ```csharp
-// open document
+// 打开文档
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// 创建 TextAbsorber 对象以提取文本
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// 接受所有文档页面的吸收器
 absorber.Visit(doc.Pages[1].Resources.Forms["Xform1"]);
 
-// get the extracted text
+// 获取提取的文本
 string extractedText = absorber.Text;
 ```
 
@@ -86,7 +86,7 @@ string extractedText = absorber.Text;
 
 ## Visit(Document) {#visit}
 
-提取指定文档上的文本
+在指定的文档上提取文本
 
 ```csharp
 public virtual void Visit(Document pdf)
@@ -94,23 +94,23 @@ public virtual void Visit(Document pdf)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| pdf | Document | Pdf 文档对象。 |
+| pdf | Document | Pdf pocument 对象。 |
 
 ## 示例
 
-该示例演示如何提取 PDF 文档上的文本。
+此示例演示如何从 PDF Document 中提取文本。
 
 ```csharp
-// open document
+// 打开文档
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// 创建 TextAbsorber 对象以提取文本
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// 接受所有文档页面的吸收器
 absorber.Visit(doc);
 
-// get the extracted text
+// 获取提取的文本
 string extractedText = absorber.Text;
 ```
 
@@ -120,3 +120,5 @@ string extractedText = absorber.Text;
 * class [TextAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

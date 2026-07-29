@@ -1,21 +1,23 @@
 ---
-title: TextExtractionErrorLocation.Path
-second_title: Aspose.PDF for .NET API Reference
-description: TextExtractionErrorLocation 属性。文本提取错误出现的 PDF 文档位置
+title: "TextExtractionErrorLocation.Path"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TextExtractionErrorLocation 属性。出现文本提取错误的 PDF 文档位置"
 type: docs
 weight: 70
 url: /zh/net/aspose.pdf.text/textextractionerrorlocation/path/
 ---
-## TextExtractionErrorLocation.Path 属性
+## TextExtractionErrorLocation.Path property
 
-文本提取错误出现的 PDF 文档位置。
+PDF 文档中出现文本提取错误的位置。
 
 ```csharp
 public string Path { get; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [TextExtractionErrorLocation](../)
-* 命名空间 [Aspose.Pdf.Text](../../../aspose.pdf.text/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TextExtractionErrorLocation](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* assembly [Aspose.PDF](../../../)
+
+

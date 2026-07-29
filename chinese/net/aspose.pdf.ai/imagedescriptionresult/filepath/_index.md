@@ -1,12 +1,12 @@
 ---
-title: ImageDescriptionResult.FilePath
-second_title: Aspose.PDF for .NET API Reference
-description: ImageDescriptionResult 属性。获取或设置文件名
+title: "ImageDescriptionResult.FilePath"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "ImageDescriptionResult 属性。获取或设置文件名"
 type: docs
 weight: 20
 url: /zh/net/aspose.pdf.ai/imagedescriptionresult/filepath/
 ---
-## ImageDescriptionResult.FilePath 属性
+## ImageDescriptionResult.FilePath property
 
 获取或设置文件名。
 
@@ -14,8 +14,10 @@ url: /zh/net/aspose.pdf.ai/imagedescriptionresult/filepath/
 public string FilePath { get; set; }
 ```
 
-### 另请参阅
+### 另请参见
 
-* 类 [ImageDescriptionResult](../)
-* 命名空间 [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../../)
+* class [ImageDescriptionResult](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

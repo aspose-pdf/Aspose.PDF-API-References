@@ -1,12 +1,12 @@
 ---
-title: Enum PrinterResolutionKind
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Printing.PrinterResolutionKind 枚举。指定打印机分辨率
+title: "枚举 PrinterResolutionKind"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.Printing.PrinterResolutionKind 枚举。指定打印机分辨率"
 type: docs
-weight: 9680
+weight: 9830
 url: /zh/net/aspose.pdf.printing/printerresolutionkind/
 ---
-## PrinterResolutionKind 枚举
+## PrinterResolutionKind enumeration
 
 指定打印机分辨率。
 
@@ -24,7 +24,9 @@ public enum PrinterResolutionKind
 | Draft | `-1` | 草稿质量分辨率。 |
 | Custom | `0` | 自定义分辨率。 |
 
-### 另见
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* assembly [Aspose.PDF](../../)
+
+

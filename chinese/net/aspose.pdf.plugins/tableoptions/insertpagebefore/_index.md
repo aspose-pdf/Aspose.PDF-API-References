@@ -1,12 +1,12 @@
 ---
-title: TableOptions.InsertPageBefore
-second_title: Aspose.PDF for .NET API Reference
-description: TableOptions 方法。在指定页面之前插入页面
+title: "TableOptions.InsertPageBefore"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "TableOptions 方法。在指定页面之前插入页面。"
 type: docs
 weight: 50
 url: /zh/net/aspose.pdf.plugins/tableoptions/insertpagebefore/
 ---
-## TableOptions.InsertPageBefore 方法
+## TableOptions.InsertPageBefore method
 
 在指定页面之前插入页面。
 
@@ -16,14 +16,16 @@ public TableOptions InsertPageBefore(int page)
 
 | 参数 | 类型 | 描述 |
 | --- | --- | --- |
-| page | Int32 | 要在其后插入表格的页面编号。 |
+| 页面 | Int32 | 在其后插入表格的页面编号。 |
 
 ### 返回值
 
 当前 [`TableOptions`](../) 的实例。
 
-### 另请参阅
+### 另请参见
 
-* 类 [TableOptions](../)
-* 命名空间 [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
-* 程序集 [Aspose.PDF](../../../)
+* class [TableOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* assembly [Aspose.PDF](../../../)
+
+

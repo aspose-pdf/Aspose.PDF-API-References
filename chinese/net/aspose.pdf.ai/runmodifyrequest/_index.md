@@ -1,12 +1,12 @@
 ---
-title: Class RunModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.RunModifyRequest 类。表示修改运行的请求
+title: "类 RunModifyRequest"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "Aspose.Pdf.AI.RunModifyRequest 类。表示用于修改运行的请求。"
 type: docs
-weight: 1010
+weight: 1090
 url: /zh/net/aspose.pdf.ai/runmodifyrequest/
 ---
-## RunModifyRequest 类
+## RunModifyRequest class
 
 表示修改运行的请求。
 
@@ -24,9 +24,11 @@ public class RunModifyRequest
 
 | 名称 | 描述 |
 | --- | --- |
-| [Metadata](../../aspose.pdf.ai/runmodifyrequest/metadata/) { get; set; } | 一组可以附加到对象的 16 个键值对。这对于以结构化格式存储有关对象的附加信息非常有用。键的最大长度为 64 个字符，值的最大长度为 512 个字符。 |
+| [Metadata](../../aspose.pdf.ai/runmodifyrequest/metadata/) { get; set; } | 一组可附加到对象的 16 对键值对。这对于以结构化格式存储对象的附加信息很有用。键的最大长度为 64 个字符，值的最大长度为 512 个字符。 |
 
-### 另请参阅
+### 另请参见
 
-* 命名空间 [Aspose.Pdf.AI](../../aspose.pdf.ai/)
-* 程序集 [Aspose.PDF](../../)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../)
+
+

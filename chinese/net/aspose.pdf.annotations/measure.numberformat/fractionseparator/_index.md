@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormat.FractionSeparator
-second_title: Aspose.PDF for .NET API Reference
-description: NumberFormat 属性。用于显示数值时作为小数位置的文本。空字符串表示将使用默认值。默认值是句点字符
+title: "Measure.NumberFormat.FractionSeparator"
+second_title: "Aspose.PDF for .NET API 参考"
+description: "NumberFormat 属性。用于在数值显示中作为小数点的文本。空字符串表示使用默认值。默认是句点字符。"
 type: docs
 weight: 80
 url: /zh/net/aspose.pdf.annotations/measure.numberformat/fractionseparator/
 ---
-## Measure.NumberFormat.FractionSeparator 属性
+## Measure.NumberFormat.FractionSeparator property
 
-用于显示数值时作为小数位置的文本。空字符串表示将使用默认值。默认值是句点字符。
+用于在显示数值时作为小数位的文本。空字符串表示使用默认值。默认是句点字符。
 
 ```csharp
 public string FractionSeparator { get; set; }
@@ -16,6 +16,8 @@ public string FractionSeparator { get; set; }
 
 ### 另请参见
 
-* 类 [NumberFormat](../)
-* 命名空间 [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
-* 程序集 [Aspose.PDF](../../../)
+* class [NumberFormat](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* assembly [Aspose.PDF](../../../)
+
+
