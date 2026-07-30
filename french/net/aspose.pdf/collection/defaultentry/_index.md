@@ -1,14 +1,14 @@
 ---
-title: Collection.DefaultEntry
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de collection. Nom de fichier intégré par défaut
+title: "Collection.DefaultEntry"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Collection. Nom de fichier intégré par défaut"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/collection/defaultentry/
 ---
-## Propriété Collection.DefaultEntry
+## Collection.DefaultEntry property
 
-Nom de fichier intégré par défaut.
+Nom de fichier incorporé par défaut.
 
 ```csharp
 public string DefaultEntry { get; }
@@ -16,6 +16,8 @@ public string DefaultEntry { get; }
 
 ### Voir aussi
 
-* classe [Collection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Collection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CreateFineTuningJobResponse.Model
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété CreateFineTuningJobResponse. Obtient ou définit le modèle utilisé pour le travail de fine-tuning
+title: "CreateFineTuningJobResponse.Model"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété CreateFineTuningJobResponse. Obtient ou définit le modèle utilisé pour la tâche de finetuning"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.ai/createfinetuningjobresponse/model/
 ---
-## Propriété CreateFineTuningJobResponse.Model
+## CreateFineTuningJobResponse.Model property
 
-Obtient ou définit le modèle utilisé pour le travail de fine-tuning.
+Obtient ou définit le modèle utilisé pour le travail de réglage fin.
 
 ```csharp
 public string Model { get; set; }
@@ -16,6 +16,8 @@ public string Model { get; set; }
 
 ### Voir aussi
 
-* classe [CreateFineTuningJobResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [CreateFineTuningJobResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

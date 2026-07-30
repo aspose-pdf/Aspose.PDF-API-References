@@ -1,14 +1,14 @@
 ---
-title: Attachment.FileId
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété d'attachement. Obtient ou définit l'ID du fichier qui est attaché
+title: "Attachment.FileId"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Attachment propriété. Obtient ou définit l’ID du fichier qui est attaché"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.ai/attachment/fileid/
 ---
-## Propriété Attachment.FileId
+## Attachment.FileId property
 
-Obtient ou définit l'ID du fichier qui est attaché.
+Obtient ou définit l'ID du File qui est attaché.
 
 ```csharp
 public string FileId { get; set; }
@@ -16,6 +16,8 @@ public string FileId { get; set; }
 
 ### Voir aussi
 
-* classe [Attachment](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Attachment](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

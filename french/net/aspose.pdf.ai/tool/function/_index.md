@@ -1,12 +1,12 @@
 ---
-title: Tool.Function
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Tool. Crée une nouvelle instance d'outil avec la fonction spécifiée
+title: "Tool.Function"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Tool. Crée une nouvelle instance d'outil avec la fonction spécifiée"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.ai/tool/function/
 ---
-## Méthode Tool.Function
+## Tool.Function method
 
 Crée une nouvelle instance d'outil avec la fonction spécifiée.
 
@@ -24,7 +24,9 @@ Une nouvelle instance d'outil avec la fonction spécifiée.
 
 ### Voir aussi
 
-* classe [Function](../../function/)
-* classe [Tool](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Function](../../function/)
+* class [Tool](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

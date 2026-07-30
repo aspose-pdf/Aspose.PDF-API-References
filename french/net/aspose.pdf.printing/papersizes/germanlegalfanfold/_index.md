@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.GermanLegalFanfold
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSizes. Pliage légal allemand 8,5 po par 13 po
+title: "PaperSizes.GermanLegalFanfold"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PaperSizes. Fanfold légal allemand 8,5 po. sur 13 po"
 type: docs
 weight: 430
 url: /fr/net/aspose.pdf.printing/papersizes/germanlegalfanfold/
 ---
-## Champ PaperSizes.GermanLegalFanfold
+## PaperSizes.GermanLegalFanfold field
 
-Pliage légal allemand (8,5 po par 13 po).
+Fanfold légal allemand (8,5 po. par 13 po.).
 
 ```csharp
 public static readonly PaperSize GermanLegalFanfold;
@@ -16,7 +16,9 @@ public static readonly PaperSize GermanLegalFanfold;
 
 ### Voir aussi
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

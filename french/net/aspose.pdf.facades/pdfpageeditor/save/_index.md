@@ -1,7 +1,7 @@
 ---
-title: PdfPageEditor.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfPageEditor. Enregistre le document modifié dans un fichier
+title: "PdfPageEditor.Save"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfPageEditor. Enregistre le document modifié dans un fichier"
 type: docs
 weight: 180
 url: /fr/net/aspose.pdf.facades/pdfpageeditor/save/
@@ -16,11 +16,11 @@ public override void Save(string outputFile)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| outputFile | String | Chemin vers le fichier où le document sera enregistré. |
+| outputFile | String | Chemin du fichier où le document sera enregistré. |
 
 ## Exemples
 
-L'exemple suivant montre comment enregistrer un document PDF modifié
+L'exemple suivant montre comment enregistrer le document PDF modifié
 
 ```csharp
 PdfPageEditor editor = new PdfPageEditor();
@@ -31,8 +31,8 @@ editor.Save("newdocument.pdf");
 
 ### Voir aussi
 
-* classe [PdfPageEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -51,7 +51,7 @@ public override void Save(Stream outputStream)
 
 ## Exemples
 
-L'exemple suivant montre comment enregistrer un document PDF modifié dans un flux.
+L'exemple suivant montre comment enregistrer le document PDF modifié dans un flux.
 
 ```csharp
 PdfPageEditor editor = new PdfPageEditor();
@@ -62,6 +62,8 @@ editor.Save("newdocument.pdf");
 
 ### Voir aussi
 
-* classe [PdfPageEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

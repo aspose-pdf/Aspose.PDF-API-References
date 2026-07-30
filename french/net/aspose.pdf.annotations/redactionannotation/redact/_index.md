@@ -1,14 +1,14 @@
 ---
-title: RedactionAnnotation.Redact
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode RedactionAnnotation. Aplatit l'annotation et censure le contenu de la page, c'est-à-dire supprime le texte et l'image sous l'annotation censurée
+title: "RedactionAnnotation.Redact"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode RedactionAnnotation. Aplatisse l'annotation et rédige le contenu de la page, c'est‑à‑dire supprime le texte et l'image sous l'annotation de rédaction"
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf.annotations/redactionannotation/redact/
 ---
-## Méthode RedactionAnnotation.Redact
+## RedactionAnnotation.Redact method
 
-Aplatit l'annotation et censure le contenu de la page (c'est-à-dire supprime le texte et l'image sous l'annotation censurée)
+Aplati l'annotation et masque le contenu de la page (c.-à-d. supprime le texte et l'image sous l'annotation masquée)
 
 ```csharp
 public void Redact()
@@ -16,6 +16,8 @@ public void Redact()
 
 ### Voir aussi
 
-* classe [RedactionAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [RedactionAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

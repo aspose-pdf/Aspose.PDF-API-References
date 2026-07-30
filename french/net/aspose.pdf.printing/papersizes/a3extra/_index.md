@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.A3Extra
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSizes. Papier A3 extra 322 mm par 445 mm
+title: "PaperSizes.A3Extra"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PaperSizes. Papier A3 extra 322 mm par 445 mm"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.printing/papersizes/a3extra/
 ---
-## Champ PaperSizes.A3Extra
+## PaperSizes.A3Extra field
 
-Papier A3 extra (322 mm par 445 mm).
+Papier supplémentaire A3 (322 mm par 445 mm).
 
 ```csharp
 public static readonly PaperSize A3Extra;
@@ -16,7 +16,9 @@ public static readonly PaperSize A3Extra;
 
 ### Voir aussi
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

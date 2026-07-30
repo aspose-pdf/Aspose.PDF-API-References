@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.FontSavingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Champ HtmlSaveOptions. Définit le mode de sauvegarde des polices qui sera utilisé lors de la sauvegarde du PDF dans le format souhaité
+title: "HtmlSaveOptions.FontSavingMode"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "HtmlSaveOptions field. Définit le mode d’enregistrement des polices qui sera utilisé lors de la sauvegarde du PDF vers le format souhaité."
 type: docs
 weight: 330
 url: /fr/net/aspose.pdf/htmlsaveoptions/fontsavingmode/
 ---
-## Champ HtmlSaveOptions.FontSavingMode
+## HtmlSaveOptions.FontSavingMode field
 
-Définit le mode de sauvegarde des polices qui sera utilisé lors de la sauvegarde du PDF dans le format souhaité
+Définit le mode d’enregistrement des polices qui sera utilisé lors de l’enregistrement du PDF dans le format souhaité.
 
 ```csharp
 public FontSavingModes FontSavingMode;
@@ -20,3 +20,5 @@ public FontSavingModes FontSavingMode;
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

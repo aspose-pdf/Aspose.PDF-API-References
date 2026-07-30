@@ -1,12 +1,12 @@
 ---
-title: PdfGeneratorOptions.Inputs
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfGeneratorOptions. Renvoie la collection de données du plugin PdfGenerator
+title: "PdfGeneratorOptions.Inputs"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfGeneratorOptions. Retourne la collection de données du plugin PdfGenerator"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.plugins/pdfgeneratoroptions/inputs/
 ---
-## Propriété PdfGeneratorOptions.Inputs
+## PdfGeneratorOptions.Inputs property
 
 Renvoie la collection de données du plugin PdfGenerator.
 
@@ -17,6 +17,8 @@ public List<IDataSource> Inputs { get; }
 ### Voir aussi
 
 * interface [IDataSource](../../idatasource/)
-* classe [PdfGeneratorOptions](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [PdfGeneratorOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

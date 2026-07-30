@@ -1,12 +1,12 @@
 ---
-title: SetGray.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode SetGray. Renvoie la représentation sous forme de chaîne de l'opérateur
+title: "SetGray.ToString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode SetGray. Retourne la représentation sous forme de chaîne de l'opérateur"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.operators/setgray/tostring/
 ---
-## Méthode SetGray.ToString
+## SetGray.ToString method
 
 Renvoie la représentation sous forme de chaîne de l'opérateur.
 
@@ -20,6 +20,8 @@ Représentation sous forme de chaîne de l'opérateur.
 
 ### Voir aussi
 
-* classe [SetGray](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetGray](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

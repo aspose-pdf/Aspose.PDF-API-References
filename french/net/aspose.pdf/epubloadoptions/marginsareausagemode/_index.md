@@ -1,14 +1,14 @@
 ---
-title: EpubLoadOptions.MarginsAreaUsageMode
-second_title: Aspose.PDF for .NET API Reference
-description: Champ EpubLoadOptions. Représente le mode d'utilisation de la zone de marges définit le traitement des instructions, le cas échéant, du CSS du document importé lié à l'utilisation des marges
+title: "EpubLoadOptions.MarginsAreaUsageMode"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ EpubLoadOptions. Représente le mode d'utilisation de la zone des marges, définit le traitement des instructions si du CSS du document importé concerne l'utilisation des marges"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf/epubloadoptions/marginsareausagemode/
 ---
-## Champ EpubLoadOptions.MarginsAreaUsageMode
+## EpubLoadOptions.MarginsAreaUsageMode field
 
-Représente le mode d'utilisation de la zone de marges - définit le traitement des instructions (le cas échéant) du CSS du document importé lié à l'utilisation des marges.
+Représente le mode d’utilisation de la zone des marges – définit le traitement des instructions (le cas échéant) du CSS du document importé liées à l’utilisation des marges.
 
 ```csharp
 public MarginsAreaUsageModes MarginsAreaUsageMode;
@@ -20,3 +20,5 @@ public MarginsAreaUsageModes MarginsAreaUsageMode;
 * class [EpubLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

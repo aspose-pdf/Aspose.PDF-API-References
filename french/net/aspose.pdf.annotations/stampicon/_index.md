@@ -1,12 +1,12 @@
 ---
-title: Enum StampIcon
-second_title: Aspose.PDF for .NET API Reference
-description: Enumération Aspose.Pdf.Annotations.StampIcon. Énumère les icônes à utiliser pour afficher l'annotation
+title: "Énumération StampIcon"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Énumération Aspose.Pdf.Annotations.StampIcon. Énumère les icônes à utiliser pour l'affichage de l'annotation"
 type: docs
-weight: 2620
+weight: 2720
 url: /fr/net/aspose.pdf.annotations/stampicon/
 ---
-## Énumération StampIcon
+## StampIcon enumeration
 
 Énumère les icônes à utiliser pour afficher l'annotation.
 
@@ -24,16 +24,18 @@ public enum StampIcon
 | NotApproved | `3` | L'icône de tampon n'est pas approuvée. |
 | AsIs | `4` | Icône de tampon "tel quel". |
 | Expired | `5` | L'icône de tampon est expirée. |
-| NotForPublicRelease | `6` | Non destiné à une publication publique. |
+| NotForPublicRelease | `6` | Pas destiné à la diffusion publique. |
 | Confidential | `7` | Confidentiel. |
-| Final | `8` | Tampon final. |
-| Sold | `9` | Tampon vendu. |
+| Final | `8` | Cachet final. |
+| Sold | `9` | Cachet vendu. |
 | Departmental | `10` | Départemental. |
 | ForComment | `11` | Pour commentaire. |
-| ForPublicRelease | `12` | Pour publication publique. |
+| ForPublicRelease | `12` | Pour diffusion publique. |
 | TopSecret | `13` | Top secret. |
 
 ### Voir aussi
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

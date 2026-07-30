@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.Alignment
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FormFieldFacade. L'alignement du texte d'un champ par défaut est l'alignement à gauche
+title: "FormFieldFacade.Alignment"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "FormFieldFacade property. L'alignement du texte d'un champ, par défaut, est à gauche"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.facades/formfieldfacade/alignment/
 ---
-## Propriété FormFieldFacade.Alignment
+## FormFieldFacade.Alignment property
 
-L'alignement du texte d'un champ, par défaut est l'alignement à gauche.
+L'alignement du texte d'un champ, la valeur par défaut est l'alignement à gauche.
 
 ```csharp
 public int Alignment { get; set; }
@@ -16,6 +16,8 @@ public int Alignment { get; set; }
 
 ### Voir aussi
 
-* classe [FormFieldFacade](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

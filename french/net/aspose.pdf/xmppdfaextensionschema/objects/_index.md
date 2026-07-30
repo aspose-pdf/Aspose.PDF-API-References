@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchema.Objects
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété XmpPdfAExtensionSchema. Obtient la liste des types de valeur des propriétés des objets
+title: "XmpPdfAExtensionSchema.Objects"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "XmpPdfAExtensionSchema propriété. Obtient la liste des types de valeurs des propriétés des objets"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/xmppdfaextensionschema/objects/
 ---
-## Propriété XmpPdfAExtensionSchema.Objects
+## XmpPdfAExtensionSchema.Objects property
 
-Obtient la liste des objets (propriétés, types de valeur).
+Obtient la liste des objets (propriétés, types de valeurs).
 
 ```csharp
 public List<XmpPdfAExtensionObject> Objects { get; }
@@ -16,7 +16,9 @@ public List<XmpPdfAExtensionObject> Objects { get; }
 
 ### Voir aussi
 
-* classe [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
-* classe [XmpPdfAExtensionSchema](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

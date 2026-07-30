@@ -1,14 +1,14 @@
 ---
-title: Class EndPath
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.EndPath. Classe représentant l'opérateur n fin de chemin sans remplissage ni trait
+title: "Classe EndPath"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.EndPath class. Classe représentant l'opérateur n qui termine le chemin sans remplissage ni tracé."
 type: docs
-weight: 7360
+weight: 7500
 url: /fr/net/aspose.pdf.operators/endpath/
 ---
-## Classe EndPath
+## EndPath class
 
-Classe représentant l'opérateur n (fin de chemin sans remplissage ni trait).
+Classe représentant l'opérateur n (end path without filling or stroking).
 
 ```csharp
 public class EndPath : Operator
@@ -30,12 +30,14 @@ public class EndPath : Operator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/endpath/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/endpath/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf.operators/endpath/tostring/)() | Représentation textuelle de l'opérateur. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [Operator](../../aspose.pdf/operator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

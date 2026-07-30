@@ -1,14 +1,14 @@
 ---
-title: Enum HighlightingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Enum HighlightingMode d'Aspose.Pdf.Annotations. Énumère le mode de surlignage des annotations, l'effet visuel à utiliser lorsque le bouton de la souris est enfoncé ou maintenu enfoncé à l'intérieur de sa zone active
+title: "Enum HighlightingMode"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.HighlightingMode enum. Enumère le mode de surlignage des annotations, l'effet visuel à utiliser lorsque le bouton de la souris est enfoncé ou maintenu enfoncé à l'intérieur de sa zone active"
 type: docs
-weight: 1880
+weight: 1970
 url: /fr/net/aspose.pdf.annotations/highlightingmode/
 ---
-## Énumération HighlightingMode
+## HighlightingMode enumeration
 
-Énumère le mode de surlignage de l'annotation, l'effet visuel à utiliser lorsque le bouton de la souris est enfoncé ou maintenu enfoncé à l'intérieur de sa zone active.
+Énumère le mode de mise en évidence de l'annotation, l'effet visuel à utiliser lorsque le bouton de la souris est enfoncé ou maintenu dans sa zone active.
 
 ```csharp
 public enum HighlightingMode
@@ -18,13 +18,15 @@ public enum HighlightingMode
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| Aucun | `0` | Pas de surlignage. |
-| Inverser | `1` | Inverser le contenu du rectangle d'annotation. |
-| Contour | `2` | Inverser la bordure de l'annotation. |
-| Enfoncer | `3` | Afficher l'apparence enfoncée de l'annotation, le cas échéant. Si aucune apparence enfoncée n'est définie, décaler le contenu du rectangle d'annotation pour qu'il apparaisse comme s'il était enfoncé sous la surface de la page. |
-| Basculer | `4` | Identique à Enfoncer (qui est préféré). |
+| None | `0` | Pas de surlignage. |
+| Invert | `1` | Inverser le contenu du rectangle de l'annotation. |
+| Outline | `2` | Inverser la bordure de l'annotation. |
+| Push | `3` | Afficher l'apparence « down » de l'annotation, le cas échéant. Si aucune apparence « down » n'est définie, décaler le contenu du rectangle de l'annotation pour donner l'impression qu'il est enfoncé sous la surface de la page. |
+| Toggle | `4` | Identique à Push (qui est préféré). |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

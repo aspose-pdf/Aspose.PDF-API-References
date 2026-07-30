@@ -1,12 +1,12 @@
 ---
-title: Layer.Lock
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Layer. Verrouille la couche
+title: "Layer.Lock"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Layer. Verrouille le calque"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf/layer/lock/
 ---
-## Méthode Layer.Lock
+## Layer.Lock method
 
 Verrouille la couche.
 
@@ -16,6 +16,8 @@ public void Lock()
 
 ### Voir aussi
 
-* classe [Layer](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

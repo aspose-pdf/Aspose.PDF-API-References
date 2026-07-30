@@ -1,12 +1,12 @@
 ---
-title: INamedDestinationCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété INamedDestinationCollection. Obtient ou définit la destination par son nom
+title: "INamedDestinationCollection.Item"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété INamedDestinationCollection. Obtient ou définit la destination par son nom"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/inameddestinationcollection/item/
 ---
-## Indice INamedDestinationCollection
+## INamedDestinationCollection indexer
 
 Obtient ou définit la destination par son nom.
 
@@ -16,11 +16,11 @@ public IAppointment this[string name] { get; set; }
 
 | Paramètre | Description |
 | --- | --- |
-| name | Valeur du nom. |
+| nom | Valeur du nom. |
 
 ### Valeur de retour
 
-Objet de destination.
+Objet Destination.
 
 ### Voir aussi
 
@@ -28,3 +28,5 @@ Objet de destination.
 * interface [INamedDestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CharInfoCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode CharInfoCollection. La collection est en lecture seule et lance NotImplementedException
+title: "CharInfoCollection.Add"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode CharInfoCollection. La collection en lecture seule lève NotImplementedException"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.text/charinfocollection/add/
 ---
-## Méthode CharInfoCollection.Add
+## CharInfoCollection.Add method
 
-La collection est en lecture seule, lance NotImplementedException.
+La collection est en lecture seule, lève NotImplementedException.
 
 ```csharp
 public void Add(CharInfo item)
@@ -20,7 +20,9 @@ public void Add(CharInfo item)
 
 ### Voir aussi
 
-* classe [CharInfo](../../charinfo/)
-* classe [CharInfoCollection](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [CharInfo](../../charinfo/)
+* class [CharInfoCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ElementCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ElementCollection. Renvoie un énumérateur qui itère à travers la collection
+title: "ElementCollection.GetEnumerator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode ElementCollection. Retourne un énumérateur qui parcourt la collection"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.structure/elementcollection/getenumerator/
 ---
-## Méthode ElementCollection.GetEnumerator
+## ElementCollection.GetEnumerator method
 
-Renvoie un énumérateur qui itère à travers la collection.
+Renvoie un énumérateur qui parcourt la collection.
 
 ```csharp
 public IEnumerator<Element> GetEnumerator()
@@ -20,7 +20,9 @@ public IEnumerator<Element> GetEnumerator()
 
 ### Voir aussi
 
-* classe [Element](../../element/)
-* classe [ElementCollection](../)
-* espace de noms [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* class [Element](../../element/)
+* class [ElementCollection](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../../)
+
+

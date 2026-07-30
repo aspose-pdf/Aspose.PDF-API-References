@@ -1,12 +1,12 @@
 ---
-title: TableRowCollectionElement.CreateTR
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TableRowCollectionElement. Crée TableTRElement et l'ajoute à la table actuelle
+title: "TableRowCollectionElement.CreateTR"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TableRowCollectionElement. Crée un TableTRElement et l'ajoute à la table actuelle"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.logicalstructure/tablerowcollectionelement/createtr/
 ---
-## Méthode TableRowCollectionElement.CreateTR
+## TableRowCollectionElement.CreateTR method
 
 Crée [`TableTRElement`](../../tabletrelement/) et l'ajoute à la table actuelle.
 
@@ -20,7 +20,9 @@ public virtual TableTRElement CreateTR()
 
 ### Voir aussi
 
-* classe [TableTRElement](../../tabletrelement/)
-* classe [TableRowCollectionElement](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [TableTRElement](../../tabletrelement/)
+* class [TableRowCollectionElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

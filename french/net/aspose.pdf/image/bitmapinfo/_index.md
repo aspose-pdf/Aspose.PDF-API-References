@@ -1,12 +1,12 @@
 ---
-title: Image.BitmapInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété d'image. Obtient ou définit les octets d'image non compressés
+title: "Image.BitmapInfo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Image. Obtient ou définit les octets d'image non compressés"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/image/bitmapinfo/
 ---
-## Propriété Image.BitmapInfo
+## Image.BitmapInfo property
 
 Obtient ou définit les octets d'image non compressés.
 
@@ -16,7 +16,9 @@ public BitmapInfo BitmapInfo { get; set; }
 
 ### Voir aussi
 
-* classe [BitmapInfo](../../bitmapinfo/)
-* classe [Image](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [BitmapInfo](../../bitmapinfo/)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

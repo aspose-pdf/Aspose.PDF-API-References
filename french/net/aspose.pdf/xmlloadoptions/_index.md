@@ -1,14 +1,14 @@
 ---
-title: Class XmlLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.XmlLoadOptions. Représente les options pour charger/importer un fichier XML dans un document pdf
+title: "Classe XmlLoadOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.XmlLoadOptions. Représente les options de chargement/importation d'un fichier XML dans un document PDF"
 type: docs
-weight: 11390
+weight: 11580
 url: /fr/net/aspose.pdf/xmlloadoptions/
 ---
-## Classe XmlLoadOptions
+## XmlLoadOptions class
 
-Représente les options pour charger/importer un fichier XML dans un document pdf.
+Représente les options de chargement/importation d'un fichier XML dans un document pdf.
 
 ```csharp
 public class XmlLoadOptions : LoadOptions
@@ -18,18 +18,18 @@ public class XmlLoadOptions : LoadOptions
 
 | Nom | Description |
 | --- | --- |
-| [XmlLoadOptions](xmlloadoptions/#constructor)() | Crée un objet `XmlLoadOptions` sans données xsl. |
-| [XmlLoadOptions](xmlloadoptions/#constructor_1)(Stream) | Crée un objet `XmlLoadOptions` avec des données xsl. |
-| [XmlLoadOptions](xmlloadoptions/#constructor_2)(string) | Crée un objet `XmlLoadOptions` avec des données xsl. |
+| [XmlLoadOptions](xmlloadoptions/#constructor)() | Crée l'objet `XmlLoadOptions` sans données xsl. |
+| [XmlLoadOptions](xmlloadoptions/#constructor_1)(Stream) | Crée l'objet `XmlLoadOptions` avec des données xsl. |
+| [XmlLoadOptions](xmlloadoptions/#constructor_2)(string) | Crée l'objet `XmlLoadOptions` avec des données xsl. |
 
 ## Propriétés
 
 | Nom | Description |
 | --- | --- |
-| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Obtient ou définit un indicateur pour désactiver toute restriction de licence pour toutes les polices lors du chargement du fichier. Lorsque `true`, permet d'exécuter des opérations avec des polices qui sont interdites par une licence de cette police, par exemple permet d'incorporer une police dans un document PDF même si les règles de licence interdisent l'incorporation pour cette police. Par défaut `false`. |
-| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Représente le format de fichier que décrit [`LoadOptions`](../loadoptions/). |
-| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Callback pour gérer les avertissements générés. Le WarningHandler retourne un élément de l'énumération ReturnAction spécifiant soit Continuer soit Abandonner. Continuer est l'action par défaut et l'opération de chargement continue, cependant l'utilisateur peut également retourner Abandonner dans ce cas l'opération de chargement doit cesser. |
-| [XslStream](../../aspose.pdf/xmlloadoptions/xslstream/) { get; } | Obtient les données xsl pour convertir xml en document pdf. |
+| [DisableFontLicenseVerifications](../../aspose.pdf/loadoptions/disablefontlicenseverifications/) { get; set; } | Obtient ou définit le drapeau permettant de désactiver toutes les restrictions de licence pour toutes les polices lors du chargement du fichier. Lorsque `true`, autorise l’exécution d’opérations avec une police qui sont interdites par la licence de cette police, par exemple autorise l’intégration d’une police dans un document PDF même si les règles de licence désactivent l’intégration pour cette police. Par défaut `false`. |
+| [LoadFormat](../../aspose.pdf/loadoptions/loadformat/) { get; } | Représente le format de fichier décrit par [`LoadOptions`](../loadoptions/). |
+| [WarningHandler](../../aspose.pdf/loadoptions/warninghandler/) { get; set; } | Fonction de rappel pour gérer les avertissements générés. Le WarningHandler renvoie un élément de l’énumération ReturnAction spécifiant soit Continue, soit Abort. Continue est l’action par défaut et l’opération de chargement se poursuit, cependant l’utilisateur peut également renvoyer Abort, auquel cas l’opération de chargement doit s’arrêter. |
+| [XslStream](../../aspose.pdf/xmlloadoptions/xslstream/) { get; } | Obtient les données xsl pour convertir le xml en document PDF. |
 
 ## Exemples
 
@@ -37,22 +37,22 @@ L'exemple suivant montre comment convertir un fichier XML en fichier PDF
 
 ```csharp
 [C#]
-	// The path to the documents directory.
+	// Le chemin du répertoire des documents.
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The path to your XML File.
+	// Le chemin vers votre fichier XML.
 	string xmlFile = Path.Combine(dataDir, "XML-to-PDF.xml");
 
-	// The path to output PDF File.
+	// Le chemin du fichier PDF de sortie.
 	string pdfFile = Path.Combine(dataDir, "XML-to-PDF.pdf");
 
-	// Initialize XmlLoadOptions	
+	// Initialiser XmlLoadOptions	
 	XmlLoadOptions xmlLoadOptions = new XmlLoadOptions();
 		
 	using (Document pdfDocument = new Document(xmlFile, xmlLoadOptions))
 	{
 	 
-		// Save XML file
+		// Enregistrer le fichier XML
 		pdfDocument.Save(pdfFile);
 	}
 ```
@@ -81,6 +81,8 @@ L'exemple suivant montre comment convertir un fichier XML en fichier PDF
 
 ### Voir aussi
 
-* classe [LoadOptions](../loadoptions/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [LoadOptions](../loadoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

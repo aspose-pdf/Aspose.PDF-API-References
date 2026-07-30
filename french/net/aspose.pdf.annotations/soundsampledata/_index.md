@@ -1,12 +1,12 @@
 ---
-title: Class SoundSampleData
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.SoundSampleData. Représente des entrées supplémentaires spécifiques à un objet sonore Section 9.2 PDF17
+title: "Classe SoundSampleData"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.SoundSampleData classe. Représente les entrées supplémentaires spécifiques à un objet son Section 9.2 PDF17."
 type: docs
-weight: 2570
+weight: 2670
 url: /fr/net/aspose.pdf.annotations/soundsampledata/
 ---
-## Classe SoundSampleData
+## SoundSampleData class
 
 Représente des entrées supplémentaires spécifiques à un objet sonore (Section 9.2 PDF1-7)
 
@@ -29,8 +29,8 @@ public class SoundSampleData
 | --- | --- |
 | [BitsPerChannel](../../aspose.pdf.annotations/soundsampledata/bitsperchannel/) { get; set; } | Obtient ou définit le nombre de bits par valeur d'échantillon par canal. |
 | [EncodingFormat](../../aspose.pdf.annotations/soundsampledata/encodingformat/) { get; set; } | Obtient ou définit le format d'encodage. |
-| [NumberOfSoundChannels](../../aspose.pdf.annotations/soundsampledata/numberofsoundchannels/) { get; set; } | Obtient ou définit le nombre de canaux sonores. |
-| [SamplingRate](../../aspose.pdf.annotations/soundsampledata/samplingrate/) { get; set; } | Obtient ou définit la fréquence d'échantillonnage. |
+| [NumberOfSoundChannels](../../aspose.pdf.annotations/soundsampledata/numberofsoundchannels/) { get; set; } | Obtient ou définit le nombre de canaux audio. |
+| [SamplingRate](../../aspose.pdf.annotations/soundsampledata/samplingrate/) { get; set; } | Obtient ou définit le taux d'échantillonnage. |
 
 ## Champs
 
@@ -39,9 +39,11 @@ public class SoundSampleData
 | const [DefaultEncodingFormat](../../aspose.pdf.annotations/soundsampledata/defaultencodingformat/) | Valeur par défaut pour le format d'encodage. |
 | const [DefaultOfBitsPerChannel](../../aspose.pdf.annotations/soundsampledata/defaultofbitsperchannel/) | Valeur par défaut pour le paramètre BitsPerchannel. |
 | const [DefaultOfSoundChannels](../../aspose.pdf.annotations/soundsampledata/defaultofsoundchannels/) | Valeur par défaut pour le paramètre Channels. |
-| const [DefaultSamplingRate](../../aspose.pdf.annotations/soundsampledata/defaultsamplingrate/) | Valeur par défaut pour la fréquence d'échantillonnage. |
+| const [DefaultSamplingRate](../../aspose.pdf.annotations/soundsampledata/defaultsamplingrate/) | Valeur par défaut pour SamplingRate. |
 
 ### Voir aussi
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ElementCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ElementCollection. Supprimer un élément de la collection
+title: "ElementCollection.Remove"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode ElementCollection. Supprime l'élément de la collection"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.structure/elementcollection/remove/
 ---
-## Méthode ElementCollection.Remove
+## ElementCollection.Remove method
 
-Supprimer un élément de la collection.
+Supprimer l'élément de la collection.
 
 ```csharp
 public bool Remove(Element item)
@@ -24,7 +24,9 @@ Vrai si l'élément a été supprimé.
 
 ### Voir aussi
 
-* classe [Element](../../element/)
-* classe [ElementCollection](../)
-* espace de noms [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* class [Element](../../element/)
+* class [ElementCollection](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../../)
+
+

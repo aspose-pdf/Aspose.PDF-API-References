@@ -1,14 +1,14 @@
 ---
-title: PptxSaveOptions.CustomProgressHandler
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PptxSaveOptions. Ce gestionnaire peut être utilisé pour gérer les événements de progression de conversion, par exemple, il peut être utilisé pour afficher une barre de progression ou des messages sur le nombre actuel de pages traitées, un exemple de code de gestionnaire qui montre la progression sur la console est
+title: "PptxSaveOptions.CustomProgressHandler"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PptxSaveOptions. Ce gestionnaire peut être utilisé pour gérer les événements de progression de la conversion, par exemple il peut être utilisé pour afficher une barre de progression ou des messages concernant le nombre actuel de pages traitées. Exemple de code du gestionnaire qui affiche la progression sur la console :"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/pptxsaveoptions/customprogresshandler/
 ---
-## Propriété PptxSaveOptions.CustomProgressHandler
+## PptxSaveOptions.CustomProgressHandler property
 
-Ce gestionnaire peut être utilisé pour gérer les événements de progression de conversion, par exemple, il peut être utilisé pour afficher une barre de progression ou des messages sur le nombre actuel de pages traitées, un exemple de code de gestionnaire qui montre la progression sur la console est :
+Ce gestionnaire peut être utilisé pour gérer les événements de progression de la conversion, par ex. il peut servir à afficher une barre de progression ou des messages sur le nombre actuel de pages traitées ; un exemple de code du gestionnaire qui affiche la progression dans la console est :
 
 ```csharp
 public ConversionProgressEventHandler CustomProgressHandler { get; set; }
@@ -50,7 +50,9 @@ blic static void ShowProgressOnConsole(HtmlSaveOptions.ProgressEventHandlerInfo 
 
 ### Voir aussi
 
-* délégué [ConversionProgressEventHandler](../../unifiedsaveoptions.conversionprogresseventhandler/)
-* classe [PptxSaveOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* delegate [ConversionProgressEventHandler](../../unifiedsaveoptions.conversionprogresseventhandler/)
+* class [PptxSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

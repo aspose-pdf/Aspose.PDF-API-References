@@ -1,14 +1,14 @@
 ---
-title: TocInfo.LineDash
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TocInfo. Obtient ou définit le trait de ligne TOC
+title: "TocInfo.LineDash"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TocInfo. Obtient ou définit le tiret de ligne de la table des matières"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf/tocinfo/linedash/
 ---
-## Propriété TocInfo.LineDash
+## TocInfo.LineDash property
 
-Obtient ou définit le trait de ligne TOC.
+Obtient ou définit le tiret de ligne de la TOC.
 
 ```csharp
 public TabLeaderType LineDash { get; set; }
@@ -20,3 +20,5 @@ public TabLeaderType LineDash { get; set; }
 * class [TocInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

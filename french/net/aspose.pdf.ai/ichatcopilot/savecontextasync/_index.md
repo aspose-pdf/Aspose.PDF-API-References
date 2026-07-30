@@ -1,14 +1,14 @@
 ---
-title: IChatCopilot.SaveContextAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode IChatCopilot. Enregistre le contexte de manière asynchrone dans un fichier JSON
+title: "IChatCopilot.SaveContextAsync"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode IChatCopilot. Enregistre de façon asynchrone le contexte dans un fichier JSON."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.ai/ichatcopilot/savecontextasync/
 ---
-## Méthode IChatCopilot.SaveContextAsync
+## IChatCopilot.SaveContextAsync method
 
-Enregistre le contexte de manière asynchrone dans un fichier JSON.
+Enregistre de façon asynchrone le contexte dans un fichier JSON.
 
 ```csharp
 public Task SaveContextAsync(string jsonFilePath, CancellationToken? cancellationToken = default)
@@ -28,3 +28,5 @@ Une tâche représentant l'opération asynchrone.
 * interface [IChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

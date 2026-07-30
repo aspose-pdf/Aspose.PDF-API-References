@@ -1,7 +1,7 @@
 ---
-title: ISaveableFacade.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ISaveableFacade. Enregistre le document PDF résultant dans un fichier
+title: "ISaveableFacade.Save"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode ISaveableFacade. Enregistre le document PDF résultant dans un fichier"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.facades/isaveablefacade/save/
@@ -43,3 +43,5 @@ public void Save(Stream destStream)
 * interface [ISaveableFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TiffDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TiffDevice. Convertit certaines pages de document en tiff et les enregistre dans le flux de sortie
+title: "TiffDevice.Process"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TiffDevice. Convertit certaines pages de document en tiff et les enregistre dans le flux de sortie."
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.devices/tiffdevice/process/
 ---
 ## Process(Document, int, int, Stream) {#process}
 
-Convertit certaines pages de document en tiff et les enregistre dans le flux de sortie.
+Convertit certaines pages du document en TIFF et les enregistre dans le flux de sortie.
 
 ```csharp
 public override void Process(Document document, int fromPage, int toPage, Stream output)
@@ -18,14 +18,14 @@ public override void Process(Document document, int fromPage, int toPage, Stream
 | --- | --- | --- |
 | document | Document | Le document à convertir. |
 | fromPage | Int32 | Définit le numéro de page à partir duquel la conversion commencera. |
-| toPage | Int32 | Définit le numéro de page qui mettra fin à la conversion. |
-| output | Stream | Flux de sortie avec l'image tiff. |
+| toPage | Int32 | Définit le numéro de page qui terminera la conversion. |
+| output | Stream | Flux de sortie contenant l'image TIFF. |
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [TiffDevice](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Document](../../../aspose.pdf/document/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -38,7 +38,9 @@ public override void Process(Page page, Stream output)
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [TiffDevice](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Page](../../../aspose.pdf/page/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Stamp.IsBackground
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Stamp. Obtient ou définit l'état de fond. Si vrai, le tampon sera placé en tant que fond de la page tamponnée. Par défaut, il est défini sur faux.
+title: "Stamp.IsBackground"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Stamp. Obtient ou définit l'état d'arrière-plan. Si vrai, le tampon sera placé en arrière-plan de la page tamponnée. Par défaut, il est défini sur false"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.facades/stamp/isbackground/
 ---
-## Propriété Stamp.IsBackground
+## Stamp.IsBackground property
 
-Obtient ou définit l'état de fond. Si vrai, le tampon sera placé en tant que fond de la page tamponnée. Par défaut, il est défini sur faux.
+Obtient ou définit le statut d'arrière-plan. Si true, le tampon sera placé en arrière-plan de la page estampillée. Par défaut, il est défini sur false.
 
 ```csharp
 public bool IsBackground { get; set; }
@@ -27,6 +27,8 @@ fileStamp.Close();
 
 ### Voir aussi
 
-* classe [Stamp](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

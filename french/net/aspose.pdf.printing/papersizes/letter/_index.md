@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Letter
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSizes. Papier lettre 8,5 po par 11 po
+title: "PaperSizes.Letter"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PaperSizes champ. papier Letter 8.5 po. par 11 po"
 type: docs
 weight: 650
 url: /fr/net/aspose.pdf.printing/papersizes/letter/
 ---
-## Champ PaperSizes.Letter
+## PaperSizes.Letter field
 
-Papier lettre (8,5 po par 11 po).
+Papier Letter (8,5 po x 11 po).
 
 ```csharp
 public static readonly PaperSize Letter;
@@ -16,7 +16,9 @@ public static readonly PaperSize Letter;
 
 ### Voir aussi
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

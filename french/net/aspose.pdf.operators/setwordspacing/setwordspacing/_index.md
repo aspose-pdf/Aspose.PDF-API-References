@@ -1,12 +1,12 @@
 ---
-title: SetWordSpacing.SetWordSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur SetWordSpacing. Initialise l'opérateur
+title: "SetWordSpacing.SetWordSpacing"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur SetWordSpacing. Initialise l'opérateur"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.operators/setwordspacing/setwordspacing/
 ---
-## Constructeur SetWordSpacing
+## SetWordSpacing constructor
 
 Initialise l'opérateur.
 
@@ -20,6 +20,8 @@ public SetWordSpacing(double wordSpacing)
 
 ### Voir aussi
 
-* classe [SetWordSpacing](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetWordSpacing](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

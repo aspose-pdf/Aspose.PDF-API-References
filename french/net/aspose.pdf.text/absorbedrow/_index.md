@@ -1,12 +1,12 @@
 ---
-title: Class AbsorbedRow
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Text.AbsorbedRow. Représente une ligne de tableau qui existe sur la page
+title: "Classe AbsorbedRow"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Text.AbsorbedRow. Représente une ligne de tableau qui existe sur la page"
 type: docs
-weight: 10420
+weight: 10600
 url: /fr/net/aspose.pdf.text/absorbedrow/
 ---
-## Classe AbsorbedRow
+## AbsorbedRow class
 
 Représente une ligne de tableau qui existe sur la page
 
@@ -18,7 +18,7 @@ public class AbsorbedRow : IComparable<AbsorbedRow>, ITableElement
 
 | Nom | Description |
 | --- | --- |
-| [CellList](../../aspose.pdf.text/absorbedrow/celllist/) { get; } | Obtient une IList en lecture seule contenant les cellules de la ligne |
+| [CellList](../../aspose.pdf.text/absorbedrow/celllist/) { get; } | Obtient la IList en lecture seule contenant les cellules de la ligne |
 | [Rectangle](../../aspose.pdf.text/absorbedrow/rectangle/) { get; } | Obtient le rectangle qui décrit la position de la ligne sur la page |
 
 ## Méthodes
@@ -32,3 +32,5 @@ public class AbsorbedRow : IComparable<AbsorbedRow>, ITableElement
 * interface [ITableElement](../itableelement/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

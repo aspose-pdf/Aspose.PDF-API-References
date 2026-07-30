@@ -1,14 +1,14 @@
 ---
-title: Element.Lang
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Element. PDF 1.4 optionnelle A langue spécifiant la langue naturelle pour tout le texte dans l'élément de structure sauf lorsque remplacé par des spécifications de langue pour des éléments de structure imbriqués ou du contenu marqué
+title: "Element.Lang"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété de l'élément. Facultatif PDF 1.4 Une langue spécifiant la langue naturelle pour tout le texte dans l'élément de structure, sauf lorsqu'elle est remplacée par des spécifications de langue pour les éléments de structure imbriqués ou le contenu balisé."
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.structure/element/lang/
 ---
-## Propriété Element.Lang
+## Element.Lang property
 
-(Optional; PDF 1.4) Une langue spécifiant la langue naturelle pour tout le texte dans l'élément de structure sauf lorsque remplacé par des spécifications de langue pour des éléments de structure imbriqués ou du contenu marqué.
+(Facultatif ; PDF 1.4) Une langue spécifiant la langue naturelle pour tout le texte dans l'élément de structure, sauf lorsqu'elle est remplacée par des spécifications de langue pour les éléments de structure imbriqués ou le contenu balisé.
 
 ```csharp
 public virtual string Lang { get; set; }
@@ -16,6 +16,8 @@ public virtual string Lang { get; set; }
 
 ### Voir aussi
 
-* classe [Element](../)
-* espace de noms [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* class [Element](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../../)
+
+

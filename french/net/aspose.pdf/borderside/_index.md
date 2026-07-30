@@ -1,14 +1,14 @@
 ---
-title: Enum BorderSide
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.BorderSide. Énumère les côtés de bordure
+title: "Énumération BorderSide"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.BorderSide énumération. Enumère les côtés de la bordure"
 type: docs
-weight: 2910
+weight: 3020
 url: /fr/net/aspose.pdf/borderside/
 ---
-## Énumération BorderSide
+## BorderSide enumeration
 
-Énumère les côtés de bordure.
+Énumère les côtés de la bordure.
 
 ```csharp
 public enum BorderSide
@@ -18,15 +18,17 @@ public enum BorderSide
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| Aucun | `0` | Pas de bordure. |
-| Gauche | `1` | Bordure gauche. |
-| Haut | `2` | Bordure supérieure. |
-| Droit | `4` | Bordure droite. |
-| Bas | `8` | Bordure inférieure. |
-| Tous | `15` | Bordures de tous les côtés. Cela a la même signification lorsqu'on utilise "Box" et sera remplacé par "Box" dans un an. Donc, veuillez utiliser "Box" si possible. |
+| None | `0` | Pas de bordure. |
+| Left | `1` | Bordure gauche. |
+| Top | `2` | Bordure supérieure. |
+| Right | `4` | Bordure droite. |
+| Bottom | `8` | Bordure inférieure. |
+| All | `15` | Tous les côtés bordés. Cela a la même signification lorsqu’on utilise "Box" et sera remplacé par "Box" un an plus tard. Ainsi, veuillez utiliser "Box" si possible. |
 | Box | `15` | Bordures des quatre côtés. |
 
 ### Voir aussi
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

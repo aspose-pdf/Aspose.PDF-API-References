@@ -1,14 +1,14 @@
 ---
-title: Class PageSettingsExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Printing.PageSettingsExtensions. Représente des méthodes d'extension pour PageSettings
+title: "Classe PageSettingsExtensions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Printing.PageSettingsExtensions class. Représente les méthodes d'extension pour PageSettings"
 type: docs
-weight: 9550
+weight: 9700
 url: /fr/net/aspose.pdf.printing/pagesettingsextensions/
 ---
-## Classe PageSettingsExtensions
+## PageSettingsExtensions class
 
-Représente des méthodes d'extension pour [`PageSettings`](../pagesettings/).
+Représente les méthodes d'extension pour [`PageSettings`](../pagesettings/).
 
 ```csharp
 public static class PageSettingsExtensions
@@ -18,10 +18,12 @@ public static class PageSettingsExtensions
 
 | Nom | Description |
 | --- | --- |
-| static [ToAsposePageSettings](../../aspose.pdf.printing/pagesettingsextensions/toasposepagesettings/)(this PageSettings) | Convertit les PageSettings spécifiques à Windows de System.Drawing.Printing en [`PageSettings`](../pagesettings/). |
-| static [ToNativePageSettings](../../aspose.pdf.printing/pagesettingsextensions/tonativepagesettings/)(this PageSettings) | Convertit [`PageSettings`](../pagesettings/) en PageSettings spécifiques à Windows de System.Drawing.Printing. |
+| static [ToAsposePageSettings](../../aspose.pdf.printing/pagesettingsextensions/toasposepagesettings/)(this PageSettings) | Convertit les paramètres de page spécifiques à Windows System.Drawing.Printing.PageSettings en [`PageSettings`](../pagesettings/). |
+| static [ToNativePageSettings](../../aspose.pdf.printing/pagesettingsextensions/tonativepagesettings/)(this PageSettings) | Convertit [`PageSettings`](../pagesettings/) en paramètres de page spécifiques à Windows System.Drawing.Printing.PageSettings. |
 
 ### Voir aussi
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

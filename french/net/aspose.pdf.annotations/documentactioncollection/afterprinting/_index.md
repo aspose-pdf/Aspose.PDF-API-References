@@ -1,14 +1,14 @@
 ---
-title: DocumentActionCollection.AfterPrinting
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété DocumentActionCollection. Action qui sera effectuée après l'impression du document
+title: "DocumentActionCollection.AfterPrinting"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété DocumentActionCollection. Action qui sera effectuée après l'impression du document."
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.annotations/documentactioncollection/afterprinting/
 ---
-## Propriété DocumentActionCollection.AfterPrinting
+## DocumentActionCollection.AfterPrinting property
 
-Action qui sera effectuée après l'impression du document.
+Action qui sera exécutée après l'impression du Document.
 
 ```csharp
 public PdfAction AfterPrinting { get; set; }
@@ -16,7 +16,9 @@ public PdfAction AfterPrinting { get; set; }
 
 ### Voir aussi
 
-* classe [PdfAction](../../pdfaction/)
-* classe [DocumentActionCollection](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PdfAction](../../pdfaction/)
+* class [DocumentActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

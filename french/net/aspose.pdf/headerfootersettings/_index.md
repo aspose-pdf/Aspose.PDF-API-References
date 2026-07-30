@@ -1,14 +1,14 @@
 ---
-title: Class HeaderFooterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.HeaderFooterSettings. Représente les paramètres pour les artefacts d'en-tête et de pied de page
+title: "Classe HeaderFooterSettings"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.HeaderFooterSettings. Représente les paramètres des éléments d'en-tête et de pied de page"
 type: docs
-weight: 5450
+weight: 5570
 url: /fr/net/aspose.pdf/headerfootersettings/
 ---
-## Classe HeaderFooterSettings
+## HeaderFooterSettings class
 
-Représente les paramètres pour les artefacts d'en-tête et de pied de page.
+Représente les paramètres des artéfacts d'en-tête et de pied de page.
 
 ```csharp
 public sealed class HeaderFooterSettings
@@ -32,3 +32,5 @@ public sealed class HeaderFooterSettings
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

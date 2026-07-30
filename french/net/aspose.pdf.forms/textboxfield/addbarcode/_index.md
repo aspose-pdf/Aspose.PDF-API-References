@@ -1,14 +1,14 @@
 ---
-title: TextBoxField.AddBarcode
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TextBoxField. Ajoute un code-barres 128 dans le champ. La valeur du champ sera changée en code et le champ deviendra en lecture seule.
+title: "TextBoxField.AddBarcode"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TextBoxField. Ajoute le code‑barres 128 dans le champ. La valeur du champ sera remplacée par le code et le champ deviendra en lecture seule."
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.forms/textboxfield/addbarcode/
 ---
-## Méthode TextBoxField.AddBarcode
+## TextBoxField.AddBarcode method
 
-Ajoute un code-barres 128 dans le champ. La valeur du champ sera changée en code et le champ deviendra en lecture seule.
+Ajoute le code-barres 128 dans le champ. La valeur du champ sera remplacée par le code et le champ deviendra en lecture seule.
 
 ```csharp
 public void AddBarcode(string code)
@@ -16,10 +16,12 @@ public void AddBarcode(string code)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| code | String | Le texte pour générer le code-barres 128. |
+| code | String | Le texte pour générer le code‑barres 128. |
 
 ### Voir aussi
 
-* classe [TextBoxField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [TextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

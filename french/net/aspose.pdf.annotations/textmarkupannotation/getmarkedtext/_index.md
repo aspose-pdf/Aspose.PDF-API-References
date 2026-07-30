@@ -1,12 +1,12 @@
 ---
-title: TextMarkupAnnotation.GetMarkedText
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TextMarkupAnnotation. Obtient le texte sous l'annotation de balisage sous forme de chaîne
+title: "TextMarkupAnnotation.GetMarkedText"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TextMarkupAnnotation. Obtient le texte sous l'annotation de balisage sous forme de chaîne."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.annotations/textmarkupannotation/getmarkedtext/
 ---
-## Méthode TextMarkupAnnotation.GetMarkedText
+## TextMarkupAnnotation.GetMarkedText method
 
 Obtient le texte sous l'annotation de balisage sous forme de chaîne.
 
@@ -16,10 +16,12 @@ public string GetMarkedText()
 
 ### Valeur de retour
 
-Chaîne contenant le texte qui est sous l'annotation de balisage.
+Chaîne contenant le texte qui se trouve sous l'annotation de balisage.
 
 ### Voir aussi
 
-* classe [TextMarkupAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [TextMarkupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

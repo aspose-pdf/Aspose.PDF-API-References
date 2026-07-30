@@ -1,7 +1,7 @@
 ---
-title: HtmlSaveOptions.HtmlSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur HtmlSaveOptions. Initialise une nouvelle instance de la classe HtmlSaveOptions
+title: "HtmlSaveOptions.HtmlSaveOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur HtmlSaveOptions. Initialise une nouvelle instance de la classe HtmlSaveOptions."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/htmlsaveoptions/htmlsaveoptions/
@@ -16,8 +16,8 @@ public HtmlSaveOptions()
 
 ### Voir aussi
 
-* classe [HtmlSaveOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -36,9 +36,9 @@ public HtmlSaveOptions(HtmlDocumentType documentType)
 
 ### Voir aussi
 
-* énum [HtmlDocumentType](../../htmldocumenttype/)
-* classe [HtmlSaveOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* enum [HtmlDocumentType](../../htmldocumenttype/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -53,12 +53,12 @@ public HtmlSaveOptions(bool fixedLayout)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| fixedLayout | Boolean | si défini sur `true`, le HTML est créé en tant que mise en page fixe. |
+| fixedLayout | Boolean | si défini sur `true`, le HTML est créé en mise en page fixe. |
 
 ### Voir aussi
 
-* classe [HtmlSaveOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -74,11 +74,13 @@ public HtmlSaveOptions(HtmlDocumentType documentType, bool fixedLayout)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | documentType | HtmlDocumentType | Le [`HtmlDocumentType`](../../htmldocumenttype/). |
-| fixedLayout | Boolean | si défini sur `true`, le HTML est créé en tant que mise en page fixe. |
+| fixedLayout | Boolean | si défini sur `true`, le HTML est créé en mise en page fixe. |
 
 ### Voir aussi
 
-* énum [HtmlDocumentType](../../htmldocumenttype/)
-* classe [HtmlSaveOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* enum [HtmlDocumentType](../../htmldocumenttype/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

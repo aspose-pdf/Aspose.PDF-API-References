@@ -1,12 +1,12 @@
 ---
-title: CrashReportOptions.LibraryVersion
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété CrashReportOptions. Version de la bibliothèque utilisée
+title: "CrashReportOptions.LibraryVersion"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété CrashReportOptions. Version de la bibliothèque utilisée"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf/crashreportoptions/libraryversion/
 ---
-## Propriété CrashReportOptions.LibraryVersion
+## CrashReportOptions.LibraryVersion property
 
 Version de la bibliothèque utilisée.
 
@@ -16,6 +16,8 @@ public string LibraryVersion { get; }
 
 ### Voir aussi
 
-* classe [CrashReportOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [CrashReportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

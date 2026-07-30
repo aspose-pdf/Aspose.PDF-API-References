@@ -1,26 +1,28 @@
 ---
-title: Page.Footer
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la page. Obtient ou définit le pied de page de la page
+title: "Page.Footer"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Page. Obtient ou définit le pied de page"
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf/page/footer/
 ---
-## Propriété Page.Footer
+## Page.Footer property
 
-Obtient ou définit le pied de page de la page.
+Obtient ou définit le pied de page.
 
 ```csharp
 public HeaderFooter Footer { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le pied de page de la page.
+Le pied de page.
 
 ### Voir aussi
 
-* classe [HeaderFooter](../../headerfooter/)
-* classe [Page](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [HeaderFooter](../../headerfooter/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

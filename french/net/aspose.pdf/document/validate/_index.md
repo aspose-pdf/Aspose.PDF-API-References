@@ -1,9 +1,9 @@
 ---
-title: Document.Validate
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Document. Valider le document dans le fichier spécifié
+title: "Document.Validate"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Document. Valider le document dans le fichier spécifié"
 type: docs
-weight: 890
+weight: 910
 url: /fr/net/aspose.pdf/document/validate/
 ---
 ## Validate(string, PdfFormat) {#validate_2}
@@ -16,7 +16,7 @@ public bool Validate(string outputLogFileName, PdfFormat format)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| outputLogFileName | String | Chemin vers le fichier où les commentaires seront stockés. |
+| outputLogFileName | String | Chemin du fichier où les commentaires seront stockés. |
 | format | PdfFormat | Le format pdf. |
 
 ### Valeur de retour
@@ -80,3 +80,5 @@ Le résultat de l'opération
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

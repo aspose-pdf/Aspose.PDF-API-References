@@ -1,14 +1,14 @@
 ---
-title: Class LlamaModels
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.LlamaModels. Contient des constantes liées à différents modèles Llama
+title: "Classe LlamaModels"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.AI.LlamaModels. Contient des constantes liées à différents modèles Llama"
 type: docs
-weight: 730
+weight: 780
 url: /fr/net/aspose.pdf.ai/llamamodels/
 ---
-## Classe LlamaModels
+## LlamaModels class
 
-Contient des constantes liées à différents modèles Llama.
+Contient des constantes liées aux différents modèles Llama.
 
 ```csharp
 public static class LlamaModels
@@ -22,5 +22,7 @@ public static class LlamaModels
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.SetCertificate
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfFileSignature. Définir le fichier de certificat et le mot de passe pour la routine de signature
+title: "PdfFileSignature.SetCertificate"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfFileSignature. Définit le fichier de certificat et le mot de passe pour la routine de signature"
 type: docs
 weight: 290
 url: /fr/net/aspose.pdf.facades/pdffilesignature/setcertificate/
 ---
-## Méthode PdfFileSignature.SetCertificate
+## PdfFileSignature.SetCertificate method
 
-Définir le fichier de certificat et le mot de passe pour la routine de signature.
+Définit le fichier de certificat et le mot de passe pour la routine de signature.
 
 ```csharp
 public void SetCertificate(string pfx, string pass)
@@ -21,6 +21,8 @@ public void SetCertificate(string pfx, string pass)
 
 ### Voir aussi
 
-* classe [PdfFileSignature](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

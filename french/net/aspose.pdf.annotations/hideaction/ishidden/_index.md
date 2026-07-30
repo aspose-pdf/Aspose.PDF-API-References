@@ -1,14 +1,14 @@
 ---
-title: HideAction.IsHidden
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété HideAction. Obtient ou définit l'état des annotations à cacher/afficher
+title: "HideAction.IsHidden"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété HideAction. Obtient ou définit l'état des annotations à masquer/afficher"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.annotations/hideaction/ishidden/
 ---
-## Propriété HideAction.IsHidden
+## HideAction.IsHidden property
 
-Obtient ou définit l'état de l'annotation(s) à cacher/afficher.
+Obtient ou définit le statut de la ou des annotations à masquer/afficher.
 
 ```csharp
 public bool IsHidden { get; set; }
@@ -16,6 +16,8 @@ public bool IsHidden { get; set; }
 
 ### Voir aussi
 
-* classe [HideAction](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [HideAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PDF3DAnnotation.RenderMode
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PDF3DAnnotation. Obtient le mode de rendu
+title: "PDF3DAnnotation.RenderMode"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PDF3DAnnotation. Obtient le mode de rendu"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.annotations/pdf3dannotation/rendermode/
 ---
-## Propriété PDF3DAnnotation.RenderMode
+## PDF3DAnnotation.RenderMode property
 
 Obtient le mode de rendu.
 
@@ -14,13 +14,15 @@ Obtient le mode de rendu.
 public PDF3DRenderMode RenderMode { get; }
 ```
 
-### Valeur de la Propriété
+### Property Value
 
 Le mode de rendu.
 
-### Voir Aussi
+### Voir aussi
 
-* classe [PDF3DRenderMode](../../pdf3drendermode/)
-* classe [PDF3DAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DRenderMode](../../pdf3drendermode/)
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

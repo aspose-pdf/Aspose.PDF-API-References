@@ -1,12 +1,12 @@
 ---
-title: CrashReportOptions.Exception
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété CrashReportOptions. Exception sur laquelle le rapport de plantage sera basé
+title: "CrashReportOptions.Exception"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété CrashReportOptions. Exception sur laquelle le rapport de plantage sera basé"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf/crashreportoptions/exception/
 ---
-## Propriété CrashReportOptions.Exception
+## CrashReportOptions.Exception property
 
 Exception sur laquelle le rapport de plantage sera basé
 
@@ -16,6 +16,8 @@ public Exception Exception { get; }
 
 ### Voir aussi
 
-* classe [CrashReportOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [CrashReportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class PdfException
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.PdfException. Représente les erreurs qui se produisent lors de l'exécution de l'application PDF
+title: "Classe PdfException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.PdfException. Représente les erreurs qui se produisent pendant l'exécution de l'application PDF"
 type: docs
-weight: 8360
+weight: 8500
 url: /fr/net/aspose.pdf/pdfexception/
 ---
-## Classe PdfException
+## PdfException class
 
-Représente les erreurs qui se produisent lors de l'exécution de l'application PDF.
+Représente les erreurs qui surviennent lors de l'exécution de l'application PDF.
 
 ```csharp
 public class PdfException : Exception
@@ -27,9 +27,11 @@ public class PdfException : Exception
 
 | Nom | Description |
 | --- | --- |
-| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forme un rapport de plantage basé sur le format HTML de l'exception |
+| static [GenerateCrashReport](../../aspose.pdf/pdfexception/generatecrashreport/)(CrashReportOptions) | Forms crée un rapport de plantage basé sur le format HTML d'Exception |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

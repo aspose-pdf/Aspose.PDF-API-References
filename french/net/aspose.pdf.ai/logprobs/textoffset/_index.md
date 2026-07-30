@@ -1,12 +1,12 @@
 ---
-title: Logprobs.TextOffset
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Logprobs. Obtient ou définit une liste d'entiers représentant la représentation en octets UTF8 de chaque jeton
+title: "Logprobs.TextOffset"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Logprobs propriété. Obtient ou définit une liste d'entiers représentant la représentation en octets UTF8 de chaque token"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.ai/logprobs/textoffset/
 ---
-## Propriété Logprobs.TextOffset
+## Logprobs.TextOffset property
 
 Obtient ou définit une liste d'entiers représentant la représentation en octets UTF-8 de chaque jeton.
 
@@ -16,6 +16,8 @@ public List<int> TextOffset { get; set; }
 
 ### Voir aussi
 
-* classe [Logprobs](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Logprobs](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

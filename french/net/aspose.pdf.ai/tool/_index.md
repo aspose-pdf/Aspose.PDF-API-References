@@ -1,12 +1,12 @@
 ---
-title: Class Tool
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.Tool. Représente un outil qui peut être appelé par le modèle
+title: "Classe Tool"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.AI.Tool. Représente un outil qui peut être appelé par le modèle."
 type: docs
-weight: 1190
+weight: 1280
 url: /fr/net/aspose.pdf.ai/tool/
 ---
-## Classe Outil
+## Tool class
 
 Représente un outil qui peut être appelé par le modèle.
 
@@ -26,7 +26,7 @@ public class Tool
 
 | Nom | Description |
 | --- | --- |
-| static [CodeInterpreter](../../aspose.pdf.ai/tool/codeinterpreter/) { get; } | Obtient une instance d'outil représentant un interpréteur de code. |
+| static [CodeInterpreter](../../aspose.pdf.ai/tool/codeinterpreter/) { get; } | Obtient une instance d'outil représentant un interprète de code. |
 | static [FileSearch](../../aspose.pdf.ai/tool/filesearch/) { get; } | Obtient une instance d'outil représentant un outil de recherche de fichiers. |
 | [ToolFunction](../../aspose.pdf.ai/tool/toolfunction/) { get; set; } | Obtient ou définit la fonction que le modèle peut appeler. |
 | [ToolType](../../aspose.pdf.ai/tool/tooltype/) { get; set; } | Obtient ou définit le type de l'outil. Actuellement, seule la fonction est prise en charge. |
@@ -41,3 +41,5 @@ public class Tool
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

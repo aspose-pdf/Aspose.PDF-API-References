@@ -1,12 +1,12 @@
 ---
-title: Form.Response
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Form. Obtient ou définit l'objet Response où le résultat de l'opération sera stocké
+title: "Form.Response"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Form. Obtient ou définit l'objet Response où le résultat de l'opération sera stocké"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.facades/form/response/
 ---
-## Propriété Form.Response
+## Form.Response property
 
 Obtient ou définit l'objet Response où le résultat de l'opération sera stocké.
 
@@ -16,6 +16,8 @@ public HttpResponse Response { get; set; }
 
 ### Voir aussi
 
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

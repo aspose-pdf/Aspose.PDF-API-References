@@ -1,12 +1,12 @@
 ---
-title: Class PdfAValidationResult
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.PdfAValidationResult. Représente le résultat d'un processus de validation PDF/A
+title: "Classe PdfAValidationResult"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Plugins.PdfAValidationResult. Représente le résultat d'un processus de validation PDF/A"
 type: docs
-weight: 9040
+weight: 9190
 url: /fr/net/aspose.pdf.plugins/pdfavalidationresult/
 ---
-## Classe PdfAValidationResult
+## PdfAValidationResult class
 
 Représente le résultat d'un processus de validation PDF/A.
 
@@ -26,3 +26,5 @@ public sealed class PdfAValidationResult
 
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

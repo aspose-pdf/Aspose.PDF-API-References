@@ -1,12 +1,12 @@
 ---
-title: SetRGBColor.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode SetRGBColor. Accepte un objet visiteur pour traiter l'opérateur
+title: "SetRGBColor.Accept"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode SetRGBColor. Accepte un objet visiteur pour traiter l'opérateur"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.operators/setrgbcolor/accept/
 ---
-## Méthode SetRGBColor.Accept
+## SetRGBColor.Accept method
 
 Accepte un objet visiteur pour traiter l'opérateur.
 
@@ -24,3 +24,5 @@ public override void Accept(IOperatorSelector visitor)
 * class [SetRGBColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

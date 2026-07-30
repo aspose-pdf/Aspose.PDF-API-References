@@ -1,12 +1,12 @@
 ---
-title: Image.ImageScale
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de l'image. Obtient ou définit l'échelle de l'image
+title: "Image.ImageScale"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Image. Obtient ou définit l'échelle de l'image"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf/image/imagescale/
 ---
-## Propriété Image.ImageScale
+## Image.ImageScale property
 
 Obtient ou définit l'échelle de l'image.
 
@@ -16,6 +16,8 @@ public double ImageScale { get; set; }
 
 ### Voir aussi
 
-* classe [Image](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

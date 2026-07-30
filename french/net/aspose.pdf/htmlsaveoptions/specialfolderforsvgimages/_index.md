@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.SpecialFolderForSvgImages
-second_title: Aspose.PDF for .NET API Reference
-description: Champ HtmlSaveOptions. Obtient ou définit le chemin vers le répertoire dans lequel seuls les fichiers SVG doivent être enregistrés s'ils sont rencontrés lors de l'enregistrement du document au format HTML. Si le paramètre est vide ou nul, alors les fichiers SVG seront enregistrés avec d'autres fichiers image près du fichier de sortie ou dans un dossier spécial pour les images s'il est spécifié dans l'option SpecialImagesFolderIfAny. Cela n'affecte rien si la propriété CustomImageSavingStrategy a été utilisée avec succès pour traiter le fichier image pertinent.
+title: "HtmlSaveOptions.SpecialFolderForSvgImages"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ HtmlSaveOptions. Obtient ou définit le chemin du répertoire dans lequel seuls les SVGimages doivent être enregistrés s’ils sont rencontrés lors de l’enregistrement du document en HTML. Si le paramètre est vide ou null, alors les fichiers SVG, le cas échéant, seront enregistrés avec les autres fichiers d’image à proximité du fichier de sortie ou dans un dossier spécial pour les images s’il est spécifié dans l’option SpecialImagesFolderIfAny. Cela n’affecte rien si la propriété CustomImageSavingStrategy a été utilisée avec succès pour traiter le fichier image concerné."
 type: docs
 weight: 450
 url: /fr/net/aspose.pdf/htmlsaveoptions/specialfolderforsvgimages/
 ---
-## Champ HtmlSaveOptions.SpecialFolderForSvgImages
+## HtmlSaveOptions.SpecialFolderForSvgImages field
 
-Obtient ou définit le chemin vers le répertoire dans lequel seuls les fichiers SVG doivent être enregistrés s'ils sont rencontrés lors de l'enregistrement du document au format HTML. Si le paramètre est vide ou nul, alors les fichiers SVG (s'il y en a) seront enregistrés avec d'autres fichiers image (près du fichier de sortie) ou dans un dossier spécial pour les images (s'il est spécifié dans l'option SpecialImagesFolderIfAny). Cela n'affecte rien si la propriété CustomImageSavingStrategy a été utilisée avec succès pour traiter le fichier image pertinent.
+Obtient ou définit le chemin du répertoire dans lequel seules les images SVG doivent être enregistrées si elles sont rencontrées lors de l’enregistrement du document au format HTML. Si le paramètre est vide ou nul, les fichiers SVG (le cas échéant) seront enregistrés avec les autres fichiers image (près du fichier de sortie) ou dans un dossier spécial pour les images (si indiqué dans l’option SpecialImagesFolderIfAny). Cela n’affecte rien si la propriété CustomImageSavingStrategy a été utilisée avec succès pour traiter le fichier image concerné.
 
 ```csharp
 public string SpecialFolderForSvgImages;
@@ -16,6 +16,8 @@ public string SpecialFolderForSvgImages;
 
 ### Voir aussi
 
-* classe [HtmlSaveOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

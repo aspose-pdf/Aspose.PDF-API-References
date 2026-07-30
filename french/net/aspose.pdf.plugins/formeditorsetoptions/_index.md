@@ -1,14 +1,14 @@
 ---
-title: Class FormEditorSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.FormEditorSetOptions. Représente les options pour définir les propriétés des champs
+title: "Classe FormEditorSetOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Plugins.FormEditorSetOptions. Représente les options pour définir les champs, pas les propriétés des annotations"
 type: docs
-weight: 8660
+weight: 8790
 url: /fr/net/aspose.pdf.plugins/formeditorsetoptions/
 ---
-## Classe FormEditorSetOptions
+## FormEditorSetOptions class
 
-Représente les options pour définir les propriétés des champs (pas des annotations).
+Représente les options de définition des propriétés des champs (pas des annotations).
 
 ```csharp
 public sealed class FormEditorSetOptions : FormEditorOptions
@@ -25,17 +25,19 @@ public sealed class FormEditorSetOptions : FormEditorOptions
 | Nom | Description |
 | --- | --- |
 | [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | Renvoie la collection de données des plugins Form.... |
-| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Obtient la collection des cibles ajoutées pour les résultats des opérations de sauvegarde. |
+| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Obtient la collection des cibles ajoutées pour enregistrer les résultats de l'opération. |
 
 ## Méthodes
 
 | Nom | Description |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Ajoute une nouvelle source de données à la collection de données des plugins Form... |
-| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Ajoute une nouvelle source de données à la collection de données des plugins Form... |
+| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Ajoute une nouvelle source de données à la collection de données des plugins Form.... |
+| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Ajoute une nouvelle source de données à la collection de données des plugins Form.... |
 
 ### Voir aussi
 
-* classe [FormEditorOptions](../formeditoroptions/)
-* espace de noms [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* class [FormEditorOptions](../formeditoroptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

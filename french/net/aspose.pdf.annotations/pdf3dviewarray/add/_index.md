@@ -1,12 +1,12 @@
 ---
-title: PDF3DViewArray.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PDF3DViewArray. Ajoute la vue spécifiée
+title: "PDF3DViewArray.Add"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PDF3DViewArray. Ajoute la vue spécifiée"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.annotations/pdf3dviewarray/add/
 ---
-## Méthode PDF3DViewArray.Add
+## PDF3DViewArray.Add method
 
 Ajoute la vue spécifiée.
 
@@ -26,7 +26,9 @@ public void Add(PDF3DView view)
 
 ### Voir aussi
 
-* classe [PDF3DView](../../pdf3dview/)
-* classe [PDF3DViewArray](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DView](../../pdf3dview/)
+* class [PDF3DViewArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

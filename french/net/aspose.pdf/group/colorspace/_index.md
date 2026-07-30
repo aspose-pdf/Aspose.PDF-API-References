@@ -1,12 +1,12 @@
 ---
-title: Group.ColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de groupe. L'espace colorimétrique du groupe
+title: "Group.ColorSpace"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Group. L'espace colorimétrique du groupe."
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/group/colorspace/
 ---
-## Propriété Group.ColorSpace
+## Group.ColorSpace property
 
 L'espace colorimétrique du groupe.
 
@@ -20,3 +20,5 @@ public ColorSpace ColorSpace { get; set; }
 * class [Group](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

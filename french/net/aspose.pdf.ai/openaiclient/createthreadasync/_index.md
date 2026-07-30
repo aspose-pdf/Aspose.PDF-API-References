@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.CreateThreadAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OpenAIClient. Crée un nouveau fil de discussion de manière asynchrone
+title: "OpenAIClient.CreateThreadAsync"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode OpenAIClient. Crée un nouveau fil de manière asynchrone"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.ai/openaiclient/createthreadasync/
 ---
-## Méthode OpenAIClient.CreateThreadAsync
+## OpenAIClient.CreateThreadAsync method
 
-Crée un nouveau fil de discussion de manière asynchrone.
+Crée un nouveau fil de façon asynchrone.
 
 ```csharp
 public Task<ThreadResponse> CreateThreadAsync(ThreadCreateRequest threadCreateRequest, 
@@ -17,17 +17,19 @@ public Task<ThreadResponse> CreateThreadAsync(ThreadCreateRequest threadCreateRe
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| threadCreateRequest | ThreadCreateRequest | L'objet de demande contenant les détails pour créer le fil de discussion. |
+| threadCreateRequest | ThreadCreateRequest | L'objet de requête contenant les détails pour créer le fil. |
 | cancellationToken | Nullable`1 | Un jeton pour annuler l'opération. |
 
 ### Valeur de retour
 
-Une tâche qui représente l'opération asynchrone. Le résultat de la tâche contient la réponse de la création du fil de discussion.
+Une tâche qui représente l'opération asynchrone. Le résultat de la tâche contient la réponse de la création du fil.
 
 ### Voir aussi
 
-* classe [ThreadResponse](../../threadresponse/)
-* classe [ThreadCreateRequest](../../threadcreaterequest/)
-* classe [OpenAIClient](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ThreadResponse](../../threadresponse/)
+* class [ThreadCreateRequest](../../threadcreaterequest/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

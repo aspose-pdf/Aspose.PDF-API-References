@@ -1,12 +1,12 @@
 ---
-title: LineAnnotation.CaptionOffset
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété LineAnnotation. Obtient ou définit le décalage du texte de la légende par rapport à sa position normale
+title: "LineAnnotation.CaptionOffset"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "LineAnnotation propriété. Obtient ou définit le décalage du texte de la légende par rapport à sa position normale"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.annotations/lineannotation/captionoffset/
 ---
-## Propriété LineAnnotation.CaptionOffset
+## LineAnnotation.CaptionOffset property
 
 Obtient ou définit le décalage du texte de la légende par rapport à sa position normale.
 
@@ -16,7 +16,9 @@ public Point CaptionOffset { get; set; }
 
 ### Voir aussi
 
-* classe [Point](../../../aspose.pdf/point/)
-* classe [LineAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Point](../../../aspose.pdf/point/)
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

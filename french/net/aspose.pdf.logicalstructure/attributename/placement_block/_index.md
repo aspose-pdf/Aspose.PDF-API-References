@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Placement_Block
-second_title: Aspose.PDF for .NET API Reference
-description: Champ AttributeName. Placement d'attribut  Bloc - Empilé dans la direction de progression du bloc au sein d'une zone de référence englobante ou d'un BLSE parent.
+title: "AttributeName.Placement_Block"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "AttributeName field. Attribute Placement Block  Empilé dans la direction de la progression de bloc au sein d’une zone de référence englobante ou du BLSE parent"
 type: docs
 weight: 350
 url: /fr/net/aspose.pdf.logicalstructure/attributename/placement_block/
 ---
-## Champ AttributeName.Placement_Block
+## AttributeName.Placement_Block field
 
-Placement d'attribut : Bloc - Empilé dans la direction de progression du bloc au sein d'une zone de référence englobante ou d'un BLSE parent.
+Attribut Placement : Block - Empilée dans la direction de progression du bloc à l'intérieur d'une zone de référence englobante ou du BLSE parent.
 
 ```csharp
 public static readonly AttributeName Placement_Block;
@@ -16,6 +16,8 @@ public static readonly AttributeName Placement_Block;
 
 ### Voir aussi
 
-* classe [AttributeName](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: VectorStoreFileListResponse.VectorStoreFileListResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de VectorStoreFileListResponse. Le constructeur par défaut
+title: "VectorStoreFileListResponse.VectorStoreFileListResponse"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur VectorStoreFileListResponse. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/vectorstorefilelistresponse/vectorstorefilelistresponse/
 ---
-## Constructeur de VectorStoreFileListResponse
+## VectorStoreFileListResponse constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public VectorStoreFileListResponse()
 
 ### Voir aussi
 
-* classe [VectorStoreFileListResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreFileListResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

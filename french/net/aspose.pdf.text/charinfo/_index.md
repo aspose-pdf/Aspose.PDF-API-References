@@ -1,14 +1,14 @@
 ---
-title: Class CharInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Text.CharInfo. Représente un objet d'information sur un caractère. Fournit des informations sur le positionnement des caractères
+title: "Classe CharInfo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Text.CharInfo. Représente un objet d'information de caractère. Fournit des informations de positionnement du caractère"
 type: docs
-weight: 10440
+weight: 10620
 url: /fr/net/aspose.pdf.text/charinfo/
 ---
-## Classe CharInfo
+## CharInfo class
 
-Représente un objet d'information sur un caractère. Fournit des informations sur le positionnement des caractères.
+Représente un objet d'information de caractère. Fournit des informations de positionnement des caractères.
 
 ```csharp
 public sealed class CharInfo
@@ -23,5 +23,7 @@ public sealed class CharInfo
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

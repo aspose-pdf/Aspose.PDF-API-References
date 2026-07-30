@@ -1,12 +1,12 @@
 ---
-title: Field.PageIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Field. Obtient l'index de la page qui contient ce champ
+title: "Field.PageIndex"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Field. Obtient l'index de la page qui contient ce champ."
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.forms/field/pageindex/
 ---
-## Propriété Field.PageIndex
+## Field.PageIndex property
 
 Obtient l'index de la page qui contient ce champ.
 
@@ -16,6 +16,8 @@ public override int PageIndex { get; }
 
 ### Voir aussi
 
-* classe [Field](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

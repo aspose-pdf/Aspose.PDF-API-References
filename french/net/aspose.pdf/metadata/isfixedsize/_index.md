@@ -1,12 +1,12 @@
 ---
-title: Metadata.IsFixedSize
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Metadata. Vérifie si la collection a une taille fixe
+title: "Metadata.IsFixedSize"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Metadata. Vérifie si la collection a une taille fixe"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/metadata/isfixedsize/
 ---
-## Propriété Metadata.IsFixedSize
+## Metadata.IsFixedSize property
 
 Vérifie si la collection a une taille fixe.
 
@@ -16,6 +16,8 @@ public bool IsFixedSize { get; }
 
 ### Voir aussi
 
-* classe [Metadata](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

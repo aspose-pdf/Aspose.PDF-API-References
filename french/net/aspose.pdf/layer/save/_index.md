@@ -1,7 +1,7 @@
 ---
-title: Layer.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Layer. Enregistre la couche actuelle dans un document PDF
+title: "Layer.Save"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Layer. Enregistre le calque actuel dans un document PDF"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf/layer/save/
@@ -20,8 +20,8 @@ public void Save(string outputPath)
 
 ### Voir aussi
 
-* classe [Layer](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -40,6 +40,8 @@ public void Save(Stream outputStream)
 
 ### Voir aussi
 
-* classe [Layer](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

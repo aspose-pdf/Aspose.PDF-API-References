@@ -1,14 +1,14 @@
 ---
-title: GraphicalPdfComparer.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété GraphicalPdfComparer. Obtient et définit la résolution des images résultantes. La valeur par défaut est 150dpi
+title: "GraphicalPdfComparer.Resolution"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété GraphicalPdfComparer. Obtient et définit la résolution des images résultantes. La valeur par défaut est de 150 dpi"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.comparison/graphicalpdfcomparer/resolution/
 ---
-## Propriété GraphicalPdfComparer.Résolution
+## GraphicalPdfComparer.Resolution property
 
-Obtient et définit la résolution des images résultantes. La valeur par défaut est 150dpi.
+Obtient et définit la résolution des images résultantes. La valeur par défaut est de 150 dpi.
 
 ```csharp
 public Resolution Resolution { get; set; }
@@ -16,7 +16,9 @@ public Resolution Resolution { get; set; }
 
 ### Voir aussi
 
-* classe [Resolution](../../../aspose.pdf.devices/resolution/)
-* classe [GraphicalPdfComparer](../)
-* espace de noms [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
+* class [GraphicalPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

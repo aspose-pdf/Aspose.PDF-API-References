@@ -1,14 +1,14 @@
 ---
-title: AttributeOwnerStandard.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode AttributeOwnerStandard. Renvoie une chaîne qui représente l'objet actuel
+title: "AttributeOwnerStandard.ToString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode AttributeOwnerStandard. Retourne une chaîne qui représente l'objet actuel"
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf.logicalstructure/attributeownerstandard/tostring/
 ---
-## Méthode AttributeOwnerStandard.ToString
+## AttributeOwnerStandard.ToString method
 
-Renvoie une chaîne qui représente l'objet actuel.
+Renvoie une chaîne qui représente l’objet actuel.
 
 ```csharp
 public override string ToString()
@@ -20,6 +20,8 @@ Chaîne qui représente l'objet actuel.
 
 ### Voir aussi
 
-* classe [AttributeOwnerStandard](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

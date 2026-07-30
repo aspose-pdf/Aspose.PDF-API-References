@@ -1,12 +1,12 @@
 ---
-title: Enum PrintScaling
-second_title: Aspose.PDF for .NET API Reference
-description: Enum PrintScaling d'Aspose.Pdf. L'option de mise à l'échelle de la page qui doit être sélectionnée lorsqu'une boîte de dialogue d'impression est affichée pour ce document
+title: "Énumération PrintScaling"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Énumération Aspose.Pdf.PrintScaling. L'option de mise à l'échelle de la page qui doit être sélectionnée lorsqu'une boîte de dialogue d'impression est affichée pour ce document"
 type: docs
-weight: 9510
+weight: 9660
 url: /fr/net/aspose.pdf/printscaling/
 ---
-## Énumération PrintScaling
+## PrintScaling enumeration
 
 L'option de mise à l'échelle de la page qui doit être sélectionnée lorsqu'une boîte de dialogue d'impression est affichée pour ce document.
 
@@ -18,10 +18,12 @@ public enum PrintScaling
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| AppDefault | `0` | La mise à l'échelle d'impression par défaut du lecteur conforme. |
-| None | `1` | Aucune mise à l'échelle de page. |
+| AppDefault | `0` | Le réglage d'échelle d'impression par défaut du lecteur conforme. |
+| None | `1` | Pas d'échelle de page. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

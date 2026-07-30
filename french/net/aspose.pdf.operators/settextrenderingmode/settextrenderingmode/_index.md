@@ -1,12 +1,12 @@
 ---
-title: SetTextRenderingMode.SetTextRenderingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur SetTextRenderingMode. Initialise l'opérateur
+title: "SetTextRenderingMode.SetTextRenderingMode"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur SetTextRenderingMode. Initialise l'opérateur"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.operators/settextrenderingmode/settextrenderingmode/
 ---
-## Constructeur SetTextRenderingMode
+## SetTextRenderingMode constructor
 
 Initialise l'opérateur.
 
@@ -16,6 +16,8 @@ public SetTextRenderingMode()
 
 ### Voir aussi
 
-* classe [SetTextRenderingMode](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetTextRenderingMode](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

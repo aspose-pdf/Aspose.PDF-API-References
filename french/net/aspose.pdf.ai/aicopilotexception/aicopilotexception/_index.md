@@ -1,7 +1,7 @@
 ---
-title: AICopilotException.AICopilotException
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur AICopilotException. Initialise une nouvelle instance de la classe AICopilotException avec un message d'erreur spécifié
+title: "AICopilotException.AICopilotException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur AICopilotException. Initialise une nouvelle instance de la classe AICopilotException avec un message d'erreur spécifié"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/aicopilotexception/aicopilotexception/
@@ -20,8 +20,8 @@ public AICopilotException(string message)
 
 ### Voir aussi
 
-* classe [AICopilotException](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [AICopilotException](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -41,6 +41,8 @@ public AICopilotException(string message, Exception innerException)
 
 ### Voir aussi
 
-* classe [AICopilotException](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [AICopilotException](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

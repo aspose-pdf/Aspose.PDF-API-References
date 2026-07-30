@@ -1,14 +1,14 @@
 ---
-title: XImage.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XImage. Enregistre les données d'image dans le flux en tant qu'image JPEG
+title: "XImage.Save"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XImage. Enregistre les données d'image dans le flux sous forme d'image JPEG"
 type: docs
-weight: 150
+weight: 160
 url: /fr/net/aspose.pdf/ximage/save/
 ---
 ## Save(Stream) {#save}
 
-Enregistre les données d'image dans le flux en tant qu'image JPEG.
+Enregistre les données de l'image dans le flux sous forme d'image JPEG.
 
 ```csharp
 public void Save(Stream stream)
@@ -20,8 +20,8 @@ public void Save(Stream stream)
 
 ### Voir aussi
 
-* classe [XImage](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -41,15 +41,15 @@ public void Save(Stream stream, ImageFormat format)
 
 ### Voir aussi
 
-* classe [XImage](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Save(Stream, int) {#save_1}
 
-Enregistre les données d'image dans le flux en tant qu'image JPEG avec la résolution spécifiée.
+Enregistre les données de l'image dans le flux sous forme d'image JPEG avec la résolution spécifiée.
 
 ```csharp
 public void Save(Stream stream, int resolution)
@@ -62,8 +62,8 @@ public void Save(Stream stream, int resolution)
 
 ### Voir aussi
 
-* classe [XImage](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -84,6 +84,8 @@ public void Save(Stream stream, ImageFormat format, int resolution)
 
 ### Voir aussi
 
-* classe [XImage](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

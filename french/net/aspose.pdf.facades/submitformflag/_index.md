@@ -1,14 +1,14 @@
 ---
-title: Enum SubmitFormFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Enumération SubmitFormFlag d'Aspose.Pdf.Facades. Énumération des drapeaux de soumission de formulaire possibles
+title: "Enum SubmitFormFlag"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Facades.SubmitFormFlag enum. Énumération des drapeaux de soumission de formulaire possibles"
 type: docs
-weight: 4750
+weight: 4870
 url: /fr/net/aspose.pdf.facades/submitformflag/
 ---
-## Énumération SubmitFormFlag
+## SubmitFormFlag enumeration
 
-Énumération des drapeaux de soumission de formulaire possibles.
+Énumération des indicateurs possibles de soumission de formulaire.
 
 ```csharp
 [Flags]
@@ -24,9 +24,11 @@ public enum SubmitFormFlag
 | Xfdf | `2` | Les données seront renvoyées au format XFDF. |
 | FdfWithComments | `3` | Les données seront renvoyées au format FDF avec des commentaires. |
 | XfdfWithComments | `4` | Les données seront renvoyées au format XFDF avec des commentaires. |
-| Pdf | `5` | L'ensemble du fichier PDF sera soumis. |
+| Pdf | `5` | Le fichier PDF complet sera soumis. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

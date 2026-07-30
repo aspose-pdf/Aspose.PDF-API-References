@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.CreateVectorStoreAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode IOpenAIClient. Crée un nouveau magasin de vecteurs de manière asynchrone
+title: "IOpenAIClient.CreateVectorStoreAsync"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode IOpenAIClient. Crée un nouveau magasin de vecteurs de manière asynchrone"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.ai/iopenaiclient/createvectorstoreasync/
 ---
-## Méthode IOpenAIClient.CreateVectorStoreAsync
+## IOpenAIClient.CreateVectorStoreAsync method
 
-Crée un nouveau magasin de vecteurs de manière asynchrone.
+Crée un nouveau magasin de vecteurs de façon asynchrone.
 
 ```csharp
 public Task<VectorStoreResponse> CreateVectorStoreAsync(
@@ -18,7 +18,7 @@ public Task<VectorStoreResponse> CreateVectorStoreAsync(
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| vectorStoreCreateRequest | VectorStoreCreateRequest | L'objet de demande contenant les détails pour créer le magasin de vecteurs. |
+| vectorStoreCreateRequest | VectorStoreCreateRequest | L'objet de requête contenant les détails pour créer le magasin de vecteurs. |
 | cancellationToken | Nullable`1 | Un jeton pour annuler l'opération. |
 
 ### Valeur de retour
@@ -27,8 +27,10 @@ Une tâche qui représente l'opération asynchrone. Le résultat de la tâche co
 
 ### Voir aussi
 
-* classe [VectorStoreResponse](../../vectorstoreresponse/)
-* classe [VectorStoreCreateRequest](../../vectorstorecreaterequest/)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* class [VectorStoreCreateRequest](../../vectorstorecreaterequest/)
 * interface [IOpenAIClient](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

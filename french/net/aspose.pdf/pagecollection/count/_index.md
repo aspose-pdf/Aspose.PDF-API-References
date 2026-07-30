@@ -1,14 +1,14 @@
 ---
-title: PageCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PageCollection. Obtient le nombre de pages dans le document
+title: "PageCollection.Count"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PageCollection. Obtient le nombre de pages dans le document"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/pagecollection/count/
 ---
-## Propriété PageCollection.Count
+## PageCollection.Count property
 
-Obtient le nombre de pages dans le document.
+Obtient le nombre de Page du Document.
 
 ```csharp
 public int Count { get; }
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### Voir aussi
 
-* classe [PageCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

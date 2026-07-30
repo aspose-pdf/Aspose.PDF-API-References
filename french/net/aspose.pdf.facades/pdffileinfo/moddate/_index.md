@@ -1,12 +1,12 @@
 ---
-title: PdfFileInfo.ModDate
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfFileInfo. Obtient ou définit les informations de date ModDate du document PDF
+title: "PdfFileInfo.ModDate"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfFileInfo. Obtient ou définit les informations de date ModDate du document PDF"
 type: docs
 weight: 120
 url: /fr/net/aspose.pdf.facades/pdffileinfo/moddate/
 ---
-## Propriété PdfFileInfo.ModDate
+## PdfFileInfo.ModDate property
 
 Obtient ou définit les informations de date ModDate du document PDF.
 
@@ -16,6 +16,8 @@ public string ModDate { get; set; }
 
 ### Voir aussi
 
-* classe [PdfFileInfo](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

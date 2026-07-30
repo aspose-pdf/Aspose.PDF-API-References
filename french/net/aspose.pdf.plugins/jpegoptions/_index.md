@@ -1,14 +1,14 @@
 ---
-title: Class JpegOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.JpegOptions. Représente les options de convertisseur Pdf en Jpeg pour le plugin Jpeg
+title: "Classe JpegOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Plugins.JpegOptions. Représente les options du convertisseur Pdf vers Jpeg pour le plugin Jpeg"
 type: docs
-weight: 8920
+weight: 9050
 url: /fr/net/aspose.pdf.plugins/jpegoptions/
 ---
-## Classe JpegOptions
+## JpegOptions class
 
-Représente les options de convertisseur Pdf en Jpeg pour le plugin [`Jpeg`](../jpeg/).
+Représente les options du convertisseur Pdf vers Jpeg pour le plugin [`Jpeg`](../jpeg/).
 
 ```csharp
 public sealed class JpegOptions : PdfToImageOptions
@@ -37,10 +37,12 @@ public sealed class JpegOptions : PdfToImageOptions
 | Nom | Description |
 | --- | --- |
 | [AddInput](../../aspose.pdf.plugins/pdftoimageoptions/addinput/)(IDataSource) | Ajoute une nouvelle source de données à la collection de données du plugin [`PdfToImage`](../pdftoimage/). |
-| [AddOutput](../../aspose.pdf.plugins/pdftoimageoptions/addoutput/)(IDataSource) | Définit une nouvelle source de données de sauvegarde. Peut seulement être un . Si vous souhaitez sauvegarder des images dans des flux mémoire, passez null comme paramètre. |
+| [AddOutput](../../aspose.pdf.plugins/pdftoimageoptions/addoutput/)(IDataSource) | Définit une nouvelle source de données d'enregistrement. Ne peut être qu'un . Si vous voulez enregistrer les images dans des flux mémoire, passez null comme paramètre. |
 
 ### Voir aussi
 
-* classe [PdfToImageOptions](../pdftoimageoptions/)
-* espace de noms [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* class [PdfToImageOptions](../pdftoimageoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

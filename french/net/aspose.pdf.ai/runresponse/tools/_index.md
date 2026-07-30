@@ -1,14 +1,14 @@
 ---
-title: RunResponse.Tools
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété RunResponse. Obtient ou définit la liste des outils que l'assistant a utilisés pour cette exécution
+title: "RunResponse.Tools"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété RunResponse. Obtient ou définit la liste des outils que l'assistant a utilisés pour ce run"
 type: docs
 weight: 240
 url: /fr/net/aspose.pdf.ai/runresponse/tools/
 ---
-## Propriété RunResponse.Tools
+## RunResponse.Tools property
 
-Obtient ou définit la liste des outils que l'assistant a utilisés pour cette exécution.
+Obtient ou définit la liste des outils que l'assistant a utilisés pour ce run.
 
 ```csharp
 public List<Tool> Tools { get; set; }
@@ -16,7 +16,9 @@ public List<Tool> Tools { get; set; }
 
 ### Voir aussi
 
-* classe [Tool](../../tool/)
-* classe [RunResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Tool](../../tool/)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

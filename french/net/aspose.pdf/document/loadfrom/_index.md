@@ -1,14 +1,14 @@
 ---
-title: Document.LoadFrom
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Document. Charge un fichier en le convertissant en PDF
+title: "Document.LoadFrom"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Document. Charge un fichier en le convertissant en PDF"
 type: docs
-weight: 730
+weight: 750
 url: /fr/net/aspose.pdf/document/loadfrom/
 ---
-## Méthode Document.LoadFrom
+## Document.LoadFrom method
 
-Charge un fichier, en le convertissant en PDF.
+Charge un fichier, le convertissant en PDF.
 
 ```csharp
 public void LoadFrom(string filename, LoadOptions options)
@@ -16,7 +16,7 @@ public void LoadFrom(string filename, LoadOptions options)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| filename | String | Le chemin vers le fichier à ouvrir. |
+| nom de fichier | String | Le chemin du fichier à ouvrir. |
 | options | LoadOptions | Les options de chargement. |
 
 ### Exceptions
@@ -24,11 +24,13 @@ public void LoadFrom(string filename, LoadOptions options)
 | exception | condition |
 | --- | --- |
 | [PdfException](../../pdfexception/) | Si le fichier ne peut pas être chargé. |
-| FileNotFoundException | Si le fichier est introuvable. |
+| FileNotFoundException | Si le fichier n'est pas trouvé. |
 
 ### Voir aussi
 
-* classe [LoadOptions](../../loadoptions/)
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [LoadOptions](../../loadoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

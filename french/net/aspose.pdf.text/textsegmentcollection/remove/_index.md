@@ -1,12 +1,12 @@
 ---
-title: TextSegmentCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TextSegmentCollection. Supprime l'élément spécifié de la collection
+title: "TextSegmentCollection.Remove"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TextSegmentCollection. Supprime l'élément spécifié de la collection"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf.text/textsegmentcollection/remove/
 ---
-## Méthode TextSegmentCollection.Remove
+## TextSegmentCollection.Remove method
 
 Supprime l'élément spécifié de la collection.
 
@@ -24,7 +24,9 @@ true si l'élément a été supprimé de la collection ; sinon, false.
 
 ### Voir aussi
 
-* classe [TextSegment](../../textsegment/)
-* classe [TextSegmentCollection](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextSegment](../../textsegment/)
+* class [TextSegmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

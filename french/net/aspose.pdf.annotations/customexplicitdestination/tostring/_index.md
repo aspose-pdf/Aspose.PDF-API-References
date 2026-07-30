@@ -1,12 +1,12 @@
 ---
-title: CustomExplicitDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode CustomExplicitDestination. Convertit en numéro de page
+title: "CustomExplicitDestination.ToString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode CustomExplicitDestination. Convertit en numéro de page"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/customexplicitdestination/tostring/
 ---
-## Méthode CustomExplicitDestination.ToString
+## CustomExplicitDestination.ToString method
 
 Convertit en numéro de page.
 
@@ -20,6 +20,8 @@ Numéro de page.
 
 ### Voir aussi
 
-* classe [CustomExplicitDestination](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [CustomExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

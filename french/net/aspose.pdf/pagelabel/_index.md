@@ -1,14 +1,14 @@
 ---
-title: Class PageLabel
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.PageLabel. Classe représentant la plage d'étiquettes de page
+title: "Classe PageLabel"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.PageLabel class. Classe représentant la plage d'étiquettes de page."
 type: docs
-weight: 8160
+weight: 8300
 url: /fr/net/aspose.pdf/pagelabel/
 ---
-## Classe PageLabel
+## PageLabel class
 
-Classe représentant la plage d'étiquettes de page.
+Classe représentant la plage de Page Label.
 
 ```csharp
 public class PageLabel
@@ -30,5 +30,7 @@ public class PageLabel
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

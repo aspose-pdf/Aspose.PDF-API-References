@@ -1,12 +1,12 @@
 ---
-title: Delegate PdfQueryPageSettingsEventHandler
-second_title: Aspose.PDF for .NET API Reference
-description: Représente la méthode qui gère l'événement PdfQueryPageSettings d'un PdfViewer
+title: "Délégué PdfQueryPageSettingsEventHandler"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Représente la méthode qui gère l'événement PdfQueryPageSettings d'un PdfViewer"
 type: docs
-weight: 4620
+weight: 4740
 url: /fr/net/aspose.pdf.facades/pdfquerypagesettingseventhandler/
 ---
-## Délégué PdfQueryPageSettingsEventHandler
+## PdfQueryPageSettingsEventHandler delegate
 
 Représente la méthode qui gère l'événement [`PdfQueryPageSettings`](../pdfviewer/pdfquerypagesettings/) d'un [`PdfViewer`](../pdfviewer/).
 
@@ -17,13 +17,15 @@ public delegate void PdfQueryPageSettingsEventHandler(object sender,
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| sender | Object | La source de l'événement. |
+| expéditeur | Objet | La source de l'événement. |
 | queryPageSettingsEventArgs | PdfQueryPageSettingsEventArgs | Un [`PdfQueryPageSettingsEventArgs`](../../aspose.pdf.printing/pdfquerypagesettingseventargs/) qui contient les données de l'événement. |
-| currentPageInfo | PdfPrintPageInfo | Informations sur la page actuellement imprimée. |
+| currentPageInfo | PdfPrintPageInfo | Informations de la page actuellement imprimée. |
 
 ### Voir aussi
 
-* classe [PdfQueryPageSettingsEventArgs](../../aspose.pdf.printing/pdfquerypagesettingseventargs/)
-* classe [PdfPrintPageInfo](../pdfprintpageinfo/)
-* espace de noms [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* class [PdfQueryPageSettingsEventArgs](../../aspose.pdf.printing/pdfquerypagesettingseventargs/)
+* class [PdfPrintPageInfo](../pdfprintpageinfo/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

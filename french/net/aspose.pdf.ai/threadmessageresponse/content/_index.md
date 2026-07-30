@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageResponse.Content
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ThreadMessageResponse. Obtient ou définit le contenu du message dans un tableau de texte et/ou d'images
+title: "ThreadMessageResponse.Content"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ThreadMessageResponse. Obtient ou définit le contenu du message sous forme d'un tableau de texte et/ou d'images."
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.ai/threadmessageresponse/content/
 ---
-## Propriété ThreadMessageResponse.Content
+## ThreadMessageResponse.Content property
 
-Obtient ou définit le contenu du message dans un tableau de texte et/ou d'images.
+Obtient ou définit le contenu du message sous forme de tableau de texte et/ou d'images.
 
 ```csharp
 public List<MessageContentResponse> Content { get; set; }
@@ -16,7 +16,9 @@ public List<MessageContentResponse> Content { get; set; }
 
 ### Voir aussi
 
-* classe [MessageContentResponse](../../messagecontentresponse/)
-* classe [ThreadMessageResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [MessageContentResponse](../../messagecontentresponse/)
+* class [ThreadMessageResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

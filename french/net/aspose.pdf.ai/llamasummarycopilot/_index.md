@@ -1,45 +1,45 @@
 ---
-title: Class LlamaSummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.LlamaSummaryCopilot. Fournit des fonctionnalités pour obtenir des résumés de documents en utilisant des modèles d'IA. Exemple d'utilisation de la création d'un client Llama, de la configuration des options et de l'utilisation du copilote de résumé. Remarque  Ce copilote utilise l'API de complétion, donc la quantité totale de texte pouvant être envoyée est limitée par la fenêtre de contexte du modèle.
+title: "Classe LlamaSummaryCopilot"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.AI.LlamaSummaryCopilot. Fournit des fonctionnalités pour obtenir des résumés de documents à l'aide de modèles d'IA. Exemple d'utilisation pour créer un client Llama, configurer les options et utiliser le copilote de résumé. Remarque : ce copilote utilise l'API de complétion, de sorte que la quantité totale de texte pouvant être envoyée est limitée par la fenêtre de contexte du modèle."
 type: docs
-weight: 740
+weight: 790
 url: /fr/net/aspose.pdf.ai/llamasummarycopilot/
 ---
-## Classe LlamaSummaryCopilot
+## LlamaSummaryCopilot class
 
-Fournit des fonctionnalités pour obtenir des résumés de documents en utilisant des modèles d'IA. Exemple d'utilisation de la création d'un client Llama, de la configuration des options et de l'utilisation du copilote de résumé. Remarque : Ce copilote utilise l'API de complétion, donc la quantité totale de texte pouvant être envoyée est limitée par la fenêtre de contexte du modèle.
+Fournit des fonctionnalités pour obtenir des résumés de documents en utilisant des modèles d'IA. Exemple d'utilisation pour créer un client Llama, configurer les options et utiliser le copilote de résumé. Remarque : ce copilote utilise l'API de complétion, donc la quantité totale de texte pouvant être envoyée est limitée par la fenêtre de contexte du modèle.
 
 ```csharp
-// Create AI client.
+// Créer un client IA.
 var llamaClient = LlamaClient
    .CreateWithApiKey(ApiKey) // Create Llama client with the API key.
    .Build();
 
-// Create copilot options.
+// Créer des options de copilote.
 var options = LlamaSummaryCopilotOptions
    .Create() // Create options like this, or...
-   //.Create(options => { options.Model = LlamaModels.Llama13BChat; }) // ...create using delegate.
+   //.Create(options => { options.Model = LlamaModels.Llama13BChat; }) // ...créer en utilisant un délégué.
    .WithTemperature(0.5) // Configure other optional parameters.
    .WithDocument("DocumentInputPath") // .WithDocument methods allows to add text, pdf and paths to documents.
    .WithDocuments(new List<TextDocument>()); // .WithDocuments methods allows to add text, pdf and path collections.
 
-// Create summary copilot.
+// Créer le copilote de résumé.
 var summaryCopilot = AICopilotFactory.CreateSummaryCopilot(llamaClient, options);
 
-// Get summary text.
+// Obtenir le texte du résumé.
 string summaryText = await summaryCopilot.GetSummaryAsync();
 
-// Get summary document.
+// Obtenir le document de résumé.
 Document summaryDocument = await summaryCopilot.GetSummaryDocumentAsync();
 
-// Get summary document with page info.
+// Obtenir le document de résumé avec les informations de page.
 Document summaryDocumentWithPageInfo = await summaryCopilot.GetSummaryDocumentAsync(new PageInfo());
 
-// Save summary as PDF document.
+// Enregistrer le résumé en tant que document PDF.
 await summaryCopilot.SaveSummaryAsync("outputPath");
 
-// Save summary with specified format.
+// Enregistrer le résumé avec le format spécifié.
 await summaryCopilot.SaveSummaryAsync("outputPath", SaveFormat.DocX);
 ```
 
@@ -74,3 +74,5 @@ public class LlamaSummaryCopilot : ISummaryCopilot
 * interface [ISummaryCopilot](../isummarycopilot/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: EMC.EMC
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur EMC. Initialise l'opérateur
+title: "EMC.EMC"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur EMC. Initialise l'opérateur"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.operators/emc/emc/
 ---
-## Constructeur EMC
+## EMC constructor
 
 Initialise l'opérateur.
 
@@ -16,6 +16,8 @@ public EMC()
 
 ### Voir aussi
 
-* classe [EMC](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [EMC](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

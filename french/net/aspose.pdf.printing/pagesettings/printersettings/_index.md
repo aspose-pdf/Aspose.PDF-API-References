@@ -1,12 +1,12 @@
 ---
-title: PageSettings.PrinterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PageSettings. Obtient ou définit les paramètres d'imprimante associés
+title: "PageSettings.PrinterSettings"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PageSettings. Obtient ou définit les paramètres d'imprimante associés."
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.printing/pagesettings/printersettings/
 ---
-## Propriété PageSettings.PrinterSettings
+## PageSettings.PrinterSettings property
 
 Obtient ou définit les paramètres d'imprimante associés.
 
@@ -16,7 +16,9 @@ public PrinterSettings PrinterSettings { get; set; }
 
 ### Voir aussi
 
-* classe [PrinterSettings](../../printersettings/)
-* classe [PageSettings](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PrinterSettings](../../printersettings/)
+* class [PageSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

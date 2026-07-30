@@ -1,12 +1,12 @@
 ---
-title: PdfConverter.FormPresentationMode
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfConverter. Obtient ou définit le mode de présentation du formulaire
+title: "PdfConverter.FormPresentationMode"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfConverter. Obtient ou définit le mode de présentation du formulaire"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.facades/pdfconverter/formpresentationmode/
 ---
-## Propriété PdfConverter.FormPresentationMode
+## PdfConverter.FormPresentationMode property
 
 Obtient ou définit le mode de présentation du formulaire.
 
@@ -20,3 +20,5 @@ public FormPresentationMode FormPresentationMode { get; set; }
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

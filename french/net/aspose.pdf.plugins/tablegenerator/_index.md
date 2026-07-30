@@ -1,14 +1,14 @@
 ---
-title: Class TableGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.TableGenerator. Représente le plugin TableGenerator d'Aspose.PDF
+title: "Classe TableGenerator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Plugins.TableGenerator. Représente le plugin Aspose.PDF TableGenerator"
 type: docs
-weight: 9350
+weight: 9500
 url: /fr/net/aspose.pdf.plugins/tablegenerator/
 ---
-## Classe TableGenerator
+## TableGenerator class
 
-Représente le plugin TableGenerator d'Aspose.PDF.
+Représente le plugin Aspose.PDF TableGenerator.
 
 ```csharp
 public sealed class TableGenerator : IDisposable, IPlugin
@@ -29,19 +29,19 @@ public sealed class TableGenerator : IDisposable, IPlugin
 
 ## Exemples
 
-L'exemple démontre comment ajouter un tableau à un fichier PDF.
+L'exemple montre comment ajouter un tableau à un fichier PDF.
 
 ```csharp
-// create TableGenerator
+// créer TableGenerator
 var generator = new TableGenerator();
-// create TableOptions object to set instructions
+// créer un objet TableOptions pour définir les instructions
 var opt = new TableOptions();
-// add input file paths
+// ajouter les chemins des fichiers d'entrée
 opt.AddInput(new FileDataSource(inputPath1));
 opt.AddInput(new FileDataSource(inputPath2));
-// set output file path
+// définir le chemin du fichier de sortie
 opt.AddOutput(new FileDataSource(outputPath));
-// perform extraction process
+// exécuter le processus d'extraction
 generator.Process(opt);
 ```
 
@@ -50,3 +50,5 @@ generator.Process(opt);
 * interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.Culture
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SignatureCustomAppearance. Obtient/définit la valeur des informations culturelles. Valeur par défaut  InvariantCulture
+title: "SignatureCustomAppearance.Culture"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété SignatureCustomAppearance. Obtient/Définit la valeur d'information culturelle. Valeur par défaut InvariantCulture"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.forms/signaturecustomappearance/culture/
 ---
-## Propriété SignatureCustomAppearance.Culture
+## SignatureCustomAppearance.Culture property
 
-Obtient/définit la valeur des informations culturelles. Valeur par défaut : InvariantCulture.
+Obtient/definit la valeur des informations culturelles. Valeur par défaut: InvariantCulture.
 
 ```csharp
 public CultureInfo Culture { get; set; }
@@ -16,6 +16,8 @@ public CultureInfo Culture { get; set; }
 
 ### Voir aussi
 
-* classe [SignatureCustomAppearance](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Table.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Table. Cloner la table
+title: "Table.Clone"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Table. Clone le tableau"
 type: docs
 weight: 220
 url: /fr/net/aspose.pdf/table/clone/
 ---
-## Méthode Table.Clone
+## Table.Clone method
 
-Cloner la table.
+Clone le tableau.
 
 ```csharp
 public override object Clone()
@@ -20,6 +20,8 @@ L'objet cloné
 
 ### Voir aussi
 
-* classe [Table](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

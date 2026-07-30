@@ -1,7 +1,7 @@
 ---
-title: HtmlDiffOutputGenerator.HtmlDiffOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur HtmlDiffOutputGenerator. Crée une instance de la classe HtmlDiffOutputGenerator
+title: "HtmlDiffOutputGenerator.HtmlDiffOutputGenerator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur HtmlDiffOutputGenerator. Crée une instance de la classe HtmlDiffOutputGenerator"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.comparison/htmldiffoutputgenerator/htmldiffoutputgenerator/
@@ -16,8 +16,8 @@ public HtmlDiffOutputGenerator()
 
 ### Voir aussi
 
-* classe [HtmlDiffOutputGenerator](../)
-* espace de noms [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* class [HtmlDiffOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -36,7 +36,9 @@ public HtmlDiffOutputGenerator(OutputTextStyle textStyle)
 
 ### Voir aussi
 
-* classe [OutputTextStyle](../../outputtextstyle/)
-* classe [HtmlDiffOutputGenerator](../)
-* espace de noms [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* class [OutputTextStyle](../../outputtextstyle/)
+* class [HtmlDiffOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

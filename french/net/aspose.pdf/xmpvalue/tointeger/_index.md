@@ -1,12 +1,12 @@
 ---
-title: XmpValue.ToInteger
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XmpValue. Convertit en entier
+title: "XmpValue.ToInteger"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XmpValue. Convertit en entier"
 type: docs
 weight: 170
 url: /fr/net/aspose.pdf/xmpvalue/tointeger/
 ---
-## Méthode XmpValue.ToInteger
+## XmpValue.ToInteger method
 
 Convertit en entier.
 
@@ -20,6 +20,8 @@ Valeur entière.
 
 ### Voir aussi
 
-* classe [XmpValue](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

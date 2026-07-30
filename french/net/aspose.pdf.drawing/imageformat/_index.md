@@ -1,12 +1,12 @@
 ---
-title: Enum ImageFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ImageFormat d'Aspose.Pdf.Drawing. Cette énumération représente les formats d'image
+title: "Énumération ImageFormat"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Énumération Aspose.Pdf.Drawing.ImageFormat. Cette énumération représente les formats d'image"
 type: docs
-weight: 3950
+weight: 4070
 url: /fr/net/aspose.pdf.drawing/imageformat/
 ---
-## Énumération ImageFormat
+## ImageFormat enumeration
 
 Cette énumération représente les formats d'image.
 
@@ -33,3 +33,5 @@ public enum ImageFormat
 
 * namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
+
+

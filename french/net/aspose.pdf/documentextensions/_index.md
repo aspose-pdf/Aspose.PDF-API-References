@@ -1,12 +1,12 @@
 ---
-title: Class DocumentExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.DocumentExtensions. Fournit des capacités supplémentaires pour la classe Document
+title: "Classe DocumentExtensions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.DocumentExtensions. Fournit des capacités supplémentaires pour la classe Document"
 type: docs
-weight: 3850
+weight: 3970
 url: /fr/net/aspose.pdf/documentextensions/
 ---
-## Classe DocumentExtensions
+## DocumentExtensions class
 
 Fournit des capacités supplémentaires pour la classe Document.
 
@@ -18,9 +18,11 @@ public static class DocumentExtensions
 
 | Nom | Description |
 | --- | --- |
-| static [SplitSharedImages](../../aspose.pdf/documentextensions/splitsharedimages/)(this Document, Page, Page) | Pour les images dans les ressources, si deux pages vérifient les XImages communs et pour des cas similaires, les divise en créant des XImages dupliqués. |
+| static [SplitSharedImages](../../aspose.pdf/documentextensions/splitsharedimages/)(this Document, Page, Page) | Pour les images dans Resources, si deux pages vérifient la présence d'XImages communes et, dans des cas similaires, les divisent en créant des XImages dupliquées. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

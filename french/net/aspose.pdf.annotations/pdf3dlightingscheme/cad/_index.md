@@ -1,12 +1,12 @@
 ---
-title: PDF3DLightingScheme.CAD
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PDF3DLightingScheme. Le schéma d'éclairage Cad
+title: "PDF3DLightingScheme.CAD"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PDF3DLightingScheme. Le schéma d'éclairage Cad"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.annotations/pdf3dlightingscheme/cad/
 ---
-## Champ PDF3DLightingScheme.CAD
+## PDF3DLightingScheme.CAD field
 
 Le schéma d'éclairage "Cad".
 
@@ -16,6 +16,8 @@ public static PDF3DLightingScheme CAD;
 
 ### Voir aussi
 
-* classe [PDF3DLightingScheme](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DLightingScheme](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

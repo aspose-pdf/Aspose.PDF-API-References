@@ -1,12 +1,12 @@
 ---
-title: OpenAISummaryCopilotOptions.WithTemperature
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OpenAISummaryCopilotOptions. Définit la température pour les options du copilote de résumé
+title: "OpenAISummaryCopilotOptions.WithTemperature"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode OpenAISummaryCopilotOptions. Définit la température pour les options du copilote de résumé"
 type: docs
-weight: 130
+weight: 140
 url: /fr/net/aspose.pdf.ai/openaisummarycopilotoptions/withtemperature/
 ---
-## Méthode OpenAISummaryCopilotOptions.WithTemperature
+## OpenAISummaryCopilotOptions.WithTemperature method
 
 Définit la température pour les options du copilote de résumé.
 
@@ -16,14 +16,16 @@ public OpenAISummaryCopilotOptions WithTemperature(double? temperature)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| temperature | Nullable`1 | La température à définir. |
+| température | Nullable`1 | La température à définir. |
 
 ### Valeur de retour
 
-L'instance actuelle de [`OpenAISummaryCopilotOptions`](../).
+L’instance actuelle de [`OpenAISummaryCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [OpenAISummaryCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

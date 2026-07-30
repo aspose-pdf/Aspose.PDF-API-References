@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.ReasonLabel
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SignatureCustomAppearance. Obtient/définit l'étiquette de raison. Valeur par défaut  Raison
+title: "SignatureCustomAppearance.ReasonLabel"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété SignatureCustomAppearance. Obtient/definit le libellé de la raison. Valeur par défaut Reason"
 type: docs
-weight: 140
+weight: 150
 url: /fr/net/aspose.pdf.forms/signaturecustomappearance/reasonlabel/
 ---
-## Propriété SignatureCustomAppearance.ReasonLabel
+## SignatureCustomAppearance.ReasonLabel property
 
-Obtient/définit l'étiquette de raison. Valeur par défaut : "Raison".
+Obtient/definit l'étiquette de raison. Valeur par défaut: "Reason".
 
 ```csharp
 public string ReasonLabel { get; set; }
@@ -16,6 +16,8 @@ public string ReasonLabel { get; set; }
 
 ### Voir aussi
 
-* classe [SignatureCustomAppearance](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

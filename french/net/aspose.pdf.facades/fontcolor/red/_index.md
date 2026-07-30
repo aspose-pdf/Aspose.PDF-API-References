@@ -1,12 +1,12 @@
 ---
-title: FontColor.Red
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FontColor. Composant rouge de la couleur
+title: "FontColor.Red"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "FontColor propriété. Composante rouge de la couleur"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.facades/fontcolor/red/
 ---
-## Propriété FontColor.Red
+## FontColor.Red property
 
 Composant rouge de la couleur.
 
@@ -16,6 +16,8 @@ public int Red { get; set; }
 
 ### Voir aussi
 
-* classe [FontColor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FontColor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

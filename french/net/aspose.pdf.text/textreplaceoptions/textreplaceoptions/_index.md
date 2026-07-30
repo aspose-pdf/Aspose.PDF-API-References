@@ -1,7 +1,7 @@
 ---
-title: TextReplaceOptions.TextReplaceOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de TextReplaceOptions. Initialise une nouvelle instance de l'objet TextReplaceOptions pour la portée spécifiée
+title: "TextReplaceOptions.TextReplaceOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur TextReplaceOptions. Initialise une nouvelle instance de l'objet TextReplaceOptions pour la portée spécifiée"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.text/textreplaceoptions/textreplaceoptions/
@@ -16,7 +16,7 @@ public TextReplaceOptions(Scope scope)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| scope | Scope | Objet de portée. |
+| portée | Portée | Objet Portée. |
 
 ### Voir aussi
 
@@ -29,7 +29,7 @@ public TextReplaceOptions(Scope scope)
 
 ## TextReplaceOptions(ReplaceAdjustment) {#constructor}
 
-Initialise une nouvelle instance de l'objet [`TextReplaceOptions`](../) pour l'action de remplacement spécifiée.
+Initialise une nouvelle instance de l'objet [`TextReplaceOptions`](../) pour l'action après remplacement spécifiée.
 
 ```csharp
 public TextReplaceOptions(ReplaceAdjustment adjustment)
@@ -37,7 +37,7 @@ public TextReplaceOptions(ReplaceAdjustment adjustment)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| adjustment | ReplaceAdjustment | Objet ReplaceAdjustment. |
+| ajustement | ReplaceAdjustment | Objet ReplaceAdjustment. |
 
 ### Voir aussi
 
@@ -45,3 +45,5 @@ public TextReplaceOptions(ReplaceAdjustment adjustment)
 * class [TextReplaceOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

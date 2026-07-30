@@ -1,14 +1,14 @@
 ---
-title: AttributeName.InlineAlign_Start
-second_title: Aspose.PDF for .NET API Reference
-description: Champ AttributeName. Attribut InlineAlign Start - Bord de départ de chaque rectangle d'allocation d'enfant aligné avec celui du rectangle de contenu des cellules du tableau
+title: "AttributeName.InlineAlign_Start"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "AttributeName champ. Attribut InlineAlign Start  Bordure de départ de chaque rectangle d'allocation d'enfant alignée avec celle du rectangle de contenu des cellules du tableau"
 type: docs
 weight: 220
 url: /fr/net/aspose.pdf.logicalstructure/attributename/inlinealign_start/
 ---
-## Champ AttributeName.InlineAlign_Start
+## AttributeName.InlineAlign_Start field
 
-Attribut InlineAlign : Start - Bord de départ de chaque rectangle d'allocation d'enfant aligné avec celui du rectangle de contenu de la cellule du tableau.
+Attribut InlineAlign : Start - Le bord de départ du rectangle d'allocation de chaque enfant est aligné avec celui du rectangle de contenu de la cellule du tableau.
 
 ```csharp
 public static readonly AttributeName InlineAlign_Start;
@@ -16,6 +16,8 @@ public static readonly AttributeName InlineAlign_Start;
 
 ### Voir aussi
 
-* classe [AttributeName](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class FileFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Text.FileFontSource. Représente une source de fichier de police unique
+title: "Classe FileFontSource"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Text.FileFontSource. Représente une source unique de fichier de police."
 type: docs
-weight: 10490
+weight: 10670
 url: /fr/net/aspose.pdf.text/filefontsource/
 ---
-## Classe FileFontSource
+## FileFontSource class
 
 Représente une source de fichier de police unique.
 
@@ -24,16 +24,18 @@ public sealed class FileFontSource : FontSource
 
 | Nom | Description |
 | --- | --- |
-| [FilePath](../../aspose.pdf.text/filefontsource/filepath/) { get; set; } | Chemin vers le fichier de police. |
+| [FilePath](../../aspose.pdf.text/filefontsource/filepath/) { get; set; } | Chemin du fichier de police. |
 
 ## Méthodes
 
 | Nom | Description |
 | --- | --- |
-| override [Equals](../../aspose.pdf.text/filefontsource/equals/)(object) | Vérifie si les objets de source de fichier de police sont égaux. |
+| override [Equals](../../aspose.pdf.text/filefontsource/equals/)(object) | Vérifie si les objets source du fichier de police sont égaux. |
 
 ### Voir aussi
 
-* classe [FontSource](../fontsource/)
-* espace de noms [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* class [FontSource](../fontsource/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.C65Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSizes. Enveloppe C65 114 mm par 229 mm
+title: "PaperSizes.C65Envelope"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PaperSizes champ. enveloppe C65 114 mm sur 229 mm"
 type: docs
 weight: 350
 url: /fr/net/aspose.pdf.printing/papersizes/c65envelope/
 ---
-## Champ PaperSizes.C65Envelope
+## PaperSizes.C65Envelope field
 
 Enveloppe C65 (114 mm par 229 mm).
 
@@ -16,7 +16,9 @@ public static readonly PaperSize C65Envelope;
 
 ### Voir aussi
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

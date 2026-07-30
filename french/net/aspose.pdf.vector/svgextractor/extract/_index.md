@@ -1,14 +1,14 @@
 ---
-title: SvgExtractor.Extract
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode SvgExtractor. Extrait l'image svg en chaîne à partir des éléments graphiques représentés par l'absorbeur avec un filtre prédicat
+title: "SvgExtractor.Extract"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode SvgExtractor. Extrait l'image svg en chaîne à partir des éléments graphiques représentés par l'absorbeur avec un filtre prédicat"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.vector/svgextractor/extract/
 ---
 ## Extract(GraphicsAbsorber, Predicate&lt;GraphicElement&gt;, Page) {#extract_1}
 
-Extrait l'image svg en chaîne à partir des éléments graphiques représentés par !:absorber avec un filtre prédicat.
+Extrait l'image svg vers une chaîne à partir des éléments graphiques représentés par !:absorber avec un filtre prédicat.
 
 ```csharp
 public string Extract(GraphicsAbsorber absorber, Predicate<GraphicElement> filter, Page page)
@@ -16,13 +16,13 @@ public string Extract(GraphicsAbsorber absorber, Predicate<GraphicElement> filte
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| absorber | GraphicsAbsorber | L'objet GraphicsAbsorber qui contient les éléments graphiques. |
-| filter | Predicate`1 | Une fonction prédicat utilisée pour filtrer les éléments graphiques. |
+| absorbeur | GraphicsAbsorber | L'objet GraphicsAbsorber qui contient les éléments graphiques. |
+| filtre | Predicate`1 | Une fonction prédicat utilisée pour filtrer les éléments graphiques. |
 | page | Page | La page où l'absorbeur obtient les éléments graphiques. |
 
 ### Valeur de retour
 
-La chaîne avec le contenu SVG.
+La chaîne contenant le contenu SVG.
 
 ### Exceptions
 
@@ -32,10 +32,10 @@ La chaîne avec le contenu SVG.
 
 ### Voir aussi
 
-* classe [GraphicsAbsorber](../../graphicsabsorber/)
-* classe [GraphicElement](../../graphicelement/)
-* classe [Page](../../../aspose.pdf/page/)
-* classe [SvgExtractor](../)
+* class [GraphicsAbsorber](../../graphicsabsorber/)
+* class [GraphicElement](../../graphicelement/)
+* class [Page](../../../aspose.pdf/page/)
+* class [SvgExtractor](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
 
@@ -43,7 +43,7 @@ La chaîne avec le contenu SVG.
 
 ## Extract(GraphicsAbsorber, Predicate&lt;GraphicElement&gt;, Page, string) {#extract_4}
 
-Extrait l'image svg dans un fichier à partir des éléments graphiques représentés par !:absorber avec un filtre prédicat.
+Extrait l'image svg vers un fichier à partir des éléments graphiques représentés par !:absorber avec un filtre prédicat.
 
 ```csharp
 public void Extract(GraphicsAbsorber absorber, Predicate<GraphicElement> filter, Page page, 
@@ -52,8 +52,8 @@ public void Extract(GraphicsAbsorber absorber, Predicate<GraphicElement> filter,
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| absorber | GraphicsAbsorber | L'objet GraphicsAbsorber qui contient les éléments graphiques. |
-| filter | Predicate`1 | Une fonction prédicat utilisée pour filtrer les éléments graphiques. |
+| absorbeur | GraphicsAbsorber | L'objet GraphicsAbsorber qui contient les éléments graphiques. |
+| filtre | Predicate`1 | Une fonction prédicat utilisée pour filtrer les éléments graphiques. |
 | page | Page | La page où l'absorbeur obtient les éléments graphiques. |
 | svgFilePath | String | Le chemin du fichier SVG cible. |
 
@@ -65,10 +65,10 @@ public void Extract(GraphicsAbsorber absorber, Predicate<GraphicElement> filter,
 
 ### Voir aussi
 
-* classe [GraphicsAbsorber](../../graphicsabsorber/)
-* classe [GraphicElement](../../graphicelement/)
-* classe [Page](../../../aspose.pdf/page/)
-* classe [SvgExtractor](../)
+* class [GraphicsAbsorber](../../graphicsabsorber/)
+* class [GraphicElement](../../graphicelement/)
+* class [Page](../../../aspose.pdf/page/)
+* class [SvgExtractor](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
 
@@ -76,7 +76,7 @@ public void Extract(GraphicsAbsorber absorber, Predicate<GraphicElement> filter,
 
 ## Extract(IEnumerable&lt;GraphicElement&gt;, Page) {#extract_2}
 
-Extrait les éléments graphiques dans une chaîne SVG. Options ignorées - regroupement, extraction à partir d'un rectangle
+Extrait les éléments graphiques dans une chaîne SVG. Options ignorées - regroupement, extraction depuis un rectangle.
 
 ```csharp
 public string Extract(IEnumerable<GraphicElement> elements, Page page)
@@ -84,12 +84,12 @@ public string Extract(IEnumerable<GraphicElement> elements, Page page)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| elements | IEnumerable`1 | Les éléments graphiques à convertir. |
+| éléments | IEnumerable`1 | Les éléments graphiques à convertir. |
 | page | Page | La page où l'absorbeur obtient les éléments graphiques. |
 
 ### Valeur de retour
 
-La chaîne avec le contenu SVG.
+La chaîne contenant le contenu SVG.
 
 ### Exceptions
 
@@ -99,9 +99,9 @@ La chaîne avec le contenu SVG.
 
 ### Voir aussi
 
-* classe [GraphicElement](../../graphicelement/)
-* classe [Page](../../../aspose.pdf/page/)
-* classe [SvgExtractor](../)
+* class [GraphicElement](../../graphicelement/)
+* class [Page](../../../aspose.pdf/page/)
+* class [SvgExtractor](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
 
@@ -109,7 +109,7 @@ La chaîne avec le contenu SVG.
 
 ## Extract(IEnumerable&lt;GraphicElement&gt;, Page, string) {#extract_5}
 
-Extrait les éléments graphiques dans un seul fichier SVG. Options ignorées - regroupement, extraction à partir d'un rectangle
+Extrait les éléments graphiques dans un seul fichier SVG. Options ignorées - regroupement, extraction depuis un rectangle.
 
 ```csharp
 public void Extract(IEnumerable<GraphicElement> elements, Page page, string svgFilePath)
@@ -117,7 +117,7 @@ public void Extract(IEnumerable<GraphicElement> elements, Page page, string svgF
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| elements | IEnumerable`1 | Les éléments graphiques à convertir. |
+| éléments | IEnumerable`1 | Les éléments graphiques à convertir. |
 | page | Page | La page où l'absorbeur obtient les éléments graphiques. |
 | svgFilePath | String | Le chemin du fichier SVG cible. |
 
@@ -129,9 +129,9 @@ public void Extract(IEnumerable<GraphicElement> elements, Page page, string svgF
 
 ### Voir aussi
 
-* classe [GraphicElement](../../graphicelement/)
-* classe [Page](../../../aspose.pdf/page/)
-* classe [SvgExtractor](../)
+* class [GraphicElement](../../graphicelement/)
+* class [Page](../../../aspose.pdf/page/)
+* class [SvgExtractor](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
 
@@ -161,8 +161,8 @@ La liste des chaînes de contenu SVG.
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [SvgExtractor](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [SvgExtractor](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
 
@@ -179,7 +179,7 @@ public void Extract(Page page, string directory)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | page | Page | La page à extraire. |
-| directory | String | Le répertoire cible pour placer les images SVG. |
+| répertoire | String | Le répertoire cible où placer les images SVG. |
 
 ### Exceptions
 
@@ -189,7 +189,9 @@ public void Extract(Page page, string directory)
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [SvgExtractor](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [SvgExtractor](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

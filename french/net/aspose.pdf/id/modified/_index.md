@@ -1,14 +1,14 @@
 ---
-title: Id.Modified
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Id. Changement d'identifiant basé sur le contenu des documents au moment de sa dernière mise à jour
+title: "Id.Modified"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Id. Identifiant modifiable basé sur le contenu du document au moment de sa dernière mise à jour."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/id/modified/
 ---
-## Propriété Id.Modified
+## Id.Modified property
 
-Changement d'identifiant basé sur le contenu du document au moment de sa dernière mise à jour.
+Modification de l'identifiant en fonction du contenu du document au moment de sa dernière mise à jour.
 
 ```csharp
 public string Modified { get; }
@@ -16,6 +16,8 @@ public string Modified { get; }
 
 ### Voir aussi
 
-* classe [Id](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Id](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

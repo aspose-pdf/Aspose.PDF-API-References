@@ -1,14 +1,14 @@
 ---
-title: Class CurveTo
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.CurveTo. Classe représentant l'opérateur c ajoutant une courbe au chemin
+title: "Classe CurveTo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.CurveTo classe. Classe représentant l'opérateur c d'ajout d'une courbe au chemin"
 type: docs
-weight: 7240
+weight: 7380
 url: /fr/net/aspose.pdf.operators/curveto/
 ---
-## Classe CurveTo
+## CurveTo class
 
-Classe représentant l'opérateur c (ajouter une courbe au chemin).
+Classe représentant l'opérateur c (append curve to path).
 
 ```csharp
 public class CurveTo : Operator
@@ -30,9 +30,9 @@ public class CurveTo : Operator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/curveto/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/curveto/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf.operators/curveto/tostring/)() | Renvoie la représentation textuelle de l'opérateur. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ## Champs
 
@@ -47,6 +47,8 @@ public class CurveTo : Operator
 
 ### Voir aussi
 
-* classe [Operator](../../aspose.pdf/operator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

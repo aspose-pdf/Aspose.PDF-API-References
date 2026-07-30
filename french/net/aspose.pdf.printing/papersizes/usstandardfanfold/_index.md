@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.USStandardFanfold
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSizes. Fanfold standard américain 14,875 po par 11 po
+title: "PaperSizes.USStandardFanfold"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PaperSizes champ. fanfold standard US 14.875 in. par 11 in"
 type: docs
 weight: 1160
 url: /fr/net/aspose.pdf.printing/papersizes/usstandardfanfold/
 ---
-## Champ PaperSizes.USStandardFanfold
+## PaperSizes.USStandardFanfold field
 
-Fanfold standard américain (14,875 po par 11 po).
+Fanfold standard US (14,875 po. par 11 po.).
 
 ```csharp
 public static readonly PaperSize USStandardFanfold;
@@ -16,7 +16,9 @@ public static readonly PaperSize USStandardFanfold;
 
 ### Voir aussi
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

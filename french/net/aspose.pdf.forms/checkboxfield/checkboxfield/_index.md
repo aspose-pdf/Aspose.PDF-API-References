@@ -1,7 +1,7 @@
 ---
-title: CheckboxField.CheckboxField
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de CheckboxField. Constructeur pour la classe CheckboxField
+title: "CheckboxField.CheckboxField"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur CheckboxField. Constructeur pour la classe CheckboxField"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.forms/checkboxfield/checkboxfield/
@@ -21,10 +21,10 @@ public CheckboxField(Page page, Rectangle rect)
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [CheckboxField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [CheckboxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -44,33 +44,17 @@ public CheckboxField(Document doc, Rectangle rect)
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [CheckboxField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## CheckboxField() {#constructor}
-
-Créer une instance de CheckboxField.
-
-```csharp
-public CheckboxField()
-```
-
-### Voir aussi
-
-* classe [CheckboxField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [CheckboxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CheckboxField(Document) {#constructor_1}
 
-Constructeur à utiliser avec le Générateur.
+Constructeur à utiliser avec Generator.
 
 ```csharp
 public CheckboxField(Document doc)
@@ -82,7 +66,9 @@ public CheckboxField(Document doc)
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [CheckboxField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Document](../../../aspose.pdf/document/)
+* class [CheckboxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

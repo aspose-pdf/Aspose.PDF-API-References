@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.DecryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfFileSecurity. Décrypte un document Pdf chiffré par mot de passe propriétaire. Si le document n'a pas de mot de passe propriétaire, il est permis d'utiliser le mot de passe utilisateur. Lance une exception si le processus échoue.
+title: "PdfFileSecurity.DecryptFile"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfFileSecurity. Déchiffre un document Pdf chiffré avec le mot de passe propriétaire. Si le document n'a pas de mot de passe propriétaire, il est possible d'utiliser le mot de passe utilisateur. Lève une exception si le processus échoue."
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.facades/pdffilesecurity/decryptfile/
 ---
-## Méthode PdfFileSecurity.DecryptFile
+## PdfFileSecurity.DecryptFile method
 
-Décrypte un document Pdf chiffré par mot de passe propriétaire. Si le document n'a pas de mot de passe propriétaire, il est permis d'utiliser le mot de passe utilisateur. Lance une exception si le processus échoue.
+Déchiffre un document Pdf chiffré avec le mot de passe propriétaire. Si le document n'a pas de mot de passe propriétaire, il est possible d'utiliser le mot de passe utilisateur. Lève une exception si le processus échoue.
 
 ```csharp
 public bool DecryptFile(string ownerPassword)
@@ -16,11 +16,11 @@ public bool DecryptFile(string ownerPassword)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| ownerPassword | String | Mot de passe propriétaire. |
+| ownerPassword | String | Mot de passe du propriétaire. |
 
 ### Valeur de retour
 
-Vrai pour succès.
+Vrai pour le succès.
 
 ## Exemples
 
@@ -40,6 +40,8 @@ fileSecurity.DecryptFile("ownerpass")
 
 ### Voir aussi
 
-* classe [PdfFileSecurity](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

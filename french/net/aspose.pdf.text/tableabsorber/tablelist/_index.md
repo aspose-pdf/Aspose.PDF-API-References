@@ -1,14 +1,14 @@
 ---
-title: TableAbsorber.TableList
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TableAbsorber. Renvoie une IList en lecture seule contenant les tables qui ont été trouvées
+title: "TableAbsorber.TableList"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TableAbsorber. Retourne un IList en lecture seule contenant les tables trouvées"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.text/tableabsorber/tablelist/
 ---
-## Propriété TableAbsorber.TableList
+## TableAbsorber.TableList property
 
-Renvoie une IList en lecture seule contenant les tables qui ont été trouvées
+Renvoie un IList en lecture seule contenant les tables qui ont été trouvées
 
 ```csharp
 public virtual IList<AbsorbedTable> TableList { get; }
@@ -16,7 +16,9 @@ public virtual IList<AbsorbedTable> TableList { get; }
 
 ### Voir aussi
 
-* classe [AbsorbedTable](../../absorbedtable/)
-* classe [TableAbsorber](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [AbsorbedTable](../../absorbedtable/)
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

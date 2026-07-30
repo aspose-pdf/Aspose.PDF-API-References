@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DCuttingPlaneOrientation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DCuttingPlaneOrientation class. Class PDF3DCuttingPlaneOrientation
+title: "Classe PDF3DCuttingPlaneOrientation"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Annotations.PDF3DCuttingPlaneOrientation. Classe PDF3DCuttingPlaneOrientation"
 type: docs
-weight: 2200
+weight: 2290
 url: /fr/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/
 ---
-## Classe PDF3DCuttingPlaneOrientation
+## PDF3DCuttingPlaneOrientation class
 
 Classe PDF3DCuttingPlaneOrientation.
 
@@ -37,5 +37,7 @@ public class PDF3DCuttingPlaneOrientation
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

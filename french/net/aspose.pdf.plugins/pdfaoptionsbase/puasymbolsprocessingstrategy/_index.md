@@ -1,12 +1,12 @@
 ---
-title: PdfAOptionsBase.PuaSymbolsProcessingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfAOptionsBase. Obtient ou définit la stratégie de traitement des symboles de la zone d'utilisation privée PUA dans le document PDF
+title: "PdfAOptionsBase.PuaSymbolsProcessingStrategy"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfAOptionsBase. Obtient ou définit la stratégie de traitement des symboles de la zone d'utilisation privée (PUA) dans le document PDF."
 type: docs
 weight: 120
 url: /fr/net/aspose.pdf.plugins/pdfaoptionsbase/puasymbolsprocessingstrategy/
 ---
-## Propriété PdfAOptionsBase.PuaSymbolsProcessingStrategy
+## PdfAOptionsBase.PuaSymbolsProcessingStrategy property
 
 Obtient ou définit la stratégie de traitement des symboles de la zone d'utilisation privée (PUA) dans le document PDF.
 
@@ -14,9 +14,9 @@ Obtient ou définit la stratégie de traitement des symboles de la zone d'utilis
 public PuaProcessingStrategy PuaSymbolsProcessingStrategy { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-La stratégie de traitement des symboles PUA. La valeur par défaut est Aucune pour les documents conformes de niveau B, et SurroundPuaTextWithEmptyActualText pour ceux conformes de niveau A.
+La stratégie de traitement des symboles PUA. La valeur par défaut est None pour les documents de conformité Niveau B, et SurroundPuaTextWithEmptyActualText pour ceux de conformité Niveau A.
 
 ### Voir aussi
 
@@ -24,3 +24,5 @@ La stratégie de traitement des symboles PUA. La valeur par défaut est Aucune p
 * class [PdfAOptionsBase](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

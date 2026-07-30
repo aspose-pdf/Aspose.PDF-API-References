@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.DeleteThreadAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode IOpenAIClient. Supprime un fil existant de manière asynchrone
+title: "IOpenAIClient.DeleteThreadAsync"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode IOpenAIClient. Supprime un fil existant de manière asynchrone"
 type: docs
 weight: 150
 url: /fr/net/aspose.pdf.ai/iopenaiclient/deletethreadasync/
 ---
-## Méthode IOpenAIClient.DeleteThreadAsync
+## IOpenAIClient.DeleteThreadAsync method
 
-Supprime un fil existant de manière asynchrone.
+Supprime un fil existant de façon asynchrone.
 
 ```csharp
 public Task<DeleteStatusResponse> DeleteThreadAsync(string threadId, 
@@ -28,11 +28,13 @@ Une tâche qui représente l'opération asynchrone. Le résultat de la tâche co
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Lancé lorsque l'ID du fil est nul ou vide. |
+| [AIClientException](../../aiclientexception/) | Lancée lorsque l'ID du fil est nul ou vide. |
 
 ### Voir aussi
 
-* classe [DeleteStatusResponse](../../deletestatusresponse/)
+* class [DeleteStatusResponse](../../deletestatusresponse/)
 * interface [IOpenAIClient](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

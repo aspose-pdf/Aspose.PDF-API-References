@@ -1,7 +1,7 @@
 ---
-title: Color.FromRgb
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Color. Obtient un objet Color pdf valide à partir de la valeur System.Drawing.Color
+title: "Color.FromRgb"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Color. Obtient un objet Color pdf valide à partir d’une valeur System.Drawing.Color"
 type: docs
 weight: 1470
 url: /fr/net/aspose.pdf/color/fromrgb/
@@ -24,15 +24,15 @@ Objet Color avec chaque valeur de composant dans la plage [0..1].
 
 ### Voir aussi
 
-* classe [Color](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FromRgb(double, double, double) {#fromrgb}
 
-Obtient un objet Color pdf valide à partir des composants de couleur RGB.
+Obtient un objet Color pdf valide à partir des composantes de couleur RVB.
 
 ```csharp
 public static Color FromRgb(double r, double g, double b)
@@ -50,6 +50,8 @@ Objet Color avec chaque valeur de composant dans la plage [0..1].
 
 ### Voir aussi
 
-* classe [Color](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

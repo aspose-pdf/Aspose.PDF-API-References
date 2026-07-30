@@ -1,14 +1,14 @@
 ---
-title: Class ThreadMessageModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.ThreadMessageModifyRequest. Représente une demande de modification d'un message dans un fil de discussion
+title: "Classe ThreadMessageModifyRequest"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.AI.ThreadMessageModifyRequest. Représente une requête de modification d'un message au sein d'un fil"
 type: docs
-weight: 1150
+weight: 1240
 url: /fr/net/aspose.pdf.ai/threadmessagemodifyrequest/
 ---
-## Classe ThreadMessageModifyRequest
+## ThreadMessageModifyRequest class
 
-Représente une demande de modification d'un message dans un fil de discussion.
+Représente une requête pour modifier un message dans un fil.
 
 ```csharp
 public class ThreadMessageModifyRequest
@@ -24,9 +24,11 @@ public class ThreadMessageModifyRequest
 
 | Nom | Description |
 | --- | --- |
-| [Metadata](../../aspose.pdf.ai/threadmessagemodifyrequest/metadata/) { get; set; } | Obtient ou définit un ensemble de 16 paires clé-valeur qui peuvent être attachées à un objet. Cela peut être utile pour stocker des informations supplémentaires sur l'objet dans un format structuré. Les clés peuvent avoir une longueur maximale de 64 caractères et les valeurs peuvent avoir une longueur maximale de 512 caractères. |
+| [Metadata](../../aspose.pdf.ai/threadmessagemodifyrequest/metadata/) { get; set; } | Obtient ou définit un ensemble de 16 paires clé-valeur pouvant être attachées à un objet. Cela peut être utile pour stocker des informations supplémentaires sur l'objet dans un format structuré. Les clés peuvent contenir au maximum 64 caractères et les valeurs au maximum 512 caractères. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

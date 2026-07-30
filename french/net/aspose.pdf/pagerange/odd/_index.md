@@ -1,12 +1,12 @@
 ---
-title: PageRange.Odd
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PageRange. Obtient ou définit le paramètre pour les pages impaires
+title: "PageRange.Odd"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PageRange. Obtient ou définit le paramètre pour les pages impaires"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/pagerange/odd/
 ---
-## Propriété PageRange.Odd
+## PageRange.Odd property
 
 Obtient ou définit le paramètre pour les pages impaires.
 
@@ -16,6 +16,8 @@ public byte Odd { get; set; }
 
 ### Voir aussi
 
-* classe [PageRange](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageRange](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

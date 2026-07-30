@@ -1,7 +1,7 @@
 ---
-title: IStringOutputGenerator.GenerateOutput
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode IStringOutputGenerator. Génère la sortie basée sur les différences entre les textes et l'enregistre dans un fichier
+title: "IStringOutputGenerator.GenerateOutput"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode IStringOutputGenerator. Génère la sortie basée sur les différences entre les textes et l'enregistre dans un fichier."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.comparison/istringoutputgenerator/generateoutput/
@@ -16,7 +16,7 @@ public string GenerateOutput(List<DiffOperation> diffrences)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| diffrences | List`1 | La liste des différences entre les textes. |
+| différences | List`1 | La liste des différences entre les textes. |
 
 ### Valeur de retour
 
@@ -24,9 +24,9 @@ Représentation textuelle de la sortie.
 
 ### Voir aussi
 
-* classe [DiffOperation](../../diffoperation/)
+* class [DiffOperation](../../diffoperation/)
 * interface [IStringOutputGenerator](../)
-* espace de noms [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -41,7 +41,7 @@ public string GenerateOutput(List<List<DiffOperation>> diffrences)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| diffrences | List`1 | La liste des différences entre les textes. |
+| différences | List`1 | La liste des différences entre les textes. |
 
 ### Valeur de retour
 
@@ -49,7 +49,9 @@ Représentation textuelle de la sortie.
 
 ### Voir aussi
 
-* classe [DiffOperation](../../diffoperation/)
+* class [DiffOperation](../../diffoperation/)
 * interface [IStringOutputGenerator](../)
-* espace de noms [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

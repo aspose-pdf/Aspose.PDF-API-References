@@ -1,14 +1,14 @@
 ---
-title: Class ClosePathFillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.ClosePathFillStroke. Classe représentant l'opérateur b qui ferme, remplit et trace un chemin avec la règle de winding non nulle
+title: "Classe ClosePathFillStroke"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.ClosePathFillStroke classe. Classe représentant l'opérateur b qui ferme, remplit et trace le chemin avec la règle du winding non nul"
 type: docs
-weight: 7210
+weight: 7350
 url: /fr/net/aspose.pdf.operators/closepathfillstroke/
 ---
-## Classe ClosePathFillStroke
+## ClosePathFillStroke class
 
-Classe représentant l'opérateur b (fermer, remplir et tracer un chemin avec la règle de winding non nulle).
+Classe représentant l'opérateur b (close, fill and stroke path with nonzer winding rule).
 
 ```csharp
 public class ClosePathFillStroke : Operator
@@ -30,12 +30,14 @@ public class ClosePathFillStroke : Operator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/closepathfillstroke/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/closepathfillstroke/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf.operators/closepathfillstroke/tostring/)() | Renvoie la représentation sous forme de chaîne de l'opérateur. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [Operator](../../aspose.pdf/operator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

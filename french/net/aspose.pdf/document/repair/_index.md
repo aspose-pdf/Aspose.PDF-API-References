@@ -1,14 +1,14 @@
 ---
-title: Document.Repair
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Document. Répare un document endommagé
+title: "Document.Repair"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Document. Répare le document endommagé"
 type: docs
-weight: 820
+weight: 840
 url: /fr/net/aspose.pdf/document/repair/
 ---
-## Méthode Document.Repair
+## Document.Repair method
 
-Répare un document endommagé.
+Répare le document endommagé.
 
 ```csharp
 public void Repair(RepairOptions options = null)
@@ -16,11 +16,13 @@ public void Repair(RepairOptions options = null)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| options | RepairOptions | Un paramètre optionnel de type [`RepairOptions`](../../document.repairoptions/) pour spécifier les paramètres de réparation. Si non fourni, les paramètres par défaut seront utilisés. |
+| options | RepairOptions | Un paramètre optionnel de type [`RepairOptions`](../../document.repairoptions/) pour spécifier les paramètres de réparation. S’il n’est pas fourni, les paramètres par défaut seront utilisés. |
 
 ### Voir aussi
 
-* classe [RepairOptions](../../document.repairoptions/)
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [RepairOptions](../../document.repairoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

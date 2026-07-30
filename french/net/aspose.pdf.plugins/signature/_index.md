@@ -1,12 +1,12 @@
 ---
-title: Class Signature
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.Signature. Représente le plugin Signature
+title: "Classe Signature"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Plugins.Signature. Représente le plugin Signature"
 type: docs
-weight: 9260
+weight: 9410
 url: /fr/net/aspose.pdf.plugins/signature/
 ---
-## Classe Signature
+## Signature class
 
 Représente le plugin `Signature`.
 
@@ -28,18 +28,18 @@ public sealed class Signature : IPlugin
 
 ## Exemples
 
-L'exemple démontre comment signer un document PDF.
+L'exemple montre comment signer un document PDF.
 
 ```csharp
-// create Signature
+// créer Signature
 var plugin = new Signature();
-// create SignOptions object to set instructions
+// créer SignOptions object to set instructions
 var opt = new SignOptions(inputPfx, inputPfxPassword);
-// add input file path
+// ajouter le chemin du fichier d'entrée
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// définir le chemin du fichier de sortie
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// exécuter le processus
 plugin.Process(opt);
 ```
 
@@ -48,3 +48,5 @@ plugin.Process(opt);
 * interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Layer.Locked
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la couche. Obtient une valeur indiquant si la couche est verrouillée
+title: "Layer.Locked"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Layer. Obtient une valeur indiquant si le calque est verrouillé"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/layer/locked/
 ---
-## Propriété Layer.Locked
+## Layer.Locked property
 
 Obtient une valeur indiquant si la couche est verrouillée.
 
@@ -16,6 +16,8 @@ public bool Locked { get; }
 
 ### Voir aussi
 
-* classe [Layer](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

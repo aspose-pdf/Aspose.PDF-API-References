@@ -1,14 +1,14 @@
 ---
-title: FileResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FileResponse. Obtient ou définit le type d'objet qui est toujours un fichier
+title: "FileResponse.Object"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FileResponse. Obtient ou définit le type d'objet qui est toujours file"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.ai/fileresponse/object/
 ---
-## Propriété FileResponse.Object
+## FileResponse.Object property
 
-Obtient ou définit le type d'objet, qui est toujours un fichier.
+Obtient ou définit le type d'objet, qui est toujours file.
 
 ```csharp
 public string Object { get; set; }
@@ -16,6 +16,8 @@ public string Object { get; set; }
 
 ### Voir aussi
 
-* classe [FileResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [FileResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

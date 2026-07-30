@@ -1,14 +1,14 @@
 ---
-title: PdfConverter.GetNextImage
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfConverter. Enregistre l'image dans un fichier avec le format d'image par défaut jpeg
+title: "PdfConverter.GetNextImage"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfConverter. Enregistre l'image dans un fichier avec le format d'image par défaut jpeg"
 type: docs
 weight: 140
 url: /fr/net/aspose.pdf.facades/pdfconverter/getnextimage/
 ---
 ## GetNextImage(string) {#getnextimage_9}
 
-Enregistre l'image dans un fichier avec le format d'image par défaut - jpeg.
+Enregistre l'image dans le fichier avec le format d'image par défaut - jpeg.
 
 ```csharp
 public void GetNextImage(string outputFile)
@@ -16,7 +16,7 @@ public void GetNextImage(string outputFile)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| outputFile | String | Le chemin et le nom du fichier pour enregistrer l'image. |
+| outputFile | String | Le chemin d'accès et le nom du fichier pour enregistrer l'image. |
 
 ### Voir aussi
 
@@ -28,7 +28,7 @@ public void GetNextImage(string outputFile)
 
 ## GetNextImage(string, PageSize) {#getnextimage_10}
 
-Enregistre l'image dans un fichier avec la taille de page donnée et le format d'image par défaut - jpeg.
+Enregistre l'image dans le fichier avec la taille de page donnée et le format d'image par défaut - jpeg.
 
 ```csharp
 public void GetNextImage(string outputFile, PageSize pageSize)
@@ -36,7 +36,7 @@ public void GetNextImage(string outputFile, PageSize pageSize)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| outputFile | String | Le chemin et le nom du fichier pour enregistrer l'image. |
+| outputFile | String | Le chemin d'accès et le nom du fichier pour enregistrer l'image. |
 | pageSize | PageSize | La taille de page de l'image. |
 
 ### Voir aussi
@@ -50,7 +50,7 @@ public void GetNextImage(string outputFile, PageSize pageSize)
 
 ## GetNextImage(string, ImageFormat) {#getnextimage_13}
 
-Enregistre l'image dans un fichier avec le format d'image donné.
+Enregistre l'image dans le fichier avec le format d'image fourni.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format)
@@ -58,7 +58,7 @@ public void GetNextImage(string outputFile, ImageFormat format)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| outputFile | String | Le chemin et le nom du fichier pour enregistrer l'image. |
+| outputFile | String | Le chemin d'accès et le nom du fichier pour enregistrer l'image. |
 | format | ImageFormat | Le format de l'image. |
 
 ## Exemples
@@ -100,7 +100,7 @@ End While
 
 ## GetNextImage(string, PageSize, ImageFormat) {#getnextimage_11}
 
-Enregistre l'image dans un fichier avec la taille de page et le format d'image donnés.
+Enregistre l'image dans le fichier avec la taille de page donnée et le format d'image.
 
 ```csharp
 public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat format)
@@ -108,7 +108,7 @@ public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat forma
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| outputFile | String | Le chemin et le nom du fichier pour enregistrer l'image. |
+| outputFile | String | Le chemin d'accès et le nom du fichier pour enregistrer l'image. |
 | pageSize | PageSize | La taille de page de l'image. |
 | format | ImageFormat | Le format de l'image. |
 
@@ -123,7 +123,7 @@ public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat forma
 
 ## GetNextImage(Stream) {#getnextimage}
 
-Enregistre l'image dans un flux avec le format d'image par défaut - jpeg.
+Enregistre l'image dans le flux avec le format d'image par défaut - jpeg.
 
 ```csharp
 public void GetNextImage(Stream outputStream)
@@ -143,7 +143,7 @@ public void GetNextImage(Stream outputStream)
 
 ## GetNextImage(Stream, PageSize) {#getnextimage_1}
 
-Enregistre l'image dans un flux avec la taille de page donnée.
+Enregistre l'image dans le flux avec la taille de page spécifiée.
 
 ```csharp
 public void GetNextImage(Stream outputStream, PageSize pageSize)
@@ -165,7 +165,7 @@ public void GetNextImage(Stream outputStream, PageSize pageSize)
 
 ## GetNextImage(Stream, ImageFormat) {#getnextimage_4}
 
-Enregistre l'image dans un flux avec le format d'image donné.
+Enregistre l'image dans le flux avec le format d'image spécifié.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format)
@@ -186,7 +186,7 @@ public void GetNextImage(Stream outputStream, ImageFormat format)
 
 ## GetNextImage(Stream, PageSize, ImageFormat) {#getnextimage_2}
 
-Enregistre l'image dans un flux avec la taille de page donnée.
+Enregistre l'image dans le flux avec la taille de page spécifiée.
 
 ```csharp
 public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat format)
@@ -209,7 +209,7 @@ public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat for
 
 ## GetNextImage(string, ImageFormat, int, int, int) {#getnextimage_17}
 
-Enregistre l'image dans un fichier avec le format d'image, les dimensions et la qualité donnés.
+Enregistre l'image dans le fichier avec le format d'image donné, les dimensions et la qualité.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, int imageHeight, 
@@ -218,11 +218,11 @@ public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, 
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| outputFile | String | Le chemin et le nom du fichier pour enregistrer l'image. |
+| outputFile | String | Le chemin d'accès et le nom du fichier pour enregistrer l'image. |
 | format | ImageFormat | Le format de l'image. |
-| imageWidth | Int32 | La largeur de l'image, l'unité est le pixel. |
-| imageHeight | Int32 | La hauteur de l'image, l'unité est le pixel. |
-| quality | Int32 | La qualité du fichier Jpeg (0~100), 0 est le plus bas et 100 est le plus élevé |
+| imageWidth | Int32 | La largeur de l'image, l'unité est pixel. |
+| imageHeight | Int32 | La hauteur de l'image, l'unité est pixel. |
+| quality | Int32 | La qualité du fichier Jpeg (0~100), 0 est la plus basse et 100 est la plus élevée |
 
 ## Exemples
 
@@ -263,7 +263,7 @@ End While
 
 ## GetNextImage(Stream, ImageFormat, int, int, int) {#getnextimage_8}
 
-Enregistre l'image dans un flux avec le format d'image, les dimensions et la qualité donnés.
+Enregistre l'image dans le flux avec le format d'image donné, les dimensions et la qualité.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth, int imageHeight, 
@@ -274,9 +274,9 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth
 | --- | --- | --- |
 | outputStream | Stream | Le flux pour enregistrer l'image. |
 | format | ImageFormat | Le format de l'image. |
-| imageWidth | Int32 | La largeur de l'image, l'unité est le pixel. |
-| imageHeight | Int32 | La hauteur de l'image, l'unité est le pixel. |
-| quality | Int32 | La qualité du fichier Jpeg (0~100), 0 est le plus bas et 100 est le plus élevé |
+| imageWidth | Int32 | La largeur de l'image, l'unité est pixel. |
+| imageHeight | Int32 | La hauteur de l'image, l'unité est pixel. |
+| quality | Int32 | La qualité du fichier Jpeg (0~100), 0 est la plus basse et 100 est la plus élevée |
 
 ### Voir aussi
 
@@ -288,7 +288,7 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth
 
 ## GetNextImage(string, ImageFormat, double, double, int) {#getnextimage_14}
 
-Enregistre l'image dans un fichier avec le format d'image, la taille de l'image et la qualité donnés.
+Enregistre l'image dans le fichier avec le format d'image donné, la taille de l'image et la qualité.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format, double imageWidth, 
@@ -297,11 +297,11 @@ public void GetNextImage(string outputFile, ImageFormat format, double imageWidt
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| outputFile | String | Le chemin et le nom du fichier pour enregistrer l'image. |
+| outputFile | String | Le chemin d'accès et le nom du fichier pour enregistrer l'image. |
 | format | ImageFormat | Le format de l'image. |
-| imageWidth | Double | La largeur de l'image, l'unité est les pixels. |
-| imageHeight | Double | La hauteur de l'image, l'unité est les pixels. |
-| quality | Int32 | La qualité du fichier Jpeg (0~100), 0 est le plus bas et 100 est le plus élevé |
+| imageWidth | Double | La largeur de l'image, l'unité est pixels. |
+| imageHeight | Double | La hauteur de l'image, l'unité est pixels.. |
+| quality | Int32 | La qualité du fichier Jpeg (0~100), 0 est la plus basse et 100 est la plus élevée |
 
 ## Exemples
 
@@ -346,7 +346,7 @@ End While
 
 ## GetNextImage(Stream, ImageFormat, double, double, int) {#getnextimage_5}
 
-Enregistre l'image dans un flux avec le format d'image, la taille et la qualité donnés.
+Enregistre l'image dans le flux avec le format d'image donné, la taille et la qualité.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, double imageWidth, 
@@ -357,9 +357,9 @@ public void GetNextImage(Stream outputStream, ImageFormat format, double imageWi
 | --- | --- | --- |
 | outputStream | Stream | Le flux pour enregistrer l'image. |
 | format | ImageFormat | Le format de l'image. |
-| imageWidth | Double | La largeur de l'image, l'unité est le pixel. |
-| imageHeight | Double | La hauteur de l'image, l'unité est le pixel. |
-| quality | Int32 | La qualité du fichier Jpeg (0~100), 0 est le plus bas et 100 est le plus élevé |
+| imageWidth | Double | La largeur de l'image, l'unité est pixel. |
+| imageHeight | Double | La hauteur de l'image, l'unité est pixel. |
+| quality | Int32 | La qualité du fichier Jpeg (0~100), 0 est la plus basse et 100 est la plus élevée |
 
 ### Voir aussi
 
@@ -371,7 +371,7 @@ public void GetNextImage(Stream outputStream, ImageFormat format, double imageWi
 
 ## GetNextImage(string, ImageFormat, int, int) {#getnextimage_16}
 
-Enregistre l'image dans un fichier avec le format d'image et les dimensions donnés.
+Enregistre l'image dans le fichier avec le format d'image donné et les dimensions.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, int imageHeight)
@@ -379,10 +379,10 @@ public void GetNextImage(string outputFile, ImageFormat format, int imageWidth, 
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| outputFile | String | Le chemin et le nom du fichier pour enregistrer l'image. |
+| outputFile | String | Le chemin d'accès et le nom du fichier pour enregistrer l'image. |
 | format | ImageFormat | Le format de l'image. |
-| imageWidth | Int32 | La largeur de l'image, l'unité est le pixel. |
-| imageHeight | Int32 | La hauteur de l'image, l'unité est le pixel. |
+| imageWidth | Int32 | La largeur de l'image, l'unité est pixel. |
+| imageHeight | Int32 | La hauteur de l'image, l'unité est pixel. |
 
 ## Exemples
 
@@ -423,7 +423,7 @@ End While
 
 ## GetNextImage(Stream, ImageFormat, int, int) {#getnextimage_7}
 
-Enregistre l'image dans un flux avec le format d'image, la taille et la qualité donnés.
+Enregistre l'image dans le flux avec le format d'image donné, la taille et la qualité.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth, int imageHeight)
@@ -433,8 +433,8 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth
 | --- | --- | --- |
 | outputStream | Stream | Le flux pour enregistrer l'image. |
 | format | ImageFormat | Le format de l'image. |
-| imageWidth | Int32 | La largeur de l'image, l'unité est le pixel. |
-| imageHeight | Int32 | La hauteur de l'image, l'unité est le pixel. |
+| imageWidth | Int32 | La largeur de l'image, l'unité est pixel. |
+| imageHeight | Int32 | La hauteur de l'image, l'unité est pixel. |
 
 ### Voir aussi
 
@@ -446,7 +446,7 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int imageWidth
 
 ## GetNextImage(Stream, ImageFormat, int) {#getnextimage_6}
 
-Enregistre l'image dans un flux avec le format d'image et la qualité donnés.
+Enregistre l'image dans le flux avec le format d'image donné et la qualité.
 
 ```csharp
 public void GetNextImage(Stream outputStream, ImageFormat format, int quality)
@@ -456,7 +456,7 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int quality)
 | --- | --- | --- |
 | outputStream | Stream | Le flux pour enregistrer l'image. |
 | format | ImageFormat | Le format de l'image. |
-| quality | Int32 | La qualité du fichier Jpeg (0~100), 0 est le plus bas et 100 est le plus élevé |
+| quality | Int32 | La qualité du fichier Jpeg (0~100), 0 est la plus basse et 100 est la plus élevée |
 
 ### Voir aussi
 
@@ -468,7 +468,7 @@ public void GetNextImage(Stream outputStream, ImageFormat format, int quality)
 
 ## GetNextImage(Stream, PageSize, ImageFormat, int) {#getnextimage_3}
 
-Enregistre l'image dans un flux avec la taille de page, le format d'image et la qualité donnés.
+Enregistre l'image dans le flux avec la taille de page donnée, le format d'image et la qualité.
 
 ```csharp
 public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat format, int quality)
@@ -479,7 +479,7 @@ public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat for
 | outputStream | Stream | Le flux pour enregistrer l'image. |
 | pageSize | PageSize | La taille de page de l'image. |
 | format | ImageFormat | Le format de l'image. |
-| quality | Int32 | La qualité du fichier Jpeg (0~100), 0 est le plus bas et 100 est le plus élevé |
+| quality | Int32 | La qualité du fichier Jpeg (0~100), 0 est la plus basse et 100 est la plus élevée |
 
 ### Voir aussi
 
@@ -492,7 +492,7 @@ public void GetNextImage(Stream outputStream, PageSize pageSize, ImageFormat for
 
 ## GetNextImage(string, ImageFormat, int) {#getnextimage_15}
 
-Enregistre l'image dans un fichier avec le format d'image et la qualité donnés.
+Enregistre l'image dans le fichier avec le format d'image donné et la qualité.
 
 ```csharp
 public void GetNextImage(string outputFile, ImageFormat format, int quality)
@@ -500,9 +500,9 @@ public void GetNextImage(string outputFile, ImageFormat format, int quality)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| outputFile | String | Le chemin et le nom du fichier pour enregistrer l'image. |
+| outputFile | String | Le chemin d'accès et le nom du fichier pour enregistrer l'image. |
 | format | ImageFormat | Le format de l'image. |
-| quality | Int32 | La qualité du fichier Jpeg (0~100), 0 est le plus bas et 100 est le plus élevé |
+| quality | Int32 | La qualité du fichier Jpeg (0~100), 0 est la plus basse et 100 est la plus élevée |
 
 ### Voir aussi
 
@@ -514,7 +514,7 @@ public void GetNextImage(string outputFile, ImageFormat format, int quality)
 
 ## GetNextImage(string, PageSize, ImageFormat, int) {#getnextimage_12}
 
-Enregistre l'image dans un fichier avec la taille de page, le format d'image et la qualité donnés.
+Enregistre l'image dans le fichier avec la taille de page donnée, le format d'image et la qualité.
 
 ```csharp
 public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat format, int quality)
@@ -522,10 +522,10 @@ public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat forma
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| outputFile | String | Le chemin et le nom du fichier pour enregistrer l'image. |
+| outputFile | String | Le chemin d'accès et le nom du fichier pour enregistrer l'image. |
 | pageSize | PageSize | La taille de page de l'image. |
 | format | ImageFormat | Le format de l'image. |
-| quality | Int32 | La qualité du fichier Jpeg (0~100), 0 est le plus bas et 100 est le plus élevé |
+| quality | Int32 | La qualité du fichier Jpeg (0~100), 0 est la plus basse et 100 est la plus élevée |
 
 ### Voir aussi
 
@@ -533,3 +533,5 @@ public void GetNextImage(string outputFile, PageSize pageSize, ImageFormat forma
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

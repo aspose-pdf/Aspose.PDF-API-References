@@ -1,14 +1,14 @@
 ---
-title: AttributeName.LineHeight_Auto
-second_title: Aspose.PDF for .NET API Reference
-description: Champ AttributeName. Ajustement de l'attribut LineHeight Auto pour la valeur de BaselineShift ne doit pas être effectué
+title: "AttributeName.LineHeight_Auto"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "AttributeName field. Attribute LineHeight Auto  Aucun ajustement ne doit être effectué pour la valeur de BaselineShift"
 type: docs
 weight: 230
 url: /fr/net/aspose.pdf.logicalstructure/attributename/lineheight_auto/
 ---
-## Champ AttributeName.LineHeight_Auto
+## AttributeName.LineHeight_Auto field
 
-Attribut LineHeight : Auto - L'ajustement de la valeur de BaselineShift ne doit pas être effectué.
+Attribut LineHeight : Auto - Aucun ajustement de la valeur de BaselineShift ne doit être effectué.
 
 ```csharp
 public static readonly AttributeName LineHeight_Auto;
@@ -16,6 +16,8 @@ public static readonly AttributeName LineHeight_Auto;
 
 ### Voir aussi
 
-* classe [AttributeName](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

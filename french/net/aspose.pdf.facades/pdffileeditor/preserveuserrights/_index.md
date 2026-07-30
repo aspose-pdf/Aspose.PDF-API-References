@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.PreserveUserRights
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfFileEditor. Si vrai, les droits d'utilisateur du premier document sont appliqués au document concaténé. Les droits d'utilisateur de tous les autres documents sont ignorés.
+title: "PdfFileEditor.PreserveUserRights"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfFileEditor. Si true, les droits d'utilisateur du premier document sont appliqués au document concaténé. Les droits d'utilisateur de tous les autres documents sont ignorés."
 type: docs
 weight: 180
 url: /fr/net/aspose.pdf.facades/pdffileeditor/preserveuserrights/
 ---
-## Propriété PdfFileEditor.PreserveUserRights
+## PdfFileEditor.PreserveUserRights property
 
-Si vrai, les droits d'utilisateur du premier document sont appliqués au document concaténé. Les droits d'utilisateur de tous les autres documents sont ignorés.
+Si vrai, les droits utilisateur du premier document sont appliqués au document concaténé. Les droits utilisateur de tous les autres documents sont ignorés.
 
 ```csharp
 public bool PreserveUserRights { get; set; }
@@ -16,6 +16,8 @@ public bool PreserveUserRights { get; set; }
 
 ### Voir aussi
 
-* classe [PdfFileEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

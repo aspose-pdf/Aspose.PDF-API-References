@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.Reset
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TextFragmentAbsorber. Efface la collection TextFragments de cet objet TextFragmentAbsorber
+title: "TextFragmentAbsorber.Reset"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TextFragmentAbsorber. Vide la collection TextFragments de cet objet TextFragmentAbsorber"
 type: docs
 weight: 140
 url: /fr/net/aspose.pdf.text/textfragmentabsorber/reset/
 ---
-## Méthode TextFragmentAbsorber.Reset
+## TextFragmentAbsorber.Reset method
 
-Efface la collection TextFragments de cet objet [`TextFragmentAbsorber`](../).
+Vide la collection TextFragments de cet objet [`TextFragmentAbsorber`](../).
 
 ```csharp
 public void Reset()
@@ -16,6 +16,8 @@ public void Reset()
 
 ### Voir aussi
 
-* classe [TextFragmentAbsorber](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

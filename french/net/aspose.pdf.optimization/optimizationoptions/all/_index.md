@@ -1,14 +1,14 @@
 ---
-title: OptimizationOptions.All
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OptimizationOptions. Crée une stratégie d'optimisation avec toutes les options activées. Veuillez noter que seules les options activées qui ne changent aucune fonctionnalité du document. C'est-à-dire que la compression d'image et le désencastrement des polices ne seront pas activés et peuvent être intégrés manuellement.
+title: "OptimizationOptions.All"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OptimizationOptions method. Crée une stratégie d'optimisation avec toutes les options activées. Veuillez noter que seules les options qui ne modifient aucune fonctionnalité du document sont activées. Par exemple, la compression d'images et le désincorporation des polices ne seront pas activées et peuvent être incorporées manuellement."
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.optimization/optimizationoptions/all/
 ---
-## Méthode OptimizationOptions.All
+## OptimizationOptions.All method
 
-Crée une stratégie d'optimisation avec toutes les options activées. Veuillez noter que seules les options activées qui ne changent aucune fonctionnalité du document. C'est-à-dire que la compression d'image et le désencastrement des polices ne seront pas activés (et peuvent être intégrés manuellement).
+Crée une stratégie d'optimisation avec toutes les options activées. Veuillez noter que seules les options qui ne modifient aucune fonctionnalité du document sont activées. Par exemple, la compression d'image et le désincorporation des polices ne seront pas activées (et peuvent être incorporées manuellement).
 
 ```csharp
 public static OptimizationOptions All()
@@ -16,10 +16,12 @@ public static OptimizationOptions All()
 
 ### Valeur de retour
 
-Objet OptimizationOptions.
+OptimizationOptions object.
 
 ### Voir aussi
 
-* classe [OptimizationOptions](../)
-* espace de noms [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* class [OptimizationOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

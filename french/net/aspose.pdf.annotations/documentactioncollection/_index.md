@@ -1,14 +1,14 @@
 ---
-title: Class DocumentActionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.DocumentActionCollection. La classe décrit les actions effectuées sur certaines actions avec le document
+title: "Classe DocumentActionCollection"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.DocumentActionCollection class. La classe décrit les actions effectuées sur certaines actions avec le Document"
 type: docs
-weight: 1670
+weight: 1760
 url: /fr/net/aspose.pdf.annotations/documentactioncollection/
 ---
-## Classe DocumentActionCollection
+## DocumentActionCollection class
 
-La classe décrit les actions effectuées sur certaines actions avec le document
+Classe décrivant les actions effectuées sur certaines actions avec le document.
 
 ```csharp
 public sealed class DocumentActionCollection
@@ -24,13 +24,15 @@ public sealed class DocumentActionCollection
 
 | Nom | Description |
 | --- | --- |
-| [AfterPrinting](../../aspose.pdf.annotations/documentactioncollection/afterprinting/) { get; set; } | Action qui sera effectuée après l'impression du document. |
-| [AfterSaving](../../aspose.pdf.annotations/documentactioncollection/aftersaving/) { get; set; } | Obtient ou définit l'action qui sera effectuée après l'enregistrement du document. |
-| [BeforeClosing](../../aspose.pdf.annotations/documentactioncollection/beforeclosing/) { get; set; } | Obtient ou définit l'action qui sera effectuée avant la fermeture du document. |
-| [BeforePrinting](../../aspose.pdf.annotations/documentactioncollection/beforeprinting/) { get; set; } | Action qui sera effectuée avant l'impression du document. |
-| [BeforeSaving](../../aspose.pdf.annotations/documentactioncollection/beforesaving/) { get; set; } | Obtient ou définit l'action effectuée avant l'enregistrement du document. |
+| [AfterPrinting](../../aspose.pdf.annotations/documentactioncollection/afterprinting/) { get; set; } | Action qui sera exécutée après l'impression du Document. |
+| [AfterSaving](../../aspose.pdf.annotations/documentactioncollection/aftersaving/) { get; set; } | Obtient ou définit l'action qui sera exécutée après l'enregistrement du Document. |
+| [BeforeClosing](../../aspose.pdf.annotations/documentactioncollection/beforeclosing/) { get; set; } | Obtient ou définit l'action qui sera exécutée avant la fermeture du Document. |
+| [BeforePrinting](../../aspose.pdf.annotations/documentactioncollection/beforeprinting/) { get; set; } | Action qui sera exécutée avant l'impression du Document. |
+| [BeforeSaving](../../aspose.pdf.annotations/documentactioncollection/beforesaving/) { get; set; } | Obtient ou définit l'action exécutée avant l'enregistrement du Document. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

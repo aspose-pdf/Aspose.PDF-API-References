@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.PosUpperRight
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PdfFileStamp. Position supérieure droite
+title: "PdfFileStamp.PosUpperRight"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PdfFileStamp champ. Position supérieure droite"
 type: docs
 weight: 240
 url: /fr/net/aspose.pdf.facades/pdffilestamp/posupperright/
 ---
-## Champ PdfFileStamp.PosUpperRight
+## PdfFileStamp.PosUpperRight field
 
-Position supérieure droite.
+Position en haut à droite.
 
 ```csharp
 public const int PosUpperRight;
@@ -16,6 +16,8 @@ public const int PosUpperRight;
 
 ### Voir aussi
 
-* classe [PdfFileStamp](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

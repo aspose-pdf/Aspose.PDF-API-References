@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.PickTrayByPDFSize
-second_title: Aspose.PDF for .NET API Reference
-description: Champ ViewerPreference. Utilisez la taille de page PDF pour sélectionner le bac à papier d'entrée
+title: "ViewerPreference.PickTrayByPDFSize"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ ViewerPreference. Utiliser la taille de la page PDF pour sélectionner le bac d'entrée du papier"
 type: docs
 weight: 260
 url: /fr/net/aspose.pdf.facades/viewerpreference/picktraybypdfsize/
 ---
-## Champ ViewerPreference.PickTrayByPDFSize
+## ViewerPreference.PickTrayByPDFSize field
 
-Utilisez la taille de page PDF pour sélectionner le bac à papier d'entrée.
+Utilisez la taille de page PDF pour sélectionner le bac d'alimentation du papier.
 
 ```csharp
 public const int PickTrayByPDFSize;
@@ -16,6 +16,8 @@ public const int PickTrayByPDFSize;
 
 ### Voir aussi
 
-* classe [ViewerPreference](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

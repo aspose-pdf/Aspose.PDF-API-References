@@ -1,14 +1,14 @@
 ---
-title: Class GraphicState
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Vector.GraphicState. Représente l'état graphique de l'élément graphique actuel
+title: "Classe GraphicState"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Vector.GraphicState classe. Représente l'état graphique du GraphicElement actuel"
 type: docs
-weight: 11200
+weight: 11390
 url: /fr/net/aspose.pdf.vector/graphicstate/
 ---
-## Classe GraphicState
+## GraphicState class
 
-Représente l'état graphique de l'élément [`GraphicElement`](../graphicelement/) actuel.
+Représente l'état graphique du [`GraphicElement`](../graphicelement/) actuel.
 
 ```csharp
 public class GraphicState
@@ -24,5 +24,7 @@ public class GraphicState
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Vector](../../aspose.pdf.vector/)
+* namespace [Aspose.Pdf.Vector](../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../)
+
+

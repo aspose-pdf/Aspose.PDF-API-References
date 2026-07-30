@@ -1,12 +1,12 @@
 ---
-title: Form.GetFieldFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Form. Renvoie les indicateurs du champ
+title: "Form.GetFieldFlag"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Form. Retourne les indicateurs du champ"
 type: docs
 weight: 220
 url: /fr/net/aspose.pdf.facades/form/getfieldflag/
 ---
-## Méthode Form.GetFieldFlag
+## Form.GetFieldFlag method
 
 Renvoie les indicateurs du champ.
 
@@ -20,7 +20,7 @@ public PropertyFlag GetFieldFlag(string fieldName)
 
 ### Valeur de retour
 
-Indicateur de propriété (Lecture seule / Requis / Pas d'exportation
+Indicateur de propriété (ReadOnly/ Required/NoExport
 
 ## Exemples
 
@@ -38,3 +38,5 @@ if (form.GetFieldFlag("textField") == PropertyFlag.ReadOnly)
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

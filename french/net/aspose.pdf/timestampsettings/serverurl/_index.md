@@ -1,14 +1,14 @@
 ---
-title: TimestampSettings.ServerUrl
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TimestampSettings. Obtient/définit l'URL du serveur de timestamp
+title: "TimestampSettings.ServerUrl"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TimestampSettings. Obtient/definit l'URL du serveur de timestamp."
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/timestampsettings/serverurl/
 ---
-## Propriété TimestampSettings.ServerUrl
+## TimestampSettings.ServerUrl property
 
-Obtient/définit l'URL du serveur de timestamp.
+Obtient/définit l'URL du serveur d'horodatage.
 
 ```csharp
 public string ServerUrl { get; set; }
@@ -16,6 +16,8 @@ public string ServerUrl { get; set; }
 
 ### Voir aussi
 
-* classe [TimestampSettings](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [TimestampSettings](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

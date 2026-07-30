@@ -1,14 +1,14 @@
 ---
-title: PptxSaveOptions.SlidesAsImages
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PptxSaveOptions. Si elle est définie sur true, tout le contenu est reconnu comme des images, une par page
+title: "PptxSaveOptions.SlidesAsImages"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PptxSaveOptions. Si définie sur true, tout le contenu est reconnu comme des images, une par page"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf/pptxsaveoptions/slidesasimages/
 ---
-## Propriété PptxSaveOptions.SlidesAsImages
+## PptxSaveOptions.SlidesAsImages property
 
-Si elle est définie sur true, tout le contenu est reconnu comme des images (une par page)
+Si défini sur true, tout le contenu est reconnu comme des images (une par page)
 
 ```csharp
 public bool SlidesAsImages { get; set; }
@@ -16,6 +16,8 @@ public bool SlidesAsImages { get; set; }
 
 ### Voir aussi
 
-* classe [PptxSaveOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PptxSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

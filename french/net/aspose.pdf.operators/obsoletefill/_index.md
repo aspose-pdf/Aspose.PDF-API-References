@@ -1,14 +1,14 @@
 ---
-title: Class ObsoleteFill
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.ObsoleteFill. Classe représentant l'opérateur F remplissant le chemin en utilisant la règle de winding non nulle
+title: "Classe ObsoleteFill"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.ObsoleteFill classe. Classe représentant l'opérateur F remplissant le chemin en utilisant la règle de remplissage non nulle"
 type: docs
-weight: 7530
+weight: 7670
 url: /fr/net/aspose.pdf.operators/obsoletefill/
 ---
-## Classe ObsoleteFill
+## ObsoleteFill class
 
-Classe représentant l'opérateur F (remplir le chemin en utilisant la règle de winding non nulle).
+Classe représentant l'opérateur F (remplir le chemin en utilisant la règle du nombre de tours non nul).
 
 ```csharp
 public class ObsoleteFill : Operator
@@ -30,12 +30,14 @@ public class ObsoleteFill : Operator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/obsoletefill/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Renvoie le texte de l'opérateur et de ses paramètres. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| override [Accept](../../aspose.pdf.operators/obsoletefill/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Renvoie le texte de l'opérateur et ses paramètres. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [Operator](../../aspose.pdf/operator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

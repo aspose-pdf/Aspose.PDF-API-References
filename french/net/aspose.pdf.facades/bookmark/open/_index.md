@@ -1,12 +1,12 @@
 ---
-title: Bookmark.Open
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de signet. Obtient ou définit l'état du signet ouvert ou fermé
+title: "Bookmark.Open"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Bookmark. Obtient ou définit l'état du signet ouvert ou fermé"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.facades/bookmark/open/
 ---
-## Propriété Bookmark.Open
+## Bookmark.Open property
 
 Obtient ou définit l'état du signet (ouvert, fermé).
 
@@ -16,6 +16,8 @@ public bool Open { get; set; }
 
 ### Voir aussi
 
-* classe [Bookmark](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TextFragmentState.ApplyChangesFrom
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TextFragmentState. Applique les paramètres d'un autre textState
+title: "TextFragmentState.ApplyChangesFrom"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TextFragmentState. Applique les paramètres d'un autre textState"
 type: docs
 weight: 240
 url: /fr/net/aspose.pdf.text/textfragmentstate/applychangesfrom/
 ---
-## Méthode TextFragmentState.ApplyChangesFrom
+## TextFragmentState.ApplyChangesFrom method
 
 Applique les paramètres d'un autre textState.
 
@@ -24,7 +24,9 @@ Seules les propriétés qui ont été modifiées explicitement seront copiées.
 
 ### Voir aussi
 
-* classe [TextState](../../textstate/)
-* classe [TextFragmentState](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextState](../../textstate/)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

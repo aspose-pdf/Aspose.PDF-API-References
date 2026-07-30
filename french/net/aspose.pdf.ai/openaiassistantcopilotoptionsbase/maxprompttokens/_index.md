@@ -1,14 +1,14 @@
 ---
-title: OpenAIAssistantCopilotOptionsBase.MaxPromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OpenAIAssistantCopilotOptionsBase. Obtient ou définit le nombre maximum de jetons d'invite qui peuvent être utilisés au cours de l'exécution
+title: "OpenAIAssistantCopilotOptionsBase.MaxPromptTokens"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OpenAIAssistantCopilotOptionsBase propriété. Obtient ou définit le nombre maximal de jetons d'invite qui peuvent être utilisés au cours de l'exécution"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/maxprompttokens/
 ---
-## Propriété OpenAIAssistantCopilotOptionsBase.MaxPromptTokens
+## OpenAIAssistantCopilotOptionsBase.MaxPromptTokens property
 
-Obtient ou définit le nombre maximum de jetons d'invite qui peuvent être utilisés au cours de l'exécution.
+Obtient ou définit le nombre maximal de jetons d'invite pouvant être utilisés au cours de l'exécution.
 
 ```csharp
 public int? MaxPromptTokens { get; set; }
@@ -16,6 +16,8 @@ public int? MaxPromptTokens { get; set; }
 
 ### Voir aussi
 
-* classe [OpenAIAssistantCopilotOptionsBase](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIAssistantCopilotOptionsBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

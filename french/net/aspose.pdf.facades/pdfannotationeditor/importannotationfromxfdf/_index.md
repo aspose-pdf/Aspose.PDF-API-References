@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.ImportAnnotationFromXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfAnnotationEditor. Importe les annotations spécifiées à partir du fichier XFDF
+title: "PdfAnnotationEditor.ImportAnnotationFromXfdf"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfAnnotationEditor. Importe les annotations spécifiées depuis le fichier XFDF"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.facades/pdfannotationeditor/importannotationfromxfdf/
 ---
 ## ImportAnnotationFromXfdf(string, AnnotationType[]) {#importannotationfromxfdf_3}
 
-Importe les annotations spécifiées à partir du fichier XFDF.
+Importe les annotations spécifiées depuis le fichier XFDF.
 
 ```csharp
 public void ImportAnnotationFromXfdf(string xfdfFile, AnnotationType[] annotType)
@@ -40,7 +40,7 @@ editor.Save("example_out.pdf");
 
 ## ImportAnnotationFromXfdf(Stream, AnnotationType[]) {#importannotationfromxfdf_1}
 
-Importe les annotations spécifiées à partir du flux de données XFDF.
+Importe les annotations spécifiées depuis le flux de données XFDF.
 
 ```csharp
 public void ImportAnnotationFromXfdf(Stream xfdfStream, AnnotationType[] annotType)
@@ -49,7 +49,7 @@ public void ImportAnnotationFromXfdf(Stream xfdfStream, AnnotationType[] annotTy
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | xfdfStream | Stream | Le flux de données XFDF d'entrée. |
-| annotType | AnnotationType[] | Le tableau des types d'annotations à importer. |
+| annotType | AnnotationType[] | Le tableau des types d'annotation à importer. |
 
 ## Exemples
 
@@ -67,3 +67,5 @@ editor.Save("example_out.pdf");
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

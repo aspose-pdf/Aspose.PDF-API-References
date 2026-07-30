@@ -1,12 +1,12 @@
 ---
-title: Color.OliveDrab
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de couleur. Obtient une couleur définie par le système qui a une valeur ARGB de c FF6B8E23
+title: "Color.OliveDrab"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Color. Obtient une couleur système définie qui possède une valeur ARGB de c FF6B8E23"
 type: docs
 weight: 1000
 url: /fr/net/aspose.pdf/color/olivedrab/
 ---
-## Propriété Color.OliveDrab
+## Color.OliveDrab property
 
 Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FF6B8E23.
 
@@ -16,10 +16,12 @@ public static Color OliveDrab { get; }
 
 ### Valeur de retour
 
-Une représentation d'une couleur définie par le système.
+A représentant une couleur définie par le système.
 
 ### Voir aussi
 
-* classe [Color](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

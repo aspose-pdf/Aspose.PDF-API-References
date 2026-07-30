@@ -1,12 +1,12 @@
 ---
-title: SetCharWidthBoundingBox.Urx
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SetCharWidthBoundingBox. Coordonnée horizontale supérieure droite du rectangle englobant
+title: "SetCharWidthBoundingBox.Urx"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété SetCharWidthBoundingBox. Coordonnée horizontale supérieure droite du rectangle de délimitation"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.operators/setcharwidthboundingbox/urx/
 ---
-## Propriété SetCharWidthBoundingBox.Urx
+## SetCharWidthBoundingBox.Urx property
 
 Coordonnée horizontale supérieure droite du rectangle englobant.
 
@@ -16,6 +16,8 @@ public double Urx { get; }
 
 ### Voir aussi
 
-* classe [SetCharWidthBoundingBox](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetCharWidthBoundingBox](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

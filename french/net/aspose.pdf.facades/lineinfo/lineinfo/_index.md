@@ -1,12 +1,12 @@
 ---
-title: LineInfo.LineInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur LineInfo. Le constructeur par défaut
+title: "LineInfo.LineInfo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur LineInfo. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.facades/lineinfo/lineinfo/
 ---
-## Constructeur LineInfo
+## LineInfo constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public LineInfo()
 
 ### Voir aussi
 
-* classe [LineInfo](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [LineInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

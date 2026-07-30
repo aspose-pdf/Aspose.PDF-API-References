@@ -1,12 +1,12 @@
 ---
-title: ThreadModifyRequest.ThreadModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de ThreadModifyRequest. Le constructeur par défaut
+title: "ThreadModifyRequest.ThreadModifyRequest"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur ThreadModifyRequest. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/threadmodifyrequest/threadmodifyrequest/
 ---
-## Constructeur de ThreadModifyRequest
+## ThreadModifyRequest constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public ThreadModifyRequest()
 
 ### Voir aussi
 
-* classe [ThreadModifyRequest](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ThreadModifyRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

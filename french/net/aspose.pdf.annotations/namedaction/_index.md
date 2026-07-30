@@ -1,12 +1,12 @@
 ---
-title: Class NamedAction
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.NamedAction. Représente des actions nommées que les applications de visualisation PDF sont censées prendre en charge
+title: "Classe NamedAction"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.NamedAction class. Représente les actions nommées que les applications de visualisation PDF sont censées prendre en charge."
 type: docs
-weight: 2120
+weight: 2210
 url: /fr/net/aspose.pdf.annotations/namedaction/
 ---
-## Classe NamedAction
+## NamedAction class
 
 Représente des actions nommées que les applications de visualisation PDF sont censées prendre en charge.
 
@@ -35,6 +35,8 @@ public sealed class NamedAction : PdfAction
 
 ### Voir aussi
 
-* classe [PdfAction](../pdfaction/)
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* class [PdfAction](../pdfaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

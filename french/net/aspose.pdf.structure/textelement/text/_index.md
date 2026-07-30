@@ -1,14 +1,14 @@
 ---
-title: TextElement.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextElement. Obtient la valeur de l'élément de structure de texte
+title: "TextElement.Text"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextElement. Obtient la valeur de l'élément de structure texte"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.structure/textelement/text/
 ---
-## Propriété TextElement.Text
+## TextElement.Text property
 
-Obtient la valeur de l'élément de structure de texte.
+Obtient la valeur de l'élément de structure texte.
 
 ```csharp
 public string Text { get; }
@@ -16,6 +16,8 @@ public string Text { get; }
 
 ### Voir aussi
 
-* classe [TextElement](../)
-* espace de noms [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* class [TextElement](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../../)
+
+

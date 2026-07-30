@@ -1,12 +1,12 @@
 ---
-title: FontCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FontCollection. Obtient une valeur indiquant si la collection est en lecture seule
+title: "FontCollection.IsReadOnly"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FontCollection. Obtient une valeur indiquant si la collection est en lecture seule"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.text/fontcollection/isreadonly/
 ---
-## Propriété FontCollection.IsReadOnly
+## FontCollection.IsReadOnly property
 
 Obtient une valeur indiquant si la collection est en lecture seule
 
@@ -16,6 +16,8 @@ public bool IsReadOnly { get; }
 
 ### Voir aussi
 
-* classe [FontCollection](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

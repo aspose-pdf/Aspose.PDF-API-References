@@ -1,12 +1,12 @@
 ---
-title: Enum TabAlignmentType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum TabAlignmentType d'Aspose.Pdf.Text. Énumère les types d'alignement des tabulations
+title: "Énumération TabAlignmentType"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Text.TabAlignmentType enum. Énumère les types d'alignement d'onglet"
 type: docs
-weight: 10750
+weight: 10930
 url: /fr/net/aspose.pdf.text/tabalignmenttype/
 ---
-## Énumération TabAlignmentType
+## TabAlignmentType enumeration
 
 Énumère les types d'alignement des tabulations.
 
@@ -18,11 +18,13 @@ public enum TabAlignmentType
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| Gauche | `0` | Texte aligné à gauche du point de tabulation |
-| Centre | `1` | Texte aligné au centre du point de tabulation |
-| Droite | `2` | Texte aligné à droite du point de tabulation |
+| Left | `0` | Texte aligné à gauche depuis la tabulation |
+| Center | `1` | Texte aligné au centre depuis la tabulation |
+| Right | `2` | Texte aligné à droite depuis la tabulation |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

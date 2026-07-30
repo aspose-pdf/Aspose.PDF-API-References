@@ -1,14 +1,14 @@
 ---
-title: Artifact.BeginUpdates
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Artifact. Commencer les mises à jour différées. Utilisez cette fonctionnalité si vous devez apporter plusieurs modifications au même artefact pour améliorer les performances. En général, les opérateurs d'artefact sont modifiés chaque fois qu'une propriété d'artefact est changée. Cela entraîne un changement du contenu de la page chaque fois que l'artefact est modifié. Pour éviter cet effet, placez toutes les mises à jour d'artefact entre les appels StartUpdates/SaveUpdates. Cela permet de changer le contenu de la page une seule fois.
+title: "Artifact.BeginUpdates"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Artifact. Démarrer les mises à jour différées. Utilisez cette fonctionnalité si vous devez effectuer plusieurs modifications du même artifact afin d'améliorer les performances. Habituellement, les opérateurs d'artifact sont modifiés à tout moment lorsqu'une propriété d'artifact a été modifiée. Cela entraîne la modification du contenu de la page chaque fois que l'artifact est modifié. Pour éviter cet effet, placez toutes les mises à jour d'artifact entre les appels StartUpdates/SaveUpdates. Cela permet de modifier le contenu de la page une seule fois"
 type: docs
 weight: 230
 url: /fr/net/aspose.pdf/artifact/beginupdates/
 ---
-## Méthode Artifact.BeginUpdates
+## Artifact.BeginUpdates method
 
-Commencer les mises à jour différées. Utilisez cette fonctionnalité si vous devez apporter plusieurs modifications au même artefact pour améliorer les performances. En général, les opérateurs d'artefact sont modifiés chaque fois qu'une propriété d'artefact est changée. Cela entraîne un changement du contenu de la page chaque fois que l'artefact est modifié. Pour éviter cet effet, placez toutes les mises à jour d'artefact entre les appels StartUpdates/SaveUpdates. Cela permet de changer le contenu de la page une seule fois.
+Démarrer les mises à jour différées. Utilisez cette fonctionnalité si vous devez effectuer plusieurs modifications du même artefact afin d'améliorer les performances. Généralement, les opérateurs d'artefact sont modifiés chaque fois qu'une propriété d'artefact a été modifiée. Cela entraîne la modification du contenu de la page à chaque modification de l'artefact. Pour éviter cet effet, placez toutes les mises à jour d'artefact entre les appels StartUpdates/SaveUpdates. Cela permet de modifier le contenu de la page une seule fois.
 
 ```csharp
 public void BeginUpdates()
@@ -27,6 +27,8 @@ art.SaveUpdates();
 
 ### Voir aussi
 
-* classe [Artifact](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

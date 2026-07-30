@@ -1,12 +1,12 @@
 ---
-title: PDF3DAnnotation.SetDefaultViewIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PDF3DAnnotation. Définit l'index de la vue par défaut
+title: "PDF3DAnnotation.SetDefaultViewIndex"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PDF3DAnnotation. Définit l'index de la vue par défaut"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf.annotations/pdf3dannotation/setdefaultviewindex/
 ---
-## Méthode PDF3DAnnotation.SetDefaultViewIndex
+## PDF3DAnnotation.SetDefaultViewIndex method
 
 Définit l'index de la vue par défaut.
 
@@ -20,6 +20,8 @@ public void SetDefaultViewIndex(int index)
 
 ### Voir aussi
 
-* classe [PDF3DAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

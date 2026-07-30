@@ -1,7 +1,7 @@
 ---
-title: DateField.DateField
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de DateField. Initialise une nouvelle instance de DateField
+title: "DateField.DateField"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur DateField. Initialise une nouvelle instance de DateField"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.forms/datefield/datefield/
@@ -16,8 +16,8 @@ public DateField()
 
 ### Voir aussi
 
-* classe [DateField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [DateField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -36,9 +36,9 @@ public DateField(Document doc)
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [DateField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Document](../../../aspose.pdf/document/)
+* class [DateField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -54,14 +54,14 @@ public DateField(Page page, Rectangle rect)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | page | Page | Page nécessaire pour créer. |
-| rect | Rectangle | Rectangle où le champ de texte sera placé sur la page. |
+| rect | Rectangle | Rectangle où le champ texte sera placé sur la page. |
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [DateField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [DateField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -81,8 +81,10 @@ public DateField(Document doc, Rectangle rect)
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [DateField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [DateField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

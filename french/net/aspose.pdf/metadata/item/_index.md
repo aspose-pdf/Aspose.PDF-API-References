@@ -1,14 +1,14 @@
 ---
-title: Metadata.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de métadonnées. Obtient ou définit des données provenant des métadonnées
+title: "Metadata.Item"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Metadata. Obtient ou définit les données des métadonnées"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf/metadata/item/
 ---
-## Indexeur de métadonnées
+## Metadata indexer
 
-Obtient ou définit des données provenant des métadonnées.
+Obtient ou définit les données provenant des métadonnées.
 
 ```csharp
 public XmpValue this[string key] { get; set; }
@@ -20,11 +20,13 @@ public XmpValue this[string key] { get; set; }
 
 ### Valeur de retour
 
-Objet de métadonnées.
+Objet Metadata.
 
 ### Voir aussi
 
-* classe [XmpValue](../../xmpvalue/)
-* classe [Metadata](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Error.Code
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété d'erreur. Obtient ou définit le code d'erreur
+title: "Error.Code"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Error propriété. Obtient ou définit le code d'erreur"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.ai/error/code/
 ---
-## Propriété Erreur.Code
+## Error.Code property
 
 Obtient ou définit le code d'erreur.
 
@@ -16,6 +16,8 @@ public string Code { get; set; }
 
 ### Voir aussi
 
-* classe [Erreur](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Error](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

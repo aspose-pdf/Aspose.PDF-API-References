@@ -1,14 +1,14 @@
 ---
-title: Image.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Image. Cloner l'image
+title: "Image.Clone"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Image. Clone l'image"
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf/image/clone/
 ---
-## Méthode Image.Clone
+## Image.Clone method
 
-Cloner l'image.
+Clone l'image.
 
 ```csharp
 public override object Clone()
@@ -20,6 +20,8 @@ L'objet cloné
 
 ### Voir aussi
 
-* classe [Image](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

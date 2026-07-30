@@ -1,12 +1,12 @@
 ---
-title: Document.RemovePdfaCompliance
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Document. Supprimer la conformité pdfa du document
+title: "Document.RemovePdfaCompliance"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Document. Supprime la conformité pdfa du document"
 type: docs
-weight: 800
+weight: 820
 url: /fr/net/aspose.pdf/document/removepdfacompliance/
 ---
-## Méthode Document.RemovePdfaCompliance
+## Document.RemovePdfaCompliance method
 
 Supprimer la conformité pdfa du document
 
@@ -16,6 +16,8 @@ public void RemovePdfaCompliance()
 
 ### Voir aussi
 
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

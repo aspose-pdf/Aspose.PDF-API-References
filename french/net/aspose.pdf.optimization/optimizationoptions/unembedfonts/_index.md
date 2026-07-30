@@ -1,14 +1,14 @@
 ---
-title: OptimizationOptions.UnembedFonts
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OptimizationOptions. Ne pas intégrer les polices si défini sur true
+title: "OptimizationOptions.UnembedFonts"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OptimizationOptions property. Ne pas incorporer les polices si la valeur est true."
 type: docs
-weight: 140
+weight: 130
 url: /fr/net/aspose.pdf.optimization/optimizationoptions/unembedfonts/
 ---
-## Propriété OptimizationOptions.UnembedFonts
+## OptimizationOptions.UnembedFonts property
 
-Ne pas intégrer les polices si défini sur true.
+Ne pas incorporer les polices si réglé sur true.
 
 ```csharp
 public bool UnembedFonts { get; set; }
@@ -16,6 +16,8 @@ public bool UnembedFonts { get; set; }
 
 ### Voir aussi
 
-* classe [OptimizationOptions](../)
-* espace de noms [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* class [OptimizationOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

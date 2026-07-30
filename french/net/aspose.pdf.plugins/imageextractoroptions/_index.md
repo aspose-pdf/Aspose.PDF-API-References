@@ -1,12 +1,12 @@
 ---
-title: Class ImageExtractorOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.ImageExtractorOptions. Représente les options d'extraction d'images pour le plugin ImageExtractor
+title: "Classe ImageExtractorOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Plugins.ImageExtractorOptions class. Représente les options d'extraction d'images pour le plugin ImageExtractor."
 type: docs
-weight: 8900
+weight: 9030
 url: /fr/net/aspose.pdf.plugins/imageextractoroptions/
 ---
-## Classe ImageExtractorOptions
+## ImageExtractorOptions class
 
 Représente les options d'extraction d'images pour le plugin ImageExtractor.
 
@@ -35,10 +35,12 @@ public sealed class ImageExtractorOptions : PdfExtractorOptions
 
 ## Remarques
 
-Il hérite des fonctions pour ajouter des données (fichiers, flux) représentant des documents PDF d'entrée.
+Il hérite des fonctions pour ajouter des données (fichiers, flux) représentant les documents PDF d'entrée.
 
 ### Voir aussi
 
-* classe [PdfExtractorOptions](../pdfextractoroptions/)
-* espace de noms [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* class [PdfExtractorOptions](../pdfextractoroptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

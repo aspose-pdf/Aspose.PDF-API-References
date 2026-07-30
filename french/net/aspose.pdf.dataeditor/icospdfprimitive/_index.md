@@ -1,12 +1,12 @@
 ---
-title: Interface ICosPdfPrimitive
-second_title: Aspose.PDF for .NET API Reference
-description: Interface Aspose.Pdf.DataEditor.ICosPdfPrimitive. Interface pour travailler avec l'entité de données PDF
+title: "Interface ICosPdfPrimitive"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.DataEditor.ICosPdfPrimitive interface. Interface pour travailler avec l'entité de données PDF"
 type: docs
-weight: 3480
+weight: 3600
 url: /fr/net/aspose.pdf.dataeditor/icospdfprimitive/
 ---
-## Interface ICosPdfPrimitive
+## ICosPdfPrimitive interface
 
 Interface pour travailler avec l'entité de données PDF
 
@@ -18,14 +18,16 @@ public interface ICosPdfPrimitive
 
 | Nom | Description |
 | --- | --- |
-| [ToCosPdfBoolean](../../aspose.pdf.dataeditor/icospdfprimitive/tocospdfboolean/)() | Essaie de convertir cette instance en [`CosPdfBoolean`](../cospdfboolean/). |
-| [ToCosPdfDictionary](../../aspose.pdf.dataeditor/icospdfprimitive/tocospdfdictionary/)() | Essaie de convertir cette instance en [`CosPdfDictionary`](../cospdfdictionary/). |
-| [ToCosPdfName](../../aspose.pdf.dataeditor/icospdfprimitive/tocospdfname/)() | Essaie de convertir cette instance en [`CosPdfName`](../cospdfname/). |
-| [ToCosPdfNumber](../../aspose.pdf.dataeditor/icospdfprimitive/tocospdfnumber/)() | Essaie de convertir cette instance en [`CosPdfNumber`](../cospdfnumber/). |
-| [ToCosPdfString](../../aspose.pdf.dataeditor/icospdfprimitive/tocospdfstring/)() | Essaie de convertir cette instance en [`CosPdfString`](../cospdfstring/). |
+| [ToCosPdfBoolean](../../aspose.pdf.dataeditor/icospdfprimitive/tocospdfboolean/)() | Tente de convertir cette instance en [`CosPdfBoolean`](../cospdfboolean/). |
+| [ToCosPdfDictionary](../../aspose.pdf.dataeditor/icospdfprimitive/tocospdfdictionary/)() | Tente de convertir cette instance en [`CosPdfDictionary`](../cospdfdictionary/). |
+| [ToCosPdfName](../../aspose.pdf.dataeditor/icospdfprimitive/tocospdfname/)() | Tente de convertir cette instance en [`CosPdfName`](../cospdfname/). |
+| [ToCosPdfNumber](../../aspose.pdf.dataeditor/icospdfprimitive/tocospdfnumber/)() | Tente de convertir cette instance en [`CosPdfNumber`](../cospdfnumber/). |
+| [ToCosPdfString](../../aspose.pdf.dataeditor/icospdfprimitive/tocospdfstring/)() | Tente de convertir cette instance en [`CosPdfString`](../cospdfstring/). |
 | [ToString](../../aspose.pdf.dataeditor/icospdfprimitive/tostring/)() | Représentation sous forme de chaîne de l'instance `ICosPdfPrimitive`. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
+* namespace [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../)
+
+

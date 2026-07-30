@@ -1,12 +1,12 @@
 ---
-title: Class Do
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.Do. Classe représentant l'opérateur Do Invoke XObject
+title: "Classe Do"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.Do classe. Classe représentant l'opérateur Do Invoquer XObject"
 type: docs
-weight: 7280
+weight: 7420
 url: /fr/net/aspose.pdf.operators/do/
 ---
-## Classe Do
+## Do class
 
 Classe représentant l'opérateur Do (Invoke XObject).
 
@@ -18,7 +18,7 @@ public class Do : Operator
 
 | Nom | Description |
 | --- | --- |
-| [Do](do/#constructor)() | Construit un nouvel opérateur Do. Utilisé pour récupérer tous les opérateurs Do, c'est-à-dire sans vérifier leurs noms d'argument. |
+| [Do](do/#constructor)() | Construit un nouvel opérateur Do. Utilisé pour récupérer tous les opérateurs Do, c.-à-d. sans vérifier leurs noms d'argument. |
 | [Do](do/#constructor_1)(string) | Construit un nouvel opérateur Do. |
 
 ## Propriétés
@@ -32,12 +32,14 @@ public class Do : Operator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/do/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/do/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf.operators/do/tostring/)() | Renvoie la représentation textuelle de l'opérateur. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [Operator](../../aspose.pdf/operator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

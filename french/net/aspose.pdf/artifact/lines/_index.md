@@ -1,14 +1,14 @@
 ---
-title: Artifact.Lines
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Artifact. Lignes de l'artéfact de texte multiligne
+title: "Artifact.Lines"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Artifact. Lignes de l'artifact texte multiligne"
 type: docs
 weight: 120
 url: /fr/net/aspose.pdf/artifact/lines/
 ---
-## Propriété Artifact.Lines
+## Artifact.Lines property
 
-Lignes de l'artéfact de texte multiligne.
+Lignes de l'artefact texte multiligne.
 
 ```csharp
 public List<string> Lines { get; }
@@ -16,6 +16,8 @@ public List<string> Lines { get; }
 
 ### Voir aussi
 
-* classe [Artifact](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

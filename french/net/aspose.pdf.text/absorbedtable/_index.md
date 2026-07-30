@@ -1,14 +1,14 @@
 ---
-title: Class AbsorbedTable
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Text.AbsorbedTable. Représente une table qui existe sur la page
+title: "Classe AbsorbedTable"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Text.AbsorbedTable. Représente un tableau qui existe sur la page"
 type: docs
-weight: 10430
+weight: 10610
 url: /fr/net/aspose.pdf.text/absorbedtable/
 ---
-## Classe AbsorbedTable
+## AbsorbedTable class
 
-Représente une table qui existe sur la page
+Représente un tableau qui existe sur la page
 
 ```csharp
 public class AbsorbedTable : IComparable<AbsorbedTable>, ITableElement
@@ -18,9 +18,9 @@ public class AbsorbedTable : IComparable<AbsorbedTable>, ITableElement
 
 | Nom | Description |
 | --- | --- |
-| [PageNum](../../aspose.pdf.text/absorbedtable/pagenum/) { get; } | Obtient le numéro de la page contenant cette table |
-| [Rectangle](../../aspose.pdf.text/absorbedtable/rectangle/) { get; } | Obtient le rectangle qui décrit la position de la table sur la page |
-| [RowList](../../aspose.pdf.text/absorbedtable/rowlist/) { get; } | Obtient une IList en lecture seule contenant les lignes de la table |
+| [PageNum](../../aspose.pdf.text/absorbedtable/pagenum/) { get; } | Obtient le numéro de la page contenant ce tableau |
+| [Rectangle](../../aspose.pdf.text/absorbedtable/rectangle/) { get; } | Obtient le rectangle qui décrit la position du tableau sur la page |
+| [RowList](../../aspose.pdf.text/absorbedtable/rowlist/) { get; } | Obtient la IList en lecture seule contenant les lignes du tableau |
 
 ## Méthodes
 
@@ -33,3 +33,5 @@ public class AbsorbedTable : IComparable<AbsorbedTable>, ITableElement
 * interface [ITableElement](../itableelement/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

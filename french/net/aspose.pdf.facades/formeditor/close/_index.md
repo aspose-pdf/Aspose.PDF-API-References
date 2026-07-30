@@ -1,12 +1,12 @@
 ---
-title: FormEditor.Close
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FormEditor. Ferme la façade
+title: "FormEditor.Close"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode FormEditor. Ferme la façade"
 type: docs
 weight: 140
 url: /fr/net/aspose.pdf.facades/formeditor/close/
 ---
-## Méthode FormEditor.Close
+## FormEditor.Close method
 
 Ferme la façade.
 
@@ -16,6 +16,8 @@ public override void Close()
 
 ### Voir aussi
 
-* classe [FormEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Document.OpenAction
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété du document. Obtient ou définit l'action effectuée à l'ouverture du document
+title: "Document.OpenAction"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Document. Obtient ou définit l'action effectuée à l'ouverture du document"
 type: docs
-weight: 390
+weight: 410
 url: /fr/net/aspose.pdf/document/openaction/
 ---
-## Propriété Document.OpenAction
+## Document.OpenAction property
 
 Obtient ou définit l'action effectuée à l'ouverture du document.
 
@@ -16,7 +16,7 @@ public IAppointment OpenAction { get; set; }
 
 ## Exemples
 
-L'exemple démontre comment obtenir le drapeau CenterWindow :
+Exemple montrant comment obtenir le drapeau CenterWindow :
 
 ```csharp
 Document document = new Document("sample.pdf");
@@ -29,3 +29,5 @@ IAppointment value = document.OpenAction;
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

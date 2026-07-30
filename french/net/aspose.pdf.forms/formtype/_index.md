@@ -1,14 +1,14 @@
 ---
-title: Enum FormType
-second_title: Aspose.PDF for .NET API Reference
-description: Enumération Aspose.Pdf.Forms.FormType. Énumération des types possibles d'Acro Form
+title: "Énum FormType"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Forms.FormType enum. Énumération des types possibles de AcroForm"
 type: docs
-weight: 5100
+weight: 5220
 url: /fr/net/aspose.pdf.forms/formtype/
 ---
-## Énumération FormType
+## FormType enumeration
 
-Énumération des types possibles d'Acro Form.
+Énumération des types possibles de formulaire Acro.
 
 ```csharp
 public enum FormType
@@ -24,5 +24,7 @@ public enum FormType
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

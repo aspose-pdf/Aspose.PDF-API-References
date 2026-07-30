@@ -1,14 +1,14 @@
 ---
-title: Enum RenderModeType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum RenderModeType d'Aspose.Pdf.Annotations. Enum RenderModeType ensemble de types de modes de rendu
+title: "Énumération RenderModeType"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Énumération Aspose.Pdf.Annotations.RenderModeType. Ensemble des types de mode de rendu."
 type: docs
-weight: 2420
+weight: 2510
 url: /fr/net/aspose.pdf.annotations/rendermodetype/
 ---
-## Énumération RenderModeType
+## RenderModeType enumeration
 
-Enum RenderModeType : ensemble de types de modes de rendu
+Énumération RenderModeType : ensemble des types de mode de rendu
 
 ```csharp
 public enum RenderModeType
@@ -18,22 +18,24 @@ public enum RenderModeType
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| Solide | `0` | Le mode de rendu "Solide". |
-| SolideFilDeFer | `1` | Le mode de rendu "SolideFilDeFer". |
+| Solid | `0` | Le mode de rendu "Solid". |
+| SolidWireframe | `1` | Le mode de rendu "SolidWireFrame". |
 | Transparent | `2` | Le mode de rendu "Transparent". |
-| CadreTransparent | `3` | Le mode de rendu "CadreTransparent". |
-| BoîteEnglobante | `4` | Le mode de rendu "BoîteEnglobante". |
-| BoîteEnglobanteTransparente | `5` | Le mode de rendu "BoîteEnglobanteTransparente". |
-| ContourBoîteEnglobanteTransparent | `6` | Le mode de rendu "ContourBoîteEnglobanteTransparent". |
-| FilDeFer | `7` | Le mode de rendu "FilDeFer". |
-| FilDeFerOmbragé | `8` | Le mode de rendu "FilDeFerOmbragé". |
-| Sommets | `9` | Le mode de rendu "Sommets". |
-| SommetsOmbragés | `10` | Le mode de rendu "SommetsOmbragés". |
+| TransparentWareFrame | `3` | Le mode de rendu "TransparentWareFrame". |
+| BoundingBox | `4` | Le mode de rendu "BoundingBox". |
+| TransparentBoundingBox | `5` | Le mode de rendu "TransparentBoundingBox". |
+| TransparentBoundingBoxOutline | `6` | Le mode de rendu "TransparentBoundingBoxOutline". |
+| Wireframe | `7` | Le mode de rendu "WireFrame". |
+| ShadedWireframe | `8` | Le mode de rendu "ShadedWireFrame". |
+| Vertices | `9` | Le mode de rendu "Vertices". |
+| ShadedVertices | `10` | Le mode de rendu "ShadedVertices". |
 | Illustration | `11` | Le mode de rendu "Illustration". |
-| ContourSolide | `12` | Le mode de rendu "ContourSolide". |
-| IllustrationOmbragée | `13` | Le mode de rendu "IllustrationOmbragée". |
+| SolidOutline | `12` | Le mode de rendu "SolidOutline". |
+| ShadedIllustration | `13` | Le mode de rendu "ShadedIllustration". |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

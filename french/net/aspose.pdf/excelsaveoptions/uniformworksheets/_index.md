@@ -1,14 +1,14 @@
 ---
-title: ExcelSaveOptions.UniformWorksheets
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ExcelSaveOptions. Définissez vrai pour utiliser une division uniforme des colonnes dans tout le document. La valeur par défaut est fausse, ce qui signifie que la division des colonnes sera indépendante pour chaque page.
+title: "ExcelSaveOptions.UniformWorksheets"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ExcelSaveOptions. Définissez true pour utiliser une division uniforme des colonnes dans le document. La valeur par défaut est false, ce qui signifie que la division des colonnes sera indépendante pour chaque page."
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf/excelsaveoptions/uniformworksheets/
 ---
-## Propriété ExcelSaveOptions.UniformWorksheets
+## ExcelSaveOptions.UniformWorksheets property
 
-Définissez vrai pour utiliser une division uniforme des colonnes dans tout le document. La valeur par défaut est fausse ; cela signifie que la division des colonnes sera indépendante pour chaque page.
+Définissez true pour utiliser une division uniforme des colonnes dans le document. La valeur par défaut est false ; cela signifie que la division des colonnes sera indépendante pour chaque page.
 
 ```csharp
 public bool UniformWorksheets { get; set; }
@@ -16,6 +16,8 @@ public bool UniformWorksheets { get; set; }
 
 ### Voir aussi
 
-* classe [ExcelSaveOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [ExcelSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

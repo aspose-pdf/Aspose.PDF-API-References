@@ -1,12 +1,12 @@
 ---
-title: PdfExtractorOptions.AddInput
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfExtractorOptions. Ajoute une nouvelle source de données à la collection de données du plugin PdfExtractor
+title: "PdfExtractorOptions.AddInput"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfExtractorOptions. Ajoute une nouvelle source de données à la collection de données du plugin PdfExtractor"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.plugins/pdfextractoroptions/addinput/
 ---
-## Méthode PdfExtractorOptions.AddInput
+## PdfExtractorOptions.AddInput method
 
 Ajoute une nouvelle source de données à la collection de données du plugin PdfExtractor.
 
@@ -24,3 +24,5 @@ public void AddInput(IDataSource dataSource)
 * class [PdfExtractorOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

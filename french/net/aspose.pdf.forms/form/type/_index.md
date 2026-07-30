@@ -1,14 +1,14 @@
 ---
-title: Form.Type
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Form. Obtient le type du formulaire. Les valeurs possibles sont Standard, Statique, Dynamique
+title: "Form.Type"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Form. Obtient le type du formulaire. Les valeurs possibles sont Standard Static Dynamic."
 type: docs
-weight: 160
+weight: 180
 url: /fr/net/aspose.pdf.forms/form/type/
 ---
-## Propriété Form.Type
+## Form.Type property
 
-Obtient le type du formulaire. Les valeurs possibles sont : Standard, Statique, Dynamique.
+Obtient le type du formulaire. Les valeurs possibles sont : Standard, Static, Dynamic.
 
 ```csharp
 public FormType Type { get; set; }
@@ -20,3 +20,5 @@ public FormType Type { get; set; }
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

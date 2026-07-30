@@ -1,12 +1,12 @@
 ---
-title: Color.SteelBlue
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de couleur. Obtient une couleur définie par le système qui a une valeur ARGB de c FF4682B4
+title: "Color.SteelBlue"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Color. Obtient une couleur définie par le système qui a une valeur ARGB de c FF4682B4"
 type: docs
 weight: 1300
 url: /fr/net/aspose.pdf/color/steelblue/
 ---
-## Propriété Color.SteelBlue
+## Color.SteelBlue property
 
 Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FF4682B4.
 
@@ -16,10 +16,12 @@ public static Color SteelBlue { get; }
 
 ### Valeur de retour
 
-Représentant une couleur définie par le système.
+A représentant une couleur définie par le système.
 
 ### Voir aussi
 
-* classe [Color](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.TBGLITTER
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PdfPageEditor. Paillettes Haut-Bas
+title: "PdfPageEditor.TBGLITTER"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PdfPageEditor. Scintillement haut-bas"
 type: docs
 weight: 330
 url: /fr/net/aspose.pdf.facades/pdfpageeditor/tbglitter/
 ---
-## Champ PdfPageEditor.TBGLITTER
+## PdfPageEditor.TBGLITTER field
 
-Paillettes Haut-Bas
+Scintillement haut-bas
 
 ```csharp
 public const int TBGLITTER;
@@ -16,6 +16,8 @@ public const int TBGLITTER;
 
 ### Voir aussi
 
-* classe [PdfPageEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

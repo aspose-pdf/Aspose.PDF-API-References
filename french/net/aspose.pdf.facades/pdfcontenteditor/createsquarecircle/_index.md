@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.CreateSquareCircle
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfContentEditor. Crée une annotation carré-cercle
+title: "PdfContentEditor.CreateSquareCircle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfContentEditor. Crée une annotation carré-cercle."
 type: docs
 weight: 280
 url: /fr/net/aspose.pdf.facades/pdfcontenteditor/createsquarecircle/
 ---
-## Méthode PdfContentEditor.CreateSquareCircle
+## PdfContentEditor.CreateSquareCircle method
 
 Crée une annotation carré-cercle.
 
@@ -20,9 +20,9 @@ public void CreateSquareCircle(Rectangle rect, string contents, Color clr, bool 
 | rect | Rectangle | Le rectangle d'annotation définissant l'emplacement de l'annotation sur la page. |
 | contents | String | Le contenu de l'annotation. |
 | clr | Color | La couleur du carré ou du cercle. |
-| square | Boolean | Vrai (carré), faux (cercle). |
-| page | Int32 | Le numéro de la page originale où l'annotation sera créée. |
-| borderWidth | Int32 | La largeur de la bordure du carré ou du cercle. |
+| square | Boolean | True (square), false (sircle). |
+| page | Int32 | Le numéro de la page d'origine où l'annotation sera créée. |
+| borderWidth | Int32 | La largeur de bordure du carré ou du cercle. |
 
 ## Exemples
 
@@ -36,6 +36,8 @@ editor.Save("example_out.pdf");
 
 ### Voir aussi
 
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

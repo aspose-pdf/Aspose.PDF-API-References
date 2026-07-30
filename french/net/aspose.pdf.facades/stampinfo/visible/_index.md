@@ -1,14 +1,14 @@
 ---
-title: StampInfo.Visible
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété StampInfo. Obtient la visibilité du tampon. Si faux, le tampon est caché avec HideStampById. Le tampon caché peut être restauré par ShowStampById
+title: "StampInfo.Visible"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété StampInfo. Obtient la visibilité du tampon. Si false alors le tampon est masqué avec HideStampById. Le tampon masqué peut être restauré par ShowStampById"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.facades/stampinfo/visible/
 ---
-## Propriété StampInfo.Visible
+## StampInfo.Visible property
 
-Obtient la visibilité du tampon. Si faux, le tampon est caché (avec HideStampById). Le tampon caché peut être restauré par ShowStampById.
+Obtient la visibilité du tampon. Si false alors le tampon est masqué (avec HideStampById). Un tampon masqué peut être restauré avec ShowStampById.
 
 ```csharp
 public bool Visible { get; }
@@ -16,6 +16,8 @@ public bool Visible { get; }
 
 ### Voir aussi
 
-* classe [StampInfo](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [StampInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

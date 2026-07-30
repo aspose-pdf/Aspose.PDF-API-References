@@ -1,14 +1,14 @@
 ---
-title: Stamp.getStampId
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Stamp. Renvoie l'ID du timbre
+title: "Stamp.getStampId"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Stamp. Retourne l'ID du tampon"
 type: docs
 weight: 200
 url: /fr/net/aspose.pdf/stamp/getstampid/
 ---
-## Méthode Stamp.getStampId
+## Stamp.getStampId method
 
-Renvoie l'ID du timbre.
+Renvoie l'ID du tampon.
 
 ```csharp
 public int getStampId()
@@ -16,10 +16,12 @@ public int getStampId()
 
 ### Valeur de retour
 
-Identifiant du timbre.
+Identifiant du tampon.
 
 ### Voir aussi
 
-* classe [Stamp](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

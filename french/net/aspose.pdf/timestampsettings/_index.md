@@ -1,14 +1,14 @@
 ---
-title: Class TimestampSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.TimestampSettings. Représente les paramètres ocsp utilisés lors du processus de signature
+title: "Classe TimestampSettings"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.TimestampSettings classe. Représente les paramètres ocsp utilisés pendant le processus de signature"
 type: docs
-weight: 11100
+weight: 11290
 url: /fr/net/aspose.pdf/timestampsettings/
 ---
-## Classe TimestampSettings
+## TimestampSettings class
 
-Représente les paramètres ocsp utilisés lors du processus de signature.
+Représente les paramètres OCSP utilisés pendant le processus de signature.
 
 ```csharp
 public class TimestampSettings
@@ -24,11 +24,13 @@ public class TimestampSettings
 
 | Nom | Description |
 | --- | --- |
-| [BasicAuthCredentials](../../aspose.pdf/timestampsettings/basicauthcredentials/) { get; set; } | Obtient/définit les informations d'identification d'authentification de base, le nom d'utilisateur et le mot de passe sont combinés en une chaîne "username:password". |
+| [BasicAuthCredentials](../../aspose.pdf/timestampsettings/basicauthcredentials/) { get; set; } | Obtient/définit les informations d'authentification de base, le nom d'utilisateur et le mot de passe sont combinés dans une chaîne "username:password". |
 | [DigestHashAlgorithm](../../aspose.pdf/timestampsettings/digesthashalgorithm/) { get; set; } | Obtient/définit l'algorithme de hachage pour les fonctions de hachage internes. |
-| [ServerUrl](../../aspose.pdf/timestampsettings/serverurl/) { get; set; } | Obtient/définit l'URL du serveur de timestamp. |
+| [ServerUrl](../../aspose.pdf/timestampsettings/serverurl/) { get; set; } | Obtient/définit l'URL du serveur d'horodatage. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

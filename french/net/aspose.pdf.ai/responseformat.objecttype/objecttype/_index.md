@@ -1,12 +1,12 @@
 ---
-title: ResponseFormat.ObjectType.ObjectType
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur ObjectType. Le constructeur par défaut
+title: "ResponseFormat.ObjectType.ObjectType"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur ObjectType. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/responseformat.objecttype/objecttype/
 ---
-## Constructeur ResponseFormat.ObjectType
+## ResponseFormat.ObjectType constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public ObjectType()
 
 ### Voir aussi
 
-* classe [ObjectType](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ObjectType](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

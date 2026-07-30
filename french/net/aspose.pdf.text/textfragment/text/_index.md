@@ -1,12 +1,12 @@
 ---
-title: TextFragment.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextFragment. Obtient ou définit l'objet texte de type String que représente l'objet TextFragment
+title: "TextFragment.Text"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextFragment. Obtient ou définit l'objet texte de type String que représente l'objet TextFragment."
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf.text/textfragment/text/
 ---
-## Propriété TextFragment.Text
+## TextFragment.Text property
 
 Obtient ou définit l'objet texte de type String que représente l'objet [`TextFragment`](../).
 
@@ -16,29 +16,31 @@ public string Text { get; set; }
 
 ## Exemples
 
-L'exemple démontre comment rechercher un texte et remplacer la première occurrence représentée par l'objet [`TextFragment`](../).
+L'exemple montre comment rechercher un texte et remplacer la première occurrence représentée par l'objet [`TextFragment`](../).
 
 ```csharp
-// Open document
+// Ouvrir le document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Créer l'objet TextFragmentAbsorber pour trouver toutes les occurrences du texte "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Accepter l'absorbeur pour la première page
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurrence
+// Modifier la police de la première occurrence de texte
 absorber.TextFragments[1].Text = "hi world";
 
-// Save document
+// Enregistrer le document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
 ### Voir aussi
 
-* classe [TextFragmentAbsorber](../../textfragmentabsorber/)
-* classe [Document](../../../aspose.pdf/document/)
-* classe [TextFragment](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

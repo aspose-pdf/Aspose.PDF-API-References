@@ -1,7 +1,7 @@
 ---
-title: PdfFileStamp.AddHeader
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfFileStamp. Ajoute un en-tête à la page
+title: "PdfFileStamp.AddHeader"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfFileStamp. Ajoute un en-tête à la page."
 type: docs
 weight: 120
 url: /fr/net/aspose.pdf.facades/pdffilestamp/addheader/
@@ -47,7 +47,7 @@ public void AddHeader(FormattedText formattedText, float topMargin, float leftMa
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| formattedText | FormattedText | Objet de texte formaté qui contient le texte de la page et ses propriétés. |
+| formattedText | FormattedText | Objet texte formaté qui contient le texte de la page et ses propriétés. |
 | topMargin | Single | Marge en haut de la page. |
 | leftMargin | Single | Marge à gauche de la page. |
 | rightMargin | Single | Marge à droite de la page. |
@@ -70,7 +70,7 @@ stamp.AddHeader(new FormattedText("Head of the page"), 10, 50, 50);
 
 ## AddHeader(string, float) {#addheader_4}
 
-Ajoute une image comme en-tête aux pages du fichier.
+Ajoute une image en en-tête aux pages du fichier.
 
 ```csharp
 public void AddHeader(string imageFile, float topMargin)
@@ -78,7 +78,7 @@ public void AddHeader(string imageFile, float topMargin)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| imageFile | String | Chemin vers le fichier image. |
+| imageFile | String | Chemin du fichier image. |
 | topMargin | Single | Marge en haut de la page. |
 
 ## Exemples
@@ -100,7 +100,7 @@ fileStamp.Close();
 
 ## AddHeader(string, float, float, float) {#addheader_5}
 
-Ajoute une image comme en-tête sur les pages.
+Ajoute une image en en-tête sur les pages.
 
 ```csharp
 public void AddHeader(string imageFile, float topMargin, float leftMargin, float rightMargin)
@@ -108,10 +108,10 @@ public void AddHeader(string imageFile, float topMargin, float leftMargin, float
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| imageFile | String | Chemin vers le fichier image. |
+| imageFile | String | Chemin du fichier image. |
 | topMargin | Single | Marge en haut de la page. |
-| leftMargin | Single | Marge à gauche de la page. |
-| rightMargin | Single | Marge à droite de la page. |
+| leftMargin | Single | Marge du côté gauche de la page. |
+| rightMargin | Single | Marge du côté droit de la page. |
 
 ## Exemples
 
@@ -132,7 +132,7 @@ fileStamp.Close();
 
 ## AddHeader(Stream, float) {#addheader_2}
 
-Ajoute une image comme en-tête sur les pages.
+Ajoute une image en en-tête sur les pages.
 
 ```csharp
 public void AddHeader(Stream imageStream, float topMargin)
@@ -170,10 +170,10 @@ public void AddHeader(Stream inputStream, float topMargin, float leftMargin, flo
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| inputStream | Stream | Flux qui contient les données de l'image. |
+| inputStream | Stream | Flux contenant les données de l'image. |
 | topMargin | Single | Marge en haut de la page. |
-| leftMargin | Single | Marge à gauche de la page. |
-| rightMargin | Single | Marge à droite de la page. |
+| leftMargin | Single | Marge du côté gauche de la page. |
+| rightMargin | Single | Marge du côté droit de la page. |
 
 ## Exemples
 
@@ -189,3 +189,5 @@ fileStamp.Close();
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

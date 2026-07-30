@@ -1,14 +1,14 @@
 ---
-title: Color.op_Inequality
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Color. Renvoie vrai si deux couleurs ne sont pas égales
+title: "Color.op_Inequality"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Color. Retourne true si deux Color ne sont pas égaux"
 type: docs
 weight: 1570
 url: /fr/net/aspose.pdf/color/op_inequality/
 ---
-## Opérateur d'inégalité des couleurs
+## Color Inequality operator
 
-Renvoie vrai si deux couleurs ne sont pas égales.
+Renvoie vrai si deux Color ne sont pas égaux.
 
 ```csharp
 public static bool operator !=(Color x, Color y)
@@ -21,10 +21,12 @@ public static bool operator !=(Color x, Color y)
 
 ### Valeur de retour
 
-Vrai si les objets Color ne sont pas égaux.
+True dans le cas où les objets Color ne sont pas égaux.
 
 ### Voir aussi
 
-* classe [Color](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: WidgetAnnotation.ReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété WidgetAnnotation. Obtient ou définit le statut en lecture seule du champ
+title: "WidgetAnnotation.ReadOnly"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété WidgetAnnotation. Obtient ou définit le statut lecture seule du champ"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.annotations/widgetannotation/readonly/
 ---
-## Propriété WidgetAnnotation.ReadOnly
+## WidgetAnnotation.ReadOnly property
 
-Obtient ou définit le statut en lecture seule du champ.
+Obtient ou définit l'état en lecture seule du champ.
 
 ```csharp
 public bool ReadOnly { get; set; }
@@ -16,6 +16,8 @@ public bool ReadOnly { get; set; }
 
 ### Voir aussi
 
-* classe [WidgetAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

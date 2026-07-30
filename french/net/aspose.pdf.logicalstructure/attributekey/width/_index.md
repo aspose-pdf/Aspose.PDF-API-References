@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Champ AttributeKey. Attribut de largeur Propriétaire de l'attribut de mise en page
+title: "AttributeKey.Width"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "AttributeKey champ. attribut Width attribut Layout propriétaire"
 type: docs
 weight: 400
 url: /fr/net/aspose.pdf.logicalstructure/attributekey/width/
 ---
-## Champ AttributeKey.Width
+## AttributeKey.Width field
 
-Attribut de largeur (Propriétaire de l'attribut de mise en page).
+Attribut Width (propriétaire de l'attribut Layout).
 
 ```csharp
 public static readonly AttributeKey Width;
@@ -16,6 +16,8 @@ public static readonly AttributeKey Width;
 
 ### Voir aussi
 
-* classe [AttributeKey](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

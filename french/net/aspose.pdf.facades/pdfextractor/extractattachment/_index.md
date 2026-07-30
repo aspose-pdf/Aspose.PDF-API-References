@@ -1,7 +1,7 @@
 ---
-title: PdfExtractor.ExtractAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfExtractor. Extrait les pièces jointes d'un document Pdf
+title: "PdfExtractor.ExtractAttachment"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfExtractor. Extrait les pièces jointes d'un document Pdf."
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf.facades/pdfextractor/extractattachment/
@@ -16,15 +16,15 @@ public void ExtractAttachment()
 
 ### Voir aussi
 
-* classe [PdfExtractor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ExtractAttachment(string) {#extractattachment_1}
 
-Extrait la pièce jointe au fichier PDF par le nom de la pièce jointe.
+Extrait la pièce jointe du fichier PDF par le nom de la pièce jointe.
 
 ```csharp
 public void ExtractAttachment(string attachmentFileName)
@@ -36,6 +36,8 @@ public void ExtractAttachment(string attachmentFileName)
 
 ### Voir aussi
 
-* classe [PdfExtractor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

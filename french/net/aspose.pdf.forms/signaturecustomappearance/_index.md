@@ -1,14 +1,14 @@
 ---
-title: Class SignatureCustomAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Forms.SignatureCustomAppearance. Une classe abstraite qui représente un objet d'apparence de signature personnalisée
+title: "Classe SignatureCustomAppearance"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Forms.SignatureCustomAppearance. Une classe abstraite qui représente l'objet d'apparence personnalisée de la signature"
 type: docs
-weight: 5280
+weight: 5400
 url: /fr/net/aspose.pdf.forms/signaturecustomappearance/
 ---
-## Classe SignatureCustomAppearance
+## SignatureCustomAppearance class
 
-Une classe abstraite qui représente un objet d'apparence de signature personnalisée.
+Une classe abstraite qui représente l'objet d'apparence personnalisée de la signature.
 
 ```csharp
 public sealed class SignatureCustomAppearance
@@ -24,26 +24,29 @@ public sealed class SignatureCustomAppearance
 
 | Nom | Description |
 | --- | --- |
-| [BackgroundColor](../../aspose.pdf.forms/signaturecustomappearance/backgroundcolor/) { get; set; } | Obtient/définit la couleur de fond. Valeur par défaut : Transparent. |
-| [ContactInfoLabel](../../aspose.pdf.forms/signaturecustomappearance/contactinfolabel/) { get; set; } | Obtient/définit l'étiquette d'information de contact. Valeur par défaut : "Contact". |
-| [Culture](../../aspose.pdf.forms/signaturecustomappearance/culture/) { get; set; } | Obtient/définit la valeur d'information culturelle. Valeur par défaut : InvariantCulture. |
-| [DateSignedAtLabel](../../aspose.pdf.forms/signaturecustomappearance/datesignedatlabel/) { get; set; } | Obtient/définit l'étiquette de date signée. Valeur par défaut : "Date". |
-| [DateTimeFormat](../../aspose.pdf.forms/signaturecustomappearance/datetimeformat/) { get; set; } | Obtient/définit le format de date et heure. Valeur par défaut : "yyyy.MM.dd HH:mm:ss". |
-| [DateTimeLocalFormat](../../aspose.pdf.forms/signaturecustomappearance/datetimelocalformat/) { get; set; } | Obtient/définit le format local de date et heure. Valeur par défaut : "yyyy.MM.dd HH:mm:ss zzz". |
-| [DigitalSignedLabel](../../aspose.pdf.forms/signaturecustomappearance/digitalsignedlabel/) { get; set; } | Obtient/définit l'étiquette de signature numérique. Valeur par défaut : "Signé numériquement par". |
-| [DigitalSubjectFormat](../../aspose.pdf.forms/signaturecustomappearance/digitalsubjectformat/) { get; set; } | Obtient/définit le format pour l'ordre des éléments dans la chaîne Sujet. Exemples de résultats : C=UK, CN=Org, O=Organization ou CN=Org, C=UK, O=Organization ou O=Organization |
-| [FontFamilyName](../../aspose.pdf.forms/signaturecustomappearance/fontfamilyname/) { get; set; } | Obtient/définit le nom de la famille de polices. Il doit exister dans le document. Valeur par défaut : Arial. |
-| [FontSize](../../aspose.pdf.forms/signaturecustomappearance/fontsize/) { get; set; } | Obtient/définit la taille de la police. Valeur par défaut : 10. |
-| [ForegroundColor](../../aspose.pdf.forms/signaturecustomappearance/foregroundcolor/) { get; set; } | Obtient/définit la couleur de premier plan (couleur du texte). Valeur par défaut : Bleu. |
-| [LocationLabel](../../aspose.pdf.forms/signaturecustomappearance/locationlabel/) { get; set; } | Obtient/définit l'étiquette de localisation. Valeur par défaut : "Emplacement". |
-| [ReasonLabel](../../aspose.pdf.forms/signaturecustomappearance/reasonlabel/) { get; set; } | Obtient/définit l'étiquette de raison. Valeur par défaut : "Raison". |
+| [BackgroundColor](../../aspose.pdf.forms/signaturecustomappearance/backgroundcolor/) { get; set; } | Obtient/définit la couleur d'arrière-plan. Valeur par défaut : Transparent. |
+| [ContactInfoLabel](../../aspose.pdf.forms/signaturecustomappearance/contactinfolabel/) { get; set; } | Obtient/définit le libellé des informations de contact. Valeur par défaut : "Contact". |
+| [Culture](../../aspose.pdf.forms/signaturecustomappearance/culture/) { get; set; } | Obtient/definit la valeur des informations culturelles. Valeur par défaut: InvariantCulture. |
+| [DateSignedAtLabel](../../aspose.pdf.forms/signaturecustomappearance/datesignedatlabel/) { get; set; } | Obtient/definit l'étiquette de date signée. Valeur par défaut: "Date". |
+| [DateTimeFormat](../../aspose.pdf.forms/signaturecustomappearance/datetimeformat/) { get; set; } | Obtient/definit le format de date et heure. Valeur par défaut: "yyyy.MM.dd HH:mm:ss". |
+| [DateTimeLocalFormat](../../aspose.pdf.forms/signaturecustomappearance/datetimelocalformat/) { get; set; } | Obtient/definit le format local de date et heure. Valeur par défaut: "yyyy.MM.dd HH:mm:ss zzz". |
+| [DigitalSignedLabel](../../aspose.pdf.forms/signaturecustomappearance/digitalsignedlabel/) { get; set; } | Obtient/definit l'étiquette de signature numérique. Valeur par défaut: "Digitally signed by". |
+| [DigitalSubjectFormat](../../aspose.pdf.forms/signaturecustomappearance/digitalsubjectformat/) { get; set; } | Obtient/definit le format d'ordre des éléments dans la chaîne Subject. Exemples de résultats: C=UK, CN=Org, O=Organization ou CN=Org, C=UK, O=Organization ou O=Organization |
+| [FontFamilyName](../../aspose.pdf.forms/signaturecustomappearance/fontfamilyname/) { get; set; } | Obtient/definit le nom de la famille de polices. Elle doit exister dans le document. Valeur par défaut: Arial. |
+| [FontSize](../../aspose.pdf.forms/signaturecustomappearance/fontsize/) { get; set; } | Obtient/definit la taille de la police. Valeur par défaut: 10. |
+| [ForegroundColor](../../aspose.pdf.forms/signaturecustomappearance/foregroundcolor/) { get; set; } | Obtient/definit la couleur de premier plan (couleur du texte). Valeur par défaut: Blue. |
+| [IsForegroundImage](../../aspose.pdf.forms/signaturecustomappearance/isforegroundimage/) { get; set; } | Obtient ou définit une valeur indiquant si l'image dans l'apparence de la signature est dessinée comme image de premier plan. Valeur par défaut: false. |
+| [LocationLabel](../../aspose.pdf.forms/signaturecustomappearance/locationlabel/) { get; set; } | Obtient/definit l'étiquette de localisation. Valeur par défaut: "Location". |
+| [ReasonLabel](../../aspose.pdf.forms/signaturecustomappearance/reasonlabel/) { get; set; } | Obtient/definit l'étiquette de raison. Valeur par défaut: "Reason". |
 | [Rotation](../../aspose.pdf.forms/signaturecustomappearance/rotation/) { get; set; } | Obtient ou définit la rotation de la signature. |
-| [ShowContactInfo](../../aspose.pdf.forms/signaturecustomappearance/showcontactinfo/) { get; set; } | Obtient/définit la visibilité des informations de contact. Valeur par défaut : true. |
-| [ShowLocation](../../aspose.pdf.forms/signaturecustomappearance/showlocation/) { get; set; } | Obtient/définit la visibilité de l'emplacement. Valeur par défaut : true. |
-| [ShowReason](../../aspose.pdf.forms/signaturecustomappearance/showreason/) { get; set; } | Obtient/définit la visibilité de la raison. Valeur par défaut : true. |
-| [UseDigitalSubjectFormat](../../aspose.pdf.forms/signaturecustomappearance/usedigitalsubjectformat/) { get; set; } | Obtient/définit l'état d'utilisation du [`DigitalSubjectFormat`](./digitalsubjectformat/). |
+| [ShowContactInfo](../../aspose.pdf.forms/signaturecustomappearance/showcontactinfo/) { get; set; } | Obtient/definit la visibilité des informations de contact. Valeur par défaut: true. |
+| [ShowLocation](../../aspose.pdf.forms/signaturecustomappearance/showlocation/) { get; set; } | Obtient/definit la visibilité de la localisation. Valeur par défaut: true. |
+| [ShowReason](../../aspose.pdf.forms/signaturecustomappearance/showreason/) { get; set; } | Obtient/definit la visibilité de la raison. Valeur par défaut: true. |
+| [UseDigitalSubjectFormat](../../aspose.pdf.forms/signaturecustomappearance/usedigitalsubjectformat/) { get; set; } | Obtient/definit l'état d'utilisation du [`DigitalSubjectFormat`](./digitalsubjectformat/). |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

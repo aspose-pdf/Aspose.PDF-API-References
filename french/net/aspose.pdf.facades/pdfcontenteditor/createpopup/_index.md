@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreatePopup
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfContentEditor. Crée une annotation popup dans un document PDF
+title: "PdfContentEditor.CreatePopup"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfContentEditor. Crée une annotation popup dans le document PDF"
 type: docs
 weight: 250
 url: /fr/net/aspose.pdf.facades/pdfcontenteditor/createpopup/
 ---
-## Méthode PdfContentEditor.CreatePopup
+## PdfContentEditor.CreatePopup method
 
-Crée une annotation popup dans un document PDF.
+Crée une annotation popup dans le document PDF.
 
 ```csharp
 public void CreatePopup(Rectangle rect, string contents, bool open, int page)
@@ -18,8 +18,8 @@ public void CreatePopup(Rectangle rect, string contents, bool open, int page)
 | --- | --- | --- |
 | rect | Rectangle | Le rectangle d'annotation définissant l'emplacement de l'annotation sur la page. |
 | contents | String | Le contenu de l'annotation. |
-| open | Boolean | Un indicateur spécifiant si l'annotation popup doit être affichée ouverte au départ. |
-| page | Int32 | Le numéro de la page originale où l'annotation sera créée. |
+| open | Boolean | Un indicateur spécifiant si l'annotation pop-up doit être affichée ouverte initialement. |
+| page | Int32 | Le numéro de la page d'origine où l'annotation sera créée. |
 
 ## Exemples
 
@@ -32,6 +32,8 @@ editor.Save("example_out.pdf");
 
 ### Voir aussi
 
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

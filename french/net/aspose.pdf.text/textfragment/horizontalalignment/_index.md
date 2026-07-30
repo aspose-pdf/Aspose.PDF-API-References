@@ -1,12 +1,12 @@
 ---
-title: TextFragment.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextFragment. Obtient ou définit un alignement horizontal du fragment de texte
+title: "TextFragment.HorizontalAlignment"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextFragment. Obtient ou définit un alignement horizontal du fragment de texte"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.text/textfragment/horizontalalignment/
 ---
-## Propriété TextFragment.HorizontalAlignment
+## TextFragment.HorizontalAlignment property
 
 Obtient ou définit un alignement horizontal du fragment de texte.
 
@@ -20,3 +20,5 @@ public override HorizontalAlignment HorizontalAlignment { get; set; }
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.CheckBoxStyleUndefined
-second_title: Aspose.PDF for .NET API Reference
-description: Champ FormFieldFacade. Définit un style de case à cocher indéfini
+title: "FormFieldFacade.CheckBoxStyleUndefined"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "FormFieldFacade field. Définit un style de case à cocher non défini"
 type: docs
 weight: 450
 url: /fr/net/aspose.pdf.facades/formfieldfacade/checkboxstyleundefined/
 ---
-## Champ FormFieldFacade.CheckBoxStyleUndefined
+## FormFieldFacade.CheckBoxStyleUndefined field
 
-Définit un style de case à cocher indéfini.
+Définit un style de case à cocher non défini.
 
 ```csharp
 public const int CheckBoxStyleUndefined;
@@ -16,6 +16,8 @@ public const int CheckBoxStyleUndefined;
 
 ### Voir aussi
 
-* classe [FormFieldFacade](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

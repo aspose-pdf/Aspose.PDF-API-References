@@ -1,14 +1,14 @@
 ---
-title: VectorStoreFileBatchFileListQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode VectorStoreFileBatchFileListQueryParameters. Obtient les paramètres de requête pour lister les fichiers de lot de fichiers de stockage
+title: "VectorStoreFileBatchFileListQueryParameters.GetQueryParameters"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "VectorStoreFileBatchFileListQueryParameters méthode. Obtient les paramètres de requête pour lister les fichiers de lot du magasin"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.ai/vectorstorefilebatchfilelistqueryparameters/getqueryparameters/
 ---
-## Méthode VectorStoreFileBatchFileListQueryParameters.GetQueryParameters
+## VectorStoreFileBatchFileListQueryParameters.GetQueryParameters method
 
-Obtient les paramètres de requête pour lister les fichiers de lot de fichiers de stockage.
+Obtient les paramètres de requête pour lister les fichiers de lot du store.
 
 ```csharp
 public string GetQueryParameters()
@@ -20,6 +20,8 @@ La chaîne des paramètres de requête.
 
 ### Voir aussi
 
-* classe [VectorStoreFileBatchFileListQueryParameters](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreFileBatchFileListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

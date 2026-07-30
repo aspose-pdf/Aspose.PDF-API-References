@@ -1,7 +1,7 @@
 ---
-title: BDC.BDC
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur BDC. Initialise l'opérateur
+title: "BDC.BDC"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur BDC. Initialise l'opérateur"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.operators/bdc/bdc/
@@ -16,12 +16,12 @@ public BDC(string tag)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| tag | String | Valeur de l'étiquette. |
+| balise | String | Valeur du tag. |
 
 ### Voir aussi
 
-* classe [BDC](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [BDC](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -34,7 +34,9 @@ public BDC(string tag, BDCProperties properties)
 
 ### Voir aussi
 
-* classe [BDCProperties](../../../aspose.pdf.facades/bdcproperties/)
-* classe [BDC](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [BDCProperties](../../../aspose.pdf.facades/bdcproperties/)
+* class [BDC](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

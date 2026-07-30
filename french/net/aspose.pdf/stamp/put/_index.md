@@ -1,12 +1,12 @@
 ---
-title: Stamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Stamp. Ajoute un tampon sur la page
+title: "Stamp.Put"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Stamp. Ajoute le tampon sur la page"
 type: docs
 weight: 210
 url: /fr/net/aspose.pdf/stamp/put/
 ---
-## Méthode Stamp.Put
+## Stamp.Put method
 
 Ajoute un tampon sur la page.
 
@@ -16,11 +16,13 @@ public abstract void Put(Page page)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| page | Page | La page pour ajouter le tampon. |
+| page | Page | La page sur laquelle ajouter le tampon. |
 
 ### Voir aussi
 
-* classe [Page](../../page/)
-* classe [Stamp](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Page](../../page/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

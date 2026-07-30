@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.JapaneseEnvelopeKakuNumber2
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSizes. Enveloppe Kaku 2 japonaise
+title: "PaperSizes.JapaneseEnvelopeKakuNumber2"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PaperSizes. Enveloppe japonaise Kaku 2"
 type: docs
 weight: 540
 url: /fr/net/aspose.pdf.printing/papersizes/japaneseenvelopekakunumber2/
 ---
-## Champ PaperSizes.JapaneseEnvelopeKakuNumber2
+## PaperSizes.JapaneseEnvelopeKakuNumber2 field
 
-Enveloppe Kaku #2 japonaise.
+Enveloppe japonaise Kaku #2.
 
 ```csharp
 public static readonly PaperSize JapaneseEnvelopeKakuNumber2;
@@ -16,7 +16,9 @@ public static readonly PaperSize JapaneseEnvelopeKakuNumber2;
 
 ### Voir aussi
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

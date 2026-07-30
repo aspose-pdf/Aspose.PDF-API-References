@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.A4Plus
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSizes. Papier A4 plus 210 mm par 330 mm
+title: "PaperSizes.A4Plus"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PaperSizes. Papier A4 plus 210 mm par 330 mm"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.printing/papersizes/a4plus/
 ---
-## Champ PaperSizes.A4Plus
+## PaperSizes.A4Plus field
 
-Papier A4 plus (210 mm par 330 mm).
+Papier plus A4 (210 mm par 330 mm).
 
 ```csharp
 public static readonly PaperSize A4Plus;
@@ -16,7 +16,9 @@ public static readonly PaperSize A4Plus;
 
 ### Voir aussi
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

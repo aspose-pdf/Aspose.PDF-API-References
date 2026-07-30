@@ -1,12 +1,12 @@
 ---
-title: XmpValue.ToStringValue
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XmpValue. Convertit en chaîne
+title: "XmpValue.ToStringValue"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XmpValue. Convertit en chaîne"
 type: docs
 weight: 220
 url: /fr/net/aspose.pdf/xmpvalue/tostringvalue/
 ---
-## Méthode XmpValue.ToStringValue
+## XmpValue.ToStringValue method
 
 Convertit en chaîne.
 
@@ -20,6 +20,8 @@ Valeur de chaîne.
 
 ### Voir aussi
 
-* classe [XmpValue](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

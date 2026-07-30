@@ -1,12 +1,12 @@
 ---
-title: Document.IDocumentFontUtilities.GetAllFonts
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode IDocumentFontUtilities. Renvoie toutes les polices du document
+title: "Document.IDocumentFontUtilities.GetAllFonts"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "IDocumentFontUtilities méthode. Retourne toutes les polices du document"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/document.idocumentfontutilities/getallfonts/
 ---
-## Méthode Document.IDocumentFontUtilities.GetAllFonts
+## Document.IDocumentFontUtilities.GetAllFonts method
 
 Renvoie toutes les polices du document
 
@@ -20,7 +20,9 @@ polices
 
 ### Voir aussi
 
-* classe [Font](../../../aspose.pdf.text/font/)
+* class [Font](../../../aspose.pdf.text/font/)
 * interface [IDocumentFontUtilities](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

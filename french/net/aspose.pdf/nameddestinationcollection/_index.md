@@ -1,14 +1,14 @@
 ---
-title: Class NamedDestinationCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.NamedDestinationCollection. La classe représente la collection de toutes les destinations dans le document pdf.
+title: "Classe NamedDestinationCollection"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.NamedDestinationCollection. La classe représente la collection de toutes les destinations, un arbre de noms associant des chaînes de noms aux destinations (voir 12.3.2.3 Destinations nommées et voir 7.7.4 Dictionnaire des noms dans le document PDF)."
 type: docs
-weight: 7010
+weight: 7150
 url: /fr/net/aspose.pdf/nameddestinationcollection/
 ---
-## Classe NamedDestinationCollection
+## NamedDestinationCollection class
 
-La classe représente la collection de toutes les destinations (un arbre de noms mappant des chaînes de noms à des destinations (voir 12.3.2.3, "Destinations nommées") et (voir 7.7.4, "Dictionnaire de noms")) dans le document pdf.
+La classe représente la collection de toutes les destinations (un arbre de noms mappant des chaînes de noms aux destinations (voir 12.3.2.3, "Named Destinations") et (voir 7.7.4, "Name Dictionary")) dans le document pdf.
 
 ```csharp
 public class NamedDestinationCollection : INamedDestinationCollection
@@ -34,3 +34,5 @@ public class NamedDestinationCollection : INamedDestinationCollection
 * interface [INamedDestinationCollection](../inameddestinationcollection/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

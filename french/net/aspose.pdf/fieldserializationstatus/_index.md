@@ -1,14 +1,14 @@
 ---
-title: Enum FieldSerializationStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Enum FieldSerializationStatus d'Aspose.Pdf. Représente le statut de la sérialisation des champs de formulaire
+title: "Énumération FieldSerializationStatus"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Énumération Aspose.Pdf.FieldSerializationStatus. Représente l'état de la sérialisation du champ de formulaire"
 type: docs
-weight: 4800
+weight: 4920
 url: /fr/net/aspose.pdf/fieldserializationstatus/
 ---
-## Énumération FieldSerializationStatus
+## FieldSerializationStatus enumeration
 
-Représente le statut de la sérialisation des champs de formulaire.
+Représente l'état de la sérialisation du champ de formulaire.
 
 ```csharp
 public enum FieldSerializationStatus
@@ -18,11 +18,13 @@ public enum FieldSerializationStatus
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| Succès | `0` | Indique que la sérialisation a réussi. |
-| Avertissement | `1` | Indique que la sérialisation s'est terminée avec des avertissements. |
-| Erreur | `2` | Indique que la sérialisation a rencontré des erreurs. |
+| Success | `0` | Indique que la sérialisation a réussi. |
+| Warning | `1` | Indique que la sérialisation s'est terminée avec des avertissements. |
+| Error | `2` | Indique que la sérialisation a rencontré des erreurs. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

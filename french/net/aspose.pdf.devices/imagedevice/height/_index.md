@@ -1,12 +1,12 @@
 ---
-title: ImageDevice.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ImageDevice. Obtient la hauteur de sortie de l'image
+title: "ImageDevice.Height"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "ImageDevice property. Obtient la hauteur de sortie de l'image"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.devices/imagedevice/height/
 ---
-## Propriété ImageDevice.Height
+## ImageDevice.Height property
 
 Obtient la hauteur de sortie de l'image.
 
@@ -16,6 +16,8 @@ public int Height { get; }
 
 ### Voir aussi
 
-* classe [ImageDevice](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [ImageDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

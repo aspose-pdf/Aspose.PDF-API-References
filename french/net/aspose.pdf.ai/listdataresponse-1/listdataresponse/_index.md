@@ -1,12 +1,12 @@
 ---
-title: ListDataResponse1.ListDataResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de ListDataResponse. Le constructeur par défaut
+title: "ListDataResponse1.ListDataResponse"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur ListDataResponse. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/listdataresponse-1/listdataresponse/
 ---
-## Constructeur ListDataResponse&lt;T&gt;
+## ListDataResponse&lt;T&gt; constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public ListDataResponse()
 
 ### Voir aussi
 
-* classe [ListDataResponse&lt;T&gt;](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ListDataResponse&lt;T&gt;](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

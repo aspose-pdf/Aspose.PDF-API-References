@@ -1,25 +1,27 @@
 ---
-title: HtmlSaveOptions.CompressSvgGraphicsIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété HtmlSaveOptions. Obtient ou définit le drapeau qui indique si les graphiques SVG trouvés seront compressés au format SVGZ lors de l'enregistrement
+title: "HtmlSaveOptions.CompressSvgGraphicsIfAny"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété HtmlSaveOptions. Obtient ou définit le drapeau qui indique si les graphiques SVG trouvés, le cas échéant, seront compressés/zipés au format SVGZ lors de l’enregistrement."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/htmlsaveoptions/compresssvggraphicsifany/
 ---
-## Propriété HtmlSaveOptions.CompressSvgGraphicsIfAny
+## HtmlSaveOptions.CompressSvgGraphicsIfAny property
 
-Obtient ou définit le drapeau qui indique si les graphiques SVG trouvés (le cas échéant) seront compressés (zippés) au format SVGZ lors de l'enregistrement
+Obtient ou définit le drapeau qui indique si les graphiques SVG trouvés (le cas échéant) seront compressés (zippés) au format SVGZ lors de l'enregistrement.
 
 ```csharp
 public bool CompressSvgGraphicsIfAny { get; set; }
 ```
 
-### Valeur de la Propriété
+### Property Value
 
 Le [`HtmlDocumentType`](../../htmldocumenttype/).
 
-### Voir Aussi
+### Voir aussi
 
-* classe [HtmlSaveOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

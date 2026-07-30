@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.TextAlign
-second_title: Aspose.PDF for .NET API Reference
-description: Champ AttributeKey. Attribut TextAlign Propriétaire de l'attribut de mise en page
+title: "AttributeKey.TextAlign"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "AttributeKey champ. attribut TextAlign Layout attribut propriétaire"
 type: docs
 weight: 340
 url: /fr/net/aspose.pdf.logicalstructure/attributekey/textalign/
 ---
-## Champ AttributeKey.TextAlign
+## AttributeKey.TextAlign field
 
-Attribut TextAlign (Propriétaire de l'attribut de mise en page).
+Attribut TextAlign (propriétaire de l'attribut Layout).
 
 ```csharp
 public static readonly AttributeKey TextAlign;
@@ -16,6 +16,8 @@ public static readonly AttributeKey TextAlign;
 
 ### Voir aussi
 
-* classe [AttributeKey](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

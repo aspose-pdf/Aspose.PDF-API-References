@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OutlineItemCollection. Renvoie un énumérateur qui itère à travers la collection
+title: "OutlineItemCollection.GetEnumerator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OutlineItemCollection méthode. Retourne un énumérateur qui parcourt la collection"
 type: docs
 weight: 270
 url: /fr/net/aspose.pdf/outlineitemcollection/getenumerator/
 ---
-## Méthode OutlineItemCollection.GetEnumerator
+## OutlineItemCollection.GetEnumerator method
 
-Renvoie un énumérateur qui itère à travers la collection.
+Renvoie un énumérateur qui parcourt la collection.
 
 ```csharp
 public override IEnumerator<OutlineItemCollection> GetEnumerator()
@@ -16,10 +16,12 @@ public override IEnumerator<OutlineItemCollection> GetEnumerator()
 
 ### Valeur de retour
 
-Un objet System.Collections.IEnumerator qui peut être utilisé pour itérer à travers la collection.
+Un objet System.Collections.IEnumerator qui peut être utilisé pour parcourir la collection.
 
 ### Voir aussi
 
-* classe [OutlineItemCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

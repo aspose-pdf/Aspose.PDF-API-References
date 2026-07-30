@@ -1,14 +1,14 @@
 ---
-title: BDC.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode BDC. Accepte l'objet visiteur pour traiter l'opérateur
+title: "BDC.Accept"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode BDC. Accepte un objet visiteur pour traiter l'opérateur"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.operators/bdc/accept/
 ---
-## Méthode BDC.Accept
+## BDC.Accept method
 
-Accepte l'objet visiteur pour traiter l'opérateur.
+Accepte un objet visiteur pour traiter l'opérateur.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
@@ -21,6 +21,8 @@ public override void Accept(IOperatorSelector visitor)
 ### Voir aussi
 
 * interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* classe [BDC](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [BDC](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

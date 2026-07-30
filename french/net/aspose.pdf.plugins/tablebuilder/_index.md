@@ -1,14 +1,14 @@
 ---
-title: Class TableBuilder
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.TableBuilder. La classe représente un constructeur pour un tableau dans une page pdf
+title: "Classe TableBuilder"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Plugins.TableBuilder classe. La classe représente le constructeur pour un tableau dans une page pdf"
 type: docs
-weight: 9330
+weight: 9480
 url: /fr/net/aspose.pdf.plugins/tablebuilder/
 ---
-## Classe TableBuilder
+## TableBuilder class
 
-La classe représente un constructeur pour un tableau dans une page pdf.
+La classe représente le constructeur d'une table dans une page pdf.
 
 ```csharp
 public class TableBuilder
@@ -28,3 +28,5 @@ public class TableBuilder
 
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

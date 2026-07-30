@@ -1,14 +1,14 @@
 ---
-title: Field.ExportValueToJson
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Field. Exporte le contenu du champ spécifié dans un flux JSON. Les valeurs des champs de bouton ne sont pas exportées
+title: "Field.ExportValueToJson"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Field method. Exporte le contenu du champ spécifié dans un flux JSON. Les valeurs des champs bouton ne sont pas exportées"
 type: docs
 weight: 180
 url: /fr/net/aspose.pdf.forms/field/exportvaluetojson/
 ---
-## Méthode Field.ExportValueToJson
+## Field.ExportValueToJson method
 
-Exporte le contenu du champ spécifié dans un flux JSON. Les valeurs des champs de bouton ne sont pas exportées.
+Exporte le contenu du champ spécifié dans un flux JSON. Les valeurs des champs bouton ne sont pas exportées.
 
 ```csharp
 public void ExportValueToJson(Stream outputJsonStream, bool indented = true)
@@ -17,7 +17,7 @@ public void ExportValueToJson(Stream outputJsonStream, bool indented = true)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | outputJsonStream | Stream | Le flux JSON de sortie où les données du champ seront écrites. |
-| indented | Boolean | Optionnel. Spécifie si la sortie JSON doit être indentée pour une meilleure lisibilité. La valeur par défaut est true. |
+| indenté | Boolean | Optionnel. Spécifie si la sortie JSON doit être indentée pour une meilleure lisibilité. La valeur par défaut est true. |
 
 ## Exemples
 
@@ -31,6 +31,8 @@ fs.Close();
 
 ### Voir aussi
 
-* classe [Field](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

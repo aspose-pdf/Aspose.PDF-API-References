@@ -1,12 +1,12 @@
 ---
-title: LlamaSummaryCopilot.LlamaSummaryCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de LlamaSummaryCopilot. Initialise une nouvelle instance de la classe LlamaSummaryCopilot
+title: "LlamaSummaryCopilot.LlamaSummaryCopilot"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "LlamaSummaryCopilot constructeur. Initialise une nouvelle instance de la classe LlamaSummaryCopilot"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/llamasummarycopilot/llamasummarycopilot/
 ---
-## Constructeur de LlamaSummaryCopilot
+## LlamaSummaryCopilot constructor
 
 Initialise une nouvelle instance de la classe [`LlamaSummaryCopilot`](../).
 
@@ -28,3 +28,5 @@ public LlamaSummaryCopilot(ILlamaClient client,
 * class [LlamaSummaryCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

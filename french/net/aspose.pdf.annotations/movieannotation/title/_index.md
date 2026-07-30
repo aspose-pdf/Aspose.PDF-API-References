@@ -1,14 +1,14 @@
 ---
-title: MovieAnnotation.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété MovieAnnotation. Obtient ou définit le titre de l'annotation de film
+title: "MovieAnnotation.Title"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété MovieAnnotation. Obtient ou définit le titre de l'annotation vidéo"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.annotations/movieannotation/title/
 ---
-## Propriété MovieAnnotation.Title
+## MovieAnnotation.Title property
 
-Obtient ou définit le titre de l'annotation de film.
+Obtient ou définit le titre de l'Annotation vidéo.
 
 ```csharp
 public string Title { get; set; }
@@ -16,6 +16,8 @@ public string Title { get; set; }
 
 ### Voir aussi
 
-* classe [MovieAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [MovieAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

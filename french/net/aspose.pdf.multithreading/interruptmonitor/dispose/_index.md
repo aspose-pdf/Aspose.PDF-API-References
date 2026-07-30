@@ -1,12 +1,12 @@
 ---
-title: InterruptMonitor.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode InterruptMonitor. Libère les ressources utilisées
+title: "InterruptMonitor.Dispose"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode InterruptMonitor. Libère les ressources utilisées"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.multithreading/interruptmonitor/dispose/
 ---
-## Méthode InterruptMonitor.Dispose
+## InterruptMonitor.Dispose method
 
 Libère les ressources utilisées.
 
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### Voir aussi
 
-* classe [InterruptMonitor](../)
-* espace de noms [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
+* class [InterruptMonitor](../)
+* namespace [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
 * assembly [Aspose.PDF](../../../)
+
+

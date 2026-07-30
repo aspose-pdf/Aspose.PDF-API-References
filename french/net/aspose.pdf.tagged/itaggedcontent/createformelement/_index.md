@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateFormElement
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ITaggedContent. Crée FormElement
+title: "ITaggedContent.CreateFormElement"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode ITaggedContent. Crée FormElement"
 type: docs
 weight: 120
 url: /fr/net/aspose.pdf.tagged/itaggedcontent/createformelement/
 ---
-## Méthode ITaggedContent.CreateFormElement
+## ITaggedContent.CreateFormElement method
 
 Crée [`FormElement`](../../../aspose.pdf.logicalstructure/formelement/).
 
@@ -20,7 +20,9 @@ public FormElement CreateFormElement()
 
 ### Voir aussi
 
-* classe [FormElement](../../../aspose.pdf.logicalstructure/formelement/)
+* class [FormElement](../../../aspose.pdf.logicalstructure/formelement/)
 * interface [ITaggedContent](../)
-* espace de noms [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

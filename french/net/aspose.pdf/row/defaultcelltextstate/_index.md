@@ -1,12 +1,12 @@
 ---
-title: Row.DefaultCellTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Row. Obtient ou définit l'état de texte par défaut pour les cellules de ligne
+title: "Row.DefaultCellTextState"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Row. Obtient ou définit l’état de texte par défaut pour les cellules de la ligne."
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf/row/defaultcelltextstate/
 ---
-## Propriété Row.DefaultCellTextState
+## Row.DefaultCellTextState property
 
 Obtient ou définit l'état de texte par défaut pour les cellules de ligne
 
@@ -16,7 +16,9 @@ public TextState DefaultCellTextState { get; set; }
 
 ### Voir aussi
 
-* classe [TextState](../../../aspose.pdf.text/textstate/)
-* classe [Row](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

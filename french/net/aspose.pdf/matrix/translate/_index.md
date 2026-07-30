@@ -1,14 +1,14 @@
 ---
-title: Matrix.Translate
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Matrix. Traduit une matrice par le montant spécifié dans la direction x et y
+title: "Matrix.Translate"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Matrix. Déplace une matrice du montant spécifié dans les directions x et y"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/matrix/translate/
 ---
-## Méthode Matrix.Translate
+## Matrix.Translate method
 
-Traduit une matrice par le montant spécifié dans la direction x et y.
+Déplace une matrice du montant spécifié dans les directions x et y.
 
 ```csharp
 public static Matrix Translate(double dx, double dy, Matrix source)
@@ -16,16 +16,18 @@ public static Matrix Translate(double dx, double dy, Matrix source)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| dx | Double | Le montant à traduire dans la direction x. |
-| dy | Double | Le montant à traduire dans la direction y. |
-| source | Matrix | La matrice à traduire. |
+| dx | Double | Le montant à déplacer dans la direction x. |
+| dy | Double | Le montant à déplacer dans la direction y. |
+| source | Matrice | La matrice à déplacer. |
 
 ### Valeur de retour
 
-Une nouvelle matrice qui est le résultat de la traduction.
+Une nouvelle matrice qui est le résultat de la translation.
 
 ### Voir aussi
 
-* classe [Matrix](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

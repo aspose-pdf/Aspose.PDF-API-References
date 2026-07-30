@@ -1,12 +1,12 @@
 ---
-title: DeleteStatusResponse.DeleteStatusResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de DeleteStatusResponse. Le constructeur par défaut
+title: "DeleteStatusResponse.DeleteStatusResponse"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur DeleteStatusResponse. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/deletestatusresponse/deletestatusresponse/
 ---
-## Constructeur de DeleteStatusResponse
+## DeleteStatusResponse constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public DeleteStatusResponse()
 
 ### Voir aussi
 
-* classe [DeleteStatusResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [DeleteStatusResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

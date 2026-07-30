@@ -1,14 +1,14 @@
 ---
-title: FloatingBox.IsNeedRepeating
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FloatingBox. Obtient ou définit une valeur booléenne qui indique si le paragraphe doit être répété sur la page suivante. La valeur par défaut est false. L'attribut n'est valide que lorsque le paragraphe lui-même et l'objet auquel son ReferenceParagraphID fait référence sont tous deux inclus dans RepeatingRows.
+title: "FloatingBox.IsNeedRepeating"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FloatingBox. Obtient ou définit une valeur booléenne qui indique si le paragraphe doit être répété sur la page suivante. La valeur par défaut est false. L'attribut n'est valide que lorsque le paragraphe lui‑même et l'objet auquel son ReferenceParagraphID fait référence sont tous deux inclus dans RepeatingRows"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf/floatingbox/isneedrepeating/
 ---
-## Propriété FloatingBox.IsNeedRepeating
+## FloatingBox.IsNeedRepeating property
 
-Obtient ou définit une valeur booléenne qui indique si le paragraphe doit être répété sur la page suivante. La valeur par défaut est false. L'attribut n'est valide que lorsque le paragraphe lui-même et l'objet auquel son ReferenceParagraphID fait référence sont tous deux inclus dans RepeatingRows.
+Obtient ou définit une valeur booléenne qui indique si le paragraphe doit être répété sur la page suivante. La valeur par défaut est false. L'attribut n'est valide que lorsque le paragraphe lui‑même et l'objet auquel son ReferenceParagraphID fait référence sont tous deux inclus dans RepeatingRows.
 
 ```csharp
 public bool IsNeedRepeating { get; set; }
@@ -16,6 +16,8 @@ public bool IsNeedRepeating { get; set; }
 
 ### Voir aussi
 
-* classe [FloatingBox](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

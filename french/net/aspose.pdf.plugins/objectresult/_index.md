@@ -1,14 +1,14 @@
 ---
-title: Class ObjectResult
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.ObjectResult. Représente le résultat d'une opération sous forme de chaîne
+title: "Classe ObjectResult"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Plugins.ObjectResult. Représente le résultat d'une opération sous forme de chaîne"
 type: docs
-weight: 8950
+weight: 9080
 url: /fr/net/aspose.pdf.plugins/objectresult/
 ---
-## Classe ObjectResult
+## ObjectResult class
 
-Représente le résultat d'une opération sous forme de chaîne.
+Représente le résultat de l'opération sous forme de chaîne.
 
 ```csharp
 public sealed class ObjectResult : IOperationResult
@@ -29,12 +29,14 @@ public sealed class ObjectResult : IOperationResult
 
 | Nom | Description |
 | --- | --- |
-| [ToFile](../../aspose.pdf.plugins/objectresult/tofile/)() | Essaie de convertir le résultat en un fichier. |
-| [ToStream](../../aspose.pdf.plugins/objectresult/tostream/)() | Essaie de convertir le résultat en un objet de flux. |
-| override [ToString](../../aspose.pdf.plugins/objectresult/tostring/)() | Essaie de convertir le résultat en une chaîne. |
+| [ToFile](../../aspose.pdf.plugins/objectresult/tofile/)() | Tente de convertir le résultat en fichier. |
+| [ToStream](../../aspose.pdf.plugins/objectresult/tostream/)() | Tente de convertir le résultat en objet flux. |
+| override [ToString](../../aspose.pdf.plugins/objectresult/tostring/)() | Tente de convertir le résultat en chaîne. |
 
 ### Voir aussi
 
 * interface [IOperationResult](../ioperationresult/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

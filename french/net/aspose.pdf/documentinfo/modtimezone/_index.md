@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.ModTimeZone
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété DocumentInfo. Fuseau horaire de la date de modification
+title: "DocumentInfo.ModTimeZone"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété DocumentInfo. Fuseau horaire de la date de modification"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf/documentinfo/modtimezone/
 ---
-## Propriété DocumentInfo.ModTimeZone
+## DocumentInfo.ModTimeZone property
 
 Fuseau horaire de la date de modification.
 
@@ -16,6 +16,8 @@ public TimeSpan ModTimeZone { get; set; }
 
 ### Voir aussi
 
-* classe [DocumentInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

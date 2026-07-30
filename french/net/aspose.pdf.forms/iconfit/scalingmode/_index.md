@@ -1,12 +1,12 @@
 ---
-title: IconFit.ScalingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété IconFit. Le type de mise à l'échelle qui doit être utilisé. ///
+title: "IconFit.ScalingMode"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "IconFit propriété. Le type de mise à l'échelle qui doit être utilisé. ///"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.forms/iconfit/scalingmode/
 ---
-## Propriété IconFit.ScalingMode
+## IconFit.ScalingMode property
 
 Le type de mise à l'échelle qui doit être utilisé. ///
 
@@ -20,3 +20,5 @@ public ScalingMode ScalingMode { get; set; }
 * class [IconFit](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

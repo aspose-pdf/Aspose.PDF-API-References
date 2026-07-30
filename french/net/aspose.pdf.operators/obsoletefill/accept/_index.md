@@ -1,14 +1,14 @@
 ---
-title: ObsoleteFill.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ObsoleteFill. Accepte l'objet visiteur pour traiter l'opérateur
+title: "ObsoleteFill.Accept"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode ObsoleteFill. Accepte un objet visiteur pour traiter l'opérateur"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.operators/obsoletefill/accept/
 ---
-## Méthode ObsoleteFill.Accept
+## ObsoleteFill.Accept method
 
-Accepte l'objet visiteur pour traiter l'opérateur.
+Accepte un objet visiteur pour traiter l'opérateur.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
@@ -21,6 +21,8 @@ public override void Accept(IOperatorSelector visitor)
 ### Voir aussi
 
 * interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* classe [ObsoleteFill](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [ObsoleteFill](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

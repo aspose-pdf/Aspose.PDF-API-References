@@ -1,12 +1,12 @@
 ---
-title: Enum CaptionPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Enumération CaptionPosition d'Aspose.Pdf.Annotations. Énumération du positionnement des légendes des annotations
+title: "Enum CaptionPosition"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.CaptionPosition enum. Énumération du positionnement de la légende des annotations"
 type: docs
-weight: 1550
+weight: 1640
 url: /fr/net/aspose.pdf.annotations/captionposition/
 ---
-## Énumération CaptionPosition
+## CaptionPosition enumeration
 
 Énumération du positionnement de la légende de l'annotation.
 
@@ -23,5 +23,7 @@ public enum CaptionPosition
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

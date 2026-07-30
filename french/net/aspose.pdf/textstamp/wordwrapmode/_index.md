@@ -1,12 +1,12 @@
 ---
-title: TextStamp.WordWrapMode
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextStamp. Obtient ou définit le mode de retour à la ligne pour le rendu du texte
+title: "TextStamp.WordWrapMode"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextStamp. Obtient ou définit le mode de retour à la ligne pour le rendu du texte"
 type: docs
 weight: 170
 url: /fr/net/aspose.pdf/textstamp/wordwrapmode/
 ---
-## Propriété TextStamp.WordWrapMode
+## TextStamp.WordWrapMode property
 
 Obtient ou définit le mode de retour à la ligne pour le rendu du texte.
 
@@ -20,3 +20,5 @@ public WordWrapMode WordWrapMode { get; set; }
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

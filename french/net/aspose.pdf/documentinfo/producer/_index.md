@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.Producer
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété DocumentInfo. Obtient ou définit le producteur du document
+title: "DocumentInfo.Producer"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété DocumentInfo. Obtient ou définit le producteur du document"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf/documentinfo/producer/
 ---
-## Propriété DocumentInfo.Producer
+## DocumentInfo.Producer property
 
 Obtient ou définit le producteur du document.
 
@@ -16,6 +16,8 @@ public string Producer { get; set; }
 
 ### Voir aussi
 
-* classe [DocumentInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

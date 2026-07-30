@@ -1,14 +1,14 @@
 ---
-title: Table.ColumnWidths
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la table. Obtient les largeurs des colonnes de la table
+title: "Table.ColumnWidths"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Table. Obtient les largeurs de colonne du tableau"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf/table/columnwidths/
 ---
-## Propriété Table.ColumnWidths
+## Table.ColumnWidths property
 
-Obtient les largeurs des colonnes de la table.
+Obtient les largeurs des colonnes du tableau.
 
 ```csharp
 public string ColumnWidths { get; set; }
@@ -16,6 +16,8 @@ public string ColumnWidths { get; set; }
 
 ### Voir aussi
 
-* classe [Table](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

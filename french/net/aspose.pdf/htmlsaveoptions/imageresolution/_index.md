@@ -1,25 +1,27 @@
 ---
-title: HtmlSaveOptions.ImageResolution
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété HtmlSaveOptions. Obtient ou définit la résolution pour le rendu d'image
+title: "HtmlSaveOptions.ImageResolution"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété HtmlSaveOptions. Obtient ou définit la résolution pour le rendu des images."
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf/htmlsaveoptions/imageresolution/
 ---
-## Propriété HtmlSaveOptions.ImageResolution
+## HtmlSaveOptions.ImageResolution property
 
-Obtient ou définit la résolution pour le rendu d'image.
+Obtient ou définit la résolution pour le rendu d’image.
 
 ```csharp
 public int ImageResolution { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Résolution
 
 ### Voir aussi
 
-* classe [HtmlSaveOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

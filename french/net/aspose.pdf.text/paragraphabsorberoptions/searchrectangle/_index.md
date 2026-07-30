@@ -1,12 +1,12 @@
 ---
-title: ParagraphAbsorberOptions.SearchRectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ParagraphAbsorberOptions. Obtient ou définit le rectangle de recherche de paragraphe
+title: "ParagraphAbsorberOptions.SearchRectangle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ParagraphAbsorberOptions. Obtient ou définit le rectangle de recherche de paragraphe"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.text/paragraphabsorberoptions/searchrectangle/
 ---
-## Propriété ParagraphAbsorberOptions.SearchRectangle
+## ParagraphAbsorberOptions.SearchRectangle property
 
 Obtient ou définit le rectangle de recherche de paragraphe.
 
@@ -16,7 +16,9 @@ public Rectangle SearchRectangle { get; set; }
 
 ### Voir aussi
 
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [ParagraphAbsorberOptions](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [ParagraphAbsorberOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

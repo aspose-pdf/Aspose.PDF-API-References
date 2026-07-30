@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfContentEditor. Lie un fichier PDF pour l'édition
+title: "PdfContentEditor.BindPdf"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfContentEditor. Lie un fichier PDF pour l'édition."
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.facades/pdfcontenteditor/bindpdf/
@@ -20,15 +20,15 @@ public override void BindPdf(string inputFile)
 
 ### Voir aussi
 
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-Lie un flux PDF pour l'édition.
+Lie un flux PDF pour la modification.
 
 ```csharp
 public override void BindPdf(Stream inputStream)
@@ -40,6 +40,8 @@ public override void BindPdf(Stream inputStream)
 
 ### Voir aussi
 
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

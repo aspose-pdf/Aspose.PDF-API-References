@@ -1,12 +1,12 @@
 ---
-title: GraphicElement.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode GraphicElement. Libère toutes les ressources utilisées par la classe GraphicElement
+title: "GraphicElement.Dispose"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode GraphicElement. Libère toutes les ressources utilisées par la classe GraphicElement."
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.vector/graphicelement/dispose/
 ---
-## Méthode GraphicElement.Dispose
+## GraphicElement.Dispose method
 
 Libère toutes les ressources utilisées par la classe [`GraphicElement`](../).
 
@@ -16,6 +16,8 @@ public void Dispose()
 
 ### Voir aussi
 
-* classe [GraphicElement](../)
-* espace de noms [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* class [GraphicElement](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ImageCompressionOptions.Encoding
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ImageCompressionOptions. Obtient ou définit l'encodage utilisé pour stocker les images
+title: "ImageCompressionOptions.Encoding"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ImageCompressionOptions. Obtient ou définit l'encodage utilisé pour stocker les images."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.optimization/imagecompressionoptions/encoding/
 ---
-## Propriété ImageCompressionOptions.Encoding
+## ImageCompressionOptions.Encoding property
 
 Obtient ou définit l'encodage utilisé pour stocker les images.
 
@@ -20,3 +20,5 @@ public ImageEncoding Encoding { get; set; }
 * class [ImageCompressionOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: FieldSerializationResult.FieldSerializationStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FieldSerializationResult. Obtient le statut de la sérialisation du champ de formulaire
+title: "FieldSerializationResult.FieldSerializationStatus"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FieldSerializationResult. Obtient le statut de la sérialisation du champ de formulaire"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/fieldserializationresult/fieldserializationstatus/
 ---
-## Propriété FieldSerializationResult.FieldSerializationStatus
+## FieldSerializationResult.FieldSerializationStatus property
 
-Obtient le statut de la sérialisation du champ de formulaire.
+Obtient l’état de la sérialisation du champ de formulaire.
 
 ```csharp
 public FieldSerializationStatus FieldSerializationStatus { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le statut de sérialisation du champ de formulaire.
+Le statut de la sérialisation du champ de formulaire.
 
 ### Voir aussi
 
@@ -24,3 +24,5 @@ Le statut de sérialisation du champ de formulaire.
 * class [FieldSerializationResult](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

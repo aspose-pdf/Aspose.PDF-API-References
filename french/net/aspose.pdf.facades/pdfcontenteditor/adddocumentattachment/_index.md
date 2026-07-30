@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.AddDocumentAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfContentEditor. Ajoute une pièce jointe de document sans annotation
+title: "PdfContentEditor.AddDocumentAttachment"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PdfContentEditor method. Ajoute une pièce jointe de document sans annotation"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.facades/pdfcontenteditor/adddocumentattachment/
 ---
 ## AddDocumentAttachment(string, string) {#adddocumentattachment_1}
 
-Ajoute une pièce jointe de document sans annotation.
+Ajoute une pièce jointe au document sans annotation.
 
 ```csharp
 public void AddDocumentAttachment(string fileAttachmentPath, string description)
@@ -16,7 +16,7 @@ public void AddDocumentAttachment(string fileAttachmentPath, string description)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| fileAttachmentPath | String | Le chemin du fichier qui sera joint. |
+| fileAttachmentPath | String | Le chemin du fichier sera joint. |
 | description | String | Les informations de description. |
 
 ## Exemples
@@ -38,7 +38,7 @@ editor.Save("example_out.pdf");
 
 ## AddDocumentAttachment(Stream, string, string) {#adddocumentattachment}
 
-Ajoute une pièce jointe de document sans annotation.
+Ajoute une pièce jointe au document sans annotation.
 
 ```csharp
 public void AddDocumentAttachment(Stream fileAttachmentStream, string fileAttachmentName, 
@@ -47,7 +47,7 @@ public void AddDocumentAttachment(Stream fileAttachmentStream, string fileAttach
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| fileAttachmentStream | Stream | Le flux du fichier qui sera joint. |
+| fileAttachmentStream | Stream | Le flux du fichier sera joint. |
 | fileAttachmentName | String | Le nom de la pièce jointe. |
 | description | String | Les informations de description. |
 
@@ -68,3 +68,5 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

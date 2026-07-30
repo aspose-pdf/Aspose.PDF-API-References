@@ -1,14 +1,14 @@
 ---
-title: Enum Justification
-second_title: Aspose.PDF for .NET API Reference
-description: Énumération Aspose.Pdf.Annotations.Justification. Énumère les formes de justification de quadding à utiliser pour afficher le texte des annotations
+title: "Énumération Justification"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.Justification enum. Énumère les formes de justification de quadrillage à utiliser lors de l'affichage du texte des annotations"
 type: docs
-weight: 1940
+weight: 2030
 url: /fr/net/aspose.pdf.annotations/justification/
 ---
-## Énumération de justification
+## Justification enumeration
 
-Énumère les formes de quadding (justification) à utiliser pour afficher le texte de l'annotation.
+Énumère les formes de justification à utiliser pour l'affichage du texte de l'annotation.
 
 ```csharp
 public enum Justification
@@ -18,11 +18,13 @@ public enum Justification
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| Gauche | `0` | Justification à gauche. |
-| Centre | `1` | Justification au centre. |
-| Droite | `2` | Justification à droite. |
+| Left | `0` | Justification à gauche. |
+| Center | `1` | Justification centrée. |
+| Right | `2` | Justification à droite. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

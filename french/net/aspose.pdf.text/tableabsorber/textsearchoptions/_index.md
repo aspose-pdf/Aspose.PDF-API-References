@@ -1,12 +1,12 @@
 ---
-title: TableAbsorber.TextSearchOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TableAbsorber. Obtient ou définit les options de recherche de texte
+title: "TableAbsorber.TextSearchOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TableAbsorber. Obtient ou définit les options de recherche de texte"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.text/tableabsorber/textsearchoptions/
 ---
-## Propriété TableAbsorber.TextSearchOptions
+## TableAbsorber.TextSearchOptions property
 
 Obtient ou définit les options de recherche de texte.
 
@@ -16,11 +16,13 @@ public virtual TextSearchOptions TextSearchOptions { get; set; }
 
 ## Remarques
 
-Permet de définir plusieurs options qui seront utilisées lors de la recherche de texte contenu dans des tableaux.
+Permet de définir plusieurs options qui seront utilisées lors de la recherche de texte contenu dans les tables.
 
 ### Voir aussi
 
-* classe [TextSearchOptions](../../textsearchoptions/)
-* classe [TableAbsorber](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class MoveTo
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.MoveTo. Classe représentant l'opérateur m pour se déplacer et commencer un nouveau sous-chemin
+title: "Classe MoveTo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.MoveTo class. Classe représentant l'opérateur m qui déplace vers et commence un nouveau sous-chemin"
 type: docs
-weight: 7500
+weight: 7640
 url: /fr/net/aspose.pdf.operators/moveto/
 ---
-## Classe MoveTo
+## MoveTo class
 
-Classe représentant l'opérateur m (se déplacer et commencer un nouveau sous-chemin).
+Classe représentant l'opérateur m (déplacer vers et commencer un nouveau sous-chemin).
 
 ```csharp
 public class MoveTo : Operator
@@ -18,7 +18,7 @@ public class MoveTo : Operator
 
 | Nom | Description |
 | --- | --- |
-| [MoveTo](moveto/)(double, double) | Initialise un nouvel opérateur !:Operators.m (se déplacer). |
+| [MoveTo](moveto/)(double, double) | Initialise un nouvel opérateur !:Operators.m (move to). |
 
 ## Propriétés
 
@@ -32,12 +32,14 @@ public class MoveTo : Operator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/moveto/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/moveto/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf.operators/moveto/tostring/)() | Renvoie la représentation textuelle de l'opérateur. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [Operator](../../aspose.pdf/operator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

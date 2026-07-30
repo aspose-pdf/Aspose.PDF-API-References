@@ -1,12 +1,12 @@
 ---
-title: Collection.GetSortedCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Collection. Obtient une collection de fichiers triés selon la spécification
+title: "Collection.GetSortedCollection"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Collection. Obtient une collection de fichiers triés selon la spécification"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/collection/getsortedcollection/
 ---
-## Méthode Collection.GetSortedCollection
+## Collection.GetSortedCollection method
 
 Obtient une collection de fichiers triés selon la spécification.
 
@@ -20,7 +20,9 @@ La liste des fichiers triés.
 
 ### Voir aussi
 
-* classe [FileSpecification](../../filespecification/)
-* classe [Collection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FileSpecification](../../filespecification/)
+* class [Collection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

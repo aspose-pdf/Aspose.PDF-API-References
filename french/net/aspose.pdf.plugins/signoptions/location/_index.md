@@ -1,14 +1,14 @@
 ---
-title: SignOptions.Location
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SignOptions. L'emplacement de la signature
+title: "SignOptions.Location"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété SignOptions. L'emplacement de la signature"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.plugins/signoptions/location/
 ---
-## Propriété SignOptions.Location
+## SignOptions.Location property
 
-L'emplacement de la signature.
+Le lieu de la signature.
 
 ```csharp
 public string Location { get; set; }
@@ -16,6 +16,8 @@ public string Location { get; set; }
 
 ### Voir aussi
 
-* classe [SignOptions](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [SignOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

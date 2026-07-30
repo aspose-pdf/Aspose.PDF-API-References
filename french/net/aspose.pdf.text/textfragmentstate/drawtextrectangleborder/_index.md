@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.DrawTextRectangleBorder
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextFragmentState. Obtient ou définit si le drapeau de bordure du rectangle de texte est dessiné
+title: "TextFragmentState.DrawTextRectangleBorder"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextFragmentState. Obtient ou définit le drapeau indiquant si la bordure du rectangle de texte est dessinée."
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.text/textfragmentstate/drawtextrectangleborder/
 ---
-## Propriété TextFragmentState.DrawTextRectangleBorder
+## TextFragmentState.DrawTextRectangleBorder property
 
-Obtient ou définit si le drapeau de bordure du rectangle de texte est dessiné.
+Obtient ou définit le drapeau indiquant si la bordure du rectangle de texte est dessinée.
 
 ```csharp
 public bool DrawTextRectangleBorder { get; set; }
@@ -16,6 +16,8 @@ public bool DrawTextRectangleBorder { get; set; }
 
 ### Voir aussi
 
-* classe [TextFragmentState](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.ExportToJson
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Form. Exporte les champs de formulaire PDF au format JSON et écrit le résultat dans le flux fourni
+title: "Form.ExportToJson"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Form. Exporte les champs du formulaire PDF au format JSON et écrit le résultat dans le flux fourni."
 type: docs
-weight: 240
+weight: 260
 url: /fr/net/aspose.pdf.forms/form/exporttojson/
 ---
 ## ExportToJson(Stream, ExportFieldsToJsonOptions) {#exporttojson}
 
-Exporte les champs de formulaire PDF au format JSON et écrit le résultat dans le flux fourni.
+Exporte les champs du formulaire PDF au format JSON et écrit le résultat dans le flux fourni.
 
 ```csharp
 public IEnumerable<FieldSerializationResult> ExportToJson(Stream stream, 
@@ -18,7 +18,7 @@ public IEnumerable<FieldSerializationResult> ExportToJson(Stream stream,
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Le flux dans lequel écrire la sortie JSON. |
-| options | ExportFieldsToJsonOptions | Paramètres optionnels pour l'exportation des champs de formulaire au format JSON. |
+| options | ExportFieldsToJsonOptions | Paramètres optionnels pour l'exportation des champs du formulaire au format JSON. |
 
 ### Valeur de retour
 
@@ -35,17 +35,17 @@ fs.Close();
 
 ### Voir aussi
 
-* classe [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* classe [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
+* class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ExportToJson(string, ExportFieldsToJsonOptions) {#exporttojson_1}
 
-Exporte les champs de formulaire PDF au format JSON et écrit le résultat dans le fichier spécifié.
+Exporte les champs du formulaire PDF au format JSON et écrit le résultat dans le fichier spécifié.
 
 ```csharp
 public IEnumerable<FieldSerializationResult> ExportToJson(string fileName, 
@@ -55,7 +55,7 @@ public IEnumerable<FieldSerializationResult> ExportToJson(string fileName,
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | fileName | String | Le nom du fichier dans lequel écrire la sortie JSON. |
-| options | ExportFieldsToJsonOptions | Paramètres optionnels pour l'exportation des champs de formulaire au format JSON. |
+| options | ExportFieldsToJsonOptions | Paramètres optionnels pour l'exportation des champs du formulaire au format JSON. |
 
 ### Valeur de retour
 
@@ -71,8 +71,10 @@ document.Form..ExportFormFieldsToJson(jsonPath);
 
 ### Voir aussi
 
-* classe [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* classe [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
+* class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

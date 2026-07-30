@@ -1,12 +1,12 @@
 ---
-title: FileSearch.FileSearch
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de FileSearch. Le constructeur par défaut
+title: "FileSearch.FileSearch"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "FileSearch constructeur. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/filesearch/filesearch/
 ---
-## Constructeur de FileSearch
+## FileSearch constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public FileSearch()
 
 ### Voir aussi
 
-* classe [FileSearch](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [FileSearch](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

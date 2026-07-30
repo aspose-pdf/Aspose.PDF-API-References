@@ -1,14 +1,14 @@
 ---
-title: Form.FieldNames
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Form. Obtient la liste des noms de champs sur le formulaire
+title: "Form.FieldNames"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Form. Obtient la liste des noms de champs du formulaire."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.facades/form/fieldnames/
 ---
-## Propriété Form.FieldNames
+## Form.FieldNames property
 
-Obtient la liste des noms de champs sur le formulaire.
+Obtient la liste des noms de champs du formulaire.
 
 ```csharp
 public string[] FieldNames { get; }
@@ -27,6 +27,8 @@ foreach(string field in fields)
 
 ### Voir aussi
 
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

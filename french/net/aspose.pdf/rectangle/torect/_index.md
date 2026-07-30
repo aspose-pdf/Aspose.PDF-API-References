@@ -1,14 +1,14 @@
 ---
-title: Rectangle.ToRect
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Rectangle. Convertit le rectangle en instance de System.Drawing.Rectangle. Les positions et la taille à virgule flottante sont tronquées.
+title: "Rectangle.ToRect"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Rectangle method. Convertit le rectangle en instance de System.Drawing.Rectangle. Les positions et tailles en virgule flottante sont tronquées"
 type: docs
 weight: 280
 url: /fr/net/aspose.pdf/rectangle/torect/
 ---
-## Méthode Rectangle.ToRect
+## Rectangle.ToRect method
 
-Convertit le rectangle en instance de System.Drawing.Rectangle. Les positions et la taille à virgule flottante sont tronquées.
+Convertit le rectangle en instance de System.Drawing.Rectangle. Les positions et la taille en virgule flottante sont tronquées.
 
 ```csharp
 public Rectangle ToRect()
@@ -20,6 +20,8 @@ Résultat de la conversion.
 
 ### Voir aussi
 
-* classe [Rectangle](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

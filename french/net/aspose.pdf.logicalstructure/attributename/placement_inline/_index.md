@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Placement_Inline
-second_title: Aspose.PDF for .NET API Reference
-description: Champ AttributeName. Placement d'attribut en ligne. Emballé dans la direction de progression en ligne au sein d'un BLSE englobant
+title: "AttributeName.Placement_Inline"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ AttributeName. Attribut Placement Inline  Compacté dans la direction de progression en ligne à l’intérieur d’un BLSE englobant"
 type: docs
 weight: 370
 url: /fr/net/aspose.pdf.logicalstructure/attributename/placement_inline/
 ---
-## Champ AttributeName.Placement_Inline
+## AttributeName.Placement_Inline field
 
-Placement d'attribut : En ligne - Emballé dans la direction de progression en ligne au sein d'un BLSE englobant.
+Attribut Placement : Inline - Compactée dans la direction de progression en ligne à l'intérieur d'un BLSE englobant.
 
 ```csharp
 public static readonly AttributeName Placement_Inline;
@@ -16,6 +16,8 @@ public static readonly AttributeName Placement_Inline;
 
 ### Voir aussi
 
-* classe [AttributeName](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

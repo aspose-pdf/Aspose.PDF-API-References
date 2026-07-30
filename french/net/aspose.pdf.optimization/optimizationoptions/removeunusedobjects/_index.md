@@ -1,14 +1,14 @@
 ---
-title: OptimizationOptions.RemoveUnusedObjects
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OptimizationOptions. Si ce drapeau est défini sur vrai, tous les objets du document seront vérifiés et les objets inutilisés, c'est-à-dire les objets qui n'ont aucune référence, seront supprimés du document.
+title: "OptimizationOptions.RemoveUnusedObjects"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OptimizationOptions property. Si ce drapeau est défini sur true, tous les objets du document seront vérifiés et les objets inutilisés, c’est‑à‑dire les objets qui n'ont aucune référence, seront supprimés du document."
 type: docs
-weight: 110
+weight: 100
 url: /fr/net/aspose.pdf.optimization/optimizationoptions/removeunusedobjects/
 ---
-## Propriété OptimizationOptions.RemoveUnusedObjects
+## OptimizationOptions.RemoveUnusedObjects property
 
-Si ce drapeau est défini sur vrai, tous les objets du document seront vérifiés et les objets inutilisés (c'est-à-dire les objets qui n'ont aucune référence) seront supprimés du document.
+Si ce drapeau est réglé sur true, tous les objets du document seront vérifiés et les objets inutilisés (c.-à-d. les objets qui n'ont aucune référence) seront supprimés du document.
 
 ```csharp
 public bool RemoveUnusedObjects { get; set; }
@@ -16,6 +16,8 @@ public bool RemoveUnusedObjects { get; set; }
 
 ### Voir aussi
 
-* classe [OptimizationOptions](../)
-* espace de noms [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* class [OptimizationOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FontRepository.Sources
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FontRepository. Obtient la collection de sources de polices
+title: "FontRepository.Sources"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FontRepository. Obtient la collection des sources de police"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.text/fontrepository/sources/
 ---
-## Propriété FontRepository.Sources
+## FontRepository.Sources property
 
-Obtient la collection de sources de polices.
+Obtient la collection des sources de police.
 
 ```csharp
 public static FontSourceCollection Sources { get; }
@@ -16,7 +16,9 @@ public static FontSourceCollection Sources { get; }
 
 ### Voir aussi
 
-* classe [FontSourceCollection](../../fontsourcecollection/)
-* classe [FontRepository](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [FontSourceCollection](../../fontsourcecollection/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

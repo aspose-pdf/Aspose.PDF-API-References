@@ -1,14 +1,14 @@
 ---
-title: Cell.IsNoBorder
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la cellule. Obtient ou définit si la cellule a une bordure
+title: "Cell.IsNoBorder"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Cell. Obtient ou définit si la cellule a une bordure"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf/cell/isnoborder/
 ---
-## Propriété Cell.IsNoBorder
+## Cell.IsNoBorder property
 
-Obtient ou définit si la cellule a une bordure.
+Obtient ou définit si la cellule possède une bordure.
 
 ```csharp
 public bool IsNoBorder { get; set; }
@@ -16,6 +16,8 @@ public bool IsNoBorder { get; set; }
 
 ### Voir aussi
 
-* classe [Cell](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

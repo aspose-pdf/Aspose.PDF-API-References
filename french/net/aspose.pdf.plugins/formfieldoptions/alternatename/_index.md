@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.AlternateName
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FormFieldOptions. Obtient/définit la valeur pour déterminer la propriété AlternateName pour le champ créé/modifié si elle sera définie.
+title: "FormFieldOptions.AlternateName"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FormFieldOptions. Obtient/Définit la valeur permettant de déterminer la propriété AlternateName pour le champ créé/modifié lorsqu'elle sera définie"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.plugins/formfieldoptions/alternatename/
 ---
-## Propriété FormFieldOptions.AlternateName
+## FormFieldOptions.AlternateName property
 
-Obtient/définit la valeur pour déterminer la propriété AlternateName pour le champ créé/modifié (si elle sera définie).
+Obtient/definit la valeur permettant de déterminer la propriété AlternateName pour le champ créé/modifié (si elle doit être définie).
 
 ```csharp
 public string AlternateName { get; set; }
@@ -16,6 +16,8 @@ public string AlternateName { get; set; }
 
 ### Voir aussi
 
-* classe [FormFieldOptions](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [FormFieldOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

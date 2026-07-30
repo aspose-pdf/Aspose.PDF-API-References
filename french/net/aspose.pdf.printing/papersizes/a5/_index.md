@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.A5
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSizes. Papier A5 148 mm par 210 mm
+title: "PaperSizes.A5"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PaperSizes. Papier A5 148 mm par 210 mm"
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf.printing/papersizes/a5/
 ---
-## Champ PaperSizes.A5
+## PaperSizes.A5 field
 
-Papier A5 (148 mm par 210 mm).
+Papier A5 (148 mm x 210 mm).
 
 ```csharp
 public static readonly PaperSize A5;
@@ -16,7 +16,9 @@ public static readonly PaperSize A5;
 
 ### Voir aussi
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

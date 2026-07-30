@@ -1,7 +1,7 @@
 ---
-title: PdfViewer.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfViewer. Initialise la façade
+title: "PdfViewer.BindPdf"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfViewer. Initialise la façade."
 type: docs
 weight: 250
 url: /fr/net/aspose.pdf.facades/pdfviewer/bindpdf/
@@ -20,8 +20,8 @@ public void BindPdf(string srcFile)
 
 ### Voir aussi
 
-* classe [PdfViewer](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -40,8 +40,8 @@ public void BindPdf(Stream srcStream)
 
 ### Voir aussi
 
-* classe [PdfViewer](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -60,7 +60,9 @@ public void BindPdf(Document srcDoc)
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [PdfViewer](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

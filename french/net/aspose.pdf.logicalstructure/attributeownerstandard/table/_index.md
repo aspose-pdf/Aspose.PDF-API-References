@@ -1,14 +1,14 @@
 ---
-title: AttributeOwnerStandard.Table
-second_title: Aspose.PDF for .NET API Reference
-description: Champ AttributeOwnerStandard. Propriétaire d'attribut de table
+title: "AttributeOwnerStandard.Table"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ AttributeOwnerStandard. Propriétaire de l'attribut Table"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.logicalstructure/attributeownerstandard/table/
 ---
-## Champ AttributeOwnerStandard.Table
+## AttributeOwnerStandard.Table field
 
-Propriétaire d'attribut de table.
+Propriétaire d'attribut Table.
 
 ```csharp
 public static readonly AttributeOwnerStandard Table;
@@ -16,6 +16,8 @@ public static readonly AttributeOwnerStandard Table;
 
 ### Voir aussi
 
-* classe [AttributeOwnerStandard](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

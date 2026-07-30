@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.CheckBoxStyleCross
-second_title: Aspose.PDF for .NET API Reference
-description: Champ FormFieldFacade. Définit un style de case à cocher en croix
+title: "FormFieldFacade.CheckBoxStyleCross"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "FormFieldFacade champ. Définit un style de case à cocher en forme de croix"
 type: docs
 weight: 410
 url: /fr/net/aspose.pdf.facades/formfieldfacade/checkboxstylecross/
 ---
-## Champ FormFieldFacade.CheckBoxStyleCross
+## FormFieldFacade.CheckBoxStyleCross field
 
 Définit un style de case à cocher en croix.
 
@@ -16,6 +16,8 @@ public const int CheckBoxStyleCross;
 
 ### Voir aussi
 
-* classe [FormFieldFacade](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

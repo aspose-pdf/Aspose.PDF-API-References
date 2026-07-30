@@ -1,12 +1,12 @@
 ---
-title: SetRGBColor.R
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SetRGBColor. Obtient ou définit le composant rouge
+title: "SetRGBColor.R"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété SetRGBColor. Obtient ou définit le composant rouge"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.operators/setrgbcolor/r/
 ---
-## Propriété SetRGBColor.R
+## SetRGBColor.R property
 
 Obtient ou définit le composant rouge.
 
@@ -14,12 +14,14 @@ Obtient ou définit le composant rouge.
 public double R { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le niveau de rouge de 0.0 à 1.0
 
 ### Voir aussi
 
-* classe [SetRGBColor](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetRGBColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

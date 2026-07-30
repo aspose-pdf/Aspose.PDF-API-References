@@ -1,7 +1,7 @@
 ---
-title: SetLineJoin.SetLineJoin
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur SetLineJoin. Initialise l'opérateur
+title: "SetLineJoin.SetLineJoin"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur SetLineJoin. Initialise l'opérateur"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.operators/setlinejoin/setlinejoin/
@@ -16,8 +16,8 @@ public SetLineJoin()
 
 ### Voir aussi
 
-* classe [SetLineJoin](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetLineJoin](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -30,7 +30,9 @@ public SetLineJoin(LineJoin join)
 
 ### Voir aussi
 
-* énum [LineJoin](../../linejoin/)
-* classe [SetLineJoin](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* enum [LineJoin](../../linejoin/)
+* class [SetLineJoin](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

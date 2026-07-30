@@ -1,12 +1,12 @@
 ---
-title: Matrix.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Matrix. Ajoute une matrice à une autre matrice
+title: "Matrix.Add"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Matrix. Ajoute une matrice à une autre matrice"
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf/matrix/add/
 ---
-## Méthode Matrix.Add
+## Matrix.Add method
 
 Ajoute une matrice à une autre matrice.
 
@@ -16,14 +16,16 @@ public Matrix Add(Matrix other)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| autre | Matrix | Matrice à ajouter. |
+| autre | Matrice | Matrice à ajouter. |
 
 ### Valeur de retour
 
-Résultat de l'addition de matrices.
+Résultat de l'ajout de matrice.
 
 ### Voir aussi
 
-* classe [Matrix](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

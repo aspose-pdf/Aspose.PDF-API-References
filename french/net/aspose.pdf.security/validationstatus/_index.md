@@ -1,14 +1,14 @@
 ---
-title: Enum ValidationStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ValidationStatus d'Aspose.Pdf.Security. Représente le statut de validation d'une validation de certificat
+title: "Enum ValidationStatus"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Security.ValidationStatus enum. Représente le statut de validation d'une validation de certificat"
 type: docs
-weight: 10090
+weight: 10270
 url: /fr/net/aspose.pdf.security/validationstatus/
 ---
-## Énumération ValidationStatus
+## ValidationStatus enumeration
 
-Représente le statut de validation d'une validation de certificat.
+Représente l'état de validation d'une validation de certificat.
 
 ```csharp
 public enum ValidationStatus
@@ -18,15 +18,17 @@ public enum ValidationStatus
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| Valide | `0` | Indique que le certificat a été validé avec succès. |
-| Invalide | `1` | Indique que la validation du certificat a échoué. |
-| Indéfini | `2` | Indique que le processus de validation était inconclusif ou non effectué. |
+| Valid | `0` | Indique que le certificat a été validé avec succès. |
+| Invalid | `1` | Indique que la validation du certificat a échoué. |
+| Undefined | `2` | Indique que le processus de validation était inconclus ou n'a pas été effectué. |
 
 ## Remarques
 
-Cette énumération définit les résultats possibles de la validation des certificats : - Valide : Indique que le certificat a été validé avec succès. - Invalide : Indique que la validation du certificat a échoué. - Indéfini : Indique que le processus de validation était inconclusif ou non effectué.
+Cette énumération définit les résultats possibles de la validation d'un certificat : - Valid : Indique que le certificat a été validé avec succès. - Invalid : Indique que la validation du certificat a échoué. - Undefined : Indique que le processus de validation était inconclus ou n'a pas été effectué.
 
 ### Voir aussi
 
 * namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../)
+
+

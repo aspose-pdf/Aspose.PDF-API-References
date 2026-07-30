@@ -1,12 +1,12 @@
 ---
-title: GraphicElementCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode GraphicElementCollection. Supprime l'élément GraphicElement
+title: "GraphicElementCollection.Remove"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode GraphicElementCollection. Supprime l'élément GraphicElement."
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.vector/graphicelementcollection/remove/
 ---
-## Méthode GraphicElementCollection.Remove
+## GraphicElementCollection.Remove method
 
 Supprime l'élément [`GraphicElement`](../../graphicelement/).
 
@@ -20,11 +20,13 @@ public bool Remove(GraphicElement item)
 
 ### Valeur de retour
 
-Vrai - si l'élément est trouvé ; sinon, faux.
+True - si l’élément est trouvé ; sinon, false.
 
 ### Voir aussi
 
-* classe [GraphicElement](../../graphicelement/)
-* classe [GraphicElementCollection](../)
-* espace de noms [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* class [GraphicElement](../../graphicelement/)
+* class [GraphicElementCollection](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

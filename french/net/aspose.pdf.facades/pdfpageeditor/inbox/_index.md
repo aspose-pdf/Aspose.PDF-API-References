@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.INBOX
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PdfPageEditor. Boîte d'entrée
+title: "PdfPageEditor.INBOX"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PdfPageEditor. Inward Box"
 type: docs
 weight: 240
 url: /fr/net/aspose.pdf.facades/pdfpageeditor/inbox/
 ---
-## Champ PdfPageEditor.INBOX
+## PdfPageEditor.INBOX field
 
-Boîte d'entrée
+Boîte vers l'intérieur
 
 ```csharp
 public const int INBOX;
@@ -16,6 +16,8 @@ public const int INBOX;
 
 ### Voir aussi
 
-* classe [PdfPageEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

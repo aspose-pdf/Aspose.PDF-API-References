@@ -1,14 +1,14 @@
 ---
-title: RunCreateRequest.AdditionalMessages
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété RunCreateRequest. Obtient ou définit les messages supplémentaires au fil de discussion avant de créer l'exécution
+title: "RunCreateRequest.AdditionalMessages"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété RunCreateRequest. Obtient ou définit les messages supplémentaires au fil avant de créer l'exécution."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.ai/runcreaterequest/additionalmessages/
 ---
-## Propriété RunCreateRequest.AdditionalMessages
+## RunCreateRequest.AdditionalMessages property
 
-Obtient ou définit les messages supplémentaires au fil de discussion avant de créer l'exécution.
+Obtient ou définit les messages supplémentaires au fil avant de créer l'exécution.
 
 ```csharp
 public List<ThreadMessageCreateRequest> AdditionalMessages { get; set; }
@@ -16,7 +16,9 @@ public List<ThreadMessageCreateRequest> AdditionalMessages { get; set; }
 
 ### Voir aussi
 
-* classe [ThreadMessageCreateRequest](../../threadmessagecreaterequest/)
-* classe [RunCreateRequest](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ThreadMessageCreateRequest](../../threadmessagecreaterequest/)
+* class [RunCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

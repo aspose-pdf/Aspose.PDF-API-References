@@ -1,12 +1,12 @@
 ---
-title: BMC.BMC
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur BMC. Initialise l'opérateur
+title: "BMC.BMC"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur BMC. Initialise l'opérateur"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.operators/bmc/bmc/
 ---
-## Constructeur BMC
+## BMC constructor
 
 Initialise l'opérateur.
 
@@ -16,10 +16,12 @@ public BMC(string tag)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| tag | String | Tag de contenu marqué. |
+| balise | String | Balise de contenu marqué. |
 
 ### Voir aussi
 
-* classe [BMC](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [BMC](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

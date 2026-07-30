@@ -1,14 +1,14 @@
 ---
-title: FormEditor.DelListItem
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FormEditor. Supprimer un élément du champ de liste
+title: "FormEditor.DelListItem"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "FormEditor méthode. Supprimer l'élément du champ de liste"
 type: docs
 weight: 180
 url: /fr/net/aspose.pdf.facades/formeditor/dellistitem/
 ---
-## Méthode FormEditor.DelListItem
+## FormEditor.DelListItem method
 
-Supprimer un élément du champ de liste.
+Supprime l'élément du champ de liste.
 
 ```csharp
 public void DelListItem(string fieldName, string itemName)
@@ -28,6 +28,8 @@ formEditor.DelListItem("listboxField", "item2");
 
 ### Voir aussi
 
-* classe [FormEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

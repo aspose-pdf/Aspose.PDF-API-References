@@ -1,14 +1,14 @@
 ---
-title: CosPdfString.GetHashCode
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode CosPdfString. Obtenir le code de hachage pour l'objet actuel
+title: "CosPdfString.GetHashCode"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode CosPdfString. Obtient le code de hachage pour l'objet actuel"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.dataeditor/cospdfstring/gethashcode/
 ---
-## Méthode CosPdfString.GetHashCode
+## CosPdfString.GetHashCode method
 
-Obtenir le code de hachage pour l'objet actuel.
+Obtient le code de hachage de l'objet actuel.
 
 ```csharp
 public override int GetHashCode()
@@ -20,6 +20,8 @@ Un code de hachage pour l'objet actuel.
 
 ### Voir aussi
 
-* classe [CosPdfString](../)
-* espace de noms [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* class [CosPdfString](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

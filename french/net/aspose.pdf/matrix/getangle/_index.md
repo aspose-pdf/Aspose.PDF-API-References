@@ -1,12 +1,12 @@
 ---
-title: Matrix.GetAngle
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Matrix. Traduit la rotation en degrés d'angle
+title: "Matrix.GetAngle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Matrix. Convertit la rotation en degrés"
 type: docs
 weight: 240
 url: /fr/net/aspose.pdf/matrix/getangle/
 ---
-## Méthode Matrix.GetAngle
+## Matrix.GetAngle method
 
 Traduit la rotation en angle (degrés)
 
@@ -20,7 +20,7 @@ public static double GetAngle(Rotation rotation)
 
 ### Valeur de retour
 
-Valeur de l'angle.
+Valeur d'angle.
 
 ## Exemples
 
@@ -35,3 +35,5 @@ Matrix m = Matrix.Rotation(angle);
 * class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

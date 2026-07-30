@@ -1,12 +1,12 @@
 ---
-title: GraphicsAbsorber.GraphicsAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de GraphicsAbsorber. Le constructeur par défaut
+title: "GraphicsAbsorber.GraphicsAbsorber"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur GraphicsAbsorber. Le constructeur par défaut."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.vector/graphicsabsorber/graphicsabsorber/
 ---
-## Constructeur de GraphicsAbsorber
+## GraphicsAbsorber constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public GraphicsAbsorber()
 
 ### Voir aussi
 
-* classe [GraphicsAbsorber](../)
-* espace de noms [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* class [GraphicsAbsorber](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

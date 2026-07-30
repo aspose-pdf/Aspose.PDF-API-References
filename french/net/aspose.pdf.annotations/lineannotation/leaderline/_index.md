@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.LeaderLine
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété LineAnnotation. Obtient ou définit la longueur de la ligne de leader
+title: "LineAnnotation.LeaderLine"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété LineAnnotation. Obtient ou définit la longueur de la ligne directrice"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.annotations/lineannotation/leaderline/
 ---
-## Propriété LineAnnotation.LeaderLine
+## LineAnnotation.LeaderLine property
 
-Obtient ou définit la longueur de la ligne de leader.
+Obtient ou définit la longueur de la ligne directrice.
 
 ```csharp
 public double LeaderLine { get; set; }
@@ -16,6 +16,8 @@ public double LeaderLine { get; set; }
 
 ### Voir aussi
 
-* classe [LineAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

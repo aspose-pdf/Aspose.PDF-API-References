@@ -1,12 +1,12 @@
 ---
-title: TextFragment.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextFragment. Obtient ou définit l'état du texte pour le texte que représente l'objet TextFragment
+title: "TextFragment.TextState"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextFragment. Obtient ou définit l'état du texte pour le texte que représente l'objet TextFragment."
 type: docs
 weight: 150
 url: /fr/net/aspose.pdf.text/textfragment/textstate/
 ---
-## Propriété TextFragment.TextState
+## TextFragment.TextState property
 
 Obtient ou définit l'état du texte pour le texte que représente l'objet [`TextFragment`](../).
 
@@ -16,37 +16,39 @@ public TextFragmentState TextState { get; }
 
 ## Remarques
 
-Fournit un moyen de changer les propriétés suivantes du texte : Police TailleDePolice StyleDePolice CouleurDePremierPlan CouleurDeFond
+Fournit un moyen de modifier les propriétés suivantes du texte : Font FontSize FontStyle ForegroundColor BackgroundColor
 
 ## Exemples
 
-L'exemple démontre comment changer la couleur du texte et la taille de police du texte avec l'objet `TextState`.
+L'exemple montre comment changer la couleur du texte et la taille de la police du texte avec l'objet `TextState`.
 
 ```csharp
-// Open document
+// Ouvrir le document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Créer l'objet TextFragmentAbsorber pour trouver toutes les occurrences du texte "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Accepter l'absorbeur pour la première page
 doc.Pages[1].Accept(absorber);
 
-// Change foreground color of the first text occurrence
+// Modifier la couleur de premier plan de la première occurrence du texte
 absorber.TextFragments[1].TextState.ForegroundColor = Color.FromRgb(System.Drawing.Color.Red);
 
-// Change font size of the first text occurrence
+// Modifier la taille de police de la première occurrence du texte
 absorber.TextFragments[1].TextState.FontSize = 15;
 
-// Save document
+// Enregistrer le document
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
 ### Voir aussi
 
-* classe [TextFragmentAbsorber](../../textfragmentabsorber/)
-* classe [Document](../../../aspose.pdf/document/)
-* classe [TextFragmentState](../../textfragmentstate/)
-* classe [TextFragment](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextFragmentState](../../textfragmentstate/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

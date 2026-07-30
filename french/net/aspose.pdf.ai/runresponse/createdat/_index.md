@@ -1,14 +1,14 @@
 ---
-title: RunResponse.CreatedAt
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété RunResponse. Obtient ou définit le timestamp Unix en secondes pour le moment où l'exécution a été créée
+title: "RunResponse.CreatedAt"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété RunResponse. Obtient ou définit l'horodatage Unix en secondes du moment où le run a été créé"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.ai/runresponse/createdat/
 ---
-## Propriété RunResponse.CreatedAt
+## RunResponse.CreatedAt property
 
-Obtient ou définit le timestamp Unix (en secondes) pour le moment où l'exécution a été créée.
+Obtient ou définit l'horodatage Unix (en secondes) du moment où le run a été créé.
 
 ```csharp
 public long CreatedAt { get; set; }
@@ -16,6 +16,8 @@ public long CreatedAt { get; set; }
 
 ### Voir aussi
 
-* classe [RunResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

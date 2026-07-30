@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Trivial
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Rectangle. Initialise un rectangle trivial c'est-à-dire un rectangle avec une position et une taille nulles
+title: "Rectangle.Trivial"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Rectangle. Initialise un rectangle trivial, c’est‑à‑dire un rectangle avec position et taille nulles"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/rectangle/trivial/
 ---
-## Propriété Rectangle.Trivial
+## Rectangle.Trivial property
 
-Initialise un rectangle trivial c'est-à-dire un rectangle avec une position et une taille nulles.
+Initialise un rectangle trivial, c'est‑à‑dire un rectangle avec une position et une taille nulles.
 
 ```csharp
 public static Rectangle Trivial { get; }
@@ -16,6 +16,8 @@ public static Rectangle Trivial { get; }
 
 ### Voir aussi
 
-* classe [Rectangle](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

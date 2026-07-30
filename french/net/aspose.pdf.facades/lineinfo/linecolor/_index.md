@@ -1,12 +1,12 @@
 ---
-title: LineInfo.LineColor
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété LineInfo. Obtient ou définit la couleur d'une ligne
+title: "LineInfo.LineColor"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété LineInfo. Obtient ou définit la couleur d'une ligne"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.facades/lineinfo/linecolor/
 ---
-## Propriété LineInfo.LineColor
+## LineInfo.LineColor property
 
 Obtient ou définit la couleur d'une ligne.
 
@@ -16,6 +16,8 @@ public Color LineColor { get; set; }
 
 ### Voir aussi
 
-* classe [LineInfo](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [LineInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Artifact.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Artifact. Obtient le texte de l'artéfact
+title: "Artifact.Text"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Artifact. Obtient le texte de l'artifact."
 type: docs
 weight: 190
 url: /fr/net/aspose.pdf/artifact/text/
 ---
-## Propriété Artifact.Text
+## Artifact.Text property
 
-Obtient le texte de l'artéfact.
+Obtient le texte de l'artefact.
 
 ```csharp
 public string Text { get; set; }
@@ -16,6 +16,8 @@ public string Text { get; set; }
 
 ### Voir aussi
 
-* classe [Artifact](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

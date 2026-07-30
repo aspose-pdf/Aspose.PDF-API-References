@@ -1,12 +1,12 @@
 ---
-title: Class License
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.License. Fournit des méthodes pour licencier le composant
+title: "Classe License"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.License class. Fournit des méthodes pour licencier le composant"
 type: docs
-weight: 6090
+weight: 6220
 url: /fr/net/aspose.pdf/license/
 ---
-## Classe Licence
+## License class
 
 Fournit des méthodes pour licencier le composant.
 
@@ -20,14 +20,23 @@ public class License
 | --- | --- |
 | [License](license/)() | Le constructeur par défaut. |
 
+## Propriétés
+
+| Nom | Description |
+| --- | --- |
+| [LicenseInfo](../../aspose.pdf/license/licenseinfo/) { get; } | Obtient les informations de licence actuelles. |
+
 ## Méthodes
 
 | Nom | Description |
 | --- | --- |
-| [SetLicense](../../aspose.pdf/license/setlicense/#setlicense)(Stream) | Licencie le composant. |
-| [SetLicense](../../aspose.pdf/license/setlicense/#setlicense_1)(string) | Licencie le composant. |
+| [ClearLicense](../../aspose.pdf/license/clearlicense/)() | Efface la licence actuelle. |
+| [SetLicense](../../aspose.pdf/license/setlicense/#setlicense)(Stream) | Licence le composant. |
+| [SetLicense](../../aspose.pdf/license/setlicense/#setlicense_1)(string) | Licence le composant. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

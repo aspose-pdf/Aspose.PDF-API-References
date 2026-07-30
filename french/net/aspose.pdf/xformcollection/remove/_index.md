@@ -1,12 +1,12 @@
 ---
-title: XFormCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XFormCollection. Supprime l'élément spécifié de la collection
+title: "XFormCollection.Remove"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XFormCollection. Supprime l'élément spécifié de la collection"
 type: docs
 weight: 140
 url: /fr/net/aspose.pdf/xformcollection/remove/
 ---
-## Méthode XFormCollection.Remove
+## XFormCollection.Remove method
 
 Supprime l'élément spécifié de la collection.
 
@@ -24,7 +24,9 @@ true si l'élément a été supprimé de la collection ; sinon, false.
 
 ### Voir aussi
 
-* classe [XForm](../../xform/)
-* classe [XFormCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XForm](../../xform/)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

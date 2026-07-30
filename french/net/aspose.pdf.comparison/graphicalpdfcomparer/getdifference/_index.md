@@ -1,12 +1,12 @@
 ---
-title: GraphicalPdfComparer.GetDifference
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode GraphicalPdfComparer. Obtient les différences entre les images des pages. Le résultat contient une image de la première page comparée et un tableau de différences
+title: "GraphicalPdfComparer.GetDifference"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode GraphicalPdfComparer. Obtient les différences entre les images des pages. Le résultat contient une image de la première page comparée et un tableau de différences"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.comparison/graphicalpdfcomparer/getdifference/
 ---
-## Méthode GraphicalPdfComparer.GetDifference
+## GraphicalPdfComparer.GetDifference method
 
 Obtient les différences entre les images des pages. Le résultat contient une image de la première page comparée et un tableau de différences.
 
@@ -27,12 +27,14 @@ L'instance [`ImagesDifference`](../../imagesdifference/).
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | Si les pages comparées sont de tailles différentes. |
+| ArgumentException | Si les pages comparées ont des tailles différentes. |
 
 ### Voir aussi
 
-* classe [ImagesDifference](../../imagesdifference/)
-* classe [Page](../../../aspose.pdf/page/)
-* classe [GraphicalPdfComparer](../)
-* espace de noms [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* class [ImagesDifference](../../imagesdifference/)
+* class [Page](../../../aspose.pdf/page/)
+* class [GraphicalPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

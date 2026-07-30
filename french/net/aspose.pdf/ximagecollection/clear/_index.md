@@ -1,12 +1,12 @@
 ---
-title: XImageCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XImageCollection. Efface tous les éléments de la collection
+title: "XImageCollection.Clear"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XImageCollection. Supprime tous les éléments de la collection"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf/ximagecollection/clear/
 ---
-## Méthode XImageCollection.Clear
+## XImageCollection.Clear method
 
 Efface tous les éléments de la collection.
 
@@ -16,6 +16,8 @@ public void Clear()
 
 ### Voir aussi
 
-* classe [XImageCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

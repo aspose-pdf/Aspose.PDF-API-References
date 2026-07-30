@@ -1,12 +1,12 @@
 ---
-title: IAdjustPosition.AdjustPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode IAdjustPosition. Ajuster la position
+title: "IAdjustPosition.AdjustPosition"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode IAdjustPosition. Ajuste la position"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.tagged/iadjustposition/adjustposition/
 ---
-## Méthode IAdjustPosition.AdjustPosition
+## IAdjustPosition.AdjustPosition method
 
 Ajuster la position.
 
@@ -20,7 +20,9 @@ public void AdjustPosition(PositionSettings positionSettings)
 
 ### Voir aussi
 
-* classe [PositionSettings](../../positionsettings/)
+* class [PositionSettings](../../positionsettings/)
 * interface [IAdjustPosition](../)
-* espace de noms [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

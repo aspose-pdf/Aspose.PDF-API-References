@@ -1,7 +1,7 @@
 ---
-title: PdfViewer.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfViewer. Enregistre le document PDF résultant dans un fichier
+title: "PdfViewer.Save"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfViewer. Enregistre le document PDF résultant dans un fichier"
 type: docs
 weight: 360
 url: /fr/net/aspose.pdf.facades/pdfviewer/save/
@@ -20,8 +20,8 @@ public void Save(string destFile)
 
 ### Voir aussi
 
-* classe [PdfViewer](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -40,6 +40,8 @@ public void Save(Stream destStream)
 
 ### Voir aussi
 
-* classe [PdfViewer](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

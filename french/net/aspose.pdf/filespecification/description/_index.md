@@ -1,12 +1,12 @@
 ---
-title: FileSpecification.Description
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FileSpecification. Obtient ou définit le texte associé à la spécification de fichier
+title: "FileSpecification.Description"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FileSpecification. Obtient ou définit le texte associé à la spécification du fichier"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf/filespecification/description/
 ---
-## Propriété FileSpecification.Description
+## FileSpecification.Description property
 
 Obtient ou définit le texte associé à la spécification de fichier.
 
@@ -16,6 +16,8 @@ public string Description { get; set; }
 
 ### Voir aussi
 
-* classe [FileSpecification](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

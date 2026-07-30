@@ -1,12 +1,12 @@
 ---
-title: TiffDevice.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TiffDevice. Obtient la hauteur de sortie de l'image
+title: "TiffDevice.Height"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TiffDevice. Obtient la hauteur de sortie de l'image."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.devices/tiffdevice/height/
 ---
-## Propriété TiffDevice.Height
+## TiffDevice.Height property
 
 Obtient la hauteur de sortie de l'image.
 
@@ -16,6 +16,8 @@ public int Height { get; }
 
 ### Voir aussi
 
-* classe [TiffDevice](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [TiffDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

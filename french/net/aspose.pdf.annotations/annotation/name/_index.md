@@ -1,12 +1,12 @@
 ---
-title: Annotation.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété d'annotation. Obtient ou définit le nom de l'annotation sur la page
+title: "Annotation.Name"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Annotation. Obtient ou définit le nom de l'annotation sur la page"
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf.annotations/annotation/name/
 ---
-## Propriété Annotation.Name
+## Annotation.Name property
 
 Obtient ou définit le nom de l'annotation sur la page.
 
@@ -16,6 +16,8 @@ public string Name { get; set; }
 
 ### Voir aussi
 
-* classe [Annotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

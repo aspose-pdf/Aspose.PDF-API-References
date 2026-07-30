@@ -1,14 +1,14 @@
 ---
-title: FontCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FontCollection. Ajoute une nouvelle police aux ressources de police et renvoie le nom de ressource de police attribué automatiquement
+title: "FontCollection.Add"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode FontCollection. Ajoute une nouvelle police aux ressources de police et renvoie le nom attribué automatiquement à la ressource de police"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.text/fontcollection/add/
 ---
-## Méthode FontCollection.Add
+## FontCollection.Add method
 
-Ajoute une nouvelle police aux ressources de police et renvoie le nom de ressource de police attribué automatiquement.
+Ajoute une nouvelle police aux ressources de polices et renvoie le nom attribué automatiquement à la ressource de police.
 
 ```csharp
 public void Add(Font newFont, out string resName)
@@ -16,12 +16,14 @@ public void Add(Font newFont, out string resName)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| newFont | Font | Objet police. |
+| newFont | Font | Objet de police. |
 | resName | String& | Le nom de l'élément de ressource attribué automatiquement. |
 
 ### Voir aussi
 
-* classe [Font](../../font/)
-* classe [FontCollection](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Font](../../font/)
+* class [FontCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

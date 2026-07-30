@@ -1,12 +1,12 @@
 ---
-title: TeXMemoryOutputDirectory.GetOutputFile
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TeXMemoryOutputDirectory. Renvoie le flux à écrire
+title: "TeXMemoryOutputDirectory.GetOutputFile"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TeXMemoryOutputDirectory. Retourne le flux à écrire"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/texmemoryoutputdirectory/getoutputfile/
 ---
-## Méthode TeXMemoryOutputDirectory.GetOutputFile
+## TeXMemoryOutputDirectory.GetOutputFile method
 
 Renvoie le flux à écrire.
 
@@ -25,6 +25,8 @@ Le flux.
 
 ### Voir aussi
 
-* classe [TeXMemoryOutputDirectory](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [TeXMemoryOutputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

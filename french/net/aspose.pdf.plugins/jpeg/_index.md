@@ -1,12 +1,12 @@
 ---
-title: Class Jpeg
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.Jpeg. Représente le plugin Pdf vers Jpeg
+title: "Classe Jpeg"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Plugins.Jpeg. Représente le plugin Pdf vers Jpeg"
 type: docs
-weight: 8910
+weight: 9040
 url: /fr/net/aspose.pdf.plugins/jpeg/
 ---
-## Classe Jpeg
+## Jpeg class
 
 Représente le plugin Pdf vers Jpeg.
 
@@ -24,11 +24,13 @@ public sealed class Jpeg : PdfToImage
 
 | Nom | Description |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/pdftoimage/dispose/)() | Mise en œuvre de . En fait, ce n'est pas nécessaire pour . |
+| [Dispose](../../aspose.pdf.plugins/pdftoimage/dispose/)() | Implémentation de . En fait, ce n'est pas nécessaire pour . |
 | [Process](../../aspose.pdf.plugins/pdftoimage/process/)(IPluginOptions) | Démarre le traitement avec les paramètres spécifiés. |
 
 ### Voir aussi
 
-* classe [PdfToImage](../pdftoimage/)
-* espace de noms [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* class [PdfToImage](../pdftoimage/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

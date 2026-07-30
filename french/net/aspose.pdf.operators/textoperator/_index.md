@@ -1,12 +1,12 @@
 ---
-title: Class TextOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.TextOperator. Classe de base abstraite pour les opérateurs liés au texte TJ Tj Tm BT ET etc
+title: "Classe TextOperator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.TextOperator class. Classe de base abstraite pour les opérateurs liés au texte TJ Tj Tm BT ET etc"
 type: docs
-weight: 7900
+weight: 8040
 url: /fr/net/aspose.pdf.operators/textoperator/
 ---
-## Classe TextOperator
+## TextOperator class
 
 Classe de base abstraite pour les opérateurs liés au texte (TJ, Tj, Tm, BT, ET, etc).
 
@@ -31,12 +31,14 @@ public abstract class TextOperator : Operator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Renvoie le texte de l'opérateur et ses paramètres. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [Operator](../../aspose.pdf/operator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

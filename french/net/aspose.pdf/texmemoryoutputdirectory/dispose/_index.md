@@ -1,14 +1,14 @@
 ---
-title: TeXMemoryOutputDirectory.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TeXMemoryOutputDirectory. Dispose l'instance
+title: "TeXMemoryOutputDirectory.Dispose"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TeXMemoryOutputDirectory. Libère l'instance"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/texmemoryoutputdirectory/dispose/
 ---
-## Méthode TeXMemoryOutputDirectory.Dispose
+## TeXMemoryOutputDirectory.Dispose method
 
-Dispose l'instance.
+Libère l'instance.
 
 ```csharp
 public virtual void Dispose()
@@ -16,6 +16,8 @@ public virtual void Dispose()
 
 ### Voir aussi
 
-* classe [TeXMemoryOutputDirectory](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [TeXMemoryOutputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

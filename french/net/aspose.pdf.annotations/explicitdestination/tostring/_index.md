@@ -1,12 +1,12 @@
 ---
-title: ExplicitDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ExplicitDestination. Renvoie la représentation sous forme de chaîne de l'objet ExplicitDestination
+title: "ExplicitDestination.ToString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode ExplicitDestination. Retourne la représentation sous forme de chaîne de l'objet ExplicitDestination"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.annotations/explicitdestination/tostring/
 ---
-## Méthode ExplicitDestination.ToString
+## ExplicitDestination.ToString method
 
 Renvoie la représentation sous forme de chaîne de l'objet ExplicitDestination.
 
@@ -20,6 +20,8 @@ Représentation sous forme de chaîne.
 
 ### Voir aussi
 
-* classe [ExplicitDestination](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [ExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

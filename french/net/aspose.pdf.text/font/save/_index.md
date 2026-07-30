@@ -1,14 +1,14 @@
 ---
-title: Font.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Font. Enregistre la police dans le flux. Notez que la police est enregistrée au format TTF intermédiaire destiné à être utilisé uniquement dans une copie convertie du document original. Le fichier de police n'est pas destiné à être utilisé en dehors du contexte du document original.
+title: "Font.Save"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Font. Enregistre la police dans le flux. Notez que la police est enregistrée au format TTF intermédiaire destiné à être utilisé uniquement dans une copie convertie du document original. Le fichier de police n'est pas destiné à être utilisé en dehors du contexte du document original."
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.text/font/save/
 ---
-## Méthode Font.Save
+## Font.Save method
 
-Enregistre la police dans le flux. Notez que la police est enregistrée au format TTF intermédiaire destiné à être utilisé uniquement dans une copie convertie du document original. Le fichier de police n'est pas destiné à être utilisé en dehors du contexte du document original.
+Enregistre la police dans le flux. Notez que la police est enregistrée au format TTF intermédiaire destiné à être utilisé uniquement dans une copie convertie du document original. Le fichier de police n’est pas destiné à être utilisé en dehors du contexte du document original.
 
 ```csharp
 public void Save(Stream stream)
@@ -20,6 +20,8 @@ public void Save(Stream stream)
 
 ### Voir aussi
 
-* classe [Font](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Font](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

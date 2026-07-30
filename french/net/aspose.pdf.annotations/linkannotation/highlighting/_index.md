@@ -1,14 +1,14 @@
 ---
-title: LinkAnnotation.Highlighting
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété LinkAnnotation. L'effet visuel à utiliser lorsque le bouton de la souris est enfoncé ou maintenu enfoncé à l'intérieur de sa zone active
+title: "LinkAnnotation.Highlighting"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété LinkAnnotation. L'effet visuel à utiliser lorsque le bouton de la souris est enfoncé ou maintenu dans sa zone active"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.annotations/linkannotation/highlighting/
 ---
-## Propriété LinkAnnotation.Highlighting
+## LinkAnnotation.Highlighting property
 
-L'effet visuel à utiliser lorsque le bouton de la souris est enfoncé ou maintenu enfoncé à l'intérieur de sa zone active.
+L'effet visuel à utiliser lorsque le bouton de la souris est enfoncé ou maintenu dans sa zone active.
 
 ```csharp
 public HighlightingMode Highlighting { get; set; }
@@ -20,3 +20,5 @@ public HighlightingMode Highlighting { get; set; }
 * class [LinkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

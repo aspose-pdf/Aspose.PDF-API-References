@@ -1,12 +1,12 @@
 ---
-title: Class OrganizerBaseOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.OrganizerBaseOptions. Représente les options de base pour les plugins
+title: "Classe OrganizerBaseOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Plugins.OrganizerBaseOptions. Représente les options de base pour les plugins"
 type: docs
-weight: 8980
+weight: 9130
 url: /fr/net/aspose.pdf.plugins/organizerbaseoptions/
 ---
-## Classe OrganizerBaseOptions
+## OrganizerBaseOptions class
 
 Représente les options de base pour les plugins.
 
@@ -18,8 +18,8 @@ public class OrganizerBaseOptions : IPluginOptions
 
 | Nom | Description |
 | --- | --- |
-| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | Ferme les flux d'entrée après la fin de l'opération. |
-| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Ferme les flux de sortie après la fin de l'opération. |
+| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | Fermez les flux d'entrée après la fin de l'opération. |
+| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Fermez les flux de sortie après la fin de l'opération. |
 | [Inputs](../../aspose.pdf.plugins/organizerbaseoptions/inputs/) { get; } | Renvoie la collection de données du plugin OrganizerOptions. |
 | [Outputs](../../aspose.pdf.plugins/organizerbaseoptions/outputs/) { get; } | Obtient la collection des cibles ajoutées pour enregistrer les résultats de l'opération. |
 
@@ -35,3 +35,5 @@ public class OrganizerBaseOptions : IPluginOptions
 * interface [IPluginOptions](../ipluginoptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

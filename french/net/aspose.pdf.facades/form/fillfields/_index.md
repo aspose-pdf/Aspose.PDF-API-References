@@ -1,14 +1,14 @@
 ---
-title: Form.FillFields
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Form. Remplit les champs de la zone de texte avec des valeurs textuelles et enregistre le document. Pertinent pour les documents signés. Remarque  Ne s'applique qu'à la zone de texte. Les noms et valeurs des champs sont sensibles à la casse.
+title: "Form.FillFields"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Form méthode. Remplit les champs de zone de texte avec des valeurs textuelles et enregistre le document. Pertinent pour les documents signés. Remarque : ne s'applique qu'aux zones de texte. Le nom et les valeurs des champs sont sensibles à la casse."
 type: docs
 weight: 140
 url: /fr/net/aspose.pdf.facades/form/fillfields/
 ---
-## Méthode Form.FillFields
+## Form.FillFields method
 
-Remplit les champs de la zone de texte avec des valeurs textuelles et enregistre le document. Pertinent pour les documents signés. Remarque : Ne s'applique qu'à la zone de texte. Les noms et valeurs des champs sont sensibles à la casse.
+Remplit les champs de zone de texte avec des valeurs textuelles et enregistre le document. Pertinent pour les documents signés. Remarque : applicable uniquement aux zones de texte. Les noms et les valeurs des champs sont sensibles à la casse.
 
 ```csharp
 public bool FillFields(string[] fieldNames, string[] fieldValues, out Stream output)
@@ -34,6 +34,8 @@ form.FillFields(new string[] {"Field1"}, new string[] {"+"}, out stream);
 
 ### Voir aussi
 
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

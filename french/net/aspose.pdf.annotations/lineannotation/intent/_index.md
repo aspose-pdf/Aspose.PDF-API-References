@@ -1,12 +1,12 @@
 ---
-title: LineAnnotation.Intent
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété LineAnnotation. Obtient ou définit l'intention de l'annotation de ligne
+title: "LineAnnotation.Intent"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "LineAnnotation propriété. Obtient ou définit l'intention de l'annotation de ligne"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.annotations/lineannotation/intent/
 ---
-## Propriété LineAnnotation.Intent
+## LineAnnotation.Intent property
 
 Obtient ou définit l'intention de l'annotation de ligne.
 
@@ -20,3 +20,5 @@ public LineIntent Intent { get; set; }
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

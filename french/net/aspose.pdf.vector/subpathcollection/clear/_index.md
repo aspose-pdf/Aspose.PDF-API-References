@@ -1,14 +1,14 @@
 ---
-title: Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Efface la collection SubPaths.
+title: "Effacer"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Efface la collection de SubPaths."
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.vector/subpathcollection/clear/
 ---
-## Méthode SubPathCollection.Clear
+## SubPathCollection.Clear method
 
-Efface la collection SubPaths.
+Efface la collection de SubPaths.
 
 ```csharp
 public void Clear()
@@ -16,8 +16,8 @@ public void Clear()
 
 ### Voir aussi
 
-* classe [SubPathCollection](../../subpathcollection)
-* espace de noms [Aspose.Pdf.Vector](../../subpathcollection)
+* class [SubPathCollection](../../subpathcollection)
+* namespace [Aspose.Pdf.Vector](../../subpathcollection)
 * assembly [Aspose.PDF](../../../)
 
-<!-- NE PAS ÉDITER : généré par xmldocmd pour Aspose.PDF.dll -->
+<!-- NE PAS MODIFIER: généré par xmldocmd pour Aspose.PDF.dll -->

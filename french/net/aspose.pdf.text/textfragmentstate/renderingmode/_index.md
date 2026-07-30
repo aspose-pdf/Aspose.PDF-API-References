@@ -1,12 +1,12 @@
 ---
-title: TextFragmentState.RenderingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextFragmentState. Obtient ou définit le mode de rendu du texte
+title: "TextFragmentState.RenderingMode"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextFragmentState. Obtient ou définit le mode de rendu du texte."
 type: docs
 weight: 150
 url: /fr/net/aspose.pdf.text/textfragmentstate/renderingmode/
 ---
-## Propriété TextFragmentState.RenderingMode
+## TextFragmentState.RenderingMode property
 
 Obtient ou définit le mode de rendu du texte.
 
@@ -20,3 +20,5 @@ public override TextRenderingMode RenderingMode { get; set; }
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

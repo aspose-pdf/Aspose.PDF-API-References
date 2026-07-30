@@ -1,12 +1,12 @@
 ---
-title: Class ResponseFormat.ObjectType
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.ResponseFormatObjectType. Représente une valeur d'objet dans le format de réponse
+title: "Classe ResponseFormat.ObjectType"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.AI.ResponseFormatObjectType. Représente une valeur d'objet dans le format de réponse"
 type: docs
-weight: 970
+weight: 1050
 url: /fr/net/aspose.pdf.ai/responseformat.objecttype/
 ---
-## Classe ResponseFormat.ObjectType
+## ResponseFormat.ObjectType class
 
 Représente une valeur d'objet dans le format de réponse.
 
@@ -28,6 +28,8 @@ public class ObjectType
 
 ### Voir aussi
 
-* classe [ResponseFormat](../responseformat/)
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* class [ResponseFormat](../responseformat/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

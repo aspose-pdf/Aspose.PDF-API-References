@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DViewArray
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.PDF3DViewArray class. Class PDF3DViewArray
+title: "Classe PDF3DViewArray"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Annotations.PDF3DViewArray. Classe PDF3DViewArray"
 type: docs
-weight: 2250
+weight: 2340
 url: /fr/net/aspose.pdf.annotations/pdf3dviewarray/
 ---
-## Classe PDF3DViewArray
+## PDF3DViewArray class
 
 Classe PDF3DViewArray.
 
@@ -19,7 +19,7 @@ public class PDF3DViewArray
 | Nom | Description |
 | --- | --- |
 | [Count](../../aspose.pdf.annotations/pdf3dviewarray/count/) { get; } | Obtient le nombre de vues. |
-| [Item](../../aspose.pdf.annotations/pdf3dviewarray/item/) { get; set; } | Obtient ou définit le [`PDF3DView`](../pdf3dview/) à afficher dans le tableau à l'index spécifié. |
+| [Item](../../aspose.pdf.annotations/pdf3dviewarray/item/) { get; set; } | Obtient ou définit le [`PDF3DView`](../pdf3dview/) du tableau de vues à l'index spécifié. |
 
 ## Méthodes
 
@@ -31,5 +31,7 @@ public class PDF3DViewArray
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

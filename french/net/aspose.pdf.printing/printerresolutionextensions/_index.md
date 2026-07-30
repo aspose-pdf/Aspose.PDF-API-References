@@ -1,14 +1,14 @@
 ---
-title: Class PrinterResolutionExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Printing.PrinterResolutionExtensions. Représente des méthodes d'extension pour PrinterResolution
+title: "Classe PrinterResolutionExtensions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Printing.PrinterResolutionExtensions class. Représente les méthodes d'extension pour PrinterResolution"
 type: docs
-weight: 9670
+weight: 9820
 url: /fr/net/aspose.pdf.printing/printerresolutionextensions/
 ---
-## Classe PrinterResolutionExtensions
+## PrinterResolutionExtensions class
 
-Représente des méthodes d'extension pour [`PrinterResolution`](../printerresolution/).
+Représente les méthodes d'extension pour [`PrinterResolution`](../printerresolution/).
 
 ```csharp
 public static class PrinterResolutionExtensions
@@ -23,5 +23,7 @@ public static class PrinterResolutionExtensions
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

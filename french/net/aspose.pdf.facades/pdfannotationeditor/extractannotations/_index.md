@@ -1,7 +1,7 @@
 ---
-title: PdfAnnotationEditor.ExtractAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfAnnotationEditor. Obtient la liste des annotations des types spécifiés
+title: "PdfAnnotationEditor.ExtractAnnotations"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfAnnotationEditor. Obtient la liste des annotations des types spécifiés."
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.facades/pdfannotationeditor/extractannotations/
@@ -16,9 +16,9 @@ public IList<Annotation> ExtractAnnotations(int start, int end, string[] annotTy
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| start | Int32 | Page de départ à partir de laquelle les annotations seront sélectionnées. |
-| end | Int32 | Page de fin à laquelle les annotations seront sélectionnées. |
-| annotTypes | String[] | Le tableau des types d'annotations nécessaires. |
+| start | Int32 | Page de début à partir de laquelle les annotations seront sélectionnées. |
+| end | Int32 | Page de fin jusqu'à laquelle les annotations seront sélectionnées. |
+| annotTypes | String[] | Le tableau des types d'annotation requis. |
 
 ### Valeur de retour
 
@@ -35,9 +35,9 @@ IList annotList = editor.ExtractAnnotations(1, 2 , annotTypes);
 
 ### Voir aussi
 
-* classe [Annotation](../../../aspose.pdf.annotations/annotation/)
-* classe [PdfAnnotationEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -52,9 +52,9 @@ public IList<Annotation> ExtractAnnotations(int start, int end, AnnotationType[]
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| start | Int32 | Page de départ à partir de laquelle les annotations seront sélectionnées. |
-| end | Int32 | Page de fin à laquelle les annotations seront sélectionnées. |
-| annotTypes | AnnotationType[] | Le tableau des types d'annotations nécessaires. |
+| start | Int32 | Page de début à partir de laquelle les annotations seront sélectionnées. |
+| end | Int32 | Page de fin jusqu'à laquelle les annotations seront sélectionnées. |
+| annotTypes | AnnotationType[] | Le tableau des types d'annotation requis. |
 
 ### Valeur de retour
 
@@ -71,8 +71,10 @@ IList annotList = editor.ExtractAnnotations(1, 2 , annotTypes);
 
 ### Voir aussi
 
-* classe [Annotation](../../../aspose.pdf.annotations/annotation/)
-* énum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
-* classe [PdfAnnotationEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

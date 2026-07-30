@@ -1,14 +1,14 @@
 ---
-title: Form.ExportXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Form. Exporte le contenu des champs du pdf dans le flux xml. La valeur des champs de bouton ne sera pas exportée
+title: "Form.ExportXfdf"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Form. Exporte le contenu des champs du PDF vers le flux XML. La valeur des champs bouton ne sera pas exportée"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.facades/form/exportxfdf/
 ---
-## Méthode Form.ExportXfdf
+## Form.ExportXfdf method
 
-Exporte le contenu des champs du pdf dans le flux xml. La valeur du champ de bouton ne sera pas exportée.
+Exporte le contenu des champs du pdf vers le flux xml. La valeur du champ bouton ne sera pas exportée.
 
 ```csharp
 public void ExportXfdf(Stream outputXfdfStream)
@@ -29,6 +29,8 @@ fs.Close();
 
 ### Voir aussi
 
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

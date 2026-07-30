@@ -1,12 +1,12 @@
 ---
-title: TextDocument.Content
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextDocument. Obtient ou définit le contenu du document texte
+title: "TextDocument.Content"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextDocument. Obtient ou définit le contenu du document texte"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.ai/textdocument/content/
 ---
-## Propriété TextDocument.Content
+## TextDocument.Content property
 
 Obtient ou définit le contenu du document texte.
 
@@ -16,6 +16,8 @@ public string Content { get; set; }
 
 ### Voir aussi
 
-* classe [TextDocument](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [TextDocument](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

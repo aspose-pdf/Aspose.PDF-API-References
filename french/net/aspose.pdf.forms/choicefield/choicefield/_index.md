@@ -1,7 +1,7 @@
 ---
-title: ChoiceField.ChoiceField
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de ChoiceField. Constructeur pour ChoiceField
+title: "ChoiceField.ChoiceField"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur ChoiceField. Constructeur pour ChoiceField"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.forms/choicefield/choicefield/
@@ -21,10 +21,10 @@ public ChoiceField(Page page, Rectangle rect)
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [ChoiceField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [ChoiceField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -43,9 +43,9 @@ public ChoiceField(Document doc)
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [ChoiceField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Document](../../../aspose.pdf/document/)
+* class [ChoiceField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -65,8 +65,10 @@ public ChoiceField(Document doc, Rectangle rect)
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [ChoiceField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [ChoiceField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

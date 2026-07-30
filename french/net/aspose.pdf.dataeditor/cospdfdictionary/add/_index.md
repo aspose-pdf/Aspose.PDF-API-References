@@ -1,14 +1,14 @@
 ---
-title: CosPdfDictionary.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode CosPdfDictionary. Définir ICosPdfPrimitive dans le dictionnaire
+title: "CosPdfDictionary.Add"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode CosPdfDictionary. Définit ICosPdfPrimitive sur le dictionnaire"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.dataeditor/cospdfdictionary/add/
 ---
 ## Add(string, ICosPdfPrimitive) {#add_1}
 
-Définir [`ICosPdfPrimitive`](../../icospdfprimitive/) dans le dictionnaire.
+Définit [`ICosPdfPrimitive`](../../icospdfprimitive/) dans le dictionnaire.
 
 ```csharp
 public void Add(string key, ICosPdfPrimitive value)
@@ -16,14 +16,14 @@ public void Add(string key, ICosPdfPrimitive value)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| key | String | Clé. |
-| value | ICosPdfPrimitive | Valeur. |
+| clé | String | Clé. |
+| valeur | ICosPdfPrimitive | Valeur. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | Lève une exception si la clé/la valeur ne peut pas être modifiée ou supprimée. |
+| ArgumentException | Lance une exception si la clé ou la valeur ne peut pas être modifiée ou supprimée. |
 
 ### Voir aussi
 
@@ -36,7 +36,7 @@ public void Add(string key, ICosPdfPrimitive value)
 
 ## Add(KeyValuePair&lt;string, ICosPdfPrimitive&gt;) {#add}
 
-Définir [`ICosPdfPrimitive`](../../icospdfprimitive/) dans le dictionnaire.
+Définit [`ICosPdfPrimitive`](../../icospdfprimitive/) dans le dictionnaire.
 
 ```csharp
 public void Add(KeyValuePair<string, ICosPdfPrimitive> item)
@@ -50,7 +50,7 @@ public void Add(KeyValuePair<string, ICosPdfPrimitive> item)
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | Lève une exception si la clé/la valeur ne peut pas être modifiée ou supprimée. |
+| ArgumentException | Lance une exception si la clé ou la valeur ne peut pas être modifiée ou supprimée. |
 
 ### Voir aussi
 
@@ -58,3 +58,5 @@ public void Add(KeyValuePair<string, ICosPdfPrimitive> item)
 * class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

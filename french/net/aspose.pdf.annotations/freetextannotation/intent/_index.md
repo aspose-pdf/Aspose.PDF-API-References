@@ -1,12 +1,12 @@
 ---
-title: FreeTextAnnotation.Intent
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FreeTextAnnotation. Obtient ou définit l'intention de l'annotation de texte libre
+title: "FreeTextAnnotation.Intent"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FreeTextAnnotation. Obtient ou définit l'intention de l'annotation de texte libre"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.annotations/freetextannotation/intent/
 ---
-## Propriété FreeTextAnnotation.Intent
+## FreeTextAnnotation.Intent property
 
 Obtient ou définit l'intention de l'annotation de texte libre.
 
@@ -20,3 +20,5 @@ public FreeTextIntent Intent { get; set; }
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

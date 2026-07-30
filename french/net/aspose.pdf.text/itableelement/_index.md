@@ -1,14 +1,14 @@
 ---
-title: Interface ITableElement
-second_title: Aspose.PDF for .NET API Reference
-description: Interface Aspose.Pdf.Text.ITableElement. Cette interface représente un élément de table existant extrait par TableAbsorber
+title: "Interface ITableElement"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Interface Aspose.Pdf.Text.ITableElement. Cette interface représente un élément d'un tableau existant extrait par TableAbsorber"
 type: docs
-weight: 10620
+weight: 10800
 url: /fr/net/aspose.pdf.text/itableelement/
 ---
-## Interface ITableElement
+## ITableElement interface
 
-Cette interface représente un élément de table existant extrait par TableAbsorber.
+Cette interface représente un élément d'un tableau existant extrait par TableAbsorber.
 
 ```csharp
 public interface ITableElement
@@ -18,9 +18,11 @@ public interface ITableElement
 
 | Nom | Description |
 | --- | --- |
-| [Rectangle](../../aspose.pdf.text/itableelement/rectangle/) { get; } | Obtient le rectangle qui décrit la position de l'élément de table sur la page |
+| [Rectangle](../../aspose.pdf.text/itableelement/rectangle/) { get; } | Obtient le rectangle qui décrit la position de l'élément du tableau sur la page |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class LevelFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.LevelFormat. Représente le format de la table des matières
+title: "Classe LevelFormat"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.LevelFormat. Représente le format de la table des matières."
 type: docs
-weight: 6080
+weight: 6210
 url: /fr/net/aspose.pdf/levelformat/
 ---
-## Classe LevelFormat
+## LevelFormat class
 
 Représente le format de la table des matières.
 
@@ -24,12 +24,14 @@ public class LevelFormat
 
 | Nom | Description |
 | --- | --- |
-| [LineDash](../../aspose.pdf/levelformat/linedash/) { get; set; } | Obtient ou définit le trait de ligne de la table des matières. |
-| [Margin](../../aspose.pdf/levelformat/margin/) { get; set; } | Obtient ou définit une marge de niveau de liste |
-| [SubsequentLinesIndent](../../aspose.pdf/levelformat/subsequentlinesindent/) { get; set; } | Obtient ou définit un retrait pour les lignes suivantes |
-| [TextState](../../aspose.pdf/levelformat/textstate/) { get; set; } | Obtient ou définit l'état du texte d'un niveau de liste |
+| [LineDash](../../aspose.pdf/levelformat/linedash/) { get; set; } | Obtient ou définit le tiret de ligne de la TOC. |
+| [Margin](../../aspose.pdf/levelformat/margin/) { get; set; } | Obtient ou définit la marge du niveau de liste. |
+| [SubsequentLinesIndent](../../aspose.pdf/levelformat/subsequentlinesindent/) { get; set; } | Obtient ou définit le retrait des lignes suivantes. |
+| [TextState](../../aspose.pdf/levelformat/textstate/) { get; set; } | Obtient ou définit l'état du texte du niveau de liste. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

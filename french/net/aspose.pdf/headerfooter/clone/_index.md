@@ -1,12 +1,12 @@
 ---
-title: HeaderFooter.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode HeaderFooter. Clone un nouvel objet
+title: "HeaderFooter.Clone"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode HeaderFooter. Clone un nouvel objet"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf/headerfooter/clone/
 ---
-## Méthode HeaderFooter.Clone
+## HeaderFooter.Clone method
 
 Clone un nouvel objet.
 
@@ -20,6 +20,8 @@ Le nouvel objet.
 
 ### Voir aussi
 
-* classe [HeaderFooter](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [HeaderFooter](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

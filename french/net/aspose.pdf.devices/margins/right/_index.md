@@ -1,25 +1,27 @@
 ---
-title: Margins.Right
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Margins. Obtient ou définit le droit
+title: "Margins.Right"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Margins. Obtient ou définit la droite"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.devices/margins/right/
 ---
-## Propriété Margins.Right
+## Margins.Right property
 
-Obtient ou définit le droit.
+Obtient ou définit la droite.
 
 ```csharp
 public int Right { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le droit.
+La droite.
 
 ### Voir aussi
 
-* classe [Margins](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

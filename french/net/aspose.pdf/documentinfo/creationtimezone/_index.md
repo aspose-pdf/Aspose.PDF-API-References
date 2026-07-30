@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.CreationTimeZone
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété DocumentInfo. Fuseau horaire de la date de création
+title: "DocumentInfo.CreationTimeZone"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété DocumentInfo. Fuseau horaire de la date de création"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/documentinfo/creationtimezone/
 ---
-## Propriété DocumentInfo.CreationTimeZone
+## DocumentInfo.CreationTimeZone property
 
 Fuseau horaire de la date de création.
 
@@ -16,6 +16,8 @@ public TimeSpan CreationTimeZone { get; set; }
 
 ### Voir aussi
 
-* classe [DocumentInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

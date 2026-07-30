@@ -1,14 +1,14 @@
 ---
-title: Dash.Dash
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur Dash. Constructeur pour Dash. Définit une bordure en pointillés avec un tiret et un espace spécifiés qui restent inchangés pour toute la bordure en pointillés
+title: "Dash.Dash"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur Dash. Constructeur pour Dash. Définit une bordure en pointillés avec le tiret et l'espace spécifiés qui restent inchangés pour toute la bordure en pointillés"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/dash/dash/
 ---
 ## Dash(int, int) {#constructor}
 
-Constructeur pour Dash. Définit une bordure en pointillés avec un tiret et un espace spécifiés, qui restent inchangés pour toute la bordure en pointillés.
+Constructeur pour Dash. Définit une bordure en pointillés avec le tiret et l'espace spécifiés, qui restent inchangés pour toute la bordure en pointillés.
 
 ```csharp
 public Dash(int on, int off)
@@ -21,8 +21,8 @@ public Dash(int on, int off)
 
 ### Voir aussi
 
-* classe [Dash](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Dash](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -41,6 +41,8 @@ public Dash(int[] pattern)
 
 ### Voir aussi
 
-* classe [Dash](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Dash](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

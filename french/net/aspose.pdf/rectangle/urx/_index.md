@@ -1,12 +1,12 @@
 ---
-title: Rectangle.URX
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Rectangle. Coordonnée X du coin supérieur droit
+title: "Rectangle.URX"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Rectangle. Coordonnée X du coin supérieur droit"
 type: docs
 weight: 120
 url: /fr/net/aspose.pdf/rectangle/urx/
 ---
-## Propriété Rectangle.URX
+## Rectangle.URX property
 
 Coordonnée X du coin supérieur droit.
 
@@ -16,6 +16,8 @@ public double URX { get; set; }
 
 ### Voir aussi
 
-* classe [Rectangle](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

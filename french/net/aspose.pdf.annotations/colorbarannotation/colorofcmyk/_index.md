@@ -1,14 +1,14 @@
 ---
-title: ColorBarAnnotation.ColorOfCMYK
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ColorBarAnnotation. Obtient ou définit la couleur pour laquelle l'annotation est dessinée
+title: "ColorBarAnnotation.ColorOfCMYK"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ColorBarAnnotation. Obtient ou définit la couleur (cyan, magenta, jaune, noir) pour laquelle l'annotation est dessinée"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.annotations/colorbarannotation/colorofcmyk/
 ---
-## Propriété ColorBarAnnotation.ColorOfCMYK
+## ColorBarAnnotation.ColorOfCMYK property
 
-Obtient ou définit la couleur (l'une des cyan, magenta, jaune, noir) pour laquelle l'annotation est dessinée.
+Obtient ou définit la couleur (l'une de cyan, magenta, jaune, noir) pour laquelle l'annotation est dessinée.
 
 ```csharp
 public ColorsOfCMYK ColorOfCMYK { get; set; }
@@ -20,3 +20,5 @@ public ColorsOfCMYK ColorOfCMYK { get; set; }
 * class [ColorBarAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class ImagePlacement
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.ImagePlacement. Représente les caractéristiques d'une image placée sur une page de document Pdf
+title: "Classe ImagePlacement"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.ImagePlacement classe. Représente les caractéristiques d'une image placée sur la Page d'un Document Pdf"
 type: docs
-weight: 5900
+weight: 6030
 url: /fr/net/aspose.pdf/imageplacement/
 ---
-## Classe ImagePlacement
+## ImagePlacement class
 
 Représente les caractéristiques d'une image placée sur une page de document Pdf.
 
@@ -18,12 +18,12 @@ public sealed class ImagePlacement
 
 | Nom | Description |
 | --- | --- |
-| [CompositingParameters](../../aspose.pdf/imageplacement/compositingparameters/) { get; } | Obtient les paramètres de composition de l'état graphique actif pour l'image placée sur la page. |
+| [CompositingParameters](../../aspose.pdf/imageplacement/compositingparameters/) { get; } | Obtient les paramètres de composition de l'état graphique actif pour l'image placée sur la Page. |
 | [Image](../../aspose.pdf/imageplacement/image/) { get; } | Obtient l'objet de ressource XImage associé. |
 | [Matrix](../../aspose.pdf/imageplacement/matrix/) { get; } | Matrice de transformation actuelle pour cette image. |
 | [Operator](../../aspose.pdf/imageplacement/operator/) { get; } | Opérateur utilisé pour afficher l'image. |
-| [Page](../../aspose.pdf/imageplacement/page/) { get; } | Obtient la page contenant l'image. |
-| [Rectangle](../../aspose.pdf/imageplacement/rectangle/) { get; } | Obtient le rectangle de l'image. |
+| [Page](../../aspose.pdf/imageplacement/page/) { get; } | Obtient la Page contenant l'image. |
+| [Rectangle](../../aspose.pdf/imageplacement/rectangle/) { get; } | Obtient le Rectangle de l'image. |
 | [Resolution](../../aspose.pdf/imageplacement/resolution/) { get; } | Obtient la résolution de l'image. |
 | [Rotation](../../aspose.pdf/imageplacement/rotation/) { get; } | Obtient l'angle de rotation de l'image. |
 
@@ -31,39 +31,39 @@ public sealed class ImagePlacement
 
 | Nom | Description |
 | --- | --- |
-| [Hide](../../aspose.pdf/imageplacement/hide/)() | Supprime l'image de la page. |
-| [Replace](../../aspose.pdf/imageplacement/replace/)(Stream) | Remplace l'image dans la collection par une autre image. |
-| [Save](../../aspose.pdf/imageplacement/save/#save)(Stream) | Enregistre l'image avec les transformations correspondantes : mise à l'échelle, rotation et résolution. |
-| [Save](../../aspose.pdf/imageplacement/save/#save_1)(Stream, ImageFormat) | Enregistre l'image avec les transformations correspondantes : mise à l'échelle, rotation et résolution. |
+| [Hide](../../aspose.pdf/imageplacement/hide/)() | Supprimer l'image de la Page. |
+| [Replace](../../aspose.pdf/imageplacement/replace/)(Stream) | Remplacez l'image dans la collection par une autre image. |
+| [Save](../../aspose.pdf/imageplacement/save/#save)(Stream) | Enregistre l'image avec les transformations correspondantes : mise à l'échelle, rotation et résolution. |
+| [Save](../../aspose.pdf/imageplacement/save/#save_1)(Stream, ImageFormat) | Enregistre l'image avec les transformations correspondantes : mise à l'échelle, rotation et résolution. |
 
 ## Remarques
 
-Lorsqu'une image est placée sur une page, elle peut avoir des dimensions autres que les dimensions physiques définies dans [`Resources`](../resources/). L'objet `ImagePlacement` est destiné à fournir des informations telles que les dimensions, la résolution, etc.
+Lorsqu'une image est placée sur une page, elle peut avoir des dimensions différentes des dimensions physiques définies dans [`Resources`](../resources/). L'objet `ImagePlacement` est destiné à fournir ces informations, comme les dimensions, la résolution, etc.
 
 ## Exemples
 
-L'exemple démontre comment trouver des images sur la première page du document PDF et obtenir des images sous forme de bitmaps avec des dimensions visibles.
+L'exemple montre comment trouver les images sur la première page du document PDF et obtenir les images sous forme de bitmap avec leurs dimensions visibles.
 
 ```csharp
-// Open document
+// Ouvrir le document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create ImagePlacementAbsorber object to perform image placement search
+// Créez un objet ImagePlacementAbsorber pour effectuer la recherche de placement d'image
 ImagePlacementAbsorber abs = new ImagePlacementAbsorber();
 
-// Accept the absorber for first page
+// Accepter l'absorbeur pour la première page
 doc.Pages[1].Accept(abs);
 
-// Retrieve images with visible dimensions
+// Récupérer les images avec leurs dimensions visibles
 foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
 {
     Bitmap scaledImage;
     using (MemoryStream imageStream = new MemoryStream())
     {
-        // Retrieve image from resources
+        // Récupérer l'image depuis les ressources
         imagePlacement.Image.Save(imageStream, ImageFormat.Png);
         Bitmap resourceImage = (Bitmap) Bitmap.FromStream(imageStream);
-        // Create new bitmap with actual dimensions
+        // Créer un nouveau bitmap avec les dimensions réelles
         scaledImage = new Bitmap(resourceImage, (int)imagePlacement.Rectangle.Width, (int)imagePlacement.Rectangle.Height);
     }
 } 
@@ -71,5 +71,7 @@ foreach (ImagePlacement imagePlacement in abs.ImagePlacements)
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

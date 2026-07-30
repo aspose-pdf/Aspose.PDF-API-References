@@ -1,7 +1,7 @@
 ---
-title: SaveableFacade.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode SaveableFacade. Enregistre le document PDF dans le flux spécifié
+title: "SaveableFacade.Save"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode SaveableFacade. Enregistre le document PDF dans le flux spécifié"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.facades/saveablefacade/save/
@@ -20,8 +20,8 @@ public virtual void Save(Stream destStream)
 
 ### Voir aussi
 
-* classe [SaveableFacade](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [SaveableFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -40,6 +40,8 @@ public virtual void Save(string destFile)
 
 ### Voir aussi
 
-* classe [SaveableFacade](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [SaveableFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: LineAnnotation.LineAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur LineAnnotation. Constructeur à utiliser avec Generator
+title: "LineAnnotation.LineAnnotation"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "LineAnnotation constructeur. Constructeur à utiliser avec Generator"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/lineannotation/lineannotation/
@@ -18,14 +18,14 @@ public LineAnnotation(Document document, Point start, Point end)
 | --- | --- | --- |
 | document | Document | Document où l'annotation sera créée. |
 | start | Point | Point de départ. |
-| end | Point | Point de fin. |
+| end | Point | Point d'arrivée. |
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [Point](../../../aspose.pdf/point/)
-* classe [LineAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Document](../../../aspose.pdf/document/)
+* class [Point](../../../aspose.pdf/point/)
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -40,16 +40,18 @@ public LineAnnotation(Page page, Rectangle rect, Point start, Point end)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| page | Page | La page du document où l'annotation doit être créée. |
-| rect | Rectangle | Le rectangle de l'annotation, définissant l'emplacement de l'annotation sur la page. |
+| page | Page | La page du Document où l'annotation doit être créée. |
+| rect | Rectangle | Le rectangle d'annotation, définissant l'emplacement de l'annotation sur la page. |
 | start | Point | Un point, spécifiant la coordonnée de départ de la ligne. |
-| end | Point | Un point, spécifiant la coordonnée de fin de la ligne. |
+| end | Point | Un point, spécifiant la coordonnée d'arrivée de la ligne. |
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [Point](../../../aspose.pdf/point/)
-* classe [LineAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Point](../../../aspose.pdf/point/)
+* class [LineAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

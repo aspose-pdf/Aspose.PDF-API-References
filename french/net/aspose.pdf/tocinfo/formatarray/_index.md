@@ -1,14 +1,14 @@
 ---
-title: TocInfo.FormatArray
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TocInfo. Obtient ou définit le tableau de format pour la table des matières
+title: "TocInfo.FormatArray"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TocInfo. Obtient ou définit le tableau de formats pour la table des matières"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/tocinfo/formatarray/
 ---
-## Propriété TocInfo.FormatArray
+## TocInfo.FormatArray property
 
-Obtient ou définit le tableau de format pour la table des matières.
+Obtient ou définit le tableau de formats pour la table des matières.
 
 ```csharp
 public LevelFormat[] FormatArray { get; set; }
@@ -16,7 +16,9 @@ public LevelFormat[] FormatArray { get; set; }
 
 ### Voir aussi
 
-* classe [LevelFormat](../../levelformat/)
-* classe [TocInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [LevelFormat](../../levelformat/)
+* class [TocInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

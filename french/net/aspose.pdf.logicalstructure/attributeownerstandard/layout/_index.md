@@ -1,14 +1,14 @@
 ---
-title: AttributeOwnerStandard.Layout
-second_title: Aspose.PDF for .NET API Reference
-description: Champ AttributeOwnerStandard. Propriétaire de l'attribut de mise en page
+title: "AttributeOwnerStandard.Layout"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "AttributeOwnerStandard champ. Layout propriétaire d'attribut"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.logicalstructure/attributeownerstandard/layout/
 ---
-## Champ AttributeOwnerStandard.Layout
+## AttributeOwnerStandard.Layout field
 
-Propriétaire de l'attribut de mise en page.
+Propriétaire d'attribut Layout.
 
 ```csharp
 public static readonly AttributeOwnerStandard Layout;
@@ -16,6 +16,8 @@ public static readonly AttributeOwnerStandard Layout;
 
 ### Voir aussi
 
-* classe [AttributeOwnerStandard](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Paragraphs.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Paragraphs. Obtenez le nombre de paragraphes
+title: "Paragraphs.Count"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Paragraphs. Obtenir le nombre de paragraphes"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/paragraphs/count/
 ---
-## Propriété Paragraphs.Count
+## Paragraphs.Count property
 
-Obtenez le nombre de paragraphes.
+Obtenir le nombre de paragraphes.
 
 ```csharp
 public int Count { get; }
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### Voir aussi
 
-* classe [Paragraphs](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

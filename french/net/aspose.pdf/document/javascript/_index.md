@@ -1,12 +1,12 @@
 ---
-title: Document.JavaScript
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Document. Collection de JavaScript au niveau du document
+title: "Document.JavaScript"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Document. Collection de JavaScript au niveau du document"
 type: docs
-weight: 340
+weight: 360
 url: /fr/net/aspose.pdf/document/javascript/
 ---
-## Propriété Document.JavaScript
+## Document.JavaScript property
 
 Collection de JavaScript au niveau du document.
 
@@ -16,7 +16,9 @@ public JavaScriptCollection JavaScript { get; }
 
 ### Voir aussi
 
-* classe [JavaScriptCollection](../../javascriptcollection/)
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [JavaScriptCollection](../../javascriptcollection/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Color.Transparent
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Color. Obtient une couleur définie par le système
+title: "Color.Transparent"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Color. Obtient une couleur définie par le système"
 type: docs
 weight: 1350
 url: /fr/net/aspose.pdf/color/transparent/
 ---
-## Propriété Color.Transparent
+## Color.Transparent property
 
 Obtient une couleur définie par le système.
 
@@ -16,10 +16,12 @@ public static Color Transparent { get; }
 
 ### Valeur de retour
 
-Une représentation d'une couleur définie par le système.
+A représentant une couleur définie par le système.
 
 ### Voir aussi
 
-* classe [Color](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

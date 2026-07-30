@@ -1,12 +1,12 @@
 ---
-title: TableTRElement.DefaultCellPadding
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TableTRElement. Obtient ou définit la marge par défaut pour les cellules de ligne
+title: "TableTRElement.DefaultCellPadding"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TableTRElement. Obtient ou définit la marge par défaut pour les cellules de ligne"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.logicalstructure/tabletrelement/defaultcellpadding/
 ---
-## Propriété TableTRElement.DefaultCellPadding
+## TableTRElement.DefaultCellPadding property
 
 Obtient ou définit la marge par défaut pour les cellules de ligne.
 
@@ -16,7 +16,9 @@ public MarginInfo DefaultCellPadding { get; set; }
 
 ### Voir aussi
 
-* classe [MarginInfo](../../../aspose.pdf/margininfo/)
-* classe [TableTRElement](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [MarginInfo](../../../aspose.pdf/margininfo/)
+* class [TableTRElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

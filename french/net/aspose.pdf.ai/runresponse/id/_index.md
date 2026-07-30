@@ -1,12 +1,12 @@
 ---
-title: RunResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété RunResponse. Obtient ou définit l'identifiant qui peut être référencé dans les points de terminaison API
+title: "RunResponse.Id"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété RunResponse. Obtient ou définit l'identifiant qui peut être référencé dans les points de terminaison API."
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.ai/runresponse/id/
 ---
-## Propriété RunResponse.Id
+## RunResponse.Id property
 
 Obtient ou définit l'identifiant, qui peut être référencé dans les points de terminaison API.
 
@@ -16,6 +16,8 @@ public string Id { get; set; }
 
 ### Voir aussi
 
-* classe [RunResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PositionSettings.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PositionSettings. Obtient ou définit un alignement horizontal de paragraphe
+title: "PositionSettings.HorizontalAlignment"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PositionSettings. Obtient ou définit un alignement horizontal du paragraphe"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.tagged/positionsettings/horizontalalignment/
 ---
-## Propriété PositionSettings.HorizontalAlignment
+## PositionSettings.HorizontalAlignment property
 
-Obtient ou définit un alignement horizontal de paragraphe.
+Obtient ou définit un alignement horizontal du paragraphe.
 
 ```csharp
 public HorizontalAlignment HorizontalAlignment { get; set; }
@@ -20,3 +20,5 @@ public HorizontalAlignment HorizontalAlignment { get; set; }
 * class [PositionSettings](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

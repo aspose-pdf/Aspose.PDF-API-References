@@ -1,12 +1,12 @@
 ---
-title: PDF3DLightingScheme.Type
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PDF3DLightingScheme. Obtient le type de schéma d'éclairage
+title: "PDF3DLightingScheme.Type"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PDF3DLightingScheme. Obtient le type de schéma d'éclairage"
 type: docs
 weight: 140
 url: /fr/net/aspose.pdf.annotations/pdf3dlightingscheme/type/
 ---
-## Propriété PDF3DLightingScheme.Type
+## PDF3DLightingScheme.Type property
 
 Obtient le type de schéma d'éclairage.
 
@@ -14,7 +14,7 @@ Obtient le type de schéma d'éclairage.
 public LightingSchemeType Type { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le type de schéma d'éclairage.
 
@@ -24,3 +24,5 @@ Le type de schéma d'éclairage.
 * class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

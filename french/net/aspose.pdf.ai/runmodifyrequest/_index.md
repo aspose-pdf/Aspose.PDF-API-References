@@ -1,14 +1,14 @@
 ---
-title: Class RunModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.RunModifyRequest. Représente une demande de modification d'un run
+title: "Classe RunModifyRequest"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.AI.RunModifyRequest. Représente une requête pour modifier une exécution."
 type: docs
-weight: 1010
+weight: 1090
 url: /fr/net/aspose.pdf.ai/runmodifyrequest/
 ---
-## Classe RunModifyRequest
+## RunModifyRequest class
 
-Représente une demande de modification d'un run.
+Représente une requête pour modifier une exécution.
 
 ```csharp
 public class RunModifyRequest
@@ -24,9 +24,11 @@ public class RunModifyRequest
 
 | Nom | Description |
 | --- | --- |
-| [Metadata](../../aspose.pdf.ai/runmodifyrequest/metadata/) { get; set; } | Ensemble de 16 paires clé-valeur qui peuvent être attachées à un objet. Cela peut être utile pour stocker des informations supplémentaires sur l'objet dans un format structuré. Les clés peuvent avoir une longueur maximale de 64 caractères et les valeurs peuvent avoir une longueur maximale de 512 caractères. |
+| [Metadata](../../aspose.pdf.ai/runmodifyrequest/metadata/) { get; set; } | Ensemble de 16 paires clé-valeur pouvant être attachées à un objet. Cela peut être utile pour stocker des informations supplémentaires sur l'objet dans un format structuré. Les clés peuvent contenir au maximum 64 caractères et les valeurs au maximum 512 caractères. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

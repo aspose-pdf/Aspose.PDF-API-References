@@ -1,12 +1,12 @@
 ---
-title: ButtonField.NormalCaption
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ButtonField. Obtient ou définit la légende normale
+title: "ButtonField.NormalCaption"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ButtonField. Obtient ou définit la légende normale."
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.forms/buttonfield/normalcaption/
 ---
-## Propriété ButtonField.NormalCaption
+## ButtonField.NormalCaption property
 
 Obtient ou définit la légende normale.
 
@@ -16,6 +16,8 @@ public string NormalCaption { get; set; }
 
 ### Voir aussi
 
-* classe [ButtonField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [ButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

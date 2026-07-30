@@ -1,12 +1,12 @@
 ---
-title: Operator.Index
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de l'opérateur. Index de l'opérateur dans la liste des opérateurs de la page
+title: "Operator.Index"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Operator. Index de l'opérateur dans la liste des opérateurs de page"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/operator/index/
 ---
-## Propriété Operator.Index
+## Operator.Index property
 
 Index de l'opérateur dans la liste des opérateurs de la page.
 
@@ -16,6 +16,8 @@ public int Index { get; set; }
 
 ### Voir aussi
 
-* classe [Operator](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Operator](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

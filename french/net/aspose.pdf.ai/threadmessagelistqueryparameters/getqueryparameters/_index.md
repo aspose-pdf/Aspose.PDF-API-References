@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageListQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ThreadMessageListQueryParameters. Obtient les paramètres de requête pour lister les messages de fil
+title: "ThreadMessageListQueryParameters.GetQueryParameters"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode ThreadMessageListQueryParameters. Obtient les paramètres de requête pour lister les messages du fil"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.ai/threadmessagelistqueryparameters/getqueryparameters/
 ---
-## Méthode ThreadMessageListQueryParameters.GetQueryParameters
+## ThreadMessageListQueryParameters.GetQueryParameters method
 
-Obtient les paramètres de requête pour lister les messages de fil.
+Obtient les paramètres de requête pour l'énumération des messages de fil.
 
 ```csharp
 public string GetQueryParameters()
@@ -20,6 +20,8 @@ La chaîne des paramètres de requête.
 
 ### Voir aussi
 
-* classe [ThreadMessageListQueryParameters](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ThreadMessageListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

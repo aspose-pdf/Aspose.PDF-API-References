@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageCreateRequest.WithContents
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ThreadMessageCreateRequest. Définit le contenu du message pour la demande de message de fil
+title: "ThreadMessageCreateRequest.WithContents"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode ThreadMessageCreateRequest. Définit les contenus du message pour la requête de message du fil"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.ai/threadmessagecreaterequest/withcontents/
 ---
-## Méthode ThreadMessageCreateRequest.WithContents
+## ThreadMessageCreateRequest.WithContents method
 
-Définit le contenu du message pour la demande de message de fil.
+Définit le contenu du message pour la requête de message du fil.
 
 ```csharp
 public ThreadMessageCreateRequest WithContents(List<MessageContentRequest> content)
@@ -16,7 +16,7 @@ public ThreadMessageCreateRequest WithContents(List<MessageContentRequest> conte
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| content | List`1 | La liste des contenus de message à définir. |
+| contenu | List`1 | La liste du contenu des messages à définir. |
 
 ### Valeur de retour
 
@@ -24,7 +24,9 @@ L'instance actuelle de [`ThreadMessageCreateRequest`](../).
 
 ### Voir aussi
 
-* classe [MessageContentRequest](../../messagecontentrequest/)
-* classe [ThreadMessageCreateRequest](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [MessageContentRequest](../../messagecontentrequest/)
+* class [ThreadMessageCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

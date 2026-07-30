@@ -1,12 +1,12 @@
 ---
-title: Tiff.Tiff
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur Tiff. Le constructeur par défaut
+title: "Tiff.Tiff"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur Tiff. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.plugins/tiff/tiff/
 ---
-## Constructeur Tiff
+## Tiff constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public Tiff()
 
 ### Voir aussi
 
-* classe [Tiff](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [Tiff](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

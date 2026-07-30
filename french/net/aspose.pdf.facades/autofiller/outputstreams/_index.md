@@ -1,12 +1,12 @@
 ---
-title: AutoFiller.OutputStreams
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété AutoFiller. Obtient ou définit les nombreux flux de sortie. L'un des quatre modes de sortie
+title: "AutoFiller.OutputStreams"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété AutoFiller. Obtient ou définit les nombreux flux de sortie. L'un des quatre modes de sortie."
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.facades/autofiller/outputstreams/
 ---
-## Propriété AutoFiller.OutputStreams
+## AutoFiller.OutputStreams property
 
 Obtient ou définit les nombreux flux de sortie. L'un des quatre modes de sortie.
 
@@ -16,6 +16,8 @@ public Stream[] OutputStreams { get; set; }
 
 ### Voir aussi
 
-* classe [AutoFiller](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

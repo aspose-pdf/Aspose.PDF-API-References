@@ -1,12 +1,12 @@
 ---
-title: DestinationCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode DestinationCollection. Renvoie l'énumérateur
+title: "DestinationCollection.GetEnumerator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode DestinationCollection. Retourne l'énumérateur"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf/destinationcollection/getenumerator/
 ---
-## Méthode DestinationCollection.GetEnumerator
+## DestinationCollection.GetEnumerator method
 
 Renvoie l'énumérateur.
 
@@ -20,6 +20,8 @@ L'énumérateur.
 
 ### Voir aussi
 
-* classe [DestinationCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

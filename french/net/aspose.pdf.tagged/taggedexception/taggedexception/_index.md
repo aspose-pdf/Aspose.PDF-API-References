@@ -1,12 +1,12 @@
 ---
-title: TaggedException.TaggedException
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de TaggedException. Initialise une nouvelle instance de la classe TaggedException
+title: "TaggedException.TaggedException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur TaggedException. Initialise une nouvelle instance de la classe TaggedException"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.tagged/taggedexception/taggedexception/
 ---
-## Constructeur de TaggedException
+## TaggedException constructor
 
 Initialise une nouvelle instance de la classe [`TaggedException`](../).
 
@@ -16,6 +16,8 @@ public TaggedException()
 
 ### Voir aussi
 
-* classe [TaggedException](../)
-* espace de noms [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* class [TaggedException](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfException.PdfException
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de PdfException. Initialise une nouvelle instance de la classe PdfException
+title: "PdfException.PdfException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur PdfException. Initialise une nouvelle instance de la classe PdfException."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/pdfexception/pdfexception/
@@ -16,8 +16,8 @@ public PdfException()
 
 ### Voir aussi
 
-* classe [PdfException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PdfException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -36,8 +36,8 @@ public PdfException(string message)
 
 ### Voir aussi
 
-* classe [PdfException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PdfException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -57,8 +57,8 @@ public PdfException(string message, Exception innerException)
 
 ### Voir aussi
 
-* classe [PdfException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PdfException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -77,6 +77,8 @@ public PdfException(Exception innerException)
 
 ### Voir aussi
 
-* classe [PdfException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PdfException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

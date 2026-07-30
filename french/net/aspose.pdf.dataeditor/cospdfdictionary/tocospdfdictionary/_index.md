@@ -1,12 +1,12 @@
 ---
-title: CosPdfDictionary.ToCosPdfDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode CosPdfDictionary. Tente de convertir cette instance en CosPdfDictionary
+title: "CosPdfDictionary.ToCosPdfDictionary"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode CosPdfDictionary. Tente de convertir cette instance en CosPdfDictionary"
 type: docs
 weight: 160
 url: /fr/net/aspose.pdf.dataeditor/cospdfdictionary/tocospdfdictionary/
 ---
-## Méthode CosPdfDictionary.ToCosPdfDictionary
+## CosPdfDictionary.ToCosPdfDictionary method
 
 Tente de convertir cette instance en [`CosPdfDictionary`](../).
 
@@ -16,10 +16,12 @@ public override CosPdfDictionary ToCosPdfDictionary()
 
 ### Valeur de retour
 
-null si l'instance n'est pas un [`CosPdfDictionary`](../) sinon un [`CosPdfDictionary`](../).
+null si l'instance n'est pas [`CosPdfDictionary`](../) sinon [`CosPdfDictionary`](../).
 
 ### Voir aussi
 
-* classe [CosPdfDictionary](../)
-* espace de noms [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

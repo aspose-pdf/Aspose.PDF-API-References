@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.GetChatCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OpenAIClient. Obtient une instance de IChatCopilot avec les options spécifiées
+title: "OpenAIClient.GetChatCopilot"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode OpenAIClient. Obtient une instance de IChatCopilot avec les options spécifiées"
 type: docs
 weight: 210
 url: /fr/net/aspose.pdf.ai/openaiclient/getchatcopilot/
 ---
-## Méthode OpenAIClient.GetChatCopilot
+## OpenAIClient.GetChatCopilot method
 
 Obtient une instance de [`IChatCopilot`](../../ichatcopilot/) avec les options spécifiées.
 
@@ -16,7 +16,7 @@ public IChatCopilot GetChatCopilot(IChatCopilotOptions<OpenAIChatCopilotOptions>
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| options | IChatCopilotOptions`1 | Les options pour le chat copilot. |
+| options | IChatCopilotOptions`1 | Les options pour le copilote de chat. |
 
 ### Valeur de retour
 
@@ -30,3 +30,5 @@ Une instance de [`IChatCopilot`](../../ichatcopilot/).
 * class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

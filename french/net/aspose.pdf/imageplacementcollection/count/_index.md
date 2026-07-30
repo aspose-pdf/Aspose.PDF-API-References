@@ -1,12 +1,12 @@
 ---
-title: ImagePlacementCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ImagePlacementCollection. Obtient le nombre d'éléments d'objet ImagePlacement réellement contenus dans la collection
+title: "ImagePlacementCollection.Count"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ImagePlacementCollection. Obtient le nombre d'éléments d'objet ImagePlacement réellement contenus dans la collection"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/imageplacementcollection/count/
 ---
-## Propriété ImagePlacementCollection.Count
+## ImagePlacementCollection.Count property
 
 Obtient le nombre d'éléments d'objet [`ImagePlacement`](../../imageplacement/) réellement contenus dans la collection.
 
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### Voir aussi
 
-* classe [ImagePlacementCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

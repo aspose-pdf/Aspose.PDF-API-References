@@ -1,7 +1,7 @@
 ---
-title: Matrix.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de Matrix. Le constructeur crée une matrice standard 1 à 1 A B C D E F 1 0 0 1 0 0
+title: "Matrix.Matrix"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur Matrix. Le constructeur crée une matrice standard 1 à 1  A B C D E F    1 0 0 1 0 0"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/matrix/matrix/
@@ -22,8 +22,8 @@ Matrix m = new Matrix();
 
 ### Voir aussi
 
-* classe [Matrix](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -38,7 +38,7 @@ public Matrix(double[] matrixArray)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| matrixArray | Double[] | Tableau de données de la matrice. |
+| matrixArray | Double[] | Tableau de données Matrix. |
 
 ## Exemples
 
@@ -49,8 +49,8 @@ Matrix m = new Matrix(c);
 
 ### Voir aussi
 
-* classe [Matrix](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -65,12 +65,12 @@ public Matrix(float[] matrixArray)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| matrixArray | Single[] | Tableau de données de la matrice. |
+| matrixArray | Single[] | Tableau de données Matrix. |
 
 ### Voir aussi
 
-* classe [Matrix](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -85,12 +85,12 @@ public Matrix(Matrix matrix)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| matrix | Matrix | Objet matrice. |
+| matrix | Matrice | Objet Matrix. |
 
 ### Voir aussi
 
-* classe [Matrix](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -105,11 +105,11 @@ public Matrix(double a, double b, double c, double d, double e, double f)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| a | Double | Valeur de la matrice A. |
-| b | Double | Valeur de la matrice B. |
-| c | Double | Valeur de la matrice C. |
-| d | Double | Valeur de la matrice D. |
-| e | Double | Valeur de la matrice E. |
+| a | Double | Une valeur de matrice. |
+| b | Double | Valeur de matrice B. |
+| c | Double | Valeur de matrice C. |
+| d | Double | Valeur de matrice D. |
+| e | Double | Valeur de matrice E. |
 | f | Double | Valeur de la matrice F. |
 
 ## Exemples
@@ -120,6 +120,8 @@ Matrix m = new Matrix(1, 0, 0, 1, 3, 3);
 
 ### Voir aussi
 
-* classe [Matrix](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

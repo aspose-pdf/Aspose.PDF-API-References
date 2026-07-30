@@ -1,14 +1,14 @@
 ---
-title: Form.FlattenSettings.ApplyRedactions
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FlattenSettings. Si vrai, l'annotation de redaction spécifiée sera appliquée
+title: "Form.FlattenSettings.ApplyRedactions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FlattenSettings. Si true, la rédaction spécifiée de l'annotation Redaction sera appliquée"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.forms/form.flattensettings/applyredactions/
 ---
-## Propriété Form.FlattenSettings.ApplyRedactions
+## Form.FlattenSettings.ApplyRedactions property
 
-Si vrai, l'annotation de redaction spécifiée sera appliquée
+Si vrai, l'annotation Redaction spécifiée sera appliquée
 
 ```csharp
 public bool ApplyRedactions { get; set; }
@@ -16,6 +16,8 @@ public bool ApplyRedactions { get; set; }
 
 ### Voir aussi
 
-* classe [FlattenSettings](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [FlattenSettings](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

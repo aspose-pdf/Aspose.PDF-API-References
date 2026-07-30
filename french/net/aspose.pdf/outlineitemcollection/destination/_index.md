@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Destination
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OutlineItemCollection. Obtient ou définit la destination pour cet élément de plan
+title: "OutlineItemCollection.Destination"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété OutlineItemCollection. Obtient ou définit la destination de cet élément de plan"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf/outlineitemcollection/destination/
 ---
-## Propriété OutlineItemCollection.Destination
+## OutlineItemCollection.Destination property
 
-Obtient ou définit la destination pour cet élément de plan.
+Obtient ou définit la destination de cet élément de plan.
 
 ```csharp
 public IAppointment Destination { get; set; }
@@ -20,3 +20,5 @@ public IAppointment Destination { get; set; }
 * class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

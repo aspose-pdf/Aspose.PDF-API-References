@@ -1,14 +1,14 @@
 ---
-title: Class FixedPrint
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.FixedPrint. Représente les données d'impression fixe de l'annotation de filigrane
+title: "Classe FixedPrint"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.FixedPrint classe. Représente les données d'impression fixe de l'annotation Watermark."
 type: docs
-weight: 1800
+weight: 1890
 url: /fr/net/aspose.pdf.annotations/fixedprint/
 ---
-## Classe FixedPrint
+## FixedPrint class
 
-Représente les données d'impression fixe de l'annotation de filigrane.
+Représente les données d'impression fixes de l'annotation Watermark.
 
 ```csharp
 public class FixedPrint
@@ -24,5 +24,7 @@ public class FixedPrint
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

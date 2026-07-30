@@ -1,12 +1,12 @@
 ---
-title: StartEndPageEventArgs.StartEndPageEventArgs
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de StartEndPageEventArgs. Initialise une nouvelle instance de la classe StartEndPageEventArgs
+title: "StartEndPageEventArgs.StartEndPageEventArgs"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur StartEndPageEventArgs. Initialise une nouvelle instance de la classe StartEndPageEventArgs"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.printing/startendpageeventargs/startendpageeventargs/
 ---
-## Constructeur de StartEndPageEventArgs
+## StartEndPageEventArgs constructor
 
 Initialise une nouvelle instance de la classe [`StartEndPageEventArgs`](../).
 
@@ -16,13 +16,15 @@ public StartEndPageEventArgs(int currentPage, int totalPages, int currentCopy, i
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| currentPage | Int32 | Le numéro de la page actuellement en cours d'impression. |
+| currentPage | Int32 | Le numéro de la page en cours d'impression. |
 | totalPages | Int32 | Le nombre total de pages à imprimer. |
-| currentCopy | Int32 | Le numéro de la copie actuellement en cours d'impression. |
+| currentCopy | Int32 | Le numéro de la copie en cours d'impression. |
 | totalCopies | Int32 | Le nombre total de copies à imprimer. |
 
 ### Voir aussi
 
-* classe [StartEndPageEventArgs](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [StartEndPageEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

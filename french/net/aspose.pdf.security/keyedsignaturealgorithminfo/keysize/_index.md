@@ -1,12 +1,12 @@
 ---
-title: KeyedSignatureAlgorithmInfo.KeySize
-second_title: Aspose.PDF for .NET API Reference
-description: Champ KeyedSignatureAlgorithmInfo. Obtient la taille de la clé cryptographique utilisée par l'algorithme de signature
+title: "KeyedSignatureAlgorithmInfo.KeySize"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "KeyedSignatureAlgorithmInfo field. Obtient la taille de la clé cryptographique utilisée par l'algorithme de signature"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.security/keyedsignaturealgorithminfo/keysize/
 ---
-## Champ KeyedSignatureAlgorithmInfo.KeySize
+## KeyedSignatureAlgorithmInfo.KeySize field
 
 Obtient la taille de la clé cryptographique utilisée par l'algorithme de signature.
 
@@ -16,6 +16,8 @@ public readonly int KeySize;
 
 ### Voir aussi
 
-* classe [KeyedSignatureAlgorithmInfo](../)
-* espace de noms [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* class [KeyedSignatureAlgorithmInfo](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

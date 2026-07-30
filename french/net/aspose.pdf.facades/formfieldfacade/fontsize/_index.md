@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FormFieldFacade. La taille d'un texte de champ
+title: "FormFieldFacade.FontSize"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "FormFieldFacade propriété. La taille du texte du champ"
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf.facades/formfieldfacade/fontsize/
 ---
-## Propriété FormFieldFacade.FontSize
+## FormFieldFacade.FontSize property
 
-La taille d'un texte de champ.
+La taille du texte d'un champ.
 
 ```csharp
 public float FontSize { get; set; }
@@ -16,6 +16,8 @@ public float FontSize { get; set; }
 
 ### Voir aussi
 
-* classe [FormFieldFacade](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

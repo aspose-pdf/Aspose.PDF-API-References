@@ -1,12 +1,12 @@
 ---
-title: ComparisonOptions.ComparisonOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de ComparisonOptions. Le constructeur par défaut
+title: "ComparisonOptions.ComparisonOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur ComparisonOptions. Le constructeur par défaut."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.comparison/comparisonoptions/comparisonoptions/
 ---
-## Constructeur de ComparisonOptions
+## ComparisonOptions constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public ComparisonOptions()
 
 ### Voir aussi
 
-* classe [ComparisonOptions](../)
-* espace de noms [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* class [ComparisonOptions](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

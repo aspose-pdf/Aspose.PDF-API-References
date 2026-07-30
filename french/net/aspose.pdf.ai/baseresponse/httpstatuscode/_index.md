@@ -1,12 +1,12 @@
 ---
-title: BaseResponse.HttpStatusCode
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété BaseResponse. Obtient ou définit le code d'état HTTP
+title: "BaseResponse.HttpStatusCode"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété BaseResponse. Obtient ou définit le code d'état HTTP"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.ai/baseresponse/httpstatuscode/
 ---
-## Propriété BaseResponse.HttpStatusCode
+## BaseResponse.HttpStatusCode property
 
 Obtient ou définit le code d'état HTTP.
 
@@ -16,6 +16,8 @@ public HttpStatusCode HttpStatusCode { get; set; }
 
 ### Voir aussi
 
-* classe [BaseResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [BaseResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

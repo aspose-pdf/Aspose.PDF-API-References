@@ -1,12 +1,12 @@
 ---
-title: OpenAIChatCopilotOptions.WithModel
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OpenAIChatCopilotOptions. Définit le modèle pour les options du copilote de chat
+title: "OpenAIChatCopilotOptions.WithModel"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode OpenAIChatCopilotOptions. Définit le modèle pour les options du copilote de chat"
 type: docs
-weight: 150
+weight: 160
 url: /fr/net/aspose.pdf.ai/openaichatcopilotoptions/withmodel/
 ---
-## Méthode OpenAIChatCopilotOptions.WithModel
+## OpenAIChatCopilotOptions.WithModel method
 
 Définit le modèle pour les options du copilote de chat.
 
@@ -16,7 +16,7 @@ public OpenAIChatCopilotOptions WithModel(string model)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| model | String | Le modèle à définir. |
+| modèle | String | Le modèle à définir. |
 
 ### Valeur de retour
 
@@ -24,6 +24,8 @@ L'instance actuelle de [`OpenAIChatCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [OpenAIChatCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum EmphasisStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Enum EmphasisStyle d'Aspose.Pdf. Définit les styles de sérialisation disponibles pour l'emphase et l'emphase forte. Pour la spécification, voir CommonMark Emphase et emphase forte
+title: "Énumération EmphasisStyle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "enum Aspose.Pdf.EmphasisStyle. Définit les styles de sérialisation disponibles pour l'emphase et l'emphase forte. Pour la spécification, voir CommonMark  Emphasis and strong emphasis"
 type: docs
-weight: 4020
+weight: 4140
 url: /fr/net/aspose.pdf/emphasisstyle/
 ---
-## Énumération EmphasisStyle
+## EmphasisStyle enumeration
 
-Définit les styles de sérialisation disponibles pour l'emphase et l'emphase forte. Pour la spécification, voir CommonMark - Emphase et emphase forte.
+Définit les styles de sérialisation disponibles pour l'emphase et l'emphase forte. Pour la spécification, voir CommonMark - Emphasis and strong emphasis.
 
 ```csharp
 public enum EmphasisStyle
@@ -18,10 +18,12 @@ public enum EmphasisStyle
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| Asterisk | `0` | Utilisez '*' respectivement '**' pour le texte (fortement) accentué. |
-| Underscore | `1` | Utilisez '_' respectivement '__' pour le texte (fortement) accentué. |
+| Asterisk | `0` | Utilisez '*' respectivement '**' pour le texte (fortement) mis en emphase. |
+| Underscore | `1` | Utilisez '_' respectivement '__' pour le texte (fortement) mis en emphase. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

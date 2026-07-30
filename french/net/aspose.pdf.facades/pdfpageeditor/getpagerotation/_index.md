@@ -1,12 +1,12 @@
 ---
-title: PdfPageEditor.GetPageRotation
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfPageEditor. Renvoie la rotation de la page spécifiée
+title: "PdfPageEditor.GetPageRotation"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfPageEditor. Retourne la rotation de la page spécifiée"
 type: docs
 weight: 140
 url: /fr/net/aspose.pdf.facades/pdfpageeditor/getpagerotation/
 ---
-## Méthode PdfPageEditor.GetPageRotation
+## PdfPageEditor.GetPageRotation method
 
 Renvoie la rotation de la page spécifiée.
 
@@ -16,7 +16,7 @@ public int GetPageRotation(int page)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| page | Int32 | Index de la page. Les pages du document sont numérotées à partir de 1. |
+| page | Int32 | Indice de page. Les pages du document sont numérotées à partir de 1. |
 
 ### Valeur de retour
 
@@ -24,7 +24,7 @@ Rotation de la page en degrés.
 
 ## Exemples
 
-L'exemple suivant démontre comment obtenir la rotation de la page:
+L'exemple suivant montre comment obtenir la rotation de la page :
 
 ```csharp
 PdfPageEditor editor = new PdfPageEditor();
@@ -35,6 +35,8 @@ Console.WriteLine("Rotation of 1st page : " + rotation + " degrees");
 
 ### Voir aussi
 
-* classe [PdfPageEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

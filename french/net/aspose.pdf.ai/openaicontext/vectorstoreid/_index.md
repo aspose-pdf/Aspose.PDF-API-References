@@ -1,12 +1,12 @@
 ---
-title: OpenAIContext.VectorStoreId
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OpenAIContext. Obtient ou définit l'ID du Vector Store
+title: "OpenAIContext.VectorStoreId"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété OpenAIContext. Obtient ou définit l'ID du magasin de vecteurs"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.ai/openaicontext/vectorstoreid/
 ---
-## Propriété OpenAIContext.VectorStoreId
+## OpenAIContext.VectorStoreId property
 
 Obtient ou définit l'ID du Vector Store.
 
@@ -16,6 +16,8 @@ public string VectorStoreId { get; set; }
 
 ### Voir aussi
 
-* classe [OpenAIContext](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIContext](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

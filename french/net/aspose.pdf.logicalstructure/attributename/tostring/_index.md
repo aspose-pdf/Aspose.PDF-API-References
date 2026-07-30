@@ -1,14 +1,14 @@
 ---
-title: AttributeName.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode AttributeName. Renvoie une chaîne qui représente l'objet actuel
+title: "AttributeName.ToString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "AttributeName method. Retourne une chaîne qui représente l’objet actuel"
 type: docs
 weight: 700
 url: /fr/net/aspose.pdf.logicalstructure/attributename/tostring/
 ---
-## Méthode AttributeName.ToString
+## AttributeName.ToString method
 
-Renvoie une chaîne qui représente l'objet actuel.
+Renvoie une chaîne qui représente l’objet actuel.
 
 ```csharp
 public override string ToString()
@@ -20,6 +20,8 @@ Chaîne qui représente l'objet actuel.
 
 ### Voir aussi
 
-* classe [AttributeName](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

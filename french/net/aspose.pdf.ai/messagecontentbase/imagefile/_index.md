@@ -1,12 +1,12 @@
 ---
-title: MessageContentBase.ImageFile
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété MessageContentBase. Obtient ou définit un fichier image dans le contenu d'un message
+title: "MessageContentBase.ImageFile"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété MessageContentBase. Obtient ou définit un fichier image dans le contenu d'un message"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/messagecontentbase/imagefile/
 ---
-## Propriété MessageContentBase.ImageFile
+## MessageContentBase.ImageFile property
 
 Obtient ou définit un fichier image dans le contenu d'un message.
 
@@ -16,7 +16,9 @@ public ImageFile ImageFile { get; set; }
 
 ### Voir aussi
 
-* classe [ImageFile](../../imagefile/)
-* classe [MessageContentBase](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ImageFile](../../imagefile/)
+* class [MessageContentBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

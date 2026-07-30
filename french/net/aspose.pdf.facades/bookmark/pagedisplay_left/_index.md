@@ -1,12 +1,12 @@
 ---
-title: Bookmark.PageDisplay_Left
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de signet. Obtient ou définit la coordonnée gauche de l'affichage de la page
+title: "Bookmark.PageDisplay_Left"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Bookmark. Obtient ou définit la coordonnée gauche de l'affichage de la page"
 type: docs
 weight: 120
 url: /fr/net/aspose.pdf.facades/bookmark/pagedisplay_left/
 ---
-## Propriété Bookmark.PageDisplay_Left
+## Bookmark.PageDisplay_Left property
 
 Obtient ou définit la coordonnée gauche de l'affichage de la page.
 
@@ -16,6 +16,8 @@ public int PageDisplay_Left { get; set; }
 
 ### Voir aussi
 
-* classe [Bookmark](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

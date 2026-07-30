@@ -1,12 +1,12 @@
 ---
-title: PDF3DAnnotation.ViewArray
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PDF3DAnnotation. Obtient le tableau de vues
+title: "PDF3DAnnotation.ViewArray"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PDF3DAnnotation. Obtient le tableau des vues"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.annotations/pdf3dannotation/viewarray/
 ---
-## Propriété PDF3DAnnotation.ViewArray
+## PDF3DAnnotation.ViewArray property
 
 Obtient le tableau de vues.
 
@@ -14,13 +14,15 @@ Obtient le tableau de vues.
 public PDF3DViewArray ViewArray { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Le tableau de vues.
+Le tableau des vues.
 
 ### Voir aussi
 
-* classe [PDF3DViewArray](../../pdf3dviewarray/)
-* classe [PDF3DAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DViewArray](../../pdf3dviewarray/)
+* class [PDF3DAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

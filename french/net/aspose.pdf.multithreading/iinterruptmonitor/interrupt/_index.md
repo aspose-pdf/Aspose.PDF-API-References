@@ -1,14 +1,14 @@
 ---
-title: IInterruptMonitor.Interrupt
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode IInterruptMonitor. Envoie une demande pour interrompre les opérations
+title: "IInterruptMonitor.Interrupt"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode IInterruptMonitor. Envoie une requête pour interrompre les opérations"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.multithreading/iinterruptmonitor/interrupt/
 ---
-## Méthode IInterruptMonitor.Interrupt
+## IInterruptMonitor.Interrupt method
 
-Envoie une demande pour interrompre les opérations.
+Envoie une requête pour interrompre les opérations.
 
 ```csharp
 public void Interrupt()
@@ -19,3 +19,5 @@ public void Interrupt()
 * interface [IInterruptMonitor](../)
 * namespace [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
 * assembly [Aspose.PDF](../../../)
+
+

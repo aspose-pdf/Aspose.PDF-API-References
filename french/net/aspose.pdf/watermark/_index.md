@@ -1,12 +1,12 @@
 ---
-title: Class Watermark
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Watermark. Représente un filigrane de la page
+title: "Classe Watermark"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Watermark. Représente un filigrane de la page."
 type: docs
-weight: 11300
+weight: 11490
 url: /fr/net/aspose.pdf/watermark/
 ---
-## Classe Watermark
+## Watermark class
 
 Représente un filigrane de la page.
 
@@ -25,11 +25,13 @@ public class Watermark
 
 | Nom | Description |
 | --- | --- |
-| [Available](../../aspose.pdf/watermark/available/) { get; } | Obtient un indicateur que le filigrane est présent. |
+| [Available](../../aspose.pdf/watermark/available/) { get; } | Obtient un indicateur indiquant que le filigrane est présent. |
 | [Image](../../aspose.pdf/watermark/image/) { get; } | Obtient une image du filigrane. |
-| [Position](../../aspose.pdf/watermark/position/) { get; } | Obtient une position de l'image du filigrane sur une page. |
+| [Position](../../aspose.pdf/watermark/position/) { get; } | Obtient la position de l'image du filigrane sur une page. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

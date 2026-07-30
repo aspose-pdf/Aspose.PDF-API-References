@@ -1,14 +1,14 @@
 ---
-title: Annotation.FullName
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété d'annotation. Obtient le nom complet qualifié de l'annotation
+title: "Annotation.FullName"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Annotation. Obtient le nom complet qualifié de l'annotation"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.annotations/annotation/fullname/
 ---
-## Propriété Annotation.FullName
+## Annotation.FullName property
 
-Obtient le nom complet qualifié de l'annotation.
+Obtient le nom complet de l'annotation.
 
 ```csharp
 public string FullName { get; }
@@ -16,6 +16,8 @@ public string FullName { get; }
 
 ### Voir aussi
 
-* classe [Annotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

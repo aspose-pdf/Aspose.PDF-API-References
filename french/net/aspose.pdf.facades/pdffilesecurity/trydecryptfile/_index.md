@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.TryDecryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfFileSecurity. Décrypte un document Pdf chiffré par mot de passe propriétaire. Si le document n'a pas de mot de passe propriétaire, il est permis d'utiliser le mot de passe utilisateur. Ne lance pas d'exception si le processus échoue.
+title: "PdfFileSecurity.TryDecryptFile"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfFileSecurity. Déchiffre un document Pdf chiffré avec le mot de passe propriétaire. Si le document n'a pas de mot de passe propriétaire, il est possible d'utiliser le mot de passe utilisateur. Ne lève pas d'exception si le processus échoue."
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.facades/pdffilesecurity/trydecryptfile/
 ---
-## Méthode PdfFileSecurity.TryDecryptFile
+## PdfFileSecurity.TryDecryptFile method
 
-Décrypte un document Pdf chiffré par mot de passe propriétaire. Si le document n'a pas de mot de passe propriétaire, il est permis d'utiliser le mot de passe utilisateur. Ne lance pas d'exception si le processus échoue.
+Déchiffre un document Pdf chiffré avec le mot de passe propriétaire. Si le document n'a pas de mot de passe propriétaire, il est possible d'utiliser le mot de passe utilisateur. Ne lève pas d'exception si le processus échoue.
 
 ```csharp
 public bool TryDecryptFile(string ownerPassword)
@@ -16,11 +16,11 @@ public bool TryDecryptFile(string ownerPassword)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| ownerPassword | String | Mot de passe propriétaire. |
+| ownerPassword | String | Mot de passe du propriétaire. |
 
 ### Valeur de retour
 
-Vrai pour succès, ou faux.
+Vrai en cas de succès, ou faux.
 
 ## Exemples
 
@@ -40,6 +40,8 @@ Dim result As Boolean = fileSecurity.TryDecryptFile("ownerpass")
 
 ### Voir aussi
 
-* classe [PdfFileSecurity](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileSecurity](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

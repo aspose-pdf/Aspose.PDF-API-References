@@ -1,14 +1,14 @@
 ---
-title: SetFlat.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode SetFlat. Accepte l'objet visiteur pour traiter l'opérateur
+title: "SetFlat.Accept"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "SetFlat méthode. Accepte l'objet visiteur pour traiter l'opérateur"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.operators/setflat/accept/
 ---
-## Méthode SetFlat.Accept
+## SetFlat.Accept method
 
-Accepte l'objet visiteur pour traiter l'opérateur.
+Accepte un objet visiteur pour traiter l'opérateur.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
@@ -24,3 +24,5 @@ public override void Accept(IOperatorSelector visitor)
 * class [SetFlat](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: DocConverter.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode DocConverter. Démarre le traitement DocConverter avec les paramètres spécifiés
+title: "DocConverter.Process"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode DocConverter. Démarre le traitement DocConverter avec les paramètres spécifiés."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.plugins/docconverter/process/
 ---
-## Méthode DocConverter.Process
+## DocConverter.Process method
 
-Démarre le [`DocConverter`](../) traitement avec les paramètres spécifiés.
+Démarre le traitement [`DocConverter`](../) avec les paramètres spécifiés.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -24,8 +24,10 @@ Un objet [`ResultContainer`](../../resultcontainer/) contenant le résultat de l
 
 ### Voir aussi
 
-* classe [ResultContainer](../../resultcontainer/)
+* class [ResultContainer](../../resultcontainer/)
 * interface [IPluginOptions](../../ipluginoptions/)
-* classe [DocConverter](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [DocConverter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

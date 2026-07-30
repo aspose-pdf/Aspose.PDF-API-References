@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateRubyElement
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ITaggedContent. Crée RubyElement
+title: "ITaggedContent.CreateRubyElement"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode ITaggedContent. Crée RubyElement"
 type: docs
-weight: 250
+weight: 280
 url: /fr/net/aspose.pdf.tagged/itaggedcontent/createrubyelement/
 ---
-## Méthode ITaggedContent.CreateRubyElement
+## ITaggedContent.CreateRubyElement method
 
 Crée [`RubyElement`](../../../aspose.pdf.logicalstructure/rubyelement/).
 
@@ -20,7 +20,9 @@ public RubyElement CreateRubyElement()
 
 ### Voir aussi
 
-* classe [RubyElement](../../../aspose.pdf.logicalstructure/rubyelement/)
+* class [RubyElement](../../../aspose.pdf.logicalstructure/rubyelement/)
 * interface [ITaggedContent](../)
-* espace de noms [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

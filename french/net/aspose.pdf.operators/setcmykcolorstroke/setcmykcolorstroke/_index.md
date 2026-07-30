@@ -1,12 +1,12 @@
 ---
-title: SetCMYKColorStroke.SetCMYKColorStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur SetCMYKColorStroke. Initialise l'opérateur
+title: "SetCMYKColorStroke.SetCMYKColorStroke"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "SetCMYKColorStroke constructeur. Initialise l'opérateur"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.operators/setcmykcolorstroke/setcmykcolorstroke/
 ---
-## Constructeur SetCMYKColorStroke
+## SetCMYKColorStroke constructor
 
 Initialise l'opérateur.
 
@@ -23,6 +23,8 @@ public SetCMYKColorStroke(double c, double m, double y, double k)
 
 ### Voir aussi
 
-* classe [SetCMYKColorStroke](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetCMYKColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

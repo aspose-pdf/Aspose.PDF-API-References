@@ -1,12 +1,12 @@
 ---
-title: Class TextStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Comparison.TextStyle. Représente une classe de style de texte
+title: "Classe TextStyle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Comparison.TextStyle. Représente une classe de style de texte"
 type: docs
-weight: 3330
+weight: 3440
 url: /fr/net/aspose.pdf.comparison/textstyle/
 ---
-## Classe TextStyle
+## TextStyle class
 
 Représente une classe de style de texte.
 
@@ -24,10 +24,12 @@ public class TextStyle
 
 | Nom | Description |
 | --- | --- |
-| [BackgroundColor](../../aspose.pdf.comparison/textstyle/backgroundcolor/) { get; set; } | Obtient et définit la couleur de fond. |
+| [BackgroundColor](../../aspose.pdf.comparison/textstyle/backgroundcolor/) { get; set; } | Obtient et définit la couleur d'arrière-plan. |
 | [Color](../../aspose.pdf.comparison/textstyle/color/) { get; set; } | Obtient et définit la couleur du texte. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

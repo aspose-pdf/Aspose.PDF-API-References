@@ -1,12 +1,12 @@
 ---
-title: CosPdfDictionary.AllKeys
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété CosPdfDictionary. Collection complète de clés. Contient des clés modifiables et non modifiables
+title: "CosPdfDictionary.AllKeys"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété CosPdfDictionary. Collection complète des clés. Contient des clés modifiables et non modifiables"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.dataeditor/cospdfdictionary/allkeys/
 ---
-## Propriété CosPdfDictionary.AllKeys
+## CosPdfDictionary.AllKeys property
 
 Collection complète de clés. Contient des clés modifiables et non modifiables.
 
@@ -16,6 +16,8 @@ public ICollection<string> AllKeys { get; }
 
 ### Voir aussi
 
-* classe [CosPdfDictionary](../)
-* espace de noms [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

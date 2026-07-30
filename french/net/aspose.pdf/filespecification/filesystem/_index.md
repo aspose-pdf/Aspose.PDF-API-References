@@ -1,12 +1,12 @@
 ---
-title: FileSpecification.FileSystem
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FileSpecification. Obtient ou définit le nom du système de fichiers
+title: "FileSpecification.FileSystem"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FileSpecification. Obtient ou définit le nom du système de fichiers"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf/filespecification/filesystem/
 ---
-## Propriété FileSpecification.FileSystem
+## FileSpecification.FileSystem property
 
 Obtient ou définit le nom du système de fichiers.
 
@@ -16,6 +16,8 @@ public string FileSystem { get; set; }
 
 ### Voir aussi
 
-* classe [FileSpecification](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FileSpecification](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

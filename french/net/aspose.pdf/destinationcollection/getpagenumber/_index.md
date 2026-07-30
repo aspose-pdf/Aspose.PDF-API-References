@@ -1,12 +1,12 @@
 ---
-title: DestinationCollection.GetPageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode DestinationCollection. Renvoie le numéro de page de la destination par le nom
+title: "DestinationCollection.GetPageNumber"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode DestinationCollection. Retourne le numéro de page de la destination par son nom"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf/destinationcollection/getpagenumber/
 ---
-## Méthode DestinationCollection.GetPageNumber
+## DestinationCollection.GetPageNumber method
 
 Renvoie le numéro de page de la destination par le nom.
 
@@ -25,6 +25,8 @@ Le numéro de page si la destination a été trouvée ; sinon, -1.
 
 ### Voir aussi
 
-* classe [DestinationCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

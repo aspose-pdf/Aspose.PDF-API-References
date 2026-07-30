@@ -1,7 +1,7 @@
 ---
-title: OperatorSelector.OperatorSelector
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de l'OperatorSelector. Initialise une nouvelle instance de la classe Selector
+title: "OperatorSelector.OperatorSelector"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur OperatorSelector. Initialise une nouvelle instance de la classe Selector."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/operatorselector/operatorselector/
@@ -16,15 +16,15 @@ public OperatorSelector()
 
 ### Voir aussi
 
-* classe [OperatorSelector](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## OperatorSelector(Operator) {#constructor_1}
 
-Initialise un nouvel [`OperatorSelector`](../).
+Initialise un nouveau [`OperatorSelector`](../).
 
 ```csharp
 public OperatorSelector(Operator op)
@@ -36,7 +36,9 @@ public OperatorSelector(Operator op)
 
 ### Voir aussi
 
-* classe [Operator](../../operator/)
-* classe [OperatorSelector](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Operator](../../operator/)
+* class [OperatorSelector](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

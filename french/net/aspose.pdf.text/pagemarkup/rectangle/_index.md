@@ -1,14 +1,14 @@
 ---
-title: PageMarkup.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PageMarkup. Obtient le rectangle de page traité
+title: "PageMarkup.Rectangle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PageMarkup. Obtient le rectangle de page traité"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.text/pagemarkup/rectangle/
 ---
-## Propriété PageMarkup.Rectangle
+## PageMarkup.Rectangle property
 
-Obtient le rectangle de page traité.
+Obtient le rectangle de la page traitée.
 
 ```csharp
 public Rectangle Rectangle { get; }
@@ -16,7 +16,9 @@ public Rectangle Rectangle { get; }
 
 ### Voir aussi
 
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [PageMarkup](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [PageMarkup](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

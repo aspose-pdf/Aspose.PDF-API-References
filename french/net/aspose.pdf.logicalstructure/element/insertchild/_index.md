@@ -1,14 +1,14 @@
 ---
-title: Element.InsertChild
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Element. Insérer un élément dans la collection d'enfants à l'index spécifié
+title: "Element.InsertChild"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Element méthode. Insérer l'Element dans la collection d'enfants à l'index spécifié"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.logicalstructure/element/insertchild/
 ---
-## Méthode Element.InsertChild
+## Element.InsertChild method
 
-Insérer un élément dans la collection d'enfants à l'index spécifié.
+Insère l’Element dans la collection d’enfants à l’index spécifié.
 
 ```csharp
 public Element InsertChild(Element element, int index, bool checkIfCanBeInserted = true)
@@ -16,13 +16,13 @@ public Element InsertChild(Element element, int index, bool checkIfCanBeInserted
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| element | Element | Objet élément à ajouter. |
-| index | Int32 | Index de l'élément. |
+| élément | Element | Objet Element à ajouter. |
+| index | Int32 | Index de l'Element. |
 | checkIfCanBeInserted | Boolean | Vérifier si cela peut être inséré. |
 
 ### Valeur de retour
 
-Élément qui a été ajouté.
+Element qui a été ajouté.
 
 ### Exceptions
 
@@ -32,6 +32,8 @@ public Element InsertChild(Element element, int index, bool checkIfCanBeInserted
 
 ### Voir aussi
 
-* classe [Element](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

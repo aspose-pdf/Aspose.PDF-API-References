@@ -1,12 +1,12 @@
 ---
-title: TextState.CharacterSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextState. Obtient ou définit l'espacement des caractères du texte
+title: "TextState.CharacterSpacing"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextState. Obtient ou définit l'espacement des caractères du texte"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.text/textstate/characterspacing/
 ---
-## Propriété TextState.CharacterSpacing
+## TextState.CharacterSpacing property
 
 Obtient ou définit l'espacement des caractères du texte.
 
@@ -16,6 +16,8 @@ public virtual float CharacterSpacing { get; set; }
 
 ### Voir aussi
 
-* classe [TextState](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

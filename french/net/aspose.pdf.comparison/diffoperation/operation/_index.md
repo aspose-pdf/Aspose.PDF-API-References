@@ -1,12 +1,12 @@
 ---
-title: DiffOperation.Operation
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété DiffOperation. Obtient et définit le type d'opération
+title: "DiffOperation.Operation"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété DiffOperation. Obtient et définit le type d'opération"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.comparison/diffoperation/operation/
 ---
-## Propriété DiffOperation.Operation
+## DiffOperation.Operation property
 
 Obtient et définit le type d'opération.
 
@@ -20,3 +20,5 @@ public Operation Operation { get; }
 * class [DiffOperation](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

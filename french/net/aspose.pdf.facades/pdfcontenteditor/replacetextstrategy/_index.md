@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.ReplaceTextStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfContentEditor. Un ensemble de paramètres pour l'opération de remplacement de texte
+title: "PdfContentEditor.ReplaceTextStrategy"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfContentEditor. Un ensemble de paramètres pour l'opération de remplacement de texte"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.facades/pdfcontenteditor/replacetextstrategy/
 ---
-## Propriété PdfContentEditor.ReplaceTextStrategy
+## PdfContentEditor.ReplaceTextStrategy property
 
 Un ensemble de paramètres pour l'opération de remplacement de texte
 
@@ -16,7 +16,9 @@ public ReplaceTextStrategy ReplaceTextStrategy { get; set; }
 
 ### Voir aussi
 
-* classe [ReplaceTextStrategy](../../replacetextstrategy/)
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [ReplaceTextStrategy](../../replacetextstrategy/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

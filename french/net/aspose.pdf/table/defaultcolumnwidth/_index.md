@@ -1,12 +1,12 @@
 ---
-title: Table.DefaultColumnWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la table. Obtient la bordure de cellule par défaut
+title: "Table.DefaultColumnWidth"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Table. Obtient la bordure de cellule par défaut"
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf/table/defaultcolumnwidth/
 ---
-## Propriété Table.DefaultColumnWidth
+## Table.DefaultColumnWidth property
 
 Obtient la bordure de cellule par défaut ;
 
@@ -16,6 +16,8 @@ public string DefaultColumnWidth { get; set; }
 
 ### Voir aussi
 
-* classe [Table](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

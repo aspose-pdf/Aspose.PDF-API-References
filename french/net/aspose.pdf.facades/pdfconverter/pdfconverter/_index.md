@@ -1,7 +1,7 @@
 ---
-title: PdfConverter.PdfConverter
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de PdfConverter. Initialise un nouvel objet PdfConverter
+title: "PdfConverter.PdfConverter"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur PdfConverter. Initialise un nouvel objet PdfConverter"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.facades/pdfconverter/pdfconverter/
@@ -16,8 +16,8 @@ public PdfConverter()
 
 ### Voir aussi
 
-* classe [PdfConverter](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -36,7 +36,9 @@ public PdfConverter(Document document)
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [PdfConverter](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

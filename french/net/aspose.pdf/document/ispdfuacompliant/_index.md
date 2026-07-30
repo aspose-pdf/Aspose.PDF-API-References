@@ -1,14 +1,14 @@
 ---
-title: Document.IsPdfUaCompliant
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété du document. Obtient si le document est conforme à pdfua
+title: "Document.IsPdfUaCompliant"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Document propriété. Obtient si le document est conforme pdfua"
 type: docs
-weight: 320
+weight: 340
 url: /fr/net/aspose.pdf/document/ispdfuacompliant/
 ---
-## Propriété Document.IsPdfUaCompliant
+## Document.IsPdfUaCompliant property
 
-Obtient si le document est conforme à pdfua.
+Obtient si le document est conforme au PDF/UA.
 
 ```csharp
 public bool IsPdfUaCompliant { get; }
@@ -16,6 +16,8 @@ public bool IsPdfUaCompliant { get; }
 
 ### Voir aussi
 
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

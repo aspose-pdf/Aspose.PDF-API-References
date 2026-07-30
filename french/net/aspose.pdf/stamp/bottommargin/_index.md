@@ -1,12 +1,12 @@
 ---
-title: Stamp.BottomMargin
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Stamp. Obtient ou définit la marge inférieure du tampon
+title: "Stamp.BottomMargin"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Stamp. Obtient ou définit la marge inférieure du tampon"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/stamp/bottommargin/
 ---
-## Propriété Stamp.BottomMargin
+## Stamp.BottomMargin property
 
 Obtient ou définit la marge inférieure du tampon.
 
@@ -16,6 +16,8 @@ public double BottomMargin { get; set; }
 
 ### Voir aussi
 
-* classe [Stamp](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

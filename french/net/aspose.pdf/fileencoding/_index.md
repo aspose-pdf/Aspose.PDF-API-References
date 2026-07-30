@@ -1,14 +1,14 @@
 ---
-title: Enum FileEncoding
-second_title: Aspose.PDF for .NET API Reference
-description: Enum FileEncoding d'Aspose.Pdf. Encodage du fichier joint. Valeurs possibles Zip le fichier est compressé avec ZIP None le fichier n'est pas compressé
+title: "Enum FileEncoding"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.FileEncoding enum. Encodage du fichier joint. Valeurs possibles : Zip  le fichier est compressé avec ZIP ; None  le fichier n'est pas compressé"
 type: docs
-weight: 4820
+weight: 4940
 url: /fr/net/aspose.pdf/fileencoding/
 ---
-## Énumération FileEncoding
+## FileEncoding enumeration
 
-Encodage du fichier joint. Valeurs possibles : Zip - le fichier est compressé avec ZIP, None - le fichier n'est pas compressé.
+Encodage du fichier joint. Valeurs possibles : Zip - le fichier est compressé avec ZIP, None - le fichier n'est pas compressé.
 
 ```csharp
 public enum FileEncoding
@@ -23,5 +23,7 @@ public enum FileEncoding
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Form. Obtient le nombre de champs sur ce formulaire
+title: "Form.Count"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Form. Obtient le nombre de champs dans ce formulaire."
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.forms/form/count/
 ---
-## Propriété Form.Count
+## Form.Count property
 
-Obtient le nombre de champs sur ce formulaire.
+Obtient le nombre de champs dans ce formulaire.
 
 ```csharp
 public int Count { get; }
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### Voir aussi
 
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

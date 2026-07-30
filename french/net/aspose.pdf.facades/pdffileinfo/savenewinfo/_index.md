@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.SaveNewInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfFileInfo. Enregistrer le document PDF mis à jour dans le fichier spécifié
+title: "PdfFileInfo.SaveNewInfo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PdfFileInfo méthode. Enregistre le Document PDF mis à jour dans le fichier spécifié"
 type: docs
 weight: 310
 url: /fr/net/aspose.pdf.facades/pdffileinfo/savenewinfo/
 ---
-## Méthode PdfFileInfo.SaveNewInfo
+## PdfFileInfo.SaveNewInfo method
 
-Enregistrer le document PDF mis à jour dans le fichier spécifié.
+Enregistre le document PDF mis à jour dans le fichier spécifié.
 
 ```csharp
 public bool SaveNewInfo(string outputFile)
@@ -20,10 +20,12 @@ public bool SaveNewInfo(string outputFile)
 
 ### Valeur de retour
 
-Vrai si succès sinon faux.
+True si succès, sinon false.
 
 ### Voir aussi
 
-* classe [PdfFileInfo](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

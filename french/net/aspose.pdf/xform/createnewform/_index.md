@@ -1,12 +1,12 @@
 ---
-title: XForm.CreateNewForm
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XForm. Crée un XForm qui duplique le contenu de la page
+title: "XForm.CreateNewForm"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XForm. Crée un XForm qui duplique le contenu de la page"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/xform/createnewform/
 ---
-## Méthode XForm.CreateNewForm
+## XForm.CreateNewForm method
 
 Crée un XForm qui duplique le contenu de la page.
 
@@ -17,16 +17,18 @@ public static XForm CreateNewForm(Page source, Document document)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | source | Page | Page source |
-| document | Document | Document où le nouveau XForm sera ajouté. |
+| document | Document | Document où le nouvel XForm sera ajouté. |
 
 ### Valeur de retour
 
-Nouveau XForm créé.
+XForm nouvellement créé.
 
 ### Voir aussi
 
-* classe [Page](../../page/)
-* classe [Document](../../document/)
-* classe [XForm](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Page](../../page/)
+* class [Document](../../document/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

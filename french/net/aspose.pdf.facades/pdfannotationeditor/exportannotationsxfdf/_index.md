@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.ExportAnnotationsXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfAnnotationEditor. Exporte le contenu des types d'annotations spécifiés en XFDF
+title: "PdfAnnotationEditor.ExportAnnotationsXfdf"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfAnnotationEditor. Exporte le contenu des types d'annotation spécifiés vers XFDF"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.facades/pdfannotationeditor/exportannotationsxfdf/
 ---
 ## ExportAnnotationsXfdf(Stream, int, int, string[]) {#exportannotationsxfdf_1}
 
-Exporte le contenu des types d'annotations spécifiés en XFDF
+Exporte le contenu des types d'annotation spécifiés vers XFDF
 
 ```csharp
 public void ExportAnnotationsXfdf(Stream xmlOutputStream, int start, int end, string[] annotTypes)
@@ -17,9 +17,9 @@ public void ExportAnnotationsXfdf(Stream xmlOutputStream, int start, int end, st
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | xmlOutputStream | Stream | Le flux XFDF de sortie. |
-| start | Int32 | Page de départ à partir de laquelle les annotations du document seront exportées. |
-| end | Int32 | Page de fin vers laquelle les annotations du document seront exportées. |
-| annotTypes | String[] | Le tableau des types d'annotations à exporter. |
+| start | Int32 | Page de début à partir de laquelle les annotations du document seront exportées. |
+| end | Int32 | Page de fin jusqu'à laquelle les annotations du document seront exportées. |
+| annotTypes | String[] | Le tableau des types d'annotation à exporter. |
 
 ## Exemples
 
@@ -35,15 +35,15 @@ using (Stream stream = File.Create("example.xfdf"))
 
 ### Voir aussi
 
-* classe [PdfAnnotationEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ExportAnnotationsXfdf(Stream, int, int, AnnotationType[]) {#exportannotationsxfdf}
 
-Exporte le contenu des types d'annotations spécifiés en XFDF
+Exporte le contenu des types d'annotations spécifiés vers XFDF
 
 ```csharp
 public void ExportAnnotationsXfdf(Stream xmlOutputStream, int start, int end, 
@@ -53,9 +53,9 @@ public void ExportAnnotationsXfdf(Stream xmlOutputStream, int start, int end,
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | xmlOutputStream | Stream | Le flux XFDF de sortie. |
-| start | Int32 | Page de départ à partir de laquelle les annotations du document seront exportées. |
-| end | Int32 | Page de fin vers laquelle les annotations du document seront exportées. |
-| annotTypes | AnnotationType[] | Le tableau des types d'annotations à exporter. |
+| start | Int32 | Page de début à partir de laquelle les annotations du document seront exportées. |
+| end | Int32 | Page de fin jusqu'à laquelle les annotations du document seront exportées. |
+| annotTypes | AnnotationType[] | Le tableau des types d'annotation à exporter. |
 
 ## Exemples
 
@@ -71,7 +71,9 @@ using (Stream stream = File.Create("example.xfdf"))
 
 ### Voir aussi
 
-* énum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
-* classe [PdfAnnotationEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

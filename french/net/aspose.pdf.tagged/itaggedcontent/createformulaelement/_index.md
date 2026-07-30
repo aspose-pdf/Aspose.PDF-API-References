@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateFormulaElement
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ITaggedContent. Crée FormulaElement
+title: "ITaggedContent.CreateFormulaElement"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "ITaggedContent méthode. Crée FormulaElement"
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf.tagged/itaggedcontent/createformulaelement/
 ---
-## Méthode ITaggedContent.CreateFormulaElement
+## ITaggedContent.CreateFormulaElement method
 
 Crée [`FormulaElement`](../../../aspose.pdf.logicalstructure/formulaelement/).
 
@@ -20,7 +20,9 @@ public FormulaElement CreateFormulaElement()
 
 ### Voir aussi
 
-* classe [FormulaElement](../../../aspose.pdf.logicalstructure/formulaelement/)
+* class [FormulaElement](../../../aspose.pdf.logicalstructure/formulaelement/)
 * interface [ITaggedContent](../)
-* espace de noms [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

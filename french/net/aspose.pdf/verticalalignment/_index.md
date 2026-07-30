@@ -1,14 +1,14 @@
 ---
-title: Enum VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Enumération Aspose.Pdf.VerticalAlignment. Énumération des valeurs possibles d'alignement vertical
+title: "Enum VerticalAlignment"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Enum Aspose.Pdf.VerticalAlignment. Énumération des valeurs possibles d'alignement vertical"
 type: docs
-weight: 11270
+weight: 11460
 url: /fr/net/aspose.pdf/verticalalignment/
 ---
-## Énumération VerticalAlignment
+## VerticalAlignment enumeration
 
-Énumération des valeurs possibles d'alignement vertical.
+Énumération des valeurs d'alignement vertical possibles.
 
 ```csharp
 public enum VerticalAlignment
@@ -18,12 +18,14 @@ public enum VerticalAlignment
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| Aucun | `0` | Pas d'alignement (utiliser la position spécifiée). |
-| Haut | `1` | Aligné en haut. |
-| Centre | `2` | Alignement centré. |
-| Bas | `3` | Aligné en bas. |
+| None | `0` | Pas d'alignement (utiliser la position spécifiée). |
+| Top | `1` | Aligner en haut. |
+| Center | `2` | Alignement centré. |
+| Bottom | `3` | Aligner en bas. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

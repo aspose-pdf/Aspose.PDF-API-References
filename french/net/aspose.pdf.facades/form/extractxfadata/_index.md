@@ -1,12 +1,12 @@
 ---
-title: Form.ExtractXfaData
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode de formulaire. Extrait le paquet de données XFA
+title: "Form.ExtractXfaData"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Form méthode. Extrait le paquet de données XFA"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf.facades/form/extractxfadata/
 ---
-## Méthode Form.ExtractXfaData
+## Form.ExtractXfaData method
 
 Extrait le paquet de données XFA
 
@@ -20,6 +20,8 @@ public void ExtractXfaData(Stream outputXmlStream)
 
 ### Voir aussi
 
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

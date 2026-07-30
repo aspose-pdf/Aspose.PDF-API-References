@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.CheckBoxStyleDiamond
-second_title: Aspose.PDF for .NET API Reference
-description: Champ FormFieldFacade. Définit un style de case à cocher en forme de diamant
+title: "FormFieldFacade.CheckBoxStyleDiamond"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "FormFieldFacade field. Définit un style de case à cocher en diamant"
 type: docs
 weight: 420
 url: /fr/net/aspose.pdf.facades/formfieldfacade/checkboxstylediamond/
 ---
-## Champ FormFieldFacade.CheckBoxStyleDiamond
+## FormFieldFacade.CheckBoxStyleDiamond field
 
-Définit un style de case à cocher en forme de diamant.
+Définit un style de case à cocher en losange.
 
 ```csharp
 public const int CheckBoxStyleDiamond;
@@ -16,6 +16,8 @@ public const int CheckBoxStyleDiamond;
 
 ### Voir aussi
 
-* classe [FormFieldFacade](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

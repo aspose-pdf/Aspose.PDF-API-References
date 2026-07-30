@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfFileEditor. Insère des pages d'un autre fichier dans le fichier Pdf à une position
+title: "PdfFileEditor.Insert"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfFileEditor. Insère des pages d'un autre fichier dans le fichier Pdf à une position"
 type: docs
 weight: 290
 url: /fr/net/aspose.pdf.facades/pdffileeditor/insert/
 ---
 ## Insert(string, int, string, int, int, string) {#insert_2}
 
-Insère des pages d'un autre fichier dans le fichier Pdf à une position.
+Insère des pages d'un autre fichier dans le fichier Pdf à une position donnée.
 
 ```csharp
 public bool Insert(string inputFile, int insertLocation, string portFile, int startPage, 
@@ -26,7 +26,7 @@ public bool Insert(string inputFile, int insertLocation, string portFile, int st
 
 ### Valeur de retour
 
-Vrai pour succès, ou faux.
+Vrai en cas de succès, ou faux.
 
 ## Exemples
 
@@ -37,8 +37,8 @@ pfe.Insert("file1.pdf", 1, "file2.pdf", 2, 6, "out.pdf");
 
 ### Voir aussi
 
-* classe [PdfFileEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -55,15 +55,15 @@ public bool Insert(Stream inputStream, int insertLocation, Stream portStream, in
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | inputStream | Stream | Flux d'entrée du fichier Pdf. |
-| insertLocation | Int32 | Position d'insertion dans le fichier d'entrée. |
+| insertLocation | Int32 | Insérer la position dans le fichier d'entrée. |
 | portStream | Stream | Flux du fichier Pdf pour les pages. |
 | startPage | Int32 | À partir de quelle page commencer. |
-| endPage | Int32 | À quelle page finir. |
+| endPage | Int32 | Jusqu'à quelle page terminer. |
 | outputStream | Stream | Flux de sortie. |
 
 ### Valeur de retour
 
-Vrai pour succès, ou faux.
+Vrai en cas de succès, ou faux.
 
 ## Exemples
 
@@ -77,8 +77,8 @@ pfe.Insert(sourceStream, 1, insertedStream, 2, 6, outStream);
 
 ### Voir aussi
 
-* classe [PdfFileEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -95,14 +95,14 @@ public bool Insert(string inputFile, int insertLocation, string portFile, int[] 
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | inputFile | String | Fichier Pdf d'entrée. |
-| insertLocation | Int32 | Position d'insertion dans le fichier d'entrée. |
+| insertLocation | Int32 | Insérer la position dans le fichier d'entrée. |
 | portFile | String | Pages du fichier Pdf. |
-| pageNumber | Int32[] | Le numéro de page du fichier porté dans portFile. |
+| pageNumber | Int32[] | Le numéro de page du portage dans portFile. |
 | outputFile | String | Fichier Pdf de sortie. |
 
 ### Valeur de retour
 
-Vrai pour succès, ou faux.
+Vrai en cas de succès, ou faux.
 
 ## Exemples
 
@@ -113,8 +113,8 @@ pfe.Insert("file1.pdf", 1, "file2.pdf", new int[] { 2, 6 }, "out.pdf");
 
 ### Voir aussi
 
-* classe [PdfFileEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -131,9 +131,9 @@ public bool Insert(Stream inputStream, int insertLocation, Stream portStream, in
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | inputStream | Stream | Flux d'entrée du fichier Pdf. |
-| insertLocation | Int32 | Position d'insertion dans le fichier d'entrée. |
+| insertLocation | Int32 | Insérer la position dans le fichier d'entrée. |
 | portStream | Stream | Flux du fichier Pdf pour les pages. |
-| pageNumber | Int32[] | Le numéro de page du fichier porté dans portFile. |
+| pageNumber | Int32[] | Le numéro de page du portage dans portFile. |
 | outputStream | Stream | Flux de sortie. |
 
 ### Valeur de retour
@@ -152,6 +152,8 @@ pfe.Insert(sourceStream, 1, insertedStream, new int[] { 3, 4, 5}, outStream);
 
 ### Voir aussi
 
-* classe [PdfFileEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

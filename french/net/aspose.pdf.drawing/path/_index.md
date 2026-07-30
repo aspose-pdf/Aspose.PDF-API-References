@@ -1,12 +1,12 @@
 ---
-title: Class Path
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Drawing.Path. Représente un arc
+title: "Classe Path"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Drawing.Path classe. Représente un arc"
 type: docs
-weight: 3970
+weight: 4090
 url: /fr/net/aspose.pdf.drawing/path/
 ---
-## Classe Path
+## Path class
 
 Représente un arc.
 
@@ -25,7 +25,7 @@ public sealed class Path : Shape
 
 | Nom | Description |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Obtient ou définit un objet [`GraphInfo`](../shape/graphinfo/) qui indique les informations du graphique, telles que la couleur, la largeur de ligne, etc. |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Obtient ou définit un objet [`GraphInfo`](../shape/graphinfo/) qui indique les informations du graphe, telles que la couleur, la largeur de ligne, etc. |
 | [Shapes](../../aspose.pdf.drawing/path/shapes/) { get; } | Obtient ou définit la collection de formes. |
 | [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Obtient ou définit un texte pour la forme |
 
@@ -37,6 +37,8 @@ public sealed class Path : Shape
 
 ### Voir aussi
 
-* classe [Shape](../shape/)
-* espace de noms [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* class [Shape](../shape/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
+
+

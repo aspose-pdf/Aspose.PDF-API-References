@@ -1,14 +1,14 @@
 ---
-title: UnifiedSaveOptions.ProgressEventHandlerInfo.MaxValue
-second_title: Aspose.PDF for .NET API Reference
-description: Champ ProgressEventHandlerInfo. Valeur maximale possible de la valeur de progression
+title: "UnifiedSaveOptions.ProgressEventHandlerInfo.MaxValue"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ ProgressEventHandlerInfo. Valeur maximale possible de la valeur de progression"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/maxvalue/
 ---
-## Champ UnifiedSaveOptions.ProgressEventHandlerInfo.MaxValue
+## UnifiedSaveOptions.ProgressEventHandlerInfo.MaxValue field
 
-Valeur maximale possible de la valeur de progression.
+Valeur maximale possible de la progression.
 
 ```csharp
 public int MaxValue;
@@ -16,6 +16,8 @@ public int MaxValue;
 
 ### Voir aussi
 
-* classe [ProgressEventHandlerInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [ProgressEventHandlerInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

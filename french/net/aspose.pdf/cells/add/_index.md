@@ -1,7 +1,7 @@
 ---
-title: Cells.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Cells. Ajouter une cellule à la collection
+title: "Cells.Add"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Cells. Ajouter une cellule à la collection"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/cells/add/
@@ -14,11 +14,11 @@ Ajouter une cellule à la collection.
 public Cell Add()
 ```
 
-### Return Value
+### Valeur de retour
 
 La nouvelle cellule
 
-### See Also
+### Voir aussi
 
 * class [Cell](../../cell/)
 * class [Cells](../)
@@ -35,16 +35,16 @@ Ajouter une cellule à la collection.
 public Cell Add(string text, TextState ts)
 ```
 
-| Parameter | Type | Description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| text | String | Le texte pour la cellule. |
+| texte | String | Le texte pour la cellule. |
 | ts | TextState | L'état du texte. |
 
-### Return Value
+### Valeur de retour
 
 La nouvelle cellule
 
-### See Also
+### Voir aussi
 
 * class [Cell](../../cell/)
 * class [TextState](../../../aspose.pdf.text/textstate/)
@@ -62,15 +62,15 @@ Ajouter une cellule à la collection.
 public Cell Add(string text)
 ```
 
-| Parameter | Type | Description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| text | String | Le texte pour la cellule. |
+| texte | String | Le texte pour la cellule. |
 
-### Return Value
+### Valeur de retour
 
 La nouvelle cellule
 
-### See Also
+### Voir aussi
 
 * class [Cell](../../cell/)
 * class [Cells](../)
@@ -87,13 +87,15 @@ Ajouter une cellule à la collection.
 public void Add(Cell cell)
 ```
 
-| Parameter | Type | Description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| cell | Cell | La cellule à la collection. |
+| cellule | Cellule | La cellule vers la collection. |
 
-### See Also
+### Voir aussi
 
 * class [Cell](../../cell/)
 * class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

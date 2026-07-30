@@ -1,7 +1,7 @@
 ---
-title: PdfBookmarkEditor.ExportBookmarksToXML
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfBookmarkEditor. Exporte les signets vers un fichier XML
+title: "PdfBookmarkEditor.ExportBookmarksToXML"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PdfBookmarkEditor méthode. Exporte les signets vers un fichier XML"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.facades/pdfbookmarkeditor/exportbookmarkstoxml/
@@ -28,8 +28,8 @@ editor.ExportBookmarksToXML("bookmarks.xml");
 
 ### Voir aussi
 
-* classe [PdfBookmarkEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -48,6 +48,8 @@ public void ExportBookmarksToXML(Stream stream)
 
 ### Voir aussi
 
-* classe [PdfBookmarkEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

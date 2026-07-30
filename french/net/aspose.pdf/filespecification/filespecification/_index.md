@@ -1,7 +1,7 @@
 ---
-title: FileSpecification.FileSpecification
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de FileSpecification. Constructeur pour FileSpecification
+title: "FileSpecification.FileSpecification"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur FileSpecification. Constructeur pour FileSpecification"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/filespecification/filespecification/
@@ -37,7 +37,7 @@ public FileSpecification(Stream stream, string name)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Flux contenant le fichier de données. |
-| name | String | Spécification du fichier. |
+| nom | String | Spécification du fichier. |
 
 ### Voir aussi
 
@@ -79,7 +79,7 @@ public FileSpecification(Stream stream, string name, string description)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | stream | Stream | Flux à utiliser dans le document. |
-| name | String | Une chaîne de spécification de fichier. |
+| nom | String | Une chaîne de spécification de fichier. |
 | description | String | Description du fichier. |
 
 ### Voir aussi
@@ -114,7 +114,7 @@ public FileSpecification(string fileName, Annotation annot)
 
 ## FileSpecification() {#constructor}
 
-Créer une nouvelle spécification de fichier vide.
+Crée une nouvelle spécification de fichier vide.
 
 ```csharp
 public FileSpecification()
@@ -125,3 +125,5 @@ public FileSpecification()
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TiffOptions.Compression
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TiffOptions. Obtient ou définit le type de compression
+title: "TiffOptions.Compression"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TiffOptions. Obtient ou définit le type de compression."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.plugins/tiffoptions/compression/
 ---
-## Propriété TiffOptions.Compression
+## TiffOptions.Compression property
 
 Obtient ou définit le type de compression.
 
@@ -14,7 +14,7 @@ Obtient ou définit le type de compression.
 public CompressionType Compression { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le type de compression.
 
@@ -28,3 +28,5 @@ La valeur par défaut est CompressionType.LZW
 * class [TiffOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: CurveTo.CurveTo
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur CurveTo. Initialise l'opérateur de courbe
+title: "CurveTo.CurveTo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur CurveTo. Initialise l'opérateur de courbe"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.operators/curveto/curveto/
 ---
-## Constructeur CurveTo
+## CurveTo constructor
 
 Initialise l'opérateur de courbe.
 
@@ -25,6 +25,8 @@ public CurveTo(double x1, double y1, double x2, double y2, double x3, double y3)
 
 ### Voir aussi
 
-* classe [CurveTo](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [CurveTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

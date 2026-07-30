@@ -1,14 +1,14 @@
 ---
-title: Row.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Row. Obtient ou définit la couleur de fond
+title: "Row.BackgroundColor"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Row. Obtient ou définit la couleur d’arrière‑plan."
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/row/backgroundcolor/
 ---
-## Propriété Row.BackgroundColor
+## Row.BackgroundColor property
 
-Obtient ou définit la couleur de fond.
+Obtient ou définit la couleur d'arrière-plan.
 
 ```csharp
 public Color BackgroundColor { get; set; }
@@ -16,7 +16,9 @@ public Color BackgroundColor { get; set; }
 
 ### Voir aussi
 
-* classe [Color](../../color/)
-* classe [Row](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Color](../../color/)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

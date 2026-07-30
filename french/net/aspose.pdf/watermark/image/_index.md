@@ -1,12 +1,12 @@
 ---
-title: Watermark.Image
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Watermark. Obtient une image du filigrane
+title: "Watermark.Image"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Watermark. Obtient une image du filigrane"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/watermark/image/
 ---
-## Propriété Watermark.Image
+## Watermark.Image property
 
 Obtient une image du filigrane.
 
@@ -16,6 +16,8 @@ public Image Image { get; }
 
 ### Voir aussi
 
-* classe [Watermark](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Watermark](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

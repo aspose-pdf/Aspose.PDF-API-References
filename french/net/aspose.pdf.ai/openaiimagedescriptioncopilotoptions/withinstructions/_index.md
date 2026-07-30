@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithInstructions
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OpenAIImageDescriptionCopilotOptions. Définit les instructions pour les options de copilote de description d'image
+title: "OpenAIImageDescriptionCopilotOptions.WithInstructions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OpenAIImageDescriptionCopilotOptions méthode. Définit les instructions pour les options du copilote de description d'image"
 type: docs
 weight: 120
 url: /fr/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withinstructions/
 ---
-## Méthode OpenAIImageDescriptionCopilotOptions.WithInstructions
+## OpenAIImageDescriptionCopilotOptions.WithInstructions method
 
-Définit les instructions pour les options de copilote de description d'image.
+Définit les instructions pour les options du copilot de description d'image.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithInstructions(string instructions)
@@ -24,6 +24,8 @@ L'instance actuelle de [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [OpenAIImageDescriptionCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

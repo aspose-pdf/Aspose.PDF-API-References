@@ -1,12 +1,12 @@
 ---
-title: PageSize.A2
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PageSize. Taille A2 594x420 mm
+title: "PageSize.A2"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PageSize. Taille A2 594x420 mm"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/pagesize/a2/
 ---
-## Propriété PageSize.A2
+## PageSize.A2 property
 
 Taille A2 (594x420 mm).
 
@@ -16,6 +16,8 @@ public static PageSize A2 { get; }
 
 ### Voir aussi
 
-* classe [PageSize](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageSize](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

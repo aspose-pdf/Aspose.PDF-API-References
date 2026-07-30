@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.BTWIPE
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PdfPageEditor. Effacement Haut-Bas
+title: "PdfPageEditor.BTWIPE"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PdfPageEditor. BottomTop Wipe"
 type: docs
 weight: 210
 url: /fr/net/aspose.pdf.facades/pdfpageeditor/btwipe/
 ---
-## Champ PdfPageEditor.BTWIPE
+## PdfPageEditor.BTWIPE field
 
-Effacement Haut-Bas
+Balayage du bas vers le haut
 
 ```csharp
 public const int BTWIPE;
@@ -16,6 +16,8 @@ public const int BTWIPE;
 
 ### Voir aussi
 
-* classe [PdfPageEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.Extract
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfFileEditor. Extrait des pages des fichiers d'entrée et les enregistre en tant que nouveau fichier Pdf
+title: "PdfFileEditor.Extract"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfFileEditor. Extrait les pages du fichier d'entrée et les enregistre comme un nouveau fichier Pdf."
 type: docs
 weight: 280
 url: /fr/net/aspose.pdf.facades/pdffileeditor/extract/
 ---
 ## Extract(string, int, int, string) {#extract_2}
 
-Extrait des pages du fichier d'entrée, les enregistre en tant que nouveau fichier Pdf.
+Extrait les pages du fichier d'entrée, puis enregistre un nouveau fichier Pdf.
 
 ```csharp
 public bool Extract(string inputFile, int startPage, int endPage, string outputFile)
@@ -17,8 +17,8 @@ public bool Extract(string inputFile, int startPage, int endPage, string outputF
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | inputFile | String | Chemin du fichier Pdf d'entrée. |
-| startPage | Int32 | Numéro de la page de départ. |
-| endPage | Int32 | Numéro de la page de fin. |
+| startPage | Int32 | Numéro de page de début. |
+| endPage | Int32 | Numéro de page de fin. |
 | outputFile | String | Chemin du fichier Pdf de sortie. |
 
 ### Valeur de retour
@@ -34,15 +34,15 @@ pfe.Extract("input.pdf", 3, 7, "output.pdf");
 
 ### Voir aussi
 
-* classe [PdfFileEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Extract(string, int[], string) {#extract_3}
 
-Extrait des pages spécifiées par un tableau de numéros, les enregistre en tant que nouveau fichier PDF.
+Extrait les pages spécifiées par un tableau de numéros, puis enregistre un nouveau fichier PDF.
 
 ```csharp
 public bool Extract(string inputFile, int[] pageNumber, string outputFile)
@@ -51,7 +51,7 @@ public bool Extract(string inputFile, int[] pageNumber, string outputFile)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | inputFile | String | Chemin du fichier d'entrée. |
-| pageNumber | Int32[] | Index de la page dans le fichier d'entrée. |
+| pageNumber | Int32[] | Indice de la page du fichier d'entrée. |
 | outputFile | String | Chemin du fichier de sortie. |
 
 ### Valeur de retour
@@ -67,15 +67,15 @@ pfe.Extract("input.pdf", new int[] { 3, 5, 7 }, "output.pdf");
 
 ### Voir aussi
 
-* classe [PdfFileEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Extract(Stream, int, int, Stream) {#extract}
 
-Extrait des pages du fichier d'entrée, les enregistre en tant que nouveau fichier Pdf.
+Extrait les pages du fichier d'entrée, puis enregistre un nouveau fichier Pdf.
 
 ```csharp
 public bool Extract(Stream inputStream, int startPage, int endPage, Stream outputStream)
@@ -84,9 +84,9 @@ public bool Extract(Stream inputStream, int startPage, int endPage, Stream outpu
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | inputStream | Stream | Flux du fichier d'entrée. |
-| startPage | Int32 | Numéro de la page de départ. |
-| endPage | Int32 | Numéro de la page de fin. |
-| outputStream | Stream | Flux du fichier Pdf de sortie. |
+| startPage | Int32 | Numéro de page de début. |
+| endPage | Int32 | Numéro de page de fin. |
+| outputStream | Stream | Flux de fichier Pdf de sortie. |
 
 ### Valeur de retour
 
@@ -103,15 +103,15 @@ pfe.Extract(sourceStream, 1, 3, 6, outStream);
 
 ### Voir aussi
 
-* classe [PdfFileEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## Extract(Stream, int[], Stream) {#extract_1}
 
-Extrait des pages spécifiées par un tableau de numéros, les enregistre en tant que nouveau fichier Pdf.
+Extrait les pages spécifiées par un tableau de numéros, puis enregistre un nouveau fichier Pdf.
 
 ```csharp
 public bool Extract(Stream inputStream, int[] pageNumber, Stream outputStream)
@@ -120,7 +120,7 @@ public bool Extract(Stream inputStream, int[] pageNumber, Stream outputStream)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | inputStream | Stream | Flux du fichier d'entrée. |
-| pageNumber | Int32[] | Index de la page dans le fichier d'entrée. |
+| pageNumber | Int32[] | Indice de la page du fichier d'entrée. |
 | outputStream | Stream | Flux du fichier de sortie. |
 
 ### Valeur de retour
@@ -138,6 +138,8 @@ pfe.Extract(sourceStream, new int[] { 3, 5, 8 }, outStream);
 
 ### Voir aussi
 
-* classe [PdfFileEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

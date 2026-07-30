@@ -1,12 +1,12 @@
 ---
-title: Resources.ExtGStateValue.ca
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ExtGStateValue.
+title: "Resources.ExtGStateValue.ca"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ExtGStateValue."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/resources.extgstatevalue/ca/
 ---
-## Propriété Resources.ExtGStateValue.ca
+## Resources.ExtGStateValue.ca property
 
 ```csharp
 public double ca { get; }
@@ -14,6 +14,8 @@ public double ca { get; }
 
 ### Voir aussi
 
-* classe [ExtGStateValue](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [ExtGStateValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

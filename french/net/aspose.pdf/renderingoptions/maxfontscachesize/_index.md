@@ -1,14 +1,14 @@
 ---
-title: RenderingOptions.MaxFontsCacheSize
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété RenderingOptions. Nombre maximum de polices dans le cache de polices. La valeur par défaut est 10
+title: "RenderingOptions.MaxFontsCacheSize"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété RenderingOptions. Nombre maximal de polices dans le cache de polices. La valeur par défaut est 10."
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf/renderingoptions/maxfontscachesize/
 ---
-## Propriété RenderingOptions.MaxFontsCacheSize
+## RenderingOptions.MaxFontsCacheSize property
 
-Nombre maximum de polices dans le cache de polices. La valeur par défaut est 10.
+Nombre maximal de polices dans le cache des polices. La valeur par défaut est 10.
 
 ```csharp
 public int MaxFontsCacheSize { get; set; }
@@ -16,6 +16,8 @@ public int MaxFontsCacheSize { get; set; }
 
 ### Voir aussi
 
-* classe [RenderingOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [RenderingOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

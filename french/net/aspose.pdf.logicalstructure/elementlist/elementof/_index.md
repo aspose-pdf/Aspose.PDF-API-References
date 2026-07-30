@@ -1,12 +1,12 @@
 ---
-title: ElementList.ElementOf
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ElementList. Obtient un élément à l'index donné
+title: "ElementList.ElementOf"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ElementList. Obtient un élément à l'index donné"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.logicalstructure/elementlist/elementof/
 ---
-## Indexeur ElementList
+## ElementList indexer
 
 Obtient un élément à l'index donné.
 
@@ -24,7 +24,9 @@ L'élément avec l'index spécifié dans la collection. Si l'index est supérieu
 
 ### Voir aussi
 
-* classe [Element](../../element/)
-* classe [ElementList](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [Element](../../element/)
+* class [ElementList](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

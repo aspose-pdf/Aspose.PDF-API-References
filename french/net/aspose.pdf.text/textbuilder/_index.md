@@ -1,12 +1,12 @@
 ---
-title: Class TextBuilder
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Text.TextBuilder. Ajoute un objet texte à la page Pdf
+title: "Classe TextBuilder"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Text.TextBuilder. Ajoute un objet texte à la page Pdf"
 type: docs
-weight: 10810
+weight: 10990
 url: /fr/net/aspose.pdf.text/textbuilder/
 ---
-## Classe TextBuilder
+## TextBuilder class
 
 Ajoute un objet texte à la page Pdf.
 
@@ -31,5 +31,7 @@ public sealed class TextBuilder
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

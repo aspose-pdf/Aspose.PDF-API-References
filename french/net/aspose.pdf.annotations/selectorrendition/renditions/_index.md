@@ -1,14 +1,14 @@
 ---
-title: SelectorRendition.Renditions
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SelectorRendition. Obtient un tableau de renditions
+title: "SelectorRendition.Renditions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété SelectorRendition. Obtient le tableau des rendus"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/selectorrendition/renditions/
 ---
-## Propriété SelectorRendition.Renditions
+## SelectorRendition.Renditions property
 
-Obtient un tableau de renditions.
+Obtient le tableau des rendus.
 
 ```csharp
 public Rendition[] Renditions { get; }
@@ -16,7 +16,9 @@ public Rendition[] Renditions { get; }
 
 ### Voir aussi
 
-* classe [Rendition](../../rendition/)
-* classe [SelectorRendition](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Rendition](../../rendition/)
+* class [SelectorRendition](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

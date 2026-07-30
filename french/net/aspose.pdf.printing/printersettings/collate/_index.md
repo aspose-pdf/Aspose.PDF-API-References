@@ -1,14 +1,14 @@
 ---
-title: PrinterSettings.Collate
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PrinterSettings. Obtient ou définit une valeur indiquant si l'impression est triée
+title: "PrinterSettings.Collate"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PrinterSettings. Obtient ou définit une valeur indiquant si la sortie d'impression est regroupée."
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.printing/printersettings/collate/
 ---
-## Propriété PrinterSettings.Collate
+## PrinterSettings.Collate property
 
-Obtient ou définit une valeur indiquant si l'impression est triée.
+Obtient ou définit une valeur indiquant si le tirage est regroupé.
 
 ```csharp
 public bool Collate { get; set; }
@@ -16,6 +16,8 @@ public bool Collate { get; set; }
 
 ### Voir aussi
 
-* classe [PrinterSettings](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

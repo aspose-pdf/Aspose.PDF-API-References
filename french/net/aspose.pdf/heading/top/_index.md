@@ -1,14 +1,14 @@
 ---
-title: Heading.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Heading. Obtient le Y supérieur de ces en-têtes
+title: "Heading.Top"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Heading. Obtient la coordonnée Y supérieure de ce titre."
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf/heading/top/
 ---
-## Propriété Heading.Top
+## Heading.Top property
 
-Obtient le Y supérieur de ces en-têtes.
+Obtient la coordonnée Y supérieure de ces titres.
 
 ```csharp
 public double Top { get; set; }
@@ -16,6 +16,8 @@ public double Top { get; set; }
 
 ### Voir aussi
 
-* classe [Heading](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Heading](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: BarcodeField.BarcodeField
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de BarcodeField. Initialise une nouvelle instance de la classe BarcodeField
+title: "BarcodeField.BarcodeField"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "BarcodeField constructeur. Initialise une nouvelle instance de la classe BarcodeField"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.forms/barcodefield/barcodefield/
@@ -17,14 +17,14 @@ public BarcodeField(Page page, Rectangle rect)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | page | Page | La page où placer le nouveau code-barres. |
-| rect | Rectangle | Tailles du code-barres données dans un rectangle. |
+| rect | Rectangle | Tailles du code-barres données dans le rectangle. |
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [BarcodeField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [BarcodeField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -44,8 +44,10 @@ public BarcodeField(Document doc, Rectangle rect)
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [BarcodeField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [BarcodeField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

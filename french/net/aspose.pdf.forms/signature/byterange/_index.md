@@ -1,14 +1,14 @@
 ---
-title: Signature.ByteRange
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Signature. Un tableau de paires d'entiers représentant le décalage de l'octet de départ et la longueur en octets qui décrira la plage d'octets exacte pour le calcul du hachage
+title: "Signature.ByteRange"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Signature. Un tableau de paires d'entiers indiquant le décalage de départ en octets et la longueur en octets qui décrivent la plage exacte d'octets pour le calcul du condensat."
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.forms/signature/byterange/
 ---
-## Propriété Signature.ByteRange
+## Signature.ByteRange property
 
-Un tableau de paires d'entiers (décalage d'octet de départ, longueur en octets) qui décrira la plage d'octets exacte pour le calcul du hachage.
+Un tableau de paires d'entiers (décalage d'octet de départ, longueur en octets) qui doit décrire la plage d'octets exacte pour le calcul du condensat.
 
 ```csharp
 public int[] ByteRange { get; }
@@ -16,6 +16,8 @@ public int[] ByteRange { get; }
 
 ### Voir aussi
 
-* classe [Signature](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Signature](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

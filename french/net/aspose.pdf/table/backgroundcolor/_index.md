@@ -1,14 +1,14 @@
 ---
-title: Table.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la table. Obtient ou définit la couleur de fond de la table
+title: "Table.BackgroundColor"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Table. Obtient ou définit la couleur d'arrière-plan du tableau"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/table/backgroundcolor/
 ---
-## Propriété Table.BackgroundColor
+## Table.BackgroundColor property
 
-Obtient ou définit la couleur de fond de la table
+Obtient ou définit la couleur d'arrière-plan du tableau
 
 ```csharp
 public Color BackgroundColor { get; set; }
@@ -16,7 +16,9 @@ public Color BackgroundColor { get; set; }
 
 ### Voir aussi
 
-* classe [Color](../../color/)
-* classe [Table](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Color](../../color/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

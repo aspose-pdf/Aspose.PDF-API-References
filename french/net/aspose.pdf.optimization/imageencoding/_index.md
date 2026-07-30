@@ -1,12 +1,12 @@
 ---
-title: Enum ImageEncoding
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ImageEncoding d'Aspose.Pdf. Types d'encodage d'image
+title: "Énumération ImageEncoding"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Optimization.ImageEncoding enum. Types d'encodage d'image"
 type: docs
-weight: 7970
+weight: 8110
 url: /fr/net/aspose.pdf.optimization/imageencoding/
 ---
-## Énumération ImageEncoding
+## ImageEncoding enumeration
 
 Types d'encodage d'image.
 
@@ -25,5 +25,7 @@ public enum ImageEncoding
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Optimization](../../aspose.pdf.optimization/)
+* namespace [Aspose.Pdf.Optimization](../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../)
+
+

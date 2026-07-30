@@ -1,7 +1,7 @@
 ---
-title: HeadingLevels.HeadingLevels
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de HeadingLevels. Crée une nouvelle instance de la classe HeadingLevels
+title: "HeadingLevels.HeadingLevels"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur HeadingLevels. Crée une nouvelle instance de la classe HeadingLevels."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.pdftomarkdown/headinglevels/headinglevels/
@@ -16,8 +16,8 @@ public HeadingLevels()
 
 ### Voir aussi
 
-* classe [HeadingLevels](../)
-* espace de noms [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
+* class [HeadingLevels](../)
+* namespace [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -32,10 +32,12 @@ public HeadingLevels(double threshold)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| threshold | Double | La valeur seuil pour comparer les tailles de police. Dans la limite de la seuil, les niveaux de titre sont les mêmes. La valeur par défaut de la seuil est 0.01. |
+| seuil | Double | La valeur seuil pour comparer les tailles de police. À l'intérieur du seuil, les niveaux d'en-tête sont les mêmes. La valeur par défaut du seuil est 0,01. |
 
 ### Voir aussi
 
-* classe [HeadingLevels](../)
-* espace de noms [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
+* class [HeadingLevels](../)
+* namespace [Aspose.Pdf.PdfToMarkdown](../../../aspose.pdf.pdftomarkdown/)
 * assembly [Aspose.PDF](../../../)
+
+

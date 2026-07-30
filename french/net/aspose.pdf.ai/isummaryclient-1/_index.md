@@ -1,9 +1,9 @@
 ---
-title: Interface ISummaryClientTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Interface Aspose.Pdf.AI.ISummaryClient1TOptions. Représente une interface pour un client de résumé avec des options spécifiques
+title: "Interface ISummaryClientTOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Interface Aspose.Pdf.AI.ISummaryClient1TOptions. Représente une interface pour un client de résumé avec des options spécifiques"
 type: docs
-weight: 580
+weight: 630
 url: /fr/net/aspose.pdf.ai/isummaryclient-1/
 ---
 ## ISummaryClient&lt;TOptions&gt; interface
@@ -29,3 +29,5 @@ public interface ISummaryClient<in TOptions> : IAIClient
 * interface [IAIClient](../iaiclient/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

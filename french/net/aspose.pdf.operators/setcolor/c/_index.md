@@ -1,12 +1,12 @@
 ---
-title: SetColor.C
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SetColor. Obtient ou définit le composant cyan
+title: "SetColor.C"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété SetColor. Obtient ou définit le composant cyan"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.operators/setcolor/c/
 ---
-## Propriété SetColor.C
+## SetColor.C property
 
 Obtient ou définit le composant cyan.
 
@@ -16,6 +16,8 @@ public double C { get; set; }
 
 ### Voir aussi
 
-* classe [SetColor](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.SpecialFolderForAllImages
-second_title: Aspose.PDF for .NET API Reference
-description: Champ HtmlSaveOptions. Obtient ou définit le chemin vers le répertoire dans lequel doivent être enregistrées toutes les images si elles sont rencontrées lors de l'enregistrement du document au format HTML. Si le paramètre est vide ou nul, alors les fichiers image seront enregistrés avec d'autres fichiers liés au HTML. Cela n'affecte rien si la propriété CustomImageSavingStrategy a été utilisée avec succès pour traiter le fichier image pertinent.
+title: "HtmlSaveOptions.SpecialFolderForAllImages"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "HtmlSaveOptions field. Obtient ou définit le chemin du répertoire dans lequel toutes les images doivent être enregistrées si elles sont rencontrées lors de l’enregistrement du document au format HTML. Si le paramètre est vide ou nul, les fichiers image, le cas échéant, seront enregistrés avec les autres fichiers liés au HTML. Cela n’affecte rien si la propriété CustomImageSavingStrategy a été utilisée avec succès pour traiter le fichier image concerné."
 type: docs
 weight: 440
 url: /fr/net/aspose.pdf/htmlsaveoptions/specialfolderforallimages/
 ---
-## Champ HtmlSaveOptions.SpecialFolderForAllImages
+## HtmlSaveOptions.SpecialFolderForAllImages field
 
-Obtient ou définit le chemin vers le répertoire dans lequel doivent être enregistrées toutes les images si elles sont rencontrées lors de l'enregistrement du document au format HTML. Si le paramètre est vide ou nul, alors les fichiers image (s'il y en a) seront enregistrés avec d'autres fichiers liés au HTML. Cela n'affecte rien si la propriété CustomImageSavingStrategy a été utilisée avec succès pour traiter le fichier image pertinent.
+Obtient ou définit le chemin du répertoire dans lequel toutes les images doivent être enregistrées si elles sont rencontrées lors de l’enregistrement du document au format HTML. Si le paramètre est vide ou nul, les fichiers image (le cas échéant) seront enregistrés avec les autres fichiers liés au HTML. Cela n’affecte rien si la propriété CustomImageSavingStrategy a été utilisée avec succès pour traiter le fichier image concerné.
 
 ```csharp
 public string SpecialFolderForAllImages;
@@ -16,6 +16,8 @@ public string SpecialFolderForAllImages;
 
 ### Voir aussi
 
-* classe [HtmlSaveOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

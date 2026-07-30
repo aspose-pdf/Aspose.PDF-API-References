@@ -1,12 +1,12 @@
 ---
-title: StringResult.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété StringResult. Renvoie la représentation sous forme de chaîne du résultat
+title: "StringResult.Text"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété StringResult. Retourne la représentation sous forme de chaîne du résultat"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.plugins/stringresult/text/
 ---
-## Propriété StringResult.Text
+## StringResult.Text property
 
 Renvoie la représentation sous forme de chaîne du résultat.
 
@@ -16,6 +16,8 @@ public string Text { get; }
 
 ### Voir aussi
 
-* classe [StringResult](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [StringResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

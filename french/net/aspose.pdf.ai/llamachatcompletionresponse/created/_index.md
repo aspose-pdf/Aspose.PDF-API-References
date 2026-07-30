@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionResponse.Created
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété LlamaChatCompletionResponse. Obtient ou définit le timestamp Unix en secondes de la création de la complétion de chat
+title: "LlamaChatCompletionResponse.Created"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "LlamaChatCompletionResponse propriété. Obtient ou définit le horodatage Unix en secondes du moment où la chat completion a été créée"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.ai/llamachatcompletionresponse/created/
 ---
-## Propriété LlamaChatCompletionResponse.Created
+## LlamaChatCompletionResponse.Created property
 
-Obtient ou définit le timestamp Unix (en secondes) de la création de la complétion de chat.
+Obtient ou définit l'horodatage Unix (en secondes) du moment où la complétion de chat a été créée.
 
 ```csharp
 public long Created { get; set; }
@@ -16,6 +16,8 @@ public long Created { get; set; }
 
 ### Voir aussi
 
-* classe [LlamaChatCompletionResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [LlamaChatCompletionResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

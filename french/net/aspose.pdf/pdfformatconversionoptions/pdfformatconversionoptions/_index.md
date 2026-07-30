@@ -1,7 +1,7 @@
 ---
-title: PdfFormatConversionOptions.PdfFormatConversionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de PdfFormatConversionOptions. Constructeur
+title: "PdfFormatConversionOptions.PdfFormatConversionOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PdfFormatConversionOptions constructeur. Constructeur"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/pdfformatconversionoptions/pdfformatconversionoptions/
@@ -17,7 +17,7 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| outputLogFileName | String | Chemin vers le fichier où les commentaires seront stockés. |
+| outputLogFileName | String | Chemin du fichier où les commentaires seront stockés. |
 | format | PdfFormat | Le format pdf. |
 | action | ConvertErrorAction | Action pour les objets qui ne peuvent pas être convertis |
 
@@ -41,7 +41,7 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| outputLogFileName | String | Chemin vers le fichier où les commentaires seront stockés. |
+| outputLogFileName | String | Chemin du fichier où les commentaires seront stockés. |
 | format | PdfFormat | Le format pdf. |
 
 ### Voir aussi
@@ -108,10 +108,10 @@ public PdfFormatConversionOptions(string outputLogFileName, PdfFormat format,
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| outputLogFileName | String | Chemin vers le fichier où les commentaires seront stockés. |
+| outputLogFileName | String | Chemin du fichier où les commentaires seront stockés. |
 | format | PdfFormat | Le format pdf. |
 | action | ConvertErrorAction | Action pour les objets qui ne peuvent pas être convertis |
-| transparencyAction | ConvertTransparencyAction | Action pour les objets masqués par image |
+| transparencyAction | ConvertTransparencyAction | Action pour les objets masqués d'image |
 
 ### Voir aussi
 
@@ -135,7 +135,7 @@ public PdfFormatConversionOptions(Stream outputLogStream, PdfFormat format,
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| outputLogStream | Stream | Flux où les commentaires seront stockés |
+| outputLogStream | Stream | Stream où les commentaires seront stockés |
 | format | PdfFormat | Le format pdf |
 | action | ConvertErrorAction | Action pour les objets qui ne peuvent pas être convertis |
 
@@ -146,3 +146,5 @@ public PdfFormatConversionOptions(Stream outputLogStream, PdfFormat format,
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

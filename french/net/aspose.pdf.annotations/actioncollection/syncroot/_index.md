@@ -1,12 +1,12 @@
 ---
-title: ActionCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ActionCollection. Obtient l'objet de synchronisation
+title: "ActionCollection.SyncRoot"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ActionCollection. Obtient l'objet de synchronisation"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.annotations/actioncollection/syncroot/
 ---
-## Propriété ActionCollection.SyncRoot
+## ActionCollection.SyncRoot property
 
 Obtient l'objet de synchronisation.
 
@@ -16,6 +16,8 @@ public object SyncRoot { get; }
 
 ### Voir aussi
 
-* classe [ActionCollection](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [ActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PDF3DCrossSectionArray.RemoveAll
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PDF3DCrossSectionArray. Supprime toutes les sections transversales du tableau
+title: "PDF3DCrossSectionArray.RemoveAll"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PDF3DCrossSectionArray. Supprime toutes les sections transversales du tableau"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.annotations/pdf3dcrosssectionarray/removeall/
 ---
-## Méthode PDF3DCrossSectionArray.RemoveAll
+## PDF3DCrossSectionArray.RemoveAll method
 
 Supprime toutes les sections transversales du tableau.
 
@@ -16,6 +16,8 @@ public void RemoveAll()
 
 ### Voir aussi
 
-* classe [PDF3DCrossSectionArray](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DCrossSectionArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

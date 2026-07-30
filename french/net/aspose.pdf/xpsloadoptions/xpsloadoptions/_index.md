@@ -1,12 +1,12 @@
 ---
-title: XpsLoadOptions.XpsLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de XpsLoadOptions. Le constructeur par défaut
+title: "XpsLoadOptions.XpsLoadOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur de XpsLoadOptions. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/xpsloadoptions/xpsloadoptions/
 ---
-## Constructeur de XpsLoadOptions
+## XpsLoadOptions constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public XpsLoadOptions()
 
 ### Voir aussi
 
-* classe [XpsLoadOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XpsLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

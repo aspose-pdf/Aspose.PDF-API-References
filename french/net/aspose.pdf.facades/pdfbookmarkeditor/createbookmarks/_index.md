@@ -1,7 +1,7 @@
 ---
-title: PdfBookmarkEditor.CreateBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfBookmarkEditor. Crée des signets pour toutes les pages
+title: "PdfBookmarkEditor.CreateBookmarks"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfBookmarkEditor. Crée des signets pour toutes les pages."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.facades/pdfbookmarkeditor/createbookmarks/
@@ -25,8 +25,8 @@ editor.Save("example_out.pdf");
 
 ### Voir aussi
 
-* classe [PdfBookmarkEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -41,7 +41,7 @@ public void CreateBookmarks(Bookmark bookmark)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| bookmark | Bookmark | Le signet sera ajouté au document. |
+| signet | Signet | Le signet sera ajouté au document. |
 
 ## Exemples
 
@@ -68,9 +68,9 @@ editor.Save("example_out.pdf");
 
 ### Voir aussi
 
-* classe [Bookmark](../../bookmark/)
-* classe [PdfBookmarkEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Bookmark](../../bookmark/)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -86,8 +86,8 @@ public void CreateBookmarks(Color color, bool boldFlag, bool italicFlag)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | color | Color | La couleur du titre. |
-| boldFlag | Boolean | Le drapeau d'attribution en gras. |
-| italicFlag | Boolean | Le drapeau d'attribution en italique. |
+| boldFlag | Boolean | Le drapeau d'attribut en gras. |
+| italicFlag | Boolean | Le drapeau d'attribut en italique. |
 
 ## Exemples
 
@@ -100,6 +100,8 @@ editor.Save("example_out.pdf");
 
 ### Voir aussi
 
-* classe [PdfBookmarkEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

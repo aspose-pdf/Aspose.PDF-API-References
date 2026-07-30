@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.IncludeNoValueFields
-second_title: Aspose.PDF for .NET API Reference
-description: Champ SubmitFormAction. S'il est défini, tous les champs désignés par le tableau Fields et le drapeau Inclure/Exclure seront soumis
+title: "SubmitFormAction.IncludeNoValueFields"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ SubmitFormAction. Si défini, tous les champs désignés par le tableau Fields ainsi que le drapeau Inclure/Exclure seront soumis."
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf.annotations/submitformaction/includenovaluefields/
 ---
-## Champ SubmitFormAction.IncludeNoValueFields
+## SubmitFormAction.IncludeNoValueFields field
 
-S'il est défini, tous les champs désignés par le tableau Fields et le drapeau Inclure/Exclure seront soumis.
+Si défini, tous les champs désignés par le tableau Fields et le drapeau Include/Exclude doivent être soumis.
 
 ```csharp
 public const int IncludeNoValueFields;
@@ -16,6 +16,8 @@ public const int IncludeNoValueFields;
 
 ### Voir aussi
 
-* classe [SubmitFormAction](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

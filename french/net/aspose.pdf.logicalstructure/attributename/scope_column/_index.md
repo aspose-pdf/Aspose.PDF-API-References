@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Scope_Column
-second_title: Aspose.PDF for .NET API Reference
-description: Champ AttributeName. Colonne de portée d'attribut
+title: "AttributeName.Scope_Column"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ AttributeName. Attribut Scope Column"
 type: docs
 weight: 530
 url: /fr/net/aspose.pdf.logicalstructure/attributename/scope_column/
 ---
-## Champ AttributeName.Scope_Column
+## AttributeName.Scope_Column field
 
-Portée de l'attribut : Colonne.
+Attribut Scope : Column.
 
 ```csharp
 public static readonly AttributeName Scope_Column;
@@ -16,6 +16,8 @@ public static readonly AttributeName Scope_Column;
 
 ### Voir aussi
 
-* classe [AttributeName](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

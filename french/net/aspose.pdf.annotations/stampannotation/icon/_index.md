@@ -1,14 +1,14 @@
 ---
-title: StampAnnotation.Icon
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété StampAnnotation. Obtient ou définit l'icône pour le tampon en caoutchouc
+title: "StampAnnotation.Icon"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété StampAnnotation. Obtient ou définit l'icône du tampon en caoutchouc"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.annotations/stampannotation/icon/
 ---
-## Propriété StampAnnotation.Icon
+## StampAnnotation.Icon property
 
-Obtient ou définit l'icône pour le tampon en caoutchouc.
+Obtient ou définit l'icône du tampon en caoutchouc.
 
 ```csharp
 public StampIcon Icon { get; set; }
@@ -20,3 +20,5 @@ public StampIcon Icon { get; set; }
 * class [StampAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

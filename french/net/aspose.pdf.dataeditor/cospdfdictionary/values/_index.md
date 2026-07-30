@@ -1,14 +1,14 @@
 ---
-title: CosPdfDictionary.Values
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété CosPdfDictionary. Obtient un ICollection contenant les valeurs dans le CosPdfDictionary
+title: "CosPdfDictionary.Values"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété CosPdfDictionary. Obtient une ICollection contenant les valeurs du CosPdfDictionary"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.dataeditor/cospdfdictionary/values/
 ---
-## Propriété CosPdfDictionary.Values
+## CosPdfDictionary.Values property
 
-Obtient un ICollection contenant les valeurs dans le [`CosPdfDictionary`](../).
+Obtient une ICollection contenant les valeurs du [`CosPdfDictionary`](../).
 
 ```csharp
 public ICollection<ICosPdfPrimitive> Values { get; }
@@ -17,6 +17,8 @@ public ICollection<ICosPdfPrimitive> Values { get; }
 ### Voir aussi
 
 * interface [ICosPdfPrimitive](../../icospdfprimitive/)
-* classe [CosPdfDictionary](../)
-* espace de noms [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: DocumentInfo.DocumentInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur DocumentInfo. Initialiser l'instance DocumentInfo
+title: "DocumentInfo.DocumentInfo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur DocumentInfo. Initialise une instance de DocumentInfo"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/documentinfo/documentinfo/
 ---
-## Constructeur DocumentInfo
+## DocumentInfo constructor
 
-Initialiser l'instance DocumentInfo.
+Initialise une instance de DocumentInfo.
 
 ```csharp
 public DocumentInfo(Document document)
@@ -20,7 +20,9 @@ public DocumentInfo(Document document)
 
 ### Voir aussi
 
-* classe [Document](../../document/)
-* classe [DocumentInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../../document/)
+* class [DocumentInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

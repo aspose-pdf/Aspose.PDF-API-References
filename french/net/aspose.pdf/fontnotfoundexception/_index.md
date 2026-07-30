@@ -1,12 +1,12 @@
 ---
-title: Class FontNotFoundException
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.FontNotFoundException. L'exception qui est levée lorsqu'une police n'est pas trouvée
+title: "Classe FontNotFoundException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.FontNotFoundException. L'exception qui est levée lorsqu'une police n'est pas trouvée"
 type: docs
-weight: 4900
+weight: 5020
 url: /fr/net/aspose.pdf/fontnotfoundexception/
 ---
-## Classe FontNotFoundException
+## FontNotFoundException class
 
 L'exception qui est levée lorsqu'une police n'est pas trouvée.
 
@@ -24,6 +24,8 @@ public sealed class FontNotFoundException : PdfException
 
 ### Voir aussi
 
-* classe [PdfException](../pdfexception/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

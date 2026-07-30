@@ -1,12 +1,12 @@
 ---
-title: JavascriptAction.Script
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété JavascriptAction. Obtient ou définit le code javascript
+title: "JavascriptAction.Script"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "JavascriptAction propriété. Obtient ou définit le code javascript"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.annotations/javascriptaction/script/
 ---
-## Propriété JavascriptAction.Script
+## JavascriptAction.Script property
 
 Obtient ou définit le code javascript.
 
@@ -16,6 +16,8 @@ public string Script { get; set; }
 
 ### Voir aussi
 
-* classe [JavascriptAction](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [JavascriptAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

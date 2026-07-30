@@ -1,14 +1,14 @@
 ---
-title: Class PaperSource
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Printing.PaperSource. Spécifie le bac à papier à partir duquel l'imprimante obtient du papier
+title: "Classe PaperSource"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Printing.PaperSource. Spécifie le bac à papier dont l'imprimante prend le papier."
 type: docs
-weight: 9600
+weight: 9750
 url: /fr/net/aspose.pdf.printing/papersource/
 ---
-## Classe PaperSource
+## PaperSource class
 
-Spécifie le bac à papier à partir duquel l'imprimante obtient du papier.
+Spécifie le bac à papier dont l'imprimante prend le papier.
 
 ```csharp
 public sealed class PaperSource
@@ -18,7 +18,7 @@ public sealed class PaperSource
 
 | Nom | Description |
 | --- | --- |
-| [PaperSource](papersource/#constructor)() | Initialise une nouvelle instance de la classe `PaperSource` avec des propriétés par défaut. |
+| [PaperSource](papersource/#constructor)() | Initialise une nouvelle instance de la classe `PaperSource` avec les propriétés par défaut. |
 | [PaperSource](papersource/#constructor_1)(PaperSourceKind, string) | Initialise une nouvelle instance de la classe `PaperSource` avec le type et le nom spécifiés. |
 
 ## Propriétés
@@ -26,7 +26,7 @@ public sealed class PaperSource
 | Nom | Description |
 | --- | --- |
 | [Kind](../../aspose.pdf.printing/papersource/kind/) { get; set; } | Obtient ou définit une valeur indiquant le type de source de papier. |
-| [RawKind](../../aspose.pdf.printing/papersource/rawkind/) { get; set; } | Identique à [`Kind`](./kind/), mais les valeurs supérieures à DMBIN_USER ne correspondent pas à Personnalisé. |
+| [RawKind](../../aspose.pdf.printing/papersource/rawkind/) { get; set; } | Identique à [`Kind`](./kind/), mais les valeurs supérieures à DMBIN_USER ne sont pas mappées à Custom. |
 | [SourceName](../../aspose.pdf.printing/papersource/sourcename/) { get; set; } | Obtient ou définit le nom de la source de papier. |
 
 ## Méthodes
@@ -37,5 +37,7 @@ public sealed class PaperSource
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

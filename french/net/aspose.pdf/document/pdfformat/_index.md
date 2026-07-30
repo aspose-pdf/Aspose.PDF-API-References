@@ -1,12 +1,12 @@
 ---
-title: Document.PdfFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété du document. Obtient le format PDF
+title: "Document.PdfFormat"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété du Document. Obtient le format PDF"
 type: docs
-weight: 480
+weight: 500
 url: /fr/net/aspose.pdf/document/pdfformat/
 ---
-## Propriété Document.PdfFormat
+## Document.PdfFormat property
 
 Obtient le format PDF
 
@@ -20,3 +20,5 @@ public PdfFormat PdfFormat { get; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

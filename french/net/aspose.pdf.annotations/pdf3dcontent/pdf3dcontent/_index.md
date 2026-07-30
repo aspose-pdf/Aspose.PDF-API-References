@@ -1,7 +1,7 @@
 ---
-title: PDF3DContent.PDF3DContent
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur PDF3DContent. Initialise une nouvelle instance de la classe PDF3DContent
+title: "PDF3DContent.PDF3DContent"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur PDF3DContent. Initialise une nouvelle instance de la classe PDF3DContent"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/pdf3dcontent/pdf3dcontent/
@@ -16,8 +16,8 @@ public PDF3DContent()
 
 ### Voir aussi
 
-* classe [PDF3DContent](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -32,7 +32,7 @@ public PDF3DContent(string filename)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| filename | String | Le nom de fichier. |
+| nom de fichier | String | Le nom de fichier. |
 
 ### Exceptions
 
@@ -42,6 +42,8 @@ public PDF3DContent(string filename)
 
 ### Voir aussi
 
-* classe [PDF3DContent](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CornerPrinterMarkAnnotation.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété CornerPrinterMarkAnnotation. Obtient ou définit la position de la marque sur la page
+title: "CornerPrinterMarkAnnotation.Position"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété CornerPrinterMarkAnnotation. Obtient ou définit la position du repère sur la page"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/cornerprintermarkannotation/position/
 ---
-## Propriété CornerPrinterMarkAnnotation.Position
+## CornerPrinterMarkAnnotation.Position property
 
-Obtient ou définit la position de la marque sur la page.
+Obtient ou définit la position du repère sur la page.
 
 ```csharp
 public PrinterMarkCornerPosition Position { get; set; }
@@ -20,3 +20,5 @@ public PrinterMarkCornerPosition Position { get; set; }
 * class [CornerPrinterMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfExtractor.EndPage
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfExtractor. Obtient ou définit la page de fin dans la plage de pages où l'opération d'extraction sera effectuée
+title: "PdfExtractor.EndPage"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfExtractor. Obtient ou définit la page de fin dans la plage de pages où l'opération d'extraction sera effectuée."
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.facades/pdfextractor/endpage/
 ---
-## Propriété PdfExtractor.EndPage
+## PdfExtractor.EndPage property
 
 Obtient ou définit la page de fin dans la plage de pages où l'opération d'extraction sera effectuée.
 
@@ -24,6 +24,8 @@ public int EndPage { get; set; }
 
 ### Voir aussi
 
-* classe [PdfExtractor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

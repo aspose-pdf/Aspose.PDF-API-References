@@ -1,12 +1,12 @@
 ---
-title: PageCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PageCollection. Renvoie l'énumérateur des pages
+title: "PageCollection.GetEnumerator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PageCollection. Retourne l'énumérateur des pages"
 type: docs
 weight: 140
 url: /fr/net/aspose.pdf/pagecollection/getenumerator/
 ---
-## Méthode PageCollection.GetEnumerator
+## PageCollection.GetEnumerator method
 
 Renvoie l'énumérateur des pages.
 
@@ -20,7 +20,9 @@ public IEnumerator<Page> GetEnumerator()
 
 ### Voir aussi
 
-* classe [Page](../../page/)
-* classe [PageCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Page](../../page/)
+* class [PageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

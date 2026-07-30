@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchema.RdfPrefix
-second_title: Aspose.PDF for .NET API Reference
-description: Champ XmpPdfAExtensionSchema. Préfixe de l'espace de noms rdf par défaut
+title: "XmpPdfAExtensionSchema.RdfPrefix"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ XmpPdfAExtensionSchema. Préfixe d'espace de noms rdf par défaut"
 type: docs
 weight: 210
 url: /fr/net/aspose.pdf/xmppdfaextensionschema/rdfprefix/
 ---
-## Champ XmpPdfAExtensionSchema.RdfPrefix
+## XmpPdfAExtensionSchema.RdfPrefix field
 
-Préfixe de l'espace de noms rdf par défaut.
+Préfixe d'espace de noms RDF par défaut.
 
 ```csharp
 public const string RdfPrefix;
@@ -16,6 +16,8 @@ public const string RdfPrefix;
 
 ### Voir aussi
 
-* classe [XmpPdfAExtensionSchema](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

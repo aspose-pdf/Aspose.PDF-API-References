@@ -1,12 +1,12 @@
 ---
-title: RgbToDeviceGrayConversionStrategy.Convert
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode RgbToDeviceGrayConversionStrategy. Convertit la page du document
+title: "RgbToDeviceGrayConversionStrategy.Convert"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode RgbToDeviceGrayConversionStrategy. Convertit la page du document"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/rgbtodevicegrayconversionstrategy/convert/
 ---
-## Méthode RgbToDeviceGrayConversionStrategy.Convert
+## RgbToDeviceGrayConversionStrategy.Convert method
 
 Convertit la page du document.
 
@@ -20,7 +20,9 @@ public void Convert(Page page)
 
 ### Voir aussi
 
-* classe [Page](../../page/)
-* classe [RgbToDeviceGrayConversionStrategy](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Page](../../page/)
+* class [RgbToDeviceGrayConversionStrategy](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XFormCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété XFormCollection. Renvoie vrai si l'objet est synchronisé
+title: "XFormCollection.IsSynchronized"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété XFormCollection. Retourne true si l'objet est synchronisé"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/xformcollection/issynchronized/
 ---
-## Propriété XFormCollection.IsSynchronized
+## XFormCollection.IsSynchronized property
 
 Renvoie vrai si l'objet est synchronisé.
 
@@ -16,6 +16,8 @@ public bool IsSynchronized { get; }
 
 ### Voir aussi
 
-* classe [XFormCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

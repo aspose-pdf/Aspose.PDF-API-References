@@ -1,14 +1,14 @@
 ---
-title: TruncationStrategy.LastMessages
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TruncationStrategy. Obtient ou définit le nombre de messages les plus récents du fil lors de la construction du contexte pour l'exécution
+title: "TruncationStrategy.LastMessages"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "TruncationStrategy propriété. Obtient ou définit le nombre de messages les plus récents du fil lors de la construction du contexte pour l'exécution"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.ai/truncationstrategy/lastmessages/
 ---
-## Propriété TruncationStrategy.LastMessages
+## TruncationStrategy.LastMessages property
 
-Obtient ou définit le nombre de messages les plus récents du fil lors de la construction du contexte pour l'exécution.
+Obtient ou définit le nombre des messages les plus récents du fil lors de la construction du contexte pour l'exécution.
 
 ```csharp
 public int? LastMessages { get; set; }
@@ -16,6 +16,8 @@ public int? LastMessages { get; set; }
 
 ### Voir aussi
 
-* classe [TruncationStrategy](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [TruncationStrategy](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

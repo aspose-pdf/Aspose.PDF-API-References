@@ -1,7 +1,7 @@
 ---
-title: AnnotationSelector.AnnotationSelector
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur d'AnnotationSelector. Initialise une nouvelle instance de la classe AnnotationSelector
+title: "AnnotationSelector.AnnotationSelector"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur AnnotationSelector. Initialise une nouvelle instance de la classe AnnotationSelector."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/annotationselector/annotationselector/
@@ -16,8 +16,8 @@ public AnnotationSelector()
 
 ### Voir aussi
 
-* classe [AnnotationSelector](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -32,11 +32,13 @@ public AnnotationSelector(Annotation annotation)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| annotation | Annotation | Annotation à sélectionner. Cet objet décrit uniquement certaines caractéristiques que nous souhaitons que les annotations trouvées aient, par exemple le type d'annotation. |
+| annotation | Annotation | Annotation à sélectionner. Cet objet ne décrit que certaines caractéristiques que nous souhaitons que les annotations trouvées possèdent, par ex. le type d'annotation. |
 
 ### Voir aussi
 
-* classe [Annotation](../../annotation/)
-* classe [AnnotationSelector](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Annotation](../../annotation/)
+* class [AnnotationSelector](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: JavaScriptCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété JavaScriptCollection. Obtient ou définit JavaScript de la collection par sa clé
+title: "JavaScriptCollection.Item"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété JavaScriptCollection. Obtient ou définit le JavaScript de la collection par sa clé"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/javascriptcollection/item/
 ---
-## Indexeur JavaScriptCollection
+## JavaScriptCollection indexer
 
-Obtient ou définit JavaScript de la collection par sa clé.
+Obtient ou définit le JavaScript de la collection par sa clé.
 
 ```csharp
 public string this[string key] { get; set; }
@@ -20,10 +20,12 @@ public string this[string key] { get; set; }
 
 ### Valeur de retour
 
-Collection JavaScript.
+Collection Javascript.
 
 ### Voir aussi
 
-* classe [JavaScriptCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [JavaScriptCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

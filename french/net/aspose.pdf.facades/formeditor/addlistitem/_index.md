@@ -1,14 +1,14 @@
 ---
-title: FormEditor.AddListItem
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FormEditor. Ajoute un nouvel élément à la boîte de liste
+title: "FormEditor.AddListItem"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode FormEditor. Ajoute un nouvel élément à la boîte de liste."
 type: docs
 weight: 120
 url: /fr/net/aspose.pdf.facades/formeditor/addlistitem/
 ---
 ## AddListItem(string, string) {#addlistitem}
 
-Ajoute un nouvel élément à la boîte de liste.
+Ajoute un nouvel élément à la zone de liste.
 
 ```csharp
 public void AddListItem(string fieldName, string itemName)
@@ -28,15 +28,15 @@ formEditor.AddListItem("listBoxField", "Item 4 (New Item)");
 
 ### Voir aussi
 
-* classe [FormEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddListItem(string, string[]) {#addlistitem_1}
 
-Ajoute un nouvel élément avec une valeur d'exportation au champ de boîte de liste existant, uniquement pour le champ de boîte combinée AcroForm.
+Ajoute un nouvel élément avec une valeur d'exportation au champ de zone de liste existant, uniquement pour le champ de zone combinée AcroForm.
 
 ```csharp
 public void AddListItem(string fieldName, string[] exportName)
@@ -45,7 +45,7 @@ public void AddListItem(string fieldName, string[] exportName)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | fieldName | String | Nom du champ auquel les éléments seront ajoutés. |
-| exportName | String[] | Un tableau de chaînes désignant un nouvel élément de liste avec une valeur d'exportation, c'est-à-dire (Étiquette de l'élément, Valeur d'exportation). |
+| exportName | String[] | Un tableau de chaînes désignant un nouvel élément de liste avec une valeur d'exportation, c.-à-d. (Étiquette d'élément, Valeur d'exportation). |
 
 ## Exemples
 
@@ -56,6 +56,8 @@ fe.AddListItem("listboxField", new string[] { "4", "Item4(Added)" });
 
 ### Voir aussi
 
-* classe [FormEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: HtmlDiffOutputGenerator.InsertStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété HtmlDiffOutputGenerator. Obtient et définit la chaîne de style CSS pour l'opération d'insertion. Exemple
+title: "HtmlDiffOutputGenerator.InsertStyle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété HtmlDiffOutputGenerator. Obtient et définit la chaîne CSSstyle pour l'opération Insert. Exemple"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.comparison/htmldiffoutputgenerator/insertstyle/
 ---
-## Propriété HtmlDiffOutputGenerator.InsertStyle
+## HtmlDiffOutputGenerator.InsertStyle property
 
-Obtient et définit la chaîne de style CSS pour l'opération d'insertion. Exemple :
+Obtient et définit la chaîne de style CSS pour l'opération Insert. Exemple :
 
 ```csharp
 color: #003300; background-color: #ccff66;
@@ -20,6 +20,8 @@ public string InsertStyle { get; set; }
 
 ### Voir aussi
 
-* classe [HtmlDiffOutputGenerator](../)
-* espace de noms [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* class [HtmlDiffOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

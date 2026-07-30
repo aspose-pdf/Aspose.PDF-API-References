@@ -1,12 +1,12 @@
 ---
-title: Class DocumentInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.DocumentInfo. Représente les métadonnées du document PDF
+title: "Classe DocumentInfo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.DocumentInfo. Représente les métadonnées du document PDF."
 type: docs
-weight: 3870
+weight: 3990
 url: /fr/net/aspose.pdf/documentinfo/
 ---
-## Classe DocumentInfo
+## DocumentInfo class
 
 Représente les métadonnées du document PDF.
 
@@ -43,11 +43,13 @@ public sealed class DocumentInfo : Dictionary<string, string>
 | --- | --- |
 | [Add](../../aspose.pdf/documentinfo/add/#add)(string, string) | Ajoute un élément avec la clé et la valeur spécifiées dans la collection. |
 | [Clear](../../aspose.pdf/documentinfo/clear/#clear)() | Efface les informations du document. |
-| [ClearCustomData](../../aspose.pdf/documentinfo/clearcustomdata/)() | Efface uniquement les données personnalisées, laisse toutes les autres valeurs prédéfinies (Titre, Auteur, etc.). |
+| [ClearCustomData](../../aspose.pdf/documentinfo/clearcustomdata/)() | Efface uniquement les données personnalisées, laisse toutes les autres valeurs prédéfinies (Title, Author, etc.). |
 | [Remove](../../aspose.pdf/documentinfo/remove/#remove_2)(string) | Supprime l'élément avec la clé spécifiée de la collection. |
-| static [IsPredefinedKey](../../aspose.pdf/documentinfo/ispredefinedkey/)(string) | Détermine si la clé est prédéfinie (Titre, Auteur, etc.), et non personnalisée. |
+| static [IsPredefinedKey](../../aspose.pdf/documentinfo/ispredefinedkey/)(string) | Détermine si la clé est prédéfinie (Title, Author, etc.), et non personnalisée. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

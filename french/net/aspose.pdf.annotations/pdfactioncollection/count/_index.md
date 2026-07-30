@@ -1,12 +1,12 @@
 ---
-title: PdfActionCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfActionCollection. Obtient le nombre d'actions
+title: "PdfActionCollection.Count"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfActionCollection. Obtient le nombre d'actions"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/pdfactioncollection/count/
 ---
-## Propriété PdfActionCollection.Count
+## PdfActionCollection.Count property
 
 Obtient le nombre d'actions.
 
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### Voir aussi
 
-* classe [PdfActionCollection](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PdfActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

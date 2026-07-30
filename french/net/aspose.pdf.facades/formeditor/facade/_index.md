@@ -1,12 +1,12 @@
 ---
-title: FormEditor.Facade
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FormEditor. Définit les attributs visuels du champ
+title: "FormEditor.Facade"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "FormEditor propriété. Définit les attributs visuels du champ"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.facades/formeditor/facade/
 ---
-## Propriété FormEditor.Facade
+## FormEditor.Facade property
 
 Définit les attributs visuels du champ.
 
@@ -29,7 +29,9 @@ fe.Save();
 
 ### Voir aussi
 
-* classe [FormFieldFacade](../../formfieldfacade/)
-* classe [FormEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormFieldFacade](../../formfieldfacade/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

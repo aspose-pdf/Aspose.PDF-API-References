@@ -1,14 +1,14 @@
 ---
-title: Page.CropBox
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la page. Obtient ou définit la zone de rognage de la page
+title: "Page.CropBox"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Page. Obtient ou définit la zone de rognage de la page."
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf/page/cropbox/
 ---
-## Propriété Page.CropBox
+## Page.CropBox property
 
-Obtient ou définit la zone de rognage de la page.
+Obtient ou définit la boîte de rognage de la page.
 
 ```csharp
 public Rectangle CropBox { get; set; }
@@ -16,7 +16,7 @@ public Rectangle CropBox { get; set; }
 
 ## Exemples
 
-L'exemple démontre comment obtenir la zone de rognage de la page:
+L'exemple montre comment obtenir la zone de rognage de la page :
 
 ```csharp
 Document document = new Document("sample.pdf");
@@ -25,7 +25,9 @@ Rectangle cropBox = document.Pages[1].CropBox;
 
 ### Voir aussi
 
-* classe [Rectangle](../../rectangle/)
-* classe [Page](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Rectangle](../../rectangle/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

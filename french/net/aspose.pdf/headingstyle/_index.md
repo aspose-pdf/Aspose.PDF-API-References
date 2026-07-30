@@ -1,14 +1,14 @@
 ---
-title: Enum HeadingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.HeadingStyle. Définit les styles de sérialisation disponibles pour les titres. Pour la spécification, voir CommonMark - titres ATX et CommonMark - titres Setext
+title: "Énumération HeadingStyle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Enum Aspose.Pdf.HeadingStyle. Définit les styles de sérialisation disponibles pour les titres. Pour la spécification, voir les titres ATX de CommonMark ainsi que les titres Setext de CommonMark."
 type: docs
-weight: 5490
+weight: 5620
 url: /fr/net/aspose.pdf/headingstyle/
 ---
-## Énumération HeadingStyle
+## HeadingStyle enumeration
 
-Définit les styles de sérialisation disponibles pour les titres. Pour la spécification, voir CommonMark - titres ATX, respectivement CommonMark - titres Setext.
+Définit les styles de sérialisation disponibles pour les titres. Pour la spécification, voir CommonMark - ATX headings, respectivement CommonMark - Setext headings.
 
 ```csharp
 public enum HeadingStyle
@@ -18,10 +18,12 @@ public enum HeadingStyle
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| Atx | `0` | Préfixer les titres avec '#' |
+| Atx | `0` | Préfixer les titres avec « # » |
 | Setext | `1` | Souligner les titres de niveau 1 et 2 avec "======" respectivement "------" |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

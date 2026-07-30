@@ -1,12 +1,12 @@
 ---
-title: PDF3DArtwork.ViewArray
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PDF3DArtwork. Obtient le tableau de vues
+title: "PDF3DArtwork.ViewArray"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PDF3DArtwork. Obtient le tableau des vues"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.annotations/pdf3dartwork/viewarray/
 ---
-## Propriété PDF3DArtwork.ViewArray
+## PDF3DArtwork.ViewArray property
 
 Obtient le tableau de vues.
 
@@ -14,13 +14,15 @@ Obtient le tableau de vues.
 public PDF3DViewArray ViewArray { get; }
 ```
 
-### Valeur de la Propriété
+### Property Value
 
-Le tableau de vues.
+Le tableau des vues.
 
-### Voir Aussi
+### Voir aussi
 
-* classe [PDF3DViewArray](../../pdf3dviewarray/)
-* classe [PDF3DArtwork](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DViewArray](../../pdf3dviewarray/)
+* class [PDF3DArtwork](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

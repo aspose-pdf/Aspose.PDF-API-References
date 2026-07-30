@@ -1,7 +1,7 @@
 ---
-title: DocumentFactory.CreateDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode DocumentFactory. Créer un document
+title: "DocumentFactory.CreateDocument"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode DocumentFactory. Crée un document"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/documentfactory/createdocument/
@@ -16,8 +16,8 @@ public Document CreateDocument(Stream input, LoadOptions options)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| input | Stream | Flux d'entrée. |
-| options | LoadOptions | Options de chargement du document. |
+| entrée | Stream | Flux d'entrée. |
+| options | LoadOptions | Options de chargement du Document. |
 
 ### Valeur de retour
 
@@ -25,10 +25,10 @@ Document créé.
 
 ### Voir aussi
 
-* classe [Document](../../document/)
-* classe [LoadOptions](../../loadoptions/)
-* classe [DocumentFactory](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../../document/)
+* class [LoadOptions](../../loadoptions/)
+* class [DocumentFactory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -47,16 +47,16 @@ Document créé.
 
 ### Voir aussi
 
-* classe [Document](../../document/)
-* classe [DocumentFactory](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../../document/)
+* class [DocumentFactory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateDocument(Stream) {#createdocument_1}
 
-Charger un document à partir d'un flux.
+Charger le document depuis un flux.
 
 ```csharp
 public Document CreateDocument(Stream input)
@@ -64,7 +64,7 @@ public Document CreateDocument(Stream input)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| input | Stream | Flux d'entrée. |
+| entrée | Stream | Flux d'entrée. |
 
 ### Valeur de retour
 
@@ -72,16 +72,16 @@ Document créé.
 
 ### Voir aussi
 
-* classe [Document](../../document/)
-* classe [DocumentFactory](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../../document/)
+* class [DocumentFactory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateDocument(Stream, string) {#createdocument_3}
 
-Charger un document protégé par mot de passe à partir d'un flux.
+Charger le document protégé par mot de passe depuis un flux.
 
 ```csharp
 public Document CreateDocument(Stream input, string password)
@@ -89,7 +89,7 @@ public Document CreateDocument(Stream input, string password)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| input | Stream | Flux source. |
+| entrée | Stream | Flux source. |
 | password | String | Mot de passe pour accéder au document. |
 
 ### Valeur de retour
@@ -98,16 +98,16 @@ Document créé.
 
 ### Voir aussi
 
-* classe [Document](../../document/)
-* classe [DocumentFactory](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../../document/)
+* class [DocumentFactory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CreateDocument(string) {#createdocument_4}
 
-Charger un document à partir d'un fichier.
+Charger le document depuis un fichier.
 
 ```csharp
 public Document CreateDocument(string fileName)
@@ -123,7 +123,9 @@ Document créé.
 
 ### Voir aussi
 
-* classe [Document](../../document/)
-* classe [DocumentFactory](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../../document/)
+* class [DocumentFactory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TextDevice.ExtractionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextDevice. Obtient ou définit les options d'extraction de texte
+title: "TextDevice.ExtractionOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextDevice. Obtient ou définit les options d'extraction de texte"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.devices/textdevice/extractionoptions/
 ---
-## Propriété TextDevice.ExtractionOptions
+## TextDevice.ExtractionOptions property
 
 Obtient ou définit les options d'extraction de texte.
 
@@ -16,25 +16,27 @@ public TextExtractionOptions ExtractionOptions { get; set; }
 
 ## Exemples
 
-L'exemple démontre comment extraire le texte dans l'ordre brut.
+L'exemple montre comment extraire le texte dans l'ordre brut.
 
 ```csharp
 Document doc = new Document(inFile);
 string extractedText;
 
-// create text device
+// créer un dispositif texte
 TextDevice device = new TextDevice(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Raw));
 
-// convert the page and save text to the stream
+// convertir la page et enregistrer le texte dans le flux
 device.Process(doc.Pages[1], outFile);
 
-// use the extracted text
+// utiliser le texte extrait
 extractedText = File.ReadAllText(outFile, Encoding.Unicode); 
 ```
 
 ### Voir aussi
 
-* classe [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
-* classe [TextDevice](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [TextExtractionOptions](../../../aspose.pdf.text/textextractionoptions/)
+* class [TextDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TableCellElement.Border
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TableCellElement. Obtient ou définit la bordure de la cellule
+title: "TableCellElement.Border"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "TableCellElement propriété. Obtient ou définit la bordure de la cellule"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.logicalstructure/tablecellelement/border/
 ---
-## Propriété TableCellElement.Border
+## TableCellElement.Border property
 
 Obtient ou définit la bordure de la cellule.
 
@@ -16,7 +16,9 @@ public BorderInfo Border { get; set; }
 
 ### Voir aussi
 
-* classe [BorderInfo](../../../aspose.pdf/borderinfo/)
-* classe [TableCellElement](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [BorderInfo](../../../aspose.pdf/borderinfo/)
+* class [TableCellElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class FormExporterValuesToCsvOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.FormExporterValuesToCsvOptions. Représente les options pour exporter la propriété Value des champs spécifiés
+title: "Classe FormExporterValuesToCsvOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Plugins.FormExporterValuesToCsvOptions. Représente les options pour l’exportation des propriétés Value des champs spécifiés, pas les annotations."
 type: docs
-weight: 8690
+weight: 8820
 url: /fr/net/aspose.pdf.plugins/formexportervaluestocsvoptions/
 ---
-## Classe FormExporterValuesToCsvOptions
+## FormExporterValuesToCsvOptions class
 
-Représente les options pour exporter la ou les propriétés Value des champs spécifiés (pas des annotations).
+Représente les options pour exporter la ou les propriétés Value des champs spécifiés (pas les annotations).
 
 ```csharp
 public sealed class FormExporterValuesToCsvOptions : FormExporterOptions
@@ -18,24 +18,26 @@ public sealed class FormExporterValuesToCsvOptions : FormExporterOptions
 
 | Nom | Description |
 | --- | --- |
-| [FormExporterValuesToCsvOptions](formexportervaluestocsvoptions/)(SelectField, char) | Initialise une nouvelle instance de l'objet `FormExporterValuesToCsvOptions`, dans laquelle les champs dont les données seront exportées et le séparateur pour les données exportées sont spécifiés. |
+| [FormExporterValuesToCsvOptions](formexportervaluestocsvoptions/)(SelectField, char) | Initialise une nouvelle instance de l’objet `FormExporterValuesToCsvOptions`, dans laquelle les champs dont les données seront exportées et le séparateur des données exportées sont spécifiés. |
 
 ## Propriétés
 
 | Nom | Description |
 | --- | --- |
 | [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | Renvoie la collection de données des plugins Form.... |
-| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Obtient la collection des cibles ajoutées pour les résultats des opérations de sauvegarde. |
+| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Obtient la collection des cibles ajoutées pour enregistrer les résultats de l'opération. |
 
 ## Méthodes
 
 | Nom | Description |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Ajoute une nouvelle source de données à la collection de données des plugins Form... |
-| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Ajoute une nouvelle source de données à la collection de données des plugins Form... |
+| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Ajoute une nouvelle source de données à la collection de données des plugins Form.... |
+| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Ajoute une nouvelle source de données à la collection de données des plugins Form.... |
 
 ### Voir aussi
 
-* classe [FormExporterOptions](../formexporteroptions/)
-* espace de noms [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* class [FormExporterOptions](../formexporteroptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

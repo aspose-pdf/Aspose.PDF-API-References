@@ -1,12 +1,12 @@
 ---
-title: Matrix3D.D
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Matrix3D. Membre D de la matrice de transformation
+title: "Matrix3D.D"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Matrix3D. Membre D de la matrice de transformation"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf/matrix3d/d/
 ---
-## Propriété Matrix3D.D
+## Matrix3D.D property
 
 Membre D de la matrice de transformation.
 
@@ -16,6 +16,8 @@ public double D { get; set; }
 
 ### Voir aussi
 
-* classe [Matrix3D](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

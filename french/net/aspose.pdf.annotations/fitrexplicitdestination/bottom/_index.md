@@ -1,12 +1,12 @@
 ---
-title: FitRExplicitDestination.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FitRExplicitDestination. Obtient la coordonnée verticale inférieure du rectangle visible
+title: "FitRExplicitDestination.Bottom"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FitRExplicitDestination. Obtient la coordonnée verticale inférieure du rectangle visible"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.annotations/fitrexplicitdestination/bottom/
 ---
-## Propriété FitRExplicitDestination.Bottom
+## FitRExplicitDestination.Bottom property
 
 Obtient la coordonnée verticale inférieure du rectangle visible.
 
@@ -16,6 +16,8 @@ public double Bottom { get; }
 
 ### Voir aussi
 
-* classe [FitRExplicitDestination](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [FitRExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

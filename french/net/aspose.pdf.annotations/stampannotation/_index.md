@@ -1,14 +1,14 @@
 ---
-title: Class StampAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.StampAnnotation. Représente une annotation de tampon en caoutchouc. Ce type d'annotation affiche du texte ou des graphiques destinés à donner l'impression d'avoir été estampillés sur la page avec un tampon en caoutchouc.
+title: "Classe StampAnnotation"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Annotations.StampAnnotation. Représente une annotation de tampon en caoutchouc. Ce type d'annotation affiche du texte ou des graphiques destinés à ressembler à un tampon apposé sur la page."
 type: docs
-weight: 2610
+weight: 2710
 url: /fr/net/aspose.pdf.annotations/stampannotation/
 ---
-## Classe StampAnnotation
+## StampAnnotation class
 
-Représente une annotation de tampon en caoutchouc. Ce type d'annotation affiche du texte ou des graphiques destinés à donner l'impression d'avoir été estampillés sur la page avec un tampon en caoutchouc.
+Représente l'annotation tampon en caoutchouc. Ce type d'annotation affiche du texte ou des graphiques destinés à ressembler à une impression sur la page avec un tampon en caoutchouc.
 
 ```csharp
 public sealed class StampAnnotation : MarkupAnnotation
@@ -19,7 +19,7 @@ public sealed class StampAnnotation : MarkupAnnotation
 | Nom | Description |
 | --- | --- |
 | [StampAnnotation](stampannotation/#constructor)(Document) | Constructeur |
-| [StampAnnotation](stampannotation/#constructor_1)(Page, Rectangle) | Crée une nouvelle annotation de tampon sur la page spécifiée. |
+| [StampAnnotation](stampannotation/#constructor_1)(Page, Rectangle) | Crée une nouvelle annotation Stamp sur la page spécifiée. |
 
 ## Propriétés
 
@@ -27,60 +27,60 @@ public sealed class StampAnnotation : MarkupAnnotation
 | --- | --- |
 | [Actions](../../aspose.pdf.annotations/annotation/actions/) { get; } | Obtient la liste des actions d'annotation. |
 | virtual [ActiveState](../../aspose.pdf.annotations/annotation/activestate/) { get; set; } | Obtient ou définit l'état d'apparence actuel de l'annotation. |
-| override [AnnotationType](../../aspose.pdf.annotations/stampannotation/annotationtype/) { get; } | Obtient le type d'annotation. |
+| override [AnnotationType](../../aspose.pdf.annotations/stampannotation/annotationtype/) { get; } | Obtient le type de l'annotation. |
 | [Appearance](../../aspose.pdf.annotations/annotation/appearance/) { get; } | Obtient le dictionnaire d'apparence de l'annotation. |
-| [Border](../../aspose.pdf.annotations/annotation/border/) { get; set; } | Obtient ou définit les caractéristiques de la bordure de l'annotation. [`Border`](../annotation/border/) |
+| [Border](../../aspose.pdf.annotations/annotation/border/) { get; set; } | Obtient ou définit les caractéristiques de bordure de l'annotation. [`Border`](../annotation/border/) |
 | [Characteristics](../../aspose.pdf.annotations/annotation/characteristics/) { get; } | Obtient les caractéristiques de l'annotation. |
 | [Color](../../aspose.pdf.annotations/annotation/color/) { get; set; } | Obtient ou définit la couleur de l'annotation. |
 | [Contents](../../aspose.pdf.annotations/annotation/contents/) { get; set; } | Obtient ou définit le texte de l'annotation. |
-| [CreationDate](../../aspose.pdf.annotations/markupannotation/creationdate/) { get; } | Obtient la date et l'heure de création de l'annotation. |
+| [CreationDate](../../aspose.pdf.annotations/markupannotation/creationdate/) { get; set; } | Obtient la date et l'heure de création de l'annotation. |
 | [Flags](../../aspose.pdf.annotations/annotation/flags/) { get; set; } | Drapeaux de l'annotation. |
-| [FullName](../../aspose.pdf.annotations/annotation/fullname/) { get; } | Obtient le nom complet qualifié de l'annotation. |
+| [FullName](../../aspose.pdf.annotations/annotation/fullname/) { get; } | Obtient le nom complet de l'annotation. |
 | virtual [Height](../../aspose.pdf.annotations/annotation/height/) { get; set; } | Obtient ou définit la hauteur de l'annotation. |
-| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink/) { get; set; } | Obtient ou définit l'hyperlien du fragment (pour le générateur de pdf). |
-| [Icon](../../aspose.pdf.annotations/stampannotation/icon/) { get; set; } | Obtient ou définit l'icône pour le tampon en caoutchouc. |
+| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink/) { get; set; } | Obtient ou définit le lien hypertexte du fragment (pour le générateur PDF). |
+| [Icon](../../aspose.pdf.annotations/stampannotation/icon/) { get; set; } | Obtient ou définit l'icône du tampon en caoutchouc. |
 | [Image](../../aspose.pdf.annotations/stampannotation/image/) { get; set; } | Obtient ou définit l'image de l'annotation. |
-| [InReplyTo](../../aspose.pdf.annotations/markupannotation/inreplyto/) { get; set; } | Une référence à l'annotation à laquelle cette annotation est "en réponse à". Les deux annotations doivent être sur la même page du document. |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | Obtient ou définit une valeur booléenne qui indique si ce paragraphe sera dans la colonne suivante. Par défaut, c'est faux. (pour la génération de pdf) |
-| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | Obtient ou définit si un paragraphe est en ligne. Par défaut, c'est faux. (pour la génération de pdf) |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | Obtient ou définit une valeur booléenne qui force ce paragraphe à être généré sur une nouvelle page. Par défaut, c'est faux. (pour la génération de pdf) |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | Obtient ou définit une valeur booléenne qui indique si le paragraphe actuel reste sur la même page que le paragraphe suivant. Par défaut, c'est faux. (pour la génération de pdf) |
+| [InReplyTo](../../aspose.pdf.annotations/markupannotation/inreplyto/) { get; set; } | Une référence à l'annotation à laquelle cette annotation répond. Les deux annotations doivent se trouver sur la même page du document. |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | Obtient ou définit une valeur booléenne qui indique si ce paragraphe sera dans la colonne suivante. La valeur par défaut est false. (pour la génération PDF) |
+| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | Obtient ou définit si un paragraphe est en ligne. La valeur par défaut est false. (pour la génération PDF) |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | Obtient ou définit une valeur booléenne qui force ce paragraphe à être généré sur une nouvelle page. La valeur par défaut est false. (pour la génération PDF) |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | Obtient ou définit une valeur booléenne qui indique si le paragraphe actuel reste sur la même page avec le paragraphe suivant. La valeur par défaut est false. (pour la génération PDF) |
 | [Margin](../../aspose.pdf/baseparagraph/margin/) { get; set; } | Obtient ou définit une marge extérieure pour le paragraphe (pour la génération de pdf) |
 | [Modified](../../aspose.pdf.annotations/annotation/modified/) { get; set; } | Obtient ou définit la date et l'heure de la dernière modification de l'annotation. |
 | [Name](../../aspose.pdf.annotations/annotation/name/) { get; set; } | Obtient ou définit le nom de l'annotation sur la page. |
-| [Opacity](../../aspose.pdf.annotations/markupannotation/opacity/) { get; set; } | Obtient ou définit la valeur d'opacité constante à utiliser pour peindre l'annotation. |
+| [Opacity](../../aspose.pdf.annotations/markupannotation/opacity/) { get; set; } | Obtient ou définit la valeur d'opacité constante à utiliser lors du rendu de l'annotation. |
 | virtual [PageIndex](../../aspose.pdf.annotations/annotation/pageindex/) { get; } | Obtient l'index de la page qui contient l'annotation. |
-| [Popup](../../aspose.pdf.annotations/markupannotation/popup/) { get; set; } | Annotation contextuelle pour entrer ou modifier le texte associé à cette annotation. |
+| [Popup](../../aspose.pdf.annotations/markupannotation/popup/) { get; set; } | Annotation contextuelle pour saisir ou modifier le texte associé à cette annotation. |
 | virtual [Rect](../../aspose.pdf.annotations/annotation/rect/) { get; set; } | Obtient ou définit le rectangle de l'annotation. |
-| [ReplyType](../../aspose.pdf.annotations/markupannotation/replytype/) { get; set; } | Une chaîne spécifiant la relation (le "type de réponse") entre cette annotation et une autre spécifiée par InReplyTo. |
+| [ReplyType](../../aspose.pdf.annotations/markupannotation/replytype/) { get; set; } | Une chaîne spécifiant la relation (le "type de réponse") entre cette annotation et celle spécifiée par InReplyTo. |
 | [RichText](../../aspose.pdf.annotations/markupannotation/richtext/) { get; set; } | Obtient ou définit une chaîne de texte enrichi à afficher dans la fenêtre contextuelle lorsque l'annotation est ouverte. |
 | [States](../../aspose.pdf.annotations/annotation/states/) { get; } | Obtient le dictionnaire d'apparence de l'annotation. |
 | [Subject](../../aspose.pdf.annotations/markupannotation/subject/) { get; set; } | Obtient le texte représentant la description de l'objet. |
 | [TextHorizontalAlignment](../../aspose.pdf.annotations/annotation/texthorizontalalignment/) { get; set; } | Obtient ou définit l'alignement du texte pour l'annotation. |
-| [Title](../../aspose.pdf.annotations/markupannotation/title/) { get; set; } | Obtient ou définit un texte qui sera affiché dans la barre de titre de l'annotation. |
+| [Title](../../aspose.pdf.annotations/markupannotation/title/) { get; set; } | Obtient ou définit une étiquette de texte qui doit être affichée dans la barre de titre de la fenêtre contextuelle de l'annotation lorsqu'elle est ouverte et active. Cette entrée doit identifier l'utilisateur qui a ajouté l'annotation. |
 | virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment/) { get; set; } | Obtient ou définit un alignement vertical du paragraphe |
 | virtual [Width](../../aspose.pdf.annotations/annotation/width/) { get; set; } | Obtient ou définit la largeur de l'annotation. |
-| [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | Obtient ou définit une valeur int qui indique l'ordre Z du graphique. Un graphique avec un ZIndex plus grand sera placé au-dessus d'un graphique avec un ZIndex plus petit. ZIndex peut être négatif. Un graphique avec un ZIndex négatif sera placé derrière le texte sur la page. |
+| [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | Obtient ou définit une valeur entière qui indique le Z-order du graphique. Un graphique avec un ZIndex plus grand sera placé au-dessus du graphique avec un ZIndex plus petit. Le ZIndex peut être négatif. Un graphique avec un ZIndex négatif sera placé derrière le texte de la page. |
 
 ## Méthodes
 
 | Nom | Description |
 | --- | --- |
 | override [Accept](../../aspose.pdf.annotations/stampannotation/accept/)(AnnotationSelector) | Accepte le visiteur [`AnnotationSelector`](../annotationselector/) lors de la navigation dans la collection d'annotations. |
-| virtual [ChangeAfterResize](../../aspose.pdf.annotations/annotation/changeafterresize/)(Matrix) | Met à jour les paramètres et l'apparence, selon la transformation de matrice. |
-| [ClearState](../../aspose.pdf.annotations/markupannotation/clearstate/)() | Efface l'état et le modèle d'état de l'annotation. Par exemple, efface le statut de révision d'une annotation. Notez que l'état est stocké dans d'autres annotations de texte qui ont des clés d'état et de modèle d'état. |
+| virtual [ChangeAfterResize](../../aspose.pdf.annotations/annotation/changeafterresize/)(Matrix) | Met à jour les paramètres et l'apparence, selon la transformation Matrix. |
+| [ClearState](../../aspose.pdf.annotations/markupannotation/clearstate/)() | Efface l'état et le modèle d'état de l'annotation. Par exemple, efface le statut de révision d'une annotation. Remarque, l'état stocké dans une autre annotation de texte qui possède les clés state et statemodel. |
 | virtual [Clone](../../aspose.pdf/baseparagraph/clone/)() | Clone cette instance. Méthode virtuelle. Retourne toujours null. |
-| virtual [Flatten](../../aspose.pdf.annotations/annotation/flatten/)() | Place le contenu de l'annotation directement sur la page, l'objet annotation sera supprimé. |
-| [GetRectangle](../../aspose.pdf.annotations/annotation/getrectangle/)(bool) | Retourne le rectangle de l'annotation en tenant compte de la rotation de la page. |
-| [GetState](../../aspose.pdf.annotations/markupannotation/getstate/)() | Obtient l'état de l'annotation. Notez que l'état est stocké dans d'autres annotations de texte qui ont des clés d'état et de modèle d'état. |
-| [GetStateModel](../../aspose.pdf.annotations/markupannotation/getstatemodel/)() | Obtient le modèle d'état de l'annotation. Notez que l'état est stocké dans d'autres annotations de texte qui ont des clés d'état et de modèle d'état. |
-| [SetMarkedState](../../aspose.pdf.annotations/markupannotation/setmarkedstate/)(bool) | Définit l'état marqué et non marqué pour l'annotation. Notez que l'état est stocké dans d'autres annotations de texte qui ont des clés d'état et de modèle d'état. |
-| [SetReviewState](../../aspose.pdf.annotations/markupannotation/setreviewstate/)(AnnotationState) | Définit l'état de révision pour une annotation. Les états marqués et non marqués sont ignorés car ils n'appartiennent pas au modèle d'état de révision. L'état est défini par l'utilisateur qui a créé l'annotation cible. La valeur est prise à partir de la propriété Title de l'annotation cible. Notez que l'état est stocké dans d'autres annotations de texte qui ont des clés d'état et de modèle d'état. |
-| [SetReviewState](../../aspose.pdf.annotations/markupannotation/setreviewstate/)(AnnotationState, string) | Définit l'état de révision pour une annotation. Les états marqués et non marqués sont ignorés car ils n'appartiennent pas au modèle d'état de révision. Notez que l'état est stocké dans d'autres annotations de texte qui ont des clés d'état et de modèle d'état. |
+| virtual [Flatten](../../aspose.pdf.annotations/annotation/flatten/)() | Place le contenu de l'annotation directement sur la page, l'objet d'annotation sera supprimé. |
+| [GetRectangle](../../aspose.pdf.annotations/annotation/getrectangle/)(bool) | Renvoie le rectangle de l'annotation en tenant compte de la rotation de la page. |
+| [GetState](../../aspose.pdf.annotations/markupannotation/getstate/)() | Obtient l'état de l'annotation. Remarque, l'état stocké dans une autre annotation de texte qui possède les clés state et statemodel. |
+| [GetStateModel](../../aspose.pdf.annotations/markupannotation/getstatemodel/)() | Obtient le modèle d'état de l'annotation. Remarque, l'état stocké dans une autre annotation de texte qui possède les clés state et statemodel. |
+| [SetMarkedState](../../aspose.pdf.annotations/markupannotation/setmarkedstate/)(bool) | Définit l'état Marqué et Non Marqué pour l'annotation. Remarque, l'état stocké dans une autre annotation de texte qui possède les clés state et statemodel. |
+| [SetReviewState](../../aspose.pdf.annotations/markupannotation/setreviewstate/)(AnnotationState) | Définit l'état de révision pour une annotation. Les états Marqué et Non Marqué sont ignorés car ils n'appartiennent pas au Review StateModel. L'état est défini par l'utilisateur qui a créé l'annotation cible. La valeur est prise à partir de la propriété Title de l'annotation cible. Remarque, l'état stocké dans une autre annotation de texte qui possède les clés state et statemodel. |
+| [SetReviewState](../../aspose.pdf.annotations/markupannotation/setreviewstate/)(AnnotationState, string) | Définit l'état de révision pour une annotation. Les états Marqué et Non Marqué sont ignorés car ils n'appartiennent pas au Review StateModel. Remarque, l'état stocké dans une autre annotation de texte qui possède les clés state et statemodel. |
 
 ## Exemples
 
-Le code suivant démontre comment ajouter 2 tampons dans la première page du document pdf. Le document d'entrée provient de inFile et les modifications sont enregistrées dans outFile. Le premier tampon a l'icône NotForPublicRelease et le second vient avec l'image de rubber.jpg.
+Le fragment de code suivant montre comment ajouter 2 tampons à la première page du document pdf. Le document d'entrée provient de inFile et les modifications sont enregistrées dans outFile. Le premier tampon a l'icône NotForPublicRelease et le second utilise l'image provenant de rubber.jpg.
 
 ```csharp
 Document document = new Document(inFile);
@@ -95,6 +95,8 @@ document.Save(outFile);
 
 ### Voir aussi
 
-* classe [MarkupAnnotation](../markupannotation/)
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* class [MarkupAnnotation](../markupannotation/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

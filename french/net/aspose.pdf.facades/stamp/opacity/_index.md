@@ -1,12 +1,12 @@
 ---
-title: Stamp.Opacity
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Stamp. Obtient ou définit l'opacité du tampon
+title: "Stamp.Opacity"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Stamp. Obtient ou définit l'opacité du stamp"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.facades/stamp/opacity/
 ---
-## Propriété Stamp.Opacity
+## Stamp.Opacity property
 
 Obtient ou définit l'opacité du tampon.
 
@@ -16,6 +16,8 @@ public float Opacity { get; set; }
 
 ### Voir aussi
 
-* classe [Stamp](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

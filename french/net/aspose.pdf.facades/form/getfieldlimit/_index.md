@@ -1,14 +1,14 @@
 ---
-title: Form.GetFieldLimit
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Form. Obtenez la limitation du champ de texte
+title: "Form.GetFieldLimit"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Form. Obtient la limitation du champ texte"
 type: docs
 weight: 230
 url: /fr/net/aspose.pdf.facades/form/getfieldlimit/
 ---
-## Méthode Form.GetFieldLimit
+## Form.GetFieldLimit method
 
-Obtenez la limitation du champ de texte.
+Obtient la limitation du champ texte.
 
 ```csharp
 public int GetFieldLimit(string fieldName)
@@ -20,7 +20,7 @@ public int GetFieldLimit(string fieldName)
 
 ### Valeur de retour
 
-Retourne le nombre limite de caractères qu'un champ de texte peut contenir. Si non défini, retourne 0.
+Retourne le nombre maximal de caractères qu'un champ texte peut contenir. S'il n'est pas défini, retourne 0.
 
 ## Exemples
 
@@ -31,6 +31,8 @@ Console.WriteLine(form.GetFieldLimit("textfieldBox"));
 
 ### Voir aussi
 
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

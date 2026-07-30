@@ -1,14 +1,14 @@
 ---
-title: Class PageDate
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.PageDate. Représente un format de date composé de composants jour, mois et année
+title: "Classe PageDate"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "classe Aspose.Pdf.PageDate. Représente un format de date composé des composants jour, mois et année"
 type: docs
-weight: 8110
+weight: 8250
 url: /fr/net/aspose.pdf/pagedate/
 ---
-## Classe PageDate
+## PageDate class
 
-Représente un format de date composé de composants jour, mois et année.
+Représente un format de date composé des composants jour, mois et année.
 
 ```csharp
 public sealed class PageDate
@@ -35,7 +35,7 @@ public sealed class PageDate
 | --- | --- |
 | [GetFormattedDate](../../aspose.pdf/pagedate/getformatteddate/)() | Renvoie la chaîne de date formatée en fonction du format de date actuel. |
 
-## Autres Membres
+## Autres membres
 
 | Nom | Description |
 | --- | --- |
@@ -43,7 +43,9 @@ public sealed class PageDate
 | class [MonthComponent](../../aspose.pdf/pagedate.monthcomponent) | Représente le composant mois d'une date. |
 | class [YearComponent](../../aspose.pdf/pagedate.yearcomponent) | Représente le composant année d'une date. |
 
-### Voir Aussi
+### Voir aussi
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

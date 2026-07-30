@@ -1,14 +1,14 @@
 ---
-title: SetTextLeading.Leading
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SetTextLeading. Obtient ou définit le interligne du texte
+title: "SetTextLeading.Leading"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété SetTextLeading. Obtient ou définit l'interligne du texte"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.operators/settextleading/leading/
 ---
-## Propriété SetTextLeading.Leading
+## SetTextLeading.Leading property
 
-Obtient ou définit le interligne du texte.
+Obtient ou définit l'interligne du texte.
 
 ```csharp
 public double Leading { get; set; }
@@ -16,6 +16,8 @@ public double Leading { get; set; }
 
 ### Voir aussi
 
-* classe [SetTextLeading](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetTextLeading](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

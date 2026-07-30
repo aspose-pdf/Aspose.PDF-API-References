@@ -1,12 +1,12 @@
 ---
-title: DictionaryEditor.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode DictionaryEditor. Supprime tous les éléments du DictionaryEditor
+title: "DictionaryEditor.Clear"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode DictionaryEditor. Supprime tous les éléments du DictionaryEditor"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.dataeditor/dictionaryeditor/clear/
 ---
-## Méthode DictionaryEditor.Clear
+## DictionaryEditor.Clear method
 
 Supprime tous les éléments du [`DictionaryEditor`](../).
 
@@ -16,6 +16,8 @@ public void Clear()
 
 ### Voir aussi
 
-* classe [DictionaryEditor](../)
-* espace de noms [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

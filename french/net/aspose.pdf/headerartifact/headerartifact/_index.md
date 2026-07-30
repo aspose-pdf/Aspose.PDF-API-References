@@ -1,14 +1,14 @@
 ---
-title: HeaderArtifact.HeaderArtifact
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de HeaderArtifact. Crée une instance de Header Artifact
+title: "HeaderArtifact.HeaderArtifact"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur HeaderArtifact. Crée une instance de Header Artifact"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/headerartifact/headerartifact/
 ---
-## Constructeur de HeaderArtifact
+## HeaderArtifact constructor
 
-Crée une instance de Header Artifact.
+Crée une instance d'Header Artifact.
 
 ```csharp
 public HeaderArtifact()
@@ -16,6 +16,8 @@ public HeaderArtifact()
 
 ### Voir aussi
 
-* classe [HeaderArtifact](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [HeaderArtifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

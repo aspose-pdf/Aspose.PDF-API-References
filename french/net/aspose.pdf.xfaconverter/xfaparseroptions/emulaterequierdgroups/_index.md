@@ -1,14 +1,14 @@
 ---
-title: XfaParserOptions.EmulateRequierdGroups
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété XfaParserOptions. Si cette propriété est vraie, alors des rectangles rouges supplémentaires seront dessinés pour les groupes "exclus" requis de Xfa. Cette propriété a été introduite en raison de l'absence d'analogues des groupes exclus lors de la conversion de la représentation Xfa des formulaires au standard. Elle est fausse par défaut.
+title: "XfaParserOptions.EmulateRequierdGroups"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété XfaParserOptions. Si cette propriété est true alors des rectangles rouges supplémentaires seront dessinés pour les groupes exclus Xfa requis. Cette propriété a été introduite en raison de l'absence d'analogues des groupes exclus lors de la conversion de la représentation Xfa des formulaires vers le standard. Elle est false par défaut"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.xfaconverter/xfaparseroptions/emulaterequierdgroups/
 ---
-## Propriété XfaParserOptions.EmulateRequierdGroups
+## XfaParserOptions.EmulateRequierdGroups property
 
-Si cette propriété est vraie, alors des rectangles rouges supplémentaires seront dessinés pour les groupes "exclus" requis de Xfa. Cette propriété a été introduite en raison de l'absence d'analogues des groupes exclus lors de la conversion de la représentation Xfa des formulaires au standard. Elle est fausse par défaut.
+Si cette propriété est vraie, des rectangles rouges supplémentaires seront dessinés pour les « groupes exclus » Xfa requis. Cette propriété a été introduite parce que l’absence d’équivalents des groupes exclus lors de la conversion de la représentation Xfa des formulaires au standard. Elle est fausse par défaut.
 
 ```csharp
 public bool EmulateRequierdGroups { get; set; }
@@ -16,6 +16,8 @@ public bool EmulateRequierdGroups { get; set; }
 
 ### Voir aussi
 
-* classe [XfaParserOptions](../)
-* espace de noms [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
+* class [XfaParserOptions](../)
+* namespace [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
 * assembly [Aspose.PDF](../../../)
+
+

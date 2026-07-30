@@ -1,14 +1,14 @@
 ---
-title: Interface IFileOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Interface Aspose.Pdf.Comparison.IFileOutputGenerator. Représente une interface pour générer une sortie vers un fichier de différences entre des textes
+title: "Interface IFileOutputGenerator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Interface Aspose.Pdf.Comparison.IFileOutputGenerator. Représente une interface permettant de générer une sortie vers un fichier des différences entre les textes."
 type: docs
-weight: 3210
+weight: 3320
 url: /fr/net/aspose.pdf.comparison/ifileoutputgenerator/
 ---
-## Interface IFileOutputGenerator
+## IFileOutputGenerator interface
 
-Représente une interface pour générer une sortie vers un fichier de différences entre des textes.
+Représente une interface permettant de générer la sortie vers un fichier contenant les différences entre les textes.
 
 ```csharp
 public interface IFileOutputGenerator
@@ -25,3 +25,5 @@ public interface IFileOutputGenerator
 
 * namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

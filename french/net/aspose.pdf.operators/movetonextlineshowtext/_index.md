@@ -1,14 +1,14 @@
 ---
-title: Class MoveToNextLineShowText
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.MoveToNextLineShowText. Classe représentant l'opérateur de déplacement à la ligne suivante et d'affichage de texte
+title: "Classe MoveToNextLineShowText"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.MoveToNextLineShowText classe. Classe représentant l'opérateur de déplacement à la ligne suivante et d'affichage du texte"
 type: docs
-weight: 7520
+weight: 7660
 url: /fr/net/aspose.pdf.operators/movetonextlineshowtext/
 ---
-## Classe MoveToNextLineShowText
+## MoveToNextLineShowText class
 
-Classe représentant l'opérateur ' (déplacement à la ligne suivante et affichage de texte).
+Classe représentant l'opérateur ' (se déplacer à la ligne suivante et afficher le texte).
 
 ```csharp
 public class MoveToNextLineShowText : TextShowOperator
@@ -32,12 +32,14 @@ public class MoveToNextLineShowText : TextShowOperator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/movetonextlineshowtext/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/movetonextlineshowtext/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Renvoie le texte de l'opérateur et ses paramètres. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [TextShowOperator](../textshowoperator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [TextShowOperator](../textshowoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

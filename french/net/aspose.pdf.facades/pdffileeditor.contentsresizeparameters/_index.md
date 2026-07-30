@@ -1,14 +1,14 @@
 ---
-title: Class PdfFileEditor.ContentsResizeParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Facades.PdfFileEditorContentsResizeParameters. Classe pour spécifier les paramètres de redimensionnement de page. Permet de définir les paramètres suivants  Taille de la page résultante en unités d'espace par défaut ou en pourcentages de la taille des pages initiales ; Marges gauche, supérieure, inférieure et droite en unités d'espace par défaut ou en pourcentages de la taille de la page initiale ; Certains valeurs peuvent être laissées nulles pour un calcul automatique. Ces valeurs seront calculées à partir du reste de la taille de la page après le calcul des valeurs explicitement spécifiées. Cette classe est utilisée dans la méthode ResizeContents.
+title: "Classe PdfFileEditor.ContentsResizeParameters"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Facades.PdfFileEditorContentsResizeParameters. Classe permettant de spécifier les paramètres de redimensionnement de page. Autorise la définition des paramètres suivants : taille de la page résultante (largeur, hauteur) en unités d'espace par défaut ou en pourcentage de la taille des pages initiales, marges gauche, haut, bas et droite en unités d'espace par défaut ou en pourcentage de la taille de la page initiale. Certaines valeurs peuvent être laissées nulles pour un calcul automatique. Ces valeurs seront calculées à partir du reste de la taille de la page après le calcul des valeurs explicitement spécifiées. Par exemple, si la largeur de la page est 100 et que la nouvelle largeur de page spécifiée est 60 unités, les marges gauche et droite sont automatiquement calculées : 100 - 60 / 2 = 15. Cette classe est utilisée dans la méthode ResizeContents."
 type: docs
-weight: 4480
+weight: 4600
 url: /fr/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/
 ---
-## Classe PdfFileEditor.ContentsResizeParameters
+## PdfFileEditor.ContentsResizeParameters class
 
-Classe pour spécifier les paramètres de redimensionnement de page. Permet de définir les paramètres suivants : Taille de la page résultante (largeur, hauteur) en unités d'espace par défaut ou en pourcentages de la taille des pages initiales ; Marges gauche, supérieure, inférieure et droite en unités d'espace par défaut ou en pourcentages de la taille de la page initiale ; Certaines valeurs peuvent être laissées nulles pour un calcul automatique. Ces valeurs seront calculées à partir du reste de la taille de la page après le calcul des valeurs explicitement spécifiées. Par exemple : si la largeur de la page = 100 et la nouvelle largeur de la page spécifiée est de 60 unités, alors les marges gauche et droite sont automatiquement calculées : (100 - 60) / 2 = 15. Cette classe est utilisée dans la méthode ResizeContents.
+Classe permettant de spécifier les paramètres de redimensionnement de page. Autorise la définition des paramètres suivants : taille de la page résultante (largeur, hauteur) en unités d'espace par défaut ou en pourcentage de la taille des pages initiales ; marges gauche, haut, bas et droite en unités d'espace par défaut ou en pourcentage de la taille de la page initiale ; certaines valeurs peuvent être laissées nulles pour un calcul automatique. Ces valeurs seront calculées à partir du reste de la taille de la page après le calcul des valeurs explicitement spécifiées. Par exemple : si la largeur de la page = 100 et que la nouvelle largeur de page spécifiée est 60 unités, les marges gauche et droite sont automatiquement calculées : (100 - 60) / 2 = 15. Cette classe est utilisée dans la méthode ResizeContents.
 
 ```csharp
 public class ContentsResizeParameters
@@ -18,8 +18,8 @@ public class ContentsResizeParameters
 
 | Nom | Description |
 | --- | --- |
-| [ContentsResizeParameters](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/.ctor#constructor)() | Crée des paramètres de redimensionnement où toutes les valeurs sont définies sur "auto". Plus tard, les marges et la taille du contenu peuvent être spécifiées si nécessaire. |
-| [ContentsResizeParameters](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/.ctor#constructor_1)(ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue) | Crée des paramètres de redimensionnement avec des valeurs de marges spécifiées et une taille de contenu. |
+| [ContentsResizeParameters](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/.ctor#constructor)() | Crée des paramètres de redimensionnement où toutes les valeurs sont définies sur "auto". Les marges et la taille du contenu peuvent être spécifiées ultérieurement si nécessaire. |
+| [ContentsResizeParameters](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/.ctor#constructor_1)(ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue, ContentsResizeValue) | Crée des paramètres de redimensionnement avec des valeurs de marge spécifiées et la taille du contenu. |
 
 ## Propriétés
 
@@ -36,15 +36,17 @@ public class ContentsResizeParameters
 
 | Nom | Description |
 | --- | --- |
-| static [ContentSize](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsize)(double, double) | Crée des paramètres de redimensionnement avec une taille de contenu spécifiée. |
-| static [ContentSizePercent](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsizepercent)(double, double) | Crée des paramètres de redimensionnement avec une taille de contenu spécifiée en pourcentages de la taille de la page initiale. Les marges sont calculées automatiquement. |
-| static [Margins](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/margins)(double, double, double, double) | Crée des paramètres de redimensionnement avec des valeurs de marges spécifiées. La taille du contenu est calculée automatiquement. |
-| static [MarginsPercent](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/marginspercent)(double, double, double, double) | Crée des paramètres de redimensionnement. Les marges sont spécifiées en pourcentages de la taille de la page initiale. |
-| static [PageResize](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/pageresize)(double, double) | Crée des paramètres de redimensionnement pour le redimensionnement de page. |
-| static [PageResizePct](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/pageresizepct)(double, double) | Crée des paramètres de redimensionnement pour le redimensionnement de page. Les nouvelles tailles sont spécifiées en pourcentage. |
+| static [ContentSize](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsize)(double, double) | Crée des paramètres de redimensionnement avec la taille de contenu spécifiée. |
+| static [ContentSizePercent](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/contentsizepercent)(double, double) | Crée des paramètres de redimensionnement avec la taille de contenu spécifiée en pourcentage de la taille de la page initiale. Les marges sont calculées automatiquement. |
+| static [Margins](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/margins)(double, double, double, double) | Crée des paramètres de redimensionnement avec la valeur des marges spécifiée. La taille du contenu est calculée automatiquement. |
+| static [MarginsPercent](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/marginspercent)(double, double, double, double) | Crée des paramètres de redimensionnement. Les marges sont spécifiées en pourcentage de la taille de la page initiale. |
+| static [PageResize](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/pageresize)(double, double) | Crée des paramètres de redimensionnement pour le redimensionnement de la page. |
+| static [PageResizePct](../../aspose.pdf.facades/pdffileeditor.contentsresizeparameters/pageresizepct)(double, double) | Crée des paramètres de redimensionnement pour le redimensionnement de la page. Les nouvelles tailles sont spécifiées en pourcentage. |
 
 ### Voir aussi
 
-* classe [PdfFileEditor](../pdffileeditor/)
-* espace de noms [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* class [PdfFileEditor](../pdffileeditor/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

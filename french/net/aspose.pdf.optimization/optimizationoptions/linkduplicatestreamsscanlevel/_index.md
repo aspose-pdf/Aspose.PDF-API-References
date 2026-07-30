@@ -1,14 +1,14 @@
 ---
-title: OptimizationOptions.LinkDuplicateStreamsScanLevel
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OptimizationOptions. Niveau de scan. Des scans plus profonds prennent plus de temps mais peuvent produire des fichiers de résultat plus petits. Valeur par défaut 10
+title: "OptimizationOptions.LinkDuplicateStreamsScanLevel"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OptimizationOptions property. Niveau d'analyse. Des analyses plus approfondies avec une valeur plus élevée prennent plus de temps mais peuvent produire des fichiers de résultat plus petits. Valeur par défaut 10."
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.optimization/optimizationoptions/linkduplicatestreamsscanlevel/
 ---
-## Propriété OptimizationOptions.LinkDuplicateStreamsScanLevel
+## OptimizationOptions.LinkDuplicateStreamsScanLevel property
 
-Niveau de scan. Des scans plus profonds (valeur plus élevée) prennent plus de temps mais peuvent produire des fichiers de résultat plus petits. Valeur par défaut : 10.
+Niveau d'analyse. Des analyses plus approfondies (valeur plus élevée) prennent plus de temps mais peuvent produire des fichiers de résultat plus petits. Valeur par défaut : 10.
 
 ```csharp
 public int LinkDuplicateStreamsScanLevel { get; set; }
@@ -16,6 +16,8 @@ public int LinkDuplicateStreamsScanLevel { get; set; }
 
 ### Voir aussi
 
-* classe [OptimizationOptions](../)
-* espace de noms [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* class [OptimizationOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

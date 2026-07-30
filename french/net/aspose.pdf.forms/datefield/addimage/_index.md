@@ -1,12 +1,12 @@
 ---
-title: DateField.AddImage
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode DateField. Ajout d'image refusé pour ce champ
+title: "DateField.AddImage"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode DateField. Ajout d'image refusé pour ce champ"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.forms/datefield/addimage/
 ---
-## Méthode DateField.AddImage
+## DateField.AddImage method
 
 Ajout d'image refusé pour ce champ.
 
@@ -26,7 +26,9 @@ public void AddImage(Image image)
 
 ### Voir aussi
 
-* classe [Image](../../../aspose.pdf/image/)
-* classe [DateField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Image](../../../aspose.pdf/image/)
+* class [DateField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

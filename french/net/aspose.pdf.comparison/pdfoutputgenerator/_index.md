@@ -1,14 +1,14 @@
 ---
-title: Class PdfOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Comparison.PdfOutputGenerator. Représente une classe pour générer une représentation PDF des différences de textes
+title: "Classe PdfOutputGenerator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Comparison.PdfOutputGenerator. Représente une classe permettant de générer une représentation PDF des différences de texte."
 type: docs
-weight: 3280
+weight: 3390
 url: /fr/net/aspose.pdf.comparison/pdfoutputgenerator/
 ---
-## Classe PdfOutputGenerator
+## PdfOutputGenerator class
 
-Représente une classe pour générer une représentation PDF des différences de textes.
+Représente une classe générant une représentation PDF des différences de texte.
 
 ```csharp
 public class PdfOutputGenerator : IFileOutputGenerator
@@ -35,3 +35,5 @@ public class PdfOutputGenerator : IFileOutputGenerator
 * interface [IFileOutputGenerator](../ifileoutputgenerator/)
 * namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

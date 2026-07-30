@@ -1,14 +1,14 @@
 ---
-title: Resolution.X
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de résolution. Obtient ou définit la résolution d'image horizontale
+title: "Resolution.X"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Resolution. Obtient ou définit la résolution horizontale de l'image"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.devices/resolution/x/
 ---
-## Propriété Resolution.X
+## Resolution.X property
 
-Obtient ou définit la résolution d'image horizontale.
+Obtient ou définit la résolution horizontale de l'image.
 
 ```csharp
 public int X { get; set; }
@@ -16,6 +16,8 @@ public int X { get; set; }
 
 ### Voir aussi
 
-* classe [Resolution](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Resolution](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

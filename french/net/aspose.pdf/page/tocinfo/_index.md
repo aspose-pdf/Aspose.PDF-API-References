@@ -1,12 +1,12 @@
 ---
-title: Page.TocInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la page. Obtient ou définit les informations de la table des matières
+title: "Page.TocInfo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Page. Obtient ou définit les informations de la table des matières"
 type: docs
 weight: 280
 url: /fr/net/aspose.pdf/page/tocinfo/
 ---
-## Propriété Page.TocInfo
+## Page.TocInfo property
 
 Obtient ou définit les informations de la table des matières.
 
@@ -14,13 +14,15 @@ Obtient ou définit les informations de la table des matières.
 public TocInfo TocInfo { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les informations de la table des matières - par défaut null. Si elle est définie, cette page contiendra une table des matières.
+Les informations de la table des matières - null par défaut. Si elles sont définies, cette page contiendra la table des matières.
 
 ### Voir aussi
 
-* classe [TocInfo](../../tocinfo/)
-* classe [Page](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [TocInfo](../../tocinfo/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,26 +1,28 @@
 ---
-title: StructureAttribute.Key
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété StructureAttribute. Obtient la clé d'attribut
+title: "StructureAttribute.Key"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "StructureAttribute propriété. Obtient la clé d'attribut"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.logicalstructure/structureattribute/key/
 ---
-## Propriété StructureAttribute.Key
+## StructureAttribute.Key property
 
-Obtient la clé d'attribut.
+Obtient la clé de l'attribut.
 
 ```csharp
 public AttributeKey Key { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Clé d'attribut.
 
 ### Voir aussi
 
-* classe [AttributeKey](../../attributekey/)
-* classe [StructureAttribute](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeKey](../../attributekey/)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

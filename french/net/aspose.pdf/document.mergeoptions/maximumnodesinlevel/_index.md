@@ -1,14 +1,14 @@
 ---
-title: Document.MergeOptions.MaximumNodesInLevel
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété MergeOptions. Obtient et définit le nombre maximum de nœuds dans le niveau de l'arbre des pages. La valeur par défaut est 10
+title: "Document.MergeOptions.MaximumNodesInLevel"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété MergeOptions. Obtient et définit le nombre maximal de nœuds au niveau de l'arbre de pages. La valeur par défaut est 10."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/document.mergeoptions/maximumnodesinlevel/
 ---
-## Propriété Document.MergeOptions.MaximumNodesInLevel
+## Document.MergeOptions.MaximumNodesInLevel property
 
-Obtient et définit le nombre maximum de nœuds dans le niveau de l'arbre des pages. La valeur par défaut est 10.
+Obtient et définit le nombre maximal de nœuds au niveau de l'arbre pages. La valeur par défaut est 10.
 
 ```csharp
 public byte MaximumNodesInLevel { get; set; }
@@ -16,6 +16,8 @@ public byte MaximumNodesInLevel { get; set; }
 
 ### Voir aussi
 
-* classe [MergeOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [MergeOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

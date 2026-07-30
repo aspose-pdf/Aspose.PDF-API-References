@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.B5Extra
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSizes. Papier ISO B5 extra 201 mm par 276 mm
+title: "PaperSizes.B5Extra"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PaperSizes champ. papier ISO B5 extra 201 mm par 276 mm"
 type: docs
 weight: 250
 url: /fr/net/aspose.pdf.printing/papersizes/b5extra/
 ---
-## Champ PaperSizes.B5Extra
+## PaperSizes.B5Extra field
 
-Papier ISO B5 extra (201 mm par 276 mm).
+Papier supplémentaire ISO B5 (201 mm par 276 mm).
 
 ```csharp
 public static readonly PaperSize B5Extra;
@@ -16,7 +16,9 @@ public static readonly PaperSize B5Extra;
 
 ### Voir aussi
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

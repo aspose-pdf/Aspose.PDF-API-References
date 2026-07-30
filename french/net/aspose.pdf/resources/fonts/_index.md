@@ -1,12 +1,12 @@
 ---
-title: Resources.Fonts
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Resources. Obtient la collection de ressources Fonts
+title: "Resources.Fonts"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Resources. Obtient la collection de ressources Fonts"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/resources/fonts/
 ---
-## Propriété Resources.Fonts
+## Resources.Fonts property
 
 Obtient la collection de ressources `Fonts`
 
@@ -16,7 +16,9 @@ public FontCollection Fonts { get; }
 
 ### Voir aussi
 
-* classe [FontCollection](../../../aspose.pdf.text/fontcollection/)
-* classe [Resources](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FontCollection](../../../aspose.pdf.text/fontcollection/)
+* class [Resources](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

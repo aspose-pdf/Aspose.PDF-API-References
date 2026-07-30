@@ -1,14 +1,14 @@
 ---
-title: Class StreamDataSource
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.StreamDataSource. Représente une source de données de flux pour les opérations de chargement et de sauvegarde d'un plugin
+title: "Classe StreamDataSource"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Plugins.StreamDataSource. Représente une source de données de flux pour les opérations de chargement et d'enregistrement d'un plug-in"
 type: docs
-weight: 9290
+weight: 9440
 url: /fr/net/aspose.pdf.plugins/streamdatasource/
 ---
-## Classe StreamDataSource
+## StreamDataSource class
 
-Représente une source de données de flux pour les opérations de chargement et de sauvegarde d'un plugin.
+Représente la source de données en flux pour les opérations de chargement et d'enregistrement d'un plugin.
 
 ```csharp
 public sealed class StreamDataSource : IDataSource
@@ -32,3 +32,5 @@ public sealed class StreamDataSource : IDataSource
 * interface [IDataSource](../idatasource/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FontSubstitutionCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FontSubstitutionCollection. Ajoute un nouvel objet de substitution de police à la collection
+title: "FontSubstitutionCollection.Add"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode FontSubstitutionCollection. Ajoute un nouvel objet de substitution de police à la collection"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.text/fontsubstitutioncollection/add/
 ---
-## Méthode FontSubstitutionCollection.Add
+## FontSubstitutionCollection.Add method
 
 Ajoute un nouvel objet de substitution de police à la collection.
 
@@ -20,7 +20,9 @@ public void Add(FontSubstitution fontSubstitution)
 
 ### Voir aussi
 
-* classe [FontSubstitution](../../fontsubstitution/)
-* classe [FontSubstitutionCollection](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [FontSubstitution](../../fontsubstitution/)
+* class [FontSubstitutionCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

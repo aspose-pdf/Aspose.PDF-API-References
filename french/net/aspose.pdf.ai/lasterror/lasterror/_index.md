@@ -1,12 +1,12 @@
 ---
-title: LastError.LastError
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur LastError. Le constructeur par défaut
+title: "LastError.LastError"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur LastError. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/lasterror/lasterror/
 ---
-## Constructeur LastError
+## LastError constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public LastError()
 
 ### Voir aussi
 
-* classe [LastError](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [LastError](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

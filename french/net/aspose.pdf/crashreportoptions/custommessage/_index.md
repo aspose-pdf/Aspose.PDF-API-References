@@ -1,14 +1,14 @@
 ---
-title: CrashReportOptions.CustomMessage
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété CrashReportOptions. Message personnalisé à inclure dans le rapport. Cela peut être quelque chose comme la valeur des variables ou d'autres détails que vous souhaitez envoyer.
+title: "CrashReportOptions.CustomMessage"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété CrashReportOptions. Message personnalisé à inclure dans le rapport. Cela peut être quelque chose comme la valeur des variables ou d'autres détails que vous souhaitez envoyer"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf/crashreportoptions/custommessage/
 ---
-## Propriété CrashReportOptions.CustomMessage
+## CrashReportOptions.CustomMessage property
 
-Message personnalisé à inclure dans le rapport. Cela peut être quelque chose comme la valeur des variables ou d'autres détails que vous souhaitez envoyer.
+Message personnalisé à inclure dans le rapport. Cela peut être quelque chose comme la valeur de variables ou d'autres détails que vous souhaitez envoyer.
 
 ```csharp
 public string CustomMessage { get; set; }
@@ -16,6 +16,8 @@ public string CustomMessage { get; set; }
 
 ### Voir aussi
 
-* classe [CrashReportOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [CrashReportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

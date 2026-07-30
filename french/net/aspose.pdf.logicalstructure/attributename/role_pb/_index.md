@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Role_pb
-second_title: Aspose.PDF for .NET API Reference
-description: Champ AttributeName. Rôle de l'attribut pb Bouton poussoir
+title: "AttributeName.Role_pb"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ AttributeName. Attribut Role pb  Bouton poussoir"
 type: docs
 weight: 400
 url: /fr/net/aspose.pdf.logicalstructure/attributename/role_pb/
 ---
-## Champ AttributeName.Role_pb
+## AttributeName.Role_pb field
 
-Rôle de l'attribut : pb - Bouton poussoir.
+Attribut Role : pb - Bouton poussoir.
 
 ```csharp
 public static readonly AttributeName Role_pb;
@@ -16,6 +16,8 @@ public static readonly AttributeName Role_pb;
 
 ### Voir aussi
 
-* classe [AttributeName](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

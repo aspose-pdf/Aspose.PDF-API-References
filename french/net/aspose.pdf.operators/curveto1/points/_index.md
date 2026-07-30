@@ -1,12 +1,12 @@
 ---
-title: CurveTo1.Points
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété CurveTo1. Points de la courbe
+title: "CurveTo1.Points"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété CurveTo1. Points de la courbe"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.operators/curveto1/points/
 ---
-## Propriété CurveTo1.Points
+## CurveTo1.Points property
 
 Points de la courbe.
 
@@ -16,7 +16,9 @@ public Point[] Points { get; }
 
 ### Voir aussi
 
-* classe [Point](../../../aspose.pdf/point/)
-* classe [CurveTo1](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [Point](../../../aspose.pdf/point/)
+* class [CurveTo1](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

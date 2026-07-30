@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchema.DefaultSchemaNamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: Champ XmpPdfAExtensionSchema. URI de l'espace de noms de schéma par défaut
+title: "XmpPdfAExtensionSchema.DefaultSchemaNamespaceUri"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "XmpPdfAExtensionSchema champ. URI d'espace de noms du schéma par défaut"
 type: docs
 weight: 170
 url: /fr/net/aspose.pdf/xmppdfaextensionschema/defaultschemanamespaceuri/
 ---
-## Champ XmpPdfAExtensionSchema.DefaultSchemaNamespaceUri
+## XmpPdfAExtensionSchema.DefaultSchemaNamespaceUri field
 
-URI de l'espace de noms de schéma par défaut.
+URI d'espace de noms de schéma par défaut.
 
 ```csharp
 public const string DefaultSchemaNamespaceUri;
@@ -16,6 +16,8 @@ public const string DefaultSchemaNamespaceUri;
 
 ### Voir aussi
 
-* classe [XmpPdfAExtensionSchema](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpPdfAExtensionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

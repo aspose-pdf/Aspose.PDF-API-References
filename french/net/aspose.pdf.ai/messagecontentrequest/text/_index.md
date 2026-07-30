@@ -1,14 +1,14 @@
 ---
-title: MessageContentRequest.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété MessageContentRequest. Obtient ou définit le contenu textuel qui fait partie d'un message
+title: "MessageContentRequest.Text"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété MessageContentRequest. Obtient ou définit le contenu texte qui fait partie d'un message"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.ai/messagecontentrequest/text/
 ---
-## Propriété MessageContentRequest.Text
+## MessageContentRequest.Text property
 
-Obtient ou définit le contenu textuel qui fait partie d'un message.
+Obtient ou définit le contenu texte qui fait partie d'un message.
 
 ```csharp
 public string Text { get; set; }
@@ -16,6 +16,8 @@ public string Text { get; set; }
 
 ### Voir aussi
 
-* classe [MessageContentRequest](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [MessageContentRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

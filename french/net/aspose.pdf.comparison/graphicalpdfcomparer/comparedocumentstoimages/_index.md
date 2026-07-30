@@ -1,12 +1,12 @@
 ---
-title: GraphicalPdfComparer.CompareDocumentsToImages
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode GraphicalPdfComparer. Compare les documents graphiquement. Le résultat de la comparaison est placé dans des images
+title: "GraphicalPdfComparer.CompareDocumentsToImages"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode GraphicalPdfComparer. Compare les documents graphiquement. Le résultat de la comparaison est placé dans des images"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.comparison/graphicalpdfcomparer/comparedocumentstoimages/
 ---
-## Méthode GraphicalPdfComparer.CompareDocumentsToImages
+## GraphicalPdfComparer.CompareDocumentsToImages method
 
 Compare les documents graphiquement. Le résultat de la comparaison est placé dans des images.
 
@@ -19,7 +19,7 @@ public void CompareDocumentsToImages(Document document1, Document document2,
 | --- | --- | --- |
 | document1 | Document | Le premier document à comparer. |
 | document2 | Document | Le deuxième document à comparer. |
-| targetDirectory | String | Le répertoire pour enregistrer les résultats de la comparaison. |
+| targetDirectory | String | Le répertoire pour enregistrer les résultats de comparaison. |
 | fileNamePrefix | String | Le préfixe du nom des images. |
 | imageFormat | ImageFormat | Le format d'image à enregistrer. |
 
@@ -27,7 +27,7 @@ public void CompareDocumentsToImages(Document document1, Document document2,
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | Si les pages comparées sont de tailles différentes. Si targetDirectory est nul ou une chaîne vide. Si fileNamePrefix est nul ou une chaîne vide. |
+| ArgumentException | Si les pages comparées ont des tailles différentes. Si targetDirectory est nul ou une chaîne vide. Si fileNamePrefix est nul ou une chaîne vide. |
 
 ### Voir aussi
 
@@ -35,3 +35,5 @@ public void CompareDocumentsToImages(Document document1, Document document2,
 * class [GraphicalPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

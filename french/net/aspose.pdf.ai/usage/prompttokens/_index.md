@@ -1,14 +1,14 @@
 ---
-title: Usage.PromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété d'utilisation. Obtient ou définit le nombre de tokens dans l'invite
+title: "Usage.PromptTokens"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Usage. Obtient ou définit le nombre de jetons dans l'invite"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.ai/usage/prompttokens/
 ---
-## Propriété Usage.PromptTokens
+## Usage.PromptTokens property
 
-Obtient ou définit le nombre de tokens dans l'invite.
+Obtient ou définit le nombre de jetons dans l'invite.
 
 ```csharp
 public int PromptTokens { get; set; }
@@ -16,6 +16,8 @@ public int PromptTokens { get; set; }
 
 ### Voir aussi
 
-* classe [Usage](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Usage](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

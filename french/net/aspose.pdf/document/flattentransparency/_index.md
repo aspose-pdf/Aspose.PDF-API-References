@@ -1,12 +1,12 @@
 ---
-title: Document.FlattenTransparency
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Document. Remplace le contenu transparent par des graphiques raster et vectoriels non transparents
+title: "Document.FlattenTransparency"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Document méthode. Remplace le contenu transparent par des graphiques raster et vectoriels non transparents"
 type: docs
-weight: 650
+weight: 670
 url: /fr/net/aspose.pdf/document/flattentransparency/
 ---
-## Méthode Document.FlattenTransparency
+## Document.FlattenTransparency method
 
 Remplace le contenu transparent par des graphiques raster et vectoriels non transparents.
 
@@ -16,6 +16,8 @@ public void FlattenTransparency()
 
 ### Voir aussi
 
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

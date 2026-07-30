@@ -1,14 +1,14 @@
 ---
-title: Enum SubjectNameElements
-second_title: Aspose.PDF for .NET API Reference
-description: Enumération Aspose.Pdf.Forms.SubjectNameElements. L'énumération décrit les éléments dans la chaîne de sujet de signature
+title: "Enum SubjectNameElements"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Forms.SubjectNameElements enum. L'énumération décrit les éléments de la chaîne du sujet de la signature"
 type: docs
-weight: 5300
+weight: 5420
 url: /fr/net/aspose.pdf.forms/subjectnameelements/
 ---
-## Énumération SubjectNameElements
+## SubjectNameElements enumeration
 
-L'énumération décrit les éléments dans la chaîne de sujet de signature.
+L'énumération décrit les éléments de la chaîne de sujet de la signature.
 
 ```csharp
 public enum SubjectNameElements
@@ -24,9 +24,11 @@ public enum SubjectNameElements
 | OU | `3` | Unité organisationnelle. |
 | S | `4` | Nom de l'État ou de la province. |
 | C | `5` | Pays. |
-| E | `6` | Email. |
+| E | `6` | Courriel. |
 
 ### Voir aussi
 
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

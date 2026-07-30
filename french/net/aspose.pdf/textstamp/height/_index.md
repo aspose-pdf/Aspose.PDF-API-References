@@ -1,12 +1,12 @@
 ---
-title: TextStamp.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextStamp. Hauteur souhaitée du tampon sur la page
+title: "TextStamp.Height"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextStamp. Hauteur souhaitée du tampon sur la page."
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf/textstamp/height/
 ---
-## Propriété TextStamp.Height
+## TextStamp.Height property
 
 Hauteur souhaitée du tampon sur la page.
 
@@ -16,6 +16,8 @@ public override double Height { get; set; }
 
 ### Voir aussi
 
-* classe [TextStamp](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

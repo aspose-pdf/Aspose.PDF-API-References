@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateParagraphElement
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ITaggedContent. Crée ParagraphElement
+title: "ITaggedContent.CreateParagraphElement"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode ITaggedContent. Crée ParagraphElement"
 type: docs
-weight: 200
+weight: 230
 url: /fr/net/aspose.pdf.tagged/itaggedcontent/createparagraphelement/
 ---
-## Méthode ITaggedContent.CreateParagraphElement
+## ITaggedContent.CreateParagraphElement method
 
 Crée [`ParagraphElement`](../../../aspose.pdf.logicalstructure/paragraphelement/).
 
@@ -20,7 +20,9 @@ public ParagraphElement CreateParagraphElement()
 
 ### Voir aussi
 
-* classe [ParagraphElement](../../../aspose.pdf.logicalstructure/paragraphelement/)
+* class [ParagraphElement](../../../aspose.pdf.logicalstructure/paragraphelement/)
 * interface [ITaggedContent](../)
-* espace de noms [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

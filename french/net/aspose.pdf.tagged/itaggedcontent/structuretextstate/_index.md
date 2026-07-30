@@ -1,26 +1,28 @@
 ---
-title: ITaggedContent.StructureTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ITaggedContent. Obtenez les paramètres StructureTextState pour l'ensemble du document
+title: "ITaggedContent.StructureTextState"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ITaggedContent. Obtient les paramètres StructureTextState pour l'ensemble du document"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.tagged/itaggedcontent/structuretextstate/
 ---
-## Propriété ITaggedContent.StructureTextState
+## ITaggedContent.StructureTextState property
 
-Obtenez les paramètres [`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) pour l'ensemble du document.
+Obtient les paramètres [`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) pour l'ensemble du document.
 
 ```csharp
 public StructureTextState StructureTextState { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Paramètres [`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) pour l'ensemble du document.
+[`StructureTextState`](../../../aspose.pdf.logicalstructure/structuretextstate/) settings for whole document.
 
 ### Voir aussi
 
-* classe [StructureTextState](../../../aspose.pdf.logicalstructure/structuretextstate/)
+* class [StructureTextState](../../../aspose.pdf.logicalstructure/structuretextstate/)
 * interface [ITaggedContent](../)
-* espace de noms [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Artifact.CustomSubtype
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de l'artéfact. Obtient le nom du sous-type d'artéfact. Peut être utilisé si le sous-type d'artéfact n'est pas un sous-type standard
+title: "Artifact.CustomSubtype"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Artifact. Obtient le nom du sous-type d'artifact. Peut être utilisé si le sous-type d'artifact n'est pas un sous-type standard."
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf/artifact/customsubtype/
 ---
-## Propriété Artifact.CustomSubtype
+## Artifact.CustomSubtype property
 
-Obtient le nom du sous-type d'artéfact. Peut être utilisé si le sous-type d'artéfact n'est pas un sous-type standard.
+Obtient le nom du sous‑type d'artefact. Peut être utilisé si le sous‑type d'artefact n'est pas un sous‑type standard.
 
 ```csharp
 public string CustomSubtype { get; set; }
@@ -16,6 +16,8 @@ public string CustomSubtype { get; set; }
 
 ### Voir aussi
 
-* classe [Artifact](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

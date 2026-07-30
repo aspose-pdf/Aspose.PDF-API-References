@@ -1,14 +1,14 @@
 ---
-title: TocInfo.IsShowPageNumbers
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TocInfo. Obtient ou définit si les numéros de page sont affichés dans le Toc
+title: "TocInfo.IsShowPageNumbers"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TocInfo. Obtient ou définit l'affichage des numéros de page dans la table des matières"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf/tocinfo/isshowpagenumbers/
 ---
-## Propriété TocInfo.IsShowPageNumbers
+## TocInfo.IsShowPageNumbers property
 
-Obtient ou définit si les numéros de page sont affichés dans le Toc.
+Obtient ou définit si les numéros de page sont affichés dans la TOC.
 
 ```csharp
 public bool IsShowPageNumbers { get; set; }
@@ -16,6 +16,8 @@ public bool IsShowPageNumbers { get; set; }
 
 ### Voir aussi
 
-* classe [TocInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [TocInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

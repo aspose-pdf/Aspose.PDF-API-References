@@ -1,14 +1,14 @@
 ---
-title: PdfToHtmlOptions.PdfToHtmlOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de PdfToHtmlOptions. Initialise une nouvelle instance de l'objet PdfToHtmlOptions avec des options par défaut
+title: "PdfToHtmlOptions.PdfToHtmlOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur PdfToHtmlOptions. Initialise une nouvelle instance de l'objet PdfToHtmlOptions avec les options par défaut."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.plugins/pdftohtmloptions/pdftohtmloptions/
 ---
 ## PdfToHtmlOptions() {#constructor}
 
-Initialise une nouvelle instance de l'objet [`PdfToHtmlOptions`](../) avec des options par défaut.
+Initialise une nouvelle instance de l'objet [`PdfToHtmlOptions`](../) avec les options par défaut.
 
 ```csharp
 public PdfToHtmlOptions()
@@ -16,8 +16,8 @@ public PdfToHtmlOptions()
 
 ### Voir aussi
 
-* classe [PdfToHtmlOptions](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [PdfToHtmlOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -36,7 +36,9 @@ public PdfToHtmlOptions(SaveDataType outputDataType)
 
 ### Voir aussi
 
-* énum [SaveDataType](../../pdftohtmloptions.savedatatype/)
-* classe [PdfToHtmlOptions](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* enum [SaveDataType](../../pdftohtmloptions.savedatatype/)
+* class [PdfToHtmlOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

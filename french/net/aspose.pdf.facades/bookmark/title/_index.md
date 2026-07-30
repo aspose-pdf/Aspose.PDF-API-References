@@ -1,12 +1,12 @@
 ---
-title: Bookmark.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de signet. Obtient ou définit le titre des signets
+title: "Bookmark.Title"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Bookmark. Obtient ou définit le titre du signet."
 type: docs
 weight: 180
 url: /fr/net/aspose.pdf.facades/bookmark/title/
 ---
-## Propriété Bookmark.Title
+## Bookmark.Title property
 
 Obtient ou définit le titre du signet.
 
@@ -16,6 +16,8 @@ public string Title { get; set; }
 
 ### Voir aussi
 
-* classe [Bookmark](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

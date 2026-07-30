@@ -1,12 +1,12 @@
 ---
-title: Annotation.GetRectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode d'annotation. Renvoie le rectangle de l'annotation en tenant compte de la rotation de la page
+title: "Annotation.GetRectangle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Annotation. Retourne le rectangle de l'annotation en tenant compte de la rotation de la page"
 type: docs
 weight: 220
 url: /fr/net/aspose.pdf.annotations/annotation/getrectangle/
 ---
-## Méthode Annotation.GetRectangle
+## Annotation.GetRectangle method
 
 Renvoie le rectangle de l'annotation en tenant compte de la rotation de la page.
 
@@ -20,11 +20,13 @@ public Rectangle GetRectangle(bool considerRotation)
 
 ### Valeur de retour
 
-Vrai - si le rectangle est trouvé ; sinon, faux.
+Vrai - si le rectangle est trouvé ; sinon, faux.
 
 ### Voir aussi
 
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [Annotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

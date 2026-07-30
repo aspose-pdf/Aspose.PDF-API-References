@@ -1,14 +1,14 @@
 ---
-title: InkAnnotation.CapStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété InkAnnotation. Style des extrémités des lignes d'annotation d'encre
+title: "InkAnnotation.CapStyle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété InkAnnotation. Style des extrémités des lignes d’annotation d’encre"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.annotations/inkannotation/capstyle/
 ---
-## Propriété InkAnnotation.CapStyle
+## InkAnnotation.CapStyle property
 
-Style des extrémités des lignes d'annotation d'encre.
+Style des terminaisons de ligne de l’annotation Ink.
 
 ```csharp
 public CapStyle CapStyle { get; set; }
@@ -20,3 +20,5 @@ public CapStyle CapStyle { get; set; }
 * class [InkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

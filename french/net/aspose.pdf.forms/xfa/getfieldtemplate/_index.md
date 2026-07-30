@@ -1,12 +1,12 @@
 ---
-title: XFA.GetFieldTemplate
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XFA. Renvoie le nœud XML du modèle de champ XFA
+title: "XFA.GetFieldTemplate"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XFA. Retourne le nœud XML du modèle de champ XFA"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.forms/xfa/getfieldtemplate/
 ---
-## Méthode XFA.GetFieldTemplate
+## XFA.GetFieldTemplate method
 
 Renvoie le nœud XML du modèle de champ XFA.
 
@@ -24,6 +24,8 @@ Nœud XL avec le modèle de champ.
 
 ### Voir aussi
 
-* classe [XFA](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

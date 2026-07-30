@@ -1,12 +1,12 @@
 ---
-title: Enum PrinterMarkSidePosition
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Annotations.PrinterMarkSidePosition. Représente une position d'une marque d'enregistrement sur une page
+title: "Énumération PrinterMarkSidePosition"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Énumération Aspose.Pdf.Annotations.PrinterMarkSidePosition. Représente une position d'une marque d'enregistrement sur une Page"
 type: docs
-weight: 2370
+weight: 2460
 url: /fr/net/aspose.pdf.annotations/printermarksideposition/
 ---
-## Énumération PrinterMarkSidePosition
+## PrinterMarkSidePosition enumeration
 
 Représente une position d'une marque d'enregistrement sur une page.
 
@@ -18,12 +18,14 @@ public enum PrinterMarkSidePosition
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| Haut | `0` | Positionner la marque dans la marge supérieure de la page. |
-| Bas | `1` | Positionner la marque dans la marge inférieure de la page. |
-| Gauche | `2` | Positionner la marque dans la marge gauche de la page. |
-| Droite | `3` | Positionner la marque dans la marge droite de la page. |
+| Top | `0` | Placez la marque dans la marge supérieure de la Page. |
+| Bottom | `1` | Placez la marque dans la marge inférieure de la Page. |
+| Left | `2` | Placez la marque dans la marge gauche de la Page. |
+| Right | `3` | Placez la marque dans la marge droite de la Page. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

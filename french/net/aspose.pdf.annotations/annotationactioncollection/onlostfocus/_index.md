@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection.OnLostFocus
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété AnnotationActionCollection. Obtient ou définit une action à effectuer lorsque l'annotation perd le focus d'entrée
+title: "AnnotationActionCollection.OnLostFocus"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété AnnotationActionCollection. Obtient ou définit une action à exécuter lorsque l'annotation perd le focus d'entrée."
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.annotations/annotationactioncollection/onlostfocus/
 ---
-## Propriété AnnotationActionCollection.OnLostFocus
+## AnnotationActionCollection.OnLostFocus property
 
-Obtient ou définit une action à effectuer lorsque l'annotation perd le focus d'entrée.
+Obtient ou définit une action à exécuter lorsque l'annotation perd le focus d'entrée.
 
 ```csharp
 public PdfAction OnLostFocus { get; set; }
@@ -16,7 +16,9 @@ public PdfAction OnLostFocus { get; set; }
 
 ### Voir aussi
 
-* classe [PdfAction](../../pdfaction/)
-* classe [AnnotationActionCollection](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PdfAction](../../pdfaction/)
+* class [AnnotationActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

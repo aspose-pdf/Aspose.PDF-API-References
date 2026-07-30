@@ -1,12 +1,12 @@
 ---
-title: PdfFormatConversionOptions.FontEmbeddingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfFormatConversionOptions. Options pour les cas où il n'est pas possible d'incorporer certaines polices dans le document PDF
+title: "PdfFormatConversionOptions.FontEmbeddingOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfFormatConversionOptions. Options pour les cas où il n'est pas possible d'incorporer certaines polices dans le document PDF"
 type: docs
-weight: 70
+weight: 80
 url: /fr/net/aspose.pdf/pdfformatconversionoptions/fontembeddingoptions/
 ---
-## PdfFormatConversionOptions.FontEmbeddingOptions propriété
+## PdfFormatConversionOptions.FontEmbeddingOptions property
 
 Options pour les cas où il n'est pas possible d'incorporer certaines polices dans le document PDF.
 
@@ -16,7 +16,9 @@ public FontEmbeddingOptions FontEmbeddingOptions { get; }
 
 ### Voir aussi
 
-* classe [FontEmbeddingOptions](../../fontembeddingoptions/)
-* classe [PdfFormatConversionOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FontEmbeddingOptions](../../fontembeddingoptions/)
+* class [PdfFormatConversionOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

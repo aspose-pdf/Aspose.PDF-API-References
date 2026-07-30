@@ -1,12 +1,12 @@
 ---
-title: TextExtractorOptions.FormattingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextExtractorOptions. Obtient le mode de formatage
+title: "TextExtractorOptions.FormattingMode"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextExtractorOptions. Obtient le mode de formatage"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.plugins/textextractoroptions/formattingmode/
 ---
-## Propriété TextExtractorOptions.FormattingMode
+## TextExtractorOptions.FormattingMode property
 
 Obtient le mode de formatage.
 
@@ -20,3 +20,5 @@ public TextFormattingMode FormattingMode { get; }
 * class [TextExtractorOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

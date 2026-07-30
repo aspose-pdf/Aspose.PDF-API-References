@@ -1,14 +1,14 @@
 ---
-title: Interface IOperationResult
-second_title: Aspose.PDF for .NET API Reference
-description: Interface Aspose.Pdf.Plugins.IOperationResult. Interface générale de résultat d'opération qui définit des méthodes communes que le résultat d'opération de plugin concret doit implémenter
+title: "Interface IOperationResult"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Interface Aspose.Pdf.Plugins.IOperationResult. Interface de résultat d'opération générale qui définit les méthodes communes qu'un résultat d'opération de plugin concret doit implémenter"
 type: docs
-weight: 8850
+weight: 8980
 url: /fr/net/aspose.pdf.plugins/ioperationresult/
 ---
-## Interface IOperationResult
+## IOperationResult interface
 
-Interface générale de résultat d'opération qui définit des méthodes communes que le résultat d'opération de plugin concret doit implémenter.
+Interface générale de résultat d'opération qui définit les méthodes communes que le résultat d'opération de plugin concret doit implémenter.
 
 ```csharp
 public interface IOperationResult
@@ -27,10 +27,12 @@ public interface IOperationResult
 
 | Nom | Description |
 | --- | --- |
-| [ToFile](../../aspose.pdf.plugins/ioperationresult/tofile/)() | Essaie de convertir le résultat en fichier. |
-| [ToStream](../../aspose.pdf.plugins/ioperationresult/tostream/)() | Essaie de convertir le résultat en objet de flux. |
+| [ToFile](../../aspose.pdf.plugins/ioperationresult/tofile/)() | Tente de convertir le résultat en fichier. |
+| [ToStream](../../aspose.pdf.plugins/ioperationresult/tostream/)() | Tente de convertir le résultat en objet flux. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextStamp.Draw
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextStamp. Cette propriété détermine comment le tampon est dessiné sur la page. Si Draw = true, le tampon est dessiné en tant qu'opérateurs graphiques et si draw = false, alors le tampon est dessiné en tant que texte.
+title: "TextStamp.Draw"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextStamp. Cette propriété détermine comment le tampon est dessiné sur la page. Si Draw est vrai, le tampon est dessiné comme des opérateurs graphiques et si Draw est faux, le tampon est dessiné comme du texte"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/textstamp/draw/
 ---
-## Propriété TextStamp.Draw
+## TextStamp.Draw property
 
-Cette propriété détermine comment le tampon est dessiné sur la page. Si Draw = true, le tampon est dessiné en tant qu'opérateurs graphiques et si draw = false, alors le tampon est dessiné en tant que texte.
+Cette propriété détermine comment le tampon est dessiné sur la page. Si Draw = true, le tampon est dessiné comme des opérateurs graphiques et si draw = false, le tampon est dessiné comme du texte.
 
 ```csharp
 public bool Draw { get; set; }
@@ -16,6 +16,8 @@ public bool Draw { get; set; }
 
 ### Voir aussi
 
-* classe [TextStamp](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

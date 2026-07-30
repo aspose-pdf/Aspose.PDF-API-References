@@ -1,12 +1,12 @@
 ---
-title: Class SetCharacterSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.SetCharacterSpacing. Classe représentant l'opérateur Tc pour définir l'espacement des caractères
+title: "Classe SetCharacterSpacing"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Operators.SetCharacterSpacing. Classe représentant l'opérateur Tc qui définit l'espacement des caractères."
 type: docs
-weight: 7620
+weight: 7760
 url: /fr/net/aspose.pdf.operators/setcharacterspacing/
 ---
-## Classe SetCharacterSpacing
+## SetCharacterSpacing class
 
 Classe représentant l'opérateur Tc (définir l'espacement des caractères).
 
@@ -31,12 +31,14 @@ public class SetCharacterSpacing : TextStateOperator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcharacterspacing/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/setcharacterspacing/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Renvoie le texte de l'opérateur et ses paramètres. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [TextStateOperator](../textstateoperator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [TextStateOperator](../textstateoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

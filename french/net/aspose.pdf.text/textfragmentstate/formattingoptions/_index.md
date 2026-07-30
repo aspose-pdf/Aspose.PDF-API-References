@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.FormattingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextFragmentState. Obtient ou définit les options de formatage. La définition des options ne sera efficace que dans les scénarios de générateur.
+title: "TextFragmentState.FormattingOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextFragmentState. Obtient ou définit les options de formatage. La définition des options ne sera effective que dans les scénarios de génération."
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.text/textfragmentstate/formattingoptions/
 ---
-## Propriété TextFragmentState.FormattingOptions
+## TextFragmentState.FormattingOptions property
 
-Obtient ou définit les options de formatage. La définition des options ne sera efficace que dans les scénarios de générateur.
+Obtient ou définit les options de formatage. La définition des options ne sera effective que dans les scénarios de génération.
 
 ```csharp
 public TextFormattingOptions FormattingOptions { get; set; }
@@ -16,7 +16,9 @@ public TextFormattingOptions FormattingOptions { get; set; }
 
 ### Voir aussi
 
-* classe [TextFormattingOptions](../../textformattingoptions/)
-* classe [TextFragmentState](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextFormattingOptions](../../textformattingoptions/)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

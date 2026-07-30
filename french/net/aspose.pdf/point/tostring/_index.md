@@ -1,14 +1,14 @@
 ---
-title: Point.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Point. Retourne la représentation sous forme de chaîne du point actuel
+title: "Point.ToString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Point. Retourne la chaîne représentant le point actuel"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf/point/tostring/
 ---
-## Méthode Point.ToString
+## Point.ToString method
 
-Retourne la représentation sous forme de chaîne du point actuel.
+Renvoie la représentation sous forme de chaîne du point actuel.
 
 ```csharp
 public override string ToString()
@@ -20,6 +20,8 @@ Chaîne, représentant le point actuel.
 
 ### Voir aussi
 
-* classe [Point](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Point](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

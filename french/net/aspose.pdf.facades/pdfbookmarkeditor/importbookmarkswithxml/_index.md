@@ -1,14 +1,14 @@
 ---
-title: PdfBookmarkEditor.ImportBookmarksWithXML
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfBookmarkEditor. Importe des signets dans le document à partir d'un fichier XML
+title: "PdfBookmarkEditor.ImportBookmarksWithXML"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfBookmarkEditor. Importe les signets dans le document à partir du fichier XML."
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.facades/pdfbookmarkeditor/importbookmarkswithxml/
 ---
 ## ImportBookmarksWithXML(string) {#importbookmarkswithxml_1}
 
-Importe des signets dans le document à partir d'un fichier XML.
+Importe les signets dans le document à partir d'un fichier XML.
 
 ```csharp
 public void ImportBookmarksWithXML(string xmlFile)
@@ -29,15 +29,15 @@ editor.Save("example_out.pdf");
 
 ### Voir aussi
 
-* classe [PdfBookmarkEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportBookmarksWithXML(Stream) {#importbookmarkswithxml}
 
-Importe des signets dans le document à partir d'un fichier XML.
+Importe les signets dans le document à partir d'un fichier XML.
 
 ```csharp
 public void ImportBookmarksWithXML(Stream stream)
@@ -49,6 +49,8 @@ public void ImportBookmarksWithXML(Stream stream)
 
 ### Voir aussi
 
-* classe [PdfBookmarkEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

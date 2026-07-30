@@ -1,14 +1,14 @@
 ---
-title: RequiredAction.RequiredActionType
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété RequiredAction. Obtient ou définit le type d'action qui est requis
+title: "RequiredAction.RequiredActionType"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété RequiredAction. Obtient ou définit le type d'action requis"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.ai/requiredaction/requiredactiontype/
 ---
-## Propriété RequiredAction.RequiredActionType
+## RequiredAction.RequiredActionType property
 
-Obtient ou définit le type d'action qui est requis.
+Obtient ou définit le type d'action requis.
 
 ```csharp
 public string RequiredActionType { get; set; }
@@ -16,6 +16,8 @@ public string RequiredActionType { get; set; }
 
 ### Voir aussi
 
-* classe [RequiredAction](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [RequiredAction](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

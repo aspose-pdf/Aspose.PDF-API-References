@@ -1,14 +1,14 @@
 ---
-title: PageLabelCollection.GetPages
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PageLabelCollection. Obtient les index des pages dans la collection
+title: "PageLabelCollection.GetPages"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PageLabelCollection. Obtient les index des pages dans la collection"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/pagelabelcollection/getpages/
 ---
-## Méthode PageLabelCollection.GetPages
+## PageLabelCollection.GetPages method
 
-Obtient les index des pages dans la collection.
+Obtient les index de pages dans la collection.
 
 ```csharp
 public int[] GetPages()
@@ -20,6 +20,8 @@ Tableau d'entiers contenant les index des pages.
 
 ### Voir aussi
 
-* classe [PageLabelCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageLabelCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

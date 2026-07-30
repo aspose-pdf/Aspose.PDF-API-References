@@ -1,12 +1,12 @@
 ---
-title: Class BDCProperties
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Facades.BDCProperties. Propriétés de l'opérateur BDC
+title: "Classe BDCProperties"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Facades.BDCProperties. Propriétés de l'opérateur BDC"
 type: docs
-weight: 4170
+weight: 4290
 url: /fr/net/aspose.pdf.facades/bdcproperties/
 ---
-## Classe BDCProperties
+## BDCProperties class
 
 Propriétés de l'opérateur BDC.
 
@@ -25,11 +25,13 @@ public class BDCProperties
 
 | Nom | Description |
 | --- | --- |
-| [E](../../aspose.pdf.facades/bdcproperties/e/) { get; set; } | Obtient/definit la valeur du texte d'expansion. |
-| [Lang](../../aspose.pdf.facades/bdcproperties/lang/) { get; set; } | Obtient/definit la valeur de la langue. |
-| [MCID](../../aspose.pdf.facades/bdcproperties/mcid/) { get; } | Obtient la valeur MCID. |
+| [E](../../aspose.pdf.facades/bdcproperties/e/) { get; set; } | Obtient/Définit la valeur du texte d'expansion. |
+| [Lang](../../aspose.pdf.facades/bdcproperties/lang/) { get; set; } | Obtient/Définit la valeur de la langue. |
+| [MCID](../../aspose.pdf.facades/bdcproperties/mcid/) { get; } | Obtient/Définit la valeur MCID. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

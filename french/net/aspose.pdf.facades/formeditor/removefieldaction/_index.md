@@ -1,14 +1,14 @@
 ---
-title: FormEditor.RemoveFieldAction
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FormEditor. Supprimer l'action de soumission du champ
+title: "FormEditor.RemoveFieldAction"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "FormEditor méthode. Supprimer l'action de soumission du champ"
 type: docs
 weight: 220
 url: /fr/net/aspose.pdf.facades/formeditor/removefieldaction/
 ---
-## Méthode FormEditor.RemoveFieldAction
+## FormEditor.RemoveFieldAction method
 
-Supprimer l'action de soumission du champ.
+Supprime l'action de soumission du champ.
 
 ```csharp
 public void RemoveFieldAction(string fieldName)
@@ -27,6 +27,8 @@ formEditor.RemoveFieldAction("btnSubmit");
 
 ### Voir aussi
 
-* classe [FormEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

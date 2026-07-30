@@ -1,12 +1,12 @@
 ---
-title: Class FontColor
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Facades.FontColor. Classe représentant la couleur du texte
+title: "Class FontColor"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Facades.FontColor class. Classe représentant la couleur du texte"
 type: docs
-weight: 4270
+weight: 4390
 url: /fr/net/aspose.pdf.facades/fontcolor/
 ---
-## Classe FontColor
+## FontColor class
 
 Classe représentant la couleur du texte.
 
@@ -19,7 +19,7 @@ public sealed class FontColor
 | Nom | Description |
 | --- | --- |
 | [FontColor](fontcolor/#constructor)() | Initialise la couleur. |
-| [FontColor](fontcolor/#constructor_1)(int, int, int) | Initialise la couleur avec des composants de couleur spécifiés. |
+| [FontColor](fontcolor/#constructor_1)(int, int, int) | Initialise la couleur avec les composants de couleur spécifiés. |
 
 ## Propriétés
 
@@ -31,5 +31,7 @@ public sealed class FontColor
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.BPlus
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSizes. Papier SuperB/SuperB/A3 305 mm par 487 mm
+title: "PaperSizes.BPlus"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PaperSizes. Papier SuperB/SuperB/A3 305 mm par 487 mm"
 type: docs
 weight: 310
 url: /fr/net/aspose.pdf.printing/papersizes/bplus/
 ---
-## Champ PaperSizes.BPlus
+## PaperSizes.BPlus field
 
 Papier SuperB/SuperB/A3 (305 mm par 487 mm).
 
@@ -16,7 +16,9 @@ public static readonly PaperSize BPlus;
 
 ### Voir aussi
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

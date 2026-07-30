@@ -1,12 +1,12 @@
 ---
-title: XmpField.Prefix
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété XmpField. Obtient le préfixe
+title: "XmpField.Prefix"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété XmpField. Obtient le préfixe"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf/xmpfield/prefix/
 ---
-## Propriété XmpField.Prefix
+## XmpField.Prefix property
 
 Obtient le préfixe.
 
@@ -14,12 +14,14 @@ Obtient le préfixe.
 public string Prefix { get; set; }
 ```
 
-### Valeur de la Propriété
+### Property Value
 
 Le préfixe.
 
-### Voir Aussi
+### Voir aussi
 
-* classe [XmpField](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

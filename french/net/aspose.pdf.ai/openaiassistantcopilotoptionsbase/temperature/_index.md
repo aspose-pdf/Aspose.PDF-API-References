@@ -1,12 +1,12 @@
 ---
-title: OpenAIAssistantCopilotOptionsBase.Temperature
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OpenAIAssistantCopilotOptionsBase. Obtient ou définit la température d'échantillonnage à utiliser pour le modèle
+title: "OpenAIAssistantCopilotOptionsBase.Temperature"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OpenAIAssistantCopilotOptionsBase propriété. Obtient ou définit la température d'échantillonnage à utiliser pour le modèle"
 type: docs
-weight: 50
+weight: 40
 url: /fr/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/temperature/
 ---
-## Propriété OpenAIAssistantCopilotOptionsBase.Temperature
+## OpenAIAssistantCopilotOptionsBase.Temperature property
 
 Obtient ou définit la température d'échantillonnage à utiliser pour le modèle.
 
@@ -16,6 +16,8 @@ public double? Temperature { get; set; }
 
 ### Voir aussi
 
-* classe [OpenAIAssistantCopilotOptionsBase](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIAssistantCopilotOptionsBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

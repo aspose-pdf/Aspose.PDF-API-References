@@ -1,14 +1,14 @@
 ---
-title: Class XFormPlacement
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Vector.XFormPlacement. Représente le placement de XForm. Si le XForm est affiché sur la page plus d'une fois, tous les XformPlacements associés à ce XForm auront des éléments graphiques communs mais des états graphiques différents.
+title: "Classe XFormPlacement"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Vector.XFormPlacement. Représente le placement XForm. Si le XForm est affiché sur la page plus d'une fois, tous les XformPlacements associés à ce XForm partageront les mêmes éléments graphiques mais auront des états graphiques différents"
 type: docs
-weight: 11260
+weight: 11450
 url: /fr/net/aspose.pdf.vector/xformplacement/
 ---
-## Classe XFormPlacement
+## XFormPlacement class
 
-Représente le placement de XForm. Si le XForm est affiché sur la page plus d'une fois, tous les XformPlacements associés à ce XForm auront des éléments graphiques communs, mais des états graphiques différents.
+Représente le placement XForm. Si le XForm est affiché sur la page plus d'une fois, tous les XformPlacements associés à ce XForm partageront les mêmes éléments graphiques, mais auront des états graphiques différents.
 
 ```csharp
 public sealed class XFormPlacement : GraphicElement
@@ -22,7 +22,7 @@ public sealed class XFormPlacement : GraphicElement
 | [Matrix](../../aspose.pdf.vector/graphicelement/matrix/) { get; } | Obtient la matrice de l'élément graphique. La matrice est définie lors de la création de l'élément. Elle change lorsque SetPosition() est appelé. |
 | [Name](../../aspose.pdf.vector/xformplacement/name/) { get; } | Obtient le nom du XForm. |
 | [Operators](../../aspose.pdf.vector/graphicelement/operators/) { get; } | Obtient une collection d'opérateurs représentant l'élément. |
-| [Parent](../../aspose.pdf.vector/graphicelement/parent/) { get; } | Obtient le `XFormPlacement` actuel dans lequel se trouve l'élément. |
+| [Parent](../../aspose.pdf.vector/graphicelement/parent/) { get; } | Obtient le `XFormPlacement` actuel dans lequel l'élément est situé. |
 | override [Position](../../aspose.pdf.vector/xformplacement/position/) { set; } |  |
 | override [Rectangle](../../aspose.pdf.vector/xformplacement/rectangle/) { get; } |  |
 | [SourcePage](../../aspose.pdf.vector/graphicelement/sourcepage/) { get; } | Obtient la page à partir de laquelle l'élément graphique est extrait. |
@@ -32,14 +32,16 @@ public sealed class XFormPlacement : GraphicElement
 
 | Nom | Description |
 | --- | --- |
-| override [AddOnPage](../../aspose.pdf.vector/xformplacement/addonpage/)(Page) | Ajoute l'élément actuel sur la page. S'il y a de nombreux éléments à ajouter, il est préférable d'utiliser [`AddGraphics`](../../aspose.pdf/page/addgraphics/). |
+| override [AddOnPage](../../aspose.pdf.vector/xformplacement/addonpage/)(Page) | Ajoute l'élément actuel sur la page. S'il y a de nombreux éléments à ajouter, il vaut mieux utiliser [`AddGraphics`](../../aspose.pdf/page/addgraphics/). |
 | [Dispose](../../aspose.pdf.vector/graphicelement/dispose/)() | Libère toutes les ressources utilisées par la classe [`GraphicElement`](../graphicelement/). |
-| [Remove](../../aspose.pdf.vector/graphicelement/remove/)() | Supprime l'élément actuel de la page. S'il y a de nombreux éléments à supprimer, il est préférable d'utiliser [`DeleteGraphics`](../../aspose.pdf/page/deletegraphics/). |
+| [Remove](../../aspose.pdf.vector/graphicelement/remove/)() | Supprime l'élément actuel de la page. S'il y a de nombreux éléments à supprimer, il vaut mieux utiliser [`DeleteGraphics`](../../aspose.pdf/page/deletegraphics/). |
 | [SaveToSvg](../../aspose.pdf.vector/graphicelement/savetosvg/)() | Convertit l'élément en une seule image SVG. |
-| [SaveToSvg](../../aspose.pdf.vector/graphicelement/savetosvg/)(string) | Convertit l'élément en un fichier image SVG unique. |
+| [SaveToSvg](../../aspose.pdf.vector/graphicelement/savetosvg/)(string) | Convertit l'élément en un seul fichier image SVG. |
 
 ### Voir aussi
 
-* classe [GraphicElement](../graphicelement/)
-* espace de noms [Aspose.Pdf.Vector](../../aspose.pdf.vector/)
+* class [GraphicElement](../graphicelement/)
+* namespace [Aspose.Pdf.Vector](../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../)
+
+

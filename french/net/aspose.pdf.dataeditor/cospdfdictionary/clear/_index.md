@@ -1,12 +1,12 @@
 ---
-title: CosPdfDictionary.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode CosPdfDictionary. Supprime tous les éléments du CosPdfDictionary
+title: "CosPdfDictionary.Clear"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode CosPdfDictionary. Supprime tous les éléments du CosPdfDictionary"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.dataeditor/cospdfdictionary/clear/
 ---
-## Méthode CosPdfDictionary.Clear
+## CosPdfDictionary.Clear method
 
 Supprime tous les éléments du [`CosPdfDictionary`](../).
 
@@ -16,6 +16,8 @@ public void Clear()
 
 ### Voir aussi
 
-* classe [CosPdfDictionary](../)
-* espace de noms [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

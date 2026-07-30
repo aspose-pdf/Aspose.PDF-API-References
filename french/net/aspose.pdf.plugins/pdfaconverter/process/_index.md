@@ -1,14 +1,14 @@
 ---
-title: PdfAConverter.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfAConverter. Commence un processus de conversion ou de validation PDF/A avec les options données
+title: "PdfAConverter.Process"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfAConverter. Démarre un processus de conversion ou de validation PDF/A avec les options fournies"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.plugins/pdfaconverter/process/
 ---
-## Méthode PdfAConverter.Process
+## PdfAConverter.Process method
 
-Commence un processus de conversion ou de validation PDF/A avec les options données.
+Démarre un processus de conversion ou de validation PDF/A avec les options fournies.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -16,7 +16,7 @@ public ResultContainer Process(IPluginOptions options)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| options | IPluginOptions | Un objet d'options contenant des instructions pour le plugin. Doit être une instance de la classe [`PdfAConvertOptions`](../../pdfaconvertoptions/) ou de la classe [`PdfAValidateOptions`](../../pdfavalidateoptions/). |
+| options | IPluginOptions | Un objet d'options contenant les instructions pour le plugin. Doit être une instance de la classe [`PdfAConvertOptions`](../../pdfaconvertoptions/) ou de la classe [`PdfAValidateOptions`](../../pdfavalidateoptions/). |
 
 ### Valeur de retour
 
@@ -24,8 +24,10 @@ Un objet [`ResultContainer`](../../resultcontainer/) contenant le résultat du t
 
 ### Voir aussi
 
-* classe [ResultContainer](../../resultcontainer/)
+* class [ResultContainer](../../resultcontainer/)
 * interface [IPluginOptions](../../ipluginoptions/)
-* classe [PdfAConverter](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [PdfAConverter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

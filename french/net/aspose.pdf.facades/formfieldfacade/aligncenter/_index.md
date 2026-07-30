@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.AlignCenter
-second_title: Aspose.PDF for .NET API Reference
-description: Champ FormFieldFacade. Définit l'alignement au style centré
+title: "FormFieldFacade.AlignCenter"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "FormFieldFacade champ. Définit l'alignement au style centré"
 type: docs
 weight: 220
 url: /fr/net/aspose.pdf.facades/formfieldfacade/aligncenter/
 ---
-## Champ FormFieldFacade.AlignCenter
+## FormFieldFacade.AlignCenter field
 
 Définit l'alignement au style centré.
 
@@ -16,6 +16,8 @@ public const int AlignCenter;
 
 ### Voir aussi
 
-* classe [FormFieldFacade](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

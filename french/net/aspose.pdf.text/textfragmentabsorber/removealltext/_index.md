@@ -1,7 +1,7 @@
 ---
-title: TextFragmentAbsorber.RemoveAllText
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TextFragmentAbsorber. Supprime tout le texte de la page spécifiée
+title: "TextFragmentAbsorber.RemoveAllText"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TextFragmentAbsorber. Supprime tout le texte de la page spécifiée."
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf.text/textfragmentabsorber/removealltext/
@@ -16,13 +16,13 @@ public void RemoveAllText(Page page)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| page | Page | Objet de page du document PDF. |
+| page | Page | Objet de page de document PDF. |
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [TextFragmentAbsorber](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Page](../../../aspose.pdf/page/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -37,15 +37,15 @@ public void RemoveAllText(Page page, Rectangle rect)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| page | Page | Objet de page du document PDF. |
+| page | Page | Objet de page de document PDF. |
 | rect | Rectangle | [`Rectangle`](../../../aspose.pdf/rectangle/) pour supprimer le texte à l'intérieur. |
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [TextFragmentAbsorber](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -64,7 +64,9 @@ public void RemoveAllText(Document document)
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [TextFragmentAbsorber](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextFragmentAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

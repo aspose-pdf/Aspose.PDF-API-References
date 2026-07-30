@@ -1,12 +1,12 @@
 ---
-title: TableCellElement.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TableCellElement. Obtient ou définit le remplissage
+title: "TableCellElement.Margin"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "TableCellElement propriété. Obtient ou définit le remplissage"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.logicalstructure/tablecellelement/margin/
 ---
-## Propriété TableCellElement.Margin
+## TableCellElement.Margin property
 
 Obtient ou définit le remplissage.
 
@@ -16,7 +16,9 @@ public MarginInfo Margin { get; set; }
 
 ### Voir aussi
 
-* classe [MarginInfo](../../../aspose.pdf/margininfo/)
-* classe [TableCellElement](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [MarginInfo](../../../aspose.pdf/margininfo/)
+* class [TableCellElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CustomPrintEventArgs.CustomPrintEventArgs
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de CustomPrintEventArgs. Initialise CustomPrintEventArgs avec les paramètres d'imprimante et de page donnés
+title: "CustomPrintEventArgs.CustomPrintEventArgs"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur CustomPrintEventArgs. Initialise CustomPrintEventArgs avec l'imprimante et les paramètres de page fournis"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.printing/customprinteventargs/customprinteventargs/
 ---
-## Constructeur de CustomPrintEventArgs
+## CustomPrintEventArgs constructor
 
-Initialise [`CustomPrintEventArgs`](../) avec les paramètres d'imprimante et de page donnés.
+Initialise [`CustomPrintEventArgs`](../) avec l'imprimante et les paramètres de page fournis.
 
 ```csharp
 public CustomPrintEventArgs(string fileName, PrinterSettings printerSettings, 
@@ -17,14 +17,16 @@ public CustomPrintEventArgs(string fileName, PrinterSettings printerSettings,
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| fileName | String | Nom du fichier qui est en cours d'impression. |
+| fileName | String | Nom du fichier qui est imprimé. |
 | printerSettings | PrinterSettings | Informations sur l'imprimante sur laquelle le document doit être imprimé. |
 | pageSettings | PageSettings | Paramètres qui doivent être appliqués à chaque page du document. |
 
 ### Voir aussi
 
-* classe [PrinterSettings](../../printersettings/)
-* classe [PageSettings](../../pagesettings/)
-* classe [CustomPrintEventArgs](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PrinterSettings](../../printersettings/)
+* class [PageSettings](../../pagesettings/)
+* class [CustomPrintEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

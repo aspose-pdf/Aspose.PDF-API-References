@@ -1,7 +1,7 @@
 ---
-title: IllustrationElement.SetImage
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode IllustrationElement. Ajoute une image à l'élément d'illustration actuel
+title: "IllustrationElement.SetImage"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode IllustrationElement. Ajoute une image à l'élément d'illustration actuel"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.logicalstructure/illustrationelement/setimage/
@@ -17,12 +17,12 @@ public virtual void SetImage(string imageSrc, double imageResolution = 300m)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | imageSrc | String | Source de l'image. |
-| imageResolution | Double | (Optionnel) Résolution de l'image. Par défaut : 300 DPI. |
+| imageResolution | Double | (Facultatif) Résolution d'image. Valeur par défaut : 300 DPI. |
 
 ### Voir aussi
 
-* classe [IllustrationElement](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [IllustrationElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -43,6 +43,8 @@ public virtual void SetImage(string imageSrc, double imageWidth, double imageHei
 
 ### Voir aussi
 
-* classe [IllustrationElement](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [IllustrationElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

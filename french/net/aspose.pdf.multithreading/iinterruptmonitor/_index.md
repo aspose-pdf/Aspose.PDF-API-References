@@ -1,14 +1,14 @@
 ---
-title: Interface IInterruptMonitor
-second_title: Aspose.PDF for .NET API Reference
-description: Interface Aspose.Pdf.Multithreading.IInterruptMonitor. Représente des informations sur l'interruption
+title: "Interface IInterruptMonitor"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Interface Aspose.Pdf.Multithreading.IInterruptMonitor. Représente les informations sur l'interruption"
 type: docs
-weight: 6990
+weight: 7130
 url: /fr/net/aspose.pdf.multithreading/iinterruptmonitor/
 ---
-## Interface IInterruptMonitor
+## IInterruptMonitor interface
 
-Représente des informations sur l'interruption.
+Représente les informations sur l'interruption.
 
 ```csharp
 public interface IInterruptMonitor : IDisposable
@@ -24,9 +24,11 @@ public interface IInterruptMonitor : IDisposable
 
 | Nom | Description |
 | --- | --- |
-| [Interrupt](../../aspose.pdf.multithreading/iinterruptmonitor/interrupt/)() | Envoie une demande d'interruption des opérations. |
+| [Interrupt](../../aspose.pdf.multithreading/iinterruptmonitor/interrupt/)() | Envoie une requête pour interrompre les opérations. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Multithreading](../../aspose.pdf.multithreading/)
+* namespace [Aspose.Pdf.Multithreading](../../aspose.pdf.multithreading/)
 * assembly [Aspose.PDF](../../)
+
+

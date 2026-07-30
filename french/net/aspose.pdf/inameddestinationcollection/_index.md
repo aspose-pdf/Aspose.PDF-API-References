@@ -1,12 +1,12 @@
 ---
-title: Interface INamedDestinationCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Interface Aspose.Pdf.INamedDestinationCollection. Collection de destinations nommées
+title: "Interface INamedDestinationCollection"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Interface Aspose.Pdf.INamedDestinationCollection. Collection de destinations nommées"
 type: docs
-weight: 5780
+weight: 5910
 url: /fr/net/aspose.pdf/inameddestinationcollection/
 ---
-## Interface INamedDestinationCollection
+## INamedDestinationCollection interface
 
 Collection de destinations nommées.
 
@@ -18,9 +18,9 @@ public interface INamedDestinationCollection
 
 | Nom | Description |
 | --- | --- |
-| [Count](../../aspose.pdf/inameddestinationcollection/count/) { get; } | Renvoie le nombre de destinations. |
+| [Count](../../aspose.pdf/inameddestinationcollection/count/) { get; } | Retourne le nombre de destinations. |
 | [Item](../../aspose.pdf/inameddestinationcollection/item/) { get; set; } | Obtient ou définit la destination par son nom. |
-| [Names](../../aspose.pdf/inameddestinationcollection/names/) { get; } | Obtient un tableau des noms des destinations. |
+| [Names](../../aspose.pdf/inameddestinationcollection/names/) { get; } | Obtient le tableau des noms des destinations. |
 
 ## Méthodes
 
@@ -31,5 +31,7 @@ public interface INamedDestinationCollection
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

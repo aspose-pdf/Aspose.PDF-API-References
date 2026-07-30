@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchemaDescription.XmpPdfAExtensionSchemaDescription
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de XmpPdfAExtensionSchemaDescription. Initialise un nouvel objet
+title: "XmpPdfAExtensionSchemaDescription.XmpPdfAExtensionSchemaDescription"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur XmpPdfAExtensionSchemaDescription. Initialise un nouvel objet"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/xmppdfaextensionschemadescription/xmppdfaextensionschemadescription/
 ---
-## Constructeur de XmpPdfAExtensionSchemaDescription
+## XmpPdfAExtensionSchemaDescription constructor
 
 Initialise un nouvel objet.
 
@@ -16,12 +16,14 @@ public XmpPdfAExtensionSchemaDescription(string prefix, string namespaceURI, str
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| prefix | String | Le préfixe. |
+| préfixe | String | Le préfixe. |
 | namespaceURI | String | L'URI de l'espace de noms. |
-| description | String | La description optionnelle. |
+| description | String | La description facultative. |
 
 ### Voir aussi
 
-* classe [XmpPdfAExtensionSchemaDescription](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpPdfAExtensionSchemaDescription](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

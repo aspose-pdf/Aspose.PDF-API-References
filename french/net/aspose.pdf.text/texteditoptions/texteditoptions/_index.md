@@ -1,14 +1,14 @@
 ---
-title: TextEditOptions.TextEditOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de TextEditOptions. Initialise une nouvelle instance de l'objet TextEditOptions pour le mode de comportement sans caractère spécifié
+title: "TextEditOptions.TextEditOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur TextEditOptions. Initialise une nouvelle instance de l'objet TextEditOptions pour le mode de comportement nocharacter spécifié"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.text/texteditoptions/texteditoptions/
 ---
 ## TextEditOptions(NoCharacterAction) {#constructor_3}
 
-Initialise une nouvelle instance de l'objet [`TextEditOptions`](../) pour le mode de comportement sans caractère spécifié.
+Initialise une nouvelle instance de l'objet [`TextEditOptions`](../) pour le mode de comportement no-character spécifié.
 
 ```csharp
 public TextEditOptions(NoCharacterAction noCharacterBehavior)
@@ -16,7 +16,7 @@ public TextEditOptions(NoCharacterAction noCharacterBehavior)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| noCharacterBehavior | NoCharacterAction | Objet de mode de comportement sans caractère. |
+| noCharacterBehavior | NoCharacterAction | Objet du mode de comportement sans caractère. |
 
 ### Voir aussi
 
@@ -37,7 +37,7 @@ public TextEditOptions(FontReplace fontReplaceBehavior)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| fontReplaceBehavior | FontReplace | Objet de comportement de remplacement de police. |
+| fontReplaceBehavior | FontReplace | Objet du comportement de remplacement de police. |
 
 ### Voir aussi
 
@@ -50,7 +50,7 @@ public TextEditOptions(FontReplace fontReplaceBehavior)
 
 ## TextEditOptions(bool) {#constructor}
 
-Initialise une nouvelle instance de l'objet [`TextEditOptions`](../) pour la permission de transformation de langue spécifiée.
+Initialise une nouvelle instance de l'objet [`TextEditOptions`](../) pour l'autorisation de transformation de langue spécifiée.
 
 ```csharp
 public TextEditOptions(bool allowLanguageTransformation)
@@ -58,7 +58,7 @@ public TextEditOptions(bool allowLanguageTransformation)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| allowLanguageTransformation | Boolean | Permet la transformation de langue si défini sur vrai. |
+| allowLanguageTransformation | Boolean | Autorise la transformation de langue si défini sur true. |
 
 ### Voir aussi
 
@@ -78,7 +78,7 @@ public TextEditOptions(LanguageTransformation languageTransformationBehavior)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| languageTransformationBehavior | LanguageTransformation | Objet de comportement de transformation de langue. |
+| languageTransformationBehavior | LanguageTransformation | Objet du comportement de transformation de langue. |
 
 ### Voir aussi
 
@@ -86,3 +86,5 @@ public TextEditOptions(LanguageTransformation languageTransformationBehavior)
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

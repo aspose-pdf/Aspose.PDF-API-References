@@ -1,14 +1,14 @@
 ---
-title: Class InvalidPdfFileFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.InvalidPdfFileFormatException. L'exception qui est lancée lorsqu'un fichier pdf est invalide
+title: "Classe InvalidPdfFileFormatException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.InvalidPdfFileFormatException class. L'exception qui est levée lorsqu'un fichier pdf est invalide"
 type: docs
-weight: 6020
+weight: 6150
 url: /fr/net/aspose.pdf/invalidpdffileformatexception/
 ---
-## Classe InvalidPdfFileFormatException
+## InvalidPdfFileFormatException class
 
-L'exception qui est lancée lorsqu'un fichier pdf est invalide.
+L'exception qui est levée lorsqu'un fichier pdf est invalide.
 
 ```csharp
 public sealed class InvalidPdfFileFormatException : InvalidFileFormatException
@@ -24,6 +24,8 @@ public sealed class InvalidPdfFileFormatException : InvalidFileFormatException
 
 ### Voir aussi
 
-* classe [InvalidFileFormatException](../invalidfileformatexception/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [InvalidFileFormatException](../invalidfileformatexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+
