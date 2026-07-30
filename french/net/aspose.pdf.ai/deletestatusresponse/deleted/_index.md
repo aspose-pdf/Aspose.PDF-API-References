@@ -1,14 +1,14 @@
 ---
-title: DeleteStatusResponse.Deleted
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété DeleteStatusResponse. Obtient ou définit la valeur qui indique si le fil a été supprimé avec succès
+title: "DeleteStatusResponse.Deleted"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété DeleteStatusResponse. Obtient ou définit la valeur indiquant si le fil a été supprimé avec succès"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.ai/deletestatusresponse/deleted/
 ---
-## Propriété DeleteStatusResponse.Deleted
+## DeleteStatusResponse.Deleted property
 
-Obtient ou définit la valeur qui indique si le fil a été supprimé avec succès.
+Obtient ou définit la valeur qui indique si le thread a été supprimé avec succès.
 
 ```csharp
 public bool Deleted { get; set; }
@@ -16,6 +16,8 @@ public bool Deleted { get; set; }
 
 ### Voir aussi
 
-* classe [DeleteStatusResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [DeleteStatusResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

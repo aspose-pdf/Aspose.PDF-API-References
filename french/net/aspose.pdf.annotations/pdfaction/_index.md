@@ -1,12 +1,12 @@
 ---
-title: Class PdfAction
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.PdfAction. Représente une action dans un document PDF
+title: "Classe PdfAction"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.PdfAction class. Représente une Action dans un document PDF"
 type: docs
-weight: 2270
+weight: 2360
 url: /fr/net/aspose.pdf.annotations/pdfaction/
 ---
-## Classe PdfAction
+## PdfAction class
 
 Représente une action dans un document PDF
 
@@ -31,3 +31,5 @@ public abstract class PdfAction : IAppointment
 * interface [IAppointment](../iappointment/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

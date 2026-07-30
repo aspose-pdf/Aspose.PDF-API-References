@@ -1,14 +1,14 @@
 ---
-title: Class RegexManager
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.RegexManager. Fournit un wrapper pour les opérations d'expressions régulières avec des paramètres de délai d'attente configurables
+title: "Classe RegexManager"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.RegexManager. Fournit un wrapper pour les opérations d'expression régulière avec des paramètres de délai d'attente configurables"
 type: docs
 weight: 8680
 url: /fr/net/aspose.pdf/regexmanager/
 ---
-## Classe RegexManager
+## RegexManager class
 
-Fournit un wrapper pour les opérations d'expressions régulières avec des paramètres de délai d'attente configurables.
+Fournit un wrapper pour les opérations d'expression régulière avec des paramètres de délai d'attente configurables.
 
 ```csharp
 public static class RegexManager
@@ -24,3 +24,5 @@ public static class RegexManager
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: FormEditor.FormEditor
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de FormEditor. Constructeur pour FormEditor
+title: "FormEditor.FormEditor"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur FormEditor. Constructeur pour FormEditor"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.facades/formeditor/formeditor/
@@ -22,8 +22,8 @@ FormEditor formEditor = new FormEditor();
 
 ### Voir aussi
 
-* classe [FormEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -42,7 +42,9 @@ public FormEditor(Document document)
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [FormEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Document](../../../aspose.pdf/document/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

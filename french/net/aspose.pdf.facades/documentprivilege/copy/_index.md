@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.Copy
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété DocumentPrivilege. Permet de copier le fichier
+title: "DocumentPrivilege.Copy"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété DocumentPrivilege. Autorise la copie du fichier"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.facades/documentprivilege/copy/
 ---
-## Propriété DocumentPrivilege.Copy
+## DocumentPrivilege.Copy property
 
-Permet de copier le fichier.
+Autorise la copie du fichier.
 
 ```csharp
 public static DocumentPrivilege Copy { get; }
@@ -16,6 +16,8 @@ public static DocumentPrivilege Copy { get; }
 
 ### Voir aussi
 
-* classe [DocumentPrivilege](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

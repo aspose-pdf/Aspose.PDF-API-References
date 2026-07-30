@@ -1,14 +1,14 @@
 ---
-title: StructureTextState.Subscript
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété StructureTextState. Obtient ou définit l'indice inférieur du texte
+title: "StructureTextState.Subscript"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété StructureTextState. Obtient ou définit l'indice du texte"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.logicalstructure/structuretextstate/subscript/
 ---
-## Propriété StructureTextState.Subscript
+## StructureTextState.Subscript property
 
-Obtient ou définit l'indice inférieur du texte.
+Obtient ou définit le texte en indice.
 
 ```csharp
 public bool? Subscript { get; set; }
@@ -20,6 +20,8 @@ Peut être nul. Utilisez null pour hériter de la propriété `Subscript` de l'�
 
 ### Voir aussi
 
-* classe [StructureTextState](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

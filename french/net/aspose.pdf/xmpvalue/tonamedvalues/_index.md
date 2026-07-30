@@ -1,14 +1,14 @@
 ---
-title: XmpValue.ToNamedValues
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XmpValue. Renvoie la valeur XMP sous forme de collection de valeurs nommées
+title: "XmpValue.ToNamedValues"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XmpValue. Retourne la valeur XMP sous forme de collection de valeurs nommées"
 type: docs
 weight: 190
 url: /fr/net/aspose.pdf/xmpvalue/tonamedvalues/
 ---
-## Méthode XmpValue.ToNamedValues
+## XmpValue.ToNamedValues method
 
-Renvoie la valeur XMP sous forme de collection de valeurs nommées.
+Renvoie la valeur XMP en tant que collection de valeurs nommées.
 
 ```csharp
 public KeyValuePair<string, XmpValue>[] ToNamedValues()
@@ -16,10 +16,12 @@ public KeyValuePair<string, XmpValue>[] ToNamedValues()
 
 ### Valeur de retour
 
-Valeur de collection nommée.
+Valeur de la collection nommée.
 
 ### Voir aussi
 
-* classe [XmpValue](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

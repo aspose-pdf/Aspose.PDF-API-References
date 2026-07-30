@@ -1,12 +1,12 @@
 ---
-title: PolyAnnotation.Measure
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PolyAnnotation. Unités de mesure spécifiées pour cette annotation
+title: "PolyAnnotation.Measure"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PolyAnnotation. Unités de mesure spécifiées pour cette annotation"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.annotations/polyannotation/measure/
 ---
-## Propriété PolyAnnotation.Measure
+## PolyAnnotation.Measure property
 
 Unités de mesure spécifiées pour cette annotation.
 
@@ -16,7 +16,9 @@ public Measure Measure { get; set; }
 
 ### Voir aussi
 
-* classe [Measure](../../measure/)
-* classe [PolyAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Measure](../../measure/)
+* class [PolyAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

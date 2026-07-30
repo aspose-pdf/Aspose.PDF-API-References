@@ -1,12 +1,12 @@
 ---
-title: ActionCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ActionCollection. Renvoie vrai si la collection est en lecture seule
+title: "ActionCollection.IsReadOnly"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ActionCollection. Retourne true si la collection est en lecture seule"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.annotations/actioncollection/isreadonly/
 ---
-## Propriété ActionCollection.IsReadOnly
+## ActionCollection.IsReadOnly property
 
 Renvoie vrai si la collection est en lecture seule.
 
@@ -16,6 +16,8 @@ public bool IsReadOnly { get; }
 
 ### Voir aussi
 
-* classe [ActionCollection](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [ActionCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

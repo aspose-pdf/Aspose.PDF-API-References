@@ -1,14 +1,14 @@
 ---
-title: OutlineItemCollection.Open
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OutlineItemCollection. Obtient ou définit le statut ouvert vrai/faux pour l'élément de plan
+title: "OutlineItemCollection.Open"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OutlineItemCollection propriété. Obtient ou définit le statut ouvert vrai/faux pour l'élément de plan"
 type: docs
 weight: 160
 url: /fr/net/aspose.pdf/outlineitemcollection/open/
 ---
-## Propriété OutlineItemCollection.Open
+## OutlineItemCollection.Open property
 
-Obtient ou définit le statut ouvert (vrai/faux) pour l'élément de plan.
+Obtient ou définit le statut d'ouverture (true/false) pour l'élément de plan.
 
 ```csharp
 public bool Open { get; set; }
@@ -16,6 +16,8 @@ public bool Open { get; set; }
 
 ### Voir aussi
 
-* classe [OutlineItemCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutlineItemCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

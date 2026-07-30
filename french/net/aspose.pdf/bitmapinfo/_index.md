@@ -1,14 +1,14 @@
 ---
-title: Class BitmapInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.BitmapInfo. Objet contenant un tableau de pixels et des informations sur le bitmap
+title: "Classe BitmapInfo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.BitmapInfo class. Objet contenant un tableau de pixels et des informations de bitmap"
 type: docs
-weight: 2860
+weight: 2970
 url: /fr/net/aspose.pdf/bitmapinfo/
 ---
-## Classe BitmapInfo
+## BitmapInfo class
 
-Objet contenant un tableau de pixels et des informations sur le bitmap.
+Objet contenant un tableau de pixels et des informations bitmap.
 
 ```csharp
 public class BitmapInfo
@@ -31,5 +31,7 @@ public class BitmapInfo
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

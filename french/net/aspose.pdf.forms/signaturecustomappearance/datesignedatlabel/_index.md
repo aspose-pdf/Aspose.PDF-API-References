@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.DateSignedAtLabel
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SignatureCustomAppearance. Obtient/définit l'étiquette de date signée. Valeur par défaut Date
+title: "SignatureCustomAppearance.DateSignedAtLabel"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété SignatureCustomAppearance. Obtient/Définit l'étiquette de date de signature. Valeur par défaut Date"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.forms/signaturecustomappearance/datesignedatlabel/
 ---
-## Propriété SignatureCustomAppearance.DateSignedAtLabel
+## SignatureCustomAppearance.DateSignedAtLabel property
 
-Obtient/définit l'étiquette de date signée. Valeur par défaut : "Date".
+Obtient/definit l'étiquette de date signée. Valeur par défaut: "Date".
 
 ```csharp
 public string DateSignedAtLabel { get; set; }
@@ -16,6 +16,8 @@ public string DateSignedAtLabel { get; set; }
 
 ### Voir aussi
 
-* classe [SignatureCustomAppearance](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [SignatureCustomAppearance](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

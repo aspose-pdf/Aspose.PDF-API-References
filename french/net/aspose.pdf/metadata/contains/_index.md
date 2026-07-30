@@ -1,7 +1,7 @@
 ---
-title: Metadata.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Metadata. Vérifie si la clé est contenue dans les métadonnées
+title: "Metadata.Contains"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Metadata. Vérifie si la clé est contenue dans les métadonnées"
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf/metadata/contains/
@@ -16,7 +16,7 @@ public bool Contains(string key)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| key | String | La clé de l'entrée à trouver. |
+| clé | String | La clé de l'entrée à rechercher. |
 
 ### Valeur de retour
 
@@ -24,8 +24,8 @@ Vrai si la clé est contenue dans les métadonnées.
 
 ### Voir aussi
 
-* classe [Metadata](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -44,11 +44,13 @@ public bool Contains(KeyValuePair<string, XmpValue> item)
 
 ### Valeur de retour
 
-vrai si cette paire a été trouvée.
+true si cette paire a été trouvée.
 
 ### Voir aussi
 
-* classe [XmpValue](../../xmpvalue/)
-* classe [Metadata](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpValue](../../xmpvalue/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

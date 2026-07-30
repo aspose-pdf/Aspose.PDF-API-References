@@ -1,14 +1,14 @@
 ---
-title: UnifiedSaveOptions.ProgressEventHandlerInfo.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Champ ProgressEventHandlerInfo. Valeur actuelle de la valeur de progression
+title: "UnifiedSaveOptions.ProgressEventHandlerInfo.Value"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ ProgressEventHandlerInfo. Valeur actuelle de la progression."
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/value/
 ---
-## Champ UnifiedSaveOptions.ProgressEventHandlerInfo.Value
+## UnifiedSaveOptions.ProgressEventHandlerInfo.Value field
 
-Valeur actuelle de la valeur de progression.
+Valeur actuelle de la progression.
 
 ```csharp
 public int Value;
@@ -16,6 +16,8 @@ public int Value;
 
 ### Voir aussi
 
-* classe [ProgressEventHandlerInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [ProgressEventHandlerInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: MessageCreation.MessageCreation
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de MessageCreation. Le constructeur par défaut
+title: "MessageCreation.MessageCreation"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "MessageCreation constructeur. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/messagecreation/messagecreation/
 ---
-## Constructeur de MessageCreation
+## MessageCreation constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public MessageCreation()
 
 ### Voir aussi
 
-* classe [MessageCreation](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [MessageCreation](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

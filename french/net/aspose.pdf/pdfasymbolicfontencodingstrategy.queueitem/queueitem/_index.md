@@ -1,14 +1,14 @@
 ---
-title: PdfASymbolicFontEncodingStrategy.QueueItem.QueueItem
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur QueueItem. Le constructeur spécifie par défaut la sous-table mac 10
+title: "PdfASymbolicFontEncodingStrategy.QueueItem.QueueItem"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur QueueItem. Le constructeur spécifie mac subtable10 par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/pdfasymbolicfontencodingstrategy.queueitem/queueitem/
 ---
 ## QueueItem() {#constructor}
 
-Constructeur, spécifie par défaut la sous-table mac (1,0)
+Constructeur, spécifie la sous-table mac (1,0) par défaut
 
 ```csharp
 public QueueItem()
@@ -16,8 +16,8 @@ public QueueItem()
 
 ### Voir aussi
 
-* classe [QueueItem](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [QueueItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -32,13 +32,13 @@ public QueueItem(ushort platformID, ushort platformSpecificID)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| platformID | UInt16 | Identifiant de la plateforme pour la sous-table d'encodage |
+| platformID | UInt16 | Identifiant de plateforme pour la sous-table d'encodage |
 | platformSpecificID | UInt16 | Identifiant d'encodage spécifique à la plateforme pour la sous-table d'encodage |
 
 ### Voir aussi
 
-* classe [QueueItem](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [QueueItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -58,6 +58,8 @@ public QueueItem(CMapEncodingTableType cmapTable)
 ### Voir aussi
 
 * enum [CMapEncodingTableType](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/)
-* classe [QueueItem](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [QueueItem](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

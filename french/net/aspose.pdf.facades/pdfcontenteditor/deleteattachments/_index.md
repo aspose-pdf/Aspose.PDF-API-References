@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.DeleteAttachments
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfContentEditor. Supprime toutes les pièces jointes dans le document PDF
+title: "PdfContentEditor.DeleteAttachments"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfContentEditor. Supprime toutes les pièces jointes du document PDF"
 type: docs
 weight: 310
 url: /fr/net/aspose.pdf.facades/pdfcontenteditor/deleteattachments/
 ---
-## Méthode PdfContentEditor.DeleteAttachments
+## PdfContentEditor.DeleteAttachments method
 
 Supprime toutes les pièces jointes dans le document PDF.
 
@@ -25,6 +25,8 @@ editor.Save("example_out.pdf");
 
 ### Voir aussi
 
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

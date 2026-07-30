@@ -1,12 +1,12 @@
 ---
-title: CurveTo.Y3
-second_title: Aspose.PDF for .NET API Reference
-description: Champ CurveTo. Obtient ou définit la coordonnée Y3
+title: "CurveTo.Y3"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ CurveTo. Obtient ou définit la coordonnée Y3"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.operators/curveto/y3/
 ---
-## Champ CurveTo.Y3
+## CurveTo.Y3 field
 
 Obtient ou définit la coordonnée Y3.
 
@@ -16,6 +16,8 @@ public double Y3;
 
 ### Voir aussi
 
-* classe [CurveTo](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [CurveTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

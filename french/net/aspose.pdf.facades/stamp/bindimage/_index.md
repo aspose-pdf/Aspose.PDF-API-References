@@ -1,14 +1,14 @@
 ---
-title: Stamp.BindImage
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Stamp. Définit l'image comme un tampon
+title: "Stamp.BindImage"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Stamp. Définit l'image comme un tampon"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.facades/stamp/bindimage/
 ---
 ## BindImage(string) {#bindimage_1}
 
-Définit l'image comme un tampon.
+Définit l'image comme tampon.
 
 ```csharp
 public void BindImage(string imageFile)
@@ -30,8 +30,8 @@ fileStamp.Close();
 
 ### Voir aussi
 
-* classe [Stamp](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -46,10 +46,12 @@ public void BindImage(Stream image)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| image | Stream | Flux qui contient les données de l'image. |
+| image | Stream | Flux contenant les données de l'image. |
 
 ### Voir aussi
 
-* classe [Stamp](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

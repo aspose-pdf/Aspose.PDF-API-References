@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.StrikeOut
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextFragmentState. Obtient ou définit le barré pour le texte représenté par l'objet TextFragment
+title: "TextFragmentState.StrikeOut"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextFragmentState. Obtient ou définit le texte barré du texte représenté par l'objet TextFragment"
 type: docs
 weight: 170
 url: /fr/net/aspose.pdf.text/textfragmentstate/strikeout/
 ---
-## Propriété TextFragmentState.StrikeOut
+## TextFragmentState.StrikeOut property
 
-Obtient ou définit le barré pour le texte, représenté par l'objet [`TextFragment`](../../textfragment/)
+Obtient ou définit le texte barré du texte, représenté par l'objet [`TextFragment`](../../textfragment/).
 
 ```csharp
 public override bool StrikeOut { get; set; }
@@ -16,6 +16,8 @@ public override bool StrikeOut { get; set; }
 
 ### Voir aussi
 
-* classe [TextFragmentState](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

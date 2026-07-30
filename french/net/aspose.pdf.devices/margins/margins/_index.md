@@ -1,7 +1,7 @@
 ---
-title: Margins.Margins
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur Margins. Initialise une nouvelle instance de la classe Margins
+title: "Margins.Margins"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur Margins. Initialise une nouvelle instance de la classe Margins"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.devices/margins/margins/
@@ -16,15 +16,15 @@ public Margins(int left, int right, int top, int bottom)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| left | Int32 | La coordonnée gauche. |
-| right | Int32 | La coordonnée droite. |
-| top | Int32 | La coordonnée supérieure. |
-| bottom | Int32 | La coordonnée inférieure. |
+| gauche | Int32 | La coordonnée gauche. |
+| droite | Int32 | La coordonnée droite. |
+| haut | Int32 | La coordonnée supérieure. |
+| bas | Int32 | La coordonnée inférieure. |
 
 ### Voir aussi
 
-* classe [Margins](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -39,6 +39,8 @@ public Margins()
 
 ### Voir aussi
 
-* classe [Margins](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [Margins](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

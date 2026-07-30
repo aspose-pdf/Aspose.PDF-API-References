@@ -1,7 +1,7 @@
 ---
-title: ChoiceField.AddOption
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ChoiceField. Ajoute une nouvelle option avec le nom spécifié
+title: "ChoiceField.AddOption"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode ChoiceField. Ajoute une nouvelle option avec le nom spécifié"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.forms/choicefield/addoption/
@@ -20,15 +20,15 @@ public virtual void AddOption(string optionName)
 
 ### Voir aussi
 
-* classe [ChoiceField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [ChoiceField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddOption(string, string) {#addoption_1}
 
-Ajoute une nouvelle option avec la valeur d'exportation spécifiée et le nom.
+Ajoute une nouvelle option avec la valeur d'exportation et le nom spécifiés.
 
 ```csharp
 public virtual void AddOption(string export, string name)
@@ -36,11 +36,13 @@ public virtual void AddOption(string export, string name)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| export | String | Valeur d'exportation. |
-| name | String | Nom de la nouvelle option. |
+| exporter | String | Valeur d'exportation. |
+| nom | String | Nom de la nouvelle option. |
 
 ### Voir aussi
 
-* classe [ChoiceField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [ChoiceField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.B4
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSizes. Papier B4 250 mm par 353 mm
+title: "PaperSizes.B4"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PaperSizes champ. B4 papier 250 mm par 353 mm"
 type: docs
 weight: 200
 url: /fr/net/aspose.pdf.printing/papersizes/b4/
 ---
-## Champ PaperSizes.B4
+## PaperSizes.B4 field
 
-Papier B4 (250 mm par 353 mm).
+Papier B4 (250 mm x 353 mm).
 
 ```csharp
 public static readonly PaperSize B4;
@@ -16,7 +16,9 @@ public static readonly PaperSize B4;
 
 ### Voir aussi
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

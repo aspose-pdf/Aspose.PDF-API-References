@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OperatorCollection. Renvoie vrai si la collection contient l'opérateur donné
+title: "OperatorCollection.Contains"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode OperatorCollection. Retourne true si la collection contient l'opérateur donné"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf/operatorcollection/contains/
 ---
-## Méthode OperatorCollection.Contains
+## OperatorCollection.Contains method
 
-Renvoie vrai si la collection contient l'opérateur donné.
+Renvoie true si la collection contient l’opérateur donné.
 
 ```csharp
 public override bool Contains(Operator op)
@@ -20,11 +20,13 @@ public override bool Contains(Operator op)
 
 ### Valeur de retour
 
-Vrai - si l'opérateur est trouvé ; sinon, faux.
+True - si l'opérateur est trouvé ; sinon, false.
 
 ### Voir aussi
 
-* classe [Operator](../../operator/)
-* classe [OperatorCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

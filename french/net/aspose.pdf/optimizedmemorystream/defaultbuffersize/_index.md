@@ -1,12 +1,12 @@
 ---
-title: OptimizedMemoryStream.DefaultBufferSize
-second_title: Aspose.PDF for .NET API Reference
-description: Champ OptimizedMemoryStream. Valeur par défaut de la taille du tampon en octets
+title: "OptimizedMemoryStream.DefaultBufferSize"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OptimizedMemoryStream field. Valeur de la taille du tampon par défaut en octets"
 type: docs
 weight: 180
 url: /fr/net/aspose.pdf/optimizedmemorystream/defaultbuffersize/
 ---
-## Champ OptimizedMemoryStream.DefaultBufferSize
+## OptimizedMemoryStream.DefaultBufferSize field
 
 Valeur par défaut de la taille du tampon en octets.
 
@@ -16,6 +16,8 @@ public const int DefaultBufferSize;
 
 ### Voir aussi
 
-* classe [OptimizedMemoryStream](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

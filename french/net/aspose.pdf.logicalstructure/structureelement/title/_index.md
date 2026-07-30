@@ -1,25 +1,27 @@
 ---
-title: StructureElement.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété StructureElement. Obtient ou définit le titre de l'élément de structure
+title: "StructureElement.Title"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété StructureElement. Obtient ou définit le titre pour l'élément de structure."
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.logicalstructure/structureelement/title/
 ---
-## Propriété StructureElement.Title
+## StructureElement.Title property
 
-Obtient ou définit le titre de l'élément de structure.
+Obtient ou définit le titre de l’élément de structure.
 
 ```csharp
 public string Title { get; set; }
 ```
 
-### Valeur de la Propriété
+### Property Value
 
 Titre de l'élément de structure.
 
-### Voir Aussi
+### Voir aussi
 
-* classe [StructureElement](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

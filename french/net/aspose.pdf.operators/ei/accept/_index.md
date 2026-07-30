@@ -1,14 +1,14 @@
 ---
-title: EI.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode EI. Accepte l'objet visiteur pour traiter l'opérateur
+title: "EI.Accept"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "EI méthode. Accepte l'objet visiteur pour traiter l'opérateur"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.operators/ei/accept/
 ---
-## Méthode EI.Accept
+## EI.Accept method
 
-Accepte l'objet visiteur pour traiter l'opérateur.
+Accepte un objet visiteur pour traiter l'opérateur.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
@@ -24,3 +24,5 @@ public override void Accept(IOperatorSelector visitor)
 * class [EI](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

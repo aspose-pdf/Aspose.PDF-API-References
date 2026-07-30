@@ -1,7 +1,7 @@
 ---
-title: PdfFileEditor.MakeBooklet
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfFileEditor. Crée un livret à partir du fichier d'entrée vers le fichier de sortie
+title: "PdfFileEditor.MakeBooklet"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfFileEditor. Crée un livret à partir du fichier d'entrée vers le fichier de sortie"
 type: docs
 weight: 300
 url: /fr/net/aspose.pdf.facades/pdffileeditor/makebooklet/
@@ -21,7 +21,7 @@ public bool MakeBooklet(string inputFile, string outputFile)
 
 ### Valeur de retour
 
-boolean - Vrai pour le succès, ou faux.
+booléen - True en cas de succès, ou false.
 
 ## Exemples
 
@@ -49,7 +49,7 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | inputStream | Stream | Flux pdf d'entrée. |
-| outputStream | Stream | flux pdf de sortie. |
+| outputStream | Stream | Flux pdf de sortie. |
 
 ### Valeur de retour
 
@@ -74,7 +74,7 @@ pfe.MakeBooklet(inputStream, outputStream);
 
 ## MakeBooklet(string, string, PageSize) {#makebooklet_5}
 
-Crée un livret à partir du inputFile vers le outputFile.
+Crée un livret à partir de l'inputFile vers l'outputFile.
 
 ```csharp
 public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize)
@@ -88,7 +88,7 @@ public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize)
 
 ### Valeur de retour
 
-Vrai si l'opération a réussi.
+True si l'opération a réussi.
 
 ## Exemples
 
@@ -117,7 +117,7 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSi
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | inputStream | Stream | Flux PDF d'entrée. |
-| outputStream | Stream | flux pdf de sortie. |
+| outputStream | Stream | Flux pdf de sortie. |
 | pageSize | PageSize | La taille de page du fichier pdf de sortie. |
 
 ### Valeur de retour
@@ -144,7 +144,7 @@ pfe.MakeBooklet(inputStream, outputStream, PageSize.A4);
 
 ## MakeBooklet(string, string, int[], int[]) {#makebooklet_7}
 
-Crée un livret personnalisé à partir du firstInputFile vers le outputFile.
+Crée un livret personnalisé à partir du firstInputFile vers l'outputFile.
 
 ```csharp
 public bool MakeBooklet(string inputFile, string outputFile, int[] leftPages, int[] rightPages)
@@ -159,7 +159,7 @@ public bool MakeBooklet(string inputFile, string outputFile, int[] leftPages, in
 
 ### Valeur de retour
 
-boolean - Vrai pour le succès, ou faux.
+booléen - True en cas de succès, ou false.
 
 ## Exemples
 
@@ -178,7 +178,7 @@ pfe.MakeBooklet("input.pdf", "output.pdf", new int[] { 2, 4, 6 }, new int[] 1, 3
 
 ## MakeBooklet(Stream, Stream, int[], int[]) {#makebooklet_3}
 
-Crée un livret personnalisé à partir du firstInputStream vers le outputStream.
+Crée un livret personnalisé à partir du firstInputStream vers l'outputStream.
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, Stream outputStream, int[] leftPages, int[] rightPages)
@@ -187,13 +187,13 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream, int[] leftPages
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | inputStream | Stream | Le flux d'entrée. |
-| outputStream | Stream | flux pdf de sortie. |
+| outputStream | Stream | Flux pdf de sortie. |
 | leftPages | Int32[] | Les pages de gauche. |
 | rightPages | Int32[] | Les pages de droite. |
 
 ### Valeur de retour
 
-boolean - Vrai pour le succès, ou faux.
+booléen - True en cas de succès, ou false.
 
 ## Exemples
 
@@ -214,7 +214,7 @@ pfe.MakeBooklet(inputStream, outputStream, new int[] { 2, 4, 6 }, new int[] 1, 3
 
 ## MakeBooklet(string, string, PageSize, int[], int[]) {#makebooklet_6}
 
-Crée un livret personnalisé à partir du firstInputFile vers le outputFile.
+Crée un livret personnalisé à partir du firstInputFile vers l'outputFile.
 
 ```csharp
 public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize, int[] leftPages, 
@@ -231,7 +231,7 @@ public bool MakeBooklet(string inputFile, string outputFile, PageSize pageSize, 
 
 ### Valeur de retour
 
-boolean - Vrai pour le succès, ou faux.
+booléen - True en cas de succès, ou false.
 
 ## Exemples
 
@@ -251,7 +251,7 @@ pfe.MakeBooklet("input.pdf", "output.pdf", PageSize.A4, new int[] { 2, 4, 6 }, n
 
 ## MakeBooklet(Stream, Stream, PageSize, int[], int[]) {#makebooklet_2}
 
-Crée un livret à partir du firstInputStream vers le outputStream.
+Crée un livret à partir du firstInputStream vers l'outputStream.
 
 ```csharp
 public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSize, 
@@ -261,14 +261,14 @@ public bool MakeBooklet(Stream inputStream, Stream outputStream, PageSize pageSi
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | inputStream | Stream | Le flux d'entrée. |
-| outputStream | Stream | flux pdf de sortie. |
+| outputStream | Stream | Flux pdf de sortie. |
 | pageSize | PageSize | La taille de page du fichier pdf de sortie. |
 | leftPages | Int32[] | Les pages de gauche. |
 | rightPages | Int32[] | Les pages de droite. |
 
 ### Valeur de retour
 
-boolean - Vrai pour le succès, ou faux.
+booléen - True en cas de succès, ou false.
 
 ## Exemples
 
@@ -287,114 +287,3 @@ pfe.MakeBooklet(inputStream, outputStream, PageSize.A4, new int[] { 2, 4, 6 }, n
 * assembly [Aspose.PDF](../../../)
 
 
-## MakeBooklet(string, PageSize, int[], int[], HttpResponse) {#makebooklet_6}
-
-Crée un livret à partir du fichier source et stocke le résultat dans des objets HttpResponse.
-
-```csharp
-public bool MakeBooklet(string inputFile, PageSize pageSize, int[] leftPages, int[] rightPages, 
-    HttpResponse response)
-```
-
-| Paramètre | Type | Description |
-| --- | --- | --- |
-| inputFile | String | Chemin du fichier source. |
-| pageSize | PageSize | Taille de page souhaitée. |
-| leftPages | Int32[] | Tableau des numéros de page à placer à gauche. |
-| rightPages | Int32[] | Tableau des numéros de page à placer à droite. |
-| response | HttpResponse | Objet HttpResponse où le résultat sera stocké. |
-
-### Valeur de retour
-
-Vrai si l'opération a réussi.
-
-### Voir aussi
-
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## MakeBooklet(Stream, PageSize, int[], int[], HttpResponse) {#makebooklet}
-
-Crée un livret à partir du fichier PDF et le stocke dans HttpResponse.
-
-```csharp
-public bool MakeBooklet(Stream inputStream, PageSize pageSize, int[] leftPages, int[] rightPages, 
-    HttpResponse response)
-```
-
-| Paramètre | Type | Description |
-| --- | --- | --- |
-| inputStream | Stream | Flux de document d'entrée. |
-| pageSize | PageSize | Taille de page souhaitée. |
-| leftPages | Int32[] | Tableau des numéros de page qui seront placés à gauche. |
-| rightPages | Int32[] | Tableau des numéros de page qui seront placés à droite. |
-| response | HttpResponse | Objet HttpResponse. |
-
-### Valeur de retour
-
-Vrai si l'opération a réussi.
-
-### Voir aussi
-
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## MakeBooklet(string, PageSize, HttpResponse) {#makebooklet_7}
-
-Crée un livret à partir du fichier source et stocke le résultat dans des objets HttpResponse.
-
-```csharp
-public bool MakeBooklet(string inputFile, PageSize pageSize, HttpResponse response)
-```
-
-| Paramètre | Type | Description |
-| --- | --- | --- |
-| inputFile | String | Chemin du fichier source. |
-| pageSize | PageSize | Taille de page souhaitée dans le fichier de sortie. |
-| response | HttpResponse | Objet HttpResponse où le résultat sera stocké. |
-
-### Valeur de retour
-
-Vrai si l'opération a réussi.
-
-### Voir aussi
-
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## MakeBooklet(Stream, PageSize, HttpResponse) {#makebooklet_1}
-
-Crée un livret à partir du fichier source et stocke le résultat dans HttpResponse.
-
-```csharp
-public bool MakeBooklet(Stream inputStream, PageSize pageSize, HttpResponse response)
-```
-
-| Paramètre | Type | Description |
-| --- | --- | --- |
-| inputStream | Stream | Flux de document d'entrée. |
-| pageSize | PageSize | Taille de page souhaitée dans le fichier de sortie. |
-| response | HttpResponse | Objet Respose où le résultat sera enregistré. |
-
-### Valeur de retour
-
-vrai si le livret a été construit avec succès.
-
-### Voir aussi
-
-* class [PageSize](../../../aspose.pdf/pagesize/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)

@@ -1,12 +1,12 @@
 ---
-title: Stamp.ZoomX
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Stamp. Facteur de zoom horizontal du tampon. Permet de mettre à l'échelle le tampon horizontalement
+title: "Stamp.ZoomX"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Stamp. Facteur de zoom horizontal du tampon. Permet de redimensionner le tampon horizontalement"
 type: docs
 weight: 180
 url: /fr/net/aspose.pdf/stamp/zoomx/
 ---
-## Propriété Stamp.ZoomX
+## Stamp.ZoomX property
 
 Facteur de zoom horizontal du tampon. Permet de mettre à l'échelle le tampon horizontalement.
 
@@ -16,6 +16,8 @@ public double ZoomX { get; set; }
 
 ### Voir aussi
 
-* classe [Stamp](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

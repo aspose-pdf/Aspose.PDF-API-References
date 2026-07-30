@@ -1,14 +1,14 @@
 ---
-title: OutlineCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OutlineCollection. Obtient un élément de plan de la collection par index
+title: "OutlineCollection.Item"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OutlineCollection property. Obtient un élément de plan de la collection par indice"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf/outlinecollection/item/
 ---
-## Indexeur OutlineCollection
+## OutlineCollection indexer
 
-Obtient un élément de plan de la collection par index.
+Obtient un élément de plan de la collection par indice.
 
 ```csharp
 public OutlineItemCollection this[int index] { get; }
@@ -16,11 +16,13 @@ public OutlineItemCollection this[int index] { get; }
 
 | Paramètre | Description |
 | --- | --- |
-| index | Index de l'élément demandé. |
+| index | Indice de l'élément demandé. |
 
 ### Voir aussi
 
-* classe [OutlineItemCollection](../../outlineitemcollection/)
-* classe [OutlineCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: INamedDestinationCollection.Names
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété INamedDestinationCollection. Obtient un tableau de noms des destinations
+title: "INamedDestinationCollection.Names"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété INamedDestinationCollection. Obtient le tableau des noms des destinations"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/inameddestinationcollection/names/
 ---
-## Propriété INamedDestinationCollection.Names
+## INamedDestinationCollection.Names property
 
-Obtient un tableau de noms des destinations.
+Obtient le tableau des noms des destinations.
 
 ```csharp
 public string[] Names { get; }
@@ -19,3 +19,5 @@ public string[] Names { get; }
 * interface [INamedDestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

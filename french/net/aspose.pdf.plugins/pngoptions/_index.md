@@ -1,14 +1,14 @@
 ---
-title: Class PngOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.PngOptions. Représente les options de convertisseur Pdf en Png pour le plugin Png
+title: "Classe PngOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Plugins.PngOptions classe. Représente les options du convertisseur Pdf vers Png pour le plugin Png"
 type: docs
-weight: 9180
+weight: 9330
 url: /fr/net/aspose.pdf.plugins/pngoptions/
 ---
-## Classe PngOptions
+## PngOptions class
 
-Représente les options de convertisseur Pdf en Png pour le [`Png`](../png/) plugin.
+Représente les options du convertisseur Pdf vers Png pour le plugin [`Png`](../png/).
 
 ```csharp
 public sealed class PngOptions : PdfToImageOptions
@@ -36,10 +36,12 @@ public sealed class PngOptions : PdfToImageOptions
 | Nom | Description |
 | --- | --- |
 | [AddInput](../../aspose.pdf.plugins/pdftoimageoptions/addinput/)(IDataSource) | Ajoute une nouvelle source de données à la collection de données du plugin [`PdfToImage`](../pdftoimage/). |
-| [AddOutput](../../aspose.pdf.plugins/pdftoimageoptions/addoutput/)(IDataSource) | Définit une nouvelle source de données de sauvegarde. Peut seulement être un . Si vous souhaitez sauvegarder des images dans des flux mémoire, passez null comme paramètre. |
+| [AddOutput](../../aspose.pdf.plugins/pdftoimageoptions/addoutput/)(IDataSource) | Définit une nouvelle source de données d'enregistrement. Ne peut être qu'un . Si vous voulez enregistrer les images dans des flux mémoire, passez null comme paramètre. |
 
 ### Voir aussi
 
-* classe [PdfToImageOptions](../pdftoimageoptions/)
-* espace de noms [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* class [PdfToImageOptions](../pdftoimageoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

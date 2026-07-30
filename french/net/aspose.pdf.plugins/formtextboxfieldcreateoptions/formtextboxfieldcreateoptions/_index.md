@@ -1,14 +1,14 @@
 ---
-title: FormTextBoxFieldCreateOptions.FormTextBoxFieldCreateOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de FormTextBoxFieldCreateOptions. Initialise une nouvelle instance de l'objet FormTextBoxFieldCreateOptions contenant des paramètres pour le TextBoxField créé et ajouté.
+title: "FormTextBoxFieldCreateOptions.FormTextBoxFieldCreateOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur FormTextBoxFieldCreateOptions. Initialise une nouvelle instance de l'objet FormTextBoxFieldCreateOptions contenant les paramètres pour le TextBoxField créé et ajouté."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.plugins/formtextboxfieldcreateoptions/formtextboxfieldcreateoptions/
 ---
-## Constructeur de FormTextBoxFieldCreateOptions
+## FormTextBoxFieldCreateOptions constructor
 
-Initialise une nouvelle instance de l'objet [`FormTextBoxFieldCreateOptions`](../), contenant des paramètres pour le TextBoxField créé et ajouté.
+Initialise une nouvelle instance de l'objet [`FormTextBoxFieldCreateOptions`](../) contenant les paramètres pour le TextBoxField créé et ajouté.
 
 ```csharp
 public FormTextBoxFieldCreateOptions(int pageNum, Rectangle rect)
@@ -21,7 +21,9 @@ public FormTextBoxFieldCreateOptions(int pageNum, Rectangle rect)
 
 ### Voir aussi
 
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [FormTextBoxFieldCreateOptions](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [FormTextBoxFieldCreateOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

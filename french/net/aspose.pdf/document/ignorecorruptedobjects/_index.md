@@ -1,14 +1,14 @@
 ---
-title: Document.IgnoreCorruptedObjects
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété du document. Obtient ou définit le drapeau d'ignorance des erreurs dans les fichiers source. Lorsque des pages du document source sont copiées dans le document de destination, le processus de copie est arrêté avec une exception si certains objets dans les fichiers source sont corrompus lorsque ce drapeau est faux. Si ce drapeau est défini sur vrai, alors les objets corrompus seront remplacés par des valeurs vides. Par défaut  vrai
+title: "Document.IgnoreCorruptedObjects"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Document. Obtient ou définit le drapeau d'ignorance des erreurs dans les fichiers source. Lorsque les pages du document source sont copiées dans le document de destination, le processus de copie s'arrête avec une exception si certains objets des fichiers source sont corrompus lorsque ce drapeau est faux. exemple dest.Pages.Addsrc.Pages Si ce drapeau est vrai, les objets corrompus seront remplacés par des valeurs vides. Vrai par défaut"
 type: docs
-weight: 270
+weight: 290
 url: /fr/net/aspose.pdf/document/ignorecorruptedobjects/
 ---
-## Propriété Document.IgnoreCorruptedObjects
+## Document.IgnoreCorruptedObjects property
 
-Obtient ou définit le drapeau d'ignorance des erreurs dans les fichiers source. Lorsque des pages du document source sont copiées dans le document de destination, le processus de copie est arrêté avec une exception si certains objets dans les fichiers source sont corrompus lorsque ce drapeau est faux. exemple : dest.Pages.Add(src.Pages); Si ce drapeau est défini sur vrai, alors les objets corrompus seront remplacés par des valeurs vides. Par défaut : vrai.
+Obtient ou définit le drapeau d'ignorance des erreurs dans les fichiers source. Lorsque des pages du document source sont copiées dans le document de destination, le processus de copie s'arrête avec une exception si certains objets des fichiers source sont corrompus lorsque ce drapeau est à false. Exemple : dest.Pages.Add(src.Pages); Si ce drapeau est réglé sur true, les objets corrompus seront remplacés par des valeurs vides. Par défaut : true.
 
 ```csharp
 public bool IgnoreCorruptedObjects { get; set; }
@@ -16,6 +16,8 @@ public bool IgnoreCorruptedObjects { get; set; }
 
 ### Voir aussi
 
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

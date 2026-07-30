@@ -1,12 +1,12 @@
 ---
-title: DestinationCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode DestinationCollection. Ajoute l'élément spécifié. La collection est en lecture seule. Lance toujours une exception NotSupportedException
+title: "DestinationCollection.Add"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode DestinationCollection. Ajoute l'élément spécifié. La collection est en lecture seule. Lance toujours une exception NotSupportedException"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/destinationcollection/add/
 ---
-## Méthode DestinationCollection.Add
+## DestinationCollection.Add method
 
 Ajoute l'élément spécifié. La collection est en lecture seule. Lance toujours une exception NotSupportedException.
 
@@ -26,6 +26,8 @@ public void Add(KeyValuePair<string, object> item)
 
 ### Voir aussi
 
-* classe [DestinationCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [DestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

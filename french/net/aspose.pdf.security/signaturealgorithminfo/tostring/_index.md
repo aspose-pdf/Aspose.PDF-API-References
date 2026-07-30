@@ -1,12 +1,12 @@
 ---
-title: SignatureAlgorithmInfo.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode SignatureAlgorithmInfo. Convertit l'objet d'information actuel en sa représentation sous forme de chaîne
+title: "SignatureAlgorithmInfo.ToString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode SignatureAlgorithmInfo. Convertit l'objet d'information actuel en sa représentation sous forme de chaîne"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.security/signaturealgorithminfo/tostring/
 ---
-## Méthode SignatureAlgorithmInfo.ToString
+## SignatureAlgorithmInfo.ToString method
 
 Convertit l'objet d'information actuel en sa représentation sous forme de chaîne.
 
@@ -20,6 +20,8 @@ Une chaîne qui représente l'objet d'information actuel.
 
 ### Voir aussi
 
-* classe [SignatureAlgorithmInfo](../)
-* espace de noms [Aspose.Pdf.Security](../../../aspose.pdf.security/)
+* class [SignatureAlgorithmInfo](../)
+* namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

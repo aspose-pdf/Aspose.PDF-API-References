@@ -1,14 +1,14 @@
 ---
-title: HtmlDiffOutputGenerator.StrikethroughDeleted
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété HtmlDiffOutputGenerator. Obtenez ou définissez le style de décoration de texte barré pour l'opération de suppression. La valeur par défaut est False
+title: "HtmlDiffOutputGenerator.StrikethroughDeleted"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété HtmlDiffOutputGenerator. Obtient ou définit le style textdecoration linethrough pour l'opération de suppression. La valeur par défaut est False"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.comparison/htmldiffoutputgenerator/strikethroughdeleted/
 ---
-## Propriété HtmlDiffOutputGenerator.StrikethroughDeleted
+## HtmlDiffOutputGenerator.StrikethroughDeleted property
 
-Obtenez ou définissez le style de décoration de texte : barré pour l'opération de suppression. La valeur par défaut est `False`.
+Obtient ou définit le style text-decoration: line-through pour l'opération de suppression. La valeur par défaut est `False`.
 
 ```csharp
 public bool StrikethroughDeleted { get; set; }
@@ -16,6 +16,8 @@ public bool StrikethroughDeleted { get; set; }
 
 ### Voir aussi
 
-* classe [HtmlDiffOutputGenerator](../)
-* espace de noms [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* class [HtmlDiffOutputGenerator](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

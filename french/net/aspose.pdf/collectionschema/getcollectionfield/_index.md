@@ -1,12 +1,12 @@
 ---
-title: CollectionSchema.GetCollectionField
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode CollectionSchema. Obtient un champ de collection par nom
+title: "CollectionSchema.GetCollectionField"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode CollectionSchema. Obtient un champ de collection par son nom"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/collectionschema/getcollectionfield/
 ---
-## Méthode CollectionSchema.GetCollectionField
+## CollectionSchema.GetCollectionField method
 
 Obtient un champ de collection par nom.
 
@@ -16,11 +16,13 @@ public CollectionField GetCollectionField(string name)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| name | String | Le nom du champ |
+| nom | String | Le nom du champ |
 
 ### Voir aussi
 
-* classe [CollectionField](../../collectionfield/)
-* classe [CollectionSchema](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [CollectionField](../../collectionfield/)
+* class [CollectionSchema](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

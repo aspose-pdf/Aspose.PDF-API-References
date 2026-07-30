@@ -1,12 +1,12 @@
 ---
-title: TextBoxField.Scrollable
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextBoxField. Obtient ou définit le drapeau défilable du champ. Si vrai, le champ peut être défilé
+title: "TextBoxField.Scrollable"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextBoxField. Obtient ou définit le drapeau défilable du champ. Si vrai, le champ peut être défilé."
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.forms/textboxfield/scrollable/
 ---
-## Propriété TextBoxField.Scrollable
+## TextBoxField.Scrollable property
 
 Obtient ou définit le drapeau défilable du champ. Si vrai, le champ peut être défilé.
 
@@ -16,6 +16,8 @@ public bool Scrollable { get; set; }
 
 ### Voir aussi
 
-* classe [TextBoxField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [TextBoxField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

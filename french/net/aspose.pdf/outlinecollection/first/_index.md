@@ -1,14 +1,14 @@
 ---
-title: OutlineCollection.First
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OutlineCollection. Obtient un élément de plan représentant le premier élément de niveau supérieur dans le plan
+title: "OutlineCollection.First"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OutlineCollection property. Obtient un élément de plan représentant le premier élément de niveau supérieur dans le plan"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/outlinecollection/first/
 ---
-## Propriété OutlineCollection.First
+## OutlineCollection.First property
 
-Obtient un élément de plan représentant le premier élément de niveau supérieur dans le plan.
+Obtient un élément de plan représentant le premier élément de niveau supérieur du plan.
 
 ```csharp
 public OutlineItemCollection First { get; }
@@ -16,7 +16,9 @@ public OutlineItemCollection First { get; }
 
 ### Voir aussi
 
-* classe [OutlineItemCollection](../../outlineitemcollection/)
-* classe [OutlineCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [OutlineCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

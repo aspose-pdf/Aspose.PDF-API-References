@@ -1,14 +1,14 @@
 ---
-title: BoundsCheckableList1.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode BoundsCheckableList. Renvoie un énumérateur qui itère à travers le System.Collections.Generic.List
+title: "BoundsCheckableList1.GetEnumerator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode BoundsCheckableList. Retourne un énumérateur qui parcourt la System.Collections.Generic.List"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.generator/boundscheckablelist-1/getenumerator/
 ---
-## BoundsCheckableList&lt;T&gt;.GetEnumerator méthode
+## BoundsCheckableList&lt;T&gt;.GetEnumerator method
 
-Renvoie un énumérateur qui itère à travers le System.Collections.Generic.List.
+Renvoie un énumérateur qui parcourt la System.Collections.Generic.List.
 
 ```csharp
 public IEnumerator<T> GetEnumerator()
@@ -16,10 +16,12 @@ public IEnumerator<T> GetEnumerator()
 
 ### Valeur de retour
 
-Un énumérateur pour le System.Collections.Generic.List.
+Un énumérateur pour la System.Collections.Generic.List.
 
 ### Voir aussi
 
-* classe [BoundsCheckableList&lt;T&gt;](../)
-* espace de noms [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../../)
+
+

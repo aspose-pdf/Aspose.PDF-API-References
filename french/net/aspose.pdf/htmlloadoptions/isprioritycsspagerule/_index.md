@@ -1,14 +1,14 @@
 ---
-title: HtmlLoadOptions.IsPriorityCssPageRule
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété HtmlLoadOptions. Obtient ou définit le drapeau qui spécifie que les règles de page définies dans css remplaceront les valeurs définies dans PageInfo
+title: "HtmlLoadOptions.IsPriorityCssPageRule"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "HtmlLoadOptions propriété. Obtient ou définit le drapeau qui indique que les règles de page définies dans le css remplaceront les valeurs définies dans PageInfo"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf/htmlloadoptions/isprioritycsspagerule/
 ---
-## Propriété HtmlLoadOptions.IsPriorityCssPageRule
+## HtmlLoadOptions.IsPriorityCssPageRule property
 
-Obtient ou définit le drapeau qui spécifie que les règles @page définies dans css remplaceront les valeurs définies dans PageInfo.
+Obtient ou définit l’indicateur qui spécifie que les règles @page définies dans le css remplaceront les valeurs définies dans PageInfo.
 
 ```csharp
 public bool IsPriorityCssPageRule { get; set; }
@@ -16,6 +16,8 @@ public bool IsPriorityCssPageRule { get; set; }
 
 ### Voir aussi
 
-* classe [HtmlLoadOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [HtmlLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class FormExporterOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.FormExporterOptions. Représente les options pour le plugin FormExporter
+title: "Classe FormExporterOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Plugins.FormExporterOptions. Représente les options du plugin FormExporter"
 type: docs
-weight: 8680
+weight: 8810
 url: /fr/net/aspose.pdf.plugins/formexporteroptions/
 ---
-## Classe FormExporterOptions
+## FormExporterOptions class
 
-Représente les options pour le plugin FormExporter.
+Représente les options du plugin FormExporter.
 
 ```csharp
 public abstract class FormExporterOptions : FormOptions
@@ -18,18 +18,20 @@ public abstract class FormExporterOptions : FormOptions
 
 | Nom | Description |
 | --- | --- |
-| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | Renvoie la collection de données du plugin Form.... |
-| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Obtient la collection des cibles ajoutées pour les résultats de l'opération de sauvegarde. |
+| [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | Renvoie la collection de données des plugins Form.... |
+| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Obtient la collection des cibles ajoutées pour enregistrer les résultats de l'opération. |
 
 ## Méthodes
 
 | Nom | Description |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Ajoute une nouvelle source de données à la collection de données du plugin Form... |
-| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Ajoute une nouvelle source de données à la collection de données du plugin Form... |
+| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Ajoute une nouvelle source de données à la collection de données des plugins Form.... |
+| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Ajoute une nouvelle source de données à la collection de données des plugins Form.... |
 
 ### Voir aussi
 
-* classe [FormOptions](../formoptions/)
-* espace de noms [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* class [FormOptions](../formoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

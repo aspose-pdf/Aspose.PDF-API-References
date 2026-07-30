@@ -1,14 +1,14 @@
 ---
-title: Image.ImageStream
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété d'image. Obtient ou définit le flux d'image
+title: "Image.ImageStream"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Image. Obtient ou définit le flux de l'image"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf/image/imagestream/
 ---
-## Propriété Image.ImageStream
+## Image.ImageStream property
 
-Obtient ou définit le flux d'image.
+Obtient ou définit le flux de l'image.
 
 ```csharp
 public Stream ImageStream { get; set; }
@@ -16,6 +16,8 @@ public Stream ImageStream { get; set; }
 
 ### Voir aussi
 
-* classe [Image](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

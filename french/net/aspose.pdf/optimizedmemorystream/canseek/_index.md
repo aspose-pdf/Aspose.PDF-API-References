@@ -1,14 +1,14 @@
 ---
-title: OptimizedMemoryStream.CanSeek
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OptimizedMemoryStream. Lorsqu'elle est remplacée dans une classe dérivée, obtient une valeur indiquant si le flux actuel prend en charge la recherche
+title: "OptimizedMemoryStream.CanSeek"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété OptimizedMemoryStream. Lorsqu'elle est remplacée dans une classe dérivée, elle obtient une valeur indiquant si le flux actuel prend en charge le déplacement."
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/optimizedmemorystream/canseek/
 ---
-## Propriété OptimizedMemoryStream.CanSeek
+## OptimizedMemoryStream.CanSeek property
 
-Lorsqu'elle est remplacée dans une classe dérivée, obtient une valeur indiquant si le flux actuel prend en charge la recherche.
+Lorsqu'il est remplacé dans une classe dérivée, obtient une valeur indiquant si le flux actuel prend en charge le déplacement.
 
 ```csharp
 public override bool CanSeek { get; }
@@ -16,10 +16,12 @@ public override bool CanSeek { get; }
 
 ### Valeur de retour
 
-true si le flux prend en charge la recherche ; sinon, false.
+true si le flux prend en charge le déplacement ; sinon, false.
 
 ### Voir aussi
 
-* classe [OptimizedMemoryStream](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

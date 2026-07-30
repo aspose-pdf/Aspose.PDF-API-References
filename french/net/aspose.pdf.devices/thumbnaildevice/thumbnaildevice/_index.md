@@ -1,14 +1,14 @@
 ---
-title: ThumbnailDevice.ThumbnailDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de ThumbnailDevice. Initialise une nouvelle instance de la classe ThumbnailDevice avec une taille par défaut de l'image miniature de 200x200 pixels
+title: "ThumbnailDevice.ThumbnailDevice"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur ThumbnailDevice. Initialise une nouvelle instance de la classe ThumbnailDevice avec la taille par défaut de l'image miniature de 200x200 pixels."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.devices/thumbnaildevice/thumbnaildevice/
 ---
 ## ThumbnailDevice() {#constructor}
 
-Initialise une nouvelle instance de la classe [`ThumbnailDevice`](../) avec une taille par défaut de l'image miniature (200x200 pixels).
+Initialise une nouvelle instance de la classe [`ThumbnailDevice`](../) avec la taille par défaut de l'image miniature (200x200 pixels).
 
 ```csharp
 public ThumbnailDevice()
@@ -16,8 +16,8 @@ public ThumbnailDevice()
 
 ### Voir aussi
 
-* classe [ThumbnailDevice](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [ThumbnailDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -32,11 +32,13 @@ public ThumbnailDevice(int width, int height)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| width | Int32 | Largeur de sortie de l'image miniature. |
-| height | Int32 | Hauteur de sortie de l'image miniature. |
+| largeur | Int32 | Largeur de sortie de l'image miniature. |
+| hauteur | Int32 | Hauteur de sortie de l'image miniature. |
 
 ### Voir aussi
 
-* classe [ThumbnailDevice](../)
-* espace de noms [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
+* class [ThumbnailDevice](../)
+* namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

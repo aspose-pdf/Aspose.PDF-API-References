@@ -1,26 +1,28 @@
 ---
-title: Page.Layers
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Page. Obtient ou définit la collection de calques
+title: "Page.Layers"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Page. Obtient ou définit la collection de calques."
 type: docs
 weight: 170
 url: /fr/net/aspose.pdf/page/layers/
 ---
-## Propriété Page.Layers
+## Page.Layers property
 
-Obtient ou définit la collection de calques.
+Obtient ou définit la collection des calques.
 
 ```csharp
 public List<Layer> Layers { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La collection de calques.
 
 ### Voir aussi
 
-* classe [Layer](../../layer/)
-* classe [Page](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Layer](../../layer/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

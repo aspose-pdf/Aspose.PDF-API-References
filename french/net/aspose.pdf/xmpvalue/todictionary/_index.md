@@ -1,12 +1,12 @@
 ---
-title: XmpValue.ToDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XmpValue. Renvoie un dictionnaire contenant des valeurs nommées
+title: "XmpValue.ToDictionary"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XmpValue. Retourne un dictionnaire qui contient des valeurs nommées"
 type: docs
 weight: 140
 url: /fr/net/aspose.pdf/xmpvalue/todictionary/
 ---
-## Méthode XmpValue.ToDictionary
+## XmpValue.ToDictionary method
 
 Renvoie un dictionnaire contenant des valeurs nommées.
 
@@ -20,6 +20,8 @@ Valeur du dictionnaire.
 
 ### Voir aussi
 
-* classe [XmpValue](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

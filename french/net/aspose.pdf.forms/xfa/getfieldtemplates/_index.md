@@ -1,14 +1,14 @@
 ---
-title: XFA.GetFieldTemplates
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XFA. Renvoie la liste de tous les modèles de champ sur le formulaire XFA
+title: "XFA.GetFieldTemplates"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XFA. Retourne la liste de tous les modèles de champ sur le formulaire XFA"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.forms/xfa/getfieldtemplates/
 ---
-## Méthode XFA.GetFieldTemplates
+## XFA.GetFieldTemplates method
 
-Renvoie la liste de tous les modèles de champ sur le formulaire XFA.
+Renvoie la liste de tous les modèles de champs du formulaire XFA.
 
 ```csharp
 public XmlNodeList GetFieldTemplates()
@@ -20,6 +20,8 @@ Liste des modèles de champ.
 
 ### Voir aussi
 
-* classe [XFA](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormEditor.AddField
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FormEditor. Ajouter un champ de type spécifié au formulaire
+title: "FormEditor.AddField"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode FormEditor. Ajoute un champ du type spécifié au formulaire."
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.facades/formeditor/addfield/
 ---
 ## AddField(FieldType, string, int, float, float, float, float) {#addfield}
 
-Ajouter un champ de type spécifié au formulaire.
+Ajoute un champ du type spécifié au formulaire.
 
 ```csharp
 public bool AddField(FieldType fieldType, string fieldName, int pageNum, float llx, float lly, 
@@ -48,7 +48,7 @@ formEditor.Save();
 
 ## AddField(FieldType, string, string, int, float, float, float, float) {#addfield_1}
 
-Ajouter un champ de type spécifié au formulaire.
+Ajoute un champ du type spécifié au formulaire.
 
 ```csharp
 public bool AddField(FieldType fieldType, string fieldName, string initValue, int pageNum, 
@@ -86,3 +86,5 @@ formEditor.Save();
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

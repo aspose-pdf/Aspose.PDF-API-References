@@ -1,12 +1,12 @@
 ---
-title: FloatingBox.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FloatingBox. Obtient ou définit la coordonnée gauche du tableau
+title: "FloatingBox.Left"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FloatingBox. Obtient ou définit la coordonnée gauche du tableau"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf/floatingbox/left/
 ---
-## Propriété FloatingBox.Left
+## FloatingBox.Left property
 
 Obtient ou définit la coordonnée gauche du tableau.
 
@@ -16,6 +16,8 @@ public double Left { get; set; }
 
 ### Voir aussi
 
-* classe [FloatingBox](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FloatingBox](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

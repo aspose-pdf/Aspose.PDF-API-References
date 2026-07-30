@@ -1,14 +1,14 @@
 ---
-title: Form.GetSubmitFlags
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Form. Renvoie les indicateurs de soumission des boutons de soumission
+title: "Form.GetSubmitFlags"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Form. Retourne les indicateurs de soumission des boutons"
 type: docs
 weight: 270
 url: /fr/net/aspose.pdf.facades/form/getsubmitflags/
 ---
-## Méthode Form.GetSubmitFlags
+## Form.GetSubmitFlags method
 
-Renvoie les indicateurs de soumission du bouton de soumission
+Renvoie les indicateurs de soumission du bouton d'envoi
 
 ```csharp
 public SubmitFormFlag GetSubmitFlags(string fieldName)
@@ -37,3 +37,5 @@ System.Console.WriteLine((form.GetSubmitFlags("btnSubmit") | Aspose.Pdf.Facades.
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

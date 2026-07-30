@@ -1,14 +1,14 @@
 ---
-title: StampInfo.Image
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété StampInfo. Obtient l'image du timbre. Peut être nul si le timbre ne contient pas d'images, par exemple pour un timbre de texte
+title: "StampInfo.Image"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété StampInfo. Obtient l'image du tampon. Peut être nul si le tampon ne contient pas d'images, par exemple pour un tampon texte"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.facades/stampinfo/image/
 ---
-## Propriété StampInfo.Image
+## StampInfo.Image property
 
-Obtient l'image du timbre. Peut être nul si le timbre ne contient pas d'images (par exemple pour un timbre de texte).
+Obtient l'image du tampon. Peut être nul si le tampon ne contient pas d'images (par exemple pour un tampon de texte).
 
 ```csharp
 public Image Image { get; }
@@ -16,6 +16,8 @@ public Image Image { get; }
 
 ### Voir aussi
 
-* classe [StampInfo](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [StampInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

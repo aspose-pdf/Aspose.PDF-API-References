@@ -1,14 +1,14 @@
 ---
-title: Class ResultContainer
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.ResultContainer. Représente un conteneur qui contient la collection de résultats du traitement du plugin
+title: "Classe ResultContainer"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Plugins.ResultContainer class. Représente le conteneur qui contient la collection de résultats du traitement du plugin"
 type: docs
-weight: 9200
+weight: 9350
 url: /fr/net/aspose.pdf.plugins/resultcontainer/
 ---
-## Classe ResultContainer
+## ResultContainer class
 
-Représente un conteneur qui contient la collection de résultats du traitement du plugin.
+Représente le conteneur qui contient la collection de résultats du traitement du plugin.
 
 ```csharp
 public class ResultContainer
@@ -22,5 +22,7 @@ public class ResultContainer
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

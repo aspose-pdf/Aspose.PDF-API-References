@@ -1,14 +1,14 @@
 ---
-title: Document.HideToolBar
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Document. Obtient ou définit un indicateur spécifiant si la barre d'outils doit être masquée lorsque le document est actif
+title: "Document.HideToolBar"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Document. Obtient ou définit le drapeau indiquant si la barre d'outils doit être masquée lorsque le document est actif"
 type: docs
-weight: 240
+weight: 260
 url: /fr/net/aspose.pdf/document/hidetoolbar/
 ---
-## Propriété Document.HideToolBar
+## Document.HideToolBar property
 
-Obtient ou définit un indicateur spécifiant si la barre d'outils doit être masquée lorsque le document est actif.
+Obtient ou définit le drapeau indiquant si la barre d'outils doit être masquée lorsque le document est actif.
 
 ```csharp
 public bool HideToolBar { get; set; }
@@ -16,7 +16,7 @@ public bool HideToolBar { get; set; }
 
 ## Exemples
 
-L'exemple démontre comment obtenir l'indicateur HideToolBar :
+L'exemple montre comment obtenir le drapeau HideToolBar :
 
 ```csharp
 Document document = new Document("sample.pdf");
@@ -25,6 +25,8 @@ bool value = document.HideToolBar;
 
 ### Voir aussi
 
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

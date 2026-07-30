@@ -1,14 +1,14 @@
 ---
-title: CreateEmbeddingResponse.Usage
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété CreateEmbeddingResponse. Obtient ou définit les statistiques d'utilisation pour la demande d'incorporation
+title: "CreateEmbeddingResponse.Usage"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "CreateEmbeddingResponse propriété. Obtient ou définit les statistiques d'utilisation pour la requête d'intégration"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.ai/createembeddingresponse/usage/
 ---
-## Propriété CreateEmbeddingResponse.Usage
+## CreateEmbeddingResponse.Usage property
 
-Obtient ou définit les statistiques d'utilisation pour la demande d'incorporation.
+Obtient ou définit les statistiques d’utilisation pour la requête d’intégration.
 
 ```csharp
 public Usage Usage { get; set; }
@@ -16,7 +16,9 @@ public Usage Usage { get; set; }
 
 ### Voir aussi
 
-* classe [Usage](../../usage/)
-* classe [CreateEmbeddingResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Usage](../../usage/)
+* class [CreateEmbeddingResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

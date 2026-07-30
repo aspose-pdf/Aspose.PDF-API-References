@@ -1,7 +1,7 @@
 ---
-title: LlamaSummaryCopilot.SaveSummaryAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode LlamaSummaryCopilot.
+title: "LlamaSummaryCopilot.SaveSummaryAsync"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "La méthode LlamaSummaryCopilot."
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.ai/llamasummarycopilot/savesummaryasync/
@@ -14,8 +14,8 @@ public Task SaveSummaryAsync(string outputFileName, CancellationToken? cancellat
 
 ### Voir aussi
 
-* classe [LlamaSummaryCopilot](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [LlamaSummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -29,7 +29,9 @@ public Task SaveSummaryAsync(string outputFileName, SaveFormat saveFormat,
 
 ### Voir aussi
 
-* énum [SaveFormat](../../../aspose.pdf/saveformat/)
-* classe [LlamaSummaryCopilot](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* enum [SaveFormat](../../../aspose.pdf/saveformat/)
+* class [LlamaSummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

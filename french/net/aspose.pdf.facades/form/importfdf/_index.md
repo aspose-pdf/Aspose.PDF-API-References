@@ -1,12 +1,12 @@
 ---
-title: Form.ImportFdf
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Form. Importe le contenu des champs du fichier fdf et les place dans le nouveau pdf
+title: "Form.ImportFdf"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Form. Importe le contenu des champs depuis le fichier fdf et les place dans le nouveau pdf."
 type: docs
 weight: 280
 url: /fr/net/aspose.pdf.facades/form/importfdf/
 ---
-## Méthode Form.ImportFdf
+## Form.ImportFdf method
 
 Importe le contenu des champs du fichier fdf et les place dans le nouveau pdf.
 
@@ -28,6 +28,8 @@ form.Save();
 
 ### Voir aussi
 
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

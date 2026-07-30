@@ -1,14 +1,14 @@
 ---
-title: IPlugin.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode IPlugin. Charge un plugin pour traiter avec des options définies
+title: "IPlugin.Process"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode IPlugin. Charge un plugin pour le traitement avec des options définies"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.plugins/iplugin/process/
 ---
-## Méthode IPlugin.Process
+## IPlugin.Process method
 
-Charge un plugin pour traiter avec des options définies
+Charge un plugin pour le traiter avec les options définies.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -16,7 +16,7 @@ public ResultContainer Process(IPluginOptions options)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| options | IPluginOptions | Un objet d'options contenant des instructions pour le plugin |
+| options | IPluginOptions | Un objet d'options contenant les instructions pour le plugin |
 
 ### Valeur de retour
 
@@ -24,8 +24,10 @@ Un objet ResultContainer contenant le résultat du traitement
 
 ### Voir aussi
 
-* classe [ResultContainer](../../resultcontainer/)
+* class [ResultContainer](../../resultcontainer/)
 * interface [IPluginOptions](../../ipluginoptions/)
 * interface [IPlugin](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

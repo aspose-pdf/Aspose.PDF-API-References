@@ -1,7 +1,7 @@
 ---
-title: AppearanceDictionary.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode AppearanceDictionary. Supprime la clé du dictionnaire
+title: "AppearanceDictionary.Remove"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode AppearanceDictionary. Supprime la clé du dictionnaire"
 type: docs
 weight: 150
 url: /fr/net/aspose.pdf.annotations/appearancedictionary/remove/
@@ -16,7 +16,7 @@ public bool Remove(string key)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| key | String | Clé à supprimer du dictionnaire. |
+| clé | String | Clé à supprimer du dictionnaire. |
 
 ### Valeur de retour
 
@@ -24,8 +24,8 @@ true si la clé a été supprimée avec succès.
 
 ### Voir aussi
 
-* classe [AppearanceDictionary](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -44,11 +44,13 @@ public bool Remove(KeyValuePair<string, XForm> item)
 
 ### Valeur de retour
 
-true si la paire a été trouvée et supprimée.
+vrai si la paire a été trouvée et supprimée.
 
 ### Voir aussi
 
-* classe [XForm](../../../aspose.pdf/xform/)
-* classe [AppearanceDictionary](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

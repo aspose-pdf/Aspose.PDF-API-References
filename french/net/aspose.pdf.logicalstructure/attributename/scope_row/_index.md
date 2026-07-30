@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Scope_Row
-second_title: Aspose.PDF for .NET API Reference
-description: Champ AttributeName. Ligne de portée de l'attribut
+title: "AttributeName.Scope_Row"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ AttributeName. Attribut Scope Row"
 type: docs
 weight: 540
 url: /fr/net/aspose.pdf.logicalstructure/attributename/scope_row/
 ---
-## Champ AttributeName.Scope_Row
+## AttributeName.Scope_Row field
 
-Portée de l'attribut : Ligne.
+Attribut Scope : Row.
 
 ```csharp
 public static readonly AttributeName Scope_Row;
@@ -16,6 +16,8 @@ public static readonly AttributeName Scope_Row;
 
 ### Voir aussi
 
-* classe [AttributeName](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

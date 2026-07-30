@@ -1,14 +1,14 @@
 ---
-title: StampInfo.Form
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété StampInfo. Obtient XForm du tampon
+title: "StampInfo.Form"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété StampInfo. Obtient le XForm du tampon"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.facades/stampinfo/form/
 ---
-## Propriété StampInfo.Form
+## StampInfo.Form property
 
-Obtient XForm du tampon.
+Obtient le XForm du tampon.
 
 ```csharp
 public XForm Form { get; }
@@ -16,7 +16,9 @@ public XForm Form { get; }
 
 ### Voir aussi
 
-* classe [XForm](../../../aspose.pdf/xform/)
-* classe [StampInfo](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [StampInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

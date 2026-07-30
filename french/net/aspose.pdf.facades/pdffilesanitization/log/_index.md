@@ -1,12 +1,12 @@
 ---
-title: PdfFileSanitization.Log
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfFileSanitization. Après que le fichier a été enregistré, vous pouvez vérifier ce qui a été fait avec le fichier
+title: "PdfFileSanitization.Log"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PdfFileSanitization propriété. Après que le fichier a été enregistré, vous pouvez vérifier ce qui a été fait avec le fichier"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.facades/pdffilesanitization/log/
 ---
-## Propriété PdfFileSanitization.Log
+## PdfFileSanitization.Log property
 
 Après que le fichier a été enregistré, vous pouvez vérifier ce qui a été fait avec le fichier.
 
@@ -16,6 +16,8 @@ public List<string> Log { get; }
 
 ### Voir aussi
 
-* classe [PdfFileSanitization](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileSanitization](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

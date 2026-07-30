@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.DeleteThreadMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OpenAIClient. Supprime un message dans un fil de discussion de manière asynchrone
+title: "OpenAIClient.DeleteThreadMessageAsync"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode OpenAIClient. Supprime un message au sein d'un fil de discussion de manière asynchrone"
 type: docs
 weight: 160
 url: /fr/net/aspose.pdf.ai/openaiclient/deletethreadmessageasync/
 ---
-## Méthode OpenAIClient.DeleteThreadMessageAsync
+## OpenAIClient.DeleteThreadMessageAsync method
 
-Supprime un message dans un fil de discussion de manière asynchrone.
+Supprime un message dans un fil de façon asynchrone.
 
 ```csharp
 public Task<DeleteStatusResponse> DeleteThreadMessageAsync(string threadId, string threadMessageId, 
@@ -29,12 +29,14 @@ Une tâche qui représente l'opération asynchrone. Le résultat de la tâche co
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Lancé lorsque l'ID du fil est nul ou vide. |
-| [AIClientException](../../aiclientexception/) | Lancé lorsque l'ID du message du fil est nul ou vide. |
+| [AIClientException](../../aiclientexception/) | Lancée lorsque l'ID du fil est nul ou vide. |
+| [AIClientException](../../aiclientexception/) | Lancée lorsque l'ID du message de fil est nul ou vide. |
 
 ### Voir aussi
 
-* classe [DeleteStatusResponse](../../deletestatusresponse/)
-* classe [OpenAIClient](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [DeleteStatusResponse](../../deletestatusresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

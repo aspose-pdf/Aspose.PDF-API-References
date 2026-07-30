@@ -1,12 +1,12 @@
 ---
-title: ParagraphAbsorber.PageMarkups
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ParagraphAbsorber. Obtient la collection de PageMarkup qui ont été absorbés
+title: "ParagraphAbsorber.PageMarkups"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ParagraphAbsorber. Obtient la collection de PageMarkup qui ont été absorbés"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.text/paragraphabsorber/pagemarkups/
 ---
-## Propriété ParagraphAbsorber.PageMarkups
+## ParagraphAbsorber.PageMarkups property
 
 Obtient la collection de [`PageMarkup`](../../pagemarkup/) qui ont été absorbés.
 
@@ -16,7 +16,9 @@ public List<PageMarkup> PageMarkups { get; }
 
 ### Voir aussi
 
-* classe [PageMarkup](../../pagemarkup/)
-* classe [ParagraphAbsorber](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [PageMarkup](../../pagemarkup/)
+* class [ParagraphAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

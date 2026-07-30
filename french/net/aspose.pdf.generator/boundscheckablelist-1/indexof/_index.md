@@ -1,14 +1,14 @@
 ---
-title: BoundsCheckableList1.IndexOf
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode BoundsCheckableList. Recherche l'objet spécifié et renvoie l'index basé sur zéro de la première occurrence dans l'ensemble de System.Collections.Generic.List
+title: "BoundsCheckableList1.IndexOf"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode BoundsCheckableList. Recherche l'objet spécifié et renvoie l'index zéro‑bas de la première occurrence dans l'ensemble de System.Collections.Generic.List"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.generator/boundscheckablelist-1/indexof/
 ---
-## BoundsCheckableList&lt;T&gt;.IndexOf méthode
+## BoundsCheckableList&lt;T&gt;.IndexOf method
 
-Recherche l'objet spécifié et renvoie l'index basé sur zéro de la première occurrence dans l'ensemble de System.Collections.Generic.List.
+Recherche l'objet spécifié et renvoie l'index basé sur zéro de la première occurrence dans l'ensemble de la System.Collections.Generic.List.
 
 ```csharp
 public int IndexOf(T item)
@@ -16,14 +16,16 @@ public int IndexOf(T item)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| item | T | L'objet à localiser dans le System.Collections.Generic.List. La valeur peut être null pour les types de référence. |
+| item | T | L'objet à localiser dans System.Collections.Generic.List. La valeur peut être null pour les types de référence. |
 
 ### Valeur de retour
 
-L'index basé sur zéro de la première occurrence de *item* dans l'ensemble de System.Collections.Generic.List, si trouvé ; sinon, –1.
+L'index zéro‑bas de la première occurrence de *item* dans l'ensemble de System.Collections.Generic.List, si trouvé ; sinon, –1.
 
 ### Voir aussi
 
-* classe [BoundsCheckableList&lt;T&gt;](../)
-* espace de noms [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
+* class [BoundsCheckableList&lt;T&gt;](../)
+* namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../../)
+
+

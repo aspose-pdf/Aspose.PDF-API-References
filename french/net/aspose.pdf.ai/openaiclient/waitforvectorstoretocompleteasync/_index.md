@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.WaitForVectorStoreToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OpenAIClient. Attend qu'un magasin de vecteurs spécifique soit complété de manière asynchrone
+title: "OpenAIClient.WaitForVectorStoreToCompleteAsync"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode OpenAIClient. Attend qu'un magasin de vecteurs spécifique se termine de manière asynchrone"
 type: docs
-weight: 500
+weight: 510
 url: /fr/net/aspose.pdf.ai/openaiclient/waitforvectorstoretocompleteasync/
 ---
-## Méthode OpenAIClient.WaitForVectorStoreToCompleteAsync
+## OpenAIClient.WaitForVectorStoreToCompleteAsync method
 
-Attend qu'un magasin de vecteurs spécifique soit complété de manière asynchrone.
+Attend qu'un magasin de vecteurs spécifique se termine de manière asynchrone.
 
 ```csharp
 public Task<VectorStoreResponse> WaitForVectorStoreToCompleteAsync(string vectorStoreId, 
@@ -22,17 +22,19 @@ public Task<VectorStoreResponse> WaitForVectorStoreToCompleteAsync(string vector
 
 ### Valeur de retour
 
-Une tâche qui représente l'opération asynchrone. Le résultat de la tâche contient le statut final du magasin de vecteurs.
+Une tâche qui représente l'opération asynchrone. Le résultat de la tâche contient l'état final du magasin de vecteurs.
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Lancé lorsque l'ID du magasin de vecteurs est nul ou vide. |
+| [AIClientException](../../aiclientexception/) | Lancée lorsque l'ID du magasin de vecteurs est nul ou vide. |
 
 ### Voir aussi
 
-* classe [VectorStoreResponse](../../vectorstoreresponse/)
-* classe [OpenAIClient](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

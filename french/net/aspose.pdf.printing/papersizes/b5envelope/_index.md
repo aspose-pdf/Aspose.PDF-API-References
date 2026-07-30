@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.B5Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSizes. Enveloppe B5 176 mm par 250 mm
+title: "PaperSizes.B5Envelope"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PaperSizes champ. B5 enveloppe 176 mm par 250 mm"
 type: docs
 weight: 240
 url: /fr/net/aspose.pdf.printing/papersizes/b5envelope/
 ---
-## Champ PaperSizes.B5Envelope
+## PaperSizes.B5Envelope field
 
 Enveloppe B5 (176 mm par 250 mm).
 
@@ -16,7 +16,9 @@ public static readonly PaperSize B5Envelope;
 
 ### Voir aussi
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

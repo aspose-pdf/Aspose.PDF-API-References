@@ -1,12 +1,12 @@
 ---
-title: Rectangle.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Rectangle. Obtient la représentation sous forme de chaîne du rectangle
+title: "Rectangle.ToString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Rectangle. Obtient la représentation sous forme de chaîne du rectangle"
 type: docs
 weight: 290
 url: /fr/net/aspose.pdf/rectangle/tostring/
 ---
-## Méthode Rectangle.ToString
+## Rectangle.ToString method
 
 Obtient la représentation sous forme de chaîne du rectangle.
 
@@ -20,6 +20,8 @@ La chaîne a le format llx,lly,urx,ury.
 
 ### Voir aussi
 
-* classe [Rectangle](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Rectangle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum HtmlSaveOptions.AntialiasingProcessingType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.HtmlSaveOptionsAntialiasingProcessingType. Cet enum décrit les mesures d'anticrénelage possibles lors de la conversion
+title: "Enum HtmlSaveOptions.AntialiasingProcessingType"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Enum Aspose.Pdf.HtmlSaveOptionsAntialiasingProcessingType. Cette énumération décrit les mesures d'anticrénelage possibles pendant la conversion"
 type: docs
-weight: 5570
+weight: 5700
 url: /fr/net/aspose.pdf/htmlsaveoptions.antialiasingprocessingtype/
 ---
-## Énumération HtmlSaveOptions.AntialiasingProcessingType
+## HtmlSaveOptions.AntialiasingProcessingType enumeration
 
-Cet enum décrit les mesures d'anticrénelage possibles lors de la conversion
+Cette énumération décrit les mesures d'anticrénelage possibles pendant la conversion
 
 ```csharp
 public enum AntialiasingProcessingType
@@ -18,11 +18,13 @@ public enum AntialiasingProcessingType
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| NoAdditionalProcessing | `0` | aucun traitement d'anticrénelage spécial en cours d'utilisation. C'est une option optimale pour la grande majorité des documents et cela ne nécessite pas de temps supplémentaire lors de la conversion |
-| TryCorrectResultHtml | `1` | Dans ce cas, le convertisseur essaie de détecter les endroits avec des éléments graphiques de fond adjacents et de corriger le HTML résultant de manière pertinente. Cette option permet d'améliorer le résultat de l'exportation pour les documents qui contiennent des arrière-plans construits à partir de plusieurs éléments graphiques adjacents (pour ce type de documents, les rendus PDF, par exemple Acrobat Reader, essaient généralement de lisser les frontières des éléments lors du rendu. Avec cette option, le convertisseur imite ce comportement des rendus PDF. Cette option permet d'améliorer la mise en page du résultat de l'exportation pour certains documents spécifiques (qui utilisent de tels arrière-plans composés), mais elle nécessite un temps de traitement supplémentaire (généralement environ 10-15 % de temps supplémentaire). Donc, l'utilisation de ce mode dans le cas général n'est pas recommandée. |
+| NoAdditionalProcessing | `0` | Aucun traitement d'anticrénelage spécial n'est utilisé. C'est une option optimale pour la grande majorité des documents et elle ne nécessite pas de temps supplémentaire pendant la conversion |
+| TryCorrectResultHtml | `1` | Dans ce cas, le convertisseur tente de détecter les zones contenant des éléments graphiques d'arrière-plan adjacents et de corriger le HTML résultant de manière appropriée. Cette option permet d'améliorer le résultat de l'exportation pour les documents contenant des arrière-plans composés de plusieurs éléments graphiques adjacents (pour ce type de documents, les rendus PDF, par ex. Acrobat Reader, essaient généralement d'adoucir les limites des éléments lors du rendu. Avec cette option, le convertisseur imite ce comportement des rendus PDF). Cette option permet d'améliorer la mise en page du résultat d'exportation pour certains documents spécifiques (qui utilisent de tels arrière-plans composés), mais elle nécessite un temps supplémentaire de traitement (généralement environ 10 à 15 % de temps additionnel). Ainsi, l'utilisation de ce mode dans le cas général n'est pas recommandée. |
 
 ### Voir aussi
 
-* classe [HtmlSaveOptions](../htmlsaveoptions/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

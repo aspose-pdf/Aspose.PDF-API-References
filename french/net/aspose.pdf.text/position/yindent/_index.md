@@ -1,12 +1,12 @@
 ---
-title: Position.YIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Position. Obtient la coordonnée Y de l'objet
+title: "Position.YIndent"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Position. Obtient la coordonnée Y de l'objet"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.text/position/yindent/
 ---
-## Propriété Position.YIndent
+## Position.YIndent property
 
 Obtient la coordonnée Y de l'objet
 
@@ -16,6 +16,8 @@ public double YIndent { get; set; }
 
 ### Voir aussi
 
-* classe [Position](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Position](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

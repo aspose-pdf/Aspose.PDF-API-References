@@ -1,14 +1,14 @@
 ---
-title: GradientRadialShading.EndingRadius
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété GradientRadialShading. Obtient ou définit le rayon du cercle de fin
+title: "GradientRadialShading.EndingRadius"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété GradientRadialShading. Obtient ou définit le rayon du cercle final"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.drawing/gradientradialshading/endingradius/
 ---
-## Propriété GradientRadialShading.EndingRadius
+## GradientRadialShading.EndingRadius property
 
-Obtient ou définit le rayon du cercle de fin.
+Obtient ou définit le rayon du cercle final.
 
 ```csharp
 public double EndingRadius { get; set; }
@@ -16,6 +16,8 @@ public double EndingRadius { get; set; }
 
 ### Voir aussi
 
-* classe [GradientRadialShading](../)
-* espace de noms [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* class [GradientRadialShading](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

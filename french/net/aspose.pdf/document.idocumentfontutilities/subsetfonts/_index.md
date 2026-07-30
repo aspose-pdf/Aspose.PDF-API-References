@@ -1,14 +1,14 @@
 ---
-title: Document.IDocumentFontUtilities.SubsetFonts
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode IDocumentFontUtilities. Sous-ensembles toutes les polices dans le document
+title: "Document.IDocumentFontUtilities.SubsetFonts"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "IDocumentFontUtilities méthode. Crée des sous‑ensembles de toutes les polices du document"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/document.idocumentfontutilities/subsetfonts/
 ---
-## Méthode Document.IDocumentFontUtilities.SubsetFonts
+## Document.IDocumentFontUtilities.SubsetFonts method
 
-Sous-ensembles toutes les polices dans le document
+Crée des sous-ensembles de toutes les polices du document
 
 ```csharp
 public void SubsetFonts(FontSubsetStrategy subsetStrategy)
@@ -24,3 +24,5 @@ public void SubsetFonts(FontSubsetStrategy subsetStrategy)
 * interface [IDocumentFontUtilities](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

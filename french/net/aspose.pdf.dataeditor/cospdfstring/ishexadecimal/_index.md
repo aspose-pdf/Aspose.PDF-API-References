@@ -1,12 +1,12 @@
 ---
-title: CosPdfString.IsHexadecimal
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété CosPdfString. Obtient une valeur indiquant si cette instance est hexadécimale
+title: "CosPdfString.IsHexadecimal"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété CosPdfString. Obtient une valeur indiquant si cette instance est hexadécimale"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.dataeditor/cospdfstring/ishexadecimal/
 ---
-## Propriété CosPdfString.IsHexadecimal
+## CosPdfString.IsHexadecimal property
 
 Obtient une valeur indiquant si cette instance est hexadécimale.
 
@@ -14,12 +14,14 @@ Obtient une valeur indiquant si cette instance est hexadécimale.
 public bool IsHexadecimal { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 `true` si cette instance est hexadécimale ; sinon, `false`.
 
 ### Voir aussi
 
-* classe [CosPdfString](../)
-* espace de noms [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* class [CosPdfString](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: LlamaClient.CreateWithApiKey
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode LlamaClient. Crée une nouvelle instance de Builder avec la clé API fournie
+title: "LlamaClient.CreateWithApiKey"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode LlamaClient. Crée une nouvelle instance de Builder avec la clé API fournie."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.ai/llamaclient/createwithapikey/
 ---
-## Méthode LlamaClient.CreateWithApiKey
+## LlamaClient.CreateWithApiKey method
 
 Crée une nouvelle instance de [`Builder`](../../llamaclient.builder/) avec la clé API fournie.
 
@@ -24,7 +24,9 @@ Une instance de [`Builder`](../../llamaclient.builder/).
 
 ### Voir aussi
 
-* classe [Builder](../../llamaclient.builder/)
-* classe [LlamaClient](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Builder](../../llamaclient.builder/)
+* class [LlamaClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

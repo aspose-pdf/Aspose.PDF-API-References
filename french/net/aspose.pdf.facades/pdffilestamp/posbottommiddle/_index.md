@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.PosBottomMiddle
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PdfFileStamp. Position du bas au milieu
+title: "PdfFileStamp.PosBottomMiddle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PdfFileStamp champ. Position centrale inférieure"
 type: docs
 weight: 180
 url: /fr/net/aspose.pdf.facades/pdffilestamp/posbottommiddle/
 ---
-## Champ PdfFileStamp.PosBottomMiddle
+## PdfFileStamp.PosBottomMiddle field
 
-Position du bas au milieu.
+Position en bas au centre.
 
 ```csharp
 public const int PosBottomMiddle;
@@ -16,6 +16,8 @@ public const int PosBottomMiddle;
 
 ### Voir aussi
 
-* classe [PdfFileStamp](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

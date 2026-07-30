@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.SignatureAppearanceStream
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfFileSignature. Définit ou obtient une apparence graphique pour la signature. La valeur de la propriété représente un flux d'image
+title: "PdfFileSignature.SignatureAppearanceStream"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfFileSignature. Définit ou obtient l’apparence graphique de la signature. La valeur de la propriété représente le flux d’image."
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.facades/pdffilesignature/signatureappearancestream/
 ---
-## Propriété PdfFileSignature.SignatureAppearanceStream
+## PdfFileSignature.SignatureAppearanceStream property
 
-Définit ou obtient une apparence graphique pour la signature. La valeur de la propriété représente un flux d'image.
+Définit ou obtient l'apparence graphique de la signature. La valeur de la propriété représente le flux d'image.
 
 ```csharp
 public Stream SignatureAppearanceStream { get; set; }
@@ -16,6 +16,8 @@ public Stream SignatureAppearanceStream { get; set; }
 
 ### Voir aussi
 
-* classe [PdfFileSignature](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

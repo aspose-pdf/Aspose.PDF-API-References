@@ -1,14 +1,14 @@
 ---
-title: CustomFontSubstitutionBase.OriginalFontSpecification.IsEmbedded
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OriginalFontSpecification. Obtient une valeur qui indique si la police est intégrée
+title: "CustomFontSubstitutionBase.OriginalFontSpecification.IsEmbedded"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété OriginalFontSpecification. Obtient une valeur qui indique si la police est incorporée."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.text/customfontsubstitutionbase.originalfontspecification/isembedded/
 ---
-## Propriété CustomFontSubstitutionBase.OriginalFontSpecification.IsEmbedded
+## CustomFontSubstitutionBase.OriginalFontSpecification.IsEmbedded property
 
-Obtient une valeur qui indique si la police est intégrée.
+Obtient une valeur indiquant si la police est incorporée.
 
 ```csharp
 public bool IsEmbedded { get; }
@@ -16,6 +16,8 @@ public bool IsEmbedded { get; }
 
 ### Voir aussi
 
-* classe [OriginalFontSpecification](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [OriginalFontSpecification](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormEditor.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FormEditor. Démarre le traitement de FormEditor avec les paramètres spécifiés
+title: "FormEditor.Process"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode FormEditor. Démarre le traitement de FormEditor avec les paramètres spécifiés"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.plugins/formeditor/process/
 ---
-## Méthode FormEditor.Process
+## FormEditor.Process method
 
-Démarre le traitement de FormEditor avec les paramètres spécifiés.
+Démarre le traitement FormEditor avec les paramètres spécifiés.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -16,7 +16,7 @@ public ResultContainer Process(IPluginOptions options)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| options | IPluginOptions | Un objet d'options contenant des instructions pour le FormEditor. |
+| options | IPluginOptions | Un objet d'options contenant les instructions pour le FormEditor. |
 
 ### Valeur de retour
 
@@ -26,12 +26,14 @@ Un objet ResultContainer contenant le résultat de l'opération.
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | Si options n'est pas correct. |
+| ArgumentException | Si les options ne sont pas correctes. |
 
 ### Voir aussi
 
-* classe [ResultContainer](../../resultcontainer/)
+* class [ResultContainer](../../resultcontainer/)
 * interface [IPluginOptions](../../ipluginoptions/)
-* classe [FormEditor](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

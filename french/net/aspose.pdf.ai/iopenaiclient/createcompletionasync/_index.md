@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.CreateCompletionAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode IOpenAIClient. Crée une nouvelle complétion de manière asynchrone
+title: "IOpenAIClient.CreateCompletionAsync"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "méthode IOpenAIClient. Crée une nouvelle complétion de façon asynchrone"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.ai/iopenaiclient/createcompletionasync/
 ---
-## Méthode IOpenAIClient.CreateCompletionAsync
+## IOpenAIClient.CreateCompletionAsync method
 
-Crée une nouvelle complétion de manière asynchrone.
+Crée une nouvelle complétion de façon asynchrone.
 
 ```csharp
 public Task<CompletionResponse> CreateCompletionAsync(
@@ -17,7 +17,7 @@ public Task<CompletionResponse> CreateCompletionAsync(
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| completionCreateRequest | CompletionCreateRequest | L'objet de demande contenant les détails pour créer la complétion. |
+| completionCreateRequest | CompletionCreateRequest | L'objet de requête contenant les détails pour créer la complétion. |
 | cancellationToken | Nullable`1 | Un jeton pour annuler l'opération. |
 
 ### Valeur de retour
@@ -26,8 +26,10 @@ Une tâche qui représente l'opération asynchrone. Le résultat de la tâche co
 
 ### Voir aussi
 
-* classe [CompletionResponse](../../completionresponse/)
-* classe [CompletionCreateRequest](../../completioncreaterequest/)
+* class [CompletionResponse](../../completionresponse/)
+* class [CompletionCreateRequest](../../completioncreaterequest/)
 * interface [IOpenAIClient](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

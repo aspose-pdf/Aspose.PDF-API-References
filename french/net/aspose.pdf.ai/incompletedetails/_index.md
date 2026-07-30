@@ -1,14 +1,14 @@
 ---
-title: Class IncompleteDetails
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.IncompleteDetails. Détails sur les raisons pour lesquelles l'exécution est incomplète. Sera nul si l'exécution n'est pas incomplète
+title: "Classe IncompleteDetails"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.AI.IncompleteDetails. Détails sur la raison pour laquelle l'exécution est incomplète. Sera null si l'exécution n'est pas incomplète"
 type: docs
-weight: 650
+weight: 700
 url: /fr/net/aspose.pdf.ai/incompletedetails/
 ---
-## Classe IncompleteDetails
+## IncompleteDetails class
 
-Détails sur les raisons pour lesquelles l'exécution est incomplète. Sera nul si l'exécution n'est pas incomplète.
+Détails sur la raison pour laquelle l'exécution est incomplète. Sera nul si l'exécution n'est pas incomplète.
 
 ```csharp
 public class IncompleteDetails
@@ -28,5 +28,7 @@ public class IncompleteDetails
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

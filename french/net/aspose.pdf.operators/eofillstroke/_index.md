@@ -1,14 +1,14 @@
 ---
-title: Class EOFillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.EOFillStroke. Classe représentant l'opérateur B pour remplir et tracer un chemin en utilisant la règle de parité.
+title: "Classe EOFillStroke"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.EOFillStroke class. Classe représentant l'opérateur B qui remplit et trace le chemin en utilisant la règle pair-impaire"
 type: docs
-weight: 7330
+weight: 7470
 url: /fr/net/aspose.pdf.operators/eofillstroke/
 ---
-## Classe EOFillStroke
+## EOFillStroke class
 
-Classe représentant l'opérateur B* (remplir et tracer un chemin en utilisant la règle de parité).
+Classe représentant l'opérateur B* (remplir et tracer le chemin en utilisant la règle paire-impaire).
 
 ```csharp
 public class EOFillStroke : Operator
@@ -30,12 +30,14 @@ public class EOFillStroke : Operator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/eofillstroke/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/eofillstroke/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Renvoie le texte de l'opérateur et ses paramètres. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [Operator](../../aspose.pdf/operator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

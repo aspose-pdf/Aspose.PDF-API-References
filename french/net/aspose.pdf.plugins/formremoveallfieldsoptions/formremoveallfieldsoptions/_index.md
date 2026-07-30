@@ -1,12 +1,12 @@
 ---
-title: FormRemoveAllFieldsOptions.FormRemoveAllFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de FormRemoveAllFieldsOptions. Le constructeur par défaut
+title: "FormRemoveAllFieldsOptions.FormRemoveAllFieldsOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur FormRemoveAllFieldsOptions. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.plugins/formremoveallfieldsoptions/formremoveallfieldsoptions/
 ---
-## Constructeur de FormRemoveAllFieldsOptions
+## FormRemoveAllFieldsOptions constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public FormRemoveAllFieldsOptions()
 
 ### Voir aussi
 
-* classe [FormRemoveAllFieldsOptions](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [FormRemoveAllFieldsOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

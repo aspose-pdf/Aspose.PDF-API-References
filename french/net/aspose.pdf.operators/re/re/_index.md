@@ -1,7 +1,7 @@
 ---
-title: Re.Re
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur Re. Initialise l'opérateur
+title: "Re.Re"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur Re. Initialise l'opérateur"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.operators/re/re/
@@ -16,8 +16,8 @@ public Re()
 
 ### Voir aussi
 
-* classe [Re](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [Re](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -34,11 +34,13 @@ public Re(double x, double y, double width, double height)
 | --- | --- | --- |
 | x | Double | La coordonnée x du coin inférieur gauche du rectangle. |
 | y | Double | La coordonnée y du coin inférieur gauche du rectangle. |
-| width | Double | La largeur du rectangle. |
-| height | Double | La hauteur du rectangle. |
+| largeur | Double | La largeur du rectangle. |
+| hauteur | Double | La hauteur du rectangle. |
 
 ### Voir aussi
 
-* classe [Re](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [Re](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

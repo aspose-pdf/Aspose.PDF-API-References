@@ -1,12 +1,12 @@
 ---
-title: Class Bookmark
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Facades.Bookmark. Représente un signet
+title: "Classe Bookmark"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Facades.Bookmark classe. Représente un signet."
 type: docs
-weight: 4190
+weight: 4310
 url: /fr/net/aspose.pdf.facades/bookmark/
 ---
-## Classe Bookmark
+## Bookmark class
 
 Représente un signet.
 
@@ -24,7 +24,7 @@ public sealed class Bookmark
 
 | Nom | Description |
 | --- | --- |
-| [Action](../../aspose.pdf.facades/bookmark/action/) { get; set; } | Obtient ou définit l'action liée au signet. Si PageNumber est présent, l'action ne peut pas être spécifiée. Les types d'action incluent : "GoTo", "GoToR", "Launch", "Named". |
+| [Action](../../aspose.pdf.facades/bookmark/action/) { get; set; } | Obtient ou définit l'action liée au signet. Si PageNumber est présent, l'action ne peut pas être spécifiée. Le type d'action comprend : \"GoTo\", \"GoToR\", \"Launch\", \"Named\". |
 | [BoldFlag](../../aspose.pdf.facades/bookmark/boldflag/) { get; set; } | Obtient ou définit le drapeau gras du titre du signet. |
 | [ChildItems](../../aspose.pdf.facades/bookmark/childitems/) { get; set; } | Obtient ou définit les enfants du signet. |
 | [CustomAcorbatViewerMenuActionName](../../aspose.pdf.facades/bookmark/customacorbatviewermenuactionname/) { get; set; } | Le nom de l'action correspondant à l'exécution d'un élément de menu dans le visualiseur Acrobat. |
@@ -45,5 +45,7 @@ public sealed class Bookmark
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

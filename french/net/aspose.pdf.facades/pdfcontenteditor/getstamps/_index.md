@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.GetStamps
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfContentEditor. Renvoie un tableau de tampons sur la page
+title: "PdfContentEditor.GetStamps"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfContentEditor. Retourne un tableau de tampons sur la page."
 type: docs
 weight: 380
 url: /fr/net/aspose.pdf.facades/pdfcontenteditor/getstamps/
 ---
-## Méthode PdfContentEditor.GetStamps
+## PdfContentEditor.GetStamps method
 
-Renvoie un tableau de tampons sur la page.
+Renvoie le tableau de tampons sur la page.
 
 ```csharp
 public StampInfo[] GetStamps(int pageNumber)
@@ -24,7 +24,9 @@ Tableau de tampons.
 
 ### Voir aussi
 
-* classe [StampInfo](../../stampinfo/)
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [StampInfo](../../stampinfo/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

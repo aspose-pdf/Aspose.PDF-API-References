@@ -1,14 +1,14 @@
 ---
-title: FormEditor.ExportItems
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FormEditor. Définit les options pour la boîte combinée avec des valeurs d'exportation
+title: "FormEditor.ExportItems"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FormEditor. Définit les options pour la liste déroulante avec les valeurs d'exportation."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.facades/formeditor/exportitems/
 ---
-## Propriété FormEditor.ExportItems
+## FormEditor.ExportItems property
 
-Définit les options pour la boîte combinée avec des valeurs d'exportation.
+Définit les options pour la zone combinée avec des valeurs d'exportation.
 
 ```csharp
 public string[][] ExportItems { get; set; }
@@ -30,6 +30,8 @@ formEditor.Save();
 
 ### Voir aussi
 
-* classe [FormEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

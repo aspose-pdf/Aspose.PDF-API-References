@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Private
-second_title: Aspose.PDF for .NET API Reference
-description: Champ StructureTypeStandard. Élément privé Un élément de regroupement contenant du contenu privé appartenant à l'application qui le produit. La signification structurelle de ce type d'élément est non spécifiée et doit être déterminée entièrement par l'écrivain conforme. Ni l'élément Privé ni aucun de ses descendants ne doivent être interprétés ou exportés vers d'autres formats de document.
+title: "StructureTypeStandard.Private"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "StructureTypeStandard champ. Private element Un élément de regroupement contenant du contenu privé appartenant à l'application qui le produit. La signification structurelle de ce type d'élément n'est pas spécifiée et doit être déterminée entièrement par le rédacteur conforme. Ni l'élément Private ni aucun de ses descendants ne doivent être interprétés ou exportés vers d'autres formats de document."
 type: docs
 weight: 290
 url: /fr/net/aspose.pdf.logicalstructure/structuretypestandard/private/
 ---
-## Champ StructureTypeStandard.Private
+## StructureTypeStandard.Private field
 
-(Élément privé) Un élément de regroupement contenant du contenu privé appartenant à l'application qui le produit. La signification structurelle de ce type d'élément est non spécifiée et doit être déterminée entièrement par l'écrivain conforme. Ni l'élément Privé ni aucun de ses descendants ne doivent être interprétés ou exportés vers d'autres formats de document.
+(Private element) Un élément de regroupement contenant du contenu privé appartenant à l’application qui le produit. La signification structurelle de ce type d’élément n’est pas spécifiée et doit être déterminée entièrement par l’auteur conforme. Ni l’élément Private ni aucun de ses descendants ne doivent être interprétés ou exportés vers d’autres formats de document.
 
 ```csharp
 public static readonly StructureTypeStandard Private;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard Private;
 
 ### Voir aussi
 
-* classe [StructureTypeStandard](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

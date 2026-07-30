@@ -1,12 +1,12 @@
 ---
-title: DefaultAppearance.FontResourceName
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété DefaultAppearance. Obtient le nom de la police dans l'apparence par défaut
+title: "DefaultAppearance.FontResourceName"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété DefaultAppearance. Obtient le nom de la police dans l'apparence par défaut"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.annotations/defaultappearance/fontresourcename/
 ---
-## Propriété DefaultAppearance.FontResourceName
+## DefaultAppearance.FontResourceName property
 
 Obtient le nom de la police dans l'apparence par défaut.
 
@@ -16,6 +16,8 @@ public string FontResourceName { get; set; }
 
 ### Voir aussi
 
-* classe [DefaultAppearance](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [DefaultAppearance](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

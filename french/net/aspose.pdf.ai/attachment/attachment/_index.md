@@ -1,12 +1,12 @@
 ---
-title: Attachment.Attachment
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur d'attachement. Le constructeur par défaut
+title: "Attachment.Attachment"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Attachment constructeur. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/attachment/attachment/
 ---
-## Constructeur d'attachement
+## Attachment constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public Attachment()
 
 ### Voir aussi
 
-* classe [Attachment](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Attachment](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

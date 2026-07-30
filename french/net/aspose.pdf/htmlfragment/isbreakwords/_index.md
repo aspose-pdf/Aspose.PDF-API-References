@@ -1,14 +1,14 @@
 ---
-title: HtmlFragment.IsBreakWords
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété HtmlFragment. Obtient ou définit la rupture des mots
+title: "HtmlFragment.IsBreakWords"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété HtmlFragment. Obtient ou définit la césure des mots"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/htmlfragment/isbreakwords/
 ---
-## Propriété HtmlFragment.IsBreakWords
+## HtmlFragment.IsBreakWords property
 
-Obtient ou définit la rupture des mots
+Obtient ou définit la coupure des mots
 
 ```csharp
 public bool IsBreakWords { get; set; }
@@ -16,6 +16,8 @@ public bool IsBreakWords { get; set; }
 
 ### Voir aussi
 
-* classe [HtmlFragment](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [HtmlFragment](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

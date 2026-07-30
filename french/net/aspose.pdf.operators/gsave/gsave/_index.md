@@ -1,12 +1,12 @@
 ---
-title: GSave.GSave
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur GSave. Initialise l'opérateur q
+title: "GSave.GSave"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur GSave. Initialise l'opérateur q"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.operators/gsave/gsave/
 ---
-## Constructeur GSave
+## GSave constructor
 
 Initialise l'opérateur q.
 
@@ -16,6 +16,8 @@ public GSave()
 
 ### Voir aussi
 
-* classe [GSave](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [GSave](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

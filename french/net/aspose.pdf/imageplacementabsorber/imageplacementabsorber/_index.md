@@ -1,12 +1,12 @@
 ---
-title: ImagePlacementAbsorber.ImagePlacementAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur d'ImagePlacementAbsorber. Le constructeur par défaut
+title: "ImagePlacementAbsorber.ImagePlacementAbsorber"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur ImagePlacementAbsorber. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/imageplacementabsorber/imageplacementabsorber/
 ---
-## Constructeur d'ImagePlacementAbsorber
+## ImagePlacementAbsorber constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public ImagePlacementAbsorber()
 
 ### Voir aussi
 
-* classe [ImagePlacementAbsorber](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [ImagePlacementAbsorber](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

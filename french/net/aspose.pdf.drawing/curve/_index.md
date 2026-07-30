@@ -1,12 +1,12 @@
 ---
-title: Class Curve
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Drawing.Curve. Représente une courbe de Bézier
+title: "Classe Curve"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Drawing.Curve. Représente une courbe de Bézier"
 type: docs
-weight: 3900
+weight: 4020
 url: /fr/net/aspose.pdf.drawing/curve/
 ---
-## Classe Courbe
+## Curve class
 
 Représente une courbe de Bézier.
 
@@ -24,8 +24,8 @@ public sealed class Curve : Shape
 
 | Nom | Description |
 | --- | --- |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Obtient ou définit un objet [`GraphInfo`](../shape/graphinfo/) qui indique les informations sur le graphique, telles que la couleur, la largeur de ligne, etc. |
-| [PositionArray](../../aspose.pdf.drawing/curve/positionarray/) { get; set; } | Obtient ou définit un tableau de positions flottantes. |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Obtient ou définit un objet [`GraphInfo`](../shape/graphinfo/) qui indique les informations du graphe, telles que la couleur, la largeur de ligne, etc. |
+| [PositionArray](../../aspose.pdf.drawing/curve/positionarray/) { get; set; } | Obtient ou définit un tableau de positions float. |
 | [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Obtient ou définit un texte pour la forme |
 
 ## Méthodes
@@ -36,6 +36,8 @@ public sealed class Curve : Shape
 
 ### Voir aussi
 
-* classe [Shape](../shape/)
-* espace de noms [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* class [Shape](../shape/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
+
+

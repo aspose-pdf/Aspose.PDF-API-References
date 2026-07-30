@@ -1,12 +1,12 @@
 ---
-title: PdfAConvertOptions.PdfAConvertOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de PdfAConvertOptions. Le constructeur par défaut
+title: "PdfAConvertOptions.PdfAConvertOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur PdfAConvertOptions. Le constructeur par défaut."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.plugins/pdfaconvertoptions/pdfaconvertoptions/
 ---
-## Constructeur de PdfAConvertOptions
+## PdfAConvertOptions constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public PdfAConvertOptions()
 
 ### Voir aussi
 
-* classe [PdfAConvertOptions](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [PdfAConvertOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

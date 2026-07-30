@@ -1,12 +1,12 @@
 ---
-title: TextFragmentCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TextFragmentCollection. Supprime l'élément spécifié de la collection
+title: "TextFragmentCollection.Remove"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TextFragmentCollection. Supprime l'élément spécifié de la collection"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf.text/textfragmentcollection/remove/
 ---
-## Méthode TextFragmentCollection.Remove
+## TextFragmentCollection.Remove method
 
 Supprime l'élément spécifié de la collection.
 
@@ -24,7 +24,9 @@ true si l'élément a été supprimé de la collection ; sinon, false.
 
 ### Voir aussi
 
-* classe [TextFragment](../../textfragment/)
-* classe [TextFragmentCollection](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextFragment](../../textfragment/)
+* class [TextFragmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

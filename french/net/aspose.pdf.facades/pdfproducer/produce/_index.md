@@ -1,14 +1,14 @@
 ---
-title: PdfProducer.Produce
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfProducer. Produire le flux PDF en utilisant le format d'importation spécifié. Cet exemple montre comment produire un flux Pdf à partir d'un flux CGM
+title: "PdfProducer.Produce"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfProducer. Produit le flux PDF en utilisant le format d'importation spécifié. Cet exemple montre comment produire un flux Pdf à partir d'un flux CGM."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.facades/pdfproducer/produce/
 ---
 ## Produce(Stream, ImportFormat, Stream) {#produce}
 
-Produire le flux PDF en utilisant le format d'importation spécifié. Cet exemple montre comment produire un flux Pdf à partir d'un flux CGM.
+Produit le flux PDF en utilisant le format d'importation spécifié. Cet exemple montre comment produire un flux Pdf à partir d'un flux CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -27,7 +27,7 @@ public static void Produce(Stream inputStream, ImportFormat format, Stream outpu
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | inputStream | Stream | Flux d'entrée. |
-| format | ImportFormat | Format d'importation. |
+| format | ImportFormat | Format d’importation. |
 | outputStream | Stream | Flux PDF de sortie. |
 
 ### Exceptions
@@ -48,7 +48,7 @@ public static void Produce(Stream inputStream, ImportFormat format, Stream outpu
 
 ## Produce(string, ImportFormat, Stream) {#produce_4}
 
-Produire le flux PDF en utilisant le format d'importation spécifié. Cet exemple montre comment produire un flux Pdf à partir d'un fichier CGM.
+Produit le flux PDF en utilisant le format d'importation spécifié. Cet exemple montre comment produire un flux Pdf à partir d'un fichier CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -66,7 +66,7 @@ public static void Produce(string inputFileName, ImportFormat format, Stream out
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | inputFileName | String | Nom du fichier d'entrée. |
-| format | ImportFormat | Format d'importation. |
+| format | ImportFormat | Format d’importation. |
 | outputStream | Stream | Flux PDF de sortie. |
 
 ### Exceptions
@@ -88,7 +88,7 @@ public static void Produce(string inputFileName, ImportFormat format, Stream out
 
 ## Produce(Stream, ImportFormat, string) {#produce_1}
 
-Produire le fichier PDF en utilisant le format d'importation spécifié. Cet exemple montre comment produire un fichier Pdf à partir d'un flux CGM.
+Produit le fichier PDF en utilisant le format d'importation spécifié. Cet exemple montre comment produire un fichier Pdf à partir d'un flux CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -107,7 +107,7 @@ public static void Produce(Stream inputStream, ImportFormat format, string outpu
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | inputStream | Stream | Flux d'entrée. |
-| format | ImportFormat | Format d'importation. |
+| format | ImportFormat | Format d’importation. |
 | outputFileName | String | Fichier PDF de sortie |
 
 ### Exceptions
@@ -129,7 +129,7 @@ public static void Produce(Stream inputStream, ImportFormat format, string outpu
 
 ## Produce(string, ImportFormat, string) {#produce_5}
 
-Produire le fichier PDF en utilisant le format d'importation spécifié. Cet exemple montre comment produire un fichier Pdf à partir d'un fichier CGM.
+Produit le fichier PDF en utilisant le format d'importation spécifié. Cet exemple montre comment produire un fichier Pdf à partir d'un fichier CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -144,7 +144,7 @@ public static void Produce(string inputFileName, ImportFormat format, string out
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | inputFileName | String | Nom du fichier d'entrée. |
-| format | ImportFormat | Format d'importation. |
+| format | ImportFormat | Format d’importation. |
 | outputFileName | String | Fichier PDF de sortie |
 
 ### Exceptions
@@ -165,7 +165,7 @@ public static void Produce(string inputFileName, ImportFormat format, string out
 
 ## Produce(string, ImportOptions, Stream) {#produce_6}
 
-Produire le flux PDF en utilisant l'option d'importation spécifiée. Cet exemple montre comment produire un flux Pdf à partir d'un fichier CGM.
+Produit le flux PDF en utilisant l'option d'importation spécifiée. Cet exemple montre comment produire un flux Pdf à partir d'un fichier CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -206,7 +206,7 @@ public static void Produce(string inputFileName, ImportOptions options, Stream o
 
 ## Produce(Stream, ImportOptions, string) {#produce_3}
 
-Produire le fichier PDF en utilisant l'option d'importation spécifiée. Cet exemple montre comment produire un fichier Pdf à partir d'un flux CGM.
+Produit le fichier PDF en utilisant l'option d'importation spécifiée. Cet exemple montre comment produire un fichier Pdf à partir d'un flux CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -247,7 +247,7 @@ public static void Produce(Stream inputStream, ImportOptions options, string out
 
 ## Produce(string, ImportOptions, string) {#produce_7}
 
-Produire le fichier PDF en utilisant l'option d'importation spécifiée. Cet exemple montre comment produire un fichier Pdf à partir d'un fichier CGM.
+Produit le fichier PDF en utilisant l'option d'importation spécifiée. Cet exemple montre comment produire un fichier Pdf à partir d'un fichier CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -284,7 +284,7 @@ public static void Produce(string inputFileName, ImportOptions options, string o
 
 ## Produce(Stream, ImportOptions, Stream) {#produce_2}
 
-Produire le fichier PDF en utilisant l'option d'importation spécifiée. Cet exemple montre comment produire un flux Pdf à partir d'un flux CGM.
+Produit le fichier PDF en utilisant l'option d'importation spécifiée. Cet exemple montre comment produire un flux Pdf à partir d'un flux CGM.
 
 ```csharp
 string inputFile = "myImage.cgm";
@@ -320,3 +320,5 @@ public static void Produce(Stream inputStream, ImportOptions options, Stream out
 * class [PdfProducer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

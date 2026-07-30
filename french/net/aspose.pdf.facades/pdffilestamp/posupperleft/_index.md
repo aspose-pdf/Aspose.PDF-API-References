@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.PosUpperLeft
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PdfFileStamp. Position supérieure gauche
+title: "PdfFileStamp.PosUpperLeft"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PdfFileStamp. Position supérieure gauche"
 type: docs
 weight: 220
 url: /fr/net/aspose.pdf.facades/pdffilestamp/posupperleft/
 ---
-## Champ PdfFileStamp.PosUpperLeft
+## PdfFileStamp.PosUpperLeft field
 
-Position supérieure gauche.
+Position en haut à gauche.
 
 ```csharp
 public const int PosUpperLeft;
@@ -16,6 +16,8 @@ public const int PosUpperLeft;
 
 ### Voir aussi
 
-* classe [PdfFileStamp](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: TextStamp.TextStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de TextStamp. Initialise une nouvelle instance de la classe TextStamp
+title: "TextStamp.TextStamp"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur TextStamp. Initialise une nouvelle instance de la classe TextStamp"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/textstamp/textstamp/
@@ -16,12 +16,12 @@ public TextStamp(string value)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| value | String | Valeur du tampon. |
+| valeur | String | Valeur du tampon. |
 
 ### Voir aussi
 
-* classe [TextStamp](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -36,21 +36,21 @@ public TextStamp(string value, TextState textState)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| value | String | Valeur du tampon. |
+| valeur | String | Valeur du tampon. |
 | textState | TextState | État du texte du tampon. |
 
 ### Voir aussi
 
-* classe [TextState](../../../aspose.pdf.text/textstate/)
-* classe [TextStamp](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## TextStamp(FormattedText) {#constructor}
 
-Initialise une nouvelle instance de la classe [`TextStamp`](../) avec un objet formattedText
+Initialise une nouvelle instance de la classe [`TextStamp`](../) avec l'objet formattedText
 
 ```csharp
 public TextStamp(FormattedText formattedText)
@@ -62,7 +62,9 @@ public TextStamp(FormattedText formattedText)
 
 ### Voir aussi
 
-* classe [FormattedText](../../../aspose.pdf.facades/formattedtext/)
-* classe [TextStamp](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

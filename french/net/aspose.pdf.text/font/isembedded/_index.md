@@ -1,14 +1,14 @@
 ---
-title: Font.IsEmbedded
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la police. Obtient ou définit une valeur qui indique si la police est intégrée. La police basée sur IFont sera automatiquement sous-ensemble et intégrée
+title: "Font.IsEmbedded"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Font. Obtient ou définit une valeur indiquant si la police est incorporée. Font basé sur IFont sera automatiquement sous-ensemble et incorporé"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.text/font/isembedded/
 ---
-## Propriété Font.IsEmbedded
+## Font.IsEmbedded property
 
-Obtient ou définit une valeur qui indique si la police est intégrée. La police basée sur IFont sera automatiquement sous-ensemble et intégrée
+Obtient ou définit une valeur indiquant si la police est incorporée. Une police basée sur IFont sera automatiquement sous‑ensemble et incorporée.
 
 ```csharp
 public bool IsEmbedded { get; set; }
@@ -16,33 +16,35 @@ public bool IsEmbedded { get; set; }
 
 ## Exemples
 
-L'exemple suivant démontre comment trouver une police, la marquer comme intégrée, rechercher du texte sur la page du document et remplacer la police de texte.
+L'exemple suivant montre comment trouver une police, la marquer comme incorporée, rechercher du texte sur la page du document et remplacer la police du texte.
 
 ```csharp
-// Create font and mark it to be embedded
+// Créer une police et la marquer pour qu’elle soit incorporée
 Font font = FontRepository.FindFont("Arial");
 font.IsEmbedded = true;
 
-// open document
+// ouvrir le document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Créer un objet TextFragmentAbsorber pour trouver toutes les occurrences de texte "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
-// accept the absorber for first page
+// accepter l'absorbeur pour la première page
 doc.Pages[1].Accept(absorber);
 
-// change font for the first text occurrence
+// Modifier la police de la première occurrence de texte
 absorber.TextFragments[1].TextState.Font = font;
 
-// save document
+// enregistrez le document
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
 ### Voir aussi
 
-* classe [TextFragmentAbsorber](../../textfragmentabsorber/)
-* classe [FontRepository](../../fontrepository/)
-* classe [Document](../../../aspose.pdf/document/)
-* classe [Font](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [FontRepository](../../fontrepository/)
+* class [Document](../../../aspose.pdf/document/)
+* class [Font](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

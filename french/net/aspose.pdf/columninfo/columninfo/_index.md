@@ -1,12 +1,12 @@
 ---
-title: ColumnInfo.ColumnInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de ColumnInfo. Le constructeur par défaut
+title: "ColumnInfo.ColumnInfo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur ColumnInfo. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/columninfo/columninfo/
 ---
-## Constructeur de ColumnInfo
+## ColumnInfo constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public ColumnInfo()
 
 ### Voir aussi
 
-* classe [ColumnInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [ColumnInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

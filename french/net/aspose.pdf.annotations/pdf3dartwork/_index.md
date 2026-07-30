@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DArtwork
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.PDF3DArtwork. Classe PDF3DArtwork
+title: "Classe PDF3DArtwork"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.PDF3DArtwork class. Classe PDF3DArtwork"
 type: docs
-weight: 2160
+weight: 2250
 url: /fr/net/aspose.pdf.annotations/pdf3dartwork/
 ---
-## Classe PDF3DArtwork
+## PDF3DArtwork class
 
 Classe PDF3DArtwork.
 
@@ -33,10 +33,12 @@ public class PDF3DArtwork
 
 | Nom | Description |
 | --- | --- |
-| [GetViewsArray](../../aspose.pdf.annotations/pdf3dartwork/getviewsarray/)() | Obtient le tableau de vues. |
-| [GetViewsList](../../aspose.pdf.annotations/pdf3dartwork/getviewslist/)() | Obtient les vues sous forme de liste. |
+| [GetViewsArray](../../aspose.pdf.annotations/pdf3dartwork/getviewsarray/)() | Obtient le tableau des vues. |
+| [GetViewsList](../../aspose.pdf.annotations/pdf3dartwork/getviewslist/)() | Obtenez les vues sous forme de liste. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Table.Alignment
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la table. Obtient ou définit l'alignement de la table
+title: "Table.Alignment"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Table. Obtient ou définit l'alignement du tableau"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/table/alignment/
 ---
-## Propriété Table.Alignment
+## Table.Alignment property
 
-Obtient ou définit l'alignement de la table.
+Obtient ou définit l'alignement du tableau.
 
 ```csharp
 public HorizontalAlignment Alignment { get; set; }
@@ -20,3 +20,5 @@ public HorizontalAlignment Alignment { get; set; }
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

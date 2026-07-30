@@ -1,14 +1,14 @@
 ---
-title: FontSubstitutionCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FontSubstitutionCollection. Renvoie un énumérateur pour l'ensemble de la collection
+title: "FontSubstitutionCollection.GetEnumerator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode FontSubstitutionCollection. Retourne un énumérateur pour l'intégralité de la collection"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.text/fontsubstitutioncollection/getenumerator/
 ---
-## Méthode FontSubstitutionCollection.GetEnumerator
+## FontSubstitutionCollection.GetEnumerator method
 
-Renvoie un énumérateur pour l'ensemble de la collection.
+Renvoie un énumérateur pour l'intégralité de la collection.
 
 ```csharp
 public IEnumerator<FontSubstitution> GetEnumerator()
@@ -20,7 +20,9 @@ Objet énumérateur
 
 ### Voir aussi
 
-* classe [FontSubstitution](../../fontsubstitution/)
-* classe [FontSubstitutionCollection](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [FontSubstitution](../../fontsubstitution/)
+* class [FontSubstitutionCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

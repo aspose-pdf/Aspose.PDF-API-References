@@ -1,14 +1,14 @@
 ---
-title: Class MoveToNextLine
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.MoveToNextLine. Classe représentant l'opérateur T Move au début de la ligne suivante
+title: "Classe MoveToNextLine"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.MoveToNextLine classe. Classe représentant l'opérateur T Déplacer au début de la ligne suivante"
 type: docs
-weight: 7510
+weight: 7650
 url: /fr/net/aspose.pdf.operators/movetonextline/
 ---
-## Classe MoveToNextLine
+## MoveToNextLine class
 
-Classe représentant l'opérateur T* (Déplacer au début de la ligne suivante).
+Classe représentant l'opérateur T* (Se déplacer au début de la ligne suivante).
 
 ```csharp
 public class MoveToNextLine : TextPlaceOperator
@@ -30,12 +30,14 @@ public class MoveToNextLine : TextPlaceOperator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/movetonextline/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/movetonextline/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf.operators/movetonextline/tostring/)() | Renvoie le texte de l'opérateur. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [TextPlaceOperator](../textplaceoperator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [TextPlaceOperator](../textplaceoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

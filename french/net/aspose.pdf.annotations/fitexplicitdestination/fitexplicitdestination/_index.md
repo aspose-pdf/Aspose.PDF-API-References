@@ -1,7 +1,7 @@
 ---
-title: FitExplicitDestination.FitExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur FitExplicitDestination. Crée une destination explicite locale
+title: "FitExplicitDestination.FitExplicitDestination"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "FitExplicitDestination constructeur. Crée une destination explicite locale"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/fitexplicitdestination/fitexplicitdestination/
@@ -16,13 +16,13 @@ public FitExplicitDestination(Page page)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| page | Page | L'objet de la page de destination. |
+| page | Page | L'objet de page de destination. |
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [FitExplicitDestination](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* class [FitExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -37,10 +37,12 @@ public FitExplicitDestination(int pageNumber)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| pageNumber | Int32 | Le numéro de la page de destination du document distant. |
+| pageNumber | Int32 | Le numéro de page de destination du Document distant. |
 
 ### Voir aussi
 
-* classe [FitExplicitDestination](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [FitExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

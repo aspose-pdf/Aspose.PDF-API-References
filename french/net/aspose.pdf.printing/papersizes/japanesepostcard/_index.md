@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.JapanesePostcard
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSizes. Carte postale japonaise 100 mm par 148 mm
+title: "PaperSizes.JapanesePostcard"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PaperSizes. Carte postale japonaise 100 mm par 148 mm"
 type: docs
 weight: 600
 url: /fr/net/aspose.pdf.printing/papersizes/japanesepostcard/
 ---
-## Champ PaperSizes.JapanesePostcard
+## PaperSizes.JapanesePostcard field
 
 Carte postale japonaise (100 mm par 148 mm).
 
@@ -16,7 +16,9 @@ public static readonly PaperSize JapanesePostcard;
 
 ### Voir aussi
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

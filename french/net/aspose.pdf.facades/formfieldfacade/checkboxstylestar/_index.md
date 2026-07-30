@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.CheckBoxStyleStar
-second_title: Aspose.PDF for .NET API Reference
-description: Champ FormFieldFacade. Définit un style de case à cocher en forme d'étoile
+title: "FormFieldFacade.CheckBoxStyleStar"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "FormFieldFacade champ. Définit un style de case à cocher en forme d'étoile"
 type: docs
 weight: 440
 url: /fr/net/aspose.pdf.facades/formfieldfacade/checkboxstylestar/
 ---
-## Champ FormFieldFacade.CheckBoxStyleStar
+## FormFieldFacade.CheckBoxStyleStar field
 
-Définit un style de case à cocher en forme d'étoile.
+Définit un style de case à cocher étoile.
 
 ```csharp
 public const int CheckBoxStyleStar;
@@ -16,6 +16,8 @@ public const int CheckBoxStyleStar;
 
 ### Voir aussi
 
-* classe [FormFieldFacade](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: DictionaryEditor.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété DictionaryEditor. Obtient une valeur indiquant si le DictionaryEditor est en lecture seule
+title: "DictionaryEditor.IsReadOnly"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété DictionaryEditor. Obtient une valeur indiquant si le DictionaryEditor est en lecture seule"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.dataeditor/dictionaryeditor/isreadonly/
 ---
-## Propriété DictionaryEditor.IsReadOnly
+## DictionaryEditor.IsReadOnly property
 
 Obtient une valeur indiquant si le [`DictionaryEditor`](../) est en lecture seule.
 
@@ -20,6 +20,8 @@ true si le [`DictionaryEditor`](../) est en lecture seule ; sinon, false.
 
 ### Voir aussi
 
-* classe [DictionaryEditor](../)
-* espace de noms [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

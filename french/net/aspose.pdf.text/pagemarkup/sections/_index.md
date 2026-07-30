@@ -1,12 +1,12 @@
 ---
-title: PageMarkup.Sections
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PageMarkup. Obtient la collection de MarkupSection qui a été trouvée sur la page
+title: "PageMarkup.Sections"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PageMarkup. Obtient la collection de MarkupSection qui a été trouvée sur la page"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.text/pagemarkup/sections/
 ---
-## Propriété PageMarkup.Sections
+## PageMarkup.Sections property
 
 Obtient la collection de [`MarkupSection`](../../markupsection/) qui a été trouvée sur la page.
 
@@ -16,7 +16,9 @@ public List<MarkupSection> Sections { get; }
 
 ### Voir aussi
 
-* classe [MarkupSection](../../markupsection/)
-* classe [PageMarkup](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [MarkupSection](../../markupsection/)
+* class [PageMarkup](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

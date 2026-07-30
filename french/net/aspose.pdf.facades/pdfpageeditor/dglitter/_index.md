@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.DGLITTER
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PdfPageEditor. Paillettes Diagonales
+title: "PdfPageEditor.DGLITTER"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PdfPageEditor. Diagonal Glitter"
 type: docs
 weight: 220
 url: /fr/net/aspose.pdf.facades/pdfpageeditor/dglitter/
 ---
-## Champ PdfPageEditor.DGLITTER
+## PdfPageEditor.DGLITTER field
 
-Paillettes Diagonales
+Scintillement diagonal
 
 ```csharp
 public const int DGLITTER;
 ```
 
-### Voir Aussi
+### Voir aussi
 
-* classe [PdfPageEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

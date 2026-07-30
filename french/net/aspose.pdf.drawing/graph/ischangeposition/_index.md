@@ -1,14 +1,14 @@
 ---
-title: Graph.IsChangePosition
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Graph. Obtient ou définit le changement de position actuelle après le traitement du paragraphe.
+title: "Graph.IsChangePosition"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Graph. Obtient ou définit le changement de position actuelle après le traitement du paragraphe. Valeur par défaut true"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.drawing/graph/ischangeposition/
 ---
-## Propriété Graph.IsChangePosition
+## Graph.IsChangePosition property
 
-Obtient ou définit le changement de position actuelle après le traitement du paragraphe. (par défaut vrai)
+Obtient ou définit le changement de position actuelle après le traitement du paragraphe. (par défaut true)
 
 ```csharp
 public bool IsChangePosition { get; set; }
@@ -16,6 +16,8 @@ public bool IsChangePosition { get; set; }
 
 ### Voir aussi
 
-* classe [Graph](../)
-* espace de noms [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

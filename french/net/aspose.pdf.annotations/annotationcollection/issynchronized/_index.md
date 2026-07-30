@@ -1,14 +1,14 @@
 ---
-title: AnnotationCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété AnnotationCollection. Obtient une valeur indiquant si l'accès à l'Aspose.Pdf.Annotations.AnnotationCollection est synchronisé et sûr pour les threads
+title: "AnnotationCollection.IsSynchronized"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété AnnotationCollection. Obtient une valeur indiquant si l'accès à Aspose.Pdf.Annotations.AnnotationCollection est synchronisé et sûr pour les threads."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.annotations/annotationcollection/issynchronized/
 ---
-## Propriété AnnotationCollection.IsSynchronized
+## AnnotationCollection.IsSynchronized property
 
-Obtient une valeur indiquant si l'accès à l'Aspose.Pdf.Annotations.AnnotationCollection est synchronisé (sûr pour les threads).
+Obtient une valeur indiquant si l'accès à Aspose.Pdf.Annotations.AnnotationCollection est synchronisé (thread safe).
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -16,6 +16,8 @@ public bool IsSynchronized { get; }
 
 ### Voir aussi
 
-* classe [AnnotationCollection](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FontSubstitutionCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FontSubstitutionCollection. Supprime l'élément de substitution de police
+title: "FontSubstitutionCollection.Remove"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode FontSubstitutionCollection. Supprime l'élément de substitution de police"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.text/fontsubstitutioncollection/remove/
 ---
-## Méthode FontSubstitutionCollection.Remove
+## FontSubstitutionCollection.Remove method
 
 Supprime l'élément de substitution de police.
 
@@ -20,11 +20,13 @@ public bool Remove(FontSubstitution item)
 
 ### Valeur de retour
 
-Vrai - si l'élément a été supprimé ; sinon, faux.
+True - si l'élément est supprimé ; sinon, false.
 
 ### Voir aussi
 
-* classe [FontSubstitution](../../fontsubstitution/)
-* classe [FontSubstitutionCollection](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [FontSubstitution](../../fontsubstitution/)
+* class [FontSubstitutionCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.Exportable
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FormFieldOptions. Obtient/définit la valeur pour déterminer si le champ créé/modifié est exportable ou non.
+title: "FormFieldOptions.Exportable"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FormFieldOptions. Obtient/Définit la valeur permettant de déterminer si le champ créé/modifié est exportable ou non lorsqu'il sera défini"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.plugins/formfieldoptions/exportable/
 ---
-## Propriété FormFieldOptions.Exportable
+## FormFieldOptions.Exportable property
 
-Obtient/définit la valeur pour déterminer si le champ créé/modifié est exportable ou non (s'il sera défini).
+Obtient/définit la valeur pour déterminer si le champ créé/modifié est exportable ou non (si elle sera définie).
 
 ```csharp
 public bool? Exportable { get; set; }
@@ -16,6 +16,8 @@ public bool? Exportable { get; set; }
 
 ### Voir aussi
 
-* classe [FormFieldOptions](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [FormFieldOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

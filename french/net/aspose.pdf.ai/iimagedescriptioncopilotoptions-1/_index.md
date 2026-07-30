@@ -1,14 +1,14 @@
 ---
-title: Interface IImageDescriptionCopilotOptionsTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Interface Aspose.Pdf.AI.IImageDescriptionCopilotOptions1TOptions. Représente une interface pour les options de copilote de description d'image avec un type spécifique
+title: "Interface IImageDescriptionCopilotOptionsTOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Interface Aspose.Pdf.AI.IImageDescriptionCopilotOptions1TOptions. Représente une interface pour les options du copilote de description d'image avec un type spécifique."
 type: docs
-weight: 520
+weight: 540
 url: /fr/net/aspose.pdf.ai/iimagedescriptioncopilotoptions-1/
 ---
-## Interface IImageDescriptionCopilotOptions&lt;TOptions&gt;
+## IImageDescriptionCopilotOptions&lt;TOptions&gt; interface
 
-Représente une interface pour les options de copilote de description d'image avec un type spécifique.
+Représente une interface pour les options du copilote de description d'image avec un type spécifique.
 
 ```csharp
 public interface IImageDescriptionCopilotOptions<out TOptions>
@@ -26,5 +26,7 @@ public interface IImageDescriptionCopilotOptions<out TOptions>
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

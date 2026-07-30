@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.CanonicalFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Champ SubmitFormAction. S'il est défini, toutes les valeurs de champ soumises représentant des dates seront converties au format standard
+title: "SubmitFormAction.CanonicalFormat"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ SubmitFormAction. Si défini, toutes les valeurs de champ soumises représentant des dates seront converties au format standard."
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.annotations/submitformaction/canonicalformat/
 ---
-## Champ SubmitFormAction.CanonicalFormat
+## SubmitFormAction.CanonicalFormat field
 
-S'il est défini, toutes les valeurs de champ soumises représentant des dates seront converties au format standard.
+Si défini, toutes les valeurs de champ soumises représentant des dates seront converties au format standard.
 
 ```csharp
 public const int CanonicalFormat;
@@ -16,6 +16,8 @@ public const int CanonicalFormat;
 
 ### Voir aussi
 
-* classe [SubmitFormAction](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [SubmitFormAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

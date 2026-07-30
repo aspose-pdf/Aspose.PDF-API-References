@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ImagePlacementCollection. Obtient une valeur indiquant si l'accès à la collection est synchronisé et sécurisé pour les threads
+title: "ImagePlacementCollection.IsSynchronized"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ImagePlacementCollection. Obtient une valeur indiquant si l'accès à la collection est synchronisé et thread‑safe"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/imageplacementcollection/issynchronized/
 ---
-## Propriété ImagePlacementCollection.IsSynchronized
+## ImagePlacementCollection.IsSynchronized property
 
-Obtient une valeur indiquant si l'accès à la collection est synchronisé (sécurisé pour les threads).
+Obtient une valeur indiquant si l'accès à la collection est synchronisé (thread safe).
 
 ```csharp
 public bool IsSynchronized { get; }
@@ -16,6 +16,8 @@ public bool IsSynchronized { get; }
 
 ### Voir aussi
 
-* classe [ImagePlacementCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [ImagePlacementCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

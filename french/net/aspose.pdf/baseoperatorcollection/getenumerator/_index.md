@@ -1,12 +1,12 @@
 ---
-title: BaseOperatorCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode BaseOperatorCollection. Renvoie un énumérateur pour la collection
+title: "BaseOperatorCollection.GetEnumerator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "BaseOperatorCollection méthode. Retourne un énumérateur pour la collection"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf/baseoperatorcollection/getenumerator/
 ---
-## Méthode BaseOperatorCollection.GetEnumerator
+## BaseOperatorCollection.GetEnumerator method
 
 Renvoie un énumérateur pour la collection
 
@@ -20,7 +20,9 @@ public abstract IEnumerator<Operator> GetEnumerator()
 
 ### Voir aussi
 
-* classe [Operator](../../operator/)
-* classe [BaseOperatorCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Operator](../../operator/)
+* class [BaseOperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class JavaScriptCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.JavaScriptCollection. Cette classe représente une collection de JavaScript
+title: "Classe JavaScriptCollection"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.JavaScriptCollection. Cette classe représente une collection de JavaScript"
 type: docs
-weight: 6040
+weight: 6170
 url: /fr/net/aspose.pdf/javascriptcollection/
 ---
-## Classe JavaScriptCollection
+## JavaScriptCollection class
 
 Cette classe représente une collection de JavaScript.
 
@@ -29,5 +29,7 @@ public class JavaScriptCollection
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

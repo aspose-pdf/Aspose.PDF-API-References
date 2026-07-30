@@ -1,12 +1,12 @@
 ---
-title: Class GradientAxialShading
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Drawing.GradientAxialShading. Représente la classe de dégradé axial
+title: "Classe GradientAxialShading"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Drawing.GradientAxialShading. Représente la classe de dégradé axial"
 type: docs
-weight: 3920
+weight: 4040
 url: /fr/net/aspose.pdf.drawing/gradientaxialshading/
 ---
-## Classe GradientAxialShading
+## GradientAxialShading class
 
 Représente la classe de dégradé axial.
 
@@ -32,6 +32,8 @@ public class GradientAxialShading : PatternColorSpace
 
 ### Voir aussi
 
-* classe [PatternColorSpace](../patterncolorspace/)
-* espace de noms [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
+* class [PatternColorSpace](../patterncolorspace/)
+* namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
+
+

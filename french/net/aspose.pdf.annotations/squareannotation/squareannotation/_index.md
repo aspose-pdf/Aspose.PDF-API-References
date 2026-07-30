@@ -1,7 +1,7 @@
 ---
-title: SquareAnnotation.SquareAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de SquareAnnotation. Constructeur à utiliser avec Generator
+title: "SquareAnnotation.SquareAnnotation"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur SquareAnnotation. Constructeur à utiliser avec Generator"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/squareannotation/squareannotation/
@@ -20,16 +20,16 @@ public SquareAnnotation(Document document)
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [SquareAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Document](../../../aspose.pdf/document/)
+* class [SquareAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## SquareAnnotation(Page, Rectangle) {#constructor_1}
 
-Crée une nouvelle annotation carrée sur la page spécifiée.
+Crée une nouvelle annotation Square sur la page spécifiée.
 
 ```csharp
 public SquareAnnotation(Page page, Rectangle rect)
@@ -37,13 +37,15 @@ public SquareAnnotation(Page page, Rectangle rect)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| page | Page | La page du document où l'annotation doit être créée. |
-| rect | Rectangle | Le rectangle de l'annotation, définissant l'emplacement de l'annotation sur la page. |
+| page | Page | La page du Document où l'annotation doit être créée. |
+| rect | Rectangle | Le rectangle d'annotation, définissant l'emplacement de l'annotation sur la page. |
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [SquareAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [SquareAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

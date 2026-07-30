@@ -1,14 +1,14 @@
 ---
-title: Class SelectorRendition
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.SelectorRendition. La classe décrit la représentation du sélecteur
+title: "Classe SelectorRendition"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.SelectorRendition class. La classe décrit le rendu du sélecteur."
 type: docs
-weight: 2520
+weight: 2620
 url: /fr/net/aspose.pdf.annotations/selectorrendition/
 ---
-## Classe SelectorRendition
+## SelectorRendition class
 
-La classe décrit la représentation du sélecteur.
+Classe décrivant le rendu du sélecteur.
 
 ```csharp
 public sealed class SelectorRendition : Rendition
@@ -18,12 +18,14 @@ public sealed class SelectorRendition : Rendition
 
 | Nom | Description |
 | --- | --- |
-| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | Chaîne de texte spécifiant le nom de la représentation à utiliser dans une interface utilisateur et pour la recherche de nom par des actions JavaScript. |
-| [Renditions](../../aspose.pdf.annotations/selectorrendition/renditions/) { get; } | Obtient un tableau de représentations. |
-| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Obtient le type de représentation. |
+| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | Chaîne de texte spécifiant le nom du rendition à utiliser dans une interface utilisateur et pour la recherche dans l’arbre de noms par les actions JavaScript. |
+| [Renditions](../../aspose.pdf.annotations/selectorrendition/renditions/) { get; } | Obtient le tableau des rendus. |
+| [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Obtient le type de rendition. |
 
 ### Voir aussi
 
-* classe [Rendition](../rendition/)
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* class [Rendition](../rendition/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

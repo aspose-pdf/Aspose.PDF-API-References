@@ -1,14 +1,14 @@
 ---
-title: Html.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Html. Démarre le traitement Html avec les paramètres spécifiés
+title: "Html.Process"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Html. Démarre le traitement Html avec les paramètres spécifiés"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.plugins/html/process/
 ---
-## Méthode Html.Process
+## Html.Process method
 
-Démarre le traitement [`Html`](../) avec les paramètres spécifiés.
+Démarre le traitement de [`Html`](../) avec les paramètres spécifiés.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -16,7 +16,7 @@ public ResultContainer Process(IPluginOptions options)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| options | IPluginOptions | Un objet d'options contenant des instructions pour le [`Html`](../). |
+| options | IPluginOptions | Un objet d'options contenant les instructions pour le [`Html`](../). |
 
 ### Valeur de retour
 
@@ -24,8 +24,10 @@ Un objet [`ResultContainer`](../../resultcontainer/) contenant le résultat de l
 
 ### Voir aussi
 
-* classe [ResultContainer](../../resultcontainer/)
+* class [ResultContainer](../../resultcontainer/)
 * interface [IPluginOptions](../../ipluginoptions/)
-* classe [Html](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [Html](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

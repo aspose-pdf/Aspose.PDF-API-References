@@ -1,14 +1,14 @@
 ---
-title: Interface IStringOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Interface Aspose.Pdf.Comparison.IStringOutputGenerator. Représente une interface pour générer une sortie sous forme de chaîne de différences entre les textes
+title: "Interface IStringOutputGenerator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Interface Aspose.Pdf.Comparison.IStringOutputGenerator. Représente une interface pour générer une sortie sous forme de chaîne des différences entre les textes"
 type: docs
-weight: 3220
+weight: 3330
 url: /fr/net/aspose.pdf.comparison/istringoutputgenerator/
 ---
-## Interface IStringOutputGenerator
+## IStringOutputGenerator interface
 
-Représente une interface pour générer une sortie sous forme de chaîne de différences entre les textes.
+Représente une interface permettant de générer la sortie vers une chaîne contenant les différences entre les textes.
 
 ```csharp
 public interface IStringOutputGenerator
@@ -23,5 +23,7 @@ public interface IStringOutputGenerator
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

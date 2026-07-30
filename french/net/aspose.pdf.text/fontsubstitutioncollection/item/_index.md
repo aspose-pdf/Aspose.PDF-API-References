@@ -1,12 +1,12 @@
 ---
-title: FontSubstitutionCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FontSubstitutionCollection. Obtient l'élément de police à l'index spécifié
+title: "FontSubstitutionCollection.Item"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FontSubstitutionCollection. Obtient l'élément de police à l'index spécifié"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.text/fontsubstitutioncollection/item/
 ---
-## Indexeur FontSubstitutionCollection
+## FontSubstitutionCollection indexer
 
 Obtient l'élément de police à l'index spécifié.
 
@@ -24,7 +24,9 @@ Objet FontSubstitution.
 
 ### Voir aussi
 
-* classe [FontSubstitution](../../fontsubstitution/)
-* classe [FontSubstitutionCollection](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [FontSubstitution](../../fontsubstitution/)
+* class [FontSubstitutionCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

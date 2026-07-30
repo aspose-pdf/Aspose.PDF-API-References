@@ -1,12 +1,12 @@
 ---
-title: Artifact.TopMargin
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de l'artefact. Marge supérieure de l'artefact. Si la position est spécifiée explicitement dans la propriété Position, cette valeur est ignorée
+title: "Artifact.TopMargin"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Artifact. Marge supérieure de l'artifact. Si la position est spécifiée explicitement dans la propriété Position, cette valeur est ignorée"
 type: docs
 weight: 210
 url: /fr/net/aspose.pdf/artifact/topmargin/
 ---
-## Propriété Artifact.TopMargin
+## Artifact.TopMargin property
 
 Marge supérieure de l'artefact. Si la position est spécifiée explicitement (dans la propriété Position), cette valeur est ignorée.
 
@@ -16,6 +16,8 @@ public double TopMargin { get; set; }
 
 ### Voir aussi
 
-* classe [Artifact](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

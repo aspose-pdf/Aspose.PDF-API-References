@@ -1,12 +1,12 @@
 ---
-title: Class PdfToImageOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.PdfToImageOptions. Représente les options pour le plugin PdfToImage
+title: "Classe PdfToImageOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Plugins.PdfToImageOptions classe. Représente les options pour le plugin PdfToImage"
 type: docs
-weight: 9130
+weight: 9280
 url: /fr/net/aspose.pdf.plugins/pdftoimageoptions/
 ---
-## Classe PdfToImageOptions
+## PdfToImageOptions class
 
 Représente les options pour le plugin [`PdfToImage`](../pdftoimage/).
 
@@ -30,9 +30,9 @@ public abstract class PdfToImageOptions : IPluginOptions
 | Nom | Description |
 | --- | --- |
 | [AddInput](../../aspose.pdf.plugins/pdftoimageoptions/addinput/)(IDataSource) | Ajoute une nouvelle source de données à la collection de données du plugin [`PdfToImage`](../pdftoimage/). |
-| [AddOutput](../../aspose.pdf.plugins/pdftoimageoptions/addoutput/)(IDataSource) | Définit une nouvelle source de données de sauvegarde. Peut uniquement être un . Si vous souhaitez sauvegarder des images dans des flux mémoire, passez null comme paramètre. |
+| [AddOutput](../../aspose.pdf.plugins/pdftoimageoptions/addoutput/)(IDataSource) | Définit une nouvelle source de données d'enregistrement. Ne peut être qu'un . Si vous voulez enregistrer les images dans des flux mémoire, passez null comme paramètre. |
 
-## Autres Membres
+## Autres membres
 
 | Nom | Description |
 | --- | --- |
@@ -40,10 +40,12 @@ public abstract class PdfToImageOptions : IPluginOptions
 
 ## Remarques
 
-La classe PdfImageOptions contient des fonctions de base pour ajouter des données (fichiers, flux) représentant des documents PDF d'entrée.
+La classe PdfImageOptions contient des fonctions de base pour ajouter des données (fichiers, flux) représentant les documents PDF d'entrée.
 
 ### Voir aussi
 
 * interface [IPluginOptions](../ipluginoptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class EX
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.EX. Classe représentant l'opérateur EX Fin de la section de compatibilité
+title: "Classe EX"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.EX class. Classe représentant l'opérateur EX Fin de la section de compatibilité"
 type: docs
-weight: 7350
+weight: 7490
 url: /fr/net/aspose.pdf.operators/ex/
 ---
-## Classe EX
+## EX class
 
 Classe représentant l'opérateur EX (Fin de la section de compatibilité).
 
@@ -30,12 +30,14 @@ public class EX : Operator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/ex/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Renvoie le texte de l'opérateur et de ses paramètres. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| override [Accept](../../aspose.pdf.operators/ex/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Renvoie le texte de l'opérateur et ses paramètres. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [Operator](../../aspose.pdf/operator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithImageDescriptionPrompt
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OpenAIImageDescriptionCopilotOptions. Définit l'invite pour les options de copilote de description d'image
+title: "OpenAIImageDescriptionCopilotOptions.WithImageDescriptionPrompt"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OpenAIImageDescriptionCopilotOptions méthode. Définit l'invite pour les options du copilote de description d'image"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withimagedescriptionprompt/
 ---
-## Méthode OpenAIImageDescriptionCopilotOptions.WithImageDescriptionPrompt
+## OpenAIImageDescriptionCopilotOptions.WithImageDescriptionPrompt method
 
-Définit l'invite pour les options de copilote de description d'image.
+Définit l'invite pour les options du copilot de description d'image.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithImageDescriptionPrompt(
@@ -17,7 +17,7 @@ public OpenAIImageDescriptionCopilotOptions WithImageDescriptionPrompt(
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| imageDescriptionPrompt | Chaîne | L'invite de description d'image à définir. |
+| imageDescriptionPrompt | String | L'invite de description d'image à définir. |
 
 ### Valeur de retour
 
@@ -25,6 +25,8 @@ L'instance actuelle de [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [OpenAIImageDescriptionCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

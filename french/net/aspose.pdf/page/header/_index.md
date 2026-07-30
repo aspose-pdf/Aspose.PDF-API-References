@@ -1,12 +1,12 @@
 ---
-title: Page.Header
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la page. Obtient ou définit l'en-tête de la page
+title: "Page.Header"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Page. Obtient ou définit l'en-tête de la page."
 type: docs
 weight: 150
 url: /fr/net/aspose.pdf/page/header/
 ---
-## Propriété Page.Header
+## Page.Header property
 
 Obtient ou définit l'en-tête de la page.
 
@@ -14,13 +14,15 @@ Obtient ou définit l'en-tête de la page.
 public HeaderFooter Header { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'en-tête de la page.
 
 ### Voir aussi
 
-* classe [HeaderFooter](../../headerfooter/)
-* classe [Page](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [HeaderFooter](../../headerfooter/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

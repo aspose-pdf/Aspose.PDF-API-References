@@ -1,7 +1,7 @@
 ---
-title: PageSettings.PageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de PageSettings. Initialise une nouvelle instance de la classe PageSettings en utilisant l'imprimante par défaut
+title: "PageSettings.PageSettings"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur PageSettings. Initialise une nouvelle instance de la classe PageSettings en utilisant l'imprimante par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.printing/pagesettings/pagesettings/
@@ -16,8 +16,8 @@ public PageSettings()
 
 ### Voir aussi
 
-* classe [PageSettings](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PageSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -32,7 +32,7 @@ public PageSettings(PrinterSettings printerSettings)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| printerSettings | PrinterSettings | objet [`PrinterSettings`](../printersettings/) |
+| printerSettings | PrinterSettings | Objet [`PrinterSettings`](../printersettings/) |
 
 ### Exceptions
 
@@ -42,7 +42,9 @@ public PageSettings(PrinterSettings printerSettings)
 
 ### Voir aussi
 
-* classe [PrinterSettings](../../printersettings/)
-* classe [PageSettings](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PrinterSettings](../../printersettings/)
+* class [PageSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

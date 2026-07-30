@@ -1,12 +1,12 @@
 ---
-title: GSave.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode GSave. Renvoie le texte de l'opérateur
+title: "GSave.ToString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode GSave. Retourne le texte de l'opérateur"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.operators/gsave/tostring/
 ---
-## Méthode GSave.ToString
+## GSave.ToString method
 
 Renvoie le texte de l'opérateur.
 
@@ -20,6 +20,8 @@ Représentation textuelle de l'opérateur.
 
 ### Voir aussi
 
-* classe [GSave](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [GSave](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

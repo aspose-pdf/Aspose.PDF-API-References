@@ -1,14 +1,14 @@
 ---
-title: XmpValue.IsDouble
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété XmpValue. Renvoie vrai si la valeur est un nombre à virgule flottante
+title: "XmpValue.IsDouble"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété XmpValue. Retourne true si la valeur est un nombre à virgule flottante"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/xmpvalue/isdouble/
 ---
-## Propriété XmpValue.IsDouble
+## XmpValue.IsDouble property
 
-Renvoie vrai si la valeur est un nombre à virgule flottante.
+Renvoie vrai si la valeur est à virgule flottante.
 
 ```csharp
 public bool IsDouble { get; }
@@ -16,6 +16,8 @@ public bool IsDouble { get; }
 
 ### Voir aussi
 
-* classe [XmpValue](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpValue](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

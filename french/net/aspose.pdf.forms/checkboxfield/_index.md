@@ -1,14 +1,14 @@
 ---
-title: Class CheckboxField
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Forms.CheckboxField. Classe représentant un champ de case à cocher
+title: "Classe CheckboxField"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Forms.CheckboxField. Classe représentant le champ case à cocher"
 type: docs
-weight: 4980
+weight: 5100
 url: /fr/net/aspose.pdf.forms/checkboxfield/
 ---
-## Classe CheckboxField
+## CheckboxField class
 
-Classe représentant un champ de case à cocher
+Classe représentant le champ de case à cocher.
 
 ```csharp
 public class CheckboxField : Field
@@ -18,7 +18,7 @@ public class CheckboxField : Field
 
 | Nom | Description |
 | --- | --- |
-| [CheckboxField](checkboxfield/#constructor_1)(Document) | Constructeur à utiliser avec le générateur. |
+| [CheckboxField](checkboxfield/#constructor_1)(Document) | Constructeur à utiliser avec Generator. |
 | [CheckboxField](checkboxfield/#constructor_2)(Document, Rectangle) | Constructeur pour la classe CheckboxField. |
 | [CheckboxField](checkboxfield/#constructor_3)(Page, Rectangle) | Constructeur pour la classe CheckboxField. |
 
@@ -29,11 +29,11 @@ public class CheckboxField : Field
 | [Actions](../../aspose.pdf.annotations/widgetannotation/actions/) { get; } | Obtient les actions d'annotation. (2 propriétés) |
 | override [ActiveState](../../aspose.pdf.forms/checkboxfield/activestate/) { get; set; } | Obtient ou définit l'état d'apparence actuel de l'annotation. |
 | [AllowedStates](../../aspose.pdf.forms/checkboxfield/allowedstates/) { get; } | Renvoie la liste des états autorisés. |
-| [AlternateName](../../aspose.pdf.forms/field/alternatename/) { get; set; } | Obtient ou définit le nom alternatif du champ (Un nom de champ alternatif qui doit être utilisé à la place du nom de champ réel chaque fois que le champ doit être identifié dans l'interface utilisateur). Le nom alternatif est utilisé comme info-bulle de champ dans Adobe Acrobat. |
+| [AlternateName](../../aspose.pdf.forms/field/alternatename/) { get; set; } | Obtient ou définit le nom alternatif du champ (Un nom de champ alternatif qui doit être utilisé à la place du nom réel du champ partout où le champ doit être identifié dans l'interface utilisateur). Le nom alternatif est utilisé comme info-bulle du champ dans Adobe Acrobat. |
 | [AnnotationIndex](../../aspose.pdf.forms/field/annotationindex/) { get; set; } | Obtient ou définit l'index de cette annotation sur la page. |
-| override [AnnotationType](../../aspose.pdf.annotations/widgetannotation/annotationtype/) { get; } | Obtient le type d'annotation. |
+| override [AnnotationType](../../aspose.pdf.annotations/widgetannotation/annotationtype/) { get; } | Obtient le type de l'annotation. |
 | [Appearance](../../aspose.pdf.annotations/annotation/appearance/) { get; } | Obtient le dictionnaire d'apparence de l'annotation. |
-| [Border](../../aspose.pdf.annotations/annotation/border/) { get; set; } | Obtient ou définit les caractéristiques de la bordure de l'annotation. [`Border`](../../aspose.pdf.annotations/annotation/border/) |
+| [Border](../../aspose.pdf.annotations/annotation/border/) { get; set; } | Obtient ou définit les caractéristiques de bordure de l'annotation. [`Border`](../../aspose.pdf.annotations/annotation/border/) |
 | [Characteristics](../../aspose.pdf.annotations/annotation/characteristics/) { get; } | Obtient les caractéristiques de l'annotation. |
 | [Checked](../../aspose.pdf.forms/checkboxfield/checked/) { get; set; } | Obtient ou définit l'état de la case à cocher. |
 | [Color](../../aspose.pdf.annotations/annotation/color/) { get; set; } | Obtient ou définit la couleur de l'annotation. |
@@ -43,66 +43,66 @@ public class CheckboxField : Field
 | [Exportable](../../aspose.pdf.annotations/widgetannotation/exportable/) { get; set; } | Obtient ou définit le drapeau exportable du champ. |
 | [ExportValue](../../aspose.pdf.forms/checkboxfield/exportvalue/) { get; set; } | Obtient ou définit la valeur d'exportation du champ CheckBox. |
 | [Flags](../../aspose.pdf.annotations/annotation/flags/) { get; set; } | Drapeaux de l'annotation. |
-| [FullName](../../aspose.pdf.annotations/annotation/fullname/) { get; } | Obtient le nom complet qualifié de l'annotation. |
+| [FullName](../../aspose.pdf.annotations/annotation/fullname/) { get; } | Obtient le nom complet de l'annotation. |
 | virtual [Height](../../aspose.pdf.annotations/annotation/height/) { get; set; } | Obtient ou définit la hauteur de l'annotation. |
-| [Highlighting](../../aspose.pdf.annotations/widgetannotation/highlighting/) { get; set; } | Mode de surlignage de l'annotation. |
+| [Highlighting](../../aspose.pdf.annotations/widgetannotation/highlighting/) { get; set; } | Mode de mise en surbrillance de l'annotation. |
 | virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink/) { get; set; } | Obtient ou définit le lien hypertexte du fragment (pour le générateur PDF). |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | Obtient ou définit une valeur booléenne qui indique si ce paragraphe sera dans la colonne suivante. Par défaut, c'est faux. (pour la génération PDF) |
-| [IsGroup](../../aspose.pdf.forms/field/isgroup/) { get; } | Obtient ou définit une valeur booléenne qui indique si ce champ est un champ non terminal, c'est-à-dire un groupe de champs. |
-| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | Obtient ou définit si un paragraphe est en ligne. Par défaut, c'est faux. (pour la génération PDF) |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | Obtient ou définit une valeur booléenne qui force ce paragraphe à être généré sur une nouvelle page. Par défaut, c'est faux. (pour la génération PDF) |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | Obtient ou définit une valeur booléenne qui indique si le paragraphe actuel reste sur la même page que le paragraphe suivant. Par défaut, c'est faux. (pour la génération PDF) |
-| [IsSharedField](../../aspose.pdf.forms/field/issharedfield/) { get; set; } | Propriété pour le support du générateur. Utilisé lorsque le champ est ajouté à l'en-tête ou au pied de page. Si vrai, ce champ sera créé une fois et son apparence sera visible sur toutes les pages du document. Si faux, un champ séparé sera créé pour chaque page du document. |
-| [IsSynchronized](../../aspose.pdf.forms/field/issynchronized/) { get; } | Renvoie vrai si le dictionnaire est synchronisé. |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | Obtient ou définit une valeur booléenne qui indique si ce paragraphe sera dans la colonne suivante. La valeur par défaut est false. (pour la génération PDF) |
+| [IsGroup](../../aspose.pdf.forms/field/isgroup/) { get; } | Obtient ou définit une valeur booléenne qui indique si ce champ est un champ non terminal, c’est-à-dire un groupe de champs. |
+| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | Obtient ou définit si un paragraphe est en ligne. La valeur par défaut est false. (pour la génération PDF) |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | Obtient ou définit une valeur booléenne qui force ce paragraphe à être généré sur une nouvelle page. La valeur par défaut est false. (pour la génération PDF) |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | Obtient ou définit une valeur booléenne qui indique si le paragraphe actuel reste sur la même page avec le paragraphe suivant. La valeur par défaut est false. (pour la génération PDF) |
+| [IsSharedField](../../aspose.pdf.forms/field/issharedfield/) { get; set; } | Propriété pour la prise en charge du générateur. Utilisée lorsque le champ est ajouté à l'en-tête ou au pied de page. Si true, ce champ sera créé une fois et son apparence sera visible sur toutes les pages du document. Si false, un champ séparé sera créé pour chaque page du document. |
+| [IsSynchronized](../../aspose.pdf.forms/field/issynchronized/) { get; } | Renvoie true si le dictionnaire est synchronisé. |
 | [Item](../../aspose.pdf.forms/field/item/) { get; } | Obtient le sous-champ contenu dans ce champ par le nom du sous-champ. (2 indexeurs) |
-| [MappingName](../../aspose.pdf.forms/field/mappingname/) { get; set; } | Obtient ou définit le nom de mappage du champ qui doit être utilisé lors de l'exportation des données de champ de formulaire interactif à partir du document. |
-| [Margin](../../aspose.pdf/baseparagraph/margin/) { get; set; } | Obtient ou définit une marge extérieure pour le paragraphe (pour la génération PDF) |
-| [Modified](../../aspose.pdf.annotations/annotation/modified/) { get; set; } | Obtient ou définit la date et l'heure auxquelles l'annotation a été récemment modifiée. |
+| [MappingName](../../aspose.pdf.forms/field/mappingname/) { get; set; } | Obtient ou définit le nom de mappage du champ qui doit être utilisé lors de l'exportation des données de champ de formulaire interactif depuis le document. |
+| [Margin](../../aspose.pdf/baseparagraph/margin/) { get; set; } | Obtient ou définit une marge extérieure pour le paragraphe (pour la génération de pdf) |
+| [Modified](../../aspose.pdf.annotations/annotation/modified/) { get; set; } | Obtient ou définit la date et l'heure de la dernière modification de l'annotation. |
 | [Name](../../aspose.pdf.annotations/annotation/name/) { get; set; } | Obtient ou définit le nom de l'annotation sur la page. |
-| [OnActivated](../../aspose.pdf.annotations/widgetannotation/onactivated/) { get; set; } | Une action qui doit être effectuée lorsque l'annotation est activée. |
+| [OnActivated](../../aspose.pdf.annotations/widgetannotation/onactivated/) { get; set; } | Une action qui doit être exécutée lorsque l'annotation est activée. |
 | override [PageIndex](../../aspose.pdf.forms/field/pageindex/) { get; } | Obtient l'index de la page qui contient ce champ. |
 | [Parent](../../aspose.pdf.annotations/widgetannotation/parent/) { get; } | Obtient le parent de l'annotation. |
 | [PartialName](../../aspose.pdf.forms/field/partialname/) { get; set; } | Obtient ou définit le nom partiel du champ. |
-| [ReadOnly](../../aspose.pdf.annotations/widgetannotation/readonly/) { get; set; } | Obtient ou définit le statut en lecture seule du champ. |
-| override [Rect](../../aspose.pdf.forms/field/rect/) { get; set; } | Obtient ou définit le rectangle du champ. |
-| [Required](../../aspose.pdf.annotations/widgetannotation/required/) { get; set; } | Obtient ou définit le statut requis du champ. |
+| [ReadOnly](../../aspose.pdf.annotations/widgetannotation/readonly/) { get; set; } | Obtient ou définit l'état en lecture seule du champ. |
+| override [Rect](../../aspose.pdf.forms/field/rect/) { get; set; } | Obtient ou définit le Rectangle du champ. |
+| [Required](../../aspose.pdf.annotations/widgetannotation/required/) { get; set; } | Obtient ou définit l'état requis du champ. |
 | [States](../../aspose.pdf.annotations/annotation/states/) { get; } | Obtient le dictionnaire d'apparence de l'annotation. |
 | [Style](../../aspose.pdf.forms/checkboxfield/style/) { get; set; } | Obtient ou définit le style de la case à cocher. |
 | [SyncRoot](../../aspose.pdf.forms/field/syncroot/) { get; } | Objet de synchronisation. |
-| [TabOrder](../../aspose.pdf.forms/field/taborder/) { get; set; } | Obtient ou définit l'ordre des onglets du champ. |
+| [TabOrder](../../aspose.pdf.forms/field/taborder/) { get; set; } | Obtient ou définit l'ordre d'onglet du champ. |
 | [TextHorizontalAlignment](../../aspose.pdf.annotations/annotation/texthorizontalalignment/) { get; set; } | Obtient ou définit l'alignement du texte pour l'annotation. |
-| override [Value](../../aspose.pdf.forms/checkboxfield/value/) { get; set; } | Obtient ou définit la valeur du champ de case à cocher. |
+| override [Value](../../aspose.pdf.forms/checkboxfield/value/) { get; set; } | Obtient ou définit la valeur du champ case à cocher. |
 | virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment/) { get; set; } | Obtient ou définit un alignement vertical du paragraphe |
 | virtual [Width](../../aspose.pdf.annotations/annotation/width/) { get; set; } | Obtient ou définit la largeur de l'annotation. |
-| [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | Obtient ou définit une valeur int qui indique l'ordre Z du graphique. Un graphique avec un ZIndex plus grand sera placé au-dessus du graphique avec un ZIndex plus petit. ZIndex peut être négatif. Un graphique avec un ZIndex négatif sera placé derrière le texte sur la page. |
+| [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | Obtient ou définit une valeur entière qui indique le Z-order du graphique. Un graphique avec un ZIndex plus grand sera placé au-dessus du graphique avec un ZIndex plus petit. Le ZIndex peut être négatif. Un graphique avec un ZIndex négatif sera placé derrière le texte de la page. |
 
 ## Méthodes
 
 | Nom | Description |
 | --- | --- |
 | override [Accept](../../aspose.pdf.annotations/widgetannotation/accept/)(AnnotationSelector) | Accepte le visiteur. |
-| [AddOption](../../aspose.pdf.forms/checkboxfield/addoption/#addoption)(string) | Ajoute une nouvelle case à cocher dans un groupe de cases à cocher, dans lequel au maximum une des cases à cocher peut être cochée à tout moment. La nouvelle case à cocher est ajoutée en bas du groupe. |
-| [AddOption](../../aspose.pdf.forms/checkboxfield/addoption/#addoption_1)(string, Rectangle) | Ajoute une nouvelle case à cocher dans un groupe de cases à cocher, dans lequel au maximum une des cases à cocher peut être cochée à tout moment. |
-| [AddOption](../../aspose.pdf.forms/checkboxfield/addoption/#addoption_2)(string, int, Rectangle) | Ajoute une nouvelle case à cocher dans un groupe de cases à cocher, dans lequel au maximum une des cases à cocher peut être cochée à tout moment. |
-| virtual [ChangeAfterResize](../../aspose.pdf.annotations/annotation/changeafterresize/)(Matrix) | Met à jour les paramètres et l'apparence, selon la transformation de matrice. |
-| override [Clone](../../aspose.pdf.forms/checkboxfield/clone/)() | Clone la case à cocher. |
-| [CopyTo](../../aspose.pdf.forms/field/copyto/)(WidgetAnnotation[], int) | Copie les sous-champs de ce champ dans un tableau à partir de l'index spécifié. |
+| [AddOption](../../aspose.pdf.forms/checkboxfield/addoption/#addoption)(string) | Ajoute une nouvelle case à cocher dans un groupe de cases à cocher, dans lequel au maximum une case peut être cochée à la fois. La nouvelle case à cocher est ajoutée en bas du groupe. |
+| [AddOption](../../aspose.pdf.forms/checkboxfield/addoption/#addoption_1)(string, Rectangle) | Ajoute une nouvelle case à cocher dans un groupe de cases à cocher, dans lequel au maximum une case peut être cochée à la fois. |
+| [AddOption](../../aspose.pdf.forms/checkboxfield/addoption/#addoption_2)(string, int, Rectangle) | Ajoute une nouvelle case à cocher dans un groupe de cases à cocher, dans lequel au maximum une case peut être cochée à la fois. |
+| virtual [ChangeAfterResize](../../aspose.pdf.annotations/annotation/changeafterresize/)(Matrix) | Met à jour les paramètres et l'apparence, selon la transformation Matrix. |
+| override [Clone](../../aspose.pdf.forms/checkboxfield/clone/)() | Cloner la case à cocher. |
+| [CopyTo](../../aspose.pdf.forms/field/copyto/)(WidgetAnnotation[], int) | Copie les sous-champs de ce champ dans le tableau à partir de l'index spécifié. |
 | [ExecuteFieldJavaScript](../../aspose.pdf.forms/field/executefieldjavascript/)(JavascriptAction) | Exécute une action JavaScript spécifiée pour le champ. |
 | [ExportToJson](../../aspose.pdf.annotations/widgetannotation/exporttojson/)(Stream, ExportFieldsToJsonOptions) | Exporte le champ de formulaire PDF spécifié au format JSON et écrit le résultat dans le flux fourni. |
 | [ExportToJson](../../aspose.pdf.annotations/widgetannotation/exporttojson/)(string, ExportFieldsToJsonOptions) | Exporte le champ de formulaire PDF spécifié au format JSON et écrit le résultat dans le fichier spécifié. |
-| [ExportValueToJson](../../aspose.pdf.forms/field/exportvaluetojson/)(Stream, bool) | Exporte le contenu du champ spécifié dans un flux JSON. Les valeurs des champs de bouton ne sont pas exportées. |
+| [ExportValueToJson](../../aspose.pdf.forms/field/exportvaluetojson/)(Stream, bool) | Exporte le contenu du champ spécifié dans un flux JSON. Les valeurs des champs bouton ne sont pas exportées. |
 | override [Flatten](../../aspose.pdf.forms/field/flatten/)() | Supprime ce champ et place sa valeur directement sur la page. |
-| [GetCheckedStateName](../../aspose.pdf.annotations/widgetannotation/getcheckedstatename/)() | Renvoie le nom de l'état "coché" selon les noms d'état existants. |
+| [GetCheckedStateName](../../aspose.pdf.annotations/widgetannotation/getcheckedstatename/)() | Renvoie le nom de l'état "checked" selon les noms d'états existants. |
 | [GetEnumerator](../../aspose.pdf.forms/field/getenumerator/)() | Renvoie l'énumérateur des champs contenus. |
 | [GetRectangle](../../aspose.pdf.annotations/annotation/getrectangle/)(bool) | Renvoie le rectangle de l'annotation en tenant compte de la rotation de la page. |
-| [ImportValueFromJson](../../aspose.pdf.forms/field/importvaluefromjson/)(Stream) | Importe des données dans les champs spécifiés à partir d'un flux JSON, sur la base d'une correspondance exacte des noms complets des champs. |
-| [ImportValueFromJson](../../aspose.pdf.forms/field/importvaluefromjson/)(Stream, string) | Importe des données dans le champ spécifié à partir d'un flux JSON, en utilisant le nom complet spécifié dans la variable 'fieldFullNameInJSON' pour la correspondance. |
-| [Recalculate](../../aspose.pdf.forms/field/recalculate/)() | Recalcule tous les champs calculés sur le formulaire. |
+| [ImportValueFromJson](../../aspose.pdf.forms/field/importvaluefromjson/)(Stream) | Importe les données dans les champs spécifiés à partir d'un flux JSON, en se basant sur une correspondance exacte des noms complets des champs. |
+| [ImportValueFromJson](../../aspose.pdf.forms/field/importvaluefromjson/)(Stream, string) | Importe les données dans le champ spécifié à partir d'un flux JSON, en utilisant le nom complet indiqué dans la variable 'fieldFullNameInJSON' pour la correspondance. |
+| [Recalculate](../../aspose.pdf.forms/field/recalculate/)() | Recalcule tous les champs calculés du formulaire. |
 | virtual [SetPosition](../../aspose.pdf.forms/field/setposition/)(Point) | Définit la position du champ. |
 
 ## Exemples
 
-L'exemple démontre comment créer un champ de case à cocher à valeurs multiples.
+L'exemple montre comment créer un champ case à cocher à valeurs multiples.
 
 ```csharp
 using (var document = new Document())
@@ -111,18 +111,18 @@ var page = document.Pages.Add();
 
 var checkbox = new CheckboxField(page, new Rectangle(50, 50, 70, 70));
 
-// Set the first checkbox group option value
+// Définir la valeur de la première option du groupe de cases à cocher.
 checkbox.ExportValue = "option 1";
 
-// Add new option right under existing ones
+// Ajouter une nouvelle option juste sous les options existantes
 checkbox.AddOption("option 2");
 
-// Add new option at the given rectangle
+// Ajouter une nouvelle option au rectangle donné
 checkbox.AddOption("option 3", new Rectangle(100, 100, 120, 120));
 
 document.Form.Add(checkbox);
 
-// Select the added checkbox
+// Sélectionner la case à cocher ajoutée
 checkbox.Value = "option 2";
 document.Save("checkbox_group.pdf");
 }
@@ -130,6 +130,8 @@ document.Save("checkbox_group.pdf");
 
 ### Voir aussi
 
-* classe [Field](../field/)
-* espace de noms [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* class [Field](../field/)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

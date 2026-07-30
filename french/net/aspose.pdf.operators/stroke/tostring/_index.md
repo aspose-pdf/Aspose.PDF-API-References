@@ -1,12 +1,12 @@
 ---
-title: Stroke.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Stroke. Renvoie la représentation textuelle de l'opérateur
+title: "Stroke.ToString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Stroke. Retourne la représentation texte de l'opérateur"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.operators/stroke/tostring/
 ---
-## Méthode Stroke.ToString
+## Stroke.ToString method
 
 Renvoie la représentation textuelle de l'opérateur.
 
@@ -20,6 +20,8 @@ Représentation textuelle de l'opérateur.
 
 ### Voir aussi
 
-* classe [Stroke](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [Stroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

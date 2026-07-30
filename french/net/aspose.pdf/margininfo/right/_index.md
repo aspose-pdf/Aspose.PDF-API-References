@@ -1,12 +1,12 @@
 ---
-title: MarginInfo.Right
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété MarginInfo. Obtient ou définit une valeur flottante qui indique la marge droite
+title: "MarginInfo.Right"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété MarginInfo. Obtient ou définit une valeur flottante qui indique la marge droite"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/margininfo/right/
 ---
-## Propriété MarginInfo.Droite
+## MarginInfo.Right property
 
 Obtient ou définit une valeur flottante qui indique la marge droite.
 
@@ -16,6 +16,8 @@ public double Right { get; set; }
 
 ### Voir aussi
 
-* classe [MarginInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [MarginInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

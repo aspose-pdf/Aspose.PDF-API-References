@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode AppearanceDictionary. Copie les éléments du dictionnaire dans un tableau en commençant à un index de tableau particulier
+title: "AppearanceDictionary.CopyTo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode AppearanceDictionary. Copie les éléments du dictionnaire dans un tableau à partir d'un indice de tableau particulier"
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf.annotations/appearancedictionary/copyto/
 ---
 ## CopyTo(XForm[], int) {#copyto}
 
-Copie les éléments du dictionnaire dans un tableau, en commençant à un index de tableau particulier.
+Copie les éléments du dictionnaire dans un tableau, en commençant à un indice de tableau particulier.
 
 ```csharp
 public void CopyTo(XForm[] array, int index)
@@ -16,8 +16,8 @@ public void CopyTo(XForm[] array, int index)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| array | XForm[] | Tableau où les éléments doivent être copiés. |
-| index | Int32 | Index où les éléments doivent être copiés. |
+| tableau | XForm[] | Tableau où les éléments doivent être copiés. |
+| index | Int32 | Indice où les éléments doivent être copiés. |
 
 ### Voir aussi
 
@@ -40,3 +40,5 @@ public void CopyTo(KeyValuePair<string, XForm>[] array, int arrayIndex)
 * class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

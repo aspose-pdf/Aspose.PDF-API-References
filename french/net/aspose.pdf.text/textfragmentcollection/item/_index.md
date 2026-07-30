@@ -1,12 +1,12 @@
 ---
-title: TextFragmentCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextFragmentCollection. Obtient l'élément de fragment de texte à l'index spécifié
+title: "TextFragmentCollection.Item"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextFragmentCollection. Obtient l'élément de fragment de texte à l'index spécifié"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.text/textfragmentcollection/item/
 ---
-## Indexeur TextFragmentCollection
+## TextFragmentCollection indexer
 
 Obtient l'élément de fragment de texte à l'index spécifié.
 
@@ -24,7 +24,9 @@ Objet TextFragment.
 
 ### Voir aussi
 
-* classe [TextFragment](../../textfragment/)
-* classe [TextFragmentCollection](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextFragment](../../textfragment/)
+* class [TextFragmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

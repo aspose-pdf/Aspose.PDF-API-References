@@ -1,12 +1,12 @@
 ---
-title: TableOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TableOptions. Créer une instance de TableOptions
+title: "TableOptions.Create"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "TableOptions méthode. Créer une instance de TableOptions"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.plugins/tableoptions/create/
 ---
-## Méthode TableOptions.Create
+## TableOptions.Create method
 
 Créer une instance de [`TableOptions`](../).
 
@@ -20,6 +20,8 @@ Nouvelle instance de [`TableOptions`](../).
 
 ### Voir aussi
 
-* classe [TableOptions](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [TableOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

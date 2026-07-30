@@ -1,14 +1,14 @@
 ---
-title: Class CosPdfNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.DataEditor.CosPdfNumber. Cette classe représente le type de nombre Pdf
+title: "Classe CosPdfNumber"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.DataEditor.CosPdfNumber class. Cette classe représente le type Nombre PDF"
 type: docs
-weight: 3440
+weight: 3560
 url: /fr/net/aspose.pdf.dataeditor/cospdfnumber/
 ---
-## Classe CosPdfNumber
+## CosPdfNumber class
 
-Cette classe représente le type de nombre Pdf.
+Cette classe représente le type Pdf Number.
 
 ```csharp
 public sealed class CosPdfNumber : CosPdfPrimitive
@@ -31,17 +31,19 @@ public sealed class CosPdfNumber : CosPdfPrimitive
 
 | Nom | Description |
 | --- | --- |
-| override [Equals](../../aspose.pdf.dataeditor/cospdfnumber/equals/)(object) | Détermine si l'objet spécifié est égal à l'objet actuel. |
-| override [GetHashCode](../../aspose.pdf.dataeditor/cospdfnumber/gethashcode/)() | Obtient le code de hachage pour l'objet actuel. |
-| virtual [ToCosPdfBoolean](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfboolean/)() | Essaie de convertir cette instance en [`CosPdfBoolean`](../cospdfboolean/). |
-| virtual [ToCosPdfDictionary](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfdictionary/)() | Essaie de convertir cette instance en [`CosPdfDictionary`](../cospdfdictionary/). |
-| virtual [ToCosPdfName](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/)() | Essaie de convertir cette instance en [`CosPdfName`](../cospdfname/). |
-| override [ToCosPdfNumber](../../aspose.pdf.dataeditor/cospdfnumber/tocospdfnumber/)() | Essaie de convertir cette instance en `CosPdfNumber`. |
-| virtual [ToCosPdfString](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfstring/)() | Essaie de convertir cette instance en [`CosPdfString`](../cospdfstring/). |
+| override [Equals](../../aspose.pdf.dataeditor/cospdfnumber/equals/)(object) | Détermine que l'objet spécifié est égal à l'objet actuel. |
+| override [GetHashCode](../../aspose.pdf.dataeditor/cospdfnumber/gethashcode/)() | Obtient le code de hachage de l'objet actuel. |
+| virtual [ToCosPdfBoolean](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfboolean/)() | Tente de convertir cette instance en [`CosPdfBoolean`](../cospdfboolean/). |
+| virtual [ToCosPdfDictionary](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfdictionary/)() | Tente de convertir cette instance en [`CosPdfDictionary`](../cospdfdictionary/). |
+| virtual [ToCosPdfName](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/)() | Tente de convertir cette instance en [`CosPdfName`](../cospdfname/). |
+| override [ToCosPdfNumber](../../aspose.pdf.dataeditor/cospdfnumber/tocospdfnumber/)() | Tente de convertir cette instance en `CosPdfNumber`. |
+| virtual [ToCosPdfString](../../aspose.pdf.dataeditor/cospdfprimitive/tocospdfstring/)() | Tente de convertir cette instance en [`CosPdfString`](../cospdfstring/). |
 | override [ToString](../../aspose.pdf.dataeditor/cospdfnumber/tostring/)() | Renvoie une chaîne qui représente le `CosPdfNumber` actuel. |
 
 ### Voir aussi
 
-* classe [CosPdfPrimitive](../cospdfprimitive/)
-* espace de noms [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
+* class [CosPdfPrimitive](../cospdfprimitive/)
+* namespace [Aspose.Pdf.DataEditor](../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.PrcEnvelopeNumber8Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSizes. Enveloppe 8 tournée 309 mm par 120 mm
+title: "PaperSizes.PrcEnvelopeNumber8Rotated"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PaperSizes champ. enveloppe 8 pivotée 309 mm par 120 mm"
 type: docs
 weight: 1030
 url: /fr/net/aspose.pdf.printing/papersizes/prcenvelopenumber8rotated/
 ---
-## Champ PaperSizes.PrcEnvelopeNumber8Rotated
+## PaperSizes.PrcEnvelopeNumber8Rotated field
 
-# Enveloppe 8 tournée (309 mm par 120 mm).
+Enveloppe #8 pivotée (309 mm sur 120 mm).
 
 ```csharp
 public static readonly PaperSize PrcEnvelopeNumber8Rotated;
@@ -16,7 +16,9 @@ public static readonly PaperSize PrcEnvelopeNumber8Rotated;
 
 ### Voir aussi
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

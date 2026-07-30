@@ -1,12 +1,12 @@
 ---
-title: TextStyle.FontName
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextStyle. Nom de la police
+title: "TextStyle.FontName"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextStyle. Nom de la police"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.annotations/textstyle/fontname/
 ---
-## Propriété TextStyle.FontName
+## TextStyle.FontName property
 
 Nom de la police.
 
@@ -16,6 +16,8 @@ public string FontName { get; set; }
 
 ### Voir aussi
 
-* classe [TextStyle](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [TextStyle](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

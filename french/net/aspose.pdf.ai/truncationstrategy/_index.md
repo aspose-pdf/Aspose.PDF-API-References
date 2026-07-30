@@ -1,14 +1,14 @@
 ---
-title: Class TruncationStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.TruncationStrategy. Représente la stratégie de troncature qui contrôle comment un fil sera tronqué avant l'exécution
+title: "Classe TruncationStrategy"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.AI.TruncationStrategy. Représente la stratégie de troncature qui contrôle la façon dont un fil sera tronqué avant l'exécution."
 type: docs
-weight: 1240
+weight: 1330
 url: /fr/net/aspose.pdf.ai/truncationstrategy/
 ---
-## Classe TruncationStrategy
+## TruncationStrategy class
 
-Représente la stratégie de troncature qui contrôle comment un fil sera tronqué avant l'exécution.
+Représente la stratégie de troncature qui contrôle la façon dont un fil sera tronqué avant l'exécution.
 
 ```csharp
 public class TruncationStrategy
@@ -24,10 +24,12 @@ public class TruncationStrategy
 
 | Nom | Description |
 | --- | --- |
-| [LastMessages](../../aspose.pdf.ai/truncationstrategy/lastmessages/) { get; set; } | Obtient ou définit le nombre de messages les plus récents du fil lors de la construction du contexte pour l'exécution. |
-| [StrategyType](../../aspose.pdf.ai/truncationstrategy/strategytype/) { get; set; } | Obtient ou définit la stratégie de troncature à utiliser pour le fil. La valeur par défaut est auto. Si définie sur last_messages, le fil sera tronqué aux n messages les plus récents du fil. Lorsqu'elle est définie sur auto, les messages au milieu du fil seront supprimés pour s'adapter à la longueur du contexte du modèle, max_prompt_tokens. |
+| [LastMessages](../../aspose.pdf.ai/truncationstrategy/lastmessages/) { get; set; } | Obtient ou définit le nombre des messages les plus récents du fil lors de la construction du contexte pour l'exécution. |
+| [StrategyType](../../aspose.pdf.ai/truncationstrategy/strategytype/) { get; set; } | Obtient ou définit la stratégie de troncature à utiliser pour le fil. La valeur par défaut est auto. Si elle est définie sur last_messages, le fil sera tronqué aux n messages les plus récents du fil. Lorsqu'elle est définie sur auto, les messages du milieu du fil seront supprimés pour respecter la longueur de contexte du modèle, max_prompt_tokens. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TeXSaveOptions.AddFontEncs
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TeXSaveOptions. Ajoute un encodage de police à la liste des encodages de police
+title: "TeXSaveOptions.AddFontEncs"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TeXSaveOptions. Ajoute un encodage de police à la liste des encodages de police"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/texsaveoptions/addfontencs/
 ---
-## Méthode TeXSaveOptions.AddFontEncs
+## TeXSaveOptions.AddFontEncs method
 
 Ajoute un encodage de police à la liste des encodages de police
 
@@ -20,6 +20,8 @@ public void AddFontEncs(params string[] fontEncs)
 
 ### Voir aussi
 
-* classe [TeXSaveOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [TeXSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

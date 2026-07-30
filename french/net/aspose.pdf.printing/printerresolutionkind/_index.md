@@ -1,12 +1,12 @@
 ---
-title: Enum PrinterResolutionKind
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Printing.PrinterResolutionKind. Spécifie une résolution d'imprimante
+title: "Énum PrinterResolutionKind"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Printing.PrinterResolutionKind enum. Spécifie une résolution d'imprimante"
 type: docs
-weight: 9680
+weight: 9830
 url: /fr/net/aspose.pdf.printing/printerresolutionkind/
 ---
-## Énumération PrinterResolutionKind
+## PrinterResolutionKind enumeration
 
 Spécifie une résolution d'imprimante.
 
@@ -18,13 +18,15 @@ public enum PrinterResolutionKind
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| Haute | `-4` | Haute résolution. |
-| Moyenne | `-3` | Résolution moyenne. |
-| Basse | `-2` | Basse résolution. |
-| Brouillon | `-1` | Résolution de qualité brouillon. |
-| Personnalisée | `0` | Résolution personnalisée. |
+| High | `-4` | Haute résolution. |
+| Medium | `-3` | Résolution moyenne. |
+| Low | `-2` | Basse résolution. |
+| Draft | `-1` | Résolution de qualité brouillon. |
+| Custom | `0` | Résolution personnalisée. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

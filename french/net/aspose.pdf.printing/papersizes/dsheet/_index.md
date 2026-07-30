@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.DSheet
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSizes. Papier D 22 po par 34 po
+title: "PaperSizes.DSheet"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PaperSizes champ. papier D 22 po. par 34 po"
 type: docs
 weight: 390
 url: /fr/net/aspose.pdf.printing/papersizes/dsheet/
 ---
-## Champ PaperSizes.DSheet
+## PaperSizes.DSheet field
 
-Papier D (22 po par 34 po).
+Papier D (22 po. par 34 po.).
 
 ```csharp
 public static readonly PaperSize DSheet;
@@ -16,7 +16,9 @@ public static readonly PaperSize DSheet;
 
 ### Voir aussi
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

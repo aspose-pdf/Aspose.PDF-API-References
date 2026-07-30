@@ -1,14 +1,14 @@
 ---
-title: TextExtractionErrorLocation.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TextExtractionErrorLocation. Renvoie une représentation sous forme de chaîne
+title: "TextExtractionErrorLocation.ToString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TextExtractionErrorLocation. Retourne la représentation sous forme de chaîne"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.text/textextractionerrorlocation/tostring/
 ---
-## Méthode TextExtractionErrorLocation.ToString
+## TextExtractionErrorLocation.ToString method
 
-Renvoie une représentation sous forme de chaîne.
+Renvoie la représentation sous forme de chaîne.
 
 ```csharp
 public override string ToString()
@@ -20,6 +20,8 @@ Représentation sous forme de chaîne.
 
 ### Voir aussi
 
-* classe [TextExtractionErrorLocation](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextExtractionErrorLocation](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

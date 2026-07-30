@@ -1,14 +1,14 @@
 ---
-title: Class JsonDiffOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Comparison.JsonDiffOutputGenerator. Représente une classe pour afficher les résultats de la comparaison de documents ou de pages PDF au format JSON
+title: "Classe JsonDiffOutputGenerator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Comparison.JsonDiffOutputGenerator. Représente une classe permettant d'afficher les résultats de la comparaison de documents PDF ou de pages au format JSON."
 type: docs
-weight: 3240
+weight: 3350
 url: /fr/net/aspose.pdf.comparison/jsondiffoutputgenerator/
 ---
-## Classe JsonDiffOutputGenerator
+## JsonDiffOutputGenerator class
 
-Représente une classe pour afficher les résultats de la comparaison de documents ou de pages PDF au format JSON.
+Représente une classe affichant les résultats de la comparaison de documents ou de pages PDF au format JSON.
 
 ```csharp
 public class JsonDiffOutputGenerator : IFileOutputGenerator, IStringOutputGenerator
@@ -35,3 +35,5 @@ public class JsonDiffOutputGenerator : IFileOutputGenerator, IStringOutputGenera
 * interface [IStringOutputGenerator](../istringoutputgenerator/)
 * namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

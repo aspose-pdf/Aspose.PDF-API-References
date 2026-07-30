@@ -1,12 +1,12 @@
 ---
-title: Color.Tan
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de couleur. Obtient une couleur définie par le système qui a une valeur ARGB de c FFD2B48C
+title: "Color.Tan"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Color propriété. Obtient une couleur définie par le système dont la valeur ARGB est c FFD2B48C"
 type: docs
 weight: 1310
 url: /fr/net/aspose.pdf/color/tan/
 ---
-## Propriété Color.Tan
+## Color.Tan property
 
 Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FFD2B48C.
 
@@ -16,10 +16,12 @@ public static Color Tan { get; }
 
 ### Valeur de retour
 
-Une représentation d'une couleur définie par le système.
+A représentant une couleur définie par le système.
 
 ### Voir aussi
 
-* classe [Color](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

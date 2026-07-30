@@ -1,12 +1,12 @@
 ---
-title: DocumentCollection.TextDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété DocumentCollection. Obtient ou définit la collection de documents texte à traiter
+title: "DocumentCollection.TextDocuments"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété DocumentCollection. Obtient ou définit la collection de documents texte à traiter"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.ai/documentcollection/textdocuments/
 ---
-## Propriété DocumentCollection.TextDocuments
+## DocumentCollection.TextDocuments property
 
 Obtient ou définit la collection de documents texte à traiter.
 
@@ -16,7 +16,9 @@ public List<TextDocument> TextDocuments { get; set; }
 
 ### Voir aussi
 
-* classe [TextDocument](../../textdocument/)
-* classe [DocumentCollection](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [TextDocument](../../textdocument/)
+* class [DocumentCollection](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

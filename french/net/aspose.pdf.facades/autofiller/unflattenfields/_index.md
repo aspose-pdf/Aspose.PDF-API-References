@@ -1,12 +1,12 @@
 ---
-title: AutoFiller.UnFlattenFields
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété AutoFiller. Définit les champs qui ne seront pas aplatis. Si cette propriété n'est pas définie, tous les champs seront aplatis.
+title: "AutoFiller.UnFlattenFields"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété AutoFiller. Définit les champs qui ne seront pas aplatis. Si cette propriété n'est pas définie, tous les champs seront aplatis."
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.facades/autofiller/unflattenfields/
 ---
-## Propriété AutoFiller.UnFlattenFields
+## AutoFiller.UnFlattenFields property
 
 Définit les champs qui ne seront pas aplatis. Si cette propriété n'est pas définie, tous les champs seront aplatis.
 
@@ -16,6 +16,8 @@ public string[] UnFlattenFields { set; }
 
 ### Voir aussi
 
-* classe [AutoFiller](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [AutoFiller](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

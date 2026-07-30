@@ -1,14 +1,14 @@
 ---
-title: LevelFormat.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété LevelFormat. Obtient ou définit un état de texte de niveau de liste
+title: "LevelFormat.TextState"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété LevelFormat. Obtient ou définit l'état du texte du niveau de liste"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf/levelformat/textstate/
 ---
-## Propriété LevelFormat.TextState
+## LevelFormat.TextState property
 
-Obtient ou définit un état de texte de niveau de liste
+Obtient ou définit l'état du texte du niveau de liste.
 
 ```csharp
 public TextState TextState { get; set; }
@@ -16,7 +16,9 @@ public TextState TextState { get; set; }
 
 ### Voir aussi
 
-* classe [TextState](../../../aspose.pdf.text/textstate/)
-* classe [LevelFormat](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [LevelFormat](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PopupAnnotation.Open
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PopupAnnotation. Obtient ou définit un indicateur spécifiant si l'annotation contextuelle doit être initialement affichée ouverte
+title: "PopupAnnotation.Open"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PopupAnnotation. Obtient ou définit un indicateur spécifiant si l'annotation popup doit être affichée ouverte initialement"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.annotations/popupannotation/open/
 ---
-## Propriété PopupAnnotation.Open
+## PopupAnnotation.Open property
 
-Obtient ou définit un indicateur spécifiant si l'annotation contextuelle doit être initialement affichée ouverte.
+Obtient ou définit un indicateur spécifiant si l'annotation popup doit être affichée ouverte initialement.
 
 ```csharp
 public bool Open { get; set; }
@@ -16,6 +16,8 @@ public bool Open { get; set; }
 
 ### Voir aussi
 
-* classe [PopupAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PopupAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

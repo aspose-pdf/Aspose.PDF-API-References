@@ -1,12 +1,12 @@
 ---
-title: PDF3DCuttingPlaneOrientation.AngleX
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PDF3DCuttingPlaneOrientation. Obtient ou définit l'angle par rapport à l'axe X
+title: "PDF3DCuttingPlaneOrientation.AngleX"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PDF3DCuttingPlaneOrientation. Obtient ou définit l'angle par rapport à l'axe X"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglex/
 ---
-## Propriété PDF3DCuttingPlaneOrientation.AngleX
+## PDF3DCuttingPlaneOrientation.AngleX property
 
 Obtient ou définit l'angle par rapport à l'axe X.
 
@@ -14,12 +14,14 @@ Obtient ou définit l'angle par rapport à l'axe X.
 public double? AngleX { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 L'angle par rapport à l'axe X.
 
 ### Voir aussi
 
-* classe [PDF3DCuttingPlaneOrientation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DCuttingPlaneOrientation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

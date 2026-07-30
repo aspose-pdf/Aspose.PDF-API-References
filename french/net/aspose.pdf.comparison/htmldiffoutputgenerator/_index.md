@@ -1,14 +1,14 @@
 ---
-title: Class HtmlDiffOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Comparison.HtmlDiffOutputGenerator. Représente une classe pour générer une représentation html des différences de textes. Les sauts de ligne supprimés sont indiqués par un marqueur de paragraphe.
+title: "Classe HtmlDiffOutputGenerator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Comparison.HtmlDiffOutputGenerator class. Représente une classe permettant de générer une représentation HTML des différences de textes. Les sauts de ligne supprimés sont indiqués par la marque de paragraphe"
 type: docs
-weight: 3200
+weight: 3310
 url: /fr/net/aspose.pdf.comparison/htmldiffoutputgenerator/
 ---
-## Classe HtmlDiffOutputGenerator
+## HtmlDiffOutputGenerator class
 
-Représente une classe pour générer une représentation html des différences de textes. Les sauts de ligne supprimés sont indiqués par un marqueur de paragraphe.
+Représente une classe générant une représentation HTML des différences de texte. Les sauts de ligne supprimés sont indiqués par le symbole de paragraphe.
 
 ```csharp
 public class HtmlDiffOutputGenerator : IFileOutputGenerator, IStringOutputGenerator
@@ -25,10 +25,10 @@ public class HtmlDiffOutputGenerator : IFileOutputGenerator, IStringOutputGenera
 
 | Nom | Description |
 | --- | --- |
-| [DeleteStyle](../../aspose.pdf.comparison/htmldiffoutputgenerator/deletestyle/) { get; set; } | Obtient et définit la chaîne de style CSS pour l'opération de suppression. Exemple : |
-| [EqualStyle](../../aspose.pdf.comparison/htmldiffoutputgenerator/equalstyle/) { get; set; } | Obtient et définit la chaîne de style CSS pour l'opération d'égalité. Exemple : |
-| [InsertStyle](../../aspose.pdf.comparison/htmldiffoutputgenerator/insertstyle/) { get; set; } | Obtient et définit la chaîne de style CSS pour l'opération d'insertion. Exemple : |
-| [StrikethroughDeleted](../../aspose.pdf.comparison/htmldiffoutputgenerator/strikethroughdeleted/) { get; set; } | Obtient ou définit le style de décoration de texte : ligne à travers pour l'opération de suppression. La valeur par défaut est `False`. |
+| [DeleteStyle](../../aspose.pdf.comparison/htmldiffoutputgenerator/deletestyle/) { get; set; } | Obtient et définit la chaîne de style CSS pour l'opération Delete. Exemple : |
+| [EqualStyle](../../aspose.pdf.comparison/htmldiffoutputgenerator/equalstyle/) { get; set; } | Obtient et définit la chaîne de style CSS pour l'opération Equal. Exemple : |
+| [InsertStyle](../../aspose.pdf.comparison/htmldiffoutputgenerator/insertstyle/) { get; set; } | Obtient et définit la chaîne de style CSS pour l'opération Insert. Exemple : |
+| [StrikethroughDeleted](../../aspose.pdf.comparison/htmldiffoutputgenerator/strikethroughdeleted/) { get; set; } | Obtient ou définit le style text-decoration: line-through pour l'opération de suppression. La valeur par défaut est `False`. |
 
 ## Méthodes
 
@@ -45,3 +45,5 @@ public class HtmlDiffOutputGenerator : IFileOutputGenerator, IStringOutputGenera
 * interface [IStringOutputGenerator](../istringoutputgenerator/)
 * namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class ToolChoice
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.ToolChoice. Représente le ToolChoice qui peut être soit une valeur de chaîne soit une valeur d'objet
+title: "Classe ToolChoice"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.AI.ToolChoice. Représente le ToolChoice qui peut être soit une valeur chaîne, soit une valeur objet"
 type: docs
-weight: 1210
+weight: 1300
 url: /fr/net/aspose.pdf.ai/toolchoice/
 ---
-## Classe ToolChoice
+## ToolChoice class
 
-Représente le ToolChoice, qui peut être soit une valeur de chaîne soit une valeur d'objet.
+Représente le ToolChoice, qui peut être soit une valeur chaîne, soit une valeur objet.
 
 ```csharp
 public class ToolChoice : IStringOrObject<ObjectType>
@@ -24,14 +24,16 @@ public class ToolChoice : IStringOrObject<ObjectType>
 
 | Nom | Description |
 | --- | --- |
-| [IsObjectValue](../../aspose.pdf.ai/toolchoice/isobjectvalue/) { get; } | Obtient une valeur indiquant si le ToolChoice est une valeur d'objet. |
-| [IsStringValue](../../aspose.pdf.ai/toolchoice/isstringvalue/) { get; } | Obtient une valeur indiquant si le ToolChoice est une valeur de chaîne. |
-| [ObjectValue](../../aspose.pdf.ai/toolchoice/objectvalue/) { get; set; } | Obtient ou définit la valeur d'objet du ToolChoice. |
-| [StringValue](../../aspose.pdf.ai/toolchoice/stringvalue/) { get; set; } | Obtient ou définit la valeur de chaîne du ToolChoice. |
+| [IsObjectValue](../../aspose.pdf.ai/toolchoice/isobjectvalue/) { get; } | Obtient une valeur indiquant si le ToolChoice est une valeur objet. |
+| [IsStringValue](../../aspose.pdf.ai/toolchoice/isstringvalue/) { get; } | Obtient une valeur indiquant si le ToolChoice est une valeur chaîne. |
+| [ObjectValue](../../aspose.pdf.ai/toolchoice/objectvalue/) { get; set; } | Obtient ou définit la valeur objet du ToolChoice. |
+| [StringValue](../../aspose.pdf.ai/toolchoice/stringvalue/) { get; set; } | Obtient ou définit la valeur chaîne du ToolChoice. |
 
 ### Voir aussi
 
 * interface [IStringOrObject&lt;T&gt;](../istringorobject-1/)
-* classe [ObjectType](../toolchoice.objecttype/)
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* class [ObjectType](../toolchoice.objecttype/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

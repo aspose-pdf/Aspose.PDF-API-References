@@ -1,14 +1,14 @@
 ---
-title: Interface IImageDescriptionCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Interface Aspose.Pdf.AI.IImageDescriptionCopilot. Représente un copilote de description d'image pour extraire des descriptions d'images en utilisant des modèles d'IA
+title: "Interface IImageDescriptionCopilot"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Interface Aspose.Pdf.AI.IImageDescriptionCopilot. Représente un copilote de description d'image pour extraire les descriptions d'images à l'aide de modèles d'IA"
 type: docs
-weight: 510
+weight: 530
 url: /fr/net/aspose.pdf.ai/iimagedescriptioncopilot/
 ---
-## Interface IImageDescriptionCopilot
+## IImageDescriptionCopilot interface
 
-Représente un copilote de description d'image pour extraire des descriptions d'images en utilisant des modèles d'IA.
+Représente un copilote de description d'image pour extraire les descriptions d'images en utilisant des modèles IA.
 
 ```csharp
 public interface IImageDescriptionCopilot : IAICopilot
@@ -18,10 +18,12 @@ public interface IImageDescriptionCopilot : IAICopilot
 
 | Nom | Description |
 | --- | --- |
-| [GetImageDescriptionsAsync](../../aspose.pdf.ai/iimagedescriptioncopilot/getimagedescriptionsasync/)(CancellationToken?) | Obtient de manière asynchrone les descriptions d'images pour les images d'un document PDF. |
+| [GetImageDescriptionsAsync](../../aspose.pdf.ai/iimagedescriptioncopilot/getimagedescriptionsasync/)(CancellationToken?) | Obtient de manière asynchrone les descriptions d'images à partir d'un document PDF. |
 
 ### Voir aussi
 
 * interface [IAICopilot](../iaicopilot/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

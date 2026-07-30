@@ -1,12 +1,12 @@
 ---
-title: Class Matrix3D
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Matrix3D. La classe représente une matrice de transformation
+title: "Classe Matrix3D"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Matrix3D classe. Classe représentant une matrice de transformation"
 type: docs
-weight: 6930
+weight: 7070
 url: /fr/net/aspose.pdf/matrix3d/
 ---
-## Classe Matrix3D
+## Matrix3D class
 
 La classe représente une matrice de transformation.
 
@@ -45,12 +45,14 @@ public sealed class Matrix3D
 | Nom | Description |
 | --- | --- |
 | [Add](../../aspose.pdf/matrix3d/add/)(Matrix3D) | Ajoute une matrice à une autre matrice. |
-| override [Equals](../../aspose.pdf/matrix3d/equals/)(object) | Compare la matrice avec un autre objet. |
+| override [Equals](../../aspose.pdf/matrix3d/equals/)(object) | Compare la matrice à un autre objet. |
 | override [GetHashCode](../../aspose.pdf/matrix3d/gethashcode/)() | Code de hachage pour l'objet. |
 | override [ToString](../../aspose.pdf/matrix3d/tostring/)() | Renvoie la représentation textuelle de la matrice. |
-| static [GetAngle](../../aspose.pdf/matrix3d/getangle/)(Rotation) | Traduit la rotation en angle (degrés) |
+| static [GetAngle](../../aspose.pdf/matrix3d/getangle/)(Rotation) | Convertit la rotation en angle (degrés) |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

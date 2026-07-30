@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.JapaneseDoublePostcardRotated
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSizes. Carte postale double japonaise tournée 148 mm par 200 mm
+title: "PaperSizes.JapaneseDoublePostcardRotated"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PaperSizes champ. double carte postale japonaise pivotée 148 mm par 200 mm"
 type: docs
 weight: 490
 url: /fr/net/aspose.pdf.printing/papersizes/japanesedoublepostcardrotated/
 ---
-## Champ PaperSizes.JapaneseDoublePostcardRotated
+## PaperSizes.JapaneseDoublePostcardRotated field
 
-Carte postale double japonaise tournée (148 mm par 200 mm).
+Double carte postale japonaise pivotée (148 mm par 200 mm).
 
 ```csharp
 public static readonly PaperSize JapaneseDoublePostcardRotated;
@@ -16,7 +16,9 @@ public static readonly PaperSize JapaneseDoublePostcardRotated;
 
 ### Voir aussi
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

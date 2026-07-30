@@ -1,12 +1,12 @@
 ---
-title: Color.IndianRed
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de couleur. Obtient une couleur définie par le système qui a une valeur ARGB de c FFCD5C5C
+title: "Color.IndianRed"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Color. Obtient une couleur définie par le système dont la valeur ARGB est c FFCD5C5C"
 type: docs
 weight: 570
 url: /fr/net/aspose.pdf/color/indianred/
 ---
-## Propriété Color.IndianRed
+## Color.IndianRed property
 
 Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FFCD5C5C.
 
@@ -16,10 +16,12 @@ public static Color IndianRed { get; }
 
 ### Valeur de retour
 
-Représentant une couleur définie par le système.
+A représentant une couleur définie par le système.
 
 ### Voir aussi
 
-* classe [Color](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

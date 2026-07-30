@@ -1,12 +1,12 @@
 ---
-title: GraphicElementCollection.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode GraphicElementCollection. Obtient une représentation sous forme de chaîne de cette collection
+title: "GraphicElementCollection.ToString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode GraphicElementCollection. Obtient une représentation sous forme de chaîne de cette collection."
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.vector/graphicelementcollection/tostring/
 ---
-## Méthode GraphicElementCollection.ToString
+## GraphicElementCollection.ToString method
 
 Obtient une représentation sous forme de chaîne de cette collection.
 
@@ -20,6 +20,8 @@ La chaîne.
 
 ### Voir aussi
 
-* classe [GraphicElementCollection](../)
-* espace de noms [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
+* class [GraphicElementCollection](../)
+* namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

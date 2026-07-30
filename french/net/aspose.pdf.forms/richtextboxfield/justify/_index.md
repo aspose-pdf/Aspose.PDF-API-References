@@ -1,14 +1,14 @@
 ---
-title: RichTextBoxField.Justify
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété RichTextBoxField. Obtient ou définit la justification de la zone de texte enrichi
+title: "RichTextBoxField.Justify"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "RichTextBoxField propriété. Obtient ou définit la justification de la zone de texte enrichi"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.forms/richtextboxfield/justify/
 ---
-## Propriété RichTextBoxField.Justify
+## RichTextBoxField.Justify property
 
-Obtient ou définit la justification de la zone de texte enrichi.
+Obtient ou définit l'alignement du texte du champ texte enrichi.
 
 ```csharp
 public Justification Justify { get; set; }
@@ -20,3 +20,5 @@ public Justification Justify { get; set; }
 * class [RichTextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

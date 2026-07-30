@@ -1,12 +1,12 @@
 ---
-title: AppearanceDictionary.Values
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété AppearanceDictionary. Obtient la liste des valeurs du dictionnaire. La collection résultante contient la liste des objets XForm
+title: "AppearanceDictionary.Values"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété AppearanceDictionary. Obtient la liste des valeurs du dictionnaire. La collection résultante contient la liste des objets XForm"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.annotations/appearancedictionary/values/
 ---
-## Propriété AppearanceDictionary.Values
+## AppearanceDictionary.Values property
 
 Obtient la liste des valeurs du dictionnaire. La collection résultante contient la liste des objets XForm.
 
@@ -16,7 +16,9 @@ public ICollection<XForm> Values { get; }
 
 ### Voir aussi
 
-* classe [XForm](../../../aspose.pdf/xform/)
-* classe [AppearanceDictionary](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

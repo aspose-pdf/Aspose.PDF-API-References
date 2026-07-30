@@ -1,12 +1,12 @@
 ---
-title: Table.GetWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Table. Obtenir la largeur
+title: "Table.GetWidth"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Table. Obtient la largeur"
 type: docs
 weight: 240
 url: /fr/net/aspose.pdf/table/getwidth/
 ---
-## Méthode Table.GetWidth
+## Table.GetWidth method
 
 Obtenir la largeur.
 
@@ -20,6 +20,8 @@ La largeur du tableau
 
 ### Voir aussi
 
-* classe [Table](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

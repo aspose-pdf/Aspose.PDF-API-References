@@ -1,12 +1,12 @@
 ---
-title: PDF3DViewArray.RemoveAt
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PDF3DViewArray. Supprime la vue du tableau de vues à l'index spécifié
+title: "PDF3DViewArray.RemoveAt"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PDF3DViewArray. Supprime la vue du tableau de vues à l'index spécifié"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.annotations/pdf3dviewarray/removeat/
 ---
-## Méthode PDF3DViewArray.RemoveAt
+## PDF3DViewArray.RemoveAt method
 
 Supprime la vue du tableau de vues à l'index spécifié.
 
@@ -26,6 +26,8 @@ public void RemoveAt(int index)
 
 ### Voir aussi
 
-* classe [PDF3DViewArray](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DViewArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

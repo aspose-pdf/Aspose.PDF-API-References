@@ -1,7 +1,7 @@
 ---
-title: ToUnicodeProcessingRules.ToUnicodeProcessingRules
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de ToUnicodeProcessingRules. Initialise une nouvelle instance de la classe ToUnicodeProcessingRules
+title: "ToUnicodeProcessingRules.ToUnicodeProcessingRules"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur ToUnicodeProcessingRules. Initialise une nouvelle instance de la classe ToUnicodeProcessingRules"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/tounicodeprocessingrules/tounicodeprocessingrules/
@@ -16,8 +16,8 @@ public ToUnicodeProcessingRules()
 
 ### Voir aussi
 
-* classe [ToUnicodeProcessingRules](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [ToUnicodeProcessingRules](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -36,15 +36,15 @@ public ToUnicodeProcessingRules(bool removeSpaces)
 
 ### Voir aussi
 
-* classe [ToUnicodeProcessingRules](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [ToUnicodeProcessingRules](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ToUnicodeProcessingRules(bool, bool) {#constructor_2}
 
-Initialise une nouvelle instance de la classe [`ToUnicodeProcessingRules`](../) avec des options spécifiées.
+Initialise une nouvelle instance de la classe [`ToUnicodeProcessingRules`](../) avec les options spécifiées.
 
 ```csharp
 public ToUnicodeProcessingRules(bool removeSpaces, bool mapNonLinkedUnicodesOnSpace)
@@ -53,10 +53,12 @@ public ToUnicodeProcessingRules(bool removeSpaces, bool mapNonLinkedUnicodesOnSp
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | removeSpaces | Boolean | Indique si les espaces doivent être supprimés des noms CMap. |
-| mapNonLinkedUnicodesOnSpace | Boolean | Indique si les symboles Unicode non liés doivent être mappés sur des espaces. |
+| mapNonLinkedUnicodesOnSpace | Boolean | Indique si les symboles Unicode non liés doivent être mappés aux espaces. |
 
 ### Voir aussi
 
-* classe [ToUnicodeProcessingRules](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [ToUnicodeProcessingRules](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

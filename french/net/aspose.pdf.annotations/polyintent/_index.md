@@ -1,12 +1,12 @@
 ---
-title: Enum PolyIntent
-second_title: Aspose.PDF for .NET API Reference
-description: Enumération Aspose.Pdf.Annotations.PolyIntent. Énumère les intentions de l'annotation de polygone ou de polyligne
+title: "Énum PolyIntent"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Énum Aspose.Pdf.Annotations.PolyIntent. Énumère les intentions de l'annotation polygone ou polyligne."
 type: docs
-weight: 2300
+weight: 2390
 url: /fr/net/aspose.pdf.annotations/polyintent/
 ---
-## Énumération PolyIntent
+## PolyIntent enumeration
 
 Énumère les intentions de l'annotation de polygone ou de polyligne.
 
@@ -18,12 +18,14 @@ public enum PolyIntent
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| Indéfini | `0` | État indéfini. |
-| NuagePolygone | `1` | Signifie que l'annotation est destinée à fonctionner comme un objet nuage. |
-| DimensionPolyligne | `2` | Indique que l'annotation de polyligne est destinée à fonctionner comme une dimension. |
-| DimensionPolygone | `3` | Indique que l'annotation de polygone est destinée à fonctionner comme une dimension. |
+| Undefined | `0` | État indéfini. |
+| PolygonCloud | `1` | Indique que l'annotation est destinée à fonctionner comme un objet nuage. |
+| PolyLineDimension | `2` | Indique que l'annotation de polyligne est destinée à fonctionner comme une dimension. |
+| PolygonDimension | `3` | Indique que l'annotation de polygone est destinée à fonctionner comme une dimension. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

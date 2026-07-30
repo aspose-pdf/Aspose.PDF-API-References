@@ -1,12 +1,12 @@
 ---
-title: OpenAISummaryCopilot.HasContext
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OpenAISummaryCopilot.
+title: "OpenAISummaryCopilot.HasContext"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OpenAISummaryCopilot propriété."
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.ai/openaisummarycopilot/hascontext/
 ---
-## Propriété OpenAISummaryCopilot.HasContext
+## OpenAISummaryCopilot.HasContext property
 
 ```csharp
 public bool HasContext { get; }
@@ -14,6 +14,8 @@ public bool HasContext { get; }
 
 ### Voir aussi
 
-* classe [OpenAISummaryCopilot](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAISummaryCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

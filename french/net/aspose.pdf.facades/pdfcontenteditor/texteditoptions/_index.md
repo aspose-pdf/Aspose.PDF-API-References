@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.TextEditOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfContentEditor. Obtient ou définit les options d'édition de texte
+title: "PdfContentEditor.TextEditOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfContentEditor. Obtient ou définit les options d'édition de texte"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.facades/pdfcontenteditor/texteditoptions/
 ---
-## Propriété PdfContentEditor.TextEditOptions
+## PdfContentEditor.TextEditOptions property
 
-Obtient ou définit les options d'édition de texte.
+Obtient ou définit les options de modification du texte.
 
 ```csharp
 public TextEditOptions TextEditOptions { get; set; }
@@ -16,7 +16,9 @@ public TextEditOptions TextEditOptions { get; set; }
 
 ### Voir aussi
 
-* classe [TextEditOptions](../../../aspose.pdf.text/texteditoptions/)
-* classe [PdfContentEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [TextEditOptions](../../../aspose.pdf.text/texteditoptions/)
+* class [PdfContentEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

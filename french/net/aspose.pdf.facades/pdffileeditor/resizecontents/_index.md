@@ -1,7 +1,7 @@
 ---
-title: PdfFileEditor.ResizeContents
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfFileEditor. Redimensionne le contenu des pages du document
+title: "PdfFileEditor.ResizeContents"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfFileEditor. Redimensionne le contenu des pages du document"
 type: docs
 weight: 320
 url: /fr/net/aspose.pdf.facades/pdffileeditor/resizecontents/
@@ -17,14 +17,14 @@ public bool ResizeContents(Stream source, Stream destination, int[] pages,
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| source | Stream | Flux avec le document source. |
-| destination | Stream | Flux avec le document de destination. |
-| pages | Int32[] | Tableau des index de pages. |
-| parameters | ContentsResizeParameters | Paramètres de redimensionnement. |
+| source | Stream | Flux contenant le document source. |
+| destination | Stream | Flux contenant le document de destination. |
+| pages | Int32[] | Tableau d'index de pages. |
+| paramètres | ContentsResizeParameters | Paramètres de redimensionnement. |
 
 ### Valeur de retour
 
-Retourne vrai si succès.
+Renvoie true si succès.
 
 ## Exemples
 
@@ -33,17 +33,17 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //left margin = 10% of page width
+    //marge gauche = 10% de la largeur de la page
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    //nouvelle largeur du contenu calculée automatiquement comme largeur - marge gauche - marge droite (100% - 10% - 10% = 80%)
     null,
-    //right margin is 10% of page 
+    //la marge droite est de 10% de la page
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //top margin = 10% of height
+    //marge supérieure = 10% de la hauteur
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents height is calculated automatically (similar to width)
+    //la hauteur du nouveau contenu est calculée automatiquement (similaire à la largeur)
     null,
-    //bottom margin is 10%
+    //la marge inférieure est de 10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents(src, dest, new int[] { 1, 2,.3}, parameters);
@@ -52,9 +52,9 @@ dest.Close();
 
 ### Voir aussi
 
-* classe [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* classe [PdfFileEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -70,9 +70,9 @@ public bool ResizeContents(Stream source, Stream destination, int[] pages, doubl
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| source | Stream | Flux qui contient le document source. |
+| source | Stream | Flux contenant le document source. |
 | destination | Stream | Flux où le document résultant sera enregistré. |
-| pages | Int32[] | Tableau des index de pages. Si null, toutes les pages du document seront traitées. |
+| pages | Int32[] | Tableau d'index de pages. Si null, alors toutes les pages du document seront traitées. |
 | newWidth | Double | Nouvelle largeur du contenu de la page en unités d'espace par défaut. |
 | newHeight | Double | Nouvelle hauteur du contenu de la page en unités d'espace par défaut. |
 
@@ -87,19 +87,19 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.ResizeContents(src, dest, 
-//resize all pages of document
+//redimensionner toutes les pages du document
 null, 
-//new contents width = 200
+//largeur du nouveau contenu = 200
 200, 
-//new contents height = 300
+//hauteur du nouveau contenu = 300
 300);
-// rest area of page will be empty
+// la zone restante de la page sera vide
 ```
 
 ### Voir aussi
 
-* classe [PdfFileEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -117,39 +117,39 @@ public bool ResizeContents(string source, string destination, int[] pages, doubl
 | --- | --- | --- |
 | source | String | Chemin vers le document source. |
 | destination | String | Chemin où le document résultant sera enregistré. |
-| pages | Int32[] | Tableau des index de pages. Si null, toutes les pages du document seront traitées. |
+| pages | Int32[] | Tableau d'index de pages. Si null, alors toutes les pages du document seront traitées. |
 | newWidth | Double | Nouvelle largeur du contenu de la page en unités d'espace par défaut. |
 | newHeight | Double | Nouvelle hauteur du contenu de la page en unités d'espace par défaut. |
 
 ### Valeur de retour
 
-vrai si le redimensionnement a réussi.
+true si le redimensionnement a réussi.
 
 ## Exemples
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.ResizeContents("input.pdf", "output.pdf", 
-//resize all pages of document
+//redimensionner toutes les pages du document
 null, 
-//new contents width = 200
+//largeur du nouveau contenu = 200
 200, 
-//new contents height = 300
+//hauteur du nouveau contenu = 300
 300);
-// rest area of page will be empty
+// la zone restante de la page sera vide
 ```
 
 ### Voir aussi
 
-* classe [PdfFileEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ResizeContents(string, string, int[], ContentsResizeParameters) {#resizecontents_2}
 
-Redimensionne le contenu des pages dans le document. Si la page est réduite, des marges vides sont ajoutées autour de la page.
+Redimensionne le contenu des pages du document. Si la page est réduite, des marges blanches sont ajoutées autour de la page.
 
 ```csharp
 public bool ResizeContents(string source, string destination, int[] pages, 
@@ -160,29 +160,29 @@ public bool ResizeContents(string source, string destination, int[] pages,
 | --- | --- | --- |
 | source | String | Chemin du document source. |
 | destination | String | Chemin du document de destination. |
-| pages | Int32[] | Tableau des index de pages (l'index de page commence à 1). |
-| parameters | ContentsResizeParameters | Paramètres de redimensionnement de la page. |
+| pages | Int32[] | Tableau d'index de pages (l'index de page commence à 1). |
+| paramètres | ContentsResizeParameters | Paramètres du redimensionnement de page. |
 
 ### Valeur de retour
 
-vrai si le redimensionnement a réussi.
+true si le redimensionnement a réussi.
 
 ## Exemples
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //left margin = 10% of page width
+    //marge gauche = 10% de la largeur de la page
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    //nouvelle largeur du contenu calculée automatiquement comme largeur - marge gauche - marge droite (100% - 10% - 10% = 80%)
     null,
-    //right margin is 10% of page 
+    //la marge droite est de 10% de la page
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //top margin = 10% of height
+    //marge supérieure = 10% de la hauteur
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents height is calculated automatically (similar to width)
+    //la hauteur du nouveau contenu est calculée automatiquement (similaire à la largeur)
     null,
-    //bottom margin is 10%
+    //la marge inférieure est de 10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents("input.pdf", "output.pdf", new int[] { 1, 2, 3 }, parameters);
@@ -190,16 +190,16 @@ fileEditor.ResizeContents("input.pdf", "output.pdf", new int[] { 1, 2, 3 }, para
 
 ### Voir aussi
 
-* classe [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* classe [PdfFileEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ResizeContents(Document, int[], ContentsResizeParameters) {#resizecontents_5}
 
-Redimensionne les pages du document. Des marges vides sont ajoutées autour de la page réduite.
+Redimensionne les pages du document. Des marges blanches sont ajoutées autour de la page réduite.
 
 ```csharp
 public void ResizeContents(Document source, int[] pages, ContentsResizeParameters parameters)
@@ -209,7 +209,7 @@ public void ResizeContents(Document source, int[] pages, ContentsResizeParameter
 | --- | --- | --- |
 | source | Document | Document source. |
 | pages | Int32[] | Liste des index de pages. |
-| parameters | ContentsResizeParameters | Paramètres de redimensionnement. |
+| paramètres | ContentsResizeParameters | Paramètres de redimensionnement. |
 
 ## Exemples
 
@@ -217,17 +217,17 @@ public void ResizeContents(Document source, int[] pages, ContentsResizeParameter
 PdfFileEditor fileEditor = new PdfFileEditor();
 Document doc = new Document("input.pdf");
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //left margin = 10% of page width
+    //marge gauche = 10% de la largeur de la page
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    //nouvelle largeur du contenu calculée automatiquement comme largeur - marge gauche - marge droite (100% - 10% - 10% = 80%)
     null,
-    //right margin is 10% of page 
+    //la marge droite est de 10% de la page
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //top margin = 10% of height
+    //marge supérieure = 10% de la hauteur
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents height is calculated automatically (similar to width)
+    //la hauteur du nouveau contenu est calculée automatiquement (similaire à la largeur)
     null,
-    //bottom margin is 10%
+    //la marge inférieure est de 10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents(doc, new int[] { 1, 2, 3 }, parameters);
@@ -236,17 +236,17 @@ doc.Save("output.pdf");
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* classe [PdfFileEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Document](../../../aspose.pdf/document/)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ResizeContents(Document, ContentsResizeParameters) {#resizecontents_4}
 
-Redimensionne les pages du document. Des marges vides sont ajoutées autour de la page réduite.
+Redimensionne les pages du document. Des marges blanches sont ajoutées autour de la page réduite.
 
 ```csharp
 public void ResizeContents(Document source, ContentsResizeParameters parameters)
@@ -255,7 +255,7 @@ public void ResizeContents(Document source, ContentsResizeParameters parameters)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | source | Document | Document source. |
-| parameters | ContentsResizeParameters | Paramètres de redimensionnement. |
+| paramètres | ContentsResizeParameters | Paramètres de redimensionnement. |
 
 ## Exemples
 
@@ -263,17 +263,17 @@ public void ResizeContents(Document source, ContentsResizeParameters parameters)
 PdfFileEditor fileEditor = new PdfFileEditor();
 Document doc = new Document("input.pdf");
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //left margin = 10% of page width
+    //marge gauche = 10% de la largeur de la page
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    //nouvelle largeur du contenu calculée automatiquement comme largeur - marge gauche - marge droite (100% - 10% - 10% = 80%)
     null,
-    //right margin is 10% of page 
+    //la marge droite est de 10% de la page
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //top margin = 10% of height
+    //marge supérieure = 10% de la hauteur
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents height is calculated automatically (similar to width)
+    //la hauteur du nouveau contenu est calculée automatiquement (similaire à la largeur)
     null,
-    //bottom margin is 10%
+    //la marge inférieure est de 10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 fileEditor.ResizeContents(doc, parameters);
@@ -282,8 +282,10 @@ doc.Save("output.pdf");
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* classe [PdfFileEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Document](../../../aspose.pdf/document/)
+* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

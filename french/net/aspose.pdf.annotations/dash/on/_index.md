@@ -1,12 +1,12 @@
 ---
-title: Dash.On
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Dash. Obtient ou définit la longueur du premier tiret
+title: "Dash.On"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Dash. Obtient ou définit la longueur du premier tiret"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.annotations/dash/on/
 ---
-## Propriété Dash.On
+## Dash.On property
 
 Obtient ou définit la longueur du premier tiret.
 
@@ -16,6 +16,8 @@ public int On { get; set; }
 
 ### Voir aussi
 
-* classe [Dash](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Dash](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

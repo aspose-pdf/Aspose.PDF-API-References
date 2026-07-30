@@ -1,14 +1,14 @@
 ---
-title: ITableElement.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ITableElement. Obtient le rectangle qui décrit la position de l'élément de tableau sur la page
+title: "ITableElement.Rectangle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ITableElement. Obtient le Rectangle qui décrit la position de l'élément de tableau sur la page"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.text/itableelement/rectangle/
 ---
-## Propriété ITableElement.Rectangle
+## ITableElement.Rectangle property
 
-Obtient le rectangle qui décrit la position de l'élément de tableau sur la page
+Obtient le rectangle qui décrit la position de l'élément du tableau sur la page
 
 ```csharp
 public Rectangle Rectangle { get; }
@@ -16,7 +16,9 @@ public Rectangle Rectangle { get; }
 
 ### Voir aussi
 
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
 * interface [ITableElement](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfXmpMetadata.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfXmpMetadata. Ajoute une valeur aux métadonnées XMP
+title: "PdfXmpMetadata.Add"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfXmpMetadata. Ajoute une valeur aux métadonnées XMP"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf.facades/pdfxmpmetadata/add/
@@ -16,8 +16,8 @@ public void Add(DefaultMetadataProperties key, XmpValue value)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| key | DefaultMetadataProperties | Le nom de la clé. |
-| value | XmpValue | Valeur qui sera ajoutée. |
+| clé | DefaultMetadataProperties | Le nom de la clé. |
+| valeur | XmpValue | Valeur qui sera ajoutée. |
 
 ## Exemples
 
@@ -40,7 +40,7 @@ xmp.Save(TestSettings.GetOutputFile("XMP_AddedValue.pdf"));
 
 ## Add(XmpPdfAExtensionObject, string, string, string) {#add_1}
 
-Ajoute un champ d'extension dans les métadonnées.
+Ajoute un champ d'extension aux métadonnées.
 
 ```csharp
 public void Add(XmpPdfAExtensionObject xmpPdfAExtensionObject, string namespacePrefix, 
@@ -52,7 +52,7 @@ public void Add(XmpPdfAExtensionObject xmpPdfAExtensionObject, string namespaceP
 | xmpPdfAExtensionObject | XmpPdfAExtensionObject | L'objet d'extension pdf à ajouter. |
 | namespacePrefix | String | Le préfixe du schéma. |
 | namespaceUri | String | L'uri de l'espace de noms du schéma. |
-| schemaDescription | String | La description optionnelle du schéma. |
+| schemaDescription | String | La description facultative du schéma. |
 
 ### Voir aussi
 
@@ -73,8 +73,8 @@ public void Add(string key, XmpValue value)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| key | String | Clé du nouvel élément. |
-| value | XmpValue | Valeur de l'élément. |
+| clé | String | Clé du nouvel élément. |
+| valeur | XmpValue | Valeur de l'élément. |
 
 ## Exemples
 
@@ -103,8 +103,8 @@ public void Add(string key, object value)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| key | String | Clé du nouvel élément. |
-| value | Object | Valeur de l'élément. |
+| clé | String | Clé du nouvel élément. |
+| valeur | Objet | Valeur de l'élément. |
 
 ### Voir aussi
 
@@ -116,7 +116,7 @@ public void Add(string key, object value)
 
 ## Add(KeyValuePair&lt;string, XmpValue&gt;) {#add_2}
 
-Ajoute une paire avec clé et valeur dans le dictionnaire.
+Ajoute une paire clé-valeur dans le dictionnaire.
 
 ```csharp
 public void Add(KeyValuePair<string, XmpValue> item)
@@ -132,3 +132,5 @@ public void Add(KeyValuePair<string, XmpValue> item)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ApsSaveOptions.ApsSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur ApsSaveOptions. Le constructeur par défaut
+title: "ApsSaveOptions.ApsSaveOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur ApsSaveOptions. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/apssaveoptions/apssaveoptions/
 ---
-## Constructeur ApsSaveOptions
+## ApsSaveOptions constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public ApsSaveOptions()
 
 ### Voir aussi
 
-* classe [ApsSaveOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [ApsSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

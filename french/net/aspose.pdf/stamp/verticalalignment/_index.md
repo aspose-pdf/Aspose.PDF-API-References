@@ -1,12 +1,12 @@
 ---
-title: Stamp.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Stamp. Obtient ou définit l'alignement vertical du tampon sur la page
+title: "Stamp.VerticalAlignment"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Stamp. Obtient ou définit l'alignement vertical du tampon sur la page"
 type: docs
 weight: 130
 url: /fr/net/aspose.pdf/stamp/verticalalignment/
 ---
-## Propriété Stamp.VerticalAlignment
+## Stamp.VerticalAlignment property
 
 Obtient ou définit l'alignement vertical du tampon sur la page.
 
@@ -20,3 +20,5 @@ public VerticalAlignment VerticalAlignment { get; set; }
 * class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

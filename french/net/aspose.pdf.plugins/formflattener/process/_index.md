@@ -1,14 +1,14 @@
 ---
-title: FormFlattener.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FormFlattener. Démarre le traitement de FormFlattener avec les paramètres spécifiés
+title: "FormFlattener.Process"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode FormFlattener. Démarre le traitement FormFlattener avec les paramètres spécifiés"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.plugins/formflattener/process/
 ---
-## Méthode FormFlattener.Process
+## FormFlattener.Process method
 
-Démarre le traitement de FormFlattener avec les paramètres spécifiés.
+Démarre le traitement FormFlattener avec les paramètres spécifiés.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -16,7 +16,7 @@ public ResultContainer Process(IPluginOptions options)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| options | IPluginOptions | Un objet d'options contenant des instructions pour le FormFlattener. |
+| options | IPluginOptions | Un objet d'options contenant les instructions pour le FormFlattener. |
 
 ### Valeur de retour
 
@@ -30,8 +30,10 @@ Un objet ResultContainer contenant le résultat de l'opération.
 
 ### Voir aussi
 
-* classe [ResultContainer](../../resultcontainer/)
+* class [ResultContainer](../../resultcontainer/)
 * interface [IPluginOptions](../../ipluginoptions/)
-* classe [FormFlattener](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [FormFlattener](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

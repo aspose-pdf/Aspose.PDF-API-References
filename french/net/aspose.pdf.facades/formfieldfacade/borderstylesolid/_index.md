@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.BorderStyleSolid
-second_title: Aspose.PDF for .NET API Reference
-description: Champ FormFieldFacade. Définit un style de bordure solide
+title: "FormFieldFacade.BorderStyleSolid"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "FormFieldFacade champ. Définit un style de bordure solide"
 type: docs
 weight: 320
 url: /fr/net/aspose.pdf.facades/formfieldfacade/borderstylesolid/
 ---
-## Champ FormFieldFacade.BorderStyleSolid
+## FormFieldFacade.BorderStyleSolid field
 
-Définit un style de bordure solide.
+Définit un style de bordure plein.
 
 ```csharp
 public const int BorderStyleSolid;
@@ -16,6 +16,8 @@ public const int BorderStyleSolid;
 
 ### Voir aussi
 
-* classe [FormFieldFacade](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

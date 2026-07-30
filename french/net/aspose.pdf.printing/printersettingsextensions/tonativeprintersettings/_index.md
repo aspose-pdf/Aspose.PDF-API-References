@@ -1,12 +1,12 @@
 ---
-title: PrinterSettingsExtensions.ToNativePrinterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PrinterSettingsExtensions. Convertit PrinterSettings en System.Drawing.Printing.PrinterSettings spécifique à Windows
+title: "PrinterSettingsExtensions.ToNativePrinterSettings"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PrinterSettingsExtensions. Convertit PrinterSettings en System.Drawing.Printing.PrinterSettings spécifique à Windows."
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.printing/printersettingsextensions/tonativeprintersettings/
 ---
-## Méthode PrinterSettingsExtensions.ToNativePrinterSettings
+## PrinterSettingsExtensions.ToNativePrinterSettings method
 
 Convertit [`PrinterSettings`](../../printersettings/) en System.Drawing.Printing.PrinterSettings spécifique à Windows.
 
@@ -16,15 +16,17 @@ public static PrinterSettings ToNativePrinterSettings(this PrinterSettings print
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| printerSettings | PrinterSettings | Paramètres de l'imprimante à convertir. |
+| printerSettings | PrinterSettings | Paramètres d'imprimante à convertir. |
 
 ### Valeur de retour
 
-Paramètres de l'imprimante Windows.
+Paramètres d'imprimante Windows.
 
 ### Voir aussi
 
-* classe [PrinterSettings](../../printersettings/)
-* classe [PrinterSettingsExtensions](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PrinterSettings](../../printersettings/)
+* class [PrinterSettingsExtensions](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

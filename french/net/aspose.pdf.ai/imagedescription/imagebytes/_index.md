@@ -1,12 +1,12 @@
 ---
-title: ImageDescription.ImageBytes
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ImageDescription. Obtient ou définit le tableau d'octets représentant l'image
+title: "ImageDescription.ImageBytes"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "ImageDescription propriété. Obtient ou définit le tableau d'octets représentant l'image"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.ai/imagedescription/imagebytes/
 ---
-## Propriété ImageDescription.ImageBytes
+## ImageDescription.ImageBytes property
 
 Obtient ou définit le tableau d'octets représentant l'image.
 
@@ -16,6 +16,8 @@ public byte[] ImageBytes { get; set; }
 
 ### Voir aussi
 
-* classe [ImageDescription](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ImageDescription](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

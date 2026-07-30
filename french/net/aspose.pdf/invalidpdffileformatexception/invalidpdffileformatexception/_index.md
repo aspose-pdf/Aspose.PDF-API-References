@@ -1,7 +1,7 @@
 ---
-title: InvalidPdfFileFormatException.InvalidPdfFileFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de InvalidPdfFileFormatException. Initialise une nouvelle instance de la classe InvalidPdfFileFormatException
+title: "InvalidPdfFileFormatException.InvalidPdfFileFormatException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur InvalidPdfFileFormatException. Initialise une nouvelle instance de la classe InvalidPdfFileFormatException."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/invalidpdffileformatexception/invalidpdffileformatexception/
@@ -20,8 +20,8 @@ public InvalidPdfFileFormatException(string message)
 
 ### Voir aussi
 
-* classe [InvalidPdfFileFormatException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [InvalidPdfFileFormatException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -41,8 +41,8 @@ public InvalidPdfFileFormatException(string message, Exception innerException)
 
 ### Voir aussi
 
-* classe [InvalidPdfFileFormatException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [InvalidPdfFileFormatException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -61,6 +61,8 @@ public InvalidPdfFileFormatException(Exception innerException)
 
 ### Voir aussi
 
-* classe [InvalidPdfFileFormatException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [InvalidPdfFileFormatException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

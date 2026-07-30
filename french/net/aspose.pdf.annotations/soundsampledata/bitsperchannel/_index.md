@@ -1,12 +1,12 @@
 ---
-title: SoundSampleData.BitsPerChannel
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SoundSampleData. Obtient ou définit le nombre de bits par valeur d'échantillon par canal
+title: "SoundSampleData.BitsPerChannel"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété SoundSampleData. Obtient ou définit le nombre de bits par valeur d'échantillon par canal"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.annotations/soundsampledata/bitsperchannel/
 ---
-## Propriété SoundSampleData.BitsPerChannel
+## SoundSampleData.BitsPerChannel property
 
 Obtient ou définit le nombre de bits par valeur d'échantillon par canal.
 
@@ -16,6 +16,8 @@ public int BitsPerChannel { get; set; }
 
 ### Voir aussi
 
-* classe [SoundSampleData](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

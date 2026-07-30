@@ -1,12 +1,12 @@
 ---
-title: Class CollectionItem
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.CollectionItem. Représente une classe d'élément de collection. L'élément de collection contient les données décrites par le schéma de collection
+title: "Classe CollectionItem"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.CollectionItem class. Représente une classe d'élément de collection. L'élément de collection contient les données décrites par le schéma de collection"
 type: docs
-weight: 3050
+weight: 3160
 url: /fr/net/aspose.pdf/collectionitem/
 ---
-## Classe CollectionItem
+## CollectionItem class
 
 Représente une classe d'élément de collection. L'élément de collection contient les données décrites par le schéma de collection.
 
@@ -18,7 +18,7 @@ public class CollectionItem
 
 | Nom | Description |
 | --- | --- |
-| [AllNames](../../aspose.pdf/collectionitem/allnames/) { get; } | Obtient une collection de tous les noms des valeurs d'éléments de collection. |
+| [AllNames](../../aspose.pdf/collectionitem/allnames/) { get; } | Obtient une collection de tous les noms des valeurs d'élément de collection. |
 | [IsEmpty](../../aspose.pdf/collectionitem/isempty/) { get; } | Obtient une valeur indiquant si l'élément de collection est vide. |
 
 ## Méthodes
@@ -31,13 +31,15 @@ public class CollectionItem
 | [TryGetIntValue](../../aspose.pdf/collectionitem/trygetintvalue/)(string, out Value&lt;int&gt;) |  |
 | [TryGetTextValue](../../aspose.pdf/collectionitem/trygettextvalue/)(string, out Value&lt;string&gt;) |  |
 
-## Autres Membres
+## Autres membres
 
 | Nom | Description |
 | --- | --- |
 | class [Value&lt;T&gt;](../../aspose.pdf/collectionitem.value-1) | Représente une classe pour une valeur d'élément de collection. |
 
-### Voir Aussi
+### Voir aussi
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

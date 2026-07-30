@@ -1,14 +1,14 @@
 ---
-title: MarkupParagraph.SecondaryPoints
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété MarkupParagraph. Les points du polygone secondaire décrivent la continuation du paragraphe. Il ne sera pas nul si le paragraphe est continué dans la colonne ou la page suivante. Le point de départ est le coin inférieur gauche du paragraphe. Et les points suivants sont dans l'ordre antihoraire.
+title: "MarkupParagraph.SecondaryPoints"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété MarkupParagraph. Points du polygone secondaire qui décrit la continuation du paragraphe. Il ne sera pas nul si le paragraphe se poursuit dans la colonne suivante ou sur la page suivante. Le point de départ est le coin inférieur gauche du paragraphe. Les points suivants sont dans l'ordre antihoraire"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.text/markupparagraph/secondarypoints/
 ---
-## Propriété MarkupParagraph.SecondaryPoints
+## MarkupParagraph.SecondaryPoints property
 
-Les points du polygone secondaire décrivent la continuation du paragraphe. Il ne sera pas nul si le paragraphe est continué dans la colonne ou la page suivante. Le point de départ est le coin inférieur gauche du paragraphe. Et les points suivants sont dans l'ordre antihoraire.
+Points du polygone secondaire décrivant la continuation du paragraphe. Il ne sera pas nul si le paragraphe se poursuit dans la colonne suivante ou sur une autre page. Le point de départ est le coin inférieur gauche du paragraphe. Les points suivants sont dans l'ordre anti-horaire.
 
 ```csharp
 public List<Point[]> SecondaryPoints { get; }
@@ -16,7 +16,9 @@ public List<Point[]> SecondaryPoints { get; }
 
 ### Voir aussi
 
-* classe [Point](../../../aspose.pdf/point/)
-* classe [MarkupParagraph](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Point](../../../aspose.pdf/point/)
+* class [MarkupParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

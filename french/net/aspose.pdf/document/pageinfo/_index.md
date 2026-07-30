@@ -1,12 +1,12 @@
 ---
-title: Document.PageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété du document. Obtient ou définit les informations de page. 
+title: "Document.PageInfo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Document. Obtient ou définit les informations de page. uniquement pour le générateur, non remplie lors de la lecture du document"
 type: docs
-weight: 430
+weight: 450
 url: /fr/net/aspose.pdf/document/pageinfo/
 ---
-## Propriété Document.PageInfo
+## Document.PageInfo property
 
 Obtient ou définit les informations de page. (pour le générateur uniquement, non rempli lors de la lecture du document)
 
@@ -14,13 +14,15 @@ Obtient ou définit les informations de page. (pour le générateur uniquement, 
 public PageInfo PageInfo { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Les informations de page.
 
 ### Voir aussi
 
-* classe [PageInfo](../../pageinfo/)
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageInfo](../../pageinfo/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

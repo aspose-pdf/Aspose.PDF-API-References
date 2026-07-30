@@ -1,14 +1,14 @@
 ---
-title: RenditionAction.Rendition
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété RenditionAction. Obtient ou définit la rendition associée à l'action
+title: "RenditionAction.Rendition"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété RenditionAction. Obtient ou définit le rendu associé à l'action"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.annotations/renditionaction/rendition/
 ---
-## Propriété RenditionAction.Rendition
+## RenditionAction.Rendition property
 
-Obtient ou définit la rendition associée à l'action.
+Obtient ou définit le rendu associé à l'action.
 
 ```csharp
 public Rendition Rendition { get; }
@@ -16,7 +16,9 @@ public Rendition Rendition { get; }
 
 ### Voir aussi
 
-* classe [Rendition](../../rendition/)
-* classe [RenditionAction](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Rendition](../../rendition/)
+* class [RenditionAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

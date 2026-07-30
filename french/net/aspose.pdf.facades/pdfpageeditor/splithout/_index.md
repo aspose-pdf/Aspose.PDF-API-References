@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.SPLITHOUT
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PdfPageEditor. Division horizontale sortante
+title: "PdfPageEditor.SPLITHOUT"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PdfPageEditor. Division horizontale sortante"
 type: docs
 weight: 300
 url: /fr/net/aspose.pdf.facades/pdfpageeditor/splithout/
 ---
-## Champ PdfPageEditor.SPLITHOUT
+## PdfPageEditor.SPLITHOUT field
 
-Division horizontale sortante
+Division horizontale OUT
 
 ```csharp
 public const int SPLITHOUT;
@@ -16,6 +16,8 @@ public const int SPLITHOUT;
 
 ### Voir aussi
 
-* classe [PdfPageEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

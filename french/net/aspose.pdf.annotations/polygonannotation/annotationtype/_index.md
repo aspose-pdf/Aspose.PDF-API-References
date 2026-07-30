@@ -1,14 +1,14 @@
 ---
-title: PolygonAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PolygonAnnotation. Obtient le type d'annotation
+title: "PolygonAnnotation.AnnotationType"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PolygonAnnotation. Obtient le type d'annotation"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.annotations/polygonannotation/annotationtype/
 ---
-## Propriété PolygonAnnotation.AnnotationType
+## PolygonAnnotation.AnnotationType property
 
-Obtient le type d'annotation.
+Obtient le type de l'annotation.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [PolygonAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

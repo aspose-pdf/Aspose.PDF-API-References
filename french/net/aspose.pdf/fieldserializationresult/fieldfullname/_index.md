@@ -1,12 +1,12 @@
 ---
-title: FieldSerializationResult.FieldFullName
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FieldSerializationResult. Obtient le nom complet du champ
+title: "FieldSerializationResult.FieldFullName"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FieldSerializationResult. Obtient le nom complet du champ"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/fieldserializationresult/fieldfullname/
 ---
-## Propriété FieldSerializationResult.FieldFullName
+## FieldSerializationResult.FieldFullName property
 
 Obtient le nom complet du champ.
 
@@ -14,12 +14,14 @@ Obtient le nom complet du champ.
 public string FieldFullName { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le nom complet du champ.
 
 ### Voir aussi
 
-* classe [FieldSerializationResult](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FieldSerializationResult](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

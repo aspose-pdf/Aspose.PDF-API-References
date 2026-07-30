@@ -1,7 +1,7 @@
 ---
-title: CompositingParameters.CompositingParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de CompositingParameters. Initialise une nouvelle instance de l'objet CompositingParameters
+title: "CompositingParameters.CompositingParameters"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur CompositingParameters. Initialise une nouvelle instance de l'objet CompositingParameters"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/compositingparameters/compositingparameters/
@@ -62,7 +62,7 @@ public CompositingParameters(BlendMode blendMode, ImageFilterType filterType, bo
 | --- | --- | --- |
 | blendMode | BlendMode | Mode de fusion de l'état graphique actuel. |
 | filterType | ImageFilterType | Le type de filtre d'image. |
-| isMasked | Boolean | Le drapeau de masque d'ajout. |
+| isMasked | Boolean | Le drapeau d'ajout de masque. |
 
 ### Voir aussi
 
@@ -71,3 +71,5 @@ public CompositingParameters(BlendMode blendMode, ImageFilterType filterType, bo
 * class [CompositingParameters](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

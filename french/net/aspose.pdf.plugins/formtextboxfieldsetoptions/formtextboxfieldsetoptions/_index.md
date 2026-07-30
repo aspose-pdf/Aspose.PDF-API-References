@@ -1,12 +1,12 @@
 ---
-title: FormTextBoxFieldSetOptions.FormTextBoxFieldSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de FormTextBoxFieldSetOptions. Le constructeur par défaut
+title: "FormTextBoxFieldSetOptions.FormTextBoxFieldSetOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur FormTextBoxFieldSetOptions. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.plugins/formtextboxfieldsetoptions/formtextboxfieldsetoptions/
 ---
-## Constructeur de FormTextBoxFieldSetOptions
+## FormTextBoxFieldSetOptions constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public FormTextBoxFieldSetOptions()
 
 ### Voir aussi
 
-* classe [FormTextBoxFieldSetOptions](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [FormTextBoxFieldSetOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.LRWIPE
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PdfPageEditor. Effacement Gauche-Droite
+title: "PdfPageEditor.LRWIPE"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PdfPageEditor. Essuyage gauche-droite"
 type: docs
 weight: 260
 url: /fr/net/aspose.pdf.facades/pdfpageeditor/lrwipe/
 ---
-## Champ PdfPageEditor.LRWIPE
+## PdfPageEditor.LRWIPE field
 
-Effacement Gauche-Droite
+Balayage gauche-droite
 
 ```csharp
 public const int LRWIPE;
@@ -16,6 +16,8 @@ public const int LRWIPE;
 
 ### Voir aussi
 
-* classe [PdfPageEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

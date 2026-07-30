@@ -1,14 +1,14 @@
 ---
-title: Table.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la table. Obtient ou définit la coordonnée gauche de la table
+title: "Table.Left"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Table. Obtient ou définit la coordonnée gauche du tableau"
 type: docs
 weight: 160
 url: /fr/net/aspose.pdf/table/left/
 ---
-## Propriété Table.Gauche
+## Table.Left property
 
-Obtient ou définit la coordonnée gauche de la table.
+Obtient ou définit la coordonnée gauche du tableau.
 
 ```csharp
 public float Left { get; set; }
@@ -16,6 +16,8 @@ public float Left { get; set; }
 
 ### Voir aussi
 
-* classe [Table](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Table](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Color.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Color. Renvoie vrai si deux couleurs sont égales
+title: "Color.Equals"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Color. Retourne vrai si deux Color sont égaux"
 type: docs
 weight: 1530
 url: /fr/net/aspose.pdf/color/equals/
 ---
-## Méthode Color.Equals
+## Color.Equals method
 
-Renvoie vrai si deux couleurs sont égales.
+Renvoie vrai si deux Color sont égaux.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,7 +16,7 @@ public override bool Equals(object obj)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| obj | Object | Objet à comparer. |
+| obj | Objet | Objet à comparer. |
 
 ### Valeur de retour
 
@@ -24,6 +24,8 @@ Vrai si les objets Color sont égaux.
 
 ### Voir aussi
 
-* classe [Color](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode AttributeKey. Renvoie une chaîne qui représente l'objet actuel
+title: "AttributeKey.ToString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "AttributeKey méthode. Retourne une chaîne qui représente l'objet actuel"
 type: docs
 weight: 440
 url: /fr/net/aspose.pdf.logicalstructure/attributekey/tostring/
 ---
-## Méthode AttributeKey.ToString
+## AttributeKey.ToString method
 
-Renvoie une chaîne qui représente l'objet actuel.
+Renvoie une chaîne qui représente l’objet actuel.
 
 ```csharp
 public override string ToString()
@@ -20,6 +20,8 @@ Chaîne qui représente l'objet actuel.
 
 ### Voir aussi
 
-* classe [AttributeKey](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

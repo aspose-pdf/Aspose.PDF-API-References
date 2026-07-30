@@ -1,12 +1,12 @@
 ---
-title: TextItemComparisonStatistics.TextItemComparisonStatistics
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de TextItemComparisonStatistics. Le constructeur par défaut
+title: "TextItemComparisonStatistics.TextItemComparisonStatistics"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur TextItemComparisonStatistics. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.comparison/textitemcomparisonstatistics/textitemcomparisonstatistics/
 ---
-## Constructeur de TextItemComparisonStatistics
+## TextItemComparisonStatistics constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public TextItemComparisonStatistics()
 
 ### Voir aussi
 
-* classe [TextItemComparisonStatistics](../)
-* espace de noms [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* class [TextItemComparisonStatistics](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

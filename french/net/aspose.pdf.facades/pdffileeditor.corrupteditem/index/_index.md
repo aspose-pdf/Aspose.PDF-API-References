@@ -1,12 +1,12 @@
 ---
-title: PdfFileEditor.CorruptedItem.Index
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété CorruptedItem. Index du fichier corrompu
+title: "PdfFileEditor.CorruptedItem.Index"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété CorruptedItem. Index du fichier corrompu"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.facades/pdffileeditor.corrupteditem/index/
 ---
-## Propriété PdfFileEditor.CorruptedItem.Index
+## PdfFileEditor.CorruptedItem.Index property
 
 Index du fichier corrompu.
 
@@ -16,6 +16,8 @@ public int Index { get; }
 
 ### Voir aussi
 
-* classe [CorruptedItem](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [CorruptedItem](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

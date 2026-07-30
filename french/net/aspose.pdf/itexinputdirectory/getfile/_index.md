@@ -1,14 +1,14 @@
 ---
-title: ITeXInputDirectory.GetFile
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ITeXInputDirectory. Renvoie le flux à partir duquel lire ou écrire
+title: "ITeXInputDirectory.GetFile"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode ITeXInputDirectory. Retourne le flux à lire ou à écrire."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/itexinputdirectory/getfile/
 ---
-## Méthode ITeXInputDirectory.GetFile
+## ITeXInputDirectory.GetFile method
 
-Renvoie le flux à partir duquel lire ou écrire.
+Renvoie le flux à lire ou à écrire.
 
 ```csharp
 public Stream GetFile(string fileName, out string fullName, bool searchSubdirectories = false)
@@ -18,7 +18,7 @@ public Stream GetFile(string fileName, out string fullName, bool searchSubdirect
 | --- | --- | --- |
 | fileName | String | Le nom du fichier. |
 | fullName | String& | Le nom complet du fichier. |
-| searchSubdirectories | Boolean | Indique s'il faut rechercher un fichier dans les sous-répertoires. |
+| searchSubdirectories | Boolean | Indique s'il faut rechercher un fichier dans les sous‑répertoires. |
 
 ### Valeur de retour
 
@@ -29,3 +29,5 @@ Le flux.
 * interface [ITeXInputDirectory](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

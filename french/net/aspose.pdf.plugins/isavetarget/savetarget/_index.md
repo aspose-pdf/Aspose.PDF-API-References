@@ -1,14 +1,14 @@
 ---
-title: ISaveTarget.SaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ISaveTarget. Type du fichier ou du flux de destination de sauvegarde
+title: "ISaveTarget.SaveTarget"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ISaveTarget. Type du fichier ou du flux cible de sauvegarde"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.plugins/isavetarget/savetarget/
 ---
-## Propriété ISaveTarget.SaveTarget
+## ISaveTarget.SaveTarget property
 
-Type de la destination de sauvegarde (fichier ou flux).
+Type de la cible d'enregistrement (fichier ou flux).
 
 ```csharp
 public DataType SaveTarget { get; }
@@ -24,3 +24,5 @@ Un objet [`DataType`](../../datatype/) représentant les données de sortie.
 * interface [ISaveTarget](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

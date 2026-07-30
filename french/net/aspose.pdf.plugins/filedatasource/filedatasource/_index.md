@@ -1,14 +1,14 @@
 ---
-title: FileDataSource.FileDataSource
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de FileDataSource. Initialise une nouvelle source de données de fichier avec le chemin spécifié
+title: "FileDataSource.FileDataSource"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur FileDataSource. Initialise une nouvelle source de données de fichier avec le chemin spécifié"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.plugins/filedatasource/filedatasource/
 ---
-## Constructeur de FileDataSource
+## FileDataSource constructor
 
-Initialise une nouvelle source de données de fichier avec le chemin spécifié.
+Initialise une nouvelle source de données fichier avec le chemin spécifié.
 
 ```csharp
 public FileDataSource(string path)
@@ -16,10 +16,12 @@ public FileDataSource(string path)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| path | String | Une chaîne représentant le chemin vers le fichier source. |
+| chemin | String | Une chaîne représentant le chemin du fichier source. |
 
 ### Voir aussi
 
-* classe [FileDataSource](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [FileDataSource](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

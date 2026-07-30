@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.FontStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextFragmentState. Définit le style de police du texte représenté par l'objet TextFragment
+title: "TextFragmentState.FontStyle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextFragmentState. Définit le style de police du texte représenté par l'objet TextFragment"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.text/textfragmentstate/fontstyle/
 ---
-## Propriété TextFragmentState.FontStyle
+## TextFragmentState.FontStyle property
 
-Définit le style de police du texte, représenté par l'objet [`TextFragment`](../../textfragment/)
+Définit le style de police du texte, représenté par l'objet [`TextFragment`](../../textfragment/).
 
 ```csharp
 public override FontStyles FontStyle { get; set; }
@@ -20,3 +20,5 @@ public override FontStyles FontStyle { get; set; }
 * class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

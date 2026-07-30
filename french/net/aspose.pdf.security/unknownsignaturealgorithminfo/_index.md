@@ -1,14 +1,14 @@
 ---
-title: Class UnknownSignatureAlgorithmInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Security.UnknownSignatureAlgorithmInfo. Représente une classe pour les informations sur l'algorithme de signature inconnu
+title: "Classe UnknownSignatureAlgorithmInfo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Security.UnknownSignatureAlgorithmInfo class. Représente une classe contenant les informations sur un algorithme de signature inconnu"
 type: docs
-weight: 10040
+weight: 10220
 url: /fr/net/aspose.pdf.security/unknownsignaturealgorithminfo/
 ---
-## Classe UnknownSignatureAlgorithmInfo
+## UnknownSignatureAlgorithmInfo class
 
-Représente une classe pour les informations sur l'algorithme de signature inconnu.
+Représente une classe contenant les informations sur un algorithme de signature inconnu.
 
 ```csharp
 public sealed class UnknownSignatureAlgorithmInfo : SignatureAlgorithmInfo
@@ -32,10 +32,12 @@ public sealed class UnknownSignatureAlgorithmInfo : SignatureAlgorithmInfo
 | --- | --- |
 | readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | Obtient le type de l'algorithme de signature utilisé pour signer le document PDF. |
 | readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | Obtient la norme cryptographique utilisée pour signer le document PDF. |
-| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | Obtient l'algorithme de hachage de résumé utilisé pour la signature. Pour un horodatage, il s'agit de l'algorithme de hachage de résumé avec lequel le hachage du contenu du document est signé. |
+| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | Obtient l'algorithme de hachage de digest utilisé pour la signature. Pour un horodatage, il s'agit de l'algorithme de hachage de digest avec lequel le hachage du contenu du document est signé. |
 
 ### Voir aussi
 
-* classe [SignatureAlgorithmInfo](../signaturealgorithminfo/)
-* espace de noms [Aspose.Pdf.Security](../../aspose.pdf.security/)
+* class [SignatureAlgorithmInfo](../signaturealgorithminfo/)
+* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../)
+
+

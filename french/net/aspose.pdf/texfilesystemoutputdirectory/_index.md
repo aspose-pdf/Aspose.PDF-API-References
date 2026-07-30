@@ -1,14 +1,14 @@
 ---
-title: Class TeXFileSystemOutputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.TeXFileSystemOutputDirectory. Implémente la méthode des systèmes de fichiers réguliers pour obtenir un flux de fichier à écrire
+title: "Classe TeXFileSystemOutputDirectory"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.TeXFileSystemOutputDirectory. Implémente la méthode standard du système de fichiers pour obtenir un flux de fichier à écrire."
 type: docs
-weight: 10350
+weight: 10530
 url: /fr/net/aspose.pdf/texfilesystemoutputdirectory/
 ---
-## Classe TeXFileSystemOutputDirectory
+## TeXFileSystemOutputDirectory class
 
-Implémente la méthode du système de fichiers régulier pour obtenir un flux de fichier à écrire.
+Implémente la méthode du système de fichiers standard pour obtenir un flux de fichier en écriture.
 
 ```csharp
 public class TeXFileSystemOutputDirectory : TeXFileSystemInputDirectory, ITeXOutputDirectory
@@ -24,13 +24,15 @@ public class TeXFileSystemOutputDirectory : TeXFileSystemInputDirectory, ITeXOut
 
 | Nom | Description |
 | --- | --- |
-| virtual [Dispose](../../aspose.pdf/texfilesysteminputdirectory/dispose/)() | Dispose de l'instance. |
-| [GetFile](../../aspose.pdf/texfilesysteminputdirectory/getfile/)(string, out string, bool) | Renvoie le flux à partir duquel lire. |
-| [GetOutputFile](../../aspose.pdf/texfilesystemoutputdirectory/getoutputfile/)(string, out string) | Renvoie le flux vers lequel écrire. |
+| virtual [Dispose](../../aspose.pdf/texfilesysteminputdirectory/dispose/)() | Libère l'instance. |
+| [GetFile](../../aspose.pdf/texfilesysteminputdirectory/getfile/)(string, out string, bool) | Renvoie le flux à lire. |
+| [GetOutputFile](../../aspose.pdf/texfilesystemoutputdirectory/getoutputfile/)(string, out string) | Renvoie le flux à écrire. |
 
 ### Voir aussi
 
-* classe [TeXFileSystemInputDirectory](../texfilesysteminputdirectory/)
+* class [TeXFileSystemInputDirectory](../texfilesysteminputdirectory/)
 * interface [ITeXOutputDirectory](../itexoutputdirectory/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

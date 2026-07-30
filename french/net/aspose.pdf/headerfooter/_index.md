@@ -1,14 +1,14 @@
 ---
-title: Class HeaderFooter
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.HeaderFooter. La classe représente l'en-tête ou le pied de page d'un document pdf
+title: "Classe HeaderFooter"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.HeaderFooter. La classe représente l'en-tête ou le pied de page d'une page pdf"
 type: docs
-weight: 5430
+weight: 5550
 url: /fr/net/aspose.pdf/headerfooter/
 ---
-## Classe HeaderFooter
+## HeaderFooter class
 
-La classe représente l'en-tête ou le pied de page d'un document pdf.
+Classe représentant la page PDF d'en-tête ou de pied de page.
 
 ```csharp
 public sealed class HeaderFooter : ICloneable
@@ -24,7 +24,7 @@ public sealed class HeaderFooter : ICloneable
 
 | Nom | Description |
 | --- | --- |
-| [IsClipExtraContent](../../aspose.pdf/headerfooter/isclipextracontent/) { get; set; } | Obtient ou définit si le contenu supplémentaire est coupé. |
+| [IsClipExtraContent](../../aspose.pdf/headerfooter/isclipextracontent/) { get; set; } | Obtient ou définit si le contenu supplémentaire est rogné. |
 | [Margin](../../aspose.pdf/headerfooter/margin/) { get; set; } | Obtient ou définit les informations de marge. |
 | [Paragraphs](../../aspose.pdf/headerfooter/paragraphs/) { get; set; } | Obtient ou définit les paragraphes de note de fin. |
 
@@ -36,5 +36,7 @@ public sealed class HeaderFooter : ICloneable
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

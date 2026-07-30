@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.ExcludeFontNameList
-second_title: Aspose.PDF for .NET API Reference
-description: Champ HtmlSaveOptions. Liste des noms de polices PDF intégrées qui ne doivent pas être intégrées dans HTML
+title: "HtmlSaveOptions.ExcludeFontNameList"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ HtmlSaveOptions. Liste des noms de polices intégrées dans le PDF qui ne seront pas intégrées dans le HTML."
 type: docs
 weight: 310
 url: /fr/net/aspose.pdf/htmlsaveoptions/excludefontnamelist/
 ---
-## Champ HtmlSaveOptions.ExcludeFontNameList
+## HtmlSaveOptions.ExcludeFontNameList field
 
-Liste des noms de polices PDF intégrées qui ne doivent pas être intégrées dans HTML.
+Liste des noms de polices PDF intégrées qui ne doivent pas être incorporées dans le HTML.
 
 ```csharp
 public string[] ExcludeFontNameList;
@@ -16,6 +16,8 @@ public string[] ExcludeFontNameList;
 
 ### Voir aussi
 
-* classe [HtmlSaveOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CreateFineTuningJobResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété CreateFineTuningJobResponse. Obtient ou définit un identifiant unique pour le travail de fine-tuning
+title: "CreateFineTuningJobResponse.Id"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété CreateFineTuningJobResponse. Obtient ou définit un identifiant unique pour la tâche de finetuning"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.ai/createfinetuningjobresponse/id/
 ---
-## Propriété CreateFineTuningJobResponse.Id
+## CreateFineTuningJobResponse.Id property
 
-Obtient ou définit un identifiant unique pour le travail de fine-tuning.
+Obtient ou définit un identifiant unique pour le travail de réglage fin.
 
 ```csharp
 public string Id { get; set; }
@@ -16,6 +16,8 @@ public string Id { get; set; }
 
 ### Voir aussi
 
-* classe [CreateFineTuningJobResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [CreateFineTuningJobResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

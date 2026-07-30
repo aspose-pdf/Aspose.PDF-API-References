@@ -1,14 +1,14 @@
 ---
-title: Field.ImportValueFromJson
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode de champ. Importe des données dans les champs spécifiés à partir d'un flux JSON basé sur une correspondance exacte des noms complets des champs
+title: "Field.ImportValueFromJson"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Field. Importe des données dans les champs spécifiés à partir d'un flux JSON basé sur une correspondance exacte des noms complets des champs."
 type: docs
 weight: 210
 url: /fr/net/aspose.pdf.forms/field/importvaluefromjson/
 ---
 ## ImportValueFromJson(Stream) {#importvaluefromjson}
 
-Importe des données dans les champs spécifiés à partir d'un flux JSON, basé sur une correspondance exacte des noms complets des champs.
+Importe les données dans les champs spécifiés à partir d'un flux JSON, en se basant sur une correspondance exacte des noms complets des champs.
 
 ```csharp
 public bool ImportValueFromJson(Stream inputJsonStream)
@@ -20,7 +20,7 @@ public bool ImportValueFromJson(Stream inputJsonStream)
 
 ### Valeur de retour
 
-Vrai si le champ a été trouvé dans le flux JSON ; sinon - faux
+Vrai si le champ a été trouvé dans le flux JSON ; sinon - faux
 
 ## Exemples
 
@@ -35,15 +35,15 @@ document.Save();
 
 ### Voir aussi
 
-* classe [Field](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## ImportValueFromJson(Stream, string) {#importvaluefromjson_1}
 
-Importe des données dans le champ spécifié à partir d'un flux JSON, en utilisant le nom complet spécifié dans la variable 'fieldFullNameInJSON' pour la correspondance.
+Importe les données dans le champ spécifié à partir d'un flux JSON, en utilisant le nom complet indiqué dans la variable 'fieldFullNameInJSON' pour la correspondance.
 
 ```csharp
 public bool ImportValueFromJson(Stream inputJsonStream, string fieldFullNameInJSON)
@@ -52,11 +52,11 @@ public bool ImportValueFromJson(Stream inputJsonStream, string fieldFullNameInJS
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | inputJsonStream | Stream | Le flux JSON d'entrée contenant les données du champ à importer dans le champ. |
-| fieldFullNameInJSON | String | Le nom des données dans le flux JSON pour la correspondance. Si les données dans le flux JSON ont une structure imbriquée, le nom complet doit être spécifié avec tous les éléments parents et enfants séparés par '.' |
+| fieldFullNameInJSON | String | Le nom des données dans le flux JSON pour la correspondance. Si les données du flux JSON ont une structure imbriquée, le nom complet doit être indiqué avec tous les éléments parents et enfants séparés par '.' |
 
 ### Valeur de retour
 
-Vrai si le champ a été trouvé dans le fichier json ; sinon - faux
+Vrai si le champ a été trouvé dans le fichier json ; sinon - faux
 
 ## Exemples
 
@@ -71,6 +71,8 @@ document.Save();
 
 ### Voir aussi
 
-* classe [Field](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Field](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SetFlat.Flatness
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SetFlat. Obtient ou définit la planéité
+title: "SetFlat.Flatness"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "SetFlat propriété. Obtient ou définit la planéité"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.operators/setflat/flatness/
 ---
-## Propriété SetFlat.Flatness
+## SetFlat.Flatness property
 
 Obtient ou définit la planéité.
 
@@ -16,6 +16,8 @@ public double Flatness { get; set; }
 
 ### Voir aussi
 
-* classe [SetFlat](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetFlat](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

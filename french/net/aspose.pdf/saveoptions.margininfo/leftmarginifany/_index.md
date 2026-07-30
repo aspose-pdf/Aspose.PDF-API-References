@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.MarginInfo.LeftMarginIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: Champ MarginInfo. Représente la marge gauche de la page s'il y en a une
+title: "SaveOptions.MarginInfo.LeftMarginIfAny"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ MarginInfo. Représente la marge gauche de la page le cas échéant"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/saveoptions.margininfo/leftmarginifany/
 ---
-## Champ SaveOptions.MarginInfo.LeftMarginIfAny
+## SaveOptions.MarginInfo.LeftMarginIfAny field
 
-Représente la marge gauche de la page (s'il y en a une)
+Représente la marge gauche de la page (le cas échéant)
 
 ```csharp
 public MarginPartStyle LeftMarginIfAny;
@@ -16,7 +16,9 @@ public MarginPartStyle LeftMarginIfAny;
 
 ### Voir aussi
 
-* classe [MarginPartStyle](../../saveoptions.marginpartstyle/)
-* classe [MarginInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [MarginPartStyle](../../saveoptions.marginpartstyle/)
+* class [MarginInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

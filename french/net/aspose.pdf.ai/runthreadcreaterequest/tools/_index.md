@@ -1,14 +1,14 @@
 ---
-title: RunThreadCreateRequest.Tools
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété RunThreadCreateRequest. Obtient ou définit les outils qui remplacent les outils que l'assistant peut utiliser pour cette exécution. Cela est utile pour modifier le comportement sur une base par exécution.
+title: "RunThreadCreateRequest.Tools"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété RunThreadCreateRequest. Obtient ou définit les outils qui remplacent les outils que l'assistant peut utiliser pour cette exécution. Cela est utile pour modifier le comportement au niveau de chaque exécution."
 type: docs
 weight: 140
 url: /fr/net/aspose.pdf.ai/runthreadcreaterequest/tools/
 ---
-## Propriété RunThreadCreateRequest.Tools
+## RunThreadCreateRequest.Tools property
 
-Obtient ou définit les outils qui remplacent les outils que l'assistant peut utiliser pour cette exécution. Cela est utile pour modifier le comportement sur une base par exécution.
+Obtient ou définit les outils qui remplacent les outils que l'assistant peut utiliser pour cette exécution. Cela est utile pour modifier le comportement pour chaque exécution.
 
 ```csharp
 public List<Tool> Tools { get; set; }
@@ -16,7 +16,9 @@ public List<Tool> Tools { get; set; }
 
 ### Voir aussi
 
-* classe [Tool](../../tool/)
-* classe [RunThreadCreateRequest](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Tool](../../tool/)
+* class [RunThreadCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

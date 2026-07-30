@@ -1,14 +1,14 @@
 ---
-title: Enum SoundSampleDataEncodingFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Enum SoundSampleDataEncodingFormat d'Aspose.Pdf.Annotations. Le format d'encodage pour les données d'échantillon sonore
+title: "Enum SoundSampleDataEncodingFormat"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.SoundSampleDataEncodingFormat enum. Le format d'encodage des données d'échantillon sonore"
 type: docs
-weight: 2580
+weight: 2680
 url: /fr/net/aspose.pdf.annotations/soundsampledataencodingformat/
 ---
-## Énumération SoundSampleDataEncodingFormat
+## SoundSampleDataEncodingFormat enumeration
 
-Le format d'encodage pour les données d'échantillon sonore.
+Le format d'encodage des données d'échantillon sonore.
 
 ```csharp
 public enum SoundSampleDataEncodingFormat
@@ -27,3 +27,5 @@ public enum SoundSampleDataEncodingFormat
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

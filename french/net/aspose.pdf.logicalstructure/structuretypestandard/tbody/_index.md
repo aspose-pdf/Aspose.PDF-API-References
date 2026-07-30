@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.TBody
-second_title: Aspose.PDF for .NET API Reference
-description: Champ StructureTypeStandard. Groupe de lignes de corps de tableau PDF 1.5 Un groupe de lignes qui constitue la partie principale du corps d'un tableau. Si le tableau est divisé sur plusieurs pages, la zone du corps peut être séparée à la limite d'une ligne. Un tableau peut avoir plusieurs éléments TBody pour permettre le dessin d'une bordure ou d'un arrière-plan pour un ensemble de lignes.
+title: "StructureTypeStandard.TBody"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "StructureTypeStandard champ. Groupe de lignes du corps de tableau PDF 1.5 Un groupe de lignes qui constitue la partie principale du corps d'un tableau. Si le tableau est réparti sur plusieurs pages, la zone du corps peut être découpée à la frontière d'une ligne. Un tableau peut contenir plusieurs éléments TBody pour permettre le dessin d'une bordure ou d'un arrière-plan pour un ensemble de lignes"
 type: docs
 weight: 390
 url: /fr/net/aspose.pdf.logicalstructure/structuretypestandard/tbody/
 ---
-## Champ StructureTypeStandard.TBody
+## StructureTypeStandard.TBody field
 
-(Groupe de lignes de corps de tableau; PDF 1.5) Un groupe de lignes qui constitue la partie principale du corps d'un tableau. Si le tableau est divisé sur plusieurs pages, la zone du corps peut être séparée à la limite d'une ligne. Un tableau peut avoir plusieurs éléments TBody pour permettre le dessin d'une bordure ou d'un arrière-plan pour un ensemble de lignes.
+(Table body row group; PDF 1.5) Un groupe de lignes qui constitue la partie principale du corps d’un tableau. Si le tableau est réparti sur plusieurs pages, la zone du corps peut être découpée à la limite d’une ligne. Un tableau peut comporter plusieurs éléments TBody afin de permettre le dessin d’une bordure ou d’un arrière‑plan pour un ensemble de lignes.
 
 ```csharp
 public static readonly StructureTypeStandard TBody;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard TBody;
 
 ### Voir aussi
 
-* classe [StructureTypeStandard](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

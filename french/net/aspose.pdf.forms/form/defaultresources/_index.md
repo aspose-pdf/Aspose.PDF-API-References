@@ -1,12 +1,12 @@
 ---
-title: Form.DefaultResources
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Form. Obtient les ressources par défaut placées sur ce formulaire
+title: "Form.DefaultResources"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Form. Obtient les ressources par défaut placées sur ce formulaire."
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.forms/form/defaultresources/
 ---
-## Propriété Form.DefaultResources
+## Form.DefaultResources property
 
 Obtient les ressources par défaut placées sur ce formulaire.
 
@@ -16,7 +16,9 @@ public Resources DefaultResources { get; }
 
 ### Voir aussi
 
-* classe [Resources](../../../aspose.pdf/resources/)
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Resources](../../../aspose.pdf/resources/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

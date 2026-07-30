@@ -1,7 +1,7 @@
 ---
-title: Artifact.SetImage
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Artifact. Définit l'image de l'artefact
+title: "Artifact.SetImage"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Artifact. Définit l'image de l'artifact"
 type: docs
 weight: 280
 url: /fr/net/aspose.pdf/artifact/setimage/
@@ -16,12 +16,12 @@ public void SetImage(Stream imageStream)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| imageStream | Stream | Flux qui contient les données de l'image. |
+| imageStream | Stream | Flux contenant les données de l'image. |
 
 ### Voir aussi
 
-* classe [Artifact](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -40,6 +40,8 @@ public void SetImage(string imageName)
 
 ### Voir aussi
 
-* classe [Artifact](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Artifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

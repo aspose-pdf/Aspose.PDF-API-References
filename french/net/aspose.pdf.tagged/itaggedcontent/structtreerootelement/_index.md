@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.StructTreeRootElement
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ITaggedContent. Obtient StructTreeRootElement du document PDF
+title: "ITaggedContent.StructTreeRootElement"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ITaggedContent. Obtient StructTreeRootElement du document PDF"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.tagged/itaggedcontent/structtreerootelement/
 ---
-## Propriété ITaggedContent.StructTreeRootElement
+## ITaggedContent.StructTreeRootElement property
 
 Obtient [`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtreerootelement/) du document PDF.
 
@@ -14,13 +14,15 @@ Obtient [`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtre
 public StructTreeRootElement StructTreeRootElement { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-[`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtreerootelement/) du document PDF.
+[`StructTreeRootElement`](../../../aspose.pdf.logicalstructure/structtreerootelement/) of PDF document.
 
 ### Voir aussi
 
-* classe [StructTreeRootElement](../../../aspose.pdf.logicalstructure/structtreerootelement/)
+* class [StructTreeRootElement](../../../aspose.pdf.logicalstructure/structtreerootelement/)
 * interface [ITaggedContent](../)
-* espace de noms [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

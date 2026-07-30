@@ -1,14 +1,14 @@
 ---
-title: Class Measure.NumberFormatList
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.MeasureNumberFormatList. Représente une liste de formats de nombres
+title: "Classe Measure.NumberFormatList"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Annotations.MeasureNumberFormatList. Représente une liste de formats numériques"
 type: docs
-weight: 2060
+weight: 2150
 url: /fr/net/aspose.pdf.annotations/measure.numberformatlist/
 ---
-## Classe Measure.NumberFormatList
+## Measure.NumberFormatList class
 
-Représente une liste de formats de nombres.
+Représente une liste de formats numériques.
 
 ```csharp
 public class NumberFormatList
@@ -24,19 +24,21 @@ public class NumberFormatList
 
 | Nom | Description |
 | --- | --- |
-| [Count](../../aspose.pdf.annotations/measure.numberformatlist/count) { get; } | Compte des éléments dans la liste. |
-| [Item](../../aspose.pdf.annotations/measure.numberformatlist/item) { get; set; } | Obtient ou définit le format de nombre dans la liste par son index. |
+| [Count](../../aspose.pdf.annotations/measure.numberformatlist/count) { get; } | Compter les éléments de la liste. |
+| [Item](../../aspose.pdf.annotations/measure.numberformatlist/item) { get; set; } | Obtient ou définit le format numérique dans la liste par son indice. |
 
 ## Méthodes
 
 | Nom | Description |
 | --- | --- |
-| [Add](../../aspose.pdf.annotations/measure.numberformatlist/add)(NumberFormat) | Ajoute un format de nombre à la liste. |
-| [Insert](../../aspose.pdf.annotations/measure.numberformatlist/insert)(int, NumberFormat) | Insère un format de nombre dans la liste. |
-| [RemoveAt](../../aspose.pdf.annotations/measure.numberformatlist/removeat)(int) | Supprime un format de nombre de la liste. |
+| [Add](../../aspose.pdf.annotations/measure.numberformatlist/add)(NumberFormat) | Ajoute le format numérique à la liste. |
+| [Insert](../../aspose.pdf.annotations/measure.numberformatlist/insert)(int, NumberFormat) | Insère le format numérique dans la liste. |
+| [RemoveAt](../../aspose.pdf.annotations/measure.numberformatlist/removeat)(int) | Supprime le format numérique de la liste. |
 
 ### Voir aussi
 
-* classe [Measure](../measure/)
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* class [Measure](../measure/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

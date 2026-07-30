@@ -1,12 +1,12 @@
 ---
-title: MoveToNextLine.MoveToNextLine
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur MoveToNextLine. Initialise l'opérateur
+title: "MoveToNextLine.MoveToNextLine"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur MoveToNextLine. Initialise l'opérateur"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.operators/movetonextline/movetonextline/
 ---
-## Constructeur MoveToNextLine
+## MoveToNextLine constructor
 
 Initialise l'opérateur.
 
@@ -16,6 +16,8 @@ public MoveToNextLine()
 
 ### Voir aussi
 
-* classe [MoveToNextLine](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [MoveToNextLine](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

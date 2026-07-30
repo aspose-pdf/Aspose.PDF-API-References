@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateTableElement
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ITaggedContent. Crée TableElement
+title: "ITaggedContent.CreateTableElement"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "ITaggedContent méthode. Crée TableElement"
 type: docs
-weight: 280
+weight: 310
 url: /fr/net/aspose.pdf.tagged/itaggedcontent/createtableelement/
 ---
-## Méthode ITaggedContent.CreateTableElement
+## ITaggedContent.CreateTableElement method
 
 Crée [`TableElement`](../../../aspose.pdf.logicalstructure/tableelement/).
 
@@ -20,7 +20,9 @@ public TableElement CreateTableElement()
 
 ### Voir aussi
 
-* classe [TableElement](../../../aspose.pdf.logicalstructure/tableelement/)
+* class [TableElement](../../../aspose.pdf.logicalstructure/tableelement/)
 * interface [ITaggedContent](../)
-* espace de noms [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

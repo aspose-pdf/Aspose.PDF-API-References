@@ -1,7 +1,7 @@
 ---
-title: PdfXmpMetadata.PdfXmpMetadata
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur PdfXmpMetadata. Constructeur pour PdfXmpMetadata
+title: "PdfXmpMetadata.PdfXmpMetadata"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PdfXmpMetadata constructeur. Constructeur pour PdfXmpMetadata"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.facades/pdfxmpmetadata/pdfxmpmetadata/
@@ -23,8 +23,8 @@ xmp.BindPdf("input.pdf");
 
 ### Voir aussi
 
-* classe [PdfXmpMetadata](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -43,7 +43,9 @@ public PdfXmpMetadata(Document document)
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [PdfXmpMetadata](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfXmpMetadata](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

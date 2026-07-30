@@ -1,14 +1,14 @@
 ---
-title: AttributeName.RubyPosition_After
-second_title: Aspose.PDF for .NET API Reference
-description: Champ AttributeName. Attribut RubyPosition Après Le contenu RT doit être aligné le long du bord après de l'élément
+title: "AttributeName.RubyPosition_After"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "AttributeName field. Attribute RubyPosition After  Le contenu RT doit être aligné le long du bord after de l'élément"
 type: docs
 weight: 480
 url: /fr/net/aspose.pdf.logicalstructure/attributename/rubyposition_after/
 ---
-## Champ AttributeName.RubyPosition_After
+## AttributeName.RubyPosition_After field
 
-Attribut RubyPosition : Après - Le contenu RT doit être aligné le long du bord après de l'élément.
+Attribut RubyPosition : After - Le contenu RT doit être aligné le long du bord après de l'élément.
 
 ```csharp
 public static readonly AttributeName RubyPosition_After;
@@ -16,6 +16,8 @@ public static readonly AttributeName RubyPosition_After;
 
 ### Voir aussi
 
-* classe [AttributeName](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

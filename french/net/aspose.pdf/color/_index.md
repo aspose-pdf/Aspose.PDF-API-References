@@ -1,14 +1,14 @@
 ---
-title: Class Color
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Color. Représente une classe pour la valeur de couleur qui peut être exprimée dans différents espaces colorimétriques
+title: "Classe Color"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Color. Représente une classe pour la valeur de couleur qui peut être exprimée dans différents espaces colorimétriques"
 type: docs
-weight: 3080
+weight: 3190
 url: /fr/net/aspose.pdf/color/
 ---
-## Classe Couleur
+## Color class
 
-Représente une classe pour la valeur de couleur qui peut être exprimée dans différents espaces colorimétriques.
+Représente la classe pour la valeur de couleur qui peut être exprimée dans différents espaces colorimétriques.
 
 ```csharp
 public sealed class Color
@@ -41,32 +41,32 @@ public sealed class Color
 | static [Chartreuse](../../aspose.pdf/color/chartreuse/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FF7FFF00. |
 | static [Chocolate](../../aspose.pdf/color/chocolate/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FFD2691E. |
 | static [Coral](../../aspose.pdf/color/coral/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FFFF7F50. |
-| static [CornflowerBlue](../../aspose.pdf/color/cornflowerblue/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FF6495ED. |
-| static [Cornsilk](../../aspose.pdf/color/cornsilk/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FFFFF8DC. |
-| static [Crimson](../../aspose.pdf/color/crimson/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FFDC143C. |
+| static [CornflowerBlue](../../aspose.pdf/color/cornflowerblue/) { get; } | Obtient une couleur définie par le système dont la valeur ARGB est \c \#FF6495ED. |
+| static [Cornsilk](../../aspose.pdf/color/cornsilk/) { get; } | Obtient une couleur définie par le système dont la valeur ARGB est \c \#FFFFF8DC. |
+| static [Crimson](../../aspose.pdf/color/crimson/) { get; } | Obtient une couleur définie par le système dont la valeur ARGB est \c \#FFDC143C. |
 | static [Cyan](../../aspose.pdf/color/cyan/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FF00FFFF. |
-| static [DarkBlue](../../aspose.pdf/color/darkblue/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FF00008B. |
-| static [DarkCyan](../../aspose.pdf/color/darkcyan/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FF008B8B. |
-| static [DarkGoldenrod](../../aspose.pdf/color/darkgoldenrod/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FFB8860B. |
-| static [DarkGray](../../aspose.pdf/color/darkgray/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FFA9A9A9. |
-| static [DarkGreen](../../aspose.pdf/color/darkgreen/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FF006400. |
-| static [DarkKhaki](../../aspose.pdf/color/darkkhaki/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FFBDB76B. |
-| static [DarkMagenta](../../aspose.pdf/color/darkmagenta/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FF8B008B. |
-| static [DarkOliveGreen](../../aspose.pdf/color/darkolivegreen/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FF556B2F. |
-| static [DarkOrange](../../aspose.pdf/color/darkorange/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FFFF8C00. |
-| static [DarkOrchid](../../aspose.pdf/color/darkorchid/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FF9932CC. |
-| static [DarkRed](../../aspose.pdf/color/darkred/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FF8B0000. |
-| static [DarkSalmon](../../aspose.pdf/color/darksalmon/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FFE9967A. |
-| static [DarkSeaGreen](../../aspose.pdf/color/darkseagreen/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FF8FBC8F. |
-| static [DarkSlateBlue](../../aspose.pdf/color/darkslateblue/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FF483D8B. |
-| static [DarkSlateGray](../../aspose.pdf/color/darkslategray/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FF2F4F4F. |
-| static [DarkTurquoise](../../aspose.pdf/color/darkturquoise/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FF00CED1. |
-| static [DarkViolet](../../aspose.pdf/color/darkviolet/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FF9400D3. |
-| static [DeepPink](../../aspose.pdf/color/deeppink/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FFFF1493. |
-| static [DeepSkyBlue](../../aspose.pdf/color/deepskyblue/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FF00BFFF. |
-| static [DimGray](../../aspose.pdf/color/dimgray/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FF696969. |
-| static [DodgerBlue](../../aspose.pdf/color/dodgerblue/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FF1E90FF. |
-| static [Firebrick](../../aspose.pdf/color/firebrick/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FFB22222. |
+| static [DarkBlue](../../aspose.pdf/color/darkblue/) { get; } | Obtient une couleur définie par le système dont la valeur ARGB est \c \#FF00008B. |
+| static [DarkCyan](../../aspose.pdf/color/darkcyan/) { get; } | Obtient une couleur définie par le système dont la valeur ARGB est \c \#FF008B8B. |
+| static [DarkGoldenrod](../../aspose.pdf/color/darkgoldenrod/) { get; } | Obtient une couleur définie par le système dont la valeur ARGB est \c \#FFB8860B. |
+| static [DarkGray](../../aspose.pdf/color/darkgray/) { get; } | Obtient une couleur définie par le système dont la valeur ARGB est \c \#FFA9A9A9. |
+| static [DarkGreen](../../aspose.pdf/color/darkgreen/) { get; } | Obtient une couleur définie par le système dont la valeur ARGB est \c \#FF006400. |
+| static [DarkKhaki](../../aspose.pdf/color/darkkhaki/) { get; } | Obtient une couleur définie par le système dont la valeur ARGB est \c \#FFBDB76B. |
+| static [DarkMagenta](../../aspose.pdf/color/darkmagenta/) { get; } | Obtient une couleur définie par le système dont la valeur ARGB est \c \#FF8B008B. |
+| static [DarkOliveGreen](../../aspose.pdf/color/darkolivegreen/) { get; } | Obtient une couleur définie par le système dont la valeur ARGB est \c \#FF556B2F. |
+| static [DarkOrange](../../aspose.pdf/color/darkorange/) { get; } | Obtient une couleur définie par le système dont la valeur ARGB est \c \#FFFF8C00. |
+| static [DarkOrchid](../../aspose.pdf/color/darkorchid/) { get; } | Obtient une couleur définie par le système dont la valeur ARGB est \c \#FF9932CC. |
+| static [DarkRed](../../aspose.pdf/color/darkred/) { get; } | Obtient une couleur définie par le système dont la valeur ARGB est \c \#FF8B0000. |
+| static [DarkSalmon](../../aspose.pdf/color/darksalmon/) { get; } | Obtient une couleur définie par le système dont la valeur ARGB est \c \#FFE9967A. |
+| static [DarkSeaGreen](../../aspose.pdf/color/darkseagreen/) { get; } | Obtient une couleur définie par le système dont la valeur ARGB est \c \#FF8FBC8F. |
+| static [DarkSlateBlue](../../aspose.pdf/color/darkslateblue/) { get; } | Obtient une couleur définie par le système dont la valeur ARGB est \c \#FF483D8B. |
+| static [DarkSlateGray](../../aspose.pdf/color/darkslategray/) { get; } | Obtient une couleur définie par le système dont la valeur ARGB est \c \#FF2F4F4F. |
+| static [DarkTurquoise](../../aspose.pdf/color/darkturquoise/) { get; } | Obtient une couleur définie par le système dont la valeur ARGB est \c \#FF00CED1. |
+| static [DarkViolet](../../aspose.pdf/color/darkviolet/) { get; } | Obtient une couleur définie par le système dont la valeur ARGB est \c \#FF9400D3. |
+| static [DeepPink](../../aspose.pdf/color/deeppink/) { get; } | Obtient une couleur définie par le système dont la valeur ARGB est \c \#FFFF1493. |
+| static [DeepSkyBlue](../../aspose.pdf/color/deepskyblue/) { get; } | Obtient une couleur définie par le système dont la valeur ARGB est \c \#FF00BFFF. |
+| static [DimGray](../../aspose.pdf/color/dimgray/) { get; } | Obtient une couleur définie par le système dont la valeur ARGB est \c \#FF696969. |
+| static [DodgerBlue](../../aspose.pdf/color/dodgerblue/) { get; } | Obtient une couleur définie par le système dont la valeur ARGB est \c \#FF1E90FF. |
+| static [Firebrick](../../aspose.pdf/color/firebrick/) { get; } | Obtient une couleur définie par le système dont la valeur ARGB est \c \#FFB22222. |
 | static [FloralWhite](../../aspose.pdf/color/floralwhite/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FFFFFAF0. |
 | static [ForestGreen](../../aspose.pdf/color/forestgreen/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FF228B22. |
 | static [Fuchsia](../../aspose.pdf/color/fuchsia/) { get; } | Obtient une couleur définie par le système qui a une valeur ARGB de \c \#FFFF00FF. |
@@ -168,24 +168,24 @@ public sealed class Color
 | [A](../../aspose.pdf/color/a/) { get; } | Obtient la valeur du composant alpha |
 | [ColorSpace](../../aspose.pdf/color/colorspace/) { get; } | Obtient l'espace colorimétrique que la couleur représente. |
 | [Data](../../aspose.pdf/color/data/) { get; } | Obtient la valeur de couleur. |
-| [PatternColorSpace](../../aspose.pdf/color/patterncolorspace/) { get; set; } | Représente un objet qui indique l'espace colorimétrique du motif. |
+| [PatternColorSpace](../../aspose.pdf/color/patterncolorspace/) { get; set; } | Représente un objet qui indique l'espace de couleur du motif. |
 
 ## Méthodes
 
 | Nom | Description |
 | --- | --- |
-| static [FromArgb](../../aspose.pdf/color/fromargb/#fromargb)(int, int, int) | Obtient un objet de couleur PDF valide à partir des composants de couleur RGB. |
-| static [FromArgb](../../aspose.pdf/color/fromargb/#fromargb_1)(int, int, int, int) | Obtient un objet de couleur PDF valide à partir des composants de couleur RGB. |
-| static [FromCmyk](../../aspose.pdf/color/fromcmyk/)(double, double, double, double) | Obtient un objet de couleur PDF valide à partir des composants de couleur CMJN. |
-| static [FromGray](../../aspose.pdf/color/fromgray/)(double) | Obtient un objet de couleur PDF valide à partir du composant de couleur grise. |
-| static [FromRgb](../../aspose.pdf/color/fromrgb/#fromrgb_1)(Color) | Obtient un objet de couleur PDF valide à partir de la valeur System.Drawing.Color. |
-| static [FromRgb](../../aspose.pdf/color/fromrgb/#fromrgb)(double, double, double) | Obtient un objet de couleur PDF valide à partir des composants de couleur RGB. |
-| static [Parse](../../aspose.pdf/color/parse/)(string) | Extrait les composants de couleur de la chaîne. |
-| override [Equals](../../aspose.pdf/color/equals/)(object) | Renvoie vrai si deux couleurs sont égales. |
-| [ToRgb](../../aspose.pdf/color/torgb/)() | Convertit la couleur en RGB. |
+| static [FromArgb](../../aspose.pdf/color/fromargb/#fromargb)(int, int, int) | Obtient un objet Color pdf valide à partir des composantes de couleur RVB. |
+| static [FromArgb](../../aspose.pdf/color/fromargb/#fromargb_1)(int, int, int, int) | Obtient un objet Color pdf valide à partir des composantes de couleur RVB. |
+| static [FromCmyk](../../aspose.pdf/color/fromcmyk/)(double, double, double, double) | Obtient un objet Color pdf valide à partir des composantes de couleur CMJN. |
+| static [FromGray](../../aspose.pdf/color/fromgray/)(double) | Obtient un objet Color pdf valide à partir de la composante de couleur gris. |
+| static [FromRgb](../../aspose.pdf/color/fromrgb/#fromrgb_1)(Color) | Obtient un objet Color pdf valide à partir de la valeur System.Drawing.Color. |
+| static [FromRgb](../../aspose.pdf/color/fromrgb/#fromrgb)(double, double, double) | Obtient un objet Color pdf valide à partir des composantes de couleur RVB. |
+| static [Parse](../../aspose.pdf/color/parse/)(string) | Extrait les composantes de couleur de la chaîne. |
+| override [Equals](../../aspose.pdf/color/equals/)(object) | Renvoie vrai si deux Color sont égaux. |
+| [ToRgb](../../aspose.pdf/color/torgb/)() | Convertit la couleur en RVB. |
 | override [ToString](../../aspose.pdf/color/tostring/)() | Convertit en chaîne. |
-| [operator ==](../../aspose.pdf/color/op_equality/) | Renvoie vrai si deux couleurs sont égales. |
-| [operator !=](../../aspose.pdf/color/op_inequality/) | Renvoie vrai si deux couleurs ne sont pas égales. |
+| [operator ==](../../aspose.pdf/color/op_equality/) | Renvoie vrai si deux Color sont égaux. |
+| [operator !=](../../aspose.pdf/color/op_inequality/) | Renvoie vrai si deux Color ne sont pas égaux. |
 
 ## Champs
 
@@ -197,3 +197,5 @@ public sealed class Color
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

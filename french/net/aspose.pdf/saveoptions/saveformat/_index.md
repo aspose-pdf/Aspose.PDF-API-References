@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.SaveFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SaveOptions. Format de sauvegarde des données
+title: "SaveOptions.SaveFormat"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "SaveOptions propriété. Format de l'enregistrement des données"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/saveoptions/saveformat/
 ---
-## Propriété SaveOptions.SaveFormat
+## SaveOptions.SaveFormat property
 
-Format de sauvegarde des données.
+Format d’enregistrement des données.
 
 ```csharp
 public SaveFormat SaveFormat { get; }
@@ -20,3 +20,5 @@ public SaveFormat SaveFormat { get; }
 * class [SaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

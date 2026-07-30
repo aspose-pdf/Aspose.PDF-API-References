@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateCaptionElement
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ITaggedContent. Crée CaptionElement
+title: "ITaggedContent.CreateCaptionElement"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode ITaggedContent. Crée CaptionElement"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.tagged/itaggedcontent/createcaptionelement/
 ---
-## Méthode ITaggedContent.CreateCaptionElement
+## ITaggedContent.CreateCaptionElement method
 
 Crée [`CaptionElement`](../../../aspose.pdf.logicalstructure/captionelement/).
 
@@ -20,7 +20,9 @@ public CaptionElement CreateCaptionElement()
 
 ### Voir aussi
 
-* classe [CaptionElement](../../../aspose.pdf.logicalstructure/captionelement/)
+* class [CaptionElement](../../../aspose.pdf.logicalstructure/captionelement/)
 * interface [ITaggedContent](../)
-* espace de noms [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

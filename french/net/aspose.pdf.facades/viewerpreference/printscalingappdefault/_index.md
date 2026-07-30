@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.PrintScalingAppDefault
-second_title: Aspose.PDF for .NET API Reference
-description: Champ ViewerPreference. L'échelle d'impression par défaut des lecteurs conformes
+title: "ViewerPreference.PrintScalingAppDefault"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ ViewerPreference. Le facteur d'échelle d'impression par défaut des lecteurs conformes"
 type: docs
 weight: 270
 url: /fr/net/aspose.pdf.facades/viewerpreference/printscalingappdefault/
 ---
-## Champ ViewerPreference.PrintScalingAppDefault
+## ViewerPreference.PrintScalingAppDefault field
 
-L'échelle d'impression par défaut du lecteur conforme.
+Le réglage d'échelle d'impression par défaut du lecteur conforme.
 
 ```csharp
 public const int PrintScalingAppDefault;
@@ -16,6 +16,8 @@ public const int PrintScalingAppDefault;
 
 ### Voir aussi
 
-* classe [ViewerPreference](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [ViewerPreference](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.CheckBoxStyleCircle
-second_title: Aspose.PDF for .NET API Reference
-description: Champ FormFieldFacade. Définit un style de case à cocher circulaire
+title: "FormFieldFacade.CheckBoxStyleCircle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "FormFieldFacade field. Définit un style de case à cocher circulaire"
 type: docs
 weight: 400
 url: /fr/net/aspose.pdf.facades/formfieldfacade/checkboxstylecircle/
 ---
-## Champ FormFieldFacade.CheckBoxStyleCircle
+## FormFieldFacade.CheckBoxStyleCircle field
 
 Définit un style de case à cocher circulaire.
 
@@ -16,6 +16,8 @@ public const int CheckBoxStyleCircle;
 
 ### Voir aussi
 
-* classe [FormFieldFacade](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

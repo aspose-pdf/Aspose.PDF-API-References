@@ -1,12 +1,12 @@
 ---
-title: DataResponse1.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété DataResponse. Obtient ou définit les données dans la réponse
+title: "DataResponse1.Data"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété DataResponse. Obtient ou définit les données dans la réponse"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.ai/dataresponse-1/data/
 ---
-## Propriété DataResponse&lt;T&gt;.Data
+## DataResponse&lt;T&gt;.Data property
 
 Obtient ou définit les données dans la réponse.
 
@@ -16,6 +16,8 @@ public T Data { get; set; }
 
 ### Voir aussi
 
-* classe [DataResponse&lt;T&gt;](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [DataResponse&lt;T&gt;](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

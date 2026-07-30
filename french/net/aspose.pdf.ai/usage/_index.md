@@ -1,14 +1,14 @@
 ---
-title: Class Usage
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.Usage. Représente des statistiques d'utilisation pour une requête
+title: "Classe Usage"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.AI.Usage. Représente les statistiques d'utilisation pour une requête"
 type: docs
-weight: 1250
+weight: 1340
 url: /fr/net/aspose.pdf.ai/usage/
 ---
-## Classe Utilisation
+## Usage class
 
-Représente des statistiques d'utilisation pour une requête.
+Représente les statistiques d'utilisation pour une requête.
 
 ```csharp
 public class Usage
@@ -30,5 +30,7 @@ public class Usage
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

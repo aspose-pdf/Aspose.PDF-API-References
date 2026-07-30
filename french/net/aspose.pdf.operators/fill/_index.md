@@ -1,14 +1,14 @@
 ---
-title: Class Fill
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.Fill. Classe représentant l'opérateur f remplissant le chemin avec la règle du nombre de tours non nul
+title: "Classe Fill"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Operators.Fill. Classe représentant l'opérateur f qui remplit le tracé selon la règle du nombre de tours non nul."
 type: docs
-weight: 7370
+weight: 7510
 url: /fr/net/aspose.pdf.operators/fill/
 ---
-## Classe Fill
+## Fill class
 
-Classe représentant l'opérateur f (remplir le chemin avec la règle du nombre de tours non nul).
+Classe représentant l'opérateur f (remplir le chemin selon la règle du nombre de tours non nul).
 
 ```csharp
 public class Fill : Operator
@@ -30,12 +30,14 @@ public class Fill : Operator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/fill/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/fill/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf.operators/fill/tostring/)() | Renvoie la représentation textuelle de l'opérateur. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [Operator](../../aspose.pdf/operator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

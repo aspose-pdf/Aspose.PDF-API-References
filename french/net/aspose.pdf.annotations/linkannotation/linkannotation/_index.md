@@ -1,14 +1,14 @@
 ---
-title: LinkAnnotation.LinkAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur LinkAnnotation. Crée une nouvelle annotation de lien sur la page spécifiée
+title: "LinkAnnotation.LinkAnnotation"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur LinkAnnotation. Crée une nouvelle annotation de lien sur la page spécifiée"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/linkannotation/linkannotation/
 ---
-## Constructeur LinkAnnotation
+## LinkAnnotation constructor
 
-Crée une nouvelle annotation de lien sur la page spécifiée.
+Crée une nouvelle annotation Link sur la page spécifiée.
 
 ```csharp
 public LinkAnnotation(Page page, Rectangle rect)
@@ -16,13 +16,15 @@ public LinkAnnotation(Page page, Rectangle rect)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| page | Page | La page du document où l'annotation doit être créée. |
-| rect | Rectangle | Le rectangle de l'annotation, définissant l'emplacement de l'annotation sur la page. |
+| page | Page | La page du Document où l'annotation doit être créée. |
+| rect | Rectangle | Le rectangle d'annotation, définissant l'emplacement de l'annotation sur la page. |
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [LinkAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [LinkAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

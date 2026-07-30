@@ -1,25 +1,27 @@
 ---
-title: PDF3DView.CameraOrbit
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PDF3DView. Obtient ou définit l'orbite de la caméra de vue
+title: "PDF3DView.CameraOrbit"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PDF3DView propriété. Obtient ou définit l'orbite de la caméra de la vue"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.annotations/pdf3dview/cameraorbit/
 ---
-## Propriété PDF3DView.CameraOrbit
+## PDF3DView.CameraOrbit property
 
-Obtient ou définit l'orbite de la caméra de vue.
+Obtient ou définit l'orbite de la caméra de la vue.
 
 ```csharp
 public double CameraOrbit { get; set; }
 ```
 
-### Valeur de la Propriété
+### Property Value
 
-L'orbite de la caméra de vue.
+L'orbite de la caméra de la vue.
 
-### Voir Aussi
+### Voir aussi
 
-* classe [PDF3DView](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DView](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

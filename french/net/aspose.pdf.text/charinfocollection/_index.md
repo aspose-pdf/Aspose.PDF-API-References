@@ -1,14 +1,14 @@
 ---
-title: Class CharInfoCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Text.CharInfoCollection. Représente une collection d'objets CharInfo
+title: "Classe CharInfoCollection"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Text.CharInfoCollection. Représente une collection d'objets CharInfo"
 type: docs
-weight: 10450
+weight: 10630
 url: /fr/net/aspose.pdf.text/charinfocollection/
 ---
-## Classe CharInfoCollection
+## CharInfoCollection class
 
-Représente une collection d'objets CharInfo.
+Représente la collection d'objets CharInfo.
 
 ```csharp
 public sealed class CharInfoCollection : ICollection<CharInfo>
@@ -20,51 +20,51 @@ public sealed class CharInfoCollection : ICollection<CharInfo>
 | --- | --- |
 | [Count](../../aspose.pdf.text/charinfocollection/count/) { get; } | Obtient le nombre d'éléments d'objet [`CharInfo`](../charinfo/) réellement contenus dans la collection. |
 | [IsReadOnly](../../aspose.pdf.text/charinfocollection/isreadonly/) { get; } | Obtient une valeur indiquant si la collection est en lecture seule |
-| [IsSynchronized](../../aspose.pdf.text/charinfocollection/issynchronized/) { get; } | Obtient une valeur indiquant si l'accès à la collection est synchronisé (sécurisé pour les threads). |
+| [IsSynchronized](../../aspose.pdf.text/charinfocollection/issynchronized/) { get; } | Obtient une valeur indiquant si l'accès à la collection est synchronisé (thread safe). |
 | [Item](../../aspose.pdf.text/charinfocollection/item/) { get; } | Obtient l'élément CharInfo à l'index spécifié. |
-| [SyncRoot](../../aspose.pdf.text/charinfocollection/syncroot/) { get; } | Obtient un objet qui peut être utilisé pour synchroniser l'accès à la collection. |
+| [SyncRoot](../../aspose.pdf.text/charinfocollection/syncroot/) { get; } | Obtient un objet pouvant être utilisé pour synchroniser l'accès à la collection. |
 
 ## Méthodes
 
 | Nom | Description |
 | --- | --- |
-| [Add](../../aspose.pdf.text/charinfocollection/add/)(CharInfo) | La collection est en lecture seule, lance NotImplementedException. |
-| [Clear](../../aspose.pdf.text/charinfocollection/clear/)() | La collection est en lecture seule. Lance toujours NotImplementedException. |
+| [Add](../../aspose.pdf.text/charinfocollection/add/)(CharInfo) | La collection est en lecture seule, lève NotImplementedException. |
+| [Clear](../../aspose.pdf.text/charinfocollection/clear/)() | La collection est en lecture seule. Lève toujours NotImplementedException. |
 | [Contains](../../aspose.pdf.text/charinfocollection/contains/)(CharInfo) | Détermine si la collection contient une valeur spécifique. |
-| [CopyTo](../../aspose.pdf.text/charinfocollection/copyto/)(CharInfo[], int) | Copie l'ensemble de la collection dans un tableau unidimensionnel compatible, en commençant à l'index spécifié du tableau cible |
-| [GetEnumerator](../../aspose.pdf.text/charinfocollection/getenumerator/)() | Renvoie un énumérateur pour l'ensemble de la collection. |
-| [Remove](../../aspose.pdf.text/charinfocollection/remove/)(CharInfo) | La collection est en lecture seule, lance NotImplementedException. |
+| [CopyTo](../../aspose.pdf.text/charinfocollection/copyto/)(CharInfo[], int) | Copie l'intégralité de la collection dans un tableau unidimensionnel compatible, en commençant à l'index spécifié du tableau cible. |
+| [GetEnumerator](../../aspose.pdf.text/charinfocollection/getenumerator/)() | Renvoie un énumérateur pour l'intégralité de la collection. |
+| [Remove](../../aspose.pdf.text/charinfocollection/remove/)(CharInfo) | La collection est en lecture seule, lève NotImplementedException. |
 
 ## Remarques
 
-Fournit un accès aux informations de positionnement des caractères des segments de texte.
+Fournit un accès aux informations de positionnement des caractères du segment de texte.
 
 ## Exemples
 
-L'exemple démontre comment itérer à travers tous les caractères et récupérer le caractère
+L'exemple montre comment itérer à travers tous les caractères et récupérer le charact
 
 ```csharp
-//open document
+//ouvrir le document
 Document pdfDocument = new Document(inFile);
-//create TextFragmentAbsorber object to collect all the text objects of the page
+//créer un objet TextFragmentAbsorber pour collecter tous les objets texte de la page
 TextFragmentAbsorber textFragmentAbsorber = new TextFragmentAbsorber();
-//accept the absorber for all the pages
+//accepter l'absorbeur pour toutes les pages
 pdfDocument.Pages[1].Accept(textFragmentAbsorber);
-//get the extracted text fragments
+//obtenir les fragments de texte extraits
 TextFragmentCollection textFragmentCollection = textFragmentAbsorber.TextFragments;
             
-//loop through the fragments
+//boucler sur les fragments
 foreach (TextFragment textFragment in textFragmentCollection)
 {
-    //loop through the segments
+    //boucler sur les segments
     foreach (TextSegment textSegment in textFragment.Segments)
     {
-        //loop through the characters
+        //boucler sur les caractères
         for (int i = 1; i <= textSegment.Text.Length; i++)
         {
             CharInfo charInfo = textSegment.Characters[i];
 
-            // print character position and rectangle info
+            // imprimer la position du caractère et les informations du rectangle
             Console.WriteLine("XIndent : {0} ", charInfo.Position.XIndent);
             Console.WriteLine("YIndent : {0} ", charInfo.Position.YIndent);
             Console.WriteLine("Width : {0} ", charInfo.Rectangle.Width);
@@ -76,6 +76,8 @@ foreach (TextFragment textFragment in textFragmentCollection)
 
 ### Voir aussi
 
-* classe [CharInfo](../charinfo/)
-* espace de noms [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* class [CharInfo](../charinfo/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

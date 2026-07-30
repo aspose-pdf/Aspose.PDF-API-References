@@ -1,14 +1,14 @@
 ---
-title: PDF3DViewArray.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PDF3DViewArray. Obtient ou définit le PDF3DView à afficher dans le tableau à l'index spécifié
+title: "PDF3DViewArray.Item"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PDF3DViewArray. Obtient ou définit le PDF3DView du tableau de vues à l'index spécifié"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.annotations/pdf3dviewarray/item/
 ---
-## Indexeur PDF3DViewArray
+## PDF3DViewArray indexer
 
-Obtient ou définit le [`PDF3DView`](../../pdf3dview/) à afficher dans le tableau à l'index spécifié.
+Obtient ou définit le [`PDF3DView`](../../pdf3dview/) du tableau de vues à l'index spécifié.
 
 ```csharp
 public PDF3DView this[int index] { get; set; }
@@ -30,7 +30,9 @@ PDF3DView.
 
 ### Voir aussi
 
-* classe [PDF3DView](../../pdf3dview/)
-* classe [PDF3DViewArray](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DView](../../pdf3dview/)
+* class [PDF3DViewArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

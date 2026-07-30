@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature.CoversWholeDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfFileSignature. Vérifie si la signature couvre l'ensemble du document
+title: "PdfFileSignature.CoversWholeDocument"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PdfFileSignature method. Vérifie si la signature couvre l'ensemble du document"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf.facades/pdffilesignature/coverswholedocument/
 ---
-## Méthode PdfFileSignature.CoversWholeDocument
+## PdfFileSignature.CoversWholeDocument method
 
 Vérifie si la signature couvre l'ensemble du document.
 
@@ -20,11 +20,13 @@ public bool CoversWholeDocument(SignatureName signName)
 
 ### Valeur de retour
 
-Retourne un résultat de type bool.
+Renvoie un résultat de type bool.
 
 ### Voir aussi
 
-* classe [SignatureName](../../signaturename/)
-* classe [PdfFileSignature](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

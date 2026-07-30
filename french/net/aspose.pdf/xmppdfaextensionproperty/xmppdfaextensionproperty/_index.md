@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionProperty.XmpPdfAExtensionProperty
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur XmpPdfAExtensionProperty. Initialise un nouvel objet
+title: "XmpPdfAExtensionProperty.XmpPdfAExtensionProperty"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur XmpPdfAExtensionProperty. Initialise un nouvel objet"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/xmppdfaextensionproperty/xmppdfaextensionproperty/
 ---
-## Constructeur XmpPdfAExtensionProperty
+## XmpPdfAExtensionProperty constructor
 
 Initialise un nouvel objet.
 
@@ -17,10 +17,10 @@ public XmpPdfAExtensionProperty(string name, string value, string valueType,
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| name | String | Le nom de la propriété. |
-| value | String | La valeur de la propriété. |
-| valueType | String | Le type de valeur de la propriété. |
-| category | XmpPdfAExtensionCategoryType | La catégorie de la propriété. |
+| nom | String | Le nom de la propriété. |
+| valeur | String | La valeur de la propriété. |
+| valueType | String | Le type de la valeur de la propriété. |
+| catégorie | XmpPdfAExtensionCategoryType | La catégorie de la propriété. |
 | description | String | La description de la propriété. |
 
 ### Voir aussi
@@ -29,3 +29,5 @@ public XmpPdfAExtensionProperty(string name, string value, string valueType,
 * class [XmpPdfAExtensionProperty](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

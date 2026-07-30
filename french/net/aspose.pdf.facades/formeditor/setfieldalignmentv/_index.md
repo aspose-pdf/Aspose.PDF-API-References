@@ -1,14 +1,14 @@
 ---
-title: FormEditor.SetFieldAlignmentV
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FormEditor. Définir le style d'alignement vertical d'un champ de texte
+title: "FormEditor.SetFieldAlignmentV"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode FormEditor. Définir le style d'alignement vertical d'un champ texte"
 type: docs
 weight: 270
 url: /fr/net/aspose.pdf.facades/formeditor/setfieldalignmentv/
 ---
-## Méthode FormEditor.SetFieldAlignmentV
+## FormEditor.SetFieldAlignmentV method
 
-Définir le style d'alignement vertical d'un champ de texte.
+Définit le style d'alignement vertical d'un champ texte.
 
 ```csharp
 public bool SetFieldAlignmentV(string fieldName, int alignment)
@@ -17,11 +17,11 @@ public bool SetFieldAlignmentV(string fieldName, int alignment)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | fieldName | String | Le nom de champ qualifié. |
-| alignment | Int32 | La définition du style d'alignement, y compris FormFieldFacade.AlignTop, FormFieldFacade.AlignMiddle et FormFieldFacade.AlignRight. |
+| alignment | Int32 | La définition du style d'alignement, incluant FormFieldFacade.AlignTop, FormFieldFacade.AlignMiddle et FormFieldFacade.AlignRight. |
 
 ### Valeur de retour
 
-true si le champ a été trouvé et que l'alignement a été rempli avec succès.
+true si le champ a été trouvé et que l'alignement a été appliqué avec succès.
 
 ## Exemples
 
@@ -32,6 +32,8 @@ fe.SetFieldAlignmentV("form1[0].TextField[0]", FormFieldFacade.AlignBottom);
 
 ### Voir aussi
 
-* classe [FormEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

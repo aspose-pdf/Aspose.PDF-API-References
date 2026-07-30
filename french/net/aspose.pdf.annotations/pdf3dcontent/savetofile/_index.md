@@ -1,12 +1,12 @@
 ---
-title: PDF3DContent.SaveToFile
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PDF3DContent. Enregistre le contenu 3D dans un fichier
+title: "PDF3DContent.SaveToFile"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PDF3DContent. Enregistre le contenu 3D dans un fichier"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.annotations/pdf3dcontent/savetofile/
 ---
-## Méthode PDF3DContent.SaveToFile
+## PDF3DContent.SaveToFile method
 
 Enregistre le contenu 3D dans un fichier.
 
@@ -16,16 +16,18 @@ public void SaveToFile(string filename)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| filename | String | Le nom du fichier. |
+| nom de fichier | String | Le nom du fichier. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | Le format de contenu 3DArtwork est PRC ou U3D. |
+| ArgumentException | Le format du contenu 3DArtwork est PRC ou U3D. |
 
 ### Voir aussi
 
-* classe [PDF3DContent](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DContent](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

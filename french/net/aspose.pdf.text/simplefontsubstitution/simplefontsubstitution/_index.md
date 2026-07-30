@@ -1,12 +1,12 @@
 ---
-title: SimpleFontSubstitution.SimpleFontSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de SimpleFontSubstitution. Initialise une nouvelle instance de la classe SimpleFontSubstitution
+title: "SimpleFontSubstitution.SimpleFontSubstitution"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur SimpleFontSubstitution. Initialise une nouvelle instance de la classe SimpleFontSubstitution"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.text/simplefontsubstitution/simplefontsubstitution/
 ---
-## Constructeur de SimpleFontSubstitution
+## SimpleFontSubstitution constructor
 
 Initialise une nouvelle instance de la classe [`SimpleFontSubstitution`](../).
 
@@ -17,12 +17,14 @@ public SimpleFontSubstitution(string originalFontName, string substitutionFontNa
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| originalFontName | String | Nom de la police d'origine. |
-| substitutionFontName | String | Nom de la police de substitution. |
-| isForcedBySaveOption | Boolean | Substitution forcée par l'option de sauvegarde DefaultFontName. |
+| originalFontName | String | Nom de police d'origine. |
+| substitutionFontName | String | Nom de police de substitution. |
+| isForcedBySaveOption | Boolean | Substitution forcée par l'option d'enregistrement DefaultFontName. |
 
 ### Voir aussi
 
-* classe [SimpleFontSubstitution](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [SimpleFontSubstitution](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

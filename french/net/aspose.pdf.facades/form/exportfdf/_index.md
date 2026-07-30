@@ -1,14 +1,14 @@
 ---
-title: Form.ExportFdf
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Form. Exporte le contenu des champs du pdf dans le flux fdf
+title: "Form.ExportFdf"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Form. Exporte le contenu des champs du pdf dans le flux fdf"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.facades/form/exportfdf/
 ---
-## Méthode Form.ExportFdf
+## Form.ExportFdf method
 
-Exporte le contenu des champs du pdf dans le flux fdf.
+Exporte le contenu des champs du pdf vers le flux fdf.
 
 ```csharp
 public void ExportFdf(Stream outputFdfStream)
@@ -29,6 +29,8 @@ stream.Close();
 
 ### Voir aussi
 
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

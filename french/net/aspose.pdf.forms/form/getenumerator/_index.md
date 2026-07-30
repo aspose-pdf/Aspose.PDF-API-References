@@ -1,14 +1,14 @@
 ---
-title: Form.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Form. Obtient l'énumération des champs de formulaire
+title: "Form.GetEnumerator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Form. Obtient l'énumération des champs du formulaire."
 type: docs
-weight: 260
+weight: 280
 url: /fr/net/aspose.pdf.forms/form/getenumerator/
 ---
-## Méthode Form.GetEnumerator
+## Form.GetEnumerator method
 
-Obtient l'énumération des champs de formulaire.
+Obtient l'énumération des champs du formulaire.
 
 ```csharp
 public IEnumerator<WidgetAnnotation> GetEnumerator()
@@ -20,7 +20,9 @@ public IEnumerator<WidgetAnnotation> GetEnumerator()
 
 ### Voir aussi
 
-* classe [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

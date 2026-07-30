@@ -1,12 +1,12 @@
 ---
-title: TeXMemoryOutputDirectory.GetFile
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TeXMemoryOutputDirectory. Renvoie le flux à lire
+title: "TeXMemoryOutputDirectory.GetFile"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TeXMemoryOutputDirectory. Retourne le flux à lire"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/texmemoryoutputdirectory/getfile/
 ---
-## Méthode TeXMemoryOutputDirectory.GetFile
+## TeXMemoryOutputDirectory.GetFile method
 
 Renvoie le flux à lire.
 
@@ -18,7 +18,7 @@ public Stream GetFile(string fileName, out string fullName, bool searchSubdirect
 | --- | --- | --- |
 | fileName | String | Le nom du fichier. |
 | fullName | String& | Le nom complet du fichier. |
-| searchSubdirectories | Boolean | Indique s'il faut rechercher un fichier dans les sous-répertoires. Dans cette implémentation, cela n'a aucun effet. |
+| searchSubdirectories | Boolean | Indique s'il faut rechercher un fichier dans les sous‑répertoires. Dans cette implémentation, cela n'a aucun effet. |
 
 ### Valeur de retour
 
@@ -26,6 +26,8 @@ Le flux.
 
 ### Voir aussi
 
-* classe [TeXMemoryOutputDirectory](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [TeXMemoryOutputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

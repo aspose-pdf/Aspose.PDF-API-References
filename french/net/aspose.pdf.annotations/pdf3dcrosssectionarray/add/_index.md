@@ -1,14 +1,14 @@
 ---
-title: PDF3DCrossSectionArray.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PDF3DCrossSectionArray. Ajoute la section transversale spécifiée au tableau de vues
+title: "PDF3DCrossSectionArray.Add"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PDF3DCrossSectionArray. Ajoute la section transversale spécifiée au tableau des vues"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.annotations/pdf3dcrosssectionarray/add/
 ---
-## Méthode PDF3DCrossSectionArray.Add
+## PDF3DCrossSectionArray.Add method
 
-Ajoute la section transversale spécifiée au tableau de vues.
+Ajoute la section transversale spécifiée au tableau des vues.
 
 ```csharp
 public void Add(PDF3DCrossSection crossSection)
@@ -20,7 +20,9 @@ public void Add(PDF3DCrossSection crossSection)
 
 ### Voir aussi
 
-* classe [PDF3DCrossSection](../../pdf3dcrosssection/)
-* classe [PDF3DCrossSectionArray](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DCrossSection](../../pdf3dcrosssection/)
+* class [PDF3DCrossSectionArray](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

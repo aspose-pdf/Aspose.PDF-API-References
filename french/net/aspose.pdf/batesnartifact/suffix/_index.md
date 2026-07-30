@@ -1,12 +1,12 @@
 ---
-title: BatesNArtifact.Suffix
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété BatesNArtifact. Obtient ou définit le suffixe à ajouter au numéro Bates
+title: "BatesNArtifact.Suffix"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété BatesNArtifact. Obtient ou définit le suffixe à ajouter au numéro Bates"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf/batesnartifact/suffix/
 ---
-## Propriété BatesNArtifact.Suffix
+## BatesNArtifact.Suffix property
 
 Obtient ou définit le suffixe à ajouter au numéro Bates.
 
@@ -16,6 +16,8 @@ public string Suffix { get; set; }
 
 ### Voir aussi
 
-* classe [BatesNArtifact](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [BatesNArtifact](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

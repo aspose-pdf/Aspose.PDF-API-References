@@ -1,14 +1,14 @@
 ---
-title: Class AIClientBase
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.AIClientBase. Représente le client pour accéder à l'API AI
+title: "Classe AIClientBase"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.AI.AIClientBase. Représente le client pour accéder à l'API IA"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.ai/aiclientbase/
 ---
-## Classe AIClientBase
+## AIClientBase class
 
-Représente le client pour accéder à l'API AI.
+Représente le client pour accéder à l'API d'IA.
 
 ```csharp
 public abstract class AIClientBase : IDisposable
@@ -18,10 +18,10 @@ public abstract class AIClientBase : IDisposable
 
 | Nom | Description |
 | --- | --- |
-| [BackoffDelaySeconds](../../aspose.pdf.ai/aiclientbase/backoffdelayseconds/) { get; set; } | Obtient ou définit le délai de retour en secondes. |
-| [HttpRequestMaxRetries](../../aspose.pdf.ai/aiclientbase/httprequestmaxretries/) { get; set; } | Obtient ou définit le nombre maximum de tentatives de requêtes HTTP. |
-| [PollingIntervalSeconds](../../aspose.pdf.ai/aiclientbase/pollingintervalseconds/) { get; set; } | Obtient ou définit l'intervalle de sondage en secondes. |
-| [PollingTimeoutSeconds](../../aspose.pdf.ai/aiclientbase/pollingtimeoutseconds/) { get; set; } | Obtient ou définit le délai d'expiration du sondage en secondes. |
+| [BackoffDelaySeconds](../../aspose.pdf.ai/aiclientbase/backoffdelayseconds/) { get; set; } | Obtient ou définit le délai de backoff en secondes. |
+| [HttpRequestMaxRetries](../../aspose.pdf.ai/aiclientbase/httprequestmaxretries/) { get; set; } | Obtient ou définit le nombre maximal de nouvelles tentatives de requêtes HTTP. |
+| [PollingIntervalSeconds](../../aspose.pdf.ai/aiclientbase/pollingintervalseconds/) { get; set; } | Obtient ou définit l'intervalle d'interrogation en secondes. |
+| [PollingTimeoutSeconds](../../aspose.pdf.ai/aiclientbase/pollingtimeoutseconds/) { get; set; } | Obtient ou définit le délai d'expiration de l'interrogation en secondes. |
 
 ## Méthodes
 
@@ -31,5 +31,7 @@ public abstract class AIClientBase : IDisposable
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

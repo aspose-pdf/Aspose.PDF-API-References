@@ -1,12 +1,12 @@
 ---
-title: CodeInterpreter.CodeInterpreter
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de CodeInterpreter. Le constructeur par défaut
+title: "CodeInterpreter.CodeInterpreter"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur CodeInterpreter. Le constructeur par défaut."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/codeinterpreter/codeinterpreter/
 ---
-## Constructeur de CodeInterpreter
+## CodeInterpreter constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public CodeInterpreter()
 
 ### Voir aussi
 
-* classe [CodeInterpreter](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [CodeInterpreter](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

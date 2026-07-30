@@ -1,14 +1,14 @@
 ---
-title: WidgetAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété WidgetAnnotation. Obtient le type d'annotation
+title: "WidgetAnnotation.AnnotationType"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété WidgetAnnotation. Obtient le type d'annotation"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.annotations/widgetannotation/annotationtype/
 ---
-## Propriété WidgetAnnotation.AnnotationType
+## WidgetAnnotation.AnnotationType property
 
-Obtient le type d'annotation.
+Obtient le type de l'annotation.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.IncrementalUpdates
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfFileEditor. Si vrai, des mises à jour incrémentielles sont effectuées lors de la concaténation
+title: "PdfFileEditor.IncrementalUpdates"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfFileEditor. Si vrai, des mises à jour incrémentielles sont effectuées pendant la concaténation."
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.facades/pdffileeditor/incrementalupdates/
 ---
-## Propriété PdfFileEditor.IncrementalUpdates
+## PdfFileEditor.IncrementalUpdates property
 
-Si vrai, des mises à jour incrémentielles sont effectuées lors de la concaténation.
+Si vrai, des mises à jour incrémentielles sont effectuées pendant la concaténation.
 
 ```csharp
 public bool IncrementalUpdates { get; set; }
@@ -16,6 +16,8 @@ public bool IncrementalUpdates { get; set; }
 
 ### Voir aussi
 
-* classe [PdfFileEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

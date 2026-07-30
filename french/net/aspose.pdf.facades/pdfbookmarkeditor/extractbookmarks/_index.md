@@ -1,7 +1,7 @@
 ---
-title: PdfBookmarkEditor.ExtractBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfBookmarkEditor. Extrait les signets de tous les niveaux du document
+title: "PdfBookmarkEditor.ExtractBookmarks"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PdfBookmarkEditor méthode. Extrait les signets de tous les niveaux du document"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.facades/pdfbookmarkeditor/extractbookmarks/
@@ -14,11 +14,11 @@ Extrait les signets de tous les niveaux du document.
 public Bookmarks ExtractBookmarks()
 ```
 
-### Return Value
+### Valeur de retour
 
-La collection de signets de tous les signets qui existent dans le document.
+La collection de signets de tous les signets présents dans le document.
 
-## Examples
+## Exemples
 
 ```csharp
 PdfBookmarkEditor editor = new PdfBookmarkEditor();
@@ -28,7 +28,7 @@ foreach(Bookmark bm in bms)
     Console.WriteLine(bm.Title);
 ```
 
-### See Also
+### Voir aussi
 
 * class [Bookmarks](../../bookmarks/)
 * class [PdfBookmarkEditor](../)
@@ -45,15 +45,15 @@ Extrait les signets de tous les niveaux du document.
 public Bookmarks ExtractBookmarks(bool upperLevel)
 ```
 
-| Parameter | Type | Description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | upperLevel | Boolean | Si vrai, extrait uniquement les signets de niveau supérieur. Sinon, extrait tous les signets de manière récursive. |
 
-### Return Value
+### Valeur de retour
 
 Liste des signets extraits.
 
-### See Also
+### Voir aussi
 
 * class [Bookmarks](../../bookmarks/)
 * class [PdfBookmarkEditor](../)
@@ -70,15 +70,15 @@ Extrait les signets avec le titre spécifié.
 public Bookmarks ExtractBookmarks(string title)
 ```
 
-| Parameter | Type | Description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
 | title | String | Titre de l'élément extrait. |
 
-### Return Value
+### Valeur de retour
 
 La collection de signets contient des éléments avec le même titre.
 
-## Examples
+## Exemples
 
 ```csharp
 PdfBookmarkEditor editor = new PdfBookmarkEditor();
@@ -88,7 +88,7 @@ foreach(Bookmark bm in bms)
     Console.WriteLine(bm.Title);
 ```
 
-### See Also
+### Voir aussi
 
 * class [Bookmarks](../../bookmarks/)
 * class [PdfBookmarkEditor](../)
@@ -99,21 +99,21 @@ foreach(Bookmark bm in bms)
 
 ## ExtractBookmarks(Bookmark) {#extractbookmarks_1}
 
-Extrait les enfants d'un signet avec un titre comme dans le signet spécifié.
+Extrait les enfants d'un signet dont le titre correspond à celui du signet spécifié.
 
 ```csharp
 public Bookmarks ExtractBookmarks(Bookmark bookmark)
 ```
 
-| Parameter | Type | Description |
+| Paramètre | Type | Description |
 | --- | --- | --- |
-| bookmark | Bookmark | Le signet spécifié. |
+| signet | Signet | Le signet spécifié. |
 
-### Return Value
+### Valeur de retour
 
 Collection de signets avec des signets enfants.
 
-## Examples
+## Exemples
 
 ```csharp
 PdfBookmarkEditor editor = new PdfBookmarkEditor();
@@ -125,10 +125,12 @@ foreach(Bookmark bm in bms)
     Console.WriteLine(bm.Title);
 ```
 
-### See Also
+### Voir aussi
 
 * class [Bookmarks](../../bookmarks/)
 * class [Bookmark](../../bookmark/)
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

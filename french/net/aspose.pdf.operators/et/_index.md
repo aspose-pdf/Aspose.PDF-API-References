@@ -1,14 +1,14 @@
 ---
-title: Class ET
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.ET. Classe représentant l'opérateur ET Fin de bloc de texte
+title: "Classe ET"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.ET classe. Classe représentant l'opérateur ET Fin du bloc de texte"
 type: docs
-weight: 7340
+weight: 7480
 url: /fr/net/aspose.pdf.operators/et/
 ---
-## Classe ET
+## ET class
 
-Classe représentant l'opérateur ET (Fin de bloc de texte).
+Classe représentant l'opérateur ET (Fin du bloc de texte).
 
 ```csharp
 public class ET : BlockTextOperator
@@ -30,12 +30,14 @@ public class ET : BlockTextOperator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/et/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/et/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf.operators/et/tostring/)() | Produit le code texte de l'opérateur. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [BlockTextOperator](../blocktextoperator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [BlockTextOperator](../blocktextoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

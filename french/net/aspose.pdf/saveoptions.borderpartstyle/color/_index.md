@@ -1,14 +1,14 @@
 ---
-title: SaveOptions.BorderPartStyle.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Champ BorderPartStyle. Représente la couleur des lignes de bordure
+title: "SaveOptions.BorderPartStyle.Color"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ BorderPartStyle. Représente la couleur des lignes de bordure"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/saveoptions.borderpartstyle/color/
 ---
-## Champ SaveOptions.BorderPartStyle.Color
+## SaveOptions.BorderPartStyle.Color field
 
-Représente la couleur des lignes de bordure
+Représente la couleur de la ligne de bordure
 
 ```csharp
 public Color Color;
@@ -16,6 +16,8 @@ public Color Color;
 
 ### Voir aussi
 
-* classe [BorderPartStyle](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [BorderPartStyle](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

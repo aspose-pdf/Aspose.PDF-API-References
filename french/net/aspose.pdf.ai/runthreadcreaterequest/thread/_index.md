@@ -1,14 +1,14 @@
 ---
-title: RunThreadCreateRequest.Thread
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété RunThreadCreateRequest. Obtient ou définit une demande de création d'un fil
+title: "RunThreadCreateRequest.Thread"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété RunThreadCreateRequest. Obtient ou définit une requête pour créer un thread."
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf.ai/runthreadcreaterequest/thread/
 ---
-## Propriété RunThreadCreateRequest.Thread
+## RunThreadCreateRequest.Thread property
 
-Obtient ou définit une demande de création d'un fil.
+Obtient ou définit une requête pour créer un fil.
 
 ```csharp
 public ThreadCreateRequest Thread { get; set; }
@@ -16,7 +16,9 @@ public ThreadCreateRequest Thread { get; set; }
 
 ### Voir aussi
 
-* classe [ThreadCreateRequest](../../threadcreaterequest/)
-* classe [RunThreadCreateRequest](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ThreadCreateRequest](../../threadcreaterequest/)
+* class [RunThreadCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

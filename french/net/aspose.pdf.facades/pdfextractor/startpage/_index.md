@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.StartPage
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfExtractor. Obtient ou définit la page de départ dans la plage de pages où l'opération d'extraction sera effectuée
+title: "PdfExtractor.StartPage"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfExtractor. Obtient ou définit la page de début dans la plage de pages où l'opération d'extraction sera effectuée"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.facades/pdfextractor/startpage/
 ---
-## Propriété PdfExtractor.StartPage
+## PdfExtractor.StartPage property
 
-Obtient ou définit la page de départ dans la plage de pages où l'opération d'extraction sera effectuée.
+Obtient ou définit la page de début dans la plage de pages où l'opération d'extraction sera effectuée.
 
 ```csharp
 PdfExtractor ext = new PdfExtractor();
@@ -24,6 +24,8 @@ public int StartPage { get; set; }
 
 ### Voir aussi
 
-* classe [PdfExtractor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

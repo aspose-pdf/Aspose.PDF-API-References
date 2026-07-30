@@ -1,12 +1,12 @@
 ---
-title: Class XlsConverter
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.XlsConverter. Représente le plugin XlsConverter
+title: "Classe XlsConverter"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Plugins.XlsConverter. Représente le plugin XlsConverter"
 type: docs
-weight: 9450
+weight: 9600
 url: /fr/net/aspose.pdf.plugins/xlsconverter/
 ---
-## Classe XlsConverter
+## XlsConverter class
 
 Représente le plugin `XlsConverter`.
 
@@ -29,16 +29,16 @@ public sealed class XlsConverter : IDisposable, IPlugin
 
 ## Exemples
 
-L'exemple démontre comment convertir un document PDF en document XLSX.
+L'exemple montre comment convertir un PDF en document XLSX.
 
 ```csharp
-// create XlsConverter converter
+// créer le convertisseur XlsConverter
 var converter = new XlsConverter();
-// create PdfToXLSOptions 
+// créer PdfToXLSOptions
 var opt = new PdfToXLSOptions();
-// add input file path
+// ajouter le chemin du fichier d'entrée
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// définir le chemin du fichier de sortie
 opt.AddOutput(new FileDataSource(outputPath));
 converter.Process(opt);
 ```
@@ -48,3 +48,5 @@ converter.Process(opt);
 * interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

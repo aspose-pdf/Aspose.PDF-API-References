@@ -1,12 +1,12 @@
 ---
-title: SetCMYKColorStroke.M
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SetCMYKColorStroke. Obtient ou définit le composant magenta
+title: "SetCMYKColorStroke.M"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "SetCMYKColorStroke propriété. Obtient ou définit le composant magenta"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.operators/setcmykcolorstroke/m/
 ---
-## Propriété SetCMYKColorStroke.M
+## SetCMYKColorStroke.M property
 
 Obtient ou définit le composant magenta.
 
@@ -16,6 +16,8 @@ public double M { get; set; }
 
 ### Voir aussi
 
-* classe [SetCMYKColorStroke](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetCMYKColorStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

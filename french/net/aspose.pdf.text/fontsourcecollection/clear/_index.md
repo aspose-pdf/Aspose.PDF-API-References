@@ -1,14 +1,14 @@
 ---
-title: FontSourceCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FontSourceCollection. Efface la collection de sources de polices
+title: "FontSourceCollection.Clear"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode FontSourceCollection. Vide la collection de sources de police"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.text/fontsourcecollection/clear/
 ---
-## Méthode FontSourceCollection.Clear
+## FontSourceCollection.Clear method
 
-Efface la collection de sources de polices.
+Efface la collection de sources de police.
 
 ```csharp
 public void Clear()
@@ -16,6 +16,8 @@ public void Clear()
 
 ### Voir aussi
 
-* classe [FontSourceCollection](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [FontSourceCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Option.Selected
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Option. Obtient ou définit le statut sélectionné de l'option. Renvoie vrai si l'option est sélectionnée
+title: "Option.Selected"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Option. Obtient ou définit le statut sélectionné de l'option. Retourne true si l'option est sélectionnée."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.forms/option/selected/
 ---
-## Propriété Option.Selected
+## Option.Selected property
 
-Obtient ou définit le statut sélectionné de l'option. Renvoie vrai si l'option est sélectionnée.
+Obtient ou définit l'état de sélection de l'option. Retourne true si l'option est sélectionnée.
 
 ```csharp
 public bool Selected { get; set; }
@@ -16,6 +16,8 @@ public bool Selected { get; set; }
 
 ### Voir aussi
 
-* classe [Option](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Option](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

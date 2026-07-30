@@ -1,14 +1,14 @@
 ---
-title: PDF3DRenderMode.GetCreaseValue
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PDF3DRenderMode. Obtient la valeur de pliage
+title: "PDF3DRenderMode.GetCreaseValue"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PDF3DRenderMode. Obtient la valeur de pli"
 type: docs
 weight: 180
 url: /fr/net/aspose.pdf.annotations/pdf3drendermode/getcreasevalue/
 ---
-## Méthode PDF3DRenderMode.GetCreaseValue
+## PDF3DRenderMode.GetCreaseValue method
 
-Obtient la valeur de pliage.
+Obtient la valeur du pli.
 
 ```csharp
 public double GetCreaseValue()
@@ -20,6 +20,8 @@ System.Double.
 
 ### Voir aussi
 
-* classe [PDF3DRenderMode](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

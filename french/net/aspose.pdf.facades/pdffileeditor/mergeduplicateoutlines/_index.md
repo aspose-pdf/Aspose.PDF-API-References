@@ -1,12 +1,12 @@
 ---
-title: PdfFileEditor.MergeDuplicateOutlines
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfFileEditor. Si vrai, les contours dupliqués sont fusionnés
+title: "PdfFileEditor.MergeDuplicateOutlines"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfFileEditor. Si vrai, les contours dupliqués sont fusionnés"
 type: docs
 weight: 150
 url: /fr/net/aspose.pdf.facades/pdffileeditor/mergeduplicateoutlines/
 ---
-## Propriété PdfFileEditor.MergeDuplicateOutlines
+## PdfFileEditor.MergeDuplicateOutlines property
 
 Si vrai, les contours dupliqués sont fusionnés.
 
@@ -16,6 +16,8 @@ public bool MergeDuplicateOutlines { get; set; }
 
 ### Voir aussi
 
-* classe [PdfFileEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

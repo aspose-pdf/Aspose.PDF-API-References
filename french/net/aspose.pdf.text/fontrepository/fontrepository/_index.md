@@ -1,12 +1,12 @@
 ---
-title: FontRepository.FontRepository
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de FontRepository. Le constructeur par défaut
+title: "FontRepository.FontRepository"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur FontRepository. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.text/fontrepository/fontrepository/
 ---
-## Constructeur de FontRepository
+## FontRepository constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public FontRepository()
 
 ### Voir aussi
 
-* classe [FontRepository](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [FontRepository](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

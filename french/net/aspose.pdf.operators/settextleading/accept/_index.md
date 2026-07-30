@@ -1,12 +1,12 @@
 ---
-title: SetTextLeading.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode SetTextLeading. Accepte un objet visiteur pour traiter l'opérateur
+title: "SetTextLeading.Accept"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode SetTextLeading. Accepte un objet visiteur pour traiter l'opérateur"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.operators/settextleading/accept/
 ---
-## Méthode SetTextLeading.Accept
+## SetTextLeading.Accept method
 
 Accepte un objet visiteur pour traiter l'opérateur.
 
@@ -16,7 +16,7 @@ public override void Accept(IOperatorSelector visitor)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| visitor | IOperatorSelector | Objet visiteur. |
+| visiteur | IOperatorSelector | Objet visiteur. |
 
 ### Voir aussi
 
@@ -24,3 +24,5 @@ public override void Accept(IOperatorSelector visitor)
 * class [SetTextLeading](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

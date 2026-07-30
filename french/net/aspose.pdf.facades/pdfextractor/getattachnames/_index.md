@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.GetAttachNames
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfExtractor. Renvoie la liste des pièces jointes dans le fichier PDF. Remarque  ExtractAttachments doit être appelé avant d'utiliser cette méthode
+title: "PdfExtractor.GetAttachNames"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfExtractor. Retourne la liste des pièces jointes dans le fichier PDF. Note : ExtractAttachments doit être appelée avant d'utiliser cette méthode"
 type: docs
 weight: 160
 url: /fr/net/aspose.pdf.facades/pdfextractor/getattachnames/
 ---
-## Méthode PdfExtractor.GetAttachNames
+## PdfExtractor.GetAttachNames method
 
-Renvoie la liste des pièces jointes dans le fichier PDF. Remarque : ExtractAttachments doit être appelé avant d'utiliser cette méthode.
+Renvoie la liste des pièces jointes dans le fichier PDF. Remarque : ExtractAttachments doit être appelé avant d'utiliser cette méthode.
 
 ```csharp
 public IList<string> GetAttachNames()
@@ -20,7 +20,7 @@ Liste des pièces jointes
 
 ## Exemples
 
-L'exemple démontre comment extraire les noms des pièces jointes d'un fichier PDF.
+L'exemple montre comment extraire les noms des pièces jointes d'un fichier PDF.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -33,6 +33,8 @@ foreach (string name in attachments)
 
 ### Voir aussi
 
-* classe [PdfExtractor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

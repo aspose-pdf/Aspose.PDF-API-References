@@ -1,12 +1,12 @@
 ---
-title: ResultContainer.ResultCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ResultContainer. Obtient la collection des résultats de l'opération
+title: "ResultContainer.ResultCollection"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ResultContainer. Obtient la collection des résultats de l'opération"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.plugins/resultcontainer/resultcollection/
 ---
-## Propriété ResultContainer.ResultCollection
+## ResultContainer.ResultCollection property
 
 Obtient la collection des résultats de l'opération
 
@@ -17,6 +17,8 @@ public List<IOperationResult> ResultCollection { get; }
 ### Voir aussi
 
 * interface [IOperationResult](../../ioperationresult/)
-* classe [ResultContainer](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [ResultContainer](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

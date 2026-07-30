@@ -1,12 +1,12 @@
 ---
-title: PDF3DView.BackGroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PDF3DView. Obtient ou définit la couleur de l'arrière-plan de la vue
+title: "PDF3DView.BackGroundColor"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PDF3DView propriété. Obtient ou définit la couleur de l'arrière-plan de la vue"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.annotations/pdf3dview/backgroundcolor/
 ---
-## Propriété PDF3DView.BackGroundColor
+## PDF3DView.BackGroundColor property
 
 Obtient ou définit la couleur de l'arrière-plan de la vue.
 
@@ -14,13 +14,15 @@ Obtient ou définit la couleur de l'arrière-plan de la vue.
 public Color BackGroundColor { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La couleur de l'arrière-plan de la vue.
 
 ### Voir aussi
 
-* classe [Color](../../../aspose.pdf/color/)
-* classe [PDF3DView](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Color](../../../aspose.pdf/color/)
+* class [PDF3DView](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

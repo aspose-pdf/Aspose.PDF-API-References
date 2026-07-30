@@ -1,14 +1,14 @@
 ---
-title: FolderFontSource.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FolderFontSource. Vérifiez si les objets de source de police de dossier sont égaux
+title: "FolderFontSource.Equals"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode FolderFontSource. Vérifie si les objets source de police de dossier sont égaux"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.text/folderfontsource/equals/
 ---
-## Méthode FolderFontSource.Equals
+## FolderFontSource.Equals method
 
-Vérifiez si les objets de source de police de dossier sont égaux.
+Vérifie si les objets de source de police du dossier sont égaux.
 
 ```csharp
 public override bool Equals(object obj)
@@ -16,7 +16,7 @@ public override bool Equals(object obj)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| obj | Object | Objet de source de police de dossier qui sera comparé. |
+| obj | Objet | Objet source de police de dossier qui sera comparé. |
 
 ### Valeur de retour
 
@@ -24,6 +24,8 @@ Vrai si les deux objets sont des sources de police de dossier ciblant le même d
 
 ### Voir aussi
 
-* classe [FolderFontSource](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [FolderFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

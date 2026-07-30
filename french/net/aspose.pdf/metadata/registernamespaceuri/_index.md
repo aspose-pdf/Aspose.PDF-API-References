@@ -1,7 +1,7 @@
 ---
-title: Metadata.RegisterNamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Metadata. Enregistre l'URI de l'espace de noms
+title: "Metadata.RegisterNamespaceUri"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Metadata. Enregistre l'URI de l'espace de noms"
 type: docs
 weight: 190
 url: /fr/net/aspose.pdf/metadata/registernamespaceuri/
@@ -16,13 +16,13 @@ public void RegisterNamespaceUri(string prefix, string namespaceUri)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| prefix | String | La valeur du préfixe. |
+| préfixe | String | La valeur du préfixe. |
 | namespaceUri | String | La valeur de l'URI de l'espace de noms. |
 
 ### Voir aussi
 
-* classe [Metadata](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -37,12 +37,14 @@ public void RegisterNamespaceUri(string prefix, string namespaceUri, string sche
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| prefix | String | La valeur du préfixe. |
+| préfixe | String | La valeur du préfixe. |
 | namespaceUri | String | La valeur de l'URI de l'espace de noms. |
 | schemaDescription | String | La valeur de la description du schéma. |
 
 ### Voir aussi
 
-* classe [Metadata](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

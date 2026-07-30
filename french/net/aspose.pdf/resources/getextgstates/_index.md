@@ -1,14 +1,14 @@
 ---
-title: Resources.GetExtGStates
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Resources. Obtient tous les ExGStates des ressources
+title: "Resources.GetExtGStates"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Resources. Obtient tous les ExGStates des ressources"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf/resources/getextgstates/
 ---
-## Méthode Resources.GetExtGStates
+## Resources.GetExtGStates method
 
-Obtient tous les ExGStates des ressources.
+Récupère tous les ExGStates des ressources.
 
 ```csharp
 public Dictionary<string, ExtGStateValue> GetExtGStates()
@@ -16,11 +16,13 @@ public Dictionary<string, ExtGStateValue> GetExtGStates()
 
 ### Valeur de retour
 
-Renvoie un dictionnaire avec les clés des noms des ExGStates.
+Retourne un dictionnaire contenant les noms des clés ExGStates.
 
 ### Voir aussi
 
-* classe [ExtGStateValue](../../resources.extgstatevalue/)
-* classe [Resources](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [ExtGStateValue](../../resources.extgstatevalue/)
+* class [Resources](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

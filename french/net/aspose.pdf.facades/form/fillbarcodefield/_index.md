@@ -1,14 +1,14 @@
 ---
-title: Form.FillBarcodeField
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Form. Remplir un champ de code-barres selon son nom de champ entièrement qualifié
+title: "Form.FillBarcodeField"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Form. Remplit un champ code-barres selon son nom de champ entièrement qualifié"
 type: docs
 weight: 120
 url: /fr/net/aspose.pdf.facades/form/fillbarcodefield/
 ---
-## Méthode Form.FillBarcodeField
+## Form.FillBarcodeField method
 
-Remplir un champ de code-barres selon son nom de champ entièrement qualifié.
+Remplit un champ de code-barres selon son nom de champ entièrement qualifié.
 
 ```csharp
 public bool FillBarcodeField(string fieldName, string data)
@@ -16,12 +16,12 @@ public bool FillBarcodeField(string fieldName, string data)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| fieldName | String | Le nom de champ entièrement qualifié. |
+| fieldName | String | Le nom complet du champ. |
 | data | String | La nouvelle valeur du code-barres. |
 
 ### Valeur de retour
 
-Si le remplissage réussit, retourne true ; sinon, false.
+Si le remplissage réussit, retourne true; sinon, false.
 
 ## Exemples
 
@@ -32,6 +32,8 @@ form.FillBarcodeField("textField", "42207252");
 
 ### Voir aussi
 
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

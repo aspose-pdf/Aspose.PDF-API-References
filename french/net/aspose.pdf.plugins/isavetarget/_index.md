@@ -1,14 +1,14 @@
 ---
-title: Interface ISaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Interface Aspose.Pdf.Plugins.ISaveTarget. Interface générale de cible de sauvegarde qui définit les membres communs que la cible de sauvegarde du résultat d'opération concrète doit implémenter
+title: "Interface ISaveTarget"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Interface Aspose.Pdf.Plugins.ISaveTarget. Interface cible d'enregistrement générale qui définit les membres communs qu'une cible d'enregistrement de résultat d'opération concrète doit implémenter"
 type: docs
-weight: 8880
+weight: 9010
 url: /fr/net/aspose.pdf.plugins/isavetarget/
 ---
-## Interface ISaveTarget
+## ISaveTarget interface
 
-Interface générale de cible de sauvegarde qui définit les membres communs que la cible de sauvegarde du résultat d'opération concrète doit implémenter.
+Interface générale de cible d'enregistrement qui définit les membres communs que la cible d'enregistrement du résultat d'opération concret doit implémenter.
 
 ```csharp
 public interface ISaveTarget
@@ -18,9 +18,11 @@ public interface ISaveTarget
 
 | Nom | Description |
 | --- | --- |
-| [SaveTarget](../../aspose.pdf.plugins/isavetarget/savetarget/) { get; } | Type de la cible de sauvegarde (fichier ou flux). |
+| [SaveTarget](../../aspose.pdf.plugins/isavetarget/savetarget/) { get; } | Type de la cible d'enregistrement (fichier ou flux). |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

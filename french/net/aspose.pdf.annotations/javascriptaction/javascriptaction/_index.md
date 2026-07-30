@@ -1,12 +1,12 @@
 ---
-title: JavascriptAction.JavascriptAction
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de JavascriptAction. Constructeur
+title: "JavascriptAction.JavascriptAction"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "JavascriptAction constructeur. Constructeur"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/javascriptaction/javascriptaction/
 ---
-## Constructeur de JavascriptAction
+## JavascriptAction constructor
 
 Constructeur.
 
@@ -16,10 +16,12 @@ public JavascriptAction(string javaScript)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| javaScript | Chaîne | Code JavaScript. |
+| javaScript | String | code JavaScript. |
 
 ### Voir aussi
 
-* classe [JavascriptAction](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [JavascriptAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

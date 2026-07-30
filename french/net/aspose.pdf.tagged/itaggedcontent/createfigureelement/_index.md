@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateFigureElement
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ITaggedContent. Crée FigureElement
+title: "ITaggedContent.CreateFigureElement"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode ITaggedContent. Crée FigureElement"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf.tagged/itaggedcontent/createfigureelement/
 ---
-## Méthode ITaggedContent.CreateFigureElement
+## ITaggedContent.CreateFigureElement method
 
 Crée [`FigureElement`](../../../aspose.pdf.logicalstructure/figureelement/).
 
@@ -20,7 +20,9 @@ public FigureElement CreateFigureElement()
 
 ### Voir aussi
 
-* classe [FigureElement](../../../aspose.pdf.logicalstructure/figureelement/)
+* class [FigureElement](../../../aspose.pdf.logicalstructure/figureelement/)
 * interface [ITaggedContent](../)
-* espace de noms [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

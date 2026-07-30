@@ -1,14 +1,14 @@
 ---
-title: Class ClosePathEOFillStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.ClosePathEOFillStroke. Classe représentant l'opérateur b qui ferme, remplit et trace un chemin en utilisant la règle de parité.
+title: "Classe ClosePathEOFillStroke"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.ClosePathEOFillStroke class. Classe représentant l'opérateur b qui ferme, remplit et trace le chemin en utilisant la règle du remplissage pair-impaire."
 type: docs
-weight: 7200
+weight: 7340
 url: /fr/net/aspose.pdf.operators/closepatheofillstroke/
 ---
-## Classe ClosePathEOFillStroke
+## ClosePathEOFillStroke class
 
-Classe représentant l'opérateur b* (fermer, remplir et tracer un chemin en utilisant la règle de parité).
+Classe représentant l'opérateur b* (close, fill and stroke path using even-odd rule).
 
 ```csharp
 public class ClosePathEOFillStroke : Operator
@@ -30,12 +30,14 @@ public class ClosePathEOFillStroke : Operator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/closepatheofillstroke/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/closepatheofillstroke/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf.operators/closepatheofillstroke/tostring/)() | Renvoie la représentation textuelle de l'opérateur. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [Operator](../../aspose.pdf/operator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

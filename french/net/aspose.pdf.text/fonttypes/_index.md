@@ -1,12 +1,12 @@
 ---
-title: Enum FontTypes
-second_title: Aspose.PDF for .NET API Reference
-description: Enumération Aspose.Pdf.Text.FontTypes. Énumération des types de police pris en charge
+title: "Énumération FontTypes"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Énumération Aspose.Pdf.Text.FontTypes. Énumération des types de police pris en charge"
 type: docs
-weight: 10600
+weight: 10780
 url: /fr/net/aspose.pdf.text/fonttypes/
 ---
-## Énumération FontTypes
+## FontTypes enumeration
 
 Énumération des types de police pris en charge.
 
@@ -23,5 +23,7 @@ public enum FontTypes
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

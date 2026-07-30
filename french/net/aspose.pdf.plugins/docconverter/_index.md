@@ -1,12 +1,12 @@
 ---
-title: Class DocConverter
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.DocConverter. Représente le plugin DocConverter
+title: "Classe DocConverter"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Plugins.DocConverter. Représente le plugin DocConverter"
 type: docs
-weight: 8530
+weight: 8660
 url: /fr/net/aspose.pdf.plugins/docconverter/
 ---
-## Classe DocConverter
+## DocConverter class
 
 Représente le plugin `DocConverter`.
 
@@ -32,3 +32,5 @@ public sealed class DocConverter : IDisposable, IPlugin
 * interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

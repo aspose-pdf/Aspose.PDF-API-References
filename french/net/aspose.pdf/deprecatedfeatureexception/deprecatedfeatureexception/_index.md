@@ -1,7 +1,7 @@
 ---
-title: DeprecatedFeatureException.DeprecatedFeatureException
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de DeprecatedFeatureException. Initialise une nouvelle instance de la classe DeprecatedFeatureException
+title: "DeprecatedFeatureException.DeprecatedFeatureException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur DeprecatedFeatureException. Initialise une nouvelle instance de la classe DeprecatedFeatureException"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/deprecatedfeatureexception/deprecatedfeatureexception/
@@ -16,8 +16,8 @@ public DeprecatedFeatureException()
 
 ### Voir aussi
 
-* classe [DeprecatedFeatureException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [DeprecatedFeatureException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -36,6 +36,8 @@ public DeprecatedFeatureException(string message)
 
 ### Voir aussi
 
-* classe [DeprecatedFeatureException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [DeprecatedFeatureException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.HtmlMarkupGenerationMode
-second_title: Aspose.PDF for .NET API Reference
-description: Champ HtmlSaveOptions. Parfois, des exigences spécifiques pour la génération de balisage HTML sont présentes. Ce paramètre définit les modes de préparation HTML qui peuvent être utilisés lors de la conversion de PDF en HTML pour répondre à ces exigences spécifiques.
+title: "HtmlSaveOptions.HtmlMarkupGenerationMode"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ HtmlSaveOptions. Parfois, des exigences spécifiques à la génération du balisage HTML sont présentes. Ce paramètre définit les modes de préparation HTML qui peuvent être utilisés lors de la conversion de PDF en HTML pour répondre à ces exigences spécifiques."
 type: docs
 weight: 340
 url: /fr/net/aspose.pdf/htmlsaveoptions/htmlmarkupgenerationmode/
 ---
-## Champ HtmlSaveOptions.HtmlMarkupGenerationMode
+## HtmlSaveOptions.HtmlMarkupGenerationMode field
 
-Parfois, des exigences spécifiques pour la génération de balisage HTML sont présentes. Ce paramètre définit les modes de préparation HTML qui peuvent être utilisés lors de la conversion de PDF en HTML pour répondre à ces exigences spécifiques.
+Parfois, des exigences spécifiques à la génération du balisage HTML sont présentes. Ce paramètre définit les modes de préparation HTML qui peuvent être utilisés lors de la conversion de PDF en HTML afin de répondre à ces exigences spécifiques.
 
 ```csharp
 public HtmlMarkupGenerationModes HtmlMarkupGenerationMode;
@@ -20,3 +20,5 @@ public HtmlMarkupGenerationModes HtmlMarkupGenerationMode;
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

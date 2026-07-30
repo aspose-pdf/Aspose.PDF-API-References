@@ -1,14 +1,14 @@
 ---
-title: Class BlockTextOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.BlockTextOperator. Classe de base abstraite pour les opérateurs de bloc de texte c'est-à-dire les opérateurs de début et de fin de texte BT/ET
+title: "Classe BlockTextOperator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.BlockTextOperator classe. Classe de base abstraite pour les opérateurs de bloc de texte, c.-à-d. les opérateurs de texte Begin et End BT/ET"
 type: docs
-weight: 7170
+weight: 7310
 url: /fr/net/aspose.pdf.operators/blocktextoperator/
 ---
-## Classe BlockTextOperator
+## BlockTextOperator class
 
-Classe de base abstraite pour les opérateurs de bloc de texte c'est-à-dire les opérateurs de début et de fin de texte (BT/ET)
+Classe abstraite de base pour les opérateurs de bloc de texte, c.-à-d. les opérateurs de début et de fin de texte (BT/ET)
 
 ```csharp
 public class BlockTextOperator : TextOperator
@@ -25,18 +25,20 @@ public class BlockTextOperator : TextOperator
 
 | Nom | Description |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Index de l'opérateur dans la liste des opérateurs de page. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Index de l'opérateur dans la liste des opérateurs de la page. |
 
 ## Méthodes
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Renvoie le texte de l'opérateur et ses paramètres. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [TextOperator](../textoperator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [TextOperator](../textoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

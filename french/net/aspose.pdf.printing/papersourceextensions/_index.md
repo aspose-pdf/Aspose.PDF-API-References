@@ -1,14 +1,14 @@
 ---
-title: Class PaperSourceExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Printing.PaperSourceExtensions. Représente des méthodes d'extension pour PaperSource
+title: "Classe PaperSourceExtensions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Printing.PaperSourceExtensions. Représente les méthodes d'extension pour PaperSource"
 type: docs
-weight: 9610
+weight: 9760
 url: /fr/net/aspose.pdf.printing/papersourceextensions/
 ---
-## Classe PaperSourceExtensions
+## PaperSourceExtensions class
 
-Représente des méthodes d'extension pour [`PaperSource`](../papersource/).
+Représente les méthodes d'extension pour [`PaperSource`](../papersource/).
 
 ```csharp
 public static class PaperSourceExtensions
@@ -19,9 +19,11 @@ public static class PaperSourceExtensions
 | Nom | Description |
 | --- | --- |
 | static [ToAsposePaperSource](../../aspose.pdf.printing/papersourceextensions/toasposepapersource/)(this PaperSource) | Convertit le System.Drawing.Printing.PaperSource spécifique à Windows en [`PaperSource`](../papersource/). |
-| static [ToNativePaperSource](../../aspose.pdf.printing/papersourceextensions/tonativepapersource/)(this PaperSource) | Convertit [`PaperSource`](../papersource/) en System.Drawing.Printing.PaperSource spécifique à Windows. |
+| static [ToNativePaperSource](../../aspose.pdf.printing/papersourceextensions/tonativepapersource/)(this PaperSource) | Convertit le [`PaperSource`](../papersource/) en System.Drawing.Printing.PaperSource spécifique à Windows. |
 
 ### Voir aussi
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

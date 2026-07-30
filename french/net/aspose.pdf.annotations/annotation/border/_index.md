@@ -1,12 +1,12 @@
 ---
-title: Annotation.Border
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété d'annotation. Obtient ou définit les caractéristiques de la bordure de l'annotation. Bordure
+title: "Annotation.Border"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Annotation. Obtient ou définit les caractéristiques de la bordure de l'annotation. Border"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.annotations/annotation/border/
 ---
-## Propriété Annotation.Border
+## Annotation.Border property
 
 Obtient ou définit les caractéristiques de la bordure de l'annotation. `Border`
 
@@ -16,7 +16,9 @@ public Border Border { get; set; }
 
 ### Voir aussi
 
-* classe [Border](../../border/)
-* classe [Annotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Border](../../border/)
+* class [Annotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

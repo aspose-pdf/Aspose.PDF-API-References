@@ -1,12 +1,12 @@
 ---
-title: TextParagraph.EndEdit
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TextParagraph. Termine l'édition du TextParagraph
+title: "TextParagraph.EndEdit"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TextParagraph. Met fin à l'édition du TextParagraph"
 type: docs
 weight: 150
 url: /fr/net/aspose.pdf.text/textparagraph/endedit/
 ---
-## Méthode TextParagraph.EndEdit
+## TextParagraph.EndEdit method
 
 Termine l'édition du TextParagraph.
 
@@ -16,10 +16,12 @@ public void EndEdit()
 
 ## Remarques
 
-Améliore les performances de la population de TextParagraph. Tout calcul de mise en page est suspendu jusqu'à ce que la méthode EndEdit soit invoquée. Notez que l'invocation de la méthode ne peut pas être imbriquée.
+Améliore les performances du remplissage de TextParagraph. Tout calcul de mise en page est suspendu jusqu'à ce que la méthode EndEdit soit invoquée. Notez que l'appel de méthode ne peut pas être imbriqué.
 
 ### Voir aussi
 
-* classe [TextParagraph](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextParagraph](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

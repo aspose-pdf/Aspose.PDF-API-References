@@ -1,14 +1,14 @@
 ---
-title: GraphInfo.Y
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété GraphInfo. Récupérer la coordonnée Y d'une bordure horizontale lors de l'utilisation de TableAbsorber et retourner 1 pour une bordure verticale
+title: "GraphInfo.Y"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété GraphInfo. Récupère la coordonnée Y d'une bordure horizontale lors de l'utilisation de TableAbsorber et renvoie 1 pour une bordure verticale"
 type: docs
 weight: 140
 url: /fr/net/aspose.pdf/graphinfo/y/
 ---
-## Propriété GraphInfo.Y
+## GraphInfo.Y property
 
-Récupérer la coordonnée Y d'une bordure horizontale lors de l'utilisation de TableAbsorber, et retourner "-1" pour une bordure verticale.
+Récupère la coordonnée Y d'une bordure horizontale lors de l'utilisation de TableAbsorber, et renvoie "-1" pour une bordure verticale.
 
 ```csharp
 public double Y { get; }
@@ -16,6 +16,8 @@ public double Y { get; }
 
 ### Voir aussi
 
-* classe [GraphInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

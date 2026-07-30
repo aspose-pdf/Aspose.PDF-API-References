@@ -1,12 +1,12 @@
 ---
-title: RunStepDetails.RunStepDetails
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de RunStepDetails. Le constructeur par défaut
+title: "RunStepDetails.RunStepDetails"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur RunStepDetails. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/runstepdetails/runstepdetails/
 ---
-## Constructeur de RunStepDetails
+## RunStepDetails constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public RunStepDetails()
 
 ### Voir aussi
 
-* classe [RunStepDetails](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [RunStepDetails](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

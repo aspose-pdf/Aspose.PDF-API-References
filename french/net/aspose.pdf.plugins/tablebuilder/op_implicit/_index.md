@@ -1,12 +1,12 @@
 ---
-title: TableBuilder.op_Implicit
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TableBuilder. Convertit le constructeur TableBuilder en options TableOptions
+title: "TableBuilder.op_Implicit"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TableBuilder. Convertit le constructeur TableBuilder en options TableOptions"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.plugins/tablebuilder/op_implicit/
 ---
-## Opérateur implicite TableBuilder
+## TableBuilder Implicit operator
 
 Convertit le constructeur [`TableBuilder`](../) en options [`TableOptions`](../../tableoptions/)
 
@@ -16,7 +16,7 @@ public static implicit operator TableOptions(TableBuilder builder)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| builder | TableBuilder | Instance de l'[`TableBuilder`](../) actuel. |
+| builder | TableBuilder | Instance de l'actuel [`TableBuilder`](../). |
 
 ### Valeur de retour
 
@@ -24,7 +24,9 @@ Résultat de la conversion en PdfGeneratorTableOptions.
 
 ### Voir aussi
 
-* classe [TableOptions](../../tableoptions/)
-* classe [TableBuilder](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [TableOptions](../../tableoptions/)
+* class [TableBuilder](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

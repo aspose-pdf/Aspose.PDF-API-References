@@ -1,12 +1,12 @@
 ---
-title: PdfAOptionsBase.IsLowMemoryMode
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfAOptionsBase. Obtient ou définit une valeur indiquant si le mode basse mémoire est activé pendant le processus de conversion PDF/A
+title: "PdfAOptionsBase.IsLowMemoryMode"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfAOptionsBase. Obtient ou définit une valeur indiquant si le mode basse mémoire est activé pendant le processus de conversion PDF/A."
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.plugins/pdfaoptionsbase/islowmemorymode/
 ---
-## PdfAOptionsBase.IsLowMemoryMode propriété
+## PdfAOptionsBase.IsLowMemoryMode property
 
 Obtient ou définit une valeur indiquant si le mode basse mémoire est activé pendant le processus de conversion PDF/A.
 
@@ -14,12 +14,14 @@ Obtient ou définit une valeur indiquant si le mode basse mémoire est activé p
 public bool IsLowMemoryMode { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`true` si le mode basse mémoire est activé ; sinon, `false`.
+`true` si le mode basse mémoire est activé ; sinon, `false`.
 
 ### Voir aussi
 
-* classe [PdfAOptionsBase](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [PdfAOptionsBase](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

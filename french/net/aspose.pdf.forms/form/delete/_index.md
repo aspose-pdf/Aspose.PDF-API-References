@@ -1,14 +1,14 @@
 ---
-title: Form.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Form. Supprimer un champ du formulaire
+title: "Form.Delete"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Form. Supprime le champ du formulaire."
 type: docs
-weight: 230
+weight: 250
 url: /fr/net/aspose.pdf.forms/form/delete/
 ---
 ## Delete(Field) {#delete}
 
-Supprimer un champ du formulaire.
+Supprime le champ du formulaire.
 
 ```csharp
 public void Delete(Field field)
@@ -16,7 +16,7 @@ public void Delete(Field field)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| field | Field | Champ qui doit être supprimé. |
+| champ | Champ | Champ qui doit être supprimé. |
 
 ### Voir aussi
 
@@ -29,7 +29,7 @@ public void Delete(Field field)
 
 ## Delete(string) {#delete_1}
 
-Supprime un champ du formulaire par son nom.
+Supprime le champ du formulaire par son nom.
 
 ```csharp
 public void Delete(string fieldName)
@@ -44,3 +44,5 @@ public void Delete(string fieldName)
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FillStroke.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FillStroke. Accepte un objet visiteur pour traiter l'opérateur
+title: "FillStroke.Accept"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode FillStroke. Accepte l'objet visiteur pour traiter l'opérateur"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.operators/fillstroke/accept/
 ---
-## Méthode FillStroke.Accept
+## FillStroke.Accept method
 
 Accepte un objet visiteur pour traiter l'opérateur.
 
@@ -21,6 +21,8 @@ public override void Accept(IOperatorSelector visitor)
 ### Voir aussi
 
 * interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* classe [FillStroke](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [FillStroke](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

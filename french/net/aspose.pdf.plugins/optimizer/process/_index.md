@@ -1,14 +1,14 @@
 ---
-title: Optimizer.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Optimizer. Démarre le traitement de l'Optimizer avec les paramètres spécifiés
+title: "Optimizer.Process"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Optimizer. Démarre le traitement Optimizer avec les paramètres spécifiés"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.plugins/optimizer/process/
 ---
-## Méthode Optimizer.Process
+## Optimizer.Process method
 
-Démarre le traitement de l[`Optimizer`](../) avec les paramètres spécifiés.
+Démarre le traitement [`Optimizer`](../) avec les paramètres spécifiés.
 
 ```csharp
 public ResultContainer Process(IPluginOptions options)
@@ -16,7 +16,7 @@ public ResultContainer Process(IPluginOptions options)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| options | IPluginOptions | Un objet d'options contenant des instructions pour l[`Optimizer`](../). |
+| options | IPluginOptions | Un objet d'options contenant les instructions pour le [`Optimizer`](../). |
 
 ### Valeur de retour
 
@@ -30,8 +30,10 @@ Un objet ResultContainer contenant le résultat de l'opération.
 
 ### Voir aussi
 
-* classe [ResultContainer](../../resultcontainer/)
+* class [ResultContainer](../../resultcontainer/)
 * interface [IPluginOptions](../../ipluginoptions/)
-* classe [Optimizer](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [Optimizer](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

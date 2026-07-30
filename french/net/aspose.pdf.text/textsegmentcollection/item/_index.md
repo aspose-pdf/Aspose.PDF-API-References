@@ -1,12 +1,12 @@
 ---
-title: TextSegmentCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextSegmentCollection. Obtient l'élément de segment de texte à l'index spécifié
+title: "TextSegmentCollection.Item"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextSegmentCollection. Obtient l'élément de segment de texte à l'index spécifié"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.text/textsegmentcollection/item/
 ---
-## Indexeur TextSegmentCollection
+## TextSegmentCollection indexer
 
 Obtient l'élément de segment de texte à l'index spécifié.
 
@@ -24,7 +24,9 @@ Objet TextSegment.
 
 ### Voir aussi
 
-* classe [TextSegment](../../textsegment/)
-* classe [TextSegmentCollection](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextSegment](../../textsegment/)
+* class [TextSegmentCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

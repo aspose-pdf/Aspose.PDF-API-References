@@ -1,12 +1,12 @@
 ---
-title: CurveTo.X1
-second_title: Aspose.PDF for .NET API Reference
-description: Champ CurveTo. Obtient ou définit la coordonnée X1
+title: "CurveTo.X1"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ CurveTo. Obtient ou définit la coordonnée X1"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.operators/curveto/x1/
 ---
-## Champ CurveTo.X1
+## CurveTo.X1 field
 
 Obtient ou définit la coordonnée X1.
 
@@ -16,6 +16,8 @@ public double X1;
 
 ### Voir aussi
 
-* classe [CurveTo](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [CurveTo](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

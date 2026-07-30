@@ -1,12 +1,12 @@
 ---
-title: SetTextRenderingMode.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode SetTextRenderingMode. Accepte un objet visiteur pour traiter l'opérateur
+title: "SetTextRenderingMode.Accept"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode SetTextRenderingMode. Accepte l'objet visiteur pour traiter l'opérateur"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.operators/settextrenderingmode/accept/
 ---
-## Méthode SetTextRenderingMode.Accept
+## SetTextRenderingMode.Accept method
 
 Accepte un objet visiteur pour traiter l'opérateur.
 
@@ -21,6 +21,8 @@ public override void Accept(IOperatorSelector visitor)
 ### Voir aussi
 
 * interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* classe [SetTextRenderingMode](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetTextRenderingMode](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

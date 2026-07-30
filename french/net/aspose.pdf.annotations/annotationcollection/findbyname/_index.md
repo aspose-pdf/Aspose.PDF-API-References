@@ -1,12 +1,12 @@
 ---
-title: AnnotationCollection.FindByName
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode AnnotationCollection. Renvoie l'annotation par son nom
+title: "AnnotationCollection.FindByName"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode AnnotationCollection. Retourne l'annotation par son nom."
 type: docs
 weight: 120
 url: /fr/net/aspose.pdf.annotations/annotationcollection/findbyname/
 ---
-## Méthode AnnotationCollection.FindByName
+## AnnotationCollection.FindByName method
 
 Renvoie l'annotation par son nom.
 
@@ -16,15 +16,17 @@ public Annotation FindByName(string name)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| name | String | Nom de l'annotation |
+| nom | String | Nom de l'annotation |
 
 ### Valeur de retour
 
-Objet Annotation s'il est trouvé ; sinon, null.
+Objet Annotation si trouvé ; sinon, null.
 
 ### Voir aussi
 
-* classe [Annotation](../../annotation/)
-* classe [AnnotationCollection](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

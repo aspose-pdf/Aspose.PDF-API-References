@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.Print
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété DocumentPrivilege. Permet d'imprimer le fichier
+title: "DocumentPrivilege.Print"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété DocumentPrivilege. Autorise l'impression du fichier"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.facades/documentprivilege/print/
 ---
-## Propriété DocumentPrivilege.Print
+## DocumentPrivilege.Print property
 
-Permet d'imprimer le fichier.
+Autorise l'impression du fichier.
 
 ```csharp
 public static DocumentPrivilege Print { get; }
@@ -16,6 +16,8 @@ public static DocumentPrivilege Print { get; }
 
 ### Voir aussi
 
-* classe [DocumentPrivilege](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [DocumentPrivilege](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

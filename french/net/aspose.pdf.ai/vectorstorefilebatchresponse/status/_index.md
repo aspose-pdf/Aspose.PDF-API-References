@@ -1,12 +1,12 @@
 ---
-title: VectorStoreFileBatchResponse.Status
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété VectorStoreFileBatchResponse. Obtient ou définit le statut du lot de fichiers du magasin de vecteurs
+title: "VectorStoreFileBatchResponse.Status"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "VectorStoreFileBatchResponse propriété. Obtient ou définit le statut du lot de fichiers du vector store"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.ai/vectorstorefilebatchresponse/status/
 ---
-## Propriété VectorStoreFileBatchResponse.Status
+## VectorStoreFileBatchResponse.Status property
 
 Obtient ou définit le statut du lot de fichiers du magasin de vecteurs.
 
@@ -16,6 +16,8 @@ public string Status { get; set; }
 
 ### Voir aussi
 
-* classe [VectorStoreFileBatchResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreFileBatchResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormat.ThousandsSeparator
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété NumberFormat. Texte qui sera utilisé entre les ordres de milliers dans l'affichage des valeurs numériques. Une chaîne vide indique qu'aucun texte ne sera ajouté. Par défaut, c'est une virgule.
+title: "Measure.NumberFormat.ThousandsSeparator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "NumberFormat propriété. Texte qui doit être utilisé entre les ordres de mille lors de l'affichage des valeurs numériques. Une chaîne vide indique qu'aucun texte ne doit être ajouté. La valeur par défaut est la virgule"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.annotations/measure.numberformat/thousandsseparator/
 ---
-## Propriété Measure.NumberFormat.ThousandsSeparator
+## Measure.NumberFormat.ThousandsSeparator property
 
-Texte qui sera utilisé entre les ordres de milliers dans l'affichage des valeurs numériques. Une chaîne vide indique qu'aucun texte ne sera ajouté. Par défaut, c'est une virgule.
+Texte qui doit être utilisé entre les ordres de mille lors de l'affichage des valeurs numériques. Une chaîne vide indique qu'aucun texte ne doit être ajouté. La valeur par défaut est la virgule.
 
 ```csharp
 public string ThousandsSeparator { get; set; }
@@ -16,6 +16,8 @@ public string ThousandsSeparator { get; set; }
 
 ### Voir aussi
 
-* classe [NumberFormat](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [NumberFormat](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

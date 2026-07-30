@@ -1,14 +1,14 @@
 ---
-title: TextReplaceOptions.AdjustmentNewLineSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextReplaceOptions. Obtient ou définit la valeur de l'espacement des lignes utilisé si l'ajustement de remplacement est forcé de créer une nouvelle ligne de texte. La valeur attendue est un multiplicateur de la taille de police du texte remplacé. La valeur par défaut est 1.2
+title: "TextReplaceOptions.AdjustmentNewLineSpacing"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextReplaceOptions. Obtient ou définit la valeur de l'espacement des lignes utilisée si l'ajustement du remplacement est forcé de créer une nouvelle ligne de texte. La valeur attendue est un multiplicateur de la taille de police du texte remplacé. La valeur par défaut est 1,2"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.text/textreplaceoptions/adjustmentnewlinespacing/
 ---
-## Propriété TextReplaceOptions.AdjustmentNewLineSpacing
+## TextReplaceOptions.AdjustmentNewLineSpacing property
 
-Obtient ou définit la valeur de l'espacement des lignes utilisé si l'ajustement de remplacement est forcé de créer une nouvelle ligne de texte. La valeur attendue est un multiplicateur de la taille de police du texte remplacé. La valeur par défaut est 1.2.
+Obtient ou définit la valeur de l'interligne utilisée si l'ajustement du remplacement force la création d'une nouvelle ligne de texte. La valeur attendue est un multiplicateur de la taille de police du texte remplacé. La valeur par défaut est 1,2.
 
 ```csharp
 public double AdjustmentNewLineSpacing { get; set; }
@@ -16,6 +16,8 @@ public double AdjustmentNewLineSpacing { get; set; }
 
 ### Voir aussi
 
-* classe [TextReplaceOptions](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextReplaceOptions](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

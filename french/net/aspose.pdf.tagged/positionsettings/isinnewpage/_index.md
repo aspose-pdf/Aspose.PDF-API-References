@@ -1,14 +1,14 @@
 ---
-title: PositionSettings.IsInNewPage
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PositionSettings. Obtient ou définit une valeur booléenne qui force ce paragraphe à être généré sur une nouvelle page. Par défaut, c'est faux.
+title: "PositionSettings.IsInNewPage"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PositionSettings. Obtient ou définit une valeur booléenne qui force ce paragraphe à être généré sur une nouvelle page. La valeur par défaut est false"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.tagged/positionsettings/isinnewpage/
 ---
-## Propriété PositionSettings.IsInNewPage
+## PositionSettings.IsInNewPage property
 
-Obtient ou définit une valeur booléenne qui force ce paragraphe à être généré sur une nouvelle page. Par défaut, c'est faux.
+Obtient ou définit une valeur booléenne qui force ce paragraphe à se générer sur une nouvelle page. La valeur par défaut est false.
 
 ```csharp
 public bool IsInNewPage { get; set; }
@@ -16,6 +16,8 @@ public bool IsInNewPage { get; set; }
 
 ### Voir aussi
 
-* classe [PositionSettings](../)
-* espace de noms [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* class [PositionSettings](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

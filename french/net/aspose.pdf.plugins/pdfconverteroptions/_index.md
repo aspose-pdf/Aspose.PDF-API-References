@@ -1,12 +1,12 @@
 ---
-title: Class PdfConverterOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.PdfConverterOptions. Représente les options pour les plugins de conversion Pdf
+title: "Classe PdfConverterOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Plugins.PdfConverterOptions. Représente les options pour les plugins de conversion Pdf."
 type: docs
-weight: 9050
+weight: 9200
 url: /fr/net/aspose.pdf.plugins/pdfconverteroptions/
 ---
-## Classe PdfConverterOptions
+## PdfConverterOptions class
 
 Représente les options pour les plugins de conversion Pdf.
 
@@ -34,3 +34,5 @@ public abstract class PdfConverterOptions : IPluginOptions
 * interface [IPluginOptions](../ipluginoptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

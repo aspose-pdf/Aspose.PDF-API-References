@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.FlatteningAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfAnnotationEditor. Aplatit toutes les annotations dans le document
+title: "PdfAnnotationEditor.FlatteningAnnotations"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PdfAnnotationEditor méthode. Aplatisse toutes les annotations du document"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.facades/pdfannotationeditor/flatteningannotations/
 ---
 ## FlatteningAnnotations() {#flatteningannotations}
 
-Aplatit toutes les annotations dans le document.
+Aplatisse toutes les annotations du document.
 
 ```csharp
 public void FlatteningAnnotations()
@@ -25,15 +25,15 @@ editor.Save(example_out.pdf");
 
 ### Voir aussi
 
-* classe [PdfAnnotationEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FlatteningAnnotations(FlattenSettings) {#flatteningannotations_1}
 
-Aplatit toutes les annotations dans le document.
+Aplatisse toutes les annotations du document.
 
 ```csharp
 public void FlatteningAnnotations(FlattenSettings flattenSettings)
@@ -45,16 +45,16 @@ public void FlatteningAnnotations(FlattenSettings flattenSettings)
 
 ### Voir aussi
 
-* classe [FlattenSettings](../../../aspose.pdf.forms/form.flattensettings/)
-* classe [PdfAnnotationEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FlattenSettings](../../../aspose.pdf.forms/form.flattensettings/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## FlatteningAnnotations(int, int, AnnotationType[]) {#flatteningannotations_2}
 
-Aplatit les annotations des types spécifiés.
+Aplatisse les annotations des types spécifiés.
 
 ```csharp
 public void FlatteningAnnotations(int start, int end, AnnotationType[] annotType)
@@ -63,8 +63,8 @@ public void FlatteningAnnotations(int start, int end, AnnotationType[] annotType
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | start | Int32 | La page de début. |
-| end | Int32 | La page de fin. |
-| annotType | AnnotationType[] | Les types d'annotations doivent être aplatis. |
+| end | Int32 | Puis la page de fin. |
+| annotType | AnnotationType[] | Les types d'annotation doivent être aplatis. |
 
 ## Exemples
 
@@ -79,6 +79,8 @@ editor.Save("example_out.pdf");
 ### Voir aussi
 
 * enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
-* classe [PdfAnnotationEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

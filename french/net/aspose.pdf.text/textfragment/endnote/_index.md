@@ -1,14 +1,14 @@
 ---
-title: TextFragment.EndNote
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextFragment. Obtient ou définit la note de fin de paragraphe. pour la génération de pdf uniquement
+title: "TextFragment.EndNote"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextFragment. Obtient ou définit la note de fin de paragraphe, uniquement pour la génération de PDF."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.text/textfragment/endnote/
 ---
-## Propriété TextFragment.EndNote
+## TextFragment.EndNote property
 
-Obtient ou définit la note de fin de paragraphe. (pour la génération de pdf uniquement)
+Obtient ou définit la note de fin de paragraphe (pour la génération de PDF uniquement).
 
 ```csharp
 public Note EndNote { get; set; }
@@ -16,7 +16,9 @@ public Note EndNote { get; set; }
 
 ### Voir aussi
 
-* classe [Note](../../../aspose.pdf/note/)
-* classe [TextFragment](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Note](../../../aspose.pdf/note/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

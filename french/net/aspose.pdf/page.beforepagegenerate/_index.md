@@ -1,12 +1,12 @@
 ---
-title: Delegate Page.BeforePageGenerate
-second_title: Aspose.PDF for .NET API Reference
-description: Procédure pour personnaliser l'en-tête et le pied de page
+title: "Déléguer Page.BeforePageGenerate"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Procédure pour personnaliser l'en-tête et le pied de page"
 type: docs
-weight: 8060
+weight: 8200
 url: /fr/net/aspose.pdf/page.beforepagegenerate/
 ---
-## Délégué Page.BeforePageGenerate
+## Page.BeforePageGenerate delegate
 
 Procédure pour personnaliser l'en-tête et le pied de page.
 
@@ -20,6 +20,8 @@ public delegate void BeforePageGenerate(Page page);
 
 ### Voir aussi
 
-* classe [Page](../page/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [Page](../page/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

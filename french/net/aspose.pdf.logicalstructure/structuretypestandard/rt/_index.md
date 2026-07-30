@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.RT
-second_title: Aspose.PDF for .NET API Reference
-description: Champ StructureTypeStandard. Texte d'annotation Ruby Le texte de plus petite taille qui doit être placé à côté du texte de base ruby. Il peut contenir du texte, d'autres éléments en ligne ou un mélange des deux. Il peut avoir les attributs RubyAlign et RubyPosition.
+title: "StructureTypeStandard.RT"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ StructureTypeStandard. Texte d'annotation ruby Le texte de petite taille qui doit être placé adjacent au texte de base ruby. Il peut contenir du texte, d'autres éléments en ligne ou un mélange des deux. Il peut posséder les attributs RubyAlign et RubyPosition."
 type: docs
 weight: 340
 url: /fr/net/aspose.pdf.logicalstructure/structuretypestandard/rt/
 ---
-## Champ StructureTypeStandard.RT
+## StructureTypeStandard.RT field
 
-(Texte d'annotation Ruby) Le texte de plus petite taille qui doit être placé à côté du texte de base ruby. Il peut contenir du texte, d'autres éléments en ligne ou un mélange des deux. Il peut avoir les attributs RubyAlign et RubyPosition.
+(Ruby annotation text) Le texte de plus petite taille qui doit être placé à côté du texte de base ruby. Il peut contenir du texte, d’autres éléments en ligne, ou un mélange des deux. Il peut posséder les attributs RubyAlign et RubyPosition.
 
 ```csharp
 public static readonly StructureTypeStandard RT;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard RT;
 
 ### Voir aussi
 
-* classe [StructureTypeStandard](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

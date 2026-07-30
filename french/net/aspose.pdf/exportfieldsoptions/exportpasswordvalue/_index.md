@@ -1,12 +1,12 @@
 ---
-title: ExportFieldsOptions.ExportPasswordValue
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ExportFieldsOptions. Obtient ou définit une valeur indiquant si la valeur du mot de passe doit être exportée
+title: "ExportFieldsOptions.ExportPasswordValue"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ExportFieldsOptions. Obtient ou définit une valeur indiquant si la valeur du mot de passe doit être exportée"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/exportfieldsoptions/exportpasswordvalue/
 ---
-## Propriété ExportFieldsOptions.ExportPasswordValue
+## ExportFieldsOptions.ExportPasswordValue property
 
 Obtient ou définit une valeur indiquant si la valeur du mot de passe doit être exportée.
 
@@ -14,12 +14,14 @@ Obtient ou définit une valeur indiquant si la valeur du mot de passe doit être
 public bool ExportPasswordValue { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`true` si la valeur du mot de passe doit être exportée ; sinon, `false`.
+`true` si la valeur du mot de passe doit être exportée; sinon, `false`.
 
 ### Voir aussi
 
-* classe [ExportFieldsOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [ExportFieldsOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

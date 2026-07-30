@@ -1,14 +1,14 @@
 ---
-title: Enum StampType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum StampType d'Aspose.Pdf.Facades. Décrit les types de tampon
+title: "Enum StampType"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Facades.StampType enum. Décrit les types de tampons"
 type: docs
-weight: 4740
+weight: 4860
 url: /fr/net/aspose.pdf.facades/stamptype/
 ---
-## Énumération StampType
+## StampType enumeration
 
-Décrit les types de tampon.
+Décrit les types de tampons.
 
 ```csharp
 public enum StampType
@@ -18,10 +18,12 @@ public enum StampType
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| Forme | `0` | Tampon si Forme. |
+| Form | `0` | Tampon si formulaire. |
 | Image | `1` | Le tampon est une image. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

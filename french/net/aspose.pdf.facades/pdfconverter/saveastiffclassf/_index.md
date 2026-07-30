@@ -1,7 +1,7 @@
 ---
-title: PdfConverter.SaveAsTIFFClassF
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfConverter. Convertit chaque page d'un document pdf en images et enregistre les images dans un seul fichier TIFF ClassF
+title: "PdfConverter.SaveAsTIFFClassF"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfConverter. Convertit chaque page d'un document pdf en images et enregistre les images dans un seul fichier TIFF ClassF."
 type: docs
 weight: 170
 url: /fr/net/aspose.pdf.facades/pdfconverter/saveastiffclassf/
@@ -17,8 +17,8 @@ public void SaveAsTIFFClassF(string outputFile, int imageWidth, int imageHeight)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | outputFile | String | Le flux pour enregistrer l'image TIFF. |
-| imageWidth | Int32 | La largeur de l'image, l'unité est le pixel. |
-| imageHeight | Int32 | La hauteur de l'image, l'unité est le pixel. |
+| imageWidth | Int32 | La largeur de l'image, l'unité est pixel. |
+| imageHeight | Int32 | La hauteur de l'image, l'unité est pixel. |
 
 ## Exemples
 
@@ -38,8 +38,8 @@ converter.SaveAsTIFFClassF(@"D:\Test\test.tiff",204,196)
 
 ### Voir aussi
 
-* classe [PdfConverter](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -55,13 +55,13 @@ public void SaveAsTIFFClassF(string outputFile, PageSize pageSize)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | outputFile | String | Le flux pour enregistrer l'image TIFF. |
-| pageSize | PageSize | La taille de la page de l'image. |
+| pageSize | PageSize | La taille de page de l'image. |
 
 ### Voir aussi
 
-* classe [PageSize](../../../aspose.pdf/pagesize/)
-* classe [PdfConverter](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -77,13 +77,13 @@ public void SaveAsTIFFClassF(Stream outputStream, int imageWidth, int imageHeigh
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | outputStream | Stream | Le flux pour enregistrer l'image TIFF. |
-| imageWidth | Int32 | La largeur de l'image, l'unité est le pixel. |
-| imageHeight | Int32 | La hauteur de l'image, l'unité est le pixel. |
+| imageWidth | Int32 | La largeur de l'image, l'unité est pixel. |
+| imageHeight | Int32 | La hauteur de l'image, l'unité est pixel. |
 
 ### Voir aussi
 
-* classe [PdfConverter](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -99,13 +99,13 @@ public void SaveAsTIFFClassF(Stream outputStream, PageSize pageSize)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | outputStream | Stream | Le flux pour enregistrer l'image TIFF. |
-| pageSize | PageSize | La taille de la page de l'image. |
+| pageSize | PageSize | La taille de page de l'image. |
 
 ### Voir aussi
 
-* classe [PageSize](../../../aspose.pdf/pagesize/)
-* classe [PdfConverter](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -140,8 +140,8 @@ converter.SaveAsTIFFClassF(@"D:\Test\test.tiff")
 
 ### Voir aussi
 
-* classe [PdfConverter](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -160,6 +160,8 @@ public void SaveAsTIFFClassF(Stream outputStream)
 
 ### Voir aussi
 
-* classe [PdfConverter](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

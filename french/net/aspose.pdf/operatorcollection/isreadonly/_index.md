@@ -1,12 +1,12 @@
 ---
-title: OperatorCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OperatorCollection. Obtient une valeur indiquant si la collection est en lecture seule
+title: "OperatorCollection.IsReadOnly"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété OperatorCollection. Obtient une valeur indiquant si la collection est en lecture seule."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/operatorcollection/isreadonly/
 ---
-## Propriété OperatorCollection.IsReadOnly
+## OperatorCollection.IsReadOnly property
 
 Obtient une valeur indiquant si la collection est en lecture seule.
 
@@ -16,6 +16,8 @@ public override bool IsReadOnly { get; }
 
 ### Voir aussi
 
-* classe [OperatorCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

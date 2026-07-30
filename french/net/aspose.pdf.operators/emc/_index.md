@@ -1,14 +1,14 @@
 ---
-title: Class EMC
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.EMC. Classe représentant l'opérateur EMC. Fin de la séquence de contenu marqué.
+title: "Classe EMC"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.EMC class. Classe représentant l'opérateur EMC fin de séquence de contenu marqué."
 type: docs
-weight: 7300
+weight: 7440
 url: /fr/net/aspose.pdf.operators/emc/
 ---
-## Classe EMC
+## EMC class
 
-Classe représentant l'opérateur EMC (Fin de la séquence de contenu marqué).
+Classe représentant l'opérateur EMC (End of marked-content sequence).
 
 ```csharp
 public class EMC : Operator
@@ -30,12 +30,14 @@ public class EMC : Operator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/emc/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/emc/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf.operators/emc/tostring/)() | Renvoie la représentation textuelle de l'opérateur. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [Operator](../../aspose.pdf/operator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

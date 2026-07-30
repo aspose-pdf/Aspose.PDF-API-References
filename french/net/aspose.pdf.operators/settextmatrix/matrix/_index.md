@@ -1,14 +1,14 @@
 ---
-title: SetTextMatrix.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété SetTextMatrix. Argument de matrice de l'opérateur
+title: "SetTextMatrix.Matrix"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété SetTextMatrix. Argument Matrix de l'opérateur"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.operators/settextmatrix/matrix/
 ---
-## Propriété SetTextMatrix.Matrix
+## SetTextMatrix.Matrix property
 
-Argument de matrice de l'opérateur.
+Argument matrice de l'opérateur.
 
 ```csharp
 public Matrix Matrix { get; set; }
@@ -16,7 +16,9 @@ public Matrix Matrix { get; set; }
 
 ### Voir aussi
 
-* classe [Matrix](../../../aspose.pdf/matrix/)
-* classe [SetTextMatrix](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [SetTextMatrix](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

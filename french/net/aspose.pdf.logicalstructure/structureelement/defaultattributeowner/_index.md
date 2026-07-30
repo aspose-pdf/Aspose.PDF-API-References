@@ -1,26 +1,28 @@
 ---
-title: StructureElement.DefaultAttributeOwner
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété StructureElement. Obtient l'objet AttributeOwnerStandard
+title: "StructureElement.DefaultAttributeOwner"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété StructureElement. Obtient l'objet AttributeOwnerStandard"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.logicalstructure/structureelement/defaultattributeowner/
 ---
-## Propriété StructureElement.DefaultAttributeOwner
+## StructureElement.DefaultAttributeOwner property
 
-Obtient l'objet AttributeOwnerStandard.
+Obtient l’objet AttributeOwnerStandard.
 
 ```csharp
 public AttributeOwnerStandard DefaultAttributeOwner { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Objet AttributeOwnerStandard.
 
 ### Voir aussi
 
-* classe [AttributeOwnerStandard](../../attributeownerstandard/)
-* classe [StructureElement](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeOwnerStandard](../../attributeownerstandard/)
+* class [StructureElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: EndPath.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode EndPath. Représentation textuelle de l'opérateur
+title: "EndPath.ToString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode EndPath. Représentation textuelle de l'opérateur"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.operators/endpath/tostring/
 ---
-## Méthode EndPath.ToString
+## EndPath.ToString method
 
 Représentation textuelle de l'opérateur.
 
@@ -20,6 +20,8 @@ Représentation textuelle de l'opérateur.
 
 ### Voir aussi
 
-* classe [EndPath](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [EndPath](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

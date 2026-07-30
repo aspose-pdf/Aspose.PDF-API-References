@@ -1,14 +1,14 @@
 ---
-title: Class FontEmbeddingException
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.FontEmbeddingException. L'exception qui est levée lorsqu'une tentative d'incorporation de police a échoué
+title: "Classe FontEmbeddingException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.FontEmbeddingException. L'exception qui est levée lorsqu'une tentative d'incorporation de police a échoué"
 type: docs
-weight: 4880
+weight: 5000
 url: /fr/net/aspose.pdf/fontembeddingexception/
 ---
-## Classe FontEmbeddingException
+## FontEmbeddingException class
 
-L'exception qui est levée lorsqu'une tentative d'incorporation de police a échoué
+L'exception qui est levée lorsqu'une tentative d'intégration de police a échoué
 
 ```csharp
 public sealed class FontEmbeddingException : PdfException
@@ -24,6 +24,8 @@ public sealed class FontEmbeddingException : PdfException
 
 ### Voir aussi
 
-* classe [PdfException](../pdfexception/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

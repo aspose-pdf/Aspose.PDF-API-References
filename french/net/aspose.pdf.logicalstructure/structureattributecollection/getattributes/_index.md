@@ -1,14 +1,14 @@
 ---
-title: StructureAttributeCollection.GetAttributes
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode StructureAttributeCollection. Retourne les StructureAttributes de l'élément de structure par propriétaire d'attribut standard
+title: "StructureAttributeCollection.GetAttributes"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode StructureAttributeCollection. Retourne StructureAttributes de l'élément de structure par le propriétaire d'attribut standard"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.logicalstructure/structureattributecollection/getattributes/
 ---
-## Méthode StructureAttributeCollection.GetAttributes
+## StructureAttributeCollection.GetAttributes method
 
-Retourne [`StructureAttributes`](../../structureattributes/) de l'élément de structure par propriétaire d'attribut standard.
+Retourne [`StructureAttributes`](../../structureattributes/) de l'élément de structure par le propriétaire d'attribut standard.
 
 ```csharp
 public StructureAttributes GetAttributes(AttributeOwnerStandard ownerStandard)
@@ -20,12 +20,14 @@ public StructureAttributes GetAttributes(AttributeOwnerStandard ownerStandard)
 
 ### Valeur de retour
 
-[`StructureAttributes`](../../structureattributes/) de l'élément de structure. Retourne null si non trouvé.
+[`StructureAttributes`](../../structureattributes/) of structure element. Return null if not found.
 
 ### Voir aussi
 
-* classe [StructureAttributes](../../structureattributes/)
-* classe [AttributeOwnerStandard](../../attributeownerstandard/)
-* classe [StructureAttributeCollection](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureAttributes](../../structureattributes/)
+* class [AttributeOwnerStandard](../../attributeownerstandard/)
+* class [StructureAttributeCollection](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

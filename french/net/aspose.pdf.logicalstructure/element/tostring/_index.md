@@ -1,14 +1,14 @@
 ---
-title: Element.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Element. Renvoie une chaîne qui représente l'objet actuel
+title: "Element.ToString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Element méthode. Retourne une chaîne qui représente l'objet actuel"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.logicalstructure/element/tostring/
 ---
-## Méthode Element.ToString
+## Element.ToString method
 
-Renvoie une chaîne qui représente l'objet actuel.
+Renvoie une chaîne qui représente l’objet actuel.
 
 ```csharp
 public override string ToString()
@@ -20,6 +20,8 @@ Chaîne qui représente l'objet actuel.
 
 ### Voir aussi
 
-* classe [Element](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

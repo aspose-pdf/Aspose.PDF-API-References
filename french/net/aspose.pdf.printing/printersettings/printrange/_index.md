@@ -1,14 +1,14 @@
 ---
-title: PrinterSettings.PrintRange
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PrinterSettings. Obtient ou définit les pages que l'utilisateur a demandé à imprimer
+title: "PrinterSettings.PrintRange"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PrinterSettings. Obtient ou définit les pages que l'utilisateur a demandées d'imprimer."
 type: docs
 weight: 120
 url: /fr/net/aspose.pdf.printing/printersettings/printrange/
 ---
-## Propriété PrinterSettings.PrintRange
+## PrinterSettings.PrintRange property
 
-Obtient ou définit les pages que l'utilisateur a demandé à imprimer.
+Obtient ou définit les pages que l'utilisateur a demandées d'imprimer.
 
 ```csharp
 public PrintRange PrintRange { get; set; }
@@ -20,3 +20,5 @@ public PrintRange PrintRange { get; set; }
 * class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

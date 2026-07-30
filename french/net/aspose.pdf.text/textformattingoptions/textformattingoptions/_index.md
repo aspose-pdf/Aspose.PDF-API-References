@@ -1,7 +1,7 @@
 ---
-title: TextFormattingOptions.TextFormattingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de TextFormattingOptions. Initialise une nouvelle instance de l'objet TextFormattingOptions pour le mode de retour à la ligne spécifié
+title: "TextFormattingOptions.TextFormattingOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur TextFormattingOptions. Initialise une nouvelle instance de l'objet TextFormattingOptions pour le mode de retour à la ligne spécifié"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.text/textformattingoptions/textformattingoptions/
@@ -40,3 +40,5 @@ public TextFormattingOptions()
 * class [TextFormattingOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

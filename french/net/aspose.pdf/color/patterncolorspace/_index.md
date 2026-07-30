@@ -1,14 +1,14 @@
 ---
-title: Color.PatternColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de couleur. Représente un objet qui indique l'espace de couleurs du motif
+title: "Color.PatternColorSpace"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Color propriété. Représente un objet qui indique l'espace de couleur du motif"
 type: docs
 weight: 1520
 url: /fr/net/aspose.pdf/color/patterncolorspace/
 ---
-## Propriété Color.PatternColorSpace
+## Color.PatternColorSpace property
 
-Représente un objet qui indique l'espace de couleurs du motif.
+Représente un objet qui indique l'espace de couleur du motif.
 
 ```csharp
 public PatternColorSpace PatternColorSpace { get; set; }
@@ -16,7 +16,9 @@ public PatternColorSpace PatternColorSpace { get; set; }
 
 ### Voir aussi
 
-* classe [PatternColorSpace](../../../aspose.pdf.drawing/patterncolorspace/)
-* classe [Color](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PatternColorSpace](../../../aspose.pdf.drawing/patterncolorspace/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

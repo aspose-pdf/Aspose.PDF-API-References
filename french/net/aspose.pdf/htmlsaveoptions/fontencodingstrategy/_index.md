@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.FontEncodingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Champ HtmlSaveOptions. Définit une règle d'encodage spéciale pour ajuster le décodage PDF pour le document actuel
+title: "HtmlSaveOptions.FontEncodingStrategy"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ HtmlSaveOptions. Définit une règle spéciale d’encodage pour ajuster le décodage PDF du document actuel."
 type: docs
 weight: 320
 url: /fr/net/aspose.pdf/htmlsaveoptions/fontencodingstrategy/
 ---
-## Champ HtmlSaveOptions.FontEncodingStrategy
+## HtmlSaveOptions.FontEncodingStrategy field
 
-Définit une règle d'encodage spéciale pour ajuster le décodage PDF pour le document actuel
+Définit une règle spéciale d’encodage pour ajuster le décodage PDF du document actuel.
 
 ```csharp
 public FontEncodingRules FontEncodingStrategy;
@@ -20,3 +20,5 @@ public FontEncodingRules FontEncodingStrategy;
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

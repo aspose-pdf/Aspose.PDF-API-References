@@ -1,12 +1,12 @@
 ---
-title: WidgetAnnotation.Parent
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété WidgetAnnotation. Obtient le parent de l'annotation
+title: "WidgetAnnotation.Parent"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété WidgetAnnotation. Obtient le parent de l'annotation."
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.annotations/widgetannotation/parent/
 ---
-## Propriété WidgetAnnotation.Parent
+## WidgetAnnotation.Parent property
 
 Obtient le parent de l'annotation.
 
@@ -16,7 +16,9 @@ public Field Parent { get; }
 
 ### Voir aussi
 
-* classe [Field](../../../aspose.pdf.forms/field/)
-* classe [WidgetAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Field](../../../aspose.pdf.forms/field/)
+* class [WidgetAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

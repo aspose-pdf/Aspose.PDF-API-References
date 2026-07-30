@@ -1,14 +1,14 @@
 ---
-title: Document.GetCatalogValue
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Document. Renvoie la valeur de l'élément du dictionnaire de catalogues
+title: "Document.GetCatalogValue"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Document. Renvoie la valeur de l'élément du dictionnaire du catalogue"
 type: docs
-weight: 670
+weight: 690
 url: /fr/net/aspose.pdf/document/getcatalogvalue/
 ---
-## Méthode Document.GetCatalogValue
+## Document.GetCatalogValue method
 
-Renvoie la valeur de l'élément du dictionnaire de catalogues.
+Renvoie la valeur de l'élément du dictionnaire du catalogue.
 
 ```csharp
 public object GetCatalogValue(string key)
@@ -16,7 +16,7 @@ public object GetCatalogValue(string key)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| key | String | La clé de l'élément. |
+| clé | String | La clé de l'élément. |
 
 ### Valeur de retour
 
@@ -24,6 +24,8 @@ Valeur de l'élément - si la clé a été trouvée avec succès ; sinon, null.
 
 ### Voir aussi
 
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TextExtractionError.Description
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextExtractionError. Description détaillée de l'erreur
+title: "TextExtractionError.Description"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextExtractionError. Description détaillée de l'erreur"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.text/textextractionerror/description/
 ---
-## Propriété TextExtractionError.Description
+## TextExtractionError.Description property
 
 Description détaillée de l'erreur.
 
@@ -16,6 +16,8 @@ public string Description { get; }
 
 ### Voir aussi
 
-* classe [TextExtractionError](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextExtractionError](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

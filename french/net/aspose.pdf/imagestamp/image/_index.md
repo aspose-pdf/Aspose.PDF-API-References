@@ -1,14 +1,14 @@
 ---
-title: ImageStamp.Image
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ImageStamp. Obtient le flux d'image utilisé pour le tamponnage
+title: "ImageStamp.Image"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ImageStamp. Obtient le flux d'image utilisé pour le tamponnage"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/imagestamp/image/
 ---
-## Propriété ImageStamp.Image
+## ImageStamp.Image property
 
-Obtient le flux d'image utilisé pour le tamponnage.
+Obtient le flux d’image utilisé pour le tamponnage.
 
 ```csharp
 public Stream Image { get; }
@@ -16,6 +16,8 @@ public Stream Image { get; }
 
 ### Voir aussi
 
-* classe [ImageStamp](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [ImageStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

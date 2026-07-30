@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Legal
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSizes. Papier légal 8,5 po par 14 po
+title: "PaperSizes.Legal"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PaperSizes. Papier légal 8,5 po. sur 14 po"
 type: docs
 weight: 630
 url: /fr/net/aspose.pdf.printing/papersizes/legal/
 ---
-## Champ PaperSizes.Legal
+## PaperSizes.Legal field
 
-Papier légal (8,5 po par 14 po).
+Papier Legal (8,5 po x 14 po).
 
 ```csharp
 public static readonly PaperSize Legal;
@@ -16,7 +16,9 @@ public static readonly PaperSize Legal;
 
 ### Voir aussi
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

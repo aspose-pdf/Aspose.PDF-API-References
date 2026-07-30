@@ -1,12 +1,12 @@
 ---
-title: Splitter.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Splitter. Démarre le traitement du Splitter avec les paramètres spécifiés
+title: "Splitter.Process"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Splitter. Démarre le traitement du Splitter avec les paramètres spécifiés"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.plugins/splitter/process/
 ---
-## Méthode Splitter.Process
+## Splitter.Process method
 
 Démarre le traitement du [`Splitter`](../) avec les paramètres spécifiés.
 
@@ -16,7 +16,7 @@ public ResultContainer Process(IPluginOptions options)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| options | IPluginOptions | Un objet d'options contenant des instructions pour le [`Splitter`](../). |
+| options | IPluginOptions | Un objet d'options contenant les instructions pour le [`Splitter`](../). |
 
 ### Valeur de retour
 
@@ -30,8 +30,10 @@ Un objet ResultContainer contenant le résultat de l'opération.
 
 ### Voir aussi
 
-* classe [ResultContainer](../../resultcontainer/)
+* class [ResultContainer](../../resultcontainer/)
 * interface [IPluginOptions](../../ipluginoptions/)
-* classe [Splitter](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [Splitter](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

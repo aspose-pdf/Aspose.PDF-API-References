@@ -1,7 +1,7 @@
 ---
-title: FontEmbeddingException.FontEmbeddingException
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de FontEmbeddingException. Initialise une nouvelle instance de la classe FontEmbeddingException
+title: "FontEmbeddingException.FontEmbeddingException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur FontEmbeddingException. Initialise une nouvelle instance de la classe FontEmbeddingException"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/fontembeddingexception/fontembeddingexception/
@@ -20,8 +20,8 @@ public FontEmbeddingException(string message)
 
 ### Voir aussi
 
-* classe [FontEmbeddingException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FontEmbeddingException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -41,8 +41,8 @@ public FontEmbeddingException(string message, Exception innerException)
 
 ### Voir aussi
 
-* classe [FontEmbeddingException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FontEmbeddingException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -61,6 +61,8 @@ public FontEmbeddingException(Exception innerException)
 
 ### Voir aussi
 
-* classe [FontEmbeddingException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [FontEmbeddingException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

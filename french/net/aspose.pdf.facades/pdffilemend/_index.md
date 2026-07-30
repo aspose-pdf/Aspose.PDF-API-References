@@ -1,14 +1,14 @@
 ---
-title: Class PdfFileMend
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Facades.PdfFileMend. Représente une classe pour ajouter des textes et des images sur les pages d'un document PDF existant
+title: "Classe PdfFileMend"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Facades.PdfFileMend class. Représente une classe permettant d'ajouter du texte et des images sur les pages d'un document PDF existant"
 type: docs
-weight: 4530
+weight: 4650
 url: /fr/net/aspose.pdf.facades/pdffilemend/
 ---
-## Classe PdfFileMend
+## PdfFileMend class
 
-Représente une classe pour ajouter des textes et des images sur les pages d'un document PDF existant.
+Représente une classe pour ajouter du texte et des images sur les pages d'un PDF Document existant.
 
 ```csharp
 public sealed class PdfFileMend : SaveableFacade
@@ -25,9 +25,9 @@ public sealed class PdfFileMend : SaveableFacade
 
 | Nom | Description |
 | --- | --- |
-| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Obtient le document sur lequel la façade travaille. |
-| [IsWordWrap](../../aspose.pdf.facades/pdffilemend/iswordwrap/) { set; } | Définit une valeur booléenne qui indique le retour à la ligne dans les méthodes AddText. Si la valeur est vraie, le texte dans FormattedText sera en retour à la ligne. Par défaut, la valeur est fausse. |
-| [TextPositioningMode](../../aspose.pdf.facades/pdffilemend/textpositioningmode/) { get; set; } | Définit ou obtient la stratégie de positionnement du texte. [`PositioningMode`](../positioningmode/) Le mode par défaut est Héritage. |
+| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Obtient la façade du document sur laquelle travaille. |
+| [IsWordWrap](../../aspose.pdf.facades/pdffilemend/iswordwrap/) { set; } | Définit une valeur booléenne qui indique le retour à la ligne dans les méthodes AddText. Si la valeur est vraie, le texte dans FormattedText sera renvoyé à la ligne. Par défaut, la valeur est fausse. |
+| [TextPositioningMode](../../aspose.pdf.facades/pdffilemend/textpositioningmode/) { get; set; } | Définit ou obtient la stratégie de positionnement du texte. [`PositioningMode`](../positioningmode/) Le mode par défaut est Legacy. |
 | [WrapMode](../../aspose.pdf.facades/pdffilemend/wrapmode/) { get; set; } | Définit ou obtient l'algorithme de retour à la ligne. Voir WordWrapMode et IsWordWrap. |
 
 ## Méthodes
@@ -49,12 +49,14 @@ public sealed class PdfFileMend : SaveableFacade
 | virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Stream) | Initialise la façade. |
 | virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(string) | Initialise la façade. |
 | override [Close](../../aspose.pdf.facades/pdffilemend/close/)() | Ferme l'objet PdfFileMend. |
-| [Dispose](../../aspose.pdf.facades/facade/dispose/)() | Dispose la façade. |
+| [Dispose](../../aspose.pdf.facades/facade/dispose/)() | Libère la façade. |
 | override [Save](../../aspose.pdf.facades/pdffilemend/save/#save)(Stream) | Enregistre le document PDF dans le flux spécifié. |
 | override [Save](../../aspose.pdf.facades/pdffilemend/save/#save_1)(string) | Enregistre le document PDF dans le fichier spécifié. |
 
 ### Voir aussi
 
-* classe [SaveableFacade](../saveablefacade/)
-* espace de noms [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* class [SaveableFacade](../saveablefacade/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

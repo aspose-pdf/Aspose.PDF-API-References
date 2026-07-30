@@ -1,12 +1,12 @@
 ---
-title: TeXSaveOptions.ClearFontEncs
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TeXSaveOptions. Efface la liste des encodages de police
+title: "TeXSaveOptions.ClearFontEncs"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TeXSaveOptions. Efface la liste des encodages de police"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf/texsaveoptions/clearfontencs/
 ---
-## Méthode TeXSaveOptions.ClearFontEncs
+## TeXSaveOptions.ClearFontEncs method
 
 Efface la liste des encodages de police
 
@@ -16,6 +16,8 @@ public void ClearFontEncs()
 
 ### Voir aussi
 
-* classe [TeXSaveOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [TeXSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

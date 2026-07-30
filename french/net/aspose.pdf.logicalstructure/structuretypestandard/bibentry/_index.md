@@ -1,16 +1,16 @@
 ---
-title: StructureTypeStandard.BibEntry
-second_title: Aspose.PDF for .NET API Reference
-description: Champ StructureTypeStandard. Entrée de bibliographie Une référence identifiant la source externe de certains contenus cités. Elle peut contenir une structure de label type Lbl en tant qu'enfant
+title: "StructureTypeStandard.BibEntry"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "StructureTypeStandard champ. Entrée de bibliographie Une référence identifiant la source externe d'un contenu cité. Elle peut contenir un type de structure d'étiquette Lbl comme enfant"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.logicalstructure/structuretypestandard/bibentry/
 ---
-## Champ StructureTypeStandard.BibEntry
+## StructureTypeStandard.BibEntry field
 
-(Entrée de bibliographie) Une référence identifiant la source externe de certains contenus cités. Elle peut contenir un label (type de structure Lbl) en tant qu'enfant.
+(Bibliography entry) Une référence identifiant la source externe d’un contenu cité. Elle peut contenir une étiquette (type de structure Lbl) en tant qu’enfant.
 
-Bien qu'une entrée de bibliographie inclue probablement des parties composantes identifiant l'auteur, l'œuvre, l'éditeur, etc. du contenu cité, aucun type de structure standard n'est défini à ce niveau de détail.
+Bien qu'une entrée de bibliographie soit susceptible d'inclure des parties composantes identifiant l'auteur, l'œuvre, l'éditeur du contenu cité, etc., aucun type de structure standard n'est défini à ce niveau de détail.
 
 ```csharp
 public static readonly StructureTypeStandard BibEntry;
@@ -18,6 +18,8 @@ public static readonly StructureTypeStandard BibEntry;
 
 ### Voir aussi
 
-* classe [StructureTypeStandard](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

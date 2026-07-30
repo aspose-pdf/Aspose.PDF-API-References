@@ -1,7 +1,7 @@
 ---
-title: InvalidCgmFileFormatException.InvalidCgmFileFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de InvalidCgmFileFormatException. Initialise une nouvelle instance de la classe InvalidCgmFileFormatException
+title: "InvalidCgmFileFormatException.InvalidCgmFileFormatException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur InvalidCgmFileFormatException. Initialise une nouvelle instance de la classe InvalidCgmFileFormatException"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/invalidcgmfileformatexception/invalidcgmfileformatexception/
@@ -16,8 +16,8 @@ public InvalidCgmFileFormatException()
 
 ### Voir aussi
 
-* classe [InvalidCgmFileFormatException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [InvalidCgmFileFormatException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -36,8 +36,8 @@ public InvalidCgmFileFormatException(string message)
 
 ### Voir aussi
 
-* classe [InvalidCgmFileFormatException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [InvalidCgmFileFormatException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -57,8 +57,8 @@ public InvalidCgmFileFormatException(string message, Exception innerException)
 
 ### Voir aussi
 
-* classe [InvalidCgmFileFormatException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [InvalidCgmFileFormatException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -77,6 +77,8 @@ public InvalidCgmFileFormatException(Exception innerException)
 
 ### Voir aussi
 
-* classe [InvalidCgmFileFormatException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [InvalidCgmFileFormatException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

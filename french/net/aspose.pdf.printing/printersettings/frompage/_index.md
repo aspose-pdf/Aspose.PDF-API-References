@@ -1,12 +1,12 @@
 ---
-title: PrinterSettings.FromPage
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PrinterSettings. Obtient ou définit la première page à imprimer
+title: "PrinterSettings.FromPage"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PrinterSettings. Obtient ou définit la première page à imprimer."
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.printing/printersettings/frompage/
 ---
-## Propriété PrinterSettings.FromPage
+## PrinterSettings.FromPage property
 
 Obtient ou définit la première page à imprimer.
 
@@ -16,6 +16,8 @@ public int FromPage { get; set; }
 
 ### Voir aussi
 
-* classe [PrinterSettings](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PrinterSettings](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

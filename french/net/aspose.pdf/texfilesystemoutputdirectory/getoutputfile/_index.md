@@ -1,12 +1,12 @@
 ---
-title: TeXFileSystemOutputDirectory.GetOutputFile
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TeXFileSystemOutputDirectory. Renvoie le flux à écrire
+title: "TeXFileSystemOutputDirectory.GetOutputFile"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TeXFileSystemOutputDirectory. Retourne le flux d'écriture"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/texfilesystemoutputdirectory/getoutputfile/
 ---
-## Méthode TeXFileSystemOutputDirectory.GetOutputFile
+## TeXFileSystemOutputDirectory.GetOutputFile method
 
 Renvoie le flux à écrire.
 
@@ -25,6 +25,8 @@ Le flux.
 
 ### Voir aussi
 
-* classe [TeXFileSystemOutputDirectory](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [TeXFileSystemOutputDirectory](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

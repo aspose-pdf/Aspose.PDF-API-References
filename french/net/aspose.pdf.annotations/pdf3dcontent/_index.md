@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DContent
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.PDF3DContent. Classe PDF3DContent
+title: "Class PDF3DContent"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.PDF3DContent class. Classe PDF3DContent"
 type: docs
-weight: 2170
+weight: 2260
 url: /fr/net/aspose.pdf.annotations/pdf3dcontent/
 ---
-## Classe PDF3DContent
+## PDF3DContent class
 
 Classe PDF3DContent.
 
@@ -25,7 +25,7 @@ public class PDF3DContent
 
 | Nom | Description |
 | --- | --- |
-| [Extension](../../aspose.pdf.annotations/pdf3dcontent/extension/) { get; } | Obtient l'extension. |
+| [Extension](../../aspose.pdf.annotations/pdf3dcontent/extension/) { get; } | Obtient l'extension . |
 
 ## Méthodes
 
@@ -44,5 +44,7 @@ public class PDF3DContent
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PDF3DCrossSection.Center
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PDF3DCrossSection. Obtient ou définit le centre de rotation de la section transversale
+title: "PDF3DCrossSection.Center"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PDF3DCrossSection. Obtient ou définit le centre de rotation de la section transversale"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.annotations/pdf3dcrosssection/center/
 ---
-## Propriété PDF3DCrossSection.Center
+## PDF3DCrossSection.Center property
 
 Obtient ou définit le centre de rotation de la section transversale.
 
@@ -14,13 +14,15 @@ Obtient ou définit le centre de rotation de la section transversale.
 public Point3D Center { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 Le centre.
 
 ### Voir aussi
 
-* classe [Point3D](../../../aspose.pdf/point3d/)
-* classe [PDF3DCrossSection](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Point3D](../../../aspose.pdf/point3d/)
+* class [PDF3DCrossSection](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

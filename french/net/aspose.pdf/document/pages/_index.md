@@ -1,14 +1,14 @@
 ---
-title: Document.Pages
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Document. Obtient ou définit la collection des pages du document. Notez que les pages sont numérotées à partir de 1 dans la collection
+title: "Document.Pages"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Document propriété. Obtient ou définit la collection de pages du document. Notez que les pages sont numérotées à partir de 1 dans la collection"
 type: docs
-weight: 470
+weight: 490
 url: /fr/net/aspose.pdf/document/pages/
 ---
-## Propriété Document.Pages
+## Document.Pages property
 
-Obtient ou définit la collection des pages du document. Notez que les pages sont numérotées à partir de 1 dans la collection.
+Obtient ou définit la collection de pages du document. Notez que les pages sont numérotées à partir de 1 dans la collection.
 
 ```csharp
 public PageCollection Pages { get; }
@@ -16,7 +16,7 @@ public PageCollection Pages { get; }
 
 ## Exemples
 
-L'exemple ci-dessous démontre comment opérer avec les pages du document : Comment obtenir le nombre de pages et comment obtenir le rectangle de la page de départ du document.
+L'exemple ci-dessous montre comment manipuler les pages du document : comment obtenir le nombre de pages et comment obtenir le rectangle de la première page du document.
 
 ```csharp
 Aspose.Pdf.Document document = new Aspose.Pdf.Document("sample.pdf");
@@ -28,7 +28,9 @@ Rectangle rect = page.Rect;
 
 ### Voir aussi
 
-* classe [PageCollection](../../pagecollection/)
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageCollection](../../pagecollection/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

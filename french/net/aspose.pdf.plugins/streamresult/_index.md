@@ -1,14 +1,14 @@
 ---
-title: Class StreamResult
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.StreamResult. Représente le résultat d'une opération sous la forme d'un flux
+title: "Classe StreamResult"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Plugins.StreamResult classe. Représente le résultat d'une opération sous forme de Stream."
 type: docs
-weight: 9300
+weight: 9450
 url: /fr/net/aspose.pdf.plugins/streamresult/
 ---
-## Classe StreamResult
+## StreamResult class
 
-Représente le résultat d'une opération sous la forme d'un flux.
+Représente le résultat de l'opération sous forme de Stream.
 
 ```csharp
 public sealed class StreamResult : IOperationResult
@@ -27,11 +27,13 @@ public sealed class StreamResult : IOperationResult
 
 | Nom | Description |
 | --- | --- |
-| [ToFile](../../aspose.pdf.plugins/streamresult/tofile/)() | Essaie de convertir le résultat en un fichier. |
-| [ToStream](../../aspose.pdf.plugins/streamresult/tostream/)() | Essaie de convertir le résultat en un objet flux. |
+| [ToFile](../../aspose.pdf.plugins/streamresult/tofile/)() | Tente de convertir le résultat en fichier. |
+| [ToStream](../../aspose.pdf.plugins/streamresult/tostream/)() | Tente de convertir le résultat en objet flux. |
 
 ### Voir aussi
 
 * interface [IOperationResult](../ioperationresult/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class Bookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Facades.Bookmarks. Représente une collection d'objets Signet
+title: "Classe Bookmarks"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Facades.Bookmarks. Représente une collection d'objets Bookmark."
 type: docs
-weight: 4200
+weight: 4320
 url: /fr/net/aspose.pdf.facades/bookmarks/
 ---
-## Classe Signets
+## Bookmarks class
 
 Représente une collection d'objets [`Bookmark`](../bookmark/).
 
@@ -22,6 +22,8 @@ public sealed class Bookmarks : List<Bookmark>
 
 ### Voir aussi
 
-* classe [Bookmark](../bookmark/)
-* espace de noms [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* class [Bookmark](../bookmark/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

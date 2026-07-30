@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.GetFaceColor
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PDF3DRenderMode. Obtient la couleur de la face
+title: "PDF3DRenderMode.GetFaceColor"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PDF3DRenderMode. Obtient la couleur de la face"
 type: docs
 weight: 190
 url: /fr/net/aspose.pdf.annotations/pdf3drendermode/getfacecolor/
 ---
-## Méthode PDF3DRenderMode.GetFaceColor
+## PDF3DRenderMode.GetFaceColor method
 
 Obtient la couleur de la face.
 
@@ -16,10 +16,12 @@ public object GetFaceColor()
 
 ### Valeur de retour
 
-Objet.
+Object.
 
 ### Voir aussi
 
-* classe [PDF3DRenderMode](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DRenderMode](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

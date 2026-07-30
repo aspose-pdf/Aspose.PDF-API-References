@@ -1,14 +1,14 @@
 ---
-title: Class SetCMYKColor
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.SetCMYKColor. Classe représentant l'opérateur k définissant la couleur CMYK pour les opérations non traçantes
+title: "Classe SetCMYKColor"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.SetCMYKColor classe. Classe représentant l'opérateur k qui définit la couleur CMYK pour les opérations sans tracé"
 type: docs
-weight: 7580
+weight: 7720
 url: /fr/net/aspose.pdf.operators/setcmykcolor/
 ---
-## Classe SetCMYKColor
+## SetCMYKColor class
 
-Classe représentant l'opérateur k (définir la couleur CMYK pour les opérations non traçantes).
+Classe représentant l'opérateur k (définit la couleur CMYK pour les opérations sans tracé).
 
 ```csharp
 public class SetCMYKColor : SetColorOperator
@@ -34,13 +34,15 @@ public class SetCMYKColor : SetColorOperator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcmykcolor/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/setcmykcolor/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [getColor](../../aspose.pdf.operators/setcmykcolor/getcolor/)() | Renvoie la couleur. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Renvoie le texte de l'opérateur et de ses paramètres. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Renvoie le texte de l'opérateur et ses paramètres. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [SetColorOperator](../setcoloroperator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [SetColorOperator](../setcoloroperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

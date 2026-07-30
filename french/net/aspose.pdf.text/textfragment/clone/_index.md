@@ -1,14 +1,14 @@
 ---
-title: TextFragment.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TextFragment. Cloner le fragment
+title: "TextFragment.Clone"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TextFragment. Clone le fragment"
 type: docs
 weight: 180
 url: /fr/net/aspose.pdf.text/textfragment/clone/
 ---
-## Méthode TextFragment.Clone
+## TextFragment.Clone method
 
-Cloner le fragment.
+Clone le fragment.
 
 ```csharp
 public override object Clone()
@@ -20,6 +20,8 @@ L'objet cloné
 
 ### Voir aussi
 
-* classe [TextFragment](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextFragment](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

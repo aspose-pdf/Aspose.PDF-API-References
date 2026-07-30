@@ -1,12 +1,12 @@
 ---
-title: Graph.Graph
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de Graph. Initialise une nouvelle instance de la classe Graph
+title: "Graph.Graph"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur Graph. Initialise une nouvelle instance de la classe Graph"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.drawing/graph/graph/
 ---
-## Constructeur de Graph
+## Graph constructor
 
 Initialise une nouvelle instance de la classe [`Graph`](../).
 
@@ -16,11 +16,13 @@ public Graph(double width, double height)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| width | Double | La largeur du graphique. |
-| height | Double | La hauteur du graphique. |
+| largeur | Double | La largeur du graphique. |
+| hauteur | Double | La hauteur du graphique. |
 
 ### Voir aussi
 
-* classe [Graph](../)
-* espace de noms [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
+* class [Graph](../)
+* namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

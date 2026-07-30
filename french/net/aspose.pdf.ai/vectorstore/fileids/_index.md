@@ -1,14 +1,14 @@
 ---
-title: VectorStore.FileIds
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété VectorStore. Obtient ou définit une liste d'ID de fichiers à ajouter au magasin de vecteurs. Il peut y avoir un maximum de 10000 fichiers dans un magasin de vecteurs
+title: "VectorStore.FileIds"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "VectorStore property. Obtient ou définit une liste d'ID de fichiers à ajouter au magasin de vecteurs. Un magasin de vecteurs peut contenir au maximum 10 000 fichiers."
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.ai/vectorstore/fileids/
 ---
-## Propriété VectorStore.FileIds
+## VectorStore.FileIds property
 
-Obtient ou définit une liste d'ID de fichiers à ajouter au magasin de vecteurs. Il peut y avoir un maximum de 10000 fichiers dans un magasin de vecteurs.
+Obtient ou définit une liste d'ID de fichiers à ajouter au magasin de vecteurs. Un magasin de vecteurs peut contenir au maximum 10 000 fichiers.
 
 ```csharp
 public List<string> FileIds { get; set; }
@@ -16,6 +16,8 @@ public List<string> FileIds { get; set; }
 
 ### Voir aussi
 
-* classe [VectorStore](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStore](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

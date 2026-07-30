@@ -1,14 +1,14 @@
 ---
-title: Font.IsSubset
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la police. Obtient ou définit une valeur qui indique si la police est un sous-ensemble. La police basée sur IFont sera automatiquement un sous-ensemble et intégrée
+title: "Font.IsSubset"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Font. Obtient ou définit une valeur indiquant si la police est un sous-ensemble. Font basé sur IFont sera automatiquement sous-ensemble et incorporé"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.text/font/issubset/
 ---
-## Propriété Font.IsSubset
+## Font.IsSubset property
 
-Obtient ou définit une valeur qui indique si la police est un sous-ensemble. La police basée sur IFont sera automatiquement un sous-ensemble et intégrée
+Obtient ou définit une valeur indiquant si la police est un sous‑ensemble. Une police basée sur IFont sera automatiquement sous‑ensemble et incorporée.
 
 ```csharp
 public bool IsSubset { get; set; }
@@ -16,27 +16,29 @@ public bool IsSubset { get; set; }
 
 ## Exemples
 
-L'exemple démontre comment rechercher du texte sur la première page et obtenir la valeur qui indique si la police est un sous-ensemble.
+L'exemple montre comment rechercher du texte sur la première page et obtenir la valeur indiquant si la police est un sous-ensemble.
 
 ```csharp
-// Open document
+// Ouvrir le document
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Créer l'objet TextFragmentAbsorber pour trouver toutes les occurrences du texte "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Accepter l'absorbeur pour la première page
 doc.Pages[1].Accept(absorber);
 
-// View font's IsSubset value of first text occurrence
+// Afficher la valeur IsSubset de la police de la première occurrence de texte
 if(absorber.TextFragments[1].TextState.Font.IsSubset)
    Console.Out.WriteLine("the font is a subset");
 ```
 
 ### Voir aussi
 
-* classe [TextFragmentAbsorber](../../textfragmentabsorber/)
-* classe [Document](../../../aspose.pdf/document/)
-* classe [Font](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [Document](../../../aspose.pdf/document/)
+* class [Font](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

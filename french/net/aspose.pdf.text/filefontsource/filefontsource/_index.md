@@ -1,12 +1,12 @@
 ---
-title: FileFontSource.FileFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de FileFontSource. Initialise une nouvelle instance de la classe FileFontSource
+title: "FileFontSource.FileFontSource"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur FileFontSource. Initialise une nouvelle instance de la classe FileFontSource"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.text/filefontsource/filefontsource/
 ---
-## Constructeur de FileFontSource
+## FileFontSource constructor
 
 Initialise une nouvelle instance de la classe [`FileFontSource`](../).
 
@@ -16,10 +16,12 @@ public FileFontSource(string filePath)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| filePath | String | Chemin vers le fichier de police. |
+| filePath | String | Chemin du fichier de police. |
 
 ### Voir aussi
 
-* classe [FileFontSource](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [FileFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

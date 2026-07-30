@@ -1,7 +1,7 @@
 ---
-title: InvalidFormTypeOperationException.InvalidFormTypeOperationException
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de InvalidFormTypeOperationException. Initialise une nouvelle instance de la classe InvalidFormTypeOperationException
+title: "InvalidFormTypeOperationException.InvalidFormTypeOperationException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur InvalidFormTypeOperationException. Initialise une nouvelle instance de la classe InvalidFormTypeOperationException"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/invalidformtypeoperationexception/invalidformtypeoperationexception/
@@ -16,8 +16,8 @@ public InvalidFormTypeOperationException()
 
 ### Voir aussi
 
-* classe [InvalidFormTypeOperationException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [InvalidFormTypeOperationException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -36,15 +36,15 @@ public InvalidFormTypeOperationException(string message)
 
 ### Voir aussi
 
-* classe [InvalidFormTypeOperationException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [InvalidFormTypeOperationException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## InvalidFormTypeOperationException(string, Exception) {#constructor_3}
 
-Initialise une nouvelle instance de la classe [`InvalidFormTypeOperationException`](../) avec un message d'erreur spécifié et une référence à l'exception interne qui est la cause de cette exception.
+Initialise une nouvelle instance de la classe [`InvalidFormTypeOperationException`](../) avec un message d’erreur spécifié et une référence à l’exception interne qui est la cause de cette exception.
 
 ```csharp
 public InvalidFormTypeOperationException(string message, Exception innerException)
@@ -57,15 +57,15 @@ public InvalidFormTypeOperationException(string message, Exception innerExceptio
 
 ### Voir aussi
 
-* classe [InvalidFormTypeOperationException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [InvalidFormTypeOperationException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## InvalidFormTypeOperationException(Exception) {#constructor_1}
 
-Initialise une nouvelle instance de la classe [`InvalidFormTypeOperationException`](../) avec une référence à l'exception interne qui est la cause de cette exception.
+Initialise une nouvelle instance de la classe [`InvalidFormTypeOperationException`](../) avec une référence à l’exception interne qui est la cause de cette exception.
 
 ```csharp
 public InvalidFormTypeOperationException(Exception innerException)
@@ -77,6 +77,8 @@ public InvalidFormTypeOperationException(Exception innerException)
 
 ### Voir aussi
 
-* classe [InvalidFormTypeOperationException](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [InvalidFormTypeOperationException](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

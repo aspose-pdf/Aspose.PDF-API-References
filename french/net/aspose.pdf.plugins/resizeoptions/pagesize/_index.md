@@ -1,12 +1,12 @@
 ---
-title: ResizeOptions.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ResizeOptions. Obtient ou définit la nouvelle taille de page
+title: "ResizeOptions.PageSize"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ResizeOptions. Obtient ou définit la nouvelle taille de page"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.plugins/resizeoptions/pagesize/
 ---
-## Propriété ResizeOptions.PageSize
+## ResizeOptions.PageSize property
 
 Obtient ou définit la nouvelle taille de page.
 
@@ -16,7 +16,9 @@ public PageSize PageSize { get; set; }
 
 ### Voir aussi
 
-* classe [PageSize](../../../aspose.pdf/pagesize/)
-* classe [ResizeOptions](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [ResizeOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

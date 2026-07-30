@@ -1,14 +1,14 @@
 ---
-title: Form.GetButtonOptionCurrentValue
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Form. Renvoie la valeur actuelle pour les champs d'option de bouton radio
+title: "Form.GetButtonOptionCurrentValue"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Form. Retourne la valeur actuelle des champs d'options de bouton radio"
 type: docs
 weight: 180
 url: /fr/net/aspose.pdf.facades/form/getbuttonoptioncurrentvalue/
 ---
-## Méthode Form.GetButtonOptionCurrentValue
+## Form.GetButtonOptionCurrentValue method
 
-Renvoie la valeur actuelle pour les champs d'option de bouton radio.
+Renvoie la valeur actuelle des champs d'option de bouton radio.
 
 ```csharp
 public string GetButtonOptionCurrentValue(string fieldName)
@@ -20,7 +20,7 @@ public string GetButtonOptionCurrentValue(string fieldName)
 
 ### Valeur de retour
 
-Valeur de chaîne pour le groupe radio actuel. Voir aussi [`GetButtonOptionValues`](../getbuttonoptionvalues/)
+Valeur chaîne pour l'optino du groupe radio actuel. Voir aussi [`GetButtonOptionValues`](../getbuttonoptionvalues/)
 
 ## Exemples
 
@@ -31,6 +31,8 @@ Console.WriteLine(form.GetButtonOptionCurrentValue("btnField"));
 
 ### Voir aussi
 
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfAnnotationEditor.DeleteAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfAnnotationEditor. Supprime l'annotation avec le nom d'annotation spécifié
+title: "PdfAnnotationEditor.DeleteAnnotation"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfAnnotationEditor. Supprime l'annotation avec le nom d'annotation spécifié"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.facades/pdfannotationeditor/deleteannotation/
 ---
-## Méthode PdfAnnotationEditor.DeleteAnnotation
+## PdfAnnotationEditor.DeleteAnnotation method
 
 Supprime l'annotation avec le nom d'annotation spécifié.
 
@@ -29,6 +29,8 @@ editor.Save("example_out.pdf");
 
 ### Voir aussi
 
-* classe [PdfAnnotationEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfAnnotationEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

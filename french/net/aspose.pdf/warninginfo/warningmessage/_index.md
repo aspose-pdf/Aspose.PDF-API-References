@@ -1,12 +1,12 @@
 ---
-title: WarningInfo.WarningMessage
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété WarningInfo. Renvoie la représentation sous forme de chaîne du message d'avertissement
+title: "WarningInfo.WarningMessage"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété WarningInfo. Retourne la représentation sous forme de chaîne du message d'avertissement"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/warninginfo/warningmessage/
 ---
-## Propriété WarningInfo.WarningMessage
+## WarningInfo.WarningMessage property
 
 Renvoie la représentation sous forme de chaîne du message d'avertissement.
 
@@ -20,6 +20,8 @@ le message d'avertissement
 
 ### Voir aussi
 
-* classe [WarningInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [WarningInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

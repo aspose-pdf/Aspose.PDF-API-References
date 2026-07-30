@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.AlignLeft
-second_title: Aspose.PDF for .NET API Reference
-description: Champ FormFieldFacade. Définit l'alignement au style gauche
+title: "FormFieldFacade.AlignLeft"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "FormFieldFacade field. Définit l'alignement à gauche"
 type: docs
 weight: 240
 url: /fr/net/aspose.pdf.facades/formfieldfacade/alignleft/
 ---
-## Champ FormFieldFacade.AlignLeft
+## FormFieldFacade.AlignLeft field
 
 Définit l'alignement au style gauche.
 
@@ -16,6 +16,8 @@ public const int AlignLeft;
 
 ### Voir aussi
 
-* classe [FormFieldFacade](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

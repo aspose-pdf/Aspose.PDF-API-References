@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.CreateThreadMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode IOpenAIClient. Crée un nouveau message dans un fil de discussion de manière asynchrone
+title: "IOpenAIClient.CreateThreadMessageAsync"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "IOpenAIClient méthode. Crée un nouveau message dans un fil de discussion de manière asynchrone"
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.ai/iopenaiclient/createthreadmessageasync/
 ---
-## Méthode IOpenAIClient.CreateThreadMessageAsync
+## IOpenAIClient.CreateThreadMessageAsync method
 
-Crée un nouveau message dans un fil de discussion de manière asynchrone.
+Crée un nouveau message dans un fil de façon asynchrone.
 
 ```csharp
 public Task<ThreadMessageResponse> CreateThreadMessageAsync(string threadId, 
@@ -17,8 +17,8 @@ public Task<ThreadMessageResponse> CreateThreadMessageAsync(string threadId,
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| threadId | String | L'ID du fil de discussion où le message sera créé. |
-| threadMessageRequest | ThreadMessageCreateRequest | Les détails de la demande pour créer le message. |
+| threadId | String | L'ID du fil où le message sera créé. |
+| threadMessageRequest | ThreadMessageCreateRequest | Les détails de la requête pour créer le message. |
 | cancellationToken | Nullable`1 | Un jeton pour annuler l'opération. |
 
 ### Valeur de retour
@@ -29,12 +29,14 @@ Une tâche qui représente l'opération asynchrone. Le résultat de la tâche co
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Lancé lorsque l'ID du fil est nul ou vide. |
+| [AIClientException](../../aiclientexception/) | Lancée lorsque l'ID du fil est nul ou vide. |
 
 ### Voir aussi
 
-* classe [ThreadMessageResponse](../../threadmessageresponse/)
-* classe [ThreadMessageCreateRequest](../../threadmessagecreaterequest/)
+* class [ThreadMessageResponse](../../threadmessageresponse/)
+* class [ThreadMessageCreateRequest](../../threadmessagecreaterequest/)
 * interface [IOpenAIClient](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

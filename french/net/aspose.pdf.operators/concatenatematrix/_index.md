@@ -1,14 +1,14 @@
 ---
-title: Class ConcatenateMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.ConcatenateMatrix. Classe représentant l'opérateur cm qui concatène la matrice à la matrice de transformation actuelle
+title: "Classe ConcatenateMatrix"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.ConcatenateMatrix class. Classe représentant l'opérateur cm qui concatène une matrice à la matrice de transformation courante."
 type: docs
-weight: 7230
+weight: 7370
 url: /fr/net/aspose.pdf.operators/concatenatematrix/
 ---
-## Classe ConcatenateMatrix
+## ConcatenateMatrix class
 
-Classe représentant l'opérateur cm (concaténer la matrice à la matrice de transformation actuelle).
+Classe représentant l'opérateur cm (concatenate matrix to current transformation matrix).
 
 ```csharp
 public class ConcatenateMatrix : Operator
@@ -18,7 +18,7 @@ public class ConcatenateMatrix : Operator
 
 | Nom | Description |
 | --- | --- |
-| [ConcatenateMatrix](concatenatematrix/#constructor)(Matrix) | Initialise l'opérateur par matrice. |
+| [ConcatenateMatrix](concatenatematrix/#constructor)(Matrix) | Initialise l'opérateur avec une matrice. |
 | [ConcatenateMatrix](concatenatematrix/#constructor_1)(double, double, double, double, double, double) | Initialise l'opérateur. |
 
 ## Propriétés
@@ -32,12 +32,14 @@ public class ConcatenateMatrix : Operator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/concatenatematrix/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/concatenatematrix/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf.operators/concatenatematrix/tostring/)() | Renvoie la représentation textuelle de l'opérateur. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [Operator](../../aspose.pdf/operator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FolderFontSource.FolderFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de FolderFontSource. Initialise une nouvelle instance de la classe FolderFontSource
+title: "FolderFontSource.FolderFontSource"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur FolderFontSource. Initialise une nouvelle instance de la classe FolderFontSource"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.text/folderfontsource/folderfontsource/
 ---
-## Constructeur de FolderFontSource
+## FolderFontSource constructor
 
 Initialise une nouvelle instance de la classe [`FolderFontSource`](../).
 
@@ -20,6 +20,8 @@ public FolderFontSource(string folderPath)
 
 ### Voir aussi
 
-* classe [FolderFontSource](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [FolderFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

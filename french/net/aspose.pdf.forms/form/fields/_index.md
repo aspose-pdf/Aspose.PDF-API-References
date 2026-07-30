@@ -1,12 +1,12 @@
 ---
-title: Form.Fields
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Form. Obtient la liste de tous les champs au niveau le plus bas du formulaire hiérarchique
+title: "Form.Fields"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Form. Obtient la liste de tous les champs au niveau le plus bas du formulaire hiérarchique."
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf.forms/form/fields/
 ---
-## Propriété Form.Fields
+## Form.Fields property
 
 Obtient la liste de tous les champs au niveau le plus bas du formulaire hiérarchique.
 
@@ -16,7 +16,9 @@ public Field[] Fields { get; }
 
 ### Voir aussi
 
-* classe [Field](../../field/)
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Field](../../field/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

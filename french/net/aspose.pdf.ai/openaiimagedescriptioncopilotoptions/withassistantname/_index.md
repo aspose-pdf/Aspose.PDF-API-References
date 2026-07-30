@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithAssistantName
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OpenAIImageDescriptionCopilotOptions. Définit le nom de l'assistant pour les options de copilote de description d'image
+title: "OpenAIImageDescriptionCopilotOptions.WithAssistantName"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "OpenAIImageDescriptionCopilotOptions méthode. Définit le nom de l'assistant pour les options du copilote de description d'image"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withassistantname/
 ---
-## Méthode OpenAIImageDescriptionCopilotOptions.WithAssistantName
+## OpenAIImageDescriptionCopilotOptions.WithAssistantName method
 
-Définit le nom de l'assistant pour les options de copilote de description d'image.
+Définit le nom de l'assistant pour les options du copilot de description d'image.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithAssistantName(string assistantName)
@@ -16,7 +16,7 @@ public OpenAIImageDescriptionCopilotOptions WithAssistantName(string assistantNa
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| assistantName | String | Le nom de l'assistant à définir. |
+| assistantName | String | Le nom de l’assistant à définir. |
 
 ### Valeur de retour
 
@@ -24,6 +24,8 @@ L'instance actuelle de [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [OpenAIImageDescriptionCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIImageDescriptionCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

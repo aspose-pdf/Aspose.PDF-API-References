@@ -1,12 +1,12 @@
 ---
-title: Interface IAdjustPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Interface Aspose.Pdf.Tagged.IAdjustPosition. Interface pour les méthodes de positionnement
+title: "Interface IAdjustPosition"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Tagged.IAdjustPosition interface. Interface pour les méthodes de positionnement"
 type: docs
-weight: 10300
+weight: 10480
 url: /fr/net/aspose.pdf.tagged/iadjustposition/
 ---
-## Interface IAdjustPosition
+## IAdjustPosition interface
 
 Interface pour les méthodes de positionnement.
 
@@ -22,5 +22,7 @@ public interface IAdjustPosition
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Tagged](../../aspose.pdf.tagged/)
+* namespace [Aspose.Pdf.Tagged](../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../)
+
+

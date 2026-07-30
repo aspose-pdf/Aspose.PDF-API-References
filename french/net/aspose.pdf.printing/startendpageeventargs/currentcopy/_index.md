@@ -1,14 +1,14 @@
 ---
-title: StartEndPageEventArgs.CurrentCopy
-second_title: Aspose.PDF for .NET API Reference
-description: Champ StartEndPageEventArgs. Obtient le numéro de la copie actuellement en cours d'impression
+title: "StartEndPageEventArgs.CurrentCopy"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ StartEndPageEventArgs. Obtient le numéro de la copie en cours d'impression"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.printing/startendpageeventargs/currentcopy/
 ---
-## Champ StartEndPageEventArgs.CurrentCopy
+## StartEndPageEventArgs.CurrentCopy field
 
-Obtient le numéro de la copie actuellement en cours d'impression.
+Obtient le numéro de la copie en cours d'impression.
 
 ```csharp
 public readonly int CurrentCopy;
@@ -16,6 +16,8 @@ public readonly int CurrentCopy;
 
 ### Voir aussi
 
-* classe [StartEndPageEventArgs](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [StartEndPageEventArgs](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

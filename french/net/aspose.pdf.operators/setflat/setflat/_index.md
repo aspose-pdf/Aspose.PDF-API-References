@@ -1,12 +1,12 @@
 ---
-title: SetFlat.SetFlat
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur SetFlat. Initialise l'opérateur
+title: "SetFlat.SetFlat"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur SetFlat. Initialise l'opérateur"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.operators/setflat/setflat/
 ---
-## Constructeur SetFlat
+## SetFlat constructor
 
 Initialise l'opérateur.
 
@@ -16,10 +16,12 @@ public SetFlat(double flatness)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| flatness | Double | La valeur de la planéité. |
+| planéité | Double | La valeur de la planéité. |
 
 ### Voir aussi
 
-* classe [SetFlat](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetFlat](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XfdfReader.ReadAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XfdfReader. Importer des annotations à partir d'un fichier XFDF et les placer dans le document
+title: "XfdfReader.ReadAnnotations"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XfdfReader. Importer les annotations du fichier XFDF et les placer dans le document"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.annotations/xfdfreader/readannotations/
 ---
-## Méthode XfdfReader.ReadAnnotations
+## XfdfReader.ReadAnnotations method
 
-Importer des annotations à partir d'un fichier XFDF et les placer dans le document.
+Importe les annotations du fichier XFDF et les place dans le document.
 
 ```csharp
 public static void ReadAnnotations(Stream stream, Document document)
@@ -21,7 +21,9 @@ public static void ReadAnnotations(Stream stream, Document document)
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [XfdfReader](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Document](../../../aspose.pdf/document/)
+* class [XfdfReader](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

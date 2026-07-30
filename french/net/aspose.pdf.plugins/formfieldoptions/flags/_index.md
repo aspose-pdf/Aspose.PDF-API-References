@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.Flags
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FormFieldOptions. Obtient/définit la valeur pour déterminer la propriété Flags pour le champ créé/modifié.
+title: "FormFieldOptions.Flags"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FormFieldOptions. Obtient/Définit la valeur permettant de déterminer la propriété Flags pour le champ créé/modifié lorsqu'elle sera définie"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.plugins/formfieldoptions/flags/
 ---
-## Propriété FormFieldOptions.Flags
+## FormFieldOptions.Flags property
 
-Obtient/définit la valeur pour déterminer la propriété Flags pour le champ créé/modifié (si elle sera définie).
+Obtient/définit la valeur pour déterminer la propriété Flags du champ créé/modifié (si elle sera définie).
 
 ```csharp
 public AnnotationFlags? Flags { get; set; }
@@ -20,3 +20,5 @@ public AnnotationFlags? Flags { get; set; }
 * class [FormFieldOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Form.CalculatedFields
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété du formulaire. Permet de définir l'ordre de calcul des champs
+title: "Form.CalculatedFields"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Form. Permet de définir l'ordre de calcul des champs."
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.forms/form/calculatedfields/
 ---
-## Propriété Form.CalculatedFields
+## Form.CalculatedFields property
 
 Permet de définir l'ordre de calcul des champs.
 
@@ -16,7 +16,9 @@ public IEnumerable<Field> CalculatedFields { set; }
 
 ### Voir aussi
 
-* classe [Field](../../field/)
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Field](../../field/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

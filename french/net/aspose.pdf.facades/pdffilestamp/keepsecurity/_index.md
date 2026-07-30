@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.KeepSecurity
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfFileStamp. Garde la sécurité si vrai. Cette fonctionnalité sera mise en œuvre dans les prochaines versions
+title: "PdfFileStamp.KeepSecurity"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfFileStamp. Conserve la sécurité si vrai. Cette fonctionnalité sera implémentée dans les prochaines versions"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.facades/pdffilestamp/keepsecurity/
 ---
-## Propriété PdfFileStamp.KeepSecurity
+## PdfFileStamp.KeepSecurity property
 
-Garde la sécurité si vrai. (Cette fonctionnalité sera mise en œuvre dans les prochaines versions).
+Conserve la sécurité si vrai. (Cette fonctionnalité sera implémentée dans les prochaines versions).
 
 ```csharp
 public bool KeepSecurity { get; set; }
@@ -16,6 +16,8 @@ public bool KeepSecurity { get; set; }
 
 ### Voir aussi
 
-* classe [PdfFileStamp](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

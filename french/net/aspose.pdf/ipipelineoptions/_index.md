@@ -1,12 +1,12 @@
 ---
-title: Interface IPipelineOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Interface Aspose.Pdf.IPipelineOptions. Définit les options de conversion liées à la configuration du pipeline
+title: "Interface IPipelineOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.IPipelineOptions interface. Définit les options de conversion liées à la configuration du pipeline"
 type: docs
-weight: 5810
+weight: 5940
 url: /fr/net/aspose.pdf/ipipelineoptions/
 ---
-## Interface IPipelineOptions
+## IPipelineOptions interface
 
 Définit les options de conversion liées à la configuration du pipeline.
 
@@ -18,9 +18,11 @@ public interface IPipelineOptions
 
 | Nom | Description |
 | --- | --- |
-| [BatchSize](../../aspose.pdf/ipipelineoptions/batchsize/) { get; set; } | Spécifie la taille d'une portion de pages à passer d'un nœud à l'autre. |
+| [BatchSize](../../aspose.pdf/ipipelineoptions/batchsize/) { get; set; } | Spécifie la taille d'une portion de pages à transmettre d'un nœud à l'autre. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum BoundsCheckMode
-second_title: Aspose.PDF for .NET API Reference
-description: Enum BoundsCheckMode d'Aspose.Pdf.Generator. Spécifie le comportement pour la vérification des limites lors de l'ajout d'éléments à une collection
+title: "Énumération BoundsCheckMode"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Énumération Aspose.Pdf.Generator.BoundsCheckMode. Spécifie le comportement du contrôle des limites lors de l'ajout d'éléments à une collection"
 type: docs
 weight: 5330
 url: /fr/net/aspose.pdf.generator/boundscheckmode/
 ---
-## Énumération BoundsCheckMode
+## BoundsCheckMode enumeration
 
-Spécifie le comportement pour la vérification des limites lors de l'ajout d'éléments à une collection.
+Spécifie le comportement du contrôle des limites lors de l'ajout d'éléments à une collection.
 
 ```csharp
 public enum BoundsCheckMode
@@ -18,10 +18,12 @@ public enum BoundsCheckMode
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| Default | `0` | Comportement par défaut : Ajouter des éléments sans vérification des limites. |
-| ThrowExceptionIfDoesNotFit | `1` | Lancer BoundsNotFitException si un élément ne s'adapte pas aux dimensions du conteneur donné (inclusives). |
+| Default | `0` | Comportement par défaut : ajouter des éléments sans contrôle des limites. |
+| ThrowExceptionIfDoesNotFit | `1` | Lance BoundsNotFitException si un élément ne tient pas dans les dimensions du conteneur donné (incluses). |
 
 ### Voir aussi
 
 * namespace [Aspose.Pdf.Generator](../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: MarginInfo.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété MarginInfo. Obtient ou définit une valeur flottante qui indique la marge supérieure
+title: "MarginInfo.Top"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété MarginInfo. Obtient ou définit une valeur flottante qui indique la marge supérieure"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf/margininfo/top/
 ---
-## Propriété MarginInfo.Top
+## MarginInfo.Top property
 
 Obtient ou définit une valeur flottante qui indique la marge supérieure.
 
@@ -16,6 +16,8 @@ public double Top { get; set; }
 
 ### Voir aussi
 
-* classe [MarginInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [MarginInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

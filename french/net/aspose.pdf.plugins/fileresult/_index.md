@@ -1,14 +1,14 @@
 ---
-title: Class FileResult
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.FileResult. Représente le résultat d'une opération sous la forme d'un chemin de fichier en chaîne
+title: "Classe FileResult"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Plugins.FileResult classe. Représente le résultat de l'opération sous la forme d'un chemin de fichier sous forme de chaîne."
 type: docs
-weight: 8560
+weight: 8690
 url: /fr/net/aspose.pdf.plugins/fileresult/
 ---
-## Classe FileResult
+## FileResult class
 
-Représente le résultat d'une opération sous la forme d'un chemin de fichier en chaîne.
+Représente le résultat de l'opération sous la forme d'un chemin de fichier sous forme de chaîne.
 
 ```csharp
 public sealed class FileResult : IOperationResult
@@ -27,11 +27,13 @@ public sealed class FileResult : IOperationResult
 
 | Nom | Description |
 | --- | --- |
-| [ToFile](../../aspose.pdf.plugins/fileresult/tofile/)() | Essaie de convertir le résultat en un fichier. |
-| [ToStream](../../aspose.pdf.plugins/fileresult/tostream/)() | Essaie de convertir le résultat en un objet de flux. |
+| [ToFile](../../aspose.pdf.plugins/fileresult/tofile/)() | Tente de convertir le résultat en fichier. |
+| [ToStream](../../aspose.pdf.plugins/fileresult/tostream/)() | Tente de convertir le résultat en objet flux. |
 
 ### Voir aussi
 
 * interface [IOperationResult](../ioperationresult/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

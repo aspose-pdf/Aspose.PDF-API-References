@@ -1,14 +1,14 @@
 ---
-title: Enum FieldType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum FieldType d'Aspose.Pdf.Facades. Énumération des types de champs possibles
+title: "Enum FieldType"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Facades.FieldType enum. Énumération des types de champs possibles"
 type: docs
-weight: 4260
+weight: 4380
 url: /fr/net/aspose.pdf.facades/fieldtype/
 ---
-## Énumération FieldType
+## FieldType enumeration
 
-Énumération des types de champs possibles.
+Énumération des types de champ possibles.
 
 ```csharp
 public enum FieldType
@@ -18,12 +18,12 @@ public enum FieldType
 
 | Nom | Valeur | Description |
 | --- | --- | --- |
-| Text | `0` | Champ de texte. |
-| ComboBox | `1` | Champ de boîte combinée. |
-| ListBox | `2` | Champ de boîte de liste. |
-| Radio | `3` | Champ de bouton radio. |
-| CheckBox | `4` | Champ de case à cocher. |
-| PushButton | `5` | Champ de bouton poussoir. |
+| Text | `0` | Champ texte. |
+| ComboBox | `1` | Champ zone combinée. |
+| ListBox | `2` | Champ zone de liste. |
+| Radio | `3` | Champ bouton radio. |
+| CheckBox | `4` | Champ case à cocher. |
+| PushButton | `5` | Champ bouton poussoir. |
 | MultiLineText | `6` | Champ de texte multiligne. |
 | Barcode | `7` | Champ de code-barres. |
 | InvalidNameOrType | `8` | Type de champ invalide. |
@@ -36,3 +36,5 @@ public enum FieldType
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

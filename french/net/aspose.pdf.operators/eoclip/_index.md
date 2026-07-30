@@ -1,14 +1,14 @@
 ---
-title: Class EOClip
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.EOClip. Classe représentant le chemin de découpe de l'opérateur W en utilisant la règle de parité
+title: "Classe EOClip"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.EOClip class. Classe représentant l'opérateur W qui définit le chemin de découpe en utilisant la règle pair-impaire."
 type: docs
-weight: 7310
+weight: 7450
 url: /fr/net/aspose.pdf.operators/eoclip/
 ---
-## Classe EOClip
+## EOClip class
 
-Classe représentant l'opérateur W* (définir le chemin de découpe en utilisant la règle de parité).
+Classe représentant l'opérateur W* (set clipping path using even-odd rule).
 
 ```csharp
 public class EOClip : Operator
@@ -30,12 +30,14 @@ public class EOClip : Operator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/eoclip/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/eoclip/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Renvoie le texte de l'opérateur et ses paramètres. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [Operator](../../aspose.pdf/operator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

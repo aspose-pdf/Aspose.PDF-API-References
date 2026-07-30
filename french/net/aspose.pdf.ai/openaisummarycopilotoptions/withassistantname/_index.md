@@ -1,12 +1,12 @@
 ---
-title: OpenAISummaryCopilotOptions.WithAssistantName
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OpenAISummaryCopilotOptions. Définit le nom de l'assistant pour les options du copilote de résumé
+title: "OpenAISummaryCopilotOptions.WithAssistantName"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode OpenAISummaryCopilotOptions. Définit le nom de l’assistant pour les options du copilote de résumé"
 type: docs
-weight: 50
+weight: 60
 url: /fr/net/aspose.pdf.ai/openaisummarycopilotoptions/withassistantname/
 ---
-## Méthode OpenAISummaryCopilotOptions.WithAssistantName
+## OpenAISummaryCopilotOptions.WithAssistantName method
 
 Définit le nom de l'assistant pour les options du copilote de résumé.
 
@@ -16,14 +16,16 @@ public OpenAISummaryCopilotOptions WithAssistantName(string assistantName)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| assistantName | String | Le nom de l'assistant à définir. |
+| assistantName | String | Le nom de l’assistant à définir. |
 
 ### Valeur de retour
 
-L'instance actuelle de [`OpenAISummaryCopilotOptions`](../).
+L’instance actuelle de [`OpenAISummaryCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [OpenAISummaryCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

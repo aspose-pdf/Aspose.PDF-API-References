@@ -1,7 +1,7 @@
 ---
-title: SetAdvancedColor.SetAdvancedColor
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur SetAdvancedColor. Initialise l'opérateur
+title: "SetAdvancedColor.SetAdvancedColor"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "SetAdvancedColor constructeur. Initialise l'opérateur"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.operators/setadvancedcolor/setadvancedcolor/
@@ -16,8 +16,8 @@ public SetAdvancedColor()
 
 ### Voir aussi
 
-* classe [SetAdvancedColor](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetAdvancedColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -37,8 +37,8 @@ public SetAdvancedColor(double g, string patternName)
 
 ### Voir aussi
 
-* classe [SetAdvancedColor](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetAdvancedColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -57,8 +57,8 @@ public SetAdvancedColor(double g)
 
 ### Voir aussi
 
-* classe [SetAdvancedColor](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetAdvancedColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -80,8 +80,8 @@ public SetAdvancedColor(double r, double g, double b, string patternName)
 
 ### Voir aussi
 
-* classe [SetAdvancedColor](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetAdvancedColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -104,8 +104,8 @@ public SetAdvancedColor(double c, double m, double y, double k, string patternNa
 
 ### Voir aussi
 
-* classe [SetAdvancedColor](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetAdvancedColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -124,8 +124,8 @@ public SetAdvancedColor(string patternName)
 
 ### Voir aussi
 
-* classe [SetAdvancedColor](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetAdvancedColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -141,10 +141,12 @@ public SetAdvancedColor(double[] colors, string patternName)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | patternName | Double[] | Nom du motif. |
-| colors | String | Tableau de couleurs. |
+| couleurs | String | Tableau de couleurs. |
 
 ### Voir aussi
 
-* classe [SetAdvancedColor](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [SetAdvancedColor](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

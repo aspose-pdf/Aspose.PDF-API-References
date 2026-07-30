@@ -1,12 +1,12 @@
 ---
-title: OcspSettings.RequestTimeout
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété OcspSettings. Obtient ou définit la durée du délai d'attente de la requête en millisecondes pour la requête OCSP
+title: "OcspSettings.RequestTimeout"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété OcspSettings. Obtient ou définit la durée du délai d'attente de la requête en millisecondes pour la requête OCSP"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/ocspsettings/requesttimeout/
 ---
-## Propriété OcspSettings.RequestTimeout
+## OcspSettings.RequestTimeout property
 
 Obtient ou définit la durée du délai d'attente de la requête en millisecondes pour la requête OCSP.
 
@@ -16,6 +16,8 @@ public int RequestTimeout { get; set; }
 
 ### Voir aussi
 
-* classe [OcspSettings](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OcspSettings](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

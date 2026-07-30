@@ -1,14 +1,14 @@
 ---
-title: Class DiffOperation
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Comparison.DiffOperation. Représente une classe d'opération de diff
+title: "Classe DiffOperation"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Comparison.DiffOperation class. Représente une classe d'opération de diff"
 type: docs
-weight: 3160
+weight: 3270
 url: /fr/net/aspose.pdf.comparison/diffoperation/
 ---
-## Classe DiffOperation
+## DiffOperation class
 
-Représente une classe d'opération de diff.
+Représente une classe d'opération de différence.
 
 ```csharp
 public class DiffOperation : IEquatable<DiffOperation>
@@ -19,7 +19,7 @@ public class DiffOperation : IEquatable<DiffOperation>
 | Nom | Description |
 | --- | --- |
 | [Operation](../../aspose.pdf.comparison/diffoperation/operation/) { get; } | Obtient et définit le type d'opération. |
-| [Text](../../aspose.pdf.comparison/diffoperation/text/) { get; } | Obtient et définit le texte de l'opération. |
+| [Text](../../aspose.pdf.comparison/diffoperation/text/) { get; } | Obtenir et définir le texte de l'opération. |
 
 ## Méthodes
 
@@ -32,5 +32,7 @@ public class DiffOperation : IEquatable<DiffOperation>
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
+* namespace [Aspose.Pdf.Comparison](../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../)
+
+

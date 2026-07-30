@@ -1,14 +1,14 @@
 ---
-title: XImage.GetRawImageData
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XImage. Récupère les données d'image brutes de l'image source
+title: "XImage.GetRawImageData"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XImage. Récupère les données brutes de l'image à partir de l'image source"
 type: docs
-weight: 120
+weight: 130
 url: /fr/net/aspose.pdf/ximage/getrawimagedata/
 ---
-## Méthode XImage.GetRawImageData
+## XImage.GetRawImageData method
 
-Récupère les données d'image brutes de l'image source.
+Récupère les données brutes de l'image à partir de l'image source.
 
 ```csharp
 public MemoryStream GetRawImageData()
@@ -20,6 +20,8 @@ Un MemoryStream contenant les données d'image originales.
 
 ### Voir aussi
 
-* classe [XImage](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XImage](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

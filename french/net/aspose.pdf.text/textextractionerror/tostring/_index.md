@@ -1,14 +1,14 @@
 ---
-title: TextExtractionError.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TextExtractionError. Renvoie une représentation sous forme de chaîne
+title: "TextExtractionError.ToString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TextExtractionError. Retourne la représentation sous forme de chaîne"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.text/textextractionerror/tostring/
 ---
-## Méthode TextExtractionError.ToString
+## TextExtractionError.ToString method
 
-Renvoie une représentation sous forme de chaîne.
+Renvoie la représentation sous forme de chaîne.
 
 ```csharp
 public override string ToString()
@@ -20,6 +20,8 @@ Représentation sous forme de chaîne.
 
 ### Voir aussi
 
-* classe [TextExtractionError](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextExtractionError](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

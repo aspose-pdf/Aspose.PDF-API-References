@@ -1,12 +1,12 @@
 ---
-title: BitmapInfo.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété BitmapInfo. Obtient la hauteur du bitmap
+title: "BitmapInfo.Height"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété BitmapInfo. Obtient la hauteur du bitmap"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/bitmapinfo/height/
 ---
-## Propriété BitmapInfo.Height
+## BitmapInfo.Height property
 
 Obtient la hauteur du bitmap.
 
@@ -16,6 +16,8 @@ public int Height { get; }
 
 ### Voir aussi
 
-* classe [BitmapInfo](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [BitmapInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

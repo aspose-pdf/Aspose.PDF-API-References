@@ -1,14 +1,14 @@
 ---
-title: Class PdfActionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.PdfActionCollection. La classe décrit une liste d'actions
+title: "Classe PdfActionCollection"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Annotations.PdfActionCollection. Classe décrivant la liste des actions"
 type: docs
-weight: 2280
+weight: 2370
 url: /fr/net/aspose.pdf.annotations/pdfactioncollection/
 ---
-## Classe PdfActionCollection
+## PdfActionCollection class
 
-La classe décrit une liste d'actions.
+La classe décrit la liste des actions.
 
 ```csharp
 public class PdfActionCollection : IEnumerable<PdfAction>
@@ -26,11 +26,13 @@ public class PdfActionCollection : IEnumerable<PdfAction>
 | Nom | Description |
 | --- | --- |
 | [Add](../../aspose.pdf.annotations/pdfactioncollection/add/)(PdfAction) | Ajoute une action à la liste des actions. |
-| [Delete](../../aspose.pdf.annotations/pdfactioncollection/delete/)(int) | Supprime une action par index. |
+| [Delete](../../aspose.pdf.annotations/pdfactioncollection/delete/)(int) | Supprime l'action par index. |
 | [GetEnumerator](../../aspose.pdf.annotations/pdfactioncollection/getenumerator/)() | Obtient l'énumérateur. |
 
 ### Voir aussi
 
-* classe [PdfAction](../pdfaction/)
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* class [PdfAction](../pdfaction/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

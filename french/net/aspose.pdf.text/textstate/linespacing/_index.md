@@ -1,12 +1,12 @@
 ---
-title: TextState.LineSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextState. Obtient ou définit l'espacement des lignes du texte
+title: "TextState.LineSpacing"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextState. Obtient ou définit l'espacement des lignes du texte"
 type: docs
 weight: 120
 url: /fr/net/aspose.pdf.text/textstate/linespacing/
 ---
-## Propriété TextState.LineSpacing
+## TextState.LineSpacing property
 
 Obtient ou définit l'espacement des lignes du texte.
 
@@ -16,10 +16,12 @@ public virtual float LineSpacing { get; set; }
 
 ## Remarques
 
-Notez que la valeur n'est pas préservée en tant que caractéristique de texte dans le document. Le getter de la propriété LineSpacing fonctionne pour un objet s'il a été explicitement défini précédemment avec le setter LineSpacing pour cet objet. La propriété est utilisée par le runtime dans le contexte du processus de génération/modification actuel.
+Notez que la valeur n'est pas conservée comme caractéristique du texte dans le document. Le getter de la propriété LineSpacing fonctionne pour un objet dans le cas où il a été explicitement défini précédemment avec le setter LineSpacing pour cet objet. La propriété est utilisée par le runtime dans le contexte du processus actuel de génération/modification.
 
 ### Voir aussi
 
-* classe [TextState](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

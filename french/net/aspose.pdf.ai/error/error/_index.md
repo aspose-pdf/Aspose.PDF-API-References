@@ -1,12 +1,12 @@
 ---
-title: Error.Error
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur d'erreur. Le constructeur par défaut
+title: "Error.Error"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Error constructeur. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/error/error/
 ---
-## Constructeur d'erreur
+## Error constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public Error()
 
 ### Voir aussi
 
-* classe [Erreur](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Error](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

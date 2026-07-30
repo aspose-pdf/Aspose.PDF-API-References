@@ -1,12 +1,12 @@
 ---
-title: Bookmark.ItalicFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de signet. Obtient ou définit le drapeau italique du titre des signets
+title: "Bookmark.ItalicFlag"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Bookmark. Obtient ou définit le drapeau italique du titre des signets"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.facades/bookmark/italicflag/
 ---
-## Propriété Bookmark.ItalicFlag
+## Bookmark.ItalicFlag property
 
 Obtient ou définit le drapeau italique du titre du signet.
 
@@ -16,6 +16,8 @@ public bool ItalicFlag { get; set; }
 
 ### Voir aussi
 
-* classe [Bookmark](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Bookmark](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

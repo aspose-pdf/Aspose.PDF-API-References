@@ -1,14 +1,14 @@
 ---
-title: DocMDPSignature.AccessPermissions
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété DocMDPSignature. Renvoie les autorisations d'accès accordées pour ce document
+title: "DocMDPSignature.AccessPermissions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété DocMDPSignature. Renvoie les autorisations d'accès accordées pour ce document"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.forms/docmdpsignature/accesspermissions/
 ---
-## Propriété DocMDPSignature.AccessPermissions
+## DocMDPSignature.AccessPermissions property
 
-Renvoie les autorisations d'accès accordées pour ce document.
+Retourne les autorisations d'accès accordées pour ce document.
 
 ```csharp
 public DocMDPAccessPermissions AccessPermissions { get; }
@@ -20,3 +20,5 @@ public DocMDPAccessPermissions AccessPermissions { get; }
 * class [DocMDPSignature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

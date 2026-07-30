@@ -1,14 +1,14 @@
 ---
-title: Class Cells
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Cells. Représente une collection de cellules de ligne
+title: "Classe Cells"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Cells. Représente une collection de cellules d'une ligne"
 type: docs
-weight: 2980
+weight: 3090
 url: /fr/net/aspose.pdf/cells/
 ---
-## Classe Cells
+## Cells class
 
-Représente une collection de cellules de ligne.
+Représente une collection de cellules de la ligne.
 
 ```csharp
 public sealed class Cells : IEnumerable<Cell>
@@ -38,11 +38,13 @@ public sealed class Cells : IEnumerable<Cell>
 | [Dispose](../../aspose.pdf/cells/dispose/)() | Méthode Dispose |
 | [GetEnumerator](../../aspose.pdf/cells/getenumerator/)() | Obtient l'énumérateur de la collection. |
 | [Insert](../../aspose.pdf/cells/insert/)(int, Cell) | Insérer une cellule dans la collection. |
-| [Remove](../../aspose.pdf/cells/remove/#remove)(Cell) | Supprimer un ensemble de cellules de la collection. |
-| [RemoveRange](../../aspose.pdf/cells/removerange/)(int, int) | Supprimer un ensemble de cellules de la collection. |
+| [Remove](../../aspose.pdf/cells/remove/#remove)(Cell) | Supprimer l'ensemble de cellules de la collection. |
+| [RemoveRange](../../aspose.pdf/cells/removerange/)(int, int) | Supprimer l'ensemble de cellules de la collection. |
 
 ### Voir aussi
 
-* classe [Cell](../cell/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [Cell](../cell/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

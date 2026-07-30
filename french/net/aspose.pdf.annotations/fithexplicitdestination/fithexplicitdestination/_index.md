@@ -1,7 +1,7 @@
 ---
-title: FitHExplicitDestination.FitHExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur FitHExplicitDestination. Crée une destination explicite locale
+title: "FitHExplicitDestination.FitHExplicitDestination"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "FitHExplicitDestination constructeur. Crée une destination explicite locale"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/fithexplicitdestination/fithexplicitdestination/
@@ -17,13 +17,13 @@ public FitHExplicitDestination(Page page, double top)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | page | Page | L'objet de page de destination. |
-| top | Double | La coordonnée verticale supérieure positionnée au bord supérieur de la fenêtre. |
+| haut | Double | La coordonnée verticale supérieure positionnée au bord supérieur de la fenêtre. |
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [FitHExplicitDestination](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* class [FitHExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -38,11 +38,13 @@ public FitHExplicitDestination(int pageNumber, double top)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| pageNumber | Int32 | Le numéro de page de destination du document distant. |
-| top | Double | La coordonnée verticale supérieure positionnée au bord supérieur de la fenêtre. |
+| pageNumber | Int32 | Le numéro de page de destination du Document distant. |
+| haut | Double | La coordonnée verticale supérieure positionnée au bord supérieur de la fenêtre. |
 
 ### Voir aussi
 
-* classe [FitHExplicitDestination](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [FitHExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

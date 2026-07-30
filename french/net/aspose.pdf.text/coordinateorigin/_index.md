@@ -1,14 +1,14 @@
 ---
-title: Enum CoordinateOrigin
-second_title: Aspose.PDF for .NET API Reference
-description: Enum CoordinateOrigin d'Aspose.Pdf.Text. Énumération CoordinateOrigin de texte
+title: "Énumération CoordinateOrigin"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Text.CoordinateOrigin enum. Énumération Text CoordinateOrigin"
 type: docs
-weight: 10460
+weight: 10640
 url: /fr/net/aspose.pdf.text/coordinateorigin/
 ---
-## Énumération CoordinateOrigin
+## CoordinateOrigin enumeration
 
-Énumération CoordinateOrigin de texte.
+Énumération Text CoordinateOrigin.
 
 ```csharp
 public enum CoordinateOrigin
@@ -23,5 +23,7 @@ public enum CoordinateOrigin
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

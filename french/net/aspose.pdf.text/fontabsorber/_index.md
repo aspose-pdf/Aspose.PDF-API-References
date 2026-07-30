@@ -1,14 +1,14 @@
 ---
-title: Class FontAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Text.FontAbsorber. Représente un objet absorbeur de polices. Effectue une recherche de polices et fournit un accès aux résultats de recherche via la collection [`Fonts`](./fonts/)
+title: "Classe FontAbsorber"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Text.FontAbsorber. Représente un objet absorbeur de polices. Effectue une recherche de polices et fournit l'accès aux résultats de recherche via la collection Fonts."
 type: docs
-weight: 10520
+weight: 10700
 url: /fr/net/aspose.pdf.text/fontabsorber/
 ---
-## Classe FontAbsorber
+## FontAbsorber class
 
-Représente un objet absorbeur de polices. Effectue une recherche de polices et fournit un accès aux résultats de recherche via la collection [`Fonts`](./fonts/).
+Représente un objet absorbeur de polices. Effectue une recherche de polices et fournit l'accès aux résultats de recherche via la collection [`Fonts`](./fonts/).
 
 ```csharp
 public class FontAbsorber
@@ -24,16 +24,18 @@ public class FontAbsorber
 
 | Nom | Description |
 | --- | --- |
-| [Fonts](../../aspose.pdf.text/fontabsorber/fonts/) { get; } | Obtient la collection des occurrences de recherche qui sont présentées avec des objets [`Font`](../font/). |
+| [Fonts](../../aspose.pdf.text/fontabsorber/fonts/) { get; } | Obtient la collection des occurrences de recherche présentées avec des objets [`Font`](../font/). |
 
 ## Méthodes
 
 | Nom | Description |
 | --- | --- |
 | virtual [Visit](../../aspose.pdf.text/fontabsorber/visit/#visit)(Document) | Effectue une recherche sur le document spécifié. |
-| virtual [Visit](../../aspose.pdf.text/fontabsorber/visit/#visit_1)(Document, int, int) | Effectue une recherche dans la plage de pages spécifiée du document. |
+| virtual [Visit](../../aspose.pdf.text/fontabsorber/visit/#visit_1)(Document, int, int) | Effectue une recherche dans la plage spécifiée de pages du document. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Text](../../aspose.pdf.text/)
+* namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

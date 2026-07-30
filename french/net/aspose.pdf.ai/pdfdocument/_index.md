@@ -1,12 +1,12 @@
 ---
-title: Class PdfDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.PdfDocument. Représente un document PDF avec un nom
+title: "Classe PdfDocument"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.AI.PdfDocument. Représente un document PDF avec un nom."
 type: docs
-weight: 940
+weight: 1020
 url: /fr/net/aspose.pdf.ai/pdfdocument/
 ---
-## Classe PdfDocument
+## PdfDocument class
 
 Représente un document PDF avec un nom.
 
@@ -29,5 +29,7 @@ public class PdfDocument
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

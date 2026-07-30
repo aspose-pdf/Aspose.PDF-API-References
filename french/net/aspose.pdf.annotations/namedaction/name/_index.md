@@ -1,12 +1,12 @@
 ---
-title: NamedAction.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété NamedAction. Obtient ou définit l'action à effectuer
+title: "NamedAction.Name"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété NamedAction. Obtient ou définit l'action à exécuter"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.annotations/namedaction/name/
 ---
-## Propriété NamedAction.Name
+## NamedAction.Name property
 
 Obtient ou définit l'action à effectuer.
 
@@ -16,6 +16,8 @@ public string Name { get; set; }
 
 ### Voir aussi
 
-* classe [NamedAction](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [NamedAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

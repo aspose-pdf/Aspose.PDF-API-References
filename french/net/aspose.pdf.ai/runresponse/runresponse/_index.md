@@ -1,12 +1,12 @@
 ---
-title: RunResponse.RunResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de RunResponse. Le constructeur par défaut
+title: "RunResponse.RunResponse"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur RunResponse. Le constructeur par défaut."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/runresponse/runresponse/
 ---
-## Constructeur de RunResponse
+## RunResponse constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public RunResponse()
 
 ### Voir aussi
 
-* classe [RunResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [RunResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

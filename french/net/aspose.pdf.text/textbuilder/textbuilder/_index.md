@@ -1,7 +1,7 @@
 ---
-title: TextBuilder.TextBuilder
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de TextBuilder. Initialise une nouvelle instance de la classe TextBuilder pour la page Pdf
+title: "TextBuilder.TextBuilder"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur TextBuilder. Initialise une nouvelle instance de la classe TextBuilder pour la page Pdf."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.text/textbuilder/textbuilder/
@@ -24,9 +24,9 @@ Le TextBuilder permet d'ajouter des objets texte aux pages Pdf.
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [TextBuilder](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Page](../../../aspose.pdf/page/)
+* class [TextBuilder](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -50,8 +50,10 @@ Le TextBuilder permet d'ajouter des objets texte aux pages Pdf.
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [BaseOperatorCollection](../../../aspose.pdf/baseoperatorcollection/)
-* classe [TextBuilder](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [Page](../../../aspose.pdf/page/)
+* class [BaseOperatorCollection](../../../aspose.pdf/baseoperatorcollection/)
+* class [TextBuilder](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

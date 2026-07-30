@@ -1,12 +1,12 @@
 ---
-title: Class CompressOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.CompressOptions. Représente les options de compression pour le plugin Optimizer
+title: "Classe CompressOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Plugins.CompressOptions. Représente les options de compression pour le plugin Optimizer."
 type: docs
-weight: 8490
+weight: 8620
 url: /fr/net/aspose.pdf.plugins/compressoptions/
 ---
-## Classe CompressOptions
+## CompressOptions class
 
 Représente les options de compression pour le plugin [`Optimizer`](../optimizer/).
 
@@ -24,8 +24,8 @@ public sealed class CompressOptions : OrganizerBaseOptions
 
 | Nom | Description |
 | --- | --- |
-| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | Ferme les flux d'entrée après la fin de l'opération. |
-| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Ferme les flux de sortie après la fin de l'opération. |
+| [CloseInputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeinputstreams/) { get; set; } | Fermez les flux d'entrée après la fin de l'opération. |
+| [CloseOutputStreams](../../aspose.pdf.plugins/organizerbaseoptions/closeoutputstreams/) { get; set; } | Fermez les flux de sortie après la fin de l'opération. |
 | [Inputs](../../aspose.pdf.plugins/organizerbaseoptions/inputs/) { get; } | Renvoie la collection de données du plugin OrganizerOptions. |
 | [Outputs](../../aspose.pdf.plugins/organizerbaseoptions/outputs/) { get; } | Obtient la collection des cibles ajoutées pour enregistrer les résultats de l'opération. |
 
@@ -38,6 +38,8 @@ public sealed class CompressOptions : OrganizerBaseOptions
 
 ### Voir aussi
 
-* classe [OrganizerBaseOptions](../organizerbaseoptions/)
-* espace de noms [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* class [OrganizerBaseOptions](../organizerbaseoptions/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

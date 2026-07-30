@@ -1,12 +1,12 @@
 ---
-title: ET.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ET. Produit le code texte de l'opérateur
+title: "ET.ToString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode ET. Produit le code texte de l'opérateur"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.operators/et/tostring/
 ---
-## Méthode ET.ToString
+## ET.ToString method
 
 Produit le code texte de l'opérateur.
 
@@ -20,6 +20,8 @@ Représentation textuelle de l'opérateur.
 
 ### Voir aussi
 
-* classe [ET](../)
-* espace de noms [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [ET](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

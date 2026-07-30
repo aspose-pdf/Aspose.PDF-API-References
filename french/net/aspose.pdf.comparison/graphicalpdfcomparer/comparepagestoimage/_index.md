@@ -1,12 +1,12 @@
 ---
-title: GraphicalPdfComparer.ComparePagesToImage
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode GraphicalPdfComparer. Compare les pages graphiquement. Le résultat de la comparaison est placé dans une image
+title: "GraphicalPdfComparer.ComparePagesToImage"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode GraphicalPdfComparer. Compare les pages graphiquement. Le résultat de la comparaison est placé dans une image"
 type: docs
 weight: 70
 url: /fr/net/aspose.pdf.comparison/graphicalpdfcomparer/comparepagestoimage/
 ---
-## Méthode GraphicalPdfComparer.ComparePagesToImage
+## GraphicalPdfComparer.ComparePagesToImage method
 
 Compare les pages graphiquement. Le résultat de la comparaison est placé dans une image.
 
@@ -18,17 +18,19 @@ public void ComparePagesToImage(Page page1, Page page2, string resultImagePath)
 | --- | --- | --- |
 | page1 | Page | La première page à comparer. |
 | page2 | Page | La deuxième page à comparer. |
-| resultImagePath | String | Le chemin vers le fichier image cible. |
+| resultImagePath | String | Le chemin du fichier image cible. |
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| ArgumentException | Si les pages comparées sont de tailles différentes. Si resultImagePath est nul ou une chaîne vide. Il y a un format d'image de sauvegarde inconnu. |
+| ArgumentException | Si les pages comparées ont des tailles différentes. Si resultImagePath est nul ou une chaîne vide. Le format d'enregistrement de l'image est inconnu. |
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [GraphicalPdfComparer](../)
-* espace de noms [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
+* class [Page](../../../aspose.pdf/page/)
+* class [GraphicalPdfComparer](../)
+* namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

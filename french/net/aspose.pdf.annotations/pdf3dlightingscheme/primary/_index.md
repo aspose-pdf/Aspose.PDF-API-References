@@ -1,14 +1,14 @@
 ---
-title: PDF3DLightingScheme.Primary
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PDF3DLightingScheme. Le schéma d'éclairage principal
+title: "PDF3DLightingScheme.Primary"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Champ PDF3DLightingScheme. Le schéma d'éclairage Principal"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf.annotations/pdf3dlightingscheme/primary/
 ---
-## Champ PDF3DLightingScheme.Primary
+## PDF3DLightingScheme.Primary field
 
-Le schéma d'éclairage "Principal".
+Le schéma d'éclairage "Primary".
 
 ```csharp
 public static PDF3DLightingScheme Primary;
@@ -16,6 +16,8 @@ public static PDF3DLightingScheme Primary;
 
 ### Voir aussi
 
-* classe [PDF3DLightingScheme](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [PDF3DLightingScheme](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

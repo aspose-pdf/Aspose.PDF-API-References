@@ -1,12 +1,12 @@
 ---
-title: Class WebHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.WebHyperlink. Représente un objet de lien hypertexte web
+title: "Classe WebHyperlink"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.WebHyperlink. Représente un objet de lien hypertexte web"
 type: docs
-weight: 11320
+weight: 11510
 url: /fr/net/aspose.pdf/webhyperlink/
 ---
-## Classe WebHyperlink
+## WebHyperlink class
 
 Représente un objet de lien hypertexte web.
 
@@ -25,10 +25,12 @@ public sealed class WebHyperlink : Hyperlink
 
 | Nom | Description |
 | --- | --- |
-| [Url](../../aspose.pdf/webhyperlink/url/) { get; set; } | Obtient ou définit l'url web. |
+| [Url](../../aspose.pdf/webhyperlink/url/) { get; set; } | Obtient ou définit l'URL web. |
 
 ### Voir aussi
 
-* classe [Hyperlink](../hyperlink/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [Hyperlink](../hyperlink/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: HtmlSaveOptions.FixedLayout
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété HtmlSaveOptions. Obtient ou définit une valeur indiquant si le HTML est créé en tant que mise en page fixe
+title: "HtmlSaveOptions.FixedLayout"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété HtmlSaveOptions. Obtient ou définit une valeur indiquant si le HTML est créé en disposition fixe."
 type: docs
 weight: 80
 url: /fr/net/aspose.pdf/htmlsaveoptions/fixedlayout/
 ---
-## Propriété HtmlSaveOptions.FixedLayout
+## HtmlSaveOptions.FixedLayout property
 
-Obtient ou définit une valeur indiquant si le HTML est créé en tant que mise en page fixe.
+Obtient ou définit une valeur indiquant si ce HTML est créé avec une mise en page fixe.
 
 ```csharp
 public bool FixedLayout { get; set; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-`true` si [mise en page fixe]; sinon, `false`.
+`true` si [fixed layout] ; sinon, `false`.
 
 ### Voir aussi
 
-* classe [HtmlSaveOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [HtmlSaveOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

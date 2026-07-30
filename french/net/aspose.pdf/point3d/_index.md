@@ -1,12 +1,12 @@
 ---
-title: Class Point3D
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Point3D. Représente un point avec des coordonnées fractionnaires
+title: "Classe Point3D"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Point3D. Représente un point avec des coordonnées fractionnaires"
 type: docs
-weight: 9470
+weight: 9620
 url: /fr/net/aspose.pdf/point3d/
 ---
-## Classe Point3D
+## Point3D class
 
 Représente un point avec des coordonnées fractionnaires.
 
@@ -37,5 +37,7 @@ public sealed class Point3D
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

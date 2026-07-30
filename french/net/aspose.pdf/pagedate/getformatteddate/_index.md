@@ -1,12 +1,12 @@
 ---
-title: PageDate.GetFormattedDate
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PageDate. Renvoie la chaîne de date formatée en fonction du format de date actuel
+title: "PageDate.GetFormattedDate"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PageDate. Retourne la chaîne de date formatée en fonction du format de date actuel."
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf/pagedate/getformatteddate/
 ---
-## Méthode PageDate.GetFormattedDate
+## PageDate.GetFormattedDate method
 
 Renvoie la chaîne de date formatée en fonction du format de date actuel.
 
@@ -20,6 +20,8 @@ Une chaîne de date formatée.
 
 ### Voir aussi
 
-* classe [PageDate](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageDate](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

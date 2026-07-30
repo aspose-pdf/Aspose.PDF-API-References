@@ -1,12 +1,12 @@
 ---
-title: Class Merger
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.Merger. Représente le plugin Merger
+title: "Classe Merger"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Plugins.Merger. Représente le plugin Merger"
 type: docs
-weight: 8940
+weight: 9070
 url: /fr/net/aspose.pdf.plugins/merger/
 ---
-## Classe Merger
+## Merger class
 
 Représente le plugin `Merger`.
 
@@ -28,19 +28,19 @@ public sealed class Merger : IPlugin
 
 ## Exemples
 
-L'exemple démontre comment fusionner deux documents PDF.
+L'exemple montre comment fusionner deux documents PDF.
 
 ```csharp
-// create Merger
+// créer Merger
 var merger = new Merger();
-// create MergeOptions object to set instructions
+// créer l'objet MergeOptions pour définir les instructions
 var opt = new MergeOptions();
-// add input file paths
+// ajouter les chemins des fichiers d'entrée
 opt.AddInput(new FileDataSource(inputPath1));
 opt.AddInput(new FileDataSource(inputPath2));
-// set output file path
+// définir le chemin du fichier de sortie
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// exécuter le processus
 merger.Process(opt);
 ```
 
@@ -49,3 +49,5 @@ merger.Process(opt);
 * interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

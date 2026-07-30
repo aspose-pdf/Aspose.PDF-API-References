@@ -1,14 +1,14 @@
 ---
-title: OptimizedMemoryStream.WriteByte
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode OptimizedMemoryStream. Écrit un octet à la position actuelle dans le flux et avance la position dans le flux d'un octet.
+title: "OptimizedMemoryStream.WriteByte"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode OptimizedMemoryStream. Écrit un octet à la position actuelle du flux et avance la position dans le flux d'un octet."
 type: docs
 weight: 160
 url: /fr/net/aspose.pdf/optimizedmemorystream/writebyte/
 ---
-## Méthode OptimizedMemoryStream.WriteByte
+## OptimizedMemoryStream.WriteByte method
 
-Écrit un octet à la position actuelle dans le flux et avance la position dans le flux d'un octet.
+Écrit un octet à la position actuelle du flux et avance la position dans le flux d'un octet.
 
 ```csharp
 public override void WriteByte(byte value)
@@ -16,10 +16,12 @@ public override void WriteByte(byte value)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| value | Byte | L'octet à écrire dans le flux. |
+| valeur | Byte | L'octet à écrire dans le flux. |
 
 ### Voir aussi
 
-* classe [OptimizedMemoryStream](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

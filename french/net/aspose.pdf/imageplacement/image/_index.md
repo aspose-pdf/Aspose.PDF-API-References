@@ -1,12 +1,12 @@
 ---
-title: ImagePlacement.Image
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété ImagePlacement. Obtient l'objet de ressource XImage associé
+title: "ImagePlacement.Image"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété ImagePlacement. Obtient l'objet de ressource XImage associé"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/imageplacement/image/
 ---
-## Propriété ImagePlacement.Image
+## ImagePlacement.Image property
 
 Obtient l'objet de ressource XImage associé.
 
@@ -16,7 +16,9 @@ public XImage Image { get; }
 
 ### Voir aussi
 
-* classe [XImage](../../ximage/)
-* classe [ImagePlacement](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XImage](../../ximage/)
+* class [ImagePlacement](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

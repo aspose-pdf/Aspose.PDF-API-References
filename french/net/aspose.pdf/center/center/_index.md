@@ -1,12 +1,12 @@
 ---
-title: Center.Center
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur Center. Le constructeur par défaut
+title: "Center.Center"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Center constructeur. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/center/center/
 ---
-## Constructeur Center
+## Center constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public Center()
 
 ### Voir aussi
 
-* classe [Center](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Center](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

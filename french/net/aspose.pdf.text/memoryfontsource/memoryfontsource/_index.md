@@ -1,12 +1,12 @@
 ---
-title: MemoryFontSource.MemoryFontSource
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de MemoryFontSource. Initialise une nouvelle instance de la classe MemoryFontSource
+title: "MemoryFontSource.MemoryFontSource"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur MemoryFontSource. Initialise une nouvelle instance de la classe MemoryFontSource"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.text/memoryfontsource/memoryfontsource/
 ---
-## Constructeur de MemoryFontSource
+## MemoryFontSource constructor
 
 Initialise une nouvelle instance de la classe [`MemoryFontSource`](../).
 
@@ -20,6 +20,8 @@ public MemoryFontSource(byte[] fontBytes)
 
 ### Voir aussi
 
-* classe [MemoryFontSource](../)
-* espace de noms [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [MemoryFontSource](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class JavascriptExtensionsException
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.JavascriptExtensionsException. L'exception qui est levée en cas d'erreurs lors de l'utilisation de JavascriptExtensions
+title: "Classe JavascriptExtensionsException"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.JavascriptExtensionsException classe. L’exception qui est levée en cas d’erreurs lors du travail avec JavascriptExtensions"
 type: docs
-weight: 6050
+weight: 6180
 url: /fr/net/aspose.pdf/javascriptextensionsexception/
 ---
-## Classe JavascriptExtensionsException
+## JavascriptExtensionsException class
 
-L'exception qui est levée en cas d'erreurs lors de l'utilisation de JavascriptExtensions.
+L'exception qui est levée en cas d'erreurs lors du travail avec JavascriptExtensions.
 
 ```csharp
 public class JavascriptExtensionsException : PdfException
@@ -18,12 +18,14 @@ public class JavascriptExtensionsException : PdfException
 
 | Nom | Description |
 | --- | --- |
-| [JavascriptExtensionsException](javascriptextensionsexception/#constructor)(Exception) | Initialise une nouvelle instance de la classe `JavascriptExtensionsException` avec une référence à l'exception interne qui est la cause de cette exception. |
+| [JavascriptExtensionsException](javascriptextensionsexception/#constructor)(Exception) | Initialise une nouvelle instance de la classe `JavascriptExtensionsException` avec une référence à l’exception interne qui est la cause de cette exception. |
 | [JavascriptExtensionsException](javascriptextensionsexception/#constructor_1)(string) | Initialise une nouvelle instance de la classe `JavascriptExtensionsException`. |
-| [JavascriptExtensionsException](javascriptextensionsexception/#constructor_2)(string, Exception) | Initialise une nouvelle instance de la classe `JavascriptExtensionsException` avec un message d'erreur spécifié et une référence à l'exception interne qui est la cause de cette exception. |
+| [JavascriptExtensionsException](javascriptextensionsexception/#constructor_2)(string, Exception) | Initialise une nouvelle instance de la classe `JavascriptExtensionsException` avec un message d’erreur spécifié et une référence à l’exception interne qui est la cause de cette exception. |
 
 ### Voir aussi
 
-* classe [PdfException](../pdfexception/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [PdfException](../pdfexception/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

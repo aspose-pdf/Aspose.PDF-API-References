@@ -1,14 +1,14 @@
 ---
-title: XFormCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété XFormCollection. Renvoie XForm par index
+title: "XFormCollection.Item"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété XFormCollection. Retourne le XForm par indice"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/xformcollection/item/
 ---
-## Indexeur XFormCollection (1 sur 2)
+## XFormCollection indexer (1 of 2)
 
-Renvoie XForm par index.
+Renvoie le XForm par indice.
 
 ```csharp
 public XForm this[int index] { get; }
@@ -16,7 +16,7 @@ public XForm this[int index] { get; }
 
 | Paramètre | Description |
 | --- | --- |
-| index | Index de XFormCollection. La numérotation des XForms commence à 1. |
+| index | Indice de XFormCollection. La numérotation des XForms commence à 1. |
 
 ### Valeur de retour
 
@@ -24,16 +24,16 @@ XForm récupéré.
 
 ### Voir aussi
 
-* classe [XForm](../../xform/)
-* classe [XFormCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XForm](../../xform/)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Indexeur XFormCollection (2 sur 2)
+## XFormCollection indexer (2 of 2)
 
-Renvoie XForm par son nom. Une exception est levée si XForm avec le nom spécifié n'est pas trouvé.
+Renvoie le XForm par son nom. Une exception est levée si le XForm avec le nom spécifié n'est pas trouvé.
 
 ```csharp
 public XForm this[string name] { get; }
@@ -41,7 +41,7 @@ public XForm this[string name] { get; }
 
 | Paramètre | Description |
 | --- | --- |
-| name | Nom du XForm. |
+| nom | Nom du XForm. |
 
 ### Valeur de retour
 
@@ -49,7 +49,9 @@ XForm récupéré.
 
 ### Voir aussi
 
-* classe [XForm](../../xform/)
-* classe [XFormCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XForm](../../xform/)
+* class [XFormCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

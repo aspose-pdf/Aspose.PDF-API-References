@@ -1,12 +1,12 @@
 ---
-title: HeaderFooterData.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété HeaderFooterData. Obtient ou définit les paramètres du numéro de page
+title: "HeaderFooterData.PageNumber"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "HeaderFooterData propriété. Obtient ou définit les paramètres du numéro de page"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/headerfooterdata/pagenumber/
 ---
-## Propriété HeaderFooterData.PageNumber
+## HeaderFooterData.PageNumber property
 
 Obtient ou définit les paramètres du numéro de page.
 
@@ -16,7 +16,9 @@ public PageNumber PageNumber { get; set; }
 
 ### Voir aussi
 
-* classe [PageNumber](../../pagenumber/)
-* classe [HeaderFooterData](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [PageNumber](../../pagenumber/)
+* class [HeaderFooterData](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

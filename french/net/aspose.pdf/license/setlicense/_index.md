@@ -1,9 +1,9 @@
 ---
-title: License.SetLicense
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode de licence. Licence le composant
+title: "License.SetLicense"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode License. Licence le composant"
 type: docs
-weight: 20
+weight: 40
 url: /fr/net/aspose.pdf/license/setlicense/
 ---
 ## SetLicense(string) {#setlicense_1}
@@ -16,27 +16,27 @@ public void SetLicense(string licenseName)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| licenseName | String | Peut être un nom de fichier complet ou court ou le nom d'une ressource intégrée. Utilisez une chaîne vide pour passer en mode d'évaluation. |
+| licenseName | String | Peut être un nom de fichier complet ou court ou le nom d'une ressource incorporée. Utilisez une chaîne vide pour passer en mode d'évaluation. |
 
 ## Remarques
 
-Essaye de trouver la licence dans les emplacements suivants :
+Essaie de trouver la licence aux emplacements suivants :
 
 1. Chemin explicite.
 
-2. Le dossier qui contient l'assemblage du composant Aspose.
+2. Le dossier qui contient l'assembly du composant Aspose.
 
-3. Le dossier qui contient l'assemblage appelant du client.
+3. Le dossier qui contient l'assembly appelant du client.
 
-4. Le dossier qui contient l'assemblage d'entrée (de démarrage).
+4. Le dossier qui contient l'assembly d'entrée (démarrage).
 
-5. Une ressource intégrée dans l'assemblage appelant du client.
+5. Une ressource incorporée dans l'assembly appelant du client.
 
-**Remarque :** Sur le .NET Compact Framework, essaie de trouver la licence uniquement dans ces emplacements :
+**Note:**On the .NET Compact Framework, tries to find the license only in these locations:
 
 1. Chemin explicite.
 
-2. Une ressource intégrée dans l'assemblage appelant du client.
+2. Une ressource incorporée dans l'assembly appelant du client.
 
 [Java]
 
@@ -46,9 +46,9 @@ Essaye de trouver la licence dans les emplacements suivants :
 
 ### Voir aussi
 
-* classe [License](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
-* assemblage [Aspose.PDF](../../../)
+* class [License](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
 
 ---
 
@@ -66,10 +66,12 @@ public void SetLicense(Stream stream)
 
 ## Remarques
 
-Utilisez cette méthode pour charger une licence à partir d'un flux.
+Utilisez cette méthode pour charger une licence depuis un flux.
 
 ### Voir aussi
 
-* classe [License](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
-* assemblage [Aspose.PDF](../../../)
+* class [License](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+

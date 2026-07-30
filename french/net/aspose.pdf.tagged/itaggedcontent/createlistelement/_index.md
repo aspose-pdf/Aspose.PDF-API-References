@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateListElement
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode ITaggedContent. Crée ListElement
+title: "ITaggedContent.CreateListElement"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "ITaggedContent méthode. Crée ListElement"
 type: docs
 weight: 170
 url: /fr/net/aspose.pdf.tagged/itaggedcontent/createlistelement/
 ---
-## Méthode ITaggedContent.CreateListElement
+## ITaggedContent.CreateListElement method
 
 Crée [`ListElement`](../../../aspose.pdf.logicalstructure/listelement/).
 
@@ -20,7 +20,9 @@ public ListElement CreateListElement()
 
 ### Voir aussi
 
-* classe [ListElement](../../../aspose.pdf.logicalstructure/listelement/)
+* class [ListElement](../../../aspose.pdf.logicalstructure/listelement/)
 * interface [ITaggedContent](../)
-* espace de noms [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

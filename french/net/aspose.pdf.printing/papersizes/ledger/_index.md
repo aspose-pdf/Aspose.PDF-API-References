@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Ledger
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PaperSizes. Papier de grand livre 17 po par 11 po
+title: "PaperSizes.Ledger"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PaperSizes champ. papier Ledger 17 in. par 11 in"
 type: docs
 weight: 620
 url: /fr/net/aspose.pdf.printing/papersizes/ledger/
 ---
-## Champ PaperSizes.Ledger
+## PaperSizes.Ledger field
 
-Papier de grand livre (17 po par 11 po).
+Papier Ledger (17 po x 11 po).
 
 ```csharp
 public static readonly PaperSize Ledger;
@@ -16,7 +16,9 @@ public static readonly PaperSize Ledger;
 
 ### Voir aussi
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
-* espace de noms [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
+* namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

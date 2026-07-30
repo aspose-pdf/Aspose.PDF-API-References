@@ -1,14 +1,14 @@
 ---
-title: Page.TrySaveVectorGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Page. Essaie de sauvegarder des graphiques vectoriels s'ils sont présents sur la page. Le format de sauvegarde est SVG
+title: "Page.TrySaveVectorGraphics"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Page. Tente d'enregistrer les graphiques vectoriels s'ils sont présents sur la page. Le format d'enregistrement est SVG."
 type: docs
 weight: 550
 url: /fr/net/aspose.pdf/page/trysavevectorgraphics/
 ---
-## Méthode Page.TrySaveVectorGraphics
+## Page.TrySaveVectorGraphics method
 
-Essaie de sauvegarder des graphiques vectoriels s'ils sont présents sur la page. Le format de sauvegarde est SVG.
+Essaie d'enregistrer les graphiques vectoriels s'ils sont présents sur la page. Le format d'enregistrement est SVG.
 
 ```csharp
 public bool TrySaveVectorGraphics(string pathToSave)
@@ -24,6 +24,8 @@ Vrai si la page contient des opérateurs de construction de chemin ; sinon, Faux
 
 ### Voir aussi
 
-* classe [Page](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

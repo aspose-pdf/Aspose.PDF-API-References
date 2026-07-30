@@ -1,14 +1,14 @@
 ---
-title: TextStyle.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TextStyle. Alignement du texte. Les valeurs valides sont Gauche Centre Droite
+title: "TextStyle.HorizontalAlignment"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TextStyle. Alignement du texte. Les valeurs valides sont Left Center Rigth"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.annotations/textstyle/horizontalalignment/
 ---
-## Propriété TextStyle.HorizontalAlignment
+## TextStyle.HorizontalAlignment property
 
-Alignement du texte. Les valeurs valides sont : Gauche, Centre, Droite.
+Alignement du texte. Les valeurs valides sont : Left, Center, Right.
 
 ```csharp
 public HorizontalAlignment HorizontalAlignment { get; set; }
@@ -20,3 +20,5 @@ public HorizontalAlignment HorizontalAlignment { get; set; }
 * class [TextStyle](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

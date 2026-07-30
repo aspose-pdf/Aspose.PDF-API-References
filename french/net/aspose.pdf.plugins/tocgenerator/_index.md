@@ -1,14 +1,14 @@
 ---
-title: Class TocGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.TocGenerator. Représente le plugin TocGenerator d'Aspose.PDF
+title: "Classe TocGenerator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Plugins.TocGenerator. Représente le plug-in Aspose.PDF TocGenerator"
 type: docs
-weight: 9430
+weight: 9580
 url: /fr/net/aspose.pdf.plugins/tocgenerator/
 ---
-## Classe TocGenerator
+## TocGenerator class
 
-Représente le plugin TocGenerator d'Aspose.PDF.
+Représente le plugin Aspose.PDF TocGenerator.
 
 ```csharp
 public sealed class TocGenerator : IDisposable, IPlugin
@@ -24,24 +24,24 @@ public sealed class TocGenerator : IDisposable, IPlugin
 
 | Nom | Description |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/tocgenerator/dispose/)() | Mise en œuvre de IDisposable. En fait, ce n'est pas nécessaire pour TocGenerator. |
+| [Dispose](../../aspose.pdf.plugins/tocgenerator/dispose/)() | Implémentation de IDisposable. En fait, ce n'est pas nécessaire pour TocGenerator. |
 | [Process](../../aspose.pdf.plugins/tocgenerator/process/)(IPluginOptions) | Démarre le traitement de PdfGenerator avec les paramètres spécifiés. |
 
 ## Exemples
 
-L'exemple démontre comment ajouter une table des matières à un fichier PDF.
+L'exemple montre comment ajouter une table des matières (TOC) à un fichier PDF.
 
 ```csharp
-// create TocGenerator
+// créer TocGenerator
 var generator = new TocGenerator();
-// create TocOptions object to set instructions
+// créer un objet TocOptions pour définir les instructions
 var opt = new TocOptions();
-// add input file paths
+// ajouter les chemins des fichiers d'entrée
 opt.AddInput(new FileDataSource(inputPath1));
 opt.AddInput(new FileDataSource(inputPath2));
-// set output file path
+// définir le chemin du fichier de sortie
 opt.AddOutput(new FileDataSource(outputPath));
-// perform extraction process
+// exécuter le processus d'extraction
 generator.Process(opt);
 ```
 
@@ -50,3 +50,5 @@ generator.Process(opt);
 * interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

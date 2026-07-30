@@ -1,14 +1,14 @@
 ---
-title: FormDataConverter.ConvertToStreams
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FormDataConverter. Convertir des données dans un tableau en flux
+title: "FormDataConverter.ConvertToStreams"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "méthode FormDataConverter. Convertir les données du tableau en flux"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.facades/formdataconverter/converttostreams/
 ---
-## Méthode FormDataConverter.ConvertToStreams
+## FormDataConverter.ConvertToStreams method
 
-Convertir des données dans un tableau en flux.
+Convertir les données de la table en flux.
 
 ```csharp
 public void ConvertToStreams(Stream[] destStream, DataType destType)
@@ -17,7 +17,7 @@ public void ConvertToStreams(Stream[] destStream, DataType destType)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | destStream | Stream[] | Flux où les données seront stockées. |
-| destType | DataType | Type de données stockées. Les valeurs valides sont : XML, FDF, XFDF. |
+| destType | DataType | Type des données stockées. Les valeurs valides sont : XML, FDF, XFDF. |
 
 ## Exemples
 
@@ -45,3 +45,5 @@ fc.ConvertToStreams(new Stream[] { stream }, DataType.XML);
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

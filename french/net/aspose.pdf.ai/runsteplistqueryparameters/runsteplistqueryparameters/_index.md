@@ -1,12 +1,12 @@
 ---
-title: RunStepListQueryParameters.RunStepListQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de RunStepListQueryParameters. Le constructeur par défaut
+title: "RunStepListQueryParameters.RunStepListQueryParameters"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur RunStepListQueryParameters. Le constructeur par défaut."
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/runsteplistqueryparameters/runsteplistqueryparameters/
 ---
-## Constructeur de RunStepListQueryParameters
+## RunStepListQueryParameters constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public RunStepListQueryParameters()
 
 ### Voir aussi
 
-* classe [RunStepListQueryParameters](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [RunStepListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

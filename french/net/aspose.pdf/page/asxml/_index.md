@@ -1,14 +1,14 @@
 ---
-title: Page.AsXml
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Page. Convertit la page actuelle en xml avec encodage utf8
+title: "Page.AsXml"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Page. Convertit la page actuelle en XML avec encodage UTF‑8"
 type: docs
 weight: 380
 url: /fr/net/aspose.pdf/page/asxml/
 ---
-## Méthode Page.AsXml
+## Page.AsXml method
 
-Convertit la page actuelle en xml avec encodage utf8.
+Convertit la Page actuelle en XML avec l'encodage UTF-8.
 
 ```csharp
 public string AsXml()
@@ -16,10 +16,12 @@ public string AsXml()
 
 ### Valeur de retour
 
-Chaîne xml convertie.
+Chaîne XML convertie.
 
 ### Voir aussi
 
-* classe [Page](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

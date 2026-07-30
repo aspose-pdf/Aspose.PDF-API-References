@@ -1,14 +1,14 @@
 ---
-title: CgmLoadOptions.CgmLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur CgmLoadOptions. Crée des options de chargement par défaut pour convertir un fichier CGM en document pdf. Taille de page pdf par défaut A4 300dpi 2480 X 3508
+title: "CgmLoadOptions.CgmLoadOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur de CgmLoadOptions. Crée les options de chargement par défaut pour convertir un fichier CGM en document pdf. Taille de page pdf par défaut A4 300dpi 2480 X 3508"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf/cgmloadoptions/cgmloadoptions/
 ---
 ## CgmLoadOptions() {#constructor}
 
-Crée des options de chargement par défaut pour convertir un fichier CGM en document pdf. Taille de page pdf par défaut - A4 300dpi 2480 X 3508.
+Crée les options de chargement par défaut pour convertir un fichier CGM en document pdf. Taille de page pdf par défaut - A4 300dpi 2480 X 3508.
 
 ```csharp
 public CgmLoadOptions()
@@ -16,15 +16,15 @@ public CgmLoadOptions()
 
 ### Voir aussi
 
-* classe [CgmLoadOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [CgmLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CgmLoadOptions(SizeF) {#constructor_1}
 
-Crée des options de chargement avec !:pageSize défini.
+Crée des options de chargement avec la taille de page définie !:pageSize.
 
 ```csharp
 public CgmLoadOptions(SizeF pageSize)
@@ -36,6 +36,8 @@ public CgmLoadOptions(SizeF pageSize)
 
 ### Voir aussi
 
-* classe [CgmLoadOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [CgmLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

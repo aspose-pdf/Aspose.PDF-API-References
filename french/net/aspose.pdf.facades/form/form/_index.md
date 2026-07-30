@@ -1,7 +1,7 @@
 ---
-title: Form.Form
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de Form. Constructeur de Form sans paramètres
+title: "Form.Form"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur Form. Constructeur de Form sans paramètres"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.facades/form/form/
@@ -21,8 +21,8 @@ public Form()
 
 ### Voir aussi
 
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -47,8 +47,8 @@ Form form = new Form("PdfForm.pdf");
 
 ### Voir aussi
 
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -73,8 +73,8 @@ Form form = new Form(new FileStream("PdfForm.pdf", FileMode.Open, FileAccess.Rea
 
 ### Voir aussi
 
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -93,7 +93,9 @@ public Form(Document document)
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [Document](../../../aspose.pdf/document/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionObject.GetXml
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XmpPdfAExtensionObject. Renvoie la liste des éléments xml qui représentent l'objet dans l'arbre xml
+title: "XmpPdfAExtensionObject.GetXml"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XmpPdfAExtensionObject. Retourne la liste des éléments xml qui représentent l'objet dans l'arbre xml"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/xmppdfaextensionobject/getxml/
 ---
-## Méthode XmpPdfAExtensionObject.GetXml
+## XmpPdfAExtensionObject.GetXml method
 
 Renvoie la liste des éléments xml qui représentent l'objet dans l'arbre xml.
 
@@ -24,6 +24,8 @@ public abstract List<XmlElement> GetXml(XmlDocument xmlDocument)
 
 ### Voir aussi
 
-* classe [XmpPdfAExtensionObject](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpPdfAExtensionObject](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

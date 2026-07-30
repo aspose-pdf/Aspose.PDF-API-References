@@ -1,12 +1,12 @@
 ---
-title: Class MoveTextPositionSetLeading
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.MoveTextPositionSetLeading. Classe représentant l'opérateur TD pour déplacer la position et définir l'interligne
+title: "Classe MoveTextPositionSetLeading"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.MoveTextPositionSetLeading classe. Classe représentant l'opérateur TD déplacer la position et définir l'interligne"
 type: docs
-weight: 7490
+weight: 7630
 url: /fr/net/aspose.pdf.operators/movetextpositionsetleading/
 ---
-## Classe MoveTextPositionSetLeading
+## MoveTextPositionSetLeading class
 
 Classe représentant l'opérateur TD (déplacer la position et définir l'interligne).
 
@@ -32,12 +32,14 @@ public class MoveTextPositionSetLeading : TextPlaceOperator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/movetextpositionsetleading/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
+| override [Accept](../../aspose.pdf.operators/movetextpositionsetleading/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Renvoie le texte de l'opérateur et ses paramètres. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [TextPlaceOperator](../textplaceoperator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [TextPlaceOperator](../textplaceoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.ContainsUsageRights
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfFileSignature. Vérifie si le pdf a des droits d'utilisation ou non
+title: "PdfFileSignature.ContainsUsageRights"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PdfFileSignature méthode. Vérifie si le pdf possède des droits d'utilisation ou non"
 type: docs
 weight: 100
 url: /fr/net/aspose.pdf.facades/pdffilesignature/containsusagerights/
 ---
-## Méthode PdfFileSignature.ContainsUsageRights
+## PdfFileSignature.ContainsUsageRights method
 
-Vérifie si le pdf a des droits d'utilisation ou non.
+Vérifie si le pdf possède des droits d'utilisation ou non.
 
 ```csharp
 public bool ContainsUsageRights()
@@ -20,6 +20,8 @@ Renvoie un résultat de type bool.
 
 ### Voir aussi
 
-* classe [PdfFileSignature](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

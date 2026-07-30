@@ -1,14 +1,14 @@
 ---
-title: Measure.DistanceFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Measure. Un tableau de format de nombre pour la mesure de distance dans n'importe quelle direction
+title: "Measure.DistanceFormat"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Measure. Un tableau de formats numériques pour la mesure de la distance dans toutes les directions"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.annotations/measure/distanceformat/
 ---
-## Propriété Measure.DistanceFormat
+## Measure.DistanceFormat property
 
-Un tableau de format de nombre pour la mesure de distance dans n'importe quelle direction.
+Un tableau de formats numériques pour la mesure de la distance dans toutes les directions.
 
 ```csharp
 public NumberFormatList DistanceFormat { get; set; }
@@ -16,7 +16,9 @@ public NumberFormatList DistanceFormat { get; set; }
 
 ### Voir aussi
 
-* classe [NumberFormatList](../../measure.numberformatlist/)
-* classe [Measure](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [NumberFormatList](../../measure.numberformatlist/)
+* class [Measure](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

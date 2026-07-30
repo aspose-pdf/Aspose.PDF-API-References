@@ -1,14 +1,14 @@
 ---
-title: Class SaveOptions.MarginInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.SaveOptionsMarginInfo. Une instance de cette classe représente des informations sur la marge de page qui peuvent être dessinées sur un document résultant.
+title: "Classe SaveOptions.MarginInfo"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.SaveOptionsMarginInfo. Une instance de cette classe représente les informations sur la marge de page qui peuvent être dessinées sur un document résultant."
 type: docs
-weight: 9910
+weight: 10060
 url: /fr/net/aspose.pdf/saveoptions.margininfo/
 ---
-## Classe SaveOptions.MarginInfo
+## SaveOptions.MarginInfo class
 
-Une instance de cette classe représente des informations sur la marge de page qui peuvent être dessinées sur un document résultant.
+Une instance de cette classe représente les informations sur la marge de page qui peuvent être dessinées sur un document résultant.
 
 ```csharp
 public class MarginInfo
@@ -19,7 +19,7 @@ public class MarginInfo
 | Nom | Description |
 | --- | --- |
 | [MarginInfo](../../aspose.pdf/saveoptions.margininfo/.ctor#constructor)() | Crée une instance de MarginInfo |
-| [MarginInfo](../../aspose.pdf/saveoptions.margininfo/.ctor#constructor_1)(MarginPartStyle) | Crée une instance de la classe MarginInfo et initialise tous les éléments de la marge de page (Haut, Gauche, Droite, Bas) avec des attributs copiés du style de marge fourni |
+| [MarginInfo](../../aspose.pdf/saveoptions.margininfo/.ctor#constructor_1)(MarginPartStyle) | Crée une instance de la classe MarginInfo et initialise tous les éléments de la marge de page (Top, Left, Right, Bottom) avec les attributs copiés depuis le style de marge fourni |
 
 ## Champs
 
@@ -32,6 +32,8 @@ public class MarginInfo
 
 ### Voir aussi
 
-* classe [SaveOptions](../saveoptions/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [SaveOptions](../saveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

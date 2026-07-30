@@ -1,14 +1,14 @@
 ---
-title: RadioButtonField.AddOption
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode RadioButtonField. Ajouter une option de bouton radio avec un rectangle spécifié
+title: "RadioButtonField.AddOption"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode RadioButtonField. Ajoute une option de bouton radio avec le rectangle spécifié"
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.forms/radiobuttonfield/addoption/
 ---
 ## AddOption(string, Rectangle) {#addoption_1}
 
-Ajouter une option de bouton radio avec un rectangle spécifié.
+Ajoute une option au bouton radio avec le rectangle spécifié.
 
 ```csharp
 public void AddOption(string optionName, Rectangle rect)
@@ -21,16 +21,16 @@ public void AddOption(string optionName, Rectangle rect)
 
 ### Voir aussi
 
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [RadioButtonField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [RadioButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddOption(string) {#addoption}
 
-Ajouter une option au bouton radio.
+Ajoute une option au bouton radion.
 
 ```csharp
 public override void AddOption(string optionName)
@@ -42,6 +42,8 @@ public override void AddOption(string optionName)
 
 ### Voir aussi
 
-* classe [RadioButtonField](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [RadioButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

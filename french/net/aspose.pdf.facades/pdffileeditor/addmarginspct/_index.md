@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.AddMarginsPct
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfFileEditor. Redimensionne le contenu de la page et ajoute les marges spécifiées. Les marges sont spécifiées en pourcentages de la taille initiale de la page.
+title: "PdfFileEditor.AddMarginsPct"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfFileEditor. Redimensionne le contenu des pages et ajoute les marges spécifiées. Les marges sont exprimées en pourcentage de la taille initiale de la page"
 type: docs
 weight: 230
 url: /fr/net/aspose.pdf.facades/pdffileeditor/addmarginspct/
 ---
 ## AddMarginsPct(Stream, Stream, int[], double, double, double, double) {#addmarginspct}
 
-Redimensionne le contenu de la page et ajoute les marges spécifiées. Les marges sont spécifiées en pourcentages de la taille initiale de la page.
+Redimensionne le contenu des pages et ajoute les marges spécifiées. Les marges sont exprimées en pourcentage de la taille initiale de la page.
 
 ```csharp
 public bool AddMarginsPct(Stream source, Stream destination, int[] pages, double leftMargin, 
@@ -17,17 +17,17 @@ public bool AddMarginsPct(Stream source, Stream destination, int[] pages, double
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| source | Stream | Flux qui contient le document source. |
+| source | Stream | Flux contenant le document source. |
 | destination | Stream | Flux où le document résultant sera enregistré. |
-| pages | Int32[] | Tableau des index de page. Si null, toutes les pages du document seront traitées. |
-| leftMargin | Double | Marge gauche en pourcentages de la taille initiale de la page. |
-| rightMargin | Double | Marge droite en pourcentages de la taille initiale de la page. |
-| topMargin | Double | Marge supérieure en pourcentages de la taille initiale de la page. |
-| bottomMargin | Double | Marge inférieure en pourcentages de la taille initiale de la page. |
+| pages | Int32[] | Tableau d'index de pages. Si null, alors toutes les pages du document seront traitées. |
+| leftMargin | Double | Marge gauche en pourcentage de la taille initiale de la page. |
+| rightMargin | Double | Marge droite en pourcentage de la taille initiale de la page. |
+| topMargin | Double | Marge supérieure en pourcentage de la taille initiale de la page. |
+| bottomMargin | Double | Marge inférieure en pourcentage de la taille initiale de la page. |
 
 ### Valeur de retour
 
-true si l'action a été effectuée avec succès.
+Vrai si l'action a été exécutée avec succès.
 
 ## Exemples
 
@@ -36,30 +36,30 @@ PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 fileEditor.AddMarginsPct(src, dest, 
-    //process pages 1, 2, 3
+    //traiter les pages 1, 2, 3
     new int[] { 1, 2, 3}, 
-    //left margin is 15% of page width 
+    //la marge gauche est de 15 % de la largeur de la page
     15, 
-    //right margin is 10% of page width
+    //la marge droite est de 10 % de la largeur de la page
     10, 
-    //top margin is 20% of page width
+    //la marge supérieure est de 20 % de la largeur de la page
     20, 
-    //bottom margin is 5% of page width
+    //la marge inférieure est de 5 % de la largeur de la page
     5);
     dest.Close();
 ```
 
 ### Voir aussi
 
-* classe [PdfFileEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddMarginsPct(string, string, int[], double, double, double, double) {#addmarginspct_1}
 
-Redimensionne le contenu de la page et ajoute les marges spécifiées. Les marges sont spécifiées en pourcentages de la taille initiale de la page.
+Redimensionne le contenu des pages et ajoute les marges spécifiées. Les marges sont exprimées en pourcentage de la taille initiale de la page.
 
 ```csharp
 public bool AddMarginsPct(string source, string destination, int[] pages, double leftMargin, 
@@ -70,35 +70,37 @@ public bool AddMarginsPct(string source, string destination, int[] pages, double
 | --- | --- | --- |
 | source | String | Chemin vers le document source. |
 | destination | String | Chemin où le document résultant sera enregistré. |
-| pages | Int32[] | Tableau des index de page. Si null, toutes les pages du document seront traitées. |
-| leftMargin | Double | Marge gauche en pourcentages de la taille initiale de la page. |
-| rightMargin | Double | Marge droite en pourcentages de la taille initiale de la page. |
-| topMargin | Double | Marge supérieure en pourcentages de la taille initiale de la page. |
-| bottomMargin | Double | Marge inférieure en pourcentages de la taille initiale de la page. |
+| pages | Int32[] | Tableau d'index de pages. Si null, alors toutes les pages du document seront traitées. |
+| leftMargin | Double | Marge gauche en pourcentage de la taille initiale de la page. |
+| rightMargin | Double | Marge droite en pourcentage de la taille initiale de la page. |
+| topMargin | Double | Marge supérieure en pourcentage de la taille initiale de la page. |
+| bottomMargin | Double | Marge inférieure en pourcentage de la taille initiale de la page. |
 
 ### Valeur de retour
 
-true si le redimensionnement a réussi
+Vrai si le redimensionnement a réussi
 
 ## Exemples
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 fileEditor.AddMarginsPct("input.pdf", "output.pdf", 
-    //process pages 1, 2, 3
+    //traiter les pages 1, 2, 3
     new int[] { 1, 2, 3}, 
-    //left margin is 15% of page width 
+    //la marge gauche est de 15 % de la largeur de la page
     15, 
-    //right margin is 10% of page width
+    //la marge droite est de 10 % de la largeur de la page
     10, 
-    //top margin is 20% of page width
+    //la marge supérieure est de 20 % de la largeur de la page
     20, 
-    //bottom margin is 5% of page width
+    //la marge inférieure est de 5 % de la largeur de la page
     5);
 ```
 
 ### Voir aussi
 
-* classe [PdfFileEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

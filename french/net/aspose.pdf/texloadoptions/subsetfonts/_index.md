@@ -1,14 +1,14 @@
 ---
-title: TeXLoadOptions.SubsetFonts
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété TeXLoadOptions. Obtient/définit le drapeau indiquant s'il faut sous-ensemencer les polices dans le fichier de sortie ou non
+title: "TeXLoadOptions.SubsetFonts"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété TeXLoadOptions. Obtient/Définit le drapeau indiquant s'il faut sous-ensembliser les polices dans le fichier de sortie ou non"
 type: docs
 weight: 110
 url: /fr/net/aspose.pdf/texloadoptions/subsetfonts/
 ---
-## Propriété TeXLoadOptions.SubsetFonts
+## TeXLoadOptions.SubsetFonts property
 
-Obtient/définit le drapeau indiquant s'il faut sous-ensemencer les polices dans le fichier de sortie ou non.
+Obtient/définit l'indicateur indiquant s'il faut sous-ensembler les polices dans le fichier de sortie ou non.
 
 ```csharp
 public bool SubsetFonts { get; set; }
@@ -16,6 +16,8 @@ public bool SubsetFonts { get; set; }
 
 ### Voir aussi
 
-* classe [TeXLoadOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [TeXLoadOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

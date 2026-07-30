@@ -1,14 +1,14 @@
 ---
-title: FitBExplicitDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FitBExplicitDestination. Convertit l'état de l'objet en valeur de chaîne. Exemple 1 FitB
+title: "FitBExplicitDestination.ToString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode FitBExplicitDestination. Convertit l'état de l'objet en valeur chaîne. Exemple 1 FitB"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.annotations/fitbexplicitdestination/tostring/
 ---
-## Méthode FitBExplicitDestination.ToString
+## FitBExplicitDestination.ToString method
 
-Convertit l'état de l'objet en valeur de chaîne. Exemple : "1 FitB".
+Convertit l'état de l'objet en valeur chaîne. Exemple : "1 FitB".
 
 ```csharp
 public override string ToString()
@@ -16,10 +16,12 @@ public override string ToString()
 
 ### Valeur de retour
 
-Valeur de chaîne représentant l'état de l'objet.
+Valeur chaîne représentant l'état de l'objet.
 
 ### Voir aussi
 
-* classe [FitBExplicitDestination](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [FitBExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

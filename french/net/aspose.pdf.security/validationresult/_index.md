@@ -1,12 +1,12 @@
 ---
-title: Class ValidationResult
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Security.ValidationResult. Représente le résultat d'un processus de validation pour un certificat
+title: "Classe ValidationResult"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Security.ValidationResult class. Représente le résultat d'un processus de validation d'un certificat"
 type: docs
-weight: 10080
+weight: 10260
 url: /fr/net/aspose.pdf.security/validationresult/
 ---
-## Classe ValidationResult
+## ValidationResult class
 
 Représente le résultat d'un processus de validation pour un certificat.
 
@@ -19,7 +19,7 @@ public sealed class ValidationResult
 | Nom | Description |
 | --- | --- |
 | [Message](../../aspose.pdf.security/validationresult/message/) { get; } | Représente le message associé au résultat de la validation. |
-| [Status](../../aspose.pdf.security/validationresult/status/) { get; } | Obtient le statut du processus de validation pour un certificat. |
+| [Status](../../aspose.pdf.security/validationresult/status/) { get; } | Obtient le statut du processus de validation d'un certificat. |
 
 ## Remarques
 
@@ -27,5 +27,7 @@ La classe ValidationResult fournit des informations sur le résultat de la valid
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Security](../../aspose.pdf.security/)
+* namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../)
+
+

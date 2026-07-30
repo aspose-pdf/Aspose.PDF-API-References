@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature.GetDateTime
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfFileSignature. Obtient la date et l'heure de la signature
+title: "PdfFileSignature.GetDateTime"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfFileSignature. Obtient la date et l'heure de la signature"
 type: docs
 weight: 170
 url: /fr/net/aspose.pdf.facades/pdffilesignature/getdatetime/
 ---
-## Méthode PdfFileSignature.GetDateTime
+## PdfFileSignature.GetDateTime method
 
 Obtient la date et l'heure de la signature.
 
@@ -20,11 +20,13 @@ public DateTime GetDateTime(SignatureName signName)
 
 ### Valeur de retour
 
-Retourne le résultat de type DateTime.
+Renvoie le résultat de type DateTime.
 
 ### Voir aussi
 
-* classe [SignatureName](../../signaturename/)
-* classe [PdfFileSignature](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

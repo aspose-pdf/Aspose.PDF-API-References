@@ -1,12 +1,12 @@
 ---
-title: Class CustomExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.CustomExplicitDestination. Représente une destination explicite personnalisée
+title: "Classe CustomExplicitDestination"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Annotations.CustomExplicitDestination. Représente une destination explicite personnalisée"
 type: docs
-weight: 1640
+weight: 1730
 url: /fr/net/aspose.pdf.annotations/customexplicitdestination/
 ---
-## Classe CustomExplicitDestination
+## CustomExplicitDestination class
 
 Représente une destination explicite personnalisée.
 
@@ -18,8 +18,8 @@ public sealed class CustomExplicitDestination : ExplicitDestination
 
 | Nom | Description |
 | --- | --- |
-| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Obtient l'objet de la page de destination |
-| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Obtient le numéro de la page de destination |
+| [Page](../../aspose.pdf.annotations/explicitdestination/page/) { get; } | Obtient l'objet de page de destination |
+| [PageNumber](../../aspose.pdf.annotations/explicitdestination/pagenumber/) { get; } | Obtient le numéro de page de destination |
 
 ## Méthodes
 
@@ -29,6 +29,8 @@ public sealed class CustomExplicitDestination : ExplicitDestination
 
 ### Voir aussi
 
-* classe [ExplicitDestination](../explicitdestination/)
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* class [ExplicitDestination](../explicitdestination/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

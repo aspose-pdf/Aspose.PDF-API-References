@@ -1,12 +1,12 @@
 ---
-title: Paragraphs.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Paragraphs. Ajouter un paragraphe à la collection
+title: "Paragraphs.Add"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Paragraphs. Ajouter un paragraphe à la collection"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/paragraphs/add/
 ---
-## Méthode Paragraphs.Add
+## Paragraphs.Add method
 
 Ajouter un paragraphe à la collection.
 
@@ -16,11 +16,13 @@ public void Add(BaseParagraph paragraph)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| paragraph | BaseParagraph | Le paragraphe. |
+| paragraphe | BaseParagraph | Le paragraphe. |
 
 ### Voir aussi
 
-* classe [BaseParagraph](../../baseparagraph/)
-* classe [Paragraphs](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [BaseParagraph](../../baseparagraph/)
+* class [Paragraphs](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

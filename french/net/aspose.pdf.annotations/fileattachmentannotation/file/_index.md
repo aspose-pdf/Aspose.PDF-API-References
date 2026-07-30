@@ -1,12 +1,12 @@
 ---
-title: FileAttachmentAnnotation.File
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FileAttachmentAnnotation. La spécification du fichier associé à cette annotation
+title: "FileAttachmentAnnotation.File"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FileAttachmentAnnotation. La spécification du fichier associé à cette annotation"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.annotations/fileattachmentannotation/file/
 ---
-## Propriété FileAttachmentAnnotation.File
+## FileAttachmentAnnotation.File property
 
 La spécification du fichier associé à cette annotation.
 
@@ -16,7 +16,9 @@ public FileSpecification File { get; set; }
 
 ### Voir aussi
 
-* classe [FileSpecification](../../../aspose.pdf/filespecification/)
-* classe [FileAttachmentAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [FileAttachmentAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

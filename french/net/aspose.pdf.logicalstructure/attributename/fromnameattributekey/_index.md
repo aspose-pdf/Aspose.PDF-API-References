@@ -1,12 +1,12 @@
 ---
-title: AttributeName.FromNameAttributeKey
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode AttributeName. Obtient le nom de l'attribut pour la clé d'attribut
+title: "AttributeName.FromNameAttributeKey"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode AttributeName. Obtient le nom de l'attribut pour la clé d'attribut"
 type: docs
 weight: 670
 url: /fr/net/aspose.pdf.logicalstructure/attributename/fromnameattributekey/
 ---
-## Méthode AttributeName.FromNameAttributeKey
+## AttributeName.FromNameAttributeKey method
 
 Obtient le nom de l'attribut pour la clé d'attribut.
 
@@ -16,16 +16,18 @@ public static AttributeName FromNameAttributeKey(string name, AttributeKey attri
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| name | String | Nom de l'attribut |
+| nom | String | Nom d'attribut |
 | attributeKey | AttributeKey | Clé d'attribut |
 
 ### Valeur de retour
 
-Nom de l'attribut
+Nom d'attribut
 
 ### Voir aussi
 
-* classe [AttributeKey](../../attributekey/)
-* classe [AttributeName](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeKey](../../attributekey/)
+* class [AttributeName](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

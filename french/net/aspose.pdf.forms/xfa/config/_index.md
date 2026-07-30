@@ -1,14 +1,14 @@
 ---
-title: XFA.Config
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété XFA. Composant XFA Config d'un formulaire XFA
+title: "XFA.Config"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété XFA. Composant XFA Config d'un formulaire XFA"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.forms/xfa/config/
 ---
-## Propriété XFA.Config
+## XFA.Config property
 
-Composant XFA Config d'un formulaire XFA.
+Composant XFA Config d’un formulaire XFA.
 
 ```csharp
 public XmlNode Config { get; }
@@ -16,6 +16,8 @@ public XmlNode Config { get; }
 
 ### Voir aussi
 
-* classe [XFA](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [XFA](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

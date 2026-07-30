@@ -1,12 +1,12 @@
 ---
-title: Matrix.GetFlipMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Matrix. Obtient la matrice de retournement
+title: "Matrix.GetFlipMatrix"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Matrix. Obtient la matrice de retournement"
 type: docs
 weight: 150
 url: /fr/net/aspose.pdf/matrix/getflipmatrix/
 ---
-## Méthode Matrix.GetFlipMatrix
+## Matrix.GetFlipMatrix method
 
 Obtient la matrice de retournement.
 
@@ -16,6 +16,8 @@ public Matrix GetFlipMatrix()
 
 ### Voir aussi
 
-* classe [Matrix](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

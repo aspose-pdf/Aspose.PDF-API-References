@@ -1,14 +1,14 @@
 ---
-title: CircleAnnotation.CircleAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de CircleAnnotation. Constructeur pour l'annotation Circle
+title: "CircleAnnotation.CircleAnnotation"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur CircleAnnotation. Constructeur pour l'annotation Circle"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.annotations/circleannotation/circleannotation/
 ---
 ## CircleAnnotation(Document) {#constructor}
 
-Constructeur pour l'annotation Circle.
+Constructeur pour l'annotation Cercle.
 
 ```csharp
 public CircleAnnotation(Document document)
@@ -20,16 +20,16 @@ public CircleAnnotation(Document document)
 
 ### Voir aussi
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [CircleAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Document](../../../aspose.pdf/document/)
+* class [CircleAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## CircleAnnotation(Page, Rectangle) {#constructor_1}
 
-Crée une nouvelle annotation Circle sur la page spécifiée.
+Crée une nouvelle annotation Cercle sur la page spécifiée.
 
 ```csharp
 public CircleAnnotation(Page page, Rectangle rect)
@@ -37,13 +37,15 @@ public CircleAnnotation(Page page, Rectangle rect)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| page | Page | Page du document où l'annotation doit être créée. |
+| page | Page | Page du Document où l'annotation doit être créée. |
 | rect | Rectangle | Rectangle requis qui définit la bordure de l'annotation. |
 
 ### Voir aussi
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [CircleAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [CircleAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

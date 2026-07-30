@@ -1,12 +1,12 @@
 ---
-title: CreateChatCompletionChunkResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété CreateChatCompletionChunkResponse. Obtient ou définit le type d'objet qui est toujours chat.completion.chunk
+title: "CreateChatCompletionChunkResponse.Object"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "CreateChatCompletionChunkResponse propriété. Obtient ou définit le type d'objet qui est toujours chat.completion.chunk"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.ai/createchatcompletionchunkresponse/object/
 ---
-## Propriété CreateChatCompletionChunkResponse.Object
+## CreateChatCompletionChunkResponse.Object property
 
 Obtient ou définit le type d'objet, qui est toujours chat.completion.chunk.
 
@@ -16,6 +16,8 @@ public string Object { get; set; }
 
 ### Voir aussi
 
-* classe [CreateChatCompletionChunkResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [CreateChatCompletionChunkResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

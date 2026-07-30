@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.PosSidesRight
-second_title: Aspose.PDF for .NET API Reference
-description: Champ PdfFileStamp. Position droite
+title: "PdfFileStamp.PosSidesRight"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PdfFileStamp champ. Position droite"
 type: docs
 weight: 210
 url: /fr/net/aspose.pdf.facades/pdffilestamp/possidesright/
 ---
-## Champ PdfFileStamp.PosSidesRight
+## PdfFileStamp.PosSidesRight field
 
-Position droite.
+Position à droite.
 
 ```csharp
 public const int PosSidesRight;
@@ -16,6 +16,8 @@ public const int PosSidesRight;
 
 ### Voir aussi
 
-* classe [PdfFileStamp](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileStamp](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

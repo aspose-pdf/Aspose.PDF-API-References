@@ -1,14 +1,14 @@
 ---
-title: Document.OutputIntents
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété du document. Obtient la collection des intentions de sortie dans le document
+title: "Document.OutputIntents"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Document. Obtient la collection d'intentions de sortie dans le document"
 type: docs
-weight: 420
+weight: 440
 url: /fr/net/aspose.pdf/document/outputintents/
 ---
-## Propriété Document.OutputIntents
+## Document.OutputIntents property
 
-Obtient la collection des intentions de sortie dans le document.
+Obtient la collection d'intentions de sortie dans le document.
 
 ```csharp
 public OutputIntents OutputIntents { get; }
@@ -16,7 +16,9 @@ public OutputIntents OutputIntents { get; }
 
 ### Voir aussi
 
-* classe [OutputIntents](../../outputintents/)
-* classe [Document](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [OutputIntents](../../outputintents/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

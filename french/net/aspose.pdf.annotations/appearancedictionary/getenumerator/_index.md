@@ -1,12 +1,12 @@
 ---
-title: AppearanceDictionary.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode AppearanceDictionary. Renvoie un objet IDictionaryEnumerator pour le dictionnaire
+title: "AppearanceDictionary.GetEnumerator"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode AppearanceDictionary. Retourne un objet IDictionaryEnumerator pour le dictionnaire"
 type: docs
 weight: 140
 url: /fr/net/aspose.pdf.annotations/appearancedictionary/getenumerator/
 ---
-## Méthode AppearanceDictionary.GetEnumerator
+## AppearanceDictionary.GetEnumerator method
 
 Renvoie un objet IDictionaryEnumerator pour le dictionnaire.
 
@@ -20,7 +20,9 @@ public IEnumerator<KeyValuePair<string, XForm>> GetEnumerator()
 
 ### Voir aussi
 
-* classe [XForm](../../../aspose.pdf/xform/)
-* classe [AppearanceDictionary](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

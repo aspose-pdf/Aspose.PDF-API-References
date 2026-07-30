@@ -1,14 +1,14 @@
 ---
-title: Class EncryptedPayload
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.EncryptedPayload. Représente une charge utile chiffrée dans la spécification de fichier
+title: "Classe EncryptedPayload"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.EncryptedPayload classe. Représente la charge chiffrée dans la spécification du fichier"
 type: docs
-weight: 4040
+weight: 4160
 url: /fr/net/aspose.pdf/encryptedpayload/
 ---
-## Classe EncryptedPayload
+## EncryptedPayload class
 
-Représente une charge utile chiffrée dans la spécification de fichier.
+Représente la charge utile chiffrée dans la spécification de fichier.
 
 ```csharp
 public sealed class EncryptedPayload
@@ -18,7 +18,7 @@ public sealed class EncryptedPayload
 
 | Nom | Description |
 | --- | --- |
-| [EncryptedPayload](encryptedpayload/)(FileSpecification) | Initialise l'instance de charge utile chiffrée. |
+| [EncryptedPayload](encryptedpayload/)(FileSpecification) | Initialise une instance de charge chiffrée. |
 
 ## Propriétés
 
@@ -30,5 +30,7 @@ public sealed class EncryptedPayload
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

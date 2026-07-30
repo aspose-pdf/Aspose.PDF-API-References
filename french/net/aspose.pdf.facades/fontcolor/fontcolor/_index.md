@@ -1,7 +1,7 @@
 ---
-title: FontColor.FontColor
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur FontColor. Initialise la couleur avec les composants de couleur spécifiés
+title: "FontColor.FontColor"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur FontColor. Initialise la couleur avec les composants de couleur spécifiés"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.facades/fontcolor/fontcolor/
@@ -16,14 +16,14 @@ public FontColor(int r, int g, int b)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| r | Int32 | Composant rouge. |
-| g | Int32 | Composant vert. |
-| b | Int32 | Composant bleu. |
+| r | Int32 | Composante rouge. |
+| g | Int32 | Composante verte. |
+| b | Int32 | Composante bleue. |
 
 ### Voir aussi
 
-* classe [FontColor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FontColor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -38,6 +38,8 @@ public FontColor()
 
 ### Voir aussi
 
-* classe [FontColor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FontColor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class EpubSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.EpubSaveOptions. Options d'enregistrement pour l'exportation au format EPUB
+title: "Classe EpubSaveOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.EpubSaveOptions classe. Options d'enregistrement pour l'exportation au format EPUB"
 type: docs
-weight: 4060
+weight: 4180
 url: /fr/net/aspose.pdf/epubsaveoptions/
 ---
-## Classe EpubSaveOptions
+## EpubSaveOptions class
 
 Options d'enregistrement pour l'exportation au format EPUB
 
@@ -24,20 +24,20 @@ public class EpubSaveOptions : UnifiedSaveOptions
 
 | Nom | Description |
 | --- | --- |
-| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Obtient ou définit une valeur booléenne qui indique si les glyphes de police seront mis en cache lors de la préparation des pages aps. Améliore les performances de conversion du PDF vers d'autres formats mais augmente la consommation de mémoire. |
-| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Obtient ou définit une valeur booléenne qui indique si l'objet Response sera fermé après que le document ait été enregistré dans la réponse. |
-| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | Cet attribut active la fonctionnalité d'extraction d'image ou de texte pour les documents PDF avec sous-couche OCR. |
-| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format de sauvegarde des données. |
+| [CacheGlyphs](../../aspose.pdf/saveoptions/cacheglyphs/) { get; set; } | Obtient ou définit la valeur booléenne qui indique si les glyphes de police seront mis en cache lors de la préparation des pages aps. Améliore les performances de la conversion pdf vers d’autres formats mais augmente la consommation de mémoire. |
+| [CloseResponse](../../aspose.pdf/saveoptions/closeresponse/) { get; set; } | Obtient ou définit la valeur booléenne qui indique si l’objet Response sera fermé après que le document ait été enregistré dans la réponse. |
+| [ExtractOcrSublayerOnly](../../aspose.pdf/unifiedsaveoptions/extractocrsublayeronly/) { get; set; } | Cet attribut active la fonctionnalité d’extraction d’image ou de texte pour les documents PDF avec une sous-couche OCR. |
+| [SaveFormat](../../aspose.pdf/saveoptions/saveformat/) { get; } | Format d’enregistrement des données. |
 | [Title](../../aspose.pdf/epubsaveoptions/title/) { get; set; } | Obtient ou définit le titre du document EPUB. |
-| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Callback pour gérer les avertissements générés. Le WarningHandler retourne un élément de l'énumération ReturnAction spécifiant soit Continuer soit Abandonner. Continuer est l'action par défaut et l'opération de sauvegarde continue, cependant l'utilisateur peut également retourner Abandonner dans ce cas l'opération de sauvegarde doit cesser. |
+| [WarningHandler](../../aspose.pdf/saveoptions/warninghandler/) { get; set; } | Rappel pour gérer les avertissements générés. Le WarningHandler renvoie l’élément d’énumération ReturnAction spécifiant soit Continue, soit Abort. Continue est l’action par défaut et l’opération Save se poursuit, cependant l’utilisateur peut également renvoyer Abort auquel cas l’opération Save doit s’arrêter. |
 
 ## Champs
 
 | Nom | Description |
 | --- | --- |
-| [ContentRecognitionMode](../../aspose.pdf/epubsaveoptions/contentrecognitionmode/) | Lorsque le fichier PDF (qui a généralement une mise en page fixe) est converti, le moteur de conversion essaie d'effectuer un regroupement et une analyse multi-niveaux pour restaurer l'intention de l'auteur du document original et produire un résultat en mise en page fluide. Cette propriété ajuste cette conversion pour cette ou cette méthode souhaitable de reconnaissance de contenu. |
-| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | Traiter les pages dans plusieurs threads. |
-| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | Parfois, les PDF contiennent des images de fond (de pages ou de cellules de tableau) construites à partir de plusieurs mêmes images de fond en mosaïque placées les unes à côté des autres. Dans ce cas, les rendus des formats cibles (par exemple, MsWord pour le format DOCS) génèrent parfois des limites visibles entre les parties des images de fond, car leurs techniques de lissage des bords d'image (anti-aliasing) sont différentes de celles d'Acrobat Reader. Si le document exporté contient de telles limites visibles entre les parties des mêmes images de fond, veuillez essayer d'utiliser ce paramètre pour vous débarrasser de cet effet indésirable. ATTENTION ! Cette optimisation de la qualité ralentit généralement considérablement la conversion, donc, veuillez utiliser cette option uniquement lorsque cela est vraiment nécessaire. |
+| [ContentRecognitionMode](../../aspose.pdf/epubsaveoptions/contentrecognitionmode/) | Lorsque le fichier PDF (qui a généralement une mise en page fixe) est converti, le moteur de conversion tente d'effectuer un regroupement et une analyse à plusieurs niveaux afin de restaurer l'intention de l'auteur du document original et de produire un résultat en mise en page fluide. Cette propriété ajuste cette conversion pour telle ou telle méthode souhaitable de reconnaissance du contenu. |
+| [IsMultiThreading](../../aspose.pdf/unifiedsaveoptions/ismultithreading/) | Traiter les pages avec quelques threads. |
+| [TryMergeAdjacentSameBackgroundImages](../../aspose.pdf/unifiedsaveoptions/trymergeadjacentsamebackgroundimages/) | Parfois, les PDFs contiennent des images d’arrière‑plan (de pages ou de cellules de tableau) construites à partir de plusieurs images d’arrière‑plan en mosaïque identiques placées les unes à côté des autres. Dans ce cas, les rendus des formats cibles (par ex. MsWord pour le format DOCS) génèrent parfois des bordures visibles entre les parties des images d’arrière‑plan, car leurs techniques de lissage des bords d’image (anti‑aliasing) diffèrent de celles d’Acrobat Reader. Si le document exporté semble contenir de telles bordures visibles entre les parties des mêmes images d’arrière‑plan, veuillez essayer d’utiliser ce paramètre pour vous débarrasser de cet effet indésirable. ATTENTION ! Cette optimisation de la qualité ralentit généralement considérablement la conversion, donc, veuillez n’utiliser cette option que lorsqu’elle est réellement nécessaire. |
 
 ## Exemples
 
@@ -45,22 +45,22 @@ L'exemple suivant montre comment convertir un fichier PDF en fichier EPUB
 
 ```csharp
 	[C#]
-	// The path to the documents directory.
+	// Le chemin du répertoire des documents.
 	string dataDir = "YOUR_DATA_DIRECTORY";
 
-	// The path to your PDF File.
+	// Le chemin vers votre fichier PDF.
 	var pdfFile = Path.Combine(dataDir, "PDF-to-EPUB.pdf");
 
-	// The path to output EPUB File.
+	// Le chemin du fichier EPUB de sortie.
 	var epubFile = Path.Combine(dataDir, "PDF-to-EPUB.epub");
 		
 	using (Document pdfDocument = new Document(pdfFile))
 	{
 
-		// Initialize EpubSaveOptions 	
+		// Initialiser EpubSaveOptions 	
 		EpubSaveOptions saveOptions = new EpubSaveOptions();
 		
-		// Save EPUB file
+		// Enregistrer le fichier EPUB
 		pdfDocument.Save(epubFile, saveOptions);
 	}
 ````
@@ -89,6 +89,8 @@ L'exemple suivant montre comment convertir un fichier PDF en fichier EPUB
 
 ### Voir aussi
 
-* classe [UnifiedSaveOptions](../unifiedsaveoptions/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [UnifiedSaveOptions](../unifiedsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

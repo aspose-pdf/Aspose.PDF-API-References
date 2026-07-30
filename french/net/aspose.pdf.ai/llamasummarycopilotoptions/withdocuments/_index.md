@@ -1,7 +1,7 @@
 ---
-title: LlamaSummaryCopilotOptions.WithDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode LlamaSummaryCopilotOptions. Définit la collection de documents pour les options du copilote de résumé
+title: "LlamaSummaryCopilotOptions.WithDocuments"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode LlamaSummaryCopilotOptions. Définit la collection de documents pour les options du copilote de résumé"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf.ai/llamasummarycopilotoptions/withdocuments/
@@ -16,7 +16,7 @@ public LlamaSummaryCopilotOptions WithDocuments(DocumentCollection documentColle
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| documentCollection | DocumentCollection | La collection de documents à définir. |
+| documentCollection | DocumentCollection | La collection de Documents à définir. |
 
 ### Valeur de retour
 
@@ -24,9 +24,9 @@ L'instance actuelle de [`LlamaSummaryCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [DocumentCollection](../../documentcollection/)
-* classe [LlamaSummaryCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [DocumentCollection](../../documentcollection/)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -49,9 +49,9 @@ L'instance actuelle de [`LlamaSummaryCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [TextDocument](../../textdocument/)
-* classe [LlamaSummaryCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [TextDocument](../../textdocument/)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -74,9 +74,9 @@ L'instance actuelle de [`LlamaSummaryCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [PdfDocument](../../pdfdocument/)
-* classe [LlamaSummaryCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [PdfDocument](../../pdfdocument/)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -99,6 +99,8 @@ L'instance actuelle de [`LlamaSummaryCopilotOptions`](../).
 
 ### Voir aussi
 
-* classe [LlamaSummaryCopilotOptions](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [LlamaSummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

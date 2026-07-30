@@ -1,14 +1,14 @@
 ---
-title: PdfFileMend.AddText
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfFileMend. Non implémentée
+title: "PdfFileMend.AddText"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode PdfFileMend. Non implémentée"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.facades/pdffilemend/addtext/
 ---
 ## AddText(FormattedText, int, float, float) {#addtext}
 
-Non implémentée.
+Non implémenté.
 
 ```csharp
 public bool AddText(FormattedText text, int pageNum, float lowerLeftX, float lowerLeftY)
@@ -16,27 +16,27 @@ public bool AddText(FormattedText text, int pageNum, float lowerLeftX, float low
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| text | FormattedText | Objet FormattedText. |
+| texte | FormattedText | Objet FormattedText. |
 | pageNum | Int32 | Numéro de page. |
-| lowerLeftX | Single | Coordonnée X inférieure gauche. |
-| lowerLeftY | Single | Coordonnée Y inférieure gauche. |
+| lowerLeftX | Single | Coordonnée X du coin inférieur gauche. |
+| lowerLeftY | Single | Coordonnée Y du coin inférieur gauche. |
 
 ### Valeur de retour
 
-Vrai si le texte a été ajouté avec succès.
+True si le texte a été ajouté avec succès.
 
 ### Voir aussi
 
-* classe [FormattedText](../../formattedtext/)
-* classe [PdfFileMend](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddText(FormattedText, int, float, float, float, float) {#addtext_1}
 
-Non implémentée.
+Non implémenté.
 
 ```csharp
 public bool AddText(FormattedText text, int pageNum, float lowerLeftX, float lowerLeftY, 
@@ -45,29 +45,29 @@ public bool AddText(FormattedText text, int pageNum, float lowerLeftX, float low
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| text | FormattedText | Objet FormattedText. |
+| texte | FormattedText | Objet FormattedText. |
 | pageNum | Int32 | Numéro de page. |
-| lowerLeftX | Single | Coordonnée X inférieure gauche. |
-| lowerLeftY | Single | Coordonnée Y inférieure gauche. |
-| upperRightX | Single | Coordonnée X supérieure droite. |
-| upperRightY | Single | Coordonnée Y supérieure droite. |
+| lowerLeftX | Single | Coordonnée X du coin inférieur gauche. |
+| lowerLeftY | Single | Coordonnée Y du coin inférieur gauche. |
+| upperRightX | Single | Coordonnée X du coin supérieur droit. |
+| upperRightY | Single | Coordonnée Y du coin supérieur droit. |
 
 ### Valeur de retour
 
-Vrai si le texte a été ajouté avec succès.
+True si le texte a été ajouté avec succès.
 
 ### Voir aussi
 
-* classe [FormattedText](../../formattedtext/)
-* classe [PdfFileMend](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
 ## AddText(FormattedText, int[], float, float, float, float) {#addtext_2}
 
-Non implémentée.
+Non implémenté.
 
 ```csharp
 public bool AddText(FormattedText text, int[] pageNums, float lowerLeftX, float lowerLeftY, 
@@ -76,20 +76,22 @@ public bool AddText(FormattedText text, int[] pageNums, float lowerLeftX, float 
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| text | FormattedText | Objet FormattedText. |
+| texte | FormattedText | Objet FormattedText. |
 | pageNums | Int32[] | Tableau des numéros de page. |
-| lowerLeftX | Single | Coordonnée X inférieure gauche. |
-| lowerLeftY | Single | Coordonnée Y inférieure gauche. |
-| upperRightX | Single | Coordonnée X supérieure droite. |
-| upperRightY | Single | Coordonnée Y supérieure droite. |
+| lowerLeftX | Single | Coordonnée X du coin inférieur gauche. |
+| lowerLeftY | Single | Coordonnée Y du coin inférieur gauche. |
+| upperRightX | Single | Coordonnée X du coin supérieur droit. |
+| upperRightY | Single | Coordonnée Y du coin supérieur droit. |
 
 ### Valeur de retour
 
-Vrai si le texte a été ajouté avec succès.
+True si le texte a été ajouté avec succès.
 
 ### Voir aussi
 
-* classe [FormattedText](../../formattedtext/)
-* classe [PdfFileMend](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormattedText](../../formattedtext/)
+* class [PdfFileMend](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

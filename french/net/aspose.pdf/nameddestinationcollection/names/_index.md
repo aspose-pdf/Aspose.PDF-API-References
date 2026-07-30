@@ -1,12 +1,12 @@
 ---
-title: NamedDestinationCollection.Names
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété NamedDestinationCollection. Liste des noms des destinations
+title: "NamedDestinationCollection.Names"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété NamedDestinationCollection. Liste des noms des destinations"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/nameddestinationcollection/names/
 ---
-## Propriété NamedDestinationCollection.Names
+## NamedDestinationCollection.Names property
 
 Liste des noms des destinations.
 
@@ -16,6 +16,8 @@ public string[] Names { get; }
 
 ### Voir aussi
 
-* classe [NamedDestinationCollection](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [NamedDestinationCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

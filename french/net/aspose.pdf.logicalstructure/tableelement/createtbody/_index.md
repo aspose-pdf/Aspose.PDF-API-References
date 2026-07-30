@@ -1,12 +1,12 @@
 ---
-title: TableElement.CreateTBody
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TableElement. Crée TableTHeadElement et l'ajoute à la table actuelle
+title: "TableElement.CreateTBody"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TableElement. Crée TableTHeadElement et l'ajoute à la table actuelle"
 type: docs
 weight: 200
 url: /fr/net/aspose.pdf.logicalstructure/tableelement/createtbody/
 ---
-## Méthode TableElement.CreateTBody
+## TableElement.CreateTBody method
 
 Crée [`TableTHeadElement`](../../tabletheadelement/) et l'ajoute à la table actuelle.
 
@@ -20,7 +20,9 @@ public TableTBodyElement CreateTBody()
 
 ### Voir aussi
 
-* classe [TableTBodyElement](../../tabletbodyelement/)
-* classe [TableElement](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [TableTBodyElement](../../tabletbodyelement/)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

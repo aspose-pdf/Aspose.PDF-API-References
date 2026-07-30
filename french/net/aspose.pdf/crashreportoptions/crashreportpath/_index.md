@@ -1,12 +1,12 @@
 ---
-title: CrashReportOptions.CrashReportPath
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété CrashReportOptions. Chemin complet du fichier de rapport de plantage
+title: "CrashReportOptions.CrashReportPath"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété CrashReportOptions. Chemin complet du fichier de rapport de plantage"
 type: docs
 weight: 50
 url: /fr/net/aspose.pdf/crashreportoptions/crashreportpath/
 ---
-## Propriété CrashReportOptions.CrashReportPath
+## CrashReportOptions.CrashReportPath property
 
 Chemin complet du fichier de rapport de plantage
 
@@ -16,6 +16,8 @@ public string CrashReportPath { get; }
 
 ### Voir aussi
 
-* classe [CrashReportOptions](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [CrashReportOptions](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

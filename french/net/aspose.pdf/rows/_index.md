@@ -1,14 +1,14 @@
 ---
-title: Class Rows
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Rows. Représente une collection de lignes de tableau
+title: "Classe Rows"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Rows. Représente une collection de lignes d'un tableau"
 type: docs
-weight: 9840
+weight: 9990
 url: /fr/net/aspose.pdf/rows/
 ---
-## Classe Rows
+## Rows class
 
-Représente une collection de lignes de tableau.
+Représente une collection de lignes du tableau.
 
 ```csharp
 public sealed class Rows : IEnumerable<Row>
@@ -33,15 +33,17 @@ public sealed class Rows : IEnumerable<Row>
 | --- | --- |
 | [Add](../../aspose.pdf/rows/add/#add)() | Ajouter une ligne à la collection. |
 | [Add](../../aspose.pdf/rows/add/#add_1)(Row) | Ajouter une ligne à la collection. |
-| [Dispose](../../aspose.pdf/rows/dispose/)() | Disposer. |
+| [Dispose](../../aspose.pdf/rows/dispose/)() | Libère les ressources. |
 | [GetEnumerator](../../aspose.pdf/rows/getenumerator/)() | Obtient l'énumérateur de la collection |
-| [IndexOf](../../aspose.pdf/rows/indexof/)(Row) | Retourne l'index de la ligne dans la collection. |
-| [Remove](../../aspose.pdf/rows/remove/)(Row) | Supprimer une ligne de la collection. |
-| [RemoveAt](../../aspose.pdf/rows/removeat/)(int) | Supprimer une ligne à la position de la collection. |
-| [RemoveRange](../../aspose.pdf/rows/removerange/)(int, int) | Supprimer un ensemble de lignes de la collection. |
+| [IndexOf](../../aspose.pdf/rows/indexof/)(Row) | Renvoie l'index de la ligne dans la collection. |
+| [Remove](../../aspose.pdf/rows/remove/)(Row) | Supprime la ligne de la collection. |
+| [RemoveAt](../../aspose.pdf/rows/removeat/)(int) | Supprime la ligne à la position dans la collection. |
+| [RemoveRange](../../aspose.pdf/rows/removerange/)(int, int) | Supprime l'ensemble de lignes de la collection. |
 
 ### Voir aussi
 
-* classe [Row](../row/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [Row](../row/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

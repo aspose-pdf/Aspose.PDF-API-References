@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.InlineAlign
-second_title: Aspose.PDF for .NET API Reference
-description: Champ AttributeKey. Attribut InlineAlign Propriétaire de l'attribut de mise en page
+title: "AttributeKey.InlineAlign"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "AttributeKey champ. InlineAlign attribut Layout attribut propriétaire"
 type: docs
 weight: 190
 url: /fr/net/aspose.pdf.logicalstructure/attributekey/inlinealign/
 ---
-## Champ AttributeKey.InlineAlign
+## AttributeKey.InlineAlign field
 
-Attribut InlineAlign (Propriétaire de l'attribut de mise en page).
+Attribut InlineAlign (propriétaire de l'attribut Layout).
 
 ```csharp
 public static readonly AttributeKey InlineAlign;
@@ -16,6 +16,8 @@ public static readonly AttributeKey InlineAlign;
 
 ### Voir aussi
 
-* classe [AttributeKey](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeKey](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

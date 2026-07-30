@@ -1,12 +1,12 @@
 ---
-title: XmpField.op_Equality
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XmpField. Implémente l'opérateur
+title: "XmpField.op_Equality"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XmpField. Implémente l'opérateur"
 type: docs
 weight: 140
 url: /fr/net/aspose.pdf/xmpfield/op_equality/
 ---
-## Opérateur d'égalité XmpField
+## XmpField Equality operator
 
 Implémente l'opérateur ==.
 
@@ -16,8 +16,8 @@ public static bool operator ==(XmpField field1, XmpField field2)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| field1 | XmpField | Le champ1. |
-| field2 | XmpField | Le champ2. |
+| field1 | XmpField | Le field1. |
+| field2 | XmpField | Le field2. |
 
 ### Valeur de retour
 
@@ -25,6 +25,8 @@ Le résultat de l'opérateur.
 
 ### Voir aussi
 
-* classe [XmpField](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

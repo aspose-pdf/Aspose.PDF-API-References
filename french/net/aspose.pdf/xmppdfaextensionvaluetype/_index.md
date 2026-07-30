@@ -1,14 +1,14 @@
 ---
-title: Class XmpPdfAExtensionValueType
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.XmpPdfAExtensionValueType. Le schéma ValueType PDF/A est requis pour tous les types de valeurs de propriété qui ne sont pas définis dans la spécification XMP 2004, c'est-à-dire pour les types de valeurs en dehors de la liste suivante  - Types de tableau Alt, Bag, Seq - Types de valeurs de base  Boolean, Choice, Date, Dimensions, Integer, Lang Alt, Locale, MIMEType, ProperName, Real, Text, Thumbnail, URI, URL, XPath - Types de valeurs de gestion des médias  AgentName, RenditionClass, ResourceEvent, ResourceRef, Version - Type de valeur de travail de base  Job - Types de valeurs de schéma EXIF  Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rational URI de l'espace de noms du schéma  http//www.aiim.org/pdfa/ns/type Préfixe d'espace de noms du schéma requis  pdfaType
+title: "Classe XmpPdfAExtensionValueType"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.XmpPdfAExtensionValueType class. Le schéma PDF/A ValueType est requis pour tous les types de valeur de propriété qui ne sont pas définis dans la spécification XMP 2004, c’est‑à‑dire pour les types de valeur en dehors de la liste suivante : types de tableau (ce sont des types conteneurs pouvant contenir un ou plusieurs champs) Alt, Bag, Seq ; types de valeur de base Boolean, open and closed, Choice, Date, Dimensions, Integer, Lang, Alt, Locale, MIMEType, ProperName, Real, Text, Thumbnail, URI, URL, XPath ; types de valeur de gestion des médias AgentName, RenditionClass, ResourceEvent, ResourceRef, Version ; type de valeur de base Job/Workflow : Job ; types de valeur du schéma EXIF Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rational ; espace de noms du schéma URI http//www.aiim.org/pdfa/ns/type ; préfixe d’espace de noms de schéma requis : pdfaType."
 type: docs
-weight: 11490
+weight: 11680
 url: /fr/net/aspose.pdf/xmppdfaextensionvaluetype/
 ---
-## Classe XmpPdfAExtensionValueType
+## XmpPdfAExtensionValueType class
 
-Le schéma ValueType PDF/A est requis pour tous les types de valeurs de propriété qui ne sont pas définis dans la spécification XMP 2004, c'est-à-dire pour les types de valeurs en dehors de la liste suivante : - Types de tableau (ce sont des types conteneurs qui peuvent contenir un ou plusieurs champs) : Alt, Bag, Seq - Types de valeurs de base : Boolean, (ouvert et fermé) Choice, Date, Dimensions, Integer, Lang Alt, Locale, MIMEType, ProperName, Real, Text, Thumbnail, URI, URL, XPath - Types de valeurs de gestion des médias : AgentName, RenditionClass, ResourceEvent, ResourceRef, Version - Type de valeur de travail de base : Job - Types de valeurs de schéma EXIF : Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rational URI de l'espace de noms du schéma : http://www.aiim.org/pdfa/ns/type# Préfixe d'espace de noms du schéma requis : pdfaType
+Le schéma PDF/A ValueType est requis pour tous les types de valeur de propriété qui ne sont pas définis dans la spécification XMP 2004, c’est‑à‑dire pour les types de valeur en dehors de la liste suivante : - Types de tableau (ce sont des types conteneurs pouvant contenir un ou plusieurs champs) : Alt, Bag, Seq - Types de valeur de base : Boolean, (open and closed) Choice, Date, Dimensions, Integer, Lang Alt, Locale, MIMEType, ProperName, Real, Text, Thumbnail, URI, URL, XPath - Types de valeur de gestion des médias : AgentName, RenditionClass, ResourceEvent, ResourceRef, Version - Type de valeur de travail de base : Job - Types de valeur du schéma EXIF : Flash, CFAPattern, DeviceSettings, GPSCoordinate, OECF/SFR, Rational URI de l'espace de noms du schéma : http://www.aiim.org/pdfa/ns/type# Préfixe d'espace de noms requis du schéma : pdfaType
 
 ```csharp
 public sealed class XmpPdfAExtensionValueType : XmpPdfAExtensionObject
@@ -35,7 +35,7 @@ public sealed class XmpPdfAExtensionValueType : XmpPdfAExtensionObject
 
 | Nom | Description |
 | --- | --- |
-| [Add](../../aspose.pdf/xmppdfaextensionvaluetype/add/)(XmpPdfAExtensionField) | Ajoute un nouveau champ. |
+| [Add](../../aspose.pdf/xmppdfaextensionvaluetype/add/)(XmpPdfAExtensionField) | Ajouter un nouveau champ. |
 | [AddRange](../../aspose.pdf/xmppdfaextensionvaluetype/addrange/)(XmpPdfAExtensionField[]) | Ajoute la plage de champs. |
 | [Clear](../../aspose.pdf/xmppdfaextensionvaluetype/clear/)() | Efface tous les champs. |
 | override [GetXml](../../aspose.pdf/xmppdfaextensionvaluetype/getxml/)(XmlDocument) | Renvoie la liste des éléments xml qui représentent le type de valeur dans l'arbre xml. |
@@ -43,6 +43,8 @@ public sealed class XmpPdfAExtensionValueType : XmpPdfAExtensionObject
 
 ### Voir aussi
 
-* classe [XmpPdfAExtensionObject](../xmppdfaextensionobject/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [XmpPdfAExtensionObject](../xmppdfaextensionobject/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

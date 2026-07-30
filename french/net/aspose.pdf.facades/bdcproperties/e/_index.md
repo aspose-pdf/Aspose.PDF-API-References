@@ -1,14 +1,14 @@
 ---
-title: BDCProperties.E
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété BDCProperties. Obtient/définit la valeur du texte d'expansion
+title: "BDCProperties.E"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété BDCProperties. Obtient/definit la valeur du texte d'expansion"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.facades/bdcproperties/e/
 ---
-## Propriété BDCProperties.E
+## BDCProperties.E property
 
-Obtient/définit la valeur du texte d'expansion.
+Obtient/Définit la valeur du texte d'expansion.
 
 ```csharp
 public string E { get; set; }
@@ -16,6 +16,8 @@ public string E { get; set; }
 
 ### Voir aussi
 
-* classe [BDCProperties](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [BDCProperties](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

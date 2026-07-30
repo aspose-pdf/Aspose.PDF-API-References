@@ -1,14 +1,14 @@
 ---
-title: Class CollectionSchema
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.CollectionSchema. Représente une classe qui décrit le schéma d'une collection de documents
+title: "Classe CollectionSchema"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "classe Aspose.Pdf.CollectionSchema. Représente une classe qui décrit le schéma d'une collection de documents"
 type: docs
-weight: 3070
+weight: 3180
 url: /fr/net/aspose.pdf/collectionschema/
 ---
-## Classe CollectionSchema
+## CollectionSchema class
 
-Représente une classe qui décrit le "schéma" d'une collection de documents.
+Représente une classe qui décrit le "Schéma" d'une collection de documents.
 
 ```csharp
 public class CollectionSchema
@@ -30,5 +30,7 @@ public class CollectionSchema
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

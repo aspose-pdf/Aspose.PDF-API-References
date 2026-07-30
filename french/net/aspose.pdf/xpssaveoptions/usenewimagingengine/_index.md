@@ -1,12 +1,12 @@
 ---
-title: UseNewImagingEngine
-second_title: Aspose.PDF for .NET API Reference
-description: Obtient ou définit l'option UseNewImagingEngine.
+title: "UseNewImagingEngine"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Obtient ou définit l'option UseNewImagingEngine."
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/xpssaveoptions/usenewimagingengine/
 ---
-## XpsSaveOptions.UseNewImagingEngine propriété
+## XpsSaveOptions.UseNewImagingEngine property
 
 Obtient ou définit l'option UseNewImagingEngine.
 
@@ -16,8 +16,8 @@ public bool UseNewImagingEngine { get; set; }
 
 ### Voir aussi
 
-* classe [XpsSaveOptions](../../xpssaveoptions)
-* espace de noms [Aspose.Pdf](../../xpssaveoptions)
+* class [XpsSaveOptions](../../xpssaveoptions)
+* namespace [Aspose.Pdf](../../xpssaveoptions)
 * assembly [Aspose.PDF](../../../)
 
-<!-- NE PAS ÉDITER : généré par xmldocmd pour Aspose.PDF.dll -->
+<!-- NE PAS MODIFIER: généré par xmldocmd pour Aspose.PDF.dll -->

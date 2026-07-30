@@ -1,12 +1,12 @@
 ---
-title: Class PaperSize
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Printing.PaperSize. Spécifie la taille d'une feuille de papier
+title: "Classe PaperSize"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.Printing.PaperSize. Spécifie la taille d'une feuille de papier"
 type: docs
-weight: 9570
+weight: 9720
 url: /fr/net/aspose.pdf.printing/papersize/
 ---
-## Classe PaperSize
+## PaperSize class
 
 Spécifie la taille d'une feuille de papier.
 
@@ -18,7 +18,7 @@ public class PaperSize
 
 | Nom | Description |
 | --- | --- |
-| [PaperSize](papersize/#constructor)() | Initialise une nouvelle instance de la classe `PaperSize` avec des propriétés par défaut. |
+| [PaperSize](papersize/#constructor)() | Initialise une nouvelle instance de la classe `PaperSize` avec les propriétés par défaut. |
 | [PaperSize](papersize/#constructor_1)(string, int, int) | Initialise une nouvelle instance de la classe `PaperSize`. |
 
 ## Propriétés
@@ -38,5 +38,7 @@ public class PaperSize
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
+* namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Layer.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la couche. Obtient le contenu de la couche
+title: "Layer.Contents"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Layer. Obtient le contenu du calque"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/layer/contents/
 ---
-## Propriété Couche.Contenus
+## Layer.Contents property
 
 Obtient le contenu de la couche.
 
@@ -16,7 +16,9 @@ public List<Operator> Contents { get; }
 
 ### Voir aussi
 
-* classe [Opérateur](../../operator/)
-* classe [Couche](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Operator](../../operator/)
+* class [Layer](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

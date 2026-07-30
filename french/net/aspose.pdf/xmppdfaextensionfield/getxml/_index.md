@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionField.GetXml
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode XmpPdfAExtensionField. Renvoie la liste des éléments xml qui représentent le champ dans l'arbre xml
+title: "XmpPdfAExtensionField.GetXml"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode XmpPdfAExtensionField. Retourne la liste des éléments xml qui représentent le champ dans l'arbre xml"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/xmppdfaextensionfield/getxml/
 ---
-## Méthode XmpPdfAExtensionField.GetXml
+## XmpPdfAExtensionField.GetXml method
 
 Renvoie la liste des éléments xml qui représentent le champ dans l'arbre xml.
 
@@ -24,6 +24,8 @@ La liste des champs.
 
 ### Voir aussi
 
-* classe [XmpPdfAExtensionField](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpPdfAExtensionField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

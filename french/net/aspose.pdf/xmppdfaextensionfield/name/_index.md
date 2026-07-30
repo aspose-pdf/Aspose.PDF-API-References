@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionField.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété XmpPdfAExtensionField. Nom du champ. Les noms de champ doivent être des noms d'éléments XML valides
+title: "XmpPdfAExtensionField.Name"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété XmpPdfAExtensionField. Nom du champ. Les noms de champ doivent être des noms d'éléments XML valides"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/xmppdfaextensionfield/name/
 ---
-## Propriété XmpPdfAExtensionField.Name
+## XmpPdfAExtensionField.Name property
 
 Nom du champ. Les noms de champ doivent être des noms d'éléments XML valides.
 
@@ -16,6 +16,8 @@ public string Name { get; }
 
 ### Voir aussi
 
-* classe [XmpPdfAExtensionField](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpPdfAExtensionField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

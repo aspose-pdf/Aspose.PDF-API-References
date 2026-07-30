@@ -1,14 +1,14 @@
 ---
-title: Form.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode Form. Supprime tous les champs de formulaire et place leurs valeurs directement sur la page
+title: "Form.Flatten"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode Form. Supprime tous les champs de formulaire et place leurs valeurs directement sur la page."
 type: docs
-weight: 250
+weight: 270
 url: /fr/net/aspose.pdf.forms/form/flatten/
 ---
-## Méthode Form.Flatten
+## Form.Flatten method
 
-Supprime tous les champs de formulaire et place leurs valeurs directement sur la page.
+Supprime tous les champs du formulaire et place leurs valeurs directement sur la page.
 
 ```csharp
 public void Flatten()
@@ -16,6 +16,8 @@ public void Flatten()
 
 ### Voir aussi
 
-* classe [Form](../)
-* espace de noms [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Form](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

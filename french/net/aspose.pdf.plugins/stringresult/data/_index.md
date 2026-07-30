@@ -1,12 +1,12 @@
 ---
-title: StringResult.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété StringResult. Obtient les données brutes
+title: "StringResult.Data"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété StringResult. Obtient les données brutes"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.plugins/stringresult/data/
 ---
-## Propriété StringResult.Data
+## StringResult.Data property
 
 Obtient les données brutes.
 
@@ -20,6 +20,8 @@ Un `object` représentant les données de sortie.
 
 ### Voir aussi
 
-* classe [StringResult](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [StringResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

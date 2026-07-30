@@ -1,12 +1,12 @@
 ---
-title: TextStamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode TextStamp. Ajoute un tampon textuel sur la page
+title: "TextStamp.Put"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode TextStamp. Ajoute un tampon textuel sur la page"
 type: docs
 weight: 180
 url: /fr/net/aspose.pdf/textstamp/put/
 ---
-## Méthode TextStamp.Put
+## TextStamp.Put method
 
 Ajoute un tampon textuel sur la page.
 
@@ -20,7 +20,9 @@ public override void Put(Page page)
 
 ### Voir aussi
 
-* classe [Page](../../page/)
-* classe [TextStamp](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Page](../../page/)
+* class [TextStamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

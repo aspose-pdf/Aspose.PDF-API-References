@@ -1,14 +1,14 @@
 ---
-title: StructureTextState.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété StructureTextState. Obtient ou définit la couleur de fond du texte
+title: "StructureTextState.BackgroundColor"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété StructureTextState. Obtient ou définit la couleur d'arrière-plan du texte"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.logicalstructure/structuretextstate/backgroundcolor/
 ---
-## Propriété StructureTextState.BackgroundColor
+## StructureTextState.BackgroundColor property
 
-Obtient ou définit la couleur de fond du texte.
+Obtient ou définit la couleur d'arrière-plan du texte.
 
 ```csharp
 public Color BackgroundColor { get; set; }
@@ -20,7 +20,9 @@ Peut être nul. Utilisez null pour hériter de la propriété `BackgroundColor` 
 
 ### Voir aussi
 
-* classe [Color](../../../aspose.pdf/color/)
-* classe [StructureTextState](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [Color](../../../aspose.pdf/color/)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

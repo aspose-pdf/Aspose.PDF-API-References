@@ -1,14 +1,14 @@
 ---
-title: HeaderFooterSettings.Header
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété HeaderFooterSettings. Obtient ou définit les paramètres d'en-tête
+title: "HeaderFooterSettings.Header"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "HeaderFooterSettings propriété. Obtient ou définit les paramètres d'en-tête"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf/headerfootersettings/header/
 ---
-## Propriété HeaderFooterSettings.Header
+## HeaderFooterSettings.Header property
 
-Obtient ou définit les paramètres d'en-tête.
+Obtient ou définit les paramètres de l'en-tête.
 
 ```csharp
 public Header Header { get; set; }
@@ -16,7 +16,9 @@ public Header Header { get; set; }
 
 ### Voir aussi
 
-* classe [Header](../../header/)
-* classe [HeaderFooterSettings](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Header](../../header/)
+* class [HeaderFooterSettings](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

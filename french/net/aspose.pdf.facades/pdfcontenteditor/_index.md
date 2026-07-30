@@ -1,14 +1,14 @@
 ---
-title: Class PdfContentEditor
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Facades.PdfContentEditor. Représente une classe pour éditer le contenu des fichiers PDF
+title: "Classe PdfContentEditor"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Facades.PdfContentEditor class. Représente une classe permettant de modifier le contenu des fichiers PDF."
 type: docs
-weight: 4430
+weight: 4550
 url: /fr/net/aspose.pdf.facades/pdfcontenteditor/
 ---
-## Classe PdfContentEditor
+## PdfContentEditor class
 
-Représente une classe pour éditer le contenu des fichiers PDF.
+Représente une classe pour modifier le contenu du fichier PDF.
 
 ```csharp
 public sealed class PdfContentEditor : SaveableFacade
@@ -19,16 +19,16 @@ public sealed class PdfContentEditor : SaveableFacade
 | Nom | Description |
 | --- | --- |
 | [PdfContentEditor](pdfcontenteditor/#constructor)() | Le constructeur de l'objet PdfContentEditor. |
-| [PdfContentEditor](pdfcontenteditor/#constructor_1)(Document) | Initialise un nouvel objet `PdfContentEditor` sur la base du *document*. |
+| [PdfContentEditor](pdfcontenteditor/#constructor_1)(Document) | Initialise un nouvel objet `PdfContentEditor` basé sur le *document*. |
 
 ## Propriétés
 
 | Nom | Description |
 | --- | --- |
-| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Obtient le document sur lequel la façade travaille. |
+| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Obtient la façade du document sur laquelle travaille. |
 | [ReplaceTextStrategy](../../aspose.pdf.facades/pdfcontenteditor/replacetextstrategy/) { get; set; } | Un ensemble de paramètres pour l'opération de remplacement de texte |
-| [TextEditOptions](../../aspose.pdf.facades/pdfcontenteditor/texteditoptions/) { get; set; } | Obtient ou définit les options d'édition de texte. |
-| [TextReplaceOptions](../../aspose.pdf.facades/pdfcontenteditor/textreplaceoptions/) { get; set; } | Obtient ou définit les options de remplacement de texte. |
+| [TextEditOptions](../../aspose.pdf.facades/pdfcontenteditor/texteditoptions/) { get; set; } | Obtient ou définit les options de modification du texte. |
+| [TextReplaceOptions](../../aspose.pdf.facades/pdfcontenteditor/textreplaceoptions/) { get; set; } | Obtient ou définit les options de remplacement du texte. |
 | [TextSearchOptions](../../aspose.pdf.facades/pdfcontenteditor/textsearchoptions/) { get; set; } | Obtient ou définit les options de recherche de texte. |
 
 ## Méthodes
@@ -39,9 +39,9 @@ public sealed class PdfContentEditor : SaveableFacade
 | [AddDocumentAttachment](../../aspose.pdf.facades/pdfcontenteditor/adddocumentattachment/#adddocumentattachment_1)(string, string) | Ajoute une pièce jointe au document sans annotation. |
 | [AddDocumentAttachment](../../aspose.pdf.facades/pdfcontenteditor/adddocumentattachment/#adddocumentattachment)(Stream, string, string) | Ajoute une pièce jointe au document sans annotation. |
 | virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Document) | Initialise la façade. |
-| override [BindPdf](../../aspose.pdf.facades/pdfcontenteditor/bindpdf/#bindpdf_1)(Stream) | Lie un flux PDF pour l'édition. |
+| override [BindPdf](../../aspose.pdf.facades/pdfcontenteditor/bindpdf/#bindpdf_1)(Stream) | Lie un flux PDF pour la modification. |
 | override [BindPdf](../../aspose.pdf.facades/pdfcontenteditor/bindpdf/#bindpdf_2)(string) | Lie un fichier PDF pour l'édition. |
-| [ChangeViewerPreference](../../aspose.pdf.facades/pdfcontenteditor/changeviewerpreference/)(int) | Change la préférence d'affichage. |
+| [ChangeViewerPreference](../../aspose.pdf.facades/pdfcontenteditor/changeviewerpreference/)(int) | Modifie la préférence d'affichage. |
 | override [Close](../../aspose.pdf.facades/pdfcontenteditor/close/)() | Ferme le document ouvert. |
 | [CreateApplicationLink](../../aspose.pdf.facades/pdfcontenteditor/createapplicationlink/#createapplicationlink)(Rectangle, string, int) | Crée un lien pour lancer une application dans le document PDF. |
 | [CreateApplicationLink](../../aspose.pdf.facades/pdfcontenteditor/createapplicationlink/#createapplicationlink_1)(Rectangle, string, int, Color) | Crée un lien pour lancer une application dans le document PDF. |
@@ -59,8 +59,8 @@ public sealed class PdfContentEditor : SaveableFacade
 | [CreateLocalLink](../../aspose.pdf.facades/pdfcontenteditor/createlocallink/#createlocallink)(Rectangle, int, int) | Crée un lien local dans le document PDF. |
 | [CreateLocalLink](../../aspose.pdf.facades/pdfcontenteditor/createlocallink/#createlocallink_1)(Rectangle, int, int, Color) | Crée un lien local dans le document PDF. |
 | [CreateLocalLink](../../aspose.pdf.facades/pdfcontenteditor/createlocallink/#createlocallink_2)(Rectangle, int, int, Color, Enum[]) | Crée un lien local dans le document PDF. |
-| [CreateMarkup](../../aspose.pdf.facades/pdfcontenteditor/createmarkup/)(Rectangle, string, int, int, Color) | Crée une annotation de marquage dans le document PDF. |
-| [CreateMovie](../../aspose.pdf.facades/pdfcontenteditor/createmovie/)(Rectangle, string, int) | Crée des annotations de film. |
+| [CreateMarkup](../../aspose.pdf.facades/pdfcontenteditor/createmarkup/)(Rectangle, string, int, int, Color) | Crée une annotation de balisage dans le document PDF. |
+| [CreateMovie](../../aspose.pdf.facades/pdfcontenteditor/createmovie/)(Rectangle, string, int) | Crée des annotations vidéo. |
 | [CreatePdfDocumentLink](../../aspose.pdf.facades/pdfcontenteditor/createpdfdocumentlink/#createpdfdocumentlink)(Rectangle, string, int, int) | Crée un lien vers une autre page de document PDF. |
 | [CreatePdfDocumentLink](../../aspose.pdf.facades/pdfcontenteditor/createpdfdocumentlink/#createpdfdocumentlink_1)(Rectangle, string, int, int, Color) | Crée un lien vers une autre page de document PDF. |
 | [CreatePdfDocumentLink](../../aspose.pdf.facades/pdfcontenteditor/createpdfdocumentlink/#createpdfdocumentlink_2)(Rectangle, string, int, int, Color, Enum[]) | Crée un lien vers une autre page de document PDF. |
@@ -81,17 +81,17 @@ public sealed class PdfContentEditor : SaveableFacade
 | [DeleteImage](../../aspose.pdf.facades/pdfcontenteditor/deleteimage/#deleteimage_1)(int, int[]) | Supprime les images spécifiées sur la page spécifiée. |
 | [DeleteStamp](../../aspose.pdf.facades/pdfcontenteditor/deletestamp/)(int, int[]) | Supprime plusieurs tampons sur la page spécifiée par les index de tampon. |
 | [DeleteStampById](../../aspose.pdf.facades/pdfcontenteditor/deletestampbyid/#deletestampbyid)(int) | Supprime le tampon par ID de toutes les pages du document. |
-| [DeleteStampById](../../aspose.pdf.facades/pdfcontenteditor/deletestampbyid/#deletestampbyid_1)(int, int) | Supprime le tampon sur la page spécifiée par l'ID du tampon. |
+| [DeleteStampById](../../aspose.pdf.facades/pdfcontenteditor/deletestampbyid/#deletestampbyid_1)(int, int) | Supprime le tampon sur la page spécifiée par son ID. |
 | [DeleteStampByIds](../../aspose.pdf.facades/pdfcontenteditor/deletestampbyids/#deletestampbyids_1)(int[]) | Supprime les tampons avec les ID spécifiés de toutes les pages du document. |
-| [DeleteStampByIds](../../aspose.pdf.facades/pdfcontenteditor/deletestampbyids/#deletestampbyids)(int, int[]) | Supprime les tampons sur la page spécifiée par plusieurs ID de tampons. |
-| [Dispose](../../aspose.pdf.facades/facade/dispose/)() | Dispose de la façade. |
+| [DeleteStampByIds](../../aspose.pdf.facades/pdfcontenteditor/deletestampbyids/#deletestampbyids)(int, int[]) | Supprime les tampons sur la page spécifiée par plusieurs ID de tampon. |
+| [Dispose](../../aspose.pdf.facades/facade/dispose/)() | Libère la façade. |
 | [DrawCurve](../../aspose.pdf.facades/pdfcontenteditor/drawcurve/)(LineInfo, int, Rectangle, string) | Crée une annotation de courbe. |
-| [ExtractLink](../../aspose.pdf.facades/pdfcontenteditor/extractlink/)() | Extrait la collection d'instances de lien contenues dans le document PDF. |
-| [GetStamps](../../aspose.pdf.facades/pdfcontenteditor/getstamps/)(int) | Renvoie un tableau de tampons sur la page. |
+| [ExtractLink](../../aspose.pdf.facades/pdfcontenteditor/extractlink/)() | Extrait la collection d'instances Link contenues dans le document PDF. |
+| [GetStamps](../../aspose.pdf.facades/pdfcontenteditor/getstamps/)(int) | Renvoie le tableau de tampons sur la page. |
 | [GetViewerPreference](../../aspose.pdf.facades/pdfcontenteditor/getviewerpreference/)() | Renvoie la préférence d'affichage. |
-| [HideStampById](../../aspose.pdf.facades/pdfcontenteditor/hidestampbyid/)(int, int) | Cache le tampon. Après avoir caché, la visibilité du tampon peut être restaurée avec la méthode ShowStampById. |
-| [MoveStamp](../../aspose.pdf.facades/pdfcontenteditor/movestamp/)(int, int, double, double) | Change la position du tampon sur la page. |
-| [MoveStampById](../../aspose.pdf.facades/pdfcontenteditor/movestampbyid/)(int, int, double, double) | Change la position du tampon sur la page. |
+| [HideStampById](../../aspose.pdf.facades/pdfcontenteditor/hidestampbyid/)(int, int) | Masque le tampon. Après masquage, la visibilité du tampon peut être restaurée avec la méthode ShowStampById. |
+| [MoveStamp](../../aspose.pdf.facades/pdfcontenteditor/movestamp/)(int, int, double, double) | Modifie la position du tampon sur la page. |
+| [MoveStampById](../../aspose.pdf.facades/pdfcontenteditor/movestampbyid/)(int, int, double, double) | Modifie la position du tampon sur la page. |
 | [RemoveDocumentOpenAction](../../aspose.pdf.facades/pdfcontenteditor/removedocumentopenaction/)() | Supprime l'action d'ouverture du document. Cette opération est utile lors de la concaténation de plusieurs documents qui utilisent une action 'GoTo' explicite au démarrage. |
 | [ReplaceImage](../../aspose.pdf.facades/pdfcontenteditor/replaceimage/)(int, int, string) | Remplace l'image spécifiée sur la page spécifiée du document PDF par une autre image. |
 | [ReplaceText](../../aspose.pdf.facades/pdfcontenteditor/replacetext/#replacetext_2)(string, string) | Remplace le texte dans le fichier PDF. |
@@ -101,7 +101,7 @@ public sealed class PdfContentEditor : SaveableFacade
 | [ReplaceText](../../aspose.pdf.facades/pdfcontenteditor/replacetext/#replacetext_1)(string, int, string, TextState) | Remplace le texte dans le fichier PDF sur la page spécifiée. L'objet [`TextState`](../../aspose.pdf.text/textstate/) (famille de police, couleur) peut être spécifié pour le texte remplacé. |
 | virtual [Save](../../aspose.pdf.facades/saveablefacade/save/)(Stream) | Enregistre le document PDF dans le flux spécifié. |
 | virtual [Save](../../aspose.pdf.facades/saveablefacade/save/)(string) | Enregistre le document PDF dans le fichier spécifié. |
-| [ShowStampById](../../aspose.pdf.facades/pdfcontenteditor/showstampbyid/)(int, int) | Affiche le tampon qui a été caché par HiddenStampById. |
+| [ShowStampById](../../aspose.pdf.facades/pdfcontenteditor/showstampbyid/)(int, int) | Affiche le tampon qui a été masqué par HiddenStampById. |
 
 ## Champs
 
@@ -116,6 +116,8 @@ public sealed class PdfContentEditor : SaveableFacade
 
 ### Voir aussi
 
-* classe [SaveableFacade](../saveablefacade/)
-* espace de noms [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
+* class [SaveableFacade](../saveablefacade/)
+* namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

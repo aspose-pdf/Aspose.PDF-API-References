@@ -1,14 +1,14 @@
 ---
-title: Enum ColorsOfCMYK
-second_title: Aspose.PDF for .NET API Reference
-description: Enumération Aspose.Pdf.Annotations.CouleursDuCMJN. Couleurs incluses dans le modèle de couleur CMJN
+title: "Enum ColorsOfCMYK"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Annotations.ColorsOfCMYK enum. Couleurs incluses dans le modèle de couleur CMYK"
 type: docs
-weight: 1610
+weight: 1700
 url: /fr/net/aspose.pdf.annotations/colorsofcmyk/
 ---
-## Énumération CouleursDuCMJN
+## ColorsOfCMYK enumeration
 
-Couleurs incluses dans le modèle de couleur CMJN.
+Couleurs incluses dans le modèle de couleur CMYK.
 
 ```csharp
 public enum ColorsOfCMYK
@@ -20,10 +20,12 @@ public enum ColorsOfCMYK
 | --- | --- | --- |
 | Cyan | `0` | Couleur cyan. |
 | Magenta | `1` | Couleur magenta. |
-| Jaune | `2` | Couleur jaune. |
-| Noir | `3` | Couleur noire. |
+| Yellow | `2` | Couleur jaune. |
+| Black | `3` | Couleur noire. |
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
+* namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

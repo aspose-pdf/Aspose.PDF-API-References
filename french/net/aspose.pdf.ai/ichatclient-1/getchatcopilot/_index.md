@@ -1,12 +1,12 @@
 ---
-title: IChatClient1.GetChatCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode IChatClient. Obtient une instance de IChatCopilot avec les options spécifiées
+title: "IChatClient1.GetChatCopilot"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode IChatClient. Obtient une instance de IChatCopilot avec les options spécifiées"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/ichatclient-1/getchatcopilot/
 ---
-## IChatClient&lt;TOptions&gt;.GetChatCopilot méthode
+## IChatClient&lt;TOptions&gt;.GetChatCopilot method
 
 Obtient une instance de [`IChatCopilot`](../../ichatcopilot/) avec les options spécifiées.
 
@@ -29,3 +29,5 @@ Une instance de [`IChatCopilot`](../../ichatcopilot/).
 * interface [IChatClient&lt;TOptions&gt;](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

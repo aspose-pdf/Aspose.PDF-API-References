@@ -1,12 +1,12 @@
 ---
-title: MessageContentResponse.MessageContentResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur de MessageContentResponse. Le constructeur par défaut
+title: "MessageContentResponse.MessageContentResponse"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "MessageContentResponse constructeur. Le constructeur par défaut"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.ai/messagecontentresponse/messagecontentresponse/
 ---
-## Constructeur de MessageContentResponse
+## MessageContentResponse constructor
 
 Le constructeur par défaut.
 
@@ -16,6 +16,8 @@ public MessageContentResponse()
 
 ### Voir aussi
 
-* classe [MessageContentResponse](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [MessageContentResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

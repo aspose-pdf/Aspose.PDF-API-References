@@ -1,26 +1,28 @@
 ---
-title: PdfAOptionsBase.NonSpecificationFlags
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété PdfAOptionsBase. Obtient les indicateurs qui contrôlent la conversion PDF/A pour les cas où le document PDF source ne correspond pas à la spécification PDF
+title: "PdfAOptionsBase.NonSpecificationFlags"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété PdfAOptionsBase. Obtient les indicateurs qui contrôlent la conversion PDF/A pour les cas où le document PDF source ne correspond pas à la spécification PDF."
 type: docs
 weight: 90
 url: /fr/net/aspose.pdf.plugins/pdfaoptionsbase/nonspecificationflags/
 ---
-## Propriété PdfAOptionsBase.NonSpecificationFlags
+## PdfAOptionsBase.NonSpecificationFlags property
 
-Obtient les indicateurs qui contrôlent la conversion PDF/A pour les cas où le document PDF source ne correspond pas à la spécification PDF.
+Obtient les indicateurs qui contrôlent la conversion PDF/A dans les cas où le document PDF source ne correspond pas à la spécification PDF.
 
 ```csharp
 public PdfANonSpecificationFlags NonSpecificationFlags { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
-Les indicateurs pour les cas non spécifiés lors de la conversion PDF/A.
+Les indicateurs pour les cas hors spécification lors de la conversion PDF/A.
 
 ### Voir aussi
 
-* classe [PdfANonSpecificationFlags](../../../aspose.pdf/pdfanonspecificationflags/)
-* classe [PdfAOptionsBase](../)
-* espace de noms [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [PdfANonSpecificationFlags](../../../aspose.pdf/pdfanonspecificationflags/)
+* class [PdfAOptionsBase](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

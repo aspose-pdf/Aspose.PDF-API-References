@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetFilesAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode IOpenAIClient. Récupère une liste de fichiers de manière asynchrone en fonction de l'objectif spécifié
+title: "IOpenAIClient.GetFilesAsync"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode IOpenAIClient. Récupère une liste de fichiers de façon asynchrone en fonction du but spécifié"
 type: docs
 weight: 220
 url: /fr/net/aspose.pdf.ai/iopenaiclient/getfilesasync/
 ---
-## Méthode IOpenAIClient.GetFilesAsync
+## IOpenAIClient.GetFilesAsync method
 
-Récupère une liste de fichiers de manière asynchrone en fonction de l'objectif spécifié.
+Récupère une liste de fichiers de façon asynchrone en fonction du but spécifié.
 
 ```csharp
 public Task<FileListResponse> GetFilesAsync(string purpose = null, 
@@ -17,7 +17,7 @@ public Task<FileListResponse> GetFilesAsync(string purpose = null,
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| purpose | String | Optionnel. L'objectif des fichiers à récupérer. Si null, les fichiers pour tous les objectifs sont récupérés. |
+| purpose | String | Optionnel. Le but des fichiers à récupérer. Si nul, les fichiers pour tous les buts sont récupérés. |
 | cancellationToken | Nullable`1 | Un jeton pour annuler l'opération. |
 
 ### Valeur de retour
@@ -26,7 +26,9 @@ Une tâche qui représente l'opération asynchrone. Le résultat de la tâche co
 
 ### Voir aussi
 
-* classe [FileListResponse](../../filelistresponse/)
+* class [FileListResponse](../../filelistresponse/)
 * interface [IOpenAIClient](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

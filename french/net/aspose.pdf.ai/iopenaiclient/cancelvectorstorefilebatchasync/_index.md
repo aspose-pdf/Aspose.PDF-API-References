@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.CancelVectorStoreFileBatchAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode IOpenAIClient. Annule un lot de fichiers de magasin de vecteurs spécifique de manière asynchrone
+title: "IOpenAIClient.CancelVectorStoreFileBatchAsync"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode IOpenAIClient. Annule un lot de fichiers du magasin de vecteurs spécifique de façon asynchrone"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.ai/iopenaiclient/cancelvectorstorefilebatchasync/
 ---
-## Méthode IOpenAIClient.CancelVectorStoreFileBatchAsync
+## IOpenAIClient.CancelVectorStoreFileBatchAsync method
 
-Annule un lot de fichiers de magasin de vecteurs spécifique de manière asynchrone.
+Annule de manière asynchrone un lot de fichiers de magasin vectoriel spécifique.
 
 ```csharp
 public Task<VectorStoreFileBatchResponse> CancelVectorStoreFileBatchAsync(string vectorStoreId, 
@@ -17,24 +17,26 @@ public Task<VectorStoreFileBatchResponse> CancelVectorStoreFileBatchAsync(string
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| vectorStoreId | String | L'ID du magasin de vecteurs contenant le lot de fichiers à annuler. |
+| vectorStoreId | String | L'ID du vector store contenant le lot de fichiers à annuler. |
 | fileBatchId | String | L'ID du lot de fichiers à annuler. |
 | cancellationToken | Nullable`1 | Un jeton pour annuler l'opération. |
 
 ### Valeur de retour
 
-Une tâche qui représente l'opération asynchrone. Le résultat de la tâche contient la réponse à l'annulation du lot de fichiers.
+Une tâche qui représente l'opération asynchrone. Le résultat de la tâche contient la réponse de l'annulation du lot de fichiers.
 
 ### Exceptions
 
 | exception | condition |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Lancé lorsque l'ID du magasin de vecteurs est nul ou vide. |
-| [AIClientException](../../aiclientexception/) | Lancé lorsque l'ID du lot de fichiers du magasin de vecteurs est nul ou vide. |
+| [AIClientException](../../aiclientexception/) | Lancée lorsque l'ID du magasin de vecteurs est nul ou vide. |
+| [AIClientException](../../aiclientexception/) | Lancée lorsque l'ID du lot de fichiers du magasin de vecteurs est nul ou vide. |
 
 ### Voir aussi
 
-* classe [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
+* class [VectorStoreFileBatchResponse](../../vectorstorefilebatchresponse/)
 * interface [IOpenAIClient](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

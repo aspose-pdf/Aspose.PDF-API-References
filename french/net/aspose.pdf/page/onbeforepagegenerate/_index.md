@@ -1,12 +1,12 @@
 ---
-title: Page.OnBeforePageGenerate
-second_title: Aspose.PDF for .NET API Reference
-description: Événement de page. Événement pour personnaliser l'en-tête et le pied de page
+title: "Page.OnBeforePageGenerate"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Événement de page. Événement pour personnaliser l'en-tête et le pied de page"
 type: docs
 weight: 320
 url: /fr/net/aspose.pdf/page/onbeforepagegenerate/
 ---
-## Événement Page.OnBeforePageGenerate
+## Page.OnBeforePageGenerate event
 
 Événement pour personnaliser l'en-tête et le pied de page.
 
@@ -16,7 +16,9 @@ public event BeforePageGenerate OnBeforePageGenerate;
 
 ### Voir aussi
 
-* délégué [BeforePageGenerate](../../page.beforepagegenerate/)
-* classe [Page](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* delegate [BeforePageGenerate](../../page.beforepagegenerate/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

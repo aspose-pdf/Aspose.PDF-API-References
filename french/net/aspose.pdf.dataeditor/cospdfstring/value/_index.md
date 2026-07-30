@@ -1,12 +1,12 @@
 ---
-title: CosPdfString.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété CosPdfString. Obtient la chaîne ANSII
+title: "CosPdfString.Value"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété CosPdfString. Obtient la chaîne ANSII"
 type: docs
 weight: 30
 url: /fr/net/aspose.pdf.dataeditor/cospdfstring/value/
 ---
-## Propriété CosPdfString.Value
+## CosPdfString.Value property
 
 Obtient la chaîne (ANSII).
 
@@ -14,12 +14,14 @@ Obtient la chaîne (ANSII).
 public string Value { get; }
 ```
 
-### Valeur de la propriété
+### Property Value
 
 La chaîne.
 
 ### Voir aussi
 
-* classe [CosPdfString](../)
-* espace de noms [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* class [CosPdfString](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

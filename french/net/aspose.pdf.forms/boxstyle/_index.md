@@ -1,14 +1,14 @@
 ---
-title: Enum BoxStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Enum BoxStyle d'Aspose.Pdf.Forms. Représente les styles pour dessiner une coche dans une case à cocher
+title: "Enum BoxStyle"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Forms.BoxStyle enum. Représente les styles pour dessiner la coche dans la case à cocher."
 type: docs
-weight: 4960
+weight: 5080
 url: /fr/net/aspose.pdf.forms/boxstyle/
 ---
-## Énumération BoxStyle
+## BoxStyle enumeration
 
-Représente les styles pour dessiner une coche dans une case à cocher.
+Représente les styles pour dessiner la coche dans la case à cocher.
 
 ```csharp
 public enum BoxStyle
@@ -27,5 +27,7 @@ public enum BoxStyle
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
+* namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormEditor.SetFieldAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode FormEditor. Définir le style d'alignement d'un champ de texte
+title: "FormEditor.SetFieldAlignment"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode FormEditor. Définit le style d'alignement d'un champ texte"
 type: docs
 weight: 260
 url: /fr/net/aspose.pdf.facades/formeditor/setfieldalignment/
 ---
-## Méthode FormEditor.SetFieldAlignment
+## FormEditor.SetFieldAlignment method
 
-Définir le style d'alignement d'un champ de texte.
+Définit le style d'alignement d'un champ texte.
 
 ```csharp
 public bool SetFieldAlignment(string fieldName, int alignment)
@@ -17,7 +17,7 @@ public bool SetFieldAlignment(string fieldName, int alignment)
 | Paramètre | Type | Description |
 | --- | --- | --- |
 | fieldName | String | Le nom de champ qualifié. |
-| alignment | Int32 | La définition du style d'alignement, y compris FormFieldFacade.AlignLeft, FormFieldFacade.AlignCenter et FormFieldFacade.AlignRight. |
+| alignment | Int32 | La définition du style d'alignement, incluant FormFieldFacade.AlignLeft, FormFieldFacade.AlignCenter et FormFieldFacade.AlignRight. |
 
 ### Valeur de retour
 
@@ -32,6 +32,8 @@ fe.SetFieldAlignment("form1[0].TextField[0]", FormFieldFacade.AlignLeft);
 
 ### Voir aussi
 
-* classe [FormEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

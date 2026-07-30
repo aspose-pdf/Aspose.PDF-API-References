@@ -1,12 +1,12 @@
 ---
-title: CosPdfString.ToCosPdfString
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode CosPdfString. Essaie de convertir cette instance en CosPdfString
+title: "CosPdfString.ToCosPdfString"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Méthode CosPdfString. Essaie de convertir cette instance en CosPdfString"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.dataeditor/cospdfstring/tocospdfstring/
 ---
-## Méthode CosPdfString.ToCosPdfString
+## CosPdfString.ToCosPdfString method
 
 Essaie de convertir cette instance en [`CosPdfString`](../).
 
@@ -16,10 +16,12 @@ public override CosPdfString ToCosPdfString()
 
 ### Valeur de retour
 
-null si l'instance n'est pas un [`CosPdfString`](../) sinon un [`CosPdfString`](../).
+null si l'instance n'est pas [`CosPdfString`](../) sinon [`CosPdfString`](../).
 
 ### Voir aussi
 
-* classe [CosPdfString](../)
-* espace de noms [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* class [CosPdfString](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

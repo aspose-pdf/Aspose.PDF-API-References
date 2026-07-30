@@ -1,14 +1,14 @@
 ---
-title: RichMediaAnnotation.CustomPlayer
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété RichMediaAnnotation. Définit ou obtient un lecteur flash personnalisé pour lire des données vidéo/audio
+title: "RichMediaAnnotation.CustomPlayer"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété RichMediaAnnotation. Définit ou obtient le lecteur flash personnalisé pour lire les données vidéo/audio"
 type: docs
 weight: 60
 url: /fr/net/aspose.pdf.annotations/richmediaannotation/customplayer/
 ---
-## Propriété RichMediaAnnotation.CustomPlayer
+## RichMediaAnnotation.CustomPlayer property
 
-Définit ou obtient un lecteur flash personnalisé pour lire des données vidéo/audio.
+Définit ou obtient le lecteur flash personnalisé pour lire les données vidéo/audio.
 
 ```csharp
 public Stream CustomPlayer { get; set; }
@@ -16,6 +16,8 @@ public Stream CustomPlayer { get; set; }
 
 ### Voir aussi
 
-* classe [RichMediaAnnotation](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [RichMediaAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

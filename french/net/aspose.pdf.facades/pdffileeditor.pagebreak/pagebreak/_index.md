@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.PageBreak.PageBreak
-second_title: Aspose.PDF for .NET API Reference
-description: Constructeur PageBreak. Constructeur pour créer un objet PageBreak
+title: "PdfFileEditor.PageBreak.PageBreak"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Constructeur PageBreak. Constructeur pour créer un objet PageBreak"
 type: docs
 weight: 10
 url: /fr/net/aspose.pdf.facades/pdffileeditor.pagebreak/pagebreak/
 ---
-## Constructeur PdfFileEditor.PageBreak
+## PdfFileEditor.PageBreak constructor
 
-Constructeur pour créer un objet PageBreak.
+Constructeur pour créer l'objet PageBreak.
 
 ```csharp
 public PageBreak(int pageNumber, double position)
@@ -16,11 +16,13 @@ public PageBreak(int pageNumber, double position)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| pageNumber | Int32 | Numéro de la page où la rupture de page est placée. |
-| position | Double | Position verticale de la rupture de page. |
+| pageNumber | Int32 | Numéro de la page où le saut de page est placé. |
+| position | Double | Position verticale du saut de page. |
 
 ### Voir aussi
 
-* classe [PageBreak](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PageBreak](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

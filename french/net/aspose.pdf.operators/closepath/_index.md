@@ -1,14 +1,14 @@
 ---
-title: Class ClosePath
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.ClosePath. Classe représentant l'opérateur h pour fermer le chemin
+title: "Classe ClosePath"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.Operators.ClosePath class. Classe représentant l'opérateur h qui ferme le chemin"
 type: docs
-weight: 7190
+weight: 7330
 url: /fr/net/aspose.pdf.operators/closepath/
 ---
-## Classe ClosePath
+## ClosePath class
 
-Classe représentant l'opérateur h (fermer le chemin).
+Classe représentant l'opérateur h (close path).
 
 ```csharp
 public class ClosePath : Operator
@@ -30,12 +30,14 @@ public class ClosePath : Operator
 
 | Nom | Description |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/closepath/accept/)(IOperatorSelector) | Accepte l'objet visiteur pour traiter l'opérateur. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Renvoie le texte de l'opérateur et de ses paramètres. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet donné. |
+| override [Accept](../../aspose.pdf.operators/closepath/accept/)(IOperatorSelector) | Accepte un objet visiteur pour traiter l'opérateur. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Renvoie le texte de l'opérateur et ses paramètres. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Compare cette instance avec l'objet fourni. |
 
 ### Voir aussi
 
-* classe [Operator](../../aspose.pdf/operator/)
-* espace de noms [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

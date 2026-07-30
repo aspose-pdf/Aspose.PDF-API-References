@@ -1,12 +1,12 @@
 ---
-title: StructureAttribute.SetRectangleValue
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode StructureAttribute. Définit le rectangle de valeur
+title: "StructureAttribute.SetRectangleValue"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "StructureAttribute méthode. Définit le rectangle de la valeur"
 type: docs
 weight: 140
 url: /fr/net/aspose.pdf.logicalstructure/structureattribute/setrectanglevalue/
 ---
-## Méthode StructureAttribute.SetRectangleValue
+## StructureAttribute.SetRectangleValue method
 
 Définit le rectangle de valeur.
 
@@ -16,11 +16,13 @@ public void SetRectangleValue(Rectangle rectangle)
 
 | Paramètre | Type | Description |
 | --- | --- | --- |
-| rectangle | Rectangle | Rectangle. |
+| Rectangle | Rectangle | Rectangle. |
 
 ### Voir aussi
 
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [StructureAttribute](../)
-* espace de noms [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [StructureAttribute](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

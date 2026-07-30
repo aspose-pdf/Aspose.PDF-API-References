@@ -1,14 +1,14 @@
 ---
-title: Enum ExcelSaveOptions.ExcelFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ExcelSaveOptionsExcelFormat d'Aspose.Pdf. Permet de spécifier le format de fichier .xlsx, .xls/xml ou csv. La valeur par défaut est XLSX
+title: "Énum ExcelSaveOptions.ExcelFormat"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Aspose.Pdf.ExcelSaveOptionsExcelFormat énum. Permet de spécifier le format de fichier .xlsx .xls/xml ou csv. La valeur par défaut est XLSX"
 type: docs
-weight: 4090
+weight: 4210
 url: /fr/net/aspose.pdf/excelsaveoptions.excelformat/
 ---
-## Énumération ExcelSaveOptions.ExcelFormat
+## ExcelSaveOptions.ExcelFormat enumeration
 
-Permet de spécifier le format de fichier .xlsx, .xls/xml ou csv. La valeur par défaut est XLSX ;
+Permet de spécifier le format de fichier .xlsx, .xls/xml ou csv. La valeur par défaut est XLSX ;
 
 ```csharp
 public enum ExcelFormat
@@ -20,12 +20,14 @@ public enum ExcelFormat
 | --- | --- | --- |
 | XMLSpreadSheet2003 | `0` | Format XML Excel 2003 |
 | XLSX | `1` | Format de fichier Office Open XML (.xlsx) |
-| CSV | `2` | Format de fichier de valeurs séparées par des virgules (CSV) |
-| XLSM | `3` | Format de fichier Office Open XML activé par macro (.xlsm) |
-| ODS | `4` | Tableur OpenDocument |
+| CSV | `2` | Un format de fichier valeurs séparées par des virgules (CSV) |
+| XLSM | `3` | Un format de fichier Office Open XML (.xlsm) avec macros |
+| ODS | `4` | Feuille de calcul OpenDocument |
 
 ### Voir aussi
 
-* classe [ExcelSaveOptions](../excelsaveoptions/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [ExcelSaveOptions](../excelsaveoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

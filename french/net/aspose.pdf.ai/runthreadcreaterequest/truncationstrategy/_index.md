@@ -1,14 +1,14 @@
 ---
-title: RunThreadCreateRequest.TruncationStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété RunThreadCreateRequest. Obtient ou définit la stratégie de troncature qui contrôle comment un fil sera tronqué avant l'exécution. Utilisez ceci pour contrôler la fenêtre de contexte initiale de l'exécution.
+title: "RunThreadCreateRequest.TruncationStrategy"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété RunThreadCreateRequest. Obtient ou définit la stratégie de troncature qui détermine comment un thread sera tronqué avant l'exécution. Utilisez ceci pour contrôler la fenêtre de contexte initiale de l'exécution."
 type: docs
 weight: 160
 url: /fr/net/aspose.pdf.ai/runthreadcreaterequest/truncationstrategy/
 ---
-## Propriété RunThreadCreateRequest.TruncationStrategy
+## RunThreadCreateRequest.TruncationStrategy property
 
-Obtient ou définit la stratégie de troncature qui contrôle comment un fil sera tronqué avant l'exécution. Utilisez ceci pour contrôler la fenêtre de contexte initiale de l'exécution.
+Obtient ou définit la stratégie de troncature qui contrôle la façon dont un fil sera tronqué avant l'exécution. Utilisez-la pour contrôler la fenêtre de contexte initiale de l'exécution.
 
 ```csharp
 public TruncationStrategy TruncationStrategy { get; set; }
@@ -16,7 +16,9 @@ public TruncationStrategy TruncationStrategy { get; set; }
 
 ### Voir aussi
 
-* classe [TruncationStrategy](../../truncationstrategy/)
-* classe [RunThreadCreateRequest](../)
-* espace de noms [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [TruncationStrategy](../../truncationstrategy/)
+* class [RunThreadCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

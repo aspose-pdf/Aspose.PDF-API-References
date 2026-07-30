@@ -1,12 +1,12 @@
 ---
-title: Cell.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété de la cellule. Obtient ou définit la largeur de la colonne
+title: "Cell.Width"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Cell propriété. Obtient ou définit la largeur de la colonne"
 type: docs
 weight: 150
 url: /fr/net/aspose.pdf/cell/width/
 ---
-## Propriété Cell.Width
+## Cell.Width property
 
 Obtient ou définit la largeur de la colonne.
 
@@ -16,6 +16,8 @@ public double Width { get; }
 
 ### Voir aussi
 
-* classe [Cell](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

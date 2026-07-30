@@ -1,7 +1,7 @@
 ---
-title: PdfBookmarkEditor.DeleteBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: Méthode PdfBookmarkEditor. Supprime tous les signets du document PDF
+title: "PdfBookmarkEditor.DeleteBookmarks"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "PdfBookmarkEditor méthode. Supprime tous les signets du document PDF"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf.facades/pdfbookmarkeditor/deletebookmarks/
@@ -25,8 +25,8 @@ editor.Save("example_out.pdf");
 
 ### Voir aussi
 
-* classe [PdfBookmarkEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 ---
@@ -54,6 +54,8 @@ editor.Save("example_out.pdf");
 
 ### Voir aussi
 
-* classe [PdfBookmarkEditor](../)
-* espace de noms [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfBookmarkEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

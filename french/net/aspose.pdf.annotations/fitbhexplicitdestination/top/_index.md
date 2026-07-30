@@ -1,14 +1,14 @@
 ---
-title: FitBHExplicitDestination.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété FitBHExplicitDestination. Obtient la coordonnée verticale supérieure positionnée au bord supérieur de la fenêtre
+title: "FitBHExplicitDestination.Top"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété FitBHExplicitDestination. Obtient la coordonnée verticale supérieure positionnée au bord supérieur de la fenêtre"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf.annotations/fitbhexplicitdestination/top/
 ---
-## Propriété FitBHExplicitDestination.Top
+## FitBHExplicitDestination.Top property
 
-Obtient la coordonnée verticale supérieure positionnée au bord supérieur de la fenêtre.
+Obtient la coordonnée verticale top positionnée au bord supérieur de la fenêtre.
 
 ```csharp
 public double Top { get; }
@@ -16,6 +16,8 @@ public double Top { get; }
 
 ### Voir aussi
 
-* classe [FitBHExplicitDestination](../)
-* espace de noms [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [FitBHExplicitDestination](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

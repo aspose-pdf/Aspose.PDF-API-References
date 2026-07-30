@@ -1,14 +1,14 @@
 ---
-title: Class ExportFieldsToJsonOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.ExportFieldsToJsonOptions. Représente les options pour exporter les champs de formulaire au format Json
+title: "Classe ExportFieldsToJsonOptions"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.ExportFieldsToJsonOptions. Représente les options pour l'exportation des champs de formulaire au format Json."
 type: docs
-weight: 4110
+weight: 4230
 url: /fr/net/aspose.pdf/exportfieldstojsonoptions/
 ---
-## Classe ExportFieldsToJsonOptions
+## ExportFieldsToJsonOptions class
 
-Représente les options pour exporter les champs de formulaire au format Json.
+Représente les options d'exportation des champs de formulaire au format Json.
 
 ```csharp
 public class ExportFieldsToJsonOptions : ExportFieldsOptions
@@ -33,6 +33,8 @@ Hérite de [`ExportFieldsOptions`](../exportfieldsoptions/) et ajoute des option
 
 ### Voir aussi
 
-* classe [ExportFieldsOptions](../exportfieldsoptions/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [ExportFieldsOptions](../exportfieldsoptions/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

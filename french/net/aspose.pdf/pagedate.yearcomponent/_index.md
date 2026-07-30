@@ -1,12 +1,12 @@
 ---
-title: Class PageDate.YearComponent
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.PageDateYearComponent. Représente le composant année d'une date
+title: "Classe PageDate.YearComponent"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.PageDateYearComponent. Représente le composant année d'une date"
 type: docs
-weight: 8140
+weight: 8280
 url: /fr/net/aspose.pdf/pagedate.yearcomponent/
 ---
-## Classe PageDate.YearComponent
+## PageDate.YearComponent class
 
 Représente le composant année d'une date.
 
@@ -24,18 +24,20 @@ public class YearComponent : DateComponent
 
 | Nom | Description |
 | --- | --- |
-| [Format](../../aspose.pdf/datecomponent/format/) { get; set; } | Obtient ou définit le format pour le composant de date. |
+| [Format](../../aspose.pdf/datecomponent/format/) { get; set; } | Obtient ou définit le format du composant de date. |
 
 ## Méthodes
 
 | Nom | Description |
 | --- | --- |
 | [GetFormat](../../aspose.pdf/pagedate.yearcomponent/getformat#getformat)() | Obtient la chaîne de format pour le composant année. |
-| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | Renvoie une chaîne composée d'un caractère spécifié répété en fonction du format. |
+| [GetFormat](../../aspose.pdf/datecomponent/getformat/)(char) | Renvoie une chaîne composée d'un caractère spécifié répété selon le format. |
 
 ### Voir aussi
 
-* classe [DateComponent](../datecomponent/)
-* classe [PageDate](../pagedate/)
-* espace de noms [Aspose.Pdf](../../aspose.pdf/)
+* class [DateComponent](../datecomponent/)
+* class [PageDate](../pagedate/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

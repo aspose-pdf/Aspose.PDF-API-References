@@ -1,14 +1,14 @@
 ---
-title: BaseParagraph.Hyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété BaseParagraph. Obtient ou définit l'hyperlien de fragment pour le générateur pdf
+title: "BaseParagraph.Hyperlink"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété BaseParagraph. Obtient ou définit le fragment de lien hypertexte pour le générateur PDF"
 type: docs
 weight: 20
 url: /fr/net/aspose.pdf/baseparagraph/hyperlink/
 ---
-## Propriété BaseParagraph.Hyperlink
+## BaseParagraph.Hyperlink property
 
-Obtient ou définit l'hyperlien de fragment (pour le générateur pdf).
+Obtient ou définit le lien hypertexte du fragment (pour le générateur PDF).
 
 ```csharp
 public virtual Hyperlink Hyperlink { get; set; }
@@ -16,7 +16,9 @@ public virtual Hyperlink Hyperlink { get; set; }
 
 ### Voir aussi
 
-* classe [Hyperlink](../../hyperlink/)
-* classe [BaseParagraph](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Hyperlink](../../hyperlink/)
+* class [BaseParagraph](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class MessageContentBase
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.MessageContentBase. Le contenu du message dans un tableau de texte et/ou d'images
+title: "Classe MessageContentBase"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Classe Aspose.Pdf.AI.MessageContentBase. Le contenu du message sous forme de tableau de texte et/ou d'images"
 type: docs
-weight: 770
+weight: 820
 url: /fr/net/aspose.pdf.ai/messagecontentbase/
 ---
-## Classe MessageContentBase
+## MessageContentBase class
 
-Le contenu du message dans un tableau de texte et/ou d'images.
+Le contenu du message sous forme de tableau de texte et/ou d'images.
 
 ```csharp
 public abstract class MessageContentBase
@@ -24,5 +24,7 @@ public abstract class MessageContentBase
 
 ### Voir aussi
 
-* espace de noms [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

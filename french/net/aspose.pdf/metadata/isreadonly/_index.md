@@ -1,12 +1,12 @@
 ---
-title: Metadata.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Propriété Metadata. Vérifie si la collection est en lecture seule
+title: "Metadata.IsReadOnly"
+second_title: "Référence de l'API Aspose.PDF pour .NET"
+description: "Propriété Metadata. Vérifie si la collection est en lecture seule"
 type: docs
 weight: 40
 url: /fr/net/aspose.pdf/metadata/isreadonly/
 ---
-## Propriété Metadata.IsReadOnly
+## Metadata.IsReadOnly property
 
 Vérifie si la collection est en lecture seule.
 
@@ -16,6 +16,8 @@ public bool IsReadOnly { get; }
 
 ### Voir aussi
 
-* classe [Metadata](../)
-* espace de noms [Aspose.Pdf](../../../aspose.pdf/)
+* class [Metadata](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+
