@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.WithTemperature
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAISummaryCopilotOptions method. Sets the temperature for the summary copilot options
+title: "OpenAISummaryCopilotOptions.WithTemperature"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OpenAISummaryCopilotOptions metodo. Imposta la temperatura per le opzioni del copilot di riepilogo"
 type: docs
-weight: 130
+weight: 140
 url: /it/net/aspose.pdf.ai/openaisummarycopilotoptions/withtemperature/
 ---
-## Metodo OpenAISummaryCopilotOptions.WithTemperature
+## OpenAISummaryCopilotOptions.WithTemperature method
 
-Imposta la temperatura per le opzioni del copilot di sintesi.
+Imposta la temperatura per le opzioni del copilot di riepilogo.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithTemperature(double? temperature)
@@ -16,7 +16,7 @@ public OpenAISummaryCopilotOptions WithTemperature(double? temperature)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| temperature | Nullable`1 | La temperatura da impostare. |
+| temperatura | Nullable`1 | La temperatura da impostare. |
 
 ### Valore di ritorno
 
@@ -24,6 +24,8 @@ L'istanza corrente di [`OpenAISummaryCopilotOptions`](../).
 
 ### Vedi anche
 
-* classe [OpenAISummaryCopilotOptions](../)
+* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

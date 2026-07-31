@@ -1,14 +1,14 @@
 ---
-title: TextSegment.TextSegment
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore TextSegment. Crea un oggetto TextSegment
+title: "TextSegment.TextSegment"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore TextSegment. Crea un oggetto TextSegment"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.text/textsegment/textsegment/
 ---
 ## TextSegment() {#constructor}
 
-Crea un oggetto TextSegment.
+Crea l'oggetto TextSegment.
 
 ```csharp
 public TextSegment()
@@ -22,35 +22,35 @@ L'esempio dimostra come creare un oggetto frammento di testo, aggiungere un segm
 Document doc = new Document(inFile);
 Page page = (Page)doc.Pages[1];
 
-// create text fragment
+// crea text fragment
 TextFragment tf = new TextFragment("main text");
 tf.Position = new Position(100, 600);
 
-// set it's text properties
+// imposta le proprietà di testo
 tf.TextState.FontSize = 5;
 tf.TextState.Font = FontRepository.FindFont("TimesNewRoman");
 tf.TextState.BackgroundColor = Color.LightGray;
 tf.TextState.ForegroundColor = Color.Red;
 
-// add one more segment to text fragment's Segments collection
+// aggiungi un altro segmento alla collezione Segments del text fragment
 TextSegment segment2 = new TextSegment();
 segment2.Text = "another segment";
 
 tf.Segments.Add(segment2);
 
-// create TextBuilder object
+// crea oggetto TextBuilder
 TextBuilder builder = new TextBuilder(page);
 
-// append the text fragment to the Pdf page
+// aggiungi il text fragment alla pagina Pdf
 builder.AppendText(tf);
 
-//save document
+//salva il Document
 doc.Save(outFile);
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextSegment](../)
+* class [TextSegment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -58,7 +58,7 @@ doc.Save(outFile);
 
 ## TextSegment(string) {#constructor_1}
 
-Crea un oggetto TextSegment.
+Crea l'oggetto TextSegment.
 
 ```csharp
 public TextSegment(string text)
@@ -66,7 +66,7 @@ public TextSegment(string text)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| text | String | Testo del segmento di testo. |
+| testo | String | Testo del segmento di testo. |
 
 ## Esempi
 
@@ -76,33 +76,35 @@ L'esempio dimostra come creare un oggetto frammento di testo, aggiungere un segm
 Document doc = new Document(inFile);
 Page page = (Page)doc.Pages[1];
 
-// create text fragment
+// crea text fragment
 TextFragment tf = new TextFragment("main text");
 tf.Position = new Position(100, 600);
 
-// set it's text properties
+// imposta le proprietà di testo
 tf.TextState.FontSize = 5;
 tf.TextState.Font = FontRepository.FindFont("TimesNewRoman");
 tf.TextState.BackgroundColor = Color.LightGray;
 tf.TextState.ForegroundColor = Color.Red;
 
-// add one more segment to text fragment's Segments collection
+// aggiungi un altro segmento alla collezione Segments del text fragment
 TextSegment segment2 = new TextSegment("another segment");
 
 tf.Segments.Add(segment2);
 
-// create TextBuilder object
+// crea oggetto TextBuilder
 TextBuilder builder = new TextBuilder(page);
 
-// append the text fragment to the Pdf page
+// aggiungi il text fragment alla pagina Pdf
 builder.AppendText(tf);
 
-//save document
+//salva il Document
 doc.Save(outFile);
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextSegment](../)
+* class [TextSegment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

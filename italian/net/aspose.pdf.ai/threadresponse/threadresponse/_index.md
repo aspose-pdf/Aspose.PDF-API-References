@@ -1,12 +1,12 @@
 ---
-title: ThreadResponse.ThreadResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di ThreadResponse. Il costruttore predefinito
+title: "ThreadResponse.ThreadResponse"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "ThreadResponse costruttore. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/threadresponse/threadresponse/
 ---
-## Costruttore di ThreadResponse
+## ThreadResponse constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public ThreadResponse()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ThreadResponse](../)
+* class [ThreadResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

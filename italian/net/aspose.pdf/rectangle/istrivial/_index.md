@@ -1,21 +1,23 @@
 ---
-title: Rectangle.IsTrivial
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Rectangle. Controlla se il rettangolo è triviale, cioè ha dimensioni e posizione zero
+title: "Rectangle.IsTrivial"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Rectangle. Verifica se il rettangolo è banale, cioè ha dimensioni e posizione zero."
 type: docs
 weight: 90
 url: /it/net/aspose.pdf/rectangle/istrivial/
 ---
-## Proprietà Rectangle.IsTrivial
+## Rectangle.IsTrivial property
 
-Controlla se il rettangolo è triviale, cioè ha dimensioni e posizione zero.
+Verifica se il rettangolo è banale, cioè ha dimensione e posizione zero.
 
 ```csharp
 public bool IsTrivial { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

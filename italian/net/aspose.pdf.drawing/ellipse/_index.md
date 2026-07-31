@@ -1,12 +1,12 @@
 ---
-title: Class Ellipse
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Drawing.Ellipse class. Represents ellipse
+title: "Classe Ellipse"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Drawing.Ellipse classe. Rappresenta un'ellisse"
 type: docs
-weight: 3910
+weight: 4030
 url: /it/net/aspose.pdf.drawing/ellipse/
 ---
-## Classe Ellisse
+## Ellipse class
 
 Rappresenta un'ellisse.
 
@@ -25,7 +25,7 @@ public sealed class Ellipse : Shape
 | Nome | Descrizione |
 | --- | --- |
 | [Bottom](../../aspose.pdf.drawing/ellipse/bottom/) { get; set; } | Ottiene o imposta un valore float che indica la posizione inferiore dell'ellisse. |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Ottiene o imposta un oggetto [`GraphInfo`](../shape/graphinfo/) che indica le informazioni grafiche, come colore, larghezza della linea, ecc. |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Ottiene o imposta un oggetto [`GraphInfo`](../shape/graphinfo/) che indica le informazioni del grafico, come colore, larghezza della linea, ecc. |
 | [Height](../../aspose.pdf.drawing/ellipse/height/) { get; set; } | Ottiene o imposta un valore float che indica l'altezza dell'ellisse. |
 | [Left](../../aspose.pdf.drawing/ellipse/left/) { get; set; } | Ottiene o imposta un valore float che indica la posizione sinistra dell'ellisse. |
 | [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Ottiene o imposta un testo per la forma |
@@ -37,8 +37,10 @@ public sealed class Ellipse : Shape
 | --- | --- |
 | override [CheckBounds](../../aspose.pdf.drawing/ellipse/checkbounds/)(double, double) |  |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Shape](../shape/)
+* class [Shape](../shape/)
 * namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
+
+

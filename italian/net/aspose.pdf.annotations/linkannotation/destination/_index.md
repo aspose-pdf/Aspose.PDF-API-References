@@ -1,12 +1,12 @@
 ---
-title: LinkAnnotation.Destination
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà LinkAnnotation. Una destinazione da visualizzare quando l'annotazione è attivata
+title: "LinkAnnotation.Destination"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà LinkAnnotation. Una destinazione da visualizzare quando l'annotazione è attivata"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.annotations/linkannotation/destination/
 ---
-## Proprietà LinkAnnotation.Destination
+## LinkAnnotation.Destination property
 
 Una destinazione da visualizzare quando l'annotazione è attivata.
 
@@ -14,9 +14,11 @@ Una destinazione da visualizzare quando l'annotazione è attivata.
 public IAppointment Destination { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IAppointment](../../iappointment/)
-* classe [LinkAnnotation](../)
+* interface [IAppointment](../../iappointment/)
+* class [LinkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

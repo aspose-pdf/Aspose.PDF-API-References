@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.Private
-second_title: Aspose.PDF for .NET API Reference
-description: Campo StructureTypeStandard. Elemento Privato Un elemento di raggruppamento contenente contenuti privati appartenenti all'applicazione che lo produce. Il significato strutturale di questo tipo di elemento non è specificato e deve essere determinato interamente dallo scrittore conforme. Né l'elemento Privato né alcuno dei suoi discendenti devono essere interpretati o esportati in altri formati di documento.
+title: "StructureTypeStandard.Private"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "StructureTypeStandard field. Elemento Private Un elemento di raggruppamento contenente contenuto privato appartenente all'applicazione che lo produce. Il significato strutturale di questo tipo di elemento non è specificato e deve essere determinato interamente dallo scrittore conforme. Né l'elemento Private né i suoi discendenti devono essere interpretati o esportati in altri formati di documento."
 type: docs
 weight: 290
 url: /it/net/aspose.pdf.logicalstructure/structuretypestandard/private/
 ---
-## Campo StructureTypeStandard.Private
+## StructureTypeStandard.Private field
 
-(Elementi Privato) Un elemento di raggruppamento contenente contenuti privati appartenenti all'applicazione che lo produce. Il significato strutturale di questo tipo di elemento non è specificato e deve essere determinato interamente dallo scrittore conforme. Né l'elemento Privato né alcuno dei suoi discendenti devono essere interpretati o esportati in altri formati di documento.
+(Private element) Un elemento di raggruppamento contenente contenuto privato appartenente all'applicazione che lo produce. Il significato strutturale di questo tipo di elemento non è specificato e sarà determinato interamente dallo scrittore conforme. Né l'elemento Private né alcuno dei suoi discendenti dovranno essere interpretati o esportati in altri formati di documento.
 
 ```csharp
 public static readonly StructureTypeStandard Private;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Page.IntToRotation
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo della pagina. Traduce il valore intero nella membro dell'enumerazione della rotazione corrispondente.
+title: "Page.IntToRotation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Page. Converte il valore intero nel membro corrispondente dell'enumerazione rotation."
 type: docs
 weight: 560
 url: /it/net/aspose.pdf/page/inttorotation/
 ---
-## Metodo Page.IntToRotation
+## Page.IntToRotation method
 
-Traduce il valore intero nel corrispondente membro dell'enumerazione di rotazione.
+Traduce il valore intero nel membro corrispondente dell'enumerazione di rotazione.
 
 ```csharp
 public static Rotation IntToRotation(int rotation)
@@ -16,15 +16,17 @@ public static Rotation IntToRotation(int rotation)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| rotation | Int32 | Valore intero da convertire |
+| rotazione | Int32 | Valore intero da convertire |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Membro dell'enumerazione di rotazione
+Membro dell'enumerazione Rotation
 
-### Vedi Anche
+### Vedi anche
 
 * enum [Rotation](../../rotation/)
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: OpenAIContext.ThreadId
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà OpenAIContext. Ottiene o imposta l'ID thread
+title: "OpenAIContext.ThreadId"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OpenAIContext proprietà. Ottiene o imposta l'ID del thread"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.ai/openaicontext/threadid/
 ---
-## Proprietà OpenAIContext.ThreadId
+## OpenAIContext.ThreadId property
 
-Ottiene o imposta l'ID thread.
+Ottiene o imposta l'ID del Thread.
 
 ```csharp
 public string ThreadId { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OpenAIContext](../)
+* class [OpenAIContext](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

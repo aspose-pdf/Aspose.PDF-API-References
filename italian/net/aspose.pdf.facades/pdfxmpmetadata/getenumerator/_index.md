@@ -1,12 +1,12 @@
 ---
-title: PdfXmpMetadata.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfXmpMetadata. Ottiene l'oggetto enumeratore del dizionario
+title: "PdfXmpMetadata.GetEnumerator"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfXmpMetadata. Ottiene l'oggetto enumeratore del dizionario"
 type: docs
 weight: 160
 url: /it/net/aspose.pdf.facades/pdfxmpmetadata/getenumerator/
 ---
-## Metodo PdfXmpMetadata.GetEnumerator
+## PdfXmpMetadata.GetEnumerator method
 
 Ottiene l'oggetto enumeratore del dizionario.
 
@@ -14,13 +14,15 @@ Ottiene l'oggetto enumeratore del dizionario.
 public IEnumerator<KeyValuePair<string, XmpValue>> GetEnumerator()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 L'oggetto enumeratore.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpValue](../../../aspose.pdf/xmpvalue/)
-* classe [PdfXmpMetadata](../)
+* class [XmpValue](../../../aspose.pdf/xmpvalue/)
+* class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

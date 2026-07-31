@@ -1,22 +1,24 @@
 ---
-title: RunStepResponse.Usage
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà RunStepResponse. Ottiene o imposta le statistiche di utilizzo relative al passo di esecuzione. Questo valore sarà nullo mentre lo stato del passo di esecuzione è in_progress
+title: "RunStepResponse.Usage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà RunStepResponse. Ottiene o imposta le statistiche di utilizzo relative al passaggio di esecuzione. Questo valore sarà null mentre lo stato del passaggio di esecuzione è in_progress"
 type: docs
 weight: 170
 url: /it/net/aspose.pdf.ai/runstepresponse/usage/
 ---
-## Proprietà RunStepResponse.Usage
+## RunStepResponse.Usage property
 
-Ottiene o imposta le statistiche di utilizzo relative al passo di esecuzione. Questo valore sarà nullo mentre lo stato del passo di esecuzione è in_progress.
+Ottiene o imposta le statistiche di utilizzo relative al passaggio di esecuzione. Questo valore sarà null mentre lo stato del passaggio di esecuzione è in_progress.
 
 ```csharp
 public Usage Usage { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Usage](../../usage/)
-* classe [RunStepResponse](../)
+* class [Usage](../../usage/)
+* class [RunStepResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

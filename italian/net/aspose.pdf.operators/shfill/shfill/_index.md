@@ -1,12 +1,12 @@
 ---
-title: ShFill.ShFill
-second_title: Aspose.PDF for .NET API Reference
-description: ShFill constructor. Initializes operator
+title: "ShFill.ShFill"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore ShFill. Inizializza l'operatore"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/shfill/shfill/
 ---
-## Costruttore ShFill
+## ShFill constructor
 
 Inizializza l'operatore.
 
@@ -18,8 +18,10 @@ public ShFill(string shadingName)
 | --- | --- | --- |
 | shadingName | String | Nome dell'ombreggiatura. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ShFill](../)
+* class [ShFill](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

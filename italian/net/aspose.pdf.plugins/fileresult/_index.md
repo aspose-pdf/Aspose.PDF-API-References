@@ -1,14 +1,14 @@
 ---
-title: Class FileResult
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Plugins.FileResult. Rappresenta il risultato dell'operazione sotto forma di percorso stringa a un file
+title: "Classe FileResult"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Plugins.FileResult. Rappresenta il risultato dell'operazione sotto forma di percorso stringa al file"
 type: docs
-weight: 8560
+weight: 8690
 url: /it/net/aspose.pdf.plugins/fileresult/
 ---
-## Classe FileResult
+## FileResult class
 
-Rappresenta il risultato dell'operazione sotto forma di percorso stringa a un file.
+Rappresenta il risultato dell'operazione sotto forma di percorso stringa al file.
 
 ```csharp
 public sealed class FileResult : IOperationResult
@@ -20,18 +20,20 @@ public sealed class FileResult : IOperationResult
 | --- | --- |
 | [Data](../../aspose.pdf.plugins/fileresult/data/) { get; } | Ottiene i dati grezzi. |
 | [IsFile](../../aspose.pdf.plugins/fileresult/isfile/) { get; } | Indica se il risultato è un percorso a un file di output. |
-| [IsStream](../../aspose.pdf.plugins/fileresult/isstream/) { get; } | Indica se il risultato è uno stream di output. |
+| [IsStream](../../aspose.pdf.plugins/fileresult/isstream/) { get; } | Indica se il risultato è un flusso di output. |
 | [IsString](../../aspose.pdf.plugins/fileresult/isstring/) { get; } | Indica se il risultato è una stringa di testo. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [ToFile](../../aspose.pdf.plugins/fileresult/tofile/)() | Tenta di convertire il risultato in un file. |
-| [ToStream](../../aspose.pdf.plugins/fileresult/tostream/)() | Tenta di convertire il risultato in un oggetto stream. |
+| [ToFile](../../aspose.pdf.plugins/fileresult/tofile/)() | Prova a convertire il risultato in un file. |
+| [ToStream](../../aspose.pdf.plugins/fileresult/tostream/)() | Prova a convertire il risultato in un oggetto stream. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IOperationResult](../ioperationresult/)
+* interface [IOperationResult](../ioperationresult/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PsLoadOptions.FontsFolders
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PsLoadOptions. Ottiene o imposta i percorsi delle cartelle dei caratteri
+title: "PsLoadOptions.FontsFolders"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PsLoadOptions. Ottiene o imposta i percorsi delle cartelle dei font"
 type: docs
-weight: 20
+weight: 30
 url: /it/net/aspose.pdf/psloadoptions/fontsfolders/
 ---
-## Proprietà PsLoadOptions.FontsFolders
+## PsLoadOptions.FontsFolders property
 
-Ottiene o imposta i percorsi delle cartelle dei caratteri.
+Ottiene o imposta i percorsi delle cartelle dei font.
 
 ```csharp
 public string[] FontsFolders { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PsLoadOptions](../)
+* class [PsLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

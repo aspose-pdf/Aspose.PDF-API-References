@@ -1,14 +1,14 @@
 ---
-title: Page.DeleteGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Page. Elimina grafica dalla pagina. Funziona più velocemente rispetto all'eliminazione di elementi uno per uno con il metodo Remove
+title: "Page.DeleteGraphics"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Page. Elimina le grafiche dalla pagina. Funziona più velocemente rispetto all'eliminazione degli elementi uno per uno con il metodo Remove."
 type: docs
 weight: 410
 url: /it/net/aspose.pdf/page/deletegraphics/
 ---
-## Metodo Page.DeleteGraphics
+## Page.DeleteGraphics method
 
-Elimina grafica dalla pagina. Funziona più velocemente rispetto all'eliminazione di elementi uno per uno con il metodo [`Remove`](../../../aspose.pdf.vector/graphicelement/remove/).
+Elimina le grafiche dalla pagina. Funziona più velocemente rispetto all'eliminazione degli elementi uno per uno con il metodo [`Remove`](../../../aspose.pdf.vector/graphicelement/remove/).
 
 ```csharp
 public void DeleteGraphics(GraphicElementCollection elementsToDelete)
@@ -16,11 +16,13 @@ public void DeleteGraphics(GraphicElementCollection elementsToDelete)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| elementsToDelete | GraphicElementCollection | Collezione di grafica che verrà eliminata dalla pagina. |
+| elementsToDelete | GraphicElementCollection | Collezione di grafiche che verrà eliminata dalla pagina. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GraphicElementCollection](../../../aspose.pdf.vector/graphicelementcollection/)
-* classe [Page](../)
+* class [GraphicElementCollection](../../../aspose.pdf.vector/graphicelementcollection/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: PaperSources.Lower
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PaperSources. Rappresenta il cassetto inferiore della stampante
+title: "PaperSources.Lower"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "campo PaperSources. Rappresenta il vassoio inferiore della stampante"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.printing/papersources/lower/
 ---
-## Campo PaperSources.Lower
+## PaperSources.Lower field
 
-Rappresenta il cassetto inferiore della stampante.
+Rappresenta il vassoio inferiore della stampante.
 
 ```csharp
 public static readonly PaperSource Lower;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSource](../../papersource/)
-* classe [PaperSources](../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

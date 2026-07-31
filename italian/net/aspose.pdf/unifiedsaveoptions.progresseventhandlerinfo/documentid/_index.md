@@ -1,21 +1,23 @@
 ---
-title: UnifiedSaveOptions.ProgressEventHandlerInfo.DocumentId
-second_title: Aspose.PDF for .NET API Reference
-description: Campo ProgressEventHandlerInfo. L'ID documento unico
+title: "UnifiedSaveOptions.ProgressEventHandlerInfo.DocumentId"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo ProgressEventHandlerInfo. L'ID documento unico"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/unifiedsaveoptions.progresseventhandlerinfo/documentid/
 ---
-## Campo UnifiedSaveOptions.ProgressEventHandlerInfo.DocumentId
+## UnifiedSaveOptions.ProgressEventHandlerInfo.DocumentId field
 
-L'ID documento unico.
+L'ID unico del document.
 
 ```csharp
 public Guid DocumentId;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ProgressEventHandlerInfo](../)
+* class [ProgressEventHandlerInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

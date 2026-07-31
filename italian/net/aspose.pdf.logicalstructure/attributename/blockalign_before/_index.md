@@ -1,21 +1,23 @@
 ---
-title: AttributeName.BlockAlign_Before
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName field. Attribute BlockAlign Before  Before edge of the first childs allocation rectangle aligned with that of the table cells content rectangle
+title: "AttributeName.BlockAlign_Before"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeName field. Attribute BlockAlign Before  Il bordo precedente del rettangolo di allocazione del primo figlio è allineato con quello del rettangolo di contenuto delle celle della tabella"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.logicalstructure/attributename/blockalign_before/
 ---
-## Campo AttributeName.BlockAlign_Before
+## AttributeName.BlockAlign_Before field
 
-Attributo BlockAlign: Before - Il bordo anteriore del rettangolo di allocazione del primo figlio allineato con quello del rettangolo di contenuto della cella della tabella.
+Attributo BlockAlign: Before - Il bordo anteriore del primo rettangolo di allocazione del figlio è allineato con quello del rettangolo di contenuto della cella della tabella.
 
 ```csharp
 public static readonly AttributeName BlockAlign_Before;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

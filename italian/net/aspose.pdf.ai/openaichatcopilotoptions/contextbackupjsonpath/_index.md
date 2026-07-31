@@ -1,21 +1,23 @@
 ---
-title: OpenAIChatCopilotOptions.ContextBackupJsonPath
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà OpenAIChatCopilotOptions. Ottiene o imposta il percorso del file per il backup del contesto JSON
+title: "OpenAIChatCopilotOptions.ContextBackupJsonPath"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà OpenAIChatCopilotOptions. Ottiene o imposta il percorso file per il JSON di backup del contesto"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.ai/openaichatcopilotoptions/contextbackupjsonpath/
 ---
-## Proprietà OpenAIChatCopilotOptions.ContextBackupJsonPath
+## OpenAIChatCopilotOptions.ContextBackupJsonPath property
 
-Ottiene o imposta il percorso del file per il backup del contesto JSON.
+Ottiene o imposta il percorso file per il backup del contesto JSON.
 
 ```csharp
 public string ContextBackupJsonPath { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OpenAIChatCopilotOptions](../)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

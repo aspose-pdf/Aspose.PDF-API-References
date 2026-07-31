@@ -1,12 +1,12 @@
 ---
-title: PDF3DAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PDF3DAnnotation. Ottiene il tipo di annotazione
+title: "PDF3DAnnotation.AnnotationType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PDF3DAnnotation. Ottiene il tipo di annotazione"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.annotations/pdf3dannotation/annotationtype/
 ---
-## Proprietà PDF3DAnnotation.AnnotationType
+## PDF3DAnnotation.AnnotationType property
 
 Ottiene il tipo di annotazione.
 
@@ -14,13 +14,15 @@ Ottiene il tipo di annotazione.
 public override AnnotationType AnnotationType { get; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
-Il tipo dell'annotazione.
+Il tipo di annotazione.
 
-### Vedi Anche
+### Vedi anche
 
 * enum [AnnotationType](../../annotationtype/)
 * class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

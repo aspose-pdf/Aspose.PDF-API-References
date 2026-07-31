@@ -1,21 +1,23 @@
 ---
-title: BarcodeField.Caption
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà BarcodeField. Ottiene la didascalia dell'oggetto codice a barre
+title: "BarcodeField.Caption"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "BarcodeField property. Ottiene la didascalia dell'oggetto barcode"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.forms/barcodefield/caption/
 ---
-## Proprietà BarcodeField.Caption
+## BarcodeField.Caption property
 
-Ottiene la didascalia dell'oggetto codice a barre.
+Restituisce la didascalia dell'oggetto barcode.
 
 ```csharp
 public string Caption { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BarcodeField](../)
+* class [BarcodeField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

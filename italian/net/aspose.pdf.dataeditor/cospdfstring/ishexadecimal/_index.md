@@ -1,25 +1,27 @@
 ---
-title: CosPdfString.IsHexadecimal
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà CosPdfString. Ottiene un valore che indica se questa istanza è esadecimale
+title: "CosPdfString.IsHexadecimal"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "CosPdfString property. Ottiene un valore che indica se questa istanza è esadecimale"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.dataeditor/cospdfstring/ishexadecimal/
 ---
-## Proprietà CosPdfString.IsHexadecimal
+## CosPdfString.IsHexadecimal property
 
-Ottiene un valore che indica se questa istanza è esadecimale.
+Restituisce un valore che indica se questa istanza è esadecimale.
 
 ```csharp
 public bool IsHexadecimal { get; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
 `true` se questa istanza è esadecimale; altrimenti, `false`.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CosPdfString](../)
+* class [CosPdfString](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

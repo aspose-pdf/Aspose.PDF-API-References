@@ -1,12 +1,12 @@
 ---
-title: Enum CaptionPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.CaptionPosition enum. Enumerazione del posizionamento delle didascalie delle annotazioni
+title: "Enum CaptionPosition"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Annotations.CaptionPosition enum. Enumerazione del posizionamento della didascalia delle annotazioni"
 type: docs
-weight: 1550
+weight: 1640
 url: /it/net/aspose.pdf.annotations/captionposition/
 ---
-## Enumerazione CaptionPosition
+## CaptionPosition enumeration
 
 Enumerazione del posizionamento della didascalia dell'annotazione.
 
@@ -21,7 +21,9 @@ public enum CaptionPosition
 | Inline | `0` | La didascalia sarà centrata all'interno della linea (valore predefinito). |
 | Top | `1` | La didascalia sarà sopra la linea. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

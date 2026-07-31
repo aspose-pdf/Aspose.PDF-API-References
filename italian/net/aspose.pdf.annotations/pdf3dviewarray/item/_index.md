@@ -1,14 +1,14 @@
 ---
-title: PDF3DViewArray.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PDF3DViewArray. Ottiene o imposta il PDF3DView da visualizzare nell'array all'indice specificato
+title: "PDF3DViewArray.Item"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PDF3DViewArray proprietà. Ottiene o imposta il PDF3DView nell'array di viste all'indice specificato"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.annotations/pdf3dviewarray/item/
 ---
-## Indicizzatore PDF3DViewArray
+## PDF3DViewArray indexer
 
-Ottiene o imposta il [`PDF3DView`](../../pdf3dview/) da visualizzare nell'array all'indice specificato.
+Ottiene o imposta il [`PDF3DView`](../../pdf3dview/) per visualizzare l'array all'indice specificato.
 
 ```csharp
 public PDF3DView this[int index] { get; set; }
@@ -18,7 +18,7 @@ public PDF3DView this[int index] { get; set; }
 | --- | --- |
 | index | L'indice. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 PDF3DView.
 
@@ -26,11 +26,13 @@ PDF3DView.
 
 | eccezione | condizione |
 | --- | --- |
-| IndexOutOfRangeException | Indice non valido: l'indice deve essere compreso nell'intervallo [1..n] dove n è uguale al numero di visualizzazioni. |
+| IndexOutOfRangeException | Indice non valido: l'indice deve essere nell'intervallo [1..n] dove n è uguale al conteggio delle viste. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PDF3DView](../../pdf3dview/)
-* classe [PDF3DViewArray](../)
+* class [PDF3DView](../../pdf3dview/)
+* class [PDF3DViewArray](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

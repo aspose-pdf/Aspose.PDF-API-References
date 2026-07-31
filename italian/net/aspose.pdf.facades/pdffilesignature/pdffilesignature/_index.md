@@ -1,7 +1,7 @@
 ---
-title: PdfFileSignature.PdfFileSignature
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PdfFileSignature. Il costruttore della classe PdfFileSignature
+title: "PdfFileSignature.PdfFileSignature"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PdfFileSignature. Il costruttore della classe PdfFileSignature."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.facades/pdffilesignature/pdffilesignature/
@@ -14,9 +14,9 @@ Il costruttore della classe PdfFileSignature.
 public PdfFileSignature()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileSignature](../)
+* class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public PdfFileSignature()
 
 ## PdfFileSignature(Document) {#constructor_1}
 
-Inizializza un nuovo oggetto [`PdfFileSignature`](../) basato sul *documento*.
+Inizializza un nuovo oggetto [`PdfFileSignature`](../) basato sul *document*.
 
 ```csharp
 public PdfFileSignature(Document document)
@@ -32,11 +32,13 @@ public PdfFileSignature(Document document)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| documento | Documento | Documento Pdf. |
+| document | Document | Documento Pdf. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [PdfFileSignature](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

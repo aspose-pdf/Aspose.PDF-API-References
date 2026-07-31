@@ -1,21 +1,27 @@
 ---
-title: DocumentPrivilege.AllowDegradedPrinting
-second_title: Aspose.PDF for .NET API Reference
-description: La proprietà DocumentPrivilege. Impone le autorizzazioni che consentono la stampa degrata o no. vero significa consento e falso significa vietato.
+title: "DocumentPrivilege.AllowDegradedPrinting"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "DocumentPrivilege proprietà. Imposta il permesso che consente la stampa degradata o meno. true consente e false è proibito"
 type: docs
 weight: 130
 url: /it/net/aspose.pdf.facades/documentprivilege/allowdegradedprinting/
 ---
-## Proprietà DocumentPrivilege.AllowDegradedPrinting
+## DocumentPrivilege.AllowDegradedPrinting property
 
-Imposta il permesso che consente la stampa degradante o meno. true consente e false è vietato.
+Imposta l'autorizzazione che consente la stampa a bassa risoluzione o meno. true consente e false vieta.
 
 ```csharp
 public bool AllowDegradedPrinting { get; set; }
 ```
 
-### Vedi Anche
+## Osservazioni
 
-* classe [DocumentPrivilege](../)
+Quando impostato, la stampa sarà limitata a una rappresentazione di basso livello dell'aspetto, possibilmente di qualità degradata.
+
+### Vedi anche
+
+* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: LlamaChatCompletionResponse.Choices
-second_title: Aspose.PDF for .NET API Reference
-description: LlamaChatCompletionResponse property. Gets or sets a list of chat completion choices. Can be more than one if n is greater than 1
+title: "LlamaChatCompletionResponse.Choices"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "LlamaChatCompletionResponse proprietà. Ottiene o imposta un elenco di scelte di completamento della chat. Può essere più di una se n è maggiore di 1"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.ai/llamachatcompletionresponse/choices/
 ---
-## Proprietà LlamaChatCompletionResponse.Choices
+## LlamaChatCompletionResponse.Choices property
 
-Ottiene o imposta un elenco di scelte di completamento della chat. Può essere più di uno se n è maggiore di 1.
+Ottiene o imposta un elenco di scelte di completamento della chat. Può essere più di una se n è maggiore di 1.
 
 ```csharp
 public List<Choice> Choices { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Choice](../../choice/)
-* classe [LlamaChatCompletionResponse](../)
+* class [Choice](../../choice/)
+* class [LlamaChatCompletionResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

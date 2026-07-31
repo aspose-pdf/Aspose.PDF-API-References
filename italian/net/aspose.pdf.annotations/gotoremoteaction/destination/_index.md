@@ -1,12 +1,12 @@
 ---
-title: GoToRemoteAction.Destination
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà GoToRemoteAction. Ottiene o imposta la destinazione a cui saltare
+title: "GoToRemoteAction.Destination"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà GoToRemoteAction. Ottiene o imposta la destinazione a cui saltare"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.annotations/gotoremoteaction/destination/
 ---
-## Proprietà GoToRemoteAction.Destination
+## GoToRemoteAction.Destination property
 
 Ottiene o imposta la destinazione a cui saltare.
 
@@ -16,7 +16,9 @@ public override IAppointment Destination { get; set; }
 
 ### Vedi anche
 
-* interfaccia [IAppointment](../../iappointment/)
-* classe [GoToRemoteAction](../)
+* interface [IAppointment](../../iappointment/)
+* class [GoToRemoteAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

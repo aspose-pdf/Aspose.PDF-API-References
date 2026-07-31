@@ -1,14 +1,14 @@
 ---
-title: CharInfoCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo CharInfoCollection. La raccolta è letta solo lancia NotImplementedException.
+title: "CharInfoCollection.Remove"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo CharInfoCollection. La collezione è di sola lettura, lancia NotImplementedException"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.text/charinfocollection/remove/
 ---
-## Metodo CharInfoCollection.Remove
+## CharInfoCollection.Remove method
 
-La collezione è di sola lettura, genera NotImplementedException.
+La raccolta è di sola lettura, genera NotImplementedException.
 
 ```csharp
 public bool Remove(CharInfo item)
@@ -24,7 +24,9 @@ NotImplementedException
 
 ### Vedi anche
 
-* classe [CharInfo](../../charinfo/)
-* classe [CharInfoCollection](../)
+* class [CharInfo](../../charinfo/)
+* class [CharInfoCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

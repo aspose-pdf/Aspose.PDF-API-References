@@ -1,14 +1,14 @@
 ---
-title: Stamp.Put
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Stamp. Aggiunge un timbro sulla pagina
+title: "Stamp.Put"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Stamp. Aggiunge il timbro sulla pagina"
 type: docs
 weight: 210
 url: /it/net/aspose.pdf/stamp/put/
 ---
-## Metodo Stamp.Put
+## Stamp.Put method
 
-Aggiunge un timbro sulla pagina.
+Aggiunge un timbro alla pagina.
 
 ```csharp
 public abstract void Put(Page page)
@@ -16,11 +16,13 @@ public abstract void Put(Page page)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | La pagina su cui aggiungere il timbro. |
+| pagina | Page | La pagina su cui aggiungere il timbro. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../page/)
-* classe [Stamp](../)
+* class [Page](../../page/)
+* class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

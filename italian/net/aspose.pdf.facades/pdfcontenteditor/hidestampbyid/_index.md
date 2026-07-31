@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.HideStampById
-second_title: Aspose.PDF for .NET API Reference
-description: PdfContentEditor metodo. Nasconde il francobollo. Dopo la nascondenza, la visibilità del francobollo potrebbe essere ripristinato con il metodo ShowStampById.
+title: "PdfContentEditor.HideStampById"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfContentEditor. Nasconde il timbro. Dopo aver nascosto il timbro, la visibilità può essere ripristinata con il metodo ShowStampById."
 type: docs
 weight: 400
 url: /it/net/aspose.pdf.facades/pdfcontenteditor/hidestampbyid/
 ---
-## Metodo PdfContentEditor.HideStampById
+## PdfContentEditor.HideStampById method
 
-Nasconde il timbro. Dopo aver nascosto, la visibilità del timbro può essere ripristinata con il metodo ShowStampById.
+Nasconde il timbro. Dopo la nasconditura, la visibilità del timbro può essere ripristinata con il metodo ShowStampById.
 
 ```csharp
 public void HideStampById(int pageNumber, int stampId)
@@ -17,10 +17,12 @@ public void HideStampById(int pageNumber, int stampId)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | pageNumber | Int32 | Numero della pagina. |
-| stampId | Int32 | Identificatore del timbro che deve essere nascosto. |
+| stampId | Int32 | Identificatore del timbro da nascondere. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

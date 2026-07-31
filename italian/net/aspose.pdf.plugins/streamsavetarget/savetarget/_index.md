@@ -1,26 +1,28 @@
 ---
-title: StreamSaveTarget.SaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà StreamSaveTarget. Tipo del flusso di salvataggio
+title: "StreamSaveTarget.SaveTarget"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà StreamSaveTarget. Tipo del flusso di destinazione di salvataggio"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.plugins/streamsavetarget/savetarget/
 ---
-## Proprietà StreamSaveTarget.SaveTarget
+## StreamSaveTarget.SaveTarget property
 
-Tipo del target di salvataggio (flusso).
+Tipo della destinazione di salvataggio (stream).
 
 ```csharp
 public DataType SaveTarget { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Un oggetto [`DataType`](../../datatype/) che rappresenta i dati di output.
 
-### Vedi Anche
+### Vedi anche
 
 * enum [DataType](../../datatype/)
 * class [StreamSaveTarget](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

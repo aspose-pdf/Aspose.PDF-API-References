@@ -1,21 +1,23 @@
 ---
-title: InterruptMonitor.CancellationToken
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di InterruptMonitor. Monitora il token di cancellazione utilizzato per l'interruzione del processo. Per impostazione predefinita, ogni IInterruptMonitor genera il proprio cancellationSource
+title: "InterruptMonitor.CancellationToken"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà InterruptMonitor. Monitora il token di cancellazione utilizzato per l'interruzione del processo. Per impostazione predefinita ogni IInterruptMonitor genera la propria cancellationSource"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.multithreading/interruptmonitor/cancellationtoken/
 ---
-## Proprietà InterruptMonitor.CancellationToken
+## InterruptMonitor.CancellationToken property
 
-Token di cancellazione del monitor utilizzato per l'interruzione del processo. Per impostazione predefinita, ogni IInterruptMonitor genera il proprio cancellationSource.
+Token di cancellazione del monitor utilizzato per l'interruzione del processo. Per impostazione predefinita ogni IInterruptMonitor genera la propria cancellationSource.
 
 ```csharp
 public CancellationToken CancellationToken { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [InterruptMonitor](../)
+* class [InterruptMonitor](../)
 * namespace [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
 * assembly [Aspose.PDF](../../../)
+
+

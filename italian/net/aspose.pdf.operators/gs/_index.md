@@ -1,12 +1,12 @@
 ---
-title: Class GS
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.GS. Classe che rappresenta i parametri dell'operatore gs dal dizionario dei parametri dello stato grafico
+title: "Classe GS"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Operators.GS classe. Classe che rappresenta l'operatore gs per impostare i parametri dal dizionario dei parametri dello stato grafico"
 type: docs
-weight: 7400
+weight: 7540
 url: /it/net/aspose.pdf.operators/gs/
 ---
-## Classe GS
+## GS class
 
 Classe che rappresenta l'operatore gs (imposta i parametri dal dizionario dei parametri dello stato grafico).
 
@@ -31,12 +31,14 @@ public class GS : Operator
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/gs/accept/)(IOperatorSelector) | Accetta l'oggetto visitatore per elaborare l'operatore. |
-| override [ToString](../../aspose.pdf.operators/gs/tostring/)() | Restituisce la rappresentazione in stringa dell'operatore. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto dato. |
+| override [Accept](../../aspose.pdf.operators/gs/accept/)(IOperatorSelector) | Accetta un oggetto visitor per elaborare l'operatore. |
+| override [ToString](../../aspose.pdf.operators/gs/tostring/)() | Restituisce la rappresentazione stringa dell'operatore. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto fornito. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Operator](../../aspose.pdf/operator/)
+* class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

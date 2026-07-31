@@ -1,12 +1,12 @@
 ---
-title: Color.Peru
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà colore. Ottiene un colore definito dal sistema che ha un valore ARGB di c FFCD853F
+title: "Color.Peru"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Color. Restituisce un colore definito dal sistema con valore ARGB c FFCD853F"
 type: docs
 weight: 1100
 url: /it/net/aspose.pdf/color/peru/
 ---
-## Proprietà Color.Peru
+## Color.Peru property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFCD853F.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFCD853F.
 public static Color Peru { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un rappresentante di un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

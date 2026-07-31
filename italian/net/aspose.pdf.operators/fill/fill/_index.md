@@ -1,12 +1,12 @@
 ---
-title: Fill.Fill
-second_title: Aspose.PDF for .NET API Reference
-description: Riempire il costruttore. Inizializza il nuovo operatore f.
+title: "Fill.Fill"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore Fill. Inizializza un nuovo operatore f"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/fill/fill/
 ---
-## Costruttore Fill
+## Fill constructor
 
 Inizializza un nuovo operatore f.
 
@@ -14,8 +14,10 @@ Inizializza un nuovo operatore f.
 public Fill()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Fill](../)
+* class [Fill](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

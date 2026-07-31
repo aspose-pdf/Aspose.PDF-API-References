@@ -1,25 +1,27 @@
 ---
-title: Page.AsXml
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Page. Converte la pagina corrente in xml con codifica utf8
+title: "Page.AsXml"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Page. Converte la pagina corrente in XML con codifica UTF-8"
 type: docs
 weight: 380
 url: /it/net/aspose.pdf/page/asxml/
 ---
-## Metodo Page.AsXml
+## Page.AsXml method
 
-Converte la pagina corrente in xml con codifica utf8.
+Converte la pagina corrente in XML con codifica UTF-8.
 
 ```csharp
 public string AsXml()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Stringa xml convertita.
+Stringa XML convertita.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

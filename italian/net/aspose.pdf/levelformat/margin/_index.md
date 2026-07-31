@@ -1,22 +1,24 @@
 ---
-title: LevelFormat.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà LevelFormat. Ottiene o imposta un margine di livello elenco
+title: "LevelFormat.Margin"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà LevelFormat. Ottiene o imposta il margine del livello di elenco"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/levelformat/margin/
 ---
-## Proprietà LevelFormat.Margin
+## LevelFormat.Margin property
 
-Ottiene o imposta un margine di livello elenco
+Ottiene o imposta il margine di livello dell'elenco
 
 ```csharp
 public MarginInfo Margin { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MarginInfo](../../margininfo/)
-* classe [LevelFormat](../)
+* class [MarginInfo](../../margininfo/)
+* class [LevelFormat](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

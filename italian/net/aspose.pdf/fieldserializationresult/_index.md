@@ -1,14 +1,14 @@
 ---
-title: Class FieldSerializationResult
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.FieldSerializationResult class. Represents the result of a form field serialization process
+title: "Classe FieldSerializationResult"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.FieldSerializationResult. Rappresenta il risultato di un processo di serializzazione di un campo modulo"
 type: docs
-weight: 4790
+weight: 4910
 url: /it/net/aspose.pdf/fieldserializationresult/
 ---
-## Classe FieldSerializationResult
+## FieldSerializationResult class
 
-Rappresenta il risultato di un processo di serializzazione di un campo modulo.
+Rappresenta il risultato di un processo di serializzazione del campo modulo.
 
 ```csharp
 public class FieldSerializationResult
@@ -23,7 +23,9 @@ public class FieldSerializationResult
 | [FieldSerializationStatus](../../aspose.pdf/fieldserializationresult/fieldserializationstatus/) { get; } | Ottiene lo stato della serializzazione del campo modulo. |
 | [WarningMessages](../../aspose.pdf/fieldserializationresult/warningmessages/) { get; } | Ottiene i messaggi di avviso associati al processo di serializzazione. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

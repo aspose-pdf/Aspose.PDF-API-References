@@ -1,12 +1,12 @@
 ---
-title: Matrix3D.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Matrix3D. Confronta la matrice con un altro oggetto
+title: "Matrix3D.Equals"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Matrix3D metodo. Confronta la matrice con un altro oggetto"
 type: docs
 weight: 150
 url: /it/net/aspose.pdf/matrix3d/equals/
 ---
-## Metodo Matrix3D.Equals
+## Matrix3D.Equals method
 
 Confronta la matrice con un altro oggetto.
 
@@ -18,12 +18,14 @@ public override bool Equals(object obj)
 | --- | --- | --- |
 | obj | Oggetto | Oggetto da confrontare. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Restituisce true se l'altro oggetto è Matrix3D e tutti i membri della matrice sono uguali ai membri corrispondenti della matrice
+Restituisce true se l'altro oggetto è Matrix3D e tutti i membri della matrice sono uguali ai corrispondenti membri della matrice
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Matrix3D](../)
+* class [Matrix3D](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

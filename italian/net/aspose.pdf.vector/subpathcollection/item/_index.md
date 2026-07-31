@@ -1,12 +1,12 @@
 ---
-title: Item
-second_title: Aspose.PDF for .NET API Reference
-description: Ottiene l'elemento SubPath all'indice specificato.
+title: "Elemento"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Ottiene l'elemento SubPath all'indice specificato."
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.vector/subpathcollection/item/
 ---
-## Indicizzatore SubPathCollection
+## SubPathCollection indexer
 
 Ottiene l'elemento SubPath all'indice specificato.
 
@@ -18,14 +18,14 @@ public SubPath this[int index] { get; }
 | --- | --- |
 | index | Indice all'interno della collezione. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Oggetto SubPath.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SubPath](../../subpath)
-* classe [SubPathCollection](../../subpathcollection)
+* class [SubPath](../../subpath)
+* class [SubPathCollection](../../subpathcollection)
 * namespace [Aspose.Pdf.Vector](../../subpathcollection)
 * assembly [Aspose.PDF](../../../)
 

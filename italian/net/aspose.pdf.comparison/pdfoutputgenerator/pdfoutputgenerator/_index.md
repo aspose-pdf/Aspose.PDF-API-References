@@ -1,7 +1,7 @@
 ---
-title: PdfOutputGenerator.PdfOutputGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PdfOutputGenerator. Crea un'istanza della classe PdfOutputGenerator
+title: "PdfOutputGenerator.PdfOutputGenerator"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PdfOutputGenerator. Crea un'istanza della classe PdfOutputGenerator"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.comparison/pdfoutputgenerator/pdfoutputgenerator/
@@ -14,9 +14,9 @@ Crea un'istanza della classe [`PdfOutputGenerator`](../).
 public PdfOutputGenerator()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfOutputGenerator](../)
+* class [PdfOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,12 +32,12 @@ public PdfOutputGenerator(PageInfo pageInfo)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pageInfo | PageInfo | Le impostazioni delle dimensioni della pagina e dei margini. |
+| pageInfo | PageInfo | Le impostazioni di dimensione e margini della page. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageInfo](../../../aspose.pdf/pageinfo/)
-* classe [PdfOutputGenerator](../)
+* class [PageInfo](../../../aspose.pdf/pageinfo/)
+* class [PdfOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
 
@@ -55,10 +55,10 @@ public PdfOutputGenerator(OutputTextStyle textStyle)
 | --- | --- | --- |
 | textStyle | OutputTextStyle | Gli stili per il testo modificato. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OutputTextStyle](../../outputtextstyle/)
-* classe [PdfOutputGenerator](../)
+* class [OutputTextStyle](../../outputtextstyle/)
+* class [PdfOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
 
@@ -75,12 +75,14 @@ public PdfOutputGenerator(OutputTextStyle textStyle, PageInfo pageInfo)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | textStyle | OutputTextStyle | Gli stili per il testo modificato. |
-| pageInfo | PageInfo | Le impostazioni delle dimensioni della pagina e dei margini. |
+| pageInfo | PageInfo | Le impostazioni di dimensione e margini della page. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OutputTextStyle](../../outputtextstyle/)
-* classe [PageInfo](../../../aspose.pdf/pageinfo/)
-* classe [PdfOutputGenerator](../)
+* class [OutputTextStyle](../../outputtextstyle/)
+* class [PageInfo](../../../aspose.pdf/pageinfo/)
+* class [PdfOutputGenerator](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

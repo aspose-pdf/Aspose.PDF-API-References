@@ -1,7 +1,7 @@
 ---
-title: RadioButtonOptionField.RadioButtonOptionField
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di RadioButtonOptionField. Crea una nuova istanza di RadioButtonOptionField
+title: "RadioButtonOptionField.RadioButtonOptionField"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore RadioButtonOptionField. Crea una nuova istanza di RadioButtonOptionField."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.forms/radiobuttonoptionfield/radiobuttonoptionfield/
@@ -14,9 +14,9 @@ Crea una nuova istanza di RadioButtonOptionField.
 public RadioButtonOptionField()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RadioButtonOptionField](../)
+* class [RadioButtonOptionField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,13 +32,15 @@ public RadioButtonOptionField(Page page, Rectangle rect)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | Pagina in cui verrà posizionato il RadioButton; |
+| pagina | Page | Pagina in cui verrà posizionato il RadioButton; |
 | rect | Rectangle | Rettangolo del RadioButton. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [RadioButtonOptionField](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [RadioButtonOptionField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class MoveTo
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.MoveTo. Classe che rappresenta l'operatore m per spostarsi e iniziare un nuovo sotto-percorso
+title: "Classe MoveTo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Operators.MoveTo classe. Classe che rappresenta l'operatore m sposta a e inizia un nuovo sottopercorso"
 type: docs
-weight: 7500
+weight: 7640
 url: /it/net/aspose.pdf.operators/moveto/
 ---
-## Classe MoveTo
+## MoveTo class
 
-Classe che rappresenta l'operatore m (spostarsi e iniziare un nuovo sotto-percorso).
+Classe che rappresenta l'operatore m (sposta e inizia un nuovo sottotracciato).
 
 ```csharp
 public class MoveTo : Operator
@@ -18,7 +18,7 @@ public class MoveTo : Operator
 
 | Nome | Descrizione |
 | --- | --- |
-| [MoveTo](moveto/)(double, double) | Inizializza un nuovo operatore !:Operators.m (spostarsi). |
+| [MoveTo](moveto/)(double, double) | Inizializza il nuovo operatore !:Operators.m (move to). |
 
 ## Proprietà
 
@@ -32,12 +32,14 @@ public class MoveTo : Operator
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/moveto/accept/)(IOperatorSelector) | Accetta un oggetto visitatore per elaborare l'operatore. |
+| override [Accept](../../aspose.pdf.operators/moveto/accept/)(IOperatorSelector) | Accetta un oggetto visitor per elaborare l'operatore. |
 | override [ToString](../../aspose.pdf.operators/moveto/tostring/)() | Restituisce la rappresentazione testuale dell'operatore. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto fornito. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Operator](../../aspose.pdf/operator/)
+* class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Enum ImportFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ImportFormat enum. Specifica formato di importazione
+title: "Enum ImportFormat"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Enum Aspose.Pdf.ImportFormat. Specifica il formato di importazione."
 type: docs
-weight: 5940
+weight: 6070
 url: /it/net/aspose.pdf/importformat/
 ---
-## Enumerazione ImportFormat
+## ImportFormat enumeration
 
 Specifica il formato di importazione.
 
@@ -20,7 +20,9 @@ public enum ImportFormat
 | --- | --- | --- |
 | Cgm | `1` | Formato Computer Graphics Metafile. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

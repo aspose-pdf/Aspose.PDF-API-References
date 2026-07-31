@@ -1,12 +1,12 @@
 ---
-title: DeleteStatusResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà DeleteStatusResponse. Ottiene o imposta l'ID dell'oggetto eliminato
+title: "DeleteStatusResponse.Id"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "DeleteStatusResponse proprietà. Ottiene o imposta l'ID dell'oggetto eliminato"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.ai/deletestatusresponse/id/
 ---
-## Proprietà DeleteStatusResponse.Id
+## DeleteStatusResponse.Id property
 
 Ottiene o imposta l'ID dell'oggetto eliminato.
 
@@ -14,8 +14,10 @@ Ottiene o imposta l'ID dell'oggetto eliminato.
 public string Id { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DeleteStatusResponse](../)
+* class [DeleteStatusResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

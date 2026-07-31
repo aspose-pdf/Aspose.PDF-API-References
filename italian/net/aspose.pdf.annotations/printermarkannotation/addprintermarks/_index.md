@@ -1,14 +1,14 @@
 ---
-title: PrinterMarkAnnotation.AddPrinterMarks
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PrinterMarkAnnotation. Aggiunge i segni del stampatore a tutte le pagine nel documento specificato
+title: "PrinterMarkAnnotation.AddPrinterMarks"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PrinterMarkAnnotation. Aggiunge i segni della stampante a tutte le pagine del documento specificato"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/printermarkannotation/addprintermarks/
 ---
 ## AddPrinterMarks(Document, PrinterMarksKind) {#addprintermarks}
 
-Aggiunge i segni del stampatore a tutte le pagine nel documento specificato.
+Aggiunge i segni della stampante a tutte le pagine del documento specificato.
 
 ```csharp
 public static void AddPrinterMarks(Document document, PrinterMarksKind marksKind)
@@ -16,24 +16,24 @@ public static void AddPrinterMarks(Document document, PrinterMarksKind marksKind
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| document | Document | Il documento a cui verranno aggiunti i segni del stampatore. |
-| marksKind | PrinterMarksKind | Il tipo di segni del stampatore da aggiungere. |
+| document | Document | Il documento a cui verranno aggiunti i segni della stampante. |
+| marksKind | PrinterMarksKind | Il tipo di segni della stampante da aggiungere. |
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentNullException | Sollevato quando il *document* è nullo. |
+| ArgumentNullException | Generato quando il *document* è nullo. |
 
 ## Osservazioni
 
-Questo metodo aggiunge vari tipi di segni del stampatore in base ai flag forniti [`PrinterMarksKind`](../../printermarkskind/). Se None è fornito, non vengono aggiunti segni.
+Questo metodo aggiunge vari tipi di segni della stampante in base alle flag [`PrinterMarksKind`](../../printermarkskind/) fornite. Se viene fornito None, non vengono aggiunti segni.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
+* class [Document](../../../aspose.pdf/document/)
 * enum [PrinterMarksKind](../../printermarkskind/)
-* classe [PrinterMarkAnnotation](../)
+* class [PrinterMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -41,7 +41,7 @@ Questo metodo aggiunge vari tipi di segni del stampatore in base ai flag forniti
 
 ## AddPrinterMarks(Page, PrinterMarksKind) {#addprintermarks_1}
 
-Aggiunge i segni del stampatore alla pagina specificata.
+Aggiunge i segni della stampante alla pagina specificata.
 
 ```csharp
 public static void AddPrinterMarks(Page page, PrinterMarksKind marksKind)
@@ -49,23 +49,25 @@ public static void AddPrinterMarks(Page page, PrinterMarksKind marksKind)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | La pagina a cui verranno aggiunti i segni del stampatore. |
-| marksKind | PrinterMarksKind | Il tipo di segni del stampatore da aggiungere. |
+| pagina | Page | La pagina a cui verranno aggiunti i segni della stampante. |
+| marksKind | PrinterMarksKind | Il tipo di segni della stampante da aggiungere. |
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| ArgumentNullException | Sollevato quando la *page* è nulla. |
+| ArgumentNullException | Generato quando il *page* è nullo. |
 
 ## Osservazioni
 
-Questo metodo aggiunge vari tipi di segni del stampatore in base ai flag forniti [`PrinterMarksKind`](../../printermarkskind/). Se None è fornito, non vengono aggiunti segni.
+Questo metodo aggiunge vari tipi di segni della stampante in base alle flag [`PrinterMarksKind`](../../printermarkskind/) fornite. Se viene fornito None, non vengono aggiunti segni.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
+* class [Page](../../../aspose.pdf/page/)
 * enum [PrinterMarksKind](../../printermarkskind/)
-* classe [PrinterMarkAnnotation](../)
+* class [PrinterMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

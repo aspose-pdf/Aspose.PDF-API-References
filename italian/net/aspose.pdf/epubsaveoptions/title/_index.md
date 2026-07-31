@@ -1,12 +1,12 @@
 ---
-title: EpubSaveOptions.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà EpubSaveOptions. Ottiene o imposta il titolo del documento EPUB
+title: "EpubSaveOptions.Title"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà EpubSaveOptions. Ottiene o imposta il titolo del documento EPUB"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/epubsaveoptions/title/
 ---
-## Proprietà EpubSaveOptions.Title
+## EpubSaveOptions.Title property
 
 Ottiene o imposta il titolo del documento EPUB.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il titolo del documento EPUB.
 public string Title { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [EpubSaveOptions](../)
+* class [EpubSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

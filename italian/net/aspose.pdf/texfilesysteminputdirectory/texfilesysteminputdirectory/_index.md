@@ -1,12 +1,12 @@
 ---
-title: TeXFileSystemInputDirectory.TeXFileSystemInputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di TeXFileSystemInputDirectory. Crea una nuova istanza
+title: "TeXFileSystemInputDirectory.TeXFileSystemInputDirectory"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore di TeXFileSystemInputDirectory. Crea una nuova istanza"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/texfilesysteminputdirectory/texfilesysteminputdirectory/
 ---
-## Costruttore di TeXFileSystemInputDirectory
+## TeXFileSystemInputDirectory constructor
 
 Crea una nuova istanza.
 
@@ -16,10 +16,12 @@ public TeXFileSystemInputDirectory(string basePath)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| basePath | String | Il percorso di base della directory. |
+| basePath | String | Il percorso base della directory. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TeXFileSystemInputDirectory](../)
+* class [TeXFileSystemInputDirectory](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

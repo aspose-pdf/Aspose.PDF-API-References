@@ -1,12 +1,12 @@
 ---
-title: Table.Alignment
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della tabella. Ottiene o imposta l'allineamento della tabella
+title: "Table.Alignment"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà della classe Table. Ottiene o imposta l'allineamento della tabella"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/table/alignment/
 ---
-## Proprietà Table.Alignment
+## Table.Alignment property
 
 Ottiene o imposta l'allineamento della tabella.
 
@@ -14,9 +14,11 @@ Ottiene o imposta l'allineamento della tabella.
 public HorizontalAlignment Alignment { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [HorizontalAlignment](../../horizontalalignment/)
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

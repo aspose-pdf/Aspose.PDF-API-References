@@ -1,14 +1,14 @@
 ---
-title: Outlines.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Outlines. Copia le voci dell'outline in un System.Array a partire da un particolare indice di System.Array
+title: "Outlines.CopyTo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Outlines metodo. Copia le voci dell'outline in un System.Array a partire da un indice specifico di System.Array"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf/outlines/copyto/
 ---
-## Metodo Outlines.CopyTo
+## Outlines.CopyTo method
 
-Copia le voci dell'outline in un System.Array, a partire da un particolare indice di System.Array.
+Copia le voci di indice in un System.Array, iniziando a un indice specifico di System.Array.
 
 ```csharp
 public abstract void CopyTo(OutlineItemCollection[] array, int arrayIndex)
@@ -16,12 +16,14 @@ public abstract void CopyTo(OutlineItemCollection[] array, int arrayIndex)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| array | OutlineItemCollection[] | Il System.Array unidimensionale che è la destinazione. Deve avere indicizzazione a base zero. |
-| arrayIndex | Int32 | L'indice a base zero nell'array da cui inizia la copia. |
+| array | OutlineItemCollection[] | Il System.Array monodimensionale che è la destinazione. Deve avere indicizzazione a base zero. |
+| arrayIndex | Int32 | L'indice a base zero nell'array a partire dal quale inizia la copia. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OutlineItemCollection](../../outlineitemcollection/)
-* classe [Outlines](../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [Outlines](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

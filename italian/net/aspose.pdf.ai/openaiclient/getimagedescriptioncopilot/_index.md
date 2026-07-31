@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.GetImageDescriptionCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIClient. Ottiene un'istanza di IImageDescriptionCopilot con le opzioni specificate
+title: "OpenAIClient.GetImageDescriptionCopilot"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OpenAIClient. Ottiene un'istanza di IImageDescriptionCopilot con le opzioni specificate"
 type: docs
 weight: 240
 url: /it/net/aspose.pdf.ai/openaiclient/getimagedescriptioncopilot/
 ---
-## Metodo OpenAIClient.GetImageDescriptionCopilot
+## OpenAIClient.GetImageDescriptionCopilot method
 
 Ottiene un'istanza di [`IImageDescriptionCopilot`](../../iimagedescriptioncopilot/) con le opzioni specificate.
 
@@ -25,9 +25,11 @@ Un'istanza di [`IImageDescriptionCopilot`](../../iimagedescriptioncopilot/).
 
 ### Vedi anche
 
-* interfaccia [IImageDescriptionCopilot](../../iimagedescriptioncopilot/)
-* interfaccia [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../../iimagedescriptioncopilotoptions-1/)
-* classe [OpenAIImageDescriptionCopilotOptions](../../openaiimagedescriptioncopilotoptions/)
-* classe [OpenAIClient](../)
+* interface [IImageDescriptionCopilot](../../iimagedescriptioncopilot/)
+* interface [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../../iimagedescriptioncopilotoptions-1/)
+* class [OpenAIImageDescriptionCopilotOptions](../../openaiimagedescriptioncopilotoptions/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

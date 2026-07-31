@@ -1,14 +1,14 @@
 ---
-title: Enum PropertyFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.PropertyFlag enum. Enumerazione delle bandiere possibili del campo
+title: "Enum PropertyFlag"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Enum Aspose.Pdf.Facades.PropertyFlag. Enumerazione dei possibili flag di campo."
 type: docs
-weight: 4660
+weight: 4780
 url: /it/net/aspose.pdf.facades/propertyflag/
 ---
-## Enumerazione PropertyFlag
+## PropertyFlag enumeration
 
-Enumerazione dei possibili flag dei campi.
+Enumerazione delle possibili flag di campo.
 
 ```csharp
 public enum PropertyFlag
@@ -23,7 +23,9 @@ public enum PropertyFlag
 | NoExport | `2` | Il campo non è esportabile. |
 | InvalidFlag | `3` | Flag del campo non valido. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

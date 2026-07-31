@@ -1,12 +1,12 @@
 ---
-title: Class SoundSampleData
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.SoundSampleData. Rappresenta voci aggiuntive specifiche per un oggetto audio Sezione 9.2 PDF17
+title: "Classe SoundSampleData"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Annotations.SoundSampleData class. Rappresenta voci aggiuntive specifiche per un oggetto audio Sezione 9.2 PDF17"
 type: docs
-weight: 2570
+weight: 2670
 url: /it/net/aspose.pdf.annotations/soundsampledata/
 ---
-## Classe SoundSampleData
+## SoundSampleData class
 
 Rappresenta voci aggiuntive specifiche per un oggetto audio (Sezione 9.2 PDF1-7)
 
@@ -18,10 +18,10 @@ public class SoundSampleData
 
 | Nome | Descrizione |
 | --- | --- |
-| [SoundSampleData](soundsampledata/#constructor)(long) | Inizializza nuovi dati di campione audio. |
-| [SoundSampleData](soundsampledata/#constructor_1)(long, int) | Inizializza nuovi dati di campione audio. |
-| [SoundSampleData](soundsampledata/#constructor_2)(long, int, int) | Inizializza nuovi dati di campione audio. |
-| [SoundSampleData](soundsampledata/#constructor_3)(long, int, int, SoundSampleDataEncodingFormat) | Inizializza nuovi dati di campione audio. |
+| [SoundSampleData](soundsampledata/#constructor)(long) | Inizializza nuovi dati del campione audio. |
+| [SoundSampleData](soundsampledata/#constructor_1)(long, int) | Inizializza nuovi dati del campione audio. |
+| [SoundSampleData](soundsampledata/#constructor_2)(long, int, int) | Inizializza nuovi dati del campione audio. |
+| [SoundSampleData](soundsampledata/#constructor_3)(long, int, int, SoundSampleDataEncodingFormat) | Inizializza nuovi dati del campione audio. |
 
 ## Proprietà
 
@@ -39,9 +39,11 @@ public class SoundSampleData
 | const [DefaultEncodingFormat](../../aspose.pdf.annotations/soundsampledata/defaultencodingformat/) | Valore predefinito per il formato di codifica. |
 | const [DefaultOfBitsPerChannel](../../aspose.pdf.annotations/soundsampledata/defaultofbitsperchannel/) | Valore predefinito per il parametro BitsPerchannel. |
 | const [DefaultOfSoundChannels](../../aspose.pdf.annotations/soundsampledata/defaultofsoundchannels/) | Valore predefinito per il parametro Channels. |
-| const [DefaultSamplingRate](../../aspose.pdf.annotations/soundsampledata/defaultsamplingrate/) | Valore predefinito per la frequenza di campionamento. |
+| const [DefaultSamplingRate](../../aspose.pdf.annotations/soundsampledata/defaultsamplingrate/) | Valore predefinito per SamplingRate. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

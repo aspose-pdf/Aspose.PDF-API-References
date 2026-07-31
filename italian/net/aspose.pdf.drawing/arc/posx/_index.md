@@ -1,12 +1,12 @@
 ---
-title: Arc.PosX
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Arc. Ottiene o imposta un valore float che indica la coordinata x del centro dell'arco
+title: "Arc.PosX"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Arc. Ottiene o imposta un valore float che indica la coordinata x del centro dell'arco"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.drawing/arc/posx/
 ---
-## Proprietà Arc.PosX
+## Arc.PosX property
 
 Ottiene o imposta un valore float che indica la coordinata x del centro dell'arco.
 
@@ -14,8 +14,10 @@ Ottiene o imposta un valore float che indica la coordinata x del centro dell'arc
 public double PosX { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Arc](../)
+* class [Arc](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

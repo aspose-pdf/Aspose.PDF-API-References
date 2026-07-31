@@ -1,26 +1,28 @@
 ---
-title: Rectangle.ToPoints
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo del rettangolo. Trasforma il rettangolo in un array di punti Quad.
+title: "Rectangle.ToPoints"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Rectangle. Converte il rettangolo in un array di punti QuadPoints"
 type: docs
 weight: 270
 url: /it/net/aspose.pdf/rectangle/topoints/
 ---
-## Metodo Rectangle.ToPoints
+## Rectangle.ToPoints method
 
-Converte il rettangolo in un array di punti ("QuadPoints").
+Converte il rettangolo in un array di punti (\"QuadPoints\").
 
 ```csharp
 public Point[] ToPoints()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Array di punti.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Point](../../point/)
-* classe [Rectangle](../)
+* class [Point](../../point/)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

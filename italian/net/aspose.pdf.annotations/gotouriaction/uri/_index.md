@@ -1,21 +1,23 @@
 ---
-title: GoToURIAction.URI
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà GoToURIAction. Ottiene o imposta l'identificatore uniforme delle risorse da risolvere
+title: "GoToURIAction.URI"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà GoToURIAction. Ottiene o imposta l'identificatore uniforme di risorsa da risolvere"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.annotations/gotouriaction/uri/
 ---
-## Proprietà GoToURIAction.URI
+## GoToURIAction.URI property
 
-Ottiene o imposta l'identificatore uniforme delle risorse da risolvere.
+Ottiene o imposta l'identificatore uniforme di risorsa da risolvere.
 
 ```csharp
 public string URI { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GoToURIAction](../)
+* class [GoToURIAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

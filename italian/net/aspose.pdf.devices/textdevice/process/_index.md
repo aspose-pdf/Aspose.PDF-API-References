@@ -1,14 +1,14 @@
 ---
-title: TextDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TextDevice. Converti la pagina e salvala come flusso di testo
+title: "TextDevice.Process"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TextDevice. Converte la pagina e la salva come flusso di testo."
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.devices/textdevice/process/
 ---
-## Metodo TextDevice.Process
+## TextDevice.Process method
 
-Converti la pagina e salvala come flusso di testo.
+Converti la pagina e salvala come stream di testo.
 
 ```csharp
 public override void Process(Page page, Stream output)
@@ -16,12 +16,12 @@ public override void Process(Page page, Stream output)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | La pagina da convertire. |
+| pagina | Page | La pagina da convertire. |
 | output | Stream | Flusso di risultato. |
 
 ## Esempi
 
-L'esempio dimostra come estrarre il testo dalla prima pagina del documento PDF.
+L'esempio dimostra come estrarre testo nella prima pagina del documento PDF.
 
 ```csharp
 Document doc = new Document(inFile);
@@ -29,21 +29,23 @@ string extractedText;
 
 using (MemoryStream ms = new MemoryStream())
 {
-    // create text device
+    // crea dispositivo di testo
     TextDevice device = new TextDevice();
 
-    // convert the page and save text to the stream
+    // converti la pagina e salva il testo nello stream
     device.Process(doc.Pages[1], ms);
 
-    // use the extracted text
+    // usa il testo estratto
     ms.Close();
     extractedText = Encoding.Unicode.GetString(ms.ToArray());
 }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [TextDevice](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [TextDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

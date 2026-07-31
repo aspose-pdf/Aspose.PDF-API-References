@@ -1,12 +1,12 @@
 ---
-title: XmpField.IsEmpty
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XmpField. Ottiene un valore che indica se questa istanza è vuota
+title: "XmpField.IsEmpty"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà XmpField. Ottiene un valore che indica se questa istanza è vuota"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/xmpfield/isempty/
 ---
-## Proprietà XmpField.IsEmpty
+## XmpField.IsEmpty property
 
 Ottiene un valore che indica se questa istanza è vuota.
 
@@ -14,12 +14,14 @@ Ottiene un valore che indica se questa istanza è vuota.
 public bool IsEmpty { get; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
 `true` se questa istanza è vuota; altrimenti, `false`.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpField](../)
+* class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FormEditor.ExportItems
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FormEditor. Imposta le opzioni per la casella combinata con valori di esportazione
+title: "FormEditor.ExportItems"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FormEditor. Imposta le opzioni per la casella combinata con valori di esportazione."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.facades/formeditor/exportitems/
 ---
-## Proprietà FormEditor.ExportItems
+## FormEditor.ExportItems property
 
 Imposta le opzioni per la casella combinata con valori di esportazione.
 
@@ -28,8 +28,10 @@ formEditor.AddField(FieldType.ListBox, "AddedListBoxField", "Second", 1, 10, 30,
 formEditor.Save();
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

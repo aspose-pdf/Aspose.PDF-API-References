@@ -1,12 +1,12 @@
 ---
-title: PDF3DLightingScheme.White
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DLightingScheme field. The White lighting scheme
+title: "PDF3DLightingScheme.White"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo PDF3DLightingScheme. Lo schema di illuminazione White"
 type: docs
 weight: 130
 url: /it/net/aspose.pdf.annotations/pdf3dlightingscheme/white/
 ---
-## Campo PDF3DLightingScheme.White
+## PDF3DLightingScheme.White field
 
 Lo schema di illuminazione "White".
 
@@ -14,8 +14,10 @@ Lo schema di illuminazione "White".
 public static PDF3DLightingScheme White;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PDF3DLightingScheme](../)
+* class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

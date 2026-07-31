@@ -1,14 +1,14 @@
 ---
-title: Class TiffSettings
-second_title: Aspose.PDF for .NET API Reference
-description: La classe Aspose.Pdf.Devices.TiffSettings. Questa classe rappresenta le impostazioni per importare pdf in Tiff
+title: "Classe TiffSettings"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Devices.TiffSettings. Questa classe rappresenta le impostazioni per importare pdf in Tiff"
 type: docs
-weight: 3710
+weight: 3830
 url: /it/net/aspose.pdf.devices/tiffsettings/
 ---
-## Classe TiffSettings
+## TiffSettings class
 
-Questa classe rappresenta le impostazioni per importare pdf in Tiff.
+Questa classe rappresenta le impostazioni per l'importazione di pdf in Tiff.
 
 ```csharp
 public sealed class TiffSettings
@@ -34,13 +34,15 @@ public sealed class TiffSettings
 | --- | --- |
 | [Brightness](../../aspose.pdf.devices/tiffsettings/brightness/) { get; set; } | Ottiene o imposta un valore limite della trasformazione dei colori in bianco e nero. Questo parametro può essere applicato con EncoderValue.CompressionCCITT4, EncoderValue.CompressionCCITT3, EncoderValue.CompressionRle o ColorDepth.Format1bpp == 1 |
 | [Compression](../../aspose.pdf.devices/tiffsettings/compression/) { get; set; } | Ottiene o imposta il tipo di compressione. |
-| [CoordinateType](../../aspose.pdf.devices/tiffsettings/coordinatetype/) { get; set; } | Ottiene o imposta il tipo di coordinate della pagina (Media/Crop boxes). Il valore CropBox è utilizzato per impostazione predefinita. |
-| [Depth](../../aspose.pdf.devices/tiffsettings/depth/) { get; set; } | Ottiene o imposta la profondità del colore. |
+| [CoordinateType](../../aspose.pdf.devices/tiffsettings/coordinatetype/) { get; set; } | Ottiene o imposta il tipo di coordinate della pagina (scatole Media/Crop). Il valore CropBox è usato per impostazione predefinita. |
+| [Depth](../../aspose.pdf.devices/tiffsettings/depth/) { get; set; } | Ottiene o imposta la profondità di colore. |
 | [Margins](../../aspose.pdf.devices/tiffsettings/margins/) { get; } | Ottiene i margini. |
 | [Shape](../../aspose.pdf.devices/tiffsettings/shape/) { get; set; } | Ottiene o imposta il tipo di forma. |
 | [SkipBlankPages](../../aspose.pdf.devices/tiffsettings/skipblankpages/) { get; set; } | Ottiene o imposta un valore che indica se saltare le pagine vuote. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIChatCopilotOptions. Imposta la raccolta di documenti per le opzioni del copilot chat
+title: "OpenAIChatCopilotOptions.WithDocuments"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OpenAIChatCopilotOptions. Imposta la raccolta di documenti per le opzioni del copilot della chat"
 type: docs
-weight: 110
+weight: 120
 url: /it/net/aspose.pdf.ai/openaichatcopilotoptions/withdocuments/
 ---
 ## WithDocuments(DocumentCollection) {#withdocuments}
 
-Imposta la raccolta di documenti per le opzioni del copilot chat.
+Imposta la collezione di documenti per le opzioni del copilot della chat.
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocuments(DocumentCollection documentCollection)
@@ -18,14 +18,14 @@ public OpenAIChatCopilotOptions WithDocuments(DocumentCollection documentCollect
 | --- | --- | --- |
 | documentCollection | DocumentCollection | La raccolta di documenti da impostare. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 L'istanza corrente di [`OpenAIChatCopilotOptions`](../).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocumentCollection](../../documentcollection/)
-* classe [OpenAIChatCopilotOptions](../)
+* class [DocumentCollection](../../documentcollection/)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -33,7 +33,7 @@ L'istanza corrente di [`OpenAIChatCopilotOptions`](../).
 
 ## WithDocuments(List&lt;TextDocument&gt;) {#withdocuments_2}
 
-Aggiunge più documenti di testo alla raccolta di documenti per le opzioni del copilot chat.
+Aggiunge più documenti di testo alla collezione di documenti per le opzioni del copilot della chat.
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocuments(List<TextDocument> textDocuments)
@@ -43,14 +43,14 @@ public OpenAIChatCopilotOptions WithDocuments(List<TextDocument> textDocuments)
 | --- | --- | --- |
 | textDocuments | List`1 | L'elenco dei documenti di testo da aggiungere. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 L'istanza corrente di [`OpenAIChatCopilotOptions`](../).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextDocument](../../textdocument/)
-* classe [OpenAIChatCopilotOptions](../)
+* class [TextDocument](../../textdocument/)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -58,7 +58,7 @@ L'istanza corrente di [`OpenAIChatCopilotOptions`](../).
 
 ## WithDocuments(List&lt;PdfDocument&gt;) {#withdocuments_1}
 
-Aggiunge più documenti PDF alla raccolta di documenti per le opzioni del copilot chat.
+Aggiunge più documenti PDF alla collezione di documenti per le opzioni del copilot della chat.
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
@@ -68,14 +68,14 @@ public OpenAIChatCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
 | --- | --- | --- |
 | pdfDocuments | List`1 | L'elenco dei documenti PDF da aggiungere. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 L'istanza corrente di [`OpenAIChatCopilotOptions`](../).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfDocument](../../pdfdocument/)
-* classe [OpenAIChatCopilotOptions](../)
+* class [PdfDocument](../../pdfdocument/)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -83,7 +83,7 @@ L'istanza corrente di [`OpenAIChatCopilotOptions`](../).
 
 ## WithDocuments(List&lt;string&gt;) {#withdocuments_3}
 
-Aggiunge più percorsi di documenti alla raccolta di documenti per le opzioni del copilot chat.
+Aggiunge più percorsi di documenti alla collezione di documenti per le opzioni del copilot della chat.
 
 ```csharp
 public OpenAIChatCopilotOptions WithDocuments(List<string> filePaths)
@@ -91,14 +91,16 @@ public OpenAIChatCopilotOptions WithDocuments(List<string> filePaths)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| filePaths | List`1 | L'elenco dei percorsi dei file da aggiungere. |
+| filePaths | List`1 | L'elenco dei percorsi file da aggiungere. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 L'istanza corrente di [`OpenAIChatCopilotOptions`](../).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OpenAIChatCopilotOptions](../)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

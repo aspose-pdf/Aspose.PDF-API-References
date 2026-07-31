@@ -1,12 +1,12 @@
 ---
-title: Enum FontStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.FontStyle enum. Elenco di 14 tipi di font.
+title: "Enum FontStyle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Facades.FontStyle enum. Elenca 14 tipi di carattere"
 type: docs
-weight: 4280
+weight: 4400
 url: /it/net/aspose.pdf.facades/fontstyle/
 ---
-## Enumerazione FontStyle
+## FontStyle enumeration
 
 Enumera 14 tipi di carattere.
 
@@ -19,23 +19,25 @@ public enum FontStyle
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
 | Courier | `0` | Carattere Courier. |
-| CourierBold | `1` | Carattere Courier in grassetto. |
-| CourierOblique | `2` | Carattere Courier obliquo. |
-| CourierBoldOblique | `3` | Carattere Courier obliquo in grassetto. |
+| CourierBold | `1` | Carattere Courier grassetto. |
+| CourierOblique | `2` | Carattere Curier obliquo. |
+| CourierBoldOblique | `3` | Carattere Courier grassetto obliquo. |
 | Helvetica | `4` | Carattere Helvetica. |
-| HelveticaBold | `5` | Carattere Helvetica in grassetto. |
-| HelveticaOblique | `6` | Carattere Helvetica obliquo. |
-| HelveticaBoldOblique | `7` | Carattere Helvetica obliquo in grassetto. |
-| Symbol | `8` | Carattere Symbol. |
-| TimesRoman | `9` | Carattere Times-Roman. |
-| TimesBold | `10` | Carattere Times in grassetto. |
-| TimesItalic | `11` | Carattere Times in corsivo. |
-| TimesBoldItalic | `12` | Carattere Times in grassetto e corsivo. |
-| ZapfDingbats | `13` | Carattere ZapfDingbats. |
-| Unknown | `14` | Carattere sconosciuto. Verrà utilizzato il carattere standard. |
-| CjkFont | `15` | Carattere True Type per il supporto CJK, il predefinito è il carattere MS PGothic. |
+| HelveticaBold | `5` | Carattere Helvetica grassetto. |
+| HelveticaOblique | `6` | Font Helvetica obliquo. |
+| HelveticaBoldOblique | `7` | Font Helvetica grassetto obliquo. |
+| Symbol | `8` | Font Symbol. |
+| TimesRoman | `9` | Font Times-Roman. |
+| TimesBold | `10` | Font Times grassetto. |
+| TimesItalic | `11` | Font Times corsivo. |
+| TimesBoldItalic | `12` | Font Times grassetto corsivo. |
+| ZapfDingbats | `13` | Font ZapfDingbats. |
+| Unknown | `14` | Font sconosciuto. Verrà utilizzato il font standard. |
+| CjkFont | `15` | True Type Font per il supporto CJK, il valore predefinito è il font MS PGothic. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.A3ExtraTransverse
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PaperSizes. Carta A3 extra trasversale 322 mm per 445 mm
+title: "PaperSizes.A3ExtraTransverse"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "campo PaperSizes. carta A3 extra trasversale 322 mm per 445 mm"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.printing/papersizes/a3extratransverse/
 ---
-## Campo PaperSizes.A3ExtraTransverse
+## PaperSizes.A3ExtraTransverse field
 
 Carta A3 extra trasversale (322 mm per 445 mm).
 
@@ -14,9 +14,11 @@ Carta A3 extra trasversale (322 mm per 445 mm).
 public static readonly PaperSize A3ExtraTransverse;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

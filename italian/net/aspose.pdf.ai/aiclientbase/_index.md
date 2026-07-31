@@ -1,12 +1,12 @@
 ---
-title: Class AIClientBase
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.AIClientBase. Rappresenta il client per accedere all'API AI
+title: "Classe AIClientBase"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.AI.AIClientBase. Rappresenta il client per accedere all'API AI"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.ai/aiclientbase/
 ---
-## Classe AIClientBase
+## AIClientBase class
 
 Rappresenta il client per accedere all'API AI.
 
@@ -27,9 +27,11 @@ public abstract class AIClientBase : IDisposable
 
 | Nome | Descrizione |
 | --- | --- |
-| [Dispose](../../aspose.pdf.ai/aiclientbase/dispose/)() | Libera le risorse utilizzate da `AIClientBase`. |
+| [Dispose](../../aspose.pdf.ai/aiclientbase/dispose/)() | Rilascia le risorse utilizzate da `AIClientBase`. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

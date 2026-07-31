@@ -1,12 +1,12 @@
 ---
-title: GraphicState.ColorsAndStyles
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà GraphicState. Ottiene gli operatori che rappresentano i colori degli spazi colore e gli stili di linea
+title: "GraphicState.ColorsAndStyles"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà GraphicState. Ottiene gli operatori che rappresentano spazi colore, colori e stili di linea."
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.vector/graphicstate/colorsandstyles/
 ---
-## Proprietà GraphicState.ColorsAndStyles
+## GraphicState.ColorsAndStyles property
 
 Ottiene gli operatori che rappresentano gli spazi colore, i colori e gli stili di linea.
 
@@ -14,9 +14,11 @@ Ottiene gli operatori che rappresentano gli spazi colore, i colori e gli stili d
 public SortedDictionary<byte, Operator> ColorsAndStyles { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Operator](../../../aspose.pdf/operator/)
-* classe [GraphicState](../)
+* class [Operator](../../../aspose.pdf/operator/)
+* class [GraphicState](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

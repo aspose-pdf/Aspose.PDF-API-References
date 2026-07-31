@@ -1,12 +1,12 @@
 ---
-title: XmpValue.IsField
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XmpValue. Restituisce true se XmpValue è un campo.
+title: "XmpValue.IsField"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà XmpValue. Restituisce true se XmpValue è un campo"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf/xmpvalue/isfield/
 ---
-## Proprietà XmpValue.IsField
+## XmpValue.IsField property
 
 Restituisce true se XmpValue è un campo.
 
@@ -14,8 +14,10 @@ Restituisce true se XmpValue è un campo.
 public bool IsField { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpValue](../)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

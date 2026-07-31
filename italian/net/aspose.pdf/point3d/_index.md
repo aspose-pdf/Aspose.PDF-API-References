@@ -1,12 +1,12 @@
 ---
-title: Class Point3D
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Point3D. Rappresenta un punto con coordinate frazionarie
+title: "Classe Point3D"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Point3D. Rappresenta un punto con coordinate frazionarie"
 type: docs
-weight: 9470
+weight: 9620
 url: /it/net/aspose.pdf/point3d/
 ---
-## Classe Point3D
+## Point3D class
 
 Rappresenta un punto con coordinate frazionarie.
 
@@ -24,7 +24,7 @@ public sealed class Point3D
 
 | Nome | Descrizione |
 | --- | --- |
-| static [Trivial](../../aspose.pdf/point3d/trivial/) { get; } | Ottiene il punto con coordinate zero. |
+| static [Trivial](../../aspose.pdf/point3d/trivial/) { get; } | Ottiene un punto con coordinate zero. |
 | [X](../../aspose.pdf/point3d/x/) { get; set; } | Valore della coordinata X. |
 | [Y](../../aspose.pdf/point3d/y/) { get; set; } | Valore della coordinata Y. |
 | [Z](../../aspose.pdf/point3d/z/) { get; set; } | Valore della coordinata Z. |
@@ -33,9 +33,11 @@ public sealed class Point3D
 
 | Nome | Descrizione |
 | --- | --- |
-| override [ToString](../../aspose.pdf/point3d/tostring/)() | Restituisce la rappresentazione in stringa dell'oggetto. |
+| override [ToString](../../aspose.pdf/point3d/tostring/)() | Restituisce la rappresentazione stringa dell'oggetto. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

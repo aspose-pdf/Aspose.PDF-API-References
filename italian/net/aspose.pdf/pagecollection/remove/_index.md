@@ -1,12 +1,12 @@
 ---
-title: PageCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PageCollection. Rimuove l'elemento specificato genera NotSupportedException
+title: "PageCollection.Remove"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PageCollection. Rimuove l'elemento specificato e lancia NotSupportedException"
 type: docs
 weight: 170
 url: /it/net/aspose.pdf/pagecollection/remove/
 ---
-## Metodo PageCollection.Remove
+## PageCollection.Remove method
 
 Rimuove l'elemento specificato, genera NotSupportedException.
 
@@ -24,7 +24,9 @@ NotSupportedException
 
 ### Vedi anche
 
-* classe [Page](../../page/)
-* classe [PageCollection](../)
+* class [Page](../../page/)
+* class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: AttributeKey.ListNumbering
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeKey field. ListNumbering attribute List attribute owner
+title: "AttributeKey.ListNumbering"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeKey campo. ListNumbering attributo List attributo proprietario"
 type: docs
 weight: 210
 url: /it/net/aspose.pdf.logicalstructure/attributekey/listnumbering/
 ---
-## Campo AttributeKey.ListNumbering
+## AttributeKey.ListNumbering field
 
 Attributo ListNumbering (proprietario dell'attributo List).
 
@@ -14,8 +14,10 @@ Attributo ListNumbering (proprietario dell'attributo List).
 public static readonly AttributeKey ListNumbering;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ActionCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ActionCollection. Aggiunge un'azione nuova nella collezione.
+title: "ActionCollection.Add"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ActionCollection. Aggiunge una nuova azione nella collezione"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.annotations/actioncollection/add/
 ---
-## Metodo ActionCollection.Add
+## ActionCollection.Add method
 
 Aggiunge una nuova azione nella collezione.
 
@@ -16,11 +16,13 @@ public void Add(PdfAction action)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| action | PdfAction | Azione che deve essere aggiunta. |
+| azione | PdfAction | Azione da aggiungere. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfAction](../../pdfaction/)
-* classe [ActionCollection](../)
+* class [PdfAction](../../pdfaction/)
+* class [ActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

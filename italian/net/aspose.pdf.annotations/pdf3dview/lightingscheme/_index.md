@@ -1,12 +1,12 @@
 ---
-title: PDF3DView.LightingScheme
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PDF3DView. Ottiene o imposta lo schema di illuminazione della vista
+title: "PDF3DView.LightingScheme"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PDF3DView. Ottiene o imposta lo schema di illuminazione della vista"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.annotations/pdf3dview/lightingscheme/
 ---
-## Proprietà PDF3DView.LightingScheme
+## PDF3DView.LightingScheme property
 
 Ottiene o imposta lo schema di illuminazione della vista.
 
@@ -14,13 +14,15 @@ Ottiene o imposta lo schema di illuminazione della vista.
 public PDF3DLightingScheme LightingScheme { get; set; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
 Lo schema di illuminazione della vista.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PDF3DLightingScheme](../../pdf3dlightingscheme/)
-* classe [PDF3DView](../)
+* class [PDF3DLightingScheme](../../pdf3dlightingscheme/)
+* class [PDF3DView](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

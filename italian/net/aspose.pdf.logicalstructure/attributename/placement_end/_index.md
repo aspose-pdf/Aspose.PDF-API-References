@@ -1,21 +1,23 @@
 ---
-title: AttributeName.Placement_End
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeName. Posizionamento dell'attributo Fine  Posizionato in modo che il bordo finale del rettangolo di allocazione degli elementi coincida con quello dell'area di riferimento più vicina.
+title: "AttributeName.Placement_End"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeName campo. Attributo Placement End  Posizionato in modo che il bordo end del rettangolo di allocazione dell'elemento coincida con quello dell'area di riferimento più vicina che lo contiene"
 type: docs
 weight: 360
 url: /it/net/aspose.pdf.logicalstructure/attributename/placement_end/
 ---
-## Campo AttributeName.Placement_End
+## AttributeName.Placement_End field
 
-Posizionamento dell'attributo: Fine - Posizionato in modo che il bordo finale del rettangolo di allocazione dell'elemento coincida con quello dell'area di riferimento più vicina.
+Attributo Placement: End - Posizionato in modo che il bordo finale del rettangolo di allocazione dell'elemento coincida con quello dell'area di riferimento più vicina che lo contiene.
 
 ```csharp
 public static readonly AttributeName Placement_End;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

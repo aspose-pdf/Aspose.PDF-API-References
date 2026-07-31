@@ -1,25 +1,27 @@
 ---
-title: IOperationResult.IsStream
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà IOperationResult. Indica se il risultato è uno stream di output
+title: "IOperationResult.IsStream"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà IOperationResult. Indica se il risultato è uno stream di output"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.plugins/ioperationresult/isstream/
 ---
-## Proprietà IOperationResult.IsStream
+## IOperationResult.IsStream property
 
-Indica se il risultato è uno stream di output.
+Indica se il risultato è un flusso di output.
 
 ```csharp
 public bool IsStream { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 `true` se il risultato è un oggetto stream; altrimenti `false`.
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IOperationResult](../)
+* interface [IOperationResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: AttributeName.TextAlign_Justify
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeName. Attributo TextAlign Giustifica Allineato sia con i bordi di inizio che di fine, con spaziatura interna all'interno di ogni riga espansa, se necessario, per raggiungere tale allineamento. L'ultima o unica riga deve essere allineata solo con il bordo di inizio
+title: "AttributeName.TextAlign_Justify"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo AttributeName. Attributo TextAlign Justify  Allineato sia con i bordi iniziali che finali con spaziatura interna all'interno di ogni riga espansa se necessario per ottenere tale allineamento. L'ultima o unica riga deve essere allineata solo al bordo iniziale"
 type: docs
 weight: 570
 url: /it/net/aspose.pdf.logicalstructure/attributename/textalign_justify/
 ---
-## Campo AttributeName.TextAlign_Justify
+## AttributeName.TextAlign_Justify field
 
-Attributo TextAlign: Giustifica - Allineato sia con i bordi di inizio che di fine, con spaziatura interna all'interno di ogni riga espansa, se necessario, per raggiungere tale allineamento. L'ultima (o unica) riga deve essere allineata solo con il bordo di inizio.
+Attributo TextAlign: Justify - Allineato sia al margine iniziale che a quello finale, con spaziatura interna all'interno di ogni riga espansa, se necessario, per ottenere tale allineamento. L'ultima (o unica) riga deve essere allineata solo al margine iniziale.
 
 ```csharp
 public static readonly AttributeName TextAlign_Justify;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

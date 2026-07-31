@@ -1,25 +1,27 @@
 ---
-title: PageDate.GetFormattedDate
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PageDate. Restituisce la stringa di data formattata in base al formato di data attuale
+title: "PageDate.GetFormattedDate"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PageDate. Restituisce la stringa della data formattata in base al formato data corrente."
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/pagedate/getformatteddate/
 ---
-## Metodo PageDate.GetFormattedDate
+## PageDate.GetFormattedDate method
 
-Restituisce la stringa di data formattata in base al formato di data attuale.
+Restituisce la stringa data formattata in base al formato data corrente.
 
 ```csharp
 public string GetFormattedDate()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Una stringa di data formattata.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageDate](../)
+* class [PageDate](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Element.AppendChild
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Element. Aggiungi Elemento alla collezione di figli
+title: "Element.AppendChild"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "metodo Element. Aggiungi Element alla collezione di figli"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.logicalstructure/element/appendchild/
 ---
-## Metodo Element.AppendChild
+## Element.AppendChild method
 
-Aggiungi Elemento alla collezione di figli.
+Aggiungi Element alla collezione di figli.
 
 ```csharp
 public Element AppendChild(Element element, bool checkIfCanBeAppended = true)
@@ -16,12 +16,12 @@ public Element AppendChild(Element element, bool checkIfCanBeAppended = true)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| element | Element | Oggetto Elemento da aggiungere. |
-| checkIfCanBeAppended | Boolean | Controlla se può essere aggiunto. |
+| elemento | Element | oggetto Element da aggiungere. |
+| checkIfCanBeAppended | Boolean | Verifica se può essere aggiunto. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Elemento che è stato aggiunto.
+Element che è stato aggiunto.
 
 ### Eccezioni
 
@@ -29,8 +29,10 @@ Elemento che è stato aggiunto.
 | --- | --- |
 | [TaggedException](../../../aspose.pdf.tagged/taggedexception/) |  |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Element](../)
+* class [Element](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: WidgetAnnotation.Highlighting
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà WidgetAnnotation. Modalità di evidenziazione delle annotazioni
+title: "WidgetAnnotation.Highlighting"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "WidgetAnnotation proprietà. Modalità di evidenziazione dell'annotazione"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.annotations/widgetannotation/highlighting/
 ---
-## Proprietà WidgetAnnotation.Highlighting
+## WidgetAnnotation.Highlighting property
 
-Modalità di evidenziazione delle annotazioni.
+Modalità di evidenziazione dell'annotazione.
 
 ```csharp
 public HighlightingMode Highlighting { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [HighlightingMode](../../highlightingmode/)
 * class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: GradientRadialShading.GradientRadialShading
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di GradientRadialShading. Inizializza una nuova istanza della classe GradientRadialShading
+title: "GradientRadialShading.GradientRadialShading"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "GradientRadialShading constructor. Inizializza una nuova istanza della classe GradientRadialShading"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.drawing/gradientradialshading/gradientradialshading/
@@ -14,9 +14,9 @@ Inizializza una nuova istanza della classe [`GradientRadialShading`](../).
 public GradientRadialShading()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GradientRadialShading](../)
+* class [GradientRadialShading](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
 
@@ -35,9 +35,11 @@ public GradientRadialShading(Color startColor, Color endColor)
 | startColor | Color | Il colore del cerchio iniziale. |
 | endColor | Color | Il colore del cerchio finale. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../../../aspose.pdf/color/)
-* classe [GradientRadialShading](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [GradientRadialShading](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

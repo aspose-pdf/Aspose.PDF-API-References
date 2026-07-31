@@ -1,25 +1,25 @@
 ---
-title: CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Copia l'intera collezione in un array unidimensionale compatibile a partire dall'indice specificato dell'array di destinazione.
+title: "CopyTo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Copia l'intera collezione in un Array monodimensionale compatibile a partire dall'indice specificato dell'array di destinazione."
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.vector/subpathcollection/copyto/
 ---
 ## SubPathCollection.CopyTo method
 
-Copia l'intera collezione in un array unidimensionale compatibile, a partire dall'indice specificato dell'array di destinazione.
+Copia l'intera collezione in un Array monodimensionale compatibile, iniziando dall'indice specificato dell'array di destinazione.
 
 ```csharp
 public void CopyTo(SubPath[] array, int arrayIndex)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| array | SubPath[] | Array di oggetti che verranno copiati. |
-| arrayIndex | Int32 | Indice di partenza da cui inizierà la copia. |
+| array | SubPath[] | Array di oggetti da copiare. |
+| arrayIndex | Int32 | Indice di partenza da cui avverrà la copia. |
 
-### See Also
+### Vedi anche
 
 * class [SubPath](../../subpath)
 * class [SubPathCollection](../../subpathcollection)

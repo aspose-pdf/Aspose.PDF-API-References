@@ -1,22 +1,24 @@
 ---
-title: StructureElement.Page
-second_title: Aspose.PDF for .NET API Reference
-description: StructureElement property. Gets the page on which some or all child elements will be rendered
+title: "StructureElement.Page"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà StructureElement. Ottiene la pagina su cui alcuni o tutti gli elementi figlio saranno renderizzati."
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.logicalstructure/structureelement/page/
 ---
-## Proprietà StructureElement.Page
+## StructureElement.Page property
 
-Ottiene la pagina su cui alcuni o tutti gli elementi figli verranno renderizzati.
+Ottiene la pagina su cui alcuni o tutti gli elementi figlio saranno renderizzati.
 
 ```csharp
 public Page Page { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [StructureElement](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PaperSize.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PaperSize. Ottiene o imposta la larghezza della carta in centesimi di pollice
+title: "PaperSize.Width"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PaperSize. Ottiene o imposta la larghezza della carta in centesimi di pollice"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.printing/papersize/width/
 ---
-## Proprietà PaperSize.Width
+## PaperSize.Width property
 
 Ottiene o imposta la larghezza della carta, in centesimi di pollice.
 
@@ -14,8 +14,10 @@ Ottiene o imposta la larghezza della carta, in centesimi di pollice.
 public int Width { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../)
+* class [PaperSize](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

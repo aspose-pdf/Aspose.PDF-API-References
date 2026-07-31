@@ -1,12 +1,12 @@
 ---
-title: Layer.Layer
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore della Layer. Inizia una nuova istanza della classe Layer.
+title: "Layer.Layer"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore Layer. Inizializza una nuova istanza della classe Layer"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/layer/layer/
 ---
-## Costruttore Layer
+## Layer constructor
 
 Inizializza una nuova istanza della classe [`Layer`](../).
 
@@ -16,11 +16,13 @@ public Layer(string id, string name)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| id | String | L'id del layer |
-| name | String | Il nome del layer |
+| id | String | L'ID del livello |
+| nome | String | Il nome del livello |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Layer](../)
+* class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

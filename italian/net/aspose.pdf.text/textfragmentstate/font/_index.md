@@ -1,22 +1,24 @@
 ---
-title: TextFragmentState.Font
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextFragmentState. Ottiene o imposta il font del testo rappresentato dall'oggetto TextFragment
+title: "TextFragmentState.Font"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextFragmentState. Ottiene o imposta il font del testo rappresentato dall'oggetto TextFragment"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.text/textfragmentstate/font/
 ---
-## Proprietà TextFragmentState.Font
+## TextFragmentState.Font property
 
-Ottiene o imposta il font del testo, rappresentato dall'[`TextFragment`](../../textfragment/) oggetto
+Ottiene o imposta il font del testo, rappresentato dall'oggetto [`TextFragment`](../../textfragment/).
 
 ```csharp
 public override Font Font { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Font](../../font/)
-* classe [TextFragmentState](../)
+* class [Font](../../font/)
+* class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

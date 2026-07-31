@@ -1,12 +1,12 @@
 ---
-title: PdfFileEditor.CopyLogicalStructure
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di PdfFileEditor. Se vero, la struttura logica del file viene copiata quando viene eseguita la concatenazione
+title: "PdfFileEditor.CopyLogicalStructure"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfFileEditor. Se true, la struttura logica del file viene copiata quando viene eseguita la concatenazione"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.facades/pdffileeditor/copylogicalstructure/
 ---
-## Proprietà PdfFileEditor.CopyLogicalStructure
+## PdfFileEditor.CopyLogicalStructure property
 
 Se vero, la struttura logica del file viene copiata quando viene eseguita la concatenazione.
 
@@ -14,8 +14,10 @@ Se vero, la struttura logica del file viene copiata quando viene eseguita la con
 public bool CopyLogicalStructure { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

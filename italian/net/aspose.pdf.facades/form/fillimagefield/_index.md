@@ -1,25 +1,25 @@
 ---
-title: Form.FillImageField
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo del modulo. Incolla un'immagine sul campo pulsante esistente come sua apparenza secondo il suo nome di campo completamente qualificato
+title: "Form.FillImageField"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Form. Incolla un'immagine sul campo pulsante esistente come sua apparenza in base al nome completo del campo."
 type: docs
 weight: 150
 url: /it/net/aspose.pdf.facades/form/fillimagefield/
 ---
 ## FillImageField(string, string) {#fillimagefield_1}
 
-Incolla un'immagine sul campo pulsante esistente come sua apparenza secondo il suo nome di campo completamente qualificato.
+Incolla un'immagine sul campo pulsante esistente come sua apparenza in base al suo nome campo completamente qualificato.
 
 ```csharp
 public void FillImageField(string fieldName, string imageFileName)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fieldName | String | Il nome di campo completamente qualificato del campo pulsante immagine. |
-| imageFileName | String | Il percorso del file immagine, sia relativo che assoluto va bene. |
+| fieldName | String | Il nome completo del campo pulsante immagine. |
+| imageFileName | String | Il percorso del file immagine, sia relativo che assoluto, va bene. |
 
-## Examples
+## Esempi
 
 ```csharp
 Form form = new Form("PdfForm.pdf", "PdfForm_filled.pdf");
@@ -27,7 +27,7 @@ form.FillImageField("fieldName", "file.jpg");
 form.Save();
 ```
 
-### See Also
+### Vedi anche
 
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -37,26 +37,28 @@ form.Save();
 
 ## FillImageField(string, Stream) {#fillimagefield}
 
-Sovraccarica la funzione di FillImageField. L'input è uno stream di immagine.
+Sovraccarica la funzione FillImageField. L'input è uno stream di immagine.
 
 ```csharp
 public void FillImageField(string fieldName, Stream imageStream)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fieldName | String | Il nome di campo completamente qualificato. |
-| imageStream | Stream | Lo stream dell'immagine. |
+| fieldName | String | Il nome completo del campo. |
+| imageStream | Stream | Il flusso dell'immagine. |
 
-## Examples
+## Esempi
 
 ```csharp
 Form form = new Form("PdfForm.pdf", "PdfForm_filled.pdf");
 form.FillImageField("fieldName", new FileStream("file.jpg", FileMode.Open, FileAccess.Read));
 ```
 
-### See Also
+### Vedi anche
 
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

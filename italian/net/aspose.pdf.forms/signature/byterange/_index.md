@@ -1,21 +1,23 @@
 ---
-title: Signature.ByteRange
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della firma. Un array di coppie di interi che rappresentano l'offset di byte iniziale e la lunghezza in byte che descriveranno l'esatto intervallo di byte per il calcolo del digest.
+title: "Signature.ByteRange"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Signature. Un array di coppie di interi che indicano offset iniziale e lunghezza in byte, descrivendo l'intervallo di byte esatto per il calcolo del digest"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.forms/signature/byterange/
 ---
-## Proprietà Signature.ByteRange
+## Signature.ByteRange property
 
-Un array di coppie di interi (offset di byte iniziale, lunghezza in byte) che descriveranno l'esatto intervallo di byte per il calcolo del digest.
+Un array di coppie di interi (offset iniziale in byte, lunghezza in byte) che descrive l'intervallo esatto di byte per il calcolo del digest.
 
 ```csharp
 public int[] ByteRange { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Signature](../)
+* class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

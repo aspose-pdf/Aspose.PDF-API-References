@@ -1,14 +1,14 @@
 ---
-title: ArtifactCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà dell'ArtifactsCollection. Ottiene l'artefatto per indice. L'indice è partito da 1.
+title: "ArtifactCollection.Item"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ArtifactCollection. Restituisce l'artifact per indice. L'indice parte da 1"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/artifactcollection/item/
 ---
-## Indicizzatore ArtifactCollection
+## ArtifactCollection indexer
 
-Ottiene l'artefatto per indice. L'indice inizia da 1.
+Ottiene l'artifact per indice. L'indice parte da 1.
 
 ```csharp
 public Artifact this[int index] { get; }
@@ -16,15 +16,17 @@ public Artifact this[int index] { get; }
 
 | Parametro | Descrizione |
 | --- | --- |
-| index | Indice dell'artefatto. |
+| index | Indice dell'artifact. |
 
 ### Valore di ritorno
 
-Artefatto sulla pagina.
+Artifact nella pagina.
 
 ### Vedi anche
 
-* classe [Artifact](../../artifact/)
-* classe [ArtifactCollection](../)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

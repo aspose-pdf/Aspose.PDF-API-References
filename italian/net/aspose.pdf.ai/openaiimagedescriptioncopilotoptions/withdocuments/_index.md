@@ -1,28 +1,28 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIImageDescriptionCopilotOptions. Imposta la raccolta di documenti per le opzioni del copilot di descrizione dell'immagine
+title: "OpenAIImageDescriptionCopilotOptions.WithDocuments"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OpenAIImageDescriptionCopilotOptions metodo. Imposta la raccolta di documenti per le opzioni del copilota di descrizione dell'immagine"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withdocuments/
 ---
 ## WithDocuments(DocumentCollection) {#withdocuments}
 
-Imposta la raccolta di documenti per le opzioni del copilot di descrizione dell'immagine.
+Imposta la raccolta di documenti per le opzioni del copilot di descrizione immagine.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithDocuments(DocumentCollection documentCollection)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | documentCollection | DocumentCollection | La raccolta di documenti da impostare. |
 
-### Return Value
+### Valore di ritorno
 
 L'istanza corrente di [`OpenAIImageDescriptionCopilotOptions`](../).
 
-### See Also
+### Vedi anche
 
 * class [DocumentCollection](../../documentcollection/)
 * class [OpenAIImageDescriptionCopilotOptions](../)
@@ -33,21 +33,21 @@ L'istanza corrente di [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ## WithDocuments(List&lt;PdfDocument&gt;) {#withdocuments_1}
 
-Aggiunge più documenti PDF alla raccolta di documenti per le opzioni del copilot di descrizione dell'immagine.
+Aggiunge più documenti PDF alla raccolta di documenti per le opzioni del copilot di descrizione immagine.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithDocuments(List<PdfDocument> pdfDocuments)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | pdfDocuments | List`1 | L'elenco dei documenti PDF da aggiungere. |
 
-### Return Value
+### Valore di ritorno
 
 L'istanza corrente di [`OpenAIImageDescriptionCopilotOptions`](../).
 
-### See Also
+### Vedi anche
 
 * class [PdfDocument](../../pdfdocument/)
 * class [OpenAIImageDescriptionCopilotOptions](../)
@@ -58,22 +58,24 @@ L'istanza corrente di [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ## WithDocuments(List&lt;string&gt;) {#withdocuments_2}
 
-Aggiunge più percorsi di documenti alla raccolta di documenti per le opzioni del copilot di descrizione dell'immagine.
+Aggiunge più percorsi di documenti alla raccolta di documenti per le opzioni del copilot di descrizione immagine.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithDocuments(List<string> filePaths)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| filePaths | List`1 | L'elenco dei percorsi dei file da aggiungere. |
+| filePaths | List`1 | L'elenco dei percorsi file da aggiungere. |
 
-### Return Value
+### Valore di ritorno
 
 L'istanza corrente di [`OpenAIImageDescriptionCopilotOptions`](../).
 
-### See Also
+### Vedi anche
 
 * class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PaperSource.SourceName
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSource property. Gets or sets the name of the paper source
+title: "PaperSource.SourceName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PaperSource. Ottiene o imposta il nome della sorgente carta"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.printing/papersource/sourcename/
 ---
-## Proprietà PaperSource.SourceName
+## PaperSource.SourceName property
 
-Ottiene o imposta il nome della fonte di carta.
+Ottiene o imposta il nome della sorgente carta.
 
 ```csharp
 public string SourceName { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSource](../)
+* class [PaperSource](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormEditor.Items
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FormEditor. Imposta gli elementi che verranno aggiunti a una nuova casella di elenco o a un menu a discesa
+title: "FormEditor.Items"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FormEditor. Imposta gli elementi che saranno aggiunti a una nuova casella di riepilogo o combo box"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.facades/formeditor/items/
 ---
-## Proprietà FormEditor.Items
+## FormEditor.Items property
 
-Imposta gli elementi che verranno aggiunti a una nuova casella di elenco o a un menu a discesa.
+Imposta gli elementi che saranno aggiunti a una nuova casella di riepilogo o casella combinata.
 
 ```csharp
 formEditor = new Aspose.Pdf.Facades.FormEditor("input.pdf", "output.pdf");
@@ -21,8 +21,10 @@ formEditor.Save();
 public string[] Items { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

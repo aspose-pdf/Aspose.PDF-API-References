@@ -1,12 +1,12 @@
 ---
-title: Color.DarkGreen
-second_title: Aspose.PDF for .NET API Reference
-description: Color property. Gets a systemdefined color that has an ARGB value of c FF006400
+title: "Color.DarkGreen"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Color property. Ottiene un colore predefinito di sistema che ha un valore ARGB di c FF006400"
 type: docs
 weight: 270
 url: /it/net/aspose.pdf/color/darkgreen/
 ---
-## Proprietà Color.DarkGreen
+## Color.DarkGreen property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FF006400.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FF006400.
 public static Color DarkGreen { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un colore che rappresenta un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

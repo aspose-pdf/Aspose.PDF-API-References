@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.JapaneseEnvelopeChouNumber4
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PaperSizes. Busta giapponese Chou 4
+title: "PaperSizes.JapaneseEnvelopeChouNumber4"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo PaperSizes. Busta giapponese Chou 4"
 type: docs
 weight: 520
 url: /it/net/aspose.pdf.printing/papersizes/japaneseenvelopechounumber4/
 ---
-## Campo PaperSizes.JapaneseEnvelopeChouNumber4
+## PaperSizes.JapaneseEnvelopeChouNumber4 field
 
 Busta giapponese Chou #4.
 
@@ -14,9 +14,11 @@ Busta giapponese Chou #4.
 public static readonly PaperSize JapaneseEnvelopeChouNumber4;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

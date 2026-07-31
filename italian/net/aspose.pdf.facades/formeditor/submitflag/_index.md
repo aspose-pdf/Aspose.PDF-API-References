@@ -1,22 +1,24 @@
 ---
-title: FormEditor.SubmitFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di FormEditor. Imposta i flag di invio dei pulsanti di invio
+title: "FormEditor.SubmitFlag"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FormEditor. Imposta i flag di invio dei pulsanti di submit"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.facades/formeditor/submitflag/
 ---
-## Proprietà FormEditor.SubmitFlag
+## FormEditor.SubmitFlag property
 
-Imposta i flag di invio del pulsante di invio
+Imposta i flag di invio del pulsante submit.
 
 ```csharp
 public SubmitFormFlag SubmitFlag { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [SubmitFormFlag](../../submitformflag/)
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

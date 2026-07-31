@@ -1,21 +1,23 @@
 ---
-title: PDF3DLightingScheme.Blue
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PDF3DLightingScheme. Lo schema di illuminazione Blu
+title: "PDF3DLightingScheme.Blue"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo PDF3DLightingScheme. Lo schema di illuminazione Blue"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.annotations/pdf3dlightingscheme/blue/
 ---
-## Campo PDF3DLightingScheme.Blue
+## PDF3DLightingScheme.Blue field
 
-Lo schema di illuminazione "Blu".
+Lo schema di illuminazione "Blue".
 
 ```csharp
 public static PDF3DLightingScheme Blue;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PDF3DLightingScheme](../)
+* class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: OutlineItemCollection.Prev
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà OutlineItemCollection. Ottiene l'elemento di outline che rappresenta l'elemento precedente relativamente a questo elemento nella gerarchia dell'outline
+title: "OutlineItemCollection.Prev"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà OutlineItemCollection. Ottiene l'elemento di contorno che rappresenta l'elemento precedente rispetto a questo elemento nella gerarchia del contorno"
 type: docs
 weight: 180
 url: /it/net/aspose.pdf/outlineitemcollection/prev/
 ---
-## Proprietà OutlineItemCollection.Prev
+## OutlineItemCollection.Prev property
 
-Ottiene l'elemento di outline che rappresenta l'elemento precedente relativamente a questo elemento nella gerarchia dell'outline.
+Ottiene la voce di indice che rappresenta l'elemento precedente rispetto a questa voce nella gerarchia dell'indice.
 
 ```csharp
 public OutlineItemCollection Prev { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OutlineItemCollection](../)
+* class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

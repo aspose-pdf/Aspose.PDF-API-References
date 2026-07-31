@@ -1,12 +1,12 @@
 ---
-title: Class FileSpecification
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.FileSpecification class. Class representing embedded file
+title: "Classe FileSpecification"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.FileSpecification. Classe che rappresenta un file incorporato"
 type: docs
-weight: 4850
+weight: 4970
 url: /it/net/aspose.pdf/filespecification/
 ---
-## Classe FileSpecification
+## FileSpecification class
 
 Classe che rappresenta un file incorporato.
 
@@ -30,28 +30,30 @@ public sealed class FileSpecification : IDisposable
 | Nome | Descrizione |
 | --- | --- |
 | [AFRelationship](../../aspose.pdf/filespecification/afrelationship/) { get; set; } | Relazione del file associato. |
-| [CollectionItem](../../aspose.pdf/filespecification/collectionitem/) { get; } | Ottiene un elemento della collezione della specifica di file. |
-| [Contents](../../aspose.pdf/filespecification/contents/) { get; set; } | Ottiene o imposta il file dei contenuti. Questa proprietà restituisce dati caricati in memoria che possono causare un'eccezione di memoria esaurita per dati di grandi dimensioni. Per ridurre l'uso della memoria, si prega di utilizzare StreamContents. |
+| [CollectionItem](../../aspose.pdf/filespecification/collectionitem/) { get; } | Ottiene un elemento della raccolta della specifica di file. |
+| [Contents](../../aspose.pdf/filespecification/contents/) { get; set; } | Ottiene o imposta il file dei contenuti. Questa proprietà restituisce i dati caricati in memoria, il che può causare un'eccezione Out of memory per dati di grandi dimensioni. Per ridurre l'uso della memoria, si prega di utilizzare StreamContents. |
 | [Description](../../aspose.pdf/filespecification/description/) { get; set; } | Ottiene o imposta il testo associato alla specifica di file. |
 | [Encoding](../../aspose.pdf/filespecification/encoding/) { get; set; } | Ottiene o imposta il formato di codifica. Valori possibili: Zip - il file è compresso con ZIP, None - il file non è compresso. |
 | [EncryptedPayload](../../aspose.pdf/filespecification/encryptedpayload/) { get; } | Ottiene il payload crittografato. |
 | [FileSystem](../../aspose.pdf/filespecification/filesystem/) { get; set; } | Ottiene o imposta il nome del file system. |
-| [IncludeContents](../../aspose.pdf/filespecification/includecontents/) { get; set; } | Se vero, i contenuti del file saranno inclusi nella specifica di file. |
+| [IncludeContents](../../aspose.pdf/filespecification/includecontents/) { get; set; } | Se true, i contenuti del file saranno inclusi nella specifica di file. |
 | [MIMEType](../../aspose.pdf/filespecification/mimetype/) { get; set; } | Ottiene il sottotipo del file incorporato |
 | [Name](../../aspose.pdf/filespecification/name/) { get; set; } | Ottiene o imposta il nome della specifica di file. |
 | [Params](../../aspose.pdf/filespecification/params/) { get; set; } | Ottiene i parametri del file. |
-| [StreamContents](../../aspose.pdf/filespecification/streamcontents/) { get; } | Ottiene i contenuti del file come stream. I contenuti non vengono caricati in memoria, il che consente di ridurre l'uso della memoria. Ma questo stream non supporta il posizionamento e la proprietà Length. Se hai bisogno di queste funzionalità, si prega di utilizzare la proprietà Contents invece. |
-| [UnicodeName](../../aspose.pdf/filespecification/unicodename/) { get; set; } | Ottiene o imposta il nome unicode della specifica di file. |
+| [StreamContents](../../aspose.pdf/filespecification/streamcontents/) { get; } | Ottiene i contenuti del file come stream. I contenuti non sono caricati in memoria, il che consente di ridurre l'uso della memoria. Tuttavia questo stream non supporta il posizionamento né la proprietà Length. Se hai bisogno di queste funzionalità, utilizza la proprietà Contents al suo posto. |
+| [UnicodeName](../../aspose.pdf/filespecification/unicodename/) { get; set; } | Ottiene o imposta il nome Unicode della specifica del file. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [Dispose](../../aspose.pdf/filespecification/dispose/)() | Dispone dei contenuti. |
-| [GetValue](../../aspose.pdf/filespecification/getvalue/)(string) | Ottiene un parametro specifico dell'applicazione. |
-| [SetValue](../../aspose.pdf/filespecification/setvalue/)(string, string) | Imposta un parametro specifico dell'applicazione. |
+| [Dispose](../../aspose.pdf/filespecification/dispose/)() | Elimina i contenuti. |
+| [GetValue](../../aspose.pdf/filespecification/getvalue/)(string) | Ottiene il parametro specifico dell'applicazione. |
+| [SetValue](../../aspose.pdf/filespecification/setvalue/)(string, string) | Imposta il parametro specifico dell'applicazione. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

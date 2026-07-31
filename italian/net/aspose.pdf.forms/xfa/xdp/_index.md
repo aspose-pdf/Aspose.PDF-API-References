@@ -1,21 +1,23 @@
 ---
-title: XFA.XDP
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XFA. Pacchetto Dati XML tutti i componenti del modulo XFA all'interno di un contenitore XML circostante
+title: "XFA.XDP"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà XFA. Pacchetto dati XML di tutti i componenti del modulo XFA all'interno di un contenitore XML circostante"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.forms/xfa/xdp/
 ---
-## Proprietà XFA.XDP
+## XFA.XDP property
 
-Pacchetto Dati XML (tutti i componenti del modulo XFA all'interno di un contenitore XML circostante).
+Pacchetto dati XML (tutti i componenti del modulo XFA all'interno di un contenitore XML circostante).
 
 ```csharp
 public XmlDocument XDP { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XFA](../)
+* class [XFA](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: LlamaSummaryCopilotOptions.WithDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo LlamaSummaryCopilotOptions. Aggiunge un documento di testo alla collezione di documenti per le opzioni del copilot di sintesi
+title: "LlamaSummaryCopilotOptions.WithDocument"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo LlamaSummaryCopilotOptions. Aggiunge un documento di testo alla collezione di documenti per le opzioni del copilot di riepilogo"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.ai/llamasummarycopilotoptions/withdocument/
 ---
 ## WithDocument(TextDocument) {#withdocument_1}
 
-Aggiunge un documento di testo alla collezione di documenti per le opzioni del copilot di sintesi.
+Aggiunge un documento di testo alla collezione di documenti per le opzioni del copilot di riepilogo.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocument(TextDocument textDocument)
@@ -24,8 +24,8 @@ L'istanza corrente di [`LlamaSummaryCopilotOptions`](../).
 
 ### Vedi anche
 
-* classe [TextDocument](../../textdocument/)
-* classe [LlamaSummaryCopilotOptions](../)
+* class [TextDocument](../../textdocument/)
+* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -33,7 +33,7 @@ L'istanza corrente di [`LlamaSummaryCopilotOptions`](../).
 
 ## WithDocument(PdfDocument) {#withdocument}
 
-Aggiunge un documento PDF alla collezione di documenti per le opzioni del copilot di sintesi.
+Aggiunge un documento PDF alla collezione di documenti per le opzioni del copilot di riepilogo.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocument(PdfDocument pdfDocument)
@@ -49,8 +49,8 @@ L'istanza corrente di [`LlamaSummaryCopilotOptions`](../).
 
 ### Vedi anche
 
-* classe [PdfDocument](../../pdfdocument/)
-* classe [LlamaSummaryCopilotOptions](../)
+* class [PdfDocument](../../pdfdocument/)
+* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -58,7 +58,7 @@ L'istanza corrente di [`LlamaSummaryCopilotOptions`](../).
 
 ## WithDocument(string) {#withdocument_2}
 
-Aggiunge un percorso di documento alla collezione di documenti per le opzioni del copilot di sintesi.
+Aggiunge un percorso di documento alla collezione di documenti per le opzioni del copilot di riepilogo.
 
 ```csharp
 public LlamaSummaryCopilotOptions WithDocument(string filePath)
@@ -66,7 +66,7 @@ public LlamaSummaryCopilotOptions WithDocument(string filePath)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| filePath | String | Il percorso del file del documento da aggiungere. |
+| filePath | String | Il percorso file del documento da aggiungere. |
 
 ### Valore di ritorno
 
@@ -74,6 +74,8 @@ L'istanza corrente di [`LlamaSummaryCopilotOptions`](../).
 
 ### Vedi anche
 
-* classe [LlamaSummaryCopilotOptions](../)
+* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

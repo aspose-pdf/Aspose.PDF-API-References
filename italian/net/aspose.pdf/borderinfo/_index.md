@@ -1,12 +1,12 @@
 ---
-title: Class BorderInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.BorderInfo. Questa classe rappresenta il bordo per gli elementi grafici
+title: "Classe BorderInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.BorderInfo. Questa classe rappresenta il bordo per gli elementi grafici"
 type: docs
-weight: 2900
+weight: 3010
 url: /it/net/aspose.pdf/borderinfo/
 ---
-## Classe BorderInfo
+## BorderInfo class
 
 Questa classe rappresenta il bordo per gli elementi grafici.
 
@@ -29,10 +29,10 @@ public sealed class BorderInfo : ICloneable
 
 | Nome | Descrizione |
 | --- | --- |
-| [Bottom](../../aspose.pdf/borderinfo/bottom/) { get; set; } | Ottiene o imposta un oggetto che indica il fondo del bordo. |
-| [Left](../../aspose.pdf/borderinfo/left/) { get; set; } | Ottiene o imposta un oggetto che indica il lato sinistro del bordo. |
-| [Right](../../aspose.pdf/borderinfo/right/) { get; set; } | Ottiene o imposta un oggetto che indica il lato destro del bordo. |
-| [RoundedBorderRadius](../../aspose.pdf/borderinfo/roundedborderradius/) { get; set; } | Ottiene o imposta un raggio di bordo arrotondato. |
+| [Bottom](../../aspose.pdf/borderinfo/bottom/) { get; set; } | Ottiene o imposta un oggetto che indica il bordo inferiore. |
+| [Left](../../aspose.pdf/borderinfo/left/) { get; set; } | Ottiene o imposta un oggetto che indica il bordo sinistro. |
+| [Right](../../aspose.pdf/borderinfo/right/) { get; set; } | Ottiene o imposta un oggetto che indica il bordo destro. |
+| [RoundedBorderRadius](../../aspose.pdf/borderinfo/roundedborderradius/) { get; set; } | Ottiene o imposta un raggio di bordo arrotondato |
 | [Top](../../aspose.pdf/borderinfo/top/) { get; set; } | Ottiene o imposta un oggetto che indica il bordo superiore. |
 
 ## Metodi
@@ -41,7 +41,9 @@ public sealed class BorderInfo : ICloneable
 | --- | --- |
 | [Clone](../../aspose.pdf/borderinfo/clone/)() | Clona un nuovo oggetto BorderInfo. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

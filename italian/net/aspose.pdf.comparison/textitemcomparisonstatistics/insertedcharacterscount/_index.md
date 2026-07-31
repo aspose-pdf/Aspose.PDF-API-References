@@ -1,12 +1,12 @@
 ---
-title: TextItemComparisonStatistics.InsertedCharactersCount
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di TextItemComparisonStatistics. Ottiene e imposta il numero di caratteri inseriti
+title: "TextItemComparisonStatistics.InsertedCharactersCount"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextItemComparisonStatistics. Ottiene e imposta il numero di caratteri inseriti"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.comparison/textitemcomparisonstatistics/insertedcharacterscount/
 ---
-## Proprietà TextItemComparisonStatistics.InsertedCharactersCount
+## TextItemComparisonStatistics.InsertedCharactersCount property
 
 Ottiene e imposta il numero di caratteri inseriti.
 
@@ -14,8 +14,10 @@ Ottiene e imposta il numero di caratteri inseriti.
 public int InsertedCharactersCount { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextItemComparisonStatistics](../)
+* class [TextItemComparisonStatistics](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

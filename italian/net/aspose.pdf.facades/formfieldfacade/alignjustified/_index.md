@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.AlignJustified
-second_title: Aspose.PDF for .NET API Reference
-description: Campo Facade del Formulario campo. Definisce lo stile di giustificazione del testo.
+title: "FormFieldFacade.AlignJustified"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormFieldFacade field. Definisce lo stile di allineamento della giustificazione del testo"
 type: docs
 weight: 230
 url: /it/net/aspose.pdf.facades/formfieldfacade/alignjustified/
 ---
-## Campo FormFieldFacade.AlignJustified
+## FormFieldFacade.AlignJustified field
 
-Definisce lo stile di allineamento della giustificazione del testo.
+Definisce lo stile di allineamento giustificato del testo.
 
 ```csharp
 public const int AlignJustified;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

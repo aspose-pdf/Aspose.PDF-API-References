@@ -1,12 +1,12 @@
 ---
-title: FileResponse.FileResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di FileResponse. Il costruttore predefinito
+title: "FileResponse.FileResponse"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore FileResponse. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/fileresponse/fileresponse/
 ---
-## Costruttore di FileResponse
+## FileResponse constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public FileResponse()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FileResponse](../)
+* class [FileResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

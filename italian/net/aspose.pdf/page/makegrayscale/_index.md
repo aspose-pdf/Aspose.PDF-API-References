@@ -1,12 +1,12 @@
 ---
-title: Page.MakeGrayscale
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Page. Converte la pagina in scala di grigi
+title: "Page.MakeGrayscale"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Page. Converte la pagina in scala di grigi"
 type: docs
 weight: 500
 url: /it/net/aspose.pdf/page/makegrayscale/
 ---
-## Metodo Page.MakeGrayscale
+## Page.MakeGrayscale method
 
 Converte la pagina in scala di grigi.
 
@@ -14,8 +14,10 @@ Converte la pagina in scala di grigi.
 public void MakeGrayscale()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

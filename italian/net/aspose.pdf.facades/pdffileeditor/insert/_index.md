@@ -1,7 +1,7 @@
 ---
-title: PdfFileEditor.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfFileEditor. Inserisce pagine da un altro file nel file Pdf in una posizione
+title: "PdfFileEditor.Insert"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfFileEditor. Inserisce pagine da un altro file nel file Pdf in una posizione"
 type: docs
 weight: 290
 url: /it/net/aspose.pdf.facades/pdffileeditor/insert/
@@ -20,7 +20,7 @@ public bool Insert(string inputFile, int insertLocation, string portFile, int st
 | inputFile | String | File Pdf di input. |
 | insertLocation | Int32 | Posizione nel file di input. |
 | portFile | String | Il file Pdf di porting. |
-| startPage | Int32 | Posizione di partenza in portFile. |
+| startPage | Int32 | Posizione iniziale in portFile. |
 | endPage | Int32 | Posizione finale in portFile. |
 | outputFile | String | File Pdf di output. |
 
@@ -35,9 +35,9 @@ PdfFileEditor pfe = new PdfFileEditor();
 pfe.Insert("file1.pdf", 1, "file2.pdf", 2, 6, "out.pdf");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -55,11 +55,11 @@ public bool Insert(Stream inputStream, int insertLocation, Stream portStream, in
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | inputStream | Stream | Stream di input del file Pdf. |
-| insertLocation | Int32 | Posizione di inserimento nel file di input. |
-| portStream | Stream | Stream del file Pdf per le pagine. |
+| insertLocation | Int32 | Inserisci la posizione nel file di input. |
+| portStream | Stream | Flusso del file Pdf per le pagine. |
 | startPage | Int32 | Da quale pagina iniziare. |
-| endPage | Int32 | A quale pagina finire. |
-| outputStream | Stream | Stream di output. |
+| endPage | Int32 | Fino a quale pagina terminare. |
+| outputStream | Stream | Flusso di output. |
 
 ### Valore di ritorno
 
@@ -75,9 +75,9 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.Insert(sourceStream, 1, insertedStream, 2, 6, outStream);
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -95,9 +95,9 @@ public bool Insert(string inputFile, int insertLocation, string portFile, int[] 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | inputFile | String | File Pdf di input. |
-| insertLocation | Int32 | Posizione di inserimento nel file di input. |
+| insertLocation | Int32 | Inserisci la posizione nel file di input. |
 | portFile | String | Pagine dal file Pdf. |
-| pageNumber | Int32[] | Il numero di pagina del portato in portFile. |
+| pageNumber | Int32[] | Il numero di pagina del file portato in portFile. |
 | outputFile | String | File Pdf di output. |
 
 ### Valore di ritorno
@@ -111,9 +111,9 @@ PdfFileEditor pfe = new PdfFileEditor();
 pfe.Insert("file1.pdf", 1, "file2.pdf", new int[] { 2, 6 }, "out.pdf");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -131,10 +131,10 @@ public bool Insert(Stream inputStream, int insertLocation, Stream portStream, in
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | inputStream | Stream | Stream di input del file Pdf. |
-| insertLocation | Int32 | Posizione di inserimento nel file di input. |
-| portStream | Stream | Stream del file Pdf per le pagine. |
-| pageNumber | Int32[] | Il numero di pagina del portato in portFile. |
-| outputStream | Stream | Stream di output. |
+| insertLocation | Int32 | Inserisci la posizione nel file di input. |
+| portStream | Stream | Flusso del file Pdf per le pagine. |
+| pageNumber | Int32[] | Il numero di pagina del file portato in portFile. |
+| outputStream | Stream | Flusso di output. |
 
 ### Valore di ritorno
 
@@ -150,8 +150,10 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.Insert(sourceStream, 1, insertedStream, new int[] { 3, 4, 5}, outStream);
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

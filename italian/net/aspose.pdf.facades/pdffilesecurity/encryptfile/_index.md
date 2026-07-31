@@ -1,32 +1,32 @@
 ---
-title: PdfFileSecurity.EncryptFile
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFileSecurity method. Encrypts Pdf file with userpassword and ownerpassword and sets the documents privileges to access. The user password and the owner password can be null or empty. The owner password will be replaced with a random string if the input owner password is null or empty. Throws exception if process failed
+title: "PdfFileSecurity.EncryptFile"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfFileSecurity. Cifra il file Pdf con userpassword e ownerpassword e imposta i privilegi dei documenti per l'accesso. La userpassword e la ownerpassword possono essere null o vuote. La ownerpassword sarà sostituita con una stringa casuale se la ownerpassword di input è null o vuota. Genera un'eccezione se il processo fallisce"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.facades/pdffilesecurity/encryptfile/
 ---
 ## EncryptFile(string, string, DocumentPrivilege, KeySize) {#encryptfile}
 
-Cripta il file Pdf con userpassword e ownerpassword e imposta i privilegi di accesso del documento. La password dell'utente e la password del proprietario possono essere null o vuote. La password del proprietario sarà sostituita con una stringa casuale se la password del proprietario in input è null o vuota. Genera un'eccezione se il processo fallisce.
+Cifra un file Pdf con password utente e password proprietario e imposta i privilegi di accesso del documento. La password utente e la password proprietario possono essere null o vuote. La password proprietario verrà sostituita con una stringa casuale se la password proprietario in ingresso è null o vuota. Genera un'eccezione se l'operazione fallisce.
 
 ```csharp
 public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, 
     KeySize keySize)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| userPassword | String | Password dell'utente. |
+| userPassword | String | Password utente. |
 | ownerPassword | String | Password del proprietario. |
-| privilege | DocumentPrivilege | Imposta il privilegio. |
-| keySize | KeySize | KeySize.x40 per crittografia a 40 bit, KeySize.x128 per crittografia a 128 bit e KeySize.x256 per crittografia a 256 bit. |
+| privilegio | DocumentPrivilege | Imposta privilegio. |
+| keySize | KeySize | KeySize.x40 per la crittografia a 40 bit, KeySize.x128 per la crittografia a 128 bit e KeySize.x256 per la crittografia a 256 bit. |
 
-### Return Value
+### Valore di ritorno
 
-True per successo.
+True per il successo.
 
-## Examples
+## Esempi
 
 ```csharp
 [C#]
@@ -42,7 +42,7 @@ Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile)
 fileSecurity.EncryptFile("userpass", "ownerpass", DocumentPrivilege.Print, KeySize.x256)
 ```
 
-### See Also
+### Vedi anche
 
 * class [DocumentPrivilege](../../documentprivilege/)
 * enum [KeySize](../../keysize/)
@@ -54,26 +54,26 @@ fileSecurity.EncryptFile("userpass", "ownerpass", DocumentPrivilege.Print, KeySi
 
 ## EncryptFile(string, string, DocumentPrivilege, KeySize, Algorithm) {#encryptfile_1}
 
-Cripta il file Pdf con userpassword e ownerpassword e imposta i privilegi di accesso del documento. La password dell'utente e la password del proprietario possono essere null o vuote. La password del proprietario sarà sostituita con una stringa casuale se la password del proprietario in input è null o vuota. Ci sono 6 possibili combinazioni di valori di KeySize e Algorithm. Tuttavia (KeySize.x40, Algorithm.AES) e (KeySize.x256, Algorithm.RC4) sono non validi e verrà sollevata un'eccezione se il kit incontra questa combinazione. Genera un'eccezione se il processo fallisce.
+Cifra un file Pdf con password utente e password proprietario e imposta i privilegi di accesso del documento. La password utente e la password proprietario possono essere null o vuote. La password proprietario verrà sostituita con una stringa casuale se la password proprietario in ingresso è null o vuota. Esistono 6 combinazioni possibili dei valori di KeySize e Algorithm. Tuttavia (KeySize.x40, Algorithm.AES) e (KeySize.x256, Algorithm.RC4) sono invalidi e l'eccezione corrispondente verrà sollevata se il kit incontra questa combinazione. Genera un'eccezione se l'operazione fallisce.
 
 ```csharp
 public bool EncryptFile(string userPassword, string ownerPassword, DocumentPrivilege privilege, 
     KeySize keySize, Algorithm cipher)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| userPassword | String | Password dell'utente. |
+| userPassword | String | Password utente. |
 | ownerPassword | String | Password del proprietario. |
-| privilege | DocumentPrivilege | Imposta il privilegio. |
-| keySize | KeySize | KeySize.x40 per crittografia a 40 bit, KeySize.x128 per crittografia a 128 bit e KeySize.x256 per crittografia a 256 bit. |
-| cipher | Algorithm | Algorithm.AES per crittografare utilizzando l'algoritmo AES o Algorithm.RC4 per crittografia RC4. |
+| privilegio | DocumentPrivilege | Imposta privilegio. |
+| keySize | KeySize | KeySize.x40 per la crittografia a 40 bit, KeySize.x128 per la crittografia a 128 bit e KeySize.x256 per la crittografia a 256 bit. |
+| cipher | Algorithm | Algorithm.AES per cifrare usando l'algoritmo AES o Algorithm.RC4 per la crittografia RC4. |
 
-### Return Value
+### Valore di ritorno
 
-True per successo.
+True per il successo.
 
-## Examples
+## Esempi
 
 ```csharp
 [C#]
@@ -89,7 +89,7 @@ Dim fileSecurity As PdfFileSecurity =  New PdfFileSecurity(inFile,outFile)
 fileSecurity.EncryptFile("userpass","ownerpass",DocumentPrivilege.Print,KeySize.x256,Algorithm.AES)
 ```
 
-### See Also
+### Vedi anche
 
 * class [DocumentPrivilege](../../documentprivilege/)
 * enum [KeySize](../../keysize/)
@@ -97,3 +97,5 @@ fileSecurity.EncryptFile("userpass","ownerpass",DocumentPrivilege.Print,KeySize.
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

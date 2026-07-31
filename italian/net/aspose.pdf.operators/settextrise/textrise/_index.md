@@ -1,12 +1,12 @@
 ---
-title: SetTextRise.TextRise
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SetTextRise. Ottiene o imposta l'altezza del testo
+title: "SetTextRise.TextRise"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SetTextRise. Ottiene o imposta il sollevamento del testo"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.operators/settextrise/textrise/
 ---
-## Proprietà SetTextRise.TextRise
+## SetTextRise.TextRise property
 
 Ottiene o imposta l'altezza del testo.
 
@@ -14,8 +14,10 @@ Ottiene o imposta l'altezza del testo.
 public double TextRise { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetTextRise](../)
+* class [SetTextRise](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

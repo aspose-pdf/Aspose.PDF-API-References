@@ -1,12 +1,12 @@
 ---
-title: Table.Border
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della tabella. Ottiene o imposta il bordo
+title: "Table.Border"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Table. Ottiene o imposta il bordo."
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/table/border/
 ---
-## Proprietà Table.Border
+## Table.Border property
 
 Ottiene o imposta il bordo.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il bordo.
 public BorderInfo Border { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BorderInfo](../../borderinfo/)
-* classe [Table](../)
+* class [BorderInfo](../../borderinfo/)
+* class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

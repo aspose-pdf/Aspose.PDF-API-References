@@ -1,21 +1,23 @@
 ---
-title: OpenAIChatCopilotOptions.VectorStoreExpireDays
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà OpenAIChatCopilotOptions. Ottiene o imposta il numero di giorni prima che il negozio di vettori scada
+title: "OpenAIChatCopilotOptions.VectorStoreExpireDays"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OpenAIChatCopilotOptions proprietà. Ottiene o imposta il numero di giorni prima che il vector store scada"
 type: docs
-weight: 60
+weight: 70
 url: /it/net/aspose.pdf.ai/openaichatcopilotoptions/vectorstoreexpiredays/
 ---
-## Proprietà OpenAIChatCopilotOptions.VectorStoreExpireDays
+## OpenAIChatCopilotOptions.VectorStoreExpireDays property
 
-Ottiene o imposta il numero di giorni prima che il negozio di vettori scada.
+Ottiene o imposta il numero di giorni prima della scadenza del vector store.
 
 ```csharp
 public int VectorStoreExpireDays { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OpenAIChatCopilotOptions](../)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

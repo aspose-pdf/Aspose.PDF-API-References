@@ -1,22 +1,24 @@
 ---
-title: BorderInfo.Bottom
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà BorderInfo. Ottiene o imposta un oggetto che indica il fondo del bordo
+title: "BorderInfo.Bottom"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "BorderInfo proprietà. Ottiene o imposta un oggetto che indica il bordo inferiore"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/borderinfo/bottom/
 ---
-## Proprietà BorderInfo.Bottom
+## BorderInfo.Bottom property
 
-Ottiene o imposta un oggetto che indica il fondo del bordo.
+Ottiene o imposta un oggetto che indica il bordo inferiore.
 
 ```csharp
 public GraphInfo Bottom { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GraphInfo](../../graphinfo/)
-* classe [BorderInfo](../)
+* class [GraphInfo](../../graphinfo/)
+* class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

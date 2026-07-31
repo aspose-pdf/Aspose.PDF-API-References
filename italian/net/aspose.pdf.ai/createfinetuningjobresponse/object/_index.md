@@ -1,12 +1,12 @@
 ---
-title: CreateFineTuningJobResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di CreateFineTuningJobResponse. Ottiene o imposta il tipo di oggetto che è sempre fine_tuning.job
+title: "CreateFineTuningJobResponse.Object"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà CreateFineTuningJobResponse. Ottiene o imposta il tipo di oggetto che è sempre fine_tuning.job"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.ai/createfinetuningjobresponse/object/
 ---
-## Proprietà CreateFineTuningJobResponse.Object
+## CreateFineTuningJobResponse.Object property
 
 Ottiene o imposta il tipo di oggetto, che è sempre fine_tuning.job.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il tipo di oggetto, che è sempre fine_tuning.job.
 public string Object { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CreateFineTuningJobResponse](../)
+* class [CreateFineTuningJobResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

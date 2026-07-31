@@ -1,16 +1,16 @@
 ---
-title: ITaggedContent.SetLanguage
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ITaggedContent. Imposta la lingua naturale per il documento pdf
+title: "ITaggedContent.SetLanguage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ITaggedContent. Imposta la lingua naturale per il documento pdf"
 type: docs
-weight: 380
+weight: 430
 url: /it/net/aspose.pdf.tagged/itaggedcontent/setlanguage/
 ---
-## Metodo ITaggedContent.SetLanguage
+## ITaggedContent.SetLanguage method
 
-Imposta la lingua naturale per il documento pdf.
+Imposta la lingua naturale per il documento PDF.
 
-Un identificatore di lingua che deve specificare la lingua naturale per tutto il testo nel documento, tranne dove sovrascritto da specifiche di lingua per elementi di struttura o contenuti contrassegnati.
+Un identificatore di lingua che deve specificare la lingua naturale per tutto il testo nel documento, eccetto dove è sovrascritto dalle specifiche di lingua per gli elementi di struttura o per il contenuto marcato.
 
 ```csharp
 public void SetLanguage(string lang)
@@ -18,10 +18,12 @@ public void SetLanguage(string lang)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| lang | String | Un identificatore di lingua deve essere o la stringa di testo vuota, per indicare che la lingua è sconosciuta, o un Language-Tag come definito in RFC 3066, Tags for the Identification of Languages. |
+| lang | String | Un identificatore di lingua deve essere o la stringa di testo vuota, per indicare che la lingua è sconosciuta, oppure un Language-Tag come definito in RFC 3066, Tag per l'Identificazione delle Lingue. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [ITaggedContent](../)
+* interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

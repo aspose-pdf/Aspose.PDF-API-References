@@ -1,21 +1,23 @@
 ---
-title: PageDate.Delimiter
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PageDate. Ottiene o imposta il delimitatore utilizzato nel formato della data. Il formato della data verrà aggiornato in base a questo delimitatore
+title: "PageDate.Delimiter"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PageDate proprietà. Ottiene o imposta il delimitatore usato nel formato della data. Il formato della data sarà aggiornato in base a questo delimitatore"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/pagedate/delimiter/
 ---
-## Proprietà PageDate.Delimiter
+## PageDate.Delimiter property
 
-Ottiene o imposta il delimitatore utilizzato nel formato della data. Il formato della data verrà aggiornato in base a questo delimitatore.
+Ottiene o imposta il delimitatore usato nel formato della data. Il formato della data verrà aggiornato in base a questo delimitatore.
 
 ```csharp
 public string Delimiter { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageDate](../)
+* class [PageDate](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

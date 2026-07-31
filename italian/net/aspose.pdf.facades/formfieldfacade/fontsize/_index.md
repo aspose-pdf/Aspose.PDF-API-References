@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FormFieldFacade. La dimensione del testo di un campo
+title: "FormFieldFacade.FontSize"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormFieldFacade proprietà. La dimensione del testo del campo"
 type: docs
 weight: 130
 url: /it/net/aspose.pdf.facades/formfieldfacade/fontsize/
 ---
-## Proprietà FormFieldFacade.FontSize
+## FormFieldFacade.FontSize property
 
 La dimensione del testo di un campo.
 
@@ -14,8 +14,10 @@ La dimensione del testo di un campo.
 public float FontSize { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

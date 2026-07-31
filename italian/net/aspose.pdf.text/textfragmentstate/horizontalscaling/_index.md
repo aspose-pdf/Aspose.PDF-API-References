@@ -1,12 +1,12 @@
 ---
-title: TextFragmentState.HorizontalScaling
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di TextFragmentState. Ottiene o imposta la scala orizzontale del testo rappresentato dall'oggetto TextFragment
+title: "TextFragmentState.HorizontalScaling"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextFragmentState. Ottiene o imposta la scala orizzontale del testo rappresentato dall'oggetto TextFragment"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf.text/textfragmentstate/horizontalscaling/
 ---
-## Proprietà TextFragmentState.HorizontalScaling
+## TextFragmentState.HorizontalScaling property
 
 Ottiene o imposta la scala orizzontale del testo, rappresentato dall'oggetto [`TextFragment`](../../textfragment/).
 
@@ -14,8 +14,10 @@ Ottiene o imposta la scala orizzontale del testo, rappresentato dall'oggetto [`T
 public override float HorizontalScaling { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextFragmentState](../)
+* class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

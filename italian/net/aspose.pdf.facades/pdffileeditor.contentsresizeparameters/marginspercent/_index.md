@@ -1,33 +1,35 @@
 ---
-title: PdfFileEditor.ContentsResizeParameters.MarginsPercent
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ContentsResizeParameters. Crea parametri di ridimensionamento. I margini sono specificati in percentuale rispetto alla dimensione iniziale della pagina
+title: "PdfFileEditor.ContentsResizeParameters.MarginsPercent"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ContentsResizeParameters. Crea parametri di ridimensionamento. I margini sono specificati in percentuale della dimensione della pagina iniziale"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.facades/pdffileeditor.contentsresizeparameters/marginspercent/
 ---
 ## PdfFileEditor.ContentsResizeParameters.MarginsPercent method
 
-Crea parametri di ridimensionamento. I margini sono specificati in percentuale rispetto alla dimensione iniziale della pagina.
+Crea i parametri di ridimensionamento. I margini sono specificati in percentuale della dimensione della pagina iniziale.
 
 ```csharp
 public static ContentsResizeParameters MarginsPercent(double left, double right, double top, 
     double bottom)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| left | Double | Margine sinistro (in percentuale rispetto alla larghezza della pagina). |
-| right | Double | Margine destro (in percentuale rispetto all'altezza della pagina). |
-| top | Double | Margine superiore (in percentuale rispetto all'altezza della pagina). |
-| bottom | Double | Margine inferiore (in percentuale rispetto all'altezza della pagina). |
+| sinistra | Double | Margine sinistro (in percentuale della larghezza della pagina). |
+| destra | Double | Margine destro (in percentuale dell'altezza della pagina). |
+| alto | Double | Margine superiore (in percentuale dell'altezza della pagina). |
+| inferiore | Double | Margine inferiore (in percentuale dell'altezza della pagina). |
 
-### Return Value
+### Valore di ritorno
 
 Restituisce nuovi parametri di ridimensionamento.
 
-### See Also
+### Vedi anche
 
 * class [ContentsResizeParameters](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

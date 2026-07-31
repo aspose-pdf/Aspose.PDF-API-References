@@ -1,12 +1,12 @@
 ---
-title: GradientRadialShading.EndColor
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà GradientRadialShading. Ottiene o imposta il colore finale
+title: "GradientRadialShading.EndColor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà GradientRadialShading. Ottiene o imposta il colore finale"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.drawing/gradientradialshading/endcolor/
 ---
-## Proprietà GradientRadialShading.EndColor
+## GradientRadialShading.EndColor property
 
 Ottiene o imposta il colore finale.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il colore finale.
 public Color EndColor { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../../../aspose.pdf/color/)
-* classe [GradientRadialShading](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [GradientRadialShading](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

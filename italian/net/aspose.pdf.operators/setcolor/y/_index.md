@@ -1,12 +1,12 @@
 ---
-title: SetColor.Y
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SetColor. Ottiene o imposta il componente giallo
+title: "SetColor.Y"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SetColor. Ottiene o imposta il componente giallo"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.operators/setcolor/y/
 ---
-## Proprietà SetColor.Y
+## SetColor.Y property
 
 Ottiene o imposta il componente giallo.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il componente giallo.
 public double Y { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetColor](../)
+* class [SetColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

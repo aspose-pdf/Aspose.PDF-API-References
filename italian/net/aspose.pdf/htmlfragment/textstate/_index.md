@@ -1,22 +1,24 @@
 ---
-title: HtmlFragment.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà HtmlFragment. Ottiene o imposta il font
+title: "HtmlFragment.TextState"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "HtmlFragment property. Ottiene o imposta il font"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/htmlfragment/textstate/
 ---
-## Proprietà HtmlFragment.TextState
+## HtmlFragment.TextState property
 
-Ottiene o imposta il font
+Ottiene o imposta il font.
 
 ```csharp
 public TextState TextState { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextState](../../../aspose.pdf.text/textstate/)
-* classe [HtmlFragment](../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [HtmlFragment](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

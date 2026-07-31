@@ -1,14 +1,14 @@
 ---
-title: StructureTextState.WordSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di StructureTextState. Ottiene o imposta lo spazio tra le parole del testo
+title: "StructureTextState.WordSpacing"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà StructureTextState. Ottiene o imposta la spaziatura delle parole del testo"
 type: docs
 weight: 130
 url: /it/net/aspose.pdf.logicalstructure/structuretextstate/wordspacing/
 ---
-## Proprietà StructureTextState.WordSpacing
+## StructureTextState.WordSpacing property
 
-Ottiene o imposta lo spazio tra le parole del testo.
+Ottiene o imposta la spaziatura delle parole del testo.
 
 ```csharp
 public float? WordSpacing { get; set; }
@@ -16,10 +16,12 @@ public float? WordSpacing { get; set; }
 
 ## Osservazioni
 
-Può essere nullo. Usa null per ereditare la proprietà `WordSpacing` dall'elemento di struttura genitore.
+Può essere null. Usa null per ereditare la proprietà `WordSpacing` dall'elemento struttura padre.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureTextState](../)
+* class [StructureTextState](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

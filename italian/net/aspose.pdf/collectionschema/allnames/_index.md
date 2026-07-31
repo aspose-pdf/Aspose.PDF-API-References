@@ -1,12 +1,12 @@
 ---
-title: CollectionSchema.AllNames
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà CollectionSchema. Ottiene tutti i nomi dei campi degli schemi
+title: "CollectionSchema.AllNames"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà CollectionSchema. Ottiene tutti i nomi dei campi degli schemi"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/collectionschema/allnames/
 ---
-## Proprietà CollectionSchema.AllNames
+## CollectionSchema.AllNames property
 
 Ottiene tutti i nomi dei campi dello schema.
 
@@ -14,8 +14,10 @@ Ottiene tutti i nomi dei campi dello schema.
 public ICollection<string> AllNames { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CollectionSchema](../)
+* class [CollectionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

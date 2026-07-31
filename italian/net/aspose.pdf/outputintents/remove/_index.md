@@ -1,14 +1,14 @@
 ---
-title: OutputIntents.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OutputIntents. Rimuove la prima occorrenza di un'intenzione di output specifica dalla collezione
+title: "OutputIntents.Remove"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OutputIntents. Rimuove la prima occorrenza di un output intent specifico dalla raccolta."
 type: docs
 weight: 90
 url: /it/net/aspose.pdf/outputintents/remove/
 ---
-## Metodo OutputIntents.Remove
+## OutputIntents.Remove method
 
-Rimuove la prima occorrenza di un'intenzione di output specifica dalla collezione.
+Rimuove la prima occorrenza di un output intent specifico dalla collezione.
 
 ```csharp
 public bool Remove(OutputIntent item)
@@ -16,15 +16,17 @@ public bool Remove(OutputIntent item)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| item | OutputIntent | L'intenzione di output da rimuovere dalla collezione. |
+| item | OutputIntent | L'output intent da rimuovere dalla raccolta. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-`true` se *item* è stato rimosso con successo dalla collezione; `false` se *item* non è stato trovato nella collezione originale.
+`true` se *item* è stato rimosso con successo dalla raccolta; `false` se *item* non è stato trovato nella raccolta originale.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OutputIntent](../../outputintent/)
-* classe [OutputIntents](../)
+* class [OutputIntent](../../outputintent/)
+* class [OutputIntents](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

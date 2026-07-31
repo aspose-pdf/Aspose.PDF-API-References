@@ -1,12 +1,12 @@
 ---
-title: GradientRadialShading.Start
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà GradientRadialShading. Ottiene o imposta il punto centrale del cerchio iniziale
+title: "GradientRadialShading.Start"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "GradientRadialShading property. Ottiene o imposta il punto centrale del cerchio di partenza"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.drawing/gradientradialshading/start/
 ---
-## Proprietà GradientRadialShading.Start
+## GradientRadialShading.Start property
 
 Ottiene o imposta il punto centrale del cerchio iniziale.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il punto centrale del cerchio iniziale.
 public Point Start { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Point](../../../aspose.pdf/point/)
-* classe [GradientRadialShading](../)
+* class [Point](../../../aspose.pdf/point/)
+* class [GradientRadialShading](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

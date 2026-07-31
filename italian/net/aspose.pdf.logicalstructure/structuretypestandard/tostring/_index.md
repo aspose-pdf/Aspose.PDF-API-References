@@ -1,12 +1,12 @@
 ---
-title: StructureTypeStandard.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: metodo StrutturaStandard. Ritorna una stringa che rappresenta l'oggetto corrente.
+title: "StructureTypeStandard.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "StructureTypeStandard method. Restituisce una stringa che rappresenta l'oggetto corrente."
 type: docs
 weight: 520
 url: /it/net/aspose.pdf.logicalstructure/structuretypestandard/tostring/
 ---
-## Metodo StructureTypeStandard.ToString
+## StructureTypeStandard.ToString method
 
 Restituisce una stringa che rappresenta l'oggetto corrente.
 
@@ -14,12 +14,14 @@ Restituisce una stringa che rappresenta l'oggetto corrente.
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Stringa che rappresenta l'oggetto corrente.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

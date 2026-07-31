@@ -1,12 +1,12 @@
 ---
-title: PdfExtractorOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractorOptions property. Returns operation name
+title: "PdfExtractorOptions.OperationName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfExtractorOptions. Restituisce il nome dell'operazione"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.plugins/pdfextractoroptions/operationname/
 ---
-## Proprietà PdfExtractorOptions.OperationName
+## PdfExtractorOptions.OperationName property
 
 Restituisce il nome dell'operazione
 
@@ -14,8 +14,10 @@ Restituisce il nome dell'operazione
 public virtual string OperationName { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfExtractorOptions](../)
+* class [PdfExtractorOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

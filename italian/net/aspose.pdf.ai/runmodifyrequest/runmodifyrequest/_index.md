@@ -1,12 +1,12 @@
 ---
-title: RunModifyRequest.RunModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di RunModifyRequest. Il costruttore predefinito
+title: "RunModifyRequest.RunModifyRequest"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "RunModifyRequest costruttore. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/runmodifyrequest/runmodifyrequest/
 ---
-## Costruttore di RunModifyRequest
+## RunModifyRequest constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public RunModifyRequest()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RunModifyRequest](../)
+* class [RunModifyRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

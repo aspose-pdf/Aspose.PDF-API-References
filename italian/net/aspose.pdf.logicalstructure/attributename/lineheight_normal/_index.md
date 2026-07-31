@@ -1,21 +1,23 @@
 ---
-title: AttributeName.LineHeight_Normal
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeName. Attributo LineHeight Normale  Regola l'altezza della riga per includere qualsiasi valore diverso da zero specificato per BaselineShift
+title: "AttributeName.LineHeight_Normal"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo AttributeName. Attributo LineHeight Normal  Regola l'altezza della riga per includere qualsiasi valore diverso da zero specificato per BaselineShift"
 type: docs
 weight: 240
 url: /it/net/aspose.pdf.logicalstructure/attributename/lineheight_normal/
 ---
-## Campo AttributeName.LineHeight_Normal
+## AttributeName.LineHeight_Normal field
 
-Attributo LineHeight: Normale - Regola l'altezza della riga per includere qualsiasi valore diverso da zero specificato per BaselineShift.
+Attributo LineHeight: Normal - Regola l'altezza della linea includendo qualsiasi valore diverso da zero specificato per BaselineShift.
 
 ```csharp
 public static readonly AttributeName LineHeight_Normal;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

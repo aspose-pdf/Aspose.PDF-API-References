@@ -1,12 +1,12 @@
 ---
-title: ViewerPreference.HideToolbar
-second_title: Aspose.PDF for .NET API Reference
-description: Campo ViewerPreference. Un flag che specifica se nascondere le barre degli strumenti dei lettori conformi quando il documento è attivo
+title: "ViewerPreference.HideToolbar"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "ViewerPreference campo. Un flag che specifica se nascondere le barre degli strumenti dei lettori conformi quando il documento è attivo"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.facades/viewerpreference/hidetoolbar/
 ---
-## Campo ViewerPreference.HideToolbar
+## ViewerPreference.HideToolbar field
 
 Un flag che specifica se nascondere le barre degli strumenti del lettore conforme quando il documento è attivo.
 
@@ -14,8 +14,10 @@ Un flag che specifica se nascondere le barre degli strumenti del lettore conform
 public const int HideToolbar;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ViewerPreference](../)
+* class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

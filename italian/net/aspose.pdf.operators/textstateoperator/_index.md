@@ -1,14 +1,14 @@
 ---
-title: Class TextStateOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.TextStateOperator. Classe base astratta per operatori che cambiano lo stato del testo corrente Tc Tf TL ecc
+title: "Classe TextStateOperator"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Operators.TextStateOperator classe. Classe base astratta per gli operatori che modificano lo stato corrente del testo Tc Tf TL ecc"
 type: docs
-weight: 7930
+weight: 8070
 url: /it/net/aspose.pdf.operators/textstateoperator/
 ---
-## Classe TextStateOperator
+## TextStateOperator class
 
-Classe base astratta per operatori che cambiano lo stato del testo corrente (Tc, Tf, TL, ecc).
+Classe base astratta per operatori che modificano lo stato corrente del testo (Tc, Tf, TL, ecc.).
 
 ```csharp
 public class TextStateOperator : TextOperator
@@ -19,24 +19,26 @@ public class TextStateOperator : TextOperator
 | Nome | Descrizione |
 | --- | --- |
 | [TextStateOperator](textstateoperator/#constructor)() | Inizializza TextStateOperator. |
-| [TextStateOperator](textstateoperator/#constructor_1)(TextProperties) | Inizializza TextStateOperator che consente di passare TextProperties. |
+| [TextStateOperator](textstateoperator/#constructor_1)(TextProperties) | Inizializza TextStateoperator che consente di passare TextProperties. |
 
 ## Proprietà
 
 | Nome | Descrizione |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Indice dell'operatore nell'elenco degli operatori di pagina. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Indice dell'operatore nell'elenco degli operatori della pagina. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | Accetta l'oggetto visitatore per elaborare l'operatore. |
+| override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | Accetta un oggetto visitor per elaborare l'operatore. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Restituisce il testo dell'operatore e i suoi parametri. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto fornito. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextOperator](../textoperator/)
+* class [TextOperator](../textoperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

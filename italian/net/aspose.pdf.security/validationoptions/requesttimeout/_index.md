@@ -1,21 +1,23 @@
 ---
-title: ValidationOptions.RequestTimeout
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ValidationOptions. Ottiene o imposta la durata del timeout in millisecondi per le operazioni relative alla rete durante il processo di validazione. La proprietà RequestTimeout definisce il tempo massimo che il sistema dovrebbe attendere per una risposta di rete quando accede a risorse online come lo stato di revoca o i server OCSP.
+title: "ValidationOptions.RequestTimeout"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ValidationOptions. Ottiene o imposta la durata del timeout in millisecondi per le operazioni di rete durante il processo di convalida. La proprietà RequestTimeout definisce il tempo massimo che il sistema deve attendere per una risposta di rete quando accede a risorse online come lo stato di revoca o i server OCSP"
 type: docs
-weight: 20
+weight: 30
 url: /it/net/aspose.pdf.security/validationoptions/requesttimeout/
 ---
-## Proprietà ValidationOptions.RequestTimeout
+## ValidationOptions.RequestTimeout property
 
-Ottiene o imposta la durata del timeout, in millisecondi, per le operazioni relative alla rete durante il processo di validazione. La proprietà RequestTimeout definisce il tempo massimo che il sistema dovrebbe attendere per una risposta di rete quando accede a risorse online, come lo stato di revoca o i server OCSP.
+Ottiene o imposta la durata del timeout, in millisecondi, per le operazioni di rete durante il processo di convalida. La proprietà RequestTimeout definisce il tempo massimo che il sistema deve attendere per una risposta di rete quando accede a risorse online, come lo stato di revoca o i server OCSP.
 
 ```csharp
 public int RequestTimeout { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ValidationOptions](../)
+* class [ValidationOptions](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

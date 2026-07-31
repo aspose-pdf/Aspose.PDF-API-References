@@ -1,14 +1,14 @@
 ---
-title: Class DocMDPSignature
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Forms.DocMDPSignature. Rappresenta la classe del tipo di firma MDP per la rilevazione e prevenzione delle modifiche al documento
+title: "Classe DocMDPSignature"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Forms.DocMDPSignature. Rappresenta la classe del tipo di firma di rilevamento e prevenzione delle modifiche MDP del documento."
 type: docs
-weight: 5030
+weight: 5150
 url: /it/net/aspose.pdf.forms/docmdpsignature/
 ---
-## Classe DocMDPSignature
+## DocMDPSignature class
 
-Rappresenta la classe del tipo di firma MDP (rilevazione e prevenzione delle modifiche) per i documenti.
+Rappresenta la classe del tipo di firma MDP (rilevamento e prevenzione delle modifiche) del documento.
 
 ```csharp
 public sealed class DocMDPSignature
@@ -24,9 +24,11 @@ public sealed class DocMDPSignature
 
 | Nome | Descrizione |
 | --- | --- |
-| [AccessPermissions](../../aspose.pdf.forms/docmdpsignature/accesspermissions/) { get; } | Restituisce i permessi di accesso concessi per questo documento. |
+| [AccessPermissions](../../aspose.pdf.forms/docmdpsignature/accesspermissions/) { get; } | Restituisce le autorizzazioni di accesso concesse per questo documento. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

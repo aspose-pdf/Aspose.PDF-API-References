@@ -1,27 +1,29 @@
 ---
-title: MCRElement.ImageSrc
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà MCRElement. Ottiene la sorgente dell'immagine per l'elemento di riferimento del contenuto contrassegnato
+title: "MCRElement.ImageSrc"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà MCRElement. Ottiene la sorgente dell'immagine per l'elemento di riferimento markedcontent"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.logicalstructure/mcrelement/imagesrc/
 ---
-## Proprietà MCRElement.ImageSrc
+## MCRElement.ImageSrc property
 
-Ottiene la sorgente dell'immagine per l'elemento di riferimento del contenuto contrassegnato.
+Ottiene la sorgente dell'immagine per l'elemento di riferimento marked-content.
 
-Per l'[`IllustrationElement`](../../illustrationelement/) appena creato. È nullo in altri casi.
+Per l'oggetto appena creato [`IllustrationElement`](../../illustrationelement/). È null in altri casi.
 
 ```csharp
 public string ImageSrc { get; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
-Sorgente dell'immagine per l'elemento di riferimento del contenuto contrassegnato.
+Sorgente dell'immagine per l'elemento di riferimento marked-content.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MCRElement](../)
+* class [MCRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

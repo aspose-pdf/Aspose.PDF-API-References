@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.Standard12x11
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes field. Standard paper 12 in. by 11 in
+title: "PaperSizes.Standard12x11"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PaperSizes campo. carta standard 12 pol. per 11 pol"
 type: docs
 weight: 1100
 url: /it/net/aspose.pdf.printing/papersizes/standard12x11/
 ---
-## Campo PaperSizes.Standard12x11
+## PaperSizes.Standard12x11 field
 
-Carta standard (12 in. per 11 in.).
+Carta standard (12 pol. per 11 pol.).
 
 ```csharp
 public static readonly PaperSize Standard12x11;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

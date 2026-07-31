@@ -1,22 +1,24 @@
 ---
-title: PaperSources.FormSource
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSources field. Represents the default bin of the printer
+title: "PaperSources.FormSource"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "campo PaperSources. Rappresenta il vassoio predefinito della stampante"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.printing/papersources/formsource/
 ---
-## Campo PaperSources.FormSource
+## PaperSources.FormSource field
 
-Rappresenta il cassetto predefinito della stampante.
+Rappresenta il contenitore predefinito della stampante.
 
 ```csharp
 public static readonly PaperSource FormSource;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSource](../../papersource/)
-* classe [PaperSources](../)
+* class [PaperSource](../../papersource/)
+* class [PaperSources](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

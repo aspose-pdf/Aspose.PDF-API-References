@@ -1,14 +1,14 @@
 ---
-title: DestinationCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà DestinationCollection. Ottiene l'oggetto di destinazione per indice
+title: "DestinationCollection.Item"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà DestinationCollection. Ottiene l'oggetto destinazione per indice."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/destinationcollection/item/
 ---
-## Indicizzatore DestinationCollection
+## DestinationCollection indexer
 
-Ottiene l'oggetto di destinazione per indice.
+Ottiene l'oggetto destinazione per indice.
 
 ```csharp
 public KeyValuePair<string, object> this[int index] { get; }
@@ -20,10 +20,12 @@ public KeyValuePair<string, object> this[int index] { get; }
 
 ### Valore di ritorno
 
-Destinazione.
+Destination.
 
 ### Vedi anche
 
-* classe [DestinationCollection](../)
+* class [DestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

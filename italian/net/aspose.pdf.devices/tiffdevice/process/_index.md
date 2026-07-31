@@ -1,27 +1,27 @@
 ---
-title: TiffDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TiffDevice. Converte alcune pagine di documenti in tiff e le salva nello stream di output
+title: "TiffDevice.Process"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TiffDevice. Converte alcune pagine del documento in tiff e le salva nel flusso di output"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.devices/tiffdevice/process/
 ---
 ## Process(Document, int, int, Stream) {#process}
 
-Converte alcune pagine di documenti in tiff e le salva nello stream di output.
+Converte alcune pagine del documento in TIFF e le salva nel flusso di output.
 
 ```csharp
 public override void Process(Document document, int fromPage, int toPage, Stream output)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | document | Document | Il documento da convertire. |
-| fromPage | Int32 | Definisce il numero di pagina da cui inizierà la conversione. |
-| toPage | Int32 | Definisce il numero di pagina che terminerà la conversione. |
-| output | Stream | Stream di output con immagine tiff. |
+| fromPage | Int32 | Definisce il numero di pagina da cui inizia la conversione. |
+| toPage | Int32 | Definisce il numero di pagina in cui termina la conversione. |
+| output | Stream | Flusso di output con immagine TIFF. |
 
-### See Also
+### Vedi anche
 
 * class [Document](../../../aspose.pdf/document/)
 * class [TiffDevice](../)
@@ -36,9 +36,11 @@ public override void Process(Document document, int fromPage, int toPage, Stream
 public override void Process(Page page, Stream output)
 ```
 
-### See Also
+### Vedi anche
 
 * class [Page](../../../aspose.pdf/page/)
 * class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

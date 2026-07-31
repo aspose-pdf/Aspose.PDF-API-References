@@ -1,12 +1,12 @@
 ---
-title: Left.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore Left. Il costruttore predefinito
+title: "Left.Left"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore sinistro. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/left/left/
 ---
-## Costruttore Left
+## Left constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public Left()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Left](../)
+* class [Left](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

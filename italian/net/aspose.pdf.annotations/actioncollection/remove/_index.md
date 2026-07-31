@@ -1,12 +1,12 @@
 ---
-title: ActionCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ActionCollection. Rimuove l'elemento dalla collezione
+title: "ActionCollection.Remove"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ActionCollection. Rimuove l'elemento dalla collezione"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf.annotations/actioncollection/remove/
 ---
-## Metodo ActionCollection.Remove
+## ActionCollection.Remove method
 
 Rimuove l'elemento dalla collezione.
 
@@ -24,7 +24,9 @@ Non implementato.
 
 ### Vedi anche
 
-* classe [PdfAction](../../pdfaction/)
-* classe [ActionCollection](../)
+* class [PdfAction](../../pdfaction/)
+* class [ActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

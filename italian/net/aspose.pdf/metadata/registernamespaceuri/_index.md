@@ -1,14 +1,14 @@
 ---
-title: Metadata.RegisterNamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Metadata. Registra l'URI del namespace
+title: "Metadata.RegisterNamespaceUri"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Metadata. Registra l'URI dello spazio dei nomi"
 type: docs
 weight: 190
 url: /it/net/aspose.pdf/metadata/registernamespaceuri/
 ---
 ## RegisterNamespaceUri(string, string) {#registernamespaceuri}
 
-Registra l'URI del namespace.
+Registra l'URI dello spazio dei nomi.
 
 ```csharp
 public void RegisterNamespaceUri(string prefix, string namespaceUri)
@@ -17,11 +17,11 @@ public void RegisterNamespaceUri(string prefix, string namespaceUri)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | prefix | String | Il valore del prefisso. |
-| namespaceUri | String | Il valore dell'URI del namespace. |
+| namespaceUri | String | Il valore dell'URI dello spazio dei nomi. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Metadata](../)
+* class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -29,7 +29,7 @@ public void RegisterNamespaceUri(string prefix, string namespaceUri)
 
 ## RegisterNamespaceUri(string, string, string) {#registernamespaceuri_1}
 
-Registra l'URI del namespace.
+Registra l'URI dello spazio dei nomi.
 
 ```csharp
 public void RegisterNamespaceUri(string prefix, string namespaceUri, string schemaDescription)
@@ -38,11 +38,13 @@ public void RegisterNamespaceUri(string prefix, string namespaceUri, string sche
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | prefix | String | Il valore del prefisso. |
-| namespaceUri | String | Il valore dell'URI del namespace. |
+| namespaceUri | String | Il valore dell'URI dello spazio dei nomi. |
 | schemaDescription | String | Il valore della descrizione dello schema. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Metadata](../)
+* class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

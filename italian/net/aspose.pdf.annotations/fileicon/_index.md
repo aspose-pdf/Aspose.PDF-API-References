@@ -1,14 +1,14 @@
 ---
-title: Enum FileIcon
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.FileIcon enum. Un'icona da utilizzare durante la visualizzazione dell'annotazione.
+title: "Enum FileIcon"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Annotations.FileIcon enum. Un'icona da utilizzare nella visualizzazione dell'annotazione"
 type: docs
-weight: 1720
+weight: 1810
 url: /it/net/aspose.pdf.annotations/fileicon/
 ---
-## Enumerazione FileIcon
+## FileIcon enumeration
 
-Un'icona da utilizzare per visualizzare l'annotazione.
+Un'icona da utilizzare nella visualizzazione dell'annotazione.
 
 ```csharp
 public enum FileIcon
@@ -19,11 +19,13 @@ public enum FileIcon
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
 | PushPin | `0` | Icona PushPin (valore predefinito). |
-| Graph | `1` | Icona Graph. |
-| Paperclip | `2` | Icona Paperclip. |
+| Graph | `1` | Icona del grafico. |
+| Paperclip | `2` | Icona della graffetta. |
 | Tag | `3` | Questa è l'icona del tag. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

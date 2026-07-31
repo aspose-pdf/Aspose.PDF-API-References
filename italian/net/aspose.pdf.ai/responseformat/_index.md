@@ -1,12 +1,12 @@
 ---
-title: Class ResponseFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ResponseFormat class. Represents the format of a response which can be either a string value or an object value
+title: "Classe ResponseFormat"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.AI.ResponseFormat. Rappresenta il formato di una risposta che può essere sia un valore stringa sia un valore oggetto."
 type: docs
-weight: 960
+weight: 1040
 url: /it/net/aspose.pdf.ai/responseformat/
 ---
-## Classe ResponseFormat
+## ResponseFormat class
 
 Rappresenta il formato di una risposta, che può essere un valore stringa o un valore oggetto.
 
@@ -29,9 +29,11 @@ public class ResponseFormat : IStringOrObject<ObjectType>
 | [ObjectValue](../../aspose.pdf.ai/responseformat/objectvalue/) { get; set; } | Ottiene o imposta il valore oggetto del formato della risposta. |
 | [StringValue](../../aspose.pdf.ai/responseformat/stringvalue/) { get; set; } | Ottiene o imposta il valore stringa del formato della risposta. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IStringOrObject&lt;T&gt;](../istringorobject-1/)
-* classe [ObjectType](../responseformat.objecttype/)
+* interface [IStringOrObject&lt;T&gt;](../istringorobject-1/)
+* class [ObjectType](../responseformat.objecttype/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

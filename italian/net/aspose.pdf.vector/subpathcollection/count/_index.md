@@ -1,12 +1,12 @@
 ---
-title: Count
-second_title: Aspose.PDF for .NET API Reference
-description: Ottiene il numero di elementi oggetto SubPathaspose.pdf.vector/subpath effettivamente contenuti nella collezione.
+title: "Conteggio"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Ottiene il numero di elementi oggetto SubPathaspose.pdf.vector/subpath effettivamente contenuti nella collezione."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.vector/subpathcollection/count/
 ---
-## Proprietà SubPathCollection.Count
+## SubPathCollection.Count property
 
 Ottiene il numero di elementi oggetto [`SubPath`](../../subpath) effettivamente contenuti nella collezione.
 
@@ -14,9 +14,9 @@ Ottiene il numero di elementi oggetto [`SubPath`](../../subpath) effettivamente 
 public int Count { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SubPathCollection](../../subpathcollection)
+* class [SubPathCollection](../../subpathcollection)
 * namespace [Aspose.Pdf.Vector](../../subpathcollection)
 * assembly [Aspose.PDF](../../../)
 

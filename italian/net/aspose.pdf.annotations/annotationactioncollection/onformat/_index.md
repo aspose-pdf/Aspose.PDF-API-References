@@ -1,12 +1,12 @@
 ---
-title: AnnotationActionCollection.OnFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà AnnotationActionCollection. Ottiene o imposta un'azione da eseguire per formattare il valore del campo
+title: "AnnotationActionCollection.OnFormat"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà AnnotationActionCollection. Ottiene o imposta un'azione da eseguire per formattare il valore del campo"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.annotations/annotationactioncollection/onformat/
 ---
-## Proprietà AnnotationActionCollection.OnFormat
+## AnnotationActionCollection.OnFormat property
 
 Ottiene o imposta un'azione da eseguire per formattare il valore del campo.
 
@@ -14,9 +14,11 @@ Ottiene o imposta un'azione da eseguire per formattare il valore del campo.
 public PdfAction OnFormat { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfAction](../../pdfaction/)
-* classe [AnnotationActionCollection](../)
+* class [PdfAction](../../pdfaction/)
+* class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

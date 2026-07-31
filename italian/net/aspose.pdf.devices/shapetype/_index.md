@@ -1,12 +1,12 @@
 ---
-title: Enum ShapeType
-second_title: Aspose.PDF for .NET API Reference
-description: Questo enum rappresenta il tipo di forma per le immagini estratte.
+title: "Enum ShapeType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Devices.ShapeType enum. Questo enum rappresenta il tipo di forma per le immagini estratte."
 type: docs
-weight: 3670
+weight: 3790
 url: /it/net/aspose.pdf.devices/shapetype/
 ---
-## Enumerazione ShapeType
+## ShapeType enumeration
 
 Questo enum rappresenta il tipo di forma per le immagini estratte.
 
@@ -18,11 +18,13 @@ public enum ShapeType
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Nessuno | `0` | Forma dell'immagine originale. |
-| Paesaggio | `1` | Forma Paesaggio. |
-| Ritratto | `2` | Forma Ritratto. |
+| None | `0` | Forma originale dell'immagine. |
+| Landscape | `1` | Forma orizzontale. |
+| Portrait | `2` | Forma verticale. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

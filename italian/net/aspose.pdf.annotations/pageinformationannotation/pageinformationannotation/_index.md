@@ -1,14 +1,14 @@
 ---
-title: PageInformationAnnotation.PageInformationAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PageInformationAnnotation. Inizializza una nuova istanza della classe PageInformationAnnotation nella pagina data nella posizione data
+title: "PageInformationAnnotation.PageInformationAnnotation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PageInformationAnnotation. Inizializza una nuova istanza della classe PageInformationAnnotation nella pagina specificata nella posizione specificata"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/pageinformationannotation/pageinformationannotation/
 ---
-## Costruttore di PageInformationAnnotation
+## PageInformationAnnotation constructor
 
-Inizializza una nuova istanza della classe [`PageInformationAnnotation`](../) nella pagina data nella posizione data.
+Inizializza una nuova istanza della classe [`PageInformationAnnotation`](../) nella pagina specificata nella posizione specificata.
 
 ```csharp
 public PageInformationAnnotation(Page page, Rectangle rect)
@@ -16,13 +16,15 @@ public PageInformationAnnotation(Page page, Rectangle rect)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | La pagina con cui l'annotazione sarà associata. |
+| pagina | Page | La pagina con cui l'annotazione sarà associata. |
 | rect | Rectangle | Il rettangolo dell'annotazione, che definisce la posizione dell'annotazione sulla pagina. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [PageInformationAnnotation](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [PageInformationAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: TextFragmentAbsorber.RemoveAllText
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TextFragmentAbsorber. Rimuove tutto il testo dalla pagina specificata
+title: "TextFragmentAbsorber.RemoveAllText"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TextFragmentAbsorber. Rimuove tutto il testo dalla pagina specificata"
 type: docs
 weight: 130
 url: /it/net/aspose.pdf.text/textfragmentabsorber/removealltext/
@@ -14,11 +14,11 @@ Rimuove tutto il testo dalla pagina specificata.
 public void RemoveAllText(Page page)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | Oggetto pagina del documento PDF. |
+| pagina | Page | Oggetto pagina del documento PDF. |
 
-### See Also
+### Vedi anche
 
 * class [Page](../../../aspose.pdf/page/)
 * class [TextFragmentAbsorber](../)
@@ -35,12 +35,12 @@ Rimuove il testo all'interno del rettangolo specificato dalla pagina specificata
 public void RemoveAllText(Page page, Rectangle rect)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | Oggetto pagina del documento PDF. |
-| rect | Rectangle | [`Rectangle`](../../../aspose.pdf/rectangle/) da cui rimuovere il testo. |
+| pagina | Page | Oggetto pagina del documento PDF. |
+| rect | Rectangle | [`Rectangle`](../../../aspose.pdf/rectangle/) per rimuovere il testo al suo interno. |
 
-### See Also
+### Vedi anche
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
@@ -58,13 +58,15 @@ Rimuove tutto il testo dal documento.
 public void RemoveAllText(Document document)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | document | Document | Oggetto documento PDF. |
 
-### See Also
+### Vedi anche
 
 * class [Document](../../../aspose.pdf/document/)
 * class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

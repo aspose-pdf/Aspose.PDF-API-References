@@ -1,21 +1,23 @@
 ---
-title: MemoryFontSource.FontBytes
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà MemoryFontSource. Array di byte del file font
+title: "MemoryFontSource.FontBytes"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà MemoryFontSource. Array di byte del file del font"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.text/memoryfontsource/fontbytes/
 ---
-## Proprietà MemoryFontSource.FontBytes
+## MemoryFontSource.FontBytes property
 
-Array di byte del file font.
+Array di byte del file di font.
 
 ```csharp
 public byte[] FontBytes { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MemoryFontSource](../)
+* class [MemoryFontSource](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.IsPredefinedKey
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo DocumentInfo. Determina se la chiave è predefinita, non personalizzata
+title: "DocumentInfo.IsPredefinedKey"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo DocumentInfo. Determina se la chiave è predefinita (Titolo, Autore, ecc.) e non personalizzata"
 type: docs
 weight: 180
 url: /it/net/aspose.pdf/documentinfo/ispredefinedkey/
 ---
-## Metodo DocumentInfo.IsPredefinedKey
+## DocumentInfo.IsPredefinedKey method
 
 Determina se la chiave è predefinita (Titolo, Autore, ecc.), non personalizzata.
 
@@ -16,14 +16,16 @@ public static bool IsPredefinedKey(string key)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| key | String | Chiave selezionata |
+| chiave | String | Chiave selezionata |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-True nel caso in cui la chiave sia predefinita.
+Vero nel caso in cui la chiave sia predefinita.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocumentInfo](../)
+* class [DocumentInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

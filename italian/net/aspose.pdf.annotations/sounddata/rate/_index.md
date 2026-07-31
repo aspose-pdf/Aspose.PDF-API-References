@@ -1,12 +1,12 @@
 ---
-title: SoundData.Rate
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SoundData. Ottiene o imposta la frequenza di campionamento in campioni al secondo
+title: "SoundData.Rate"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SoundData. Ottiene o imposta la frequenza di campionamento in campioni al secondo"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.annotations/sounddata/rate/
 ---
-## Proprietà SoundData.Rate
+## SoundData.Rate property
 
 Ottiene o imposta la frequenza di campionamento, in campioni al secondo.
 
@@ -14,8 +14,10 @@ Ottiene o imposta la frequenza di campionamento, in campioni al secondo.
 public int Rate { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SoundData](../)
+* class [SoundData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

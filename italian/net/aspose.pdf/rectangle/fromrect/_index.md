@@ -1,7 +1,7 @@
 ---
-title: Rectangle.FromRect
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Rectangle. Inizializza un nuovo rettangolo dall'istanza fornita di System.Drawing.Rectangle
+title: "Rectangle.FromRect"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Rectangle. Inizializza un nuovo rettangolo dall'istanza fornita di System.Drawing.Rectangle"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/rectangle/fromrect/
@@ -14,15 +14,15 @@ Inizializza un nuovo rettangolo dall'istanza fornita di System.Drawing.Rectangle
 public static Rectangle FromRect(Rectangle src)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| src | Rectangle | Rettangolo sorgente di cui posizione e dimensione saranno impostate sul nuovo rettangolo. |
+| src | Rectangle | Rettangolo di origine la cui posizione e dimensione saranno impostate nel nuovo rettangolo. |
 
-### Return Value
+### Valore di ritorno
 
 Nuovo rettangolo.
 
-### See Also
+### Vedi anche
 
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -38,16 +38,18 @@ Inizializza un nuovo rettangolo dall'istanza fornita di System.Drawing.Rectangle
 public static Rectangle FromRect(RectangleF src)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| src | RectangleF | Rettangolo sorgente di cui posizione e dimensione saranno impostate sul nuovo rettangolo. |
+| src | RectangleF | Rettangolo di origine la cui posizione e dimensione saranno impostate nel nuovo rettangolo. |
 
-### Return Value
+### Valore di ritorno
 
 Nuovo rettangolo.
 
-### See Also
+### Vedi anche
 
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

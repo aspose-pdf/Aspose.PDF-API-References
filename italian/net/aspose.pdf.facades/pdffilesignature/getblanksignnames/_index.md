@@ -1,25 +1,27 @@
 ---
-title: PdfFileSignature.GetBlankSignNames
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfFileSignature. Ottiene i nomi di tutti i campi di firma vuoti
+title: "PdfFileSignature.GetBlankSignNames"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfFileSignature metodo. Ottiene i nomi di tutti i campi firma vuoti"
 type: docs
 weight: 150
 url: /it/net/aspose.pdf.facades/pdffilesignature/getblanksignnames/
 ---
-## Metodo PdfFileSignature.GetBlankSignNames
+## PdfFileSignature.GetBlankSignNames method
 
-Ottiene i nomi di tutti i campi di firma vuoti.
+Restituisce i nomi di tutti i campi firma vuoti.
 
 ```csharp
 public IList<string> GetBlankSignNames()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Restituisce un IList.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileSignature](../)
+* class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

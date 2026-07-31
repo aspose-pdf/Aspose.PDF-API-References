@@ -1,12 +1,12 @@
 ---
-title: Collection.Collection
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore della Collection. Inizia un nuovo oggetto della Collection.
+title: "Collection.Collection"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore di Collection. Inizializza un nuovo oggetto Collection"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/collection/collection/
 ---
-## Costruttore Collection
+## Collection constructor
 
 Inizializza un nuovo oggetto Collection.
 
@@ -14,8 +14,10 @@ Inizializza un nuovo oggetto Collection.
 public Collection()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Collection](../)
+* class [Collection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

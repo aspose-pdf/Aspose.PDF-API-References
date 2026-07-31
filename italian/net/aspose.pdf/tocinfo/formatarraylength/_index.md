@@ -1,12 +1,12 @@
 ---
-title: TocInfo.FormatArrayLength
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TocInfo. Ottiene o imposta la lunghezza dell'array di formato
+title: "TocInfo.FormatArrayLength"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TocInfo. Ottiene o imposta la lunghezza dell'array di formato"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf/tocinfo/formatarraylength/
 ---
-## Proprietà TocInfo.FormatArrayLength
+## TocInfo.FormatArrayLength property
 
 Ottiene o imposta la lunghezza dell'array di formato
 
@@ -14,8 +14,10 @@ Ottiene o imposta la lunghezza dell'array di formato
 public int FormatArrayLength { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TocInfo](../)
+* class [TocInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

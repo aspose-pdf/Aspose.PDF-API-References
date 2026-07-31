@@ -1,12 +1,12 @@
 ---
-title: Measure.NumberFormat.AfterText
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà NumberFormat. Testo che deve essere concatenato dopo l'etichetta
+title: "Measure.NumberFormat.AfterText"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà NumberFormat. Testo che deve essere concatenato dopo l'etichetta"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.annotations/measure.numberformat/aftertext/
 ---
-## Proprietà Measure.NumberFormat.AfterText
+## Measure.NumberFormat.AfterText property
 
 Testo che deve essere concatenato dopo l'etichetta
 
@@ -14,8 +14,10 @@ Testo che deve essere concatenato dopo l'etichetta
 public string AfterText { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [NumberFormat](../)
+* class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

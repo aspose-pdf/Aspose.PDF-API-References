@@ -1,14 +1,14 @@
 ---
-title: FormExporterValuesToCsvOptions.FormExporterValuesToCsvOptions
-second_title: Aspose.PDF for .NET API Reference
-description: FormExporterValuesToCsvOptions costruttore. Inizializza una nuova istanza dell'oggetto FormExporterValuesToCsvOptions in cui i campi i cui dati verranno esportati e il separatore per i dati esportati sono specificati.
+title: "FormExporterValuesToCsvOptions.FormExporterValuesToCsvOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore FormExporterValuesToCsvOptions. Inizializza una nuova istanza dell'oggetto FormExporterValuesToCsvOptions in cui sono specificati i campi i cui dati saranno esportati e il separatore per i dati esportati"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.plugins/formexportervaluestocsvoptions/formexportervaluestocsvoptions/
 ---
-## Costruttore di FormExporterValuesToCsvOptions
+## FormExporterValuesToCsvOptions constructor
 
-Inizializza una nuova istanza dell'oggetto [`FormExporterValuesToCsvOptions`](../), in cui sono specificati i campi i cui dati verranno esportati e il separatore per i dati esportati.
+Inizializza una nuova istanza dell'oggetto [`FormExporterValuesToCsvOptions`](../), in cui sono specificati i campi i cui dati saranno esportati e il separatore per i dati esportati.
 
 ```csharp
 public FormExporterValuesToCsvOptions(SelectField selectField, char delimeter = ',')
@@ -16,12 +16,14 @@ public FormExporterValuesToCsvOptions(SelectField selectField, char delimeter = 
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| selectField | SelectField | Delegato che determina le proprietà di cui impostare i valori per il/i campo/i. |
-| delimeter | Char | Specifica il delimitatore da utilizzare nei dati esportati tra i valori. Il valore predefinito è ',' |
+| selectField | SelectField | Delegato che determina le proprietà dei campi a cui impostare i valori. |
+| delimitatore | Char | Specifica il delimitatore da usare nei dati esportati tra i valori. Il valore predefinito è ',' |
 
-### Vedi Anche
+### Vedi anche
 
-* delegato [SelectField](../../selectfield/)
-* classe [FormExporterValuesToCsvOptions](../)
+* delegate [SelectField](../../selectfield/)
+* class [FormExporterValuesToCsvOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

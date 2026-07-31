@@ -1,21 +1,23 @@
 ---
-title: PdfFormatConversionOptions.LogStream
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions proprietà. Flusso dove i commenti saranno archiviati.
+title: "PdfFormatConversionOptions.LogStream"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfFormatConversionOptions. Stream in cui verranno memorizzati i commenti"
 type: docs
-weight: 140
+weight: 150
 url: /it/net/aspose.pdf/pdfformatconversionoptions/logstream/
 ---
-## Proprietà PdfFormatConversionOptions.LogStream
+## PdfFormatConversionOptions.LogStream property
 
-Stream dove verranno memorizzati i commenti.
+Stream in cui verranno memorizzati i commenti.
 
 ```csharp
 public Stream LogStream { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFormatConversionOptions](../)
+* class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

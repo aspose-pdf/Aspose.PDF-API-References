@@ -1,12 +1,12 @@
 ---
-title: ImageFile.ImageFile
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di ImageFile. Il costruttore predefinito
+title: "ImageFile.ImageFile"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "ImageFile costruttore. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/imagefile/imagefile/
 ---
-## Costruttore di ImageFile
+## ImageFile constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public ImageFile()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImageFile](../)
+* class [ImageFile](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

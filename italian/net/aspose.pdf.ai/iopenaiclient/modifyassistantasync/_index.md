@@ -1,12 +1,12 @@
 ---
-title: IOpenAIClient.ModifyAssistantAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo IOpenAIClient. Modifica un assistente esistente in modo asincrono
+title: "IOpenAIClient.ModifyAssistantAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "IOpenAIClient metodo. Modifica un assistente esistente in modo asincrono"
 type: docs
 weight: 360
 url: /it/net/aspose.pdf.ai/iopenaiclient/modifyassistantasync/
 ---
-## Metodo IOpenAIClient.ModifyAssistantAsync
+## IOpenAIClient.ModifyAssistantAsync method
 
 Modifica un assistente esistente in modo asincrono.
 
@@ -18,10 +18,10 @@ public Task<AssistantResponse> ModifyAssistantAsync(string assistantId,
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | assistantId | String | L'ID dell'assistente da modificare. |
-| assistantModifyRequest | AssistantModifyRequest | L'oggetto di richiesta contenente i dettagli della modifica. |
+| assistantModifyRequest | AssistantModifyRequest | L'oggetto richiesta contenente i dettagli della modifica. |
 | cancellationToken | Nullable`1 | Un token per annullare l'operazione. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività contiene la risposta dalla modifica dell'assistente.
 
@@ -29,12 +29,14 @@ Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività
 
 | eccezione | condizione |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID dell'assistente è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generato quando l'ID dell'assistente è null o vuoto. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AssistantResponse](../../assistantresponse/)
-* classe [AssistantModifyRequest](../../assistantmodifyrequest/)
-* interfaccia [IOpenAIClient](../)
+* class [AssistantResponse](../../assistantresponse/)
+* class [AssistantModifyRequest](../../assistantmodifyrequest/)
+* interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

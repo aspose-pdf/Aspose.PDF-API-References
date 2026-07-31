@@ -1,12 +1,12 @@
 ---
-title: Page.Resize
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Page. Ridimensiona la pagina
+title: "Page.Resize"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Page method. Ridimensiona la pagina"
 type: docs
 weight: 520
 url: /it/net/aspose.pdf/page/resize/
 ---
-## Metodo Page.Resize
+## Page.Resize method
 
 Ridimensiona la pagina.
 
@@ -18,9 +18,11 @@ public void Resize(PageSize targetSize)
 | --- | --- | --- |
 | targetSize | PageSize | La dimensione target. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageSize](../../pagesize/)
-* classe [Page](../)
+* class [PageSize](../../pagesize/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

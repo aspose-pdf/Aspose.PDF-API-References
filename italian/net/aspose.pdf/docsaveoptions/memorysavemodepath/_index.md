@@ -1,21 +1,23 @@
 ---
-title: DocSaveOptions.MemorySaveModePath
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà DocSaveOptions. Definisce il nome del file di percorso o il nome della directory per contenere dati temporanei durante la conversione in modalità salvataggio in memoria
+title: "DocSaveOptions.MemorySaveModePath"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "DocSaveOptions proprietà. Definisce il percorso, il nome file o il nome della directory per contenere i dati temporanei durante la conversione in modalità salvataggio in memoria"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf/docsaveoptions/memorysavemodepath/
 ---
-## Proprietà DocSaveOptions.MemorySaveModePath
+## DocSaveOptions.MemorySaveModePath property
 
-Definisce il percorso (nome del file o nome della directory) per contenere dati temporanei durante la conversione in modalità salvataggio in memoria.
+Definisce il percorso (nome file o nome directory) per contenere i dati temporanei durante la conversione in modalità salvataggio in memoria.
 
 ```csharp
 public string MemorySaveModePath { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocSaveOptions](../)
+* class [DocSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

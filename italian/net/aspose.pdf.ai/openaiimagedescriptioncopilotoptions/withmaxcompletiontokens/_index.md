@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithMaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIImageDescriptionCopilotOptions. Imposta i token di completamento massimi per le opzioni del copilot di descrizione dell'immagine
+title: "OpenAIImageDescriptionCopilotOptions.WithMaxCompletionTokens"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OpenAIImageDescriptionCopilotOptions metodo. Imposta i token di completamento massimi per le opzioni del copilota di descrizione dell'immagine"
 type: docs
 weight: 130
 url: /it/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withmaxcompletiontokens/
 ---
-## Metodo OpenAIImageDescriptionCopilotOptions.WithMaxCompletionTokens
+## OpenAIImageDescriptionCopilotOptions.WithMaxCompletionTokens method
 
-Imposta i token di completamento massimi per le opzioni del copilot di descrizione dell'immagine.
+Imposta il numero massimo di token di completamento per le opzioni del copilot di descrizione immagine.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithMaxCompletionTokens(int? maxCompletionTokens)
@@ -24,6 +24,8 @@ L'istanza corrente di [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### Vedi anche
 
-* classe [OpenAIImageDescriptionCopilotOptions](../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

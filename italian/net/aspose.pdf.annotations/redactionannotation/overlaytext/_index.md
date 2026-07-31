@@ -1,12 +1,12 @@
 ---
-title: RedactionAnnotation.OverlayText
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà RedactionAnnotation. Ottiene o imposta il testo da stampare sull'annotazione di redazione
+title: "RedactionAnnotation.OverlayText"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà RedactionAnnotation. Ottiene o imposta il testo da stampare sull'annotazione di redazione"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.annotations/redactionannotation/overlaytext/
 ---
-## Proprietà RedactionAnnotation.OverlayText
+## RedactionAnnotation.OverlayText property
 
 Ottiene o imposta il testo da stampare sull'annotazione di redazione.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il testo da stampare sull'annotazione di redazione.
 public string OverlayText { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RedactionAnnotation](../)
+* class [RedactionAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

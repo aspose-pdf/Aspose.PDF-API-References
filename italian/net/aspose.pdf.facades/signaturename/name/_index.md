@@ -1,12 +1,12 @@
 ---
-title: SignatureName.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Campo SignatureName. Ottiene il nome di una firma
+title: "SignatureName.Name"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo di SignatureName. Ottiene il nome di una firma"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.facades/signaturename/name/
 ---
-## Campo SignatureName.Name
+## SignatureName.Name field
 
 Ottiene il nome di una firma.
 
@@ -14,8 +14,10 @@ Ottiene il nome di una firma.
 public readonly string Name;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SignatureName](../)
+* class [SignatureName](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

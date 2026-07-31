@@ -1,21 +1,23 @@
 ---
-title: PdfFileInfo.UseStrictValidation
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PdfFileInfo. Utilizza regole di validazione rigorose tramite l'uso della proprietà IsPdfFile
+title: "PdfFileInfo.UseStrictValidation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfFileInfo proprietà. Utilizza regole di convalida rigorose tramite l'uso della proprietà IsPdfFile"
 type: docs
 weight: 180
 url: /it/net/aspose.pdf.facades/pdffileinfo/usestrictvalidation/
 ---
-## Proprietà PdfFileInfo.UseStrictValidation
+## PdfFileInfo.UseStrictValidation property
 
-Utilizza regole di validazione rigorose tramite l'uso della proprietà [`IsPdfFile`](../ispdffile/).
+Utilizza regole di convalida rigorose tramite l'uso della proprietà [`IsPdfFile`](../ispdffile/).
 
 ```csharp
 public bool UseStrictValidation { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileInfo](../)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

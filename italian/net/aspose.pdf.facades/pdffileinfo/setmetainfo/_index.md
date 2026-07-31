@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.SetMetaInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfFileInfo. Imposta informazioni personalizzate del documento PDF
+title: "PdfFileInfo.SetMetaInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfFileInfo metodo. Imposta informazioni personalizzate del documento PDF"
 type: docs
 weight: 330
 url: /it/net/aspose.pdf.facades/pdffileinfo/setmetainfo/
 ---
-## Metodo PdfFileInfo.SetMetaInfo
+## PdfFileInfo.SetMetaInfo method
 
-Imposta informazioni personalizzate del documento PDF.
+Imposta le informazioni personalizzate del documento PDF.
 
 ```csharp
 public void SetMetaInfo(string name, string value)
@@ -16,11 +16,13 @@ public void SetMetaInfo(string name, string value)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| name | String | Chiave della proprietà meta personalizzata. |
-| value | String | Valore della proprietà meta personalizzata. |
+| nome | String | Chiave della proprietà meta personalizzata. |
+| valore | String | Valore della proprietà meta personalizzata. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileInfo](../)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

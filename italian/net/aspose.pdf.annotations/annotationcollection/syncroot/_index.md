@@ -1,21 +1,23 @@
 ---
-title: AnnotationCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà AnnotationCollection. Ottiene un oggetto che possa essere utilizzato per sincronizzare l'accesso a Aspose.Pdf.Annotations.AnnotationCollection.
+title: "AnnotationCollection.SyncRoot"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà AnnotationCollection. Ottiene un oggetto che può essere usato per sincronizzare l'accesso a Aspose.Pdf.Annotations.AnnotationCollection"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.annotations/annotationcollection/syncroot/
 ---
-## Proprietà AnnotationCollection.SyncRoot
+## AnnotationCollection.SyncRoot property
 
-Ottiene un oggetto che può essere utilizzato per sincronizzare l'accesso a Aspose.Pdf.Annotations.AnnotationCollection.
+Ottiene un oggetto che può essere usato per sincronizzare l'accesso a Aspose.Pdf.Annotations.AnnotationCollection.
 
 ```csharp
 public object SyncRoot { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AnnotationCollection](../)
+* class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

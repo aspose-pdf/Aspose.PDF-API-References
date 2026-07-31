@@ -1,12 +1,12 @@
 ---
-title: SetCharWidthBoundingBox.Wy
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SetCharWidthBoundingBox. Spostamento verticale del glifo
+title: "SetCharWidthBoundingBox.Wy"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SetCharWidthBoundingBox. Spostamento verticale del glifo"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.operators/setcharwidthboundingbox/wy/
 ---
-## Proprietà SetCharWidthBoundingBox.Wy
+## SetCharWidthBoundingBox.Wy property
 
 Spostamento verticale del glifo.
 
@@ -14,8 +14,10 @@ Spostamento verticale del glifo.
 public double Wy { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetCharWidthBoundingBox](../)
+* class [SetCharWidthBoundingBox](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

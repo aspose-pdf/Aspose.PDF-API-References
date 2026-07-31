@@ -1,12 +1,12 @@
 ---
-title: Rectangle.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Rectangle. Ottiene o imposta un valore float che indica la posizione sinistra del rettangolo
+title: "Rectangle.Left"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà di Rectangle. Ottiene o imposta un valore float che indica la posizione sinistra del rettangolo"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.drawing/rectangle/left/
 ---
-## Proprietà Rectangle.Left
+## Rectangle.Left property
 
 Ottiene o imposta un valore float che indica la posizione sinistra del rettangolo.
 
@@ -14,8 +14,10 @@ Ottiene o imposta un valore float che indica la posizione sinistra del rettangol
 public double Left { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

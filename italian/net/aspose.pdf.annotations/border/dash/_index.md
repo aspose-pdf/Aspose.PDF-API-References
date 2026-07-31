@@ -1,12 +1,12 @@
 ---
-title: Border.Dash
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Border. Ottiene o imposta il modello di tratteggio
+title: "Border.Dash"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Border. Ottiene o imposta il modello di tratteggio"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.annotations/border/dash/
 ---
-## Proprietà Border.Dash
+## Border.Dash property
 
 Ottiene o imposta il modello di tratteggio.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il modello di tratteggio.
 public Dash Dash { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Dash](../../dash/)
-* classe [Border](../)
+* class [Dash](../../dash/)
+* class [Border](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

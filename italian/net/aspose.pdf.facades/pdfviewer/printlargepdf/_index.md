@@ -1,28 +1,28 @@
 ---
-title: PdfViewer.PrintLargePdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfViewer. Apre e stampa un file Pdf di grandi dimensioni. Se il tuo file Pdf ha centinaia di pagine o più o la sua dimensione è superiore a 3 MB, questo metodo è raccomandato per ottenere migliori prestazioni
+title: "Metodo PdfViewer. Apre e stampa un file Pdf di grandi dimensioni. Se il tuo file Pdf ha centinaia di pagine o più o la sua dimensione supera i 3 MB, questo metodo è consigliato per ottenere migliori prestazioni."
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Il percorso del file Pdf."
 type: docs
 weight: 350
 url: /it/net/aspose.pdf.facades/pdfviewer/printlargepdf/
 ---
 ## PrintLargePdf(string) {#printlargepdf_3}
 
-Apre e stampa un file Pdf di grandi dimensioni. Se il tuo file Pdf ha centinaia di pagine o più o la sua dimensione è superiore a 3 MB, questo metodo è raccomandato per ottenere migliori prestazioni.
+Apre e stampa un grande file Pdf. Se il tuo file Pdf ha centinaia di pagine o più o la sua dimensione supera i 3 MB, questo metodo è consigliato per ottenere migliori prestazioni.
 
 ```csharp
 public void PrintLargePdf(string filePath)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| filePath | String | Il percorso del file Pdf. |
+| filePath | String | Questo metodo integra l'apertura e la stampa del file e non è necessario chiamare esplicitamente BindPdf(). |
 
-## Remarks
+## Osservazioni
 
-Questo metodo integra l'apertura e la stampa del file e non è necessario chiamare esplicitamente il BindPdf().
+Il flusso pdf da aprire e stampare.
 
-## Examples
+## Esempi
 
 ```csharp
 [C#]
@@ -42,7 +42,7 @@ iewer.PrintLargePdf(@"d:\test.pdf")
 iewer.Close()
 ```
 
-### See Also
+### Vedi anche
 
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -52,21 +52,21 @@ iewer.Close()
 
 ## PrintLargePdf(Stream) {#printlargepdf}
 
-Apre e stampa un flusso Pdf di grandi dimensioni. Se il tuo file Pdf ha centinaia di pagine o più o la sua dimensione è superiore a 3 MB, questo metodo è raccomandato per ottenere migliori prestazioni.
+Apre e stampa un grande flusso Pdf. Se il tuo file Pdf ha centinaia di pagine o più o la sua dimensione supera i 3 MB, questo metodo è consigliato per ottenere migliori prestazioni.
 
 ```csharp
 public void PrintLargePdf(Stream inputStream)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputStream | Stream | Il flusso pdf da aprire e stampare. |
+| inputStream | Stream | Le impostazioni della stampante. |
 
-## Remarks
+## Osservazioni
 
-Questo metodo integra l'apertura e la stampa del file e non è necessario chiamare esplicitamente il BindPdf().
+Il flusso pdf da aprire e stampare.
 
-## Examples
+## Esempi
 
 ```csharp
 [C#]
@@ -86,7 +86,7 @@ iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\test.pdf")))
 iewer.Close()
 ```
 
-### See Also
+### Vedi anche
 
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -96,22 +96,22 @@ iewer.Close()
 
 ## PrintLargePdf(string, PrinterSettings) {#printlargepdf_5}
 
-Apre e stampa un file Pdf di grandi dimensioni con impostazioni della stampante specificate. Se il tuo file Pdf ha centinaia di pagine o più o la sua dimensione è superiore a 3 MB, questo metodo è raccomandato per ottenere migliori prestazioni.
+Apre e stampa un grande file Pdf con le impostazioni della stampante specificate. Se il tuo file Pdf ha centinaia di pagine o più o la sua dimensione supera i 3 MB, questo metodo è consigliato per ottenere migliori prestazioni.
 
 ```csharp
 public void PrintLargePdf(string filePath, PrinterSettings printerSettings)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| filePath | String | Il percorso del file Pdf. |
-| printerSettings | PrinterSettings | Le impostazioni della stampante. |
+| filePath | String | Questo metodo integra l'apertura e la stampa del file e non è necessario chiamare esplicitamente BindPdf(). |
+| printerSettings | PrinterSettings | Questo metodo integra l'apertura e la stampa del file e non è necessario chiamare esplicitamente BindPdf(). |
 
-## Remarks
+## Osservazioni
 
-Questo metodo integra l'apertura e la stampa del file e non è necessario chiamare esplicitamente il BindPdf().
+Il flusso pdf da aprire e stampare.
 
-## Examples
+## Esempi
 
 ```csharp
 [C#]
@@ -137,7 +137,7 @@ iewer.PrintLargePdf(@"d:\test.pdf",ps)
 iewer.Close()
 ```
 
-### See Also
+### Vedi anche
 
 * class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
 * class [PdfViewer](../)
@@ -148,22 +148,22 @@ iewer.Close()
 
 ## PrintLargePdf(Stream, PrinterSettings) {#printlargepdf_2}
 
-Apre e stampa un flusso Pdf di grandi dimensioni con impostazioni della stampante specificate. Se il tuo file Pdf ha centinaia di pagine o più o la sua dimensione è superiore a 3 MB, questo metodo è raccomandato per ottenere migliori prestazioni.
+Apre e stampa un grande flusso Pdf con le impostazioni della stampante specificate. Se il tuo file Pdf ha centinaia di pagine o più o la sua dimensione supera i 3 MB, questo metodo è consigliato per ottenere migliori prestazioni.
 
 ```csharp
 public void PrintLargePdf(Stream inputStream, PrinterSettings printerSettings)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputStream | Stream | Il flusso pdf da aprire e stampare. |
-| printerSettings | PrinterSettings | Le impostazioni della stampante. |
+| inputStream | Stream | Le impostazioni della stampante. |
+| printerSettings | PrinterSettings | Questo metodo integra l'apertura e la stampa del file e non è necessario chiamare esplicitamente BindPdf(). |
 
-## Remarks
+## Osservazioni
 
-Questo metodo integra l'apertura e la stampa del file e non è necessario chiamare esplicitamente il BindPdf().
+Le impostazioni della pagina.
 
-## Examples
+## Esempi
 
 ```csharp
 [C#]
@@ -189,7 +189,7 @@ iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\middleware.pdf")),ps
 iewer.Close()
 ```
 
-### See Also
+### Vedi anche
 
 * class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
 * class [PdfViewer](../)
@@ -200,24 +200,24 @@ iewer.Close()
 
 ## PrintLargePdf(string, PageSettings, PrinterSettings) {#printlargepdf_4}
 
-Apre e stampa un file Pdf di grandi dimensioni con impostazioni di pagina e impostazioni della stampante specificate. Se il tuo file Pdf ha centinaia di pagine o più o la sua dimensione è superiore a 3 MB, questo metodo è raccomandato per ottenere migliori prestazioni.
+Apre e stampa un grande file Pdf con le impostazioni della pagina e della stampante specificate. Se il tuo file Pdf ha centinaia di pagine o più o la sua dimensione supera i 3 MB, questo metodo è consigliato per ottenere migliori prestazioni.
 
 ```csharp
 public void PrintLargePdf(string filePath, PageSettings pageSettings, 
     PrinterSettings printerSettings)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| filePath | String | Il percorso del file Pdf. |
-| pageSettings | PageSettings | Le impostazioni di pagina. |
-| printerSettings | PrinterSettings | Le impostazioni della stampante. |
+| filePath | String | Questo metodo integra l'apertura e la stampa del file e non è necessario chiamare esplicitamente BindPdf(). |
+| pageSettings | PageSettings | PdfViewer.UseIntermidiateImage |
+| printerSettings | PrinterSettings | Questo metodo integra l'apertura e la stampa del file e non è necessario chiamare esplicitamente BindPdf(). |
 
-## Remarks
+## Osservazioni
 
-Questo metodo integra l'apertura e la stampa del file e non è necessario chiamare esplicitamente il BindPdf().
+Il flusso pdf da aprire e stampare.
 
-## Examples
+## Esempi
 
 ```csharp
 [C#]
@@ -249,7 +249,7 @@ iewer.PrintLargePdf(@"d:\test.pdf",pgs,ps)
 iewer.Close()
 ```
 
-### See Also
+### Vedi anche
 
 * class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
 * class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
@@ -261,24 +261,24 @@ iewer.Close()
 
 ## PrintLargePdf(Stream, PageSettings, PrinterSettings) {#printlargepdf_1}
 
-Apre e stampa un flusso Pdf di grandi dimensioni con impostazioni di pagina e impostazioni della stampante specificate. Se il tuo file Pdf ha centinaia di pagine o più o la sua dimensione è superiore a 3 MB, questo metodo è raccomandato per ottenere migliori prestazioni.
+Apre e stampa un grande flusso Pdf con le impostazioni della pagina e della stampante specificate. Se il tuo file Pdf ha centinaia di pagine o più o la sua dimensione supera i 3 MB, questo metodo è consigliato per ottenere migliori prestazioni.
 
 ```csharp
 public void PrintLargePdf(Stream inputStream, PageSettings pageSettings, 
     PrinterSettings printerSettings)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputStream | Stream | Il flusso pdf da aprire e stampare. |
-| pageSettings | PageSettings | Le impostazioni di pagina. |
-| printerSettings | PrinterSettings | Le impostazioni della stampante. |
+| inputStream | Stream | Le impostazioni della stampante. |
+| pageSettings | PageSettings | PdfViewer.UseIntermidiateImage |
+| printerSettings | PrinterSettings | Questo metodo integra l'apertura e la stampa del file e non è necessario chiamare esplicitamente BindPdf(). |
 
-## Remarks
+## Osservazioni
 
-Questo metodo integra l'apertura e la stampa del file e non è necessario chiamare esplicitamente il BindPdf().
+Il flusso pdf da aprire e stampare.
 
-## Examples
+## Esempi
 
 ```csharp
 [C#]
@@ -310,10 +310,12 @@ iewer.PrintLargePdf(new MemoryStream(File.ReadAllBytes(@"d:\middleware.pdf")),pg
 iewer.Close()
 ```
 
-### See Also
+### Vedi anche
 
 * class [PageSettings](../../../aspose.pdf.printing/pagesettings/)
 * class [PrinterSettings](../../../aspose.pdf.printing/printersettings/)
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: ThreadCreateRequest.Messages
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ThreadCreateRequest. Ottiene o imposta un elenco di messaggi per avviare il thread con
+title: "ThreadCreateRequest.Messages"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ThreadCreateRequest. Ottiene o imposta un elenco di messaggi con cui avviare il thread"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.ai/threadcreaterequest/messages/
 ---
-## Proprietà ThreadCreateRequest.Messages
+## ThreadCreateRequest.Messages property
 
-Ottiene o imposta un elenco di messaggi per avviare il thread con.
+Ottiene o imposta un elenco di messaggi con cui avviare il thread.
 
 ```csharp
 public List<ThreadMessageCreateRequest> Messages { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ThreadMessageCreateRequest](../../threadmessagecreaterequest/)
-* classe [ThreadCreateRequest](../)
+* class [ThreadMessageCreateRequest](../../threadmessagecreaterequest/)
+* class [ThreadCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

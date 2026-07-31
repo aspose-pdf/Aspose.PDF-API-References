@@ -1,12 +1,12 @@
 ---
-title: FooterArtifact.FooterArtifact
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di FooterArtifact. Crea un'istanza di Footer Artifact
+title: "FooterArtifact.FooterArtifact"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore FooterArtifact. Crea un'istanza di Footer Artifact"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/footerartifact/footerartifact/
 ---
-## Costruttore di FooterArtifact
+## FooterArtifact constructor
 
 Crea un'istanza di Footer Artifact.
 
@@ -14,8 +14,10 @@ Crea un'istanza di Footer Artifact.
 public FooterArtifact()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FooterArtifact](../)
+* class [FooterArtifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class PDF3DArtwork
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.PDF3DArtwork. Classe PDF3DArtwork
+title: "Classe PDF3DArtwork"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Annotations.PDF3DArtwork class. Classe PDF3DArtwork"
 type: docs
-weight: 2160
+weight: 2250
 url: /it/net/aspose.pdf.annotations/pdf3dartwork/
 ---
-## Classe PDF3DArtwork
+## PDF3DArtwork class
 
 Classe PDF3DArtwork.
 
@@ -27,16 +27,18 @@ public class PDF3DArtwork
 | --- | --- |
 | [LightingScheme](../../aspose.pdf.annotations/pdf3dartwork/lightingscheme/) { get; set; } | Ottiene o imposta lo schema di illuminazione. |
 | [RenderMode](../../aspose.pdf.annotations/pdf3dartwork/rendermode/) { get; set; } | Ottiene o imposta la modalità di rendering. |
-| [ViewArray](../../aspose.pdf.annotations/pdf3dartwork/viewarray/) { get; } | Ottiene l'array delle viste. |
+| [ViewArray](../../aspose.pdf.annotations/pdf3dartwork/viewarray/) { get; } | Ottiene l'array di visualizzazione. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
 | [GetViewsArray](../../aspose.pdf.annotations/pdf3dartwork/getviewsarray/)() | Ottiene l'array delle viste. |
-| [GetViewsList](../../aspose.pdf.annotations/pdf3dartwork/getviewslist/)() | Ottiene le viste come lista. |
+| [GetViewsList](../../aspose.pdf.annotations/pdf3dartwork/getviewslist/)() | Ottieni le viste come elenco. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

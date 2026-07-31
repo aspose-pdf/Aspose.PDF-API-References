@@ -1,21 +1,23 @@
 ---
-title: Dash.Pattern
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Dash. Ottiene l'array di dash che definisce un modello di linee tratteggiate e spazi che devono essere utilizzati per disegnare un bordo tratteggiato
+title: "Dash.Pattern"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Dash. Restituisce l'array di trattini che definisce un modello di trattini e spazi da utilizzare nel disegno di un bordo tratteggiato"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.annotations/dash/pattern/
 ---
-## Proprietà Dash.Pattern
+## Dash.Pattern property
 
-Ottiene l'array di dash che definisce un modello di linee tratteggiate e spazi che devono essere utilizzati per disegnare un bordo tratteggiato.
+Restituisce l'array di trattini che definisce un modello di trattini e spazi da utilizzare per disegnare un bordo tratteggiato.
 
 ```csharp
 public int[] Pattern { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Dash](../)
+* class [Dash](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

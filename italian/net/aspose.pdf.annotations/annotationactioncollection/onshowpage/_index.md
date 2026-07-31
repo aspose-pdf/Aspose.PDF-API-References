@@ -1,12 +1,12 @@
 ---
-title: AnnotationActionCollection.OnShowPage
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà AnnotationActionCollection. Ottiene o imposta un'azione da eseguire quando la pagina contenente l'annotazione diventa visibile nell'interfaccia utente dell'applicazione visualizzatore
+title: "AnnotationActionCollection.OnShowPage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà AnnotationActionCollection. Ottiene o imposta un'azione da eseguire quando la pagina contenente l'annotazione diventa visibile nell'interfaccia utente dell'applicazione visualizzatore"
 type: docs
 weight: 130
 url: /it/net/aspose.pdf.annotations/annotationactioncollection/onshowpage/
 ---
-## Proprietà AnnotationActionCollection.OnShowPage
+## AnnotationActionCollection.OnShowPage property
 
 Ottiene o imposta un'azione da eseguire quando la pagina contenente l'annotazione diventa visibile nell'interfaccia utente dell'applicazione visualizzatore.
 
@@ -14,9 +14,11 @@ Ottiene o imposta un'azione da eseguire quando la pagina contenente l'annotazion
 public PdfAction OnShowPage { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfAction](../../pdfaction/)
-* classe [AnnotationActionCollection](../)
+* class [PdfAction](../../pdfaction/)
+* class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

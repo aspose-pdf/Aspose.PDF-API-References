@@ -1,14 +1,14 @@
 ---
-title: Form.HasField
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Form. Controlla se il modulo ha già il campo specificato
+title: "Form.HasField"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Form. Verifica se il modulo ha già il campo specificato."
 type: docs
-weight: 280
+weight: 300
 url: /it/net/aspose.pdf.forms/form/hasfield/
 ---
 ## HasField(Field) {#hasfield}
 
-Controlla se il modulo ha già il campo specificato.
+Verifica se il modulo ha già il campo specificato.
 
 ```csharp
 public bool HasField(Field field)
@@ -16,16 +16,16 @@ public bool HasField(Field field)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| field | Field | Campo da controllare. |
+| campo | Campo | Campo da controllare. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-`true` se il nome del campo specificato è stato aggiunto al modulo; altrimenti, `false`.
+`true` se il nome del campo specificato è stato aggiunto al Form; altrimenti, `false`.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Field](../../field/)
-* classe [Form](../)
+* class [Field](../../field/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -43,13 +43,13 @@ public bool HasField(string fieldName)
 | --- | --- | --- |
 | fieldName | String | [`PartialName`](../../field/partialname/) o [`FullName`](../../../aspose.pdf.annotations/annotation/fullname/) del campo. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-`true` se il nome del campo specificato è stato aggiunto al modulo; altrimenti, `false`.
+`true` se il nome del campo specificato è stato aggiunto al Form; altrimenti, `false`.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -57,7 +57,7 @@ public bool HasField(string fieldName)
 
 ## HasField(string, bool) {#hasfield_2}
 
-Determina se il campo con il nome specificato è già stato aggiunto al modulo, con la possibilità di cercare nella gerarchia dei campi figli.
+Determina se il campo con il nome specificato è già stato aggiunto al modulo, con la possibilità di esaminare la gerarchia dei campi figli.
 
 ```csharp
 public bool HasField(string fieldName, bool searchChildren)
@@ -66,14 +66,16 @@ public bool HasField(string fieldName, bool searchChildren)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | fieldName | String | [`PartialName`](../../field/partialname/) o [`FullName`](../../../aspose.pdf.annotations/annotation/fullname/) del campo. |
-| searchChildren | Boolean | Quando impostato su `true`, verrà cercata l'intera gerarchia dei campi del modulo per il *fieldName* richiesto (nota che in questo caso il [`FullName`](../../../aspose.pdf.annotations/annotation/fullname/) del campo richiesto deve essere passato come *fieldName*). |
+| searchChildren | Boolean | Quando impostato a `true` l'intera gerarchia dei campi del modulo verrà cercata per il *fieldName* richiesto (nota che in questo caso il [`FullName`](../../../aspose.pdf.annotations/annotation/fullname/) del campo richiesto dovrebbe essere passato come *fieldName*). |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-`true` se il nome del campo specificato è stato aggiunto al modulo; altrimenti, `false`.
+`true` se il nome del campo specificato è stato aggiunto al Form; altrimenti, `false`.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

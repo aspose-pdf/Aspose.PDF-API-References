@@ -1,12 +1,12 @@
 ---
-title: Class BaseActionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.BaseActionCollection. La classe incapsula azioni di base con azioni interattive di pagina/annotazione/campo
+title: "Classe BaseActionCollection"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.BaseActionCollection class. La classe incapsula azioni di base con azioni interattive di pagina/annotazione/campo"
 type: docs
-weight: 2820
+weight: 2930
 url: /it/net/aspose.pdf/baseactioncollection/
 ---
-## Classe BaseActionCollection
+## BaseActionCollection class
 
 La classe incapsula azioni di base con azioni interattive di pagina/annotazione/campo
 
@@ -20,7 +20,9 @@ public abstract class BaseActionCollection
 | --- | --- |
 | [RemoveActions](../../aspose.pdf/baseactioncollection/removeactions/)() | Rimuove tutte le azioni dell'annotazione. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

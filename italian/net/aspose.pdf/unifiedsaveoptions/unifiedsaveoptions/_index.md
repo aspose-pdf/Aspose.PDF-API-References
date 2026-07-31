@@ -1,12 +1,12 @@
 ---
-title: UnifiedSaveOptions.UnifiedSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di UnifiedSaveOptions. Il costruttore predefinito
+title: "UnifiedSaveOptions.UnifiedSaveOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore UnifiedSaveOptions. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/unifiedsaveoptions/unifiedsaveoptions/
 ---
-## Costruttore di UnifiedSaveOptions
+## UnifiedSaveOptions constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public UnifiedSaveOptions()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [UnifiedSaveOptions](../)
+* class [UnifiedSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

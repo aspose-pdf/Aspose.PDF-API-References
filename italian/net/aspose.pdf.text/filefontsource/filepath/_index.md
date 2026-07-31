@@ -1,21 +1,23 @@
 ---
-title: FileFontSource.FilePath
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FileFontSource. Percorso del file del font
+title: "FileFontSource.FilePath"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FileFontSource. Percorso al file font"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.text/filefontsource/filepath/
 ---
-## Proprietà FileFontSource.FilePath
+## FileFontSource.FilePath property
 
-Percorso del file del font.
+Percorso al file del font.
 
 ```csharp
 public string FilePath { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FileFontSource](../)
+* class [FileFontSource](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

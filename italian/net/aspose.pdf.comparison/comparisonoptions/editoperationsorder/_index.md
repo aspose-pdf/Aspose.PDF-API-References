@@ -1,12 +1,12 @@
 ---
-title: ComparisonOptions.EditOperationsOrder
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ComparisonOptions. Permette di ottenere e impostare l'ordine delle operazioni di modifica.
+title: "ComparisonOptions.EditOperationsOrder"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ComparisonOptions. Ottiene e imposta l'ordine delle operazioni di modifica"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.comparison/comparisonoptions/editoperationsorder/
 ---
-## Proprietà ComparisonOptions.EditOperationsOrder
+## ComparisonOptions.EditOperationsOrder property
 
 Ottiene e imposta l'ordine delle operazioni di modifica.
 
@@ -14,9 +14,11 @@ Ottiene e imposta l'ordine delle operazioni di modifica.
 public EditOperationsOrder EditOperationsOrder { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [EditOperationsOrder](../../editoperationsorder/)
 * class [ComparisonOptions](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

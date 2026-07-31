@@ -1,9 +1,9 @@
 ---
-title: Class BoundsCheckableListT
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.BoundsCheckableList1T class. Represents BoundsCheckableList  wrapper around System.Collections.Generic.List
+title: "Classe BoundsCheckableListT"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.BoundsCheckableList1T. Rappresenta BoundsCheckableList wrapper attorno a System.Collections.Generic.List"
 type: docs
-weight: 2930
+weight: 3040
 url: /it/net/aspose.pdf/boundscheckablelist-1/
 ---
 ## BoundsCheckableList&lt;T&gt; class
@@ -26,15 +26,15 @@ public class BoundsCheckableList<T> : IList<T>
 
 | Nome | Descrizione |
 | --- | --- |
-| [Count](../../aspose.pdf/boundscheckablelist-1/count/) { get; } | Ottiene il numero di elementi contenuti nella System.Collections.Generic.List. |
-| [IsReadOnly](../../aspose.pdf/boundscheckablelist-1/isreadonly/) { get; } | Ottiene il valore che indica se la collezione è di sola lettura. |
-| [Item](../../aspose.pdf/boundscheckablelist-1/item/) { get; set; } | Ottiene o imposta il paragrafo dalla o alla collezione. |
+| [Count](../../aspose.pdf/boundscheckablelist-1/count/) { get; } | Restituisce il numero di elementi contenuti nella System.Collections.Generic.List. |
+| [IsReadOnly](../../aspose.pdf/boundscheckablelist-1/isreadonly/) { get; } | Restituisce il valore che indica se la collezione è di sola lettura. |
+| [Item](../../aspose.pdf/boundscheckablelist-1/item/) { get; set; } | Ottiene o imposta il paragrafo da o verso la collezione. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [Add](../../aspose.pdf/boundscheckablelist-1/add/)(T) | Aggiunge un oggetto alla fine della System.Collections.Generic.List a seconda del parametro "boundsCheckMode". |
+| [Add](../../aspose.pdf/boundscheckablelist-1/add/)(T) | Aggiunge un oggetto alla fine della System.Collections.Generic.List in base al parametro "boundsCheckMode". |
 | [Clear](../../aspose.pdf/boundscheckablelist-1/clear/)() | Rimuove tutti gli elementi dalla System.Collections.Generic.List. |
 | [Contains](../../aspose.pdf/boundscheckablelist-1/contains/)(T) | Determina se un elemento è presente nella System.Collections.Generic.List. |
 | [CopyTo](../../aspose.pdf/boundscheckablelist-1/copyto/)(T[], int) |  |
@@ -46,8 +46,10 @@ public class BoundsCheckableList<T> : IList<T>
 | [UpdateBoundsCheckMode](../../aspose.pdf/boundscheckablelist-1/updateboundscheckmode/#updateboundscheckmode)(BoundsCheckMode) | Aggiorna il parametro boundsCheckMode per la collezione inizializzata. |
 | [UpdateBoundsCheckMode](../../aspose.pdf/boundscheckablelist-1/updateboundscheckmode/#updateboundscheckmode_1)(BoundsCheckMode, double, double) | Aggiorna il parametro boundsCheckMode per la collezione inizializzata. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IBoundsCheckableItem](../iboundscheckableitem/)
+* interface [IBoundsCheckableItem](../iboundscheckableitem/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

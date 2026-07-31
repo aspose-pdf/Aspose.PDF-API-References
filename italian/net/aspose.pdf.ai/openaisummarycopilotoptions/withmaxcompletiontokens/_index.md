@@ -1,14 +1,14 @@
 ---
-title: OpenAISummaryCopilotOptions.WithMaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAISummaryCopilotOptions. Imposta i token di completamento massimi per le opzioni del copilot di sintesi
+title: "OpenAISummaryCopilotOptions.WithMaxCompletionTokens"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OpenAISummaryCopilotOptions metodo. Imposta il numero massimo di token di completamento per le opzioni del copilota di riepilogo"
 type: docs
-weight: 90
+weight: 100
 url: /it/net/aspose.pdf.ai/openaisummarycopilotoptions/withmaxcompletiontokens/
 ---
-## Metodo OpenAISummaryCopilotOptions.WithMaxCompletionTokens
+## OpenAISummaryCopilotOptions.WithMaxCompletionTokens method
 
-Imposta i token di completamento massimi per le opzioni del copilot di sintesi.
+Imposta il numero massimo di token di completamento per le opzioni del copilot di riepilogo.
 
 ```csharp
 public OpenAISummaryCopilotOptions WithMaxCompletionTokens(int? maxCompletionTokens)
@@ -24,6 +24,8 @@ L'istanza corrente di [`OpenAISummaryCopilotOptions`](../).
 
 ### Vedi anche
 
-* classe [OpenAISummaryCopilotOptions](../)
+* class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

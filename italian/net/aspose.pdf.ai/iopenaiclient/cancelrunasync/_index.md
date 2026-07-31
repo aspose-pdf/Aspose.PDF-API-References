@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.CancelRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo IOpenAIClient. Annulla un'esecuzione esistente all'interno di un thread in modo asincrono
+title: "IOpenAIClient.CancelRunAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo IOpenAIClient. Annulla un'esecuzione esistente all'interno di un thread in modo asincrono"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/iopenaiclient/cancelrunasync/
 ---
-## Metodo IOpenAIClient.CancelRunAsync
+## IOpenAIClient.CancelRunAsync method
 
-Annulla un'esecuzione esistente all'interno di un thread in modo asincrono.
+Annulla in modo asincrono un'esecuzione esistente all'interno di un thread.
 
 ```csharp
 public Task<RunResponse> CancelRunAsync(string threadId, string runId, 
@@ -17,24 +17,26 @@ public Task<RunResponse> CancelRunAsync(string threadId, string runId,
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| threadId | String | L'ID del thread contenente l'esecuzione da annullare. |
-| runId | String | L'ID dell'esecuzione da annullare. |
+| threadId | String | L'ID del thread che contiene il run da annullare. |
+| runId | String | L'ID del run da annullare. |
 | cancellationToken | Nullable`1 | Un token per annullare l'operazione. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività contiene la risposta dall'annullamento dell'esecuzione.
+Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività contiene la risposta dalla cancellazione del run.
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID del thread è nullo o vuoto. |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID dell'esecuzione è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generato quando l'ID del thread è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generata quando l'ID dell'esecuzione è nullo o vuoto. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RunResponse](../../runresponse/)
-* interfaccia [IOpenAIClient](../)
+* class [RunResponse](../../runresponse/)
+* interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

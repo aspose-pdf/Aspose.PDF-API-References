@@ -1,21 +1,23 @@
 ---
-title: TextSearchOptions.LogTextExtractionErrors
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextSearchOptions. Ottiene o imposta l'indicazione che gli errori di decodifica dell'estrazione del testo saranno registrati nell'assorbitore di frammenti di testo. true significa che gli errori di decodifica dell'estrazione del testo saranno registrati. Potrebbe ridurre le prestazioni. false predefinito nessuna registrazione degli errori
+title: "TextSearchOptions.LogTextExtractionErrors"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextSearchOptions. Ottiene o imposta l'indicazione che gli errori di decodifica dell'estrazione del testo saranno registrati nel text fragment absorber. true  significa che gli errori di decodifica dell'estrazione del testo saranno registrati. Potrebbe ridurre le prestazioni. false  valore predefinito  nessuna registrazione degli errori"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.text/textsearchoptions/logtextextractionerrors/
 ---
-## Proprietà TextSearchOptions.LogTextExtractionErrors
+## TextSearchOptions.LogTextExtractionErrors property
 
-Ottiene o imposta l'indicazione che gli errori di estrazione (decodifica) del testo saranno registrati nell'assorbitore di testo (frammento). true - significa che gli errori di estrazione (decodifica) del testo saranno registrati. Potrebbe ridurre le prestazioni. false (predefinito) - nessuna registrazione degli errori.
+Ottiene o imposta l'indicazione che gli errori di estrazione del testo (decodifica) saranno registrati nell'assorbitore di testo (frammento). true - indica che gli errori di estrazione del testo (decodifica) saranno registrati. Può ridurre le prestazioni. false (predefinito) - nessuna registrazione degli errori.
 
 ```csharp
 public bool LogTextExtractionErrors { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextSearchOptions](../)
+* class [TextSearchOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.StartIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeKey. Attributo StartIndent Proprietario dell'attributo Layout
+title: "AttributeKey.StartIndent"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "campo AttributeKey. attributo StartIndent attributo Layout proprietario"
 type: docs
 weight: 310
 url: /it/net/aspose.pdf.logicalstructure/attributekey/startindent/
 ---
-## Campo AttributeKey.StartIndent
+## AttributeKey.StartIndent field
 
-Attributo StartIndent (Proprietario dell'attributo Layout).
+Attributo StartIndent (proprietario dell'attributo del layout).
 
 ```csharp
 public static readonly AttributeKey StartIndent;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

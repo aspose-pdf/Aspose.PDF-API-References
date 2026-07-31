@@ -1,12 +1,12 @@
 ---
-title: Measure.NumberFormat.FractionDisplayment
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà NumberFormat. In che modo i valori frazionari vengono visualizzati
+title: "Measure.NumberFormat.FractionDisplayment"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà NumberFormat. Il modo in cui i valori frazionari vengono visualizzati"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.annotations/measure.numberformat/fractiondisplayment/
 ---
-## Proprietà Measure.NumberFormat.FractionDisplayment
+## Measure.NumberFormat.FractionDisplayment property
 
 In che modo i valori frazionari vengono visualizzati.
 
@@ -14,9 +14,11 @@ In che modo i valori frazionari vengono visualizzati.
 public FractionStyle FractionDisplayment { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [FractionStyle](../../measure.numberformat.fractionstyle/)
 * class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

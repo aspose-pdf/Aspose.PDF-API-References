@@ -1,21 +1,23 @@
 ---
-title: SignatureCustomAppearance.DigitalSignedLabel
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SignatureCustomAppearance. Ottiene/imposta l'etichetta firmata digitalmente. Valore predefinito Firmato digitalmente da
+title: "SignatureCustomAppearance.DigitalSignedLabel"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SignatureCustomAppearance. Ottiene/imposta l'etichetta della firma digitale. Valore predefinito Digitally signed by"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.forms/signaturecustomappearance/digitalsignedlabel/
 ---
-## Proprietà SignatureCustomAppearance.DigitalSignedLabel
+## SignatureCustomAppearance.DigitalSignedLabel property
 
-Ottiene/imposta l'etichetta firmata digitalmente. Valore predefinito: "Firmato digitalmente da".
+Ottiene/imposta l'etichetta di firma digitale. Valore predefinito: "Digitally signed by".
 
 ```csharp
 public string DigitalSignedLabel { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SignatureCustomAppearance](../)
+* class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

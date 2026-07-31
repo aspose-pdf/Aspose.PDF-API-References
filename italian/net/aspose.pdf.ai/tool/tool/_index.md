@@ -1,7 +1,7 @@
 ---
-title: Tool.Tool
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di Tool. Inizializza una nuova istanza della classe Tool
+title: "Tool.Tool"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore Tool. Inizializza una nuova istanza della classe Tool"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/tool/tool/
@@ -14,9 +14,9 @@ Inizializza una nuova istanza della classe [`Tool`](../).
 public Tool()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Tool](../)
+* class [Tool](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public Tool()
 
 ## Tool(string) {#constructor_2}
 
-Inizializza una nuova istanza della classe [`Tool`](../) con il tipo di strumento specificato.
+Inizializza una nuova istanza della classe [`Tool`](../) con il tipo di tool specificato.
 
 ```csharp
 public Tool(string toolType)
@@ -32,11 +32,11 @@ public Tool(string toolType)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| toolType | String | Il tipo dello strumento. |
+| toolType | String | Il tipo del tool. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Tool](../)
+* class [Tool](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -52,11 +52,13 @@ public Tool(Function function)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| function | Function | La funzione che il modello può chiamare. |
+| function | Funzione | La funzione che il modello può chiamare. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Function](../../function/)
-* classe [Tool](../)
+* class [Function](../../function/)
+* class [Tool](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

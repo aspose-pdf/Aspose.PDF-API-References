@@ -1,12 +1,12 @@
 ---
-title: ThreadMessageResponse.Content
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ThreadMessageResponse. Ottiene o imposta il contenuto del messaggio in un array di testo e/o immagini
+title: "ThreadMessageResponse.Content"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ThreadMessageResponse. Ottiene o imposta il contenuto del messaggio in un array di testo e/o immagini."
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.ai/threadmessageresponse/content/
 ---
-## Proprietà ThreadMessageResponse.Content
+## ThreadMessageResponse.Content property
 
 Ottiene o imposta il contenuto del messaggio in un array di testo e/o immagini.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il contenuto del messaggio in un array di testo e/o immagini.
 public List<MessageContentResponse> Content { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MessageContentResponse](../../messagecontentresponse/)
-* classe [ThreadMessageResponse](../)
+* class [MessageContentResponse](../../messagecontentresponse/)
+* class [ThreadMessageResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

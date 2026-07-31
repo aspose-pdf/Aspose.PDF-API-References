@@ -1,21 +1,23 @@
 ---
-title: CgmImportOptions.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà CgmImportOptions. Ottiene o imposta la dimensione della pagina di output per l'importazione. Dimensione della pagina predefinita - A4 300dpi 2480 X 3508
+title: "CgmImportOptions.PageSize"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà CgmImportOptions. Ottiene o imposta la dimensione della pagina di output per l'importazione. Dimensione predefinita della pagina A4 300dpi 2480 X 3508"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/cgmimportoptions/pagesize/
 ---
-## Proprietà CgmImportOptions.PageSize
+## CgmImportOptions.PageSize property
 
-Ottiene o imposta la dimensione della pagina di output per l'importazione. Dimensione della pagina predefinita - A4 300dpi 2480 X 3508.
+Ottiene o imposta la dimensione della pagina di output per l'importazione. Dimensione predefinita della pagina - A4 300dpi 2480 x 3508.
 
 ```csharp
 public SizeF PageSize { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CgmImportOptions](../)
+* class [CgmImportOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

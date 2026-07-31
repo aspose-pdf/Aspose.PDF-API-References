@@ -1,21 +1,23 @@
 ---
-title: FormDataConverter.ReplaceExistingTable
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FormDataConverter. ImportIntoDatabase eliminerà la tabella esistente e creerà una nuova tabella se questa proprietà è impostata su true
+title: "FormDataConverter.ReplaceExistingTable"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FormDataConverter. ImportIntoDatabase eliminerà la tabella esistente e ne creerà una nuova se questa proprietà è impostata su true"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.facades/formdataconverter/replaceexistingtable/
 ---
-## Proprietà FormDataConverter.ReplaceExistingTable
+## FormDataConverter.ReplaceExistingTable property
 
-ImportIntoDatabase eliminerà la tabella esistente e creerà una nuova tabella se questa proprietà è impostata su true.
+ImportIntoDatabase eliminerà la table esistente e ne creerà una nuova se questa proprietà è impostata su true.
 
 ```csharp
 public bool ReplaceExistingTable { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormDataConverter](../)
+* class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilot.OpenAIChatCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di OpenAIChatCopilot. Inizializza una nuova istanza della classe OpenAIChatCopilot con il client e le opzioni specificate
+title: "OpenAIChatCopilot.OpenAIChatCopilot"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore OpenAIChatCopilot. Inizializza una nuova istanza della classe OpenAIChatCopilot con il client e le opzioni specificati."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/openaichatcopilot/openaichatcopilot/
 ---
-## Costruttore di OpenAIChatCopilot
+## OpenAIChatCopilot constructor
 
-Inizializza una nuova istanza della classe [`OpenAIChatCopilot`](../) con il client e le opzioni specificate.
+Inizializza una nuova istanza della classe [`OpenAIChatCopilot`](../) con il client e le opzioni specificati.
 
 ```csharp
 public OpenAIChatCopilot(IOpenAIClient client, 
@@ -18,13 +18,15 @@ public OpenAIChatCopilot(IOpenAIClient client,
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | client | IOpenAIClient | Il client OpenAI utilizzato per la comunicazione. |
-| options | IChatCopilotOptions`1 | Le opzioni del chat copilot. |
+| options | IChatCopilotOptions`1 | Le opzioni del copilot della chat. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IOpenAIClient](../../iopenaiclient/)
-* interfaccia [IChatCopilotOptions&lt;TOptions&gt;](../../ichatcopilotoptions-1/)
-* classe [OpenAIChatCopilotOptions](../../openaichatcopilotoptions/)
-* classe [OpenAIChatCopilot](../)
+* interface [IOpenAIClient](../../iopenaiclient/)
+* interface [IChatCopilotOptions&lt;TOptions&gt;](../../ichatcopilotoptions-1/)
+* class [OpenAIChatCopilotOptions](../../openaichatcopilotoptions/)
+* class [OpenAIChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

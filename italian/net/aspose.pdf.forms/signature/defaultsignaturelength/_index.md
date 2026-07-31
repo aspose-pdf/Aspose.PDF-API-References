@@ -1,12 +1,12 @@
 ---
-title: Signature.DefaultSignatureLength
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della firma. Ottiene o imposta la lunghezza predefinita per i dati della firma in byte
+title: "Signature.DefaultSignatureLength"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Signature. Ottiene o imposta la lunghezza predefinita per i dati della firma in byte"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.forms/signature/defaultsignaturelength/
 ---
-## Proprietà Signature.DefaultSignatureLength
+## Signature.DefaultSignatureLength property
 
 Ottiene o imposta la lunghezza predefinita per i dati della firma in byte.
 
@@ -16,10 +16,12 @@ public int DefaultSignatureLength { get; set; }
 
 ## Osservazioni
 
-Questa è una stima della lunghezza della firma in byte. Utilizzato per la firma tramite [`CustomSignHash`](../customsignhash/) se il parametro [`AvoidEstimatingSignatureLength`](../avoidestimatingsignaturelength/) è impostato. Il valore predefinito è 3000.
+Questa è una stima della lunghezza della firma in byte. Utilizzata per la firma tramite [`CustomSignHash`](../customsignhash/) se il parametro [`AvoidEstimatingSignatureLength`](../avoidestimatingsignaturelength/) è impostato. Il valore predefinito è 3000.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Signature](../)
+* class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

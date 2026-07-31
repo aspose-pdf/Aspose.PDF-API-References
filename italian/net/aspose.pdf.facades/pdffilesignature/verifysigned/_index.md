@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.VerifySigned
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfFileSignature. Controlla la validità di una firma
+title: "PdfFileSignature.VerifySigned"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfFileSignature. Verifica la validità di una firma."
 type: docs
 weight: 310
 url: /it/net/aspose.pdf.facades/pdffilesignature/verifysigned/
 ---
-## Metodo PdfFileSignature.VerifySigned
+## PdfFileSignature.VerifySigned method
 
-Controlla la validità di una firma.
+Verifica la validità di una firma.
 
 ```csharp
 public bool VerifySigned(string signName)
@@ -24,6 +24,8 @@ Restituisce un risultato di tipo bool.
 
 ### Vedi anche
 
-* classe [PdfFileSignature](../)
+* class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

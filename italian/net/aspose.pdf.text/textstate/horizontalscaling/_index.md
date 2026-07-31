@@ -1,12 +1,12 @@
 ---
-title: TextState.HorizontalScaling
-second_title: Aspose.PDF for .NET API Reference
-description: TextState property. Gets or sets horizontal scaling of the text
+title: "TextState.HorizontalScaling"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextState. Ottiene o imposta la scala orizzontale del testo."
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.text/textstate/horizontalscaling/
 ---
-## Proprietà TextState.HorizontalScaling
+## TextState.HorizontalScaling property
 
 Ottiene o imposta la scala orizzontale del testo.
 
@@ -14,8 +14,10 @@ Ottiene o imposta la scala orizzontale del testo.
 public virtual float HorizontalScaling { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextState](../)
+* class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TextPdfComparer.ComparePages
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TextPdfComparer. Confronta le pagine del documento
+title: "TextPdfComparer.ComparePages"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TextPdfComparer. Confronta le pagine del documento"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.comparison/textpdfcomparer/comparepages/
 ---
-## Metodo TextPdfComparer.ComparePages
+## TextPdfComparer.ComparePages method
 
 Confronta le pagine del documento.
 
@@ -20,15 +20,17 @@ public static List<DiffOperation> ComparePages(Page page1, Page page2, Compariso
 | page2 | Page | Seconda pagina. |
 | options | ComparisonOptions | Opzioni di confronto. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 L'elenco delle modifiche.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DiffOperation](../../diffoperation/)
-* classe [Page](../../../aspose.pdf/page/)
-* classe [ComparisonOptions](../../comparisonoptions/)
-* classe [TextPdfComparer](../)
+* class [DiffOperation](../../diffoperation/)
+* class [Page](../../../aspose.pdf/page/)
+* class [ComparisonOptions](../../comparisonoptions/)
+* class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

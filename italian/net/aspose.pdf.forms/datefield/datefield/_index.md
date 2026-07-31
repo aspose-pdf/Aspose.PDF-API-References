@@ -1,7 +1,7 @@
 ---
-title: DateField.DateField
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di DateField. Inizializza una nuova istanza dell'DateField.
+title: "DateField.DateField"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore DateField. Inizializza una nuova istanza di DateField"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.forms/datefield/datefield/
@@ -14,9 +14,9 @@ Inizializza una nuova istanza di [`DateField`](../)
 public DateField()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DateField](../)
+* class [DateField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public DateField()
 
 ## DateField(Document) {#constructor_1}
 
-Costruttore che dovrebbe essere utilizzato con Generator.
+Costruttore da utilizzare con Generator.
 
 ```csharp
 public DateField(Document doc)
@@ -32,12 +32,12 @@ public DateField(Document doc)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| doc | Document | Documento in cui verrà creato il campo. |
+| doc | Document | Document dove verrà creato il campo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [DateField](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [DateField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -53,14 +53,14 @@ public DateField(Page page, Rectangle rect)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | Pagina necessaria per la creazione. |
-| rect | Rectangle | Rettangolo in cui verrà posizionato il campo di testo sulla pagina. |
+| pagina | Page | Pagina necessaria per la creazione. |
+| rect | Rectangle | Rectangle in cui il campo di testo sarà posizionato sulla pagina. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [DateField](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [DateField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -76,13 +76,15 @@ public DateField(Document doc, Rectangle rect)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| doc | Document | Documento in cui verrà creato il campo. |
-| rect | Rectangle | Rettangolo del campo. |
+| doc | Document | Document dove verrà creato il campo. |
+| rect | Rectangle | Rectangle del campo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [DateField](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [DateField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

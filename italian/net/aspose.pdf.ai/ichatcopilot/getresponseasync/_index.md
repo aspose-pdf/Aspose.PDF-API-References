@@ -1,7 +1,7 @@
 ---
-title: IChatCopilot.GetResponseAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo IChatCopilot. Ottiene in modo asincrono una risposta per il messaggio fornito
+title: "IChatCopilot.GetResponseAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo di IChatCopilot. Ottiene in modo asincrono una risposta per il messaggio fornito."
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.ai/ichatcopilot/getresponseasync/
@@ -14,16 +14,16 @@ Ottiene in modo asincrono una risposta per il messaggio fornito.
 public Task<string> GetResponseAsync(string message, CancellationToken? cancellationToken = default)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| message | String | Il messaggio di input per il quale è richiesta una risposta. |
+| messaggio | String | Il messaggio di input per il quale è richiesta una risposta. |
 | cancellationToken | Nullable`1 | Il token di cancellazione (opzionale). |
 
-### Return Value
+### Valore di ritorno
 
 Un'attività che rappresenta l'operazione asincrona con la stringa di risposta.
 
-### See Also
+### Vedi anche
 
 * interface [IChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -33,24 +33,26 @@ Un'attività che rappresenta l'operazione asincrona con la stringa di risposta.
 
 ## GetResponseAsync(List&lt;string&gt;, CancellationToken?) {#getresponseasync}
 
-Ottiene in modo asincrono una risposta per l'elenco fornito di messaggi.
+Ottiene in modo asincrono una risposta per l'elenco di messaggi fornito.
 
 ```csharp
 public Task<string> GetResponseAsync(List<string> messages, 
     CancellationToken? cancellationToken = default)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| messages | List`1 | L'elenco dei messaggi di input per i quali sono richieste risposte. |
+| messaggi | List`1 | L'elenco dei messaggi di input per i quali sono richieste risposte. |
 | cancellationToken | Nullable`1 | Il token di cancellazione (opzionale). |
 
-### Return Value
+### Valore di ritorno
 
 Un'attività che rappresenta l'operazione asincrona con la stringa di risposta.
 
-### See Also
+### Vedi anche
 
 * interface [IChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

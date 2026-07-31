@@ -1,14 +1,14 @@
 ---
-title: SubmitToolOutputs.ToolCalls
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SubmitToolOutputs. Ottiene o imposta un elenco delle chiamate agli strumenti pertinenti
+title: "SubmitToolOutputs.ToolCalls"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "SubmitToolOutputs proprietà. Ottiene o imposta un elenco delle chiamate di strumenti pertinenti"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.ai/submittooloutputs/toolcalls/
 ---
-## Proprietà SubmitToolOutputs.ToolCalls
+## SubmitToolOutputs.ToolCalls property
 
-Ottiene o imposta un elenco delle chiamate agli strumenti pertinenti.
+Ottiene o imposta un elenco delle chiamate di strumenti pertinenti.
 
 ```csharp
 public List<ToolCall> ToolCalls { get; set; }
@@ -16,7 +16,9 @@ public List<ToolCall> ToolCalls { get; set; }
 
 ### Vedi anche
 
-* classe [ToolCall](../../toolcall/)
-* classe [SubmitToolOutputs](../)
+* class [ToolCall](../../toolcall/)
+* class [SubmitToolOutputs](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

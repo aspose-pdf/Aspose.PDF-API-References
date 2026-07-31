@@ -1,12 +1,12 @@
 ---
-title: Stamp.BindLogo
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Stamp. Imposta il testo come timbro
+title: "Stamp.BindLogo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Stamp. Imposta il testo come timbro"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.facades/stamp/bindlogo/
 ---
-## Metodo Stamp.BindLogo
+## Stamp.BindLogo method
 
 Imposta il testo come timbro.
 
@@ -18,9 +18,11 @@ public void BindLogo(FormattedText formattedText)
 | --- | --- | --- |
 | formattedText | FormattedText | Oggetto FormattedText che specifica il testo e le proprietà del testo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormattedText](../../formattedtext/)
-* classe [Stamp](../)
+* class [FormattedText](../../formattedtext/)
+* class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

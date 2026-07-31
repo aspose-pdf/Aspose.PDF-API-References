@@ -1,14 +1,14 @@
 ---
-title: PdfBookmarkEditor.DeleteBookmarks
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfBookmarkEditor. Elimina tutti i segnalibri del documento PDF
+title: "PdfBookmarkEditor.DeleteBookmarks"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfBookmarkEditor. Elimina tutti i segnalibri del documento PDF."
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.facades/pdfbookmarkeditor/deletebookmarks/
 ---
 ## DeleteBookmarks() {#deletebookmarks}
 
-Elimina tutti i segnalibri del documento PDF.
+Elimina tutti i segnalibri del PDF Document.
 
 ```csharp
 public void DeleteBookmarks()
@@ -23,9 +23,9 @@ editor.DeleteBookmarks();
 editor.Save("example_out.pdf");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfBookmarkEditor](../)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -33,7 +33,7 @@ editor.Save("example_out.pdf");
 
 ## DeleteBookmarks(string) {#deletebookmarks_1}
 
-Elimina il segnalibro del documento PDF.
+Elimina il segnalibro del PDF Document.
 
 ```csharp
 public void DeleteBookmarks(string title)
@@ -52,8 +52,10 @@ editor.DeleteBookmarks("existing bookmark title");
 editor.Save("example_out.pdf");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfBookmarkEditor](../)
+* class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

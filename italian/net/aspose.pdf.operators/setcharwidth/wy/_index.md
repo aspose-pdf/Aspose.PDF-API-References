@@ -1,12 +1,12 @@
 ---
-title: SetCharWidth.Wy
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SetCharWidth. Spostamento verticale della coordinata del glifo
+title: "SetCharWidth.Wy"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SetCharWidth. Spostamento verticale della coordinata del glifo"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.operators/setcharwidth/wy/
 ---
-## Proprietà SetCharWidth.Wy
+## SetCharWidth.Wy property
 
 Spostamento verticale della coordinata del glifo.
 
@@ -14,8 +14,10 @@ Spostamento verticale della coordinata del glifo.
 public double Wy { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetCharWidth](../)
+* class [SetCharWidth](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

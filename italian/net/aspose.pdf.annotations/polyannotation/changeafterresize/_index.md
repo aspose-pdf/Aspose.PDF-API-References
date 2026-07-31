@@ -1,12 +1,12 @@
 ---
-title: PolyAnnotation.ChangeAfterResize
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PolyAnnotation. Aggiorna i punti in Vertices secondo la trasformazione della matrice
+title: "PolyAnnotation.ChangeAfterResize"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PolyAnnotation. Aggiorna i punti in Vertices secondo la trasformazione della matrice"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.annotations/polyannotation/changeafterresize/
 ---
-## Metodo PolyAnnotation.ChangeAfterResize
+## PolyAnnotation.ChangeAfterResize method
 
 Aggiorna i punti in Vertices, secondo la trasformazione della matrice.
 
@@ -16,11 +16,13 @@ public override void ChangeAfterResize(Matrix transform)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| transform | Matrix | Matrice che specifica la trasformazione. |
+| trasformazione | Matrix | Matrix che specifica la trasformazione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Matrix](../../../aspose.pdf/matrix/)
-* classe [PolyAnnotation](../)
+* class [Matrix](../../../aspose.pdf/matrix/)
+* class [PolyAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

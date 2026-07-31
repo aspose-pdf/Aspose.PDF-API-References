@@ -1,12 +1,12 @@
 ---
-title: Color.Bisque
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Color. Ottiene un colore definito dal sistema che ha un valore ARGB di c FFFFE4C4
+title: "Color.Bisque"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Color. Ottiene un colore predefinito dal sistema che ha un valore ARGB di c FFFFE4C4"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf/color/bisque/
 ---
-## Proprietà Color.Bisque
+## Color.Bisque property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFFFE4C4.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFFFE4C4.
 public static Color Bisque { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un colore che rappresenta un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: PdfGeneratorOptions.Outputs
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PdfGeneratorOptions. Ottiene la collezione degli obiettivi aggiunti per i risultati dell'operazione di salvataggio
+title: "PdfGeneratorOptions.Outputs"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfGeneratorOptions proprietà. Ottiene la collezione di destinazioni aggiunte per il salvataggio dei risultati dell'operazione"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.plugins/pdfgeneratoroptions/outputs/
 ---
-## Proprietà PdfGeneratorOptions.Outputs
+## PdfGeneratorOptions.Outputs property
 
-Ottiene la collezione degli obiettivi aggiunti per i risultati dell'operazione di salvataggio.
+Ottiene la raccolta dei target aggiunti per salvare i risultati dell'operazione.
 
 ```csharp
 public List<IDataSource> Outputs { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IDataSource](../../idatasource/)
-* classe [PdfGeneratorOptions](../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfGeneratorOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

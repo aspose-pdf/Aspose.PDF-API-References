@@ -1,14 +1,14 @@
 ---
-title: Class NamedDestinationCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.NamedDestinationCollection class. Class represents the collection of all destinations a name tree mapping name strings to destinations see 12.3.2.3 Named Destinations and see 7.7.4 Name Dictionary in the pdf document
+title: "Classe NamedDestinationCollection"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.NamedDestinationCollection. La classe rappresenta la collezione di tutte le destinazioni, un albero dei nomi che mappa le stringhe dei nomi alle destinazioni; vedere 12.3.2.3 Named Destinations e 7.7.4 Name Dictionary nel documento pdf."
 type: docs
-weight: 7010
+weight: 7150
 url: /it/net/aspose.pdf/nameddestinationcollection/
 ---
-## Classe NamedDestinationCollection
+## NamedDestinationCollection class
 
-La classe rappresenta la collezione di tutte le destinazioni (un albero dei nomi che mappa le stringhe dei nomi alle destinazioni (vedere 12.3.2.3, "Destinazioni nominate") e (vedere 7.7.4, "Dizionario dei nomi")) nel documento pdf.
+La classe rappresenta la raccolta di tutte le destinazioni (un albero dei nomi che mappa le stringhe dei nomi alle destinazioni (vedi 12.3.2.3, "Named Destinations") e (vedi 7.7.4, "Name Dictionary")) nel documento pdf.
 
 ```csharp
 public class NamedDestinationCollection : INamedDestinationCollection
@@ -26,11 +26,13 @@ public class NamedDestinationCollection : INamedDestinationCollection
 
 | Nome | Descrizione |
 | --- | --- |
-| [Add](../../aspose.pdf/nameddestinationcollection/add/)(string, IAppointment) | Aggiungi una nuova destinazione nominata. |
-| [Remove](../../aspose.pdf/nameddestinationcollection/remove/)(string) | Elimina la destinazione nominata. |
+| [Add](../../aspose.pdf/nameddestinationcollection/add/)(string, IAppointment) | Aggiungi nuova destinazione denominata. |
+| [Remove](../../aspose.pdf/nameddestinationcollection/remove/)(string) | Elimina destinazione denominata. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [INamedDestinationCollection](../inameddestinationcollection/)
+* interface [INamedDestinationCollection](../inameddestinationcollection/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

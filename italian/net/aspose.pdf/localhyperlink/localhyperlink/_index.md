@@ -1,7 +1,7 @@
 ---
-title: LocalHyperlink.LocalHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di LocalHyperlink. Inizializza una nuova istanza della classe LocalHyperlink
+title: "LocalHyperlink.LocalHyperlink"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore LocalHyperlink. Inizializza una nuova istanza della classe LocalHyperlink"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/localhyperlink/localhyperlink/
@@ -14,9 +14,9 @@ Inizializza una nuova istanza della classe [`LocalHyperlink`](../).
 public LocalHyperlink()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [LocalHyperlink](../)
+* class [LocalHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,11 +32,13 @@ public LocalHyperlink(BaseParagraph target)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| target | BaseParagraph | Paragrafo di destinazione. |
+| destinazione | BaseParagraph | Paragrafo di destinazione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BaseParagraph](../../baseparagraph/)
-* classe [LocalHyperlink](../)
+* class [BaseParagraph](../../baseparagraph/)
+* class [LocalHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class LlamaClient
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.LlamaClient class. Represents a client for interacting with the Llama API
+title: "Classe LlamaClient"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.AI.LlamaClient. Rappresenta un client per interagire con l'API Llama"
 type: docs
-weight: 700
+weight: 750
 url: /it/net/aspose.pdf.ai/llamaclient/
 ---
-## Classe LlamaClient
+## LlamaClient class
 
 Rappresenta un client per interagire con l'API Llama.
 
@@ -30,17 +30,17 @@ public class LlamaClient : AIClientBase, ILlamaClient, ISummaryClient<LlamaSumma
 | Nome | Descrizione |
 | --- | --- |
 | [CreateCompletionAsync](../../aspose.pdf.ai/llamaclient/createcompletionasync/)(LlamaChatCompletionRequest, CancellationToken?) | Crea una richiesta di completamento chat nel servizio Llama. |
-| [Dispose](../../aspose.pdf.ai/aiclientbase/dispose/)() | Libera le risorse utilizzate da [`AIClientBase`](../aiclientbase/). |
+| [Dispose](../../aspose.pdf.ai/aiclientbase/dispose/)() | Rilascia le risorse utilizzate da [`AIClientBase`](../aiclientbase/). |
 | [GetSummaryCopilot](../../aspose.pdf.ai/llamaclient/getsummarycopilot/)(ISummaryCopilotOptions&lt;LlamaSummaryCopilotOptions&gt;) | Ottiene un'istanza di [`ISummaryCopilot`](../isummarycopilot/) con le opzioni specificate. |
 | static [CreateWithApiKey](../../aspose.pdf.ai/llamaclient/createwithapikey/)(string) | Crea una nuova istanza di [`Builder`](../llamaclient.builder/) con la chiave API fornita. |
 
-## Altri Membri
+## Altri membri
 
 | Nome | Descrizione |
 | --- | --- |
 | class [Builder](../../aspose.pdf.ai/llamaclient.builder) | Classe Builder per creare un'istanza di `LlamaClient`. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [AIClientBase](../aiclientbase/)
 * interface [ILlamaClient](../illamaclient/)
@@ -48,3 +48,5 @@ public class LlamaClient : AIClientBase, ILlamaClient, ISummaryClient<LlamaSumma
 * class [LlamaSummaryCopilotOptions](../llamasummarycopilotoptions/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

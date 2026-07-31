@@ -1,12 +1,12 @@
 ---
-title: FillStroke.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: FillStroke method. Returns text representation of operator
+title: "FillStroke.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FillStroke metodo. Restituisce la rappresentazione testuale dell'operatore"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.operators/fillstroke/tostring/
 ---
-## Metodo FillStroke.ToString
+## FillStroke.ToString method
 
 Restituisce la rappresentazione testuale dell'operatore.
 
@@ -14,12 +14,14 @@ Restituisce la rappresentazione testuale dell'operatore.
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Rappresentazione testuale dell'operatore.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FillStroke](../)
+* class [FillStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

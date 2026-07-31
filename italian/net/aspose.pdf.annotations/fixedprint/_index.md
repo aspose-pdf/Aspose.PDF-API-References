@@ -1,14 +1,14 @@
 ---
-title: Class FixedPrint
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.FixedPrint class. Represent Fixed print data of Watermark Annotation
+title: "Classe FixedPrint"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Annotations.FixedPrint class. Rappresenta i dati di stampa fissa dell'annotazione Watermark"
 type: docs
-weight: 1800
+weight: 1890
 url: /it/net/aspose.pdf.annotations/fixedprint/
 ---
-## Classe FixedPrint
+## FixedPrint class
 
-Rappresenta i dati di stampa fissa dell'annotazione Watermark.
+Rappresenta i dati di stampa fissi dell'annotazione Watermark.
 
 ```csharp
 public class FixedPrint
@@ -18,11 +18,13 @@ public class FixedPrint
 
 | Nome | Descrizione |
 | --- | --- |
-| [HorizontalTranslation](../../aspose.pdf.annotations/fixedprint/horizontaltranslation/) { get; set; } | Ottiene o imposta la traduzione orizzontale. |
+| [HorizontalTranslation](../../aspose.pdf.annotations/fixedprint/horizontaltranslation/) { get; set; } | Ottiene o imposta la traslazione orizzontale. |
 | [Matrix](../../aspose.pdf.annotations/fixedprint/matrix/) { get; set; } | Ottiene o imposta il valore della matrice. |
-| [VerticalTranslation](../../aspose.pdf.annotations/fixedprint/verticaltranslation/) { get; set; } | Ottiene o imposta la traduzione verticale. |
+| [VerticalTranslation](../../aspose.pdf.annotations/fixedprint/verticaltranslation/) { get; set; } | Ottiene o imposta la traslazione verticale. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

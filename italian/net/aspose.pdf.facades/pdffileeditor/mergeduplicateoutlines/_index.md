@@ -1,21 +1,23 @@
 ---
-title: PdfFileEditor.MergeDuplicateOutlines
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di PdfFileEditor. Se vero, le outline duplicate vengono unite
+title: "PdfFileEditor.MergeDuplicateOutlines"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfFileEditor. Se true i contorni duplicati vengono uniti"
 type: docs
 weight: 150
 url: /it/net/aspose.pdf.facades/pdffileeditor/mergeduplicateoutlines/
 ---
-## Proprietà PdfFileEditor.MergeDuplicateOutlines
+## PdfFileEditor.MergeDuplicateOutlines property
 
-Se vero, le outline duplicate vengono unite.
+Se vero, i contorni duplicati vengono uniti.
 
 ```csharp
 public bool MergeDuplicateOutlines { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,24 +1,24 @@
 ---
-title: SignatureField.ExtractImage
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo SignatureField. Estrae l'immagine delle firme come stream codificato in jpeg
+title: "SignatureField.ExtractImage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo SignatureField. Estrae l'immagine della firma come flusso codificato JPEG."
 type: docs
-weight: 40
+weight: 50
 url: /it/net/aspose.pdf.forms/signaturefield/extractimage/
 ---
 ## ExtractImage() {#extractimage}
 
-Estrae l'immagine della firma come stream codificato in jpeg.
+Estrae l'immagine della firma come stream codificato JPEG.
 
 ```csharp
 public Stream ExtractImage()
 ```
 
-### Return Value
+### Valore di ritorno
 
-Se l'immagine è stata trovata con successo, restituisce un oggetto stream codificato in jpeg; altrimenti, null.
+Se l'immagine è stata trovata con successo, restituisce l'oggetto flusso codificato JPEG; altrimenti, null.
 
-### See Also
+### Vedi anche
 
 * class [SignatureField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
@@ -34,16 +34,18 @@ Estrae l'immagine della firma come stream codificato.
 public Stream ExtractImage(ImageFormat format)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| format | ImageFormat | Formato dell'immagine per la codifica. |
+| format | ImageFormat | Formato immagine per la codifica. |
 
-### Return Value
+### Valore di ritorno
 
-Se l'immagine è stata trovata con successo, restituisce un oggetto encodedstream; altrimenti, null.
+Se l'immagine è stata trovata con successo, restituisce l'oggetto encodedstream; altrimenti, null.
 
-### See Also
+### Vedi anche
 
 * class [SignatureField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

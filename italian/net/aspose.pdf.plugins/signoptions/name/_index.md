@@ -1,21 +1,23 @@
 ---
-title: SignOptions.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SignOptions. Il nome del campo di firma esistente. Null per creare un nuovo campo
+title: "SignOptions.Name"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SignOptions. Il nome del campo firma esistente. Null per creare un nuovo campo"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.plugins/signoptions/name/
 ---
-## Proprietà SignOptions.Name
+## SignOptions.Name property
 
-Il nome del campo di firma esistente. Null per creare un nuovo campo.
+Il nome del campo firma esistente. Null per creare un nuovo campo.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SignOptions](../)
+* class [SignOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: IStatus.Status
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà IStatus. Ottiene o imposta lo stato dell'operazione
+title: "IStatus.Status"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà IStatus. Ottiene o imposta lo stato dell'operazione"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/istatus/status/
 ---
-## Proprietà IStatus.Status
+## IStatus.Status property
 
 Ottiene o imposta lo stato dell'operazione.
 
@@ -14,8 +14,10 @@ Ottiene o imposta lo stato dell'operazione.
 public string Status { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IStatus](../)
+* interface [IStatus](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

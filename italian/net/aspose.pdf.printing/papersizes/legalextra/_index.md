@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.LegalExtra
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PaperSizes. Legale extra carta 9,275 pl. × 15 pl.
+title: "PaperSizes.LegalExtra"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "campo PaperSizes. carta Legal extra 9.275 in. per 15 in"
 type: docs
 weight: 640
 url: /it/net/aspose.pdf.printing/papersizes/legalextra/
 ---
-## Campo PaperSizes.LegalExtra
+## PaperSizes.LegalExtra field
 
-Carta legale extra (9.275 in. per 15 in.).
+Carta legale extra (9.275 in. by 15 in.).
 
 ```csharp
 public static readonly PaperSize LegalExtra;
@@ -16,11 +16,13 @@ public static readonly PaperSize LegalExtra;
 
 ## Osservazioni
 
-Questo valore è specifico per il driver PostScript ed è utilizzato solo dalle stampanti Linotronic per conservare la carta.
+Questo valore è specifico del driver PostScript ed è utilizzato solo dalle stampanti Linotronic per conservare la carta.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

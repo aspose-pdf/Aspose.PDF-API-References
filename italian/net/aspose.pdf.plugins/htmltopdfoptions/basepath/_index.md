@@ -1,21 +1,23 @@
 ---
-title: HtmlToPdfOptions.BasePath
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà HtmlToPdfOptions. Il percorso/base url per il file html
+title: "HtmlToPdfOptions.BasePath"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "HtmlToPdfOptions proprietà. Il percorso di base/URL per il file HTML"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.plugins/htmltopdfoptions/basepath/
 ---
-## Proprietà HtmlToPdfOptions.BasePath
+## HtmlToPdfOptions.BasePath property
 
-Il percorso/base url per il file html.
+Il percorso/base URL per il file html.
 
 ```csharp
 public string BasePath { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [HtmlToPdfOptions](../)
+* class [HtmlToPdfOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

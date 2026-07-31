@@ -1,22 +1,24 @@
 ---
-title: RunResponse.TruncationStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di RunResponse. Ottiene o imposta la strategia di troncamento che controlla come un thread sarà troncato prima dell'esecuzione. Usa questo per controllare la finestra di contesto iniziale dell'esecuzione.
+title: "RunResponse.TruncationStrategy"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà RunResponse. Ottiene o imposta la strategia di troncamento che controlla come un thread verrà troncato prima della run. Utilizzala per controllare la finestra di contesto iniziale della run."
 type: docs
 weight: 260
 url: /it/net/aspose.pdf.ai/runresponse/truncationstrategy/
 ---
-## Proprietà RunResponse.TruncationStrategy
+## RunResponse.TruncationStrategy property
 
-Ottiene o imposta la strategia di troncamento che controlla come un thread sarà troncato prima dell'esecuzione. Usa questo per controllare la finestra di contesto iniziale dell'esecuzione.
+Ottiene o imposta la strategia di troncamento che controlla come un thread verrà troncato prima dell'esecuzione. Utilizzala per controllare la finestra di contesto iniziale dell'esecuzione.
 
 ```csharp
 public TruncationStrategy TruncationStrategy { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TruncationStrategy](../../truncationstrategy/)
-* classe [RunResponse](../)
+* class [TruncationStrategy](../../truncationstrategy/)
+* class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PageInfo.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PageInfo. Ottiene o imposta la larghezza della pagina
+title: "PageInfo.Width"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PageInfo. Ottiene o imposta la larghezza della pagina"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf/pageinfo/width/
 ---
-## Proprietà PageInfo.Width
+## PageInfo.Width property
 
 Ottiene o imposta la larghezza della pagina.
 
@@ -16,6 +16,8 @@ public double Width { get; set; }
 
 ### Vedi anche
 
-* classe [PageInfo](../)
+* class [PageInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

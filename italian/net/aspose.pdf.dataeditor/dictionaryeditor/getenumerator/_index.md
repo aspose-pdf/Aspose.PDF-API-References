@@ -1,12 +1,12 @@
 ---
-title: DictionaryEditor.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo DictionaryEditor. Restituisce un enumeratore che itera attraverso la collezione
+title: "DictionaryEditor.GetEnumerator"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "DictionaryEditor metodo. Restituisce un enumeratore che itera attraverso la collezione"
 type: docs
 weight: 130
 url: /it/net/aspose.pdf.dataeditor/dictionaryeditor/getenumerator/
 ---
-## Metodo DictionaryEditor.GetEnumerator
+## DictionaryEditor.GetEnumerator method
 
 Restituisce un enumeratore che itera attraverso la collezione.
 
@@ -14,13 +14,15 @@ Restituisce un enumeratore che itera attraverso la collezione.
 public IEnumerator<KeyValuePair<string, ICosPdfPrimitive>> GetEnumerator()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un enumeratore che può essere utilizzato per iterare attraverso la collezione.
+Un enumeratore che può essere usato per iterare attraverso la collezione.
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [ICosPdfPrimitive](../../icospdfprimitive/)
-* classe [DictionaryEditor](../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

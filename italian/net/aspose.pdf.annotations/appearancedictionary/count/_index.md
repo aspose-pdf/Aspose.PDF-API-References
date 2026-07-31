@@ -1,12 +1,12 @@
 ---
-title: AppearanceDictionary.Count
-second_title: Aspose.PDF for .NET API Reference
-description: AppearanceDictionary property. Gets the number of elements contained in the dictionary
+title: "AppearanceDictionary.Count"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà AppearanceDictionary. Ottiene il numero di elementi contenuti nel dizionario"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/appearancedictionary/count/
 ---
-## Proprietà AppearanceDictionary.Count
+## AppearanceDictionary.Count property
 
 Ottiene il numero di elementi contenuti nel dizionario.
 
@@ -14,8 +14,10 @@ Ottiene il numero di elementi contenuti nel dizionario.
 public int Count { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AppearanceDictionary](../)
+* class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

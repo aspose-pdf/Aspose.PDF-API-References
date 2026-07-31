@@ -1,7 +1,7 @@
 ---
-title: CaretAnnotation.CaretAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore CaretAnnotation. Costruttore per l'uso in Generator
+title: "CaretAnnotation.CaretAnnotation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore CaretAnnotation. Costruttore per l'uso in Generator"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/caretannotation/caretannotation/
@@ -18,7 +18,7 @@ public CaretAnnotation(Document document)
 | --- | --- | --- |
 | document | Document | Documento in cui verrà creata l'annotazione. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [Document](../../../aspose.pdf/document/)
 * class [CaretAnnotation](../)
@@ -29,7 +29,7 @@ public CaretAnnotation(Document document)
 
 ## CaretAnnotation(Page, Rectangle) {#constructor_1}
 
-Crea una nuova annotazione Caret sulla pagina specificata.
+Crea una nuova annotazione Caret nella pagina specificata.
 
 ```csharp
 public CaretAnnotation(Page page, Rectangle rect)
@@ -37,13 +37,15 @@ public CaretAnnotation(Page page, Rectangle rect)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | Pagina del documento in cui dovrebbe essere creata l'annotazione. |
+| pagina | Page | Pagina del Document dove deve essere creata l'annotazione. |
 | rect | Rectangle | Rettangolo richiesto che imposta il bordo dell'annotazione. |
 
-### Vedi Anche
+### Vedi anche
 
 * class [Page](../../../aspose.pdf/page/)
 * class [Rectangle](../../../aspose.pdf/rectangle/)
 * class [CaretAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

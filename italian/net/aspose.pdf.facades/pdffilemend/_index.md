@@ -1,12 +1,12 @@
 ---
-title: Class PdfFileMend
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Facades.PdfFileMend. Rappresenta una classe per aggiungere testi e immagini sulle pagine di un documento PDF esistente
+title: "Classe PdfFileMend"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Facades.PdfFileMend classe. Rappresenta una classe per aggiungere testi e immagini nelle pagine di un documento PDF esistente"
 type: docs
-weight: 4530
+weight: 4650
 url: /it/net/aspose.pdf.facades/pdffilemend/
 ---
-## Classe PdfFileMend
+## PdfFileMend class
 
 Rappresenta una classe per aggiungere testi e immagini sulle pagine di un documento PDF esistente.
 
@@ -25,10 +25,10 @@ public sealed class PdfFileMend : SaveableFacade
 
 | Nome | Descrizione |
 | --- | --- |
-| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Ottiene il documento su cui la facciata sta lavorando. |
-| [IsWordWrap](../../aspose.pdf.facades/pdffilemend/iswordwrap/) { set; } | Imposta un valore bool che indica il ritorno a capo nei metodi AddText. Se il valore è true, il testo in FormattedText andrà a capo. Per impostazione predefinita, il valore è false. |
+| [Document](../../aspose.pdf.facades/facade/document/) { get; } | Ottiene il facade del documento su cui sta lavorando. |
+| [IsWordWrap](../../aspose.pdf.facades/pdffilemend/iswordwrap/) { set; } | Imposta un valore booleano che indica l'andare a capo automatico nei metodi AddText. Se il valore è true, il testo in FormattedText andrà a capo automaticamente. Per impostazione predefinita, il valore è false. |
 | [TextPositioningMode](../../aspose.pdf.facades/pdffilemend/textpositioningmode/) { get; set; } | Imposta o ottiene la strategia di posizionamento del testo. [`PositioningMode`](../positioningmode/) La modalità predefinita è Legacy. |
-| [WrapMode](../../aspose.pdf.facades/pdffilemend/wrapmode/) { get; set; } | Imposta o ottiene l'algoritmo di ritorno a capo. Vedi WordWrapMode e IsWordWrap. |
+| [WrapMode](../../aspose.pdf.facades/pdffilemend/wrapmode/) { get; set; } | Imposta o ottiene l'algoritmo di interruzione parole. Vedi WordWrapMode e IsWordWrap. |
 
 ## Metodi
 
@@ -45,16 +45,18 @@ public sealed class PdfFileMend : SaveableFacade
 | [AddText](../../aspose.pdf.facades/pdffilemend/addtext/#addtext)(FormattedText, int, float, float) | Non implementato. |
 | [AddText](../../aspose.pdf.facades/pdffilemend/addtext/#addtext_1)(FormattedText, int, float, float, float, float) | Non implementato. |
 | [AddText](../../aspose.pdf.facades/pdffilemend/addtext/#addtext_2)(FormattedText, int[], float, float, float, float) | Non implementato. |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Document) | Inizializza la facciata. |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Stream) | Inizializza la facciata. |
-| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(string) | Inizializza la facciata. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Document) | Inizializza il facade. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(Stream) | Inizializza il facade. |
+| virtual [BindPdf](../../aspose.pdf.facades/facade/bindpdf/)(string) | Inizializza il facade. |
 | override [Close](../../aspose.pdf.facades/pdffilemend/close/)() | Chiude l'oggetto PdfFileMend. |
-| [Dispose](../../aspose.pdf.facades/facade/dispose/)() | Smaltisce la facciata. |
+| [Dispose](../../aspose.pdf.facades/facade/dispose/)() | Rilascia la facciata. |
 | override [Save](../../aspose.pdf.facades/pdffilemend/save/#save)(Stream) | Salva il documento PDF nello stream specificato. |
 | override [Save](../../aspose.pdf.facades/pdffilemend/save/#save_1)(string) | Salva il documento PDF nel file specificato. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SaveableFacade](../saveablefacade/)
+* class [SaveableFacade](../saveablefacade/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

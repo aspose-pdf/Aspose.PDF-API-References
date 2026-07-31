@@ -1,12 +1,12 @@
 ---
-title: DocumentComparisonStatistics.PagesStatistics
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà DocumentComparisonStatistics. Ottiene e imposta l'elenco delle statistiche delle pagine
+title: "DocumentComparisonStatistics.PagesStatistics"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà DocumentComparisonStatistics. Ottiene e imposta l'elenco delle statistiche delle pagine"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.comparison/documentcomparisonstatistics/pagesstatistics/
 ---
-## Proprietà DocumentComparisonStatistics.PagesStatistics
+## DocumentComparisonStatistics.PagesStatistics property
 
 Ottiene e imposta l'elenco delle statistiche delle pagine.
 
@@ -14,9 +14,11 @@ Ottiene e imposta l'elenco delle statistiche delle pagine.
 public List<TextItemComparisonStatistics> PagesStatistics { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextItemComparisonStatistics](../../textitemcomparisonstatistics/)
-* classe [DocumentComparisonStatistics](../)
+* class [TextItemComparisonStatistics](../../textitemcomparisonstatistics/)
+* class [DocumentComparisonStatistics](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

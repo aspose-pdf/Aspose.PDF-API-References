@@ -1,14 +1,14 @@
 ---
-title: Enum ValidationMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Security.ValidationMode enum. Specifies the validation mode for PDF signature validation processes
+title: "Enum ValidationMode"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Security.ValidationMode enum. Specifica la modalità di convalida per i processi di convalida della firma PDF"
 type: docs
-weight: 10060
+weight: 10240
 url: /it/net/aspose.pdf.security/validationmode/
 ---
-## Enumerazione ValidationMode
+## ValidationMode enumeration
 
-Specifica la modalità di validazione per i processi di validazione della firma PDF.
+Specifica la modalità di convalida per i processi di validazione delle firme PDF.
 
 ```csharp
 public enum ValidationMode
@@ -18,11 +18,13 @@ public enum ValidationMode
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| None | `0` | Rappresenta una modalità in cui la validazione non viene eseguita. |
-| OnlyCheck | `1` | Rappresenta la modalità in cui viene effettuata la validazione, ma il suo risultato non influisce sulla validazione della firma digitale. Puoi controllare tu stesso il risultato della validazione. |
-| Strict | `2` | Rappresenta la modalità in cui viene effettuata la validazione e il suo risultato influisce sulla validazione della firma digitale. Se il certificato non può essere verificato, allora la firma digitale sarà considerata non valida. Puoi controllare tu stesso il risultato della validazione. |
+| None | `0` | Rappresenta una modalità in cui la convalida non viene eseguita. |
+| OnlyCheck | `1` | Rappresenta la modalità in cui la convalida viene effettuata, ma il suo risultato non influisce sulla convalida della firma digitale. È possibile verificare autonomamente il risultato della convalida. |
+| Strict | `2` | Rappresenta la modalità in cui la convalida viene effettuata e il suo risultato influisce sulla convalida della firma digitale. Se il certificato non può essere verificato, la firma digitale sarà considerata non valida. È possibile verificare autonomamente il risultato della convalida. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../)
+
+

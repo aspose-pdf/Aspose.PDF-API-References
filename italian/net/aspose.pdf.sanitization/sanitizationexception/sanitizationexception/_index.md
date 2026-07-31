@@ -1,7 +1,7 @@
 ---
-title: SanitizationException.SanitizationException
-second_title: Aspose.PDF for .NET API Reference
-description: SanitizationException constructor. Initializes a new instance of the SanitizationException class
+title: "SanitizationException.SanitizationException"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore SanitizationException. Inizializza una nuova istanza della classe SanitizationException"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.sanitization/sanitizationexception/sanitizationexception/
@@ -14,9 +14,9 @@ Inizializza una nuova istanza della classe [`SanitizationException`](../).
 public SanitizationException()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SanitizationException](../)
+* class [SanitizationException](../)
 * namespace [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,11 +32,11 @@ public SanitizationException(string message)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| message | String | Il messaggio. |
+| messaggio | String | Il messaggio. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SanitizationException](../)
+* class [SanitizationException](../)
 * namespace [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
 * assembly [Aspose.PDF](../../../)
 
@@ -52,12 +52,12 @@ public SanitizationException(string message, Exception innerException)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| message | String | Il messaggio di errore che spiega il motivo dell'eccezione. |
-| innerException | Exception | L'eccezione che è la causa dell'eccezione corrente, o un riferimento nullo (Nothing in Visual Basic) se non è specificata alcuna eccezione interna. |
+| messaggio | String | Il messaggio di errore che spiega il motivo dell'eccezione. |
+| innerException | Exception | L'eccezione che è la causa dell'eccezione corrente, oppure un riferimento nullo (Nothing in Visual Basic) se non è specificata alcuna eccezione interna. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SanitizationException](../)
+* class [SanitizationException](../)
 * namespace [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
 * assembly [Aspose.PDF](../../../)
 
@@ -73,10 +73,12 @@ public SanitizationException(Exception innerException)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| innerException | Exception | L'eccezione che è la causa dell'eccezione corrente, o un riferimento nullo (Nothing in Visual Basic) se non è specificata alcuna eccezione interna. |
+| innerException | Exception | L'eccezione che è la causa dell'eccezione corrente, oppure un riferimento nullo (Nothing in Visual Basic) se non è specificata alcuna eccezione interna. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SanitizationException](../)
+* class [SanitizationException](../)
 * namespace [Aspose.Pdf.Sanitization](../../../aspose.pdf.sanitization/)
 * assembly [Aspose.PDF](../../../)
+
+

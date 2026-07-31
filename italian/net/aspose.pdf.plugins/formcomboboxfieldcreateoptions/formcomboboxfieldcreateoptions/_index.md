@@ -1,14 +1,14 @@
 ---
-title: FormComboBoxFieldCreateOptions.FormComboBoxFieldCreateOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di FormComboBoxFieldCreateOptions. Inizializza una nuova istanza dell'oggetto FormComboBoxFieldCreateOptions che contiene parametri per il ComboBoxField creato e aggiunto
+title: "FormComboBoxFieldCreateOptions.FormComboBoxFieldCreateOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormComboBoxFieldCreateOptions costruttore. Inizializza una nuova istanza dell'oggetto FormComboBoxFieldCreateOptions che contiene i parametri per il ComboBoxField creato e aggiunto"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.plugins/formcomboboxfieldcreateoptions/formcomboboxfieldcreateoptions/
 ---
-## Costruttore di FormComboBoxFieldCreateOptions
+## FormComboBoxFieldCreateOptions constructor
 
-Inizializza una nuova istanza dell'oggetto [`FormComboBoxFieldCreateOptions`](../), che contiene parametri per il ComboBoxField creato e aggiunto.
+Inizializza una nuova istanza dell'oggetto [`FormComboBoxFieldCreateOptions`](../), che contiene i parametri per il ComboBoxField creato e aggiunto.
 
 ```csharp
 public FormComboBoxFieldCreateOptions(int pageNum, Rectangle rect)
@@ -19,9 +19,11 @@ public FormComboBoxFieldCreateOptions(int pageNum, Rectangle rect)
 | pageNum | Int32 | Numero di pagina su cui sarà posizionato il ComboBoxField aggiunto. |
 | rect | Rectangle | Imposta il rettangolo del ComboBoxField. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [FormComboBoxFieldCreateOptions](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [FormComboBoxFieldCreateOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

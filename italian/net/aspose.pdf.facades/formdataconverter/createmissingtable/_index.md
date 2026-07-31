@@ -1,21 +1,23 @@
 ---
-title: FormDataConverter.CreateMissingTable
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di FormDataConverter. ImportIntoDatabase creerà la tabella se non esiste
+title: "FormDataConverter.CreateMissingTable"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormDataConverter proprietà. ImportIntoDatabase creerà la tabella se non esiste"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.facades/formdataconverter/createmissingtable/
 ---
-## Proprietà FormDataConverter.CreateMissingTable
+## FormDataConverter.CreateMissingTable property
 
-ImportIntoDatabase creerà la tabella se non esiste.
+ImportIntoDatabase creerà la table se non esiste.
 
 ```csharp
 public bool CreateMissingTable { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormDataConverter](../)
+* class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

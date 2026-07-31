@@ -1,12 +1,12 @@
 ---
-title: FileResponse.CreatedAt
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FileResponse. Ottiene o imposta il timestamp Unix in secondi per quando il file è stato creato
+title: "FileResponse.CreatedAt"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FileResponse. Ottiene o imposta il timestamp Unix in secondi per quando il file è stato creato"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.ai/fileresponse/createdat/
 ---
-## Proprietà FileResponse.CreatedAt
+## FileResponse.CreatedAt property
 
 Ottiene o imposta il timestamp Unix (in secondi) per quando il file è stato creato.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il timestamp Unix (in secondi) per quando il file è stato cre
 public long CreatedAt { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FileResponse](../)
+* class [FileResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

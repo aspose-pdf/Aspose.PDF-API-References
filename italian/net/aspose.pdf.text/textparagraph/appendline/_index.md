@@ -1,7 +1,7 @@
 ---
-title: TextParagraph.AppendLine
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TextParagraph. Aggiunge una riga di testo
+title: "TextParagraph.AppendLine"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TextParagraph. Aggiunge una riga di testo"
 type: docs
 weight: 130
 url: /it/net/aspose.pdf.text/textparagraph/appendline/
@@ -16,11 +16,11 @@ public void AppendLine(string line)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| line | String | Il testo della nuova riga. |
+| riga | String | Il testo della nuova riga. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextParagraph](../)
+* class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,12 +36,12 @@ public void AppendLine(string line, float lineSpacing)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| line | String | Il testo della nuova riga. |
-| lineSpacing | Single | Spaziatura aggiuntiva (0.0 è il valore predefinito e corrisponde all'altezza predefinita della riga di testo). Il valore di spaziatura viene aggiunto alla spaziatura predefinita per la riga particolare, quindi puoi specificare 12.0 per ottenere una riga vuota DOPO una riga di testo disegnata con un carattere di 12pt. |
+| riga | String | Il testo della nuova riga. |
+| lineSpacing | Single | Spaziatura aggiuntiva (0.0 è il valore predefinito e corrisponde all'altezza predefinita della riga di testo). Il valore di spaziatura viene aggiunto alla spaziatura di riga predefinita per la riga specifica, quindi è possibile specificare 12.0 per ottenere una riga vuota DOPO una riga di testo disegnata con carattere da 12pt. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextParagraph](../)
+* class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -49,7 +49,7 @@ public void AppendLine(string line, float lineSpacing)
 
 ## AppendLine(string, TextState) {#appendline_4}
 
-Aggiunge una riga di testo con parametri di stato del testo.
+Aggiunge una riga di testo con i parametri di stato del testo.
 
 ```csharp
 public void AppendLine(string line, TextState textState)
@@ -57,13 +57,13 @@ public void AppendLine(string line, TextState textState)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| line | String | Il testo della nuova riga. |
+| riga | String | Il testo della nuova riga. |
 | textState | TextState | Stato del testo della nuova riga. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextState](../../textstate/)
-* classe [TextParagraph](../)
+* class [TextState](../../textstate/)
+* class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -71,7 +71,7 @@ public void AppendLine(string line, TextState textState)
 
 ## AppendLine(string, TextState, float) {#appendline_5}
 
-Aggiunge una riga di testo con parametri di stato del testo
+Aggiunge una riga di testo con i parametri di stato del testo
 
 ```csharp
 public void AppendLine(string line, TextState textState, float lineSpacing)
@@ -79,14 +79,14 @@ public void AppendLine(string line, TextState textState, float lineSpacing)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| line | String | Il testo della nuova riga. |
+| riga | String | Il testo della nuova riga. |
 | textState | TextState | Stato del testo della nuova riga. |
-| lineSpacing | Single | Spaziatura aggiuntiva (0.0 è il valore predefinito e corrisponde all'altezza predefinita della riga di testo). Il valore di spaziatura viene aggiunto alla spaziatura predefinita per la riga particolare, quindi puoi specificare 12.0 per ottenere una riga vuota DOPO una riga di testo disegnata con un carattere di 12pt. |
+| lineSpacing | Single | Spaziatura aggiuntiva (0.0 è il valore predefinito e corrisponde all'altezza predefinita della riga di testo). Il valore di spaziatura viene aggiunto alla spaziatura di riga predefinita per la riga specifica, quindi è possibile specificare 12.0 per ottenere una riga vuota DOPO una riga di testo disegnata con carattere da 12pt. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextState](../../textstate/)
-* classe [TextParagraph](../)
+* class [TextState](../../textstate/)
+* class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -94,7 +94,7 @@ public void AppendLine(string line, TextState textState, float lineSpacing)
 
 ## AppendLine(TextFragment) {#appendline}
 
-Aggiunge una riga di testo con parametri di stato del testo.
+Aggiunge una riga di testo con i parametri di stato del testo.
 
 ```csharp
 public void AppendLine(TextFragment line)
@@ -102,12 +102,12 @@ public void AppendLine(TextFragment line)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| line | TextFragment | Il testo della nuova riga. |
+| riga | TextFragment | Il testo della nuova riga. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextFragment](../../textfragment/)
-* classe [TextParagraph](../)
+* class [TextFragment](../../textfragment/)
+* class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -115,7 +115,7 @@ public void AppendLine(TextFragment line)
 
 ## AppendLine(TextFragment, TextState) {#appendline_1}
 
-Aggiunge una riga di testo con parametri di stato del testo.
+Aggiunge una riga di testo con i parametri di stato del testo.
 
 ```csharp
 public void AppendLine(TextFragment line, TextState textState)
@@ -123,14 +123,14 @@ public void AppendLine(TextFragment line, TextState textState)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| line | TextFragment | Il testo della nuova riga. |
+| riga | TextFragment | Il testo della nuova riga. |
 | textState | TextState | Stato del testo della nuova riga. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextFragment](../../textfragment/)
-* classe [TextState](../../textstate/)
-* classe [TextParagraph](../)
+* class [TextFragment](../../textfragment/)
+* class [TextState](../../textstate/)
+* class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -138,7 +138,7 @@ public void AppendLine(TextFragment line, TextState textState)
 
 ## AppendLine(TextFragment, TextState, float) {#appendline_2}
 
-Aggiunge una riga di testo con parametri di stato del testo
+Aggiunge una riga di testo con i parametri di stato del testo
 
 ```csharp
 public void AppendLine(TextFragment line, TextState textState, float lineSpacing)
@@ -146,14 +146,16 @@ public void AppendLine(TextFragment line, TextState textState, float lineSpacing
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| line | TextFragment | Il testo della nuova riga. |
+| riga | TextFragment | Il testo della nuova riga. |
 | textState | TextState | Stato del testo della nuova riga. |
-| lineSpacing | Single | Spaziatura aggiuntiva (0.0 è il valore predefinito e corrisponde all'altezza predefinita della riga di testo). Il valore di spaziatura viene aggiunto alla spaziatura predefinita per la riga particolare, quindi puoi specificare 12.0 per ottenere una riga vuota DOPO una riga di testo disegnata con un carattere di 12pt. |
+| lineSpacing | Single | Spaziatura aggiuntiva (0.0 è il valore predefinito e corrisponde all'altezza predefinita della riga di testo). Il valore di spaziatura viene aggiunto alla spaziatura di riga predefinita per la riga specifica, quindi è possibile specificare 12.0 per ottenere una riga vuota DOPO una riga di testo disegnata con carattere da 12pt. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextFragment](../../textfragment/)
-* classe [TextState](../../textstate/)
-* classe [TextParagraph](../)
+* class [TextFragment](../../textfragment/)
+* class [TextState](../../textstate/)
+* class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

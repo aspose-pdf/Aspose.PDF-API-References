@@ -1,12 +1,12 @@
 ---
-title: BorderInfo.RoundedBorderRadius
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà BorderInfo. Ottiene o imposta un raggio di bordo arrotondato
+title: "BorderInfo.RoundedBorderRadius"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà BorderInfo. Ottiene o imposta un raggio di bordo arrotondato"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf/borderinfo/roundedborderradius/
 ---
-## Proprietà BorderInfo.RoundedBorderRadius
+## BorderInfo.RoundedBorderRadius property
 
 Ottiene o imposta un raggio di bordo arrotondato
 
@@ -16,6 +16,8 @@ public double RoundedBorderRadius { get; set; }
 
 ### Vedi anche
 
-* classe [BorderInfo](../)
+* class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

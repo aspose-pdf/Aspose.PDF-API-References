@@ -1,14 +1,14 @@
 ---
-title: TextFragment.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextFragment. Ottiene o imposta lo stato del testo per il testo che l'oggetto TextFragment rappresenta
+title: "TextFragment.TextState"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextFragment. Ottiene o imposta lo stato del testo per il testo rappresentato dall'oggetto TextFragment"
 type: docs
 weight: 150
 url: /it/net/aspose.pdf.text/textfragment/textstate/
 ---
-## Proprietà TextFragment.TextState
+## TextFragment.TextState property
 
-Ottiene o imposta lo stato del testo per il testo che l'oggetto [`TextFragment`](../) rappresenta.
+Ottiene o imposta lo stato del testo per il testo rappresentato dall'oggetto [`TextFragment`](../).
 
 ```csharp
 public TextFragmentState TextState { get; }
@@ -16,37 +16,39 @@ public TextFragmentState TextState { get; }
 
 ## Osservazioni
 
-Fornisce un modo per cambiare le seguenti proprietà del testo: Font DimensioneFont StileFont ColorePrimoPiano ColoreSfondo
+Fornisce un modo per modificare le seguenti proprietà del testo: Font FontSize FontStyle ForegroundColor BackgroundColor
 
 ## Esempi
 
-L'esempio dimostra come cambiare il colore del testo e la dimensione del font del testo con l'oggetto `TextState`.
+L'esempio dimostra come modificare il colore del testo e la dimensione del carattere del testo con l'oggetto `TextState`.
 
 ```csharp
-// Open document
+// Apri documento
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Crea l'oggetto TextFragmentAbsorber per trovare tutte le occorrenze del testo "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Accetta l'assorbitore per la prima pagina
 doc.Pages[1].Accept(absorber);
 
-// Change foreground color of the first text occurrence
+// Modifica il colore di primo piano della prima occorrenza di testo
 absorber.TextFragments[1].TextState.ForegroundColor = Color.FromRgb(System.Drawing.Color.Red);
 
-// Change font size of the first text occurrence
+// Modifica la dimensione del carattere della prima occorrenza di testo
 absorber.TextFragments[1].TextState.FontSize = 15;
 
-// Save document
+// Salva documento
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextFragmentAbsorber](../../textfragmentabsorber/)
-* classe [Document](../../../aspose.pdf/document/)
-* classe [TextFragmentState](../../textfragmentstate/)
-* classe [TextFragment](../)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextFragmentState](../../textfragmentstate/)
+* class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

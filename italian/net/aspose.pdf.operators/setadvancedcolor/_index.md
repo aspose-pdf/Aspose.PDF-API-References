@@ -1,14 +1,14 @@
 ---
-title: Class SetAdvancedColor
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.SetAdvancedColor. Classe che rappresenta l'operatore scn per impostare il colore per operazioni non di tracciamento
+title: "Classe SetAdvancedColor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Operators.SetAdvancedColor classe. Classe che rappresenta l'operatore scn per impostare il colore nelle operazioni non di tracciatura"
 type: docs
-weight: 7560
+weight: 7700
 url: /it/net/aspose.pdf.operators/setadvancedcolor/
 ---
-## Classe SetAdvancedColor
+## SetAdvancedColor class
 
-Classe che rappresenta l'operatore scn (imposta il colore per operazioni non di tracciamento).
+Classe che rappresenta l'operatore scn (imposta il colore per le operazioni di non tracciatura).
 
 ```csharp
 public class SetAdvancedColor : BasicSetColorAndPatternOperator
@@ -35,7 +35,7 @@ public class SetAdvancedColor : BasicSetColorAndPatternOperator
 | virtual [Color](../../aspose.pdf.operators/basicsetcoloroperator/color/) { get; } | Ottiene l'array dei componenti del colore. |
 | [G](../../aspose.pdf.operators/basicsetcoloroperator/g/) { get; } | Ottiene il componente verde del colore |
 | [Gray](../../aspose.pdf.operators/basicsetcoloroperator/gray/) { get; } | Ottiene il componente nero del colore grigio. |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Indice dell'operatore nell'elenco degli operatori di pagina. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Indice dell'operatore nell'elenco degli operatori della pagina. |
 | [K](../../aspose.pdf.operators/basicsetcoloroperator/k/) { get; } | Ottiene il componente nero del colore CMYK. |
 | [M](../../aspose.pdf.operators/basicsetcoloroperator/m/) { get; } | Ottiene il componente magenta del colore CMYK. |
 | [PatternName](../../aspose.pdf.operators/basicsetcolorandpatternoperator/patternname/) { get; } | Ottiene il nome del pattern. |
@@ -46,13 +46,15 @@ public class SetAdvancedColor : BasicSetColorAndPatternOperator
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setadvancedcolor/accept/)(IOperatorSelector) | Accetta l'oggetto visitatore per elaborare l'operatore. |
+| override [Accept](../../aspose.pdf.operators/setadvancedcolor/accept/)(IOperatorSelector) | Accetta un oggetto visitor per elaborare l'operatore. |
 | override [getColor](../../aspose.pdf.operators/setadvancedcolor/getcolor/)() | Restituisce il colore specificato dall'operatore. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Restituisce il testo dell'operatore e dei suoi parametri. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Restituisce il testo dell'operatore e i suoi parametri. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto fornito. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BasicSetColorAndPatternOperator](../basicsetcolorandpatternoperator/)
+* class [BasicSetColorAndPatternOperator](../basicsetcolorandpatternoperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

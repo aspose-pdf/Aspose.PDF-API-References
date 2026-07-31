@@ -1,14 +1,14 @@
 ---
-title: Class Document.MergeOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.DocumentMergeOptions. Rappresenta le opzioni per i metodi di Merge.
+title: "Classe Document.MergeOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.DocumentMergeOptions. Rappresenta le opzioni per i metodi Merge."
 type: docs
-weight: 3830
+weight: 3950
 url: /it/net/aspose.pdf/document.mergeoptions/
 ---
 ## Document.MergeOptions class
 
-Rappresenta le opzioni per i metodi di fusione.
+Rappresenta le opzioni per i metodi Merge.
 
 ```csharp
 public class MergeOptions
@@ -24,11 +24,13 @@ public class MergeOptions
 
 | Nome | Descrizione |
 | --- | --- |
-| [IsNeedPageTreeBalance](../../aspose.pdf/document.mergeoptions/isneedpagetreebalance) { get; set; } | Ottiene e imposta il requisito per l'equilibrio dell'albero delle pagine. L'intero albero delle pagine nel documento risultante sarà riequilibrato. Crea un albero delle pagine bilanciato per accelerare l'accesso alle pagine. |
-| [MaximumNodesInLevel](../../aspose.pdf/document.mergeoptions/maximumnodesinlevel) { get; set; } | Ottiene e imposta il numero massimo di nodi nel livello dell'albero delle pagine. Il valore predefinito è 10. |
+| [IsNeedPageTreeBalance](../../aspose.pdf/document.mergeoptions/isneedpagetreebalance) { get; set; } | Ottiene e imposta il requisito per l'equilibratura dell'albero delle pages. L'intero albero delle pages nel document risultante verrà riequilibrato. Crea un albero delle pages bilanciato per velocizzare l'accesso alle pages. |
+| [MaximumNodesInLevel](../../aspose.pdf/document.mergeoptions/maximumnodesinlevel) { get; set; } | Ottiene e imposta il numero massimo di nodi a livello dell'albero delle pages. Il valore predefinito è 10. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../document/)
+* class [Document](../document/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

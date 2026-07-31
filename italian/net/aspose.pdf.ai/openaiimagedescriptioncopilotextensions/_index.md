@@ -1,12 +1,12 @@
 ---
-title: Class OpenAIImageDescriptionCopilotExtensions
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.OpenAIImageDescriptionCopilotExtensions. Fornisce metodi di estensione per la classe OpenAIImageDescriptionCopilot
+title: "Classe OpenAIImageDescriptionCopilotExtensions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.AI.OpenAIImageDescriptionCopilotExtensions. Fornisce metodi di estensione per la classe OpenAIImageDescriptionCopilot."
 type: docs
-weight: 890
+weight: 950
 url: /it/net/aspose.pdf.ai/openaiimagedescriptioncopilotextensions/
 ---
-## Classe OpenAIImageDescriptionCopilotExtensions
+## OpenAIImageDescriptionCopilotExtensions class
 
 Fornisce metodi di estensione per la classe OpenAIImageDescriptionCopilot.
 
@@ -18,9 +18,11 @@ public static class OpenAIImageDescriptionCopilotExtensions
 
 | Nome | Descrizione |
 | --- | --- |
-| static [AddPdfImageDescriptionsAsync](../../aspose.pdf.ai/openaiimagedescriptioncopilotextensions/addpdfimagedescriptionsasync/)(this IImageDescriptionCopilot, string, CancellationToken?) | Aggiunge in modo asincrono descrizioni delle immagini a un file PDF e salva nuovi documenti in cartelle specificate. |
+| static [AddPdfImageDescriptionsAsync](../../aspose.pdf.ai/openaiimagedescriptioncopilotextensions/addpdfimagedescriptionsasync/)(this IImageDescriptionCopilot, string, CancellationToken?) | Aggiunge in modo asincrono descrizioni di immagini a un file PDF e salva i nuovi documenti in cartelle specificate. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: VectorStoreResponse.ExpiresAfter
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di VectorStoreResponse. Ottiene o imposta la politica di scadenza per un archivio vettoriale
+title: "VectorStoreResponse.ExpiresAfter"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà VectorStoreResponse. Ottiene o imposta la politica di scadenza per un vector store"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.ai/vectorstoreresponse/expiresafter/
 ---
-## Proprietà VectorStoreResponse.ExpiresAfter
+## VectorStoreResponse.ExpiresAfter property
 
-Ottiene o imposta la politica di scadenza per un archivio vettoriale.
+Ottiene o imposta la politica di scadenza per un store vettoriale.
 
 ```csharp
 public ExpiresAfter ExpiresAfter { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ExpiresAfter](../../expiresafter/)
-* classe [VectorStoreResponse](../)
+* class [ExpiresAfter](../../expiresafter/)
+* class [VectorStoreResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

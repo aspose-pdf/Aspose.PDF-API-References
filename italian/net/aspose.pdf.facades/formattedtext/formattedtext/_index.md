@@ -1,7 +1,7 @@
 ---
-title: FormattedText.FormattedText
-second_title: Aspose.PDF for .NET API Reference
-description: FormattedText constructor. Initializes FormattedText
+title: "FormattedText.FormattedText"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormattedText constructor. Inizializza FormattedText"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.facades/formattedtext/formattedtext/
@@ -14,9 +14,9 @@ Inizializza FormattedText.
 public FormattedText()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,11 +32,11 @@ public FormattedText(string text)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| text | String | Testo contenuto in FormattedText. |
+| testo | String | Testo contenuto in FormattedText. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -53,19 +53,19 @@ public FormattedText(string text, FontColor fontColor, FontStyle fontStyle,
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| text | String | Contenuto del testo della stringa. |
+| testo | String | Contenuto di testo della stringa. |
 | fontColor | FontColor | Colore del testo. |
 | fontStyle | FontStyle | Stile del testo. |
 | encodingType | EncodingType | Tipo di codifica (valore dell'enumerazione EncodingType). |
-| embedded | Boolean | Vero se il font sarà incorporato. |
+| embedded | Boolean | Vero se il carattere sarà incorporato. |
 | textSize | Single | Dimensione del testo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FontColor](../../fontcolor/)
+* class [FontColor](../../fontcolor/)
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* classe [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -82,20 +82,20 @@ public FormattedText(string text, FontColor fontColor, FontStyle textFont,
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| text | String | Contenuto del testo della stringa. |
+| testo | String | Contenuto di testo della stringa. |
 | fontColor | FontColor | Colore del testo. |
-| textFont | FontStyle | Font del testo. |
+| textFont | FontStyle | Carattere del testo. |
 | textEncoding | EncodingType | Codifica del testo. |
 | embedded | Boolean | Vero se il testo sarà incorporato. |
 | textSize | Single | Dimensione del testo. |
 | lineSpacing | Single | Spaziatura aggiuntiva. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FontColor](../../fontcolor/)
+* class [FontColor](../../fontcolor/)
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* classe [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -112,18 +112,18 @@ public FormattedText(string text, Color color, FontStyle textFont, EncodingType 
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| text | String | Contenuto del testo della stringa. |
+| testo | String | Contenuto di testo della stringa. |
 | color | Color | Colore del testo. |
-| textFont | FontStyle | Font del testo. |
+| textFont | FontStyle | Carattere del testo. |
 | textEncoding | EncodingType | Codifica del testo. |
 | embedded | Boolean | Vero se il testo sarà incorporato. |
 | textSize | Single | Dimensione del testo. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* classe [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -140,19 +140,19 @@ public FormattedText(string text, Color textColor, FontStyle textFont, EncodingT
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| text | String | Contenuti del testo della stringa. |
+| testo | String | Contenuto di testo della stringa. |
 | textColor | Color | Colore del testo. |
-| textFont | FontStyle | Font del testo. |
+| textFont | FontStyle | Carattere del testo. |
 | textEncoding | EncodingType | Codifica del testo. |
-| embedded | Boolean | Se vero, il font sarà incorporato. |
+| embedded | Boolean | Se vero, il carattere sarà incorporato. |
 | textSize | Single | Dimensione del testo. |
 | lineSpacing | Single | Spaziatura aggiuntiva. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* classe [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -169,20 +169,20 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| text | String | Contenuto del testo della stringa. |
+| testo | String | Contenuto di testo della stringa. |
 | textColor | FontColor | Colore del testo. |
-| backColor | FontColor | Colore dello sfondo. |
-| textFont | FontStyle | Font del testo. |
+| backColor | FontColor | Colore di sfondo. |
+| textFont | FontStyle | Carattere del testo. |
 | textEncoding | EncodingType | Codifica del testo. |
-| embedded | Boolean | Se vero, il font sarà incorporato. |
+| embedded | Boolean | Se vero, il carattere sarà incorporato. |
 | textSize | Single | Dimensione del testo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FontColor](../../fontcolor/)
+* class [FontColor](../../fontcolor/)
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* classe [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -199,21 +199,21 @@ public FormattedText(string text, FontColor textColor, FontColor backColor, Font
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| text | String | Contenuto del testo. |
+| testo | String | Contenuto del testo. |
 | textColor | FontColor | Colore del testo. |
-| backColor | FontColor | Colore dello sfondo. |
-| textFont | FontStyle | Font del testo. |
+| backColor | FontColor | Colore di sfondo. |
+| textFont | FontStyle | Carattere del testo. |
 | textEncoding | EncodingType | Codifica del testo. |
-| embedded | Boolean | Se vero, il font sarà incorporato. |
+| embedded | Boolean | Se vero, il carattere sarà incorporato. |
 | textSize | Single | Dimensione del testo. |
 | lineSpacing | Single | Spaziatura aggiuntiva. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FontColor](../../fontcolor/)
+* class [FontColor](../../fontcolor/)
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* classe [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -230,19 +230,19 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| text | String | Contenuto del testo della stringa. |
+| testo | String | Contenuto di testo della stringa. |
 | textColor | Color | Colore del testo. |
-| backColor | Color | Colore dello sfondo. |
-| textFont | FontStyle | Font del testo. |
+| backColor | Color | Colore di sfondo. |
+| textFont | FontStyle | Carattere del testo. |
 | encoding | EncodingType | Codifica del testo. |
-| embedded | Boolean | Vero se il font sarà incorporato. |
+| embedded | Boolean | Vero se il carattere sarà incorporato. |
 | textSize | Single | Dimensione del testo. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* classe [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -259,20 +259,20 @@ public FormattedText(string text, Color textColor, Color backColor, FontStyle te
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| text | String | Contenuti del testo della stringa. |
+| testo | String | Contenuto di testo della stringa. |
 | textColor | Color | Colore del testo. |
 | backColor | Color | Colore dello sfondo. |
-| textFont | FontStyle | Font del testo. |
+| textFont | FontStyle | Carattere del testo. |
 | textEncoding | EncodingType | Codifica del testo. |
-| embedded | Boolean | Se vero, il font è incorporato. |
+| embedded | Boolean | Se vero, il carattere è incorporato. |
 | textSize | Single | Dimensione del testo. |
 | lineSpacing | Single | Spaziatura aggiuntiva. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [FontStyle](../../fontstyle/)
 * enum [EncodingType](../../encodingtype/)
-* classe [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -289,18 +289,18 @@ public FormattedText(string text, Color textColor, Color backColor, string fontN
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| text | String | Contenuto del testo. |
+| testo | String | Contenuto del testo. |
 | textColor | Color | Colore del testo. |
-| backColor | Color | Colore dello sfondo. |
-| fontName | String | Font del testo. |
+| backColor | Color | Colore di sfondo. |
+| fontName | String | Carattere del testo. |
 | textEncoding | EncodingType | Codifica del testo. |
-| embedded | Boolean | Se vero, il font sarà incorporato. |
+| embedded | Boolean | Se vero, il carattere sarà incorporato. |
 | fontSize | Single | Dimensione del testo. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [EncodingType](../../encodingtype/)
-* classe [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -316,13 +316,13 @@ public FormattedText(string text, Color textColor, Color backColor)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| text | String | Contenuto del testo. |
+| testo | String | Contenuto del testo. |
 | textColor | Color | Colore del testo. |
-| backColor | Color | Colore dello sfondo. |
+| backColor | Color | Colore di sfondo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -339,16 +339,18 @@ public FormattedText(string text, Color textColor, string fontName, EncodingType
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| text | String | Contenuto del testo. |
+| testo | String | Contenuto del testo. |
 | textColor | Color | Colore del testo. |
-| fontName | String | Font del testo. |
+| fontName | String | Carattere del testo. |
 | textEncoding | EncodingType | Codifica del testo. |
-| embedded | Boolean | Se vero, il font sarà incorporato. |
+| embedded | Boolean | Se vero, il carattere sarà incorporato. |
 | fontSize | Single | Dimensione del testo. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [EncodingType](../../encodingtype/)
-* classe [FormattedText](../)
+* class [FormattedText](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

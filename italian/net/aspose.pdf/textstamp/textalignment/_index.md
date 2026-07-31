@@ -1,12 +1,12 @@
 ---
-title: TextStamp.TextAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextStamp. Allineamento del testo all'interno del timbro
+title: "TextStamp.TextAlignment"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextStamp. Allineamento del testo all'interno del timbro"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf/textstamp/textalignment/
 ---
-## Proprietà TextStamp.TextAlignment
+## TextStamp.TextAlignment property
 
 Allineamento del testo all'interno del timbro.
 
@@ -14,9 +14,11 @@ Allineamento del testo all'interno del timbro.
 public HorizontalAlignment TextAlignment { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [HorizontalAlignment](../../horizontalalignment/)
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

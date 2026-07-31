@@ -1,26 +1,28 @@
 ---
-title: PdfFileSignature.GetSignaturesInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfFileSignature. Recupera informazioni su tutti gli algoritmi di firma presenti nel documento PDF
+title: "PdfFileSignature.GetSignaturesInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfFileSignature metodo. Recupera informazioni su tutti gli algoritmi delle firme presenti nel documento PDF"
 type: docs
 weight: 220
 url: /it/net/aspose.pdf.facades/pdffilesignature/getsignaturesinfo/
 ---
-## Metodo PdfFileSignature.GetSignaturesInfo
+## PdfFileSignature.GetSignaturesInfo method
 
-Recupera informazioni su tutti gli algoritmi di firma presenti nel documento PDF.
+Recupera informazioni su tutti gli algoritmi delle firme presenti nel documento PDF.
 
 ```csharp
 public List<SignatureAlgorithmInfo> GetSignaturesInfo()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Un elenco di [`SignatureAlgorithmInfo`](../../../aspose.pdf.security/signaturealgorithminfo/) istanze contenenti informazioni su ciascuna firma.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SignatureAlgorithmInfo](../../../aspose.pdf.security/signaturealgorithminfo/)
-* classe [PdfFileSignature](../)
+* class [SignatureAlgorithmInfo](../../../aspose.pdf.security/signaturealgorithminfo/)
+* class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

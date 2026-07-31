@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreatePrivateElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ITaggedContent. Crea PrivateElement
+title: "ITaggedContent.CreatePrivateElement"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ITaggedContent. Crea PrivateElement"
 type: docs
-weight: 220
+weight: 250
 url: /it/net/aspose.pdf.tagged/itaggedcontent/createprivateelement/
 ---
-## Metodo ITaggedContent.CreatePrivateElement
+## ITaggedContent.CreatePrivateElement method
 
 Crea [`PrivateElement`](../../../aspose.pdf.logicalstructure/privateelement/).
 
@@ -14,13 +14,15 @@ Crea [`PrivateElement`](../../../aspose.pdf.logicalstructure/privateelement/).
 public PrivateElement CreatePrivateElement()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Elemento di struttura creato.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PrivateElement](../../../aspose.pdf.logicalstructure/privateelement/)
-* interfaccia [ITaggedContent](../)
+* class [PrivateElement](../../../aspose.pdf.logicalstructure/privateelement/)
+* interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

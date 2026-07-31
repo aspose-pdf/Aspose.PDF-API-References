@@ -1,21 +1,23 @@
 ---
-title: DateField.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà DateField. Ottiene o imposta la data
+title: "DateField.Value"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà DateField. Ottiene o imposta la Data"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.forms/datefield/value/
 ---
-## Proprietà DateField.Value
+## DateField.Value property
 
-Ottiene o imposta la data.
+Ottiene o imposta la Data.
 
 ```csharp
 public DateTime Value { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DateField](../)
+* class [DateField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

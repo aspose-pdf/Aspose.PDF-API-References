@@ -1,14 +1,14 @@
 ---
-title: Class SetLineWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.SetLineWidth. Classe che rappresenta l'operatore w per impostare la larghezza della linea
+title: "Classe SetLineWidth"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Operators.SetLineWidth classe. Classe che rappresenta l'operatore w per impostare lo spessore della linea."
 type: docs
-weight: 7770
+weight: 7910
 url: /it/net/aspose.pdf.operators/setlinewidth/
 ---
-## Classe SetLineWidth
+## SetLineWidth class
 
-Classe che rappresenta l'operatore w (imposta la larghezza della linea).
+Classe che rappresenta l'operatore w (imposta lo spessore della linea).
 
 ```csharp
 public class SetLineWidth : Operator
@@ -31,12 +31,14 @@ public class SetLineWidth : Operator
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setlinewidth/accept/)(IOperatorSelector) | Accetta l'oggetto visitatore per elaborare l'operatore. |
+| override [Accept](../../aspose.pdf.operators/setlinewidth/accept/)(IOperatorSelector) | Accetta un oggetto visitor per elaborare l'operatore. |
 | override [ToString](../../aspose.pdf.operators/setlinewidth/tostring/)() | Restituisce la rappresentazione testuale dell'operatore. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto fornito. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Operator](../../aspose.pdf/operator/)
+* class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

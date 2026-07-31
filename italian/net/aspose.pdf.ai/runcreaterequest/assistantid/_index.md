@@ -1,12 +1,12 @@
 ---
-title: RunCreateRequest.AssistantId
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà RunCreateRequest. Ottiene o imposta l'ID dell'assistente da utilizzare per eseguire questa esecuzione
+title: "RunCreateRequest.AssistantId"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà RunCreateRequest. Ottiene o imposta l'ID dell'assistente da usare per eseguire questo run"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.ai/runcreaterequest/assistantid/
 ---
-## Proprietà RunCreateRequest.AssistantId
+## RunCreateRequest.AssistantId property
 
 Ottiene o imposta l'ID dell'assistente da utilizzare per eseguire questa esecuzione.
 
@@ -14,8 +14,10 @@ Ottiene o imposta l'ID dell'assistente da utilizzare per eseguire questa esecuzi
 public string AssistantId { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RunCreateRequest](../)
+* class [RunCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

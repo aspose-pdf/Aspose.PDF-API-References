@@ -1,12 +1,12 @@
 ---
-title: StructureElement.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo StructureElement. Restituisce una stringa che rappresenta l'oggetto corrente
+title: "StructureElement.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo StructureElement. Restituisce una stringa che rappresenta l'oggetto corrente"
 type: docs
 weight: 190
 url: /it/net/aspose.pdf.logicalstructure/structureelement/tostring/
 ---
-## Metodo StructureElement.ToString
+## StructureElement.ToString method
 
 Restituisce una stringa che rappresenta l'oggetto corrente.
 
@@ -14,12 +14,14 @@ Restituisce una stringa che rappresenta l'oggetto corrente.
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Stringa che rappresenta l'oggetto corrente.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureElement](../)
+* class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

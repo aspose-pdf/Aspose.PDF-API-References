@@ -1,14 +1,14 @@
 ---
-title: Class MoveTextPositionSetLeading
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.MoveTextPositionSetLeading. Classe che rappresenta l'operatore TD per spostare la posizione e impostare il leading
+title: "Classe MoveTextPositionSetLeading"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Operators.MoveTextPositionSetLeading classe. Classe che rappresenta l'operatore TD per spostare la posizione e impostare l'interlinea"
 type: docs
-weight: 7490
+weight: 7630
 url: /it/net/aspose.pdf.operators/movetextpositionsetleading/
 ---
-## Classe MoveTextPositionSetLeading
+## MoveTextPositionSetLeading class
 
-Classe che rappresenta l'operatore TD (sposta la posizione e imposta il leading).
+Classe che rappresenta l'operatore TD (sposta la posizione e imposta l'interlinea).
 
 ```csharp
 public class MoveTextPositionSetLeading : TextPlaceOperator
@@ -24,7 +24,7 @@ public class MoveTextPositionSetLeading : TextPlaceOperator
 
 | Nome | Descrizione |
 | --- | --- |
-| [Index](../../aspose.pdf/operator/index/) { get; set; } | Indice dell'operatore nell'elenco degli operatori di pagina. |
+| [Index](../../aspose.pdf/operator/index/) { get; set; } | Indice dell'operatore nell'elenco degli operatori della pagina. |
 | [X](../../aspose.pdf.operators/movetextpositionsetleading/x/) { get; set; } | Coordinata X della posizione del testo. |
 | [Y](../../aspose.pdf.operators/movetextpositionsetleading/y/) { get; set; } | Coordinata Y della posizione del testo. |
 
@@ -32,12 +32,14 @@ public class MoveTextPositionSetLeading : TextPlaceOperator
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/movetextpositionsetleading/accept/)(IOperatorSelector) | Accetta l'oggetto visitatore per elaborare l'operatore. |
+| override [Accept](../../aspose.pdf.operators/movetextpositionsetleading/accept/)(IOperatorSelector) | Accetta un oggetto visitor per elaborare l'operatore. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Restituisce il testo dell'operatore e i suoi parametri. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto dato. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto fornito. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextPlaceOperator](../textplaceoperator/)
+* class [TextPlaceOperator](../textplaceoperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

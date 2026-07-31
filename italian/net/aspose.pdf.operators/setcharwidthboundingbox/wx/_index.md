@@ -1,12 +1,12 @@
 ---
-title: SetCharWidthBoundingBox.Wx
-second_title: Aspose.PDF for .NET API Reference
-description: Impostazione della larghezza del box di confinamento del carattere. Spostamento orizzontale del glyph.
+title: "SetCharWidthBoundingBox.Wx"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SetCharWidthBoundingBox. Spostamento orizzontale del glifo"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.operators/setcharwidthboundingbox/wx/
 ---
-## Proprietà SetCharWidthBoundingBox.Wx
+## SetCharWidthBoundingBox.Wx property
 
 Spostamento orizzontale del glifo.
 
@@ -14,8 +14,10 @@ Spostamento orizzontale del glifo.
 public double Wx { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetCharWidthBoundingBox](../)
+* class [SetCharWidthBoundingBox](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

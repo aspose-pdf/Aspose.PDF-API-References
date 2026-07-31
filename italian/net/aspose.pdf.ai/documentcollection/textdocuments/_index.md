@@ -1,22 +1,24 @@
 ---
-title: DocumentCollection.TextDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà DocumentCollection. Ottiene o imposta la collezione di documenti di testo da elaborare
+title: "DocumentCollection.TextDocuments"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "DocumentCollection proprietà. Ottiene o imposta la raccolta di documenti di testo da elaborare."
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.ai/documentcollection/textdocuments/
 ---
-## Proprietà DocumentCollection.TextDocuments
+## DocumentCollection.TextDocuments property
 
-Ottiene o imposta la collezione di documenti di testo da elaborare.
+Ottiene o imposta la raccolta di documenti di testo da elaborare.
 
 ```csharp
 public List<TextDocument> TextDocuments { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextDocument](../../textdocument/)
-* classe [DocumentCollection](../)
+* class [TextDocument](../../textdocument/)
+* class [DocumentCollection](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

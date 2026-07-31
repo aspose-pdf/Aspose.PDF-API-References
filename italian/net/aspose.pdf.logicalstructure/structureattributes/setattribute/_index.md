@@ -1,12 +1,12 @@
 ---
-title: StructureAttributes.SetAttribute
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo StructureAttributes. Imposta StructureAttribute in StructureAttributes
+title: "StructureAttributes.SetAttribute"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo StructureAttributes. Imposta StructureAttribute in StructureAttributes"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.logicalstructure/structureattributes/setattribute/
 ---
-## Metodo StructureAttributes.SetAttribute
+## StructureAttributes.SetAttribute method
 
 Imposta StructureAttribute in StructureAttributes.
 
@@ -16,11 +16,13 @@ public void SetAttribute(StructureAttribute attribute)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| attribute | StructureAttribute | StructureAttribute. |
+| attributo | StructureAttribute | StructureAttribute. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureAttribute](../../structureattribute/)
-* classe [StructureAttributes](../)
+* class [StructureAttribute](../../structureattribute/)
+* class [StructureAttributes](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

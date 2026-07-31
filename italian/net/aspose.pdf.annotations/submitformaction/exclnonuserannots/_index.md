@@ -1,21 +1,23 @@
 ---
-title: SubmitFormAction.ExclNonUserAnnots
-second_title: Aspose.PDF for .NET API Reference
-description: Campo SubmitFormAction. Se impostato, includerà solo quelle annotazioni di markup il cui ingresso T corrisponde al nome dell'utente corrente
+title: "SubmitFormAction.ExclNonUserAnnots"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo SubmitFormAction. Se impostato, includerà solo quelle annotazioni di markup la cui voce T corrisponde al nome dell'utente corrente"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.annotations/submitformaction/exclnonuserannots/
 ---
-## Campo SubmitFormAction.ExclNonUserAnnots
+## SubmitFormAction.ExclNonUserAnnots field
 
-Se impostato, includerà solo quelle annotazioni di markup il cui ingresso T corrisponde al nome dell'utente corrente.
+Se impostato, includerà solo quelle annotazioni markup la cui voce T corrisponde al nome dell'utente corrente.
 
 ```csharp
 public const int ExclNonUserAnnots;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SubmitFormAction](../)
+* class [SubmitFormAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

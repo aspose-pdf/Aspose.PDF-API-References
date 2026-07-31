@@ -1,14 +1,14 @@
 ---
-title: License.SetLicense
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo di licenza. Licenza il componente
+title: "License.SetLicense"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo License. Concede la licenza al componente"
 type: docs
-weight: 20
+weight: 40
 url: /it/net/aspose.pdf/license/setlicense/
 ---
 ## SetLicense(string) {#setlicense_1}
 
-Licenza il componente.
+Licenzia il componente.
 
 ```csharp
 public void SetLicense(string licenseName)
@@ -16,37 +16,37 @@ public void SetLicense(string licenseName)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| licenseName | String | Può essere un nome di file completo o breve o il nome di una risorsa incorporata. Usa una stringa vuota per passare alla modalità di valutazione. |
+| licenseName | String | Può essere un nome file completo o breve o il nome di una risorsa incorporata. Usa una stringa vuota per passare alla modalità di valutazione. |
 
 ## Osservazioni
 
-Cerca di trovare la licenza nei seguenti luoghi:
+Cerca di trovare la licenza nei seguenti percorsi:
 
 1. Percorso esplicito.
 
 2. La cartella che contiene l'assembly del componente Aspose.
 
-3. La cartella che contiene l'assembly chiamante del cliente.
+3. La cartella che contiene l'assembly chiamante del client.
 
-4. La cartella che contiene l'assembly di avvio (entry).
+4. La cartella che contiene l'assembly di ingresso (startup).
 
-5. Una risorsa incorporata nell'assembly chiamante del cliente.
+5. Una risorsa incorporata nell'assembly chiamante del client.
 
-**Nota:** Sul .NET Compact Framework, cerca di trovare la licenza solo in questi luoghi:
+**Note:**On the .NET Compact Framework, tries to find the license only in these locations:
 
 1. Percorso esplicito.
 
-2. Una risorsa incorporata nell'assembly chiamante del cliente.
+2. Una risorsa incorporata nell'assembly chiamante del client.
 
 [Java]
 
 2. La cartella che contiene il file JAR del componente Aspose.
 
-3. La cartella che contiene il file JAR chiamante del cliente.
+3. La cartella che contiene il file JAR chiamante del client.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [License](../)
+* class [License](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -54,7 +54,7 @@ Cerca di trovare la licenza nei seguenti luoghi:
 
 ## SetLicense(Stream) {#setlicense}
 
-Licenza il componente.
+Licenzia il componente.
 
 ```csharp
 public void SetLicense(Stream stream)
@@ -68,8 +68,10 @@ public void SetLicense(Stream stream)
 
 Usa questo metodo per caricare una licenza da uno stream.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [License](../)
+* class [License](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

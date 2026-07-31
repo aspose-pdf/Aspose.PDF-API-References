@@ -1,14 +1,14 @@
 ---
-title: Class AutoFiller
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Facades.AutoFiller. Rappresenta una classe per ricevere dati da un database o da un'altra fonte di dati, riempirli nei campi progettati del pdf modello e infine generare un nuovo file o stream pdf. Ha due modalità di input del file modello input come stream o file pdf. Ha quattro tipi di modalità di output un stream unito, un file unito, molti piccoli stream, molti piccoli file. Può ricevere dati letterali contenuti in un System.Data.DataTable.
+title: "Classe AutoFiller"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Facades.AutoFiller class. Rappresenta una classe per ricevere dati da un database o da altre origini dati e inserirli nei campi progettati del PDF modello, generando infine un nuovo file PDF o uno stream. Dispone di due modalità di input del file modello: come stream o come file PDF. Ha quattro tipologie di modalità di output: uno stream unificato, un file unificato, molti piccoli stream, molti piccoli file. Può ricevere dati letterali contenuti in un System.Data.DataTable."
 type: docs
-weight: 4150
+weight: 4270
 url: /it/net/aspose.pdf.facades/autofiller/
 ---
-## Classe AutoFiller
+## AutoFiller class
 
-Rappresenta una classe per ricevere dati da un database o da un'altra fonte di dati, riempirli nei campi progettati del pdf modello e infine generare un nuovo file o stream pdf. Ha due modalità di input del file modello: input come stream o file pdf. Ha quattro tipi di modalità di output: un stream unito, un file unito, molti piccoli stream, molti piccoli file. Può ricevere dati letterali contenuti in un System.Data.DataTable.
+Rappresenta una classe per ricevere dati da un database o da altre origini dati, inserirli nei campi progettati del modello PDF e infine generare un nuovo file PDF o stream. Dispone di due modalità di input per il file modello: input come stream o come file PDF. Ha quattro tipi di modalità di output: un stream unificato, un file unificato, molti piccoli stream, molti piccoli file. Può ricevere dati letterali contenuti in un System.Data.DataTable.
 
 ```csharp
 public sealed class AutoFiller : ISaveableFacade
@@ -24,21 +24,21 @@ public sealed class AutoFiller : ISaveableFacade
 
 | Nome | Descrizione |
 | --- | --- |
-| [BasicFileName](../../aspose.pdf.facades/autofiller/basicfilename/) { get; set; } | Ottiene o imposta il nome di base del file se devono essere generati molti piccoli file. Il file generato sarà come "BasicFileName0","BasicFileName1",... Funziona con un'altra proprietà [`GeneratingPath`](./generatingpath/)GeneratingPath. |
-| [GeneratingPath](../../aspose.pdf.facades/autofiller/generatingpath/) { get; set; } | Ottiene o imposta il percorso di generazione dei piccoli file pdf se devono essere generati molti piccoli file pdf. Funziona con un'altra proprietà [`BasicFileName`](./basicfilename/)BasicFileName. Una delle quattro modalità di output. |
-| [OutputStreams](../../aspose.pdf.facades/autofiller/outputstreams/) { get; set; } | Ottiene o imposta i molti stream di output. Una delle quattro modalità di output. |
+| [BasicFileName](../../aspose.pdf.facades/autofiller/basicfilename/) { get; set; } | Ottiene o imposta il nome base del file se verranno generati molti piccoli file. Il file generato sarà del tipo "BasicFileName0","BasicFileName1",... Funziona con un'altra proprietà [`GeneratingPath`](./generatingpath/)GeneratingPath. |
+| [GeneratingPath](../../aspose.pdf.facades/autofiller/generatingpath/) { get; set; } | Ottiene o imposta il Percorso di Generazione dei piccoli file PDF se devono essere generati molti piccoli file PDF. Funziona con un'altra proprietà [`BasicFileName`](./basicfilename/)BasicFileName. Una delle quattro modalità di output. |
+| [OutputStreams](../../aspose.pdf.facades/autofiller/outputstreams/) { get; set; } | Ottiene o imposta i numerosi Output Streams. Una delle quattro modalità di output. |
 | [UnFlattenFields](../../aspose.pdf.facades/autofiller/unflattenfields/) { set; } | Imposta i campi che non saranno appiattiti. Se questa proprietà non è impostata, tutti i campi saranno appiattiti. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [BindPdf](../../aspose.pdf.facades/autofiller/bindpdf/#bindpdf)(Document) | Collega un documento Pdf. |
-| [BindPdf](../../aspose.pdf.facades/autofiller/bindpdf/#bindpdf_1)(Stream) | Collega un file Pdf. |
-| [BindPdf](../../aspose.pdf.facades/autofiller/bindpdf/#bindpdf_2)(string) | Collega un file Pdf. |
+| [BindPdf](../../aspose.pdf.facades/autofiller/bindpdf/#bindpdf)(Document) | Associa un documento Pdf. |
+| [BindPdf](../../aspose.pdf.facades/autofiller/bindpdf/#bindpdf_1)(Stream) | Associa un file Pdf. |
+| [BindPdf](../../aspose.pdf.facades/autofiller/bindpdf/#bindpdf_2)(string) | Associa un file Pdf. |
 | [Close](../../aspose.pdf.facades/autofiller/close/)() | Chiude l'oggetto e gli stream di output. |
 | [Dispose](../../aspose.pdf.facades/autofiller/dispose/)() | Chiude l'oggetto e gli stream di output. |
-| [ImportDataTable](../../aspose.pdf.facades/autofiller/importdatatable/)(DataTable) | Importa dati di tipo DataTable. Ogni nome di colonna del dataTable deve essere lo stesso di un nome di campo del pdf modello, rispettando le maiuscole e minuscole. |
+| [ImportDataTable](../../aspose.pdf.facades/autofiller/importdatatable/)(DataTable) | Importa dati di tipo DataTable. Il nome di ogni colonna del dataTable deve corrispondere esattamente a quello di un campo del PDF modello, rispettando il case. |
 | [Save](../../aspose.pdf.facades/autofiller/save/#save_1)(Stream) | Salva tutti i pdf. |
 | [Save](../../aspose.pdf.facades/autofiller/save/#save_2)(string) | Salva tutti i pdf. |
 
@@ -46,14 +46,14 @@ public sealed class AutoFiller : ISaveableFacade
 
 ```csharp
 [C#]
-//Note: mail.pdf is a template pdf which has seven text fields. NorthWind.mdb is the microsoft access db.
-////Common part: Get the data from the database NorthWind.mdb fill it into the DataTable.
+//Nota: mail.pdf è un pdf modello che contiene sette campi di testo. NorthWind.mdb è il database Microsoft Access.
+////Common part: Ottieni i dati dal database NorthWind.mdb e inseriscili nel DataTable.
 			
 OleDbCommand mQueryCommand;
 OleDbDataAdapter mDbDataAdapter;
 OleDbConnection mDbConnection;
 
-//Construct the data table.
+//Costruisci la DataTable.
 DataTable mDataTable = new DataTable("MailMerge");
 DataColumnCollection columns = mDataTable.Columns;
 columns.Add("CompanyName",typeof(string));
@@ -65,7 +65,7 @@ columns.Add("Country",typeof(string));
 columns.Add("Heading",typeof(string));
 
 
-//Connect to the database source and query the data.
+//Connettiti alla sorgente del database e interroga i dati.
 mDbConnection = new OleDbConnection();
 mDbConnection.ConnectionString = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source=" + 
 DbPath + "NorthWind.mdb";
@@ -88,10 +88,10 @@ for (int i = 0; i<mDataTable.Rows.Count;i++)
 
 mDbDataAdapter.Dispose();
 mDbConnection.Close();
-////End of Common part.
+////Fine della parte comune.
 
-////case one:
-////Input template pdf is a pdf file and output is a big merged stream.		
+////caso uno:
+////Il pdf modello di input è un file pdf e l'output è un grande flusso unito.		
  
 AutoFiller autoFiller = new AutoFiller();
 		
@@ -101,8 +101,8 @@ autoFiller.OutputStream = Response.OutputStream;
 autoFiller.ImportDataTable(mDataTable);
 autoFiller.Save();
 
-////case two:
-////Input template pdf is a pdf file and output is a lot of small files.
+////caso due:
+////Il pdf modello di input è un file pdf e l'output è un gran numero di file piccoli.
 AutoFiller autoFiller = new AutoFiller();
 		
 autoFiller.InputFileName = "mail.pdf";
@@ -185,8 +185,10 @@ autoFiller.ImportDataTable(mDataTable)
 autoFiller.Save()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [ISaveableFacade](../isaveablefacade/)
+* interface [ISaveableFacade](../isaveablefacade/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

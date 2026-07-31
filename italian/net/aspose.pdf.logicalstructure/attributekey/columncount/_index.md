@@ -1,12 +1,12 @@
 ---
-title: AttributeKey.ColumnCount
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeKey. Attributo ColumnCount proprietario dell'attributo Layout
+title: "AttributeKey.ColumnCount"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeKey campo. ColumnCount attributo Layout attributo proprietario"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.logicalstructure/attributekey/columncount/
 ---
-## Campo AttributeKey.ColumnCount
+## AttributeKey.ColumnCount field
 
 Attributo ColumnCount (proprietario dell'attributo Layout).
 
@@ -14,8 +14,10 @@ Attributo ColumnCount (proprietario dell'attributo Layout).
 public static readonly AttributeKey ColumnCount;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

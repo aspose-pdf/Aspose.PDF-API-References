@@ -1,21 +1,23 @@
 ---
-title: PageSize.A0
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PageSize. Dimensione A0 1189x840 mm
+title: "PageSize.A0"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PageSize. Dimensione A0 1189x840 mm"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/pagesize/a0/
 ---
-## Proprietà PageSize.A0
+## PageSize.A0 property
 
-Dimensione A0 (1189x840 mm).
+Formato A0 (1189x840 mm).
 
 ```csharp
 public static PageSize A0 { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageSize](../)
+* class [PageSize](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

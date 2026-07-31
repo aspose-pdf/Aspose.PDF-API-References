@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.SetPrivilege
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfFileSecurity. Imposta la sicurezza del file Pdf con password utente/proprietario vuote. La password del proprietario sarà aggiunta da una stringa casuale. Genera un'eccezione se il processo fallisce
+title: "PdfFileSecurity.SetPrivilege"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfFileSecurity. Imposta la sicurezza del file Pdf con password utente/proprietario vuote. La password del proprietario verrà aggiunta con una stringa casuale. Genera un'eccezione se il processo fallisce"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.facades/pdffilesecurity/setprivilege/
 ---
 ## SetPrivilege(DocumentPrivilege) {#setprivilege}
 
-Imposta la sicurezza del file Pdf con password utente/proprietario vuote. La password del proprietario sarà aggiunta da una stringa casuale. Genera un'eccezione se il processo fallisce.
+Imposta la sicurezza del file Pdf con password utente/proprietario vuote. La password proprietario sarà aggiunta con una stringa casuale. Genera un'eccezione se l'operazione fallisce.
 
 ```csharp
 public bool SetPrivilege(DocumentPrivilege privilege)
@@ -16,11 +16,11 @@ public bool SetPrivilege(DocumentPrivilege privilege)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| privilege | DocumentPrivilege | Imposta il privilegio. |
+| privilegio | DocumentPrivilege | Imposta privilegio. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-True per successo.
+True per il successo.
 
 ## Esempi
 
@@ -38,10 +38,10 @@ Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile)
 fileSecurity.SetPrivilege(DocumentPrivilege.Print)
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocumentPrivilege](../../documentprivilege/)
-* classe [PdfFileSecurity](../)
+* class [DocumentPrivilege](../../documentprivilege/)
+* class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -49,7 +49,7 @@ fileSecurity.SetPrivilege(DocumentPrivilege.Print)
 
 ## SetPrivilege(string, string, DocumentPrivilege) {#setprivilege_1}
 
-Imposta la sicurezza del file Pdf con password originale. Genera un'eccezione se il processo fallisce.
+Imposta la sicurezza del file Pdf con la password originale. Genera un'eccezione se l'operazione fallisce.
 
 ```csharp
 public bool SetPrivilege(string userPassword, string ownerPassword, DocumentPrivilege privilege)
@@ -59,11 +59,11 @@ public bool SetPrivilege(string userPassword, string ownerPassword, DocumentPriv
 | --- | --- | --- |
 | userPassword | String | Password utente originale. |
 | ownerPassword | String | Password proprietario originale. |
-| privilege | DocumentPrivilege | Imposta il privilegio. |
+| privilegio | DocumentPrivilege | Imposta privilegio. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-True per successo.
+True per il successo.
 
 ## Esempi
 
@@ -81,9 +81,11 @@ Dim fileSecurity As PdfFileSecurity = New PdfFileSecurity(inFile,outFile)
 fileSecurity.SetPrivilege(userPassword, ownerPassword, DocumentPrivilege.Print)
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocumentPrivilege](../../documentprivilege/)
-* classe [PdfFileSecurity](../)
+* class [DocumentPrivilege](../../documentprivilege/)
+* class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

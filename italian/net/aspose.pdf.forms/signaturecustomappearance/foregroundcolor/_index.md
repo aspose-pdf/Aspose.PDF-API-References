@@ -1,22 +1,24 @@
 ---
-title: SignatureCustomAppearance.ForegroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SignatureCustomAppearance. Ottiene/imposta il colore di primo piano del testo. Valore predefinito Blu
+title: "SignatureCustomAppearance.ForegroundColor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SignatureCustomAppearance. Ottiene/imposta il colore di primo piano del testo. Valore predefinito Blu"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf.forms/signaturecustomappearance/foregroundcolor/
 ---
-## Proprietà SignatureCustomAppearance.ForegroundColor
+## SignatureCustomAppearance.ForegroundColor property
 
-Ottiene/imposta il colore di primo piano (colore del testo). Valore predefinito: Blu.
+Ottiene/imposta il colore di primo piano (colore del testo). Valore predefinito: Blue.
 
 ```csharp
 public Color ForegroundColor { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../../../aspose.pdf/color/)
-* classe [SignatureCustomAppearance](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

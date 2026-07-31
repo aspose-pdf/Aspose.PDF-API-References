@@ -1,14 +1,14 @@
 ---
-title: CommonFigureAnnotation.CommonFigureAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di CommonFigureAnnotation. Costruttore da utilizzare in Generator
+title: "CommonFigureAnnotation.CommonFigureAnnotation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore CommonFigureAnnotation. Costruttore da utilizzare nel Generator"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/commonfigureannotation/commonfigureannotation/
 ---
-## Costruttore di CommonFigureAnnotation
+## CommonFigureAnnotation constructor
 
-Costruttore da utilizzare in Generator.
+Costruttore per l'uso in Generator.
 
 ```csharp
 public CommonFigureAnnotation(Document document)
@@ -16,11 +16,13 @@ public CommonFigureAnnotation(Document document)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| document | Document | Documento in cui verrà posizionata l'annotazione. |
+| document | Document | Document dove verrà posizionata l'annotazione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [CommonFigureAnnotation](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [CommonFigureAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

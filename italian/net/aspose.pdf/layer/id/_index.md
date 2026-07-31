@@ -1,21 +1,23 @@
 ---
-title: Layer.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Layer. Ottiene l'id del layer
+title: "Layer.Id"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Layer. Ottiene l'ID del Layer."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/layer/id/
 ---
-## Proprietà Layer.Id
+## Layer.Id property
 
-Ottiene l'id del layer.
+Ottiene l'ID del livello.
 
 ```csharp
 public string Id { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Layer](../)
+* class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: OutputTextStyle.InsertedStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà OutputTextStyle. Ottieni e imposta uno stile di testo per il testo inserito
+title: "OutputTextStyle.InsertedStyle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà OutputTextStyle. Ottieni e imposta uno stile di testo per il testo inserito"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.comparison/outputtextstyle/insertedstyle/
 ---
-## Proprietà OutputTextStyle.InsertedStyle
+## OutputTextStyle.InsertedStyle property
 
 Ottieni e imposta uno stile di testo per il testo inserito.
 
@@ -14,9 +14,11 @@ Ottieni e imposta uno stile di testo per il testo inserito.
 public TextStyle InsertedStyle { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextStyle](../../textstyle/)
-* classe [OutputTextStyle](../)
+* class [TextStyle](../../textstyle/)
+* class [OutputTextStyle](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

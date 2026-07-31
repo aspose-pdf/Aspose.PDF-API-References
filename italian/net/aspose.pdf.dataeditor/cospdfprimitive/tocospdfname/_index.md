@@ -1,14 +1,14 @@
 ---
-title: CosPdfPrimitive.ToCosPdfName
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo CosPdfPrimitive. Tenta di convertire questa istanza in CosPdfName
+title: "CosPdfPrimitive.ToCosPdfName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo CosPdfPrimitive. Prova a eseguire il cast di questa istanza a CosPdfName"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.dataeditor/cospdfprimitive/tocospdfname/
 ---
-## CosPdfPrimitive.ToCosPdfName metodo
+## CosPdfPrimitive.ToCosPdfName method
 
-Tenta di convertire questa istanza in [`CosPdfName`](../../cospdfname/).
+Prova a eseguire il cast di questa istanza a [`CosPdfName`](../../cospdfname/).
 
 ```csharp
 public virtual CosPdfName ToCosPdfName()
@@ -20,7 +20,9 @@ null se l'istanza non è [`CosPdfName`](../../cospdfname/) altrimenti [`CosPdfNa
 
 ### Vedi anche
 
-* classe [CosPdfName](../../cospdfname/)
-* classe [CosPdfPrimitive](../)
+* class [CosPdfName](../../cospdfname/)
+* class [CosPdfPrimitive](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

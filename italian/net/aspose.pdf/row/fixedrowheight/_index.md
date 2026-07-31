@@ -1,12 +1,12 @@
 ---
-title: Row.FixedRowHeight
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Row. Ottiene l'altezza fissa della riga - la riga può avere un'altezza fissa
+title: "Row.FixedRowHeight"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Row. Ottiene l'altezza fissa della riga; la riga può avere un'altezza fissa"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf/row/fixedrowheight/
 ---
-## Proprietà Row.FixedRowHeight
+## Row.FixedRowHeight property
 
 Ottiene l'altezza fissa della riga - la riga può avere un'altezza fissa;
 
@@ -14,8 +14,10 @@ Ottiene l'altezza fissa della riga - la riga può avere un'altezza fissa;
 public double FixedRowHeight { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Row](../)
+* class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

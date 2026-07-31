@@ -1,22 +1,24 @@
 ---
-title: CharInfo.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà CharInfo. Ottiene la posizione del carattere
+title: "CharInfo.Position"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà CharInfo. Ottiene la posizione del carattere"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.text/charinfo/position/
 ---
-## Proprietà CharInfo.Position
+## CharInfo.Position property
 
-Ottiene la posizione del carattere.
+Restituisce la posizione del carattere.
 
 ```csharp
 public Position Position { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Position](../../position/)
-* classe [CharInfo](../)
+* class [Position](../../position/)
+* class [CharInfo](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

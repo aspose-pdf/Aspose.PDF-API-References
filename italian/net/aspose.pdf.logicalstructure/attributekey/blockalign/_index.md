@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.BlockAlign
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeKey. Attributo BlockAlign Proprietario dell'attributo Layout
+title: "AttributeKey.BlockAlign"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeKey campo. BlockAlign attributo Layout attributo proprietario"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.logicalstructure/attributekey/blockalign/
 ---
-## Campo AttributeKey.BlockAlign
+## AttributeKey.BlockAlign field
 
-Attributo BlockAlign (Proprietario dell'attributo Layout).
+Attributo BlockAlign (proprietario dell'attributo Layout).
 
 ```csharp
 public static readonly AttributeKey BlockAlign;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

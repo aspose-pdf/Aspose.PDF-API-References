@@ -1,22 +1,24 @@
 ---
-title: PdfFormatConversionOptions.UnicodeProcessingRules
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del PdfFormatConversionOptions. Regole per risolvere i problemi con mappatura Unicode. Può essere null.
+title: "PdfFormatConversionOptions.UnicodeProcessingRules"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfFormatConversionOptions. Regole per risolvere i problemi di mappatura Unicode. Può essere null"
 type: docs
-weight: 220
+weight: 230
 url: /it/net/aspose.pdf/pdfformatconversionoptions/unicodeprocessingrules/
 ---
-## Proprietà PdfFormatConversionOptions.UnicodeProcessingRules
+## PdfFormatConversionOptions.UnicodeProcessingRules property
 
-Regole per risolvere problemi con il mapping unicode. Può essere nullo.
+Regole per risolvere i problemi di mappatura Unicode. Può essere nullo.
 
 ```csharp
 public ToUnicodeProcessingRules UnicodeProcessingRules { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ToUnicodeProcessingRules](../../tounicodeprocessingrules/)
-* classe [PdfFormatConversionOptions](../)
+* class [ToUnicodeProcessingRules](../../tounicodeprocessingrules/)
+* class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

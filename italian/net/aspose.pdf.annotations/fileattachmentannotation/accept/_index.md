@@ -1,14 +1,14 @@
 ---
-title: FileAttachmentAnnotation.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: FileAttachmentAnnotation metodo Accetta oggetto visitor per processare l'annotazione.
+title: "FileAttachmentAnnotation.Accept"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FileAttachmentAnnotation metodo. Accetta l'oggetto visitatore per elaborare l'annotazione"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.annotations/fileattachmentannotation/accept/
 ---
-## Metodo FileAttachmentAnnotation.Accept
+## FileAttachmentAnnotation.Accept method
 
-Accetta un oggetto visitatore per elaborare l'annotazione.
+Accetta un oggetto visitor per elaborare l'annotazione.
 
 ```csharp
 public override void Accept(AnnotationSelector visitor)
@@ -16,11 +16,13 @@ public override void Accept(AnnotationSelector visitor)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Oggetto visitatore. |
+| visitatore | AnnotationSelector | Oggetto visitor. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AnnotationSelector](../../annotationselector/)
-* classe [FileAttachmentAnnotation](../)
+* class [AnnotationSelector](../../annotationselector/)
+* class [FileAttachmentAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

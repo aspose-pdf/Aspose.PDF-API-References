@@ -1,12 +1,12 @@
 ---
-title: FormEditor.SetFieldAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo FormEditor. Imposta i flag del campo
+title: "FormEditor.SetFieldAppearance"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo FormEditor. Imposta i flag del campo"
 type: docs
 weight: 280
 url: /it/net/aspose.pdf.facades/formeditor/setfieldappearance/
 ---
-## Metodo FormEditor.SetFieldAppearance
+## FormEditor.SetFieldAppearance method
 
 Imposta i flag del campo
 
@@ -19,9 +19,9 @@ public bool SetFieldAppearance(string fieldName, AnnotationFlags flags)
 | fieldName | String | Nome del campo i cui flag devono essere aggiornati. |
 | flags | AnnotationFlags | Flag del campo. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-true se i flag sono stati aggiornati con successo.
+vero se le flag sono state aggiornate correttamente.
 
 ## Esempi
 
@@ -31,9 +31,11 @@ formEditor.SetFieldAppearance("Name", AnnotationFlags.Hidden);
 formEditor.SetFieldAppearance("Phone", AnnotationFlags.NoView | AnnotationFlags.Print);
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [AnnotationFlags](../../../aspose.pdf.annotations/annotationflags/)
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

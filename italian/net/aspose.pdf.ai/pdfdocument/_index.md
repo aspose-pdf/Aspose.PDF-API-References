@@ -1,12 +1,12 @@
 ---
-title: Class PdfDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.PdfDocument. Rappresenta un documento PDF con un nome
+title: "Classe PdfDocument"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.AI.PdfDocument. Rappresenta un documento PDF con un nome."
 type: docs
-weight: 940
+weight: 1020
 url: /it/net/aspose.pdf.ai/pdfdocument/
 ---
-## Classe PdfDocument
+## PdfDocument class
 
 Rappresenta un documento PDF con un nome.
 
@@ -27,7 +27,9 @@ public class PdfDocument
 | [Document](../../aspose.pdf.ai/pdfdocument/document/) { get; set; } | Ottiene o imposta il documento PDF. |
 | [Name](../../aspose.pdf.ai/pdfdocument/name/) { get; set; } | Ottiene o imposta il nome del documento PDF. Genera un nuovo GUID se il nome non è impostato. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

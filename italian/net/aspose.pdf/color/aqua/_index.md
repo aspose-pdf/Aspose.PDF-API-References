@@ -1,12 +1,12 @@
 ---
-title: Color.Aqua
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà colore. Ottiene un colore definito dal sistema che ha un valore ARGB di c FF00FFFF
+title: "Color.Aqua"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Color. Restituisce un colore predefinito di sistema con valore ARGB c FF00FFFF"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/color/aqua/
 ---
-## Proprietà Color.Aqua
+## Color.Aqua property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FF00FFFF.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FF00FFFF.
 public static Color Aqua { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un colore che rappresenta un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Metadata.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Metadata. Ottiene il conteggio degli elementi nella collezione
+title: "Metadata.Count"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Metadata. Ottiene il conteggio degli elementi nella collezione"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/metadata/count/
 ---
-## Proprietà Metadata.Count
+## Metadata.Count property
 
 Ottiene il conteggio degli elementi nella collezione.
 
@@ -14,8 +14,10 @@ Ottiene il conteggio degli elementi nella collezione.
 public int Count { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Metadata](../)
+* class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

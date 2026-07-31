@@ -1,12 +1,12 @@
 ---
-title: Stamp.Opacity
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Stamp. Ottiene o imposta l'opacità del timbro
+title: "Stamp.Opacity"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà di Stamp. Ottiene o imposta l'opacità del timbro"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.facades/stamp/opacity/
 ---
-## Proprietà Stamp.Opacity
+## Stamp.Opacity property
 
 Ottiene o imposta l'opacità del timbro.
 
@@ -14,8 +14,10 @@ Ottiene o imposta l'opacità del timbro.
 public float Opacity { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Stamp](../)
+* class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

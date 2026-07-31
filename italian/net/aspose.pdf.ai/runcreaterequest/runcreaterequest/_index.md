@@ -1,12 +1,12 @@
 ---
-title: RunCreateRequest.RunCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di RunCreateRequest. Il costruttore predefinito
+title: "RunCreateRequest.RunCreateRequest"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore RunCreateRequest. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/runcreaterequest/runcreaterequest/
 ---
-## Costruttore di RunCreateRequest
+## RunCreateRequest constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public RunCreateRequest()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RunCreateRequest](../)
+* class [RunCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

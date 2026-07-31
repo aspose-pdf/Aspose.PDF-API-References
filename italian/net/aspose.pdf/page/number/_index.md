@@ -1,12 +1,12 @@
 ---
-title: Page.Number
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Page. Ottieni il numero della pagina
+title: "Page.Number"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Page property. Ottieni il numero della pagina"
 type: docs
 weight: 200
 url: /it/net/aspose.pdf/page/number/
 ---
-## Proprietà Page.Number
+## Page.Number property
 
 Ottieni il numero della pagina.
 
@@ -16,6 +16,8 @@ public int Number { get; }
 
 ### Vedi anche
 
-* classe [Page](../)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SaveOptions.ResourceSavingInfo.ContentStream
-second_title: Aspose.PDF for .NET API Reference
-description: Campo ResourceSavingInfo. Impostato dal convertitore. Rappresenta il contenuto binario del file salvato
+title: "SaveOptions.ResourceSavingInfo.ContentStream"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo ResourceSavingInfo. Impostato dal convertitore. Rappresenta il contenuto binario del file salvato"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/saveoptions.resourcesavinginfo/contentstream/
 ---
-## Campo SaveOptions.ResourceSavingInfo.ContentStream
+## SaveOptions.ResourceSavingInfo.ContentStream field
 
 Impostato dal convertitore. Rappresenta il contenuto binario del file salvato.
 
@@ -14,8 +14,10 @@ Impostato dal convertitore. Rappresenta il contenuto binario del file salvato.
 public Stream ContentStream;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ResourceSavingInfo](../)
+* class [ResourceSavingInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: ImageDevice.ImageDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di ImageDevice. Inizializzatore astratto per i discendenti di ImageDevice impostare la risoluzione a 150x150
+title: "ImageDevice.ImageDevice"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore ImageDevice. Inizializzatore astratto per le classi derivate da ImageDevice, imposta la risoluzione a 150x150"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.devices/imagedevice/imagedevice/
 ---
 ## ImageDevice() {#constructor}
 
-Inizializzatore astratto per i discendenti di [`ImageDevice`](../), imposta la risoluzione a 150x150.
+Inizializzatore astratto per le classi derivate da [`ImageDevice`](../), imposta la risoluzione a 150x150.
 
 ```csharp
 public ImageDevice()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImageDevice](../)
+* class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,16 +24,16 @@ public ImageDevice()
 
 ## ImageDevice(Resolution) {#constructor_1}
 
-Inizializzatore astratto per i discendenti di [`ImageDevice`](../). Risoluzione per il file immagine risultante, vedere la classe [`Resolution`](../resolution/).
+Inizializzatore astratto per le classi derivate da [`ImageDevice`](../). Risoluzione per il file immagine risultante, vedere la classe [`Resolution`](../resolution/).
 
 ```csharp
 public ImageDevice(Resolution resolution)
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Resolution](../../resolution/)
-* classe [ImageDevice](../)
+* class [Resolution](../../resolution/)
+* class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -49,12 +49,12 @@ public ImageDevice(int width, int height)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| width | Int32 | Larghezza dell'immagine in output. |
-| height | Int32 | Altezza dell'immagine in output. |
+| larghezza | Int32 | Larghezza dell'immagine di output. |
+| altezza | Int32 | Altezza dell'immagine di output. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImageDevice](../)
+* class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -70,12 +70,12 @@ public ImageDevice(PageSize pageSize)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pageSize | PageSize | Dimensione della pagina dell'immagine in output. |
+| pageSize | PageSize | Dimensione della pagina dell'immagine di output. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageSize](../../../aspose.pdf/pagesize/)
-* classe [ImageDevice](../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -91,14 +91,14 @@ public ImageDevice(int width, int height, Resolution resolution)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| width | Int32 | Larghezza dell'immagine in output. |
-| height | Int32 | Altezza dell'immagine in output. |
+| larghezza | Int32 | Larghezza dell'immagine di output. |
+| altezza | Int32 | Altezza dell'immagine di output. |
 | resolution | Resolution | Risoluzione per il file immagine risultante, vedere la classe [`Resolution`](../resolution/). |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Resolution](../../resolution/)
-* classe [ImageDevice](../)
+* class [Resolution](../../resolution/)
+* class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
 
@@ -114,13 +114,15 @@ public ImageDevice(PageSize pageSize, Resolution resolution)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pageSize | PageSize | Dimensione della pagina dell'immagine in output. |
+| pageSize | PageSize | Dimensione della pagina dell'immagine di output. |
 | resolution | Resolution | Risoluzione per il file immagine risultante, vedere la classe [`Resolution`](../resolution/). |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageSize](../../../aspose.pdf/pagesize/)
-* classe [Resolution](../../resolution/)
-* classe [ImageDevice](../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [Resolution](../../resolution/)
+* class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

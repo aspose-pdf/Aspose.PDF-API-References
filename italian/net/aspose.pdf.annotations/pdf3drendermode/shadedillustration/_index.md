@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.ShadedIllustration
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PDF3DRenderMode. La modalità di rendering ShadedIllustration
+title: "PDF3DRenderMode.ShadedIllustration"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PDF3DRenderMode campo. La modalità di rendering ShadedIllustration"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.annotations/pdf3drendermode/shadedillustration/
 ---
-## Campo PDF3DRenderMode.ShadedIllustration
+## PDF3DRenderMode.ShadedIllustration field
 
 La modalità di rendering "ShadedIllustration".
 
@@ -14,8 +14,10 @@ La modalità di rendering "ShadedIllustration".
 public static PDF3DRenderMode ShadedIllustration;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PDF3DRenderMode](../)
+* class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

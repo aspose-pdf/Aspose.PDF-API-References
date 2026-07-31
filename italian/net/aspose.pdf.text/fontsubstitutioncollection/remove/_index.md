@@ -1,12 +1,12 @@
 ---
-title: FontSubstitutionCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo FontSubstitutionCollection. Elimina l'elemento di sostituzione del font
+title: "FontSubstitutionCollection.Remove"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FontSubstitutionCollection metodo. Elimina l'elemento di sostituzione del carattere"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.text/fontsubstitutioncollection/remove/
 ---
-## Metodo FontSubstitutionCollection.Remove
+## FontSubstitutionCollection.Remove method
 
 Elimina l'elemento di sostituzione del font.
 
@@ -24,7 +24,9 @@ True - se l'elemento è stato rimosso; altrimenti, false.
 
 ### Vedi anche
 
-* classe [FontSubstitution](../../fontsubstitution/)
-* classe [FontSubstitutionCollection](../)
+* class [FontSubstitution](../../fontsubstitution/)
+* class [FontSubstitutionCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

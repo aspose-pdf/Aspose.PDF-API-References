@@ -1,12 +1,12 @@
 ---
-title: Facade.Dispose
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Facade. Rilascia la facciata
+title: "Facade.Dispose"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Facade. Rilascia la facciata"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.facades/facade/dispose/
 ---
-## Metodo Facade.Dispose
+## Facade.Dispose method
 
 Rilascia la facciata.
 
@@ -14,8 +14,10 @@ Rilascia la facciata.
 public void Dispose()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Facade](../)
+* class [Facade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

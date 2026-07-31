@@ -1,21 +1,23 @@
 ---
-title: TextParagraph.FirstLineIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextParagraph. Ottiene o imposta il valore di rientro delle linee successive. Se impostato su un valore diverso da zero, ha un vantaggio rispetto al valore FormattingOptions.SubsequentLinesIndent
+title: "TextParagraph.FirstLineIndent"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextParagraph. Ottiene o imposta il valore di rientro delle righe successive. Se impostato a un valore diverso da zero ha un vantaggio rispetto al valore FormattingOptions.SubsequentLinesIndent"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.text/textparagraph/firstlineindent/
 ---
-## Proprietà TextParagraph.FirstLineIndent
+## TextParagraph.FirstLineIndent property
 
-Ottiene o imposta il valore di rientro delle linee successive. Se impostato su un valore diverso da zero, ha un vantaggio rispetto al valore FormattingOptions.SubsequentLinesIndent.
+Ottiene o imposta il valore di rientro delle righe successive. Se impostato a un valore diverso da zero, ha un vantaggio rispetto al valore FormattingOptions.SubsequentLinesIndent.
 
 ```csharp
 public float FirstLineIndent { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextParagraph](../)
+* class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

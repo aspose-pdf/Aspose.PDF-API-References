@@ -1,14 +1,14 @@
 ---
-title: Class PaperSize
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Printing.PaperSize. Specifica la dimensione di un foglio di carta
+title: "Classe PaperSize"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Printing.PaperSize. Specifica le dimensioni di un foglio di carta"
 type: docs
-weight: 9570
+weight: 9720
 url: /it/net/aspose.pdf.printing/papersize/
 ---
-## Classe PaperSize
+## PaperSize class
 
-Specifica la dimensione di un foglio di carta.
+Specifica le dimensioni di un foglio di carta.
 
 ```csharp
 public class PaperSize
@@ -18,7 +18,7 @@ public class PaperSize
 
 | Nome | Descrizione |
 | --- | --- |
-| [PaperSize](papersize/#constructor)() | Inizializza una nuova istanza della classe `PaperSize` con proprietà predefinite. |
+| [PaperSize](papersize/#constructor)() | Inizializza una nuova istanza della classe `PaperSize` con le proprietà predefinite. |
 | [PaperSize](papersize/#constructor_1)(string, int, int) | Inizializza una nuova istanza della classe `PaperSize`. |
 
 ## Proprietà
@@ -34,9 +34,11 @@ public class PaperSize
 
 | Nome | Descrizione |
 | --- | --- |
-| override [ToString](../../aspose.pdf.printing/papersize/tostring/)() | Fornisce alcune informazioni interessanti sulla PaperSize in forma di Stringa. |
+| override [ToString](../../aspose.pdf.printing/papersize/tostring/)() | Fornisce alcune informazioni interessanti sul PaperSize in forma di stringa. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

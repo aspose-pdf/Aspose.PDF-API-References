@@ -1,12 +1,12 @@
 ---
-title: Class BDCProperties
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Facades.BDCProperties. Proprietà dell'operatore BDC
+title: "Classe BDCProperties"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Facades.BDCProperties. Proprietà dell'operatore BDC"
 type: docs
-weight: 4170
+weight: 4290
 url: /it/net/aspose.pdf.facades/bdcproperties/
 ---
-## Classe BDCProperties
+## BDCProperties class
 
 Proprietà dell'operatore BDC.
 
@@ -25,11 +25,13 @@ public class BDCProperties
 
 | Nome | Descrizione |
 | --- | --- |
-| [E](../../aspose.pdf.facades/bdcproperties/e/) { get; set; } | Ottiene/imposta il valore del testo di espansione. |
+| [E](../../aspose.pdf.facades/bdcproperties/e/) { get; set; } | Ottiene/imposta il valore del testo Expansion. |
 | [Lang](../../aspose.pdf.facades/bdcproperties/lang/) { get; set; } | Ottiene/imposta il valore della lingua. |
 | [MCID](../../aspose.pdf.facades/bdcproperties/mcid/) { get; } | Ottiene/imposta il valore MCID. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

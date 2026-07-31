@@ -1,7 +1,7 @@
 ---
-title: DefaultAppearance.DefaultAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: DefaultAppearance costruttore. Costruttore di DefaultAppearance.
+title: "DefaultAppearance.DefaultAppearance"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore di DefaultAppearance. Costruttore di DefaultAppearance"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/defaultappearance/defaultappearance/
@@ -14,9 +14,9 @@ Costruttore di DefaultAppearance.
 public DefaultAppearance()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DefaultAppearance](../)
+* class [DefaultAppearance](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -33,12 +33,12 @@ public DefaultAppearance(string fontName, double fontSize, Color textColor)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | fontName | String | Nome del font. |
-| fontSize | Double | Dimensione del font. |
+| fontSize | Double | Dimensione del carattere. |
 | textColor | Color | Colore del testo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DefaultAppearance](../)
+* class [DefaultAppearance](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -46,7 +46,7 @@ public DefaultAppearance(string fontName, double fontSize, Color textColor)
 
 ## DefaultAppearance(Font, double, Color) {#constructor_1}
 
-Costruttore di Default Appearance. Un font precedentemente creato può essere specificato come font predefinito.
+Costruttore di Default Appearance. Il font creato in precedenza può essere specificato come font predefinito.
 
 ```csharp
 public DefaultAppearance(Font font, double fontSize, Color textColor)
@@ -54,13 +54,15 @@ public DefaultAppearance(Font font, double fontSize, Color textColor)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| font | Font | Font che sarà utilizzato come predefinito. |
-| fontSize | Double | Dimensione del font. |
+| font | Font | Font che verrà usato come predefinito. |
+| fontSize | Double | Dimensione del carattere. |
 | textColor | Color | Colore del testo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Font](../../../aspose.pdf.text/font/)
-* classe [DefaultAppearance](../)
+* class [Font](../../../aspose.pdf.text/font/)
+* class [DefaultAppearance](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

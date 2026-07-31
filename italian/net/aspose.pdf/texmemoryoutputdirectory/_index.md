@@ -1,14 +1,14 @@
 ---
-title: Class TeXMemoryOutputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.TeXMemoryOutputDirectory. Implementa il recupero di uno stream di output dalla memoria. Puoi usarlo, ad esempio, quando non vuoi che l'output accompagnatorio venga scritto su disco, ma desideri leggerlo successivamente dalla memoria.
+title: "Classe TeXMemoryOutputDirectory"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.TeXMemoryOutputDirectory. Implementa il recupero di uno stream di output dalla memoria. Puoi usarla, ad esempio, quando non desideri che l'output allegato, come un file di log, venga scritto su disco ma vuoi leggerlo successivamente dalla memoria."
 type: docs
-weight: 10390
+weight: 10570
 url: /it/net/aspose.pdf/texmemoryoutputdirectory/
 ---
-## Classe TeXMemoryOutputDirectory
+## TeXMemoryOutputDirectory class
 
-Implementa il recupero di uno stream di output dalla memoria. Puoi usarlo, ad esempio, quando non vuoi che l'output accompagnatorio (come un file di log) venga scritto su disco, ma desideri leggerlo successivamente dalla memoria.
+Implementa il recupero di uno stream di output dalla memoria. Puoi usarlo, ad esempio, quando non vuoi che l'output associato (come un file di log) venga scritto su disco ma desideri leggerlo successivamente dalla memoria.
 
 ```csharp
 public class TeXMemoryOutputDirectory : ITeXOutputDirectory
@@ -24,12 +24,14 @@ public class TeXMemoryOutputDirectory : ITeXOutputDirectory
 
 | Nome | Descrizione |
 | --- | --- |
-| virtual [Dispose](../../aspose.pdf/texmemoryoutputdirectory/dispose/)() | Dispone dell'istanza. |
-| [GetFile](../../aspose.pdf/texmemoryoutputdirectory/getfile/)(string, out string, bool) | Restituisce lo stream da cui leggere. |
-| [GetOutputFile](../../aspose.pdf/texmemoryoutputdirectory/getoutputfile/)(string, out string) | Restituisce lo stream su cui scrivere. |
+| virtual [Dispose](../../aspose.pdf/texmemoryoutputdirectory/dispose/)() | Rilascia l'istanza. |
+| [GetFile](../../aspose.pdf/texmemoryoutputdirectory/getfile/)(string, out string, bool) | Restituisce il flusso da cui leggere. |
+| [GetOutputFile](../../aspose.pdf/texmemoryoutputdirectory/getoutputfile/)(string, out string) | Restituisce il flusso su cui scrivere. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [ITeXOutputDirectory](../itexoutputdirectory/)
+* interface [ITeXOutputDirectory](../itexoutputdirectory/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

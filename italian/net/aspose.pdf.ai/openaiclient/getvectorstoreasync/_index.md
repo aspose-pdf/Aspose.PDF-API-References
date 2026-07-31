@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetVectorStoreAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIClient. Recupera i dettagli di uno specifico store vettoriale in modo asincrono
+title: "OpenAIClient.GetVectorStoreAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OpenAIClient. Recupera i dettagli di un vector store specifico in modo asincrono"
 type: docs
-weight: 330
+weight: 340
 url: /it/net/aspose.pdf.ai/openaiclient/getvectorstoreasync/
 ---
-## Metodo OpenAIClient.GetVectorStoreAsync
+## OpenAIClient.GetVectorStoreAsync method
 
-Recupera i dettagli di uno specifico store vettoriale in modo asincrono.
+Recupera i dettagli di un archivio vettoriale specifico in modo asincrono.
 
 ```csharp
 public Task<VectorStoreResponse> GetVectorStoreAsync(string vectorStoreId, 
@@ -17,22 +17,24 @@ public Task<VectorStoreResponse> GetVectorStoreAsync(string vectorStoreId,
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| vectorStoreId | String | L'ID dello store vettoriale da recuperare. |
+| vectorStoreId | String | L'ID del vector store da recuperare. |
 | cancellationToken | Nullable`1 | Un token per annullare l'operazione. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività contiene i dettagli dello store vettoriale.
+Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività contiene i dettagli del vector store.
 
 ### Eccezioni
 
 | eccezione | condizione |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID dello store vettoriale è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generata quando l'ID del vector store è nullo o vuoto. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [VectorStoreResponse](../../vectorstoreresponse/)
-* classe [OpenAIClient](../)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

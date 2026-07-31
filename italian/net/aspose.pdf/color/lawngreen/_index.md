@@ -1,12 +1,12 @@
 ---
-title: Color.LawnGreen
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà colore. Ottiene un colore definito dal sistema che ha un valore ARGB di c FF7CFC00
+title: "Color.LawnGreen"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Color. Restituisce un colore definito dal sistema che ha un valore ARGB di c FF7CFC00"
 type: docs
 weight: 630
 url: /it/net/aspose.pdf/color/lawngreen/
 ---
-## Proprietà Color.LawnGreen
+## Color.LawnGreen property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FF7CFC00.
 
@@ -16,10 +16,12 @@ public static Color LawnGreen { get; }
 
 ### Valore di ritorno
 
-Un colore che rappresenta un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
 ### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

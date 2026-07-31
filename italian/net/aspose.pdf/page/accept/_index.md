@@ -1,14 +1,14 @@
 ---
-title: Page.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Page. Accetta l'oggetto visitatore TextFragmentAbsorber che fornisce funzionalità per lavorare con oggetti di testo
+title: "Page.Accept"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Page. Accetta l'oggetto visitatore TextFragmentAbsorber che fornisce funzionalità per lavorare con oggetti di testo."
 type: docs
 weight: 330
 url: /it/net/aspose.pdf/page/accept/
 ---
 ## Accept(TextFragmentAbsorber) {#accept_3}
 
-Accetta l'oggetto visitatore [`TextFragmentAbsorber`](../../../aspose.pdf.text/textfragmentabsorber/) che fornisce funzionalità per lavorare con oggetti di testo.
+Accetta l'oggetto visitor [`TextFragmentAbsorber`](../../../aspose.pdf.text/textfragmentabsorber/) che fornisce funzionalità per lavorare con gli oggetti di testo.
 
 ```csharp
 public void Accept(TextFragmentAbsorber visitor)
@@ -16,12 +16,12 @@ public void Accept(TextFragmentAbsorber visitor)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| visitor | TextFragmentAbsorber | Oggetto assorbitore di testo. |
+| visitatore | TextFragmentAbsorber | Oggetto assorbitore di testo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextFragmentAbsorber](../../../aspose.pdf.text/textfragmentabsorber/)
-* classe [Page](../)
+* class [TextFragmentAbsorber](../../../aspose.pdf.text/textfragmentabsorber/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -29,7 +29,7 @@ public void Accept(TextFragmentAbsorber visitor)
 
 ## Accept(ImagePlacementAbsorber) {#accept_1}
 
-Accetta l'oggetto visitatore [`ImagePlacementAbsorber`](../../imageplacementabsorber/) che fornisce funzionalità per lavorare con oggetti di posizionamento delle immagini.
+Accetta l'oggetto visitor [`ImagePlacementAbsorber`](../../imageplacementabsorber/) che fornisce funzionalità per lavorare con gli oggetti di posizionamento immagine.
 
 ```csharp
 public void Accept(ImagePlacementAbsorber visitor)
@@ -37,12 +37,12 @@ public void Accept(ImagePlacementAbsorber visitor)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| visitor | ImagePlacementAbsorber | Oggetto assorbitore di posizionamento delle immagini. |
+| visitatore | ImagePlacementAbsorber | Oggetto assorbitore di posizionamento immagine. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImagePlacementAbsorber](../../imageplacementabsorber/)
-* classe [Page](../)
+* class [ImagePlacementAbsorber](../../imageplacementabsorber/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -50,7 +50,7 @@ public void Accept(ImagePlacementAbsorber visitor)
 
 ## Accept(TextAbsorber) {#accept_2}
 
-Accetta l'oggetto visitatore [`TextAbsorber`](../../../aspose.pdf.text/textabsorber/) che fornisce funzionalità per lavorare con oggetti di testo.
+Accetta l'oggetto visitor [`TextAbsorber`](../../../aspose.pdf.text/textabsorber/) che fornisce funzionalità per lavorare con gli oggetti di testo.
 
 ```csharp
 public void Accept(TextAbsorber visitor)
@@ -58,12 +58,12 @@ public void Accept(TextAbsorber visitor)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| visitor | TextAbsorber | Oggetto assorbitore di testo. |
+| visitatore | TextAbsorber | Oggetto assorbitore di testo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextAbsorber](../../../aspose.pdf.text/textabsorber/)
-* classe [Page](../)
+* class [TextAbsorber](../../../aspose.pdf.text/textabsorber/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -71,7 +71,7 @@ public void Accept(TextAbsorber visitor)
 
 ## Accept(AnnotationSelector) {#accept}
 
-Accetta l'oggetto visitatore [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) che fornisce funzionalità per lavorare con annotazioni.
+Accetta l'oggetto visitor [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) che fornisce funzionalità per lavorare con le annotazioni.
 
 ```csharp
 public void Accept(AnnotationSelector visitor)
@@ -79,11 +79,13 @@ public void Accept(AnnotationSelector visitor)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| visitor | AnnotationSelector | Oggetto selettore di annotazioni. |
+| visitatore | AnnotationSelector | Oggetto selector di Annotation. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
-* classe [Page](../)
+* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

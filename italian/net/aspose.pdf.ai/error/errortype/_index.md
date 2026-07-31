@@ -1,12 +1,12 @@
 ---
-title: Error.ErrorType
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Error. Ottiene o imposta il tipo di errore
+title: "Error.ErrorType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà di Error. Ottiene o imposta il tipo di errore"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.ai/error/errortype/
 ---
-## Proprietà Error.ErrorType
+## Error.ErrorType property
 
 Ottiene o imposta il tipo di errore.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il tipo di errore.
 public string ErrorType { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Error](../)
+* class [Error](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

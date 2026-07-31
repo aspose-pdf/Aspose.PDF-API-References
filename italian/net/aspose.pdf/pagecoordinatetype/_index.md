@@ -1,14 +1,14 @@
 ---
-title: Enum PageCoordinateType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.PageCoordinateType enum. Describes page coordinate type
+title: "Enum PageCoordinateType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Enum Aspose.Pdf.PageCoordinateType. Descrive il tipo di coordinate della Page"
 type: docs
-weight: 8100
+weight: 8240
 url: /it/net/aspose.pdf/pagecoordinatetype/
 ---
-## Enumerazione PageCoordinateType
+## PageCoordinateType enumeration
 
-Descrive il tipo di coordinate della pagina.
+Descrive il tipo di coordinata della pagina.
 
 ```csharp
 public enum PageCoordinateType
@@ -18,10 +18,12 @@ public enum PageCoordinateType
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| MediaBox | `0` | Il MediaBox viene utilizzato per specificare la larghezza e l'altezza della pagina. Per l'utente medio, questo probabilmente corrisponde alla dimensione effettiva della pagina. Il MediaBox è la più grande casella di pagina in un PDF. Le altre caselle di pagina possono avere dimensioni pari a quelle del MediaBox, ma non possono essere più grandi. |
-| CropBox | `1` | Il CropBox definisce la regione in cui i contenuti della pagina devono essere ritagliati. Acrobat utilizza questa dimensione per la visualizzazione su schermo e la stampa. |
+| MediaBox | `0` | Il MediaBox è usato per specificare la larghezza e l'altezza della Page. Per l'utente medio, questo probabilmente corrisponde alle dimensioni effettive della Page. Il MediaBox è la più grande Page box in un PDF. Le altre Page box possono corrispondere alle dimensioni del MediaBox ma non possono essere più grandi. |
+| CropBox | `1` | Il CropBox definisce la regione a cui i contenuti della Page devono essere ritagliati. Acrobat utilizza questa dimensione per la visualizzazione su schermo e la stampa. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: GradientRadialShading.StartingRadius
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà GradientRadialShading. Ottiene o imposta il raggio del cerchio iniziale
+title: "GradientRadialShading.StartingRadius"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "GradientRadialShading property. Ottiene o imposta il raggio del cerchio di partenza"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.drawing/gradientradialshading/startingradius/
 ---
-## Proprietà GradientRadialShading.StartingRadius
+## GradientRadialShading.StartingRadius property
 
 Ottiene o imposta il raggio del cerchio iniziale.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il raggio del cerchio iniziale.
 public double StartingRadius { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GradientRadialShading](../)
+* class [GradientRadialShading](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

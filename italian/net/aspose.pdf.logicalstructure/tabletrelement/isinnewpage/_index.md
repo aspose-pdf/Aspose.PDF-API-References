@@ -1,21 +1,23 @@
 ---
-title: TableTRElement.IsInNewPage
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TableTRElement. Ottiene la riga fissa è nella nuova pagina - la pagina con questa proprietà dovrebbe essere stampata nella pagina successiva. Predefinito falso.
+title: "TableTRElement.IsInNewPage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TableTRElement. Ottiene se la riga fissa è in una nuova pagina; con questa proprietà la pagina dovrebbe essere stampata nella pagina successiva. Predefinito false"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.logicalstructure/tabletrelement/isinnewpage/
 ---
-## Proprietà TableTRElement.IsInNewPage
+## TableTRElement.IsInNewPage property
 
-Ottiene la riga fissa è nella nuova pagina - la pagina con questa proprietà dovrebbe essere stampata nella pagina successiva. Predefinito falso.
+Ottiene se la riga fissa è in una nuova pagina - la pagina con questa proprietà dovrebbe essere stampata nella pagina successiva. Predefinito false.
 
 ```csharp
 public bool IsInNewPage { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TableTRElement](../)
+* class [TableTRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

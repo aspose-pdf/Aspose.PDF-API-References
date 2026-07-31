@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.DeleteAssistantAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIClient. Elimina un assistente esistente in modo asincrono
+title: "OpenAIClient.DeleteAssistantAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OpenAIClient. Elimina un assistente esistente in modo asincrono."
 type: docs
 weight: 130
 url: /it/net/aspose.pdf.ai/openaiclient/deleteassistantasync/
 ---
-## Metodo OpenAIClient.DeleteAssistantAsync
+## OpenAIClient.DeleteAssistantAsync method
 
 Elimina un assistente esistente in modo asincrono.
 
@@ -28,11 +28,13 @@ Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività
 
 | eccezione | condizione |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID dell'assistente è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generato quando l'ID dell'assistente è null o vuoto. |
 
 ### Vedi anche
 
-* classe [DeleteStatusResponse](../../deletestatusresponse/)
-* classe [OpenAIClient](../)
+* class [DeleteStatusResponse](../../deletestatusresponse/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: IFacade.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo IFacade. Collega il documento PDF per la modifica
+title: "IFacade.BindPdf"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo IFacade. Associa il documento PDF per la modifica."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.facades/ifacade/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-Collega il documento PDF per la modifica.
+Associa il documento PDF per la modifica.
 
 ```csharp
 public void BindPdf(string srcFile)
@@ -18,9 +18,9 @@ public void BindPdf(string srcFile)
 | --- | --- | --- |
 | srcFile | String | Il percorso del documento PDF di input. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IFacade](../)
+* interface [IFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ public void BindPdf(string srcFile)
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-Collega il documento PDF per la modifica.
+Associa il documento PDF per la modifica.
 
 ```csharp
 public void BindPdf(Stream srcStream)
@@ -38,9 +38,9 @@ public void BindPdf(Stream srcStream)
 | --- | --- | --- |
 | srcStream | Stream | Il flusso del documento PDF di input. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IFacade](../)
+* interface [IFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -48,7 +48,7 @@ public void BindPdf(Stream srcStream)
 
 ## BindPdf(Document) {#bindpdf}
 
-Collega il documento PDF per la modifica.
+Associa il documento PDF per la modifica.
 
 ```csharp
 public void BindPdf(Document srcDoc)
@@ -58,9 +58,11 @@ public void BindPdf(Document srcDoc)
 | --- | --- | --- |
 | srcDoc | Document | Documento PDF di input. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* interfaccia [IFacade](../)
+* class [Document](../../../aspose.pdf/document/)
+* interface [IFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

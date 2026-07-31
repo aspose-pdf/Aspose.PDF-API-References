@@ -1,14 +1,14 @@
 ---
-title: Enum PdfVersion
-second_title: Aspose.PDF for .NET API Reference
-description: Enum PdfVersion di Aspose.Pdf. Questo enum rappresenta la versione del file pdf
+title: "Enum PdfVersion"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.PdfVersion enum. Questo enum rappresenta la versione del file pdf"
 type: docs
-weight: 8450
+weight: 8580
 url: /it/net/aspose.pdf/pdfversion/
 ---
-## Enumerazione PdfVersion
+## PdfVersion enumeration
 
-Questo enum rappresenta la versione del file pdf.
+Questa enumerazione rappresenta la versione del file PDF.
 
 ```csharp
 public enum PdfVersion
@@ -28,7 +28,9 @@ public enum PdfVersion
 | v_1_7 | `7` |  |
 | v_2_0 | `8` |  |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Logprobs.TextOffset
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Logprobs. Ottiene o imposta un elenco di interi che rappresentano la rappresentazione in byte UTF8 di ciascun token
+title: "Logprobs.TextOffset"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Logprobs. Ottiene o imposta un elenco di interi che rappresentano la rappresentazione in byte UTF8 di ciascun token"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.ai/logprobs/textoffset/
 ---
-## Proprietà Logprobs.TextOffset
+## Logprobs.TextOffset property
 
 Ottiene o imposta un elenco di interi che rappresentano la rappresentazione in byte UTF-8 di ciascun token.
 
@@ -14,8 +14,10 @@ Ottiene o imposta un elenco di interi che rappresentano la rappresentazione in b
 public List<int> TextOffset { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Logprobs](../)
+* class [Logprobs](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

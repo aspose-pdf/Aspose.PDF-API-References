@@ -1,7 +1,7 @@
 ---
-title: TabStops.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TabStops. Inizializza una nuova istanza della classe TabStop e la aggiunge alla collezione TabStops
+title: "TabStops.Add"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TabStops. Inizializza una nuova istanza della classe TabStop e la aggiunge alla collezione TabStops"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.text/tabstops/add/
@@ -14,14 +14,14 @@ Inizializza una nuova istanza della classe [`TabStop`](../../tabstop/) e la aggi
 public TabStop Add()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Il nuovo oggetto [`TabStop`](../../tabstop/).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TabStop](../../tabstop/)
-* classe [TabStops](../)
+* class [TabStop](../../tabstop/)
+* class [TabStops](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -29,7 +29,7 @@ Il nuovo oggetto [`TabStop`](../../tabstop/).
 
 ## Add(float) {#add_1}
 
-Inizializza una nuova istanza della classe [`TabStop`](../../tabstop/) con posizione specificata e la aggiunge alla collezione TabStops.
+Inizializza una nuova istanza della classe [`TabStop`](../../tabstop/) con la posizione specificata e la aggiunge alla collezione TabStops.
 
 ```csharp
 public TabStop Add(float position)
@@ -37,16 +37,16 @@ public TabStop Add(float position)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| posizione | Single | La posizione del tab stop. |
+| position | Single | La posizione del tab stop. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Il nuovo oggetto [`TabStop`](../../tabstop/).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TabStop](../../tabstop/)
-* classe [TabStops](../)
+* class [TabStop](../../tabstop/)
+* class [TabStops](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -54,7 +54,7 @@ Il nuovo oggetto [`TabStop`](../../tabstop/).
 
 ## Add(TabStop) {#add_3}
 
-Aggiunge un'istanza della classe [`TabStop`](../../tabstop/) alla collezione TabStops.
+Aggiungi un'istanza della classe [`TabStop`](../../tabstop/) alla collezione TabStops.
 
 ```csharp
 public void Add(TabStop tabStop)
@@ -64,10 +64,10 @@ public void Add(TabStop tabStop)
 | --- | --- | --- |
 | tabStop | TabStop | L'oggetto [`TabStop`](../../tabstop/). |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TabStop](../../tabstop/)
-* classe [TabStops](../)
+* class [TabStop](../../tabstop/)
+* class [TabStops](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -75,7 +75,7 @@ public void Add(TabStop tabStop)
 
 ## Add(float, TabLeaderType) {#add_2}
 
-Inizializza una nuova istanza della classe [`TabStop`](../../tabstop/) con posizione e tipo di leader specificati e la aggiunge alla collezione TabStops.
+Inizializza una nuova istanza della classe [`TabStop`](../../tabstop/) con la posizione e il tipo di leader specificati e la aggiunge alla collezione TabStops.
 
 ```csharp
 public TabStop Add(float position, TabLeaderType leaderType)
@@ -83,17 +83,19 @@ public TabStop Add(float position, TabLeaderType leaderType)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| posizione | Single | La posizione del tab stop. |
+| position | Single | La posizione del tab stop. |
 | leaderType | TabLeaderType | Il tipo di leader del tab stop. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Il nuovo oggetto [`TabStop`](../../tabstop/).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TabStop](../../tabstop/)
+* class [TabStop](../../tabstop/)
 * enum [TabLeaderType](../../tableadertype/)
-* classe [TabStops](../)
+* class [TabStops](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

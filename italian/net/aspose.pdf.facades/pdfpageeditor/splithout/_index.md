@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.SPLITHOUT
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PdfPageEditor. Divisione Orizzontale Esterna
+title: "PdfPageEditor campo. Out Horizontal Split"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfPageEditor.HorizontalAlignment"
 type: docs
 weight: 300
 url: /it/net/aspose.pdf.facades/pdfpageeditor/splithout/
 ---
-## Campo PdfPageEditor.SPLITHOUT
+## PdfPageEditor.SPLITHOUT field
 
-Divisione Orizzontale Esterna
+Divisione orizzontale Out
 
 ```csharp
 public const int SPLITHOUT;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfPageEditor](../)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

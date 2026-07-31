@@ -1,12 +1,12 @@
 ---
-title: Signature.GetSignatureAlgorithmInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo di firma. Recupera informazioni sull'algoritmo di firma utilizzato nella firma
+title: "Signature.GetSignatureAlgorithmInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Signature. Recupera informazioni sull'algoritmo di firma utilizzato nella firma"
 type: docs
 weight: 160
 url: /it/net/aspose.pdf.forms/signature/getsignaturealgorithminfo/
 ---
-## Metodo Signature.GetSignatureAlgorithmInfo
+## Signature.GetSignatureAlgorithmInfo method
 
 Recupera informazioni sull'algoritmo di firma utilizzato nella firma.
 
@@ -16,11 +16,13 @@ public SignatureAlgorithmInfo GetSignatureAlgorithmInfo()
 
 ### Valore di ritorno
 
-Un'istanza di [`SignatureAlgorithmInfo`](../../../aspose.pdf.security/signaturealgorithminfo/) che contiene dettagli sull'algoritmo di firma.
+Un'istanza di [`SignatureAlgorithmInfo`](../../../aspose.pdf.security/signaturealgorithminfo/) che contiene i dettagli sull'algoritmo di firma.
 
 ### Vedi anche
 
-* classe [SignatureAlgorithmInfo](../../../aspose.pdf.security/signaturealgorithminfo/)
-* classe [Signature](../)
+* class [SignatureAlgorithmInfo](../../../aspose.pdf.security/signaturealgorithminfo/)
+* class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

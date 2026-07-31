@@ -1,26 +1,28 @@
 ---
-title: Page.Layers
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della pagina. Ottiene o imposta la collezione di livelli
+title: "Page.Layers"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Page. Ottiene o imposta la collezione di layer"
 type: docs
 weight: 170
 url: /it/net/aspose.pdf/page/layers/
 ---
-## Proprietà Page.Layers
+## Page.Layers property
 
-Ottiene o imposta la collezione di livelli.
+Ottiene o imposta la raccolta dei layer.
 
 ```csharp
 public List<Layer> Layers { get; set; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
-La collezione di livelli.
+La collezione di layer.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Layer](../../layer/)
-* classe [Page](../)
+* class [Layer](../../layer/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

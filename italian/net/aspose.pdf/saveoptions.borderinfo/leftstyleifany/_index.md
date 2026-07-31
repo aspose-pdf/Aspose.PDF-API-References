@@ -1,12 +1,12 @@
 ---
-title: SaveOptions.BorderInfo.LeftStyleIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: Campo BorderInfo. Rappresenta la parte sinistra, se presente, del bordo
+title: "SaveOptions.BorderInfo.LeftStyleIfAny"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo BorderInfo. Rappresenta la parte sinistra, se presente, del bordo"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/saveoptions.borderinfo/leftstyleifany/
 ---
-## Campo SaveOptions.BorderInfo.LeftStyleIfAny
+## SaveOptions.BorderInfo.LeftStyleIfAny field
 
 Rappresenta la parte sinistra (se presente) del bordo
 
@@ -14,9 +14,11 @@ Rappresenta la parte sinistra (se presente) del bordo
 public BorderPartStyle LeftStyleIfAny;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BorderPartStyle](../../saveoptions.borderpartstyle/)
-* classe [BorderInfo](../)
+* class [BorderPartStyle](../../saveoptions.borderpartstyle/)
+* class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

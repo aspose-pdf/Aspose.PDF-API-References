@@ -1,12 +1,12 @@
 ---
-title: Enum ContentDisposition
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ContentDisposition enum. MIME protocol ContentDisposition header
+title: "Enum ContentDisposition"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.ContentDisposition enum. Intestazione ContentDisposition del protocollo MIME"
 type: docs
-weight: 3350
+weight: 3460
 url: /it/net/aspose.pdf/contentdisposition/
 ---
-## Enumerazione ContentDisposition
+## ContentDisposition enumeration
 
 Intestazione Content-Disposition del protocollo MIME.
 
@@ -18,10 +18,12 @@ public enum ContentDisposition
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Inline | `0` | Il risultato è mostrato inline. |
+| Inline | `0` | Il risultato è mostrato in linea. |
 | Attachment | `1` | Il risultato è salvato come allegato. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

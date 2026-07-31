@@ -1,12 +1,12 @@
 ---
-title: Enum FieldType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.FieldType enum. Enumeration of possible field types
+title: "Enum FieldType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Facades.FieldType enum. Enumerazione dei possibili tipi di campo"
 type: docs
-weight: 4260
+weight: 4380
 url: /it/net/aspose.pdf.facades/fieldtype/
 ---
-## Enumerazione FieldType
+## FieldType enumeration
 
 Enumerazione dei possibili tipi di campo.
 
@@ -19,20 +19,22 @@ public enum FieldType
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
 | Text | `0` | Campo di testo. |
-| ComboBox | `1` | Campo della casella combinata. |
-| ListBox | `2` | Campo della casella di elenco. |
-| Radio | `3` | Campo del pulsante di opzione. |
-| CheckBox | `4` | Campo della casella di controllo. |
-| PushButton | `5` | Campo del pulsante. |
+| ComboBox | `1` | Campo combo box. |
+| ListBox | `2` | Campo list box. |
+| Radio | `3` | Campo radio button. |
+| CheckBox | `4` | Campo check box. |
+| PushButton | `5` | Campo push button. |
 | MultiLineText | `6` | Campo di testo multilinea. |
-| Barcode | `7` | Campo del codice a barre. |
+| Barcode | `7` | Campo codice a barre. |
 | InvalidNameOrType | `8` | Tipo di campo non valido. |
-| Signature | `9` | Campo della firma. |
-| Image | `10` | Campo dell'immagine. |
+| Signature | `9` | Campo firma. |
+| Image | `10` | Campo immagine. |
 | Numeric | `11` | Campo numerico |
 | DateTime | `12` | Campo data/ora |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

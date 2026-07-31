@@ -1,14 +1,14 @@
 ---
-title: Class PdfActionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: La classe Aspose.Pdf.Annotationi.PdfActionCollection spiega un elenco di azioni.
+title: "Classe PdfActionCollection"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Annotations.PdfActionCollection class. Classe che descrive l'elenco delle azioni"
 type: docs
-weight: 2280
+weight: 2370
 url: /it/net/aspose.pdf.annotations/pdfactioncollection/
 ---
-## Classe PdfActionCollection
+## PdfActionCollection class
 
-La classe descrive un elenco di azioni.
+La classe descrive l'elenco delle azioni.
 
 ```csharp
 public class PdfActionCollection : IEnumerable<PdfAction>
@@ -19,18 +19,20 @@ public class PdfActionCollection : IEnumerable<PdfAction>
 | Nome | Descrizione |
 | --- | --- |
 | [Count](../../aspose.pdf.annotations/pdfactioncollection/count/) { get; } | Ottiene il conteggio delle azioni. |
-| [Item](../../aspose.pdf.annotations/pdfactioncollection/item/) { get; } | Ottiene l'azione in base al suo indice. |
+| [Item](../../aspose.pdf.annotations/pdfactioncollection/item/) { get; } | Ottiene l'azione per indice. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [Add](../../aspose.pdf.annotations/pdfactioncollection/add/)(PdfAction) | Aggiunge un'azione all'elenco delle azioni. |
-| [Delete](../../aspose.pdf.annotations/pdfactioncollection/delete/)(int) | Rimuove un'azione in base all'indice. |
+| [Add](../../aspose.pdf.annotations/pdfactioncollection/add/)(PdfAction) | Aggiunge l'azione all'elenco delle azioni. |
+| [Delete](../../aspose.pdf.annotations/pdfactioncollection/delete/)(int) | Rimuove l'azione per indice. |
 | [GetEnumerator](../../aspose.pdf.annotations/pdfactioncollection/getenumerator/)() | Ottiene l'enumeratore. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfAction](../pdfaction/)
+* class [PdfAction](../pdfaction/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

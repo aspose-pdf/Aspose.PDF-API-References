@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.Producer
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà DocumentInfo. Ottiene o imposta il produttore del documento
+title: "DocumentInfo.Producer"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "DocumentInfo proprietà. Ottiene o imposta il produttore del documento"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf/documentinfo/producer/
 ---
-## Proprietà DocumentInfo.Producer
+## DocumentInfo.Producer property
 
 Ottiene o imposta il produttore del documento.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il produttore del documento.
 public string Producer { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocumentInfo](../)
+* class [DocumentInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

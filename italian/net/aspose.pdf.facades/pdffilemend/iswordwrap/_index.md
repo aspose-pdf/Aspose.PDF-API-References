@@ -1,21 +1,23 @@
 ---
-title: PdfFileMend.IsWordWrap
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PdfFileMend. Imposta un valore bool che indica l'andamento delle parole nei metodi AddText. Se il valore è true, il testo in FormattedText andrà a capo. Per impostazione predefinita, il valore è false.
+title: "PdfFileMend.IsWordWrap"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfFileMend proprietà. Imposta un valore booleano che indica l'andare a capo automatico nei metodi AddText. Se il valore è true il testo in FormattedText andrà a capo automaticamente. Per impostazione predefinita il valore è false."
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.facades/pdffilemend/iswordwrap/
 ---
-## Proprietà PdfFileMend.IsWordWrap
+## PdfFileMend.IsWordWrap property
 
-Imposta un valore bool che indica l'andamento delle parole nei metodi AddText. Se il valore è true, il testo in FormattedText andrà a capo. Per impostazione predefinita, il valore è false.
+Imposta un valore booleano che indica l'andare a capo automatico nei metodi AddText. Se il valore è true, il testo in FormattedText andrà a capo automaticamente. Per impostazione predefinita, il valore è false.
 
 ```csharp
 public bool IsWordWrap { set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileMend](../)
+* class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Page.IsBlank
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Page. Ottiene il flag se la pagina è vuota o meno
+title: "Page.IsBlank"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Page. Ottiene il flag che indica se la pagina è vuota o meno"
 type: docs
 weight: 490
 url: /it/net/aspose.pdf/page/isblank/
 ---
-## Metodo Page.IsBlank
+## Page.IsBlank method
 
-Ottiene il flag se la pagina è vuota o meno.
+Ottiene l'indicatore se la pagina è vuota o meno.
 
 ```csharp
 public bool IsBlank(double fillThresholdFactor)
@@ -16,14 +16,20 @@ public bool IsBlank(double fillThresholdFactor)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fillThresholdFactor | Double | Il valore della soglia di riempimento che gestisce la sensibilità della rilevazione. Deve essere uguale o maggiore di 0.01. |
+| fillThresholdFactor | Double | Il valore di soglia di riempimento che gestisce la sensibilità del rilevamento. Deve essere nell'intervallo [0..1). |
 
 ### Valore di ritorno
 
 True - se la pagina è vuota; altrimenti, false.
 
+## Osservazioni
+
+Per determinare se una pagina è vuota o meno, viene calcolato il rapporto tra lo spazio riempito e lo spazio totale della pagina. Questo rapporto viene confrontato con il parametro fillThresholdFactor e, se è inferiore, la pagina è considerata vuota.
+
 ### Vedi anche
 
-* classe [Page](../)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

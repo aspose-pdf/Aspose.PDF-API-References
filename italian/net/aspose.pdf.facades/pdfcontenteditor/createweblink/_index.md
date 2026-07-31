@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.CreateWebLink
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfContentEditor. Crea un collegamento web nel documento PDF
+title: "PdfContentEditor.CreateWebLink"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfContentEditor. Crea un collegamento web in un documento PDF"
 type: docs
 weight: 300
 url: /it/net/aspose.pdf.facades/pdfcontenteditor/createweblink/
@@ -19,9 +19,9 @@ public void CreateWebLink(Rectangle rect, string url, int originalPage, Color cl
 | --- | --- | --- |
 | rect | Rectangle | Il rettangolo per il clic attivo. |
 | url | String | La destinazione del collegamento web. |
-| originalPage | Int32 | Il numero della pagina originale su cui verrà creato il rettangolo legato al collegamento web. |
+| originalPage | Int32 | Il numero della pagina originale su cui verrà creato il rettangolo associato al collegamento web. |
 | clr | Color | Il colore del rettangolo per il clic attivo. |
-| actionName | Enum[] | L'array di azioni (membri dell'enum PredefinedAction) corrispondente all'esecuzione degli elementi di menu nel visualizzatore Acrobat. |
+| actionName | Enum[] | L'array di azioni (membri dell'enumerazione PredefinedAction) corrispondente all'esecuzione delle voci di menu nel visualizzatore Acrobat. |
 
 ## Esempi
 
@@ -36,7 +36,7 @@ editor.Save("example_out.pdf");
 
 ### Vedi anche
 
-* classe [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -54,7 +54,7 @@ public void CreateWebLink(Rectangle rect, string url, int originalPage, Color cl
 | --- | --- | --- |
 | rect | Rectangle | Il rettangolo per il clic attivo. |
 | url | String | La destinazione del collegamento web. |
-| originalPage | Int32 | Il numero della pagina originale in cui verrà creato il rettangolo legato al collegamento web. |
+| originalPage | Int32 | Il numero della pagina originale dove verrà creato il rettangolo associato al collegamento web. |
 | clr | Color | Il colore del rettangolo per il clic attivo. |
 
 ## Esempi
@@ -69,7 +69,7 @@ editor.Save("example_out.pdf");
 
 ### Vedi anche
 
-* classe [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -87,7 +87,7 @@ public void CreateWebLink(Rectangle rect, string url, int originalPage)
 | --- | --- | --- |
 | rect | Rectangle | Il rettangolo per il clic attivo. |
 | url | String | La destinazione del collegamento web. |
-| originalPage | Int32 | Il numero della pagina originale in cui verrà creato il rettangolo legato al collegamento web. |
+| originalPage | Int32 | Il numero della pagina originale dove verrà creato il rettangolo associato al collegamento web. |
 
 ## Esempi
 
@@ -100,6 +100,8 @@ editor.Save("example_out.pdf");
 
 ### Vedi anche
 
-* classe [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

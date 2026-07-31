@@ -1,22 +1,24 @@
 ---
-title: Page.Annotations
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della pagina. Ottiene la collezione delle annotazioni della pagina. Annotazioni
+title: "Page.Annotations"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Page property. Ottiene la raccolta di annotazioni della pagina. Annotations"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/page/annotations/
 ---
-## Proprietà Page.Annotations
+## Page.Annotations property
 
-Ottiene la collezione delle annotazioni della pagina. `Annotations`
+Ottiene la raccolta di annotazioni della pagina. `Annotations`
 
 ```csharp
 public AnnotationCollection Annotations { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AnnotationCollection](../../../aspose.pdf.annotations/annotationcollection/)
-* classe [Page](../)
+* class [AnnotationCollection](../../../aspose.pdf.annotations/annotationcollection/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XmpValue.IsString
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XmpValue. Restituisce true se il valore è una stringa
+title: "XmpValue.IsString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà XmpValue. Restituisce true se il valore è stringa"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf/xmpvalue/isstring/
 ---
-## Proprietà XmpValue.IsString
+## XmpValue.IsString property
 
 Restituisce true se il valore è una stringa.
 
@@ -14,8 +14,10 @@ Restituisce true se il valore è una stringa.
 public bool IsString { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpValue](../)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PageDate.PageDate
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PageDate. Il costruttore predefinito
+title: "PageDate.PageDate"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PageDate costruttore. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/pagedate/pagedate/
 ---
-## Costruttore di PageDate
+## PageDate constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public PageDate()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageDate](../)
+* class [PageDate](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

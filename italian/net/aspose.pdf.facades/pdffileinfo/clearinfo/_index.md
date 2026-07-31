@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.ClearInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfFileInfo. Pulisce tutte le informazioni meta del documento PDF
+title: "PdfFileInfo.ClearInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfFileInfo metodo. Cancella tutte le informazioni meta del documento PDF"
 type: docs
 weight: 200
 url: /it/net/aspose.pdf.facades/pdffileinfo/clearinfo/
 ---
-## Metodo PdfFileInfo.ClearInfo
+## PdfFileInfo.ClearInfo method
 
-Pulisce tutte le informazioni meta del documento PDF.
+Cancella tutte le informazioni meta del documento PDF.
 
 ```csharp
 public void ClearInfo()
@@ -20,8 +20,10 @@ public void ClearInfo()
 
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileInfo](../)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

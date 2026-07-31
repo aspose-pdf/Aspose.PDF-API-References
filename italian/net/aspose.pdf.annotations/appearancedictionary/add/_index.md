@@ -1,25 +1,25 @@
 ---
-title: AppearanceDictionary.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo AppearanceDictionary. Aggiungi X form per la chiave specificata
+title: "AppearanceDictionary.Add"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo AppearanceDictionary. Aggiunge un X form per la chiave specificata"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.annotations/appearancedictionary/add/
 ---
 ## Add(string, XForm) {#add_2}
 
-Aggiungi X form per la chiave specificata.
+Aggiunge X form per la chiave specificata.
 
 ```csharp
 public void Add(string key, XForm value)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| key | String | Chiave dell'elemento. |
-| value | XForm | Valore dell'oggetto XForm. |
+| chiave | String | Chiave dell'elemento. |
+| valore | XForm | Valore dell'oggetto XForm. |
 
-### See Also
+### Vedi anche
 
 * class [XForm](../../../aspose.pdf/xform/)
 * class [AppearanceDictionary](../)
@@ -30,19 +30,21 @@ public void Add(string key, XForm value)
 
 ## Add(KeyValuePair&lt;string, XForm&gt;) {#add}
 
-Aggiunge una coppia con chiave e valore nel dizionario.
+Aggiunge una coppia chiave-valore nel dizionario.
 
 ```csharp
 public void Add(KeyValuePair<string, XForm> item)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | item | KeyValuePair`2 | Elemento da aggiungere. |
 
-### See Also
+### Vedi anche
 
 * class [XForm](../../../aspose.pdf/xform/)
 * class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

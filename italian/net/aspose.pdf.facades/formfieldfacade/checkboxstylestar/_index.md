@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.CheckBoxStyleStar
-second_title: Aspose.PDF for .NET API Reference
-description: Campo FormFieldFacade. Definisce uno stile di casella di controllo a stella
+title: "FormFieldFacade.CheckBoxStyleStar"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormFieldFacade campo. Definisce uno stile di casella di controllo a stella"
 type: docs
 weight: 440
 url: /it/net/aspose.pdf.facades/formfieldfacade/checkboxstylestar/
 ---
-## Campo FormFieldFacade.CheckBoxStyleStar
+## FormFieldFacade.CheckBoxStyleStar field
 
 Definisce uno stile di casella di controllo a stella.
 
@@ -14,8 +14,10 @@ Definisce uno stile di casella di controllo a stella.
 public const int CheckBoxStyleStar;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

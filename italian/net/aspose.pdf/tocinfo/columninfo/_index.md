@@ -1,22 +1,24 @@
 ---
-title: TocInfo.ColumnInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TocInfo. Ottiene o imposta le informazioni sulla colonna
+title: "TocInfo.ColumnInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TocInfo. Ottiene o imposta le informazioni della colonna"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/tocinfo/columninfo/
 ---
-## Proprietà TocInfo.ColumnInfo
+## TocInfo.ColumnInfo property
 
-Ottiene o imposta le informazioni sulla colonna.
+Ottiene o imposta le informazioni della colonna.
 
 ```csharp
 public ColumnInfo ColumnInfo { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ColumnInfo](../../columninfo/)
-* classe [TocInfo](../)
+* class [ColumnInfo](../../columninfo/)
+* class [TocInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

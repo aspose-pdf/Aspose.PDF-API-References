@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.Div
-second_title: Aspose.PDF for .NET API Reference
-description: Campo StructureTypeStandard. Divisione Un elemento generico a livello di blocco o gruppo di elementi
+title: "StructureTypeStandard.Div"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "StructureTypeStandard field. Divisione Un elemento generico di livello blocco o gruppo di elementi"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.logicalstructure/structuretypestandard/div/
 ---
-## Campo StructureTypeStandard.Div
+## StructureTypeStandard.Div field
 
-(Divisione) Un elemento generico a livello di blocco o gruppo di elementi.
+(Division) Un elemento generico a livello di blocco o un gruppo di elementi.
 
 ```csharp
 public static readonly StructureTypeStandard Div;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

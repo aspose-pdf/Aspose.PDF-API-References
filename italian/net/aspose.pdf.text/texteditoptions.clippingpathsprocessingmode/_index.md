@@ -1,14 +1,14 @@
 ---
-title: Enum TextEditOptions.ClippingPathsProcessingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextEditOptionsClippingPathsProcessingMode enum. Clipping path processing modes
+title: "Enum TextEditOptions.ClippingPathsProcessingMode"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Text.TextEditOptionsClippingPathsProcessingMode enum. Modalità di elaborazione del percorso di ritaglio."
 type: docs
-weight: 10830
+weight: 11010
 url: /it/net/aspose.pdf.text/texteditoptions.clippingpathsprocessingmode/
 ---
-## Enumerazione TextEditOptions.ClippingPathsProcessingMode
+## TextEditOptions.ClippingPathsProcessingMode enumeration
 
-Modalità di elaborazione dei percorsi di ritaglio
+Modalità di elaborazione del percorso di ritaglio
 
 ```csharp
 public enum ClippingPathsProcessingMode
@@ -18,12 +18,14 @@ public enum ClippingPathsProcessingMode
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| KeepIntact | `0` | Mantiene i percorsi di ritaglio del layout originale della pagina. (Predefinito) |
+| KeepIntact | `0` | Mantiene i percorsi di ritaglio del layout della pagina originale. (Predefinito) |
 | Expand | `1` | Il percorso di ritaglio originale sarà espanso nel caso in cui il testo modificato richieda più spazio. |
-| Remove | `2` | Il percorso di ritaglio originale sarà rimosso nel caso in cui il testo modificato richieda più spazio. Attenzione: Poiché i percorsi di ritaglio possono interagire tra loro, la loro rimozione può portare a risultati imprevisti nel layout della pagina. |
+| Remove | `2` | Il percorso di ritaglio originale sarà rimosso nel caso in cui il testo modificato richieda più spazio. Attenzione: poiché i percorsi di ritaglio possono interagire tra loro, la loro rimozione potrebbe portare a risultati inattesi nel layout della pagina. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextEditOptions](../texteditoptions/)
+* class [TextEditOptions](../texteditoptions/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

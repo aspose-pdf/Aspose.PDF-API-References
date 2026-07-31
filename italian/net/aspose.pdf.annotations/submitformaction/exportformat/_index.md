@@ -1,21 +1,23 @@
 ---
-title: SubmitFormAction.ExportFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Campo SubmitFormAction. Se impostato, i nomi e i valori dei campi saranno inviati in formato HTML Form
+title: "SubmitFormAction.ExportFormat"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo SubmitFormAction. Se impostato, i nomi dei campi e i valori saranno inviati nel formato HTML Form."
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.annotations/submitformaction/exportformat/
 ---
-## Campo SubmitFormAction.ExportFormat
+## SubmitFormAction.ExportFormat field
 
-Se impostato, i nomi e i valori dei campi saranno inviati in formato HTML Form.
+Se impostato, i nomi dei campi e i valori saranno inviati in formato HTML Form.
 
 ```csharp
 public const int ExportFormat;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SubmitFormAction](../)
+* class [SubmitFormAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

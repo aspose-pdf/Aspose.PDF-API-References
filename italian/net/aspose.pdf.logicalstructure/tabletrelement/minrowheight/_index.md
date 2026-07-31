@@ -1,21 +1,23 @@
 ---
-title: TableTRElement.MinRowHeight
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TableTRElement. Ottiene l'altezza per la riga
+title: "TableTRElement.MinRowHeight"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TableTRElement. Ottiene l'altezza per la riga"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.logicalstructure/tabletrelement/minrowheight/
 ---
-## Proprietà TableTRElement.MinRowHeight
+## TableTRElement.MinRowHeight property
 
-Ottiene l'altezza per la riga.
+Ottiene l'altezza della riga.
 
 ```csharp
 public double MinRowHeight { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TableTRElement](../)
+* class [TableTRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

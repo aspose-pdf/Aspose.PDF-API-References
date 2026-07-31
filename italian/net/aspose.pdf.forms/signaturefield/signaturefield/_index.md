@@ -1,7 +1,7 @@
 ---
-title: SignatureField.SignatureField
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di SignatureField. Inizializza una nuova istanza della classe SignatureField
+title: "SignatureField.SignatureField"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore SignatureField. Inizializza una nuova istanza della classe SignatureField"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.forms/signaturefield/signaturefield/
@@ -16,14 +16,14 @@ public SignatureField(Page page, Rectangle rect)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | Pagina in cui il campo di firma deve essere posizionato. |
-| rect | Rectangle | Posizione e dimensione del campo di firma. |
+| pagina | Page | Page in cui dovrebbe essere posizionato il campo firma. |
+| rect | Rectangle | Posizione e dimensione del campo firma. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [SignatureField](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [SignatureField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -39,13 +39,15 @@ public SignatureField(Document doc, Rectangle rect)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| doc | Document | Pagina in cui il campo di firma deve essere posizionato. |
-| rect | Rectangle | Posizione e dimensione del campo di firma. |
+| doc | Document | Page in cui dovrebbe essere posizionato il campo firma. |
+| rect | Rectangle | Posizione e dimensione del campo firma. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [SignatureField](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [SignatureField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

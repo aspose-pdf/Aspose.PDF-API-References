@@ -1,12 +1,12 @@
 ---
-title: RedactionAnnotation.BorderColor
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà RedactionAnnotation. Ottiene o imposta il colore del bordo che viene disegnato quando la redazione non è attiva
+title: "RedactionAnnotation.BorderColor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà RedactionAnnotation. Ottiene o imposta il colore del bordo che viene disegnato quando la redazione non è attiva"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.annotations/redactionannotation/bordercolor/
 ---
-## Proprietà RedactionAnnotation.BorderColor
+## RedactionAnnotation.BorderColor property
 
 Ottiene o imposta il colore del bordo che viene disegnato quando la redazione non è attiva.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il colore del bordo che viene disegnato quando la redazione no
 public Color BorderColor { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../../../aspose.pdf/color/)
-* classe [RedactionAnnotation](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [RedactionAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

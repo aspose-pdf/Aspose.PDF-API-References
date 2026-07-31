@@ -1,14 +1,14 @@
 ---
-title: Enum EmphasisStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.EmphasisStyle enum. Definisce i disponibili stili di serializzazione per l'accentramento e l'accentramento forte. Per specificazione vedere CommonMark accentramento e accentramento forte.
+title: "Enum EmphasisStyle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Enum Aspose.Pdf.EmphasisStyle. Definisce gli stili di serializzazione disponibili per l'enfasi e l'enfasi forte. Per la specifica vedere CommonMark Enfasi e enfasi forte"
 type: docs
-weight: 4020
+weight: 4140
 url: /it/net/aspose.pdf/emphasisstyle/
 ---
-## Enumerazione EmphasisStyle
+## EmphasisStyle enumeration
 
-Definisce gli stili di serializzazione disponibili per l'enfasi e l'enfasi forte. Per specifiche vedere CommonMark - Enfasi e enfasi forte.
+Definisce gli stili di serializzazione disponibili per l'enfasi e l'enfasi forte. Per la specifica vedere CommonMark - Emphasis and strong emphasis.
 
 ```csharp
 public enum EmphasisStyle
@@ -18,10 +18,12 @@ public enum EmphasisStyle
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Asterisco | `0` | Usa '*' rispettivamente '**' per il testo (fortemente) enfatizzato. |
-| Sottolineatura | `1` | Usa '_' rispettivamente '__' per il testo (fortemente) enfatizzato. |
+| Asterisk | `0` | Usa '*' rispettivamente '**' per il testo (fortemente) enfatizzato. |
+| Underscore | `1` | Usa '_' rispettivamente '__' per il testo (fortemente) enfatizzato. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum BlendingColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Facades.BlendingColorSpace enumerazione. La classe rappresenta lo spazio di colorazione.
+title: "Enum BlendingColorSpace"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Facades.BlendingColorSpace enum. La classe rappresenta lo spazio colore di fusione"
 type: docs
-weight: 4180
+weight: 4300
 url: /it/net/aspose.pdf.facades/blendingcolorspace/
 ---
-## Enumerazione BlendingColorSpace
+## BlendingColorSpace enumeration
 
-La classe rappresenta lo spazio colore di fusione.
+Classe che rappresenta lo spazio colore di fusione.
 
 ```csharp
 public enum BlendingColorSpace
@@ -18,12 +18,14 @@ public enum BlendingColorSpace
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| DontChange | `0` | Lo spazio colore di fusione non viene modificato. |
-| Auto | `1` | Lo spazio colore di fusione viene determinato automaticamente. |
+| DontChange | `0` | Lo spazio colore di fusione non è modificato. |
+| Auto | `1` | Lo spazio colore di fusione è determinato automaticamente. |
 | DeviceRGB | `2` | Lo spazio colore di fusione è impostato su DeviceRGB. |
 | DeviceCMYK | `3` | Lo spazio colore di fusione è impostato su DeviceCMYK. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

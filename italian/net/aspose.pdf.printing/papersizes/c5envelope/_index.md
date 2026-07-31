@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.C5Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: Dimensioni della Carta Campo. Envelopo C5 162 mm x 229 mm.
+title: "PaperSizes.C5Envelope"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PaperSizes campo. Busta C5 162 mm per 229 mm"
 type: docs
 weight: 340
 url: /it/net/aspose.pdf.printing/papersizes/c5envelope/
 ---
-## Campo PaperSizes.C5Envelope
+## PaperSizes.C5Envelope field
 
 Busta C5 (162 mm per 229 mm).
 
@@ -14,9 +14,11 @@ Busta C5 (162 mm per 229 mm).
 public static readonly PaperSize C5Envelope;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

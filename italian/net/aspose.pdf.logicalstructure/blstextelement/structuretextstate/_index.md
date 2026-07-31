@@ -1,12 +1,12 @@
 ---
-title: BLSTextElement.StructureTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di BLSTextElement. Ottiene l'oggetto StructureTextState per l'elemento corrente
+title: "BLSTextElement.StructureTextState"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà BLSTextElement. Recupera l'oggetto StructureTextState per l'elemento corrente"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.logicalstructure/blstextelement/structuretextstate/
 ---
-## Proprietà BLSTextElement.StructureTextState
+## BLSTextElement.StructureTextState property
 
 Ottiene l'oggetto StructureTextState per l'elemento corrente.
 
@@ -14,13 +14,15 @@ Ottiene l'oggetto StructureTextState per l'elemento corrente.
 public StructureTextState StructureTextState { get; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
 Oggetto StructureTextState per l'elemento corrente.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureTextState](../../structuretextstate/)
-* classe [BLSTextElement](../)
+* class [StructureTextState](../../structuretextstate/)
+* class [BLSTextElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

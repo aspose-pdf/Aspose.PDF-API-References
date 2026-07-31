@@ -1,7 +1,7 @@
 ---
-title: WidgetAnnotation.ExportToJson
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo WidgetAnnotation. Esporta il campo modulo PDF specificato in formato JSON e scrive il risultato nello stream fornito
+title: "WidgetAnnotation.ExportToJson"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "WidgetAnnotation metodo. Esporta il campo modulo PDF specificato in formato JSON e scrive il risultato nello stream fornito"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf.annotations/widgetannotation/exporttojson/
@@ -18,9 +18,9 @@ public IEnumerable<FieldSerializationResult> ExportToJson(Stream stream,
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | stream | Stream | Lo stream su cui scrivere l'output JSON. |
-| options | ExportFieldsToJsonOptions | Impostazioni opzionali per esportare il campo modulo in JSON. |
+| options | ExportFieldsToJsonOptions | Impostazioni opzionali per l'esportazione del campo modulo in JSON. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Una collezione di [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) che indica il risultato dell'operazione di esportazione per il campo modulo specificato e i suoi elementi figli, se presenti.
 
@@ -34,11 +34,11 @@ annotation.ExportToJson(fs);
 fs.Close();
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* classe [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
-* classe [WidgetAnnotation](../)
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
+* class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
+* class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -55,10 +55,10 @@ public IEnumerable<FieldSerializationResult> ExportToJson(string fileName,
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fileName | String | Il nome del file su cui scrivere l'output JSON. |
-| options | ExportFieldsToJsonOptions | Impostazioni opzionali per esportare il campo modulo in JSON. |
+| fileName | String | Il nome del file in cui scrivere l'output JSON. |
+| options | ExportFieldsToJsonOptions | Impostazioni opzionali per l'esportazione del campo modulo in JSON. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Una collezione di [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) che indica il risultato dell'operazione di esportazione per il campo modulo specificato e i suoi elementi figli, se presenti.
 
@@ -71,10 +71,12 @@ WidgetAnnotation annotation = document.Form[1];
 annotation.ExportToJson(jsonPath);
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* classe [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
-* classe [WidgetAnnotation](../)
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
+* class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
+* class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

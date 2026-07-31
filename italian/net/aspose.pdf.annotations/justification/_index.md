@@ -1,14 +1,14 @@
 ---
-title: Enum Justification
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotationi.Giustificazione Enumerazione. Elenco delle forme di giustificazione a quadrato da utilizzare durante la visualizzazione del testo delle annotazioni.
+title: "Enum Giustificazione"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Annotations.Justification enum. Elenca le forme di giustificazione del testo da utilizzare nella visualizzazione del testo delle annotazioni"
 type: docs
-weight: 1940
+weight: 2030
 url: /it/net/aspose.pdf.annotations/justification/
 ---
-## Enumerazione della giustificazione
+## Justification enumeration
 
-Enumera le forme di giustificazione da utilizzare nella visualizzazione del testo dell'annotazione.
+Enumera le forme di allineamento (giustificazione) da utilizzare nella visualizzazione del testo dell'annotazione.
 
 ```csharp
 public enum Justification
@@ -18,11 +18,13 @@ public enum Justification
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Sinistra | `0` | Giustificazione a sinistra. |
-| Centro | `1` | Giustificazione al centro. |
-| Destra | `2` | Giustificazione a destra. |
+| Left | `0` | Giustificazione a sinistra. |
+| Center | `1` | Giustificazione al centro. |
+| Right | `2` | Giustificazione a destra. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

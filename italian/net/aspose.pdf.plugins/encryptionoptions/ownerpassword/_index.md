@@ -1,12 +1,12 @@
 ---
-title: EncryptionOptions.OwnerPassword
-second_title: Aspose.PDF for .NET API Reference
-description: Opzioni di Crittografia proprietà. Password del Proprietario
+title: "EncryptionOptions.OwnerPassword"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà EncryptionOptions. Password del proprietario"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.plugins/encryptionoptions/ownerpassword/
 ---
-## Proprietà EncryptionOptions.OwnerPassword
+## EncryptionOptions.OwnerPassword property
 
 Password del proprietario.
 
@@ -14,8 +14,10 @@ Password del proprietario.
 public string OwnerPassword { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [EncryptionOptions](../)
+* class [EncryptionOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

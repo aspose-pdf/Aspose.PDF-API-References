@@ -1,12 +1,12 @@
 ---
-title: Bookmark.PageDisplay_Zoom
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del segnalibro. Ottiene o imposta il fattore di zoom della visualizzazione della pagina
+title: "Bookmark.PageDisplay_Zoom"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Bookmark. Ottiene o imposta il fattore di zoom della visualizzazione della pagina"
 type: docs
 weight: 150
 url: /it/net/aspose.pdf.facades/bookmark/pagedisplay_zoom/
 ---
-## Proprietà Bookmark.PageDisplay_Zoom
+## Bookmark.PageDisplay_Zoom property
 
 Ottiene o imposta il fattore di zoom della visualizzazione della pagina.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il fattore di zoom della visualizzazione della pagina.
 public int PageDisplay_Zoom { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Bookmark](../)
+* class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

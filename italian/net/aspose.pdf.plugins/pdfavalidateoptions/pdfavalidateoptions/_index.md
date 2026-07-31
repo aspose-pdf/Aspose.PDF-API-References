@@ -1,12 +1,12 @@
 ---
-title: PdfAValidateOptions.PdfAValidateOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PdfAValidateOptions. Il costruttore predefinito
+title: "PdfAValidateOptions.PdfAValidateOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfAValidateOptions costruttore. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.plugins/pdfavalidateoptions/pdfavalidateoptions/
 ---
-## Costruttore di PdfAValidateOptions
+## PdfAValidateOptions constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public PdfAValidateOptions()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfAValidateOptions](../)
+* class [PdfAValidateOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.Number10Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: Campo delle Dimensioni del Foglio. 10 sottopagina 4,125 mm x 9,5 mm
+title: "PaperSizes.Number10Envelope"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo PaperSizes. Busta 10 4,125 pol. per 9,5 pol."
 type: docs
 weight: 740
 url: /it/net/aspose.pdf.printing/papersizes/number10envelope/
 ---
-## Campo PaperSizes.Number10Envelope
+## PaperSizes.Number10Envelope field
 
 Busta #10 (4.125 in. per 9.5 in.).
 
@@ -14,9 +14,11 @@ Busta #10 (4.125 in. per 9.5 in.).
 public static readonly PaperSize Number10Envelope;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

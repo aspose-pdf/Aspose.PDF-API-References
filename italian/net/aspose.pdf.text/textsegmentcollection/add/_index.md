@@ -1,12 +1,12 @@
 ---
-title: TextSegmentCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TextSegmentCollection. Aggiunge l'elemento segmento di testo all'indice specificato
+title: "TextSegmentCollection.Add"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TextSegmentCollection. Aggiunge l'elemento segmento di testo all'indice specificato"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.text/textsegmentcollection/add/
 ---
-## Metodo TextSegmentCollection.Add
+## TextSegmentCollection.Add method
 
 Aggiunge l'elemento segmento di testo all'indice specificato.
 
@@ -16,11 +16,13 @@ public void Add(TextSegment segment)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| segment | TextSegment | Oggetto segmento di testo |
+| segmento | TextSegment | Oggetto segmento di testo |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextSegment](../../textsegment/)
-* classe [TextSegmentCollection](../)
+* class [TextSegment](../../textsegment/)
+* class [TextSegmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

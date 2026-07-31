@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateTableTFootElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ITaggedContent. Crea TableTFootElement
+title: "ITaggedContent.CreateTableTFootElement"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ITaggedContent. Crea TableTFootElement"
 type: docs
-weight: 310
+weight: 340
 url: /it/net/aspose.pdf.tagged/itaggedcontent/createtabletfootelement/
 ---
-## Metodo ITaggedContent.CreateTableTFootElement
+## ITaggedContent.CreateTableTFootElement method
 
 Crea [`TableTFootElement`](../../../aspose.pdf.logicalstructure/tabletfootelement/).
 
@@ -20,7 +20,9 @@ Elemento di struttura creato.
 
 ### Vedi anche
 
-* classe [TableTFootElement](../../../aspose.pdf.logicalstructure/tabletfootelement/)
-* interfaccia [ITaggedContent](../)
+* class [TableTFootElement](../../../aspose.pdf.logicalstructure/tabletfootelement/)
+* interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

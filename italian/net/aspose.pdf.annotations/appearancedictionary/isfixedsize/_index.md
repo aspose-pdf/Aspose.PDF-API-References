@@ -1,12 +1,12 @@
 ---
-title: AppearanceDictionary.IsFixedSize
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà AppearanceDictionary. Ottiene un valore che indica se il dizionario ha una dimensione fissa
+title: "AppearanceDictionary.IsFixedSize"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà AppearanceDictionary. Restituisce un valore che indica se il dizionario ha una dimensione fissa"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.annotations/appearancedictionary/isfixedsize/
 ---
-## Proprietà AppearanceDictionary.IsFixedSize
+## AppearanceDictionary.IsFixedSize property
 
 Ottiene un valore che indica se il dizionario ha una dimensione fissa.
 
@@ -14,8 +14,10 @@ Ottiene un valore che indica se il dizionario ha una dimensione fissa.
 public bool IsFixedSize { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AppearanceDictionary](../)
+* class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

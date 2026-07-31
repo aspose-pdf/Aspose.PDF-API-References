@@ -1,14 +1,14 @@
 ---
-title: Point.Point
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di Punto. Inizializza una nuova istanza del Punto
+title: "Point.Point"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore Point. Inizializza una nuova istanza del Point"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/point/point/
 ---
-## Costruttore di Punto
+## Point constructor
 
-Inizializza una nuova istanza del [`Point`](../).
+Inizializza una nuova istanza di [`Point`](../).
 
 ```csharp
 public Point(double x, double y)
@@ -19,8 +19,10 @@ public Point(double x, double y)
 | x | Double | Valore della coordinata x. |
 | y | Double | Valore della coordinata y. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Point](../)
+* class [Point](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

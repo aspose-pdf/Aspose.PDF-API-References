@@ -1,12 +1,12 @@
 ---
-title: Page.GetResources
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Page. Recupera le risorse associate alla pagina
+title: "Page.GetResources"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Page. Recupera le risorse associate alla pagina"
 type: docs
 weight: 470
 url: /it/net/aspose.pdf/page/getresources/
 ---
-## Metodo Page.GetResources
+## Page.GetResources method
 
 Recupera le risorse associate alla pagina.
 
@@ -14,13 +14,15 @@ Recupera le risorse associate alla pagina.
 public Resources GetResources()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Un oggetto [`Resources`](../resources/) che rappresenta le risorse della pagina.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Resources](../../resources/)
-* classe [Page](../)
+* class [Resources](../../resources/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

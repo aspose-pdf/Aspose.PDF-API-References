@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateBibEntryElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ITaggedContent. Crea BibEntryElement
+title: "ITaggedContent.CreateBibEntryElement"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ITaggedContent. Crea BibEntryElement"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.tagged/itaggedcontent/createbibentryelement/
 ---
-## Metodo ITaggedContent.CreateBibEntryElement
+## ITaggedContent.CreateBibEntryElement method
 
 Crea [`BibEntryElement`](../../../aspose.pdf.logicalstructure/bibentryelement/).
 
@@ -14,13 +14,15 @@ Crea [`BibEntryElement`](../../../aspose.pdf.logicalstructure/bibentryelement/).
 public BibEntryElement CreateBibEntryElement()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Elemento di struttura creato.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BibEntryElement](../../../aspose.pdf.logicalstructure/bibentryelement/)
-* interfaccia [ITaggedContent](../)
+* class [BibEntryElement](../../../aspose.pdf.logicalstructure/bibentryelement/)
+* interface [ITaggedContent](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

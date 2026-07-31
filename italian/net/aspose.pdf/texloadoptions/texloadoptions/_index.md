@@ -1,12 +1,12 @@
 ---
-title: TeXLoadOptions.TeXLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di TeXLoadOptions. Il costruttore predefinito
+title: "TeXLoadOptions.TeXLoadOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore TeXLoadOptions. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/texloadoptions/texloadoptions/
 ---
-## Costruttore di TeXLoadOptions
+## TeXLoadOptions constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public TeXLoadOptions()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TeXLoadOptions](../)
+* class [TeXLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

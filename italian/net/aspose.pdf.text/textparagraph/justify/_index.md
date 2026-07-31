@@ -1,21 +1,23 @@
 ---
-title: TextParagraph.Justify
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextParagraph. Ottiene o imposta il valore se il testo è giustificato
+title: "TextParagraph.Justify"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextParagraph. Ottiene o imposta il valore che indica se il testo è giustificato"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.text/textparagraph/justify/
 ---
-## Proprietà TextParagraph.Justify
+## TextParagraph.Justify property
 
-Ottiene o imposta il valore se il testo è giustificato.
+Ottiene o imposta il valore che indica se il testo è giustificato.
 
 ```csharp
 public bool Justify { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextParagraph](../)
+* class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Interface IOperatorSelector
-second_title: Aspose.PDF for .NET API Reference
-description: Interfaccia Aspose.Pdf.IOperatorSelector. Definisce il Visitor per visitare diversi operatori pdf
+title: "Interfaccia IOperatorSelector"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Interfaccia Aspose.Pdf.IOperatorSelector. Definisce Visitor per visitare diversi operatori pdf"
 type: docs
-weight: 5790
+weight: 5920
 url: /it/net/aspose.pdf/ioperatorselector/
 ---
-## Interfaccia IOperatorSelector
+## IOperatorSelector interface
 
-Definisce il Visitor per visitare diversi operatori pdf.
+Definisce Visitor per visitare diversi operatori pdf.
 
 ```csharp
 public interface IOperatorSelector
@@ -97,3 +97,5 @@ public interface IOperatorSelector
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

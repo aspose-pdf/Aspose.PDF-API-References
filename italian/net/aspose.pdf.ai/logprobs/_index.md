@@ -1,14 +1,14 @@
 ---
-title: Class Logprobs
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.Logprobs. Rappresenta informazioni sulla probabilità logaritmica per una scelta
+title: "Classe Logprobs"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.AI.Logprobs classe. Rappresenta le informazioni sulla probabilità logaritmica per una scelta"
 type: docs
-weight: 760
+weight: 810
 url: /it/net/aspose.pdf.ai/logprobs/
 ---
-## Classe Logprobs
+## Logprobs class
 
-Rappresenta informazioni sulla probabilità logaritmica per una scelta.
+Rappresenta le informazioni di probabilità logaritmica per una scelta.
 
 ```csharp
 public class Logprobs
@@ -26,10 +26,12 @@ public class Logprobs
 | --- | --- |
 | [TextOffset](../../aspose.pdf.ai/logprobs/textoffset/) { get; set; } | Ottiene o imposta un elenco di interi che rappresentano la rappresentazione in byte UTF-8 di ciascun token. |
 | [TokenLogprobs](../../aspose.pdf.ai/logprobs/tokenlogprobs/) { get; set; } | Ottiene o imposta un elenco di probabilità logaritmiche dei token. |
-| [Tokens](../../aspose.pdf.ai/logprobs/tokens/) { get; set; } | Ottiene o imposta un elenco di token di contenuto del messaggio con informazioni sulla probabilità logaritmica. |
-| [TopLogprobs](../../aspose.pdf.ai/logprobs/toplogprobs/) { get; set; } | Ottiene o imposta un elenco dei token più probabili e della loro probabilità logaritmica, in ciascuna posizione del token. |
+| [Tokens](../../aspose.pdf.ai/logprobs/tokens/) { get; set; } | Ottiene o imposta un elenco di token del contenuto del messaggio con informazioni sulla probabilità logaritmica. |
+| [TopLogprobs](../../aspose.pdf.ai/logprobs/toplogprobs/) { get; set; } | Ottiene o imposta un elenco dei token più probabili e della loro probabilità logaritmica, in ogni posizione del token. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

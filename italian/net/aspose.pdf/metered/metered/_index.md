@@ -1,12 +1,12 @@
 ---
-title: Metered.Metered
-second_title: Aspose.PDF for .NET API Reference
-description: Metered constructor. The default constructor
+title: "Metered.Metered"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metered constructor. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/metered/metered/
 ---
-## Costruttore Metered
+## Metered constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public Metered()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Metered](../)
+* class [Metered](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

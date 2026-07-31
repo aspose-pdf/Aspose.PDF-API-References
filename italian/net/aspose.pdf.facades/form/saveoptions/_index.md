@@ -1,12 +1,12 @@
 ---
-title: Form.SaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del modulo. Ottiene o imposta le opzioni di salvataggio quando il risultato è memorizzato come HttpResponse. Valore predefinito PdfSaveOptions
+title: "Form.SaveOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Form. Ottiene o imposta le opzioni di salvataggio quando il risultato è memorizzato come HttpResponse. Valore predefinito PdfSaveOptions"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.facades/form/saveoptions/
 ---
-## Proprietà Form.SaveOptions
+## Form.SaveOptions property
 
 Ottiene o imposta le opzioni di salvataggio quando il risultato è memorizzato come HttpResponse. Valore predefinito: PdfSaveOptions.
 
@@ -14,9 +14,11 @@ Ottiene o imposta le opzioni di salvataggio quando il risultato è memorizzato c
 public SaveOptions SaveOptions { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SaveOptions](../../../aspose.pdf/saveoptions/)
-* classe [Form](../)
+* class [SaveOptions](../../../aspose.pdf/saveoptions/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

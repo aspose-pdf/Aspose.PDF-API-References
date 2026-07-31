@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.LocationLabel
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SignatureCustomAppearance. Ottiene/imposta l'etichetta della posizione. Valore predefinito Posizione
+title: "SignatureCustomAppearance.LocationLabel"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SignatureCustomAppearance. Ottiene/imposta l'etichetta della posizione. Valore predefinito Location"
 type: docs
-weight: 130
+weight: 140
 url: /it/net/aspose.pdf.forms/signaturecustomappearance/locationlabel/
 ---
-## Proprietà SignatureCustomAppearance.LocationLabel
+## SignatureCustomAppearance.LocationLabel property
 
-Ottiene/imposta l'etichetta della posizione. Valore predefinito: "Posizione".
+Ottiene/imposta l'etichetta della posizione. Valore predefinito: "Location".
 
 ```csharp
 public string LocationLabel { get; set; }
@@ -16,6 +16,8 @@ public string LocationLabel { get; set; }
 
 ### Vedi anche
 
-* classe [SignatureCustomAppearance](../)
+* class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

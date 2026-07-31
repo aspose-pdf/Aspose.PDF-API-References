@@ -1,12 +1,12 @@
 ---
-title: Cell.Border
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della cella. Ottiene o imposta il bordo
+title: "Cell.Border"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Cell. Ottiene o imposta il bordo"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf/cell/border/
 ---
-## Proprietà Cell.Border
+## Cell.Border property
 
 Ottiene o imposta il bordo.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il bordo.
 public BorderInfo Border { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BorderInfo](../../borderinfo/)
-* classe [Cell](../)
+* class [BorderInfo](../../borderinfo/)
+* class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

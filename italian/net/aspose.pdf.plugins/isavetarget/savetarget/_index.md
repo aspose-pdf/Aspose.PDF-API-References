@@ -1,12 +1,12 @@
 ---
-title: ISaveTarget.SaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ISaveTarget. Tipo del file o stream di destinazione del salvataggio
+title: "ISaveTarget.SaveTarget"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ISaveTarget. Tipo del file o stream di destinazione di salvataggio"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.plugins/isavetarget/savetarget/
 ---
-## Proprietà ISaveTarget.SaveTarget
+## ISaveTarget.SaveTarget property
 
 Tipo della destinazione di salvataggio (file o stream).
 
@@ -14,13 +14,15 @@ Tipo della destinazione di salvataggio (file o stream).
 public DataType SaveTarget { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Un oggetto [`DataType`](../../datatype/) che rappresenta i dati di output.
 
-### Vedi Anche
+### Vedi anche
 
 * enum [DataType](../../datatype/)
-* interfaccia [ISaveTarget](../)
+* interface [ISaveTarget](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: Document.Form
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Document. Ottiene il modulo Acro del documento
+title: "Document.Form"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Document. Ottiene il modulo Acro del documento"
 type: docs
-weight: 210
+weight: 230
 url: /it/net/aspose.pdf/document/form/
 ---
-## Proprietà Document.Form
+## Document.Form property
 
-Ottiene il modulo Acro del documento.
+Ottiene il modulo Acro Form del documento.
 
 ```csharp
 public Form Form { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Form](../../../aspose.pdf.forms/form/)
-* classe [Document](../)
+* class [Form](../../../aspose.pdf.forms/form/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

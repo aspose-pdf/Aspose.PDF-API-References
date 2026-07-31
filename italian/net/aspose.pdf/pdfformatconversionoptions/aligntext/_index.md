@@ -1,21 +1,23 @@
 ---
-title: PdfFormatConversionOptions.AlignText
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PdfFormatConversionOptions. Questo flag controlla l'allineamento del testo nel documento convertito. Per impostazione predefinita, la conversione del documento non influisce sull'allineamento del testo e lascia il testo così com'è. Ma in alcuni casi, la sostituzione del font causa sovrapposizioni di testo o spazi extra nel documento convertito. Quando questo flag è impostato, verranno eseguite operazioni di allineamento speciali. Questo flag dovrebbe essere impostato solo per documenti che presentano problemi con il testo sovrapposto o spazi di testo extra, poiché l'uso di questo flag riduce le prestazioni e in alcuni casi potrebbe corrompere il contenuto del testo.
+title: "PdfFormatConversionOptions.AlignText"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfFormatConversionOptions. Questo flag controlla l'allineamento del testo nel documento convertito. Per impostazione predefinita la conversione del documento non influisce sull'allineamento del testo e lo lascia invariato. Tuttavia, in alcuni casi la sostituzione dei font provoca sovrapposizioni di testo o spazi extra nel documento convertito. Quando questo flag è impostato verranno eseguite operazioni speciali di allineamento. Questo flag dovrebbe essere impostato solo per i documenti che presentano problemi di testo sovrapposto o spazi extra, poiché l'uso di questo flag diminuisce le prestazioni e in alcuni casi potrebbe corrompere il contenuto del testo."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/pdfformatconversionoptions/aligntext/
 ---
-## Proprietà PdfFormatConversionOptions.AlignText
+## PdfFormatConversionOptions.AlignText property
 
-Questo flag controlla l'allineamento del testo nel documento convertito. Per impostazione predefinita, la conversione del documento non influisce sull'allineamento del testo e lascia il testo così com'è. Ma in alcuni casi, la sostituzione del font causa sovrapposizioni di testo o spazi extra nel documento convertito. Quando questo flag è impostato, verranno eseguite operazioni di allineamento speciali. Questo flag dovrebbe essere impostato solo per documenti che presentano problemi con il testo sovrapposto o spazi di testo extra, poiché l'uso di questo flag riduce le prestazioni e in alcuni casi potrebbe corrompere il contenuto del testo.
+Questa opzione controlla l'allineamento del testo nel documento convertito. Per impostazione predefinita la conversione del documento non influisce sull'allineamento del testo e lo lascia invariato. Tuttavia, in alcuni casi la sostituzione dei caratteri provoca sovrapposizioni di testo o spazi aggiuntivi nel documento convertito. Quando questa opzione è impostata, verranno eseguite operazioni speciali di allineamento. Questa opzione dovrebbe essere impostata solo per i documenti che presentano problemi di testo sovrapposto o spazi extra, poiché l'uso di questa opzione diminuisce le prestazioni e in alcuni casi potrebbe corrompere il contenuto del testo.
 
 ```csharp
 public bool AlignText { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFormatConversionOptions](../)
+* class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

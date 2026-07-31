@@ -1,12 +1,12 @@
 ---
-title: XImage.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XImage. Ottiene la larghezza dell'immagine
+title: "XImage.Width"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà XImage. Ottiene la larghezza dell'immagine"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf/ximage/width/
 ---
-## Proprietà XImage.Width
+## XImage.Width property
 
 Ottiene la larghezza dell'immagine.
 
@@ -14,8 +14,10 @@ Ottiene la larghezza dell'immagine.
 public int Width { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XImage](../)
+* class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

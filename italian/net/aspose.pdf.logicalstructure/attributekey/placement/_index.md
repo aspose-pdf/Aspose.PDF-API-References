@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.Placement
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeKey. Attributo di posizionamento Proprietario dell'attributo di layout
+title: "AttributeKey.Placement"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo AttributeKey. Attributo Placement del layout, proprietario dell'attributo"
 type: docs
 weight: 230
 url: /it/net/aspose.pdf.logicalstructure/attributekey/placement/
 ---
-## Campo AttributeKey.Placement
+## AttributeKey.Placement field
 
-Attributo di posizionamento (Proprietario dell'attributo di layout).
+Attributo Placement (proprietario dell'attributo Layout).
 
 ```csharp
 public static readonly AttributeKey Placement;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

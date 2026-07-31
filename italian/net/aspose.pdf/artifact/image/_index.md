@@ -1,14 +1,14 @@
 ---
-title: Artifact.Image
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà dell'articolo. Ottiene l'immagine dell'articolo se presente
+title: "Artifact.Image"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Artifact. Ottiene l'immagine dell'artifact se presente."
 type: docs
 weight: 90
 url: /it/net/aspose.pdf/artifact/image/
 ---
-## Proprietà Artifact.Image
+## Artifact.Image property
 
-Ottiene l'immagine dell'articolo (se presente).
+Ottiene l'immagine dell'artefatto (se presente).
 
 ```csharp
 public XImage Image { get; }
@@ -16,7 +16,9 @@ public XImage Image { get; }
 
 ### Vedi anche
 
-* classe [XImage](../../ximage/)
-* classe [Artifact](../)
+* class [XImage](../../ximage/)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

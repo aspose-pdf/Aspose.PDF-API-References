@@ -1,21 +1,23 @@
 ---
-title: RunResponse.MaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di RunResponse. Ottiene o imposta il numero massimo di token di completamento specificato come utilizzato nel corso dell'esecuzione
+title: "RunResponse.MaxCompletionTokens"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà RunResponse. Ottiene o imposta il numero massimo di token di completamento specificato per essere stato usato durante l'esecuzione"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf.ai/runresponse/maxcompletiontokens/
 ---
-## Proprietà RunResponse.MaxCompletionTokens
+## RunResponse.MaxCompletionTokens property
 
-Ottiene o imposta il numero massimo di token di completamento specificato come utilizzato nel corso dell'esecuzione.
+Ottiene o imposta il numero massimo di token di completamento specificati come utilizzati durante il run.
 
 ```csharp
 public int? MaxCompletionTokens { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RunResponse](../)
+* class [RunResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

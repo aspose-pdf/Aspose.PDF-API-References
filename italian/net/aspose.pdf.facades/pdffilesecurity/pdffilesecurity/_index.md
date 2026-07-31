@@ -1,22 +1,22 @@
 ---
-title: PdfFileSecurity.PdfFileSecurity
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PdfFileSecurity. Inizializza l'oggetto di PdfFileSecurity
+title: "PdfFileSecurity.PdfFileSecurity"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PdfFileSecurity. Inizializza l'oggetto PdfFileSecurity"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.facades/pdffilesecurity/pdffilesecurity/
 ---
 ## PdfFileSecurity() {#constructor}
 
-Inizializza l'oggetto di PdfFileSecurity.
+Inizializza l'oggetto PdfFileSecurity.
 
 ```csharp
 public PdfFileSecurity()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileSecurity](../)
+* class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public PdfFileSecurity()
 
 ## PdfFileSecurity(Document) {#constructor_1}
 
-Inizializza un nuovo oggetto [`PdfFileSecurity`](../) basato sul *documento*.
+Inizializza un nuovo oggetto [`PdfFileSecurity`](../) basato sul *document*.
 
 ```csharp
 public PdfFileSecurity(Document document)
@@ -32,11 +32,13 @@ public PdfFileSecurity(Document document)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| documento | Documento | Documento Pdf. |
+| document | Document | Documento Pdf. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [PdfFileSecurity](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

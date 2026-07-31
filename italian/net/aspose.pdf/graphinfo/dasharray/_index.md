@@ -1,12 +1,12 @@
 ---
-title: GraphInfo.DashArray
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà GraphInfo. Ottiene o imposta un array di dash
+title: "GraphInfo.DashArray"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà GraphInfo. Ottiene o imposta un dash array"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/graphinfo/dasharray/
 ---
-## Proprietà GraphInfo.DashArray
+## GraphInfo.DashArray property
 
 Ottiene o imposta un array di dash.
 
@@ -14,8 +14,10 @@ Ottiene o imposta un array di dash.
 public int[] DashArray { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GraphInfo](../)
+* class [GraphInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

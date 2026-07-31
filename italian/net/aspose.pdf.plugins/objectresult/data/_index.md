@@ -1,25 +1,27 @@
 ---
-title: ObjectResult.Data
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ObjectResult. Ottiene dati grezzi
+title: "ObjectResult.Data"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "ObjectResult proprietà. Ottiene i dati grezzi"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.plugins/objectresult/data/
 ---
-## Proprietà ObjectResult.Data
+## ObjectResult.Data property
 
-Ottiene dati grezzi.
+Ottiene i dati grezzi.
 
 ```csharp
 public object Data { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un `oggetto` che rappresenta i dati di output.
+Un `object` che rappresenta i dati di output.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ObjectResult](../)
+* class [ObjectResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,20 +1,22 @@
 ---
-title: Class MediaClip
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.MediaClip. La classe descrive l'oggetto clip multimediale di rappresentazione
+title: "Classe MediaClip"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Annotations.MediaClip. La classe descrive l'oggetto media clip della rendizione."
 type: docs
-weight: 2070
+weight: 2160
 url: /it/net/aspose.pdf.annotations/mediaclip/
 ---
-## Classe MediaClip
+## MediaClip class
 
-La classe descrive l'oggetto clip multimediale di rappresentazione.
+Classe che descrive l'oggetto media clip della resa.
 
 ```csharp
 public class MediaClip
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

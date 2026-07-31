@@ -1,14 +1,14 @@
 ---
-title: Signature.CustomSignHash
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di firma. Il delegato per firmare in modo personalizzato l'hash del documento
+title: "Signature.CustomSignHash"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Signature. Il delegato per firmare in modo personalizzato l'hash del documento"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.forms/signature/customsignhash/
 ---
-## Proprietà Signature.CustomSignHash
+## Signature.CustomSignHash property
 
-Il delegato per firmare in modo personalizzato l'hash del documento.
+Il delegato per la firma personalizzata dell'hash del documento.
 
 ```csharp
 public SignHash CustomSignHash { get; set; }
@@ -18,9 +18,11 @@ public SignHash CustomSignHash { get; set; }
 
 `L'algoritmo con cui firmi l'hash nel delegato deve corrispondere al tipo della chiave privata del certificato.`
 
-### Vedi Anche
+### Vedi anche
 
-* delegato [SignHash](../../signhash/)
-* classe [Signature](../)
+* delegate [SignHash](../../signhash/)
+* class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

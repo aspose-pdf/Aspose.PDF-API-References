@@ -1,12 +1,12 @@
 ---
-title: Color.AliceBlue
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà colore. Ottiene un colore definito dal sistema che ha un valore ARGB di c FFF0F8FF
+title: "Color.AliceBlue"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Color proprietà. Ottiene un colore definito dal sistema che ha un valore ARGB di c FFF0F8FF"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/color/aliceblue/
 ---
-## Proprietà Color.AliceBlue
+## Color.AliceBlue property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFF0F8FF.
 
@@ -16,10 +16,12 @@ public static Color AliceBlue { get; }
 
 ### Valore di ritorno
 
-Un rappresentante di un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
 ### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

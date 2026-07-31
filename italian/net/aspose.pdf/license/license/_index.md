@@ -1,12 +1,12 @@
 ---
-title: License.License
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di License. Il costruttore predefinito
+title: "License.License"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore License. Il costruttore predefinito."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/license/license/
 ---
-## Costruttore di License
+## License constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public License()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [License](../)
+* class [License](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

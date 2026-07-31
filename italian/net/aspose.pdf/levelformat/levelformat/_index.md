@@ -1,12 +1,12 @@
 ---
-title: LevelFormat.LevelFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di LevelFormat. Il costruttore predefinito
+title: "LevelFormat.LevelFormat"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore LevelFormat. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/levelformat/levelformat/
 ---
-## Costruttore di LevelFormat
+## LevelFormat constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public LevelFormat()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [LevelFormat](../)
+* class [LevelFormat](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

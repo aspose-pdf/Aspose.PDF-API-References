@@ -1,12 +1,12 @@
 ---
-title: BaseResponse.HttpResponseHeaders
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di BaseResponse. Ottiene o imponga i header della risposta HTTP.
+title: "BaseResponse.HttpResponseHeaders"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "BaseResponse proprietà. Ottiene o imposta le intestazioni della risposta HTTP"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.ai/baseresponse/httpresponseheaders/
 ---
-## Proprietà BaseResponse.HttpResponseHeaders
+## BaseResponse.HttpResponseHeaders property
 
 Ottiene o imposta le intestazioni della risposta HTTP.
 
@@ -14,8 +14,10 @@ Ottiene o imposta le intestazioni della risposta HTTP.
 public HttpResponseHeaders HttpResponseHeaders { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BaseResponse](../)
+* class [BaseResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: XmpValue.IsInteger
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XmpValue. Restituisce true se il valore è un intero
+title: "XmpValue.IsInteger"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà XmpValue. Restituisce true se il valore è un intero"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/xmpvalue/isinteger/
 ---
-## Proprietà XmpValue.IsInteger
+## XmpValue.IsInteger property
 
-Restituisce true se il valore è un intero.
+Restituisce true se il valore è intero.
 
 ```csharp
 public bool IsInteger { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpValue](../)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

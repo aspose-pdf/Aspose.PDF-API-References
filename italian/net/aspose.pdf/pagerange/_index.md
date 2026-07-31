@@ -1,12 +1,12 @@
 ---
-title: Class PageRange
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.PageRange. Rappresenta l'intervallo di pagine per le impostazioni di intestazione e piè di pagina
+title: "Classe PageRange"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.PageRange. Rappresenta l'intervallo di pagine per le impostazioni di intestazione e piè di pagina"
 type: docs
-weight: 8240
+weight: 8380
 url: /it/net/aspose.pdf/pagerange/
 ---
-## Classe PageRange
+## PageRange class
 
 Rappresenta l'intervallo di pagine per le impostazioni di intestazione e piè di pagina.
 
@@ -24,12 +24,14 @@ public sealed class PageRange
 
 | Nome | Descrizione |
 | --- | --- |
-| [End](../../aspose.pdf/pagerange/end/) { get; set; } | Ottiene o imposta il numero di pagina finale. |
+| [End](../../aspose.pdf/pagerange/end/) { get; set; } | Ottiene o imposta il numero della pagina finale. |
 | [Even](../../aspose.pdf/pagerange/even/) { get; set; } | Ottiene o imposta l'impostazione per le pagine pari. |
 | [Odd](../../aspose.pdf/pagerange/odd/) { get; set; } | Ottiene o imposta l'impostazione per le pagine dispari. |
-| [Start](../../aspose.pdf/pagerange/start/) { get; set; } | Ottiene o imposta il numero di pagina iniziale. |
+| [Start](../../aspose.pdf/pagerange/start/) { get; set; } | Ottiene o imposta il numero della pagina iniziale. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

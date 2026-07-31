@@ -1,21 +1,23 @@
 ---
-title: BaseResponse.ErrorMessage
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà BaseResponse. Ottiene o imposta le informazioni sugli errori
+title: "BaseResponse.ErrorMessage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà BaseResponse. Ottiene o imposta le informazioni sull'errore"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.ai/baseresponse/errormessage/
 ---
-## Proprietà BaseResponse.ErrorMessage
+## BaseResponse.ErrorMessage property
 
-Ottiene o imposta le informazioni sugli errori.
+Ottiene o imposta le informazioni sull'errore.
 
 ```csharp
 public string ErrorMessage { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BaseResponse](../)
+* class [BaseResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

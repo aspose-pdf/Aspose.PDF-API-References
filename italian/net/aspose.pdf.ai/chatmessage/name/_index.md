@@ -1,21 +1,23 @@
 ---
-title: ChatMessage.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ChatMessage. Ottiene o imposta un nome opzionale per il partecipante. Fornisce le informazioni sul modello per differenziare tra i partecipanti dello stesso ruolo
+title: "ChatMessage.Name"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà di ChatMessage. Ottiene o imposta un nome opzionale per il partecipante. Fornisce al modello informazioni per differenziare i partecipanti con lo stesso ruolo"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.ai/chatmessage/name/
 ---
-## Proprietà ChatMessage.Name
+## ChatMessage.Name property
 
-Ottiene o imposta un nome opzionale per il partecipante. Fornisce le informazioni sul modello per differenziare tra i partecipanti dello stesso ruolo.
+Ottiene o imposta un nome opzionale per il partecipante. Fornisce al modello informazioni per differenziare i partecipanti con lo stesso ruolo.
 
 ```csharp
 public string Name { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ChatMessage](../)
+* class [ChatMessage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

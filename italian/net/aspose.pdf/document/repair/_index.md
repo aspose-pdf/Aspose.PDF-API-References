@@ -1,14 +1,14 @@
 ---
-title: Document.Repair
-second_title: Aspose.PDF for .NET API Reference
-description: Documento metodo. Reparazioni documento rotto.
+title: "Document.Repair"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Document. Ripara un documento danneggiato"
 type: docs
-weight: 820
+weight: 840
 url: /it/net/aspose.pdf/document/repair/
 ---
-## Metodo Document.Repair
+## Document.Repair method
 
-Ripara documento danneggiato.
+Ripara il documento danneggiato.
 
 ```csharp
 public void Repair(RepairOptions options = null)
@@ -18,9 +18,11 @@ public void Repair(RepairOptions options = null)
 | --- | --- | --- |
 | options | RepairOptions | Un parametro opzionale di tipo [`RepairOptions`](../../document.repairoptions/) per specificare le impostazioni di riparazione. Se non fornito, verranno utilizzate le impostazioni predefinite. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RepairOptions](../../document.repairoptions/)
-* classe [Document](../)
+* class [RepairOptions](../../document.repairoptions/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

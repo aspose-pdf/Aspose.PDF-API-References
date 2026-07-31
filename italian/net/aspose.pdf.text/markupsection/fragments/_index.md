@@ -1,14 +1,14 @@
 ---
-title: MarkupSection.Fragments
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà MarkupSection. Collezione di oggetti TextFragment non vuoti che si trovano all'interno della sezione
+title: "MarkupSection.Fragments"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà MarkupSection. Collezione di oggetti TextFragment non vuoti presenti nella sezione"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.text/markupsection/fragments/
 ---
-## Proprietà MarkupSection.Fragments
+## MarkupSection.Fragments property
 
-Collezione di oggetti [`TextFragment`](../../textfragment/) non vuoti che si trovano all'interno della sezione.
+Collezione di oggetti [`TextFragment`](../../textfragment/) non vuoti presenti nella sezione.
 
 ```csharp
 public List<TextFragment> Fragments { get; }
@@ -16,11 +16,13 @@ public List<TextFragment> Fragments { get; }
 
 ## Osservazioni
 
-L'oggetto [`TextFragment`](../../textfragment/) fornisce accesso al testo dell'occorrenza di ricerca, alle proprietà del testo e consente di modificare il testo e cambiare lo stato del testo (carattere, dimensione del carattere, colore, ecc.).
+L'oggetto [`TextFragment`](../../textfragment/) fornisce l'accesso al testo dell'occorrenza di ricerca, alle proprietà del testo, e consente di modificare il testo e cambiare lo stato del testo (font, dimensione del font, colore ecc.).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextFragment](../../textfragment/)
-* classe [MarkupSection](../)
+* class [TextFragment](../../textfragment/)
+* class [MarkupSection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

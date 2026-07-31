@@ -1,23 +1,23 @@
 ---
-title: SubPaths
-second_title: Aspose.PDF for .NET API Reference
-description: Ottiene una collezione di occorrenze di ricerca presentate con oggetti SubPathaspose.pdf.vector/subpath.
+title: "SubPaths"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Ottiene la collezione di occorrenze di ricerca presentate con oggetti SubPathaspose.pdf.vector/subpath."
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.vector/vectorgraphicsabsorber/subpaths/
 ---
-## VectorGraphicsAbsorber.SottoPercorsi proprietà
+## VectorGraphicsAbsorber.SubPaths property
 
-Ottiene una collezione di occorrenze di ricerca presentate con oggetti [`SubPath`](../../subpath).
+Ottiene la collezione di occorrenze di ricerca presentate con oggetti [`SubPath`](../../subpath).
 
 ```csharp
 public SubPathCollection SubPaths { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SubPathCollection](../../subpathcollection)
-* classe [VectorGraphicsAbsorber](../../vectorgraphicsabsorber)
+* class [SubPathCollection](../../subpathcollection)
+* class [VectorGraphicsAbsorber](../../vectorgraphicsabsorber)
 * namespace [Aspose.Pdf.Vector](../../vectorgraphicsabsorber)
 * assembly [Aspose.PDF](../../../)
 

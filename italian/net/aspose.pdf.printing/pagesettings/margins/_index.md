@@ -1,12 +1,12 @@
 ---
-title: PageSettings.Margins
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PageSettings. Ottiene o imposta un valore che indica i margini per questa pagina
+title: "PageSettings.Margins"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PageSettings. Ottiene o imposta un valore che indica i margini per questa pagina"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.printing/pagesettings/margins/
 ---
-## Proprietà PageSettings.Margins
+## PageSettings.Margins property
 
 Ottiene o imposta un valore che indica i margini per questa pagina.
 
@@ -14,9 +14,11 @@ Ottiene o imposta un valore che indica i margini per questa pagina.
 public Margins Margins { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Margins](../../../aspose.pdf.devices/margins/)
-* classe [PageSettings](../)
+* class [Margins](../../../aspose.pdf.devices/margins/)
+* class [PageSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

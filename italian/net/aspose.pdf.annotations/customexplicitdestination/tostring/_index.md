@@ -1,12 +1,12 @@
 ---
-title: CustomExplicitDestination.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo CustomExplicitDestination. Converte in numero di pagina
+title: "CustomExplicitDestination.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "CustomExplicitDestination metodo. Converte in numero di pagina"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/customexplicitdestination/tostring/
 ---
-## Metodo CustomExplicitDestination.ToString
+## CustomExplicitDestination.ToString method
 
 Converte in numero di pagina.
 
@@ -14,12 +14,14 @@ Converte in numero di pagina.
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Numero di pagina.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [CustomExplicitDestination](../)
+* class [CustomExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

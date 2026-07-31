@@ -1,12 +1,12 @@
 ---
-title: Measure.NumberFormat.Precision
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà NumberFormat. Se FractionDisplayment è ShowAsDecimal, questo valore è la precisione del valore frazionario. Deve essere un multiplo di 10. Il valore predefinito è 100.
+title: "Measure.NumberFormat.Precision"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà NumberFormat. Se FractionDisplayment è ShowAsDecimal, questo valore è la precisione del valore frazionario. Deve essere un multiplo di 10. Il valore predefinito è 100"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.annotations/measure.numberformat/precision/
 ---
-## Proprietà Measure.NumberFormat.Precision
+## Measure.NumberFormat.Precision property
 
 Se FractionDisplayment è ShowAsDecimal, questo valore è la precisione del valore frazionario; deve essere un multiplo di 10. Il valore predefinito è 100.
 
@@ -14,8 +14,10 @@ Se FractionDisplayment è ShowAsDecimal, questo valore è la precisione del valo
 public int Precision { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [NumberFormat](../)
+* class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

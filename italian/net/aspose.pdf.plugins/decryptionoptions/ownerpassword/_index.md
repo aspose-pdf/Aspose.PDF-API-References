@@ -1,12 +1,12 @@
 ---
-title: DecryptionOptions.OwnerPassword
-second_title: Aspose.PDF for .NET API Reference
-description: DecryptionOptions property. Owner password
+title: "DecryptionOptions.OwnerPassword"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà DecryptionOptions. Password del proprietario"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.plugins/decryptionoptions/ownerpassword/
 ---
-## Proprietà DecryptionOptions.OwnerPassword
+## DecryptionOptions.OwnerPassword property
 
 Password del proprietario.
 
@@ -14,8 +14,10 @@ Password del proprietario.
 public string OwnerPassword { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DecryptionOptions](../)
+* class [DecryptionOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

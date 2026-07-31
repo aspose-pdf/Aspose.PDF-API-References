@@ -1,12 +1,12 @@
 ---
-title: ClosePathStroke.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ClosePathStroke. Restituisce la rappresentazione testuale dell'operatore
+title: "ClosePathStroke.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ClosePathStroke. Restituisce la rappresentazione testuale dell'operatore"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.operators/closepathstroke/tostring/
 ---
-## Metodo ClosePathStroke.ToString
+## ClosePathStroke.ToString method
 
 Restituisce la rappresentazione testuale dell'operatore.
 
@@ -14,12 +14,14 @@ Restituisce la rappresentazione testuale dell'operatore.
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Rappresentazione testuale dell'operatore.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ClosePathStroke](../)
+* class [ClosePathStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

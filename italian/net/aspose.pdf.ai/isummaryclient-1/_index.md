@@ -1,12 +1,12 @@
 ---
-title: Interface ISummaryClientTOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Interfaccia Aspose.Pdf.AI.ISummaryClient1TOptions. Rappresenta un'interfaccia per un client di riepilogo con opzioni specifiche
+title: "Interfaccia ISummaryClientTOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Interfaccia Aspose.Pdf.AI.ISummaryClient1TOptions. Rappresenta un'interfaccia per un client di riepilogo con opzioni specifiche"
 type: docs
-weight: 580
+weight: 630
 url: /it/net/aspose.pdf.ai/isummaryclient-1/
 ---
-## Interfaccia ISummaryClient&lt;TOptions&gt;
+## ISummaryClient&lt;TOptions&gt; interface
 
 Rappresenta un'interfaccia per un client di riepilogo con opzioni specifiche.
 
@@ -24,8 +24,10 @@ public interface ISummaryClient<in TOptions> : IAIClient
 | --- | --- |
 | [GetSummaryCopilot](../../aspose.pdf.ai/isummaryclient-1/getsummarycopilot/)(ISummaryCopilotOptions&lt;TOptions&gt;) | Ottiene un'istanza di [`ISummaryCopilot`](../isummarycopilot/) con le opzioni specificate. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IAIClient](../iaiclient/)
+* interface [IAIClient](../iaiclient/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

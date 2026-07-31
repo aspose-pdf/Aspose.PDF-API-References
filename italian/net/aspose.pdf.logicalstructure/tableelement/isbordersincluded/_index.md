@@ -1,7 +1,7 @@
 ---
-title: TableElement.IsBordersIncluded
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TableElement. Ottiene o imposta il bordo incluso nelle larghezze delle colonne
+title: "TableElement.IsBordersIncluded"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TableElement. Ottiene o imposta il bordo incluso nelle larghezze delle colonne"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf.logicalstructure/tableelement/isbordersincluded/
@@ -14,8 +14,10 @@ Ottiene o imposta il bordo incluso nelle larghezze delle colonne.
 public bool IsBordersIncluded { get; set; }
 ```
 
-### See Also
+### Vedi anche
 
 * class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

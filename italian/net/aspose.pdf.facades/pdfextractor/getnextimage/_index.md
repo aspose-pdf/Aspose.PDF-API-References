@@ -1,28 +1,28 @@
 ---
-title: PdfExtractor.GetNextImage
-second_title: Aspose.PDF for .NET API Reference
-description: PdfExtractor method. Retrieves next image from PDF document. Note ExtractImage must be called before using of this method
+title: "PdfExtractor.GetNextImage"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfExtractor. Recupera l'immagine successiva dal documento PDF. Nota: ExtractImage deve essere chiamato prima di utilizzare questo metodo"
 type: docs
 weight: 170
 url: /it/net/aspose.pdf.facades/pdfextractor/getnextimage/
 ---
 ## GetNextImage(string) {#getnextimage_2}
 
-Recupera la prossima immagine dal documento PDF. Nota: ExtractImage deve essere chiamato prima di utilizzare questo metodo.
+Recupera l'immagine successiva dal documento PDF. Nota: ExtractImage deve essere chiamato prima dell'uso di questo metodo.
 
 ```csharp
 public bool GetNextImage(string outputFile)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| outputFile | String | File dove l'immagine sarà memorizzata |
+| outputFile | String | File in cui l'immagine sarà memorizzata |
 
-### Return Value
+### Valore di ritorno
 
 True se l'immagine è stata estratta con successo
 
-## Examples
+## Esempi
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -35,7 +35,7 @@ while (extractor.HasNextImage())
 }
 ```
 
-### See Also
+### Vedi anche
 
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -45,22 +45,22 @@ while (extractor.HasNextImage())
 
 ## GetNextImage(string, ImageFormat) {#getnextimage_3}
 
-Recupera la prossima immagine dal documento PDF con il formato immagine dato. Nota: ExtractImage deve essere chiamato prima di utilizzare questo metodo.
+Recupera l'immagine successiva dal documento PDF con il formato immagine specificato. Nota: ExtractImage deve essere chiamato prima dell'uso di questo metodo.
 
 ```csharp
 public bool GetNextImage(string outputFile, ImageFormat format)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| outputFile | String | File dove l'immagine sarà memorizzata |
+| outputFile | String | File in cui l'immagine sarà memorizzata |
 | format | ImageFormat | Il formato dell'immagine. |
 
-### Return Value
+### Valore di ritorno
 
 True se l'immagine è stata estratta con successo
 
-### See Also
+### Vedi anche
 
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -70,22 +70,22 @@ True se l'immagine è stata estratta con successo
 
 ## GetNextImage(Stream, ImageFormat) {#getnextimage_1}
 
-Recupera la prossima immagine dal file PDF e la memorizza nello stream con il formato immagine dato.
+Recupera l'immagine successiva dal file PDF e la memorizza nello stream con il formato immagine specificato.
 
 ```csharp
 public bool GetNextImage(Stream outputStream, ImageFormat format)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| outputStream | Stream | Stream dove i dati dell'immagine saranno salvati |
+| outputStream | Stream | Stream in cui i dati dell'immagine saranno salvati |
 | format | ImageFormat | Il formato dell'immagine. |
 
-### Return Value
+### Valore di ritorno
 
-True nel caso in cui l'immagine sia stata estratta con successo.
+True nel caso l'immagine sia estratta con successo.
 
-### See Also
+### Vedi anche
 
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -95,22 +95,24 @@ True nel caso in cui l'immagine sia stata estratta con successo.
 
 ## GetNextImage(Stream) {#getnextimage}
 
-Recupera la prossima immagine dal file PDF e la memorizza nello stream.
+Recupera l'immagine successiva dal file PDF e la memorizza nello stream.
 
 ```csharp
 public bool GetNextImage(Stream outputStream)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| outputStream | Stream | Stream dove i dati dell'immagine saranno salvati |
+| outputStream | Stream | Stream in cui i dati dell'immagine saranno salvati |
 
-### Return Value
+### Valore di ritorno
 
-True nel caso in cui l'immagine sia stata estratta con successo.
+True nel caso l'immagine sia estratta con successo.
 
-### See Also
+### Vedi anche
 
 * class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

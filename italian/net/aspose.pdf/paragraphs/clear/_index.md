@@ -1,21 +1,23 @@
 ---
-title: Paragraphs.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Paragraphs. Cancella paragrafi
+title: "Paragraphs.Clear"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Paragraphs. Cancella i paragrafi"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf/paragraphs/clear/
 ---
-## Metodo Paragraphs.Clear
+## Paragraphs.Clear method
 
-Cancella paragrafi.
+Cancella i paragrafi.
 
 ```csharp
 public void Clear()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Paragraphs](../)
+* class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del modulo. Ottiene il campo del modulo per nome del campo. Genera un'eccezione se il campo non è stato trovato
+title: "Form.Item"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Form. Ottiene il campo del modulo per nome del campo. Lancia un'eccezione se il campo non è stato trovato."
 type: docs
-weight: 110
+weight: 120
 url: /it/net/aspose.pdf.forms/form/item/
 ---
-## Indicizzatore del modulo (1 di 2)
+## Form indexer (1 of 2)
 
-Ottiene il campo del modulo per nome del campo. Genera un'eccezione se il campo non è stato trovato.
+Ottiene il campo del modulo per nome del campo. Lancia un'eccezione se il campo non è stato trovato.
 
 ```csharp
 public WidgetAnnotation this[string name] { get; }
@@ -16,7 +16,7 @@ public WidgetAnnotation this[string name] { get; }
 
 | Parametro | Descrizione |
 | --- | --- |
-| name | Nome del campo. |
+| nome | Nome del campo. |
 
 ### Valore di ritorno
 
@@ -24,14 +24,14 @@ Campo recuperato.
 
 ### Vedi anche
 
-* classe [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* classe [Form](../)
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Indicizzatore del modulo (2 di 2)
+## Form indexer (2 of 2)
 
 Ottiene il campo del modulo per indice del campo.
 
@@ -49,7 +49,9 @@ Campo recuperato.
 
 ### Vedi anche
 
-* classe [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* classe [Form](../)
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ImagePlacementCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ImagePlacementCollection. Aggiunge l'elemento del frammento di testo all'indice specificato
+title: "ImagePlacementCollection.Add"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ImagePlacementCollection. Aggiunge l'elemento del frammento di testo all'indice specificato"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/imageplacementcollection/add/
 ---
-## Metodo ImagePlacementCollection.Add
+## ImagePlacementCollection.Add method
 
 Aggiunge l'elemento del frammento di testo all'indice specificato.
 
@@ -16,11 +16,13 @@ public void Add(ImagePlacement fragment)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fragment | ImagePlacement | Elemento del frammento di testo da aggiungere. |
+| frammento | ImagePlacement | Elemento del frammento di testo da aggiungere. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImagePlacement](../../imageplacement/)
-* classe [ImagePlacementCollection](../)
+* class [ImagePlacement](../../imageplacement/)
+* class [ImagePlacementCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

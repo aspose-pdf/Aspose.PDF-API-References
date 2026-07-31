@@ -1,12 +1,12 @@
 ---
-title: LlamaSummaryCopilotOptions.SummaryPrompt
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà LlamaSummaryCopilotOptions. Ottiene o imposta il prompt per istruire il modello a fornire un riepilogo del documento
+title: "LlamaSummaryCopilotOptions.SummaryPrompt"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà LlamaSummaryCopilotOptions. Ottiene o imposta il prompt per istruire il modello a fornire un riepilogo del documento"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.ai/llamasummarycopilotoptions/summaryprompt/
 ---
-## Proprietà LlamaSummaryCopilotOptions.SummaryPrompt
+## LlamaSummaryCopilotOptions.SummaryPrompt property
 
 Ottiene o imposta il prompt per istruire il modello a fornire un riepilogo del documento.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il prompt per istruire il modello a fornire un riepilogo del d
 public string SummaryPrompt { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [LlamaSummaryCopilotOptions](../)
+* class [LlamaSummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

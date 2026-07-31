@@ -1,56 +1,56 @@
 ---
-title: FontRepository.OpenFont
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo FontRepository. Apre il font con il flusso di font specificato
+title: "FontRepository.OpenFont"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo FontRepository. Apre il font con lo stream di font specificato"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.text/fontrepository/openfont/
 ---
 ## OpenFont(Stream, FontTypes) {#openfont}
 
-Apre il font con il flusso di font specificato.
+Apre il font con lo stream del font specificato.
 
 ```csharp
 public static Font OpenFont(Stream fontStream, FontTypes fontType)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fontStream | Stream | Flusso di font. |
-| fontType | FontTypes | Valore del tipo di font. |
+| fontStream | Stream | Stream del font. |
+| fontType | FontTypes | Valore del tipo di carattere. |
 
-### Return Value
+### Valore di ritorno
 
-Oggetto Font.
+Oggetto font.
 
-## Examples
+## Esempi
 
-L'esempio dimostra come aprire un font e sostituire il font del testo della prima pagina.
+L'esempio dimostra come aprire il font e sostituire il font del testo della prima pagina.
 
 ```csharp
-// Open font
+// Apri font
 using (FileStream fontStream = File.OpenRead(@"C:\WINDOWS\Fonts\arial.ttf"))
 {
     Font font = FontRepository.OpenFont(fontStream, , FontTypes.TTF);
 
-    // Open document
+    // Apri documento
     Document doc = new Document(@"D:\Tests\input.pdf");
 
-    // Create TextFragmentAbsorber object to find all "hello world" text occurrences
+    // Crea l'oggetto TextFragmentAbsorber per trovare tutte le occorrenze del testo "hello world"
     TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-    // Accept the absorber for first page
+    // Accetta l'assorbitore per la prima pagina
     doc.Pages[1].Accept(absorber);
 
-    // Change font of the first text occurrence
+    // Cambia il font della prima occorrenza di testo
     absorber.TextFragments[1].TextState.Font = font;
 
-    // Save document
+    // Salva documento
     doc.Save(@"D:\Tests\output.pdf"); 
 }
 ```
 
-### See Also
+### Vedi anche
 
 * class [Font](../../font/)
 * enum [FontTypes](../../fonttypes/)
@@ -62,45 +62,45 @@ using (FileStream fontStream = File.OpenRead(@"C:\WINDOWS\Fonts\arial.ttf"))
 
 ## OpenFont(string) {#openfont_1}
 
-Apre il font con il percorso del file di font specificato.
+Apre il font con il percorso del file font specificato.
 
 ```csharp
 public static Font OpenFont(string fontFilePath)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fontFilePath | String | Percorso del file di font. |
+| fontFilePath | String | Percorso del file del font. |
 
-### Return Value
+### Valore di ritorno
 
-Oggetto Font.
+Oggetto font.
 
-## Examples
+## Esempi
 
-L'esempio dimostra come aprire un font e sostituire il font del testo della prima pagina.
+L'esempio dimostra come aprire il font e sostituire il font del testo della prima pagina.
 
 ```csharp
-// Open font
+// Apri font
 Font font = FontRepository.OpenFont(@"C:\WINDOWS\Fonts\arial.ttf");
 
-// Open document
+// Apri documento
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Crea l'oggetto TextFragmentAbsorber per trovare tutte le occorrenze del testo "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Accetta l'assorbitore per la prima pagina
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurrence
+// Cambia il font della prima occorrenza di testo
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// Salva documento
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### See Also
+### Vedi anche
 
 * class [Font](../../font/)
 * class [FontRepository](../)
@@ -111,48 +111,50 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ## OpenFont(string, string) {#openfont_2}
 
-Apre il font con il percorso del file di font specificato e il percorso del file di metriche.
+Apre il font con il percorso del file font specificato e il percorso del file metriche.
 
 ```csharp
 public static Font OpenFont(string fontFilePath, string metricsFilePath)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fontFilePath | String | Percorso del file di font. |
-| metricsFilePath | String | Percorso del file di metriche del font. |
+| fontFilePath | String | Percorso del file del font. |
+| metricsFilePath | String | Percorso del file delle metriche del font. |
 
-### Return Value
+### Valore di ritorno
 
-Oggetto Font.
+Oggetto font.
 
-## Examples
+## Esempi
 
 L'esempio dimostra come aprire un font Type1 con metriche e sostituire il font del testo della prima pagina.
 
 ```csharp
-// Open font
+// Apri font
 Font font = FontRepository.OpenFont("courier.pfb", "courier.afm");
 
-// Open document
+// Apri documento
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Crea l'oggetto TextFragmentAbsorber per trovare tutte le occorrenze del testo "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Accetta l'assorbitore per la prima pagina
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurrence
+// Cambia il font della prima occorrenza di testo
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// Salva documento
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
-### See Also
+### Vedi anche
 
 * class [Font](../../font/)
 * class [FontRepository](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FormRemoveSelectedFieldsOptions.FormRemoveSelectedFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di FormRemoveSelectedFieldsOptions. Inizializza una nuova istanza dell'oggetto FormEditorRemoveOptions
+title: "FormRemoveSelectedFieldsOptions.FormRemoveSelectedFieldsOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore FormRemoveSelectedFieldsOptions. Inizializza una nuova istanza dell'oggetto FormEditorRemoveOptions"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.plugins/formremoveselectedfieldsoptions/formremoveselectedfieldsoptions/
 ---
-## Costruttore di FormRemoveSelectedFieldsOptions
+## FormRemoveSelectedFieldsOptions constructor
 
 Inizializza una nuova istanza dell'oggetto [`FormEditorRemoveOptions`](../../formeditorremoveoptions/).
 
@@ -16,11 +16,13 @@ public FormRemoveSelectedFieldsOptions(SelectField selectField)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| selectField | SelectField | Specifica i campi che verranno appiattiti. |
+| selectField | SelectField | Specifica i campi che saranno appiattiti. |
 
-### Vedi Anche
+### Vedi anche
 
-* delegato [SelectField](../../selectfield/)
-* classe [FormRemoveSelectedFieldsOptions](../)
+* delegate [SelectField](../../selectfield/)
+* class [FormRemoveSelectedFieldsOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PrinterMarksKindExtensions.HasFlagFast
-second_title: Aspose.PDF for .NET API Reference
-description: PrinterMarksKindExtensions metodo. Determina se il valore corrente include una bandiera specificata.
+title: "PrinterMarksKindExtensions.HasFlagFast"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PrinterMarksKindExtensions. Determina se il valore corrente include una flag specificata"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/printermarkskindextensions/hasflagfast/
 ---
-## Metodo PrinterMarksKindExtensions.HasFlagFast
+## PrinterMarksKindExtensions.HasFlagFast method
 
 Determina se il valore corrente include un flag specificato.
 
@@ -17,15 +17,17 @@ public static bool HasFlagFast(this PrinterMarksKind value, PrinterMarksKind fla
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | value | PrinterMarksKind | Il valore corrente dell'enumerazione [`PrinterMarksKind`](../../printermarkskind/). |
-| flag | PrinterMarksKind | Il flag da controllare. |
+| flag | PrinterMarksKind | La flag da verificare. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-`true` se il flag è incluso nel valore corrente; altrimenti, `false`.
+`true` se la flag è inclusa nel valore corrente; altrimenti, `false`.
 
-### Vedi Anche
+### Vedi anche
 
 * enum [PrinterMarksKind](../../printermarkskind/)
 * class [PrinterMarksKindExtensions](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

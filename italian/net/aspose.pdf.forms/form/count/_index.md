@@ -1,12 +1,12 @@
 ---
-title: Form.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Form. Ottiene il numero dei campi in questo modulo
+title: "Form.Count"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Form. Restituisce il numero dei campi in questo modulo"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.forms/form/count/
 ---
-## Proprietà Form.Count
+## Form.Count property
 
 Ottiene il numero dei campi in questo modulo.
 
@@ -14,8 +14,10 @@ Ottiene il numero dei campi in questo modulo.
 public int Count { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

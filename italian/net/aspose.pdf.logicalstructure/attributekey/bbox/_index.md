@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.BBox
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeKey. Attributo BBox Proprietario dell'attributo Layout
+title: "AttributeKey.BBox"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "campo AttributeKey. attributo BBox attributo Layout proprietario"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.logicalstructure/attributekey/bbox/
 ---
-## Campo AttributeKey.BBox
+## AttributeKey.BBox field
 
-Attributo BBox (Proprietario dell'attributo Layout).
+Attributo BBox (proprietario dell'attributo Layout).
 
 ```csharp
 public static readonly AttributeKey BBox;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

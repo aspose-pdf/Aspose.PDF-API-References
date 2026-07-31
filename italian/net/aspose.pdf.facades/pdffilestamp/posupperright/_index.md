@@ -1,12 +1,12 @@
 ---
-title: PdfFileStamp.PosUpperRight
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PdfFileStamp. Posizione in alto a destra
+title: "PdfFileStamp.PosUpperRight"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfFileStamp field. Posizione destra superiore"
 type: docs
 weight: 240
 url: /it/net/aspose.pdf.facades/pdffilestamp/posupperright/
 ---
-## Campo PdfFileStamp.PosUpperRight
+## PdfFileStamp.PosUpperRight field
 
 Posizione in alto a destra.
 
@@ -14,8 +14,10 @@ Posizione in alto a destra.
 public const int PosUpperRight;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

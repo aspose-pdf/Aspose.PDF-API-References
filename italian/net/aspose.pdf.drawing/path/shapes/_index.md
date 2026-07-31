@@ -1,12 +1,12 @@
 ---
-title: Path.Shapes
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Path. Ottiene o imposta la collezione di forme
+title: "Path.Shapes"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Path. Ottiene o imposta la collezione di forme"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.drawing/path/shapes/
 ---
-## Proprietà Path.Shapes
+## Path.Shapes property
 
 Ottiene o imposta la collezione di forme.
 
@@ -14,9 +14,11 @@ Ottiene o imposta la collezione di forme.
 public List<Shape> Shapes { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Shape](../../shape/)
-* classe [Path](../)
+* class [Shape](../../shape/)
+* class [Path](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TextFragmentState.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextFragmentState. Ottiene o imposta la dimensione del carattere del testo rappresentato dall'oggetto TextFragment
+title: "TextFragmentState.FontSize"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextFragmentState. Ottiene o imposta la dimensione del carattere del testo rappresentato dall'oggetto TextFragment"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.text/textfragmentstate/fontsize/
 ---
-## Proprietà TextFragmentState.FontSize
+## TextFragmentState.FontSize property
 
 Ottiene o imposta la dimensione del carattere del testo, rappresentato dall'oggetto [`TextFragment`](../../textfragment/)
 
@@ -14,8 +14,10 @@ Ottiene o imposta la dimensione del carattere del testo, rappresentato dall'ogge
 public override float FontSize { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextFragmentState](../)
+* class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

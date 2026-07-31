@@ -1,12 +1,12 @@
 ---
-title: SetLineWidth.SetLineWidth
-second_title: Aspose.PDF for .NET API Reference
-description: SetLineWidth constructor. Initializes operator with width value
+title: "SetLineWidth.SetLineWidth"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore SetLineWidth. Inizializza l'operatore con il valore della larghezza"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/setlinewidth/setlinewidth/
 ---
-## Costruttore di SetLineWidth
+## SetLineWidth constructor
 
 Inizializza l'operatore con il valore di larghezza.
 
@@ -18,8 +18,10 @@ public SetLineWidth(double width)
 | --- | --- | --- |
 | larghezza | Double | Larghezza della linea. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetLineWidth](../)
+* class [SetLineWidth](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: ImagePlacement.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ImagePlacement. Ottiene l'angolo di rotazione dell'immagine
+title: "ImagePlacement.Rotation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ImagePlacement. Ottiene l'angolo di rotazione dell'Immagine"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf/imageplacement/rotation/
 ---
-## Proprietà ImagePlacement.Rotation
+## ImagePlacement.Rotation property
 
-Ottiene l'angolo di rotazione dell'immagine.
+Ottiene l'angolo di rotazione dell'Immagine.
 
 ```csharp
 public float Rotation { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImagePlacement](../)
+* class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

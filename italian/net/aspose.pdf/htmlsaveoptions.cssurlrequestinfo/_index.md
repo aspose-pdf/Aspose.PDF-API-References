@@ -1,33 +1,35 @@
 ---
-title: Class HtmlSaveOptions.CssUrlRequestInfo
-second_title: Aspose.PDF for .NET API Reference
-description: La classe Aspose.Pdf.HtmlSaveOptionsCssUrlRequestInfo. Rappresenta un insieme di dati relativi alla richiesta dal convertitore a codice personalizzato volto a ottenere l'URL desiderato o il modello di URL del CSS soggetto
+title: "Classe HtmlSaveOptions.CssUrlRequestInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.HtmlSaveOptionsCssUrlRequestInfo classe. Rappresenta un insieme di dati relativi alla richiesta dal convertitore al codice personalizzato finalizzata a ottenere l'URL desiderato o il modello di URL del CSS in questione"
 type: docs
-weight: 5610
+weight: 5740
 url: /it/net/aspose.pdf/htmlsaveoptions.cssurlrequestinfo/
 ---
 ## HtmlSaveOptions.CssUrlRequestInfo class
 
-Rappresenta un insieme di dati relativi alla richiesta dal convertitore a codice personalizzato volto a ottenere l'URL desiderato (o modello di URL) del CSS soggetto
+Rappresenta un insieme di dati relativi alla richiesta dal convertitore al codice personalizzato finalizzata a ottenere l'URL desiderato (o il modello di URL) del CSS in questione
 
 ```csharp
 public class CssUrlRequestInfo
 ```
 
-## Constructors
+## Costruttori
 
-| Name | Description |
+| Nome | Descrizione |
 | --- | --- |
 | [CssUrlRequestInfo](../../aspose.pdf/htmlsaveoptions.cssurlrequestinfo/.ctor)() | Il costruttore predefinito. |
 
-## Fields
+## Campi
 
-| Name | Description |
+| Nome | Descrizione |
 | --- | --- |
-| [CustomProcessingCancelled](../../aspose.pdf/htmlsaveoptions.cssurlrequestinfo/customprocessingcancelled) | Dovrebbe essere impostato dal codice personalizzato se non può o non deve definire l'URL che sarà utilizzato nell'HTML generato per il riferimento di quel CSS. Se è 'true', allora il file CSS sarà salvato in modo standard nel luogo standard. |
+| [CustomProcessingCancelled](../../aspose.pdf/htmlsaveoptions.cssurlrequestinfo/customprocessingcancelled) | Dovrebbe essere impostato dal codice personalizzato se non può o non deve definire l'URL che verrà usato nell'HTML generato per fare riferimento a quel CSS. Se è 'true', il file CSS verrà salvato in modo standard nella posizione standard. |
 
-### See Also
+### Vedi anche
 
 * class [HtmlSaveOptions](../htmlsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

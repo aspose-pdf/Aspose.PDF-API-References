@@ -1,12 +1,12 @@
 ---
-title: SignOptions.Contact
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SignOptions. Il contatto della firma
+title: "SignOptions.Contact"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SignOptions. Il contatto della firma"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.plugins/signoptions/contact/
 ---
-## Proprietà SignOptions.Contact
+## SignOptions.Contact property
 
 Il contatto della firma.
 
@@ -14,8 +14,10 @@ Il contatto della firma.
 public string Contact { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SignOptions](../)
+* class [SignOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

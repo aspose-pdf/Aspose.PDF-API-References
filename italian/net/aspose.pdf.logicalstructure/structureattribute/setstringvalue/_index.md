@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.SetStringValue
-second_title: Aspose.PDF for .NET API Reference
-description: StructureAttribute method. Sets Value String
+title: "StructureAttribute.SetStringValue"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo StructureAttribute. Imposta la stringa del valore"
 type: docs
 weight: 150
 url: /it/net/aspose.pdf.logicalstructure/structureattribute/setstringvalue/
 ---
-## Metodo StructureAttribute.SetStringValue
+## StructureAttribute.SetStringValue method
 
-Imposta il valore della stringa.
+Imposta la stringa del valore.
 
 ```csharp
 public void SetStringValue(string value)
@@ -16,10 +16,12 @@ public void SetStringValue(string value)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| value | String | Valore della stringa. |
+| valore | String | Stringa di valore. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureAttribute](../)
+* class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

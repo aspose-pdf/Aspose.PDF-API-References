@@ -1,14 +1,14 @@
 ---
-title: Class SetColorSpaceStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Operators.SetColorSpaceStroke. Classe che rappresenta l'operatore CS per impostare il colore per le operazioni di tracciamento
+title: "Classe SetColorSpaceStroke"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Operators.SetColorSpaceStroke classe. Classe che rappresenta l'operatore CS per impostare il colore per le operazioni di tracciatura."
 type: docs
-weight: 7670
+weight: 7810
 url: /it/net/aspose.pdf.operators/setcolorspacestroke/
 ---
-## Classe SetColorSpaceStroke
+## SetColorSpaceStroke class
 
-Classe che rappresenta l'operatore CS (imposta il colore per le operazioni di tracciamento).
+Classe che rappresenta l'operatore CS (imposta il colore per operazioni di tracciatura).
 
 ```csharp
 public class SetColorSpaceStroke : Operator
@@ -31,12 +31,14 @@ public class SetColorSpaceStroke : Operator
 
 | Nome | Descrizione |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcolorspacestroke/accept/)(IOperatorSelector) | Accetta l'oggetto visitatore per elaborare l'operatore. |
+| override [Accept](../../aspose.pdf.operators/setcolorspacestroke/accept/)(IOperatorSelector) | Accetta un oggetto visitor per elaborare l'operatore. |
 | override [ToString](../../aspose.pdf/operator/tostring/)() | Restituisce il testo dell'operatore e i suoi parametri. |
-| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto dato. |
+| [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Confronta questa istanza con l'oggetto fornito. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Operator](../../aspose.pdf/operator/)
+* class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

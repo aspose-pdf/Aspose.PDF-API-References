@@ -1,21 +1,23 @@
 ---
-title: Dash.Off
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Dash. Ottiene o imposta la lunghezza del primo intervallo tra i trattini
+title: "Dash.Off"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Dash. Restituisce o imposta la lunghezza del primo spazio tra i trattini"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.annotations/dash/off/
 ---
-## Proprietà Dash.Off
+## Dash.Off property
 
-Ottiene o imposta la lunghezza del primo intervallo tra i trattini.
+Ottiene o imposta la lunghezza del primo spazio tra i trattini.
 
 ```csharp
 public int Off { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Dash](../)
+* class [Dash](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

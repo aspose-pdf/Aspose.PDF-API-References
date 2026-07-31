@@ -1,14 +1,14 @@
 ---
-title: FormEditor.RadioGap
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FormEditor. Il membro per registrare il gap tra due pulsanti radio adiacenti in pixel, il valore predefinito è 50
+title: "FormEditor.RadioGap"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FormEditor. Il membro per registrare lo spazio tra due pulsanti radio adiacenti in pixel; il valore predefinito è 50"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.facades/formeditor/radiogap/
 ---
-## Proprietà FormEditor.RadioGap
+## FormEditor.RadioGap property
 
-Il membro per registrare il gap tra due pulsanti radio adiacenti in pixel, il valore predefinito è 50.
+Il membro per registrare lo spazio tra due pulsanti radio adiacenti in pixel, il valore predefinito è 50.
 
 ```csharp
 public float RadioGap { get; set; }
@@ -25,8 +25,10 @@ formEditor.AddField(FieldType.Radio, "AddedRadioButtonField", "Second", 1, 10, 3
 formEditor.Save();
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: OutputIntents.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà OutputIntents. Ottiene il numero di intenti di output contenuti nella collezione
+title: "OutputIntents.Count"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà OutputIntents. Ottiene il numero di output intent contenuti nella raccolta"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/outputintents/count/
 ---
-## Proprietà OutputIntents.Count
+## OutputIntents.Count property
 
-Ottiene il numero di intenti di output contenuti nella collezione.
+Ottiene il numero di output intent contenuti nella raccolta.
 
 ```csharp
 public int Count { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OutputIntents](../)
+* class [OutputIntents](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

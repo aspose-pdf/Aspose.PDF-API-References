@@ -1,22 +1,24 @@
 ---
-title: ToolCall.Function
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ToolCall. Ottiene o imposta la funzione che il modello ha chiamato
+title: "ToolCall.Function"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ToolCall. Ottiene o imposta la funzione chiamata dal modello"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.ai/toolcall/function/
 ---
-## Proprietà ToolCall.Function
+## ToolCall.Function property
 
-Ottiene o imposta la funzione che il modello ha chiamato.
+Ottiene o imposta la funzione chiamata dal modello.
 
 ```csharp
 public Function Function { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Function](../../function/)
-* classe [ToolCall](../)
+* class [Function](../../function/)
+* class [ToolCall](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

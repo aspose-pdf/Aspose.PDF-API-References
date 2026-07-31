@@ -1,22 +1,24 @@
 ---
-title: SvgLoadOptions.PageInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SvgLoadOptions. Ottiene o imposta le informazioni sulla pagina che devono essere applicate durante il caricamento del documento
+title: "SvgLoadOptions.PageInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SvgLoadOptions. Ottiene o imposta le informazioni della pagina che devono essere applicate durante il caricamento del documento"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/svgloadoptions/pageinfo/
 ---
-## Proprietà SvgLoadOptions.PageInfo
+## SvgLoadOptions.PageInfo property
 
-Ottiene o imposta le informazioni sulla pagina che devono essere applicate durante il caricamento del documento.
+Ottiene o imposta le informazioni della pagina che devono essere applicate durante il caricamento del documento.
 
 ```csharp
 public PageInfo PageInfo { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageInfo](../../pageinfo/)
-* classe [SvgLoadOptions](../)
+* class [PageInfo](../../pageinfo/)
+* class [SvgLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

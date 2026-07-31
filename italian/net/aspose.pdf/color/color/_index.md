@@ -1,12 +1,12 @@
 ---
-title: Color.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore Color. Costruttore predefinito
+title: "Color.Color"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore Color. Costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/color/color/
 ---
-## Costruttore Color
+## Color constructor
 
 Costruttore predefinito.
 
@@ -14,8 +14,10 @@ Costruttore predefinito.
 public Color()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

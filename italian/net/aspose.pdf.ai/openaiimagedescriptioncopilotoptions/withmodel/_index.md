@@ -1,12 +1,12 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithModel
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIImageDescriptionCopilotOptions. Imposta il modello per le opzioni del copilot di descrizione dell'immagine
+title: "OpenAIImageDescriptionCopilotOptions.WithModel"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OpenAIImageDescriptionCopilotOptions metodo. Imposta il modello per le opzioni del copilot di descrizione immagine"
 type: docs
 weight: 150
 url: /it/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withmodel/
 ---
-## Metodo OpenAIImageDescriptionCopilotOptions.WithModel
+## OpenAIImageDescriptionCopilotOptions.WithModel method
 
 Imposta il modello per le opzioni del copilot di descrizione dell'immagine.
 
@@ -16,14 +16,16 @@ public OpenAIImageDescriptionCopilotOptions WithModel(string model)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| model | String | Il modello da impostare. |
+| modello | String | Il modello da impostare. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 L'istanza corrente di [`OpenAIImageDescriptionCopilotOptions`](../).
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OpenAIImageDescriptionCopilotOptions](../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

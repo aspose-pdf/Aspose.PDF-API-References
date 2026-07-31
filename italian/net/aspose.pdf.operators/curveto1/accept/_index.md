@@ -1,12 +1,12 @@
 ---
-title: CurveTo1.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo CurveTo1. Accetta il selettore dell'operatore
+title: "CurveTo1.Accept"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "CurveTo1 metodo. Accetta il selettore dell'operatore"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.operators/curveto1/accept/
 ---
-## Metodo CurveTo1.Accept
+## CurveTo1.Accept method
 
 Accetta il selettore dell'operatore.
 
@@ -16,11 +16,13 @@ public override void Accept(IOperatorSelector visitor)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| visitor | IOperatorSelector | Oggetto visitor |
+| visitatore | IOperatorSelector | Oggetto Visitor |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* classe [CurveTo1](../)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [CurveTo1](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfExtractor. Collega il file PDF di input
+title: "PdfExtractor.BindPdf"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfExtractor method. Associa il file PDF di input"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.facades/pdfextractor/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-Collega il file PDF di input.
+Associa il file PDF di input.
 
 ```csharp
 public override void BindPdf(string inputFile)
@@ -16,7 +16,7 @@ public override void BindPdf(string inputFile)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| inputFile | String | File PDF da collegare |
+| inputFile | String | File PDF da associare |
 
 ## Esempi
 
@@ -25,9 +25,9 @@ PdfExtractor ext = new PdfExtractor();
 ext.BindPdf("sample.pdf");
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -35,7 +35,7 @@ ext.BindPdf("sample.pdf");
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-Collega il documento PDF dallo stream.
+Associa il Document PDF dallo stream.
 
 ```csharp
 public override void BindPdf(Stream inputStream)
@@ -53,8 +53,10 @@ Stream stream = new FileStream("sample.pdf", FileMode.Open, FileAccess.Read);
 ext.BindPdf(stream);
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: LoadOptions.ResourceLoadingResult.ResourceLoadingResult
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di ResourceLoadingResult. Crea un'istanza del risultato di caricamento
+title: "LoadOptions.ResourceLoadingResult.ResourceLoadingResult"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "costruttore ResourceLoadingResult. Crea un'istanza del risultato di caricamento"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/loadoptions.resourceloadingresult/resourceloadingresult/
 ---
-## Costruttore di LoadOptions.ResourceLoadingResult
+## LoadOptions.ResourceLoadingResult constructor
 
-Crea un'istanza del risultato di caricamento
+Crea un'istanza del risultato del caricamento
 
 ```csharp
 public ResourceLoadingResult(byte[] data)
@@ -16,10 +16,12 @@ public ResourceLoadingResult(byte[] data)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| data | Byte[] | il risultato del caricamento personalizzato deve essere sempre fornito, può essere un array di lunghezza zero se non è possibile ottenere alcun risultato |
+| data | Byte[] | Il risultato del caricamento personalizzato deve sempre essere fornito, può essere un array di lunghezza zero se è impossibile ottenere alcun risultato |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ResourceLoadingResult](../)
+* class [ResourceLoadingResult](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

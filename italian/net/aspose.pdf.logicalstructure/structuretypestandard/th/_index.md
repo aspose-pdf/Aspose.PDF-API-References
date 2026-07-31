@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.TH
-second_title: Aspose.PDF for .NET API Reference
-description: Campo StructureTypeStandard. Cella dell'intestazione della tabella Una cella della tabella contenente testo di intestazione che descrive una o più righe o colonne della tabella
+title: "StructureTypeStandard.TH"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "StructureTypeStandard field. Cella di intestazione della tabella Una cella di tabella contenente testo di intestazione che descrive una o più righe o colonne della tabella."
 type: docs
 weight: 420
 url: /it/net/aspose.pdf.logicalstructure/structuretypestandard/th/
 ---
-## Campo StructureTypeStandard.TH
+## StructureTypeStandard.TH field
 
-(Cella dell'intestazione della tabella) Una cella della tabella contenente testo di intestazione che descrive una o più righe o colonne della tabella.
+(Table header cell) Una cella di tabella contenente testo di intestazione che descrive una o più righe o colonne della tabella.
 
 ```csharp
 public static readonly StructureTypeStandard TH;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

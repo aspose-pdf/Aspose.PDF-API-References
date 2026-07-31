@@ -1,12 +1,12 @@
 ---
-title: Page.AddGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Page. Aggiunge grafica alla pagina. Funziona più velocemente rispetto all'aggiunta di elementi uno per uno con il metodo AddOnPage
+title: "Page.AddGraphics"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Page method. Aggiunge grafica alla pagina. Funziona più velocemente rispetto all'aggiunta di elementi uno per uno con il metodo AddOnPage"
 type: docs
 weight: 340
 url: /it/net/aspose.pdf/page/addgraphics/
 ---
-## Metodo Page.AddGraphics
+## Page.AddGraphics method
 
 Aggiunge grafica alla pagina. Funziona più velocemente rispetto all'aggiunta di elementi uno per uno con il metodo [`AddOnPage`](../../../aspose.pdf.vector/graphicelement/addonpage/).
 
@@ -16,13 +16,15 @@ public void AddGraphics(GraphicElementCollection elements, Rectangle rectangle =
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| elements | GraphicElementCollection | Collezione di grafica. |
-| rectangle | Rectangle | Gli elementi verranno aggiunti alla pagina se sono all'interno dell'area del rettangolo. Se il rettangolo è nullo, tutti gli elementi grafici verranno aggiunti |
+| elementi | GraphicElementCollection | Raccolta di grafica. |
+| rettangolo | Rectangle | Gli elementi saranno aggiunti alla pagina se è all'interno dell'area rettangolare. Se il rettangolo è nullo, tutti gli elementi grafici saranno aggiunti |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GraphicElementCollection](../../../aspose.pdf.vector/graphicelementcollection/)
-* classe [Rectangle](../../rectangle/)
-* classe [Page](../)
+* class [GraphicElementCollection](../../../aspose.pdf.vector/graphicelementcollection/)
+* class [Rectangle](../../rectangle/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

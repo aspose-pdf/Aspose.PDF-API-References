@@ -1,21 +1,23 @@
 ---
-title: XYZExplicitDestination.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XYZExplicitDestination. Ottiene la coordinata orizzontale sinistra dell'angolo in alto a sinistra della finestra
+title: "XYZExplicitDestination.Left"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "proprietà XYZExplicitDestination. Restituisce la coordinata orizzontale sinistra dell'angolo in alto a sinistra della finestra"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.annotations/xyzexplicitdestination/left/
 ---
-## Proprietà XYZExplicitDestination.Left
+## XYZExplicitDestination.Left property
 
-Ottiene la coordinata orizzontale sinistra dell'angolo in alto a sinistra della finestra.
+Restituisce la coordinata orizzontale sinistra dell'angolo in alto a sinistra della finestra.
 
 ```csharp
 public double Left { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XYZExplicitDestination](../)
+* class [XYZExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

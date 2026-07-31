@@ -1,12 +1,12 @@
 ---
-title: DocSaveOptions.ImageResolutionY
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà DocSaveOptions. Risoluzione Y delle immagini convertite
+title: "DocSaveOptions.ImageResolutionY"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "DocSaveOptions proprietà. Risoluzione Y delle immagini convertite"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf/docsaveoptions/imageresolutiony/
 ---
-## Proprietà DocSaveOptions.ImageResolutionY
+## DocSaveOptions.ImageResolutionY property
 
 Risoluzione Y delle immagini convertite.
 
@@ -14,8 +14,10 @@ Risoluzione Y delle immagini convertite.
 public int ImageResolutionY { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocSaveOptions](../)
+* class [DocSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

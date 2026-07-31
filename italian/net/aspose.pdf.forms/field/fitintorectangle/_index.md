@@ -1,12 +1,12 @@
 ---
-title: Field.FitIntoRectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Field. Se vero, la dimensione del carattere verrà ridotta per adattare il testo al rettangolo specificato
+title: "Field.FitIntoRectangle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Field. Se vero, la dimensione del carattere sarà ridotta per adattare il testo al rettangolo specificato."
 type: docs
 weight: 240
 url: /it/net/aspose.pdf.forms/field/fitintorectangle/
 ---
-## Proprietà Field.FitIntoRectangle
+## Field.FitIntoRectangle property
 
 Se vero, la dimensione del carattere verrà ridotta per adattare il testo al rettangolo specificato.
 
@@ -14,8 +14,10 @@ Se vero, la dimensione del carattere verrà ridotta per adattare il testo al ret
 public static bool FitIntoRectangle { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Field](../)
+* class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

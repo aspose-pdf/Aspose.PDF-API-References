@@ -1,14 +1,14 @@
 ---
-title: ComHelper.OpenStream
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ComHelper. Inizializza e restituisce una nuova istanza di Document dall'input stream
+title: "ComHelper.OpenStream"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ComHelper. Inizializza e restituisce una nuova istanza di Document dal flusso di input"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/comhelper/openstream/
 ---
 ## OpenStream(Stream) {#openstream}
 
-Inizializza e restituisce una nuova istanza di Document dall'*input* stream.
+Inizializza e restituisce una nuova istanza di Document dal flusso *input*.
 
 ```csharp
 public Document OpenStream(Stream input)
@@ -16,16 +16,16 @@ public Document OpenStream(Stream input)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| input | Stream | Stream con documento pdf. |
+| input | Stream | Flusso con documento pdf. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Oggetto Document
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../document/)
-* classe [ComHelper](../)
+* class [Document](../../document/)
+* class [ComHelper](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -33,7 +33,7 @@ Oggetto Document
 
 ## OpenStream(Stream, string) {#openstream_3}
 
-Inizializza e restituisce una nuova istanza di Document dall'*input* stream.
+Inizializza e restituisce una nuova istanza di Document dal flusso *input*.
 
 ```csharp
 public Document OpenStream(Stream input, string password)
@@ -41,17 +41,17 @@ public Document OpenStream(Stream input, string password)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| input | Stream | Oggetto stream di input, il pdf corrispondente è protetto da password. |
+| input | Stream | Oggetto flusso di input, il pdf corrispondente è protetto da password. |
 | password | String | Password utente o proprietario. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Oggetto Document
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../document/)
-* classe [ComHelper](../)
+* class [Document](../../document/)
+* class [ComHelper](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -59,7 +59,7 @@ Oggetto Document
 
 ## OpenStream(Stream, bool) {#openstream_2}
 
-Inizializza e restituisce una nuova istanza di Document dall'*input* stream.
+Inizializza e restituisce una nuova istanza di Document dal flusso *input*.
 
 ```csharp
 public Document OpenStream(Stream input, bool isManagedStream)
@@ -67,17 +67,17 @@ public Document OpenStream(Stream input, bool isManagedStream)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| input | Stream | Stream con documento pdf. |
-| isManagedStream | Boolean | se impostato su `true` lo stream interno viene chiuso prima dell'uscita; altrimenti, non lo è. |
+| input | Stream | Flusso con documento pdf. |
+| isManagedStream | Boolean | se impostato su `true` il flusso interno viene chiuso prima dell'uscita; altrimenti, non lo è. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Oggetto Document
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../document/)
-* classe [ComHelper](../)
+* class [Document](../../document/)
+* class [ComHelper](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -85,7 +85,7 @@ Oggetto Document
 
 ## OpenStream(Stream, string, bool) {#openstream_4}
 
-Inizializza e restituisce una nuova istanza di Document dall'*input* stream.
+Inizializza e restituisce una nuova istanza di Document dal flusso *input*.
 
 ```csharp
 public Document OpenStream(Stream input, string password, bool isManagedStream)
@@ -93,18 +93,18 @@ public Document OpenStream(Stream input, string password, bool isManagedStream)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| input | Stream | Stream con documento pdf. |
+| input | Stream | Flusso con documento pdf. |
 | password | String | Password utente o proprietario. |
-| isManagedStream | Boolean | se impostato su `true` lo stream interno viene chiuso prima dell'uscita; altrimenti, non lo è. |
+| isManagedStream | Boolean | se impostato su `true` il flusso interno viene chiuso prima dell'uscita; altrimenti, non lo è. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Oggetto Document
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../document/)
-* classe [ComHelper](../)
+* class [Document](../../document/)
+* class [ComHelper](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -112,7 +112,7 @@ Oggetto Document
 
 ## OpenStream(Stream, LoadOptions) {#openstream_1}
 
-Apre e restituisce un documento esistente da uno stream fornendo la necessaria conversione per ottenere un documento pdf.
+Apri e restituisci un documento esistente da un flusso fornendo la conversione necessaria per ottenere un documento pdf.
 
 ```csharp
 public Document OpenStream(Stream input, LoadOptions options)
@@ -120,17 +120,19 @@ public Document OpenStream(Stream input, LoadOptions options)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| input | Stream | Stream di input da convertire in documento pdf. |
-| options | LoadOptions | Rappresenta le proprietà per convertire l'*input* in documento pdf. |
+| input | Stream | Flusso di input da convertire in documento pdf. |
+| options | LoadOptions | Rappresenta le proprietà per convertire *input* in documento pdf. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Oggetto Document
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../document/)
-* classe [LoadOptions](../../loadoptions/)
-* classe [ComHelper](../)
+* class [Document](../../document/)
+* class [LoadOptions](../../loadoptions/)
+* class [ComHelper](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

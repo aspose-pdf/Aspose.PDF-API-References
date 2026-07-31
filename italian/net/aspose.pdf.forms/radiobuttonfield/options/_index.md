@@ -1,22 +1,24 @@
 ---
-title: RadioButtonField.Options
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà RadioButtonField. Ottiene la collezione di opzioni del pulsante di scelta
+title: "RadioButtonField.Options"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà RadioButtonField. Ottiene la collezione di opzioni del pulsante radio."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.forms/radiobuttonfield/options/
 ---
-## Proprietà RadioButtonField.Options
+## RadioButtonField.Options property
 
-Ottiene la collezione di opzioni del pulsante di scelta.
+Ottiene la collezione di opzioni del pulsante radio.
 
 ```csharp
 public override OptionCollection Options { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OptionCollection](../../optioncollection/)
-* classe [RadioButtonField](../)
+* class [OptionCollection](../../optioncollection/)
+* class [RadioButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

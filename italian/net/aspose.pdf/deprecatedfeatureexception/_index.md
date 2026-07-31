@@ -1,14 +1,14 @@
 ---
-title: Class DeprecatedFeatureException
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.DeprecatedFeatureException. L'eccezione che viene sollevata quando una funzionalità è deprecata nella versione pdf attuale
+title: "Classe DeprecatedFeatureException"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.DeprecatedFeatureException class. L'eccezione generata quando una funzionalità è deprecata nella versione corrente del PDF"
 type: docs
-weight: 3500
+weight: 3620
 url: /it/net/aspose.pdf/deprecatedfeatureexception/
 ---
-## Classe DeprecatedFeatureException
+## DeprecatedFeatureException class
 
-L'eccezione che viene sollevata quando una funzionalità è deprecata nella versione pdf attuale.
+L'eccezione che viene sollevata quando una funzionalità è deprecata nella versione pdf corrente.
 
 ```csharp
 public sealed class DeprecatedFeatureException : PdfException
@@ -21,8 +21,10 @@ public sealed class DeprecatedFeatureException : PdfException
 | [DeprecatedFeatureException](deprecatedfeatureexception/#constructor)() | Inizializza una nuova istanza della classe `DeprecatedFeatureException`. |
 | [DeprecatedFeatureException](deprecatedfeatureexception/#constructor_1)(string) | Costruttore. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfException](../pdfexception/)
+* class [PdfException](../pdfexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

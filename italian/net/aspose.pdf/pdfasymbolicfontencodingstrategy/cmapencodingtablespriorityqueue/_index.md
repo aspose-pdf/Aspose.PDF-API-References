@@ -1,12 +1,12 @@
 ---
-title: PdfASymbolicFontEncodingStrategy.CmapEncodingTablesPriorityQueue
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PdfASymbolicFontEncodingStrategy. Specifica la coda delle sottotabelle di codifica da elaborare
+title: "PdfASymbolicFontEncodingStrategy.CmapEncodingTablesPriorityQueue"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfASymbolicFontEncodingStrategy. Specifica la coda di sottotabelle di codifica da elaborare"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/pdfasymbolicfontencodingstrategy/cmapencodingtablespriorityqueue/
 ---
-## Proprietà PdfASymbolicFontEncodingStrategy.CmapEncodingTablesPriorityQueue
+## PdfASymbolicFontEncodingStrategy.CmapEncodingTablesPriorityQueue property
 
 Specifica la coda delle sottotabelle di codifica da elaborare.
 
@@ -14,9 +14,11 @@ Specifica la coda delle sottotabelle di codifica da elaborare.
 public Queue<QueueItem> CmapEncodingTablesPriorityQueue { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [QueueItem](../../pdfasymbolicfontencodingstrategy.queueitem/)
-* classe [PdfASymbolicFontEncodingStrategy](../)
+* class [QueueItem](../../pdfasymbolicfontencodingstrategy.queueitem/)
+* class [PdfASymbolicFontEncodingStrategy](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

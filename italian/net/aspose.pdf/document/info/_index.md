@@ -1,22 +1,24 @@
 ---
-title: Document.Info
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del documento. Ottiene informazioni sul documento
+title: "Document.Info"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà di Document. Ottiene le informazioni del documento."
 type: docs
-weight: 280
+weight: 300
 url: /it/net/aspose.pdf/document/info/
 ---
-## Proprietà Document.Info
+## Document.Info property
 
-Ottiene informazioni sul documento.
+Ottiene le informazioni del documento.
 
 ```csharp
 public DocumentInfo Info { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocumentInfo](../../documentinfo/)
-* classe [Document](../)
+* class [DocumentInfo](../../documentinfo/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

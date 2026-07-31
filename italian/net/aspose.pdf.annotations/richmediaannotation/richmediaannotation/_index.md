@@ -1,12 +1,12 @@
 ---
-title: RichMediaAnnotation.RichMediaAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore RichMediaAnnotation. Inizializza RichMediaAnnotation
+title: "RichMediaAnnotation.RichMediaAnnotation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "RichMediaAnnotation costruttore. Inizializza RichMediaAnnotation"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/richmediaannotation/richmediaannotation/
 ---
-## Costruttore RichMediaAnnotation
+## RichMediaAnnotation constructor
 
 Inizializza RichMediaAnnotation.
 
@@ -16,13 +16,15 @@ public RichMediaAnnotation(Page page, Rectangle rect)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | Pagina in cui viene creato l'oggetto. |
-| rect | Rectangle | Coordinate del rettangolo. |
+| pagina | Page | Page dove viene creato l'oggetto. |
+| rect | Rectangle | Rectangle coordinate. |
 
 ### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [RichMediaAnnotation](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

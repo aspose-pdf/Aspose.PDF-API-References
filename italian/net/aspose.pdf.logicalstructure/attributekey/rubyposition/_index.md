@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.RubyPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeKey. Attributo RubyPosition proprietario dell'attributo Layout
+title: "AttributeKey.RubyPosition"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeKey campo. attributo RubyPosition proprietario dell'attributo Layout"
 type: docs
 weight: 270
 url: /it/net/aspose.pdf.logicalstructure/attributekey/rubyposition/
 ---
-## Campo AttributeKey.RubyPosition
+## AttributeKey.RubyPosition field
 
-Attributo RubyPosition (proprietario dell'attributo Layout).
+Attributo RubyPosition (proprietario dell'attributo del layout).
 
 ```csharp
 public static readonly AttributeKey RubyPosition;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: DocumentDevice.BinarizeBradley
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo DocumentDevice. Esegui la binarizzazione di Bradley per il flusso di input
+title: "DocumentDevice.BinarizeBradley"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "DocumentDevice metodo. Esegui la binarizzazione Bradley per lo stream di input"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.devices/documentdevice/binarizebradley/
 ---
-## Metodo DocumentDevice.BinarizeBradley
+## DocumentDevice.BinarizeBradley method
 
-Esegui la binarizzazione di Bradley per il flusso di input.
+Esegui la binarizzazione Bradley per lo stream di input.
 
 ```csharp
 public void BinarizeBradley(Stream inputImageStream, Stream outputImageStream, double threshold)
@@ -18,10 +18,12 @@ public void BinarizeBradley(Stream inputImageStream, Stream outputImageStream, d
 | --- | --- | --- |
 | inputImageStream | Stream | Il flusso di immagine di input. |
 | outputImageStream | Stream | Il flusso di immagine di output. |
-| threshold | Double | Il valore di soglia tra 0.0 e 1.0. |
+| threshold | Double | Il valore di soglia compreso tra 0,0 e 1,0. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocumentDevice](../)
+* class [DocumentDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

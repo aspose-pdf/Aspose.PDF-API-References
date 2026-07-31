@@ -1,14 +1,14 @@
 ---
-title: PageLabelCollection.RemoveLabel
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PageLabelCollection. Rimuovi etichetta per indice di pagina l'indice di pagina inizia da 0
+title: "PageLabelCollection.RemoveLabel"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PageLabelCollection. Rimuove l'etichetta tramite l'indice della pagina; l'indice della pagina parte da 0"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/pagelabelcollection/removelabel/
 ---
-## Metodo PageLabelCollection.RemoveLabel
+## PageLabelCollection.RemoveLabel method
 
-Rimuovi etichetta per indice di pagina (l'indice di pagina inizia da 0).
+Rimuovi l'etichetta per indice di pagina (l'indice di pagina parte da 0).
 
 ```csharp
 public bool RemoveLabel(int pageIndex)
@@ -16,7 +16,7 @@ public bool RemoveLabel(int pageIndex)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pageIndex | Int32 | Indice della pagina da cui deve essere eliminata l'etichetta. |
+| pageIndex | Int32 | Indice della pagina in cui l'etichetta deve essere eliminata. |
 
 ### Valore di ritorno
 
@@ -24,6 +24,8 @@ true se l'operazione è stata eseguita con successo.
 
 ### Vedi anche
 
-* classe [PageLabelCollection](../)
+* class [PageLabelCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

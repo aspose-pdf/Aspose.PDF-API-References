@@ -1,22 +1,24 @@
 ---
-title: ImagePlacement.Page
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ImagePlacement. Ottiene la pagina contenente l'immagine
+title: "ImagePlacement.Page"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ImagePlacement. Ottiene la pagina che contiene l'immagine"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf/imageplacement/page/
 ---
-## Proprietà ImagePlacement.Page
+## ImagePlacement.Page property
 
-Ottiene la pagina contenente l'immagine.
+Ottiene la pagina che contiene l'immagine.
 
 ```csharp
 public Page Page { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../page/)
-* classe [ImagePlacement](../)
+* class [Page](../../page/)
+* class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

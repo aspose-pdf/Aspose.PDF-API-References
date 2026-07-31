@@ -1,12 +1,12 @@
 ---
-title: Option.Index
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà dell'opzione. Ottiene l'indice dell'opzione
+title: "Option.Index"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Option. Ottiene l'indice dell'opzione"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.forms/option/index/
 ---
-## Proprietà Option.Index
+## Option.Index property
 
 Ottiene l'indice dell'opzione.
 
@@ -14,8 +14,10 @@ Ottiene l'indice dell'opzione.
 public int Index { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Option](../)
+* class [Option](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

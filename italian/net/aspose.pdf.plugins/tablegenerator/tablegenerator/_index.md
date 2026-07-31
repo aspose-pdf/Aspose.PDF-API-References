@@ -1,12 +1,12 @@
 ---
-title: TableGenerator.TableGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di TableGenerator. Il costruttore predefinito
+title: "TableGenerator.TableGenerator"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "TableGenerator constructor. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.plugins/tablegenerator/tablegenerator/
 ---
-## Costruttore di TableGenerator
+## TableGenerator constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public TableGenerator()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TableGenerator](../)
+* class [TableGenerator](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

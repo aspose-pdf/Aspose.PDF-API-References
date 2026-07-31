@@ -1,21 +1,23 @@
 ---
-title: PageLabel.PageLabel
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PageLabel. Costruttore per l'etichetta della pagina
+title: "PageLabel.PageLabel"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "costruttore PageLabel. Costruttore per l'etichetta di pagina"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/pagelabel/pagelabel/
 ---
-## Costruttore di PageLabel
+## PageLabel constructor
 
-Costruttore per l'etichetta della pagina.
+Costruttore per l'etichetta di pagina.
 
 ```csharp
 public PageLabel()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageLabel](../)
+* class [PageLabel](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

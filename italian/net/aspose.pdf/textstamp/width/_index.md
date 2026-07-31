@@ -1,12 +1,12 @@
 ---
-title: TextStamp.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextStamp. Larghezza desiderata del timbro sulla pagina
+title: "TextStamp.Width"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextStamp. Larghezza desiderata del timbro nella pagina"
 type: docs
 weight: 160
 url: /it/net/aspose.pdf/textstamp/width/
 ---
-## Proprietà TextStamp.Width
+## TextStamp.Width property
 
 Larghezza desiderata del timbro sulla pagina.
 
@@ -14,8 +14,10 @@ Larghezza desiderata del timbro sulla pagina.
 public override double Width { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextStamp](../)
+* class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

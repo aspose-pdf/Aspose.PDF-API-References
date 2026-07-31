@@ -1,21 +1,23 @@
 ---
-title: ResponseFormat.ObjectType.ResponseType
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ObjectType. Ottiene o imposta il tipo del valore dell'oggetto
+title: "ResponseFormat.ObjectType.ResponseType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "ObjectType property. Ottiene o imposta il tipo del valore dell'oggetto"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.ai/responseformat.objecttype/responsetype/
 ---
-## Proprietà ResponseFormat.ObjectType.ResponseType
+## ResponseFormat.ObjectType.ResponseType property
 
-Ottiene o imposta il tipo del valore dell'oggetto.
+Ottiene o imposta il tipo del valore oggetto.
 
 ```csharp
 public string ResponseType { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ObjectType](../)
+* class [ObjectType](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

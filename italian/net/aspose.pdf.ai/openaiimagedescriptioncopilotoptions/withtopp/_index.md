@@ -1,12 +1,12 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithTopP
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIImageDescriptionCopilotOptions. Imposta il valore top P per le opzioni del copilot di descrizione dell'immagine
+title: "OpenAIImageDescriptionCopilotOptions.WithTopP"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OpenAIImageDescriptionCopilotOptions metodo. Imposta il valore top P per le opzioni del copilota di descrizione dell'immagine"
 type: docs
 weight: 170
 url: /it/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withtopp/
 ---
-## Metodo OpenAIImageDescriptionCopilotOptions.WithTopP
+## OpenAIImageDescriptionCopilotOptions.WithTopP method
 
 Imposta il valore top P per le opzioni del copilot di descrizione dell'immagine.
 
@@ -24,6 +24,8 @@ L'istanza corrente di [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### Vedi anche
 
-* classe [OpenAIImageDescriptionCopilotOptions](../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

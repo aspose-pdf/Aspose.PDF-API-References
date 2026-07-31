@@ -1,21 +1,23 @@
 ---
-title: PdfSaveOptions.TempPath
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PdfSaveOptions. Percorso per file temporanei
+title: "PdfSaveOptions.TempPath"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfSaveOptions. Percorso per i file temporanei"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/pdfsaveoptions/temppath/
 ---
-## Proprietà PdfSaveOptions.TempPath
+## PdfSaveOptions.TempPath property
 
-Percorso per file temporanei.
+Percorso per i file temporanei.
 
 ```csharp
 public string TempPath { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfSaveOptions](../)
+* class [PdfSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

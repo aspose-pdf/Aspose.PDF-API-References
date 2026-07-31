@@ -1,14 +1,14 @@
 ---
-title: Class Position
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Text.Position. Rappresenta un oggetto posizione
+title: "Classe Position"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Text.Position. Rappresenta un oggetto posizione"
 type: docs
-weight: 10690
+weight: 10870
 url: /it/net/aspose.pdf.text/position/
 ---
-## Classe Posizione
+## Position class
 
-Rappresenta un oggetto posizione
+Rappresenta un oggetto di posizione
 
 ```csharp
 public sealed class Position
@@ -32,9 +32,11 @@ public sealed class Position
 | Nome | Descrizione |
 | --- | --- |
 | override [Equals](../../aspose.pdf.text/position/equals/)(object) | Determina se l'oggetto specificato è uguale all'oggetto `Position` corrente. |
-| override [ToString](../../aspose.pdf.text/position/tostring/)() | Ottiene la rappresentazione stringa per l'oggetto `Position` corrente. |
+| override [ToString](../../aspose.pdf.text/position/tostring/)() | Restituisce la rappresentazione stringa per l'oggetto `Position` corrente. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

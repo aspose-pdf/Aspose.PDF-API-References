@@ -1,12 +1,12 @@
 ---
-title: Class FdfReader
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.FdfReader. Classe che esegue la lettura del formato FDF
+title: "Classe FdfReader"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Annotations.FdfReader classe. Classe che esegue la lettura del formato FDF"
 type: docs
-weight: 1700
+weight: 1790
 url: /it/net/aspose.pdf.annotations/fdfreader/
 ---
-## Classe FdfReader
+## FdfReader class
 
 Classe che esegue la lettura del formato FDF.
 
@@ -18,7 +18,7 @@ public sealed class FdfReader
 
 | Nome | Descrizione |
 | --- | --- |
-| static [ReadAnnotations](../../aspose.pdf.annotations/fdfreader/readannotations/)(Stream, Document) | Importa annotazioni da un file FDF e le inserisce nel documento. |
+| static [ReadAnnotations](../../aspose.pdf.annotations/fdfreader/readannotations/)(Stream, Document) | Importa le annotazioni dal file FDF e inseriscile nel documento. |
 
 ## Esempi
 
@@ -30,7 +30,9 @@ fdfStream.Close();
 doc.Save("example_out.pdf");
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

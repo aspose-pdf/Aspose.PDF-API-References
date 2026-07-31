@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.BorderWidthThick
-second_title: Aspose.PDF for .NET API Reference
-description: Campo FormFieldFacade. Definisce una larghezza del bordo spesso
+title: "FormFieldFacade.BorderWidthThick"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormFieldFacade field. Definisce una larghezza del bordo spessa"
 type: docs
 weight: 360
 url: /it/net/aspose.pdf.facades/formfieldfacade/borderwidththick/
 ---
-## Campo FormFieldFacade.BorderWidthThick
+## FormFieldFacade.BorderWidthThick field
 
-Definisce una larghezza del bordo spesso.
+Definisce una larghezza di bordo spessa.
 
 ```csharp
 public const float BorderWidthThick;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

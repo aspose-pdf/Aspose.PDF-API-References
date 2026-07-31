@@ -1,12 +1,12 @@
 ---
-title: RunStepResponse.ThreadId
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà RunStepResponse. Ottiene o imposta l'ID del thread che è stato eseguito
+title: "RunStepResponse.ThreadId"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "RunStepResponse proprietà. Ottiene o imposta l'ID del thread che è stato eseguito."
 type: docs
 weight: 160
 url: /it/net/aspose.pdf.ai/runstepresponse/threadid/
 ---
-## Proprietà RunStepResponse.ThreadId
+## RunStepResponse.ThreadId property
 
 Ottiene o imposta l'ID del thread che è stato eseguito.
 
@@ -14,8 +14,10 @@ Ottiene o imposta l'ID del thread che è stato eseguito.
 public string ThreadId { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RunStepResponse](../)
+* class [RunStepResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

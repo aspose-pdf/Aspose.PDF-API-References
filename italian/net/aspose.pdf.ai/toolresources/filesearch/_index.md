@@ -1,22 +1,24 @@
 ---
-title: ToolResources.FileSearch
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ToolResources. Ottiene o imposta le risorse dello strumento di ricerca file
+title: "ToolResources.FileSearch"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ToolResources. Ottiene o imposta le risorse dello strumento di ricerca file"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.ai/toolresources/filesearch/
 ---
-## Proprietà ToolResources.FileSearch
+## ToolResources.FileSearch property
 
-Ottiene o imposta le risorse dello strumento di ricerca file.
+Ottiene o imposta le risorse dello strumento file_search.
 
 ```csharp
 public FileSearch FileSearch { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FileSearch](../../filesearch/)
-* classe [ToolResources](../)
+* class [FileSearch](../../filesearch/)
+* class [ToolResources](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

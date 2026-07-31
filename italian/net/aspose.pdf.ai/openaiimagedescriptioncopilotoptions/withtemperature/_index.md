@@ -1,12 +1,12 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithTemperature
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIImageDescriptionCopilotOptions. Imposta la temperatura per le opzioni del copilot di descrizione dell'immagine
+title: "OpenAIImageDescriptionCopilotOptions.WithTemperature"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OpenAIImageDescriptionCopilotOptions method. Imposta la temperatura per le opzioni del copilot di descrizione dell'immagine"
 type: docs
 weight: 160
 url: /it/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withtemperature/
 ---
-## Metodo OpenAIImageDescriptionCopilotOptions.WithTemperature
+## OpenAIImageDescriptionCopilotOptions.WithTemperature method
 
 Imposta la temperatura per le opzioni del copilot di descrizione dell'immagine.
 
@@ -24,6 +24,8 @@ L'istanza corrente di [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### Vedi anche
 
-* classe [OpenAIImageDescriptionCopilotOptions](../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

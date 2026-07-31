@@ -1,21 +1,23 @@
 ---
-title: OutlineCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OutlineCollection. Pulisce tutti gli elementi dalla collezione
+title: "OutlineCollection.Clear"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OutlineCollection. Cancella tutti gli elementi dalla collezione"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf/outlinecollection/clear/
 ---
-## Metodo OutlineCollection.Clear
+## OutlineCollection.Clear method
 
-Pulisce tutti gli elementi dalla collezione.
+Cancella tutti gli elementi dalla raccolta.
 
 ```csharp
 public override void Clear()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OutlineCollection](../)
+* class [OutlineCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

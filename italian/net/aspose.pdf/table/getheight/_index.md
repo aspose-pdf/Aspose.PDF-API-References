@@ -1,14 +1,14 @@
 ---
-title: Table.GetHeight
-second_title: Aspose.PDF for .NET API Reference
-description: Table method. Get height
+title: "Table.GetHeight"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Table. Ottieni altezza"
 type: docs
 weight: 230
 url: /it/net/aspose.pdf/table/getheight/
 ---
-## Metodo Table.GetHeight
+## Table.GetHeight method
 
-Ottieni altezza.
+Ottieni l'altezza.
 
 ```csharp
 public double GetHeight(Page parentPage = null)
@@ -18,13 +18,15 @@ public double GetHeight(Page parentPage = null)
 | --- | --- | --- |
 | parentPage | Page | La pagina padre della tabella (opzionale). |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 L'altezza della tabella.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../page/)
-* classe [Table](../)
+* class [Page](../../page/)
+* class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

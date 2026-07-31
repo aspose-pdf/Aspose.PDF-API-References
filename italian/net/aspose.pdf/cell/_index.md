@@ -1,12 +1,12 @@
 ---
-title: Class Cell
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Cell classe. Rappresenta una cella della riga del tavolo.
+title: "Classe Cell"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Cell. Rappresenta una cella della riga della tabella"
 type: docs
-weight: 2970
+weight: 3080
 url: /it/net/aspose.pdf/cell/
 ---
-## Classe Cell
+## Cell class
 
 Rappresenta una cella della riga della tabella.
 
@@ -31,9 +31,9 @@ public sealed class Cell : ICloneable
 | [Border](../../aspose.pdf/cell/border/) { get; set; } | Ottiene o imposta il bordo. |
 | [ColSpan](../../aspose.pdf/cell/colspan/) { get; set; } | Ottiene o imposta l'estensione della colonna. |
 | [DefaultCellTextState](../../aspose.pdf/cell/defaultcelltextstate/) { get; set; } | Ottiene o imposta lo stato di testo predefinito della cella. |
-| [IsNoBorder](../../aspose.pdf/cell/isnoborder/) { get; set; } | Ottiene o imposta se la cella ha un bordo. |
-| [IsOverrideByFragment](../../aspose.pdf/cell/isoverridebyfragment/) { get; set; } | Imposta se la proprietà TextState della cella è sovrascritta dalla proprietà TextState di TextFragment. |
-| [IsWordWrapped](../../aspose.pdf/cell/iswordwrapped/) { get; set; } | Ottiene o imposta se il testo della cella è a capo. |
+| [IsNoBorder](../../aspose.pdf/cell/isnoborder/) { get; set; } | Ottiene o imposta se la cella ha il bordo. |
+| [IsOverrideByFragment](../../aspose.pdf/cell/isoverridebyfragment/) { get; set; } | Imposta la proprietà TextState della cella, che è sovrascritta dalla proprietà TextState di TextFragment. |
+| [IsWordWrapped](../../aspose.pdf/cell/iswordwrapped/) { get; set; } | Ottiene o imposta il testo della cella con interruzione di riga. |
 | [Margin](../../aspose.pdf/cell/margin/) { get; set; } | Ottiene o imposta il padding. |
 | [Paragraphs](../../aspose.pdf/cell/paragraphs/) { get; set; } | Ottiene o imposta il testo formattato della cella. |
 | [RowSpan](../../aspose.pdf/cell/rowspan/) { get; set; } | Ottiene o imposta l'estensione della riga. |
@@ -46,7 +46,9 @@ public sealed class Cell : ICloneable
 | --- | --- |
 | [Clone](../../aspose.pdf/cell/clone/)() | Clona la cella. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

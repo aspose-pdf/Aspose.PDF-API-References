@@ -1,12 +1,12 @@
 ---
-title: XmpValue.ToStringValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo XmpValue. Converte in stringa
+title: "XmpValue.ToStringValue"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo XmpValue. Converte in stringa"
 type: docs
 weight: 220
 url: /it/net/aspose.pdf/xmpvalue/tostringvalue/
 ---
-## Metodo XmpValue.ToStringValue
+## XmpValue.ToStringValue method
 
 Converte in stringa.
 
@@ -14,12 +14,14 @@ Converte in stringa.
 public string ToStringValue()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Valore stringa.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpValue](../)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

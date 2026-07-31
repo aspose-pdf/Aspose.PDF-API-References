@@ -1,21 +1,23 @@
 ---
-title: DictionaryEditor.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà DictionaryEditor. Collezione di chiavi modificabili
+title: "DictionaryEditor.Keys"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà DictionaryEditor. Collezione di chiavi modificabili"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.dataeditor/dictionaryeditor/keys/
 ---
-## Proprietà DictionaryEditor.Keys
+## DictionaryEditor.Keys property
 
-Collezione di chiavi modificabili.
+Raccolta di chiavi modificabili.
 
 ```csharp
 public ICollection<string> Keys { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DictionaryEditor](../)
+* class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

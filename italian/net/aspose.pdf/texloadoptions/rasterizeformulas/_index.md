@@ -1,21 +1,23 @@
 ---
-title: TeXLoadOptions.RasterizeFormulas
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TeXLoadOptions. Ottiene/imposta un flag che consente di rasterizzare le formule matematiche
+title: "TeXLoadOptions.RasterizeFormulas"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TeXLoadOptions. Ottiene/imposta un flag che consente di rasterizzare le formule matematiche"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf/texloadoptions/rasterizeformulas/
 ---
-## Proprietà TeXLoadOptions.RasterizeFormulas
+## TeXLoadOptions.RasterizeFormulas property
 
-Ottiene/imposta un flag che consente di rasterizzare le formule matematiche.
+Ottiene/Imposta un flag che consente di rasterizzare le formule matematiche.
 
 ```csharp
 public bool RasterizeFormulas { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TeXLoadOptions](../)
+* class [TeXLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

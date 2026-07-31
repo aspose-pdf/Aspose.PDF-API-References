@@ -1,12 +1,12 @@
 ---
-title: Enum TeXLoadResult
-second_title: Aspose.PDF for .NET API Reference
-description: Enum TeXLoadResult di Aspose.Pdf. Risultati per il caricamento e la compilazione di TeX
+title: "Enum TeXLoadResult"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.TeXLoadResult enum. Risultati per il caricamento e la compilazione di TeX"
 type: docs
-weight: 10380
+weight: 10560
 url: /it/net/aspose.pdf/texloadresult/
 ---
-## Enumerazione TeXLoadResult
+## TeXLoadResult enumeration
 
 Risultati per il caricamento e la compilazione di TeX.
 
@@ -25,7 +25,9 @@ public enum TeXLoadResult
 | FatalErrorStop | `4` | Errori fatali presenti durante il caricamento e la compilazione. |
 | InvalidResult | `5` | Risultato non valido del caricamento e della compilazione. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

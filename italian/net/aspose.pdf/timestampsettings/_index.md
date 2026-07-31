@@ -1,14 +1,14 @@
 ---
-title: Class TimestampSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.TimestampSettings class. Represents the ocsp settings using during signing process
+title: "Classe TimestampSettings"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.TimestampSettings. Rappresenta le impostazioni ocsp utilizzate durante il processo di firma"
 type: docs
-weight: 11100
+weight: 11290
 url: /it/net/aspose.pdf/timestampsettings/
 ---
-## Classe TimestampSettings
+## TimestampSettings class
 
-Rappresenta le impostazioni ocsp utilizzate durante il processo di firma.
+Rappresenta le impostazioni OCSP utilizzate durante il processo di firma.
 
 ```csharp
 public class TimestampSettings
@@ -26,9 +26,11 @@ public class TimestampSettings
 | --- | --- |
 | [BasicAuthCredentials](../../aspose.pdf/timestampsettings/basicauthcredentials/) { get; set; } | Ottiene/imposta le credenziali di autenticazione di base, Nome utente e password sono combinati in una stringa "username:password". |
 | [DigestHashAlgorithm](../../aspose.pdf/timestampsettings/digesthashalgorithm/) { get; set; } | Ottiene/imposta l'algoritmo di digest per le funzioni hash interne. |
-| [ServerUrl](../../aspose.pdf/timestampsettings/serverurl/) { get; set; } | Ottiene/imposta l'url del server di timestamp. |
+| [ServerUrl](../../aspose.pdf/timestampsettings/serverurl/) { get; set; } | Ottiene/imposta l'URL del server timestamp. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Metadata.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà dei metadati. Ottiene l'oggetto di sincronizzazione della collezione
+title: "Metadata.SyncRoot"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Metadata. Ottiene l'oggetto di sincronizzazione della collezione"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf/metadata/syncroot/
 ---
-## Proprietà Metadata.SyncRoot
+## Metadata.SyncRoot property
 
 Ottiene l'oggetto di sincronizzazione della collezione.
 
@@ -14,8 +14,10 @@ Ottiene l'oggetto di sincronizzazione della collezione.
 public object SyncRoot { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Metadata](../)
+* class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

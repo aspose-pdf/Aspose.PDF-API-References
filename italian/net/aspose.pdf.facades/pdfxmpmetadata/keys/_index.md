@@ -1,12 +1,12 @@
 ---
-title: PdfXmpMetadata.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PdfXmpMetadata. Ottiene le chiavi dal dizionario
+title: "PdfXmpMetadata.Keys"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfXmpMetadata. Ottiene le chiavi dal dizionario"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.facades/pdfxmpmetadata/keys/
 ---
-## Proprietà PdfXmpMetadata.Keys
+## PdfXmpMetadata.Keys property
 
 Ottiene le chiavi dal dizionario.
 
@@ -14,8 +14,10 @@ Ottiene le chiavi dal dizionario.
 public ICollection<string> Keys { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfXmpMetadata](../)
+* class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

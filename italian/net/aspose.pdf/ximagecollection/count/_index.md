@@ -1,21 +1,23 @@
 ---
-title: XImageCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XImageCollection. Conteggio delle immagini nella collezione
+title: "XImageCollection.Count"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà XImageCollection. Conteggio delle immagini nella collezione"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/ximagecollection/count/
 ---
-## Proprietà XImageCollection.Count
+## XImageCollection.Count property
 
-Conteggio delle immagini nella collezione.
+Conteggio delle immagini nella raccolta.
 
 ```csharp
 public int Count { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XImageCollection](../)
+* class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

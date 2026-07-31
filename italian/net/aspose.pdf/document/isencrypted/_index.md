@@ -1,21 +1,23 @@
 ---
-title: Document.IsEncrypted
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del documento. Ottiene lo stato di crittografia del documento. Vero se il documento è crittografato
+title: "Document.IsEncrypted"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà di Document. Ottiene lo stato di crittografia del documento. True se il documento è crittografato."
 type: docs
-weight: 290
+weight: 310
 url: /it/net/aspose.pdf/document/isencrypted/
 ---
-## Proprietà Document.IsEncrypted
+## Document.IsEncrypted property
 
-Ottiene lo stato di crittografia del documento. Vero se il documento è crittografato.
+Ottiene lo stato di crittografia del documento. True se il documento è crittografato.
 
 ```csharp
 public bool IsEncrypted { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

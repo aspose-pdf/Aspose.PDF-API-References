@@ -1,7 +1,7 @@
 ---
-title: BoundsCheckableList1.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo BoundsCheckableList. Rimuove tutti gli elementi dalla System.Collections.Generic.List
+title: "BoundsCheckableList1.Clear"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo BoundsCheckableList. Rimuove tutti gli elementi dalla System.Collections.Generic.List"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.generator/boundscheckablelist-1/clear/
@@ -14,8 +14,10 @@ Rimuove tutti gli elementi dalla System.Collections.Generic.List.
 public void Clear()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BoundsCheckableList&lt;T&gt;](../)
+* class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../../)
+
+

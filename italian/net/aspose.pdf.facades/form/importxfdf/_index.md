@@ -1,14 +1,14 @@
 ---
-title: Form.ImportXfdf
-second_title: Aspose.PDF for .NET API Reference
-description: Form method. Imports the content of the fields from the xfdfxml file and put them into the new pdf
+title: "Form.ImportXfdf"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Form. Importa il contenuto dei campi dal file xfdfxml e lo inserisce nel nuovo PDF"
 type: docs
 weight: 300
 url: /it/net/aspose.pdf.facades/form/importxfdf/
 ---
-## Metodo Form.ImportXfdf
+## Form.ImportXfdf method
 
-Importa il contenuto dei campi dal file xfdf(xml) e li inserisce nel nuovo pdf.
+Importa il contenuto dei campi dal file xfdf(xml) e lo inserisce nel nuovo pdf.
 
 ```csharp
 public void ImportXfdf(Stream inputXfdfStream)
@@ -28,8 +28,10 @@ fs.Close();
 form.Save();
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

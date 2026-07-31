@@ -1,22 +1,24 @@
 ---
-title: CommonFigureAnnotation.InteriorColor
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà CommonFigureAnnotation. Colore di riempimento con cui riempire il rettangolo o l'ellisse delle annotazioni
+title: "CommonFigureAnnotation.InteriorColor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà CommonFigureAnnotation. Interior Color con cui riempire il Rectangle o l'ellipse dell'annotation."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.annotations/commonfigureannotation/interiorcolor/
 ---
-## Proprietà CommonFigureAnnotation.InteriorColor
+## CommonFigureAnnotation.InteriorColor property
 
-Colore di riempimento con cui riempire il rettangolo o l'ellisse dell'annotazione.
+Colore interno con cui riempire il rettangolo o l'ellisse dell'annotazione.
 
 ```csharp
 public Color InteriorColor { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../../../aspose.pdf/color/)
-* classe [CommonFigureAnnotation](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [CommonFigureAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

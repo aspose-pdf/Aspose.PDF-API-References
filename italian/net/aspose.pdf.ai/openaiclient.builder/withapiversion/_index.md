@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.Builder.WithApiVersion
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo costruttore. Imposta la versione API per il client.
+title: "OpenAIClient.Builder.WithApiVersion"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Builder. Imposta la versione API per il client"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.ai/openaiclient.builder/withapiversion/
 ---
-## Metodo OpenAIClient.Builder.WithApiVersion
+## OpenAIClient.Builder.WithApiVersion method
 
 Imposta la versione API per il client.
 
@@ -24,6 +24,8 @@ L'istanza corrente di [`Builder`](../).
 
 ### Vedi anche
 
-* classe [Builder](../)
+* class [Builder](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

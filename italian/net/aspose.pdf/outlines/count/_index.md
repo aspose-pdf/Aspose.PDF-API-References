@@ -1,12 +1,12 @@
 ---
-title: Outlines.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Determina il conteggio della proprietà.
+title: "Outlines.Count"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Outlines proprietà. Ottiene il conteggio"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/outlines/count/
 ---
-## Proprietà Outlines.Count
+## Outlines.Count property
 
 Ottiene il conteggio.
 
@@ -14,8 +14,10 @@ Ottiene il conteggio.
 public abstract int Count { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Outlines](../)
+* class [Outlines](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

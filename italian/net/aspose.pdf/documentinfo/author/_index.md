@@ -1,12 +1,12 @@
 ---
-title: DocumentInfo.Author
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà DocumentInfo. Ottiene o imposta l'autore del documento
+title: "DocumentInfo.Author"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà DocumentInfo. Ottiene o imposta l'autore del documento"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/documentinfo/author/
 ---
-## Proprietà DocumentInfo.Author
+## DocumentInfo.Author property
 
 Ottiene o imposta l'autore del documento.
 
@@ -14,8 +14,10 @@ Ottiene o imposta l'autore del documento.
 public string Author { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocumentInfo](../)
+* class [DocumentInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

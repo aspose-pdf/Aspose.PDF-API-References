@@ -1,22 +1,24 @@
 ---
-title: DictionaryEditor.Values
-second_title: Aspose.PDF for .NET API Reference
-description: DictionaryEditor property. Gets an ICollection containing the values in the DictionaryEditor
+title: "DictionaryEditor.Values"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà DictionaryEditor. Restituisce un ICollection contenente i valori nel DictionaryEditor"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.dataeditor/dictionaryeditor/values/
 ---
-## Proprietà DictionaryEditor.Values
+## DictionaryEditor.Values property
 
-Ottiene un ICollection contenente i valori nel [`DictionaryEditor`](../).
+Restituisce un ICollection contenente i valori nel [`DictionaryEditor`](../).
 
 ```csharp
 public ICollection<ICosPdfPrimitive> Values { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [ICosPdfPrimitive](../../icospdfprimitive/)
-* classe [DictionaryEditor](../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: ImageCompressionOptions.Encoding
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ImageCompressionOptions. Ottiene o imposta la codifica utilizzata per memorizzare le immagini
+title: "ImageCompressionOptions.Encoding"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ImageCompressionOptions. Ottiene o imposta la codifica usata per memorizzare le immagini"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.optimization/imagecompressionoptions/encoding/
 ---
-## Proprietà ImageCompressionOptions.Encoding
+## ImageCompressionOptions.Encoding property
 
-Ottiene o imposta la codifica utilizzata per memorizzare le immagini.
+Ottiene o imposta la codifica usata per memorizzare le immagini.
 
 ```csharp
 public ImageEncoding Encoding { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [ImageEncoding](../../imageencoding/)
 * class [ImageCompressionOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

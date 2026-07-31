@@ -1,26 +1,28 @@
 ---
-title: ArtifactCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ArtifactCollection. Ottiene l'enumeratore per la collezione
+title: "ArtifactCollection.GetEnumerator"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ArtifactCollection. Restituisce l'enumeratore per la raccolta"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf/artifactcollection/getenumerator/
 ---
-## Metodo ArtifactCollection.GetEnumerator
+## ArtifactCollection.GetEnumerator method
 
-Ottiene l'enumeratore per la collezione.
+Ottiene l'enumeratore per la raccolta.
 
 ```csharp
 public IEnumerator<Artifact> GetEnumerator()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Oggetto enumeratore.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Artifact](../../artifact/)
-* classe [ArtifactCollection](../)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

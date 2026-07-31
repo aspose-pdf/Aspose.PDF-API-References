@@ -1,14 +1,14 @@
 ---
-title: Document.MergeDocuments
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Document. Unisce documenti
+title: "Document.MergeDocuments"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Document method. Unisce i documenti"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/document/mergedocuments/
 ---
 ## MergeDocuments(MergeOptions, params string[]) {#mergedocuments_2}
 
-Unisce documenti.
+Unisce i documenti.
 
 ```csharp
 public static Document MergeDocuments(MergeOptions mergeOptions, params string[] files)
@@ -17,7 +17,7 @@ public static Document MergeDocuments(MergeOptions mergeOptions, params string[]
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | mergeOptions | MergeOptions | Le opzioni di unione. |
-| files | String[] | I file pdf da unire. |
+| file | String[] | I file PDF da unire. |
 
 ### Valore di ritorno
 
@@ -25,8 +25,8 @@ Il documento unito.
 
 ### Vedi anche
 
-* classe [MergeOptions](../../document.mergeoptions/)
-* classe [Document](../)
+* class [MergeOptions](../../document.mergeoptions/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -34,7 +34,7 @@ Il documento unito.
 
 ## MergeDocuments(MergeOptions, params Document[]) {#mergedocuments_1}
 
-Unisce documenti.
+Unisce i documenti.
 
 ```csharp
 public static Document MergeDocuments(MergeOptions mergeOptions, params Document[] files)
@@ -43,7 +43,7 @@ public static Document MergeDocuments(MergeOptions mergeOptions, params Document
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | mergeOptions | MergeOptions |  |
-| files | Document[] | I documenti da unire. |
+| file | Document[] | I documenti da unire. |
 
 ### Valore di ritorno
 
@@ -51,8 +51,8 @@ Il documento unito.
 
 ### Vedi anche
 
-* classe [MergeOptions](../../document.mergeoptions/)
-* classe [Document](../)
+* class [MergeOptions](../../document.mergeoptions/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -60,7 +60,7 @@ Il documento unito.
 
 ## MergeDocuments(params string[]) {#mergedocuments_3}
 
-Unisce file pdf.
+Unisce i file pdf.
 
 ```csharp
 public static Document MergeDocuments(params string[] files)
@@ -68,7 +68,7 @@ public static Document MergeDocuments(params string[] files)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| files | String[] | I file pdf da unire. |
+| file | String[] | I file PDF da unire. |
 
 ### Valore di ritorno
 
@@ -76,7 +76,7 @@ Il documento unito.
 
 ### Vedi anche
 
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -84,7 +84,7 @@ Il documento unito.
 
 ## MergeDocuments(params Document[]) {#mergedocuments}
 
-Unisce documenti.
+Unisce i documenti.
 
 ```csharp
 public static Document MergeDocuments(params Document[] documents)
@@ -92,7 +92,7 @@ public static Document MergeDocuments(params Document[] documents)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| documents | Document[] | I documenti da unire. |
+| documenti | Document[] | I documenti da unire. |
 
 ### Valore di ritorno
 
@@ -100,6 +100,8 @@ Il documento unito.
 
 ### Vedi anche
 
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class ThreadMessageModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.ThreadMessageModifyRequest class. Represents a request to modify a message within a thread
+title: "Classe ThreadMessageModifyRequest"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.AI.ThreadMessageModifyRequest. Rappresenta una richiesta di modifica di un messaggio all'interno di un thread."
 type: docs
-weight: 1150
+weight: 1240
 url: /it/net/aspose.pdf.ai/threadmessagemodifyrequest/
 ---
-## Classe ThreadMessageModifyRequest
+## ThreadMessageModifyRequest class
 
 Rappresenta una richiesta per modificare un messaggio all'interno di un thread.
 
@@ -24,9 +24,11 @@ public class ThreadMessageModifyRequest
 
 | Nome | Descrizione |
 | --- | --- |
-| [Metadata](../../aspose.pdf.ai/threadmessagemodifyrequest/metadata/) { get; set; } | Ottiene o imposta un insieme di 16 coppie chiave-valore che possono essere collegate a un oggetto. Questo può essere utile per memorizzare informazioni aggiuntive sull'oggetto in un formato strutturato. Le chiavi possono avere una lunghezza massima di 64 caratteri e i valori possono avere una lunghezza massima di 512 caratteri. |
+| [Metadata](../../aspose.pdf.ai/threadmessagemodifyrequest/metadata/) { get; set; } | Ottiene o imposta un insieme di 16 coppie chiave-valore che possono essere associate a un oggetto. Questo può essere utile per memorizzare informazioni aggiuntive sull'oggetto in un formato strutturato. Le chiavi possono avere una lunghezza massima di 64 caratteri e i valori possono avere una lunghezza massima di 512 caratteri. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

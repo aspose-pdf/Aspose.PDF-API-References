@@ -1,14 +1,14 @@
 ---
-title: DocSaveOptions.CustomProgressHandler
-second_title: Aspose.PDF for .NET API Reference
-description: Campo DocSaveOptions. Questo gestore può essere utilizzato per gestire eventi di progresso della conversione, ad esempio può essere utilizzato per mostrare una barra di progresso o messaggi riguardanti la quantità attuale di pagine elaborate, esempio di codice del gestore che mostra il progresso sulla console è
+title: "DocSaveOptions.CustomProgressHandler"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "DocSaveOptions campo. Questo gestore può essere usato per gestire gli eventi di avanzamento della conversione, ad es. può essere usato per mostrare una barra di avanzamento o messaggi sulla quantità corrente di pagine elaborate. Un esempio di codice del gestore che mostra l'avanzamento sulla console è"
 type: docs
 weight: 140
 url: /it/net/aspose.pdf/docsaveoptions/customprogresshandler/
 ---
-## Campo DocSaveOptions.CustomProgressHandler
+## DocSaveOptions.CustomProgressHandler field
 
-Questo gestore può essere utilizzato per gestire eventi di progresso della conversione, ad esempio può essere utilizzato per mostrare una barra di progresso o messaggi riguardanti la quantità attuale di pagine elaborate, esempio di codice del gestore che mostra il progresso sulla console è :
+Questo gestore può essere utilizzato per gestire gli eventi di avanzamento della conversione, ad esempio può servire a mostrare una barra di avanzamento o messaggi sul numero corrente di pagine elaborate; un esempio di codice del gestore che mostra l'avanzamento sulla console è:
 
 ```csharp
 public ConversionProgressEventHandler CustomProgressHandler;
@@ -48,9 +48,11 @@ blic static void ShowProgressOnConsole(HtmlSaveOptions.ProgressEventHandlerInfo 
 
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * delegate [ConversionProgressEventHandler](../../unifiedsaveoptions.conversionprogresseventhandler/)
 * class [DocSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

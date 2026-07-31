@@ -1,7 +1,7 @@
 ---
-title: SetColorStroke.SetColorStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore SetColorStroke. Inizializza l'operatore
+title: "SetColorStroke.SetColorStroke"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore SetColorStroke. Inizializza l'operatore"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/setcolorstroke/setcolorstroke/
@@ -14,9 +14,9 @@ Inizializza l'operatore.
 public SetColorStroke()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetColorStroke](../)
+* class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public SetColorStroke()
 
 ## SetColorStroke(double) {#constructor_1}
 
-Imposta il colore per gli operatori di tracciamento per gli spazi colore DeviceGray, CalGray e Indexed.
+Imposta il colore per gli operatori di tratto per gli spazi colore DeviceGray, CalGray e Indexed.
 
 ```csharp
 public SetColorStroke(double g)
@@ -32,11 +32,11 @@ public SetColorStroke(double g)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| g | Double | Valore del colore. |
+| g | Double | Valore colore. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetColorStroke](../)
+* class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -44,7 +44,7 @@ public SetColorStroke(double g)
 
 ## SetColorStroke(double, double, double) {#constructor_2}
 
-Imposta il colore per l'operatore di tracciamento per gli spazi colore DeviceRGB, CalRGB e Lab.
+Imposta il colore per l'operatore di tratto per gli spazi colore DeviceRGB, CalRGB e Lab
 
 ```csharp
 public SetColorStroke(double r, double g, double b)
@@ -52,13 +52,13 @@ public SetColorStroke(double r, double g, double b)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| r | Double | Componente rossa. |
+| r | Double | Componente rosso. |
 | g | Double | Componente verde. |
 | b | Double | Componente blu. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetColorStroke](../)
+* class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -66,7 +66,7 @@ public SetColorStroke(double r, double g, double b)
 
 ## SetColorStroke(double[]) {#constructor_4}
 
-Costruttore che consente di impostare le componenti di colore.
+Costruttore che consente di impostare i componenti del colore.
 
 ```csharp
 public SetColorStroke(double[] color)
@@ -74,11 +74,11 @@ public SetColorStroke(double[] color)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| color | Double[] | Array delle componenti di colore. |
+| color | Double[] | Array di componenti colore. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetColorStroke](../)
+* class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -86,7 +86,7 @@ public SetColorStroke(double[] color)
 
 ## SetColorStroke(double, double, double, double) {#constructor_3}
 
-Imposta il colore per l'operatore di tracciamento per lo spazio colore CMYK.
+Imposta il colore per l'operatore di tratto per lo spazio colore CMYK
 
 ```csharp
 public SetColorStroke(double c, double m, double y, double k)
@@ -96,11 +96,13 @@ public SetColorStroke(double c, double m, double y, double k)
 | --- | --- | --- |
 | c | Double | Componente ciano. |
 | m | Double | Componente magenta. |
-| y | Double | Componente gialla. |
-| k | Double | Componente nera. |
+| y | Double | Componente giallo. |
+| k | Double | Componente nero. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetColorStroke](../)
+* class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: CosPdfString.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo CosPdfString. Determina che l'oggetto specificato è uguale all'oggetto corrente
+title: "CosPdfString.Equals"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "CosPdfString method. Determina se l'oggetto specificato è uguale all'oggetto corrente"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.dataeditor/cospdfstring/equals/
 ---
-## Metodo CosPdfString.Equals
+## CosPdfString.Equals method
 
 Determina che l'oggetto specificato è uguale all'oggetto corrente.
 
@@ -20,10 +20,12 @@ public override bool Equals(object obj)
 
 ### Valore di ritorno
 
-Vero se l'oggetto specificato è uguale all'oggetto corrente; altrimenti, falso.
+True se l'oggetto specificato è uguale all'oggetto corrente; altrimenti, false.
 
 ### Vedi anche
 
-* classe [CosPdfString](../)
+* class [CosPdfString](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

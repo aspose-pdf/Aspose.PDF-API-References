@@ -1,12 +1,12 @@
 ---
-title: Class SignatureName
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Facades.SignatureName. Rappresenta una classe per un nome di firma
+title: "Classe SignatureName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Facades.SignatureName. Rappresenta una classe per un nome di firma"
 type: docs
-weight: 4710
+weight: 4830
 url: /it/net/aspose.pdf.facades/signaturename/
 ---
-## Classe SignatureName
+## SignatureName class
 
 Rappresenta una classe per un nome di firma.
 
@@ -26,7 +26,7 @@ public sealed class SignatureName
 | --- | --- |
 | override [Equals](../../aspose.pdf.facades/signaturename/equals/)(object) | Determina se questa istanza e un oggetto specificato sono uguali. |
 | override [GetHashCode](../../aspose.pdf.facades/signaturename/gethashcode/)() | Restituisce un codice hash per questa istanza basato sulla proprietà FullName. |
-| override [ToString](../../aspose.pdf.facades/signaturename/tostring/)() | Restituisce una rappresentazione stringa dell'istanza `SignatureName`, utilizzando principalmente il suo nome. |
+| override [ToString](../../aspose.pdf.facades/signaturename/tostring/)() | Restituisce una rappresentazione stringa dell'istanza `SignatureName`, principalmente usando il suo nome. |
 
 ## Campi
 
@@ -37,9 +37,11 @@ public sealed class SignatureName
 
 ## Osservazioni
 
-Rappresenta un nome di firma più preciso. Utilizzato invece di nomi stringa. Consente di presentare firme con gli stessi nomi stringa.
+Rappresenta un nome di firma più preciso. Utilizzato al posto dei nomi stringa. Consente di presentare firme con gli stessi nomi stringa.
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

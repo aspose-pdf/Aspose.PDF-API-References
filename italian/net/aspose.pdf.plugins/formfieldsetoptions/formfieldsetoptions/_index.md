@@ -1,12 +1,12 @@
 ---
-title: FormFieldSetOptions.FormFieldSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di FormFieldSetOptions. Il costruttore predefinito
+title: "FormFieldSetOptions.FormFieldSetOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore FormFieldSetOptions. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.plugins/formfieldsetoptions/formfieldsetoptions/
 ---
-## Costruttore di FormFieldSetOptions
+## FormFieldSetOptions constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public FormFieldSetOptions()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormFieldSetOptions](../)
+* class [FormFieldSetOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

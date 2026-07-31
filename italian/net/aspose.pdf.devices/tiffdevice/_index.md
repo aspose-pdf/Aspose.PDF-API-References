@@ -1,14 +1,14 @@
 ---
-title: Class TiffDevice
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Devices.TiffDevice. Questa classe aiuta a salvare il documento pdf pagina per pagina in un'unica immagine tiff
+title: "Classe TiffDevice"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Devices.TiffDevice. Questa classe aiuta a salvare il documento pdf pagina per pagina in un'unica immagine tiff"
 type: docs
-weight: 3700
+weight: 3820
 url: /it/net/aspose.pdf.devices/tiffdevice/
 ---
-## Classe TiffDevice
+## TiffDevice class
 
-Questa classe aiuta a salvare il documento pdf pagina per pagina in un'unica immagine tiff.
+Questa classe aiuta a salvare le pagine del documento pdf, una per una, in un'unica immagine tiff.
 
 ```csharp
 public sealed class TiffDevice : DocumentDevice
@@ -18,7 +18,7 @@ public sealed class TiffDevice : DocumentDevice
 
 | Nome | Descrizione |
 | --- | --- |
-| [TiffDevice](tiffdevice/#constructor)() | Inizializza una nuova istanza della classe `TiffDevice` con impostazioni predefinite. |
+| [TiffDevice](tiffdevice/#constructor)() | Inizializza una nuova istanza della classe `TiffDevice` con le impostazioni predefinite. |
 | [TiffDevice](tiffdevice/#constructor_6)(PageSize) | Inizializza una nuova istanza della classe `TiffDevice`. |
 | [TiffDevice](tiffdevice/#constructor_1)(Resolution) | Inizializza una nuova istanza della classe `TiffDevice`. |
 | [TiffDevice](tiffdevice/#constructor_4)(TiffSettings) | Inizializza una nuova istanza della classe `TiffDevice`. |
@@ -42,23 +42,23 @@ public sealed class TiffDevice : DocumentDevice
 | Nome | Descrizione |
 | --- | --- |
 | [FormPresentationMode](../../aspose.pdf.devices/tiffdevice/formpresentationmode/) { get; set; } | Ottiene o imposta la modalità di presentazione del modulo. |
-| [Height](../../aspose.pdf.devices/tiffdevice/height/) { get; } | Ottiene l'altezza dell'immagine di output. |
+| [Height](../../aspose.pdf.devices/tiffdevice/height/) { get; } | Ottiene l'altezza dell'output dell'immagine. |
 | [RenderingOptions](../../aspose.pdf.devices/tiffdevice/renderingoptions/) { get; set; } | Ottiene o imposta le opzioni di rendering. |
 | [Resolution](../../aspose.pdf.devices/tiffdevice/resolution/) { get; } | Ottiene la risoluzione dell'immagine. |
 | [Settings](../../aspose.pdf.devices/tiffdevice/settings/) { get; } | Ottiene le impostazioni per mappare il pdf in un'immagine tiff. |
-| [Width](../../aspose.pdf.devices/tiffdevice/width/) { get; } | Ottiene la larghezza dell'immagine di output. |
+| [Width](../../aspose.pdf.devices/tiffdevice/width/) { get; } | Ottiene la larghezza dell'output dell'immagine. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [BinarizeBradley](../../aspose.pdf.devices/tiffdevice/binarizebradley/)(Stream, Stream, double) | Esegue la binarizzazione di Bradley per lo stream di input. |
+| [BinarizeBradley](../../aspose.pdf.devices/tiffdevice/binarizebradley/)(Stream, Stream, double) | Esegui la binarizzazione Bradley per lo stream di input. |
 | [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, Stream) | Elabora l'intero documento e salva i risultati nello stream. |
 | [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, string) | Elabora l'intero documento e salva i risultati nel file. |
 | override [Process](../../aspose.pdf.devices/tiffdevice/process/#process_4)(Page, Stream) |  |
-| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Esegue alcune operazioni sulla pagina data e salva i risultati nel file. |
-| override [Process](../../aspose.pdf.devices/tiffdevice/process/#process)(Document, int, int, Stream) | Converte determinate pagine del documento in tiff e le salva nello stream di output. |
-| [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, int, int, string) | Elabora determinate pagine del documento e salva i risultati nel file. |
+| [Process](../../aspose.pdf.devices/pagedevice/process/)(Page, string) | Esegue alcune operazioni sulla pagina fornita e salva i risultati nel file. |
+| override [Process](../../aspose.pdf.devices/tiffdevice/process/#process)(Document, int, int, Stream) | Converte alcune pagine del documento in TIFF e le salva nel flusso di output. |
+| [Process](../../aspose.pdf.devices/documentdevice/process/)(Document, int, int, string) | Elabora alcune pagine del documento e salva i risultati nel file. |
 
 ## Esempi
 
@@ -66,19 +66,19 @@ Il seguente esempio mostra come convertire un file PDF in immagini TIFF.
 
 ```csharp
 [C#]
-	// The path to your PDF Directory
+	// Il percorso alla tua directory PDF
 	string dataDir = @"YOUR_DATA_DIRECTORY";
 
-	// The file name of the PDF
+	// Il nome file del PDF
 	string pdfFile = @"YOUR_PDF_FILE";
 
-	// Initialize instance of Document class
+	// Inizializza un'istanza della classe Document
 	using (Document pdfDocument = new Document(Path.Combine(dataDir, pdfFile)))
 	{
-		// Create Resolution object 	
+		// Crea un oggetto Resolution 	
 		Resolution resolution = new Resolution(300);
 		
-		// Create TiffSettings object
+		// Crea un oggetto TiffSettings
 		TiffSettings tiffSettings = new TiffSettings
 		{
 			Compression = CompressionType.None,
@@ -87,10 +87,10 @@ Il seguente esempio mostra come convertire un file PDF in immagini TIFF.
 			SkipBlankPages = false
 		};
 
-		// Create TIFF device
+		// Crea un dispositivo TIFF
 		TiffDevice tiffDevice = new TiffDevice(resolution, tiffSettings);
 
-		// Convert a PDF document to TIFF image
+		// Converti un documento PDF in immagine TIFF
 		tiffDevice.Process(pdfDocument, dataDir + "AllPagesToTIFF_out.tif");
 	}
 ```
@@ -127,8 +127,10 @@ Il seguente esempio mostra come convertire un file PDF in immagini TIFF.
 	End Using
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocumentDevice](../documentdevice/)
+* class [DocumentDevice](../documentdevice/)
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

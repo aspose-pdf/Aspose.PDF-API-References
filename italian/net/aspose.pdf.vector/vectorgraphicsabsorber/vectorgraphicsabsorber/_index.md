@@ -1,12 +1,12 @@
 ---
-title: VectorGraphicsAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Il costruttore predefinito.
+title: "VectorGraphicsAbsorber"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Il costruttore predefinito."
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.vector/vectorgraphicsabsorber/vectorgraphicsabsorber/
 ---
-## Costruttore VectorGraphicsAbsorber
+## VectorGraphicsAbsorber constructor
 
 Il costruttore predefinito.
 
@@ -14,9 +14,9 @@ Il costruttore predefinito.
 public VectorGraphicsAbsorber()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [VectorGraphicsAbsorber](../../vectorgraphicsabsorber)
+* class [VectorGraphicsAbsorber](../../vectorgraphicsabsorber)
 * namespace [Aspose.Pdf.Vector](../../vectorgraphicsabsorber)
 * assembly [Aspose.PDF](../../../)
 

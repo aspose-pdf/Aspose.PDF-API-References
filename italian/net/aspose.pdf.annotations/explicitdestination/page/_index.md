@@ -1,12 +1,12 @@
 ---
-title: ExplicitDestination.Page
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ExplicitDestination. Ottiene l'oggetto pagina di destinazione
+title: "ExplicitDestination.Page"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ExplicitDestination. Ottiene l'oggetto pagina di destinazione"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.annotations/explicitdestination/page/
 ---
-## Proprietà ExplicitDestination.Page
+## ExplicitDestination.Page property
 
 Ottiene l'oggetto pagina di destinazione
 
@@ -14,9 +14,11 @@ Ottiene l'oggetto pagina di destinazione
 public Page Page { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [ExplicitDestination](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [ExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

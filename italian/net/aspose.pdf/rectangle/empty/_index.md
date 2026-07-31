@@ -1,12 +1,12 @@
 ---
-title: Rectangle.Empty
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Rectangle. Rettangolo vuoto
+title: "Rectangle.Empty"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Rectangle. Rettangolo vuoto"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/rectangle/empty/
 ---
-## Proprietà Rectangle.Empty
+## Rectangle.Empty property
 
 Rettangolo vuoto
 
@@ -14,8 +14,10 @@ Rettangolo vuoto
 public static Rectangle Empty { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

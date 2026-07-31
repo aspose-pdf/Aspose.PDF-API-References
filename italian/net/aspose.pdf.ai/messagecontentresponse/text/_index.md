@@ -1,12 +1,12 @@
 ---
-title: MessageContentResponse.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà MessageContentResponse. Ottiene o imposta il contenuto testuale che fa parte di un messaggio
+title: "MessageContentResponse.Text"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "MessageContentResponse proprietà. Ottiene o imposta il contenuto testuale che fa parte di un messaggio"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.ai/messagecontentresponse/text/
 ---
-## Proprietà MessageContentResponse.Text
+## MessageContentResponse.Text property
 
 Ottiene o imposta il contenuto testuale che fa parte di un messaggio.
 
@@ -14,9 +14,11 @@ Ottiene o imposta il contenuto testuale che fa parte di un messaggio.
 public TextResponse Text { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextResponse](../../textresponse/)
-* classe [MessageContentResponse](../)
+* class [TextResponse](../../textresponse/)
+* class [MessageContentResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

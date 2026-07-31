@@ -1,22 +1,24 @@
 ---
-title: GraphicalPdfComparer.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di GraphicalPdfComparer. Ottiene e imposta il colore della bandiera di cambiamento. Il colore predefinito è rosso
+title: "GraphicalPdfComparer.Color"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà GraphicalPdfComparer. Ottiene e imposta il colore del flag di modifica. Il colore predefinito è rosso"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.comparison/graphicalpdfcomparer/color/
 ---
-## Proprietà GraphicalPdfComparer.Color
+## GraphicalPdfComparer.Color property
 
-Ottiene e imposta il colore della bandiera di cambiamento. Il colore predefinito è rosso.
+Ottiene e imposta il colore del flag di modifica. Il colore predefinito è rosso.
 
 ```csharp
 public Color Color { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../../../aspose.pdf/color/)
-* classe [GraphicalPdfComparer](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [GraphicalPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

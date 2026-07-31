@@ -1,21 +1,23 @@
 ---
-title: AttributeKey.Padding
-second_title: Aspose.PDF for .NET API Reference
-description: Campo AttributeKey. Attributo di padding Proprietario dell'attributo di layout
+title: "AttributeKey.Padding"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeKey campo. Padding attributo Layout attributo proprietario"
 type: docs
 weight: 220
 url: /it/net/aspose.pdf.logicalstructure/attributekey/padding/
 ---
-## Campo AttributeKey.Padding
+## AttributeKey.Padding field
 
-Attributo di padding (Proprietario dell'attributo di layout).
+Attributo Padding (proprietario dell'attributo Layout).
 
 ```csharp
 public static readonly AttributeKey Padding;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

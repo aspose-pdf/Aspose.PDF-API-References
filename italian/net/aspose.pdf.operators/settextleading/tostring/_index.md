@@ -1,25 +1,27 @@
 ---
-title: SetTextLeading.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo SetTextLeading. Produce codice testo dell'operatore
+title: "SetTextLeading.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo SetTextLeading. Produce il codice testuale dell'operatore"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.operators/settextleading/tostring/
 ---
-## Metodo SetTextLeading.ToString
+## SetTextLeading.ToString method
 
-Produce codice testo dell'operatore.
+Genera il codice di testo dell'operatore.
 
 ```csharp
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Rappresentazione testuale dell'operatore.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SetTextLeading](../)
+* class [SetTextLeading](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Curve.PositionArray
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Curve. Ottiene o imposta un array di posizioni float
+title: "Curve.PositionArray"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Curve. Ottiene o imposta un array di posizioni float"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.drawing/curve/positionarray/
 ---
-## Proprietà Curve.PositionArray
+## Curve.PositionArray property
 
 Ottiene o imposta un array di posizioni float.
 
@@ -14,8 +14,10 @@ Ottiene o imposta un array di posizioni float.
 public float[] PositionArray { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Curve](../)
+* class [Curve](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

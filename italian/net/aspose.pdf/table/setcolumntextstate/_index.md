@@ -1,12 +1,12 @@
 ---
-title: Table.SetColumnTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Table. Imposta l'altezza
+title: "Table.SetColumnTextState"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo della classe Table. Imposta l'altezza"
 type: docs
 weight: 280
 url: /it/net/aspose.pdf/table/setcolumntextstate/
 ---
-## Metodo Table.SetColumnTextState
+## Table.SetColumnTextState method
 
 Imposta l'altezza.
 
@@ -19,9 +19,11 @@ public void SetColumnTextState(int colNumber, TextState textState)
 | colNumber | Int32 | Il numero della colonna. |
 | textState | TextState | Lo stato del testo per la colonna. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextState](../../../aspose.pdf.text/textstate/)
-* classe [Table](../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

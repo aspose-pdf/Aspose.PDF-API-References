@@ -1,26 +1,28 @@
 ---
-title: FieldSerializationResult.FieldSerializationStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FieldSerializationResult. Ottiene lo stato della serializzazione del campo del modulo
+title: "FieldSerializationResult.FieldSerializationStatus"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FieldSerializationResult. Ottiene lo stato della serializzazione del campo del modulo"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/fieldserializationresult/fieldserializationstatus/
 ---
-## Proprietà FieldSerializationResult.FieldSerializationStatus
+## FieldSerializationResult.FieldSerializationStatus property
 
-Ottiene lo stato della serializzazione del campo del modulo.
+Ottiene lo stato della serializzazione del campo modulo.
 
 ```csharp
 public FieldSerializationStatus FieldSerializationStatus { get; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
-Lo stato di serializzazione del campo del modulo.
+Lo stato della serializzazione del campo del modulo.
 
-### Vedi Anche
+### Vedi anche
 
 * enum [FieldSerializationStatus](../../fieldserializationstatus/)
 * class [FieldSerializationResult](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,24 +1,24 @@
 ---
-title: Cells.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Cells. Aggiungi cella alla collezione
+title: "Cells.Add"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Cells. Aggiunge una cella alla collezione"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/cells/add/
 ---
 ## Add() {#add}
 
-Aggiungi cella alla collezione.
+Aggiungi una cella alla raccolta.
 
 ```csharp
 public Cell Add()
 ```
 
-### Return Value
+### Valore di ritorno
 
 La nuova cella
 
-### See Also
+### Vedi anche
 
 * class [Cell](../../cell/)
 * class [Cells](../)
@@ -29,22 +29,22 @@ La nuova cella
 
 ## Add(string, TextState) {#add_2}
 
-Aggiungi cella alla collezione.
+Aggiungi una cella alla raccolta.
 
 ```csharp
 public Cell Add(string text, TextState ts)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| text | String | Il testo per la cella. |
+| testo | String | Il testo per la cella. |
 | ts | TextState | Lo stato del testo. |
 
-### Return Value
+### Valore di ritorno
 
 La nuova cella
 
-### See Also
+### Vedi anche
 
 * class [Cell](../../cell/)
 * class [TextState](../../../aspose.pdf.text/textstate/)
@@ -56,21 +56,21 @@ La nuova cella
 
 ## Add(string) {#add_1}
 
-Aggiungi cella alla collezione.
+Aggiungi una cella alla raccolta.
 
 ```csharp
 public Cell Add(string text)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| text | String | Il testo per la cella. |
+| testo | String | Il testo per la cella. |
 
-### Return Value
+### Valore di ritorno
 
 La nuova cella
 
-### See Also
+### Vedi anche
 
 * class [Cell](../../cell/)
 * class [Cells](../)
@@ -81,19 +81,21 @@ La nuova cella
 
 ## Add(Cell) {#add_3}
 
-Aggiungi cella alla collezione.
+Aggiungi una cella alla raccolta.
 
 ```csharp
 public void Add(Cell cell)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| cell | Cell | La cella da aggiungere alla collezione. |
+| cella | Cella | La cella alla collezione. |
 
-### See Also
+### Vedi anche
 
 * class [Cell](../../cell/)
 * class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Artifact.RemoveValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Artifact. Rimuovi valore personalizzato dall'articolo
+title: "Artifact.RemoveValue"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Artifact. Rimuove il valore personalizzato dall'artifact"
 type: docs
 weight: 260
 url: /it/net/aspose.pdf/artifact/removevalue/
 ---
-## Metodo Artifact.RemoveValue
+## Artifact.RemoveValue method
 
-Rimuovi valore personalizzato dall'articolo.
+Rimuove il valore personalizzato dall'artefatto.
 
 ```csharp
 public void RemoveValue(string name)
@@ -16,10 +16,12 @@ public void RemoveValue(string name)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| name | String | Nome del valore personalizzato da rimuovere. |
+| nome | String | Nome del valore personalizzato da rimuovere. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Artifact](../)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

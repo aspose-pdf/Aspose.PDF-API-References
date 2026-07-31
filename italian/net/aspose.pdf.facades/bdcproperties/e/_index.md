@@ -1,21 +1,23 @@
 ---
-title: BDCProperties.E
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà BDCProperties. Ottiene/imposta il valore del testo di espansione
+title: "BDCProperties.E"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà BDCProperties. Ottiene/imposta il valore del testo di espansione"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.facades/bdcproperties/e/
 ---
-## Proprietà BDCProperties.E
+## BDCProperties.E property
 
-Ottiene/imposta il valore del testo di espansione.
+Ottiene/imposta il valore del testo Expansion.
 
 ```csharp
 public string E { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BDCProperties](../)
+* class [BDCProperties](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Color.Goldenrod
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà colore. Ottiene un colore definito dal sistema che ha un valore ARGB di c FFDAA520
+title: "Color.Goldenrod"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Color. Restituisce un colore di sistema definito che ha un valore ARGB di c FFDAA520"
 type: docs
 weight: 510
 url: /it/net/aspose.pdf/color/goldenrod/
 ---
-## Proprietà Color.Goldenrod
+## Color.Goldenrod property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFDAA520.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FFDAA520.
 public static Color Goldenrod { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un colore che rappresenta un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

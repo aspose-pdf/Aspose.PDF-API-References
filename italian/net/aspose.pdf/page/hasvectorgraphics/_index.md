@@ -1,25 +1,27 @@
 ---
-title: Page.HasVectorGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Page. Rilevamento della presenza di grafica vettoriale se è presente nella pagina
+title: "Page.HasVectorGraphics"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Page. Rileva la presenza di grafica vettoriale se è presente nella pagina"
 type: docs
 weight: 480
 url: /it/net/aspose.pdf/page/hasvectorgraphics/
 ---
-## Metodo Page.HasVectorGraphics
+## Page.HasVectorGraphics method
 
-Rilevamento della presenza di grafica vettoriale, se è presente nella pagina.
+Rileva la presenza di grafica vettoriale, se è presente nella pagina.
 
 ```csharp
 public bool HasVectorGraphics()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 True se la pagina contiene operatori di costruzione del percorso; altrimenti, False.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

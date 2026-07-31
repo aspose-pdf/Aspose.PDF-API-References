@@ -1,12 +1,12 @@
 ---
-title: PptxSaveOptions.ImageResolution
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PptxSaveOptions. Ottiene o imposta la risoluzione dell'immagine dpi. Il valore predefinito è 192 dpi
+title: "PptxSaveOptions.ImageResolution"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PptxSaveOptions. Ottiene o imposta la risoluzione dell'immagine in dpi. Il valore predefinito è 192 dpi"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/pptxsaveoptions/imageresolution/
 ---
-## Proprietà PptxSaveOptions.ImageResolution
+## PptxSaveOptions.ImageResolution property
 
 Ottiene o imposta la risoluzione dell'immagine (dpi). Il valore predefinito è 192 dpi.
 
@@ -14,8 +14,10 @@ Ottiene o imposta la risoluzione dell'immagine (dpi). Il valore predefinito è 1
 public int ImageResolution { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PptxSaveOptions](../)
+* class [PptxSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

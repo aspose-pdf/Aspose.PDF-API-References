@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.DLEnvelope
-second_title: Aspose.PDF for .NET API Reference
-description: Campo delle Dimensioni del Foglio. Foglietto del Documentario 110 mm x 220 mm
+title: "PaperSizes.DLEnvelope"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PaperSizes campo. DL busta 110 mm per 220 mm"
 type: docs
 weight: 380
 url: /it/net/aspose.pdf.printing/papersizes/dlenvelope/
 ---
-## Campo PaperSizes.DLEnvelope
+## PaperSizes.DLEnvelope field
 
 Busta DL (110 mm per 220 mm).
 
@@ -14,9 +14,11 @@ Busta DL (110 mm per 220 mm).
 public static readonly PaperSize DLEnvelope;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

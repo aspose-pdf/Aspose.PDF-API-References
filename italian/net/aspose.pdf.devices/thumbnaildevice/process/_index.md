@@ -1,12 +1,12 @@
 ---
-title: ThumbnailDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo ThumbnailDevice. Converte la pagina in un'immagine thumbnail png e la salva nello stream di output
+title: "ThumbnailDevice.Process"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo ThumbnailDevice. Converte la pagina in un'immagine thumbnail png e la salva nello stream di output."
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.devices/thumbnaildevice/process/
 ---
-## Metodo ThumbnailDevice.Process
+## ThumbnailDevice.Process method
 
 Converte la pagina in un'immagine thumbnail png e la salva nello stream di output.
 
@@ -16,12 +16,14 @@ public override void Process(Page page, Stream output)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | La pagina da convertire. |
+| pagina | Page | La pagina da convertire. |
 | output | Stream | Stream di output con immagine png. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../../aspose.pdf/page/)
-* classe [ThumbnailDevice](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [ThumbnailDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Document.Direction
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del documento. Ottiene o imposta l'ordine di lettura del testo L2R da sinistra a destra o R2L da destra a sinistra
+title: "Document.Direction"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Document. Ottiene o imposta l'ordine di lettura del testo L2R da sinistra a destra o R2L da destra a sinistra"
 type: docs
-weight: 100
+weight: 110
 url: /it/net/aspose.pdf/document/direction/
 ---
-## Proprietà Document.Direction
+## Document.Direction property
 
 Ottiene o imposta l'ordine di lettura del testo: L2R (da sinistra a destra) o R2L (da destra a sinistra).
 
@@ -14,9 +14,11 @@ Ottiene o imposta l'ordine di lettura del testo: L2R (da sinistra a destra) o R2
 public Direction Direction { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [Direction](../../direction/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

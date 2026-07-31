@@ -1,21 +1,23 @@
 ---
-title: PDF3DLightingScheme.Night
-second_title: Aspose.PDF for .NET API Reference
-description: Formato Documentario Portatile - Schema di Illuminazione 3D. Il schema di illuminazione della Notte.
+title: "PDF3DLightingScheme.Night"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo PDF3DLightingScheme. Lo schema di illuminazione Notte"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.annotations/pdf3dlightingscheme/night/
 ---
-## Campo PDF3DLightingScheme.Night
+## PDF3DLightingScheme.Night field
 
-Lo schema di illuminazione "Notte".
+Lo schema di illuminazione "Night".
 
 ```csharp
 public static PDF3DLightingScheme Night;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PDF3DLightingScheme](../)
+* class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

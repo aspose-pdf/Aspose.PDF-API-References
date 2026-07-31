@@ -1,21 +1,23 @@
 ---
-title: MarkupAnnotation.CreationDate
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà MarkupAnnotation. Ottiene la data e l'ora in cui è stata creata l'annotazione
+title: "MarkupAnnotation.CreationDate"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "MarkupAnnotation proprietà. Ottiene data e ora in cui l'annotazione è stata creata"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.annotations/markupannotation/creationdate/
 ---
-## Proprietà MarkupAnnotation.DataCreazione
+## MarkupAnnotation.CreationDate property
 
-Ottiene la data e l'ora in cui è stata creata l'annotazione.
+Restituisce data e ora di creazione dell'annotazione.
 
 ```csharp
-public DateTime CreationDate { get; }
+public DateTime CreationDate { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MarkupAnnotation](../)
+* class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

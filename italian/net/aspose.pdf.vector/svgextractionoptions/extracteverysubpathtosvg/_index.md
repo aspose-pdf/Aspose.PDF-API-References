@@ -1,21 +1,23 @@
 ---
-title: SvgExtractionOptions.ExtractEverySubPathToSvg
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SvgExtractionOptions. Ottiene e imposta l'opzione per estrarre ogni sottopercorso da un documento PDF in immagini SVG separate
+title: "SvgExtractionOptions.ExtractEverySubPathToSvg"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SvgExtractionOptions. Ottiene e imposta un'opzione per estrarre ogni sottopercorso da un documento PDF in immagini SVG separate"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.vector/svgextractionoptions/extracteverysubpathtosvg/
 ---
-## Proprietà SvgExtractionOptions.ExtractEverySubPathToSvg
+## SvgExtractionOptions.ExtractEverySubPathToSvg property
 
-Ottiene e imposta l'opzione per estrarre ogni sottopercorso da un documento PDF in immagini SVG separate.
+Ottiene e imposta l'opzione per estrarre ogni subpath da un documento PDF in immagini SVG separate.
 
 ```csharp
 public bool ExtractEverySubPathToSvg { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SvgExtractionOptions](../)
+* class [SvgExtractionOptions](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

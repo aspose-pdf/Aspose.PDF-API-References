@@ -1,12 +1,12 @@
 ---
-title: Color.LightSeaGreen
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà colore. Ottiene un colore definito dal sistema che ha un valore ARGB di c FF20B2AA
+title: "Color.LightSeaGreen"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Color property. Ottiene un colore predefinito di sistema che ha un valore ARGB di c FF20B2AA"
 type: docs
 weight: 730
 url: /it/net/aspose.pdf/color/lightseagreen/
 ---
-## Proprietà Color.LightSeaGreen
+## Color.LightSeaGreen property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FF20B2AA.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FF20B2AA.
 public static Color LightSeaGreen { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un colore che rappresenta un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

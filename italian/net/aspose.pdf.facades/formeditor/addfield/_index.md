@@ -1,35 +1,35 @@
 ---
-title: FormEditor.AddField
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo FormEditor. Aggiungi campo di tipo specificato al modulo
+title: "FormEditor.AddField"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo FormEditor. Aggiunge un campo del tipo specificato al modulo."
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.facades/formeditor/addfield/
 ---
 ## AddField(FieldType, string, int, float, float, float, float) {#addfield}
 
-Aggiungi campo di tipo specificato al modulo.
+Aggiungi un campo del tipo specificato al modulo.
 
 ```csharp
 public bool AddField(FieldType fieldType, string fieldName, int pageNum, float llx, float lly, 
     float urx, float ury)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fieldType | FieldType | Tipo del campo che deve essere aggiunto. |
-| fieldName | String | Nome del campo che deve essere aggiunto. |
-| pageNum | Int32 | Numero di pagina dove il nuovo campo deve essere posizionato. |
-| llx | Single | Ascissa dell'angolo in basso a sinistra del campo. |
-| lly | Single | Ordinata dell'angolo in basso a sinistra del campo. |
-| urx | Single | Ascissa dell'angolo in alto a destra del campo. |
-| ury | Single | Ordinata dell'angolo in alto a destra del campo. |
+| fieldType | FieldType | Tipo del campo da aggiungere. |
+| fieldName | String | Nome del campo da aggiungere. |
+| pageNum | Int32 | Numero di pagina dove deve essere posizionato il nuovo campo. |
+| llx | Single | Ascissa dell'angolo inferiore sinistro del campo. |
+| lly | Single | Ordinata dell'angolo inferiore sinistro del campo. |
+| urx | Single | Ascissa dell'angolo superiore destro del campo. |
+| ury | Single | Ordinata dell'angolo superiore destro del campo. |
 
-### Return Value
+### Valore di ritorno
 
-true se il campo è stato aggiunto con successo.
+vero se il campo è stato aggiunto correttamente.
 
-## Examples
+## Esempi
 
 ```csharp
 FormEditor formEditor = new Aspose.Pdf.Facades.FormEditor("PdfForm.pdf", "FormEditor_AddField_Text.pdf");
@@ -37,7 +37,7 @@ formEditor.AddField(FieldType.Text, "AddedTextField",  1, 10, 30, 110, 46);
 formEditor.Save();
 ```
 
-### See Also
+### Vedi anche
 
 * enum [FieldType](../../fieldtype/)
 * class [FormEditor](../)
@@ -48,29 +48,29 @@ formEditor.Save();
 
 ## AddField(FieldType, string, string, int, float, float, float, float) {#addfield_1}
 
-Aggiungi campo di tipo specificato al modulo.
+Aggiungi un campo del tipo specificato al modulo.
 
 ```csharp
 public bool AddField(FieldType fieldType, string fieldName, string initValue, int pageNum, 
     float llx, float lly, float urx, float ury)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fieldType | FieldType | Tipo del campo che deve essere aggiunto. |
-| fieldName | String | Nome del campo che deve essere aggiunto. |
+| fieldType | FieldType | Tipo del campo da aggiungere. |
+| fieldName | String | Nome del campo da aggiungere. |
 | initValue | String | Valore iniziale del campo. |
-| pageNum | Int32 | Numero di pagina dove il nuovo campo deve essere posizionato. |
-| llx | Single | Ascissa dell'angolo in basso a sinistra del campo. |
-| lly | Single | Ordinata dell'angolo in basso a sinistra del campo. |
-| urx | Single | Ascissa dell'angolo in alto a destra del campo. |
-| ury | Single | Ordinata dell'angolo in alto a destra del campo. |
+| pageNum | Int32 | Numero di pagina dove deve essere posizionato il nuovo campo. |
+| llx | Single | Ascissa dell'angolo inferiore sinistro del campo. |
+| lly | Single | Ordinata dell'angolo inferiore sinistro del campo. |
+| urx | Single | Ascissa dell'angolo superiore destro del campo. |
+| ury | Single | Ordinata dell'angolo superiore destro del campo. |
 
-### Return Value
+### Valore di ritorno
 
-true se il campo è stato aggiunto con successo.
+vero se il campo è stato aggiunto correttamente.
 
-## Examples
+## Esempi
 
 ```csharp
 FormEditor formEditor = new Aspose.Pdf.Facades.FormEditor("PdfForm.pdf", "FormEditor_AddField_Text.pdf");
@@ -80,9 +80,11 @@ formEditor.AddField(FieldType.Radio, "RadioButtonField", 1, 265, 695, 365, 720);
 formEditor.Save();
 ```
 
-### See Also
+### Vedi anche
 
 * enum [FieldType](../../fieldtype/)
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

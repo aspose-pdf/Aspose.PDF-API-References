@@ -1,14 +1,14 @@
 ---
-title: EmbeddedFileCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo EmbeddedFileCollection. Elimina file incorporato per nome
+title: "EmbeddedFileCollection.Delete"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo EmbeddedFileCollection. Elimina il file incorporato per nome"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf/embeddedfilecollection/delete/
 ---
 ## Delete(string) {#delete_1}
 
-Elimina file incorporato per nome.
+Elimina il file incorporato per nome.
 
 ```csharp
 public void Delete(string name)
@@ -16,11 +16,11 @@ public void Delete(string name)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| name | String | Nome del file incorporato che deve essere eliminato. |
+| nome | String | Nome del file incorporato che dovrebbe essere eliminato. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [EmbeddedFileCollection](../)
+* class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,14 +28,16 @@ public void Delete(string name)
 
 ## Delete() {#delete}
 
-Rimuovi tutti i file incorporati dal documento.
+Rimuove tutti i file incorporati dal Document.
 
 ```csharp
 public void Delete()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [EmbeddedFileCollection](../)
+* class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

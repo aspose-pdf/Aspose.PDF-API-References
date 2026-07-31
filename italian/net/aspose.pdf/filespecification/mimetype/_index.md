@@ -1,12 +1,12 @@
 ---
-title: FileSpecification.MIMEType
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FileSpecification. Ottiene il sottotipo del file incorporato
+title: "FileSpecification.MIMEType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FileSpecification. Ottiene il sottotipo del file incorporato"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf/filespecification/mimetype/
 ---
-## Proprietà FileSpecification.MIMEType
+## FileSpecification.MIMEType property
 
 Ottiene il sottotipo del file incorporato
 
@@ -14,8 +14,10 @@ Ottiene il sottotipo del file incorporato
 public string MIMEType { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FileSpecification](../)
+* class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

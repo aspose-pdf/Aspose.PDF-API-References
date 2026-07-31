@@ -1,7 +1,7 @@
 ---
-title: PdfXmpMetadata.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfXmpMetadata. Rimuove l'elemento con la chiave specificata
+title: "PdfXmpMetadata.Remove"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfXmpMetadata method. Rimuove l'elemento con la chiave specificata"
 type: docs
 weight: 210
 url: /it/net/aspose.pdf.facades/pdfxmpmetadata/remove/
@@ -14,11 +14,11 @@ Rimuove l'elemento con la chiave specificata.
 public void Remove(DefaultMetadataProperties key)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| key | DefaultMetadataProperties | Chiave dell'elemento che verrà eliminato. |
+| chiave | DefaultMetadataProperties | Chiave dell'elemento che sarà eliminato. |
 
-## Examples
+## Esempi
 
 ```csharp
 PdfXmpMetadata xmp = new PdfXmpMetadata();
@@ -26,7 +26,7 @@ xmp.BindPdf("input.pdf");
 xmp.Remove(DefaultMetadataProperties.Nickname);
 ```
 
-### See Also
+### Vedi anche
 
 * enum [DefaultMetadataProperties](../../defaultmetadataproperties/)
 * class [PdfXmpMetadata](../)
@@ -43,15 +43,15 @@ Rimuove la chiave dal dizionario.
 public bool Remove(string key)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| key | String | Chiave che verrà rimossa. |
+| chiave | String | Chiave che sarà rimossa. |
 
-### Return Value
+### Valore di ritorno
 
-True - se la chiave è stata rimossa; altrimenti, false.
+True - se la chiave è rimossa; altrimenti, false.
 
-## Examples
+## Esempi
 
 ```csharp
 PdfXmpMetadata xmp = new PdfXmpMetadata();
@@ -59,7 +59,7 @@ xmp.BindPdf("input.pdf");
 xmp.Remove("xmp:Nickname");
 ```
 
-### See Also
+### Vedi anche
 
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -75,17 +75,19 @@ Rimuove la coppia chiave/valore dalla collezione.
 public bool Remove(KeyValuePair<string, XmpValue> item)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | item | KeyValuePair`2 | Coppia chiave/valore da rimuovere. |
 
-### Return Value
+### Valore di ritorno
 
 true se la coppia è stata trovata e rimossa.
 
-### See Also
+### Vedi anche
 
 * class [XmpValue](../../../aspose.pdf/xmpvalue/)
 * class [PdfXmpMetadata](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

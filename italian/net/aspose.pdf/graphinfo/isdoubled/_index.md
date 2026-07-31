@@ -1,12 +1,12 @@
 ---
-title: GraphInfo.IsDoubled
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà GraphInfo. Ottiene o imposta se il bordo è raddoppiato
+title: "GraphInfo.IsDoubled"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà GraphInfo. Ottiene o imposta se il bordo è raddoppiato"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/graphinfo/isdoubled/
 ---
-## Proprietà GraphInfo.IsDoubled
+## GraphInfo.IsDoubled property
 
 Ottiene o imposta se il bordo è raddoppiato.
 
@@ -14,8 +14,10 @@ Ottiene o imposta se il bordo è raddoppiato.
 public bool IsDoubled { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GraphInfo](../)
+* class [GraphInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.A5
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes field. A5 paper 148 mm by 210 mm
+title: "PaperSizes.A5"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PaperSizes campo. Carta A5 148 mm per 210 mm"
 type: docs
 weight: 130
 url: /it/net/aspose.pdf.printing/papersizes/a5/
 ---
-## Campo PaperSizes.A5
+## PaperSizes.A5 field
 
 Carta A5 (148 mm per 210 mm).
 
@@ -14,9 +14,11 @@ Carta A5 (148 mm per 210 mm).
 public static readonly PaperSize A5;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

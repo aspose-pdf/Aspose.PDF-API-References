@@ -1,14 +1,14 @@
 ---
-title: AutoFiller.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo AutoFiller. Collega un file Pdf
+title: "AutoFiller.BindPdf"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo AutoFiller. Associa un file Pdf"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.facades/autofiller/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-Collega un file Pdf.
+Associa un file Pdf.
 
 ```csharp
 public void BindPdf(string srcFile)
@@ -16,11 +16,11 @@ public void BindPdf(string srcFile)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| srcFile | String | Nome del file Pdf. |
+| srcFile | String | Nome file Pdf. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AutoFiller](../)
+* class [AutoFiller](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ public void BindPdf(string srcFile)
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-Collega un file Pdf.
+Associa un file Pdf.
 
 ```csharp
 public void BindPdf(Stream srcStream)
@@ -38,9 +38,9 @@ public void BindPdf(Stream srcStream)
 | --- | --- | --- |
 | srcStream | Stream | Stream del file Pdf. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AutoFiller](../)
+* class [AutoFiller](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -48,7 +48,7 @@ public void BindPdf(Stream srcStream)
 
 ## BindPdf(Document) {#bindpdf}
 
-Collega un documento Pdf.
+Associa un documento Pdf.
 
 ```csharp
 public void BindPdf(Document srcDoc)
@@ -58,9 +58,11 @@ public void BindPdf(Document srcDoc)
 | --- | --- | --- |
 | srcDoc | Document | Documento Pdf. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [AutoFiller](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [AutoFiller](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

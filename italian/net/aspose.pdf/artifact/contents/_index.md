@@ -1,22 +1,24 @@
 ---
-title: Artifact.Contents
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà dell'artifact. Ottiene la collezione degli operatori interni dell'artifact
+title: "Artifact.Contents"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Artifact. Ottiene la collezione degli operatori interni dell'artifact"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf/artifact/contents/
 ---
-## Proprietà Artifact.Contents
+## Artifact.Contents property
 
-Ottiene la collezione degli operatori interni dell'artifact.
+Ottiene la collezione degli operatori interni dell'artefatto.
 
 ```csharp
 public List<Operator> Contents { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Operator](../../operator/)
-* classe [Artifact](../)
+* class [Operator](../../operator/)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

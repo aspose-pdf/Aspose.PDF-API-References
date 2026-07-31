@@ -1,21 +1,23 @@
 ---
-title: Metadata.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Metadata. Pulisce i metadati
+title: "Metadata.Clear"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Metadata. Cancella i metadati"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf/metadata/clear/
 ---
-## Metodo Metadata.Clear
+## Metadata.Clear method
 
-Pulisce i metadati.
+Cancella i metadati.
 
 ```csharp
 public void Clear()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Metadata](../)
+* class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

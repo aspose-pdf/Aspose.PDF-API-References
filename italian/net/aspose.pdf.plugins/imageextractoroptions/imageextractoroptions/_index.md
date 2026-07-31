@@ -1,12 +1,12 @@
 ---
-title: ImageExtractorOptions.ImageExtractorOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di ImageExtractorOptions. Il costruttore predefinito
+title: "ImageExtractorOptions.ImageExtractorOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "ImageExtractorOptions costruttore. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.plugins/imageextractoroptions/imageextractoroptions/
 ---
-## Costruttore di ImageExtractorOptions
+## ImageExtractorOptions constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public ImageExtractorOptions()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ImageExtractorOptions](../)
+* class [ImageExtractorOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

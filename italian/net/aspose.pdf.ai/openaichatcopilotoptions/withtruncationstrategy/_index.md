@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithTruncationStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIChatCopilotOptions. Imposta la strategia di troncamento per le opzioni del copilot chat
+title: "OpenAIChatCopilotOptions.WithTruncationStrategy"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OpenAIChatCopilotOptions. Imposta la strategia di troncamento per le opzioni del copilot della chat"
 type: docs
-weight: 190
+weight: 200
 url: /it/net/aspose.pdf.ai/openaichatcopilotoptions/withtruncationstrategy/
 ---
-## Metodo OpenAIChatCopilotOptions.WithTruncationStrategy
+## OpenAIChatCopilotOptions.WithTruncationStrategy method
 
-Imposta la strategia di troncamento per le opzioni del copilot chat.
+Imposta la strategia di troncamento per le opzioni del copilot della chat.
 
 ```csharp
 public OpenAIChatCopilotOptions WithTruncationStrategy(TruncationStrategy truncationStrategy)
@@ -24,7 +24,9 @@ L'istanza corrente di [`OpenAIChatCopilotOptions`](../).
 
 ### Vedi anche
 
-* classe [TruncationStrategy](../../truncationstrategy/)
-* classe [OpenAIChatCopilotOptions](../)
+* class [TruncationStrategy](../../truncationstrategy/)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

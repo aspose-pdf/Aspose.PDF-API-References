@@ -1,12 +1,12 @@
 ---
-title: EncryptedPayload.EncryptedPayload
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di EncryptedPayload. Inizializza un'istanza di payload crittografato
+title: "EncryptedPayload.EncryptedPayload"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore EncryptedPayload. Inizializza un'istanza di payload crittografato"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/encryptedpayload/encryptedpayload/
 ---
-## Costruttore di EncryptedPayload
+## EncryptedPayload constructor
 
 Inizializza un'istanza di payload crittografato.
 
@@ -18,9 +18,11 @@ public EncryptedPayload(FileSpecification fileSpecification)
 | --- | --- | --- |
 | fileSpecification | FileSpecification | La specifica del file utilizzata per l'inizializzazione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FileSpecification](../../filespecification/)
-* classe [EncryptedPayload](../)
+* class [FileSpecification](../../filespecification/)
+* class [EncryptedPayload](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

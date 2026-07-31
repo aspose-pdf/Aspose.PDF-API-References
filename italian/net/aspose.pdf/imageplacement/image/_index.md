@@ -1,12 +1,12 @@
 ---
-title: ImagePlacement.Image
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ImagePlacement. Ottiene l'oggetto risorsa XImage correlato
+title: "ImagePlacement.Image"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ImagePlacement. Ottiene l'oggetto risorsa XImage correlato"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/imageplacement/image/
 ---
-## Proprietà ImagePlacement.Image
+## ImagePlacement.Image property
 
 Ottiene l'oggetto risorsa XImage correlato.
 
@@ -14,9 +14,11 @@ Ottiene l'oggetto risorsa XImage correlato.
 public XImage Image { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XImage](../../ximage/)
-* classe [ImagePlacement](../)
+* class [XImage](../../ximage/)
+* class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

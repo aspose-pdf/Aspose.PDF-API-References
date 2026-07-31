@@ -1,21 +1,23 @@
 ---
-title: RedactionAnnotation.Redact
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo RedactionAnnotation. Appiattisce l'annotazione e redige i contenuti della pagina, ovvero rimuove testo e immagini sotto l'annotazione redatta
+title: "RedactionAnnotation.Redact"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo RedactionAnnotation. Appiattisce l'annotazione e redige i contenuti della pagina, cioè rimuove testo e immagine sotto l'annotazione redatta"
 type: docs
 weight: 130
 url: /it/net/aspose.pdf.annotations/redactionannotation/redact/
 ---
-## Metodo RedactionAnnotation.Redact
+## RedactionAnnotation.Redact method
 
-Appiattisce l'annotazione e redige i contenuti della pagina (ovvero rimuove testo e immagini sotto l'annotazione redatta)
+Appiattisce l'annotazione e cancella i contenuti della pagina (cioè rimuove testo e immagine sotto l'annotazione cancellata)
 
 ```csharp
 public void Redact()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RedactionAnnotation](../)
+* class [RedactionAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

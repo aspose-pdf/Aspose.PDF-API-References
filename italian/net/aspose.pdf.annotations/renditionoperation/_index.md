@@ -1,12 +1,12 @@
 ---
-title: Enum RenditionOperation
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Annotations.RenditionOperation enum. The operation to perform when the action is triggered
+title: "Enum RenditionOperation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Annotations.RenditionOperation enum. L'operazione da eseguire quando l'azione viene attivata"
 type: docs
-weight: 2450
+weight: 2540
 url: /it/net/aspose.pdf.annotations/renditionoperation/
 ---
-## Enumerazione RenditionOperation
+## RenditionOperation enumeration
 
 L'operazione da eseguire quando l'azione viene attivata.
 
@@ -18,14 +18,16 @@ public enum RenditionOperation
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| PlayStop | `0` | Se non è associata alcuna riproduzione all'annotazione, riproduci la riproduzione specificata, associandola all'annotazione. Se una riproduzione è già associata all'annotazione, deve essere fermata e la nuova riproduzione deve essere associata all'annotazione. |
-| Stop | `1` | Ferma qualsiasi riproduzione in corso associata all'annotazione. |
-| Pause | `2` | Metti in pausa qualsiasi riproduzione in corso associata all'annotazione. |
-| Resume | `3` | Riprendi qualsiasi riproduzione in corso associata all'annotazione. |
-| PlayResume | `4` | Riproduci la riproduzione specificata, associandola all'annotazione. Se una riproduzione è già associata all'annotazione, riprendi la riproduzione se è in pausa. |
+| PlayStop | `0` | Se nessun rendition è associato all'annotazione, riproduci il rendition specificato, associandolo all'annotazione. Se un rendition è già associato all'annotazione, deve essere interrotto e il nuovo rendition deve essere associato all'annotazione. |
+| Stop | `1` | Interrompi qualsiasi rendition in riproduzione associato all'annotazione. |
+| Pause | `2` | Metti in pausa qualsiasi rendition in riproduzione associato all'annotazione. |
+| Resume | `3` | Riprendi qualsiasi rendition in riproduzione associato all'annotazione. |
+| PlayResume | `4` | Riproduci il rendition specificato, associandolo all'annotazione. Se un rendition è già associato all'annotazione, riprendi il rendition se è in pausa. |
 | Undefined | `-1` | Operazione non definita. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

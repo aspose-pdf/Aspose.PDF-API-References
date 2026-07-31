@@ -1,14 +1,14 @@
 ---
-title: Enum FieldValueType
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.FieldValueType enum. Represents the type of a field value in a schema collection
+title: "Enum FieldValueType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.FieldValueType enum. Rappresenta il tipo di valore di campo in una raccolta di schema"
 type: docs
-weight: 4810
+weight: 4930
 url: /it/net/aspose.pdf/fieldvaluetype/
 ---
-## Enumerazione FieldValueType
+## FieldValueType enumeration
 
-Rappresenta il tipo di un valore di campo in una collezione di schemi.
+Rappresenta il tipo di valore di un campo in una raccolta di schema.
 
 ```csharp
 public enum FieldValueType
@@ -20,10 +20,12 @@ public enum FieldValueType
 | --- | --- | --- |
 | None | `0` | Rappresenta un valore per un tipo non definito. |
 | Text | `1` | Rappresenta un tipo di testo. |
-| Number | `2` | Rappresenta un tipo di numero. |
+| Number | `2` | Rappresenta un tipo numerico. |
 | Date | `3` | Rappresenta un tipo di data. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

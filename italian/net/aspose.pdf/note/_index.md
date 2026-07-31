@@ -1,14 +1,14 @@
 ---
-title: Class Note
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Note. Questa classe rappresenta una nota di paragrafo generatore
+title: "Classe Note"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Note. Questa classe rappresenta la nota di paragrafo del generatore"
 type: docs
-weight: 7020
+weight: 7160
 url: /it/net/aspose.pdf/note/
 ---
-## Classe Nota
+## Note class
 
-Questa classe rappresenta una nota di paragrafo generatore.
+Questa classe rappresenta la nota di paragrafo del generatore.
 
 ```csharp
 public sealed class Note
@@ -25,11 +25,13 @@ public sealed class Note
 
 | Nome | Descrizione |
 | --- | --- |
-| [Paragraphs](../../aspose.pdf/note/paragraphs/) { get; set; } | Ottiene o imposta una collezione che indica tutti i paragrafi nella Nota a piè di pagina. |
-| [Text](../../aspose.pdf/note/text/) { get; set; } | Ottiene o imposta un testo della nota. |
-| [TextState](../../aspose.pdf/note/textstate/) { get; set; } | Ottiene o imposta uno stato del testo della nota. |
+| [Paragraphs](../../aspose.pdf/note/paragraphs/) { get; set; } | Ottiene o imposta una raccolta che indica tutti i paragrafi nella FootNote. |
+| [Text](../../aspose.pdf/note/text/) { get; set; } | Ottiene o imposta il testo della nota. |
+| [TextState](../../aspose.pdf/note/textstate/) { get; set; } | Ottiene o imposta lo stato del testo della nota. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: BaseParagraph.Margin
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà BaseParagraph. Ottiene o imposta un margine esterno per il paragrafo per la generazione di pdf
+title: "BaseParagraph.Margin"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà BaseParagraph. Ottiene o imposta un margine esterno per il paragrafo per la generazione pdf."
 type: docs
 weight: 70
 url: /it/net/aspose.pdf/baseparagraph/margin/
 ---
-## Proprietà BaseParagraph.Margin
+## BaseParagraph.Margin property
 
-Ottiene o imposta un margine esterno per il paragrafo (per la generazione di pdf)
+Ottiene o imposta un margine esterno per il paragrafo (per la generazione di PDF)
 
 ```csharp
 public MarginInfo Margin { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [MarginInfo](../../margininfo/)
-* classe [BaseParagraph](../)
+* class [MarginInfo](../../margininfo/)
+* class [BaseParagraph](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

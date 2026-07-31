@@ -1,12 +1,12 @@
 ---
-title: PdfConverter.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di PdfConverter. Ottiene o imposta la risoluzione durante la conversione. Maggiore è la risoluzione, più lenta è la velocità di conversione. Il valore predefinito è 150
+title: "PdfConverter.Resolution"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfConverter. Ottiene o imposta la risoluzione durante la conversione. Maggiore è la risoluzione, più lenta è la velocità di conversione. Il valore predefinito è 150."
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.facades/pdfconverter/resolution/
 ---
-## Proprietà PdfConverter.Resolution
+## PdfConverter.Resolution property
 
 Ottiene o imposta la risoluzione durante la conversione. Maggiore è la risoluzione, più lenta è la velocità di conversione. Il valore predefinito è 150.
 
@@ -14,9 +14,11 @@ Ottiene o imposta la risoluzione durante la conversione. Maggiore è la risoluzi
 public Resolution Resolution { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Resolution](../../../aspose.pdf.devices/resolution/)
-* classe [PdfConverter](../)
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

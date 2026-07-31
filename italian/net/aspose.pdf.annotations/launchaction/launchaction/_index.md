@@ -1,7 +1,7 @@
 ---
-title: LaunchAction.LaunchAction
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di LaunchAction. Crea un'azione di avvio
+title: "LaunchAction.LaunchAction"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "LaunchAction costruttore. Crea un'azione di avvio"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/launchaction/launchaction/
@@ -18,9 +18,9 @@ public LaunchAction(string file)
 | --- | --- | --- |
 | file | String | Il file da avviare. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [LaunchAction](../)
+* class [LaunchAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -39,9 +39,11 @@ public LaunchAction(Document document, string file)
 | document | Document | Documento in cui verrà creata l'azione. |
 | file | String | Il file da avviare. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [LaunchAction](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [LaunchAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

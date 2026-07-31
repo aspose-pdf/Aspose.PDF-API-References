@@ -1,12 +1,12 @@
 ---
-title: Metadata.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Metadata. Ottiene la collezione di chiavi dei metadati
+title: "Metadata.Keys"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Metadata. Ottiene la collezione delle chiavi dei metadati"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf/metadata/keys/
 ---
-## Proprietà Metadata.Keys
+## Metadata.Keys property
 
 Ottiene la collezione di chiavi dei metadati.
 
@@ -14,8 +14,10 @@ Ottiene la collezione di chiavi dei metadati.
 public ICollection<string> Keys { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Metadata](../)
+* class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

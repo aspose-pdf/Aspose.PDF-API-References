@@ -1,12 +1,12 @@
 ---
-title: RequiredAction.RequiredAction
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di RequiredAction. Il costruttore predefinito
+title: "RequiredAction.RequiredAction"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore RequiredAction. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.ai/requiredaction/requiredaction/
 ---
-## Costruttore di RequiredAction
+## RequiredAction constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public RequiredAction()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RequiredAction](../)
+* class [RequiredAction](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

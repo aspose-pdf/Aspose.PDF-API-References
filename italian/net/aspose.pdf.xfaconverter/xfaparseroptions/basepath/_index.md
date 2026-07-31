@@ -1,12 +1,12 @@
 ---
-title: XfaParserOptions.BasePath
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XfaParserOptions. Ottiene o imposta il percorso di base
+title: "XfaParserOptions.BasePath"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà XfaParserOptions. Ottiene o imposta il percorso di base"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.xfaconverter/xfaparseroptions/basepath/
 ---
-## Proprietà XfaParserOptions.BasePath
+## XfaParserOptions.BasePath property
 
 Ottiene o imposta il percorso di base.
 
@@ -14,12 +14,14 @@ Ottiene o imposta il percorso di base.
 public Uri BasePath { get; set; }
 ```
 
-### Valore della Proprietà
+### Property Value
 
 Il percorso di base.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XfaParserOptions](../)
+* class [XfaParserOptions](../)
 * namespace [Aspose.Pdf.XfaConverter](../../../aspose.pdf.xfaconverter/)
 * assembly [Aspose.PDF](../../../)
+
+

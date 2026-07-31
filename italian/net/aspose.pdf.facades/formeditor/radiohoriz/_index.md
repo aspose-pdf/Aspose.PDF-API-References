@@ -1,14 +1,14 @@
 ---
-title: FormEditor.RadioHoriz
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FormEditor. Il flag per indicare se i radio sono disposti orizzontalmente o verticalmente, il valore predefinito è true
+title: "FormEditor.RadioHoriz"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FormEditor. Flag che indica se i radio sono disposti orizzontalmente o verticalmente; il valore predefinito è true"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.facades/formeditor/radiohoriz/
 ---
-## Proprietà FormEditor.RadioHoriz
+## FormEditor.RadioHoriz property
 
-Il flag per indicare se i radio sono disposti orizzontalmente o verticalmente, il valore predefinito è true.
+Il flag per indicare se i pulsanti radio sono disposti orizzontalmente o verticalmente, il valore predefinito è true.
 
 ```csharp
 public bool RadioHoriz { get; set; }
@@ -25,8 +25,10 @@ formEditor.AddField(FieldType.Radio, "AddedRadioButtonField", "Second", 1, 10, 3
 formEditor.Save();
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

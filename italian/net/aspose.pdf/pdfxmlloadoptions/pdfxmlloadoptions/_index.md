@@ -1,12 +1,12 @@
 ---
-title: PdfXmlLoadOptions.PdfXmlLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PdfXmlLoadOptions. Il costruttore predefinito
+title: "PdfXmlLoadOptions.PdfXmlLoadOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PdfXmlLoadOptions. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/pdfxmlloadoptions/pdfxmlloadoptions/
 ---
-## Costruttore di PdfXmlLoadOptions
+## PdfXmlLoadOptions constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public PdfXmlLoadOptions()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfXmlLoadOptions](../)
+* class [PdfXmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

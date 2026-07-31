@@ -1,12 +1,12 @@
 ---
-title: Bookmark.ChildItems
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del segnalibro. Ottiene o imposta i segnalibri figli
+title: "Bookmark.ChildItems"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Bookmark. Ottiene o imposta i figli dei segnalibri."
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.facades/bookmark/childitems/
 ---
-## Proprietà Bookmark.ChildItems
+## Bookmark.ChildItems property
 
 Ottiene o imposta i figli del segnalibro.
 
@@ -14,9 +14,11 @@ Ottiene o imposta i figli del segnalibro.
 public Bookmarks ChildItems { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Bookmarks](../../bookmarks/)
-* classe [Bookmark](../)
+* class [Bookmarks](../../bookmarks/)
+* class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

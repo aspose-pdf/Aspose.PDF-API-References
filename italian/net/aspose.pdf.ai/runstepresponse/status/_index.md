@@ -1,21 +1,23 @@
 ---
-title: RunStepResponse.Status
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà RunStepResponse. Ottiene o imposta lo stato del passo di esecuzione che può essere in_progress, cancellato, fallito, completato o scaduto
+title: "RunStepResponse.Status"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà RunStepResponse. Ottiene o imposta lo stato del passaggio di esecuzione, che può essere in_progress, cancelled, failed, completed o expired"
 type: docs
 weight: 140
 url: /it/net/aspose.pdf.ai/runstepresponse/status/
 ---
-## Proprietà RunStepResponse.Status
+## RunStepResponse.Status property
 
-Ottiene o imposta lo stato del passo di esecuzione, che può essere in_progress, cancellato, fallito, completato o scaduto.
+Ottiene o imposta lo stato del passaggio di esecuzione, che può essere in_progress, cancelled, failed, completed o expired.
 
 ```csharp
 public string Status { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [RunStepResponse](../)
+* class [RunStepResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

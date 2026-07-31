@@ -1,14 +1,14 @@
 ---
-title: Class GradientAxialShading
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Drawing.GradientAxialShading. Rappresenta la classe di sfumatura assiale gradiente
+title: "Classe GradientAxialShading"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Drawing.GradientAxialShading. Rappresenta la classe di sfumatura assiale gradiente."
 type: docs
-weight: 3920
+weight: 4040
 url: /it/net/aspose.pdf.drawing/gradientaxialshading/
 ---
-## Classe GradientAxialShading
+## GradientAxialShading class
 
-Rappresenta la classe di sfumatura assiale gradiente.
+Rappresenta la classe di sfumatura assiale del gradiente.
 
 ```csharp
 public class GradientAxialShading : PatternColorSpace
@@ -27,11 +27,13 @@ public class GradientAxialShading : PatternColorSpace
 | --- | --- |
 | [End](../../aspose.pdf.drawing/gradientaxialshading/end/) { get; set; } | Ottiene o imposta il punto finale. |
 | [EndColor](../../aspose.pdf.drawing/gradientaxialshading/endcolor/) { get; set; } | Ottiene o imposta il colore finale. |
-| [Start](../../aspose.pdf.drawing/gradientaxialshading/start/) { get; set; } | Ottiene o imposta il punto di partenza. |
-| [StartColor](../../aspose.pdf.drawing/gradientaxialshading/startcolor/) { get; set; } | Ottiene o imposta il colore di partenza. |
+| [Start](../../aspose.pdf.drawing/gradientaxialshading/start/) { get; set; } | Ottiene o imposta il punto iniziale. |
+| [StartColor](../../aspose.pdf.drawing/gradientaxialshading/startcolor/) { get; set; } | Ottiene o imposta il colore iniziale. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PatternColorSpace](../patterncolorspace/)
+* class [PatternColorSpace](../patterncolorspace/)
 * namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
+
+

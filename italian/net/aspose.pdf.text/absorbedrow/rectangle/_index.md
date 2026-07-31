@@ -1,22 +1,24 @@
 ---
-title: AbsorbedRow.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: AbsorbedRow property. Gets rectangle that describes position of the row on page
+title: "AbsorbedRow.Rectangle"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà AbsorbedRow. Ottiene il rettangolo che descrive la posizione della riga nella pagina"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.text/absorbedrow/rectangle/
 ---
-## Proprietà AbsorbedRow.Rectangle
+## AbsorbedRow.Rectangle property
 
-Ottiene il rettangolo che descrive la posizione della riga sulla pagina
+Ottiene il rettangolo che descrive la posizione della riga nella pagina
 
 ```csharp
 public Rectangle Rectangle { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rectangle](../../../aspose.pdf/rectangle/)
-* classe [AbsorbedRow](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [AbsorbedRow](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

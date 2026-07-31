@@ -1,12 +1,12 @@
 ---
-title: Enum FormType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum FormType di Aspose.Pdf.Forms. Enumerazione dei possibili tipi di Acro Form
+title: "Enum FormType"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Enum Aspose.Pdf.Forms.FormType. Enumerazione dei possibili tipi di Acro Form"
 type: docs
-weight: 5100
+weight: 5220
 url: /it/net/aspose.pdf.forms/formtype/
 ---
-## Enumerazione FormType
+## FormType enumeration
 
 Enumerazione dei possibili tipi di Acro Form.
 
@@ -22,7 +22,9 @@ public enum FormType
 | Static | `1` | Modulo XFA statico. |
 | Dynamic | `2` | Modulo XFA dinamico. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

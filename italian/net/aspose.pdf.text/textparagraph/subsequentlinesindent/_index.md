@@ -1,21 +1,23 @@
 ---
-title: TextParagraph.SubsequentLinesIndent
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextParagraph. Ottiene o imposta il valore dell'indentazione delle linee successive. Se impostato su un valore diverso da zero, ha un vantaggio rispetto al valore di FormattingOptions.SubsequentLinesIndent
+title: "TextParagraph.SubsequentLinesIndent"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextParagraph. Ottiene o imposta il valore di rientro delle righe successive. Se impostato a un valore diverso da zero ha un vantaggio rispetto al valore FormattingOptions.SubsequentLinesIndent"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.text/textparagraph/subsequentlinesindent/
 ---
-## Proprietà TextParagraph.SubsequentLinesIndent
+## TextParagraph.SubsequentLinesIndent property
 
-Ottiene o imposta il valore dell'indentazione delle linee successive. Se impostato su un valore diverso da zero, ha un vantaggio rispetto al valore di FormattingOptions.SubsequentLinesIndent.
+Ottiene o imposta il valore di rientro delle righe successive. Se impostato a un valore diverso da zero, ha un vantaggio rispetto al valore FormattingOptions.SubsequentLinesIndent.
 
 ```csharp
 public float SubsequentLinesIndent { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextParagraph](../)
+* class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

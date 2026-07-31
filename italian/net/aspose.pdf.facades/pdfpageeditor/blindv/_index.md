@@ -1,21 +1,23 @@
 ---
-title: PdfPageEditor.BLINDV
-second_title: Aspose.PDF for .NET API Reference
-description: Campo PdfPageEditor. Tende Verticali
+title: "PdfPageEditor.BLINDV"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo PdfPageEditor. Persiane verticali"
 type: docs
 weight: 200
 url: /it/net/aspose.pdf.facades/pdfpageeditor/blindv/
 ---
-## Campo PdfPageEditor.BLINDV
+## PdfPageEditor.BLINDV field
 
-Tende Verticali
+Tende verticali
 
 ```csharp
 public const int BLINDV;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfPageEditor](../)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfQueryPageSettingsEventArgs.PdfQueryPageSettingsEventArgs
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PdfQueryPageSettingsEventArgs. Inizializza una nuova istanza della classe PdfQueryPageSettingsEventArgs
+title: "PdfQueryPageSettingsEventArgs.PdfQueryPageSettingsEventArgs"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PdfQueryPageSettingsEventArgs costruttore. Inizializza una nuova istanza della classe PdfQueryPageSettingsEventArgs"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.printing/pdfquerypagesettingseventargs/pdfquerypagesettingseventargs/
 ---
-## Costruttore di PdfQueryPageSettingsEventArgs
+## PdfQueryPageSettingsEventArgs constructor
 
 Inizializza una nuova istanza della classe [`PdfQueryPageSettingsEventArgs`](../).
 
@@ -16,11 +16,13 @@ public PdfQueryPageSettingsEventArgs(PageSettings pageSettings)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pageSettings | PageSettings | Le impostazioni della pagina per la pagina da stampare. |
+| pageSettings | PageSettings | Le impostazioni della pagina da stampare. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageSettings](../../pagesettings/)
-* classe [PdfQueryPageSettingsEventArgs](../)
+* class [PageSettings](../../pagesettings/)
+* class [PdfQueryPageSettingsEventArgs](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

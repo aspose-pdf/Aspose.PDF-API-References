@@ -1,20 +1,22 @@
 ---
-title: Interface IPluginOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Interfaccia Aspose.Pdf.Plugins.IPluginOptions. Interfaccia generale delle opzioni del plugin che definisce i metodi comuni che un'opzione di plugin concreta dovrebbe implementare
+title: "Interfaccia IPluginOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Interfaccia Aspose.Pdf.Plugins.IPluginOptions. Interfaccia di opzione del plugin generale che definisce i metodi comuni che l'opzione del plugin concreta deve implementare"
 type: docs
-weight: 8870
+weight: 9000
 url: /it/net/aspose.pdf.plugins/ipluginoptions/
 ---
-## Interfaccia IPluginOptions
+## IPluginOptions interface
 
-Interfaccia generale delle opzioni del plugin che definisce i metodi comuni che un'opzione di plugin concreta dovrebbe implementare.
+Interfaccia generale delle opzioni del plugin che definisce i metodi comuni che l'opzione del plugin concreto deve implementare.
 
 ```csharp
 public interface IPluginOptions
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

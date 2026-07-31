@@ -1,7 +1,7 @@
 ---
-title: GlyphPosition.GlyphPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore GlyphPosition. Costruisce la posizione del glifo
+title: "GlyphPosition.GlyphPosition"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore GlyphPosition. Costruisce la posizione del glifo"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.operators/glyphposition/glyphposition/
@@ -16,12 +16,12 @@ public GlyphPosition(string text, double position)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| text | String | Valore del testo. |
+| testo | String | Valore del testo. |
 | position | Double | Valore della posizione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GlyphPosition](../)
+* class [GlyphPosition](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -29,7 +29,7 @@ public GlyphPosition(string text, double position)
 
 ## GlyphPosition(string) {#constructor}
 
-Costruttore per la posizione del glifo.
+Costruttore per Glyph Position.
 
 ```csharp
 public GlyphPosition(string text)
@@ -37,10 +37,12 @@ public GlyphPosition(string text)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| text | String | Valore del testo. |
+| testo | String | Valore del testo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GlyphPosition](../)
+* class [GlyphPosition](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

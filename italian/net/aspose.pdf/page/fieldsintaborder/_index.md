@@ -1,12 +1,12 @@
 ---
-title: Page.FieldsInTabOrder
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà della pagina. Ottiene l'elenco degli oggetti Field in ordine Tab su questa pagina
+title: "Page.FieldsInTabOrder"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Page. Ottiene l'elenco degli oggetti Field in ordine Tab su questa pagina"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf/page/fieldsintaborder/
 ---
-## Proprietà Page.FieldsInTabOrder
+## Page.FieldsInTabOrder property
 
 Ottiene l'elenco degli oggetti Field in ordine Tab su questa pagina.
 
@@ -14,9 +14,11 @@ Ottiene l'elenco degli oggetti Field in ordine Tab su questa pagina.
 public IList<Field> FieldsInTabOrder { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Field](../../../aspose.pdf.forms/field/)
-* classe [Page](../)
+* class [Field](../../../aspose.pdf.forms/field/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

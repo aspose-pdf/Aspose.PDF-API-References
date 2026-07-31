@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionValueType.Fields
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XmpPdfAExtensionValueType. Ottiene l'elenco dei campi
+title: "XmpPdfAExtensionValueType.Fields"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "proprietà XmpPdfAExtensionValueType. Restituisce l'elenco dei campi"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/xmppdfaextensionvaluetype/fields/
 ---
-## Proprietà XmpPdfAExtensionValueType.Fields
+## XmpPdfAExtensionValueType.Fields property
 
 Ottiene l'elenco dei campi.
 
@@ -14,9 +14,11 @@ Ottiene l'elenco dei campi.
 public IList<XmpPdfAExtensionField> Fields { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
-* classe [XmpPdfAExtensionValueType](../)
+* class [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
+* class [XmpPdfAExtensionValueType](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

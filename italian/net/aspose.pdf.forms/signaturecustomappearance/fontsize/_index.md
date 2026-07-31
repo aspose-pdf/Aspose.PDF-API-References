@@ -1,12 +1,12 @@
 ---
-title: SignatureCustomAppearance.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SignatureCustomAppearance. Ottiene/imposta la dimensione del carattere. Valore predefinito 10
+title: "SignatureCustomAppearance.FontSize"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SignatureCustomAppearance. Ottiene/imposta la dimensione del carattere. Valore predefinito 10"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.forms/signaturecustomappearance/fontsize/
 ---
-## Proprietà SignatureCustomAppearance.FontSize
+## SignatureCustomAppearance.FontSize property
 
 Ottiene/imposta la dimensione del carattere. Valore predefinito: 10.
 
@@ -14,8 +14,10 @@ Ottiene/imposta la dimensione del carattere. Valore predefinito: 10.
 public double FontSize { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SignatureCustomAppearance](../)
+* class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

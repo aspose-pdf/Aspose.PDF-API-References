@@ -1,14 +1,14 @@
 ---
-title: MarkupAnnotation.MarkupAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di MarkupAnnotation. Costruttore per annotazione di markup
+title: "MarkupAnnotation.MarkupAnnotation"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "MarkupAnnotation costruttore. Costruttore per l'annotazione markup"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.annotations/markupannotation/markupannotation/
 ---
-## Costruttore di MarkupAnnotation
+## MarkupAnnotation constructor
 
-Costruttore per annotazione di markup.
+Costruttore per l'annotazione markup.
 
 ```csharp
 public MarkupAnnotation(Document document)
@@ -18,9 +18,11 @@ public MarkupAnnotation(Document document)
 | --- | --- | --- |
 | document | Document | Documento in cui verrà creata l'annotazione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../../../aspose.pdf/document/)
-* classe [MarkupAnnotation](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

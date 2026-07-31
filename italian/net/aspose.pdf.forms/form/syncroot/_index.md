@@ -1,12 +1,12 @@
 ---
-title: Form.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del modulo. Restituisce l'oggetto di sincronizzazione
+title: "Form.SyncRoot"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Form. Restituisce l'oggetto di sincronizzazione"
 type: docs
-weight: 150
+weight: 170
 url: /it/net/aspose.pdf.forms/form/syncroot/
 ---
-## Proprietà Form.SyncRoot
+## Form.SyncRoot property
 
 Restituisce l'oggetto di sincronizzazione.
 
@@ -14,8 +14,10 @@ Restituisce l'oggetto di sincronizzazione.
 public object SyncRoot { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

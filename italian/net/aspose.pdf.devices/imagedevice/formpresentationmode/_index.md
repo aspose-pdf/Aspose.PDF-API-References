@@ -1,12 +1,12 @@
 ---
-title: ImageDevice.FormPresentationMode
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di ImageDevice. Ottiene o imposta la modalità di presentazione del modulo
+title: "ImageDevice.FormPresentationMode"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà ImageDevice. Ottiene o imposta la modalità di presentazione del modulo"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.devices/imagedevice/formpresentationmode/
 ---
-## Proprietà ImageDevice.FormPresentationMode
+## ImageDevice.FormPresentationMode property
 
 Ottiene o imposta la modalità di presentazione del modulo.
 
@@ -14,9 +14,11 @@ Ottiene o imposta la modalità di presentazione del modulo.
 public FormPresentationMode FormPresentationMode { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [FormPresentationMode](../../formpresentationmode/)
 * class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

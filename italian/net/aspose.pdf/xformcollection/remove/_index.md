@@ -1,14 +1,14 @@
 ---
-title: XFormCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo XFormCollection. Elimina l'elemento specificato dalla collezione
+title: "XFormCollection.Remove"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo XFormCollection. Elimina l'elemento specificato dalla collezione"
 type: docs
 weight: 140
 url: /it/net/aspose.pdf/xformcollection/remove/
 ---
-## Metodo XFormCollection.Remove
+## XFormCollection.Remove method
 
-Elimina l'elemento specificato dalla collezione.
+Elimina l'elemento specificato dalla raccolta.
 
 ```csharp
 public bool Remove(XForm item)
@@ -18,13 +18,15 @@ public bool Remove(XForm item)
 | --- | --- | --- |
 | item | XForm | L'oggetto da eliminare |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 true se l'elemento è stato eliminato dalla collezione; altrimenti, false.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XForm](../../xform/)
-* classe [XFormCollection](../)
+* class [XForm](../../xform/)
+* class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

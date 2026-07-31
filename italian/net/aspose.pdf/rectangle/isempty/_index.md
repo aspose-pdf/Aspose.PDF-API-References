@@ -1,21 +1,23 @@
 ---
-title: Rectangle.IsEmpty
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Rectangle. Controlla se il rettangolo è vuoto
+title: "Rectangle.IsEmpty"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Rectangle. Verifica se il rettangolo è vuoto"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf/rectangle/isempty/
 ---
-## Proprietà Rectangle.IsEmpty
+## Rectangle.IsEmpty property
 
-Controlla se il rettangolo è vuoto.
+Verifica se il rettangolo è vuoto.
 
 ```csharp
 public bool IsEmpty { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

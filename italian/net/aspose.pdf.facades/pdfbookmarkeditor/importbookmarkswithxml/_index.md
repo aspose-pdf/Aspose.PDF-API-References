@@ -1,24 +1,24 @@
 ---
-title: PdfBookmarkEditor.ImportBookmarksWithXML
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfBookmarkEditor. Importa segnalibri nel documento da file XML
+title: "PdfBookmarkEditor.ImportBookmarksWithXML"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfBookmarkEditor. Importa i segnalibri nel documento da un file XML"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.facades/pdfbookmarkeditor/importbookmarkswithxml/
 ---
 ## ImportBookmarksWithXML(string) {#importbookmarkswithxml_1}
 
-Importa segnalibri nel documento da file XML.
+Importa i segnalibri nel Document da un file XML.
 
 ```csharp
 public void ImportBookmarksWithXML(string xmlFile)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | xmlFile | String | Il file XML contenente l'elenco dei segnalibri. |
 
-## Examples
+## Esempi
 
 ```csharp
 PdfBookmarkEditor editor = new PdfBookmarkEditor();
@@ -27,7 +27,7 @@ editor.ImportBookmarksWithXML("bookmarks.xml");
 editor.Save("example_out.pdf");
 ```
 
-### See Also
+### Vedi anche
 
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -37,18 +37,20 @@ editor.Save("example_out.pdf");
 
 ## ImportBookmarksWithXML(Stream) {#importbookmarkswithxml}
 
-Importa segnalibri nel documento da file XML.
+Importa i segnalibri nel Document da un file XML.
 
 ```csharp
 public void ImportBookmarksWithXML(Stream stream)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| stream | Stream | Stream con i dati dei segnalibri. |
+| stream | Stream | Flusso con i dati dei segnalibri. |
 
-### See Also
+### Vedi anche
 
 * class [PdfBookmarkEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

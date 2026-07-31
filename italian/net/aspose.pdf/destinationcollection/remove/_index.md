@@ -1,14 +1,14 @@
 ---
-title: DestinationCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: DestinazioneCollection metodo. Rimuove l'oggetto specificato. La collezione è in lettura. Sempre lancia l'eccezione NotSupportedException.
+title: "DestinationCollection.Remove"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo DestinationCollection. Rimuove l'elemento specificato. La raccolta è di sola lettura. Lancia sempre l'eccezione NotSupportedException."
 type: docs
 weight: 120
 url: /it/net/aspose.pdf/destinationcollection/remove/
 ---
-## Metodo DestinationCollection.Remove
+## DestinationCollection.Remove method
 
-Rimuove l'elemento specificato. La collezione è di sola lettura. Genera sempre un'eccezione NotSupportedException.
+Rimuove l'elemento specificato. La raccolta è di sola lettura. Lancia sempre l'eccezione NotSupportedException.
 
 ```csharp
 public bool Remove(KeyValuePair<string, object> item)
@@ -24,8 +24,10 @@ public bool Remove(KeyValuePair<string, object> item)
 | --- | --- |
 | NotSupportedException |  |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DestinationCollection](../)
+* class [DestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

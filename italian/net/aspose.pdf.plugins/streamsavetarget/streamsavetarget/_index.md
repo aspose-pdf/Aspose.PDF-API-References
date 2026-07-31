@@ -1,14 +1,14 @@
 ---
-title: StreamSaveTarget.StreamSaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di StreamSaveTarget. Inizializza un nuovo obiettivo di salvataggio dello stream
+title: "StreamSaveTarget.StreamSaveTarget"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore StreamSaveTarget. Inizializza una nuova destinazione di salvataggio stream"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.plugins/streamsavetarget/streamsavetarget/
 ---
-## Costruttore di StreamSaveTarget
+## StreamSaveTarget constructor
 
-Inizializza un nuovo obiettivo di salvataggio dello stream.
+Inizializza una nuova destinazione di salvataggio stream.
 
 ```csharp
 public StreamSaveTarget(Stream stream)
@@ -16,10 +16,12 @@ public StreamSaveTarget(Stream stream)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| stream | Stream | Stream per l'obiettivo di salvataggio. |
+| stream | Stream | Flusso per la destinazione di salvataggio. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StreamSaveTarget](../)
+* class [StreamSaveTarget](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

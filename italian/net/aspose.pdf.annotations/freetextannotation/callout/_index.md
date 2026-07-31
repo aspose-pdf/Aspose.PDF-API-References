@@ -1,12 +1,12 @@
 ---
-title: FreeTextAnnotation.Callout
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FreeTextAnnotation. Array di punti che specificano la linea di richiamo
+title: "FreeTextAnnotation.Callout"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FreeTextAnnotation property. Array di punti che specificano la linea di richiamo"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.annotations/freetextannotation/callout/
 ---
-## Proprietà FreeTextAnnotation.Callout
+## FreeTextAnnotation.Callout property
 
 Array di punti che specificano la linea di richiamo.
 
@@ -14,9 +14,11 @@ Array di punti che specificano la linea di richiamo.
 public Point[] Callout { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Point](../../../aspose.pdf/point/)
-* classe [FreeTextAnnotation](../)
+* class [Point](../../../aspose.pdf/point/)
+* class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

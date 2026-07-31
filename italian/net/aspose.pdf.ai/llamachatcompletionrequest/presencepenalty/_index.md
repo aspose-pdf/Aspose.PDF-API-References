@@ -1,12 +1,12 @@
 ---
-title: LlamaChatCompletionRequest.PresencePenalty
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà LlamaChatCompletionRequest. Imposta o ottiene la penalità di presenza da utilizzare durante il campionamento
+title: "LlamaChatCompletionRequest.PresencePenalty"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "LlamaChatCompletionRequest property. Imposta o ottiene la penalità di presenza da utilizzare durante il campionamento"
 type: docs
 weight: 80
 url: /it/net/aspose.pdf.ai/llamachatcompletionrequest/presencepenalty/
 ---
-## Proprietà LlamaChatCompletionRequest.PresencePenalty
+## LlamaChatCompletionRequest.PresencePenalty property
 
 Imposta o ottiene la penalità di presenza da utilizzare durante il campionamento.
 
@@ -14,8 +14,10 @@ Imposta o ottiene la penalità di presenza da utilizzare durante il campionament
 public float? PresencePenalty { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [LlamaChatCompletionRequest](../)
+* class [LlamaChatCompletionRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PageCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: PageCollection property. Returns true of object is synchorinzed
+title: "PageCollection.IsSynchronized"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PageCollection. Restituisce true se l'oggetto è sincronizzato"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/pagecollection/issynchronized/
 ---
-## Proprietà PageCollection.IsSynchronized
+## PageCollection.IsSynchronized property
 
 Restituisce true se l'oggetto è sincronizzato.
 
@@ -14,8 +14,10 @@ Restituisce true se l'oggetto è sincronizzato.
 public bool IsSynchronized { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageCollection](../)
+* class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

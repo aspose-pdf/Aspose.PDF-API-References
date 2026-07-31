@@ -1,12 +1,12 @@
 ---
-title: XmpValue.IsArray
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XmpValue. Restituisce true se XmpValue è un array
+title: "XmpValue.IsArray"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà XmpValue. Restituisce true se XmpValue è un array"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/xmpvalue/isarray/
 ---
-## Proprietà XmpValue.IsArray
+## XmpValue.IsArray property
 
 Restituisce true se XmpValue è un array.
 
@@ -14,8 +14,10 @@ Restituisce true se XmpValue è un array.
 public bool IsArray { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpValue](../)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

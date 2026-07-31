@@ -1,7 +1,7 @@
 ---
-title: XYZExplicitDestination.CreateDestinationToUpperLeftCorner
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo XYZExplicitDestination. Crea una destinazione nell'angolo in alto a sinistra della pagina specificata
+title: "XYZExplicitDestination.CreateDestinationToUpperLeftCorner"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "metodo XYZExplicitDestination. Crea una destinazione nell'angolo in alto a sinistra della pagina specificata"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.annotations/xyzexplicitdestination/createdestinationtoupperleftcorner/
@@ -14,16 +14,16 @@ Crea una destinazione nell'angolo in alto a sinistra della pagina specificata.
 public static XYZExplicitDestination CreateDestinationToUpperLeftCorner(Page page, double zoom)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | Pagina di destinazione. |
+| pagina | Page | Destinazione Page. |
 | zoom | Double | Fattore di zoom. |
 
-### Return Value
+### Valore di ritorno
 
-Oggetto di destinazione.
+Oggetto destinazione.
 
-### See Also
+### Vedi anche
 
 * class [Page](../../../aspose.pdf/page/)
 * class [XYZExplicitDestination](../)
@@ -40,17 +40,19 @@ Crea una destinazione per la pagina specificata.
 public static XYZExplicitDestination CreateDestinationToUpperLeftCorner(Page page)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| page | Page | Pagina di destinazione. |
+| pagina | Page | Destinazione Page. |
 
-### Return Value
+### Valore di ritorno
 
-Oggetto di destinazione.
+Oggetto destinazione.
 
-### See Also
+### Vedi anche
 
 * class [Page](../../../aspose.pdf/page/)
 * class [XYZExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

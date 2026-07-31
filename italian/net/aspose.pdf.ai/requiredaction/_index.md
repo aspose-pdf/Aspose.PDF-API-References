@@ -1,14 +1,14 @@
 ---
-title: Class RequiredAction
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.RequiredAction. Dettagli sull'azione richiesta per continuare l'esecuzione. Sarà nullo se non è richiesta alcuna azione
+title: "Classe RequiredAction"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.AI.RequiredAction. Dettagli sull'azione necessaria per continuare l'esecuzione. Sarà null se non è richiesta alcuna azione."
 type: docs
-weight: 950
+weight: 1030
 url: /it/net/aspose.pdf.ai/requiredaction/
 ---
-## Classe RequiredAction
+## RequiredAction class
 
-Dettagli sull'azione richiesta per continuare l'esecuzione. Sarà nullo se non è richiesta alcuna azione.
+Dettagli sull'azione necessaria per continuare l'esecuzione. Sarà null se non è richiesta alcuna azione.
 
 ```csharp
 public class RequiredAction
@@ -24,10 +24,12 @@ public class RequiredAction
 
 | Nome | Descrizione |
 | --- | --- |
-| [RequiredActionType](../../aspose.pdf.ai/requiredaction/requiredactiontype/) { get; set; } | Ottiene o imposta il tipo di azione che è richiesta. |
-| [SubmitToolOutputs](../../aspose.pdf.ai/requiredaction/submittooloutputs/) { get; set; } | Ottiene o imposta i dettagli sugli output degli strumenti necessari per continuare questa esecuzione. |
+| [RequiredActionType](../../aspose.pdf.ai/requiredaction/requiredactiontype/) { get; set; } | Ottiene o imposta il tipo di azione richiesto. |
+| [SubmitToolOutputs](../../aspose.pdf.ai/requiredaction/submittooloutputs/) { get; set; } | Ottiene o imposta i dettagli sugli output dello strumento necessari per continuare questa esecuzione. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

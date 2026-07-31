@@ -1,14 +1,14 @@
 ---
-title: PageCollectionExtensions.AddPagination
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PageCollectionExtensions. Aggiunge gli artefatti di paginazione specificati a ciascuna pagina nella collezione di pagine fornita
+title: "PageCollectionExtensions.AddPagination"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PageCollectionExtensions. Aggiunge gli artefatti di paginazione specificati a ogni pagina nella collezione di pagine fornita"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf/pagecollectionextensions/addpagination/
 ---
-## Metodo PageCollectionExtensions.AddPagination
+## PageCollectionExtensions.AddPagination method
 
-Aggiunge gli artefatti di paginazione specificati a ciascuna pagina nella collezione di pagine fornita.
+Aggiunge gli artefatti di impaginazione specificati a ogni pagina nella collezione di pagine fornita.
 
 ```csharp
 public static void AddPagination(this PageCollection pageCollection, 
@@ -18,12 +18,14 @@ public static void AddPagination(this PageCollection pageCollection,
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | pageCollection | PageCollection | La collezione di pagine a cui verranno aggiunti gli artefatti di paginazione. |
-| artifacts | List`1 | La lista degli artefatti di paginazione da aggiungere a ciascuna pagina. |
+| artefatti | List`1 | L'elenco degli artefatti di paginazione da aggiungere a ogni pagina. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageCollection](../../pagecollection/)
-* classe [PaginationArtifact](../../paginationartifact/)
-* classe [PageCollectionExtensions](../)
+* class [PageCollection](../../pagecollection/)
+* class [PaginationArtifact](../../paginationartifact/)
+* class [PageCollectionExtensions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

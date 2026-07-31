@@ -1,7 +1,7 @@
 ---
-title: DiffOperation.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo DiffOperation
+title: "DiffOperation.Equals"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo DiffOperation."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.comparison/diffoperation/equals/
@@ -12,9 +12,9 @@ url: /it/net/aspose.pdf.comparison/diffoperation/equals/
 public override bool Equals(object other)
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DiffOperation](../)
+* class [DiffOperation](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
 
@@ -26,8 +26,10 @@ public override bool Equals(object other)
 public bool Equals(DiffOperation op)
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DiffOperation](../)
+* class [DiffOperation](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Document.Permissions
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà del documento. Ottiene i permessi del documento
+title: "Document.Permissions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Document. Ottiene le autorizzazioni del documento"
 type: docs
-weight: 490
+weight: 510
 url: /it/net/aspose.pdf/document/permissions/
 ---
-## Proprietà Document.Permissions
+## Document.Permissions property
 
 Ottiene i permessi del documento.
 
@@ -14,8 +14,10 @@ Ottiene i permessi del documento.
 public int Permissions { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

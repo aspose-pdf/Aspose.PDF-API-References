@@ -1,12 +1,12 @@
 ---
-title: Image.Image
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore dell'immagine. Il costruttore predefinito
+title: "Image.Image"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore Image. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/image/image/
 ---
-## Costruttore dell'immagine
+## Image constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public Image()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Image](../)
+* class [Image](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

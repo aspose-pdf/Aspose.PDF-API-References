@@ -1,12 +1,12 @@
 ---
-title: Color.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Color. Restituisce true se due colori sono uguali
+title: "Color.Equals"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Color. Restituisce true se due Color sono uguali"
 type: docs
 weight: 1530
 url: /it/net/aspose.pdf/color/equals/
 ---
-## Metodo Color.Equals
+## Color.Equals method
 
 Restituisce true se due colori sono uguali.
 
@@ -16,7 +16,7 @@ public override bool Equals(object obj)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| obj | Object | Oggetto da confrontare. |
+| obj | Oggetto | Oggetto da confrontare. |
 
 ### Valore di ritorno
 
@@ -24,6 +24,8 @@ True nel caso in cui gli oggetti Color siano uguali.
 
 ### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

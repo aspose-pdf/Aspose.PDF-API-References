@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchema.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo XmpPdfAExtensionSchema. Rimuove l'oggetto dallo schema
+title: "XmpPdfAExtensionSchema.Remove"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "XmpPdfAExtensionSchema metodo. Rimuove l'oggetto dallo schema"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf/xmppdfaextensionschema/remove/
 ---
-## Metodo XmpPdfAExtensionSchema.Remove
+## XmpPdfAExtensionSchema.Remove method
 
 Rimuove l'oggetto dallo schema.
 
@@ -18,9 +18,11 @@ public void Remove(XmpPdfAExtensionObject obj)
 | --- | --- | --- |
 | obj | XmpPdfAExtensionObject | L'oggetto da rimuovere. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
-* classe [XmpPdfAExtensionSchema](../)
+* class [XmpPdfAExtensionObject](../../xmppdfaextensionobject/)
+* class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

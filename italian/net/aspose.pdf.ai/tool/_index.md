@@ -1,12 +1,12 @@
 ---
-title: Class Tool
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.AI.Tool. Rappresenta uno strumento che può essere chiamato dal modello
+title: "Classe Tool"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.AI.Tool classe. Rappresenta uno strumento che può essere chiamato dal modello."
 type: docs
-weight: 1190
+weight: 1280
 url: /it/net/aspose.pdf.ai/tool/
 ---
-## Classe Strumento
+## Tool class
 
 Rappresenta uno strumento che può essere chiamato dal modello.
 
@@ -26,18 +26,20 @@ public class Tool
 
 | Nome | Descrizione |
 | --- | --- |
-| static [CodeInterpreter](../../aspose.pdf.ai/tool/codeinterpreter/) { get; } | Ottiene un'istanza dello strumento che rappresenta un interprete di codice. |
-| static [FileSearch](../../aspose.pdf.ai/tool/filesearch/) { get; } | Ottiene un'istanza dello strumento che rappresenta uno strumento di ricerca file. |
+| static [CodeInterpreter](../../aspose.pdf.ai/tool/codeinterpreter/) { get; } | Ottiene un'istanza di strumento che rappresenta un interprete di codice. |
+| static [FileSearch](../../aspose.pdf.ai/tool/filesearch/) { get; } | Ottiene un'istanza di strumento che rappresenta uno strumento di ricerca file. |
 | [ToolFunction](../../aspose.pdf.ai/tool/toolfunction/) { get; set; } | Ottiene o imposta la funzione che il modello può chiamare. |
-| [ToolType](../../aspose.pdf.ai/tool/tooltype/) { get; set; } | Ottiene o imposta il tipo dello strumento. Attualmente, è supportata solo la funzione. |
+| [ToolType](../../aspose.pdf.ai/tool/tooltype/) { get; set; } | Ottiene o imposta il tipo di strumento. Attualmente, è supportata solo la funzione. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| static [Function](../../aspose.pdf.ai/tool/function/)(Function) | Crea una nuova istanza dello strumento con la funzione specificata. |
+| static [Function](../../aspose.pdf.ai/tool/function/)(Function) | Crea una nuova istanza di strumento con la funzione specificata. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PageSize.PageLedger
-second_title: Aspose.PDF for .NET API Reference
-description: Dimensione della Pagina - Proprietà. Dimensione del Libro Mastro 432x279 mm
+title: "PageSize.PageLedger"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PageSize. Formato Ledger 432x279 mm"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf/pagesize/pageledger/
 ---
-## Proprietà PageSize.PageLedger
+## PageSize.PageLedger property
 
-Dimensione del ledger (432x279 mm).
+Formato Ledger (432x279 mm).
 
 ```csharp
 public static PageSize PageLedger { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageSize](../)
+* class [PageSize](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

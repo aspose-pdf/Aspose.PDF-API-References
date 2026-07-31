@@ -1,14 +1,14 @@
 ---
-title: Class Characteristics
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.Characteristics. Rappresenta le caratteristiche delle annotazioni
+title: "Classe Characteristics"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Annotations.Characteristics. Rappresenta le caratteristiche dell'annotazione."
 type: docs
-weight: 1580
+weight: 1670
 url: /it/net/aspose.pdf.annotations/characteristics/
 ---
-## Classe Characteristics
+## Characteristics class
 
-Rappresenta le caratteristiche delle annotazioni
+Rappresenta le caratteristiche dell'annotazione
 
 ```csharp
 public sealed class Characteristics
@@ -22,7 +22,9 @@ public sealed class Characteristics
 | [Border](../../aspose.pdf.annotations/characteristics/border/) { get; set; } | Ottiene o imposta il colore del bordo. |
 | [Rotate](../../aspose.pdf.annotations/characteristics/rotate/) { get; set; } | Ottiene o imposta la rotazione dell'annotazione. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

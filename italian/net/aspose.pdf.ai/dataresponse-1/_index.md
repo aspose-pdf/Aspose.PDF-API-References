@@ -1,12 +1,12 @@
 ---
-title: Class DataResponseT
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.DataResponse1T class. Represents a data response containing the specified data
+title: "Classe DataResponseT"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.AI.DataResponse1T classe. Rappresenta una risposta dati contenente i dati specificati"
 type: docs
-weight: 300
+weight: 310
 url: /it/net/aspose.pdf.ai/dataresponse-1/
 ---
-## DataResponse&lt;T&gt; classe
+## DataResponse&lt;T&gt; class
 
 Rappresenta una risposta dati contenente i dati specificati.
 
@@ -34,11 +34,13 @@ public class DataResponse<T> : BaseResponse
 | [ErrorMessage](../../aspose.pdf.ai/baseresponse/errormessage/) { get; } | Ottiene o imposta le informazioni sull'errore. |
 | [HttpResponseHeaders](../../aspose.pdf.ai/baseresponse/httpresponseheaders/) { get; set; } | Ottiene o imposta le intestazioni della risposta HTTP. |
 | [HttpStatusCode](../../aspose.pdf.ai/baseresponse/httpstatuscode/) { get; set; } | Ottiene o imposta il codice di stato HTTP. |
-| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Indica se la risposta è stata positiva. |
+| [IsSuccessful](../../aspose.pdf.ai/baseresponse/issuccessful/) { get; } | Indica se la risposta ha avuto successo. |
 | [ReasonPhrase](../../aspose.pdf.ai/baseresponse/reasonphrase/) { get; } | Ottiene la frase di motivo dell'errore. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [BaseResponse](../baseresponse/)
+* class [BaseResponse](../baseresponse/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

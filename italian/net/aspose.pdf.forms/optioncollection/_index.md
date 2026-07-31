@@ -1,14 +1,14 @@
 ---
-title: Class OptionCollection
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Forms.OptionCollection. Classe che rappresenta una collezione di opzioni del campo di scelta
+title: "Classe OptionCollection"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Forms.OptionCollection. Classe che rappresenta la raccolta di opzioni del campo di scelta"
 type: docs
-weight: 5160
+weight: 5280
 url: /it/net/aspose.pdf.forms/optioncollection/
 ---
-## Classe OptionCollection
+## OptionCollection class
 
-Classe che rappresenta una collezione di opzioni del campo di scelta.
+Classe che rappresenta la raccolta di opzioni del campo di scelta.
 
 ```csharp
 public sealed class OptionCollection : ICollection<Option>
@@ -18,27 +18,29 @@ public sealed class OptionCollection : ICollection<Option>
 
 | Nome | Descrizione |
 | --- | --- |
-| [Count](../../aspose.pdf.forms/optioncollection/count/) { get; } | Ottiene il numero di opzioni. |
-| [IsReadOnly](../../aspose.pdf.forms/optioncollection/isreadonly/) { get; } | Ottiene un valore che indica se la collezione è di sola lettura. |
+| [Count](../../aspose.pdf.forms/optioncollection/count/) { get; } | Restituisce il numero di opzioni. |
+| [IsReadOnly](../../aspose.pdf.forms/optioncollection/isreadonly/) { get; } | Restituisce un valore che indica se la raccolta è di sola lettura. |
 | [IsSynchronized](../../aspose.pdf.forms/optioncollection/issynchronized/) { get; } | Restituisce true se l'oggetto è sincronizzato. |
-| [Item](../../aspose.pdf.forms/optioncollection/item/) { get; } | Ottiene l'opzione per indice. (2 indicizzatori) |
-| [SyncRoot](../../aspose.pdf.forms/optioncollection/syncroot/) { get; } | Oggetto di sincronizzazione della collezione. |
+| [Item](../../aspose.pdf.forms/optioncollection/item/) { get; } | Restituisce l'opzione per indice. (2 indicizzatori) |
+| [SyncRoot](../../aspose.pdf.forms/optioncollection/syncroot/) { get; } | Oggetto di sincronizzazione della raccolta. |
 
 ## Metodi
 
 | Nome | Descrizione |
 | --- | --- |
-| [Add](../../aspose.pdf.forms/optioncollection/add/)(Option) | Aggiunge un elemento nella collezione, genera NotImplementedException. |
-| [Clear](../../aspose.pdf.forms/optioncollection/clear/)() | Rimuove tutti gli elementi dalla collezione. |
-| [Contains](../../aspose.pdf.forms/optioncollection/contains/)(Option) | Controlla se l'elemento esiste nella collezione, genera NotImplementedException. |
+| [Add](../../aspose.pdf.forms/optioncollection/add/)(Option) | Aggiunge un elemento nella raccolta, genera NotImplementedException. |
+| [Clear](../../aspose.pdf.forms/optioncollection/clear/)() | Rimuove tutti gli elementi dalla raccolta. |
+| [Contains](../../aspose.pdf.forms/optioncollection/contains/)(Option) | Verifica se l'elemento esiste nella raccolta, genera NotImplementedException. |
 | [CopyTo](../../aspose.pdf.forms/optioncollection/copyto/)(Option[], int) | Copia le opzioni in un array. |
-| [get](../../aspose.pdf.forms/optioncollection/get/#get)(int) | Ottiene l'opzione per indice. |
-| [get](../../aspose.pdf.forms/optioncollection/get/#get_1)(string) | Ottiene l'opzione dalla collezione per nome dell'opzione. |
-| [GetEnumerator](../../aspose.pdf.forms/optioncollection/getenumerator/)() | Restituisce un enumeratore per le opzioni nella collezione. |
-| [Remove](../../aspose.pdf.forms/optioncollection/remove/)(Option) | Rimuove un elemento dalla collezione, genera NotImplementedException. |
+| [get](../../aspose.pdf.forms/optioncollection/get/#get)(int) | Restituisce l'opzione per indice. |
+| [get](../../aspose.pdf.forms/optioncollection/get/#get_1)(string) | Restituisce l'opzione dalla raccolta per nome dell'opzione. |
+| [GetEnumerator](../../aspose.pdf.forms/optioncollection/getenumerator/)() | Restituisce l'enumeratore per le opzioni nella raccolta. |
+| [Remove](../../aspose.pdf.forms/optioncollection/remove/)(Option) | Rimuove l'elemento dalla raccolta, genera NotImplementedException. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Option](../option/)
+* class [Option](../option/)
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

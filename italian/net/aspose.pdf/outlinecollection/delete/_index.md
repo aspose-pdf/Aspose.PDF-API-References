@@ -1,22 +1,22 @@
 ---
-title: OutlineCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OutlineCollection. Elimina tutti gli elementi dell'outline dal documento
+title: "OutlineCollection.Delete"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OutlineCollection. Elimina tutti gli elementi di outline dal contorno del documento"
 type: docs
 weight: 130
 url: /it/net/aspose.pdf/outlinecollection/delete/
 ---
 ## Delete() {#delete}
 
-Elimina tutti gli elementi dell'outline dal documento.
+Elimina tutti gli elementi di contorno dal contorno del documento.
 
 ```csharp
 public void Delete()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OutlineCollection](../)
+* class [OutlineCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public void Delete()
 
 ## Delete(string) {#delete_1}
 
-Elimina l'elemento dell'outline con il titolo specificato dal documento.
+Elimina l'elemento di contorno con il titolo specificato dal contorno del documento.
 
 ```csharp
 public void Delete(string name)
@@ -32,10 +32,12 @@ public void Delete(string name)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| name | String | Il titolo dell'elemento dell'outline da eliminare |
+| nome | String | Il titolo dell'elemento di outline da eliminare |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OutlineCollection](../)
+* class [OutlineCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

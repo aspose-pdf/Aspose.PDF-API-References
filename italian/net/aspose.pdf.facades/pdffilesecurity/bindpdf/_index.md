@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfFileSecurity. Inizializza la facciata
+title: "PdfFileSecurity.BindPdf"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfFileSecurity. Inizializza la facciata"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.facades/pdffilesecurity/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-Inizializza la facciata.
+Inizializza il facade.
 
 ```csharp
 public override void BindPdf(string srcFile)
@@ -16,11 +16,11 @@ public override void BindPdf(string srcFile)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| srcFile | String | Il file PDF. |
+| srcFile | String | Il flusso del file PDF. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileSecurity](../)
+* class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ public override void BindPdf(string srcFile)
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-Inizializza la facciata.
+Inizializza il facade.
 
 ```csharp
 public override void BindPdf(Stream srcStream)
@@ -36,10 +36,12 @@ public override void BindPdf(Stream srcStream)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| srcStream | Stream | Il flusso del file PDF. |
+| srcStream | Stream | PdfViewer.PrintLargePdf |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfFileSecurity](../)
+* class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

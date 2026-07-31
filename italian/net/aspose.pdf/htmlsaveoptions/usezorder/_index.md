@@ -1,21 +1,23 @@
 ---
-title: HtmlSaveOptions.UseZOrder
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà HtmlSaveOptions. Se l'attributo UseZOrder è impostato su true, grafica e testo vengono aggiunti al documento HTML risultante secondo l'ordine Z nel documento PDF originale. Se questo attributo è falso, tutta la grafica viene messa come un singolo livello, il che può causare alcuni effetti indesiderati per oggetti sovrapposti.
+title: "HtmlSaveOptions.UseZOrder"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà HtmlSaveOptions. Se l'attributo UseZORder è impostato su true, le grafiche e il testo vengono aggiunti al documento HTML risultante secondo l'ordine Z del documento PDF originale. Se questo attributo è false, tutte le grafiche vengono inserite in un unico livello, il che può causare effetti indesiderati per gli oggetti sovrapposti."
 type: docs
 weight: 230
 url: /it/net/aspose.pdf/htmlsaveoptions/usezorder/
 ---
-## Proprietà HtmlSaveOptions.UseZOrder
+## HtmlSaveOptions.UseZOrder property
 
-Se l'attributo UseZOrder è impostato su true, grafica e testo vengono aggiunti al documento HTML risultante secondo l'ordine Z nel documento PDF originale. Se questo attributo è falso, tutta la grafica viene messa come un singolo livello, il che può causare alcuni effetti indesiderati per oggetti sovrapposti.
+Se l'attributo UseZORder è impostato su true, le grafiche e il testo vengono aggiunti al documento HTML risultante secondo lo Z-order del documento PDF originale. Se questo attributo è false, tutte le grafiche vengono inserite in un unico livello, il che può causare effetti indesiderati per gli oggetti sovrapposti.
 
 ```csharp
 public bool UseZOrder { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [HtmlSaveOptions](../)
+* class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

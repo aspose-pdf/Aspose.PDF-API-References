@@ -1,14 +1,14 @@
 ---
-title: OrganizerBaseOptions.AddOutput
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OrganizerBaseOptions. Aggiunge una nuova fonte di dati alla raccolta di dati del plugin PdfOrganizer
+title: "OrganizerBaseOptions.AddOutput"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OrganizerBaseOptions. Aggiunge una nuova origine dati alla collezione dati del plugin PdfOrganizer."
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.plugins/organizerbaseoptions/addoutput/
 ---
-## Metodo OrganizerBaseOptions.AddOutput
+## OrganizerBaseOptions.AddOutput method
 
-Aggiunge una nuova fonte di dati alla raccolta di dati del plugin PdfOrganizer.
+Aggiunge una nuova origine dati alla raccolta dati del plugin PdfOrganizer.
 
 ```csharp
 public void AddOutput(IDataSource saveDataSource)
@@ -16,7 +16,7 @@ public void AddOutput(IDataSource saveDataSource)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| saveDataSource | IDataSource | Fonte di dati (file o stream) per i risultati dell'operazione di salvataggio. |
+| saveDataSource | IDataSource | Origine dati (file o flusso) per i risultati dell'operazione di salvataggio. |
 
 ### Eccezioni
 
@@ -24,9 +24,11 @@ public void AddOutput(IDataSource saveDataSource)
 | --- | --- |
 | NotImplementedException |  |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IDataSource](../../idatasource/)
-* classe [OrganizerBaseOptions](../)
+* interface [IDataSource](../../idatasource/)
+* class [OrganizerBaseOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

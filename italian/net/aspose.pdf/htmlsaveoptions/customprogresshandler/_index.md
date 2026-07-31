@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.CustomProgressHandler
-second_title: Aspose.PDF for .NET API Reference
-description: Campo HtmlSaveOptions. Questo gestore può essere utilizzato per gestire eventi di progresso della conversione, ad esempio può essere utilizzato per mostrare una barra di progresso o messaggi riguardanti la quantità attuale di pagine elaborate, un esempio di codice del gestore che mostra il progresso sulla console è
+title: "HtmlSaveOptions.CustomProgressHandler"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo HtmlSaveOptions. Questo gestore può essere usato per gestire gli eventi di avanzamento della conversione, ad esempio può essere usato per mostrare una barra di progresso o messaggi sul numero corrente di pagine elaborate; un esempio di codice del gestore che mostra il progresso sulla console è"
 type: docs
 weight: 280
 url: /it/net/aspose.pdf/htmlsaveoptions/customprogresshandler/
 ---
-## Campo HtmlSaveOptions.CustomProgressHandler
+## HtmlSaveOptions.CustomProgressHandler field
 
-Questo gestore può essere utilizzato per gestire eventi di progresso della conversione, ad esempio può essere utilizzato per mostrare una barra di progresso o messaggi riguardanti la quantità attuale di pagine elaborate, un esempio di codice del gestore che mostra il progresso sulla console è :
+Questo gestore può essere utilizzato per gestire gli eventi di avanzamento della conversione, ad esempio può servire a mostrare una barra di avanzamento o messaggi sul numero corrente di pagine elaborate; un esempio di codice del gestore che mostra l'avanzamento sulla console è:
 
 ```csharp
 public ConversionProgressEventHandler CustomProgressHandler;
@@ -48,9 +48,11 @@ blic static void ShowProgressOnConsole(HtmlSaveOptions.ProgressEventHandlerInfo 
 
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * delegate [ConversionProgressEventHandler](../../unifiedsaveoptions.conversionprogresseventhandler/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

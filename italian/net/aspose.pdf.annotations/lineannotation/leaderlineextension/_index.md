@@ -1,12 +1,12 @@
 ---
-title: LineAnnotation.LeaderLineExtension
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà LineAnnotation. Ottiene o imposta la lunghezza dell'estensione della linea guida
+title: "LineAnnotation.LeaderLineExtension"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "LineAnnotation proprietà. Ottiene o imposta la lunghezza dell'estensione della linea guida"
 type: docs
 weight: 100
 url: /it/net/aspose.pdf.annotations/lineannotation/leaderlineextension/
 ---
-## Proprietà LineAnnotation.LeaderLineExtension
+## LineAnnotation.LeaderLineExtension property
 
 Ottiene o imposta la lunghezza dell'estensione della linea guida.
 
@@ -14,8 +14,10 @@ Ottiene o imposta la lunghezza dell'estensione della linea guida.
 public double LeaderLineExtension { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [LineAnnotation](../)
+* class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.WithMaxPromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OpenAIImageDescriptionCopilotOptions. Imposta il numero massimo di token di prompt per le opzioni del copilot di descrizione dell'immagine
+title: "OpenAIImageDescriptionCopilotOptions.WithMaxPromptTokens"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "OpenAIImageDescriptionCopilotOptions metodo. Imposta il numero massimo di token del prompt per le opzioni del copilot di descrizione immagine"
 type: docs
 weight: 140
 url: /it/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/withmaxprompttokens/
 ---
-## Metodo OpenAIImageDescriptionCopilotOptions.WithMaxPromptTokens
+## OpenAIImageDescriptionCopilotOptions.WithMaxPromptTokens method
 
-Imposta il numero massimo di token di prompt per le opzioni del copilot di descrizione dell'immagine.
+Imposta il numero massimo di token del prompt per le opzioni del copilot di descrizione immagine.
 
 ```csharp
 public OpenAIImageDescriptionCopilotOptions WithMaxPromptTokens(int? maxPromptTokens)
@@ -24,6 +24,8 @@ L'istanza corrente di [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### Vedi anche
 
-* classe [OpenAIImageDescriptionCopilotOptions](../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

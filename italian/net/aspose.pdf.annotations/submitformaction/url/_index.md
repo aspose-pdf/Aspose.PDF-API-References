@@ -1,12 +1,12 @@
 ---
-title: SubmitFormAction.Url
-second_title: Aspose.PDF for .NET API Reference
-description: SubmitFormAction property. Destination URL
+title: "SubmitFormAction.Url"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SubmitFormAction. URL di destinazione."
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.annotations/submitformaction/url/
 ---
-## Proprietà SubmitFormAction.Url
+## SubmitFormAction.Url property
 
 URL di destinazione.
 
@@ -14,9 +14,11 @@ URL di destinazione.
 public FileSpecification Url { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FileSpecification](../../../aspose.pdf/filespecification/)
-* classe [SubmitFormAction](../)
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [SubmitFormAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

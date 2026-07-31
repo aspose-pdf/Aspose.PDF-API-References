@@ -1,21 +1,23 @@
 ---
-title: PositionSettings.IsInLineParagraph
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PositionSettings. Ottiene o imposta un paragrafo come inline. Il valore predefinito è falso
+title: "PositionSettings.IsInLineParagraph"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PositionSettings. Ottiene o imposta se un paragrafo è in linea. Il valore predefinito è false"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.tagged/positionsettings/isinlineparagraph/
 ---
-## Proprietà PositionSettings.IsInLineParagraph
+## PositionSettings.IsInLineParagraph property
 
-Ottiene o imposta un paragrafo come inline. Il valore predefinito è falso.
+Ottiene o imposta se un paragrafo è in linea. Il valore predefinito è false.
 
 ```csharp
 public bool IsInLineParagraph { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PositionSettings](../)
+* class [PositionSettings](../)
 * namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

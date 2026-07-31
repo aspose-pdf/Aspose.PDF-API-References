@@ -1,7 +1,7 @@
 ---
-title: PdfAnnotationEditor.ExtractAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfAnnotationEditor. Ottiene l'elenco delle annotazioni dei tipi specificati
+title: "PdfAnnotationEditor.ExtractAnnotations"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfAnnotationEditor. Ottiene l'elenco delle annotazioni dei tipi specificati."
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.facades/pdfannotationeditor/extractannotations/
@@ -16,8 +16,8 @@ public IList<Annotation> ExtractAnnotations(int start, int end, string[] annotTy
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| start | Int32 | Pagina di partenza da cui verranno selezionate le annotazioni. |
-| end | Int32 | Pagina finale a cui verranno selezionate le annotazioni. |
+| start | Int32 | Pagina iniziale da cui le annotazioni saranno selezionate. |
+| end | Int32 | Pagina finale a cui le annotazioni saranno selezionate. |
 | annotTypes | String[] | L'array dei tipi di annotazione necessari. |
 
 ### Valore di ritorno
@@ -33,10 +33,10 @@ string[] annotTypes = new string[] {"Text", "Highlight"};
 IList annotList = editor.ExtractAnnotations(1, 2 , annotTypes);
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Annotation](../../../aspose.pdf.annotations/annotation/)
-* classe [PdfAnnotationEditor](../)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -52,8 +52,8 @@ public IList<Annotation> ExtractAnnotations(int start, int end, AnnotationType[]
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| start | Int32 | Pagina di partenza da cui verranno selezionate le annotazioni. |
-| end | Int32 | Pagina finale a cui verranno selezionate le annotazioni. |
+| start | Int32 | Pagina iniziale da cui le annotazioni saranno selezionate. |
+| end | Int32 | Pagina finale a cui le annotazioni saranno selezionate. |
 | annotTypes | AnnotationType[] | L'array dei tipi di annotazione necessari. |
 
 ### Valore di ritorno
@@ -69,10 +69,12 @@ AnnotationType[] annotTypes = new AnnotationType[] {AnnotationType.Text, Annotat
 IList annotList = editor.ExtractAnnotations(1, 2 , annotTypes);
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Annotation](../../../aspose.pdf.annotations/annotation/)
+* class [Annotation](../../../aspose.pdf.annotations/annotation/)
 * enum [AnnotationType](../../../aspose.pdf.annotations/annotationtype/)
-* classe [PdfAnnotationEditor](../)
+* class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

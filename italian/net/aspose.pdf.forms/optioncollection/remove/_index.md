@@ -1,14 +1,14 @@
 ---
-title: OptionCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: OptionCollection method. Removes item from collection throws NotImplementedException
+title: "OptionCollection.Remove"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OptionCollection. Rimuove un elemento dalla collezione lancia NotImplementedException"
 type: docs
 weight: 120
 url: /it/net/aspose.pdf.forms/optioncollection/remove/
 ---
-## Metodo OptionCollection.Remove
+## OptionCollection.Remove method
 
-Rimuove un elemento dalla collezione, genera NotImplementedException.
+Rimuove l'elemento dalla raccolta, genera NotImplementedException.
 
 ```csharp
 public bool Remove(Option item)
@@ -16,15 +16,17 @@ public bool Remove(Option item)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| item | Option | Elemento operatore da rimuovere. |
+| item | Option | Elemento Operator da rimuovere. |
 
 ### Valore di ritorno
 
-Genera NotImplementedException
+Lancia NotImplementedException
 
 ### Vedi anche
 
-* classe [Option](../../option/)
-* classe [OptionCollection](../)
+* class [Option](../../option/)
+* class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

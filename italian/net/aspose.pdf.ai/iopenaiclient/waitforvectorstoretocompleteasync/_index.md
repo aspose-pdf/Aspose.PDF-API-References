@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.WaitForVectorStoreToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo IOpenAIClient. Attende che un determinato archivio vettoriale completi in modo asincrono
+title: "IOpenAIClient.WaitForVectorStoreToCompleteAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "IOpenAIClient metodo. Attende che un archivio vettoriale specifico sia completato in modo asincrono"
 type: docs
 weight: 470
 url: /it/net/aspose.pdf.ai/iopenaiclient/waitforvectorstoretocompleteasync/
 ---
-## Metodo IOpenAIClient.WaitForVectorStoreToCompleteAsync
+## IOpenAIClient.WaitForVectorStoreToCompleteAsync method
 
-Attende che un determinato archivio vettoriale completi in modo asincrono.
+Attende che un archivio vettoriale specifico termini in modo asincrono.
 
 ```csharp
 public Task<VectorStoreResponse> WaitForVectorStoreToCompleteAsync(string vectorStoreId, 
@@ -28,11 +28,13 @@ Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività
 
 | eccezione | condizione |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Sollevata quando l'ID dell'archivio vettoriale è nullo o vuoto. |
+| [AIClientException](../../aiclientexception/) | Generata quando l'ID del vector store è nullo o vuoto. |
 
 ### Vedi anche
 
-* classe [VectorStoreResponse](../../vectorstoreresponse/)
-* interfaccia [IOpenAIClient](../)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

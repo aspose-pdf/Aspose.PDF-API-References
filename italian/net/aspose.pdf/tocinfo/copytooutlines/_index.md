@@ -1,21 +1,23 @@
 ---
-title: TocInfo.CopyToOutlines
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TocInfo. Ottiene o imposta se il TOC è copiato negli outline
+title: "TocInfo.CopyToOutlines"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TocInfo. Ottiene o imposta se il TOC è copiato nei contorni"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/tocinfo/copytooutlines/
 ---
-## Proprietà TocInfo.CopyToOutlines
+## TocInfo.CopyToOutlines property
 
-Ottiene o imposta se il TOC è copiato negli outline.
+Ottiene o imposta se l'indice è copiato negli outline.
 
 ```csharp
 public bool CopyToOutlines { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TocInfo](../)
+* class [TocInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

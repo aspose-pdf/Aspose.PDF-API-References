@@ -1,12 +1,12 @@
 ---
-title: FormEditor.Facade
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FormEditor. Imposta gli attributi visivi del campo
+title: "FormEditor.Facade"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FormEditor. Imposta gli attributi visivi del campo"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.facades/formeditor/facade/
 ---
-## Proprietà FormEditor.Facade
+## FormEditor.Facade property
 
 Imposta gli attributi visivi del campo.
 
@@ -27,9 +27,11 @@ fe.DecorateField("textField");
 fe.Save();
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormFieldFacade](../../formfieldfacade/)
-* classe [FormEditor](../)
+* class [FormFieldFacade](../../formfieldfacade/)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

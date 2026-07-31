@@ -1,14 +1,14 @@
 ---
-title: Document.Check
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Document. Valida il documento
+title: "Document.Check"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Document. Convalida il documento"
 type: docs
-weight: 570
+weight: 590
 url: /it/net/aspose.pdf/document/check/
 ---
-## Metodo Document.Check
+## Document.Check method
 
-Valida il documento.
+Convalida il documento.
 
 ```csharp
 public bool Check(bool doRepair)
@@ -16,14 +16,16 @@ public bool Check(bool doRepair)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| doRepair | Booleano | Se vero, i problemi trovati verranno riparati. |
+| doRepair | Boolean | Se true, i problemi trovati saranno riparati. |
 
 ### Valore di ritorno
 
-Vero - se il documento è stato riparato; altrimenti, falso.
+True - se il documento è stato riparato; altrimenti, false.
 
 ### Vedi anche
 
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

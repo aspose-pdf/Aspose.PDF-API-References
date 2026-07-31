@@ -1,7 +1,7 @@
 ---
-title: PdfASymbolicFontEncodingStrategy.PdfASymbolicFontEncodingStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PdfASymbolicFontEncodingStrategy. Costruttore. Imposta la sottotabella predefinita mac 10
+title: "PdfASymbolicFontEncodingStrategy.PdfASymbolicFontEncodingStrategy"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore PdfASymbolicFontEncodingStrategy. Costruttore. Imposta la sottotabella predefinita mac 10"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/pdfasymbolicfontencodingstrategy/pdfasymbolicfontencodingstrategy/
@@ -14,9 +14,9 @@ Costruttore. Imposta la sottotabella predefinita (mac 1,0)
 public PdfASymbolicFontEncodingStrategy()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfASymbolicFontEncodingStrategy](../)
+* class [PdfASymbolicFontEncodingStrategy](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,12 +32,12 @@ public PdfASymbolicFontEncodingStrategy(Queue<QueueItem> priorityQueue)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| priorityQueue | Queue`1 | coda delle sottotabelle di codifica da iterare |
+| priorityQueue | Queue`1 | coda di sottotabelle di codifica da iterare |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [QueueItem](../../pdfasymbolicfontencodingstrategy.queueitem/)
-* classe [PdfASymbolicFontEncodingStrategy](../)
+* class [QueueItem](../../pdfasymbolicfontencodingstrategy.queueitem/)
+* class [PdfASymbolicFontEncodingStrategy](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -53,11 +53,13 @@ public PdfASymbolicFontEncodingStrategy(CMapEncodingTableType preferredEncodingT
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| preferredEncodingTable | CMapEncodingTableType | sottotabella di codifica che sarà utilizzata in precedenza rispetto alla sottotabella mac (1,0) |
+| preferredEncodingTable | CMapEncodingTableType | sottotabella di codifica che sarà usata in precedenza rispetto alla sottotabella mac (1,0) |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [CMapEncodingTableType](../../pdfasymbolicfontencodingstrategy.queueitem.cmapencodingtabletype/)
-* classe [PdfASymbolicFontEncodingStrategy](../)
+* class [PdfASymbolicFontEncodingStrategy](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

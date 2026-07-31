@@ -1,12 +1,12 @@
 ---
-title: IOpenAIClient.GetAssistantsAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo IOpenAIClient. Recupera un elenco di assistenti in modo asincrono
+title: "IOpenAIClient.GetAssistantsAsync"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo IOpenAIClient. Recupera un elenco di assistenti in modo asincrono"
 type: docs
 weight: 200
 url: /it/net/aspose.pdf.ai/iopenaiclient/getassistantsasync/
 ---
-## Metodo IOpenAIClient.GetAssistantsAsync
+## IOpenAIClient.GetAssistantsAsync method
 
 Recupera un elenco di assistenti in modo asincrono.
 
@@ -21,14 +21,16 @@ public Task<AssistantListResponse> GetAssistantsAsync(
 | queryParameters | AssistantListQueryParameters | Parametri di query opzionali per filtrare l'elenco degli assistenti. |
 | cancellationToken | Nullable`1 | Un token per annullare l'operazione. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Un'attività che rappresenta l'operazione asincrona. Il risultato dell'attività contiene l'elenco degli assistenti.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AssistantListResponse](../../assistantlistresponse/)
-* classe [AssistantListQueryParameters](../../assistantlistqueryparameters/)
-* interfaccia [IOpenAIClient](../)
+* class [AssistantListResponse](../../assistantlistresponse/)
+* class [AssistantListQueryParameters](../../assistantlistqueryparameters/)
+* interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

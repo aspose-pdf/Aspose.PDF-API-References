@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.PageNumber
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di FormFieldFacade. Un valore intero che rappresenta il numero di pagina su cui si trova il campo
+title: "FormFieldFacade.PageNumber"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormFieldFacade proprietà. Un valore intero che contiene il numero di pagina su cui si trova il campo"
 type: docs
 weight: 150
 url: /it/net/aspose.pdf.facades/formfieldfacade/pagenumber/
 ---
-## Proprietà FormFieldFacade.PageNumber
+## FormFieldFacade.PageNumber property
 
-Un valore intero che rappresenta il numero di pagina su cui si trova il campo.
+Un valore intero che contiene il numero di Page su cui il campo si trova.
 
 ```csharp
 public int PageNumber { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

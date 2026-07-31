@@ -1,14 +1,14 @@
 ---
-title: OutputIntents.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo OutputIntents. Determina se la collezione contiene un'intenzione di output specifica
+title: "OutputIntents.Contains"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OutputIntents. Determina se la raccolta contiene un output intent specifico."
 type: docs
 weight: 60
 url: /it/net/aspose.pdf/outputintents/contains/
 ---
-## Metodo OutputIntents.Contains
+## OutputIntents.Contains method
 
-Determina se la collezione contiene un'intenzione di output specifica.
+Determina se la raccolta contiene un output intent specifico.
 
 ```csharp
 public bool Contains(OutputIntent item)
@@ -16,15 +16,17 @@ public bool Contains(OutputIntent item)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| item | OutputIntent | L'intenzione di output da localizzare nella collezione. |
+| item | OutputIntent | L'intento di output da individuare nella raccolta. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
-`true` se *item* è trovato nella collezione; altrimenti, `false`.
+`true` se *item* è trovato nella raccolta; altrimenti, `false`.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OutputIntent](../../outputintent/)
-* classe [OutputIntents](../)
+* class [OutputIntent](../../outputintent/)
+* class [OutputIntents](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

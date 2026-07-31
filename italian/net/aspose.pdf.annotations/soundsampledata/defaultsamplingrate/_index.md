@@ -1,12 +1,12 @@
 ---
-title: SoundSampleData.DefaultSamplingRate
-second_title: Aspose.PDF for .NET API Reference
-description: Campo SoundSampleData. Valore predefinito per SamplingRate
+title: "SoundSampleData.DefaultSamplingRate"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo SoundSampleData. Valore predefinito per SamplingRate"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.annotations/soundsampledata/defaultsamplingrate/
 ---
-## Campo SoundSampleData.DefaultSamplingRate
+## SoundSampleData.DefaultSamplingRate field
 
 Valore predefinito per SamplingRate.
 
@@ -14,8 +14,10 @@ Valore predefinito per SamplingRate.
 public const long DefaultSamplingRate;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SoundSampleData](../)
+* class [SoundSampleData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

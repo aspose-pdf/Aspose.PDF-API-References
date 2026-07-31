@@ -1,7 +1,7 @@
 ---
-title: InvalidFormTypeOperationException.InvalidFormTypeOperationException
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di InvalidFormTypeOperationException. Inizializza una nuova istanza della classe InvalidFormTypeOperationException
+title: "InvalidFormTypeOperationException.InvalidFormTypeOperationException"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore InvalidFormTypeOperationException. Inizializza una nuova istanza della classe InvalidFormTypeOperationException"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/invalidformtypeoperationexception/invalidformtypeoperationexception/
@@ -14,9 +14,9 @@ Inizializza una nuova istanza della classe [`InvalidFormTypeOperationException`]
 public InvalidFormTypeOperationException()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [InvalidFormTypeOperationException](../)
+* class [InvalidFormTypeOperationException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,11 +32,11 @@ public InvalidFormTypeOperationException(string message)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| message | String | Il messaggio. |
+| messaggio | String | Il messaggio. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [InvalidFormTypeOperationException](../)
+* class [InvalidFormTypeOperationException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -52,12 +52,12 @@ public InvalidFormTypeOperationException(string message, Exception innerExceptio
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| message | String | Il messaggio di errore che spiega il motivo dell'eccezione. |
-| innerException | Exception | L'eccezione che è la causa dell'eccezione corrente, o un riferimento nullo (Nothing in Visual Basic) se non è specificata alcuna eccezione interna. |
+| messaggio | String | Il messaggio di errore che spiega il motivo dell'eccezione. |
+| innerException | Exception | L'eccezione che è la causa dell'eccezione corrente, oppure un riferimento nullo (Nothing in Visual Basic) se non è specificata alcuna eccezione interna. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [InvalidFormTypeOperationException](../)
+* class [InvalidFormTypeOperationException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -73,10 +73,12 @@ public InvalidFormTypeOperationException(Exception innerException)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| innerException | Exception | L'eccezione che è la causa dell'eccezione corrente, o un riferimento nullo (Nothing in Visual Basic) se non è specificata alcuna eccezione interna. |
+| innerException | Exception | L'eccezione che è la causa dell'eccezione corrente, oppure un riferimento nullo (Nothing in Visual Basic) se non è specificata alcuna eccezione interna. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [InvalidFormTypeOperationException](../)
+* class [InvalidFormTypeOperationException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,24 @@
 ---
-title: HtmlSaveOptions.LettersPositioningMethod
-second_title: Aspose.PDF for .NET API Reference
-description: Campo HtmlSaveOptions. Imposta il modo di posizionamento delle lettere nelle parole nell'HTML risultante
+title: "HtmlSaveOptions.LettersPositioningMethod"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Campo HtmlSaveOptions. Imposta la modalità di posizionamento delle lettere nelle parole nell'HTML risultante."
 type: docs
 weight: 350
 url: /it/net/aspose.pdf/htmlsaveoptions/letterspositioningmethod/
 ---
-## Campo HtmlSaveOptions.LettersPositioningMethod
+## HtmlSaveOptions.LettersPositioningMethod field
 
-Imposta il modo di posizionamento delle lettere nelle parole nell'HTML risultante
+Imposta la modalità di posizionamento delle lettere nelle parole nell'HTML risultato.
 
 ```csharp
 public LettersPositioningMethods LettersPositioningMethod;
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * enum [LettersPositioningMethods](../../htmlsaveoptions.letterspositioningmethods/)
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

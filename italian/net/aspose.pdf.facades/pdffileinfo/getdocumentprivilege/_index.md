@@ -1,12 +1,12 @@
 ---
-title: PdfFileInfo.GetDocumentPrivilege
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfFileInfo. Ottiene le impostazioni dei privilegi del documento PDF
+title: "PdfFileInfo.GetDocumentPrivilege"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfFileInfo. Ottiene le impostazioni dei privilegi del documento PDF"
 type: docs
 weight: 220
 url: /it/net/aspose.pdf.facades/pdffileinfo/getdocumentprivilege/
 ---
-## Metodo PdfFileInfo.GetDocumentPrivilege
+## PdfFileInfo.GetDocumentPrivilege method
 
 Ottiene le impostazioni dei privilegi del documento PDF.
 
@@ -14,13 +14,15 @@ Ottiene le impostazioni dei privilegi del documento PDF.
 public DocumentPrivilege GetDocumentPrivilege()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Le impostazioni dei privilegi del documento PDF.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocumentPrivilege](../../documentprivilege/)
-* classe [PdfFileInfo](../)
+* class [DocumentPrivilege](../../documentprivilege/)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

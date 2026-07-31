@@ -1,12 +1,12 @@
 ---
-title: PdfToDocOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PdfToDocOptions. Ottiene il nome dell'operazione
+title: "PdfToDocOptions.OperationName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PdfToDocOptions. Ottiene il nome dell'operazione"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.plugins/pdftodocoptions/operationname/
 ---
-## Proprietà PdfToDocOptions.OperationName
+## PdfToDocOptions.OperationName property
 
 Ottiene il nome dell'operazione.
 
@@ -14,8 +14,10 @@ Ottiene il nome dell'operazione.
 public override string OperationName { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfToDocOptions](../)
+* class [PdfToDocOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

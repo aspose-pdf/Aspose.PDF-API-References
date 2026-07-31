@@ -1,12 +1,12 @@
 ---
-title: Usage.PromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di utilizzo. Ottiene o imposta il numero di token nel prompt
+title: "Usage.PromptTokens"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Usage. Ottiene o imposta il numero di token nel prompt"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.ai/usage/prompttokens/
 ---
-## Proprietà Usage.PromptTokens
+## Usage.PromptTokens property
 
 Ottiene o imposta il numero di token nel prompt.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il numero di token nel prompt.
 public int PromptTokens { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Usage](../)
+* class [Usage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Operator.ValueEquals
-second_title: Aspose.PDF for .NET API Reference
-description: Operator method. Compares this instance with the given object
+title: "Operator.ValueEquals"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Operator. Confronta questa istanza con l'oggetto fornito"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf/operator/valueequals/
 ---
-## Metodo Operator.ValueEquals
+## Operator.ValueEquals method
 
-Confronta questa istanza con l'oggetto dato.
+Confronta questa istanza con l'oggetto fornito.
 
 ```csharp
 public bool ValueEquals(Operator op)
@@ -16,14 +16,16 @@ public bool ValueEquals(Operator op)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| op | Operatore | Operatore da confrontare. |
+| op | Operator | Operator da confrontare. |
 
 ### Valore di ritorno
 
-Vero se gli oggetti sono uguali, altrimenti falso.
+True se gli oggetti sono uguali, altrimenti false.
 
 ### Vedi anche
 
-* classe [Operator](../)
+* class [Operator](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

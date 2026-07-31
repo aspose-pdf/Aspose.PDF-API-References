@@ -1,21 +1,23 @@
 ---
-title: FileSpecification.UnicodeName
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà FileSpecification. Ottiene o imposta il nome unicode della specifica del file
+title: "FileSpecification.UnicodeName"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà FileSpecification. Ottiene o imposta il nome unicode della specifica del file"
 type: docs
 weight: 140
 url: /it/net/aspose.pdf/filespecification/unicodename/
 ---
-## Proprietà FileSpecification.UnicodeName
+## FileSpecification.UnicodeName property
 
-Ottiene o imposta il nome unicode della specifica del file.
+Ottiene o imposta il nome Unicode della specifica del file.
 
 ```csharp
 public string UnicodeName { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FileSpecification](../)
+* class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

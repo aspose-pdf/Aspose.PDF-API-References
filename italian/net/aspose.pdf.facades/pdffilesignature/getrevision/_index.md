@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.GetRevision
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfFileSignature. Ottiene la revisione di una firma
+title: "PdfFileSignature.GetRevision"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfFileSignature. Restituisce la revisione di una firma."
 type: docs
 weight: 200
 url: /it/net/aspose.pdf.facades/pdffilesignature/getrevision/
 ---
-## Metodo PdfFileSignature.GetRevision
+## PdfFileSignature.GetRevision method
 
-Ottiene la revisione di una firma.
+Restituisce la revisione di una firma.
 
 ```csharp
 public int GetRevision(SignatureName signName)
@@ -18,13 +18,15 @@ public int GetRevision(SignatureName signName)
 | --- | --- | --- |
 | signName | SignatureName | Il nome della firma. |
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Restituisce il numero della revisione della firma.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SignatureName](../../signaturename/)
-* classe [PdfFileSignature](../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

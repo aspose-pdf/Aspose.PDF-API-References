@@ -1,7 +1,7 @@
 ---
-title: OptimizedMemoryStream.OptimizedMemoryStream
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di OptimizedMemoryStream. Inizializza una nuova istanza della classe OptimizedMemoryStream
+title: "OptimizedMemoryStream.OptimizedMemoryStream"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore OptimizedMemoryStream. Inizializza una nuova istanza della classe OptimizedMemoryStream"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/optimizedmemorystream/optimizedmemorystream/
@@ -14,9 +14,9 @@ Inizializza una nuova istanza della classe [`OptimizedMemoryStream`](../).
 public OptimizedMemoryStream()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OptimizedMemoryStream](../)
+* class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -33,11 +33,11 @@ public OptimizedMemoryStream(int bufferSize, byte[] buffer)
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | bufferSize | Int32 | Dimensione dei buffer sottostanti. |
-| buffer | Byte[] | L'array di byte non firmati da cui creare il flusso corrente. |
+| buffer | Byte[] | L'array di byte senza segno da cui creare lo stream corrente. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OptimizedMemoryStream](../)
+* class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -55,9 +55,9 @@ public OptimizedMemoryStream(int bufferSize)
 | --- | --- | --- |
 | bufferSize | Int32 | Dimensione dei buffer sottostanti. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OptimizedMemoryStream](../)
+* class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -73,10 +73,12 @@ public OptimizedMemoryStream(byte[] buffer)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| buffer | Byte[] | L'array di byte non firmati da cui creare il flusso corrente. |
+| buffer | Byte[] | L'array di byte senza segno da cui creare lo stream corrente. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OptimizedMemoryStream](../)
+* class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

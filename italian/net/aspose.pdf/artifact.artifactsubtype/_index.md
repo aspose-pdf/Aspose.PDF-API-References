@@ -1,14 +1,14 @@
 ---
-title: Enum Artifact.ArtifactSubtype
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.ArtifactArtifactSubtype enum. Enumeration of possible artifacts subtype
+title: "Enum Artifact.ArtifactSubtype"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Enum Aspose.Pdf.ArtifactArtifactSubtype. Enumerazione dei possibili sottotipi di artefatto"
 type: docs
-weight: 2780
+weight: 2880
 url: /it/net/aspose.pdf/artifact.artifactsubtype/
 ---
-## Enumerazione Artifact.ArtifactSubtype
+## Artifact.ArtifactSubtype enumeration
 
-Enumerazione dei possibili sottotipi di artefatti.
+Enumerazione dei possibili sottotipi di artifact.
 
 ```csharp
 public enum ArtifactSubtype
@@ -20,13 +20,15 @@ public enum ArtifactSubtype
 | --- | --- | --- |
 | Header | `0` | Artefatto intestazione. |
 | Footer | `1` | Artefatto piè di pagina. |
-| Watermark | `2` | Artefatto filigrana. |
-| Background | `3` | Artefatto sfondo. |
-| Undefined | `4` | Il sottotipo di artefatto non è definito o sconosciuto. |
-| BatesN | `5` | Artefatto numerazione Bates. |
+| Watermark | `2` | Artefatto di filigrana. |
+| Background | `3` | Artefatto di sfondo. |
+| Undefined | `4` | Il sottotipo dell'artefatto non è definito o è sconosciuto. |
+| BatesN | `5` | Artefatto di numerazione Bates. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Artifact](../artifact/)
+* class [Artifact](../artifact/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

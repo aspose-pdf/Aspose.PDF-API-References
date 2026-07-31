@@ -1,21 +1,23 @@
 ---
-title: SubmitFormAction.Flags
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà SubmitFormAction. Ottiene o imposta i flag dell'azione di invio
+title: "SubmitFormAction.Flags"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà SubmitFormAction. Ottiene o imposta i flag dell'azione di submit"
 type: docs
 weight: 20
 url: /it/net/aspose.pdf.annotations/submitformaction/flags/
 ---
-## Proprietà SubmitFormAction.Flags
+## SubmitFormAction.Flags property
 
-Ottiene o imposta i flag dell'azione di invio
+Ottiene o imposta i flag dell'azione di submit.
 
 ```csharp
 public int Flags { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SubmitFormAction](../)
+* class [SubmitFormAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

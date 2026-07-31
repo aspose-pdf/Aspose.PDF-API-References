@@ -1,22 +1,24 @@
 ---
-title: ThreadResponse.ToolResources
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà ThreadResponse. Ottiene o imposta un insieme di risorse rese disponibili agli strumenti degli assistenti in questo thread. Le risorse sono specifiche per il tipo di strumento. Ad esempio, lo strumento code_interpreter richiede un elenco di ID file, mentre lo strumento file_search richiede un elenco di ID di archiviazione vettoriale.
+title: "ThreadResponse.ToolResources"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "ThreadResponse proprietà. Ottiene o imposta un insieme di risorse messe a disposizione degli strumenti dell'assistente in questo thread. Le risorse sono specifiche per il tipo di strumento. Ad esempio lo strumento code_interpreter richiede un elenco di ID file, mentre lo strumento file_search richiede un elenco di ID di archivi vettoriali."
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.ai/threadresponse/toolresources/
 ---
-## Proprietà ThreadResponse.ToolResources
+## ThreadResponse.ToolResources property
 
-Ottiene o imposta un insieme di risorse rese disponibili agli strumenti dell'assistente in questo thread. Le risorse sono specifiche per il tipo di strumento. Ad esempio, lo strumento code_interpreter richiede un elenco di ID file, mentre lo strumento file_search richiede un elenco di ID di archiviazione vettoriale.
+Ottiene o imposta un insieme di risorse messe a disposizione degli strumenti dell'assistente in questo thread. Le risorse sono specifiche per il tipo di strumento. Per esempio, lo strumento code_interpreter richiede un elenco di ID file, mentre lo strumento file_search richiede un elenco di ID store vettoriali.
 
 ```csharp
 public ToolResources ToolResources { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ToolResources](../../toolresources/)
-* classe [ThreadResponse](../)
+* class [ToolResources](../../toolresources/)
+* class [ThreadResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

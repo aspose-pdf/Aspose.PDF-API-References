@@ -1,12 +1,12 @@
 ---
-title: OptimizedMemoryStream.WriteTo
-second_title: Aspose.PDF for .NET API Reference
-description: Il metodo OptimizzatoMemoryStream. Scrivono al flusso specificato.
+title: "OptimizedMemoryStream.WriteTo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo OptimizedMemoryStream. Scrive nello stream specificato"
 type: docs
 weight: 170
 url: /it/net/aspose.pdf/optimizedmemorystream/writeto/
 ---
-## Metodo OptimizedMemoryStream.WriteTo
+## OptimizedMemoryStream.WriteTo method
 
 Scrive nello stream specificato.
 
@@ -16,10 +16,12 @@ public void WriteTo(Stream stream)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| stream | Stream | Lo stream. |
+| stream | Stream | Il flusso. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OptimizedMemoryStream](../)
+* class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

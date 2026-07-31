@@ -1,7 +1,7 @@
 ---
-title: PdfPageStamp.PdfPageStamp
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di PdfPageStamp. Costruttore di PdfPageStamp
+title: "PdfPageStamp.PdfPageStamp"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore di PdfPageStamp. Costruttore di PdfPageStamp"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/pdfpagestamp/pdfpagestamp/
@@ -16,12 +16,12 @@ public PdfPageStamp(Page pdfPage)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| pdfPage | Page | Pagina utilizzata per il timbro. |
+| pdfPage | Page | Pagina utilizzata per l'apposizione del timbro. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Page](../../page/)
-* classe [PdfPageStamp](../)
+* class [Page](../../page/)
+* class [PdfPageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -29,7 +29,7 @@ public PdfPageStamp(Page pdfPage)
 
 ## PdfPageStamp(string, int) {#constructor_2}
 
-Crea un timbro di pagina Pdf dalla pagina specificata del documento nel file specificato.
+Crea un timbro di pagina PDF dalla pagina specificata del documento in un file specificato.
 
 ```csharp
 public PdfPageStamp(string fileName, int pageIndex)
@@ -40,9 +40,9 @@ public PdfPageStamp(string fileName, int pageIndex)
 | fileName | String | Nome e pagina del file PDF. |
 | pageIndex | Int32 | Indice della pagina. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfPageStamp](../)
+* class [PdfPageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -50,7 +50,7 @@ public PdfPageStamp(string fileName, int pageIndex)
 
 ## PdfPageStamp(Stream, int) {#constructor_1}
 
-Crea un timbro di pagina Pdf dalla pagina specificata nel documento dallo stream.
+Crea un timbro di pagina PDF dalla pagina specificata nel documento dallo stream.
 
 ```csharp
 public PdfPageStamp(Stream stream, int pageIndex)
@@ -58,11 +58,13 @@ public PdfPageStamp(Stream stream, int pageIndex)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| stream | Stream | Stream che contiene PDF |
+| stream | Stream | Stream che contiene il PDF |
 | pageIndex | Int32 | Indice della pagina. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PdfPageStamp](../)
+* class [PdfPageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

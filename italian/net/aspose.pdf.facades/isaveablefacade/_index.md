@@ -1,14 +1,14 @@
 ---
-title: Interface ISaveableFacade
-second_title: Aspose.PDF for .NET API Reference
-description: Interfaccia Aspose.Pdf.Facades.ISaveableFacade. Interfaccia facciata che definisce metodi comuni per tutte le facciate salvabili
+title: "Interfaccia ISaveableFacade"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Interfaccia Aspose.Pdf.Facades.ISaveableFacade. Interfaccia di facciata che definisce i metodi comuni a tutte le facciate salvabili."
 type: docs
-weight: 4370
+weight: 4490
 url: /it/net/aspose.pdf.facades/isaveablefacade/
 ---
-## Interfaccia ISaveableFacade
+## ISaveableFacade interface
 
-Interfaccia facciata che definisce metodi comuni per tutte le facciate salvabili.
+Interfaccia di facciata che definisce i metodi comuni a tutte le facciate salvabili.
 
 ```csharp
 public interface ISaveableFacade : IFacade
@@ -21,8 +21,10 @@ public interface ISaveableFacade : IFacade
 | [Save](../../aspose.pdf.facades/isaveablefacade/save/#save)(Stream) | Salva il documento PDF risultante nello stream. |
 | [Save](../../aspose.pdf.facades/isaveablefacade/save/#save_1)(string) | Salva il documento PDF risultante nel file. |
 
-### Vedi Anche
+### Vedi anche
 
-* interfaccia [IFacade](../ifacade/)
+* interface [IFacade](../ifacade/)
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

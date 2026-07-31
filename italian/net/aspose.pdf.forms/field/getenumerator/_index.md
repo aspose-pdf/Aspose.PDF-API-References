@@ -1,12 +1,12 @@
 ---
-title: Field.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Field. Restituisce l'enumeratore dei campi contenuti
+title: "Field.GetEnumerator"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Field. Restituisce l'enumeratore dei campi contenuti"
 type: docs
 weight: 200
 url: /it/net/aspose.pdf.forms/field/getenumerator/
 ---
-## Metodo Field.GetEnumerator
+## Field.GetEnumerator method
 
 Restituisce l'enumeratore dei campi contenuti.
 
@@ -14,13 +14,15 @@ Restituisce l'enumeratore dei campi contenuti.
 public IEnumerator<WidgetAnnotation> GetEnumerator()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
 Enumeratore.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
-* classe [Field](../)
+* class [WidgetAnnotation](../../../aspose.pdf.annotations/widgetannotation/)
+* class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

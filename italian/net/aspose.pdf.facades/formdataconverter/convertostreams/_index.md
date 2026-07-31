@@ -1,14 +1,14 @@
 ---
-title: FormDataConverter.ConverToStreams
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo FormDataConverter. Questo metodo è obsoleto. Si prega di utilizzare ConvertToStreams invece
+title: "FormDataConverter.ConverToStreams"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormDataConverter metodo. Questo metodo è obsoleto. Si prega di usare ConvertToStreams invece"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.facades/formdataconverter/convertostreams/
 ---
-## Metodo FormDataConverter.ConverToStreams
+## FormDataConverter.ConverToStreams method
 
-Questo metodo è obsoleto. Si prega di utilizzare ConvertToStreams() invece.
+Questo metodo è obsoleto. Si prega di utilizzare ConvertToStreams() al suo posto.
 
 ```csharp
 public void ConverToStreams(Stream[] destStream, DataType destType)
@@ -16,12 +16,14 @@ public void ConverToStreams(Stream[] destStream, DataType destType)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| destStream | Stream[] | Oggetto stream di destinazione. |
+| destStream | Stream[] | Oggetto flusso di destinazione. |
 | destType | DataType | Valore del tipo di destinazione. |
 
-### Vedi Anche
+### Vedi anche
 
 * enum [DataType](../../datatype/)
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

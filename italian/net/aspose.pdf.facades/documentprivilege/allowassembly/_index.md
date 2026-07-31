@@ -1,21 +1,23 @@
 ---
-title: DocumentPrivilege.AllowAssembly
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà DocumentPrivilege. Imposta il permesso che consente o meno l'assemblaggio. true consente e false è vietato
+title: "DocumentPrivilege.AllowAssembly"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà DocumentPrivilege. Imposta l'autorizzazione che consente l'assemblaggio o meno. true consente e false è vietato"
 type: docs
 weight: 110
 url: /it/net/aspose.pdf.facades/documentprivilege/allowassembly/
 ---
-## Proprietà DocumentPrivilege.AllowAssembly
+## DocumentPrivilege.AllowAssembly property
 
-Imposta il permesso che consente o meno l'assemblaggio. true consente e false è vietato.
+Imposta l'autorizzazione che consente l'assemblaggio o meno. true consente e false vieta.
 
 ```csharp
 public bool AllowAssembly { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocumentPrivilege](../)
+* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

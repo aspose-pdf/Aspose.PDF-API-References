@@ -1,14 +1,14 @@
 ---
-title: Class FitExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.FitExplicitDestination. Rappresenta una destinazione esplicita che visualizza la pagina con i suoi contenuti ingranditi giusto abbastanza per adattare l'intera pagina nella finestra sia orizzontalmente che verticalmente. Se i fattori di ingrandimento orizzontale e verticale richiesti sono diversi, utilizzare il più piccolo dei due centrando la pagina all'interno della finestra nell'altra dimensione.
+title: "Classe FitExplicitDestination"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Annotations.FitExplicitDestination class. Rappresenta una destinazione esplicita che visualizza la pagina con i suoi contenuti ingranditi appena a sufficienza per far entrare l'intera pagina nella finestra sia orizzontalmente che verticalmente. Se i fattori di ingrandimento orizzontale e verticale richiesti sono diversi, utilizzare il più piccolo dei due centrando la pagina nella finestra nell'altra dimensione."
 type: docs
-weight: 1760
+weight: 1850
 url: /it/net/aspose.pdf.annotations/fitexplicitdestination/
 ---
-## Classe FitExplicitDestination
+## FitExplicitDestination class
 
-Rappresenta una destinazione esplicita che visualizza la pagina con i suoi contenuti ingranditi giusto abbastanza per adattare l'intera pagina nella finestra sia orizzontalmente che verticalmente. Se i fattori di ingrandimento orizzontale e verticale richiesti sono diversi, utilizzare il più piccolo dei due, centrando la pagina all'interno della finestra nell'altra dimensione.
+Rappresenta una destinazione esplicita che visualizza la pagina con i suoi contenuti ingranditi appena a sufficienza per far entrare l'intera pagina nella finestra sia orizzontalmente sia verticalmente. Se i fattori di ingrandimento orizzontale e verticale richiesti sono diversi, utilizzare il più piccolo dei due, centrando la pagina nella finestra nell'altra dimensione.
 
 ```csharp
 public sealed class FitExplicitDestination : ExplicitDestination
@@ -32,10 +32,12 @@ public sealed class FitExplicitDestination : ExplicitDestination
 
 | Nome | Descrizione |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/fitexplicitdestination/tostring/)() | Converte lo stato dell'oggetto in un valore stringa. Esempio: "1 Fit". |
+| override [ToString](../../aspose.pdf.annotations/fitexplicitdestination/tostring/)() | Converte lo stato dell'oggetto in valore stringa. Esempio: "1 Fit". |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ExplicitDestination](../explicitdestination/)
+* class [ExplicitDestination](../explicitdestination/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

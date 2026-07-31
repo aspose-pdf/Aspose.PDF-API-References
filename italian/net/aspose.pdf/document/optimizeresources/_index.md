@@ -1,9 +1,9 @@
 ---
-title: Document.OptimizeResources
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo del documento. Ottimizza le risorse nel documento 1. Le risorse che non sono utilizzate nelle pagine del documento vengono rimosse 2. Le risorse uguali vengono unite in un unico oggetto 3. Gli oggetti non utilizzati vengono eliminati
+title: "Document.OptimizeResources"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Document metodo. Ottimizza le risorse nel documento 1. Le risorse non utilizzate nelle pagine del documento vengono rimosse 2. Le risorse uguali vengono unite in un unico oggetto 3. Gli oggetti inutilizzati vengono eliminati"
 type: docs
-weight: 760
+weight: 780
 url: /it/net/aspose.pdf/document/optimizeresources/
 ---
 ## OptimizeResources() {#optimizeresources}
@@ -14,9 +14,9 @@ Ottimizza le risorse nel documento: 1. Le risorse che non sono utilizzate nelle 
 public void OptimizeResources()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,11 +32,13 @@ public void OptimizeResources(OptimizationOptions strategy)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| strategy | OptimizationOptions | Strategia di ottimizzazione. |
+| strategia | OptimizationOptions | Strategia di ottimizzazione. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [OptimizationOptions](../../../aspose.pdf.optimization/optimizationoptions/)
-* classe [Document](../)
+* class [OptimizationOptions](../../../aspose.pdf.optimization/optimizationoptions/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

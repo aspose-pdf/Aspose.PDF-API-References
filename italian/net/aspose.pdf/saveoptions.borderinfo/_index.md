@@ -1,14 +1,14 @@
 ---
-title: Class SaveOptions.BorderInfo
-second_title: Aspose.PDF for .NET API Reference
-description: La classe Aspose.Pdf.SaveOptionsBorderInfo. L'istanza di questa classe rappresenta informazioni sui bordi che possono essere disegnati su un documento di risultato
+title: "Classe SaveOptions.BorderInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.SaveOptionsBorderInfo classe. Un'istanza di questa classe rappresenta le informazioni sul bordo che possono essere disegnate su un documento di risultato."
 type: docs
-weight: 9880
+weight: 10030
 url: /it/net/aspose.pdf/saveoptions.borderinfo/
 ---
-## Classe SaveOptions.BorderInfo
+## SaveOptions.BorderInfo class
 
-L'istanza di questa classe rappresenta informazioni sui bordi che possono essere disegnati su un documento di risultato.
+Un'istanza di questa classe rappresenta le informazioni sul bordo che possono essere disegnate su un documento di risultato.
 
 ```csharp
 public class BorderInfo
@@ -19,7 +19,7 @@ public class BorderInfo
 | Nome | Descrizione |
 | --- | --- |
 | [BorderInfo](../../aspose.pdf/saveoptions.borderinfo/.ctor#constructor)() | Crea un'istanza della classe BorderInfo |
-| [BorderInfo](../../aspose.pdf/saveoptions.borderinfo/.ctor#constructor_1)(BorderPartStyle) | Crea un'istanza della classe BorderInfo e inizializza tutti gli elementi del bordo (Superiore, Sinistro, Destro, Inferiore) con attributi copiati dallo stile del bordo fornito |
+| [BorderInfo](../../aspose.pdf/saveoptions.borderinfo/.ctor#constructor_1)(BorderPartStyle) | Crea un'istanza della classe BorderInfo e inizializza tutti gli elementi del bordo (Top, Left, Right, Bottom) con gli attributi copiati dallo stile di bordo fornito |
 
 ## Campi
 
@@ -30,8 +30,10 @@ public class BorderInfo
 | [RightStyleIfAny](../../aspose.pdf/saveoptions.borderinfo/rightstyleifany) | Rappresenta la parte destra (se presente) del bordo |
 | [TopStyleIfAny](../../aspose.pdf/saveoptions.borderinfo/topstyleifany) | Rappresenta la parte superiore (se presente) del bordo |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [SaveOptions](../saveoptions/)
+* class [SaveOptions](../saveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

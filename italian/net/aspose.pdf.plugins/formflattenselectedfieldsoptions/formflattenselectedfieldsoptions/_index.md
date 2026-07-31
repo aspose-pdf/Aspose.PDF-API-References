@@ -1,12 +1,12 @@
 ---
-title: FormFlattenSelectedFieldsOptions.FormFlattenSelectedFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di FormFlattenSelectedFieldsOptions. Inizializza una nuova istanza dell'oggetto FormFlattenSelectedFieldsOptions
+title: "FormFlattenSelectedFieldsOptions.FormFlattenSelectedFieldsOptions"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore di FormFlattenSelectedFieldsOptions. Inizializza una nuova istanza dell'oggetto FormFlattenSelectedFieldsOptions"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf.plugins/formflattenselectedfieldsoptions/formflattenselectedfieldsoptions/
 ---
-## Costruttore di FormFlattenSelectedFieldsOptions
+## FormFlattenSelectedFieldsOptions constructor
 
 Inizializza una nuova istanza dell'oggetto [`FormFlattenSelectedFieldsOptions`](../).
 
@@ -16,11 +16,13 @@ public FormFlattenSelectedFieldsOptions(SelectField selectField)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| selectField | SelectField | Specifica i campi che verranno appiattiti. |
+| selectField | SelectField | Specifica i campi che saranno appiattiti. |
 
-### Vedi Anche
+### Vedi anche
 
-* delegato [SelectField](../../selectfield/)
-* classe [FormFlattenSelectedFieldsOptions](../)
+* delegate [SelectField](../../selectfield/)
+* class [FormFlattenSelectedFieldsOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

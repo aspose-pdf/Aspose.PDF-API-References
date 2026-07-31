@@ -1,12 +1,12 @@
 ---
-title: Class RegexManager
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Text.RegexManager. Fornisce un wrapper per le operazioni di espressione regolare con impostazioni di timeout configurabili
+title: "Classe RegexManager"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Text.RegexManager. Fornisce un wrapper per le operazioni di espressioni regolari con impostazioni di timeout configurabili"
 type: docs
-weight: 10700
+weight: 10880
 url: /it/net/aspose.pdf.text/regexmanager/
 ---
-## Classe RegexManager
+## RegexManager class
 
 Fornisce un wrapper per le operazioni di espressione regolare con impostazioni di timeout configurabili.
 
@@ -20,7 +20,9 @@ public static class RegexManager
 | --- | --- |
 | static [MatchTimeout](../../aspose.pdf.text/regexmanager/matchtimeout/) { get; set; } | Ottiene o imposta il timeout per le operazioni Regex in tutta la libreria. Il valore predefinito è 1000 ms. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

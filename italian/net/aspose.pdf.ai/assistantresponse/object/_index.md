@@ -1,12 +1,12 @@
 ---
-title: AssistantResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà di AssistantResponse. Ottiene o imposta il tipo di oggetto che è sempre assistant
+title: "AssistantResponse.Object"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AssistantResponse property. Ottiene o imposta il tipo di oggetto, che è sempre assistant."
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.ai/assistantresponse/object/
 ---
-## Proprietà AssistantResponse.Object
+## AssistantResponse.Object property
 
 Ottiene o imposta il tipo di oggetto, che è sempre assistant.
 
@@ -14,8 +14,10 @@ Ottiene o imposta il tipo di oggetto, che è sempre assistant.
 public string Object { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AssistantResponse](../)
+* class [AssistantResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

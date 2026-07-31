@@ -1,25 +1,27 @@
 ---
-title: PaperSource.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PaperSource. Fornisce alcune informazioni interessanti sul PaperSource in forma di Stringa
+title: "PaperSource.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PaperSource. Fornisce alcune informazioni interessanti sul PaperSource in forma di stringa."
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.printing/papersource/tostring/
 ---
-## Metodo PaperSource.ToString
+## PaperSource.ToString method
 
-Fornisce alcune informazioni interessanti sul PaperSource in forma di Stringa.
+Fornisce alcune informazioni interessanti sulla PaperSource in forma di stringa.
 
 ```csharp
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Stringa che rappresenta il PaperSource.
+Stringa che rappresenta PaperSource.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSource](../)
+* class [PaperSource](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

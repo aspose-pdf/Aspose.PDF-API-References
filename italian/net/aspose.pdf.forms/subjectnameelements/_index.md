@@ -1,14 +1,14 @@
 ---
-title: Enum SubjectNameElements
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Forms.ElementiDelSoggettoDeiFirmi. Enumerazione. L'enumerazione spiega gli elementi nelle stringhe del soggetto della firma.
+title: "Enum SubjectNameElements"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.Forms.SubjectNameElements enum. L'enumerazione descrive gli elementi nella stringa del soggetto della firma"
 type: docs
-weight: 5300
+weight: 5420
 url: /it/net/aspose.pdf.forms/subjectnameelements/
 ---
-## Enumerazione SubjectNameElements
+## SubjectNameElements enumeration
 
-L'enumerazione descrive gli elementi nella stringa del soggetto della firma.
+L'enumerazione descrive gli elementi nella stringa oggetto della firma.
 
 ```csharp
 public enum SubjectNameElements
@@ -26,7 +26,9 @@ public enum SubjectNameElements
 | C | `5` | Paese. |
 | E | `6` | Email. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

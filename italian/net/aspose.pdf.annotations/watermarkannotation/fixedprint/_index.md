@@ -1,22 +1,24 @@
 ---
-title: WatermarkAnnotation.FixedPrint
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà WatermarkAnnotation. Oggetto di stampa fissa dell'annotazione Watermark
+title: "WatermarkAnnotation.FixedPrint"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà WatermarkAnnotation. Oggetto di stampa fisso dell'annotazione Watermark"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.annotations/watermarkannotation/fixedprint/
 ---
-## Proprietà WatermarkAnnotation.FixedPrint
+## WatermarkAnnotation.FixedPrint property
 
-Oggetto di stampa fissa dell'annotazione Watermark.
+Oggetto di stampa fisso dell'annotazione Watermark.
 
 ```csharp
 public FixedPrint FixedPrint { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FixedPrint](../../fixedprint/)
-* classe [WatermarkAnnotation](../)
+* class [FixedPrint](../../fixedprint/)
+* class [WatermarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

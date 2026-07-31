@@ -1,25 +1,27 @@
 ---
-title: GS.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo GS. Restituisce la rappresentazione in stringa dell'operatore
+title: "GS.ToString"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo GS. Restituisce la rappresentazione stringa dell'operatore"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.operators/gs/tostring/
 ---
-## Metodo GS.ToString
+## GS.ToString method
 
-Restituisce la rappresentazione in stringa dell'operatore.
+Restituisce la rappresentazione stringa dell'operatore.
 
 ```csharp
 public override string ToString()
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Rappresentazione in stringa dell'operatore.
+Rappresentazione stringa dell'operatore.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [GS](../)
+* class [GS](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

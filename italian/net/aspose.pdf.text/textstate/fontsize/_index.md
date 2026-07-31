@@ -1,12 +1,12 @@
 ---
-title: TextState.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà TextState. Ottiene o imposta la dimensione del carattere del testo
+title: "TextState.FontSize"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà TextState. Ottiene o imposta la dimensione del carattere del testo."
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.text/textstate/fontsize/
 ---
-## Proprietà TextState.FontSize
+## TextState.FontSize property
 
 Ottiene o imposta la dimensione del carattere del testo.
 
@@ -14,8 +14,10 @@ Ottiene o imposta la dimensione del carattere del testo.
 public virtual float FontSize { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextState](../)
+* class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: FormFieldFacade.Caption
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade property. The normal caption of form field
+title: "FormFieldFacade.Caption"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "FormFieldFacade proprietà. La didascalia normale del campo modulo"
 type: docs
 weight: 90
 url: /it/net/aspose.pdf.facades/formfieldfacade/caption/
 ---
-## Proprietà FormFieldFacade.Caption
+## FormFieldFacade.Caption property
 
-La didascalia normale del campo modulo.
+La didascalia normale del campo del modulo.
 
 ```csharp
 public string Caption { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

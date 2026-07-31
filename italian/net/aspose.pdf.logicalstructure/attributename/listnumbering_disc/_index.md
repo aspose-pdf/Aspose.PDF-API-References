@@ -1,21 +1,23 @@
 ---
-title: AttributeName.ListNumbering_Disc
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName field. Attribute ListNumbering Disc  Solid circular bullet
+title: "AttributeName.ListNumbering_Disc"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "AttributeName campo. Attributo ListNumbering Disc  Punto elenco circolare pieno"
 type: docs
 weight: 270
 url: /it/net/aspose.pdf.logicalstructure/attributename/listnumbering_disc/
 ---
-## Campo AttributeName.ListNumbering_Disc
+## AttributeName.ListNumbering_Disc field
 
-Elenco degli attributi ListNumbering: Disco - Bullet circolare solido.
+Attributo ListNumbering: Disc - Punto elenco circolare pieno.
 
 ```csharp
 public static readonly AttributeName ListNumbering_Disc;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

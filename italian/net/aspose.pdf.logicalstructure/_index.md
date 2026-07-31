@@ -1,7 +1,7 @@
 ---
-title: Aspose.Pdf.LogicalStructure
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Tagged.LogicalStructure è uno spazio dei nomi per le classi di Struttura Logica PDF
+title: "Aspose.Pdf.LogicalStructure"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Il Aspose.Pdf.Tagged.LogicalStructure è uno spazio dei nomi per le classi della Struttura Logica PDF."
 type: docs
 weight: 140
 url: /it/net/aspose.pdf.logicalstructure/
@@ -12,12 +12,12 @@ Il **Aspose.Pdf.Tagged.LogicalStructure** è uno spazio dei nomi per le classi d
 
 | Classe | Descrizione |
 | --- | --- |
-| [AnnotationElement](./annotationelement/) | Rappresenta una classe base per gli elementi della struttura di annotazione nella struttura logica. |
+| [AnnotationElement](./annotationelement/) | Rappresenta una classe base per gli elementi di struttura di annotazione nella struttura logica. |
 | [AnnotElement](./annotelement/) | Rappresenta l'elemento di struttura Annot nella struttura logica. |
 | [ArtElement](./artelement/) | Rappresenta l'elemento di struttura Art nella struttura logica. |
-| [AttributeKey](./attributekey/) | Rappresenta le Chiavi di Attributo Standard. |
-| [AttributeName](./attributename/) | Rappresenta la classe per i Valori del Nome dell'Attributo. |
-| [AttributeOwnerStandard](./attributeownerstandard/) | Rappresenta i Proprietari di Attributo Standard. |
+| [AttributeKey](./attributekey/) | Rappresenta le chiavi di attributo standard. |
+| [AttributeName](./attributename/) | Rappresenta la classe per i valori dei nomi degli attributi. |
+| [AttributeOwnerStandard](./attributeownerstandard/) | Rappresenta i proprietari di attributi standard. |
 | [BibEntryElement](./bibentryelement/) | Rappresenta l'elemento di struttura BibEntry nella struttura logica. |
 | [BlockQuoteElement](./blockquoteelement/) | Rappresenta l'elemento di struttura BlockQuote nella struttura logica. |
 | [BLSElement](./blselement/) | Rappresenta una classe base per gli elementi di struttura a livello di blocco nella struttura logica. |
@@ -38,12 +38,12 @@ Il **Aspose.Pdf.Tagged.LogicalStructure** è uno spazio dei nomi per le classi d
 | [ILSTextElement](./ilstextelement/) | Rappresenta una classe base per gli elementi di struttura di testo a livello inline nella struttura logica. |
 | [IndexElement](./indexelement/) | Rappresenta l'elemento di struttura Index nella struttura logica. |
 | [LinkElement](./linkelement/) | Rappresenta l'elemento di struttura Link nella struttura logica. |
-| [ListChildElement](./listchildelement/) | Rappresenta una classe base per gli elementi figli della Lista nella struttura logica. |
+| [ListChildElement](./listchildelement/) | Rappresenta una classe base per gli elementi figli della List nella struttura logica. |
 | [ListElement](./listelement/) | Rappresenta l'elemento di struttura List nella struttura logica. |
 | [ListLblElement](./listlblelement/) | Rappresenta l'elemento di struttura Lbl nella struttura logica della lista. |
 | [ListLBodyElement](./listlbodyelement/) | Rappresenta l'elemento di struttura LBody nella struttura logica della lista. |
 | [ListLIElement](./listlielement/) | Rappresenta l'elemento di struttura LI nella struttura logica della lista. |
-| [MCRElement](./mcrelement/) | Rappresenta l'oggetto di riferimento contenuto marcato nella struttura logica. |
+| [MCRElement](./mcrelement/) | Rappresenta l'oggetto di riferimento marked-content nella struttura logica. |
 | [NonStructElement](./nonstructelement/) | Rappresenta l'elemento di struttura NonStruct nella struttura logica. |
 | [NoteElement](./noteelement/) | Rappresenta l'elemento di struttura Note nella struttura logica. |
 | [OBJRElement](./objrelement/) | Rappresenta l'entità di riferimento oggetto nella struttura logica. |
@@ -61,16 +61,16 @@ Il **Aspose.Pdf.Tagged.LogicalStructure** è uno spazio dei nomi per le classi d
 | [SpanElement](./spanelement/) | Rappresenta l'elemento di struttura Span nella struttura logica. |
 | [StructTreeRootElement](./structtreerootelement/) | Rappresenta l'oggetto StructTreeRoot nella struttura logica. |
 | [StructureAttribute](./structureattribute/) | Rappresenta l'attributo dell'elemento di struttura. |
-| [StructureAttributeCollection](./structureattributecollection/) | Rappresenta la collezione di attributi degli elementi di struttura. |
-| [StructureAttributes](./structureattributes/) | Rappresenta gli attributi dell'elemento di struttura per i proprietari di attributo standard. |
+| [StructureAttributeCollection](./structureattributecollection/) | Rappresenta la raccolta di attributi degli elementi di struttura. |
+| [StructureAttributes](./structureattributes/) | Rappresenta gli attributi dell'elemento di struttura per i proprietari di attributi standard. |
 | [StructureElement](./structureelement/) | Rappresenta una classe base per gli elementi di struttura nella struttura logica. |
-| [StructureTextState](./structuretextstate/) | Rappresenta le impostazioni dello stato del testo per gli Elementi di Struttura di Testo e Contenuto Taggato (ITextElement, ITaggedContent) |
+| [StructureTextState](./structuretextstate/) | Rappresenta le impostazioni dello stato del testo per gli Elementi di Struttura Testo e TaggedContent (ITextElement, ITaggedContent) |
 | [StructureTypeCategory](./structuretypecategory/) | Rappresenta le Categorie dei Tipi di Struttura Standard. |
 | [StructureTypeStandard](./structuretypestandard/) | Rappresenta i Tipi di Struttura Standard. |
-| [TableCellElement](./tablecellelement/) | Rappresenta una classe base per gli elementi di cella della tabella (TH e TD) nella struttura logica. |
+| [TableCellElement](./tablecellelement/) | Rappresenta una classe base per gli elementi cella della tabella (TH e TD) nella struttura logica. |
 | [TableChildElement](./tablechildelement/) | Rappresenta una classe base per gli elementi figli della Tabella nella struttura logica. |
 | [TableElement](./tableelement/) | Rappresenta l'elemento di struttura Table nella struttura logica. |
-| [TableRowCollectionElement](./tablerowcollectionelement/) | Rappresenta una classe base per gli elementi figli della Testa, Corpo e Piede della Tabella nella struttura logica. |
+| [TableRowCollectionElement](./tablerowcollectionelement/) | Rappresenta una classe base per gli elementi figli di Table Head, Body e Foot nella struttura logica. |
 | [TableTBodyElement](./tabletbodyelement/) | Rappresenta l'elemento di struttura TBody nella struttura logica della tabella. |
 | [TableTDElement](./tabletdelement/) | Rappresenta l'elemento di struttura TD nella struttura logica della tabella. |
 | [TableTFootElement](./tabletfootelement/) | Rappresenta l'elemento di struttura TFoot nella struttura logica della tabella. |
@@ -87,4 +87,6 @@ Il **Aspose.Pdf.Tagged.LogicalStructure** è uno spazio dei nomi per le classi d
 
 | Interfaccia | Descrizione |
 | --- | --- |
-| [ITextElement](./itextelement/) | Interfaccia per la presentazione degli elementi di struttura di testo. |
+| [ITextElement](./itextelement/) | Interfaccia per la presentazione degli elementi della struttura del testo. |
+
+

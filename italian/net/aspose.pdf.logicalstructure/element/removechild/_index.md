@@ -1,14 +1,14 @@
 ---
-title: Element.RemoveChild
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo Element. Rimuovi il figlio a
+title: "Element.RemoveChild"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo Element. Rimuovi il figlio a"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.logicalstructure/element/removechild/
 ---
-## Metodo Element.RemoveChild
+## Element.RemoveChild method
 
-Rimuovi il figlio a.
+Rimuovi figlio a.
 
 ```csharp
 public void RemoveChild(int index)
@@ -18,8 +18,10 @@ public void RemoveChild(int index)
 | --- | --- | --- |
 | index | Int32 | Indice dell'elemento figlio. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Element](../)
+* class [Element](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: PageSize.A1
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà PageSize. Dimensione A1 840x594 mm
+title: "PageSize.A1"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà PageSize. Formato A1 840x594 mm"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf/pagesize/a1/
 ---
-## Proprietà PageSize.A1
+## PageSize.A1 property
 
-Dimensione A1 (840x594 mm).
+Formato A1 (840x594 mm).
 
 ```csharp
 public static PageSize A1 { get; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PageSize](../)
+* class [PageSize](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

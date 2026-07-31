@@ -1,14 +1,14 @@
 ---
-title: Enum PclLoadOptions.ConversionEngines
-second_title: Aspose.PDF for .NET API Reference
-description: Enum PclLoadOptions.ConversionEngines di Aspose.Pdf. Enumera i motori di conversione che possono essere utilizzati per la conversione
+title: "Enumerazione PclLoadOptions.ConversionEngines"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Enum Aspose.Pdf.PclLoadOptionsConversionEngines. Elenca i motori di conversione che possono essere utilizzati per la conversione"
 type: docs
-weight: 8310
+weight: 8450
 url: /it/net/aspose.pdf/pclloadoptions.conversionengines/
 ---
-## Enumerazione PclLoadOptions.ConversionEngines
+## PclLoadOptions.ConversionEngines enumeration
 
-Enumera i motori di conversione che possono essere utilizzati per la conversione
+Elenca i motori di conversione che possono essere utilizzati per la conversione.
 
 ```csharp
 public enum ConversionEngines
@@ -18,11 +18,13 @@ public enum ConversionEngines
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| LegacyEngine | `0` | Il motore di conversione legacy è il motore di conversione che è stato utilizzato per un po' di tempo ed è utilizzato per impostazione predefinita. |
-| NewEngine | `1` | Il nuovo motore di conversione è attualmente in fase di A-testing. Lo apriamo nell'API pubblica per ricevere feedback. Attualmente si consiglia di utilizzarlo solo quando il vecchio motore di conversione non può convertire il documento per qualche motivo. |
+| LegacyEngine | `0` | Il motore di conversione legacy è il motore di conversione che è stato usato per un po' ed è quello predefinito. |
+| NewEngine | `1` | Il nuovo motore di conversione è attualmente in fase di test A. Lo abbiamo inserito nell'API pubblica per raccogliere feedback. Al momento è consigliato usarlo solo quando il vecchio motore di conversione non può convertire il documento per qualche motivo. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PclLoadOptions](../pclloadoptions/)
+* class [PclLoadOptions](../pclloadoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

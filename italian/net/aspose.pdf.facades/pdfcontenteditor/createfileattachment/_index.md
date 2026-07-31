@@ -1,29 +1,29 @@
 ---
-title: PdfContentEditor.CreateFileAttachment
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo PdfContentEditor. Crea annotazione di allegato file
+title: "PdfContentEditor.CreateFileAttachment"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo PdfContentEditor. Crea un'annotazione di allegato file"
 type: docs
 weight: 150
 url: /it/net/aspose.pdf.facades/pdfcontenteditor/createfileattachment/
 ---
 ## CreateFileAttachment(Rectangle, string, string, int, string) {#createfileattachment_2}
 
-Crea annotazione di allegato file.
+Crea un'annotazione di allegato file.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, string filePath, int page, 
     string name)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | rect | Rectangle | Il rettangolo dell'annotazione che definisce la posizione dell'annotazione sulla pagina. |
-| contents | String | I contenuti dell'annotazione. |
-| filePath | String | Il percorso del file che sarà allegato. |
-| page | Int32 | Il numero della pagina originale in cui verrà creata l'annotazione. |
-| name | String | Il nome di un'icona che sarà utilizzata per visualizzare l'annotazione. Questo valore può essere: "Graph", "PushPin", "Paperclip", "Tag". |
+| contents | String | Il contenuto dell'annotazione. |
+| filePath | String | Il percorso del file verrà allegato. |
+| pagina | Int32 | Il numero della pagina originale dove verrà creata l'annotazione. |
+| nome | String | Il nome di un'icona verrà usato nella visualizzazione dell'annotazione. Questo valore può essere: "Graph", "PushPin", "Paperclip", "Tag". |
 
-## Examples
+## Esempi
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -33,7 +33,7 @@ editor.CreateFileAttachment(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### See Also
+### Vedi anche
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -43,23 +43,23 @@ editor.Save("example_out.pdf");
 
 ## CreateFileAttachment(Rectangle, string, string, int, string, double) {#createfileattachment_3}
 
-Crea annotazione di allegato file.
+Crea un'annotazione di allegato file.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, string filePath, int page, 
     string name, double opacity)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | rect | Rectangle | Il rettangolo dell'annotazione che definisce la posizione dell'annotazione sulla pagina. |
-| contents | String | I contenuti dell'annotazione. |
-| filePath | String | Il percorso del file che sarà allegato. |
-| page | Int32 | Il numero della pagina originale in cui verrà creata l'annotazione. |
-| name | String | Il nome di un'icona che sarà utilizzata per visualizzare l'annotazione. Questo valore può essere: "Graph", "PushPin", "Paperclip", "Tag". |
-| opacity | Double | Opacità dell'icona da 0 a 1: 0 - completamente trasparente, 1 - completamente opaco. |
+| contents | String | Il contenuto dell'annotazione. |
+| filePath | String | Il percorso del file verrà allegato. |
+| pagina | Int32 | Il numero della pagina originale dove verrà creata l'annotazione. |
+| nome | String | Il nome di un'icona verrà usato nella visualizzazione dell'annotazione. Questo valore può essere: "Graph", "PushPin", "Paperclip", "Tag". |
+| opacità | Double | Opacità dell'icona da 0 a 1: 0 - completamente trasparente, 1 - completamente opaco. |
 
-## Examples
+## Esempi
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -69,7 +69,7 @@ editor.CreateFileAttachment(new System.Drawing.Rectangle(0, 0, 100, 100),
 editor.Save("example_out.pdf");
 ```
 
-### See Also
+### Vedi anche
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -79,23 +79,23 @@ editor.Save("example_out.pdf");
 
 ## CreateFileAttachment(Rectangle, string, Stream, string, int, string) {#createfileattachment}
 
-Crea annotazione di allegato file.
+Crea un'annotazione di allegato file.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, Stream attachmentStream, 
     string attachmentName, int page, string name)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | rect | Rectangle | Il rettangolo dell'annotazione che definisce la posizione dell'annotazione sulla pagina. |
-| contents | String | I contenuti dell'annotazione. |
+| contents | String | Il contenuto dell'annotazione. |
 | attachmentStream | Stream | Il flusso del file di allegato. |
 | attachmentName | String | Il nome dell'allegato. |
-| page | Int32 | Il numero della pagina originale in cui verrà creata l'annotazione. |
-| name | String | Il nome di un'icona che sarà utilizzata per visualizzare l'annotazione. Questo valore può essere: "Graph", "PushPin", "Paperclip", "Tag". |
+| pagina | Int32 | Il numero della pagina originale dove verrà creata l'annotazione. |
+| nome | String | Il nome di un'icona verrà usato nella visualizzazione dell'annotazione. Questo valore può essere: "Graph", "PushPin", "Paperclip", "Tag". |
 
-## Examples
+## Esempi
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -108,7 +108,7 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 }
 ```
 
-### See Also
+### Vedi anche
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -118,24 +118,24 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 
 ## CreateFileAttachment(Rectangle, string, Stream, string, int, string, double) {#createfileattachment_1}
 
-Crea annotazione di allegato file.
+Crea un'annotazione di allegato file.
 
 ```csharp
 public void CreateFileAttachment(Rectangle rect, string contents, Stream attachmentStream, 
     string attachmentName, int page, string name, double opacity)
 ```
 
-| Parameter | Type | Description |
+| Parametro | Tipo | Descrizione |
 | --- | --- | --- |
 | rect | Rectangle | Il rettangolo dell'annotazione che definisce la posizione dell'annotazione sulla pagina. |
-| contents | String | I contenuti dell'annotazione. |
+| contents | String | Il contenuto dell'annotazione. |
 | attachmentStream | Stream | Il flusso del file di allegato. |
 | attachmentName | String | Il nome dell'allegato. |
-| page | Int32 | Il numero della pagina originale in cui verrà creata l'annotazione. |
-| name | String | Il nome di un'icona che sarà utilizzata per visualizzare l'annotazione. Questo valore può essere: "Graph", "PushPin", "Paperclip", "Tag". |
-| opacity | Double | Opacità dell'icona da 0 a 1: 0 - completamente trasparente, 1 - completamente opaco. |
+| pagina | Int32 | Il numero della pagina originale dove verrà creata l'annotazione. |
+| nome | String | Il nome di un'icona verrà usato nella visualizzazione dell'annotazione. Questo valore può essere: "Graph", "PushPin", "Paperclip", "Tag". |
+| opacità | Double | Opacità dell'icona da 0 a 1: 0 - completamente trasparente, 1 - completamente opaco. |
 
-## Examples
+## Esempi
 
 ```csharp
 PdfContentEditor editor = new PdfContentEditor();
@@ -148,8 +148,10 @@ using(System.IO.FileStream attStream = System.IO.File.OpenRead("attachment_file.
 }
 ```
 
-### See Also
+### Vedi anche
 
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum XfaTag
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.XfaTag enum. The xfa stream tag
+title: "Enum XfaTag"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Enum Aspose.Pdf.XfaTag. Il tag del flusso xfa"
 type: docs
-weight: 11380
+weight: 11570
 url: /it/net/aspose.pdf/xfatag/
 ---
-## Enumerazione XfaTag
+## XfaTag enumeration
 
-Il tag dello stream xfa
+Il tag del flusso xfa
 
 ```csharp
 public enum XfaTag
@@ -18,13 +18,15 @@ public enum XfaTag
 
 | Nome | Valore | Descrizione |
 | --- | --- | --- |
-| Template | `0` | Il tag del modello |
-| Datasets | `1` | Il tag dei dataset |
-| Config | `2` | Il tag della configurazione |
-| Localset | `3` | Il tag del set locale |
-| Form | `4` | Il tag del modulo |
+| Template | `0` | Il tag template |
+| Datasets | `1` | Il tag datasets |
+| Config | `2` | Il tag config |
+| Localset | `3` | Il tag localset |
+| Form | `4` | Il tag form |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

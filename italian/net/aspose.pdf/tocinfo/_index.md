@@ -1,14 +1,14 @@
 ---
-title: Class TocInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.TocInfo. Rappresenta le informazioni della tabella dei contenuti
+title: "Classe TocInfo"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.TocInfo. Rappresenta le informazioni dell'indice"
 type: docs
-weight: 11120
+weight: 11310
 url: /it/net/aspose.pdf/tocinfo/
 ---
-## Classe TocInfo
+## TocInfo class
 
-Rappresenta le informazioni della tabella dei contenuti.
+Rappresenta le informazioni dell'indice.
 
 ```csharp
 public sealed class TocInfo
@@ -24,17 +24,19 @@ public sealed class TocInfo
 
 | Nome | Descrizione |
 | --- | --- |
-| [ColumnInfo](../../aspose.pdf/tocinfo/columninfo/) { get; set; } | Ottiene o imposta le informazioni sulla colonna. |
-| [CopyToOutlines](../../aspose.pdf/tocinfo/copytooutlines/) { get; set; } | Ottiene o imposta se la TOC è copiata negli outline. |
-| [FormatArray](../../aspose.pdf/tocinfo/formatarray/) { get; set; } | Ottiene o imposta l'array di formato per la tabella dei contenuti. |
+| [ColumnInfo](../../aspose.pdf/tocinfo/columninfo/) { get; set; } | Ottiene o imposta le informazioni della colonna. |
+| [CopyToOutlines](../../aspose.pdf/tocinfo/copytooutlines/) { get; set; } | Ottiene o imposta se l'indice è copiato negli outline. |
+| [FormatArray](../../aspose.pdf/tocinfo/formatarray/) { get; set; } | Ottiene o imposta l'array di formato per l'indice. |
 | [FormatArrayLength](../../aspose.pdf/tocinfo/formatarraylength/) { get; set; } | Ottiene o imposta la lunghezza dell'array di formato |
-| [IsCountTocPages](../../aspose.pdf/tocinfo/iscounttocpages/) { get; set; } | Ottiene o imposta se conta o passa le pagine della TOC. |
-| [IsShowPageNumbers](../../aspose.pdf/tocinfo/isshowpagenumbers/) { get; set; } | Ottiene o imposta se mostra i numeri di pagina nella TOC. |
-| [LineDash](../../aspose.pdf/tocinfo/linedash/) { get; set; } | Ottiene o imposta il tratteggio della linea della TOC. |
+| [IsCountTocPages](../../aspose.pdf/tocinfo/iscounttocpages/) { get; set; } | Ottiene o imposta se conta le pagine dell'indice passate. |
+| [IsShowPageNumbers](../../aspose.pdf/tocinfo/isshowpagenumbers/) { get; set; } | Ottiene o imposta se mostra i numeri di pagina nell'indice. |
+| [LineDash](../../aspose.pdf/tocinfo/linedash/) { get; set; } | Ottiene o imposta il tratto della linea dell'indice. |
 | [PageNumbersPrefix](../../aspose.pdf/tocinfo/pagenumbersprefix/) { get; set; } | Ottiene o imposta il prefisso prima del numero di pagina. |
-| [Title](../../aspose.pdf/tocinfo/title/) { get; set; } | Ottiene o imposta il titolo della tabella dei contenuti. |
+| [Title](../../aspose.pdf/tocinfo/title/) { get; set; } | Ottiene o imposta il titolo dell'indice. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

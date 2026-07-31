@@ -1,21 +1,23 @@
 ---
-title: VectorStoreFileBatchResponse.VectorStoreId
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà VectorStoreFileBatchResponse. Ottiene o imposta l'ID del negozio vettoriale a cui è allegato il File
+title: "VectorStoreFileBatchResponse.VectorStoreId"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "VectorStoreFileBatchResponse proprietà. Ottiene o imposta l'ID del vector store a cui il File è allegato"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf.ai/vectorstorefilebatchresponse/vectorstoreid/
 ---
-## Proprietà VectorStoreFileBatchResponse.VectorStoreId
+## VectorStoreFileBatchResponse.VectorStoreId property
 
-Ottiene o imposta l'ID del negozio vettoriale a cui è allegato il File.
+Ottiene o imposta l'ID del vector store a cui è allegato il File.
 
 ```csharp
 public string VectorStoreId { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [VectorStoreFileBatchResponse](../)
+* class [VectorStoreFileBatchResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

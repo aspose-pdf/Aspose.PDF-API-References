@@ -1,21 +1,23 @@
 ---
-title: XFormCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo XFormCollection. Pulisce tutti gli elementi dalla collezione
+title: "XFormCollection.Clear"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo XFormCollection. Cancella tutti gli elementi dalla collezione"
 type: docs
 weight: 70
 url: /it/net/aspose.pdf/xformcollection/clear/
 ---
-## Metodo XFormCollection.Clear
+## XFormCollection.Clear method
 
-Pulisce tutti gli elementi dalla collezione.
+Cancella tutti gli elementi dalla raccolta.
 
 ```csharp
 public void Clear()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XFormCollection](../)
+* class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

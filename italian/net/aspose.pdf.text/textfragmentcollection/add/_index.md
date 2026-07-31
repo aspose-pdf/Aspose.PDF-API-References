@@ -1,12 +1,12 @@
 ---
-title: TextFragmentCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metodo TextFragmentCollection. Aggiunge l'elemento del frammento di testo all'indice specificato
+title: "TextFragmentCollection.Add"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Metodo TextFragmentCollection. Aggiunge l'elemento del frammento di testo all'indice specificato"
 type: docs
 weight: 60
 url: /it/net/aspose.pdf.text/textfragmentcollection/add/
 ---
-## Metodo TextFragmentCollection.Add
+## TextFragmentCollection.Add method
 
 Aggiunge l'elemento del frammento di testo all'indice specificato.
 
@@ -16,11 +16,13 @@ public void Add(TextFragment fragment)
 
 | Parametro | Tipo | Descrizione |
 | --- | --- | --- |
-| fragment | TextFragment | Elemento del frammento di testo da aggiungere. |
+| frammento | TextFragment | Elemento del frammento di testo da aggiungere. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [TextFragment](../../textfragment/)
-* classe [TextFragmentCollection](../)
+* class [TextFragment](../../textfragment/)
+* class [TextFragmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

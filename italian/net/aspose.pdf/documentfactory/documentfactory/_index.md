@@ -1,12 +1,12 @@
 ---
-title: DocumentFactory.DocumentFactory
-second_title: Aspose.PDF for .NET API Reference
-description: Costruttore di DocumentFactory. Il costruttore predefinito
+title: "DocumentFactory.DocumentFactory"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Costruttore DocumentFactory. Il costruttore predefinito"
 type: docs
 weight: 10
 url: /it/net/aspose.pdf/documentfactory/documentfactory/
 ---
-## Costruttore di DocumentFactory
+## DocumentFactory constructor
 
 Il costruttore predefinito.
 
@@ -14,8 +14,10 @@ Il costruttore predefinito.
 public DocumentFactory()
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocumentFactory](../)
+* class [DocumentFactory](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

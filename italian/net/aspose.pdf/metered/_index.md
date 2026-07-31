@@ -1,14 +1,14 @@
 ---
-title: Class Metered
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Metered. Fornisce metodi per impostare la chiave metered
+title: "Classe Metered"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Metered. Fornisce metodi per impostare la chiave metered."
 type: docs
-weight: 6960
+weight: 7100
 url: /it/net/aspose.pdf/metered/
 ---
-## Classe Metered
+## Metered class
 
-Fornisce metodi per impostare la chiave metered.
+Fornisce metodi per impostare la chiave misurata.
 
 ```csharp
 public class Metered
@@ -24,15 +24,15 @@ public class Metered
 
 | Nome | Descrizione |
 | --- | --- |
-| [GetProductName](../../aspose.pdf/metered/getproductname/)() | Ottiene il nome del prodotto. |
-| [SetMeteredKey](../../aspose.pdf/metered/setmeteredkey/)(string, string) | Imposta la chiave pubblica e privata metered. Se acquisti una licenza metered, quando avvii l'applicazione, questa API dovrebbe essere chiamata, normalmente, questo è sufficiente. Tuttavia, se fallisce sempre nel caricare i dati di consumo e supera le 24 ore, la licenza sarà impostata su stato di valutazione, per evitare tale caso, dovresti controllare regolarmente lo stato della licenza, se è in stato di valutazione, chiama di nuovo questa API. |
+| [GetProductName](../../aspose.pdf/metered/getproductname/)() | Ottieni il nome del prodotto. |
+| [SetMeteredKey](../../aspose.pdf/metered/setmeteredkey/)(string, string) | Imposta la chiave pubblica e privata metered. Se acquisti una licenza metered, all'avvio dell'applicazione questa API dovrebbe essere chiamata; normalmente è sufficiente. Tuttavia, se il caricamento dei dati di consumo fallisce continuamente e supera le 24 ore, la licenza verrà impostata in stato di valutazione; per evitare tale caso, dovresti controllare regolarmente lo stato della licenza e, se è in stato di valutazione, chiamare nuovamente questa API. |
 | static [GetConsumptionCredit](../../aspose.pdf/metered/getconsumptioncredit/)() | Ottiene il credito di consumo. |
 | static [GetConsumptionQuantity](../../aspose.pdf/metered/getconsumptionquantity/)() | Ottiene la dimensione del file di consumo. |
-| static [IsMeteredLicensed](../../aspose.pdf/metered/ismeteredlicensed/)() | Controlla se il metered è licenziato. |
+| static [IsMeteredLicensed](../../aspose.pdf/metered/ismeteredlicensed/)() | Verifica se metered è licenziato. |
 
 ## Esempi
 
-In questo esempio, si tenterà di impostare la chiave pubblica e privata metered.
+In questo esempio, verrà tentato di impostare la chiave pubblica e privata a consumo.
 
 ```csharp
 [C#]
@@ -48,27 +48,27 @@ Dim metered As Metered = New Metered
 metered.SetMeteredKey("PublicKey", "PrivateKey")
 ```
 
-Mostra come attivare una licenza Metered e tracciare credito/consumo.
+Mostra come attivare una licenza Metered e tenere traccia del credito/consumo.
 
 ```csharp
 [C#]
 
-// Set metered public and private keys
+// Imposta le chiavi pubbliche e private a consumo
 var metered = new Aspose.Pdf.Metered();
 metered.SetMeteredKey("PublicKey", "PrivateKey");
-//Get current Consumption Credit and Quantity
+//Ottieni il credito di consumo e la quantità attuali
 var wasCredit = Metered.GetConsumptionCredit();
 var wasQuantity = Metered.GetConsumptionQuantity();
-//Operate using Aspose.Pdf
+//Operare utilizzando Aspose.Pdf
 var doc = new Document();
 doc.Pages.Add();
 doc.Save(dataDir + "example.pdf");
-//Little wait to be sure the transaction completed
+//Attendere un attimo per assicurarsi che la transazione sia completata
 System.Threading.Thread.Sleep(10000);
-//Get current Consumption Credit and Quantity
+//Ottieni il credito di consumo e la quantità attuali
 var nowCredit = Metered.GetConsumptionCredit();
 var nowQuantity = Metered.GetConsumptionQuantity();
-//Show Info
+//Mostra informazioni
 Console.WriteLine("Credit: was={0} now={1} difference={2}", wasCredit, nowCredit, nowCredit - wasCredit);
 Console.WriteLine("Quantity: was={0} now={1} difference={2}", wasQuantity, nowQuantity, nowQuantity - wasQuantity);
 ```
@@ -96,7 +96,9 @@ Console.WriteLine("Credit: was={0} now={1} difference={2}", wasCredit, nowCredit
 Console.WriteLine("Quantity: was={0} now={1} difference={2}", wasQuantity, nowQuantity, nowQuantity - wasQuantity)
 ```
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

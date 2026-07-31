@@ -1,22 +1,24 @@
 ---
-title: GradientAxialShading.StartColor
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà GradientAxialShading. Ottiene o imposta il colore di inizio
+title: "GradientAxialShading.StartColor"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà GradientAxialShading. Ottiene o imposta il colore iniziale"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.drawing/gradientaxialshading/startcolor/
 ---
-## Proprietà GradientAxialShading.StartColor
+## GradientAxialShading.StartColor property
 
-Ottiene o imposta il colore di inizio.
+Ottiene o imposta il colore iniziale.
 
 ```csharp
 public Color StartColor { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../../../aspose.pdf/color/)
-* classe [GradientAxialShading](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [GradientAxialShading](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

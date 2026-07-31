@@ -1,22 +1,24 @@
 ---
-title: EncryptionOptions.DocumentPrivilege
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà EncryptionOptions. Permessi del documento vedere Permessi per dettagli
+title: "EncryptionOptions.DocumentPrivilege"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà EncryptionOptions. Document permissions, vedere Permissions per i dettagli"
 type: docs
 weight: 30
 url: /it/net/aspose.pdf.plugins/encryptionoptions/documentprivilege/
 ---
-## Proprietà EncryptionOptions.DocumentPrivilege
+## EncryptionOptions.DocumentPrivilege property
 
-Permessi del documento, vedere [`Permissions`](../../../aspose.pdf/permissions/) per dettagli.
+Document permissions, vedere [`Permissions`](../../../aspose.pdf/permissions/) per i dettagli.
 
 ```csharp
 public DocumentPrivilege DocumentPrivilege { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
-* classe [EncryptionOptions](../)
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* class [EncryptionOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

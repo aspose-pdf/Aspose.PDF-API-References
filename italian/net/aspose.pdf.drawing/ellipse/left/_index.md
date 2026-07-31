@@ -1,21 +1,23 @@
 ---
-title: Ellipse.Left
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà Ellipse. Ottiene o imposta un valore float che indica la posizione a sinistra dell'ellisse
+title: "Ellipse.Left"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Ellipse. Ottiene o imposta un valore float che indica la posizione sinistra dell'ellisse"
 type: docs
 weight: 40
 url: /it/net/aspose.pdf.drawing/ellipse/left/
 ---
-## Proprietà Ellipse.Left
+## Ellipse.Left property
 
-Ottiene o imposta un valore float che indica la posizione a sinistra dell'ellisse.
+Ottiene o imposta un valore float che indica la posizione sinistra dell'ellisse.
 
 ```csharp
 public double Left { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Ellipse](../)
+* class [Ellipse](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

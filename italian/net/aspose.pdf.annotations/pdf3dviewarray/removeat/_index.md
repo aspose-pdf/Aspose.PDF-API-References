@@ -1,14 +1,14 @@
 ---
-title: PDF3DViewArray.RemoveAt
-second_title: Aspose.PDF for .NET API Reference
-description: PDF3DViewArray method. Removes view from views array at specified index
+title: "PDF3DViewArray.RemoveAt"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "PDF3DViewArray metodo. Rimuove la vista dall'array di viste all'indice specificato"
 type: docs
 weight: 50
 url: /it/net/aspose.pdf.annotations/pdf3dviewarray/removeat/
 ---
-## Metodo PDF3DViewArray.RemoveAt
+## PDF3DViewArray.RemoveAt method
 
-Rimuove la vista dall'array di viste all'indice specificato.
+Rimuove la visualizzazione dall'array di visualizzazioni all'indice specificato.
 
 ```csharp
 public void RemoveAt(int index)
@@ -24,8 +24,10 @@ public void RemoveAt(int index)
 | --- | --- |
 | IndexOutOfRangeException | Indice non valido: l'indice deve essere nell'intervallo [1..n] dove n è uguale al conteggio delle viste. |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PDF3DViewArray](../)
+* class [PDF3DViewArray](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

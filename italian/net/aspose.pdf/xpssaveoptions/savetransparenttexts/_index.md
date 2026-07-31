@@ -1,12 +1,12 @@
 ---
-title: XpsSaveOptions.SaveTransparentTexts
-second_title: Aspose.PDF for .NET API Reference
-description: Proprietà XpsSaveOptions. Indica se preservare il testo trasparente OCRed
+title: "XpsSaveOptions.SaveTransparentTexts"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà XpsSaveOptions. Indica se conservare il testo OCR trasparente"
 type: docs
-weight: 30
+weight: 40
 url: /it/net/aspose.pdf/xpssaveoptions/savetransparenttexts/
 ---
-## Proprietà XpsSaveOptions.SaveTransparentTexts
+## XpsSaveOptions.SaveTransparentTexts property
 
 Indica se preservare il testo trasparente (OCR'ed).
 
@@ -14,8 +14,10 @@ Indica se preservare il testo trasparente (OCR'ed).
 public bool SaveTransparentTexts { get; set; }
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [XpsSaveOptions](../)
+* class [XpsSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

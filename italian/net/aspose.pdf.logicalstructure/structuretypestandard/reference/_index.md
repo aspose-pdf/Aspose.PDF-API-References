@@ -1,21 +1,23 @@
 ---
-title: StructureTypeStandard.Reference
-second_title: Aspose.PDF for .NET API Reference
-description: Riferimento A citazione di contenuto altrove nel documento
+title: "StructureTypeStandard.Reference"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "StructureTypeStandard campo. Reference Una citazione a contenuto presente altrove nel documento"
 type: docs
 weight: 320
 url: /it/net/aspose.pdf.logicalstructure/structuretypestandard/reference/
 ---
-## Campo StructureTypeStandard.Reference
+## StructureTypeStandard.Reference field
 
-(Riferimento) Una citazione a contenuto altrove nel documento.
+(Reference) Una citazione a contenuto presente altrove nel documento.
 
 ```csharp
 public static readonly StructureTypeStandard Reference;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

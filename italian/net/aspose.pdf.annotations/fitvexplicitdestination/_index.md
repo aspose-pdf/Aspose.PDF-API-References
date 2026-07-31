@@ -1,14 +1,14 @@
 ---
-title: Class FitVExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.Annotations.FitVExplicitDestination. Rappresenta una destinazione esplicita che visualizza la pagina con la coordinata orizzontale sinistra posizionata al bordo sinistro della finestra e i contenuti della pagina ingranditi giusto abbastanza per adattare l'intera altezza della pagina all'interno della finestra. Un valore nullo per sinistra specifica che il valore attuale di quel parametro deve rimanere invariato.
+title: "Classe FitVExplicitDestination"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Classe Aspose.Pdf.Annotations.FitVExplicitDestination. Rappresenta una destinazione esplicita che visualizza la pagina con la coordinata orizzontale sinistra posizionata al bordo sinistro della finestra e il contenuto della pagina ingrandito appena a sufficienza per adattare l'intera altezza della pagina all'interno della finestra. Un valore null per sinistra specifica che il valore corrente di quel parametro deve rimanere invariato."
 type: docs
-weight: 1790
+weight: 1880
 url: /it/net/aspose.pdf.annotations/fitvexplicitdestination/
 ---
-## Classe FitVExplicitDestination
+## FitVExplicitDestination class
 
-Rappresenta una destinazione esplicita che visualizza la pagina con la coordinata orizzontale sinistra posizionata al bordo sinistro della finestra e i contenuti della pagina ingranditi giusto abbastanza per adattare l'intera altezza della pagina all'interno della finestra. Un valore nullo per sinistra specifica che il valore attuale di quel parametro deve rimanere invariato.
+Rappresenta una destinazione esplicita che visualizza la pagina con la coordinata orizzontale sinistra posizionata sul bordo sinistro della finestra e i contenuti della pagina ingranditi appena a sufficienza per far entrare l'intera altezza della pagina nella finestra. Un valore nullo per left indica che il valore corrente di quel parametro deve essere mantenuto invariato.
 
 ```csharp
 public sealed class FitVExplicitDestination : ExplicitDestination
@@ -33,10 +33,12 @@ public sealed class FitVExplicitDestination : ExplicitDestination
 
 | Nome | Descrizione |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/fitvexplicitdestination/tostring/)() | Converte lo stato dell'oggetto in un valore stringa. Esempio: "1 FitV 100". |
+| override [ToString](../../aspose.pdf.annotations/fitvexplicitdestination/tostring/)() | Converte lo stato dell'oggetto in valore stringa. Esempio: "1 FitV 100". |
 
-### Vedi Anche
+### Vedi anche
 
-* classe [ExplicitDestination](../explicitdestination/)
+* class [ExplicitDestination](../explicitdestination/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

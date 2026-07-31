@@ -1,14 +1,14 @@
 ---
-title: Class OcspSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Classe Aspose.Pdf.OcspSettings. Rappresenta le impostazioni ocsp utilizzate durante il processo di firma
+title: "Classe OcspSettings"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Aspose.Pdf.OcspSettings classe. Rappresenta le impostazioni ocsp utilizzate durante il processo di firma"
 type: docs
-weight: 7050
+weight: 7190
 url: /it/net/aspose.pdf/ocspsettings/
 ---
-## Classe OcspSettings
+## OcspSettings class
 
-Rappresenta le impostazioni ocsp utilizzate durante il processo di firma.
+Rappresenta le impostazioni OCSP utilizzate durante il processo di firma.
 
 ```csharp
 public class OcspSettings
@@ -24,10 +24,12 @@ public class OcspSettings
 
 | Nome | Descrizione |
 | --- | --- |
-| [RequestTimeout](../../aspose.pdf/ocspsettings/requesttimeout/) { get; set; } | Ottiene o imposta la durata del timeout della richiesta in millisecondi per la richiesta OCSP. |
-| [ServerUrl](../../aspose.pdf/ocspsettings/serverurl/) { get; set; } | Ottiene e imposta l'url del server ocsp. |
+| [RequestTimeout](../../aspose.pdf/ocspsettings/requesttimeout/) { get; set; } | Ottiene o imposta la durata del timeout della richiesta in millisecondi per la richiesta OCMP. |
+| [ServerUrl](../../aspose.pdf/ocspsettings/serverurl/) { get; set; } | Ottiene e imposta l'URL del server ocsp. |
 
-### Vedi Anche
+### Vedi anche
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

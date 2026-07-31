@@ -1,22 +1,24 @@
 ---
-title: PaperSizes.Note
-second_title: Aspose.PDF for .NET API Reference
-description: PaperSizes campo. Carta della nota 8,5 pollici x 11 pollici
+title: "PaperSizes.Note"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "campo PaperSizes. carta Note 8,5 pol. per 11 pol."
 type: docs
 weight: 730
 url: /it/net/aspose.pdf.printing/papersizes/note/
 ---
-## Campo PaperSizes.Note
+## PaperSizes.Note field
 
-Carta da nota (8.5 in. per 11 in.).
+Carta per note (8.5 in. per 11 in.).
 
 ```csharp
 public static readonly PaperSize Note;
 ```
 
-### Vedi Anche
+### Vedi anche
 
-* classe [PaperSize](../../papersize/)
-* classe [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Color.SpringGreen
-second_title: Aspose.PDF for .NET API Reference
-description: Color property. Gets a systemdefined color that has an ARGB value of c FF00FF7F
+title: "Color.SpringGreen"
+second_title: "Aspose.PDF per .NET - Riferimento API"
+description: "Proprietà Color. Restituisce un colore predefinito di sistema che ha un valore ARGB di c FF00FF7F"
 type: docs
 weight: 1290
 url: /it/net/aspose.pdf/color/springgreen/
 ---
-## Proprietà Color.SpringGreen
+## Color.SpringGreen property
 
 Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FF00FF7F.
 
@@ -14,12 +14,14 @@ Ottiene un colore definito dal sistema che ha un valore ARGB di \c \#FF00FF7F.
 public static Color SpringGreen { get; }
 ```
 
-### Valore di Ritorno
+### Valore di ritorno
 
-Un colore definito dal sistema.
+A che rappresenta un colore definito dal sistema.
 
-### Vedi Anche
+### Vedi anche
 
-* classe [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+
