@@ -1,14 +1,14 @@
 ---
-title: MarkupSection.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MarkupSection. Koleksi objek MarkupParagraph yang ada di dalam bagian
+title: "MarkupSection.Paragraphs"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti MarkupSection. Koleksi objek MarkupParagraph yang berada di dalam bagian"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.text/markupsection/paragraphs/
 ---
-## Properti MarkupSection.Paragraphs
+## MarkupSection.Paragraphs property
 
-Koleksi objek [`MarkupParagraph`](../../markupparagraph/) yang ada di dalam bagian.
+Koleksi objek [`MarkupParagraph`](../../markupparagraph/) yang berada di dalam bagian.
 
 ```csharp
 public List<MarkupParagraph> Paragraphs { get; }
@@ -16,7 +16,9 @@ public List<MarkupParagraph> Paragraphs { get; }
 
 ### Lihat Juga
 
-* kelas [MarkupParagraph](../../markupparagraph/)
-* kelas [MarkupSection](../)
+* class [MarkupParagraph](../../markupparagraph/)
+* class [MarkupSection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: FreeTextAnnotation.FreeTextAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor FreeTextAnnotation. Konstruktor untuk digunakan dengan Generator
+title: "FreeTextAnnotation.FreeTextAnnotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor FreeTextAnnotation. Konstruktor untuk digunakan dengan Generator."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/freetextannotation/freetextannotation/
@@ -17,13 +17,13 @@ public FreeTextAnnotation(Document document, DefaultAppearance appearance)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | document | Document | Dokumen tempat anotasi akan dibuat. |
-| appearance | DefaultAppearance | Penampilan Default |
+| penampilan | DefaultAppearance | Penampilan Default |
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [DefaultAppearance](../../defaultappearance/)
-* kelas [FreeTextAnnotation](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [DefaultAppearance](../../defaultappearance/)
+* class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -39,15 +39,17 @@ public FreeTextAnnotation(Page page, Rectangle rect, DefaultAppearance appearanc
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman dokumen tempat anotasi harus dibuat. |
-| rect | Rectangle | Persegi panjang anotasi, mendefinisikan lokasi anotasi di halaman. |
-| appearance | DefaultAppearance | Penampilan default yang akan digunakan dalam memformat teks. |
+| halaman | Halaman | Halaman dokumen tempat anotasi harus dibuat. |
+| rect | Rectangle | Persegi panjang anotasi, yang menentukan lokasi anotasi pada halaman. |
+| penampilan | DefaultAppearance | Penampilan default yang akan digunakan dalam memformat teks. |
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [DefaultAppearance](../../defaultappearance/)
-* kelas [FreeTextAnnotation](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [DefaultAppearance](../../defaultappearance/)
+* class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

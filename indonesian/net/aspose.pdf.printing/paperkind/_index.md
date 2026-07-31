@@ -1,12 +1,12 @@
 ---
-title: Enum PaperKind
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Printing.PaperKind. Menentukan ukuran kertas standar
+title: "Enum PaperKind"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Printing.PaperKind enum. Menentukan ukuran kertas standar"
 type: docs
-weight: 9560
+weight: 9710
 url: /id/net/aspose.pdf.printing/paperkind/
 ---
-## Enumerasi PaperKind
+## PaperKind enumeration
 
 Menentukan ukuran kertas standar.
 
@@ -18,14 +18,14 @@ public enum PaperKind
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Custom | `0` | Ukuran kertas ditentukan oleh pengguna. |
-| Letter | `1` | Kertas letter (8.5 in. x 11 in.). |
-| LetterSmall | `2` | Kertas letter kecil (8.5 in. x 11 in.). |
-| Tabloid | `3` | Kertas tabloid (11 in. x 17 in.). |
-| Ledger | `4` | Kertas ledger (17 in. x 11 in.). |
-| Legal | `5` | Kertas legal (8.5 in. x 14 in.). |
-| Statement | `6` | Kertas statement (5.5 in. x 8.5 in.). |
-| Executive | `7` | Kertas eksekutif (7.25 in. x 10.5 in.). |
+| Custom | `0` | Ukuran kertas didefinisikan oleh pengguna. |
+| Letter | `1` | Kertas Letter (8,5 in. x 11 in.). |
+| LetterSmall | `2` | Kertas Letter kecil (8,5 in. x 11 in.). |
+| Tabloid | `3` | Kertas Tabloid (11 in. x 17 in.). |
+| Ledger | `4` | Kertas Ledger (17 in. x 11 in.). |
+| Legal | `5` | Kertas Legal (8,5 in. x 14 in.). |
+| Statement | `6` | Kertas Statement (5,5 in. x 8,5 in.). |
+| Executive | `7` | Kertas Executive (7,25 in. x 10,5 in.). |
 | A3 | `8` | Kertas A3 (297 mm x 420 mm). |
 | A4 | `9` | Kertas A4 (210 mm x 297 mm). |
 | A4Small | `10` | Kertas A4 kecil (210 mm x 297 mm). |
@@ -57,31 +57,31 @@ public enum PaperKind
 | ItalyEnvelope | `36` | Amplop Italia (110 mm x 230 mm). |
 | MonarchEnvelope | `37` | Amplop Monarch (3.875 in. x 7.5 in.). |
 | PersonalEnvelope | `38` | Amplop 6 3/4 (3.625 in. x 6.5 in.). |
-| USStandardFanfold | `39` | Lipatan standar AS (14.875 in. x 11 in.). |
-| GermanStandardFanfold | `40` | Lipatan standar Jerman (8.5 in. x 12 in.). |
-| GermanLegalFanfold | `41` | Lipatan legal Jerman (8.5 in. x 13 in.). |
+| USStandardFanfold | `39` | Fanfold standar AS (14.875 in. x 11 in.). |
+| GermanStandardFanfold | `40` | Fanfold standar Jerman (8.5 in. x 12 in.). |
+| GermanLegalFanfold | `41` | Fanfold legal Jerman (8.5 in. x 13 in.). |
 | IsoB4 | `42` | ISO B4 (250 mm x 353 mm). |
 | JapanesePostcard | `43` | Kartu pos Jepang (100 mm x 148 mm). |
 | Standard9x11 | `44` | Kertas standar (9 in. x 11 in.). |
 | Standard10x11 | `45` | Kertas standar (10 in. x 11 in.). |
 | Standard15x11 | `46` | Kertas standar (15 in. x 11 in.). |
 | InviteEnvelope | `47` | Amplop undangan (220 mm x 220 mm). |
-| LetterExtra | `50` | Kertas letter ekstra (9.275 in. x 12 in.). |
-| LegalExtra | `51` | Kertas legal ekstra (9.275 in. x 15 in.). |
-| TabloidExtra | `52` | Kertas tabloid ekstra (11.69 in. x 18 in.). |
-| A4Extra | `53` | Kertas A4 ekstra (236 mm x 322 mm). |
-| LetterTransverse | `54` | Kertas letter melintang (8.275 in. x 11 in.). |
-| A4Transverse | `55` | Kertas A4 melintang (210 mm x 297 mm). |
-| LetterExtraTransverse | `56` | Kertas letter ekstra melintang (9.275 in. x 12 in.). |
+| LetterExtra | `50` | Kertas ekstra surat (9.275 in. x 12 in.). |
+| LegalExtra | `51` | Kertas ekstra legal (9.275 in. x 15 in.). |
+| TabloidExtra | `52` | Kertas ekstra tabloid (11.69 in. x 18 in.). |
+| A4Extra | `53` | Kertas ekstra A4 (236 mm x 322 mm). |
+| LetterTransverse | `54` | Kertas melintang surat (8.275 in. x 11 in.). |
+| A4Transverse | `55` | Kertas melintang A4 (210 mm x 297 mm). |
+| LetterExtraTransverse | `56` | Kertas melintang ekstra surat (9.275 in. x 12 in.). |
 | APlus | `57` | Kertas SuperA/SuperA/A4 (227 mm x 356 mm). |
 | BPlus | `58` | Kertas SuperB/SuperB/A3 (305 mm x 487 mm). |
-| LetterPlus | `59` | Kertas letter plus (8.5 in. x 12.69 in.). |
-| A4Plus | `60` | Kertas A4 plus (210 mm x 330 mm). |
-| A5Transverse | `61` | Kertas A5 melintang (148 mm x 210 mm). |
-| B5Transverse | `62` | Kertas JIS B5 melintang (182 mm x 257 mm). |
-| A3Extra | `63` | Kertas A3 ekstra (322 mm x 445 mm). |
-| A5Extra | `64` | Kertas A5 ekstra (174 mm x 235 mm). |
-| B5Extra | `65` | Kertas ISO B5 ekstra (201 mm x 276 mm). |
+| LetterPlus | `59` | Kertas plus surat (8.5 in. x 12.69 in.). |
+| A4Plus | `60` | Kertas plus A4 (210 mm x 330 mm). |
+| A5Transverse | `61` | Kertas melintang A5 (148 mm x 210 mm). |
+| B5Transverse | `62` | Kertas melintang JIS B5 (182 mm x 257 mm). |
+| A3Extra | `63` | Kertas ekstra A3 (322 mm x 445 mm). |
+| A5Extra | `64` | Kertas ekstra A5 (174 mm x 235 mm). |
+| B5Extra | `65` | ISO B5 kertas ekstra (201 mm x 276 mm). |
 | A2 | `66` | Kertas A2 (420 mm x 594 mm). |
 | A3Transverse | `67` | Kertas A3 melintang (297 mm x 420 mm). |
 | A3ExtraTransverse | `68` | Kertas A3 ekstra melintang (322 mm x 445 mm). |
@@ -91,7 +91,7 @@ public enum PaperKind
 | JapaneseEnvelopeKakuNumber3 | `72` | Amplop Kaku #3 Jepang. |
 | JapaneseEnvelopeChouNumber3 | `73` | Amplop Chou #3 Jepang. |
 | JapaneseEnvelopeChouNumber4 | `74` | Amplop Chou #4 Jepang. |
-| LetterRotated | `75` | Kertas letter diputar (11 in. x 8.5 in.). |
+| LetterRotated | `75` | Kertas Letter diputar (11 in. x 8.5 in.). |
 | A3Rotated | `76` | Kertas A3 diputar (420 mm x 297 mm). |
 | A4Rotated | `77` | Kertas A4 diputar (297 mm x 210 mm). |
 | A5Rotated | `78` | Kertas A5 diputar (210 mm x 148 mm). |
@@ -108,10 +108,10 @@ public enum PaperKind
 | B6JisRotated | `89` | Kertas JIS B6 diputar (182 mm x 128 mm). |
 | Standard12x11 | `90` | Kertas standar (12 in. x 11 in.). |
 | JapaneseEnvelopeYouNumber4 | `91` | Amplop You #4 Jepang. |
-| JapaneseEnvelopeYouNumber4Rotated | `92` | Amplop You #4 Jepang diputar. |
+| JapaneseEnvelopeYouNumber4Rotated | `92` | Jepang You #4 amplop terputar. |
 | Prc16K | `93` | Kertas 16K (146 mm x 215 mm). |
 | Prc32K | `94` | Kertas 32K (97 mm x 151 mm). |
-| Prc32KBig | `95` | Kertas 32K besar (97 mm x 151 mm). |
+| Prc32KBig | `95` | Kertas besar 32K (97 mm x 151 mm). |
 | PrcEnvelopeNumber1 | `96` | Amplop #1 (102 mm x 165 mm). |
 | PrcEnvelopeNumber2 | `97` | Amplop #2 (102 mm x 176 mm). |
 | PrcEnvelopeNumber3 | `98` | Amplop #3 (125 mm x 176 mm). |
@@ -122,21 +122,23 @@ public enum PaperKind
 | PrcEnvelopeNumber8 | `103` | Amplop #8 (120 mm x 309 mm). |
 | PrcEnvelopeNumber9 | `104` | Amplop #9 (229 mm x 324 mm). |
 | PrcEnvelopeNumber10 | `105` | Amplop #10 (324 mm x 458 mm). |
-| Prc16KRotated | `106` | Kertas 16K diputar (146 mm x 215 mm). |
-| Prc32KRotated | `107` | Kertas 32K diputar (97 mm x 151 mm). |
-| Prc32KBigRotated | `108` | Kertas 32K besar diputar (97 mm x 151 mm). |
-| PrcEnvelopeNumber1Rotated | `109` | Amplop #1 diputar (165 mm x 102 mm). |
-| PrcEnvelopeNumber2Rotated | `110` | Amplop #2 diputar (176 mm x 102 mm). |
-| PrcEnvelopeNumber3Rotated | `111` | Amplop #3 diputar (176 mm x 125 mm). |
-| PrcEnvelopeNumber4Rotated | `112` | Amplop #4 diputar (208 mm x 110 mm). |
-| PrcEnvelopeNumber5Rotated | `113` | Amplop #5 diputar (220 mm x 110 mm). |
-| PrcEnvelopeNumber6Rotated | `114` | Amplop #6 diputar (230 mm x 120 mm). |
-| PrcEnvelopeNumber7Rotated | `115` | Amplop #7 diputar (230 mm x 160 mm). |
-| PrcEnvelopeNumber8Rotated | `116` | Amplop #8 diputar (309 mm x 120 mm). |
-| PrcEnvelopeNumber9Rotated | `117` | Amplop #9 diputar (324 mm x 229 mm). |
-| PrcEnvelopeNumber10Rotated | `118` | Amplop #10 diputar (458 mm x 324 mm). |
+| Prc16KRotated | `106` | Kertas 16K terputar (146 mm x 215 mm). |
+| Prc32KRotated | `107` | Kertas 32K terputar (97 mm x 151 mm). |
+| Prc32KBigRotated | `108` | Kertas besar 32K terputar (97 mm x 151 mm). |
+| PrcEnvelopeNumber1Rotated | `109` | Amplop terputar #1 (165 mm x 102 mm). |
+| PrcEnvelopeNumber2Rotated | `110` | Amplop terputar #2 (176 mm x 102 mm). |
+| PrcEnvelopeNumber3Rotated | `111` | Amplop terputar #3 (176 mm x 125 mm). |
+| PrcEnvelopeNumber4Rotated | `112` | Amplop terputar #4 (208 mm x 110 mm). |
+| PrcEnvelopeNumber5Rotated | `113` | Amplop terputar #5 (220 mm x 110 mm). |
+| PrcEnvelopeNumber6Rotated | `114` | Amplop terputar #6 (230 mm x 120 mm). |
+| PrcEnvelopeNumber7Rotated | `115` | Amplop terputar #7 (230 mm x 160 mm). |
+| PrcEnvelopeNumber8Rotated | `116` | Amplop terputar #8 (309 mm x 120 mm). |
+| PrcEnvelopeNumber9Rotated | `117` | #9 amplop diputar (324 mm x 229 mm). |
+| PrcEnvelopeNumber10Rotated | `118` | #10 amplop diputar (458 mm x 324 mm). |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Stamp.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Stamp. Mendapatkan atau mengatur perataan vertikal cap di halaman
+title: "Stamp.VerticalAlignment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Stamp. Mendapatkan atau mengatur perataan vertikal stamp pada halaman."
 type: docs
 weight: 130
 url: /id/net/aspose.pdf/stamp/verticalalignment/
 ---
-## Properti Stamp.VerticalAlignment
+## Stamp.VerticalAlignment property
 
-Mendapatkan atau mengatur perataan vertikal cap di halaman.
+Mengambil atau mengatur perataan vertikal stempel pada halaman.
 
 ```csharp
 public VerticalAlignment VerticalAlignment { get; set; }
@@ -20,3 +20,5 @@ public VerticalAlignment VerticalAlignment { get; set; }
 * class [Stamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

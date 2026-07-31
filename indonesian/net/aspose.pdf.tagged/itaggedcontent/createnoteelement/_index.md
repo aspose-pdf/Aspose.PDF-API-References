@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateNoteElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ITaggedContent. Membuat NoteElement
+title: "ITaggedContent.CreateNoteElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ITaggedContent. Membuat NoteElement"
 type: docs
-weight: 190
+weight: 220
 url: /id/net/aspose.pdf.tagged/itaggedcontent/createnoteelement/
 ---
-## Metode ITaggedContent.CreateNoteElement
+## ITaggedContent.CreateNoteElement method
 
 Membuat [`NoteElement`](../../../aspose.pdf.logicalstructure/noteelement/).
 
@@ -14,13 +14,15 @@ Membuat [`NoteElement`](../../../aspose.pdf.logicalstructure/noteelement/).
 public NoteElement CreateNoteElement()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Elemen struktur yang dibuat.
+Elemen struktur dibuat.
 
 ### Lihat Juga
 
-* kelas [NoteElement](../../../aspose.pdf.logicalstructure/noteelement/)
-* antarmuka [ITaggedContent](../)
-* ruang nama [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* class [NoteElement](../../../aspose.pdf.logicalstructure/noteelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Error.Error
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Error. Konstruktor default
+title: "Error.Error"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Error. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/error/error/
 ---
-## Konstruktor Error
+## Error constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public Error()
 
 ### Lihat Juga
 
-* kelas [Error](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [Error](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: BaseParagraph.Hyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Properti BaseParagraph. Mendapatkan atau mengatur hyperlink fragmen untuk generator pdf
+title: "BaseParagraph.Hyperlink"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti BaseParagraph. Mendapatkan atau mengatur hyperlink fragmen untuk generator pdf"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/baseparagraph/hyperlink/
 ---
-## Properti BaseParagraph.Hyperlink
+## BaseParagraph.Hyperlink property
 
-Mendapatkan atau mengatur hyperlink fragmen (untuk generator pdf).
+Mendapatkan atau mengatur hyperlink fragmen (untuk pdf generator).
 
 ```csharp
 public virtual Hyperlink Hyperlink { get; set; }
@@ -16,7 +16,9 @@ public virtual Hyperlink Hyperlink { get; set; }
 
 ### Lihat Juga
 
-* kelas [Hyperlink](../../hyperlink/)
-* kelas [BaseParagraph](../)
+* class [Hyperlink](../../hyperlink/)
+* class [BaseParagraph](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StartEndPageEventArgs.TotalPages
-second_title: Aspose.PDF for .NET API Reference
-description: Field StartEndPageEventArgs. Mendapatkan jumlah total halaman yang akan dicetak
+title: "StartEndPageEventArgs.TotalPages"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang StartEndPageEventArgs. Mendapatkan total jumlah halaman yang akan dicetak"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.printing/startendpageeventargs/totalpages/
 ---
-## Field StartEndPageEventArgs.TotalPages
+## StartEndPageEventArgs.TotalPages field
 
-Mendapatkan jumlah total halaman yang akan dicetak.
+Mendapatkan total jumlah halaman yang akan dicetak.
 
 ```csharp
 public readonly int TotalPages;
@@ -19,3 +19,5 @@ public readonly int TotalPages;
 * class [StartEndPageEventArgs](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

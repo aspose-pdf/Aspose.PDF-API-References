@@ -1,7 +1,7 @@
 ---
-title: PDF3DContent.PDF3DContent
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PDF3DContent. Menginisialisasi instance baru dari kelas PDF3DContent
+title: "PDF3DContent.PDF3DContent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PDF3DContent. Menginisialisasi instance baru dari kelas PDF3DContent"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/pdf3dcontent/pdf3dcontent/
@@ -16,7 +16,7 @@ public PDF3DContent()
 
 ### Lihat Juga
 
-* kelas [PDF3DContent](../)
+* class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,16 +32,18 @@ public PDF3DContent(string filename)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| filename | String | Nama file. |
+| nama file | String | Nama file. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Jenis Karya 3D yang tidak dikenal |
+| ArgumentException | Tipe Artwork 3D tidak diketahui |
 
 ### Lihat Juga
 
-* kelas [PDF3DContent](../)
+* class [PDF3DContent](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Page.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Page. Menghapus semua field yang terletak di halaman dan menempatkan nilai mereka sebagai gantinya
+title: "Page.Flatten"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Page. Menghapus semua bidang yang terletak pada halaman dan menempatkan nilai mereka sebagai gantinya."
 type: docs
 weight: 430
 url: /id/net/aspose.pdf/page/flatten/
 ---
-## Metode Page.Flatten
+## Page.Flatten method
 
-Menghapus semua field yang terletak di halaman dan menempatkan nilai mereka sebagai gantinya.
+Menghapus semua bidang yang berada di halaman dan menempatkan nilai mereka sebagai gantinya.
 
 ```csharp
 public void Flatten()
@@ -16,6 +16,8 @@ public void Flatten()
 
 ### Lihat Juga
 
-* kelas [Page](../)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

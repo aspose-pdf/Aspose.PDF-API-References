@@ -1,14 +1,14 @@
 ---
-title: DictionaryEditor.AllKeys
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DictionaryEditor. Koleksi lengkap kunci. Berisi kunci yang dapat diedit dan tidak dapat diedit
+title: "DictionaryEditor.AllKeys"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "DictionaryEditor properti. Koleksi lengkap kunci. Berisi kunci yang dapat diedit dan tidak dapat diedit"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.dataeditor/dictionaryeditor/allkeys/
 ---
-## Properti DictionaryEditor.AllKeys
+## DictionaryEditor.AllKeys property
 
-Koleksi lengkap kunci. Berisi kunci yang dapat diedit dan tidak dapat diedit.
+Koleksi lengkap kunci. Berisi kunci yang dapat diedit dan yang tidak dapat diedit.
 
 ```csharp
 public ICollection<string> AllKeys { get; }
@@ -16,6 +16,8 @@ public ICollection<string> AllKeys { get; }
 
 ### Lihat Juga
 
-* kelas [DictionaryEditor](../)
+* class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

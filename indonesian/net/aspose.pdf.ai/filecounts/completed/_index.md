@@ -1,14 +1,14 @@
 ---
-title: FileCounts.Completed
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FileCounts. Mendapatkan atau mengatur jumlah file yang telah berhasil diproses
+title: "FileCounts.Completed"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FileCounts property. Mendapatkan atau mengatur jumlah file yang telah berhasil diproses"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/filecounts/completed/
 ---
-## Properti FileCounts.Completed
+## FileCounts.Completed property
 
-Mendapatkan atau mengatur jumlah file yang telah berhasil diproses.
+Mendapatkan atau mengatur jumlah file yang berhasil diproses.
 
 ```csharp
 public int Completed { get; set; }
@@ -16,6 +16,8 @@ public int Completed { get; set; }
 
 ### Lihat Juga
 
-* kelas [FileCounts](../)
+* class [FileCounts](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

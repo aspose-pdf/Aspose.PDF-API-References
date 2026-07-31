@@ -1,25 +1,27 @@
 ---
-title: SetRGBColorStroke.G
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SetRGBColorStroke. Mengambil atau mengatur komponen hijau
+title: "SetRGBColorStroke.G"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "SetRGBColorStroke properti. Mendapatkan atau mengatur komponen hijau"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.operators/setrgbcolorstroke/g/
 ---
-## Properti SetRGBColorStroke.G
+## SetRGBColorStroke.G property
 
-Mengambil atau mengatur komponen hijau.
+Mendapatkan atau mengatur komponen hijau.
 
 ```csharp
 public double G { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Tingkat hijau dari 0.0 hingga 1.0
 
 ### Lihat Juga
 
-* kelas [SetRGBColorStroke](../)
+* class [SetRGBColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Color.Cornsilk
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FFFFF8DC
+title: "Color.Cornsilk"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang ditentukan sistem dengan nilai ARGB c FFFFF8DC"
 type: docs
 weight: 200
 url: /id/net/aspose.pdf/color/cornsilk/
 ---
-## Properti Color.Cornsilk
+## Color.Cornsilk property
 
 Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFFFF8DC.
 
@@ -14,12 +14,14 @@ Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFFFF8DC.
 public static Color Cornsilk { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah representasi warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

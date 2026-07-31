@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.OptimizeSize
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFileEditor. Mengambil atau mengatur bendera optimasi. Aliran sumber yang sama dalam file hasil digabungkan menjadi satu objek PDF jika bendera ini diatur. Ini memungkinkan untuk mengurangi ukuran file hasil tetapi dapat menyebabkan eksekusi yang lebih lambat dan kebutuhan memori yang lebih besar. Nilai default false
+title: "PdfFileEditor.OptimizeSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFileEditor. Mendapatkan atau mengatur flag optimisasi. Aliran sumber daya yang sama dalam file hasil digabung menjadi satu objek PDF jika flag ini diatur. Ini memungkinkan mengurangi ukuran file hasil tetapi dapat menyebabkan eksekusi lebih lambat dan kebutuhan memori lebih besar. Nilai default false"
 type: docs
 weight: 160
 url: /id/net/aspose.pdf.facades/pdffileeditor/optimizesize/
 ---
-## Properti PdfFileEditor.OptimizeSize
+## PdfFileEditor.OptimizeSize property
 
-Mengambil atau mengatur bendera optimasi. Aliran sumber yang sama dalam file hasil digabungkan menjadi satu objek PDF jika bendera ini diatur. Ini memungkinkan untuk mengurangi ukuran file hasil tetapi dapat menyebabkan eksekusi yang lebih lambat dan kebutuhan memori yang lebih besar. Nilai default: false.
+Mendapatkan atau mengatur flag optimisasi. Aliran sumber daya yang sama dalam file hasil digabung menjadi satu objek PDF jika flag ini diatur. Ini memungkinkan mengurangi ukuran file hasil tetapi dapat menyebabkan eksekusi lebih lambat dan kebutuhan memori yang lebih besar. Nilai default: false.
 
 ```csharp
 public bool OptimizeSize { get; set; }
@@ -16,6 +16,8 @@ public bool OptimizeSize { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

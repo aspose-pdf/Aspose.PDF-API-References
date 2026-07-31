@@ -1,23 +1,25 @@
 ---
-title: Aspose.Pdf.Vector
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Vector adalah namespace root untuk operasi grafis
+title: "Aspose.Pdf.Vector"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Vector adalah namespace akar untuk operasi grafik."
 type: docs
-weight: 270
+weight: 260
 url: /id/net/aspose.pdf.vector/
 ---
-**Aspose.Pdf.Vector** adalah namespace root untuk operasi grafis.
+Namespace **Aspose.Pdf.Vector** adalah namespace akar untuk operasi grafik.
 
 ## Kelas
 
 | Kelas | Deskripsi |
 | --- | --- |
-| [GraphicElement](./graphicelement/) | Mewakili kelas dasar untuk objek grafis di halaman. |
+| [GraphicElement](./graphicelement/) | Mewakili kelas dasar untuk objek grafik pada halaman. |
 | [GraphicElementCollection](./graphicelementcollection/) | Mewakili koleksi [`GraphicElement`](../aspose.pdf.vector/graphicelement/). |
-| [GraphicsAbsorber](./graphicsabsorber/) | Mewakili objek absorber dari elemen grafis. Melakukan pencarian grafis dan menyediakan akses ke hasil pencarian melalui koleksi [`Elements`](../aspose.pdf.vector/graphicsabsorber/elements/). |
+| [GraphicsAbsorber](./graphicsabsorber/) | Mewakili objek absorber elemen grafis. Melakukan pencarian grafis dan menyediakan akses ke hasil pencarian melalui koleksi [`Elements`](../aspose.pdf.vector/graphicsabsorber/elements/). |
 | [GraphicState](./graphicstate/) | Mewakili keadaan grafis dari [`GraphicElement`](../aspose.pdf.vector/graphicelement/) saat ini. |
-| [SubPath](./subpath/) | Mewakili objek grafis vektor di halaman. Pada dasarnya, objek grafis vektor diwakili oleh dua kelompok SubPaths. Salah satunya diwakili oleh sekumpulan garis dan kurva. Lainnya disajikan sebagai persegi panjang dan kadang-kadang dapat membingungkan. Biasanya ini adalah area persegi panjang yang memiliki warna, tetapi sangat sering persegi panjang ini ditempatkan di awal halaman dan mendefinisikan seluruh ruang halaman dalam warna putih. Jadi Anda mendapatkan SubPath, tetapi secara visual Anda hanya melihat teks di halaman. |
-| [SubPathGroup](./subpathgroup/) | Mewakili kelas untuk kelompok wadah elemen grafis. Objek kelas memiliki kotak pembatas untuk memperhitungkan ukuran kelompok. |
-| [SvgExtractionOptions](./svgextractionoptions/) | Mewakili kelas opsi untuk mengekstrak grafis vektor dari halaman dokumen pdf. |
+| [SubPath](./subpath/) | Mewakili objek grafik vektor pada halaman. Pada dasarnya, objek grafik vektor direpresentasikan oleh dua kelompok SubPath. Salah satunya direpresentasikan oleh sekumpulan garis dan kurva. Yang lainnya ditampilkan sebagai persegi panjang dan kadang dapat membingungkan. Biasanya itu adalah area persegi panjang yang memiliki warna, tetapi sangat sering persegi panjang ini ditempatkan di awal halaman dan mendefinisikan seluruh ruang halaman dengan warna putih. Jadi Anda mendapatkan SubPath, tetapi secara visual Anda hanya melihat teks pada halaman. |
+| [SubPathGroup](./subpathgroup/) | Mewakili kelas untuk sekelompok kontainer elemen grafis. Objek kelas memiliki kotak pembatas untuk memperhitungkan ukuran grup. |
+| [SvgExtractionOptions](./svgextractionoptions/) | Mewakili kelas opsi untuk mengekstrak grafik vektor dari halaman dokumen pdf. |
 | [SvgExtractor](./svgextractor/) | Mewakili kelas untuk ekstraksi gambar SVG dari halaman. |
-| [XFormPlacement](./xformplacement/) | Mewakili penempatan XForm. Jika XForm ditampilkan di halaman lebih dari 1 kali, semua XformPlacements yang terkait dengan XForm ini akan memiliki elemen grafis yang sama, tetapi keadaan grafis yang berbeda. |
+| [XFormPlacement](./xformplacement/) | Mewakili penempatan XForm. Jika XForm ditampilkan pada halaman lebih dari satu kali, semua XformPlacements yang terkait dengan XForm ini akan memiliki elemen grafis yang sama, tetapi keadaan grafis yang berbeda. |
+
+

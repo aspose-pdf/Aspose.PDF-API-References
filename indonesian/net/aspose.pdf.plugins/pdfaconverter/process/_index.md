@@ -1,12 +1,12 @@
 ---
-title: PdfAConverter.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfAConverter. Memulai proses konversi atau validasi PDF/A dengan opsi yang diberikan
+title: "PdfAConverter.Process"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfAConverter. Memulai proses konversi atau validasi PDF/A dengan opsi yang diberikan."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/pdfaconverter/process/
 ---
-## Metode PdfAConverter.Process
+## PdfAConverter.Process method
 
 Memulai proses konversi atau validasi PDF/A dengan opsi yang diberikan.
 
@@ -16,16 +16,18 @@ public ResultContainer Process(IPluginOptions options)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| options | IPluginOptions | Objek opsi yang berisi instruksi untuk plugin. Harus merupakan instance dari kelas [`PdfAConvertOptions`](../../pdfaconvertoptions/) atau kelas [`PdfAValidateOptions`](../../pdfavalidateoptions/). |
+| options | IPluginOptions | Objek opsi yang berisi instruksi untuk plugin. Harus berupa instance dari kelas [`PdfAConvertOptions`](../../pdfaconvertoptions/) atau [`PdfAValidateOptions`](../../pdfavalidateoptions/). |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek [`ResultContainer`](../../resultcontainer/) yang berisi hasil dari pemrosesan.
+Sebuah objek [`ResultContainer`](../../resultcontainer/) yang berisi hasil pemrosesan.
 
 ### Lihat Juga
 
-* kelas [ResultContainer](../../resultcontainer/)
-* antarmuka [IPluginOptions](../../ipluginoptions/)
-* kelas [PdfAConverter](../)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [PdfAConverter](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

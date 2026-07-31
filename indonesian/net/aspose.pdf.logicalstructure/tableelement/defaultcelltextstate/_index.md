@@ -1,12 +1,12 @@
 ---
-title: TableElement.DefaultCellTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TableElement. Mendapatkan atau mengatur status teks sel default
+title: "TableElement.DefaultCellTextState"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "TableElement properti. Mendapatkan atau mengatur status teks sel default"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.logicalstructure/tableelement/defaultcelltextstate/
 ---
-## Properti TableElement.DefaultCellTextState
+## TableElement.DefaultCellTextState property
 
 Mendapatkan atau mengatur status teks sel default.
 
@@ -16,7 +16,9 @@ public TextState DefaultCellTextState { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextState](../../../aspose.pdf.text/textstate/)
-* kelas [TableElement](../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

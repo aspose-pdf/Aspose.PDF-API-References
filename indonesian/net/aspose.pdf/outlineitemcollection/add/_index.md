@@ -1,12 +1,12 @@
 ---
-title: OutlineItemCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OutlineItemCollection. Menambahkan item outline ke koleksi
+title: "OutlineItemCollection.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OutlineItemCollection metode. Menambahkan item outline ke koleksi"
 type: docs
 weight: 220
 url: /id/net/aspose.pdf/outlineitemcollection/add/
 ---
-## Metode OutlineItemCollection.Add
+## OutlineItemCollection.Add method
 
 Menambahkan item outline ke koleksi.
 
@@ -20,6 +20,8 @@ public override void Add(OutlineItemCollection outline)
 
 ### Lihat Juga
 
-* kelas [OutlineItemCollection](../)
+* class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

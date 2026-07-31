@@ -1,14 +1,14 @@
 ---
-title: IStringOrObject1.ObjectValue
-second_title: Aspose.PDF for .NET API Reference
-description: Properti IStringOrObject. Mengambil atau mengatur nilai objek
+title: "IStringOrObject1.ObjectValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti IStringOrObject. Mendapatkan atau mengatur nilai objek"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/istringorobject-1/objectvalue/
 ---
-## Properti IStringOrObject&lt;T&gt;.ObjectValue
+## IStringOrObject&lt;T&gt;.ObjectValue property
 
-Mengambil atau mengatur nilai objek.
+Mendapatkan atau mengatur nilai objek.
 
 ```csharp
 public T ObjectValue { get; set; }
@@ -16,6 +16,8 @@ public T ObjectValue { get; set; }
 
 ### Lihat Juga
 
-* antarmuka [IStringOrObject&lt;T&gt;](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* kumpulan [Aspose.PDF](../../../)
+* interface [IStringOrObject&lt;T&gt;](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

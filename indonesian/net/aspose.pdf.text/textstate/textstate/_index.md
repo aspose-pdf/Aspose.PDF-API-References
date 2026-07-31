@@ -1,14 +1,14 @@
 ---
-title: TextState.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor TextState. Membuat objek status teks
+title: "TextState.TextState"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor TextState. Membuat objek status teks"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.text/textstate/textstate/
 ---
 ## TextState() {#constructor}
 
-Membuat objek status teks.
+Membuat objek keadaan teks.
 
 ```csharp
 public TextState()
@@ -16,7 +16,7 @@ public TextState()
 
 ### Lihat Juga
 
-* kelas [TextState](../)
+* class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public TextState()
 
 ## TextState(double) {#constructor_1}
 
-Membuat objek status teks dengan spesifikasi ukuran font.
+Membuat objek keadaan teks dengan spesifikasi ukuran font.
 
 ```csharp
 public TextState(double fontSize)
@@ -36,7 +36,7 @@ public TextState(double fontSize)
 
 ### Lihat Juga
 
-* kelas [TextState](../)
+* class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -44,7 +44,7 @@ public TextState(double fontSize)
 
 ## TextState(Color) {#constructor_2}
 
-Membuat objek status teks dengan spesifikasi warna latar depan.
+Membuat objek keadaan teks dengan spesifikasi warna latar depan.
 
 ```csharp
 public TextState(Color foregroundColor)
@@ -56,7 +56,7 @@ public TextState(Color foregroundColor)
 
 ### Lihat Juga
 
-* kelas [TextState](../)
+* class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -64,7 +64,7 @@ public TextState(Color foregroundColor)
 
 ## TextState(Color, double) {#constructor_3}
 
-Membuat objek status teks dengan spesifikasi warna latar depan dan ukuran font.
+Membuat objek keadaan teks dengan spesifikasi warna latar depan dan ukuran font.
 
 ```csharp
 public TextState(Color foregroundColor, double fontSize)
@@ -77,7 +77,7 @@ public TextState(Color foregroundColor, double fontSize)
 
 ### Lihat Juga
 
-* kelas [TextState](../)
+* class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -85,7 +85,7 @@ public TextState(Color foregroundColor, double fontSize)
 
 ## TextState(string) {#constructor_4}
 
-Membuat objek status teks dengan spesifikasi keluarga font.
+Membuat objek keadaan teks dengan spesifikasi keluarga font.
 
 ```csharp
 public TextState(string fontFamily)
@@ -97,7 +97,7 @@ public TextState(string fontFamily)
 
 ### Lihat Juga
 
-* kelas [TextState](../)
+* class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -105,7 +105,7 @@ public TextState(string fontFamily)
 
 ## TextState(string, bool, bool) {#constructor_5}
 
-Membuat objek status teks dengan spesifikasi keluarga font dan gaya font.
+Membuat objek keadaan teks dengan spesifikasi keluarga font dan gaya font.
 
 ```csharp
 public TextState(string fontFamily, bool bold, bool italic)
@@ -114,12 +114,12 @@ public TextState(string fontFamily, bool bold, bool italic)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | fontFamily | String | Keluarga font. |
-| bold | Boolean | Gaya font tebal. |
-| italic | Boolean | Gaya font miring. |
+| tebal | Boolean | Gaya font tebal. |
+| miring | Boolean | Gaya font miring. |
 
 ### Lihat Juga
 
-* kelas [TextState](../)
+* class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -127,7 +127,7 @@ public TextState(string fontFamily, bool bold, bool italic)
 
 ## TextState(string, double) {#constructor_6}
 
-Membuat objek status teks dengan spesifikasi keluarga font dan ukuran font.
+Membuat objek keadaan teks dengan spesifikasi keluarga font dan ukuran font.
 
 ```csharp
 public TextState(string fontFamily, double fontSize)
@@ -140,6 +140,8 @@ public TextState(string fontFamily, double fontSize)
 
 ### Lihat Juga
 
-* kelas [TextState](../)
+* class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

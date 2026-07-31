@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.CopyLogicalStructure
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFileEditor. Jika benar, maka struktur logis dari file akan disalin saat penggabungan dilakukan
+title: "PdfFileEditor.CopyLogicalStructure"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFileEditor. Jika true maka struktur logis file disalin saat penggabungan dilakukan"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.facades/pdffileeditor/copylogicalstructure/
 ---
-## Properti PdfFileEditor.CopyLogicalStructure
+## PdfFileEditor.CopyLogicalStructure property
 
-Jika benar, maka struktur logis dari file akan disalin saat penggabungan dilakukan.
+Jika true maka struktur logis file disalin saat penggabungan dilakukan.
 
 ```csharp
 public bool CopyLogicalStructure { get; set; }
@@ -16,6 +16,8 @@ public bool CopyLogicalStructure { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

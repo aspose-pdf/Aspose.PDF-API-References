@@ -1,7 +1,7 @@
 ---
-title: BDC.BDC
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor BDC. Menginisialisasi operator
+title: "BDC.BDC"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor BDC. Menginisialisasi operator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/bdc/bdc/
@@ -20,7 +20,7 @@ public BDC(string tag)
 
 ### Lihat Juga
 
-* kelas [BDC](../)
+* class [BDC](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -34,7 +34,9 @@ public BDC(string tag, BDCProperties properties)
 
 ### Lihat Juga
 
-* kelas [BDCProperties](../../../aspose.pdf.facades/bdcproperties/)
-* kelas [BDC](../)
+* class [BDCProperties](../../../aspose.pdf.facades/bdcproperties/)
+* class [BDC](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

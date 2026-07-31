@@ -1,14 +1,14 @@
 ---
-title: SetGrayStroke.Gray
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SetGrayStroke. Mengambil atau menetapkan tingkat nilai abu-abu
+title: "SetGrayStroke.Gray"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SetGrayStroke. Mendapatkan atau mengatur level nilai abu-abu"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.operators/setgraystroke/gray/
 ---
-## Properti SetGrayStroke.Gray
+## SetGrayStroke.Gray property
 
-Mengambil atau menetapkan tingkat nilai abu-abu.
+Mendapatkan atau mengatur tingkat nilai abu-abu.
 
 ```csharp
 public double Gray { get; set; }
@@ -16,6 +16,8 @@ public double Gray { get; set; }
 
 ### Lihat Juga
 
-* kelas [SetGrayStroke](../)
+* class [SetGrayStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: HideAction.HideAction
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor HideAction. Menginisialisasi instance baru dari kelas HideAction untuk anotasi yang ditentukan
+title: "HideAction.HideAction"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor HideAction. Menginisialisasi instance baru dari kelas HideAction untuk anotasi yang ditentukan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/hideaction/hideaction/
@@ -16,12 +16,12 @@ public HideAction(Annotation annotation)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| annotation | Annotation | Anotasi yang akan disembunyikan. |
+| annotation | Annotation | Sebuah anotasi yang akan disembunyikan. |
 
 ### Lihat Juga
 
-* kelas [Annotation](../../annotation/)
-* kelas [HideAction](../)
+* class [Annotation](../../annotation/)
+* class [HideAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -29,7 +29,7 @@ public HideAction(Annotation annotation)
 
 ## HideAction(Annotation, bool) {#constructor_1}
 
-Menginisialisasi instance baru dari kelas [`HideAction`](../) untuk anotasi yang ditentukan dan bendera ketidakjelasan.
+Menginisialisasi instance baru dari kelas [`HideAction`](../) untuk anotasi yang ditentukan dan flag ketidakterlihatan.
 
 ```csharp
 public HideAction(Annotation annotation, bool isHidden)
@@ -37,13 +37,13 @@ public HideAction(Annotation annotation, bool isHidden)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| annotation | Annotation | Anotasi yang akan disembunyikan atau ditampilkan. |
-| isHidden | Boolean | Bendera yang menunjukkan apakah akan menyembunyikan anotasi (true) atau menampilkannya (false). |
+| annotation | Annotation | Sebuah anotasi yang akan disembunyikan atau ditampilkan. |
+| isHidden | Boolean | Flag yang menunjukkan apakah akan menyembunyikan anotasi (true) atau menampilkannya (false). |
 
 ### Lihat Juga
 
-* kelas [Annotation](../../annotation/)
-* kelas [HideAction](../)
+* class [Annotation](../../annotation/)
+* class [HideAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -51,7 +51,7 @@ public HideAction(Annotation annotation, bool isHidden)
 
 ## HideAction(string) {#constructor_4}
 
-Menginisialisasi instance baru dari kelas [`HideAction`](../) untuk nama field yang ditentukan.
+Menginisialisasi instance baru dari kelas [`HideAction`](../) untuk nama bidang yang ditentukan.
 
 ```csharp
 public HideAction(string fieldName)
@@ -59,11 +59,11 @@ public HideAction(string fieldName)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Sebuah string teks yang memberikan nama field yang sepenuhnya memenuhi syarat dari field formulir interaktif. |
+| fieldName | String | String teks yang memberikan nama bidang yang sepenuhnya memenuhi syarat dari bidang formulir interaktif. |
 
 ### Lihat Juga
 
-* kelas [HideAction](../)
+* class [HideAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -71,7 +71,7 @@ public HideAction(string fieldName)
 
 ## HideAction(string, bool) {#constructor_5}
 
-Menginisialisasi instance baru dari kelas [`HideAction`](../) untuk nama field yang ditentukan dan bendera ketidakjelasan.
+Menginisialisasi instance baru dari kelas [`HideAction`](../) untuk nama bidang yang ditentukan dan flag ketidakterlihatan.
 
 ```csharp
 public HideAction(string fieldName, bool isHidden)
@@ -79,12 +79,12 @@ public HideAction(string fieldName, bool isHidden)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Sebuah string teks yang memberikan nama field yang sepenuhnya memenuhi syarat dari field formulir interaktif. |
-| isHidden | Boolean | Bendera yang menunjukkan apakah akan menyembunyikan field (true) atau menampilkannya (false). |
+| fieldName | String | String teks yang memberikan nama bidang yang sepenuhnya memenuhi syarat dari bidang formulir interaktif. |
+| isHidden | Boolean | Flag yang menunjukkan apakah menyembunyikan bidang (true) atau menampilkannya (false). |
 
 ### Lihat Juga
 
-* kelas [HideAction](../)
+* class [HideAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -100,12 +100,12 @@ public HideAction(Annotation[] annotations)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| annotations | Annotation[] | Sebuah array anotasi yang akan disembunyikan. |
+| anotasi | Annotation[] | Array anotasi yang akan disembunyikan. |
 
 ### Lihat Juga
 
-* kelas [Annotation](../../annotation/)
-* kelas [HideAction](../)
+* class [Annotation](../../annotation/)
+* class [HideAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -113,7 +113,7 @@ public HideAction(Annotation[] annotations)
 
 ## HideAction(Annotation[], bool) {#constructor_3}
 
-Menginisialisasi instance baru dari kelas [`HideAction`](../) untuk anotasi yang ditentukan dan untuk bendera ketidakjelasan.
+Menginisialisasi instance baru dari kelas [`HideAction`](../) untuk anotasi yang ditentukan dan untuk flag ketidakterlihatan.
 
 ```csharp
 public HideAction(Annotation[] annotations, bool isHidden)
@@ -121,13 +121,13 @@ public HideAction(Annotation[] annotations, bool isHidden)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| annotations | Annotation[] | Sebuah array anotasi yang akan disembunyikan atau ditampilkan. |
-| isHidden | Boolean | Bendera yang menunjukkan apakah akan menyembunyikan anotasi (true) atau menampilkannya (false). |
+| anotasi | Annotation[] | Array anotasi yang akan disembunyikan atau ditampilkan. |
+| isHidden | Boolean | Flag yang menunjukkan apakah menyembunyikan anotasi (true) atau menampilkannya (false). |
 
 ### Lihat Juga
 
-* kelas [Annotation](../../annotation/)
-* kelas [HideAction](../)
+* class [Annotation](../../annotation/)
+* class [HideAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -135,7 +135,7 @@ public HideAction(Annotation[] annotations, bool isHidden)
 
 ## HideAction(string[]) {#constructor_6}
 
-Menginisialisasi instance baru dari kelas [`HideAction`](../) untuk nama field yang ditentukan.
+Menginisialisasi instance baru dari kelas [`HideAction`](../) untuk nama-nama bidang yang ditentukan.
 
 ```csharp
 public HideAction(string[] names)
@@ -143,11 +143,11 @@ public HideAction(string[] names)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| names | String[] | Sebuah array string yang memberikan nama field yang sepenuhnya memenuhi syarat dari field formulir interaktif. |
+| nama | String[] | Array string yang memberikan nama-nama bidang yang sepenuhnya memenuhi syarat dari bidang formulir interaktif. |
 
 ### Lihat Juga
 
-* kelas [HideAction](../)
+* class [HideAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -155,7 +155,7 @@ public HideAction(string[] names)
 
 ## HideAction(string[], bool) {#constructor_7}
 
-Menginisialisasi instance baru dari kelas [`HideAction`](../) untuk nama field yang ditentukan dan untuk bendera ketidakjelasan.
+Menginisialisasi instance baru dari kelas [`HideAction`](../) untuk nama-nama bidang yang ditentukan dan untuk flag ketidakterlihatan.
 
 ```csharp
 public HideAction(string[] names, bool isHidden)
@@ -163,11 +163,13 @@ public HideAction(string[] names, bool isHidden)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| names | String[] | Sebuah array string yang memberikan nama field yang sepenuhnya memenuhi syarat dari field formulir interaktif. |
-| isHidden | Boolean | Bendera yang menunjukkan apakah akan menyembunyikan field (true) atau menampilkannya (false). |
+| nama | String[] | Array string yang memberikan nama-nama bidang yang sepenuhnya memenuhi syarat dari bidang formulir interaktif. |
+| isHidden | Boolean | Flag yang menunjukkan apakah menyembunyikan bidang (true) atau menampilkannya (false). |
 
 ### Lihat Juga
 
-* kelas [HideAction](../)
+* class [HideAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

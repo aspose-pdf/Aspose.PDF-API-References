@@ -1,12 +1,12 @@
 ---
-title: PdfAConvertOptions.AddOutput
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfAConvertOptions. Menambahkan target penyimpanan hasil baru
+title: "PdfAConvertOptions.AddOutput"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfAConvertOptions. Menambahkan target penyimpanan hasil baru."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.plugins/pdfaconvertoptions/addoutput/
 ---
-## Metode PdfAConvertOptions.AddOutput
+## PdfAConvertOptions.AddOutput method
 
 Menambahkan target penyimpanan hasil baru.
 
@@ -20,7 +20,9 @@ public void AddOutput(IDataSource dataSource)
 
 ### Lihat Juga
 
-* antarmuka [IDataSource](../../idatasource/)
-* kelas [PdfAConvertOptions](../)
+* interface [IDataSource](../../idatasource/)
+* class [PdfAConvertOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

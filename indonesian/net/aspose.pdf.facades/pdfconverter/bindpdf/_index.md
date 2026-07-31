@@ -1,7 +1,7 @@
 ---
-title: PdfConverter.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfConverter. Mengikat file Pdf untuk konversi
+title: "PdfConverter.BindPdf"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfConverter. Mengikat file Pdf untuk konversi"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.facades/pdfconverter/bindpdf/
@@ -20,7 +20,7 @@ public override void BindPdf(string inputFile)
 
 ### Lihat Juga
 
-* kelas [PdfConverter](../)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -40,6 +40,33 @@ public override void BindPdf(Stream inputStream)
 
 ### Lihat Juga
 
-* kelas [PdfConverter](../)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+---
+
+## BindPdf(Document) {#bindpdf}
+
+Mengikat dokumen PDF ke instance [`PdfConverter`](../) untuk pemrosesan lebih lanjut.
+
+```csharp
+public override void BindPdf(Document srcDoc)
+```
+
+| Parameter | Tipe | Deskripsi |
+| --- | --- | --- |
+| srcDoc | Document | Objek [`Document`](../../../aspose.pdf/document/) yang mewakili PDF sumber yang akan diikat. |
+
+## Catatan
+
+Metode ini menginisialisasi [`PdfConverter`](../) dengan dokumen PDF yang ditentukan. Metode ini juga memproses formulir XFA dinamis dalam dokumen, jika ada.
+
+### Lihat Juga
+
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* assembly [Aspose.PDF](../../../)
+
+

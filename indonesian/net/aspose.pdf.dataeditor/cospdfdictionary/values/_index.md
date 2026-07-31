@@ -1,12 +1,12 @@
 ---
-title: CosPdfDictionary.Values
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CosPdfDictionary. Mendapatkan ICollection yang berisi nilai-nilai dalam CosPdfDictionary
+title: "CosPdfDictionary.Values"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CosPdfDictionary. Mendapatkan ICollection yang berisi nilai-nilai dalam CosPdfDictionary"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.dataeditor/cospdfdictionary/values/
 ---
-## Properti CosPdfDictionary.Values
+## CosPdfDictionary.Values property
 
 Mendapatkan ICollection yang berisi nilai-nilai dalam [`CosPdfDictionary`](../).
 
@@ -16,7 +16,9 @@ public ICollection<ICosPdfPrimitive> Values { get; }
 
 ### Lihat Juga
 
-* antarmuka [ICosPdfPrimitive](../../icospdfprimitive/)
-* kelas [CosPdfDictionary](../)
-* ruang nama [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [CosPdfDictionary](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

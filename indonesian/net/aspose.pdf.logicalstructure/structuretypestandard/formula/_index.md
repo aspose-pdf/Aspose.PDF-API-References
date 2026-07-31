@@ -1,16 +1,16 @@
 ---
-title: StructureTypeStandard.Formula
-second_title: Aspose.PDF for .NET API Reference
-description: StrukturTypeStandard field. Formula Sebuah rumus matematis
+title: "StructureTypeStandard.Formula"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "StructureTypeStandard field. Formula Sebuah rumus matematika"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.logicalstructure/structuretypestandard/formula/
 ---
-## StrukturTypeStandard.Formula field
+## StructureTypeStandard.Formula field
 
-(Rumus) Sebuah rumus matematis.
+(Formula) Sebuah rumus matematika.
 
-Tipe struktur ini berguna hanya untuk mengidentifikasi seluruh elemen konten sebagai rumus. Tidak ada tipe struktur standar yang didefinisikan untuk mengidentifikasi komponen individu dalam rumus. Dari sudut pandang format, rumus harus diperlakukan serupa dengan gambar (tipe struktur Gambar).
+Tipe struktur ini hanya berguna untuk mengidentifikasi seluruh elemen konten sebagai formula. Tidak ada tipe struktur standar yang didefinisikan untuk mengidentifikasi komponen individual dalam formula. Dari sudut pandang pemformatan, formula harus diperlakukan serupa dengan gambar (structure type Figure).
 
 ```csharp
 public static readonly StructureTypeStandard Formula;
@@ -18,6 +18,8 @@ public static readonly StructureTypeStandard Formula;
 
 ### Lihat Juga
 
-* kelas [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

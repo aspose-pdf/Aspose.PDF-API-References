@@ -1,12 +1,12 @@
 ---
-title: ImageDevice.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ImageDevice. Mendapatkan tinggi output gambar
+title: "ImageDevice.Height"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ImageDevice. Mendapatkan tinggi output gambar"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.devices/imagedevice/height/
 ---
-## Properti ImageDevice.Height
+## ImageDevice.Height property
 
 Mendapatkan tinggi output gambar.
 
@@ -16,6 +16,8 @@ public int Height { get; }
 
 ### Lihat Juga
 
-* kelas [ImageDevice](../)
+* class [ImageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

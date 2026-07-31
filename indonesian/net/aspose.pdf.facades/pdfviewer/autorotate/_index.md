@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.AutoRotate
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfViewer. Mendapatkan atau mengatur nilai bool yang menunjukkan apakah file akan dicetak dengan rotasi otomatis
+title: "PdfViewer.AutoRotate"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfViewer. Mendapatkan atau mengatur nilai bool yang menunjukkan apakah file akan dicetak dengan rotasi otomatis"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.facades/pdfviewer/autorotate/
 ---
-## Properti PdfViewer.AutoRotate
+## PdfViewer.AutoRotate property
 
 Mendapatkan atau mengatur nilai bool yang menunjukkan apakah file akan dicetak dengan rotasi otomatis
 
@@ -16,6 +16,8 @@ public bool AutoRotate { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfViewer](../)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

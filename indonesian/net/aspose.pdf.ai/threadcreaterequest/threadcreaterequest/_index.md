@@ -1,12 +1,12 @@
 ---
-title: ThreadCreateRequest.ThreadCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor ThreadCreateRequest. Konstruktor default
+title: "ThreadCreateRequest.ThreadCreateRequest"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor ThreadCreateRequest. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/threadcreaterequest/threadcreaterequest/
 ---
-## Konstruktor ThreadCreateRequest
+## ThreadCreateRequest constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public ThreadCreateRequest()
 
 ### Lihat Juga
 
-* kelas [ThreadCreateRequest](../)
+* class [ThreadCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

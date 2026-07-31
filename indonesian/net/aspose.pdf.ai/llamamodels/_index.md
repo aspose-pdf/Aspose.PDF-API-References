@@ -1,12 +1,12 @@
 ---
-title: Class LlamaModels
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.LlamaModels. Berisi konstanta yang terkait dengan berbagai model Llama
+title: "Kelas LlamaModels"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.LlamaModels. Berisi konstanta yang terkait dengan berbagai model Llama"
 type: docs
-weight: 730
+weight: 780
 url: /id/net/aspose.pdf.ai/llamamodels/
 ---
-## Kelas LlamaModels
+## LlamaModels class
 
 Berisi konstanta yang terkait dengan berbagai model Llama.
 
@@ -24,3 +24,5 @@ public static class LlamaModels
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

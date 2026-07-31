@@ -1,26 +1,28 @@
 ---
-title: ElementList.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ElementList. Mendapatkan enumerator yang mengiterasi melalui koleksi elemen
+title: "ElementList.GetEnumerator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ElementList. Mendapatkan enumerator yang mengiterasi koleksi elemen."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.logicalstructure/elementlist/getenumerator/
 ---
-## Metode ElementList.GetEnumerator
+## ElementList.GetEnumerator method
 
-Mendapatkan enumerator yang mengiterasi melalui koleksi elemen.
+Mendapatkan enumerator yang mengiterasi koleksi elemen.
 
 ```csharp
 public abstract IEnumerator<Element> GetEnumerator()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah enumerator yang digunakan untuk mengiterasi melalui koleksi elemen.
+Enumerator yang digunakan untuk mengiterasi koleksi elemen.
 
 ### Lihat Juga
 
-* kelas [Element](../../element/)
-* kelas [ElementList](../)
-* ruang nama [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [Element](../../element/)
+* class [ElementList](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

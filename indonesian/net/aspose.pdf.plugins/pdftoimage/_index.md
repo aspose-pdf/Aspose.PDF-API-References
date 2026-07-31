@@ -1,12 +1,12 @@
 ---
-title: Class PdfToImage
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.PdfToImage. Mewakili plugin PDF ke gambar
+title: "Kelas PdfToImage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.PdfToImage. Menyatakan plugin PDF ke gambar"
 type: docs
-weight: 9120
+weight: 9270
 url: /id/net/aspose.pdf.plugins/pdftoimage/
 ---
-## Kelas PdfToImage
+## PdfToImage class
 
 Mewakili plugin PDF ke gambar.
 
@@ -18,7 +18,7 @@ public abstract class PdfToImage : IDisposable, IPlugin
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/pdftoimage/dispose/)() | Implementasi dari . Sebenarnya, tidak perlu untuk . |
+| [Dispose](../../aspose.pdf.plugins/pdftoimage/dispose/)() | Implementasi dari . Sebenarnya, tidak diperlukan untuk . |
 | [Process](../../aspose.pdf.plugins/pdftoimage/process/)(IPluginOptions) | Memulai pemrosesan dengan parameter yang ditentukan. |
 
 ## Catatan
@@ -27,6 +27,8 @@ Kelas `PdfToImage` digunakan untuk mengonversi dokumen PDF menjadi gambar
 
 ### Lihat Juga
 
-* antarmuka [IPlugin](../iplugin/)
+* interface [IPlugin](../iplugin/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

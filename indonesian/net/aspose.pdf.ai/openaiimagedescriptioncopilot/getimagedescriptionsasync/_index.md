@@ -1,12 +1,12 @@
 ---
-title: OpenAIImageDescriptionCopilot.GetImageDescriptionsAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIImageDescriptionCopilot method.
+title: "OpenAIImageDescriptionCopilot.GetImageDescriptionsAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "metode OpenAIImageDescriptionCopilot."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/openaiimagedescriptioncopilot/getimagedescriptionsasync/
 ---
-## Metode OpenAIImageDescriptionCopilot.GetImageDescriptionsAsync
+## OpenAIImageDescriptionCopilot.GetImageDescriptionsAsync method
 
 ```csharp
 public Task<List<ImageDescriptionResult>> GetImageDescriptionsAsync(
@@ -15,7 +15,9 @@ public Task<List<ImageDescriptionResult>> GetImageDescriptionsAsync(
 
 ### Lihat Juga
 
-* kelas [ImageDescriptionResult](../../imagedescriptionresult/)
-* kelas [OpenAIImageDescriptionCopilot](../)
+* class [ImageDescriptionResult](../../imagedescriptionresult/)
+* class [OpenAIImageDescriptionCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

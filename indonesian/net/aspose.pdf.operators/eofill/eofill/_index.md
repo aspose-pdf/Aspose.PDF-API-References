@@ -1,12 +1,12 @@
 ---
-title: EOFill.EOFill
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor EOFill. Menginisialisasi operator
+title: "EOFill.EOFill"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor EOFill. Menginisialisasi operator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/eofill/eofill/
 ---
-## Konstruktor EOFill
+## EOFill constructor
 
 Menginisialisasi operator.
 
@@ -16,6 +16,8 @@ public EOFill()
 
 ### Lihat Juga
 
-* kelas [EOFill](../)
+* class [EOFill](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

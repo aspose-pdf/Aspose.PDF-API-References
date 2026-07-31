@@ -1,14 +1,14 @@
 ---
-title: AnnotationActionCollection.OnFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AnnotationActionCollection. Mendapatkan atau mengatur tindakan yang akan dilakukan untuk memformat nilai field
+title: "AnnotationActionCollection.OnFormat"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti AnnotationActionCollection. Mendapatkan atau mengatur aksi yang akan dilakukan untuk memformat nilai bidang"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.annotations/annotationactioncollection/onformat/
 ---
-## Properti AnnotationActionCollection.OnFormat
+## AnnotationActionCollection.OnFormat property
 
-Mendapatkan atau mengatur tindakan yang akan dilakukan untuk memformat nilai field.
+Mendapatkan atau mengatur aksi yang akan dilakukan untuk memformat nilai bidang.
 
 ```csharp
 public PdfAction OnFormat { get; set; }
@@ -16,7 +16,9 @@ public PdfAction OnFormat { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfAction](../../pdfaction/)
-* kelas [AnnotationActionCollection](../)
+* class [PdfAction](../../pdfaction/)
+* class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: SignatureCustomAppearance.SignatureCustomAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: SignatureCustomAppearance constructor. The default constructor
+title: "SignatureCustomAppearance.SignatureCustomAppearance"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor SignatureCustomAppearance. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.forms/signaturecustomappearance/signaturecustomappearance/
 ---
-## Konstruktor SignatureCustomAppearance
+## SignatureCustomAppearance constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public SignatureCustomAppearance()
 
 ### Lihat Juga
 
-* kelas [SignatureCustomAppearance](../)
+* class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

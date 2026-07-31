@@ -1,7 +1,7 @@
 ---
-title: HtmlLoadOptions.HtmlLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor HtmlLoadOptions. Membuat opsi pemuatan untuk mengonversi html menjadi dokumen pdf dengan jalur dasar kosong
+title: "HtmlLoadOptions.HtmlLoadOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "HtmlLoadOptions konstruktor. Membuat opsi pemuatan untuk mengonversi html menjadi dokumen pdf dengan jalur dasar kosong"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/htmlloadoptions/htmlloadoptions/
@@ -16,7 +16,7 @@ public HtmlLoadOptions()
 
 ### Lihat Juga
 
-* kelas [HtmlLoadOptions](../)
+* class [HtmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,10 +32,12 @@ public HtmlLoadOptions(string basePath)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| basePath | String | Jalur/url dasar untuk file html. |
+| basePath | String | Jalur/URL dasar untuk file html. |
 
 ### Lihat Juga
 
-* kelas [HtmlLoadOptions](../)
+* class [HtmlLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StructureAttribute.SetArrayValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metode StructureAttribute. Mengatur Array Nama Nilai
+title: "StructureAttribute.SetArrayValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "StructureAttribute metode. Mengatur Nilai Nama Array"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.logicalstructure/structureattribute/setarrayvalue/
 ---
-## Metode StructureAttribute.SetArrayValue
+## StructureAttribute.SetArrayValue method
 
-Mengatur Array Nama Nilai.
+Mengatur Nama Nilai Array.
 
 ```csharp
 public void SetArrayValue(AttributeName[] array)
@@ -16,11 +16,13 @@ public void SetArrayValue(AttributeName[] array)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| array | AttributeName[] | Array Nama Nilai yang diizinkan. |
+| array | AttributeName[] | Array nama nilai yang diizinkan. |
 
 ### Lihat Juga
 
-* kelas [AttributeName](../../attributename/)
-* kelas [StructureAttribute](../)
+* class [AttributeName](../../attributename/)
+* class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

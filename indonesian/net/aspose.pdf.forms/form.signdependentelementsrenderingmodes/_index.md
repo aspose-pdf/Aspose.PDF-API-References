@@ -1,14 +1,14 @@
 ---
-title: Enum Form.SignDependentElementsRenderingModes
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Forms.FormSignDependentElementsRenderingModes. Form dapat berisi informasi penandatanganan dan dapat ditandatangani atau tidak ditandatangani. Terkadang tampilan form di viewer harus bergantung pada apakah form ditandatangani atau tidak. Enum ini mencantumkan mode rendering yang mungkin selama konversi tipe form terkait dengan tanda.
+title: "Enum Form.SignDependentElementsRenderingModes"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Forms.FormSignDependentElementsRenderingModes. Formulir dapat berisi informasi penandatanganan dan dapat ditandatangani atau tidak. Terkadang tampilan formulir di penampil harus bergantung pada apakah formulir ditandatangani atau tidak. Enum ini mengenumerasikan mode rendering yang mungkin selama konversi tipe formulir terkait penandatanganan."
 type: docs
-weight: 5090
+weight: 5210
 url: /id/net/aspose.pdf.forms/form.signdependentelementsrenderingmodes/
 ---
-## Enumerasi Form.SignDependentElementsRenderingModes
+## Form.SignDependentElementsRenderingModes enumeration
 
-Form dapat berisi informasi penandatanganan dan dapat ditandatangani atau tidak ditandatangani. Terkadang tampilan form di viewer harus bergantung pada apakah form ditandatangani atau tidak. Enum ini mencantumkan mode rendering yang mungkin selama konversi tipe form terkait dengan tanda.
+Formulir dapat berisi informasi penandatanganan dan dapat ditandatangani atau tidak ditandatangani. Terkadang tampilan formulir di penampil harus bergantung pada apakah formulir ditandatangani atau tidak. Enum ini mengenumerasi mode rendering yang mungkin selama konversi tipe formulir terkait tanda tangan.
 
 ```csharp
 public enum SignDependentElementsRenderingModes
@@ -18,11 +18,13 @@ public enum SignDependentElementsRenderingModes
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| RenderFormAsUnsigned | `0` | Render form sebagai tidak ditandatangani. |
-| RenderFormAsSigned | `1` | Render form sebagai ditandatangani. |
+| RenderFormAsUnsigned | `0` | Render formulir sebagai tidak ditandatangani. |
+| RenderFormAsSigned | `1` | Render formulir sebagai ditandatangani. |
 
 ### Lihat Juga
 
-* kelas [Form](../form/)
+* class [Form](../form/)
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

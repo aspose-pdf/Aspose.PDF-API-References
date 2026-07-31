@@ -1,12 +1,12 @@
 ---
-title: OpenAIImageDescriptionCopilotOptions.GetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIImageDescriptionCopilotOptions. Mendapatkan OpenAIImageDescriptionCopilotOptions saat ini
+title: "OpenAIImageDescriptionCopilotOptions.GetOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAIImageDescriptionCopilotOptions. Mendapatkan OpenAIImageDescriptionCopilotOptions saat ini."
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.ai/openaiimagedescriptioncopilotoptions/getoptions/
 ---
-## Metode OpenAIImageDescriptionCopilotOptions.GetOptions
+## OpenAIImageDescriptionCopilotOptions.GetOptions method
 
 Mendapatkan [`OpenAIImageDescriptionCopilotOptions`](../) saat ini.
 
@@ -14,12 +14,14 @@ Mendapatkan [`OpenAIImageDescriptionCopilotOptions`](../) saat ini.
 public OpenAIImageDescriptionCopilotOptions GetOptions()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAIImageDescriptionCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [OpenAIImageDescriptionCopilotOptions](../)
+* class [OpenAIImageDescriptionCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

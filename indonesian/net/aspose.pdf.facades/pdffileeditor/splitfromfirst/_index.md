@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.SplitFromFirst
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileEditor. Memisahkan file Pdf dari halaman pertama ke lokasi yang ditentukan dan menyimpan bagian depan sebagai file baru
+title: "PdfFileEditor.SplitFromFirst"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileEditor. Membagi file Pdf dari halaman pertama hingga lokasi yang ditentukan dan menyimpan bagian depan sebagai file baru"
 type: docs
 weight: 340
 url: /id/net/aspose.pdf.facades/pdffileeditor/splitfromfirst/
 ---
 ## SplitFromFirst(string, int, string) {#splitfromfirst_1}
 
-Memisahkan file Pdf dari halaman pertama ke lokasi yang ditentukan, dan menyimpan bagian depan sebagai file baru.
+Membagi file Pdf dari halaman pertama hingga lokasi yang ditentukan, dan menyimpan bagian depan sebagai file baru.
 
 ```csharp
 public bool SplitFromFirst(string inputFile, int location, string outputFile)
@@ -17,12 +17,12 @@ public bool SplitFromFirst(string inputFile, int location, string outputFile)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | inputFile | String | File Pdf sumber. |
-| location | Int32 | Titik pemisahan. |
+| lokasi | Int32 | Titik pemisahan. |
 | outputFile | String | File Pdf keluaran. |
 
-### Return Value
+### Nilai Kembalian
 
-True untuk sukses, atau false.
+True untuk berhasil, atau false.
 
 ## Contoh
 
@@ -33,7 +33,7 @@ pfe.SplitFromFirst("input.pdf", 5, "out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -41,7 +41,7 @@ pfe.SplitFromFirst("input.pdf", 5, "out.pdf");
 
 ## SplitFromFirst(Stream, int, Stream) {#splitfromfirst}
 
-Memisahkan dari awal ke lokasi yang ditentukan, dan menyimpan bagian depan dalam Stream keluaran.
+Membagi dari awal hingga lokasi yang ditentukan, dan menyimpan bagian depan ke Stream output.
 
 ```csharp
 public bool SplitFromFirst(Stream inputStream, int location, Stream outputStream)
@@ -49,17 +49,17 @@ public bool SplitFromFirst(Stream inputStream, int location, Stream outputStream
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputStream | Stream | Stream file Pdf sumber. |
-| location | Int32 | Titik pemisahan. |
-| outputStream | Stream | Stream file keluaran. |
+| inputStream | Stream | Aliran file Pdf sumber. |
+| lokasi | Int32 | Titik pemisahan. |
+| outputStream | Stream | Stream file output. |
 
-### Return Value
+### Nilai Kembalian
 
-True untuk sukses, atau false.
+True untuk berhasil, atau false.
 
 ## Catatan
 
-Stream TIDAK ditutup setelah operasi ini.
+Aliran TIDAK ditutup setelah operasi ini.
 
 ## Contoh
 
@@ -72,6 +72,8 @@ pfe.SplitFromFirst(sourceStream, 5, outStream);
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

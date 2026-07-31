@@ -1,12 +1,12 @@
 ---
-title: PDF3DCuttingPlaneOrientation.AngleX
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PDF3DCuttingPlaneOrientation. Mendapatkan atau mengatur sudut ke sumbu X
+title: "PDF3DCuttingPlaneOrientation.AngleX"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PDF3DCuttingPlaneOrientation properti. Mendapatkan atau mengatur sudut ke sumbu X"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/anglex/
 ---
-## Properti PDF3DCuttingPlaneOrientation.AngleX
+## PDF3DCuttingPlaneOrientation.AngleX property
 
 Mendapatkan atau mengatur sudut ke sumbu X.
 
@@ -14,12 +14,14 @@ Mendapatkan atau mengatur sudut ke sumbu X.
 public double? AngleX { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Sudut ke sumbu X.
 
 ### Lihat Juga
 
-* kelas [PDF3DCuttingPlaneOrientation](../)
+* class [PDF3DCuttingPlaneOrientation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

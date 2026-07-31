@@ -1,14 +1,14 @@
 ---
-title: CgmLoadOptions.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CgmLoadOptions. Mendapatkan atau mengatur ukuran halaman output untuk impor
+title: "CgmLoadOptions.PageSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CgmLoadOptions. Mendapatkan atau mengatur ukuran halaman output untuk impor"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/cgmloadoptions/pagesize/
 ---
-## Properti CgmLoadOptions.PageSize
+## CgmLoadOptions.PageSize property
 
-Mendapatkan atau mengatur ukuran halaman output untuk impor.
+Mendapatkan atau mengatur ukuran Page output untuk impor.
 
 ```csharp
 public SizeF PageSize { get; }
@@ -16,6 +16,8 @@ public SizeF PageSize { get; }
 
 ### Lihat Juga
 
-* kelas [CgmLoadOptions](../)
+* class [CgmLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

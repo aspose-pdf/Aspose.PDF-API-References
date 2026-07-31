@@ -1,12 +1,12 @@
 ---
-title: EmbeddedFileCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metode EmbeddedFileCollection. Mengembalikan enumerator koleksi
+title: "EmbeddedFileCollection.GetEnumerator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode EmbeddedFileCollection. Mengembalikan enumerator koleksi"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf/embeddedfilecollection/getenumerator/
 ---
-## Metode EmbeddedFileCollection.GetEnumerator
+## EmbeddedFileCollection.GetEnumerator method
 
 Mengembalikan enumerator koleksi.
 
@@ -14,13 +14,15 @@ Mengembalikan enumerator koleksi.
 public IEnumerator<FileSpecification> GetEnumerator()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Enumerator dari koleksi.
+Enumerator koleksi.
 
 ### Lihat Juga
 
-* kelas [FileSpecification](../../filespecification/)
-* kelas [EmbeddedFileCollection](../)
+* class [FileSpecification](../../filespecification/)
+* class [EmbeddedFileCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.TrySplitFromFirst
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileEditor. Memisahkan file Pdf dari halaman pertama ke lokasi yang ditentukan dan menyimpan bagian depan sebagai file baru
+title: "PdfFileEditor.TrySplitFromFirst"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileEditor. Membagi file Pdf dari halaman pertama hingga lokasi yang ditentukan dan menyimpan bagian depan sebagai file baru"
 type: docs
 weight: 460
 url: /id/net/aspose.pdf.facades/pdffileeditor/trysplitfromfirst/
 ---
 ## TrySplitFromFirst(string, int, string) {#trysplitfromfirst_1}
 
-Memisahkan file Pdf dari halaman pertama ke lokasi yang ditentukan, dan menyimpan bagian depan sebagai file baru.
+Membagi file Pdf dari halaman pertama hingga lokasi yang ditentukan, dan menyimpan bagian depan sebagai file baru.
 
 ```csharp
 public bool TrySplitFromFirst(string inputFile, int location, string outputFile)
@@ -17,12 +17,12 @@ public bool TrySplitFromFirst(string inputFile, int location, string outputFile)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | inputFile | String | File Pdf sumber. |
-| location | Int32 | Titik pemisahan. |
+| lokasi | Int32 | Titik pemisahan. |
 | outputFile | String | File Pdf keluaran. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True untuk sukses, atau false.
+True untuk berhasil, atau false.
 
 ## Catatan
 
@@ -37,7 +37,7 @@ bool result = pfe.TrySplitFromFirst("input.pdf", 5, "out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -45,7 +45,7 @@ bool result = pfe.TrySplitFromFirst("input.pdf", 5, "out.pdf");
 
 ## TrySplitFromFirst(Stream, int, Stream) {#trysplitfromfirst}
 
-Memisahkan dari awal ke lokasi yang ditentukan, dan menyimpan bagian depan dalam Stream keluaran.
+Membagi dari awal hingga lokasi yang ditentukan, dan menyimpan bagian depan ke Stream output.
 
 ```csharp
 public bool TrySplitFromFirst(Stream inputStream, int location, Stream outputStream)
@@ -53,17 +53,17 @@ public bool TrySplitFromFirst(Stream inputStream, int location, Stream outputStr
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputStream | Stream | Stream file Pdf sumber. |
-| location | Int32 | Titik pemisahan. |
-| outputStream | Stream | Stream file keluaran. |
+| inputStream | Stream | Aliran file Pdf sumber. |
+| lokasi | Int32 | Titik pemisahan. |
+| outputStream | Stream | Stream file output. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True untuk sukses, atau false.
+True untuk berhasil, atau false.
 
 ## Catatan
 
-Stream TIDAK ditutup setelah operasi ini. Metode TrySplitFromFirst mirip dengan metode SplitFromFirst, kecuali metode TrySplitFromFirst tidak melempar pengecualian jika operasi gagal.
+Stream tidak DITUTUP setelah operasi ini. Metode TrySplitFromFirst mirip dengan metode SplitFromFirst, kecuali metode TrySplitFromFirst tidak melempar pengecualian jika operasi gagal.
 
 ## Contoh
 
@@ -76,65 +76,8 @@ pfe.TrySplitFromFirst(sourceStream, 5, outStream);
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
 
-## TrySplitFromFirst(string, int, HttpResponse) {#trysplitfromfirst_3}
-
-Memisahkan dokumen dari halaman pertama ke lokasi dan menyimpan hasilnya ke dalam objek HttpResponse.
-
-```csharp
-public bool TrySplitFromFirst(string inputFile, int location, HttpResponse response)
-```
-
-| Parameter | Tipe | Deskripsi |
-| --- | --- | --- |
-| inputFile | String | Nama file sumber. |
-| location | Int32 | Titik pemisahan. |
-| response | HttpResponse | Objek HttpResponse. |
-
-### Nilai Kembali
-
-true jika operasi selesai dengan sukses; jika tidak, false.
-
-## Catatan
-
-Metode TrySplitFromFirst mirip dengan metode SplitFromFirst, kecuali metode TrySplitFromFirst tidak melempar pengecualian jika operasi gagal.
-
-### Lihat Juga
-
-* kelas [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TrySplitFromFirst(Stream, int, HttpResponse) {#trysplitfromfirst_1}
-
-Memisahkan dokumen dari awal ke lokasi yang ditentukan dan menyimpan hasilnya ke dalam objek HttpResponse.
-
-```csharp
-public bool TrySplitFromFirst(Stream inputStream, int location, HttpResponse response)
-```
-
-| Parameter | Tipe | Deskripsi |
-| --- | --- | --- |
-| inputStream | Stream | Stream dokumen sumber. |
-| location | Int32 | Titik pemisahan. |
-| response | HttpResponse | Objek HttpResponse di mana hasil akan disimpan. |
-
-### Nilai Kembali
-
-true jika operasi selesai dengan sukses; jika tidak, false.
-
-## Catatan
-
-Metode TrySplitFromFirst mirip dengan metode SplitFromFirst, kecuali metode TrySplitFromFirst tidak melempar pengecualian jika operasi gagal.
-
-### Lihat Juga
-
-* kelas [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)

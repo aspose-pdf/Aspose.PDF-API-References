@@ -1,14 +1,14 @@
 ---
-title: OcspSettings.ServerUrl
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OcspSettings. Mendapatkan dan mengatur url server ocsp
+title: "OcspSettings.ServerUrl"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OcspSettings. Mendapatkan dan mengatur URL server ocsp"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/ocspsettings/serverurl/
 ---
-## Properti OcspSettings.ServerUrl
+## OcspSettings.ServerUrl property
 
-Mendapatkan dan mengatur url server ocsp.
+Mendapatkan dan mengatur URL server ocsp.
 
 ```csharp
 public string ServerUrl { get; set; }
@@ -16,6 +16,8 @@ public string ServerUrl { get; set; }
 
 ### Lihat Juga
 
-* kelas [OcspSettings](../)
+* class [OcspSettings](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

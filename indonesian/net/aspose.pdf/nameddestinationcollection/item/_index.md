@@ -1,14 +1,14 @@
 ---
-title: NamedDestinationCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti NamedDestinationCollection. Mengambil atau mengatur janji berdasarkan namanya
+title: "NamedDestinationCollection.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti NamedDestinationCollection. Mendapatkan atau mengatur janji berdasarkan namanya"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/nameddestinationcollection/item/
 ---
-## Indeks NamedDestinationCollection
+## NamedDestinationCollection indexer
 
-Mengambil atau mengatur janji berdasarkan namanya.
+Mendapatkan atau mengatur appointment berdasarkan namanya.
 
 ```csharp
 public IAppointment this[string name] { get; set; }
@@ -16,9 +16,9 @@ public IAppointment this[string name] { get; set; }
 
 | Parameter | Deskripsi |
 | --- | --- |
-| name | Nama dari janji. |
+| nama | Nama janji. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Janji
 
@@ -28,3 +28,5 @@ Janji
 * class [NamedDestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

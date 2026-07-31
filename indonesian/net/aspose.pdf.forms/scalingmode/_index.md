@@ -1,12 +1,12 @@
 ---
-title: Enum ScalingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ScalingMode Aspose.Pdf.Forms. Jenis skala yang akan digunakan
+title: "Enum ScalingMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Forms.ScalingMode. Jenis skala yang akan digunakan"
 type: docs
-weight: 5240
+weight: 5360
 url: /id/net/aspose.pdf.forms/scalingmode/
 ---
-## Enumerasi ScalingMode
+## ScalingMode enumeration
 
 Jenis skala yang akan digunakan.
 
@@ -18,10 +18,12 @@ public enum ScalingMode
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Proportional | `0` | Skala ikon agar sesuai dengan lebar atau tinggi dari persegi panjang anotasi sambil mempertahankan rasio aspek asli ikon. |
-| Anamorphic | `1` | Skala ikon untuk mengisi persegi panjang anotasi secara tepat. |
+| Proportional | `0` | Skalakan ikon agar sesuai dengan lebar atau tinggi persegi panjang anotasi sambil mempertahankan rasio aspek asli ikon. |
+| Anamorphic | `1` | Skalakan ikon untuk mengisi persegi panjang anotasi secara tepat. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

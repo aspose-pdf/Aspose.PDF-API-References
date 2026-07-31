@@ -1,12 +1,12 @@
 ---
-title: Enum ImageCompressionVersion
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ImageCompressionVersion Aspose.Pdf.Optimization. Menjelaskan versi algoritma kompresi gambar
+title: "Enum ImageCompressionVersion"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Optimization.ImageCompressionVersion. Menjelaskan versi algoritma kompresi gambar"
 type: docs
-weight: 7960
+weight: 8100
 url: /id/net/aspose.pdf.optimization/imagecompressionversion/
 ---
-## Enumerasi ImageCompressionVersion
+## ImageCompressionVersion enumeration
 
 Menjelaskan versi algoritma kompresi gambar.
 
@@ -20,9 +20,11 @@ public enum ImageCompressionVersion
 | --- | --- | --- |
 | Standard | `0` | Algoritma standar. Nilai default. |
 | Fast | `2` | Algoritma yang ditingkatkan lebih cepat daripada standar tetapi tidak berlaku untuk semua kasus. |
-| Mixed | `3` | Gunakan algoritma cepat jika memungkinkan dan standar untuk kasus lainnya. Mungkin lebih lambat daripada "Fast" tetapi dapat menghasilkan kompresi yang lebih baik. |
+| Mixed | `3` | Gunakan algoritma cepat bila memungkinkan dan standar untuk kasus lainnya. Mungkin lebih lambat daripada \"Fast\" tetapi dapat menghasilkan kompresi yang lebih baik. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Optimization](../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../)
+
+

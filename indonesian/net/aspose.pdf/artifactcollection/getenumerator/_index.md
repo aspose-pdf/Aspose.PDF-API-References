@@ -1,12 +1,12 @@
 ---
-title: ArtifactCollection.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ArtifactCollection. Mendapatkan enumerator untuk koleksi
+title: "ArtifactCollection.GetEnumerator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ArtifactCollection. Mendapatkan enumerator untuk koleksi"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf/artifactcollection/getenumerator/
 ---
-## Metode ArtifactCollection.GetEnumerator
+## ArtifactCollection.GetEnumerator method
 
 Mendapatkan enumerator untuk koleksi.
 
@@ -14,13 +14,15 @@ Mendapatkan enumerator untuk koleksi.
 public IEnumerator<Artifact> GetEnumerator()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Objek enumerator.
 
 ### Lihat Juga
 
-* kelas [Artifact](../../artifact/)
-* kelas [ArtifactCollection](../)
+* class [Artifact](../../artifact/)
+* class [ArtifactCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RunStepResponse.FailedAt
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RunStepResponse. Mendapatkan atau mengatur timestamp Unix dalam detik untuk saat langkah run gagal
+title: "RunStepResponse.FailedAt"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RunStepResponse. Mendapatkan atau mengatur cap waktu Unix dalam detik untuk saat langkah yang dijalankan gagal"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.ai/runstepresponse/failedat/
 ---
-## Properti RunStepResponse.FailedAt
+## RunStepResponse.FailedAt property
 
-Mendapatkan atau mengatur timestamp Unix (dalam detik) untuk saat langkah run gagal.
+Mendapatkan atau mengatur cap waktu Unix (dalam detik) untuk saat langkah run gagal.
 
 ```csharp
 public long? FailedAt { get; set; }
@@ -16,6 +16,8 @@ public long? FailedAt { get; set; }
 
 ### Lihat Juga
 
-* kelas [RunStepResponse](../)
+* class [RunStepResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

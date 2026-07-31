@@ -1,14 +1,14 @@
 ---
-title: XImageCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XImageCollection. Menentukan apakah koleksi mengandung nilai tertentu
+title: "XImageCollection.Contains"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode XImageCollection. Menentukan apakah koleksi berisi nilai tertentu"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf/ximagecollection/contains/
 ---
-## Metode XImageCollection.Contains
+## XImageCollection.Contains method
 
-Menentukan apakah koleksi mengandung nilai tertentu.
+Menentukan apakah koleksi berisi nilai tertentu.
 
 ```csharp
 public bool Contains(XImage item)
@@ -18,13 +18,15 @@ public bool Contains(XImage item)
 | --- | --- | --- |
 | item | XImage | Objek yang akan dicari dalam koleksi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 true jika item ditemukan dalam koleksi; jika tidak, false.
 
 ### Lihat Juga
 
-* kelas [XImage](../../ximage/)
-* kelas [XImageCollection](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [XImage](../../ximage/)
+* class [XImageCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

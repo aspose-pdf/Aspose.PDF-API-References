@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ImagePlacementCollection. Mendapatkan jumlah elemen objek ImagePlacement yang sebenarnya terdapat dalam koleksi
+title: "ImagePlacementCollection.Count"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ImagePlacementCollection properti. Mengembalikan jumlah elemen objek ImagePlacement yang sebenarnya terdapat dalam koleksi"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/imageplacementcollection/count/
 ---
-## Properti ImagePlacementCollection.Count
+## ImagePlacementCollection.Count property
 
-Mendapatkan jumlah elemen objek [`ImagePlacement`](../../imageplacement/) yang sebenarnya terdapat dalam koleksi.
+Mengembalikan jumlah elemen objek [`ImagePlacement`](../../imageplacement/) yang sebenarnya terdapat dalam koleksi.
 
 ```csharp
 public int Count { get; }
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### Lihat Juga
 
-* kelas [ImagePlacementCollection](../)
+* class [ImagePlacementCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

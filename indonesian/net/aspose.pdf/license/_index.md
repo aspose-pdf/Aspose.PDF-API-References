@@ -1,12 +1,12 @@
 ---
-title: Class License
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.License. Menyediakan metode untuk melisensikan komponen
+title: "Kelas License"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.License. Menyediakan metode untuk melisensikan komponen"
 type: docs
-weight: 6090
+weight: 6220
 url: /id/net/aspose.pdf/license/
 ---
-## Kelas Lisensi
+## License class
 
 Menyediakan metode untuk melisensikan komponen.
 
@@ -20,10 +20,17 @@ public class License
 | --- | --- |
 | [License](license/)() | Konstruktor default. |
 
+## Properti
+
+| Nama | Deskripsi |
+| --- | --- |
+| [LicenseInfo](../../aspose.pdf/license/licenseinfo/) { get; } | Mendapatkan informasi lisensi saat ini. |
+
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
+| [ClearLicense](../../aspose.pdf/license/clearlicense/)() | Menghapus lisensi saat ini. |
 | [SetLicense](../../aspose.pdf/license/setlicense/#setlicense)(Stream) | Melisensikan komponen. |
 | [SetLicense](../../aspose.pdf/license/setlicense/#setlicense_1)(string) | Melisensikan komponen. |
 
@@ -31,3 +38,5 @@ public class License
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

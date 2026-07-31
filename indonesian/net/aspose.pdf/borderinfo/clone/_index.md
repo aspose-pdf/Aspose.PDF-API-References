@@ -1,12 +1,12 @@
 ---
-title: BorderInfo.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Metode BorderInfo. Mengkloning objek BorderInfo baru
+title: "BorderInfo.Clone"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode BorderInfo. Mengkloning objek BorderInfo baru"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/borderinfo/clone/
 ---
-## Metode BorderInfo.Clone
+## BorderInfo.Clone method
 
 Mengkloning objek BorderInfo baru.
 
@@ -14,12 +14,14 @@ Mengkloning objek BorderInfo baru.
 public object Clone()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Objek BorderInfo baru.
 
 ### Lihat Juga
 
-* kelas [BorderInfo](../)
+* class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

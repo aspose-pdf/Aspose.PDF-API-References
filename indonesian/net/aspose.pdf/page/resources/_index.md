@@ -1,14 +1,14 @@
 ---
-title: Page.Resources
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Halaman. Mendapatkan sumber daya halaman. Objek Sumber Daya berisi koleksi gambar, formulir, dan font. Sumber Daya
+title: "Page.Resources"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Page. Mendapatkan sumber daya halaman. Objek Resources berisi koleksi gambar, formulir, dan font. Resources"
 type: docs
 weight: 240
 url: /id/net/aspose.pdf/page/resources/
 ---
-## Properti Page.Resources
+## Page.Resources property
 
-Mendapatkan sumber daya halaman. Objek Sumber Daya berisi koleksi gambar, formulir, dan font. `Resources`
+Mendapatkan sumber daya halaman. Objek Resources berisi koleksi gambar, formulir, dan font. `Resources`
 
 ```csharp
 public Resources Resources { get; }
@@ -30,7 +30,9 @@ foreach(XImage image in resources.Images)
 
 ### Lihat Juga
 
-* kelas [Resources](../../resources/)
-* kelas [Page](../)
+* class [Resources](../../resources/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

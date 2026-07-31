@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.Keys
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AppearanceDictionary. Mendapatkan kunci dari kamus. Jika kamus penampilan memiliki subkamus, maka Keys berisi nilai NRD.state di mana N penampilan normal R penampilan rollover D penampilan turun dan state nama dari state tersebut misalnya On Off untuk kotak centang
+title: "AppearanceDictionary.Keys"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti AppearanceDictionary. Mendapatkan kunci kamus. Jika kamus tampilan memiliki subkamus, maka Keys berisi nilai NRD.state dimana N = tampilan normal, R = tampilan rollover, D = tampilan turun, dan state = nama keadaan, misalnya On atau Off untuk kotak centang."
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.annotations/appearancedictionary/keys/
 ---
-## Properti AppearanceDictionary.Keys
+## AppearanceDictionary.Keys property
 
-Mendapatkan kunci dari kamus. Jika kamus penampilan memiliki subkamus, maka `Keys` berisi nilai (N&#x7C;R&#x7C;D).state, di mana N - penampilan normal, R - penampilan rollover, D - penampilan turun dan state - nama dari state tersebut (misalnya On, Off untuk kotak centang).
+Mendapatkan kunci kamus. Jika kamus tampilan memiliki subkamus, maka `Keys` berisi nilai (N&#x7C;R&#x7C;D).state, dimana N - tampilan normal, R - tampilan rollover, D - tampilan turun, dan state - nama keadaan (misalnya On, Off untuk kotak centang).
 
 ```csharp
 public ICollection<string> Keys { get; }
@@ -16,6 +16,8 @@ public ICollection<string> Keys { get; }
 
 ### Lihat Juga
 
-* kelas [AppearanceDictionary](../)
+* class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

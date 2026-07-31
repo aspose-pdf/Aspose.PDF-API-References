@@ -1,7 +1,7 @@
 ---
-title: AnnotationCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Metode AnnotationCollection. Menghapus anotasi dari koleksi berdasarkan indeks
+title: "AnnotationCollection.Delete"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode AnnotationCollection. Menghapus annotation dari koleksi berdasarkan indeks."
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.annotations/annotationcollection/delete/
@@ -16,11 +16,11 @@ public void Delete(int index)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| index | Int32 | Indeks anotasi yang akan dihapus. |
+| index | Int32 | Indeks annotation yang akan dihapus. |
 
 ### Lihat Juga
 
-* kelas [AnnotationCollection](../)
+* class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,7 +36,7 @@ public void Delete()
 
 ### Lihat Juga
 
-* kelas [AnnotationCollection](../)
+* class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -52,11 +52,13 @@ public void Delete(Annotation annotation)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| annotation | Annotation | Anotasi yang akan dihapus. |
+| annotation | Annotation | Annotation yang akan dihapus. |
 
 ### Lihat Juga
 
-* kelas [Annotation](../../annotation/)
-* kelas [AnnotationCollection](../)
+* class [Annotation](../../annotation/)
+* class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

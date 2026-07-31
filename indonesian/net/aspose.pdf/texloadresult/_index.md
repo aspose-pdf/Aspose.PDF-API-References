@@ -1,12 +1,12 @@
 ---
-title: Enum TeXLoadResult
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.TeXLoadResult. Hasil untuk pemuatan dan kompilasi TeX
+title: "Enum TeXLoadResult"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.TeXLoadResult. Hasil untuk pemuatan dan kompilasi TeX"
 type: docs
-weight: 10380
+weight: 10560
 url: /id/net/aspose.pdf/texloadresult/
 ---
-## Enumerasi TeXLoadResult
+## TeXLoadResult enumeration
 
 Hasil untuk pemuatan dan kompilasi TeX.
 
@@ -18,14 +18,16 @@ public enum TeXLoadResult
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| NotExecuted | `0` | Pemuatan belum dieksekusi. |
-| Spotless | `1` | Hasil pemuatan dan kompilasi yang bersih. |
-| WarningIssued | `2` | Peringatan ada saat pemuatan dan kompilasi. |
-| ErrorMessageIssued | `3` | Kesalahan ada saat pemuatan dan kompilasi. |
-| FatalErrorStop | `4` | Kesalahan fatal ada saat pemuatan dan kompilasi. |
-| InvalidResult | `5` | Hasil pemuatan dan kompilasi tidak valid. |
+| NotExecuted | `0` | Pemrosesan belum dijalankan. |
+| Spotless | `1` | Hasil bersih dari pemuatan dan kompilasi. |
+| WarningIssued | `2` | Peringatan muncul pada pemuatan dan kompilasi. |
+| ErrorMessageIssued | `3` | Kesalahan muncul pada pemuatan dan kompilasi. |
+| FatalErrorStop | `4` | Kesalahan fatal muncul pada pemuatan dan kompilasi. |
+| InvalidResult | `5` | Hasil tidak valid dari pemuatan dan kompilasi. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

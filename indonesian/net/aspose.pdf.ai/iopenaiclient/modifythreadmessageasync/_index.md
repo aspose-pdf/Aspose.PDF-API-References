@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.ModifyThreadMessageAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IOpenAIClient. Memodifikasi pesan yang ada dalam sebuah thread secara asinkron
+title: "IOpenAIClient.ModifyThreadMessageAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IOpenAIClient. Memodifikasi pesan yang ada dalam thread secara asinkron"
 type: docs
 weight: 390
 url: /id/net/aspose.pdf.ai/iopenaiclient/modifythreadmessageasync/
 ---
-## Metode IOpenAIClient.ModifyThreadMessageAsync
+## IOpenAIClient.ModifyThreadMessageAsync method
 
-Memodifikasi pesan yang ada dalam sebuah thread secara asinkron.
+Memodifikasi pesan yang ada dalam thread secara asynchronous.
 
 ```csharp
 public Task<ThreadMessageResponse> ModifyThreadMessageAsync(string threadId, 
@@ -18,26 +18,28 @@ public Task<ThreadMessageResponse> ModifyThreadMessageAsync(string threadId,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| threadId | String | ID dari thread yang berisi pesan untuk dimodifikasi. |
-| threadMessageId | String | ID dari pesan yang akan dimodifikasi. |
+| threadId | String | ID thread yang berisi pesan yang akan dimodifikasi. |
+| threadMessageId | String | ID pesan yang akan dimodifikasi. |
 | threadMessageModifyRequest | ThreadMessageModifyRequest | Detail permintaan untuk memodifikasi pesan. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi respons dari modifikasi pesan.
+Tugas yang mewakili operasi asinkron. Hasil tugas berisi respons dari modifikasi pesan.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika thread Id adalah null atau kosong. |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika thread message Id adalah null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika ID thread bernilai null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika ID pesan thread null atau kosong. |
 
 ### Lihat Juga
 
-* kelas [ThreadMessageResponse](../../threadmessageresponse/)
-* kelas [ThreadMessageModifyRequest](../../threadmessagemodifyrequest/)
-* antarmuka [IOpenAIClient](../)
+* class [ThreadMessageResponse](../../threadmessageresponse/)
+* class [ThreadMessageModifyRequest](../../threadmessagemodifyrequest/)
+* interface [IOpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

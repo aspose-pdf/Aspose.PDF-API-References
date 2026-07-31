@@ -1,12 +1,12 @@
 ---
-title: XmpField.ToStructure
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XmpField. Mendapatkan nilai sebagai struktur
+title: "XmpField.ToStructure"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode XmpField. Mendapatkan nilai sebagai struktur"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf/xmpfield/tostructure/
 ---
-## Metode XmpField.ToStructure
+## XmpField.ToStructure method
 
 Mendapatkan nilai sebagai struktur.
 
@@ -14,12 +14,14 @@ Mendapatkan nilai sebagai struktur.
 public XmpField[] ToStructure()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Struktur.
+Struktur tersebut.
 
 ### Lihat Juga
 
-* kelas [XmpField](../)
+* class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

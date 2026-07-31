@@ -1,12 +1,12 @@
 ---
-title: Metadata.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Metadata. Mendapatkan jumlah elemen dalam koleksi
+title: "Metadata.Count"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Metadata. Mendapatkan jumlah elemen dalam koleksi"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/metadata/count/
 ---
-## Properti Metadata.Count
+## Metadata.Count property
 
 Mendapatkan jumlah elemen dalam koleksi.
 
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### Lihat Juga
 
-* kelas [Metadata](../)
+* class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

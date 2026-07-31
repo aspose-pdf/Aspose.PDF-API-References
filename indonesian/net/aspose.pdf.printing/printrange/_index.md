@@ -1,14 +1,14 @@
 ---
-title: Enum PrintRange
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Printing.PrintRange. Menentukan opsi yang menunjukkan bagian dari dokumen untuk dicetak
+title: "Enum PrintRange"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Printing.PrintRange enum. Menentukan opsi yang menunjuk bagian dokumen yang akan dicetak"
 type: docs
-weight: 9650
+weight: 9800
 url: /id/net/aspose.pdf.printing/printrange/
 ---
-## Enumerasi PrintRange
+## PrintRange enumeration
 
-Menentukan opsi yang menunjukkan bagian dari dokumen untuk dicetak.
+Menentukan opsi yang menunjuk bagian dokumen yang akan dicetak.
 
 ```csharp
 public enum PrintRange
@@ -27,3 +27,5 @@ public enum PrintRange
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

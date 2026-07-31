@@ -1,14 +1,14 @@
 ---
-title: Element.InsertChild
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Element. Menyisipkan Elemen ke dalam koleksi anak pada indeks yang ditentukan
+title: "Element.InsertChild"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Element. Sisipkan Element ke koleksi anak pada indeks yang ditentukan"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.logicalstructure/element/insertchild/
 ---
-## Metode Element.InsertChild
+## Element.InsertChild method
 
-Menyisipkan Elemen ke dalam koleksi anak pada indeks yang ditentukan.
+Sisipkan Element ke koleksi anak pada indeks yang ditentukan.
 
 ```csharp
 public Element InsertChild(Element element, int index, bool checkIfCanBeInserted = true)
@@ -16,13 +16,13 @@ public Element InsertChild(Element element, int index, bool checkIfCanBeInserted
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| element | Element | Objek Elemen yang akan ditambahkan. |
-| index | Int32 | Indeks Elemen. |
+| elemen | Element | Objek Element untuk ditambahkan. |
+| index | Int32 | Indeks Element. |
 | checkIfCanBeInserted | Boolean | Periksa apakah dapat disisipkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Elemen yang telah ditambahkan.
+Element yang telah ditambahkan.
 
 ### Pengecualian
 
@@ -32,6 +32,8 @@ Elemen yang telah ditambahkan.
 
 ### Lihat Juga
 
-* kelas [Element](../)
-* ruang nama [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [Element](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

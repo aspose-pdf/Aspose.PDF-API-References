@@ -1,14 +1,14 @@
 ---
-title: LevelFormat.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LevelFormat. Mendapatkan atau mengatur status teks level daftar
+title: "LevelFormat.TextState"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti LevelFormat. Mendapatkan atau mengatur status teks tingkat daftar"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/levelformat/textstate/
 ---
-## Properti LevelFormat.TextState
+## LevelFormat.TextState property
 
-Mendapatkan atau mengatur status teks level daftar
+Mendapatkan atau mengatur status teks tingkat daftar
 
 ```csharp
 public TextState TextState { get; set; }
@@ -16,7 +16,9 @@ public TextState TextState { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextState](../../../aspose.pdf.text/textstate/)
-* kelas [LevelFormat](../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [LevelFormat](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

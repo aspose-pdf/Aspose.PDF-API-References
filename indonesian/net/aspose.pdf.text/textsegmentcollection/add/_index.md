@@ -1,12 +1,12 @@
 ---
-title: TextSegmentCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextSegmentCollection. Menambahkan elemen segmen teks pada indeks yang ditentukan
+title: "TextSegmentCollection.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "TextSegmentCollection metode. Menambahkan elemen segmen teks pada indeks yang ditentukan"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.text/textsegmentcollection/add/
 ---
-## Metode TextSegmentCollection.Add
+## TextSegmentCollection.Add method
 
 Menambahkan elemen segmen teks pada indeks yang ditentukan.
 
@@ -16,11 +16,13 @@ public void Add(TextSegment segment)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| segment | TextSegment | Objek segmen teks |
+| segmen | TextSegment | Objek segmen teks |
 
 ### Lihat Juga
 
-* kelas [TextSegment](../../textsegment/)
-* kelas [TextSegmentCollection](../)
+* class [TextSegment](../../textsegment/)
+* class [TextSegmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

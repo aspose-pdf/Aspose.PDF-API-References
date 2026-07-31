@@ -1,12 +1,12 @@
 ---
-title: Bookmark.CustomAcorbatViewerMenuActionName
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Bookmark. Nama aksi yang sesuai untuk mengeksekusi item menu di penampil Acrobat
+title: "Bookmark.CustomAcorbatViewerMenuActionName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Bookmark. Nama aksi yang sesuai untuk mengeksekusi item menu di penampil Acrobat"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.facades/bookmark/customacorbatviewermenuactionname/
 ---
-## Properti Bookmark.CustomAcorbatViewerMenuActionName
+## Bookmark.CustomAcorbatViewerMenuActionName property
 
 Nama aksi yang sesuai untuk mengeksekusi item menu di penampil Acrobat.
 
@@ -16,6 +16,8 @@ public Enum[] CustomAcorbatViewerMenuActionName { get; set; }
 
 ### Lihat Juga
 
-* kelas [Bookmark](../)
+* class [Bookmark](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

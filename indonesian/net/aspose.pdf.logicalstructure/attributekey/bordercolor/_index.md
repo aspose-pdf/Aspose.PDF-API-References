@@ -1,12 +1,12 @@
 ---
-title: AttributeKey.BorderColor
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeKey. Atribut BorderColor pemilik atribut Layout
+title: "AttributeKey.BorderColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeKey field. BorderColor atribut Layout atribut pemilik"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.logicalstructure/attributekey/bordercolor/
 ---
-## Bidang AttributeKey.BorderColor
+## AttributeKey.BorderColor field
 
 Atribut BorderColor (pemilik atribut Layout).
 
@@ -16,6 +16,8 @@ public static readonly AttributeKey BorderColor;
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

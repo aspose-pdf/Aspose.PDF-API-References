@@ -1,14 +1,14 @@
 ---
-title: TableCellElement.IsWordWrapped
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TableCellElement. Mengambil atau mengatur teks sel yang dibungkus kata
+title: "TableCellElement.IsWordWrapped"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "TableCellElement properti. Mendapatkan atau mengatur pembungkus kata teks sel"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.logicalstructure/tablecellelement/iswordwrapped/
 ---
-## Properti TableCellElement.IsWordWrapped
+## TableCellElement.IsWordWrapped property
 
-Mengambil atau mengatur teks sel yang dibungkus kata.
+Mendapatkan atau mengatur pembungkus kata teks sel.
 
 ```csharp
 public bool IsWordWrapped { get; set; }
@@ -16,6 +16,8 @@ public bool IsWordWrapped { get; set; }
 
 ### Lihat Juga
 
-* kelas [TableCellElement](../)
-* ruang nama [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [TableCellElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

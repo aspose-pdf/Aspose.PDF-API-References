@@ -1,14 +1,14 @@
 ---
-title: Form.Fields
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Form. Mendapatkan daftar semua field di tingkat terendah dari form hierarkis
+title: "Form.Fields"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Form. Mendapatkan daftar semua bidang pada tingkat terendah dari formulir hierarkis"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.forms/form/fields/
 ---
-## Properti Form.Fields
+## Form.Fields property
 
-Mendapatkan daftar semua field di tingkat terendah dari form hierarkis.
+Mendapatkan daftar semua bidang pada tingkat terendah dari formulir hierarkis.
 
 ```csharp
 public Field[] Fields { get; }
@@ -20,3 +20,5 @@ public Field[] Fields { get; }
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

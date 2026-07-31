@@ -1,12 +1,12 @@
 ---
-title: Class VectorStoreFileBatchFileListResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.VectorStoreFileBatchFileListResponse. Mewakili respons daftar yang berisi data batch file penyimpanan vektor
+title: "Kelas VectorStoreFileBatchFileListResponse"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.VectorStoreFileBatchFileListResponse. Mewakili respons daftar yang berisi data batch file penyimpanan vektor"
 type: docs
-weight: 1300
+weight: 1390
 url: /id/net/aspose.pdf.ai/vectorstorefilebatchfilelistresponse/
 ---
-## Kelas VectorStoreFileBatchFileListResponse
+## VectorStoreFileBatchFileListResponse class
 
 Mewakili respons daftar yang berisi data batch file penyimpanan vektor.
 
@@ -38,7 +38,9 @@ public class VectorStoreFileBatchFileListResponse : ListDataResponse<List<Vector
 
 ### Lihat Juga
 
-* kelas [ListDataResponse&lt;T&gt;](../listdataresponse-1/)
-* kelas [VectorStoreFileResponse](../vectorstorefileresponse/)
+* class [ListDataResponse&lt;T&gt;](../listdataresponse-1/)
+* class [VectorStoreFileResponse](../vectorstorefileresponse/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

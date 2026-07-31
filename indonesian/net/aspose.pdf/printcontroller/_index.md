@@ -1,14 +1,14 @@
 ---
-title: Class PrintController
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.PrintController. Mewakili pengendali cetak
+title: "Kelas PrintController"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.PrintController class. Mewakili pengontrol cetak"
 type: docs
-weight: 9490
+weight: 9640
 url: /id/net/aspose.pdf/printcontroller/
 ---
-## Kelas PrintController
+## PrintController class
 
-Mewakili pengendali cetak.
+Mewakili kontroler pencetakan.
 
 ```csharp
 public sealed class PrintController : PrintController, IDisposable
@@ -30,13 +30,15 @@ public sealed class PrintController : PrintController, IDisposable
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Dispose](../../aspose.pdf/printcontroller/dispose/)() | Buang. |
-| override [OnEndPage](../../aspose.pdf/printcontroller/onendpage/)(PrintDocument, PrintPageEventArgs) | Ditembak pada akhir pencetakan halaman. |
-| override [OnEndPrint](../../aspose.pdf/printcontroller/onendprint/)(PrintDocument, PrintEventArgs) | Ditembak pada awal pencetakan halaman. |
-| override [OnStartPage](../../aspose.pdf/printcontroller/onstartpage/)(PrintDocument, PrintPageEventArgs) | Ditembak pada awal pencetakan halaman. |
-| override [OnStartPrint](../../aspose.pdf/printcontroller/onstartprint/)(PrintDocument, PrintEventArgs) | Ditembak pada awal pencetakan halaman. |
+| [Dispose](../../aspose.pdf/printcontroller/dispose/)() | Dispose. |
+| override [OnEndPage](../../aspose.pdf/printcontroller/onendpage/)(PrintDocument, PrintPageEventArgs) | Dipicu saat pencetakan halaman selesai. |
+| override [OnEndPrint](../../aspose.pdf/printcontroller/onendprint/)(PrintDocument, PrintEventArgs) | Dipicu saat pencetakan halaman dimulai. |
+| override [OnStartPage](../../aspose.pdf/printcontroller/onstartpage/)(PrintDocument, PrintPageEventArgs) | Dipicu saat pencetakan halaman dimulai. |
+| override [OnStartPrint](../../aspose.pdf/printcontroller/onstartprint/)(PrintDocument, PrintEventArgs) | Dipicu saat pencetakan halaman dimulai. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

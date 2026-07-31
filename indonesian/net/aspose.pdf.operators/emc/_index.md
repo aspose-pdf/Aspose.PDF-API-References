@@ -1,14 +1,14 @@
 ---
-title: Class EMC
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.EMC. Kelas yang mewakili operator EMC - Akhir dari urutan konten yang ditandai
+title: "Kelas EMC"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Operators.EMC class. Kelas yang mewakili operator EMC akhir urutan konten yang ditandai."
 type: docs
-weight: 7300
+weight: 7440
 url: /id/net/aspose.pdf.operators/emc/
 ---
-## Kelas EMC
+## EMC class
 
-Kelas yang mewakili operator EMC (Akhir dari urutan konten yang ditandai).
+Kelas yang mewakili operator EMC (End of marked-content sequence).
 
 ```csharp
 public class EMC : Operator
@@ -30,12 +30,14 @@ public class EMC : Operator
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/emc/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
+| override [Accept](../../aspose.pdf.operators/emc/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
 | override [ToString](../../aspose.pdf.operators/emc/tostring/)() | Mengembalikan representasi teks dari operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [Operator](../../aspose.pdf/operator/)
-* ruang nama [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

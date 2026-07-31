@@ -1,12 +1,12 @@
 ---
-title: TextFragment.Page
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextFragment. Mendapatkan halaman yang berisi TextFragment
+title: "TextFragment.Page"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextFragment. Mendapatkan halaman yang berisi TextFragment"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.text/textfragment/page/
 ---
-## Properti TextFragment.Page
+## TextFragment.Page property
 
 Mendapatkan halaman yang berisi TextFragment
 
@@ -16,11 +16,13 @@ public Page Page { get; }
 
 ## Catatan
 
-Nilai dapat null jika objek TextFragment tidak termasuk dalam halaman manapun.
+Nilai dapat bernilai null jika objek TextFragment tidak termasuk dalam halaman mana pun.
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [TextFragment](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

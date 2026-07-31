@@ -1,14 +1,14 @@
 ---
-title: LinkAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LinkAnnotation. Mendapatkan jenis anotasi
+title: "LinkAnnotation.AnnotationType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "LinkAnnotation property. Mendapatkan tipe anotasi"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/linkannotation/annotationtype/
 ---
-## Properti LinkAnnotation.AnnotationType
+## LinkAnnotation.AnnotationType property
 
-Mendapatkan jenis anotasi.
+Mendapatkan tipe annotation.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [LinkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

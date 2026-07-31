@@ -1,14 +1,14 @@
 ---
-title: Metadata.GetPrefixByNamespaceUri
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Metadata. Mengembalikan prefix berdasarkan namespace URI
+title: "Metadata.GetPrefixByNamespaceUri"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Metadata. Mengembalikan prefix berdasarkan namespace URI"
 type: docs
 weight: 180
 url: /id/net/aspose.pdf/metadata/getprefixbynamespaceuri/
 ---
-## Metode Metadata.GetPrefixByNamespaceUri
+## Metadata.GetPrefixByNamespaceUri method
 
-Mengembalikan prefix berdasarkan namespace URI.
+Mengembalikan prefiks berdasarkan URI namespace.
 
 ```csharp
 public string GetPrefixByNamespaceUri(string namespaceUri)
@@ -18,12 +18,14 @@ public string GetPrefixByNamespaceUri(string namespaceUri)
 | --- | --- | --- |
 | namespaceUri | String | Namespace URI. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Nilai dari prefix.
+Nilai prefix.
 
 ### Lihat Juga
 
-* kelas [Metadata](../)
+* class [Metadata](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

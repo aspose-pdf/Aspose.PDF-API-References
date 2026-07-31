@@ -1,14 +1,14 @@
 ---
-title: Class FontNotFoundException
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.FontNotFoundException. Pengecualian yang dilemparkan ketika font tidak ditemukan
+title: "Kelas FontNotFoundException"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.FontNotFoundException. Pengecualian yang dilemparkan ketika sebuah font tidak ditemukan"
 type: docs
-weight: 4900
+weight: 5020
 url: /id/net/aspose.pdf/fontnotfoundexception/
 ---
-## Kelas FontNotFoundException
+## FontNotFoundException class
 
-Pengecualian yang dilemparkan ketika font tidak ditemukan.
+Pengecualian yang dilempar ketika font tidak ditemukan.
 
 ```csharp
 public sealed class FontNotFoundException : PdfException
@@ -18,12 +18,14 @@ public sealed class FontNotFoundException : PdfException
 
 | Nama | Deskripsi |
 | --- | --- |
-| [FontNotFoundException](fontnotfoundexception/#constructor)(Exception) | Menginisialisasi instance baru dari kelas `FontNotFoundException` dengan referensi ke pengecualian dalam yang menjadi penyebab pengecualian ini. |
-| [FontNotFoundException](fontnotfoundexception/#constructor_1)(string) | Menginisialisasi instance baru dari kelas `FontNotFoundException`. |
-| [FontNotFoundException](fontnotfoundexception/#constructor_2)(string, Exception) | Menginisialisasi instance baru dari kelas `FontNotFoundException` dengan pesan kesalahan yang ditentukan dan referensi ke pengecualian dalam yang menjadi penyebab pengecualian ini. |
+| [FontNotFoundException](fontnotfoundexception/#constructor)(Exception) | Menginisialisasi sebuah instance baru dari kelas `FontNotFoundException` dengan referensi ke pengecualian internal yang menjadi penyebab pengecualian ini. |
+| [FontNotFoundException](fontnotfoundexception/#constructor_1)(string) | Menginisialisasi sebuah instance baru dari kelas `FontNotFoundException`. |
+| [FontNotFoundException](fontnotfoundexception/#constructor_2)(string, Exception) | Menginisialisasi sebuah instance baru dari kelas `FontNotFoundException` dengan pesan kesalahan yang ditentukan dan referensi ke pengecualian internal yang menjadi penyebab pengecualian ini. |
 
 ### Lihat Juga
 
-* kelas [PdfException](../pdfexception/)
+* class [PdfException](../pdfexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Row.MinRowHeight
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Row. Mendapatkan tinggi untuk baris
+title: "Row.MinRowHeight"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Row. Mendapatkan tinggi untuk baris"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf/row/minrowheight/
 ---
-## Properti Row.MinRowHeight
+## Row.MinRowHeight property
 
 Mendapatkan tinggi untuk baris;
 
@@ -16,6 +16,8 @@ public double MinRowHeight { get; set; }
 
 ### Lihat Juga
 
-* kelas [Row](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Row](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

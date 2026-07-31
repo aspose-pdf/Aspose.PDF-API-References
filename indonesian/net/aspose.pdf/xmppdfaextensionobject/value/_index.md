@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionObject.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XmpPdfAExtensionObject. Mengambil atau mengatur nilai
+title: "XmpPdfAExtensionObject.Value"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "XmpPdfAExtensionObject property. Mendapatkan atau mengatur nilai"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/xmppdfaextensionobject/value/
 ---
-## Properti XmpPdfAExtensionObject.Value
+## XmpPdfAExtensionObject.Value property
 
-Mengambil atau mengatur nilai.
+Mendapatkan atau mengatur nilai.
 
 ```csharp
 public string Value { get; set; }
@@ -16,6 +16,8 @@ public string Value { get; set; }
 
 ### Lihat Juga
 
-* kelas [XmpPdfAExtensionObject](../)
+* class [XmpPdfAExtensionObject](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

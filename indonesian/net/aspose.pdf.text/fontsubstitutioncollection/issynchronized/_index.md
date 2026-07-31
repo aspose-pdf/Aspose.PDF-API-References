@@ -1,12 +1,12 @@
 ---
-title: FontSubstitutionCollection.IsSynchronized
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FontSubstitutionCollection. Mendapatkan nilai yang menunjukkan apakah akses ke koleksi disinkronkan aman untuk thread
+title: "FontSubstitutionCollection.IsSynchronized"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FontSubstitutionCollection. Mendapatkan nilai yang menunjukkan apakah akses ke koleksi disinkronkan dan aman terhadap thread"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.text/fontsubstitutioncollection/issynchronized/
 ---
-## Properti FontSubstitutionCollection.IsSynchronized
+## FontSubstitutionCollection.IsSynchronized property
 
 Mendapatkan nilai yang menunjukkan apakah akses ke koleksi disinkronkan (aman untuk thread).
 
@@ -16,6 +16,8 @@ public bool IsSynchronized { get; }
 
 ### Lihat Juga
 
-* kelas [FontSubstitutionCollection](../)
+* class [FontSubstitutionCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

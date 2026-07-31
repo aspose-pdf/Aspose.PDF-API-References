@@ -1,12 +1,12 @@
 ---
-title: PdfDocument.Document
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfDocument. Mendapatkan atau mengatur dokumen PDF
+title: "PdfDocument.Document"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfDocument. Mendapatkan atau mengatur dokumen PDF"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/pdfdocument/document/
 ---
-## Properti PdfDocument.Document
+## PdfDocument.Document property
 
 Mendapatkan atau mengatur dokumen PDF.
 
@@ -16,7 +16,9 @@ public Document Document { get; set; }
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [PdfDocument](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfDocument](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

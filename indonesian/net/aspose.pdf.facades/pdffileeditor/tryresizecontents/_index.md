@@ -1,78 +1,12 @@
 ---
-title: PdfFileEditor.TryResizeContents
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileEditor. Mengubah ukuran konten halaman dokumen
+title: "PdfFileEditor.TryResizeContents"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileEditor. Mengubah ukuran konten halaman dokumen"
 type: docs
 weight: 450
 url: /id/net/aspose.pdf.facades/pdffileeditor/tryresizecontents/
 ---
 ## TryResizeContents(Stream, Stream, int[], ContentsResizeParameters) {#tryresizecontents}
-
-Mengubah ukuran konten halaman dalam dokumen. Jika halaman diperkecil, margin kosong ditambahkan di sekitar halaman. Hasil disimpan ke dalam objek HttpResponse.
-
-```csharp
-public bool TryResizeContents(string source, int[] pages, ContentsResizeParameters parameters, 
-    HttpResponse response)
-```
-
-| Parameter | Tipe | Deskripsi |
-| --- | --- | --- |
-| source | String | Jalur ke file sumber. |
-| pages | Int32[] | Array halaman yang akan diubah ukurannya. |
-| parameters | ContentsResizeParameters | Parameter pengubahan ukuran. |
-| response | HttpResponse | Objek HttpResponse di mana hasil disimpan. |
-
-### Return Value
-
-true jika operasi berhasil; jika tidak, false.
-
-## Remarks
-
-Metode TryResizeContents mirip dengan metode ResizeContents, kecuali metode TryResizeContents tidak melempar pengecualian jika operasi gagal.
-
-### See Also
-
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TryResizeContents(Stream, int[], ContentsResizeParameters, HttpResponse) {#tryresizecontents}
-
-Mengubah ukuran konten halaman dalam dokumen. Jika halaman diperkecil, margin kosong ditambahkan di sekitar halaman. Hasil disimpan ke dalam objek HttpResponse.
-
-```csharp
-public bool TryResizeContents(Stream source, int[] pages, ContentsResizeParameters parameters, 
-    HttpResponse response)
-```
-
-| Parameter | Tipe | Deskripsi |
-| --- | --- | --- |
-| source | Stream | Stream dari file sumber. |
-| pages | Int32[] | Array halaman yang akan diubah ukurannya. |
-| parameters | ContentsResizeParameters | Parameter pengubahan ukuran. |
-| response | HttpResponse | Objek HttpResponse di mana hasil disimpan. |
-
-### Return Value
-
-true jika operasi berhasil; jika tidak, false.
-
-## Remarks
-
-Metode TryResizeContents mirip dengan metode ResizeContents, kecuali metode TryResizeContents tidak melempar pengecualian jika operasi gagal.
-
-### See Also
-
-* class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
-* class [PdfFileEditor](../)
-* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## TryResizeContents(Stream, Stream, int[], ContentsResizeParameters) {#tryresizecontents_1}
 
 Mengubah ukuran konten halaman dokumen.
 
@@ -83,44 +17,44 @@ public bool TryResizeContents(Stream source, Stream destination, int[] pages,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| source | Stream | Stream dengan dokumen sumber. |
+| sumber | Stream | Stream dengan dokumen sumber. |
 | destination | Stream | Stream dengan dokumen tujuan. |
-| pages | Int32[] | Array indeks halaman. |
-| parameters | ContentsResizeParameters | Parameter pengubahan ukuran. |
+| halaman | Int32[] | Array indeks halaman. |
+| parameter | ContentsResizeParameters | Parameter pengubahan ukuran. |
 
-### Return Value
+### Nilai Kembalian
 
 Mengembalikan true jika berhasil.
 
-## Remarks
+## Catatan
 
 Metode TryResizeContents mirip dengan metode ResizeContents, kecuali metode TryResizeContents tidak melempar pengecualian jika operasi gagal.
 
-## Examples
+## Contoh
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //left margin = 10% of page width
+    //margin kiri = 10% dari lebar halaman
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    //lebar konten baru dihitung secara otomatis sebagai lebar - margin kiri - margin kanan (100% - 10% - 10% = 80%)
     null,
-    //right margin is 10% of page 
+    //margin kanan adalah 10% dari halaman
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //top margin = 10% of height
+    //margin atas = 10% dari tinggi
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents height is calculated automatically (similar to width)
+    //tinggi konten baru dihitung secara otomatis (mirip dengan lebar)
     null,
-    //bottom margin is 10%
+    //margin bawah adalah 10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 bool result = fileEditor.TryResizeContents(src, dest, new int[] { 1, 2, 3 }, parameters);
 dest.Close();
 ```
 
-### See Also
+### Lihat Juga
 
 * class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
 * class [PdfFileEditor](../)
@@ -140,37 +74,37 @@ public bool TryResizeContents(Stream source, Stream destination, int[] pages, do
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| source | Stream | Stream yang berisi dokumen sumber. |
-| destination | Stream | Stream di mana dokumen hasil akan disimpan. |
-| pages | Int32[] | Array indeks halaman. Jika null, maka semua halaman dokumen akan diproses. |
-| newWidth | Double | Lebar baru konten halaman dalam satuan ruang default. |
-| newHeight | Double | Tinggi baru konten halaman dalam satuan ruang default. |
+| sumber | Stream | Aliran yang berisi dokumen sumber. |
+| destination | Stream | Stream tempat dokumen hasil akan disimpan. |
+| halaman | Int32[] | Array indeks halaman. Jika null maka semua halaman dokumen akan diproses. |
+| newWidth | Double | Lebar baru dari konten halaman dalam satuan ruang default. |
+| newHeight | Double | Tinggi baru dari konten halaman dalam satuan ruang default. |
 
-### Return Value
+### Nilai Kembalian
 
-true jika operasi berhasil; jika tidak, false.
+true jika operasi selesai dengan sukses; jika tidak, false.
 
-## Remarks
+## Catatan
 
 Metode TryResizeContents mirip dengan metode ResizeContents, kecuali metode TryResizeContents tidak melempar pengecualian jika operasi gagal.
 
-## Examples
+## Contoh
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 Stream src = new Stream("input.pdf", FileMode.Open);
 Stream dest = new Stream("output.pdf", FileMode.Create);
 bool result = fileEditor.TryResizeContents(src, dest, 
-//resize all pages of document
+//ubah ukuran semua halaman dokumen
 null, 
-//new contents width = 200
+//lebar konten baru = 200
 200, 
-//new contents height = 300
+//tinggi konten baru = 300
 300);
-// rest area of page will be empty
+// sisa area halaman akan kosong
 ```
 
-### See Also
+### Lihat Juga
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -180,7 +114,7 @@ null,
 
 ## TryResizeContents(string, string, int[], ContentsResizeParameters) {#tryresizecontents_2}
 
-Mengubah ukuran konten halaman dalam dokumen. Jika halaman diperkecil, margin kosong ditambahkan di sekitar halaman.
+Mengubah ukuran konten halaman dalam dokumen. Jika halaman diperkecil, margin kosong ditambahkan di sekeliling halaman.
 
 ```csharp
 public bool TryResizeContents(string source, string destination, int[] pages, 
@@ -189,43 +123,45 @@ public bool TryResizeContents(string source, string destination, int[] pages,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| source | String | Jalur dokumen sumber. |
+| sumber | String | Jalur dokumen sumber. |
 | destination | String | Jalur dokumen tujuan. |
-| pages | Int32[] | Array indeks halaman (indeks halaman dimulai dari 1). |
-| parameters | ContentsResizeParameters | Parameter pengubahan ukuran halaman. |
+| halaman | Int32[] | Array indeks halaman (indeks halaman dimulai dari 1). |
+| parameter | ContentsResizeParameters | Parameter pengubahan ukuran halaman. |
 
-### Return Value
+### Nilai Kembalian
 
-true jika pengubahan ukuran berhasil.
+true jika perubahan ukuran berhasil.
 
-## Remarks
+## Catatan
 
 Metode TryResizeContents mirip dengan metode ResizeContents, kecuali metode TryResizeContents tidak melempar pengecualian jika operasi gagal.
 
-## Examples
+## Contoh
 
 ```csharp
 PdfFileEditor fileEditor = new PdfFileEditor();
 PdfFileEditor.ContentsResizeParameters parameters = new PdfFileEditor.ContentsResizeParameters(
-    //left margin = 10% of page width
+    //margin kiri = 10% dari lebar halaman
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents width calculated automatically as width - left margin - right margin (100% - 10% - 10% = 80%)
+    //lebar konten baru dihitung secara otomatis sebagai lebar - margin kiri - margin kanan (100% - 10% - 10% = 80%)
     null,
-    //right margin is 10% of page 
+    //margin kanan adalah 10% dari halaman
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //top margin = 10% of height
+    //margin atas = 10% dari tinggi
     PdfFileEditor.ContentsResizeValue.Percents(10),
-    //new contents height is calculated automatically (similar to width)
+    //tinggi konten baru dihitung secara otomatis (mirip dengan lebar)
     null,
-    //bottom margin is 10%
+    //margin bawah adalah 10%
     PdfFileEditor.ContentsResizeValue.Percents(10)
        );
 bool result = fileEditor.TryResizeContents("input.pdf", "output.pdf", new int[] { 1, 2, 3}, parameters);
 ```
 
-### See Also
+### Lihat Juga
 
 * class [ContentsResizeParameters](../../pdffileeditor.contentsresizeparameters/)
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

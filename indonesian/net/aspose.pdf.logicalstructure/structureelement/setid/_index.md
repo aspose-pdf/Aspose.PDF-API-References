@@ -1,12 +1,12 @@
 ---
-title: StructureElement.SetId
-second_title: Aspose.PDF for .NET API Reference
-description: Metode StructureElement. Mengatur ID untuk elemen struktur
+title: "StructureElement.SetId"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "StructureElement method. Menetapkan ID untuk elemen struktur."
 type: docs
 weight: 160
 url: /id/net/aspose.pdf.logicalstructure/structureelement/setid/
 ---
-## Metode StructureElement.SetId
+## StructureElement.SetId method
 
 Mengatur ID untuk elemen struktur.
 
@@ -20,6 +20,8 @@ public void SetId(string id)
 
 ### Lihat Juga
 
-* kelas [StructureElement](../)
+* class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

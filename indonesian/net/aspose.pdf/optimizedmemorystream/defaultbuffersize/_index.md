@@ -1,12 +1,12 @@
 ---
-title: OptimizedMemoryStream.DefaultBufferSize
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang OptimizedMemoryStream. Nilai ukuran buffer default dalam byte
+title: "OptimizedMemoryStream.DefaultBufferSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang OptimizedMemoryStream. Nilai ukuran buffer default dalam byte"
 type: docs
 weight: 180
 url: /id/net/aspose.pdf/optimizedmemorystream/defaultbuffersize/
 ---
-## Bidang UkuranBufferDefault.OptimizedMemoryStream
+## OptimizedMemoryStream.DefaultBufferSize field
 
 Nilai ukuran buffer default dalam byte.
 
@@ -16,6 +16,8 @@ public const int DefaultBufferSize;
 
 ### Lihat Juga
 
-* kelas [OptimizedMemoryStream](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [OptimizedMemoryStream](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

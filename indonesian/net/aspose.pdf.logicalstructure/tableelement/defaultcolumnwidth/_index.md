@@ -1,12 +1,12 @@
 ---
-title: TableElement.DefaultColumnWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TableElement. Mendapatkan atau mengatur lebar kolom default
+title: "TableElement.DefaultColumnWidth"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TableElement. Mendapatkan atau mengatur lebar kolom default"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.logicalstructure/tableelement/defaultcolumnwidth/
 ---
-## Properti TableElement.DefaultColumnWidth
+## TableElement.DefaultColumnWidth property
 
 Mendapatkan atau mengatur lebar kolom default.
 
@@ -16,6 +16,8 @@ public string DefaultColumnWidth { get; set; }
 
 ### Lihat Juga
 
-* kelas [TableElement](../)
+* class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

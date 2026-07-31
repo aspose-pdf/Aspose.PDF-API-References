@@ -1,14 +1,14 @@
 ---
-title: XForm.IT
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XForm. Mendapatkan form IT. Form IT adalah nama yang menggambarkan maksud dari XObject
+title: "XForm.IT"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "XForm property. Mendapatkan form IT. Form IT adalah nama yang menggambarkan maksud dari XObject"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/xform/it/
 ---
-## Properti XForm.IT
+## XForm.IT property
 
-Mendapatkan form IT. Form IT adalah nama yang menggambarkan maksud dari XObject.
+Mendapatkan IT formulir. IT formulir adalah nama yang menggambarkan maksud XObject.
 
 ```csharp
 public string IT { get; }
@@ -16,6 +16,8 @@ public string IT { get; }
 
 ### Lihat Juga
 
-* kelas [XForm](../)
+* class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

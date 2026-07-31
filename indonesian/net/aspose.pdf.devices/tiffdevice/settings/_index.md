@@ -1,14 +1,14 @@
 ---
-title: TiffDevice.Settings
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TiffDevice. Mendapatkan pengaturan untuk memetakan pdf ke dalam gambar tiff
+title: "TiffDevice.Settings"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "properti TiffDevice. Mendapatkan pengaturan untuk memetakan pdf ke dalam gambar tiff"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.devices/tiffdevice/settings/
 ---
-## Properti TiffDevice.Settings
+## TiffDevice.Settings property
 
-Mendapatkan pengaturan untuk memetakan pdf ke dalam gambar tiff.
+Mendapatkan pengaturan untuk memetakan pdf ke gambar tiff.
 
 ```csharp
 public TiffSettings Settings { get; }
@@ -16,7 +16,9 @@ public TiffSettings Settings { get; }
 
 ### Lihat Juga
 
-* kelas [TiffSettings](../../tiffsettings/)
-* kelas [TiffDevice](../)
+* class [TiffSettings](../../tiffsettings/)
+* class [TiffDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

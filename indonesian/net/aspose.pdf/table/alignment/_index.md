@@ -1,12 +1,12 @@
 ---
-title: Table.Alignment
-second_title: Aspose.PDF for .NET API Reference
-description: Properti tabel. Mendapatkan atau mengatur perataan tabel
+title: "Table.Alignment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Table. Mendapatkan atau mengatur perataan tabel"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/table/alignment/
 ---
-## Properti Table.Alignment
+## Table.Alignment property
 
 Mendapatkan atau mengatur perataan tabel.
 
@@ -20,3 +20,5 @@ public HorizontalAlignment Alignment { get; set; }
 * class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

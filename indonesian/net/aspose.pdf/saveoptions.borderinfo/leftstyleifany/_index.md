@@ -1,7 +1,7 @@
 ---
-title: SaveOptions.BorderInfo.LeftStyleIfAny
-second_title: Aspose.PDF for .NET API Reference
-description: Field BorderInfo. Mewakili bagian kiri jika ada dari border
+title: "SaveOptions.BorderInfo.LeftStyleIfAny"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "BorderInfo field. Mewakili bagian kiri, jika ada, dari border"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/saveoptions.borderinfo/leftstyleifany/
@@ -20,3 +20,5 @@ public BorderPartStyle LeftStyleIfAny;
 * class [BorderInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

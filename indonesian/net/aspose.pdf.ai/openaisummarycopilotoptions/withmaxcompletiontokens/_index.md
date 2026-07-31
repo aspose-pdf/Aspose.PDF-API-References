@@ -1,12 +1,12 @@
 ---
-title: OpenAISummaryCopilotOptions.WithMaxCompletionTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAISummaryCopilotOptions. Mengatur token penyelesaian maksimum untuk opsi copilot ringkasan
+title: "OpenAISummaryCopilotOptions.WithMaxCompletionTokens"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAISummaryCopilotOptions. Menetapkan token penyelesaian maksimum untuk opsi copilot ringkasan"
 type: docs
-weight: 90
+weight: 100
 url: /id/net/aspose.pdf.ai/openaisummarycopilotoptions/withmaxcompletiontokens/
 ---
-## Metode OpenAISummaryCopilotOptions.WithMaxCompletionTokens
+## OpenAISummaryCopilotOptions.WithMaxCompletionTokens method
 
 Mengatur token penyelesaian maksimum untuk opsi copilot ringkasan.
 
@@ -16,14 +16,16 @@ public OpenAISummaryCopilotOptions WithMaxCompletionTokens(int? maxCompletionTok
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| maxCompletionTokens | Nullable`1 | Token penyelesaian maksimum yang akan diatur. |
+| maxCompletionTokens | Nullable`1 | Token penyelesaian maksimum yang akan ditetapkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAISummaryCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [OpenAISummaryCopilotOptions](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAISummaryCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

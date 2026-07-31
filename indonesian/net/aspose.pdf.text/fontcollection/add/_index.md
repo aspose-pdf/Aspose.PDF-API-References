@@ -1,14 +1,14 @@
 ---
-title: FontCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FontCollection. Menambahkan font baru ke sumber daya font dan mengembalikan nama sumber daya font yang ditetapkan secara otomatis
+title: "FontCollection.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode FontCollection. Menambahkan font baru ke sumber daya font dan mengembalikan nama sumber daya font yang ditetapkan secara otomatis"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.text/fontcollection/add/
 ---
-## Metode FontCollection.Add
+## FontCollection.Add method
 
-Menambahkan font baru ke sumber daya font dan mengembalikan nama sumber daya font yang ditetapkan secara otomatis.
+Menambahkan font baru ke sumber daya font dan mengembalikan nama yang secara otomatis diberikan untuk sumber daya font.
 
 ```csharp
 public void Add(Font newFont, out string resName)
@@ -21,7 +21,9 @@ public void Add(Font newFont, out string resName)
 
 ### Lihat Juga
 
-* kelas [Font](../../font/)
-* kelas [FontCollection](../)
+* class [Font](../../font/)
+* class [FontCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

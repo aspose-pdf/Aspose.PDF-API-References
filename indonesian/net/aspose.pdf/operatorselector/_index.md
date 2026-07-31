@@ -1,12 +1,12 @@
 ---
-title: Class OperatorSelector
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.OperatorSelector. Kelas ini digunakan untuk memilih operator menggunakan ide template Visitor
+title: "Kelas OperatorSelector"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.OperatorSelector. Kelas ini digunakan untuk memilih operator menggunakan ide template Visitor."
 type: docs
-weight: 7090
+weight: 7230
 url: /id/net/aspose.pdf/operatorselector/
 ---
-## Kelas OperatorSelector
+## OperatorSelector class
 
 Kelas ini digunakan untuk memilih operator menggunakan ide template Visitor.
 
@@ -38,7 +38,7 @@ public sealed class OperatorSelector : IOperatorSelector
 | [Visit](../../aspose.pdf/operatorselector/visit/#visit_4)(BX) | Kunjungi/pilih operator BX. |
 | [Visit](../../aspose.pdf/operatorselector/visit/#visit_5)(Clip) | Kunjungi/pilih operator W. |
 | [Visit](../../aspose.pdf/operatorselector/visit/#visit_6)(ClosePath) | Kunjungi/pilih operator h. |
-| [Visit](../../aspose.pdf/operatorselector/visit/#visit_7)(ClosePathEOFillStroke) | Kunjungi/pilih operator b* . |
+| [Visit](../../aspose.pdf/operatorselector/visit/#visit_7)(ClosePathEOFillStroke) | Kunjungi/pilih operator b*. |
 | [Visit](../../aspose.pdf/operatorselector/visit/#visit_8)(ClosePathFillStroke) | Kunjungi/pilih operator b. |
 | [Visit](../../aspose.pdf/operatorselector/visit/#visit_9)(ClosePathStroke) | Kunjungi/pilih operator s. |
 | [Visit](../../aspose.pdf/operatorselector/visit/#visit_10)(ConcatenateMatrix) | Kunjungi/pilih operator cm. |
@@ -108,6 +108,8 @@ public sealed class OperatorSelector : IOperatorSelector
 
 ### Lihat Juga
 
-* antarmuka [IOperatorSelector](../ioperatorselector/)
+* interface [IOperatorSelector](../ioperatorselector/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfExtractor.HasNextImage
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfExtractor. Memeriksa apakah lebih banyak gambar dapat diakses dalam dokumen PDF. Catatan ExtractImage harus dipanggil sebelum menggunakan metode ini
+title: "PdfExtractor.HasNextImage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfExtractor. Memeriksa apakah ada gambar lain yang dapat diakses dalam dokumen PDF. Catatan: ExtractImage harus dipanggil sebelum menggunakan metode ini"
 type: docs
 weight: 200
 url: /id/net/aspose.pdf.facades/pdfextractor/hasnextimage/
 ---
-## Metode PdfExtractor.HasNextImage
+## PdfExtractor.HasNextImage method
 
 Memeriksa apakah lebih banyak gambar dapat diakses dalam dokumen PDF. Catatan: ExtractImage harus dipanggil sebelum menggunakan metode ini.
 
@@ -14,9 +14,9 @@ Memeriksa apakah lebih banyak gambar dapat diakses dalam dokumen PDF. Catatan: E
 public bool HasNextImage()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Benar jika lebih banyak gambar dapat diakses
+Benar jika ada gambar lain yang dapat diakses
 
 ## Contoh
 
@@ -33,6 +33,8 @@ while (extractor.HasNextImage())
 
 ### Lihat Juga
 
-* kelas [PdfExtractor](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

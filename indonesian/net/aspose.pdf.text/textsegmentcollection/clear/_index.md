@@ -1,14 +1,14 @@
 ---
-title: TextSegmentCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextSegmentCollection. Menghapus semua item dari koleksi
+title: "TextSegmentCollection.Clear"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "TextSegmentCollection metode. Menghapus semua item dari koleksi"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.text/textsegmentcollection/clear/
 ---
-## Metode TextSegmentCollection.Clear
+## TextSegmentCollection.Clear method
 
-Menghapus semua item dari koleksi.
+Mengosongkan semua item dari koleksi.
 
 ```csharp
 public void Clear()
@@ -16,6 +16,8 @@ public void Clear()
 
 ### Lihat Juga
 
-* kelas [TextSegmentCollection](../)
+* class [TextSegmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

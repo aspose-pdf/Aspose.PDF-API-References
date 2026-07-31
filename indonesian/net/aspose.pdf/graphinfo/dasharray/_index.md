@@ -1,14 +1,14 @@
 ---
-title: GraphInfo.DashArray
-second_title: Aspose.PDF for .NET API Reference
-description: Properti GraphInfo. Mengambil atau mengatur array garis putus-putus
+title: "GraphInfo.DashArray"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti GraphInfo. Mendapatkan atau mengatur sebuah dash array."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/graphinfo/dasharray/
 ---
-## Properti GraphInfo.DashArray
+## GraphInfo.DashArray property
 
-Mengambil atau mengatur array garis putus-putus.
+Mendapatkan atau mengatur array dash.
 
 ```csharp
 public int[] DashArray { get; set; }
@@ -16,6 +16,8 @@ public int[] DashArray { get; set; }
 
 ### Lihat Juga
 
-* kelas [GraphInfo](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [GraphInfo](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

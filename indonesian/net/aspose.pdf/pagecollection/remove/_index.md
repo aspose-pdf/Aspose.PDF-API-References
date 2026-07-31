@@ -1,12 +1,12 @@
 ---
-title: PageCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PageCollection. Menghapus item yang ditentukan melempar NotSupportedException
+title: "PageCollection.Remove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "metode PageCollection. Menghapus item yang ditentukan, melempar NotSupportedException"
 type: docs
 weight: 170
 url: /id/net/aspose.pdf/pagecollection/remove/
 ---
-## Metode PageCollection.Remove
+## PageCollection.Remove method
 
 Menghapus item yang ditentukan, melempar NotSupportedException.
 
@@ -16,15 +16,17 @@ public bool Remove(Page item)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| item | Page | Item tersebut. |
+| item | Halaman | Item tersebut. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 NotSupportedException
 
 ### Lihat Juga
 
-* kelas [Page](../../page/)
-* kelas [PageCollection](../)
+* class [Page](../../page/)
+* class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

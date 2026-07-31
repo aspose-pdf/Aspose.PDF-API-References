@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.NonFullScreenPageModeUseThumbs
-second_title: Aspose.PDF for .NET API Reference
-description: Field ViewerPreference. Gambar thumbnail terlihat
+title: "ViewerPreference.NonFullScreenPageModeUseThumbs"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ViewerPreference bidang. Gambar thumbnail terlihat"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeusethumbs/
 ---
-## Field ViewerPreference.NonFullScreenPageModeUseThumbs
+## ViewerPreference.NonFullScreenPageModeUseThumbs field
 
-Gambar thumbnail terlihat
+Gambar miniatur terlihat
 
 ```csharp
 public const int NonFullScreenPageModeUseThumbs;
@@ -19,3 +19,5 @@ public const int NonFullScreenPageModeUseThumbs;
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

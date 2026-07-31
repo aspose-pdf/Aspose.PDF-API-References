@@ -1,14 +1,14 @@
 ---
-title: Element.ActualText
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Elemen. Teks PDF 1.4 yang merupakan pengganti tepat untuk elemen struktur dan anak-anaknya. Teks pengganti ini yang seharusnya diterapkan pada bagian konten sekecil mungkin berguna saat mengekstrak isi dokumen untuk mendukung aksesibilitas bagi pengguna dengan disabilitas atau untuk tujuan lainnya.
+title: "Element.ActualText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Element. Opsional PDF 1.4 Teks yang merupakan pengganti tepat untuk elemen struktur dan anak‑anaknya. Teks pengganti ini yang seharusnya diterapkan pada bagian konten sekecil mungkin berguna saat mengekstrak isi dokumen untuk mendukung aksesibilitas bagi pengguna dengan disabilitas atau untuk tujuan lain."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.structure/element/actualtext/
 ---
-## Properti Element.ActualText
+## Element.ActualText property
 
-(Optional; PDF 1.4) Teks yang merupakan pengganti tepat untuk elemen struktur dan anak-anaknya. Teks pengganti ini (yang seharusnya diterapkan pada bagian konten sekecil mungkin) berguna saat mengekstrak isi dokumen untuk mendukung aksesibilitas bagi pengguna dengan disabilitas atau untuk tujuan lainnya.
+(Opsional; PDF 1.4) Teks yang merupakan pengganti tepat untuk elemen struktur dan anak‑anaknya. Teks pengganti ini (yang seharusnya diterapkan pada bagian konten sekecil mungkin) berguna saat mengekstrak isi dokumen untuk mendukung aksesibilitas bagi pengguna dengan disabilitas atau untuk tujuan lain.
 
 ```csharp
 public virtual string ActualText { get; set; }
@@ -16,6 +16,8 @@ public virtual string ActualText { get; set; }
 
 ### Lihat Juga
 
-* kelas [Element](../)
+* class [Element](../)
 * namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../../)
+
+

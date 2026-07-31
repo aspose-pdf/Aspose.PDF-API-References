@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Sect
-second_title: Aspose.PDF for .NET API Reference
-description: Field StructureTypeStandard. Bagian Wadah untuk mengelompokkan elemen konten yang terkait
+title: "StructureTypeStandard.Sect"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "StructureTypeStandard field. Section Sebuah kontainer untuk mengelompokkan elemen konten terkait"
 type: docs
 weight: 360
 url: /id/net/aspose.pdf.logicalstructure/structuretypestandard/sect/
 ---
-## Field StructureTypeStandard.Sect
+## StructureTypeStandard.Sect field
 
-(Bagian) Wadah untuk mengelompokkan elemen konten yang terkait.
+(Bagian) Sebuah wadah untuk mengelompokkan elemen konten yang terkait.
 
 ```csharp
 public static readonly StructureTypeStandard Sect;
@@ -19,3 +19,5 @@ public static readonly StructureTypeStandard Sect;
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

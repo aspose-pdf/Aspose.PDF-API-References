@@ -1,12 +1,12 @@
 ---
-title: BaseOperatorCollection.ResumeUpdate
-second_title: Aspose.PDF for .NET API Reference
-description: Metode BaseOperatorCollection. Melanjutkan pembaruan dokumen. Memperbarui aliran konten jika ada perubahan yang tertunda
+title: "BaseOperatorCollection.ResumeUpdate"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode BaseOperatorCollection. Melanjutkan pembaruan dokumen. Memperbarui aliran konten jika ada perubahan yang tertunda"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf/baseoperatorcollection/resumeupdate/
 ---
-## Metode BaseOperatorCollection.ResumeUpdate
+## BaseOperatorCollection.ResumeUpdate method
 
 Melanjutkan pembaruan dokumen. Memperbarui aliran konten jika ada perubahan yang tertunda.
 
@@ -16,6 +16,8 @@ public abstract void ResumeUpdate()
 
 ### Lihat Juga
 
-* kelas [BaseOperatorCollection](../)
+* class [BaseOperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

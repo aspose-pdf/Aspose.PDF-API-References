@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.HasOpenPassword
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFileInfo. Mengembalikan true jika kata sandi diperlukan untuk membuka dokumen pdf yang dilindungi kata sandi
+title: "PdfFileInfo.HasOpenPassword"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfFileInfo property. Mengembalikan true jika diperlukan kata sandi untuk membuka dokumen PDF yang dilindungi kata sandi"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.facades/pdffileinfo/hasopenpassword/
 ---
-## Properti PdfFileInfo.HasOpenPassword
+## PdfFileInfo.HasOpenPassword property
 
-Mengembalikan true jika kata sandi diperlukan untuk membuka dokumen pdf yang dilindungi kata sandi.
+Mengembalikan true jika password diperlukan untuk membuka dokumen PDF yang dilindungi password.
 
 ```csharp
 public bool HasOpenPassword { get; }
@@ -16,6 +16,8 @@ public bool HasOpenPassword { get; }
 
 ### Lihat Juga
 
-* kelas [PdfFileInfo](../)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

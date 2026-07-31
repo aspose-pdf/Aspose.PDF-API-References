@@ -1,12 +1,12 @@
 ---
-title: NamedDestinationCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metode NamedDestinationCollection. Hapus tujuan bernama
+title: "NamedDestinationCollection.Remove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode NamedDestinationCollection. Hapus tujuan bernama"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/nameddestinationcollection/remove/
 ---
-## Metode NamedDestinationCollection.Remove
+## NamedDestinationCollection.Remove method
 
 Hapus tujuan bernama.
 
@@ -16,10 +16,12 @@ public void Remove(string name)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| name | String | Nama tujuan yang akan dihapus. |
+| nama | String | Nama tujuan yang akan dihapus. |
 
 ### Lihat Juga
 
-* kelas [NamedDestinationCollection](../)
+* class [NamedDestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

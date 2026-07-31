@@ -1,25 +1,27 @@
 ---
-title: Color.Gainsboro
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FFDCDCDC
+title: "Color.Gainsboro"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB c FFDCDCDC"
 type: docs
 weight: 480
 url: /id/net/aspose.pdf/color/gainsboro/
 ---
-## Properti Color.Gainsboro
+## Color.Gainsboro property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFDCDCDC.
+Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB \c \#FFDCDCDC.
 
 ```csharp
 public static Color Gainsboro { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah yang mewakili warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

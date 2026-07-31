@@ -1,12 +1,12 @@
 ---
-title: ILSTextElement.StructureTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ILSTextElement. Mendapatkan objek StructureTextState untuk elemen saat ini
+title: "ILSTextElement.StructureTextState"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ILSTextElement. Mendapatkan objek StructureTextState untuk elemen saat ini"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.logicalstructure/ilstextelement/structuretextstate/
 ---
-## Properti ILSTextElement.StructureTextState
+## ILSTextElement.StructureTextState property
 
 Mendapatkan objek StructureTextState untuk elemen saat ini.
 
@@ -14,13 +14,15 @@ Mendapatkan objek StructureTextState untuk elemen saat ini.
 public StructureTextState StructureTextState { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Objek StructureTextState untuk elemen saat ini.
 
 ### Lihat Juga
 
-* kelas [StructureTextState](../../structuretextstate/)
-* kelas [ILSTextElement](../)
+* class [StructureTextState](../../structuretextstate/)
+* class [ILSTextElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

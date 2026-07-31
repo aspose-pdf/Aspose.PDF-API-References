@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.VectorStoreExpireDays
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OpenAIChatCopilotOptions. Mengambil atau mengatur jumlah hari sebelum penyimpanan vektor kedaluwarsa
+title: "OpenAIChatCopilotOptions.VectorStoreExpireDays"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OpenAIChatCopilotOptions. Mendapatkan atau mengatur jumlah hari sebelum penyimpanan vektor kedaluwarsa"
 type: docs
-weight: 60
+weight: 70
 url: /id/net/aspose.pdf.ai/openaichatcopilotoptions/vectorstoreexpiredays/
 ---
-## Properti OpenAIChatCopilotOptions.VectorStoreExpireDays
+## OpenAIChatCopilotOptions.VectorStoreExpireDays property
 
-Mengambil atau mengatur jumlah hari sebelum penyimpanan vektor kedaluwarsa.
+Mendapatkan atau mengatur jumlah hari sebelum penyimpanan vektor kedaluwarsa.
 
 ```csharp
 public int VectorStoreExpireDays { get; set; }
@@ -16,6 +16,8 @@ public int VectorStoreExpireDays { get; set; }
 
 ### Lihat Juga
 
-* kelas [OpenAIChatCopilotOptions](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIChatCopilotOptions](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

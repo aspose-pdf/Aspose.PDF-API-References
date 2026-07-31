@@ -1,12 +1,12 @@
 ---
-title: CollectionSchema.AllNames
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CollectionSchema. Mendapatkan semua nama bidang skema
+title: "CollectionSchema.AllNames"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CollectionSchema. Mendapatkan semua nama bidang skema"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/collectionschema/allnames/
 ---
-## Properti CollectionSchema.AllNames
+## CollectionSchema.AllNames property
 
 Mendapatkan semua nama bidang skema.
 
@@ -16,6 +16,8 @@ public ICollection<string> AllNames { get; }
 
 ### Lihat Juga
 
-* kelas [CollectionSchema](../)
+* class [CollectionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

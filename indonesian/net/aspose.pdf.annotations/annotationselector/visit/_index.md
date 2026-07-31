@@ -1,7 +1,7 @@
 ---
-title: AnnotationSelector.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: Metode AnnotationSelector. Pilih anotasi tautan jika AnnotationSelector diinisialisasi dengan objek LinkAnnotation
+title: "AnnotationSelector.Visit"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AnnotationSelector metode. Memilih link Annotation jika AnnotationSelector diinisialisasi dengan objek LinkAnnotation"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/annotationselector/visit/
@@ -20,8 +20,8 @@ public void Visit(LinkAnnotation link)
 
 ### Lihat Juga
 
-* kelas [LinkAnnotation](../../linkannotation/)
-* kelas [AnnotationSelector](../)
+* class [LinkAnnotation](../../linkannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -41,8 +41,8 @@ public void Visit(FileAttachmentAnnotation attachment)
 
 ### Lihat Juga
 
-* kelas [FileAttachmentAnnotation](../../fileattachmentannotation/)
-* kelas [AnnotationSelector](../)
+* class [FileAttachmentAnnotation](../../fileattachmentannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -58,12 +58,12 @@ public void Visit(TextAnnotation text)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| text | TextAnnotation | Objek TextAnnotation untuk dipilih. |
+| teks | TextAnnotation | Objek TextAnnotation untuk dipilih. |
 
 ### Lihat Juga
 
-* kelas [TextAnnotation](../../textannotation/)
-* kelas [AnnotationSelector](../)
+* class [TextAnnotation](../../textannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -71,7 +71,7 @@ public void Visit(TextAnnotation text)
 
 ## Visit(RedactionAnnotation) {#visit_16}
 
-Pilih anotasi redaksi jika AnnotationSelector diinisialisasi dengan objek RedactAnnotation.
+Pilih anotasi redact jika AnnotationSelector diinisialisasi dengan objek RedactAnnotation.
 
 ```csharp
 public void Visit(RedactionAnnotation redact)
@@ -79,12 +79,12 @@ public void Visit(RedactionAnnotation redact)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| redact | RedactionAnnotation | Objek RedactAnnotation untuk dipilih. |
+| menyensor | RedactionAnnotation | RedactAnnotation objek untuk dipilih. |
 
 ### Lihat Juga
 
-* kelas [RedactionAnnotation](../../redactionannotation/)
-* kelas [AnnotationSelector](../)
+* class [RedactionAnnotation](../../redactionannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -100,12 +100,12 @@ public void Visit(FreeTextAnnotation freetext)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| freetext | FreeTextAnnotation | Objek FreeTextAnnotation untuk dipilih. |
+| freetext | FreeTextAnnotation | FreeTextAnnotation objek untuk dipilih. |
 
 ### Lihat Juga
 
-* kelas [FreeTextAnnotation](../../freetextannotation/)
-* kelas [AnnotationSelector](../)
+* class [FreeTextAnnotation](../../freetextannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -121,12 +121,12 @@ public void Visit(HighlightAnnotation highlight)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| highlight | HighlightAnnotation | Objek HighlightAnnotation untuk dipilih. |
+| highlight | HighlightAnnotation | HighlightAnnotation objek untuk dipilih. |
 
 ### Lihat Juga
 
-* kelas [HighlightAnnotation](../../highlightannotation/)
-* kelas [AnnotationSelector](../)
+* class [HighlightAnnotation](../../highlightannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -142,12 +142,12 @@ public void Visit(UnderlineAnnotation underline)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| underline | UnderlineAnnotation | Objek UnderlineAnnotation untuk dipilih. |
+| underline | UnderlineAnnotation | UnderlineAnnotation objek untuk dipilih. |
 
 ### Lihat Juga
 
-* kelas [UnderlineAnnotation](../../underlineannotation/)
-* kelas [AnnotationSelector](../)
+* class [UnderlineAnnotation](../../underlineannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -163,12 +163,12 @@ public void Visit(StrikeOutAnnotation strikeOut)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| strikeOut | StrikeOutAnnotation | Objek StrikeOutAnnotation untuk dipilih. |
+| strikeOut | StrikeOutAnnotation | StrikeOutAnnotation objek untuk dipilih. |
 
 ### Lihat Juga
 
-* kelas [StrikeOutAnnotation](../../strikeoutannotation/)
-* kelas [AnnotationSelector](../)
+* class [StrikeOutAnnotation](../../strikeoutannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -184,12 +184,12 @@ public void Visit(SquigglyAnnotation squiggly)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| squiggly | SquigglyAnnotation | Objek SquigglyAnnotation untuk dipilih. |
+| bergelombang | SquigglyAnnotation | SquigglyAnnotation objek untuk dipilih. |
 
 ### Lihat Juga
 
-* kelas [SquigglyAnnotation](../../squigglyannotation/)
-* kelas [AnnotationSelector](../)
+* class [SquigglyAnnotation](../../squigglyannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -205,12 +205,12 @@ public void Visit(PopupAnnotation popup)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| popup | PopupAnnotation | Objek PopupAnnotation untuk dipilih. |
+| pop-up | PopupAnnotation | PopupAnnotation objek untuk dipilih. |
 
 ### Lihat Juga
 
-* kelas [PopupAnnotation](../../popupannotation/)
-* kelas [AnnotationSelector](../)
+* class [PopupAnnotation](../../popupannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -226,12 +226,12 @@ public void Visit(LineAnnotation line)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| line | LineAnnotation | Objek LineAnnotation untuk dipilih. |
+| baris | LineAnnotation | LineAnnotation objek untuk dipilih. |
 
 ### Lihat Juga
 
-* kelas [LineAnnotation](../../lineannotation/)
-* kelas [AnnotationSelector](../)
+* class [LineAnnotation](../../lineannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -247,12 +247,12 @@ public void Visit(CircleAnnotation circle)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| circle | CircleAnnotation | Objek CircleAnnotation untuk dipilih. |
+| lingkaran | CircleAnnotation | CircleAnnotation objek untuk dipilih. |
 
 ### Lihat Juga
 
-* kelas [CircleAnnotation](../../circleannotation/)
-* kelas [AnnotationSelector](../)
+* class [CircleAnnotation](../../circleannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -268,12 +268,12 @@ public void Visit(SquareAnnotation square)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| square | SquareAnnotation | Objek SquareAnnotation untuk dipilih. |
+| persegi | SquareAnnotation | SquareAnnotation objek untuk dipilih. |
 
 ### Lihat Juga
 
-* kelas [SquareAnnotation](../../squareannotation/)
-* kelas [AnnotationSelector](../)
+* class [SquareAnnotation](../../squareannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -289,12 +289,12 @@ public void Visit(InkAnnotation ink)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| ink | InkAnnotation | Objek InkAnnotation untuk dipilih. |
+| tinta | InkAnnotation | InkAnnotation objek untuk dipilih. |
 
 ### Lihat Juga
 
-* kelas [InkAnnotation](../../inkannotation/)
-* kelas [AnnotationSelector](../)
+* class [InkAnnotation](../../inkannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -302,7 +302,7 @@ public void Visit(InkAnnotation ink)
 
 ## Visit(PolylineAnnotation) {#visit_14}
 
-Pilih anotasi poligon jika AnnotationSelector diinisialisasi dengan objek PolylineAnnotation.
+Pilih anotasi polyline jika AnnotationSelector diinisialisasi dengan objek PolylineAnnotation.
 
 ```csharp
 public void Visit(PolylineAnnotation polyline)
@@ -310,12 +310,12 @@ public void Visit(PolylineAnnotation polyline)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| polyline | PolylineAnnotation | Objek PolylineAnnotation untuk dipilih. |
+| garis polilin | PolylineAnnotation | PolylineAnnotation objek untuk dipilih. |
 
 ### Lihat Juga
 
-* kelas [PolylineAnnotation](../../polylineannotation/)
-* kelas [AnnotationSelector](../)
+* class [PolylineAnnotation](../../polylineannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -331,12 +331,12 @@ public void Visit(PolygonAnnotation polygon)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| polygon | PolygonAnnotation | Objek PolygonAnnotation untuk dipilih. |
+| poligon | PolygonAnnotation | PolygonAnnotation objek untuk dipilih. |
 
 ### Lihat Juga
 
-* kelas [PolygonAnnotation](../../polygonannotation/)
-* kelas [AnnotationSelector](../)
+* class [PolygonAnnotation](../../polygonannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -352,12 +352,12 @@ public void Visit(CaretAnnotation caret)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| caret | CaretAnnotation | Objek CaretAnnotation untuk dipilih. |
+| tanda sisipan | CaretAnnotation | CaretAnnotation objek untuk dipilih. |
 
 ### Lihat Juga
 
-* kelas [CaretAnnotation](../../caretannotation/)
-* kelas [AnnotationSelector](../)
+* class [CaretAnnotation](../../caretannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -365,7 +365,7 @@ public void Visit(CaretAnnotation caret)
 
 ## Visit(StampAnnotation) {#visit_22}
 
-Pilih anotasi cap jika AnnotationSelector diinisialisasi dengan objek StampAnnotation.
+Pilih anotasi stempel jika AnnotationSelector diinisialisasi dengan objek StampAnnotation.
 
 ```csharp
 public void Visit(StampAnnotation stamp)
@@ -373,12 +373,12 @@ public void Visit(StampAnnotation stamp)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| stamp | StampAnnotation | Objek StampAnnotation untuk dipilih. |
+| stempel | StampAnnotation | StampAnnotation objek untuk dipilih. |
 
 ### Lihat Juga
 
-* kelas [StampAnnotation](../../stampannotation/)
-* kelas [AnnotationSelector](../)
+* class [StampAnnotation](../../stampannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -394,12 +394,12 @@ public void Visit(WidgetAnnotation widget)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| widget | WidgetAnnotation | Objek WidgetAnnotation untuk dipilih. |
+| widget | WidgetAnnotation | WidgetAnnotation objek untuk dipilih. |
 
 ### Lihat Juga
 
-* kelas [WidgetAnnotation](../../widgetannotation/)
-* kelas [AnnotationSelector](../)
+* class [WidgetAnnotation](../../widgetannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -415,12 +415,12 @@ public void Visit(WatermarkAnnotation watermark)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| watermark | WatermarkAnnotation | WatermarkAnnotation untuk dipilih. |
+| tanda air | WatermarkAnnotation | WatermarkAnnotation untuk dipilih. |
 
 ### Lihat Juga
 
-* kelas [WatermarkAnnotation](../../watermarkannotation/)
-* kelas [AnnotationSelector](../)
+* class [WatermarkAnnotation](../../watermarkannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -436,12 +436,12 @@ public void Visit(MovieAnnotation movie)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| movie | MovieAnnotation | Objek MovieAnnotation untuk dipilih. |
+| film | MovieAnnotation | MovieAnnotation objek untuk dipilih. |
 
 ### Lihat Juga
 
-* kelas [MovieAnnotation](../../movieannotation/)
-* kelas [AnnotationSelector](../)
+* class [MovieAnnotation](../../movieannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -457,12 +457,12 @@ public void Visit(RichMediaAnnotation richMedia)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| richMedia | RichMediaAnnotation | Anotasi RichMedia. |
+| media kaya | RichMediaAnnotation | RichMedia anotasi. |
 
 ### Lihat Juga
 
-* kelas [RichMediaAnnotation](../../richmediaannotation/)
-* kelas [AnnotationSelector](../)
+* class [RichMediaAnnotation](../../richmediaannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -478,12 +478,12 @@ public void Visit(ScreenAnnotation screen)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| screen | ScreenAnnotation | Objek ScreenAnnotation untuk dipilih. |
+| layar | ScreenAnnotation | Objek ScreenAnnotation untuk dipilih. |
 
 ### Lihat Juga
 
-* kelas [ScreenAnnotation](../../screenannotation/)
-* kelas [AnnotationSelector](../)
+* class [ScreenAnnotation](../../screenannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -503,8 +503,8 @@ public void Visit(PDF3DAnnotation pdf3D)
 
 ### Lihat Juga
 
-* kelas [PDF3DAnnotation](../../pdf3dannotation/)
-* kelas [AnnotationSelector](../)
+* class [PDF3DAnnotation](../../pdf3dannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -524,8 +524,8 @@ public void Visit(ColorBarAnnotation colorBar)
 
 ### Lihat Juga
 
-* kelas [ColorBarAnnotation](../../colorbarannotation/)
-* kelas [AnnotationSelector](../)
+* class [ColorBarAnnotation](../../colorbarannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -533,7 +533,7 @@ public void Visit(ColorBarAnnotation colorBar)
 
 ## Visit(TrimMarkAnnotation) {#visit_25}
 
-Memilih *trimMark* jika [`AnnotationSelector`](../) diinisialisasi dengan objek [`TrimMarkAnnotation`](../../trimmarkannotation/) .
+Memilih *trimMark* jika [`AnnotationSelector`](../) diinisialisasi dengan objek [`TrimMarkAnnotation`](../../trimmarkannotation/).
 
 ```csharp
 public void Visit(TrimMarkAnnotation trimMark)
@@ -541,12 +541,12 @@ public void Visit(TrimMarkAnnotation trimMark)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| trimMark | TrimMarkAnnotation | Objek [`TrimMarkAnnotation`](../../trimmarkannotation/) untuk pemilihan. |
+| trimMark | TrimMarkAnnotation | Objek [`TrimMarkAnnotation`](../../trimmarkannotation/) untuk dipilih. |
 
 ### Lihat Juga
 
-* kelas [TrimMarkAnnotation](../../trimmarkannotation/)
-* kelas [AnnotationSelector](../)
+* class [TrimMarkAnnotation](../../trimmarkannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -554,7 +554,7 @@ public void Visit(TrimMarkAnnotation trimMark)
 
 ## Visit(BleedMarkAnnotation) {#visit}
 
-Memilih *bleedMark* jika [`AnnotationSelector`](../) diinisialisasi dengan objek [`BleedMarkAnnotation`](../../bleedmarkannotation/) .
+Memilih *bleedMark* jika [`AnnotationSelector`](../) diinisialisasi dengan objek [`BleedMarkAnnotation`](../../bleedmarkannotation/).
 
 ```csharp
 public void Visit(BleedMarkAnnotation bleedMark)
@@ -562,12 +562,12 @@ public void Visit(BleedMarkAnnotation bleedMark)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| bleedMark | BleedMarkAnnotation | Objek [`BleedMarkAnnotation`](../../bleedmarkannotation/) untuk pemilihan. |
+| bleedMark | BleedMarkAnnotation | Objek [`BleedMarkAnnotation`](../../bleedmarkannotation/) untuk dipilih. |
 
 ### Lihat Juga
 
-* kelas [BleedMarkAnnotation](../../bleedmarkannotation/)
-* kelas [AnnotationSelector](../)
+* class [BleedMarkAnnotation](../../bleedmarkannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -575,7 +575,7 @@ public void Visit(BleedMarkAnnotation bleedMark)
 
 ## Visit(RegistrationMarkAnnotation) {#visit_17}
 
-Memilih *registrationMark* jika [`AnnotationSelector`](../) diinisialisasi dengan objek [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) .
+Memilih *registrationMark* jika [`AnnotationSelector`](../) diinisialisasi dengan objek [`RegistrationMarkAnnotation`](../../registrationmarkannotation/).
 
 ```csharp
 public void Visit(RegistrationMarkAnnotation registrationMark)
@@ -583,12 +583,12 @@ public void Visit(RegistrationMarkAnnotation registrationMark)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| registrationMark | RegistrationMarkAnnotation | Objek [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) untuk pemilihan. |
+| registrationMark | RegistrationMarkAnnotation | Objek [`RegistrationMarkAnnotation`](../../registrationmarkannotation/) untuk dipilih. |
 
 ### Lihat Juga
 
-* kelas [RegistrationMarkAnnotation](../../registrationmarkannotation/)
-* kelas [AnnotationSelector](../)
+* class [RegistrationMarkAnnotation](../../registrationmarkannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -596,7 +596,7 @@ public void Visit(RegistrationMarkAnnotation registrationMark)
 
 ## Visit(PageInformationAnnotation) {#visit_11}
 
-Memilih *pageInformation* jika [`AnnotationSelector`](../) diinisialisasi dengan objek [`PageInformationAnnotation`](../../pageinformationannotation/) .
+Memilih *pageInformation* jika [`AnnotationSelector`](../) diinisialisasi dengan objek [`PageInformationAnnotation`](../../pageinformationannotation/).
 
 ```csharp
 public void Visit(PageInformationAnnotation pageInformation)
@@ -604,13 +604,13 @@ public void Visit(PageInformationAnnotation pageInformation)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pageInformation | PageInformationAnnotation | Objek [`PageInformationAnnotation`](../../pageinformationannotation/) untuk pemilihan. |
+| pageInformation | PageInformationAnnotation | Objek [`PageInformationAnnotation`](../../pageinformationannotation/) untuk dipilih. |
 
 ### Lihat Juga
 
-* kelas [PageInformationAnnotation](../../pageinformationannotation/)
-* kelas [AnnotationSelector](../)
+* class [PageInformationAnnotation](../../pageinformationannotation/)
+* class [AnnotationSelector](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
----
+

@@ -1,12 +1,12 @@
 ---
-title: DocumentFactory.DocumentFactory
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor DocumentFactory. Konstruktor default
+title: "DocumentFactory.DocumentFactory"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "DocumentFactory konstruktor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/documentfactory/documentfactory/
 ---
-## Konstruktor DocumentFactory
+## DocumentFactory constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public DocumentFactory()
 
 ### Lihat Juga
 
-* kelas [DocumentFactory](../)
+* class [DocumentFactory](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

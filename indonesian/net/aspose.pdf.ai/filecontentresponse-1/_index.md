@@ -1,12 +1,12 @@
 ---
-title: Class FileContentResponseT
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.FileContentResponse1T class.
+title: "Kelas FileContentResponseT"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.FileContentResponse1T."
 type: docs
-weight: 370
+weight: 390
 url: /id/net/aspose.pdf.ai/filecontentresponse-1/
 ---
-## Kelas FileContentResponse&lt;T&gt;
+## FileContentResponse&lt;T&gt; class
 
 ```csharp
 public class FileContentResponse<T> : BaseResponse
@@ -33,6 +33,8 @@ public class FileContentResponse<T> : BaseResponse
 
 ### Lihat Juga
 
-* kelas [BaseResponse](../baseresponse/)
+* class [BaseResponse](../baseresponse/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.CoordinateType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfViewer. Mendapatkan atau mengatur tipe koordinat halaman Media/Crop boxes. Nilai CropBox digunakan secara default
+title: "PdfViewer.CoordinateType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfViewer properti. Mendapatkan atau mengatur tipe koordinat halaman Media/Crop boxes. Nilai CropBox digunakan secara default"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.facades/pdfviewer/coordinatetype/
 ---
-## Properti PdfViewer.CoordinateType
+## PdfViewer.CoordinateType property
 
 Mendapatkan atau mengatur tipe koordinat halaman (Media/Crop boxes). Nilai CropBox digunakan secara default.
 
@@ -20,3 +20,5 @@ public PageCoordinateType CoordinateType { get; set; }
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

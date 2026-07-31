@@ -1,7 +1,7 @@
 ---
-title: Cells.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Cells. Tambahkan sel ke koleksi
+title: "Cells.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Cells. Menambahkan sel ke dalam koleksi"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/cells/add/
@@ -14,11 +14,11 @@ Tambahkan sel ke koleksi.
 public Cell Add()
 ```
 
-### Return Value
+### Nilai Kembalian
 
 Sel baru
 
-### See Also
+### Lihat Juga
 
 * class [Cell](../../cell/)
 * class [Cells](../)
@@ -35,16 +35,16 @@ Tambahkan sel ke koleksi.
 public Cell Add(string text, TextState ts)
 ```
 
-| Parameter | Type | Description |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| text | String | Teks untuk sel. |
-| ts | TextState | Status teks. |
+| teks | String | Teks untuk sel. |
+| ts | TextState | Keadaan teks. |
 
-### Return Value
+### Nilai Kembalian
 
 Sel baru
 
-### See Also
+### Lihat Juga
 
 * class [Cell](../../cell/)
 * class [TextState](../../../aspose.pdf.text/textstate/)
@@ -62,15 +62,15 @@ Tambahkan sel ke koleksi.
 public Cell Add(string text)
 ```
 
-| Parameter | Type | Description |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| text | String | Teks untuk sel. |
+| teks | String | Teks untuk sel. |
 
-### Return Value
+### Nilai Kembalian
 
 Sel baru
 
-### See Also
+### Lihat Juga
 
 * class [Cell](../../cell/)
 * class [Cells](../)
@@ -87,13 +87,15 @@ Tambahkan sel ke koleksi.
 public void Add(Cell cell)
 ```
 
-| Parameter | Type | Description |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| cell | Cell | Sel ke koleksi. |
+| sel | Sel | Sel ke koleksi. |
 
-### See Also
+### Lihat Juga
 
 * class [Cell](../../cell/)
 * class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

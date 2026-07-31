@@ -1,12 +1,12 @@
 ---
-title: SetCharWidthBoundingBox.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode SetCharWidthBoundingBox. Mengembalikan representasi teks dari operator
+title: "SetCharWidthBoundingBox.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode SetCharWidthBoundingBox. Mengembalikan representasi teks dari operator"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.operators/setcharwidthboundingbox/tostring/
 ---
-## Metode SetCharWidthBoundingBox.ToString
+## SetCharWidthBoundingBox.ToString method
 
 Mengembalikan representasi teks dari operator.
 
@@ -14,12 +14,14 @@ Mengembalikan representasi teks dari operator.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Representasi teks dari representasi
 
 ### Lihat Juga
 
-* kelas [SetCharWidthBoundingBox](../)
+* class [SetCharWidthBoundingBox](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

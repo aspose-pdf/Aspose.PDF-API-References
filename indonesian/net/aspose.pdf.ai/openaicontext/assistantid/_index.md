@@ -1,14 +1,14 @@
 ---
-title: OpenAIContext.AssistantId
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OpenAIContext. Mengambil atau mengatur ID Asisten
+title: "OpenAIContext.AssistantId"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OpenAIContext properti. Mendapatkan atau mengatur Assistant ID"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/openaicontext/assistantid/
 ---
-## Properti OpenAIContext.AssistantId
+## OpenAIContext.AssistantId property
 
-Mengambil atau mengatur ID Asisten.
+Mendapatkan atau mengatur ID Asisten.
 
 ```csharp
 public string AssistantId { get; set; }
@@ -16,6 +16,8 @@ public string AssistantId { get; set; }
 
 ### Lihat Juga
 
-* kelas [OpenAIContext](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIContext](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

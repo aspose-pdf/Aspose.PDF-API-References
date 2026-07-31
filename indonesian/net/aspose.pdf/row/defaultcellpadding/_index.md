@@ -1,12 +1,12 @@
 ---
-title: Row.DefaultCellPadding
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Row. Mendapatkan atau mengatur margin default untuk sel baris
+title: "Row.DefaultCellPadding"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Row. Mendapatkan atau mengatur margin default untuk sel baris."
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/row/defaultcellpadding/
 ---
-## Properti Row.DefaultCellPadding
+## Row.DefaultCellPadding property
 
 Mendapatkan atau mengatur margin default untuk sel baris
 
@@ -16,7 +16,9 @@ public MarginInfo DefaultCellPadding { get; set; }
 
 ### Lihat Juga
 
-* kelas [MarginInfo](../../margininfo/)
-* kelas [Row](../)
+* class [MarginInfo](../../margininfo/)
+* class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

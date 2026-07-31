@@ -1,12 +1,12 @@
 ---
-title: Class XlsConverter
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.XlsConverter. Mewakili plugin XlsConverter
+title: "Kelas XlsConverter"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.XlsConverter. Mewakili plugin XlsConverter"
 type: docs
-weight: 9450
+weight: 9600
 url: /id/net/aspose.pdf.plugins/xlsconverter/
 ---
-## Kelas XlsConverter
+## XlsConverter class
 
 Mewakili plugin `XlsConverter`.
 
@@ -24,7 +24,7 @@ public sealed class XlsConverter : IDisposable, IPlugin
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Dispose](../../aspose.pdf.plugins/xlsconverter/dispose/)() | Implementasi dari IDisposable. |
+| [Dispose](../../aspose.pdf.plugins/xlsconverter/dispose/)() | Implementasi IDisposable. |
 | [Process](../../aspose.pdf.plugins/xlsconverter/process/)(IPluginOptions) | Memulai pemrosesan PdfToExcel dengan parameter yang ditentukan. |
 
 ## Contoh
@@ -32,19 +32,21 @@ public sealed class XlsConverter : IDisposable, IPlugin
 Contoh ini menunjukkan cara mengonversi PDF ke dokumen XLSX.
 
 ```csharp
-// create XlsConverter converter
+// buat konverter XlsConverter
 var converter = new XlsConverter();
-// create PdfToXLSOptions 
+// buat PdfToXLSOptions
 var opt = new PdfToXLSOptions();
-// add input file path
+// tambahkan jalur file input
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// atur jalur file output
 opt.AddOutput(new FileDataSource(outputPath));
 converter.Process(opt);
 ```
 
 ### Lihat Juga
 
-* antarmuka [IPlugin](../iplugin/)
-* ruang nama [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

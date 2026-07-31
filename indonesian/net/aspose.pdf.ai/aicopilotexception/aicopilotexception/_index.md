@@ -1,14 +1,14 @@
 ---
-title: AICopilotException.AICopilotException
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor AICopilotException. Menginisialisasi instance baru dari kelas AICopilotException dengan pesan kesalahan yang ditentukan
+title: "AICopilotException.AICopilotException"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "konstruktor AICopilotException. Menginisialisasi sebuah instansi baru dari kelas AICopilotException dengan pesan kesalahan yang ditentukan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/aicopilotexception/aicopilotexception/
 ---
 ## AICopilotException(string) {#constructor}
 
-Menginisialisasi instance baru dari kelas [`AICopilotException`](../) dengan pesan kesalahan yang ditentukan.
+Menginisialisasi sebuah instansi baru dari kelas [`AICopilotException`](../) dengan pesan kesalahan yang ditentukan.
 
 ```csharp
 public AICopilotException(string message)
@@ -16,11 +16,11 @@ public AICopilotException(string message)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| message | String | Pesan kesalahan yang menjelaskan pengecualian. |
+| message | String | Pesan error yang menjelaskan pengecualian. |
 
 ### Lihat Juga
 
-* kelas [AICopilotException](../)
+* class [AICopilotException](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ public AICopilotException(string message)
 
 ## AICopilotException(string, Exception) {#constructor_1}
 
-Menginisialisasi instance baru dari kelas [`AICopilotException`](../) dengan pesan kesalahan yang ditentukan dan referensi ke pengecualian dalam yang menjadi penyebab pengecualian ini.
+Menginisialisasi sebuah instansi baru dari kelas [`AICopilotException`](../) dengan pesan kesalahan yang ditentukan dan referensi ke pengecualian internal yang menjadi penyebab pengecualian ini.
 
 ```csharp
 public AICopilotException(string message, Exception innerException)
@@ -36,11 +36,13 @@ public AICopilotException(string message, Exception innerException)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| message | String | Pesan kesalahan yang menjelaskan pengecualian. |
+| message | String | Pesan error yang menjelaskan pengecualian. |
 | innerException | Exception | Pengecualian yang menjadi penyebab pengecualian saat ini. |
 
 ### Lihat Juga
 
-* kelas [AICopilotException](../)
+* class [AICopilotException](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

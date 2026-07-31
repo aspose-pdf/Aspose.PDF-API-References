@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.LocationLabel
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SignatureCustomAppearance. Mendapatkan/mengatur label lokasi. Nilai default Lokasi
+title: "SignatureCustomAppearance.LocationLabel"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SignatureCustomAppearance. Mendapatkan/mengatur label lokasi. Nilai default Location"
 type: docs
-weight: 130
+weight: 140
 url: /id/net/aspose.pdf.forms/signaturecustomappearance/locationlabel/
 ---
-## Properti SignatureCustomAppearance.LocationLabel
+## SignatureCustomAppearance.LocationLabel property
 
-Mendapatkan/mengatur label lokasi. Nilai default: "Lokasi".
+Mendapatkan/mengatur label lokasi. Nilai default: "Location".
 
 ```csharp
 public string LocationLabel { get; set; }
@@ -16,6 +16,8 @@ public string LocationLabel { get; set; }
 
 ### Lihat Juga
 
-* kelas [SignatureCustomAppearance](../)
+* class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

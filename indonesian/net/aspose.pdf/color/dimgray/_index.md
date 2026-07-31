@@ -1,12 +1,12 @@
 ---
-title: Color.DimGray
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FF696969
+title: "Color.DimGray"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB c FF696969"
 type: docs
 weight: 420
 url: /id/net/aspose.pdf/color/dimgray/
 ---
-## Properti Color.DimGray
+## Color.DimGray property
 
 Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FF696969.
 
@@ -14,12 +14,14 @@ Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FF696969.
 public static Color DimGray { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah representasi warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

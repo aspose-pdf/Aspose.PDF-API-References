@@ -1,12 +1,12 @@
 ---
-title: MarkupParagraph.Fragments
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MarkupParagraph. Koleksi objek TextFragment yang tidak kosong dari paragraf
+title: "MarkupParagraph.Fragments"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti MarkupParagraph. Koleksi objek TextFragment yang tidak kosong dari paragraf"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.text/markupparagraph/fragments/
 ---
-## Properti MarkupParagraph.Fragments
+## MarkupParagraph.Fragments property
 
 Koleksi objek [`TextFragment`](../../textfragment/) yang tidak kosong dari paragraf.
 
@@ -16,11 +16,13 @@ public List<TextFragment> Fragments { get; }
 
 ## Catatan
 
-Objek [`TextFragment`](../../textfragment/) memberikan akses ke teks yang muncul dalam pencarian, properti teks, dan memungkinkan untuk mengedit teks serta mengubah status teks (font, ukuran font, warna, dll).
+Objek [`TextFragment`](../../textfragment/) menyediakan akses ke teks hasil pencarian, properti teks, dan memungkinkan mengedit teks serta mengubah keadaan teks (font, ukuran font, warna, dll).
 
 ### Lihat Juga
 
-* kelas [TextFragment](../../textfragment/)
-* kelas [MarkupParagraph](../)
+* class [TextFragment](../../textfragment/)
+* class [MarkupParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

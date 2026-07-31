@@ -1,12 +1,12 @@
 ---
-title: LinkElement.StructureTextState
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LinkElement. Mendapatkan objek StructureTextState untuk elemen saat ini
+title: "LinkElement.StructureTextState"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti LinkElement. Mendapatkan objek StructureTextState untuk elemen saat ini."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.logicalstructure/linkelement/structuretextstate/
 ---
-## Properti LinkElement.StructureTextState
+## LinkElement.StructureTextState property
 
 Mendapatkan objek StructureTextState untuk elemen saat ini.
 
@@ -14,13 +14,15 @@ Mendapatkan objek StructureTextState untuk elemen saat ini.
 public StructureTextState StructureTextState { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Objek StructureTextState untuk elemen saat ini.
 
 ### Lihat Juga
 
-* kelas [StructureTextState](../../structuretextstate/)
-* kelas [LinkElement](../)
+* class [StructureTextState](../../structuretextstate/)
+* class [LinkElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

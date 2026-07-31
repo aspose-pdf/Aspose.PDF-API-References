@@ -1,12 +1,12 @@
 ---
-title: MergeOptions.MergeOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor MergeOptions. Konstruktor default
+title: "MergeOptions.MergeOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor MergeOptions. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/mergeoptions/mergeoptions/
 ---
-## Konstruktor MergeOptions
+## MergeOptions constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public MergeOptions()
 
 ### Lihat Juga
 
-* kelas [MergeOptions](../)
+* class [MergeOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

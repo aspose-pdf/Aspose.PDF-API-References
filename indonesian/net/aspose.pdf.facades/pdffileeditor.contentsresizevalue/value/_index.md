@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.ContentsResizeValue.Value
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ContentsResizeValue. Mendapatkan nilai yang ditentukan. Gunakan properti Unit untuk mendapatkan satuan nilai
+title: "PdfFileEditor.ContentsResizeValue.Value"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ContentsResizeValue property. Mendapatkan nilai yang ditentukan. Gunakan properti Unit untuk mendapatkan satuan nilai"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.facades/pdffileeditor.contentsresizevalue/value/
 ---
-## Properti PdfFileEditor.ContentsResizeValue.Value
+## PdfFileEditor.ContentsResizeValue.Value property
 
-Mendapatkan nilai yang ditentukan. Gunakan properti Unit untuk mendapatkan satuan nilai.
+Mengembalikan nilai yang ditentukan. Gunakan properti Unit untuk mendapatkan satuan nilai.
 
 ```csharp
 public double Value { get; }
@@ -16,6 +16,8 @@ public double Value { get; }
 
 ### Lihat Juga
 
-* kelas [ContentsResizeValue](../)
+* class [ContentsResizeValue](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

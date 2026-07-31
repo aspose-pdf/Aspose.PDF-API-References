@@ -1,14 +1,14 @@
 ---
-title: PdfActionCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfActionCollection. Mendapatkan jumlah tindakan
+title: "PdfActionCollection.Count"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfActionCollection. Mendapatkan jumlah aksi"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/pdfactioncollection/count/
 ---
-## Properti PdfActionCollection.Count
+## PdfActionCollection.Count property
 
-Mendapatkan jumlah tindakan.
+Mendapatkan jumlah aksi.
 
 ```csharp
 public int Count { get; }
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### Lihat Juga
 
-* kelas [PdfActionCollection](../)
+* class [PdfActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

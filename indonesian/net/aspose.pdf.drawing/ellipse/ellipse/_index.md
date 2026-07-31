@@ -1,12 +1,12 @@
 ---
-title: Ellipse.Ellipse
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Ellipse. Menginisialisasi instance baru dari kelas Ellipse
+title: "Ellipse.Ellipse"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Ellipse. Menginisialisasi instance baru dari kelas Ellipse"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.drawing/ellipse/ellipse/
 ---
-## Konstruktor Ellipse
+## Ellipse constructor
 
 Menginisialisasi instance baru dari kelas [`Ellipse`](../).
 
@@ -16,13 +16,15 @@ public Ellipse(double left, double bottom, double width, double height)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| left | Double | Posisi kiri dari elips. |
-| bottom | Double | Posisi bawah dari elips. |
-| width | Double | Lebar dari elips. |
-| height | Double | Tinggi dari elips. |
+| kiri | Double | Posisi kiri elips. |
+| bawah | Double | Posisi bawah elips. |
+| lebar | Double | Lebar elips. |
+| tinggi | Double | Tinggi elips. |
 
 ### Lihat Juga
 
-* kelas [Ellipse](../)
+* class [Ellipse](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

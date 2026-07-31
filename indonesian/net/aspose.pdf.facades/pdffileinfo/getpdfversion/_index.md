@@ -1,25 +1,27 @@
 ---
-title: PdfFileInfo.GetPdfVersion
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileInfo. Mendapatkan informasi versi dokumen PDF
+title: "PdfFileInfo.GetPdfVersion"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfFileInfo method. Mendapatkan info versi dari dokumen PDF"
 type: docs
 weight: 290
 url: /id/net/aspose.pdf.facades/pdffileinfo/getpdfversion/
 ---
-## Metode PdfFileInfo.GetPdfVersion
+## PdfFileInfo.GetPdfVersion method
 
-Mendapatkan informasi versi dokumen PDF.
+Mengambil info versi dokumen PDF.
 
 ```csharp
 public string GetPdfVersion()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 String versi.
 
 ### Lihat Juga
 
-* kelas [PdfFileInfo](../)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FormFieldFacade.Alignment
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FormFieldFacade. Penjajaran teks bidang default adalah penjajaran kiri
+title: "FormFieldFacade.Alignment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormFieldFacade property. Penyelarasan teks field, default adalah penyelarasan kiri"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.facades/formfieldfacade/alignment/
 ---
-## Properti FormFieldFacade.Alignment
+## FormFieldFacade.Alignment property
 
-Penjajaran teks bidang, default adalah penjajaran kiri.
+Perataan teks bidang, default adalah perataan kiri.
 
 ```csharp
 public int Alignment { get; set; }
@@ -16,6 +16,8 @@ public int Alignment { get; set; }
 
 ### Lihat Juga
 
-* kelas [FormFieldFacade](../)
+* class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

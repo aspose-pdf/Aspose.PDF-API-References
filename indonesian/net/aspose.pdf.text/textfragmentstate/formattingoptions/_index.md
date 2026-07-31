@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.FormattingOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextFragmentState. Mengambil atau mengatur opsi pemformatan. Penetapan opsi akan efektif hanya dalam skenario generator
+title: "TextFragmentState.FormattingOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextFragmentState. Mendapatkan atau mengatur opsi pemformatan. Penetapan opsi hanya akan efektif dalam skenario generator."
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.text/textfragmentstate/formattingoptions/
 ---
-## Properti TextFragmentState.FormattingOptions
+## TextFragmentState.FormattingOptions property
 
-Mengambil atau mengatur opsi pemformatan. Penetapan opsi akan efektif hanya dalam skenario generator.
+Mendapatkan atau mengatur opsi pemformatan. Penetapan opsi hanya akan efektif dalam skenario generator.
 
 ```csharp
 public TextFormattingOptions FormattingOptions { get; set; }
@@ -16,7 +16,9 @@ public TextFormattingOptions FormattingOptions { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextFormattingOptions](../../textformattingoptions/)
-* kelas [TextFragmentState](../)
+* class [TextFormattingOptions](../../textformattingoptions/)
+* class [TextFragmentState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

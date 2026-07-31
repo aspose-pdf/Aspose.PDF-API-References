@@ -1,25 +1,27 @@
 ---
-title: TextFragment.CloneWithSegments
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextFragment. Kloning fragmen dengan semua segmen
+title: "TextFragment.CloneWithSegments"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TextFragment. Menggandakan fragmen dengan semua segmen."
 type: docs
 weight: 190
 url: /id/net/aspose.pdf.text/textfragment/clonewithsegments/
 ---
-## Metode TextFragment.CloneWithSegments
+## TextFragment.CloneWithSegments method
 
-Kloning fragmen dengan semua segmen.
+Menggandakan fragmen beserta semua segmen.
 
 ```csharp
 public virtual object CloneWithSegments()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek yang dikloning
+Objek yang digandakan
 
 ### Lihat Juga
 
-* kelas [TextFragment](../)
+* class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

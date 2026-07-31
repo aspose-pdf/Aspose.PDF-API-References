@@ -1,14 +1,14 @@
 ---
-title: BitmapInfo.Format
-second_title: Aspose.PDF for .NET API Reference
-description: Properti BitmapInfo. Mendapatkan format piksel dari bitmap
+title: "BitmapInfo.Format"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti BitmapInfo. Mengambil format piksel bitmap"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/bitmapinfo/format/
 ---
-## Properti BitmapInfo.Format
+## BitmapInfo.Format property
 
-Mendapatkan format piksel dari bitmap.
+Mendapatkan format piksel bitmap.
 
 ```csharp
 public PixelFormat Format { get; }
@@ -20,3 +20,5 @@ public PixelFormat Format { get; }
 * class [BitmapInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

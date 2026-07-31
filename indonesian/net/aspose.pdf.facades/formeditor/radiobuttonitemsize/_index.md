@@ -1,14 +1,14 @@
 ---
-title: FormEditor.RadioButtonItemSize
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FormEditor. Mendapatkan atau mengatur ukuran item tombol radio saat bidang tombol radio baru ditambahkan
+title: "FormEditor.RadioButtonItemSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FormEditor. Mendapatkan atau mengatur ukuran item tombol radio ketika bidang tombol radio baru ditambahkan"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.facades/formeditor/radiobuttonitemsize/
 ---
-## Properti FormEditor.RadioButtonItemSize
+## FormEditor.RadioButtonItemSize property
 
-Mendapatkan atau mengatur ukuran item tombol radio (saat bidang tombol radio baru ditambahkan).
+Mendapatkan atau mengatur ukuran item tombol radio (ketika bidang tombol radio baru ditambahkan).
 
 ```csharp
 formEditor = new Aspose.Pdf.Facades.FormEditor("PdfForm.pdf", "FormEditor_AddField_RadioButton.pdf");
@@ -26,6 +26,8 @@ public double RadioButtonItemSize { get; set; }
 
 ### Lihat Juga
 
-* kelas [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

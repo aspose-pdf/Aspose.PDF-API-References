@@ -1,14 +1,14 @@
 ---
-title: AssistantCreateRequest.Tools
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AssistantCreateRequest. Mengambil atau mengatur daftar alat yang diaktifkan pada asisten. Terdapat maksimum 128 alat per asisten. Alat dapat berupa jenis code_interpreter, file_search, atau function.
+title: "AssistantCreateRequest.Tools"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti AssistantCreateRequest. Mendapatkan atau mengatur daftar alat yang diaktifkan pada asisten. Maksimum ada 128 alat per asisten. Alat dapat berupa tipe code_interpreter, file_search, atau function."
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.ai/assistantcreaterequest/tools/
 ---
-## Properti AssistantCreateRequest.Tools
+## AssistantCreateRequest.Tools property
 
-Mengambil atau mengatur daftar alat yang diaktifkan pada asisten. Terdapat maksimum 128 alat per asisten. Alat dapat berupa jenis code_interpreter, file_search, atau function.
+Mendapatkan atau mengatur daftar alat yang diaktifkan pada asisten. Maksimum 128 alat per asisten. Alat dapat berupa tipe code_interpreter, file_search, atau function.
 
 ```csharp
 public List<Tool> Tools { get; set; }
@@ -16,7 +16,9 @@ public List<Tool> Tools { get; set; }
 
 ### Lihat Juga
 
-* kelas [Tool](../../tool/)
-* kelas [AssistantCreateRequest](../)
+* class [Tool](../../tool/)
+* class [AssistantCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

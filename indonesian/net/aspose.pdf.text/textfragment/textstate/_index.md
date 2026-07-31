@@ -1,14 +1,14 @@
 ---
-title: TextFragment.TextState
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextFragment. Mengambil atau mengatur status teks untuk teks yang diwakili oleh objek TextFragment
+title: "TextFragment.TextState"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextFragment. Mengambil atau mengatur status teks untuk teks yang direpresentasikan oleh objek TextFragment."
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.text/textfragment/textstate/
 ---
-## Properti TextFragment.TextState
+## TextFragment.TextState property
 
-Mengambil atau mengatur status teks untuk teks yang diwakili oleh [`TextFragment`](../) objek.
+Mengambil atau mengatur status teks untuk teks yang direpresentasikan oleh objek [`TextFragment`](../).
 
 ```csharp
 public TextFragmentState TextState { get; }
@@ -16,37 +16,39 @@ public TextFragmentState TextState { get; }
 
 ## Catatan
 
-Memberikan cara untuk mengubah properti berikut dari teks: Font UkuranFont GayaFont WarnaDepan WarnaLatarBelakang
+Menyediakan cara untuk mengubah properti teks berikut: Font FontSize FontStyle ForegroundColor BackgroundColor
 
 ## Contoh
 
-Contoh ini menunjukkan cara mengubah warna teks dan ukuran font dari teks dengan objek `TextState`.
+Contoh ini menunjukkan cara mengubah warna teks dan ukuran font teks dengan objek `TextState`.
 
 ```csharp
-// Open document
+// Buka dokumen
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Buat objek TextFragmentAbsorber untuk menemukan semua kemunculan teks "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Terima absorber untuk halaman pertama
 doc.Pages[1].Accept(absorber);
 
-// Change foreground color of the first text occurrence
+// Ubah warna latar depan pada kemunculan teks pertama
 absorber.TextFragments[1].TextState.ForegroundColor = Color.FromRgb(System.Drawing.Color.Red);
 
-// Change font size of the first text occurrence
+// Ubah ukuran font pada kemunculan teks pertama
 absorber.TextFragments[1].TextState.FontSize = 15;
 
-// Save document
+// Simpan dokumen
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
 ### Lihat Juga
 
-* kelas [TextFragmentAbsorber](../../textfragmentabsorber/)
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [TextFragmentState](../../textfragmentstate/)
-* kelas [TextFragment](../)
+* class [TextFragmentAbsorber](../../textfragmentabsorber/)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextFragmentState](../../textfragmentstate/)
+* class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

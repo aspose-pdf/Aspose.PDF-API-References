@@ -1,12 +1,12 @@
 ---
-title: Layer.Lock
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Layer. Mengunci lapisan
+title: "Layer.Lock"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Layer. Mengunci lapisan"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf/layer/lock/
 ---
-## Metode Layer.Lock
+## Layer.Lock method
 
 Mengunci lapisan.
 
@@ -16,6 +16,8 @@ public void Lock()
 
 ### Lihat Juga
 
-* kelas [Layer](../)
+* class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

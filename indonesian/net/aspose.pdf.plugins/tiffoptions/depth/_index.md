@@ -1,20 +1,20 @@
 ---
-title: TiffOptions.Depth
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TiffOptions. Mendapatkan atau mengatur kedalaman warna
+title: "TiffOptions.Depth"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur kedalaman warna"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.plugins/tiffoptions/depth/
 ---
-## Properti TiffOptions.Depth
+## TiffOptions.Depth property
 
-Mendapatkan atau mengatur kedalaman warna.
+Dapatkan atau atur kedalaman warna.
 
 ```csharp
 public ColorDepth Depth { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Kedalaman warna.
 
@@ -28,3 +28,5 @@ Nilai default adalah ColorDepth.Default
 * class [TiffOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

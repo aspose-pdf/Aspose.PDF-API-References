@@ -1,25 +1,27 @@
 ---
-title: Color.Azure
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FFF0FFFF
+title: "Color.Azure"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB c FFF0FFFF"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/color/azure/
 ---
-## Properti Color.Azure
+## Color.Azure property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFF0FFFF.
+Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB \c \#FFF0FFFF.
 
 ```csharp
 public static Color Azure { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah yang mewakili warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Color](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

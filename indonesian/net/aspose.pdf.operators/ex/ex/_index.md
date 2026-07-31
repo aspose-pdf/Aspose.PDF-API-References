@@ -1,12 +1,12 @@
 ---
-title: EX.EX
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor EX. Menginisialisasi operator
+title: "EX.EX"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor EX. Menginisialisasi operator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/ex/ex/
 ---
-## Konstruktor EX
+## EX constructor
 
 Menginisialisasi operator.
 
@@ -16,6 +16,8 @@ public EX()
 
 ### Lihat Juga
 
-* kelas [EX](../)
+* class [EX](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

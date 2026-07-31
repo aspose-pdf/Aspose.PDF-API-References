@@ -1,12 +1,12 @@
 ---
-title: StringResult.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode StringResult. Mencoba mengonversi hasil menjadi string
+title: "StringResult.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode StringResult. Mencoba mengonversi hasil menjadi string"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.plugins/stringresult/tostring/
 ---
-## Metode StringResult.ToString
+## StringResult.ToString method
 
 Mencoba mengonversi hasil menjadi string.
 
@@ -14,12 +14,14 @@ Mencoba mengonversi hasil menjadi string.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah string yang mewakili konten teks jika hasilnya adalah string; jika tidak, mengembalikan base.ToString().
+String yang mewakili konten teks jika hasilnya berupa string; jika tidak, mengembalikan base.ToString().
 
 ### Lihat Juga
 
-* kelas [StringResult](../)
+* class [StringResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

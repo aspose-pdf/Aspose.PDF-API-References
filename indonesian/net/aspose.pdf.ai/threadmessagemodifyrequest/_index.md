@@ -1,12 +1,12 @@
 ---
-title: Class ThreadMessageModifyRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.ThreadMessageModifyRequest. Mewakili permintaan untuk memodifikasi pesan dalam sebuah thread
+title: "Kelas ThreadMessageModifyRequest"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.ThreadMessageModifyRequest. Mewakili permintaan untuk memodifikasi pesan dalam sebuah thread"
 type: docs
-weight: 1150
+weight: 1240
 url: /id/net/aspose.pdf.ai/threadmessagemodifyrequest/
 ---
-## Kelas ThreadMessageModifyRequest
+## ThreadMessageModifyRequest class
 
 Mewakili permintaan untuk memodifikasi pesan dalam sebuah thread.
 
@@ -24,9 +24,11 @@ public class ThreadMessageModifyRequest
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Metadata](../../aspose.pdf.ai/threadmessagemodifyrequest/metadata/) { get; set; } | Mengambil atau menetapkan sekumpulan 16 pasangan kunci-nilai yang dapat dilampirkan pada sebuah objek. Ini dapat berguna untuk menyimpan informasi tambahan tentang objek dalam format terstruktur. Kunci dapat memiliki panjang maksimum 64 karakter dan nilai dapat memiliki panjang maksimum 512 karakter. |
+| [Metadata](../../aspose.pdf.ai/threadmessagemodifyrequest/metadata/) { get; set; } | Mendapatkan atau mengatur sekumpulan 16 pasangan kunci-nilai yang dapat dilampirkan ke sebuah objek. Ini dapat berguna untuk menyimpan informasi tambahan tentang objek dalam format terstruktur. Kunci dapat memiliki panjang maksimum 64 karakter dan nilai dapat memiliki panjang maksimum 512 karakter. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

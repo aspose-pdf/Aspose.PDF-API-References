@@ -1,12 +1,12 @@
 ---
-title: Class Note
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Note. Kelas ini mewakili catatan paragraf generator
+title: "Kelas Note"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Note. Kelas ini mewakili catatan paragraf generator"
 type: docs
-weight: 7020
+weight: 7160
 url: /id/net/aspose.pdf/note/
 ---
-## Kelas Note
+## Note class
 
 Kelas ini mewakili catatan paragraf generator.
 
@@ -18,18 +18,20 @@ public sealed class Note
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Note](note/#constructor)() | Menginisialisasi instance baru dari kelas `Note`. |
-| [Note](note/#constructor_1)(string) | Menginisialisasi instance baru dari kelas `Note`. |
+| [Note](note/#constructor)() | Menginisialisasi sebuah instance baru dari kelas `Note`. |
+| [Note](note/#constructor_1)(string) | Menginisialisasi sebuah instance baru dari kelas `Note`. |
 
 ## Properti
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Paragraphs](../../aspose.pdf/note/paragraphs/) { get; set; } | Mengambil atau mengatur koleksi yang menunjukkan semua paragraf dalam FootNote. |
-| [Text](../../aspose.pdf/note/text/) { get; set; } | Mengambil atau mengatur teks catatan. |
-| [TextState](../../aspose.pdf/note/textstate/) { get; set; } | Mengambil atau mengatur status teks catatan. |
+| [Paragraphs](../../aspose.pdf/note/paragraphs/) { get; set; } | Mendapatkan atau mengatur koleksi yang menunjukkan semua paragraf dalam FootNote. |
+| [Text](../../aspose.pdf/note/text/) { get; set; } | Mendapatkan atau mengatur teks catatan. |
+| [TextState](../../aspose.pdf/note/textstate/) { get; set; } | Mendapatkan atau mengatur status teks catatan. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

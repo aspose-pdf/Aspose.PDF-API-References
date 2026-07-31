@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.RemoveEmptyAreasOnTopAndBottom
-second_title: Aspose.PDF for .NET API Reference
-description: Field HtmlSaveOptions. Menentukan apakah area kosong di atas dan bawah tanpa konten akan dihapus dalam HTML yang dibuat jika ada
+title: "HtmlSaveOptions.RemoveEmptyAreasOnTopAndBottom"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "HtmlSaveOptions field. Menentukan apakah dalam HTML yang dibuat area kosong di atas dan bawah tanpa konten apa pun akan dihapus, bila ada."
 type: docs
 weight: 410
 url: /id/net/aspose.pdf/htmlsaveoptions/removeemptyareasontopandbottom/
 ---
 ## HtmlSaveOptions.RemoveEmptyAreasOnTopAndBottom field
 
-Menentukan apakah area kosong di atas dan bawah tanpa konten akan dihapus dalam HTML yang dibuat (jika ada).
+Menentukan apakah area kosong di bagian atas dan bawah pada HTML yang dibuat akan dihapus tanpa konten apa pun (jika ada).
 
 ```csharp
 public bool RemoveEmptyAreasOnTopAndBottom;
@@ -19,3 +19,5 @@ public bool RemoveEmptyAreasOnTopAndBottom;
 * class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

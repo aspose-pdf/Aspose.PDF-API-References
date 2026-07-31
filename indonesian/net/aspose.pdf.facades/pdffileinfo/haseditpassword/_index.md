@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.HasEditPassword
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFileInfo. Mengembalikan true jika kata sandi diperlukan untuk memodifikasi izin atau properti keamanan dokumen. Perhatikan bahwa properti ini hanya dapat dibaca jika kata sandi yang valid diberikan dalam konstruktor PdfFileInfo. Jika PasswordType adalah Inaccessible berarti kata sandi yang tidak valid diberikan, membaca properti ini akan gagal dengan InvalidPasswordException
+title: "PdfFileInfo.HasEditPassword"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFileInfo. Mengembalikan true jika password diperlukan untuk mengubah izin atau properti keamanan dokumen. Perhatikan bahwa properti ini hanya dapat dibaca jika password yang valid telah diberikan dalam konstruktor PdfFileInfo. Jika PasswordType adalah Inaccessible berarti password yang tidak valid telah diberikan, membaca properti ini akan gagal dengan InvalidPasswordException"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.facades/pdffileinfo/haseditpassword/
 ---
-## Properti PdfFileInfo.HasEditPassword
+## PdfFileInfo.HasEditPassword property
 
-Mengembalikan true jika kata sandi diperlukan untuk memodifikasi izin atau properti keamanan dokumen. Perhatikan bahwa properti ini hanya dapat dibaca jika kata sandi yang valid diberikan dalam [`PdfFileInfo`](../) konstruktor. Jika PasswordType adalah Inaccessible (berarti kata sandi yang tidak valid diberikan) membaca properti ini akan gagal dengan [`InvalidPasswordException`](../../../aspose.pdf/invalidpasswordexception/).
+Mengembalikan true jika password diperlukan untuk mengubah izin atau properti keamanan dokumen. Perhatikan bahwa properti ini hanya dapat dibaca jika password yang valid telah diberikan dalam konstruktor [`PdfFileInfo`](../). Jika PasswordType adalah Inaccessible (berarti password yang tidak valid telah diberikan) membaca properti ini akan gagal dengan [`InvalidPasswordException`](../../../aspose.pdf/invalidpasswordexception/).
 
 ```csharp
 public bool HasEditPassword { get; }
@@ -16,6 +16,8 @@ public bool HasEditPassword { get; }
 
 ### Lihat Juga
 
-* kelas [PdfFileInfo](../)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

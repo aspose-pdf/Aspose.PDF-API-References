@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Rectangle. Tinggi dari persegi panjang
+title: "Rectangle.Height"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Rectangle. Tinggi persegi panjang."
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/rectangle/height/
 ---
-## Properti Rectangle.Height
+## Rectangle.Height property
 
-Tinggi dari persegi panjang.
+Tinggi persegi panjang.
 
 ```csharp
 public double Height { get; }
@@ -16,6 +16,8 @@ public double Height { get; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

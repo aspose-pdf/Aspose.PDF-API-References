@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.DisplayDocTitle
-second_title: Aspose.PDF for .NET API Reference
-description: Field ViewerPreference. Sebuah flag yang menentukan apakah bilah judul jendela harus menampilkan judul dokumen
+title: "ViewerPreference.DisplayDocTitle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ViewerPreference bidang. Flag yang menentukan apakah bilah judul windows harus menampilkan judul dokumen"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.facades/viewerpreference/displaydoctitle/
 ---
-## Field ViewerPreference.DisplayDocTitle
+## ViewerPreference.DisplayDocTitle field
 
-Sebuah flag yang menentukan apakah bilah judul jendela harus menampilkan judul dokumen
+Bendera yang menentukan apakah bilah judul jendela harus menampilkan judul dokumen
 
 ```csharp
 public const int DisplayDocTitle;
@@ -19,3 +19,5 @@ public const int DisplayDocTitle;
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

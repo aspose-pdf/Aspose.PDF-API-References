@@ -1,25 +1,27 @@
 ---
-title: Color.Pink
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FFFFC0CB
+title: "Color.Pink"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem yang memiliki nilai ARGB c FFFFC0CB"
 type: docs
 weight: 1110
 url: /id/net/aspose.pdf/color/pink/
 ---
-## Properti Color.Pink
+## Color.Pink property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFFFC0CB.
+Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB \c \#FFFFC0CB.
 
 ```csharp
 public static Color Pink { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah representasi warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

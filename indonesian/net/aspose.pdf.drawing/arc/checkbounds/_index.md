@@ -1,12 +1,12 @@
 ---
-title: Arc.CheckBounds
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Arc.
+title: "Arc.CheckBounds"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Arc."
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.drawing/arc/checkbounds/
 ---
-## Metode Arc.CheckBounds
+## Arc.CheckBounds method
 
 ```csharp
 public override bool CheckBounds(double containerWidth, double containerHeight)
@@ -14,6 +14,8 @@ public override bool CheckBounds(double containerWidth, double containerHeight)
 
 ### Lihat Juga
 
-* kelas [Arc](../)
+* class [Arc](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

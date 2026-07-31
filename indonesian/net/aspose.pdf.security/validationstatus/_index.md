@@ -1,12 +1,12 @@
 ---
-title: Enum ValidationStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ValidationStatus Aspose.Pdf.Security. Mewakili status validasi dari validasi sertifikat
+title: "Enum ValidationStatus"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Security.ValidationStatus. Mewakili status validasi dari validasi sertifikat"
 type: docs
-weight: 10090
+weight: 10270
 url: /id/net/aspose.pdf.security/validationstatus/
 ---
-## Enumerasi ValidationStatus
+## ValidationStatus enumeration
 
 Mewakili status validasi dari validasi sertifikat.
 
@@ -24,9 +24,11 @@ public enum ValidationStatus
 
 ## Catatan
 
-Enumerasi ini mendefinisikan kemungkinan hasil dari validasi sertifikat: - Valid: Menunjukkan bahwa sertifikat telah berhasil divalidasi. - Invalid: Menunjukkan bahwa validasi sertifikat gagal. - Undefined: Menunjukkan bahwa proses validasi tidak konklusif atau tidak dilakukan.
+Enumerasi ini mendefinisikan kemungkinan hasil validasi sertifikat: - Valid: Menunjukkan bahwa sertifikat telah berhasil divalidasi. - Invalid: Menunjukkan bahwa validasi sertifikat gagal. - Undefined: Menunjukkan bahwa proses validasi tidak konklusif atau tidak dilakukan.
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../)
+
+

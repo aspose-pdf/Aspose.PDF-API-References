@@ -1,7 +1,7 @@
 ---
-title: CosPdfString.CosPdfString
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor CosPdfString. Menginisialisasi instance baru dari kelas CosPdfString
+title: "CosPdfString.CosPdfString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor CosPdfString. Menginisialisasi instance baru dari kelas CosPdfString."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.dataeditor/cospdfstring/cospdfstring/
@@ -16,11 +16,11 @@ public CosPdfString(string value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | String | Nilai. |
+| nilai | String | Nilai tersebut. |
 
 ### Lihat Juga
 
-* kelas [CosPdfString](../)
+* class [CosPdfString](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,11 +36,13 @@ public CosPdfString(string value, bool isHexadecimal)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | String | String. |
-| isHexadecimal | Boolean | jika diatur ke `true` [adalah heksadesimal]. |
+| nilai | String | String tersebut. |
+| isHexadecimal | Boolean | jika disetel ke `true` [adalah heksadesimal]. |
 
 ### Lihat Juga
 
-* kelas [CosPdfString](../)
+* class [CosPdfString](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

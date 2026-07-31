@@ -1,12 +1,12 @@
 ---
-title: OptionCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OptionCollection. Memeriksa apakah item ada dalam koleksi, melempar NotImplementedException
+title: "OptionCollection.Contains"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OptionCollection. Memeriksa apakah item ada dalam koleksi, melempar NotImplementedException"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.forms/optioncollection/contains/
 ---
-## Metode OptionCollection.Contains
+## OptionCollection.Contains method
 
 Memeriksa apakah item ada dalam koleksi, melempar NotImplementedException.
 
@@ -16,15 +16,17 @@ public bool Contains(Option item)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| item | Option | Item operator yang dicari. |
+| item | Option | Item operator untuk dicari. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Melempar NotImplementedException
 
 ### Lihat Juga
 
-* kelas [Option](../../option/)
-* kelas [OptionCollection](../)
-* ruang nama [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [Option](../../option/)
+* class [OptionCollection](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

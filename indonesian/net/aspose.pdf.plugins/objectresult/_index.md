@@ -1,12 +1,12 @@
 ---
-title: Class ObjectResult
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.ObjectResult. Mewakili hasil operasi dalam bentuk string
+title: "Kelas ObjectResult"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.ObjectResult. Mewakili hasil operasi dalam bentuk string"
 type: docs
-weight: 8950
+weight: 9080
 url: /id/net/aspose.pdf.plugins/objectresult/
 ---
-## Kelas ObjectResult
+## ObjectResult class
 
 Mewakili hasil operasi dalam bentuk string.
 
@@ -19,10 +19,10 @@ public sealed class ObjectResult : IOperationResult
 | Nama | Deskripsi |
 | --- | --- |
 | [Data](../../aspose.pdf.plugins/objectresult/data/) { get; } | Mendapatkan data mentah. |
-| [IsFile](../../aspose.pdf.plugins/objectresult/isfile/) { get; } | Menunjukkan apakah hasilnya adalah jalur ke file keluaran. |
+| [IsFile](../../aspose.pdf.plugins/objectresult/isfile/) { get; } | Menunjukkan apakah hasilnya adalah jalur ke file output. |
 | [IsObject](../../aspose.pdf.plugins/objectresult/isobject/) { get; } | Menunjukkan apakah hasilnya adalah objek. |
-| [IsStream](../../aspose.pdf.plugins/objectresult/isstream/) { get; } | Menunjukkan apakah hasilnya adalah jalur ke file keluaran. |
-| [IsString](../../aspose.pdf.plugins/objectresult/isstring/) { get; } | Menunjukkan apakah hasilnya adalah string. |
+| [IsStream](../../aspose.pdf.plugins/objectresult/isstream/) { get; } | Menunjukkan apakah hasilnya adalah jalur ke file output. |
+| [IsString](../../aspose.pdf.plugins/objectresult/isstring/) { get; } | Menunjukkan apakah hasilnya berupa string. |
 | [Text](../../aspose.pdf.plugins/objectresult/text/) { get; } | Mengembalikan representasi string dari hasil. |
 
 ## Metode
@@ -35,6 +35,8 @@ public sealed class ObjectResult : IOperationResult
 
 ### Lihat Juga
 
-* antarmuka [IOperationResult](../ioperationresult/)
+* interface [IOperationResult](../ioperationresult/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

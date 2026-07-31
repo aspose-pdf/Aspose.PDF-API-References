@@ -1,25 +1,27 @@
 ---
-title: Document.HasIncrementalUpdate
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Dokumen. Memeriksa apakah dokumen PDF saat ini telah disimpan dengan pembaruan inkremental
+title: "Document.HasIncrementalUpdate"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Document. Memeriksa apakah PDF Document saat ini telah disimpan dengan pembaruan inkremental"
 type: docs
-weight: 700
+weight: 720
 url: /id/net/aspose.pdf/document/hasincrementalupdate/
 ---
-## Metode Document.HasIncrementalUpdate
+## Document.HasIncrementalUpdate method
 
-Memeriksa apakah dokumen PDF saat ini telah disimpan dengan pembaruan inkremental.
+Memeriksa apakah PDF document saat ini telah disimpan dengan pembaruan inkremental.
 
 ```csharp
 public bool HasIncrementalUpdate()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 `true` jika dokumen PDF memiliki pembaruan inkremental; jika tidak, `false`.
 
 ### Lihat Juga
 
-* kelas [Document](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

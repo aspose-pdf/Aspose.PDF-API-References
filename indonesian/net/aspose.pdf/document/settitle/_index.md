@@ -1,12 +1,12 @@
 ---
-title: Document.SetTitle
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Dokumen. Atur Judul untuk Dokumen Pdf
+title: "Document.SetTitle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Document. Mengatur Judul untuk Dokumen Pdf"
 type: docs
-weight: 870
+weight: 890
 url: /id/net/aspose.pdf/document/settitle/
 ---
-## Metode Document.SetTitle
+## Document.SetTitle method
 
 Atur Judul untuk Dokumen Pdf
 
@@ -16,10 +16,12 @@ public void SetTitle(string title)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| title | String | Judul dokumen |
+| title | String | Judul Document |
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

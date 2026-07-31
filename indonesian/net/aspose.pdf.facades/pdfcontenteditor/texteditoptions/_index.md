@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.TextEditOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfContentEditor. Mendapatkan atau mengatur opsi pengeditan teks
+title: "PdfContentEditor.TextEditOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfContentEditor properti. Mendapatkan atau mengatur opsi penyuntingan teks"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/texteditoptions/
 ---
-## Properti PdfContentEditor.TextEditOptions
+## PdfContentEditor.TextEditOptions property
 
-Mendapatkan atau mengatur opsi pengeditan teks.
+Mendapatkan atau mengatur opsi penyuntingan teks.
 
 ```csharp
 public TextEditOptions TextEditOptions { get; set; }
@@ -16,7 +16,9 @@ public TextEditOptions TextEditOptions { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextEditOptions](../../../aspose.pdf.text/texteditoptions/)
-* kelas [PdfContentEditor](../)
+* class [TextEditOptions](../../../aspose.pdf.text/texteditoptions/)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OpenAIAssistantCopilotOptionsBase.TopP
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OpenAIAssistantCopilotOptionsBase. Mengambil atau mengatur nilai topp untuk pengambilan sampel nucleus
+title: "OpenAIAssistantCopilotOptionsBase.TopP"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OpenAIAssistantCopilotOptionsBase properti. Mengambil atau mengatur nilai topp untuk sampling nucleus"
 type: docs
-weight: 60
+weight: 50
 url: /id/net/aspose.pdf.ai/openaiassistantcopilotoptionsbase/topp/
 ---
-## Properti OpenAIAssistantCopilotOptionsBase.TopP
+## OpenAIAssistantCopilotOptionsBase.TopP property
 
-Mengambil atau mengatur nilai top-p untuk pengambilan sampel nucleus.
+Mendapatkan atau mengatur nilai top-p untuk sampling nukleus.
 
 ```csharp
 public double? TopP { get; set; }
@@ -16,6 +16,8 @@ public double? TopP { get; set; }
 
 ### Lihat Juga
 
-* kelas [OpenAIAssistantCopilotOptionsBase](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAIAssistantCopilotOptionsBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

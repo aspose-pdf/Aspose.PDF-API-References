@@ -1,14 +1,14 @@
 ---
-title: Measure.DistanceFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Measure. Sebuah array format angka untuk pengukuran jarak dalam arah apa pun
+title: "Measure.DistanceFormat"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Measure property. Array format angka untuk pengukuran jarak dalam segala arah"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.annotations/measure/distanceformat/
 ---
-## Properti Measure.DistanceFormat
+## Measure.DistanceFormat property
 
-Sebuah array format angka untuk pengukuran jarak dalam arah apa pun.
+Array format angka untuk pengukuran jarak dalam segala arah.
 
 ```csharp
 public NumberFormatList DistanceFormat { get; set; }
@@ -16,7 +16,9 @@ public NumberFormatList DistanceFormat { get; set; }
 
 ### Lihat Juga
 
-* kelas [NumberFormatList](../../measure.numberformatlist/)
-* kelas [Measure](../)
+* class [NumberFormatList](../../measure.numberformatlist/)
+* class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

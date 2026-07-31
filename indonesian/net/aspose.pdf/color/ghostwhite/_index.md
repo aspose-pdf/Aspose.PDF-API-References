@@ -1,25 +1,27 @@
 ---
-title: Color.GhostWhite
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FFF8F8FF
+title: "Color.GhostWhite"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Color properti. Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB c FFF8F8FF"
 type: docs
 weight: 490
 url: /id/net/aspose.pdf/color/ghostwhite/
 ---
-## Properti Color.GhostWhite
+## Color.GhostWhite property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFF8F8FF.
+Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB \c \#FFF8F8FF.
 
 ```csharp
 public static Color GhostWhite { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah representasi warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

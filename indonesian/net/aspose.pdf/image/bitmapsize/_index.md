@@ -1,12 +1,12 @@
 ---
-title: Image.BitmapSize
-second_title: Aspose.PDF for .NET API Reference
-description: Properti gambar. Mendapatkan ukuran bitmap gambar
+title: "Image.BitmapSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Image. Mendapatkan ukuran bitmap gambar"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/image/bitmapsize/
 ---
-## Properti Image.BitmapSize
+## Image.BitmapSize property
 
 Mendapatkan ukuran bitmap gambar.
 
@@ -16,7 +16,9 @@ public Rectangle BitmapSize { get; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../rectangle/)
-* kelas [Image](../)
+* class [Rectangle](../../rectangle/)
+* class [Image](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

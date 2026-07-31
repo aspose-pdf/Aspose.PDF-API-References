@@ -1,14 +1,14 @@
 ---
-title: StrikeOutAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti StrikeOutAnnotation. Mendapatkan jenis anotasi
+title: "StrikeOutAnnotation.AnnotationType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti StrikeOutAnnotation. Mendapatkan tipe anotasi"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/strikeoutannotation/annotationtype/
 ---
-## Properti StrikeOutAnnotation.AnnotationType
+## StrikeOutAnnotation.AnnotationType property
 
-Mendapatkan jenis anotasi.
+Mendapatkan tipe annotation.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [StrikeOutAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

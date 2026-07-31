@@ -1,14 +1,14 @@
 ---
-title: Class EOClip
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.EOClip. Kelas yang mewakili jalur pemotongan operator W menggunakan aturan genap-ganjil
+title: "Kelas EOClip"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Operators.EOClip class. Kelas yang mewakili operator W untuk mengatur jalur pemotongan menggunakan aturan evenodd."
 type: docs
-weight: 7310
+weight: 7450
 url: /id/net/aspose.pdf.operators/eoclip/
 ---
-## Kelas EOClip
+## EOClip class
 
-Kelas yang mewakili operator W* (mengatur jalur pemotongan menggunakan aturan genap-ganjil).
+Kelas yang mewakili operator W* (set clipping path menggunakan aturan even-odd).
 
 ```csharp
 public class EOClip : Operator
@@ -30,12 +30,14 @@ public class EOClip : Operator
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/eoclip/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks dari operator dan parameternya. |
+| override [Accept](../../aspose.pdf.operators/eoclip/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks operator dan parameternya. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [Operator](../../aspose.pdf/operator/)
-* ruang nama [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [Operator](../../aspose.pdf/operator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

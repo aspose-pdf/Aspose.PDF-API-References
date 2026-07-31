@@ -1,12 +1,12 @@
 ---
-title: WarningInfo.WarningMessage
-second_title: Aspose.PDF for .NET API Reference
-description: Properti WarningInfo. Mengembalikan representasi string dari pesan peringatan
+title: "WarningInfo.WarningMessage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti WarningInfo. Mengembalikan representasi string dari pesan peringatan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/warninginfo/warningmessage/
 ---
-## Properti WarningInfo.WarningMessage
+## WarningInfo.WarningMessage property
 
 Mengembalikan representasi string dari pesan peringatan.
 
@@ -14,12 +14,14 @@ Mengembalikan representasi string dari pesan peringatan.
 public string WarningMessage { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 pesan peringatan
 
 ### Lihat Juga
 
-* kelas [WarningInfo](../)
+* class [WarningInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

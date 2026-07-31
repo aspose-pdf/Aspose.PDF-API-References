@@ -1,12 +1,12 @@
 ---
-title: Class EOFill
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.EOFill. Kelas yang mewakili operator f untuk mengisi jalur menggunakan aturan genap-ganjil
+title: "Kelas EOFill"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Operators.EOFill. Kelas yang merepresentasikan operator f mengisi jalur menggunakan aturan evenodd"
 type: docs
-weight: 7320
+weight: 7460
 url: /id/net/aspose.pdf.operators/eofill/
 ---
-## Kelas EOFill
+## EOFill class
 
 Kelas yang mewakili operator f* (mengisi jalur menggunakan aturan genap-ganjil).
 
@@ -30,12 +30,14 @@ public class EOFill : Operator
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/eofill/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks dari operator dan parameternya. |
+| override [Accept](../../aspose.pdf.operators/eofill/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks operator dan parameternya. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [Operator](../../aspose.pdf/operator/)
+* class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

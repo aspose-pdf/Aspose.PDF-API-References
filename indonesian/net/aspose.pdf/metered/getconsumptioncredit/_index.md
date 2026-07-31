@@ -1,12 +1,12 @@
 ---
-title: Metered.GetConsumptionCredit
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Metered. Mendapatkan kredit konsumsi
+title: "Metered.GetConsumptionCredit"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Metered. Mendapatkan kredit konsumsi"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/metered/getconsumptioncredit/
 ---
-## Metode Metered.GetConsumptionCredit
+## Metered.GetConsumptionCredit method
 
 Mendapatkan kredit konsumsi.
 
@@ -14,12 +14,14 @@ Mendapatkan kredit konsumsi.
 public static decimal GetConsumptionCredit()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Kuantitas konsumsi.
 
 ### Lihat Juga
 
-* kelas [Metered](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Metered](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

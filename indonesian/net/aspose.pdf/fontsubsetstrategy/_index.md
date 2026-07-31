@@ -1,14 +1,14 @@
 ---
-title: Enum FontSubsetStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.FontSubsetStrategy. mengenumerasi strategi untuk subsetting font
+title: "Enum FontSubsetStrategy"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.FontSubsetStrategy. Mendaftar strategi untuk subset font"
 type: docs
-weight: 4910
+weight: 5030
 url: /id/net/aspose.pdf/fontsubsetstrategy/
 ---
-## Enumerasi FontSubsetStrategy
+## FontSubsetStrategy enumeration
 
-mengenumerasi strategi untuk subsetting font
+menenumerasikan strategi untuk subset font
 
 ```csharp
 public enum FontSubsetStrategy : byte
@@ -18,10 +18,12 @@ public enum FontSubsetStrategy : byte
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| SubsetEmbeddedFontsOnly | `0` | Menyatakan untuk hanya menyubset font yang sudah tersemat dalam dokumen |
-| SubsetAllFonts | `1` | Menyatakan untuk menyubset semua font, baik yang tersemat maupun yang tidak tersemat |
+| SubsetEmbeddedFontsOnly | `0` | Menyatakan untuk menyubset hanya font yang sudah tertanam dalam dokumen |
+| SubsetAllFonts | `1` | Menyatakan untuk menyubset semua font, baik yang tidak tertanam maupun yang tertanam |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

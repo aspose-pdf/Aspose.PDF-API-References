@@ -1,14 +1,14 @@
 ---
-title: OptionCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OptionCollection. Menambahkan item dalam koleksi melempar NotImplementedException
+title: "OptionCollection.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OptionCollection. Menambahkan item ke koleksi melempar NotImplementedException"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.forms/optioncollection/add/
 ---
-## Metode OptionCollection.Add
+## OptionCollection.Add method
 
-Menambahkan item dalam koleksi, melempar NotImplementedException.
+Menambahkan item ke dalam koleksi, melempar NotImplementedException.
 
 ```csharp
 public void Add(Option item)
@@ -16,11 +16,13 @@ public void Add(Option item)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| item | Option | Item operator yang akan ditambahkan. |
+| item | Option | Item operator untuk ditambahkan. |
 
 ### Lihat Juga
 
-* kelas [Option](../../option/)
-* kelas [OptionCollection](../)
+* class [Option](../../option/)
+* class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

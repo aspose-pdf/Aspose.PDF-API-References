@@ -1,14 +1,14 @@
 ---
-title: SetCMYKColorStroke.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Metode SetCMYKColorStroke. Menerima objek pengunjung untuk memproses operator
+title: "SetCMYKColorStroke.Accept"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode SetCMYKColorStroke. Menerima objek visitor untuk memproses operator"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.operators/setcmykcolorstroke/accept/
 ---
-## Metode SetCMYKColorStroke.Accept
+## SetCMYKColorStroke.Accept method
 
-Menerima objek pengunjung untuk memproses operator.
+Menerima objek visitor untuk memproses operator.
 
 ```csharp
 public override void Accept(IOperatorSelector visitor)
@@ -20,7 +20,9 @@ public override void Accept(IOperatorSelector visitor)
 
 ### Lihat Juga
 
-* antarmuka [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
-* kelas [SetCMYKColorStroke](../)
+* interface [IOperatorSelector](../../../aspose.pdf/ioperatorselector/)
+* class [SetCMYKColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

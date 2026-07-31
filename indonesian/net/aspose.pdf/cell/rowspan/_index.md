@@ -1,12 +1,12 @@
 ---
-title: Cell.RowSpan
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Sel. Mendapatkan atau mengatur rentang baris
+title: "Cell.RowSpan"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Cell. Mendapatkan atau mengatur rentang baris"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf/cell/rowspan/
 ---
-## Properti Cell.RowSpan
+## Cell.RowSpan property
 
 Mendapatkan atau mengatur rentang baris.
 
@@ -16,6 +16,8 @@ public int RowSpan { get; set; }
 
 ### Lihat Juga
 
-* kelas [Cell](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Cell](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

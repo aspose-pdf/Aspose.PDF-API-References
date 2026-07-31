@@ -1,14 +1,14 @@
 ---
-title: Form.RenameField
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Mengganti nama sebuah field. Baik field AcroForm atau field XFA diperbolehkan
+title: "Form.RenameField"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Mengganti nama sebuah bidang. Baik bidang AcroForm maupun XFA diperbolehkan."
 type: docs
 weight: 330
 url: /id/net/aspose.pdf.facades/form/renamefield/
 ---
-## Metode Form.RenameField
+## Form.RenameField method
 
-Mengganti nama sebuah field. Baik field AcroForm atau field XFA diperbolehkan.
+Mengganti nama sebuah bidang. Baik bidang AcroForm maupun XFA diperbolehkan.
 
 ```csharp
 public void RenameField(string fieldName, string newFieldName)
@@ -16,8 +16,8 @@ public void RenameField(string fieldName, string newFieldName)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | nama field lama |
-| newFieldName | String | nama field baru |
+| fieldName | String | nama bidang lama |
+| newFieldName | String | nama bidang baru |
 
 ## Contoh
 
@@ -29,6 +29,8 @@ form.Save();
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

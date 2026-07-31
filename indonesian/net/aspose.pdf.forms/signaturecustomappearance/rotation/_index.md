@@ -1,12 +1,12 @@
 ---
-title: SignatureCustomAppearance.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SignatureCustomAppearance. Mendapatkan atau mengatur rotasi tanda tangan
+title: "SignatureCustomAppearance.Rotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SignatureCustomAppearance. Mendapatkan atau mengatur rotasi tanda tangan"
 type: docs
-weight: 150
+weight: 160
 url: /id/net/aspose.pdf.forms/signaturecustomappearance/rotation/
 ---
-## Properti SignatureCustomAppearance.Rotation
+## SignatureCustomAppearance.Rotation property
 
 Mendapatkan atau mengatur rotasi tanda tangan.
 
@@ -20,3 +20,5 @@ public Rotation Rotation { get; set; }
 * class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

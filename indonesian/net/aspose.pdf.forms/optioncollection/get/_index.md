@@ -1,14 +1,14 @@
 ---
-title: OptionCollection.get
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OptionCollection. Mengambil opsi berdasarkan indeks
+title: "OptionCollection.get"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OptionCollection. Mendapatkan opsi berdasarkan indeks"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.forms/optioncollection/get/
 ---
 ## get(int) {#get}
 
-Mengambil opsi berdasarkan indeks.
+Mendapatkan opsi berdasarkan indeks.
 
 ```csharp
 public Option get(int index)
@@ -16,13 +16,13 @@ public Option get(int index)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| index | Int32 | Indeks opsi. Indeks harus dalam rentang [1..n] di mana n adalah jumlah opsi. |
+| index | Int32 | Indeks opsi. Indeks harus berada dalam rentang [1..n] dimana n adalah jumlah opsi. |
 
-### Return Value
+### Nilai Kembalian
 
 Opsi yang diambil.
 
-### See Also
+### Lihat Juga
 
 * class [Option](../../option/)
 * class [OptionCollection](../)
@@ -33,7 +33,7 @@ Opsi yang diambil.
 
 ## get(string) {#get_1}
 
-Mengambil opsi dari koleksi berdasarkan nama opsi.
+Mendapatkan opsi dari koleksi berdasarkan nama opsi.
 
 ```csharp
 public Option get(string name)
@@ -41,15 +41,17 @@ public Option get(string name)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| name | String | Nama opsi. |
+| nama | String | Nama opsi. |
 
-### Return Value
+### Nilai Kembalian
 
 Opsi yang diambil.
 
-### See Also
+### Lihat Juga
 
 * class [Option](../../option/)
 * class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: BoundsCheckableList1.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti BoundsCheckableList. Mengambil atau mengatur paragraf dari atau ke koleksi
+title: "BoundsCheckableList1.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti BoundsCheckableList. Mendapatkan atau mengatur paragraf dari atau ke koleksi"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.generator/boundscheckablelist-1/item/
 ---
-## BoundsCheckableList&lt;T&gt; indeks
+## BoundsCheckableList&lt;T&gt; indexer
 
-Mengambil atau mengatur paragraf dari atau ke koleksi.
+Mendapatkan atau mengatur paragraf dari atau ke koleksi.
 
 ```csharp
 public T this[int index] { get; set; }
@@ -20,6 +20,8 @@ public T this[int index] { get; set; }
 
 ### Lihat Juga
 
-* kelas [BoundsCheckableList&lt;T&gt;](../)
+* class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../../)
+
+

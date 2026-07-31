@@ -1,24 +1,24 @@
 ---
-title: OpenAISummaryCopilotOptions.Create
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAISummaryCopilotOptions. Membuat instance baru dari OpenAISummaryCopilotOptions
+title: "OpenAISummaryCopilotOptions.Create"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OpenAISummaryCopilotOptions metode. Membuat instansi baru dari OpenAISummaryCopilotOptions"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/openaisummarycopilotoptions/create/
 ---
 ## Create() {#create}
 
-Membuat instance baru dari [`OpenAISummaryCopilotOptions`](../).
+Membuat instansi baru dari [`OpenAISummaryCopilotOptions`](../).
 
 ```csharp
 public static OpenAISummaryCopilotOptions Create()
 ```
 
-### Return Value
+### Nilai Kembalian
 
-Instance baru dari [`OpenAISummaryCopilotOptions`](../).
+Sebuah instansi baru dari [`OpenAISummaryCopilotOptions`](../).
 
-### See Also
+### Lihat Juga
 
 * class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -28,22 +28,24 @@ Instance baru dari [`OpenAISummaryCopilotOptions`](../).
 
 ## Create(Action&lt;OpenAISummaryCopilotOptions&gt;) {#create_1}
 
-Membuat instance dari [`OpenAISummaryCopilotOptions`](../) dan mengkonfigurasinya menggunakan delegate yang diberikan.
+Membuat sebuah instansi dari [`OpenAISummaryCopilotOptions`](../) dan mengkonfigurasinya menggunakan delegasi yang disediakan.
 
 ```csharp
 public static OpenAISummaryCopilotOptions Create(Action<OpenAISummaryCopilotOptions> config)
 ```
 
-| Parameter | Type | Description |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| config | Action`1 | Delegate untuk mengkonfigurasi opsi. |
+| konfigurasi | Action`1 | Delegasi untuk mengkonfigurasi opsi. |
 
-### Return Value
+### Nilai Kembalian
 
-Instance yang telah dikonfigurasi dari [`OpenAISummaryCopilotOptions`](../).
+Instansi yang dikonfigurasi dari [`OpenAISummaryCopilotOptions`](../).
 
-### See Also
+### Lihat Juga
 
 * class [OpenAISummaryCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

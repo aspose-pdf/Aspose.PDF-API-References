@@ -1,12 +1,12 @@
 ---
-title: Class SetCharacterSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.SetCharacterSpacing. Kelas yang mewakili operator Tc untuk mengatur spasi karakter
+title: "Kelas SetCharacterSpacing"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Operators.SetCharacterSpacing. Kelas yang mewakili operator Tc untuk mengatur jarak karakter"
 type: docs
-weight: 7620
+weight: 7760
 url: /id/net/aspose.pdf.operators/setcharacterspacing/
 ---
-## Kelas SetCharacterSpacing
+## SetCharacterSpacing class
 
 Kelas yang mewakili operator Tc (mengatur spasi karakter).
 
@@ -24,19 +24,21 @@ public class SetCharacterSpacing : TextStateOperator
 
 | Nama | Deskripsi |
 | --- | --- |
-| [CharSpacing](../../aspose.pdf.operators/setcharacterspacing/charspacing/) { get; set; } | Mendapatkan atau mengatur spasi karakter. |
+| [CharSpacing](../../aspose.pdf.operators/setcharacterspacing/charspacing/) { get; set; } | Mendapatkan atau mengatur jarak karakter. |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Indeks operator dalam daftar operator halaman. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/setcharacterspacing/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks dari operator dan parameternya. |
+| override [Accept](../../aspose.pdf.operators/setcharacterspacing/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks operator dan parameternya. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [TextStateOperator](../textstateoperator/)
+* class [TextStateOperator](../textstateoperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

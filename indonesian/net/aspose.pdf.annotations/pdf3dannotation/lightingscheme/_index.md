@@ -1,12 +1,12 @@
 ---
-title: PDF3DAnnotation.LightingScheme
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PDF3DAnnotation. Mendapatkan skema pencahayaan
+title: "PDF3DAnnotation.LightingScheme"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PDF3DAnnotation. Mendapatkan skema pencahayaan"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.annotations/pdf3dannotation/lightingscheme/
 ---
-## Properti PDF3DAnnotation.LightingScheme
+## PDF3DAnnotation.LightingScheme property
 
 Mendapatkan skema pencahayaan.
 
@@ -14,13 +14,15 @@ Mendapatkan skema pencahayaan.
 public PDF3DLightingScheme LightingScheme { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Skema pencahayaan.
 
 ### Lihat Juga
 
-* kelas [PDF3DLightingScheme](../../pdf3dlightingscheme/)
-* kelas [PDF3DAnnotation](../)
+* class [PDF3DLightingScheme](../../pdf3dlightingscheme/)
+* class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

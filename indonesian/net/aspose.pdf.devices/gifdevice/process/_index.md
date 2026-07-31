@@ -1,14 +1,14 @@
 ---
-title: GifDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Metode GifDevice. Mengonversi halaman menjadi gif dan menyimpannya di aliran keluaran
+title: "GifDevice.Process"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode GifDevice. Mengonversi halaman menjadi gif dan menyimpannya ke aliran output"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.devices/gifdevice/process/
 ---
-## Metode GifDevice.Process
+## GifDevice.Process method
 
-Mengonversi halaman menjadi gif dan menyimpannya di aliran keluaran.
+Mengonversi halaman menjadi gif dan menyimpannya di aliran output.
 
 ```csharp
 public override void Process(Page page, Stream output)
@@ -16,12 +16,14 @@ public override void Process(Page page, Stream output)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Halaman | Halaman yang akan dikonversi. |
-| output | Aliran | Aliran keluaran dengan gambar gif. |
+| halaman | Halaman | Halaman yang akan dikonversi. |
+| output | Stream | Aliran keluaran dengan gambar gif. |
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [GifDevice](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [GifDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

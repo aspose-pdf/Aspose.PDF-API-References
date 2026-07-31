@@ -1,12 +1,12 @@
 ---
-title: Color.Parse
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Color. Mengekstrak komponen warna dari string
+title: "Color.Parse"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Color. Mengekstrak komponen warna dari string"
 type: docs
 weight: 1480
 url: /id/net/aspose.pdf/color/parse/
 ---
-## Metode Color.Parse
+## Color.Parse method
 
 Mengekstrak komponen warna dari string.
 
@@ -16,14 +16,16 @@ public static Color Parse(string value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | String | Nilai string dengan komponen warna. |
+| nilai | String | Nilai string dengan nilai komponen warna. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Objek Color.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

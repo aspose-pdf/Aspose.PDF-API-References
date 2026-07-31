@@ -1,12 +1,12 @@
 ---
-title: Document.ProcessParagraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Dokumen. Proses paragraf untuk generator
+title: "Document.ProcessParagraphs"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Document. Memproses paragraf untuk generator"
 type: docs
-weight: 780
+weight: 800
 url: /id/net/aspose.pdf/document/processparagraphs/
 ---
-## Metode Document.ProcessParagraphs
+## Document.ProcessParagraphs method
 
 Proses paragraf untuk generator.
 
@@ -16,6 +16,8 @@ public void ProcessParagraphs()
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

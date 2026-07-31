@@ -1,12 +1,12 @@
 ---
-title: Interface IPluginOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Antarmuka Aspose.Pdf.Plugins.IPluginOptions. Antarmuka opsi plugin umum yang mendefinisikan metode umum yang harus diimplementasikan oleh opsi plugin konkret
+title: "Antarmuka IPluginOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Plugins.IPluginOptions antarmuka. Antarmuka opsi plugin umum yang mendefinisikan metode umum yang harus diimplementasikan oleh opsi plugin konkret"
 type: docs
-weight: 8870
+weight: 9000
 url: /id/net/aspose.pdf.plugins/ipluginoptions/
 ---
-## Antarmuka IPluginOptions
+## IPluginOptions interface
 
 Antarmuka opsi plugin umum yang mendefinisikan metode umum yang harus diimplementasikan oleh opsi plugin konkret.
 
@@ -18,3 +18,5 @@ public interface IPluginOptions
 
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

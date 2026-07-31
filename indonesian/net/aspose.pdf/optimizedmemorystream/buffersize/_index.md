@@ -1,25 +1,27 @@
 ---
-title: OptimizedMemoryStream.BufferSize
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OptimizedMemoryStream. Mendapatkan atau mengatur ukuran buffer yang mendasarinya
+title: "OptimizedMemoryStream.BufferSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OptimizedMemoryStream. Mendapatkan atau menetapkan ukuran buffer dasar"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/optimizedmemorystream/buffersize/
 ---
-## Properti OptimizedMemoryStream.BufferSize
+## OptimizedMemoryStream.BufferSize property
 
-Mendapatkan atau mengatur ukuran buffer yang mendasarinya.
+Mendapatkan atau mengatur ukuran buffer yang mendasari.
 
 ```csharp
 public int BufferSize { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Ukuran buffer.
 
 ### Lihat Juga
 
-* kelas [OptimizedMemoryStream](../)
+* class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

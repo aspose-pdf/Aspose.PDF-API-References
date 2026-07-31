@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.PrintDocument
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfViewer. Mencetak dokumen Pdf menggunakan printer default
+title: "PdfViewer.PrintDocument"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfViewer. Mencetak dokumen PDF menggunakan printer default"
 type: docs
 weight: 320
 url: /id/net/aspose.pdf.facades/pdfviewer/printdocument/
 ---
-## Metode PdfViewer.PrintDocument
+## PdfViewer.PrintDocument method
 
 Mencetak dokumen Pdf menggunakan printer default.
 
@@ -38,6 +38,8 @@ iewer.ClosePdfFile()
 
 ### Lihat Juga
 
-* kelas [PdfViewer](../)
+* class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

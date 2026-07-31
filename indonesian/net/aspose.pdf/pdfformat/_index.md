@@ -1,12 +1,12 @@
 ---
-title: Enum PdfFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.PdfFormat. Kelas ini mewakili format pdf
+title: "Enum PdfFormat"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.PdfFormat enum. Kelas ini mewakili format pdf"
 type: docs
-weight: 8370
+weight: 8510
 url: /id/net/aspose.pdf/pdfformat/
 ---
-## Enumerasi PdfFormat
+## PdfFormat enumeration
 
 Kelas ini mewakili format pdf.
 
@@ -39,13 +39,15 @@ public enum PdfFormat
 | PDF_X_1A_2001 | `18` |  |
 | PDF_X_1A | `19` |  |
 | PDF_X_3 | `20` |  |
-| ZUGFeRD | `21` | Format ZUGFeRD |
-| PDF_A_4 | `22` | Format PDF/A-4 |
-| PDF_A_4E | `23` | Format PDF/A-4e |
-| PDF_A_4F | `24` | Format PDF/A-4f |
-| PDF_X_4 | `25` | Format PDF/X-4 |
+| ZUGFeRD | `21` | format ZUGFeRD |
+| PDF_A_4 | `22` | format PDF/A-4 |
+| PDF_A_4E | `23` | format PDF/A-4e |
+| PDF_A_4F | `24` | format PDF/A-4f |
+| PDF_X_4 | `25` | format PDF/X-4 |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

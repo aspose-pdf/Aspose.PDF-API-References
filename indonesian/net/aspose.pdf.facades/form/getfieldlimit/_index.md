@@ -1,14 +1,14 @@
 ---
-title: Form.GetFieldLimit
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Mendapatkan batasan dari field teks
+title: "Form.GetFieldLimit"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Dapatkan batasan bidang teks"
 type: docs
 weight: 230
 url: /id/net/aspose.pdf.facades/form/getfieldlimit/
 ---
-## Metode Form.GetFieldLimit
+## Form.GetFieldLimit method
 
-Mendapatkan batasan dari field teks.
+Dapatkan batasan bidang teks.
 
 ```csharp
 public int GetFieldLimit(string fieldName)
@@ -16,11 +16,11 @@ public int GetFieldLimit(string fieldName)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Nama field yang memenuhi syarat. |
+| fieldName | String | Nama bidang yang memenuhi syarat. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Mengembalikan jumlah karakter batasan yang dapat diisi dalam field teks. Jika tidak diatur, mengembalikan 0.
+Kembalikan jumlah batas karakter yang dapat diisi pada bidang teks. Jika tidak disetel, kembalikan 0.
 
 ## Contoh
 
@@ -31,6 +31,8 @@ Console.WriteLine(form.GetFieldLimit("textfieldBox"));
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

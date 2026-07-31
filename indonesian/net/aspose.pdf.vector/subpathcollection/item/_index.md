@@ -1,14 +1,14 @@
 ---
-title: Item
-second_title: Aspose.PDF for .NET API Reference
-description: Mengambil elemen SubPath pada indeks yang ditentukan.
+title: "Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Mendapatkan elemen SubPath pada indeks yang ditentukan."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.vector/subpathcollection/item/
 ---
 ## SubPathCollection indexer
 
-Mengambil elemen SubPath pada indeks yang ditentukan.
+Mendapatkan elemen SubPath pada indeks yang ditentukan.
 
 ```csharp
 public SubPath this[int index] { get; }
@@ -18,7 +18,7 @@ public SubPath this[int index] { get; }
 | --- | --- |
 | index | Indeks dalam koleksi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Objek SubPath.
 

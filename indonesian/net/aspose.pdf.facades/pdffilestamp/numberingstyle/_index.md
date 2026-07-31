@@ -1,14 +1,14 @@
 ---
-title: PdfFileStamp.NumberingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFileStamp. Mengambil atau mengatur gaya penomoran halaman. Nilai yang mungkin NumeralsArabic, NumeralsRomanUppercase, NumeralsRomanLowercase, LettersAppercase, LettersLowercase
+title: "PdfFileStamp.NumberingStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFileStamp. Mendapatkan atau mengatur gaya penomoran halaman. Nilai yang mungkin NumeralsArabic NumeralsRomanUppercase NumeralsRomanLowercase LettersAppercase LettersLowercase"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.facades/pdffilestamp/numberingstyle/
 ---
-## Properti PdfFileStamp.NumberingStyle
+## PdfFileStamp.NumberingStyle property
 
-Mengambil atau mengatur gaya penomoran halaman. Nilai yang mungkin: NumeralsArabic, NumeralsRomanUppercase, NumeralsRomanLowercase, LettersAppercase, LettersLowercase
+Mendapatkan atau mengatur gaya penomoran halaman. Nilai yang mungkin: NumeralsArabic, NumeralsRomanUppercase, NumeralsRomanLowercase, LettersAppercase, LettersLowercase
 
 ```csharp
 public NumberingStyle NumberingStyle { get; set; }
@@ -20,3 +20,5 @@ public NumberingStyle NumberingStyle { get; set; }
 * class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

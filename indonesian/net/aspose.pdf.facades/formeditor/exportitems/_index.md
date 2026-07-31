@@ -1,14 +1,14 @@
 ---
-title: FormEditor.ExportItems
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FormEditor. Mengatur opsi untuk kotak kombo dengan nilai ekspor
+title: "FormEditor.ExportItems"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FormEditor. Mengatur opsi untuk kotak kombo dengan nilai ekspor"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.facades/formeditor/exportitems/
 ---
-## Properti FormEditor.ExportItems
+## FormEditor.ExportItems property
 
-Mengatur opsi untuk kotak kombo dengan nilai ekspor.
+Mengatur opsi untuk combo box dengan nilai ekspor.
 
 ```csharp
 public string[][] ExportItems { get; set; }
@@ -30,6 +30,8 @@ formEditor.Save();
 
 ### Lihat Juga
 
-* kelas [FormEditor](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TiffOptions.TiffOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor TiffOptions. Konstruktor default
+title: "TiffOptions.TiffOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor TiffOptions. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/tiffoptions/tiffoptions/
 ---
-## Konstruktor TiffOptions
+## TiffOptions constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public TiffOptions()
 
 ### Lihat Juga
 
-* kelas [TiffOptions](../)
+* class [TiffOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

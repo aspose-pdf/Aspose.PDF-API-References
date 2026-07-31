@@ -1,14 +1,14 @@
 ---
-title: CompromiseCheckResult.SignaturesCoverage
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CompromiseCheckResult. Mendapatkan status cakupan tanda tangan digital dalam sebuah dokumen. Jika nilainya sama dengan Undefined, maka salah satu tanda tangan telah dikompromikan
+title: "CompromiseCheckResult.SignaturesCoverage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CompromiseCheckResult. Mendapatkan status cakupan tanda tangan digital dalam dokumen. Jika nilainya sama dengan Undefined maka salah satu tanda tangan terkompromi"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.signatures/compromisecheckresult/signaturescoverage/
 ---
-## Properti CompromiseCheckResult.SignaturesCoverage
+## CompromiseCheckResult.SignaturesCoverage property
 
-Mendapatkan status cakupan tanda tangan digital dalam sebuah dokumen. Jika nilainya sama dengan Undefined, maka salah satu tanda tangan telah dikompromikan.
+Mendapatkan status cakupan tanda tangan digital dalam Document. Jika sama dengan Undefined, maka salah satu tanda tangan dikompromikan.
 
 ```csharp
 public SignaturesCoverage SignaturesCoverage { get; }
@@ -20,3 +20,5 @@ public SignaturesCoverage SignaturesCoverage { get; }
 * class [CompromiseCheckResult](../)
 * namespace [Aspose.Pdf.Signatures](../../../aspose.pdf.signatures/)
 * assembly [Aspose.PDF](../../../)
+
+

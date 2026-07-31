@@ -1,12 +1,12 @@
 ---
-title: TeXLoadOptions.DateTime
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TeXLoadOptions. Mendapatkan/mengatur nilai tertentu untuk primitif tanggal/waktu seperti tahun, bulan, hari, dan waktu
+title: "TeXLoadOptions.DateTime"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TeXLoadOptions. Mendapatkan/mengatur nilai tertentu untuk primitif tanggal/waktu seperti tahun, bulan, hari, dan waktu"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/texloadoptions/datetime/
 ---
-## Properti TeXLoadOptions.DateTime
+## TeXLoadOptions.DateTime property
 
 Mendapatkan/mengatur nilai tertentu untuk primitif tanggal/waktu seperti tahun, bulan, hari, dan waktu.
 
@@ -16,6 +16,8 @@ public DateTime DateTime { get; set; }
 
 ### Lihat Juga
 
-* kelas [TeXLoadOptions](../)
+* class [TeXLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

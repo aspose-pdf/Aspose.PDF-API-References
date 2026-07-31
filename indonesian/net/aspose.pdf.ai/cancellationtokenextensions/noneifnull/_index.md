@@ -1,14 +1,14 @@
 ---
-title: CancellationTokenExtensions.NoneIfNull
-second_title: Aspose.PDF for .NET API Reference
-description: Metode CancellationTokenExtensions. Mengembalikan CancellationToken.None jika CancellationToken input adalah null, jika tidak mengembalikan CancellationToken input
+title: "CancellationTokenExtensions.NoneIfNull"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode CancellationTokenExtensions. Mengembalikan CancellationToken.None jika CancellationToken masukan bernilai null, jika tidak mengembalikan CancellationToken masukan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/cancellationtokenextensions/noneifnull/
 ---
-## Metode CancellationTokenExtensions.NoneIfNull
+## CancellationTokenExtensions.NoneIfNull method
 
-Mengembalikan CancellationToken.None jika CancellationToken input adalah null; jika tidak, mengembalikan CancellationToken input.
+Mengembalikan CancellationToken.None jika CancellationToken masukan bernilai null; jika tidak, mengembalikan CancellationToken masukan.
 
 ```csharp
 public static CancellationToken NoneIfNull(this CancellationToken? cancellationToken)
@@ -16,14 +16,16 @@ public static CancellationToken NoneIfNull(this CancellationToken? cancellationT
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| cancellationToken | Nullable`1 | CancellationToken input (nullable). |
+| cancellationToken | Nullable`1 | CancellationToken masukan (nullable). |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Nilai CancellationToken berdasarkan input.
+Nilai CancellationToken berdasarkan masukan.
 
 ### Lihat Juga
 
-* kelas [CancellationTokenExtensions](../)
+* class [CancellationTokenExtensions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

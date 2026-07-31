@@ -1,14 +1,14 @@
 ---
-title: StructureElement.SetTag
-second_title: Aspose.PDF for .NET API Reference
-description: Metode StructureElement. Mengatur tag kustom untuk elemen struktur
+title: "StructureElement.SetTag"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode StructureElement. Menetapkan tag khusus untuk elemen struktur"
 type: docs
 weight: 170
 url: /id/net/aspose.pdf.logicalstructure/structureelement/settag/
 ---
-## Metode StructureElement.SetTag
+## StructureElement.SetTag method
 
-Mengatur tag kustom untuk elemen struktur.
+Mengatur tag khusus untuk elemen struktur.
 
 ```csharp
 public void SetTag(string newTag)
@@ -20,6 +20,8 @@ public void SetTag(string newTag)
 
 ### Lihat Juga
 
-* kelas [StructureElement](../)
+* class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

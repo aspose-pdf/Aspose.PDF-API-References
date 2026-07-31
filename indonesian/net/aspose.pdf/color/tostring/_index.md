@@ -1,25 +1,27 @@
 ---
-title: Color.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Color. Mengonversi ke string
+title: "Color.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Color. Mengonversi ke string"
 type: docs
 weight: 1550
 url: /id/net/aspose.pdf/color/tostring/
 ---
-## Metode Color.ToString
+## Color.ToString method
 
-Mengonversi ke string.
+Mengonversi menjadi string.
 
 ```csharp
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Representasi string dari objek Color.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

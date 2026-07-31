@@ -1,14 +1,14 @@
 ---
-title: FormFieldOptions.Exportable
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FormFieldOptions. Mendapatkan/mengatur nilai untuk menentukan apakah field yang dibuat/dimodifikasi dapat diekspor atau tidak
+title: "FormFieldOptions.Exportable"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FormFieldOptions. Mendapatkan/mengatur nilai untuk menentukan apakah bidang yang dibuat/dimodifikasi dapat diekspor atau tidak jika akan diatur."
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.plugins/formfieldoptions/exportable/
 ---
-## Properti FormFieldOptions.Exportable
+## FormFieldOptions.Exportable property
 
-Mendapatkan/mengatur nilai untuk menentukan apakah field yang dibuat/dimodifikasi dapat diekspor atau tidak (jika akan diatur).
+Mendapatkan/mengatur nilai untuk menentukan apakah bidang yang dibuat/diubah dapat diekspor atau tidak (jika akan diatur).
 
 ```csharp
 public bool? Exportable { get; set; }
@@ -16,6 +16,8 @@ public bool? Exportable { get; set; }
 
 ### Lihat Juga
 
-* kelas [FormFieldOptions](../)
+* class [FormFieldOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

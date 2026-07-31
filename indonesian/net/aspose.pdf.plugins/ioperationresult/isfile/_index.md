@@ -1,12 +1,12 @@
 ---
-title: IOperationResult.IsFile
-second_title: Aspose.PDF for .NET API Reference
-description: Properti IOperationResult. Menunjukkan apakah hasilnya adalah jalur ke file output
+title: "IOperationResult.IsFile"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti IOperationResult. Menunjukkan apakah hasil berupa jalur ke file keluaran."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/ioperationresult/isfile/
 ---
-## Properti IOperationResult.IsFile
+## IOperationResult.IsFile property
 
 Menunjukkan apakah hasilnya adalah jalur ke file output.
 
@@ -14,12 +14,14 @@ Menunjukkan apakah hasilnya adalah jalur ke file output.
 public bool IsFile { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-`true` jika hasilnya adalah sebuah file; jika tidak `false`.
+`true` jika hasilnya berupa file; jika tidak, `false`.
 
 ### Lihat Juga
 
-* antarmuka [IOperationResult](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* interface [IOperationResult](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

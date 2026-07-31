@@ -1,14 +1,14 @@
 ---
-title: JavaScriptCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti JavaScriptCollection. Mengambil atau mengatur JavaScript dari koleksi berdasarkan kuncinya
+title: "JavaScriptCollection.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti JavaScriptCollection. Mendapatkan atau mengatur JavaScript dari koleksi berdasarkan kuncinya"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/javascriptcollection/item/
 ---
-## Indeks JavaScriptCollection
+## JavaScriptCollection indexer
 
-Mengambil atau mengatur JavaScript dari koleksi berdasarkan kuncinya.
+Mendapatkan atau mengatur JavaScript dari koleksi berdasarkan kuncinya.
 
 ```csharp
 public string this[string key] { get; set; }
@@ -16,14 +16,16 @@ public string this[string key] { get; set; }
 
 | Parameter | Deskripsi |
 | --- | --- |
-| key | Nilai kunci. |
+| kunci | Nilai kunci. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Koleksi Javascript.
 
 ### Lihat Juga
 
-* kelas [JavaScriptCollection](../)
+* class [JavaScriptCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

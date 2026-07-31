@@ -1,14 +1,14 @@
 ---
-title: ImagePlacement.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ImagePlacement. Mendapatkan resolusi dari Gambar
+title: "ImagePlacement.Resolution"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ImagePlacement. Mendapatkan resolusi Image"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/imageplacement/resolution/
 ---
-## Properti ImagePlacement.Resolution
+## ImagePlacement.Resolution property
 
-Mendapatkan resolusi dari Gambar.
+Mendapatkan resolusi gambar.
 
 ```csharp
 public Resolution Resolution { get; }
@@ -16,7 +16,9 @@ public Resolution Resolution { get; }
 
 ### Lihat Juga
 
-* kelas [Resolution](../../../aspose.pdf.devices/resolution/)
-* kelas [ImagePlacement](../)
+* class [Resolution](../../../aspose.pdf.devices/resolution/)
+* class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

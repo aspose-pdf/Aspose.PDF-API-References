@@ -1,12 +1,12 @@
 ---
-title: HtmlToPdfOptions.OperationName
-second_title: Aspose.PDF for .NET API Reference
-description: Properti HtmlToPdfOptions. Mendapatkan nama operasi
+title: "HtmlToPdfOptions.OperationName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "HtmlToPdfOptions properti. Mendapatkan nama operasi"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.plugins/htmltopdfoptions/operationname/
 ---
-## Properti HtmlToPdfOptions.OperationName
+## HtmlToPdfOptions.OperationName property
 
 Mendapatkan nama operasi.
 
@@ -16,6 +16,8 @@ public override string OperationName { get; }
 
 ### Lihat Juga
 
-* kelas [HtmlToPdfOptions](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [HtmlToPdfOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionSchema.GetProperty
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XmpPdfAExtensionSchema. Mengembalikan properti PDF/A berdasarkan namanya
+title: "XmpPdfAExtensionSchema.GetProperty"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode XmpPdfAExtensionSchema. Mengembalikan properti PDF/A berdasarkan namanya"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/xmppdfaextensionschema/getproperty/
 ---
-## Metode XmpPdfAExtensionSchema.GetProperty
+## XmpPdfAExtensionSchema.GetProperty method
 
 Mengembalikan properti PDF/A berdasarkan namanya.
 
@@ -16,15 +16,17 @@ public XmpPdfAExtensionProperty GetProperty(string name)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| name | String | Nama properti. |
+| nama | String | Nama properti. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Properti tersebut.
 
 ### Lihat Juga
 
-* kelas [XmpPdfAExtensionProperty](../../xmppdfaextensionproperty/)
-* kelas [XmpPdfAExtensionSchema](../)
+* class [XmpPdfAExtensionProperty](../../xmppdfaextensionproperty/)
+* class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

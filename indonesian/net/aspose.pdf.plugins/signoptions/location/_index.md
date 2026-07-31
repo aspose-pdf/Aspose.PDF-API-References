@@ -1,12 +1,12 @@
 ---
-title: SignOptions.Location
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SignOptions. Lokasi tanda tangan
+title: "SignOptions.Location"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "SignOptions property. Lokasi tanda tangan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.plugins/signoptions/location/
 ---
-## Properti SignOptions.Location
+## SignOptions.Location property
 
 Lokasi tanda tangan.
 
@@ -16,6 +16,8 @@ public string Location { get; set; }
 
 ### Lihat Juga
 
-* kelas [SignOptions](../)
+* class [SignOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

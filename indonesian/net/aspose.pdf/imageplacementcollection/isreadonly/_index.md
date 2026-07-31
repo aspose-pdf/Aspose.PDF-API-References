@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ImagePlacementCollection. Mendapatkan nilai yang menunjukkan apakah koleksi bersifat hanya-baca
+title: "ImagePlacementCollection.IsReadOnly"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ImagePlacementCollection properti. Mengembalikan nilai yang menunjukkan apakah koleksi bersifat hanya baca"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/imageplacementcollection/isreadonly/
 ---
-## Properti ImagePlacementCollection.IsReadOnly
+## ImagePlacementCollection.IsReadOnly property
 
-Mendapatkan nilai yang menunjukkan apakah koleksi bersifat hanya-baca.
+Mendapatkan nilai yang menunjukkan apakah koleksi bersifat read-only.
 
 ```csharp
 public bool IsReadOnly { get; }
@@ -16,6 +16,8 @@ public bool IsReadOnly { get; }
 
 ### Lihat Juga
 
-* kelas [ImagePlacementCollection](../)
+* class [ImagePlacementCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

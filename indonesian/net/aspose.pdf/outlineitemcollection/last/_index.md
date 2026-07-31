@@ -1,12 +1,12 @@
 ---
-title: OutlineItemCollection.Last
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OutlineItemCollection. Mendapatkan item outline yang mewakili item tingkat atas terakhir dalam hierarki outline
+title: "OutlineItemCollection.Last"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OutlineItemCollection properti. Mendapatkan item outline yang mewakili item tingkat atas terakhir dalam hierarki outline"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf/outlineitemcollection/last/
 ---
-## Properti OutlineItemCollection.Last
+## OutlineItemCollection.Last property
 
 Mendapatkan item outline yang mewakili item tingkat atas terakhir dalam hierarki outline.
 
@@ -16,6 +16,8 @@ public OutlineItemCollection Last { get; }
 
 ### Lihat Juga
 
-* kelas [OutlineItemCollection](../)
+* class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

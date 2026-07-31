@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.MovePosition
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfPageEditor. Memindahkan titik asal dari 0 0 ke titik yang ditunjuk. Titik asal berada di kiri-bawah dan satuannya adalah point. 1 inci = 72 poin
+title: "PdfPageEditor.MovePosition"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfPageEditor method. Memindahkan asal dari 0 0 ke titik yang ditunjuk. Asal berada di kiri-bawah dan satuannya adalah point1 inch  72 points"
 type: docs
 weight: 170
 url: /id/net/aspose.pdf.facades/pdfpageeditor/moveposition/
 ---
-## Metode PdfPageEditor.MovePosition
+## PdfPageEditor.MovePosition method
 
-Memindahkan titik asal dari (0, 0) ke titik yang ditunjuk. Titik asal berada di kiri-bawah dan satuannya adalah point(1 inci = 72 poin).
+Memindahkan asal dari (0, 0) ke titik yang ditunjuk. Asal berada di kiri-bawah dan satuannya adalah point (1 inci = 72 point).
 
 ```csharp
 public void MovePosition(float moveX, float moveY)
@@ -16,8 +16,8 @@ public void MovePosition(float moveX, float moveY)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| moveX | Single | Koordinat-X. |
-| moveY | Single | Koordinat-Y. |
+| moveX | Single | Koordinat X. |
+| moveY | Single | Koordinat Y. |
 
 ## Contoh
 
@@ -30,6 +30,8 @@ editor.Save("moved.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfPageEditor](../)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

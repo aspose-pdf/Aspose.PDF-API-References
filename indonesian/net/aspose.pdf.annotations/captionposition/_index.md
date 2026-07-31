@@ -1,14 +1,14 @@
 ---
-title: Enum CaptionPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Enum CaptionPosition dari Aspose.Pdf.Annotations. Enumerasi posisi caption anotasi
+title: "Enum CaptionPosition"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Annotations.CaptionPosition enum. Enumerasi penempatan keterangan anotasi."
 type: docs
-weight: 1550
+weight: 1640
 url: /id/net/aspose.pdf.annotations/captionposition/
 ---
-## Enumerasi CaptionPosition
+## CaptionPosition enumeration
 
-Enumerasi posisi caption dari anotasi.
+Enumerasi posisi keterangan anotasi.
 
 ```csharp
 public enum CaptionPosition
@@ -18,10 +18,12 @@ public enum CaptionPosition
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Inline | `0` | Caption akan dipusatkan di dalam garis (nilai default). |
-| Top | `1` | Caption akan berada di atas garis. |
+| Inline | `0` | Keterangan akan dipusatkan di dalam garis (nilai default). |
+| Top | `1` | Keterangan akan berada di atas garis. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

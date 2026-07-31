@@ -1,14 +1,14 @@
 ---
-title: PolyAnnotation.Vertices
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PolyAnnotation. Mengambil atau mengatur array titik yang mewakili koordinat horizontal dan vertikal dari setiap sudut
+title: "PolyAnnotation.Vertices"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PolyAnnotation. Mendapatkan atau mengatur array titik yang mewakili koordinat horizontal dan vertikal setiap simpul"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.annotations/polyannotation/vertices/
 ---
-## Properti PolyAnnotation.Vertices
+## PolyAnnotation.Vertices property
 
-Mengambil atau mengatur array titik yang mewakili koordinat horizontal dan vertikal dari setiap sudut.
+Mendapatkan atau mengatur array titik yang mewakili koordinat horizontal dan vertikal setiap vertex.
 
 ```csharp
 public Point[] Vertices { get; set; }
@@ -16,7 +16,9 @@ public Point[] Vertices { get; set; }
 
 ### Lihat Juga
 
-* kelas [Point](../../../aspose.pdf/point/)
-* kelas [PolyAnnotation](../)
+* class [Point](../../../aspose.pdf/point/)
+* class [PolyAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

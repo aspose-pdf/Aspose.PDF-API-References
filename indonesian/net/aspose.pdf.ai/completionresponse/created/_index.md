@@ -1,14 +1,14 @@
 ---
-title: CompletionResponse.Created
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CompletionResponse. Mendapatkan atau mengatur timestamp Unix dalam detik ketika penyelesaian obrolan dibuat
+title: "CompletionResponse.Created"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CompletionResponse. Mendapatkan atau mengatur cap waktu Unix dalam detik saat penyelesaian obrolan dibuat"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/completionresponse/created/
 ---
-## Properti CompletionResponse.Created
+## CompletionResponse.Created property
 
-Mendapatkan atau mengatur timestamp Unix (dalam detik) ketika penyelesaian obrolan dibuat.
+Mendapatkan atau mengatur cap waktu Unix (dalam detik) saat penyelesaian obrolan dibuat.
 
 ```csharp
 public long Created { get; set; }
@@ -16,6 +16,8 @@ public long Created { get; set; }
 
 ### Lihat Juga
 
-* kelas [CompletionResponse](../)
+* class [CompletionResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

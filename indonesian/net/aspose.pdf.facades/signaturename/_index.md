@@ -1,12 +1,12 @@
 ---
-title: Class SignatureName
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Facades.SignatureName. Mewakili kelas untuk nama tanda tangan
+title: "Kelas SignatureName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Facades.SignatureName. Mewakili kelas untuk nama tanda tangan"
 type: docs
-weight: 4710
+weight: 4830
 url: /id/net/aspose.pdf.facades/signaturename/
 ---
-## Kelas SignatureName
+## SignatureName class
 
 Mewakili kelas untuk nama tanda tangan.
 
@@ -32,14 +32,16 @@ public sealed class SignatureName
 
 | Nama | Deskripsi |
 | --- | --- |
-| readonly [FullName](../../aspose.pdf.facades/signaturename/fullname/) | Mendapatkan nama lengkap dari tanda tangan, memberikan pengidentifikasi yang unik dan tepat untuk bidang tanda tangan. |
-| readonly [Name](../../aspose.pdf.facades/signaturename/name/) | Mendapatkan nama dari sebuah tanda tangan. |
+| readonly [FullName](../../aspose.pdf.facades/signaturename/fullname/) | Mendapatkan nama lengkap tanda tangan, menyediakan pengidentifikasi yang unik dan tepat untuk bidang tanda tangan. |
+| readonly [Name](../../aspose.pdf.facades/signaturename/name/) | Mendapatkan nama tanda tangan. |
 
 ## Catatan
 
-Mewakili nama tanda tangan yang lebih tepat. Digunakan sebagai pengganti nama string. Memungkinkan Anda untuk menyajikan tanda tangan dengan nama string yang sama.
+Mewakili nama tanda tangan yang lebih tepat. Digunakan sebagai pengganti nama string. Memungkinkan Anda menampilkan tanda tangan dengan nama string yang sama.
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

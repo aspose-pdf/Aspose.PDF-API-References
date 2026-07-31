@@ -1,12 +1,12 @@
 ---
-title: OptimizedMemoryStream.ToArray
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OptimizedMemoryStream. Mengonversi aliran saat ini menjadi array byte
+title: "OptimizedMemoryStream.ToArray"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OptimizedMemoryStream. Mengonversi aliran saat ini menjadi array byte"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf/optimizedmemorystream/toarray/
 ---
-## Metode OptimizedMemoryStream.ToArray
+## OptimizedMemoryStream.ToArray method
 
 Mengonversi aliran saat ini menjadi array byte.
 
@@ -14,12 +14,14 @@ Mengonversi aliran saat ini menjadi array byte.
 public byte[] ToArray()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Sebuah array byte
 
 ### Lihat Juga
 
-* kelas [OptimizedMemoryStream](../)
+* class [OptimizedMemoryStream](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: RadioButtonField.RadioButtonField
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor RadioButtonField. Konstruktor untuk RadioButtonField
+title: "RadioButtonField.RadioButtonField"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor RadioButtonField. Konstruktor untuk RadiouttonField."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.forms/radiobuttonfield/radiobuttonfield/
 ---
 ## RadioButtonField(Page) {#constructor_1}
 
-Konstruktor untuk RadioButtonField
+Konstruktor untuk RadiouttonField
 
 ```csharp
 public RadioButtonField(Page page)
@@ -16,7 +16,7 @@ public RadioButtonField(Page page)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman di mana tombol radio akan ditempatkan. |
+| halaman | Halaman | Halaman tempat tombol radio akan ditempatkan. |
 
 ### Lihat Juga
 
@@ -37,7 +37,7 @@ public RadioButtonField(Document doc)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| doc | Document | Dokumen di mana tombol radio akan dibuat. |
+| doc | Document | Dokumen tempat tombol radio akan dibuat. |
 
 ### Lihat Juga
 
@@ -45,3 +45,5 @@ public RadioButtonField(Document doc)
 * class [RadioButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

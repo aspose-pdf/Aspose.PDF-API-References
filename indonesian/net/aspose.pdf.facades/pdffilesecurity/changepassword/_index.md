@@ -1,14 +1,14 @@
 ---
-title: PdfFileSecurity.ChangePassword
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileSecurity. Mengubah kata sandi pengguna dan kata sandi pemilik dengan kata sandi pemilik yang mempertahankan pengaturan keamanan asli. Kata sandi pengguna baru dan kata sandi pemilik baru dapat bernilai null atau kosong. Kata sandi pemilik akan diganti dengan string acak jika kata sandi pemilik baru bernilai null atau kosong. Menghasilkan pengecualian jika proses gagal
+title: "PdfFileSecurity.ChangePassword"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfFileSecurity method. Mengubah kata sandi pengguna dan kata sandi pemilik dengan kata sandi pemilik sambil mempertahankan pengaturan keamanan asli. Kata sandi pengguna baru dan kata sandi pemilik baru dapat bernilai null atau kosong. Kata sandi pemilik akan diganti dengan string acak jika kata sandi pemilik baru bernilai null atau kosong. Melempar pengecualian jika proses gagal"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.facades/pdffilesecurity/changepassword/
 ---
 ## ChangePassword(string, string, string) {#changepassword}
 
-Mengubah kata sandi pengguna dan kata sandi pemilik dengan kata sandi pemilik, mempertahankan pengaturan keamanan asli. Kata sandi pengguna baru dan kata sandi pemilik baru dapat bernilai null atau kosong. Kata sandi pemilik akan diganti dengan string acak jika kata sandi pemilik baru bernilai null atau kosong. Menghasilkan pengecualian jika proses gagal.
+Mengubah kata sandi pengguna dan kata sandi pemilik dengan kata sandi pemilik, mempertahankan pengaturan keamanan asli. Kata sandi pengguna baru dan kata sandi pemilik baru dapat bernilai null atau kosong. Kata sandi pemilik akan diganti dengan string acak jika kata sandi pemilik baru bernilai null atau kosong. Melempar pengecualian jika proses gagal.
 
 ```csharp
 public bool ChangePassword(string ownerPassword, string newUserPassword, string newOwnerPassword)
@@ -20,9 +20,9 @@ public bool ChangePassword(string ownerPassword, string newUserPassword, string 
 | newUserPassword | String | Kata sandi Pengguna baru. |
 | newOwnerPassword | String | Kata sandi Pemilik baru. |
 
-### Return Value
+### Nilai Kembalian
 
-True untuk sukses.
+True untuk keberhasilan.
 
 ## Contoh
 
@@ -50,7 +50,7 @@ True untuk sukses.
 
 ## ChangePassword(string, string, string, DocumentPrivilege, KeySize) {#changepassword_1}
 
-Mengubah kata sandi pengguna dan kata sandi dengan kata sandi pemilik, memungkinkan untuk mereset keamanan dokumen Pdf. Kata sandi pengguna baru dan kata sandi pemilik baru dapat bernilai null atau kosong. Kata sandi pemilik akan diganti dengan string acak jika kata sandi pemilik baru bernilai null atau kosong. Menghasilkan pengecualian jika proses gagal.
+Mengubah kata sandi pengguna dan kata sandi dengan kata sandi pemilik, memungkinkan untuk mereset keamanan dokumen Pdf. Kata sandi pengguna baru dan kata sandi pemilik baru dapat bernilai null atau kosong. Kata sandi pemilik akan diganti dengan string acak jika kata sandi pemilik baru bernilai null atau kosong. Melempar pengecualian jika proses gagal.
 
 ```csharp
 public bool ChangePassword(string ownerPassword, string newUserPassword, string newOwnerPassword, 
@@ -62,12 +62,12 @@ public bool ChangePassword(string ownerPassword, string newUserPassword, string 
 | ownerPassword | String | Kata sandi pemilik asli. |
 | newUserPassword | String | Kata sandi Pengguna baru. |
 | newOwnerPassword | String | Kata sandi Pemilik baru. |
-| privilege | DocumentPrivilege | Reset keamanan. |
-| keySize | KeySize | KeySize.x40 untuk enkripsi 40 bit, KeySize.x128 untuk enkripsi 128 bit dan KeySize.x256 untuk enkripsi 256 bit. |
+| hak | DocumentPrivilege | Atur ulang keamanan. |
+| keySize | KeySize | KeySize.x40 untuk enkripsi 40 bit, KeySize.x128 untuk enkripsi 128 bit, dan KeySize.x256 untuk enkripsi 256 bit. |
 
-### Return Value
+### Nilai Kembalian
 
-True untuk sukses.
+True untuk keberhasilan.
 
 ## Contoh
 
@@ -97,7 +97,7 @@ fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Prin
 
 ## ChangePassword(string, string, string, DocumentPrivilege, KeySize, Algorithm) {#changepassword_2}
 
-Mengubah kata sandi pengguna dan kata sandi dengan kata sandi pemilik, memungkinkan untuk mereset keamanan dokumen Pdf. Kata sandi pengguna baru dan kata sandi pemilik baru dapat bernilai null atau kosong. Kata sandi pemilik akan diganti dengan string acak jika kata sandi pemilik baru bernilai null atau kosong. Ada 6 kombinasi nilai KeySize dan Algorithm yang mungkin. Namun (KeySize.x40, Algorithm.AES) dan (KeySize.x256, Algorithm.RC4) tidak valid dan pengecualian yang sesuai akan diangkat jika kit menemui kombinasi ini. Menghasilkan pengecualian jika proses gagal.
+Mengubah kata sandi pengguna dan kata sandi dengan kata sandi pemilik, memungkinkan untuk mereset keamanan dokumen Pdf. Kata sandi pengguna baru dan kata sandi pemilik baru dapat bernilai null atau kosong. Kata sandi pemilik akan diganti dengan string acak jika kata sandi pemilik baru bernilai null atau kosong. Terdapat 6 kombinasi kemungkinan nilai KeySize dan Algorithm. Namun (KeySize.x40, Algorithm.AES) dan (KeySize.x256, Algorithm.RC4) tidak valid dan pengecualian yang sesuai akan diangkat jika kit menemukan kombinasi ini. Melempar pengecualian jika proses gagal.
 
 ```csharp
 public bool ChangePassword(string ownerPassword, string newUserPassword, string newOwnerPassword, 
@@ -109,13 +109,13 @@ public bool ChangePassword(string ownerPassword, string newUserPassword, string 
 | ownerPassword | String | Kata sandi pemilik asli. |
 | newUserPassword | String | Kata sandi Pengguna baru. |
 | newOwnerPassword | String | Kata sandi Pemilik baru. |
-| privilege | DocumentPrivilege | Reset keamanan. |
-| keySize | KeySize | KeySize.x40 untuk enkripsi 40 bit, KeySize.x128 untuk enkripsi 128 bit dan KeySize.x256 untuk enkripsi 256 bit. |
+| hak | DocumentPrivilege | Atur ulang keamanan. |
+| keySize | KeySize | KeySize.x40 untuk enkripsi 40 bit, KeySize.x128 untuk enkripsi 128 bit, dan KeySize.x256 untuk enkripsi 256 bit. |
 | cipher | Algorithm | Algorithm.AES untuk mengenkripsi menggunakan algoritma AES atau Algorithm.RC4 untuk enkripsi RC4. |
 
-### Return Value
+### Nilai Kembalian
 
-True untuk sukses.
+True untuk keberhasilan.
 
 ## Contoh
 
@@ -141,3 +141,5 @@ fileSecurity.ChangePassword("owner","newuser","newowner", DocumentPrivilege.Prin
 * class [PdfFileSecurity](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

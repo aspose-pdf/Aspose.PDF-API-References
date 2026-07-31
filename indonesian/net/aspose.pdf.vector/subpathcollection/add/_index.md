@@ -1,14 +1,14 @@
 ---
-title: Add
-second_title: Aspose.PDF for .NET API Reference
-description: Menambahkan objek SubPath baru ke koleksi.
+title: "Tambah"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Menambahkan objek SubPath baru ke dalam koleksi."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.vector/subpathcollection/add/
 ---
-## Metode SubPathCollection.Add
+## SubPathCollection.Add method
 
-Menambahkan objek SubPath baru ke koleksi.
+Menambahkan objek SubPath baru ke dalam koleksi.
 
 ```csharp
 public void Add(SubPath item)
@@ -20,8 +20,8 @@ public void Add(SubPath item)
 
 ### Lihat Juga
 
-* kelas [SubPath](../../subpath)
-* kelas [SubPathCollection](../../subpathcollection)
+* class [SubPath](../../subpath)
+* class [SubPathCollection](../../subpathcollection)
 * namespace [Aspose.Pdf.Vector](../../subpathcollection)
 * assembly [Aspose.PDF](../../../)
 

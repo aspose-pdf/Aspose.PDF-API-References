@@ -1,12 +1,12 @@
 ---
-title: SignOptions.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SignOptions. Nama bidang tanda tangan yang ada. Null untuk membuat bidang baru
+title: "SignOptions.Name"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "SignOptions property. Nama bidang tanda tangan yang ada. Null untuk membuat bidang baru"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.plugins/signoptions/name/
 ---
-## Properti SignOptions.Name
+## SignOptions.Name property
 
 Nama bidang tanda tangan yang ada. Null untuk membuat bidang baru.
 
@@ -16,6 +16,8 @@ public string Name { get; set; }
 
 ### Lihat Juga
 
-* kelas [SignOptions](../)
+* class [SignOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

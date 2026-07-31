@@ -1,14 +1,14 @@
 ---
-title: TabStop.AlignmentType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TabStop. Mendapatkan atau mengatur enum AlignmentType yang menunjukkan jenis perataan tab
+title: "TabStop.AlignmentType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TabStop. Mengambil atau mengatur enum AlignmentType yang menunjukkan tipe perataan tab"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.text/tabstop/alignmenttype/
 ---
-## Properti TabStop.AlignmentType
+## TabStop.AlignmentType property
 
-Mendapatkan atau mengatur enum `AlignmentType` yang menunjukkan jenis perataan tab.
+Mengambil atau mengatur enum `AlignmentType` yang menunjukkan tipe perataan tab.
 
 ```csharp
 public TabAlignmentType AlignmentType { get; set; }
@@ -20,3 +20,5 @@ public TabAlignmentType AlignmentType { get; set; }
 * class [TabStop](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

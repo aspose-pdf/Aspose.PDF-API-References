@@ -1,14 +1,14 @@
 ---
-title: Stamp.IsBackground
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Stamp. Mengambil atau mengatur status latar belakang. Jika benar, cap akan ditempatkan sebagai latar belakang halaman yang dicap. Secara default diatur ke false
+title: "Stamp.IsBackground"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Stamp. Mendapatkan atau mengatur status latar belakang. Jika true, stempel akan ditempatkan sebagai latar belakang halaman yang disegel. Secara default diatur ke false"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.facades/stamp/isbackground/
 ---
-## Properti Stamp.IsBackground
+## Stamp.IsBackground property
 
-Mengambil atau mengatur status latar belakang. Jika benar, cap akan ditempatkan sebagai latar belakang halaman yang dicap. Secara default diatur ke false.
+Mendapatkan atau mengatur status latar belakang. Jika true, stempel akan ditempatkan sebagai latar belakang halaman yang distempel. Secara default diatur ke false.
 
 ```csharp
 public bool IsBackground { get; set; }
@@ -27,6 +27,8 @@ fileStamp.Close();
 
 ### Lihat Juga
 
-* kelas [Stamp](../)
+* class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: XmpValue.ToDateTime
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XmpValue. Mengonversi ke waktu tanggal
+title: "XmpValue.ToDateTime"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode XmpValue. Mengonversi ke tanggal dan waktu"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf/xmpvalue/todatetime/
 ---
-## Metode XmpValue.ToDateTime
+## XmpValue.ToDateTime method
 
-Mengonversi ke waktu tanggal.
+Mengonversi ke tanggal dan waktu.
 
 ```csharp
 public DateTime ToDateTime()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Nilai DateTime.
 
 ### Lihat Juga
 
-* kelas [XmpValue](../)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

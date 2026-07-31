@@ -1,12 +1,12 @@
 ---
-title: ImageDescription.ImageDescription
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor ImageDescription. Konstruktor default
+title: "ImageDescription.ImageDescription"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor ImageDescription. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/imagedescription/imagedescription/
 ---
-## Konstruktor ImageDescription
+## ImageDescription constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public ImageDescription()
 
 ### Lihat Juga
 
-* kelas [ImageDescription](../)
+* class [ImageDescription](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

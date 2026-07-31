@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.AlignStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: PdfFormatConversionOptions field. Strategi untuk menyelaraskan teks. Parameter ini hanya memiliki arti ketika flag [`AlignText`](../aligntext/) disetel ke true
+title: "PdfFormatConversionOptions.AlignStrategy"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfFormatConversionOptions field. Strategi untuk menyelaraskan teks. Parameter ini hanya masuk akal ketika flag AlignText diatur ke true"
 type: docs
-weight: 230
+weight: 240
 url: /id/net/aspose.pdf/pdfformatconversionoptions/alignstrategy/
 ---
 ## PdfFormatConversionOptions.AlignStrategy field
 
-Strategi untuk menyelaraskan teks. Parameter ini hanya memiliki arti ketika flag [`AlignText`](../aligntext/) disetel ke true.
+Strategi untuk menyelaraskan teks. Parameter ini hanya masuk akal ketika flag [`AlignText`](../aligntext/) diatur ke true.
 
 ```csharp
 public SegmentAlignStrategy AlignStrategy;
@@ -20,3 +20,5 @@ public SegmentAlignStrategy AlignStrategy;
 * class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

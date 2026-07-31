@@ -1,25 +1,27 @@
 ---
-title: StructureTextState.Superscript
-second_title: Aspose.PDF for .NET API Reference
-description: Properti StructureTextState. Mengambil atau mengatur superskrip dari teks
+title: "StructureTextState.Superscript"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti StructureTextState. Mengambil atau mengatur superskrip teks"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.logicalstructure/structuretextstate/superscript/
 ---
-## Properti StructureTextState.Superscript
+## StructureTextState.Superscript property
 
-Mengambil atau mengatur superskrip dari teks.
+Mendapatkan atau mengatur superskrip teks.
 
 ```csharp
 public bool? Superscript { get; set; }
 ```
 
-## Keterangan
+## Catatan
 
-Dapat bernilai null. Gunakan null untuk mewarisi properti `Superscript` dari elemen struktur induk.
+Bisa bernilai null. Gunakan null untuk mewarisi properti `Superscript` dari elemen struktur induk.
 
 ### Lihat Juga
 
-* kelas [StructureTextState](../)
-* ruang nama [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureTextState](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

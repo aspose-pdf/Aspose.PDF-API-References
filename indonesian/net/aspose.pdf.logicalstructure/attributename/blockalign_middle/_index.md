@@ -1,14 +1,14 @@
 ---
-title: AttributeName.BlockAlign_Middle
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeName. Atribut BlockAlign Tengah - Anak-anak yang terpusat di dalam sel tabel. Jarak antara tepi sebelum dari persegi alokasi anak pertama dan persegi konten sel tabel harus sama dengan jarak antara tepi setelah dari persegi alokasi anak terakhir dan persegi konten sel tabel.
+title: "AttributeName.BlockAlign_Middle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeName field. Atribut BlockAlign Middle Anak-anak dipusatkan di dalam sel tabel. Jarak antara tepi before dari persegi alokasi anak pertama dan persegi alokasi konten sel tabel harus sama dengan jarak antara tepi after dari persegi alokasi anak terakhir dan persegi alokasi konten sel tabel."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.logicalstructure/attributename/blockalign_middle/
 ---
-## Field AttributeName.BlockAlign_Middle
+## AttributeName.BlockAlign_Middle field
 
-Atribut BlockAlign: Tengah - Anak-anak yang terpusat di dalam sel tabel. Jarak antara tepi sebelum dari persegi alokasi anak pertama dan persegi konten sel tabel harus sama dengan jarak antara tepi setelah dari persegi alokasi anak terakhir dan persegi konten sel tabel.
+Atribut BlockAlign: Middle - Anak-anak diposisikan di tengah sel tabel. Jarak antara tepi sebelum dari persegi alokasi anak pertama dan persegi konten sel tabel harus sama dengan jarak antara tepi setelah dari persegi alokasi anak terakhir dan persegi konten sel tabel.
 
 ```csharp
 public static readonly AttributeName BlockAlign_Middle;
@@ -16,6 +16,8 @@ public static readonly AttributeName BlockAlign_Middle;
 
 ### Lihat Juga
 
-* kelas [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: StructureElement.ChangeParentElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metode StructureElement. Ubah elemen induk untuk elemen struktur saat ini
+title: "StructureElement.ChangeParentElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode StructureElement. Mengubah elemen induk untuk elemen struktur saat ini"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.logicalstructure/structureelement/changeparentelement/
 ---
-## Metode StructureElement.ChangeParentElement
+## StructureElement.ChangeParentElement method
 
 Ubah elemen induk untuk elemen struktur saat ini
 
@@ -22,6 +22,8 @@ public void ChangeParentElement(StructureElement newParentElement,
 
 ### Lihat Juga
 
-* kelas [StructureElement](../)
+* class [StructureElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

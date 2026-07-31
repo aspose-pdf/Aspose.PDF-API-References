@@ -1,14 +1,14 @@
 ---
-title: Enum WordWrapMode
-second_title: Aspose.PDF for .NET API Reference
-description: Enum WordWrapMode Aspose.Pdf.Facades. Mendefinisikan strategi pembungkusan kata
+title: "Enum WordWrapMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Facades.WordWrapMode enum. Mendefinisikan strategi pembungkusan kata"
 type: docs
-weight: 4780
+weight: 4900
 url: /id/net/aspose.pdf.facades/wordwrapmode/
 ---
-## Enumerasi WordWrapMode
+## WordWrapMode enumeration
 
-Mendefinisikan strategi pembungkusan kata
+Mendefinisikan strategi pembungkus kata
 
 ```csharp
 public enum WordWrapMode
@@ -18,10 +18,12 @@ public enum WordWrapMode
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Default | `0` | Algoritma default (memungkinkan pemecahan kata di tengah) |
-| ByWords | `1` | Pembungkusan kata hanya membungkus kata lengkap. Jika kata lengkap tidak dapat dibungkus, mencoba membungkus kata di tengah |
+| Default | `0` | Algoritma default (memungkinkan memutus kata di tengah) |
+| ByWords | `1` | Pembungkusan kata hanya membungkus kata lengkap. Jika kata lengkap tidak dapat dibungkus, akan mencoba membungkus kata di tengah |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

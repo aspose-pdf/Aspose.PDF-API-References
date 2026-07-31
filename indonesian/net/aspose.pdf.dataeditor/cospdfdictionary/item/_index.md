@@ -1,14 +1,14 @@
 ---
-title: CosPdfDictionary.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CosPdfDictionary. Mengambil atau mengatur elemen dengan kunci yang ditentukan
+title: "CosPdfDictionary.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CosPdfDictionary. Mendapatkan atau menetapkan elemen dengan kunci yang ditentukan"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.dataeditor/cospdfdictionary/item/
 ---
 ## CosPdfDictionary indexer
 
-Mengambil atau mengatur elemen dengan kunci yang ditentukan.
+Mendapatkan atau mengatur elemen dengan kunci yang ditentukan.
 
 ```csharp
 public ICosPdfPrimitive this[string key] { get; set; }
@@ -16,23 +16,25 @@ public ICosPdfPrimitive this[string key] { get; set; }
 
 | Parameter | Deskripsi |
 | --- | --- |
-| key | Kunci elemen yang akan diambil atau diatur. |
+| kunci | Kunci elemen yang akan diambil atau ditetapkan. |
 
-### Return Value
+### Nilai Kembalian
 
 Elemen dengan kunci yang ditentukan.
 
-### Exceptions
+### Pengecualian
 
-| exception | kondisi |
+| pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | Kunci adalah null. |
+| ArgumentNullException | Kunci bernilai null. |
 | KeyNotFoundException | Properti diambil dan kunci tidak ditemukan. |
-| ArgumentException | Lempar pengecualian jika kunci tidak dapat diedit/diatur. |
+| ArgumentException | Lemparkan pengecualian jika kunci tidak dapat diedit/disetel. |
 
-### See Also
+### Lihat Juga
 
 * interface [ICosPdfPrimitive](../../icospdfprimitive/)
 * class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

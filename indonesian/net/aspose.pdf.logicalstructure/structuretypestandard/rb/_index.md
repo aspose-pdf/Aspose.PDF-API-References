@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.RB
-second_title: Aspose.PDF for .NET API Reference
-description: Field StructureTypeStandard. Teks dasar Ruby Teks ukuran penuh yang diterapkan pada anotasi ruby. RB dapat berisi teks, elemen inline lainnya, atau campuran keduanya. Ini mungkin memiliki atribut RubyAlign.
+title: "StructureTypeStandard.RB"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "StructureTypeStandard field. Ruby base text Teks ukuran penuh yang menjadi target anotasi ruby. RB dapat berisi teks, elemen inline lainnya, atau campuran keduanya. Itu dapat memiliki RubyAlignattribute."
 type: docs
 weight: 310
 url: /id/net/aspose.pdf.logicalstructure/structuretypestandard/rb/
 ---
-## Field StructureTypeStandard.RB
+## StructureTypeStandard.RB field
 
-(Teks dasar Ruby) Teks ukuran penuh yang diterapkan pada anotasi ruby. RB dapat berisi teks, elemen inline lainnya, atau campuran keduanya. Ini mungkin memiliki atribut RubyAlign.
+(Teks dasar Ruby) Teks berukuran penuh yang diberi anotasi ruby. RB dapat berisi teks, elemen inline lainnya, atau campuran keduanya. Itu dapat memiliki atribut RubyAlign.
 
 ```csharp
 public static readonly StructureTypeStandard RB;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard RB;
 
 ### Lihat Juga
 
-* kelas [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

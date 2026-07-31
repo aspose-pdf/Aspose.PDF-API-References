@@ -1,7 +1,7 @@
 ---
-title: CheckboxField.CheckboxField
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor CheckboxField. Konstruktor untuk kelas CheckboxField
+title: "CheckboxField.CheckboxField"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor CheckboxField. Konstruktor untuk kelas CheckboxField"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.forms/checkboxfield/checkboxfield/
@@ -16,14 +16,14 @@ public CheckboxField(Page page, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman tempat kotak centang akan ditempatkan. |
+| halaman | Halaman | Halaman tempat kotak centang akan ditempatkan. |
 | rect | Rectangle | Posisi dan ukuran kotak centang. |
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [CheckboxField](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [CheckboxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -39,30 +39,14 @@ public CheckboxField(Document doc, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| doc | Document | Dokumen tempat field baru akan dibuat. |
-| rect | Rectangle | Rectangle tempat field baru akan dibuat. |
+| doc | Document | Dokumen tempat bidang baru akan dibuat. |
+| rect | Rectangle | Rectangle tempat bidang baru akan dibuat. |
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [CheckboxField](../)
-* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
-* assembly [Aspose.PDF](../../../)
-
----
-
-## CheckboxField() {#constructor}
-
-Buat instance dari CheckboxField.
-
-```csharp
-public CheckboxField()
-```
-
-### Lihat Juga
-
-* kelas [CheckboxField](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [CheckboxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -78,11 +62,13 @@ public CheckboxField(Document doc)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| doc | Document | Dokumen tempat field akan dibuat. |
+| doc | Document | Document di mana bidang akan dibuat. |
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [CheckboxField](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [CheckboxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

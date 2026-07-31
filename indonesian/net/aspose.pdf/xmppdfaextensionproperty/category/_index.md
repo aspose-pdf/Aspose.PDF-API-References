@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionProperty.Category
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XmpPdfAExtensionProperty. Mendapatkan kategori properti
+title: "XmpPdfAExtensionProperty.Category"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XmpPdfAExtensionProperty. Mendapatkan kategori properti"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/xmppdfaextensionproperty/category/
 ---
-## Properti XmpPdfAExtensionProperty.Kategori
+## XmpPdfAExtensionProperty.Category property
 
 Mendapatkan kategori properti.
 
@@ -20,3 +20,5 @@ public XmpPdfAExtensionCategoryType Category { get; }
 * class [XmpPdfAExtensionProperty](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

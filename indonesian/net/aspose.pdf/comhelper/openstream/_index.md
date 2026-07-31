@@ -1,14 +1,14 @@
 ---
-title: ComHelper.OpenStream
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ComHelper. Inisialisasi dan kembalikan instance Dokumen baru dari aliran input
+title: "ComHelper.OpenStream"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ComHelper. Menginisialisasi dan mengembalikan instance Document baru dari aliran masukan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/comhelper/openstream/
 ---
 ## OpenStream(Stream) {#openstream}
 
-Inisialisasi dan kembalikan instance Dokumen baru dari aliran *input*.
+Inisialisasi dan kembalikan instance Document baru dari aliran *input*.
 
 ```csharp
 public Document OpenStream(Stream input)
@@ -16,16 +16,16 @@ public Document OpenStream(Stream input)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| input | Stream | Aliran dengan dokumen pdf. |
+| masukan | Stream | Stream dengan dokumen pdf. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek Dokumen
+Objek Document
 
 ### Lihat Juga
 
-* kelas [Document](../../document/)
-* kelas [ComHelper](../)
+* class [Document](../../document/)
+* class [ComHelper](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -33,7 +33,7 @@ Objek Dokumen
 
 ## OpenStream(Stream, string) {#openstream_3}
 
-Inisialisasi dan kembalikan instance Dokumen baru dari aliran *input*.
+Inisialisasi dan kembalikan instance Document baru dari aliran *input*.
 
 ```csharp
 public Document OpenStream(Stream input, string password)
@@ -41,17 +41,17 @@ public Document OpenStream(Stream input, string password)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| input | Stream | Objek aliran input, pdf yang sesuai dilindungi kata sandi. |
-| password | String | Kata sandi pengguna atau pemilik. |
+| masukan | Stream | Objek stream masukan, pdf yang bersangkutan dilindungi kata sandi. |
+| kata sandi | String | Kata sandi pengguna atau pemilik. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek Dokumen
+Objek Document
 
 ### Lihat Juga
 
-* kelas [Document](../../document/)
-* kelas [ComHelper](../)
+* class [Document](../../document/)
+* class [ComHelper](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -59,7 +59,7 @@ Objek Dokumen
 
 ## OpenStream(Stream, bool) {#openstream_2}
 
-Inisialisasi dan kembalikan instance Dokumen baru dari aliran *input*.
+Inisialisasi dan kembalikan instance Document baru dari aliran *input*.
 
 ```csharp
 public Document OpenStream(Stream input, bool isManagedStream)
@@ -67,17 +67,17 @@ public Document OpenStream(Stream input, bool isManagedStream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| input | Stream | Aliran dengan dokumen pdf. |
-| isManagedStream | Boolean | jika diatur ke `true` aliran dalam ditutup sebelum keluar; jika tidak, tidak. |
+| masukan | Stream | Stream dengan dokumen pdf. |
+| isManagedStream | Boolean | jika disetel ke `true` stream internal ditutup sebelum keluar; jika tidak, tidak. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek Dokumen
+Objek Document
 
 ### Lihat Juga
 
-* kelas [Document](../../document/)
-* kelas [ComHelper](../)
+* class [Document](../../document/)
+* class [ComHelper](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -85,7 +85,7 @@ Objek Dokumen
 
 ## OpenStream(Stream, string, bool) {#openstream_4}
 
-Inisialisasi dan kembalikan instance Dokumen baru dari aliran *input*.
+Inisialisasi dan kembalikan instance Document baru dari aliran *input*.
 
 ```csharp
 public Document OpenStream(Stream input, string password, bool isManagedStream)
@@ -93,18 +93,18 @@ public Document OpenStream(Stream input, string password, bool isManagedStream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| input | Stream | Aliran dengan dokumen pdf. |
-| password | String | Kata sandi pengguna atau pemilik. |
-| isManagedStream | Boolean | jika diatur ke `true` aliran dalam ditutup sebelum keluar; jika tidak, tidak. |
+| masukan | Stream | Stream dengan dokumen pdf. |
+| kata sandi | String | Kata sandi pengguna atau pemilik. |
+| isManagedStream | Boolean | jika disetel ke `true` stream internal ditutup sebelum keluar; jika tidak, tidak. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek Dokumen
+Objek Document
 
 ### Lihat Juga
 
-* kelas [Document](../../document/)
-* kelas [ComHelper](../)
+* class [Document](../../document/)
+* class [ComHelper](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -120,17 +120,19 @@ public Document OpenStream(Stream input, LoadOptions options)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| input | Stream | Aliran input untuk dikonversi menjadi dokumen pdf. |
-| options | LoadOptions | Mewakili properti untuk mengonversi *input* menjadi dokumen pdf. |
+| masukan | Stream | Stream masukan untuk mengonversi menjadi dokumen pdf. |
+| options | LoadOptions | Mewakili properti untuk mengonversi *masukan* menjadi dokumen pdf. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek Dokumen
+Objek Document
 
 ### Lihat Juga
 
-* kelas [Document](../../document/)
-* kelas [LoadOptions](../../loadoptions/)
-* kelas [ComHelper](../)
+* class [Document](../../document/)
+* class [LoadOptions](../../loadoptions/)
+* class [ComHelper](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

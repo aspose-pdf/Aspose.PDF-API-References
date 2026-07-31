@@ -1,14 +1,14 @@
 ---
-title: Class TeXMemoryOutputDirectory
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.TeXMemoryOutputDirectory. Mengimplementasikan pengambilan aliran output dari memori. Anda dapat menggunakannya, misalnya, ketika Anda tidak ingin output yang menyertainya ditulis ke disk tetapi Anda ingin membacanya setelahnya dari memori
+title: "Kelas TeXMemoryOutputDirectory"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.TeXMemoryOutputDirectory. Mengimplementasikan pengambilan aliran output dari memori. Anda dapat menggunakannya, misalnya, ketika Anda tidak ingin output yang menyertainya seperti file log ditulis ke disk tetapi Anda ingin membacanya kemudian dari memori."
 type: docs
-weight: 10390
+weight: 10570
 url: /id/net/aspose.pdf/texmemoryoutputdirectory/
 ---
-## Kelas TeXMemoryOutputDirectory
+## TeXMemoryOutputDirectory class
 
-Mengimplementasikan pengambilan aliran output dari memori. Anda dapat menggunakannya, misalnya, ketika Anda tidak ingin output yang menyertainya (seperti file log) ditulis ke disk tetapi Anda ingin membacanya setelahnya dari memori.
+Mengimplementasikan pengambilan aliran output dari memori. Anda dapat menggunakannya, misalnya, ketika Anda tidak ingin output yang menyertainya (seperti file log) ditulis ke disk tetapi ingin membacanya nanti dari memori.
 
 ```csharp
 public class TeXMemoryOutputDirectory : ITeXOutputDirectory
@@ -24,12 +24,14 @@ public class TeXMemoryOutputDirectory : ITeXOutputDirectory
 
 | Nama | Deskripsi |
 | --- | --- |
-| virtual [Dispose](../../aspose.pdf/texmemoryoutputdirectory/dispose/)() | Menghapus instance. |
+| virtual [Dispose](../../aspose.pdf/texmemoryoutputdirectory/dispose/)() | Membuang instance. |
 | [GetFile](../../aspose.pdf/texmemoryoutputdirectory/getfile/)(string, out string, bool) | Mengembalikan aliran untuk dibaca. |
 | [GetOutputFile](../../aspose.pdf/texmemoryoutputdirectory/getoutputfile/)(string, out string) | Mengembalikan aliran untuk ditulis. |
 
 ### Lihat Juga
 
-* antarmuka [ITeXOutputDirectory](../itexoutputdirectory/)
-* ruang nama [Aspose.Pdf](../../aspose.pdf/)
+* interface [ITeXOutputDirectory](../itexoutputdirectory/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

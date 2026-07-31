@@ -1,14 +1,14 @@
 ---
-title: Rows.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Rows. Hapus baris dari koleksi
+title: "Rows.Remove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Rows. Hapus baris dari koleksi"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf/rows/remove/
 ---
-## Metode Rows.Remove
+## Rows.Remove method
 
-Hapus baris dari koleksi.
+Menghapus baris dari koleksi.
 
 ```csharp
 public void Remove(Row row)
@@ -20,7 +20,9 @@ public void Remove(Row row)
 
 ### Lihat Juga
 
-* kelas [Row](../../row/)
-* kelas [Rows](../)
+* class [Row](../../row/)
+* class [Rows](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

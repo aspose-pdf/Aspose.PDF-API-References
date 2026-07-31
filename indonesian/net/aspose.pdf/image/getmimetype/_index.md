@@ -1,12 +1,12 @@
 ---
-title: Image.GetMimeType
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Gambar. Mengembalikan tipe mime untuk gambar
+title: "Image.GetMimeType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Image. Mengembalikan tipe mime untuk gambar"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf/image/getmimetype/
 ---
-## Metode Image.GetMimeType
+## Image.GetMimeType method
 
 Mengembalikan tipe mime untuk gambar.
 
@@ -16,14 +16,16 @@ public static string GetMimeType(Image i)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| i | Gambar | Objek gambar. |
+| i | Gambar | Objek Image. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Tipe mime sebagai string jika ditemukan; jika tidak, nilai "image/unknown".
 
 ### Lihat Juga
 
-* kelas [Gambar](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Image](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

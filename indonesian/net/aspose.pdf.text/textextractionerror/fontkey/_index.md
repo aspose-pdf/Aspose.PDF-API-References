@@ -1,12 +1,12 @@
 ---
-title: TextExtractionError.FontKey
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextExtractionError. Kunci nama PDF dari objek Font yang digunakan untuk menampilkan teks yang menyebabkan kesalahan ekstraksi
+title: "TextExtractionError.FontKey"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextExtractionError. Nama kunci PDF dari objek Font yang digunakan untuk menampilkan teks yang menyebabkan kesalahan ekstraksi"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.text/textextractionerror/fontkey/
 ---
-## Properti TextExtractionError.FontKey
+## TextExtractionError.FontKey property
 
 Kunci (nama PDF) dari objek Font yang digunakan untuk menampilkan teks yang menyebabkan kesalahan ekstraksi.
 
@@ -16,6 +16,8 @@ public string FontKey { get; }
 
 ### Lihat Juga
 
-* kelas [TextExtractionError](../)
+* class [TextExtractionError](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

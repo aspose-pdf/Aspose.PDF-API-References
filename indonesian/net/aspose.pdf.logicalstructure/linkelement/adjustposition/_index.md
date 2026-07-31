@@ -1,12 +1,12 @@
 ---
-title: LinkElement.AdjustPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Metode LinkElement.
+title: "LinkElement.AdjustPosition"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode LinkElement."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.logicalstructure/linkelement/adjustposition/
 ---
-## Metode LinkElement.AdjustPosition
+## LinkElement.AdjustPosition method
 
 ```csharp
 public void AdjustPosition(PositionSettings positionSettings)
@@ -14,7 +14,9 @@ public void AdjustPosition(PositionSettings positionSettings)
 
 ### Lihat Juga
 
-* kelas [PositionSettings](../../../aspose.pdf.tagged/positionsettings/)
-* kelas [LinkElement](../)
+* class [PositionSettings](../../../aspose.pdf.tagged/positionsettings/)
+* class [LinkElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

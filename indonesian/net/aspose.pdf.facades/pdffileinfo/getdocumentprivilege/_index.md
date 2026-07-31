@@ -1,26 +1,28 @@
 ---
-title: PdfFileInfo.GetDocumentPrivilege
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileInfo. Mendapatkan pengaturan hak istimewa dokumen PDF
+title: "PdfFileInfo.GetDocumentPrivilege"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileInfo. Mengambil pengaturan hak istimewa dokumen PDF"
 type: docs
 weight: 220
 url: /id/net/aspose.pdf.facades/pdffileinfo/getdocumentprivilege/
 ---
-## Metode PdfFileInfo.GetDocumentPrivilege
+## PdfFileInfo.GetDocumentPrivilege method
 
-Mendapatkan pengaturan hak istimewa dokumen PDF.
+Mengambil pengaturan hak istimewa dokumen PDF.
 
 ```csharp
 public DocumentPrivilege GetDocumentPrivilege()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Pengaturan hak istimewa dokumen PDF.
 
 ### Lihat Juga
 
-* kelas [DocumentPrivilege](../../documentprivilege/)
-* kelas [PdfFileInfo](../)
+* class [DocumentPrivilege](../../documentprivilege/)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XImage.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XImage. Mendapatkan lebar gambar
+title: "XImage.Width"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XImage. Mendapatkan lebar gambar"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf/ximage/width/
 ---
-## Properti XImage.Width
+## XImage.Width property
 
 Mendapatkan lebar gambar.
 
@@ -16,6 +16,8 @@ public int Width { get; }
 
 ### Lihat Juga
 
-* kelas [XImage](../)
+* class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class VectorStoreListQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.VectorStoreListQueryParameters. Objek parameter kueri untuk daftar penyimpanan vektor
+title: "Kelas VectorStoreListQueryParameters"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.VectorStoreListQueryParameters. Objek parameter kueri untuk mencantumkan vector store"
 type: docs
-weight: 1360
+weight: 1450
 url: /id/net/aspose.pdf.ai/vectorstorelistqueryparameters/
 ---
-## Kelas VectorStoreListQueryParameters
+## VectorStoreListQueryParameters class
 
-Objek parameter kueri untuk daftar penyimpanan vektor.
+Objek parameter kueri untuk menampilkan daftar vector store.
 
 ```csharp
 public class VectorStoreListQueryParameters : BaseListQueryParameters, IQueryParameters
@@ -24,20 +24,22 @@ public class VectorStoreListQueryParameters : BaseListQueryParameters, IQueryPar
 
 | Nama | Deskripsi |
 | --- | --- |
-| [After](../../aspose.pdf.ai/baselistqueryparameters/after/) { get; set; } | Mengambil atau menetapkan kursor untuk digunakan dalam paginasi. after adalah ID objek yang mendefinisikan posisi Anda dalam daftar. Misalnya, jika Anda membuat permintaan daftar dan menerima 100 objek, diakhiri dengan obj_foo, panggilan Anda berikutnya dapat menyertakan after=obj_foo untuk mengambil halaman berikutnya dari daftar. |
-| [Before](../../aspose.pdf.ai/baselistqueryparameters/before/) { get; set; } | Mengambil atau menetapkan kursor untuk digunakan dalam paginasi. before adalah ID objek yang mendefinisikan posisi Anda dalam daftar. Misalnya, jika Anda membuat permintaan daftar dan menerima 100 objek, diakhiri dengan obj_foo, panggilan Anda berikutnya dapat menyertakan before=obj_foo untuk mengambil halaman sebelumnya dari daftar. |
-| [Limit](../../aspose.pdf.ai/baselistqueryparameters/limit/) { get; set; } | Mengambil atau menetapkan batasan pada jumlah objek yang akan dikembalikan. Limit dapat berkisar antara 1 hingga 100, dan defaultnya adalah 20. |
-| [Order](../../aspose.pdf.ai/baselistqueryparameters/order/) { get; set; } | Mengambil atau menetapkan urutan pengurutan berdasarkan timestamp created_at dari objek. asc untuk urutan menaik dan desc untuk urutan menurun. |
+| [After](../../aspose.pdf.ai/baselistqueryparameters/after/) { get; set; } | Mendapatkan atau mengatur kursor untuk digunakan dalam paginasi. after adalah ID objek yang menentukan posisi Anda dalam daftar. Misalnya, jika Anda melakukan permintaan daftar dan menerima 100 objek, yang berakhir dengan obj_foo, panggilan berikutnya dapat menyertakan after=obj_foo untuk mengambil halaman berikutnya dari daftar. |
+| [Before](../../aspose.pdf.ai/baselistqueryparameters/before/) { get; set; } | Mendapatkan atau mengatur kursor untuk digunakan dalam paginasi. before adalah ID objek yang menentukan posisi Anda dalam daftar. Misalnya, jika Anda melakukan permintaan daftar dan menerima 100 objek, yang berakhir dengan obj_foo, panggilan berikutnya dapat menyertakan before=obj_foo untuk mengambil halaman sebelumnya dari daftar. |
+| [Limit](../../aspose.pdf.ai/baselistqueryparameters/limit/) { get; set; } | Mendapatkan atau mengatur batas pada jumlah objek yang akan dikembalikan. Batas dapat berada antara 1 hingga 100, dan nilai defaultnya adalah 20. |
+| [Order](../../aspose.pdf.ai/baselistqueryparameters/order/) { get; set; } | Mendapatkan atau mengatur urutan penyortiran berdasarkan timestamp created_at dari objek. asc untuk urutan naik dan desc untuk urutan turun. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| [GetQueryParameters](../../aspose.pdf.ai/vectorstorelistqueryparameters/getqueryparameters/)() | Mengambil parameter kueri untuk daftar penyimpanan vektor. |
+| [GetQueryParameters](../../aspose.pdf.ai/vectorstorelistqueryparameters/getqueryparameters/)() | Mendapatkan parameter kueri untuk mencantumkan vector store. |
 
 ### Lihat Juga
 
-* kelas [BaseListQueryParameters](../baselistqueryparameters/)
-* antarmuka [IQueryParameters](../iqueryparameters/)
-* ruang nama [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* class [BaseListQueryParameters](../baselistqueryparameters/)
+* interface [IQueryParameters](../iqueryparameters/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

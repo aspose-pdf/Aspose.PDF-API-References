@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.H4
-second_title: Aspose.PDF for .NET API Reference
-description: Field StructureTypeStandard. Judul Tingkat 4 untuk digunakan dalam penulis yang sesuai yang tidak dapat menyusun bagian mereka secara hierarkis dan dengan demikian tidak dapat menentukan tingkat judul dari tingkat penyusunannya
+title: "StructureTypeStandard.H4"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "StructureTypeStandard field. Level 4 Heading untuk penggunaan penulis yang mematuhi standar namun tidak dapat menumpuk secara hierarkis bagian-bagiannya sehingga tidak dapat menentukan tingkat heading dari tingkat penumpukannya."
 type: docs
 weight: 160
 url: /id/net/aspose.pdf.logicalstructure/structuretypestandard/h4/
 ---
-## Field StructureTypeStandard.H4
+## StructureTypeStandard.H4 field
 
-Judul Tingkat 4, untuk digunakan dalam penulis yang sesuai yang tidak dapat menyusun bagian mereka secara hierarkis dan dengan demikian tidak dapat menentukan tingkat judul dari tingkat penyusunannya.
+Level 4 Heading, untuk digunakan oleh penulis yang mematuhi standar yang tidak dapat menumpuk secara hierarkis bagian mereka dan sehingga tidak dapat menentukan level heading dari tingkat penumpukannya.
 
 ```csharp
 public static readonly StructureTypeStandard H4;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard H4;
 
 ### Lihat Juga
 
-* kelas [StructureTypeStandard](../)
-* ruang nama [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [StructureTypeStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

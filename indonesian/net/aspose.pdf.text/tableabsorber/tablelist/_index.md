@@ -1,14 +1,14 @@
 ---
-title: TableAbsorber.TableList
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TableAbsorber. Mengembalikan IList hanya-baca yang berisi tabel yang ditemukan
+title: "TableAbsorber.TableList"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TableAbsorber. Mengembalikan IList read‑only yang berisi tabel yang ditemukan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.text/tableabsorber/tablelist/
 ---
-## Properti TableAbsorber.TableList
+## TableAbsorber.TableList property
 
-Mengembalikan IList hanya-baca yang berisi tabel yang ditemukan
+Mengembalikan IList read‑only yang berisi tabel yang ditemukan
 
 ```csharp
 public virtual IList<AbsorbedTable> TableList { get; }
@@ -16,7 +16,9 @@ public virtual IList<AbsorbedTable> TableList { get; }
 
 ### Lihat Juga
 
-* kelas [AbsorbedTable](../../absorbedtable/)
-* kelas [TableAbsorber](../)
-* ruang nama [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [AbsorbedTable](../../absorbedtable/)
+* class [TableAbsorber](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: FormEditor.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FormEditor. Memulai pemrosesan FormEditor dengan parameter yang ditentukan
+title: "FormEditor.Process"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode FormEditor. Memulai pemrosesan FormEditor dengan parameter yang ditentukan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/formeditor/process/
 ---
-## Metode FormEditor.Process
+## FormEditor.Process method
 
 Memulai pemrosesan FormEditor dengan parameter yang ditentukan.
 
@@ -18,20 +18,22 @@ public ResultContainer Process(IPluginOptions options)
 | --- | --- | --- |
 | options | IPluginOptions | Objek opsi yang berisi instruksi untuk FormEditor. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek ResultContainer yang berisi hasil dari operasi.
+Sebuah objek ResultContainer yang berisi hasil operasi.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Jika options tidak benar. |
+| ArgumentException | Jika opsi tidak benar. |
 
 ### Lihat Juga
 
-* kelas [ResultContainer](../../resultcontainer/)
-* antarmuka [IPluginOptions](../../ipluginoptions/)
-* kelas [FormEditor](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

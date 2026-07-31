@@ -1,12 +1,12 @@
 ---
-title: ElementCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ElementCollection. Mendapatkan Element berdasarkan indeks
+title: "ElementCollection.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ElementCollection. Mendapatkan Element berdasarkan indeks"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.structure/elementcollection/item/
 ---
-## Indeks ElementCollection
+## ElementCollection indexer
 
 Mendapatkan Element berdasarkan indeks.
 
@@ -18,13 +18,15 @@ public Element this[int index] { get; }
 | --- | --- |
 | index | Indeks elemen. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Elemen yang diambil.
 
 ### Lihat Juga
 
-* kelas [Element](../../element/)
-* kelas [ElementCollection](../)
-* ruang nama [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
+* class [Element](../../element/)
+* class [ElementCollection](../)
+* namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../../)
+
+

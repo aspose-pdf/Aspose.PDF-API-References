@@ -1,14 +1,14 @@
 ---
-title: XmpField.Lang
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XmpField. Mendapatkan kualifikasi xmllang
+title: "XmpField.Lang"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XmpField. Mendapatkan kualifier xmllang"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/xmpfield/lang/
 ---
-## Properti XmpField.Lang
+## XmpField.Lang property
 
-Mendapatkan kualifikasi xml:lang.
+Mendapatkan qualifier xml:lang.
 
 ```csharp
 public static XmpField Lang { get; }
@@ -16,6 +16,8 @@ public static XmpField Lang { get; }
 
 ### Lihat Juga
 
-* kelas [XmpField](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [XmpField](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

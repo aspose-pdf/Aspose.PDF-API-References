@@ -1,14 +1,14 @@
 ---
-title: Class SaveOptions.BorderInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.SaveOptionsBorderInfo. Instance dari kelas ini mewakili informasi tentang batas yang dapat digambar pada beberapa dokumen hasil
+title: "Kelas SaveOptions.BorderInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.SaveOptionsBorderInfo class. Instance of this class mewakili informasi tentang batas yang dapat digambar pada dokumen hasil tertentu"
 type: docs
-weight: 9880
+weight: 10030
 url: /id/net/aspose.pdf/saveoptions.borderinfo/
 ---
-## Kelas SaveOptions.BorderInfo
+## SaveOptions.BorderInfo class
 
-Instance dari kelas ini mewakili informasi tentang batas yang dapat digambar pada beberapa dokumen hasil.
+Instance of this class mewakili informasi tentang batas yang dapat digambar pada dokumen hasil tertentu.
 
 ```csharp
 public class BorderInfo
@@ -19,19 +19,21 @@ public class BorderInfo
 | Nama | Deskripsi |
 | --- | --- |
 | [BorderInfo](../../aspose.pdf/saveoptions.borderinfo/.ctor#constructor)() | Membuat instance dari kelas BorderInfo |
-| [BorderInfo](../../aspose.pdf/saveoptions.borderinfo/.ctor#constructor_1)(BorderPartStyle) | Membuat instance dari kelas BorderInfo dan menginisialisasi semua elemen batas (Atas, Kiri, Kanan, Bawah) dengan atribut yang disalin dari gaya batas yang diberikan |
+| [BorderInfo](../../aspose.pdf/saveoptions.borderinfo/.ctor#constructor_1)(BorderPartStyle) | Membuat instance dari kelas BorderInfo dan menginisialisasi semua elemen border (Top, Left, Right, Bottom) dengan atribut yang disalin dari gaya border yang diberikan |
 
 ## Bidang
 
 | Nama | Deskripsi |
 | --- | --- |
-| [BottomStyleIfAny](../../aspose.pdf/saveoptions.borderinfo/bottomstyleifany) | Mewakili bagian bawah (jika ada) dari batas |
-| [LeftStyleIfAny](../../aspose.pdf/saveoptions.borderinfo/leftstyleifany) | Mewakili bagian kiri (jika ada) dari batas |
-| [RightStyleIfAny](../../aspose.pdf/saveoptions.borderinfo/rightstyleifany) | Mewakili bagian kanan (jika ada) dari batas |
-| [TopStyleIfAny](../../aspose.pdf/saveoptions.borderinfo/topstyleifany) | Mewakili bagian atas (jika ada) dari batas |
+| [BottomStyleIfAny](../../aspose.pdf/saveoptions.borderinfo/bottomstyleifany) | Mewakili bagian bawah (jika ada) dari border |
+| [LeftStyleIfAny](../../aspose.pdf/saveoptions.borderinfo/leftstyleifany) | Mewakili bagian kiri (jika ada) dari border |
+| [RightStyleIfAny](../../aspose.pdf/saveoptions.borderinfo/rightstyleifany) | Mewakili bagian kanan (jika ada) dari border |
+| [TopStyleIfAny](../../aspose.pdf/saveoptions.borderinfo/topstyleifany) | Mewakili bagian atas (jika ada) dari border |
 
 ### Lihat Juga
 
-* kelas [SaveOptions](../saveoptions/)
+* class [SaveOptions](../saveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

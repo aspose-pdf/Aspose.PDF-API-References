@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.NonFullScreenPageModeUseNone
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang ViewerPreference. Baik garis besar dokumen maupun gambar mini tidak terlihat
+title: "ViewerPreference.NonFullScreenPageModeUseNone"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ViewerPreference bidang. Baik outline dokumen maupun gambar thumbnail tidak terlihat"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.facades/viewerpreference/nonfullscreenpagemodeusenone/
 ---
-## Bidang ViewerPreference.NonFullScreenPageModeUseNone
+## ViewerPreference.NonFullScreenPageModeUseNone field
 
-Baik garis besar dokumen maupun gambar mini tidak terlihat.
+Baik garis besar dokumen maupun gambar miniatur tidak terlihat.
 
 ```csharp
 public const int NonFullScreenPageModeUseNone;
@@ -16,6 +16,8 @@ public const int NonFullScreenPageModeUseNone;
 
 ### Lihat Juga
 
-* kelas [ViewerPreference](../)
+* class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

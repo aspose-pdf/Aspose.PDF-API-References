@@ -1,14 +1,14 @@
 ---
-title: FormDataConverter.ConvertToStreams
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FormDataConverter. Mengonversi data dalam tabel menjadi aliran
+title: "FormDataConverter.ConvertToStreams"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode FormDataConverter. Mengonversi data dalam tabel menjadi aliran"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.facades/formdataconverter/converttostreams/
 ---
-## Metode FormDataConverter.ConvertToStreams
+## FormDataConverter.ConvertToStreams method
 
-Mengonversi data dalam tabel menjadi aliran.
+Konversi data dalam tabel menjadi aliran.
 
 ```csharp
 public void ConvertToStreams(Stream[] destStream, DataType destType)
@@ -17,7 +17,7 @@ public void ConvertToStreams(Stream[] destStream, DataType destType)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | destStream | Stream[] | Aliran tempat data akan disimpan. |
-| destType | DataType | Tipe data yang disimpan. Nilai yang valid adalah: XML, FDF, XFDF. |
+| destType | DataType | Jenis data yang disimpan. Nilai yang valid adalah: XML, FDF, XFDF. |
 
 ## Contoh
 
@@ -45,3 +45,5 @@ fc.ConvertToStreams(new Stream[] { stream }, DataType.XML);
 * class [FormDataConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

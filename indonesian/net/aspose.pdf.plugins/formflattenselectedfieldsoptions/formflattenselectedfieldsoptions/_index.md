@@ -1,14 +1,14 @@
 ---
-title: FormFlattenSelectedFieldsOptions.FormFlattenSelectedFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor FormFlattenSelectedFieldsOptions. Menginisialisasi instance baru dari objek FormFlattenSelectedFieldsOptions
+title: "FormFlattenSelectedFieldsOptions.FormFlattenSelectedFieldsOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor FormFlattenSelectedFieldsOptions. Menginisialisasi instansi baru dari objek FormFlattenSelectedFieldsOptions"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/formflattenselectedfieldsoptions/formflattenselectedfieldsoptions/
 ---
-## Konstruktor FormFlattenSelectedFieldsOptions
+## FormFlattenSelectedFieldsOptions constructor
 
-Menginisialisasi instance baru dari objek [`FormFlattenSelectedFieldsOptions`](../).
+Menginisialisasi instansi baru dari objek [`FormFlattenSelectedFieldsOptions`](../).
 
 ```csharp
 public FormFlattenSelectedFieldsOptions(SelectField selectField)
@@ -20,7 +20,9 @@ public FormFlattenSelectedFieldsOptions(SelectField selectField)
 
 ### Lihat Juga
 
-* delegasi [SelectField](../../selectfield/)
-* kelas [FormFlattenSelectedFieldsOptions](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* delegate [SelectField](../../selectfield/)
+* class [FormFlattenSelectedFieldsOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

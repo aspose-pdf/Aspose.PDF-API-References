@@ -1,12 +1,12 @@
 ---
-title: FontSourceCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FontSourceCollection. Mendapatkan elemen font pada indeks yang ditentukan
+title: "FontSourceCollection.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FontSourceCollection. Mengambil elemen font pada indeks yang ditentukan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.text/fontsourcecollection/item/
 ---
-## Indeks FontSourceCollection
+## FontSourceCollection indexer
 
 Mendapatkan elemen font pada indeks yang ditentukan.
 
@@ -18,13 +18,15 @@ public FontSource this[int index] { get; }
 | --- | --- |
 | index | Indeks dalam koleksi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Objek sumber font.
 
 ### Lihat Juga
 
-* kelas [FontSource](../../fontsource/)
-* kelas [FontSourceCollection](../)
+* class [FontSource](../../fontsource/)
+* class [FontSourceCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TableElement.IsBordersIncluded
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TableElement. Mengambil atau mengatur batas yang termasuk dalam lebar kolom
+title: "TableElement.IsBordersIncluded"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "TableElement properti. Mendapatkan atau mengatur border yang termasuk dalam lebar kolom"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.logicalstructure/tableelement/isbordersincluded/
 ---
-## Properti TableElement.IsBordersIncluded
+## TableElement.IsBordersIncluded property
 
-Mengambil atau mengatur batas yang termasuk dalam lebar kolom.
+Mendapatkan atau mengatur batas yang termasuk dalam lebar kolom.
 
 ```csharp
 public bool IsBordersIncluded { get; set; }
@@ -16,6 +16,8 @@ public bool IsBordersIncluded { get; set; }
 
 ### Lihat Juga
 
-* kelas [TableElement](../)
-* ruang nama [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [TableElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: CharInfoCollection.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CharInfoCollection. Mendapatkan elemen CharInfo pada indeks yang ditentukan
+title: "CharInfoCollection.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CharInfoCollection. Mendapatkan elemen CharInfo pada indeks yang ditentukan."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.text/charinfocollection/item/
 ---
-## Indeks CharInfoCollection
+## CharInfoCollection indexer
 
 Mendapatkan elemen CharInfo pada indeks yang ditentukan.
 
@@ -18,13 +18,15 @@ public CharInfo this[int index] { get; }
 | --- | --- |
 | index | Indeks dalam koleksi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Objek CharInfo.
 
 ### Lihat Juga
 
-* kelas [CharInfo](../../charinfo/)
-* kelas [CharInfoCollection](../)
-* ruang nama [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [CharInfo](../../charinfo/)
+* class [CharInfoCollection](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

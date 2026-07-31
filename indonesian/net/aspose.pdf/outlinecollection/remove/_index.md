@@ -1,7 +1,7 @@
 ---
-title: OutlineCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OutlineCollection. Selalu melempar NotImplementedException
+title: "OutlineCollection.Remove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OutlineCollection. Selalu melempar NotImplementedException"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf/outlinecollection/remove/
@@ -18,14 +18,14 @@ public override bool Remove(OutlineItemCollection item)
 | --- | --- | --- |
 | item | OutlineItemCollection | Objek yang akan dicari dalam koleksi |
 
-### Return Value
+### Nilai Kembalian
 
 NotImplementedException
 
 ### Lihat Juga
 
-* kelas [OutlineItemCollection](../../outlineitemcollection/)
-* kelas [OutlineCollection](../)
+* class [OutlineItemCollection](../../outlineitemcollection/)
+* class [OutlineCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -33,7 +33,7 @@ NotImplementedException
 
 ## Remove(int) {#remove_1}
 
-Hapus item berdasarkan indeks.
+Menghapus item berdasarkan indeks.
 
 ```csharp
 public void Remove(int index)
@@ -45,6 +45,8 @@ public void Remove(int index)
 
 ### Lihat Juga
 
-* kelas [OutlineCollection](../)
+* class [OutlineCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

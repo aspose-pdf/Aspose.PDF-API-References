@@ -1,12 +1,12 @@
 ---
-title: SoundData.Channels
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SoundData. Mendapatkan atau mengatur jumlah saluran suara
+title: "SoundData.Channels"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SoundData. Mendapatkan atau mengatur jumlah saluran suara"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/sounddata/channels/
 ---
-## Properti SoundData.Channels
+## SoundData.Channels property
 
 Mendapatkan atau mengatur jumlah saluran suara.
 
@@ -16,6 +16,8 @@ public int Channels { get; set; }
 
 ### Lihat Juga
 
-* kelas [SoundData](../)
+* class [SoundData](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

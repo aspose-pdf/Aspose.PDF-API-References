@@ -1,12 +1,12 @@
 ---
-title: SetTextRise.SetTextRise
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor SetTextRise. Menginisialisasi operator
+title: "SetTextRise.SetTextRise"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor SetTextRise. Menginisialisasi operator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/settextrise/settextrise/
 ---
-## Konstruktor SetTextRise
+## SetTextRise constructor
 
 Menginisialisasi operator.
 
@@ -20,6 +20,8 @@ public SetTextRise(double textRise)
 
 ### Lihat Juga
 
-* kelas [SetTextRise](../)
+* class [SetTextRise](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

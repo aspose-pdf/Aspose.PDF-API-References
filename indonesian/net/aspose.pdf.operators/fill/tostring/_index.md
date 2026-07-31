@@ -1,12 +1,12 @@
 ---
-title: Fill.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Fill. Mengembalikan representasi teks dari operator
+title: "Fill.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Fill. Mengembalikan representasi teks dari operator"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.operators/fill/tostring/
 ---
-## Metode Fill.ToString
+## Fill.ToString method
 
 Mengembalikan representasi teks dari operator.
 
@@ -14,12 +14,14 @@ Mengembalikan representasi teks dari operator.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Representasi teks dari operator.
 
 ### Lihat Juga
 
-* kelas [Fill](../)
+* class [Fill](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

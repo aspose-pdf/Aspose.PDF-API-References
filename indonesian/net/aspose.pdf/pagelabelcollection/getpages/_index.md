@@ -1,12 +1,12 @@
 ---
-title: PageLabelCollection.GetPages
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PageLabelCollection. Mendapatkan indeks halaman dalam koleksi
+title: "PageLabelCollection.GetPages"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PageLabelCollection. Mendapatkan indeks halaman dalam koleksi"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/pagelabelcollection/getpages/
 ---
-## Metode PageLabelCollection.GetPages
+## PageLabelCollection.GetPages method
 
 Mendapatkan indeks halaman dalam koleksi.
 
@@ -14,12 +14,14 @@ Mendapatkan indeks halaman dalam koleksi.
 public int[] GetPages()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Array bilangan bulat yang berisi indeks halaman.
+Array bilangan bulat yang berisi indeks-indeks halaman.
 
 ### Lihat Juga
 
-* kelas [PageLabelCollection](../)
+* class [PageLabelCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

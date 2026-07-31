@@ -1,7 +1,7 @@
 ---
-title: OutlineItemCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OutlineItemCollection. Menghapus item outline ini dari hierarki outline dokumen
+title: "OutlineItemCollection.Delete"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OutlineItemCollection metode. Menghapus item outline ini dari hierarki outline dokumen"
 type: docs
 weight: 260
 url: /id/net/aspose.pdf/outlineitemcollection/delete/
@@ -16,7 +16,7 @@ public void Delete()
 
 ### Lihat Juga
 
-* kelas [OutlineItemCollection](../)
+* class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,10 +32,12 @@ public void Delete(string name)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| name | String | Judul entri outline yang akan dihapus. |
+| nama | String | Judul entri outline akan dihapus. |
 
 ### Lihat Juga
 
-* kelas [OutlineItemCollection](../)
+* class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

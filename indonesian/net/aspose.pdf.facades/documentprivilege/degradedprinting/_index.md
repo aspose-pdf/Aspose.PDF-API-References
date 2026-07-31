@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.DegradedPrinting
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DocumentPrivilege. Memungkinkan pencetakan yang terdegradasi
+title: "DocumentPrivilege.DegradedPrinting"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti DocumentPrivilege. Mengizinkan pencetakan dengan kualitas menurun"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.facades/documentprivilege/degradedprinting/
 ---
-## Properti DocumentPrivilege.DegradedPrinting
+## DocumentPrivilege.DegradedPrinting property
 
-Memungkinkan pencetakan yang terdegradasi.
+Mengizinkan pencetakan beresolusi rendah.
 
 ```csharp
 public static DocumentPrivilege DegradedPrinting { get; }
@@ -16,6 +16,8 @@ public static DocumentPrivilege DegradedPrinting { get; }
 
 ### Lihat Juga
 
-* kelas [DocumentPrivilege](../)
+* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

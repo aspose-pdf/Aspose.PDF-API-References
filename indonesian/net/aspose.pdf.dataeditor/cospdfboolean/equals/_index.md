@@ -1,12 +1,12 @@
 ---
-title: CosPdfBoolean.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Metode CosPdfBoolean. Menentukan bahwa objek yang ditentukan sama dengan objek saat ini
+title: "CosPdfBoolean.Equals"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode CosPdfBoolean. Menentukan bahwa objek yang ditentukan sama dengan objek saat ini"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.dataeditor/cospdfboolean/equals/
 ---
-## Metode CosPdfBoolean.Equals
+## CosPdfBoolean.Equals method
 
 Menentukan bahwa objek yang ditentukan sama dengan objek saat ini.
 
@@ -16,14 +16,16 @@ public override bool Equals(object obj)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| obj | Objek | Objek yang dibandingkan dengan objek saat ini. |
+| obj | Object | Objek yang akan dibandingkan dengan objek saat ini. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True jika objek yang ditentukan sama dengan objek saat ini; jika tidak, false.
+True jika objek yang ditentukan sama dengan objek saat ini; selain itu, false.
 
 ### Lihat Juga
 
-* kelas [CosPdfBoolean](../)
+* class [CosPdfBoolean](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

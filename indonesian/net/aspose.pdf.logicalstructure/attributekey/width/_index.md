@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeKey. Atribut lebar Pemilik atribut tata letak
+title: "AttributeKey.Width"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeKey field. Width atribut Layout atribut pemilik"
 type: docs
 weight: 400
 url: /id/net/aspose.pdf.logicalstructure/attributekey/width/
 ---
-## Bidang AttributeKey.Width
+## AttributeKey.Width field
 
-Atribut lebar (Pemilik atribut tata letak).
+Atribut Width (pemilik atribut Tata Letak).
 
 ```csharp
 public static readonly AttributeKey Width;
@@ -16,6 +16,8 @@ public static readonly AttributeKey Width;
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

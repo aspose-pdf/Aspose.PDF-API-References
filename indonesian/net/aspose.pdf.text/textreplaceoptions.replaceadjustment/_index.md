@@ -1,14 +1,14 @@
 ---
-title: Enum TextReplaceOptions.ReplaceAdjustment
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Text.TextReplaceOptionsReplaceAdjustment enum. Menentukan tindakan yang akan dilakukan setelah penggantian fragmen teks menjadi lebih pendek. None - tidak ada tindakan, teks yang diganti mungkin tumpang tindih dengan sisa baris; AdjustSpaceWidth - mencoba menyesuaikan spasi antara kata untuk menjaga panjang baris; WholeWordsHyphenation - mencoba mendistribusikan kata-kata antara baris paragraf untuk menjaga bidang kanan paragraf; ShiftRestOfLine - menggeser sisa baris sesuai dengan perubahan panjang teks, panjang baris mungkin berubah; Nilai default adalah ShiftRestOfLine.
+title: "Enum TextReplaceOptions.ReplaceAdjustment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Text.TextReplaceOptionsReplaceAdjustment. Menentukan aksi yang akan dilakukan setelah mengganti fragmen teks menjadi lebih pendek. None tidak ada aksi; teks yang diganti dapat tumpang tindih dengan sisa baris. AdjustSpaceWidth mencoba menyesuaikan spasi antar kata untuk menjaga panjang baris. WholeWordsHyphenation mencoba mendistribusikan kata antar baris paragraf untuk menjaga bidang kanan paragraf. ShiftRestOfLine menggeser sisa baris sesuai perubahan panjang teks; panjang baris dapat berubah. Nilai default adalah ShiftRestOfLine."
 type: docs
-weight: 11020
+weight: 11210
 url: /id/net/aspose.pdf.text/textreplaceoptions.replaceadjustment/
 ---
-## Enumerasi TextReplaceOptions.ReplaceAdjustment
+## TextReplaceOptions.ReplaceAdjustment enumeration
 
-Menentukan tindakan yang akan dilakukan setelah penggantian fragmen teks menjadi lebih pendek. None - tidak ada tindakan, teks yang diganti mungkin tumpang tindih dengan sisa baris; AdjustSpaceWidth - mencoba menyesuaikan spasi antara kata untuk menjaga panjang baris; WholeWordsHyphenation - mencoba mendistribusikan kata-kata antara baris paragraf untuk menjaga bidang kanan paragraf; ShiftRestOfLine - menggeser sisa baris sesuai dengan perubahan panjang teks, panjang baris mungkin berubah; Nilai default adalah ShiftRestOfLine.
+Menentukan aksi yang akan dilakukan setelah mengganti fragmen teks menjadi lebih pendek. None - tidak ada aksi, teks yang diganti dapat tumpang tindih dengan sisa baris; AdjustSpaceWidth - mencoba menyesuaikan spasi antar kata untuk menjaga panjang baris; WholeWordsHyphenation - mencoba mendistribusikan kata antar baris paragraf untuk menjaga bidang kanan paragraf; ShiftRestOfLine - menggeser sisa baris sesuai perubahan panjang teks, panjang baris dapat berubah; Nilai default adalah ShiftRestOfLine.
 
 ```csharp
 [Flags]
@@ -19,14 +19,16 @@ public enum ReplaceAdjustment
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| None | `0` | Tidak ada tindakan, teks yang diganti mungkin tumpang tindih dengan sisa baris |
-| AdjustSpaceWidth | `1` | Mencoba menyesuaikan spasi antara kata untuk menjaga panjang baris |
-| WholeWordsHyphenation | `2` | Mencoba mendistribusikan kata-kata antara baris paragraf untuk menjaga bidang kanan paragraf |
-| IsFormFillingMode | `4` | Mencoba menyebarkan kata-kata di ruang putih yang tersedia menggunakan lebar paragraf. Jika teks meluap, itu akan disembunyikan. |
-| ShiftRestOfLine | `8` | (Default) Menggeser sisa baris sesuai dengan perubahan panjang teks, panjang baris mungkin berubah |
+| None | `0` | Tidak ada aksi, teks yang diganti dapat tumpang tindih dengan sisa baris |
+| AdjustSpaceWidth | `1` | Mencoba menyesuaikan spasi antar kata untuk menjaga panjang baris |
+| WholeWordsHyphenation | `2` | Mencoba mendistribusikan kata antar baris paragraf untuk menjaga bidang kanan paragraf |
+| IsFormFillingMode | `4` | Mencoba menyebarkan kata dalam ruang putih yang tersedia menggunakan lebar paragraf. Jika teks meluap, akan disembunyikan. |
+| ShiftRestOfLine | `8` | (Default) Menggeser sisa baris sesuai dengan perubahan panjang teks, panjang baris dapat diubah |
 
 ### Lihat Juga
 
-* kelas [TextReplaceOptions](../textreplaceoptions/)
+* class [TextReplaceOptions](../textreplaceoptions/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

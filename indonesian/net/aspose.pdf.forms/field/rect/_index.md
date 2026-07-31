@@ -1,14 +1,14 @@
 ---
-title: Field.Rect
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Field. Mengambil atau mengatur persegi panjang field
+title: "Field.Rect"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Field. Mendapatkan atau mengatur persegi panjang field"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.forms/field/rect/
 ---
-## Properti Field.Rect
+## Field.Rect property
 
-Mengambil atau mengatur persegi panjang field.
+Mendapatkan atau mengatur persegi panjang bidang.
 
 ```csharp
 public override Rectangle Rect { get; set; }
@@ -16,7 +16,9 @@ public override Rectangle Rect { get; set; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [Field](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

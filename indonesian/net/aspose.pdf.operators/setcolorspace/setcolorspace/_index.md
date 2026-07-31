@@ -1,12 +1,12 @@
 ---
-title: SetColorSpace.SetColorSpace
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor SetColorSpace. Menginisialisasi operator
+title: "SetColorSpace.SetColorSpace"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor SetColorSpace. Menginisialisasi operator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/setcolorspace/setcolorspace/
 ---
-## Konstruktor SetColorSpace
+## SetColorSpace constructor
 
 Menginisialisasi operator.
 
@@ -16,10 +16,12 @@ public SetColorSpace(string name)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| name | String | Nama ruang warna. |
+| nama | String | Nama ruang warna. |
 
 ### Lihat Juga
 
-* kelas [SetColorSpace](../)
+* class [SetColorSpace](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.CreateThreadAndRunAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIClient. Membuat sebuah thread dan menjalankannya secara asinkron
+title: "OpenAIClient.CreateThreadAndRunAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAIClient. Membuat thread dan run di dalamnya secara asinkron"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.ai/openaiclient/createthreadandrunasync/
 ---
-## Metode OpenAIClient.CreateThreadAndRunAsync
+## OpenAIClient.CreateThreadAndRunAsync method
 
-Membuat sebuah thread dan menjalankannya secara asinkron.
+Membuat thread dan run di dalamnya secara asinkron.
 
 ```csharp
 public Task<RunResponse> CreateThreadAndRunAsync(RunThreadCreateRequest runCreateRequest, 
@@ -20,14 +20,16 @@ public Task<RunResponse> CreateThreadAndRunAsync(RunThreadCreateRequest runCreat
 | runCreateRequest | RunThreadCreateRequest | Detail permintaan untuk membuat thread dan run. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi respons dari pembuatan thread dan run.
+Tugas yang mewakili operasi asinkron. Hasil tugas berisi respons dari pembuatan thread dan run.
 
 ### Lihat Juga
 
-* kelas [RunResponse](../../runresponse/)
-* kelas [RunThreadCreateRequest](../../runthreadcreaterequest/)
-* kelas [OpenAIClient](../)
+* class [RunResponse](../../runresponse/)
+* class [RunThreadCreateRequest](../../runthreadcreaterequest/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

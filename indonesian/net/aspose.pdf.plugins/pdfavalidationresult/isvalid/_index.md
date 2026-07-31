@@ -1,7 +1,7 @@
 ---
-title: PdfAValidationResult.IsValid
-second_title: Aspose.PDF for .NET API Reference
-description: PdfAValidationResult field. Mendapatkan nilai yang menunjukkan apakah validasi berhasil
+title: "PdfAValidationResult.IsValid"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfAValidationResult field. Mendapatkan nilai yang menunjukkan apakah validasi berhasil"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/pdfavalidationresult/isvalid/
@@ -19,3 +19,5 @@ public readonly bool IsValid;
 * class [PdfAValidationResult](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

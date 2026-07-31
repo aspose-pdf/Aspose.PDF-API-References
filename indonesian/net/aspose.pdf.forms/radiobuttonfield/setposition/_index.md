@@ -1,14 +1,14 @@
 ---
-title: RadioButtonField.SetPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Metode RadioButtonField. Pindahkan semua subitem tombol radio ke posisi yang ditentukan di halaman
+title: "RadioButtonField.SetPosition"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode RadioButtonField. Memindahkan semua subitem tombol radio ke posisi yang ditentukan pada halaman."
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.forms/radiobuttonfield/setposition/
 ---
-## Metode RadioButtonField.SetPosition
+## RadioButtonField.SetPosition method
 
-Pindahkan semua subitem tombol radio ke posisi yang ditentukan di halaman.
+Pindahkan semua subitem tombol radio ke posisi yang ditentukan pada halaman.
 
 ```csharp
 public override void SetPosition(Point point)
@@ -16,11 +16,13 @@ public override void SetPosition(Point point)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| point | Point | Mengatur posisi anotasi bidang RadioButton. |
+| titik | Titik | Mengatur posisi anotasi bidang RadioButton. |
 
 ### Lihat Juga
 
-* kelas [Point](../../../aspose.pdf/point/)
-* kelas [RadioButtonField](../)
+* class [Point](../../../aspose.pdf/point/)
+* class [RadioButtonField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

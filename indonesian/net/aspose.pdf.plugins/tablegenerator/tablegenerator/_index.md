@@ -1,12 +1,12 @@
 ---
-title: TableGenerator.TableGenerator
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor TableGenerator. Konstruktor default
+title: "TableGenerator.TableGenerator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor TableGenerator. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/tablegenerator/tablegenerator/
 ---
-## Konstruktor TableGenerator
+## TableGenerator constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public TableGenerator()
 
 ### Lihat Juga
 
-* kelas [TableGenerator](../)
+* class [TableGenerator](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

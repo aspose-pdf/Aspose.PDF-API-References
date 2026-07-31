@@ -1,12 +1,12 @@
 ---
-title: FileSpecification.EncryptedPayload
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FileSpecification. Mendapatkan payload terenkripsi
+title: "FileSpecification.EncryptedPayload"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FileSpecification properti. Mendapatkan payload terenkripsi"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/filespecification/encryptedpayload/
 ---
-## Properti FileSpecification.EncryptedPayload
+## FileSpecification.EncryptedPayload property
 
 Mendapatkan payload terenkripsi.
 
@@ -16,7 +16,9 @@ public EncryptedPayload EncryptedPayload { get; }
 
 ### Lihat Juga
 
-* kelas [EncryptedPayload](../../encryptedpayload/)
-* kelas [FileSpecification](../)
+* class [EncryptedPayload](../../encryptedpayload/)
+* class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

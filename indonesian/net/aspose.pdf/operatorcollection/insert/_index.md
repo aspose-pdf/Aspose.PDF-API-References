@@ -1,7 +1,7 @@
 ---
-title: OperatorCollection.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OperatorCollection. Menyisipkan operator ke dalam koleksi
+title: "OperatorCollection.Insert"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OperatorCollection. Menyisipkan operator ke dalam koleksi."
 type: docs
 weight: 140
 url: /id/net/aspose.pdf/operatorcollection/insert/
@@ -16,8 +16,8 @@ public override void Insert(int index, Operator op)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| index | Int32 | Indeks di mana operator baru harus ditambahkan |
-| op | Operator | Operator yang akan disisipkan |
+| index | Int32 | Indeks tempat operator baru harus ditambahkan. |
+| op | Operator | Operator yang akan disisipkan. |
 
 ## Contoh
 
@@ -32,8 +32,8 @@ oc.Add(new Aspose.Pdf.Operators.Q());
 
 ### Lihat Juga
 
-* kelas [Operator](../../operator/)
-* kelas [OperatorCollection](../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -41,7 +41,7 @@ oc.Add(new Aspose.Pdf.Operators.Q());
 
 ## Insert(int, Operator[]) {#insert_1}
 
-Sisipkan operator di posisi yang diberikan.
+Menyisipkan operator pada posisi yang diberikan.
 
 ```csharp
 public void Insert(int at, Operator[] ops)
@@ -64,8 +64,8 @@ oc.Insert(1, new Operator[] { new Aspose.Pdf.Operators.q(), new Aspose.Pdf.Opera
 
 ### Lihat Juga
 
-* kelas [Operator](../../operator/)
-* kelas [OperatorCollection](../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -73,7 +73,7 @@ oc.Insert(1, new Operator[] { new Aspose.Pdf.Operators.q(), new Aspose.Pdf.Opera
 
 ## Insert(int, IList&lt;Operator&gt;) {#insert_2}
 
-Sisipkan operator di posisi yang diberikan.
+Menyisipkan operator pada posisi yang diberikan.
 
 ```csharp
 public void Insert(int at, IList<Operator> ops)
@@ -99,7 +99,9 @@ oc.Insert(1, opList);
 
 ### Lihat Juga
 
-* kelas [Operator](../../operator/)
-* kelas [OperatorCollection](../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

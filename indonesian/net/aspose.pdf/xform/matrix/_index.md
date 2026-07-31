@@ -1,14 +1,14 @@
 ---
-title: XForm.Matrix
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XForm. Mengambil atau mengatur matriks dari bentuk
+title: "XForm.Matrix"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XForm. Mendapatkan atau mengatur matriks formulir"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/xform/matrix/
 ---
-## Properti XForm.Matrix
+## XForm.Matrix property
 
-Mengambil atau mengatur matriks dari bentuk.
+Mendapatkan atau mengatur matriks formulir.
 
 ```csharp
 public Matrix Matrix { get; set; }
@@ -16,7 +16,9 @@ public Matrix Matrix { get; set; }
 
 ### Lihat Juga
 
-* kelas [Matrix](../../matrix/)
-* kelas [XForm](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix](../../matrix/)
+* class [XForm](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

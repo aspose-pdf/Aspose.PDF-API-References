@@ -1,14 +1,14 @@
 ---
-title: WebHyperlink.WebHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor WebHyperlink. Menginisialisasi instance baru dari kelas WebHyperlink
+title: "WebHyperlink.WebHyperlink"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "WebHyperlink constructor. Menginisialisasi instance baru dari kelas WebHyperlink"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/webhyperlink/webhyperlink/
 ---
 ## WebHyperlink() {#constructor}
 
-Menginisialisasi instance baru dari kelas [`WebHyperlink`](../).
+Menginisialisasi instance baru dari [`WebHyperlink`](../) kelas.
 
 ```csharp
 public WebHyperlink()
@@ -16,7 +16,7 @@ public WebHyperlink()
 
 ### Lihat Juga
 
-* kelas [WebHyperlink](../)
+* class [WebHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public WebHyperlink()
 
 ## WebHyperlink(string) {#constructor_1}
 
-Menginisialisasi instance baru dari kelas [`WebHyperlink`](../).
+Menginisialisasi instance baru dari [`WebHyperlink`](../) kelas.
 
 ```csharp
 public WebHyperlink(string url)
@@ -36,6 +36,8 @@ public WebHyperlink(string url)
 
 ### Lihat Juga
 
-* kelas [WebHyperlink](../)
+* class [WebHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

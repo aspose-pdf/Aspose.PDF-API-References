@@ -1,12 +1,12 @@
 ---
-title: Class LlamaClient
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.LlamaClient. Mewakili klien untuk berinteraksi dengan API Llama
+title: "Kelas LlamaClient"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.LlamaClient. Mewakili klien untuk berinteraksi dengan API Llama"
 type: docs
-weight: 700
+weight: 750
 url: /id/net/aspose.pdf.ai/llamaclient/
 ---
-## Kelas LlamaClient
+## LlamaClient class
 
 Mewakili klien untuk berinteraksi dengan API Llama.
 
@@ -30,21 +30,23 @@ public class LlamaClient : AIClientBase, ILlamaClient, ISummaryClient<LlamaSumma
 | Nama | Deskripsi |
 | --- | --- |
 | [CreateCompletionAsync](../../aspose.pdf.ai/llamaclient/createcompletionasync/)(LlamaChatCompletionRequest, CancellationToken?) | Membuat permintaan penyelesaian obrolan di layanan Llama. |
-| [Dispose](../../aspose.pdf.ai/aiclientbase/dispose/)() | Menghapus sumber daya yang digunakan oleh [`AIClientBase`](../aiclientbase/). |
+| [Dispose](../../aspose.pdf.ai/aiclientbase/dispose/)() | Membuang sumber daya yang digunakan oleh [`AIClientBase`](../aiclientbase/). |
 | [GetSummaryCopilot](../../aspose.pdf.ai/llamaclient/getsummarycopilot/)(ISummaryCopilotOptions&lt;LlamaSummaryCopilotOptions&gt;) | Mendapatkan instance dari [`ISummaryCopilot`](../isummarycopilot/) dengan opsi yang ditentukan. |
-| static [CreateWithApiKey](../../aspose.pdf.ai/llamaclient/createwithapikey/)(string) | Membuat instance baru dari [`Builder`](../llamaclient.builder/) dengan kunci API yang diberikan. |
+| static [CreateWithApiKey](../../aspose.pdf.ai/llamaclient/createwithapikey/)(string) | Membuat instance baru dari [`Builder`](../llamaclient.builder/) dengan kunci API yang disediakan. |
 
-## Anggota Lainnya
+## Anggota Lain
 
 | Nama | Deskripsi |
 | --- | --- |
-| kelas [Builder](../../aspose.pdf.ai/llamaclient.builder) | Kelas Builder untuk membuat instance dari `LlamaClient`. |
+| class [Builder](../../aspose.pdf.ai/llamaclient.builder) | Kelas Builder untuk membuat instance dari `LlamaClient`. |
 
 ### Lihat Juga
 
-* kelas [AIClientBase](../aiclientbase/)
-* antarmuka [ILlamaClient](../illamaclient/)
-* antarmuka [ISummaryClient&lt;TOptions&gt;](../isummaryclient-1/)
-* kelas [LlamaSummaryCopilotOptions](../llamasummarycopilotoptions/)
-* ruang nama [Aspose.Pdf.AI](../../aspose.pdf.ai/)
+* class [AIClientBase](../aiclientbase/)
+* interface [ILlamaClient](../illamaclient/)
+* interface [ISummaryClient&lt;TOptions&gt;](../isummaryclient-1/)
+* class [LlamaSummaryCopilotOptions](../llamasummarycopilotoptions/)
+* namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

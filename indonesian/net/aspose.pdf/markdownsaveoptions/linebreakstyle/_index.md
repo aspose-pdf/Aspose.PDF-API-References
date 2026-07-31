@@ -1,12 +1,12 @@
 ---
-title: MarkdownSaveOptions.LineBreakStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MarkdownSaveOptions. Mendapatkan atau mengatur gaya pemisah baris untuk dokumen yang dihasilkan
+title: "MarkdownSaveOptions.LineBreakStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti MarkdownSaveOptions. Mendapatkan atau mengatur gaya pemisah baris untuk dokumen yang dihasilkan"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf/markdownsaveoptions/linebreakstyle/
 ---
-## Properti MarkdownSaveOptions.LineBreakStyle
+## MarkdownSaveOptions.LineBreakStyle property
 
 Mendapatkan atau mengatur gaya pemisah baris untuk dokumen yang dihasilkan.
 
@@ -20,3 +20,5 @@ public LineBreakStyle LineBreakStyle { get; set; }
 * class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

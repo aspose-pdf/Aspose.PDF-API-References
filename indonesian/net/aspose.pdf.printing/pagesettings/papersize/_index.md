@@ -1,12 +1,12 @@
 ---
-title: PageSettings.PaperSize
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageSettings. Mendapatkan atau mengatur ukuran kertas
+title: "PageSettings.PaperSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PageSettings. Mendapatkan atau mengatur ukuran kertas"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.printing/pagesettings/papersize/
 ---
-## Properti PageSettings.PaperSize
+## PageSettings.PaperSize property
 
 Mendapatkan atau mengatur ukuran kertas.
 
@@ -16,7 +16,9 @@ public PaperSize PaperSize { get; set; }
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PageSettings](../)
+* class [PaperSize](../../papersize/)
+* class [PageSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

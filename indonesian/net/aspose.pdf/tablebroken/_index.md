@@ -1,14 +1,14 @@
 ---
-title: Enum TableBroken
-second_title: Aspose.PDF for .NET API Reference
-description: Enum TableBroken Aspose.Pdf. Mengenumerasi tabel yang terputus
+title: "Enum TableBroken"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.TableBroken enum. Mengenumerasi table broken"
 type: docs
-weight: 10290
+weight: 10470
 url: /id/net/aspose.pdf/tablebroken/
 ---
-## Enumerasi TableBroken
+## TableBroken enumeration
 
-Mengenumerasi tabel yang terputus.
+Menumerasikan tabel yang rusak.
 
 ```csharp
 public enum TableBroken
@@ -18,12 +18,14 @@ public enum TableBroken
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| None | `0` | Tidak ada yang terputus. |
-| Vertical | `1` | Terputus secara vertikal. |
-| VerticalInSamePage | `2` | Terputus secara vertikal di halaman yang sama. |
-| IsInNextPage | `3` | Terputus ke halaman berikutnya. |
+| None | `0` | Tidak broken. |
+| Vertical | `1` | Vertical broken. |
+| VerticalInSamePage | `2` | Vertical broken in same page. |
+| IsInNextPage | `3` | Broken to next page. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

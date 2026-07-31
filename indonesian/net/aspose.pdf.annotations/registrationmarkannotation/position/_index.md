@@ -1,14 +1,14 @@
 ---
-title: RegistrationMarkAnnotation.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RegistrationMarkAnnotation. Mendapatkan atau mengatur posisi tanda pendaftaran di halaman
+title: "RegistrationMarkAnnotation.Position"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RegistrationMarkAnnotation. Mendapatkan atau mengatur posisi tanda registrasi pada halaman."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/registrationmarkannotation/position/
 ---
-## Properti RegistrationMarkAnnotation.Position
+## RegistrationMarkAnnotation.Position property
 
-Mendapatkan atau mengatur posisi tanda pendaftaran di halaman.
+Mendapatkan atau mengatur posisi tanda registrasi pada sebuah halaman.
 
 ```csharp
 public PrinterMarkSidePosition Position { get; set; }
@@ -20,3 +20,5 @@ public PrinterMarkSidePosition Position { get; set; }
 * class [RegistrationMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

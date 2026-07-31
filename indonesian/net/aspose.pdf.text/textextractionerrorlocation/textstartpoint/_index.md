@@ -1,14 +1,14 @@
 ---
-title: TextExtractionErrorLocation.TextStartPoint
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextExtractionErrorLocation. Nama kunci dari objek Font PDF yang digunakan untuk menunjukkan operator yang menyebabkan kesalahan ekstraksi teks
+title: "TextExtractionErrorLocation.TextStartPoint"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextExtractionErrorLocation. Nama kunci objek PDF Font yang digunakan untuk menampilkan operator yang menyebabkan kesalahan ekstraksi teks"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.text/textextractionerrorlocation/textstartpoint/
 ---
-## Properti TextExtractionErrorLocation.TextStartPoint
+## TextExtractionErrorLocation.TextStartPoint property
 
-Kunci (nama) dari objek Font PDF yang digunakan untuk menunjukkan operator yang menyebabkan kesalahan ekstraksi teks.
+Kunci (nama) objek PDF Font yang digunakan untuk menampilkan operator yang menyebabkan kesalahan ekstraksi teks.
 
 ```csharp
 public Point TextStartPoint { get; }
@@ -16,7 +16,9 @@ public Point TextStartPoint { get; }
 
 ### Lihat Juga
 
-* kelas [Point](../../../aspose.pdf/point/)
-* kelas [TextExtractionErrorLocation](../)
+* class [Point](../../../aspose.pdf/point/)
+* class [TextExtractionErrorLocation](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

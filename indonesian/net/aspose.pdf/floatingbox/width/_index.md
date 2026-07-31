@@ -1,12 +1,12 @@
 ---
-title: FloatingBox.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FloatingBox. Mendapatkan atau mengatur nilai float yang menunjukkan lebar kotak mengambang
+title: "FloatingBox.Width"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FloatingBox. Mendapatkan atau mengatur nilai float yang menunjukkan lebar kotak mengambang"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf/floatingbox/width/
 ---
-## Properti FloatingBox.Width
+## FloatingBox.Width property
 
 Mendapatkan atau mengatur nilai float yang menunjukkan lebar kotak mengambang.
 
@@ -16,6 +16,8 @@ public double Width { get; set; }
 
 ### Lihat Juga
 
-* kelas [FloatingBox](../)
+* class [FloatingBox](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

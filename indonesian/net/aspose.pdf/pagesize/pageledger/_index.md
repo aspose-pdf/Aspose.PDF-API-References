@@ -1,14 +1,14 @@
 ---
-title: PageSize.PageLedger
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageSize. Ukuran buku besar 432x279 mm
+title: "PageSize.PageLedger"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PageSize. Ukuran Ledger 432x279 mm"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf/pagesize/pageledger/
 ---
-## Properti PageSize.PageLedger
+## PageSize.PageLedger property
 
-Ukuran buku besar (432x279 mm).
+Ukuran Ledger (432x279 mm).
 
 ```csharp
 public static PageSize PageLedger { get; }
@@ -16,6 +16,8 @@ public static PageSize PageLedger { get; }
 
 ### Lihat Juga
 
-* kelas [PageSize](../)
+* class [PageSize](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class Rows
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Rows. Mewakili koleksi baris tabel
+title: "Kelas Rows"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Rows. Mewakili koleksi baris dari tabel"
 type: docs
-weight: 9840
+weight: 9990
 url: /id/net/aspose.pdf/rows/
 ---
-## Kelas Baris
+## Rows class
 
 Mewakili koleksi baris tabel.
 
@@ -32,16 +32,18 @@ public sealed class Rows : IEnumerable<Row>
 | Nama | Deskripsi |
 | --- | --- |
 | [Add](../../aspose.pdf/rows/add/#add)() | Menambahkan baris ke koleksi. |
-| [Add](../../aspose.pdf/rows/add/#add_1)(Row) | Menambahkan baris ke koleksi. |
-| [Dispose](../../aspose.pdf/rows/dispose/)() | Menghapus. |
+| [Add](../../aspose.pdf/rows/add/#add_1)(Row) | Menambahkan baris ke cellection. |
+| [Dispose](../../aspose.pdf/rows/dispose/)() | Dispose. |
 | [GetEnumerator](../../aspose.pdf/rows/getenumerator/)() | Mendapatkan enumerator koleksi |
 | [IndexOf](../../aspose.pdf/rows/indexof/)(Row) | Mengembalikan indeks baris dalam koleksi. |
 | [Remove](../../aspose.pdf/rows/remove/)(Row) | Menghapus baris dari koleksi. |
-| [RemoveAt](../../aspose.pdf/rows/removeat/)(int) | Menghapus baris pada posisi dari koleksi. |
+| [RemoveAt](../../aspose.pdf/rows/removeat/)(int) | Menghapus baris di posisi dari koleksi. |
 | [RemoveRange](../../aspose.pdf/rows/removerange/)(int, int) | Menghapus set baris dari koleksi. |
 
 ### Lihat Juga
 
-* kelas [Row](../row/)
+* class [Row](../row/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

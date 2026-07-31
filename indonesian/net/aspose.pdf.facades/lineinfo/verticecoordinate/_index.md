@@ -1,14 +1,14 @@
 ---
-title: LineInfo.VerticeCoordinate
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LineInfo. Mengambil atau menetapkan array angka yang mewakili koordinat horizontal dan vertikal yang bergantian masing-masing dari setiap vertex
+title: "LineInfo.VerticeCoordinate"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "LineInfo property. Mendapatkan atau menetapkan array angka yang mewakili koordinat horizontal dan vertikal bergantian masing-masing untuk setiap vertex"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.facades/lineinfo/verticecoordinate/
 ---
-## Properti LineInfo.VerticeCoordinate
+## LineInfo.VerticeCoordinate property
 
-Mengambil atau menetapkan array angka yang mewakili koordinat horizontal dan vertikal yang bergantian, masing-masing, dari setiap vertex.
+Mendapatkan atau mengatur array angka yang mewakili koordinat horizontal dan vertikal secara bergantian, masing‑masing, untuk setiap titik.
 
 ```csharp
 public float[] VerticeCoordinate { get; set; }
@@ -16,6 +16,8 @@ public float[] VerticeCoordinate { get; set; }
 
 ### Lihat Juga
 
-* kelas [LineInfo](../)
+* class [LineInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

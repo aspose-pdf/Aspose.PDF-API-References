@@ -1,14 +1,14 @@
 ---
-title: ButtonField.NormalCaption
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ButtonField. Mendapatkan atau mengatur keterangan normal
+title: "ButtonField.NormalCaption"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ButtonField. Mendapatkan atau mengatur caption normal."
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.forms/buttonfield/normalcaption/
 ---
-## Properti ButtonField.NormalCaption
+## ButtonField.NormalCaption property
 
-Mendapatkan atau mengatur keterangan normal.
+Mendapatkan atau mengatur caption normal.
 
 ```csharp
 public string NormalCaption { get; set; }
@@ -16,6 +16,8 @@ public string NormalCaption { get; set; }
 
 ### Lihat Juga
 
-* kelas [ButtonField](../)
-* ruang nama [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
+* class [ButtonField](../)
+* namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

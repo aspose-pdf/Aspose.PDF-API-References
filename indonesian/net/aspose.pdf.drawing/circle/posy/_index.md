@@ -1,14 +1,14 @@
 ---
-title: Circle.PosY
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Circle. Mengambil atau mengatur nilai float yang menunjukkan koordinat y dari pusat lingkaran
+title: "Circle.PosY"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Circle. Mendapatkan atau mengatur nilai float yang menunjukkan koordinat y dari pusat lingkaran"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.drawing/circle/posy/
 ---
-## Properti Circle.PosY
+## Circle.PosY property
 
-Mengambil atau mengatur nilai float yang menunjukkan koordinat y dari pusat lingkaran.
+Mendapatkan atau mengatur nilai float yang menunjukkan koordinat y pusat lingkaran.
 
 ```csharp
 public double PosY { get; set; }
@@ -16,6 +16,8 @@ public double PosY { get; set; }
 
 ### Lihat Juga
 
-* kelas [Circle](../)
+* class [Circle](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

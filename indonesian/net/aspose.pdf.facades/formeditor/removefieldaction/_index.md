@@ -1,14 +1,14 @@
 ---
-title: FormEditor.RemoveFieldAction
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FormEditor. Hapus aksi kirim dari field
+title: "FormEditor.RemoveFieldAction"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormEditor method. Menghapus aksi submit dari field."
 type: docs
 weight: 220
 url: /id/net/aspose.pdf.facades/formeditor/removefieldaction/
 ---
-## Metode FormEditor.RemoveFieldAction
+## FormEditor.RemoveFieldAction method
 
-Hapus aksi kirim dari field.
+Menghapus aksi submit field.
 
 ```csharp
 public void RemoveFieldAction(string fieldName)
@@ -16,7 +16,7 @@ public void RemoveFieldAction(string fieldName)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Nama dari field. |
+| fieldName | String | Nama bidang. |
 
 ## Contoh
 
@@ -27,6 +27,8 @@ formEditor.RemoveFieldAction("btnSubmit");
 
 ### Lihat Juga
 
-* kelas [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

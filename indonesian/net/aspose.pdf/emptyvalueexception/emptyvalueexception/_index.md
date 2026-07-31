@@ -1,7 +1,7 @@
 ---
-title: EmptyValueException.EmptyValueException
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor EmptyValueException. Menginisialisasi instance baru dari kelas EmptyValueException
+title: "EmptyValueException.EmptyValueException"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "EmptyValueException constructor. Menginisialisasi instance baru dari kelas EmptyValueException"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/emptyvalueexception/emptyvalueexception/
@@ -16,7 +16,7 @@ public EmptyValueException()
 
 ### Lihat Juga
 
-* kelas [EmptyValueException](../)
+* class [EmptyValueException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,6 +36,8 @@ public EmptyValueException(string message)
 
 ### Lihat Juga
 
-* kelas [EmptyValueException](../)
+* class [EmptyValueException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

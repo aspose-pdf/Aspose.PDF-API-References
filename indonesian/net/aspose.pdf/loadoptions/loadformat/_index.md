@@ -1,12 +1,12 @@
 ---
-title: LoadOptions.LoadFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LoadOptions. Mewakili format file yang dijelaskan oleh LoadOptions
+title: "LoadOptions.LoadFormat"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti LoadOptions. Mewakili format file yang dijelaskan oleh LoadOptions"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/loadoptions/loadformat/
 ---
-## Properti LoadOptions.LoadFormat
+## LoadOptions.LoadFormat property
 
 Mewakili format file yang dijelaskan oleh [`LoadOptions`](../).
 
@@ -20,3 +20,5 @@ public LoadFormat LoadFormat { get; }
 * class [LoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

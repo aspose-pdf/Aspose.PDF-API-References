@@ -1,12 +1,12 @@
 ---
-title: BX.BX
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor BX. Menginisialisasi operator
+title: "BX.BX"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor BX. Menginisialisasi operator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/bx/bx/
 ---
-## Konstruktor BX
+## BX constructor
 
 Menginisialisasi operator.
 
@@ -16,6 +16,8 @@ public BX()
 
 ### Lihat Juga
 
-* kelas [BX](../)
+* class [BX](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

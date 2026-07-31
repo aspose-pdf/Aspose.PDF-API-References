@@ -1,12 +1,12 @@
 ---
-title: PdfAnnotationEditor.DeleteAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfAnnotationEditor. Menghapus anotasi dengan nama anotasi yang ditentukan
+title: "PdfAnnotationEditor.DeleteAnnotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfAnnotationEditor. Menghapus anotasi dengan nama anotasi yang ditentukan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.facades/pdfannotationeditor/deleteannotation/
 ---
-## Metode PdfAnnotationEditor.DeleteAnnotation
+## PdfAnnotationEditor.DeleteAnnotation method
 
 Menghapus anotasi dengan nama anotasi yang ditentukan.
 
@@ -29,6 +29,8 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfAnnotationEditor](../)
+* class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

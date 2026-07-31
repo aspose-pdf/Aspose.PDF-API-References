@@ -1,12 +1,12 @@
 ---
-title: ListBoxField.Selected
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ListBoxField. Mendapatkan atau mengatur indeks item yang dipilih. Item diberi nomor mulai dari 1
+title: "ListBoxField.Selected"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ListBoxField. Mengambil atau mengatur indeks item yang dipilih. Item diberi nomor mulai dari 1."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.forms/listboxfield/selected/
 ---
-## Properti ListBoxField.Selected
+## ListBoxField.Selected property
 
 Mendapatkan atau mengatur indeks item yang dipilih. Item diberi nomor mulai dari 1.
 
@@ -16,6 +16,8 @@ public override int Selected { set; }
 
 ### Lihat Juga
 
-* kelas [ListBoxField](../)
+* class [ListBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

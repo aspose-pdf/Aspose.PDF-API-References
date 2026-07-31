@@ -1,7 +1,7 @@
 ---
-title: BoundsCheckableList1.UpdateBoundsCheckMode
-second_title: Aspose.PDF for .NET API Reference
-description: Metode BoundsCheckableList. Memperbarui parameter boundsCheckMode untuk koleksi yang diinisialisasi
+title: "BoundsCheckableList1.UpdateBoundsCheckMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode BoundsCheckableList. Memperbarui parameter boundsCheckMode untuk koleksi yang diinisialisasi."
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.generator/boundscheckablelist-1/updateboundscheckmode/
@@ -15,7 +15,7 @@ public void UpdateBoundsCheckMode(BoundsCheckMode boundsCheckMode, double contai
     double containerHeight)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | boundsCheckMode | BoundsCheckMode | Mode pemeriksaan batas. |
 | containerWidth | Double | Lebar kontainer. |
@@ -38,7 +38,7 @@ Memperbarui parameter boundsCheckMode untuk koleksi yang diinisialisasi.
 public void UpdateBoundsCheckMode(BoundsCheckMode boundsCheckMode)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | boundsCheckMode | BoundsCheckMode | Mode pemeriksaan batas. |
 
@@ -48,3 +48,5 @@ public void UpdateBoundsCheckMode(BoundsCheckMode boundsCheckMode)
 * class [BoundsCheckableList&lt;T&gt;](../)
 * namespace [Aspose.Pdf.Generator](../../../aspose.pdf.generator/)
 * assembly [Aspose.PDF](../../../)
+
+

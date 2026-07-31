@@ -1,14 +1,14 @@
 ---
-title: Enum PropertyFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Enum PropertyFlag Aspose.Pdf.Facades. Enumerasi kemungkinan bendera field
+title: "Enum PropertyFlag"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Facades.PropertyFlag. Enumerasi flag bidang yang mungkin"
 type: docs
-weight: 4660
+weight: 4780
 url: /id/net/aspose.pdf.facades/propertyflag/
 ---
-## Enumerasi PropertyFlag
+## PropertyFlag enumeration
 
-Enumerasi kemungkinan bendera field.
+Enumerasi flag bidang yang mungkin.
 
 ```csharp
 public enum PropertyFlag
@@ -19,11 +19,13 @@ public enum PropertyFlag
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | ReadOnly | `0` | Field bersifat hanya-baca. |
-| Required | `1` | Field diperlukan. |
+| Required | `1` | Field wajib diisi. |
 | NoExport | `2` | Field tidak dapat diekspor. |
-| InvalidFlag | `3` | Bendera field tidak valid. |
+| InvalidFlag | `3` | Flag field tidak valid. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

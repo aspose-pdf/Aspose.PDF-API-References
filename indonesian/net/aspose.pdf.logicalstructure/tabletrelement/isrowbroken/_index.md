@@ -1,14 +1,14 @@
 ---
-title: TableTRElement.IsRowBroken
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TableTRElement. Mendapatkan apakah baris dapat diputuskan antara dua halaman
+title: "TableTRElement.IsRowBroken"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TableTRElement. Mendapatkan apakah baris dapat dipotong antara dua halaman"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.logicalstructure/tabletrelement/isrowbroken/
 ---
-## Properti TableTRElement.IsRowBroken
+## TableTRElement.IsRowBroken property
 
-Mendapatkan apakah baris dapat diputuskan antara dua halaman.
+Mendapatkan apakah baris dapat dipotong antara dua halaman.
 
 ```csharp
 public bool IsRowBroken { get; set; }
@@ -16,6 +16,8 @@ public bool IsRowBroken { get; set; }
 
 ### Lihat Juga
 
-* kelas [TableTRElement](../)
+* class [TableTRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

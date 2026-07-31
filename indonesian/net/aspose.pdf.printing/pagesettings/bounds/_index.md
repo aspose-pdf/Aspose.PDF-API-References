@@ -1,12 +1,12 @@
 ---
-title: PageSettings.Bounds
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageSettings. Mendapatkan batas halaman dengan mempertimbangkan properti Landscape
+title: "PageSettings.Bounds"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PageSettings. Mendapatkan batas halaman dengan memperhitungkan properti Landscape."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.printing/pagesettings/bounds/
 ---
-## Properti PageSettings.Bounds
+## PageSettings.Bounds property
 
 Mendapatkan batas halaman, dengan mempertimbangkan properti Landscape.
 
@@ -16,7 +16,9 @@ public Rectangle Bounds { get; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [PageSettings](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [PageSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

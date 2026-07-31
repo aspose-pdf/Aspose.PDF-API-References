@@ -1,12 +1,12 @@
 ---
-title: Layer.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Layer. Meratakan lapisan yang ditentukan
+title: "Layer.Flatten"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Layer. Meratakan lapisan yang ditentukan"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/layer/flatten/
 ---
-## Metode Layer.Flatten
+## Layer.Flatten method
 
 Meratakan lapisan yang ditentukan.
 
@@ -24,6 +24,8 @@ Mengatur parameter *cleanupContentStream* ke false mempercepat proses perataan.
 
 ### Lihat Juga
 
-* kelas [Layer](../)
+* class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

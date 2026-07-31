@@ -1,12 +1,12 @@
 ---
-title: EncryptionOptions.EncryptionOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor EncryptionOptions. Menginisialisasi instance baru dari objek EncryptionOptions dengan opsi default
+title: "EncryptionOptions.EncryptionOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor EncryptionOptions. Menginisialisasi instance baru dari objek EncryptionOptions dengan opsi default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/encryptionoptions/encryptionoptions/
 ---
-## Konstruktor EncryptionOptions
+## EncryptionOptions constructor
 
 Menginisialisasi instance baru dari objek [`EncryptionOptions`](../) dengan opsi default.
 
@@ -17,15 +17,17 @@ public EncryptionOptions(string ownerPassword, string userPassword,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| ownerPassword | String | Kata sandi pemilik. |
+| ownerPassword | String | Password pemilik. |
 | userPassword | String | Kata sandi pengguna. |
 | documentPrivilege | DocumentPrivilege | Izin dokumen. |
 | cryptoAlgorithm | CryptoAlgorithm | Algoritma kriptografi. |
 
 ### Lihat Juga
 
-* kelas [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
 * enum [CryptoAlgorithm](../../../aspose.pdf/cryptoalgorithm/)
-* kelas [EncryptionOptions](../)
+* class [EncryptionOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: DefaultAppearance.FontSize
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DefaultAppearance. Mendapatkan ukuran font dalam tampilan default
+title: "DefaultAppearance.FontSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti DefaultAppearance. Mendapatkan ukuran font dalam tampilan default"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.annotations/defaultappearance/fontsize/
 ---
-## Properti DefaultAppearance.FontSize
+## DefaultAppearance.FontSize property
 
 Mendapatkan ukuran font dalam tampilan default.
 
@@ -16,6 +16,8 @@ public double FontSize { get; set; }
 
 ### Lihat Juga
 
-* kelas [DefaultAppearance](../)
+* class [DefaultAppearance](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

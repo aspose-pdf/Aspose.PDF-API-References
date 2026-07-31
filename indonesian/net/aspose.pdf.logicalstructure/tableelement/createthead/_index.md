@@ -1,12 +1,12 @@
 ---
-title: TableElement.CreateTHead
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TableElement. Membuat TableTHeadElement dan menambahkannya ke tabel saat ini
+title: "TableElement.CreateTHead"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TableElement. Membuat TableTHeadElement dan menambahkannya ke tabel saat ini"
 type: docs
 weight: 220
 url: /id/net/aspose.pdf.logicalstructure/tableelement/createthead/
 ---
-## Metode TableElement.CreateTHead
+## TableElement.CreateTHead method
 
 Membuat [`TableTHeadElement`](../../tabletheadelement/) dan menambahkannya ke tabel saat ini.
 
@@ -14,13 +14,15 @@ Membuat [`TableTHeadElement`](../../tabletheadelement/) dan menambahkannya ke ta
 public TableTHeadElement CreateTHead()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Elemen struktur yang dibuat.
+Elemen struktur dibuat.
 
 ### Lihat Juga
 
-* kelas [TableTHeadElement](../../tabletheadelement/)
-* kelas [TableElement](../)
+* class [TableTHeadElement](../../tabletheadelement/)
+* class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.Div
-second_title: Aspose.PDF for .NET API Reference
-description: StrukturTypeStandard field. Divisi Elemen blok tingkat umum atau kelompok elemen
+title: "StructureTypeStandard.Div"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang StructureTypeStandard. Division Elemen blok tingkat generik atau grup elemen"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.logicalstructure/structuretypestandard/div/
 ---
-## StrukturTypeStandard.Div field
+## StructureTypeStandard.Div field
 
-(Divisi) Elemen blok tingkat umum atau kelompok elemen.
+(Division) Sebuah elemen tingkat blok generik atau grup elemen.
 
 ```csharp
 public static readonly StructureTypeStandard Div;
@@ -19,3 +19,5 @@ public static readonly StructureTypeStandard Div;
 * class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

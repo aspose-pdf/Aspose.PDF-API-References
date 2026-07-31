@@ -1,12 +1,12 @@
 ---
-title: PDF3DRenderMode.Type
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PDF3DRenderMode. Mendapatkan tipe
+title: "PDF3DRenderMode.Type"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PDF3DRenderMode. Mendapatkan tipe"
 type: docs
 weight: 160
 url: /id/net/aspose.pdf.annotations/pdf3drendermode/type/
 ---
-## Properti PDF3DRenderMode.Type
+## PDF3DRenderMode.Type property
 
 Mendapatkan tipe.
 
@@ -14,7 +14,7 @@ Mendapatkan tipe.
 public RenderModeType Type { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Tipe.
 
@@ -24,3 +24,5 @@ Tipe.
 * class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

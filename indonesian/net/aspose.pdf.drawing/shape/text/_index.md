@@ -1,12 +1,12 @@
 ---
-title: Shape.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Shape. Mendapatkan atau mengatur teks untuk bentuk
+title: "Shape.Text"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Shape. Mendapatkan atau mengatur teks untuk shape"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.drawing/shape/text/
 ---
-## Properti Shape.Text
+## Shape.Text property
 
 Mendapatkan atau mengatur teks untuk bentuk
 
@@ -16,7 +16,9 @@ public TextFragment Text { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextFragment](../../../aspose.pdf.text/textfragment/)
-* kelas [Shape](../)
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [Shape](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextState.Subscript
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextState. Mendapatkan atau mengatur subskrip dari teks
+title: "TextState.Subscript"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextState. Mendapatkan atau mengatur subskrip teks."
 type: docs
 weight: 160
 url: /id/net/aspose.pdf.text/textstate/subscript/
 ---
-## Properti TextState.Subscript
+## TextState.Subscript property
 
-Mendapatkan atau mengatur subskrip dari teks.
+Mendapatkan atau mengatur subskrip teks.
 
 ```csharp
 public virtual bool Subscript { get; set; }
@@ -16,6 +16,8 @@ public virtual bool Subscript { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextState](../)
+* class [TextState](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

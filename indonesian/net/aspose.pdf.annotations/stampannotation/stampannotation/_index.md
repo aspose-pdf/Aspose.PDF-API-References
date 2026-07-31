@@ -1,7 +1,7 @@
 ---
-title: StampAnnotation.StampAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: StampAnnotation constructor. Constructor
+title: "StampAnnotation.StampAnnotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor StampAnnotation. Konstruktor"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/stampannotation/stampannotation/
@@ -37,8 +37,8 @@ public StampAnnotation(Page page, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman dokumen tempat anotasi harus dibuat. |
-| rect | Rectangle | Persegi panjang anotasi, yang mendefinisikan lokasi anotasi di halaman. |
+| halaman | Halaman | Halaman dokumen tempat anotasi harus dibuat. |
+| rect | Rectangle | Persegi panjang anotasi, yang menentukan lokasi anotasi pada halaman. |
 
 ### Lihat Juga
 
@@ -47,3 +47,5 @@ public StampAnnotation(Page page, Rectangle rect)
 * class [StampAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

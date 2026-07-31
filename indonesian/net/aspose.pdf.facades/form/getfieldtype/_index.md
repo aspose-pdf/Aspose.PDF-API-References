@@ -1,14 +1,14 @@
 ---
-title: Form.GetFieldType
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Mengembalikan tipe field
+title: "Form.GetFieldType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Mengembalikan tipe bidang"
 type: docs
 weight: 240
 url: /id/net/aspose.pdf.facades/form/getfieldtype/
 ---
-## Metode Form.GetFieldType
+## Form.GetFieldType method
 
-Mengembalikan tipe field.
+Mengembalikan tipe bidang.
 
 ```csharp
 public FieldType GetFieldType(string fieldName)
@@ -16,11 +16,11 @@ public FieldType GetFieldType(string fieldName)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Nama field. |
+| fieldName | String | Nama bidang. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Elemen dari enumerasi FileType yang sesuai dengan tipe field.
+Elemen enumerasi FileType yang sesuai dengan tipe bidang.
 
 ## Contoh
 
@@ -38,3 +38,5 @@ if (form.GetFieldType("textField") == FieldType.Text)
 * class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

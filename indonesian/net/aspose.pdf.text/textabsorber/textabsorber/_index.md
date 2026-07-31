@@ -1,7 +1,7 @@
 ---
-title: TextAbsorber.TextAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor TextAbsorber. Menginisialisasi instance baru dari TextAbsorber
+title: "TextAbsorber.TextAbsorber"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor TextAbsorber. Menginisialisasi instance baru dari TextAbsorber"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.text/textabsorber/textabsorber/
@@ -14,30 +14,30 @@ Menginisialisasi instance baru dari [`TextAbsorber`](../).
 public TextAbsorber()
 ```
 
-## Remarks
+## Catatan
 
-Melakukan ekstraksi teks dan memberikan akses ke teks yang diekstrak melalui objek [`Text`](../text/).
+Melakukan ekstraksi teks dan menyediakan akses ke teks yang diekstrak melalui objek [`Text`](../text/).
 
-## Examples
+## Contoh
 
 Contoh ini menunjukkan cara mengekstrak teks dari semua halaman dokumen PDF.
 
 ```csharp
-// open document
+// buka dokumen
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text
+// buat objek TextAbsorber untuk mengekstrak teks
 TextAbsorber absorber = new TextAbsorber();
 
-// accept the absorber for all document's pages
+// terima absorber untuk semua halaman dokumen
 doc.Pages.Accept(absorber);
 
-// get the extracted text
+// dapatkan teks yang diekstrak
 string extractedText = absorber.Text;
 
 ```
 
-### See Also
+### Lihat Juga
 
 * class [TextAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
@@ -53,34 +53,34 @@ Menginisialisasi instance baru dari [`TextAbsorber`](../) dengan opsi ekstraksi.
 public TextAbsorber(TextExtractionOptions extractionOptions)
 ```
 
-| Parameter | Type | Description |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | extractionOptions | TextExtractionOptions | Opsi ekstraksi teks |
 
-## Remarks
+## Catatan
 
-Melakukan ekstraksi teks dan memberikan akses ke teks yang diekstrak melalui objek [`Text`](../text/).
+Melakukan ekstraksi teks dan menyediakan akses ke teks yang diekstrak melalui objek [`Text`](../text/).
 
-## Examples
+## Contoh
 
 Contoh ini menunjukkan cara mengekstrak teks dari semua halaman dokumen PDF.
 
 ```csharp
-// open document
+// buka dokumen
 Document doc = new Document(inFile);
 
-// create TextAbsorber object to extract text with formatting
+// buat objek TextAbsorber untuk mengekstrak teks dengan pemformatan
 TextAbsorber absorber = new TextAbsorber(new TextExtractionOptions(TextExtractionOptions.TextFormattingMode.Pure));
 
-// accept the absorber for all document's pages
+// terima absorber untuk semua halaman dokumen
 doc.Pages.Accept(absorber);
 
-// get the extracted text
+// dapatkan teks yang diekstrak
 string extractedText = absorber.Text;
 
 ```
 
-### See Also
+### Lihat Juga
 
 * class [TextExtractionOptions](../../textextractionoptions/)
 * class [TextAbsorber](../)
@@ -97,16 +97,16 @@ Menginisialisasi instance baru dari [`TextAbsorber`](../) dengan opsi ekstraksi 
 public TextAbsorber(TextExtractionOptions extractionOptions, TextSearchOptions textSearchOptions)
 ```
 
-| Parameter | Type | Description |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | extractionOptions | TextExtractionOptions | Opsi ekstraksi teks |
 | textSearchOptions | TextSearchOptions | Opsi pencarian teks |
 
-## Remarks
+## Catatan
 
-Melakukan ekstraksi teks dan memberikan akses ke teks yang diekstrak melalui objek [`Text`](../text/).
+Melakukan ekstraksi teks dan menyediakan akses ke teks yang diekstrak melalui objek [`Text`](../text/).
 
-### See Also
+### Lihat Juga
 
 * class [TextExtractionOptions](../../textextractionoptions/)
 * class [TextSearchOptions](../../textsearchoptions/)
@@ -124,17 +124,19 @@ Menginisialisasi instance baru dari [`TextAbsorber`](../) dengan opsi pencarian 
 public TextAbsorber(TextSearchOptions textSearchOptions)
 ```
 
-| Parameter | Type | Description |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | textSearchOptions | TextSearchOptions | Opsi pencarian teks |
 
-## Remarks
+## Catatan
 
-Melakukan ekstraksi teks dan memberikan akses ke teks yang diekstrak melalui objek [`Text`](../text/).
+Melakukan ekstraksi teks dan menyediakan akses ke teks yang diekstrak melalui objek [`Text`](../text/).
 
-### See Also
+### Lihat Juga
 
 * class [TextSearchOptions](../../textsearchoptions/)
 * class [TextAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum TextStamp.NoCharacterAction
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.TextStampNoCharacterAction. Tindakan yang dilakukan jika font tidak mengandung karakter yang diperlukan
+title: "Enum TextStamp.NoCharacterAction"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.TextStampNoCharacterAction. Aksi yang akan dilakukan jika font tidak mengandung karakter yang diperlukan"
 type: docs
-weight: 11090
+weight: 11280
 url: /id/net/aspose.pdf/textstamp.nocharacteraction/
 ---
-## Enumerasi TextStamp.NoCharacterAction
+## TextStamp.NoCharacterAction enumeration
 
-Tindakan yang dilakukan jika font tidak mengandung karakter yang diperlukan.
+Aksi yang akan dilakukan jika font tidak mengandung karakter yang diperlukan.
 
 ```csharp
 public enum NoCharacterAction
@@ -18,13 +18,15 @@ public enum NoCharacterAction
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| ThrowException | `0` | Jika font tidak mengandung semua karakter dari string, sebuah pengecualian akan dilempar. |
-| UseStandardFont | `1` | Ganti font dengan font standar yang mengandung karakter yang diperlukan. |
-| ReplaceAnyway | `2` | Ganti teks tanpa penggantian font. |
-| UseCustomReplacementFont | `3` | Ganti font dengan font pengganti yang ditentukan. |
+| ThrowException | `0` | Jika font tidak mengandung semua karakter dalam string, sebuah pengecualian akan dilempar. |
+| UseStandardFont | `1` | Ganti font ke font standar yang mengandung karakter yang diperlukan. |
+| ReplaceAnyway | `2` | Ganti teks apa pun tanpa substitusi font. |
+| UseCustomReplacementFont | `3` | Ganti font ke font pengganti yang telah ditentukan. |
 
 ### Lihat Juga
 
-* kelas [TextStamp](../textstamp/)
-* ruang nama [Aspose.Pdf](../../aspose.pdf/)
+* class [TextStamp](../textstamp/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

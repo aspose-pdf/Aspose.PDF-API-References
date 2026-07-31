@@ -1,12 +1,12 @@
 ---
-title: GraphicalPdfComparer.CompareDocumentsToImages
-second_title: Aspose.PDF for .NET API Reference
-description: Metode GraphicalPdfComparer. Membandingkan dokumen secara grafis. Hasil perbandingan ditempatkan dalam gambar
+title: "GraphicalPdfComparer.CompareDocumentsToImages"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode GraphicalPdfComparer. Membandingkan dokumen secara grafis. Hasil perbandingan ditempatkan dalam gambar."
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.comparison/graphicalpdfcomparer/comparedocumentstoimages/
 ---
-## Metode GraphicalPdfComparer.CompareDocumentsToImages
+## GraphicalPdfComparer.CompareDocumentsToImages method
 
 Membandingkan dokumen secara grafis. Hasil perbandingan ditempatkan dalam gambar.
 
@@ -17,21 +17,23 @@ public void CompareDocumentsToImages(Document document1, Document document2,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| document1 | Document | Dokumen pertama yang akan dibandingkan. |
-| document2 | Document | Dokumen kedua yang akan dibandingkan. |
+| document1 | Document | Dokumen pertama untuk dibandingkan. |
+| document2 | Document | Dokumen kedua untuk dibandingkan. |
 | targetDirectory | String | Direktori untuk menyimpan hasil perbandingan. |
-| fileNamePrefix | String | Prefiks nama gambar. |
+| fileNamePrefix | String | Awalan nama gambar. |
 | imageFormat | ImageFormat | Format gambar untuk disimpan. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Jika halaman yang dibandingkan memiliki ukuran yang berbeda. Jika targetDirectory adalah null atau string kosong. Jika fileNamePrefix adalah null atau string kosong. |
+| ArgumentException | Jika halaman yang dibandingkan memiliki ukuran yang berbeda. Jika targetDirectory bernilai null atau string kosong. Jika fileNamePrefix bernilai null atau string kosong. |
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [GraphicalPdfComparer](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [GraphicalPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

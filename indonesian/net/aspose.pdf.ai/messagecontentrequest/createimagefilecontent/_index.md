@@ -1,12 +1,12 @@
 ---
-title: MessageContentRequest.CreateImageFileContent
-second_title: Aspose.PDF for .NET API Reference
-description: Metode MessageContentRequest. Membuat konten file gambar untuk sebuah pesan
+title: "MessageContentRequest.CreateImageFileContent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "MessageContentRequest method. Membuat konten file gambar untuk sebuah pesan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/messagecontentrequest/createimagefilecontent/
 ---
-## Metode MessageContentRequest.CreateImageFileContent
+## MessageContentRequest.CreateImageFileContent method
 
 Membuat konten file gambar untuk sebuah pesan.
 
@@ -16,15 +16,17 @@ public static MessageContentRequest CreateImageFileContent(string fileId, string
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fileId | String | ID dari file gambar. |
-| detail | String | Detail dari file gambar. Menentukan tingkat detail gambar jika ditentukan oleh pengguna. "low" menggunakan lebih sedikit token, Anda dapat memilih resolusi tinggi menggunakan "high". Default adalah "auto". |
+| fileId | String | ID file gambar. |
+| detail | String | Detail file gambar. Menentukan tingkat detail gambar jika ditentukan oleh pengguna. "low" menggunakan lebih sedikit token, Anda dapat memilih resolusi tinggi dengan menggunakan "high". Default adalah "auto". |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah instance baru dari MessageContentRequest dengan konten ImageFile.
+Instansi baru MessageContentRequest dengan konten ImageFile.
 
 ### Lihat Juga
 
-* kelas [MessageContentRequest](../)
+* class [MessageContentRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Field.MinFontSize
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Field. Ukuran font minimal yang dapat digunakan untuk konten field. 1 untuk tidak memeriksa ukuran
+title: "Field.MinFontSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Field. Ukuran font minimal yang dapat digunakan untuk konten field. 1 untuk tidak memeriksa ukuran"
 type: docs
 weight: 260
 url: /id/net/aspose.pdf.forms/field/minfontsize/
 ---
-## Properti Field.MinFontSize
+## Field.MinFontSize property
 
-Ukuran font minimal yang dapat digunakan untuk konten field. -1 untuk tidak memeriksa ukuran.
+Ukuran font minimal yang dapat digunakan untuk isi bidang. -1 untuk tidak memeriksa ukuran.
 
 ```csharp
 public static double MinFontSize { get; set; }
@@ -16,6 +16,8 @@ public static double MinFontSize { get; set; }
 
 ### Lihat Juga
 
-* kelas [Field](../)
+* class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

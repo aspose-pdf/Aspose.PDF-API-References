@@ -1,14 +1,14 @@
 ---
-title: Matrix.Translate
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Matrix. Menerjemahkan matriks dengan jumlah yang ditentukan dalam arah x dan y
+title: "Matrix.Translate"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Matrix. Memindahkan matrix dengan jumlah yang ditentukan pada arah x dan y."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/matrix/translate/
 ---
-## Metode Matrix.Translate
+## Matrix.Translate method
 
-Menerjemahkan matriks dengan jumlah yang ditentukan dalam arah x dan y.
+Menerjemahkan matriks sebesar jumlah yang ditentukan pada arah x dan y.
 
 ```csharp
 public static Matrix Translate(double dx, double dy, Matrix source)
@@ -16,16 +16,18 @@ public static Matrix Translate(double dx, double dy, Matrix source)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| dx | Double | Jumlah untuk menerjemahkan dalam arah x. |
-| dy | Double | Jumlah untuk menerjemahkan dalam arah y. |
-| source | Matrix | Matriks yang akan diterjemahkan. |
+| dx | Double | Jumlah yang dipindahkan pada arah x. |
+| dy | Double | Jumlah yang dipindahkan pada arah y. |
+| sumber | Matrix | Matrix yang akan dipindahkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Matriks baru yang merupakan hasil dari penerjemahan.
+Matrix baru yang merupakan hasil pemindahan.
 
 ### Lihat Juga
 
-* kelas [Matrix](../)
+* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: TiffSettings.Brightness
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TiffSettings. Mengambil atau mengatur batas nilai dari transformasi warna menjadi putih dan hitam. Parameter ini dapat diterapkan dengan EncoderValue.CompressionCCITT4, EncoderValue.CompressionCCITT3, EncoderValue.CompressionRle atau ColorDepth.Format1bpp == 1
+title: "TiffSettings.Brightness"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TiffSettings. Mendapatkan atau mengatur batas nilai transformasi warna antara putih dan hitam. Parameter ini dapat diterapkan dengan EncoderValue.CompressionCCITT4 EncoderValue.CompressionCCITT3 EncoderValue.CompressionRle atau ColorDepth.Format1bpp 1"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.devices/tiffsettings/brightness/
 ---
-## Properti TiffSettings.Brightness
+## TiffSettings.Brightness property
 
-Mengambil atau mengatur batas nilai dari transformasi warna menjadi putih dan hitam. Parameter ini dapat diterapkan dengan EncoderValue.CompressionCCITT4, EncoderValue.CompressionCCITT3, EncoderValue.CompressionRle atau ColorDepth.Format1bpp == 1
+Dapatkan atau atur batas nilai transformasi warna antara putih dan hitam. Parameter ini dapat diterapkan dengan EncoderValue.CompressionCCITT4, EncoderValue.CompressionCCITT3, EncoderValue.CompressionRle, atau ColorDepth.Format1bpp == 1
 
 ```csharp
 public float Brightness { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
-Nilai kecerahan harus berada dalam rentang dari 0 hingga 1. Secara default, nilai sama dengan 0.33f
+Nilai kecerahan harus berada dalam rentang 0 hingga 1. Secara default nilai adalah 0.33f
 
 ### Lihat Juga
 
-* kelas [TiffSettings](../)
+* class [TiffSettings](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

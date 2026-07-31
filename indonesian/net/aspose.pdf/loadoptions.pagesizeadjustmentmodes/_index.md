@@ -1,14 +1,14 @@
 ---
-title: Enum LoadOptions.PageSizeAdjustmentModes
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.LoadOptionsPageSizeAdjustmentModes. PERHATIAN Fitur ini telah diimplementasikan tetapi belum dimasukkan ke API publik karena masalah penghalang di lapisan OSHARED yang terungkap untuk dokumen contoh. Mewakili mode penggunaan ukuran halaman selama konversi. Format seperti HTML EPUB dll biasanya memiliki desain mengambang sehingga memungkinkan untuk menyesuaikan ukuran halaman yang diperlukan. Tetapi terkadang konten memiliki posisi horizontal atau ukuran tertentu yang tidak memungkinkan untuk menempatkan konten ke dalam ukuran halaman yang diperlukan. Dalam kasus seperti itu, kita dapat mendefinisikan apa yang harus dilakukan dalam kasus ini, yaitu ketika ukuran konten tidak sesuai dengan ukuran halaman awal yang diperlukan dari dokumen PDF hasil.
+title: "Enum LoadOptions.PageSizeAdjustmentModes"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.LoadOptionsPageSizeAdjustmentModes. ATTENTION Fitur telah diimplementasikan tetapi belum dipublikasikan ke API publik karena masalah blokir pada lapisan OSHARED yang terdeteksi pada dokumen contoh. Mewakili mode penggunaan ukuran halaman selama konversi. Format seperti HTML, EPUB, dll biasanya memiliki desain mengambang sehingga memungkinkan menyesuaikan ukuran halaman yang diperlukan. Namun terkadang konten menentukan posisi horizontal atau ukuran yang tidak memungkinkan menempatkan konten ke dalam ukuran halaman yang diperlukan. Dalam kasus ini kita dapat menentukan apa yang harus dilakukan, yaitu ketika ukuran konten tidak cocok dengan ukuran halaman awal yang diperlukan dari dokumen PDF hasil."
 type: docs
-weight: 6140
+weight: 6280
 url: /id/net/aspose.pdf/loadoptions.pagesizeadjustmentmodes/
 ---
-## Enumerasi LoadOptions.PageSizeAdjustmentModes
+## LoadOptions.PageSizeAdjustmentModes enumeration
 
-PERHATIAN! Fitur ini telah diimplementasikan tetapi belum dimasukkan ke API publik karena masalah penghalang di lapisan OSHARED yang terungkap untuk dokumen contoh. Mewakili mode penggunaan ukuran halaman selama konversi. Format (seperti HTML, EPUB dll), biasanya memiliki desain mengambang, sehingga memungkinkan untuk menyesuaikan ukuran halaman yang diperlukan. Tetapi terkadang konten memiliki posisi horizontal atau ukuran tertentu yang tidak memungkinkan untuk menempatkan konten ke dalam ukuran halaman yang diperlukan. Dalam kasus seperti itu, kita dapat mendefinisikan apa yang harus dilakukan dalam kasus ini (yaitu ketika ukuran konten tidak sesuai dengan ukuran halaman awal yang diperlukan dari dokumen PDF hasil).
+ATTENTION! Fitur telah diimplementasikan tetapi belum dipublikasikan ke API publik karena masalah blokir pada lapisan OSHARED yang terdeteksi pada dokumen contoh. Mewakili mode penggunaan ukuran halaman selama konversi. Format (seperti HTML, EPUB, dll), biasanya memiliki desain mengambang, sehingga memungkinkan menyesuaikan ukuran halaman yang diperlukan. Namun terkadang konten menentukan posisi horizontal atau ukuran yang tidak memungkinkan menempatkan konten ke dalam ukuran halaman yang diperlukan. Dalam kasus ini kita dapat menentukan apa yang harus dilakukan (misalnya ketika ukuran konten tidak cocok dengan ukuran halaman awal yang diperlukan dari dokumen PDF hasil).
 
 ```csharp
 public enum PageSizeAdjustmentModes
@@ -18,11 +18,13 @@ public enum PageSizeAdjustmentModes
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| NoAjustmentAllwaysUsePredefinedSize | `0` | Dalam mode ini, halaman hasil akan memiliki ukuran halaman yang diperlukan yang ditentukan dalam LoadOptions, tidak peduli apakah konten setelah konversi keluar dari batas halaman atau tidak. |
-| EnlargeRequiredViewportWidthAndDoConversionAgain | `1` | Mode ini mendefinisikan perilaku seperti ini: setelah mendapatkan hasil konversi, dan mendeteksi fakta bahwa beberapa konten telah terpotong, lebar portview diperbesar untuk menyesuaikan konten dan konversi diulang. Mode ini memungkinkan mendapatkan lebih sedikit halaman dalam hasil dalam kasus seperti itu tetapi memerlukan rendering ulang (dan oleh karena itu lebih banyak waktu pemrosesan). |
+| NoAjustmentAllwaysUsePredefinedSize | `0` | Dalam mode ini, halaman hasil akan memiliki ukuran halaman yang diperlukan sebagaimana didefinisikan dalam LoadOptions, terlepas apakah konten setelah konversi melampaui batas halaman atau tidak. |
+| EnlargeRequiredViewportWidthAndDoConversionAgain | `1` | Mode ini mendefinisikan perilaku tersebut: setelah memperoleh hasil konversi, dan mendeteksi fakta bahwa sebagian konten terpotong, lebar portview diperbesar untuk menyesuaikan konten dan konversi diulang. Mode ini memungkinkan memperoleh lebih sedikit halaman dalam hasil pada kasus tersebut tetapi memerlukan rendering berulang (dan oleh karena itu waktu pemrosesan lebih lama). |
 
 ### Lihat Juga
 
-* kelas [LoadOptions](../loadoptions/)
+* class [LoadOptions](../loadoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

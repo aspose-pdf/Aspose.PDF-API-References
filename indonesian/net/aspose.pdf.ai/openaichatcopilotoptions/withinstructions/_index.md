@@ -1,14 +1,14 @@
 ---
-title: OpenAIChatCopilotOptions.WithInstructions
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIChatCopilotOptions. Mengatur instruksi untuk opsi copilot chat
+title: "OpenAIChatCopilotOptions.WithInstructions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OpenAIChatCopilotOptions metode. Menetapkan instruksi untuk opsi copilot obrolan"
 type: docs
-weight: 120
+weight: 130
 url: /id/net/aspose.pdf.ai/openaichatcopilotoptions/withinstructions/
 ---
-## Metode OpenAIChatCopilotOptions.WithInstructions
+## OpenAIChatCopilotOptions.WithInstructions method
 
-Mengatur instruksi untuk opsi copilot chat.
+Mengatur instruksi untuk opsi copilot obrolan.
 
 ```csharp
 public OpenAIChatCopilotOptions WithInstructions(string instructions)
@@ -18,12 +18,14 @@ public OpenAIChatCopilotOptions WithInstructions(string instructions)
 | --- | --- | --- |
 | instructions | String | Instruksi yang akan diatur. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`OpenAIChatCopilotOptions`](../).
 
 ### Lihat Juga
 
-* kelas [OpenAIChatCopilotOptions](../)
+* class [OpenAIChatCopilotOptions](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextAnnotation. Mendapatkan jenis anotasi
+title: "TextAnnotation.AnnotationType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextAnnotation. Mendapatkan tipe anotasi"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/textannotation/annotationtype/
 ---
-## Properti TextAnnotation.AnnotationType
+## TextAnnotation.AnnotationType property
 
-Mendapatkan jenis anotasi.
+Mendapatkan tipe annotation.
 
 ```csharp
 public override AnnotationType AnnotationType { get; }
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [TextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

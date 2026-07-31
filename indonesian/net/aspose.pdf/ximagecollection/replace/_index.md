@@ -1,7 +1,7 @@
 ---
-title: XImageCollection.Replace
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XImageCollection. Ganti gambar dalam koleksi dengan gambar lain
+title: "XImageCollection.Replace"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode XImageCollection. Mengganti gambar dalam koleksi dengan gambar lain"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf/ximagecollection/replace/
@@ -21,7 +21,7 @@ public void Replace(int index, Stream stream)
 
 ### Lihat Juga
 
-* kelas [XImageCollection](../)
+* class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -40,11 +40,11 @@ public void Replace(int index, Stream stream, int quality, bool isBlackAndWhite)
 | index | Int32 | Indeks item koleksi yang akan diganti dalam rentang [1..jumlah gambar]. |
 | stream | Stream | Stream yang berisi data gambar (dalam format JPEG). |
 | quality | Int32 | Kualitas kompresi JPEG, dalam persen (nilai yang valid adalah 0..100). |
-| isBlackAndWhite | Boolean | Jika true, gambar dikompresi dengan metode kompresi CCITT yang memberikan kompresi lebih baik untuk gambar hitam dan putih. Dapat digunakan hanya untuk gambar hitam dan putih. |
+| isBlackAndWhite | Boolean | Jika true, gambar dikompresi dengan metode kompresi CCITT yang memberikan kompresi lebih baik untuk gambar hitam putih. Hanya dapat digunakan untuk gambar hitam putih. |
 
 ### Lihat Juga
 
-* kelas [XImageCollection](../)
+* class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -66,6 +66,8 @@ public void Replace(int index, Stream stream, int quality)
 
 ### Lihat Juga
 
-* kelas [XImageCollection](../)
+* class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

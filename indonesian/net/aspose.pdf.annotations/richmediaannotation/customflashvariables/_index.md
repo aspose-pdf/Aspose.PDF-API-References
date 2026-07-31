@@ -1,14 +1,14 @@
 ---
-title: RichMediaAnnotation.CustomFlashVariables
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RichMediaAnnotation. Mengatur atau mendapatkan variabel flash yang diteruskan ke pemutar
+title: "RichMediaAnnotation.CustomFlashVariables"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RichMediaAnnotation. Mengatur atau mendapatkan variabel flash yang diteruskan ke pemutar"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.annotations/richmediaannotation/customflashvariables/
 ---
-## Properti RichMediaAnnotation.CustomFlashVariables
+## RichMediaAnnotation.CustomFlashVariables property
 
-Mengatur atau mendapatkan variabel flash yang diteruskan ke pemutar.
+Mengatur atau mengambil variabel flash yang diteruskan ke pemutar.
 
 ```csharp
 public string CustomFlashVariables { get; set; }
@@ -16,6 +16,8 @@ public string CustomFlashVariables { get; set; }
 
 ### Lihat Juga
 
-* kelas [RichMediaAnnotation](../)
+* class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

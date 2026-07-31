@@ -1,12 +1,12 @@
 ---
-title: PdfFileStamp.PageHeight
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFileStamp. Mendapatkan tinggi halaman pertama dalam file sumber
+title: "PdfFileStamp.PageHeight"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfFileStamp property. Mendapatkan tinggi halaman pertama dalam file sumber"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.facades/pdffilestamp/pageheight/
 ---
-## Properti PdfFileStamp.PageHeight
+## PdfFileStamp.PageHeight property
 
 Mendapatkan tinggi halaman pertama dalam file sumber.
 
@@ -24,6 +24,8 @@ fileStamp.Close();
 
 ### Lihat Juga
 
-* kelas [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

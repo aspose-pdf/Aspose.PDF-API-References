@@ -1,12 +1,12 @@
 ---
-title: Tool.CodeInterpreter
-second_title: Aspose.PDF for .NET API Reference
-description: Properti alat. Mendapatkan instance alat yang mewakili interpreter kode
+title: "Tool.CodeInterpreter"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Tool. Mendapatkan instance alat yang mewakili interpreter kode"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/tool/codeinterpreter/
 ---
-## Properti Tool.CodeInterpreter
+## Tool.CodeInterpreter property
 
 Mendapatkan instance alat yang mewakili interpreter kode.
 
@@ -16,6 +16,8 @@ public static Tool CodeInterpreter { get; }
 
 ### Lihat Juga
 
-* kelas [Tool](../)
+* class [Tool](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FitBHExplicitDestination.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FitBHExplicitDestination. Mendapatkan koordinat vertikal atas yang diposisikan di tepi atas jendela
+title: "FitBHExplicitDestination.Top"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FitBHExplicitDestination. Mendapatkan koordinat vertikal atas yang diposisikan pada tepi atas jendela"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/fitbhexplicitdestination/top/
 ---
-## Properti FitBHExplicitDestination.Top
+## FitBHExplicitDestination.Top property
 
-Mendapatkan koordinat vertikal atas yang diposisikan di tepi atas jendela.
+Mendapatkan koordinat vertikal atas yang ditempatkan di tepi atas jendela.
 
 ```csharp
 public double Top { get; }
@@ -16,6 +16,8 @@ public double Top { get; }
 
 ### Lihat Juga
 
-* kelas [FitBHExplicitDestination](../)
+* class [FitBHExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

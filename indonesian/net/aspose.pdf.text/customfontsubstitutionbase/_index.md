@@ -1,14 +1,14 @@
 ---
-title: Class CustomFontSubstitutionBase
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Text.CustomFontSubstitutionBase. Mewakili kelas dasar untuk strategi substitusi font kustom
+title: "Kelas CustomFontSubstitutionBase"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Text.CustomFontSubstitutionBase. Mewakili kelas dasar untuk strategi substitusi font khusus"
 type: docs
-weight: 10470
+weight: 10650
 url: /id/net/aspose.pdf.text/customfontsubstitutionbase/
 ---
-## Kelas CustomFontSubstitutionBase
+## CustomFontSubstitutionBase class
 
-Mewakili kelas dasar untuk strategi substitusi font kustom.
+Mewakili kelas dasar untuk strategi substitusi font khusus.
 
 ```csharp
 public class CustomFontSubstitutionBase : FontSubstitution
@@ -26,7 +26,7 @@ public class CustomFontSubstitutionBase : FontSubstitution
 | --- | --- |
 | virtual [TrySubstitute](../../aspose.pdf.text/customfontsubstitutionbase/trysubstitute/)(OriginalFontSpecification, out Font) | Mengganti font asli dengan font lain. |
 
-## Anggota Lainnya
+## Anggota Lain
 
 | Nama | Deskripsi |
 | --- | --- |
@@ -37,3 +37,5 @@ public class CustomFontSubstitutionBase : FontSubstitution
 * class [FontSubstitution](../fontsubstitution/)
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

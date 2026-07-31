@@ -1,7 +1,7 @@
 ---
-title: TextOperator.TextOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor TextOperator. Menginisialisasi operator
+title: "TextOperator.TextOperator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor TextOperator. Menginisialisasi operator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/textoperator/textoperator/
@@ -16,7 +16,7 @@ public TextOperator()
 
 ### Lihat Juga
 
-* kelas [TextOperator](../)
+* class [TextOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,7 +36,9 @@ public TextOperator(TextProperties textProperties)
 
 ### Lihat Juga
 
-* kelas [TextProperties](../../../aspose.pdf.facades/textproperties/)
-* kelas [TextOperator](../)
+* class [TextProperties](../../../aspose.pdf.facades/textproperties/)
+* class [TextOperator](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

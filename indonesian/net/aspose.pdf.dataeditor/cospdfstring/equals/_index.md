@@ -1,12 +1,12 @@
 ---
-title: CosPdfString.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Metode CosPdfString. Menentukan bahwa objek yang ditentukan sama dengan objek saat ini
+title: "CosPdfString.Equals"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "CosPdfString method. Menentukan bahwa objek yang ditentukan sama dengan objek saat ini"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.dataeditor/cospdfstring/equals/
 ---
-## Metode CosPdfString.Equals
+## CosPdfString.Equals method
 
 Menentukan bahwa objek yang ditentukan sama dengan objek saat ini.
 
@@ -18,12 +18,14 @@ public override bool Equals(object obj)
 | --- | --- | --- |
 | obj | Object | Objek yang akan dibandingkan dengan objek saat ini. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True jika objek yang ditentukan sama dengan objek saat ini; jika tidak, false.
+True jika objek yang ditentukan sama dengan objek saat ini; selain itu, false.
 
 ### Lihat Juga
 
-* kelas [CosPdfString](../)
+* class [CosPdfString](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

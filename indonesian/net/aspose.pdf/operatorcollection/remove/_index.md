@@ -1,12 +1,12 @@
 ---
-title: OperatorCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OperatorCollection. Menghapus operator dari koleksi
+title: "OperatorCollection.Remove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OperatorCollection metode. Menghapus operator dari koleksi"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf/operatorcollection/remove/
 ---
-## Metode OperatorCollection.Remove
+## OperatorCollection.Remove method
 
 Menghapus operator dari koleksi.
 
@@ -18,13 +18,15 @@ public override bool Remove(Operator op)
 | --- | --- | --- |
 | op | Operator | Operator yang akan dihapus. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 True jika operator ditemukan dan dihapus. False jika operator tidak termasuk dalam koleksi.
 
 ### Lihat Juga
 
-* kelas [Operator](../../operator/)
-* kelas [OperatorCollection](../)
+* class [Operator](../../operator/)
+* class [OperatorCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

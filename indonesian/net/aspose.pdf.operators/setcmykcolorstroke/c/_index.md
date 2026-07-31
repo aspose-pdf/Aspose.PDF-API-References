@@ -1,12 +1,12 @@
 ---
-title: SetCMYKColorStroke.C
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SetCMYKColorStroke. Mendapatkan atau mengatur komponen cyan
+title: "SetCMYKColorStroke.C"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SetCMYKColorStroke. Mendapatkan atau mengatur komponen sian"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.operators/setcmykcolorstroke/c/
 ---
-## Properti SetCMYKColorStroke.C
+## SetCMYKColorStroke.C property
 
 Mendapatkan atau mengatur komponen cyan.
 
@@ -16,6 +16,8 @@ public double C { get; set; }
 
 ### Lihat Juga
 
-* kelas [SetCMYKColorStroke](../)
+* class [SetCMYKColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

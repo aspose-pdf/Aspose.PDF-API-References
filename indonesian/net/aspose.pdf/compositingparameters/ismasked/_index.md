@@ -1,14 +1,14 @@
 ---
-title: CompositingParameters.IsMasked
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CompositingParameters. Mendapatkan bendera masker
+title: "CompositingParameters.IsMasked"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CompositingParameters. Mendapatkan bendera masker"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/compositingparameters/ismasked/
 ---
-## Properti CompositingParameters.IsMasked
+## CompositingParameters.IsMasked property
 
-Mendapatkan bendera masker.
+Mendapatkan flag mask.
 
 ```csharp
 public bool IsMasked { get; }
@@ -16,6 +16,8 @@ public bool IsMasked { get; }
 
 ### Lihat Juga
 
-* kelas [CompositingParameters](../)
+* class [CompositingParameters](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

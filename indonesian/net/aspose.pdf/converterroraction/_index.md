@@ -1,14 +1,14 @@
 ---
-title: Enum ConvertErrorAction
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ConvertErrorAction Aspose.Pdf. Kelas ini mewakili tindakan untuk kesalahan konversi
+title: "Enum ConvertErrorAction"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.ConvertErrorAction enum. Kelas ini mewakili tindakan untuk kesalahan konversi"
 type: docs
-weight: 3360
+weight: 3470
 url: /id/net/aspose.pdf/converterroraction/
 ---
-## Enumerasi ConvertErrorAction
+## ConvertErrorAction enumeration
 
-Kelas ini mewakili tindakan untuk kesalahan konversi.
+Kelas ini mewakili aksi untuk kesalahan konversi.
 
 ```csharp
 public enum ConvertErrorAction
@@ -18,10 +18,12 @@ public enum ConvertErrorAction
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Hapus | `0` |  |
-| Tidak ada | `1` |  |
+| Delete | `0` |  |
+| None | `1` |  |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

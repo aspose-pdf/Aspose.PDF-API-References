@@ -1,14 +1,14 @@
 ---
-title: LinkAnnotation.Action
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LinkAnnotation. Sebuah aksi yang akan dilakukan ketika anotasi tautan diaktifkan
+title: "LinkAnnotation.Action"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "LinkAnnotation property. Tindakan yang akan dilakukan ketika anotasi tautan diaktifkan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/linkannotation/action/
 ---
-## Properti LinkAnnotation.Action
+## LinkAnnotation.Action property
 
-Sebuah aksi yang akan dilakukan ketika anotasi tautan diaktifkan.
+Aksi yang harus dilakukan ketika anotasi link diaktifkan.
 
 ```csharp
 public PdfAction Action { get; set; }
@@ -16,7 +16,9 @@ public PdfAction Action { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfAction](../../pdfaction/)
-* kelas [LinkAnnotation](../)
+* class [PdfAction](../../pdfaction/)
+* class [LinkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

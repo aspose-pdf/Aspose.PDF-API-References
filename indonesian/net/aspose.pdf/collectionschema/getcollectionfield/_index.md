@@ -1,14 +1,14 @@
 ---
-title: CollectionSchema.GetCollectionField
-second_title: Aspose.PDF for .NET API Reference
-description: Metode CollectionSchema. Mendapatkan field koleksi berdasarkan nama
+title: "CollectionSchema.GetCollectionField"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode CollectionSchema. Mendapatkan bidang koleksi berdasarkan nama"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/collectionschema/getcollectionfield/
 ---
-## Metode CollectionSchema.GetCollectionField
+## CollectionSchema.GetCollectionField method
 
-Mendapatkan field koleksi berdasarkan nama.
+Mendapatkan sebuah bidang koleksi berdasarkan nama.
 
 ```csharp
 public CollectionField GetCollectionField(string name)
@@ -16,11 +16,13 @@ public CollectionField GetCollectionField(string name)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| name | String | Nama field |
+| nama | String | Nama bidang |
 
 ### Lihat Juga
 
-* kelas [CollectionField](../../collectionfield/)
-* kelas [CollectionSchema](../)
+* class [CollectionField](../../collectionfield/)
+* class [CollectionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

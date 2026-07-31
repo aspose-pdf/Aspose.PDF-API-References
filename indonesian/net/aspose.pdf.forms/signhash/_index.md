@@ -1,14 +1,14 @@
 ---
-title: Delegate SignHash
-second_title: Aspose.PDF for .NET API Reference
-description: Delegasi untuk menandatangani hash dokumen secara kustom
+title: "Delegasi SignHash"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Delegasi untuk menandatangani hash dokumen secara khusus."
 type: docs
-weight: 5260
+weight: 5380
 url: /id/net/aspose.pdf.forms/signhash/
 ---
-## Delegasi SignHash
+## SignHash delegate
 
-Delegasi untuk menandatangani hash dokumen secara kustom.
+Delegasi untuk menandatangani hash dokumen secara khusus.
 
 ```csharp
 public delegate byte[] SignHash(byte[] hash, DigestHashAlgorithm digestHashAlgorithm);
@@ -16,19 +16,21 @@ public delegate byte[] SignHash(byte[] hash, DigestHashAlgorithm digestHashAlgor
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| hash | Byte[] | Hash input dari dokumen. |
-| digestHashAlgorithm | DigestHashAlgorithm | Algoritma digest yang digunakan untuk membuat hash. Nilai ini tidak akan pernah sama dengan Auto. |
+| hash | Byte[] | Hash masukan dari dokumen. |
+| digestHashAlgorithm | DigestHashAlgorithm | Algoritma digest yang digunakan untuk membuat hash. Nilainya tidak akan pernah sama dengan Auto. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Tanda tangan output.
+Tanda tangan keluaran.
 
 ## Catatan
 
-Perhatikan bahwa apakah tanda tangan digital terpisah atau tidak, argumen hash akan selalu menjadi hash akhir yang akan ditandatangani.
+Catatan bahwa apakah tanda tangan digital terpisah atau tidak, argumen hash akan selalu menjadi hash akhir yang akan ditandatangani.
 
 ### Lihat Juga
 
 * enum [DigestHashAlgorithm](../../aspose.pdf/digesthashalgorithm/)
 * namespace [Aspose.Pdf.Forms](../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../)
+
+

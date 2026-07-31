@@ -1,7 +1,7 @@
 ---
-title: SetColorStroke.SetColorStroke
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor SetColorStroke. Menginisialisasi operator
+title: "SetColorStroke.SetColorStroke"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor SetColorStroke. Menginisialisasi operator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/setcolorstroke/setcolorstroke/
@@ -16,7 +16,7 @@ public SetColorStroke()
 
 ### Lihat Juga
 
-* kelas [SetColorStroke](../)
+* class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public SetColorStroke()
 
 ## SetColorStroke(double) {#constructor_1}
 
-Mengatur warna untuk operator penebalan untuk ruang warna DeviceGray, CalGray, dan Indexed.
+Atur warna untuk operator stroking pada ruang warna DeviceGray, CalGray, dan Indexed.
 
 ```csharp
 public SetColorStroke(double g)
@@ -36,7 +36,7 @@ public SetColorStroke(double g)
 
 ### Lihat Juga
 
-* kelas [SetColorStroke](../)
+* class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -44,7 +44,7 @@ public SetColorStroke(double g)
 
 ## SetColorStroke(double, double, double) {#constructor_2}
 
-Mengatur warna untuk operator penebalan untuk ruang warna DeviceRGB, CalRGB, dan Lab.
+Atur warna untuk operator stroking pada ruang warna DeviceRGB, CalRGB, dan Lab.
 
 ```csharp
 public SetColorStroke(double r, double g, double b)
@@ -58,7 +58,7 @@ public SetColorStroke(double r, double g, double b)
 
 ### Lihat Juga
 
-* kelas [SetColorStroke](../)
+* class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -66,7 +66,7 @@ public SetColorStroke(double r, double g, double b)
 
 ## SetColorStroke(double[]) {#constructor_4}
 
-Konstruktor yang memungkinkan untuk mengatur komponen warna.
+Konstruktor yang memungkinkan mengatur komponen warna.
 
 ```csharp
 public SetColorStroke(double[] color)
@@ -78,7 +78,7 @@ public SetColorStroke(double[] color)
 
 ### Lihat Juga
 
-* kelas [SetColorStroke](../)
+* class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -86,7 +86,7 @@ public SetColorStroke(double[] color)
 
 ## SetColorStroke(double, double, double, double) {#constructor_3}
 
-Mengatur warna untuk operator penebalan untuk ruang warna CMYK.
+Atur warna untuk operator stroking pada ruang warna CMYK.
 
 ```csharp
 public SetColorStroke(double c, double m, double y, double k)
@@ -94,13 +94,15 @@ public SetColorStroke(double c, double m, double y, double k)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| c | Double | Komponen cyan. |
+| c | Double | Komponen sian. |
 | m | Double | Komponen magenta. |
 | y | Double | Komponen kuning. |
 | k | Double | Komponen hitam. |
 
 ### Lihat Juga
 
-* kelas [SetColorStroke](../)
+* class [SetColorStroke](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

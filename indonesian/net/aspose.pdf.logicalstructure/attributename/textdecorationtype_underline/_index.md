@@ -1,14 +1,14 @@
 ---
-title: AttributeName.TextDecorationType_Underline
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeName. Atribut TextDecorationType Garis Bawah Sebuah garis di bawah teks
+title: "AttributeName.TextDecorationType_Underline"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang AttributeName. Atribut TextDecorationType Underline  Garis di bawah teks"
 type: docs
 weight: 620
 url: /id/net/aspose.pdf.logicalstructure/attributename/textdecorationtype_underline/
 ---
-## Field AttributeName.TextDecorationType_Underline
+## AttributeName.TextDecorationType_Underline field
 
-Atribut TextDecorationType: Garis Bawah - Sebuah garis di bawah teks.
+Attribute TextDecorationType: Underline - Garis di bawah teks.
 
 ```csharp
 public static readonly AttributeName TextDecorationType_Underline;
@@ -16,6 +16,8 @@ public static readonly AttributeName TextDecorationType_Underline;
 
 ### Lihat Juga
 
-* kelas [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

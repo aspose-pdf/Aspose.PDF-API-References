@@ -1,12 +1,12 @@
 ---
-title: CompletionResponse.Model
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CompletionResponse. Mendapatkan atau mengatur model yang digunakan untuk penyelesaian obrolan
+title: "CompletionResponse.Model"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CompletionResponse. Mendapatkan atau mengatur model yang digunakan untuk penyelesaian obrolan"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.ai/completionresponse/model/
 ---
-## Properti CompletionResponse.Model
+## CompletionResponse.Model property
 
 Mendapatkan atau mengatur model yang digunakan untuk penyelesaian obrolan.
 
@@ -16,6 +16,8 @@ public string Model { get; set; }
 
 ### Lihat Juga
 
-* kelas [CompletionResponse](../)
+* class [CompletionResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormat.ForceDenominator
-second_title: Aspose.PDF for .NET API Reference
-description: Properti NumberFormat. Jika FractionDisplayment adalah ShowAsFraction, nilai ini menentukan apakah pecahan dapat dikurangi atau tidak. Jika nilai adalah true, pecahan mungkin tidak dapat dikurangi.
+title: "Measure.NumberFormat.ForceDenominator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "NumberFormat properti. Jika FractionDisplayment adalah ShowAsFraction nilai ini menentukan apakah fraksi akan dikurangi atau tidak. Jika nilai true fraksi mungkin tidak dikurangi"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.annotations/measure.numberformat/forcedenominator/
 ---
-## Properti Measure.NumberFormat.ForceDenominator
+## Measure.NumberFormat.ForceDenominator property
 
-Jika FractionDisplayment adalah ShowAsFraction, nilai ini menentukan apakah pecahan dapat dikurangi atau tidak. Jika nilai adalah true, pecahan mungkin tidak dapat dikurangi.
+Jika FractionDisplayment adalah ShowAsFraction, nilai ini menentukan apakah pecahan akan diperkecil atau tidak. Jika nilai ini true, pecahan tidak akan diperkecil.
 
 ```csharp
 public bool ForceDenominator { get; set; }
@@ -16,6 +16,8 @@ public bool ForceDenominator { get; set; }
 
 ### Lihat Juga
 
-* kelas [NumberFormat](../)
+* class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Enum HtmlSaveOptions.ImageParentTypes
-second_title: Aspose.PDF for .NET API Reference
-description: Enum HtmlSaveOptionsImageParentTypes dari Aspose.Pdf. Mengenumerasi jenis-jenis kemungkinan orang tua gambar yang dapat berkaitan dengan halaman HTML atau gambar SVG
+title: "Enum HtmlSaveOptions.ImageParentTypes"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.HtmlSaveOptionsImageParentTypes enum. Menentukan jenis-jenis kemungkinan orang tua gambar yang dapat terkait dengan halaman HTML atau dengan gambar induk SVG"
 type: docs
-weight: 5690
+weight: 5820
 url: /id/net/aspose.pdf/htmlsaveoptions.imageparenttypes/
 ---
-## Enumerasi HtmlSaveOptions.ImageParentTypes
+## HtmlSaveOptions.ImageParentTypes enumeration
 
-Mengenumerasi jenis-jenis kemungkinan orang tua gambar yang dapat berkaitan dengan halaman HTML atau gambar SVG
+Menentukan jenis-jenis kemungkinan orang tua gambar yang dapat terkait dengan halaman HTML atau dengan gambar induk SVG
 
 ```csharp
 public enum ImageParentTypes
@@ -18,11 +18,13 @@ public enum ImageParentTypes
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| HtmlPage | `0` | Gambar berkaitan dengan halaman HTML itu sendiri |
+| HtmlPage | `0` | Gambar terkait dengan halaman HTML itu sendiri |
 | SvgImage | `1` | Gambar disematkan dalam gambar SVG |
 
 ### Lihat Juga
 
-* kelas [HtmlSaveOptions](../htmlsaveoptions/)
+* class [HtmlSaveOptions](../htmlsaveoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

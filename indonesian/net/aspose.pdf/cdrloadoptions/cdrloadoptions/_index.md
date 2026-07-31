@@ -1,12 +1,12 @@
 ---
-title: CdrLoadOptions.CdrLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor CdrLoadOptions. Konstruktor default
+title: "CdrLoadOptions.CdrLoadOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor CdrLoadOptions. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/cdrloadoptions/cdrloadoptions/
 ---
-## Konstruktor CdrLoadOptions
+## CdrLoadOptions constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public CdrLoadOptions()
 
 ### Lihat Juga
 
-* kelas [CdrLoadOptions](../)
+* class [CdrLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

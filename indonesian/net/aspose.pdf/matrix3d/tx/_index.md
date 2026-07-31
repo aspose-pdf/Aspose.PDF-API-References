@@ -1,12 +1,12 @@
 ---
-title: Matrix3D.Tx
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Matrix3D. Anggota Tx dari matriks transformasi
+title: "Matrix3D.Tx"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Matrix3D. Anggota Tx dari matriks transformasi"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf/matrix3d/tx/
 ---
-## Properti Matrix3D.Tx
+## Matrix3D.Tx property
 
 Anggota Tx dari matriks transformasi.
 
@@ -16,6 +16,8 @@ public double Tx { get; set; }
 
 ### Lihat Juga
 
-* kelas [Matrix3D](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Matrix3D](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

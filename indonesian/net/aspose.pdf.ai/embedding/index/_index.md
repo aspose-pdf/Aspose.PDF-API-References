@@ -1,12 +1,12 @@
 ---
-title: Embedding.Index
-second_title: Aspose.PDF for .NET API Reference
-description: Properti embedding. Mendapatkan atau mengatur indeks embedding dalam daftar embedding
+title: "Embedding.Index"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Embedding property. Mendapatkan atau mengatur indeks embedding dalam daftar embedding"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/embedding/index/
 ---
-## Properti Embedding.Index
+## Embedding.Index property
 
 Mendapatkan atau mengatur indeks embedding dalam daftar embedding.
 
@@ -16,6 +16,8 @@ public int Index { get; set; }
 
 ### Lihat Juga
 
-* kelas [Embedding](../)
+* class [Embedding](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

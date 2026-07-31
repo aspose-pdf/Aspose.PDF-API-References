@@ -1,14 +1,14 @@
 ---
-title: Class SelectorRendition
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Annotations.SelectorRendition. Kelas ini menggambarkan selector rendition
+title: "Kelas SelectorRendition"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Annotations.SelectorRendition. Kelas ini menjelaskan rendition selector."
 type: docs
-weight: 2520
+weight: 2620
 url: /id/net/aspose.pdf.annotations/selectorrendition/
 ---
-## Kelas SelectorRendition
+## SelectorRendition class
 
-Kelas ini menggambarkan selector rendition.
+Kelas menjelaskan selector rendition.
 
 ```csharp
 public sealed class SelectorRendition : Rendition
@@ -18,12 +18,14 @@ public sealed class SelectorRendition : Rendition
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | String teks yang menentukan nama dari rendition untuk digunakan dalam antarmuka pengguna dan untuk pencarian nama oleh aksi JavaScript. |
-| [Renditions](../../aspose.pdf.annotations/selectorrendition/renditions/) { get; } | Mendapatkan array dari renditions. |
+| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | String teks yang menentukan nama rendition untuk digunakan dalam antarmuka pengguna dan untuk pencarian name tree oleh aksi JavaScript. |
+| [Renditions](../../aspose.pdf.annotations/selectorrendition/renditions/) { get; } | Mendapatkan array rendisi. |
 | [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Mendapatkan tipe rendition. |
 
 ### Lihat Juga
 
-* kelas [Rendition](../rendition/)
+* class [Rendition](../rendition/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: NumberField.AllowedChars
-second_title: Aspose.PDF for .NET API Reference
-description: Properti NumberField. Mengambil atau mengatur karakter yang diizinkan
+title: "NumberField.AllowedChars"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti NumberField. Mendapatkan atau mengatur karakter yang diizinkan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.forms/numberfield/allowedchars/
 ---
-## Properti NumberField.AllowedChars
+## NumberField.AllowedChars property
 
-Mengambil atau mengatur karakter yang diizinkan.
+Mendapatkan atau mengatur karakter yang diizinkan.
 
 ```csharp
 public string AllowedChars { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 String karakter yang diizinkan. 0123456789 secara default
 
 ### Lihat Juga
 
-* kelas [NumberField](../)
+* class [NumberField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

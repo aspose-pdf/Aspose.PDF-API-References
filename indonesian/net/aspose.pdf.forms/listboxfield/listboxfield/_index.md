@@ -1,7 +1,7 @@
 ---
-title: ListBoxField.ListBoxField
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor ListBoxField. Konstruktor untuk ListBoxField yang akan digunakan dalam Generator
+title: "ListBoxField.ListBoxField"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor ListBoxField. Konstruktor untuk ListBoxField yang akan digunakan dalam Generator."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.forms/listboxfield/listboxfield/
@@ -24,7 +24,7 @@ public ListBoxField()
 
 ## ListBoxField(Page, Rectangle) {#constructor_2}
 
-Membuat field ListBox baru.
+Membuat bidang ListBox baru.
 
 ```csharp
 public ListBoxField(Page page, Rectangle rect)
@@ -32,8 +32,8 @@ public ListBoxField(Page page, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman tempat kotak daftar akan ditempatkan. |
-| rect | Rectangle | Persegi panjang tempat kotak daftar akan ditempatkan di halaman. |
+| halaman | Halaman | Page tempat list box akan ditempatkan. |
+| rect | Rectangle | Rectangle tempat list box akan ditempatkan pada halaman. |
 
 ### Lihat Juga
 
@@ -47,7 +47,7 @@ public ListBoxField(Page page, Rectangle rect)
 
 ## ListBoxField(Document, Rectangle) {#constructor_1}
 
-Konstruktor untuk field ListBox.
+Konstruktor untuk bidang ListBox.
 
 ```csharp
 public ListBoxField(Document doc, Rectangle rect)
@@ -55,8 +55,8 @@ public ListBoxField(Document doc, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| doc | Document | Dokumen yang akan menjadi milik field ini. |
-| rect | Rectangle | Persegi panjang tempat kotak daftar akan ditempatkan. |
+| doc | Document | Document yang akan menjadi milik field ini. |
+| rect | Rectangle | Rectangle tempat list box akan ditempatkan. |
 
 ### Lihat Juga
 
@@ -65,3 +65,5 @@ public ListBoxField(Document doc, Rectangle rect)
 * class [ListBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

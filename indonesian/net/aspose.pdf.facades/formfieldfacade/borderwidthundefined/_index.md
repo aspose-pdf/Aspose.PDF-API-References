@@ -1,7 +1,7 @@
 ---
-title: FormFieldFacade.BorderWidthUndefined
-second_title: Aspose.PDF for .NET API Reference
-description: FormFieldFacade field. Lebar batas tidak terdefinisi
+title: "FormFieldFacade.BorderWidthUndefined"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormFieldFacade field. Lebar batas tidak terdefinisi"
 type: docs
 weight: 380
 url: /id/net/aspose.pdf.facades/formfieldfacade/borderwidthundefined/
@@ -19,3 +19,5 @@ public const float BorderWidthUndefined;
 * class [FormFieldFacade](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

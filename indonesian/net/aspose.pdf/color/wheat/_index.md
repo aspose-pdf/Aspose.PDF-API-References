@@ -1,25 +1,27 @@
 ---
-title: Color.Wheat
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem dengan nilai ARGB c FFF5DEB3
+title: "Color.Wheat"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem yang memiliki nilai ARGB c FFF5DEB3"
 type: docs
 weight: 1380
 url: /id/net/aspose.pdf/color/wheat/
 ---
-## Properti Color.Wheat
+## Color.Wheat property
 
-Mendapatkan warna yang ditentukan sistem dengan nilai ARGB \c \#FFF5DEB3.
+Mendapatkan warna yang didefinisikan sistem yang memiliki nilai ARGB \c \#FFF5DEB3.
 
 ```csharp
 public static Color Wheat { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah yang mewakili warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

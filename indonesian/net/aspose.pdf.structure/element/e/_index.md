@@ -1,14 +1,14 @@
 ---
-title: Element.E
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Elemen. PDF 1.5 bentuk diperluas dari singkatan
+title: "Element.E"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Element. Opsional PDF 1.5 Bentuk lengkap dari singkatan"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.structure/element/e/
 ---
-## Properti Element.E
+## Element.E property
 
-(Optional; PDF 1.5) Bentuk diperluas dari singkatan.
+(Opsional; PDF 1.5) Bentuk lengkap dari sebuah singkatan.
 
 ```csharp
 public virtual string E { get; set; }
@@ -16,6 +16,8 @@ public virtual string E { get; set; }
 
 ### Lihat Juga
 
-* kelas [Element](../)
+* class [Element](../)
 * namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../../)
+
+

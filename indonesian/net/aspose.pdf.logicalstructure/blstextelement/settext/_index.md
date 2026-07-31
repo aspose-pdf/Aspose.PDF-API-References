@@ -1,12 +1,12 @@
 ---
-title: BLSTextElement.SetText
-second_title: Aspose.PDF for .NET API Reference
-description: BLSTextElement method.
+title: "BLSTextElement.SetText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode BLSTextElement."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.logicalstructure/blstextelement/settext/
 ---
-## Metode BLSTextElement.SetText
+## BLSTextElement.SetText method
 
 ```csharp
 public void SetText(string text)
@@ -14,6 +14,8 @@ public void SetText(string text)
 
 ### Lihat Juga
 
-* kelas [BLSTextElement](../)
-* ruang nama [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [BLSTextElement](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

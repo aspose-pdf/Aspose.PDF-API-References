@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.PrcEnvelopeNumber2Rotated
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSizes. 2 amplop diputar 176 mm x 102 mm
+title: "PaperSizes.PrcEnvelopeNumber2Rotated"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PaperSizes bidang. amplop 2 diputar 176 mm x 102 mm"
 type: docs
 weight: 910
 url: /id/net/aspose.pdf.printing/papersizes/prcenvelopenumber2rotated/
 ---
-## Bidang PaperSizes.PrcEnvelopeNumber2Rotated
+## PaperSizes.PrcEnvelopeNumber2Rotated field
 
-#2 amplop diputar (176 mm x 102 mm).
+Amplop terputar #2 (176 mm x 102 mm).
 
 ```csharp
 public static readonly PaperSize PrcEnvelopeNumber2Rotated;
@@ -16,7 +16,9 @@ public static readonly PaperSize PrcEnvelopeNumber2Rotated;
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

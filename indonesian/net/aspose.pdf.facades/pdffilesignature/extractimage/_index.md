@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature.ExtractImage
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileSignature. Mengekstrak gambar tanda tangan
+title: "PdfFileSignature.ExtractImage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileSignature. Mengekstrak gambar tanda tangan"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.facades/pdffilesignature/extractimage/
 ---
-## Metode PdfFileSignature.ExtractImage
+## PdfFileSignature.ExtractImage method
 
 Mengekstrak gambar tanda tangan.
 
@@ -18,13 +18,15 @@ public Stream ExtractImage(SignatureName signName)
 | --- | --- | --- |
 | signName | SignatureName | Nama tanda tangan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Jika gambar berhasil ditemukan maka mengembalikan objek stream; jika tidak, null.
 
 ### Lihat Juga
 
-* kelas [SignatureName](../../signaturename/)
-* kelas [PdfFileSignature](../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

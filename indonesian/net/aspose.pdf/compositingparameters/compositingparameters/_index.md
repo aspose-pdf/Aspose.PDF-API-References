@@ -1,7 +1,7 @@
 ---
-title: CompositingParameters.CompositingParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor CompositingParameters. Menginisialisasi instance baru dari objek CompositingParameters
+title: "CompositingParameters.CompositingParameters"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor CompositingParameters. Menginisialisasi instance baru dari objek CompositingParameters."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/compositingparameters/compositingparameters/
@@ -16,7 +16,7 @@ public CompositingParameters(BlendMode blendMode)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| blendMode | BlendMode | Mode pencampuran dari status grafik saat ini. |
+| blendMode | BlendMode | Mode campuran dari keadaan grafik saat ini. |
 
 ### Lihat Juga
 
@@ -37,8 +37,8 @@ public CompositingParameters(BlendMode blendMode, ImageFilterType filterType)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| blendMode | BlendMode | Mode pencampuran dari status grafik saat ini. |
-| filterType | ImageFilterType | Tipe filter gambar. |
+| blendMode | BlendMode | Mode campuran dari keadaan grafik saat ini. |
+| filterType | ImageFilterType | Jenis filter gambar. |
 
 ### Lihat Juga
 
@@ -60,9 +60,9 @@ public CompositingParameters(BlendMode blendMode, ImageFilterType filterType, bo
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| blendMode | BlendMode | Mode pencampuran dari status grafik saat ini. |
-| filterType | ImageFilterType | Tipe filter gambar. |
-| isMasked | Boolean | Flag penambahan masker. |
+| blendMode | BlendMode | Mode campuran dari keadaan grafik saat ini. |
+| filterType | ImageFilterType | Jenis filter gambar. |
+| isMasked | Boolean | Bendera penambahan masker. |
 
 ### Lihat Juga
 
@@ -71,3 +71,5 @@ public CompositingParameters(BlendMode blendMode, ImageFilterType filterType, bo
 * class [CompositingParameters](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

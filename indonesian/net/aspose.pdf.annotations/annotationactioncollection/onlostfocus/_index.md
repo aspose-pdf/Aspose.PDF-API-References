@@ -1,12 +1,12 @@
 ---
-title: AnnotationActionCollection.OnLostFocus
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AnnotationActionCollection. Mendapatkan atau mengatur aksi yang akan dilakukan ketika anotasi kehilangan fokus input
+title: "AnnotationActionCollection.OnLostFocus"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti AnnotationActionCollection. Mendapatkan atau mengatur aksi yang akan dilakukan ketika anotasi kehilangan fokus input"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.annotations/annotationactioncollection/onlostfocus/
 ---
-## Properti AnnotationActionCollection.OnLostFocus
+## AnnotationActionCollection.OnLostFocus property
 
 Mendapatkan atau mengatur aksi yang akan dilakukan ketika anotasi kehilangan fokus input.
 
@@ -16,7 +16,9 @@ public PdfAction OnLostFocus { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfAction](../../pdfaction/)
-* kelas [AnnotationActionCollection](../)
+* class [PdfAction](../../pdfaction/)
+* class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

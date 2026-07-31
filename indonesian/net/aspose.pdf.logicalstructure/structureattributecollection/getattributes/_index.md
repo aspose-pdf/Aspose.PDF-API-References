@@ -1,14 +1,14 @@
 ---
-title: StructureAttributeCollection.GetAttributes
-second_title: Aspose.PDF for .NET API Reference
-description: Metode StructureAttributeCollection. Mengembalikan StructureAttributes dari elemen struktur berdasarkan pemilik atribut standar
+title: "StructureAttributeCollection.GetAttributes"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode StructureAttributeCollection. Mengembalikan StructureAttributes dari struktur elemen berdasarkan pemilik atribut standar"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.logicalstructure/structureattributecollection/getattributes/
 ---
-## Metode StructureAttributeCollection.GetAttributes
+## StructureAttributeCollection.GetAttributes method
 
-Mengembalikan [`StructureAttributes`](../../structureattributes/) dari elemen struktur berdasarkan pemilik atribut standar.
+Kembalikan [`StructureAttributes`](../../structureattributes/) dari struktur elemen berdasarkan pemilik atribut standar.
 
 ```csharp
 public StructureAttributes GetAttributes(AttributeOwnerStandard ownerStandard)
@@ -18,14 +18,16 @@ public StructureAttributes GetAttributes(AttributeOwnerStandard ownerStandard)
 | --- | --- | --- |
 | ownerStandard | AttributeOwnerStandard | Pemilik atribut standar. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-[`StructureAttributes`](../../structureattributes/) dari elemen struktur. Mengembalikan null jika tidak ditemukan.
+[`StructureAttributes`](../../structureattributes/) of structure element. Return null if not found.
 
 ### Lihat Juga
 
-* kelas [StructureAttributes](../../structureattributes/)
-* kelas [AttributeOwnerStandard](../../attributeownerstandard/)
-* kelas [StructureAttributeCollection](../)
+* class [StructureAttributes](../../structureattributes/)
+* class [AttributeOwnerStandard](../../attributeownerstandard/)
+* class [StructureAttributeCollection](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

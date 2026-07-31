@@ -1,14 +1,14 @@
 ---
-title: Field.MaxFontSize
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Field. Ukuran font maksimum yang dapat digunakan untuk konten field. 1 untuk tidak memeriksa ukuran
+title: "Field.MaxFontSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Field. Ukuran font maksimum yang dapat digunakan untuk konten bidang. 1 untuk tidak memeriksa ukuran"
 type: docs
 weight: 250
 url: /id/net/aspose.pdf.forms/field/maxfontsize/
 ---
-## Properti Field.MaxFontSize
+## Field.MaxFontSize property
 
-Ukuran font maksimum yang dapat digunakan untuk konten field. -1 untuk tidak memeriksa ukuran.
+Ukuran font maksimum yang dapat digunakan untuk isi bidang. -1 untuk tidak memeriksa ukuran.
 
 ```csharp
 public static double MaxFontSize { get; set; }
@@ -16,6 +16,8 @@ public static double MaxFontSize { get; set; }
 
 ### Lihat Juga
 
-* kelas [Field](../)
+* class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

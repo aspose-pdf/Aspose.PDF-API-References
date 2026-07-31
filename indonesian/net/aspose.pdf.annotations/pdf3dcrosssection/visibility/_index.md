@@ -1,25 +1,27 @@
 ---
-title: PDF3DCrossSection.Visibility
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PDF3DCrossSection. Mendapatkan atau mengatur nilai yang menunjukkan visibilitas dari persimpangan bidang pemotongan
+title: "PDF3DCrossSection.Visibility"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PDF3DCrossSection. Mendapatkan atau mengatur nilai yang menunjukkan visibilitas perpotongan bidang pemotongan"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.annotations/pdf3dcrosssection/visibility/
 ---
-## Properti PDF3DCrossSection.Visibility
+## PDF3DCrossSection.Visibility property
 
-Mendapatkan atau mengatur nilai yang menunjukkan visibilitas dari persimpangan bidang pemotongan.
+Mendapatkan atau mengatur nilai yang menunjukkan visibilitas perpotongan bidang pemotongan.
 
 ```csharp
 public bool Visibility { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 `true` jika terlihat; jika tidak, `false`.
 
 ### Lihat Juga
 
-* kelas [PDF3DCrossSection](../)
+* class [PDF3DCrossSection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

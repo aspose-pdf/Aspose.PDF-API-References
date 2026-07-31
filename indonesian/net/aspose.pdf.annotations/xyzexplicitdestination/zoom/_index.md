@@ -1,12 +1,12 @@
 ---
-title: XYZExplicitDestination.Zoom
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XYZExplicitDestination. Mendapatkan faktor zoom
+title: "XYZExplicitDestination.Zoom"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XYZExplicitDestination. Mendapatkan faktor zoom"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.annotations/xyzexplicitdestination/zoom/
 ---
-## Properti XYZExplicitDestination.Zoom
+## XYZExplicitDestination.Zoom property
 
 Mendapatkan faktor zoom.
 
@@ -16,6 +16,8 @@ public double Zoom { get; }
 
 ### Lihat Juga
 
-* kelas [XYZExplicitDestination](../)
+* class [XYZExplicitDestination](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

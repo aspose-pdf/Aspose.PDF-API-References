@@ -1,14 +1,14 @@
 ---
-title: AttributeName.BorderStyle_Double
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeName. Gaya Border Attribute Double  Border terdiri dari dua garis solid. Jumlah dari dua garis dan ruang di antara mereka sama dengan nilai BorderThickness
+title: "AttributeName.BorderStyle_Double"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeName field. Attribute BorderStyle Double  Batasnya terdiri dari dua garis padat. Jumlah kedua garis dan ruang di antara keduanya sama dengan nilai BorderThickness"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.logicalstructure/attributename/borderstyle_double/
 ---
-## Field AttributeName.BorderStyle_Double
+## AttributeName.BorderStyle_Double field
 
-Gaya Border Attribute: Double - Border terdiri dari dua garis solid. Jumlah dari dua garis dan ruang di antara mereka sama dengan nilai BorderThickness.
+Atribut BorderStyle: Double - Garis batas terdiri dari dua garis padat. Jumlah kedua garis dan ruang di antara keduanya sama dengan nilai BorderThickness.
 
 ```csharp
 public static readonly AttributeName BorderStyle_Double;
@@ -16,6 +16,8 @@ public static readonly AttributeName BorderStyle_Double;
 
 ### Lihat Juga
 
-* kelas [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

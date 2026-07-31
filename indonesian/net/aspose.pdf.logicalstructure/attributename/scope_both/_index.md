@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Scope_Both
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeName. Lingkup Atribut Keduanya
+title: "AttributeName.Scope_Both"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang AttributeName. Atribut Scope Both"
 type: docs
 weight: 520
 url: /id/net/aspose.pdf.logicalstructure/attributename/scope_both/
 ---
-## Bidang AttributeName.Scope_Both
+## AttributeName.Scope_Both field
 
-Lingkup Atribut: Keduanya.
+Atribut Scope: Both.
 
 ```csharp
 public static readonly AttributeName Scope_Both;
@@ -16,6 +16,8 @@ public static readonly AttributeName Scope_Both;
 
 ### Lihat Juga
 
-* kelas [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

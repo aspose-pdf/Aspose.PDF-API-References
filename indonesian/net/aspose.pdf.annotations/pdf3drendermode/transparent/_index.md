@@ -1,14 +1,14 @@
 ---
-title: PDF3DRenderMode.Transparent
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PDF3DRenderMode. Mode render Transparan
+title: "PDF3DRenderMode.Transparent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PDF3DRenderMode field. Mode render Transparent"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.annotations/pdf3drendermode/transparent/
 ---
-## Bidang PDF3DRenderMode.Transparent
+## PDF3DRenderMode.Transparent field
 
-Mode render "Transparan".
+The "Transparent" render mode.
 
 ```csharp
 public static PDF3DRenderMode Transparent;
@@ -16,6 +16,8 @@ public static PDF3DRenderMode Transparent;
 
 ### Lihat Juga
 
-* kelas [PDF3DRenderMode](../)
+* class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.PageCount
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfViewer. Mendapatkan jumlah halaman dari file Pdf saat ini
+title: "PdfViewer.PageCount"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfViewer. Mendapatkan jumlah halaman dari file Pdf saat ini"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.facades/pdfviewer/pagecount/
 ---
-## Properti PdfViewer.PageCount
+## PdfViewer.PageCount property
 
 Mendapatkan jumlah halaman dari file Pdf saat ini.
 
@@ -14,12 +14,14 @@ Mendapatkan jumlah halaman dari file Pdf saat ini.
 public int PageCount { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-mengembalikan jumlah halaman.
+Kembalikan jumlah halaman.
 
 ### Lihat Juga
 
-* kelas [PdfViewer](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfViewer](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

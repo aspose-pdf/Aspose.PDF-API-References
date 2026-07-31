@@ -1,14 +1,103 @@
 ---
-title: Document.Encrypt
-second_title: Aspose.PDF for .NET API Reference
-description: Metode dokumen. Mengenkripsi dokumen. Panggil kemudian Simpan untuk mendapatkan versi terenkripsi dari dokumen
+title: "Document.Encrypt"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Document. Mengenkripsi dokumen"
 type: docs
-weight: 620
+weight: 640
 url: /id/net/aspose.pdf/document/encrypt/
 ---
-## Encrypt(string, string, DocumentPrivilege, CryptoAlgorithm, bool) {#encrypt}
+## Encrypt(Permissions, CryptoAlgorithm, IList&lt;X509Certificate2&gt;) {#encrypt}
 
-Mengenkripsi dokumen. Panggil kemudian Simpan untuk mendapatkan versi terenkripsi dari dokumen.
+Mengenkripsi document.
+
+```csharp
+public void Encrypt(Permissions permissions, CryptoAlgorithm cryptoAlgorithm, 
+    IList<X509Certificate2> publicCertificates)
+```
+
+| Parameter | Tipe | Deskripsi |
+| --- | --- | --- |
+| permissions | Permissions | Izin Document, lihat [`Permissions`](../permissions/) untuk detail. |
+| cryptoAlgorithm | CryptoAlgorithm | Algoritma kriptografi, lihat [`CryptoAlgorithm`](../cryptoalgorithm/) untuk detail. |
+| publicCertificates | IList`1 | Sertifikat publik yang digunakan untuk enkripsi — satu per penerima. |
+
+## Catatan
+
+Metode ini mempersiapkan enkripsi. Untuk mengenkripsi dokumen, Anda perlu memanggil metode Save untuk menyimpannya.
+
+### Lihat Juga
+
+* enum [Permissions](../../permissions/)
+* enum [CryptoAlgorithm](../../cryptoalgorithm/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Encrypt(string, string, DocumentPrivilege, ICustomSecurityHandler) {#encrypt_2}
+
+Mengenkripsi document.
+
+```csharp
+public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege privileges, 
+    ICustomSecurityHandler customHandler)
+```
+
+| Parameter | Tipe | Deskripsi |
+| --- | --- | --- |
+| userPassword | String | Kata sandi pengguna. |
+| ownerPassword | String | Password pemilik. |
+| privileges | DocumentPrivilege | Izin Document, lihat [`Permissions`](../permissions/) untuk detail. |
+| customHandler | ICustomSecurityHandler | Handler keamanan khusus. |
+
+## Catatan
+
+Metode ini mempersiapkan enkripsi. Untuk mengenkripsi dokumen, Anda perlu memanggil metode Save untuk menyimpannya.
+
+### Lihat Juga
+
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Encrypt(string, string, Permissions, ICustomSecurityHandler) {#encrypt_5}
+
+Mengenkripsi document.
+
+```csharp
+public void Encrypt(string userPassword, string ownerPassword, Permissions permissions, 
+    ICustomSecurityHandler customHandler)
+```
+
+| Parameter | Tipe | Deskripsi |
+| --- | --- | --- |
+| userPassword | String | Kata sandi pengguna. |
+| ownerPassword | String | Password pemilik. |
+| permissions | Permissions | Izin Document, lihat [`Permissions`](../permissions/) untuk detail. |
+| customHandler | ICustomSecurityHandler | Handler keamanan khusus. |
+
+## Catatan
+
+Metode ini mempersiapkan enkripsi. Untuk mengenkripsi dokumen, Anda perlu memanggil metode Save untuk menyimpannya.
+
+### Lihat Juga
+
+* enum [Permissions](../../permissions/)
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Encrypt(string, string, DocumentPrivilege, CryptoAlgorithm, bool) {#encrypt_1}
+
+Mengenkripsi document.
 
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege privileges, 
@@ -18,60 +107,28 @@ public void Encrypt(string userPassword, string ownerPassword, DocumentPrivilege
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | userPassword | String | Kata sandi pengguna. |
-| ownerPassword | String | Kata sandi pemilik. |
-| privileges | DocumentPrivilege | Izin dokumen, lihat [`Permissions`](../permissions/) untuk detail. |
+| ownerPassword | String | Password pemilik. |
+| privileges | DocumentPrivilege | Izin Document, lihat [`Permissions`](../permissions/) untuk detail. |
 | cryptoAlgorithm | CryptoAlgorithm | Algoritma kriptografi, lihat [`CryptoAlgorithm`](../cryptoalgorithm/) untuk detail. |
 | usePdf20 | Boolean | Dukungan untuk revisi 6 (Ekstensi 8). |
 
-### Contoh
+## Catatan
 
-Contoh berikut menunjukkan cara mengenkripsi file PDF dengan [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege)
-
-```csharp
-[C#]
-
-	// The path to your PDF File.
-	string pdfFilePath = "YOUR_PDF_FILE_PATH";
-
-	// Open document
-	using (Document document = new Document(pdfFilePath))
-	{
-	// Encrypt PDF
-	document.Encrypt("YOUR_USER_PASSWORD", "YOUR_OWNER_PASSWORD", DocumentPrivilege.AllowAll, CryptoAlgorithm.RC4x128, true);
-
-	// Save updated PDF
-	document.Save(pdfFilePath);
-	}
-```
-
-```csharp
-[VB.NET]
-
-    ' The path to your PDF File.
-    Dim pdfFilePath As String = "YOUR_PDF_FILE_PATH"
-    
-	' Open document
-    Using document As Document = New Document(pdfFilePath)
-        ' Encrypt PDF
-        document.Encrypt("YOUR_USER_PASSWORD", "YOUR_OWNER_PASSWORD", DocumentPrivilege.AllowAll, CryptoAlgorithm.RC4x128, True)
-        ' Save updated PDF
-        document.Save(pdfFilePath)
-    End Using
-```
+Metode ini mempersiapkan enkripsi. Untuk mengenkripsi dokumen, Anda perlu memanggil metode Save untuk menyimpannya.
 
 ### Lihat Juga
 
-* kelas [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
+* class [DocumentPrivilege](../../../aspose.pdf.facades/documentprivilege/)
 * enum [CryptoAlgorithm](../../cryptoalgorithm/)
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Encrypt(string, string, Permissions, CryptoAlgorithm) {#encrypt_1}
+## Encrypt(string, string, Permissions, CryptoAlgorithm) {#encrypt_3}
 
-Mengenkripsi dokumen. Panggil kemudian Simpan untuk mendapatkan versi terenkripsi dari dokumen.
+Mengenkripsi document.
 
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, Permissions permissions, 
@@ -81,23 +138,27 @@ public void Encrypt(string userPassword, string ownerPassword, Permissions permi
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | userPassword | String | Kata sandi pengguna. |
-| ownerPassword | String | Kata sandi pemilik. |
-| permissions | Permissions | Izin dokumen, lihat [`Permissions`](../permissions/) untuk detail. |
+| ownerPassword | String | Password pemilik. |
+| permissions | Permissions | Izin Document, lihat [`Permissions`](../permissions/) untuk detail. |
 | cryptoAlgorithm | CryptoAlgorithm | Algoritma kriptografi, lihat [`CryptoAlgorithm`](../cryptoalgorithm/) untuk detail. |
+
+## Catatan
+
+Metode ini mempersiapkan enkripsi. Untuk mengenkripsi dokumen, Anda perlu memanggil metode Save untuk menyimpannya.
 
 ### Lihat Juga
 
 * enum [Permissions](../../permissions/)
 * enum [CryptoAlgorithm](../../cryptoalgorithm/)
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Encrypt(string, string, Permissions, CryptoAlgorithm, bool) {#encrypt_2}
+## Encrypt(string, string, Permissions, CryptoAlgorithm, bool) {#encrypt_4}
 
-Mengenkripsi dokumen. Panggil kemudian Simpan untuk mendapatkan versi terenkripsi dari dokumen.
+Mengenkripsi document.
 
 ```csharp
 public void Encrypt(string userPassword, string ownerPassword, Permissions permissions, 
@@ -107,15 +168,21 @@ public void Encrypt(string userPassword, string ownerPassword, Permissions permi
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | userPassword | String | Kata sandi pengguna. |
-| ownerPassword | String | Kata sandi pemilik. |
-| permissions | Permissions | Izin dokumen, lihat [`Permissions`](../permissions/) untuk detail. |
+| ownerPassword | String | Password pemilik. |
+| permissions | Permissions | Izin Document, lihat [`Permissions`](../permissions/) untuk detail. |
 | cryptoAlgorithm | CryptoAlgorithm | Algoritma kriptografi, lihat [`CryptoAlgorithm`](../cryptoalgorithm/) untuk detail. |
 | usePdf20 | Boolean | Dukungan untuk revisi 6 (Ekstensi 8). |
+
+## Catatan
+
+Metode ini mempersiapkan enkripsi. Untuk mengenkripsi dokumen, Anda perlu memanggil metode Save untuk menyimpannya.
 
 ### Lihat Juga
 
 * enum [Permissions](../../permissions/)
 * enum [CryptoAlgorithm](../../cryptoalgorithm/)
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionValueType.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XmpPdfAExtensionValueType. Menghapus field dari daftar field
+title: "XmpPdfAExtensionValueType.Remove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode XmpPdfAExtensionValueType. Menghapus bidang dari daftar bidang"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf/xmppdfaextensionvaluetype/remove/
 ---
-## Metode XmpPdfAExtensionValueType.Remove
+## XmpPdfAExtensionValueType.Remove method
 
-Menghapus field dari daftar field.
+Menghapus bidang dari daftar bidang.
 
 ```csharp
 public void Remove(XmpPdfAExtensionField field)
@@ -16,11 +16,13 @@ public void Remove(XmpPdfAExtensionField field)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| field | XmpPdfAExtensionField | Field yang akan dihapus. |
+| bidang | XmpPdfAExtensionField | Bidang yang akan dihapus. |
 
 ### Lihat Juga
 
-* kelas [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
-* kelas [XmpPdfAExtensionValueType](../)
+* class [XmpPdfAExtensionField](../../xmppdfaextensionfield/)
+* class [XmpPdfAExtensionValueType](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

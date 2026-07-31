@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.Prc32KBig
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSizes. Kertas besar 32K 97 mm x 151 mm
+title: "PaperSizes.Prc32KBig"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field PaperSizes. Kertas besar 32K 97 mm x 151 mm"
 type: docs
 weight: 830
 url: /id/net/aspose.pdf.printing/papersizes/prc32kbig/
 ---
-## Bidang PaperSizes.Prc32KBig
+## PaperSizes.Prc32KBig field
 
 Kertas besar 32K (97 mm x 151 mm).
 
@@ -16,7 +16,9 @@ public static readonly PaperSize Prc32KBig;
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

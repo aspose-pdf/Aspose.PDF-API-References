@@ -1,14 +1,14 @@
 ---
-title: TableAbsorber.TableAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor TableAbsorber. Menginisialisasi instance baru dari TableAbsorber dengan opsi pencarian teks
+title: "TableAbsorber.TableAbsorber"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor TableAbsorber. Menginisialisasi sebuah instance baru dari TableAbsorber dengan opsi pencarian teks."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.text/tableabsorber/tableabsorber/
 ---
 ## TableAbsorber(TextSearchOptions) {#constructor_1}
 
-Menginisialisasi instance baru dari [`TableAbsorber`](../) dengan opsi pencarian teks.
+Menginisialisasi sebuah instance baru dari [`TableAbsorber`](../) dengan opsi pencarian teks.
 
 ```csharp
 public TableAbsorber(TextSearchOptions textSearchOptions)
@@ -18,14 +18,14 @@ public TableAbsorber(TextSearchOptions textSearchOptions)
 | --- | --- | --- |
 | textSearchOptions | TextSearchOptions | Opsi pencarian teks |
 
-## Keterangan
+## Catatan
 
-Melakukan pencarian untuk tabel dan memberikan akses ke tabel melalui objek [`TableList`](../tablelist/).
+Melakukan pencarian tabel dan menyediakan akses ke tabel melalui objek [`TableList`](../tablelist/).
 
 ### Lihat Juga
 
-* kelas [TextSearchOptions](../../textsearchoptions/)
-* kelas [TableAbsorber](../)
+* class [TextSearchOptions](../../textsearchoptions/)
+* class [TableAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -33,18 +33,20 @@ Melakukan pencarian untuk tabel dan memberikan akses ke tabel melalui objek [`Ta
 
 ## TableAbsorber() {#constructor}
 
-Menginisialisasi instance baru dari [`TableAbsorber`](../).
+Menginisialisasi sebuah instance baru dari [`TableAbsorber`](../).
 
 ```csharp
 public TableAbsorber()
 ```
 
-## Keterangan
+## Catatan
 
-Melakukan pencarian untuk tabel dan memberikan akses ke tabel melalui objek [`TableList`](../tablelist/).
+Melakukan pencarian tabel dan menyediakan akses ke tabel melalui objek [`TableList`](../tablelist/).
 
 ### Lihat Juga
 
-* kelas [TableAbsorber](../)
+* class [TableAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

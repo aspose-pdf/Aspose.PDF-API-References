@@ -1,14 +1,14 @@
 ---
-title: PdfConverter.MergeImagesAsTiff
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfConverter. Menggabungkan daftar aliran tiff menjadi satu aliran tiff dengan beberapa bingkai
+title: "PdfConverter.MergeImagesAsTiff"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfConverter method. Menggabungkan daftar aliran tiff menjadi satu aliran tiff dengan beberapa frame"
 type: docs
 weight: 190
 url: /id/net/aspose.pdf.facades/pdfconverter/mergeimagesastiff/
 ---
-## Metode PdfConverter.MergeImagesAsTiff
+## PdfConverter.MergeImagesAsTiff method
 
-Menggabungkan daftar aliran tiff menjadi satu aliran tiff dengan beberapa bingkai.
+Menggabungkan daftar stream tiff menjadi satu stream tiff dengan beberapa frame.
 
 ```csharp
 public static Stream MergeImagesAsTiff(List<Stream> inputImagesStreams)
@@ -18,12 +18,14 @@ public static Stream MergeImagesAsTiff(List<Stream> inputImagesStreams)
 | --- | --- | --- |
 | inputImagesStreams | List`1 | Daftar aliran tiff. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Aliran tiff dengan beberapa bingkai.
+Aliran tiff dengan beberapa frame.
 
 ### Lihat Juga
 
-* kelas [PdfConverter](../)
+* class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

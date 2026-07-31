@@ -1,14 +1,14 @@
 ---
-title: Graph.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Graph. Mendapatkan atau mengatur nilai float yang menunjukkan tinggi grafik. Satuannya adalah poin
+title: "Graph.Height"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Graph. Mendapatkan atau mengatur nilai float yang menunjukkan tinggi grafik. Satuannya adalah point"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.drawing/graph/height/
 ---
-## Properti Graph.Height
+## Graph.Height property
 
-Mendapatkan atau mengatur nilai float yang menunjukkan tinggi grafik. Satuannya adalah poin.
+Mendapatkan atau mengatur nilai float yang menunjukkan tinggi grafik. Satuannya adalah point.
 
 ```csharp
 public double Height { get; set; }
@@ -16,6 +16,8 @@ public double Height { get; set; }
 
 ### Lihat Juga
 
-* kelas [Graph](../)
+* class [Graph](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

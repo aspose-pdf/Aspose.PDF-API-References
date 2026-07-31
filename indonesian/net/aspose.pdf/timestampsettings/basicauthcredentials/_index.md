@@ -1,12 +1,12 @@
 ---
-title: TimestampSettings.BasicAuthCredentials
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TimestampSettings. Mendapatkan/mengatur kredensial otentikasi dasar Username dan password digabungkan menjadi string usernamepassword
+title: "TimestampSettings.BasicAuthCredentials"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TimestampSettings. Mendapatkan/mengatur kredensial autentikasi dasar. Nama pengguna dan kata sandi digabungkan menjadi string usernamepassword"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/timestampsettings/basicauthcredentials/
 ---
-## Properti TimestampSettings.BasicAuthCredentials
+## TimestampSettings.BasicAuthCredentials property
 
 Mendapatkan/mengatur kredensial otentikasi dasar, Username dan password digabungkan menjadi string "username:password".
 
@@ -16,6 +16,8 @@ public string BasicAuthCredentials { get; set; }
 
 ### Lihat Juga
 
-* kelas [TimestampSettings](../)
+* class [TimestampSettings](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

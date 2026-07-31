@@ -1,14 +1,14 @@
 ---
-title: Signature.CustomAppearance
-second_title: Aspose.PDF for .NET API Reference
-description: Properti tanda tangan. Mendapatkan/mengatur penampilan kustom
+title: "Signature.CustomAppearance"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Signature. Mendapatkan/mengatur tampilan khusus"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.forms/signature/customappearance/
 ---
-## Properti Signature.CustomAppearance
+## Signature.CustomAppearance property
 
-Mendapatkan/mengatur penampilan kustom.
+Mendapatkan/mengatur tampilan khusus.
 
 ```csharp
 public SignatureCustomAppearance CustomAppearance { get; set; }
@@ -16,7 +16,9 @@ public SignatureCustomAppearance CustomAppearance { get; set; }
 
 ### Lihat Juga
 
-* kelas [SignatureCustomAppearance](../../signaturecustomappearance/)
-* kelas [Signature](../)
+* class [SignatureCustomAppearance](../../signaturecustomappearance/)
+* class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

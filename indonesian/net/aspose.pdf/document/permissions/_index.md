@@ -1,14 +1,14 @@
 ---
-title: Document.Permissions
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Mendapatkan izin dari dokumen
+title: "Document.Permissions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Document properti. Mendapatkan izin dokumen."
 type: docs
-weight: 490
+weight: 510
 url: /id/net/aspose.pdf/document/permissions/
 ---
-## Properti Document.Permissions
+## Document.Permissions property
 
-Mendapatkan izin dari dokumen.
+Mendapatkan izin dokumen.
 
 ```csharp
 public int Permissions { get; }
@@ -16,6 +16,8 @@ public int Permissions { get; }
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

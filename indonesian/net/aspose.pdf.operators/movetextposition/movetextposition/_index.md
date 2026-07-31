@@ -1,12 +1,12 @@
 ---
-title: MoveTextPosition.MoveTextPosition
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor MoveTextPosition. Menginisialisasi operator
+title: "MoveTextPosition.MoveTextPosition"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor MoveTextPosition. Menginisialisasi operator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/movetextposition/movetextposition/
 ---
-## Konstruktor MoveTextPosition
+## MoveTextPosition constructor
 
 Menginisialisasi operator.
 
@@ -21,6 +21,8 @@ public MoveTextPosition(double x, double y)
 
 ### Lihat Juga
 
-* kelas [MoveTextPosition](../)
+* class [MoveTextPosition](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

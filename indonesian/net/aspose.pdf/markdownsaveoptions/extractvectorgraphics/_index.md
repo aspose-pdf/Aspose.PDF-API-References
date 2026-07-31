@@ -1,12 +1,12 @@
 ---
-title: MarkdownSaveOptions.ExtractVectorGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MarkdownSaveOptions. Mendapatkan dan mengatur properti yang menunjukkan apakah grafik vektor harus diekstrak
+title: "MarkdownSaveOptions.ExtractVectorGraphics"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti MarkdownSaveOptions. Mendapatkan dan mengatur properti yang menunjukkan apakah grafik vektor harus diekstrak"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/markdownsaveoptions/extractvectorgraphics/
 ---
-## Properti MarkdownSaveOptions.ExtractVectorGraphics
+## MarkdownSaveOptions.ExtractVectorGraphics property
 
 Mendapatkan dan mengatur properti yang menunjukkan apakah grafik vektor harus diekstrak.
 
@@ -16,6 +16,8 @@ public bool ExtractVectorGraphics { get; set; }
 
 ### Lihat Juga
 
-* kelas [MarkdownSaveOptions](../)
+* class [MarkdownSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,22 +1,22 @@
 ---
-title: XmpField.FieldType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XmpField. Mendapatkan tipe dari field
+title: "XmpField.FieldType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XmpField. Mendapatkan tipe bidang"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/xmpfield/fieldtype/
 ---
-## Properti XmpField.FieldType
+## XmpField.FieldType property
 
-Mendapatkan tipe dari field.
+Mendapatkan tipe bidang.
 
 ```csharp
 public XmpFieldType FieldType { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
-Tipe dari field.
+Tipe bidang tersebut.
 
 ### Lihat Juga
 
@@ -24,3 +24,5 @@ Tipe dari field.
 * class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

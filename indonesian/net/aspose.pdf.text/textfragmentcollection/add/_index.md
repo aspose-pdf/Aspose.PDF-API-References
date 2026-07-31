@@ -1,12 +1,12 @@
 ---
-title: TextFragmentCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextFragmentCollection. Menambahkan elemen fragmen teks pada indeks yang ditentukan
+title: "TextFragmentCollection.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TextFragmentCollection. Menambahkan elemen fragmen teks pada indeks yang ditentukan"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.text/textfragmentcollection/add/
 ---
-## Metode TextFragmentCollection.Add
+## TextFragmentCollection.Add method
 
 Menambahkan elemen fragmen teks pada indeks yang ditentukan.
 
@@ -16,11 +16,13 @@ public void Add(TextFragment fragment)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fragment | TextFragment | Elemen fragmen teks yang akan ditambahkan. |
+| fragmen | TextFragment | Elemen fragmen teks untuk ditambahkan. |
 
 ### Lihat Juga
 
-* kelas [TextFragment](../../textfragment/)
-* kelas [TextFragmentCollection](../)
+* class [TextFragment](../../textfragment/)
+* class [TextFragmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

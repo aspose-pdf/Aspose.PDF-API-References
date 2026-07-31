@@ -1,14 +1,14 @@
 ---
-title: Document.OpenAction
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Mendapatkan atau mengatur tindakan yang dilakukan saat dokumen dibuka
+title: "Document.OpenAction"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Mendapatkan atau mengatur aksi yang dilakukan saat dokumen dibuka"
 type: docs
-weight: 390
+weight: 410
 url: /id/net/aspose.pdf/document/openaction/
 ---
-## Properti Document.OpenAction
+## Document.OpenAction property
 
-Mendapatkan atau mengatur tindakan yang dilakukan saat dokumen dibuka.
+Mendapatkan atau mengatur aksi yang dilakukan saat membuka dokumen.
 
 ```csharp
 public IAppointment OpenAction { get; set; }
@@ -25,7 +25,9 @@ IAppointment value = document.OpenAction;
 
 ### Lihat Juga
 
-* antarmuka [IAppointment](../../../aspose.pdf.annotations/iappointment/)
-* kelas [Document](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* interface [IAppointment](../../../aspose.pdf.annotations/iappointment/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

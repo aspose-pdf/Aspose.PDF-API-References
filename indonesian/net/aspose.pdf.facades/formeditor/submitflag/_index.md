@@ -1,14 +1,14 @@
 ---
-title: FormEditor.SubmitFlag
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FormEditor. Atur bendera pengiriman tombol kirim
+title: "FormEditor.SubmitFlag"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FormEditor. Mengatur flag pengiriman tombol submit."
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.facades/formeditor/submitflag/
 ---
-## Properti FormEditor.SubmitFlag
+## FormEditor.SubmitFlag property
 
-Atur bendera pengiriman tombol kirim
+Atur bendera pengiriman tombol submit
 
 ```csharp
 public SubmitFormFlag SubmitFlag { get; set; }
@@ -20,3 +20,5 @@ public SubmitFormFlag SubmitFlag { get; set; }
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

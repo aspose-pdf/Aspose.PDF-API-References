@@ -1,12 +1,12 @@
 ---
-title: SimpleFontSubstitution.SimpleFontSubstitution
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor SimpleFontSubstitution. Menginisialisasi instance baru dari kelas SimpleFontSubstitution
+title: "SimpleFontSubstitution.SimpleFontSubstitution"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor SimpleFontSubstitution. Menginisialisasi instance baru dari kelas SimpleFontSubstitution"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.text/simplefontsubstitution/simplefontsubstitution/
 ---
-## Konstruktor SimpleFontSubstitution
+## SimpleFontSubstitution constructor
 
 Menginisialisasi instance baru dari kelas [`SimpleFontSubstitution`](../).
 
@@ -18,11 +18,13 @@ public SimpleFontSubstitution(string originalFontName, string substitutionFontNa
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | originalFontName | String | Nama font asli. |
-| substitutionFontName | String | Nama font pengganti. |
-| isForcedBySaveOption | Boolean | Penggantian dipaksa oleh opsi simpan DefaultFontName. |
+| substitutionFontName | String | Nama font substitusi. |
+| isForcedBySaveOption | Boolean | Substitusi dipaksa oleh opsi penyimpanan DefaultFontName. |
 
 ### Lihat Juga
 
-* kelas [SimpleFontSubstitution](../)
+* class [SimpleFontSubstitution](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

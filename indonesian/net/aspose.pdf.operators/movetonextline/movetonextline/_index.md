@@ -1,12 +1,12 @@
 ---
-title: MoveToNextLine.MoveToNextLine
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor MoveToNextLine. Menginisialisasi operator
+title: "MoveToNextLine.MoveToNextLine"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor MoveToNextLine. Menginisialisasi operator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/movetonextline/movetonextline/
 ---
-## Konstruktor MoveToNextLine
+## MoveToNextLine constructor
 
 Menginisialisasi operator.
 
@@ -16,6 +16,8 @@ public MoveToNextLine()
 
 ### Lihat Juga
 
-* kelas [MoveToNextLine](../)
+* class [MoveToNextLine](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

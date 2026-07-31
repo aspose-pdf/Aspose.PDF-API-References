@@ -1,14 +1,14 @@
 ---
-title: FileSpecification.GetValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FileSpecification. Mendapatkan parameter spesifik aplikasi
+title: "FileSpecification.GetValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FileSpecification metode. Mendapatkan parameter aplikasi spesifik"
 type: docs
 weight: 160
 url: /id/net/aspose.pdf/filespecification/getvalue/
 ---
-## Metode FileSpecification.GetValue
+## FileSpecification.GetValue method
 
-Mendapatkan parameter spesifik aplikasi.
+Mendapatkan parameter khusus aplikasi.
 
 ```csharp
 public string GetValue(string key)
@@ -16,14 +16,16 @@ public string GetValue(string key)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Nama parameter. |
+| kunci | String | Nama parameter. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Nilai - jika parameter ditemukan; jika tidak, null.
 
 ### Lihat Juga
 
-* kelas [FileSpecification](../)
+* class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

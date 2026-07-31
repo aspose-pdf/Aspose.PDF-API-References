@@ -1,12 +1,12 @@
 ---
-title: TableOptions.InsertPageBefore
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TableOptions. Sisipkan halaman sebelum halaman yang ditentukan
+title: "TableOptions.InsertPageBefore"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TableOptions. Sisipkan halaman sebelum halaman yang ditentukan"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.plugins/tableoptions/insertpagebefore/
 ---
-## Metode TableOptions.InsertPageBefore
+## TableOptions.InsertPageBefore method
 
 Sisipkan halaman sebelum halaman yang ditentukan.
 
@@ -16,14 +16,16 @@ public TableOptions InsertPageBefore(int page)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Int32 | Nomor halaman untuk menyisipkan tabel setelah. |
+| halaman | Int32 | Page number untuk menyisipkan tabel setelahnya. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi dari [`TableOptions`](../) saat ini.
 
 ### Lihat Juga
 
-* kelas [TableOptions](../)
+* class [TableOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

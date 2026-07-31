@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.DuplexFlipShortEdge
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang ViewerPreference. Duplex dan flip di tepi pendek lembaran
+title: "ViewerPreference.DuplexFlipShortEdge"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ViewerPreference bidang. Duplex dan balik pada tepi pendek lembar"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.facades/viewerpreference/duplexflipshortedge/
 ---
-## Bidang ViewerPreference.DuplexFlipShortEdge
+## ViewerPreference.DuplexFlipShortEdge field
 
-Duplex dan flip di tepi pendek lembaran.
+Duplex dan balik pada tepi pendek lembar.
 
 ```csharp
 public const int DuplexFlipShortEdge;
@@ -16,6 +16,8 @@ public const int DuplexFlipShortEdge;
 
 ### Lihat Juga
 
-* kelas [ViewerPreference](../)
+* class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

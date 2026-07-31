@@ -1,14 +1,14 @@
 ---
-title: RichMediaAnnotation.SetPoster
-second_title: Aspose.PDF for .NET API Reference
-description: Metode RichMediaAnnotation. Atur poster dari anotasi
+title: "RichMediaAnnotation.SetPoster"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode RichMediaAnnotation. Mengatur poster anotasi"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.annotations/richmediaannotation/setposter/
 ---
-## Metode RichMediaAnnotation.SetPoster
+## RichMediaAnnotation.SetPoster method
 
-Atur poster dari anotasi.
+Mengatur poster anotasi.
 
 ```csharp
 public void SetPoster(Stream imageStream)
@@ -16,10 +16,12 @@ public void SetPoster(Stream imageStream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| imageStream | Stream | Stream yang berisi gambar poster. |
+| imageStream | Stream | Aliran yang berisi gambar poster. |
 
 ### Lihat Juga
 
-* kelas [RichMediaAnnotation](../)
+* class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

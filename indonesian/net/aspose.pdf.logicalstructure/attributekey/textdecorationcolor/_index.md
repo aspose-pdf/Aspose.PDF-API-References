@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.TextDecorationColor
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeKey. Atribut TextDecorationColor Pemilik atribut Layout
+title: "AttributeKey.TextDecorationColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeKey field. Atribut TextDecorationColor atribut Layout pemilik"
 type: docs
 weight: 350
 url: /id/net/aspose.pdf.logicalstructure/attributekey/textdecorationcolor/
 ---
-## Bidang AttributeKey.TextDecorationColor
+## AttributeKey.TextDecorationColor field
 
-Atribut TextDecorationColor (Pemilik atribut Layout).
+Atribut TextDecorationColor (pemilik atribut Tata Letak).
 
 ```csharp
 public static readonly AttributeKey TextDecorationColor;
@@ -16,6 +16,8 @@ public static readonly AttributeKey TextDecorationColor;
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

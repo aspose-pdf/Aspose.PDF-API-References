@@ -1,14 +1,14 @@
 ---
-title: GoToRemoteAction.File
-second_title: Aspose.PDF for .NET API Reference
-description: Properti GoToRemoteAction. Mendapatkan atau mengatur spesifikasi file di mana tujuan berada
+title: "GoToRemoteAction.File"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti GoToRemoteAction. Mendapatkan atau mengatur spesifikasi file tempat tujuan berada"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/gotoremoteaction/file/
 ---
-## Properti GoToRemoteAction.File
+## GoToRemoteAction.File property
 
-Mendapatkan atau mengatur spesifikasi file di mana tujuan berada.
+Mendapatkan atau mengatur spesifikasi file tempat tujuan berada.
 
 ```csharp
 public FileSpecification File { get; set; }
@@ -16,7 +16,9 @@ public FileSpecification File { get; set; }
 
 ### Lihat Juga
 
-* kelas [FileSpecification](../../../aspose.pdf/filespecification/)
-* kelas [GoToRemoteAction](../)
-* ruang nama [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [FileSpecification](../../../aspose.pdf/filespecification/)
+* class [GoToRemoteAction](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

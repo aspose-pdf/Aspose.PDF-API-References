@@ -1,14 +1,14 @@
 ---
-title: DestinationCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Metode DestinationCollection. Koleksi bersifat hanya-baca. Selalu melempar pengecualian NotSupportedException
+title: "DestinationCollection.Clear"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode DestinationCollection. Koleksi bersifat hanya-baca. Selalu melempar pengecualian NotSupportedException"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/destinationcollection/clear/
 ---
-## Metode DestinationCollection.Clear
+## DestinationCollection.Clear method
 
-Koleksi bersifat hanya-baca. Selalu melempar pengecualian NotSupportedException.
+Koleksi bersifat read-only. Selalu melemparkan pengecualian NotSupportedException.
 
 ```csharp
 public void Clear()
@@ -16,6 +16,8 @@ public void Clear()
 
 ### Lihat Juga
 
-* kelas [DestinationCollection](../)
+* class [DestinationCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

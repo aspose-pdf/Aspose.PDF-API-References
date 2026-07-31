@@ -1,25 +1,27 @@
 ---
-title: OptimizationOptions.All
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OptimizationOptions. Membuat strategi optimasi dengan semua opsi diaktifkan. Harap dicatat bahwa hanya opsi yang diaktifkan yang tidak mengubah fungsionalitas dokumen. Misalnya, kompresi gambar dan pembongkaran font tidak akan diaktifkan dan dapat disematkan secara manual
+title: "OptimizationOptions.All"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OptimizationOptions. Membuat strategi optimasi dengan semua opsi diaktifkan. Harap perhatikan bahwa hanya opsi yang tidak mengubah fungsi apa pun dari dokumen yang diaktifkan. Misalnya, kompresi gambar dan pembatalan embed font tidak akan diaktifkan dan dapat di-embed secara manual."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.optimization/optimizationoptions/all/
 ---
-## Metode OptimizationOptions.All
+## OptimizationOptions.All method
 
-Membuat strategi optimasi dengan semua opsi diaktifkan. Harap dicatat bahwa hanya opsi yang diaktifkan yang tidak mengubah fungsionalitas dokumen. Misalnya, kompresi gambar dan pembongkaran font tidak akan diaktifkan (dan dapat disematkan secara manual).
+Membuat strategi optimasi dengan semua opsi diaktifkan. Harap perhatikan bahwa hanya opsi yang tidak mengubah fungsi apa pun dari dokumen yang diaktifkan. Misalnya, kompresi gambar dan penghapusan embed font tidak akan diaktifkan (dan dapat di-embed secara manual).
 
 ```csharp
 public static OptimizationOptions All()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Objek OptimizationOptions.
 
 ### Lihat Juga
 
-* kelas [OptimizationOptions](../)
+* class [OptimizationOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

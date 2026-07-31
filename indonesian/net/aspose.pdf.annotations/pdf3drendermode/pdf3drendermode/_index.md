@@ -1,7 +1,7 @@
 ---
-title: PDF3DRenderMode.PDF3DRenderMode
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PDF3DRenderMode. Menginisialisasi instance baru dari kelas PDF3DRenderMode
+title: "PDF3DRenderMode.PDF3DRenderMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PDF3DRenderMode constructor. Menginisialisasi instance baru dari kelas PDF3DRenderMode"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/pdf3drendermode/pdf3drendermode/
@@ -43,10 +43,12 @@ public PDF3DRenderMode(string typeName)
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentException | Argumen tipe mode render tidak dikenal |
+| ArgumentException | Argumen tipe mode render tidak diketahui |
 
 ### Lihat Juga
 
 * class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

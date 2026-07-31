@@ -1,14 +1,14 @@
 ---
-title: InkAnnotation.InkAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor InkAnnotation. Konstruktor untuk anotasi tinta untuk Generator
+title: "InkAnnotation.InkAnnotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor InkAnnotation. Konstruktor untuk anotasi tinta bagi Generator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/inkannotation/inkannotation/
 ---
 ## InkAnnotation(Document, IList&lt;Point[]&gt;) {#constructor}
 
-Konstruktor untuk anotasi tinta untuk Generator.
+Konstruktor untuk anotasi Ink bagi Generator.
 
 ```csharp
 public InkAnnotation(Document document, IList<Point[]> inkList)
@@ -17,7 +17,7 @@ public InkAnnotation(Document document, IList<Point[]> inkList)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | document | Document | Dokumen tempat anotasi tinta akan dibuat. |
-| inkList | IList`1 | Sebuah array dari array Point[], masing-masing mewakili jalur yang digambar. |
+| inkList | IList`1 | Sebuah array dari array Point[], masing-masing merepresentasikan jalur yang digambar. |
 
 ### Lihat Juga
 
@@ -31,7 +31,7 @@ public InkAnnotation(Document document, IList<Point[]> inkList)
 
 ## InkAnnotation(Page, Rectangle, IList&lt;Point[]&gt;) {#constructor_1}
 
-Membuat anotasi tinta baru pada halaman yang ditentukan.
+Membuat anotasi Ink baru pada halaman yang ditentukan.
 
 ```csharp
 public InkAnnotation(Page page, Rectangle rect, IList<Point[]> inkList)
@@ -39,9 +39,9 @@ public InkAnnotation(Page page, Rectangle rect, IList<Point[]> inkList)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman dokumen tempat anotasi harus dibuat. |
-| rect | Rectangle | Persegi panjang anotasi, mendefinisikan lokasi anotasi di halaman. |
-| inkList | IList`1 | Sebuah array dari array Point[], masing-masing mewakili jalur yang digambar. |
+| halaman | Halaman | Halaman dokumen tempat anotasi harus dibuat. |
+| rect | Rectangle | Persegi panjang anotasi, yang menentukan lokasi anotasi pada halaman. |
+| inkList | IList`1 | Sebuah array dari array Point[], masing-masing merepresentasikan jalur yang digambar. |
 
 ### Lihat Juga
 
@@ -51,3 +51,5 @@ public InkAnnotation(Page page, Rectangle rect, IList<Point[]> inkList)
 * class [InkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

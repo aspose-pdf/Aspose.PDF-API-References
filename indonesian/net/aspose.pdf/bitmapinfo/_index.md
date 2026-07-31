@@ -1,12 +1,12 @@
 ---
-title: Class BitmapInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.BitmapInfo. Objek yang berisi array piksel dan informasi bitmap
+title: "Kelas BitmapInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.BitmapInfo. Objek yang berisi array piksel dan informasi bitmap"
 type: docs
-weight: 2860
+weight: 2970
 url: /id/net/aspose.pdf/bitmapinfo/
 ---
-## Kelas BitmapInfo
+## BitmapInfo class
 
 Objek yang berisi array piksel dan informasi bitmap.
 
@@ -18,18 +18,20 @@ public class BitmapInfo
 
 | Nama | Deskripsi |
 | --- | --- |
-| [BitmapInfo](bitmapinfo/)(byte[], int, int, PixelFormat) | Membuat instance baru dari kelas. |
+| [BitmapInfo](bitmapinfo/)(byte[], int, int, PixelFormat) | Membuat instance baru dari kelas tersebut. |
 
 ## Properti
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Format](../../aspose.pdf/bitmapinfo/format/) { get; } | Mendapatkan format piksel dari bitmap. |
-| [Height](../../aspose.pdf/bitmapinfo/height/) { get; } | Mendapatkan tinggi dari bitmap. |
+| [Format](../../aspose.pdf/bitmapinfo/format/) { get; } | Mendapatkan format piksel bitmap. |
+| [Height](../../aspose.pdf/bitmapinfo/height/) { get; } | Mendapatkan tinggi bitmap. |
 | [PixelBytes](../../aspose.pdf/bitmapinfo/pixelbytes/) { get; } | Mendapatkan array piksel. |
-| [Width](../../aspose.pdf/bitmapinfo/width/) { get; } | Mendapatkan lebar dari bitmap. |
+| [Width](../../aspose.pdf/bitmapinfo/width/) { get; } | Mendapatkan lebar bitmap. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Table.IsBroken
-second_title: Aspose.PDF for .NET API Reference
-description: Properti tabel. Mengambil atau mengatur apakah tabel rusak - akan dipotong untuk halaman berikutnya
+title: "Table.IsBroken"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Table. Mendapatkan atau mengatur apakah tabel terputus dan akan dipotong ke halaman berikutnya"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf/table/isbroken/
 ---
-## Properti Table.IsBroken
+## Table.IsBroken property
 
-Mengambil atau mengatur apakah tabel rusak - akan dipotong untuk halaman berikutnya.
+Mendapatkan atau mengatur apakah tabel terputus - akan dipotong untuk halaman berikutnya.
 
 ```csharp
 public bool IsBroken { get; set; }
@@ -16,6 +16,8 @@ public bool IsBroken { get; set; }
 
 ### Lihat Juga
 
-* kelas [Table](../)
+* class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

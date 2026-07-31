@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.BindPdf
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileSignature. Mengikat file Pdf untuk diedit
+title: "PdfFileSignature.BindPdf"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileSignature. Mengikat file Pdf untuk diedit"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.facades/pdffilesignature/bindpdf/
 ---
 ## BindPdf(string) {#bindpdf_2}
 
-Mengikat file Pdf untuk diedit.
+Mengikat file Pdf untuk penyuntingan.
 
 ```csharp
 public override void BindPdf(string inputFile)
@@ -20,7 +20,7 @@ public override void BindPdf(string inputFile)
 
 ### Lihat Juga
 
-* kelas [PdfFileSignature](../)
+* class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ public override void BindPdf(string inputFile)
 
 ## BindPdf(Stream) {#bindpdf_1}
 
-Mengikat aliran Pdf untuk diedit.
+Mengikat aliran Pdf untuk penyuntingan.
 
 ```csharp
 public override void BindPdf(Stream inputStream)
@@ -36,10 +36,12 @@ public override void BindPdf(Stream inputStream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputStream | Stream | Aliran pdf yang akan diedit. |
+| inputStream | Stream | Stream pdf yang akan diedit. |
 
 ### Lihat Juga
 
-* kelas [PdfFileSignature](../)
+* class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

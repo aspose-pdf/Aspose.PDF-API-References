@@ -1,14 +1,14 @@
 ---
-title: CrashReportOptions.CustomMessage
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CrashReportOptions. Pesan kustom untuk disertakan dalam laporan. Ini bisa berupa nilai variabel atau detail lain yang ingin Anda kirim
+title: "CrashReportOptions.CustomMessage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CrashReportOptions. Pesan khusus untuk dimasukkan ke dalam laporan. Bisa berupa nilai variabel atau detail lain yang ingin Anda kirim"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/crashreportoptions/custommessage/
 ---
-## Properti CrashReportOptions.CustomMessage
+## CrashReportOptions.CustomMessage property
 
-Pesan kustom untuk disertakan dalam laporan. Ini bisa berupa nilai variabel atau detail lain yang ingin Anda kirim.
+Pesan khusus untuk dimasukkan ke dalam laporan. Bisa berupa nilai variabel atau detail lain yang ingin Anda kirim.
 
 ```csharp
 public string CustomMessage { get; set; }
@@ -16,6 +16,8 @@ public string CustomMessage { get; set; }
 
 ### Lihat Juga
 
-* kelas [CrashReportOptions](../)
+* class [CrashReportOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

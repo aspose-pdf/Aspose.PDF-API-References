@@ -1,12 +1,12 @@
 ---
-title: PdfFileSignature.GetLocation
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileSignature. Mendapatkan lokasi tanda tangan
+title: "PdfFileSignature.GetLocation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileSignature. Mendapatkan lokasi tanda tangan"
 type: docs
 weight: 180
 url: /id/net/aspose.pdf.facades/pdffilesignature/getlocation/
 ---
-## Metode PdfFileSignature.GetLocation
+## PdfFileSignature.GetLocation method
 
 Mendapatkan lokasi tanda tangan.
 
@@ -18,13 +18,15 @@ public string GetLocation(SignatureName signName)
 | --- | --- | --- |
 | signName | SignatureName | Nama tanda tangan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Mengembalikan hasil tipe string.
+Mengembalikan hasil berupa tipe string.
 
 ### Lihat Juga
 
-* kelas [SignatureName](../../signaturename/)
-* kelas [PdfFileSignature](../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

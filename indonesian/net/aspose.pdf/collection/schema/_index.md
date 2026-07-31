@@ -1,14 +1,14 @@
 ---
-title: Collection.Schema
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Koleksi. Mendapatkan Skema dari koleksi dokumen
+title: "Collection.Schema"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Collection. Mendapatkan Schema dari koleksi dokumen"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/collection/schema/
 ---
-## Properti Collection.Schema
+## Collection.Schema property
 
-Mendapatkan "Skema" dari koleksi dokumen.
+Mendapatkan "Schema" dari koleksi dokumen.
 
 ```csharp
 public CollectionSchema Schema { get; }
@@ -16,7 +16,9 @@ public CollectionSchema Schema { get; }
 
 ### Lihat Juga
 
-* kelas [CollectionSchema](../../collectionschema/)
-* kelas [Collection](../)
+* class [CollectionSchema](../../collectionschema/)
+* class [Collection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

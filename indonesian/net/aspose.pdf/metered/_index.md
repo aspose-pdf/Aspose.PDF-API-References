@@ -1,14 +1,14 @@
 ---
-title: Class Metered
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Metered. Menyediakan metode untuk mengatur kunci metered
+title: "Kelas Metered"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Metered kelas. Menyediakan metode untuk mengatur kunci metered"
 type: docs
-weight: 6960
+weight: 7100
 url: /id/net/aspose.pdf/metered/
 ---
-## Kelas Metered
+## Metered class
 
-Menyediakan metode untuk mengatur kunci metered.
+Menyediakan metode untuk mengatur kunci terukur.
 
 ```csharp
 public class Metered
@@ -24,15 +24,15 @@ public class Metered
 
 | Nama | Deskripsi |
 | --- | --- |
-| [GetProductName](../../aspose.pdf/metered/getproductname/)() | Mendapatkan Nama Produk. |
-| [SetMeteredKey](../../aspose.pdf/metered/setmeteredkey/)(string, string) | Mengatur kunci publik dan privat metered. Jika Anda membeli lisensi metered, saat memulai aplikasi, API ini harus dipanggil, biasanya, ini sudah cukup. Namun, jika selalu gagal mengunggah data konsumsi dan melebihi 24 jam, lisensi akan diatur ke status evaluasi, untuk menghindari kasus tersebut, Anda harus secara teratur memeriksa status lisensi, jika statusnya evaluasi, panggil API ini lagi. |
+| [GetProductName](../../aspose.pdf/metered/getproductname/)() | Dapatkan Nama Produk. |
+| [SetMeteredKey](../../aspose.pdf/metered/setmeteredkey/)(string, string) | Menetapkan kunci publik dan privat metered. Jika Anda membeli lisensi metered, saat memulai aplikasi, API ini harus dipanggil, biasanya, ini sudah cukup. Namun, jika selalu gagal mengunggah data konsumsi dan melebihi 24 jam, lisensi akan diatur ke status evaluasi; untuk menghindari hal tersebut, Anda harus secara teratur memeriksa status lisensi, jika berada dalam status evaluasi, panggil API ini lagi. |
 | static [GetConsumptionCredit](../../aspose.pdf/metered/getconsumptioncredit/)() | Mendapatkan kredit konsumsi. |
 | static [GetConsumptionQuantity](../../aspose.pdf/metered/getconsumptionquantity/)() | Mendapatkan ukuran file konsumsi. |
-| static [IsMeteredLicensed](../../aspose.pdf/metered/ismeteredlicensed/)() | Memeriksa apakah metered memiliki lisensi. |
+| static [IsMeteredLicensed](../../aspose.pdf/metered/ismeteredlicensed/)() | Periksa apakah metered berlisensi. |
 
 ## Contoh
 
-Dalam contoh ini, akan dilakukan upaya untuk mengatur kunci publik dan privat metered.
+Dalam contoh ini, akan dicoba mengatur kunci publik dan pribadi berlisensi metered.
 
 ```csharp
 [C#]
@@ -48,27 +48,27 @@ Dim metered As Metered = New Metered
 metered.SetMeteredKey("PublicKey", "PrivateKey")
 ```
 
-Menunjukkan cara mengaktifkan lisensi Metered dan melacak kredit/konsumsi.
+Menampilkan cara mengaktifkan lisensi Metered dan melacak kredit/konsumsi.
 
 ```csharp
 [C#]
 
-// Set metered public and private keys
+// Atur kunci publik dan pribadi berlisensi metered
 var metered = new Aspose.Pdf.Metered();
 metered.SetMeteredKey("PublicKey", "PrivateKey");
-//Get current Consumption Credit and Quantity
+//Dapatkan Kredit Konsumsi dan Kuantitas saat ini
 var wasCredit = Metered.GetConsumptionCredit();
 var wasQuantity = Metered.GetConsumptionQuantity();
-//Operate using Aspose.Pdf
+//Beroperasi menggunakan Aspose.Pdf
 var doc = new Document();
 doc.Pages.Add();
 doc.Save(dataDir + "example.pdf");
-//Little wait to be sure the transaction completed
+//Tunggu sebentar untuk memastikan transaksi selesai
 System.Threading.Thread.Sleep(10000);
-//Get current Consumption Credit and Quantity
+//Dapatkan Kredit Konsumsi dan Kuantitas saat ini
 var nowCredit = Metered.GetConsumptionCredit();
 var nowQuantity = Metered.GetConsumptionQuantity();
-//Show Info
+//Tampilkan Info
 Console.WriteLine("Credit: was={0} now={1} difference={2}", wasCredit, nowCredit, nowCredit - wasCredit);
 Console.WriteLine("Quantity: was={0} now={1} difference={2}", wasQuantity, nowQuantity, nowQuantity - wasQuantity);
 ```
@@ -100,3 +100,5 @@ Console.WriteLine("Quantity: was={0} now={1} difference={2}", wasQuantity, nowQu
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

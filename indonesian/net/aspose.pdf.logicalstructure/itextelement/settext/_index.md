@@ -1,12 +1,12 @@
 ---
-title: ITextElement.SetText
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ITextElement. Menambahkan konten teks ke elemen teks saat ini
+title: "ITextElement.SetText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ITextElement. Menambahkan konten teks ke elemen teks saat ini"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.logicalstructure/itextelement/settext/
 ---
-## Metode ITextElement.SetText
+## ITextElement.SetText method
 
 Menambahkan konten teks ke elemen teks saat ini.
 
@@ -16,10 +16,12 @@ public void SetText(string text)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| text | String | Konten teks |
+| teks | String | Konten teks |
 
 ### Lihat Juga
 
-* antarmuka [ITextElement](../)
+* interface [ITextElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

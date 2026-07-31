@@ -1,12 +1,12 @@
 ---
-title: TextStamp.AutoAdjustFontSizePrecision
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextStamp. Secara otomatis menyesuaikan presisi ukuran font. Nilai default 0.1
+title: "TextStamp.AutoAdjustFontSizePrecision"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextStamp. Secara otomatis mengatur presisi ukuran font. Nilai default 0.1"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/textstamp/autoadjustfontsizeprecision/
 ---
-## Properti TextStamp.AutoAdjustFontSizePrecision
+## TextStamp.AutoAdjustFontSizePrecision property
 
 Secara otomatis menyesuaikan presisi ukuran font. Nilai default: 0.1;
 
@@ -16,6 +16,8 @@ public float AutoAdjustFontSizePrecision { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextStamp](../)
+* class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

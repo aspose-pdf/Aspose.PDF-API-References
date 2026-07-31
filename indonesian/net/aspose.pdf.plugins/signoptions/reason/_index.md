@@ -1,12 +1,12 @@
 ---
-title: SignOptions.Reason
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SignOptions. Alasan tanda tangan
+title: "SignOptions.Reason"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "SignOptions property. Alasan tanda tangan"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.plugins/signoptions/reason/
 ---
-## Properti SignOptions.Reason
+## SignOptions.Reason property
 
 Alasan tanda tangan.
 
@@ -16,6 +16,8 @@ public string Reason { get; set; }
 
 ### Lihat Juga
 
-* kelas [SignOptions](../)
+* class [SignOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

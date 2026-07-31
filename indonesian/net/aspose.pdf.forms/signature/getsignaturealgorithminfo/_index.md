@@ -1,12 +1,12 @@
 ---
-title: Signature.GetSignatureAlgorithmInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Metode tanda tangan. Mengambil informasi tentang algoritma tanda tangan yang digunakan dalam tanda tangan
+title: "Signature.GetSignatureAlgorithmInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Signature. Mengambil informasi tentang algoritma signature yang digunakan dalam signature"
 type: docs
 weight: 160
 url: /id/net/aspose.pdf.forms/signature/getsignaturealgorithminfo/
 ---
-## Metode Signature.GetSignatureAlgorithmInfo
+## Signature.GetSignatureAlgorithmInfo method
 
 Mengambil informasi tentang algoritma tanda tangan yang digunakan dalam tanda tangan.
 
@@ -14,13 +14,15 @@ Mengambil informasi tentang algoritma tanda tangan yang digunakan dalam tanda ta
 public SignatureAlgorithmInfo GetSignatureAlgorithmInfo()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah instance dari [`SignatureAlgorithmInfo`](../../../aspose.pdf.security/signaturealgorithminfo/) yang berisi rincian tentang algoritma tanda tangan.
+Sebuah instance dari [`SignatureAlgorithmInfo`](../../../aspose.pdf.security/signaturealgorithminfo/) yang berisi detail tentang algoritma signature.
 
 ### Lihat Juga
 
-* kelas [SignatureAlgorithmInfo](../../../aspose.pdf.security/signaturealgorithminfo/)
-* kelas [Signature](../)
+* class [SignatureAlgorithmInfo](../../../aspose.pdf.security/signaturealgorithminfo/)
+* class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

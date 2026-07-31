@@ -1,25 +1,27 @@
 ---
-title: CosPdfDictionary.ToCosPdfDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: Metode CosPdfDictionary. Mencoba mengonversi instance ini menjadi CosPdfDictionary
+title: "CosPdfDictionary.ToCosPdfDictionary"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode CosPdfDictionary. Mencoba meng-cast instance ini ke CosPdfDictionary"
 type: docs
 weight: 160
 url: /id/net/aspose.pdf.dataeditor/cospdfdictionary/tocospdfdictionary/
 ---
-## Metode CosPdfDictionary.ToCosPdfDictionary
+## CosPdfDictionary.ToCosPdfDictionary method
 
-Mencoba mengonversi instance ini menjadi [`CosPdfDictionary`](../).
+Mencoba meng-cast instance ini ke [`CosPdfDictionary`](../).
 
 ```csharp
 public override CosPdfDictionary ToCosPdfDictionary()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-null jika instance bukan [`CosPdfDictionary`](../) jika tidak [`CosPdfDictionary`](../).
+null jika instance bukan [`CosPdfDictionary`](../) atau [`CosPdfDictionary`](../).
 
 ### Lihat Juga
 
-* kelas [CosPdfDictionary](../)
+* class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

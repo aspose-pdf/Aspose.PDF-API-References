@@ -1,12 +1,12 @@
 ---
-title: XForm.CreateNewForm
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XForm. Membuat XForm yang menduplikasi konten halaman
+title: "XForm.CreateNewForm"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "XForm method. Membuat XForm yang menduplikasi konten halaman"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/xform/createnewform/
 ---
-## Metode XForm.CreateNewForm
+## XForm.CreateNewForm method
 
 Membuat XForm yang menduplikasi konten halaman.
 
@@ -16,17 +16,19 @@ public static XForm CreateNewForm(Page source, Document document)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| source | Halaman | Halaman sumber |
-| document | Dokumen | Dokumen tempat XForm baru akan ditambahkan. |
+| sumber | Halaman | Halaman sumber |
+| document | Document | Dokumen tempat XForm baru akan ditambahkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 XForm yang baru dibuat.
 
 ### Lihat Juga
 
-* kelas [Page](../../page/)
-* kelas [Document](../../document/)
-* kelas [XForm](../)
+* class [Page](../../page/)
+* class [Document](../../document/)
+* class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

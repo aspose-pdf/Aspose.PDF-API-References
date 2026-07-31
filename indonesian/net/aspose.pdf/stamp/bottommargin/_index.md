@@ -1,14 +1,14 @@
 ---
-title: Stamp.BottomMargin
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Stamp. Mendapatkan atau mengatur margin bawah dari stempel
+title: "Stamp.BottomMargin"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Stamp. Mendapatkan atau mengatur margin bawah stamp"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/stamp/bottommargin/
 ---
-## Properti Stamp.BottomMargin
+## Stamp.BottomMargin property
 
-Mendapatkan atau mengatur margin bawah dari stempel.
+Mengambil atau mengatur margin bawah stempel.
 
 ```csharp
 public double BottomMargin { get; set; }
@@ -16,6 +16,8 @@ public double BottomMargin { get; set; }
 
 ### Lihat Juga
 
-* kelas [Stamp](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Stamp](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

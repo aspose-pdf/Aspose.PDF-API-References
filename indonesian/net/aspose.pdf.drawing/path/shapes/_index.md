@@ -1,14 +1,14 @@
 ---
-title: Path.Shapes
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Path. Mengambil atau mengatur koleksi bentuk
+title: "Path.Shapes"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Path. Mendapatkan atau mengatur koleksi shapes"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.drawing/path/shapes/
 ---
-## Properti Path.Shapes
+## Path.Shapes property
 
-Mengambil atau mengatur koleksi bentuk.
+Mendapatkan atau mengatur koleksi bentuk.
 
 ```csharp
 public List<Shape> Shapes { get; }
@@ -16,7 +16,9 @@ public List<Shape> Shapes { get; }
 
 ### Lihat Juga
 
-* kelas [Shape](../../shape/)
-* kelas [Path](../)
+* class [Shape](../../shape/)
+* class [Path](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

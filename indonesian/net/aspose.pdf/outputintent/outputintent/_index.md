@@ -1,14 +1,14 @@
 ---
-title: OutputIntent.OutputIntent
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor OutputIntent. Menginisialisasi instance baru dari kelas OutputIntent dengan pengidentifikasi kondisi output yang ditentukan
+title: "OutputIntent.OutputIntent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor OutputIntent. Menginisialisasi instance baru dari kelas OutputIntent dengan identifier kondisi output yang ditentukan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/outputintent/outputintent/
 ---
-## Konstruktor OutputIntent
+## OutputIntent constructor
 
-Menginisialisasi instance baru dari kelas [`OutputIntent`](../) dengan pengidentifikasi kondisi output yang ditentukan.
+Menginisialisasi instance baru dari kelas [`OutputIntent`](../) dengan identifier kondisi output yang ditentukan.
 
 ```csharp
 public OutputIntent(string outputConditionIdentifier)
@@ -20,6 +20,8 @@ public OutputIntent(string outputConditionIdentifier)
 
 ### Lihat Juga
 
-* kelas [OutputIntent](../)
+* class [OutputIntent](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

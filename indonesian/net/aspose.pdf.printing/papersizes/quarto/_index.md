@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Quarto
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSizes. Kertas Quarto 215 mm x 275 mm
+title: "PaperSizes.Quarto"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PaperSizes bidang. kertas Quarto 215 mm x 275 mm"
 type: docs
 weight: 1060
 url: /id/net/aspose.pdf.printing/papersizes/quarto/
 ---
-## Bidang PaperSizes.Quarto
+## PaperSizes.Quarto field
 
-Kertas Quarto (215 mm x 275 mm).
+Kertas quarto (215 mm x 275 mm).
 
 ```csharp
 public static readonly PaperSize Quarto;
@@ -16,7 +16,9 @@ public static readonly PaperSize Quarto;
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

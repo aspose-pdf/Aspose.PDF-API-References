@@ -1,25 +1,27 @@
 ---
-title: DictionaryEditor.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DictionaryEditor. Mendapatkan nilai yang menunjukkan apakah DictionaryEditor bersifat hanya-baca
+title: "DictionaryEditor.IsReadOnly"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti DictionaryEditor. Mengambil nilai yang menunjukkan apakah DictionaryEditor bersifat readonly"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.dataeditor/dictionaryeditor/isreadonly/
 ---
-## Properti DictionaryEditor.IsReadOnly
+## DictionaryEditor.IsReadOnly property
 
-Mendapatkan nilai yang menunjukkan apakah [`DictionaryEditor`](../) bersifat hanya-baca.
+Mendapatkan nilai yang menunjukkan apakah [`DictionaryEditor`](../) bersifat read-only.
 
 ```csharp
 public bool IsReadOnly { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-true jika [`DictionaryEditor`](../) bersifat hanya-baca; jika tidak, false.
+true jika [`DictionaryEditor`](../) bersifat read-only; jika tidak, false.
 
 ### Lihat Juga
 
-* kelas [DictionaryEditor](../)
+* class [DictionaryEditor](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

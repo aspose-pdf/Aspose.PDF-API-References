@@ -1,12 +1,12 @@
 ---
-title: MessageContentRequest.MessageContentRequest
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor MessageContentRequest. Konstruktor default
+title: "MessageContentRequest.MessageContentRequest"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor MessageContentRequest. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/messagecontentrequest/messagecontentrequest/
 ---
-## Konstruktor MessageContentRequest
+## MessageContentRequest constructor
 
 Konstruktor default.
 
@@ -19,3 +19,5 @@ public MessageContentRequest()
 * class [MessageContentRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

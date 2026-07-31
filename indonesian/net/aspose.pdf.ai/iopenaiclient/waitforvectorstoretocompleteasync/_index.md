@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.WaitForVectorStoreToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IOpenAIClient. Menunggu penyelesaian penyimpanan vektor tertentu secara asinkron
+title: "IOpenAIClient.WaitForVectorStoreToCompleteAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "metode IOpenAIClient. Menunggu vector store tertentu selesai secara asinkron"
 type: docs
 weight: 470
 url: /id/net/aspose.pdf.ai/iopenaiclient/waitforvectorstoretocompleteasync/
 ---
-## Metode IOpenAIClient.WaitForVectorStoreToCompleteAsync
+## IOpenAIClient.WaitForVectorStoreToCompleteAsync method
 
-Menunggu penyimpanan vektor tertentu untuk menyelesaikan secara asinkron.
+Menunggu vector store tertentu selesai secara asynchronous.
 
 ```csharp
 public Task<VectorStoreResponse> WaitForVectorStoreToCompleteAsync(string vectorStoreId, 
@@ -17,22 +17,24 @@ public Task<VectorStoreResponse> WaitForVectorStoreToCompleteAsync(string vector
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| vectorStoreId | String | ID dari penyimpanan vektor yang akan dipantau hingga selesai. |
+| vectorStoreId | String | ID vector store yang dipantau hingga selesai. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi status akhir dari penyimpanan vektor.
+Tugas yang mewakili operasi asinkron. Hasil tugas berisi status akhir dari vector store.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika ID penyimpanan vektor adalah null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika ID vector store null atau kosong. |
 
 ### Lihat Juga
 
-* kelas [VectorStoreResponse](../../vectorstoreresponse/)
-* antarmuka [IOpenAIClient](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

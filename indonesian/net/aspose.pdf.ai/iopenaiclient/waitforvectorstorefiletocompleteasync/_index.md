@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.WaitForVectorStoreFileToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IOpenAIClient. Menunggu file penyimpanan vektor tertentu untuk selesai secara asinkron
+title: "IOpenAIClient.WaitForVectorStoreFileToCompleteAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IOpenAIClient. Menunggu file vector store tertentu selesai secara asinkron"
 type: docs
 weight: 460
 url: /id/net/aspose.pdf.ai/iopenaiclient/waitforvectorstorefiletocompleteasync/
 ---
-## Metode IOpenAIClient.WaitForVectorStoreFileToCompleteAsync
+## IOpenAIClient.WaitForVectorStoreFileToCompleteAsync method
 
-Menunggu file penyimpanan vektor tertentu untuk selesai secara asinkron.
+Menunggu file vector store tertentu selesai secara asynchronous.
 
 ```csharp
 public Task<VectorStoreFileResponse> WaitForVectorStoreFileToCompleteAsync(string vectorStoreId, 
@@ -17,24 +17,26 @@ public Task<VectorStoreFileResponse> WaitForVectorStoreFileToCompleteAsync(strin
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| vectorStoreId | String | ID dari penyimpanan vektor yang berisi file. |
-| fileId | String | ID dari file yang akan dipantau hingga selesai. |
+| vectorStoreId | String | ID vector store yang berisi file. |
+| fileId | String | ID file yang dipantau hingga selesai. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi status akhir dari file.
+Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi status akhir file.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika ID penyimpanan vektor adalah null atau kosong. |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika ID file adalah null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika ID vector store null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika Id file null atau kosong. |
 
 ### Lihat Juga
 
-* kelas [VectorStoreFileResponse](../../vectorstorefileresponse/)
-* antarmuka [IOpenAIClient](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreFileResponse](../../vectorstorefileresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

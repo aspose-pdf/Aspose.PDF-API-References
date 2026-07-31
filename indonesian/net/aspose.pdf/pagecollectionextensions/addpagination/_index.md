@@ -1,14 +1,14 @@
 ---
-title: PageCollectionExtensions.AddPagination
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PageCollectionExtensions. Menambahkan artefak paginasi yang ditentukan ke setiap halaman dalam koleksi halaman yang diberikan
+title: "PageCollectionExtensions.AddPagination"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PageCollectionExtensions. Menambahkan artefak paginasi yang ditentukan ke setiap halaman dalam koleksi halaman yang diberikan."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/pagecollectionextensions/addpagination/
 ---
-## Metode PageCollectionExtensions.AddPagination
+## PageCollectionExtensions.AddPagination method
 
-Menambahkan artefak paginasi yang ditentukan ke setiap halaman dalam koleksi halaman yang diberikan.
+Menambahkan artefak penomoran halaman yang ditentukan ke setiap halaman dalam koleksi halaman yang diberikan.
 
 ```csharp
 public static void AddPagination(this PageCollection pageCollection, 
@@ -18,12 +18,14 @@ public static void AddPagination(this PageCollection pageCollection,
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pageCollection | PageCollection | Koleksi halaman yang akan ditambahkan artefak paginasi. |
-| artifacts | List`1 | Daftar artefak paginasi yang akan ditambahkan ke setiap halaman. |
+| artefak | List`1 | Daftar artefak paginasi untuk ditambahkan ke setiap halaman. |
 
 ### Lihat Juga
 
-* kelas [PageCollection](../../pagecollection/)
-* kelas [PaginationArtifact](../../paginationartifact/)
-* kelas [PageCollectionExtensions](../)
+* class [PageCollection](../../pagecollection/)
+* class [PaginationArtifact](../../paginationartifact/)
+* class [PageCollectionExtensions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

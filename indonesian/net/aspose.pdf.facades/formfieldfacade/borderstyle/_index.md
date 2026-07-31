@@ -1,12 +1,12 @@
 ---
-title: FormFieldFacade.BorderStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FormFieldFacade. Gaya batas bidang
+title: "FormFieldFacade.BorderStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormFieldFacade properti. Gaya batas bidang"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.facades/formfieldfacade/borderstyle/
 ---
-## Properti FormFieldFacade.BorderStyle
+## FormFieldFacade.BorderStyle property
 
 Gaya batas bidang.
 
@@ -16,6 +16,8 @@ public int BorderStyle { get; set; }
 
 ### Lihat Juga
 
-* kelas [FormFieldFacade](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormFieldFacade](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

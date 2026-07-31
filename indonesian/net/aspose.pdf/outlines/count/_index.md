@@ -1,12 +1,12 @@
 ---
-title: Outlines.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Outlines. Mendapatkan jumlah
+title: "Outlines.Count"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Outlines. Mendapatkan jumlah"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/outlines/count/
 ---
-## Properti Outlines.Count
+## Outlines.Count property
 
 Mendapatkan jumlah.
 
@@ -16,6 +16,8 @@ public abstract int Count { get; }
 
 ### Lihat Juga
 
-* kelas [Outlines](../)
+* class [Outlines](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

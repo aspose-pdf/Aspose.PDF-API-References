@@ -1,14 +1,14 @@
 ---
-title: Cells.Insert
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Cells. Menyisipkan sel ke koleksi
+title: "Cells.Insert"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Cells. Menyisipkan sel ke dalam koleksi"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/cells/insert/
 ---
-## Metode Cells.Insert
+## Cells.Insert method
 
-Menyisipkan sel ke koleksi.
+Sisipkan sel ke koleksi.
 
 ```csharp
 public void Insert(int index, Cell cell)
@@ -17,11 +17,13 @@ public void Insert(int index, Cell cell)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | index | Int32 | Indeks yang dipilih. |
-| cell | Cell | Sel yang dipilih. |
+| sel | Sel | Sel yang dipilih. |
 
 ### Lihat Juga
 
-* kelas [Cell](../../cell/)
-* kelas [Cells](../)
+* class [Cell](../../cell/)
+* class [Cells](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

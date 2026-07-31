@@ -1,12 +1,12 @@
 ---
-title: ChatMessage.FromAssistant
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ChatMessage. Membuat objek ChatMessage baru yang mewakili pesan asisten
+title: "ChatMessage.FromAssistant"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ChatMessage metode. Membuat objek ChatMessage baru yang mewakili pesan asisten"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/chatmessage/fromassistant/
 ---
-## Metode ChatMessage.FromAssistant
+## ChatMessage.FromAssistant method
 
 Membuat objek ChatMessage baru yang mewakili pesan asisten.
 
@@ -16,14 +16,16 @@ public static ChatMessage FromAssistant(string content)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| content | String | Isi dari pesan. |
+| konten | String | Isi pesan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah objek [`ChatMessage`](../) baru dengan konten yang ditentukan dan peran Asisten.
+Objek [`ChatMessage`](../) baru dengan konten yang ditentukan dan peran Assistant.
 
 ### Lihat Juga
 
-* kelas [ChatMessage](../)
+* class [ChatMessage](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

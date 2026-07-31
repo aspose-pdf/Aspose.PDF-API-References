@@ -1,14 +1,14 @@
 ---
-title: LineAnnotation.Intent
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LineAnnotation. Mendapatkan atau mengatur niat dari anotasi garis
+title: "LineAnnotation.Intent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti LineAnnotation. Mendapatkan atau mengatur maksud anotasi garis"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.annotations/lineannotation/intent/
 ---
-## Properti LineAnnotation.Intent
+## LineAnnotation.Intent property
 
-Mendapatkan atau mengatur niat dari anotasi garis.
+Mendapatkan atau mengatur maksud anotasi garis.
 
 ```csharp
 public LineIntent Intent { get; set; }
@@ -20,3 +20,5 @@ public LineIntent Intent { get; set; }
 * class [LineAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

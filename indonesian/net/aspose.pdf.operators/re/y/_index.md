@@ -1,14 +1,14 @@
 ---
-title: Re.Y
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Re. Koordinat Y sisi bawah dari persegi panjang
+title: "Re.Y"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Re properti. Koordinat Y dari sisi bawah Rectangle"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.operators/re/y/
 ---
-## Properti Re.Y
+## Re.Y property
 
-Koordinat Y sisi bawah dari persegi panjang.
+Koordinat Y sisi bawah persegi panjang.
 
 ```csharp
 public double Y { get; set; }
@@ -16,6 +16,8 @@ public double Y { get; set; }
 
 ### Lihat Juga
 
-* kelas [Re](../)
+* class [Re](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

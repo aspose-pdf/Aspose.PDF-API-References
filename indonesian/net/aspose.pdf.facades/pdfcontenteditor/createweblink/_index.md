@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.CreateWebLink
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Membuat tautan web dalam dokumen PDF
+title: "PdfContentEditor.CreateWebLink"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfContentEditor. Membuat tautan web dalam dokumen PDF."
 type: docs
 weight: 300
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/createweblink/
@@ -19,9 +19,9 @@ public void CreateWebLink(Rectangle rect, string url, int originalPage, Color cl
 | --- | --- | --- |
 | rect | Rectangle | Persegi panjang untuk klik aktif. |
 | url | String | Tujuan tautan web. |
-| originalPage | Int32 | Nomor halaman asli di mana persegi panjang yang terikat dengan tautan web akan dibuat. |
+| originalPage | Int32 | Jumlah halaman asli tempat persegi panjang yang terikat dengan tautan web akan dibuat. |
 | clr | Color | Warna persegi panjang untuk klik aktif. |
-| actionName | Enum[] | Array tindakan (anggota enum PredefinedAction) yang sesuai dengan menjalankan item menu di penampil Acrobat. |
+| actionName | Enum[] | Array tindakan (anggota enum PredefinedAction) yang sesuai dengan mengeksekusi item menu di penampil Acrobat. |
 
 ## Contoh
 
@@ -36,7 +36,7 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -54,7 +54,7 @@ public void CreateWebLink(Rectangle rect, string url, int originalPage, Color cl
 | --- | --- | --- |
 | rect | Rectangle | Persegi panjang untuk klik aktif. |
 | url | String | Tujuan tautan web. |
-| originalPage | Int32 | Nomor halaman asli di mana persegi panjang yang terikat dengan tautan web akan dibuat. |
+| originalPage | Int32 | Jumlah halaman asli tempat persegi panjang yang terikat dengan tautan web akan dibuat. |
 | clr | Color | Warna persegi panjang untuk klik aktif. |
 
 ## Contoh
@@ -69,7 +69,7 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -87,7 +87,7 @@ public void CreateWebLink(Rectangle rect, string url, int originalPage)
 | --- | --- | --- |
 | rect | Rectangle | Persegi panjang untuk klik aktif. |
 | url | String | Tujuan tautan web. |
-| originalPage | Int32 | Nomor halaman asli di mana persegi panjang yang terikat dengan tautan web akan dibuat. |
+| originalPage | Int32 | Jumlah halaman asli tempat persegi panjang yang terikat dengan tautan web akan dibuat. |
 
 ## Contoh
 
@@ -100,6 +100,8 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

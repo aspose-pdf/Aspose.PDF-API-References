@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.RubyAlign
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeKey. Atribut RubyAlign pemilik atribut Layout
+title: "AttributeKey.RubyAlign"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeKey field. RubyAlign atribut Layout atribut pemilik"
 type: docs
 weight: 260
 url: /id/net/aspose.pdf.logicalstructure/attributekey/rubyalign/
 ---
-## Field AttributeKey.RubyAlign
+## AttributeKey.RubyAlign field
 
-Atribut RubyAlign (pemilik atribut Layout).
+Atribut RubyAlign (pemilik atribut Tata Letak).
 
 ```csharp
 public static readonly AttributeKey RubyAlign;
@@ -16,6 +16,8 @@ public static readonly AttributeKey RubyAlign;
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

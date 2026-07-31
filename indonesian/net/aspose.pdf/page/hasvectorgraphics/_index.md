@@ -1,25 +1,27 @@
 ---
-title: Page.HasVectorGraphics
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Halaman. Mendeteksi keberadaan grafik vektor jika ada di halaman
+title: "Page.HasVectorGraphics"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Page. Mendeteksi keberadaan grafik vektor jika ada pada halaman"
 type: docs
 weight: 480
 url: /id/net/aspose.pdf/page/hasvectorgraphics/
 ---
-## Metode Page.HasVectorGraphics
+## Page.HasVectorGraphics method
 
-Mendeteksi keberadaan grafik vektor, jika ada di halaman.
+Mendeteksi keberadaan grafik vektor, jika ada pada halaman.
 
 ```csharp
 public bool HasVectorGraphics()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True jika halaman mengandung operator konstruksi jalur; jika tidak, False.
+True jika halaman berisi operator konstruksi jalur; jika tidak, False.
 
 ### Lihat Juga
 
-* kelas [Page](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [Page](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

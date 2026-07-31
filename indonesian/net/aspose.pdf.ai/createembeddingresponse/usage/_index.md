@@ -1,12 +1,12 @@
 ---
-title: CreateEmbeddingResponse.Usage
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CreateEmbeddingResponse. Mendapatkan atau mengatur statistik penggunaan untuk permintaan embedding
+title: "CreateEmbeddingResponse.Usage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "CreateEmbeddingResponse properti. Mendapatkan atau mengatur statistik penggunaan untuk permintaan embedding"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.ai/createembeddingresponse/usage/
 ---
-## Properti CreateEmbeddingResponse.Usage
+## CreateEmbeddingResponse.Usage property
 
 Mendapatkan atau mengatur statistik penggunaan untuk permintaan embedding.
 
@@ -16,7 +16,9 @@ public Usage Usage { get; set; }
 
 ### Lihat Juga
 
-* kelas [Usage](../../usage/)
-* kelas [CreateEmbeddingResponse](../)
+* class [Usage](../../usage/)
+* class [CreateEmbeddingResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

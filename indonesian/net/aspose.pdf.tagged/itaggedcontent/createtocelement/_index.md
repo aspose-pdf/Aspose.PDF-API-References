@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateTOCElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ITaggedContent. Membuat TOCElement
+title: "ITaggedContent.CreateTOCElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ITaggedContent. Membuat TOCElement"
 type: docs
-weight: 350
+weight: 380
 url: /id/net/aspose.pdf.tagged/itaggedcontent/createtocelement/
 ---
-## Metode ITaggedContent.CreateTOCElement
+## ITaggedContent.CreateTOCElement method
 
 Membuat [`TOCElement`](../../../aspose.pdf.logicalstructure/tocelement/).
 
@@ -14,13 +14,15 @@ Membuat [`TOCElement`](../../../aspose.pdf.logicalstructure/tocelement/).
 public TOCElement CreateTOCElement()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Elemen struktur yang dibuat.
+Elemen struktur dibuat.
 
 ### Lihat Juga
 
-* kelas [TOCElement](../../../aspose.pdf.logicalstructure/tocelement/)
-* antarmuka [ITaggedContent](../)
-* ruang nama [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* kumpulan [Aspose.PDF](../../../)
+* class [TOCElement](../../../aspose.pdf.logicalstructure/tocelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

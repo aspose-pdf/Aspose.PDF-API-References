@@ -1,14 +1,14 @@
 ---
-title: GoToURIAction.GoToURIAction
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor GoToURIAction. Membuat sebuah instance dari kelas GoToURIAction
+title: "GoToURIAction.GoToURIAction"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor GoToURIAction. Membuat sebuah instance dari kelas GoToURIAction"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/gotouriaction/gotouriaction/
 ---
-## Konstruktor GoToURIAction
+## GoToURIAction constructor
 
-Membuat sebuah instance dari kelas [`GoToURIAction`](../).
+Membuat sebuah instance dari [`GoToURIAction`](../) class.
 
 ```csharp
 public GoToURIAction(string uri)
@@ -16,10 +16,12 @@ public GoToURIAction(string uri)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| uri | String | Pengidentifikasi sumber seragam yang akan diselesaikan. |
+| uri | String | Uniform resource identifier yang akan diresolusikan. |
 
 ### Lihat Juga
 
-* kelas [GoToURIAction](../)
+* class [GoToURIAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

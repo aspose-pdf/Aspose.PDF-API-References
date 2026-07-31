@@ -1,14 +1,14 @@
 ---
-title: PageSize.PageLetter
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageSize. Ukuran surat 279x216 mm
+title: "PageSize.PageLetter"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PageSize. Ukuran Letter 279x216 mm"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf/pagesize/pageletter/
 ---
-## Properti PageSize.PageLetter
+## PageSize.PageLetter property
 
-Ukuran surat (279x216 mm).
+Ukuran Letter (279x216 mm).
 
 ```csharp
 public static PageSize PageLetter { get; }
@@ -16,6 +16,8 @@ public static PageSize PageLetter { get; }
 
 ### Lihat Juga
 
-* kelas [PageSize](../)
+* class [PageSize](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

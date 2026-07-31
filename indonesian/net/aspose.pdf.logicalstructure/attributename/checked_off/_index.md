@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Checked_off
-second_title: Aspose.PDF for .NET API Reference
-description: AttributeName bidang. Atribut tercentang Off  Status dari tombol radio atau kotak centang
+title: "AttributeName.Checked_off"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang AttributeName. Atribut checked Off  Keadaan tombol radio atau kotak centang"
 type: docs
 weight: 160
 url: /id/net/aspose.pdf.logicalstructure/attributename/checked_off/
 ---
-## AttributeName.Checked_off bidang
+## AttributeName.Checked_off field
 
-Atribut tercentang: Off - Status dari tombol radio atau kotak centang.
+Atribut checked: Off - Status tombol radio atau kotak centang.
 
 ```csharp
 public static readonly AttributeName Checked_off;
@@ -19,3 +19,5 @@ public static readonly AttributeName Checked_off;
 * class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

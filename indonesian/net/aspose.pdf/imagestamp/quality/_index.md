@@ -1,14 +1,14 @@
 ---
-title: ImageStamp.Quality
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ImageStamp. Mendapatkan atau mengatur kualitas cap gambar dalam persen. Nilai yang valid adalah 0..100
+title: "ImageStamp.Quality"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ImageStamp. Mengambil atau mengatur kualitas stempel gambar dalam persen. Nilai yang valid adalah 0..100"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/imagestamp/quality/
 ---
-## Properti ImageStamp.Quality
+## ImageStamp.Quality property
 
-Mendapatkan atau mengatur kualitas cap gambar dalam persen. Nilai yang valid adalah 0..100%.
+Mendapatkan atau mengatur kualitas stempel gambar dalam persen. Nilai yang valid adalah 0..100%.
 
 ```csharp
 public int Quality { get; set; }
@@ -16,6 +16,8 @@ public int Quality { get; set; }
 
 ### Lihat Juga
 
-* kelas [ImageStamp](../)
+* class [ImageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

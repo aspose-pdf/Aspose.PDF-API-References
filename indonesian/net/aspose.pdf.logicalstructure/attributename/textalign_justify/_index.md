@@ -1,14 +1,14 @@
 ---
-title: AttributeName.TextAlign_Justify
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeName. Atribut TextAlign Justify  Rata dengan kedua tepi awal dan akhir dengan jarak internal dalam setiap baris diperluas jika perlu untuk mencapai penyelarasan tersebut. Baris terakhir atau satu-satunya harus rata dengan tepi awal saja
+title: "AttributeName.TextAlign_Justify"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang AttributeName. Atribut TextAlign Justify  Diratakan dengan kedua tepi awal dan akhir dengan spasi internal dalam setiap baris diperluas bila perlu untuk mencapai perataan tersebut. Baris terakhir atau satu-satunya hanya diratakan dengan tepi awal"
 type: docs
 weight: 570
 url: /id/net/aspose.pdf.logicalstructure/attributename/textalign_justify/
 ---
-## Field AttributeName.TextAlign_Justify
+## AttributeName.TextAlign_Justify field
 
-Atribut TextAlign: Justify - Rata dengan kedua tepi awal dan akhir, dengan jarak internal dalam setiap baris diperluas, jika perlu, untuk mencapai penyelarasan tersebut. Baris terakhir (atau satu-satunya) harus rata dengan tepi awal saja.
+Attribute TextAlign: Justify - Diratakan dengan kedua tepi awal dan akhir, dengan jarak internal dalam setiap baris diperluas, bila diperlukan, untuk mencapai perataan tersebut. Baris terakhir (atau satu-satunya) hanya akan diratakan dengan tepi awal.
 
 ```csharp
 public static readonly AttributeName TextAlign_Justify;
@@ -16,6 +16,8 @@ public static readonly AttributeName TextAlign_Justify;
 
 ### Lihat Juga
 
-* kelas [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: WarningInfo.WarningInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor WarningInfo. Membuat instance untuk mengumpulkan informasi
+title: "WarningInfo.WarningInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor WarningInfo. Membuat instance untuk mengumpulkan informasi"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/warninginfo/warninginfo/
 ---
-## Konstruktor WarningInfo
+## WarningInfo constructor
 
 Membuat instance untuk mengumpulkan informasi.
 
@@ -25,3 +25,5 @@ public WarningInfo(WarningType type, string message)
 * class [WarningInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

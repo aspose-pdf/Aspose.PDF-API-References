@@ -1,14 +1,14 @@
 ---
-title: Class FileDataSource
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.FileDataSource. Mewakili sumber data file untuk operasi muat dan simpan dari sebuah plugin
+title: "Kelas FileDataSource"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.FileDataSource. Mewakili sumber data file untuk operasi memuat dan menyimpan sebuah plugin"
 type: docs
-weight: 8550
+weight: 8680
 url: /id/net/aspose.pdf.plugins/filedatasource/
 ---
-## Kelas FileDataSource
+## FileDataSource class
 
-Mewakili sumber data file untuk operasi muat dan simpan dari sebuah plugin.
+Mewakili sumber data file untuk operasi memuat dan menyimpan plugin.
 
 ```csharp
 public sealed class FileDataSource : IDataSource
@@ -24,11 +24,13 @@ public sealed class FileDataSource : IDataSource
 
 | Nama | Deskripsi |
 | --- | --- |
-| [DataType](../../aspose.pdf.plugins/filedatasource/datatype/) { get; } | Tipe sumber data (file). |
+| [DataType](../../aspose.pdf.plugins/filedatasource/datatype/) { get; } | Jenis sumber data (file). |
 | [Path](../../aspose.pdf.plugins/filedatasource/path/) { get; } | Mendapatkan jalur ke file dari sumber data saat ini. |
 
 ### Lihat Juga
 
-* antarmuka [IDataSource](../idatasource/)
-* ruang nama [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* interface [IDataSource](../idatasource/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

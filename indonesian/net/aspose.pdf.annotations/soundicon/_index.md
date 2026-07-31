@@ -1,14 +1,14 @@
 ---
-title: Enum SoundIcon
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Annotations.SoundIcon. Mengenumerasi ikon yang akan digunakan dalam menampilkan anotasi
+title: "Enum SoundIcon"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Annotations.SoundIcon enum. Mengenumerasi ikon-ikon yang digunakan untuk menampilkan anotasi."
 type: docs
-weight: 2560
+weight: 2660
 url: /id/net/aspose.pdf.annotations/soundicon/
 ---
-## Enumerasi SoundIcon
+## SoundIcon enumeration
 
-Mengenumerasi ikon yang akan digunakan dalam menampilkan anotasi.
+Menumerasikan ikon yang akan digunakan dalam menampilkan anotasi.
 
 ```csharp
 public enum SoundIcon
@@ -25,3 +25,5 @@ public enum SoundIcon
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

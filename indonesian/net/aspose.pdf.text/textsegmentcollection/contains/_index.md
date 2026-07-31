@@ -1,14 +1,14 @@
 ---
-title: TextSegmentCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextSegmentCollection. Menentukan apakah koleksi mengandung nilai tertentu
+title: "TextSegmentCollection.Contains"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TextSegmentCollection. Menentukan apakah koleksi berisi nilai tertentu"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.text/textsegmentcollection/contains/
 ---
-## Metode TextSegmentCollection.Contains
+## TextSegmentCollection.Contains method
 
-Menentukan apakah koleksi mengandung nilai tertentu.
+Menentukan apakah koleksi berisi nilai tertentu.
 
 ```csharp
 public bool Contains(TextSegment item)
@@ -18,13 +18,15 @@ public bool Contains(TextSegment item)
 | --- | --- | --- |
 | item | TextSegment | Objek yang akan dicari dalam koleksi |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 true jika item ditemukan dalam koleksi; jika tidak, false.
 
 ### Lihat Juga
 
-* kelas [TextSegment](../../textsegment/)
-* kelas [TextSegmentCollection](../)
+* class [TextSegment](../../textsegment/)
+* class [TextSegmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

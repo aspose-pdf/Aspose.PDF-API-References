@@ -1,14 +1,14 @@
 ---
-title: Enum PrinterMarkSidePosition
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Annotations.PrinterMarkSidePosition. Mewakili posisi tanda pendaftaran di halaman
+title: "Enum PrinterMarkSidePosition"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Annotations.PrinterMarkSidePosition. Menyatakan posisi tanda registrasi pada halaman"
 type: docs
-weight: 2370
+weight: 2460
 url: /id/net/aspose.pdf.annotations/printermarksideposition/
 ---
-## Enumerasi PrinterMarkSidePosition
+## PrinterMarkSidePosition enumeration
 
-Mewakili posisi tanda pendaftaran di halaman.
+Mewakili posisi tanda registrasi pada halaman.
 
 ```csharp
 public enum PrinterMarkSidePosition
@@ -18,12 +18,14 @@ public enum PrinterMarkSidePosition
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Atas | `0` | Posisi tanda di margin atas halaman. |
-| Bawah | `1` | Posisi tanda di margin bawah halaman. |
-| Kiri | `2` | Posisi tanda di margin kiri halaman. |
-| Kanan | `3` | Posisi tanda di margin kanan halaman. |
+| Top | `0` | Posisikan tanda di margin atas halaman. |
+| Bottom | `1` | Posisikan tanda di margin bawah halaman. |
+| Left | `2` | Posisikan tanda di margin kiri halaman. |
+| Right | `3` | Posisikan tanda di margin kanan halaman. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: OBJRElement.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OBJRElement. Mengembalikan string yang mewakili objek saat ini
+title: "OBJRElement.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OBJRElement. Mengembalikan string yang merepresentasikan objek saat ini"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.logicalstructure/objrelement/tostring/
 ---
-## Metode OBJRElement.ToString
+## OBJRElement.ToString method
 
 Mengembalikan string yang mewakili objek saat ini.
 
@@ -14,12 +14,14 @@ Mengembalikan string yang mewakili objek saat ini.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 String yang mewakili objek saat ini.
 
 ### Lihat Juga
 
-* kelas [OBJRElement](../)
+* class [OBJRElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

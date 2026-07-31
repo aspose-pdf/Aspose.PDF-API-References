@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.AllowPrint
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DocumentPrivilege. Mengatur izin yang memungkinkan mencetak atau tidak. true diizinkan dan false dilarang
+title: "DocumentPrivilege.AllowPrint"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti DocumentPrivilege. Mengatur izin yang mengizinkan pencetakan atau tidak. true berarti diizinkan dan false berarti dilarang"
 type: docs
 weight: 170
 url: /id/net/aspose.pdf.facades/documentprivilege/allowprint/
 ---
-## Properti DocumentPrivilege.AllowPrint
+## DocumentPrivilege.AllowPrint property
 
-Mengatur izin yang memungkinkan mencetak atau tidak. true diizinkan dan false dilarang.
+Mengatur izin yang mengizinkan pencetakan atau tidak. true berarti diizinkan dan false berarti dilarang.
 
 ```csharp
 public bool AllowPrint { get; set; }
@@ -16,6 +16,8 @@ public bool AllowPrint { get; set; }
 
 ### Lihat Juga
 
-* kelas [DocumentPrivilege](../)
+* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

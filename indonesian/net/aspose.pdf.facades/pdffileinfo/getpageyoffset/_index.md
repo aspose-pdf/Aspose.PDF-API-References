@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.GetPageYOffset
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileInfo. Mendapatkan offset vertikal dari area tampilan halaman yang ditentukan
+title: "PdfFileInfo.GetPageYOffset"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfFileInfo method. Mendapatkan offset vertikal dari area tampilan halaman yang ditentukan"
 type: docs
 weight: 280
 url: /id/net/aspose.pdf.facades/pdffileinfo/getpageyoffset/
 ---
-## Metode PdfFileInfo.GetPageYOffset
+## PdfFileInfo.GetPageYOffset method
 
-Mendapatkan offset vertikal dari area tampilan halaman yang ditentukan.
+Mengambil offset vertikal area tampilan halaman yang ditentukan.
 
 ```csharp
 public float GetPageYOffset(int pageNum)
@@ -18,12 +18,14 @@ public float GetPageYOffset(int pageNum)
 | --- | --- | --- |
 | pageNum | Int32 | Nomor halaman. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Offset vertikal dari area tampilan halaman.
 
 ### Lihat Juga
 
-* kelas [PdfFileInfo](../)
+* class [PdfFileInfo](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

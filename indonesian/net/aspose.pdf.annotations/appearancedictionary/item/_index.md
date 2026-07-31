@@ -1,14 +1,14 @@
 ---
-title: AppearanceDictionary.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AppearanceDictionary. Mewakili bentuk yang nyaman untuk mendapatkan aliran penampilan
+title: "AppearanceDictionary.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti AppearanceDictionary. Menyajikan bentuk yang nyaman untuk mendapatkan aliran tampilan"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.annotations/appearancedictionary/item/
 ---
-## Indeks AppearanceDictionary
+## AppearanceDictionary indexer
 
-Mewakili bentuk yang nyaman untuk mendapatkan aliran penampilan.
+Mewakili bentuk yang nyaman untuk mendapatkan aliran tampilan.
 
 ```csharp
 public XForm this[string key] { get; set; }
@@ -16,15 +16,17 @@ public XForm this[string key] { get; set; }
 
 | Parameter | Deskripsi |
 | --- | --- |
-| key | Mewakili jalur ke aliran penampilan. Jika kamus penampilan memiliki subkamus, maka jalur harus mengandung 2 bagian ([`Keys`](../keys/)), jika tidak, jalur hanya memiliki satu bagian. |
+| key | Mewakili jalur ke aliran tampilan. Jika kamus tampilan memiliki subkamus, maka jalur harus berisi 2 bagian ([`Keys`](../keys/)), jika tidak jalur hanya memiliki satu bagian. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek XForm (aliran penampilan) yang sesuai dengan kunci yang diberikan.
+Objek XForm (aliran tampilan) yang sesuai dengan kunci yang diberikan.
 
 ### Lihat Juga
 
-* kelas [XForm](../../../aspose.pdf/xform/)
-* kelas [AppearanceDictionary](../)
+* class [XForm](../../../aspose.pdf/xform/)
+* class [AppearanceDictionary](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

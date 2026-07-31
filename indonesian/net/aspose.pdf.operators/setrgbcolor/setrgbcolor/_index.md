@@ -1,7 +1,7 @@
 ---
-title: SetRGBColor.SetRGBColor
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor SetRGBColor. Menginisialisasi operator
+title: "SetRGBColor.SetRGBColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor SetRGBColor. Menginisialisasi operator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/setrgbcolor/setrgbcolor/
@@ -22,7 +22,7 @@ public SetRGBColor(double r, double g, double b)
 
 ### Lihat Juga
 
-* kelas [SetRGBColor](../)
+* class [SetRGBColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -42,6 +42,8 @@ public SetRGBColor(Color color)
 
 ### Lihat Juga
 
-* kelas [SetRGBColor](../)
+* class [SetRGBColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

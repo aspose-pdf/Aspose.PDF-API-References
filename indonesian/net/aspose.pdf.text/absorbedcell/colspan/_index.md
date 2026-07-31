@@ -1,14 +1,14 @@
 ---
-title: AbsorbedCell.ColSpan
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AbsorbedCell. Mengembalikan jumlah kolom yang harus dijangkau sel ketika properti TableAbsorber.UseFlowEngine diatur ke true
+title: "AbsorbedCell.ColSpan"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti AbsorbedCell. Mengembalikan jumlah kolom yang harus dicakup sel ketika properti TableAbsorber.UseFlowEngine diatur ke true"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.text/absorbedcell/colspan/
 ---
-## Properti AbsorbedCell.ColSpan
+## AbsorbedCell.ColSpan property
 
-Mengembalikan jumlah kolom yang harus dijangkau sel ketika properti TableAbsorber.UseFlowEngine diatur ke true.
+Mengembalikan jumlah kolom yang harus dicakup sel ketika properti TableAbsorber.UseFlowEngine disetel ke true.
 
 ```csharp
 public int ColSpan { get; }
@@ -16,6 +16,8 @@ public int ColSpan { get; }
 
 ### Lihat Juga
 
-* kelas [AbsorbedCell](../)
+* class [AbsorbedCell](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: FloatingBox.FloatingBox
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor FloatingBox. Menginisialisasi instance baru dari kelas FloatingBox dengan lebar dan tinggi yang ditentukan
+title: "FloatingBox.FloatingBox"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor FloatingBox. Menginisialisasi instance baru dari kelas FloatingBox dengan lebar dan tinggi yang ditentukan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/floatingbox/floatingbox/
@@ -16,12 +16,12 @@ public FloatingBox(float width, float height)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| width | Single | Lebar kotak. |
-| height | Single | Tinggi kotak. |
+| lebar | Single | Lebar kotak. |
+| tinggi | Single | Tinggi kotak. |
 
 ### Lihat Juga
 
-* kelas [FloatingBox](../)
+* class [FloatingBox](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -37,6 +37,8 @@ public FloatingBox()
 
 ### Lihat Juga
 
-* kelas [FloatingBox](../)
+* class [FloatingBox](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

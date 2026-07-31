@@ -1,14 +1,14 @@
 ---
-title: Document.NonFullScreenPageMode
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Dokumen. Mengambil atau mengatur mode halaman yang menentukan cara menampilkan dokumen saat keluar dari mode layar penuh
+title: "Document.NonFullScreenPageMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Document properti. Mendapatkan atau mengatur mode halaman yang menentukan cara menampilkan dokumen saat keluar dari mode layar penuh."
 type: docs
-weight: 380
+weight: 400
 url: /id/net/aspose.pdf/document/nonfullscreenpagemode/
 ---
-## Properti Document.NonFullScreenPageMode
+## Document.NonFullScreenPageMode property
 
-Mengambil atau mengatur mode halaman, yang menentukan cara menampilkan dokumen saat keluar dari mode layar penuh.
+Mendapatkan atau mengatur mode halaman, yang menentukan cara menampilkan dokumen saat keluar dari mode layar penuh.
 
 ```csharp
 public PageMode NonFullScreenPageMode { get; set; }
@@ -20,3 +20,5 @@ public PageMode NonFullScreenPageMode { get; set; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

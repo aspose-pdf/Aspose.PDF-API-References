@@ -1,14 +1,14 @@
 ---
-title: PageCollection.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PageCollection. Hapus halaman yang ditentukan
+title: "PageCollection.Delete"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "metode PageCollection. Menghapus halaman yang ditentukan"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf/pagecollection/delete/
 ---
 ## Delete(int) {#delete_1}
 
-Hapus halaman yang ditentukan.
+Menghapus halaman yang ditentukan.
 
 ```csharp
 public void Delete(int index)
@@ -20,7 +20,7 @@ public void Delete(int index)
 
 ### Lihat Juga
 
-* kelas [PageCollection](../)
+* class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,7 +36,7 @@ public void Delete()
 
 ### Lihat Juga
 
-* kelas [PageCollection](../)
+* class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -44,7 +44,7 @@ public void Delete()
 
 ## Delete(int[]) {#delete_2}
 
-Hapus halaman yang ditentukan yang nomornya ditentukan dalam array.
+Hapus halaman yang ditentukan dengan nomor yang ada dalam array.
 
 ```csharp
 public void Delete(int[] pages)
@@ -52,10 +52,12 @@ public void Delete(int[] pages)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pages | Int32[] | Array halaman yang akan dihapus. |
+| halaman | Int32[] | Array halaman yang akan dihapus. |
 
 ### Lihat Juga
 
-* kelas [PageCollection](../)
+* class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

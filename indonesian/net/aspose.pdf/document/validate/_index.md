@@ -1,14 +1,14 @@
 ---
-title: Document.Validate
-second_title: Aspose.PDF for .NET API Reference
-description: Metode dokumen. Validasi dokumen ke dalam file yang ditentukan
+title: "Document.Validate"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Document. Validasi dokumen ke dalam file yang ditentukan"
 type: docs
-weight: 890
+weight: 910
 url: /id/net/aspose.pdf/document/validate/
 ---
 ## Validate(string, PdfFormat) {#validate_2}
 
-Validasi dokumen ke dalam file yang ditentukan.
+Validasi dokumen ke file yang ditentukan.
 
 ```csharp
 public bool Validate(string outputLogFileName, PdfFormat format)
@@ -19,11 +19,11 @@ public bool Validate(string outputLogFileName, PdfFormat format)
 | outputLogFileName | String | Jalur ke file tempat komentar akan disimpan. |
 | format | PdfFormat | Format pdf. |
 
-### Return Value
+### Nilai Kembalian
 
 Hasil operasi
 
-### See Also
+### Lihat Juga
 
 * enum [PdfFormat](../../pdfformat/)
 * class [Document](../)
@@ -34,7 +34,7 @@ Hasil operasi
 
 ## Validate(Stream, PdfFormat) {#validate_1}
 
-Validasi dokumen ke dalam file yang ditentukan.
+Validasi dokumen ke file yang ditentukan.
 
 ```csharp
 public bool Validate(Stream outputLogStream, PdfFormat format)
@@ -45,11 +45,11 @@ public bool Validate(Stream outputLogStream, PdfFormat format)
 | outputLogStream | Stream | Stream tempat komentar akan disimpan. |
 | format | PdfFormat | Format pdf. |
 
-### Return Value
+### Nilai Kembalian
 
 Hasil operasi
 
-### See Also
+### Lihat Juga
 
 * enum [PdfFormat](../../pdfformat/)
 * class [Document](../)
@@ -60,7 +60,7 @@ Hasil operasi
 
 ## Validate(PdfFormatConversionOptions) {#validate}
 
-Validasi dokumen ke dalam file yang ditentukan.
+Validasi dokumen ke file yang ditentukan.
 
 ```csharp
 public bool Validate(PdfFormatConversionOptions options)
@@ -70,13 +70,15 @@ public bool Validate(PdfFormatConversionOptions options)
 | --- | --- | --- |
 | options | PdfFormatConversionOptions | sekumpulan opsi untuk mengonversi dokumen PDF |
 
-### Return Value
+### Nilai Kembalian
 
 Hasil operasi
 
-### See Also
+### Lihat Juga
 
 * class [PdfFormatConversionOptions](../../pdfformatconversionoptions/)
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: PDF3DCuttingPlaneOrientation.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PDF3DCuttingPlaneOrientation. Mengembalikan String yang mewakili instance ini
+title: "PDF3DCuttingPlaneOrientation.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PDF3DCuttingPlaneOrientation. Mengembalikan String yang mewakili instance ini"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.annotations/pdf3dcuttingplaneorientation/tostring/
 ---
-## Metode PDF3DCuttingPlaneOrientation.ToString
+## PDF3DCuttingPlaneOrientation.ToString method
 
-Mengembalikan String yang mewakili instance ini.
+Mengembalikan String yang merepresentasikan instance ini.
 
 ```csharp
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah String yang mewakili instance ini.
+String yang mewakili instance ini.
 
 ### Lihat Juga
 
-* kelas [PDF3DCuttingPlaneOrientation](../)
+* class [PDF3DCuttingPlaneOrientation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

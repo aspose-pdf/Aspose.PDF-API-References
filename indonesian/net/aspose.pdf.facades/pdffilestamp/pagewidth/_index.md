@@ -1,12 +1,12 @@
 ---
-title: PdfFileStamp.PageWidth
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFileStamp. Mendapatkan lebar halaman pertama dalam file input
+title: "PdfFileStamp.PageWidth"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFileStamp. Mendapatkan lebar halaman pertama dalam file input."
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.facades/pdffilestamp/pagewidth/
 ---
-## Properti PdfFileStamp.PageWidth
+## PdfFileStamp.PageWidth property
 
 Mendapatkan lebar halaman pertama dalam file input.
 
@@ -24,6 +24,8 @@ fileStamp.Close();
 
 ### Lihat Juga
 
-* kelas [PdfFileStamp](../)
+* class [PdfFileStamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Interface IAICopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Antarmuka Aspose.Pdf.AI.IAICopilot. Mewakili copilot untuk interaksi AI
+title: "Antarmuka IAICopilot"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Antarmuka Aspose.Pdf.AI.IAICopilot. Mewakili copilot untuk interaksi AI"
 type: docs
-weight: 450
+weight: 470
 url: /id/net/aspose.pdf.ai/iaicopilot/
 ---
-## Antarmuka IAICopilot
+## IAICopilot interface
 
 Mewakili copilot untuk interaksi AI.
 
@@ -24,3 +24,5 @@ public interface IAICopilot
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

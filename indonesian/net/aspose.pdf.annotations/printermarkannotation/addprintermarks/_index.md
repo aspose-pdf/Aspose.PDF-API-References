@@ -1,7 +1,7 @@
 ---
-title: PrinterMarkAnnotation.AddPrinterMarks
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PrinterMarkAnnotation. Menambahkan tanda printer ke semua halaman dalam dokumen yang ditentukan
+title: "PrinterMarkAnnotation.AddPrinterMarks"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PrinterMarkAnnotation. Menambahkan tanda printer ke semua halaman dalam dokumen yang ditentukan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/printermarkannotation/addprintermarks/
@@ -23,17 +23,17 @@ public static void AddPrinterMarks(Document document, PrinterMarksKind marksKind
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | Dilempar ketika *document* adalah null. |
+| ArgumentNullException | Dilempar ketika *document* bernilai null. |
 
 ## Catatan
 
-Metode ini menambahkan berbagai jenis tanda printer berdasarkan bendera [`PrinterMarksKind`](../../printermarkskind/) yang diberikan. Jika None diberikan, tidak ada tanda yang ditambahkan.
+Metode ini menambahkan berbagai jenis tanda printer berdasarkan flag [`PrinterMarksKind`](../../printermarkskind/) yang diberikan. Jika None diberikan, tidak ada tanda yang ditambahkan.
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
+* class [Document](../../../aspose.pdf/document/)
 * enum [PrinterMarksKind](../../printermarkskind/)
-* kelas [PrinterMarkAnnotation](../)
+* class [PrinterMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
 
@@ -49,23 +49,25 @@ public static void AddPrinterMarks(Page page, PrinterMarksKind marksKind)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman yang akan ditambahkan tanda printer. |
+| halaman | Halaman | Halaman yang akan ditambahkan tanda printer. |
 | marksKind | PrinterMarksKind | Jenis tanda printer yang akan ditambahkan. |
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| ArgumentNullException | Dilempar ketika *page* adalah null. |
+| ArgumentNullException | Dilempar ketika *page* bernilai null. |
 
 ## Catatan
 
-Metode ini menambahkan berbagai jenis tanda printer berdasarkan bendera [`PrinterMarksKind`](../../printermarkskind/) yang diberikan. Jika None diberikan, tidak ada tanda yang ditambahkan.
+Metode ini menambahkan berbagai jenis tanda printer berdasarkan flag [`PrinterMarksKind`](../../printermarkskind/) yang diberikan. Jika None diberikan, tidak ada tanda yang ditambahkan.
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
+* class [Page](../../../aspose.pdf/page/)
 * enum [PrinterMarksKind](../../printermarkskind/)
-* kelas [PrinterMarkAnnotation](../)
+* class [PrinterMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfExtractor. Atur atau ambil resolusi untuk gambar yang diekstrak. Nilai default adalah 150. Gambar yang memiliki nilai resolusi lebih tinggi lebih jelas. Namun, meningkatkan nilai resolusi mengakibatkan peningkatan waktu dan memori yang dibutuhkan untuk mengekstrak gambar. Biasanya, untuk mendapatkan gambar yang jelas, cukup atur resolusi ke 150 atau 300.
+title: "PdfExtractor.Resolution"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfExtractor. Mengatur atau mendapatkan resolusi untuk gambar yang diekstrak. Nilai default adalah 150. Gambar yang memiliki nilai resolusi lebih tinggi akan lebih jelas. Namun meningkatkan nilai resolusi akan meningkatkan waktu dan memori yang dibutuhkan untuk mengekstrak gambar. Biasanya untuk mendapatkan gambar yang jelas cukup mengatur resolusi ke 150 atau 300."
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.facades/pdfextractor/resolution/
 ---
-## Properti PdfExtractor.Resolution
+## PdfExtractor.Resolution property
 
-Atur atau ambil resolusi untuk gambar yang diekstrak. Nilai default adalah 150. Gambar yang memiliki nilai resolusi lebih tinggi lebih jelas. Namun, meningkatkan nilai resolusi mengakibatkan peningkatan waktu dan memori yang dibutuhkan untuk mengekstrak gambar. Biasanya, untuk mendapatkan gambar yang jelas, cukup atur resolusi ke 150 atau 300.
+Mengatur atau mendapatkan resolusi untuk gambar yang diekstrak. Nilai default adalah 150. Gambar dengan nilai resolusi lebih tinggi lebih jelas. Namun meningkatkan nilai resolusi akan meningkatkan waktu dan memori yang dibutuhkan untuk mengekstrak gambar. Biasanya untuk mendapatkan gambar yang jelas cukup mengatur resolusi ke 150 atau 300.
 
 ```csharp
 public int Resolution { get; set; }
@@ -16,6 +16,8 @@ public int Resolution { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

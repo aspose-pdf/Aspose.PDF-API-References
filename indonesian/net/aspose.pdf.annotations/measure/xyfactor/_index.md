@@ -1,14 +1,14 @@
 ---
-title: Measure.XYFactor
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Measure. Sebuah faktor yang akan digunakan untuk mengonversi unit terbesar di sepanjang sumbu y ke unit terbesar di sepanjang sumbu x
+title: "Measure.XYFactor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Measure property. Faktor yang akan digunakan untuk mengonversi satuan terbesar pada sumbu y ke satuan terbesar pada sumbu x"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.annotations/measure/xyfactor/
 ---
-## Properti Measure.XYFactor
+## Measure.XYFactor property
 
-Sebuah faktor yang akan digunakan untuk mengonversi unit terbesar di sepanjang sumbu y ke unit terbesar di sepanjang sumbu x.
+Faktor yang akan digunakan untuk mengonversi satuan terbesar sepanjang sumbu y ke satuan terbesar sepanjang sumbu x.
 
 ```csharp
 public double XYFactor { get; set; }
@@ -16,6 +16,8 @@ public double XYFactor { get; set; }
 
 ### Lihat Juga
 
-* kelas [Measure](../)
+* class [Measure](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

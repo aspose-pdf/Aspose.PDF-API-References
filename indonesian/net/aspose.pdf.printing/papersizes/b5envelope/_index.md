@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.B5Envelope
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSizes. Amplop B5 176 mm x 250 mm
+title: "PaperSizes.B5Envelope"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PaperSizes bidang. amplop B5 176 mm x 250 mm"
 type: docs
 weight: 240
 url: /id/net/aspose.pdf.printing/papersizes/b5envelope/
 ---
-## Bidang PaperSizes.B5Envelope
+## PaperSizes.B5Envelope field
 
 Amplop B5 (176 mm x 250 mm).
 
@@ -16,7 +16,9 @@ public static readonly PaperSize B5Envelope;
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

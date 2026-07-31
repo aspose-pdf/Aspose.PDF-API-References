@@ -1,12 +1,12 @@
 ---
-title: Class DeprecatedFeatureException
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.DeprecatedFeatureException. Pengecualian yang dilemparkan ketika sebuah fitur tidak lagi didukung dalam versi pdf saat ini
+title: "Kelas DeprecatedFeatureException"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.DeprecatedFeatureException class. Pengecualian yang dilempar ketika sebuah fitur tidak lagi didukung pada versi PDF saat ini"
 type: docs
-weight: 3500
+weight: 3620
 url: /id/net/aspose.pdf/deprecatedfeatureexception/
 ---
-## Kelas DeprecatedFeatureException
+## DeprecatedFeatureException class
 
 Pengecualian yang dilemparkan ketika sebuah fitur tidak lagi didukung dalam versi pdf saat ini.
 
@@ -23,6 +23,8 @@ public sealed class DeprecatedFeatureException : PdfException
 
 ### Lihat Juga
 
-* kelas [PdfException](../pdfexception/)
+* class [PdfException](../pdfexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

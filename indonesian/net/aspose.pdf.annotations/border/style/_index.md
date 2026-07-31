@@ -1,14 +1,14 @@
 ---
-title: Border.Style
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Border. Mengambil atau mengatur gaya border
+title: "Border.Style"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Border. Mendapatkan atau mengatur gaya border"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.annotations/border/style/
 ---
-## Properti Border.Style
+## Border.Style property
 
-Mengambil atau mengatur gaya border.
+Mendapatkan atau mengatur gaya border.
 
 ```csharp
 public BorderStyle Style { get; set; }
@@ -20,3 +20,5 @@ public BorderStyle Style { get; set; }
 * class [Border](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

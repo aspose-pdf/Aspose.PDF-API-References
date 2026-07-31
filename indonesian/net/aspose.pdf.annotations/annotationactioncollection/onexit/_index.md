@@ -1,12 +1,12 @@
 ---
-title: AnnotationActionCollection.OnExit
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AnnotationActionCollection. Mendapatkan atau mengatur aksi yang akan dilakukan ketika kursor keluar dari area aktif anotasi
+title: "AnnotationActionCollection.OnExit"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti AnnotationActionCollection. Mendapatkan atau mengatur aksi yang akan dilakukan ketika kursor keluar dari area aktif anotasi"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.annotations/annotationactioncollection/onexit/
 ---
-## Properti AnnotationActionCollection.OnExit
+## AnnotationActionCollection.OnExit property
 
 Mendapatkan atau mengatur aksi yang akan dilakukan ketika kursor keluar dari area aktif anotasi.
 
@@ -16,7 +16,9 @@ public PdfAction OnExit { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfAction](../../pdfaction/)
-* kelas [AnnotationActionCollection](../)
+* class [PdfAction](../../pdfaction/)
+* class [AnnotationActionCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

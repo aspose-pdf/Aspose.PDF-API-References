@@ -1,12 +1,12 @@
 ---
-title: BitmapInfo.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Properti BitmapInfo. Mendapatkan lebar bitmap
+title: "BitmapInfo.Width"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti BitmapInfo. Mengambil lebar bitmap"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/bitmapinfo/width/
 ---
-## Properti BitmapInfo.Width
+## BitmapInfo.Width property
 
 Mendapatkan lebar bitmap.
 
@@ -16,6 +16,8 @@ public int Width { get; }
 
 ### Lihat Juga
 
-* kelas [BitmapInfo](../)
+* class [BitmapInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

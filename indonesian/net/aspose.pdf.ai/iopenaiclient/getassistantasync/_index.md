@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetAssistantAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IOpenAIClient. Mengambil rincian asisten tertentu secara asinkron
+title: "IOpenAIClient.GetAssistantAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "metode IOpenAIClient. Mengambil detail asisten tertentu secara asinkron"
 type: docs
 weight: 190
 url: /id/net/aspose.pdf.ai/iopenaiclient/getassistantasync/
 ---
-## Metode IOpenAIClient.GetAssistantAsync
+## IOpenAIClient.GetAssistantAsync method
 
-Mengambil rincian asisten tertentu secara asinkron.
+Mengambil detail asisten tertentu secara asinkron.
 
 ```csharp
 public Task<AssistantResponse> GetAssistantAsync(string assistantId, 
@@ -20,19 +20,21 @@ public Task<AssistantResponse> GetAssistantAsync(string assistantId,
 | assistantId | String | ID asisten yang akan diambil. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi rincian asisten.
+Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi detail asisten.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Dilemparkan ketika ID asisten adalah null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika Id asisten bernilai null atau kosong. |
 
 ### Lihat Juga
 
-* kelas [AssistantResponse](../../assistantresponse/)
-* antarmuka [IOpenAIClient](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [AssistantResponse](../../assistantresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class StreamSaveTarget
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.StreamSaveTarget. Mewakili target penyimpanan stream untuk sebuah plugin
+title: "Kelas StreamSaveTarget"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.StreamSaveTarget. Menyatakan target penyimpanan stream untuk sebuah plugin"
 type: docs
-weight: 9310
+weight: 9460
 url: /id/net/aspose.pdf.plugins/streamsavetarget/
 ---
-## Kelas StreamSaveTarget
+## StreamSaveTarget class
 
 Mewakili target penyimpanan stream untuk sebuah plugin.
 
@@ -29,6 +29,8 @@ public class StreamSaveTarget : ISaveTarget
 
 ### Lihat Juga
 
-* antarmuka [ISaveTarget](../isavetarget/)
+* interface [ISaveTarget](../isavetarget/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PdfToHtmlOptions.OutputDataType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfToHtmlOptions. Mendapatkan tipe data keluaran
+title: "PdfToHtmlOptions.OutputDataType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfToHtmlOptions properti. Mendapatkan tipe data output"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.plugins/pdftohtmloptions/outputdatatype/
 ---
-## Properti PdfToHtmlOptions.OutputDataType
+## PdfToHtmlOptions.OutputDataType property
 
 Mendapatkan tipe data keluaran.
 
@@ -20,3 +20,5 @@ public SaveDataType OutputDataType { get; }
 * class [PdfToHtmlOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

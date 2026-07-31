@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.ChangeViewerPreference
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Mengubah preferensi tampilan
+title: "PdfContentEditor.ChangeViewerPreference"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfContentEditor. Mengubah preferensi tampilan"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/changeviewerpreference/
 ---
-## Metode PdfContentEditor.ChangeViewerPreference
+## PdfContentEditor.ChangeViewerPreference method
 
 Mengubah preferensi tampilan.
 
@@ -16,7 +16,7 @@ public void ChangeViewerPreference(int viewerAttribution)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| viewerAttribution | Int32 | Atribut tampilan yang didefinisikan dalam kelas ViewerPreference. |
+| viewerAttribution | Int32 | Atribusi tampilan yang didefinisikan dalam kelas ViewerPreference. |
 
 ## Contoh
 
@@ -30,6 +30,8 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

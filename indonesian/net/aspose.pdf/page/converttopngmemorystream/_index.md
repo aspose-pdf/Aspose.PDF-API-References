@@ -1,25 +1,27 @@
 ---
-title: Page.ConvertToPNGMemoryStream
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Halaman. Mengonversi halaman ke PNG untuk aliran gambar DSR OMR OCR
+title: "Page.ConvertToPNGMemoryStream"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Page. Mengonversi halaman ke PNG untuk aliran gambar DSR OMR OCR"
 type: docs
 weight: 400
 url: /id/net/aspose.pdf/page/converttopngmemorystream/
 ---
-## Metode Page.ConvertToPNGMemoryStream
+## Page.ConvertToPNGMemoryStream method
 
-Mengonversi halaman ke PNG untuk aliran gambar DSR, OMR, OCR.
+Mengonversi page ke PNG untuk stream gambar DSR, OMR, OCR.
 
 ```csharp
 public MemoryStream ConvertToPNGMemoryStream()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Aliran gambar.
 
 ### Lihat Juga
 
-* kelas [Page](../)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

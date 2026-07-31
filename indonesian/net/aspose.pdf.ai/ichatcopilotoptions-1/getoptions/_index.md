@@ -1,25 +1,27 @@
 ---
-title: IChatCopilotOptions1.GetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IChatCopilotOptions. Mendapatkan opsi dari tipe TOptions
+title: "IChatCopilotOptions1.GetOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "IChatCopilotOptions method. Mendapatkan opsi berjenis TOptions"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/ichatcopilotoptions-1/getoptions/
 ---
-## IChatCopilotOptions&lt;TOptions&gt;.Metode GetOptions
+## IChatCopilotOptions&lt;TOptions&gt;.GetOptions method
 
-Mendapatkan opsi dari tipe *TOptions*.
+Mendapatkan opsi dengan tipe *TOptions*.
 
 ```csharp
 public TOptions GetOptions()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Opsi dari tipe *TOptions*.
+Opsi dengan tipe *TOptions*.
 
 ### Lihat Juga
 
-* antarmuka [IChatCopilotOptions&lt;TOptions&gt;](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* interface [IChatCopilotOptions&lt;TOptions&gt;](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

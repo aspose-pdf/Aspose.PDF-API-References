@@ -1,12 +1,12 @@
 ---
-title: Layer.Unlock
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Layer. Membuka kunci lapisan
+title: "Layer.Unlock"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Layer. Membuka kunci lapisan"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf/layer/unlock/
 ---
-## Metode Layer.Unlock
+## Layer.Unlock method
 
 Membuka kunci lapisan.
 
@@ -16,6 +16,8 @@ public void Unlock()
 
 ### Lihat Juga
 
-* kelas [Layer](../)
+* class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateQuoteElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ITaggedContent. Membuat QuoteElement
+title: "ITaggedContent.CreateQuoteElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ITaggedContent metode. Membuat QuoteElement"
 type: docs
-weight: 230
+weight: 260
 url: /id/net/aspose.pdf.tagged/itaggedcontent/createquoteelement/
 ---
-## Metode ITaggedContent.CreateQuoteElement
+## ITaggedContent.CreateQuoteElement method
 
 Membuat [`QuoteElement`](../../../aspose.pdf.logicalstructure/quoteelement/).
 
@@ -14,13 +14,15 @@ Membuat [`QuoteElement`](../../../aspose.pdf.logicalstructure/quoteelement/).
 public QuoteElement CreateQuoteElement()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Elemen struktur yang dibuat.
+Elemen struktur dibuat.
 
 ### Lihat Juga
 
-* kelas [QuoteElement](../../../aspose.pdf.logicalstructure/quoteelement/)
-* antarmuka [ITaggedContent](../)
-* ruang nama [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* class [QuoteElement](../../../aspose.pdf.logicalstructure/quoteelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

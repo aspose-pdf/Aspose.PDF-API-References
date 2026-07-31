@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.VerifySigned
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileSignature. Memeriksa keabsahan tanda tangan
+title: "PdfFileSignature.VerifySigned"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileSignature. Memeriksa keabsahan sebuah tanda tangan."
 type: docs
 weight: 310
 url: /id/net/aspose.pdf.facades/pdffilesignature/verifysigned/
 ---
-## Metode PdfFileSignature.VerifySigned
+## PdfFileSignature.VerifySigned method
 
-Memeriksa keabsahan tanda tangan.
+Memeriksa keabsahan sebuah tanda tangan.
 
 ```csharp
 public bool VerifySigned(string signName)
@@ -18,12 +18,14 @@ public bool VerifySigned(string signName)
 | --- | --- | --- |
 | signName | String | Nama tanda tangan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Mengembalikan hasil tipe bool.
+Kembalikan hasil dengan tipe bool.
 
 ### Lihat Juga
 
-* kelas [PdfFileSignature](../)
+* class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

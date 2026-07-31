@@ -1,14 +1,14 @@
 ---
-title: RunCreateRequest.MaxPromptTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RunCreateRequest. Mendapatkan atau menetapkan jumlah maksimum token prompt yang dapat digunakan selama proses run. Proses run akan berusaha sebaik mungkin untuk hanya menggunakan jumlah token prompt yang ditentukan di berbagai putaran run. Jika proses run melebihi jumlah token prompt yang ditentukan, proses run akan berakhir dengan status tidak lengkap. Lihat incomplete_details untuk informasi lebih lanjut.
+title: "RunCreateRequest.MaxPromptTokens"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RunCreateRequest. Mendapatkan atau mengatur jumlah maksimum token prompt yang dapat digunakan selama run. Run akan berusaha sebaik mungkin untuk hanya menggunakan jumlah token prompt yang ditentukan selama beberapa giliran run. Jika run melebihi jumlah token prompt yang ditentukan, run akan berakhir dengan status incomplete. Lihat incomplete_details untuk info lebih lanjut."
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.ai/runcreaterequest/maxprompttokens/
 ---
-## Properti RunCreateRequest.MaxPromptTokens
+## RunCreateRequest.MaxPromptTokens property
 
-Mendapatkan atau menetapkan jumlah maksimum token prompt yang dapat digunakan selama proses run. Proses run akan berusaha sebaik mungkin untuk hanya menggunakan jumlah token prompt yang ditentukan, di berbagai putaran run. Jika proses run melebihi jumlah token prompt yang ditentukan, proses run akan berakhir dengan status tidak lengkap. Lihat incomplete_details untuk informasi lebih lanjut.
+Mendapatkan atau mengatur jumlah maksimum token prompt yang dapat digunakan selama run. Run akan berusaha sebaik mungkin hanya menggunakan jumlah token prompt yang ditentukan, melintasi beberapa putaran run. Jika run melebihi jumlah token prompt yang ditentukan, run akan berakhir dengan status incomplete. Lihat incomplete_details untuk info lebih lanjut.
 
 ```csharp
 public int? MaxPromptTokens { get; set; }
@@ -16,6 +16,8 @@ public int? MaxPromptTokens { get; set; }
 
 ### Lihat Juga
 
-* kelas [RunCreateRequest](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [RunCreateRequest](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

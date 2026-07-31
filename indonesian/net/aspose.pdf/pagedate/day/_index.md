@@ -1,14 +1,14 @@
 ---
-title: PageDate.Day
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageDate. Mengambil atau mengatur komponen hari dari tanggal. Format tanggal akan diperbarui berdasarkan komponen ini
+title: "PageDate.Day"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PageDate. Mendapatkan atau mengatur komponen hari dari tanggal. Format tanggal akan diperbarui berdasarkan komponen ini."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/pagedate/day/
 ---
-## Properti PageDate.Day
+## PageDate.Day property
 
-Mengambil atau mengatur komponen hari dari tanggal. Format tanggal akan diperbarui berdasarkan komponen ini.
+Mendapatkan atau mengatur komponen hari dari tanggal. Format tanggal akan diperbarui berdasarkan komponen ini.
 
 ```csharp
 public DayComponent Day { get; set; }
@@ -16,7 +16,9 @@ public DayComponent Day { get; set; }
 
 ### Lihat Juga
 
-* kelas [DayComponent](../../pagedate.daycomponent/)
-* kelas [PageDate](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [DayComponent](../../pagedate.daycomponent/)
+* class [PageDate](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

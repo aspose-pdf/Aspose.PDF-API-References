@@ -1,14 +1,14 @@
 ---
-title: Attachment.Tools
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Attachment. Mendapatkan atau mengatur jenis alat yang dilampirkan pada File
+title: "Attachment.Tools"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Attachment properti. Mendapatkan atau mengatur tipe alat yang File terlampir"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/attachment/tools/
 ---
-## Properti Attachment.Tools
+## Attachment.Tools property
 
-Mendapatkan atau mengatur jenis alat yang dilampirkan pada File.
+Mendapatkan atau mengatur tipe alat yang File tersebut dilampirkan.
 
 ```csharp
 public List<Tool> Tools { get; set; }
@@ -16,7 +16,9 @@ public List<Tool> Tools { get; set; }
 
 ### Lihat Juga
 
-* kelas [Tool](../../tool/)
-* kelas [Attachment](../)
+* class [Tool](../../tool/)
+* class [Attachment](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class XfdfReader
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Annotations.XfdfReader. Kelas yang melakukan pembacaan format XFDF
+title: "Kelas XfdfReader"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Annotations.XfdfReader. Kelas yang melakukan pembacaan format XFDF"
 type: docs
-weight: 2740
+weight: 2840
 url: /id/net/aspose.pdf.annotations/xfdfreader/
 ---
-## Kelas XfdfReader
+## XfdfReader class
 
 Kelas yang melakukan pembacaan format XFDF.
 
@@ -24,9 +24,9 @@ public sealed class XfdfReader
 
 | Nama | Deskripsi |
 | --- | --- |
-| static [GetElements](../../aspose.pdf.annotations/xfdfreader/getelements/)(XmlReader) | Mengurai file XFDF dan mengembalikan informasi sebagai hashtable. |
-| static [ReadAnnotations](../../aspose.pdf.annotations/xfdfreader/readannotations/)(Stream, Document) | Mengimpor anotasi dari file XFDF dan menempatkannya ke dalam dokumen. |
-| static [ReadFields](../../aspose.pdf.annotations/xfdfreader/readfields/)(Stream, Document) | Mengimpor nilai field dari file XFDF. |
+| static [GetElements](../../aspose.pdf.annotations/xfdfreader/getelements/)(XmlReader) | Menganalisis file XFDF dan mengembalikan informasi sebagai hashtable. |
+| static [ReadAnnotations](../../aspose.pdf.annotations/xfdfreader/readannotations/)(Stream, Document) | Impor anotasi dari file XFDF dan menempatkannya ke dalam dokumen. |
+| static [ReadFields](../../aspose.pdf.annotations/xfdfreader/readfields/)(Stream, Document) | Impor nilai bidang dari file XFDF. |
 
 ## Contoh
 
@@ -42,3 +42,5 @@ doc.Save("example_out.pdf");
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

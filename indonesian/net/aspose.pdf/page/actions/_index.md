@@ -1,12 +1,12 @@
 ---
-title: Page.Actions
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Halaman. Mendapatkan koleksi properti halaman
+title: "Page.Actions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Page. Mendapatkan koleksi properti halaman."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/page/actions/
 ---
-## Properti Page.Actions
+## Page.Actions property
 
 Mendapatkan koleksi properti halaman.
 
@@ -16,7 +16,9 @@ public PageActionCollection Actions { get; }
 
 ### Lihat Juga
 
-* kelas [PageActionCollection](../../pageactioncollection/)
-* kelas [Page](../)
+* class [PageActionCollection](../../pageactioncollection/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

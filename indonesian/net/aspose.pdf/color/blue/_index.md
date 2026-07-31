@@ -1,25 +1,27 @@
 ---
-title: Color.Blue
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FF0000FF
+title: "Color.Blue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB c FF0000FF"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf/color/blue/
 ---
-## Properti Color.Blue
+## Color.Blue property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FF0000FF.
+Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB \c \#FF0000FF.
 
 ```csharp
 public static Color Blue { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah yang mewakili warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

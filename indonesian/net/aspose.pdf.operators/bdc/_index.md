@@ -1,14 +1,14 @@
 ---
-title: Class BDC
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.BDC. kelas yang mewakili operator BDC Mulai urutan konten yang ditandai
+title: "Kelas BDC"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Operators.BDC kelas. kelas yang merepresentasikan operator BDC Begin markedcontent sequence"
 type: docs
-weight: 7100
+weight: 7240
 url: /id/net/aspose.pdf.operators/bdc/
 ---
-## Kelas BDC
+## BDC class
 
-kelas yang mewakili operator BDC (Mulai urutan konten yang ditandai)
+kelas yang mewakili operator BDC (Begin marked-content sequence)
 
 ```csharp
 public class BDC : Operator
@@ -27,18 +27,20 @@ public class BDC : Operator
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Indeks operator dalam daftar operator halaman. |
 | [Properties](../../aspose.pdf.operators/bdc/properties/) { get; } |  |
-| [Tag](../../aspose.pdf.operators/bdc/tag/) { get; set; } | Mendapatkan atau mengatur tag konten yang ditandai |
+| [Tag](../../aspose.pdf.operators/bdc/tag/) { get; set; } | Mendapatkan atau mengatur tag konten yang ditandai. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/bdc/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
+| override [Accept](../../aspose.pdf.operators/bdc/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
 | override [ToString](../../aspose.pdf.operators/bdc/tostring/)() | Mengembalikan representasi teks dari operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [Operator](../../aspose.pdf/operator/)
+* class [Operator](../../aspose.pdf/operator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

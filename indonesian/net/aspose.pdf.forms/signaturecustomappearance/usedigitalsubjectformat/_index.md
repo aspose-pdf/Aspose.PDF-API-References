@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.UseDigitalSubjectFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SignatureCustomAppearance. Mendapatkan/mengatur status penggunaan dari DigitalSubjectFormat
+title: "SignatureCustomAppearance.UseDigitalSubjectFormat"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SignatureCustomAppearance. Mendapatkan/mengatur status penggunaan DigitalSubjectFormat"
 type: docs
-weight: 190
+weight: 200
 url: /id/net/aspose.pdf.forms/signaturecustomappearance/usedigitalsubjectformat/
 ---
-## Properti SignatureCustomAppearance.UseDigitalSubjectFormat
+## SignatureCustomAppearance.UseDigitalSubjectFormat property
 
-Mendapatkan/mengatur status penggunaan dari [`DigitalSubjectFormat`](../digitalsubjectformat/).
+Mendapatkan/mengatur status penggunaan [`DigitalSubjectFormat`](../digitalsubjectformat/).
 
 ```csharp
 public bool UseDigitalSubjectFormat { get; set; }
@@ -16,6 +16,8 @@ public bool UseDigitalSubjectFormat { get; set; }
 
 ### Lihat Juga
 
-* kelas [SignatureCustomAppearance](../)
+* class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

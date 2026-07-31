@@ -1,14 +1,14 @@
 ---
-title: TabStops.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TabStops. Mengambil atau mengatur objek TabStop dari koleksi sesuai dengan indeks TabStop
+title: "TabStops.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TabStops. Mendapatkan atau mengatur objek TabStop dari koleksi berdasarkan indeks TabStop."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.text/tabstops/item/
 ---
-## Indeks TabStops
+## TabStops indexer
 
-Mengambil atau mengatur objek [`TabStop`](../../tabstop/) dari koleksi sesuai dengan indeks TabStop.
+Mendapatkan atau mengatur objek [`TabStop`](../../tabstop/) dari koleksi berdasarkan indeks TabStop.
 
 ```csharp
 public TabStop this[int index] { get; set; }
@@ -18,13 +18,15 @@ public TabStop this[int index] { get; set; }
 | --- | --- |
 | index | Indeks berbasis nol dari elemen dalam koleksi [`TabStops`](../). |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek [`TabStop`](../../tabstop/).
+[`TabStop`](../../tabstop/) object.
 
 ### Lihat Juga
 
-* kelas [TabStop](../../tabstop/)
-* kelas [TabStops](../)
+* class [TabStop](../../tabstop/)
+* class [TabStops](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

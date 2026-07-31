@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.CreatePolyLine
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Membuat anotasi poligon
+title: "PdfContentEditor.CreatePolyLine"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfContentEditor. Membuat anotasi polyline"
 type: docs
 weight: 240
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/createpolyline/
 ---
-## Metode PdfContentEditor.CreatePolyLine
+## PdfContentEditor.CreatePolyLine method
 
-Membuat anotasi poligon.
+Membuat anotasi polyline.
 
 ```csharp
 public void CreatePolyLine(LineInfo lineInfo, int page, Rectangle annotRect, string annotContents)
@@ -16,10 +16,10 @@ public void CreatePolyLine(LineInfo lineInfo, int page, Rectangle annotRect, str
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| lineInfo | LineInfo | Instansi dari kelas LineInfo. |
-| page | Int32 | Nomor halaman asli tempat anotasi akan dibuat. |
-| annotRect | Rectangle | Persegi panjang anotasi yang mendefinisikan lokasi anotasi di halaman. |
-| annotContents | String | Isi dari anotasi. |
+| lineInfo | LineInfo | Instansi kelas LineInfo. |
+| halaman | Int32 | Jumlah halaman asli tempat anotasi akan dibuat. |
+| annotRect | Rectangle | Persegi panjang anotasi yang menentukan lokasi anotasi pada halaman. |
+| annotContents | String | Isi anotasi. |
 
 ## Contoh
 
@@ -35,7 +35,9 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [LineInfo](../../lineinfo/)
-* kelas [PdfContentEditor](../)
+* class [LineInfo](../../lineinfo/)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

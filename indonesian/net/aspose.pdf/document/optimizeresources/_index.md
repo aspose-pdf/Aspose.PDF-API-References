@@ -1,14 +1,14 @@
 ---
-title: Document.OptimizeResources
-second_title: Aspose.PDF for .NET API Reference
-description: Metode dokumen. Optimalkan sumber daya dalam dokumen 1. Sumber daya yang tidak digunakan di halaman dokumen dihapus 2. Sumber daya yang sama digabung menjadi satu objek 3. Objek yang tidak digunakan dihapus
+title: "Document.OptimizeResources"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Document. Optimalkan sumber daya dalam dokumen 1. Sumber daya yang tidak digunakan pada halaman dokumen dihapus 2. Sumber daya yang sama digabung menjadi satu objek 3. Objek yang tidak terpakai dihapus"
 type: docs
-weight: 760
+weight: 780
 url: /id/net/aspose.pdf/document/optimizeresources/
 ---
 ## OptimizeResources() {#optimizeresources}
 
-Optimalkan sumber daya dalam dokumen: 1. Sumber daya yang tidak digunakan di halaman dokumen dihapus; 2. Sumber daya yang sama digabung menjadi satu objek; 3. Objek yang tidak digunakan dihapus.
+Optimalkan sumber daya dalam dokumen: 1. Sumber daya yang tidak digunakan pada halaman dokumen dihapus; 2. Sumber daya yang sama digabung menjadi satu objek; 3. Objek yang tidak terpakai dihapus.
 
 ```csharp
 public void OptimizeResources()
@@ -16,7 +16,7 @@ public void OptimizeResources()
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public void OptimizeResources()
 
 ## OptimizeResources(OptimizationOptions) {#optimizeresources_1}
 
-Optimalkan sumber daya dalam dokumen sesuai dengan strategi optimasi yang ditentukan.
+Optimalkan sumber daya dalam dokumen sesuai dengan strategi optimisasi yang ditentukan.
 
 ```csharp
 public void OptimizeResources(OptimizationOptions strategy)
@@ -32,11 +32,13 @@ public void OptimizeResources(OptimizationOptions strategy)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| strategy | OptimizationOptions | Strategi optimasi. |
+| strategi | OptimizationOptions | Strategi optimasi. |
 
 ### Lihat Juga
 
-* kelas [OptimizationOptions](../../../aspose.pdf.optimization/optimizationoptions/)
-* kelas [Document](../)
+* class [OptimizationOptions](../../../aspose.pdf.optimization/optimizationoptions/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

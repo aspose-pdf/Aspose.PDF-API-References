@@ -1,12 +1,12 @@
 ---
-title: Paragraphs.Paragraphs
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Paragraf. Konstruktor default
+title: "Paragraphs.Paragraphs"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Paragraphs. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/paragraphs/paragraphs/
 ---
-## Konstruktor Paragraf
+## Paragraphs constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public Paragraphs()
 
 ### Lihat Juga
 
-* kelas [Paragraf](../)
+* class [Paragraphs](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

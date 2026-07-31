@@ -1,14 +1,14 @@
 ---
-title: PageNumber.Index
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageNumber. Mengambil atau menetapkan komponen indeks halaman dari format nomor halaman. String yang diformat akan menyertakan placeholder untuk indeks halaman
+title: "PageNumber.Index"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PageNumber property. Mendapatkan atau mengatur komponen indeks halaman dalam format nomor halaman. String yang diformat akan menyertakan placeholder untuk indeks halaman."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/pagenumber/index/
 ---
-## Properti PageNumber.Index
+## PageNumber.Index property
 
-Mengambil atau menetapkan komponen indeks halaman dari format nomor halaman. String yang diformat akan menyertakan placeholder untuk indeks halaman.
+Mendapatkan atau mengatur komponen indeks halaman dari format nomor halaman. String yang diformat akan menyertakan placeholder untuk indeks halaman.
 
 ```csharp
 public PageIndex Index { get; set; }
@@ -16,7 +16,9 @@ public PageIndex Index { get; set; }
 
 ### Lihat Juga
 
-* kelas [PageIndex](../../pagenumber.pageindex/)
-* kelas [PageNumber](../)
+* class [PageIndex](../../pagenumber.pageindex/)
+* class [PageNumber](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

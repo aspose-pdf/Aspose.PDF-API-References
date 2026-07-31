@@ -1,12 +1,12 @@
 ---
-title: Heading.Top
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Heading. Mendapatkan Y atas dari heading ini
+title: "Heading.Top"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Heading. Mendapatkan nilai Y atas dari heading ini"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf/heading/top/
 ---
-## Properti Heading.Top
+## Heading.Top property
 
 Mendapatkan Y atas dari heading ini.
 
@@ -16,6 +16,8 @@ public double Top { get; set; }
 
 ### Lihat Juga
 
-* kelas [Heading](../)
+* class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

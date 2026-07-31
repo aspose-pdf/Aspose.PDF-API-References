@@ -1,14 +1,14 @@
 ---
-title: CurveTo2.Points
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CurveTo2. Titik-titik dari kurva
+title: "CurveTo2.Points"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CurveTo2. Titik-titik kurva"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.operators/curveto2/points/
 ---
-## Properti CurveTo2.Points
+## CurveTo2.Points property
 
-Titik-titik dari kurva.
+Titik-titik kurva.
 
 ```csharp
 public Point[] Points { get; }
@@ -16,7 +16,9 @@ public Point[] Points { get; }
 
 ### Lihat Juga
 
-* kelas [Point](../../../aspose.pdf/point/)
-* kelas [CurveTo2](../)
+* class [Point](../../../aspose.pdf/point/)
+* class [CurveTo2](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

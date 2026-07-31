@@ -1,14 +1,14 @@
 ---
-title: ToolCall.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ToolCall. Mendapatkan atau menetapkan ID dari panggilan alat
+title: "ToolCall.Id"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ToolCall. Mendapatkan atau mengatur ID dari panggilan alat"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/toolcall/id/
 ---
-## Properti ToolCall.Id
+## ToolCall.Id property
 
-Mendapatkan atau menetapkan ID dari panggilan alat.
+Mendapatkan atau mengatur ID pemanggilan alat.
 
 ```csharp
 public string Id { get; set; }
@@ -16,6 +16,8 @@ public string Id { get; set; }
 
 ### Lihat Juga
 
-* kelas [ToolCall](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ToolCall](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

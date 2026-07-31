@@ -1,14 +1,14 @@
 ---
-title: AnnotationCollection.IsReadOnly
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AnnotationCollection. Mendapatkan nilai yang menunjukkan apakah koleksi bersifat hanya-baca
+title: "AnnotationCollection.IsReadOnly"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "properti AnnotationCollection. Mendapatkan nilai yang menunjukkan apakah koleksi bersifat readonly"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/annotationcollection/isreadonly/
 ---
-## Properti AnnotationCollection.IsReadOnly
+## AnnotationCollection.IsReadOnly property
 
-Mendapatkan nilai yang menunjukkan apakah koleksi bersifat hanya-baca.
+Mendapatkan nilai yang menunjukkan apakah koleksi hanya-baca.
 
 ```csharp
 public bool IsReadOnly { get; }
@@ -16,6 +16,8 @@ public bool IsReadOnly { get; }
 
 ### Lihat Juga
 
-* kelas [AnnotationCollection](../)
+* class [AnnotationCollection](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SvgSaveOptions.CompressOutputToZipArchive
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang SvgSaveOptions. Menentukan apakah output akan dibuat sebagai satu ziparchive. Silakan merujuk komentar pada opsi 'TreatTargetFileNameAsDirectory' untuk melihat aturan penamaan file svg dari halaman untuk dokumen sumber multipage yang juga diterapkan pada set file output yang terkompresi.
+title: "SvgSaveOptions.CompressOutputToZipArchive"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang SvgSaveOptions. Menentukan apakah output akan dibuat sebagai satu arsip zip. Silakan lihat komentar pada opsi TreatTargetFileNameAsDirectory untuk melihat aturan penamaan file svg halaman untuk dokumen sumber multihalaman yang juga diterapkan pada set file output yang di-zip."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/svgsaveoptions/compressoutputtoziparchive/
 ---
-## Bidang SvgSaveOptions.CompressOutputToZipArchive
+## SvgSaveOptions.CompressOutputToZipArchive field
 
-Menentukan apakah output akan dibuat sebagai satu zip-archive. Silakan merujuk komentar pada opsi 'TreatTargetFileNameAsDirectory' untuk melihat aturan penamaan file svg dari halaman untuk dokumen sumber multipage, yang juga diterapkan pada set file output yang terkompresi.
+Menentukan apakah output akan dibuat sebagai satu arsip zip. Silakan lihat komentar pada opsi 'TreatTargetFileNameAsDirectory' untuk melihat aturan penamaan file svg halaman untuk dokumen sumber multihalaman, yang juga diterapkan pada kumpulan file output yang di-zip.
 
 ```csharp
 public bool CompressOutputToZipArchive;
@@ -16,6 +16,8 @@ public bool CompressOutputToZipArchive;
 
 ### Lihat Juga
 
-* kelas [SvgSaveOptions](../)
+* class [SvgSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

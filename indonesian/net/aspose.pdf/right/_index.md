@@ -1,12 +1,12 @@
 ---
-title: Class Right
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Right. Mewakili pengaturan perataan kanan untuk data header dan footer
+title: "Kelas Right"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Right. Mewakili pengaturan perataan kanan untuk data header dan footer."
 type: docs
-weight: 9810
+weight: 9960
 url: /id/net/aspose.pdf/right/
 ---
-## Kelas Kanan
+## Right class
 
 Mewakili pengaturan perataan kanan untuk data header dan footer.
 
@@ -29,6 +29,8 @@ public sealed class Right : HeaderFooterData
 
 ### Lihat Juga
 
-* kelas [HeaderFooterData](../headerfooterdata/)
-* ruang nama [Aspose.Pdf](../../aspose.pdf/)
+* class [HeaderFooterData](../headerfooterdata/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

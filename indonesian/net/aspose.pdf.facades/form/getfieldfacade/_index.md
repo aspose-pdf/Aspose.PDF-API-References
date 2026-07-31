@@ -1,14 +1,14 @@
 ---
-title: Form.GetFieldFacade
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Mengembalikan objek FrofmFieldFacade yang berisi semua atribut tampilan
+title: "Form.GetFieldFacade"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Mengembalikan objek FrofmFieldFacade yang berisi semua atribut tampilan"
 type: docs
 weight: 210
 url: /id/net/aspose.pdf.facades/form/getfieldfacade/
 ---
-## Metode Form.GetFieldFacade
+## Form.GetFieldFacade method
 
-Mengembalikan objek FrofmFieldFacade yang berisi semua atribut tampilan.
+Mengembalikan objek FrohmFieldFacade yang berisi semua atribut tampilan.
 
 ```csharp
 Aspose.Pdf.Facades.Form form = new Aspose.Pdf.Facades.Form("form.pdf");
@@ -22,15 +22,17 @@ public FormFieldFacade GetFieldFacade(string fieldName)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Nama field yang akan dibaca. |
+| fieldName | String | Nama bidang yang akan dibaca. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek FormFieldFacade
+objek FormFieldFacade
 
 ### Lihat Juga
 
-* kelas [FormFieldFacade](../../formfieldfacade/)
-* kelas [Form](../)
+* class [FormFieldFacade](../../formfieldfacade/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

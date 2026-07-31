@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ThreadMessageResponse. Mendapatkan atau menetapkan pengidentifikasi yang dapat dirujuk dalam endpoint API
+title: "ThreadMessageResponse.Id"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ThreadMessageResponse. Mendapatkan atau mengatur pengidentifikasi yang dapat direferensikan dalam endpoint API."
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.ai/threadmessageresponse/id/
 ---
-## Properti ThreadMessageResponse.Id
+## ThreadMessageResponse.Id property
 
-Mendapatkan atau menetapkan pengidentifikasi, yang dapat dirujuk dalam endpoint API.
+Mendapatkan atau mengatur pengidentifikasi, yang dapat direferensikan dalam endpoint API.
 
 ```csharp
 public string Id { get; set; }
@@ -16,6 +16,8 @@ public string Id { get; set; }
 
 ### Lihat Juga
 
-* kelas [ThreadMessageResponse](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ThreadMessageResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

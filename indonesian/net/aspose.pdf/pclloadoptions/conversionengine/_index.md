@@ -1,14 +1,14 @@
 ---
-title: PclLoadOptions.ConversionEngine
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PclLoadOptions. Menentukan mesin konversi yang akan digunakan untuk konversi
+title: "PclLoadOptions.ConversionEngine"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PclLoadOptions field. Menentukan mesin konversi yang akan digunakan untuk konversi"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/pclloadoptions/conversionengine/
 ---
-## Bidang PclLoadOptions.ConversionEngine
+## PclLoadOptions.ConversionEngine field
 
-Menentukan mesin konversi yang akan digunakan untuk konversi
+Mendefinisikan mesin konversi yang akan digunakan untuk konversi
 
 ```csharp
 public ConversionEngines ConversionEngine;
@@ -20,3 +20,5 @@ public ConversionEngines ConversionEngine;
 * class [PclLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

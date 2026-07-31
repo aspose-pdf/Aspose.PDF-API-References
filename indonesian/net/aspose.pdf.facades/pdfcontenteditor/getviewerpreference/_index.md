@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.GetViewerPreference
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Mengembalikan preferensi tampilan
+title: "PdfContentEditor.GetViewerPreference"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfContentEditor metode. Mengembalikan preferensi tampilan"
 type: docs
 weight: 390
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/getviewerpreference/
 ---
-## Metode PdfContentEditor.GetViewerPreference
+## PdfContentEditor.GetViewerPreference method
 
 Mengembalikan preferensi tampilan.
 
@@ -14,9 +14,9 @@ Mengembalikan preferensi tampilan.
 public int GetViewerPreference()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Mengembalikan sekumpulan bendera ViewerPrefernece
+Mengembalikan sekumpulan flag ViewerPrefernece
 
 ## Contoh
 
@@ -30,6 +30,8 @@ if ((prefValue & ViewerPreference.PageModeUseOutline) != 0)
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

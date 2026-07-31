@@ -1,14 +1,14 @@
 ---
-title: CreateChatCompletionChunkResponse.Id
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CreateChatCompletionChunkResponse. Mendapatkan atau mengatur pengidentifikasi unik untuk penyelesaian obrolan. Setiap chunk memiliki ID yang sama
+title: "CreateChatCompletionChunkResponse.Id"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CreateChatCompletionChunkResponse. Mendapatkan atau mengatur pengidentifikasi unik untuk penyelesaian obrolan. Setiap potongan memiliki ID yang sama"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.ai/createchatcompletionchunkresponse/id/
 ---
-## Properti CreateChatCompletionChunkResponse.Id
+## CreateChatCompletionChunkResponse.Id property
 
-Mendapatkan atau mengatur pengidentifikasi unik untuk penyelesaian obrolan. Setiap chunk memiliki ID yang sama.
+Mendapatkan atau mengatur pengidentifikasi unik untuk penyelesaian obrolan. Setiap potongan memiliki ID yang sama.
 
 ```csharp
 public string Id { get; set; }
@@ -16,6 +16,8 @@ public string Id { get; set; }
 
 ### Lihat Juga
 
-* kelas [CreateChatCompletionChunkResponse](../)
+* class [CreateChatCompletionChunkResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

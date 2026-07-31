@@ -1,14 +1,14 @@
 ---
-title: TextFragmentCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextFragmentCollection. Mendapatkan jumlah elemen objek TextFragment yang sebenarnya terdapat dalam koleksi
+title: "TextFragmentCollection.Count"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextFragmentCollection. Mendapatkan jumlah elemen objek TextFragment yang sebenarnya terdapat dalam koleksi"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.text/textfragmentcollection/count/
 ---
-## Properti TextFragmentCollection.Count
+## TextFragmentCollection.Count property
 
-Mendapatkan jumlah [`TextFragment`](../../textfragment/) elemen objek yang sebenarnya terdapat dalam koleksi.
+Mendapatkan jumlah elemen objek [`TextFragment`](../../textfragment/) yang sebenarnya terdapat dalam koleksi.
 
 ```csharp
 public int Count { get; }
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### Lihat Juga
 
-* kelas [TextFragmentCollection](../)
+* class [TextFragmentCollection](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

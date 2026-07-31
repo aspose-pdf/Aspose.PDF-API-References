@@ -1,12 +1,12 @@
 ---
-title: FileResponse.Bytes
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FileResponse. Mendapatkan atau mengatur ukuran file dalam byte
+title: "FileResponse.Bytes"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FileResponse. Mendapatkan atau mengatur ukuran file dalam byte"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/fileresponse/bytes/
 ---
-## Properti FileResponse.Bytes
+## FileResponse.Bytes property
 
 Mendapatkan atau mengatur ukuran file, dalam byte.
 
@@ -16,6 +16,8 @@ public int Bytes { get; set; }
 
 ### Lihat Juga
 
-* kelas [FileResponse](../)
+* class [FileResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

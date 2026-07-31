@@ -1,12 +1,12 @@
 ---
-title: TrimMarkAnnotation.TrimMarkAnnotation
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor TrimMarkAnnotation. Menginisialisasi instance baru dari kelas TrimMarkAnnotation
+title: "TrimMarkAnnotation.TrimMarkAnnotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor TrimMarkAnnotation. Menginisialisasi instance baru dari kelas TrimMarkAnnotation"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/trimmarkannotation/trimmarkannotation/
 ---
-## Konstruktor TrimMarkAnnotation
+## TrimMarkAnnotation constructor
 
 Menginisialisasi instance baru dari kelas [`TrimMarkAnnotation`](../).
 
@@ -16,8 +16,8 @@ public TrimMarkAnnotation(Page page, PrinterMarkCornerPosition position)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman tempat anotasi akan ditambahkan. |
-| position | PrinterMarkCornerPosition | Posisi tanda potong di halaman. |
+| halaman | Halaman | Halaman tempat anotasi akan ditambahkan. |
+| posisi | PrinterMarkCornerPosition | Posisi tanda pemotongan pada halaman. |
 
 ## Catatan
 
@@ -25,8 +25,10 @@ Konstruktor ini membuat TrimMarkAnnotation dan menambahkannya ke halaman yang di
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
+* class [Page](../../../aspose.pdf/page/)
 * enum [PrinterMarkCornerPosition](../../printermarkcornerposition/)
-* kelas [TrimMarkAnnotation](../)
+* class [TrimMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: InvalidValueFormatException.InvalidValueFormatException
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor InvalidValueFormatException. Menginisialisasi instance baru dari kelas InvalidValueFormatException
+title: "InvalidValueFormatException.InvalidValueFormatException"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor InvalidValueFormatException. Menginisialisasi instance baru dari kelas InvalidValueFormatException"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/invalidvalueformatexception/invalidvalueformatexception/
@@ -16,7 +16,7 @@ public InvalidValueFormatException()
 
 ### Lihat Juga
 
-* kelas [InvalidValueFormatException](../)
+* class [InvalidValueFormatException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,6 +36,8 @@ public InvalidValueFormatException(string message)
 
 ### Lihat Juga
 
-* kelas [InvalidValueFormatException](../)
+* class [InvalidValueFormatException](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

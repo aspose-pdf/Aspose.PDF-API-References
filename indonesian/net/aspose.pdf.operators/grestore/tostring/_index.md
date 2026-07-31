@@ -1,12 +1,12 @@
 ---
-title: GRestore.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode GRestore. Mengembalikan teks dari operator
+title: "GRestore.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode GRestore. Mengembalikan teks dari operator"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.operators/grestore/tostring/
 ---
-## Metode GRestore.ToString
+## GRestore.ToString method
 
 Mengembalikan teks dari operator.
 
@@ -14,12 +14,14 @@ Mengembalikan teks dari operator.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Representasi teks dari operator.
 
 ### Lihat Juga
 
-* kelas [GRestore](../)
+* class [GRestore](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

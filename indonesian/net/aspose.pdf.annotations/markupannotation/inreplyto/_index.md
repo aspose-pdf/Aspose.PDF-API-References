@@ -1,14 +1,14 @@
 ---
-title: MarkupAnnotation.InReplyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Properti MarkupAnnotation. Sebuah referensi ke anotasi yang dijawab oleh anotasi ini. Kedua anotasi harus berada di halaman yang sama dari dokumen
+title: "MarkupAnnotation.InReplyTo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "MarkupAnnotation properti. Referensi ke anotasi yang menjadi balasan dari anotasi ini. Kedua anotasi harus berada pada halaman yang sama dalam dokumen"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/markupannotation/inreplyto/
 ---
-## Properti MarkupAnnotation.InReplyTo
+## MarkupAnnotation.InReplyTo property
 
-Sebuah referensi ke anotasi yang "dijawab oleh" anotasi ini. Kedua anotasi harus berada di halaman yang sama dari dokumen.
+Referensi ke anotasi yang menjadi "balasan" untuk anotasi ini. Kedua anotasi harus berada pada page yang sama dalam Document.
 
 ```csharp
 public Annotation InReplyTo { get; set; }
@@ -16,7 +16,9 @@ public Annotation InReplyTo { get; set; }
 
 ### Lihat Juga
 
-* kelas [Annotation](../../annotation/)
-* kelas [MarkupAnnotation](../)
+* class [Annotation](../../annotation/)
+* class [MarkupAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

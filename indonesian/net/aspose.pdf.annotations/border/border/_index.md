@@ -1,12 +1,12 @@
 ---
-title: Border.Border
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Border. Konstruktor untuk objek border
+title: "Border.Border"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Border. Konstruktor untuk objek border"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/border/border/
 ---
-## Konstruktor Border
+## Border constructor
 
 Konstruktor untuk objek border.
 
@@ -16,11 +16,13 @@ public Border(Annotation parent)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| parent | Annotation | Anotasi induk. |
+| induk | Annotation | Anotasi induk. |
 
 ### Lihat Juga
 
-* kelas [Annotation](../../annotation/)
-* kelas [Border](../)
+* class [Annotation](../../annotation/)
+* class [Border](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: CreateFineTuningJobResponse.Status
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CreateFineTuningJobResponse. Mendapatkan atau mengatur status dari pekerjaan fine-tuning
+title: "CreateFineTuningJobResponse.Status"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CreateFineTuningJobResponse. Mendapatkan atau mengatur status pekerjaan penyetelan halus"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.ai/createfinetuningjobresponse/status/
 ---
-## Properti CreateFineTuningJobResponse.Status
+## CreateFineTuningJobResponse.Status property
 
-Mendapatkan atau mengatur status dari pekerjaan fine-tuning.
+Mendapatkan atau mengatur status pekerjaan fine-tuning.
 
 ```csharp
 public string Status { get; set; }
@@ -16,6 +16,8 @@ public string Status { get; set; }
 
 ### Lihat Juga
 
-* kelas [CreateFineTuningJobResponse](../)
+* class [CreateFineTuningJobResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

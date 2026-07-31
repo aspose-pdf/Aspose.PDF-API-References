@@ -1,14 +1,14 @@
 ---
-title: XForm.Subtype
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XForm. Mendapatkan Subtipe formulir
+title: "XForm.Subtype"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "XForm property. Mendapatkan form Subtype"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf/xform/subtype/
 ---
-## Properti XForm.Subtype
+## XForm.Subtype property
 
-Mendapatkan Subtipe formulir.
+Mendapatkan Subtype formulir.
 
 ```csharp
 public string Subtype { get; }
@@ -16,6 +16,8 @@ public string Subtype { get; }
 
 ### Lihat Juga
 
-* kelas [XForm](../)
+* class [XForm](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

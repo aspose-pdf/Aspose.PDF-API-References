@@ -1,7 +1,7 @@
 ---
-title: OpenAIChatCopilot.SaveResponseAsync
-second_title: Aspose.PDF for .NET API Reference
-description: OpenAIChatCopilot method.
+title: "OpenAIChatCopilot.SaveResponseAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAIChatCopilot."
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.ai/openaichatcopilot/saveresponseasync/
@@ -15,7 +15,7 @@ public Task SaveResponseAsync(string message, string outputFileName,
 
 ### Lihat Juga
 
-* kelas [OpenAIChatCopilot](../)
+* class [OpenAIChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -31,7 +31,7 @@ public Task SaveResponseAsync(string message, string outputFileName, SaveFormat 
 ### Lihat Juga
 
 * enum [SaveFormat](../../../aspose.pdf/saveformat/)
-* kelas [OpenAIChatCopilot](../)
+* class [OpenAIChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -46,7 +46,7 @@ public Task SaveResponseAsync(List<string> messages, string outputFileName,
 
 ### Lihat Juga
 
-* kelas [OpenAIChatCopilot](../)
+* class [OpenAIChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
 
@@ -62,6 +62,8 @@ public Task SaveResponseAsync(List<string> messages, string outputFileName, Save
 ### Lihat Juga
 
 * enum [SaveFormat](../../../aspose.pdf/saveformat/)
-* kelas [OpenAIChatCopilot](../)
+* class [OpenAIChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

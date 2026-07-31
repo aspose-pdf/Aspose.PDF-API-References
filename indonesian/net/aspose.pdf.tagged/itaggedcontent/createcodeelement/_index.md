@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateCodeElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ITaggedContent. Membuat CodeElement
+title: "ITaggedContent.CreateCodeElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ITaggedContent. Membuat CodeElement"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.tagged/itaggedcontent/createcodeelement/
 ---
-## Metode ITaggedContent.CreateCodeElement
+## ITaggedContent.CreateCodeElement method
 
 Membuat [`CodeElement`](../../../aspose.pdf.logicalstructure/codeelement/).
 
@@ -14,13 +14,15 @@ Membuat [`CodeElement`](../../../aspose.pdf.logicalstructure/codeelement/).
 public CodeElement CreateCodeElement()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Elemen struktur yang dibuat.
+Elemen struktur dibuat.
 
 ### Lihat Juga
 
-* kelas [CodeElement](../../../aspose.pdf.logicalstructure/codeelement/)
-* antarmuka [ITaggedContent](../)
-* ruang nama [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
-* kumpulan [Aspose.PDF](../../../)
+* class [CodeElement](../../../aspose.pdf.logicalstructure/codeelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* assembly [Aspose.PDF](../../../)
+
+

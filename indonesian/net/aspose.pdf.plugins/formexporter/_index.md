@@ -1,12 +1,12 @@
 ---
-title: Class FormExporter
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.FormExporter. Mewakili plugin FormExporter
+title: "Class FormExporter"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Plugins.FormExporter class. Mewakili plugin FormExporter."
 type: docs
-weight: 8670
+weight: 8800
 url: /id/net/aspose.pdf.plugins/formexporter/
 ---
-## Kelas FormExporter
+## FormExporter class
 
 Mewakili plugin FormExporter.
 
@@ -28,6 +28,8 @@ public sealed class FormExporter : IPlugin
 
 ### Lihat Juga
 
-* antarmuka [IPlugin](../iplugin/)
-* ruang nama [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

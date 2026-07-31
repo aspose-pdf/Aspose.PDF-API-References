@@ -1,14 +1,14 @@
 ---
-title: CreateFineTuningJobResponse.TrainingFile
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CreateFineTuningJobResponse. Mendapatkan atau mengatur ID dari file yang diunggah yang berisi data pelatihan
+title: "CreateFineTuningJobResponse.TrainingFile"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CreateFineTuningJobResponse. Mendapatkan atau mengatur ID file yang diunggah yang berisi data pelatihan"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.ai/createfinetuningjobresponse/trainingfile/
 ---
-## Properti CreateFineTuningJobResponse.TrainingFile
+## CreateFineTuningJobResponse.TrainingFile property
 
-Mendapatkan atau mengatur ID dari file yang diunggah yang berisi data pelatihan.
+Mendapatkan atau mengatur ID file yang diunggah yang berisi data pelatihan.
 
 ```csharp
 public string TrainingFile { get; set; }
@@ -16,6 +16,8 @@ public string TrainingFile { get; set; }
 
 ### Lihat Juga
 
-* kelas [CreateFineTuningJobResponse](../)
+* class [CreateFineTuningJobResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

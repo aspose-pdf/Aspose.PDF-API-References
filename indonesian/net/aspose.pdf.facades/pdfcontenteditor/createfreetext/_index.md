@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.CreateFreeText
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Membuat anotasi teks bebas dalam dokumen PDF
+title: "PdfContentEditor.CreateFreeText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfContentEditor. Membuat anotasi teks bebas dalam dokumen PDF"
 type: docs
 weight: 160
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/createfreetext/
 ---
-## Metode PdfContentEditor.CreateFreeText
+## PdfContentEditor.CreateFreeText method
 
 Membuat anotasi teks bebas dalam dokumen PDF
 
@@ -16,9 +16,9 @@ public void CreateFreeText(Rectangle rect, string contents, int page)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| rect | Rectangle | Persegi panjang anotasi yang menentukan lokasi anotasi di halaman. |
-| contents | String | Isi dari anotasi. |
-| page | Int32 | Nomor halaman asli tempat anotasi teks akan dibuat. |
+| rect | Rectangle | Persegi panjang anotasi yang menentukan lokasi anotasi pada halaman. |
+| isi | String | Isi anotasi. |
+| halaman | Int32 | Nomor halaman asli tempat anotasi teks akan dibuat. |
 
 ## Contoh
 
@@ -31,6 +31,8 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

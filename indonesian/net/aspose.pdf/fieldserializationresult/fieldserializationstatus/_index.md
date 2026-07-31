@@ -1,22 +1,22 @@
 ---
-title: FieldSerializationResult.FieldSerializationStatus
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FieldSerializationResult. Mendapatkan status serialisasi field formulir
+title: "FieldSerializationResult.FieldSerializationStatus"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FieldSerializationResult. Mendapatkan status serialisasi bidang formulir"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/fieldserializationresult/fieldserializationstatus/
 ---
-## Properti FieldSerializationResult.FieldSerializationStatus
+## FieldSerializationResult.FieldSerializationStatus property
 
-Mendapatkan status serialisasi field formulir.
+Mendapatkan status serialisasi bidang formulir.
 
 ```csharp
 public FieldSerializationStatus FieldSerializationStatus { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
-Status serialisasi dari field formulir.
+Status serialisasi bidang formulir.
 
 ### Lihat Juga
 
@@ -24,3 +24,5 @@ Status serialisasi dari field formulir.
 * class [FieldSerializationResult](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AttributeName.BorderStyle_Groove
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeName. Attribute BorderStyle Groove  Border terlihat seolah-olah diukir ke dalam kanvas
+title: "AttributeName.BorderStyle_Groove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang AttributeName. Atribut BorderStyle Groove  Garis batas tampak seolah-olah dipahat ke dalam kanvas"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.logicalstructure/attributename/borderstyle_groove/
 ---
-## Bidang AttributeName.BorderStyle_Groove
+## AttributeName.BorderStyle_Groove field
 
-Attribute BorderStyle: Groove - Border terlihat seolah-olah diukir ke dalam kanvas.
+Atribut BorderStyle: Groove - Garis batas tampak seolah-olah dipahat ke dalam kanvas.
 
 ```csharp
 public static readonly AttributeName BorderStyle_Groove;
@@ -16,6 +16,8 @@ public static readonly AttributeName BorderStyle_Groove;
 
 ### Lihat Juga
 
-* kelas [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

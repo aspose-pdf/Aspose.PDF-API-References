@@ -1,12 +1,12 @@
 ---
-title: XmpValue.IsStructure
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XmpValue. Mengembalikan true jika XmpValue mewakili struktur
+title: "XmpValue.IsStructure"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XmpValue. Mengembalikan true jika XmpValue mewakili struktur"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf/xmpvalue/isstructure/
 ---
-## Properti XmpValue.IsStructure
+## XmpValue.IsStructure property
 
 Mengembalikan true jika XmpValue mewakili struktur.
 
@@ -16,6 +16,8 @@ public bool IsStructure { get; }
 
 ### Lihat Juga
 
-* kelas [XmpValue](../)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

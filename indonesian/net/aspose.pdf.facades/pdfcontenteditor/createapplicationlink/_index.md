@@ -1,7 +1,7 @@
 ---
-title: PdfContentEditor.CreateApplicationLink
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Membuat tautan untuk meluncurkan aplikasi dalam dokumen PDF
+title: "PdfContentEditor.CreateApplicationLink"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfContentEditor method. Membuat tautan untuk meluncurkan aplikasi dalam dokumen PDF"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/createapplicationlink/
@@ -18,10 +18,10 @@ public void CreateApplicationLink(Rectangle rect, string application, int page, 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | rect | Rectangle | Persegi panjang untuk klik aktif. |
-| application | String | Jalur aplikasi yang akan diluncurkan. |
-| page | Int32 | Nomor halaman asli di mana persegi panjang yang terikat dengan tautan akan dibuat. |
+| aplikasi | String | Jalur aplikasi yang akan diluncurkan. |
+| halaman | Int32 | Nomor halaman asli tempat persegi panjang yang terikat dengan tautan akan dibuat. |
 | clr | Color | Warna persegi panjang untuk klik aktif. |
-| actionName | Enum[] | Array tindakan (anggota enum PredefinedAction) yang sesuai dengan menjalankan item menu di penampil Acrobat. |
+| actionName | Enum[] | Array tindakan (anggota enum PredefinedAction) yang sesuai dengan mengeksekusi item menu di penampil Acrobat. |
 
 ## Contoh
 
@@ -36,7 +36,7 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -53,8 +53,8 @@ public void CreateApplicationLink(Rectangle rect, string application, int page, 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | rect | Rectangle | Persegi panjang untuk klik aktif. |
-| application | String | Jalur aplikasi yang akan diluncurkan. |
-| page | Int32 | Nomor halaman asli di mana persegi panjang yang terikat dengan tautan akan dibuat. |
+| aplikasi | String | Jalur aplikasi yang akan diluncurkan. |
+| halaman | Int32 | Nomor halaman asli tempat persegi panjang yang terikat dengan tautan akan dibuat. |
 | clr | Color | Warna persegi panjang untuk klik aktif. |
 
 ## Contoh
@@ -69,7 +69,7 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -86,8 +86,8 @@ public void CreateApplicationLink(Rectangle rect, string application, int page)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | rect | Rectangle | Persegi panjang untuk klik aktif. |
-| application | String | Jalur aplikasi yang akan diluncurkan. |
-| page | Int32 | Nomor halaman asli di mana persegi panjang yang terikat dengan tautan akan dibuat. |
+| aplikasi | String | Jalur aplikasi yang akan diluncurkan. |
+| halaman | Int32 | Nomor halaman asli tempat persegi panjang yang terikat dengan tautan akan dibuat. |
 
 ## Contoh
 
@@ -100,6 +100,8 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

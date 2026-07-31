@@ -1,12 +1,12 @@
 ---
-title: XFormCollection.GetFormName
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XFormCollection. Mengembalikan nama formulir dalam koleksi formulir ini
+title: "XFormCollection.GetFormName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode XFormCollection. Mengembalikan nama formulir dalam koleksi formulir ini"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf/xformcollection/getformname/
 ---
-## Metode XFormCollection.GetFormName
+## XFormCollection.GetFormName method
 
 Mengembalikan nama formulir dalam koleksi formulir ini.
 
@@ -16,15 +16,17 @@ public string GetFormName(XForm form)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| form | XForm | Formulir yang namanya dicari. |
+| formulir | XForm | Formulir yang namanya dicari. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Nama formulir dalam koleksi; Null jika formulir tidak terdapat dalam koleksi.
 
 ### Lihat Juga
 
-* kelas [XForm](../../xform/)
-* kelas [XFormCollection](../)
+* class [XForm](../../xform/)
+* class [XFormCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

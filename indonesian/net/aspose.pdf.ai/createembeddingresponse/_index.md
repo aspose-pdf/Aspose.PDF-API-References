@@ -1,12 +1,12 @@
 ---
-title: Class CreateEmbeddingResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.CreateEmbeddingResponse. Mewakili respons dari endpoint Create Embeddings
+title: "Kelas CreateEmbeddingResponse"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.CreateEmbeddingResponse. Mewakili respons dari endpoint Create Embeddings."
 type: docs
-weight: 270
+weight: 280
 url: /id/net/aspose.pdf.ai/createembeddingresponse/
 ---
-## Kelas CreateEmbeddingResponse
+## CreateEmbeddingResponse class
 
 Mewakili respons dari endpoint Create Embeddings.
 
@@ -24,12 +24,14 @@ public class CreateEmbeddingResponse
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Data](../../aspose.pdf.ai/createembeddingresponse/data/) { get; set; } | Mendapatkan atau menetapkan daftar objek embedding. |
-| [Model](../../aspose.pdf.ai/createembeddingresponse/model/) { get; set; } | Mendapatkan atau menetapkan model yang digunakan untuk embedding. |
-| [Object](../../aspose.pdf.ai/createembeddingresponse/object/) { get; set; } | Mendapatkan atau menetapkan tipe objek, yang selalu berupa daftar. |
-| [Usage](../../aspose.pdf.ai/createembeddingresponse/usage/) { get; set; } | Mendapatkan atau menetapkan statistik penggunaan untuk permintaan embedding. |
+| [Data](../../aspose.pdf.ai/createembeddingresponse/data/) { get; set; } | Mendapatkan atau mengatur daftar objek embedding. |
+| [Model](../../aspose.pdf.ai/createembeddingresponse/model/) { get; set; } | Mendapatkan atau mengatur model yang digunakan untuk embedding. |
+| [Object](../../aspose.pdf.ai/createembeddingresponse/object/) { get; set; } | Mendapatkan atau mengatur tipe objek, yang selalu berupa list. |
+| [Usage](../../aspose.pdf.ai/createembeddingresponse/usage/) { get; set; } | Mendapatkan atau mengatur statistik penggunaan untuk permintaan embedding. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

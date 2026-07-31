@@ -1,14 +1,14 @@
 ---
-title: TableCellElement.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TableCellElement. Mengambil atau mengatur warna latar belakang sel
+title: "TableCellElement.BackgroundColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "TableCellElement properti. Mendapatkan atau mengatur warna latar belakang sel"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.logicalstructure/tablecellelement/backgroundcolor/
 ---
-## Properti TableCellElement.BackgroundColor
+## TableCellElement.BackgroundColor property
 
-Mengambil atau mengatur warna latar belakang sel.
+Mendapatkan atau mengatur warna latar belakang sel.
 
 ```csharp
 public Color BackgroundColor { get; set; }
@@ -16,7 +16,9 @@ public Color BackgroundColor { get; set; }
 
 ### Lihat Juga
 
-* kelas [Color](../../../aspose.pdf/color/)
-* kelas [TableCellElement](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [TableCellElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Opi.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Opi. Mendapatkan array delapan angka dari bentuk yang menentukan lokasi di halaman dari gambar yang dipotong
+title: "Opi.Position"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Opi. Mendapatkan array delapan angka dalam bentuk yang menentukan lokasi pada halaman gambar yang dipotong"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/opi/position/
 ---
-## Properti Opi.Position
+## Opi.Position property
 
-Mendapatkan array delapan angka dari bentuk yang menentukan lokasi di halaman dari gambar yang dipotong.
+Mendapatkan array berisi delapan angka dalam format yang menentukan lokasi pada halaman gambar yang dipotong.
 
 ```csharp
 public double[] Position { get; }
@@ -16,6 +16,8 @@ public double[] Position { get; }
 
 ### Lihat Juga
 
-* kelas [Opi](../)
+* class [Opi](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

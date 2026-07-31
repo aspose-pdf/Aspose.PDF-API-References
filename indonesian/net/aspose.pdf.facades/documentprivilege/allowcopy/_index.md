@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.AllowCopy
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DocumentPrivilege. Mengatur izin yang memungkinkan salinan atau tidak. true diizinkan dan false dilarang
+title: "DocumentPrivilege.AllowCopy"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti DocumentPrivilege. Menetapkan izin yang mengizinkan penyalinan atau tidak. true berarti mengizinkan dan false berarti dilarang"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.facades/documentprivilege/allowcopy/
 ---
-## Properti DocumentPrivilege.AllowCopy
+## DocumentPrivilege.AllowCopy property
 
-Mengatur izin yang memungkinkan salinan atau tidak. true diizinkan dan false dilarang.
+Mengatur izin yang mengizinkan penyalinan atau tidak. true berarti diizinkan dan false berarti dilarang.
 
 ```csharp
 public bool AllowCopy { get; set; }
@@ -16,6 +16,8 @@ public bool AllowCopy { get; set; }
 
 ### Lihat Juga
 
-* kelas [DocumentPrivilege](../)
+* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

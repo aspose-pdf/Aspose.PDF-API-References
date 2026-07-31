@@ -1,14 +1,14 @@
 ---
-title: CornerPrinterMarkAnnotation.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CornerPrinterMarkAnnotation. Mendapatkan atau mengatur posisi tanda di halaman
+title: "CornerPrinterMarkAnnotation.Position"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CornerPrinterMarkAnnotation. Mendapatkan atau mengatur posisi tanda pada halaman."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/cornerprintermarkannotation/position/
 ---
-## Properti CornerPrinterMarkAnnotation.Position
+## CornerPrinterMarkAnnotation.Position property
 
-Mendapatkan atau mengatur posisi tanda di halaman.
+Mendapatkan atau mengatur posisi tanda pada halaman.
 
 ```csharp
 public PrinterMarkCornerPosition Position { get; set; }
@@ -20,3 +20,5 @@ public PrinterMarkCornerPosition Position { get; set; }
 * class [CornerPrinterMarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

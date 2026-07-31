@@ -1,14 +1,14 @@
 ---
-title: Layer.Locked
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Layer. Mendapatkan nilai yang menunjukkan apakah layer terkunci
+title: "Layer.Locked"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Layer. Mendapatkan nilai yang menunjukkan apakah layer terkunci."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/layer/locked/
 ---
-## Properti Layer.Locked
+## Layer.Locked property
 
-Mendapatkan nilai yang menunjukkan apakah layer terkunci.
+Mendapatkan nilai yang menunjukkan apakah lapisan terkunci.
 
 ```csharp
 public bool Locked { get; }
@@ -16,6 +16,8 @@ public bool Locked { get; }
 
 ### Lihat Juga
 
-* kelas [Layer](../)
+* class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: TextFragmentAbsorber.RemoveAllText
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextFragmentAbsorber. Menghapus semua teks dari halaman yang ditentukan
+title: "TextFragmentAbsorber.RemoveAllText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TextFragmentAbsorber. Menghapus semua teks dari halaman yang ditentukan."
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.text/textfragmentabsorber/removealltext/
@@ -16,12 +16,12 @@ public void RemoveAllText(Page page)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Objek halaman dokumen PDF. |
+| halaman | Halaman | Objek halaman PDF document. |
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [TextFragmentAbsorber](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -29,7 +29,7 @@ public void RemoveAllText(Page page)
 
 ## RemoveAllText(Page, Rectangle) {#removealltext_2}
 
-Menghapus teks di dalam persegi panjang yang ditentukan dari halaman yang ditentukan.
+Menghapus teks di dalam Rectangle yang ditentukan dari halaman yang ditentukan.
 
 ```csharp
 public void RemoveAllText(Page page, Rectangle rect)
@@ -37,14 +37,14 @@ public void RemoveAllText(Page page, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Objek halaman dokumen PDF. |
+| halaman | Halaman | Objek halaman PDF document. |
 | rect | Rectangle | [`Rectangle`](../../../aspose.pdf/rectangle/) untuk menghapus teks di dalamnya. |
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [TextFragmentAbsorber](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -60,11 +60,13 @@ public void RemoveAllText(Document document)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| document | Document | Objek dokumen PDF. |
+| document | Document | Objek PDF document. |
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [TextFragmentAbsorber](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: Page.Accept
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Page. Menerima objek pengunjung TextFragmentAbsorber yang menyediakan fungsionalitas untuk bekerja dengan objek teks
+title: "Page.Accept"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Page. Menerima objek pengunjung TextFragmentAbsorber yang menyediakan fungsionalitas untuk bekerja dengan objek teks"
 type: docs
 weight: 330
 url: /id/net/aspose.pdf/page/accept/
@@ -20,8 +20,8 @@ public void Accept(TextFragmentAbsorber visitor)
 
 ### Lihat Juga
 
-* kelas [TextFragmentAbsorber](../../../aspose.pdf.text/textfragmentabsorber/)
-* kelas [Page](../)
+* class [TextFragmentAbsorber](../../../aspose.pdf.text/textfragmentabsorber/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -41,8 +41,8 @@ public void Accept(ImagePlacementAbsorber visitor)
 
 ### Lihat Juga
 
-* kelas [ImagePlacementAbsorber](../../imageplacementabsorber/)
-* kelas [Page](../)
+* class [ImagePlacementAbsorber](../../imageplacementabsorber/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -62,8 +62,8 @@ public void Accept(TextAbsorber visitor)
 
 ### Lihat Juga
 
-* kelas [TextAbsorber](../../../aspose.pdf.text/textabsorber/)
-* kelas [Page](../)
+* class [TextAbsorber](../../../aspose.pdf.text/textabsorber/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -71,7 +71,7 @@ public void Accept(TextAbsorber visitor)
 
 ## Accept(AnnotationSelector) {#accept}
 
-Menerima objek pengunjung [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) yang menyediakan fungsionalitas untuk bekerja dengan anotasi.
+Menerima objek pengunjung [`AnnotationSelector`](../../../aspose.pdf.annotations/annotationselector/) yang menyediakan fungsionalitas untuk bekerja dengan annotations.
 
 ```csharp
 public void Accept(AnnotationSelector visitor)
@@ -83,7 +83,9 @@ public void Accept(AnnotationSelector visitor)
 
 ### Lihat Juga
 
-* kelas [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
-* kelas [Page](../)
+* class [AnnotationSelector](../../../aspose.pdf.annotations/annotationselector/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

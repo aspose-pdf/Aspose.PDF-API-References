@@ -1,12 +1,12 @@
 ---
-title: Cell.Border
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Sel. Mendapatkan atau mengatur batas
+title: "Cell.Border"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Cell. Mendapatkan atau mengatur border"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/cell/border/
 ---
-## Properti Cell.Border
+## Cell.Border property
 
 Mendapatkan atau mengatur batas.
 
@@ -16,7 +16,9 @@ public BorderInfo Border { get; set; }
 
 ### Lihat Juga
 
-* kelas [BorderInfo](../../borderinfo/)
-* kelas [Cell](../)
+* class [BorderInfo](../../borderinfo/)
+* class [Cell](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

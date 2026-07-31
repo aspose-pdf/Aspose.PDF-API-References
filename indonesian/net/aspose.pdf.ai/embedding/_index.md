@@ -1,12 +1,12 @@
 ---
-title: Class Embedding
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.Embedding. Mewakili vektor embedding yang dikembalikan oleh endpoint embedding
+title: "Kelas Embedding"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.Embedding. Mewakili vektor embedding yang dikembalikan oleh endpoint embedding"
 type: docs
-weight: 330
+weight: 350
 url: /id/net/aspose.pdf.ai/embedding/
 ---
-## Kelas Embedding
+## Embedding class
 
 Mewakili vektor embedding yang dikembalikan oleh endpoint embedding.
 
@@ -32,3 +32,5 @@ public class Embedding
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: Color.Salmon
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FFFA8072
+title: "Color.Salmon"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB c FFFA8072"
 type: docs
 weight: 1190
 url: /id/net/aspose.pdf/color/salmon/
 ---
-## Properti Color.Salmon
+## Color.Salmon property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFFA8072.
+Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB \c \#FFFA8072.
 
 ```csharp
 public static Color Salmon { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah representasi warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

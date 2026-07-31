@@ -1,7 +1,7 @@
 ---
-title: SignOptions.SignOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor SignOptions. Menginisialisasi instance baru dari objek SignOptions dengan opsi default
+title: "SignOptions.SignOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "SignOptions constructor. Menginisialisasi instance baru dari objek SignOptions dengan opsi default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/signoptions/signoptions/
@@ -17,11 +17,11 @@ public SignOptions(string pfx, string password)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pfx | String | Jalur ke file pfx. |
-| password | String | Kata sandi untuk file pfx. |
+| kata sandi | String | Kata sandi untuk file pfx. |
 
 ### Lihat Juga
 
-* kelas [SignOptions](../)
+* class [SignOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
 
@@ -38,10 +38,12 @@ public SignOptions(Stream pfx, string password)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | pfx | Stream | Aliran dengan file pfx. |
-| password | String | Kata sandi untuk file pfx. |
+| kata sandi | String | Kata sandi untuk file pfx. |
 
 ### Lihat Juga
 
-* kelas [SignOptions](../)
+* class [SignOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

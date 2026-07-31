@@ -1,14 +1,14 @@
 ---
-title: DocumentInfo.Trapped
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DocumentInfo. Mendapatkan atau mengatur bendera terjebak
+title: "DocumentInfo.Trapped"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "DocumentInfo properti. Mendapatkan atau mengatur flag terperangkap"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf/documentinfo/trapped/
 ---
-## Properti DocumentInfo.Trapped
+## DocumentInfo.Trapped property
 
-Mendapatkan atau mengatur bendera terjebak.
+Mendapatkan atau mengatur flag terperangkap.
 
 ```csharp
 public string Trapped { get; set; }
@@ -16,6 +16,8 @@ public string Trapped { get; set; }
 
 ### Lihat Juga
 
-* kelas [DocumentInfo](../)
+* class [DocumentInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

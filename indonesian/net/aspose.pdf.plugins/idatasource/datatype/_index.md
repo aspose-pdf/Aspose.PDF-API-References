@@ -1,14 +1,14 @@
 ---
-title: IDataSource.DataType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti IDataSource. Tipe file atau aliran sumber data
+title: "IDataSource.DataType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti IDataSource. Tipe file atau aliran sumber data."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/idatasource/datatype/
 ---
-## Properti IDataSource.DataType
+## IDataSource.DataType property
 
-Tipe sumber data (file atau aliran).
+Jenis sumber data (file atau stream).
 
 ```csharp
 public DataType DataType { get; }
@@ -20,3 +20,5 @@ public DataType DataType { get; }
 * interface [IDataSource](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

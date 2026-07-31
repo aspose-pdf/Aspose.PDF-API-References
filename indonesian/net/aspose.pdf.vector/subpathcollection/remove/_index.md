@@ -1,7 +1,7 @@
 ---
-title: Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Menghapus elemen SubPath.
+title: "Hapus"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Menghapus elemen SubPath."
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.vector/subpathcollection/remove/
@@ -18,14 +18,14 @@ public bool Remove(SubPath item)
 | --- | --- | --- |
 | item | SubPath | Objek SubPath yang akan dihapus. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 True - jika elemen ditemukan; jika tidak, false.
 
 ### Lihat Juga
 
-* kelas [SubPath](../../subpath)
-* kelas [SubPathCollection](../../subpathcollection)
+* class [SubPath](../../subpath)
+* class [SubPathCollection](../../subpathcollection)
 * namespace [Aspose.Pdf.Vector](../../subpathcollection)
 * assembly [Aspose.PDF](../../../)
 

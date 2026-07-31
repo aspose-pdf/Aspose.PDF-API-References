@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.LRGLITTER
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PdfPageEditor. Glitter Kiri-Kanan
+title: "PdfPageEditor.LRGLITTER"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field PdfPageEditor. LeftRight Glitter"
 type: docs
 weight: 250
 url: /id/net/aspose.pdf.facades/pdfpageeditor/lrglitter/
 ---
-## Bidang PdfPageEditor.LRGLITTER
+## PdfPageEditor.LRGLITTER field
 
-Glitter Kiri-Kanan
+Kilau Kiri-Kanan
 
 ```csharp
 public const int LRGLITTER;
@@ -16,6 +16,8 @@ public const int LRGLITTER;
 
 ### Lihat Juga
 
-* kelas [PdfPageEditor](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

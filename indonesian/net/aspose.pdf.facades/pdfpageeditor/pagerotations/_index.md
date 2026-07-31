@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.PageRotations
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfPageEditor. Sebuah hashtable berisi nomor halaman dan derajat rotasi, kunci mewakili nomor halaman, nilai dari kunci mewakili rotasi dalam derajat
+title: "PdfPageEditor.PageRotations"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfPageEditor. Hashtable berisi nomor halaman dan derajat rotasi; kunci mewakili nomor halaman, nilai kunci mewakili rotasi dalam derajat."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.facades/pdfpageeditor/pagerotations/
 ---
-## Properti PdfPageEditor.PageRotations
+## PdfPageEditor.PageRotations property
 
-Sebuah hashtable berisi nomor halaman dan derajat rotasi, kunci mewakili nomor halaman, nilai dari kunci mewakili rotasi dalam derajat.
+Hashtable berisi nomor halaman dan derajat rotasi, kunci mewakili nomor halaman, nilai kunci mewakili rotasi dalam derajat.
 
 ```csharp
 public Dictionary<int, int> PageRotations { get; set; }
@@ -16,6 +16,8 @@ public Dictionary<int, int> PageRotations { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfPageEditor](../)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

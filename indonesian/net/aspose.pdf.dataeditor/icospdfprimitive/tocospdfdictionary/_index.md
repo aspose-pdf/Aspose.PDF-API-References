@@ -1,26 +1,28 @@
 ---
-title: ICosPdfPrimitive.ToCosPdfDictionary
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ICosPdfPrimitive. Mencoba mengonversi instance ini ke CosPdfDictionary
+title: "ICosPdfPrimitive.ToCosPdfDictionary"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ICosPdfPrimitive. Mencoba cast instance ini ke CosPdfDictionary"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.dataeditor/icospdfprimitive/tocospdfdictionary/
 ---
-## Metode ICosPdfPrimitive.ToCosPdfDictionary
+## ICosPdfPrimitive.ToCosPdfDictionary method
 
-Mencoba mengonversi instance ini ke [`CosPdfDictionary`](../../cospdfdictionary/).
+Mencoba cast instance ini ke [`CosPdfDictionary`](../../cospdfdictionary/).
 
 ```csharp
 public CosPdfDictionary ToCosPdfDictionary()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-null jika instance bukan [`CosPdfDictionary`](../../cospdfdictionary/) jika tidak [`CosPdfDictionary`](../../cospdfdictionary/).
+null jika instance bukan [`CosPdfDictionary`](../../cospdfdictionary/) atau [`CosPdfDictionary`](../../cospdfdictionary/).
 
 ### Lihat Juga
 
-* kelas [CosPdfDictionary](../../cospdfdictionary/)
-* antarmuka [ICosPdfPrimitive](../)
-* ruang nama [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* class [CosPdfDictionary](../../cospdfdictionary/)
+* interface [ICosPdfPrimitive](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

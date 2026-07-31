@@ -1,26 +1,28 @@
 ---
-title: DictionaryEditor.GetEnumerator
-second_title: Aspose.PDF for .NET API Reference
-description: Metode DictionaryEditor. Mengembalikan enumerator yang mengiterasi melalui koleksi
+title: "DictionaryEditor.GetEnumerator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "DictionaryEditor metode. Mengembalikan enumerator yang mengiterasi koleksi."
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.dataeditor/dictionaryeditor/getenumerator/
 ---
-## Metode DictionaryEditor.GetEnumerator
+## DictionaryEditor.GetEnumerator method
 
-Mengembalikan enumerator yang mengiterasi melalui koleksi.
+Mengembalikan enumerator yang mengiterasi koleksi.
 
 ```csharp
 public IEnumerator<KeyValuePair<string, ICosPdfPrimitive>> GetEnumerator()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah enumerator yang dapat digunakan untuk mengiterasi melalui koleksi.
+Enumerator yang dapat digunakan untuk mengiterasi koleksi.
 
 ### Lihat Juga
 
-* antarmuka [ICosPdfPrimitive](../../icospdfprimitive/)
-* kelas [DictionaryEditor](../)
-* ruang nama [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [DictionaryEditor](../)
+* namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

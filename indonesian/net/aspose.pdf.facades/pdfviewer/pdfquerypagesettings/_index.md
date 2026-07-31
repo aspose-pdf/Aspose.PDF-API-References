@@ -1,12 +1,12 @@
 ---
-title: PdfViewer.PdfQueryPageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Acara PdfViewer. Menambahkan/menghapus langganan pada acara pencetakan halaman terakhir
+title: "PdfViewer.PdfQueryPageSettings"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Peristiwa PdfViewer. Menambahkan/menghapus langganan pada peristiwa pencetakan halaman terakhir"
 type: docs
 weight: 230
 url: /id/net/aspose.pdf.facades/pdfviewer/pdfquerypagesettings/
 ---
-## Acara PdfViewer.PdfQueryPageSettings
+## PdfViewer.PdfQueryPageSettings event
 
 Menambahkan/menghapus langganan pada acara pencetakan halaman terakhir.
 
@@ -20,3 +20,5 @@ public event PdfQueryPageSettingsEventHandler PdfQueryPageSettings;
 * class [PdfViewer](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

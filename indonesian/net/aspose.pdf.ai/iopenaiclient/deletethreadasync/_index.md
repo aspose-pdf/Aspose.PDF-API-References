@@ -1,12 +1,12 @@
 ---
-title: IOpenAIClient.DeleteThreadAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IOpenAIClient. Menghapus thread yang ada secara asinkron
+title: "IOpenAIClient.DeleteThreadAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "IOpenAIClient metode. Menghapus thread yang ada secara asinkron"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.ai/iopenaiclient/deletethreadasync/
 ---
-## Metode IOpenAIClient.DeleteThreadAsync
+## IOpenAIClient.DeleteThreadAsync method
 
 Menghapus thread yang ada secara asinkron.
 
@@ -17,22 +17,24 @@ public Task<DeleteStatusResponse> DeleteThreadAsync(string threadId,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| threadId | String | ID dari thread yang akan dihapus. |
+| threadId | String | ID thread yang akan dihapus. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi status dari operasi penghapusan.
+Tugas yang mewakili operasi asinkron. Hasil tugas berisi status operasi penghapusan.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika thread Id adalah null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika ID thread bernilai null atau kosong. |
 
 ### Lihat Juga
 
-* kelas [DeleteStatusResponse](../../deletestatusresponse/)
-* antarmuka [IOpenAIClient](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [DeleteStatusResponse](../../deletestatusresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

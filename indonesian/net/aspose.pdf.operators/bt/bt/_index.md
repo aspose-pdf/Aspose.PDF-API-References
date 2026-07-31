@@ -1,12 +1,12 @@
 ---
-title: BT.BT
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor BT. Menginisialisasi operator
+title: "BT.BT"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor BT. Menginisialisasi operator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/bt/bt/
 ---
-## Konstruktor BT
+## BT constructor
 
 Menginisialisasi operator.
 
@@ -16,6 +16,8 @@ public BT()
 
 ### Lihat Juga
 
-* kelas [BT](../)
-* ruang nama [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
+* class [BT](../)
+* namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

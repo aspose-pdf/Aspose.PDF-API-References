@@ -1,14 +1,14 @@
 ---
-title: Enum CapStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Annotations.CapStyle. Gaya akhir garis anotasi Ink
+title: "Enum CapStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Annotations.CapStyle. Gaya akhir garis pada anotasi Ink"
 type: docs
-weight: 1540
+weight: 1630
 url: /id/net/aspose.pdf.annotations/capstyle/
 ---
-## Enumerasi CapStyle
+## CapStyle enumeration
 
-Gaya akhir garis anotasi Ink.
+Gaya akhir garis pada anotasi Ink.
 
 ```csharp
 public enum CapStyle
@@ -18,10 +18,12 @@ public enum CapStyle
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Persegi Panjang | `1` | Akhir berbentuk persegi panjang. |
-| Bulat | `2` | Akhir berbentuk bulat. |
+| Rectangular | `1` | Ujung berbentuk persegi panjang. |
+| Rounded | `2` | Ujung berbentuk bulat. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

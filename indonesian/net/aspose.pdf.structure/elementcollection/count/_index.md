@@ -1,12 +1,12 @@
 ---
-title: ElementCollection.Count
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ElementCollection. Jumlah elemen
+title: "ElementCollection.Count"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ElementCollection. Jumlah elemen"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.structure/elementcollection/count/
 ---
-## Properti ElementCollection.Count
+## ElementCollection.Count property
 
 Jumlah elemen.
 
@@ -16,6 +16,8 @@ public int Count { get; }
 
 ### Lihat Juga
 
-* kelas [ElementCollection](../)
+* class [ElementCollection](../)
 * namespace [Aspose.Pdf.Structure](../../../aspose.pdf.structure/)
 * assembly [Aspose.PDF](../../../)
+
+

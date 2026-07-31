@@ -1,12 +1,12 @@
 ---
-title: Form.MakeFormAnnotationsIndependent
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Membuat anotasi bidang formulir menjadi independen
+title: "Form.MakeFormAnnotationsIndependent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Membuat anotasi bidang formulir menjadi independen"
 type: docs
-weight: 300
+weight: 320
 url: /id/net/aspose.pdf.forms/form/makeformannotationsindependent/
 ---
-## Metode Form.MakeFormAnnotationsIndependent
+## Form.MakeFormAnnotationsIndependent method
 
 Membuat anotasi bidang formulir menjadi independen.
 
@@ -16,11 +16,13 @@ public void MakeFormAnnotationsIndependent(Page page)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Halaman | Halaman target. |
+| halaman | Halaman | Halaman target. |
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [Form](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

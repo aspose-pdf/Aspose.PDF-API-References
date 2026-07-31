@@ -1,14 +1,14 @@
 ---
-title: Artifact.SetText
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Artifact. Mengatur teks dari artefak
+title: "Artifact.SetText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Artifact. Mengatur teks artefak."
 type: docs
 weight: 320
 url: /id/net/aspose.pdf/artifact/settext/
 ---
-## Metode Artifact.SetText
+## Artifact.SetText method
 
-Mengatur teks dari artefak.
+Mengatur teks artefak.
 
 ```csharp
 public void SetText(FormattedText formattedText)
@@ -20,7 +20,9 @@ public void SetText(FormattedText formattedText)
 
 ### Lihat Juga
 
-* kelas [FormattedText](../../../aspose.pdf.facades/formattedtext/)
-* kelas [Artifact](../)
+* class [FormattedText](../../../aspose.pdf.facades/formattedtext/)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: PdfFileMend.AddImage
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileMend. Menambahkan gambar ke halaman tertentu dari dokumen PDF pada koordinat yang ditentukan
+title: "PdfFileMend.AddImage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileMend. Menambahkan gambar ke halaman PDF yang ditentukan pada koordinat yang ditentukan."
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.facades/pdffilemend/addimage/
@@ -19,14 +19,14 @@ public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lo
 | --- | --- | --- |
 | imageStream | Stream | Aliran gambar masukan. |
 | pageNum | Int32 | Nomor halaman yang akan menerima gambar. |
-| lowerLeftX | Single | X kiri bawah dari persegi panjang gambar. |
-| lowerLeftY | Single | Y kiri bawah dari persegi panjang gambar. |
-| upperRightX | Single | X kanan atas dari persegi panjang gambar. |
-| upperRightY | Single | Y kanan atas dari persegi panjang gambar. |
+| lowerLeftX | Single | Koordinat x kiri bawah dari persegi panjang gambar. |
+| lowerLeftY | Single | Koordinat y kiri bawah dari persegi panjang gambar. |
+| upperRightX | Single | Koordinat x kanan atas dari persegi panjang gambar. |
+| upperRightY | Single | Koordinat y kanan atas dari persegi panjang gambar. |
 
-### Return Value
+### Nilai Kembalian
 
-True jika berhasil, false jika tidak.
+Benar jika berhasil, salah jika tidak.
 
 ## Contoh
 
@@ -41,7 +41,7 @@ mendor.Close();
 
 ### Lihat Juga
 
-* kelas [PdfFileMend](../)
+* class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -60,15 +60,15 @@ public bool AddImage(Stream imageStream, int pageNum, float lowerLeftX, float lo
 | --- | --- | --- |
 | imageStream | Stream | Aliran gambar masukan. |
 | pageNum | Int32 | Nomor halaman yang akan menerima gambar. |
-| lowerLeftX | Single | X kiri bawah dari persegi panjang gambar. |
-| lowerLeftY | Single | Y kiri bawah dari persegi panjang gambar. |
-| upperRightX | Single | X kanan atas dari persegi panjang gambar. |
-| upperRightY | Single | Y kanan atas dari persegi panjang gambar. |
+| lowerLeftX | Single | Koordinat x kiri bawah dari persegi panjang gambar. |
+| lowerLeftY | Single | Koordinat y kiri bawah dari persegi panjang gambar. |
+| upperRightX | Single | Koordinat x kanan atas dari persegi panjang gambar. |
+| upperRightY | Single | Koordinat y kanan atas dari persegi panjang gambar. |
 | compositingParameters | CompositingParameters | Parameter komposit grafis untuk gambar. |
 
-### Return Value
+### Nilai Kembalian
 
-True jika berhasil, false jika tidak.
+Benar jika berhasil, salah jika tidak.
 
 ## Contoh
 
@@ -83,8 +83,8 @@ mendor.Close();
 
 ### Lihat Juga
 
-* kelas [CompositingParameters](../../../aspose.pdf/compositingparameters/)
-* kelas [PdfFileMend](../)
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -92,7 +92,7 @@ mendor.Close();
 
 ## AddImage(Stream, int[], float, float, float, float) {#addimage_2}
 
-Menambahkan gambar ke halaman tertentu dari dokumen PDF pada koordinat yang ditentukan.
+Menambahkan gambar ke halaman-halaman tertentu dari dokumen PDF pada koordinat yang ditentukan.
 
 ```csharp
 public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float lowerLeftY, 
@@ -102,15 +102,15 @@ public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | imageStream | Stream | Aliran gambar masukan. |
-| pageNums | Int32[] | Nomor halaman yang akan menerima gambar. |
-| lowerLeftX | Single | X kiri bawah dari persegi panjang gambar. |
-| lowerLeftY | Single | Y kiri bawah dari persegi panjang gambar. |
-| upperRightX | Single | X kanan atas dari persegi panjang gambar. |
-| upperRightY | Single | Y kanan atas dari persegi panjang gambar. |
+| pageNums | Int32[] | Jumlah halaman yang akan menerima gambar. |
+| lowerLeftX | Single | Koordinat x kiri bawah dari persegi panjang gambar. |
+| lowerLeftY | Single | Koordinat y kiri bawah dari persegi panjang gambar. |
+| upperRightX | Single | Koordinat x kanan atas dari persegi panjang gambar. |
+| upperRightY | Single | Koordinat y kanan atas dari persegi panjang gambar. |
 
-### Return Value
+### Nilai Kembalian
 
-True jika berhasil, false jika tidak.
+Benar jika berhasil, salah jika tidak.
 
 ## Contoh
 
@@ -125,7 +125,7 @@ mendor.Close();
 
 ### Lihat Juga
 
-* kelas [PdfFileMend](../)
+* class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -133,7 +133,7 @@ mendor.Close();
 
 ## AddImage(Stream, int[], float, float, float, float, CompositingParameters) {#addimage_3}
 
-Menambahkan gambar ke halaman tertentu dari dokumen PDF pada koordinat yang ditentukan.
+Menambahkan gambar ke halaman-halaman tertentu dari dokumen PDF pada koordinat yang ditentukan.
 
 ```csharp
 public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float lowerLeftY, 
@@ -143,16 +143,16 @@ public bool AddImage(Stream imageStream, int[] pageNums, float lowerLeftX, float
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | imageStream | Stream | Aliran gambar masukan. |
-| pageNums | Int32[] | Nomor halaman yang akan menerima gambar. |
-| lowerLeftX | Single | X kiri bawah dari persegi panjang gambar. |
-| lowerLeftY | Single | Y kiri bawah dari persegi panjang gambar. |
-| upperRightX | Single | X kanan atas dari persegi panjang gambar. |
-| upperRightY | Single | Y kanan atas dari persegi panjang gambar. |
-| compositingParameters | CompositingParameters | Parameter komposit grafis untuk gambar. |
+| pageNums | Int32[] | Jumlah halaman yang akan menerima gambar. |
+| lowerLeftX | Single | Koordinat x kiri bawah dari persegi panjang gambar. |
+| lowerLeftY | Single | Koordinat y kiri bawah dari persegi panjang gambar. |
+| upperRightX | Single | Koordinat x kanan atas dari persegi panjang gambar. |
+| upperRightY | Single | Koordinat y kanan atas dari persegi panjang gambar. |
+| compositingParameters | CompositingParameters | Parameter komposit grafis untuk gambar-gambar. |
 
-### Return Value
+### Nilai Kembalian
 
-True jika berhasil, false jika tidak.
+Benar jika berhasil, salah jika tidak.
 
 ## Contoh
 
@@ -167,8 +167,8 @@ mendor.Close();
 
 ### Lihat Juga
 
-* kelas [CompositingParameters](../../../aspose.pdf/compositingparameters/)
-* kelas [PdfFileMend](../)
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -187,14 +187,14 @@ public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowe
 | --- | --- | --- |
 | imageName | String | Jalur file gambar masukan. |
 | pageNum | Int32 | Nomor halaman yang akan menerima gambar. |
-| lowerLeftX | Single | X kiri bawah dari persegi panjang gambar. |
-| lowerLeftY | Single | Y kiri bawah dari persegi panjang gambar. |
-| upperRightX | Single | X kanan atas dari persegi panjang gambar. |
-| upperRightY | Single | Y kanan atas dari persegi panjang gambar. |
+| lowerLeftX | Single | Koordinat x kiri bawah dari persegi panjang gambar. |
+| lowerLeftY | Single | Koordinat y kiri bawah dari persegi panjang gambar. |
+| upperRightX | Single | Koordinat x kanan atas dari persegi panjang gambar. |
+| upperRightY | Single | Koordinat y kanan atas dari persegi panjang gambar. |
 
-### Return Value
+### Nilai Kembalian
 
-True jika berhasil, false jika tidak.
+Benar jika berhasil, salah jika tidak.
 
 ## Contoh
 
@@ -206,7 +206,7 @@ mendor.Close();
 
 ### Lihat Juga
 
-* kelas [PdfFileMend](../)
+* class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -225,15 +225,15 @@ public bool AddImage(string imageName, int pageNum, float lowerLeftX, float lowe
 | --- | --- | --- |
 | imageName | String | Jalur file gambar masukan. |
 | pageNum | Int32 | Nomor halaman yang akan menerima gambar. |
-| lowerLeftX | Single | X kiri bawah dari persegi panjang gambar. |
-| lowerLeftY | Single | Y kiri bawah dari persegi panjang gambar. |
-| upperRightX | Single | X kanan atas dari persegi panjang gambar. |
-| upperRightY | Single | Y kanan atas dari persegi panjang gambar. |
-| compositingParameters | CompositingParameters | Parameter komposit grafis untuk gambar. |
+| lowerLeftX | Single | Koordinat x kiri bawah dari persegi panjang gambar. |
+| lowerLeftY | Single | Koordinat y kiri bawah dari persegi panjang gambar. |
+| upperRightX | Single | Koordinat x kanan atas dari persegi panjang gambar. |
+| upperRightY | Single | Koordinat y kanan atas dari persegi panjang gambar. |
+| compositingParameters | CompositingParameters | Parameter komposit grafis untuk gambar-gambar. |
 
-### Return Value
+### Nilai Kembalian
 
-True jika berhasil, false jika tidak.
+Benar jika berhasil, salah jika tidak.
 
 ## Contoh
 
@@ -245,8 +245,8 @@ mendor.Close();
 
 ### Lihat Juga
 
-* kelas [CompositingParameters](../../../aspose.pdf/compositingparameters/)
-* kelas [PdfFileMend](../)
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -254,7 +254,7 @@ mendor.Close();
 
 ## AddImage(string, int[], float, float, float, float) {#addimage_6}
 
-Menambahkan gambar ke halaman tertentu dari dokumen PDF pada koordinat yang ditentukan.
+Menambahkan gambar ke halaman-halaman tertentu dari dokumen PDF pada koordinat yang ditentukan.
 
 ```csharp
 public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float lowerLeftY, 
@@ -264,15 +264,15 @@ public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float l
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | imageName | String | Jalur file gambar masukan. |
-| pageNums | Int32[] | Nomor halaman yang akan menerima gambar. |
-| lowerLeftX | Single | X kiri bawah dari persegi panjang gambar. |
-| lowerLeftY | Single | Y kiri bawah dari persegi panjang gambar. |
-| upperRightX | Single | X kanan atas dari persegi panjang gambar. |
-| upperRightY | Single | Y kanan atas dari persegi panjang gambar. |
+| pageNums | Int32[] | Jumlah halaman yang akan menerima gambar. |
+| lowerLeftX | Single | Koordinat x kiri bawah dari persegi panjang gambar. |
+| lowerLeftY | Single | Koordinat y kiri bawah dari persegi panjang gambar. |
+| upperRightX | Single | Koordinat x kanan atas dari persegi panjang gambar. |
+| upperRightY | Single | Koordinat y kanan atas dari persegi panjang gambar. |
 
-### Return Value
+### Nilai Kembalian
 
-True jika berhasil, false jika tidak.
+Benar jika berhasil, salah jika tidak.
 
 ## Contoh
 
@@ -284,7 +284,7 @@ mendor.Close();
 
 ### Lihat Juga
 
-* kelas [PdfFileMend](../)
+* class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -292,7 +292,7 @@ mendor.Close();
 
 ## AddImage(string, int[], float, float, float, float, CompositingParameters) {#addimage_7}
 
-Menambahkan gambar ke halaman tertentu dari dokumen PDF pada koordinat yang ditentukan.
+Menambahkan gambar ke halaman-halaman tertentu dari dokumen PDF pada koordinat yang ditentukan.
 
 ```csharp
 public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float lowerLeftY, 
@@ -302,16 +302,16 @@ public bool AddImage(string imageName, int[] pageNums, float lowerLeftX, float l
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | imageName | String | Jalur file gambar masukan. |
-| pageNums | Int32[] | Nomor halaman yang akan menerima gambar. |
-| lowerLeftX | Single | X kiri bawah dari persegi panjang gambar. |
-| lowerLeftY | Single | Y kiri bawah dari persegi panjang gambar. |
-| upperRightX | Single | X kanan atas dari persegi panjang gambar. |
-| upperRightY | Single | Y kanan atas dari persegi panjang gambar. |
-| compositingParameters | CompositingParameters | Parameter komposit grafis untuk gambar. |
+| pageNums | Int32[] | Jumlah halaman yang akan menerima gambar. |
+| lowerLeftX | Single | Koordinat x kiri bawah dari persegi panjang gambar. |
+| lowerLeftY | Single | Koordinat y kiri bawah dari persegi panjang gambar. |
+| upperRightX | Single | Koordinat x kanan atas dari persegi panjang gambar. |
+| upperRightY | Single | Koordinat y kanan atas dari persegi panjang gambar. |
+| compositingParameters | CompositingParameters | Parameter komposit grafis untuk gambar-gambar. |
 
-### Return Value
+### Nilai Kembalian
 
-True jika berhasil, false jika tidak.
+Benar jika berhasil, salah jika tidak.
 
 ## Contoh
 
@@ -323,7 +323,9 @@ mendor.Close();
 
 ### Lihat Juga
 
-* kelas [CompositingParameters](../../../aspose.pdf/compositingparameters/)
-* kelas [PdfFileMend](../)
+* class [CompositingParameters](../../../aspose.pdf/compositingparameters/)
+* class [PdfFileMend](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

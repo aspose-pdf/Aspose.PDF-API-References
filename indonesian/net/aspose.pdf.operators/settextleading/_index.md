@@ -1,14 +1,14 @@
 ---
-title: Class SetTextLeading
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.SetTextLeading. Kelas yang merepresentasikan operator TL untuk mengatur jarak teks
+title: "Kelas SetTextLeading"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Operators.SetTextLeading class. Kelas yang mewakili operator TL untuk mengatur leading teks"
 type: docs
-weight: 7820
+weight: 7960
 url: /id/net/aspose.pdf.operators/settextleading/
 ---
-## Kelas SetTextLeading
+## SetTextLeading class
 
-Kelas yang merepresentasikan operator TL (mengatur jarak teks).
+Kelas yang merepresentasikan operator TL (mengatur leading teks).
 
 ```csharp
 public class SetTextLeading : TextStateOperator
@@ -18,25 +18,27 @@ public class SetTextLeading : TextStateOperator
 
 | Nama | Deskripsi |
 | --- | --- |
-| [SetTextLeading](settextleading/)(double) | Menginisialisasi operator jarak teks. |
+| [SetTextLeading](settextleading/)(double) | Menginisialisasi operator leading teks. |
 
 ## Properti
 
 | Nama | Deskripsi |
 | --- | --- |
 | [Index](../../aspose.pdf/operator/index/) { get; set; } | Indeks operator dalam daftar operator halaman. |
-| [Leading](../../aspose.pdf.operators/settextleading/leading/) { get; set; } | Mendapatkan atau mengatur jarak teks. |
+| [Leading](../../aspose.pdf.operators/settextleading/leading/) { get; set; } | Mendapatkan atau mengatur leading teks. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/settextleading/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
+| override [Accept](../../aspose.pdf.operators/settextleading/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
 | override [ToString](../../aspose.pdf.operators/settextleading/tostring/)() | Menghasilkan kode teks dari operator. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [TextStateOperator](../textstateoperator/)
+* class [TextStateOperator](../textstateoperator/)
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.HtmlPageMarkupSavingInfo.ContentStream
-second_title: Aspose.PDF for .NET API Reference
-description: Field HtmlPageMarkupSavingInfo. Diatur oleh konverter. Mewakili HTML yang disimpan sebagai stream
+title: "HtmlSaveOptions.HtmlPageMarkupSavingInfo.ContentStream"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang HtmlPageMarkupSavingInfo. Diatur oleh konverter. Mewakili HTML yang disimpan sebagai aliran"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/htmlsaveoptions.htmlpagemarkupsavinginfo/contentstream/
 ---
-## Field HtmlSaveOptions.HtmlPageMarkupSavingInfo.ContentStream
+## HtmlSaveOptions.HtmlPageMarkupSavingInfo.ContentStream field
 
-Diatur oleh konverter. Mewakili HTML yang disimpan sebagai stream
+Ditentukan oleh konverter. Mewakili HTML yang disimpan sebagai aliran.
 
 ```csharp
 public Stream ContentStream;
@@ -19,3 +19,5 @@ public Stream ContentStream;
 * class [HtmlPageMarkupSavingInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

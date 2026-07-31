@@ -1,12 +1,12 @@
 ---
-title: CollectionSchema.HasName
-second_title: Aspose.PDF for .NET API Reference
-description: Metode CollectionSchema. Menentukan apakah nama yang ditentukan ada dalam skema
+title: "CollectionSchema.HasName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode CollectionSchema. Menentukan apakah nama yang ditentukan ada dalam skema"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/collectionschema/hasname/
 ---
-## Metode CollectionSchema.HasName
+## CollectionSchema.HasName method
 
 Menentukan apakah nama yang ditentukan ada dalam skema.
 
@@ -16,14 +16,16 @@ public bool HasName(string name)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| name | String | Nama yang akan diperiksa. |
+| nama | String | Nama yang akan diperiksa. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 `true` jika nama yang ditentukan ada dalam skema; jika tidak, `false`.
 
 ### Lihat Juga
 
-* kelas [CollectionSchema](../)
+* class [CollectionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

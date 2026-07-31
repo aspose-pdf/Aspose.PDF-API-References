@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateFormElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ITaggedContent. Membuat FormElement
+title: "ITaggedContent.CreateFormElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ITaggedContent. Membuat FormElement"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.tagged/itaggedcontent/createformelement/
 ---
-## Metode ITaggedContent.CreateFormElement
+## ITaggedContent.CreateFormElement method
 
 Membuat [`FormElement`](../../../aspose.pdf.logicalstructure/formelement/).
 
@@ -14,13 +14,15 @@ Membuat [`FormElement`](../../../aspose.pdf.logicalstructure/formelement/).
 public FormElement CreateFormElement()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Elemen struktur yang dibuat.
+Elemen struktur dibuat.
 
 ### Lihat Juga
 
-* kelas [FormElement](../../../aspose.pdf.logicalstructure/formelement/)
-* antarmuka [ITaggedContent](../)
-* ruang nama [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* class [FormElement](../../../aspose.pdf.logicalstructure/formelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

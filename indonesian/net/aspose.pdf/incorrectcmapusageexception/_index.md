@@ -1,12 +1,12 @@
 ---
-title: Class IncorrectCMapUsageException
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.IncorrectCMapUsageException. Pengecualian yang dilemparkan ketika penggunaan font tidak benar
+title: "Kelas IncorrectCMapUsageException"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.IncorrectCMapUsageException. Pengecualian yang dilemparkan ketika penggunaan font tidak benar"
 type: docs
-weight: 5960
+weight: 6090
 url: /id/net/aspose.pdf/incorrectcmapusageexception/
 ---
-## Kelas IncorrectCMapUsageException
+## IncorrectCMapUsageException class
 
 Pengecualian yang dilemparkan ketika penggunaan font tidak benar.
 
@@ -22,6 +22,8 @@ public sealed class IncorrectCMapUsageException : PdfException
 
 ### Lihat Juga
 
-* kelas [PdfException](../pdfexception/)
+* class [PdfException](../pdfexception/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

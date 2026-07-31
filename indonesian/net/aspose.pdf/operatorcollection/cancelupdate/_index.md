@@ -1,14 +1,14 @@
 ---
-title: OperatorCollection.CancelUpdate
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OperatorCollection. Membatalkan pembaruan terakhir. Metode ini dapat dipanggil ketika perubahan tidak seharusnya memicu pembaruan konten
+title: "OperatorCollection.CancelUpdate"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OperatorCollection metode. Membatalkan pembaruan terakhir. Metode ini dapat dipanggil ketika perubahan tidak boleh memicu pembaruan konten"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/operatorcollection/cancelupdate/
 ---
-## Metode OperatorCollection.CancelUpdate
+## OperatorCollection.CancelUpdate method
 
-Membatalkan pembaruan terakhir. Metode ini dapat dipanggil ketika perubahan tidak seharusnya memicu pembaruan konten.
+Membatalkan pembaruan terakhir. Metode ini dapat dipanggil ketika perubahan tidak boleh memicu pembaruan konten.
 
 ```csharp
 public override void CancelUpdate()
@@ -16,6 +16,8 @@ public override void CancelUpdate()
 
 ### Lihat Juga
 
-* kelas [OperatorCollection](../)
-* ruang nama [Aspose.Pdf](../../../aspose.pdf/)
+* class [OperatorCollection](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

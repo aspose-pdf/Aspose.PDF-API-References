@@ -1,14 +1,14 @@
 ---
-title: Artifact.SetValue
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Artifact. Mengatur nilai kustom dari artefak
+title: "Artifact.SetValue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Artifact. Menetapkan nilai khusus artefak"
 type: docs
 weight: 340
 url: /id/net/aspose.pdf/artifact/setvalue/
 ---
-## Metode Artifact.SetValue
+## Artifact.SetValue method
 
-Mengatur nilai kustom dari artefak.
+Mengatur nilai khusus artefak.
 
 ```csharp
 public void SetValue(string name, string value)
@@ -16,11 +16,13 @@ public void SetValue(string name, string value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| name | String | Nama dari nilai kustom. |
-| value | String | Nilai kustom dalam artefak. |
+| nama | String | Nama nilai khusus. |
+| nilai | String | Nilai khusus dalam artefak. |
 
 ### Lihat Juga
 
-* kelas [Artifact](../)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

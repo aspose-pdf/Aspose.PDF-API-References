@@ -1,12 +1,12 @@
 ---
-title: Annotation.Border
-second_title: Aspose.PDF for .NET API Reference
-description: Properti anotasi. Mendapatkan atau mengatur karakteristik batas anotasi. Batas
+title: "Annotation.Border"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Annotation. Mendapatkan atau mengatur karakteristik batas anotasi. Border"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.annotations/annotation/border/
 ---
-## Properti Annotation.Border
+## Annotation.Border property
 
 Mendapatkan atau mengatur karakteristik batas anotasi. `Border`
 
@@ -16,7 +16,9 @@ public Border Border { get; set; }
 
 ### Lihat Juga
 
-* kelas [Border](../../border/)
-* kelas [Annotation](../)
+* class [Border](../../border/)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PDF3DLightingScheme.Night
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PDF3DLightingScheme. Skema pencahayaan Malam
+title: "PDF3DLightingScheme.Night"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang PDF3DLightingScheme. Skema pencahayaan Night"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.annotations/pdf3dlightingscheme/night/
 ---
-## Bidang PDF3DLightingScheme.Night
+## PDF3DLightingScheme.Night field
 
-Skema pencahayaan "Malam".
+Skema pencahayaan "Night".
 
 ```csharp
 public static PDF3DLightingScheme Night;
@@ -16,6 +16,8 @@ public static PDF3DLightingScheme Night;
 
 ### Lihat Juga
 
-* kelas [PDF3DLightingScheme](../)
+* class [PDF3DLightingScheme](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

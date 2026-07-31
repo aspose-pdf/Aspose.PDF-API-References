@@ -1,7 +1,7 @@
 ---
-title: PdfExtractor.PdfExtractor
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PdfExtractor. Menginisialisasi objek PdfExtractor baru
+title: "PdfExtractor.PdfExtractor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PdfExtractor. Menginisialisasi objek PdfExtractor baru"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/pdfextractor/pdfextractor/
@@ -16,7 +16,7 @@ public PdfExtractor()
 
 ### Lihat Juga
 
-* kelas [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public PdfExtractor()
 
 ## PdfExtractor(Document) {#constructor_1}
 
-Menginisialisasi objek [`PdfExtractor`](../) baru berdasarkan *dokumen*.
+Menginisialisasi objek [`PdfExtractor`](../) baru berdasarkan *document*.
 
 ```csharp
 public PdfExtractor(Document document)
@@ -32,11 +32,13 @@ public PdfExtractor(Document document)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| dokumen | Dokumen | Dokumen Pdf. |
+| document | Document | Dokumen Pdf. |
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [PdfExtractor](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

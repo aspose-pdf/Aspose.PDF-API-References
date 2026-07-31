@@ -1,12 +1,12 @@
 ---
-title: Annotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti anotasi. Mendapatkan atau mengatur tipe anotasi
+title: "Annotation.AnnotationType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Annotation. Mendapatkan atau mengatur tipe anotasi"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/annotation/annotationtype/
 ---
-## Properti Annotation.AnnotationType
+## Annotation.AnnotationType property
 
 Mendapatkan atau mengatur tipe anotasi.
 
@@ -16,6 +16,8 @@ public string AnnotationType { get; set; }
 
 ### Lihat Juga
 
-* kelas [Annotation](../)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

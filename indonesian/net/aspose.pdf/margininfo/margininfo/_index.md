@@ -1,14 +1,14 @@
 ---
-title: MarginInfo.MarginInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor MarginInfo. Menginisialisasi instance baru dari kelas MarginInfo
+title: "MarginInfo.MarginInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "MarginInfo konstruktor. Menginisialisasi instance baru dari kelas MarginInfo"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/margininfo/margininfo/
 ---
 ## MarginInfo() {#constructor}
 
-Menginisialisasi instance baru dari kelas [`MarginInfo`](../).
+Menginisialisasi instance baru dari kelas [`MarginInfo`](../) class.
 
 ```csharp
 public MarginInfo()
@@ -16,7 +16,7 @@ public MarginInfo()
 
 ### Lihat Juga
 
-* kelas [MarginInfo](../)
+* class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,13 +32,15 @@ public MarginInfo(double left, double bottom, double right, double top)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| left | Double | Margin kiri. |
-| bottom | Double | Margin bawah |
-| right | Double | Margin kanan. |
-| top | Double | Margin atas. |
+| kiri | Double | Margin kiri. |
+| bawah | Double | Margin bawah |
+| kanan | Double | Margin kanan. |
+| atas | Double | Margin atas. |
 
 ### Lihat Juga
 
-* kelas [MarginInfo](../)
+* class [MarginInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

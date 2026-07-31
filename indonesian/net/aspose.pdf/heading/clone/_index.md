@@ -1,25 +1,27 @@
 ---
-title: Heading.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Heading. Kloning heading
+title: "Heading.Clone"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Heading. Mengkloning heading"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf/heading/clone/
 ---
-## Metode Heading.Clone
+## Heading.Clone method
 
-Kloning heading.
+Menggandakan heading.
 
 ```csharp
 public override object Clone()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek yang dikloning
+Objek yang digandakan
 
 ### Lihat Juga
 
-* kelas [Heading](../)
+* class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

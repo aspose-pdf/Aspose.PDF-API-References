@@ -1,12 +1,12 @@
 ---
-title: IQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IQueryParameters. Mendapatkan parameter kueri sebagai string
+title: "IQueryParameters.GetQueryParameters"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IQueryParameters. Mendapatkan parameter kueri sebagai string"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/iqueryparameters/getqueryparameters/
 ---
-## Metode IQueryParameters.GetQueryParameters
+## IQueryParameters.GetQueryParameters method
 
 Mendapatkan parameter kueri sebagai string.
 
@@ -14,12 +14,14 @@ Mendapatkan parameter kueri sebagai string.
 public string GetQueryParameters()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Parameter kueri sebagai string.
 
 ### Lihat Juga
 
-* antarmuka [IQueryParameters](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
-* kumpulan [Aspose.PDF](../../../)
+* interface [IQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* assembly [Aspose.PDF](../../../)
+
+

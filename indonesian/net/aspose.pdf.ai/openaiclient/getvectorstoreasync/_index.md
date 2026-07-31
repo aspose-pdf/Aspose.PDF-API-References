@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetVectorStoreAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIClient. Mengambil rincian dari penyimpanan vektor tertentu secara asinkron
+title: "OpenAIClient.GetVectorStoreAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAIClient. Mengambil detail vector store tertentu secara asinkron"
 type: docs
-weight: 330
+weight: 340
 url: /id/net/aspose.pdf.ai/openaiclient/getvectorstoreasync/
 ---
-## Metode OpenAIClient.GetVectorStoreAsync
+## OpenAIClient.GetVectorStoreAsync method
 
-Mengambil rincian dari penyimpanan vektor tertentu secara asinkron.
+Mengambil detail vector store tertentu secara asynchronous.
 
 ```csharp
 public Task<VectorStoreResponse> GetVectorStoreAsync(string vectorStoreId, 
@@ -17,22 +17,24 @@ public Task<VectorStoreResponse> GetVectorStoreAsync(string vectorStoreId,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| vectorStoreId | String | ID dari penyimpanan vektor yang akan diambil. |
+| vectorStoreId | String | ID vector store yang akan diambil. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi rincian dari penyimpanan vektor.
+Tugas yang mewakili operasi asinkron. Hasil tugas berisi detail vector store.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika ID penyimpanan vektor adalah null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika ID vector store null atau kosong. |
 
 ### Lihat Juga
 
-* kelas [VectorStoreResponse](../../vectorstoreresponse/)
-* kelas [OpenAIClient](../)
+* class [VectorStoreResponse](../../vectorstoreresponse/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

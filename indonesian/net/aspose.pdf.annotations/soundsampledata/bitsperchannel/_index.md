@@ -1,14 +1,14 @@
 ---
-title: SoundSampleData.BitsPerChannel
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SoundSampleData. Mengambil atau mengatur jumlah bit per nilai sampel per saluran
+title: "SoundSampleData.BitsPerChannel"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SoundSampleData. Mendapatkan atau mengatur jumlah bit per nilai sampel per kanal"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/soundsampledata/bitsperchannel/
 ---
-## Properti SoundSampleData.BitsPerChannel
+## SoundSampleData.BitsPerChannel property
 
-Mengambil atau mengatur jumlah bit per nilai sampel per saluran.
+Mendapatkan atau mengatur jumlah bit per nilai sampel per saluran.
 
 ```csharp
 public int BitsPerChannel { get; set; }
@@ -16,6 +16,8 @@ public int BitsPerChannel { get; set; }
 
 ### Lihat Juga
 
-* kelas [SoundSampleData](../)
-* ruang nama [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [SoundSampleData](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

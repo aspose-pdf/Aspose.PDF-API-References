@@ -1,14 +1,14 @@
 ---
-title: TextFragmentAbsorber.Phrase
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextFragmentAbsorber. Mendapatkan atau mengatur frasa yang dicari oleh TextFragmentAbsorber pada dokumen atau halaman PDF
+title: "TextFragmentAbsorber.Phrase"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextFragmentAbsorber. Mendapatkan atau mengatur frasa yang dicari oleh TextFragmentAbsorber pada document PDF atau page."
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.text/textfragmentabsorber/phrase/
 ---
-## Properti TextFragmentAbsorber.Phrase
+## TextFragmentAbsorber.Phrase property
 
-Mendapatkan atau mengatur frasa yang dicari oleh [`TextFragmentAbsorber`](../) pada dokumen atau halaman PDF.
+Mendapatkan atau mengatur frasa yang dicari oleh [`TextFragmentAbsorber`](../) pada document PDF atau page.
 
 ```csharp
 public string Phrase { get; set; }
@@ -19,27 +19,29 @@ public string Phrase { get; set; }
 Contoh ini menunjukkan cara melakukan pencarian teks beberapa kali dan melakukan penggantian teks.
 
 ```csharp
-// Open document
+// Buka dokumen
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello" text occurrences
+// Buat objek TextFragmentAbsorber untuk menemukan semua kemunculan teks "hello"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello");
 
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "Hi";
 
-// search another word and replace it
+// cari kata lain dan ganti
 absorber.Phrase = "world";
 
 doc.Pages[1].Accept(absorber);
 absorber.TextFragments[1].Text = "John";
 
-// Save document
+// Simpan dokumen
 doc.Save(@"D:\Tests\output.pdf");  
 ```
 
 ### Lihat Juga
 
-* kelas [TextFragmentAbsorber](../)
+* class [TextFragmentAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

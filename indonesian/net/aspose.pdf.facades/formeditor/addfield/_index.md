@@ -1,33 +1,33 @@
 ---
-title: FormEditor.AddField
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FormEditor. Tambahkan field dengan tipe yang ditentukan ke formulir
+title: "FormEditor.AddField"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode FormEditor. Menambahkan bidang dengan tipe yang ditentukan ke formulir"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.facades/formeditor/addfield/
 ---
 ## AddField(FieldType, string, int, float, float, float, float) {#addfield}
 
-Tambahkan field dengan tipe yang ditentukan ke formulir.
+Tambahkan bidang dengan tipe yang ditentukan ke formulir.
 
 ```csharp
 public bool AddField(FieldType fieldType, string fieldName, int pageNum, float llx, float lly, 
     float urx, float ury)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldType | FieldType | Tipe field yang harus ditambahkan. |
-| fieldName | String | Nama field yang harus ditambahkan. |
-| pageNum | Int32 | Nomor halaman tempat field baru harus ditempatkan. |
-| llx | Single | Abscissa dari sudut kiri bawah field. |
-| lly | Single | Ordinate dari sudut kiri bawah field. |
-| urx | Single | Abscissa dari sudut kanan atas field. |
-| ury | Single | Ordinate dari sudut kanan atas field. |
+| fieldType | FieldType | Tipe bidang yang harus ditambahkan. |
+| fieldName | String | Nama bidang yang harus ditambahkan. |
+| pageNum | Int32 | Nomor halaman tempat bidang baru harus ditempatkan. |
+| llx | Single | Absis sudut kiri bawah bidang. |
+| lly | Single | Ordinat sudut kiri bawah bidang. |
+| urx | Single | Absis sudut kanan atas bidang. |
+| ury | Single | Ordinat sudut kanan atas bidang. |
 
-### Return Value
+### Nilai Kembalian
 
-true jika field berhasil ditambahkan.
+true jika bidang berhasil ditambahkan.
 
 ## Contoh
 
@@ -48,27 +48,27 @@ formEditor.Save();
 
 ## AddField(FieldType, string, string, int, float, float, float, float) {#addfield_1}
 
-Tambahkan field dengan tipe yang ditentukan ke formulir.
+Tambahkan bidang dengan tipe yang ditentukan ke formulir.
 
 ```csharp
 public bool AddField(FieldType fieldType, string fieldName, string initValue, int pageNum, 
     float llx, float lly, float urx, float ury)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldType | FieldType | Tipe field yang harus ditambahkan. |
-| fieldName | String | Nama field yang harus ditambahkan. |
-| initValue | String | Nilai awal dari field. |
-| pageNum | Int32 | Nomor halaman tempat field baru harus ditempatkan. |
-| llx | Single | Abscissa dari sudut kiri bawah field. |
-| lly | Single | Ordinate dari sudut kiri bawah field. |
-| urx | Single | Abscissa dari sudut kanan atas field. |
-| ury | Single | Ordinate dari sudut kanan atas field. |
+| fieldType | FieldType | Tipe bidang yang harus ditambahkan. |
+| fieldName | String | Nama bidang yang harus ditambahkan. |
+| initValue | String | Nilai awal bidang. |
+| pageNum | Int32 | Nomor halaman tempat bidang baru harus ditempatkan. |
+| llx | Single | Absis sudut kiri bawah bidang. |
+| lly | Single | Ordinat sudut kiri bawah bidang. |
+| urx | Single | Absis sudut kanan atas bidang. |
+| ury | Single | Ordinat sudut kanan atas bidang. |
 
-### Return Value
+### Nilai Kembalian
 
-true jika field berhasil ditambahkan.
+true jika bidang berhasil ditambahkan.
 
 ## Contoh
 
@@ -86,3 +86,5 @@ formEditor.Save();
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TeXLoadOptions.JobName
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TeXLoadOptions. Mendapatkan/mengatur nama pekerjaan
+title: "TeXLoadOptions.JobName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TeXLoadOptions. Mendapatkan/mengatur nama pekerjaan"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/texloadoptions/jobname/
 ---
-## Properti TeXLoadOptions.JobName
+## TeXLoadOptions.JobName property
 
 Mendapatkan/mengatur nama pekerjaan.
 
@@ -16,6 +16,8 @@ public string JobName { get; set; }
 
 ### Lihat Juga
 
-* kelas [TeXLoadOptions](../)
+* class [TeXLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

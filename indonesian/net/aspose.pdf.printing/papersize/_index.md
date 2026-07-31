@@ -1,12 +1,12 @@
 ---
-title: Class PaperSize
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Printing.PaperSize. Menentukan ukuran selembar kertas
+title: "Kelas PaperSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Printing.PaperSize class. Menentukan ukuran selembar kertas"
 type: docs
-weight: 9570
+weight: 9720
 url: /id/net/aspose.pdf.printing/papersize/
 ---
-## Kelas PaperSize
+## PaperSize class
 
 Menentukan ukuran selembar kertas.
 
@@ -25,18 +25,20 @@ public class PaperSize
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Height](../../aspose.pdf.printing/papersize/height/) { get; set; } | Mengambil atau menetapkan tinggi kertas, dalam seratus inci. |
-| [Kind](../../aspose.pdf.printing/papersize/kind/) { get; } | Mengambil jenis kertas. |
-| [PaperName](../../aspose.pdf.printing/papersize/papername/) { get; set; } | Mengambil atau menetapkan nama jenis kertas. |
-| [Width](../../aspose.pdf.printing/papersize/width/) { get; set; } | Mengambil atau menetapkan lebar kertas, dalam seratus inci. |
+| [Height](../../aspose.pdf.printing/papersize/height/) { get; set; } | Mendapatkan atau mengatur tinggi kertas, dalam seratus bagian inci. |
+| [Kind](../../aspose.pdf.printing/papersize/kind/) { get; } | Mendapatkan jenis kertas. |
+| [PaperName](../../aspose.pdf.printing/papersize/papername/) { get; set; } | Mendapatkan atau mengatur nama jenis kertas. |
+| [Width](../../aspose.pdf.printing/papersize/width/) { get; set; } | Mendapatkan atau mengatur lebar kertas, dalam seratus bagian inci. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [ToString](../../aspose.pdf.printing/papersize/tostring/)() | Menyediakan beberapa informasi menarik tentang PaperSize dalam bentuk String. |
+| override [ToString](../../aspose.pdf.printing/papersize/tostring/)() | Memberikan beberapa informasi menarik tentang PaperSize dalam bentuk String. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

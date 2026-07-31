@@ -1,12 +1,12 @@
 ---
-title: Point.Distance
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Point. Menghitung jarak antara dua titik
+title: "Point.Distance"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Point. Menghitung jarak antara dua titik"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/point/distance/
 ---
-## Metode Point.Distance
+## Point.Distance method
 
 Menghitung jarak antara dua titik.
 
@@ -16,15 +16,17 @@ public static double Distance(Point point1, Point point2)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| point1 | Point | Titik pertama. |
-| point2 | Point | Titik kedua. |
+| point1 | Titik | Titik pertama. |
+| point2 | Titik | Titik kedua. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Jarak antara dua titik.
 
 ### Lihat Juga
 
-* kelas [Point](../)
+* class [Point](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

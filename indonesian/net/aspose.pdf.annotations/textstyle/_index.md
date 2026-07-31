@@ -1,14 +1,14 @@
 ---
-title: Class TextStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Annotations.TextStyle. Kelas ini mewakili gaya teks dalam anotasi
+title: "Class TextStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Annotations.TextStyle class. Kelas yang mewakili gaya teks dalam anotasi"
 type: docs
-weight: 2680
+weight: 2780
 url: /id/net/aspose.pdf.annotations/textstyle/
 ---
-## Kelas TextStyle
+## TextStyle class
 
-Kelas ini mewakili gaya teks dalam anotasi
+Kelas yang mewakili gaya teks dalam anotasi
 
 ```csharp
 public class TextStyle
@@ -21,7 +21,7 @@ public class TextStyle
 | [Color](../../aspose.pdf.annotations/textstyle/color/) { get; set; } | Warna teks. |
 | [FontName](../../aspose.pdf.annotations/textstyle/fontname/) { get; set; } | Nama font. |
 | [FontSize](../../aspose.pdf.annotations/textstyle/fontsize/) { get; set; } | Ukuran font. |
-| [HorizontalAlignment](../../aspose.pdf.annotations/textstyle/horizontalalignment/) { get; set; } | Penjajaran teks. Nilai yang valid adalah: Kiri, Tengah, Kanan. |
+| [HorizontalAlignment](../../aspose.pdf.annotations/textstyle/horizontalalignment/) { get; set; } | Perataan teks. Nilai yang valid adalah: Kiri, Tengah, Kanan. |
 
 ## Metode
 
@@ -33,3 +33,5 @@ public class TextStyle
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: PdfFileSignature.GetTotalRevision
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileSignature. Mendapatkan revisi total
+title: "PdfFileSignature.GetTotalRevision"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileSignature. Mendapatkan revisi total"
 type: docs
 weight: 240
 url: /id/net/aspose.pdf.facades/pdffilesignature/gettotalrevision/
 ---
-## Metode PdfFileSignature.GetTotalRevision
+## PdfFileSignature.GetTotalRevision method
 
-Mendapatkan revisi total.
+Mendapatkan total revisi.
 
 ```csharp
 public int GetTotalRevision()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Mengembalikan jumlah total revisi tanda tangan.
+Kembalikan total jumlah revisi tanda tangan.
 
 ### Lihat Juga
 
-* kelas [PdfFileSignature](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileSignature](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

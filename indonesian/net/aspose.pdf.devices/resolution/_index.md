@@ -1,12 +1,12 @@
 ---
-title: Class Resolution
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Devices.Resolution. Mewakili kelas untuk menyimpan resolusi gambar
+title: "Kelas Resolution"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Devices.Resolution. Mewakili kelas untuk menyimpan resolusi gambar"
 type: docs
-weight: 3660
+weight: 3780
 url: /id/net/aspose.pdf.devices/resolution/
 ---
-## Kelas Resolusi
+## Resolution class
 
 Mewakili kelas untuk menyimpan resolusi gambar.
 
@@ -32,3 +32,5 @@ public sealed class Resolution
 
 * namespace [Aspose.Pdf.Devices](../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../)
+
+

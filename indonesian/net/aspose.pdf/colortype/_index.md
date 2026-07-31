@@ -1,14 +1,14 @@
 ---
-title: Enum ColorType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.ColorType. Menentukan jenis warna elemen di halaman
+title: "Enum ColorType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.ColorType. Menentukan tipe warna elemen pada halaman"
 type: docs
-weight: 3100
+weight: 3210
 url: /id/net/aspose.pdf/colortype/
 ---
-## Enumerasi ColorType
+## ColorType enumeration
 
-Menentukan jenis warna elemen di halaman.
+Menentukan jenis warna elemen pada halaman.
 
 ```csharp
 public enum ColorType
@@ -18,12 +18,14 @@ public enum ColorType
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Rgb | `0` | Jenis warna RGB. |
-| Grayscale | `1` | Jenis warna Grayscale. |
-| BlackAndWhite | `2` | Jenis warna Hitam dan Putih. |
-| Undefined | `3` | Nilai jenis warna yang tidak terdefinisi. |
+| Rgb | `0` | Tipe warna RGB. |
+| Grayscale | `1` | Tipe warna Grayscale. |
+| BlackAndWhite | `2` | Tipe warna hitam putih. |
+| Undefined | `3` | Nilai tipe warna tidak terdefinisi. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Annotation.EndIndex
-second_title: Aspose.PDF for .NET API Reference
-description: Properti anotasi. Mendapatkan atau mengatur indeks akhir dari teks dalam konten pesan yang perlu diganti
+title: "Annotation.EndIndex"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Annotation. Mendapatkan atau mengatur indeks akhir teks dalam konten pesan yang perlu diganti"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/annotation/endindex/
 ---
-## Properti Annotation.EndIndex
+## Annotation.EndIndex property
 
 Mendapatkan atau mengatur indeks akhir dari teks dalam konten pesan yang perlu diganti.
 
@@ -16,6 +16,8 @@ public int EndIndex { get; set; }
 
 ### Lihat Juga
 
-* kelas [Annotation](../)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

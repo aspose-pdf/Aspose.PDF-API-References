@@ -1,12 +1,12 @@
 ---
-title: FormEditor.SetSubmitUrl
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FormEditor. Mengatur URL tombol
+title: "FormEditor.SetSubmitUrl"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode FormEditor. Mengatur URL tombol"
 type: docs
 weight: 340
 url: /id/net/aspose.pdf.facades/formeditor/setsubmiturl/
 ---
-## Metode FormEditor.SetSubmitUrl
+## FormEditor.SetSubmitUrl method
 
 Mengatur URL tombol.
 
@@ -17,9 +17,9 @@ public bool SetSubmitUrl(string fieldName, string url)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | fieldName | String | Nama tombol kirim. |
-| url | String | URL yang sepenuhnya memenuhi syarat. |
+| url | String | URL lengkap. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 true jika URL untuk tombol berhasil diatur.
 
@@ -32,6 +32,8 @@ formEditor.SetSubmitUrl("btnSubmit", "www.mysite.com");
 
 ### Lihat Juga
 
-* kelas [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

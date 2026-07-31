@@ -1,12 +1,12 @@
 ---
-title: TableBuilder.AddTable
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TableBuilder. Tambahkan tabel baru ke dokumen
+title: "TableBuilder.AddTable"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TableBuilder. Tambahkan tabel baru ke dokumen"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/tablebuilder/addtable/
 ---
-## Metode TableBuilder.AddTable
+## TableBuilder.AddTable method
 
 Tambahkan tabel baru ke dokumen.
 
@@ -14,12 +14,14 @@ Tambahkan tabel baru ke dokumen.
 public TableBuilder AddTable()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi dari [`TableBuilder`](../) saat ini.
 
 ### Lihat Juga
 
-* kelas [TableBuilder](../)
+* class [TableBuilder](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

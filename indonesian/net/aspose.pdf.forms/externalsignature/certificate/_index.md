@@ -1,12 +1,12 @@
 ---
-title: ExternalSignature.Certificate
-second_title: Aspose.PDF for .NET API Reference
-description: Field ExternalSignature. Sertifikat dengan kunci pribadi
+title: "ExternalSignature.Certificate"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field ExternalSignature. Sertifikat dengan kunci pribadi"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.forms/externalsignature/certificate/
 ---
-## Field ExternalSignature.Certificate
+## ExternalSignature.Certificate field
 
 Sertifikat dengan kunci pribadi.
 
@@ -19,3 +19,5 @@ public readonly X509Certificate2 Certificate;
 * class [ExternalSignature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

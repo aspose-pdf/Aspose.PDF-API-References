@@ -1,12 +1,12 @@
 ---
-title: OpenAIImageDescriptionCopilot.OpenAIImageDescriptionCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor OpenAIImageDescriptionCopilot. Menginisialisasi instance baru dari kelas OpenAIImageDescriptionCopilot
+title: "OpenAIImageDescriptionCopilot.OpenAIImageDescriptionCopilot"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor OpenAIImageDescriptionCopilot. Menginisialisasi instance baru dari kelas OpenAIImageDescriptionCopilot"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/openaiimagedescriptioncopilot/openaiimagedescriptioncopilot/
 ---
-## Konstruktor OpenAIImageDescriptionCopilot
+## OpenAIImageDescriptionCopilot constructor
 
 Menginisialisasi instance baru dari kelas [`OpenAIImageDescriptionCopilot`](../).
 
@@ -17,14 +17,16 @@ public OpenAIImageDescriptionCopilot(IOpenAIClient client,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| client | IOpenAIClient | Instance klien OpenAI. |
-| options | IImageDescriptionCopilotOptions`1 | Opsi OpenAI Image Description Copilot. |
+| client | IOpenAIClient | Instansi klien OpenAI. |
+| options | IImageDescriptionCopilotOptions`1 | Opsi Copilot Deskripsi Gambar OpenAI. |
 
 ### Lihat Juga
 
-* antarmuka [IOpenAIClient](../../iopenaiclient/)
-* antarmuka [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../../iimagedescriptioncopilotoptions-1/)
-* kelas [OpenAIImageDescriptionCopilotOptions](../../openaiimagedescriptioncopilotoptions/)
-* kelas [OpenAIImageDescriptionCopilot](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* interface [IOpenAIClient](../../iopenaiclient/)
+* interface [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../../iimagedescriptioncopilotoptions-1/)
+* class [OpenAIImageDescriptionCopilotOptions](../../openaiimagedescriptioncopilotoptions/)
+* class [OpenAIImageDescriptionCopilot](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.SplitToEnd
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileEditor. Memisahkan dari lokasi dan menyimpan bagian belakang sebagai file baru
+title: "PdfFileEditor.SplitToEnd"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileEditor. Membagi dari lokasi dan menyimpan bagian belakang sebagai file baru."
 type: docs
 weight: 360
 url: /id/net/aspose.pdf.facades/pdffileeditor/splittoend/
 ---
 ## SplitToEnd(string, int, string) {#splittoend_1}
 
-Memisahkan dari lokasi yang ditentukan, dan menyimpan bagian belakang sebagai file Stream baru.
+Membagi dari lokasi yang ditentukan, dan menyimpan bagian belakang sebagai Stream file baru.
 
 ```csharp
 public bool SplitToEnd(Stream inputStream, int location, Stream outputStream)
@@ -16,19 +16,19 @@ public bool SplitToEnd(Stream inputStream, int location, Stream outputStream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputStream | Stream | Stream file Pdf sumber. |
-| location | Int32 | Posisi pemisahan. |
-| outputStream | Stream | Stream file Pdf keluaran. |
+| inputStream | Stream | Aliran file Pdf sumber. |
+| lokasi | Int32 | Posisi pemisahan. |
+| outputStream | Stream | Aliran file Pdf keluaran. |
 
-### Return Value
+### Nilai Kembalian
 
-True untuk sukses, atau false.
+True untuk berhasil, atau false.
 
-## Remarks
+## Catatan
 
-Stream TIDAK ditutup setelah operasi ini kecuali CloseConcatedStreams ditentukan.
+Aliran TIDAK ditutup setelah operasi ini kecuali CloseConcatedStreams ditentukan.
 
-## Examples
+## Contoh
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -37,7 +37,7 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.SplitToEnd(sourceStream, 5, outStream);
 ```
 
-### See Also
+### Lihat Juga
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -47,7 +47,7 @@ pfe.SplitToEnd(sourceStream, 5, outStream);
 
 ## SplitToEnd(string, int, string) {#splittoend_2}
 
-Memisahkan dari lokasi, dan menyimpan bagian belakang sebagai file baru.
+Membagi dari lokasi, dan menyimpan bagian belakang sebagai file baru.
 
 ```csharp
 public bool SplitToEnd(string inputFile, int location, string outputFile)
@@ -56,21 +56,21 @@ public bool SplitToEnd(string inputFile, int location, string outputFile)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | inputFile | String | File Pdf sumber. |
-| location | Int32 | Posisi pemisahan. |
+| lokasi | Int32 | Posisi pemisahan. |
 | outputFile | String | Jalur file Pdf keluaran. |
 
-### Return Value
+### Nilai Kembalian
 
-True untuk sukses, atau false.
+True untuk berhasil, atau false.
 
-## Examples
+## Contoh
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
 pfe.SplitToEnd("input.pdf", 5, "out.pdf");
 ```
 
-### See Also
+### Lihat Juga
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -80,7 +80,7 @@ pfe.SplitToEnd("input.pdf", 5, "out.pdf");
 
 ## SplitToEnd(Stream, int, Stream) {#splittoend}
 
-Memisahkan dari lokasi yang ditentukan, dan menyimpan bagian belakang sebagai file Stream baru.
+Membagi dari lokasi yang ditentukan, dan menyimpan bagian belakang sebagai Stream file baru.
 
 ```csharp
 public bool SplitToEnd(Stream inputStream, int location, Stream outputStream)
@@ -88,19 +88,19 @@ public bool SplitToEnd(Stream inputStream, int location, Stream outputStream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputStream | Stream | Stream file Pdf sumber. |
-| location | Int32 | Posisi pemisahan. |
-| outputStream | Stream | Stream file Pdf keluaran. |
+| inputStream | Stream | Aliran file Pdf sumber. |
+| lokasi | Int32 | Posisi pemisahan. |
+| outputStream | Stream | Aliran file Pdf keluaran. |
 
-### Return Value
+### Nilai Kembalian
 
-True untuk sukses, atau false.
+True untuk berhasil, atau false.
 
-## Remarks
+## Catatan
 
-Stream TIDAK ditutup setelah operasi ini kecuali CloseConcatedStreams ditentukan.
+Aliran TIDAK ditutup setelah operasi ini kecuali CloseConcatedStreams ditentukan.
 
-## Examples
+## Contoh
 
 ```csharp
 PdfFileEditor pfe = new PdfFileEditor();
@@ -109,8 +109,10 @@ Stream outStream = new FileStream("out.pdf", FileMode.Create, FileAccess.Write);
 pfe.SplitToEnd(sourceStream, 5, outStream);
 ```
 
-### See Also
+### Lihat Juga
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

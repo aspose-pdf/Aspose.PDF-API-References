@@ -1,14 +1,14 @@
 ---
-title: Artifact.BeginUpdates
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Artifact. Mulai pembaruan yang ditunda. Gunakan fitur ini jika Anda perlu melakukan beberapa perubahan pada artefak yang sama untuk meningkatkan kinerja. Biasanya operator artefak diubah kapan saja ketika properti artefak diubah. Ini menyebabkan perubahan konten halaman setiap kali artefak diubah. Untuk menghindari efek ini, letakkan semua pembaruan artefak di antara panggilan StartUpdates/SaveUpdates. Ini memungkinkan untuk mengubah konten halaman hanya sekali.
+title: "Artifact.BeginUpdates"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Artifact. Memulai pembaruan tertunda. Gunakan fitur ini jika Anda perlu melakukan beberapa perubahan pada artefak yang sama untuk meningkatkan kinerja. Biasanya operator artefak berubah kapan saja ketika properti artefak diubah. Hal ini menyebabkan perubahan konten halaman setiap kali artefak diubah. Untuk menghindari efek ini, letakkan semua pembaruan artefak di antara panggilan StartUpdates/SaveUpdates. Ini memungkinkan mengubah konten halaman hanya sekali."
 type: docs
 weight: 230
 url: /id/net/aspose.pdf/artifact/beginupdates/
 ---
-## Metode Artifact.BeginUpdates
+## Artifact.BeginUpdates method
 
-Mulai pembaruan yang ditunda. Gunakan fitur ini jika Anda perlu melakukan beberapa perubahan pada artefak yang sama untuk meningkatkan kinerja. Biasanya operator artefak diubah kapan saja ketika properti artefak diubah. Ini menyebabkan perubahan konten halaman setiap kali artefak diubah. Untuk menghindari efek ini, letakkan semua pembaruan artefak di antara panggilan StartUpdates/SaveUpdates. Ini memungkinkan untuk mengubah konten halaman hanya sekali.
+Mulai pembaruan tertunda. Gunakan fitur ini jika Anda perlu melakukan beberapa perubahan pada artefak yang sama untuk meningkatkan kinerja. Biasanya operator artefak diubah kapan saja ketika properti artefak diubah. Hal ini menyebabkan perubahan isi halaman setiap kali artefak diubah. Untuk menghindari efek ini, letakkan semua pembaruan artefak di antara panggilan StartUpdates/SaveUpdates. Ini memungkinkan mengubah isi halaman hanya sekali.
 
 ```csharp
 public void BeginUpdates()
@@ -27,6 +27,8 @@ art.SaveUpdates();
 
 ### Lihat Juga
 
-* kelas [Artifact](../)
+* class [Artifact](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

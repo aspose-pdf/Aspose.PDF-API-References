@@ -1,14 +1,14 @@
 ---
-title: Enum PdfFormatConversionOptions.SegmentAlignStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.PdfFormatConversionOptionsSegmentAlignStrategy. Menjelaskan strategi yang digunakan untuk menyelaraskan segmen teks dokumen. Saat ini hanya strategi untuk mengembalikan segmen ke batas aslinya yang didukung. Di masa depan, strategi lain dapat ditambahkan.
+title: "Enum PdfFormatConversionOptions.SegmentAlignStrategy"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.PdfFormatConversionOptionsSegmentAlignStrategy enum. Menjelaskan strategi yang digunakan untuk menyelaraskan segmen teks dokumen. Saat ini hanya strategi untuk mengembalikan segmen ke batas asli yang didukung. Di masa depan strategi lain dapat ditambahkan."
 type: docs
-weight: 8410
+weight: 8550
 url: /id/net/aspose.pdf/pdfformatconversionoptions.segmentalignstrategy/
 ---
-## Enumerasi PdfFormatConversionOptions.SegmentAlignStrategy
+## PdfFormatConversionOptions.SegmentAlignStrategy enumeration
 
-Menjelaskan strategi yang digunakan untuk menyelaraskan segmen teks dokumen. Saat ini hanya strategi untuk mengembalikan segmen ke batas aslinya yang didukung. Di masa depan, strategi lain dapat ditambahkan.
+Menjelaskan strategi yang digunakan untuk menyelaraskan segmen teks dokumen. Saat ini hanya strategi untuk mengembalikan segmen ke batas asli yang didukung. Di masa depan strategi lain dapat ditambahkan.
 
 ```csharp
 public enum SegmentAlignStrategy : byte
@@ -19,10 +19,12 @@ public enum SegmentAlignStrategy : byte
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | None | `0` | Tidak ada. |
-| RestoreSegmentBounds | `1` | Mengembalikan batas segmen. |
+| RestoreSegmentBounds | `1` | Kembalikan batas segmen. |
 
 ### Lihat Juga
 
-* kelas [PdfFormatConversionOptions](../pdfformatconversionoptions/)
+* class [PdfFormatConversionOptions](../pdfformatconversionoptions/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

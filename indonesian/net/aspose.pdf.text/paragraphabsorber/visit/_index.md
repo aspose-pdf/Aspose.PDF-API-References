@@ -1,7 +1,7 @@
 ---
-title: ParagraphAbsorber.Visit
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ParagraphAbsorber. Melakukan pencarian untuk bagian dan paragraf pada Dokumen yang ditentukan
+title: "ParagraphAbsorber.Visit"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ParagraphAbsorber. Melakukan pencarian untuk bagian dan paragraf pada Document yang ditentukan"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.text/paragraphabsorber/visit/
@@ -14,14 +14,14 @@ Melakukan pencarian untuk bagian dan paragraf pada [`Document`](../../../aspose.
 public void Visit(Document doc)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | doc | Document | Objek dokumen Pdf. |
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [ParagraphAbsorber](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -35,13 +35,15 @@ Melakukan pencarian pada [`Page`](../../../aspose.pdf/page/) yang ditentukan.
 public void Visit(Page page)
 ```
 
-| Parameter | Type | Deskripsi |
+| Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Objek halaman dokumen Pdf. |
+| halaman | Halaman | Objek halaman dokumen Pdf. |
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [ParagraphAbsorber](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

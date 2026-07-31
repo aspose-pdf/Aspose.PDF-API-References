@@ -1,12 +1,12 @@
 ---
-title: WidgetAnnotation.Parent
-second_title: Aspose.PDF for .NET API Reference
-description: Properti WidgetAnnotation. Mendapatkan induk anotasi
+title: "WidgetAnnotation.Parent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti WidgetAnnotation. Mendapatkan induk anotasi"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.annotations/widgetannotation/parent/
 ---
-## Properti WidgetAnnotation.Parent
+## WidgetAnnotation.Parent property
 
 Mendapatkan induk anotasi.
 
@@ -16,7 +16,9 @@ public Field Parent { get; }
 
 ### Lihat Juga
 
-* kelas [Field](../../../aspose.pdf.forms/field/)
-* kelas [WidgetAnnotation](../)
+* class [Field](../../../aspose.pdf.forms/field/)
+* class [WidgetAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TextBoxField.TextVerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextBoxField. Mendapatkan atau mengatur perataan vertikal teks untuk anotasi
+title: "TextBoxField.TextVerticalAlignment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "TextBoxField properti. Mendapatkan atau mengatur perataan vertikal teks untuk anotasi"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.forms/textboxfield/textverticalalignment/
 ---
-## Properti TextBoxField.TextVerticalAlignment
+## TextBoxField.TextVerticalAlignment property
 
 Mendapatkan atau mengatur perataan vertikal teks untuk anotasi.
 
@@ -20,3 +20,5 @@ public VerticalAlignment TextVerticalAlignment { get; set; }
 * class [TextBoxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: ParagraphAbsorber.ParagraphAbsorber
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor ParagraphAbsorber. Menginisialisasi instance baru dari ParagraphAbsorber yang melakukan pencarian untuk bagian/paragraf dari dokumen atau halaman
+title: "ParagraphAbsorber.ParagraphAbsorber"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor ParagraphAbsorber. Menginisialisasi instance baru dari ParagraphAbsorber yang melakukan pencarian untuk bagian/paragraf dari dokumen atau halaman."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.text/paragraphabsorber/paragraphabsorber/
@@ -16,7 +16,7 @@ public ParagraphAbsorber()
 
 ### Lihat Juga
 
-* kelas [ParagraphAbsorber](../)
+* class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,11 +36,11 @@ public ParagraphAbsorber(int sectionsSearchDepth)
 
 ## Catatan
 
-Lihat properti [`SectionsSearchDepth`](../sectionssearchdepth/) untuk lebih banyak petunjuk tentang parameter tersebut.
+Lihat properti [`SectionsSearchDepth`](../sectionssearchdepth/) untuk petunjuk lebih lanjut tentang parameter tersebut.
 
 ### Lihat Juga
 
-* kelas [ParagraphAbsorber](../)
+* class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -56,12 +56,12 @@ public ParagraphAbsorber(ParagraphAbsorberOptions paragraphAbsorberOptions)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| paragraphAbsorberOptions | ParagraphAbsorberOptions | Opsi ParagraphAbsorber. |
+| paragraphAbsorberOptions | ParagraphAbsorberOptions | ParagraphAbsorberOptions. |
 
 ### Lihat Juga
 
-* kelas [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
-* kelas [ParagraphAbsorber](../)
+* class [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
+* class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -78,11 +78,13 @@ public ParagraphAbsorber(int sectionsSearchDepth, ParagraphAbsorberOptions parag
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | sectionsSearchDepth | Int32 | Jumlah pencarian berurutan untuk elemen struktur yang lebih halus yang akan dilakukan. |
-| paragraphAbsorberOptions | ParagraphAbsorberOptions | Opsi ParagraphAbsorber. |
+| paragraphAbsorberOptions | ParagraphAbsorberOptions | ParagraphAbsorberOptions. |
 
 ### Lihat Juga
 
-* kelas [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
-* kelas [ParagraphAbsorber](../)
+* class [ParagraphAbsorberOptions](../../paragraphabsorberoptions/)
+* class [ParagraphAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

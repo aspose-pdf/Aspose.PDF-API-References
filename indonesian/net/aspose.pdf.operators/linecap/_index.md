@@ -1,14 +1,14 @@
 ---
-title: Enum LineCap
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.Operators.LineCap enum. Gaya penutup garis harus menentukan bentuk yang akan digunakan di ujung subpath terbuka dan garis putus-putus jika ada saat mereka digambar.
+title: "Enum LineCap"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Operators.LineCap enum. Gaya penutup garis harus menentukan bentuk yang akan digunakan pada ujung subjalur terbuka dan dash jika ada ketika digores."
 type: docs
-weight: 7440
+weight: 7580
 url: /id/net/aspose.pdf.operators/linecap/
 ---
-## Enumerasi LineCap
+## LineCap enumeration
 
-Gaya penutup garis harus menentukan bentuk yang akan digunakan di ujung subpath terbuka (dan garis putus-putus, jika ada) saat mereka digambar.
+Gaya penutup garis harus menentukan bentuk yang akan digunakan pada ujung subpath terbuka (dan dash, jika ada) saat mereka digambar.
 
 ```csharp
 public enum LineCap
@@ -18,11 +18,13 @@ public enum LineCap
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| ButtCap | `0` | Penutup datar. Garis akan dipotong rata di ujung jalur. Tidak ada proyeksi di luar ujung jalur. |
-| RoundCap | `1` | Penutup bulat. Busur setengah lingkaran dengan diameter sama dengan lebar garis akan digambar di sekitar ujung dan akan diisi. |
-| SquareCap | `2` | Penutup persegi yang menonjol. Garis akan berlanjut melewati ujung jalur sejauh setengah lebar garis dan akan dipotong rata. |
+| ButtCap | `0` | Butt cap. Garis gores harus dipotong lurus pada titik akhir jalur. Tidak ada proyeksi di luar akhir jalur. |
+| RoundCap | `1` | Round cap. Sebuah busur setengah lingkaran dengan diameter sama dengan lebar garis harus digambar di sekitar titik akhir dan diisi. |
+| SquareCap | `2` | Projecting square cap. Garis gores harus berlanjut melewati titik akhir jalur sejauh setengah lebar garis dan dipotong lurus. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

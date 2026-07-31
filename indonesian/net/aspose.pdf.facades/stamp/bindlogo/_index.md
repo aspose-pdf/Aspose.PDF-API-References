@@ -1,14 +1,14 @@
 ---
-title: Stamp.BindLogo
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Stamp. Mengatur teks sebagai cap
+title: "Stamp.BindLogo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Stamp. Menetapkan teks sebagai stamp."
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.facades/stamp/bindlogo/
 ---
-## Metode Stamp.BindLogo
+## Stamp.BindLogo method
 
-Mengatur teks sebagai cap.
+Mengatur teks sebagai stempel.
 
 ```csharp
 public void BindLogo(FormattedText formattedText)
@@ -20,7 +20,9 @@ public void BindLogo(FormattedText formattedText)
 
 ### Lihat Juga
 
-* kelas [FormattedText](../../formattedtext/)
-* kelas [Stamp](../)
+* class [FormattedText](../../formattedtext/)
+* class [Stamp](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

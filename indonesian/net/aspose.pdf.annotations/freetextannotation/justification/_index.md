@@ -1,14 +1,14 @@
 ---
-title: FreeTextAnnotation.Justification
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FreeTextAnnotation. Mendapatkan atau mengatur kode yang menentukan bentuk quadding justification yang akan digunakan dalam menampilkan teks anotasi
+title: "FreeTextAnnotation.Justification"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FreeTextAnnotation. Mendapatkan atau mengatur kode yang menentukan bentuk justifikasi quadding yang akan digunakan dalam menampilkan teks anotasi"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.annotations/freetextannotation/justification/
 ---
-## Properti FreeTextAnnotation.Justification
+## FreeTextAnnotation.Justification property
 
-Mendapatkan atau mengatur kode yang menentukan bentuk quadding (justification) yang akan digunakan dalam menampilkan teks anotasi.
+Mendapatkan atau mengatur kode yang menentukan bentuk penjajaran (justifikasi) yang akan digunakan dalam menampilkan teks anotasi.
 
 ```csharp
 public Justification Justification { get; set; }
@@ -20,3 +20,5 @@ public Justification Justification { get; set; }
 * class [FreeTextAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

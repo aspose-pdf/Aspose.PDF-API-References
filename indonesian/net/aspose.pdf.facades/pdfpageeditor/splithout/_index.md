@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.SPLITHOUT
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PdfPageEditor. Pembagian Horizontal Keluar
+title: "PdfPageEditor.SPLITHOUT"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field PdfPageEditor. Out Horizontal Split"
 type: docs
 weight: 300
 url: /id/net/aspose.pdf.facades/pdfpageeditor/splithout/
 ---
-## Bidang PdfPageEditor.SPLITHOUT
+## PdfPageEditor.SPLITHOUT field
 
-Pembagian Horizontal Keluar
+Pemisahan Horizontal Out
 
 ```csharp
 public const int SPLITHOUT;
@@ -16,6 +16,8 @@ public const int SPLITHOUT;
 
 ### Lihat Juga
 
-* kelas [PdfPageEditor](../)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

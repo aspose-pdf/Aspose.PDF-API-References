@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.GetFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIClient. Mengambil detail dari file tertentu secara asinkron
+title: "OpenAIClient.GetFileAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAIClient. Mengambil detail file tertentu secara asinkron"
 type: docs
 weight: 220
 url: /id/net/aspose.pdf.ai/openaiclient/getfileasync/
 ---
-## Metode OpenAIClient.GetFileAsync
+## OpenAIClient.GetFileAsync method
 
-Mengambil detail dari file tertentu secara asinkron.
+Mengambil detail file tertentu secara asinkron.
 
 ```csharp
 public Task<FileResponse> GetFileAsync(string fileId, 
@@ -17,22 +17,24 @@ public Task<FileResponse> GetFileAsync(string fileId,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fileId | String | ID dari file yang akan diambil. |
+| fileId | String | ID file yang akan diambil. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi detail dari file.
+Task yang mewakili operasi asinkron. Hasil task berisi detail file.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika file Id adalah null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika Id file null atau kosong. |
 
 ### Lihat Juga
 
-* kelas [FileResponse](../../fileresponse/)
-* kelas [OpenAIClient](../)
+* class [FileResponse](../../fileresponse/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

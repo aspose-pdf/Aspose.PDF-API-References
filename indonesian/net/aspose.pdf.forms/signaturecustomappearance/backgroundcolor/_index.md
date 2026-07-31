@@ -1,14 +1,14 @@
 ---
-title: SignatureCustomAppearance.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SignatureCustomAppearance. Mendapatkan/mengatur warna latar belakang. Nilai default Transparan
+title: "SignatureCustomAppearance.BackgroundColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SignatureCustomAppearance. Mendapatkan/mengatur warna latar belakang. Nilai default Transparent"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.forms/signaturecustomappearance/backgroundcolor/
 ---
-## Properti SignatureCustomAppearance.BackgroundColor
+## SignatureCustomAppearance.BackgroundColor property
 
-Mendapatkan/mengatur warna latar belakang. Nilai default: Transparan.
+Mendapatkan/mengatur warna latar belakang. Nilai default: Transparent.
 
 ```csharp
 public Color BackgroundColor { get; set; }
@@ -16,7 +16,9 @@ public Color BackgroundColor { get; set; }
 
 ### Lihat Juga
 
-* kelas [Color](../../../aspose.pdf/color/)
-* kelas [SignatureCustomAppearance](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [SignatureCustomAppearance](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

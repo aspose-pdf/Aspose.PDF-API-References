@@ -1,14 +1,14 @@
 ---
-title: LlamaCopilotOptionsBase.TopP
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LlamaCopilotOptionsBase. Mengambil atau mengatur nilai topp untuk pengambilan sampel nucleus
+title: "LlamaCopilotOptionsBase.TopP"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti LlamaCopilotOptionsBase. Mendapatkan atau menetapkan nilai topp untuk sampling nukleus"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.ai/llamacopilotoptionsbase/topp/
 ---
-## Properti LlamaCopilotOptionsBase.TopP
+## LlamaCopilotOptionsBase.TopP property
 
-Mengambil atau mengatur nilai top-p untuk pengambilan sampel nucleus.
+Mendapatkan atau mengatur nilai top-p untuk sampling nukleus.
 
 ```csharp
 public double? TopP { get; set; }
@@ -16,6 +16,8 @@ public double? TopP { get; set; }
 
 ### Lihat Juga
 
-* kelas [LlamaCopilotOptionsBase](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [LlamaCopilotOptionsBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

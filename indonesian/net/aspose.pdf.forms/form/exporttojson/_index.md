@@ -1,9 +1,9 @@
 ---
-title: Form.ExportToJson
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Mengekspor bidang formulir PDF ke format JSON dan menulis hasilnya ke aliran yang disediakan
+title: "Form.ExportToJson"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Mengekspor field formulir PDF ke format JSON dan menulis hasilnya ke stream yang disediakan"
 type: docs
-weight: 240
+weight: 260
 url: /id/net/aspose.pdf.forms/form/exporttojson/
 ---
 ## ExportToJson(Stream, ExportFieldsToJsonOptions) {#exporttojson}
@@ -17,12 +17,12 @@ public IEnumerable<FieldSerializationResult> ExportToJson(Stream stream,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| stream | Stream | Aliran untuk menulis output JSON. |
-| options | ExportFieldsToJsonOptions | Pengaturan opsional untuk mengekspor bidang formulir ke JSON. |
+| stream | Stream | Stream untuk menulis output JSON. |
+| options | ExportFieldsToJsonOptions | Pengaturan opsional untuk mengekspor field formulir ke JSON. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Koleksi dari [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) yang menunjukkan hasil dari operasi ekspor untuk setiap bidang formulir.
+Koleksi dari [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) yang menunjukkan hasil operasi ekspor untuk setiap bidang formulir.
 
 ## Contoh
 
@@ -35,9 +35,9 @@ fs.Close();
 
 ### Lihat Juga
 
-* kelas [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* kelas [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
-* kelas [Form](../)
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
+* class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
 
@@ -54,12 +54,12 @@ public IEnumerable<FieldSerializationResult> ExportToJson(string fileName,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fileName | String | Nama file untuk menulis output JSON. |
-| options | ExportFieldsToJsonOptions | Pengaturan opsional untuk mengekspor bidang formulir ke JSON. |
+| fileName | String | Nama file yang akan ditulis output JSON. |
+| options | ExportFieldsToJsonOptions | Pengaturan opsional untuk mengekspor field formulir ke JSON. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Koleksi dari [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) yang menunjukkan hasil dari operasi ekspor untuk setiap bidang formulir.
+Koleksi dari [`FieldSerializationResult`](../../../aspose.pdf/fieldserializationresult/) yang menunjukkan hasil operasi ekspor untuk setiap bidang formulir.
 
 ## Contoh
 
@@ -71,8 +71,10 @@ document.Form..ExportFormFieldsToJson(jsonPath);
 
 ### Lihat Juga
 
-* kelas [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
-* kelas [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
-* kelas [Form](../)
+* class [FieldSerializationResult](../../../aspose.pdf/fieldserializationresult/)
+* class [ExportFieldsToJsonOptions](../../../aspose.pdf/exportfieldstojsonoptions/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

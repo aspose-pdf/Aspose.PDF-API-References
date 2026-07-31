@@ -1,14 +1,14 @@
 ---
-title: GraphInfo.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Properti GraphInfo. Mendapatkan atau menetapkan objek Color yang menunjukkan warna grafik
+title: "GraphInfo.Color"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti GraphInfo. Mendapatkan atau mengatur objek Color yang menunjukkan warna grafik"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/graphinfo/color/
 ---
-## Properti GraphInfo.Color
+## GraphInfo.Color property
 
-Mendapatkan atau menetapkan objek `Color` yang menunjukkan warna grafik.
+Mendapatkan atau mengatur objek `Color` yang menunjukkan warna grafik.
 
 ```csharp
 public Color Color { get; set; }
@@ -16,7 +16,9 @@ public Color Color { get; set; }
 
 ### Lihat Juga
 
-* kelas [Color](../../color/)
-* kelas [GraphInfo](../)
+* class [Color](../../color/)
+* class [GraphInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

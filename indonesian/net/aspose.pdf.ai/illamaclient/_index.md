@@ -1,14 +1,14 @@
 ---
-title: Interface ILlamaClient
-second_title: Aspose.PDF for .NET API Reference
-description: Antarmuka Aspose.Pdf.AI.ILlamaClient. Mewakili antarmuka klien untuk berinteraksi dengan API Llama
+title: "Antarmuka ILlamaClient"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Antarmuka Aspose.Pdf.AI.ILlamaClient. Mewakili antarmuka klien untuk berinteraksi dengan Llama API"
 type: docs
-weight: 530
+weight: 550
 url: /id/net/aspose.pdf.ai/illamaclient/
 ---
-## Antarmuka ILlamaClient
+## ILlamaClient interface
 
-Mewakili antarmuka klien untuk berinteraksi dengan API Llama.
+Mewakili antarmuka klien untuk berinteraksi dengan Llama API.
 
 ```csharp
 public interface ILlamaClient
@@ -24,3 +24,5 @@ public interface ILlamaClient
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

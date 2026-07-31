@@ -1,14 +1,14 @@
 ---
-title: PageMarkup.Sections
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageMarkup. Mendapatkan koleksi MarkupSection yang ditemukan di halaman
+title: "PageMarkup.Sections"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PageMarkup. Mendapatkan koleksi MarkupSection yang ditemukan pada halaman."
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.text/pagemarkup/sections/
 ---
-## Properti PageMarkup.Sections
+## PageMarkup.Sections property
 
-Mendapatkan koleksi [`MarkupSection`](../../markupsection/) yang ditemukan di halaman.
+Mendapatkan koleksi [`MarkupSection`](../../markupsection/) yang ditemukan pada halaman.
 
 ```csharp
 public List<MarkupSection> Sections { get; }
@@ -16,7 +16,9 @@ public List<MarkupSection> Sections { get; }
 
 ### Lihat Juga
 
-* kelas [MarkupSection](../../markupsection/)
-* kelas [PageMarkup](../)
+* class [MarkupSection](../../markupsection/)
+* class [PageMarkup](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

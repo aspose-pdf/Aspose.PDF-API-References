@@ -1,12 +1,12 @@
 ---
-title: OpenAIClient.GetImageDescriptionCopilot
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIClient. Mendapatkan instance dari IImageDescriptionCopilot dengan opsi yang ditentukan
+title: "OpenAIClient.GetImageDescriptionCopilot"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAIClient. Mendapatkan instance dari IImageDescriptionCopilot dengan opsi yang ditentukan"
 type: docs
 weight: 240
 url: /id/net/aspose.pdf.ai/openaiclient/getimagedescriptioncopilot/
 ---
-## Metode OpenAIClient.GetImageDescriptionCopilot
+## OpenAIClient.GetImageDescriptionCopilot method
 
 Mendapatkan instance dari [`IImageDescriptionCopilot`](../../iimagedescriptioncopilot/) dengan opsi yang ditentukan.
 
@@ -19,15 +19,17 @@ public IImageDescriptionCopilot GetImageDescriptionCopilot(
 | --- | --- | --- |
 | options | IImageDescriptionCopilotOptions`1 | Opsi untuk copilot deskripsi gambar. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Sebuah instance dari [`IImageDescriptionCopilot`](../../iimagedescriptioncopilot/).
 
 ### Lihat Juga
 
-* antarmuka [IImageDescriptionCopilot](../../iimagedescriptioncopilot/)
-* antarmuka [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../../iimagedescriptioncopilotoptions-1/)
-* kelas [OpenAIImageDescriptionCopilotOptions](../../openaiimagedescriptioncopilotoptions/)
-* kelas [OpenAIClient](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* interface [IImageDescriptionCopilot](../../iimagedescriptioncopilot/)
+* interface [IImageDescriptionCopilotOptions&lt;TOptions&gt;](../../iimagedescriptioncopilotoptions-1/)
+* class [OpenAIImageDescriptionCopilotOptions](../../openaiimagedescriptioncopilotoptions/)
+* class [OpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

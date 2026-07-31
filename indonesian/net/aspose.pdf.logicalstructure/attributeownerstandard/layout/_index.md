@@ -1,14 +1,14 @@
 ---
-title: AttributeOwnerStandard.Layout
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeOwnerStandard. Pemilik atribut layout
+title: "AttributeOwnerStandard.Layout"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeOwnerStandard field. Layout pemilik atribut"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.logicalstructure/attributeownerstandard/layout/
 ---
-## Field AttributeOwnerStandard.Layout
+## AttributeOwnerStandard.Layout field
 
-Pemilik atribut layout.
+Pemilik atribut Layout.
 
 ```csharp
 public static readonly AttributeOwnerStandard Layout;
@@ -19,3 +19,5 @@ public static readonly AttributeOwnerStandard Layout;
 * class [AttributeOwnerStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

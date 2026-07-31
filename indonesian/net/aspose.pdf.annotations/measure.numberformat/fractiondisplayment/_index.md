@@ -1,14 +1,14 @@
 ---
-title: Measure.NumberFormat.FractionDisplayment
-second_title: Aspose.PDF for .NET API Reference
-description: Properti NumberFormat. Dalam cara apa nilai pecahan ditampilkan
+title: "Measure.NumberFormat.FractionDisplayment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "NumberFormat properti. Cara nilai pecahan ditampilkan"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.annotations/measure.numberformat/fractiondisplayment/
 ---
-## Properti Measure.NumberFormat.FractionDisplayment
+## Measure.NumberFormat.FractionDisplayment property
 
-Dalam cara apa nilai pecahan ditampilkan.
+Cara nilai pecahan ditampilkan.
 
 ```csharp
 public FractionStyle FractionDisplayment { get; set; }
@@ -20,3 +20,5 @@ public FractionStyle FractionDisplayment { get; set; }
 * class [NumberFormat](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

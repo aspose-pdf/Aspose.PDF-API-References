@@ -1,12 +1,12 @@
 ---
-title: Enum NumberingStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.NumberingStyle. Enumerasi gaya penomoran halaman yang didukung untuk kelas PageLabel
+title: "Enum NumberingStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.NumberingStyle enum. Enumerasi gaya penomoran halaman yang didukung untuk kelas PageLabel"
 type: docs
-weight: 7030
+weight: 7170
 url: /id/net/aspose.pdf/numberingstyle/
 ---
-## Enumerasi NumberingStyle
+## NumberingStyle enumeration
 
 Enumerasi gaya penomoran halaman yang didukung untuk kelas PageLabel.
 
@@ -19,13 +19,15 @@ public enum NumberingStyle
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | NumeralsArabic | `0` | Angka desimal Arab. |
-| NumeralsRomanUppercase | `1` | Angka romawi huruf besar (I, II, III...). |
-| NumeralsRomanLowercase | `2` | Angka romawi huruf kecil (i, ii, iii...). |
-| LettersUppercase | `3` | Huruf latin huruf besar (A, B, C...). |
-| LettersLowercase | `4` | Huruf latin huruf kecil (a, b, c...). |
+| NumeralsRomanUppercase | `1` | Angka Romawi huruf besar (I, II, III...). |
+| NumeralsRomanLowercase | `2` | Angka Romawi huruf kecil (i, ii, iii...). |
+| LettersUppercase | `3` | Huruf Latin huruf besar (A, B, C...). |
+| LettersLowercase | `4` | Huruf Latin huruf kecil (a, b, c...). |
 | None | `5` | Tanpa penomoran. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Checked_on
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeName. Atribut diperiksa Pada Status tombol radio atau kotak centang
+title: "AttributeName.Checked_on"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang AttributeName. Atribut checked On  Keadaan tombol radio atau kotak centang"
 type: docs
 weight: 170
 url: /id/net/aspose.pdf.logicalstructure/attributename/checked_on/
 ---
-## Field AttributeName.Checked_on
+## AttributeName.Checked_on field
 
-Atribut diperiksa: Pada - Status tombol radio atau kotak centang.
+Atribut checked: On - Status tombol radio atau kotak centang.
 
 ```csharp
 public static readonly AttributeName Checked_on;
@@ -16,6 +16,8 @@ public static readonly AttributeName Checked_on;
 
 ### Lihat Juga
 
-* kelas [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

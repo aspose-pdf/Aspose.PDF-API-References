@@ -1,12 +1,12 @@
 ---
-title: Enum ValidationMode
-second_title: Aspose.PDF for .NET API Reference
-description: Enum ValidationMode Aspose.Pdf.Security. Menentukan mode validasi untuk proses validasi tanda tangan PDF
+title: "Enum ValidationMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Security.ValidationMode. Menentukan mode validasi untuk proses validasi tanda tangan PDF"
 type: docs
-weight: 10060
+weight: 10240
 url: /id/net/aspose.pdf.security/validationmode/
 ---
-## Enumerasi ValidationMode
+## ValidationMode enumeration
 
 Menentukan mode validasi untuk proses validasi tanda tangan PDF.
 
@@ -19,10 +19,12 @@ public enum ValidationMode
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | None | `0` | Mewakili mode di mana validasi tidak dilakukan. |
-| OnlyCheck | `1` | Mewakili mode di mana validasi dilakukan, tetapi hasilnya tidak mempengaruhi validasi tanda tangan digital. Anda dapat memeriksa hasil validasi sendiri. |
-| Strict | `2` | Mewakili mode di mana validasi dilakukan dan hasilnya mempengaruhi validasi tanda tangan digital. Jika sertifikat tidak dapat diverifikasi, maka tanda tangan digital akan dianggap tidak valid. Anda dapat memeriksa hasil validasi sendiri. |
+| OnlyCheck | `1` | Mewakili mode di mana validasi dilakukan, tetapi hasilnya tidak memengaruhi validasi tanda tangan digital. Anda dapat memeriksa hasil validasi sendiri. |
+| Strict | `2` | Mewakili mode di mana validasi dilakukan dan hasilnya memengaruhi validasi tanda tangan digital. Jika sertifikat tidak dapat diverifikasi, maka tanda tangan digital akan dianggap tidak valid. Anda dapat memeriksa hasil validasi sendiri. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../)
+
+

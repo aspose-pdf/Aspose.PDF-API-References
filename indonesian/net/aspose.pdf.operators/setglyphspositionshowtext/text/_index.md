@@ -1,14 +1,14 @@
 ---
-title: SetGlyphsPositionShowText.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SetGlyphsPositionShowText. Mengambil teks dari argumen operator
+title: "SetGlyphsPositionShowText.Text"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SetGlyphsPositionShowText. Mendapatkan teks dari argumen operator; posisi glyph diabaikan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.operators/setglyphspositionshowtext/text/
 ---
-## Properti SetGlyphsPositionShowText.Text
+## SetGlyphsPositionShowText.Text property
 
-Mengambil teks dari argumen operator (penempatan glyph diabaikan).
+Mendapatkan teks dari argumen operator (posisi glyph diabaikan).
 
 ```csharp
 public override string Text { get; }
@@ -16,6 +16,8 @@ public override string Text { get; }
 
 ### Lihat Juga
 
-* kelas [SetGlyphsPositionShowText](../)
+* class [SetGlyphsPositionShowText](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

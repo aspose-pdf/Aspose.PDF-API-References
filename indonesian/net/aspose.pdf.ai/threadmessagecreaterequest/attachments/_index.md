@@ -1,14 +1,14 @@
 ---
-title: ThreadMessageCreateRequest.Attachments
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ThreadMessageCreateRequest. Mengambil atau mengatur daftar file yang dilampirkan pada pesan
+title: "ThreadMessageCreateRequest.Attachments"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ThreadMessageCreateRequest. Mendapatkan atau mengatur daftar file yang dilampirkan pada pesan."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.ai/threadmessagecreaterequest/attachments/
 ---
-## Properti ThreadMessageCreateRequest.Attachments
+## ThreadMessageCreateRequest.Attachments property
 
-Mengambil atau mengatur daftar file yang dilampirkan pada pesan.
+Mendapatkan atau mengatur daftar file yang dilampirkan pada pesan.
 
 ```csharp
 public List<Attachment> Attachments { get; set; }
@@ -16,7 +16,9 @@ public List<Attachment> Attachments { get; set; }
 
 ### Lihat Juga
 
-* kelas [Attachment](../../attachment/)
-* kelas [ThreadMessageCreateRequest](../)
+* class [Attachment](../../attachment/)
+* class [ThreadMessageCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Class PageNumber.PageTotalNum
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.PageNumberPageTotalNum. Mewakili komponen jumlah total halaman dalam format nomor halaman
+title: "Kelas PageNumber.PageTotalNum"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.PageNumberPageTotalNum class. Mewakili komponen jumlah total halaman dalam format nomor halaman"
 type: docs
-weight: 8220
+weight: 8360
 url: /id/net/aspose.pdf/pagenumber.pagetotalnum/
 ---
-## Kelas PageNumber.PageTotalNum
+## PageNumber.PageTotalNum class
 
-Mewakili komponen jumlah total halaman dalam format nomor halaman.
+Mewakili komponen total jumlah halaman dalam format nomor halaman.
 
 ```csharp
 public sealed class PageTotalNum
@@ -22,6 +22,8 @@ public sealed class PageTotalNum
 
 ### Lihat Juga
 
-* kelas [PageNumber](../pagenumber/)
-* ruang nama [Aspose.Pdf](../../aspose.pdf/)
+* class [PageNumber](../pagenumber/)
+* namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

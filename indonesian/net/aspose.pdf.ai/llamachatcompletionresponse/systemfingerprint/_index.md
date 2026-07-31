@@ -1,14 +1,14 @@
 ---
-title: LlamaChatCompletionResponse.SystemFingerprint
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LlamaChatCompletionResponse. Mengambil atau mengatur sidik jari yang mewakili konfigurasi backend yang dijalankan model
+title: "LlamaChatCompletionResponse.SystemFingerprint"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti LlamaChatCompletionResponse. Mendapatkan atau mengatur sidik jari yang mewakili konfigurasi backend yang dijalankan oleh model."
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.ai/llamachatcompletionresponse/systemfingerprint/
 ---
-## Properti LlamaChatCompletionResponse.SystemFingerprint
+## LlamaChatCompletionResponse.SystemFingerprint property
 
-Mengambil atau mengatur sidik jari yang mewakili konfigurasi backend yang dijalankan model.
+Mendapatkan atau mengatur sidik jari yang mewakili konfigurasi backend yang dijalankan model.
 
 ```csharp
 public string SystemFingerprint { get; set; }
@@ -16,6 +16,8 @@ public string SystemFingerprint { get; set; }
 
 ### Lihat Juga
 
-* kelas [LlamaChatCompletionResponse](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [LlamaChatCompletionResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

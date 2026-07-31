@@ -1,7 +1,7 @@
 ---
-title: ChoiceField.ChoiceField
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor ChoiceField. Konstruktor untuk ChoiceField
+title: "ChoiceField.ChoiceField"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor ChoiceField. Konstruktor untuk ChoiceField"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.forms/choicefield/choicefield/
@@ -16,8 +16,8 @@ public ChoiceField(Page page, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman tempat field berada. |
-| rect | Rectangle | Persegi panjang dari field. |
+| halaman | Halaman | Halaman tempat bidang berada. |
+| rect | Rectangle | Rectangle bidang tersebut. |
 
 ### Lihat Juga
 
@@ -31,7 +31,7 @@ public ChoiceField(Page page, Rectangle rect)
 
 ## ChoiceField(Document) {#constructor}
 
-Membuat field pilihan (untuk Generator)
+Membuat bidang pilihan (untuk Generator)
 
 ```csharp
 public ChoiceField(Document doc)
@@ -39,7 +39,7 @@ public ChoiceField(Document doc)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| doc | Document | Dokumen tempat field pilihan akan dibuat. |
+| doc | Document | Dokumen tempat bidang pilihan akan dibuat. |
 
 ### Lihat Juga
 
@@ -60,8 +60,8 @@ public ChoiceField(Document doc, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| doc | Document | Dokumen tempat field akan dibuat. |
-| rect | Rectangle | Persegi panjang dari field. |
+| doc | Document | Document di mana bidang akan dibuat. |
+| rect | Rectangle | Rectangle bidang tersebut. |
 
 ### Lihat Juga
 
@@ -70,3 +70,5 @@ public ChoiceField(Document doc, Rectangle rect)
 * class [ChoiceField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

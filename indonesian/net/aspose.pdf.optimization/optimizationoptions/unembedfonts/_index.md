@@ -1,14 +1,14 @@
 ---
-title: OptimizationOptions.UnembedFonts
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OptimizationOptions. Buat font tidak tersemat jika diatur ke true
+title: "OptimizationOptions.UnembedFonts"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OptimizationOptions. Membuat font tidak ter-embed jika diatur ke true."
 type: docs
-weight: 140
+weight: 130
 url: /id/net/aspose.pdf.optimization/optimizationoptions/unembedfonts/
 ---
-## Properti OptimizationOptions.UnembedFonts
+## OptimizationOptions.UnembedFonts property
 
-Buat font tidak tersemat jika diatur ke true.
+Jadikan font tidak ter-embed jika diatur ke true.
 
 ```csharp
 public bool UnembedFonts { get; set; }
@@ -16,6 +16,8 @@ public bool UnembedFonts { get; set; }
 
 ### Lihat Juga
 
-* kelas [OptimizationOptions](../)
+* class [OptimizationOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

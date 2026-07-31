@@ -1,12 +1,12 @@
 ---
-title: DefaultAppearance.Font
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DefaultAppearance. Mendapatkan font yang ditentukan sebagai default untuk teks
+title: "DefaultAppearance.Font"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti DefaultAppearance. Mendapatkan font yang ditentukan sebagai default untuk teks"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/defaultappearance/font/
 ---
-## Properti DefaultAppearance.Font
+## DefaultAppearance.Font property
 
 Mendapatkan font yang ditentukan sebagai default untuk teks.
 
@@ -16,7 +16,9 @@ public Font Font { get; }
 
 ### Lihat Juga
 
-* kelas [Font](../../../aspose.pdf.text/font/)
-* kelas [DefaultAppearance](../)
+* class [Font](../../../aspose.pdf.text/font/)
+* class [DefaultAppearance](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

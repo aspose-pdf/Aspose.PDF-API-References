@@ -1,14 +1,14 @@
 ---
-title: Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Menentukan apakah suatu elemen ada dalam koleksi.
+title: "Berisi"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Menentukan apakah sebuah elemen berada dalam koleksi."
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.vector/subpathcollection/contains/
 ---
 ## SubPathCollection.Contains method
 
-Menentukan apakah suatu elemen ada dalam koleksi.
+Menentukan apakah sebuah elemen berada dalam koleksi.
 
 ```csharp
 public bool Contains(SubPath item)
@@ -16,16 +16,16 @@ public bool Contains(SubPath item)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| item | SubPath | Objek SubPath yang dicari. |
+| item | SubPath | Objek SubPath untuk dicari. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 True - jika elemen ditemukan; jika tidak, false.
 
 ### Lihat Juga
 
-* kelas [SubPath](../../subpath)
-* kelas [SubPathCollection](../../subpathcollection)
+* class [SubPath](../../subpath)
+* class [SubPathCollection](../../subpathcollection)
 * namespace [Aspose.Pdf.Vector](../../subpathcollection)
 * assembly [Aspose.PDF](../../../)
 

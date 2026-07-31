@@ -1,14 +1,14 @@
 ---
-title: CosPdfBoolean.CosPdfBoolean
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor CosPdfBoolean. Menginisialisasi instance baru dari kelas PdfBoolean
+title: "CosPdfBoolean.CosPdfBoolean"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor CosPdfBoolean. Menginisialisasi sebuah instance baru dari kelas PdfBoolean"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.dataeditor/cospdfboolean/cospdfboolean/
 ---
-## Konstruktor CosPdfBoolean
+## CosPdfBoolean constructor
 
-Menginisialisasi instance baru dari kelas PdfBoolean.
+Menginisialisasi sebuah instance baru dari kelas PdfBoolean.
 
 ```csharp
 public CosPdfBoolean(bool value)
@@ -16,10 +16,12 @@ public CosPdfBoolean(bool value)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| value | Boolean | jika diatur ke `true` [value]. |
+| nilai | Boolean | jika diatur ke `true` [value]. |
 
 ### Lihat Juga
 
-* kelas [CosPdfBoolean](../)
+* class [CosPdfBoolean](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

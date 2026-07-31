@@ -1,12 +1,12 @@
 ---
-title: StructureAttribute.StructureAttribute
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor StructureAttribute. Menginisialisasi instance baru dari StructureAttribute
+title: "StructureAttribute.StructureAttribute"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor StructureAttribute. Menginisialisasi instance baru dari StructureAttribute"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.logicalstructure/structureattribute/structureattribute/
 ---
-## Konstruktor StructureAttribute
+## StructureAttribute constructor
 
 Menginisialisasi instance baru dari StructureAttribute.
 
@@ -20,7 +20,9 @@ public StructureAttribute(AttributeKey attributeKey)
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../../attributekey/)
-* kelas [StructureAttribute](../)
+* class [AttributeKey](../../attributekey/)
+* class [StructureAttribute](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

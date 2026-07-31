@@ -1,12 +1,12 @@
 ---
-title: FormTextBoxFieldCreateOptions.FormTextBoxFieldCreateOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor FormTextBoxFieldCreateOptions. Menginisialisasi instance baru dari objek FormTextBoxFieldCreateOptions yang berisi parameter untuk TextBoxField yang dibuat dan ditambahkan
+title: "FormTextBoxFieldCreateOptions.FormTextBoxFieldCreateOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor FormTextBoxFieldCreateOptions. Menginisialisasi instance baru dari objek FormTextBoxFieldCreateOptions yang berisi parameter untuk TextBoxField yang dibuat dan ditambahkan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/formtextboxfieldcreateoptions/formtextboxfieldcreateoptions/
 ---
-## Konstruktor FormTextBoxFieldCreateOptions
+## FormTextBoxFieldCreateOptions constructor
 
 Menginisialisasi instance baru dari objek [`FormTextBoxFieldCreateOptions`](../) yang berisi parameter untuk TextBoxField yang dibuat dan ditambahkan.
 
@@ -16,12 +16,14 @@ public FormTextBoxFieldCreateOptions(int pageNum, Rectangle rect)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pageNum | Int32 | Nomor halaman di mana TextBoxField yang ditambahkan akan berada. |
+| pageNum | Int32 | Nomor halaman tempat TextBoxField yang ditambahkan akan berada. |
 | rect | Rectangle | Mengatur persegi panjang TextBoxField. |
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [FormTextBoxFieldCreateOptions](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [FormTextBoxFieldCreateOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

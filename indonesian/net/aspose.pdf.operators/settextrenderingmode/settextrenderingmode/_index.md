@@ -1,12 +1,12 @@
 ---
-title: SetTextRenderingMode.SetTextRenderingMode
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor SetTextRenderingMode. Menginisialisasi operator
+title: "SetTextRenderingMode.SetTextRenderingMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor SetTextRenderingMode. Menginisialisasi operator"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/settextrenderingmode/settextrenderingmode/
 ---
-## Konstruktor SetTextRenderingMode
+## SetTextRenderingMode constructor
 
 Menginisialisasi operator.
 
@@ -16,6 +16,8 @@ public SetTextRenderingMode()
 
 ### Lihat Juga
 
-* kelas [SetTextRenderingMode](../)
+* class [SetTextRenderingMode](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

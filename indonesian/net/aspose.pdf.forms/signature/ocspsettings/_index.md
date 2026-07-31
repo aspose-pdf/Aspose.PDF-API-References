@@ -1,12 +1,12 @@
 ---
-title: Signature.OcspSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Properti tanda tangan. Mendapatkan/mengatur pengaturan ocsp
+title: "Signature.OcspSettings"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Signature. Mendapatkan/mengatur pengaturan ocsp"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.forms/signature/ocspsettings/
 ---
-## Properti Signature.OcspSettings
+## Signature.OcspSettings property
 
 Mendapatkan/mengatur pengaturan ocsp.
 
@@ -16,7 +16,9 @@ public OcspSettings OcspSettings { get; set; }
 
 ### Lihat Juga
 
-* kelas [OcspSettings](../../../aspose.pdf/ocspsettings/)
-* kelas [Signature](../)
+* class [OcspSettings](../../../aspose.pdf/ocspsettings/)
+* class [Signature](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: AttributeKey.op_Explicit
-second_title: Aspose.PDF for .NET API Reference
-description: Metode AttributeKey. Melakukan konversi eksplisit dari String ke AttributeKey
+title: "AttributeKey.op_Explicit"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeKey metode. Melakukan konversi eksplisit dari String ke AttributeKey"
 type: docs
 weight: 450
 url: /id/net/aspose.pdf.logicalstructure/attributekey/op_explicit/
 ---
-## Operator eksplisit AttributeKey
+## AttributeKey Explicit operator
 
 Melakukan konversi eksplisit dari String ke [`AttributeKey`](../).
 
@@ -16,14 +16,16 @@ public static explicit operator AttributeKey(string key)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Kunci atribut. |
+| kunci | String | Kunci atribut. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Hasil dari konversi.
+Hasil konversi.
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

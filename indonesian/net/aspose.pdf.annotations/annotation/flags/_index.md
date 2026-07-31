@@ -1,14 +1,14 @@
 ---
-title: Annotation.Flags
-second_title: Aspose.PDF for .NET API Reference
-description: Properti anotasi. Bendera dari anotasi
+title: "Annotation.Flags"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Annotation. Bendera anotasi"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.annotations/annotation/flags/
 ---
-## Properti Annotation.Flags
+## Annotation.Flags property
 
-Bendera dari anotasi.
+Flag annotation.
 
 ```csharp
 public AnnotationFlags Flags { get; set; }
@@ -20,3 +20,5 @@ public AnnotationFlags Flags { get; set; }
 * class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

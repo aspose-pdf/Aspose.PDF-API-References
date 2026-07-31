@@ -1,14 +1,14 @@
 ---
-title: TextDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextDevice. Mengonversi halaman dan menyimpannya sebagai aliran teks
+title: "TextDevice.Process"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TextDevice. Mengonversi halaman dan menyimpannya sebagai aliran teks"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.devices/textdevice/process/
 ---
-## Metode TextDevice.Process
+## TextDevice.Process method
 
-Mengonversi halaman dan menyimpannya sebagai aliran teks.
+Konversi halaman dan simpan sebagai aliran teks.
 
 ```csharp
 public override void Process(Page page, Stream output)
@@ -16,8 +16,8 @@ public override void Process(Page page, Stream output)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Halaman | Halaman yang akan dikonversi. |
-| output | Aliran | Aliran hasil. |
+| halaman | Halaman | Halaman yang akan dikonversi. |
+| output | Stream | Aliran hasil. |
 
 ## Contoh
 
@@ -29,13 +29,13 @@ string extractedText;
 
 using (MemoryStream ms = new MemoryStream())
 {
-    // create text device
+    // buat perangkat teks
     TextDevice device = new TextDevice();
 
-    // convert the page and save text to the stream
+    // konversi halaman dan simpan teks ke aliran
     device.Process(doc.Pages[1], ms);
 
-    // use the extracted text
+    // gunakan teks yang diekstrak
     ms.Close();
     extractedText = Encoding.Unicode.GetString(ms.ToArray());
 }
@@ -43,7 +43,9 @@ using (MemoryStream ms = new MemoryStream())
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [TextDevice](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [TextDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

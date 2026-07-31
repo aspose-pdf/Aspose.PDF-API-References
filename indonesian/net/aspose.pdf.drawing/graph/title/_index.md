@@ -1,14 +1,14 @@
 ---
-title: Graph.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Graph. Mengambil atau mengatur nilai string yang menunjukkan judul grafik
+title: "Graph.Title"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Graph. Mendapatkan atau mengatur nilai string yang menunjukkan judul graph"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.drawing/graph/title/
 ---
-## Properti Graph.Title
+## Graph.Title property
 
-Mengambil atau mengatur nilai string yang menunjukkan judul grafik.
+Mendapatkan atau mengatur nilai string yang menunjukkan judul grafik.
 
 ```csharp
 public TextFragment Title { get; set; }
@@ -16,7 +16,9 @@ public TextFragment Title { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextFragment](../../../aspose.pdf.text/textfragment/)
-* kelas [Graph](../)
+* class [TextFragment](../../../aspose.pdf.text/textfragment/)
+* class [Graph](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.WaitForThreadMessageToCompleteAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IOpenAIClient. Menunggu pesan thread tertentu untuk selesai secara asinkron
+title: "IOpenAIClient.WaitForThreadMessageToCompleteAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IOpenAIClient. Menunggu pesan thread tertentu selesai secara asinkron"
 type: docs
 weight: 450
 url: /id/net/aspose.pdf.ai/iopenaiclient/waitforthreadmessagetocompleteasync/
 ---
-## Metode IOpenAIClient.WaitForThreadMessageToCompleteAsync
+## IOpenAIClient.WaitForThreadMessageToCompleteAsync method
 
-Menunggu pesan thread tertentu untuk selesai secara asinkron.
+Menunggu pesan thread tertentu selesai secara asynchronous.
 
 ```csharp
 public Task<ThreadMessageResponse> WaitForThreadMessageToCompleteAsync(string threadId, 
@@ -18,23 +18,25 @@ public Task<ThreadMessageResponse> WaitForThreadMessageToCompleteAsync(string th
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | threadId | String | ID dari thread yang berisi pesan. |
-| threadMessageId | String | ID dari pesan yang akan dipantau hingga selesai. |
+| threadMessageId | String | ID dari pesan yang dipantau hingga selesai. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi status akhir dari pesan.
+Task yang mewakili operasi asynchronous. Hasil task berisi status akhir dari pesan.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika thread Id adalah null atau kosong. |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika thread message Id adalah null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika ID thread bernilai null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika ID pesan thread null atau kosong. |
 
 ### Lihat Juga
 
-* kelas [ThreadMessageResponse](../../threadmessageresponse/)
-* antarmuka [IOpenAIClient](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [ThreadMessageResponse](../../threadmessageresponse/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

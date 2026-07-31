@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.Copy
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DocumentPrivilege. Memungkinkan penyalinan file
+title: "DocumentPrivilege.Copy"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti DocumentPrivilege. Mengizinkan menyalin file"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.facades/documentprivilege/copy/
 ---
-## Properti DocumentPrivilege.Copy
+## DocumentPrivilege.Copy property
 
-Memungkinkan penyalinan file.
+Mengizinkan penyalinan file.
 
 ```csharp
 public static DocumentPrivilege Copy { get; }
@@ -16,6 +16,8 @@ public static DocumentPrivilege Copy { get; }
 
 ### Lihat Juga
 
-* kelas [DocumentPrivilege](../)
+* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

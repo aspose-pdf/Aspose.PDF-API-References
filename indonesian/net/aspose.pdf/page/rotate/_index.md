@@ -1,12 +1,12 @@
 ---
-title: Page.Rotate
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Halaman. Mendapatkan atau mengatur rotasi halaman
+title: "Page.Rotate"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Page. Mendapatkan atau mengatur rotasi halaman."
 type: docs
 weight: 250
 url: /id/net/aspose.pdf/page/rotate/
 ---
-## Properti Page.Rotate
+## Page.Rotate property
 
 Mendapatkan atau mengatur rotasi halaman.
 
@@ -29,3 +29,5 @@ Console.WriteLine(document.Pages[1].Rotate);
 * class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

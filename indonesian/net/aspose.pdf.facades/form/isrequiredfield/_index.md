@@ -1,14 +1,14 @@
 ---
-title: Form.IsRequiredField
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Menentukan apakah field diperlukan atau tidak
+title: "Form.IsRequiredField"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Menentukan apakah bidang wajib atau tidak"
 type: docs
 weight: 320
 url: /id/net/aspose.pdf.facades/form/isrequiredfield/
 ---
-## Metode Form.IsRequiredField
+## Form.IsRequiredField method
 
-Menentukan apakah field diperlukan atau tidak.
+Menentukan apakah bidang wajib atau tidak.
 
 ```csharp
 public bool IsRequiredField(string fieldName)
@@ -16,14 +16,16 @@ public bool IsRequiredField(string fieldName)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Nama field. |
+| fieldName | String | Nama bidang. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True - field diperlukan; jika tidak, false.
+True - bidang wajib; jika tidak, false.
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XmpValue.ToNamedValues
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XmpValue. Mengembalikan nilai XMP sebagai koleksi nilai bernama
+title: "XmpValue.ToNamedValues"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode XmpValue. Mengembalikan nilai XMP sebagai koleksi nilai bernama"
 type: docs
 weight: 190
 url: /id/net/aspose.pdf/xmpvalue/tonamedvalues/
 ---
-## Metode XmpValue.ToNamedValues
+## XmpValue.ToNamedValues method
 
 Mengembalikan nilai XMP sebagai koleksi nilai bernama.
 
@@ -14,12 +14,14 @@ Mengembalikan nilai XMP sebagai koleksi nilai bernama.
 public KeyValuePair<string, XmpValue>[] ToNamedValues()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Nilai koleksi bernama.
 
 ### Lihat Juga
 
-* kelas [XmpValue](../)
+* class [XmpValue](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

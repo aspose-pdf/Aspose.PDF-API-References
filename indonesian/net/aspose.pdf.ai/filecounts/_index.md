@@ -1,12 +1,12 @@
 ---
-title: Class FileCounts
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.AI.FileCounts class.
+title: "Kelas FileCounts"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.FileCounts."
 type: docs
-weight: 380
+weight: 400
 url: /id/net/aspose.pdf.ai/filecounts/
 ---
-## Kelas FileCounts
+## FileCounts class
 
 ```csharp
 public class FileCounts
@@ -22,13 +22,15 @@ public class FileCounts
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Cancelled](../../aspose.pdf.ai/filecounts/cancelled/) { get; set; } | Mendapatkan atau menetapkan jumlah file yang dibatalkan. |
-| [Completed](../../aspose.pdf.ai/filecounts/completed/) { get; set; } | Mendapatkan atau menetapkan jumlah file yang telah berhasil diproses. |
-| [Failed](../../aspose.pdf.ai/filecounts/failed/) { get; set; } | Mendapatkan atau menetapkan jumlah file yang gagal diproses. |
-| [InProgress](../../aspose.pdf.ai/filecounts/inprogress/) { get; set; } | Mendapatkan atau menetapkan jumlah file yang saat ini sedang diproses. |
-| [Total](../../aspose.pdf.ai/filecounts/total/) { get; set; } | Mendapatkan atau menetapkan total jumlah file di dalam penyimpanan vektor. |
+| [Cancelled](../../aspose.pdf.ai/filecounts/cancelled/) { get; set; } | Mendapatkan atau mengatur jumlah file yang dibatalkan. |
+| [Completed](../../aspose.pdf.ai/filecounts/completed/) { get; set; } | Mendapatkan atau mengatur jumlah file yang berhasil diproses. |
+| [Failed](../../aspose.pdf.ai/filecounts/failed/) { get; set; } | Mendapatkan atau mengatur jumlah file yang gagal diproses. |
+| [InProgress](../../aspose.pdf.ai/filecounts/inprogress/) { get; set; } | Mendapatkan atau mengatur jumlah file yang sedang diproses. |
+| [Total](../../aspose.pdf.ai/filecounts/total/) { get; set; } | Mendapatkan atau mengatur total jumlah file dalam penyimpanan vektor. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

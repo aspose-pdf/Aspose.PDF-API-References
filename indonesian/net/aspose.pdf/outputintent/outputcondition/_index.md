@@ -1,14 +1,14 @@
 ---
-title: OutputIntent.OutputCondition
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OutputIntent. Mengambil atau mengatur teks yang secara ringkas mengidentifikasi perangkat output yang dimaksud atau kondisi produksi dalam bentuk yang dapat dibaca manusia
+title: "OutputIntent.OutputCondition"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OutputIntent. Mendapatkan atau mengatur teks yang secara singkat mengidentifikasi perangkat output yang dimaksud atau kondisi produksi dalam bentuk yang dapat dibaca manusia."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/outputintent/outputcondition/
 ---
-## Properti OutputIntent.OutputCondition
+## OutputIntent.OutputCondition property
 
-Mengambil atau mengatur teks yang secara ringkas mengidentifikasi perangkat output yang dimaksud atau kondisi produksi dalam bentuk yang dapat dibaca manusia.
+Mendapatkan atau mengatur teks yang secara singkat mengidentifikasi perangkat output yang dimaksud atau kondisi produksi dalam bentuk yang dapat dibaca manusia.
 
 ```csharp
 public string OutputCondition { get; set; }
@@ -16,6 +16,8 @@ public string OutputCondition { get; set; }
 
 ### Lihat Juga
 
-* kelas [OutputIntent](../)
+* class [OutputIntent](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

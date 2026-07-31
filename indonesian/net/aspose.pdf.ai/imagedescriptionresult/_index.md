@@ -1,12 +1,12 @@
 ---
-title: Class ImageDescriptionResult
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.ImageDescriptionResult. Mewakili respons yang berisi deskripsi gambar
+title: "Kelas ImageDescriptionResult"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.ImageDescriptionResult. Mewakili respons yang berisi deskripsi gambar."
 type: docs
-weight: 620
+weight: 670
 url: /id/net/aspose.pdf.ai/imagedescriptionresult/
 ---
-## Kelas ImageDescriptionResult
+## ImageDescriptionResult class
 
 Mewakili respons yang berisi deskripsi gambar.
 
@@ -34,3 +34,5 @@ public class ImageDescriptionResult
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

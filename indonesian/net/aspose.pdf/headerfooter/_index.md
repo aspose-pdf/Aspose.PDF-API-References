@@ -1,14 +1,14 @@
 ---
-title: Class HeaderFooter
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.HeaderFooter. Kelas ini mewakili header atau footer halaman pdf
+title: "Kelas HeaderFooter"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.HeaderFooter. Kelas yang mewakili header atau footer halaman pdf"
 type: docs
-weight: 5430
+weight: 5550
 url: /id/net/aspose.pdf/headerfooter/
 ---
-## Kelas HeaderFooter
+## HeaderFooter class
 
-Kelas ini mewakili header atau footer halaman pdf.
+Kelas yang mewakili halaman pdf header atau footer.
 
 ```csharp
 public sealed class HeaderFooter : ICloneable
@@ -24,9 +24,9 @@ public sealed class HeaderFooter : ICloneable
 
 | Nama | Deskripsi |
 | --- | --- |
-| [IsClipExtraContent](../../aspose.pdf/headerfooter/isclipextracontent/) { get; set; } | Mendapatkan atau menetapkan apakah memotong konten ekstra. |
-| [Margin](../../aspose.pdf/headerfooter/margin/) { get; set; } | Mendapatkan atau menetapkan informasi margin. |
-| [Paragraphs](../../aspose.pdf/headerfooter/paragraphs/) { get; set; } | Mendapatkan atau menetapkan paragraf catatan akhir. |
+| [IsClipExtraContent](../../aspose.pdf/headerfooter/isclipextracontent/) { get; set; } | Mendapatkan atau mengatur apakah memotong konten tambahan. |
+| [Margin](../../aspose.pdf/headerfooter/margin/) { get; set; } | Mendapatkan atau mengatur informasi margin. |
+| [Paragraphs](../../aspose.pdf/headerfooter/paragraphs/) { get; set; } | Mendapatkan atau mengatur paragraf catatan akhir. |
 
 ## Metode
 
@@ -38,3 +38,5 @@ public sealed class HeaderFooter : ICloneable
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

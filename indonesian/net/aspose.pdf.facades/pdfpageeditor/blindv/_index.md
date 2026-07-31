@@ -1,12 +1,12 @@
 ---
-title: PdfPageEditor.BLINDV
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PdfPageEditor. Tirai Vertikal
+title: "PdfPageEditor.BLINDV"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfPageEditor field. Vertical Blinds"
 type: docs
 weight: 200
 url: /id/net/aspose.pdf.facades/pdfpageeditor/blindv/
 ---
-## Bidang PdfPageEditor.BLINDV
+## PdfPageEditor.BLINDV field
 
 Tirai Vertikal
 
@@ -16,6 +16,8 @@ public const int BLINDV;
 
 ### Lihat Juga
 
-* kelas [PdfPageEditor](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfPageEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

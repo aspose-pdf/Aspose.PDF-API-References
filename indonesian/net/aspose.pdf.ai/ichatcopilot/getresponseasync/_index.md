@@ -1,14 +1,14 @@
 ---
-title: IChatCopilot.GetResponseAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IChatCopilot. Secara asinkron mendapatkan respons untuk pesan yang diberikan
+title: "IChatCopilot.GetResponseAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "IChatCopilot metode. Secara asinkron mendapatkan respons untuk pesan yang diberikan."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/ichatcopilot/getresponseasync/
 ---
 ## GetResponseAsync(string, CancellationToken?) {#getresponseasync_1}
 
-Secara asinkron mendapatkan respons untuk pesan yang diberikan.
+Mendapatkan respons secara asinkron untuk pesan yang diberikan.
 
 ```csharp
 public Task<string> GetResponseAsync(string message, CancellationToken? cancellationToken = default)
@@ -16,14 +16,14 @@ public Task<string> GetResponseAsync(string message, CancellationToken? cancella
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| message | String | Pesan input untuk yang mana respons diminta. |
+| message | String | Pesan masukan untuk mana respons diminta. |
 | cancellationToken | Nullable`1 | Token pembatalan (opsional). |
 
-### Return Value
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron dengan string respons.
+Tugas yang mewakili operasi asinkron dengan string respons.
 
-### See Also
+### Lihat Juga
 
 * interface [IChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
@@ -33,7 +33,7 @@ Sebuah tugas yang mewakili operasi asinkron dengan string respons.
 
 ## GetResponseAsync(List&lt;string&gt;, CancellationToken?) {#getresponseasync}
 
-Secara asinkron mendapatkan respons untuk daftar pesan yang diberikan.
+Mendapatkan respons secara asinkron untuk daftar pesan yang diberikan.
 
 ```csharp
 public Task<string> GetResponseAsync(List<string> messages, 
@@ -42,15 +42,17 @@ public Task<string> GetResponseAsync(List<string> messages,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| messages | List`1 | Daftar pesan input untuk yang mana respons diminta. |
+| pesan | List`1 | Daftar pesan masukan untuk mana respons diminta. |
 | cancellationToken | Nullable`1 | Token pembatalan (opsional). |
 
-### Return Value
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron dengan string respons.
+Tugas yang mewakili operasi asinkron dengan string respons.
 
-### See Also
+### Lihat Juga
 
 * interface [IChatCopilot](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

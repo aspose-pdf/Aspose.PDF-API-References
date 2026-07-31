@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.DirectionR2L
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang ViewerPreference. Urutan pembacaan teks dari kanan ke kiri
+title: "ViewerPreference.DirectionR2L"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ViewerPreference bidang. Urutan baca teks dari kanan ke kiri"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.facades/viewerpreference/directionr2l/
 ---
-## Bidang ViewerPreference.DirectionR2L
+## ViewerPreference.DirectionR2L field
 
-Urutan pembacaan teks dari kanan ke kiri.
+Urutan baca teks dari kanan ke kiri.
 
 ```csharp
 public const int DirectionR2L;
@@ -16,6 +16,8 @@ public const int DirectionR2L;
 
 ### Lihat Juga
 
-* kelas [ViewerPreference](../)
+* class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

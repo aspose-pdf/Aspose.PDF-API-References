@@ -1,12 +1,12 @@
 ---
-title: GS.GS
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor GS. Menginisialisasi operator gs
+title: "GS.GS"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor GS. Menginisialisasi operator gs"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/gs/gs/
 ---
-## Konstruktor GS
+## GS constructor
 
 Menginisialisasi operator gs.
 
@@ -16,10 +16,12 @@ public GS(string name)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| name | String | Nama dari keadaan grafis. |
+| nama | String | Nama keadaan grafis. |
 
 ### Lihat Juga
 
-* kelas [GS](../)
+* class [GS](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

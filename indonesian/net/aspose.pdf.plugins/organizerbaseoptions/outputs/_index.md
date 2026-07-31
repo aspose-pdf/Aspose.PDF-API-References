@@ -1,12 +1,12 @@
 ---
-title: OrganizerBaseOptions.Outputs
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OrganizerBaseOptions. Mendapatkan koleksi target yang ditambahkan untuk menyimpan hasil operasi
+title: "OrganizerBaseOptions.Outputs"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OrganizerBaseOptions. Mendapatkan koleksi target yang ditambahkan untuk hasil operasi penyimpanan"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.plugins/organizerbaseoptions/outputs/
 ---
-## Properti OrganizerBaseOptions.Outputs
+## OrganizerBaseOptions.Outputs property
 
 Mendapatkan koleksi target yang ditambahkan untuk menyimpan hasil operasi.
 
@@ -16,7 +16,9 @@ public List<IDataSource> Outputs { get; }
 
 ### Lihat Juga
 
-* antarmuka [IDataSource](../../idatasource/)
-* kelas [OrganizerBaseOptions](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* interface [IDataSource](../../idatasource/)
+* class [OrganizerBaseOptions](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

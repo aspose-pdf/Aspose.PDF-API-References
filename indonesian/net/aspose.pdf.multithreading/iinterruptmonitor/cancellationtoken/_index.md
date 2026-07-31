@@ -1,14 +1,14 @@
 ---
-title: IInterruptMonitor.CancellationToken
-second_title: Aspose.PDF for .NET API Reference
-description: Properti IInterruptMonitor. Memantau token pembatalan yang digunakan untuk interupsi proses. Secara default, setiap IInterruptMonitor menghasilkan cancellationSource-nya sendiri
+title: "IInterruptMonitor.CancellationToken"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti IInterruptMonitor. Memantau token pembatalan yang digunakan untuk interupsi proses. Secara default setiap IInterruptMonitor menghasilkan cancellationSource miliknya sendiri"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.multithreading/iinterruptmonitor/cancellationtoken/
 ---
-## Properti IInterruptMonitor.CancellationToken
+## IInterruptMonitor.CancellationToken property
 
-Token pembatalan pemantau yang digunakan untuk interupsi proses. Secara default, setiap IInterruptMonitor menghasilkan cancellationSource-nya sendiri
+Token pembatalan monitor yang digunakan untuk interupsi proses. Secara default setiap IInterruptMonitor menghasilkan cancellationSource miliknya sendiri
 
 ```csharp
 public CancellationToken CancellationToken { get; }
@@ -16,6 +16,8 @@ public CancellationToken CancellationToken { get; }
 
 ### Lihat Juga
 
-* antarmuka [IInterruptMonitor](../)
+* interface [IInterruptMonitor](../)
 * namespace [Aspose.Pdf.Multithreading](../../../aspose.pdf.multithreading/)
 * assembly [Aspose.PDF](../../../)
+
+

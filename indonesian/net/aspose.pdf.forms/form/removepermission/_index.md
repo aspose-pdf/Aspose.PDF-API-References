@@ -1,14 +1,14 @@
 ---
-title: Form.RemovePermission
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Form. Jika properti ini benar, kamus Perms akan dihapus dari dokumen pdf setelah konversi dokumen dinamis ke standar. Kamus Perms dapat berisi aturan yang mengganggu tampilan pemilihan bidang wajib di pembaca Adobe Acrobat. Secara default, ini adalah false.
+title: "Form.RemovePermission"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Form. Jika properti ini bernilai true, kamus Perms akan dihapus dari dokumen pdf setelah mengonversi dokumen dinamis ke standar. Kamus Perms dapat berisi aturan yang mengganggu tampilan pilihan bidang wajib di pembaca Adobe Acrobat. Nilainya false secara default."
 type: docs
-weight: 120
+weight: 140
 url: /id/net/aspose.pdf.forms/form/removepermission/
 ---
-## Properti Form.RemovePermission
+## Form.RemovePermission property
 
-Jika properti ini benar, kamus "Perms" akan dihapus dari dokumen pdf setelah konversi dokumen dinamis ke standar. Kamus "Perms" dapat berisi aturan yang mengganggu tampilan pemilihan bidang wajib di pembaca Adobe Acrobat. Secara default, ini adalah false.
+Jika properti ini bernilai true, kamus "Perms" akan dihapus dari dokumen pdf setelah mengonversi dokumen dinamis ke standar. Kamus "Perms" dapat berisi aturan yang mengganggu penampilan pilihan bidang wajib di Adobe Acrobat Reader. Nilainya false secara default.
 
 ```csharp
 public bool RemovePermission { get; set; }
@@ -16,6 +16,8 @@ public bool RemovePermission { get; set; }
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

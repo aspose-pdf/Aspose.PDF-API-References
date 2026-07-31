@@ -1,14 +1,14 @@
 ---
-title: GlyphPosition.Position
-second_title: Aspose.PDF for .NET API Reference
-description: Properti GlyphPosition. Posisi dari teks dalam operator
+title: "GlyphPosition.Position"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti GlyphPosition. Posisi teks dalam operator"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.operators/glyphposition/position/
 ---
-## Properti GlyphPosition.Position
+## GlyphPosition.Position property
 
-Posisi dari teks dalam operator.
+Posisi di luar teks dalam operator.
 
 ```csharp
 public double Position { get; }
@@ -16,6 +16,8 @@ public double Position { get; }
 
 ### Lihat Juga
 
-* kelas [GlyphPosition](../)
+* class [GlyphPosition](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

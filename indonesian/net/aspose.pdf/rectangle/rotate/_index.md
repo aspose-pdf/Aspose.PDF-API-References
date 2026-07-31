@@ -1,14 +1,14 @@
 ---
-title: Rectangle.Rotate
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Rectangle. Putar persegi panjang dengan sudut yang ditentukan
+title: "Rectangle.Rotate"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Rectangle. Memutar persegi panjang dengan sudut yang ditentukan"
 type: docs
 weight: 260
 url: /id/net/aspose.pdf/rectangle/rotate/
 ---
 ## Rotate(Rotation) {#rotate}
 
-Putar persegi panjang dengan sudut yang ditentukan.
+Memutar persegi panjang dengan sudut yang ditentukan.
 
 ```csharp
 public void Rotate(Rotation angle)
@@ -16,7 +16,7 @@ public void Rotate(Rotation angle)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| angle | Rotation | Sudut rotasi. Anggota enumerasi Rotation. |
+| sudut | Rotation | Sudut rotasi. Anggota enumerasi Rotation. |
 
 ### Lihat Juga
 
@@ -29,7 +29,7 @@ public void Rotate(Rotation angle)
 
 ## Rotate(int) {#rotate_1}
 
-Putar persegi panjang dengan sudut yang ditentukan.
+Memutar persegi panjang dengan sudut yang ditentukan.
 
 ```csharp
 public void Rotate(int angle)
@@ -37,10 +37,12 @@ public void Rotate(int angle)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| angle | Int32 | Sudut rotasi dalam derajat antara 0 dan 360. |
+| sudut | Int32 | Sudut rotasi dalam derajat antara 0 dan 360. |
 
 ### Lihat Juga
 
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

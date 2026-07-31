@@ -1,14 +1,14 @@
 ---
-title: PdfAction.Next
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfAction. Tindakan berikutnya dalam urutan
+title: "PdfAction.Next"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfAction properti. Aksi berikutnya dalam urutan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.annotations/pdfaction/next/
 ---
-## Properti PdfAction.Next
+## PdfAction.Next property
 
-Tindakan berikutnya dalam urutan.
+Aksi berikutnya dalam urutan.
 
 ```csharp
 public ActionCollection Next { get; }
@@ -16,7 +16,9 @@ public ActionCollection Next { get; }
 
 ### Lihat Juga
 
-* kelas [ActionCollection](../../actioncollection/)
-* kelas [PdfAction](../)
+* class [ActionCollection](../../actioncollection/)
+* class [PdfAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

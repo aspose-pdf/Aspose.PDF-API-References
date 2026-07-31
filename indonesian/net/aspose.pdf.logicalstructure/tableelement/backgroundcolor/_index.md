@@ -1,12 +1,12 @@
 ---
-title: TableElement.BackgroundColor
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TableElement. Mendapatkan atau mengatur warna latar belakang tabel
+title: "TableElement.BackgroundColor"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "TableElement properti. Mendapatkan atau mengatur warna latar belakang tabel"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.logicalstructure/tableelement/backgroundcolor/
 ---
-## Properti TableElement.BackgroundColor
+## TableElement.BackgroundColor property
 
 Mendapatkan atau mengatur warna latar belakang tabel.
 
@@ -16,7 +16,9 @@ public Color BackgroundColor { get; set; }
 
 ### Lihat Juga
 
-* kelas [Color](../../../aspose.pdf/color/)
-* kelas [TableElement](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

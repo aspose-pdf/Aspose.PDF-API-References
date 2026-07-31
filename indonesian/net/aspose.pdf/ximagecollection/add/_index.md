@@ -1,14 +1,14 @@
 ---
-title: XImageCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XImageCollection. Menambahkan gambar baru ke daftar Gambar. Metode ini menambahkan gambar sebagai referensi ke PdfObject yang sama yang memungkinkan untuk mengurangi ukuran file
+title: "XImageCollection.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "XImageCollection metode. Menambahkan gambar baru ke daftar Gambar. Metode ini menambahkan gambar sebagai referensi ke PdfObject yang sama yang memungkinkan mengurangi ukuran file"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/ximagecollection/add/
 ---
 ## Add(XImage) {#add_2}
 
-Menambahkan gambar baru ke daftar Gambar. Metode ini menambahkan gambar sebagai referensi ke PdfObject yang sama (yang memungkinkan untuk mengurangi ukuran file)
+Menambahkan gambar baru ke daftar Image. Metode ini menambahkan gambar sebagai referensi ke PdfObject yang sama (yang memungkinkan mengurangi ukuran file)
 
 ```csharp
 public string Add(XImage image)
@@ -18,14 +18,14 @@ public string Add(XImage image)
 | --- | --- | --- |
 | image | XImage | XImage yang akan ditambahkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Nama gambar yang ditambahkan.
 
 ### Lihat Juga
 
-* kelas [XImage](../../ximage/)
-* kelas [XImageCollection](../)
+* class [XImage](../../ximage/)
+* class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -33,7 +33,7 @@ Nama gambar yang ditambahkan.
 
 ## Add(Stream) {#add_3}
 
-Menambahkan entitas ke akhir koleksi, sehingga entitas dapat diakses dengan indeks terakhir.
+Menambahkan entitas ke akhir koleksi, sehingga entitas dapat diakses melalui indeks terakhir.
 
 ```csharp
 public string Add(Stream image)
@@ -43,13 +43,13 @@ public string Add(Stream image)
 | --- | --- | --- |
 | image | Stream | Stream yang berisi data gambar (dalam format JPEG). |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Nama gambar yang ditambahkan.
 
 ### Lihat Juga
 
-* kelas [XImageCollection](../)
+* class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -57,7 +57,7 @@ Nama gambar yang ditambahkan.
 
 ## Add(BitmapInfo) {#add}
 
-Menambahkan entitas ke akhir koleksi, sehingga entitas dapat diakses dengan indeks terakhir.
+Menambahkan entitas ke akhir koleksi, sehingga entitas dapat diakses melalui indeks terakhir.
 
 ```csharp
 public string Add(BitmapInfo bitmapInfo)
@@ -65,16 +65,16 @@ public string Add(BitmapInfo bitmapInfo)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| bitmapInfo | BitmapInfo | Objek yang berisi array piksel dan informasi bitmap (Lebar, Tinggi, FormatPiksel). |
+| bitmapInfo | BitmapInfo | Objek yang berisi array piksel dan informasi bitmap (Width, Height, PixelFormat). |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Nama gambar yang ditambahkan.
 
 ### Lihat Juga
 
-* kelas [BitmapInfo](../../bitmapinfo/)
-* kelas [XImageCollection](../)
+* class [BitmapInfo](../../bitmapinfo/)
+* class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -82,7 +82,7 @@ Nama gambar yang ditambahkan.
 
 ## Add(Stream, ImageFilterType) {#add_4}
 
-Menambahkan entitas ke akhir koleksi, sehingga entitas dapat diakses dengan indeks terakhir.
+Menambahkan entitas ke akhir koleksi, sehingga entitas dapat diakses melalui indeks terakhir.
 
 ```csharp
 public string Add(Stream image, ImageFilterType filterType)
@@ -93,14 +93,14 @@ public string Add(Stream image, ImageFilterType filterType)
 | image | Stream | Stream yang berisi data gambar. |
 | filterType | ImageFilterType | Jenis filter gambar. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Nama gambar yang ditambahkan.
 
 ### Lihat Juga
 
 * enum [ImageFilterType](../../imagefiltertype/)
-* kelas [XImageCollection](../)
+* class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -108,7 +108,7 @@ Nama gambar yang ditambahkan.
 
 ## Add(BitmapInfo, ImageFilterType) {#add_1}
 
-Menambahkan entitas ke akhir koleksi, sehingga entitas dapat diakses dengan indeks terakhir.
+Menambahkan entitas ke akhir koleksi, sehingga entitas dapat diakses melalui indeks terakhir.
 
 ```csharp
 public string Add(BitmapInfo bitmapInfo, ImageFilterType filterType)
@@ -116,18 +116,18 @@ public string Add(BitmapInfo bitmapInfo, ImageFilterType filterType)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| bitmapInfo | BitmapInfo | Objek yang berisi array piksel dan informasi bitmap (Lebar, Tinggi, FormatPiksel). |
+| bitmapInfo | BitmapInfo | Objek yang berisi array piksel dan informasi bitmap (Width, Height, PixelFormat). |
 | filterType | ImageFilterType | Jenis filter gambar. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Nama gambar yang ditambahkan.
 
 ### Lihat Juga
 
-* kelas [BitmapInfo](../../bitmapinfo/)
+* class [BitmapInfo](../../bitmapinfo/)
 * enum [ImageFilterType](../../imagefiltertype/)
-* kelas [XImageCollection](../)
+* class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -135,7 +135,7 @@ Nama gambar yang ditambahkan.
 
 ## Add(Stream, int) {#add_5}
 
-Menambahkan entitas ke akhir koleksi, sehingga entitas dapat diakses dengan indeks terakhir.
+Menambahkan entitas ke akhir koleksi, sehingga entitas dapat diakses melalui indeks terakhir.
 
 ```csharp
 public void Add(Stream image, int quality)
@@ -148,6 +148,8 @@ public void Add(Stream image, int quality)
 
 ### Lihat Juga
 
-* kelas [XImageCollection](../)
+* class [XImageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

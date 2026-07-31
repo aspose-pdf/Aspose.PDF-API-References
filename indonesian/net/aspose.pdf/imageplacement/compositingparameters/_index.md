@@ -1,14 +1,14 @@
 ---
-title: ImagePlacement.CompositingParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ImagePlacement. Mendapatkan parameter komposit dari status grafik yang aktif untuk gambar yang ditempatkan di halaman
+title: "ImagePlacement.CompositingParameters"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ImagePlacement. Mendapatkan parameter komposit dari keadaan grafik yang aktif untuk gambar yang ditempatkan pada halaman"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/imageplacement/compositingparameters/
 ---
-## Properti ImagePlacement.CompositingParameters
+## ImagePlacement.CompositingParameters property
 
-Mendapatkan parameter komposit dari status grafik yang aktif untuk gambar yang ditempatkan di halaman.
+Mendapatkan parameter komposit dari keadaan grafik yang aktif untuk gambar yang ditempatkan pada halaman.
 
 ```csharp
 public CompositingParameters CompositingParameters { get; }
@@ -16,7 +16,9 @@ public CompositingParameters CompositingParameters { get; }
 
 ### Lihat Juga
 
-* kelas [CompositingParameters](../../compositingparameters/)
-* kelas [ImagePlacement](../)
+* class [CompositingParameters](../../compositingparameters/)
+* class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

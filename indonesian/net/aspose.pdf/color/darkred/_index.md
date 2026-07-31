@@ -1,12 +1,12 @@
 ---
-title: Color.DarkRed
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FF8B0000
+title: "Color.DarkRed"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB c FF8B0000"
 type: docs
 weight: 330
 url: /id/net/aspose.pdf/color/darkred/
 ---
-## Properti Color.DarkRed
+## Color.DarkRed property
 
 Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FF8B0000.
 
@@ -14,12 +14,14 @@ Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FF8B0000.
 public static Color DarkRed { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah representasi warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

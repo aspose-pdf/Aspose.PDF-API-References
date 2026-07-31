@@ -1,14 +1,14 @@
 ---
-title: FormEditor.SetFieldAttribute
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FormEditor. Atur atribut bidang
+title: "FormEditor.SetFieldAttribute"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode FormEditor. Mengatur atribut field"
 type: docs
 weight: 290
 url: /id/net/aspose.pdf.facades/formeditor/setfieldattribute/
 ---
-## Metode FormEditor.SetFieldAttribute
+## FormEditor.SetFieldAttribute method
 
-Atur atribut bidang.
+Mengatur atribut field.
 
 ```csharp
 public bool SetFieldAttribute(string fieldName, PropertyFlag flag)
@@ -16,10 +16,10 @@ public bool SetFieldAttribute(string fieldName, PropertyFlag flag)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Nama bidang yang atributnya harus diatur. |
+| fieldName | String | Nama field yang atributnya harus diatur. |
 | flag | PropertyFlag | Flag (NoExport/ReadOnly/Required) |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 true jika atribut berhasil diatur.
 
@@ -37,3 +37,5 @@ formEditor.SetFieldAttribute("textField", PropertyFlag.NoExport);
 * class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

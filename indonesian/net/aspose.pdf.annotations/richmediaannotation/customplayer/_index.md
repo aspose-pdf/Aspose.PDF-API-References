@@ -1,14 +1,14 @@
 ---
-title: RichMediaAnnotation.CustomPlayer
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RichMediaAnnotation. Mengatur atau mendapatkan pemutar flash kustom untuk memutar data video/audio
+title: "RichMediaAnnotation.CustomPlayer"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RichMediaAnnotation. Mengatur atau mendapatkan pemutar flash khusus untuk memutar data video/audio"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.annotations/richmediaannotation/customplayer/
 ---
-## Properti RichMediaAnnotation.CustomPlayer
+## RichMediaAnnotation.CustomPlayer property
 
-Mengatur atau mendapatkan pemutar flash kustom untuk memutar data video/audio.
+Mengatur atau mengambil pemutar flash khusus untuk memutar data video/audio.
 
 ```csharp
 public Stream CustomPlayer { get; set; }
@@ -16,6 +16,8 @@ public Stream CustomPlayer { get; set; }
 
 ### Lihat Juga
 
-* kelas [RichMediaAnnotation](../)
+* class [RichMediaAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

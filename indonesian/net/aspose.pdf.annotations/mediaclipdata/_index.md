@@ -1,14 +1,14 @@
 ---
-title: Class MediaClipData
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Annotations.MediaClipData. Kelas ini menggambarkan data klip media
+title: "Kelas MediaClipData"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Annotations.MediaClipData. Kelas ini menjelaskan data klip media"
 type: docs
-weight: 2080
+weight: 2170
 url: /id/net/aspose.pdf.annotations/mediaclipdata/
 ---
-## Kelas MediaClipData
+## MediaClipData class
 
-Kelas ini menggambarkan data klip media.
+Kelas yang menjelaskan data klip media.
 
 ```csharp
 public class MediaClipData : MediaClip
@@ -18,10 +18,12 @@ public class MediaClipData : MediaClip
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Data](../../aspose.pdf.annotations/mediaclipdata/data/) { get; } | Mengembalikan spesifikasi file yang berisi data media aktual. |
+| [Data](../../aspose.pdf.annotations/mediaclipdata/data/) { get; } | Kembalikan spesifikasi file yang berisi data media sebenarnya. |
 
 ### Lihat Juga
 
-* kelas [MediaClip](../mediaclip/)
+* class [MediaClip](../mediaclip/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

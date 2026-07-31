@@ -1,12 +1,12 @@
 ---
-title: OptionCollection.Clear
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OptionCollection. Menghapus semua item dari koleksi
+title: "OptionCollection.Clear"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OptionCollection. Menghapus semua item dari koleksi"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.forms/optioncollection/clear/
 ---
-## Metode OptionCollection.Clear
+## OptionCollection.Clear method
 
 Menghapus semua item dari koleksi.
 
@@ -16,6 +16,8 @@ public void Clear()
 
 ### Lihat Juga
 
-* kelas [OptionCollection](../)
+* class [OptionCollection](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

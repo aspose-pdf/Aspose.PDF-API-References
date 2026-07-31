@@ -1,14 +1,14 @@
 ---
-title: TextFragment.VerticalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextFragment. Mendapatkan atau mengatur perataan vertikal dari fragmen teks
+title: "TextFragment.VerticalAlignment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextFragment. Mendapatkan atau mengatur perataan vertikal dari fragmen teks."
 type: docs
 weight: 160
 url: /id/net/aspose.pdf.text/textfragment/verticalalignment/
 ---
-## Properti TextFragment.VerticalAlignment
+## TextFragment.VerticalAlignment property
 
-Mendapatkan atau mengatur perataan vertikal dari fragmen teks.
+Mendapatkan atau mengatur perataan vertikal fragmen teks.
 
 ```csharp
 public override VerticalAlignment VerticalAlignment { get; set; }
@@ -20,3 +20,5 @@ public override VerticalAlignment VerticalAlignment { get; set; }
 * class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

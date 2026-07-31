@@ -1,14 +1,14 @@
 ---
-title: SetCharWidthBoundingBox.Wy
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SetCharWidthBoundingBox. Perpindahan vertikal glyph
+title: "SetCharWidthBoundingBox.Wy"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SetCharWidthBoundingBox. Displacement vertikal dari glyph"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.operators/setcharwidthboundingbox/wy/
 ---
-## Properti SetCharWidthBoundingBox.Wy
+## SetCharWidthBoundingBox.Wy property
 
-Perpindahan vertikal glyph.
+Displacement vertikal dari glyph.
 
 ```csharp
 public double Wy { get; }
@@ -16,6 +16,8 @@ public double Wy { get; }
 
 ### Lihat Juga
 
-* kelas [SetCharWidthBoundingBox](../)
+* class [SetCharWidthBoundingBox](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: SetColor.C
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SetColor. Mengambil atau mengatur komponen cyan
+title: "SetColor.C"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SetColor. Mendapatkan atau mengatur komponen sian"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.operators/setcolor/c/
 ---
-## Properti SetColor.C
+## SetColor.C property
 
-Mengambil atau mengatur komponen cyan.
+Mendapatkan atau mengatur komponen cyan.
 
 ```csharp
 public double C { get; set; }
@@ -16,6 +16,8 @@ public double C { get; set; }
 
 ### Lihat Juga
 
-* kelas [SetColor](../)
+* class [SetColor](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

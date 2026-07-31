@@ -1,14 +1,14 @@
 ---
-title: AttributeName.Height_Auto
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang AttributeName. Tinggi Atribut Otomatis Tinggi elemen akan ditentukan oleh tinggi intrinsik dari kontennya
+title: "AttributeName.Height_Auto"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang AttributeName. Atribut Height Auto  Tinggi elemen akan ditentukan oleh tinggi intrinsik kontennya"
 type: docs
 weight: 190
 url: /id/net/aspose.pdf.logicalstructure/attributename/height_auto/
 ---
-## Bidang AttributeName.Height_Auto
+## AttributeName.Height_Auto field
 
-Tinggi Atribut: Otomatis - Tinggi elemen akan ditentukan oleh tinggi intrinsik dari kontennya.
+Atribut Height: Auto - Tinggi elemen akan ditentukan oleh tinggi intrinsik kontennya.
 
 ```csharp
 public static readonly AttributeName Height_Auto;
@@ -16,6 +16,8 @@ public static readonly AttributeName Height_Auto;
 
 ### Lihat Juga
 
-* kelas [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

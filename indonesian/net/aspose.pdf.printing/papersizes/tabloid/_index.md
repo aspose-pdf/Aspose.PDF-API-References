@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.Tabloid
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSizes. Kertas tabloid 11 in. x 17 in
+title: "PaperSizes.Tabloid"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang PaperSizes. Kertas Tabloid 11 in. x 17 in"
 type: docs
 weight: 1140
 url: /id/net/aspose.pdf.printing/papersizes/tabloid/
 ---
-## Bidang PaperSizes.Tabloid
+## PaperSizes.Tabloid field
 
-Kertas tabloid (11 in. x 17 in.).
+Kertas Tabloid (11 in. x 17 in.).
 
 ```csharp
 public static readonly PaperSize Tabloid;
@@ -16,7 +16,9 @@ public static readonly PaperSize Tabloid;
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,7 +1,7 @@
 ---
-title: CosPdfDictionary.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metode CosPdfDictionary. Menghapus elemen dengan kunci yang ditentukan dari CosPdfDictionary
+title: "CosPdfDictionary.Remove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode CosPdfDictionary. Menghapus elemen dengan kunci yang ditentukan dari CosPdfDictionary"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf.dataeditor/cospdfdictionary/remove/
@@ -16,15 +16,15 @@ public bool Remove(string key)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| key | String | Kunci elemen yang akan dihapus. |
+| kunci | String | Kunci elemen yang akan dihapus. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True jika elemen berhasil dihapus; jika tidak, false. Metode ini juga mengembalikan false jika kunci tidak ditemukan dalam kamus asli atau kunci tidak dapat diedit.
+True jika elemen berhasil dihapus; selainnya, false. Metode ini juga mengembalikan false jika kunci tidak ditemukan dalam kamus asli atau kunci tidak dapat diedit
 
 ### Lihat Juga
 
-* kelas [CosPdfDictionary](../)
+* class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
 
@@ -42,13 +42,15 @@ public bool Remove(KeyValuePair<string, ICosPdfPrimitive> item)
 | --- | --- | --- |
 | item | KeyValuePair`2 | Objek yang akan dihapus dari [`CosPdfDictionary`](../). |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-true jika item berhasil dihapus dari [`CosPdfDictionary`](../); jika tidak, false. Metode ini juga mengembalikan false jika item tidak ditemukan dalam [`CosPdfDictionary`](../).
+true jika item berhasil dihapus dari [`CosPdfDictionary`](../); jika tidak, false. Metode ini juga mengembalikan false jika item tidak ditemukan dalam [`CosPdfDictionary`](../) asli.
 
 ### Lihat Juga
 
-* antarmuka [ICosPdfPrimitive](../../icospdfprimitive/)
-* kelas [CosPdfDictionary](../)
+* interface [ICosPdfPrimitive](../../icospdfprimitive/)
+* class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

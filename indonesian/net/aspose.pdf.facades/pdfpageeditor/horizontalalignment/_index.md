@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.HorizontalAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfPageEditor. Mengambil atau mengatur perataan horizontal konten PDF asli di halaman hasil, default adalah AlignmentType.Left
+title: "PdfPageEditor.HorizontalAlignment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfPageEditor. Mendapatkan atau mengatur perataan horizontal konten PDF asli pada halaman hasil, default adalah AlignmentType.Left"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.facades/pdfpageeditor/horizontalalignment/
 ---
-## Properti PdfPageEditor.HorizontalAlignment
+## PdfPageEditor.HorizontalAlignment property
 
-Mengambil atau mengatur perataan horizontal konten PDF asli di halaman hasil, default adalah AlignmentType.Left.
+Mendapatkan atau mengatur perataan horizontal konten PDF asli pada halaman hasil, default adalah AlignmentType.Left.
 
 ```csharp
 public HorizontalAlignment HorizontalAlignment { get; set; }
@@ -20,3 +20,5 @@ public HorizontalAlignment HorizontalAlignment { get; set; }
 * class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

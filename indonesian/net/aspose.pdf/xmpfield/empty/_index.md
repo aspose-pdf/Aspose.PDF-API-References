@@ -1,14 +1,14 @@
 ---
-title: XmpField.Empty
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XmpField. Mendapatkan field xmp Kosong
+title: "XmpField.Empty"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XmpField. Mendapatkan bidang xmp kosong"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/xmpfield/empty/
 ---
-## Properti XmpField.Empty
+## XmpField.Empty property
 
-Mendapatkan field xmp Kosong.
+Mendapatkan bidang xmp kosong.
 
 ```csharp
 public static XmpField Empty { get; }
@@ -16,6 +16,8 @@ public static XmpField Empty { get; }
 
 ### Lihat Juga
 
-* kelas [XmpField](../)
+* class [XmpField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

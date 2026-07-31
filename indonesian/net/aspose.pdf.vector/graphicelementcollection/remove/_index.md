@@ -1,12 +1,12 @@
 ---
-title: GraphicElementCollection.Remove
-second_title: Aspose.PDF for .NET API Reference
-description: Metode GraphicElementCollection. Menghapus elemen GraphicElement
+title: "GraphicElementCollection.Remove"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode GraphicElementCollection. Menghapus elemen GraphicElement"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.vector/graphicelementcollection/remove/
 ---
-## Metode GraphicElementCollection.Remove
+## GraphicElementCollection.Remove method
 
 Menghapus elemen [`GraphicElement`](../../graphicelement/).
 
@@ -18,13 +18,15 @@ public bool Remove(GraphicElement item)
 | --- | --- | --- |
 | item | GraphicElement | Objek [`GraphicElement`](../../graphicelement/) yang akan dihapus. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 True - jika elemen ditemukan; jika tidak, false.
 
 ### Lihat Juga
 
-* kelas [GraphicElement](../../graphicelement/)
-* kelas [GraphicElementCollection](../)
+* class [GraphicElement](../../graphicelement/)
+* class [GraphicElementCollection](../)
 * namespace [Aspose.Pdf.Vector](../../../aspose.pdf.vector/)
 * assembly [Aspose.PDF](../../../)
+
+

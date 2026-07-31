@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.UploadFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIClient. Mengunggah file secara asinkron ke server OpenAI
+title: "OpenAIClient.UploadFileAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAIClient. Mengunggah file secara asynchronous ke server OpenAI."
 type: docs
-weight: 450
+weight: 460
 url: /id/net/aspose.pdf.ai/openaiclient/uploadfileasync/
 ---
-## Metode OpenAIClient.UploadFileAsync
+## OpenAIClient.UploadFileAsync method
 
-Mengunggah file secara asinkron ke server OpenAI.
+Mengunggah file secara asynchronous ke server OpenAI.
 
 ```csharp
 public Task<FileResponse> UploadFileAsync(string purpose, string fileName, byte[] fileBytes, 
@@ -17,25 +17,27 @@ public Task<FileResponse> UploadFileAsync(string purpose, string fileName, byte[
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| purpose | String | Tujuan pengunggahan file, biasanya menggambarkan bagaimana file akan digunakan. |
+| purpose | String | Tujuan unggahan file, biasanya menjelaskan bagaimana file akan digunakan. |
 | fileName | String | Nama file yang akan diunggah. |
 | fileBytes | Byte[] | Array byte yang berisi data file. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi respons dari pengunggahan file.
+Task yang mewakili operasi asynchronous. Hasil task berisi respons dari unggahan file.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika tujuan file adalah null atau kosong. |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika nama file adalah null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika tujuan file bernilai null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilemparkan ketika nama file bernilai null atau kosong. |
 
 ### Lihat Juga
 
-* kelas [FileResponse](../../fileresponse/)
-* kelas [OpenAIClient](../)
+* class [FileResponse](../../fileresponse/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

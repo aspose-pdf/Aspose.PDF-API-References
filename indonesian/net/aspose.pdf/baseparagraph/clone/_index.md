@@ -1,12 +1,12 @@
 ---
-title: BaseParagraph.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Metode BaseParagraph. Mengkloning instance ini. Metode virtual. Selalu mengembalikan null
+title: "BaseParagraph.Clone"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode BaseParagraph. Mengkloning instance ini. Metode virtual. Selalu mengembalikan null"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf/baseparagraph/clone/
 ---
-## Metode BaseParagraph.Clone
+## BaseParagraph.Clone method
 
 Mengkloning instance ini. Metode virtual. Selalu mengembalikan null.
 
@@ -14,12 +14,14 @@ Mengkloning instance ini. Metode virtual. Selalu mengembalikan null.
 public virtual object Clone()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Null.
 
 ### Lihat Juga
 
-* kelas [BaseParagraph](../)
+* class [BaseParagraph](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

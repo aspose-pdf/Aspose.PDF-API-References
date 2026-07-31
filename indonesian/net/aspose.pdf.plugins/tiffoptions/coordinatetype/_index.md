@@ -1,14 +1,14 @@
 ---
-title: TiffOptions.CoordinateType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TiffOptions. Mendapatkan atau mengatur tipe koordinat halaman Media/Crop boxes. Nilai CropBox digunakan secara default
+title: "TiffOptions.CoordinateType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TiffOptions. Mendapatkan atau mengatur tipe koordinat halaman Media/Crop boxes. Nilai CropBox digunakan secara default"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.plugins/tiffoptions/coordinatetype/
 ---
-## Properti TiffOptions.CoordinateType
+## TiffOptions.CoordinateType property
 
-Mendapatkan atau mengatur tipe koordinat halaman (Media/Crop boxes). Nilai CropBox digunakan secara default.
+Dapatkan atau atur tipe koordinat halaman (Media/Crop boxes). Nilai CropBox digunakan secara default.
 
 ```csharp
 public PageCoordinateType CoordinateType { get; set; }
@@ -20,3 +20,5 @@ public PageCoordinateType CoordinateType { get; set; }
 * class [TiffOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

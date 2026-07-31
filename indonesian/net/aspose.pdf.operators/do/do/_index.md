@@ -1,14 +1,14 @@
 ---
-title: Do.Do
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Do. Membangun operator Do baru
+title: "Do.Do"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Do. Membuat operator Do baru"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/do/do/
 ---
 ## Do(string) {#constructor_1}
 
-Membangun operator Do baru.
+Membuat operator Do baru.
 
 ```csharp
 public Do(string name)
@@ -16,11 +16,11 @@ public Do(string name)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| name | String | Nama dari XObject yang dipanggil. |
+| nama | String | Nama XObject yang dipanggil. |
 
 ### Lihat Juga
 
-* kelas [Do](../)
+* class [Do](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
 
@@ -28,7 +28,7 @@ public Do(string name)
 
 ## Do() {#constructor}
 
-Membangun operator Do baru. Digunakan untuk mengambil semua operator Do, yaitu tanpa memeriksa nama argumen mereka.
+Membuat operator Do baru. Digunakan untuk mengambil semua operator Do, yaitu tanpa memeriksa nama argumen mereka.
 
 ```csharp
 public Do()
@@ -36,6 +36,8 @@ public Do()
 
 ### Lihat Juga
 
-* kelas [Do](../)
+* class [Do](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

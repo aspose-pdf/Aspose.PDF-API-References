@@ -1,12 +1,12 @@
 ---
-title: Page.RotationMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Halaman. Mendapatkan matriks transformasi untuk halaman
+title: "Page.RotationMatrix"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Page. Mendapatkan matriks transformasi untuk halaman."
 type: docs
 weight: 260
 url: /id/net/aspose.pdf/page/rotationmatrix/
 ---
-## Properti Page.RotationMatrix
+## Page.RotationMatrix property
 
 Mendapatkan matriks transformasi untuk halaman.
 
@@ -16,7 +16,9 @@ public Matrix RotationMatrix { get; }
 
 ### Lihat Juga
 
-* kelas [Matrix](../../matrix/)
-* kelas [Page](../)
+* class [Matrix](../../matrix/)
+* class [Page](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

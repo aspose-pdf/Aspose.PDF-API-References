@@ -1,14 +1,14 @@
 ---
-title: SubmitFormAction.ExclFKey
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang SubmitFormAction. Jika diatur, FDF yang dikirimkan akan mengecualikan entri F
+title: "SubmitFormAction.ExclFKey"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field SubmitFormAction. Jika diatur, FDF yang dikirim harus mengecualikan entri F."
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.annotations/submitformaction/exclfkey/
 ---
-## Bidang SubmitFormAction.ExclFKey
+## SubmitFormAction.ExclFKey field
 
-Jika diatur, FDF yang dikirimkan akan mengecualikan entri F.
+Jika diatur, FDF yang dikirimkan harus mengecualikan entri F.
 
 ```csharp
 public const int ExclFKey;
@@ -16,6 +16,8 @@ public const int ExclFKey;
 
 ### Lihat Juga
 
-* kelas [SubmitFormAction](../)
+* class [SubmitFormAction](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

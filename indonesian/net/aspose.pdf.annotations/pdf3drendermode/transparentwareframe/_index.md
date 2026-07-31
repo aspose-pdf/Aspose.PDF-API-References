@@ -1,14 +1,14 @@
 ---
-title: PDF3DRenderMode.TransparentWareFrame
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PDF3DRenderMode. Mode render TransparentWareFrame
+title: "PDF3DRenderMode.TransparentWareFrame"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PDF3DRenderMode field. Mode render TransparentWareFrame"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.annotations/pdf3drendermode/transparentwareframe/
 ---
-## Bidang PDF3DRenderMode.TransparentWareFrame
+## PDF3DRenderMode.TransparentWareFrame field
 
-Mode render "TransparentWareFrame".
+The "TransparentWareFrame" render mode.
 
 ```csharp
 public static PDF3DRenderMode TransparentWareFrame;
@@ -16,6 +16,8 @@ public static PDF3DRenderMode TransparentWareFrame;
 
 ### Lihat Juga
 
-* kelas [PDF3DRenderMode](../)
+* class [PDF3DRenderMode](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

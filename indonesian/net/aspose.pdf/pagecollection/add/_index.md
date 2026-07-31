@@ -1,7 +1,7 @@
 ---
-title: PageCollection.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PageCollection. Menambahkan halaman ke koleksi
+title: "PageCollection.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "metode PageCollection. Menambahkan halaman ke koleksi"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/pagecollection/add/
@@ -16,13 +16,13 @@ public Page Add(Page entity)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| entity | Page | Halaman yang harus ditambahkan. |
+| entitas | Halaman | Halaman yang harus ditambahkan. |
 
-### Return Value
+### Nilai Kembalian
 
 Halaman yang ditambahkan.
 
-### See Also
+### Lihat Juga
 
 * class [Page](../../page/)
 * class [PageCollection](../)
@@ -33,17 +33,17 @@ Halaman yang ditambahkan.
 
 ## Add() {#add}
 
-Menambahkan halaman kosong. Jika dokumen sudah berisi halaman dengan ukuran yang bervariasi, ukuran halaman yang paling sering muncul akan dipilih. Jika hanya ada dua halaman yang berbeda, ukuran halaman pertama akan digunakan.
+Menambahkan halaman kosong. Jika dokumen sudah berisi halaman dengan ukuran yang berbeda-beda, ukuran halaman yang paling sering muncul akan dipilih. Jika hanya ada dua halaman yang berbeda, ukuran halaman pertama akan digunakan.
 
 ```csharp
 public Page Add()
 ```
 
-### Return Value
+### Nilai Kembalian
 
 Halaman yang ditambahkan.
 
-### See Also
+### Lihat Juga
 
 * class [Page](../../page/)
 * class [PageCollection](../)
@@ -54,7 +54,7 @@ Halaman yang ditambahkan.
 
 ## Add(ICollection&lt;Page&gt;) {#add_3}
 
-Menambahkan ke koleksi semua halaman dari daftar.
+Menambahkan semua halaman dari daftar ke koleksi.
 
 ```csharp
 public void Add(ICollection<Page> pages)
@@ -62,9 +62,9 @@ public void Add(ICollection<Page> pages)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pages | ICollection`1 | Daftar yang berisi semua halaman yang harus ditambahkan. |
+| halaman | ICollection`1 | Daftar yang berisi semua halaman yang harus ditambahkan. |
 
-### See Also
+### Lihat Juga
 
 * class [Page](../../page/)
 * class [PageCollection](../)
@@ -75,7 +75,7 @@ public void Add(ICollection<Page> pages)
 
 ## Add(Page[]) {#add_2}
 
-Menambahkan ke koleksi semua halaman dari array.
+Menambahkan semua halaman dari array ke koleksi.
 
 ```csharp
 public void Add(Page[] pages)
@@ -83,11 +83,13 @@ public void Add(Page[] pages)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| pages | Page[] | Array halaman yang akan ditambahkan. |
+| halaman | Page[] | Array halaman yang akan ditambahkan. |
 
-### See Also
+### Lihat Juga
 
 * class [Page](../../page/)
 * class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

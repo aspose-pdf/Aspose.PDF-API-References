@@ -1,14 +1,14 @@
 ---
-title: ToUnicodeProcessingRules.ToUnicodeProcessingRules
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor AturanPemrosesanToUnicode. Menginisialisasi instance baru dari kelas AturanPemrosesanToUnicode
+title: "ToUnicodeProcessingRules.ToUnicodeProcessingRules"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor ToUnicodeProcessingRules. Menginisialisasi instance baru dari kelas ToUnicodeProcessingRules"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/tounicodeprocessingrules/tounicodeprocessingrules/
 ---
-## AturanPemrosesanToUnicode() {#constructor}
+## ToUnicodeProcessingRules() {#constructor}
 
-Menginisialisasi instance baru dari kelas [`AturanPemrosesanToUnicode`](../).
+Menginisialisasi instance baru dari kelas [`ToUnicodeProcessingRules`](../).
 
 ```csharp
 public ToUnicodeProcessingRules()
@@ -16,15 +16,15 @@ public ToUnicodeProcessingRules()
 
 ### Lihat Juga
 
-* kelas [AturanPemrosesanToUnicode](../)
+* class [ToUnicodeProcessingRules](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## AturanPemrosesanToUnicode(bool) {#constructor_1}
+## ToUnicodeProcessingRules(bool) {#constructor_1}
 
-Menginisialisasi instance baru dari kelas [`AturanPemrosesanToUnicode`](../) dengan opsi yang ditentukan untuk menghapus spasi dari nama CMap.
+Menginisialisasi instance baru dari kelas [`ToUnicodeProcessingRules`](../) dengan opsi yang ditentukan untuk menghapus spasi dari nama CMap.
 
 ```csharp
 public ToUnicodeProcessingRules(bool removeSpaces)
@@ -32,19 +32,19 @@ public ToUnicodeProcessingRules(bool removeSpaces)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| removeSpaces | Boolean | Nilai boolean yang menunjukkan apakah akan menghapus spasi dari nama CMap. |
+| removeSpaces | Boolean | Nilai boolean yang menunjukkan apakah spasi harus dihapus dari nama CMap. |
 
 ### Lihat Juga
 
-* kelas [AturanPemrosesanToUnicode](../)
+* class [ToUnicodeProcessingRules](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## AturanPemrosesanToUnicode(bool, bool) {#constructor_2}
+## ToUnicodeProcessingRules(bool, bool) {#constructor_2}
 
-Menginisialisasi instance baru dari kelas [`AturanPemrosesanToUnicode`](../) dengan opsi yang ditentukan.
+Menginisialisasi instance baru dari kelas [`ToUnicodeProcessingRules`](../) dengan opsi yang ditentukan.
 
 ```csharp
 public ToUnicodeProcessingRules(bool removeSpaces, bool mapNonLinkedUnicodesOnSpace)
@@ -57,6 +57,8 @@ public ToUnicodeProcessingRules(bool removeSpaces, bool mapNonLinkedUnicodesOnSp
 
 ### Lihat Juga
 
-* kelas [AturanPemrosesanToUnicode](../)
+* class [ToUnicodeProcessingRules](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

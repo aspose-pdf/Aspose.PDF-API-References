@@ -1,14 +1,14 @@
 ---
-title: Enum FreeTextIntent
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Annotations.FreeTextIntent. Mengenumerasi niat dari anotasi teks bebas
+title: "Enum FreeTextIntent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Annotations.FreeTextIntent enum. Menumerasikan maksud dari anotasi teks bebas"
 type: docs
-weight: 1820
+weight: 1910
 url: /id/net/aspose.pdf.annotations/freetextintent/
 ---
-## Enumerasi FreeTextIntent
+## FreeTextIntent enumeration
 
-Mengenumerasi niat dari anotasi teks bebas.
+Menumerasikan maksud anotasi teks bebas.
 
 ```csharp
 public enum FreeTextIntent
@@ -19,10 +19,12 @@ public enum FreeTextIntent
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | Undefined | `0` | Status tidak terdefinisi. |
-| FreeTextCallout | `1` | Berarti bahwa anotasi dimaksudkan untuk berfungsi sebagai panggilan. |
-| FreeTextTypeWriter | `2` | Berarti bahwa anotasi dimaksudkan untuk berfungsi sebagai objek klik-untuk-ketik atau mesin ketik. |
+| FreeTextCallout | `1` | Berarti bahwa anotasi dimaksudkan untuk berfungsi sebagai penanda. |
+| FreeTextTypeWriter | `2` | Berarti bahwa anotasi dimaksudkan untuk berfungsi sebagai objek klik-untuk-mengetik atau mesin tik. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

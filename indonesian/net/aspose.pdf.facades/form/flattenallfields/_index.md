@@ -1,14 +1,14 @@
 ---
-title: Form.FlattenAllFields
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Meratakan semua bidang
+title: "Form.FlattenAllFields"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Meratakan semua bidang"
 type: docs
 weight: 160
 url: /id/net/aspose.pdf.facades/form/flattenallfields/
 ---
-## Metode Form.FlattenAllFields
+## Form.FlattenAllFields method
 
-Meratakan semua bidang.
+Menyatukan semua bidang.
 
 ```csharp
 public void FlattenAllFields()
@@ -23,6 +23,8 @@ form.FlattenAllFields();
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

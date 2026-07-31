@@ -1,25 +1,27 @@
 ---
-title: Color.IndianRed
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FFCD5C5C
+title: "Color.IndianRed"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang ditentukan sistem dengan nilai ARGB c FFCD5C5C"
 type: docs
 weight: 570
 url: /id/net/aspose.pdf/color/indianred/
 ---
-## Properti Color.IndianRed
+## Color.IndianRed property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFCD5C5C.
+Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB \c \#FFCD5C5C.
 
 ```csharp
 public static Color IndianRed { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah representasi warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

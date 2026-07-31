@@ -1,12 +1,12 @@
 ---
-title: Position.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Position. Menentukan apakah objek yang ditentukan sama dengan objek Position saat ini
+title: "Position.Equals"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Position. Menentukan apakah objek yang ditentukan sama dengan objek Position saat ini."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.text/position/equals/
 ---
-## Metode Position.Equals
+## Position.Equals method
 
 Menentukan apakah objek yang ditentukan sama dengan objek [`Position`](../) saat ini.
 
@@ -16,14 +16,16 @@ public override bool Equals(object obj)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| obj | Objek | Objek yang diperiksa untuk kesetaraan. |
+| obj | Object | Objek yang diperiksa untuk kesetaraan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-True jika objek sama.
+True jika objek-objek tersebut sama.
 
 ### Lihat Juga
 
-* kelas [Position](../)
+* class [Position](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

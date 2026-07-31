@@ -1,12 +1,12 @@
 ---
-title: PrinterSettings.PrinterSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PrinterSettings. Konstruktor default
+title: "PrinterSettings.PrinterSettings"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PrinterSettings. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.printing/printersettings/printersettings/
 ---
-## Konstruktor PrinterSettings
+## PrinterSettings constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public PrinterSettings()
 
 ### Lihat Juga
 
-* kelas [PrinterSettings](../)
+* class [PrinterSettings](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

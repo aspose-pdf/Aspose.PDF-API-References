@@ -1,12 +1,12 @@
 ---
-title: PdfToImage.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfToImage. Memulai pemrosesan dengan parameter yang ditentukan
+title: "PdfToImage.Process"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfToImage. Memulai pemrosesan dengan parameter yang ditentukan"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/pdftoimage/process/
 ---
-## Metode PdfToImage.Process
+## PdfToImage.Process method
 
 Memulai pemrosesan dengan parameter yang ditentukan.
 
@@ -18,14 +18,16 @@ public ResultContainer Process(IPluginOptions pdfImageOptions)
 | --- | --- | --- |
 | pdfImageOptions | IPluginOptions | Objek opsi yang berisi instruksi untuk PdfImage. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Objek ResultContainer yang berisi hasil konversi.
 
 ### Lihat Juga
 
-* kelas [ResultContainer](../../resultcontainer/)
-* antarmuka [IPluginOptions](../../ipluginoptions/)
-* kelas [PdfToImage](../)
-* ruang nama [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
+* class [ResultContainer](../../resultcontainer/)
+* interface [IPluginOptions](../../ipluginoptions/)
+* class [PdfToImage](../)
+* namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

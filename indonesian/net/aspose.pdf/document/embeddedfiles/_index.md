@@ -1,12 +1,12 @@
 ---
-title: Document.EmbeddedFiles
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Mendapatkan koleksi file yang disematkan ke dokumen
+title: "Document.EmbeddedFiles"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Document properti. Mendapatkan koleksi file yang disematkan ke dokumen."
 type: docs
-weight: 140
+weight: 150
 url: /id/net/aspose.pdf/document/embeddedfiles/
 ---
-## Properti Document.EmbeddedFiles
+## Document.EmbeddedFiles property
 
 Mendapatkan koleksi file yang disematkan ke dokumen.
 
@@ -16,7 +16,9 @@ public EmbeddedFileCollection EmbeddedFiles { get; }
 
 ### Lihat Juga
 
-* kelas [EmbeddedFileCollection](../../embeddedfilecollection/)
-* kelas [Document](../)
+* class [EmbeddedFileCollection](../../embeddedfilecollection/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

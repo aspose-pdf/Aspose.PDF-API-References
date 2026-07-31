@@ -1,14 +1,14 @@
 ---
-title: Matrix.GetFlipMatrix
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Matrix. Mendapatkan matriks flipping
+title: "Matrix.GetFlipMatrix"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Matrix. Mendapatkan matriks pembalik"
 type: docs
 weight: 150
 url: /id/net/aspose.pdf/matrix/getflipmatrix/
 ---
-## Metode Matrix.GetFlipMatrix
+## Matrix.GetFlipMatrix method
 
-Mendapatkan matriks flipping.
+Mendapatkan matriks pembalik.
 
 ```csharp
 public Matrix GetFlipMatrix()
@@ -16,6 +16,8 @@ public Matrix GetFlipMatrix()
 
 ### Lihat Juga
 
-* kelas [Matrix](../)
+* class [Matrix](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

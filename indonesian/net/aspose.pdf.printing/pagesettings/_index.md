@@ -1,14 +1,14 @@
 ---
-title: Class PageSettings
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Printing.PageSettings. Menentukan pengaturan yang berlaku untuk satu halaman cetak
+title: "Kelas PageSettings"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Printing.PageSettings class. Menentukan pengaturan yang berlaku untuk satu halaman tercetak"
 type: docs
-weight: 9540
+weight: 9690
 url: /id/net/aspose.pdf.printing/pagesettings/
 ---
-## Kelas PageSettings
+## PageSettings class
 
-Menentukan pengaturan yang berlaku untuk satu halaman cetak.
+Menentukan pengaturan yang diterapkan pada satu halaman yang dicetak.
 
 ```csharp
 public class PageSettings
@@ -26,22 +26,24 @@ public class PageSettings
 | Nama | Deskripsi |
 | --- | --- |
 | [Bounds](../../aspose.pdf.printing/pagesettings/bounds/) { get; } | Mendapatkan batas halaman, dengan mempertimbangkan properti Landscape. |
-| [Color](../../aspose.pdf.printing/pagesettings/color/) { get; set; } | Mendapatkan atau menetapkan nilai yang menunjukkan apakah halaman dicetak dalam warna. |
+| [Color](../../aspose.pdf.printing/pagesettings/color/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah halaman dicetak dalam warna. |
 | [IsDefaultMargins](../../aspose.pdf.printing/pagesettings/isdefaultmargins/) { get; } |  |
-| [Landscape](../../aspose.pdf.printing/pagesettings/landscape/) { get; set; } | Mendapatkan atau menetapkan nilai yang menunjukkan apakah halaman harus dicetak dalam orientasi lanskap atau potret. |
-| [Margins](../../aspose.pdf.printing/pagesettings/margins/) { get; set; } | Mendapatkan atau menetapkan nilai yang menunjukkan margin untuk halaman ini. |
-| [PaperSize](../../aspose.pdf.printing/pagesettings/papersize/) { get; set; } | Mendapatkan atau menetapkan ukuran kertas. |
-| [PaperSource](../../aspose.pdf.printing/pagesettings/papersource/) { get; set; } | Mendapatkan atau menetapkan nilai yang menunjukkan sumber kertas (yaitu, bin atas). |
-| [PrinterResolution](../../aspose.pdf.printing/pagesettings/printerresolution/) { get; set; } | Mendapatkan atau menetapkan resolusi printer untuk halaman. |
-| [PrinterSettings](../../aspose.pdf.printing/pagesettings/printersettings/) { get; set; } | Mendapatkan atau menetapkan pengaturan printer yang terkait. |
+| [Landscape](../../aspose.pdf.printing/pagesettings/landscape/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan apakah halaman harus dicetak dalam orientasi lanskap atau potret. |
+| [Margins](../../aspose.pdf.printing/pagesettings/margins/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan margin untuk halaman ini. |
+| [PaperSize](../../aspose.pdf.printing/pagesettings/papersize/) { get; set; } | Mendapatkan atau mengatur ukuran kertas. |
+| [PaperSource](../../aspose.pdf.printing/pagesettings/papersource/) { get; set; } | Mendapatkan atau mengatur nilai yang menunjukkan sumber kertas (misalnya tempat atas). |
+| [PrinterResolution](../../aspose.pdf.printing/pagesettings/printerresolution/) { get; set; } | Mendapatkan atau mengatur resolusi printer untuk halaman. |
+| [PrinterSettings](../../aspose.pdf.printing/pagesettings/printersettings/) { get; set; } | Mendapatkan atau mengatur pengaturan printer yang terkait. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [ToString](../../aspose.pdf.printing/pagesettings/tostring/)() | Menyediakan informasi menarik tentang PageSettings dalam bentuk String. |
+| override [ToString](../../aspose.pdf.printing/pagesettings/tostring/)() | Memberikan beberapa informasi menarik tentang PageSettings dalam bentuk String. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Printing](../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../)
+
+

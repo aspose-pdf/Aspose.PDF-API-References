@@ -1,12 +1,12 @@
 ---
-title: TextExtractionError.ToString
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextExtractionError. Mengembalikan representasi string
+title: "TextExtractionError.ToString"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TextExtractionError. Mengembalikan representasi string"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.text/textextractionerror/tostring/
 ---
-## Metode TextExtractionError.ToString
+## TextExtractionError.ToString method
 
 Mengembalikan representasi string.
 
@@ -14,12 +14,14 @@ Mengembalikan representasi string.
 public override string ToString()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Representasi string.
 
 ### Lihat Juga
 
-* kelas [TextExtractionError](../)
-* ruang nama [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextExtractionError](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

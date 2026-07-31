@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.DocumentWillSave
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PdfContentEditor. Jenis acara dokumen. Lakukan aksi sebelum menyimpan
+title: "PdfContentEditor.DocumentWillSave"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfContentEditor bidang. Tipe peristiwa dokumen. Menjalankan aksi sebelum menyimpan"
 type: docs
 weight: 520
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/documentwillsave/
 ---
 ## PdfContentEditor.DocumentWillSave field
 
-Jenis acara dokumen. Lakukan aksi sebelum menyimpan.
+Jenis peristiwa dokumen. Menjalankan aksi sebelum menyimpan.
 
 ```csharp
 public const string DocumentWillSave;
@@ -19,3 +19,5 @@ public const string DocumentWillSave;
 * class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

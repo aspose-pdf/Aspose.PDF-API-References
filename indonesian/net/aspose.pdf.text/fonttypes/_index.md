@@ -1,14 +1,14 @@
 ---
-title: Enum FontTypes
-second_title: Aspose.PDF for .NET API Reference
-description: Enum FontTypes Aspose.Pdf.Text. Enumerasi jenis font yang didukung
+title: "Enum FontTypes"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Text.FontTypes enum. Enumerasi tipe font yang didukung"
 type: docs
-weight: 10600
+weight: 10780
 url: /id/net/aspose.pdf.text/fonttypes/
 ---
-## Enumerasi FontTypes
+## FontTypes enumeration
 
-Enumerasi jenis font yang didukung.
+Enumerasi tipe font yang didukung.
 
 ```csharp
 public enum FontTypes
@@ -18,10 +18,12 @@ public enum FontTypes
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| TTF | `0` | Jenis font TTF |
-| OTF | `1` | Jenis font OTF |
+| TTF | `0` | Tipe font TTF |
+| OTF | `1` | Tipe font OTF |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PageDevice.Process
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PageDevice. Melakukan beberapa operasi pada halaman yang diberikan, misalnya mengonversi halaman menjadi gambar grafis
+title: "PageDevice.Process"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PageDevice. Melakukan beberapa operasi pada halaman yang diberikan, misalnya mengonversi halaman menjadi gambar grafis"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.devices/pagedevice/process/
 ---
 ## Process(Page, Stream) {#process}
 
-Melakukan beberapa operasi pada halaman yang diberikan, misalnya mengonversi halaman menjadi gambar grafis.
+Melakukan beberapa operasi pada page yang diberikan, misalnya mengonversi page menjadi gambar grafis.
 
 ```csharp
 public abstract void Process(Page page, Stream output)
@@ -16,8 +16,8 @@ public abstract void Process(Page page, Stream output)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman yang akan diproses. |
-| output | Stream | Stream ini berisi hasil pemrosesan. |
+| halaman | Halaman | Halaman yang akan diproses. |
+| output | Stream | Aliran ini berisi hasil pemrosesan. |
 
 ### Lihat Juga
 
@@ -38,7 +38,7 @@ public void Process(Page page, string outputFileName)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Page | Halaman yang akan diproses. |
+| halaman | Halaman | Halaman yang akan diproses. |
 | outputFileName | String | File ini berisi hasil pemrosesan. |
 
 ### Lihat Juga
@@ -47,3 +47,5 @@ public void Process(Page page, string outputFileName)
 * class [PageDevice](../)
 * namespace [Aspose.Pdf.Devices](../../../aspose.pdf.devices/)
 * assembly [Aspose.PDF](../../../)
+
+

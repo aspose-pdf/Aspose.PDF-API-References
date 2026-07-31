@@ -1,14 +1,14 @@
 ---
-title: StructureTypeCategory.IllustrationElements
-second_title: Aspose.PDF for .NET API Reference
-description: Field StructureTypeCategory. Elemen ilustrasi adalah urutan konten yang kompak dalam urutan konten halaman yang dianggap sebagai objek unitari sehubungan dengan tata letak halaman. Sebuah ilustrasi dapat diperlakukan sebagai BLSE atau ILSE
+title: "StructureTypeCategory.IllustrationElements"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field StructureTypeCategory. Elemen ilustrasi adalah urutan konten yang padat dalam urutan konten halaman yang dianggap sebagai objek tunggal terhadap tata letak halaman. Sebuah ilustrasi dapat diperlakukan sebagai BLSE atau ILSE."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.logicalstructure/structuretypecategory/illustrationelements/
 ---
-## Field StructureTypeCategory.IllustrationElements
+## StructureTypeCategory.IllustrationElements field
 
-Elemen ilustrasi adalah urutan konten yang kompak, dalam urutan konten halaman, yang dianggap sebagai objek unitari sehubungan dengan tata letak halaman. Sebuah ilustrasi dapat diperlakukan sebagai BLSE atau ILSE.
+Elemen ilustrasi adalah urutan konten yang padat, dalam urutan konten halaman, yang dianggap sebagai objek satuan terkait tata letak halaman. Sebuah ilustrasi dapat diperlakukan sebagai BLSE atau ILSE.
 
 ```csharp
 public static readonly StructureTypeCategory IllustrationElements;
@@ -16,6 +16,8 @@ public static readonly StructureTypeCategory IllustrationElements;
 
 ### Lihat Juga
 
-* kelas [StructureTypeCategory](../)
+* class [StructureTypeCategory](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

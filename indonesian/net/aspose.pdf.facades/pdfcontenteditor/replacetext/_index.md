@@ -1,14 +1,14 @@
 ---
-title: PdfContentEditor.ReplaceText
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Mengganti teks dalam file PDF pada halaman yang ditentukan. Warna keluarga font objek TextState dapat ditentukan untuk teks yang diganti
+title: "PdfContentEditor.ReplaceText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfContentEditor. Mengganti teks dalam file PDF pada halaman yang ditentukan. Objek TextState font family dan warna dapat ditentukan untuk teks yang diganti."
 type: docs
 weight: 450
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/replacetext/
 ---
 ## ReplaceText(string, int, string, TextState) {#replacetext_1}
 
-Mengganti teks dalam file PDF pada halaman yang ditentukan. Objek [`TextState`](../../../aspose.pdf.text/textstate/) (keluarga font, warna) dapat ditentukan untuk teks yang diganti.
+Mengganti teks dalam file PDF pada halaman yang ditentukan. Objek [`TextState`](../../../aspose.pdf.text/textstate/) (font family, warna) dapat ditentukan untuk teks yang diganti.
 
 ```csharp
 public bool ReplaceText(string srcString, int thePage, string destString, TextState textState)
@@ -18,47 +18,47 @@ public bool ReplaceText(string srcString, int thePage, string destString, TextSt
 | --- | --- | --- |
 | srcString | String | String yang akan diganti. |
 | thePage | Int32 | Nomor halaman (0 berarti "semua halaman"). |
-| destString | String | String yang diganti. |
+| destString | String | String yang telah diganti. |
 | textState | TextState | Status teks (Warna Teks, Font, dll). |
 
-### Return Value
+### Nilai Kembalian
 
 Mengembalikan true jika penggantian dilakukan.
 
 ## Contoh
 
-Contoh ini menunjukkan cara mengganti teks di halaman pertama dokumen PDF dan mengatur properti teks [`TextState`](../../../aspose.pdf.text/textstate/) untuk teks baru.
+Contoh ini menunjukkan cara mengganti teks pada halaman pertama dokumen PDF dan mengatur properti teks [`TextState`](../../../aspose.pdf.text/textstate/) untuk teks baru.
 
 ```csharp
-// open document
+// buka dokumen
 Document doc = new Document(inFile);
 
-// Create font and mark it to be embedded
+// Buat font dan tandai agar disematkan
 Aspose.Pdf.Text.Font font = FontRepository.FindFont("Courier New");
 font.IsEmbedded = true;
 
-// create PdfContentEditor object to edit text
+// buat objek PdfContentEditor untuk mengedit teks
 PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf(doc);
 
-// create textState object
+// buat objek textState
 TextState textState = new TextState();
 textState.Font = font;
 textState.FontSize = 17;
 textState.FontStyle = FontStyle.Bold | FontStyle.Italic;
 textState.ForegroundColor = Color.Red;
 
-// change text with specified font
+// ubah teks dengan font yang ditentukan
 editor.ReplaceText("hello world", 1, "hi world", textState);
 
-// save document
+// simpan dokumen
 doc.Save(outFile);
 ```
 
 ### Lihat Juga
 
-* kelas [TextState](../../../aspose.pdf.text/textstate/)
-* kelas [PdfContentEditor](../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -75,9 +75,9 @@ public bool ReplaceText(string srcString, string destString)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | srcString | String | String yang akan diganti. |
-| destString | String | String pengganti. |
+| destString | String | Mengganti string. |
 
-### Return Value
+### Nilai Kembalian
 
 Mengembalikan true jika penggantian dilakukan.
 
@@ -86,23 +86,23 @@ Mengembalikan true jika penggantian dilakukan.
 Contoh ini menunjukkan cara mengganti teks dalam dokumen PDF.
 
 ```csharp
-// open document
+// buka dokumen
 Document doc = new Document(inFile);
 
-// create PdfContentEditor object to edit text
+// buat objek PdfContentEditor untuk mengedit teks
 PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf(doc);
 
-// change text 
+// ubah teks 
 editor.ReplaceText("hello world", "hi world");
 
-// save document
+// simpan dokumen
 doc.Save(outFile);
 ```
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -120,9 +120,9 @@ public bool ReplaceText(string srcString, int thePage, string destString)
 | --- | --- | --- |
 | srcString | String | String yang akan diganti. |
 | thePage | Int32 | Nomor halaman (0 untuk semua halaman) |
-| destString | String | String pengganti. |
+| destString | String | Mengganti string. |
 
-### Return Value
+### Nilai Kembalian
 
 Mengembalikan true jika penggantian dilakukan.
 
@@ -131,23 +131,23 @@ Mengembalikan true jika penggantian dilakukan.
 Contoh ini menunjukkan cara mengganti teks dalam dokumen PDF pada halaman yang ditentukan.
 
 ```csharp
-// open document
+// buka dokumen
 Document doc = new Document(inFile);
 
-// create PdfContentEditor object to edit text
+// buat objek PdfContentEditor untuk mengedit teks
 PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf(doc);
 
-// change text 
+// ubah teks 
 editor.ReplaceText("hello world", 1, "hi world");
 
-// save document
+// simpan dokumen
 doc.Save(outFile);
 ```
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -164,10 +164,10 @@ public bool ReplaceText(string srcString, string destString, TextState textState
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | srcString | String | String yang akan diganti |
-| destString | String | String pengganti |
+| destString | String | Mengganti string |
 | textState | TextState | Status teks (Warna Teks, Font, dll) |
 
-### Return Value
+### Nilai Kembalian
 
 Mengembalikan true jika penggantian dilakukan.
 
@@ -176,33 +176,33 @@ Mengembalikan true jika penggantian dilakukan.
 Contoh ini menunjukkan cara mengganti teks dan mengatur properti teks [`TextState`](../../../aspose.pdf.text/textstate/) untuk teks baru.
 
 ```csharp
-// open document
+// buka dokumen
 Document doc = new Document(inFile);
 
-// Create font and mark it to be embedded
+// Buat font dan tandai agar disematkan
 Aspose.Pdf.Text.Font font = FontRepository.FindFont("Courier New");
 font.IsEmbedded = true;
 
-// create PdfContentEditor object to edit text
+// buat objek PdfContentEditor untuk mengedit teks
 PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf(doc);
 
-// create textState object
+// buat objek textState
 TextState textState = new TextState();
 textState.Font = font;
 textState.FontStyle = FontStyle.Bold | FontStyle.Italic;
 
-// change text with specified font
+// ubah teks dengan font yang ditentukan
 editor.ReplaceText("hello world", "hi world", textState);
 
-// save document
+// simpan dokumen
 doc.Save(outFile);
 ```
 
 ### Lihat Juga
 
-* kelas [TextState](../../../aspose.pdf.text/textstate/)
-* kelas [PdfContentEditor](../)
+* class [TextState](../../../aspose.pdf.text/textstate/)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -219,10 +219,10 @@ public bool ReplaceText(string srcString, string destString, int fontSize)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | srcString | String | String yang akan diganti. |
-| destString | String | String pengganti. |
+| destString | String | Mengganti string. |
 | fontSize | Int32 | Ukuran font. |
 
-### Return Value
+### Nilai Kembalian
 
 Mengembalikan true jika penggantian dilakukan.
 
@@ -231,26 +231,28 @@ Mengembalikan true jika penggantian dilakukan.
 Contoh ini menunjukkan cara mengganti teks dan mengatur ukuran font untuk teks baru.
 
 ```csharp
-// open document
+// buka dokumen
 Document doc = new Document(inFile);
 
-// Create font and mark it to be embedded
+// Buat font dan tandai agar disematkan
 Aspose.Pdf.Text.Font font = FontRepository.FindFont("Courier New");
 font.IsEmbedded = true;
 
-// create PdfContentEditor object to edit text
+// buat objek PdfContentEditor untuk mengedit teks
 PdfContentEditor editor = new PdfContentEditor();
 editor.BindPdf(doc);
 
-// change text with specified font
+// ubah teks dengan font yang ditentukan
 editor.ReplaceText("hello world", "hi world", 14);
 
-// save document
+// simpan dokumen
 doc.Save(outFile);
 ```
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

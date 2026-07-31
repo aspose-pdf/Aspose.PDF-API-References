@@ -1,14 +1,14 @@
 ---
-title: LinkElement.Hyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Properti LinkElement. Mendapatkan atau Mengatur Hyperlink untuk Elemen Tautan
+title: "LinkElement.Hyperlink"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti LinkElement. Mendapatkan atau Mengatur Hyperlink untuk Elemen Tautan."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.logicalstructure/linkelement/hyperlink/
 ---
-## Properti LinkElement.Hyperlink
+## LinkElement.Hyperlink property
 
-Mendapatkan atau Mengatur Hyperlink untuk Elemen Tautan.
+Mendapatkan atau Mengatur Hyperlink untuk Elemen Link.
 
 ```csharp
 public Hyperlink Hyperlink { get; set; }
@@ -16,7 +16,9 @@ public Hyperlink Hyperlink { get; set; }
 
 ### Lihat Juga
 
-* kelas [Hyperlink](../../../aspose.pdf/hyperlink/)
-* kelas [LinkElement](../)
+* class [Hyperlink](../../../aspose.pdf/hyperlink/)
+* class [LinkElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

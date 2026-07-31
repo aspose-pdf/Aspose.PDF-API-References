@@ -1,14 +1,14 @@
 ---
-title: Class Security
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.Security. Mewakili plugin Keamanan
+title: "Kelas Security"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.Security. Menyatakan plugin Security"
 type: docs
-weight: 9230
+weight: 9380
 url: /id/net/aspose.pdf.plugins/security/
 ---
-## Kelas Keamanan
+## Security class
 
-Mewakili plugin `Security`.
+Menyatakan plugin `Security`.
 
 ```csharp
 public sealed class Security : IPlugin
@@ -31,35 +31,37 @@ public sealed class Security : IPlugin
 Contoh ini menunjukkan cara mengenkripsi dokumen PDF.
 
 ```csharp
-// create Security 
+// buat Security 
 var plugin = new Security();
-// create EncryptionOptions object to set instructions
+// buat objek EncryptionOptions untuk mengatur instruksi
 var opt = new EncryptionOptions("123456", "qwerty", DocumentPrivilege.ForbidAll));
-// add input file path
+// tambahkan jalur file input
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// atur jalur file output
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// lakukan proses
 plugin.Process(opt);
 ```
 
 Contoh ini menunjukkan cara mendekripsi dokumen PDF.
 
 ```csharp
-// create Security 
+// buat Security 
 var plugin = new Security();
-// create DecryptionOptions object to set instructions
+// buat objek DecryptionOptions untuk mengatur instruksi
 var opt = new DecryptionOptions("123456"));
-// add input file path
+// tambahkan jalur file input
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// atur jalur file output
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// lakukan proses
 plugin.Process(opt);
 ```
 
 ### Lihat Juga
 
-* antarmuka [IPlugin](../iplugin/)
-* ruang nama [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

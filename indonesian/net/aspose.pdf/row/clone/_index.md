@@ -1,25 +1,27 @@
 ---
-title: Row.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Row. Kloning baris
+title: "Row.Clone"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Row. Menggandakan baris"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf/row/clone/
 ---
-## Metode Row.Clone
+## Row.Clone method
 
-Kloning baris.
+Duplikat baris.
 
 ```csharp
 public object Clone()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Objek yang dikloning
+Objek yang digandakan
 
 ### Lihat Juga
 
-* kelas [Row](../)
+* class [Row](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Rectangle.Width
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Rectangle. Lebar persegi panjang
+title: "Rectangle.Width"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Rectangle. Lebar rectangle"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf/rectangle/width/
 ---
-## Properti Rectangle.Width
+## Rectangle.Width property
 
 Lebar persegi panjang.
 
@@ -16,6 +16,8 @@ public double Width { get; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../)
+* class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

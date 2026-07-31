@@ -1,14 +1,14 @@
 ---
-title: OptimizationOptions.LinkDuplcateStreams
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OptimizationOptions. Jika bendera ini diatur ke true, aliran Sumber akan dianalisis. Jika aliran duplikat ditemukan, yaitu jika konten aliran sama, maka aliran ini akan disimpan sebagai satu objek. Ini memungkinkan untuk mengurangi ukuran dokumen dalam beberapa kasus, misalnya ketika dokumen yang sama digabungkan beberapa kali.
+title: "OptimizationOptions.LinkDuplcateStreams"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OptimizationOptions. Jika flag ini diatur ke true, aliran sumber daya akan dianalisis. Jika aliran duplikat ditemukan, misalnya jika isi aliran sama, maka aliran tersebut akan disimpan sebagai satu objek. Ini memungkinkan mengurangi ukuran dokumen dalam beberapa kasus, misalnya ketika dokumen yang sama digabungkan beberapa kali."
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.optimization/optimizationoptions/linkduplcatestreams/
 ---
-## Properti OptimizationOptions.LinkDuplcateStreams
+## OptimizationOptions.LinkDuplcateStreams property
 
-Jika bendera ini diatur ke true, aliran Sumber akan dianalisis. Jika aliran duplikat ditemukan (yaitu jika konten aliran sama), maka aliran ini akan disimpan sebagai satu objek. Ini memungkinkan untuk mengurangi ukuran dokumen dalam beberapa kasus (misalnya, ketika dokumen yang sama digabungkan beberapa kali).
+Jika flag ini diatur ke true, Resource streams akan dianalisis. Jika aliran duplikat ditemukan (misalnya jika isi aliran sama), maka aliran tersebut akan disimpan sebagai satu objek. Hal ini memungkinkan mengurangi ukuran dokumen dalam beberapa kasus (misalnya, ketika dokumen yang sama digabungkan beberapa kali).
 
 ```csharp
 public bool LinkDuplcateStreams { get; set; }
@@ -16,6 +16,8 @@ public bool LinkDuplcateStreams { get; set; }
 
 ### Lihat Juga
 
-* kelas [OptimizationOptions](../)
-* ruang nama [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
+* class [OptimizationOptions](../)
+* namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

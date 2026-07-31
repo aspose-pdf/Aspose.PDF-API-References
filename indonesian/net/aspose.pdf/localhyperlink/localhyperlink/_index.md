@@ -1,7 +1,7 @@
 ---
-title: LocalHyperlink.LocalHyperlink
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor LocalHyperlink. Menginisialisasi instance baru dari kelas LocalHyperlink
+title: "LocalHyperlink.LocalHyperlink"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor LocalHyperlink. Menginisialisasi instance baru dari kelas LocalHyperlink"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/localhyperlink/localhyperlink/
@@ -16,7 +16,7 @@ public LocalHyperlink()
 
 ### Lihat Juga
 
-* kelas [LocalHyperlink](../)
+* class [LocalHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,7 +36,9 @@ public LocalHyperlink(BaseParagraph target)
 
 ### Lihat Juga
 
-* kelas [BaseParagraph](../../baseparagraph/)
-* kelas [LocalHyperlink](../)
+* class [BaseParagraph](../../baseparagraph/)
+* class [LocalHyperlink](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionProperty.XmpPdfAExtensionProperty
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor XmpPdfAExtensionProperty. Menginisialisasi objek baru
+title: "XmpPdfAExtensionProperty.XmpPdfAExtensionProperty"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor XmpPdfAExtensionProperty. Menginisialisasi objek baru"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/xmppdfaextensionproperty/xmppdfaextensionproperty/
 ---
-## Konstruktor XmpPdfAExtensionProperty
+## XmpPdfAExtensionProperty constructor
 
 Menginisialisasi objek baru.
 
@@ -17,11 +17,11 @@ public XmpPdfAExtensionProperty(string name, string value, string valueType,
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| name | String | Nama properti. |
-| value | String | Nilai properti. |
+| nama | String | Nama properti. |
+| nilai | String | Nilai properti. |
 | valueType | String | Tipe nilai properti. |
-| category | XmpPdfAExtensionCategoryType | Kategori properti. |
-| description | String | Deskripsi properti. |
+| kategori | XmpPdfAExtensionCategoryType | Kategori properti. |
+| deskripsi | String | Deskripsi properti. |
 
 ### Lihat Juga
 
@@ -29,3 +29,5 @@ public XmpPdfAExtensionProperty(string name, string value, string valueType,
 * class [XmpPdfAExtensionProperty](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: OptimizationOptions.ImageEncoding
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OptimizationOptions. Pengkodean gambar yang akan digunakan
+title: "OptimizationOptions.ImageEncoding"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OptimizationOptions. Pengkodean gambar yang akan digunakan."
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.optimization/optimizationoptions/imageencoding/
 ---
-## Properti OptimizationOptions.ImageEncoding
+## OptimizationOptions.ImageEncoding property
 
-Pengkodean gambar yang akan digunakan.
+Enkode gambar yang akan digunakan.
 
 ```csharp
 public ImageEncoding ImageEncoding { get; set; }
@@ -20,3 +20,5 @@ public ImageEncoding ImageEncoding { get; set; }
 * class [OptimizationOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

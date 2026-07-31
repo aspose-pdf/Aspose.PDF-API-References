@@ -1,12 +1,12 @@
 ---
-title: SignatureAlgorithmInfo.SignatureName
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SignatureAlgorithmInfo. Mendapatkan nama bidang tanda tangan
+title: "SignatureAlgorithmInfo.SignatureName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SignatureAlgorithmInfo. Mendapatkan nama field tanda tangan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.security/signaturealgorithminfo/signaturename/
 ---
-## Properti SignatureAlgorithmInfo.SignatureName
+## SignatureAlgorithmInfo.SignatureName property
 
 Mendapatkan nama bidang tanda tangan.
 
@@ -16,6 +16,8 @@ public string SignatureName { get; }
 
 ### Lihat Juga
 
-* kelas [SignatureAlgorithmInfo](../)
+* class [SignatureAlgorithmInfo](../)
 * namespace [Aspose.Pdf.Security](../../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../../)
+
+

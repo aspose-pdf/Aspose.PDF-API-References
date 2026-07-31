@@ -1,14 +1,14 @@
 ---
-title: VectorStoreResponse.ExpiresAfter
-second_title: Aspose.PDF for .NET API Reference
-description: Properti VectorStoreResponse. Mengambil atau mengatur kebijakan kedaluwarsa untuk penyimpanan vektor
+title: "VectorStoreResponse.ExpiresAfter"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti VectorStoreResponse. Mendapatkan atau mengatur kebijakan kedaluwarsa untuk sebuah penyimpanan vektor"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/vectorstoreresponse/expiresafter/
 ---
-## Properti VectorStoreResponse.ExpiresAfter
+## VectorStoreResponse.ExpiresAfter property
 
-Mengambil atau mengatur kebijakan kedaluwarsa untuk penyimpanan vektor.
+Mendapatkan atau mengatur kebijakan kedaluwarsa untuk vector store.
 
 ```csharp
 public ExpiresAfter ExpiresAfter { get; set; }
@@ -16,7 +16,9 @@ public ExpiresAfter ExpiresAfter { get; set; }
 
 ### Lihat Juga
 
-* kelas [ExpiresAfter](../../expiresafter/)
-* kelas [VectorStoreResponse](../)
+* class [ExpiresAfter](../../expiresafter/)
+* class [VectorStoreResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

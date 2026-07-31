@@ -1,14 +1,14 @@
 ---
-title: TextStamp.TextAlignment
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextStamp. Penjajaran teks di dalam cap
+title: "TextStamp.TextAlignment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextStamp. Penyelarasan teks di dalam cap"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf/textstamp/textalignment/
 ---
-## Properti TextStamp.TextAlignment
+## TextStamp.TextAlignment property
 
-Penjajaran teks di dalam cap.
+Perataan teks di dalam stempel.
 
 ```csharp
 public HorizontalAlignment TextAlignment { get; set; }
@@ -20,3 +20,5 @@ public HorizontalAlignment TextAlignment { get; set; }
 * class [TextStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

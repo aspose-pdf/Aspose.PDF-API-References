@@ -1,14 +1,14 @@
 ---
-title: Matrix3D.C
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Matrix3D. Anggota C dari matriks transformasi
+title: "Matrix3D.C"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Matrix3D. Anggota C dari matriks transformasi"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/matrix3d/c/
 ---
-## Properti Matrix3D.C
+## Matrix3D.C property
 
-Anggota C dari matriks transformasi.
+Anggota C dari Matrix transformasi.
 
 ```csharp
 public double C { get; set; }
@@ -16,6 +16,8 @@ public double C { get; set; }
 
 ### Lihat Juga
 
-* kelas [Matrix3D](../)
+* class [Matrix3D](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

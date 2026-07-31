@@ -1,14 +1,14 @@
 ---
-title: Annotation.Height
-second_title: Aspose.PDF for .NET API Reference
-description: Properti anotasi. Mendapatkan atau mengatur tinggi anotasi
+title: "Annotation.Height"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Annotation. Mendapatkan atau mengatur tinggi annotasi"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.annotations/annotation/height/
 ---
-## Properti Annotation.Height
+## Annotation.Height property
 
-Mendapatkan atau mengatur tinggi anotasi.
+Mendapatkan atau mengatur tinggi annotation.
 
 ```csharp
 public virtual double Height { get; set; }
@@ -16,6 +16,8 @@ public virtual double Height { get; set; }
 
 ### Lihat Juga
 
-* kelas [Annotation](../)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

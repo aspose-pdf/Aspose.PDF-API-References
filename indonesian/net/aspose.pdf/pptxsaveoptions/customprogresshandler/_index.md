@@ -1,14 +1,14 @@
 ---
-title: PptxSaveOptions.CustomProgressHandler
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PptxSaveOptions. Penangan ini dapat digunakan untuk menangani peristiwa kemajuan konversi, misalnya dapat digunakan untuk menampilkan bilah kemajuan atau pesan tentang jumlah halaman yang sedang diproses, contoh kode penangan yang menunjukkan kemajuan di konsol adalah
+title: "PptxSaveOptions.CustomProgressHandler"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PptxSaveOptions. Handler ini dapat digunakan untuk menangani peristiwa kemajuan konversi, misalnya dapat digunakan untuk menampilkan bilah kemajuan atau pesan tentang jumlah halaman yang sedang diproses. Contoh kode handler yang menampilkan kemajuan di konsol adalah"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/pptxsaveoptions/customprogresshandler/
 ---
-## Properti PptxSaveOptions.CustomProgressHandler
+## PptxSaveOptions.CustomProgressHandler property
 
-Penangan ini dapat digunakan untuk menangani peristiwa kemajuan konversi, misalnya dapat digunakan untuk menampilkan bilah kemajuan atau pesan tentang jumlah halaman yang sedang diproses, contoh kode penangan yang menunjukkan kemajuan di konsol adalah :
+Handler ini dapat digunakan untuk menangani peristiwa kemajuan konversi, misalnya dapat digunakan untuk menampilkan bilah kemajuan atau pesan tentang jumlah halaman yang sedang diproses, contoh kode handler yang menampilkan kemajuan di konsol adalah:
 
 ```csharp
 public ConversionProgressEventHandler CustomProgressHandler { get; set; }
@@ -54,3 +54,5 @@ blic static void ShowProgressOnConsole(HtmlSaveOptions.ProgressEventHandlerInfo 
 * class [PptxSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

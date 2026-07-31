@@ -1,12 +1,12 @@
 ---
-title: TeXSaveOptions.TeXSaveOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor TeXSaveOptions. Konstruktor default
+title: "TeXSaveOptions.TeXSaveOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor TeXSaveOptions. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/texsaveoptions/texsaveoptions/
 ---
-## Konstruktor TeXSaveOptions
+## TeXSaveOptions constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public TeXSaveOptions()
 
 ### Lihat Juga
 
-* kelas [TeXSaveOptions](../)
+* class [TeXSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

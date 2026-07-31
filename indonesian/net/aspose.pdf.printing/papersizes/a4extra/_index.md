@@ -1,14 +1,14 @@
 ---
-title: PaperSizes.A4Extra
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSizes. Kertas A4 ekstra 236 mm x 322 mm
+title: "PaperSizes.A4Extra"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PaperSizes bidang. kertas A4 ekstra 236 mm x 322 mm"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.printing/papersizes/a4extra/
 ---
-## Bidang PaperSizes.A4Extra
+## PaperSizes.A4Extra field
 
-Kertas A4 ekstra (236 mm x 322 mm).
+Kertas ekstra A4 (236 mm x 322 mm).
 
 ```csharp
 public static readonly PaperSize A4Extra;
@@ -16,11 +16,13 @@ public static readonly PaperSize A4Extra;
 
 ## Catatan
 
-Nilai ini spesifik untuk driver PostScript dan hanya digunakan oleh printer Linotronic untuk membantu menghemat kertas.
+Nilai ini khusus untuk driver PostScript dan hanya digunakan oleh printer Linotronic untuk membantu menghemat kertas.
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,25 +1,27 @@
 ---
-title: Color.BlanchedAlmond
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem dengan nilai ARGB c FFFFEBCD
+title: "Color.BlanchedAlmond"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang ditentukan sistem dengan nilai ARGB c FFFFEBCD"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf/color/blanchedalmond/
 ---
-## Properti Color.BlanchedAlmond
+## Color.BlanchedAlmond property
 
-Mendapatkan warna yang ditentukan sistem dengan nilai ARGB \c \#FFFFEBCD.
+Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB \c \#FFFFEBCD.
 
 ```csharp
 public static Color BlanchedAlmond { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah yang mewakili warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

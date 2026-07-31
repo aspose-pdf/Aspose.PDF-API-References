@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.SplitToBulks
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileEditor. Memisahkan file Pdf menjadi beberapa dokumen. Dokumen dapat berupa satu halaman atau beberapa halaman
+title: "PdfFileEditor.SplitToBulks"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileEditor. Membagi file PDF menjadi beberapa dokumen. Dokumen dapat berupa satu halaman atau multi halaman."
 type: docs
 weight: 350
 url: /id/net/aspose.pdf.facades/pdffileeditor/splittobulks/
 ---
 ## SplitToBulks(string, int[][]) {#splittobulks_1}
 
-Memisahkan file Pdf menjadi beberapa dokumen. Dokumen dapat berupa satu halaman atau beberapa halaman.
+Membagi file Pdf menjadi beberapa dokumen. Dokumen dapat berisi satu halaman atau beberapa halaman.
 
 ```csharp
 public MemoryStream[] SplitToBulks(string inputFile, int[][] numberOfPage)
@@ -16,14 +16,14 @@ public MemoryStream[] SplitToBulks(string inputFile, int[][] numberOfPage)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputFile | String | File PDF masukan. |
-| numberOfPage | Int32[][] | Array yang berisi array elemen ganda, yang merupakan halaman awal dan akhir dokumen. |
+| inputFile | String | File PDF input. |
+| numberOfPage | Int32[][] | Array yang berisi array elemen double, yang merupakan halaman awal dan akhir dokumen. |
 
-### Return Value
+### Nilai Kembalian
 
-Aliran PDF keluaran, setiap aliran menyimpan dokumen PDF.
+Aliran PDF keluaran, setiap aliran menampung sebuah dokumen PDF.
 
-### See Also
+### Lihat Juga
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
@@ -33,7 +33,7 @@ Aliran PDF keluaran, setiap aliran menyimpan dokumen PDF.
 
 ## SplitToBulks(Stream, int[][]) {#splittobulks}
 
-Memisahkan file Pdf menjadi beberapa dokumen. Dokumen dapat berupa satu halaman atau beberapa halaman.
+Membagi file Pdf menjadi beberapa dokumen. Dokumen dapat berisi satu halaman atau beberapa halaman.
 
 ```csharp
 public MemoryStream[] SplitToBulks(Stream inputStream, int[][] numberOfPage)
@@ -44,12 +44,14 @@ public MemoryStream[] SplitToBulks(Stream inputStream, int[][] numberOfPage)
 | inputStream | Stream | Aliran PDF masukan. |
 | numberOfPage | Int32[][] | Halaman awal dan halaman akhir dari setiap dokumen. |
 
-### Return Value
+### Nilai Kembalian
 
-Aliran PDF keluaran, setiap aliran menyimpan dokumen PDF.
+Aliran PDF keluaran, setiap aliran menampung sebuah dokumen PDF.
 
-### See Also
+### Lihat Juga
 
 * class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

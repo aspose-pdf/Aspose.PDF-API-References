@@ -1,14 +1,14 @@
 ---
-title: HtmlSaveOptions.TryMergeFragments
-second_title: Aspose.PDF for .NET API Reference
-description: Properti HtmlSaveOptions. Bendera untuk menggabungkan fragmen gambar menjadi satu gambar
+title: "HtmlSaveOptions.TryMergeFragments"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "HtmlSaveOptions property. Bendera untuk menggabungkan fragmen gambar menjadi satu gambar."
 type: docs
 weight: 220
 url: /id/net/aspose.pdf/htmlsaveoptions/trymergefragments/
 ---
-## Properti HtmlSaveOptions.TryMergeFragments
+## HtmlSaveOptions.TryMergeFragments property
 
-Bendera untuk menggabungkan fragmen gambar menjadi satu gambar.
+Flag untuk menggabungkan fragmen gambar menjadi satu gambar.
 
 ```csharp
 public bool TryMergeFragments { get; set; }
@@ -16,6 +16,8 @@ public bool TryMergeFragments { get; set; }
 
 ### Lihat Juga
 
-* kelas [HtmlSaveOptions](../)
+* class [HtmlSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

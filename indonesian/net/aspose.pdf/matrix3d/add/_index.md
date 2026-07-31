@@ -1,12 +1,12 @@
 ---
-title: Matrix3D.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Matrix3D. Menambahkan matriks ke matriks lain
+title: "Matrix3D.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Matrix3D. Menambahkan matriks ke matriks lain"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf/matrix3d/add/
 ---
-## Metode Matrix3D.Add
+## Matrix3D.Add method
 
 Menambahkan matriks ke matriks lain.
 
@@ -16,14 +16,16 @@ public Matrix3D Add(Matrix3D other)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| other | Matrix3D | Matriks yang akan ditambahkan. |
+| lainnya | Matrix3D | Matriks yang akan ditambahkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Hasil penambahan matriks.
 
 ### Lihat Juga
 
-* kelas [Matrix3D](../)
+* class [Matrix3D](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.GetFullFieldName
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Mendapatkan nama field lengkap sesuai dengan nama field pendeknya
+title: "Form.GetFullFieldName"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Mendapatkan nama bidang lengkap berdasarkan nama bidang pendeknya."
 type: docs
 weight: 250
 url: /id/net/aspose.pdf.facades/form/getfullfieldname/
 ---
-## Metode Form.GetFullFieldName
+## Form.GetFullFieldName method
 
-Mendapatkan nama field lengkap sesuai dengan nama field pendeknya.
+Mendapatkan nama bidang lengkap berdasarkan nama bidang pendeknya.
 
 ```csharp
 public string GetFullFieldName(string fieldName)
@@ -16,11 +16,11 @@ public string GetFullFieldName(string fieldName)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Nama field yang sepenuhnya terqualified. |
+| fieldName | String | Nama bidang yang sepenuhnya memenuhi kualifikasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Nama field lengkap.
+Nama bidang lengkap.
 
 ## Contoh
 
@@ -31,6 +31,8 @@ Console.WriteLine("Full field name is : " + form.GetFullFieldName("textField"));
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

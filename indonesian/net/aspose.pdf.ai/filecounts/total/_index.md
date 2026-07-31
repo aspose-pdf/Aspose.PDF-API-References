@@ -1,14 +1,14 @@
 ---
-title: FileCounts.Total
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FileCounts. Mendapatkan atau mengatur jumlah total file di dalam penyimpanan vektor
+title: "FileCounts.Total"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FileCounts property. Mendapatkan atau mengatur total jumlah file dalam penyimpanan vektor"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.ai/filecounts/total/
 ---
-## Properti FileCounts.Total
+## FileCounts.Total property
 
-Mendapatkan atau mengatur jumlah total file di dalam penyimpanan vektor.
+Mendapatkan atau mengatur total jumlah file dalam penyimpanan vektor.
 
 ```csharp
 public int Total { get; set; }
@@ -16,6 +16,8 @@ public int Total { get; set; }
 
 ### Lihat Juga
 
-* kelas [FileCounts](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [FileCounts](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

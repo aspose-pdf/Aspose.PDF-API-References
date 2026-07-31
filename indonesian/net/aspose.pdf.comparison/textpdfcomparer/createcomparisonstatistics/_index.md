@@ -1,7 +1,7 @@
 ---
-title: TextPdfComparer.CreateComparisonStatistics
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextPdfComparer. Mendapatkan statistik perbandingan
+title: "TextPdfComparer.CreateComparisonStatistics"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TextPdfComparer. Mendapatkan statistik perbandingan"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.comparison/textpdfcomparer/createcomparisonstatistics/
@@ -16,13 +16,13 @@ public static TextItemComparisonStatistics CreateComparisonStatistics(List<DiffO
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| diffs | List`1 | Daftar perubahan. |
+| perbedaan | List`1 | Daftar perubahan. |
 
-### Return Value
+### Nilai Kembalian
 
-Statistiknya.
+Statistik.
 
-### See Also
+### Lihat Juga
 
 * class [TextItemComparisonStatistics](../../textitemcomparisonstatistics/)
 * class [DiffOperation](../../diffoperation/)
@@ -43,16 +43,18 @@ public static DocumentComparisonStatistics CreateComparisonStatistics(
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| diffs | List`1 | Daftar perubahan. |
+| perbedaan | List`1 | Daftar perubahan. |
 
-### Return Value
+### Nilai Kembalian
 
-Statistiknya.
+Statistik.
 
-### See Also
+### Lihat Juga
 
 * class [DocumentComparisonStatistics](../../documentcomparisonstatistics/)
 * class [DiffOperation](../../diffoperation/)
 * class [TextPdfComparer](../)
 * namespace [Aspose.Pdf.Comparison](../../../aspose.pdf.comparison/)
 * assembly [Aspose.PDF](../../../)
+
+

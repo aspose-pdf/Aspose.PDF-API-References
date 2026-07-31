@@ -1,14 +1,14 @@
 ---
-title: AttributeName.RubyAlign_End
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeName. Attribute RubyAlign End  Konten harus disejajarkan pada tepi akhir dalam arah progresi-inline
+title: "AttributeName.RubyAlign_End"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang AttributeName. Atribut RubyAlign End  Konten harus disejajarkan pada tepi akhir dalam arah inlineprogression"
 type: docs
 weight: 450
 url: /id/net/aspose.pdf.logicalstructure/attributename/rubyalign_end/
 ---
-## Field AttributeName.RubyAlign_End
+## AttributeName.RubyAlign_End field
 
-Attribute RubyAlign: End - Konten harus disejajarkan pada tepi akhir dalam arah progresi-inline.
+Atribut RubyAlign: End - Konten harus disejajarkan pada tepi akhir dalam arah inline-progresi.
 
 ```csharp
 public static readonly AttributeName RubyAlign_End;
@@ -16,6 +16,8 @@ public static readonly AttributeName RubyAlign_End;
 
 ### Lihat Juga
 
-* kelas [AttributeName](../)
+* class [AttributeName](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

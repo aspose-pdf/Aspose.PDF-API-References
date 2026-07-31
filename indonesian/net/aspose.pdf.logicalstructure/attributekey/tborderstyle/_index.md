@@ -1,14 +1,14 @@
 ---
-title: AttributeKey.TBorderStyle
-second_title: Aspose.PDF for .NET API Reference
-description: Field AttributeKey. Atribut TBorderStyle pemilik atribut Layout
+title: "AttributeKey.TBorderStyle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeKey field. TBorderStyle atribut Layout atribut pemilik"
 type: docs
 weight: 330
 url: /id/net/aspose.pdf.logicalstructure/attributekey/tborderstyle/
 ---
-## Field AttributeKey.TBorderStyle
+## AttributeKey.TBorderStyle field
 
-Atribut TBorderStyle (pemilik atribut Layout).
+Atribut TBorderStyle (pemilik atribut Tata Letak).
 
 ```csharp
 public static readonly AttributeKey TBorderStyle;
@@ -16,6 +16,8 @@ public static readonly AttributeKey TBorderStyle;
 
 ### Lihat Juga
 
-* kelas [AttributeKey](../)
+* class [AttributeKey](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

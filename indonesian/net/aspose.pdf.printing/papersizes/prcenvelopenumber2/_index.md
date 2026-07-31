@@ -1,12 +1,12 @@
 ---
-title: PaperSizes.PrcEnvelopeNumber2
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang PaperSizes. Amplop 2 102 mm x 176 mm
+title: "PaperSizes.PrcEnvelopeNumber2"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang PaperSizes. amplop 2 102 mm x 176 mm"
 type: docs
 weight: 900
 url: /id/net/aspose.pdf.printing/papersizes/prcenvelopenumber2/
 ---
-## Bidang PaperSizes.PrcEnvelopeNumber2
+## PaperSizes.PrcEnvelopeNumber2 field
 
 Amplop #2 (102 mm x 176 mm).
 
@@ -16,7 +16,9 @@ public static readonly PaperSize PrcEnvelopeNumber2;
 
 ### Lihat Juga
 
-* kelas [PaperSize](../../papersize/)
-* kelas [PaperSizes](../)
+* class [PaperSize](../../papersize/)
+* class [PaperSizes](../)
 * namespace [Aspose.Pdf.Printing](../../../aspose.pdf.printing/)
 * assembly [Aspose.PDF](../../../)
+
+

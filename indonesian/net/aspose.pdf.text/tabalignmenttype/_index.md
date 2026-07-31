@@ -1,14 +1,14 @@
 ---
-title: Enum TabAlignmentType
-second_title: Aspose.PDF for .NET API Reference
-description: Enum TabAlignmentType dari Aspose.Pdf.Text. Mengenumerasi jenis penempatan tab
+title: "Enum TabAlignmentType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Text.TabAlignmentType. Mengenumerasi jenis perataan tab"
 type: docs
-weight: 10750
+weight: 10930
 url: /id/net/aspose.pdf.text/tabalignmenttype/
 ---
-## Enumerasi TabAlignmentType
+## TabAlignmentType enumeration
 
-Mengenumerasi jenis penempatan tab.
+Menumerasikan tipe perataan tab.
 
 ```csharp
 public enum TabAlignmentType
@@ -18,11 +18,13 @@ public enum TabAlignmentType
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Kiri | `0` | Teks yang disejajarkan ke kiri dari titik tab |
-| Tengah | `1` | Teks yang disejajarkan ke tengah dari titik tab |
-| Kanan | `2` | Teks yang disejajarkan ke kanan dari titik tab |
+| Left | `0` | Teks rata kiri dari tab stop |
+| Center | `1` | Teks rata tengah dari tab stop |
+| Right | `2` | Teks rata kanan dari tab stop |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Annotation.UseFontSubset
-second_title: Aspose.PDF for .NET API Reference
-description: Properti anotasi. Jika properti ini diatur ke true, font akan ditambahkan ke dokumen sebagai subset. Nilai default adalah true
+title: "Annotation.UseFontSubset"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Annotation. Jika properti ini disetel ke true, font akan ditambahkan ke dokumen sebagai subset. Nilai default adalah true"
 type: docs
 weight: 240
 url: /id/net/aspose.pdf.annotations/annotation/usefontsubset/
 ---
-## Properti Annotation.UseFontSubset
+## Annotation.UseFontSubset property
 
 Jika properti ini diatur ke true, font akan ditambahkan ke dokumen sebagai subset. Nilai default adalah true.
 
@@ -16,6 +16,8 @@ public static bool UseFontSubset { get; set; }
 
 ### Lihat Juga
 
-* kelas [Annotation](../)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

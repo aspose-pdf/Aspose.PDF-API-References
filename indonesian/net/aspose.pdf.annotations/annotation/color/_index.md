@@ -1,14 +1,14 @@
 ---
-title: Annotation.Color
-second_title: Aspose.PDF for .NET API Reference
-description: Properti anotasi. Mendapatkan atau mengatur warna anotasi
+title: "Annotation.Color"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Annotation. Mendapatkan atau mengatur warna anotasi"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.annotations/annotation/color/
 ---
-## Properti Annotation.Color
+## Annotation.Color property
 
-Mendapatkan atau mengatur warna anotasi.
+Mendapatkan atau mengatur warna annotation.
 
 ```csharp
 public Color Color { get; set; }
@@ -16,7 +16,9 @@ public Color Color { get; set; }
 
 ### Lihat Juga
 
-* kelas [Color](../../../aspose.pdf/color/)
-* kelas [Annotation](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [Annotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

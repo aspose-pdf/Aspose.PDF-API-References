@@ -1,25 +1,27 @@
 ---
-title: Color.Magenta
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FFFF00FF
+title: "Color.Magenta"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB c FFFF00FF"
 type: docs
 weight: 810
 url: /id/net/aspose.pdf/color/magenta/
 ---
-## Properti Color.Magenta
+## Color.Magenta property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFFF00FF.
+Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB \c \#FFFF00FF.
 
 ```csharp
 public static Color Magenta { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah yang mewakili warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

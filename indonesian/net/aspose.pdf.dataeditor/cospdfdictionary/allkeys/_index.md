@@ -1,14 +1,14 @@
 ---
-title: CosPdfDictionary.AllKeys
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CosPdfDictionary. Koleksi lengkap kunci. Berisi kunci yang dapat diedit dan tidak dapat diedit
+title: "CosPdfDictionary.AllKeys"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CosPdfDictionary. Kumpulan lengkap kunci. Berisi kunci yang dapat diedit dan yang tidak dapat diedit"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.dataeditor/cospdfdictionary/allkeys/
 ---
-## Properti CosPdfDictionary.AllKeys
+## CosPdfDictionary.AllKeys property
 
-Koleksi lengkap kunci. Berisi kunci yang dapat diedit dan tidak dapat diedit.
+Koleksi lengkap kunci. Berisi kunci yang dapat diedit dan yang tidak dapat diedit.
 
 ```csharp
 public ICollection<string> AllKeys { get; }
@@ -16,6 +16,8 @@ public ICollection<string> AllKeys { get; }
 
 ### Lihat Juga
 
-* kelas [CosPdfDictionary](../)
+* class [CosPdfDictionary](../)
 * namespace [Aspose.Pdf.DataEditor](../../../aspose.pdf.dataeditor/)
 * assembly [Aspose.PDF](../../../)
+
+

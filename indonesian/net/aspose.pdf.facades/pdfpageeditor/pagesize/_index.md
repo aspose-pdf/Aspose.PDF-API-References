@@ -1,14 +1,14 @@
 ---
-title: PdfPageEditor.PageSize
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfPageEditor. Mendapatkan atau mengatur ukuran halaman file keluaran
+title: "PdfPageEditor.PageSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfPageEditor. Mendapatkan atau mengatur ukuran halaman file output"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.facades/pdfpageeditor/pagesize/
 ---
-## Properti PdfPageEditor.PageSize
+## PdfPageEditor.PageSize property
 
-Mendapatkan atau mengatur ukuran halaman file keluaran.
+Mendapatkan atau mengatur ukuran halaman file output.
 
 ```csharp
 public PageSize PageSize { get; set; }
@@ -16,7 +16,9 @@ public PageSize PageSize { get; set; }
 
 ### Lihat Juga
 
-* kelas [PageSize](../../../aspose.pdf/pagesize/)
-* kelas [PdfPageEditor](../)
+* class [PageSize](../../../aspose.pdf/pagesize/)
+* class [PdfPageEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: CustomFontSubstitutionBase.CustomFontSubstitutionBase
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor CustomFontSubstitutionBase. Konstruktor default
+title: "CustomFontSubstitutionBase.CustomFontSubstitutionBase"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor CustomFontSubstitutionBase. Konstruktor default."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.text/customfontsubstitutionbase/customfontsubstitutionbase/
 ---
-## Konstruktor CustomFontSubstitutionBase
+## CustomFontSubstitutionBase constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public CustomFontSubstitutionBase()
 
 ### Lihat Juga
 
-* kelas [CustomFontSubstitutionBase](../)
+* class [CustomFontSubstitutionBase](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

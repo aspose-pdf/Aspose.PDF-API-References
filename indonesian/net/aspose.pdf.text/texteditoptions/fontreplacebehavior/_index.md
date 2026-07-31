@@ -1,14 +1,14 @@
 ---
-title: TextEditOptions.FontReplaceBehavior
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextEditOptions. Mendapatkan mode yang mendefinisikan perilaku untuk skenario penggantian font
+title: "TextEditOptions.FontReplaceBehavior"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextEditOptions. Mendapatkan mode yang mendefinisikan perilaku untuk skenario penggantian font."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.text/texteditoptions/fontreplacebehavior/
 ---
-## Properti TextEditOptions.FontReplaceBehavior
+## TextEditOptions.FontReplaceBehavior property
 
-Mendapatkan mode yang mendefinisikan perilaku untuk skenario penggantian font.
+Mendapatkan mode yang menentukan perilaku untuk skenario penggantian font.
 
 ```csharp
 public FontReplace FontReplaceBehavior { get; set; }
@@ -20,3 +20,5 @@ public FontReplace FontReplaceBehavior { get; set; }
 * class [TextEditOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

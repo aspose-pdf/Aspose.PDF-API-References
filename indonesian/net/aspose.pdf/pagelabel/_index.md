@@ -1,12 +1,12 @@
 ---
-title: Class PageLabel
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.PageLabel. Kelas yang mewakili rentang Label Halaman
+title: "Kelas PageLabel"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.PageLabel class. Kelas yang mewakili rentang Label Halaman"
 type: docs
-weight: 8160
+weight: 8300
 url: /id/net/aspose.pdf/pagelabel/
 ---
-## Kelas PageLabel
+## PageLabel class
 
 Kelas yang mewakili rentang Label Halaman.
 
@@ -24,11 +24,13 @@ public class PageLabel
 
 | Nama | Deskripsi |
 | --- | --- |
-| [NumberingStyle](../../aspose.pdf/pagelabel/numberingstyle/) { get; set; } | Mendapatkan atau menetapkan gaya penomoran. |
-| [Prefix](../../aspose.pdf/pagelabel/prefix/) { get; set; } | Mendapatkan atau menetapkan awalan nomor halaman. |
-| [StartingValue](../../aspose.pdf/pagelabel/startingvalue/) { get; set; } | Mendapatkan atau menetapkan nilai awal dari rentang penomoran halaman. |
+| [NumberingStyle](../../aspose.pdf/pagelabel/numberingstyle/) { get; set; } | Mendapatkan atau mengatur gaya penomoran. |
+| [Prefix](../../aspose.pdf/pagelabel/prefix/) { get; set; } | Mendapatkan atau mengatur awalan nomor halaman. |
+| [StartingValue](../../aspose.pdf/pagelabel/startingvalue/) { get; set; } | Mendapatkan atau mengatur nilai awal dari rentang penomoran halaman. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

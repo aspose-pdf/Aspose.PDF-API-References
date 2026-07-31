@@ -1,14 +1,14 @@
 ---
-title: Document.Destinations
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Mendapatkan koleksi tujuan. Usang. Silakan gunakan NamedDestinations
+title: "Document.Destinations"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Mengambil koleksi tujuan. Usang. Silakan gunakan NamedDestinations"
 type: docs
-weight: 90
+weight: 100
 url: /id/net/aspose.pdf/document/destinations/
 ---
-## Properti Document.Destinations
+## Document.Destinations property
 
-Mendapatkan koleksi tujuan. Usang. Silakan gunakan NamedDestinations.
+Mendapatkan koleksi tujuan. Usang. Harap gunakan NamedDestinations.
 
 ```csharp
 public DestinationCollection Destinations { get; }
@@ -16,7 +16,9 @@ public DestinationCollection Destinations { get; }
 
 ### Lihat Juga
 
-* kelas [DestinationCollection](../../destinationcollection/)
-* kelas [Document](../)
+* class [DestinationCollection](../../destinationcollection/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

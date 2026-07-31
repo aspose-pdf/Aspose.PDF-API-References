@@ -1,7 +1,7 @@
 ---
-title: Layer.Save
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Layer. Menyimpan lapisan saat ini ke dokumen PDF
+title: "Layer.Save"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Layer. Menyimpan lapisan saat ini ke dokumen PDF"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf/layer/save/
@@ -20,7 +20,7 @@ public void Save(string outputPath)
 
 ### Lihat Juga
 
-* kelas [Layer](../)
+* class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -36,10 +36,12 @@ public void Save(Stream outputStream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| outputStream | Stream | Aliran tempat dokumen PDF akan disimpan. |
+| outputStream | Stream | Stream tempat dokumen PDF akan disimpan. |
 
 ### Lihat Juga
 
-* kelas [Layer](../)
+* class [Layer](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

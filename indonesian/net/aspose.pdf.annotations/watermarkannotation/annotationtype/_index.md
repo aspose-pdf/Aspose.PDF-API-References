@@ -1,12 +1,12 @@
 ---
-title: WatermarkAnnotation.AnnotationType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti WatermarkAnnotation. Mendapatkan tipe anotasi
+title: "WatermarkAnnotation.AnnotationType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti WatermarkAnnotation. Mendapatkan tipe anotasi"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.annotations/watermarkannotation/annotationtype/
 ---
-## Properti WatermarkAnnotation.AnnotationType
+## WatermarkAnnotation.AnnotationType property
 
 Mendapatkan tipe anotasi.
 
@@ -20,3 +20,5 @@ public override AnnotationType AnnotationType { get; }
 * class [WatermarkAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

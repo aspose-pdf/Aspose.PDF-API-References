@@ -1,14 +1,14 @@
 ---
-title: Enum AnnotationState
-second_title: Aspose.PDF for .NET API Reference
-description: Enum AnnotationState dari Aspose.Pdf.Annotations. Enumerasi status yang dapat diatur pada anotasi asli
+title: "Enum AnnotationState"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.Annotations.AnnotationState. Enumerasi status yang dapat ditetapkan pada anotasi asli"
 type: docs
-weight: 1460
+weight: 1550
 url: /id/net/aspose.pdf.annotations/annotationstate/
 ---
-## Enumerasi AnnotationState
+## AnnotationState enumeration
 
-Enumerasi status yang dapat diatur pada anotasi asli.
+Enumerasi status yang dapat ditetapkan pada anotasi asli.
 
 ```csharp
 public enum AnnotationState
@@ -18,16 +18,18 @@ public enum AnnotationState
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Tidak Terdefinisi | `0` | Status tidak terdefinisi. |
-| Ditandai | `1` | Anotasi telah ditandai oleh pengguna. |
-| Tidak Ditandai | `2` | Anotasi belum ditandai oleh pengguna. |
-| Diterima | `3` | Pengguna setuju dengan perubahan. |
-| Ditolak | `4` | Pengguna tidak setuju dengan perubahan. |
-| Dibatalkan | `5` | Perubahan telah dibatalkan. |
-| Selesai | `6` | Perubahan telah diselesaikan. |
-| Tidak Ada | `7` | Pengguna tidak menunjukkan apa pun tentang perubahan. |
+| Undefined | `0` | Status tidak terdefinisi. |
+| Marked | `1` | Anotasi telah ditandai oleh pengguna. |
+| Unmarked | `2` | Anotasi belum ditandai oleh pengguna. |
+| Accepted | `3` | Pengguna setuju dengan perubahan. |
+| Rejected | `4` | Pengguna tidak setuju dengan perubahan. |
+| Cancelled | `5` | Perubahan telah dibatalkan. |
+| Completed | `6` | Perubahan telah selesai. |
+| None | `7` | Pengguna tidak memberikan indikasi apa pun tentang perubahan. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class Usage
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.Usage. Mewakili statistik penggunaan untuk sebuah permintaan
+title: "Kelas Usage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.Usage. Menyatakan statistik penggunaan untuk sebuah permintaan."
 type: docs
-weight: 1250
+weight: 1340
 url: /id/net/aspose.pdf.ai/usage/
 ---
-## Kelas Penggunaan
+## Usage class
 
 Mewakili statistik penggunaan untuk sebuah permintaan.
 
@@ -24,11 +24,13 @@ public class Usage
 
 | Nama | Deskripsi |
 | --- | --- |
-| [CompletionTokens](../../aspose.pdf.ai/usage/completiontokens/) { get; set; } | Mendapatkan atau menetapkan jumlah token dalam penyelesaian yang dihasilkan. |
-| [PromptTokens](../../aspose.pdf.ai/usage/prompttokens/) { get; set; } | Mendapatkan atau menetapkan jumlah token dalam prompt. |
-| [TotalTokens](../../aspose.pdf.ai/usage/totaltokens/) { get; set; } | Mendapatkan atau menetapkan total jumlah token yang digunakan dalam permintaan (prompt + penyelesaian). |
+| [CompletionTokens](../../aspose.pdf.ai/usage/completiontokens/) { get; set; } | Mendapatkan atau mengatur jumlah token dalam penyelesaian yang dihasilkan. |
+| [PromptTokens](../../aspose.pdf.ai/usage/prompttokens/) { get; set; } | Mendapatkan atau mengatur jumlah token dalam prompt. |
+| [TotalTokens](../../aspose.pdf.ai/usage/totaltokens/) { get; set; } | Mendapatkan atau mengatur total jumlah token yang digunakan dalam permintaan (prompt + penyelesaian). |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

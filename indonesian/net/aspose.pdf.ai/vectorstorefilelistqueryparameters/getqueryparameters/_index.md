@@ -1,25 +1,27 @@
 ---
-title: VectorStoreFileListQueryParameters.GetQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: Metode VectorStoreFileListQueryParameters. Mendapatkan parameter kueri untuk daftar file penyimpanan vektor
+title: "VectorStoreFileListQueryParameters.GetQueryParameters"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "VectorStoreFileListQueryParameters metode. Mendapatkan parameter kueri untuk mencantumkan file vector store"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/vectorstorefilelistqueryparameters/getqueryparameters/
 ---
-## Metode VectorStoreFileListQueryParameters.GetQueryParameters
+## VectorStoreFileListQueryParameters.GetQueryParameters method
 
-Mendapatkan parameter kueri untuk daftar file penyimpanan vektor.
+Mendapatkan parameter kueri untuk daftar file vector store.
 
 ```csharp
 public string GetQueryParameters()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 String parameter kueri.
 
 ### Lihat Juga
 
-* kelas [VectorStoreFileListQueryParameters](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreFileListQueryParameters](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

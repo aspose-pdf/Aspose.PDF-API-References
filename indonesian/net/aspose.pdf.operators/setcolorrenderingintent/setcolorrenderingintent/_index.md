@@ -1,12 +1,12 @@
 ---
-title: SetColorRenderingIntent.SetColorRenderingIntent
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor SetColorRenderingIntent. Konstruktor operator Set Color Rendering Intent
+title: "SetColorRenderingIntent.SetColorRenderingIntent"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor SetColorRenderingIntent. Konstruktor operator Set Color Rendering Intent"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.operators/setcolorrenderingintent/setcolorrenderingintent/
 ---
-## Konstruktor SetColorRenderingIntent
+## SetColorRenderingIntent constructor
 
 Konstruktor operator Set Color Rendering Intent.
 
@@ -16,10 +16,12 @@ public SetColorRenderingIntent(string intentName)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| intentName | String | Color Rendering Intent. |
+| intentName | String | Niat Rendering Warna. |
 
 ### Lihat Juga
 
-* kelas [SetColorRenderingIntent](../)
+* class [SetColorRenderingIntent](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class ThreadMessageListResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.ThreadMessageListResponse. Mewakili respons daftar yang berisi data pesan thread
+title: "Kelas ThreadMessageListResponse"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.ThreadMessageListResponse. Mewakili respons daftar yang berisi data pesan thread"
 type: docs
-weight: 1140
+weight: 1230
 url: /id/net/aspose.pdf.ai/threadmessagelistresponse/
 ---
-## Kelas ThreadMessageListResponse
+## ThreadMessageListResponse class
 
 Mewakili respons daftar yang berisi data pesan thread.
 
@@ -38,7 +38,9 @@ public class ThreadMessageListResponse : ListDataResponse<List<ThreadMessageResp
 
 ### Lihat Juga
 
-* kelas [ListDataResponse&lt;T&gt;](../listdataresponse-1/)
-* kelas [ThreadMessageResponse](../threadmessageresponse/)
+* class [ListDataResponse&lt;T&gt;](../listdataresponse-1/)
+* class [ThreadMessageResponse](../threadmessageresponse/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

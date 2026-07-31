@@ -1,12 +1,12 @@
 ---
-title: PDF3DAnnotation.Content
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PDF3DAnnotation. Mendapatkan atau mengatur konten
+title: "PDF3DAnnotation.Content"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PDF3DAnnotation. Mendapatkan atau mengatur konten"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/pdf3dannotation/content/
 ---
-## Properti PDF3DAnnotation.Content
+## PDF3DAnnotation.Content property
 
 Mendapatkan atau mengatur konten.
 
@@ -14,13 +14,15 @@ Mendapatkan atau mengatur konten.
 public PDF3DContent Content { get; set; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Konten.
 
 ### Lihat Juga
 
-* kelas [PDF3DContent](../../pdf3dcontent/)
-* kelas [PDF3DAnnotation](../)
+* class [PDF3DContent](../../pdf3dcontent/)
+* class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

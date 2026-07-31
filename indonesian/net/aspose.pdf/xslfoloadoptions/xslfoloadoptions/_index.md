@@ -1,7 +1,7 @@
 ---
-title: XslFoLoadOptions.XslFoLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor XslFoLoadOptions. Membuat objek XslFoLoadOptions tanpa data xsl
+title: "XslFoLoadOptions.XslFoLoadOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor XslFoLoadOptions. Membuat objek XslFoLoadOptions tanpa data xsl"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/xslfoloadoptions/xslfoloadoptions/
@@ -16,7 +16,7 @@ public XslFoLoadOptions()
 
 ### Lihat Juga
 
-* kelas [XslFoLoadOptions](../)
+* class [XslFoLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -32,11 +32,11 @@ public XslFoLoadOptions(string xslFile)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| xslFile | String | File xsl untuk mengonversi dokumen XSL-FO menjadi dokumen pdf. |
+| xslFile | String | File Xsl untuk mengonversi dokumen XSL-FO menjadi dokumen pdf. |
 
 ### Lihat Juga
 
-* kelas [XslFoLoadOptions](../)
+* class [XslFoLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -52,10 +52,12 @@ public XslFoLoadOptions(Stream xslStream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| xslStream | Stream | Stream xsl untuk mengonversi dokumen XSL-FO menjadi dokumen pdf. |
+| xslStream | Stream | Stream Xsl untuk mengonversi dokumen XSL-FO menjadi dokumen pdf. |
 
 ### Lihat Juga
 
-* kelas [XslFoLoadOptions](../)
+* class [XslFoLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

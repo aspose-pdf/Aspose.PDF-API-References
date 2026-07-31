@@ -1,14 +1,14 @@
 ---
-title: Image.IsBlackWhite
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Gambar. Mendapatkan atau mengatur nilai bool yang menunjukkan apakah gambar dipaksa menjadi hitam-putih. Jika gambar TIFF dari subformat CCITT digunakan, properti ini harus diatur ke true
+title: "Image.IsBlackWhite"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Image. Mendapatkan atau mengatur nilai bool yang menunjukkan apakah gambar dipaksa menjadi hitam putih. Jika gambar TIFF dengan subformat CCITT digunakan, properti ini harus diatur ke true"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf/image/isblackwhite/
 ---
-## Properti Image.IsBlackWhite
+## Image.IsBlackWhite property
 
-Mendapatkan atau mengatur nilai bool yang menunjukkan apakah gambar dipaksa menjadi hitam-putih. Jika gambar TIFF dari subformat CCITT digunakan, properti ini harus diatur ke true.
+Mendapatkan atau mengatur nilai bool yang menunjukkan apakah gambar dipaksa menjadi hitam-putih. Jika gambar TIFF subformat CCITT digunakan, properti ini harus diatur ke true.
 
 ```csharp
 public bool IsBlackWhite { get; set; }
@@ -16,6 +16,8 @@ public bool IsBlackWhite { get; set; }
 
 ### Lihat Juga
 
-* kelas [Gambar](../)
+* class [Image](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

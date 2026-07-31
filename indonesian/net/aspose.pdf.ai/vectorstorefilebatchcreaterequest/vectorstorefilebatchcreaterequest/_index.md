@@ -1,12 +1,12 @@
 ---
-title: VectorStoreFileBatchCreateRequest.VectorStoreFileBatchCreateRequest
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileBatchCreateRequest constructor. The default constructor
+title: "VectorStoreFileBatchCreateRequest.VectorStoreFileBatchCreateRequest"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor VectorStoreFileBatchCreateRequest. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/vectorstorefilebatchcreaterequest/vectorstorefilebatchcreaterequest/
 ---
-## Konstruktor VectorStoreFileBatchCreateRequest
+## VectorStoreFileBatchCreateRequest constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public VectorStoreFileBatchCreateRequest()
 
 ### Lihat Juga
 
-* kelas [VectorStoreFileBatchCreateRequest](../)
+* class [VectorStoreFileBatchCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

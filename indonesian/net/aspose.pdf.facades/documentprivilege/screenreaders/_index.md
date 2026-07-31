@@ -1,14 +1,14 @@
 ---
-title: DocumentPrivilege.ScreenReaders
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DocumentPrivilege. Memungkinkan pembaca hanya di layar
+title: "DocumentPrivilege.ScreenReaders"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti DocumentPrivilege. Mengizinkan pembaca hanya di layar"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf.facades/documentprivilege/screenreaders/
 ---
-## Properti DocumentPrivilege.ScreenReaders
+## DocumentPrivilege.ScreenReaders property
 
-Memungkinkan pembaca hanya di layar.
+Mengizinkan pembaca hanya pada layar.
 
 ```csharp
 public static DocumentPrivilege ScreenReaders { get; }
@@ -16,6 +16,8 @@ public static DocumentPrivilege ScreenReaders { get; }
 
 ### Lihat Juga
 
-* kelas [DocumentPrivilege](../)
+* class [DocumentPrivilege](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

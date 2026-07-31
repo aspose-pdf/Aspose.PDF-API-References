@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateArtElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ITaggedContent. Membuat ArtElement
+title: "ITaggedContent.CreateArtElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ITaggedContent metode. Membuat ArtElement"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.tagged/itaggedcontent/createartelement/
 ---
-## Metode ITaggedContent.CreateArtElement
+## ITaggedContent.CreateArtElement method
 
 Membuat [`ArtElement`](../../../aspose.pdf.logicalstructure/artelement/).
 
@@ -14,13 +14,15 @@ Membuat [`ArtElement`](../../../aspose.pdf.logicalstructure/artelement/).
 public ArtElement CreateArtElement()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Elemen struktur yang dibuat.
+Elemen struktur dibuat.
 
 ### Lihat Juga
 
-* kelas [ArtElement](../../../aspose.pdf.logicalstructure/artelement/)
-* antarmuka [ITaggedContent](../)
-* ruang nama [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* class [ArtElement](../../../aspose.pdf.logicalstructure/artelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

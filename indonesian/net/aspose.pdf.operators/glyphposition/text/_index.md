@@ -1,12 +1,12 @@
 ---
-title: GlyphPosition.Text
-second_title: Aspose.PDF for .NET API Reference
-description: Properti GlyphPosition. Teks operator
+title: "GlyphPosition.Text"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti GlyphPosition. Teks dari operator"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.operators/glyphposition/text/
 ---
-## Properti GlyphPosition.Text
+## GlyphPosition.Text property
 
 Teks operator.
 
@@ -16,6 +16,8 @@ public string Text { get; }
 
 ### Lihat Juga
 
-* kelas [GlyphPosition](../)
+* class [GlyphPosition](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

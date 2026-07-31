@@ -1,14 +1,14 @@
 ---
-title: FormEditor.RadioGap
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FormEditor. Anggota untuk mencatat jarak antara dua tombol radio yang berdekatan dalam piksel, default adalah 50
+title: "FormEditor.RadioGap"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FormEditor. Anggota untuk mencatat jarak antara dua tombol radio berdekatan dalam piksel, defaultnya 50."
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.facades/formeditor/radiogap/
 ---
-## Properti FormEditor.RadioGap
+## FormEditor.RadioGap property
 
-Anggota untuk mencatat jarak antara dua tombol radio yang berdekatan dalam piksel, default adalah 50.
+Anggota untuk mencatat jarak antara dua tombol radio yang berdekatan dalam piksel, defaultnya adalah 50.
 
 ```csharp
 public float RadioGap { get; set; }
@@ -27,6 +27,8 @@ formEditor.Save();
 
 ### Lihat Juga
 
-* kelas [FormEditor](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [FormEditor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

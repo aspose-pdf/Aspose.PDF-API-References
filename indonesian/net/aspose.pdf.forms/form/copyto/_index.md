@@ -1,14 +1,14 @@
 ---
-title: Form.CopyTo
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Menyalin field yang ditempatkan pada form ke dalam array
+title: "Form.CopyTo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Menyalin field yang ditempatkan pada formulir ke dalam array"
 type: docs
-weight: 220
+weight: 240
 url: /id/net/aspose.pdf.forms/form/copyto/
 ---
-## Metode Form.CopyTo
+## Form.CopyTo method
 
-Menyalin field yang ditempatkan pada form ke dalam array.
+Menyalin bidang yang ditempatkan pada formulir ke dalam array.
 
 ```csharp
 public void CopyTo(Field[] array, int index)
@@ -21,7 +21,9 @@ public void CopyTo(Field[] array, int index)
 
 ### Lihat Juga
 
-* kelas [Field](../../field/)
-* kelas [Form](../)
+* class [Field](../../field/)
+* class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

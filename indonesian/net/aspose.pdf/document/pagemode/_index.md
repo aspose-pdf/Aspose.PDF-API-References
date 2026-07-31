@@ -1,14 +1,14 @@
 ---
-title: Document.PageMode
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Mengambil atau mengatur mode halaman yang menentukan bagaimana dokumen harus ditampilkan saat dibuka
+title: "Document.PageMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Mendapatkan atau mengatur mode halaman yang menentukan bagaimana dokumen ditampilkan saat dibuka"
 type: docs
-weight: 460
+weight: 480
 url: /id/net/aspose.pdf/document/pagemode/
 ---
-## Properti Document.PageMode
+## Document.PageMode property
 
-Mengambil atau mengatur mode halaman, yang menentukan bagaimana dokumen harus ditampilkan saat dibuka.
+Mendapatkan atau mengatur mode halaman, yang menentukan cara dokumen ditampilkan saat dibuka.
 
 ```csharp
 public PageMode PageMode { get; set; }
@@ -20,3 +20,5 @@ public PageMode PageMode { get; set; }
 * class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

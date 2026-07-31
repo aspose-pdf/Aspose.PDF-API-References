@@ -1,14 +1,14 @@
 ---
-title: ImagePlacement.Rectangle
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ImagePlacement. Mendapatkan persegi panjang dari Gambar
+title: "ImagePlacement.Rectangle"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ImagePlacement. Mendapatkan persegi panjang Image"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/imageplacement/rectangle/
 ---
-## Properti ImagePlacement.Rectangle
+## ImagePlacement.Rectangle property
 
-Mendapatkan persegi panjang dari Gambar.
+Mendapatkan persegi panjang gambar.
 
 ```csharp
 public Rectangle Rectangle { get; }
@@ -16,7 +16,9 @@ public Rectangle Rectangle { get; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../rectangle/)
-* kelas [ImagePlacement](../)
+* class [Rectangle](../../rectangle/)
+* class [ImagePlacement](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

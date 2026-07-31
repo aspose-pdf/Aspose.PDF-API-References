@@ -1,14 +1,14 @@
 ---
-title: PdfExtractor.StartPage
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfExtractor. Mendapatkan atau mengatur halaman awal dalam rentang halaman di mana operasi ekstraksi akan dilakukan
+title: "PdfExtractor.StartPage"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfExtractor. Mendapatkan atau mengatur halaman mulai dalam rentang halaman tempat operasi ekstraksi akan dilakukan"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf.facades/pdfextractor/startpage/
 ---
-## Properti PdfExtractor.StartPage
+## PdfExtractor.StartPage property
 
-Mendapatkan atau mengatur halaman awal dalam rentang halaman di mana operasi ekstraksi akan dilakukan.
+Mendapatkan atau mengatur halaman mulai dalam rentang halaman tempat operasi ekstraksi akan dilakukan.
 
 ```csharp
 PdfExtractor ext = new PdfExtractor();
@@ -24,6 +24,8 @@ public int StartPage { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfExtractor](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfExtractor](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

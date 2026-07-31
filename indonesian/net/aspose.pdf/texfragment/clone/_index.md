@@ -1,12 +1,12 @@
 ---
-title: TeXFragment.Clone
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TeXFragment. Mengkloning fragmen
+title: "TeXFragment.Clone"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TeXFragment. Menggandakan fragmen"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/texfragment/clone/
 ---
-## Metode TeXFragment.Clone
+## TeXFragment.Clone method
 
 Mengkloning fragmen.
 
@@ -14,12 +14,14 @@ Mengkloning fragmen.
 public override object Clone()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Fragmen yang dikloning.
+Fragmen yang digandakan.
 
 ### Lihat Juga
 
-* kelas [TeXFragment](../)
+* class [TeXFragment](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

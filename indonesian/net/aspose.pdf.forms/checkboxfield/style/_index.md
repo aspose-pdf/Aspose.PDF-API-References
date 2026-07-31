@@ -1,12 +1,12 @@
 ---
-title: CheckboxField.Style
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CheckboxField. Mendapatkan atau mengatur gaya kotak centang
+title: "CheckboxField.Style"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CheckboxField. Mendapatkan atau mengatur gaya kotak centang"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.forms/checkboxfield/style/
 ---
-## Properti CheckboxField.Style
+## CheckboxField.Style property
 
 Mendapatkan atau mengatur gaya kotak centang.
 
@@ -20,3 +20,5 @@ public BoxStyle Style { get; set; }
 * class [CheckboxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

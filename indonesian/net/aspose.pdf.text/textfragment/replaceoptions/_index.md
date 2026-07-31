@@ -1,14 +1,14 @@
 ---
-title: TextFragment.ReplaceOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextFragment. Mendapatkan opsi penggantian teks. Opsi menentukan perilaku saat teks fragmen diganti menjadi lebih pendek/panjang
+title: "TextFragment.ReplaceOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextFragment. Mendapatkan opsi penggantian teks. Opsi menentukan perilaku ketika teks fragmen diganti menjadi lebih pendek atau lebih panjang"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.text/textfragment/replaceoptions/
 ---
-## Properti TextFragment.ReplaceOptions
+## TextFragment.ReplaceOptions property
 
-Mendapatkan opsi penggantian teks. Opsi menentukan perilaku saat teks fragmen diganti menjadi lebih pendek/panjang.
+Mendapatkan opsi penggantian teks. Opsi-opsi tersebut menentukan perilaku ketika teks fragmen diganti menjadi lebih pendek/panjang.
 
 ```csharp
 public TextReplaceOptions ReplaceOptions { get; }
@@ -16,7 +16,9 @@ public TextReplaceOptions ReplaceOptions { get; }
 
 ### Lihat Juga
 
-* kelas [TextReplaceOptions](../../textreplaceoptions/)
-* kelas [TextFragment](../)
+* class [TextReplaceOptions](../../textreplaceoptions/)
+* class [TextFragment](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

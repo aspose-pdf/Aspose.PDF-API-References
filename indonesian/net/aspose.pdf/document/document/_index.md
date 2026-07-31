@@ -1,14 +1,14 @@
 ---
-title: Document.Document
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Dokumen. Inisialisasi instance Dokumen baru dari aliran input
+title: "Document.Document"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Document. Menginisialisasi instance Document baru dari aliran masukan"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/document/document/
 ---
 ## Document(Stream) {#constructor_2}
 
-Inisialisasi instance Dokumen baru dari aliran *input*.
+Menginisialisasi instance Document baru dari aliran *input*.
 
 ```csharp
 public Document(Stream input)
@@ -16,19 +16,19 @@ public Document(Stream input)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| input | Stream | Aliran dengan dokumen pdf. |
+| masukan | Stream | Stream dengan dokumen pdf. |
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(Stream, bool) {#constructor_4}
+## Document(Stream, bool) {#constructor_6}
 
-Inisialisasi instance Dokumen baru dari aliran *input*.
+Menginisialisasi instance Document baru dari aliran *input*.
 
 ```csharp
 public Document(Stream input, bool isManagedStream)
@@ -36,20 +36,20 @@ public Document(Stream input, bool isManagedStream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| input | Stream | Aliran dengan dokumen pdf. |
-| isManagedStream | Boolean | jika diatur ke `true` aliran dalam ditutup sebelum keluar; jika tidak, tidak. |
+| masukan | Stream | Stream dengan dokumen pdf. |
+| isManagedStream | Boolean | jika disetel ke `true` stream internal ditutup sebelum keluar; jika tidak, tidak. |
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(Stream, string) {#constructor_5}
+## Document(Stream, string) {#constructor_7}
 
-Inisialisasi instance Dokumen baru dari aliran *input*.
+Menginisialisasi instance Document baru dari aliran *input*.
 
 ```csharp
 public Document(Stream input, string password)
@@ -57,20 +57,133 @@ public Document(Stream input, string password)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| input | Stream | Objek aliran input, pdf yang sesuai dilindungi kata sandi. |
-| password | String | Kata sandi pengguna atau pemilik. |
+| masukan | Stream | Objek stream masukan, pdf yang bersangkutan dilindungi kata sandi. |
+| kata sandi | String | Kata sandi pengguna atau pemilik. |
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(Stream, string, bool) {#constructor_6}
+## Document(Stream, CertificateEncryptionOptions) {#constructor_4}
 
-Inisialisasi instance Dokumen baru dari aliran *input*.
+Menginisialisasi instance Document baru dari aliran *input*.
+
+```csharp
+public Document(Stream input, CertificateEncryptionOptions certOptions)
+```
+
+| Parameter | Tipe | Deskripsi |
+| --- | --- | --- |
+| masukan | Stream | Objek stream masukan, pdf yang bersangkutan dilindungi kata sandi. |
+| certOptions | CertificateEncryptionOptions | Opsi enkripsi sertifikat. |
+
+### Lihat Juga
+
+* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(Stream, CertificateEncryptionOptions, bool) {#constructor_5}
+
+Menginisialisasi instance Document baru dari aliran *input*.
+
+```csharp
+public Document(Stream input, CertificateEncryptionOptions certOptions, bool isManagedStream)
+```
+
+| Parameter | Tipe | Deskripsi |
+| --- | --- | --- |
+| masukan | Stream | Stream dengan dokumen pdf. |
+| certOptions | CertificateEncryptionOptions | Opsi enkripsi sertifikat. |
+| isManagedStream | Boolean | Jika disetel ke `true` aliran internal ditutup sebelum keluar; jika tidak, tidak. |
+
+### Lihat Juga
+
+* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(string, CertificateEncryptionOptions) {#constructor_13}
+
+Menginisialisasi instance baru dari kelas [`Document`](../) untuk bekerja dengan dokumen terenkripsi.
+
+```csharp
+public Document(string filename, CertificateEncryptionOptions certOptions)
+```
+
+| Parameter | Tipe | Deskripsi |
+| --- | --- | --- |
+| nama file | String | Nama file Document. |
+| certOptions | CertificateEncryptionOptions | Opsi enkripsi sertifikat. |
+
+### Lihat Juga
+
+* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(string, CertificateEncryptionOptions, bool) {#constructor_14}
+
+Menginisialisasi instance baru dari kelas [`Document`](../) untuk bekerja dengan dokumen terenkripsi.
+
+```csharp
+public Document(string filename, CertificateEncryptionOptions certOptions, bool isManagedStream)
+```
+
+| Parameter | Tipe | Deskripsi |
+| --- | --- | --- |
+| nama file | String | Nama file Document. |
+| certOptions | CertificateEncryptionOptions | Opsi enkripsi sertifikat. |
+| isManagedStream | Boolean | jika disetel ke `true` stream internal ditutup sebelum keluar; jika tidak, tidak. |
+
+### Lihat Juga
+
+* class [CertificateEncryptionOptions](../../../aspose.pdf.security/certificateencryptionoptions/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(Stream, string, ICustomSecurityHandler) {#constructor_8}
+
+Menginisialisasi instance Document baru dari aliran *input*.
+
+```csharp
+public Document(Stream input, string password, ICustomSecurityHandler customSecurityHandler)
+```
+
+| Parameter | Tipe | Deskripsi |
+| --- | --- | --- |
+| masukan | Stream | Objek stream masukan, pdf yang bersangkutan dilindungi kata sandi. |
+| kata sandi | String | Kata sandi pengguna atau pemilik. |
+| customSecurityHandler | ICustomSecurityHandler | Handler keamanan khusus. |
+
+### Lihat Juga
+
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(Stream, string, bool) {#constructor_9}
+
+Menginisialisasi instance Document baru dari aliran *input*.
 
 ```csharp
 public Document(Stream input, string password, bool isManagedStream)
@@ -78,21 +191,46 @@ public Document(Stream input, string password, bool isManagedStream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| input | Stream | Aliran dengan dokumen pdf. |
-| password | String | Kata sandi pengguna atau pemilik. |
-| isManagedStream | Boolean | Jika diatur ke `true` aliran dalam ditutup sebelum keluar; jika tidak, tidak. |
+| masukan | Stream | Stream dengan dokumen pdf. |
+| kata sandi | String | Kata sandi pengguna atau pemilik. |
+| isManagedStream | Boolean | Jika disetel ke `true` aliran internal ditutup sebelum keluar; jika tidak, tidak. |
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string) {#constructor_7}
+## Document(Stream, string, bool, ICustomSecurityHandler) {#constructor_10}
 
-Hanya inisialisasi Dokumen menggunakan *nama file*. Sama seperti `Document`.
+Menginisialisasi instance Document baru dari aliran *input*.
+
+```csharp
+public Document(Stream input, string password, bool isManagedStream, 
+    ICustomSecurityHandler customSecurityHandler)
+```
+
+| Parameter | Tipe | Deskripsi |
+| --- | --- | --- |
+| masukan | Stream | Stream dengan dokumen pdf. |
+| kata sandi | String | Kata sandi pengguna atau pemilik. |
+| isManagedStream | Boolean | Jika disetel ke `true` aliran internal ditutup sebelum keluar; jika tidak, tidak. |
+| customSecurityHandler | ICustomSecurityHandler | Handler keamanan khusus. |
+
+### Lihat Juga
+
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(string) {#constructor_11}
+
+Cukup inisialisasi Document menggunakan *filename*. Sama dengan `Document`.
 
 ```csharp
 public Document(string filename)
@@ -100,19 +238,19 @@ public Document(string filename)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| filename | String | Nama file dokumen pdf. |
+| nama file | String | Nama file dokumen pdf. |
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string, bool) {#constructor_9}
+## Document(string, bool) {#constructor_15}
 
-Hanya inisialisasi Dokumen menggunakan *nama file*. Sama seperti `Document`.
+Cukup inisialisasi Document menggunakan *filename*. Sama dengan `Document`.
 
 ```csharp
 public Document(string filename, bool isManagedStream)
@@ -120,18 +258,41 @@ public Document(string filename, bool isManagedStream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| filename | String | Nama file dokumen pdf. |
-| isManagedStream | Boolean | Jika diatur ke `true` aliran dalam ditutup sebelum keluar; jika tidak, tidak. |
+| nama file | String | Nama file dokumen pdf. |
+| isManagedStream | Boolean | Jika disetel ke `true` aliran internal ditutup sebelum keluar; jika tidak, tidak. |
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string, string) {#constructor_10}
+## Document(string, string, ICustomSecurityHandler) {#constructor_17}
+
+Menginisialisasi instance baru dari kelas [`Document`](../) untuk bekerja dengan dokumen terenkripsi.
+
+```csharp
+public Document(string filename, string password, ICustomSecurityHandler customSecurityHandler)
+```
+
+| Parameter | Tipe | Deskripsi |
+| --- | --- | --- |
+| nama file | String | Nama file Document. |
+| kata sandi | String | Kata sandi pengguna atau pemilik. |
+| customSecurityHandler | ICustomSecurityHandler | Handler keamanan khusus. |
+
+### Lihat Juga
+
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(string, string) {#constructor_16}
 
 Menginisialisasi instance baru dari kelas [`Document`](../) untuk bekerja dengan dokumen terenkripsi.
 
@@ -141,18 +302,18 @@ public Document(string filename, string password)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| filename | String | Nama file dokumen. |
-| password | String | Kata sandi pengguna atau pemilik. |
+| nama file | String | Nama file Document. |
+| kata sandi | String | Kata sandi pengguna atau pemilik. |
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string, string, bool) {#constructor_11}
+## Document(string, string, bool) {#constructor_18}
 
 Menginisialisasi instance baru dari kelas [`Document`](../) untuk bekerja dengan dokumen terenkripsi.
 
@@ -162,13 +323,38 @@ public Document(string filename, string password, bool isManagedStream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| filename | String | Nama file dokumen. |
-| password | String | Kata sandi pengguna atau pemilik. |
-| isManagedStream | Boolean | jika diatur ke `true` aliran dalam ditutup sebelum keluar; jika tidak, tidak. |
+| nama file | String | Nama file Document. |
+| kata sandi | String | Kata sandi pengguna atau pemilik. |
+| isManagedStream | Boolean | jika disetel ke `true` stream internal ditutup sebelum keluar; jika tidak, tidak. |
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
+* namespace [Aspose.Pdf](../../../aspose.pdf/)
+* assembly [Aspose.PDF](../../../)
+
+---
+
+## Document(string, string, bool, ICustomSecurityHandler) {#constructor_19}
+
+Menginisialisasi instance baru dari kelas [`Document`](../) untuk bekerja dengan dokumen terenkripsi.
+
+```csharp
+public Document(string filename, string password, bool isManagedStream, 
+    ICustomSecurityHandler customSecurityHandler)
+```
+
+| Parameter | Tipe | Deskripsi |
+| --- | --- | --- |
+| nama file | String | Nama file Document. |
+| kata sandi | String | Kata sandi pengguna atau pemilik. |
+| isManagedStream | Boolean | jika disetel ke `true` stream internal ditutup sebelum keluar; jika tidak, tidak. |
+| customSecurityHandler | ICustomSecurityHandler | Handler keamanan khusus. |
+
+### Lihat Juga
+
+* interface [ICustomSecurityHandler](../../../aspose.pdf.security/icustomsecurityhandler/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -184,7 +370,7 @@ public Document()
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -200,20 +386,20 @@ public Document(PdfVersion version)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| version | PdfVersion | Versi PDF. |
+| versi | PdfVersion | Versi PDF. |
 
 ### Lihat Juga
 
 * enum [PdfVersion](../../pdfversion/)
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Document(string, LoadOptions) {#constructor_8}
+## Document(string, LoadOptions) {#constructor_12}
 
-Membuka dokumen yang ada dari file dengan memberikan opsi konversi yang diperlukan untuk mendapatkan dokumen pdf.
+Membuka dokumen yang ada dari file dengan menyediakan opsi konversi yang diperlukan untuk mendapatkan dokumen pdf.
 
 ```csharp
 public Document(string filename, LoadOptions options)
@@ -221,13 +407,13 @@ public Document(string filename, LoadOptions options)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| filename | String | File input untuk dikonversi menjadi dokumen pdf. |
+| nama file | String | File masukan untuk mengonversi menjadi dokumen pdf. |
 | options | LoadOptions | Mewakili properti untuk mengonversi *filename* menjadi dokumen pdf. |
 
 ### Lihat Juga
 
-* kelas [LoadOptions](../../loadoptions/)
-* kelas [Document](../)
+* class [LoadOptions](../../loadoptions/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -235,7 +421,7 @@ public Document(string filename, LoadOptions options)
 
 ## Document(Stream, LoadOptions) {#constructor_3}
 
-Membuka dokumen yang ada dari aliran dengan memberikan konversi yang diperlukan untuk mendapatkan dokumen pdf.
+Membuka dokumen yang ada dari aliran dengan menyediakan konversi yang diperlukan untuk mendapatkan dokumen pdf.
 
 ```csharp
 public Document(Stream input, LoadOptions options)
@@ -243,12 +429,14 @@ public Document(Stream input, LoadOptions options)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| input | Stream | Aliran input untuk dikonversi menjadi dokumen pdf. |
-| options | LoadOptions | Mewakili properti untuk mengonversi *input* menjadi dokumen pdf. |
+| masukan | Stream | Stream masukan untuk mengonversi menjadi dokumen pdf. |
+| options | LoadOptions | Mewakili properti untuk mengonversi *masukan* menjadi dokumen pdf. |
 
 ### Lihat Juga
 
-* kelas [LoadOptions](../../loadoptions/)
-* kelas [Document](../)
+* class [LoadOptions](../../loadoptions/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

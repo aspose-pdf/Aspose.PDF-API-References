@@ -1,14 +1,14 @@
 ---
-title: TocInfo.PageNumbersPrefix
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TocInfo. Mendapatkan atau mengatur awalan sebelum nomor halaman
+title: "TocInfo.PageNumbersPrefix"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TocInfo. Mendapatkan atau mengatur apakah ada awalan sebelum nomor halaman"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf/tocinfo/pagenumbersprefix/
 ---
-## Properti TocInfo.PageNumbersPrefix
+## TocInfo.PageNumbersPrefix property
 
-Mendapatkan atau mengatur awalan sebelum nomor halaman.
+Mendapatkan atau mengatur apakah ada awalan sebelum nomor halaman.
 
 ```csharp
 public string PageNumbersPrefix { get; set; }
@@ -16,6 +16,8 @@ public string PageNumbersPrefix { get; set; }
 
 ### Lihat Juga
 
-* kelas [TocInfo](../)
+* class [TocInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

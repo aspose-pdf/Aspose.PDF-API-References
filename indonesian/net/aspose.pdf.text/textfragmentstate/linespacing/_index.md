@@ -1,14 +1,14 @@
 ---
-title: TextFragmentState.LineSpacing
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextFragmentState. Mengambil atau mengatur jarak antar baris teks
+title: "TextFragmentState.LineSpacing"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextFragmentState. Mendapatkan atau mengatur jarak baris teks."
 type: docs
 weight: 140
 url: /id/net/aspose.pdf.text/textfragmentstate/linespacing/
 ---
-## Properti TextFragmentState.LineSpacing
+## TextFragmentState.LineSpacing property
 
-Mengambil atau mengatur jarak antar baris teks.
+Mendapatkan atau mengatur jarak baris teks.
 
 ```csharp
 public override float LineSpacing { get; set; }
@@ -16,10 +16,12 @@ public override float LineSpacing { get; set; }
 
 ## Catatan
 
-Perhatikan bahwa nilai tersebut tidak dipertahankan sebagai karakteristik teks dalam dokumen. Pengambil properti LineSpacing berfungsi untuk objek jika sebelumnya telah diatur secara eksplisit dengan pengatur LineSpacing untuk objek tersebut. Properti ini digunakan oleh runtime dalam konteks proses generasi/modifikasi saat ini.
+Catatan bahwa nilai tidak dipertahankan sebagai karakteristik teks dalam dokumen. Getter properti LineSpacing berfungsi untuk sebuah objek jika sebelumnya nilai tersebut secara eksplisit diatur dengan setter LineSpacing untuk objek tersebut. Properti ini digunakan oleh runtime dalam konteks proses generasi/modifikasi saat ini.
 
 ### Lihat Juga
 
-* kelas [TextFragmentState](../)
-* ruang nama [Aspose.Pdf.Text](../../../aspose.pdf.text/)
+* class [TextFragmentState](../)
+* namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

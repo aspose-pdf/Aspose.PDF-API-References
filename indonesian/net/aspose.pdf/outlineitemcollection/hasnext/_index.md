@@ -1,12 +1,12 @@
 ---
-title: OutlineItemCollection.HasNext
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OutlineItemCollection. Periksa apakah item outline yang mewakili item berikutnya relatif terhadap item ini dalam hierarki outline
+title: "OutlineItemCollection.HasNext"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OutlineItemCollection. Memeriksa apakah ada item outline yang mewakili item berikutnya relatif terhadap item ini dalam hierarki outline"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf/outlineitemcollection/hasnext/
 ---
-## Properti OutlineItemCollection.HasNext
+## OutlineItemCollection.HasNext property
 
 Periksa apakah item outline yang mewakili item berikutnya relatif terhadap item ini dalam hierarki outline.
 
@@ -16,6 +16,8 @@ public bool HasNext { get; }
 
 ### Lihat Juga
 
-* kelas [OutlineItemCollection](../)
+* class [OutlineItemCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Form.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Form. Mengambil field dari form berdasarkan nama field. Menghasilkan pengecualian jika field tidak ditemukan
+title: "Form.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Form. Mendapatkan bidang formulir berdasarkan nama bidang. Melempar pengecualian jika bidang tidak ditemukan"
 type: docs
-weight: 110
+weight: 120
 url: /id/net/aspose.pdf.forms/form/item/
 ---
-## Indeks Form (1 dari 2)
+## Form indexer (1 of 2)
 
-Mengambil field dari form berdasarkan nama field. Menghasilkan pengecualian jika field tidak ditemukan.
+Mendapatkan bidang formulir berdasarkan nama bidang. Melempar pengecualian jika bidang tidak ditemukan.
 
 ```csharp
 public WidgetAnnotation this[string name] { get; }
@@ -16,11 +16,11 @@ public WidgetAnnotation this[string name] { get; }
 
 | Parameter | Deskripsi |
 | --- | --- |
-| name | Nama dari field. |
+| nama | Nama bidang. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Field yang diambil.
+Bidang yang diambil.
 
 ### Lihat Juga
 
@@ -31,9 +31,9 @@ Field yang diambil.
 
 ---
 
-## Indeks Form (2 dari 2)
+## Form indexer (2 of 2)
 
-Mengambil field dari form berdasarkan indeks field.
+Mendapatkan bidang formulir berdasarkan indeks bidang.
 
 ```csharp
 public WidgetAnnotation this[int index] { get; }
@@ -41,11 +41,11 @@ public WidgetAnnotation this[int index] { get; }
 
 | Parameter | Deskripsi |
 | --- | --- |
-| index | Indeks dari field. |
+| index | Indeks bidang. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Field yang diambil.
+Bidang yang diambil.
 
 ### Lihat Juga
 
@@ -53,3 +53,5 @@ Field yang diambil.
 * class [Form](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

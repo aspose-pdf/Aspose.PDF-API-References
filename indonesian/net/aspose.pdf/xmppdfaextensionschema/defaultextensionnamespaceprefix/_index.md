@@ -1,14 +1,14 @@
 ---
-title: XmpPdfAExtensionSchema.DefaultExtensionNamespacePrefix
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang XmpPdfAExtensionSchema. Prefiks namespace ekstensi default
+title: "XmpPdfAExtensionSchema.DefaultExtensionNamespacePrefix"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "XmpPdfAExtensionSchema bidang. Prefiks namespace ekstensi default"
 type: docs
 weight: 100
 url: /id/net/aspose.pdf/xmppdfaextensionschema/defaultextensionnamespaceprefix/
 ---
-## Bidang XmpPdfAExtensionSchema.DefaultExtensionNamespacePrefix
+## XmpPdfAExtensionSchema.DefaultExtensionNamespacePrefix field
 
-Prefiks namespace ekstensi default.
+Prefiks ruang nama ekstensi default.
 
 ```csharp
 public const string DefaultExtensionNamespacePrefix;
@@ -16,6 +16,8 @@ public const string DefaultExtensionNamespacePrefix;
 
 ### Lihat Juga
 
-* kelas [XmpPdfAExtensionSchema](../)
+* class [XmpPdfAExtensionSchema](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

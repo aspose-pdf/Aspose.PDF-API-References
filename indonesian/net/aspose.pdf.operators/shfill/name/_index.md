@@ -1,12 +1,12 @@
 ---
-title: ShFill.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ShFill. Mendapatkan atau mengatur nama shading
+title: "ShFill.Name"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ShFill. Mendapatkan atau mengatur nama shading"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.operators/shfill/name/
 ---
-## Properti ShFill.Name
+## ShFill.Name property
 
 Mendapatkan atau mengatur nama shading.
 
@@ -16,6 +16,8 @@ public string Name { get; set; }
 
 ### Lihat Juga
 
-* kelas [ShFill](../)
+* class [ShFill](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

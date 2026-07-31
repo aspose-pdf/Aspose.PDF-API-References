@@ -1,25 +1,27 @@
 ---
-title: Color.NavajoWhite
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FFFFDEAD
+title: "Color.NavajoWhite"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB c FFFFDEAD"
 type: docs
 weight: 960
 url: /id/net/aspose.pdf/color/navajowhite/
 ---
-## Properti Color.NavajoWhite
+## Color.NavajoWhite property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FFFFDEAD.
+Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB \c \#FFFFDEAD.
 
 ```csharp
 public static Color NavajoWhite { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah representasi warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,21 +1,23 @@
 ---
-title: OpenAICopilotOptionsBase.Model
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OpenAICopilotOptionsBase. Mendapatkan atau menetapkan model yang digunakan untuk asisten
+title: "OpenAICopilotOptionsBase.Model"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "OpenAICopilotOptionsBase property. Mendapatkan atau mengatur model yang akan digunakan untuk asisten"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/openaicopilotoptionsbase/model/
 ---
-## Properti OpenAICopilotOptionsBase.Model
+## OpenAICopilotOptionsBase.Model property
 
-Mendapatkan atau menetapkan model yang digunakan untuk asisten.
+Mendapatkan atau mengatur model yang akan digunakan untuk asisten.
 
 ```csharp
-public virtual string Model { get; set; }
+public string Model { get; set; }
 ```
 
 ### Lihat Juga
 
-* kelas [OpenAICopilotOptionsBase](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [OpenAICopilotOptionsBase](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

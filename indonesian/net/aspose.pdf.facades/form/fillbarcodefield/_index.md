@@ -1,14 +1,14 @@
 ---
-title: Form.FillBarcodeField
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Form. Mengisi bidang barcode sesuai dengan nama bidang yang sepenuhnya memenuhi syarat
+title: "Form.FillBarcodeField"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Form. Isi bidang barcode sesuai dengan nama bidang yang sepenuhnya memenuhi syarat"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.facades/form/fillbarcodefield/
 ---
-## Metode Form.FillBarcodeField
+## Form.FillBarcodeField method
 
-Mengisi bidang barcode sesuai dengan nama bidang yang sepenuhnya memenuhi syarat.
+Isi bidang barcode sesuai dengan nama bidang yang sepenuhnya memenuhi syarat.
 
 ```csharp
 public bool FillBarcodeField(string fieldName, string data)
@@ -16,10 +16,10 @@ public bool FillBarcodeField(string fieldName, string data)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| fieldName | String | Nama bidang yang sepenuhnya memenuhi syarat. |
+| fieldName | String | Nama bidang yang sepenuhnya memenuhi kualifikasi. |
 | data | String | Nilai barcode baru. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Jika pengisian berhasil, kembalikan true; jika tidak, false.
 
@@ -32,6 +32,8 @@ form.FillBarcodeField("textField", "42207252");
 
 ### Lihat Juga
 
-* kelas [Form](../)
+* class [Form](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

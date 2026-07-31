@@ -1,12 +1,12 @@
 ---
-title: Document.JavaScript
-second_title: Aspose.PDF for .NET API Reference
-description: Properti dokumen. Koleksi JavaScript tingkat dokumen
+title: "Document.JavaScript"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Document. Koleksi JavaScript tingkat dokumen"
 type: docs
-weight: 340
+weight: 360
 url: /id/net/aspose.pdf/document/javascript/
 ---
-## Properti Document.JavaScript
+## Document.JavaScript property
 
 Koleksi JavaScript tingkat dokumen.
 
@@ -16,7 +16,9 @@ public JavaScriptCollection JavaScript { get; }
 
 ### Lihat Juga
 
-* kelas [JavaScriptCollection](../../javascriptcollection/)
-* kelas [Document](../)
+* class [JavaScriptCollection](../../javascriptcollection/)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Font.BaseFont
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Font. Mendapatkan nilai BaseFont dari objek font PDF. Juga dikenal sebagai nama PostScript dari font
+title: "Font.BaseFont"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Font. Mendapatkan nilai BaseFont dari objek font PDF. Juga dikenal sebagai nama PostScript font."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.text/font/basefont/
 ---
-## Properti Font.BaseFont
+## Font.BaseFont property
 
-Mendapatkan nilai BaseFont dari objek font PDF. Juga dikenal sebagai nama PostScript dari font.
+Mendapatkan nilai BaseFont dari objek font PDF. Juga dikenal sebagai nama PostScript font.
 
 ```csharp
 public string BaseFont { get; }
@@ -16,6 +16,8 @@ public string BaseFont { get; }
 
 ### Lihat Juga
 
-* kelas [Font](../)
+* class [Font](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

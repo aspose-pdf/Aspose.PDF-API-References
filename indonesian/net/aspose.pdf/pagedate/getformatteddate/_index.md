@@ -1,12 +1,12 @@
 ---
-title: PageDate.GetFormattedDate
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PageDate. Mengembalikan string tanggal yang diformat berdasarkan format tanggal saat ini
+title: "PageDate.GetFormattedDate"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PageDate. Mengembalikan string tanggal yang diformat berdasarkan format tanggal saat ini."
 type: docs
 weight: 60
 url: /id/net/aspose.pdf/pagedate/getformatteddate/
 ---
-## Metode PageDate.GetFormattedDate
+## PageDate.GetFormattedDate method
 
 Mengembalikan string tanggal yang diformat berdasarkan format tanggal saat ini.
 
@@ -14,12 +14,14 @@ Mengembalikan string tanggal yang diformat berdasarkan format tanggal saat ini.
 public string GetFormattedDate()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah string tanggal yang diformat.
+String tanggal yang diformat.
 
 ### Lihat Juga
 
-* kelas [PageDate](../)
+* class [PageDate](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

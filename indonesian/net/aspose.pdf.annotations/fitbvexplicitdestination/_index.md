@@ -1,14 +1,14 @@
 ---
-title: Class FitBVExplicitDestination
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Annotations.FitBVExplicitDestination. Mewakili tujuan eksplisit yang menampilkan halaman dengan koordinat horizontal kiri yang diposisikan di tepi kiri jendela dan konten halaman diperbesar cukup untuk menyesuaikan seluruh tinggi kotak pembatasnya dalam jendela. Nilai null untuk kiri menunjukkan bahwa nilai saat ini dari parameter tersebut harus dipertahankan tanpa perubahan.
+title: "Kelas FitBVExplicitDestination"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Annotations.FitBVExplicitDestination class. Mewakili tujuan eksplisit yang menampilkan halaman dengan koordinat horizontal kiri ditempatkan pada tepi kiri jendela dan isi halaman diperbesar cukup untuk menyesuaikan seluruh tinggi kotak pembatasnya dalam jendela. Nilai null untuk kiri menunjukkan bahwa nilai saat ini dari parameter tersebut harus dipertahankan tidak berubah."
 type: docs
-weight: 1750
+weight: 1840
 url: /id/net/aspose.pdf.annotations/fitbvexplicitdestination/
 ---
-## Kelas FitBVExplicitDestination
+## FitBVExplicitDestination class
 
-Mewakili tujuan eksplisit yang menampilkan halaman dengan koordinat horizontal kiri yang diposisikan di tepi kiri jendela dan konten halaman diperbesar cukup untuk menyesuaikan seluruh tinggi kotak pembatasnya dalam jendela. Nilai null untuk kiri menunjukkan bahwa nilai saat ini dari parameter tersebut harus dipertahankan tanpa perubahan.
+Merepresentasikan tujuan eksplisit yang menampilkan halaman dengan koordinat horizontal kiri ditempatkan pada tepi kiri jendela dan isi halaman diperbesar cukup untuk menyesuaikan tinggi penuh kotak pembatasnya dalam jendela. Nilai null untuk left menunjukkan bahwa nilai parameter tersebut tetap dipertahankan tanpa perubahan.
 
 ```csharp
 public sealed class FitBVExplicitDestination : ExplicitDestination
@@ -33,10 +33,12 @@ public sealed class FitBVExplicitDestination : ExplicitDestination
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [ToString](../../aspose.pdf.annotations/fitbvexplicitdestination/tostring/)() | Mengonversi status objek menjadi nilai string. Contoh: "1 FitBV 100". |
+| override [ToString](../../aspose.pdf.annotations/fitbvexplicitdestination/tostring/)() | Mengonversi keadaan objek menjadi nilai string. Contoh: "1 FitBV 100". |
 
 ### Lihat Juga
 
-* kelas [ExplicitDestination](../explicitdestination/)
+* class [ExplicitDestination](../explicitdestination/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

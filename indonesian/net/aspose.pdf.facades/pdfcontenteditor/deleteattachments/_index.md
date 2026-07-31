@@ -1,12 +1,12 @@
 ---
-title: PdfContentEditor.DeleteAttachments
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfContentEditor. Menghapus semua lampiran dalam dokumen PDF
+title: "PdfContentEditor.DeleteAttachments"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfContentEditor metode. Menghapus semua lampiran dalam dokumen PDF"
 type: docs
 weight: 310
 url: /id/net/aspose.pdf.facades/pdfcontenteditor/deleteattachments/
 ---
-## Metode PdfContentEditor.DeleteAttachments
+## PdfContentEditor.DeleteAttachments method
 
 Menghapus semua lampiran dalam dokumen PDF.
 
@@ -25,6 +25,8 @@ editor.Save("example_out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfContentEditor](../)
+* class [PdfContentEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileSignature.ExtractCertificate
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileSignature. Mengekstrak tanda tangan sertifikat X.509 tunggal sebagai aliran
+title: "PdfFileSignature.ExtractCertificate"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileSignature. Mengekstrak sertifikat X.509 tunggal tanda tangan sebagai aliran"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.facades/pdffilesignature/extractcertificate/
 ---
-## Metode PdfFileSignature.ExtractCertificate
+## PdfFileSignature.ExtractCertificate method
 
-Mengekstrak sertifikat X.509 tunggal dari tanda tangan sebagai aliran.
+Mengekstrak sertifikat X.509 tunggal tanda tangan sebagai aliran.
 
 ```csharp
 public Stream ExtractCertificate(SignatureName signName)
@@ -18,13 +18,15 @@ public Stream ExtractCertificate(SignatureName signName)
 | --- | --- | --- |
 | signName | SignatureName | Nama tanda tangan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Jika sertifikat ditemukan, mengembalikan sertifikat X.509 tunggal; jika tidak, null.
 
 ### Lihat Juga
 
-* kelas [SignatureName](../../signaturename/)
-* kelas [PdfFileSignature](../)
+* class [SignatureName](../../signaturename/)
+* class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

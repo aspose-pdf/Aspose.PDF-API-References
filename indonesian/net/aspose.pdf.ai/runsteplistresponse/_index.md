@@ -1,14 +1,14 @@
 ---
-title: Class RunStepListResponse
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.RunStepListResponse. Mewakili respons daftar yang berisi data langkah eksekusi
+title: "Kelas RunStepListResponse"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.RunStepListResponse. Mewakili respons daftar yang berisi data langkah eksekusi"
 type: docs
-weight: 1050
+weight: 1130
 url: /id/net/aspose.pdf.ai/runsteplistresponse/
 ---
-## Kelas RunStepListResponse
+## RunStepListResponse class
 
-Mewakili respons daftar yang berisi data langkah eksekusi.
+Mewakili respons daftar yang berisi data langkah run.
 
 ```csharp
 public class RunStepListResponse : ListDataResponse<List<RunStepResponse>>
@@ -38,7 +38,9 @@ public class RunStepListResponse : ListDataResponse<List<RunStepResponse>>
 
 ### Lihat Juga
 
-* kelas [ListDataResponse&lt;T&gt;](../listdataresponse-1/)
-* kelas [RunStepResponse](../runstepresponse/)
+* class [ListDataResponse&lt;T&gt;](../listdataresponse-1/)
+* class [RunStepResponse](../runstepresponse/)
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

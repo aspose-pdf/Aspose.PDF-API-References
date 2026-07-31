@@ -1,14 +1,14 @@
 ---
-title: OutputIntents.Item
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OutputIntents. Mendapatkan niat keluaran pada indeks yang ditentukan
+title: "OutputIntents.Item"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OutputIntents. Mendapatkan output intent pada indeks yang ditentukan."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/outputintents/item/
 ---
-## Indeks OutputIntents
+## OutputIntents indexer
 
-Mendapatkan niat keluaran pada *indeks* yang ditentukan.
+Mendapatkan output intent pada *index* yang ditentukan.
 
 ```csharp
 public OutputIntent this[int index] { get; }
@@ -16,11 +16,11 @@ public OutputIntent this[int index] { get; }
 
 | Parameter | Deskripsi |
 | --- | --- |
-| index | Indeks berbasis nol dari niat keluaran yang akan diambil. |
+| index | Indeks berbasis nol dari output intent yang akan diambil. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Niat keluaran pada *indeks* yang ditentukan.
+Output intent pada *index* yang ditentukan.
 
 ### Pengecualian
 
@@ -31,7 +31,9 @@ Niat keluaran pada *indeks* yang ditentukan.
 
 ### Lihat Juga
 
-* kelas [OutputIntent](../../outputintent/)
-* kelas [OutputIntents](../)
+* class [OutputIntent](../../outputintent/)
+* class [OutputIntents](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: PageCollection.SyncRoot
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageCollection. Mendapatkan objek sinkronisasi dari koleksi
+title: "PageCollection.SyncRoot"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PageCollection. Mendapatkan objek sinkronisasi dari koleksi"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf/pagecollection/syncroot/
 ---
-## Properti PageCollection.SyncRoot
+## PageCollection.SyncRoot property
 
 Mendapatkan objek sinkronisasi dari koleksi.
 
@@ -16,6 +16,8 @@ public object SyncRoot { get; }
 
 ### Lihat Juga
 
-* kelas [PageCollection](../)
+* class [PageCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Enum SaveFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Aspose.Pdf.SaveFormat enum. Specifies format
+title: "Enum SaveFormat"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Enum Aspose.Pdf.SaveFormat. Menentukan format"
 type: docs
-weight: 9860
+weight: 10010
 url: /id/net/aspose.pdf/saveformat/
 ---
-## Enumerasi SaveFormat
+## SaveFormat enumeration
 
 Menentukan format
 
@@ -18,20 +18,20 @@ public enum SaveFormat
 
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
-| Pdf | `0` | berarti menyimpan tanpa mengubah format, yaitu sebagai PDF, silakan gunakan ini sebagai pengganti 'SaveFormat.None', yang sudah usang |
-| None | `0` | berarti menyimpan tanpa mengubah format, yaitu sebagai PDF. Ini adalah yang sudah usang dan akan dihapus pada akhirnya, silakan gunakan sebagai pengganti 'SaveFormat.Pdf' |
+| Pdf | `0` | berarti menyimpan tanpa mengubah format, yaitu sebagai PDF, gunakan ini silakan alih-alih 'SaveFormat.None', yang sudah usang |
+| None | `0` | berarti menyimpan tanpa mengubah format, yaitu sebagai PDF. Ini sudah usang dan akan dihapus nanti, silakan gunakan 'SaveFormat.Pdf' |
 | Doc | `1` | berarti menyimpan dalam format DOC |
 | Xps | `2` | berarti menyimpan dalam format XPS |
 | Html | `3` | berarti menyimpan dalam format HTML |
 | Xml | `4` | berarti menyimpan dalam format XML |
-| TeX | `5` | berarti menyimpan dalam format TEX yaitu format yang cocok untuk editor teks Latex |
+| TeX | `5` | berarti menyimpan dalam format TEX, yaitu format yang cocok untuk editor teks LaTeX |
 | DocX | `6` | berarti menyimpan dalam format DOCX |
 | Svg | `7` | berarti menyimpan dalam format SVG |
-| MobiXml | `8` | berarti menyimpan dalam format MobiXML (format khusus buku elektronik) |
+| MobiXml | `8` | berarti menyimpan dalam format MobiXML (format khusus untuk e-book) |
 | Excel | `9` | berarti menyimpan dalam format MsExcel |
-| Epub | `10` | berarti menyimpan dalam format EPUB (format khusus buku elektronik) |
+| Epub | `10` | berarti menyimpan dalam format EPUB (format khusus untuk e-book) |
 | Pptx | `14` | berarti menyimpan dalam format PPTX |
-| Aps | `15` | Menyimpan sebagai file XML APS. |
+| Aps | `15` | Menyimpan sebagai file APS XML. |
 | PdfXml | `16` | Struktur dokumen PDF internal dalam format XML |
 | Ps | `17` | berarti menyimpan dalam format PostScript. |
 | Eps | `18` | berarti menyimpan dalam format Encapsulated PostScript. |
@@ -41,3 +41,5 @@ public enum SaveFormat
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

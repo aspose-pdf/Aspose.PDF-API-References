@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.GetVectorStoreFilesAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IOpenAIClient. Mengambil daftar file dalam penyimpanan vektor tertentu secara asinkron
+title: "IOpenAIClient.GetVectorStoreFilesAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "metode IOpenAIClient. Mengambil daftar file dalam vector store tertentu secara asinkron"
 type: docs
 weight: 340
 url: /id/net/aspose.pdf.ai/iopenaiclient/getvectorstorefilesasync/
 ---
-## Metode IOpenAIClient.GetVectorStoreFilesAsync
+## IOpenAIClient.GetVectorStoreFilesAsync method
 
-Mengambil daftar file dalam penyimpanan vektor tertentu secara asinkron.
+Mengambil daftar file dalam vector store tertentu secara asynchronous.
 
 ```csharp
 public Task<VectorStoreFileListResponse> GetVectorStoreFilesAsync(string vectorStoreId, 
@@ -18,24 +18,26 @@ public Task<VectorStoreFileListResponse> GetVectorStoreFilesAsync(string vectorS
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| vectorStoreId | String | ID dari penyimpanan vektor yang berisi file. |
+| vectorStoreId | String | ID vector store yang berisi file-file. |
 | queryParameters | VectorStoreFileListQueryParameters | Parameter kueri opsional untuk memfilter daftar file. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi daftar file dalam penyimpanan vektor.
+Tugas yang mewakili operasi asinkron. Hasil tugas berisi daftar file dalam vector store.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika ID penyimpanan vektor adalah null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika ID vector store null atau kosong. |
 
 ### Lihat Juga
 
-* kelas [VectorStoreFileListResponse](../../vectorstorefilelistresponse/)
-* kelas [VectorStoreFileListQueryParameters](../../vectorstorefilelistqueryparameters/)
-* antarmuka [IOpenAIClient](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreFileListResponse](../../vectorstorefilelistresponse/)
+* class [VectorStoreFileListQueryParameters](../../vectorstorefilelistqueryparameters/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

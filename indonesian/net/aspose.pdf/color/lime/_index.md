@@ -1,25 +1,27 @@
 ---
-title: Color.Lime
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FF00FF00
+title: "Color.Lime"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem yang memiliki nilai ARGB c FF00FF00"
 type: docs
 weight: 780
 url: /id/net/aspose.pdf/color/lime/
 ---
-## Properti Color.Lime
+## Color.Lime property
 
-Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FF00FF00.
+Mendapatkan warna yang didefinisikan sistem yang memiliki nilai ARGB \c \#FF00FF00.
 
 ```csharp
 public static Color Lime { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah yang mewakili warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

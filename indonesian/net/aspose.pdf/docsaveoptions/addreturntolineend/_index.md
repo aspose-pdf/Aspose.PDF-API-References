@@ -1,14 +1,14 @@
 ---
-title: DocSaveOptions.AddReturnToLineEnd
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DocSaveOptions. Gunakan paragraf atau pemisah baris
+title: "DocSaveOptions.AddReturnToLineEnd"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti DocSaveOptions. Menggunakan jeda paragraf atau baris"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/docsaveoptions/addreturntolineend/
 ---
-## Properti DocSaveOptions.AddReturnToLineEnd
+## DocSaveOptions.AddReturnToLineEnd property
 
-Gunakan paragraf atau pemisah baris
+Gunakan paragraf atau jeda baris
 
 ```csharp
 public bool AddReturnToLineEnd { get; set; }
@@ -16,6 +16,8 @@ public bool AddReturnToLineEnd { get; set; }
 
 ### Lihat Juga
 
-* kelas [DocSaveOptions](../)
+* class [DocSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

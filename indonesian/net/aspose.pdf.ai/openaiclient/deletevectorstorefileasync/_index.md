@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.DeleteVectorStoreFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode OpenAIClient. Menghapus file dalam penyimpanan vektor secara asinkron
+title: "OpenAIClient.DeleteVectorStoreFileAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode OpenAIClient. Menghapus file dalam vector store secara asinkron"
 type: docs
 weight: 180
 url: /id/net/aspose.pdf.ai/openaiclient/deletevectorstorefileasync/
 ---
-## Metode OpenAIClient.DeleteVectorStoreFileAsync
+## OpenAIClient.DeleteVectorStoreFileAsync method
 
-Menghapus file dalam penyimpanan vektor secara asinkron.
+Menghapus file dalam vector store secara asinkron.
 
 ```csharp
 public Task<DeleteStatusResponse> DeleteVectorStoreFileAsync(string vectorStoreId, string fileId, 
@@ -17,24 +17,26 @@ public Task<DeleteStatusResponse> DeleteVectorStoreFileAsync(string vectorStoreI
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| vectorStoreId | String | ID dari penyimpanan vektor yang berisi file yang akan dihapus. |
-| fileId | String | ID dari file yang akan dihapus. |
+| vectorStoreId | String | ID vector store yang berisi file yang akan dihapus. |
+| fileId | String | ID file yang akan dihapus. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi status dari operasi penghapusan.
+Tugas yang mewakili operasi asinkron. Hasil tugas berisi status operasi penghapusan.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika ID penyimpanan vektor adalah null atau kosong. |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika ID file adalah null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika ID vector store null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika Id file null atau kosong. |
 
 ### Lihat Juga
 
-* kelas [DeleteStatusResponse](../../deletestatusresponse/)
-* kelas [OpenAIClient](../)
+* class [DeleteStatusResponse](../../deletestatusresponse/)
+* class [OpenAIClient](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

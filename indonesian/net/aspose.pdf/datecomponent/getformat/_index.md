@@ -1,12 +1,12 @@
 ---
-title: DateComponent.GetFormat
-second_title: Aspose.PDF for .NET API Reference
-description: Metode DateComponent. Mengembalikan string yang terdiri dari karakter tertentu yang diulang berdasarkan format
+title: "DateComponent.GetFormat"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode DateComponent. Mengembalikan string yang terdiri dari karakter tertentu yang diulang berdasarkan format"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/datecomponent/getformat/
 ---
-## Metode DateComponent.GetFormat
+## DateComponent.GetFormat method
 
 Mengembalikan string yang terdiri dari karakter tertentu yang diulang berdasarkan format.
 
@@ -18,12 +18,14 @@ public string GetFormat(char ch)
 | --- | --- | --- |
 | ch | Char | Karakter yang akan diulang. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah string yang terdiri dari karakter yang diulang.
+String yang terdiri dari karakter yang diulang.
 
 ### Lihat Juga
 
-* kelas [DateComponent](../)
+* class [DateComponent](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: TextParagraph.Justify
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextParagraph. Mendapatkan atau mengatur nilai apakah teks diratakan
+title: "TextParagraph.Justify"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextParagraph. Mendapatkan atau mengatur nilai apakah teks diratakan"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.text/textparagraph/justify/
 ---
-## Properti TextParagraph.Justify
+## TextParagraph.Justify property
 
-Mendapatkan atau mengatur nilai apakah teks diratakan.
+Mendapatkan atau mengatur nilai apakah teks diratakan penuh.
 
 ```csharp
 public bool Justify { get; set; }
@@ -16,6 +16,8 @@ public bool Justify { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextParagraph](../)
+* class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

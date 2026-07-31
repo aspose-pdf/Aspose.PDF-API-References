@@ -1,12 +1,12 @@
 ---
-title: FileCitation.FileCitation
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor FileCitation. Konstruktor default
+title: "FileCitation.FileCitation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FileCitation konstruktor. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/filecitation/filecitation/
 ---
-## Konstruktor FileCitation
+## FileCitation constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public FileCitation()
 
 ### Lihat Juga
 
-* kelas [FileCitation](../)
+* class [FileCitation](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

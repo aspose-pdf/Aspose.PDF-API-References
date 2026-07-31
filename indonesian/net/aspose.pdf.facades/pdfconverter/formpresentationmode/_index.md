@@ -1,12 +1,12 @@
 ---
-title: PdfConverter.FormPresentationMode
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfConverter. Mendapatkan atau mengatur mode presentasi formulir
+title: "PdfConverter.FormPresentationMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfConverter property. Mendapatkan atau mengatur mode presentasi formulir"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.facades/pdfconverter/formpresentationmode/
 ---
-## Properti PdfConverter.FormPresentationMode
+## PdfConverter.FormPresentationMode property
 
 Mendapatkan atau mengatur mode presentasi formulir.
 
@@ -20,3 +20,5 @@ public FormPresentationMode FormPresentationMode { get; set; }
 * class [PdfConverter](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

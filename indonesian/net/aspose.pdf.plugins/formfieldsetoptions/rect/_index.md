@@ -1,14 +1,14 @@
 ---
-title: FormFieldSetOptions.Rect
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FormFieldSetOptions. Persegi panjang yang dapat diatur ke field
+title: "FormFieldSetOptions.Rect"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormFieldSetOptions property. Persegi panjang yang akan diatur ke field"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.plugins/formfieldsetoptions/rect/
 ---
-## Properti FormFieldSetOptions.Rect
+## FormFieldSetOptions.Rect property
 
-Persegi panjang yang dapat diatur ke field(s).
+Rectangle yang akan diatur ke field(s).
 
 ```csharp
 public Rectangle Rect { get; set; }
@@ -16,7 +16,9 @@ public Rectangle Rect { get; set; }
 
 ### Lihat Juga
 
-* kelas [Rectangle](../../../aspose.pdf/rectangle/)
-* kelas [FormFieldSetOptions](../)
+* class [Rectangle](../../../aspose.pdf/rectangle/)
+* class [FormFieldSetOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

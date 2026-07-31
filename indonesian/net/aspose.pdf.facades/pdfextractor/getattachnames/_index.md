@@ -1,12 +1,12 @@
 ---
-title: PdfExtractor.GetAttachNames
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfExtractor. Mengembalikan daftar lampiran dalam file PDF. Catatan ExtractAttachments harus dipanggil sebelum menggunakan metode ini
+title: "PdfExtractor.GetAttachNames"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfExtractor. Mengembalikan daftar lampiran dalam file PDF. Catatan: ExtractAttachments harus dipanggil sebelum menggunakan metode ini."
 type: docs
 weight: 160
 url: /id/net/aspose.pdf.facades/pdfextractor/getattachnames/
 ---
-## Metode PdfExtractor.GetAttachNames
+## PdfExtractor.GetAttachNames method
 
 Mengembalikan daftar lampiran dalam file PDF. Catatan: ExtractAttachments harus dipanggil sebelum menggunakan metode ini.
 
@@ -14,13 +14,13 @@ Mengembalikan daftar lampiran dalam file PDF. Catatan: ExtractAttachments harus 
 public IList<string> GetAttachNames()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Daftar lampiran
 
 ## Contoh
 
-Contoh menunjukkan cara mengekstrak nama lampiran dari file PDF.
+Contoh ini menunjukkan cara mengekstrak nama lampiran dari file PDF.
 
 ```csharp
 PdfExtractor extractor = new PdfExtractor();
@@ -33,6 +33,8 @@ foreach (string name in attachments)
 
 ### Lihat Juga
 
-* kelas [PdfExtractor](../)
+* class [PdfExtractor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

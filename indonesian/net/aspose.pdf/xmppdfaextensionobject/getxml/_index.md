@@ -1,12 +1,12 @@
 ---
-title: XmpPdfAExtensionObject.GetXml
-second_title: Aspose.PDF for .NET API Reference
-description: Metode XmpPdfAExtensionObject. Mengembalikan daftar elemen xml yang mewakili objek dalam pohon xml
+title: "XmpPdfAExtensionObject.GetXml"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "XmpPdfAExtensionObject method. Mengembalikan daftar elemen xml yang mewakili objek dalam pohon xml"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf/xmppdfaextensionobject/getxml/
 ---
-## Metode XmpPdfAExtensionObject.GetXml
+## XmpPdfAExtensionObject.GetXml method
 
 Mengembalikan daftar elemen xml yang mewakili objek dalam pohon xml.
 
@@ -18,12 +18,14 @@ public abstract List<XmlElement> GetXml(XmlDocument xmlDocument)
 | --- | --- | --- |
 | xmlDocument | XmlDocument | Dokumen xml sumber. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 &gt;Daftar elemen xml.
 
 ### Lihat Juga
 
-* kelas [XmpPdfAExtensionObject](../)
+* class [XmpPdfAExtensionObject](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

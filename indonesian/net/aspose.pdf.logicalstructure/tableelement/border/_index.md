@@ -1,12 +1,12 @@
 ---
-title: TableElement.Border
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TableElement. Mendapatkan atau mengatur batas tabel
+title: "TableElement.Border"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "TableElement properti. Mendapatkan atau mengatur batas tabel"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.logicalstructure/tableelement/border/
 ---
-## Properti TableElement.Border
+## TableElement.Border property
 
 Mendapatkan atau mengatur batas tabel.
 
@@ -16,7 +16,9 @@ public BorderInfo Border { get; set; }
 
 ### Lihat Juga
 
-* kelas [BorderInfo](../../../aspose.pdf/borderinfo/)
-* kelas [TableElement](../)
+* class [BorderInfo](../../../aspose.pdf/borderinfo/)
+* class [TableElement](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

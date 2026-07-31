@@ -1,14 +1,14 @@
 ---
-title: RunThreadCreateRequest.TruncationStrategy
-second_title: Aspose.PDF for .NET API Reference
-description: Properti RunThreadCreateRequest. Mendapatkan atau mengatur strategi pemotongan yang mengontrol bagaimana sebuah thread akan dipotong sebelum dijalankan. Gunakan ini untuk mengontrol jendela konteks awal dari run
+title: "RunThreadCreateRequest.TruncationStrategy"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti RunThreadCreateRequest. Mendapatkan atau mengatur strategi pemotongan yang mengontrol bagaimana thread akan dipotong sebelum run. Gunakan ini untuk mengontrol jendela konteks awal run."
 type: docs
 weight: 160
 url: /id/net/aspose.pdf.ai/runthreadcreaterequest/truncationstrategy/
 ---
-## Properti RunThreadCreateRequest.TruncationStrategy
+## RunThreadCreateRequest.TruncationStrategy property
 
-Mendapatkan atau mengatur strategi pemotongan yang mengontrol bagaimana sebuah thread akan dipotong sebelum dijalankan. Gunakan ini untuk mengontrol jendela konteks awal dari run.
+Mendapatkan atau mengatur strategi pemotongan yang mengontrol bagaimana thread akan dipotong sebelum run. Gunakan ini untuk mengontrol jendela konteks awal run.
 
 ```csharp
 public TruncationStrategy TruncationStrategy { get; set; }
@@ -16,7 +16,9 @@ public TruncationStrategy TruncationStrategy { get; set; }
 
 ### Lihat Juga
 
-* kelas [TruncationStrategy](../../truncationstrategy/)
-* kelas [RunThreadCreateRequest](../)
+* class [TruncationStrategy](../../truncationstrategy/)
+* class [RunThreadCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

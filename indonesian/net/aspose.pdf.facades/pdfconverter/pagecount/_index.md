@@ -1,12 +1,12 @@
 ---
-title: PdfConverter.PageCount
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfConverter. Mendapatkan jumlah halaman
+title: "PdfConverter.PageCount"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfConverter property. Mendapatkan jumlah halaman"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.facades/pdfconverter/pagecount/
 ---
-## Properti PdfConverter.PageCount
+## PdfConverter.PageCount property
 
 Mendapatkan jumlah halaman.
 
@@ -16,6 +16,8 @@ public int PageCount { get; }
 
 ### Lihat Juga
 
-* kelas [PdfConverter](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfConverter](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: PdfFileInfo.GetPageHeight
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileInfo. Mendapatkan tinggi halaman yang ditentukan
+title: "PdfFileInfo.GetPageHeight"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PdfFileInfo method. Mendapatkan tinggi halaman yang ditentukan"
 type: docs
 weight: 240
 url: /id/net/aspose.pdf.facades/pdffileinfo/getpageheight/
 ---
-## Metode PdfFileInfo.GetPageHeight
+## PdfFileInfo.GetPageHeight method
 
-Mendapatkan tinggi halaman yang ditentukan.
+Mengambil tinggi halaman yang ditentukan.
 
 ```csharp
 public float GetPageHeight(int pageNum)
@@ -18,12 +18,14 @@ public float GetPageHeight(int pageNum)
 | --- | --- | --- |
 | pageNum | Int32 | Nomor halaman. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Tinggi halaman.
 
 ### Lihat Juga
 
-* kelas [PdfFileInfo](../)
-* ruang nama [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
+* class [PdfFileInfo](../)
+* namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

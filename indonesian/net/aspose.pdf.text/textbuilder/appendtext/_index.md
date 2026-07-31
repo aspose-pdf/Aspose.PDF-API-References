@@ -1,7 +1,7 @@
 ---
-title: TextBuilder.AppendText
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TextBuilder. Menambahkan fragmen teks ke halaman Pdf
+title: "TextBuilder.AppendText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TextBuilder. Menambahkan fragmen teks ke halaman Pdf"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.text/textbuilder/appendtext/
@@ -20,42 +20,42 @@ public void AppendText(TextFragment textFragment)
 
 ## Contoh
 
-Contoh ini menunjukkan cara membuat objek fragmen teks, menyesuaikan segmen teksnya dan menambahkannya ke halaman Pdf.
+Contoh ini menunjukkan cara membuat objek fragmen teks, menyesuaikan segmen teksnya, dan menambahkannya ke halaman Pdf.
 
 ```csharp
 Document doc = new Document(inFile);
 Page page = (Page)doc.Pages[1];
 
-// create text fragment
+// buat fragmen teks
 TextFragment tf = new TextFragment("main text");
 tf.Position = new Position(100, 600);
 
-// set it's text properties
+// atur properti teksnya
 tf.TextState.FontSize = 5;
 tf.TextState.Font = FontRepository.FindFont("TimesNewRoman");
 tf.TextState.BackgroundColor = Color.LightGray;
 tf.TextState.ForegroundColor = Color.Red;
 
-// add one more segment to text fragment's Segments collection
+// tambahkan satu segmen lagi ke koleksi Segments fragmen teks
 TextSegment segment2 = new TextSegment();
 segment2.Text = "another segment";
 
 tf.Segments.Add(segment2);
 
-// create TextBuilder object
+// buat objek TextBuilder
 TextBuilder builder = new TextBuilder(page);
 
-// append the text fragment to the Pdf page
+// tambahkan fragmen teks ke halaman Pdf
 builder.AppendText(tf);
 
-//save document
+//simpan dokumen
 doc.Save(outFile);
 ```
 
 ### Lihat Juga
 
-* kelas [TextFragment](../../textfragment/)
-* kelas [TextBuilder](../)
+* class [TextFragment](../../textfragment/)
+* class [TextBuilder](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -75,7 +75,9 @@ public void AppendText(List<TextFragment> textFragments)
 
 ### Lihat Juga
 
-* kelas [TextFragment](../../textfragment/)
-* kelas [TextBuilder](../)
+* class [TextFragment](../../textfragment/)
+* class [TextBuilder](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

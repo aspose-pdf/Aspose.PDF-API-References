@@ -1,12 +1,12 @@
 ---
-title: Color.Equals
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Color. Mengembalikan true jika dua Color sama
+title: "Color.Equals"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Color. Mengembalikan true jika dua Color sama"
 type: docs
 weight: 1530
 url: /id/net/aspose.pdf/color/equals/
 ---
-## Metode Color.Equals
+## Color.Equals method
 
 Mengembalikan true jika dua Color sama.
 
@@ -18,12 +18,14 @@ public override bool Equals(object obj)
 | --- | --- | --- |
 | obj | Object | Objek untuk dibandingkan. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 True jika objek Color sama.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

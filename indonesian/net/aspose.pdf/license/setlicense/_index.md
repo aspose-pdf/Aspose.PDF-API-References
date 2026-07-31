@@ -1,9 +1,9 @@
 ---
-title: License.SetLicense
-second_title: Aspose.PDF for .NET API Reference
-description: Metode lisensi. Melisensikan komponen
+title: "License.SetLicense"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode License. Memberi lisensi pada komponen"
 type: docs
-weight: 20
+weight: 40
 url: /id/net/aspose.pdf/license/setlicense/
 ---
 ## SetLicense(string) {#setlicense_1}
@@ -16,11 +16,11 @@ public void SetLicense(string licenseName)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| licenseName | String | Dapat berupa nama file lengkap atau pendek atau nama sumber daya yang disematkan. Gunakan string kosong untuk beralih ke mode evaluasi. |
+| licenseName | String | Dapat berupa nama file lengkap atau pendek atau nama sumber daya tersemat. Gunakan string kosong untuk beralih ke mode evaluasi. |
 
-## Keterangan
+## Catatan
 
-Mencoba untuk menemukan lisensi di lokasi berikut:
+Mencoba menemukan lisensi di lokasi berikut:
 
 1. Jalur eksplisit.
 
@@ -30,13 +30,13 @@ Mencoba untuk menemukan lisensi di lokasi berikut:
 
 4. Folder yang berisi assembly entri (startup).
 
-5. Sumber daya yang disematkan dalam assembly pemanggil klien.
+5. Sumber daya tersemat di assembly pemanggil klien.
 
-**Catatan:** Pada .NET Compact Framework, mencoba untuk menemukan lisensi hanya di lokasi-lokasi ini:
+**Note:**On the .NET Compact Framework, tries to find the license only in these locations:
 
 1. Jalur eksplisit.
 
-2. Sumber daya yang disematkan dalam assembly pemanggil klien.
+2. Sumber daya tersemat di assembly pemanggil klien.
 
 [Java]
 
@@ -46,7 +46,7 @@ Mencoba untuk menemukan lisensi di lokasi berikut:
 
 ### Lihat Juga
 
-* kelas [License](../)
+* class [License](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -62,14 +62,16 @@ public void SetLicense(Stream stream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| stream | Stream | Sebuah stream yang berisi lisensi. |
+| stream | Stream | Aliran yang berisi lisensi. |
 
-## Keterangan
+## Catatan
 
-Gunakan metode ini untuk memuat lisensi dari sebuah stream.
+Gunakan metode ini untuk memuat lisensi dari aliran.
 
 ### Lihat Juga
 
-* kelas [License](../)
+* class [License](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

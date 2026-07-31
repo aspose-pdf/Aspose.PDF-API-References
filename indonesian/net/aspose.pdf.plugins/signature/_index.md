@@ -1,14 +1,14 @@
 ---
-title: Class Signature
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.Tanda Tangan. Mewakili plugin Tanda Tangan
+title: "Kelas Signature"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.Signature. Menyatakan plugin Signature"
 type: docs
-weight: 9260
+weight: 9410
 url: /id/net/aspose.pdf.plugins/signature/
 ---
-## Kelas Tanda Tangan
+## Signature class
 
-Mewakili plugin `Tanda Tangan`.
+Menyatakan plugin `Signature`.
 
 ```csharp
 public sealed class Signature : IPlugin
@@ -18,33 +18,35 @@ public sealed class Signature : IPlugin
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Tanda Tangan](signature/)() | Konstruktor default. |
+| [Signature](signature/)() | Konstruktor default. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Proses](../../aspose.pdf.plugins/signature/process/)(IPluginOptions) | Memulai pemrosesan `Tanda Tangan` dengan parameter yang ditentukan. |
+| [Process](../../aspose.pdf.plugins/signature/process/)(IPluginOptions) | Memulai pemrosesan `Signature` dengan parameter yang ditentukan. |
 
 ## Contoh
 
 Contoh ini menunjukkan cara menandatangani dokumen PDF.
 
 ```csharp
-// create Signature
+// buat Signature
 var plugin = new Signature();
-// create SignOptions object to set instructions
+// buat objek SignOptions untuk mengatur instruksi
 var opt = new SignOptions(inputPfx, inputPfxPassword);
-// add input file path
+// tambahkan jalur file input
 opt.AddInput(new FileDataSource(inputPath));
-// set output file path
+// atur jalur file output
 opt.AddOutput(new FileDataSource(outputPath));
-// perform the process
+// lakukan proses
 plugin.Process(opt);
 ```
 
 ### Lihat Juga
 
-* antarmuka [IPlugin](../iplugin/)
-* ruang nama [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
+* interface [IPlugin](../iplugin/)
+* namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

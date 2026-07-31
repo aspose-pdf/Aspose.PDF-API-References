@@ -1,14 +1,14 @@
 ---
-title: CollectionField.FiledType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CollectionField. Mendapatkan tipe nilai field dalam koleksi skema. Field ini menggambarkan tipe nilai yang sesuai dengan Subtipe
+title: "CollectionField.FiledType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CollectionField. Mendapatkan tipe nilai bidang dalam koleksi skema. Bidang ini menjelaskan tipe nilai yang sesuai dengan Subtype"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/collectionfield/filedtype/
 ---
-## Properti CollectionField.FiledType
+## CollectionField.FiledType property
 
-Mendapatkan tipe nilai field dalam koleksi skema. Field ini menggambarkan tipe nilai yang sesuai dengan [`Subtype`](../subtype/).
+Mendapatkan tipe nilai bidang dalam koleksi skema. Bidang ini menjelaskan tipe nilai yang sesuai dengan [`Subtype`](../subtype/).
 
 ```csharp
 public FieldValueType FiledType { get; }
@@ -20,3 +20,5 @@ public FieldValueType FiledType { get; }
 * class [CollectionField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

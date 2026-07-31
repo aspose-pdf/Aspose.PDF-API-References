@@ -1,14 +1,14 @@
 ---
-title: TableAbsorber.Replace
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TableAbsorber. Mengganti AbsorbedTable dengan Table di halaman
+title: "TableAbsorber.Replace"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TableAbsorber. Mengganti AbsorbedTable dengan Table pada halaman"
 type: docs
 weight: 60
 url: /id/net/aspose.pdf.text/tableabsorber/replace/
 ---
-## Metode TableAbsorber.Replace
+## TableAbsorber.Replace method
 
-Mengganti [`AbsorbedTable`](../../absorbedtable/) dengan [`Table`](../../../aspose.pdf/table/) di halaman.
+Mengganti sebuah [`AbsorbedTable`](../../absorbedtable/) dengan [`Table`](../../../aspose.pdf/table/) pada halaman.
 
 ```csharp
 public void Replace(Page page, AbsorbedTable oldTable, Table newTable)
@@ -16,19 +16,21 @@ public void Replace(Page page, AbsorbedTable oldTable, Table newTable)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Halaman | Objek halaman dokumen Pdf. |
+| halaman | Halaman | Objek halaman dokumen Pdf. |
 | oldTable | AbsorbedTable | [`AbsorbedTable`](../../absorbedtable/) yang akan diganti. |
 | newTable | Table | [`Table`](../../../aspose.pdf/table/) untuk mengganti tabel lama. |
 
 ## Catatan
 
-Harap diperhatikan bahwa ini mengubah koleksi TableList. Jika menghapus/mengganti tabel dalam loop, harap gunakan salinan koleksi TableList.
+Harap perhatikan bahwa ini mengubah koleksi TableList. Jika menghapus/mengganti tabel dalam loop, gunakan salinan koleksi TableList.
 
 ### Lihat Juga
 
-* kelas [Page](../../../aspose.pdf/page/)
-* kelas [AbsorbedTable](../../absorbedtable/)
-* kelas [Table](../../../aspose.pdf/table/)
-* kelas [TableAbsorber](../)
+* class [Page](../../../aspose.pdf/page/)
+* class [AbsorbedTable](../../absorbedtable/)
+* class [Table](../../../aspose.pdf/table/)
+* class [TableAbsorber](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

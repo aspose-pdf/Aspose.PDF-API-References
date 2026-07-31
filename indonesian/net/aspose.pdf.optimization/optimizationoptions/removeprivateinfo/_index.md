@@ -1,14 +1,14 @@
 ---
-title: OptimizationOptions.RemovePrivateInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Properti OptimizationOptions. Hapus informasi pribadi halaman potongan info
+title: "OptimizationOptions.RemovePrivateInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti OptimizationOptions. Menghapus informasi pribadi pada halaman serta info potongan."
 type: docs
-weight: 100
+weight: 90
 url: /id/net/aspose.pdf.optimization/optimizationoptions/removeprivateinfo/
 ---
-## Properti OptimizationOptions.RemovePrivateInfo
+## OptimizationOptions.RemovePrivateInfo property
 
-Hapus informasi pribadi (info potongan halaman).
+Hapus informasi pribadi (informasi potongan halaman).
 
 ```csharp
 public bool RemovePrivateInfo { get; set; }
@@ -16,6 +16,8 @@ public bool RemovePrivateInfo { get; set; }
 
 ### Lihat Juga
 
-* kelas [OptimizationOptions](../)
+* class [OptimizationOptions](../)
 * namespace [Aspose.Pdf.Optimization](../../../aspose.pdf.optimization/)
 * assembly [Aspose.PDF](../../../)
+
+

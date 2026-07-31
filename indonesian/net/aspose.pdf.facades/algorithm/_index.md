@@ -1,14 +1,14 @@
 ---
-title: Enum Algorithm
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.Facades.Algorithm. Mewakili algoritma yang dapat digunakan untuk mengenkripsi dokumen pdf
+title: "Enum Algorithm"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Facades.Algorithm enum. Mewakili algoritma yang dapat digunakan untuk mengenkripsi dokumen pdf"
 type: docs
-weight: 4140
+weight: 4260
 url: /id/net/aspose.pdf.facades/algorithm/
 ---
-## Enumerasi Algoritma
+## Algorithm enumeration
 
-Mewakili algoritma yang dapat digunakan untuk mengenkripsi dokumen pdf.
+Mewakili algoritma yang dapat digunakan untuk mengenkripsi pdf document.
 
 ```csharp
 public enum Algorithm
@@ -25,3 +25,5 @@ public enum Algorithm
 
 * namespace [Aspose.Pdf.Facades](../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ImagePlacementCollection.Contains
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ImagePlacementCollection. Menentukan apakah koleksi mengandung nilai tertentu
+title: "ImagePlacementCollection.Contains"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode ImagePlacementCollection. Menentukan apakah koleksi berisi nilai tertentu"
 type: docs
 weight: 80
 url: /id/net/aspose.pdf/imageplacementcollection/contains/
 ---
-## Metode ImagePlacementCollection.Contains
+## ImagePlacementCollection.Contains method
 
-Menentukan apakah koleksi mengandung nilai tertentu.
+Menentukan apakah koleksi berisi nilai tertentu.
 
 ```csharp
 public bool Contains(ImagePlacement item)
@@ -18,13 +18,15 @@ public bool Contains(ImagePlacement item)
 | --- | --- | --- |
 | item | ImagePlacement | Objek yang akan dicari dalam koleksi |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 true jika item ditemukan dalam koleksi; jika tidak, false.
 
 ### Lihat Juga
 
-* kelas [ImagePlacement](../../imageplacement/)
-* kelas [ImagePlacementCollection](../)
+* class [ImagePlacement](../../imageplacement/)
+* class [ImagePlacementCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

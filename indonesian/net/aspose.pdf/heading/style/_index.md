@@ -1,14 +1,14 @@
 ---
-title: Heading.Style
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Heading. Mengambil atau mengatur gaya
+title: "Heading.Style"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Heading. Mendapatkan atau mengatur gaya"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf/heading/style/
 ---
-## Properti Heading.Style
+## Heading.Style property
 
-Mengambil atau mengatur gaya.
+Mendapatkan atau mengatur gaya.
 
 ```csharp
 public NumberingStyle Style { get; set; }
@@ -20,3 +20,5 @@ public NumberingStyle Style { get; set; }
 * class [Heading](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: TextReplaceOptions.ReplaceScope
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextReplaceOptions. Mendapatkan atau mengatur ruang lingkup di mana operasi penggantian teks diterapkan
+title: "TextReplaceOptions.ReplaceScope"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextReplaceOptions. Mendapatkan atau mengatur ruang lingkup tempat operasi penggantian teks diterapkan"
 type: docs
-weight: 60
+weight: 80
 url: /id/net/aspose.pdf.text/textreplaceoptions/replacescope/
 ---
-## Properti TextReplaceOptions.ReplaceScope
+## TextReplaceOptions.ReplaceScope property
 
 Mendapatkan atau mengatur ruang lingkup di mana operasi penggantian teks diterapkan
 
@@ -20,3 +20,5 @@ public Scope ReplaceScope { get; set; }
 * class [TextReplaceOptions](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

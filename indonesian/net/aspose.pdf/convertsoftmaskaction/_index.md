@@ -1,14 +1,14 @@
 ---
-title: Enum ConvertSoftMaskAction
-second_title: Aspose.PDF for .NET API Reference
-description: Enum Aspose.Pdf.ConvertSoftMaskAction. Tindakan ini mewakili tindakan untuk konversi gambar dengan masker lembut
+title: "Enum ConvertSoftMaskAction"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.ConvertSoftMaskAction enum. Aksi ini mewakili tindakan untuk konversi gambar dengan soft mask"
 type: docs
-weight: 3370
+weight: 3490
 url: /id/net/aspose.pdf/convertsoftmaskaction/
 ---
-## Enumerasi ConvertSoftMaskAction
+## ConvertSoftMaskAction enumeration
 
-Tindakan ini mewakili tindakan untuk konversi gambar dengan masker lembut.
+Aksi ini mewakili tindakan untuk konversi gambar dengan soft mask.
 
 ```csharp
 public enum ConvertSoftMaskAction
@@ -19,9 +19,11 @@ public enum ConvertSoftMaskAction
 | Nama | Nilai | Deskripsi |
 | --- | --- | --- |
 | Default | `0` | Gunakan strategi default. |
-| ConvertToStencilMask | `1` | Masker lembut akan dikonversi menjadi masker stensil. |
+| ConvertToStencilMask | `1` | Soft mask akan dikonversi menjadi stencil mask. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: StructureTypeStandard.WP
-second_title: Aspose.PDF for .NET API Reference
-description: StrukturTypeStandard field. Tanda baca Warichu Tanda baca yang mengelilingi teks WT. Ini berisi teks yang biasanya merupakan satu TANDA CURAH KIRI atau KANAN atau karakter kurung serupa. Menurut JIS X 4051-1995, tanda kurung yang mengelilingi warichu dapat diubah menjadi SPASI atas kebijakan formatter
+title: "StructureTypeStandard.WP"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "StructureTypeStandard field. Warichu punctuation Tanda baca yang mengelilingi teks WT. Biasanya berisi satu LEFT atau RIGHT PARENTHESIS atau karakter pembatas serupa. Menurut JIS X 4051-1995 tanda kurung yang mengelilingi warichu dapat diubah menjadi SPACE dengan lebar kira-kira 1/4 EM sesuai kebijakan pemformat."
 type: docs
 weight: 480
 url: /id/net/aspose.pdf.logicalstructure/structuretypestandard/wp/
 ---
-## StrukturTypeStandard.WP field
+## StructureTypeStandard.WP field
 
-(Tanda baca Warichu) Tanda baca yang mengelilingi teks WT. Ini berisi teks (biasanya satu TANDA CURAH KIRI atau KANAN atau karakter kurung serupa). Menurut JIS X 4051-1995, tanda kurung yang mengelilingi warichu dapat diubah menjadi SPASI (secara nominal 1/4 EM dalam lebar) atas kebijakan formatter.
+(Warichu punctuation) Tanda baca yang mengelilingi teks WT. Itu berisi teks (biasanya satu TANDA KURUNG KIRI atau KANAN atau karakter penutup serupa). Menurut JIS X 4051-1995, tanda kurung yang mengelilingi warichu dapat diubah menjadi SPASI (sekitar 1/4 EM dalam lebar) menurut kebijakan formatter.
 
 ```csharp
 public static readonly StructureTypeStandard WP;
@@ -16,6 +16,8 @@ public static readonly StructureTypeStandard WP;
 
 ### Lihat Juga
 
-* kelas [StructureTypeStandard](../)
+* class [StructureTypeStandard](../)
 * namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

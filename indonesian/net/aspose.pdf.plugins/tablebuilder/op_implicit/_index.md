@@ -1,14 +1,14 @@
 ---
-title: TableBuilder.op_Implicit
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TableBuilder. Mengonversi builder TableBuilder menjadi opsi TableOptions
+title: "TableBuilder.op_Implicit"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TableBuilder. Mengonversi builder TableBuilder ke opsi TableOptions"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.plugins/tablebuilder/op_implicit/
 ---
-## Operator implisit TableBuilder
+## TableBuilder Implicit operator
 
-Mengonversi builder [`TableBuilder`](../) menjadi opsi [`TableOptions`](../../tableoptions/)
+Mengonversi builder [`TableBuilder`](../) ke opsi [`TableOptions`](../../tableoptions/)
 
 ```csharp
 public static implicit operator TableOptions(TableBuilder builder)
@@ -18,13 +18,15 @@ public static implicit operator TableOptions(TableBuilder builder)
 | --- | --- | --- |
 | builder | TableBuilder | Instansi dari [`TableBuilder`](../) saat ini. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Hasil konversi menjadi PdfGeneratorTableOptions.
+Hasil konversi ke PdfGeneratorTableOptions.
 
 ### Lihat Juga
 
-* kelas [TableOptions](../../tableoptions/)
-* kelas [TableBuilder](../)
+* class [TableOptions](../../tableoptions/)
+* class [TableBuilder](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

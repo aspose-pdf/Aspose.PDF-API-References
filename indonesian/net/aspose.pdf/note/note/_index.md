@@ -1,12 +1,12 @@
 ---
-title: Note.Note
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Catatan. Menginisialisasi instance baru dari kelas Catatan
+title: "Note.Note"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Note. Menginisialisasi instance baru dari kelas Note."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/note/note/
 ---
-## Catatan() {#constructor}
+## Note() {#constructor}
 
 Menginisialisasi instance baru dari kelas [`Note`](../).
 
@@ -16,13 +16,13 @@ public Note()
 
 ### Lihat Juga
 
-* kelas [Note](../)
+* class [Note](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
 ---
 
-## Catatan(string) {#constructor_1}
+## Note(string) {#constructor_1}
 
 Menginisialisasi instance baru dari kelas [`Note`](../).
 
@@ -36,6 +36,8 @@ public Note(string content)
 
 ### Lihat Juga
 
-* kelas [Note](../)
+* class [Note](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

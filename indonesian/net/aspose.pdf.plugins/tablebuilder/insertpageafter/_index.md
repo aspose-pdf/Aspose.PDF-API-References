@@ -1,12 +1,12 @@
 ---
-title: TableBuilder.InsertPageAfter
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TableBuilder. Sisipkan halaman setelah halaman yang ditentukan
+title: "TableBuilder.InsertPageAfter"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode TableBuilder. Sisipkan halaman setelah halaman yang ditentukan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.plugins/tablebuilder/insertpageafter/
 ---
-## Metode TableBuilder.InsertPageAfter
+## TableBuilder.InsertPageAfter method
 
 Sisipkan halaman setelah halaman yang ditentukan.
 
@@ -16,15 +16,17 @@ public TableOptions InsertPageAfter(int page)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| page | Int32 | Nomor halaman untuk menyisipkan tabel setelahnya. |
+| halaman | Int32 | Page number untuk menyisipkan tabel setelahnya. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Instansi dari [`TableOptions`](../../tableoptions/).
+Instansi dari [`TableOptions`](../../tableoptions/) saat ini.
 
 ### Lihat Juga
 
-* kelas [TableOptions](../../tableoptions/)
-* kelas [TableBuilder](../)
+* class [TableOptions](../../tableoptions/)
+* class [TableBuilder](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

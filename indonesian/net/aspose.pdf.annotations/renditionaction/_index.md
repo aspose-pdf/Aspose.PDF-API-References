@@ -1,14 +1,14 @@
 ---
-title: Class RenditionAction
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Annotations.RenditionAction. Sebuah aksi rendition yang mengontrol pemutaran konten multimedia
+title: "Kelas RenditionAction"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Annotations.RenditionAction. Tindakan rendition yang mengontrol pemutaran konten multimedia"
 type: docs
-weight: 2440
+weight: 2530
 url: /id/net/aspose.pdf.annotations/renditionaction/
 ---
-## Kelas RenditionAction
+## RenditionAction class
 
-Sebuah aksi rendition yang mengontrol pemutaran konten multimedia.
+Aksi rendition yang mengontrol pemutaran konten multimedia.
 
 ```csharp
 public sealed class RenditionAction : PdfAction
@@ -21,16 +21,18 @@ public sealed class RenditionAction : PdfAction
 | [JavaScript](../../aspose.pdf.annotations/renditionaction/javascript/) { get; set; } | Mendapatkan atau mengatur kode JavaScript yang terkait dengan aksi. |
 | [Next](../../aspose.pdf.annotations/pdfaction/next/) { get; } | Aksi berikutnya dalam urutan. |
 | [Rendition](../../aspose.pdf.annotations/renditionaction/rendition/) { get; } | Mendapatkan atau mengatur rendition yang terkait dengan aksi. |
-| [RenditionOperation](../../aspose.pdf.annotations/renditionaction/renditionoperation/) { get; set; } | Operasi yang dilakukan ketika aksi dipicu. |
+| [RenditionOperation](../../aspose.pdf.annotations/renditionaction/renditionoperation/) { get; set; } | Operasi yang akan dilakukan ketika tindakan dipicu. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Mendapatkan string untuk Aksi ECMAScript. |
+| [GetECMAScriptString](../../aspose.pdf.annotations/pdfaction/getecmascriptstring/)() | Mendapatkan string untuk ECMAScript Action. |
 
 ### Lihat Juga
 
-* kelas [PdfAction](../pdfaction/)
+* class [PdfAction](../pdfaction/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

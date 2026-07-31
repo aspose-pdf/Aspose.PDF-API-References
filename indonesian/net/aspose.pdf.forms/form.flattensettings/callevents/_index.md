@@ -1,14 +1,14 @@
 ---
-title: Form.FlattenSettings.CallEvents
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FlattenSettings. Jika diatur, pemformatan dan acara JavaScript lainnya akan dipanggil. Benar secara default
+title: "Form.FlattenSettings.CallEvents"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FlattenSettings. Jika diatur, pemformatan dan peristiwa JavaScript lainnya akan dipanggil. True secara default"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.forms/form.flattensettings/callevents/
 ---
-## Properti Form.FlattenSettings.CallEvents
+## Form.FlattenSettings.CallEvents property
 
-Jika diatur, pemformatan dan acara JavaScript lainnya akan dipanggil. Benar secara default.
+Jika diatur, pemformatan dan peristiwa JavaScript lainnya akan dipanggil. True secara default.
 
 ```csharp
 public bool CallEvents { get; set; }
@@ -16,6 +16,8 @@ public bool CallEvents { get; set; }
 
 ### Lihat Juga
 
-* kelas [FlattenSettings](../)
+* class [FlattenSettings](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Function.Function
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor Function. Konstruktor default
+title: "Function.Function"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor Function. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/function/function/
 ---
-## Konstruktor Function
+## Function constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public Function()
 
 ### Lihat Juga
 
-* kelas [Function](../)
+* class [Function](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

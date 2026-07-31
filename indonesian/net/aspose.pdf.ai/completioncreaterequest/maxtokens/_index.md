@@ -1,14 +1,14 @@
 ---
-title: CompletionCreateRequest.MaxTokens
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CompletionCreateRequest. Mendapatkan atau mengatur jumlah maksimum token yang akan dihasilkan dalam penyelesaian
+title: "CompletionCreateRequest.MaxTokens"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CompletionCreateRequest. Mendapatkan atau mengatur jumlah maksimum token yang dihasilkan dalam penyelesaian"
 type: docs
 weight: 50
 url: /id/net/aspose.pdf.ai/completioncreaterequest/maxtokens/
 ---
-## Properti CompletionCreateRequest.MaxTokens
+## CompletionCreateRequest.MaxTokens property
 
-Mendapatkan atau mengatur jumlah maksimum token yang akan dihasilkan dalam penyelesaian.
+Mendapatkan atau mengatur jumlah maksimum token yang dihasilkan dalam penyelesaian.
 
 ```csharp
 public int? MaxTokens { get; set; }
@@ -16,6 +16,8 @@ public int? MaxTokens { get; set; }
 
 ### Lihat Juga
 
-* kelas [CompletionCreateRequest](../)
+* class [CompletionCreateRequest](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

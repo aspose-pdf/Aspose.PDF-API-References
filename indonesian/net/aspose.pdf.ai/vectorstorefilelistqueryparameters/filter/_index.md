@@ -1,12 +1,12 @@
 ---
-title: VectorStoreFileListQueryParameters.Filter
-second_title: Aspose.PDF for .NET API Reference
-description: Properti VectorStoreFileListQueryParameters. Mendapatkan atau mengatur filter berdasarkan status file. Salah satu dari in_progress, completed, failed, cancelled
+title: "VectorStoreFileListQueryParameters.Filter"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "VectorStoreFileListQueryParameters properti. Mendapatkan atau mengatur filter berdasarkan status file. Salah satu: in_progress completed failed cancelled"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/vectorstorefilelistqueryparameters/filter/
 ---
-## Properti VectorStoreFileListQueryParameters.Filter
+## VectorStoreFileListQueryParameters.Filter property
 
 Mendapatkan atau mengatur filter berdasarkan status file. Salah satu dari in_progress, completed, failed, cancelled.
 
@@ -16,6 +16,8 @@ public string Filter { get; set; }
 
 ### Lihat Juga
 
-* kelas [VectorStoreFileListQueryParameters](../)
+* class [VectorStoreFileListQueryParameters](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

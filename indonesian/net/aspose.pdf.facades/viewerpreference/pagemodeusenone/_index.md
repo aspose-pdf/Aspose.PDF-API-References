@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.PageModeUseNone
-second_title: Aspose.PDF for .NET API Reference
-description: Field ViewerPreference. Baik outline dokumen maupun gambar thumbnail tidak terlihat
+title: "ViewerPreference.PageModeUseNone"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ViewerPreference bidang. Baik outline dokumen maupun gambar thumbnail tidak terlihat"
 type: docs
 weight: 220
 url: /id/net/aspose.pdf.facades/viewerpreference/pagemodeusenone/
 ---
-## Field ViewerPreference.PageModeUseNone
+## ViewerPreference.PageModeUseNone field
 
-Baik outline dokumen maupun gambar thumbnail tidak terlihat
+Tidak ada outline dokumen maupun gambar thumbnail yang terlihat
 
 ```csharp
 public const int PageModeUseNone;
@@ -19,3 +19,5 @@ public const int PageModeUseNone;
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

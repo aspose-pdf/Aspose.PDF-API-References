@@ -1,12 +1,12 @@
 ---
-title: Class Footer
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Footer. Mewakili pengaturan footer
+title: "Kelas Footer"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Footer. Mewakili pengaturan footer."
 type: docs
-weight: 4920
+weight: 5040
 url: /id/net/aspose.pdf/footer/
 ---
-## Kelas Footer
+## Footer class
 
 Mewakili pengaturan footer.
 
@@ -30,6 +30,8 @@ public sealed class Footer : HorizontalAlignment
 
 ### Lihat Juga
 
-* kelas [HorizontalAlignment](../headerfootersettings.horizontalalignment/)
+* class [HorizontalAlignment](../headerfootersettings.horizontalalignment/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

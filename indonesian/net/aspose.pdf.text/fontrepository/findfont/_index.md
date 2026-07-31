@@ -1,7 +1,7 @@
 ---
-title: FontRepository.FindFont
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FontRepository. Mencari dan mengembalikan font dengan nama font yang ditentukan
+title: "FontRepository.FindFont"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode FontRepository. Mencari dan mengembalikan font dengan nama font yang ditentukan."
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.text/fontrepository/findfont/
@@ -18,38 +18,38 @@ public static Font FindFont(string fontName)
 | --- | --- | --- |
 | fontName | String | Nama font. |
 
-### Return Value
+### Nilai Kembalian
 
-Objek Font.
+Objek font.
 
 ## Contoh
 
 Contoh ini menunjukkan cara menemukan font dan mengganti font teks pada halaman pertama.
 
 ```csharp
-// Find font
+// Temukan font
 Font font = FontRepository.FindFont("Arial");
 
-// Open document
+// Buka dokumen
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Buat objek TextFragmentAbsorber untuk menemukan semua kemunculan teks "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Terima absorber untuk halaman pertama
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurrence
+// Ubah font pada kemunculan teks pertama
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// Simpan dokumen
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
 ### Lihat Juga
 
-* kelas [Font](../../font/)
-* kelas [FontRepository](../)
+* class [Font](../../font/)
+* class [FontRepository](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -57,7 +57,7 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ## FindFont(string, bool) {#findfont_3}
 
-Mencari dan mengembalikan font dengan nama font yang ditentukan dengan mengabaikan atau menghormati sensitivitas huruf besar/kecil.
+Mencari dan mengembalikan font dengan nama font yang ditentukan dengan mengabaikan atau menghormati sensitivitas huruf.
 
 ```csharp
 public static Font FindFont(string fontName, bool ignoreCase)
@@ -66,40 +66,40 @@ public static Font FindFont(string fontName, bool ignoreCase)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | fontName | String | Nama font. |
-| ignoreCase | Boolean | sensitivitas huruf besar/kecil |
+| ignoreCase | Boolean | sensitivitas huruf |
 
-### Return Value
+### Nilai Kembalian
 
-Objek Font.
+Objek font.
 
 ## Contoh
 
 Contoh ini menunjukkan cara menemukan font dan mengganti font teks pada halaman pertama.
 
 ```csharp
-// Find font
+// Temukan font
 Font font = FontRepository.FindFont("Arial");
 
-// Open document
+// Buka dokumen
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurrences
+// Buat objek TextFragmentAbsorber untuk menemukan semua kemunculan teks "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Terima absorber untuk halaman pertama
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurrence
+// Ubah font pada kemunculan teks pertama
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// Simpan dokumen
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
 ### Lihat Juga
 
-* kelas [Font](../../font/)
-* kelas [FontRepository](../)
+* class [Font](../../font/)
+* class [FontRepository](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -107,7 +107,7 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ## FindFont(string, FontStyles) {#findfont_1}
 
-Mencari dan mengembalikan font dengan nama font yang ditentukan dan gaya font.
+Mencari dan mengembalikan font dengan nama font dan gaya font yang ditentukan.
 
 ```csharp
 public static Font FindFont(string fontFamilyName, FontStyles stl)
@@ -118,39 +118,39 @@ public static Font FindFont(string fontFamilyName, FontStyles stl)
 | fontFamilyName | String | Nama keluarga font. |
 | stl | FontStyles | Nilai gaya font. |
 
-### Return Value
+### Nilai Kembalian
 
-Objek Font yang sesuai dengan parameter permintaan pencarian.
+Objek font yang sesuai dengan parameter permintaan pencarian.
 
 ## Contoh
 
 Contoh ini menunjukkan cara menemukan font dan mengganti font teks pada halaman pertama.
 
 ```csharp
-// Find font
+// Temukan font
 Font font = FontRepository.FindFont("Arial", FontStyle.Italic);
 
-// Open document
+// Buka dokumen
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurences
+// Buat objek TextFragmentAbsorber untuk menemukan semua kemunculan teks "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Terima absorber untuk halaman pertama
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurence
+// Ubah font pada kemunculan teks pertama
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// Simpan dokumen
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
 ### Lihat Juga
 
-* kelas [Font](../../font/)
+* class [Font](../../font/)
 * enum [FontStyles](../../fontstyles/)
-* kelas [FontRepository](../)
+* class [FontRepository](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
 
@@ -158,7 +158,7 @@ doc.Save(@"D:\Tests\output.pdf");
 
 ## FindFont(string, FontStyles, bool) {#findfont_2}
 
-Mencari dan mengembalikan font dengan nama font yang ditentukan dan gaya font dengan mengabaikan atau menghormati sensitivitas huruf besar/kecil.
+Mencari dan mengembalikan font dengan nama font dan gaya font yang ditentukan dengan mengabaikan atau menghormati sensitivitas huruf.
 
 ```csharp
 public static Font FindFont(string fontFamilyName, FontStyles stl, bool ignoreCase)
@@ -168,40 +168,42 @@ public static Font FindFont(string fontFamilyName, FontStyles stl, bool ignoreCa
 | --- | --- | --- |
 | fontFamilyName | String | Nama keluarga font. |
 | stl | FontStyles | Nilai gaya font. |
-| ignoreCase | Boolean | sensitivitas huruf besar/kecil |
+| ignoreCase | Boolean | sensitivitas huruf |
 
-### Return Value
+### Nilai Kembalian
 
-Objek Font yang sesuai dengan parameter permintaan pencarian.
+Objek font yang sesuai dengan parameter permintaan pencarian.
 
 ## Contoh
 
 Contoh ini menunjukkan cara menemukan font dan mengganti font teks pada halaman pertama.
 
 ```csharp
-// Find font
+// Temukan font
 Font font = FontRepository.FindFont("Arial", FontStyle.Italic);
 
-// Open document
+// Buka dokumen
 Document doc = new Document(@"D:\Tests\input.pdf");
 
-// Create TextFragmentAbsorber object to find all "hello world" text occurences
+// Buat objek TextFragmentAbsorber untuk menemukan semua kemunculan teks "hello world"
 TextFragmentAbsorber absorber = new TextFragmentAbsorber("hello world");
 
-// Accept the absorber for first page
+// Terima absorber untuk halaman pertama
 doc.Pages[1].Accept(absorber);
 
-// Change font of the first text occurence
+// Ubah font pada kemunculan teks pertama
 absorber.TextFragments[1].TextState.Font = font;
 
-// Save document
+// Simpan dokumen
 doc.Save(@"D:\Tests\output.pdf"); 
 ```
 
 ### Lihat Juga
 
-* kelas [Font](../../font/)
+* class [Font](../../font/)
 * enum [FontStyles](../../fontstyles/)
-* kelas [FontRepository](../)
+* class [FontRepository](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

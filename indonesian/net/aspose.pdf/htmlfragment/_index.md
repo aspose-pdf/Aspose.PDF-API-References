@@ -1,14 +1,14 @@
 ---
-title: Class HtmlFragment
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.HtmlFragment. Mewakili fragmen html
+title: "Kelas HtmlFragment"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.HtmlFragment. Mewakili fragmen html"
 type: docs
-weight: 5520
+weight: 5650
 url: /id/net/aspose.pdf/htmlfragment/
 ---
-## Kelas HtmlFragment
+## HtmlFragment class
 
-Mewakili fragmen html.
+Mewakili HtmlFragment.
 
 ```csharp
 public sealed class HtmlFragment : FormattedFragment
@@ -25,19 +25,19 @@ public sealed class HtmlFragment : FormattedFragment
 | Nama | Deskripsi |
 | --- | --- |
 | virtual [HorizontalAlignment](../../aspose.pdf/baseparagraph/horizontalalignment/) { get; set; } | Mendapatkan atau mengatur perataan horizontal paragraf |
-| [HtmlLoadOptions](../../aspose.pdf/htmlfragment/htmlloadoptions/) { get; set; } | Mendapatkan atau mengatur HtmlLoadOptions yang akan digunakan untuk memuat (dan merender) HTML ke dalam instance kelas ini. Harap gunakan ini ketika perlu menggunakan pengaturan spesifik untuk impor HTML untuk instance ini atau itu (misalnya ketika instance ini atau itu harus menggunakan BasePath spesifik untuk HTML yang diimpor atau harus menggunakan pemuat spesifik untuk sumber daya eksternal) Jika parameter adalah default (null), maka opsi pemuatan HTML standar akan digunakan. |
-| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink/) { get; set; } | Mendapatkan atau mengatur hyperlink fragmen (untuk generator pdf). |
-| [IsBreakWords](../../aspose.pdf/htmlfragment/isbreakwords/) { get; set; } | Mendapatkan atau mengatur pemutusan kata |
-| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | Mendapatkan atau mengatur nilai bool yang menunjukkan apakah paragraf ini akan berada di kolom berikutnya. Default adalah false. (untuk generasi pdf) |
-| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | Mendapatkan atau mengatur paragraf sebagai inline. Default adalah false. (untuk generasi pdf) |
-| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | Mendapatkan atau mengatur nilai bool yang memaksa paragraf ini dihasilkan di halaman baru. Default adalah false. (untuk generasi pdf) |
-| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | Mendapatkan atau mengatur nilai bool yang menunjukkan apakah paragraf saat ini tetap di halaman yang sama bersama dengan paragraf berikutnya. Default adalah false. (untuk generasi pdf) |
-| [IsParagraphHasMargin](../../aspose.pdf/htmlfragment/isparagraphhasmargin/) { get; set; } | Mendapatkan atau mengatur apakah paragraf memiliki margin default, jika tidak margin adalah 0 |
-| [Margin](../../aspose.pdf/baseparagraph/margin/) { get; set; } | Mendapatkan atau mengatur margin luar untuk paragraf (untuk generasi pdf) |
+| [HtmlLoadOptions](../../aspose.pdf/htmlfragment/htmlloadoptions/) { get; set; } | Mendapatkan atau mengatur HtmlLoadOptions yang akan digunakan untuk memuat (dan merender) HTML ke dalam instance kelas ini. Harap gunakan ketika diperlukan pengaturan khusus untuk mengimpor HTML untuk instance ini atau itu (misalnya ketika instance ini atau itu harus menggunakan BasePath khusus untuk HTML yang diimpor atau harus menggunakan pemuat sumber daya eksternal khusus). Jika parameter adalah default (null), maka opsi pemuatan HTML standar akan digunakan. |
+| virtual [Hyperlink](../../aspose.pdf/baseparagraph/hyperlink/) { get; set; } | Mendapatkan atau mengatur hyperlink fragmen (untuk pdf generator). |
+| [IsBreakWords](../../aspose.pdf/htmlfragment/isbreakwords/) { get; set; } | Mendapatkan atau mengatur pemecahan kata. |
+| [IsFirstParagraphInColumn](../../aspose.pdf/baseparagraph/isfirstparagraphincolumn/) { get; set; } | Mendapatkan atau mengatur nilai bool yang menunjukkan apakah paragraf ini akan berada di kolom berikutnya. Defaultnya false. (untuk pdf generation) |
+| [IsInLineParagraph](../../aspose.pdf/baseparagraph/isinlineparagraph/) { get; set; } | Mendapatkan atau mengatur paragraf menjadi inline. Defaultnya false. (untuk pdf generation) |
+| [IsInNewPage](../../aspose.pdf/baseparagraph/isinnewpage/) { get; set; } | Mendapatkan atau mengatur nilai bool yang memaksa paragraf ini dihasilkan pada halaman baru. Defaultnya false. (untuk pdf generation) |
+| [IsKeptWithNext](../../aspose.pdf/baseparagraph/iskeptwithnext/) { get; set; } | Mendapatkan atau mengatur nilai bool yang menunjukkan apakah paragraf saat ini tetap berada di halaman yang sama bersama paragraf berikutnya. Defaultnya false. (untuk pdf generation) |
+| [IsParagraphHasMargin](../../aspose.pdf/htmlfragment/isparagraphhasmargin/) { get; set; } | Mendapatkan atau mengatur apakah paragraf memiliki margin default, jika tidak margin adalah 0. |
+| [Margin](../../aspose.pdf/baseparagraph/margin/) { get; set; } | Mendapatkan atau mengatur margin luar untuk paragraf (untuk pembuatan PDF) |
 | [Rectangle](../../aspose.pdf/htmlfragment/rectangle/) { get; } | Mendapatkan persegi panjang dari HtmlFragment |
 | [TextState](../../aspose.pdf/htmlfragment/textstate/) { get; set; } | Mendapatkan atau mengatur font |
-| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment/) { get; set; } | Mendapatkan atau mengatur perataan vertikal paragraf |
-| [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | Mendapatkan atau mengatur nilai int yang menunjukkan urutan Z dari grafik. Grafik dengan ZIndex yang lebih besar akan ditempatkan di atas grafik dengan ZIndex yang lebih kecil. ZIndex bisa negatif. Grafik dengan ZIndex negatif akan ditempatkan di belakang teks di halaman. |
+| virtual [VerticalAlignment](../../aspose.pdf/baseparagraph/verticalalignment/) { get; set; } | Mendapatkan atau mengatur perataan vertikal paragraf. |
+| [ZIndex](../../aspose.pdf/baseparagraph/zindex/) { get; set; } | Mendapatkan atau mengatur nilai integer yang menunjukkan urutan Z grafik. Grafik dengan ZIndex lebih besar akan ditempatkan di atas grafik dengan ZIndex lebih kecil. ZIndex dapat bernilai negatif. Grafik dengan ZIndex negatif akan ditempatkan di belakang teks pada halaman. |
 
 ## Metode
 
@@ -47,6 +47,8 @@ public sealed class HtmlFragment : FormattedFragment
 
 ### Lihat Juga
 
-* kelas [FormattedFragment](../formattedfragment/)
+* class [FormattedFragment](../formattedfragment/)
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

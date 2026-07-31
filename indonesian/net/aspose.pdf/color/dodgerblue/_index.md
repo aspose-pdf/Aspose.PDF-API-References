@@ -1,12 +1,12 @@
 ---
-title: Color.DodgerBlue
-second_title: Aspose.PDF for .NET API Reference
-description: Properti Warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FF1E90FF
+title: "Color.DodgerBlue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang didefinisikan sistem dengan nilai ARGB c FF1E90FF"
 type: docs
 weight: 430
 url: /id/net/aspose.pdf/color/dodgerblue/
 ---
-## Properti Color.DodgerBlue
+## Color.DodgerBlue property
 
 Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FF1E90FF.
 
@@ -14,12 +14,14 @@ Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FF1E90FF.
 public static Color DodgerBlue { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah yang mewakili warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

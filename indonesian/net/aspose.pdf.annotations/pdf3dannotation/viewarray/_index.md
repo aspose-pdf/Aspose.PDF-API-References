@@ -1,12 +1,12 @@
 ---
-title: PDF3DAnnotation.ViewArray
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PDF3DAnnotation. Mendapatkan array tampilan
+title: "PDF3DAnnotation.ViewArray"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PDF3DAnnotation. Mendapatkan array tampilan"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.annotations/pdf3dannotation/viewarray/
 ---
-## Properti PDF3DAnnotation.ViewArray
+## PDF3DAnnotation.ViewArray property
 
 Mendapatkan array tampilan.
 
@@ -14,13 +14,15 @@ Mendapatkan array tampilan.
 public PDF3DViewArray ViewArray { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Array tampilan.
 
 ### Lihat Juga
 
-* kelas [PDF3DViewArray](../../pdf3dviewarray/)
-* kelas [PDF3DAnnotation](../)
+* class [PDF3DViewArray](../../pdf3dviewarray/)
+* class [PDF3DAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

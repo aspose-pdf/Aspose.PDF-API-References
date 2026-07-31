@@ -1,12 +1,12 @@
 ---
-title: AttributeOwnerStandard.Owner
-second_title: Aspose.PDF for .NET API Reference
-description: Properti AttributeOwnerStandard. Dapatkan Pemilik Atribut
+title: "AttributeOwnerStandard.Owner"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "AttributeOwnerStandard property. Dapatkan Pemilik Atribut"
 type: docs
 weight: 120
 url: /id/net/aspose.pdf.logicalstructure/attributeownerstandard/owner/
 ---
-## Properti AttributeOwnerStandard.Owner
+## AttributeOwnerStandard.Owner property
 
 Dapatkan Pemilik Atribut.
 
@@ -14,12 +14,14 @@ Dapatkan Pemilik Atribut.
 public string Owner { get; }
 ```
 
-### Nilai Properti
+### Property Value
 
 Pemilik Atribut.
 
 ### Lihat Juga
 
-* kelas [AttributeOwnerStandard](../)
-* ruang nama [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
+* class [AttributeOwnerStandard](../)
+* namespace [Aspose.Pdf.LogicalStructure](../../../aspose.pdf.logicalstructure/)
 * assembly [Aspose.PDF](../../../)
+
+

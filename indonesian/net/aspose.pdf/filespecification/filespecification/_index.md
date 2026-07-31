@@ -1,7 +1,7 @@
 ---
-title: FileSpecification.FileSpecification
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor FileSpecification. Konstruktor untuk FileSpecification
+title: "FileSpecification.FileSpecification"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor FileSpecification. Konstruktor untuk FileSpecification"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/filespecification/filespecification/
@@ -37,7 +37,7 @@ public FileSpecification(Stream stream, string name)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | stream | Stream | Stream yang berisi file data. |
-| name | String | Spesifikasi file. |
+| nama | String | Spesifikasi file. |
 
 ### Lihat Juga
 
@@ -58,7 +58,7 @@ public FileSpecification(string file, string description)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | file | String | Jalur file. |
-| description | String | Deskripsi file. |
+| deskripsi | String | Deskripsi file. |
 
 ### Lihat Juga
 
@@ -79,8 +79,8 @@ public FileSpecification(Stream stream, string name, string description)
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
 | stream | Stream | Stream yang akan digunakan dalam dokumen. |
-| name | String | Sebuah string spesifikasi file. |
-| description | String | Deskripsi file. |
+| nama | String | String spesifikasi file. |
+| deskripsi | String | Deskripsi file. |
 
 ### Lihat Juga
 
@@ -114,7 +114,7 @@ public FileSpecification(string fileName, Annotation annot)
 
 ## FileSpecification() {#constructor}
 
-Buat spesifikasi file kosong yang baru.
+Buat spesifikasi file kosong baru.
 
 ```csharp
 public FileSpecification()
@@ -125,3 +125,5 @@ public FileSpecification()
 * class [FileSpecification](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

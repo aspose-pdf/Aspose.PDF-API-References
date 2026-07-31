@@ -1,12 +1,12 @@
 ---
-title: FormComboBoxFieldSetOptions.FormComboBoxFieldSetOptions
-second_title: Aspose.PDF for .NET API Reference
-description: FormComboBoxFieldSetOptions constructor. The default constructor
+title: "FormComboBoxFieldSetOptions.FormComboBoxFieldSetOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor FormComboBoxFieldSetOptions. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.plugins/formcomboboxfieldsetoptions/formcomboboxfieldsetoptions/
 ---
-## Konstruktor FormComboBoxFieldSetOptions
+## FormComboBoxFieldSetOptions constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public FormComboBoxFieldSetOptions()
 
 ### Lihat Juga
 
-* kelas [FormComboBoxFieldSetOptions](../)
+* class [FormComboBoxFieldSetOptions](../)
 * namespace [Aspose.Pdf.Plugins](../../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../../)
+
+

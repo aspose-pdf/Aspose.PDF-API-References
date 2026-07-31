@@ -1,14 +1,14 @@
 ---
-title: OpenAIClient.Builder.WithApiVersion
-second_title: Aspose.PDF for .NET API Reference
-description: Metode builder. Mengatur versi API untuk klien
+title: "OpenAIClient.Builder.WithApiVersion"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Builder. Menetapkan versi API untuk klien."
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/openaiclient.builder/withapiversion/
 ---
-## Metode OpenAIClient.Builder.WithApiVersion
+## OpenAIClient.Builder.WithApiVersion method
 
-Mengatur versi API untuk klien.
+Menetapkan versi API untuk klien.
 
 ```csharp
 public Builder WithApiVersion(string apiVersion)
@@ -16,14 +16,16 @@ public Builder WithApiVersion(string apiVersion)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| apiVersion | String | Versi API yang akan diatur. |
+| apiVersion | String | Versi API yang akan disetel. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Instansi saat ini dari [`Builder`](../).
 
 ### Lihat Juga
 
-* kelas [Builder](../)
+* class [Builder](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

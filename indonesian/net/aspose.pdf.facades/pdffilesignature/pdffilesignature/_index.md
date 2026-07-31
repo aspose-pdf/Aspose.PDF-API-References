@@ -1,7 +1,7 @@
 ---
-title: PdfFileSignature.PdfFileSignature
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor PdfFileSignature. Konstruktor kelas PdfFileSignature
+title: "PdfFileSignature.PdfFileSignature"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor PdfFileSignature. Konstruktor dari kelas PdfFileSignature"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.facades/pdffilesignature/pdffilesignature/
@@ -16,7 +16,7 @@ public PdfFileSignature()
 
 ### Lihat Juga
 
-* kelas [PdfFileSignature](../)
+* class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public PdfFileSignature()
 
 ## PdfFileSignature(Document) {#constructor_1}
 
-Menginisialisasi objek [`PdfFileSignature`](../) baru berdasarkan *dokumen*.
+Menginisialisasi objek [`PdfFileSignature`](../) baru berdasarkan *Document*.
 
 ```csharp
 public PdfFileSignature(Document document)
@@ -32,11 +32,13 @@ public PdfFileSignature(Document document)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| dokumen | Dokumen | Dokumen Pdf. |
+| document | Document | Dokumen Pdf. |
 
 ### Lihat Juga
 
-* kelas [Document](../../../aspose.pdf/document/)
-* kelas [PdfFileSignature](../)
+* class [Document](../../../aspose.pdf/document/)
+* class [PdfFileSignature](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

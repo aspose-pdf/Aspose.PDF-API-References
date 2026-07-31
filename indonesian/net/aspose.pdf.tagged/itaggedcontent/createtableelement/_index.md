@@ -1,12 +1,12 @@
 ---
-title: ITaggedContent.CreateTableElement
-second_title: Aspose.PDF for .NET API Reference
-description: Metode ITaggedContent. Membuat TableElement
+title: "ITaggedContent.CreateTableElement"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ITaggedContent metode. Membuat TableElement"
 type: docs
-weight: 280
+weight: 310
 url: /id/net/aspose.pdf.tagged/itaggedcontent/createtableelement/
 ---
-## Metode ITaggedContent.CreateTableElement
+## ITaggedContent.CreateTableElement method
 
 Membuat [`TableElement`](../../../aspose.pdf.logicalstructure/tableelement/).
 
@@ -14,13 +14,15 @@ Membuat [`TableElement`](../../../aspose.pdf.logicalstructure/tableelement/).
 public TableElement CreateTableElement()
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Elemen struktur yang dibuat.
+Elemen struktur dibuat.
 
 ### Lihat Juga
 
-* kelas [TableElement](../../../aspose.pdf.logicalstructure/tableelement/)
-* antarmuka [ITaggedContent](../)
-* ruang nama [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
+* class [TableElement](../../../aspose.pdf.logicalstructure/tableelement/)
+* interface [ITaggedContent](../)
+* namespace [Aspose.Pdf.Tagged](../../../aspose.pdf.tagged/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: FileListResponse.Object
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FileListResponse. Mendapatkan atau mengatur tipe objek yang selalu berupa daftar
+title: "FileListResponse.Object"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FileListResponse. Mendapatkan atau mengatur tipe objek yang selalu berupa daftar"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/filelistresponse/object/
 ---
-## Properti FileListResponse.Object
+## FileListResponse.Object property
 
-Mendapatkan atau mengatur tipe objek, yang selalu berupa daftar.
+Mendapatkan atau mengatur tipe objek, yang selalu berupa list.
 
 ```csharp
 public string Object { get; set; }
@@ -16,6 +16,8 @@ public string Object { get; set; }
 
 ### Lihat Juga
 
-* kelas [FileListResponse](../)
+* class [FileListResponse](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

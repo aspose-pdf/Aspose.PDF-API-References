@@ -1,14 +1,14 @@
 ---
-title: DocSaveOptions.CustomProgressHandler
-second_title: Aspose.PDF for .NET API Reference
-description: Bidang DocSaveOptions. Pengendali ini dapat digunakan untuk menangani peristiwa kemajuan konversi, misalnya dapat digunakan untuk menampilkan bilah kemajuan atau pesan tentang jumlah halaman yang sedang diproses, contoh kode pengendali yang menunjukkan kemajuan di konsol adalah
+title: "DocSaveOptions.CustomProgressHandler"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field DocSaveOptions. Handler ini dapat digunakan untuk menangani peristiwa kemajuan konversi, misalnya dapat digunakan untuk menampilkan bilah kemajuan atau pesan tentang jumlah halaman yang sedang diproses. Contoh kode handler yang menampilkan kemajuan di konsol adalah"
 type: docs
 weight: 140
 url: /id/net/aspose.pdf/docsaveoptions/customprogresshandler/
 ---
-## Bidang DocSaveOptions.CustomProgressHandler
+## DocSaveOptions.CustomProgressHandler field
 
-Pengendali ini dapat digunakan untuk menangani peristiwa kemajuan konversi, misalnya dapat digunakan untuk menampilkan bilah kemajuan atau pesan tentang jumlah halaman yang sedang diproses, contoh kode pengendali yang menunjukkan kemajuan di konsol adalah :
+Handler ini dapat digunakan untuk menangani peristiwa kemajuan konversi, misalnya dapat digunakan untuk menampilkan bilah kemajuan atau pesan tentang jumlah halaman yang sedang diproses, contoh kode handler yang menampilkan kemajuan di konsol adalah:
 
 ```csharp
 public ConversionProgressEventHandler CustomProgressHandler;
@@ -54,3 +54,5 @@ blic static void ShowProgressOnConsole(HtmlSaveOptions.ProgressEventHandlerInfo 
 * class [DocSaveOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

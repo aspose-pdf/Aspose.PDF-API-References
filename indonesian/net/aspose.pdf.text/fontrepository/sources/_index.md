@@ -1,12 +1,12 @@
 ---
-title: FontRepository.Sources
-second_title: Aspose.PDF for .NET API Reference
-description: Properti FontRepository. Mendapatkan koleksi sumber font
+title: "FontRepository.Sources"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti FontRepository. Mendapatkan koleksi sumber font."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.text/fontrepository/sources/
 ---
-## Properti FontRepository.Sources
+## FontRepository.Sources property
 
 Mendapatkan koleksi sumber font.
 
@@ -16,7 +16,9 @@ public static FontSourceCollection Sources { get; }
 
 ### Lihat Juga
 
-* kelas [FontSourceCollection](../../fontsourcecollection/)
-* kelas [FontRepository](../)
+* class [FontSourceCollection](../../fontsourcecollection/)
+* class [FontRepository](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

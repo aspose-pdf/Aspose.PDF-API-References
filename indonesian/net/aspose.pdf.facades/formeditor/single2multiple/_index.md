@@ -1,12 +1,12 @@
 ---
-title: FormEditor.Single2Multiple
-second_title: Aspose.PDF for .NET API Reference
-description: Metode FormEditor. Ubah bidang teks satu baris menjadi beberapa baris
+title: "FormEditor.Single2Multiple"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "FormEditor method. Mengubah field teks satu baris menjadi beberapa baris"
 type: docs
 weight: 350
 url: /id/net/aspose.pdf.facades/formeditor/single2multiple/
 ---
-## Metode FormEditor.Single2Multiple
+## FormEditor.Single2Multiple method
 
 Ubah bidang teks satu baris menjadi beberapa baris.
 
@@ -18,9 +18,9 @@ public bool Single2Multiple(string fieldName)
 | --- | --- | --- |
 | fieldName | String | Nama bidang yang memenuhi syarat. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Jika berhasil, kembalikan true; jika tidak false.
+Jika berhasil, mengembalikan true; jika tidak, false.
 
 ## Contoh
 
@@ -31,6 +31,8 @@ formEditor.Single2Multiple("textField");
 
 ### Lihat Juga
 
-* kelas [FormEditor](../)
+* class [FormEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

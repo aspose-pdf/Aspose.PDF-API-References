@@ -1,14 +1,14 @@
 ---
-title: PageActionCollection.OnOpen
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PageActionCollection. Sebuah tindakan yang akan dilakukan ketika halaman dibuka
+title: "PageActionCollection.OnOpen"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PageActionCollection. Aksi yang akan dilakukan ketika halaman dibuka"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/pageactioncollection/onopen/
 ---
-## Properti PageActionCollection.OnOpen
+## PageActionCollection.OnOpen property
 
-Sebuah tindakan yang akan dilakukan ketika halaman dibuka.
+Aksi yang akan dilakukan ketika halaman dibuka.
 
 ```csharp
 public PdfAction OnOpen { get; set; }
@@ -16,7 +16,9 @@ public PdfAction OnOpen { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
-* kelas [PageActionCollection](../)
+* class [PdfAction](../../../aspose.pdf.annotations/pdfaction/)
+* class [PageActionCollection](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

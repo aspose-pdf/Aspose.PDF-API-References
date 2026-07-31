@@ -1,14 +1,14 @@
 ---
-title: CompletionResponse.SystemFingerprint
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CompletionResponse. Mendapatkan atau mengatur sidik jari yang mewakili konfigurasi backend yang dijalankan model. Dapat digunakan bersamaan dengan parameter permintaan seed untuk memahami kapan perubahan backend telah dilakukan yang mungkin mempengaruhi determinisme
+title: "CompletionResponse.SystemFingerprint"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "CompletionResponse properti. Mendapatkan atau mengatur sidik jari yang mewakili konfigurasi backend yang dijalankan model. Dapat digunakan bersama dengan parameter permintaan seed untuk memahami kapan perubahan backend telah dibuat yang mungkin memengaruhi determinisme"
 type: docs
 weight: 70
 url: /id/net/aspose.pdf.ai/completionresponse/systemfingerprint/
 ---
-## Properti CompletionResponse.SystemFingerprint
+## CompletionResponse.SystemFingerprint property
 
-Mendapatkan atau mengatur sidik jari yang mewakili konfigurasi backend yang dijalankan model. Dapat digunakan bersamaan dengan parameter permintaan seed untuk memahami kapan perubahan backend telah dilakukan yang mungkin mempengaruhi determinisme.
+Mendapatkan atau mengatur sidik jari yang mewakili konfigurasi backend yang dijalankan oleh model. Dapat digunakan bersama parameter permintaan seed untuk memahami kapan perubahan backend telah dilakukan yang mungkin memengaruhi determinisme.
 
 ```csharp
 public string SystemFingerprint { get; set; }
@@ -16,6 +16,8 @@ public string SystemFingerprint { get; set; }
 
 ### Lihat Juga
 
-* kelas [CompletionResponse](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [CompletionResponse](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

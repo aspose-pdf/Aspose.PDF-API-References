@@ -1,12 +1,12 @@
 ---
-title: Table.GetHeight
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Tabel. Dapatkan tinggi
+title: "Table.GetHeight"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Table. Dapatkan tinggi."
 type: docs
 weight: 230
 url: /id/net/aspose.pdf/table/getheight/
 ---
-## Metode Table.GetHeight
+## Table.GetHeight method
 
 Dapatkan tinggi.
 
@@ -18,13 +18,15 @@ public double GetHeight(Page parentPage = null)
 | --- | --- | --- |
 | parentPage | Halaman | Halaman induk tabel (opsional). |
 
-### Nilai Kembali
+### Nilai Kembalian
 
 Tinggi tabel.
 
 ### Lihat Juga
 
-* kelas [Page](../../page/)
-* kelas [Table](../)
+* class [Page](../../page/)
+* class [Table](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

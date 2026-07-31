@@ -1,12 +1,12 @@
 ---
-title: Class TextPlaceOperator
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operators.TextPlaceOperator. Kelas dasar abstrak untuk operator yang mengubah posisi teks Tm Td dll
+title: "Kelas TextPlaceOperator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Operators.TextPlaceOperator class. Kelas dasar abstrak untuk operator yang mengubah posisi teks Tm Td dll"
 type: docs
-weight: 7910
+weight: 8050
 url: /id/net/aspose.pdf.operators/textplaceoperator/
 ---
-## Kelas TextPlaceOperator
+## TextPlaceOperator class
 
 Kelas dasar abstrak untuk operator yang mengubah posisi teks (Tm, Td, dll).
 
@@ -31,12 +31,14 @@ public class TextPlaceOperator : TextOperator
 
 | Nama | Deskripsi |
 | --- | --- |
-| override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | Menerima objek pengunjung untuk memproses operator. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks dari operator dan parameternya. |
+| override [Accept](../../aspose.pdf.operators/textoperator/accept/)(IOperatorSelector) | Menerima objek visitor untuk memproses operator. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks operator dan parameternya. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
 
 ### Lihat Juga
 
-* kelas [TextOperator](../textoperator/)
-* ruang nama [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
+* class [TextOperator](../textoperator/)
+* namespace [Aspose.Pdf.Operators](../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../)
+
+

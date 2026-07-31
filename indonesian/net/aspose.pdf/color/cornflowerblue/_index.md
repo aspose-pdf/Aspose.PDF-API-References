@@ -1,12 +1,12 @@
 ---
-title: Color.CornflowerBlue
-second_title: Aspose.PDF for .NET API Reference
-description: Properti warna. Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB c FF6495ED
+title: "Color.CornflowerBlue"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti Color. Mendapatkan warna yang ditentukan sistem dengan nilai ARGB c FF6495ED"
 type: docs
 weight: 190
 url: /id/net/aspose.pdf/color/cornflowerblue/
 ---
-## Properti Color.CornflowerBlue
+## Color.CornflowerBlue property
 
 Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FF6495ED.
 
@@ -14,12 +14,14 @@ Mendapatkan warna yang ditentukan sistem yang memiliki nilai ARGB \c \#FF6495ED.
 public static Color CornflowerBlue { get; }
 ```
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah representasi warna yang ditentukan sistem.
+A mewakili warna yang didefinisikan sistem.
 
 ### Lihat Juga
 
-* kelas [Color](../)
+* class [Color](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

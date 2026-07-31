@@ -1,7 +1,7 @@
 ---
-title: GradientRadialShading.GradientRadialShading
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor GradientRadialShading. Menginisialisasi instance baru dari kelas GradientRadialShading
+title: "GradientRadialShading.GradientRadialShading"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor GradientRadialShading. Menginisialisasi instance baru dari kelas GradientRadialShading"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.drawing/gradientradialshading/gradientradialshading/
@@ -16,7 +16,7 @@ public GradientRadialShading()
 
 ### Lihat Juga
 
-* kelas [GradientRadialShading](../)
+* class [GradientRadialShading](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
 
@@ -37,7 +37,9 @@ public GradientRadialShading(Color startColor, Color endColor)
 
 ### Lihat Juga
 
-* kelas [Color](../../../aspose.pdf/color/)
-* kelas [GradientRadialShading](../)
+* class [Color](../../../aspose.pdf/color/)
+* class [GradientRadialShading](../)
 * namespace [Aspose.Pdf.Drawing](../../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../../)
+
+

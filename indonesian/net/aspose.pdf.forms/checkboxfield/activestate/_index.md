@@ -1,14 +1,14 @@
 ---
-title: CheckboxField.ActiveState
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CheckboxField. Mendapatkan atau mengatur keadaan tampilan anotasi saat ini
+title: "CheckboxField.ActiveState"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CheckboxField. Mendapatkan atau mengatur keadaan tampilan anotasi saat ini"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.forms/checkboxfield/activestate/
 ---
-## Properti CheckboxField.ActiveState
+## CheckboxField.ActiveState property
 
-Mendapatkan atau mengatur keadaan tampilan anotasi saat ini.
+Mendapatkan atau mengatur status tampilan annotation saat ini.
 
 ```csharp
 public override string ActiveState { get; set; }
@@ -16,6 +16,8 @@ public override string ActiveState { get; set; }
 
 ### Lihat Juga
 
-* kelas [CheckboxField](../)
+* class [CheckboxField](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

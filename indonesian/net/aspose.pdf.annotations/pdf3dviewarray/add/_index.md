@@ -1,12 +1,12 @@
 ---
-title: PDF3DViewArray.Add
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PDF3DViewArray. Menambahkan tampilan yang ditentukan
+title: "PDF3DViewArray.Add"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "PDF3DViewArray metode. Menambahkan tampilan yang ditentukan"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.annotations/pdf3dviewarray/add/
 ---
-## Metode PDF3DViewArray.Add
+## PDF3DViewArray.Add method
 
 Menambahkan tampilan yang ditentukan.
 
@@ -26,7 +26,9 @@ public void Add(PDF3DView view)
 
 ### Lihat Juga
 
-* kelas [PDF3DView](../../pdf3dview/)
-* kelas [PDF3DViewArray](../)
+* class [PDF3DView](../../pdf3dview/)
+* class [PDF3DViewArray](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: ViewerPreference.PickTrayByPDFSize
-second_title: Aspose.PDF for .NET API Reference
-description: Field ViewerPreference. Gunakan ukuran halaman PDF untuk memilih baki kertas input
+title: "ViewerPreference.PickTrayByPDFSize"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Bidang ViewerPreference. Gunakan ukuran halaman PDF untuk memilih baki kertas masukan"
 type: docs
 weight: 260
 url: /id/net/aspose.pdf.facades/viewerpreference/picktraybypdfsize/
 ---
-## Field ViewerPreference.PickTrayByPDFSize
+## ViewerPreference.PickTrayByPDFSize field
 
-Gunakan ukuran halaman PDF untuk memilih baki kertas input.
+Gunakan ukuran halaman PDF untuk memilih baki kertas masukan.
 
 ```csharp
 public const int PickTrayByPDFSize;
@@ -19,3 +19,5 @@ public const int PickTrayByPDFSize;
 * class [ViewerPreference](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

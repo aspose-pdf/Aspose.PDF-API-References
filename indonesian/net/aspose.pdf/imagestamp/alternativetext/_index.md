@@ -1,14 +1,14 @@
 ---
-title: ImageStamp.AlternativeText
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ImageStamp. Mendapatkan atau mengatur Teks Alternatif untuk cap gambar
+title: "ImageStamp.AlternativeText"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ImageStamp. Mengambil atau mengatur Teks Alternatif untuk stempel gambar"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/imagestamp/alternativetext/
 ---
-## Properti ImageStamp.AlternativeText
+## ImageStamp.AlternativeText property
 
-Mendapatkan atau mengatur Teks Alternatif untuk cap gambar.
+Mendapatkan atau mengatur Teks Alternatif untuk stempel gambar.
 
 ```csharp
 public string AlternativeText { get; set; }
@@ -16,6 +16,8 @@ public string AlternativeText { get; set; }
 
 ### Lihat Juga
 
-* kelas [ImageStamp](../)
+* class [ImageStamp](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

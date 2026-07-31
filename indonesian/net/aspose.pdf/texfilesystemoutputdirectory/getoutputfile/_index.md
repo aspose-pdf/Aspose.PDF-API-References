@@ -1,14 +1,14 @@
 ---
-title: TeXFileSystemOutputDirectory.GetOutputFile
-second_title: Aspose.PDF for .NET API Reference
-description: Metode TeXFileSystemOutputDirectory. Mengembalikan stream untuk menulis
+title: "TeXFileSystemOutputDirectory.GetOutputFile"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "TeXFileSystemOutputDirectory method. Mengembalikan stream untuk menulis"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/texfilesystemoutputdirectory/getoutputfile/
 ---
-## Metode TeXFileSystemOutputDirectory.GetOutputFile
+## TeXFileSystemOutputDirectory.GetOutputFile method
 
-Mengembalikan stream untuk menulis.
+Mengembalikan aliran untuk ditulis.
 
 ```csharp
 public Stream GetOutputFile(string fileName, out string fullName)
@@ -19,12 +19,14 @@ public Stream GetOutputFile(string fileName, out string fullName)
 | fileName | String | Nama file. |
 | fullName | String& | Nama file lengkap. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Stream.
+Aliran.
 
 ### Lihat Juga
 
-* kelas [TeXFileSystemOutputDirectory](../)
+* class [TeXFileSystemOutputDirectory](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

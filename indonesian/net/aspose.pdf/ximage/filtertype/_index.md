@@ -1,14 +1,14 @@
 ---
-title: XImage.FilterType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti XImage. Mendapatkan jenis filter gambar
+title: "XImage.FilterType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti XImage. Mendapatkan tipe filter gambar"
 type: docs
 weight: 20
 url: /id/net/aspose.pdf/ximage/filtertype/
 ---
-## Properti XImage.FilterType
+## XImage.FilterType property
 
-Mendapatkan jenis filter gambar.
+Mendapatkan tipe filter gambar.
 
 ```csharp
 public ImageFilterType FilterType { get; }
@@ -16,7 +16,9 @@ public ImageFilterType FilterType { get; }
 
 ### Lihat Juga
 
-* enum [GambarFilterType](../../imagefiltertype/)
+* enum [ImageFilterType](../../imagefiltertype/)
 * class [XImage](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

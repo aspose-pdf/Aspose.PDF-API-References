@@ -1,14 +1,14 @@
 ---
-title: Field.Flatten
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Field. Menghapus field ini dan menempatkan nilainya langsung di halaman
+title: "Field.Flatten"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Field. Menghapus bidang ini dan menempatkan nilainya langsung pada halaman"
 type: docs
 weight: 190
 url: /id/net/aspose.pdf.forms/field/flatten/
 ---
-## Metode Field.Flatten
+## Field.Flatten method
 
-Menghapus field ini dan menempatkan nilainya langsung di halaman.
+Menghapus bidang ini dan menempatkan nilainya langsung pada halaman.
 
 ```csharp
 public override void Flatten()
@@ -20,6 +20,8 @@ public override void Flatten()
 
 ### Lihat Juga
 
-* kelas [Field](../)
+* class [Field](../)
 * namespace [Aspose.Pdf.Forms](../../../aspose.pdf.forms/)
 * assembly [Aspose.PDF](../../../)
+
+

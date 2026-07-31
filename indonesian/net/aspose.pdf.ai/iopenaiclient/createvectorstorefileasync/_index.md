@@ -1,14 +1,14 @@
 ---
-title: IOpenAIClient.CreateVectorStoreFileAsync
-second_title: Aspose.PDF for .NET API Reference
-description: Metode IOpenAIClient. Membuat file penyimpanan vektor baru secara asinkron
+title: "IOpenAIClient.CreateVectorStoreFileAsync"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode IOpenAIClient. Membuat file toko vektor baru secara asinkron"
 type: docs
 weight: 110
 url: /id/net/aspose.pdf.ai/iopenaiclient/createvectorstorefileasync/
 ---
-## Metode IOpenAIClient.CreateVectorStoreFileAsync
+## IOpenAIClient.CreateVectorStoreFileAsync method
 
-Membuat file penyimpanan vektor baru secara asinkron.
+Membuat file vector store baru secara asinkron.
 
 ```csharp
 public Task<VectorStoreFileResponse> CreateVectorStoreFileAsync(string vectorStoreId, 
@@ -18,24 +18,26 @@ public Task<VectorStoreFileResponse> CreateVectorStoreFileAsync(string vectorSto
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| vectorStoreId | String | ID dari penyimpanan vektor tempat file akan dibuat. |
+| vectorStoreId | String | ID vector store tempat file akan dibuat. |
 | vectorStoreFileCreateRequest | VectorStoreFileCreateRequest | Objek permintaan yang berisi detail untuk membuat file. |
 | cancellationToken | Nullable`1 | Token untuk membatalkan operasi. |
 
-### Nilai Kembali
+### Nilai Kembalian
 
-Sebuah tugas yang mewakili operasi asinkron. Hasil tugas berisi respons dari pembuatan file.
+Task yang mewakili operasi asinkron. Hasil task berisi respons dari pembuatan file.
 
 ### Pengecualian
 
 | pengecualian | kondisi |
 | --- | --- |
-| [AIClientException](../../aiclientexception/) | Dilempar ketika ID penyimpanan vektor adalah null atau kosong. |
+| [AIClientException](../../aiclientexception/) | Dilempar ketika ID vector store null atau kosong. |
 
 ### Lihat Juga
 
-* kelas [VectorStoreFileResponse](../../vectorstorefileresponse/)
-* kelas [VectorStoreFileCreateRequest](../../vectorstorefilecreaterequest/)
-* antarmuka [IOpenAIClient](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [VectorStoreFileResponse](../../vectorstorefileresponse/)
+* class [VectorStoreFileCreateRequest](../../vectorstorefilecreaterequest/)
+* interface [IOpenAIClient](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

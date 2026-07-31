@@ -1,14 +1,14 @@
 ---
-title: DocumentInfo.ModTimeZone
-second_title: Aspose.PDF for .NET API Reference
-description: Properti DocumentInfo. Zona waktu dari tanggal modifikasi
+title: "DocumentInfo.ModTimeZone"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti DocumentInfo. Zona waktu tanggal modifikasi"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf/documentinfo/modtimezone/
 ---
-## Properti DocumentInfo.ModTimeZone
+## DocumentInfo.ModTimeZone property
 
-Zona waktu dari tanggal modifikasi.
+Zona waktu tanggal modifikasi.
 
 ```csharp
 public TimeSpan ModTimeZone { get; set; }
@@ -16,6 +16,8 @@ public TimeSpan ModTimeZone { get; set; }
 
 ### Lihat Juga
 
-* kelas [DocumentInfo](../)
+* class [DocumentInfo](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

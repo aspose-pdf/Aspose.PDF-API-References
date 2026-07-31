@@ -1,14 +1,14 @@
 ---
-title: ScreenAnnotation.Title
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ScreenAnnotation. Mendapatkan atau menetapkan judul anotasi layar
+title: "ScreenAnnotation.Title"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "ScreenAnnotation properti. Mendapatkan atau mengatur judul screen Annotation"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf.annotations/screenannotation/title/
 ---
-## Properti ScreenAnnotation.Title
+## ScreenAnnotation.Title property
 
-Mendapatkan atau menetapkan judul anotasi layar.
+Mendapatkan atau mengatur judul anotasi screen.
 
 ```csharp
 public string Title { get; set; }
@@ -16,6 +16,8 @@ public string Title { get; set; }
 
 ### Lihat Juga
 
-* kelas [ScreenAnnotation](../)
-* ruang nama [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
+* class [ScreenAnnotation](../)
+* namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

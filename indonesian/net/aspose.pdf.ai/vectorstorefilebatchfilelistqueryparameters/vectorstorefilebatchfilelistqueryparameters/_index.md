@@ -1,12 +1,12 @@
 ---
-title: VectorStoreFileBatchFileListQueryParameters.VectorStoreFileBatchFileListQueryParameters
-second_title: Aspose.PDF for .NET API Reference
-description: VectorStoreFileBatchFileListQueryParameters constructor. The default constructor
+title: "VectorStoreFileBatchFileListQueryParameters.VectorStoreFileBatchFileListQueryParameters"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor VectorStoreFileBatchFileListQueryParameters. Konstruktor default"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/vectorstorefilebatchfilelistqueryparameters/vectorstorefilebatchfilelistqueryparameters/
 ---
-## Konstruktor VectorStoreFileBatchFileListQueryParameters
+## VectorStoreFileBatchFileListQueryParameters constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public VectorStoreFileBatchFileListQueryParameters()
 
 ### Lihat Juga
 
-* kelas [VectorStoreFileBatchFileListQueryParameters](../)
+* class [VectorStoreFileBatchFileListQueryParameters](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

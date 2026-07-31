@@ -1,12 +1,12 @@
 ---
-title: CodeInterpreter.CodeInterpreter
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor CodeInterpreter. Konstruktor default
+title: "CodeInterpreter.CodeInterpreter"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor CodeInterpreter. Konstruktor default."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.ai/codeinterpreter/codeinterpreter/
 ---
-## Konstruktor CodeInterpreter
+## CodeInterpreter constructor
 
 Konstruktor default.
 
@@ -16,6 +16,8 @@ public CodeInterpreter()
 
 ### Lihat Juga
 
-* kelas [CodeInterpreter](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [CodeInterpreter](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

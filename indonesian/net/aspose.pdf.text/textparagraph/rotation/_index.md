@@ -1,12 +1,12 @@
 ---
-title: TextParagraph.Rotation
-second_title: Aspose.PDF for .NET API Reference
-description: Properti TextParagraph. Mendapatkan atau mengatur sudut rotasi dalam derajat
+title: "TextParagraph.Rotation"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti TextParagraph. Mendapatkan atau mengatur sudut rotasi dalam derajat"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.text/textparagraph/rotation/
 ---
-## Properti TextParagraph.Rotation
+## TextParagraph.Rotation property
 
 Mendapatkan atau mengatur sudut rotasi dalam derajat.
 
@@ -16,6 +16,8 @@ public double Rotation { get; set; }
 
 ### Lihat Juga
 
-* kelas [TextParagraph](../)
+* class [TextParagraph](../)
 * namespace [Aspose.Pdf.Text](../../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../../)
+
+

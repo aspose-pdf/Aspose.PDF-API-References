@@ -1,14 +1,14 @@
 ---
-title: CollectionField.E
-second_title: Aspose.PDF for .NET API Reference
-description: Properti CollectionField. Mendapatkan sebuah flag yang menunjukkan apakah pemroses PDF interaktif harus menyediakan dukungan untuk mengedit nilai field. Nilai default false
+title: "CollectionField.E"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti CollectionField. Mendapatkan flag yang menunjukkan apakah pemroses PDF interaktif harus menyediakan dukungan untuk mengedit nilai bidang. Nilai default false"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/collectionfield/e/
 ---
-## Properti CollectionField.E
+## CollectionField.E property
 
-Mendapatkan sebuah flag yang menunjukkan apakah pemroses PDF interaktif harus menyediakan dukungan untuk mengedit nilai field. Nilai default: false
+Mendapatkan flag yang menunjukkan apakah pemroses PDF interaktif harus menyediakan dukungan untuk mengedit nilai bidang. Nilai default: false
 
 ```csharp
 public bool E { get; }
@@ -16,6 +16,8 @@ public bool E { get; }
 
 ### Lihat Juga
 
-* kelas [CollectionField](../)
+* class [CollectionField](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

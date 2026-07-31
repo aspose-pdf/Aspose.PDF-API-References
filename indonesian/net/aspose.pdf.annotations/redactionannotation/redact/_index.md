@@ -1,14 +1,14 @@
 ---
-title: RedactionAnnotation.Redact
-second_title: Aspose.PDF for .NET API Reference
-description: Metode RedactionAnnotation. Meratakan anotasi dan menghapus konten halaman yaitu menghapus teks dan gambar di bawah anotasi yang dihapus
+title: "RedactionAnnotation.Redact"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode RedactionAnnotation. Meratakan anotasi dan meredaksi isi halaman, yaitu menghapus teks dan gambar di bawah anotasi yang diredaksi"
 type: docs
 weight: 130
 url: /id/net/aspose.pdf.annotations/redactionannotation/redact/
 ---
-## Metode RedactionAnnotation.Redact
+## RedactionAnnotation.Redact method
 
-Meratakan anotasi dan menghapus konten halaman (yaitu menghapus teks dan gambar di bawah anotasi yang dihapus)
+Meratakan anotasi dan menyensor konten halaman (yaitu menghapus teks dan gambar di bawah anotasi yang disensor)
 
 ```csharp
 public void Redact()
@@ -16,6 +16,8 @@ public void Redact()
 
 ### Lihat Juga
 
-* kelas [RedactionAnnotation](../)
+* class [RedactionAnnotation](../)
 * namespace [Aspose.Pdf.Annotations](../../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../../)
+
+

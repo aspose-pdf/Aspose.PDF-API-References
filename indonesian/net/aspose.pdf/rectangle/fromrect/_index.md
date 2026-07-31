@@ -1,7 +1,7 @@
 ---
-title: Rectangle.FromRect
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Rectangle. Menginisialisasi persegi panjang baru dari instance System.Drawing.Rectangle yang diberikan
+title: "Rectangle.FromRect"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode Rectangle. Menginisialisasi rectangle baru dari instance System.Drawing.Rectangle yang diberikan"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/rectangle/fromrect/
@@ -16,13 +16,13 @@ public static Rectangle FromRect(Rectangle src)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| src | Rectangle | Persegi panjang sumber yang posisi dan ukurannya akan diatur ke persegi panjang baru. |
+| src | Rectangle | Rectangle sumber yang posisi dan ukurannya akan diatur ke rectangle baru. |
 
-### Return Value
+### Nilai Kembalian
 
-Persegi panjang baru.
+Rectangle baru.
 
-### See Also
+### Lihat Juga
 
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
@@ -40,14 +40,16 @@ public static Rectangle FromRect(RectangleF src)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| src | RectangleF | Persegi panjang sumber yang posisi dan ukurannya akan diatur ke persegi panjang baru. |
+| src | RectangleF | Rectangle sumber yang posisi dan ukurannya akan diatur ke rectangle baru. |
 
-### Return Value
+### Nilai Kembalian
 
-Persegi panjang baru.
+Rectangle baru.
 
-### See Also
+### Lihat Juga
 
 * class [Rectangle](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

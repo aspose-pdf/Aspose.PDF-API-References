@@ -1,12 +1,12 @@
 ---
-title: PdfDocument.Name
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfDocument. Mendapatkan atau mengatur nama dokumen PDF. Menghasilkan GUID baru jika nama tidak diatur
+title: "PdfDocument.Name"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfDocument. Mendapatkan atau mengatur nama dokumen PDF. Membuat GUID baru jika nama tidak diatur"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.ai/pdfdocument/name/
 ---
-## Properti PdfDocument.Name
+## PdfDocument.Name property
 
 Mendapatkan atau mengatur nama dokumen PDF. Menghasilkan GUID baru jika nama tidak diatur.
 
@@ -16,6 +16,8 @@ public string Name { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfDocument](../)
-* ruang nama [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
+* class [PdfDocument](../)
+* namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

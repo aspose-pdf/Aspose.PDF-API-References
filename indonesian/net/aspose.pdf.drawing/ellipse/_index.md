@@ -1,12 +1,12 @@
 ---
-title: Class Ellipse
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Drawing.Ellipse. Mewakili elips
+title: "Kelas Ellipse"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Drawing.Ellipse. Mewakili elips"
 type: docs
-weight: 3910
+weight: 4030
 url: /id/net/aspose.pdf.drawing/ellipse/
 ---
-## Kelas Ellipse
+## Ellipse class
 
 Mewakili elips.
 
@@ -24,12 +24,12 @@ public sealed class Ellipse : Shape
 
 | Nama | Deskripsi |
 | --- | --- |
-| [Bottom](../../aspose.pdf.drawing/ellipse/bottom/) { get; set; } | Mendapatkan atau menetapkan nilai float yang menunjukkan posisi bawah dari elips. |
-| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Mendapatkan atau menetapkan objek [`GraphInfo`](../shape/graphinfo/) yang menunjukkan informasi grafik, seperti warna, lebar garis, dll. |
-| [Height](../../aspose.pdf.drawing/ellipse/height/) { get; set; } | Mendapatkan atau menetapkan nilai float yang menunjukkan tinggi dari elips. |
-| [Left](../../aspose.pdf.drawing/ellipse/left/) { get; set; } | Mendapatkan atau menetapkan nilai float yang menunjukkan posisi kiri dari elips. |
-| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Mendapatkan atau menetapkan teks untuk bentuk |
-| [Width](../../aspose.pdf.drawing/ellipse/width/) { get; set; } | Mendapatkan atau menetapkan nilai float yang menunjukkan lebar dari elips. |
+| [Bottom](../../aspose.pdf.drawing/ellipse/bottom/) { get; set; } | Mendapatkan atau mengatur nilai float yang menunjukkan posisi bawah elips. |
+| [GraphInfo](../../aspose.pdf.drawing/shape/graphinfo/) { get; set; } | Mendapatkan atau mengatur objek [`GraphInfo`](../shape/graphinfo/) yang menunjukkan informasi grafik, seperti warna, lebar garis, dll. |
+| [Height](../../aspose.pdf.drawing/ellipse/height/) { get; set; } | Mendapatkan atau mengatur nilai float yang menunjukkan tinggi elips. |
+| [Left](../../aspose.pdf.drawing/ellipse/left/) { get; set; } | Mendapatkan atau mengatur nilai float yang menunjukkan posisi kiri elips. |
+| [Text](../../aspose.pdf.drawing/shape/text/) { get; set; } | Mendapatkan atau mengatur teks untuk bentuk |
+| [Width](../../aspose.pdf.drawing/ellipse/width/) { get; set; } | Mendapatkan atau mengatur nilai float yang menunjukkan lebar elips. |
 
 ## Metode
 
@@ -39,6 +39,8 @@ public sealed class Ellipse : Shape
 
 ### Lihat Juga
 
-* kelas [Shape](../shape/)
+* class [Shape](../shape/)
 * namespace [Aspose.Pdf.Drawing](../../aspose.pdf.drawing/)
 * assembly [Aspose.PDF](../../)
+
+

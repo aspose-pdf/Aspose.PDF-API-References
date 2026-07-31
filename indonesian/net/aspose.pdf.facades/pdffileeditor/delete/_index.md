@@ -1,14 +1,14 @@
 ---
-title: PdfFileEditor.Delete
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfFileEditor. Menghapus halaman yang ditentukan oleh array nomor dari file input dan menyimpannya sebagai file Pdf baru
+title: "PdfFileEditor.Delete"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfFileEditor. Menghapus halaman yang ditentukan oleh array nomor dari file input dan menyimpannya sebagai file Pdf baru"
 type: docs
 weight: 270
 url: /id/net/aspose.pdf.facades/pdffileeditor/delete/
 ---
 ## Delete(string, int[], string) {#delete_1}
 
-Menghapus halaman yang ditentukan oleh array nomor dari file input, menyimpannya sebagai file Pdf baru.
+Menghapus halaman yang ditentukan oleh array nomor dari file input, menyimpan sebagai file Pdf baru.
 
 ```csharp
 public bool Delete(string inputFile, int[] pageNumber, string outputFile)
@@ -16,11 +16,11 @@ public bool Delete(string inputFile, int[] pageNumber, string outputFile)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputFile | String | Jalur file input. |
-| pageNumber | Int32[] | Indeks halaman dari file input. |
-| outputFile | String | Jalur file output. |
+| inputFile | String | Path file input. |
+| pageNumber | Int32[] | Indeks halaman di luar file input. |
+| outputFile | String | Path file output. |
 
-### Return Value
+### Nilai Kembalian
 
 True jika operasi berhasil.
 
@@ -33,7 +33,7 @@ pfe.Delete("input.pdf", new int[] { 2, 3 }, "out.pdf");
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
 
@@ -41,7 +41,7 @@ pfe.Delete("input.pdf", new int[] { 2, 3 }, "out.pdf");
 
 ## Delete(Stream, int[], Stream) {#delete}
 
-Menghapus halaman yang ditentukan oleh array nomor dari file input, menyimpannya sebagai file Pdf baru.
+Menghapus halaman yang ditentukan oleh array nomor dari file input, menyimpan sebagai file Pdf baru.
 
 ```csharp
 public bool Delete(Stream inputStream, int[] pageNumber, Stream outputStream)
@@ -49,13 +49,13 @@ public bool Delete(Stream inputStream, int[] pageNumber, Stream outputStream)
 
 | Parameter | Tipe | Deskripsi |
 | --- | --- | --- |
-| inputStream | Stream | Stream file input. |
-| pageNumber | Int32[] | Indeks halaman dari file input. |
-| outputStream | Stream | Stream file output. |
+| inputStream | Stream | Aliran file masukan. |
+| pageNumber | Int32[] | Indeks halaman di luar file input. |
+| outputStream | Stream | Aliran file output. |
 
-### Return Value
+### Nilai Kembalian
 
-True untuk keberhasilan, atau false.
+True untuk berhasil, atau false.
 
 ## Contoh
 
@@ -68,6 +68,8 @@ pfe.Delete(inputStream, new int[] { 2, 3 }, outputStream);
 
 ### Lihat Juga
 
-* kelas [PdfFileEditor](../)
+* class [PdfFileEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

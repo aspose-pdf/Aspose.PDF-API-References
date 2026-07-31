@@ -1,14 +1,14 @@
 ---
-title: XslFoLoadOptions.ParsingErrorsHandlingType
-second_title: Aspose.PDF for .NET API Reference
-description: XslFoLoadOptions field. Dokumen XSLFO sumber dapat mengandung kesalahan format. Enum ini mencantumkan strategi yang mungkin untuk menangani kesalahan tersebut
+title: "XslFoLoadOptions.ParsingErrorsHandlingType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Field XslFoLoadOptions. Dokumen XSLFO sumber dapat berisi kesalahan format. Enum ini menjelaskan strategi yang mungkin untuk penanganan kesalahan tersebut"
 type: docs
 weight: 40
 url: /id/net/aspose.pdf/xslfoloadoptions/parsingerrorshandlingtype/
 ---
 ## XslFoLoadOptions.ParsingErrorsHandlingType field
 
-Dokumen XSLFO sumber dapat mengandung kesalahan format. Enum ini mencantumkan strategi yang mungkin untuk menangani kesalahan tersebut
+Dokumen XSLFO sumber dapat berisi kesalahan format. Enum ini mengenumerasikan strategi yang mungkin untuk menangani kesalahan tersebut.
 
 ```csharp
 public ParsingErrorsHandlingTypes ParsingErrorsHandlingType;
@@ -20,3 +20,5 @@ public ParsingErrorsHandlingTypes ParsingErrorsHandlingType;
 * class [XslFoLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

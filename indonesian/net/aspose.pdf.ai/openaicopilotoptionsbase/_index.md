@@ -1,12 +1,12 @@
 ---
-title: Class OpenAICopilotOptionsBase
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.AI.OpenAICopilotOptionsBase. Mewakili opsi dasar untuk mengonfigurasi OpenAICopilot
+title: "Kelas OpenAICopilotOptionsBase"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.AI.OpenAICopilotOptionsBase. Mewakili opsi dasar untuk mengonfigurasi OpenAICopilot"
 type: docs
-weight: 870
+weight: 930
 url: /id/net/aspose.pdf.ai/openaicopilotoptionsbase/
 ---
-## Kelas OpenAICopilotOptionsBase
+## OpenAICopilotOptionsBase class
 
 Mewakili opsi dasar untuk mengonfigurasi OpenAICopilot.
 
@@ -18,9 +18,11 @@ public abstract class OpenAICopilotOptionsBase
 
 | Nama | Deskripsi |
 | --- | --- |
-| virtual [Model](../../aspose.pdf.ai/openaicopilotoptionsbase/model/) { get; set; } | Mendapatkan atau mengatur model yang digunakan untuk asisten. |
+| [Model](../../aspose.pdf.ai/openaicopilotoptionsbase/model/) { get; set; } | Mendapatkan atau mengatur model yang akan digunakan untuk asisten. |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf.AI](../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../)
+
+

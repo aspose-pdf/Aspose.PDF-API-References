@@ -1,12 +1,12 @@
 ---
-title: Class TimestampAlgorithmInfo
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Security.TimestampAlgorithmInfo. Mewakili kelas untuk informasi tentang algoritma tanda tangan timestamp
+title: "Kelas TimestampAlgorithmInfo"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Security.TimestampAlgorithmInfo. Mewakili kelas untuk informasi tentang algoritma tanda tangan timestamp"
 type: docs
-weight: 10030
+weight: 10210
 url: /id/net/aspose.pdf.security/timestampalgorithminfo/
 ---
-## Kelas TimestampAlgorithmInfo
+## TimestampAlgorithmInfo class
 
 Mewakili kelas untuk informasi tentang algoritma tanda tangan timestamp.
 
@@ -18,7 +18,7 @@ public sealed class TimestampAlgorithmInfo : SignatureAlgorithmInfo
 
 | Nama | Deskripsi |
 | --- | --- |
-| [SignatureName](../../aspose.pdf.security/signaturealgorithminfo/signaturename/) { get; } | Mendapatkan nama dari bidang tanda tangan. |
+| [SignatureName](../../aspose.pdf.security/signaturealgorithminfo/signaturename/) { get; } | Mendapatkan nama bidang tanda tangan. |
 
 ## Metode
 
@@ -30,13 +30,15 @@ public sealed class TimestampAlgorithmInfo : SignatureAlgorithmInfo
 
 | Nama | Deskripsi |
 | --- | --- |
-| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | Mendapatkan jenis algoritma tanda tangan yang digunakan untuk menandatangani dokumen PDF. |
-| readonly [ContentHashAlgorithm](../../aspose.pdf.security/timestampalgorithminfo/contenthashalgorithm/) | Mendapatkan algoritma hash yang meng-hash konten dokumen dan kemudian menandatanganinya menggunakan [`DigestHashAlgorithm`](../signaturealgorithminfo/digesthashalgorithm/). |
+| readonly [AlgorithmType](../../aspose.pdf.security/signaturealgorithminfo/algorithmtype/) | Mendapatkan tipe algoritma tanda tangan yang digunakan untuk menandatangani dokumen PDF. |
+| readonly [ContentHashAlgorithm](../../aspose.pdf.security/timestampalgorithminfo/contenthashalgorithm/) | Mengambil algoritma hash yang meng-hash konten dokumen dan kemudian menandatanganinya menggunakan [`DigestHashAlgorithm`](../signaturealgorithminfo/digesthashalgorithm/). |
 | readonly [CryptographicStandard](../../aspose.pdf.security/signaturealgorithminfo/cryptographicstandard/) | Mendapatkan standar kriptografi yang digunakan untuk menandatangani dokumen PDF. |
-| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | Mendapatkan algoritma hash digest yang digunakan untuk tanda tangan. Untuk timestamp, ini adalah algoritma hash digest dengan mana hash dari konten dokumen ditandatangani. |
+| readonly [DigestHashAlgorithm](../../aspose.pdf.security/signaturealgorithminfo/digesthashalgorithm/) | Mendapatkan algoritma hash digest yang digunakan untuk tanda tangan. Untuk timestamp, ini adalah algoritma hash digest yang digunakan untuk menandatangani hash konten dokumen. |
 
 ### Lihat Juga
 
-* kelas [SignatureAlgorithmInfo](../signaturealgorithminfo/)
+* class [SignatureAlgorithmInfo](../signaturealgorithminfo/)
 * namespace [Aspose.Pdf.Security](../../aspose.pdf.security/)
 * assembly [Aspose.PDF](../../)
+
+

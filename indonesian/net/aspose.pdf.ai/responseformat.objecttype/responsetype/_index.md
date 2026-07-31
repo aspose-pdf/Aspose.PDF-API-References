@@ -1,12 +1,12 @@
 ---
-title: ResponseFormat.ObjectType.ResponseType
-second_title: Aspose.PDF for .NET API Reference
-description: Properti ObjectType. Mendapatkan atau mengatur tipe nilai objek
+title: "ResponseFormat.ObjectType.ResponseType"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti ObjectType. Mendapatkan atau mengatur tipe nilai objek."
 type: docs
 weight: 20
 url: /id/net/aspose.pdf.ai/responseformat.objecttype/responsetype/
 ---
-## Properti ResponseFormat.ObjectType.ResponseType
+## ResponseFormat.ObjectType.ResponseType property
 
 Mendapatkan atau mengatur tipe nilai objek.
 
@@ -16,6 +16,8 @@ public string ResponseType { get; set; }
 
 ### Lihat Juga
 
-* kelas [ObjectType](../)
+* class [ObjectType](../)
 * namespace [Aspose.Pdf.AI](../../../aspose.pdf.ai/)
 * assembly [Aspose.PDF](../../../)
+
+

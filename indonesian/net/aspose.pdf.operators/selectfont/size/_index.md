@@ -1,12 +1,12 @@
 ---
-title: SelectFont.Size
-second_title: Aspose.PDF for .NET API Reference
-description: Properti SelectFont. Ukuran teks
+title: "SelectFont.Size"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti SelectFont. Ukuran teks"
 type: docs
 weight: 30
 url: /id/net/aspose.pdf.operators/selectfont/size/
 ---
-## Properti SelectFont.Size
+## SelectFont.Size property
 
 Ukuran teks.
 
@@ -16,6 +16,8 @@ public double Size { get; }
 
 ### Lihat Juga
 
-* kelas [SelectFont](../)
+* class [SelectFont](../)
 * namespace [Aspose.Pdf.Operators](../../../aspose.pdf.operators/)
 * assembly [Aspose.PDF](../../../)
+
+

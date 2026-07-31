@@ -1,14 +1,14 @@
 ---
-title: Class FormRemoveAllFieldsOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Plugins.FormRemoveAllFieldsOptions. Mewakili opsi untuk menghapus semua field dalam dokumen dengan plugin FormEditor
+title: "Kelas FormRemoveAllFieldsOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Plugins.FormRemoveAllFieldsOptions. Mewakili opsi untuk menghapus semua bidang dalam dokumen oleh plugin FormEditor"
 type: docs
-weight: 8780
+weight: 8910
 url: /id/net/aspose.pdf.plugins/formremoveallfieldsoptions/
 ---
-## Kelas FormRemoveAllFieldsOptions
+## FormRemoveAllFieldsOptions class
 
-Mewakili opsi untuk menghapus semua field dalam dokumen dengan plugin [`FormEditor`](../formeditor/).
+Mewakili opsi untuk menghapus semua bidang dalam dokumen oleh plugin [`FormEditor`](../formeditor/).
 
 ```csharp
 public sealed class FormRemoveAllFieldsOptions : FormEditorRemoveOptions
@@ -25,17 +25,19 @@ public sealed class FormRemoveAllFieldsOptions : FormEditorRemoveOptions
 | Nama | Deskripsi |
 | --- | --- |
 | [Inputs](../../aspose.pdf.plugins/formoptions/inputs/) { get; } | Mengembalikan koleksi data plugin Form.... |
-| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Mendapatkan koleksi target yang ditambahkan untuk hasil operasi penyimpanan. |
+| [Outputs](../../aspose.pdf.plugins/formoptions/outputs/) { get; } | Mendapatkan koleksi target yang ditambahkan untuk menyimpan hasil operasi. |
 
 ## Metode
 
 | Nama | Deskripsi |
 | --- | --- |
-| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Menambahkan sumber data baru ke koleksi data plugin Form... |
-| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Menambahkan sumber data baru ke koleksi data plugin Form... |
+| [AddInput](../../aspose.pdf.plugins/formoptions/addinput/)(IDataSource) | Menambahkan sumber data baru ke koleksi data plugin Form.... |
+| [AddOutput](../../aspose.pdf.plugins/formoptions/addoutput/)(IDataSource) | Menambahkan sumber data baru ke koleksi data plugin Form.... |
 
 ### Lihat Juga
 
-* kelas [FormEditorRemoveOptions](../formeditorremoveoptions/)
+* class [FormEditorRemoveOptions](../formeditorremoveoptions/)
 * namespace [Aspose.Pdf.Plugins](../../aspose.pdf.plugins/)
 * assembly [Aspose.PDF](../../)
+
+

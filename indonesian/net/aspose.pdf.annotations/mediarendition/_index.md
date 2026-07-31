@@ -1,14 +1,14 @@
 ---
-title: Class MediaRendition
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Annotations.MediaRendition. Kelas ini menggambarkan media rendition
+title: "Kelas MediaRendition"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Annotations.MediaRendition. Kelas menjelaskan rendisi media."
 type: docs
-weight: 2100
+weight: 2190
 url: /id/net/aspose.pdf.annotations/mediarendition/
 ---
-## Kelas MediaRendition
+## MediaRendition class
 
-Kelas ini menggambarkan media rendition.
+Kelas yang menjelaskan rendering media.
 
 ```csharp
 public sealed class MediaRendition : Rendition
@@ -18,12 +18,14 @@ public sealed class MediaRendition : Rendition
 
 | Nama | Deskripsi |
 | --- | --- |
-| [MediaClip](../../aspose.pdf.annotations/mediarendition/mediaclip/) { get; } | Mendapatkan atau mengatur objek media clip yang terkait dengan rendition. |
-| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | String teks yang menentukan nama dari rendition untuk digunakan dalam antarmuka pengguna dan untuk pencarian nama oleh aksi JavaScript. |
+| [MediaClip](../../aspose.pdf.annotations/mediarendition/mediaclip/) { get; } | Mendapatkan atau mengatur objek klip media yang terkait dengan rendisi. |
+| [Name](../../aspose.pdf.annotations/rendition/name/) { get; set; } | String teks yang menentukan nama rendition untuk digunakan dalam antarmuka pengguna dan untuk pencarian name tree oleh aksi JavaScript. |
 | [RenditionType](../../aspose.pdf.annotations/rendition/renditiontype/) { get; } | Mendapatkan tipe rendition. |
 
 ### Lihat Juga
 
-* kelas [Rendition](../rendition/)
+* class [Rendition](../rendition/)
 * namespace [Aspose.Pdf.Annotations](../../aspose.pdf.annotations/)
 * assembly [Aspose.PDF](../../)
+
+

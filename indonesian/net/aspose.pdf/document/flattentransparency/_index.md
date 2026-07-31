@@ -1,14 +1,14 @@
 ---
-title: Document.FlattenTransparency
-second_title: Aspose.PDF for .NET API Reference
-description: Metode Dokumen. Mengganti konten transparan dengan grafik raster dan vektor non-transparan
+title: "Document.FlattenTransparency"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Document metode. Mengganti konten transparan dengan grafik raster dan vektor yang tidak transparan."
 type: docs
-weight: 650
+weight: 670
 url: /id/net/aspose.pdf/document/flattentransparency/
 ---
-## Metode Document.FlattenTransparency
+## Document.FlattenTransparency method
 
-Mengganti konten transparan dengan grafik raster dan vektor non-transparan.
+Mengganti konten transparan dengan grafik raster dan vektor yang tidak transparan.
 
 ```csharp
 public void FlattenTransparency()
@@ -16,6 +16,8 @@ public void FlattenTransparency()
 
 ### Lihat Juga
 
-* kelas [Document](../)
+* class [Document](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

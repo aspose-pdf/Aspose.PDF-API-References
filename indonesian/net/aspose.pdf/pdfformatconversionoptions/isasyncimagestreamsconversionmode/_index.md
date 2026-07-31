@@ -1,14 +1,14 @@
 ---
-title: PdfFormatConversionOptions.IsAsyncImageStreamsConversionMode
-second_title: Aspose.PDF for .NET API Reference
-description: Properti PdfFormatConversionOptions. Mendapatkan/mengatur jalannya aliran gambar dalam mode asinkron
+title: "PdfFormatConversionOptions.IsAsyncImageStreamsConversionMode"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Properti PdfFormatConversionOptions. Mendapatkan/mengatur aliran gambar dalam mode async"
 type: docs
-weight: 100
+weight: 110
 url: /id/net/aspose.pdf/pdfformatconversionoptions/isasyncimagestreamsconversionmode/
 ---
-## Properti PdfFormatConversionOptions.IsAsyncImageStreamsConversionMode
+## PdfFormatConversionOptions.IsAsyncImageStreamsConversionMode property
 
-Mendapatkan/mengatur jalannya aliran gambar dalam mode asinkron.
+Mendapatkan/mengatur jalannya aliran gambar dalam mode async.
 
 ```csharp
 public bool IsAsyncImageStreamsConversionMode { get; set; }
@@ -16,6 +16,8 @@ public bool IsAsyncImageStreamsConversionMode { get; set; }
 
 ### Lihat Juga
 
-* kelas [PdfFormatConversionOptions](../)
+* class [PdfFormatConversionOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,14 +1,14 @@
 ---
-title: Position
-second_title: Aspose.PDF for .NET API Reference
-description: Mendapatkan atau mengatur posisi SubPaths di Pointaspose.pdf/point.
+title: "Position"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Mendapatkan atau mengatur posisi SubPath dalam Pointaspose.pdf/point."
 type: docs
 weight: 10
 url: /id/net/aspose.pdf.vector/subpath/position/
 ---
-## Properti SubPath.Position
+## SubPath.Position property
 
-Mendapatkan atau mengatur posisi SubPaths di [`Point`](../../../aspose.pdf/point).
+Mendapatkan atau mengatur posisi SubPath dalam [`Point`](../../../aspose.pdf/point).
 
 ```csharp
 public Point Position { get; set; }
@@ -16,8 +16,8 @@ public Point Position { get; set; }
 
 ### Lihat Juga
 
-* kelas [Point](../../../aspose.pdf/point)
-* kelas [SubPath](../../subpath)
+* class [Point](../../../aspose.pdf/point)
+* class [SubPath](../../subpath)
 * namespace [Aspose.Pdf.Vector](../../subpath)
 * assembly [Aspose.PDF](../../../)
 

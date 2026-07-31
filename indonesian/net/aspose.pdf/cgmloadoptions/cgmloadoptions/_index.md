@@ -1,7 +1,7 @@
 ---
-title: CgmLoadOptions.CgmLoadOptions
-second_title: Aspose.PDF for .NET API Reference
-description: Konstruktor CgmLoadOptions. Membuat opsi muat default untuk mengonversi file CGM menjadi dokumen pdf. Ukuran halaman pdf default A4 300dpi 2480 X 3508
+title: "CgmLoadOptions.CgmLoadOptions"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Konstruktor CgmLoadOptions. Membuat opsi muat default untuk mengonversi file CGM menjadi dokumen pdf. Ukuran halaman pdf default A4 300dpi 2480 X 3508"
 type: docs
 weight: 10
 url: /id/net/aspose.pdf/cgmloadoptions/cgmloadoptions/
@@ -16,7 +16,7 @@ public CgmLoadOptions()
 
 ### Lihat Juga
 
-* kelas [CgmLoadOptions](../)
+* class [CgmLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
 
@@ -24,7 +24,7 @@ public CgmLoadOptions()
 
 ## CgmLoadOptions(SizeF) {#constructor_1}
 
-Membuat opsi muat dengan !:pageSize yang ditentukan.
+Membuat opsi muat dengan ukuran halaman yang ditentukan !:pageSize.
 
 ```csharp
 public CgmLoadOptions(SizeF pageSize)
@@ -36,6 +36,8 @@ public CgmLoadOptions(SizeF pageSize)
 
 ### Lihat Juga
 
-* kelas [CgmLoadOptions](../)
+* class [CgmLoadOptions](../)
 * namespace [Aspose.Pdf](../../../aspose.pdf/)
 * assembly [Aspose.PDF](../../../)
+
+

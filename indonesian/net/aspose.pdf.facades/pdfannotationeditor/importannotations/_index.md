@@ -1,14 +1,14 @@
 ---
-title: PdfAnnotationEditor.ImportAnnotations
-second_title: Aspose.PDF for .NET API Reference
-description: Metode PdfAnnotationEditor. Mengimpor anotasi yang ditentukan ke dalam dokumen dari array dokumen PDF lainnya
+title: "PdfAnnotationEditor.ImportAnnotations"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Metode PdfAnnotationEditor. Mengimpor anotasi yang ditentukan ke dalam dokumen dari array dokumen PDF lain"
 type: docs
 weight: 90
 url: /id/net/aspose.pdf.facades/pdfannotationeditor/importannotations/
 ---
 ## ImportAnnotations(string[], AnnotationType[]) {#importannotations_3}
 
-Mengimpor anotasi yang ditentukan ke dalam dokumen dari array dokumen PDF lainnya.
+Mengimpor anotasi yang ditentukan ke dalam dokumen dari array dokumen PDF lain.
 
 ```csharp
 public void ImportAnnotations(string[] annotFile, AnnotationType[] annotType)
@@ -41,7 +41,7 @@ editor.Save("example_out.pdf");
 
 ## ImportAnnotations(string[]) {#importannotations_2}
 
-Mengimpor anotasi ke dalam dokumen dari array dokumen PDF lainnya.
+Mengimpor anotasi ke dalam dokumen dari array dokumen PDF lain.
 
 ```csharp
 public void ImportAnnotations(string[] annotFile)
@@ -71,7 +71,7 @@ editor.Save("example_out.pdf");
 
 ## ImportAnnotations(Stream[], AnnotationType[]) {#importannotations_1}
 
-Mengimpor anotasi yang ditentukan ke dalam dokumen dari array aliran dokumen PDF lainnya.
+Mengimpor anotasi yang ditentukan ke dalam dokumen dari array aliran dokumen PDF lain.
 
 ```csharp
 public void ImportAnnotations(Stream[] annotFileStream, AnnotationType[] annotType)
@@ -108,7 +108,7 @@ stream[1].Close();
 
 ## ImportAnnotations(Stream[]) {#importannotations}
 
-Mengimpor anotasi ke dalam dokumen dari array aliran dokumen PDF lainnya.
+Mengimpor anotasi ke dalam dokumen dari array aliran dokumen PDF lain.
 
 ```csharp
 public void ImportAnnotations(Stream[] annotFileStream)
@@ -137,3 +137,5 @@ streams[1].Close();
 * class [PdfAnnotationEditor](../)
 * namespace [Aspose.Pdf.Facades](../../../aspose.pdf.facades/)
 * assembly [Aspose.PDF](../../../)
+
+

@@ -1,12 +1,12 @@
 ---
-title: Class Operator
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Operator. Kelas abstrak yang mewakili operator
+title: "Kelas Operator"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Kelas Aspose.Pdf.Operator. Kelas abstrak yang mewakili operator."
 type: docs
-weight: 7070
+weight: 7210
 url: /id/net/aspose.pdf/operator/
 ---
-## Kelas Operator
+## Operator class
 
 Kelas abstrak yang mewakili operator.
 
@@ -24,12 +24,14 @@ public abstract class Operator
 
 | Nama | Deskripsi |
 | --- | --- |
-| abstract [Accept](../../aspose.pdf/operator/accept/)(IOperatorSelector) | Menerima pengunjung IOperatorSelector yang menyediakan pemrosesan operator. |
-| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks dari operator dan parameternya. |
+| abstract [Accept](../../aspose.pdf/operator/accept/)(IOperatorSelector) | Menerima visitor IOperatorSelector yang menyediakan pemrosesan operator. |
+| override [ToString](../../aspose.pdf/operator/tostring/)() | Mengembalikan teks operator dan parameternya. |
 | [ValueEquals](../../aspose.pdf/operator/valueequals/)(Operator) | Membandingkan instance ini dengan objek yang diberikan. |
-| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Menentukan apakah operator adalah operator yang bertanggung jawab untuk keluaran teks (Tj, TJ, dll) |
+| static [IsTextShowOperator](../../aspose.pdf/operator/istextshowoperator/)(Operator) | Menentukan apakah operator adalah operator yang bertanggung jawab untuk output teks (Tj, TJ, dll). |
 
 ### Lihat Juga
 
 * namespace [Aspose.Pdf](../../aspose.pdf/)
 * assembly [Aspose.PDF](../../)
+
+

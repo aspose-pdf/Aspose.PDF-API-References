@@ -1,12 +1,12 @@
 ---
-title: Class TextParagraph
-second_title: Aspose.PDF for .NET API Reference
-description: Kelas Aspose.Pdf.Text.TextParagraph. Mewakili paragraf teks sebagai objek teks multiline
+title: "Kelas TextParagraph"
+second_title: "Referensi API Aspose.PDF untuk .NET"
+description: "Aspose.Pdf.Text.TextParagraph class. Mewakili paragraf teks sebagai objek teks multiline."
 type: docs
-weight: 10990
+weight: 11170
 url: /id/net/aspose.pdf.text/textparagraph/
 ---
-## Kelas TextParagraph
+## TextParagraph class
 
 Mewakili paragraf teks sebagai objek teks multiline.
 
@@ -24,16 +24,16 @@ public sealed class TextParagraph
 
 | Nama | Deskripsi |
 | --- | --- |
-| [FirstLineIndent](../../aspose.pdf.text/textparagraph/firstlineindent/) { get; set; } | Mendapatkan atau mengatur nilai indentasi untuk baris berikutnya. Jika diatur ke nilai non-nol, ini memiliki keunggulan dibandingkan nilai FormattingOptions.SubsequentLinesIndent. |
-| [FormattingOptions](../../aspose.pdf.text/textparagraph/formattingoptions/) { get; set; } | Mendapatkan atau mengatur opsi pemformatan. |
+| [FirstLineIndent](../../aspose.pdf.text/textparagraph/firstlineindent/) { get; set; } | Mendapatkan atau mengatur nilai indentasi baris berikutnya. Jika diatur ke nilai non-zero, ini memiliki keunggulan dibandingkan nilai FormattingOptions.SubsequentLinesIndent. |
+| [FormattingOptions](../../aspose.pdf.text/textparagraph/formattingoptions/) { get; set; } | Mendapatkan atau mengatur opsi format. |
 | [HorizontalAlignment](../../aspose.pdf.text/textparagraph/horizontalalignment/) { get; set; } | Mendapatkan atau mengatur perataan horizontal untuk teks di dalam [`Rectangle`](./rectangle/) paragraf. |
-| [Justify](../../aspose.pdf.text/textparagraph/justify/) { get; set; } | Mendapatkan atau mengatur nilai apakah teks diratakan. |
+| [Justify](../../aspose.pdf.text/textparagraph/justify/) { get; set; } | Mendapatkan atau mengatur nilai apakah teks diratakan penuh. |
 | [Margin](../../aspose.pdf.text/textparagraph/margin/) { get; set; } | Mendapatkan atau mengatur padding. |
 | [Position](../../aspose.pdf.text/textparagraph/position/) { get; set; } | Mendapatkan atau mengatur posisi paragraf. |
-| [Rectangle](../../aspose.pdf.text/textparagraph/rectangle/) { get; set; } | Mendapatkan atau mengatur persegi panjang paragraf. |
+| [Rectangle](../../aspose.pdf.text/textparagraph/rectangle/) { get; set; } | Mendapatkan atau mengatur rectangle paragraf. |
 | [Rotation](../../aspose.pdf.text/textparagraph/rotation/) { get; set; } | Mendapatkan atau mengatur sudut rotasi dalam derajat. |
-| [SubsequentLinesIndent](../../aspose.pdf.text/textparagraph/subsequentlinesindent/) { get; set; } | Mendapatkan atau mengatur nilai indentasi untuk baris berikutnya. Jika diatur ke nilai non-nol, ini memiliki keunggulan dibandingkan nilai FormattingOptions.SubsequentLinesIndent. |
-| [TextRectangle](../../aspose.pdf.text/textparagraph/textrectangle/) { get; } | Mendapatkan persegi panjang teks yang ditempatkan di paragraf. |
+| [SubsequentLinesIndent](../../aspose.pdf.text/textparagraph/subsequentlinesindent/) { get; set; } | Mendapatkan atau mengatur nilai indentasi baris berikutnya. Jika diatur ke nilai non-zero, ini memiliki keunggulan dibandingkan nilai FormattingOptions.SubsequentLinesIndent. |
+| [TextRectangle](../../aspose.pdf.text/textparagraph/textrectangle/) { get; } | Mendapatkan rectangle teks yang ditempatkan ke paragraf. |
 | [VerticalAlignment](../../aspose.pdf.text/textparagraph/verticalalignment/) { get; set; } | Mendapatkan atau mengatur perataan vertikal untuk teks di dalam [`Rectangle`](./rectangle/) paragraf. |
 
 ## Metode
@@ -47,8 +47,8 @@ public sealed class TextParagraph
 | [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_1)(TextFragment, TextState) | Menambahkan baris teks dengan parameter status teks. |
 | [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_5)(string, TextState, float) | Menambahkan baris teks dengan parameter status teks |
 | [AppendLine](../../aspose.pdf.text/textparagraph/appendline/#appendline_2)(TextFragment, TextState, float) | Menambahkan baris teks dengan parameter status teks |
-| [BeginEdit](../../aspose.pdf.text/textparagraph/beginedit/)() | Memulai pengeditan TextParagraph. |
-| [EndEdit](../../aspose.pdf.text/textparagraph/endedit/)() | Mengakhiri pengeditan TextParagraph. |
+| [BeginEdit](../../aspose.pdf.text/textparagraph/beginedit/)() | Memulai penyuntingan TextParagraph. |
+| [EndEdit](../../aspose.pdf.text/textparagraph/endedit/)() | Mengakhiri penyuntingan TextParagraph. |
 
 ## Contoh
 
@@ -59,25 +59,25 @@ Document doc = new Document(inFile);
 
 Page page = (Page)doc.Pages[1];
 
-// create text paragraph
+// buat paragraf teks
 TextParagraph paragraph = new TextParagraph();
            
-// set the paragraph rectangle
+// atur persegi panjang paragraf
 paragraph.Rectangle = new Rectangle(100, 600, 200, 700);
 
-// set word wrapping options
+// atur opsi pembungkus kata
 paragraph.FormattingOptions.WrapMode = TextFormattingOptions.WordWrapMode.ByWords;
 
-// append string lines
+// tambahkan baris string
 paragraph.AppendLine("the quick brown fox jumps over the lazy dog");
 paragraph.AppendLine("line2");
 paragraph.AppendLine("line3");
 
-// append the paragraph to the Pdf page with the TextBuilder
+// tambahkan paragraf ke halaman Pdf dengan TextBuilder
 TextBuilder textBuilder = new TextBuilder(page);
 textBuilder.AppendParagraph(paragraph);
 
-// save Pdf document
+// simpan dokumen Pdf
 doc.Save(outFile);
 ```
 
@@ -85,3 +85,5 @@ doc.Save(outFile);
 
 * namespace [Aspose.Pdf.Text](../../aspose.pdf.text/)
 * assembly [Aspose.PDF](../../)
+
+
